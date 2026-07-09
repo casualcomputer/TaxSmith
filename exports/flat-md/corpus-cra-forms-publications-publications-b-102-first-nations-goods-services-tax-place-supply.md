@@ -1,0 +1,306 @@
+---
+title: "First Nations Goods and Services Tax - Place of Supply"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-102/first-nations-goods-services-tax-place-supply.html
+last_modified: 2021-12-24
+---
+# First Nations Goods and Services Tax - Place of Supply
+
+GST/HST Technical Information Bulletin B-102 July 2012
+
+**NOTE:** This version replaces the one dated July 2011.
+
+The information in this bulletin does not replace the law found in the Excise Tax Act (the Act) and its regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate regulation, or contact a Canada Revenue Agency GST/HST rulings office for more information. A ruling should be requested for certainty in respect of any particular GST/HST matter. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling and lists the GST/HST rulings offices. If you wish to make a technical enquiry on the GST/HST by telephone, please call 1‑800‑959‑8287.
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario, New Brunswick, and Newfoundland and Labrador, 15% in Nova Scotia, and 12% in British Columbia. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, you may refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+Effective April 1, 2013, the 12% HST in British Columbia will be replaced by the 5% GST and a provincial sales tax. It is also proposed that, effective April 1, 2013, the provincial sales tax and the 5% GST currently in effect in Prince Edward Island will be replaced by a 14% HST.
+
+If you are located in Quebec and wish to make a technical enquiry or request a ruling related to the GST/HST, please contact Revenu Québec at 1‑800‑567‑4692. You may also visit the [Revenu Québec website](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For more information on when the provincial part of the HST may apply, refer to [GST/HST Info Sheet GI-072, HST and First Nations in Ontario and British Columbia](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-072.html).
+
+## Table of Contents
+
+- [Introduction](#_Toc329683596)
+
+- [Place of supply rules](#_Toc329683597)
+
+- [Supplies made on lands where an FNGST applies](#_Toc329683598)
+
+- [Supplies of services](#_Toc329683599)
+
+    - [Rule 1](#_Toc329683600)
+
+    - [Services for which there are specific place of supply rules](#_Toc329683601)
+
+- [Sales of tangible personal property (TPP)](#_Toc329683602)
+
+- [TPP provided by way of lease, licence or similar arrangement](#_Toc329683603)
+
+    - [Period of three months or less](#_Toc329683604)
+
+    - [Period of more than three months](#_Toc329683605)
+
+- [Delivery of tangible personal property on exercise of option to purchase](#_Toc329683606)
+
+- [Specified motor vehicles supplied by way of lease, licence or similar arrangement](#_Toc329683607)
+
+- [Intangible personal property (IPP)](#_Toc329683608)
+
+- [Bringing TPP onto lands where an FNGST applies](#_Toc329683609)
+
+- [Filing requirements](#_Toc329683610)
+
+- [Imported taxable supplies where an FNGST applies](#_Toc329683611)
+
+- [Disclosure of tax](#_Toc329683612)
+
+## Introduction
+
+This bulletin explains the place of supply rules that determine how the First Nations goods and services tax (FNGST) applies to supplies where a First Nation has imposed this tax. For the most part, as long as the GST or the FNGST is collectible, it is not necessary to apply the place of supply rules, as the rate of both taxes is the same. However, under certain situations where an Indian or an Indian band acquires property or services, it will be necessary to know where the supply is considered to take place because the provincial part of the HST may apply, or the supply may be relieved of tax under section 87 of the Indian Act*.*
+
+The list of First Nations that have imposed an FNGST can be found at the [First Nations Goods and Services Tax](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-indigenous-peoples/first-nations-goods-services-tax.html) webpage. Detailed information on the place of supply rules for First Nations can be found in subsections 4(2) to (6) of the [First Nations Goods and Services Tax Act](http://laws-lois.justice.gc.ca/eng/acts/F-11.7/index.html) (FNGST Act).
+
+The FNGST Act provides authority to First Nations that have entered into an agreement with the Government of Canada to impose a First Nations tax on:
+
+- taxable supplies of property and services that are made on the lands of the First Nation;
+
+- tangible personal property that is brought onto the lands of the First Nation from a place in Canada; and
+
+- imported taxable supplies made on the lands of the First Nation.
+
+An FNGST can be imposed only on property and services that are taxable supplies for GST/HST purposes under the Act. The CRA administers the FNGST on behalf of First Nations.
+
+The rate of the FNGST imposed by a First Nation is the same as the rate of tax imposed under subsection 165(1) of the Act (i.e., the 5% GST). The FNGST replaces the GST or the federal part of the HST. As such, when the FNGST applies to a supply, the GST, or the federal part of the HST, does not. However, for supplies made in a participating province, the provincial part of the HST may also apply.
+
+The examples provided in this bulletin only address the issue of whether the FNGST applies to a supply. To determine whether the provincial part of the HST applies, see [GST/HST Technical Information Bulletin B-079, Self‑Assessment of the HST on Supplies Brought into a Participating Province](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-079.html).
+
+For more information on the FNGST, go to [First Nations Goods and Services Tax](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-indigenous-peoples/first-nations-goods-services-tax.html).
+
+## Place of supply rules
+
+Suppliers do not collect the GST/HST or the FNGST on taxable supplies made outside Canada. There are various place of supply rules in the Act that determine whether a supply is made in or outside Canada based on the nature of the supply. In addition, supplies of personal property and services made in Canada by a non-resident are deemed to be made outside Canada unless the supply is made by the non-resident in the course of a business carried on in Canada, or the non-resident is registered for GST/HST purposes.
+
+To determine whether a supply is subject to the FNGST, a person must first establish whether the supply is made in Canada under the relevant place of supply rules. If it is determined that the supply is made in Canada, different place of supply rules in the Act used to determine whether a supply is made in a participating province are then applied to determine if the supply is made on lands where an FNGST applies.
+
+Generally, when applying the provisions of the Act and its regulations, including the place of supply rules under the HST, to an FNGST situation, a person replaces the term "participating province" with the name of the First Nation in those provisions that refer to a "participating province", and then applies the rule. Generally, in those provisions that do not refer to a "participating province", the term "province" should be replaced with the name of the First Nation. When a First Nation has imposed an FNGST, the FNGST is imposed on all taxable supplies made on the lands of that First Nation described in Schedule 1 of the FNGST Act. For more detailed information on the place of supply rules that determine whether a supply is made in a participating province, see [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+GST/HST Memorandum 3-3-2 explains the current place of supply rules that determine whether a supply is made in a province. Significant changes have been made to some of the previous place of supply rules that determine whether supplies of intangible personal property and services are made in a province. The current place of supply rules for these types of supplies are explained in [GST/HST Place of Supply Memoranda Series](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst/gst-hst-memoranda-series.html) and they apply to any supply made
+
+- on or after May 1, 2010, and
+
+- after February 25, 2010 and before May 1, 2010, if the consideration for the supply did not become due, and was not paid, before May 1, 2010.
+
+## Supplies made on lands where an FNGST applies
+
+Where taxable supplies of property and services are made on the lands of a First Nation that has imposed an FNGST, the FNGST is calculated by multiplying the consideration for the supply by 5%.
+
+## Supplies of services
+
+There are three general place of supply rules described in [GST/HST Memorandum 3-3-6, Place of Supply in a Province – General Rules for Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6.html) that apply with respect to supplies of services. Rule 1 is explained below. For purposes of the FNGST, rule 1 will most often apply.
+
+### Rule 1
+
+Generally, a supply of a service is made on the lands of a First Nation that has imposed an FNGST if, in the ordinary course of business of the supplier, the supplier
+
+1. obtains only one address of the recipient that is a home or business address of the recipient in Canada and that address is situated on the lands of that First Nation,
+
+2. obtains more than one address of the recipient described in paragraph a) and the address that is most closely connected with the supply is situated on the First Nation's lands, or
+
+3. in any other case, obtains an address in Canada of the recipient that is situated on the lands of the First Nation that has imposed an FNGST and is most closely connected with the supply.
+
+The business address of the recipient from which the supplier is hired pursuant to the agreement for the supply (the "contracting address") is generally the address that is most closely connected with the supply. For additional information regarding the determination of the address of the recipient that is most closely connected with the supply, see GST/HST Memorandum 3-3-6.
+
+A corporation in British Columbia (BC Corp) is located on land where an FNGST applies that is not a reserve. BC Corp hires a supplier located in Vancouver, British Columbia, to provide advice in the form of a written legal opinion. BC Corp has an office in Ontario that is not on lands where an FNGST applies. This office handles all accounting issues, such as paying the bills, for BC Corp. The written advice is sent to the office in British Columbia and the bill is sent to the accounting office in Ontario.
+
+The supplier has obtained two business addresses of the recipient in Canada in the ordinary course of its business. The business address of the recipient that is most closely connected with the supply is the business address of the recipient in British Columbia that is on the lands of the First Nation. Therefore, the supply is made on the lands of the First Nation and the FNGST applies to the supply.
+
+Where Rule 1 does not apply, rules 2 and 3 should be applied to determine the place of supply. See [GST/HST Memorandum 3-3-6](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6.html) for information on those rules, which may be used to determine the place of supply of the service.
+
+### Services for which there are specific place of supply rules
+
+The general place of supply rules for services do not apply to the following supplies of services for which there are specific place of supply rules:
+
+- personal services,
+
+- services in relation to tangible personal property and real property,
+
+- services that relate to a location-specific event,
+
+- services rendered in connection with litigation,
+
+- customs brokerage services,
+
+- repairs, maintenance, cleaning, adjustments and alterations and photographic-related goods,
+
+- services of a trustee in respect of a trust governed by an RRSP, RRIF, RESP, TFSA, or RDSP,
+
+- premium rate telephone services,
+
+- computer-related services and internet access,
+
+- air navigation services;
+
+- passenger transportation services,
+
+- freight transportation services,
+
+- postage and mail delivery services, and
+
+- telecommunication services.
+
+Some of the place of supply rules for the services listed above have changed. For information on the current place of supply rules for these services, see one of the following:
+
+- [GST/HST Memorandum 3-3-6, Place of Supply in a Province – General Rules for Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6.html)
+
+- [GST/HST Memorandum 3-3-6-1, Place of Supply in a Province – Personal Services, Services in Relation to Property and Telecommunication Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6-1.html)
+
+- [GST/HST Memorandum 3-3-6-2, Place of Supply in a Province – Specific Rules for Services – Special Cases](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6-2.html)
+
+- [GST/HST Memorandum 3-3-7, Place of Supply in a Province – Transportation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-7.html)
+
+The following sections explain the place of supply rules that apply to two common services that may be rendered on the lands of a First Nation.
+
+#### Personal services
+
+Generally, a personal service is a service that is all or substantially all performed (90% or more) in the presence of the individual to whom it is rendered. The supply of a personal service is deemed to be made on the lands of the First Nation that has imposed an FNGST if the greatest proportion of the service is performed on those lands.
+
+A haircut is performed on lands of a First Nation that has imposed an FNGST. The supply is subject to the FNGST because the supply is made on those lands and the haircut is performed in the presence of the individual to whom it is rendered.
+
+Advisory, consulting or professional services are excluded from personal services. These services are generally subject to the general place of supply rules for services.
+
+#### Repairs, maintenance, cleaning, adjustments, alterations and photographic-related goods
+
+There are no changes to the place of supply rule where a supplier receives tangible personal property of another person for the purpose of either
+
+- supplying a service of repairing, maintaining, cleaning, adjusting or altering the property, or
+
+- producing a negative, transparency, photographic print or other photographic-related good.
+
+In this case, the supply of the service (and of any property supplied in connection with it) or of the photographic-related good is made on the lands of a First Nation if the supplier delivers the property or the photographic-related good, as the case may be, on those lands to the recipient of the supply after the service or production of the photographic-related good is completed.
+
+A corporation located in British Columbia on lands that are not a reserve and where an FNGST applies sends a piece of office equipment to a corporation in Alberta to be repaired. The Alberta corporation repairs the equipment and ships it back to the corporation in British Columbia. The repair service is supplied on the lands of the First Nation because the repaired equipment is shipped to the recipient at an address that is on the lands of the First Nation. Therefore, the repair service is subject to FNGST.
+
+## Sales of tangible personal property (TPP)
+
+Generally, a sale of TPP is considered to be made on the lands of a First Nation that has imposed an FNGST if the TPP is delivered or made available to the recipient on the lands.
+
+For purposes of this place of supply rule, TPP is deemed to be delivered on the lands of a First Nation where an FNGST applies where
+
+- the supplier ships the TPP to a destination on the lands where an FNGST applies that is specified in the contract for carriage of the TPP, or
+
+- transfers possession of the TPP to a common carrier that the supplier has retained on the recipient's behalf in order to ship the property to that destination.
+
+TPP is also deemed to be delivered on lands where an FNGST applies if the supplier sends the TPP by mail or courier to an address on these lands.
+
+An Indian who resides on lands where an FNGST applies buys furniture from a dealer that is a GST/HST registrant not located on lands where an FNGST applies. The sales invoice indicates that the dealer will deliver the furniture to the Indian's residence. The supply of the TPP is therefore made on the lands and FNGST applies to the sale.
+
+A specific place of supply rule applies to **sales** of specified motor vehicles, which can be found in [GST/HST Info Sheet GI-119, Harmonized Sales Tax – Place of Supply of Specified Motor Vehicles Delivered and Registered in a Different Province](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-119.html) and [Memorandum 3-3-3, Place of Supply in a Province ‑ Tangible Personal Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-3.html) under the heading “Sale of a specified motor vehicle”.
+
+## TPP provided by way of lease, licence or similar arrangement
+
+There are no changes to the place of supply rules for supplies of TPP made by way of lease, licence or similar arrangement.
+
+Special rules apply to determine whether a supply of TPP provided by way of lease, licence or similar arrangement (e.g., a rental) is considered to be made on the lands of a First Nation.
+
+### Period of three months or less
+
+A supply of TPP by way of lease, licence or similar arrangement for three months or less is considered to be made on the lands of a First Nation that has imposed an FNGST where the TPP is delivered, or made available, to the recipient on the lands.
+
+A person rents a video camera for three weeks from a dealer that is a GST/HST registrant located on the lands of a First Nation that has imposed an FNGST. The person picks up the camera at the dealer's location on the lands of the First Nation. The dealer charges the FNGST on the consideration for the rental of the video camera because it was made available to the person on the lands where the FNGST applies.
+
+### Period of more than three months
+
+Where a supply of TPP (excluding specified motor vehicles) is made by way of lease, licence or similar arrangement for a period of more than three months, the supply is considered to be made on the lands of the First Nation if the ordinary location of the TPP at the time the supply is made is on these lands. Under subsection 136.1(1) of the Act, a separate supply of the TPP is deemed to be made for each lease interval on the earliest of
+
+- the first day of the lease interval,
+
+- the day on which the lease payment attributable to the interval becomes due, and
+
+- the day that payment is made.
+
+If the lessee changes the ordinary location of the TPP during the term of the lease agreement, the place of supply and the tax to be charged on the subsequent lease intervals may change. Generally, the ordinary location of the property is the place that both parties mutually agree is the location of the property.
+
+A person enters into a three-year lease for a photocopier with a registrant. The photocopier will be used in an office located on the lands of a First Nation that has imposed an FNGST. Therefore, the lease payments are subject to the FNGST. Fourteen months into the lease, the office is relocated to a building off the First Nation's lands that are not a reserve. Consequently, the payments for the subsequent lease intervals are not subject to the FNGST because the ordinary location of the photocopier has changed to a location where an FNGST does not apply. However, if the ordinary location of the office is now a place where the GST/HST applies, payments for the subsequent lease intervals will be subject to the GST/HST. [GST/HST Memorandum 3-3-3](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-3.html) provides information on determining where the supplies for subsequent lease intervals are considered to be made.
+
+Generally, where an Indian or a band leases property the ordinary location of which is on a reserve, the supply is relieved of the GST/HST. However, the FNGST would apply if the reserve is part of the lands of a First Nation that has imposed an FNGST. [GST/HST Technical Information Bulletin B-039, GST/HST Administrative Policy − Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html), and [GST/HST Policy Statement P-230, Application of the Excise Tax Act to Leases, Licenses and Similar Arrangements of Tangible Personal Property by Indians, Indian Bands and Band-Empowered Entities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-230.html) provide more information on the requirements for tax relief.
+
+TIB B-039 and P-230 do not apply to First Nations where, under a Land Claims and Self-Government Agreement or a First Nation Final Agreement, or any similar agreement, the First Nation and its Indian members have given up the right to tax relief provided under section 87 of the Indian Act.
+
+An Indian residing in the Yukon is a member of a Yukon First Nation that has signed an agreement giving up tax relief under section 87 of the Indian Act. The Indian leases equipment that is used in his business and the ordinary location of the leased equipment is on lands of a First Nation that has imposed an FNGST. He is required to pay the FNGST in respect of the leased equipment.
+
+If the Indian later moves to a reserve in British Columbia where an FNGST does not apply and takes the leased equipment with him, the payments for the subsequent lease intervals will be relieved of GST/HST provided all the conditions in TIB B-039 and Policy Statement P-230 have been met. Payments for lease intervals in cases where the leased equipment is moved to a reserve but the Indian member continues to reside in the Yukon would not be relieved of tax because the provision in the agreement where members residing in the Yukon pay the tax would still apply.
+
+## Delivery of tangible personal property on exercise of option to purchase
+
+For FNGST purposes, a recipient of a supply made by way of lease, licence or similar arrangement of TPP who exercises an option to purchase the property under the arrangement is for greater certainty deemed to take delivery of the property supplied by way of sale at the place and time at which the recipient ceases to have possession of the property as a lessee and begins to have possession of the property as a purchaser. The application of the place of supply rules to the sale of TPP in this case are based on the place at which the recipient begins to have possession of the property as a purchaser rather than the place where the recipient first obtains possession of the property as a lessee.
+
+## Specified motor vehicles supplied by way of lease, licence or similar arrangement
+
+Where an **individual** acquires a specified motor vehicle (as defined in subsection 123(1) of the Act) by way of lease, licence or similar arrangement for a period of **more than three months**, the supply is considered to be made on the lands of the First Nation that has imposed an FNGST if the individual ordinarily resides on these lands at the time the supply is made. This is different from the GST/HST place of supply rule for sales of specified motor vehicles and applies only to leases of specified motor vehicles provided to an individual for more than three months.
+
+If the individual relocates to a place where an FNGST does not apply, the place of supply rules have to be reapplied to determine whether the GST/HST or section 87 of the Indian Act applies to the subsequent lease intervals.
+
+John ordinarily resides on lands where an FNGST applies. He leases a car for a period of three years. Six months into the lease, John temporarily moves to a university campus residence that is located on a reserve and takes the car with him. The lease payments continue to be subject to the FNGST because John ordinarily resides on lands where an FNGST applies.
+
+Where a person other than an individual (e.g., a band or a business) acquires a specified motor vehicle by way of lease, licence or similar arrangement for a period of more than three months, the supply is made on the lands of the First Nation where the place of supply rules in Schedule IX to the Act determine the ordinary location of the vehicle to be these lands. Where the ordinary location of the vehicle changes during the term of the lease, the tax that applies to the subsequent lease intervals (e.g., monthly) may shift from being the FNGST to being the GST/HST.
+
+For the application of the FNGST place of supply rules to specified motor vehicles supplied by way of lease, licence or similar arrangement for three months or less or for more than three months if made to a person other than an individual, please refer to [Memorandum 3-3-3](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-3.html), under the heading "Tangible personal property supplied otherwise than by way of sale".
+
+## Intangible personal property (IPP)
+
+The place of supply rules for supplies of IPP have changed. The rules vary depending on the type of IPP being supplied. For example, in the case of a ticket purchased for a sporting event, the FNGST applies where the ticket gives the ticket holder the right to attend the event on lands where an FNGST has been imposed. For details on how to determine whether a supply of IPP is made on the lands of a First Nation that has imposed an FNGST, see [GST/HST Memorandum 3-3-5, Place of Supply in a Province – General Rules for Intangible Personal Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-5.html) and [GST/HST Memorandum 3-3-5-1, Place of Supply in a Province – Specific Rules for Intangible Personal Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-5-1.html).
+
+## Bringing TPP onto lands where an FNGST applies
+
+Generally, where a person has purchased TPP relieved of the GST under section 87 of the Indian Act or some other Act of Parliament and the TPP would ordinarily have been taxable at a rate other than 0%, the person will be required to self‑assess the FNGST on the TPP when the property is taken onto the lands of a First Nation that has imposed an FNGST if, at the time the person initially purchased the TPP, that First Nation had an FNGST imposed on taxable supplies made on its lands.
+
+A person does not have to self-assess the FNGST where the GST at a rate of 5% was payable by the person in respect of a supply of TPP. As well, the person is not required to self-assess the FNGST where the GST was payable upon importation of the TPP into Canada, or where the FNGST was previously payable by the person in respect of the TPP.
+
+The requirements to self-assess the FNGST when bringing purchased TPP onto the lands where an FNGST applies generally parallel the requirements to self-assess the provincial part of the HST. As a result, the rules regarding the value on which FNGST is calculated, and when the tax is payable, are generally the same as the self-assessment rules for the provincial part of the HST under Division IV.1 of the Act. The exceptions from the requirement to self-assess the provincial part of the HST under Part I of Schedule X to the Act may be relevant for purposes of determining whether the FNGST is relieved in respect of TPP brought onto lands where the FNGST is imposed. A registrant who brings TPP onto lands where an FNGST applies continues to be relieved from the requirement to self-assess the FNGST if the TPP is consumed, used or supplied exclusively (i.e., generally 90% or more) in the registrant's commercial activities.
+
+In participating provinces, there may be instances where the person is required to self‑assess the provincial part of the HST as well as the FNGST. Self‑assessment for the provincial part of the HST is not required in all cases. See [GST/HST Technical Information Bulletin B-079, Self-Assessment of the HST on Supplies Brought into a Participating Province](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-079.html).
+
+A mobile home is deemed to be TPP for purposes of the provision dealing with the bringing of TPP onto the lands of a First Nation. TPP includes a mobile home not affixed to land and a floating home.
+
+## Filing requirements
+
+Non-registrants are required to self-assess the FNGST using [Form GST531, Return of Self-Assessment of the First Nations Goods and Services Tax (FNGST)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst531.html). Persons who are required to self‑assess the provincial part of the HST use [Form GST489, Return for Self-assessment of the Provincial Part of Harmonized Sales Tax (HST)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst489.html).
+
+Registrants required to self-assess the FNGST, and/or the provincial part of the HST, must do so on their GST/HST returns. Registrants must follow the remitting procedures for non-registrants where the consumption, use or supply of property is 50% or less in commercial activities.
+
+Where tax is payable on TPP brought from a place in Canada onto the lands of a First Nation that has imposed an FNGST, the formula found in subsection 4(8) of the FNGST Act should be applied to determine the amount of tax payable.
+
+An Indian registrant purchased equipment that cost $10,000, relieved of tax under section 87 of the Indian Act, for use 70% in his business at a time when the business was located on a reserve. Six months later, the registrant decides to relocate his business onto the lands of a First Nation that has imposed an FNGST that was effective before the date on which the registrant purchased the equipment. The fair market value of the equipment at the time of the move was $8,000. At the time of relocating the business, the registrant is required to self‑assess the FNGST by applying the formula in subsection 4(8) of the FNGST Act as follows:
+
+A × B
+
+where
+
+A is the rate of tax, which is 5% B is the lesser of the fair market value of the property at the time of relocating to the lands of the First Nation that has imposed an FNGST and the original cost of $10,000
+
+A × B = 5% × $8,000
+
+The amount of the FNGST to be self-assessed and remitted on the registrant's GST/HST return is $400.
+
+## Imported taxable supplies where an FNGST applies
+
+The FNGST applies to imported taxable supplies. An imported taxable supply generally includes services or intangible personal property that are supplied outside Canada to a person, where GST/HST did not apply in respect of the supply, for the person's consumption, use or supply in Canada. In these cases, the recipient is required to self-assess the tax owing on the supply.
+
+The rules as to whether an imported taxable supply is made on lands where an FNGST applies generally parallel the rules under Division IV of the Act that determine whether an imported taxable supply is made in a participating province. [GST/HST Technical Information Bulletin B-081, Application of the HST to Imports](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-081.html), provides more information on these rules. The recipient of an imported taxable supply is required to self-assess the FNGST where it is determined that an imported taxable supply is to be consumed, used or supplied on lands where an FNGST applies.
+
+Registrants are required to report the FNGST, and the provincial part of the HST where applicable, on imported taxable supplies on their GST/HST return. Non‑registrants are required to use [Form GST59, GST/HST Return for Imported Taxable Supplies, Qualifying Consideration, and Internal and External Charges](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst59.html) to report FNGST, and the provincial part of the HST where applicable.
+
+## Disclosure of tax
+
+As with GST/HST, sales invoices for the FNGST must indicate the amount of tax payable or paid, or indicate that the tax is included in the price. As the FNGST is seamless with the GST/HST, there is no requirement to specify that it is the FNGST and not the GST/HST that is being charged.
+
+## Enquiries by telephone
+
+**Technical enquiries on the GST/HST:** 1-800-959-8287
+
+**General enquiries on the GST/HST:** 1-800-959-5525 (Business Enquiries)
+
+**If you are located in Quebec:** 1-800-567-4692 (Revenu Québec)
+
+All technical publications on GST/HST are available on the CRA Web site at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).

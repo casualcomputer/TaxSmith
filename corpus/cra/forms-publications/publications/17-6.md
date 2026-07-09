@@ -1,0 +1,14 @@
+---
+title: "17-6 Definition of Listed Financial Institution"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6.html
+last_modified: 2026-06-03
+---
+# 17-6 Definition of Listed Financial Institution
+
+This memorandum explains the meaning of the term **listed financial institution** (LFI) and provides details on who is a listed financial institution and/or a selected listed financial institution under the Excise Tax Act.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [17-6-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6/definition-listed-financial-institution.html)

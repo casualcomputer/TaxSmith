@@ -1,0 +1,125 @@
+Title: ARCHIVED - Non-Resident Beneficiaries of Trusts
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it465r/archived-non-resident-beneficiaries-trusts.html
+Corpus path: corpus/cra/forms-publications/publications/it465r/archived-non-resident-beneficiaries-trusts.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Non-Resident Beneficiaries of Trusts
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-465R**
+
+DATE: September 19, 1985
+
+SUBJECT: INCOME TAX ACT**Non-Resident Beneficiaries of Trusts**
+
+REFERENCE: Non-Resident Beneficiaries of Trusts
+
+This bulletin replaces and cancels IT-465 dated December 26, 1980. Current revisions are designated by vertical lines. Proposals contained in the Notices of Ways and Means Motions of May 9 and May 23, 1985 are not considered in this release.
+
+UNLESS OTHERWISE STATED, A TRUST IN THIS BULLETIN MEANS A TRUST RESIDENT IN CANADA
+
+1. This bulletin discusses the tax treatment of various kinds of payments from a trust resident in Canada to a non-resident beneficiary and should be read in conjunction with IT-381R.
+
+2. Paragraph 212(1)(c) provides that every non-resident person shall pay Part XIII tax at the applicable rate on every amount that a person resident in Canada pays or credits, or is deemed by Part I to pay or credit, to the non-resident as or on account of income of or from an estate or trust. Part XIII tax must be withheld by the payer and remitted to the Receiver General on behalf of the non-resident in accordance with subsection 215(1).
+
+3. An exception in the provisions of paragraph 212(1)(c) is made where such income is a taxable capital gain of a mutual fund trust that is paid or credited to a non-resident beneficiary of that trust and is designated by the trust under subsection 104(21) in respect of that beneficiary. For a discussion of the general rules concerning capital gains and trusts, see IT-381R.
+
+4. Pursuant to subsection 214(1), the tax payable under paragraph 212(1)(c) is payable on the gross amounts described therein without any deduction from those amounts whatever.
+
+5. Pursuant to paragraph 214(3)(f), where any part of the income of a trust is "payable" (see IT-286R and IT-342R) to a non-resident beneficiary in a trust's taxation year, the amount that would, if Part I were applicable, be required by subsection 104(13) to be included in the non-resident beneficiary's income is subject to Part XIII tax on the earlier of
+
+(a) the day the amount was paid or credited, and
+
+(b) the day that is 90 days after the end of the trust's taxation year.
+
+Where an amount has been taxed by virtue of this rule, no further tax is exigible; e.g. where the amount is subsequently paid.
+
+6. Subject to the exemptions in subsections 212(9), (10),(11.1) and (11.2) discussed in 9 to 15 below, subsection 212(11) provides that any amount paid or credited by a trust to a beneficiary (otherwise than on a distribution or payment of capital) shall be deemed for the purpose of paragraph 212(1)(c) to have been paid as income of the trust regardless of the source from which the trust derived it. Even if the amount so paid or credited was received by the trust in a form which, if it had been paid directly to the non-resident beneficiary, would have been exempt from Part XIII tax, subsection 212(11) applies to render that amount subject to tax under paragraph 212(1)(c) when it is paid or credited to the non-resident by the trust.
+
+7. It is the Department's view that subsection 83(1) dividends received in a taxation year by a trust and paid or payable to a non-resident beneficiary in the same taxation year are subject to tax under paragraph 212(1)(c) by virtue of subsection 212(11), even though such dividends would not be subject to tax under subsection 212(2) if paid directly to the non-resident beneficiary.
+
+8. Similarly, interest that would ordinarily be exempt from Part XIII tax under paragraph 212(1)(b) is subject to tax under paragraph 212(1)(c) when received by a trust and distributed to a non-resident beneficiary.
+
+EXEMPTIONS
+
+9. Paragraph 212(9)(a) provides an exemption from tax under paragraph 212(1)(c) in the case of an amount paid or credited to a non-resident beneficiary as income of or from a trust if it may reasonably be regarded as having been derived from dividends or interest received by the trustee from a non-resident-owned investment corporation (as defined in paragraph 133(8)(d)) provided the dividends and interest would have been exempt from Part XIII tax if paid by the non-resident- owned investment corporation directly to the non-resident person.
+
+10. Paragraph 212(9)(b) provides an exemption from tax under paragraph 212(1)(c) in the case of an amount paid or credited to a non-resident beneficiary as income of or from a trust if it may reasonably be regarded as having been derived from a copyright royalty in respect of the production or reproduction of a literary, dramatic, musical or artistic work, which would have been exempt from Part XIII tax if paid directly to the non-resident person.
+
+11. Subsection 212(10) exempts from tax under paragraph 212(1)(c) amounts paid or credited to a non-resident beneficiary as income of or from a trust, where the following conditions are satisfied:
+
+(a) the trust was established before January 1, 1949
+
+(b) all the beneficiaries of the trust were resident during the taxation year in one country other than Canada, and
+
+(c) all amounts included in computing the income of the trust for the taxation year were received from persons resident in that country.
+
+12. Subsection 104(8) restricts the amount that a trust (other than a mutual fund trust) may, by virtue of subsection 104(6), deduct in computing its income. This restriction applies where any "designated income" (see 13 below) of a trust is payable to a "designated beneficiary" (see 14 below) and causes such a beneficiary's share of such income to be taxed in the hands of the trust under Part I of the Act. (The operation of subsection 104(8) is illustrated in IT-381R).
+
+13. "Designated income" of a trust for a taxation year is described in paragraph 108(1)(d.1) as the aggregate of its incomes for the year from
+
+(a) real property in Canada,
+
+(b) timber resource properties,
+
+(c) Canadian resource properties,
+
+(d) businesses carried on in Canada, and
+
+(e) taxable capital gains, less allowable capital losses arising on the disposition of taxable Canadian property as defined in paragraph 115(1)(b)
+
+before making any deduction therefrom in respect of
+
+(f) terminal losses (subsection 20(16)),
+
+(g) amounts payable to a beneficiary of the trust (subsection 104(6)),
+
+(h) amounts included in the income of a preferred beneficiary (subsection 104(12)),
+
+(i) amounts paid for upkeep, maintenance or taxes with respect to property (subsection 105(2)), and
+
+(j) capital cost allowance (paragraph 20(1)(a))
+
+but after making deductions therefrom in respect of losses, if any, for the taxation year from
+
+(k) real property in Canada,
+
+(l) timber resource properties, and
+
+(m) businesses carried on in Canada,
+
+except that for the purpose of subparagraph 104(8)(f)(i), designated income does not include
+
+(n) where the trust is a trust described in paragraph 104(4)(a) (i.e. a spouse trust) any designated income arising from deemed dispositions after November 12, 1981 under subsection 104(4), 104(5) or 107(4) or from deemed dispositions after September 30, 1983 under subsection 104(5.1), and
+
+(o) where the trust is a testamentary trust, any designated income that arose from dispositions that occurred before November 13, 1981.
+
+14. A "designated beneficiary", as referred to in 12 above, is described in subsection 104(8) as a beneficiary of a trust to whom is payable an amount in respect of the income for the taxation year of the trust if, at the time the amount became so payable, the beneficiary was
+
+(a) a non-resident person,
+
+(b) a non-resident-owned investment corporation, or
+
+(c) a trust resident in Canada, other than
+
+(i) a trust that is exempt from tax under Part I of the Act by virtue of subsection 149(1), or
+
+(ii) a trust, all the beneficiaries of which, throughout the period beginning on May 6, 1974 and ending at that time, were resident in Canada.
+
+15. Pursuant to the provisions of subsections 104(6) and (13), the amount of income of a trust for a taxation year that is payable, within the meaning of subsections 104(18) and (24), to a beneficiary is subject to tax as income in the beneficiary's hands and not in the hands of the trust. However, where the trust is precluded (see 12 above) from deducting an amount of income that is payable to a beneficiary, such amount is also subject to tax in the hands of the trust. To eliminate this double taxation, subsections 212(11.1) and (11.2) permit the trust to designate the amount that would be included in the incomes for the year of both the trust and the beneficiary. The amount of trust income so designated will be deemed not to have been payable to the beneficiary in the year and will therefore not be subject to tax under paragraph 212(1)(c). Income so designated and included in the computation of trust income will not be subject to tax in the hands of the beneficiary when the amount thereof remaining after any tax thereon is paid out to the beneficiary. The designation of an amount as provided by subsections 212(11.1) and (11.2) is to be made by a trust in its return of income for the year under Part I of the Act.
+
+16. Where a non-resident beneficiary is a resident of the United States, Article XXII of the Canada - United States Income Tax Convention (1980) exempts from Part XIII tax any portion of the trust's income paid or credited to the non-resident that can be shown to be out of income received from sources outside Canada. Where the trust's income arose from sources inside Canada, Article XXII limits the Part XIII tax to 15% of the gross amount paid or credited to the United States' resident beneficiary.
+
+TAXABLE CAPITAL GAINS
+
+17. Taxable capital gains of a trust that are payable to a non -resident beneficiary are subject to Part XIII tax unless the exemptions in paragraph 212(1)(c) or subsections 212(11.1) and 212(11.2) apply (see 3 and 12 to 15 above). It has been suggested that a payment of such gains is exempt from Part XIII tax as a "payment of capital" within the meaning of subsection 212(11) (discussed in 6 above), since, under trust law, capital gains generally form part of the capital of the trust. The Department's view is that a distribution of taxable capital gains is a distribution of trust income for tax purposes. On the other hand, a payment of the non-taxable portion of the trust's capital gains does qualify for exemption under subsection 212(11).

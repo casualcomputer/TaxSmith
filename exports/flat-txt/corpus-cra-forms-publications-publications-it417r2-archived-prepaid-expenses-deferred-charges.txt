@@ -1,0 +1,183 @@
+Title: ARCHIVED - Prepaid Expenses and Deferred Charges
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it417r2/archived-prepaid-expenses-deferred-charges.html
+Corpus path: corpus/cra/forms-publications/publications/it417r2/archived-prepaid-expenses-deferred-charges.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Prepaid Expenses and Deferred Charges
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-417R2**
+
+DATE: February 10, 1997
+
+SUBJECT: INCOME TAX ACT**Prepaid Expenses and Deferred Charges**
+
+REFERENCE: Section 9 and subsection 18(9) (also subsections 18(9.2) to (9.8))
+
+### Notice -- Bulletins do not have the force of law
+
+***This document is also [available for download in PDF format](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it417r2.html).***
+
+## Contents
+
+- *[Application](#P67_2493)*
+
+- *[Summary](#P69_2590)*
+
+- *[Discussion and Interpretation](#P71_3290)*
+
+    - [Introduction](#P72_3319) (¶ 1)
+
+    - [Prepaid Expenses](#P75_4144) (¶ 2)
+
+    - [Deferred Charges](#P77_4625) (¶ 3)
+
+    - [Pre-Production or Start-up Costs of a New Business](#P99_10271) (¶s 4-6)
+
+    - [Pre-Production or Start-up Costs of a New Business](#P99_10271) (¶ 7)
+
+    - [Prepaid Interest](#P101_10710) (¶ 8)
+
+    - [General](#P103_12002) (¶s 9-12)
+
+- *[Explanation of Changes](#P126_15737)*
+
+## Application
+
+This bulletin replaces and cancels Interpretation Bulletin IT-417R dated July 5, 1982.
+
+## Summary
+
+Prepaid expenses and deferred charges both represent costs incurred or laid out from which benefit is expected to be derived after the current fiscal period. As such, unless the *Income Tax Act* provides otherwise, the accounting for these expenses for income tax purposes should be in accordance with generally accepted accounting principles which would, in most cases, require that the expenses be matched to the year in which the benefit is to be derived (the "matching principle"). Subsection 18(9) ensures that the matching principle governs by requiring taxpayers to defer and amortize prepaid expenses over the period to which they reasonably relate when computing profit under section 9.
+
+## Discussion and Interpretation
+
+## Introduction
+
+**¶ 1.** This bulletin applies to taxpayers who calculate their income on the accrual basis. The comments in this bulletin do not apply to the cost or value of any property that is required to be included in a taxpayer's inventory, to the amount of any expenditure made to acquire land or any property that is described in Schedule II to the *Income Tax Regulations* or to any expenditure that adds to the value of property in an inventory as, for example, the addition of interest and property taxes to the cost of land held by a land developer. For the Department's views on those matters reference should be made to the current versions of IT-51, *Supplies on Hand at the End of a Fiscal Period*; IT-153, *Land Developers -- Subdivision and Development Costs and Carrying Charges on Land* and IT-261, *Prepayments of Rents*.
+
+## Prepaid Expenses
+
+**¶ 2.** A prepaid expense occurs where an outlay or expense has been made or incurred by a taxpayer in a particular taxation year and it represents, for example, all or part of the cost of services which will be provided to the taxpayer after the fiscal year end. For example, a premium paid in advance to obtain a fire insurance policy, which provides protection for a period extending beyond the year in which the expenditure was made, is one type of prepaid expense.
+
+## Deferred Charges
+
+**¶ 3.** Deferred charges represent costs of services already received that may reasonably be expected to produce benefits in terms of increased revenues or reduced costs in future periods. An example of a deferred charge is organization expenses, that is, the costs incurred in setting up in business. The professional and administrative fees incurred in connection with incorporating a business are examples of such costs.
+
+## General Legislative Framework
+
+**¶ 4.** As a general rule, taxpayers are required by section 9 to use the accrual method of accounting to calculate the income from a business or property. In calculating income for tax purposes, accounting for prepaid expenses and deferred charges should, in most cases, be in accordance with the matching principle, a generally accepted accounting principle, except where the *Income Tax Act* provides otherwise (for example, see paragraph 20(1)(*e*) and section 37). For prepaid expenses this would involve deducting the applicable expenditures in the years in which the relevant service is provided to the taxpayer. For deferred charges it may require that part or all of the expense be deferred to future years and amortized on a reasonable and systematic basis.
+
+"Running expenses" are an exception to the above general rule and may be deducted in the year they are incurred unless the rules in subsection 18(9) apply. The determination of whether a particular expense can be classified as a "running expense" is a question of fact. The courts have described "running expenses" as expenses that are not referrable or related to any particular item of revenue and would include any expenses that are necessarily incurred on a continuing and recurring basis for the general purpose of producing income.
+
+**¶ 5.** Subsection 18(9) requires a taxpayer to match certain outlays or expenses to the taxation year to which they can reasonably be considered to relate. While this subsection does not cover deferred charges or all types of expenses that can be prepaid, it is considered that the *Income Tax Act* requires that all material costs that clearly relate to future periods be expensed in those periods if failure to defer the expense would distort the net profit not only for the year during which the expense was incurred but also for the subsequent year or years to which the benefit relates. The determination of materiality is a matter of judgement for which no *de minimus* rules have been established. The present practice of disregarding adjustments for insignificant amounts will be continued.
+
+**¶ 6.** Subsection 18(9) provides that, notwithstanding any other provision of the *Income Tax Act*, in calculating a taxpayer's income for a taxation year from a business or property a deduction is denied for certain outlays or expenses.
+
+Paragraph 18(9)(*a*) disallows a deduction to the extent that the outlays and expenses can reasonably be regarded as having been made or incurred
+
+(a) as consideration for services to be rendered after the end of the year,
+
+(b) for interest, taxes (other than taxes on insurance premiums), rent or royalties for a period after the end of the year, or
+
+(c) as consideration for insurance for a period after the end of the year, except for
+
+(i) consideration for reinsurance, where the taxpayer is an insurer, or
+
+(ii) consideration paid after February, 1994, for the life insurance of an individual under a group term life insurance policy where all or part of the consideration is for insurance that is (or would be if the individual survived) for a period that ends more than 13 months after the consideration is paid.
+
+Except for an outlay or expense for interest made or incurred by a corporation, partnership or trust (see [¶ 8](#P102_10728) below), a deduction for an outlay or expense that because of paragraph 18(9)(*a*) cannot be taken in one year may be deducted, pursuant to paragraph 18(9)(*b*), in calculating a taxpayer's income for the subsequent year to which the outlay or deduction can reasonably be considered to relate.
+
+Paragraph 18(9)(*d*) provides that the limitation for deducting prepaid expenses contained in paragraph 18(9)(*a*) does not apply to a payment for scientific research and experimental development referred to in subparagraphs 37(1)(*a*)(ii) or (iii) provided
+
+(d) the payment is made by a taxpayer to a person or partnership with which the taxpayer deals at arm's length, and
+
+(e) the payment is not an expenditure described in subparagraph 37(1)(*a*)(i).
+
+(For payments made before 1996, paragraph 18(9)(*d*) provided that paragraph 18(9)(*a*) did not apply to a payment referred to in clause 37(1)(*a*)(ii)(E).) See the current version of IT-151, *Scientific Research and Experimental Development Expenditures* for further commentary on section 37.
+
+Paragraph 18(9)(*e*) provides that for the purposes of section 37 and the definition of "qualified expenditure" for investment tax credit purposes, an expenditure that is not deductible in a taxation year because of the application of paragraph 18(9)(*a*), is deemed
+
+(f) not to be made or incurred by a taxpayer in the year, and
+
+(g) to be made or incurred by the taxpayer in the subsequent taxation year to which the expenditure can reasonably be considered to relate.
+
+Subsection 18(9) does not apply in calculating the income of a farming or fishing business where the taxpayer follows the cash method of reporting income as provided for in subsection 28(1). However, see the note at the end of the bulletin for a description of a proposed amendment to paragraph 28(1)(*e*) and the addition of paragraph 28(1)(*e*.1). For a discussion of the cash method of reporting income, see the current version of IT-433, *Farming or Fishing -- Use of Cash Method*.
+
+## Pre-Production or Start-up Costs of a New Business
+
+**¶ 7.** Pre-production or start-up costs of a new business, to the extent that they are not capital outlays, must be claimed in the year in which they are incurred. The start-up costs of a retail store could include for example, expenses relating to the period prior to opening for such things as leasing space, advertising and employee salaries incurred in training and setting out inventory.
+
+## Prepaid Interest
+
+**¶ 8.** Subsections 18(9.2) to (9.8) apply to borrowers that are corporations, partnerships or trusts. The subsections provide rules concerning the calculation of the amount of interest deemed to be payable where interest has been prepaid on a debt that consists of either borrowed money or an amount payable for property. Essentially, subsection 18(9.2) reduces the amount of interest payable for a particular taxation year if interest on the debt has been prepaid for future years. However, interest actually payable on the debt in excess of the amount determined under subsection 18(9.2) is eligible for recognition in later years as each prepaid interest period passes. Subsection 18(9.3) creates a special set of rules for the tax treatment of interest on debt which has been settled or extinguished or where the creditor acquires or reacquires property of the debtor where the debt forgiveness rules of sections 79 and 80 apply. Subsections 18(9.4) to (9.8) provide additional rules relating generally to the application of subsection 18(9.2). The rules in subsections 18(9.2) to (9.8) do not affect the tax position of the holder of the debt. For a complete discussion of the subsections, please refer to the related Explanatory Notes provided by the Department of Finance.
+
+## General
+
+**¶ 9.** Where expenses incurred in one year are to be deferred and written off over one or more subsequent years, the number of years in the amortization period should reasonably reflect the duration of time over which the benefit is expected to accrue. Where, in a particular taxation year, it becomes apparent that the benefit will not last as long as previously anticipated, the amortization period should be terminated or reduced so that the unamortized amount is written off in the year or over the remaining period to which it can reasonably be considered to relate, as the case may be.
+
+**¶ 10.** It is an essential requirement of generally accepted accounting principles that the method of accounting be consistent from year to year. Such consistency is also required for income tax purposes. Where the method of accounting for prepaid expenses or deferred charges is changed, the Department will accept the change if it is reasonable in the circumstances, it does not result in any undue tax advantage and it is in accordance with generally accepted accounting principles and the *Income Tax Act*.
+
+**¶ 11.** Notwithstanding the comments in [¶ 5](#P05) above concerning materiality, where a prepayment is made to a non-arm's length party and the primary reason for the transaction was the reduction or avoidance of tax, an adjustment will be required unless the amount involved is insignificant.
+
+**¶ 12.** Where there has been an amalgamation of two or more corporations, as defined in section 87 (see the current version of IT-474, *Amalgamations of Canadian Corporations*), paragraph 87(2)(*j*.2) provides that the new corporation is deemed, for the purposes of subsection 18(9), among others, to be the same corporation as, and a continuation of, each predecessor corporation. Similarly, where there has been a winding-up of a taxable Canadian corporation to which subsection 88(1) applies (see the current version of IT-488, *Winding-up of 90%-Owned Taxable Canadian Corporations*), paragraph 88(1)(*e*.2) states that paragraph 87(2)(*j*.2) applies so that the parent corporation is deemed for the purposes of subsection 18(9) to be the same corporation and a continuation of its subsidiary.
+
+***Note:***
+
+*On June 20, 1996, the Minister of Finance issued a* Ways and Means Motion Amending the Income Tax Act and Related Acts*. The Motion proposes to amend section 28 by revising paragraph 28(1)(*e*) and adding paragraph 28(1)(*e*.1).*
+
+*Section 28 provides rules concerning the computation of income for farmers and fishermen who use the cash method of accounting for income tax purposes.*
+
+*Explanatory Notes issued with the Motion describe that paragraph 28(1)(*e*) will be amended to provide that payments (other than for inventory) that reduce cash-basis income of a farming or fishing business for a year do not include prepaid expenses relating to a taxation year of the business that is two or more taxation years after the year of payment. The Notes indicate that paragraph 28(1)(*e*.1) will provide a deduction in a taxpayer's taxation year for amounts paid in a previous year by the taxpayer where the amounts would be deductible in computing income for the current taxation year from the taxpayer's business of farming or fishing if that income were not computed in accordance with the cash method. To be deductible by a taxpayer the amount will be required to have been paid by the taxpayer in a preceding taxation year in the course of carrying on the business of farming or fishing and not be deductible in computing the income of the business for any other taxation year.*
+
+*The amendments, if enacted as proposed, will apply to amounts paid after April 26, 1995, except for amounts paid pursuant to written agreements entered into by the payer before April 27, 1995.*
+
+## Explanation of Changes
+
+## Introduction
+
+The purpose of the *Explanation of Changes* is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+## Reasons for the Revision
+
+We have revised the bulletin to add a brief discussion of "running expenses" as an exception to the matching principle for prepaid expenses and deferred charges and to reflect amendments to the *Income Tax Act* resulting from S.C. 1994 c.7 Schedule VIII (S.C. 1993 c.24 -- formerly Bill C-92), S.C. 1995 c.3 (formerly Bill C-59), S.C. 1995 c.21 (formerly Bill C-70), S.C. 1996 c.21 (formerly Bill C-36) and the *Ways and Means Motion Amending the Income Tax Act and Related Acts* issued by the Minister of Finance on June 20, 1996. Except as described in the note following ¶ 12, the comments in the bulletin are not affected by any other proposed legislation that has been released before November 12, 1996.
+
+## Legislative and Other Changes
+
+The bulletin has been reorganized to discuss the meaning of "prepaid expenses" and "deferred charges" before describing the law; consequently, ¶ [2](#P76_4162) is the former ¶ 4 and ¶ [3](#P78_4643) is the former ¶ 5.
+
+¶ [4](#P80_5091), former ¶ 2, has been revised to describe that "running expenses" are an exception to the matching principle. The term "running expenses" is not defined in the *Income Tax Act* but its meaning has been developed through the jurisprudence. For example, see *Vallambrosa* *Rubber Co. Ltd. v. Farmer* (5 TC 529), *Minister of National Revenue v. Tower Investment Inc.* (72 DTC 6161, [1972] CTC 182), *Oxford Shopping Centres Ltd. v. The Queen* (79 DTC 5458, [1980] CTC 7), and *The Queen v. Canderel Limited* (95 DTC 5101, [1995] 2 CTC 22).
+
+¶ [6](#P83_7178) has been added to describe subsection 18(9). The subsection initially disallows a deduction for certain outlays and expenses in the year but subsequently permits the deduction of those outlays or expenses in a later year when it is reasonable to consider that they relate to that year.
+
+¶ [8](#P102_10728) has been added to briefly describe subsections 18(9.2) to (9.8). The subsections apply to borrowers that are corporations, partnerships or trusts and provide a comprehensive set of rules where there has been a prepayment of interest which is, in effect, a repayment of the principal.
+
+¶ [12](#P107_13387) has been added to describe how outlays or expenses which are subject to subsection 18(9) are treated following an amalgamation or winding-up of a corporate taxpayer.
+
+A note has been added at the end of the bulletin to describe a proposed amendment to paragraph 28(1)(*e*) and the addition of paragraph 28(1)(*e*.1). The amendments, if enacted as proposed, will affect the deduction of prepaid expenses of a taxpayer in the business of farming or fishing who uses the cash method of accounting for income from such a business for income tax purposes and will apply to amounts paid after April 26, 1995, except for amounts paid pursuant to written agreements entered into by the taxpayer before April 27, 1995.
+
+Throughout the bulletin we have changed some of the wording to improve clarity.
+
+### Notice -- Bulletins do not have the force of law
+
+Interpretation bulletins (ITs) provide Revenue Canada's technical interpretations of income tax law. Due to their technical nature, ITs are used primarily by departmental staff, tax specialists, and other individuals who have an interest in tax matters. For those readers who prefer a less technical explanation of the law, the Department offers other publications, such as tax guides and pamphlets.
+
+While the ITs do not have the force of law, they can generally be relied upon as reflecting the Department's interpretation of the law to be applied on a consistent basis by departmental staff. In cases where an IT has not yet been revised to reflect legislative changes, readers should refer to the amended legislation and its effective date. Similarly, court decisions subsequent to the date of the IT should be considered when determining the relevancy of the comments in the IT.
+
+An interpretation described in an IT applies as of the date the IT is published, unless otherwise specified. When there is a change in a previous interpretation and the change is beneficial to taxpayers, it is usually effective for all future assessments and reassessments. If the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date of the IT.
+
+A change in a departmental interpretation may also be announced in the *Income Tax Technical News*.
+
+***If you have any comments regarding matters discussed in this IT, please send them to:***
+
+***Director, Business and Publications Division Income Tax Rulings Directorate Policy and Legislation Branch Revenue Canada Ottawa ON K1A 0L5***

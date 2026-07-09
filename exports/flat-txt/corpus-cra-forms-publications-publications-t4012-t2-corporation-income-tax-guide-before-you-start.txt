@@ -1,0 +1,905 @@
+Title: T2 Corporation – Income Tax Guide – Before you start
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html
+Corpus path: corpus/cra/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.md
+Document type: publication
+Last modified: 2026-05-28
+
+# T2 Corporation – Income Tax Guide – Before you start
+
+## References in this guide
+
+All legislative references are to the [Income Tax Act](https://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html) and the [Income Tax Regulations](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._945/) of Canada, unless stated otherwise. This guide does not replace the Income Tax Act or its regulations.
+
+This guide also refers to information circulars (ICs) and interpretation bulletins (ITs) that the CRA publishes to give you more technical information. A new series of technical publications, called the income tax folios, is progressively replacing the interpretation bulletins. This process is taking place over several years. To be notified of new or updated income tax folios, subscribe to the [Electronic mailing list – Income Tax Technical Publications](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-income-tax-technical-publications.html).
+
+Many of CRA's publications, including forms, schedules, ICs, ITs, and folios are available at [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html). A table at the end of this guide [lists forms by number](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-appendices.html).
+
+## AgriStability and AgriInvest programs
+
+The CRA is not involved in administering the AgriStability and AgriInvest programs for corporations. For more information on these programs, go to [AgriStability](https://agriculture.canada.ca/en/programs/agristability) and [AgriInvest](https://agriculture.canada.ca/en/programs/agriinvest).
+
+## CRA's service pledge
+
+The CRA will process 95% of T2 corporation income tax returns filed electronically within 45 days.
+
+## Find out if you have to file a T2 return
+
+### Resident corporations
+
+All corporations — including non-profit organizations, tax-exempt corporations, and inactive corporations — have to file a T2 return for every tax year, even if there is no tax payable. The only exceptions to this rule are tax-exempt Crown corporations, Hutterite colonies, and corporations that were registered charities throughout the year.
+
+### Non-resident corporations
+
+A non-resident corporation has to file a T2 return if, at any time in the year, one of the following situations applies:
+
+- it carried on business in Canada
+
+- it had a taxable capital gain
+
+- it disposed of taxable Canadian property, unless the disposition meets all the criteria listed [below](#crtr)
+
+This requirement applies even if the corporation claims that any profits or gains realized are exempt from Canadian income tax due to the provisions of a tax treaty.
+
+**Business** is defined in subsection 248(1) and the extended meaning of **carrying on business** (in Canada) is defined in section 253.
+
+The references to **taxable capital gain** do not include any gain resulting from the disposition of shares that are listed on a designated stock exchange (other than taxable Canadian property).
+
+A non-resident corporation also has to file a T2 return in a number of situations, including:
+
+- when it has filed [Form NR6, Undertaking to File an Income Tax Return by a Non-Resident Receiving Rent from Real or Immovable Property or Receiving a Timber Royalty](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr6.html), to pay Part I tax on the net amount of timber royalty income or rental income from real property under subsection 216(4) for the current year and the CRA approved it
+
+- when it has filed [Form T1288, Application by a Non-Resident of Canada (Corporation) for a Reduction in the Amount of Non-Resident Tax Required to Be Withheld on Income Earned from Acting in a Film or Video Production](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1288.html), to pay Part I tax on the net amount of acting services under subsection 216.1(1) for the current year and the CRA approved it
+
+Even if neither of these requirements applies, a non-resident corporation may still want to file a return if any of the following situations apply:
+
+- when it wants to claim a refund
+
+- when it wants to elect to pay Part I tax on the net amount of timber royalty income or rental income from real property under subsection 216(1) for the current year
+
+- when it wants to elect to pay Part I tax on the net amount of acting services under subsection 216.1(1) for the current year
+
+Non-resident corporations must file their T2 return, schedules (including the new [Schedule 130, Excessive Interest and Financing Expenses Limitation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch130.html), if applicable), and the General Index of Financial Information in Canadian funds only. They are not eligible to file in a functional currency per section 261.
+
+If you have questions about non‑resident returns, go to [Businesses – International and non-resident taxes](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/businesses-international-non-resident-taxes.html).
+
+#### Dispositions of taxable Canadian property (certificates of compliance)
+
+A non-resident corporation that disposes of taxable Canadian property must notify the CRA and may be required to get a certificate of compliance under section 116. For details, see [Information Circular IC72-17, Procedures Concerning the Disposition of Taxable Canadian Property by Non-residents of Canada – Section 116](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic72-17.html).
+
+A non-resident corporation that has a taxable capital gain or disposed of taxable Canadian property, including a corporation that may have received a certificate of compliance from the CRA, has to file a return, unless the disposition meets all the following criteria:
+
+- no tax is payable under Part I for the tax year
+
+- the corporation is not liable to pay any amount under the Act for any previous tax year (other than an amount covered by adequate security under section 116 or 220)
+
+- each taxable Canadian property disposed of in the tax year is one of the following:
+
+    - excluded property under section 116
+
+    - property for which a certificate was issued under section 116
+
+Taxable Canadian property excludes shares of corporations, and certain other interests, that, during the 60-month period ending at the time of determination, do not derive their value principally from real or immovable property situated in Canada (including Canadian resource property and timber resource property).
+
+#### Non-resident corporations claiming treaty exemption
+
+If you carried on a **treaty-protected business** in Canada or disposed of a **taxable Canadian property** that was **treaty-protected property** during the year (as defined in section 248), you have to complete all of the following lines on your return:
+
+- lines 001 to 082 of page 1
+
+- lines 164, 170, and 171 of page 2
+
+- lines 270 to 289 (except line 271) of page 3
+
+- lines 780 to 990, if applicable, of page 9
+
+For each of the questions asked at lines 164, 170, and 171 on page 2 of the return to which your response is **yes**, complete the appropriate form or schedule and attach it to your return. In addition, you have to complete [Schedule 91, Information Concerning Claims for Treaty-Based Exemptions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch91.html).
+
+#### Rental income from Canada
+
+Rental income from Canada is subject to a 25% withholding on the **gross** rental income under Part XIII, unless the rate is reduced by a reciprocal tax treaty. A non-resident corporation can elect to be taxed under Part I on its **net** rental income by filing a T2 return under subsection 216(1) within two years of the end of the tax year. If the non-resident corporation has filed [Form NR6, Undertaking to File an Income Tax Return by a Non-Resident Receiving Rent from Real or Immovable Property or Receiving a Timber Royalty](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr6.html), it must file a T2 return under subsection 216(4) within six months of the tax year end. For more information, see [IT393R2 – Election Re: Tax on Rents and Timber Royalties Non-Residents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it393r2.html).
+
+If you file a T2 return under section 216, include only rental income. If you have any other income, file a **second**T2 return.
+
+**Reference**[Guide T4144, Income Tax Guide for Electing Under Section 216](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4144.html)
+
+#### Services rendered in Canada (withholding amount)
+
+A non-resident corporation is subject to a 15% withholding under Regulation 105 on any fee or other amount paid to it for services rendered in Canada (regardless of whether the services are provided by an employee of the corporation or are sub-contracted to another party). This withholding is held on account of any potential tax liability that the corporation may have to Canada. The corporation's tax liability is determined when its Canadian income tax return is assessed.
+
+The CRA will be able to waive this withholding requirement over a specified period if either of the following conditions is met:
+
+- the non-resident is not subject to Canadian income tax for the payments because of a tax treaty between their country of residence and Canada
+
+- the income from providing the services is exempt income from international shipping or from operating an aircraft in international traffic
+
+The minister of National Revenue would have the legislative authority to waive the withholding requirement on multiple transactions with a single waiver, and to establish any conditions and information requirements necessary to reduce compliance risks.
+
+The minister could also revoke the waiver if they are no longer satisfied that the conditions are being met.
+
+A corporation related to a non-resident actor is subject to a 23% withholding tax under Part XIII on all amounts it receives for the acting services of the actor in a film or video production in Canada. This withholding tax represents the final tax liability for these acting services. The corporation may elect **not** to be taxed under Part XIII at the 23% rate by filing a return of income under Part I for the year. A non-resident corporation that has received a reduction (filed Form T1288) of this withholding tax from the CRA still has to file a return.
+
+Send your Canadian T2 return that you elected to file under section 216.1 to the tax services office that processed application Form T1288 and issued the reduction. Write “Actor's election” at the top of page 1 of the return.
+
+**Reference**Section 153[Information Circular IC76-12, Applicable rate of Part XIII tax on amounts paid or credited to persons in countries with which Canada has a tax convention](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic76-12.html)
+
+## How to file your return
+
+### Mandatory electronic filing
+
+Corporations have to file their return electronically except for insurance corporations, non-resident corporations, corporations reporting in functional currency, and corporations that are exempt from tax payable under section 149 of the Income Tax Act.
+
+Corporations that do not file their returns electronically when required are subject to a [penalty](#donotcomply).
+
+If you cannot file electronically, you can print the T2 Bar Code Return and mail it to the CRA.T2 bar code returns are paper returns, and taxpayers will be charged the mandatory electronic filing penalty. Do not send the T2 bar code by fax; the CRA will not accept it.
+
+**References** Subsection 150.1(2.1) Regulation 205.1(2)
+
+### Using tax preparation software
+
+The CRA certifies commercial software to ensure that it meets the CRA's specifications. To find a list of certified software, go to [Software](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/software.html).
+
+A return prepared by certified software can then be electronically filed using:
+
+- the CRA's Corporation Internet Filing service
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are a business owner
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are an authorized representative or employee
+
+If you file through an electronic transmitter, you have to authorize the transmitter by completing [Form T183 CORP, Information Return for Corporations Filing Electronically](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t183corp.html), for each tax year. As of June 22, 2023, Form T183CORP may be signed with an electronic signature.
+
+Do not send this form to the CRA, but keep it in case the CRA asks for it later.
+
+#### T2 Auto-fill
+
+T2 Auto-fill is a secure service that lets corporations and authorized representatives download information from the CRA to their tax preparation software. Using this service will ensure that certain return and account balances will match CRA's data. For more information on what T2 Auto-fill delivers, go to [About T2 Auto-fill](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/about-t2-auto-fill.html).
+
+This service is not mandatory for certified software products. Some include it and others do not. If you have questions on the availability of the service, contact the software product company.
+
+#### Corporation Internet Filing
+
+You must use CRA-approved software that has been certified for Corporation Internet Filing.
+
+The **T2 Attach-a-doc** service allows corporations to attach supporting documentation such as certificates when they file their T2 return or within 24 hours of filing. This service is not mandatory for certified software products. Some include it and others do not. If you have questions on the availability of the service, contact the [software product company](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/software.html).
+
+If you cannot use the T2 Attach-a-doc service to file your supporting documents with your return, send them to your tax centre (see [Where to file your paper return](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)).
+
+When sending paper documents, clearly identify your corporation's name, business number, and the applicable tax year-end on the documents.
+
+If you are filing an election that does not have a prescribed form or prescribed manner, include it with the notes to your financial statements on the General Index of Financial Information (GIFI) to transmit the election electronically with your return, unless otherwise stated on a T2-related form.
+
+For an up-to-date list of all special elections and returns that can be e-filed using commercial tax preparation software, go to [Filing a special election or return](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/special-elections.html).
+
+For information on your eligibility, available software, and more, go to [Corporation Internet Filing](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing.html).
+
+#### Filing without a web access code
+
+You can file corporation returns online without a web access code using “Transmit a return” through:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are the business owner
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are an authorized representative or employee
+
+#### North American Industry Classification System (NAICS) codes
+
+All certified tax preparation software for T2 returns uses self-identified NAICS codes. NAICS codes are hierarchical numerical codes designed to provide common definitions and descriptions of our industries and business activities. NAICS codes are up to six digits long.
+
+The Government of Canada as well as the governments of the provinces and territories use the data provided by NAICS codes for economic analysis and fiscal policy responses. CRA‑sourced NAICS codes are also used in the administration and enforcement as authorized by the Income Tax Act, the Excise Tax Act, and the Excise Act, 2001.
+
+The integration of NAICS codes into T2 commercial tax preparation software packages means that corporations have to pick their main revenue generating business activity directly from a drop down list or a simple search. Active corporations that file their T2 returns either by Internet or on paper using 2D bar codes must choose the appropriate codes to describe their main revenue generating business activity.
+
+Corporations using the return available on Canada.ca do not have to enter a NAICS code.
+
+##### Avoid errors
+
+It is important that you select the most accurate business activity the first time, since the first year's code is carried forward to following years, allowing for a simple validation of the description when there is no change in the main business activity.
+
+If you do not select the business activity, problems and errors will result when you prepare the T2 return to be transmitted electronically or printed in bar-coded format.
+
+If you have any questions on selecting NAICS codes to describe your corporation's main revenue generating business activity when filing your T2 return, [contact the Business Enquiries line](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+### Using the returns available on Canada.ca
+
+The CRA has two types of corporation return available for printing.
+
+#### T2 Corporation Income Tax Return
+
+The [T2 Corporation Income Tax Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2.html) has nine pages.
+
+#### T2 Short Return
+
+The [T2 Short Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2short.html) is two pages plus a Schedule 1, Net Income (Loss) for Income Tax Purposes. To complete the T2 Short, you may also have to complete a [Schedule 8, Capital Cost Allowance (CCA)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch8.html) and a [Schedule 50, Shareholder Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch50.html). The T2 Short Return is a simpler version of the [T2 Corporation Income Tax Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2.html). Two categories of corporations are eligible to use this return:
+
+- You can use this return if the corporation is a Canadian‑controlled private corporation (CCPC) throughout the tax year and this year, it has either a nil net income or a loss for income tax purposes.
+
+- You can also use this return if the corporation is exempt from tax under section 149 (such as a non-profit organization).
+
+In addition, the corporation must meet all of the following conditions:
+
+- it has a [permanent establishment](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html) in only one province or territory
+
+- it is not claiming any refundable tax credits (other than a refund of instalments it paid)
+
+- it did not receive or pay out any taxable dividends
+
+- it is reporting in Canadian currency
+
+- it does not have an Ontario transitional tax debit
+
+- it does not have an amount calculated under section 34.2
+
+If the corporation does not meet all of the above conditions, file a regular T2 return.
+
+## When to file your return
+
+File your return within six months of the end of each tax year. The tax year of a corporation is generally its fiscal period.
+
+When the corporation's tax year ends on the last day of a month, file the return by the **last** day of the sixth month after the end of the tax year.
+
+When the last day of the tax year is not the last day of a month, file the return by the **same** day of the sixth month after the end of the tax year.
+
+| Tax year-end | Filing deadline |
+
+| --- | --- |
+
+| March 31 | September 30 |
+
+| June 30 | December 31 |
+
+| August 31 | February 28 |
+
+| September 23 | March 23 |
+
+| October 2 | April 2 |
+
+When a filing due date falls on a Saturday, Sunday, or public holiday recognized by the CRA, your return is considered on time if the CRA receives it or if it is postmarked on or before the next business day. Several provinces and territories have their own unique holidays. Therefore, due dates may be affected depending on where you reside. See details on [Public holidays](https://www.canada.ca/en/revenue-agency/services/tax/public-holidays.html).
+
+You must file your return on time. If you do not, the CRA can charge penalties on any return that was not sent by the filing due date. See [If you file your return late](#P505_37244) for details.
+
+**You must file a return no later than three years after the end of a tax year to receive a tax refund.**
+
+### Re-appropriation of T2 statute-barred credits
+
+Under subsection 221.2(1), the minister of National Revenue may use discretion to re-appropriate T2 statute-barred credits to an established debt on an account associated with the same business number and administered by the CRA.
+
+To request the re-appropriation of a T2 statute-barred credit, send the CRA a completed [Form RC431, Request for Re-appropriation of T2 Statute-barred Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc431.html), with all the supporting documents. Complete a separate form for each unique business number.
+
+You can also use the "Enquiries service" in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html). You will have to provide the same details requested on Form RC431 in your enquiry. Keep the requested documents in case the CRA asks for them later.
+
+For more information, see the form or go to [Re-appropriation of T2 statute-barred credits](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/after-you-file-your-corporation-income-tax-return/appropriation-t2-statute-barred-credits.html).
+
+## Where to file your paper return
+
+The tax centres in Winnipeg, Sudbury, and Summerside process corporation tax returns. To find out where to mail your return, see [Find a CRA address](https://www.canada.ca/en/revenue-agency/corporate/contact-information/tax-services-offices-tax-centres.html) or [contact the CRA](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+### Film and media tax credits
+
+Film Services Units at the CRA provide services to corporations that may be entitled to receive the Canadian film or video production tax credit, the film or video production services tax credit, or other available provincial film or media tax credits. For more information, including the location and contact number for the Film Services Unit serving your area, go to [Film and Media Tax Credits](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/film-media-tax-credits.html).
+
+## When and how to pay income tax
+
+Corporations have to pay income tax in monthly or quarterly instalments, unless the total of Part I, Part VI, Part VI.1, and Part XIII.1 taxes payable for either the previous year or the current year is $3,000 or less.
+
+The balance of tax the corporation owes for a tax year is due within either two or three months of the end of that tax year, depending on the circumstances of the corporation.
+
+Interest and penalties apply to late payments. To be on time, you have to make instalment payments and other payments on or before the due date by using one of the several methods for making payments:
+
+- your Canadian bank or credit union's online banking, mobile app or telephone service
+
+- the CRA's [My Payment](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html) service with your activated debit card from a participating Canadian bank or credit union with a Visa Debit or Debit MasterCard logo (does **not** include credit cards)
+
+- pre-authorized debit (PAD) in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) which lets you: For more information on PAD, go to [Pay by pre-authorized debit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html).
+
+    - set up payments to the CRA from a Canadian chequing account on pre-set dates starting in five or more business days
+
+    - pay an amount due, repay overpaid amounts or make instalment payments
+
+    - view your account history and modify, cancel or skip a payment
+
+- the “Proceed to pay” button in the “View and pay account balance” page and other pages within My Business Account
+
+- your credit card, Interac e-Transfer or PayPal through one of the third party service providers **for a fee**
+
+- in person at a Canadian bank or credit union or, for a fee, at Canada Post. To do so, you have to use a remittance voucher, which you can request online in [My Business Account.](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html)
+
+Remittance vouchers have a Quick Response (QR) code printed on them that contains all the information you need to pay with cash or debit at a Canada Post retail outlet.
+
+For more information, go to [Payments to the CRA](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html) or contact your financial institution.
+
+The CRA considers the payment to be made on the day the CRA receives it, and not on the day you send it.
+
+When a due date falls on a Saturday, Sunday, or public holiday recognized by the CRA, for calculating instalment interest and penalty, your payment is considered on time if the CRA receives it on or before the next business day. Several provinces and territories have their own unique holidays. Therefore, due dates may be affected depending on where you reside. See details on [Public holidays](https://www.canada.ca/en/revenue-agency/services/tax/public-holidays.html).
+
+Sometimes, penalties and interest on late payments can be cancelled or waived. For more information, see [Cancel or waive penalties and interest](#P561_42697).
+
+### Instalment due dates
+
+Instalment payments for Parts I, VI, VI.1, and XIII.1 taxes are due on the last day of every complete month of a corporation's tax year. The first payment is due one month minus a day from the starting date of the corporation's tax year. The rest of the payments are due on the same day of each month that follows.
+
+Eligible small-CCPCs can make quarterly instalment payments, instead of monthly ones. For more information, see the details on [due dates for payments](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/corporation-payments/paying-instalments/instalment-dates.html).
+
+You can view your instalment due dates by using the "Calculate and pay instalment payments" service through:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are the business owner
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are an authorized representative or employee
+
+### Balance-due day
+
+Generally, all corporation taxes (except Part III and Part XII.6 tax) are due **two** months after the end of the tax year.
+
+However, for Parts I, VI, VI.1, and XIII.1 tax, the balance of tax is due **three** months after the end of the tax year if conditions 1, 2, and either 3 or 4 listed below are met:
+
+1. the corporation is a CCPC throughout the tax year
+
+2. the corporation is claiming the small business deduction for the tax year, or was allowed the small business deduction in the previous tax year;
+
+3. the corporation's taxable income for the previous tax year does not exceed its business limit for that tax year (if the corporation **is not associated** with any other corporation during the tax year)
+
+4. the total of the taxable incomes of **all** the associated corporations for their last tax year ending in the previous calendar year does not exceed the total of their business limits for those tax years (if the corporation **is associated** with any other corporation during the tax year)
+
+See the details about [tax relief and support for businesses in response to tariffs](https://www.canada.ca/en/revenue-agency/services/support-difficult-situations/tax-relief-businesses-tariffs.html).
+
+The business limit is provided at [Line 410 – Business limit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-4-page-4-t2-return.html). For more information about allocating the business limit among associated corporations, see [Schedule 23](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html).
+
+For determining balance-due days, the taxable income for the previous year of corporations and associated, subsidiary, and predecessor corporations means taxable income before applying loss carrybacks.
+
+Special rules apply to determine the **balance-due day** of a new corporation formed after an amalgamation or of a parent corporation after it receives the assets of a subsidiary corporation that is winding-up. See the details on [due dates for payments](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/corporation-payments/paying-instalments/instalment-dates.html).
+
+**Reference** Sections 125 and 157
+
+### Partnerships – Limiting deferral of corporation tax
+
+Under section 34.2, a corporation may have to accrue additional income in respect of a partnership (other than dividends for which a deduction is available under section 112 or 113). This happens if the fiscal period of the partnership begins in the corporation's tax year and ends in a following tax year. The corporation then has to accrue income under the adjusted stub period accrual (ASPA) regime for the portion of the partnership's fiscal period that falls in the corporation's tax year (the stub period). These rules do not affect a corporation's capital dividend account which is to be determined without reference to section 34.2.
+
+Since the ASPA income inclusion in a tax year is an estimate of the stub period income, the corporation is entitled to claim that same amount in the immediately following tax year. Both the ASPA income inclusion and the treatment of that same amount in the following year are subject to the characterization rules under subsection 34.2(5). They are deemed to have the same character and be in the same proportions as the partnership income that they relate to. As such, the claim in the immediately following tax year may be a deduction or a deemed allowable capital loss, whichever applies.
+
+A corporation may have ASPA in respect of more than one partnership and, in such cases, the ASPA rules apply to the corporation on a partnership by partnership basis.
+
+In general, a corporation (**other than a professional corporation**) has to include in its income for a tax year its ASPA for a partnership if all of the following apply:
+
+- the corporation has a significant interest in the partnership at the end of the last fiscal period of the partnership that ends in the tax year
+
+- another fiscal period of the partnership begins in the tax year and ends after the tax year of the corporation
+
+- at the end of the corporation's tax year, it is entitled to a share of an income, loss, taxable capital gain, or allowable capital loss of the partnership for the fiscal period referred to in the preceding bullet
+
+A corporation has a significant interest in a partnership if the corporation, or the corporation together with affiliated or related parties, is entitled to **more than 10%** of the partnership's income or loss (or assets, net of liabilities, if the partnership were to cease to exist).
+
+These rules apply to any corporation (described above), that is a member of a partnership, even if the partnership has a member that is an individual or a professional corporation that is subject to the 1995 rules limiting deferral for unincorporated businesses.
+
+The definition of **adjusted stub period accrual** in subsection 34.2(1) gives the formulas for calculating a corporation's ASPA in respect of a partnership.The ASPA formula allows the corporation to designate two reductions. The first designation concerns qualified resource expenses incurred by the partnership during the corporation's stub period. The second allows a corporate partner to make a **discretionary** designation to reduce its ASPA to reflect its knowledge of the actual partnership income for the stub period.
+
+Once filed, the designations cannot be amended or revoked.
+
+If the amount of the discretionary designation is too high, creating an income shortfall, the corporation may be subject to an additional income inclusion. The additional income inclusion may increase if the shortfall is above a 25% threshold.
+
+Under certain conditions, a corporation (other than a professional corporation) that becomes a member of a partnership in a tax year may make a designation to apportion its income from the partnership between two tax years:
+
+- the tax year in which the fiscal period of the partnership began
+
+- the tax year in which the fiscal period of the partnership ends
+
+To calculate the income inclusion under section 34.2 and, if applicable, the income shortfall adjustment and additional amount under section 34.3, use the following worksheets:
+
+- [Schedule 71, Income Inclusion for Corporations that are Members of Single-Tier Partnerships](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch71.html)
+
+- [Schedule 72, Income Inclusion for Corporations that are Members of Multi-Tier Partnerships](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch72.html)
+
+You do not have to file these worksheets with your return. To report the amounts, file a completed [Schedule 73, Income Inclusion Summary for Corporations that are Members of Partnerships](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch73.html), with your return.
+
+Schedules 1, 6, and 7 are affected by the rules in section 34.2 and the amounts reported on Schedule 73 (as applicable). For example, the amount entered on line 275 of Schedule 73 reporting the total taxable capital gains under section 34.2 must also be entered on Schedule 6.
+
+**References** Sections 34.2, 34.3, and 249.1
+
+## Penalties
+
+### If you file your return late
+
+If you file your return late, a penalty applies. The penalty is **5%** of the unpaid tax that is due on the filing deadline, **plus 1%** of this unpaid tax for each complete month that the return is late, up to a maximum of **12** months.
+
+The corporation will be charged an even larger penalty if the CRA issued a demand to file the return under subsection 150(2), and if it assessed a failure to file penalty for the corporation in any of the three previous tax years. The penalty is **10%** of the unpaid tax when the return was due, **plus 2%** of this unpaid tax for each complete month that the return is late, up to a maximum of **20** months.
+
+**References** Subsections 162(1) and 162(2)
+
+#### Non-resident corporations
+
+A non-resident corporation will be subject to a failure to file penalty equal to the greater of:
+
+- the amount calculated under subsections 162(1) or (2), as discussed above, and
+
+- an amount equal to the greater of:
+
+    - $100
+
+    - $25 for each complete day that the return is late, up to a maximum of **100** days
+
+**Reference** Subsection 162(2.1)
+
+#### Large corporations
+
+A large corporation has to file the [T2 Corporation Income Tax Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2.html) and, if applicable, a [Schedule 38, Part VI Tax on Capital of Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch38.html). If a corporation fails to file these returns, in addition to any other penalty as applicable, the CRA will charge a penalty for each complete month that the returns are late, up to a maximum of 40 months. The penalty will be the sum of the following amounts:
+
+- 0.0005% of the corporation's taxable capital employed in Canada (within the meaning assigned in Part I.3) at the end of tax year
+
+- 0.25% of the Part VI tax payable by the corporation [before the deductions in subsection 190.1(3)]
+
+To identify the corporation as a large corporation, answer **yes** to the question at line 233 on page 2 of the return.
+
+A corporation is a large corporation if the total taxable capital employed in Canada at the end of the tax year by it and its related corporations is over $10 million.
+
+To determine if the total taxable capital employed in Canada of the corporation and its related corporations is greater than $10 million use whichever one of the following schedules that applies:
+
+- [Schedule 33, Taxable Capital Employed in Canada – Large Corporations](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch33.html)
+
+- [Schedule 34, Taxable Capital Employed in Canada – Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch34.html)
+
+- [Schedule 35, Taxable Capital Employed in Canada – Large Insurance Corporations](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch35.html)
+
+A corporation with a permanent establishment in Newfoundland and Labrador that is a financial institution, as defined under provincial legislation, has to file [Schedule 305, Newfoundland and Labrador Capital Tax on Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch305.html). See [Newfoundland and Labrador capital tax on financial institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+A corporation with a permanent establishment in Nova Scotia at any time in the tax year that is a financial institution, as defined under provincial legislation, has to file [Schedule 352, Nova Scotia Financial Institutions Capital Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch352.html). See [Nova Scotia Financial Institutions Capital Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+If schedules 305 or 352 are not filed, the corporation will be liable to a penalty similar to the one for failure to file Schedule 38 (described above), in addition to any other penalty.
+
+**Reference** Section 235
+
+### If you do not comply with mandatory electronic filing
+
+The CRA will charge a $1,000 penalty for non-compliance if a corporation that is required to file electronically does not comply with the requirement.
+
+**Reference** Subsection 162(7.2)
+
+### If you do not report income
+
+The CRA will charge a penalty if a corporation does not report an amount equal to or greater than $500 that is required to be included in computing its income on its return in a tax year and any of the three previous tax years.
+
+This penalty will not be applied if the corporation is liable under subsection 163(2)for the same unreported amount.
+
+The repeated failure to report income penalty is equal to the lesser of:
+
+- 10% of the amount you did not report on your return for the tax year
+
+- 50% of the difference between the understated tax payable (and certain overstated refundable tax credits) related to the amount you did not report and the amount of tax withheld related to the amount you did not report
+
+**References** Subsections 163(1) and 163(1.1)
+
+### False statements or omissions
+
+The CRA will charge a penalty if a corporation, either knowingly or under circumstances of gross negligence, makes a false statement or omission on a return. The penalty is the greater of either **$100** or **50%** of the amount of understated tax.
+
+**Reference** Subsection 163(2)
+
+If a corporation is charged a penalty for making a false statement or omission under subsection 163(2), the corporation cannot be charged a penalty on the same amount for failing to report income under subsection 163(1).
+
+### Misrepresentation in tax matters by a third party
+
+The CRA will charge a penalty if a person advises or helps another person to file a false return or knowingly allows a taxpayer to submit false tax information.
+
+**References**[Information Circular IC01-1, Third-Party Civil Penalties](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic01-1.html) Section 163.2
+
+### Avoidance of tax debts
+
+Under proposed changes, a new supplementary rule will be introduced to strengthen the existing tax debt anti‑avoidance rule. Under the supplementary rule, where certain conditions are met, the property transferred by the tax debtor would be deemed to have been transferred to the transferee for the purposes of the tax debt avoidance rule. This would ensure that the tax debt avoidance rule applies in situations where property has been transferred from a tax debtor to a person and, as part of the same transaction or series, property has been received by a non-arm's length person.
+
+Additionally, under proposed changes, taxpayers who participate in tax debt avoidance planning would be jointly and severally, or solidarily, liable for the **full** amount of the avoided tax debt. That amount would include any portion the planner has effectively retained. This would apply to transactions or series of transactions that occur after April 15, 2024.
+
+The existing penalty for those who engage in, participate in, assent to, or acquiesce in planning activity that they know, or would reasonably be expected to know, is tax debt avoidance planning would be extended to apply to tax debt avoidance planning that is subject to this supplementary rule. The penalty is equal to the lesser of:
+
+- 50% of the tax that is attempted to be avoided
+
+- $100,000 plus any amount the person, or a related person, is entitled to receive or obtain regarding the planning activity
+
+**Reference** Subsection 160(6)
+
+### Other penalties
+
+The CRA can also charge penalties for late or incomplete instalment payments and for not providing information on an authorized or prescribed form.
+
+The most common forms are:
+
+- [Form T106, Information Return of Non-Arm's Length Transactions With Non-Residents](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t106.html) (read the [details](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html))
+
+- [T5013FIN, Partnership Financial Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013fin.html) and [T5013SUM, Information Slips Summary](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sum.html) (read the [details](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html))
+
+- [T5018 SUM, Summary of Contract Payments](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5018sum.html)
+
+- [Form T1134, Information Return Relating to Controlled and Not-Controlled Foreign Affiliates](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1134.html), [Form T1135, Foreign Income Verification Statement](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1135.html), [Form T1141, Information Return in Respect of Contributions to Non- ResidentTrusts, Arrangements or Entities](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1141.html), and [Form T1142, Information Return in Respect of Distributions From and Indebtedness to a Non-Resident Trust](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1142.html) (see [Foreign property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html))
+
+- [Form T661, Scientific Research and Experimental Development (SR&ED) Expenditures Claim](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t661.html), Part 9, Claim preparer information (read the [details](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html))
+
+**References** Sections 162 and 163.1
+
+### Cancel or waive penalties and interest
+
+The CRA administers legislation, commonly called "taxpayer relief provisions", that gives the CRA discretion to cancel or waive penalties and interest when taxpayers cannot meet their tax obligations due to circumstances beyond their control.
+
+The CRA's discretion is limited to any period that ends within 10 calendar years before the year the request is made.
+
+#### Penalties
+
+The CRA will consider your request only if it relates to a tax year or fiscal period ending in any of the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to a penalty for a tax year or fiscal period ending in 2015 or later.
+
+#### Interest on a balance owing
+
+The CRA will consider only the amounts that accrued during the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to interest that accrued in 2015 or later.
+
+You or your authorized representative can request a second review online using the "Request relief of penalties and interest" service in My Account or My Business Account. Alternatively, you can fill out [Form RC4288, Taxpayer Relief Request – Cancel or Waive Penalties and Interest](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4288.html), and send it:
+
+- online using My Account, My Business Account, or Represent a Client by selecting the “Submit documents” service
+
+- by mail or courier to the designated office, as shown on the last page of the form, based on your place of residence
+
+See the details on how to [submit documents online](https://www.canada.ca/en/revenue-agency/services/e-services/submit-documents-online.html).
+
+For more information about cancelling or waiving penalties and interest, go to [Cancel or waive penalties and interest at the CRA](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/cancel-waive-penalties-interest.html).
+
+**References**Subsection 220(3.1)[Information Circular IC07-1R, Taxpayer Relief Provisions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic07-1.html)
+
+### Voluntary Disclosures Program
+
+The Voluntary Disclosures Program (VDP) gives you a second chance to correct a tax return you previously filed or to file a return that you should have filed. You must do this before the CRA starts any enforcement action or investigation against you.
+
+Applications are processed under one of the two programs: the limited program and the general program.
+
+#### Limited program
+
+The limited program limits the level of relief for corporations who intentionally avoided their tax obligations. Corporations will not be referred for criminal prosecution or charged gross negligence penalties. However, **they will be charged other penalties and interest**as applicable.
+
+#### General program
+
+The general program provides relief to corporations that want to correct unintentional errors. Corporations will not be charged penalties and will not be referred for criminal prosecution related to the information being disclosed. The CRA will provide partial interest relief for the years preceding the three most recent years of returns required to be filed.
+
+For more details on the VDP, get the most recent version of [Information Circular IC00-1, Voluntary Disclosures Program](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic00-1.html), or go to [Voluntary Disclosures Program](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/voluntary-disclosures-program.html).
+
+Effective October 1, 2025, changes were made to the Voluntary Disclosures Program to make it easier to apply to the program and understand it. The new policy:
+
+- increases eligibility for applicants
+
+- adjusts the relief available
+
+- gives more certainty to applicants on documents to provide
+
+The new policy replaces the existing “General Program” and “Limited Program” application streams with the following two tiers of relief: “general relief (unprompted application)” and “partial relief (prompted application)”.
+
+See the details on the [changes to the Voluntary Disclosures Program](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/voluntary-disclosures-program/changes-vdp.html).
+
+If you want, you can discuss your situation first on a no-name or hypothetical basis. To speak with a CRA official, [contact General Enquiries](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html). For complex technical reporting issues or questions, you will be referred to a CRA official in a specialized area. This pre-disclosure discussion does not constitute acceptance into the VDP anymore.
+
+You cannot make a disclosure on a no-name basis.
+
+## Information reporting of tax avoidance transactions
+
+Taxpayers, advisors and promoters who engage in or who are entitled to certain fees in relation to certain tax avoidance transactions are subject to reporting requirements.
+
+Under provincial legislation, Ontario and British Columbia corporations must meet the same requirements.
+
+A transaction is considered an avoidance transaction if it can reasonably be concluded that one of the main purposes of entering into the transaction is to get a tax benefit.
+
+### Reportable transactions
+
+A transaction is reportable if it is an avoidance transaction as defined in subsection 237.3(1) of the [Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html) and has one of the following three generic hallmarks:
+
+- the advisor or promoter (including any non arm's length parties) has or had an entitlement to certain types of fees
+
+- the advisor or promoter (including any non arm's length parties) has or had confidential protection in respect of a tax treatment related to the avoidance transaction
+
+- the taxpayer, advisor, or promoter (including any non-arm's length parties) has or had contractual protection for the transaction (other than as a result of certain types of fees or because it concerns contractual protection offered in the context of normal commercial transactions to a wide market)
+
+A reportable transaction does not include a transaction that is, or is part of, a series of transactions that includes the acquisition of a tax shelter or issuance of a flow-through share for which an information return has been filed with the minister of National Revenue under subsection 237.1(7) or 66(12.68) respectively. This is the case unless it is reasonable to conclude that one of the main reasons for the acquisition of a tax shelter, or the issuance of a flow‑through share, was to avoid the reportable transactions provisions under section 237.3.
+
+Reporting persons can now file an optional disclosure to avoid the penalty equal to 25% of the additional tax as well as an extension of the statute barred period by three years for transactions subject to the general anti-avoidance rule (GAAR). See paragraph 15 of the [Mandatory disclosure rule – Guidance](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/mandatory-disclosure-rules-overview/guidance-document.html).
+
+### Notifiable transactions
+
+The minister of National Revenue has the authority to designate, with the agreement of the minister of Finance, a transaction or a series of transactions as a notifiable transaction. Reporting requirements (and exception to the rule) similar to those for reportable transactions apply with the inclusion of a prescribed form.
+
+A notifiable transaction is a transaction that is the same as, or substantially similar to, a designated transaction, or a transaction in a series of transactions that is the same as, or substantially similar to, a designated series of transactions.
+
+See the list of [notifiable transactions designated by the minister of National Revenue](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/mandatory-disclosure-rules-overview/notifiable-transactions-designated-by-minister-national-revenue.html). You can subscribe to [CRA's electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) to receive an email when new notifiable transactions are designated by the minister
+
+### Reportable uncertain tax treatments
+
+A specified corporation has to report **reportable uncertain tax treatments** (as reflected in relevant financial statements) with the T2 return for the tax year, where certain conditions are met. One of these conditions is having at least $50 million in assets at the end of the financial year that coincides with the tax year.
+
+A reportable uncertain tax treatment is a tax treatment that a corporation uses or plans to use in its income tax filings (including, for greater certainty, the decision not to include a particular amount in a return of income) and for which there is uncertainty over whether the tax treatment will be accepted as being in accordance with tax law.
+
+For more information on examples of activities that would not be subject to a reporting obligation and clarification regarding filing requirements under the mandatory disclosure rules, see the [Mandatory disclosure rules – Guidance](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/mandatory-disclosure-rules-overview/guidance-document.html).
+
+### Filing requirements
+
+#### Form RC312
+
+For reportable transactions and notifiable transactions, you must file Form [RC312, Reportable Transaction and Notifiable Transaction Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc312.html), within 90 days of the earlier of the day the corporation, or a person transacting for it:
+
+- becomes contractually obligated to enter into the reportable or notifiable transaction
+
+- enters into the reportable or notifiable transaction
+
+For more information, see the [Mandatory disclosure rules – Guidance](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/mandatory-disclosure-rules-overview/guidance-document.html).
+
+#### Form RC3133
+
+If you have one or more reportable uncertain tax treatments for a tax year, you must file [Form RC3133, Reportable Uncertain Tax Treatments Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc3133.html), for each reportable uncertain tax treatment, on or before the corporation's tax return filing-due date for the year.
+
+#### Reassessment
+
+If the information return is not filed as required, the reassessment period is extended by three years (if the corporation is a CCPC) or four years (if the corporation is not a CCPC) after the day on which the information return is filed as required. The scope of an assessment, reassessment, or additional assessment during the extended reassessment period for a taxpayer's tax year is limited to the extent that it can reasonably be regarded as relating to the reportable transaction, notifiable transaction, or reportable uncertain tax treatment.
+
+If a corporation has a reporting requirement for a transaction relevant to the corporation's income tax return for a tax year, the normal reassessment period will not start for the transaction until the corporation has complied with the reporting requirement. As a result, if a corporation does not comply with a mandatory disclosure reporting requirement for a tax year for a transaction, a reassessment of the year will not become statute-barred for the transaction only.
+
+#### Penalties
+
+Failure to report could result in suspension of the tax benefit, a penalty for failure to report, or both.
+
+The general penalty provision under subsection 238(1) for failure to file an information return does not apply to reportable or notifiable transactions
+
+Penalties may apply for each failure to report a reportable transaction or a notifiable transaction:
+
+- to persons who enter into such transactions, or for whom a tax benefit results from such transactions. The penalty is equal to:
+
+    - $500 per week during which the failure continues and for each failure to report the transaction, up to the greater of $25,000 and 25% of the tax benefit
+
+    - for a corporation with assets having a total carrying value of $50 million or more for its last tax year that ends before the day on which the information return is required to be filed, $2,000 per week during which the failure continues and for each failure to report the transaction, up to the greater of $100,000 and 25% of the tax benefit
+
+- to advisors and promoters of such transactions and persons who do not deal at arm's length with them and who are entitled to a fee for the transactions. The penalty is equal to the total of:
+
+    - the amount of the fees charged by that person for the transaction
+
+    - $10,000
+
+    - $1,000 per day that the person fails to report the transaction, up to a maximum of $100,000
+
+A penalty may apply for each failure to report an uncertain tax treatment. The penalty is equal to $ 2,000 for each week during which the failure continues, up to a maximum of $100,000.
+
+File the return separately from your tax return. Before you file it, make a copy for your records. Mail the original or amended return, and any related information to:
+
+Winnipeg Tax Centre Data Assessment and Evaluation Programs Validation and Verification Section Foreign Reporting Returns 66 Stapon Road Winnipeg MB R3C 3M2
+
+**Reference** Sections 237.3 to 237.5
+
+## Country-by-country reporting
+
+Country-by-country reporting applies to multinational enterprise groups that have a total consolidated group revenue of €750 million or more, as reflected in their consolidated financial statements in the immediately preceding fiscal year.
+
+If the ultimate parent entity or surrogate parent entity of such a multinational enterprise group is resident in Canada, it has to file [Form RC4649, Country-by-Country Report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html), with the CRA. This has to be done no later than 12 months after the end of the reporting fiscal year.
+
+Canadian corporations required to file Form RC4649 must do so electronically using EFILE or Web Access Code (WAC), available through CRA-T2-certified software that supports the preparation of country-by-country reports. This includes all filings by Canadian corporations as the ultimate parent entity or surrogate parent entity, and most filings by a constituent entity under the secondary reporting requirement. Failure to file electronically may result in the application of penalties.
+
+For more information, see [Guide RC4651, Guidance on Country-by-Country Reporting in Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4651.html), and Form RC4649.
+
+**References** Sections 162 and 233.8
+
+## After you file your return
+
+After the CRA receives your return, it sends it to Corporation Services of the responsible tax centre for processing. To find your tax centre, go to [Find a CRA address](https://www.canada.ca/en/revenue-agency/corporate/contact-information/tax-services-offices-tax-centres.html).
+
+After assessing your return, the CRA will either:
+
+- send you an email notification that there is mail for you to view in your secure online account, if you registered to receive **e-mail notifications** through [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html)
+
+- mail you a notice of assessment
+
+The default method of correspondence for businesses that use My Business Account is electronic. However, with a 30-day notice, businesses may still choose to also receive paper correspondence. See [Signing up for email notifications when filing your T2 return](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-1-page-1-t2-return.html).
+
+As soon as you get the notice of assessment, compare it to your copy of the corporation's return. Contact the CRA if you need the CRA to clarify or explain any part of the assessment. You can call the telephone number provided in the CRA's correspondence. If you do not have contact information, see how to [Contact the Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+### Enquiries service
+
+You can ask an account-related question online and the CRA will provide an answer online. You can also view answers to common enquiries online.
+
+The CRA will try to respond within 10 business days, depending on the complexity of the question. To view the response, select the “Mail” link under the “View” tab.
+
+With the “Enquiries service”, you can also make other online requests, such as ordering more remittance vouchers.
+
+To access these online services, go to:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are a business owner
+
+- [Representatives](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are an authorized representative or employee
+
+## When the CRA can reassess your return
+
+Within certain time limits, the CRA can reassess your return or make additional assessments of tax, interest, and penalties. These time limits vary, depending on the type of corporation and the nature of the reassessment.
+
+### Normal reassessment period
+
+The CRA can usually reassess a return for a tax year:
+
+- within **three** years of the date it sent the original notice of assessment for the tax year, if the corporation was a CCPC at the end of the year
+
+- within **four** years of the date it sent the original notice of assessment for the tax year, if the corporation **was not** a CCPC at the end of the year
+
+### Extended reassessment period
+
+The normal reassessment period can be extended for an extra three years for several reasons, including any of the following:
+
+- to carry back a loss or credit from a later tax year
+
+- when a non-arm's length transaction (**transaction** as defined in subsection 247(1)) involving the corporation and a non-resident affects the corporation's tax
+
+- if the corporation pays an amount or receives a refund of foreign income or profits tax
+
+- when a reassessment of another taxpayer's tax for any of the above reasons affects the corporation's tax
+
+- if the reassessment results from a non-resident corporation's allocation of revenue or expenses to its Canadian business or from a notional transaction, such as "branch advance", between the non-resident corporation and its Canadian business
+
+- to give effect to the application of the non-resident trust rules in section 94 or to the application of the foreign investment rules under sections 94.1 and 94.2
+
+- if the income is related to a foreign affiliate of the corporation
+
+- the reassessment is to carry back losses or certain tax credits and deductions where a prescribed form requesting the amendment has been filed on time
+
+#### Non-resident non-arm's length person (extra six years)
+
+For losses incurred in a particular tax year, the reassessment period for a preceding tax year to which those losses are carried back is extended six years beyond the normal reassessment period if both of the following apply:
+
+- the losses are reduced as a result of a reassessment made to the particular tax year beyond the normal reassessment period for the year
+
+- the reassessment to the particular tax year is made as a consequence of a transaction involving the corporation and a non-arm's length non-resident person
+
+#### Provincial income reallocation (extra one year)
+
+If the reassessment results from a provincial income reallocation, the normal reassessment period can be extended for one year from the later of:
+
+- the day on which the CRA is advised of the provincial reassessment
+
+- 90 days after the notice of the provincial reassessment was mailed
+
+#### Substantive CCPCs – Deferring tax using foreign entities (extra one year)
+
+The reassessment period for substantive CCPCs is extended one year beyond the normal reassessment period for any resulting assessment of Part IV tax because of a corporation being assessed or reassessed a dividend refund. This measure generally applies to tax years that end after April 6, 2022, with some exceptions.
+
+#### Requirements for information and compliance orders
+
+Under proposed changes, effective on royal assent, the existing information gathering provisions would be amended by:
+
+- creating a new notice of non-compliance
+
+- providing the possibility to require that any required information or document be provided under oath or affirmation
+
+- adding a penalty when the CRA issues a compliance order or a notice of non-compliance
+
+- expanding the rules to stop the reassessment limitation clock
+
+If the CRA issues a new notice of non-compliance to a corporation that has not complied with a notice or requirement to provide information or assistance, the penalty would be equal to $50 for each day the notice of non-compliance is outstanding, up to a maximum of $25,000.
+
+If the CRA obtains a compliance order from a court to order a non-compliant taxpayer to comply with a CRA information request, the new penalty would be equal to 10% of the aggregate tax payable for the tax years the compliance order relates to, if the tax payable in each relevant tax year is equal or more than $50,000.
+
+When a corporation contests a requirement for information or an application for a compliance order in court, a “stop‑the‑clock” rule applies. This rule extends the corporation's reassessment period by the period of time during which the requirement for information or compliance order is contested. The period generally starts when the corporation makes its first court filing to contest the requirement for information or compliance order and ends on the final disposition of the application (including any appeals).
+
+The “stop‑the‑clock” rules do not currently apply to all situations when a corporation does not comply with a requirement or notice to provide information that the CRA issued. Under proposed changes, effective on royal assent, these rules would be amended so that they apply:
+
+- when a corporation seeks a judicial review of any requirement or notice to provide information issued to the corporation or to a person that does not deal at arm's length with the corporation in relation to the audit and enforcement process
+
+- during any period a notice of non-compliance is outstanding
+
+The CRA can send requirements for information, including those for foreign-based information, to banks and credit unions electronically, rather than delivering them in person or by registered or certified mail. Written consent of the bank or credit union is required before requirements can be sent electronically.
+
+### Unlimited reassessment period
+
+The CRA can reassess a return **at any time**, including when:
+
+- the corporation has made a misrepresentation because of neglect, carelessness, wilful default, or fraud in either filing the return or supplying information required by the [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html)
+
+- the corporation filed [Form T2029, Waiver in Respect of the Normal Reassessment Period or Extended Reassessment Period](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2029.html), with a tax services office before the normal reassessment period expires. Form T2029 can be filed up to three more years after the end of the normal reassessment period if the waiver applies to one of the situations previously described under [Extended reassessment period](#ERP)
+
+If you want to revoke a waiver that was previously filed to extend the normal reassessment period for a certain tax year, file [Form T652, Notice of Revocation of Waiver](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t652.html), at your tax services office. The revocation will take effect six months after you file Form T652.
+
+#### Sale or disposition of real estate
+
+The CRA may **at any time** make an assessment, reassessment, or additional assessment of an income tax return beyond the normal reassessment period for any of the following reasons:
+
+- the corporation does not report in its initial income tax return a sale or other disposition of a real or immovable property that is capital property of the corporation
+
+- the partnership of which the corporation is a member did not report the sale or other disposition in the initial partnership information return
+
+If the corporation later amends its return to report the disposition of the property (for example by filing a request for adjustments under subsection 245(6)), the CRA may still make a reassessment outside of the normal reassessment period within three years of the amendment being filed.
+
+Under this extended reassessment period, the reassessment is limited to amounts reasonably relating to the unreported or previously unreported disposition of real or immovable property that is capital property of the corporation or partnership, as the case may be.
+
+**References** Subsections 152(3.1), 152(4), 152(4.01), and 152(4.1)[IC75-7, Reassessment of a Return of Income](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic75-7.html)
+
+### How to request a reassessment
+
+You can request a reassessment electronically using the latest commercial tax preparation software packages, or send a letter to the tax centre that serves the corporation. If you send a letter, state:
+
+- the name of the corporation
+
+- the business number
+
+- the tax year
+
+- any details that apply
+
+With your letter, include any relevant supporting information, such as revised financial statements or the General Index of Financial Information (GIFI) and schedules.
+
+If you are preparing your return using tax preparation software, submit the bar codes that contain the information needed to reassess your return. Do not send the entire T2 return.
+
+To ask to carry back a loss or tax credit to a prior tax year, file whichever of the following schedules apply:
+
+- [Schedule 4, Corporation Loss Continuity and Application](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch4.html), to ask to carry back a loss
+
+- [Schedule 21, Federal and Provincial or Territorial Foreign Income Tax Credits and Federal Logging Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch21.html), to ask to carry back foreign tax credits on business income
+
+- [Schedule 31, Investment Tax Credit – Corporations](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch31.html), to ask to carry back an investment tax credit
+
+- [Schedule 42, Calculation of Unused Part I Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch42.html), to ask to carry back a Part I tax credit
+
+You can file these schedules with the return on which you report the loss or earn the credit, or you can forward them separately to the tax centre that serves the corporation.
+
+**Reference** Subsection 152(6)
+
+## How to file a formal dispute
+
+Many misunderstandings are caused by a lack of information or by a simple miscommunication. That's why the CRA says: “Talk to us”.
+
+If you have new or additional information, you or your authorized representative can ask for a change online at My Business Account, Represent a Client, or by writing to the CRA. Many disputes are resolved this way.
+
+If you disagree with an assessment or a determination, you can make a formal objection.
+
+Filing an objection is the first step in the formal process of resolving your dispute. You have 90 days after the date of the notice of assessment or determination to file an objection.
+
+You can file an objection:
+
+- online in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) or in[Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) by selecting "File a formal dispute (Notice of Objection)” under "Corporation Income Tax”
+
+- by mail, using [Form T400A, Notice of Objection – Income Tax Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t400a.html), or writing to the chief of appeals at your Appeals Intake Centre (see appendix B of Guide P148)
+
+In all cases, you have to explain why you disagree and include all relevant facts and supporting documents.
+
+For large corporations, your objection must:
+
+- reasonably describe each issue
+
+- specify for each issue the relief you are seeking, expressed as the amount of a change in the income, taxable income, loss, taxes payable, refundable amounts, and overpayments or balance of unclaimed outlays, expenses, or other amounts of the corporation
+
+- provide facts and reasons the corporation relied on for each issue
+
+**Reference** Section 165
+
+A large corporation that objects to an assessment will have to pay **50%** of the disputed amount. A corporation is a large corporation if the total taxable capital employed in Canada at the end of the tax year by the corporation and its related corporations is over $10 million. The corporation also has to pay the full amount of taxes not in dispute.
+
+**Reference** Subsection 225.1(7)
+
+For more information about objections and appeals, see [Guide P148, Resolving your dispute: Objection rights under the Income Tax Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p148.html), or go to [File an objection](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/file-objection-cppei-appeal-minister.html).
+
+### Disputing loss determinations
+
+The formal process of resolving a dispute does not usually apply to loss amounts under dispute, because there is no tax, interest, or penalty involved.
+
+However, a corporation may request a loss determination if it does not agree with the amount of the losses assessed by the CRA. The CRA will determine the amount of the loss and confirm in writing by issuing Form T67AM, Notice of Determination/Redetermination of a Loss.
+
+Once the corporation has received the notice of determination, it can file an objection within 90 days after the date of the notice.
+
+You cannot request a loss determination if the CRA assessed your loss to be the same as what you reported.
+
+If the corporation asks, the CRA will make determinations of the following amounts:
+
+- a non-capital loss
+
+- a net capital loss
+
+- a restricted farm loss
+
+- a farm loss
+
+- a limited partnership loss
+
+Send any requests for loss determinations to your tax services office or tax centre.
+
+**References** Subsections 152(1.1) and 152(1.2)
+
+## Keeping records
+
+Keep your paper and electronic records for six years from the end of the last tax year that they relate to. If you file your income tax return late, keep your records for six years from the date you file your return.
+
+Certain records must be kept longer. These include minute books, which have to be kept until sometime after dissolution. However, if you want to destroy your records early, complete [Form T137, Request for Destruction of Records](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t137.html). For more information, go to [Keeping records](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/keeping-records.html).
+
+**References** Subsections 230(4), 230(4.1), 230(5), and 230(6) Regulation 5800[Information Circular IC78-10, Books and Records Retention/Destruction](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-10.html)
+
+- [Previous page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-whats-new.html)
+
+- [Table of contents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide.html)
+
+- [Next page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-1-page-1-t2-return.html)

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this corpus, manifests, exports, scraper output, or derived chunks in academic work, benchmarks, model training, model evaluation, internal tools, commercial RAG systems, or customer-facing products, please cite this repository and preserve the original Canada.ca source URLs."
+title: "Taxsmith Canadian Tax Corpus"
+type: dataset
+authors:
+  - name: "Taxsmith contributors"
+version: "0.1.0"
+date-released: "2026-07-09"
+abstract: "A Markdown corpus and manifest set derived from public Canada Revenue Agency and Canada.ca tax publications, technical information, manuals, and multimedia transcripts for retrieval-augmented generation, agent workflows, and domain corpus research."
+keywords:
+  - "Canada Revenue Agency"
+  - "Canada tax"
+  - "RAG"
+  - "retrieval augmented generation"
+  - "domain corpus"
+  - "Markdown corpus"
+  - "tax publications"
+# Add repository-code and/or DOI after the public repository or dataset release is created.

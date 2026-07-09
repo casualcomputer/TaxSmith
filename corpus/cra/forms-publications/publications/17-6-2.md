@@ -1,0 +1,14 @@
+---
+title: "17-6-2 GST/HST Registration and Reporting Requirements for Listed Financial Institutions, Including Selected Listed Financial Institutions"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6-2.html
+last_modified: 2026-06-03
+---
+# 17-6-2 GST/HST Registration and Reporting Requirements for Listed Financial Institutions, Including Selected Listed Financial Institutions
+
+This memorandum explains when listed financial institutions (LFIs), including selected listed financial institutions (SLFIs), are required to be registered for GST/HST purposes and when they may voluntarily register for GST/HST purposes. It also explains the GST/HST reporting and filing requirements for registrant and non-registrant LFIs and SLFIs.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [17-6-2-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6-2/gst-hst-registration-reporting-requirements-listed-financial-institutions-including-selected-listed-financial-institutions.html)

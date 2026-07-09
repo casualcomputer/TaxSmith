@@ -1,0 +1,118 @@
+---
+title: "Income Tax Information Circular"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic82-6/clearance-certificate.html
+last_modified: 2022-05-25
+---
+# Income Tax Information Circular
+
+## Clearance Certificate
+
+*This circular cancels and replaces Information Circular IC82-6R11 dated March 2016.*
+
+1. This circular explains the need for a clearance certificate issued under the *Income* *Tax Act*. To ask for a clearance certificate, complete [Form TX19, Asking for a Clearance Certificate](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/tx19.html) and provide the required documents listed on Form TX19. This will help us to issue the certificate without delay.
+
+## Why you need a clearance certificate
+
+2. Subsection 159(2) of the *Income Tax Act*(the Act)*,* requires a legal representative, which we define in paragraph 3, to obtain a clearance certificate before distributing property that he or she controls in their capacity as the legal representative. As a legal representative, if you distribute the property without a certificate, you are liable for any unpaid amounts (see paragraphs 4 and 5). You do not need a clearance certificate before each distribution, as long as you keep enough property to pay any liability to us.
+
+3. A legal representative is a person who administers, winds up, controls, or otherwise deals with a property, business, or estate of another person who may be an individual, a trust, or a corporation. A legal representative of a taxpayer, for the purposes of subsection 159(2), is an assignee, a liquidator, a curator, a receiver of any kind, a trustee (not including a trustee in bankruptcy), an heir, an administrator, an executor, a liquidator of a succession, a committee, or any like person, administering, winding up, controlling or otherwise dealing in a representative or fiduciary capacity with the property that belongs, or belonged to, or that is or was held for the benefit of, the taxpayer or the taxpayer’s estate. The reference to any other like person includes any person acting as a liquidator, whether or not the person was formally appointed. For instance, in a voluntary dissolution, there may be no formally appointed liquidator and the responsibility may be assumed by an auditor, director, officer, or other person. The facts of each particular case will determine whether a person is a legal representative.
+
+4. A clearance certificate certifies that all amounts for which the taxpayer is, or can reasonably be expected to become, liable under the Act at or before the time of distribution have been paid, or that the Minister of National Revenue has accepted security for payment. The certificate applies to amounts for which you are or may become liable for payment as the legal representative. These amounts include all income taxes (including provincial and territorial taxes that we administer), along with any interest and penalties. The certificate also covers the payment of any outstanding Canada Pension Plan contributions and Employment Insurance premiums, including any associated interest and penalties.
+
+5. If you do not get a clearance certificate before you distribute property, you are personally liable for unpaid amounts, whether assessed before or after the actual distribution of property. Your liability will not exceed the value of the property that you distributed. Interest will accrue on the amount assessed.
+
+6. When you give up control and transfer a property to the person entitled to receive it, we consider you to have distributed the property on that date. The date on which a person acquires the right to receive a property does not determine the distribution date. Furthermore, if you appropriated the property instead of distributing it, we consider that to be a distribution.
+
+## How to ask for a clearance certificate
+
+7. To ask for a clearance certificate, you can submit the completed form TX19, *Asking for a Clearance Certificate* with the required documents which are listed on the form. The submission can be sent by mail, fax, or electronically via using the Submit Document feature within CRA Online Portals. My Account for individuals, Represent a Client, and My Business Account. For mail and fax submissions, please direct them to the Tax Service Office which corresponds to the province of residence of the legal representative. Usually, that office will process the certificate. However, under some conditions, another tax services office may process your certificate. This may happen, for example, if the deceased’s properties are located in an area served by a tax services office other than yours.
+
+**Nova Scotia, New Brunswick, Prince Edward Island, or Newfoundland and Labrador** Nova Scotia Tax Services Office Estates and Trusts Audit 47 Dorchester Street Sydney NS B1P 6K3 Fax: Canada and United States, 1-833-712-2304Outside Canada and United States: 418-556-1852
+
+**Quebec** Western Quebec Tax Services Office Audit - Clearance Certificates 110-151 du Lac Ave Rouyn-Noranda QC J9X 0G7 Fax: Canada and United States, 1-833-712-2302Outside Canada and United States: 418-556-1853
+
+**Ontario and Nunavut** GTA East Tax Services Office Audit - Clearance Certificates 1050 Notre Dame Ave Sudbury ON P3A 5C1 Fax: Canada and United States, 1-833-712-2303Outside Canada and United States: 418-556-1853
+
+**Manitoba, Saskatchewan, Alberta, and Northwest Territories** Eastern Prairie Tax Services Office Audit - Clearance Certificates Post Office Box 1022 Winnipeg MB R3C 2W2 Fax: Canada and United States, 1-833-712-2305Outside Canada and United States: 418-556-1852
+
+**British Columbia and the Yukon** Coastal and Central British Columbia Tax Services Office Estates and Trusts Audit 9755 King George Blvd Surrey BC V3T 5E1 Fax: Canada and United States, 1-833-712-2308Outside Canada and United States: 418-556-1852
+
+8. To avoid delays, make sure Form TX19 is as complete as possible, and include all the required documents. Identify the person(s) asking for the certificate by providing the name, address, telephone number, and title (for example, executor, trustee, liquidator, or administrator). For a deceased person, Form TX19 has to include the full name, last address, social insurance number, and date of death. For a trust, include the name of the trust, the name and address of the trustee(s), the trust account number, and the wind-up date. In the case of a corporation, give the full corporate name, the Business Number, and the wind-up date.
+
+9. If you have not previously sent us the following documents, attach them to Form TX19:
+
+**For T1 Deceased and T3 Trust, we require**:
+
+1. a complete and signed copy of the taxpayer’s will, including any codicils, renunciations, disclaimers, and all probate documents if applicable. If the taxpayer died intestate (without a will), attach a copy of the document appointing an administrator (for example, the Letters of Administration or Letters of Verification issued by a provincial court);
+
+2. a copy of the trust agreement or documents for inter vivos trusts;
+
+3. any other documents that are necessary to prove that you are the legal representative;
+
+4. a detailed list of the assets that were owned by the deceased at the date of death, including all assets that were held jointly and all registered retirement savings plans and registered retirement income funds (including those with a named or designated beneficiary), their adjusted cost base (ACB) and fair market value (FMV) at the date of distribution by the estate;
+
+5. a list, description and the ACB of all assets, transferred to a trust as well as the FMV at the date of distribution;
+
+6. a detailed statement of distribution of the assets of the trust or the deceased’s estate to date;
+
+7. a statement of proposed distribution of any holdback or residual amount or property;
+
+8. the names, addresses, and social insurance numbers of any beneficiaries of property other than cash; and
+
+9. (i) a completed Form AUT-01, Authorize a representative for Access by Phone and Mail, signed by all legal representatives, authorizing an accountant, notary or lawyer, or any other person, to act on your behalf. Also, use this form if you want the CRA to send the clearance certificate to an address other than your own.
+
+**For T2 (Corporation), we require:**
+
+1. a copy of the director’s or shareholder’s resolution confirming the intention to dissolve the corporation and the date of dissolution;
+
+2. a copy of the notice of assessment for the final T2 filed;
+
+3. a completed Form AUT-01, Authorize a representative for Access by Phone and Mail, signed by all legal representatives of the corporation, authorizing an accountant or a lawyer to act on your behalf. Also use the form if you want the CRA to send the clearance certificate to an address other than your own, and
+
+4. a statement of distribution of the company assets to date as well as the scheme of the distribution of company assets at the date of wind-up.
+
+10. When you receive the clearance certificate, you have to complete, as soon as possible, the actual transfer or distribution of any property over which you have control.
+
+## Issuing a clearance certificate
+
+11. All clearance certificates will be issued on Form TX21, *Clearance Certificate*. We will issue a clearance certificate only when:
+
+1. you have filed and we have assessed the required tax return(s); and
+
+2. we have received or secured all amounts for which the taxpayer is liable. These amounts include income tax (including the provincial and territorial tax that we administer), Canada Pension Plan contributions, Employment Insurance premiums, interest, and penalties.
+
+For an estate or trust, where the provisions of subsections 106(3), 107(4), or 107(5) apply to a distribution, and where any tax payable by the estate or trust can be determined only after the fair market value of the property to be distributed has been determined on the date of distribution, we will issue a clearance certificate as long as you do **all** of the following:
+
+1. you establish a scheme of distribution by a date chosen by you, which is prior to the date of your request for a clearance certificate (see paragraph 12);
+
+2. you calculate the tax payable as if the distribution had occurred on the chosen date;
+
+3. you file a final tax return for the tax year ending on the chosen date and pay any taxes, interest, and penalties that are chargeable against or payable out of the estate or trust property; and
+
+4. you submit your request in writing, and include a statement that you will complete the actual transfer of all the property of the estate or trust as soon as possible after you receive the clearance certificate.
+
+We may not issue a clearance certificate if you have not filed a tax return or paid an amount for which the estate or trust is liable, or if there is an indication that the actual distribution will not take place as soon as possible after we issue the clearance certificate.
+
+Once we issue the certificate, we consider the chosen date to be the actual date of distribution for tax purposes and regard the estate or trust representative as holding the properties for the beneficiaries since that date.
+
+Do not file Form TX19, *Asking for a Clearance Certificate,* until you receive the assessment notice(s). However, there may be exceptions for an estate or trust (see paragraph 12).
+
+12. There may be times when you cannot determine the date of distribution because it may depend on completing the final assessment and issuing the clearance certificate. Since the final assessment has to include the period up to and including the date of distribution of property, it may seem we cannot issue the final assessment or the clearance certificate. For example, this situation could arise when the properties of an operating corporation continue to generate income until they are distributed. In such circumstances, you should contact your regional tax services office where you file Form TX19 (see paragraph 7) to make alternative arrangements.
+
+13. A clearance certificate covers only the properties you controlled from the date you received control to the date you asked for the clearance certificate. After you receive a clearance certificate, you may discover another property that affects the amounts of income or capital gains you reported on the taxpayer’s tax return(s). If so, you will have to get another clearance certificate before you distribute the newly identified property. In this circumstance, you should contact your regional tax services office where you file Form TX19 (see paragraph 7).
+
+## Individuals
+
+14. For an individual, you should ask for a clearance certificate only for properties you will distribute in your capacity as a legal representative.
+
+## Estates or trusts
+
+15. There may be situations when an estate or a trust will continue to exist to pay or allocate its income to the beneficiaries until a certain situation occurs (for example, a beneficiary reaches the age of majority). In such cases, we do not consider the payment or allocation of trust income to a beneficiary as a distribution of property. As a result, you do not need to ask for a clearance certificate*.*
+
+## Corporations
+
+16. Under subsection 87(2) (amalgamation), you can transfer a corporation’s assets and liabilities on a rollover basis to another corporation. If all conditions of the rollover are satisfied, the amalgamation should not create any additional tax liability. In this case, you do not need a clearance certificate. If you are not sure that the rollover is complete, you should apply for a clearance certificate. For any other type of corporate dissolution, you should get a clearance certificate before you distribute the corporate property.
+
+## Excise Tax Act (Goods and services tax/harmonized sales tax)
+
+17. Section 270 of the *Excise Tax Act* includes similar provisions for goods and services tax/harmonized sales tax (GST/HST) purposes requiring you, as a **receiver** or **representative**, to get a clearance certificate before you distribute any property or money you control. To ask for a clearance certificate, you have to complete Form GST352, *Application for Clearance Certificate*,and send it to your tax services office. For more information on clearance certificates related to the GST/HST, call **1-800-959-5525**.

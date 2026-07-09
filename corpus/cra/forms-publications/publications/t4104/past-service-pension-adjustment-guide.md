@@ -1,0 +1,2316 @@
+---
+title: "Past Service Pension Adjustment Guide"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4104/past-service-pension-adjustment-guide.html
+last_modified: 2023-04-03
+---
+# Past Service Pension Adjustment Guide
+
+## Before You Start
+
+### Is this guide for you
+
+This guide is for administrators of defined benefit (DB) registered pension plans. It has general information about how to calculate and report a past service pension adjustment (PSPA).
+
+As a plan administrator, you may need to calculate and report PSPAs when plan members are provided with new lifetime retirement benefits retroactively or when their existing benefits are improved. You may also deal with PSPAs if you sponsor a specified retirement arrangement or an unregistered foreign pension plan with Canadian resident members.
+
+This guide describes:
+
+- what a PSPA is
+
+- how a PSPA can arise
+
+- how to calculate a PSPA
+
+- how to report a PSPA
+
+It also has general information on the overall limit that applies to tax assistance for an individual's retirement savings and the effect a PSPA has on this limit. It also describes common situations that require a PSPA and those that do not.
+
+#### Note
+
+The PSPA rules apply only to past service benefits provided under a DB provision of a registered pension plan (RPP). They do not apply to money purchase (MP) provisions of RPPs or to deferred profit sharing plans, as these cannot provide past service benefits. In addition, the PSPA rules apply only to past service benefits provided for service after 1989. You do not calculate a PSPA for new or improved benefits for past service that occurred before 1990.
+
+There could be changes to the laws before this guide is next revised, which could affect the information in this version. If you are not sure that you have the most recent information, contact the [Registered Plans Directorate](#hlp).
+
+Our publications and personalized correspondence are available in braille, large print, e-text, or MP3 for those who have a visual impairment. For more information, go to [About multiple formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html) or call **1-800-959-5525**.
+
+La version française de cette publication est intitulée Guide du facteur d’équivalence pour services passés.
+
+### 1. Tax-assisted retirement savings
+
+To encourage Canadians to save for retirement, the Income Tax Act allows individuals to take part in tax-assisted retirement savings. The system is based on an overall limit of 18% of an individual’s earned income, up to a specified dollar limit. The overall limit applies to an individual’s total savings in registered pension plans (RPPs), deferred profit sharing plans (DPSPs), registered retirement savings plans (RRSPs), and pooled registered pension plans (PRPPs).
+
+Employees who are members of RPPs and DPSPs have a pension credit and a pension adjustment (PA) reported each year. A member’s PA is the total of their pension credits from all plans in which their employer participates in the year, not including RRSPs or PRPPs.
+
+Pension adjustments make sure that all employees at similar income levels will have access to comparable tax-assisted retirement savings, regardless of what type of retirement savings plan they belong to. An individual’s PA in a year reduces the amount that they can contribute to an RRSP and a PRPP in the next year.
+
+### 1.1 What is a past service pension adjustment (PSPA)
+
+If a member of a defined benefit RPP is credited with new or improved benefits for previous years of service that occurred after 1989, a past service pension adjustment (PSPA) has to be calculated to reflect the increase in the member’s lifetime retirement benefits. A PSPA accounts for the additional pension credits that would have been included in the member’s PA for those previous years if the upgraded benefits or service had been provided then. As a result, the PSPA reduces an individual’s registered retirement savings plan (RRSP) and pooled registered pension plan (PRPP) contribution room.
+
+The plan administrator of a defined benefit RPP is responsible for calculating and reporting PSPAs when necessary. If the PSPA is zero or a negative number, the plan administrator does not have to report the PSPA.
+
+### 1.2 Unregistered retirement plans or arrangements
+
+As of January 1, 1992, the overall limit on tax‑assisted retirement savings includes savings under certain types of unregistered retirement plans or arrangements. The need for a PSPA can arise with two types of unregistered plans:
+
+- foreign pension plans with members who are Canadian residents
+
+- specified retirement arrangements (SRAs) maintained by tax‑exempt employers
+
+An SRA is a retirement compensation arrangement that is not registered for income tax purposes and that is either unfunded, partially‑funded, or would be partially-funded if the employer contributed to it. Under an SRA, payments are, or can be, made after an individual ends their employment.
+
+SRAs do not include the following:
+
+- arrangements in which payments are to end either by the end of the calendar year in which the individual reaches 71 years of age or by the day that is five years after the individual terminates employment, whichever is later
+
+- arrangements in which funding is regulated by pension benefits standards legislation
+
+- although not subject to federal pension benefits standards legislation, arrangements that are funded as if they are subject to the legislation
+
+If you administer a foreign pension plan that provides new or improved benefits for post‑1991 past service, you may have to calculate and report a PSPA for members who are Canadian residents. If you administer an SRA under similar circumstances, you may have to calculate and report a PSPA, or a prescribed amount corresponding to a PSPA, for post‑1993 past service.
+
+If you have questions about PSPAs for unregistered plans, contact the [Registered Plans Directorate](#hlp).
+
+## 2. Glossary
+
+In this section, we define terms or expressions used in this guide. References to the Act mean the Income Tax Act and references to the Regulations mean the Income Tax Regulations.
+
+We have used plain language to explain the laws and terms you need to know to calculate a past service pension adjustment for defined benefit RPPs. Since this guide is not a legal text, see the Act and the Regulations for exact wording or contact the [Registered Plans Directorate](#hlp).
+
+**Accumulated past service pension adjustment (Facteur d’équivalence accumulé pour services passés)**
+
+The accumulated past service pension adjustment (PSPA) of an individual associated with an employer at any point in time is the total of:
+
+- provisional PSPAs that are exempt from certification and that occurred in the previous year, and
+
+- provisional PSPAs that have been certified in the current year
+
+**Ancillary benefits (Prestations accessoires)**
+
+Ancillary benefits are benefits that are provided in addition to a regular lifetime pension, including survivor benefits, bridging benefits or indexation.
+
+**Annualized earnings (Gains calculés sur une année)**
+
+Most defined benefit pension plans base benefits on full or partial years of pensionable service. In a final or best average formula, where the pension credit depends on pensionable earnings, you have to calculate the earnings received by part-time employees or employees who worked only part of a year on an annualized basis. Often the nature of an industry defines how full-time service is built up under the terms of a pension plan. For example, if an industry sector, such as a trade, has a 4-day work week, this could be recognized as full-time pensionable service. Conversely, if an industry sector has a 5-day work week, and an individual works 4 days a week, 80% of a full year would be earned over a calendar year. To annualize earnings, divide the earnings received by the period worked, then multiply the result by the period representing a full year’s work.
+
+A plan provides that a full year of service is 12 months.
+
+(earnings received ÷ months worked) × 12 months = annualized earnings
+
+If Rudy worked 5 months and earned $30,000, his annualized earnings would be: ($30,000 ÷ 5) × 12 = $72,000.
+
+**Average wage (Salaire moyen)**
+
+For a calendar year, the average wage is the sum of wage measures for the 12 months that end on June 30 of the immediately preceding calendar year, divided by 12. For example, to determine the 2021 average wage, you would add the wage measures from July 2019 to June 2020 inclusive, and divide by 12.
+
+In [section 4.2](#4.2), we provide the average wage for each year from 1984 to 2021, as well as the corresponding cumulative increase in the average wage. For details on how to obtain wage measures after 2021 (which you need to determine the average wage), see [wage measure](#wgmsr).
+
+**Benefit earned (Prestation acquise)**
+
+The benefit earned is the part of a member’s pension that accrues during the year in a defined benefit (DB) plan. It is the basis for determining the PAs and PSPAs. You generally calculate the benefit earned by multiplying the plan’s formula for the lifetime retirement benefit by the member’s pensionable earnings for the year. In the case of a flat benefit plan, the benefit earned would be the year’s flat amount.
+
+The Regulations limit the benefit earned for each year from 1990 to 1994 to a dollar limit. The dollar limit applies when the defined benefit provision calculation above produces a higher figure and if retroactive benefits are provided for any of the years for which you are calculating a PSPA.
+
+The dollar limits are:
+
+- $1,277.78 for 1990
+
+- $1,388.89 for 1991 and 1992
+
+- $1,500 for 1993
+
+- $1,611.11 for 1994
+
+Benefits earned after 1994 are capped by the defined benefit limit.
+
+A plan’s formula for lifetime retirement benefits is 2% of final average earnings for each year of service. In 1993, the member earned $150,000. As explained in [Earnings](#rnngs), when you calculate the benefit earned, you do not take into account the benefits for earnings between $75,000 and $86,111 (a difference of $11,111).
+
+Without a dollar limit, the benefit earned would be:
+
+(2% × $75,000) + [2% × ($150,000 – $86,111)] = $2,777.78 or, more simply, 2% × $138,889 ($150,000 – $11,111) = $2,777.78
+
+However, because of the 1993 dollar limit, the benefit earned is capped at $1,500 for PA and PSPA purposes. The $1,500 limit would have to be prorated if there was less than a full year of accrual.
+
+**Connected person (Personne rattachée)**
+
+A person is connected with an employer if the person does not deal at arm’s length with the employer, holds, alone or in combination with someone they do not deal with at arm's length, 10% or more of the issued shares of any class of shares of the employer or a related corporation, or is a person who provides services to an employer who is carrying on a personal-services business if certain conditions applied.
+
+**Consumer Price Index (Indice des prix à la consommation)**
+
+The Consumer Price Index (CPI) refers to the national monthly measure published by Statistics Canada. The Income Tax Regulations distinguish between CPI and average CPI. When determining the amount you can exclude from a PSPA, use CPI. Statistics Canada published the monthly measure in Table [18-10-0004-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401). You can contact Statistics Canada by calling **1-800-263-1136**, or by writing:
+
+Statistics Canada 150 Tunney’s Pasture Driveway Ottawa ON K1A 0T6
+
+Email: **STATCAN.infostats-infostats.STATCAN@canada.ca**
+
+**Defined benefit limit (Plafond des prestations déterminées)**
+
+The DB limit is the greater of:
+
+- $1,722.22 or
+
+- 1/9 of the [money purchase limit](#mnprchslmt)
+
+The defined benefit limit is one of the factors used in the legislative formula that limits the maximum lifetime retirement benefits that can be paid from a defined benefit provision. For the current and historical limits, go to [Annual limits](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html).
+
+**Defined benefit provision (Disposition à prestations déterminées)**
+
+In a defined benefit pension plan, retirement benefits are not based on accumulated contributions. The terms of a defined benefit plan or provision guarantee a specified level of pension income to a plan member when they retire. The level is set by a benefit formula in the plan.
+
+Defined benefit provisions come in various forms:
+
+- Final or best average: Benefits are based on the member’s earnings averaged over a short period such as the final few years of service, or the 3 or 5 years of highest earnings (for example, 2% of the average of the final 3 years of pensionable earnings × years of pensionable service)
+
+- Career average: Benefits are based on the member’s earnings in each year of service under the plan (for example, 2% of pensionable earnings for each year of service)
+
+- Flat benefit: Generally, benefits are expressed as a dollar amount for each month or year of service (for example, $55 per month per year of service)
+
+**Designated plan (Régime désigné)**
+
+A designated plan is a pension plan that meets all of the following conditions:
+
+- has a defined benefit provision
+
+- is not maintained because of a collective bargaining agreement
+
+- the total of the combined pension credits for connected persons and members earning more than 2.5 times the year’s maximum pensionable earnings (YMPE) is more than 50% of all pension credits earned under the defined benefit provision
+
+Designated plan status is relevant because certain past service benefit increases cannot be excluded from the PSPA calculation.
+
+**Earnings (Rémunération)**
+
+Earnings mean the amount of compensation (pensionable earnings) used to calculate pension benefits.
+
+The Regulations require that you do not include benefits for a certain range of earnings when you calculate a benefit earned (described above) for 1990 to 1994. The range of earnings is:
+
+- $63,889 to $86,111 for 1990
+
+- $69,444 to $86,111 for 1991 and 1992
+
+- $75,000 to $86,111 for 1993
+
+- $80,556 to $86,111 for 1994
+
+This earnings exclusion only applies if retroactive benefits are provided and a redetermination of pension credits for any of the above years is required.
+
+The lifetime retirement benefits in a plan are 1.5% of final average earnings for each year of service. In 1993, a member earned $100,000. The benefit earned is:
+
+(1.5% × $75,000) + [1.5% × ($100,000 – $86,111)] = $1,333.33, or more simply, 1.5% × $88,889 ($100,000 – $11,111*) = $1,333.33
+
+Note * The amount $11,111 is the excluded range of earnings ($86,111 – $75,000 = $11,111)
+
+See [benefit earned](#bnftrnd) for dollars limit that may also apply from 1990 to 1994.
+
+**Excess money purchase transfer (Transfert excédentaire de cotisations déterminées)**
+
+An excess money purchase transfer is an amount that is transferred for post‑1989 benefits to an RRSP, a RRIF, an MP plan or a DB SMEP and that exceeds the pension credits and [grossed‑up PSPA](#grssdppsp) reported for this service. It occurs when a member transfers a benefit greater than the amount reflected by their accumulated pension credits. An excess money purchase transfer can arise only for post‑1996 terminations.
+
+An excess money purchase transfer becomes the D variable of the basic PSPA formula, described in [section 4.5.1](#4.5.1), if this period becomes credited service again. The transfer amount is added to the member’s provisional PSPA if all of the following conditions are met:
+
+- the past service benefits are provided after 1997
+
+- the period for which the benefits are being provided was previously pensionable service of the individual under a defined benefit provision
+
+- the period ceased to be pensionable service under the former provision and did not subsequently become pensionable service of the individual under any defined benefit provision
+
+- the modified PSPA rules are not applicable
+
+A member terminates from an RPP on January 1, 2021, after 5 years of service. The sum of the member’s pension credits and grossed‑up PSPA under the plan is $20,000. The member receives a termination benefit of $25,000, which they transfer to their RRSP. The amount of the excess money purchase transfer is $5,000. This amount will be accounted for only if the individual is re-credited with the same service.
+
+**Grossed‑up PSPA (Montant brut du FESP)**
+
+When an individual gets past service benefits under a defined benefit provision of an RPP, the value of the new pension credits associated with the past service benefits is the individual’s grossed-up PSPA. A provisional PSPA can be reduced by [qualifying transfers](#qt) made to the RPP from other registered plans. A qualifying transfer can also include a lump-sum amount received from another RPP that was paid from the other RPP as a death benefit or because of marriage breakdown.
+
+The grossed‑up amount is the provisional PSPA amount without qualifying transfers and re-determined pension credits attributable to defined benefits under an RPP of a previous employer or plan. In other words, it is the A – B value when the basic PSPA method is used in calculating the PSPA, and the A + B value when the modified method is used, assuming the member’s former benefits had ceased to be provided immediately before the past service event.
+
+The basic and modified methods for PSPA calculations are described in sections [4.5.1](#4.5.1) and [4.5.2](#4.5.2). For more detail on grossed‑up amounts, see [RC4137, Pension Adjustment Reversal Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4137.html).
+
+**Individual pension plan (Régime de retraite individuel)**
+
+An individual pension plan (IPP) is a defined benefit pension plan that, at any time in the year or a preceding year, meets **one** of these conditions:
+
+- has fewer than four members, and at least one of the members is related to a participating employer
+
+- is a designated plan with 4 or more members, and it is reasonable to conclude that additional members were added to avoid being an IPP
+
+**Member (Participant)**
+
+This is an individual who has a right to receive benefits under the plan or provision of an RPP. This does not include an individual who has such a right only because another individual is participating in the plan. For example, a member’s beneficiary is not a member of the plan.
+
+**Money purchase limit (Plafond des cotisations déterminées)**
+
+The money purchase (MP) limit is:
+
+- $11,500 for 1990
+
+- $12,500 for 1991 and 1992
+
+- $13,500 for 1993
+
+- $14,500 for 1994
+
+- $15,500 for 1995
+
+- $13,500 for 1996 to 2002
+
+- $15,500 for 2003
+
+- $16,500 for 2004
+
+- $18,000 for 2005
+
+- $19,000 for 2006
+
+- $20,000 for 2007
+
+- $21,000 for 2008
+
+- $22,000 for 2009
+
+For the years after 2009, the MP limit is whichever of the following amounts is **greater**:
+
+- $22,000 × (average wage for the year ÷ average wage for 2009), rounded to the nearest multiple of $10, or if the amount ends with 5, rounded up to the next multiple
+
+- the MP limit for the previous year
+
+For the current and historical limits, please visit [Annual limits](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html).
+
+**Multi‑employer plan (Régime interentreprises)**
+
+A multi-employer plan (MEP) is a registered pension plan sponsored by a group of employers. However, not every plan with more than one participating employer is a MEP.
+
+A registered pension plan is a MEP in a calendar year if, at the start of the year (or when the plan is set up), it is reasonable to expect that at no time in the year will more than 95% of the active members be employed by one participating employer or by a related group of participating employers. The term active member is defined in subsection 8500(1) of the Regulations. The terms related persons and related group are defined in subsections 251(2) and 251(4) of the Act respectively. For more information on these terms, see [Income Tax Folio S1-F5-C1, Related Persons and Dealing at Arm’s Length](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html). A MEP includes a plan that is a specified multi-employer plan (SMEP).
+
+**Net past service pension adjustment (Facteur d’équivalence pour services passés net)**
+
+The net past service pension adjustment reduces the member’s unused RRSP deduction room for the year.
+
+The net past service pension adjustment is the total of the member’s past service pension adjustments for the year for all employers minus the total of all qualifying withdrawals made during the year by the member to allow the PSPA to be certified.
+
+**Old age security (Sécurité de la vieillesse)**
+
+The amount to use for OAS is the annual total of the maximum monthly OAS pension paid in a particular year. You will find the totals for 1990 to 2020 in [section 4.2](#4.2). To obtain the maximum monthly OAS pension for later years, go to [Statistics related to the Old Age Security program and the Canada Pension Plan](https://www.canada.ca/en/employment-social-development/programs/pensions/pension.html) or contact:
+
+Employment and Social Development Canada Gatineau QC K1A 0J9 Tel: **1‑800‑277‑9914**
+
+**Past service event (Fait lié aux services passés)**
+
+A past service event is any transaction, event or circumstance that causes a defined benefit plan member’s lifetime retirement benefits for service after 1989 to be improved retroactively. This can happen when a benefit is increased for a previous period of post‑1989 service or when a new period of post‑1989 past service is credited to the member. A past service event can also happen if there is a change in how you determine the benefits for such events or in the value of an automatic indexing factor. See [section 3](#sctn3) for examples of past service events.
+
+**Past service pension adjustment (Facteur d’équivalence pour services passés)**
+
+A past service pension adjustment (PSPA) arises when a past service event occurs. It represents the sum of the additional pension credits that would have been included in the member's pension credit if the upgraded benefits had actually been provided, or the additional service had actually been credited, in the years covered by the past service event.
+
+**Pension adjustment (Facteur d’équivalence)**
+
+An individual’s total pension credits for the year under a specific employer. It reflects the accumulation of benefits or level of saving in a year by or on behalf of a member because of his or her participation in one or more registered pension plans or deferred profit sharing plans. An individual’s PA in a year reduces the amount that they can contribute to an RRSP and PRPP in the following year. For more information on PAs, see [T4084, Pension Adjustment Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4084.html). **A PA can be zero, but it is never a negative amount**.
+
+**Pension adjustment offset (Montant de réduction du facteur d’équivalence)**
+
+The PA offset is an amount used in the pension credit formula. The offset is $1,000 until the end of 1996. Starting in 1997, the offset is $600. Throughout this guide, we will use $600 as the offset. The offset is part of the calculation to make sure that defined benefit pension plan members will, in most cases, have at least $600 in RRSP contribution room for the following year.
+
+**Pension credit (Crédit de pension)**
+
+A pension credit reflects the accumulation of benefits or level of savings in a year by or on behalf of a member in a DPSP or under a provision of an RPP.
+
+**Pension credit formula (Formule du crédit de pension)**
+
+The pension credit formula is used to calculate the pension credit for a defined benefit provision of an RPP (except for a SMEP).
+
+The formula is: pension credit = (9 × benefit earned) – PA offset
+
+**Provisional past service pension adjustment (Facteur d’équivalence pour services passés provisoire)**
+
+This is the PSPA calculated using the basic method ([section 4.5.1](#4.5.1)), the modified method ([section 4.5.2](#4.5.2)) or for an IPP member ([section 4.5.4](#4.5.4)). The provisional PSPA has to be certified by the CRA, as explained in [section 5.4](#5.4), unless it is exempt, as explained in [section 5.2](#5.2).
+
+**Qualifying transfer (Transfert admissible)**
+
+A qualifying transfer reduces the amount of the PSPA. It is an amount that the member transfers to a defined benefit provision of an RPP directly from an RRSP, a DPSP, a SMEP or a money purchase provision of an RPP in order to fund post‑1989 past service benefits. The transfer is an exchange of tax‑sheltered funds from one registered plan to another.
+
+The member can arrange in advance to transfer an amount to the defined benefit plan from one of the above plans or provisions if the transfer occurs no later than 90 days after the later of 1) the day the administrator receives the PSPA certification and 2) the day the administrator receives notification that the plan is registered. This arrangement is considered a qualifying transfer, but only if the arrangement is irreversible.
+
+The only person who can make a qualifying transfer from a spousal RRSP is the annuitant (the person in whose name the plan was established).
+
+#### Note
+
+A qualifying transfer should not be made until the CRA has accepted the plan for registration.
+
+**Qualifying withdrawal (Retrait admissible)**
+
+A qualifying withdrawal is an amount that a member withdraws from an RRSP to have a PSPA certified and that meets **all** of the following conditions:
+
+- the member has designated the amount on Form T1006, Designating an RRSP, a PRPP or an SPP Withdrawal as a Qualifying Withdrawal
+
+- the member has withdrawn the amount from the RRSP, PRPP or SPP during the year before the date on which the T1006 is filed, or in either of the two immediately preceding calendar years
+
+- the amount is not an RRSP commutation payment directly transferred to a registered retirement income fund (RRIF), permitted annuity or another RRSP
+
+- the member has not designated the amount for any other PSPA certification
+
+- the member has not deducted the amount in connection with:
+
+    - the withdrawal of an excess contribution made to an RRSP, or
+
+    - in connection with an un-deducted past service additional voluntary contribution
+
+The only person who can make a qualifying withdrawal from a spousal RRSP is the annuitant (the person in whose name the plan was established).
+
+The qualifying withdrawal increases the amount of the provisional PSPA that can be certified. See [section 5.4](#5.4) for the PSPA certification formula.
+
+The member must include the amount of the qualifying withdrawal in their income for the year they withdraw it.
+
+When the CRA calculates an individual’s unused RRSP deduction room at the end of the year, it subtracts the qualifying withdrawal from the net past service pension adjustment.
+
+**RRSP deduction limit (Maximum déductible au titre des REER)**
+
+The maximum amount you can deduct from contributions you made to your RRSP or PRPP and to your spouse's or common-law partner's RRSP for a year (excluding transfers to your RRSPs of certain types of qualifying income). The calculation is based on your earned income in the previous year. PAs, PSPAs, PARs, prescribed amount for connected persons, and your unused RRSP deduction room at the end of the previous year are also used to calculate the limit.
+
+**Service (Service)**
+
+The number of full and partial years of service for which a provision provides retirement benefits. Partial years are expressed as fractions of the year. The plan you administer defines what is included as service. Plans often refer to this as pensionable or credited service.
+
+**Single‑employer plan (Régime à employeur unique)**
+
+Single-employer plans contain a money purchase provision, a defined benefit provision, or both. One employer generally sponsors such a plan for its employees.
+
+Sometimes, more than one employer contributes to the same plan. This doesn’t mean it’s a multi-employer plan. References in this guide to single-employer plans include plans in which more than one employer participates, but that do not fit our description of a multi-employer plan.
+
+**Specified individual (Particulier déterminé)**
+
+A specified individual is a connected person as well as an individual who earns, in the year from all participating employers, more than 2.5 times the year’s maximum pensionable earnings (YMPE). For example, in 2021, the YMPE is $61,600. If a member’s annual earnings are expected to be at least $154,000 (2.5 × $61,600), the member is a specified individual.
+
+**Specified multi‑employer plan (Régime interentreprises déterminé)**
+
+A SMEP is an RPP offered by a group of employers, or by a union acting together with employers, that meets the conditions of subsection 8510(2) of the Regulations.
+
+**Unused RRSP deduction room (Déduction inutilisée au titre des REER)**
+
+Unused RRSP deduction room, which is calculated at the end of a tax year, is generally the part (if any) of an individual’s annual RRSP deduction limit that remains after the individual deducts their RRSP, PRPP and SPP contributions for the year. If the individual’s contributions fully use the deduction limit, then no unused deduction room remains. The individual can carry forward any unused RRSP deduction room to the following year, which then forms part of their deduction limit for that year. Employer contributions to an individual’s PRPP account also reduces unused RRSP deduction room.
+
+**Wage measure (Mesure des gains)**
+
+Wage measure is a monthly measure of the average weekly wages and salaries of the industrial aggregate in Canada, as published by Statistics Canada in the report in table [14-10-0203-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410020301). You can contact Statistics Canada at **1‑800‑263‑1136** or:
+
+Statistics Canada 150 Tunney’s Pasture Driveway Ottawa ON K1A 0T6
+
+Email: **STATCAN.infostats-infostats.STATCAN@canada.ca**
+
+**Year’s maximum pensionable earnings (Maximum des gains annuels ouvrant droit à pension)**
+
+The year’s maximum pensionable earnings (YMPE) is the amount of earnings, defined by the Canada Pension Plan, on which benefits from the Canada and Quebec Pension Plans are based. For the current and historical limits, go to [Annual limits](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html).
+
+## 3. Determining if a past service event generates a PSPA
+
+You do not have to calculate or report a PSPA for all past service events or benefits.
+
+### 3.1 Past service events that generate a PSPA
+
+You must calculate a PSPA for post‑1989 service in any of the following situations:
+
+- the plan is amended to:
+
+    - retroactively increase a flat benefit or benefit rate
+
+    - credit additional years of past service to one or more members
+
+    - provide additional past service benefits for only certain members
+
+    - retroactively change the way benefits are determined [Footnoteftn1](#fnftn1)
+
+- members are credited service due to a purchase of past service
+
+- additional past service benefits are provided to a member who meets conditions for a higher benefit (for example, joining a senior executive plan)
+
+- benefits increase automatically according to plan provisions
+
+- a change in value occurs to an annual, automatic indexing adjustment for a pension in pay
+
+- a defined benefit provision that recognizes past service is established
+
+- a member is credited with benefits for pensionable service with a previous employer
+
+- the plan is a specified multi‑employer plan (SMEP) and members make a past service contribution (past service contributions made by an employer are reflected in the employee’s PA)
+
+- benefits for a period of leave, reduced pay or disability are retroactively provided after April 30 of the year immediately following the year in which a member returns to work [Footnoteftn2](#fnftn2)
+
+- the period of service during which the member was waiting to join the plan is automatically credited when the member joins [Footnoteftn3](#fnftn3)
+
+- past service benefits are being credited for time that the member worked outside Canada [Footnoteftn4](#fnftn4)
+
+### 3.2 Past service events that do not generate a PSPA or that generate a PSPA of zero
+
+A PSPA is not required for the following past service events:
+
+- an improvement to [ancillary benefits](#ncllrbnfts)
+
+- adjustments required as a result of increases in earnings under an earnings‑related plan
+
+- an increase in a pension credit resulting from indexation that is automatically factored into the maximum permissible lifetime retirement benefit
+
+- after 2003, the plan is amended on a yearly basis to increase the DB limit from the prior year's limit to the current year’s limit.
+
+A past service event can result in a PSPA of zero if an increase is considered to be an excluded benefit. An excluded benefit is often one that is equal to or less than increases in the Consumer Price Index (CPI), average wage or similar wage measures. For more information on excluded benefits, see [section 4.3](#sctn4.3).
+
+A past service event will also result in a PSPA of zero for a member if plan benefits increase but the member is not entitled to the increase retroactively because of the following:
+
+- the member’s past service benefits were capped by a legislative limit or by an overriding limit in the plan, and
+
+- that limit continues to apply, despite the past service event
+
+If the member was already at the maximum permitted by either the plan or Regulations, and therefore no increase in benefits is permitted, the PSPA will be zero.
+
+Section 8504 of the Regulations limits the amount of lifetime retirement benefits payable under a DB provision in most plans. Under the definitions of [benefit earned](#bnftrnd) and [earnings](#rnngs), you will find a list of other common legislative limits that may apply.
+
+The terms of a plan may contain a different, overriding limit that is more restrictive than the legislative limits. Therefore, members who were subject to such plan limits before the past service event will have a PSPA of zero when benefits under the plan increase. Members who were unaffected by the plan limit will have a PSPA greater than zero, unless the PSPA is zero for other reasons described earlier in this section.
+
+An exception to these rules is a past service event under an IPP that creates additional actuarial liabilities under the plan. See [section 4.5.4](#4.5.4) for the IPP PSPA calculation.
+
+### 3.3 Benefits that do not generate a PSPA
+
+Increases to the following benefits do not generate a PSPA:
+
+- bridging benefits, even if paid
+
+- any indexation of earnings to reflect the increase in average wages and salaries between the year the earnings were paid and the year in which benefits are determined
+
+- a change in an early retirement reduction, even if it applies to a member who retired during the year
+
+- pension deferral past age 65, when the increased pension is not more than the actuarial equivalent of the pension payable at age 65 (in [section 4.2](#4.2), we provide more information on the situation where an increased pension is more than the actuarial equivalent of the pension payable at age 65)
+
+- cost‑of‑living adjustment made before the end of the year for a member whose pension starts in a year, when the increase does not exceed the greater of 4% a year and the increase in the CPI between the date of retirement and the date of the increase
+
+- adjustments to a member’s pension that depend on whether the member is totally and permanently disabled when pension payments start
+
+- additional benefits provided under a plan because a member has contributed more than 50% of the value of their pension (as required under pension benefits standards legislation)
+
+## 4. Calculating the past service pension adjustment (PSPA)
+
+A PSPA applies only to past service benefits for post‑1989 years of service under a defined benefit provision of an RPP. To calculate the PSPA, you have to recalculate the pension credit for each year affected by the past service event.
+
+### 4.1 How to calculate pension credits
+
+**Single‑employer plan**
+
+A pension credit in a single-employer plan reflects the benefit earned by a plan member during the year. Generally, you can use the plan’s benefit formula to determine the benefit earned.
+
+Pension credit = (9 × benefit earned) – PA offset
+
+See examples 5 to 16 in [T4084, Pension Adjustment Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4084.html).
+
+**Multi‑employer plan**
+
+You calculate the pension credit for a multi-employer plan in the same way as for a single‑employer RPP, unless the member has:
+
+- worked for two or more participating employers in the year
+
+- worked part-time or less than the full year
+
+- ended employment in the year
+
+For these three situations, you pro-rate the PA offset based on service in the year. See example 17 in [T4084, Pension Adjustment Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4084.html).
+
+**Specified multi‑employer plan**
+
+In a specified multi-employer plan, an employee’s pension credit for a calendar year equals the total of the following five amounts:
+
+1. Employee contributions made in the year for that same year or made in the year for a plan year that ends in the same year but started in the previous year
+
+2. Employee contributions made in January of the year for the previous year
+
+3. Employer contributions made in the year, or made by the end of February of the next year, for the year or any previous year, and based on a measure that relates specifically to the employee, such as number of hours worked or units of output
+
+4. Additional employer contributions, unrelated to a measure specific to the employee, made in and for the year or by the end of February of the next year, for any previous year
+
+5. Indirect employee and employer contributions (made through a union or employer association) that are sent on to the union or employer association before the end of the calendar year
+
+See example 18 in [T4084, Pension Adjustment Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4084.html).
+
+### 4.2 General information you need to calculate the PSPA
+
+To calculate a PSPA, you may need information from the member’s previous employer or the plan administrator. You must request the information in writing. After receiving your request, the other party has 30 days to give you the information or face a penalty of between $100 and $2,500.
+
+To recalculate a member’s pension credits, apply the following rules as applicable to your situation:
+
+**Average wage**
+
+In certain situations (see [section 4.3](#sctn4.3) and [4.3.5](#4.3.5) for details), you can use [average wage](#vrgwg) to determine how much to exclude from a member’s PSPA.
+
+To calculate the cumulative increase in the average wage from one year to another, divide the average wage for the later year by the average wage for the earlier year, and then subtract 1. For example, the cumulative increase in the average wage from 1991 to 2001 is:
+
+($647.70 ÷ $516.75) – 1 = 0.253 or 25.3%
+
+| Year | Average wage | Cumulative average wage increase to 2021 |
+
+| --- | --- | --- |
+
+| 1984 | $388.04 | 173.71% |
+
+| 1985 | $409.99 | 159.06% |
+
+| 1986 | $422.99 | 151.10% |
+
+| 1987 | $437.88 | 142.56% |
+
+| 1988 | $451.02 | 135.49% |
+
+| 1989 | $471.33 | 125.34% |
+
+| 1990 | $491.90 | 115.92% |
+
+| 1991 | $516.75 | 105.54% |
+
+| 1992 | $541.74 | 96.06% |
+
+| 1993 | $562.34 | 88.87% |
+
+| 1994 | $579.31 | 83.34% |
+
+| 1995 | $587.35 | 80.83% |
+
+| 1996 | $596.04 | 78.19% |
+
+| 1997 | $603.09 | 76.11% |
+
+| 1998 | $619.74 | 71.38% |
+
+| 1999 | $628.22 | 69.07% |
+
+| 2000 | $635.37 | 67.16% |
+
+| 2001 | $647.70 | 63.98% |
+
+| 2002 | $657.18 | 61.62% |
+
+| 2003 | $663.75 | 60.02% |
+
+| 2004 | $682.02 | 55.73% |
+
+| 2005 | $700.91 | 51.53% |
+
+| 2006 | $721.90 | 47.13% |
+
+| 2007 | $746.44 | 42.29% |
+
+| 2008 | $770.99 | 37.76% |
+
+| 2009 | $800.00 | 32.76% |
+
+| 2010 | $816.48 | 30.08% |
+
+| 2011 | $834.89 | 27.22% |
+
+| 2012 | $865.99 | 22.65% |
+
+| 2013 | $881.98 | 20.42% |
+
+| 2014 | $904.68 | 17.40% |
+
+| 2015 | $923.32 | 15.03% |
+
+| 2016 | $945.90 | 12.29% |
+
+| 2017 | $953.62 | 11.38% |
+
+| 2018 | $963.89 | 10.19% |
+
+| 2019 | $989.93 | 7.29% |
+
+| 2020 | $1,011.89 | 4.96% |
+
+| 2021 | $1,062.11 | 0.00% |
+
+The numbers listed in this chart are accurate as of April 2021. Statistics Canada updates the figures regularly. For years after 2021, contact Statistics Canada by calling **1‑800‑263‑1136** or writing to **STATCAN.infostats-infostats.STATCAN@canada.ca.**
+
+**Canada Pension Plan (CPP) / Quebec Pension Plan (QPP)**
+
+If you need to use all or part of the actual CPP/QPP benefits for PSPA purposes, use 25% of the year’s maximum pensionable earnings (YMPE) or the member’s annualized earnings, whichever is less. This limit also applies to plans that have been amended to use the enhanced CPP/QPP rates. For more information, see the related rule on YMPE below, as well as [T4084, Pension Adjustment Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4084.html).
+
+**Earnings**
+
+You often need to use the member’s pensionable earnings to calculate the PSPA. In this situation, use the earnings that the member actually received from the participating employer in each of the years affected by the past service event in order to recalculate the benefit earned in those years. Remember to exclude a range of earnings for 1990 to 1994 (see [Earnings](#rnngs) for further details).
+
+**Effective date of the past service event**
+
+The effective date of the past service event is one of the following:
+
+- if the plan is being set up, the date that the resolution authorizing the plan or other legal documents establishing the plan are passed
+
+- if the plan is amended to increase benefits immediately, the date that the resolution of the employer’s Board of Directors authorizing the plan amendment is passed
+
+- the future date specified for the benefit increase to become effective
+
+- the date any conditions for a benefit increase have been met
+
+- the date an increase takes effect, when benefits increase automatically
+
+- the date a member irrevocably elects to purchase past service
+
+**Most recent of prior past service events**
+
+In Step 2 of [sections 4.5.1](#4.5.1) and [4.5.2](#4.5.2), use the most recent, prior past service event in recalculating the benefit earned and pension credits. For example, if the benefit rate was originally 1%, increased to 1.2%, and is now increasing to 1.5%, use the 1.2% rate in Step 2.
+
+**Old age security (OAS)**
+
+If the calculation uses the OAS, use the maximum OAS benefits in each year affected by the past service event:
+
+| Year | Maximum OAS benefits |
+
+| --- | --- |
+
+| 1990 | $4,147.62 |
+
+| 1991 | $4,380.69 |
+
+| 1992 | $4,509.03 |
+
+| 1993 | $4,586.16 |
+
+| 1994 | $4,647.09 |
+
+| 1995 | $4,690.29 |
+
+| 1996 | $4,764.42 |
+
+| 1997 | $4,847.04 |
+
+| 1998 | $4,901.70 |
+
+| 1999 | $4,959.51 |
+
+| 2000 | $5,079.51 |
+
+| 2001 | $5,232.27 |
+
+| 2002 | $5,335.89 |
+
+| 2003 | $5,497.62 |
+
+| 2004 | $5,592.75 |
+
+| 2005 | $5,706.63 |
+
+| 2006 | $5,846.19 |
+
+| 2007 | $5,952.00 |
+
+| 2008 | $6,082.23 |
+
+| 2009 | $6,203.52 |
+
+| 2010 | $6,222.15 |
+
+| 2011 | $6,368.25 |
+
+| 2012 | $6,510.60 |
+
+| 2013 | $6,579.06 |
+
+| 2014 | $6,676.59 |
+
+| 2015 | $6,786.90 |
+
+| 2016 | $6,878.82 |
+
+| 2017 | $6,978.87 |
+
+| 2018 | $7,121.31 |
+
+| 2019 | $7,271.67 |
+
+| 2020 | $7,364.19 |
+
+See [old age security](#oas) for information on how to get the maximum for later years.
+
+**Postponed retirement**
+
+If an increased pension is provided to a member who postpones receiving their pension beyond age 65, and the increased pension is larger than the actuarial equivalent of a deferred pension, you have to include the excess in calculating the benefit earned for the year. This applies only to members over age 65 earning such additional pension. You can use any reasonable method for estimating the amount of the excess.
+
+**Year’s maximum pensionable earnings (YMPE)**
+
+If you need to use the YMPE to do the PSPA calculation, use the specific amount for each year affected by the past service event:
+
+| Year | YMPE |
+
+| --- | --- |
+
+| 1990 | $28,900 |
+
+| 1991 | $30,500 |
+
+| 1992 | $32,200 |
+
+| 1993 | $33,400 |
+
+| 1994 | $34,400 |
+
+| 1995 | $34,900 |
+
+| 1996 | $35,400 |
+
+| 1997 | $35,800 |
+
+| 1998 | $36,900 |
+
+| 1999 | $37,400 |
+
+| 2000 | $37,600 |
+
+| 2001 | $38,300 |
+
+| 2002 | $39,100 |
+
+| 2003 | $39,900 |
+
+| 2004 | $40,500 |
+
+| 2005 | $41,100 |
+
+| 2006 | $42,100 |
+
+| 2007 | $43,700 |
+
+| 2008 | $44,900 |
+
+| 2009 | $46,300 |
+
+| 2010 | $47,200 |
+
+| 2011 | $48,300 |
+
+| 2012 | $50,100 |
+
+| 2013 | $51,100 |
+
+| 2014 | $52,500 |
+
+| 2015 | $53,600 |
+
+| 2016 | $54,900 |
+
+| 2017 | $55,300 |
+
+| 2018 | $55,900 |
+
+| 2019 | $57,400 |
+
+| 2020 | $58,700 |
+
+| 2021 | $61,600 |
+
+| 2022 | $64,900 |
+
+### 4.3 Possible benefit exclusions from PSPAs for all plans except SMEPs
+
+A past service event may result in a PSPA of zero in the situations listed below, if the increase in benefits qualifies as an excluded benefit. Depending on the situation, an excluded benefit is usually one that is equal to or less than increases in the Consumer Price Index, average wage or similar wage measure.
+
+The situations in which you may be able to exclude, in whole or in part, a benefit increase are:
+
+- cost‑of‑living increases to pensions in pay
+
+- cost‑of‑living increases before pension starts (in a deferral period)
+
+- increases to flat benefit rate
+
+- increases to flat benefit plan
+
+- pre‑1992 agreements that scheduled flat benefit rate increases
+
+- job category or rate‑of‑pay change resulting in benefit increase
+
+- other benefit increases (subject to advance approval by the Minister of National Revenue)
+
+#### Note
+
+These benefit exclusions do **not** apply to SMEPs. [Section 4.5.3](#4.5.3) describes the special PSPA rules that apply to SMEPs.
+
+More details on each of these situations follow. In most situations, if the benefit increase is more than the amount you can exclude, you need to include only the excess amount when you recalculate the member’s pension credits. There are two exceptions to this general rule, shown in example 1 and 2.
+
+#### 4.3.1 Cost‑of‑living increase to pensions in pay
+
+Under the terms of a plan, retirees’ pensions may be increased (automatically or as needed) because of increases in the cost-of-living. If the pension increase is less than or equal to the cumulative increase in the Consumer Price Index (CPI) between the time the pension starts and the time of the increase, reduced by all previous such adjustments, you can exclude the entire increase. If the pension increase exceeds this amount, you have to calculate a PSPA for the entire increase, unless you can exclude it under “other benefit increases”.
+
+Retirement date:
+
+January 1, 2019
+
+Annual pension:
+
+$6,000
+
+Date of first increase:
+
+January 1, 2020
+
+Percentage increase to pension:
+
+2%
+
+Increased pension amount:
+
+$6,000 + (2% × $6,000) = $6,120
+
+CPI for January 2019:
+
+133.6
+
+CPI for January 2020:
+
+136.8
+
+Cumulative increase in CPI:
+
+136.8 ÷ 133.6 – 1 = 0.0240 or 2.40%
+
+Date of second increase:
+
+January 1, 2021
+
+Percentage increase to pension:
+
+1%
+
+Increased pension amount:
+
+$6,120 + (1% × $6,120) = $6,181.20
+
+Cumulative percentage increase in pension since retirement:
+
+$181.20 ÷ $6,000 × 100 = 3.02%
+
+CPI for January 2019:
+
+133.6
+
+CPI for January 2021:
+
+138.2
+
+Cumulative increase in CPI:
+
+138.2 ÷ 133.6 – 1 = 0.0344 or 3.44%
+
+Because the first increase in the annual pension, which was 2%, was less than the 2.40% that you could exclude, a zero PSPA resulted. The second increase, which was 1%, amounted to a cumulative percentage increase of 3.02% in the annual pension since retirement. Because this is less than the cumulative CPI increase of 3.44%, once again the result is a zero PSPA.
+
+If either of the two increases was more than the cumulative percentage CPI increase between the time the pension started and when the increase occurred, you would include the entire amount of the increase when calculating the retiree’s PSPA.
+
+#### Note
+
+The exclusion can exceed the above described CPI increase if the plan provides automatic cost-of-living increases based indexation permitted by subparagraph 8503(2)(a)(ii) of the Regulations.
+
+#### 4.3.2 Cost‑of‑living increase before pension starts (in a deferral period)
+
+When the member stops accruing benefits under the plan and defers the start of the pension payments, cost‑of‑living or similar increases during the deferral period may result in a zero PSPA. You can exclude a cost‑of‑living increase (or the total of the most recent and all prior such increases) that is equal to or less than the cumulative increase in the wage measure or CPI, between the beginning of the deferral period and the earlier of: (a) the time of the increase, and (b) when the pension starts.
+
+The deferral period begins on the latest date on which one of the following events occurs:
+
+- the member’s pensionable service stops
+
+- if benefits depend on earnings, the member’s earnings stop being considered in determining benefits
+
+- if benefits depend on indexed earnings, the member’s earnings stop being automatically adjusted in determining benefits
+
+- if the benefit formula has a flat benefit component (for example, the defined benefit limit or the flat benefit rate), the date that the rate used to determine the member’s pension was established
+
+In example 2, we assume the member ends their employment in 2019, after 35 years of service, and defers receiving pension benefits until 2021. The plan’s benefit formula is: 1.5% × average earnings in the final five years of service for each year of service, to a maximum of 30 years. Even though the member’s last five years of service are not pensionable, the benefits are calculated using the member’s earnings during those years. Therefore, the deferral period begins on the date the member stops working.
+
+Member terminated employment:
+
+March 1, 2019
+
+Date of benefit increase:
+
+January 31, 2021
+
+Benefit increase:
+
+4%
+
+CPI for March 2019:
+
+135.4
+
+CPI for January 2021:
+
+138.2
+
+Cumulative increase in CPI:
+
+(138.2 ÷ 135.4) – 1 = 0.0207 or 2.07%
+
+Wage measure for March 2019:
+
+$1,022.75
+
+Wage measure for January 2021:
+
+$1,131.21
+
+Cumulative increase in wage measure:
+
+($1,131.21 ÷ $1,022.75) – 1 = 0.1061 or 10.61%
+
+Although the 4% benefit increase is more than the cumulative CPI increase, it is not more than the cumulative increase in the wage measure. Therefore, a zero PSPA results.
+
+If the increase in the deferred pension was more than the cumulative increase in both the CPI and wage measure, or if it was more than the amount you could exclude under one of the other categories, you would have to include the full amount of the increase when you calculate the PSPA.
+
+#### 4.3.3 Increase to flat benefit rate
+
+In some situations, you can exclude a flat benefit rate increase. If the amount of an increase is **less than or equal** to the benefit rate just before it was increased multiplied by the percentage increase in the average wage from the previous year to the current year, you can exclude the increased amount for:
+
+- the **first** flat benefit rate increase each year **before** the member retires, and
+
+- the **first** flat benefit rate increase **after** the member retires
+
+In a flat benefit plan, the benefit rate is the amount of the flat benefit.
+
+In an earnings‑related plan, the benefit rate is the flat benefit component, if any, of the benefit formula. The flat benefit component is usually the [defined benefit limit](#dblmt) that is part of the overriding limit on lifetime retirement benefits imposed by section 8504 of the Regulations.
+
+Annual benefits increased January 1, 2021:
+
+from $1,500 to $1,550 per year of service
+
+Average wage increase since preceding year:
+
+($1,062.11 ÷ $1,011.89) – 1 = 0.0496 or 4.96%
+
+Increase in flat benefit rate:
+
+$1,550 – $1,500 = $50
+
+Amount of the increase that you can exclude:
+
+($1,500 × 0.0496) = $74.40
+
+Since the actual increase of $50 is less than the $74.40 you can exclude, a zero PSPA results.
+
+Annual benefits increased January 1, 2021:
+
+from $1,500 to $1,600 per year of service
+
+Average wage increase since preceding year:
+
+4.96%
+
+Increase in flat benefit rate:
+
+$1,600 – $1,500 = $100
+
+Amount of the increase that you can exclude:
+
+($1,500 × 0.0496) = $74.40
+
+In this case, the actual increase is more than the amount that you can exclude. Therefore, when you recalculate pension credits, in Step 1 you would use $1,525.60 ($1,600 – $74.40) as the new rate to determine the PSPA. We illustrate how to calculate the PSPA in this situation in [example 16](#xmpl16).
+
+#### 4.3.4 Increase in benefits because of an increase in the DB limit after 2003
+
+Increases in the DB limit for the years 2004 to 2009 exceeded the increase in the average wage for each of those years. As a result, a new exclusion was introduced to make sure the PSPA will be zero if members benefits are increased only as a result of an increase in the DB limit.
+
+A provision is amended in 2007 to increase the DB limit from $2,111.11 to $2,222.22, with a resulting PSPA of zero.
+
+A provision is amended in 2008 to increase the DB limit from $2,222.22 to $2,333.33, with a resulting PSPA of zero.
+
+The same result would occur every year until 2009 if the DB limit under the provision increased each year. In plans with generic wording like “the maximum under the Income Tax Act and Income Tax Regulations”, the limit increases automatically each January 1 without further plan amendments.
+
+If a provision is amended in 2008 to increase the DB limit from $2,111.11 to $2,333.33, but is not amended in 2007, the PSPA would be determined according to example 6.
+
+In January 2006, Jessica joined a defined benefit RPP providing benefits of 2% of the best average earnings per year of service. The maximum pension limit in the plan was not generic and stated that the DB limit was $2,111.11. Jessica’s annual salary was $200,000, which resulted in a pension credit of $18,400 for each of the years 2006 and 2007. On January 1, 2008, the plan sponsor amended the plan to change the $2,111.11 DB limit to $2,333.33. The PSPA would be calculated as follows:
+
+The full amount of the DB limit increase ($222.22) can be excluded from the recalculated pension credit calculation for 2006, because the plan’s 2006 benefit rate reflected the DB limit for that year.
+
+Only $111.11 of the benefit increase can be excluded when recalculating the pension credit for 2007, because the remaining $111.11 was required to bring the existing rate of $2,111.11 up to the DB limit of $2,333.33.
+
+Therefore, Jessica’s PSPA would be 9 × $111.11 = $1,000 (rounded). As stated above, the intent of this exclusion is for the PSPA to be zero if the DB limit under the provision increases on a yearly basis and the increase is the first in the year.
+
+#### Note
+
+The exclusion in example 6 is not automatic. For it to apply, the following 3 conditions must be met:
+
+- the exclusion has written approval from the Minister of National Revenue
+
+- the plan has more than 9 active members
+
+- the plan is not a designated plan
+
+Louise is a member of a defined benefit pension plan providing benefits of 2% of the best average earnings for each year of service. On January 1, 2021, Louise decided to buy back two years of past service (2004 and 2005). Under the plan terms, the DB limit is the current 2021 limit of $3,245.56. Louise’s earnings in each of 2004 and 2005 were $160,000.
+
+The PSPA for this purchase would be:
+
+(9 x $3,245.56 – $600) × 2 = $57,220 (rounded)
+
+The current year’s DB limit is used for all past years being purchased.
+
+There is no exclusion in this case because an exclusion applies only when the increase results from an increase in the DB limit. In this case, the increase resulted from the purchase of new service.
+
+Another exclusion deals with combination DB/money purchase arrangements (called a combination plan). It applies when the maximum under the DB provision is set as a fixed ratio of the current year’s DB limit in order to create contribution room under the money purchase provision. This exclusion lets you ignore the full amount of the increase in the DB limit if the ratio of the plan’s benefit limit to the current year’s DB limit stays constant from year to year.
+
+The DB portion of a combination plan restricts benefits to 60% of the DB limit. Because the DB limit increases each year, the PSPA will be zero if the ratio of the plan limit to the DB limit remains constant from year to year (that is, remains at 60%). This exclusion does not apply automatically to designated plans, and written approval of the Minister of National Revenue is required.
+
+#### 4.3.5 Increase to flat benefit plans
+
+A potentially larger exclusion than described in the preceding situation (flat benefit rate increases) may be available for increases up to and including the first increase after retirement benefits have begun to be paid. This exclusion is available when all of the following conditions are met:
+
+- the annual flat benefit is no more than 40% of the defined benefit limit in a year
+
+- the pension is determined using only one flat benefit rate
+
+- the PSPA is exempt from certification (see [section 5.2](#5.2)).
+
+You can exclude the difference between the greater of (i) and (ii) below and the flat benefit rate just before the increase.
+
+1. For each value of the flat benefit rate effective on or after January 1, 1984, **add**that rate multiplied by the percentage increase in the average wage from the year in which the rate you chose was first effective (or 1984, if later) to the year of the increase. Select the greatest of all the revalued benefit rates calculated. The table at the end of example 10 shows how to calculate the revalued benefit rates.
+
+2. Take the value of the flat benefit rate just before the increase, and **add** $18 per year of service (or $1.50 per month per year of service) multiplied by the number of years and fractions of a year between the date on which that rate was first effective (or January 1, 1984, if later) and the date of the increase.
+
+Pension formula:
+
+$600 per year of service
+
+Amendment date:
+
+January 1, 2021
+
+Amendment amount:
+
+Increase pension to $630 per year of service, an increase of $30
+
+Last amendment date:
+
+January 1, 2019
+
+Time since last increase:
+
+2 years
+
+Average wage increase from 2019 to 2021:
+
+7.29%
+
+Calculation of excluded amount (subtract $600 from amount (i) or (ii), whichever is more):
+
+1. $600 + (0.0729 × $600) = $643.74
+
+2. $600 + ($18 × 2 years) = $636.00
+
+Maximum excluded amount:
+
+$643.74 − $600 = $43.74
+
+Since the actual increase of $30 is less than the $43.74 you can exclude, a zero PSPA results.
+
+Pension formula:
+
+$60 per month of service
+
+Amendment date:
+
+March 15, 2021
+
+Amendment amount:
+
+Increase to $70 per month of service, an increase of $10
+
+Last amendment date:
+
+January 1, 2019
+
+Time since last increase:
+
+26½ months or 2.2 years
+
+Average wage increase from 2006* to 2021:
+
+47.13%
+
+Calculation of excluded amount (subtract $60 from amount (i) or (ii), whichever is more):
+
+1. $41.50 + (0.4713 × $41.50) = $61.06
+
+2. $60 + ($1.50 × 2.2) = $63.30
+
+Maximum excluded amount:
+
+$63.30 − $60 = $3.30
+
+When recalculating pension credits to determine the members’ PSPA, you can exclude $3.30 from the actual increase of $10 for each month of service. In [example 17](#xmpl17), we show how to calculate the PSPA in this situation.
+
+*This exclusion allows you to compare the increased benefit rate with **the greatest** increased benefit rate effective on or after January 1, 1984. This means that you use the most favourable rate, revalued according to the corresponding increase in the average wage. Calculation (i) in the formula gives you the revalued benefit. In this example, we used the $41.50 benefit rate for 2006 because it has the highest revalued benefit rate of $61.06 calculated in the table below:
+
+| Year | Benefit rate for the year | Cumulative average wage increase to 2021 | Revalued benefit rate |
+
+| --- | --- | --- | --- |
+
+| - | **(A)** | **(B)** | **[A + (B × A)]** |
+
+| 2020 | $53.00 | 4.96% | $55.63 |
+
+| 2019 | $53.00 | 7.29% | $56.86 |
+
+| 2018 | $52.50 | 10.19% | $57.85 |
+
+| 2017 | $52.00 | 11.38% | $57.92 |
+
+| 2016 | $51.50 | 12.29% | $57.83 |
+
+| 2015 | $51.00 | 15.03% | $58.67 |
+
+| 2014 | $50.00 | 17.40% | $58.70 |
+
+| 2013 | $50.00 | 20.42% | $60.21 |
+
+| 2012 | $48.50 | 22.65% | $59.49 |
+
+| 2011 | $47.00 | 27.22% | $59.79 |
+
+| 2010 | $45.00 | 30.08% | $58.54 |
+
+| 2009 | $43.00 | 32.76% | $57.09 |
+
+| 2008 | $42.00 | 37.76% | $57.86 |
+
+| 2007 | $42.00 | 42.29% | $59.76 |
+
+| 2006 | $41.50 | 47.13% | $61.06 |
+
+#### 4.3.6 Pre‑1992 agreements scheduling flat benefit rate increases
+
+An additional exclusion may apply when an agreement entered into before 1992 provides for scheduled increases in the flat benefit rate after the date of the agreement. The PSPA for a scheduled increase will be zero if the benefit rate increase is about the same as, or less than, what was reasonable to expect (when the agreement was entered into) for the percentage increase in the average wage from:
+
+- the year in which the rate was last increased to the year of this increase
+
+- if this is the first increase, the year the rate first took effect to the year of this increase
+
+#### 4.3.7 Increase in benefits due to change in job category or rate‑of‑pay
+
+Under some flat benefit plans, the benefit rate changes with a member’s job category or rate-of-pay. When these change, the increase in benefits will result in a PSPA of zero if, under the terms of the plan, the ratio of benefits to earnings does not increase significantly (less than 10%) as earnings increase.
+
+Pension formula
+
+Category A:
+
+$40 per month of service
+
+Category B:
+
+$45 per month of service
+
+Average earnings
+
+Category A:
+
+$35,000
+
+Category B:
+
+$38,000
+
+Ratio of pension to earnings
+
+Category A:
+
+$40 × 12 ÷ $35,000 = 1.37%
+
+Category B:
+
+$45 × 12 ÷ $38,000 = 1.42%
+
+Because the ratio for Category B is not significantly more than it is for Category A, a zero PSPA results for members who change categories. However, if the ratio of benefits to earnings becomes significantly higher when earnings increase, you cannot exclude any amount when you recalculate pension credits to determine the PSPA.
+
+#### 4.3.8 Other benefit increases
+
+You can exclude other benefit increases from the PSPA if they are related to an increase, in either the cost‑of‑living or a general measure of salaries and wages, that occurs before the member’s pension payments start. However, you must get permission in writing from the Canada Revenue Agency (CRA) to exclude such increases. You can send your written request to the [Registered Plans Directorate](#hlp).
+
+Pension formula:
+
+1% of career average earnings
+
+Member’s earnings
+
+2017:
+
+$40,000
+
+2018:
+
+$41,000
+
+2019:
+
+$42,000
+
+Benefit accrual
+
+2017:
+
+0.01 × $40,000 = $400
+
+2018:
+
+0.01 × $41,000 = $410
+
+2019:
+
+0.01 × $42,000 = $420
+
+Amendment date:
+
+December 31, 2020
+
+Amendment rate:
+
+Increase annual benefits for 2017, 2018 and 2019 by 2% each
+
+Average wage increase
+
+2017 to 2021:
+
+11.38%
+
+2018 to 2021:
+
+10.19%
+
+2019 to 2021:
+
+7.29%
+
+Increase in benefit accrual:
+
+(0.02 × $400) + (0.02 × $410) + (0.02 × $420) = $24.60
+
+Amount of increase you can exclude:
+
+(0.1138 × $400) + (0.1019 × $410) + (0.0729 × $420) = $117.92
+
+Because the actual increase of $24.60 is less than an increase based on the average annual wage ($117.92) between 2017 and 2021, the PSPA can be zero if you get written permission from the CRA to exclude the increase.
+
+### 4.4 Past service benefits for service in the current-year
+
+**Including current‑year benefits**
+
+When past service benefits are provided for a period of service in the current-year, and the service was not pensionable service under the provision immediately before the past service event, you may have to include these current‑year past service benefits in the PSPA calculation. For example, you will have to do this if you are crediting benefits for service from a previous employer.
+
+You can ask the CRA to waive this requirement by writing to the [Registered Plans Directorate](#hlp). If we waive the requirement, you have to include the current year’s past service benefits in the member’s PA for the year, instead of determining a PSPA.
+
+**Ignoring current‑year benefits**
+
+In the following two situations, you can ignore the benefits provided for the part of the past service period that is in the current-year. You would then include the benefits for the full year of service in the member’s PA for the year. This rule applies:
+
+- when all benefits being provided to a member under a defined benefit plan, a money purchase plan or a DPSP are replaced by benefits under a new defined benefit plan that is maintained by the same employer. This applies if, after the benefits are replaced, no further benefits are earned or contributions are made under the previous pension plan or DPSP, **and** no amounts have been transferred in the year from the previous plan to either a DPSP, an RRSP or a money purchase provision of an RPP
+
+- when the past service period was never pensionable service under any defined benefit provision, and no contributions were made by, or on behalf of, the member to any money purchase provision or DPSP during the past service period
+
+### 4.5 Calculation methods
+
+Unless the plan is a SMEP or an IPP, you will use either the basic calculation method or the modified calculation method to calculate a PSPA. (If the plan is a SMEP, see [section 4.5.3](#4.5.3). If the plan is an IPP, see [section 4.5.4](#4.5.4).)
+
+#### 4.5.1 Basic calculation method
+
+Use the basic method to calculate PSPAs for plan members when, under a defined benefit provision:
+
+- benefits are upgraded, or
+
+- additional post‑1989 years of service are credited
+
+The basic method is also used when a member terminates from a defined benefit provision after December 31, 1996, and later re‑establishes the same service under the same provision or another defined benefit provision.
+
+The basic method formula is: **A – B – C + D**.
+
+Each of these variables is described in the steps below.
+
+**Steps for basic PSPA calculation method**
+
+1. For all post‑1989 years covered by the past service event, recalculate the member’s benefit earned and pension credits under all defined benefit provisions of the employer’s RPPs. In other words, determine what the pension credits would have been if the additional benefits had been provided in each of those previous years. This is **variable A** in the formula.
+
+For the year of the past service event, you can usually ignore the benefits provided for the part of the past service period that is in the current year (see [section 4.4](#4.4)).
+
+**Please note that for high wage earners, you must use the DB limit of the year that the past service event occurred for all years.**
+
+2. Repeat the calculation from Step 1 using the benefits provided immediately before the past service event. This generally represents PAs and PSPAs previously reported for the individual for prior years. This is **variable B** in the formula.
+
+**Please note that for high wage earners, you must use the DB limit of the year that the past service event occurred for all years.**
+
+3. Subtract the amount you calculated in Step 2 from the amount you calculated in Step 1 to get the sum of the additional pension credits associated with the past service event.
+
+4. From the result of Step 3, subtract any qualifying transfers the member made to the plan to fund the past service benefits. This is **variable C** in the formula.
+
+A qualifying transfer can include funds that will be transferred to the plan at a later date. The funds must be transferred within 90 days of the later of i) the plan administrator receiving certification of the PSPA from the CRA, or ii) the administrator receiving notification that the plan is registered. The arrangement to transfer the funds must also be irreversible.
+
+5. Finally, add any excess money purchase transfers. This is **variable D** in the formula. ([Excess money purchase transfers](#xmpt) are described in section 2). The result is the PSPA. If the amount is negative, the PSPA is zero.
+
+#### Note
+
+These steps must be slightly revised if the service is being recognized for the first time under the provision. In this situation, the word “recalculate” in Step 1 would be “calculate”, and the result of Step 2 would always be zero. In addition, if the years affected by the past service event were previously pensionable service, and a money purchase transfer for these benefits occurred after 1996 (that is, a PAR was determinable), Step 2 would equal zero.
+
+Pension formula:
+
+1% of final average earnings
+
+Amendment January 1, 2020:
+
+Increased to 1.5% of final average earnings
+
+Member’s earnings
+
+2018:
+
+$35,000
+
+2019:
+
+$36,000
+
+2020:
+
+$37,000
+
+Step 1 **(Variable A)**: Recalculate the member’s benefit earned and pension credits, taking into account the past service event:
+
+2018:
+
+1.5% × $35,000 = $525 (9 × $525) – $600 = $4,125
+
+2019:
+
+1.5% × $36,000 = $540 (9 × $540) – $600 = $4,260
+
+2020:
+
+1.5% × $37,000 = $555 (9 × $555) – $600 = $4,395
+
+Step 2 **(Variable B)**: Calculate the member’s benefit earned and pension credits based on benefits provided immediately before the past service event:
+
+2018:
+
+1% × $35,000 = $350(9 × $350) – $600 = $2,550
+
+2019:
+
+1% × $36,000 = $360 (9 × $360) – $600 = $2,640
+
+2020:
+
+1% × $37,000 = $370(9 × $370) – $600 = $2,730
+
+Step 3 **(Variables A – B)**: Additional pension credits:
+
+2018:
+
+$4,125 – $2,550 = $1,575
+
+2019:
+
+$4,260 – $2,640 = $1,620
+
+2020:
+
+$4,395 – $2,730 = $1,665
+
+Total:
+
+$12,780 – $7,920 = $4,860
+
+Step 4 **(Variables C)**: Minus qualifying transfer. There were no qualifying transfers.
+
+Step 5 **(Variables D)**: There is no excess money purchase transfer.
+
+PSPA: A – B – C + D = $12,780 – $7,920 – 0 + 0 = $4,860
+
+Pension formula:
+
+1.3% of final average earnings
+
+Member’s date of hire:
+
+January 1, 2017
+
+Member joined the plan:
+
+January 1, 2021
+
+Member’s earnings
+
+2017:
+
+$37,000
+
+2018:
+
+$38,000
+
+2019:
+
+$39,000
+
+2020:
+
+$40,000
+
+Amendment made March 1, 2021:
+
+Credit past service from member’s date of hire to date they joined the plan
+
+Member’s transfer to the plan from RRSP to fund these post-1989 benefits:
+
+$2,000
+
+Step 1**(Variable A)**: Calculate the benefit earned and pension credits for all years covered by the past service event:
+
+2017:
+
+1.3% × $37,000 = $481 (9 × $481) – $600 = $3,729
+
+2018:
+
+1.3% × $38,000 = $494 (9 × $494) – $600 = $3,846
+
+2019:
+
+1.3% × $39,000 = $507 (9 × $507) – $600 = $3,963
+
+2020:
+
+1.3% × $40,000 = $520 (9 × $520) – $600 = $4,080
+
+Step 2**(Variable B)**: Calculate the benefit earned and pension credits based on benefits provided immediately before the past service event:
+
+Zero – The member did not earn any benefits before the amendment as this is new service.
+
+Step 3 **(Variables A – B)**: Additional pension credits:
+
+$3,729 + $3,846 + $3,963 + $4,080 = $15,618
+
+Step 4 **(Variable C)**: Minus qualifying transfer:
+
+$15,618 – $2,000 = $13,618
+
+Step 5 **(Variable D)**: There is no excess money purchase transfer.
+
+PSPA: A – B – C + D = $15,618 – 0 – $2,000 + 0 = $13,618
+
+Pension formula:
+
+2% of final average earnings
+
+Member’s date of hire:
+
+January 1, 2020
+
+Member joined the plan:
+
+January 1, 2021
+
+Member’s earnings in 2020:
+
+$200,000
+
+Amendment made May 1, 2021:
+
+Credit past service from date of hire to date member joined the plan
+
+Step 1 **(Variable A)**: Calculate the benefit earned and pension credits for all years covered by the past service event:
+
+2020:
+
+2% × $200,000 = $4,000, capped at $3,245.56 (2021 DB limit) (9 × $3,245.56) – $600 = $28,610 (rounded)
+
+Step 2 **(Variable B)**: Calculate the benefit earned and pension credits based on benefits provided immediately before the past service event:
+
+Zero– The member did not earn any benefits before the amendment as this is new service.
+
+Step 3 **(Variables A – B)**: Additional pension credits:
+
+$28,610 – 0 = $28,610
+
+Step 4 **(Variable C)**: Minus qualifying transfers:
+
+There were no qualifying transfers.
+
+Step 5 **(Variable D)**: There is no excess money purchase transfer.
+
+PSPA = A – B – C + D = $28,610 – 0 – 0 + 0 = $28,610
+
+Member joined plan January 1, 2016.
+
+Pension formula:
+
+$1,500 per year of service
+
+Amendment date:
+
+January 1, 2021
+
+Amendment:
+
+Increased to $1,600 per year of service
+
+Average wage increase from the preceding year:
+
+4.96%
+
+Increase in flat benefit rate:
+
+$1,600 – $1,500 = $100
+
+Amount of the increase that you can exclude:
+
+($1,500 × 0.0496) = $74.40
+
+Step 1 **(Variable A)**: Recalculate the member’s benefit earned and pension credits, taking into account the past service event and the amount you can exclude:
+
+2016:
+
+9 × ($1,600 – $74.40) – $600 = $13,130 (rounded)
+
+2017:
+
+9 × ($1,600 – $74.40) – $600 = $13,130 (rounded)
+
+2018:
+
+9 × ($1,600 – $74.40) – $600 = $13,130 (rounded)
+
+2019:
+
+9 × ($1,600 – $74.40) – $600 = $13,130 (rounded)
+
+2020:
+
+9 × ($1,600 – $74.40) – $600 = $13,130 (rounded)
+
+Step 2 **(Variable B)**: Recalculate the member’s benefit earned and pension credits based on benefits provided immediately before the past service event:
+
+2016:
+
+(9 × $1,500) – $600 = $12,900
+
+2017:
+
+(9 × $1,500) – $600 = $12,900
+
+2018:
+
+(9 × $1,500) – $600 = $12,900
+
+2019:
+
+(9 × $1,500) – $600 = $12,900
+
+2020:
+
+(9 × $1,500) – $600 = $12,900
+
+Step 3 **(Variable A - B)**: Additional pension credits:
+
+2016:
+
+$13,130 – $12,900 = $230
+
+2017:
+
+$13,130 – $12,900 = $230
+
+2018:
+
+$13,130 – $12,900 = $230
+
+2019:
+
+$13,130 – $12,900 = $230
+
+2020:
+
+$13,130 – $12,900 = $230
+
+Total:
+
+$65,650 – $64,500 = $1,150
+
+Step 4 **(Variable C)**: Minus qualifying transfer:
+
+There were no qualifying transfers.
+
+Step 5 **(Variable D)**: There is no excess money purchase transfer.
+
+PSPA = A – B – C + D = $65,650 – $64,500 – 0 + 0 = $1,150
+
+Member joined plan January 1, 2017.
+
+Pension formula:
+
+$60 per month of service
+
+Amendment date:
+
+March 15, 2021
+
+Amendment:
+
+Increased to $70 per month of service
+
+Last amendment:
+
+January 1, 2019
+
+Time since last increase:
+
+26½ months or 2.2 years
+
+Average wage increase 2006-2021:
+
+47.13%
+
+Calculation of excluded amount (subtract $60 from amount (i) or (ii), whichever is more):
+
+(i) $41.50 + (0.4713 x 41.50) = $61.06 (ii) $60 + ($1.50 × 2.2) = $63.30
+
+Maximum excluded amount:
+
+$63.30 – $60 = $3.30
+
+Step 1 **(Variable A)**: Recalculate the member’s benefit earned and pension credits, taking into account the past service event and the amount you can exclude:
+
+2017:
+
+($70 – $3.30) × 12 months = $800.40 (9 × $800.40) – $600 = $6,604 (rounded)
+
+2018:
+
+($70 – $3.30) × 12 months = $800.40 (9 × $800.40) – $600 = $6,604 (rounded)
+
+2019:
+
+($70 – $3.30) × 12 months = $800.40 (9 × $800.40) – $600 = $6,604 (rounded)
+
+2020:
+
+($70 – $3.30) × 12 months = $800.40 (9 × $800.40) – $600 = $6,604 (rounded)
+
+Step 2 **(Variable B)**: Recalculate the member’s benefit earned and pension credits based on benefits provided immediately before the past service event:
+
+2017:
+
+$60 × 12 months = $720 (9 × $720) – $600 = $5,880
+
+2018:
+
+$60 × 12 months = $720 (9 × $720) – $600 = $5,880
+
+2019:
+
+$60 × 12 months = $720 (9 × $720) – $600 = $5,880
+
+2020:
+
+$60 × 12 months = $720 (9 × $720) – $600 = $5,880
+
+Step 3 **(Variable A - B)**: Additional pension credits:
+
+2017:
+
+$6,604 – $5,880 = $724
+
+2018:
+
+$6,604 – $5,880 = $724
+
+2019:
+
+$6,604 – $5,880 = $724
+
+2020:
+
+$6,604 – $5,880 = $724
+
+Total:
+
+$26,416 – $23,520 = $2,896
+
+Step 4 **(Variable C)**: Minus qualifying transfer:
+
+There were no qualifying transfers.
+
+Step 5 **(Variable D)**: There is no excess money purchase transfer.
+
+PSPA: A – B – C + D = $26,416 – $23,520 – 0 + 0 = $2,896
+
+In 2003, Sara joined a defined benefit RPP (Plan A) promising benefits of 1.6% of earnings per year of service. Sara obtained past service benefits, funded by a $6,000 qualifying transfer from her RRSP, for a 2-year period of eligible past service beginning in 2001 that was not previously pensionable service under an RPP. The pension credits for the past service benefits total $10,000.
+
+The PSPA was determined using the formula A – B – C + D.
+
+A = value of new pension credits = $10,000
+
+B = value of old pension credits = $0
+
+C = qualifying transfers = $6,000
+
+D = excess money purchase transfers = $0
+
+The PSPA was $4,000.
+
+At the end of 2007, Sara leaves her job and is entitled to a termination benefit of $35,000. Her total pension credits for years 2003 to 2007 are $40,000. In February 2008, Sara transfers her termination benefit to a locked-in RRSP. Sara’s Pension Adjustment Reversal (PAR) is $15,000. [Footnoteftn5](#fnftn5)
+
+Midway through 2021, Sara gets a new job and arranges to obtain credit under her new employer’s defined benefit RPP (Plan B) for the 7 years of previous RPP service. To fund the past service benefits, Sara transfers $36,000 from her RRSP to Plan B. The total amount of pension credits for the past service benefits under Plan B is $60,000. Sara’s PSPA under Plan B is determined under the basic PSPA method as follows:
+
+PSPA = A – B – C + D
+
+A = the value of the new pension credits = $60,000
+
+B = the value of the pension credits immediately before the past service event = 0
+
+C = qualifying transfers = $36,000
+
+D = excess money purchase transfers = 0
+
+PSPA = $60,000 – 0 – $36,000 + 0 = $24,000
+
+In January 2002, Emily joins a defined benefit RPP promising benefits of 2% of best average earnings for each year of service. At the end of 2007, Emily leaves this job and transfers her termination benefit of $90,200 to a locked-in RRSP. The total pension credits for years 2002 to 2007 are $64,900.
+
+In April 2021, Emily arranges to obtain credit under her new employer’s defined benefit RPP for the 6 years of previous RPP service. Benefits under both the new plan and the old plan are identical. Under the terms of her employment contract, Emily transfers $50,000 from her RRSP to the new plan to cover a portion of the cost of the past service benefits. The employer funds the balance of the cost. Emily’s PSPA under the new plan is determined according to the basic PSPA method as follows:
+
+PSPA = A – B – C + D
+
+A = the value of the new pension credits = $64,900
+
+B = the value of the pension credits immediately before the past service event = 0
+
+C = qualifying transfers = $50,000
+
+D = excess money purchase transfers = $25,300 ($90,200 – $64,900)
+
+PSPA = $64,900 – 0 – $50,000 + $25,300 = $40,200
+
+Variable D, the adjustment for Emily’s excess money purchase transfer, is obtained by subtracting the total pension credits associated with the former benefits from the amount of the RRSP transfer ($90,200 – $64,900 = $25,300). This amount is included in the PSPA because, in her previous plan, Emily received a termination benefit of $90,200 but had an RRSP reduction of only $64,900, because of her pension credits.
+
+#### 4.5.2 Modified calculation method
+
+Use the modified calculation method to calculate PSPAs when:
+
+- an individual’s benefits are transferred directly from one defined benefit provision of an RPP to a replacement provision of an RPP, or
+
+- an individual terminated from a defined benefit provision of an RPP before 1997, and the service is being credited again
+
+The modified method formula for calculating PSPAs is:
+
+A + B + C – D.
+
+Each of these variables is described in the steps below:
+
+**Steps in modified PSPA calculation method**
+
+1. For all years covered by the past service event, recalculate the benefit earned and pension credits under all defined benefit provisions of all the employer’s RPPs. In other words, determine what the pension credits would have been if the additional benefits had been provided in each of those previous years. As outlined earlier in [section 4.4](#4.4), you may have to include an amount for the benefits provided for any part of the past service period that is in the current year. If you have to include this amount, but information you need to calculate the PSPA is not yet available (for example, amount of commissions to be included in earnings), you can make reasonable assumptions about this information.
+
+**Please note that for high wage earners, you must use the DB limit in the year that the past service event occurred for all years.**
+
+2. Do the same calculation, based on the benefits provided immediately before the past service event.
+
+3. Subtract the total amount you calculated in Step 2 from the amount you determined in Step 1. The amount you get is the sum of the additional pension credits associated with the past service event. (At this point the calculation may result in a negative amount. This would be the case if the benefits under the previous employer’s plan were more generous than the past service benefits being provided under the new employer’s plan. If the amount is negative, it is deemed to be zero). This is **variable A** in the modified formula. The calculations for variable A in the modified formula are the same as the calculations for A – B in the basic formula.
+
+4. In a year that employment terminates, if the member is not entitled to any benefits from the plan, the pension credit for that year equals either the member’s required contributions for the year or the pension credit otherwise calculated, whichever amount is **less**. This is called the “year of termination” rule. If the member’s pension credit is or was calculated using this rule, you have to:
+
+- determine the pension credit for that year under the previous provision that the employer would have calculated (or will calculate) if the “year of termination” rule did **not** apply
+
+- subtract the pension credit for that year that the employer calculated (or will calculate) using the “year of termination” rule
+
+- add this amount to the amount you determined in Step 3
+
+This is **variable B** in the modified formula, referred to as the “non‑vested PA amount.” There will be only a B variable if service from a pre‑1997 termination is being credited. Because PAR legislation has been introduced, variable B will become obsolete in the future.
+
+5. Add the amount of any benefits related to service after 1989 that remain to be paid to or on behalf of the member from the previous plan or that have been transferred to an RRSP, a money purchase provision of an RPP, or a defined benefit provision of a SMEP (excluding amounts that will be transferred to fund the benefits under the current plan). From this amount, subtract the amount by which B exceeds A in the basic formula. This part of the formula would be relevant only when the PA value of the new benefits provided for qualifying past service period is less than the PA value of the benefits formerly provided for this period. This is **variable C** in the modified formula, which is referred to as the money purchase transfer.
+
+6. After you have added the amounts determined under Steps 3, 4, and 5, subtract any qualifying transfers (**variable D**) made by the member to the plan to fund the past service benefits. The result is the PSPA. If the amount is negative, the PSPA is zero.
+
+At the end of 2020, Mark changes jobs and seeks to have defined benefit credits for 8 years of service (2013 to 2020) transferred to his new employer’s RPP. Benefits under Mark’s former RPP and the new RPP are 2% of earnings for each year of service, less an identical offset for public pension benefits. For both plans, the total of his pension credits for years 2013 to 2020, based on Mark’s earnings in those years, is $56,200. In accordance with the reciprocal transfer agreement, a termination benefit of $51,300 is transferred from the former plan to the new plan to fund the defined benefits provided under that plan. The transfer occurs in early 2021. In this situation, Mark’s PSPA under the new plan is determined as follows:
+
+PSPA = A + B + C – D
+
+A = PA value of the new pension credits less the PA value of the pension credits before the past service event
+
+B = non-vested PA amount = 0
+
+C = money purchase transfers = 0
+
+D = qualifying transfers = 0
+
+The PSPA is zero.
+
+The fact that the modified PSPA rules apply in this situation ensures that the PSPA will measure only the extent to which Mark’s defined benefits are upgraded. Since the benefits under both plans are identical, the PSPA is zero. In this situation, where the PSPA is being determined under one particular RPP, and the PAR is being determined under another, the administrator of Mark’s new plan is required to notify the administrator of Mark’s former plan of the occurrence of a past service event within 30 days of the event. The new plan administrator has a total of 60 days from the service event to provide the previous plan administrator with the amount of the PA transfer.
+
+Halfway through 1996, Robert leaves his job and loses entitlement to pension benefits for 2.5 years of service. A termination benefit of $8,500 is transferred to Robert’s RRSP. The total of Robert’s pension credits for the 2.5 years of service is $16,300. Using the “year of termination rule,” the pension credit for 1996 is $1,700 which represents the lesser of the $1,700 of employee contributions made in the year under the provision and the $5,200 pension credit that would otherwise have been determined.
+
+On February 1, 2021, Robert joins the plan of a new employer and is provided with past service benefits for the 2.5 years of pensionable service under his former plan. The benefit formula for the new plan is less generous than the benefit formula for the former plan. Under the new plan, the total pension credits for Robert’s past service benefits is $18,000 (as compared to $19,800 under the former plan, determined without reference to the PA in year of termination). Robert does not transfer any amount from his RRSP to fund the past service benefits. His PSPA is determined as follows:
+
+PSPA = A + B + C – D
+
+A = PA value of the new pension credits less the PA value of the pension credits before the past service event = $18,000 – $19,800 = 0
+
+B = non-vested PA amount = $5,200 – $1,700 = $3,500
+
+C = money purchase transfers = $8,500 – ($19,800 – $18,000) = $6,700
+
+D = qualifying transfers = 0
+
+PSPA = $10,200
+
+Because Robert joined a less generous plan, the pension credits for the former benefits fully offset the value of the new benefits. **Variable A** is therefore 0. **Variable B** is obtained by subtracting the special PA amount that was calculated using the year of termination rule ($1,700) from the pension credit if the year of termination was not applied ($5,200). **Variable C** is the amount by which the RRSP transfer of $8,500 exceeds the difference between the pension credits under the new plan and those under the former plan.
+
+#### 4.5.3 Special rules for specified multi‑employer plans (SMEPs)
+
+The usual rules for determining PSPAs for benefit upgrades do not apply to SMEPs, because SMEP pension credits are calculated on a contribution basis, similar to money purchase provisions. The member’s annually reported PA reflects any past service benefit upgrades that are funded with contributions made by the employer. (See [section 4.1](#4.1) to calculate pension credits for a defined benefit provision of a SMEP.)
+
+When a member makes a contribution under a defined benefit provision of a SMEP for past service benefits, a past service event occurs. The PSPA will usually equal the member’s past service contribution. This includes any contributions the member made that are conditional on certification of the PSPA. The PSPA must be certified by the CRA before the related benefit can be paid to the member.
+
+A past service contribution does **not** include:
+
+- contributions included in the member’s pension credit under the plan for the year, or
+
+- tax‑free transfers into the plan (tax‑free transfers are [qualifying transfers](#qt))
+
+All PSPAs for SMEPs must be certified, unless the less‑than‑$50 tolerance rule described in [section 5.1](#5.1) applies.
+
+#### 4.5.4 Special rules for individual pension plans (IPPs)
+
+The regular rules for determining PSPAs for benefit upgrades do not apply to IPPs.
+
+The rule for calculating a PSPA for an IPP, described below, applies for past service events that occur after March 22, 2011.
+
+The formula for calculating PSPAs for IPPs is:
+
+A – B
+
+Each of these variables is described in the steps below.
+
+**Steps for calculating a PSPA for IPPs**
+
+1. Determine whether the past service event requires the use of the basic calculation method ([section 4.5.1](#4.5.1)) or the modified method ([section 4.5.2](#4.5.2)). Calculate the PSPA that would have applied had the plan not met the definition of an IPP without taking into consideration any qualifying transfer amounts.
+
+2. Determine the fair market value, at the date of the past service event, of all assets that the plan member held in all RRSPs and RRIFs under which they were the annuitant and in their members’ accounts under money purchase provisions of RPPs.
+
+3. Multiply the amount determined in step 2 by the total years of past service being recognized or upgraded. Then, divide that amount by the lesser of 35, and the number of years by which the member’s age exceeds 18 at the time of the past service event.
+
+4. Add the figure determined in step 3 to the member’s unused RRSP deduction room at the end of the year immediately preceding the year in which the past service event occurred.
+
+5. Determine the actuarial liabilities that arose when the past service event occurred. This figure will have to be determined by an actuary.
+
+6. Compare the amounts from step 4 and step 5 and use the lesser of these amounts in step 7.
+
+7. Compare the amounts from steps 1 and 6, and use the greater of the two amounts as **variable A** in the formula.
+
+8. Determine the amount of qualifying transfers that will be made to the IPP. (This will be the amount necessary to ensure the PSPA can be certified: see [section 5](#sctn5)). This amount is **variable B** in the formula. You can now calculate the PSPA by subtracting variable B from variable A.
+
+All PSPAs for IPPs have to be certified, unless the less‑than‑$50 tolerance rule described in [section 5.1](#5.1) applies.
+
+Mary owns her own business. On July 1, 2020, she sets up a defined benefit registered pension plan for herself, effective January 1, 2020, recognizing all the years she has been employed by and drawing a salary from her business. The business was incorporated on January 1, 1996, and she has consistently received employment income of $200,000 for the past 24 years. Mary was born on July 1, 1961, and has contributed to her RRSP diligently since the age of 18. By July 1, 2020, she had accumulated $900,000 worth of RRSP assets. At the end of 2019, Mary’s unused RRSP deduction room was $20,000.
+
+She consults with her actuary, who determines that the cost (actuarial liability) associated with the past service event will be $929,387. Because the new defined benefit RPP has only one member who is related to the participating employer, it meets the definition of an IPP. This means the IPP PSPA formula must be used.
+
+Note:
+
+- Answers are rounded
+
+- Since Mary has employment income of $200,000, she is capped at the $3,092.22 DB limit for 2020
+
+IPP PSPA formula = A - B
+
+Mary can now calculate the PSPA under the IPP.
+
+Step 1: Basic method PSPA calculation since Mary’s situation meets the conditions in [section 4.5.1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4104/past-service-pension-adjustment-guide.html):
+
+1996 = (9 x $3,092.22) - $1,000 = $26,830 x 1 year of service = $26,830 1997 to 2020 = (9 x $3,092.22) - $600 = $27,230 x 23 years of service = $626,290 Total = $26,830 + $626,290 = $653,120
+
+Step 2: Value of RRSP = $900,000
+
+Step 3: The proportion of value of RRSPs at the time of the past service event:
+
+Age at time of past service event exceeds 18 = 59 – 18 = 41 years The lesser of 35 and 41 = 35 $900,000 x 24 ÷ 35 = $617,143
+
+Step 4: RRSP value and unused RRSP room = $617,143 + $20,000 = $637,143
+
+Step 5: Actuarial liability = $929,387
+
+Step 6: The lesser of $637,143 and $929,387 = $637,143
+
+Step 7: Variable A = the greater of $653,120 and $637,143 = $653,120
+
+Step 8: Variable B = $653,120 - ($8,000 + $20,000 – 0 + 0) = $625,120
+
+PSPA = A – B = $653,120 – $625,120 = $28,000
+
+## 5. Reporting and certification
+
+As the plan administrator in the case of RPPs, or the plan trustee or employer in the case of DPSPs, you have to report a PSPA that is greater than zero to both the Canada Revenue Agency (CRA) and the employee, unless the PSPA is less than $50 (see [section 5.1](#5.1)). There are two ways to report PSPAs, depending on whether the CRA has to certify the PSPA. If a certified PSPA is required, the PSPA amount cannot exceed the member’s available RRSP room + $8,000.
+
+### 5.1. Amounts to report
+
+If the PSPA is less than $50, you do not have to report it. This administrative rule applies if:
+
+- the original PSPA calculation is less than $50, or
+
+- the difference between the original PSPA and the amended PSPA is less than $250
+
+Please note that this limit is cumulative for all PSPAs calculated during a year. This rule does not apply if the employee or the CRA asks you to report the PSPA accurately.
+
+### 5.2. PSPAs exempt from certification
+
+When a PSPA for a particular member is zero, you do not need to request certification. Also, you generally don’t have to request certification of a member’s PSPA if the past service event **increases the benefits** of all or most (90%) of the members under the provision and all conditions are met in either of the following situations:
+
+1. When a new defined benefit provision is established:
+
+- there are at least 10 active members under the provision
+
+- no more than 25% of the active members under the provision are specified active individuals
+
+- the member’s PSPA is not more than 3.5 times the money purchase limit for the year of the increase*
+
+- the member is not a specified active individual*
+
+- if the member is not an active member, the member was neither a person connected with a participating employer nor a person who earned more than 2.5 times the YMPE from employment with the participating employers in any of the five years just before the year of the past service event*
+
+*You need certification of the PSPA only for the member(s) for whom the condition is not met. Example: The provision has 100 members and 1 of these members is a specified active individual. You would report a certified PSPA for the specified active individual, and an exempt-from-certification PSPA for the remaining 99 members.
+
+2. After a defined benefit provision is established:
+
+- there are at least 10 active members under the provision
+
+- no more than 25% of the active members under the provision are specified active individuals
+
+- the benefits of all, or substantially all (90%), of the active members are increased due to the past service event (Note that the actual member’s benefits must increase as a result of the past service event.)
+
+- the percentage increase in total benefits provided to any specified active individuals is not more than the percentage increase in the total benefits provided to other active members
+
+- additional benefits provided to retired or terminated members are not more advantageous than additional benefits provided to active members
+
+If the above conditions are substantially, but not entirely met, employers can ask the CRA to waive the certification requirement. To do so, send a letter to the Registered Plans Directorate indicating what requirement(s) have not been met and explaining why the administrator feels that the requirements have been substantially met.
+
+PSPAs may also be exempt from certification when the exclusion outlined in [example 6](#xmpl6) applies. You can pay additional benefits to a member immediately if the PSPA is exempt from certification.
+
+### 5.3. Reporting exempt PSPAs
+
+As the plan administrator, you must complete a T215 return for all PSPA that are exempt from certification. The T215 return consists of:
+
+- each [T215 slip, Past Service Pension Adjustment (PSPA) Exempt from Certification or Permitted Corrective Contribution (PCC)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t215.html), arising from the past service event
+
+- Form [T215SUM Summary of Past Service Pension Adjustments (PSPAs) Exempt from Certification or Permitted Corrective Contributions (PCC)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t215sum.html)
+
+- in some cases, Form [T215SEG, T215 Segment](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t215seg.html)
+
+The T215 return has to be filed with the CRA and the T215 slips distributed to the members within 120 days of the past service event. Send the return to:
+
+Winnipeg Tax Centre T1 Electronic Processing Post Office Box 14000, Station Main Winnipeg MB R3C 3M2
+
+**T215 late-filing penalties**
+
+If you file a T215 return after the deadline, you might have to pay a late-filing penalty. The penalty is the greater of $100 or the amount calculated according to the chart below, not exceeding 100 days.
+
+| Number of returns filed late | Daily penalty (up to 100 days) | Maximum penalty |
+
+| --- | --- | --- |
+
+| Less than 51 | $10 | $1,000 |
+
+| 51 to 500 | $15 | $1,500 |
+
+| 501 to 2500 | $25 | $2,500 |
+
+| 2501 to 10,000 | $50 | $5,000 |
+
+| Greater than 10,000 | $75 | $7,500 |
+
+Remember to:
+
+- file the original T215 slips with the original Form T215SUM, and file amended T215 slips with an amended Form T215SUM
+
+- record only one past service event on each T215 return
+
+- if you file additional T215 slips for a past service event for which you have already filed a T215 return, mark "original" on the copy of the Form T215SUM that you file with the additional T215 slips
+
+#### Note
+
+In the report code (Box 5), indicate if it is an original slip “O”, amended slip “A”, or cancelled slip “C”. The amount in Box 2 of the T215 slip should reflect the total PSPA and not the difference between the original amount and the correct amount.
+
+**T215 slips:** Complete one T215 Supplementary for each plan member affected by the past service event. Distribute the T215 slips as follows:
+
+Copy 1: Send to the Winnipeg Tax Centre, T1 Electronic Processing, along with Form T215SUM and, if necessary, Form T215SEG, within 120 days of the past service event.
+
+Copy 2: Give to the plan member within 120 days of the past service event.
+
+Copy 3: Keep for your records.
+
+**Form T215SUM:** The T215 summary form reports the totals of certain information from the T215 slips. Distribute Form T215SUM as follows:
+
+Copy 1: Send to the Winnipeg Tax Centre, T1 Electronic Processing, along with a T215 Summary and, if necessary, Form T215SEG.
+
+Copy 2: Keep for your records.
+
+**Form T215SEG:** If your T215 return contains more than 100 sheets or 300 separate T215 slips, you must file T215 segment forms:
+
+1. Separate your T215 slips into groups of about 100 sheets or 300 separate supplementary forms.
+
+2. Complete all required areas on each Form T215SEG and attach one to the front of each group of T215 slips.
+
+3. Make sure that the totals from all the T215 segment forms equal the totals shown on Form T215SUM.
+
+4. Keep copies for your records.
+
+If you file more than 50 T215 slips, you should file the return electronically through Internet file transfer. We no longer accept CDs, DVDs, USB keys, or diskettes. For information on electronic filing, go to [Filing Information Returns Electronically (T4/T5 and other types of returns) - Overview](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+### 5.4. PSPAs requiring certification
+
+The CRA has to certify all PSPAs greater than zero that do not meet the conditions for exemption outlined in [section 5.3](#5.3). In addition, when a defined benefit provision is established, the CRA has to certify all PSPAs relating to specified active individuals.
+
+Generally, certification depends on whether the PSPA exceeds the member’s unused RRSP deduction room at the end of the previous year by more than $8,000. We must certify the PSPA before benefits relating to the past service event can be paid to the member. You can usually start making contributions to fund the additional benefits as soon as you apply for certification. However, if we deny certification, the contributions must cease immediately and be returned to the contributor.
+
+On behalf of the member, you have to complete [Form T1004, Applying for the Certification of a Provisional PSPA](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1004.html).
+
+Depending on the member’s province of residence, send your form to one of the following addresses:
+
+The CRA will certify a provisional PSPA if it is equal to or less than the result of the formula below. This formula is also outlined on the back of Form T1004.
+
+**Formula**$8,000
+
+**plus** member’s unused RRSP deduction room at the end of the immediately preceding year (positive or negative)
+
+**plus** the amount of all qualifying withdrawals designated for the purposes of PSPA certifications previously issued in the year
+
+**plus** the amount of qualifying withdrawals relating to this past service event
+
+**minus** the member’s accumulated PSPA when certification is determined. This includes certified PSPAs for past service events earlier in the year and PSPAs exempt from certification in the prior year. The current PSPA is excluded because it hasn’t been certified yet.
+
+**plus** the member’s pension adjustment reversal (PAR) reported for the year
+
+PSPA related to this past service event
+
+$ 2,000
+
+The member’s accumulated PSPA for 2021 at the time of certification
+
+$ 1,000
+
+Member’s unused RRSP deduction room at the end of 2020
+
+$ 2,500
+
+Member’s qualifying withdrawals
+
+$ 0
+
+Member’s PAR for 2021
+
+$ 0
+
+Certification formula:
+
+$ 8,000
+
+plus
+
+unused RRSP deduction room at the end of 2020
+
+$ 2,500
+
+plus
+
+qualifying withdrawals
+
+$ 0
+
+$ 10,500
+
+minus
+
+2021 accumulated PSPAs
+
+$ 1,000
+
+plus
+
+PAR
+
+$ 0
+
+Formula total
+
+$ 9,500
+
+Because the formula total of $9,500 is greater than the $2,000 PSPA, the PSPA would be certified.
+
+PSPA related to this past service event
+
+$ 10,000
+
+The member’s accumulated PSPA for 2021 at the time of certification
+
+$ 0
+
+Member’s unused RRSP deduction room at the end of 2020
+
+$ 500
+
+Member’s qualifying withdrawals
+
+$ 0
+
+Member’s PAR for 2021
+
+$ 0
+
+Certification formula:
+
+$ 8,000
+
+plus
+
+unused RRSP deduction room at the end of 2020
+
+$ 500
+
+plus
+
+qualifying withdrawals
+
+$ 0
+
+$ 8,500
+
+minus
+
+2021 accumulated PSPAs
+
+$ 0
+
+plus
+
+PAR
+
+$ 0
+
+Formula total
+
+$ 8,500
+
+Because the formula total of $8,500 is less than the PSPA of $10,000 for the event, the PSPA cannot be certified. In this situation, the CRA will send a letter to the member advising them that the PSPA cannot be certified and will enclose a copy of [Form T1006, Designating an RRSP, a PRPP or an SPP Withdrawal as a Qualifying Withdrawal](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1006.html). The member then has the following options:
+
+1) Make a qualifying withdrawal, which will allow a larger PSPA to be certified. In this example, the minimum qualifying withdrawal (that is, the amount required to allow certification of the PSPA) is $1,500. The maximum withdrawal is $9,500, based on the following formula:
+
+A – (B + C – D + R)
+
+Where
+
+A is the PSPA relating to this past service event
+
+B is the member’s unused RRSP deduction room at the end of 2020
+
+C is the amount of qualifying withdrawals designated for previous PSPA certifications in 2021
+
+D is the member’s accumulated PSPA for 2021
+
+R is the member’s PAR reported for 2021
+
+2) Make a qualifying transfer, which will reduce the PSPA. In this example, the member would have to make a minimum qualifying transfer of $1,500 to have the PSPA certified. They could also make a maximum qualifying transfer of $10,000, which would reduce the PSPA to zero.
+
+3) Buy the amount of service possible with the available RRSP room plus the additional $8,000. In other words, if in this example the PSPA of $10,000 could buy 2 years of service then the member could simply buy 1.5 years of service (these numbers are used for discussion purposes only and are not necessarily accurate).
+
+4) Wait and buy back the service at a later date when they have enough RRSP room.
+
+Remember that only the annuitant can make a qualifying withdrawal or transfer from an RRSP. If the contributor is a different person, they cannot complete these transactions.
+
+As mentioned above, when the formula total is less than the member’s PSPA for the event, we will notify the member directly that the past service benefits cannot be provided. With the letter, we will enclose Form T1006, Designating an RRSP, a PRPP or an SPP Withdrawal as a Qualifying Withdrawal, which the member can use to designate a qualifying withdrawal. If the member chooses this option, they should fill in the form and return it to us within 30 days.
+
+To speed up CRA processing of certification applications, you should review the certification formula with the member before sending in Form T1004. If the calculation indicates we will not approve the application, the member should decide which of the above options they prefer. If the member chooses to do a qualifying withdrawal, they can complete Form T1006 and file it with Form T1004.
+
+**Distribution of Form T1004**
+
+Depending on the member's province of residence, send your form to one of the following addresses:
+
+1.
+
+Keep a copy for your records during the certification process.
+
+2. We will complete Part 5 of Form T1004 to indicate approval or denial of the application and return it to the plan administrator. As the plan administrator, you should send a copy of the Form T1004 to the member within 60 days of the date you receive approval or denial of certification.
+
+If we deny certification, all contributions being made in anticipation of certification must stop immediately, and no benefits can be provided to the member. However, a member can still receive an increased or upgraded benefit that is lower than the benefit originally intended. This would be possible if the CRA can certify a smaller PSPA resulting from a reduced benefit upgrade. To obtain certification for the reduced upgrade or increased benefit, a new Form T1004 would have to be submitted to us by the administrator.
+
+**Distribution of Form T1006**
+
+Depending on the member’s province of residence, send your form to one of the following addresses:
+
+The member should keep a copy for their records.
+
+### 5.5. Correcting, amending, or cancelling a previously reported PSPA
+
+Before you can correct an exempt PSPA, you must determine the source of the error. Below we describe common errors and the corrective action.
+
+Please note that only the plan administrator should request changes to previously reported PSPAs.
+
+**An exempt PSPA has been calculated or reported in error on a T215 slip**
+
+If you are amending a previously reported PSPA, you must complete a new T215 slip with the correct amount. You must also complete a Form T215SUM. See [section 5.1](#5.1) to determine if an amended PSPA is required.
+
+To identify both the Form T215SUM and the T215 slip as having been amended, select "This is an amended return" on the Form T215SUM and fill in "A" in Box 5 of the T215 slip. The rest of the information (for example, RPP Number, Past Service Event Date, Name, SIN) should be identical to the information on the original return.
+
+If you are cancelling a previously reported PSPA, you must also complete a new T215 slip with an amount of zero. You must also complete a Form T215SUM.
+
+To identify both the Form T215SUM and the T215 slip as having been cancelled, select "This is a cancelled return" on the Form T215SUM and fill in "C" in Box 5 of the T215 slip. The rest of the information (for example, RPP Number, Past Service Event Date, Name, SIN) should be identical to the information on the original return.
+
+You cannot file amended forms with original slips for the same taxpayer, in the same return.
+
+Send the amended or cancelled return to:
+
+Winnipeg Tax Centre T1 Electronic Processing Post Office Box 1400, Station Main Winnipeg MB R3C 3M2
+
+**An exempt PSPA T215 return has been filed with an incorrect past service event date**
+
+You do not have to file a new T215 return. Instead, write a letter to the Pension Workflow Team of the Winnipeg Tax Centre explaining the situation and include the Form T215SUM from the original filing. The letter should state the correct past service event date, using the format YYYY MM DD.
+
+We will then cancel the original T215 return and update a new original return with the new past service event date.
+
+This letter should be sent to:
+
+Canada Revenue Agency Winnipeg Tax Centre Pension Workflow Team Post Office Box 14000, Station Main Winnipeg MB R3C 3M2
+
+**Correcting or cancelling a certified PSPA (Form T1004)**
+
+If you are correcting a certified PSPA, (for example, you need to correct an incorrect amount), please send a copy of the previously approved Form T1004 with the “cancel” box ticked **and** the new Form T1004 to the appropriate address below depending on the member’s province of residence.
+
+If you are cancelling a certified PSPA, (for example, you need to delete an amount approved in error), please send a copy of the previously approved Form T1004 with the “cancel” box ticked to the appropriate address depending on the member’s province of residence.
+
+We will update our records with the correct figures and inform you, the plan administrator, of the correction.
+
+### 6. Where to get help
+
+**Registered Plans Directorate**
+
+You can find more information at [Savings and pension plan administration](https://www.canada.ca/en/services/taxes/savings-and-pension-plans/savings-and-pension-plan-administration.html).
+
+**By telephone**
+
+Toll-free in Canada and the United States: **1-800-267-3100**.
+
+If you are calling from outside of Canada or the United States, call us collect at **613-221-3105**. The Registered Plans Directorate accepts collect calls.
+
+**By mail and courier**
+
+Registered Plans Directorate Canada Revenue Agency 875 Heron Rd Ottawa ON K1A 0L5
+
+**Forms and publications**
+
+Find all of the forms and publications at [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+**Forms**
+
+- T215 Past Service Pension Adjustment (PSPA) Exempt from Certification or Permitted Corrective Contribution (PCC)
+
+- T215SUM Summary of Past Service Pension Adjustments (PSPAs) Exempt from Certification or Permitted Corrective Contributions (PCC)
+
+- T215SEG T215 Segment
+
+- T1004 Applying for the Certification of a Provisional PSPA
+
+- T1006 Designating an RRSP, a PRPP or an SPP Withdrawal as a Qualifying Withdrawal
+
+**Guides**
+
+- T4084 Pension Adjustment Guide
+
+- RC4137 Pension Adjustment Reversal Guide
+
+- T4040 RRSPs and Other Registered Plans for Retirement

@@ -1,0 +1,161 @@
+Title: ARCHIVED - Fractional Interest in Shares
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it115r2/archived-fractional-interest-shares.html
+Corpus path: corpus/cra/forms-publications/publications/it115r2/archived-fractional-interest-shares.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Fractional Interest in Shares
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO.: **IT-115r2**
+
+DATE: February 20, 1995
+
+SUBJECT: INCOME TAX ACT**Fractional Interest in Shares**
+
+REFERENCE: Subsection 51(1) (also section 47 and subsections 51(2) and (4) of the *Income Tax Act* and subsection 26(8) of the *Income Tax Application Rules* (ITAR))
+
+**Notice to the reader:**
+
+- [Bulletins do not have the force of law](https://www.canada.ca/formspubs/pbs/tntc-eng.html).
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it115r2.html).
+
+At the Canada Revenue Agency (CRA), we issue income tax interpretation bulletins (ITs) in order to provide technical interpretations and positions regarding certain provisions contained in income tax law. Due to their technical nature, ITs are used primarily by our staff, tax specialists, and other individuals who have an interest in tax matters. For those readers who prefer a less technical explanation of the law, we offer other publications, such as tax guides and pamphlets.
+
+While the comments in a particular paragraph in an IT may relate to provisions of the law in force at the time they were made, such comments are not a substitute for the law. The reader should, therefore, consider such comments in light of the relevant provisions of the law in force for the particular taxation year being considered, taking into account the effect of any relevant amendments to those provisions or relevant court decisions occurring after the date on which the comments were made.
+
+Subject to the above, an interpretation or position contained in an IT generally applies as of the date on which it was published, unless otherwise specified. If there is a subsequent change in that interpretation or position and the change is beneficial to taxpayers, it is usually effective for future assessments and reassessments. If, on the other hand, the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date on which the change is published.
+
+Most of our publications are available on our Web site at: **www.cra.gc.ca**
+
+***If you have any comments regarding matters discussed in an IT, please send them to:***
+
+***Income Tax Rulings Directorate Legislative Policy and Regulatory Affairs Branch Canada Revenue Agency Ottawa ON K1A 0L5***
+
+***or by email at the following address:*** [bulletins@cra.gc.ca](mailto:bulletins@cra.gc.ca)
+
+**This version is only available electronically.**
+
+## Contents
+
+- [Application](#P55_2334)
+
+- [Summary](#P57_2437)
+
+- [Discussion and Interpretation](#P60_3612)
+
+    - [Convertible Properties](#P61_3641)
+
+    - [Identical Properties](#P124_7893)
+
+    - [Other Bulletins](#P126_8750)
+
+- [Explanation of Changes](#P133_9003)
+
+## Application
+
+This bulletin cancels and replaces Interpretation Bulletin IT-115R dated September 15, 1975.
+
+## Summary
+
+Section 51 sets out the rules concerning convertible property. Subsection 51(1) permits a taxpayer to exchange a convertible property issued by a corporation for shares of the corporation on the basis of a tax-free rollover. A convertible property is capital property that is a share of the corporation, or a bond, debenture, or note of the corporation that contains a conversion privilege. In the course of an exchange of convertible property, a taxpayer may be entitled to receive a fractional interest in a share. This bulletin discusses how a taxpayer may account for cash or other non-share consideration received in lieu of a fractional interest in a share.
+
+Section 47 deals with identical properties acquired after 1971 while subsection 26(8) of ITAR discusses such properties acquired generally before 1972. “Identical properties” are properties that are the same in all material respects. Various transactions may result in a taxpayer having a fractional share that is an interest in identical properties. This bulletin discusses the disposition of such a fractional share where some of the identical properties were acquired before 1972 and others after 1971.
+
+## Discussion and Interpretation
+
+### Convertible Properties
+
+**¶ 1.** Subject to ¶ 2 below, for exchanges occurring, and reorganizations commencing, after December 21, 1992,
+
+subsection 51(1) permits a taxpayer to exchange convertible property issued by a corporation for shares of one or more classes of capital stock of the same corporation on the basis of a tax-free rollover, that is, the adjusted cost base of the convertible property becomes the adjusted cost base of the shares received. No consideration other than shares of the corporation may be received for the convertible property. “Convertible property” is capital property of a taxpayer that is a share of a corporation, or a bond, debenture, or note of a corporation that contains a conversion privilege. Before December 22, 1992, a share, to be a convertible property, had to contain a conversion privilege. Subsection 248(1) defines “share” in part, to mean “a share or fraction of a share of the capital stock of a corporation”. Notwithstanding the inclusiveness of that definition, this bulletin discusses “shares” and “fractions of shares” as if they were different.
+
+**¶ 2.** Subsection 51(2) denies the tax-free rollover under subsection 51(1) and restricts any capital loss where, as a result of the exchange of convertible property of a taxpayer for shares that have a fair market value that is less than that of the convertible property, a benefit has been conferred on a person related to the taxpayer. Subsection 51(4), which applies to exchanges occurring and reorganizations commencing after December 21, 1992, provides that subsections 51(1) and (2) do not apply where section 86 or subsection 85(1) or (2) apply.
+
+**¶ 3.** The situation often arises in an exchange of convertible property that a taxpayer becomes entitled to a fraction of a share because of the particular conversion agreement. However, most corporations will not issue these fractional shares. In lieu of the fractional shares, the agreement will usually provide for the taxpayer to receive cash or other non-share consideration. The application of subsection 51(1) generally will not be denied in these circumstances, notwithstanding that the subsection requires that no consideration other than shares be received for the convertible property. In addition, if the value of the cash or other non-share consideration received by a taxpayer in this manner does not exceed $200, the taxpayer may either calculate and report the gain or loss on the amount received in lieu of the fraction of a share, or ignore that calculation and reduce, by the amount received, the adjusted cost base of the shares received.
+
+However, where the total amount or value of any non-share consideration received exceeds $200, the taxpayer must report, to the extent that total amount or value exceeds the paid-up capital of the fractional share that the taxpayer is entitled to receive on the exchange, a deemed dividend under subsection 84(3) and any gain or loss, as the case may be, from the disposition of its fractional share.[[Footnote 1]](#P67_6638)
+
+In either case, subsection 51(1) may be utilized for the convertible property exchanged for shares.
+
+**¶ 4.** One method of calculating the gain or loss on the amount received in lieu of the fraction of a share follows, but any reasonable method is acceptable:
+
+Assumptions:
+
+(a) A taxpayer holds 80 preferred shares, that have a total adjusted cost base of $720. The shares are trading at $11 per share at the date of the conversion.
+
+(b) The preferred shares are convertible into common shares on the basis of .32 common shares for one preferred share.
+
+(c) In lieu of issuing fractional shares, the corporation pays cash based on the closing market price of a common share (which is $35) on the day before the conversion. Thus the taxpayer, who is entitled to 25.6 common shares (.32 × 80), receives 25 common shares and $21 in cash (.6 × $35).
+
+Calculating the gain or loss on the fraction of the share:
+
+| Proceed | $21.00 |  |  |
+
+| --- | --- | --- | --- |
+
+| Less | Portion of the Adjusted Cost Base applied fraction of common share for which cash received |  |  |
+
+|  | --------------------------------------- X | Adjusted Cost base |  |
+
+|  | total number of common shares receivable on conversion (including any fraction) |  |  |
+
+|  | Or |  |  |
+
+|  | (.6 ÷ 25.6) × $720 | = | 16.88 |
+
+| Gain |  |  | $4.12 |
+
+### Identical Properties
+
+**¶ 5.** For calculating a gain or loss where a taxpayer disposes of some identical property owned on December 31, 1971 and some property acquired subsequently, the adjusted cost base of the pre-1972 property must be calculated under subsection 26(8) of the ITAR and the adjusted cost base of the post-1971 property is calculated under section 47. This creates two separate pools of identical property. Dispositions are deemed to be from the pre-1972 pool until the pool is exhausted. However, for simplicity, where a taxpayer has a pre-1972 and a post-1971 pool of identical shares and the post-1971 pool contains a fraction of a share (e.g., a fraction received as a stock dividend), the disposition of the fraction may be considered to be a disposition from the post-1971 pool, even though the pre-1972 pool was not exhausted at that time.
+
+### Other Bulletins
+
+**¶ 6.** Departmental practice applied in situations involving fractional interests in shares is discussed in the current version of IT-450, *Share for Share Exchange* and in the current version of IT-474, *Amalgamations of Canadian Corporations*.
+
+## Explanation of Changes
+
+**Introduction**
+
+The purpose of the *Explanation of Changes* is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+**Overview**
+
+This bulletin describes how a shareholder may treat a fractional interest in shares where the shareholder is entitled to receive a fraction of a share as a result of an exchange of convertible property, or where the shareholder has two pools of identical property and disposes of a fraction of a share from one of those pools.
+
+This bulletin reflects amendments to the *Income Tax Act* resulting from S.C. 1980-81-82-83, c.48 (formerly Bill C-54), and S.C. 1985 c.45, (formerly Bill C-72) and S.C. 1994, c.21 (formerly Bill C-27) and makes incidental changes to improve clarity. Bill C-59, given first reading in the House of Commons on November 24, 1994, does not affect anything that is said in this bulletin.
+
+**Legislative and Other Changes**
+
+¶ 1 – After May 6, 1974, section 51 permitted a taxpayer to exchange convertible property of a corporation into shares of the same corporation, provided that the former property contained a conversion privilege and the taxpayer received no consideration except for shares or fractions of shares. The paragraph reflects the following changes to section 51:
+
+- Bill C-72 permits the taxpayer to receive shares of one or more classes of the capital stock of the corporation in exchange for the convertible property; and
+
+- Bill C-27, applicable after December 21, 1992, permits a share to be treated as a convertible property even though there is no conversion privilege attached to the share.
+
+New ¶ 2 describes two provisions which deny the operation of subsection 51(1):
+
+- Bill C-54 added subsection 51(2) to deny the tax-free rollover under subsection 51(1) where a benefit would be conferred on a person related to the taxpayer whose shares are being exchanged; and
+
+- Bill C-27, applicable to exchanges occurring and reorganizations commencing after December 21, 1992, added subsection 51(4) which provides that subsection 51(1) or (2) would not apply where section 86 or subsections 85(1) or (2) applied.
+
+¶ 3 (former ¶ 2) has been expanded to describe why the Department has taken the position that it has in that paragraph.
+
+¶ 6 identifies other bulletins that discuss fractional interests in shares.
+
+## Footnote
+
+**[[Footnote 1]](#P67_6639)**
+
+¶ 3 was modified to reflect the wording in ¶ 37 of IT-474R2 dated January 8, 2008

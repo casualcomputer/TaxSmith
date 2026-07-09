@@ -1,0 +1,1015 @@
+---
+title: "RC4483 - Final Report on Action Items - Helping Small Businesses by Reducing the Compliance Burden - November 2008"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4483.html
+pdf_source: https://www.canada.ca/content/dam/cra-arc/formspubs/pub/rc4483/rc4483-08e.pdf
+extracted_from_pdf: true
+last_modified: 2009-02-27
+---
+# RC4483 - Final Report on Action Items - Helping Small Businesses by Reducing the Compliance Burden - November 2008
+
+Helping Small Businesses by
+Reducing the
+Compliance Burden
+Final Report on
+Action Items
+November 2008
+Table of Contents
+
+Message from the Commissioner ............................................................................................... 4
+
+Highlights ................................................................................................................................... 5
+
+Report on Action Items .............................................................................................................. 7
+
+Appendix A: Complementary Measures ................................................................................... 30
+
+Final Report on Action Items                                      November 2008                                                               3
+Message from the Commissioner
+
+                               The Canada Revenue Agency’s (CRA) Action Task Force on
+                               Small Business Issues was created to ensure that the
+                               administrative policies and practices of the CRA impose the
+                               least burden possible on small businesses, while providing
+                               the CRA with the information it needs to confirm compliance
+                               with tax-related regulations and to identify and effectively
+                               address instances of non-compliance.
+                               In March 2007, Helping Small Businesses by Reducing the
+                               Compliance Burden, the report of the Action Task Force,
+                               identified 61 items that the CRA committed to action to
+                               reduce the compliance burden on small businesses.
+The recommendations struck an important balance between reducing red tape and maintaining
+the integrity and fairness of Canada’s taxation system. I fully endorsed the recommendations of
+the Action Task Force, and committed to implementing them.
+This report, the Final Report on Action Items, shows the CRA’s progress on each of the action
+items. I am proud of the achievements of the CRA that are documented in this report.
+Introducing a systemic approach to burden reduction across the CRA was one of the mandates
+of the Action Task Force on Small Business Issues. This report shows not only our progress on
+action items, but also the numerous complementary measures that have been initiated. These
+complementary measures are indicative of how burden reduction is becoming systemic. I have
+also witnessed a “culture shift” across the organization. Reducing the administrative burden on
+small business is prevalent in our strategic plans, in the principles of service delivery, business
+transformation, and increasingly systemic in our daily operations.
+We are not done with our efforts to make meaningful reductions in the burden imposed on small
+businesses. As shown in the report, many of the action items are ongoing, and will continue to
+be in the years to come, because they should become part of our day-to-day business. We will
+continue to report on our progress in burden reduction in the Annual Report to Parliament.
+I would like to again thank the members of the Action Task Force on Small Business Issues for
+contributing their time, effort, and wisdom to the important issue of burden reduction.
+
+William V. Baker
+Chair, Action Task Force on Small Business Issues
+Commissioner and Chief Executive Officer
+Canada Revenue Agency
+
+Final Report on Action Items                    November 2008                                     4
+Highlights
+
+The CRA Action Task Force on Small Business Issues was created in August 2006. Its mandate
+was to identify which of the CRA’s administrative practices imposed the greatest burden on
+small businesses, develop solutions to reduce the burden, and introduce a systemic approach
+to burden reduction across the CRA. This report contains the progress on the Task Force’s
+recommended action items.
+The CRA committed to focus its efforts in three key areas:
+   1. Simplify, improve and, where appropriate, reduce the frequency of small business
+      interactions with the CRA;
+   2. Improve how and when the CRA communicates with small businesses; and
+   3. Make burden reduction systemic within the CRA.
+Of the 61 action items contained in the Helping Small Businesses by Reducing the Compliance
+Burden report that was published in March 2007, 31 are now complete and 30 are ongoing. The
+examples of successful progress are many. Here are just a few highlights:
+    • A simplified claim form for the Scientific Research and Experimental Development
+       (SR&ED) program, and a self-assessment tool to help businesses determine their
+       eligibility for the tax credit are now available. These will help to simplify and streamline
+       SR&ED claims.
+    • My Business Account (MyBA) continues to expand so that businesses can see more
+       information and take more actions on their CRA accounts online. Business owners can
+       also now electronically authorize third-party representatives to access business account
+       information and transact on their behalf.
+    • Changes were made that significantly reduced the number of potential discrepancies
+       being referred to employers via Pensionable and Insurable Earnings Review (PIER)
+       reports.
+    • There are online calculators for employee income tax withholdings and employer and
+       employee Canada Pension Plan (CPP) and Employment Insurance (EI) contributions;
+       employee benefits from the use of an employer-provided vehicle; and non-resident tax to
+       be deducted from certain amounts paid to non-residents of Canada. The online
+       calculators provide precise calculations without having to purchase or download
+       calculation software.
+   •   The combined audit program has expanded, meaning more businesses will have a
+       single auditor examine their books for both income tax and the Goods and Services
+       Tax/Harmonized Sales Tax (GST/HST) purposes. This lessens the frequency of, and
+       reduces the business time spent on, auditors’ visits.
+   •   The goal to reduce the paperwork burden of administrative requirements and information
+       obligations by 20 per cent by November 2008 was exceeded. Filing frequencies have
+       been reduced and information that is not absolutely required or is available elsewhere
+       has been removed from forms.
+   •   A performance measurement framework allows the CRA to demonstrate progress in
+       burden reduction through analyzing time and monetary costs of compliance against a
+       range of indicators.
+
+Final Report on Action Items                 November 2008                                        5
+   •   The CRA began administrating corporation taxes on behalf of Ontario. Under the single
+       administration of federal and provincial corporation taxes, Ontario companies will benefit
+       from a single tax return, one set of rules, one audit, one appeals process, and a single
+       point of contact.
+The CRA remains committed to addressing burden reduction in the years to come in a manner
+consistent with its accountability for tax compliance, revenue collection, taxation data collection,
+and systemic approach to burden reduction.
+
+Final Report on Action Items                  November 2008                                        6
+Report on Action Items
+Focus 1: We will simplify, improve, and, where appropriate, reduce the frequency
+of small business interactions with the CRA.
+
+1.1 Actions taken or underway
+
+1.1.1         The CRA is currently developing a simplified claim form for the Scientific Research and Experimental
+              Development program, as well as a self-assessment tool to help claimants determine potential
+              eligibility for this program.
+
+              Revised form T661, Scientific Research and Experimental Development (SR&ED)
+              Expenditures Claim, and the self-assessment tool are available at
+              www.cra.gc.ca/sred.
+
+1.1.2         In September 2006, the CRA introduced a new online service called My Business Account to provide
+              business owners with faster, more accessible, and more transparent government service. Through
+              My Business Account, business owners can request a Canada Pension Plan/Employment Insurance
+              ruling, register a formal dispute (objection), file a corporation income tax return, make certain online
+              requests, and view account balances for corporation tax, excise duties and taxes, among other
+              features. The CRA will continue refining and expanding the functionality of this service.
+
+              The functionality of MyBA was expanded in April and October of 2007 and April and
+              October 2008. Additional enhancements are planned for 2009.
+1.1.3         The Government of Canada and the Government of Ontario recently signed an agreement to have the
+              CRA administer corporation taxes on behalf of that province. The Corporate Tax Administration for
+              Ontario (CTAO) initiative is expected to benefit hundreds of thousands of businesses throughout the
+              province of Ontario. This initiative will be developed and implemented over several years.
+
+              In June 2007, Bill 174 received Royal assent through the Ontario Legislature to
+              implement the Taxation Act 2007, allowing the CRA to administer Ontario
+              corporation income tax, corporation minimum tax, corporation capital tax, and the
+              Ontario special additional tax on life insurance corporations, for tax years ending
+              after 2008. In February 2008, the CRA began receiving combined federal and
+              provincial instalment payments for the tax years ending in 2009 and will process
+              single, harmonized returns for Ontario corporations in 2009. In January 2009, the
+              CRA will become the single point of contact for all matters relating to Ontario
+              provincial corporation income tax.
+              The CRA is also providing some services to Ontario for tax years ending before
+              December 31, 2008. As of April 2008, the CRA assumed responsibility for the
+              Ontario Ministry of Revenue’s (OMoR) tax audit and objections, rulings, and
+              advisory functions.
+
+Final Report on Action Items                         November 2008                                                   7
+Focus 1: We will simplify, improve, and, where appropriate, reduce the frequency
+of small business interactions with the CRA.
+
+1.1 Actions taken or underway
+
+1.1.4         The CRA will continue to coordinate its compliance activities and expand its risk management
+              practices to minimize the disruption on small business taxpayers. For example, plans to introduce
+              integrated enforcement teams and increase the coordination of federal and provincial audits under the
+              Corporate Tax Administration for Ontario (CTAO) are well underway. Also, the CRA recently
+              expanded its combined audit program, which reduces the inconvenience, and costs to small
+              businesses by having a single auditor review the same records for both income tax and GST/HST
+              purposes. We will build on these initiatives and others as part of our program process, giving due
+              consideration to the needs of small businesses.
+
+              As of April 3, 2008, CRA auditors began conducting integrated audits, examining
+              both the federal and provincial returns during the same audit visit.
+              A two-year pilot of integrated enforcement teams conducting combined audits was
+              completed March 31, 2008. The results of the pilot are still under evaluation.
+              Decisions regarding the expansion of this pilot should be finalized by
+              March 31, 2009.
+1.1.5         The CRA will continue to work with the Department of Finance and our provincial and territorial
+              partners to expand the adoption of the Business Number (BN) as a national business identifier. To
+              date, the provinces of Nova Scotia, New Brunswick, British Columbia, and Manitoba have adopted the
+              BN for their provincial programs.
+
+              The province of Ontario is now using the BN as their identifier in over 30 programs.
+              The Department of Finance has drafted legislation to enhance the CRA’s ability to
+              exchange information with municipalities, Aboriginal Governments, boards, and
+              commissions. In particular, this will assist the provinces of British Columbia and
+              Manitoba who are actively working with their municipalities to adopt the BN.
+
+Final Report on Action Items                        November 2008                                                8
+Focus 1: We will simplify, improve, and, where appropriate, reduce the frequency
+of small business interactions with the CRA.
+
+1.1 Actions taken or underway
+
+1.1.6         The CRA works closely with our provincial and territorial counterparts to identify ways to reduce the
+              burden on small businesses. For example, the Ontario Ministry of Finance has adopted the practice
+              of accepting the CRA’s Canada Pension Plan/Employment Insurance rulings on the
+              employee/employer relationship for purposes of administering their Health Tax. As a result,
+              businesses avoid unnecessary work and the conflict of differing opinions at two levels of government.
+
+              The CRA actively participates on the OMoR, Small Business Advisory Committee,
+              the Canada Ontario Business Service Centre Managing Partners Board, and the
+              Ontario Tax Liaison Group.
+               The OMoR and the CRA will discuss the possibility of the CRA taking on the
+              rulings workload related to the Ontario Employer Health Tax. The CRA is willing
+              and able to do so. If Ontario agrees, the CRA will be in a better position to pursue
+              similar initiatives with other provinces.
+              The Quebec region meets regularly with its provincial counterparts. A joint task
+              force was created with Revenu Québec to define the various stages in the
+              collection process and to identify the common steps that would help to harmonize
+              and co-ordinate those activities. At the same time, a group will be created to share
+              the regional audit plan, in order to improve risk management.
+1.1.7         The CRA actively participates in initiatives to reduce the paperwork burden at both the federal
+              government and CRA levels. For example, the CRA is an active member of Industry Canada’s joint
+              public/private sector Advisory Committee on Paperwork Burden Reduction.
+
+              The CRA contributed to the second Advisory Committee on Paperwork Burden
+              Reduction (ACPBR) Progress Report published in May 2008.
+              The CRA was one of 13 federal agencies and departments participating in the
+              Government of Canada 20% Burden Reduction Initiative co-ordinated by Industry
+              Canada on behalf of the ACPBR.
+
+Final Report on Action Items                        November 2008                                                 9
+Focus 1: We will simplify, improve, and, where appropriate, reduce the frequency
+of small business interactions with the CRA.
+
+1.1 Actions taken or underway
+
+1.1.8         The CRA will continue to work with Service Canada to identify ways of reducing the number of
+              Pensionable and Insurable Earnings Review (PIER) reports generated to employers.
+
+              Changes have been made to the system that identifies PIER discrepancies. These
+              changes have significantly reduced the number of potential discrepancies being
+              referred to employers via PIER reports.
+              The CRA is looking at having the T4 Desktop and Web form systems do a
+              rudimentary check for of CPP and EI contribution deficiencies when the
+              T4 Information return is filed allowing filers to correct possible deficiencies, reducing
+              potential PIER reports.
+              The CRA continues to look at ways to identify discrepancies in advance so as to
+              reduce PIER reports.
+1.1.9         In August 2006, the CRA created the Action Task Force on Small Business Issues. Its members
+              examined a variety of sources such as survey results, and presentations from both private and public
+              sector officials to identify which of the CRA’s administrative practices impose the greatest burden on
+              small businesses. The results of the Statistics Canada Survey of Regulatory Compliance Costs were
+              of particular significance. The members identified specific initiatives to be undertaken by the CRA to
+              reduce this burden, which are contained in this report.
+
+              Helping Small Businesses by Reducing the Compliance Burden, the report of the
+              CRA’s Action Task Force on Small Business Issues was released on May 27, 2007.
+              The CRA reconvened the Action Task Force in November 2008 to deliver the
+              Interim Report on Action Items and is now providing the Final Report on Action
+              Items.
+
+Final Report on Action Items                        November 2008                                                  10
+Focus 1: We will simplify, improve, and, where appropriate, reduce the frequency
+of small business interactions with the CRA.
+
+1.2 Actions planned for 2007-2008
+
+1.2.1         In 2007, new federal legislation was introduced to increase the lifetime capital gains exemption for
+              farmers, fishermen and-women, and small business from $500,000 to $750,000.
+
+              Legislation received Royal Assent on December 14, 2007.
+              Changes to the individual processing system were successfully implemented for the
+              2007 individual filing season.
+              At least 4,800 people have taken advantage of the increased lifetime limit. This is
+              based on the numbers who have claimed more than $250,000 at the Capital Gains
+              Deduction field on their return.
+1.2.2         New legislation will allow qualifying small businesses to remit their income tax instalment payments
+              quarterly instead of monthly. This measure will apply in respect of corporate taxation years starting
+              after 2007.
+
+              Legislation received Royal assent on December 14, 2007.
+              Required systems changes were implemented in October 2008. The remainder of
+              systems changes will be implemented in October 2009.
+
+1.2.3         The corporate income tax payable threshold, at or below which corporations are eligible to remit
+              annually, will be increased to $3,000 from $1,000. This measure will apply in respect of corporate
+              taxation years starting after 2007.
+
+              Legislation received Royal Assent on December 14, 2007.
+              Required system changes to prepare for recognizing annual remitters were
+              implemented in October 2007.
+
+1.2.4         The net personal income tax threshold, at or below which individuals do not have to pay instalments,
+              will be increased to $3,000 from $2,000. This change will apply to the 2008 and subsequent taxation
+              years.
+
+              Legislation received Royal Assent on December 14, 2007.
+              Required accounting systems changes were successfully implemented in time for
+              the February 2008 instalment notice.
+              Based on the difference in the number of NIL instalment reminders issued in 2007
+              and 2008, approximately 244,600 fewer individuals are required to pay instalments
+              of tax as a result of the increased threshold.
+
+Final Report on Action Items                         November 2008                                                    11
+Focus 1: We will simplify, improve, and, where appropriate, reduce the frequency
+of small business interactions with the CRA.
+
+1.2 Actions planned for 2007-2008
+
+1.2.5         Eligible businesses whose average monthly withholdings are less than $3,000 may remit source
+              deductions quarterly instead of monthly. Currently, only eligible businesses whose average monthly
+              withholdings are less than $1,000 may remit source deductions quarterly. These changes will apply to
+              calendar years beginning with 2008.
+
+              Legislation received Royal Assent on December 14, 2007.
+              Required systems changes were implemented in January 2008.
+              This change allows over 135,000 additional source deduction remitters to make
+              quarterly remittances. Information is not yet available on the take-up related to this
+              change.
+1.2.6         Qualifying businesses whose net tax is less than $3,000 will be able to remit the GST/HST annually,
+              instead of quarterly. Currently, only qualifying businesses whose annual net tax is less than $1,500
+              can remit the GST/HST annually. This measure will apply in respect of GST/HST registrant’s fiscal
+              years beginning after 2007.
+
+              Legislation received Royal Assent December 14, 2007.
+              Required system changes to recognize businesses now eligible to remit annually
+              were implemented in October 2007.
+1.2.7         Businesses with taxable supplies not exceeding $1.5 million may elect to have GST/HST reporting
+              periods that are fiscal years, instead of fiscal quarters. Currently, only businesses with annual taxable
+              supplies not exceeding $500,000 are eligible to have reporting periods that are fiscal years and
+              thereby to file an annual GST/HST return. This measure will apply in respect of GST/HST registrant’s
+              fiscal years beginning after 2007.
+
+              Legislation received Royal Assent on December 14, 2007.
+              Required system changes were implemented in October 2007.
+1.2.8         The CRA will continue to work with the Department of Finance and small business stakeholders to
+              identify simplification options that could reduce the compliance burden on small business taxpayers.
+              This could include initiatives to simplify the tax provisions relating to automobile expenses and taxable
+              benefits.
+
+              Simplified calculations for taxable benefits and changes to supporting
+              documentation for automobile expenses have been proposed and were provided to
+              external stakeholders for comment.
+              The Department of Finance and the CRA partnered in commissioning a consulting
+              firm to gather and report on suggestions for reducing the compliance burden from
+              small business taxpayers. The suggestions are currently being analyzed.
+              In April 2008, the Department of Finance solicited comments from business
+              associations representing Canadian small businesses. The ensuing suggestions
+              are also being analyzed by the CRA.
+
+Final Report on Action Items                         November 2008                                                   12
+Focus 1: We will simplify, improve, and, where appropriate, reduce the frequency
+of small business interactions with the CRA.
+
+1.2 Actions planned for 2007-2008
+
+1.2.9         Based on feedback from small businesses and their representatives, the CRA will conduct periodic
+              reviews of our administrative thresholds to ensure that these thresholds remain effective and
+              appropriate.
+
+              The thresholds relating to electronic filing of information returns and slips were
+              reviewed and changed to allow more filers to use electronic filing.
+              GST thresholds were reviewed and changes were made where appropriate.
+              The CRA has proposed legislative changes that will decrease the required filing
+              frequency of certain excise tax returns based on a threshold and risk analysis
+              review.
+1.2.10        The use of the Business Number will be expanded in 2007, when the province of Ontario adopts the
+              Business Number for its Retail Sales Tax program.
+              The Ontario Retail Sales Tax (ORST) Program began using the BN as an identifier
+              for new ORST accounts as of July 14, 2008. All existing ORST accounts were
+              assigned BNs in September 2008.
+              Ontario will adopt the BN in December 2008 for their Employer’s Heath Tax.
+              Additional programs, including the Ontario commodity tax, are expected to begin
+              using the BN in 2009.
+1.2.11        In February 2008, harmonized corporate instalment payments will begin under the Corporate Tax
+              Administration for Ontario (CTAO) initiative.
+
+              The CRA started receiving combined provincial and federal corporation income tax
+              instalment payments from Ontario corporations, as scheduled, for taxation years
+              ending after December 31, 2008.
+              Enquiries agents were trained and started responding to enquiries on blended
+              payments and the harmonized return in February 2008.
+
+Final Report on Action Items                       November 2008                                                 13
+Focus 1: We will simplify, improve, and, where appropriate, reduce the frequency
+of small business interactions with the CRA.
+
+1.2 Actions planned for 2007-2008
+
+1.2.12        In 2007-2008, the CRA will enhance My Business Account to enable representatives to view and/or
+              transact on behalf of a business, with owner consent. Additional services will also be available such
+              as filing a GST/HST return, downloading previously issued statements and notices, and viewing
+              account balance transactions.
+              As of October 2007, business owners can authorize a representative to view
+              information about the businesses and complete certain self-service functions online
+              on behalf of a business owner. Representatives use the Represent a Client Service
+              at www.cra.gc.ca/representatives. As of October 2008, over
+              176,500 representatives have been authorized to access business information.
+
+1.2.13        In October 2007, the electronic filing of GST/HST returns will be enhanced to allow debit GST/HST
+              returns to be filed electronically.
+
+              Enhancements to the GST/HST electronic filing systems permitted filing of
+              GST/HST debit returns in October 2007.
+              Over 80,000 GST/HST returns with amounts owing have been filed using
+              GST/HST Netfile or GST/HST Telefile since April 1, 2008.
+
+1.2.14        The CRA will continue to work with the Department of Finance to assess the results under graduated
+              penalties with respect to late payroll remittances, and determine if changes are warranted.
+
+              Changes to graduated penalties for late payroll remittances were proposed to the
+              Department of Finance and resultant legislation received Royal Assent in
+              June 2008.
+              The legislation focuses on good performance and deters employers who chronically
+              remit late. The graduated penalties are:
+                      • 3% for remittances that are late three days or less;
+                      • 5% for remittances that are four or five days late;
+                      • 7% for remittances that are six or seven days late; and
+                      • 10% for remittances that are eight or more days late.
+1.2.15        The CRA will review the guidelines for providing relief from penalty or interest charged on late payroll
+              remittances under the Fairness provisions of the Income Tax Act, and will update these guidelines, if
+              warranted. In spring 2007, the term “Fairness Provisions” will be replaced by “Taxpayer Relief
+              Provisions”.
+
+              Review of guidelines and the graduated penalty regime administered by the CRA
+              led to proposed legislation for graduated penalties on payroll remittances.
+              The term “Taxpayer Relief Provisions” was launched in May 2007 with the release
+              of the new Information Circular IC-07-1, Taxpayer Relief Provisions, and revised
+              form RC4288 to request relief.
+
+Final Report on Action Items                         November 2008                                                    14
+Focus 1: We will simplify, improve, and, where appropriate, reduce the frequency
+of small business interactions with the CRA.
+
+1.3 Actions planned for April 2008 and beyond
+
+1.3.1         In fall 2008, the CRA will introduce a simplified claim form for the Scientific Research and
+              Experimental Development program, as well as a self-assessment tool to assist claimants in
+              determining potential eligibility for this program.
+
+              Revised form T661, Scientific Research and Experimental Development (SR&ED)
+              Expenditures Claim, and the self-assessment tool are available at
+              www.cra.gc.ca/sred. The CRA has also produced a CD-ROM, as well as a new
+              brochure and leaflet, with valuable information for new and existing claimants.
+
+1.3.2         In January 2009, a harmonized corporation return will be introduced as part of the Corporate Tax
+              Administration for Ontario (CTAO) initiative. When fully implemented, CTAO will result in a number of
+              benefits for small businesses such as one annual return based on the same filing and payment
+              requirements, a common definition of taxable income, blended payments, one point of contact for both
+              provincial and federal tax information, one audit covering both federal and provincial tax with one set
+              of audit findings, and a single objections and appeals process.
+              The harmonized 2009 T2 Corporation Income Tax Return and new Ontario
+              schedules will be available on the CRA Web site and in print in time to file 2009
+              corporation returns.
+              System processing of the harmonized returns will begin in April 2009.
+1.3.3         Longer-term enhancements to My Business Account include allowing users to update the operating
+              name of their business and business address, transfer payments from one period to another, as well
+              as from one business program account to another, and view their employer remitter type, which
+              affects the frequency of their payroll remittances.
+              Enhancement of MyBA services is continuing. In the fall of 2008, the ability to
+              transfer payments and view the status of GST/HST returns was added.
+              MyBA at www.cra.gc.ca/mybusinessaccount, now includes the ability to:
+                  • manage business operating names;
+                  • view banking information, payroll account transactions, payroll remitting
+                      requirements, and GST/HST return status;
+                  • calculate future balances owing, including interest, for corporation,
+                      GST/HST, and other levies accounts;
+                  • transfer payments within GST/HST accounts, corporation accounts, or other
+                      levies accounts; and,
+                  • file most business-related returns.
+              The CRA is looking at potential future enhancements such as the ability to view
+              interest transactions, an instalment payment calculator for most accounts, and the
+              ability to transfer payments between business accounts.
+              The CRA continues to look at ways to better service businesses online.
+
+Final Report on Action Items                        November 2008                                                  15
+Focus 1: We will simplify, improve, and, where appropriate, reduce the frequency
+of small business interactions with the CRA.
+
+1.3 Actions planned for April 2008 and beyond
+
+1.3.4         The CRA will work with our provincial partners to increase the coordination and harmonization of
+              federal and provincial business programs.
+              The CRA has worked intensively with the OMoR on the transfer of corporation tax
+              administration to the Agency, a large initiative demonstrating the CRA’s
+              partnerships with provincial authorities.
+              The CRA has also partnered with the OMoR on common accounts where both
+              governments are collecting debts. The team has conducted meetings with the
+              provincial clients which have produced a coordinated approach to resolving the
+              accounts and reduced duplication of effort. Information gathering and exchanges
+              have been expedited due to the various system accesses the two organizations
+              share.
+
+Final Report on Action Items                        November 2008                                                16
+Focus 2: We will improve how and when we communicate with small businesses.
+
+2.1 Actions taken or underway
+
+2.1.1        It is already a standard procedure to use plain language in CRA forms and publications, and so is
+             soliciting feedback from users through sources such as, Your Opinion Counts, focus testing, and our
+             Web comments mailbox. We continually work to achieve the correct balance between the use of plain
+             language and the timely delivery of accurate legislative information. We will continue to monitor all
+             feedback and strengthen existing processes. The CRA has employer representatives such as the
+             Canadian Payroll Association enhance its communications by reviewing its brochures, publications and
+             Web site on a regular basis to enhance their readability.
+
+             CRA conducted extensive plain language and readability reviews on two selected
+             business-related information products during the past year – information products
+             relating to employment expenses, and employer information.
+             A select number of publications will be scheduled for this type of extensive review
+             each year. The CRA continues to involve business representatives in the review of
+             business-related forms, publications, and Web site coverage. For example, the
+             T2 Corporation Income Tax Guide was provided to the Canadian Federation of
+             Independent Business for comment and payroll-related publications are regularly
+             reviewed by the Canadian Payroll Association.
+             In 2008, business users were also consulted on the usability of the CRA Web site
+             structure and labelling.
+             All feedback received through “Your Opinion Counts” and the Web comments
+             mailbox is reviewed by the area responsible for the product in question. Since
+             April 2008, 32 “Your opinion counts” suggestions and 96 Web comments have been
+             received and reviewed.
+2.1.2        The CRA will continue to review the most common errors made by small business taxpayers on their
+             forms and returns to identify opportunities for improving content and layout.
+
+             Common errors are routinely reviewed to understand where taxpayers have difficulty
+             in complying with legislation and/or completing forms. The CRA then revises the
+             information products and forms to improve the clarity of the information presented
+             and the manner in which the forms capture required information.
+             The most common errors made when completing T4 information slips for employees
+             are provided on the CRA Web site to assist taxpayers in completing forms and
+             returns correctly.
+2.1.3        The CRA reviews our Web links and printed publications to improve the bundling of information, and to
+             provide online links between relevant Web content for users.
+
+             Web analysis is routinely conducted to improve Web users’ experience. The CRA
+             has adopted a Publishing Content Management Solution to ensure consistency and
+             appropriate bundling of information across product lines.
+             A more logically ordered, step-by-step component for payroll, GST/HST, and BN
+             products is being developed for the CRA Web site to assist first time users in
+             understanding their obligations.
+
+Final Report on Action Items                       November 2008                                                17
+Focus 2: We will improve how and when we communicate with small businesses.
+
+2.1 Actions taken or underway
+
+2.1.4        The CRA recently revised the information we provide about the capital gains deduction to make it
+             clearer, and we restructured this information to make it more accessible.
+
+             Capital gains information was revised early in 2008.
+             Subsequently revised information was distributed to external stakeholders, such as
+             the Canadian Federation of Independent Business, for comment.
+
+2.1.5        The CRA has improved the timeliness and accessibility of our information through the introduction of
+             “Smartlinks.” This technology allows Web users to access a CRA agent directly from our Web site.
+             The agent can then help them navigate through the site or provide them with additional information.
+
+             In order to improve the timeliness and accessibility of our information, “Smartlinks”
+             were introduced to allow Web users to access a CRA agent directly from our Web
+             site. The agent can then help users navigate through the site or provide them with
+             additional information.
+             At various times, CRA agents survey “Smartlinks” users on the clarity of Web site
+             information, or navigational difficulties in finding the information needed.
+2.1.6        The CRA has recently standardized and enhanced its training program for our telephone agents. This
+             new program is supported by enhanced online training and improved reference tools. The content of
+             the program has been tailored to address the most frequently asked questions, as well as complex
+             topics, and is designed to ensure that responses to telephone enquiries are accurate and consistent.
+
+             The training is now the standard used for all new telephone agents and is delivered
+             during their orientation. Experienced agents receive supplementary training as, and
+             when, required.
+
+2.1.7        The CRA recently developed the CRA Electronic Services for Businesses and Individuals CD-ROM.
+             This tool is designed to increase awareness of the CRA’s electronic services for small business and to
+             familiarize new small business taxpayers with the CRA’s Web site. It has been distributed to
+             participants at CRA small business outreach events. It will ultimately be expanded to include content
+             from provincial and territorial governments.
+
+             The initial version was expanded to include links to information from all provinces
+             and territories.
+
+Final Report on Action Items                        November 2008                                                   18
+Focus 2: We will improve how and when we communicate with small businesses.
+
+2.1 Actions taken or underway
+
+2.1.8         CRA employees with the highest levels of interaction with small business taxpayers participated in
+              information sessions designed to increase their awareness of the electronic products and services the
+              CRA offers small businesses. A more formalized program is being developed.
+              The Electronic Services for Businesses and Individuals CD-ROM was provided at
+              the information sessions.
+              A more formalized multimedia online program on electronic services became
+              available to all employees on November 27, 2007. Employees were encouraged to
+              use the training in an all staff communiqué.
+              Regular reminders of the multimedia program will be communicated to all
+              employees. The program is also being used for “new hires”.
+2.1.9         The CRA recognizes the benefits of presenting information in a variety of formats and continues to
+              explore new ways of doing so. We recently developed a series of questions and answers to
+              communicate legislative changes related to the apprenticeship job creation tax credit and the
+              deductibility of tradespersons’ tools. These were provided to CRA agents and posted to the CRA Web
+              site.
+
+              An “Important Notice” was directly mailed to approximately 4.6 million business
+              addresses in December 2007 advising of the changes affecting them from the
+              2007 Budget and 2007 Economic Statement.
+              Dotto Tech, a national show featuring electronic services for small businesses, was
+              commissioned to promote MyBA, Rep a Client, Netfile, GST Netfile, and electronic
+              payroll-related options. Segments aired in November 2007 and February 2008, and
+              an additional segment is scheduled for early 2009.
+              In our ongoing effort to enhance our communications with the business community,
+              the CRA is releasing time-sensitive tax tips. The tax tips provide the CRA with an
+              additional way to communicate key information to businesses throughout the year,
+              including enhancements to our electronic services.
+              The CRA is continuing to work with Industry Canada to provide links to specific
+              information on the CRA Web site from the Canada Businesses Web site.
+2.1.10        Public information seminars are one of the CRA’s most effective tools for communicating with small
+              businesses, and many of our outreach activities are conducted in collaboration with our provincial
+              partners. In 2005-2006, the CRA delivered over 1,400 business-related seminars nationwide to
+              26,500 participants. In Ontario, over 200 joint PST and GST/HST seminars were delivered to 4,300
+              participants. We will continue to update our seminars to ensure that the information we provide
+              remains relevant and timely. For example, we will be piloting an updated Small Business Information
+              Seminar presentation in spring 2007.
+              The CRA held approximately 1,800 business-related outreach events (seminars,
+              trade shows, outreach visits, and speaking engagements) involving close to
+              44,000 participants in the 2007-2008 fiscal year.
+
+Final Report on Action Items                        November 2008                                                19
+Focus 2: We will improve how and when we communicate with small businesses.
+
+2.1 Actions taken or underway
+
+2.1.11        In 2006 and 2007, the CRA launched an advertising campaign designed to increase awareness
+              among business taxpayers of the CRA’s suite of electronic products and services for business.
+
+              Post advertising campaign evaluations were conducted through online surveys and
+              telephone interviews. The research showed that there may be an increased use of
+              electronic products and services by small businesses to get information from, and
+              transact with the CRA.
+
+2.1.12        The CRA recently conducted an initial survey of business users of the CRA Web site to gauge their
+              awareness and use of the CRA’s electronic services for business. This information will guide the
+              development of the CRA’s electronic services and influence our promotional activities.
+              Survey findings prompted improvements to the way information for businesses is
+              organized on the CRA Web site. The home page was redesigned to better separate
+              business and individual related information and group main business topics.
+
+Final Report on Action Items                       November 2008                                                  20
+Focus 2: We will improve how and when we communicate with small businesses.
+
+2.2 Actions planned for 2007-2008
+
+2.2.1         In 2007-2008, the CRA will review our business communication products to ensure that their content
+              is relevant, appropriate, and presented in plain language. We will strengthen the existing processes to
+              solicit feedback from small business stakeholders on our business publications. We will evaluate the
+              forms most commonly used by small business taxpayers with a view to streamlining them, where
+              possible, and making them more user friendly.
+              A quality assurance process has been implemented to ensure content is relevant,
+              appropriate, and written in plain language. This is supplemented by scheduled
+              extensive plain language and readability reviews on selected business-related
+              information products each year.
+              To achieve excellence in our written communications, CRA branches and regions
+              identified cost-efficient ways and recommended actions to improve external
+              communications. These are currently being reviewed in support of an Agency-wide
+              approach.
+2.2.2         The CRA will continue to focus on providing accurate and consistent responses to telephone enquires.
+              For example, the CRA is developing a proposal to implement centres of expertise to respond to
+              enquiries received on complex issues. We are also developing a strategy to strengthen our existing
+              quality assurance program for telephone service.
+
+              The Centre of Expertise proposal was completed in April 2008. This will allow
+              routing of specific enquiries, which are sometimes complex or unusual, to officers
+              explicitly trained to respond to the identified topics. The CRA currently has in place
+              a centre of expertise specifically for enquiries related to the CTAO. Additional
+              centres of expertise for certain complex general business enquiries will also be
+              piloted commencing in December 2008.
+              Progress on strengthening call quality and accuracy through enhanced online data
+              capture of agent accuracy assessments is also now occurring. The online format is
+              a mandatory national tool that permits more timely and accurate information to be
+              produced for the identification of training, procedural, and accuracy trends/gaps.
+              The online call checklist provides reporting capability and has been functional since
+              April 2008. It is a cornerstone in the strategy towards strengthening quality call
+              assurance.
+2.2.3         We will expand the number of “Smartlinks” pages on our Web site.
+
+              “Smartlinks” were initiated in 2004 with 76 business-related links. There are now
+              412 business-related “Smartlinks”.
+              “Smartlinks” have enabled approximately 23,000 Web users in year 2007/2008 and
+              13,400 Web users so far in the 2008/2009 year to speak to an enquires agent for
+              assistance.
+
+Final Report on Action Items                        November 2008                                                 21
+Focus 2: We will improve how and when we communicate with small businesses.
+
+2.2 Actions planned for 2007-2008
+
+2.2.4         The CRA will pilot a joint CD-ROM with the province of British Columbia addressed to small business,
+              in which the contents of the CRA Electronic Services for Business and Individuals CD-ROM will be
+              expanded to include information from the British Columbia Ministry of Small Business and Revenue.
+
+              The CRA Electronic Services for Business and Individuals CD-ROM including
+              content and links from all provinces and territories was released in March 2008.
+              155,000 copies were available for distribution by the CRA and provincial and
+              territorial governments.
+
+2.2.5         We will introduce a training program to ensure that CRA employees who interact with small business
+              taxpayers are knowledgeable about the CRA’s electronic products and services for small business.
+
+              A multimedia online training course was released to all employees on
+              November 27, 2007.
+
+Final Report on Action Items                       November 2008                                                22
+Focus 2: We will improve how and when we communicate with small businesses
+
+2.2 Actions planned for 2007-2008
+
+2.2.6         The CRA will continue our efforts to reach out to new small businesses. We will modify our existing
+              outreach activities and local business seminars to ensure that they remain current and relevant. We
+              will continue to increase our visibility in the small business community through outreach activities,
+              community visits, and involvement in tradeshows. We will conduct five new pilot projects in Ontario
+              that focus on identifying and contacting new small businesses to help them understand their tax
+              responsibilities and inform them about how to access and use CRA services. The CRA will explore the
+              feasibility of partnering with certain provinces to include trade schools in its outreach activities. Our
+              goal is to have a framework in place by March 2008.
+
+              In the 2007/2008 year, the Underground Economy Outreach Program conducted
+              149 community visits. In the 2008/2009 year, Underground Economy Outreach
+              activities include community visits, wharf visits, home and trade shows, public
+              speaking engagements, and individual visits.
+              The five pilot projects in Ontario were completed in March 2008. The CRA is
+              considering using the best practices and key findings from the pilots in continuing
+              outreach activities.
+              The CRA Atlantic region initiated a three year New Registrant Outreach initiative
+              that has officers making educational visits to approximately 50% of new GST/HST
+              registrants. Post-initiative measurements will show whether these visits are
+              effective in increasing taxpayers understanding and awareness of their
+              responsibilities and our services.
+              To ensure better co-ordination and harmonization of outreach, the Quebec region
+              has developed local action plans for each Tax Services Office (TSO) and will share
+              these with Revenu Québec. Seminars have been developed in the Quebec region
+              for select industries, such as the taxi, daycare, and beauty salon sectors. Other
+              seminars will be developed based on the outreach action plans of each TSO in the
+              region.
+              The TSOs have also created partnerships with federal and provincial agencies,
+              such as the Economic Development Agency of Canada, local development centres,
+              and with associations such as the Association de planification fiscale et financière
+              and the Ordre des médecins, etc., to inform them of CRA services and electronic
+              products.
+              In conjunction with the Federal/Provincial/Territorial Underground Economy
+              Working Group, the CRA completed a framework in March 2008 for outreach in
+              trade schools. A program has been initiated for trade schools in British Columbia,
+              Ontario, and New Brunswick to disseminate information on the tax system and the
+              pitfalls of the underground economy to selected construction trades. Material is
+              anticipated to roll-out in May 2009.
+
+Final Report on Action Items                         November 2008                                                  23
+Focus 2: We will improve how and when we communicate with small businesses
+
+2.2 Actions planned for 2007-2008
+
+2.2.7       The CRA will continue its advertising campaign targeting business taxpayers in 2007-2008.
+
+            The CRA ran a print and internet advertising campaign, from January to March 2008,
+            aimed at tax professionals and small businesses representatives, many of who are
+            small businesses as well.
+            Post-campaign evaluations suggest that those who saw the ads are significantly
+            more likely than those who did not to think that the CRA is responsive to, and
+            effective in addressing, the needs of business.
+            The CRA continues to look at low-cost ways to increase business taxpayers’
+            awareness of the electronic services available.
+2.2.8       The CRA will partner with key small business and professional advisor associations to identify sources of
+            burden and will work with them to leverage our communication and outreach activities.
+            The CRA regularly discusses sources of burden with small business and professional
+            organizations including the Canadian Federation of Independent Business, the
+            Canadian Payroll Association, the Canadian Bookkeepers Association, the Certified
+            General Accountants Association, the Canadian Bar Association, and members of
+            the ACPBR, both formally and informally.
+            The CRA has reviewed submissions on burden reduction made to Finance Canada
+            by small business and professional associations.
+            CRA representatives attend annual conferences held by the various professional
+            organizations and have been invited to speak to their memberships.
+            The CRA has worked with professional organizations to provide input on surveys and
+            information to distribute to their members as well as consulting with them on new
+            CRA initiatives.
+
+Final Report on Action Items                        November 2008                                                 24
+Focus 2: We will improve how and when we communicate with small businesses.
+
+2.3 Actions planned for April 2008 and beyond
+
+2.3.1         We will review the results of our “Smartlinks” program to gain a better understanding of the business
+              user’s experience and needs, and improve the content and organization of our Web site accordingly.
+
+              When a “Smartlinks” user has spoken with a CRA agent, the user is surveyed on
+              the clarity of Web site information, or navigational difficulties in finding the
+              information needed.
+              Analysis of each “Smartlink” is scheduled once a year and used not only to adjust
+              the “Smartlinks” placement, but also to improve the content, presentation and
+              architecture of information on the CRA Web site. Several factors are taken into
+              consideration when determining where to place, or remove “Smartlinks” such as
+              topic complexity, topics that support new programs, compliance-related topics,
+              relative importance of topics to taxpayers, and recommendations from call centre
+              agents and authors based on enquiries.
+2.3.2         We will work with internal and external stakeholders to determine the desirability of implementing
+              “Smartlinks” within the secure web pages of My Account and My Business Account. This would give
+              taxpayers direct access to a CRA agent from within these secure channels, and allow the agent to
+              respond to questions related to their specific account.
+
+              The CRA will pilot “Smartlinks” in transactional applications, such as MyBA,
+              beginning in April 2009.
+
+2.3.3         In 2008, the CRA will repeat our biennial survey of business users of the CRA Web site. The results
+              will allow the CRA to identify changes in levels of awareness of the CRA’s electronic services for
+              business and trends in the use of these services.
+
+              The CRA anticipates conducting the second Survey of Business Users of the CRA
+              Web site in December 2008.
+
+Final Report on Action Items                        November 2008                                                     25
+Focus 3: We will make burden reduction systemic within the CRA.
+
+3.1 Actions taken or underway
+
+3.1.1         The CRA, in collaboration with internal stakeholders and members of the Action Task Force on Small
+              Business Issues, has developed a Performance Measurement Framework for Compliance Burden.
+              This framework is intended to allow the CRA to measure its progress in burden reduction by analyzing
+              our performance against a range of indicators.
+
+              The Performance Measurement Framework, completed in December 2007,
+              provides measures of businesses' cost of compliance in time and money. It is built
+              on a combination of measures unique to the burden reduction effort and measures
+              currently in use in the CRA.
+              The framework measures were validated and the availability of data confirmed in
+              conjunction with all CRA branches and Industry Canada.
+3.1.2         The CRA participated in the development of the Statistics Canada Survey of Regulatory Compliance
+              Costs. The initial survey was conducted in late 2006 as part of the federal government’s Paperwork
+              Burden Reduction Initiative. The CRA will continue to be involved in this triennial survey.
+
+             Data from the Statistics Canada Survey of Regulatory Compliance Costs was used
+             to populate the performance indicators in the CRA’s Performance Measurement
+             Framework for Compliance Burden.
+
+3.1.3         The CRA will review the reduction initiatives of other countries or other levels of government in order
+              to identify potential CRA strategies.
+
+              The CRA continues to monitor burden reduction activities of other countries. CRA
+              officials have met with tax officials from the United States, Australia, the United
+              Kingdom, and New Zealand to examine best practices in electronic services and
+              burden reduction. In 2007, the CRA contributed to a Taxpayer Services Sub-group
+              Organization for Economic Co-operation and Development (OECD) report,
+              Programs to Reduce the Administrative Burden of Tax Regulation in Selected
+              Countries, published in January 2008.
+
+Final Report on Action Items                         November 2008                                                      26
+Focus 3: We will make burden reduction systemic within the CRA.
+
+3.1 Actions taken or underway
+
+3.1.4         The CRA will continue to conduct research and review the findings of various small business studies to
+              better understand the characteristics, behaviour, and needs of small business taxpayers. The CRA will
+              validate our research results by comparing them against external sources such as studies conducted by
+              other federal departments and external groups such as, the Canadian Federation of Independent
+              Business, the Conference Board of Canada and the Canadian Payroll Association.
+              Planned research by the CRA includes:
+                 • Testing of users and potential users on a new login process for certain CRA
+                     Web applications; and
+                 • Review of MyBA with respect to preferred information and services for payroll
+                     related users.
+              The CRA has monitored trends in the underground economy for the construction and
+              hospitality sectors and has studied best practices in addressing the cash sectors of
+              the underground economy.
+              A Case Study on Small Businesses has been initiated to consider how the CRA may
+              be able to make improvements to streamline tax administration. For the purposes of
+              this case study, small businesses will be divided into three segments based on
+              business structure; sole proprietorship, partnership, and corporation. Typical
+              interactions and activities from each segment will be reviewed in order to model
+              regular business dealings with the CRA.
+
+Final Report on Action Items                       November 2008                                                27
+Focus 3: We will make burden reduction systemic within the CRA.
+
+3.2 Actions planned for 2007-2008
+
+3.2.1         In light of the federal government’s commitment to reduce the paperwork burden by 20 per cent, the
+              CRA will establish an inventory of its administrative requirements and information obligations with
+              which small businesses must comply.
+
+              An inventory of administrative requirements and information obligations was
+              provided to Industry Canada in September 2007.
+
+3.2.2         The CRA will finalize its Performance Measurement Framework for Compliance Burden Reduction
+              and confirm the performance measures that will be used to establish benchmarks.
+
+              The Performance Measurement Framework for Compliance Burden Reduction was
+              finalized in December 2007.
+              Benchmarks have been determined and the report, Measuring the Small
+              Businesses Compliance Burden, is anticipated to be released by the end of 2008.
+
+3.2.3         The CRA will ensure that compliance burden reduction becomes a fundamental element of its forms
+              review process and in the development of its administrative procedures. This could include creating a
+              Burden Assessment Checklist that would be used when CRA business forms are introduced or
+              revised.
+
+              Burden reduction considerations have been incorporated into forms’ reviews.
+              Standard text is in all business-related circulation documents to stakeholders
+              requesting that forms and publications be reviewed from a burden reduction
+              perspective.
+              A quality assurance process, focusing on compliance burden reduction, among
+              other things, was developed that includes spot checks on certain features and
+              content; a data base of common and consistent text; establishing consistent
+              location and presentation of common elements on forms; and checklists for form
+              revision and development. Focusing on these areas will result in easier to complete
+              forms.
+              The CRA is continuing to make burden reduction systemic. Initiatives such as
+              requiring front-end burden impact analyses for all major investment projects,
+              assessing burden impact during the internal audit and program evaluation
+              functions, incorporating a burden reduction commitment into appropriate executive
+              performance agreements, educating and increasing awareness of burden reduction
+              among all employees, and engaging the public with mechanisms to make
+              suggestions related to burden reduction are currently being considered.
+
+Final Report on Action Items                        November 2008                                                   28
+Focus 3: We will make burden reduction systemic within the CRA.
+
+3.3 Actions planned for April 2008 and beyond
+
+3.3.1         We will measure and report on our progress in reducing the compliance and paperwork burden in our
+              annual report to Parliament.
+
+              The release of a Benchmark Report outlining the basis with which to measure
+              progress in terms of time and costs of burden reduction is anticipated by the end
+              of 2008.
+              The CRA Annual Report to Parliament for 2007/2008 included the first elements of
+              progress in reducing the compliance and paperwork burden reduction.
+3.3.2         We will contribute to the federal government’s target of reducing the paperwork burden by 20 per cent
+              by November 2008.
+
+              The CRA initiated changes that achieved a 24.2% reduction in paperwork burden in
+              forms and administrative policies by November 1, 2008.
+
+3.3.3         We will validate our performance indicators and refine these, as necessary.
+
+              As systems change, and the CRA's approach to performance measurement
+              evolves, measures and data will be updated accordingly. This will allow refinement
+              of the Performance Measurement Framework for Compliance Burden and close
+              alignment with the CRA's Strategic Planning and Reporting Framework.
+              As a result of the validation exercise undertaken in conjunction with the preparation
+              of the Benchmark Report, the CRA has begun updating the measurement
+              framework.
+
+Final Report on Action Items                        November 2008                                                29
+Appendix A: Complementary measures
+
+Complementary measures are initiatives that support the actions identified by the Action Task
+Force on Small Business Issues. While not included in the Action Task Force Report, Helping
+Small Businesses by Reducing the Compliance Burden, they are instrumental in reducing the
+compliance burden on small businesses. They speak to the fact that paperwork burden
+reduction has become systemic across the CRA and support what will be ongoing consideration
+and analysis of what can be done to continue to reduce the compliance burden on small
+businesses.
+Following are the complementary measures that have been or are being implemented:
+   •   Payroll Deductions Online Calculator (PDOC) – available on the CRA Web site, gives
+       employers a means to precisely calculate employee payroll deductions and print a copy
+       of the calculation for their records. Since its inception, enhancements include
+       repositioning certain information that makes the calculator easier to use; adding fields
+       that allow employers to use the calculator in more situations; and adding calculations for
+       the employer’s portion of CPP and EI contributions.
+   •   Part XIII Tax Calculator – available on the CRA Web site, gives employers and others a
+       means to calculate the non-resident income tax required to be withheld from certain
+       payments going to non-residents of Canada.
+   •   The Automobile Benefits Online Calculator – available on the CRA Web site, gives
+       employers a means to calculate the estimated automobile benefit for income tax
+       withholding purposes based on the information they provide.
+   •   Increased capacity for internet filing of information returns – information returns eligible
+       for Internet filing increased to 5 MB via Internet File Transfer (XML) effective
+       January 2008, and will further increase to 20 MB in January 2009.
+   •   Error messages when filing electronically – employers using Internet File Transfer (XML)
+       to transmit information returns receive certain error messages at the time of filing,
+       enabling them to correct selected information at the time of transmission.
+   •   Tax Professionals' Information Tours – available on the CRA Web site, provides
+       electronic filing and services information of interest to tax professionals.
+   •   Authoring Standards Forum – comprised of representatives from across the CRA who
+       are responsible for communications and information products, is currently addressing
+       the publishing process and establishing standards for information products intended for
+       the public. Recommendations have and will continue to be made for standard text,
+       approved terminology, and quality assurance processes. A Writer’s toolbox was
+       developed and became available electronically to all employees in May 2008. The
+       toolbox offers a glossary of terminology, writing guidelines, and archive of terminology
+       decisions.
+
+Final Report on Action Items                  November 2008                                           30
+Appendix A: Complementary measures
+
+   •   Correspondence review – External correspondence, including letters, notices, and
+       acknowledgements issued by the CRA, was extensively reviewed and analysed.
+       Processes and systems used to compose correspondence, correspondence formats, the
+       use of plain language, consistent messaging, and quality assurance processes were
+       reviewed. While the review is continuing, even the initial exercise has prompted specific
+       suggestions for clearer, more appropriate messaging. Some off-shooting working
+       groups, such as the Terminology working group, have been formed to conduct closer
+       examinations and propose recommendations on specific elements of correspondence.
+       A senior executive steering committee has been formed to guide changes to Agency
+       correspondence and communication items.
+   •   My Payment – The CRA is currently developing an interac-based online payment
+       alternative for individuals and small businesses.
+   •   T4 Desktop – The program, enabling online preparation of T4 slips and summaries, now
+       imports previous T4 identification information into current T4 slips saving the 44,000
+       T4-Desktop users from re-keying employee identification information.
+   •   Outreach database – A database was developed to record details of all outreach
+       activities conducted by the CRA. This helps all of the CRA co-ordinate and integrate its
+       many outreach activities that are aimed at particular audiences such as small business.
+   •   Corporation Internet Filing – Many types of non-resident corporation returns became
+       eligible for internet filing in October 2008.
+   •   Reporting Retirement Allowance amounts – In an effort to reduce concurrent filing of T4s
+       for employment earnings and T4As for retiring allowances for the same employees, the
+       reporting requirement for retiring allowance amounts will be moved from the T4A to the
+       T4 effective January 2011. This will affect approximately 70% of the filers currently
+       having to file both slips.
+
+Final Report on Action Items                November 2008                                         31

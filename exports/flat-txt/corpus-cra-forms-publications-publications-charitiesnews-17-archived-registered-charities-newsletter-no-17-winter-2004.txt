@@ -1,0 +1,217 @@
+Title: ARCHIVED - Registered Charities Newsletter No. 17 - Winter 2004
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/charitiesnews-17/archived-registered-charities-newsletter-no-17-winter-2004.html
+Corpus path: corpus/cra/forms-publications/publications/charitiesnews-17/archived-registered-charities-newsletter-no-17-winter-2004.md
+Document type: publication
+Last modified: 2004-01-27
+
+# ARCHIVED - Registered Charities Newsletter No. 17 - Winter 2004
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## Contents
+
+- [From the Director General](#P13_36)
+
+- [What's new](#P26_1738)
+
+    - [Charities Advisory Committee being developed](#P28_1748)
+
+    - [Advisory](#P32_2268)
+
+    - [Additions to Web Site](#P35_2766)
+
+    - [Update](#P38_3396)
+
+- [Did you know?](#P42_3983)
+
+    - [Split-receipting definitions](#P52_4674)
+
+    - [Questions and answers on split-receipting](#P65_5730)
+
+    - [Questions and answers about the new Form T3010A, Registered Charity Information Return, and the new guide T4033A, Completing the Registered Charity Information Return](#P156_18625)
+
+- [Policies](#P197_23062)
+
+    - [New policy statement on what is a related business](#P199_23070)
+
+    - [New policy statement on promoting racial equality](#P209_24639)
+
+- [Contact information](#P221_26465)
+
+**From the Director General**
+
+Over the last year, the Charities Directorate of the Canada Customs and Revenue Agency (CCRA) has taken several steps to increase the availability of the information charities want.
+
+As we discussed in Newsletter No. 16, last year's survey revealed that charities representatives particularly value information on policy changes and new rules, and reminders of policies and regulations that affect charities.
+
+In this issue we discuss the new policy statements on what is a related business and promoting racial equality.
+
+As well as producing policy products, the Charities Directorate holds registered charity information sessions (the "Road Show") to inform our clients of policy changes and new regulations. Each year, hundreds of charity representatives take part in these sessions, which focus on how to fill out the annual charity return and also include information on other topics of interest to charities, such as changes in policy. This year the sessions have concentrated on changes to the return (now the T3010A) and questions on the new guidelines for allowing split-receipting. To help inform charities, we have included some of the most frequently asked questions on both these topics in this newsletter.
+
+I would like to take this opportunity to encourage you to contact the Charities Directorate if you have particular concerns about how the *Income Tax Act* and common law apply to your charity, or suggestions on improving the Charities Directorate's services. All contact information can be found at the close of the newsletter. This includes a new e-mail address for comments or suggestions directly relating to the newsletter that do not require a reply.
+
+**What's new**
+
+**Charities Advisory Committee being developed** The Charities Directorate is working with sector representatives to establish a Charities Advisory Committee. The Committee will provide regular advice, guidance and research through contact and communication between the CCRA Charities Directorate and the charitable sector. Updates will follow in subsequent issues of the newsletter. More information on the establishment of the Charities Advisory Committee is available at: www.ccra.gc.ca/tax/charities/cac/menu-e.html
+
+**Advisory** On September 27, 2003, in response to a number of inquiries from Canadians and registered charities, the CCRA issued an advisory to charities on partisan political activities. This advisory may be found on the CCRA Web site at: [www.ccra.gc.ca/tax/charities/policy/political_activities-e.html](https://www.canada.ca/chrts-gvng/chrts/plcy/pltcl_ctvts-eng.html). Charities are reminded that partisan political activity involves the direct or indirect support of, or opposition to, any political party or candidate for public office and is clearly prohibited.
+
+**Additions to Web Site** Since December 2, 2002, the Charities Directorate has posted numerous internal policy documents to our Web site. These include approximately 200 policy summaries, 20 policy statements and 25 policy commentaries. Policy summaries are indexed alphabetically and provide an introductory statement of Charities Directorate policy that links to more detailed policy documents, publications and case law. This fall, the Charities Directorate has increased the amount of information available through its Web site, to include past information letters containing technical guidance and additional policy documents.
+
+**Update** In Newsletter No. 16, it was announced that Carl Juneau, who is known for his work as Director of the Policy and Communications Division of the Charities Directorate, had taken an assignment at the Appeals Branch. After the Newsletter went to print, Mr. Juneau accepted another opportunity to share his expertise, and is now acting as a Senior Policy Advisor in the Personal Income Tax Division of the Department of Finance. There, his duties will relate mainly to the area of charities and income tax, as well as working with CCRA officials on the review of JRT recommendations.
+
+**Did you know?**
+
+In this issue, we focus on split-receipting and the new Form, T3010A. The changes to the *Income Tax Act* that were proposed in December 2001 would allow "split-receipting" - that is, allow a receipt to be issued for a gift where the donor received a benefit.
+
+**Gift at common law** - Generally, a voluntary transfer of property for which the donor receives nothing of value in return for having made the gift.
+
+**Split-receipting** - The term used to describe making a gift to a qualified donee where the donor receives an advantage in return. The fair market value of the advantage is taken into account in determining the eligible amount of the gift for which a receipt may be issued.
+
+**Split-receipting definitions** [1](#1)
+
+**Amount of advantage** - The total of the fair market value of all consideration (right, privilege, material advantage) provided for the property transferred.
+
+**Cost of property acquired by donor** - The cost to a taxpayer of a property acquired as an advantage is equal to the fair market value of the property at the time the gift is made.
+
+***De minimis* threshold** - An administrative concession that allows advantages of insignificant value to be excluded from the amount of advantage when determining the eligible amount of a gift. Generally, the *de minimis* threshold will apply as long as the total amount of all advantages is not more than whichever is less: 10% of the value of the property transferred to the charity or $75.
+
+**Donative intent** - Generally presumed to exist where the amount of the advantage provided is not more than 80% of the fair market value of the property transferred.
+
+**Eligible amount of gift** - The amount by which the fair market value of the property transferred is more than the "amount of the advantage."
+
+**Questions and answers on split-receipting**
+
+**Legislative amendments to the *Income Tax Act*****Q1. When do the changes to the Act come into effect?** A. The legislative amendments are proposed law and must yet be passed by the House of Commons. As proposed, the changes will be retroactive with varying effective dates depending upon the particular provision. The changes affecting the treatment of gifts will generally be retroactive to gifts made after December 20, 2002. The CCRA has provided guidelines (described in Q2, below) on the proposed amendments that can be relied on now, despite the fact that the proposed legislation is not yet law.
+
+**CCRA guidelines****Q2. Where can I find the CCRA's views on the "split-receipting" legislation and what do they address?** A. The CCRA's guidelines on the proposed amendments were published in Income Tax Technical News #26 on December 24, 2002, and can be found on the CCRA Web site at [www.ccra.gc.ca/tax/technical/incometax/itnews3-e.html](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/current-income-tax-technical-news-ittn.html). The guidelines address whether a transfer of property results in making a gift for the purpose of the *Income Tax Act*. Specifically, they provide the CCRA's view of the manner in which the "eligible amount" and the "amount of advantage" are to be determined with regard to various situations and fundraising events or activities.
+
+**Less tangible advantages****Q3. How is the eligible amount calculated when the advantage is intangible, such as a prize that is dinner with a celebrity?** A. For there to be an eligible amount, the fair market value of all advantages must be capable of being quantified. For example, a dinner with a celebrity cannot reasonably be valued. Therefore, there would not be an eligible amount for any portion of the ticket price to the fundraising event. As an alternative, the ticket to the fundraising event could exclude this prize as one of the advantages, and instead offer the chance to win dinner with a celebrity would be sold as a separate raffle. If the advantages provided are otherwise quantifiable, an eligible amount could be determined.
+
+**Appraised value at auctions****Q4. Can an appraised value be used to establish the gift portion of a bid on an item at auction?** A. Generally, the bid value is the fair market value. However, when the value of an item can clearly be determined (e.g., when there is a retail price for the item) and made known to all bidders in advance, an eligible amount would be present if the amount bid is more than the posted value. Where donative intent can be established, which may occur where the posted value of the item is not more than 80% of the accepted bid, a tax receipt may be issued for the eligible amount.
+
+It is the CCRA's opinion that for certain personal items, such as the jersey of a hockey player, the right to play golf with a particular person, or the right to dine with a particular person, the value of the item will be the amount of the bid and there will not be an eligible amount.
+
+**Auction not a "like event"****Q5. The CCRA used to maintain that an event in combination with an auction is not a "like event." Does this rule still apply?** A. No, the new guidelines on split-receipting leave no room for the "like event" concept. The policy stated in Interpretation Bulletin IT-110R3 will be entirely revised once proposed changes to the *Income Tax Act* become law. Our opinion was that the right to participate in an auction was an advantage that negated any gift. Under the new rules, the right to participate in an auction held at a fundraising dinner will generally not be viewed as constituting an advantage.
+
+**Contributions of service****Q6. Do split-receipting rules apply to contributions of services?** A. No. Contributions of services do not qualify as gifts because there is no transfer of property. If someone provides a service to your charity and asks for a tax receipt for his or her normal fee instead of payment, a receipt cannot be issued. However, the charity can pay for the services and later accept the return of all or part of the payment as a gift. An exchange of cheques establishes an audit trail and proves that a gift was made. However, there is no gift if there is any requirement for the service provider to make a payment to the charity.
+
+**Purchases of service at auction****Q7. Can an individual who purchases a service at auction be entitled to a donation receipt for the amount paid that is more than the value of the service received?** A. Yes. Where the service has a clearly established fair market value that has been identified to all bidders at the auction before the opening bid, a receipt can be issued to the purchaser of the service for the "eligible amount" where "donative intent" exists. The eligible amount is the difference between the amount paid (bid amount) and the "amount of advantage" received (value of the service). For example, if an individual successfully bid $40 for a haircut clearly valued at $25, the eligible amount would be $15.
+
+**Membership fees****Q8. If discount cards (e.g., 10% off at the local gift store) are provided with the membership, will this nullify any gift portion of the transaction?** A. That will depend upon the circumstance. It may be difficult to place a value on a discount card. The charity is obliged to support the value of all the advantages provided to the donor. The CCRA does not have a position on this matter and we are expecting feedback from the community on this.
+
+**Hole-in-one contest****Q9. The CCRA guidelines identify that a chance to win a hole-in-one prize at a golf tournament will not be considered to be an advantage in determining the eligible amount of a gift. What about other potentially winner-less contests?** A. The current draft guidelines relate specifically to hole-in-one contests at golf tournaments. The approximate odds of a hole-in-one for an average golfer on any given par-3 are over 40,000 to 1; therefore, the CCRA accepts that for any particular participant the value of the chance to win the prize is nominal. It is up to the charity to support the value of all advantages provided to the donor.
+
+**Annuities - position withdrawn****Q10. Since the legislative amendments on the treatment of gifts under the *Income Tax Act* are not yet law, is the administrative position on annuities effectively withdrawn?** A. Yes. The CCRA administrative position on charitable annuities is withdrawn for annuities issued after December 20, 2002, as indicated in Income Tax Technical News #26 and #27. The income tax treatment provided for in the current version of IT-111R2, *Annuities Purchased From Charitable Organizations*, will continue to apply to annuities issued before December 21, 2002. The administrative position had no basis in law and cannot be continued as a result of the proposed legislation. Under the proposed legislation, the cost of property acquired by the taxpayer from the charity in the course of making a gift, is the fair market value of the property at the time the gift was made.
+
+**Annuities - income****Q11. In the treatment of annuities issued after December 20, 2002, when does the donor include the amount in income?** A. The income should be taxed over the life of the annuity and included in the donor's income over this period. The calculation for taxing a stream of annuity payments is provided in the *Income Tax Act* and Regulations.
+
+**Multiple donations #1****Q12. What is the effect of an advantage on calculating the "eligible amount" for multiple donations?** A. Generally, the advantage received by a donor will be taken into account in calculating a single donation.
+
+For example: In a calendar year, a donor makes three donations of $100 each to a particular registered charity. For the second donation, the donor receives an article valued at $90. In this case, the eligible amount of the donor's gifts would be $200-the combined amount of first and third donations. The eligible amount for the second donation is zero because the amount of the advantage is more than 80% of the fair market value (FMV) of the property transferred to the charity. The charity can issue a single receipt indicating the FMV of the property transferred to the charity ($300) and the eligible amount ($200). However, it might be less confusing to the donor if the charity issued two receipts (one covering the first gift and one covering the third). Alternatively, the charity could issue a single receipt for the two donations where no advantage was received (eligible amount of $200). Regardless of which option the charity chooses, it should explain to the donor beforehand why the eligible amount for the second payment is nil.
+
+**Multiple donations #2****Q13. What if the advantage provided by the charity does not relate to a specific donation but rather is for all donations made in the year?** A. In such circumstances, using the example above in Q12, the charity might indicate in its solicitation material that donors who make total contributions to the charity in the year of more than $100 will receive an article with an FMV of $90. For the donor whose donations through the whole year add up to $300, the eligible amount will be $210 ($300 minus $90).
+
+When dealing with multiple donations, it is a question of fact as to whether any advantage received relates to a single donation or the series. For example, if the FMV of the advantage is more than the FMV of the property transferred to the charity on a single donation, it would be reasonable to conclude that the advantage is for all donations made in the year. For the example in Q12., if the FMV of the article was $125, then it would not be attributed solely to the second gift but rather to all gifts made in the year. The eligible amount would be $175 ($300 minus $125).
+
+**Donations pledged over multiple years****Q14. If a donor is provided with an article (advantage) in consideration for a pledge to make donations over a number of years, how would one calculate the eligible amount?** A. Particularly since there is no guarantee that donations will be made in subsequent years, we take the view that the advantage will be considered in determining the eligible amount of the gift in the year in which the advantage is received. If, as in Q.13, the FMV of the advantage is more than donations made in the year, it may be appropriate to reduce the subsequent year's donations by the amount of the "excess advantage."
+
+**Sale at undervalue****Q15. Can an individual sell his or her house to charity for less than the fair market value and get a receipt for the difference?** A. Yes. An individual can sell his or her property (e.g., house and/or land) to a charity for less than the fair market value of the property and be entitled to a donation receipt for the eligible amount where "donative intent" exists.
+
+**Books and records****Q16. Have the requirements for maintaining books and records changed?** A. No. The requirements for maintaining books and records have not changed, but the information found in them has.
+
+A registered charity, as always, must keep adequate books and records at a Canadian address it has on file with us, so that we can verify official donation receipts it issued and its revenue and expenditures. A charity must also keep source documents that support the information in its records and books of account. For more information, see RC4108, *Registered Charities and the Income Tax Act*, and IC78-10R3, *Books and Records Retention /Destruction*.
+
+As a result of the proposed changes to the *Income Tax Act* respecting "split-receipting," registered charities will need to ensure that their books and records adequately identify and support all calculations of "amount of advantage" and "eligible amount."
+
+**Contents of receipts****Q17. What information should be included on an official donation receipt for a gift where the donor receives an advantage?** A. *Income Tax Regulation* 3501(1) stipulates what information must be provided on official receipts issued by registered organizations. This includes, among other requirements, the amount of a cash donation or, if the donation is a gift of property other than cash, a description and the fair market value of the property at the time the gift was made.
+
+Official receipts issued by a registered organization for a gift made after December 20, 2002, must, in addition, identify the "eligible amount" of the gift. The "amount of advantage" will be the difference between the fair market value of the property transferred and the eligible amount.
+
+**Fundraising events****Q18. Is the calculation of the gift portion of the ticket price to a fundraising event based on tickets actually sold, tickets available for sale, or people that actually attend the event?** A. The calculation of the gift portion of the payment (the "eligible amount") is based upon the number of tickets sold. The door prizes and complimentary items would be aggregated and pro-rated on the total number of tickets sold to the event.
+
+**Questions and answers about the new Form T3010A, Registered Charity Information Return, and the new guide T4033A, Completing the Registered Charity Information Return**
+
+**Q1. When should registered charities start using the new form and guide?** A. Form T3010 and guide T4033 are to be used only by charities that are filing for fiscal periods up to December 31, 2002. These publications are available at tax services offices or by calling our toll-free number.
+
+The T3010A and guide T4033A must be used by all registered charities for all fiscal periods ending January 1, 2003, or later. Part of the form, the Basic Information sheet (BIS), is individualized, and replacement copies of the BIS can only be obtained by calling our toll-free number.
+
+**Q2. Is this new form very different?** A. Yes. The T3010A is considerably shorter, and the design is significantly different from the T3010.
+
+To be considered complete and acceptable to the CCRA, registered charities must submit both Form T3010A and the Basic Information sheet (BIS). A BIS contains pre-printed historical information on each charity and will be sent to each charity along with the form and guide in a prescheduled mail-out. A replacement BIS can only be obtained from the Charities Directorate. As a result, and to minimize possible frustration and confusion for our clients, the T3010A forms will not be available at tax services offices or through the 1-800 Forms line. To request Form T3010A or guide T4033A, call the Charities Directorate at 1-800-267-2384 or 1-888-892-5667 (bilingual). You can also view and print copies of the form and guide from our Web site at: [www.cra-arc.gc.ca/chrts-gvng/chrts/formspubs/menu-eng.html](https://www.canada.ca/en/revenue-agency/services/forms-publications.html)
+
+**Q3. Is the T3010A available in electronic format?** A. The T3010A is not yet available for the purpose of E-filing. However, it is possible to print a copy from the CCRA Web site. The completed copy can then be mailed to us with the accompanying pre-printed Basic Information sheet (BIS), which will already have been mailed to the charity.
+
+**Q4. Can charities use the T3010A to file for a previous year?** A. No. The T3010A may only be used for fiscal periods ending January 1, 2003, or later.
+
+**Q5. When will charities receive their T3010A?** A. Since February 2003, the T3010A and the Basic Information sheet (BIS) have been mailed out each month to charities to correspond with the end of their fiscal period.
+
+**Q6. Can charities complete and send in the "sample" T3010A that was provided in Newsletter No. 14?** A. No. The sample was sent to charities for information only.
+
+**Q7. Will the CCRA calculate our disbursement quota?** A. Yes. The Charities Directorate will calculate your disbursement quota for the current year based on the information you provide, and will include this with certain reported and recalculated financial totals in a Notice of Confirmation. This calculation is a general calculation to assist you, and it will only be as accurate as the information on which it is based. For example, a charity that mistakenly left line 5000, total charitable program expenditures, blank, would be told that it had not met its disbursement quota.
+
+It is also important to remember that this calculation is only for the current year. To determine whether a charity has met its disbursement quota, a charity must take into account disbursement quota excesses and shortfalls from previous years.
+
+For planning purposes, charities may want to calculate their own disbursement quota, and worksheets have been provided in guide T4033A for this purpose.
+
+**Q8. What is the difference between reporting on an accrual basis or on a cash basis?** A. On an accrual basis, a charity will record revenue it earned in the fiscal period even if it receives the revenue after the end of the fiscal period. It will also record an expenditure in the fiscal period it incurred it, even if it pays this invoice in the following period.
+
+On a cash basis, a charity will record only revenue or expenditures it actually received or paid during the fiscal period.
+
+*Please note* that in the T3010A, the wording has changed slightly with respect to financial reporting. "Receipts" are now referred to as "revenue," and "disbursements" are now referred to as "expenditures."
+
+**Reminder**: As mentioned in Newsletter No. 14, you can adjust many items on both T3010 and T3010A returns by using Form T1240, *Registered Charity Adjustment Request*. This form is available on the CCRA Web site.
+
+**Policies**
+
+**New policy statement on what is a related business**
+
+The *Income Tax Act* permits all charities (except private foundations) to carry on a related business but does not provide an exhaustive definition of the term. Private foundations are not allowed to carry on any kind of business. We have now posted new guidelines on the subject on the Web site at: [www.ccra.gc.ca/tax/charities/policy/cps/cps-019-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/policy-statement-019-what-a-related-business.html)
+
+The CCRA worked with the Voluntary Sector Initiative's Joint Regulatory Table for almost a year to develop a consultation document on the subject. The consultation document was publicized in Newsletter No. 13 after it had been posted to the CCRA's Web site in May 2002, as well as through mail-outs to key sector and for-profit umbrella groups and notices on various sector-maintained Web sites.
+
+Some 30 substantive comments were received by January 2003. Roughly half the respondents wanted us to accept the so-called "destination-of-funds" test, under which a charity could carry on any kind of commercial activity as long as the profits from the business were used to support charitable programs. However, the Federal Court of Appeal's decision in the *Earth Fund* case in December 2002 (described in Newsletter No. 15) confirmed the CCRA's position that a business does not become a related business of a charity simply because the profits are used for charitable purposes or charitable activities.
+
+Other respondents offered a range of ideas and suggestions, many of which we were happy to include because they improved the scope and clarity of the guidelines.
+
+**New policy statement on promoting racial equality**
+
+The CCRA is pleased to make available its new policy, *Registering Charities that Promote Racial Equality*, which is the result of the consultation on the draft guidelines, *Elimination of Racial Discrimination as a Charitable Purpose*, (discussed in Newsletter No. 15). We have chosen to use the broader concept of 'promoting racial equality' to describe the policy, which encompasses eliminating racial (including ethnic) discrimination and encouraging positive race relations in Canada.
+
+A number of consultation submissions asked that we broaden the focus of this policy to recognize the interconnectedness of equality rights. In response, the CCRA has decided to develop further guidelines for organizations that work towards the elimination of other forms of discrimination as defined by the *Canadian Charter of Rights and Freedoms* and other human rights legislation.
+
+We also heard from groups that thought charities should be able to work outside Canada to promote racial equality. The final policy clarifies that programs qualifying under the "advancement of education" category (i.e., those that educate on racial equality or on methods of promoting it) can carry out their activities abroad. However, the policy does not yet address programs that fall under the "other purposes beneficial to the community" category if the intention is to carry them out abroad. We are reviewing this issue, and will consider such applicants on a case-by-case basis until guidance that clarifies these circumstances is made available.
+
+In addition to further refining the "advancement of education" section of the policy, more detail and links to other policies have also been provided to address questions and requests for additional information received from consultation respondents.
+
+**Contact information**
+
+The Charities Directorate You can call us toll free at 1-800-267-2384 (English) or 1-888-892-5667 (bilingual).
+
+You can also write to us at: Charities Directorate Canada Customs and Revenue Agency Ottawa ON K1A 0L5
+
+You can contact us by e-mail for comments or suggestions
+
+- about the newsletter* at:[charities-bienfaisance-bulletin@ccra-adrc.gc.ca](mailto:charities-bienfaisance-bulletin@ccra-adrc.gc.ca)
+
+- about the Roadshow at:[information.sessions@ccra-adrc.gc.ca](mailto:information.sessions@ccra-adrc.gc.ca)
+
+- about the Web site* at:[Charities-Bienfaisance@ccra-adrc.gc.ca](mailto:Charities-Bienfaisance@ccra-adrc.gc.ca)
+
+* Although we will not be able to reply, we will use your comments to improve these services.
+
+You can find all our publications at:[http://www.cra-arc.gc.ca/chrts-gvng/chrts/formspubs/menu-eng.html](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+Draft publications for consultation are available at:[http://www.cra-arc.gc.ca/tax/charities/consultations/menu-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/consultation-feedback-on-policies-guidance.html).
+
+For information on new additions about charities, see the "What's new" page at:[http://www.cra-arc.gc.ca/tax/charities/whatsnew/menu-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/whats-new.html).
+
+For an e-mail notification of these additions, subscribe to the free electronic mailing list at:[www.cra-arc.gc.ca/eservices/maillist/subscribecharities-e.html](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-charities-giving-whats-new.html).
+
+1 **Disclaimer:** For easy reference, these definitions are shortened versions of those found in the proposed amendments to the *Income Tax Act*.

@@ -1,0 +1,434 @@
+---
+title: "Public Colleges"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-2/public-colleges.html
+last_modified: 2021-12-11
+---
+# Public Colleges
+
+GST/HST Memorandum 20-2 December 2019
+
+This memorandum cancels and replaces the following publication: GST/HST Policy Statement P-186, Meaning of the Term “Public College”.
+
+This memorandum explains which institutions or organizations qualify as public colleges for GST/HST purposes. It also examines the provisions of the Excise Tax Act that pertain to public colleges.
+
+In this publication, all legislative references to the “Act” are to the Excise Tax Act, unless otherwise specified. The information in this publication does not replace the law found in the Act and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the Act or relevant regulation, or call GST/HST Rulings at 1-800-959-8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1-800-567-4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1-855-666-5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia, and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, see [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of contents
+
+- [General](#_Toc6388291)
+
+- [Qualifying as a public college](#_Toc6388292)
+
+    - [Post-secondary college or post-secondary technical institute](#_Toc6388293)
+
+    - [Funding for the ongoing provision of educational services to the general public.](#_Toc6388294)
+
+    - [Provides programs of instruction in one or more fields](#_Toc6388295)
+
+- [Supplies made by public colleges](#_Toc6388296)
+
+    - [Courses in respect of professional or trade accreditations or designations.](#_Toc6388297)
+
+          - [Exception – election to make exempt supplies taxable](#_Toc6388298)
+
+    - [Credit courses toward a diploma or degree](#_Toc6388299)
+
+    - [Mandatory fees](#_Toc6388300)
+
+    - [Vocational courses](#_Toc6388301)
+
+          - [Exception – election to make exempt supplies taxable](#_Toc6388302)
+
+          - [Exception – zero-rated supplies](#_Toc6388303)
+
+    - [Second-language instruction](#_Toc6388304)
+
+    - [Course materials](#_Toc6388305)
+
+    - [Meals provided under a meal plan](#_Toc6388306)
+
+    - [Courses that are part of a program](#_Toc6388307)
+
+          - [Programs](#_Toc6388308)
+
+          - [Recreational courses](#_Toc6388309)
+
+    - [Service of instruction vs. admission to a seminar, activity or event](#_Toc6388310)
+
+          - [Supply of a service of instruction](#_Toc6388311)
+
+          - [Supply of an admission to a seminar, activity, or event](#_Toc6388312)
+
+    - [Online supplies of instruction](#_Toc6388313)
+
+- [Supplies made to public colleges](#_Toc6388314)
+
+    - [Food services](#_Toc6388315)
+
+- [Input tax credits](#_Toc6388316)
+
+- [Public service bodies’ rebate](#_Toc6388317)
+
+## General
+
+1. Supplies of many educational services, as well as certain specific supplies of related property and services, made by public colleges are exempt from the GST/HST. These exemptions are listed in Part III of Schedule V.
+
+## Qualifying as a public college
+
+2. Subsection 123(1) defines **public college** to mean “an organization that operates a post-secondary college or post-secondary technical institute
+
+1. that receives from a government or a municipality funds that are paid for the purpose of assisting the organization in the ongoing provision of educational services to the general public, and
+
+2. the primary purpose of which is to provide programs of instruction in one or more fields of vocational, technical or general education”.
+
+3. This definition establishes the 3 requirements that an organization must meet to qualify as a public college.
+
+### Post-secondary college or post-secondary technical institute
+
+4. The first requirement is that the organization must operate a post-secondary college or post-secondary technical institute.
+
+5. In order for a college or technical institute to qualify as post-secondary, its normal admission standards must include the requirement that prospective students have either a secondary school diploma or equivalency, or mature student status.
+
+6. Generally, all post-secondary colleges or post-secondary technical institutes, whether public or private, are required to operate according to the relevant federal or provincial legislation. However, there are a few exceptions to this requirement as each province determines what is necessary in order for an organization to operate as a post-secondary college or post-secondary technical institute (for example, the circumstances described in Example 3).
+
+7. For the purposes of the Act, the term **province** is interpreted to include a territory of Canada.
+
+### Funding for the ongoing provision of educational services to the general public
+
+8. The second requirement is that the organization must receive funding from a government[Footnote1](#fn1) or municipality[Footnote2](#fn2) for the purpose of assisting the organization in the ongoing provision of educational services to the general public. An organization that operates a post-secondary college or post-secondary technical institute but is not funded by a government or municipality is not a public college for purposes of the Act.
+
+9. Regular operating grants in the form of transfer payments made by the provincial ministry or department responsible for education or post-secondary education to an organization are considered to be funding from a government that the organization receives for the purpose of assisting it in the ongoing provision of educational services to the general public.
+
+10. By contrast, monies that are provided to an organization under agreements between the organization and a government or municipality for the provision of training to a particular group of students, such as recipients of income or employment assistance, do not meet this requirement. Funding to support job training activities is generally used by an organization to provide specific educational services over a limited time period and therefore does not relate to the ongoing provision of educational services to the general public.
+
+11. The term **general public**, as it relates to public colleges, is interpreted to mean a significant segment of the general public. A post-secondary college or post-secondary technical institute may have certain reasonable admission standards, such as educational prerequisites, and still be considered to be providing educational services to the general public. Further, as long as a post-secondary college or post-secondary technical institute offers a variety of courses to the general public, it may be acceptable for a portion of the courses or programs offered to be limited to a narrow segment of the public.
+
+### Provides programs of instruction in one or more fields
+
+12. The third requirement is that the organization’s primary purpose must be to provide programs of instruction in one or more fields of vocational, technical or general education.
+
+13. To determine the primary purpose of an organization, the CRA will normally look to the instruments by which the organization was created. These instruments may include letters patent, articles of incorporation or legislation. Other documentation, such as the organization’s course calendar or promotional materials, financial statements or information on the organization’s website, may also assist in determining the primary purpose of the organization.
+
+Organization A operates a post-secondary educational institution that has been designated as a college under provincial legislation governing colleges.
+
+Organization A’s primary purpose is to provide computer-related technical courses to students who graduated from high school with credits in specific courses that are identified as prerequisites for the programs offered by Organization A.
+
+Organization A receives funding from the provincial Ministry of Education to finance its ongoing operations. The provincial funding is tied to the number of students Organization A is expected to enrol, based on the previous year’s enrolment. However, the funding is not restricted to the education of any particular group of students, and Organization A decides whether to accept or refuse admission to students based on admission standards set by the province.
+
+Organization A qualifies as a public college, as defined in subsection 123(1), because it meets all of the following conditions:
+
+- it operates a post-secondary college as designated under provincial legislation governing colleges
+
+- it receives funds from the Ministry of Education to support the ongoing delivery of educational services to the general public
+
+- its primary purpose is to provide a program of instruction in the field of technical education
+
+Company C is a corporation established by a union and registered as a post-secondary technical institute under provincial legislation.
+
+Company C offers a variety of labour law and management training programs for which one of the normal admission requirements is either a secondary school diploma or equivalent or mature student status. All of the training offered by Company C is available exclusively to members of the union.
+
+Company C receives funding from the province to finance the ongoing operations of its educational programs.
+
+Company C does not qualify as a public college because it uses the government funding that it receives to subsidize the training of union members only and not to support the ongoing delivery of educational services to the general public.
+
+Company D is an organization that offers post-secondary certificate programs to the general public in several vocational fields, including business administrative assistant, bookkeeper and resident care worker.
+
+Candidates must have a secondary school diploma or equivalency to apply for admission to a certificate program.
+
+Company D is a non-profit organization that has entered into a Memorandum of Understanding with the province in which it operates. Under the Memorandum of Understanding, the province recognizes Company D as a technical institute offering post-secondary education and provides funding to Company D in support of the ongoing delivery of educational services by Company D to the general public.
+
+Company D qualifies as a public college because it meets all of the following conditions:
+
+- it requires candidates to have a secondary school diploma or equivalency to apply for admission and is therefore operating a post-secondary technical institute as accepted by the province in the Memorandum of Understanding
+
+- it is funded by a provincial government and uses the funds that it receives from the province to support the ongoing delivery of educational services to the general public
+
+- its primary purpose is to provide a program of instruction in the field of vocational education
+
+Institute E is registered as a technical institute under provincial legislation governing technical institutes. Institute E offers a variety of technical programs for which the normal admission requirements are either high school graduation or equivalency, or mature student status.
+
+The only government funding that Institute E receives is from a federal government department as part of an employment assistance program.
+
+Institute E enters into an agreement with the federal government department, which will provide the funding in return for training to applicants who are identified by virtue of that agreement.
+
+Institute E does not qualify as a public college, as defined in subsection 123(1), since the funds that it receives from the federal government department are used to provide training to a particular group of students under an agreement with the federal government department and do not support the ongoing delivery of educational services by the institute to the general public.
+
+## Supplies made by public colleges
+
+### Courses in respect of professional or trade accreditations or designations
+
+14. Section 6 of Part III of Schedule V exempts “a supply of
+
+1. a service of instructing individuals in courses leading to, or for the purpose of maintaining or upgrading, a professional or trade accreditation or designation recognized by a regulatory body, or
+
+2. a certificate, or a service of administering an examination, in respect of a course, or in respect of an accreditation or designation described in paragraph (a),
+
+where the supply is made by a professional or trade association, government, vocational school, university or public college or by the regulatory body, except where the supplier has made an election under this section in prescribed form containing prescribed information”.
+
+15. **Regulatory body** is defined under section 1 of Part III of Schedule V to mean “a body that is constituted or empowered by an Act of Parliament or of the legislature of a province to regulate the practice of a profession or trade by setting standards of knowledge and proficiency for practitioners of the profession or trade”.
+
+16. An accreditation or designation is an official authorization that attests to the fact that an individual has met certain pre-determined standards set forth by a regulatory body. Examples include trade accreditations, such as welding tickets, and professional designations, such as P. Eng. (Professional Engineer).
+
+17. The supply of a certificate or of a service of instruction or of administering an examination that is exempt under section 6 of Part III of Schedule V is exempt for all students in the course, including those who are not taking the course to obtain, maintain or upgrade an accreditation or designation.
+
+18. Section 6 of Part III of Schedule V does not exempt the supply of a service of instruction or of administering an examination in a course that is not required for accreditation or designation but simply broadens one’s knowledge in a field. In addition, section 6 does not exempt the supply of a service of instruction or of administering an examination in a course that may be occupationally related and required for accreditation or designation by a professional association if there is no regulatory body.
+
+Corporation A charges a fee for administering an exam and issuing a certificate in a profession that is recognized by several boards in different provinces. Neither Corporation A nor any of these boards are a regulatory body. The certificate in question is not a professional or trade accreditation or designation that is recognized by any regulatory body.
+
+As the certificate is not in respect of an accreditation or designation that is a professional or trade accreditation or designation that is recognized by any regulatory body, the fee charged for administering the exam and issuing a certificate is not exempt under section 6 of Part III of Schedule V.
+
+#### Exception – election to make exempt supplies taxable
+
+19. Under section 6 of Part III of Schedule V, a supplier may elect to have an exempt supply of a service of instructing individuals in courses in respect of a professional or trade accreditation or designation, or of a certificate, or a service of administering an examination, in respect of a course, or in respect of a professional or trade accreditation or designation made taxable. For additional information about this election, refer to [GST/HST Memorandum 20-9, Election to Make Exempt Supplies of Educational Services Taxable](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-9.html), and [Form GST29, Educational Services – Election and Revocation of the Election to Make Certain Supplies Taxable](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst29.html).
+
+### Credit courses toward a diploma or degree
+
+20. Section 7 of Part III of Schedule V exempts, in part, a supply made by a public college of a service of instructing individuals in, or administering examinations in respect of, courses for which credit may be obtained toward a diploma or degree.
+
+21. The supply made by a public college of a service of instructing in credit courses is exempt even if the supply is made to students who are not enrolled in a diploma or degree program. Consequently, the exemption applies to supplies of instruction in courses for which credit toward a diploma or degree may be obtained where those courses are offered by a public college, either at night as part of a continuing education program or during the day, even if some students are not taking the courses as part of a diploma or degree program.
+
+Public College P offers a variety of courses to the general public through its Continuing Education Department. Among the courses offered is an intermediate accounting course that is the same credit course offered by Public College P to students enrolled in its accounting program and that must be completed in order to earn a diploma. An individual who wishes to upgrade their accounting skills for employment purposes registers for the intermediate accounting course.
+
+Although the individual is not enrolled in a diploma program at Public College P, the accounting course is a course for which credit may be obtained toward a diploma. As such, Public College P’s supply of instructing the individual in the course is exempt from the GST/HST.
+
+### Mandatory fees
+
+22. Section 7.1 of Part III of Schedule V exempts “a supply of a service or membership the consideration for which is required to be paid by the recipient of a supply included in section 7 [of Part III of Schedule V] because the recipient receives the supply included in section 7” (for example, instruction in courses offered by a public college for which credit may be obtained toward a diploma or degree).
+
+23. Examples of the supplies referred to in section 7.1 of Part III of Schedule V include supplies of student union memberships and counselling services where the consideration for these supplies must be paid by students because they receive a supply that is exempt under section 7 of Part III of Schedule V.
+
+24. There is no requirement that the supplies under section 7.1 and section 7 of Part III of Schedule V be made by the same supplier. As is the case with the exemption under section 7, the exemption under section 7.1 applies even if the supply is made to students who are not enrolled in a diploma or degree program.
+
+25. The exemption under section 7.1 of Part III of Schedule V does not apply to mandatory fees in respect of a supply of tangible personal property, such as a musical instrument or lab equipment, that is required for use in a course. Such supplies may, however, be exempt under another section of the Act.
+
+### Vocational courses
+
+26. Section 8 of Part III of Schedule V exempts, in part, a supply, other than a zero-rated supply, made by a public college of a service of instructing individuals in, or administering examinations in respect of, courses leading to certificates, diplomas, licences or similar documents, or classes or ratings in respect of licences, that attest to the competence of individuals to practise or perform a trade or vocation, except where the supplier has made an election under this section in prescribed form containing prescribed information.
+
+27. For additional information on the application of the GST/HST to vocational courses, refer to [GST/HST Memorandum 20-4, Vocational Schools and Courses](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-4.html).
+
+#### Exception – election to make exempt supplies taxable
+
+28. Under section 8 of Part III of Schedule V, a supplier may elect to have an exempt supply of a service of instructing individuals in, or administering examinations in respect of, vocational courses made taxable. For additional information about this election, refer to [GST/HST Memorandum 20-9](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-9.html) and [Form GST29](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst29.html).
+
+#### Exception – zero-rated supplies
+
+29. The exempting provision of section 8 of Part III of Schedule V does not apply to zero-rated supplies. An example of a zero-rated supply that would otherwise be exempt under section 8 of Part III of Schedule V is a supply made under section 18 of Part V of Schedule VI.
+
+30. Section 18 of Part V of Schedule VI zero-rates a supply made to a non-resident person, other than an individual, who is not registered for GST/HST purposes of “a service of instructing non-resident individuals in, or administering examinations in respect of, courses leading to certificates, diplomas, licences or similar documents, or classes or ratings in respect of licences, that attest to the competence of the individuals to whom the service is rendered or the examination is administered to practise or perform a trade or vocation”.
+
+31. Although section 18 of Part V of Schedule VI is similar to section 8 of Part III of Schedule V, there is no requirement under section 18 of Part V of Schedule VI that the supplier be a public college or any other specified type of entity. Where all of the conditions in section 18 of Part V of Schedule VI are satisfied, the supply will be zero-rated regardless of who is providing the service.
+
+32. Under section 18 of Part V of Schedule VI, an otherwise exempt supply under section 8 of Part III of Schedule V is zero-rated when made to a non-resident person who is not an individual and is not registered for GST/HST purposes.
+
+33. For additional information, refer to [GST/HST Memorandum 20-8, Educational Services Made to a Non-resident](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-8.html).
+
+### Second-language instruction
+
+34. Under section 11 of Part III of Schedule V, a supply by a public college of a service of instructing individuals in, or administering examinations in respect of, language courses that form part of a program of second-language instruction in either English or French is exempt.
+
+35. For additional information about the application of the GST/HST to second-language instruction, refer to [GST/HST Memorandum 20-7, Second-language Instruction](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-7.html).
+
+### Course materials
+
+36. Students often purchase course materials that relate to a service of instruction, such as textbooks, dictionaries, notes and compact discs, from the person supplying the service of instruction. The course materials may either be part of a single supply of a service of instruction that consists of several elements or be supplied separately from the supply of a service of instruction. The tax status of the course materials that relate to a service of instruction must therefore be determined on a case-by-case basis.
+
+37. If the service of instruction and course materials form part of a single supply of a service of instruction and the supply of the service of instruction is an exempt supply, the course materials included in the single supply will not be subject to the GST/HST.
+
+38. If the supply of course materials is a separate supply from the exempt supply of a service of instruction, the supply of the course materials would not be exempt under Part III of Schedule V and would be taxable unless another exempting provision of the Act applies to the supply.
+
+39. [GST/HST Policy Statement, P-077R2, Single and Multiple Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-077r2.html), provides guidance for determining whether a transaction consisting of several elements is a single supply or 2 or more supplies.
+
+### Meals provided under a meal plan
+
+40. Under section 13 of Part III of Schedule V, a supply of meals provided under a plan at an on-campus restaurant or cafeteria at a public college to students enrolled at the public college is exempt from the GST/HST if the single fee paid for the plan is sufficient to provide the student with at least 10 meals each week for the period of the plan, which must be at least 1 month.
+
+41. For additional information on meal plans, refer to [GST/HST Memorandum 20-5, School Cafeterias, University and Public College Meal Plans, and Food Service Providers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-5.html).
+
+### Courses that are part of a program
+
+42. Section 16 of Part III of Schedule V exempts a supply made by a public college of a service of instructing individuals in, or administering examinations in respect of, courses that are part of a program that consists of 2 or more courses and that is subject to review of, and is approved by, a council, board or committee of the public college established to review and approve the course offerings of that public college.
+
+43. Specifically excluded from this exemption are courses in sports, games, hobbies or other recreational pursuits that are designed to be taken primarily for recreational purposes.
+
+#### Programs
+
+44. For the purposes of the exemption under section 16 of Part III of Schedule V, a program is understood to be a particular set of 2 or more courses that is:
+
+- offered by a public college
+
+- identified as such by that public college
+
+- reviewed and approved by a council, board or committee of that public college
+
+45. Workshops, conferences, retreats and seminars are generally not considered to be courses. Refer to the “Service of instruction vs. admission to a seminar, activity or event” section of this memorandum (paragraphs 54 to 61) for information on the distinction between the supply of a service of instruction and that of an admission.
+
+46. A program is more than a miscellaneous collection of courses that relate to a given topic or area or that have been grouped under a particular heading. Rather, a program must consist of 2 or more courses that usually have a common subject matter or purpose and that fit together in a coherent way or in a logical sequence.
+
+47. It is not necessary that all of the courses in a program be offered every year or semester, as long as the program includes 2 or more courses that are available on a periodic basis. It is also not necessary that a program be a recurring program. Provided it is made up of 2 or more courses, a program could, for example, be created to meet a need for a single year.
+
+48. In addition, it is not necessary that an individual take all the courses in a program for the exemption to apply as the exempting provision is for the supply of instruction in a particular set of courses within a program offered by a public college, not the planned course or program of studies of an individual.
+
+49. The exemption under section 16 of Part III of Schedule V does not necessarily extend to all courses under a program, and each course must be separately evaluated to determine whether the supply of the course meets the conditions set out in this section. In some cases, courses in a program may have different tax statuses as the program may include a combination of qualifying courses and courses designed to be taken primarily for recreational purposes, the supply of which is specifically excluded under section 16.
+
+#### Recreational courses
+
+50. For the purposes of the exemption under section 16 of Part III of Schedule V, an activity designed to be taken primarily for recreational purposes is understood to be an activity designed to be an enjoyable diversion or pastime. A recreational course may be informative but is mainly directed at satisfying the participant’s interest or desire for enjoyment or at enhancing the participant’s social activities.
+
+51. In determining whether a course is recreational in nature, it is important to consider the design of the course being offered rather than the intention of the individual taking the course. Other factors that may be examined include the course’s objectives and subject matter; how the course is marketed; the methods of teaching, evaluating and monitoring course participants; and the instructors’ qualifications.
+
+52. Examples of recreational courses include non-credit courses in subjects such as dancing, skating, cooking or sailing.
+
+53. While a course may not have been designed primarily for recreational purposes, it must still satisfy the other conditions set out in section 16 of Part III of Schedule V, as noted above. That is, in order for the supply of a service of instructing individuals in, or administering examinations in respect of, a course to be exempt, all of the following conditions must be met:
+
+- the course must be 1 of at least 2 courses that make up a program offered by a public college
+
+- the program must be subject to review and approval by a council, board or committee of the public college
+
+- the council, board or committee that reviews and approves the program must have been established by the public college for the purpose of reviewing its course offerings
+
+Public College A offers a program consisting of 3 courses in model train building. These courses do not qualify as exempt supplies under any other section of Part III of Schedule V. The program is subject to review and approval by the board of the public college that was established by the college for the purposes of reviewing its course offerings.
+
+Although there are more than 2 courses and the courses are subject to review by the board of the public college, the courses are not exempt under section 16 of Part III of Schedule V. The courses in this example are specifically excluded from the exemption in section 16 because they fall into the category of “sports, games, hobbies or other recreational pursuits that are designed to be taken primarily for recreational purposes”.
+
+### Service of instruction vs. admission to a seminar, activity or event
+
+54. A public college may offer seminars, activities or other events to its students or members of the general public; however, such events are generally not considered to be a supply of instruction in courses for GST/HST purposes.
+
+55. The supply of instruction in courses is a service for GST/HST purposes and is exempt from the GST/HST if it meets the requirements set out in Part III of Schedule V or zero-rated if it meets the requirements set out in section 18 of Part V of Schedule VI.
+
+56. By contrast, the supply of an admission to a seminar, activity or event is a supply of intangible personal property for GST/HST purposes and may be subject to the GST/HST.
+
+57. Subsection 123(1) defines **admission** in respect of a place of amusement or a seminar, activity or event to mean “a right of entry or access to, or attendance at, the place of amusement or the seminar, activity or event”.
+
+58. The factors listed below are intended to assist a supplier in establishing whether a particular supply is the supply of a service of instruction or the supply of an admission to a seminar, activity, or event. These factors are not all-inclusive, and the order in which they appear is not intended to assign a priority or weighting to any one factor.
+
+59. For ease of reading, the word **activity** is used below to refer to activities carried out for purposes of making the supply of a service of instruction (in-class instruction, etc.) or of an admission (to seminar-based learning programs, conferences, workshops, etc.).
+
+#### Supply of a service of instruction
+
+60. The following are some of the factors that generally indicate that a given supply is a supply of a service of instruction:
+
+- The activity involves the provision of systematic instruction.
+
+- The supplier monitors or supervises the participant’s progress or learning.
+
+- The supplier assesses the participant’s progress during the course of the activity and provides ongoing support, feedback and guidance to the participant.
+
+- The supplier may be available to assist the participant with the subject matter at a time and location different from the time and place in which the activity occurs.
+
+- The supplier assesses the participant’s competency upon completion of the activity by requiring the participant to formally demonstrate the knowledge acquired. If the competency is not achieved, the activity may have to be repeated.
+
+- The participant is required to invest time and effort outside of the activity in order to complete assignments, read course material, etc.
+
+- The participant may be required to successfully complete verified prerequisites before taking part in the activity.
+
+- The participant may be required to successfully complete the activity before being permitted to participate in another activity.
+
+- The activity is part of a series of activities leading to a formal recognition of skills, such as a degree, diploma or licence.
+
+- The activity may be part of a program that consists of a series of 2 or more related activities.
+
+- The activity occurs at set intervals over an extended period of time (for example, weeks or months).
+
+- The activity does not include the provision of rights or, if there is a provision of rights, they are incidental to or part of the single supply of a service (for example, the right to use a laboratory or a darkroom facility).
+
+- The subject of the activity is broad (for example, writing).
+
+- The supplier advertises or promotes the activity as being intended to instruct participants.
+
+- The activity is promoted together with other activities in a prospectus or calendar prepared by an educational institution.
+
+- The promotional material indicates that the activity is part of a broader program that may lead to a formal recognition of skills, such as a diploma, degree or licence.
+
+- The promotional material is aimed at persons who have the prerequisites required to participate in the activity.
+
+#### Supply of an admission to a seminar, activity, or event
+
+61. The following are some of the factors that generally indicate that a given supply is a supply of an admission to a seminar, activity or event:
+
+- The supplier and the participant engage in minimal individualized interaction.
+
+- The participant need only attend the activity to receive evidence of successful or satisfactory completion of the activity.
+
+- The supplier’s purpose with respect to the activity is principally to provide information to, or to facilitate the exchange of information among, participants.
+
+- The subject of the activity is narrowly focused (for example, study skills for first-year students or money management techniques).
+
+- The activity is discrete from other activities offered by the supplier, with no formal prerequisites for attendance.
+
+- The participant is not required to take part in the activity as a prerequisite for participating in another activity.
+
+- The activity is promoted as a stand-alone activity.
+
+- The activity is promoted to the general public.
+
+- The activity is promoted as a seminar, workshop or similar event.
+
+- The activity occurs during a brief, concentrated period of time (for example, a number of hours, a day or several consecutive days).
+
+### Online supplies of instruction
+
+62. The exempt supplies described under sections 6, 7, 8, 11 and 16 of Part III of Schedule V may also be made where a public college makes an online supply of a service of instructing individuals in courses via the Internet as opposed to a traditional classroom setting where the conditions of the respective sections are met. As well, section 18 of Part V of Schedule VI may also apply to zero-rate an online supply of a service of instructing non-resident individuals.
+
+63. It can, however, be difficult to determine whether a supply made online is the supply of a service (and thus possibly exempt under section 6, 7, 8, 11 or 16 of Part III of Schedule V or zero-rated under section 18 of Part V of Schedule VI) or of intangible personal property as this determination is based on a number of factors, as well as the specific facts of the particular case. Refer to [GST/HST Technical Information Bulletin B-090, GST/HST and Electronic Commerce](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-090.html), for information on determining whether a supply made online is a supply of a service or of intangible personal property.
+
+64. The CRA has also developed a set of factors to assist in determining whether a particular supply is a supply of a service of instruction, which could qualify for exemption under section 6, 7, 8, 11 or 16 of Part III of Schedule V or be zero-rated under section 18 of Part V of Schedule VI where the requirements of the respective sections are met, or a supply of intangible personal property. These factors are listed in the “Service of instruction vs. admission to a seminar, activity or event” section of this memorandum (paragraphs 54 to 61). Note that these factors apply whether the supply is made online or in person.
+
+## Supplies made to public colleges
+
+### Food services
+
+65. Section 14 of Part III of Schedule V exempts, in part, a supply of food and beverages, including catering services, made to a public college and supplied under a contract to provide food or beverages to students under a meal plan referred to in section 13 of Part III of Schedule V.
+
+66. Section 14 of Part III of Schedule V does not exempt supplies of food, beverages and services that are provided for a reception, conference or other special occasion or event.
+
+67. For additional information on food services, refer to [GST/HST Memorandum 20-5.](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-5.html)
+
+## Input tax credits
+
+68. Under subsection 169(1), a GST/HST registrant is generally eligible to claim an input tax credit (ITC) for the GST/HST paid or payable by the registrant on property or a service based on the extent to which the property or service is acquired by the registrant for consumption, use or supply in the course of the registrant’s commercial activities, where all of the conditions for claiming an ITC are met.
+
+69. A **commercial activity** of a person is defined in subsection 123(1) to include “a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person”.
+
+70. For information on ITCs, refer to [GST/HST Memorandum 8-1, General Eligibility Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1.html), and [GST/HST Memorandum 8-3, Calculating Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-3.html).
+
+## Public service bodies’ rebate
+
+71. Where a public college cannot claim ITCs (for example, where it makes an exempt supply), a public service bodies’ rebate may be available.
+
+72. Public colleges established and operated otherwise than for profit meet the definition of **selected public service body** in subsection 259(1) and may, therefore, be eligible to claim a public service bodies’ rebate of the GST or the federal part of the HST paid or payable on eligible purchases and expenses. A public college that is established and operated otherwise than for profit and that is resident in a participating province may also be eligible to claim a rebate of the provincial part of the HST paid or payable on eligible purchases and expenses.
+
+73. Note that a for-profit public college will not qualify for a public service bodies’ rebate. Further, should a for-profit public college make a supply of an educational service (or related property or services) that is exempt under Part III of Schedule V, it would not be eligible to claim ITCs in relation to the exempt supply.
+
+74. For information about the public service bodies’ rebate, refer to [Guide RC4034, GST/HST Public Service Bodies’ Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+75. In addition, public colleges may be eligible for rebates of the GST/HST payable on the purchase of printed books and other specified property. For more information about these book rebates, refer to [Guide RC4034](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html) or [GST/HST Memorandum 13-4, Rebates for Printed Books, Audio Recordings of Printed Books, and Printed Versions of Religious Scriptures](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/13-4.html).
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries,**call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries,**call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in**Quebec**, call**Revenu Québec**at **1-800-567-4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST - Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for**general GST/HST**or**QST enquiries**, call**Business Enquiries**at**1-800-959-5525**
+
+- for**technical GST/HST**or**QST enquiries**, call**GST/HST Rulings SLFI**at**1-855-666-5166**

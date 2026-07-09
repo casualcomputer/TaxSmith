@@ -1,0 +1,18 @@
+---
+title: "RC4177 Death of an RRSP Annuitant"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4177.html
+last_modified: 2025-12-15
+---
+# RC4177 Death of an RRSP Annuitant
+
+This Canada Revenue Agency (CRA) information sheet provides general information for individuals on the death of a Registered Retirement Savings Plan (RRSP) Annuitant.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [rc4177-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4177/death-rrsp-annuitant-a-prpp-member.html)
+
+    - PDF [rc4177-25e.pdf](/content/dam/cra-arc/formspubs/pub/rc4177/rc4177-25e.pdf)
+
+- Ask for an alternate formatYou can order a digital audio, e-text, braille or large print version of this publication to be sent to you by mail.[Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html)

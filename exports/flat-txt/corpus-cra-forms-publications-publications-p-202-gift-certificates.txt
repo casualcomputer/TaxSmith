@@ -1,0 +1,155 @@
+Title: Gift Certificates
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-202/gift-certificates.html
+Corpus path: corpus/cra/forms-publications/publications/p-202/gift-certificates.md
+Document type: publication
+Last modified: 2017-11-07
+
+# Gift Certificates
+
+GST/HST Policy Statement P-202 April 2012
+
+**NOTE:**This version replaces the one dated February 20, 1996.
+
+**Legislative reference:** Section 181.2 of the *Excise Tax Act* (''ETA'')*181.2 Gift certificates — For the purposes of this Part, the issuance or sale of a gift certificate for consideration shall be deemed not to be a supply and, when given as consideration for a supply of property or a service, the gift certificate shall be deemed to be money.* History: Section 181.2 added by 1993, c. 27, s. 46(1), effective December 17, 1990.
+
+History: Subsection 157(2) repealed by 1993, c. 27, s. 28(1), effective December 17, 1990; subsection 157 formerly read:*''(2) Gift certificates — For the purposes of this Part, the issue or sale of a gift certificate for consideration shall be deemed not to be a supply but, when applied to the purchase price of property or a service, the gift certificate shall be deemed to be consideration for a supply of that property or service.''*
+
+**National coding system file number(s):**11755-14
+
+**Effective date:** January 1, 1991
+
+**Please note that the following policy statement, although correct at the time of issue, may not have been updated to reflect any subsequent legislative changes.**
+
+This policy does not apply to:
+
+- the supply of a telephone card used to obtain a telecommunication service, or
+
+- a meal plan that meets the conditions set out in section 13 of Part III of Schedule V.
+
+### Issue and decision
+
+Under section 181.2 of the ETA, the issuance or sale of a gift certificate for consideration is deemed not to be a supply and therefore does not attract GST/HST. When the gift certificate is subsequently redeemed, it is treated as consideration or a part thereof for the supply of the property or services. GST/HST may apply at that time depending on the tax status of the supply.
+
+The term ''gift certificate'' is not defined in the ETA. The Canada Revenue Agency considers a gift certificate to have all of the following attributes:
+
+1. It has a monetary exchange value that is evident on the certificate or that is easily determined by the parties involved in the transaction. The monetary exchange value may, for example, be specified on the face of the certificate or it may be stored on the certificate electronically. In certain cases, the customer may be permitted to add additional amounts to the monetary exchange value of the certificate. Alternatively, the gift certificate may be for a particular supply of property or a service that is identified on the certificate.
+
+2. It is issued or sold for consideration by the supplier of the property or service or another party for use at a particular supplier. The consideration paid for the certificate may not necessarily be the same as the monetary exchange value.
+
+3. It is accepted as payment or partial payment of the consideration for a supply of property or a service offered by the supplier of that property or service.
+
+4. It does not require the bearer to do anything to redeem the certificate other than to present it as a means of payment or partial payment for the property or services being acquired. The holder of the certificate should not be required to meet other conditions, such as, making a purchase of a particular value (i.e., a required minimum value) or purchasing one item to exchange the gift certificate for another item (e.g., buy one, get one free) in order to redeem the certificate.
+
+5. It does not have any intrinsic value. The certificate should not have any value other than its monetary exchange value.
+
+For purposes of the ETA, ''gift certificate'' includes a gift card provided the gift card meets all the conditions to be considered a gift certificate.
+
+When the gift certificate is redeemed for a taxable supply of property or services, the supplier of the property or services is to determine whether the amount accepted as payment for the consideration charged for the taxable supply includes or excludes an amount of tax. The supplier should review all relevant agreements including its business practices to make that determination.
+
+**Facts**
+
+Various unrelated GST/HST registered retailers sell gift certificates that meet all of the required conditions outlined above. Company A purchases the certificates from each of the various retailers.
+
+Company A sells the certificates to Company B at 80% of the specified monetary values identified on the faces of the certificates. In turn, Company B sells the certificates to consumers for amounts equal to the specified values.
+
+Upon accepting a certificate, the retailer applies the specified value as payment toward a consumer’s purchase.
+
+**Issue** Does section 181.2 apply to the certificates sold by Company A to Company B and to the devices sold by Company B to consumers?
+
+**Comments** Section 181.2 applies to the certificates sold by Company A to Company B and the certificates sold by Company B to consumers. The certificates meet the required conditions outlined above even though they are sold for amounts less than their specified values. The sales of these certificates are deemed not to be supplies for GST/HST purposes and there is no GST/HST payable in respect of these sales. When given as consideration for a supply, the certificates are deemed to be money for GST/HST purposes. If applicable, the GST/HST payable at the time a certificate is presented as payment is calculated based on the value of the consideration for the supply.
+
+### Example 2 – Gift cards
+
+**Facts** A GST/HST registered restaurant chain sells gift cards for consideration with the restaurant name and the phrase ''Gift Card'' imprinted on them. A customer purchasing the card chooses a monetary exchange value which is stored electronically on the card. The customer may pay additional amounts to the retailer to have the card topped up or reloaded with any amount at any time. The card may be used to purchase any goods or services at any restaurant of the chain and the amount payable for the purchase is electronically deducted from the balance stored on the gift card. If GST/HST is applicable, the GST/HST is also deducted from the balance. The cards have no intrinsic value.
+
+**Issue** Does section 181.2 apply to the gift cards issued by the restaurant chain?
+
+**Comments** Section 181.2 applies to the supply of the gift cards. The gift cards meet the conditions outlined above: they have a monetary exchange value stored on the card, they are issued for consideration, they are accepted as consideration for the supply of goods and services, the gift card holder is not required to do anything other than present the card as payment and the card has no intrinsic value. No GST/HST is payable on the issuance of the card. When the card is redeemed, GST/HST, if applicable, is imposed based on the consideration paid for the supply of the goods and services.
+
+### Example 3 – Buy $500 get $100 off certificate
+
+**Facts** A retailer who is registered for GST/HST purposes sells certificates for $10 each. The holder of the certificate is entitled to redeem it for any item sold at the retailer’s store. The monetary exchange value of the certificate of $100 is specified on the face of the paper certificate along with the name of the retailer. However, there is a condition that the holder must purchase at least $500 of goods available at the retail store in order to use the $100 certificate.
+
+**Issue** Does section 181.2 apply to the certificates sold by the retailer?
+
+**Comments** Section 181.2 does not apply to the supply of the certificates. The certificates do not meet all of the conditions outlined above. The certificates do not entitle the holder to receive goods upon presentation without any other obligation. The holder is required to make purchases of at least $500 in order to redeem the certificate.
+
+The retailer is required to collect GST/HST in respect of the issuance or sale of the certificates. Upon redemption, the certificates are considered to be coupons for GST/HST purposes and are subject to the provisions of section 181 of the ETA.
+
+### Example 4 – Gold-leaf certificate souvenir
+
+**Facts** A GST/HST registered retailer is issuing commemorative certificates as part of its celebration of 50 years of being in business. The certificate is called a gift certificate. It is sold for $100 and has a monetary exchange value of the same amount; that is, it can be redeemed for a credit of $100 when any merchandise or service is subsequently purchased from the retailer’s store. A customer purchasing a certificate and subsequently presenting the certificate as payment for merchandise is not required to do anything other than present the certificate when redeeming it.
+
+The certificate is lettered in gold leaf and includes a pictorial history of the development of the business and the town in which the business is located. The layout of the certificate makes it suitable for framing and the retailer offers to provide the framing service to its customers at a minimal charge to encourage the retention of the certificate as a souvenir.
+
+**Issue** Does section 181.2 apply to the supply of certificates by the retailer?
+
+**Comments** Section 181.2 does not apply to the supply of the certificates. Although the certificate meets many of the conditions required to be regarded as a gift certificate, it does not satisfy the condition of having no intrinsic value. The certificate has been designed in such a manner as to appeal to the customer as a souvenir. In addition, a part of the marketing and advertising campaign that surrounds the sale of the certificate promotes the certificate as a souvenir suitable for framing. The physical characteristics of the certificate and the historical information add value to the certificate.
+
+To be considered a gift certificate for GST/HST purposes, the certificate cannot have any intrinsic value. The only value should be the monetary exchange value for which the retailer accepts the certificate as payment for a supply. Generally, the value inherent in a device is evident from the circumstances surrounding its sale. If the device is promoted as something more than a certificate that may be used as full or partial payment towards a future purchase, the device has an intrinsic value.
+
+The sale of the certificate does not fall within the provisions of section 181.2 and the certificate is a supply of tangible personal property for GST/HST purposes.
+
+At the time the certificate is sold to a customer for consideration of $100, GST/HST should be charged and collected by the retailer on the supply of the property (i.e., the certificate). When the customer presents the certificate in exchange for goods from the retailer, depending on the circumstances, the return of the certificate to the retailer may be treated as either a returned good under section 232 of the ETA or as a barter transaction.
+
+### Example 5 – Gift certificates given as rewards to employees
+
+**Facts** A GST/HST registered retailer regularly sells gift certificates for consideration. The retailer’s name and the monetary exchange value are specified on each certificate. The certificates have no intrinsic value. The retailer accepts the certificates as full or partial consideration for any item sold by the retailer without requiring the customer to do anything other than present the certificate as payment. On occasion, the retailer gives a gift certificate to an employee for no consideration.
+
+**Issue** Does section 181.2 apply to the certificates issued by the retailer for no consideration?
+
+**Comments** Section 181.2 does not apply to the supply of these gift certificates. Nevertheless, no GST/HST is payable on the issuance of the certificates to employees for no consideration.
+
+In this example, the certificates issued for no consideration do not meet the requirements for gift certificates outlined above. When certificates are given to employees, the requirement that the certificate be issued or sold for consideration is not met.
+
+Upon redemption of these certificates, the retailer may treat them in the same manner as a gift certificate. When a gift certificate is presented as payment toward the purchase of an item, the certificate is treated as money. GST/HST is calculated based on the consideration paid for the item.
+
+### Example 6 – Online gift certificates
+
+**Facts** A registrant retailer offers an online service whereby a customer may use the Internet to order an ''online gift certificate'' to be sent to a friend as a gift. The gift certificate meets all of the required conditions outlined above. The customer pays consideration for the online gift certificate over the Internet. The friend receives an e‑mail with the gift certificate. The friend may redeem the amount gifted online at the retailer’s electronic store using a code number provided on the certificate.
+
+**Issue** Does section 181.2 apply to the supply of the gift certificate?
+
+**Comments** Section 181.2 applies to the supply of the gift certificate. The gift certificate is treated in the same manner as a conventional paper gift certificate purchased at a retail store.
+
+Upon issuance, there would be no GST/HST payable on the gift certificate. Upon redemption, GST/HST would apply based on the value of the consideration for the supply against which the gift certificate is being redeemed.
+
+### Example 7 – Deal-based vouchers
+
+**Facts** A web‑based company, registered for the GST/HST, is in the business of marketing/promoting vouchers redeemable for goods and services offered at a discount by local merchants. The company typically features a particular deal on its website and promotes the deal to its members via email and social media. A member who purchases the deal receives an electronic voucher outlining the deal characteristics such as: the nature of the goods and services offered by the merchant, the regular price, the amount of the discount, the promotional price of the deal and any related terms and conditions (e.g., any limitation on date or time for use). For example, the deal of the day may resemble the following: *Pay the promotional price of $20 for a 5 course meal at Restaurantco. Valued at $60, discount 67%! Valid from Monday to Thursday!* The member prints the voucher and redeems it for goods and services at the merchant’s premises. The web‑based company retains a portion of the sales proceeds and remits the balance to the merchant.
+
+**Issue** Does section 181.2 apply to the supply of the deal‑based voucher?
+
+**Comments** Section 181.2 applies to the supply of the voucher as the voucher meets all of the conditions of a gift certificate: it is for a supply of a meal identified on the voucher, it is issued for consideration of $20, it is accepted as consideration for goods and services supplied by the merchant; the member has only to present it to receive the goods and services and it has no intrinsic value. Accordingly, no GST/HST is payable on the issuance of the voucher and, upon redemption, any GST/HST applicable to the supply should be accounted for by the merchant by reference to the promotional price of the deal. The web‑based company is required to account for tax based on amounts retained as consideration for the supply of the service of marketing/promotion of the voucher.
+
+### Example 8 – Voucher redeemed for higher-priced goods
+
+**Facts** A retailer sells a voucher redeemable for goods otherwise valued at $250 for the promotional price of $100. At the store, a customer wishes to redeem the voucher against the purchase of goods otherwise valued at $450. The retailer agrees to honour the voucher but requires the customer to pay additional consideration of $200 representing the difference in the regular value of the goods ($450 – $250).
+
+**Issue** Does section 181.2 apply to the issuance or sale of the voucher?
+
+**Comments** Section 181.2 applies to the sale of the voucher. The voucher meets all of the requirements to be considered a gift certificate for GST/HST purposes: it is for a supply of goods, it has been issued or sold for consideration, it is accepted as consideration for goods supplied by the retailer, the customer has only to present the voucher to redeem it against the purchase of the goods and the voucher has no intrinsic value.
+
+Although the voucher was ultimately redeemed against an item with the higher value of $450 rather than the value of $250 originally agreed by the parties, the redemption of the voucher was not subject to any requirement relating to the customer’s payment of the extra amount.
+
+Upon redemption, the merchant should account for tax based on the value of consideration for the supply of the goods. The value of the consideration would be determined by reference to the promotional price of the offer of $100 plus any additional consideration which in this example is $200. Hence, the merchant should charge tax on a total consideration of $300.
+
+### Example 9 – Card redeemable for intangible personal property
+
+**Facts** A merchant registered for the GST/HST issues for consideration a gift card redeemable for unlimited music downloads over a 30 day period. The monetary exchange value of the card is encoded on a built‑in microchip. The merchant activates the card electronically at the point of sale. The customer redeems the card by keying in an activation code on the merchant’s website to activate the subscription. Unlimited music downloading is permitted until the subscription expires.
+
+**Issue** Does section 181.2 apply to the issuance of the card?
+
+**Comments** Section 181.2 applies to the issuance of the card. The card meets the requirements of a gift certificate: it is for a supply of music downloads, it is issued for consideration, it is accepted as consideration for a supply provided by the merchant, the customer is not required to fulfill any obligation other than to activate the card on the merchant’s website in order to receive the subscription, and the card has no intrinsic value.
+
+The merchant is not required to charge GST/HST on the sale or issuance of the card. The merchant is required to account for tax at the time of redemption, that is, at the time the subscription is activated on the website by the customer based on the value of the consideration for the supply of the music downloads.
+
+### Example 10 – Bank gift card
+
+**Facts** SponsorCo sells a stored‑value gift card issued by BankCo that is accepted as a means of payment for supplies made by various merchants. BankCo and SponsorCo’s logos and a credit card brand are on the card. Cardholder purchases are limited to the amount of money loaded onto the card. The card is neither a debit card (it does not access an individual’s bank account at the bank) nor a credit card (it does not access previously granted credit and it is not possible to spend more than the amount remaining on the card).
+
+At the time of purchase, SponsorCo charges a fee to the cardholder to initiate the card, load the card and open an account with BankCo. SponsorCo undertakes all activities necessary to set up the card account. In order to manage the transactions made with the card, BankCo sets up an account in respect of the card, to which all funds are credited and from which all charges are debited. BankCo charges a fee to the cardholder for the maintenance of such an account.
+
+**Issue** Does section 181.2 apply to the sale of the gift card?
+
+**Comments** Section 181.2 does not apply to the sale of the gift card. Although the card has some attributes that are similar to a gift certificate (e.g. a monetary value stored on it), this type of gift card is not a gift certificate.

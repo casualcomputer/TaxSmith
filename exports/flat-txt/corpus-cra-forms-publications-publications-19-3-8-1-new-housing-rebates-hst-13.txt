@@ -1,0 +1,911 @@
+Title: New Housing Rebates and HST at 13%
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3-8-1/new-housing-rebates-hst-13.html
+Corpus path: corpus/cra/forms-publications/publications/19-3-8-1/new-housing-rebates-hst-13.md
+Document type: publication
+Last modified: 2018-05-29
+
+# New Housing Rebates and HST at 13%
+
+GST/HST memorandum 19.3.8.1 January 2008
+
+This memorandum explains how to derive and apply a “rebate factor” for purchases of single unit residential complexes and residential condominium units located in the provinces of Nova Scotia, New Brunswick and Newfoundland and Labrador (i.e., the participating provinces) and subject to the HST at 13%. The “rebate factor” is used to determine the consideration, the HST payable and any available GST/HST new housing rebate and Nova Scotia rebate amounts where a stated price includes HST at 13% and is net of the GST/HST new housing rebate and/or Nova Scotia rebate [i.e., stated price net of rebate(s)].
+
+The tables and formulas given in this memorandum apply only in respect of new housing located in the participating provinces. For tables and formulas that apply to housing in the rest of Canada, refer to GST/HST Memorandum 19.3.1.2, [Stated Price Net of Rebate – GST at 5%](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3-1-2.html) or, if the GST applies at 6%, GST/HST Memorandum 19.3.1.1, [Stated Price Net of Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3-1-1.html).
+
+Note
+
+This memorandum updates the tables and formulas given in Memorandum 19.3.8, *New Housing Rebates and the HST* to reflect the reduction of the GST rate and the federal component of the HST from 6% to 5%.
+
+For information on the transitional rules and rebates relating to new housing transactions that straddle the July 1, 2006, and January 1, 2008, implementation dates for the GST/HST rate reductions, refer to GI-015, [GST/HST Rate Reduction and Purchasers of New Housing](https://www.canada.ca/E/pub/gi/gi-015/README.html) and to GI-043, [The 2008 GST/HST Rate Reduction and Purchases of New Housing](https://www.canada.ca/E/pub/gi/gi-043/README.html), respectively. Publications referred to in this memorandum are available on the Canada Revenue Agency (CRA) Web site.
+
+Disclaimer
+
+The information in this memorandum does not replace the law found in the *Excise Tax Act* and its Regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation, or contact a Canada Revenue Agency (CRA) GST/HST Rulings Centre for more information. These centres are listed in GST/HST Memorandum 1.2, [Canada Revenue Agency GST/HST Rulings Centres](https://www.canada.ca/E/pub/gm/1-2/README.html). If you wish to make a technical enquiry on the GST/HST by telephone, please call the toll-free number 1-800-959-8287.
+
+If you are located in Quebec, please contact Revenu Québec by calling the toll-free number 1-800-567-4692 for additional information or visit their Web site at [www.revenu.gouv.qc.ca](http://www.revenuquebec.ca/en/default.aspx).
+
+Note – HST
+
+The HST applies to supplies made in the participating provinces. If you are uncertain as to whether a supply is made in a participating province, you may refer to GST/HST Technical Information Bulletin B-078, *Place of Supply Rules Under the HST*, available on the CRA Web site.
+
+Table of contents
+
+- [New housing rebates in the participating provinces](#P41_3603)
+
+- [Builder pays or credits a GST/HST new housing rebate amount to the purchaser](#P58_5260)
+
+- [Calculating the rebate factor](#P69_7976)
+
+- [Applying the rebate factor to calculate the value of the consideration](#P105_10960)
+
+- [Appendix 1: Tables for rebate of the federal component of the HST](#P164_14695)
+
+    - [List of cases](#P183_17479)
+
+          - [Case 1 – Stated price net of rebate is $389,200 or less](#P191_17852)
+
+          - [Case 2 – Stated price net of rebate is greater than $389,200 but less than or equal to $508,500](#P482_21156)
+
+- [Appendix 2: Tables for Nova Scotia rebate and, if any, GST/HST new housing rebate](#P604_23002)
+
+    - [List of cases](#P621_25536)
+
+          - [Case 1 – Stated price net of rebates is $109,700 or less](#P631_26078)
+
+          - [Case 2 – Stated price net of rebates is greater than $109,700 but less than or equal to $387,700](#P713_27499)
+
+          - [Case 3 – Stated price net of rebates is greater than $387,700 but less than or equal to $507,000](#P1020_30952)
+
+          - [Case 4 – Stated price net of rebate is greater than $507,000](#P1163_33028)
+
+## New housing rebates in the participating provinces
+
+Same requirements as GST
+
+1. GST/HST new housing rebates for a portion of the federal component of the HST provided under sections 254, 254.1, 255, and 256 apply to housing in the participating provinces under the same conditions that apply for the GST in the rest of Canada. For information on the conditions under which a GST/HST new housing rebate may be claimed, refer to the following GST/HST memoranda:
+
+- s 254 - 19.3.1, [Rebate for Builder-Built Unit (Land Purchased)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3-1.html)
+
+- s 254.1 - 19.3.2, [Rebate for Builder-Built Unit (Land Leased)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3-2.html)
+
+- s 255 - 19.3.3, [Rebate for Co-operative Housing](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3-3.html)
+
+- s 256 - 19.3.4, [Rebate for Owner-Built Homes](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3-4.html)
+
+Additional rebate available for new housing situated in Nova Scotia
+
+2. The *Excise Tax Act* (the Act) provides for an additional new housing rebate for a portion of the provincial component of the HST for new housing located in Nova Scotia. For information on the conditions under which a Nova Scotia rebate may be claimed, refer to GST/HST Memorandum 19.3.8, [New Housing Rebates and the HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3-8.html) .
+
+Meaning of “unit”
+
+3. The term “unit” used throughout the remainder of this memorandum refers to a “single unit residential complex” or the “residential condominium unit” as those terms are defined in the Act. For new housing rebate purposes, a single unit residential complex includes a detached house, a semi-detached house, a duplex, a townhouse, a floating home, or a mobile home.
+
+GST/HST new housing rebate
+
+4. The term “GST/HST new housing rebate” used throughout the remainder of this memorandum refers to the new housing rebate for a portion of the federal component of the HST payable in respect of a unit.
+
+## Builder pays or credits a GST/HST new housing rebate amount to the purchaser
+
+Builder pays or credits s 254
+
+5. A purchaser of a new or substantially renovated unit may agree with the builder to have the builder pay or credit the amount of the GST/HST new housing rebate and/or Nova Scotia rebate to the purchaser instead of the purchaser applying to the CRA for the rebate(s). The calculations in this memorandum refer to the GST/HST new housing rebate determined under section 254, which is explained in GST/HST Memorandum 19.3.1, [Rebate for Builder-Built Unit (Land Purchased)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3-1.html), and the Nova Scotia Rebate, which is explained in GST/HST Memorandum 19.3.8, [New Housing Rebates and the HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3-8.html).
+
+Payment towards purchase
+
+6. Where the builder pays or credits the amount of new housing rebate(s) to a purchaser, the builder and the purchaser may agree to treat the amount of the rebate(s) as payment towards the purchase of the unit. Often, in this case, the builder and purchaser will agree that the stated price (i.e., the amount that the purchaser agrees to pay the builder) for the unit includes the HST payable and is net of the new housing rebate(s) credited by the builder.
+
+Meaning of “stated price net of rebate(s)”
+
+7. For purposes of this memorandum, where a builder and purchaser agree that the amount payable for the purchase of a unit includes the HST payable and is net of the new housing rebate(s) credited by the builder, the amount payable for the unit is referred to as the “stated price net of rebate(s)”. If a builder and purchaser agree to use a stated price net of rebate, the rebate amount credited by the builder must be considered in determining the value of the consideration payable for the unit upon which the HST is payable.
+
+Consideration
+
+8. The “consideration” payable for the purchase of a unit is the amount to be paid for the unit before any HST payable and rebate entitlement(s) in respect of the purchase are calculated. Where a stated price net of rebate(s) is used, a calculation must be made to determine the value of the consideration payable for the unit, and that value of the consideration must be calculated before the HST payable can be determined. The value of consideration can be determined by applying a “rebate factor”. Once the consideration is determined, the HST payable and the GST/HST new housing rebate and/or Nova Scotia rebate amounts can also be determined.
+
+9. GST/HST Memorandum 19.3.1.2, [Stated Price Net of Rebate – GST at 5%](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3-1-2.html) explains these concepts and calculations in detail. However, the tables and formulas given in GST/HST Memorandum 19.3.1.2 apply only in the non-participating provinces. The calculations are different in the participating provinces where the HST applies.
+
+## Calculating the rebate factor
+
+Rebate factor
+
+10. The following illustrates the calculation of the rebate factor where a unit is located in a participating province, the consideration payable for the unit is $350,000 or less, and the purchaser is not entitled to the Nova Scotia rebate.
+
+| Consideration for the purchase | 100.0% |
+
+| --- | --- |
+
+| Plus: HST payable | 13.0% |
+
+| Tax-included price | 113.0% |
+
+| Less: GST/HST new housing (36% of 5%) | – 1.8% |
+
+| **Rebate factor** | **111.2%** |
+
+The rebate factor can be expressed as 111.2% or 1.112.
+
+Rebate factor changes
+
+11. The rebate factor of 1.112 calculated above can only be used to calculate the value of the consideration in cases where:
+
+- the unit is a newly constructed or substantially renovated unit purchased from a builder together with the related land;
+
+- the purchaser qualifies for the GST/HST new housing rebate under subsection 254(2) and is not entitled to claim the Nova Scotia rebate under subsection 254(2.1);
+
+- the unit is situated in a participating province;
+
+- the builder pays or credits the rebate to the purchaser;
+
+- the builder and the purchaser have agreed to a stated price net of rebate; and
+
+- the stated price net of rebate is $389,200 or less.
+
+Where the stated price net of rebate exceeds $389,200 (i.e., the value of the consideration exceeds $350,000), the rebate factor changes. The rebate factors for units where the value of the consideration exceeds $350,000 are included in Case 2 of Appendix 1 to this memorandum.
+
+Rebate factor and Nova Scotia Rebate
+
+12. The following illustrates the calculation of the rebate factor where a unit is located in Nova Scotia, the stated price is net of both the GST/HST new housing rebate and the Nova Scotia rebate and the stated price net of rebates is $109,700 or less. The Nova Scotia rebate reaches the maximum amount of $1,500 when the stated price net of rebates is $109,700. The rebate factor where the stated price net of the rebates is $109,700 or less is calculated as follows:
+
+| Consideration for the purchase | 100.0% |
+
+| --- | --- |
+
+| Plus: HST payable | 13.0% |
+
+| Tax-included price | 113.0% |
+
+| Less: GST/HST new housing (36% of 5%) | – 1.8% |
+
+| Less: Nova Scotia rebate (18.75% of 8%) to a maximum of $1,500 | – 1.5% |
+
+| **Rebate factor** | **109.7%** |
+
+The rebate factor can be expressed as 109.7% or 1.097.
+
+13. The rebate factor of 1.097 calculated above can only be used to calculate the value of the consideration in cases where:
+
+- the unit is a newly constructed or substantially renovated unit purchased from a builder together with the related land;
+
+- the purchaser qualifies for both the GST/HST new housing rebate under subsection 254(2) and the Nova Scotia rebate under subsection 254(2.1);
+
+- the unit is situated in Nova Scotia;
+
+- the builder pays or credits both rebates to the purchaser;
+
+- the builder and the purchaser have agreed to a stated price net of rebates; and
+
+- the stated price net of rebates is $109,700 or less.
+
+A different rebate factor is used in other situations where a Nova Scotia rebate is available. These rebate factors are included in Appendix 2 to this memorandum.
+
+## Applying the rebate factor to calculate the value of the consideration
+
+Value of consideration (where purchaser is **not** entitled to the Nova Scotia rebate)
+
+14. The following formula illustrates how the rebate factor of 1.112 can be used to determine the value of the consideration payable for a unit where the purchaser is **not** entitled to claim the Nova Scotia rebate:
+
+Consideration = Stated price net of rebate ÷ Rebate factor
+
+To determine the value of the consideration payable for a unit located in a participating province where the purchaser is not entitled to the Nova Scotia rebate, with a stated price net of rebate of $100,000, the rebate factor is applied as follows:
+
+Consideration = $100,000 ÷ 1.112 = $89,928.06
+
+**HST payable:**
+
+Once the value of the consideration is determined, the amount of the HST payable and the GST/HST new housing rebate may be determined as follows:
+
+HST payable = Consideration × 13%
+
+= $89,928.06 × 13% = $11,690.65
+
+**GST/HST new housing rebate:**
+
+GST/HST new housing rebate = HST payable × 5/13 ×36%
+
+= $11,690.65 × 5/13 × 36% = $1,618.71
+
+Appendix 1: Tables for new housing rebate calculations
+
+15. Tables listing the consideration, the HST payable and the GST/HST new housing rebate amounts for a range of stated prices net of rebate can be found in Appendix 1 to this memorandum for units located in the participating provinces where the purchaser is not entitled to the Nova Scotia rebate. If the stated price net of rebate is not included in the tables, the amount can be calculated using the formulas included in Appendix 1.
+
+Value of consideration (where purchaser is entitled to the Nova Scotia rebate)
+
+16. The following formula illustrates how the rebate factor of 1.097 can be used to determine the value of the consideration payable for a unit where the purchaser is entitled to claim the Nova Scotia rebate:
+
+Consideration = Stated price net of rebates ÷ Rebate factor
+
+To determine the value of the consideration payable for a unit situated in Nova Scotia with a stated price net of rebates of $100,000, the rebate factor is applied as follows:
+
+Consideration = $100,000 ÷ 1.097 = $91,157.70
+
+**HST payable:**
+
+Once the value of the consideration is determined, the amount of the HST payable, the GST/HST new housing rebate and the Nova Scotia rebate may be determined as follows:
+
+HST payable = Consideration × 13% = $91,157.70 × 13% = $11,850.50
+
+**GST/HST new housing rebate:**
+
+GST/HST new housing rebate = HST payable × 5/13 × 36%
+
+= $11,850.50 × 5/13 × 36% = $1,640.84
+
+**Nova Scotia rebate:**
+
+Nova Scotia rebate = HST payable × 8/13 × 18.75%
+
+= $11,850.50 × 8/13 × 18.75% = $1,367.37
+
+The total of both rebates is $3,008.21 ($1,640.84 + $1,367.37).
+
+Appendix 2: Tables for Nova Scotia rebate and, if any, GST/HST new housing rebate
+
+17. Tables listing the consideration, the HST payable, the GST/HST new housing rebate and/or the Nova Scotia rebate amounts for a range of stated prices net of both rebates or net of the Nova Scotia rebate can be found in Appendix 2 to this memorandum. If the stated price net of rebates is not included in the tables, the amounts can be calculated using the formulas included in Appendix 2.
+
+**Enquiries**
+
+If you wish to make a technical enquiry on the GST/HST by telephone, please call one of the following toll-free numbers:
+
+1-800-959-8287 (English service)
+
+1-800-959-8296 (French service)
+
+General enquiries about the GST/HST should be directed to Business Enquiries at one of the following toll-free numbers:
+
+1-800-959-5525 (English service)
+
+1-800-959-7775 (French service)
+
+If you are located in Quebec, please call the following toll-free number:
+
+1-800-567-4692 (Revenu Québec)
+
+All of the memoranda in the GST/HST Memoranda Series published to date are available on the CRA Web site at [www.cra-arc.gc.ca/menu/GTMS-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/gst-hst-memoranda-series-chapters-20.html).
+
+## Appendix 1: Tables for rebate of the federal component of the HST
+
+Units purchased from a builder together with the related land s 254
+
+1. The following cases illustrate how the rebate factors are used to determine the value of the consideration, the HST payable and the amount of the GST/HST new housing rebate where:
+
+- a unit is a newly constructed or substantially renovated unit purchased from a builder together with the related land;
+
+- the purchaser qualifies for the GST/HST new housing rebate under subsection 254(2) and is not entitled to claim the Nova Scotia rebate under subsection 254(2.1);
+
+- the unit is situated in a participating province;
+
+- the builder pays or credits the rebate to the purchaser; and
+
+- the builder and the purchaser have agreed to a stated price net of rebate.
+
+Refer to Appendix 2 of this memorandum if the purchaser is entitled to claim the Nova Scotia rebate.
+
+2. Two methods are provided for determining the value of the consideration for a unit from which the HST payable and the GST/HST new housing rebate amount may be determined.
+
+Calculation method
+
+3. The first method is the calculation method, which is based on a formula that uses the rebate factor to arrive at the value of the consideration. To determine the appropriate formula that applies to a price situation, locate the case (see list below) that contains a price range in which the stated price net of rebate falls. Applying the formula to the stated price net of rebate for the unit gives the value of the consideration payable for the unit for GST/HST purposes. Once the value of the consideration is determined, the HST payable and the GST/HST new housing rebate amount can be calculated.
+
+Table method
+
+4. The second method is the table method. The tables show the value of the consideration, the HST payable and the GST/HST new housing rebate amount that result from a rebate factor being applied to a particular stated price net of rebate. Where a stated price net of rebate is not found in the tables, the “calculation method” may be used to arrive at the value of the consideration, the HST payable and the rebate amount.
+
+Limitations
+
+5. The tables and the formulas upon which they are based are not meant to replace the legislation pertaining to GST/HST new housing rebates. They are provided solely for convenience to assist in calculating the value of the consideration, the HST payable and the rebate amount.
+
+6. To calculate the value of the consideration, the tax payable and the GST/HST new housing rebate amount when the stated price net of rebate relates to a unit situated in a non-participating province, refer to GST/HST Memorandum 19.3.1.1, [Stated Price Net of Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3-1-1.html) if the GST applies at 6% and GST/HST Memorandum 19.3.1.2, [Stated Price Net of Rebate – GST at 5%](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3-1-2.html) if the GST applies at 5%.
+
+## List of cases
+
+**Case 1**
+
+Case 1 provides the calculations and the table where the stated price net of rebate is $389,200 or less.
+
+**Case 2**
+
+Case 2 provides the calculations and the table where the stated price net of rebate is greater than $389,200 but less than or equal to $508,500.
+
+There is no GST/HST new housing rebate where the stated price net of rebate is $508,500 or more.
+
+### Case 1 – Stated price net of rebate is $389,200 or less
+
+**Calculation method**
+
+Consideration = Stated price net of rebate ÷ 1.112[Footnote1](#fn1) (refer to paragraphs 10 and 11)
+
+HST payable = Consideration × 13%
+
+GST/HST new housing rebate = HST payable × 5/13 × 36%
+
+**Table method**
+
+| Stated Price Net of Rebate | Consideration | HST Payable | GST/HST New Housing Rebate |
+
+| --- | --- | --- | --- |
+
+| $50,000 | $44,964.03 | $5,845.32 | $809.35 |
+
+| $55,000 | $49,460.43 | $6,429.86 | $890.29 |
+
+| $60,000 | $53,956.83 | $7,014.39 | $971.22 |
+
+| $65,000 | $58,453.24 | $7,598.92 | $1,052.16 |
+
+| $70,000 | $62,949.64 | $8,183.45 | $1,133.09 |
+
+| $75,000 | $67,446.04 | $8,767.99 | $1,214.03 |
+
+| $80,000 | $71,942.45 | $9,352.52 | $1,294.96 |
+
+| $85,000 | $76,438.85 | $9,937.05 | $1,375.90 |
+
+| $90,000 | $80,935.25 | $10,521.58 | $1,456.83 |
+
+| $95,000 | $85,431.65 | $11,106.12 | $1,537.77 |
+
+| $100,000 | $89,928.06 | $11,690.65 | $1,618.71 |
+
+| $105,000 | $94,424.46 | $12,275.18 | $1,699.64 |
+
+| $110,000 | $98,920.86 | $12,859.71 | $1,780.58 |
+
+| $115,000 | $103,417.27 | $13,444.24 | $1,861.51 |
+
+| $120,000 | $107,913.67 | $14,028.78 | $1,942.45 |
+
+| $125,000 | $112,410.07 | $14,613.31 | $2,023.38 |
+
+| $130,000 | $116,906.47 | $15,197.84 | $2,104.32 |
+
+| $135,000 | $121,402.88 | $15,782.37 | $2,185.25 |
+
+| $140,000 | $125,899.28 | $16,366.91 | $2,266.19 |
+
+| $145,000 | $130,395.68 | $16,951.44 | $2,347.12 |
+
+| $150,000 | $134,892.09 | $17,535.97 | $2,428.06 |
+
+| $155,000 | $139,388.49 | $18,120.50 | $2,508.99 |
+
+| $160,000 | $143,884.89 | $18,705.04 | $2,589.93 |
+
+| $165,000 | $148,381.29 | $19,289.57 | $2,670.86 |
+
+| $170,000 | $152,877.70 | $19,874.10 | $2,751.80 |
+
+| $175,000 | $157,374.10 | $20,458.63 | $2,832.73 |
+
+| $180,000 | $161,870.50 | $21,043.17 | $2,913.67 |
+
+| $185,000 | $166,366.91 | $21,627.70 | $2,994.60 |
+
+| $190,000 | $170,863.31 | $22,212.23 | $3,075.54 |
+
+| $195,000 | $175,359.71 | $22,796.76 | $3,156.47 |
+
+| $200,000 | $179,856.12 | $23,381.29 | $3,237.41 |
+
+| $205,000 | $184,352.52 | $23,965.83 | $3,318.35 |
+
+| $210,000 | $188,848.92 | $24,550.36 | $3,399.28 |
+
+| $215,000 | $193,345.32 | $25,134.89 | $3,480.22 |
+
+| $220,000 | $197,841.73 | $25,719.42 | $3,561.15 |
+
+| $225,000 | $202,338.13 | $26,303.96 | $3,642.09 |
+
+| $230,000 | $206,834.53 | $26,888.49 | $3,723.02 |
+
+| $235,000 | $211,330.94 | $27,473.02 | $3,803.96 |
+
+| $240,000 | $215,827.34 | $28,057.55 | $3,884.89 |
+
+| $245,000 | $220,323.74 | $28,642.09 | $3,965.83 |
+
+| $250,000 | $224,820.14 | $29,226.62 | $4,046.76 |
+
+| $255,000 | $229,316.55 | $29,811.15 | $4,127.70 |
+
+| $260,000 | $233,812.95 | $30,395.68 | $4,208.63 |
+
+| $265,000 | $238,309.35 | $30,980.22 | $4,289.57 |
+
+| $270,000 | $242,805.76 | $31,564.75 | $4,370.50 |
+
+| $275,000 | $247,302.16 | $32,149.28 | $4,451.44 |
+
+| $280,000 | $251,798.56 | $32,733.81 | $4,532.37 |
+
+| $285,000 | $256,294.96 | $33,318.35 | $4,613.31 |
+
+| $290,000 | $260,791.37 | $33,902.88 | $4,694.24 |
+
+| $295,000 | $265,287.77 | $34,487.41 | $4,775.18 |
+
+| $300,000 | $269,784.17 | $35,071.94 | $4,856.12 |
+
+| $305,000 | $274,280.58 | $35,656.47 | $4,937.05 |
+
+| $310,000 | $278,776.98 | $36,241.01 | $5,017.99 |
+
+| $315,000 | $283,273.38 | $36,825.54 | $5,098.92 |
+
+| $320,000 | $287,769.78 | $37,410.07 | $5,179.86 |
+
+| $325,000 | $292,266.19 | $37,994.60 | $5,260.79 |
+
+| $330,000 | $296,762.59 | $38,579.14 | $5,341.73 |
+
+| $335,000 | $301,258.99 | $39,163.67 | $5,422.66 |
+
+| $340,000 | $305,755.40 | $39,748.20 | $5,503.60 |
+
+| $345,000 | $310,251.80 | $40,332.73 | $5,584.53 |
+
+| $350,000 | $314,748.20 | $40,917.27 | $5,665.47 |
+
+| $355,000 | $319,244.60 | $41,501.80 | $5,746.40 |
+
+| $360,000 | $323,741.01 | $42,086.33 | $5,827.34 |
+
+| $365,000 | $328,237.41 | $42,670.86 | $5,908.27 |
+
+| $370,000 | $332,733.81 | $43,255.40 | $5,989.21 |
+
+| $375,000 | $337,230.22 | $43,839.93 | $6,070.14 |
+
+| $380,000 | $341,726.62 | $44,424.46 | $6,151.08 |
+
+| $385,000 | $346,223.02 | $45,008.99 | $6,232.01 |
+
+| $389,200 | $350,000.00 | $45,500.00 | $6,300 |
+
+### Case 2 – Stated price net of rebate is greater than $389,200 but less than or equal to $508,500
+
+**Calculation method**
+
+Consideration = (Stated price net of rebate + $ 28,350) ÷ 1.193[Footnote2](#fn2)
+
+HST payable = Consideration × 13%
+
+GST/HST new housing rebate = $ 6,300 × ($450,000 – Consideration) ÷ $100,000
+
+**Table method**
+
+| Stated Price Net of Rebate | Consideration | HST Payable | GST/HST New Housing Rebate |
+
+| --- | --- | --- | --- |
+
+| $389,201 | $350,000.83 | $45,500.11 | $6,299.95 |
+
+| $390,000 | $350,670.57 | $45,587.17 | $6,257.75 |
+
+| $395,000 | $354,861.69 | $46,132.02 | $5,993.71 |
+
+| $400,000 | $359,052.81 | $46,676.87 | $5,729.67 |
+
+| $405,000 | $363,243.92 | $47,221.71 | $5,465.63 |
+
+| $410,000 | $367,435.04 | $47,766.55 | $5,201.59 |
+
+| $415,000 | $371,626.15 | $48,311.40 | $4,937.55 |
+
+| $420,000 | $375,817.27 | $48,856.24 | $4,673.51 |
+
+| $425,000 | $380,008.38 | $49,401.09 | $4,409.47 |
+
+| $430,000 | $384,199.50 | $49,945.93 | $4,145.43 |
+
+| $435,000 | $388,390.61 | $50,490.78 | $3,881.39 |
+
+| $440,000 | $392,581.73 | $51,035.62 | $3,617.35 |
+
+| $445,000 | $396,772.84 | $51,580.47 | $3,353.31 |
+
+| $450,000 | $400,963.96 | $52,125.31 | $3,089.27 |
+
+| $455,000 | $405,155.07 | $52,670.16 | $2,825.23 |
+
+| $460,000 | $409,346.19 | $53,215.00 | $2,561.19 |
+
+| $465,000 | $413,537.30 | $53,759.85 | $2,297.15 |
+
+| $470,000 | $417,728.42 | $54,304.69 | $2,033.11 |
+
+| $475,000 | $421,919.53 | $54,849.54 | $1,769.07 |
+
+| $480,000 | $426,110.65 | $55,394.38 | $1,505.03 |
+
+| $485,000 | $430,301.76 | $55,939.23 | $1,240.99 |
+
+| $490,000 | $434,492.88 | $56,484.07 | $976.95 |
+
+| $495,000 | $438,683.99 | $57,028.92 | $712.91 |
+
+| $500,000 | $442,875.10 | $57,573.76 | $448.87 |
+
+| $505,000 | $447,066.22 | $58,118.61 | $184.83 |
+
+| $508,500 | $450,000.00 | $58,500.00 | $0 |
+
+## Appendix 2: Tables for Nova Scotia rebate and, if any, GST/HST new housing rebate
+
+Units purchased from a builder together with the related land ss 254(2) and ss 254(2.1)
+
+1. The following cases illustrate how the rebate factors are used to determine the value of the consideration, the HST payable, the amount of the Nova Scotia rebate and, if any, the amount of the GST/HST new housing rebate where:
+
+- a unit is a newly constructed or substantially renovated unit purchased from a builder together with the related land;
+
+- the purchaser qualifies for the Nova Scotia rebate under subsection 254(2.1) and may be entitled to claim the GST/HST new housing rebate under subsection 254(2);
+
+- the unit is situated in Nova Scotia;
+
+- the builder pays or credits the rebate(s) to the purchaser; and
+
+- the builder and the purchaser have agreed to a stated price net of rebate(s).
+
+Refer to Appendix 1 of this memorandum if the purchaser is not entitled to claim the Nova Scotia rebate.
+
+2. Two methods are provided for determining the value of the consideration for a unit from which the HST payable, the Nova Scotia rebate and, if any, the GST/HST new housing rebate amounts may be determined.
+
+**Calculation method**
+
+3. The first method is the calculation method, which is based on a formula that uses the rebate factor to arrive at the value of the consideration. To determine the appropriate formula that applies to a price situation, locate the case (see list below) that contains a price range in which the stated price net of rebate(s) falls. Applying the formula to the stated price net of rebate(s) for the unit gives the value of the consideration payable for the unit for GST/HST purposes. Once the value of the consideration is determined, the HST payable and the rebate amounts can be calculated.
+
+**Table method**
+
+4. The second method is the table method. The tables show the value of the consideration, the HST payable, the GST/HST new housing rebate amount if any and the Nova Scotia rebate amount that result from a rebate factor being applied to a particular stated price net of rebate(s). Where a stated price net of rebate(s) is not found in the tables, the “calculation method” may be used to arrive at the value of the consideration, the HST payable and the rebate amounts.
+
+**Limitations**
+
+5. The tables and the formulas upon which they are based are not meant to replace the legislation pertaining to new housing rebates. They are provided solely for convenience to assist in calculating the value of the consideration, the HST payable and the rebate amounts.
+
+## List of cases
+
+**Case 1**
+
+Case 1 provides the calculations and the table where the stated price net of rebates is $109,700 or less.
+
+**Case 2**
+
+Case 2 provides the calculations and the table where the stated price net of rebates is greater than $109,700, but less than or equal to $387,700.
+
+**Case 3**
+
+Case 3 provides the calculations and the table where the stated price net of rebates is greater than $387,700 but less than or equal to $507,000.
+
+**Case 4**
+
+Case 4 provides the calculations and the table where the stated price net of rebate is greater than $507,000.
+
+### Case 1 – Stated price net of rebates is $109,700 or less
+
+**Calculation method**
+
+Consideration = Stated price net of rebates ÷ 1.097[Footnote3](#fn3)
+
+HST payable = Consideration × 13%
+
+GST/HST new housing rebate = HST payable × 5/13 × 36%
+
+Nova Scotia rebate = HST payable × 8/13 × 18.75% to a maximum of $1,500
+
+**Table method**
+
+| Stated Price Net of Rebates | Consideration | HST Payable | GST/HST New Housing Rebate | Nova Scotia Rebate |
+
+| --- | --- | --- | --- | --- |
+
+| $50,000 | $45,578.85 | $5,925.25 | $820.42 | $683.68 |
+
+| $55,000 | $50,136.74 | $6,517.78 | $902.46 | $752.05 |
+
+| $60,000 | $54,694.62 | $7,110.30 | $984.50 | $820.42 |
+
+| $65,000 | $59,252.51 | $7,702.83 | $1,066.55 | $888.79 |
+
+| $70,000 | $63,810.39 | $8,295.35 | $1,148.59 | $957.16 |
+
+| $75,000 | $68,368.28 | $8,887.88 | $1,230.63 | $1,025.52 |
+
+| $80,000 | $72,926.16 | $9,480.40 | $1,312.67 | $1,093.89 |
+
+| $85,000 | $77,484.05 | $10,072.93 | $1,394.71 | $1,162.26 |
+
+| $90,000 | $82,041.93 | $10,665.45 | $1,476.75 | $1,230.63 |
+
+| $95,000 | $86,599.82 | $11,257.98 | $1,558.80 | $1,299.00 |
+
+| $100,000 | $91,157.70 | $11,850.50 | $1,640.84 | $1,367.37 |
+
+| $105,000 | $95,715.59 | $12,443.03 | $1,722.88 | $1,435.73 |
+
+| $109,700 | $100,000.00 | $13,000.00 | $1,800.00 | $1,500.00 |
+
+### Case 2 – Stated price net of rebates is greater than $109,700 but less than or equal to $387,700
+
+**Calculation method**
+
+Consideration = (Stated price net of rebates + $1,500) ÷ 1.112[Footnote4](#fn4)
+
+HST payable = Consideration × 13%
+
+GST/HST new housing rebate = HST payable × 5/13 × 36% to a maximum of $6,300
+
+Nova Scotia rebate = $1,500
+
+**Table method**
+
+| Stated Price Net of Rebates | Consideration | HST Payable | GST/HST New Housing Rebate | Nova Scotia Rebate |
+
+| --- | --- | --- | --- | --- |
+
+| $109,701 | $100,000.89 | $13,000.12 | $1,800.02 | $1,500 |
+
+| $110,000 | $100,269.78 | $13,035.07 | $1,804.86 | $1,500 |
+
+| $115,000 | $104,766.18 | $13,619.60 | $1,885.79 | $1,500 |
+
+| $120,000 | $109,262.59 | $14,204.14 | $1,966.73 | $1,500 |
+
+| $125,000 | $113,758.99 | $14,788.67 | $2,047.66 | $1,500 |
+
+| $130,000 | $118,255.40 | $15,373.20 | $2,128.60 | $1,500 |
+
+| $135,000 | $122,751.80 | $15,957.73 | $2,209.53 | $1,500 |
+
+| $140,000 | $127,248.20 | $16,542.27 | $2,290.47 | $1,500 |
+
+| $145,000 | $131,744.60 | $17,126.80 | $2,371.40 | $1,500 |
+
+| $150,000 | $136,241.01 | $17,711.33 | $2,452.34 | $1,500 |
+
+| $155,000 | $140,737.41 | $18,295.86 | $2,533.27 | $1,500 |
+
+| $160,000 | $145,233.81 | $18,880.40 | $2,614.21 | $1,500 |
+
+| $165,000 | $149,730.22 | $19,464.93 | $2,695.14 | $1,500 |
+
+| $170,000 | $154,226.62 | $20,049.46 | $2,776.08 | $1,500 |
+
+| $175,000 | $158,723.02 | $20,633.99 | $2,857.01 | $1,500 |
+
+| $180,000 | $163,219.42 | $21,218.53 | $2,937.95 | $1,500 |
+
+| $185,000 | $167,715.83 | $21,803.06 | $3,018.88 | $1,500 |
+
+| $190,000 | $172,212.23 | $22,387.59 | $3,099.82 | $1,500 |
+
+| $195,000 | $176,708.63 | $22,972.12 | $3,180.76 | $1,500 |
+
+| $200,000 | $181,205.04 | $23,556.65 | $3,261.69 | $1,500 |
+
+| $205,000 | $185,701.44 | $24,141.19 | $3,342.63 | $1,500 |
+
+| $210,000 | $190,197.84 | $24,725.72 | $3,423.56 | $1,500 |
+
+| $215,000 | $194,694.24 | $25,310.25 | $3,504.50 | $1,500 |
+
+| $220,000 | $199,190.65 | $25,894.78 | $3,585.43 | $1,500 |
+
+| $225,000 | $203,687.05 | $26,479.32 | $3,666.37 | $1,500 |
+
+| $230,000 | $208,183.45 | $27,063.85 | $3,747.30 | $1,500 |
+
+| $235,000 | $212,679.86 | $27,648.38 | $3,828.24 | $1,500 |
+
+| $240,000 | $217,176.26 | $28,232.91 | $3,909.17 | $1,500 |
+
+| $245,000 | $221,672.66 | $28,817.45 | $3,990.11 | $1,500 |
+
+| $250,000 | $226,169.06 | $29,401.98 | $4,071.04 | $1,500 |
+
+| $255,000 | $230,665.47 | $29,986.51 | $4,151.98 | $1,500 |
+
+| $260,000 | $235,161.87 | $30,571.04 | $4,232.91 | $1,500 |
+
+| $265,000 | $239,658.27 | $31,155.58 | $4,313.85 | $1,500 |
+
+| $270,000 | $244,154.68 | $31,740.11 | $4,394.78 | $1,500 |
+
+| $275,000 | $248,651.08 | $32,324.64 | $4,475.72 | $1,500 |
+
+| $280,000 | $253,147.48 | $32,909.17 | $4,556.65 | $1,500 |
+
+| $285,000 | $257,643.88 | $33,493.71 | $4,637.59 | $1,500 |
+
+| $290,000 | $262,140.29 | $34,078.24 | $4,718.53 | $1,500 |
+
+| $295,000 | $266,636.69 | $34,662.77 | $4,799.46 | $1,500 |
+
+| $300,000 | $271,133.09 | $35,247.30 | $4,880.40 | $1,500 |
+
+| $305,000 | $275,629.50 | $35,831.83 | $4,961.33 | $1,500 |
+
+| $310,000 | $280,125.90 | $36,416.37 | $5,042.27 | $1,500 |
+
+| $315,000 | $284,622.30 | $37,000.90 | $5,123.20 | $1,500 |
+
+| $320,000 | $289,118.71 | $37,585.43 | $5,204.14 | $1,500 |
+
+| $325,000 | $293,615.11 | $38,169.96 | $5,285.07 | $1,500 |
+
+| $330,000 | $298,111.51 | $38,754.50 | $5,366.01 | $1,500 |
+
+| $335,000 | $302,607.91 | $39,339.03 | $5,446.94 | $1,500 |
+
+| $340,000 | $307,104.32 | $39,923.56 | $5,527.88 | $1,500 |
+
+| $345,000 | $311,600.72 | $40,508.09 | $5,608.81 | $1,500 |
+
+| $350,000 | $316,097.12 | $41,092.63 | $5,689.75 | $1,500 |
+
+| $355,000 | $320,593.53 | $41,677.16 | $5,770.68 | $1,500 |
+
+| $360,000 | $325,089.93 | $42,261.69 | $5,851.62 | $1,500 |
+
+| $365,000 | $329,586.33 | $42,846.22 | $5,932.55 | $1,500 |
+
+| $370,000 | $334,082.73 | $43,430.76 | $6,013.49 | $1,500 |
+
+| $375,000 | $338,579.14 | $44,015.29 | $6,094.42 | $1,500 |
+
+| $380,000 | $343,075.54 | $44,599.82 | $6,175.36 | $1,500 |
+
+| $385,000 | $347,571.94 | $45,184.35 | $6,256.29 | $1,500 |
+
+| $387,700 | $350,000.00 | $45,500.00 | $6,300.00 | $1,500 |
+
+### Case 3 – Stated price net of rebates is greater than $387,700 but less than or equal to $507,000
+
+**Calculation method**
+
+Consideration = (Stated price net of rebate + $ 29,850) ÷ 1.193[Footnote5](#fn5)
+
+HST payable = Consideration × 13%
+
+GST/HST new housing rebate = $6,300 × ($450,000 – Consideration) ÷ $100,000
+
+Nova Scotia rebate = $1,500
+
+**Table method**
+
+| Stated Price Net of Rebates | Consideration | HST Payable | GST/HST New Housing Rebate | Nova Scotia rebate |
+
+| --- | --- | --- | --- | --- |
+
+| $390,000 | $351,927.91 | $45,750.63 | $6,178.54 | $1,500 |
+
+| $395,000 | $356,119.03 | $46,295.47 | $5,914.50 | $1,500 |
+
+| $400,000 | $360,310.14 | $46,840.32 | $5,650.46 | $1,500 |
+
+| $405,000 | $364,501.26 | $47,385.16 | $5,386.42 | $1,500 |
+
+| $410,000 | $368,692.37 | $47,930.01 | $5,122.38 | $1,500 |
+
+| $415,000 | $372,883.49 | $48,474.85 | $4,858.34 | $1,500 |
+
+| $420,000 | $377,074.60 | $49,019.70 | $4,594.30 | $1,500 |
+
+| $425,000 | $381,265.72 | $49,564.54 | $4,330.26 | $1,500 |
+
+| $430,000 | $385,456.83 | $50,109.39 | $4,066.22 | $1,500 |
+
+| $435,000 | $389,647.95 | $50,654.23 | $3,802.18 | $1,500 |
+
+| $440,000 | $393,839.06 | $51,199.08 | $3,538.14 | $1,500 |
+
+| $445,000 | $398,030.18 | $51,743.92 | $3,274.10 | $1,500 |
+
+| $450,000 | $402,221.29 | $52,288.77 | $3,010.06 | $1,500 |
+
+| $455,000 | $406,412.41 | $52,833.61 | $2,746.02 | $1,500 |
+
+| $460,000 | $410,603.52 | $53,378.46 | $2,481.98 | $1,500 |
+
+| $465,000 | $414,794.64 | $53,923.30 | $2,217.94 | $1,500 |
+
+| $470,000 | $418,985.75 | $54,468.15 | $1,953.90 | $1,500 |
+
+| $475,000 | $423,176.87 | $55,012.99 | $1,689.86 | $1,500 |
+
+| $480,000 | $427,367.98 | $55,557.84 | $1,425.82 | $1,500 |
+
+| $485,000 | $431,559.09 | $56,102.68 | $1,161.78 | $1,500 |
+
+| $490,000 | $435,750.21 | $56,647.53 | $897.74 | $1,500 |
+
+| $495,000 | $439,941.32 | $57,192.37 | $633.70 | $1,500 |
+
+| $500,000 | $444,132.44 | $57,737.22 | $369.66 | $1,500 |
+
+| $505,000 | $448,323.55 | $58,282.06 | $105.62 | $1,500 |
+
+| $507,000 | $450,000.00 | $58,500.00 | $0 | $1,500 |
+
+### Case 4 – Stated price net of rebate is greater than $507,000
+
+**Calculation method**
+
+Consideration = (Stated price net of rebate + $1,500) ÷ 1.13[Footnote6](#fn6)
+
+HST payable = Consideration × 13%
+
+GST/HST new housing rebate = $0
+
+Nova Scotia rebate = $1,500
+
+**Table method**
+
+| Stated Price Net of Rebate | Consideration | HST Payable | GST/HST New Housing Rebate | Nova Scotia Rebate |
+
+| --- | --- | --- | --- | --- |
+
+| $508,000 | $450,884.95 | $58,615.04 | $0 | $1,500 |
+
+| $510,000 | $452,654.87 | $58,845.13 | $0 | $1,500 |
+
+| $515,000 | $457,079.65 | $59,420.35 | $0 | $1,500 |
+
+| $520,000 | $461,504.42 | $59,995.58 | $0 | $1,500 |
+
+| $525,000 | $465,929.20 | $60,570.80 | $0 | $1,500 |
+
+| $550,000 | $488,053.10 | $63,446.90 | $0 | $1,500 |
+
+| $575,000 | $510,176.99 | $66,323.01 | $0 | $1,500 |
+
+| $600,000 | $532,300.88 | $69,199.11 | $0 | $1,500 |
+
+| $625,000 | $554,424.78 | $72,075.22 | $0 | $1,500 |
+
+| $650,000 | $576,548.67 | $74,951.33 | $0 | $1,500 |
+
+| $675,000 | $598,672.57 | $77,827.43 | $0 | $1,500 |
+
+| $700,000 | $620,796.46 | $80,703.54 | $0 | $1,500 |
+
+| $725,000 | $642,920.35 | $83,579.65 | $0 | $1,500 |
+
+| $750,000 | $665,044.24 | $86,455.75 | $0 | $1,500 |
+
+| $775,000 | $687,168.14 | $89,331.86 | $0 | $1,500 |
+
+| $800,000 | $709,292.04 | $92,207.96 | $0 | $1,500 |
+
+| $825,000 | $731,415.93 | $95,084.07 | $0 | $1,500 |
+
+| $850,000 | $753,539.82 | $97,960.18 | $0 | $1,500 |
+
+| $875,000 | $775,663.72 | $100,836.28 | $0 | $1,500 |
+
+| $900,000 | $797,787.61 | $103,712.39 | $0 | $1,500 |
+
+| $925,000 | $819,911.50 | $106,588.50 | $0 | $1,500 |
+
+| $950,000 | $842,035.40 | $109,464.60 | $0 | $1,500 |
+
+| $975,000 | $864,159.29 | $112,340.71 | $0 | $1,500 |
+
+| $1,000,000 | $886,283.19 | $115,216.81 | $0 | $1,500 |
+
+| $1,025,000 | $908,407.08 | $118,092.92 | $0 | $1,500 |
+
+| $1,050,000 | $930,530.97 | $120,969.03 | $0 | $1,500 |
+
+| $1,075,000 | $952,654.87 | $123,845.13 | $0 | $1,500 |
+
+| $1,100,000 | $974,778.76 | $126,721.23 | $0 | $1,500 |
+
+| $1,125,000 | $996,902.65 | $129,597.35 | $0 | $1,500 |
+
+| $1,150,000 | $1,019,026.55 | $132,473.45 | $0 | $1,500 |
+
+| $1,175,000 | $1,041,150.44 | $135,349.56 | $0 | $1,500 |
+
+| $1,200,000 | $1,063,274.34 | $138,225.66 | $0 | $1,500 |
+
+| $1,225,000 | $1,085,398.20 | $141,101.76 | $0 | $1,500 |

@@ -1,0 +1,18 @@
+---
+title: "T4068 Guide for the Partnership Information Return (T5013 Forms) - 2025"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4068.html
+last_modified: 2026-06-01
+---
+# T4068 Guide for the Partnership Information Return (T5013 Forms) - 2025
+
+Information and guidelines for 2025 for an authorized member of a partnership about how to complete and file a Partnership Information Return, and other related forms.
+
+## Ways to access the information
+
+- Read the publicationPrevious years: Standard print PDFsThis form is also available for the years listed below:[2024 – Standard print PDF (t4068-24e.pdf)](/content/dam/cra-arc/formspubs/pub/t4068/t4068-24e.pdf)[2023 – Standard print PDF (t4068-23e.pdf)](/content/dam/cra-arc/formspubs/pub/t4068/t4068-23e.pdf)[2022 – Standard print PDF (t4068-22e.pdf)](/content/dam/cra-arc/formspubs/pub/t4068/t4068-22e.pdf)[2021 – Standard print PDF (t4068-21e.pdf)](/content/dam/cra-arc/formspubs/pub/t4068/t4068-21e.pdf)[2020 – Standard print PDF (t4068-20e.pdf)](/content/dam/cra-arc/formspubs/pub/t4068/t4068-20e.pdf)[2019 – Standard print PDF (t4068-19e.pdf)](/content/dam/cra-arc/formspubs/pub/t4068/t4068-19e.pdf)[2018 – Standard print PDF (t4068-18e.pdf)](/content/dam/cra-arc/formspubs/pub/t4068/t4068-18e.pdf)[2017 – Standard print PDF (t4068-17e.pdf)](/content/dam/cra-arc/formspubs/pub/t4068/t4068-17e.pdf)[2016 – Standard print PDF (t4068-16e.pdf)](/content/dam/cra-arc/formspubs/pub/t4068/t4068-16e.pdf)[2015 – Standard print PDF (t4068-15e.pdf)](/content/dam/cra-arc/formspubs/pub/t4068/t4068-15e.pdf)[2013 – Standard print PDF (t4068-13e.pdf)](/content/dam/cra-arc/formspubs/pub/t4068/t4068-13e.pdf)[2011 – Standard print PDF (t4068-11e.pdf)](/content/dam/cra-arc/formspubs/pub/t4068/t4068-11e.pdf)[2006 – Standard print PDF (t4068-06e.pdf)](/content/dam/cra-arc/formspubs/pub/t4068/t4068-06e.pdf)[2005 – Standard print PDF (t4068-05e.pdf)](/content/dam/cra-arc/formspubs/pub/t4068/t4068-05e.pdf)[2004 – Standard print PDF (t4068-04e.pdf)](/content/dam/cra-arc/formspubs/pub/t4068/t4068-04e.pdf)[2003 – Standard print PDF (t4068-03e.pdf)](/content/dam/cra-arc/formspubs/pub/t4068/t4068-03e.pdf)[2002 – Standard print PDF (t4068-02e.pdf)](/content/dam/cra-arc/formspubs/pub/t4068/t4068-02e.pdf)
+
+    - Online format [t4068-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4068/guide-partnership-information-return-t5013-forms.html)
+
+    - PDF [t4068-25e.pdf](/content/dam/cra-arc/formspubs/pub/t4068/t4068-25e.pdf)
+
+- Ask for an alternate formatYou can order a digital audio, e-text, braille or large print version of this publication to be sent to you by mail.[Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html)

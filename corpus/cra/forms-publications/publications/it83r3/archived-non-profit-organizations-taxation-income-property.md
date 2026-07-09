@@ -1,0 +1,164 @@
+---
+title: "ARCHIVED - Non-profit organizations - Taxation of income from property"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it83r3/archived-non-profit-organizations-taxation-income-property.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Non-profit organizations - Taxation of income from property
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO.: **IT83R3**
+
+DATE: October 31, 1990
+
+SUBJECT: INCOME TAX ACT**Non-profit organizations - Taxation of income from property**
+
+REFERENCE: Subsection 149(5) (Also section 118, subsections 45(1), 122(1) 122(1.1), and 149.1(1) and paragraph 149(1)(l))
+
+**Notice to the reader:**
+
+- [Bulletins do not have the force of law](https://www.canada.ca/formspubs/pbs/tntc-eng.html).
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it83r3.html).
+
+Application
+
+This Bulletin cancels and replaces Interpretation Bulletin IT-83R2 dated November 29, 1983. Current revisions are designated by vertical lines. The comments in this bulletin do not reflect any changes proposed in the Draft Amendments to the Income Tax Act and Related Statutes issued by the Minister of Finance on July 13, 1990. Any necessary changes will be subject of a Special Release.
+
+Summary
+
+This bulletin discusses the taxation of the property income of a club, society or association that otherwise qualifies as a non- profit organization under paragraph 149(1)(l). Generally, a non- profit organization is not taxable. However, when its main purpose is the provision of dining, recreational or sports facilities for its members, a non-profit organization is taxable, as an inter vivos trust, on its property income. It is also taxable on any taxable capital gains arising on the disposition of any property that is not used in the providing of those services.
+
+Discussion and Interpretation
+
+1. Paragraph 149(1)(l) exempts from income tax a club, society or association (other than a charitable organization or foundation as defined in subsection 149.1(l)) organized and operated exclusively for social welfare, civic improvement, pleasure or recreation or for any other purpose except profit, if no part of its income is payable to, or available for the personal benefit of any proprietor, member or shareholder. However, the provisions of subsection 149(5) override this exemption and tax the income from property of those clubs, societies and associations that have as their main purpose the provision of dining, recreational or sporting facilities for their members (see 2 below). Any business income that such a non-profit organization, referred to in the Act and in this bulletin as the "club", may realize from carrying on its various activities (e.g. the operation of a golf course, dining lounge, bar, or curling rink) is not included in computing its income for the purposes of subsection 149(5). The determination of whether a particular club is otherwise exempt from tax under paragraph 149(1)(l) is discussed in the current version of IT-496, Non-Profit Organizations.
+
+2. Under subsection 149(5), an inter vivos trust is deemed to exist throughout the period during which the main purpose of the club is to provide dining, recreational, or sporting facilities. The following rules apply throughout that period:
+
+(a) The property of the club is deemed to be the property of the trust.
+
+(b) Where the club is a corporation, the corporation is deemed to be the trustee having control of the trust property.
+
+(c) Where the club is not a corporation, the officers of the club are deemed to be trustees having control of the trust property.
+
+(d) Tax is payable under Part I of the Act by the trust upon its taxable income for each taxation year.
+
+(e) The income and taxable income of the trust for each taxation year will be computed on the assumption that it had no incomes or losses other than
+
+(i) incomes and losses from property, and
+
+(ii) taxable capital gains and allowable capital losses from dispositions of property,
+
+(f) In computing the taxable income of the trust for each taxation year
+
+(i) there may be deducted, in addition to any other deductions permitted by Part I of the Act, $2,000, and
+
+(ii) no deductions may be made in respect of taxable dividends received from taxable Canadian corporations, or dividends received from foreign affiliates (and for 1987 and prior years, no deduction may be made for personal exemptions).
+
+(g) The provisions of subdivision k of Division B of the Act relating to trusts and their beneficiaries do not apply in respect of the deemed trust except that
+
+(i) a reference to the trust will be read as a reference to the trustee having ownership or control of the trust property, and
+
+(ii) the trust will, for purposes of the Act, and without affecting the liability of the trustee for the trustee's own income tax, be deemed to be an individual in respect of the trust property.
+
+3. Expenses related directly to the earning of property income (such as income from dividends, interest, rentals, etc.) are deductible in determining the amount subject to tax. No deduction is permitted for any expenses that may reasonably be regarded as having been incurred for the purpose of earning exempt income (such as from the sale of goods or the rendering of services that may be involved in the operation of the club). A club may have, for example, surplus funds following receipt of annual membership dues which are invested temporarily and earn interest income that would be included in the income of the trust. However, the interest paid on money borrowed at other times of the year to finance ongoing club activities would not be deductible in determining the trust's income.
+
+4. Since the club's property is deemed to be the property of the trust, any property income of the club is included as income of the inter vivos trust. Dividend and interest income is clearly income from property. Revenue derived from the rental of club facilities may be categorized, depending upon the facts of a particular situation, either as income from property or income from business. For example, the rental of building space that is in excess of a club's normal requirements would be property income, while the rental of dining facilities for a wedding reception or a golf course for a tournament would be business income. In distinguishing property income from business income, the courts have generally regarded the degree of the lessor's activity associated with the rental as determinant. It should be noted that active pursuit of rental income from non-members that is categorized as business income could result in a club being disqualified as an organization exempt from tax under paragraph 149(1)(l).
+
+5. Where a club owns its premises and rents space in a club building that is in excess of its current requirements for carrying out club activities, a reasonable apportionment of common expenses (including capital cost allowance) is deductible in determining the income from the rental of the excess space. When the building is disposed of, any recapture of capital cost allowance claimed (or terminal loss) or taxable capital gain or allowable capital loss on that portion of the building rented, is to be included in the income of the trust.
+
+6. Deemed dispositions of club property may give rise to taxable capital gains or allowable capital losses that are to be included in the income computation of the deemed trust. For example, if a club commences to use for its own purposes a property (or a portion of it) that was formerly rented, a deemed disposition at fair market value occurs pursuant to the rules contained in subsection 45(1) relating to change in use. Conversely, a property that is rented following a period when it was used exclusively for club purposes is deemed to be acquired by the deemed trust at fair market value at that time.
+
+7. In order for a deemed trust to be exempted from the capital gain and capital loss provisions of the Act, club property must actually be used in the manner described in 2(e)(ii) above. It is not sufficient that a property was intended to be used in that manner. For example, a gain realized on the sale of vacant land acquired in connection with a planned extension of club facilities that has since been abandoned is taxable in the hands of the deemed trust regardless of the reason for the change in plans or the fact that the land was not used for any purpose whatever during the period that it was held. Notwithstanding 2(e)(ii) above, a club is not deprived of the exemption from the capital gain and loss provisions by reason only of occasional rental of its property to non-members.
+
+8. Since the Act provides that a trust is deemed to be an individual, the taxation year of a deemed inter vivos trust is the calendar year, regardless of the fiscal period used by the club itself. A non-profit organization is required to file a T3 return when the gross or total income from property, including taxable capital gains, of the deemed trust exceeds $500 for the year. The filing of a T3 return for property income of an incorporated club does not affect the obligation of that corporation to file a T2 return of income for each taxation year. Examples
+
+9. To illustrate the application of the above rules, assume that an incorporated golf club has raised funds for a future clubhouse. The funds were invested in term deposits and shares of a Canadian corporation. The results of the club's operations for the year ending December 31, 1990 are as follows:
+
+| Income from course operations (net) |  | $3,500 |
+
+| --- | --- | --- |
+
+| Investment income |  |  |
+
+| term deposit |  | $1,600 |
+
+| Canadian dividends |  | $1,500 |
+
+| Rental income (net of any applicable expenses) |  | $1,000 |
+
+| Capital gain on sale of shares |  | $4,000 |
+
+|  |  | $11,600 |
+
+|  |  |  |
+
+| The taxable income of the deemed inter vivos trust is calculated as follows: |  |  |
+
+| Property income: |  |  |
+
+| Investment income |  |  |
+
+| term deposits |  | $1,600 |
+
+| Canadian dividends | $1,500 |  |
+
+| gross-up (1/4) | $375 | $1,875 |
+
+| Rental income |  | $1,000 |
+
+|  |  | $4,475 |
+
+|  |  |  |
+
+| Taxable capital gain |  |  |
+
+| (3/4 de $4,000) |  | $3,000 |
+
+| Net income for tax purposes |  | $7,475 |
+
+| Deduct : Basic exemption |  | $2,000 |
+
+| Taxable income for the year |  | $5,475 |
+
+10. To illustrate the determination of a non-capital loss in a taxation year and its application by the deemed inter vivos trust, assume that the incorporated golf club in the above example had the following results for the year ending December 31, 1989:
+
+| Loss from course operations (net) |  |  | ($2,500) |
+
+| --- | --- | --- | --- |
+
+| Investment income |  |  |  |
+
+| term deposit |  |  | $300 |
+
+| Canadian dividends |  | $400 |  |
+
+| Rental loss (before capital cost allowance) |  |  | ($4,000) |
+
+|  |  |  | ($5,800) |
+
+| The non-capital loss for the year of the inter vivos trust is calculated as follows: |  |  |  |
+
+| Investment income |  |  |  |
+
+| term deposit |  |  | $300 |
+
+| Canadian dividends | $400 |  |  |
+
+| gross-up (1/4) | $100 | $500 |  |
+
+| Rental loss (before capital cost allowance) |  |  | ($4,000) |
+
+| Non-capital loss |  | ($3,200) |  |
+
+11. In the above examples, the non-capital loss of $3,200 for the 1989 taxation year may be carried back up to three years, or carried forward up to seven years, and applied against taxable income earned in those years. If the 1989 non-capital loss is applied against the net income of $5,475 in 1990, no portion of the loss is available to be carried over to other years.
+
+12. By virtue of subsection 122(1), an inter vivos trust is subject to a flat rate of tax. Reference should be made to that provision to determine the appropriate rate for a particular taxation year of a deemed inter vivos trust created under subsection 149(5). In determining the tax payable by the trust, however, subsection 122(1.1) specifically provides that no tax credits are deductible under section 118 for 1988 and subsequent taxation years.

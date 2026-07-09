@@ -1,0 +1,157 @@
+Title: ARCHIVED - Income Tax Technical News No. 31R2
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-31r2/archived-itnews-31r2-income-tax-technical-news-no-31r2.html
+Corpus path: corpus/cra/tax/technical-information/income-tax/current-publications/technical-news/publications/itnews-31r2/archived-itnews-31r2-income-tax-technical-news-no-31r2.md
+Document type: technical_publication
+Last modified: 2017-06-22
+
+# ARCHIVED - Income Tax Technical News No. 31R2
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for income tax technical news](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/what-archived-content-notice-means-income-tax-technical-news.html)
+
+**May 16, 2006**
+
+**Notice to the reader:**
+
+- This version is only available electronically.
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-31r2.html), including PDF (which is an exact rendition of the original).
+
+This *Technical News* cancels and replaces TN-31R, dated November 24, 2004, due to the addition of a further exception to the first article entitled *Social Security Taxes and the Foreign Tax Credit*.
+
+**In this Issue**
+
+- [Social Security Taxes and the Foreign Tax Credit](#P24_866)
+
+- [Single-Purpose Corporations](#P36_5066)
+
+- [Application of Paragraph 81(1)*(h)*](#P46_8165)
+
+The *Income Tax Technical News* is produced by the Legislative Policy and Regulatory Affairs Branch. It is provided for information purposes only and does not replace the law. If you have any comments or suggestions about the matters discussed in this publication, please send them to:
+
+Income Tax Rulings Directorate Legislative Policy and Regulatory Affairs Branch Canada Revenue Agency Ottawa ON K1A 0L5
+
+The *Income Tax Technical News* can be found on the Canada Revenue Agency Internet site at [www.cra.gc.ca](http://www.cra.gc.ca).
+
+## Social Security Taxes and the Foreign Tax Credit
+
+Section 126 of the *Income Tax Act* (the “Act”) provides for a foreign tax credit for taxes paid to foreign jurisdictions. The Canada Revenue Agency (CRA) stated in paragraph 5 of IT-122R2, that US social security taxes paid by an employee are income taxes that may qualify as “non-business-income taxes” under subsection 126(7) of the Act for purposes of the foreign tax credit under paragraph 126(1)(*a*). The CRA has also confirmed that German and French social security contributions qualify as “non-business-income taxes”.
+
+We have recently reviewed the treatment of social security taxes as income or profits taxes for the purposes of the foreign tax credit and we concluded that the position in IT-122R2 is not supportable in law, because the social security taxes reviewed do not qualify as taxes. Consequently, the CRA is revising its position on this point. As a rule, social security taxes will no longer be accepted as non-business income taxes for the purposes of the foreign tax credit. The technical interpretations regarding the tax treatment of social security contributions in France and Germany as foreign tax credits are thus obsolete and unreliable.
+
+As provided in the Canada-U.S tax convention however, Canada has specifically agreed to give a foreign tax credit for payments under the *Federal Insurance Contributions Act*, more commonly known as FICA taxes. In accordance with our tax treaty with the U.S., the CRA will continue to allow a foreign tax credit for FICA taxes.
+
+The position in Interpretation Bulletin IT-122R2 that U.S. social security taxes collected under the U.S. *Federal Insurance Contributions Act* are income or profits taxes was based on the *Seley* case, a 1962 decision of the Tax Appeal Board (62 DTC 565, 62 TAB 243). The Board held that the social security contributions paid by a Canadian taxpayer to the U.S. qualified as an income or profits tax for the purposes of the foreign tax credit. The then Department of National Revenue accepted that decision and this was reflected in IT-122R2. However, our reliance on the *Seley* case was reconsidered in light of the fact that Canadian courts have accepted as authority (as was notably the case recently in the case *Yates v. The Queen*, 2001 DTC 761, [2001] 3 CTC 2565), the meaning of the word “tax” given by the Supreme Court of Canada in *Lawson* [1931] S.C.R. 357. In that case, the Supreme Court said:
+
+*A tax is a levy, enforceable by law imposed under the authority of a legislature, imposed by a public body and levied for a public purpose*.
+
+This judicial interpretation of the meaning of the word tax by the Supreme Court has been cited on several other occasions. Since a payer of social security derives specific economic benefits from his contributions, the amount cannot be said to be levied for a public purpose, and therefore it cannot be an income or profits tax. For this reason, social security contributions generally do not qualify as income or profits taxes because they are not really taxes at all, within the judicially accepted meaning of that term.
+
+We have recently considered a situation where the contributions made by an employee to a foreign social security system would not make the employee eligible to any benefits where the employment in the foreign country was temporary and for a short period of time.
+
+The CRA will accept that a contribution by an employee resident in Canada to a foreign public pension plan be considered as a non-business income tax for the purpose of section 126 of the *Income Tax Act* where the following two conditions apply:
+
+- the employee is compelled to make the contribution pursuant to the legislation of the foreign country; and
+
+- it is reasonable to conclude that the employee will not be eligible for any financial benefit from his/her contribution considering that the employment in the foreign country was temporary and for a short period of time.[[Footnote 1](#P35_4799)]
+
+The changes are effective for the 2004 and subsequent taxation years and IT-122R2 has been cancelled and annotated as such in Part 5 of the 2004 [*Index to Income Tax Interpretation Bulletins and Technical News*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it-index.html) issued on April 27, 2005.
+
+## Single-Purpose Corporations
+
+The Canada Revenue Agency has recently completed the review of its administrative position not to assess a taxable benefit under subsection 15(1) of the *Income Tax Act* (the "Act") where the taxpayer is the shareholder of a single-purpose corporation that has been established to hold U.S.-based real property.
+
+This position was first described in response to Question 20 at the Revenue Canada Round Table of the 1980 Canadian Tax Foundation Conference and has been subject to additional clarification on several occasions. The rationale for this position arose out of the fact that when Canada abolished estate taxes in 1972, it terminated its estate tax convention with the U.S. such that Canadian residents who owned U.S.-based property were significantly limited in the relief they could obtain from U.S. estate taxes exigible on their U.S. holdings. This lack of relief was not considered appropriate given that Canada did not levy an estate tax on U.S. residents.
+
+These U.S. estate tax problems that confronted Canadian residents owning personal-use real property situated in the United States were generally resolved by the amendments to the *Canada-United States Income Tax Convention* (the “Convention”) that came into effect on November 9, 1995. The provisions relating to U.S. estate taxes can be found in Article XXIX B of the Convention. Since the rationale for the administrative position is no longer valid, it is inappropriate to continue this administrative policy.
+
+Consequently, subject to the transitional relief described below,2 effective after December 31, 20042, this administrative policy will no longer apply for:
+
+- any new2 property acquired by a single-purpose corporation, or
+
+- a person who acquires shares of a single-purpose corporation unless such share acquisition is the result of the death of the individual's spouse or common-law partner.
+
+The administrative policy will continue to apply to those arrangements that are currently in place until the earlier of:
+
+- the disposition of the particular U.S.-based real estate by the single-purpose corporation; or
+
+- a disposition of the shares of the single-purpose corporation, other than a transfer of such shares to the shareholder's spouse or common-law partner as a result of the death of the shareholder.
+
+In addition, this administrative policy will continue to apply to any renovation or addition to a dwelling which was acquired before January 1, 2005, and to a dwelling which was under construction on December 31, 2004. For greater certainty, a dwelling will be considered to be under construction where the foundation or other support has been put in place. Transitional relief will not be provided where vacant land has been acquired but the foundation or other support has not been put in place. Similarly, transitional relief will not be provided where land with an existing building has been acquired before January 1, 2005 but it is the intention of the taxpayer to demolish the existing building and construct a new dwelling on the land.[[Footnote 2](#P47_8110)]
+
+## Application of Paragraph 81(1)(h)
+
+The purpose of this article is to describe how the income tax exemption applies to foster care providers. Section 81 of the *Income Tax Act* lists various amounts that are not included in computing a taxpayer's income. In general, paragraph 81(1)(*h*) exempts from income social assistance payments to an individual caregiver (the “Caregiver”) for the benefit of a foster person (the “Cared-for individual”) under the Caregiver's care. The Cared-for individual can be either a child or an adult.
+
+The income tax exemption applies to an amount received by the Caregiver when all of the following conditions apply:
+
+1. The payment is a social assistance payment ordinarily made on the basis of a means, needs, or income test.
+
+2. The payment is made under a program provided for by a federal, provincial or territorial law.
+
+3. The payment is received directly or indirectly by the Caregiver for the benefit of the Cared-for individual.
+
+4. The Cared-for individual is not the Caregiver's spouse or common-law partner or related to the Caregiver or the Caregiver's spouse or common-law partner.
+
+5. No family allowance under the *Family Allowances Act* or any similar allowance provided for by provincial or territorial law is payable in respect of the Cared-for individual for the period for which the social assistance payment is made.
+
+6. The Cared-for individual resides in the Caregiver's principal place of residence, or the Caregiver's principal place of residence is maintained for use as the Cared-for individual's residence, during the period for which the payment is made.
+
+### Social Assistance
+
+Generally, social assistance means aid made by a government or government agency on the basis of need. It does not matter if the payments are made directly by a government or government agency or if they are received indirectly through another organization, be it a not-for-profit or for-profit entity. The social assistance payments may also be made to the Cared-for individual, who then pays the Caregiver.
+
+### Means, Needs, or Income Test
+
+In determining whether the foster care payments are made on the basis of a means, needs, or income test, we consider each one to be a financial test:
+
+- An “income” test is a test based solely on the income of the applicant.
+
+- A “means” test, which is similar to an income test, also takes into account the assets of the applicant.
+
+- A “needs” test takes into account the income, assets and financial needs of the applicant.
+
+An example of a program with an income test is one where the benefits payable are reduced by a percentage of income of the Cared-for individual above a set amount.
+
+### Types of Eligible Payments
+
+As stated above, the payments to a Caregiver can be made directly by a government or government agency. Alternatively, the government or government agency can provide funding to another organization (such as a children's aid society, charity or a for-profit corporation), which contracts with the Caregiver. The Caregiver can be either self-employed or an employee of the paying organization. The social assistance payments may also be made to the Cared-for individual, who then pays the Caregiver.
+
+### Types of Business or Employment Relationships
+
+Paragraph 81(1)(*h*) may apply where
+
+- The Caregiver is an employee of the paying organization. In this situation, the payments are not subject to Canada Pension Plan (CPP) contributions. However, they are considered insurable earnings for Employment Insurance (EI) purposes. Accordingly, the employer is responsible for deducting and remitting EI premiums. The employer must also remit the employer premiums on these payments.
+
+- The Caregiver is self-employed. The payments received by the Caregiver are not subject to CPP or EI.
+
+- The Caregiver is an employee of a corporation that is owned in whole or in part by the Caregiver or a person related to the Caregiver. In this situation, the payments are not subject to CPP contributions; however, they may be considered insurable earnings for EI purposes. For more information, see the publication, *Employers' Guide – Payroll Deductions (BASIC INFORMATION)* (T4001), which is available on our Web site at **www.cra.gc.ca**.
+
+### Rent
+
+Where a Caregiver receives foster care payments that are exempt income under paragraph 81(1)(*h*), the exemption may also apply to rent paid to the Caregiver by the Cared-for individual. This only applies where the payment for foster care are exempted by paragraph 81(1)(*h*) and where the rent comes from social assistance payments received by the Cared-for individual. Where this is not the case, rent received by the Caregiver would not be social assistance exempted by paragraph 81(1)(*h*), but would simply be rental income received in the capacity of a landlord.
+
+### Caregiver's Principal Place of Residence
+
+The Cared-for individual must reside in the Caregiver's “principal place of residence”, or the Caregiver's “principal place of residence” must be maintained for use as the Cared-for individual's residence, during the period for which the payment is made.
+
+An individual's “principal place of residence” is the place where the individual regularly, normally or customarily lives. In our view, the place where the individual normally sleeps is a significant factor in making this determination. Other significant factors include the location of the individual's belongings, where the individual receives his or her mail, and where the individual's immediate family, including the individual's spouse or common-law partner and children, reside.
+
+The “principal place of residence” requirement is not met in situations where the Caregiver and the cared-for individual do not share common living areas in the residence. This includes the kitchen, living room, dining room, family room and entrances to the home. For example, where the Caregiver lives in one unit of a duplex and the Cared-for individual lives in the other unit, the principal place of residence requirement would not met.
+
+### Additional Assistance
+
+For assistance in determining if the exemption under paragraph 81(1)(*h*) applies to specific payments, contact the Client Services Division of your local Tax Services Office.
+
+**Footnotes**
+
+[Footnote 1] Addition made on May 16, 2006.
+
+[Footnote 2] Corrections and additions made on November 15, 2004.

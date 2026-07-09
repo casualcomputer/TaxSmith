@@ -1,0 +1,575 @@
+Title: Income Tax Folio S6-F4-C1, Testamentary Spouse or Common-law Partner Trusts
+Source: https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-6-trusts/folio-4-testamentary-trusts/income-tax-folio-s6-f4-c1-testamentary-spouse-common-law-partner-trusts.html
+Corpus path: corpus/cra/tax/technical-information/income-tax/current-publications/folios/series-6-trusts/folio-4-testamentary-trusts/income-tax-folio-s6-f4-c1-testamentary-spouse-common-law-partner-trusts.md
+Document type: technical_publication
+Last modified: 2023-03-17
+
+# Income Tax Folio S6-F4-C1, Testamentary Spouse or Common-law Partner Trusts
+
+**Series 6: Trusts**
+
+**Folio 4: Testamentary Trusts**
+
+**Chapter 1: Testamentary Spouse or Common-law Partner Trusts**
+
+## Summary
+
+When a taxpayer dies, there is a deemed disposition of capital property owned at the time of death. This deemed disposition results in tax consequences. However, these tax consequences can be deferred with a rollover if the requirements of subsection 70(6) are met. A key requirement of subsection 70(6) is that the property be transferred or distributed to the taxpayer’s spouse, common-law partner, or to a testamentary trust established in favour of the spouse or common-law partner.
+
+This Chapter discusses the conditions which must be met for a trust to qualify as a spouse or common-law partner trust described in subsection 70(6). It also describes situations under which such a trust becomes tainted. The Chapter discusses the tax implications of a tainted spouse trust and how, if at all, a tainted spouse trust can be untainted.
+
+Also discussed is a similar deferral, under subsection 70(6.1), of the tax consequences of the deemed payments out of a net income stabilization account (NISA) Fund No. 2 occurring as a result of the account holder’s death.
+
+Finally, the Chapter highlights some of the income tax implications of the subsequent death of the taxpayer’s spouse or common-law partner.
+
+The Canada Revenue Agency (CRA) issues income tax folios to provide technical interpretations and positions regarding certain provisions contained in income tax law. Due to their technical nature, folios are used primarily by tax specialists and other individuals who have an interest in tax matters. While each paragraph in a chapter of a folio may relate to provisions of the law in force at the time it was written (see the [Application](#toc9) section), the information provided is not a substitute for the law. The reader should, therefore, consider the Chapter’s information in light of the relevant provisions of the law in force for the particular tax year being considered.
+
+The CRA may have published additional guidance and detailed filing instructions on matters discussed in this Chapter. See the CRA [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html) web page for this information and other topics that may be of interest.
+
+## Table of contents
+
+- [Discussion and interpretation](#toc0)
+
+    - [Background to understanding subsection 70(6)](#toc1)
+
+    - [Establishing a testamentary spouse trust](#toc2)
+
+    - [Transfer or distribution as a consequence of death](#toc3)
+
+    - [Requirements regarding the income and capital of a spouse trust](#toc4)
+
+    - [Tainted spouse trust](#toc5)
+
+    - [Transfer or distribution of a net income stabilization account (NISA) to spouse trust](#toc6)
+
+    - [Canada-US Treaty](#toc7)
+
+    - [Death of the taxpayer’s spouse or common-law partner](#toc8)
+
+- [Application](#toc9)
+
+- [Reference](#toc10)
+
+- [History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-6-trusts/folio-4-testamentary-trusts/income-tax-folio-s6-f4-c1-testamentary-spouse-common-law-partner-trusts/chapter-history-s6-f4-c1-testamentary-spouse-common-law-partner-trusts.html)
+
+## Discussion and interpretation
+
+### Background to understanding subsection 70(6)
+
+**1.1** When a taxpayer dies, subsection 70(5) provides for a deemed disposition of each capital property of the taxpayer immediately before the death. This could result in taxable capital gains, allowable capital losses, recapture of capital cost allowance, or terminal losses. Under subsection 70(6), these tax implications can generally be deferred with a rollover if, as a consequence of the death, the capital property is transferred or distributed to the taxpayer’s spouse, common-law partner, or to a trust established in favour of the taxpayer’s spouse or common-law partner (a **spouse trust**).
+
+**1.2** For subsection 70(6) to apply, the capital property transferred or distributed to the spouse, common-law partner, or spouse trust must vest indefeasibly in the spouse, common-law partner, or spouse trust within 36 months of the taxpayer’s death or, upon written application to the Minister within that period, within such longer period as the Minister considers reasonable in the circumstances. In addition, by virtue of subsection 248(9.2), the property must vest indefeasibly in the spouse, common-law partner, or spouse trust before the spouse’s or common-law partner’s death.
+
+**1.3** The Act does not define the term **vested indefeasibly**. Accordingly, its meaning must be construed within the context of the provisions where it is used. In the legislative provisions referred to in this Chapter, vested indefeasibly refers to the unassailable right to ownership of a particular property that, in consequence of the death of the owner, has been transferred to a spouse trust of the deceased. It is a question of fact and law whether property has vested indefeasibly in a spouse trust.
+
+**1.4** When subsection 70(6) applies, the spouse, common-law partner, or spouse trust which acquires a capital property as a consequence of the taxpayer’s death generally assumes the taxpayer’s tax cost of the property. This amount is also the deceased taxpayer’s proceeds of disposition of the property, subject to paragraph 70(6)(d.1). Since the deceased taxpayer’s deemed proceeds of disposition are equal to the taxpayer’s tax cost of the property, there should be no taxable capital gains, allowable capital losses, recapture of capital cost allowance, or terminal losses realized at that time. This is how the tax-deferred rollover of capital property under subsection 70(6) is accomplished.
+
+**1.5** The deceased taxpayer’s legal representative may, however, elect under subsection 70(6.2) to have subsection 70(5), rather than subsection 70(6), apply to any capital property of the taxpayer. In these circumstances, the proceeds of disposition of the property to the deceased and its cost to the spouse, common-law partner, or spouse trust are each equal to the fair market value (FMV) of the property immediately before death. An election made under subsection 70(6.2) must be made in the deceased’s regular income tax return for the year of death. The election is made on a property-by-property basis and cannot be made on a fraction of a single property.
+
+**1.6** When a partnership interest of a deceased taxpayer is transferred or distributed to the taxpayer’s spouse, common-law partner, or to a spouse trust, as described in subsection 70(6), and the taxpayer’s adjusted cost base (ACB) of the interest was negative immediately before death, subsection 70(6) might not result in a complete tax-deferred transfer or distribution. For more information, see ¶6 to 8 of Interpretation Bulletin[IT‑278R2 (Archived), Death of a Partner or of a Retired Partner](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it278r2.html).
+
+**1.7** A spouse trust cannot be a **graduated rate estate**. Only an estate can be a graduated rate estate pursuant to the definition of a graduated rate estate in subsection 248(1). Note that for purposes of the Act, the term **estate** includes civil law successions (subsection 248(1)).
+
+**1.8** A spouse of a taxpayer means a person to whom the taxpayer is legally married. In addition, by virtue of subsection 252(3), a taxpayer’s **spouse** includes, for purposes of subsection 70(6) among others, another individual who is a party to a void or voidable marriage with the taxpayer.
+
+**1.9** The term **common-law partner** in respect of a taxpayer is defined in subsection 248(1) and at a particular time includes a person who at that time:
+
+- cohabits in a conjugal relationship with the taxpayer and has done so throughout the continuous 12‑month period that ends at that time; or
+
+- cohabits in a conjugal relationship with the taxpayer and is the parent of a child of the taxpayer for one of the following reasons:
+
+    - the person is the legal parent of the child; or
+
+    - the child is wholly dependent on the person for support and the person has, in law or in fact, the custody and control of the child (or did immediately before the child turned 19).
+
+**1.10** Under the definition of common-law partner, once individuals begin to cohabit in a conjugal relationship they are deemed to continue cohabiting in that conjugal relationship until they live separate and apart for a period of 90 consecutive days because of a breakdown of their conjugal relationship. After this 90-day period has passed, the effective day of the change of marital status is the date the individuals started living separate and apart.
+
+### Establishing a testamentary spouse trust
+
+**1.11** A spouse trust, as described in subsection 70(6), is a trust created by a taxpayer’s will. It must entitle the taxpayer’s spouse or common-law partner to receive all the income of the trust arising before the spouse’s or common-law partner’s death. Furthermore, no one but the spouse or common-law partner may receive or otherwise obtain the use of any of the trust’s income or capital before the spouse’s or common-law partner’s death (see ¶[1.19](#p1.19) to 1.34).
+
+**1.12** For a testamentary trust to qualify as a spouse trust under subsection 70(6), the deceased must have been resident in Canada immediately before death. Additionally, the trust created by the deceased’s will must be resident in Canada immediately after the time the property vested indefeasibly in the trust. For information regarding the determination of the residence status of a trust, see [Income Tax Folio S6-F1-C1, Residence of a Trust or Estate](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-6-trusts/series-6/income-tax-folio-s6-f1-c1-residence-a-trust-estate.html).
+
+**1.13** A legal representative might have the discretion as to which properties are to be transferred to the spouse trust with the will specifying only the total value of the property or portion of the estate to be so transferred. The will might also provide for the establishment of more than one trust (for example, a spouse trust and a family trust) and specify the total value of property to be transferred to each trust while leaving to the legal representative’s discretion the selection of specific property to be transferred to each trust. In other instances, the will might direct the establishment and terms of a spouse trust but leave total discretion to the legal representative to select both the total value of and property to be transferred to the trust. In the absence of any express directions in the will, the legal representative is governed by the law of the relevant jurisdiction in allocating the property of the estate to the various beneficiaries and trusts. These kinds of arrangements do not disqualify a trust otherwise qualifying as a spouse trust. However, consideration should be given to whether the inclusion of such directions in the will is valid under the relevant provincial law and that the spouse trust has been validly constituted.
+
+**1.14** In relation to the Province of Quebec, subsection 248(3) deems a usufruct, a right of use or habitation, or a substitution governed by the laws of the Province of Quebec to be a trust for purposes of the Act. Furthermore, where created by will, the usufruct, right of use or habitation, or substitution is deemed to be a trust created by will.
+
+**1.15** Paragraph 248(9.1)(b) applies to a trust established by a court order, in relation to the taxpayer’s estate, made under any law of a province that provides for the relief or support of dependants. Such a trust will be considered a trust created by the taxpayer’s will and thus may qualify as a spousal trust if other conditions are met. The same is not the case, for a variation of a trust made by agreement among the beneficiaries, even if made under variation of trusts legislation. A trust must qualify as a spouse trust under the original terms of the will and any changes to those terms by means of a variation obtained under variation of trusts legislation will not bring the trust within the wording of subsection 70(6).
+
+### Transfer or distribution as a consequence of death
+
+**1.16** By virtue of subsection 248(8), a property is considered to have been transferred or distributed to, or acquired by, a spouse, common-law partner, or spouse trust as a consequence of a taxpayer’s death when the transfer, distribution or acquisition was:
+
+- under, or as a consequence of, the terms of the will or other testamentary instrument of the taxpayer,
+
+- as a consequence of the law governing the intestacy of the taxpayer, or
+
+- as a consequence of a disclaimer, release or surrender (see ¶1.17) by a beneficiary under the will or other testamentary instrument or on the intestacy of the taxpayer.
+
+**1.17** Subsection 248(9) describes a disclaimer and release or surrender for the purposes of subsection 248(8). For more information, see ¶1.10 to 1.15 of [Income Tax Folio S6‑F2‑C1, Disposition of an Income Interest in a Trust](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-6-trusts/series-6-trusts/income-tax-folio-s6-f2-c1-disposition-income-interest-a-trust.html).
+
+**1.18** Subsection 70(6) applies on a property-by-property basis. The spouse, common-law partner, or spouse trust must receive the same property that, if subsection 70(5) applied, would have been deemed to have been disposed of by the deceased taxpayer immediately prior to their death, subject to paragraph 70(6)(d.1). Substituted property transferred to the spouse, common-law partner, or spouse trust would not qualify. For example, if a legal representative disposed of the assets of an estate of a deceased in order to transfer the proceeds of disposition (or property substituted for those proceeds) to a spouse trust created by the will of the deceased, subsection 70(6) would not apply.
+
+### Requirements regarding the income and capital of a spouse trust
+
+**1.19** As indicated in ¶[1.11](#p1.11), to qualify as a spouse trust, the spouse or common-law partner must be entitled to receive all the income of the trust arising before the spouse’s or common-law partner’s death. Further, no one but the spouse or common-law partner may receive or otherwise obtain the use of any of the income or capital of the trust before the spouse’s or common-law partner’s death.
+
+**1.20** For this purpose, subsection 108(3) provides that the income of the trust is its income calculated under the rules of trust law rather than under calculation provisions in the Act, minus certain dividend amounts. The dividends deducted from the trust’s income are those dividends:
+
+- that are, by reason of section 83, not included in computing the trust’s income for other purposes of the Act;
+
+- that are described in subsection 131(1); or
+
+- to which subsection 131(1) applies by reason of subsection 130(2).
+
+**1.21** Consequently, a trust will not be precluded from qualifying as a spouse trust because under its terms, such dividends are not paid or payable to the spouse or common-law partner.
+
+**1.22** Also, amounts such as taxable capital gains (that are not in the nature of income under trust rules) which were neither paid nor payable to the spouse or common-law partner under the terms of the trust, nor included in the spouse’s or common-law partner’s income under a preferred beneficiary election, are necessarily taxed in the trust. This is because during the spouse’s or common-law partner’s lifetime no one but the spouse or common-law partner may receive anything out of a spouse trust or make a preferred beneficiary election in connection with the trust’s income.
+
+**1.23** A discretionary power granted to the trustee to distinguish income and capital items cannot change the nature of an amount of income or deductible expense into a capital receipt or expenditure and vice versa. The CRA does not accept that a trustee can, at their discretion, determine what is income and what is capital.
+
+**1.24** Under subsection 108(4), a trust is not prevented from qualifying as a spouse trust solely because it is charged with the payment of:
+
+- any estate, legacy, succession, or inheritance duty payable, in consequence of the death of the taxpayer, or a spouse or common-law partner of the taxpayer who is a beneficiary under the trust, in respect of any property of, or interest in, the trust; or
+
+- any income or profits tax on any of its income computed in accordance with the Act.
+
+**1.25** Additionally, for tax years beginning after 2016, a trust is not prevented from qualifying as a spouse trust solely because the deceased’s child, spouse or common-law partner, or former spouse or common-law partner, inhabits a housing unit that is, or is in respect of, property that is owned at that time by the trust. This exception is applicable provided that the housing unit is a property described in the definition of “principal residence” in section 54 in respect of the trust. For more information on what constitutes a housing unit see ¶2.7 of [Income Tax Folio S1-F3-C2, Principal Residence](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-3-family-unit-issues/income-tax-folio-s1-f3-c2-principal-residence.html).
+
+**1.26** The mere existence of a power to encroach on the capital or income of the trust for the benefit of persons other than the spouse or common-law partner, prior to the spouse’s or common-law partner’s death, is sufficient to disqualify a trust from being a spouse trust. Disqualification would also occur if the trustee of a trust were given discretion to allocate the trust’s income and/or capital among members of the deceased taxpayer’s family during the life of the spouse or common-law partner.
+
+**1.27** It is the CRA’s view that the phrase “entitled to receive all of the income of the trust” in subparagraph 70(6)(b)(i) means to have a legal right to enforce payment of that income. In order for a spouse or common-law partner to have a legal right to enforce payment of the income of the trust, any discretion in respect of the distribution of all or part of the income of the trust must be solely in the hands of the spouse or common-law partner.
+
+**1.28** Even if the terms of the trust make it clear that the spouse or common-law partner is to receive all income of the trust, it may happen that the spouse or common-law partner indicates to the trustee in writing that they do not wish to receive such income for a particular year. The fact that such income is retained by the trust, at the spouse’s or common-law partner’s direction, and added to the capital of the trust will not, by itself, disqualify the trust from being a spouse trust.
+
+**1.29** In addition, notwithstanding any direction by the spouse for a particular tax year to retain the income in the trust, the trust income for that year would still become payable to the spouse within the meaning of subsection 104(24). Consequently, such income would be included in computing the income of the spouse for that year regardless of whether the income was paid to the spouse, unless the trust made an election under subsection 104(13.1) for the year in question (subject to the limitation in subsection 104(13.3)).
+
+**1.30** The terms of the trust might permit the trustee to restrict the payment to the spouse or common-law partner of any portion of the trust’s income. If so, it is the CRA’s view that the spouse or common-law partner is not entitled to receive all the income of the trust. This means that the trust does not qualify as a spouse trust.
+
+**1.31** A trust under which the income beneficiary’s entitlement to the income of the trust would be limited to a certain percentage of the value of the trust property could not qualify as a spouse trust since the income beneficiary would not be entitled to receive all of the income of the trust.
+
+**1.32** In interpreting the requirement that the spouse or common-law partner must be entitled to receive all of the income of the trust that arises before their death, the doctrine of constructive receipt is applied. Consider a situation in which there is a payment of trust income according to the will (or a provision in the will for the payment) to a person other than the spouse or common-law partner, on the condition that it be used solely for the benefit of the spouse or common-law partner. Under the doctrine of constructive receipt, this does not disqualify an otherwise qualifying spouse trust.
+
+**1.33** The terms of the trust might permit the trustee to fund a life insurance policy held by the spouse trust on the life of the spouse or common-law partner out of the trust capital or trust income. If so, this would be a situation in which a person other than the spouse or common-law partner may obtain the use of trust capital or trust income contrary to subparagraph 70(6)(b)(ii). This is because for the period covered, the premium payment ensures that the policy beneficiary maintains a right to receive insurance proceeds. Since the policy beneficiary will never be the spouse or common‑law partner, it is the CRA’s view that the trust would not satisfy the conditions of subparagraph 70(6)(b)(ii).
+
+**1.34** Subparagraph 70(6)(b)(ii) specifies that before the death of the spouse or common‑law partner, no other person may receive or otherwise obtain the use of any of the income or capital of the spouse trust. The renting of real estate at market value or the lending of money on commercial terms (including market rates of interest, appropriate securities, and a reasonable repayment schedule), does not generally mean that the person renting the real estate or borrowing the money has received or obtained the use of that property as the expression is used in this requirement.
+
+### Tainted spouse trust
+
+**1.35** A trust created by a taxpayer’s will in favour of a spouse or common-law partner that does not meet the requirements of a spouse trust set out in subsection 70(6) is commonly referred to as a **tainted spouse trust**. One common cause of a tainted spouse trust is a direction in the will to pay out of the trust various debts, obligations, or death duties, other than those permitted by subsection 108(4), which are described in ¶[1.24](#p1.24). A tainted spouse trust would not be eligible for the tax-deferred rollover.
+
+**1.36** Subsection 70(7) provides [rules](#p1.41) for some types of tainted spouse trusts to qualify as spouse trusts, thus permitting the rollover provided by subsection 70(6). This is possible when the debts, obligations, and death duties referred to in ¶1.35 are testamentary debts and the trust otherwise qualifies as a spouse trust.
+
+**1.37** The term **testamentary debt**, which is defined in paragraph 70(8)(c), means:
+
+- any debt of the taxpayer, or any other obligation of the taxpayer to pay an amount, that was outstanding immediately before their death; and
+
+- any amount payable by the estate in consequence of the taxpayer’s death, other than any amount payable to any person as a beneficiary of the estate.
+
+The amounts above include income or profits tax payable by or for the taxpayer for the tax year in which the taxpayer died and for any previous tax year. They also include any estate, legacy, succession, or inheritance duty payable in consequence of the taxpayer’s death.
+
+**1.38** Testamentary debts also include funeral expenses. They can also include testamentary expenses such as compensation paid to representatives for carrying out those duties which are normally exercised by an executor or administrator. These expenses would normally be permissible up to the point the estate properties are transferred or distributed to the beneficiaries, to the trustee of the tainted spouse trust, or to any other trust arising on death.
+
+**1.39** Not all tainted spouse trusts can be remedied by the rules provided in subsection 70(7). For example, a spouse trust cannot be untainted if it is tainted because certain types of obligations are to be met out of its property before the death of the spouse or common-law partner. Examples of such obligations include:
+
+- a contingent liability to make good any deficiency that may arise in another trust created under the same will;
+
+- a liability for the payment of trustee fees applicable to other trusts under the will; and
+
+- an obligation to pay a bequest or legacy to another beneficiary out of the property of the estate that is held by the spouse trust.
+
+**1.40** However, it should be noted that the trust is not tainted in the manner described in ¶1.39 if the obligation to be met is:
+
+- a testamentary debt (see ¶1.37);
+
+- a debt or obligation to the spouse or common-law partner;
+
+- a debt or obligation incurred for the benefit of the spouse or common-law partner; or
+
+- an obligation to pay fees to the trustee for the administration of the spouse trust.
+
+#### How to untaint a spouse trust
+
+**1.41** In general terms, if a spouse trust is one that can be untainted, subsection 70(7) provides the rules to do so. Subsection 70(7) allows a tainted spouse trust to qualify as a spouse trust that is eligible for the rollover in subsection 70(6). The process for doing so is outlined in the following series of steps.
+
+**1.42** The first step is for the legal representative to total all testamentary debts of the trust.
+
+**1.43** The second step is to deduct the following amounts from the testamentary debts:
+
+- any estate, legacy, succession or inheritance duty payable, in consequence of the taxpayer’s death, for any property of the trust, or for any interest in the trust (note that these amounts do not taint a spouse trust as explained in ¶[1.24](#p1.24)), and
+
+- any debt secured by a mortgage or hypothec on property owned by the taxpayer immediately before the taxpayer’s death.
+
+The remaining debts are referred to in paragraph 70(8)(b) as **non-qualifying debts**.
+
+**1.44** For the third step, in the deceased taxpayer’s regular income tax return for the year of death, the taxpayer’s legal representative must elect to have the trust treated as a spouse trust. A reference to the regular income tax return for the year of death means a return not filed under subsection 70(2), 104(23) or 150(4), or paragraph 128(2)(e).
+
+**1.45** For the fourth step, in the deceased taxpayer’s regular income tax return for the year of death, the legal representative must also list one or more properties of the trust (other than a NISA) having a total FMV immediately after the taxpayer’s death at least equal to the total of the non-qualifying debts. This is referred to as **listed property**. The listed property may include money and if it alone is sufficient to equal the non-qualifying debts, no other properties need be listed.
+
+**1.46** For purposes of the rules in subsection 70(7), paragraph 70(8)(a) defines the FMV at any time of a property as the amount, if any, by which its FMV otherwise determined exceeds the amount outstanding of any debt secured by a mortgage or hypothec on the property.
+
+**1.47** Once the legal representative has filed the return, including the election and confirmation of the listed property, the trust is then untainted and is deemed to be a spouse trust. In accordance with subsections 70(5) and 70(7), the listed properties are deemed to have been disposed of at FMV immediately before the taxpayer’s death. The listed properties (excluding the designated property discussed in ¶1.48) are deemed to have been acquired by the spouse trust at this FMV. Any gains, income, or losses arising from such deemed dispositions are included in computing the deceased’s income. The other capital properties transferred to the spouse trust qualify for the rollover provided in subsection 70(6).
+
+**1.48** When the FMV of all listed property exceeds the total non-qualifying debts, the excess is referred to as the **listed value excess**. In this case, for the fifth step, the taxpayer’s legal representative may designate one listed property (other than money) that is capital property other than depreciable property, in the taxpayer’s return as the **designated property**. The sixth step is to determine the capital gain or loss on the listed property, including the designated property. The deceased taxpayer’s capital gain or loss from the deemed disposition of the designated property under subsection 70(5) will be reduced as a result of the calculation provided under subparagraph 70(7)(b)(iii). The seventh step is to determine the cost to the trust of the listed property, including the designated property. The cost to the trust of the designated property is its adjusted cost base to the taxpayer immediately before the death plus the capital gain (or minus the capital loss) as determined by subparagraph 70(7)(b)(iii).
+
+**1.49** Under subparagraph 70(7)(b)(iii), the capital gain or loss to the deceased taxpayer from the deemed disposition of the designated property is determined as follows:
+
+**A x (B - C) ÷ B**
+
+**where:**
+
+**A** = the capital gain or loss otherwise determined
+
+**B** = the FMV of the one designated property immediately after death
+
+**C** = listed value excess
+
+The purpose of Example 1 is to illustrate how a tainted spouse trust may be untainted using the rules provided in subsection 70(7). The example is meant to address the following questions:
+
+- What must the legal representative do to untaint the trust?
+
+- What are the tax implications for the deceased taxpayer?
+
+- What are the tax implications for the spouse trust?
+
+Consider a situation involving the tainted testamentary spouse trust of a deceased taxpayer. The deceased taxpayer owned various assets including a share, vacant land, and an apartment building. The following facts are applicable immediately before the taxpayer’s death:
+
+| Description | Amount |
+
+| --- | --- |
+
+| FMV of share owned | $90,000 |
+
+| ACB of share owned | $60,000 |
+
+| FMV of vacant land owned | $410,000 |
+
+| ACB of vacant land owned | $300,000 |
+
+| Mortgage on vacant land | $100,000 |
+
+| FMV of apartment building | $4,000,000 |
+
+| ACB of apartment building | $3,000,000 |
+
+| UCC of apartment building | $2,000,000 |
+
+| Mortgage on apartment building | $800,000 |
+
+| Business debt of the deceased | $250,000 |
+
+| Income tax owing by the deceased | $100,000 |
+
+| Testamentary and funeral expenses | $10,000 |
+
+**Step 1**: Determine the total testamentary debts.
+
+| Description | Amount |
+
+| --- | --- |
+
+| Mortgage on vacant land | $100,000 |
+
+| Mortgage on apartment building | $800,000 |
+
+| Business debt of the deceased | $250,000 |
+
+| Income tax owing by the deceased | $100,000 |
+
+| Testamentary and funeral expenses | $10,000 |
+
+| **Total testamentary debts** | **$1,260,000** |
+
+**Step 2**: Determine the non-qualifying debts.
+
+Non-qualifying debts = total testamentary debts of the trust minus any amounts described in ¶[1.43](#p1.43).
+
+In this example, the mortgage on the apartment building and the mortgage on the vacant land are amounts described in ¶1.43.
+
+Non-qualifying debts = total testamentary debts – (amounts described in ¶1.43)
+
+= $1,260,000 – ($800,000 + $100,000)
+
+= $360,000
+
+**Step 3**: Determine the listed property.
+
+In the deceased taxpayer’s regular income tax return for the year of death, the legal representative then makes the election (described in ¶[1.44](#p1.44)) to have the trust treated as a spouse trust. The representative also lists properties of the tainted spouse trust that have a total FMV immediately after death at least equal to the non-qualifying debts identified in Step 2. This means the legal representative must list properties whose FMV total at least $360,000. The legal representative chooses the following:
+
+| Description | FMV |
+
+| --- | --- |
+
+| Share | $90,000 |
+
+| Vacant land ($410,000 FMV minus $100,000 mortgage) | $310,000 |
+
+| **Total net FMV of the listed properties** | **$400,000** |
+
+**Step 4**: Determine the capital gain or loss on the deemed disposition of the listed property.
+
+The deemed disposition rules in subsection 70(5) apply to the listed property.
+
+The determination of the capital gain or loss is made before any reduction under subparagraph 70(7)(b)(iii).
+
+| Description | Calculation FMV minus ACB | Capital gain or capital loss |
+
+| --- | --- | --- |
+
+| Share | $90,000- $60,000 | $30,000 |
+
+| Vacant land | $410,000- $300,000 | $110,000 |
+
+The total capital gain on the deemed disposition of the listed property before any reduction under subparagraph 70(7)(b)(iii) is therefore **$140,000**.
+
+**Step 5**: Determine the listed value excess (if any) and designate one listed property.
+
+The listed value excess is calculated as:
+
+FMV listed property - total non-qualifying debt
+
+= $90,000 FMV share + $310,000 FMV vacant land - $360,000
+
+= $400,000 - $360,000
+
+= $40,000
+
+Because there is a listed value excess the legal representative can designate one of the properties listed. The legal representative designates the share.
+
+**Step 6**: Determine the capital gain or loss on the listed property.
+
+**Share** (the designated property)
+
+The capital gain on the share resulting from the deemed disposition under subsection 70(5) is reduced by the calculation in subparagraph 70(7)(b)(iii) (see ¶[1.49](#p1.49)) since it is the designated property.
+
+Pursuant to subparagraph 70(7)(b)(iii), the capital gain on the share is calculated as follows:
+
+**A x (B - C) ÷ B**
+
+where:
+
+**A** = the capital gain or loss otherwise determined
+
+**B** = the FMV of the one designated property immediately after death
+
+**C** = listed value excess
+
+Capital gain on the share = $30,000 x ($90,000 - $40,000) ÷ $90,000
+
+= $16,667
+
+**Vacant Land**
+
+The capital gain on the vacant land resulting from the deemed disposition under subsection 70(5) is calculated as follows:
+
+**Capital gain = FMV minus ACB**
+
+= $410,000 - $300,000
+
+= $110,000
+
+Therefore, the total capital gain to be included in the deceased’s income is $126,667 ($16,667 + $110,000).
+
+**Step 7**: Determine the cost to the trust of the listed property.
+
+The cost of the listed properties to the spouse trust is:
+
+| Description | Cost |
+
+| --- | --- |
+
+| Vacant Land | $410,000 |
+
+| Share | $76,667 |
+
+By virtue of paragraph 70(5)(b), the cost to the trust of the vacant land is equal to its FMV immediately before the taxpayer’s death.
+
+The cost to the trust of the share is calculated as follows:
+
+Where the taxpayer has a capital gain from the deemed disposition of the designated property, the total of:
+
+**A + B**
+
+**A** = the ACB of the designated property
+
+**B** = the amount determined under subparagraph 70(7)(b)(iii) to be the deceased’s capital gain from the disposition of the designated property.
+
+Cost to the trust of the share = $60,000 + $16,667
+
+= $76,667
+
+**Conclusion**
+
+As a consequence of the rules outlined in subsection 70(7) to untaint a spouse trust:
+
+- The listed properties (which offset the non-qualifying debts), excluding the designated property, are deemed to be disposed of by the deceased taxpayer and acquired by the trust at their FMV.
+
+- Any resulting capital gains or losses are realized in the deceased taxpayer’s income tax return for the year of death.
+
+- The FMV of the listed property exceeds the total non-qualifying debts (i.e. there is a listed value excess). The legal representative has identified the share as the designated property. As such, under the calculation in subparagraph 70(7)(b)(iii), the deceased taxpayer is deemed to realize only a portion of the accrued capital gain on the share.
+
+- The cost to the trust of the designated property is its ACB to the taxpayer immediately before the death plus the capital gain (or minus the capital loss) as determined by subparagraph 70(7)(b)(iii).
+
+- All of the remaining property transferred to the trust would qualify for the rollover.
+
+Assume the same facts as described in Example 1. However, assume that the ACB of the share is $160,000 and that the deceased taxpayer’s capital loss on the deemed disposition of the share before any reduction under subparagraph 70(7)(b)(iii) is $70,000.
+
+Steps 1 through 4 have not been repeated since the only differences between the examples are the ACB of the share and the deceased taxpayer’s capital loss on the deemed disposition of the share before any reduction under subparagraph 70(7)(b)(iii).
+
+**Step 5**: Determine the listed value excess (if any) and designate one listed property.
+
+The listed value excess is calculated as:
+
+FMV listed property - total non-qualifying debt
+
+= $90,000 FMV share + $310,000 FMV vacant land - $360,000
+
+= $400,000 - $360,000
+
+= $40,000
+
+Because there is a listed value excess the legal representative can designate one of the properties listed. The legal representative designates the share.
+
+**Step 6**: Determine the capital gain or loss on the listed property.
+
+**Share** (the designated property)
+
+The capital loss on the share is reduced by the calculation in subparagraph 70(7)(b)(iii) (see ¶[1.49](#p1.49)) since it is the designated property.
+
+Pursuant to subparagraph 70(7)(b)(iii), the capital loss on the share is calculated as follows:
+
+**A x (B - C) ÷ B**
+
+where:
+
+**A** = the capital gain or loss otherwise determined
+
+**B** = the FMV of the one designated property immediately after death
+
+**C** = listed value excess
+
+Capital loss on the share = $70,000 x ($90,000 - $40,000) ÷ $90,000
+
+= $38,889
+
+**Vacant Land**
+
+The capital gain on the vacant land resulting from the deemed disposition under subsection 70(5) is calculated as follows:
+
+**Capital gain = FMV minus ACB**
+
+= $410,000 - $300,000
+
+= $110,000
+
+Therefore, the net capital gain to be included in the deceased’s income is $71,111 ($110,000 - $38,889).
+
+**Step 7**: Determine the cost to the trust of the listed property.
+
+The cost of the two properties to the spouse trust is:
+
+| Description | Cost |
+
+| --- | --- |
+
+| Vacant land | $410,000 |
+
+| Share | $121,111 |
+
+The cost to the trust of the vacant land is equal to its fair market value immediately before the death by virtue of paragraph 70(5)(b).
+
+The cost to the trust of the share is calculated as follows:
+
+Where the taxpayer has a capital loss from the deemed disposition of the designated property, the amount by which:
+
+**A - B**
+
+**A** = the ACB of the designated property
+
+**B** = the amount determined under subparagraph 70(7)(b)(iii) to be the deceased’s capital loss from the disposition of the designated property.
+
+Cost to the trust of the share = $160,000 - $38,889
+
+= $121,111.
+
+**1.50** Where non-qualifying debts include income tax payable by the deceased’s estate for the income tax return for the year of death, the amount payable is calculated after giving effect to the provisions of paragraph 70(7)(b). It is therefore necessary to consider the effect that the listing of a particular property will have on the amount of tax payable. The adjustment of a capital gain or loss on a designated property pursuant to subparagraph 70(7)(b)(iii) may also have a significant effect in some circumstances. When the amount of the tax liability is a critical factor in the selection of properties to be listed (or the property to be designated), more than one notional tax calculation may be prudent.
+
+**1.51** The legal representative is not obliged to dispose of the listed properties of the trust to obtain the funds to pay the non-qualifying debts. They may be paid from any available source of funds.
+
+**1.52** The legal representative is responsible for calculating the non-qualifying debts and the FMV of listed properties as accurately as possible from the facts available. Despite the reasonable efforts of the legal representative, these calculations might subsequently be determined to be incorrect. If the value of the listed properties is actually less than the total of the non-qualifying debts, the CRA will generally permit additional properties to be listed at that later time in order that the rollover provisions of subsection 70(6) may still apply to the properties of the trust that are not listed.
+
+**1.53** It is arguable that a trust in favour of a spouse or common-law partner created under a taxpayer’s will out of the residue of their estate is tainted by the distributions and payments necessary to establish the trust corpus. Under this interpretation, it is necessary to follow the procedures set out in subsection 70(7) when it is intended that the trust qualify as a spouse trust under subsection 70(6). Another view is that subsection 70(6) applies to such of the original properties of the estate as are retained to form a part of the trust corpus without the necessity of following the procedures described in subsection 70(7).
+
+**1.54** Either interpretation described in ¶1.53 is acceptable. The result is that a trustee has the following options available when an otherwise qualifying spouse trust is created out of the residue of an estate:
+
+1. The trustee may choose to have the provisions of subsection 70(5) apply to all of the capital properties of the estate.
+
+2. By following the procedures described in subsection 70(7), the rules in subsection 70(6) will apply to those capital properties of the spouse trust that are not listed and the rules in subsection 70(5) will apply to listed properties of the estate, subject to adjustment for any listed value excess (see ¶[1.49](#p1.49)).
+
+3. The trustee may choose to have subsection 70(5) apply to all of the capital properties of the estate that are distributed or otherwise disposed of before the corpus of the spouse trust is established. Subsection 70(6) would then apply to such of the original capital properties of the estate as are retained as the property of the trust. The fact that, prior to the indefeasible vesting of the properties in the trust, income derived from these properties is used by the estate to pay specific bequests, legacies, or testamentary debts generally does not preclude the trust from qualifying as a spouse trust.
+
+The right to [elect under subsection 70(6.2)](#p1.5) to have subsection 70(5) apply is unaffected by the adoption of either the option described in ¶1.54(b) or the option described in ¶1.54(c).
+
+**1.55** Listed properties are treated differently for tax purposes than other properties acquired by a spouse trust. Nonetheless, as properties of a spouse trust, listed properties are subject to the special rules relating to spouse trusts found elsewhere in the Act. For example, the deemed disposition of each property of the spouse trust under paragraph 104(4)(a) upon the death of the spouse or common-law partner applies to listed properties as well.
+
+#### Filing deadlines for a spouse trust
+
+**1.56** Where a tainted spouse trust capable of being untainted by subsection 70(7) exists, the legal representative has up to 18 months from the date of death to file the deceased’s final income tax return. This is the case whether or not such a trust is successfully untainted under paragraph 70(7)(b). It is also the case regardless of whether the will simultaneously creates other trusts in respect of which subsection 70(7) is irrelevant. This extended time for filing also applies to special returns that may be filed pursuant to subsection 150(4) and paragraph 104(23)(d).
+
+**1.57** Although the income tax return for the year of death may be filed within 18 months of death whenever a trust is capable of being untainted by subsection 70(7), interest at the prescribed rate will be assessed on any unpaid balance from the later of six months after death and April 30 of the year following death.
+
+**1.58** The due date for making a rights and things election under subsection 70(2) is indirectly extended if the extended filing date referred to in ¶1.56 delays the mailing of a notice of assessment for the year of death. However, the basic timing rule for filing the election remains unchanged. It must be filed by the later of one year after death and 90 days after the mailing of any notice of assessment for the year of death.
+
+**1.59** If death occurs on or before April 30 in a tax year, the deceased’s legal representative has up to six months from the date of death to file the deceased’s income tax return for the immediately preceding tax year. Otherwise, there are no extensions in the filing requirements for income tax returns of tax years prior to the year of death. For more information on the due date for filing a deceased person’s income tax return, see [Guide T4011, Preparing Returns for Deceased Persons](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4011.html).
+
+### Transfer or distribution of a net income stabilization account (NISA) to spouse trust
+
+**1.60** The income which would otherwise arise as a result of a taxpayer’s death, by virtue of the deemed payment out of the taxpayer’s NISA Fund No. 2 under subsection 70(5.4) can be deferred. The deferral is available if, on or after and as a consequence of death, the taxpayer’s NISA is transferred or distributed to his or her spouse, common-law partner, or to a spouse trust and the requirements of subsection 70(6.1) are met. The requirements applicable to a spouse trust in subsection 70(6.1) are the same as those applicable to a spouse trust in subsection 70(6), with the exception that subsection 70(6.1) does not contain any residency requirements such as those described in ¶[1.12](#p1.12).
+
+**1.61** Alternatively, the deceased taxpayer’s legal representative may file an election under subsection 70(6.2) to have subsection 70(5.4) apply to the deceased’s NISA Fund No. 2. If subsection 70(5.4) applies, all amounts in the deceased’s NISA Fund No. 2 will be deemed to have been paid out to the deceased immediately before death. Such amounts will generally be required, under subsection 12(10.2), to be included in computing the deceased’s income for the year of death. The election under subsection 70(6.2) must be made in the regular income tax return for the year of death.
+
+**1.62** When a trust, which would otherwise qualify as a spouse trust under subsection 70(6.1), is tainted as a result of the payment (or provision for payment) of a [testamentary debt](#p1.37), subsection 70(7) may be used to untaint the trust. This would permit the rollover provided in subsection 70(6.1). However, as indicated in ¶[1.45](#p1.45), a NISA cannot be a listed property when untainting the trust.
+
+### Canada-US Treaty
+
+**1.63** As discussed in ¶1.12, for the rollover treatment in subsection 70(6) to apply on the transfer or distribution of property to a spouse trust , the taxpayer must be resident in Canada immediately before death. Furthermore, the trust must be resident in Canada immediately after the time the property vests in the trust. Subsection 70(6) may also apply on the death of a taxpayer resident in the United States. This is because paragraph 5 of Article XXIX B of the Canada‑US Treaty (the Treaty), deems the taxpayer to have been resident in Canada immediately before the taxpayer’s death. This would be relevant where the deceased individual held taxable Canadian property that was not otherwise exempt under the Treaty at the time of death.
+
+**1.64** Where a trust does not meet the requirements of subsection 70(6) because it does not reside in Canada, paragraph 5 of Article XXIX B of the Treaty allows the trust to submit a request to the Canadian Competent Authority. Upon receiving the request, the Canadian Competent Authority may enter into an agreement with the trust that the trust will be treated as being resident in Canada for the purposes of the Act for an agreed period of time and with respect to certain property. For more information, contact the [Competent Authority Services](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/competent-authority-services.html).
+
+### Death of the taxpayer’s spouse or common-law partner
+
+**1.65** For 2016 and subsequent tax years, if the individual whose death is the death determined in respect of a particular trust under paragraph 104(4)(a), (a.1) or (a.4), paragraph 104(13.4)(a) deems the trust’s tax year to end at the end of the day of the death. A new tax year of the trust is deemed to begin immediately after that day.
+
+**1.66** At the end of the day on which the spouse or common-law partner dies, a spouse trust is deemed to have disposed of each property of the trust (other than exempt property) that was capital property (other than depreciable property) or land included in the inventory of a business of the trust. The disposition is deemed to be for proceeds equal to the property’s FMV at the end of that day (determined with reference to subsection 70(5.3)). The spouse trust is deemed to have reacquired the property immediately after that day for an amount equal to that FMV. Subsections 104(5) and (5.2) apply in a similar manner to depreciable property and resource property (other than exempt property).
+
+**1.67** Exempt property is defined as property the income or gain from a taxpayer’s disposition of which is exempt from Canadian taxation for the taxpayer either because the taxpayer is not resident in Canada or because of a tax treaty.
+
+**1.68** It is the terms of the trust upon creation that determine the application of subsection 104(4), even if the terms of the trust are varied by agreement, legal action, or breach. For example, the wording of subparagraph 104(4)(a)(i) clearly provides for a deemed disposition date that is based on the terms of the trust at the time it was created.
+
+**1.69** Paragraph 104(13.4)(b.1), permits the trust and the legal representative administering the deceased beneficiary’s graduated rate estate to file a joint election to report all of the trust’s income arising from the application of subsections 104(4) to (5.2) or subsection 12(10.2) on the deceased beneficiary’s final T1 Return. The joint election is possible if all of the following conditions are met:
+
+- Immediately before death, the beneficiary was a resident of Canada.
+
+- The trust is, immediately before the death, a testamentary trust that is a post‑1971 spousal or common-law partner trust and was created by the will of a taxpayer who died before 2017.
+
+- A copy of the joint election is filed with both the final T1 Return of the beneficiary and the T3 Trust Income Tax and Information Return for the tax year of the trust to which the deemed year end applies.
+
+Where the election is made, the trust may deduct the corresponding amount from its income. For information on filing a deceased person’s income tax return, see [Prepare tax returns for someone who died](https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died/prepare-returns.html).
+
+## Application
+
+This updated Chapter, which may be referenced as S6-F4-C1, is effective March 17, 2023.
+
+When it was first published on February 3, 2022, this Chapter replaced and cancelled Interpretation Bulletin IT-305R4, Testamentary Spouse Trust.
+
+Any technical updates from the cancelled interpretation bulletin can be viewed in the [Chapter History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-6-trusts/folio-4-testamentary-trusts/income-tax-folio-s6-f4-c1-testamentary-spouse-common-law-partner-trusts/chapter-history-s6-f4-c1-testamentary-spouse-common-law-partner-trusts.html) page.
+
+Except as otherwise noted, all statutory references herein are references to the provisions of the Income Tax Act, R.S.C., 1985, c.1 (5th Supp.), as amended, all references to a Regulation are to the Income Tax Regulations, C.R.C., c. 945, as amended, and all references to the **Canada-U.S. Treaty** are to the [Canada-United States Tax Convention (1980)](https://www.canada.ca/en/department-finance/programs/tax-policy/tax-treaties/country/united-states-america-convention-consolidated-1980-1983-1984-1995-1997-2007.html).
+
+Links to jurisprudence are provided through CanLII.
+
+Income tax folios are available in electronic format only.
+
+## Reference
+
+Section 54, and 83, subsection 12(10.2), 70(2), 70(5), 70(5.3), 70(5.4), 70(6), 70(6.1), 70(6.2), 70(7), 104(4), 104(5), 104(5.2), 104(13.1), 104(13.3), 104(13.4), 104(23), 104(24), 108(1), 108(3), 108(4), 130(2), 131(1), 150(4), definition of common-law partner and graduated rate estate in subsection 248(1), 248(3), 248(8), 248(9), 248(9.1), 248(9.2), 252(3), paragraph 70(6)(d.1), 70(8)(a), 70(8)(c), 128(2)(e) and paragraph 5 of Article XXIXB of the Convention between Canada and the United States of America with Respect to Taxes on Income and on Capital.

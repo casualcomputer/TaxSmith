@@ -1,0 +1,66 @@
+---
+title: "FCN11 Marketable Natural Gas and Non-Marketable Natural Gas Distributed Through Pipelines"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn11/marketable-natural-gas-non-marketable-natural-gas-distributed-pipelines.html
+last_modified: 2019-12-16
+---
+# FCN11 Marketable Natural Gas and Non-Marketable Natural Gas Distributed Through Pipelines
+
+November 2019
+
+The purpose of this notice is to explain the Canada Revenue Agency’s administrative position regarding the application of the Greenhouse Gas Pollution Pricing Act to the delivery of marketable natural gas and non-marketable natural gas distributed through a pipeline in a listed province.
+
+In this publication, all legislative references to the Act are to the Greenhouse Gas Pollution Pricing Act, unless otherwise specified, and [marketable natural gas](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) and [non-marketable natural gas](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) are referred to collectively as natural gas.
+
+Generally, a fuel charge applies to fuel that is delivered by a registered distributor in a [listed province](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) to a person that does not provide an exemption certificate in accordance with the Act.
+
+Section 3 of the Act defines the term **delivery** as “in respect of fuel or in respect of a substance, material or thing […], making the fuel, substance, material or thing available.” Notwithstanding the definition under section 3, for purposes of the Act, the Canada Revenue Agency (CRA) will administratively consider “delivery” of natural gas distributed through a pipeline to only include the physical delivery of natural gas through a pipeline. When a physical delivery is made by a registered distributor through a pipeline to the final customer, the fuel charge will apply where an exemption certificate is not provided.
+
+Natural gas producers, pipeline operators or owners that physically deliver natural gas through a pipeline and/or, in accordance with section 14 of the Act, meter the final customer for purposes of billing, will be the persons responsible for registering as distributors, as well as reporting and paying the fuel charge, when required, under the Act. Pipeline operators or owners may include operators or owners of distribution systems, transmission systems or gathering systems. The fuel charge generally applies in circumstances where natural gas is physically delivered to a final customer or where natural gas is removed from the pipeline, taken for use, or burned or flared.
+
+A number of transactions for natural gas occur in a natural gas trading hub, a central location where natural gas is bought and sold, or is traded. The traders or marketers transacting at a natural gas hub generally do not take physical possession of the natural gas or do not physically deliver it to another person or to a final customer.
+
+The following persons are not considered to physically deliver the natural gas and will generally not be required to register as distributors, even if they purchase and/or sell natural gas:
+
+- persons who do not physically deliver natural gas, such as traders or marketers;
+
+- persons who never take physical possession of the natural gas for use and/or never remove it from a pipeline; or
+
+- natural gas users who purchase natural gas and contract separately for the physical delivery of the fuel to their own facilities.
+
+The administrative position adopted by the CRA does not remove any obligations the persons may have under the Act for fuel-related business activities other than those related to natural gas distributed through a pipeline, in a listed province, as described in this publication.
+
+For more information on registration, go to [Fuel Charge Notice FCN1, Registration Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn1.html). For information on general obligations for distributors, go to [Fuel Charge Notice FCN2, Distributors Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn2.html).
+
+The following scenarios provide information on registration and the obligation to report and pay the fuel charge to the CRA, when necessary, for the physical delivery of the natural gas delivered through a pipeline. Conditions for the use of exemption certificates continue to apply. As such, a physical delivery that is made where an exemption certificate is not provided will be subject to the fuel charge.
+
+In some cases, natural gas is traded at a natural gas hub by marketers, traders or other stakeholders, and the natural gas is not removed from the pipeline but continues in the distribution system to another distributor or the final customer.
+
+In this scenario, transactions in a natural gas trading hub, including trades on an exchange platform will not be considered to be physical deliveries of the natural gas, and those persons who perform only these activities will not be required to register for the purpose of the fuel charge and will have no reporting requirements.
+
+In some cases, a large volume customer, who is the final customer, may enter into an agreement with suppliers to purchase natural gas at a natural gas trading hub in a listed province and, in a separate transaction, will arrange for the physical delivery of the fuel to the trading hub and eventually to its facilities, through a distribution system.
+
+In this scenario, the owner or operator of the distribution system that was engaged by the customer to physically deliver the natural gas either to a specific hub in a listed province or to the customer’s facilities will be responsible for registering for the purpose of the fuel charge, and for reporting and paying the fuel charge to the CRA when necessary. Should the final customer be eligible to receive the natural gas exempt of the charge, the customer will be required to provide an exemption certificate to the owner or operator of the distribution system that physically delivers the natural gas to its facility in a listed province.
+
+In some cases, a person may contract to have natural gas imported into Canada to a listed province or brought into a listed province from another province through a delivery system for delivery to a trading hub or to a final customer. The person may also contract to have natural gas delivered through a delivery system directly from a trading hub to a final customer.
+
+The importer or the person contracting to bring the natural gas into a listed province without physically delivering it, and whose activities are limited to contracting for the import or bringing in of natural gas into a listed province, will not be required to register for the purpose of the fuel charge and will not have reporting requirements.
+
+The owner or operator of the pipeline that physically imports the natural gas, or brings it into a listed province, will be responsible for registering for the purpose of the fuel charge and reporting and paying the fuel charge to the CRA when necessary. To the extent that natural gas is not physically delivered to a final customer or is not removed from the pipeline, in a listed province, these transactions will not be subject to the fuel charge.
+
+In some cases, a person may acquire natural gas in a natural gas trading hub in a listed province and contract to have the natural gas exported, or removed from a listed province and delivered into a non-listed province.
+
+The person that contracts for the export or for the removal of the natural gas from a listed province without physically delivering it will not be required to register for the purpose of the fuel charge and will not have reporting requirements. The owner or operator of the pipeline that physically exports the natural gas, or takes it out of a listed province, will be responsible for registering for the purpose of the fuel charge and reporting and paying the fuel charge to the CRA when necessary. To the extent that natural gas is not physically delivered to a final customer in a listed province, these transactions will not be subject to the fuel charge. The pipeline owner or operator that physically transports the natural gas will be required to register where any natural gas is taken for export or removal at a natural gas hub, or other location, in a listed province.
+
+If, as a result of this administrative position, a registered person believes it is no longer required to be registered, that person may request that the CRA cancel its registration. The registered person must notify the CRA in writing when this occurs, noting the reason for requesting the cancellation and the effective date. The CRA will cancel the registration if satisfied that the registration is not required.
+
+Requesting cancellation of a registration may be done electronically using the “Submit documents” function in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) or by mail to the Sudbury Tax Centre at the address provided below. Filing and reporting requirements remain in effect until the effective date of cancellation.
+
+Sudbury Tax Centre Fuel Charge Program Post Office Box 20000, Station A Sudbury ON P3A 5C1
+
+As mentioned above, this notice explains the CRA’s administrative position regarding the delivery of natural gas distributed through a pipeline in a listed province for purposes of the Act. The information provided does not remove any other obligations a person may have under the Act.
+
+## Further information
+
+For all **technical publications**related to the Greenhouse Gas Pollution Pricing Act and its regulations, go to [Fuel charge technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge.html).
+
+To make a **technical enquiry** on the fuel charge or for **additional information** on the application of the fuel charge for **each type of registrant**, go to [Contact Information – Excise Duties, Excise Taxes, Fuel Charge and Air Travellers Security Charge](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/contacts.html).

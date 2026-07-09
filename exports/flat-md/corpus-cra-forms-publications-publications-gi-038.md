@@ -1,0 +1,12 @@
+---
+title: "GI-038 CANCELLED The 2008 GST/HST Rate Reduction"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-038.html
+last_modified: 2007-11-30
+---
+# GI-038 CANCELLED The 2008 GST/HST Rate Reduction
+
+## This publication was cancelled
+
+This publication was cancelled as of 2025-11-12.
+
+This info sheet explains how the proposed reduction in the rate of the GST and the federal component of the HST will apply to transactions that straddle January 1, 2008, the date that the reduced rates come into effect.

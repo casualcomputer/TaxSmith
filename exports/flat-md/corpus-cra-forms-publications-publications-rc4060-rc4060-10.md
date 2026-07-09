@@ -1,0 +1,582 @@
+---
+title: "Farming Income and the AgriStability and AgriInvest Programs Guide – Commodity list"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4060/rc4060-10.html
+last_modified: 2026-04-16
+---
+# Farming Income and the AgriStability and AgriInvest Programs Guide – Commodity list
+
+| Commodity | Code |
+
+| --- | --- |
+
+| Barley | 003 |
+
+| Beans (dry edible) | 004 |
+
+| Borage | 006 |
+
+| Buckwheat | 007 |
+
+| Camelina | 282 |
+
+| Canadian Wheat Board payments | 002 |
+
+| Canary seed | 008 |
+
+| Canola | 010 |
+
+| Chick peas/Garbanzo beans | 023 |
+
+| Corn | 011 |
+
+| Faba beans | 012 |
+
+| Field peas | 013 |
+
+| Flaxseed | 014 |
+
+| Forage (including pellets, silage) | 264 |
+
+| Forage seed | 015 |
+
+| Grain (pellets, screenings, silage) | 039 |
+
+| Hemp | 030 |
+
+| Kenaf | 317 |
+
+| Khorasan wheat/Kamut | 036 |
+
+| Lathyrus | 040 |
+
+| Lentils | 041 |
+
+| Lupins | 042 |
+
+| Millet | 043 |
+
+| Mixed grain | 024 |
+
+| Mustard seed | 044 |
+
+| Niger seed/Niger thistle | 283 |
+
+| Oats | 045 |
+
+| Oilseed radish | 038 |
+
+| Prepared feed and protein supplements (itemized) | 046 |
+
+| Quinoa | 047 |
+
+| Rice | 048 |
+
+| Rye | 049 |
+
+| Safflower | 050 |
+
+| Soybeans | 053 |
+
+| Spelt | 037 |
+
+| Straw | 267 |
+
+| Sugar beets (including molasses) | 268 |
+
+| Sunflowers | 054 |
+
+| Tobacco | 269 |
+
+| Triticale | 055 |
+
+| Vegetable seed (seed production only) | 051 |
+
+| Wheat | 056 |
+
+| Commodity | Code |
+
+| --- | --- |
+
+| Flowers (edible) | 180 |
+
+| Hops | 383 |
+
+| Mushrooms (including spawn) | 131 |
+
+| Nuts (all) | 140 |
+
+| Weeds (edible) | 211 |
+
+| Commodity | Code |
+
+| --- | --- |
+
+| Blackberries | 066 |
+
+| Blueberries | 067 |
+
+| Cranberries | 068 |
+
+| Currants (black, red) | 065 |
+
+| Elderberries | 074 |
+
+| Gooseberries | 069 |
+
+| Haskap | 075 |
+
+| Loganberries | 070 |
+
+| Raspberries | 071 |
+
+| Saskatoon berries | 072 |
+
+| Sea buckthorn | 076 |
+
+| Strawberries | 073 |
+
+| Commodity | Code |
+
+| --- | --- |
+
+| Apples | 060 |
+
+| Apricots | 091 |
+
+| Cantaloupe | 168 |
+
+| Cherries (sweet, sour) | 092 |
+
+| Fruit juice | 081 |
+
+| Grapefruit | 082 |
+
+| Grapes | 083 |
+
+| Kiwi fruit | 084 |
+
+| Lemons | 085 |
+
+| Melons | 185 |
+
+| Nectarines | 093 |
+
+| Oranges | 086 |
+
+| Peaches | 094 |
+
+| Pears | 095 |
+
+| Plums | 096 |
+
+| Prunes | 097 |
+
+| Watermelon | 087 |
+
+| Wine | 088 |
+
+| Commodity | Code |
+
+| --- | --- |
+
+| Anise | 101 |
+
+| Basil | 102 |
+
+| Caraway seed | 103 |
+
+| Chervil | 158 |
+
+| Chives | 104 |
+
+| Cilantro | 105 |
+
+| Comfrey | 106 |
+
+| Coriander | 107 |
+
+| Cumin | 144 |
+
+| Dill | 108 |
+
+| Echinacea | 142 |
+
+| Fennel | 110 |
+
+| Fenugreek | 111 |
+
+| Fireweed | 377 |
+
+| Garlic | 113 |
+
+| Gingko biloba | 380 |
+
+| Ginseng | 114 |
+
+| Lavender | 379 |
+
+| Lemon balm | 378 |
+
+| Marjoram | 115 |
+
+| Mint | 116 |
+
+| Monarda | 117 |
+
+| Oregano | 118 |
+
+| Parsley | 119 |
+
+| Pepper | 120 |
+
+| Rosemary | 121 |
+
+| Sage | 122 |
+
+| Salsify | 123 |
+
+| St. John's wort | 381 |
+
+| Summer savory | 125 |
+
+| Tarragon | 126 |
+
+| Thyme | 127 |
+
+| Watercress | 128 |
+
+| Commodity | Code |
+
+| --- | --- |
+
+| Artichokes | 160 |
+
+| Arugula/Rocket | 195 |
+
+| Asparagus | 161 |
+
+| Beans, fresh | 025 |
+
+| Beets | 162 |
+
+| Bok choi | 163 |
+
+| Broccoflower | 164 |
+
+| Broccoli | 165 |
+
+| Brussels sprouts | 166 |
+
+| Cabbage | 167 |
+
+| Carrots | 169 |
+
+| Cauliflower | 170 |
+
+| Celery | 171 |
+
+| Chinese vegetables | 173 |
+
+| Collards | 174 |
+
+| Cucumbers | 175 |
+
+| Eggplant | 176 |
+
+| Endive | 177 |
+
+| Fiddleheads | 179 |
+
+| Gherkins | 221 |
+
+| Green peas | 223 |
+
+| Horseradish | 181 |
+
+| Kale | 214 |
+
+| Kohlrabi | 182 |
+
+| Leeks | 183 |
+
+| Lettuce | 184 |
+
+| Mustard leaves | 186 |
+
+| Okra | 227 |
+
+| Onions | 187 |
+
+| Parsnip | 190 |
+
+| Peppers | 191 |
+
+| Potatoes and by-products | 147 |
+
+| Pumpkins | 192 |
+
+| Radish | 193 |
+
+| Rhubarb | 194 |
+
+| Rutabagas | 197 |
+
+| Shallots | 198 |
+
+| Spinach | 201 |
+
+| Squash | 202 |
+
+| Stevia | 230 |
+
+| Sweet corn | 203 |
+
+| Sweet peas | 204 |
+
+| Sweet potatoes/Yams | 205 |
+
+| Swiss chard | 206 |
+
+| Tomatoes | 207 |
+
+| Turnips | 208 |
+
+| Vegetable marrow | 209 |
+
+| Witloof chicory | 212 |
+
+| Zucchini | 213 |
+
+| Commodity | Code |
+
+| --- | --- |
+
+| Cherry tomatoes | 233 |
+
+| Cucumbers | 234 |
+
+| Lettuce | 235 |
+
+| Peppers | 236 |
+
+| Tomatoes | 237 |
+
+| Commodity | Code |
+
+| --- | --- |
+
+| Bedding plants | 132 |
+
+| Flowers and ornamental foliage | 133 |
+
+| Fruits and vegetables (non-edible) | 134 |
+
+| Seeds and bulbs | 135 |
+
+| Shrubs | 136 |
+
+| Sod | 137 |
+
+| Trees (cultivated Christmas) | 138 |
+
+| Trees (fruit and ornamental) | 139 |
+
+| Commodity | Code |
+
+| --- | --- |
+
+| Custom feedlot operator income (itemized invoices) – Qualifying feed and protein supplements | 243 |
+
+| Custom feedlot operator income (non-itemized invoices) – Qualifying prepared feed | 246 |
+
+| Other custom feeding income (itemized) | 576 |
+
+| Commodity | Code |
+
+| --- | --- |
+
+| Other feed charges (itemized) | 570 |
+
+| Prepared feed and protein supplements (itemized) | 046 |
+
+| Prepared feed and purchases (non-itemized) | 571 |
+
+| Commodity | Code |
+
+| --- | --- |
+
+| Custom feeding expenses (non-itemized) | 573 |
+
+| Livestock owners custom feeding expense (itemized) – Qualifying feed and protein supplements | 577 |
+
+| Other custom feeding expenses (itemized) | 572 |
+
+| Commodity | Code |
+
+| --- | --- |
+
+| Prepared feed and protein supplements (itemized) | 046 |
+
+| Ranch fur operators feed purchases (non-itemized) | 574 |
+
+| Ranch fur operators other feed expenses (itemized) | 310 |
+
+| Commodity | Code |
+
+| --- | --- |
+
+| Chickens | 366 |
+
+| Chickens (non-supply managed) | 590 |
+
+| Chickens, eggs (non-supply managed) | 589 |
+
+| Chickens, eggs for consumption | 343 |
+
+| Chickens, eggs for hatching | 344 |
+
+| Ducks | 332 |
+
+| Emus | 373 |
+
+| Geese | 333 |
+
+| Ostriches | 371 |
+
+| Partridge | 323 |
+
+| Pheasants | 338 |
+
+| Pigeons | 327 |
+
+| Quail | 324 |
+
+| Rheas | 372 |
+
+| Silkies | 326 |
+
+| Taiwanese chickens | 325 |
+
+| Turkeys | 334 |
+
+| Turkeys (non-supply managed) | 591 |
+
+| Turkey eggs | 342 |
+
+| Commodity | Code |
+
+| --- | --- |
+
+| Deferred bison | 151 |
+
+| Deferred bovine cattle | 150 |
+
+| Deferred deer | 154 |
+
+| Deferred elk | 155 |
+
+| Deferred goat | 152 |
+
+| Deferred horse for PMU sales | 156 |
+
+| Deferred other breeding animals | 157 |
+
+| Deferred sheep | 153 |
+
+| Commodity | Code |
+
+| --- | --- |
+
+| Alpacas | 370 |
+
+| Bees, honey | 374 |
+
+| Bees, leaf cutter | 312 |
+
+| Bison | 350 |
+
+| Cattle, calves | 719 |
+
+| Cattle, cows and bulls | 706 |
+
+| Cattle, fat/slaughter | 720 |
+
+| Cattle, feeder | 721 |
+
+| Cattle, purebred breeding | 722 |
+
+| Chinchilla | 240 |
+
+| Deer | 352 |
+
+| Dogs (kennels and pet breeding excluded) | 313 |
+
+| Donkeys/Mules | 367 |
+
+| Elk | 353 |
+
+| Fox | 241 |
+
+| Goats | 354 |
+
+| Groundhogs/Hedgehogs | 369 |
+
+| Horses | 316 |
+
+| Llamas | 355 |
+
+| Mink | 242 |
+
+| Pot bellied pigs | 239 |
+
+| Rabbits | 356 |
+
+| Reindeer | 244 |
+
+| Sheep, ewes and rams | 734 |
+
+| Sheep, lambs | 723 |
+
+| Swine | 341 |
+
+| Wild boar | 247 |
+
+| Commodity | Code |
+
+| --- | --- |
+
+| Bee by-products | 375 |
+
+| Cannabis | 382 |
+
+| Elk velvet | 764 |
+
+| Fish meal | 263 |
+
+| Honey | 129 |
+
+| Manure | 318 |
+
+| Maple products | 130 |
+
+| Milk and cream (cattle) | 319 |
+
+| Milk and cream (non-supply managed) | 592 |
+
+| Pollination services fee | 376 |
+
+| Pregnant mare urine (PMU) | 322 |
+
+| Semen and embryos | 712 |
+
+| Wood | 259 |
+
+| Wool | 328 |
+
+For information on any commodities not included in this listing, contact your [administration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4060/rc4060-02.html).
+
+- [Previous page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4060/rc4060-09.html)
+
+- [Table of contents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4060/rc4060-01.html)
+
+- [Next page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4060/rc4060-11.html)

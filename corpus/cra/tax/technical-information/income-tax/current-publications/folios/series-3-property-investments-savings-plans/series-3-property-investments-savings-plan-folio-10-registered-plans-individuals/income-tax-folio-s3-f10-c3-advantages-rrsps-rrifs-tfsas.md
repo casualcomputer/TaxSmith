@@ -1,0 +1,424 @@
+---
+title: "Income Tax Folio S3-F10-C3, Advantages – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs"
+source: https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html
+last_modified: 2024-05-28
+---
+# Income Tax Folio S3-F10-C3, Advantages – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs
+
+**Series 3: Property, Investments, and Savings Plans**
+
+**Folio 10: Registered Plans for Individuals**
+
+**Chapter 3: Advantages – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs**
+
+## Summary
+
+The Act imposes several investment restrictions on registered retirement savings plans (RRSPs), registered education savings plans (RESPs), registered retirement income funds (RRIFs), registered disability savings plans (RDSPs), first home savings accounts (FHSAs) and tax-free savings accounts (TFSAs). These registered plans may invest only in property that is a **qualified investment**and must not invest in property that is a **prohibited investment**. In addition, they must avoid investments or transactions that are structured so as to artificially shift value into or out of the plan or result in certain other supplementary advantages.
+
+The qualified investment rules are discussed in [Income Tax Folio S3-F10-C1, Qualified Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html) and the prohibited investment rules are discussed in [Income Tax Folio S3-F10-C2, Prohibited Investments - RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html).
+
+This Chapter focuses on the advantage rules. These rules, together with the prohibited investment rules, represent overriding investment restrictions for registered plans intended to guard against abusive tax planning. This Chapter discusses the meaning of the term **advantage**, as well as the applicable tax consequences. The comments in this Chapter apply to all RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs, whether in the form of a trust, deposit or insurance contract.
+
+The Canada Revenue Agency (CRA) issues income tax folios to provide a summary of technical interpretations and positions regarding certain provisions contained in income tax law. Due to their technical nature, folios are used primarily by tax specialists and other individuals who have an interest in tax matters. While each paragraph in a chapter of a folio may relate to provisions of the law in force at the time it was written (see the [Application](#toc16) section), the information provided is not a substitute for the law. The reader should, therefore, consider the Chapter’s information in light of the relevant provisions of the law in force for the particular tax year being considered.
+
+The CRA may have published additional guidance and detailed filing instructions on matters discussed in this Chapter and other topics that may be of interest. See the CRA's [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html) web page for this and other topics that may be of interest.
+
+## Table of contents
+
+- [Discussion and interpretation](#toc0)
+
+    - [Overview of advantage rules](#toc1)
+
+    - [References to various terms](#toc2)
+
+    - [Definition of advantage](#toc3)
+
+          - [Conditional on plan](#toc4)
+
+          - [Artificial increases in FMV of property](#toc5)
+
+          - [Income and capital gains on certain property or transactions](#toc6)
+
+          - [Registered plan strip](#toc7)
+
+          - [Fees and expenses](#toc8)
+
+          - [Settlement payments](#toc9)
+
+    - [Tax consequences of advantages](#toc10)
+
+          - [100% advantage tax](#toc11)
+
+          - [Filing of tax return](#toc12)
+
+          - [RRSP and RRIF transitional rules](#toc13)
+
+          - [RESP and RDSP transitional rules](#toc14)
+
+          - [Waiver of tax](#toc15)
+
+- [Application](#toc16)
+
+- [Reference](#toc17)
+
+- [History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas/chapter-history-s3-f10-c3-advantages-rrsps-resps-rrifs-rdsps-tfsas.html)
+
+#### Conditional on plan
+
+**3.6** Paragraph (a) of the definition of advantage includes any benefit, loan or indebtedness that is conditional in any way on the existence of the registered plan, subject to certain enumerated exceptions discussed in ¶3.7 to 3.12. While it is a question of fact as to whether something is **conditional in any way on the existence of** a plan, the phrase should be given wide meaning in this context. Where a benefit or debt is connected in any way with the existence of a plan, it is considered to be conditional on the existence of the plan.
+
+Through his RRSP, Daniel buys units of a mutual fund trust that owns a number of rental properties at various ski resorts in Canada. As a unit holder, Daniel is entitled to rent any of the properties at a 25% discount from the normal commercial rental rate. In January, Daniel rents one of the properties for two weeks for $750 per week, instead of the normal rate of $1,000 per week. The $500 discount constitutes a benefit that is conditional on the existence of Daniel’s RRSP. Daniel is therefore liable to pay advantage tax of $500.
+
+**3.7** The following list details exceptions to the type of advantage described in ¶3.6:
+
+1. administrative or investment services provided in connection with the plan
+
+2. a loan or other debt (including the use of a TFSA as security for the debt or a depositary TFSA used to set off certain indebtedness) that reflects arm’s-length terms and conditions
+
+3. a distribution from the plan in satisfaction of all or part of the controlling individual’s or beneficiary’s interest in the plan
+
+4. a payment or allocation to the plan by the issuer, carrier or promoter
+
+5. a promotional incentive under a program offered to a broad class of persons in a normal commercial or investment context and not established mainly for tax purposes
+
+6. a government grant or bond payment to an RESP or RDSP
+
+**3.8** It should be noted that a transaction covered by one of these enumerated exceptions may nevertheless be characterized as an advantage pursuant to any of the anti-avoidance provisions described in ¶[3.16](#p3.16) to 3.34. For a discussion of the payment of commission rebates relating to a plan and its investments, see ¶[3.36](#p3.36) to 3.41.
+
+##### Arm’s-length debt
+
+**3.9**An RRSP contribution loan is a typical example accommodated by the exception described in ¶3.7(b). It is not uncommon for the RRSP annuitant to enter into a letter of direction to collapse the plan and remit the proceeds to the lender on default on the loan. It is also not uncommon for the interest rate to be more favourable than the rate offered by the lender on non-RRSP loans on similar terms. Neither circumstance would, in and of itself, render the exception inapplicable provided the loan reflects arm’s-length terms.
+
+**3.10** The broader exception described in ¶3.7(b) permitting TFSAs to be used as security does not apply to RRSPs, RESPs, RRIFs, RDSPs or FHSAs. If such a plan were used in any manner to secure or guarantee a loan or other debt resulting in financing terms that are more favourable than would otherwise be available in the absence of the arrangement, the favourable terms would constitute a benefit conditional on the existence of the plan and therefore would be an advantage. This position extends to an arrangement that may not necessarily result in the creation of a legally valid security, but which has the same effect in practice.
+
+**3.11** Adverse tax consequences could still apply to an RRSP or RRIF annuitant, or FHSA holder even if it could be argued that the security arrangement does not result in more favourable financing terms. This would be the case where a trust governed by an RRSP, RRIF or FHSA uses or permits to be used any of its property as security for a loan. Subsection 146(10), 146.3(7) or 146.6(11) would apply in this situation to require the FMV of the property so used to be included in the RRSP or RRIF annuitant’s or FHSA holder's income. If these rules and the advantage rules were both found to apply to the same arrangement, the CRA would only apply the advantage rules.
+
+##### Promotional incentives
+
+**3.12**It is common practice for financial institutions and other firms in the investment industry to offer fee waivers, preferential pricing, bonus interest, and other promotional incentives. Often these incentives require the customer to satisfy certain criteria such as maintaining a minimum investment balance, having a minimum number of products, opening a new account, or investing additional funds. Where a customer’s registered plan is taken into account in determining eligibility, the incentive could be viewed as conditional on the existence of the plan. However, most conventional incentives are accommodated by one or more of the exceptions described in ¶[3.7(a)](#p3.7), (d), or (e). Examples 2 to 6 demonstrate common situations that are covered by these exceptions. In addition to not being treated as an advantage, the payments described in Examples 4 and 6 do not constitute a premium, gift, or contribution to the plan (as they are considered a return on investment). This ensures that such payments will not affect contribution limits or the registered status of the plans. In contrast, if a controlling individual directs that a referral bonus be paid into their registered plan, the payment will be considered to be a contribution or premium to the plan. A referral bonus is paid as a consequence of the relationship between the existing investor and the new investor. When a registered plan is involved, it is actually the controlling individual who earns the referral bonus, not the plan itself.
+
+A brokerage firm provides a reduced commission rate to clients who have at least $100,000 of investments with the firm. In determining whether the investment threshold is met, the firm takes into account investments held in both registered and non-registered accounts.
+
+A financial institution offers a free tablet to new clients who open a TFSA or RRSP and maintain a minimum account balance of $10,000 for at least six months. The institution also waives the plan administration fee each year as long as the minimum balance is met.
+
+A bank offers a 2% bonus interest rate on deposits to savings accounts during a two-month promotional period. To qualify for the additional interest payments, clients must have at least $25,000 of new or existing investments with the bank including investments held in registered plans.
+
+A credit union waives the monthly fee for chequing accounts for customers who have at least five products with the institution. RRSPs, RRIFs, RESPs, RDSPs, and TFSAs are included in the list of qualifying products.
+
+A financial institution offers $100 cash back to new customers who open an RRSP, RRIF, or TFSA and maintain a minimum balance of $50,000 for at least one year. The cash payment is made directly into the qualifying plan. If a customer became entitled to the cash back by virtue of having $30,000 in an RRSP and $20,000 in a TFSA to meet the minimum investment threshold of $50,000, the cash back must be paid into each of the plans in proportion to the actual plan balances. If instead the customer satisfied the minimum investment threshold in both the RRSP and TFSA, the cash back may be paid into whichever plan the customer and financial institution agree on.
+
+##### Contests
+
+**3.13** Financial institutions and other companies may wish to hold contests to promote their registered plan business, offering prizes such as cash, trips or consumer goods. Although such contests would generally be covered by the exception described in ¶[3.7(e)](#p3.7), it is the CRA’s view that if a cash prize were paid directly into the winner’s registered plan, the payment would constitute a gift or contribution. Unlike the cash payments described in Examples 4 and 6 in ¶3.12, such cash prizes are not considered a return on investment. Because this could adversely affect contribution limits or the registered status of the plan, care should be taken in designing the contest rules to ensure that winnings are not deposited directly into a registered plan. The winner is free to contribute the winnings to an RRSP, RESP, RDSP, FHSA or TFSA, subject to their contribution limit.
+
+##### Life insurance
+
+**3.14** A registered plan might hold, or be structured as, an annuity contract. If that contract has a life insurance component, it is the CRA’s view that there is an advantage each year. The enjoyment of life insurance protection in the year is a benefit conditional on the existence of the plan. Although the determination of the amount of the advantage in each year is a question of fact, the cost of equivalent term-life insurance coverage based on insurance underwriting considerations such as the individual’s age, gender, and health would be a relevant factor. However, there is no advantage where the death benefit under the life insurance component is nominal, such as in a typical segregated fund annuity contract. It is also the CRA’s view that the use of a split-dollar or shared-ownership life insurance arrangement in the context of a registered plan gives rise to an advantage. This is so even though some may argue that the arrangement is accommodated in certain circumstances for RRSPs by virtue of paragraph 146(3)(e).
+
+**3.15** The concept of advantage is no longer a feature of the RRSP and RRIF registration conditions following the 2011 repeal of paragraphs 146(2)(c.4) and 146.3(2)(g). Nonetheless, the CRA will refuse to approve a specimen plan (and therefore not accept for registration any individual plans issued pursuant to the specimen plan) where it is clear from the terms of the specimen plan that an advantage would arise.
+
+#### Artificial increases in FMV of property
+
+**3.16** Paragraph (b) of the definition of advantage includes a benefit that is an increase in the total FMV of the property held in connection with a registered plan that is reasonably attributable, [directly or indirectly](#p3.17), to **any** of the following:
+
+1. a transaction or event (or a series of transactions or events) that would not have occurred in a normal commercial or investment context between arm’s length parties acting prudently, knowledgeably and willingly, and one of the main purposes of which is to benefit from the tax-exempt status of the plan (see ¶3.18 to 3.22)
+
+2. a payment received as, on account of, in lieu of, or in satisfaction of (referred to in this Chapter as **in substitution**) either:
+
+    - a payment for services rendered by the plan’s controlling individual (or a person not dealing at arm’s length with the controlling individual) or
+
+    - a payment of a return on investment or proceeds of disposition in respect of property held outside the plan by the controlling individual (or a person not dealing at arm’s length with the controlling individual) (see ¶[3.23](#p3.23))
+
+3. a **swap transaction** (see ¶[3.24](#p3.24) to 3.26)
+
+4. **specified non-qualified investment income** (see ¶[3.27](#p3.27)) that has not been paid from the plan within 90 days of the controlling individual receiving a notice from the Minister of National Revenue requiring removal.
+
+**3.16.1** The payment of certain investment management fees by a controlling individual of a registered plan are specifically excluded from the determination of an advantage. Subparagraph (b)(i) of the definition of advantage excludes a payment (not exceeding a reasonable amount) by a controlling individual of the plan for amounts described in paragraph 20(1)(bb).
+
+**3.17** The words **directly or indirectly** referred to in ¶3.16 (as well as in ¶[3.24](#p3.24) and [3.28](#p3.28)) encompass not only the increase in the FMV of the registered plan resulting from the initial advantage, but also all future increases in FMV that are reasonably attributable to the initial advantage. These increases include, for example, any increase in the FMV of the plan or any other registered plan of the controlling individual that is reasonably attributable to **any** of the following:
+
+- any dividends, interest or other amounts paid on any investments involved in the advantage
+
+- any capital appreciation in value on the investments or on any substituted property (whether realized or not)
+
+- any income earned on income
+
+##### Not commercially reasonable
+
+**3.18** As described in ¶3.16(a) an advantage can arise where there is an increase in the FMV of property that is reasonably attributable to transactions or events that would not have occurred in a normal commercial or investment context in which parties deal with each other at arm’s length and act prudently, knowledgeably and willingly. Whether a transaction or event can be so characterized (referred to in this Chapter as **not commercially reasonable**) will depend on each factual situation. It is important to note that in making this hypothetical determination a controlling individual and each of their registered plans are considered to be distinct parties each having separate economic interests.
+
+**3.19** The following list contains some of the factors that might indicate that a transaction or event relating to an investment held by a registered plan is not commercially reasonable:
+
+- the transaction was not carried out at FMV or involves circumstances where there is uncertainty in valuation (for example, the payment of discretionary dividends or other discretionary entitlements on securities purported to have been acquired by the plan at FMV)
+
+- the parties to the transaction or event acted in concert, without separate economic interests, to achieve a tax benefit (for example, where one party was merely accommodating another party in an attempt to obtain a certain tax result)
+
+- the rate of return on the investment is not commensurate with a reasonable return on investment capital given the degree of risk inherent in the investment
+
+- the terms of the investment provide the parties with a mechanism to stream disproportionate or preferential returns into the plan (for example, a return on investment that does not reflect a reasonable rate of return for the use of the investment capital or that is intended to compensate a party for agreeing to forgo earnings, such as a return on investment or compensation for services rendered, outside of the plan)
+
+- the plan has not acquired all the incidents of ownership of the investment or one or more of these incidents of ownership may revert to another party
+
+- the transaction or event was based on insider information
+
+##### Employee-owned securities
+
+**3.20** It is common for employers to encourage or require their employees to invest in securities of the employer or a related entity. Such securities, if qualified investments, are sometimes held in an employee’s registered plan. If so, it should be ensured that the rate of return on the securities represents, in substance and regardless of legal form, a return on investment and not compensation for services rendered. In determining whether a transaction or event is not commercially reasonable in the context of employee-owned securities, some of the factors that should be considered in addition to those described in ¶3.19 are:
+
+- the existence of restrictive eligibility criteria for participating in the offering, such as:
+
+    - the securities are offered for sale to only a subset of employees
+
+    - there is a special class of securities
+
+    - participation is mandatory
+
+    - participating employees have no discretion in determining the number of securities they will acquire under the offering
+
+- the existence of selling restrictions, such as:
+
+    - the securities cannot subsequently be sold to an outside third party
+
+    - the securities are required to be sold back to the employer when the employee ceases to be employed by the employer
+
+- the employee’s salary, bonus or other remuneration is reduced (or is less than it would otherwise be expected to be) as a result of the security being acquired and held by the plan
+
+- the rate of return on the security, or the eligibility to participate in the security offering, is linked to the employee’s performance rating or entitlement to a bonus or other remuneration
+
+- the existence of a loss protection mechanism such as a guaranteed repurchase price that is not reflective of FMV
+
+- the existence of preferential financing terms or other financial accommodation
+
+**3.20.1** The fact that a term or other characteristic of a security may be considered commercially reasonable between an employer and employee does not necessarily extend to the situation where the security is held in the employee’s registered plan. As noted in ¶3.18, for purposes of the commercially reasonable test, the registered plan is considered to be a distinct party having separate economic interests from that of the employee.
+
+**3.20.2** It is recognized that factors relating to eligibility and selling restrictions (described in the first two bullets of ¶3.20) will be present in many situations involving employee-owned securities. In and of itself, the presence of such factors would not necessarily lead to a conclusion that a transaction or event is not commercially reasonable. Rather, eligibility and selling restrictions are listed as factors to consider simply because they would be expected to be present, in some form, in tax-avoidance schemes that attempt to disguise employment compensation as a return on a registered plan investment.
+
+**3.21** While the presence of one or more of the factors described in ¶3.19 and ¶3.20 may indicate that a transaction or event (or series of transactions or events) is not commercially reasonable, each case must be determined on its own facts. These factors are not exhaustive.
+
+##### Tax-motivated purpose
+
+**3.21.1** The advantage described in ¶3.16(a) also requires that one of the main purposes of the transaction or event is to benefit from the tax-exempt status of the registered plan. This is a question of fact. While the involvement of a registered plan in something not commercially reasonable is a strong inference that a motivating factor is to maximize the savings in the plan so as to benefit from the tax exemption afforded to the plan, it is not, in and of itself, determinative.
+
+**3.22** The so-called **TFSA Maximizer** schemes are arrangements that give rise to an advantage described in ¶3.16(a). In these arrangements, participants are purportedly able to shift the entire balance in their RRSP (or RRIF) to their TFSA in a way that the promoter claims is tax-free and not subject to the annual TFSA contribution limit. These schemes target individuals with high RRSP (or RRIF) and TFSA balances and significant equity in a personal residence.
+
+**3.22.1** The schemes involve an investment in a special purpose mortgage investment corporation (MIC) that makes loans to scheme participants. The MIC issues two classes of shares – one paying dividends at a low rate which are held in the RRSP (or RRIF) and the other paying dividends at a much higher rate which are held in the TFSA. The MIC lends the share proceeds back to the participant in the form of a first and a second mortgage loan, each secured by the personal residence and the TFSA balance and bearing interest at rates corresponding to the dividend rates on the two share classes. The participant invests the loan proceeds with the promoter and earns taxable investment income, making annual RRSP (or RRIF) withdrawals that are fully offset by an interest deduction.
+
+**3.22.2** After several years of participating in these transactions, the entire balance in the RRSP (or RRIF) has been shifted to the TFSA supposedly on a tax-free basis. In reality, however, the entire arrangement is not commercially reasonable as the MIC’s lending risk is negligible in light of the participants’ very low risk profiles. As the participants are essentially borrowing from themselves, neither the high rate of interest on the second mortgage nor the high dividend rate on the second MIC share class are justified.
+
+**3.22.3** The high dividend earned by the TFSA on the second class of MIC shares is an advantage as it is not commercially reasonable. The second mortgage loan is also an advantage described in ¶3.6 because it is a benefit conditional on the existence of the TFSA and has terms, such as an interest rate that is unreasonably high under the circumstances, to which persons dealing at arm’s length would not have agreed. In addition, the interest paid on the MIC loans may not be fully deductible.
+
+**3.22.4**Examples 7 to 11 illustrate transactions or events that give rise to an advantage described in [¶3.16(a)](#p3.16).
+
+A private corporation issues a special class of non-voting preferred shares to the registered plans of several key employees. Both the subscription price and redemption value is $10 per share. Employees are required to have their shares redeemed upon termination of employment. The amount of dividends payable on the shares is determined at the discretion of the board of directors, but ranges between $50 and $150 per share per year. In exercising this discretion, the board takes into account the financial performance of the corporation vis-à-vis pre-established performance benchmarks.
+
+The arrangement would be viewed as being not commercially reasonable. It would also give rise to an advantage described in ¶[3.16(b)](#p3.16) as it is reasonable to consider that the dividend payments were made in substitution of the corporation paying bonuses or other remuneration to the employees in consideration for services rendered.
+
+As part of an estate freeze, a corporation issues 100,000 common shares to Chantal, an arm’s length key employee, for a nominal subscription price of $0.01 per share. Chantal immediately contributes the shares in-kind to her TFSA, and the TFSA issuer records the amount of the contribution as $1,000. The shares are issued to Chantal by virtue of her employment and represent 5% of all of the issued and outstanding common shares of the corporation. At the end of the calendar year, the shares have a FMV of $1 per share, resulting in an advantage of $99,000. Furthermore, the advantage tax will continue to apply to all future appreciation in value of the shares, as well as any dividends received (see ¶[3.45](#p3.45)).
+
+Ross personally holds 1,000 warrants to acquire shares of a corporation with which he deals at arm’s length. The exercise price under the warrants currently exceeds the FMV of the shares. Ross contributes the warrants in-kind to his TFSA and the issuer of the TFSA reports the amount of the contribution as nil, based on the intrinsic value of the warrants. Later that year, the corporation’s shares increase in value and Ross directs his TFSA to exercise the warrants, realizing a gain of $100,000. The entire gain constitutes an advantage.
+
+Property must be contributed to a registered plan at its FMV and the contribution is subject to the individual’s contribution limit. The intrinsic value of a warrant or option is not reflective of the property’s FMV; rather, a valuation method that is appropriate in the circumstances should be used to determine the FMV.
+
+Pierre and Lise are not related to each other. They each have $250,000 cash in their respective RRSP. They devise a mutually beneficial scheme that will permit each of them to shift value from their RRSP to their TFSA by swapping thinly-traded securities having a large bid-ask spread back and forth between their RRSP and the other’s TFSA.
+
+Under the scheme, Pierre directs his TFSA to acquire $25,000 worth of securities at the bid price. The securities are immediately sold to Lise’s RRSP at the higher ask price. They are subsequently sold back to Pierre’s TFSA at the lower bid price. Lise simultaneously directs her TFSA to acquire the same securities and transact with Pierre’s RRSP in the same manner described above. These steps are repeated over the course of several weeks until all of the value in each of Pierre’s and Lise’s RRSP is effectively transferred into their respective TFSA. These transactions would be viewed as being not commercially reasonable and therefore Pierre and Lise would each be liable for advantage tax of $250,000.
+
+Because the transactions remove value from Pierre and Lise’s RRSPs without a corresponding income inclusion, they would also be considered **registered plan strip** transactions (see ¶[3.32](#p3.32)). This would result in a separate advantage tax of $250,000 in relation to the RRSPs for each of them.
+
+Under the terms of an investment offering, investors are required to purchase an equivalent number of Class A and Class B fixed-term securities. The securities track the value of a pool of high-risk investments. The interest rate payable on the Class A securities is capped at 3% (subject to the performance of the underlying investments). Any excess return is paid as interest on the Class B securities. The promoter suggests that the Class A securities be held in an RRSP and that the Class B securities be held in a TFSA.
+
+While the investment as a whole may be commercially reasonable, the allocation of the overall returns between the two classes of securities is not. The artificially low rate of return on the Class A securities (given the risk profile of the investment) is effectively subsidizing the rate of return on the Class B securities. In addition, the investment will give rise to an advantage described in ¶[3.16(b)](#p3.16). This is because a portion of the rate of return on the Class B securities is, in substance, a return on the Class A securities.
+
+##### Payments received in substitution
+
+**3.23** The advantage described in ¶[3.16(b)](#p3.16) targets arrangements that attempt to artificially shift otherwise taxable amounts into a registered plan. In determining whether a payment to a registered plan has been received in substitution for a payment for services rendered or a return on investment on non-registered property, the CRA will consider the economic substance of the related transactions regardless of their legal form.
+
+##### Swap transactions
+
+**3.24** A **swap transaction** is expressly included in the list of transactions that are treated as an advantage. A swap transaction is any transfer of property between a registered plan and its controlling individual (or a person not dealing at arm’s length with the controlling individual), subject to certain exceptions described in ¶3.25 and ¶3.26. The fact that the initial swap transaction may have occurred at FMV is not relevant. That is, the advantage tax will nonetheless apply in respect of any future increases in the total FMV of the property held in connection with the plan that are reasonably attributable, [directly or indirectly](#p3.17), to the swap transaction. Since this tax treatment effectively prohibits swap transactions, the CRA expects that issuers, carriers and promoters will not process swap transaction requests in light of the serious tax consequences for their clients.
+
+**3.25** Contributions, distributions to the plan’s controlling individual, and purchase and sale transactions between an individual’s two plans with the same tax attributes (for example, TFSA to TFSA or RRSP to RRSP/RRIF) are not treated as swap transactions. Transfers between FHSAs, non-taxable transfers from an FHSA to an RRSP or RRIF in accordance with subsection 146.6(8), and non-taxable transfers from an RRSP to an FHSA in accordance with paragraph 146(16)(a.2) are also not treated as swap transactions. Furthermore, the issuance of an insured debt obligation secured by a mortgage or hypothec described in paragraph 4900(1)(j.1) of the Regulations and any payments of principal or interest on the obligation are not treated as swap transactions.
+
+**3.26** The sale of a non-qualified or prohibited investment to a registered plan’s controlling individual (or a person not dealing at arm’s length with the controlling individual) is not treated as a swap transaction. This will only be the case if the individual is entitled to a refund of the 50% non-qualified or prohibited investment tax in respect of the investment. However, if the non-qualified or prohibited investment were sold for more than its FMV, the sale would be viewed as being not commercially reasonable and would constitute an advantage described in ¶[3.16(a)](#p3.16). On the other hand, if the non-qualified or prohibited investment were sold by an RRSP, RRIF, RESP, RDSP or FHSA for less than its FMV, the sale would be viewed as a [registered plan strip](#p3.32). More information on non-qualified or prohibited investment tax is available in Income Tax Folios [S3-F10-C1](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html) and [S3-F10-C2](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html). Transitional rules applicable to swap transactions are described in ¶[3.49](#p3.49) and 3.50.
+
+##### Specified non-qualified investment income
+
+**3.27** Specified non-qualified investment income is generally any subsequent generation income or capital gain derived from an amount that was previously taxed in the plan or any other plan of the individual. In other words, it is income or a capital gain on a non-qualified investment or income from a business carried on by the plan.
+
+- a **prohibited investment** (for details see Income Tax Folio S3-F10-C2)
+
+- an **artificial diversion** of an amount away from an RRSP, RESP, RRIF, RDSP or FHSA (see ¶3.30)
+
+- a **deliberate over-contribution** to a TFSA (that is, a contribution intentionally made by a TFSA holder in excess of their TFSA contribution limit, generally with a view to generating a rate of return sufficient to outweigh the cost of the 1% TFSA over-contribution tax)
+
+**3.29** In determining the amount of this type of advantage, income and capital gains are determined in accordance with general income tax rules, except that the dividend gross-up is disregarded.
+
+##### Artificial diversion of amounts from RRSP, RESP, RRIF, RDSP or FHSA
+
+**3.30** An **artificial diversion** of an amount from a registered plan other than a TFSA refers to an amount received by the plan’s controlling individual (or by a person not dealing at arm’s length with the controlling individual) if it is reasonable to consider that the following two conditions are met:
+
+- the amount was paid in relation to, or would not have been paid but for, property held in connection with the plan
+
+- the amount was paid in substitution for either a payment for services provided by the controlling individual (or another person not at arm’s length with the controlling individual), or a payment of a return on investment or proceeds of disposition.
+
+**3.31** This type of advantage is aimed at schemes that seek to artificially divert amounts away from an RRSP, RESP, RRIF, RDSP or FHSA in order to benefit from more favourable tax treatment outside the plan, such as the dividend tax credit regime or the capital gains regime. The comments concerning an older investor in ¶[3.40](#p3.40) illustrate an artificial diversion.
+
+#### Registered plan strip
+
+**3.32** Paragraph (d) of the definition of advantage refers to a **registered plan strip**. In general, this refers to a tax avoidance scheme that seeks to remove or devalue property of an RRSP, RESP, RRIF, RDSP or FHSA without an income inclusion for the controlling individual or beneficiary.
+
+**3.33** More specifically, a registered plan strip is defined in subsection 207.01(1) as the amount of a reduction in the FMV of property of a registered plan other than a TFSA, if the value is reduced as part of a transaction or event (or a series of transactions or events) one of the main purposes of which is to enable the controlling individual (or a person who does not deal at arm’s length with the controlling individual) to obtain a benefit in respect of the property of the plan or to obtain a benefit as a result of the reduction. Exceptions are provided for amounts included in income, amounts withdrawn under the Home Buyers’ Plan or the Lifelong Learning Plan, a **qualifying withdrawal** or a **designated amount** under an FHSA, direct transfers of funds that are permitted to be made on a tax-deferred basis, and the non-taxable portion of a payment from an RESP or RDSP relating to a return of contributions.
+
+**3.34** The definition is intended to apply even in situations where no amount was traceably removed from a registered plan but where nevertheless the value of the plan has been reduced. For example, this could occur by way of artificial transactions that dilute the equity value of a corporation, trust or partnership in which the plan has invested. It could also occur where a plan has directly or indirectly invested in a debt obligation and steps are taken to ensure that the debt cannot be repaid (or no actions are taken to enforce repayment).
+
+#### Fees and expenses
+
+##### Investment Management Fees
+
+**3.35** As described in ¶3.16.1, the preamble in subparagraph (b)(i) of the definition of advantage specifically excludes a payment (not exceeding a reasonable amount) by a controlling individual of a registered plan for amounts described in paragraph 20(1)(bb).
+
+##### Rebates of mutual fund commissions
+
+**3.36** It is common for mutual fund dealers to offer incentive programs and other arrangements in which they share certain commissions with their investor clients. For example, in order to encourage an investor to switch from another mutual fund company, a dealer will often reimburse the investor for any deferred sales charge incurred on the sale of the old funds. The reimbursement is paid by the dealer rebating the investor part of the sales commission they earn from the mutual fund company on the purchase of the new funds. Similarly, dealers may offer to rebate part of their sales commissions as an incentive to attract new clients. Trailer fees may also be shared with investors, typically by discount brokers who do not offer advisory services, but also by other dealers who wish to improve their competitive position in the marketplace. Rebates may be made pursuant to a broad-based incentive program, such as rebates of trailer fees by discount brokers, or through an individual arrangement negotiated between the dealer and the investor.
+
+**3.37** Where such a rebate relates to a fund investment held by a registered plan, the payment of the rebate into the plan will not constitute a premium, gift or contribution to the plan. The payment will also not constitute an advantage, provided that the rebate is determined in a normal investment context without regard to the tax attributes of the individual’s registered and non-registered account(s).
+
+**3.38** Arrangements that divert commission rebates away from the individual’s non-registered account and into the shelter of their registered plan result in an artificial increase in the FMV of the plan’s property. This gives rise to an advantage under [paragraph (b) of the advantage definition](#p3.16). In the reverse situation, where the rebate is artificially diverted away from the registered plan (other than a TFSA) and into the non-registered account, it will give rise to an advantage under paragraph (c) or (d) of the advantage definition. The advantage rules will also apply where similar results are achieved through an F-Series mutual fund and a negotiated advisor fee that is varied to take advantage of the tax attributes of the each investment account.
+
+**3.39** An arrangement in which an amount is paid into a registered plan under the guise of being a rebate but where in fact the payor is reimbursed by the plan’s controlling individual constitutes an advantage described in paragraph (b) of the definition.
+
+**3.40** One area of particular concern with respect to the potential application of the advantage rules lies with individually negotiated arrangements involving multiple investment accounts where there exists both the incentive and flexibility to allocate rebates in a manner that takes advantage of, or avoids, the particular tax attributes of the account. While the mutual fund dealer may be indifferent as to where to pay the rebates, the investor has an obvious preference to maximize the amount paid into the TFSA. The preferred destination for any remaining amounts would depend on the age and situation of the investor. A younger investor might prefer the remainder be paid into an RRSP, where it would benefit from tax-deferred compounding for many years. An older investor might prefer the remainder be used to buy additional units in their non-registered account, where it will eventually be taxed at capital gains rates. This might be preferable to paying it to their RRIF, where it would be taxed at full rates on withdrawal in the near term.
+
+**3.41** The CRA will apply the advantage rules to challenge arrangements for allocating commission rebates amongst an individual’s various registered and non-registered accounts that do not reflect a pro rata allocation. Some mutual funds have a lower commission rate than others resulting in a lower rebate rate for the particular fund. In this case, the total rebate should be allocated amongst the individual’s accounts in a manner that appropriately reflects the commission and rebate rates applicable to the particular mutual funds purchased for each account.
+
+Jason owns $500,000 of mutual funds. The investment is comprised of $50,000 in a TFSA, $250,000 in an RRSP and the remaining $200,000 in a non-registered account. A mutual fund dealer convinces Jason to switch mutual fund companies and agrees to share 40% of the 5% sales commission he will earn on the purchase of the new funds. The funds all have the same commission rate. This means Jason would receive a total rebate of $10,000.
+
+The normal practice would be to allocate the total rebate on a pro rata basis to each of the respective accounts. This would result in the following payments:
+
+- $1,000 to the TFSA (40% × 5% × $50,000);
+
+- $5,000 to the RRSP (40% × 5% × $250,000); and
+
+- $4,000 to the taxable account (40% × 5% × $200,000).
+
+However, Jason wishes to take full advantage of the tax attributes of the registered plans. He therefore asks the dealer to allocate the $10,000 total rebate as follows:
+
+- $2,500 to the TFSA (100% rebate of the $2,500 commission on the TFSA mutual fund purchase);
+
+- $7,500 to the RRSP (60% rebate of the $12,500 commission on the RRSP purchase); and
+
+- $0 to the taxable account.
+
+The CRA would apply the advantage rules in this situation as the transactions are not commercially reasonable. The amount of the advantage would be equal to the amount by which the actual rebates paid into the RRSP and TFSA exceeds the amount that would have been paid if the total rebates had been allocated to the three accounts on a pro rata basis.
+
+This means that the initial TFSA advantage is $1,500 ($2,500 – (40% × 5% × $50,000)). The initial RRSP advantage is $2,500 ($7,500 – (40% × 5% × $250,000)). All future increases in the FMV of the plan property relating to the initial advantages would also give rise to advantage tax (see ¶[3.17](#p3.17) and [3.45](#p3.45)).
+
+##### Group arrangements
+
+**3.42** Expenses incurred by an employer for the establishment and overall administration of a group RRSP, RRIF, FHSA or TFSA will not result in a taxable benefit to the employees because they do not confer an economic benefit on the employees. However, there may be other expenses relating to the administration of each of the underlying registered plans. If these expenses are paid by the employer on behalf of the registered plans or the employees, they would generally constitute a taxable employment benefit to the employee under paragraph 6(1)(a).
+
+#### Settlement payments
+
+**3.42.1** Occasionally, payments may be made to settle a class-action lawsuit or other legal proceeding in respect of actionable losses incurred in connection with assets of registered plans. The CRA’s long-standing position is that such payments may generally be made to the plans with no adverse tax consequences.
+
+##### Payment made to plan
+
+**3.42.2** If the settlement payment is made directly to the plan, the payment will not constitute a premium, gift, or contribution to the plan and will not result in an income inclusion to the controlling individual. The same applies if the payment is made to the controlling individual but transferred to the plan within a reasonable time. Generally, the CRA considers a reasonable time to be the later of six months from the time the payment is received and the end of the tax year in which it was received. If the plan no longer exists or has matured, the payment may be made to another registered plan of the same type. For this purpose, the CRA considers RRSPs and RRIFs to be plans of the same type.
+
+##### Payment retained by controlling individual
+
+**3.42.3** If the controlling individual chooses to retain the settlement payment and not transfer it to the plan, the CRA considers the controlling individual to have received the payment as a benefit under the plan. The income tax treatment depends on the type of the registered plan.
+
+- In the case of an RRSP, RRIF or FHSA, the payment would be included in the annuitant’s income under subsection 146(8), 146.3(5) or 146.6(6), as applicable.
+
+- In the case of a TFSA, the payment would not be taxable as TFSA distributions are not taxable.
+
+- In the case of an RESP, assuming that the payment was made to the subscriber of the plan, the payment would be an accumulated income payment and would be included in the subscriber’s income under subsection 146.1(7.1). It might also be subject to additional tax under Part X.5.
+
+- In the case of an RDSP, the income tax treatment depends on who receives the payment.
+
+    - If the payment is received by the beneficiary of the plan, regardless of whether they are also a holder of the plan, the payment would be a disability assistance payment and would be included in the beneficiary’s income under subsection 146.4(6).
+
+    - If the payment is received by a holder of the plan who is not the beneficiary, the payment would not, by definition, be a disability assistance payment and therefore would not be included in income under subsection 146.4(6). However, the payment would be an advantage.
+
+##### Advantage
+
+**3.42.4** Provided that the settlement payment is made on arm’s length terms to compensate for the actual damages suffered by the registered plan, the payment would not give rise to an advantage (with one exception). The payment may be viewed as simply restoring the plan to the financial position it would have been in had it not incurred the loss. However, in the situation where the settlement payment is made to an RDSP holder who is not the beneficiary and not transferred to the plan, the payment would be a registered plan strip and would therefore be an advantage (see ¶[3.32](#p3.32) to 3.34). The registered plan strip definition would not apply to payments made to the controlling individual of any of the other plans because of the exceptions in the definition for TFSAs and for amounts included in income.
+
+##### Withholding, remitting, and reporting requirements
+
+**3.42.5** If the settlement payment is made directly to the controlling individual of an RRSP, RRIF, RESP, RDSP or FHSA (regardless of whether the payment is subsequently transferred to the plan), the payment is subject to withholding, remitting, and reporting requirements. For more information, see[T4079 T4RSP and T4RIF Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4079/t4rsp-t4rif-guide.html), [RC4157 Deducting Income Tax on Pension and Other Income, and Filing the T4A Slip and Summary](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4157.html), and the CRA web page [First Home Savings Account (FHSA)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account.html). If the controlling individual subsequently transfers the payment to the plan or another plan of the same type in accordance with ¶3.42.2, the controlling individual should contact the CRA’s Individual tax enquiries line at 1-800-959-8281 for information on how to complete their tax return to claim a deduction to offset the income inclusion arising from the issuance of the tax slip.
+
+### Tax consequences of advantages
+
+#### 100% advantage tax
+
+**3.43** Section 207.05 imposes a special tax if an advantage is extended to, or is received or receivable by, the controlling individual of a registered plan, the plan itself, or any other person not dealing at arm’s length with the controlling individual. The amount of tax payable depends on the nature of the advantage. The tax is equal to 100% of:
+
+- in the case of a benefit, the FMV of the benefit
+
+- in the case of a loan or other indebtedness, the amount of the debt
+
+- in the case of a registered plan strip, the amount of the registered plan strip
+
+**3.44** A separate tax is payable for each advantage. Liability to pay the tax lies with the controlling individual, unless the advantage was extended by the issuer, carrier or promoter of the registered plan (or a person not dealing at arm’s length with them). In this case the tax is payable by the issuer, carrier or promoter. In the case of an RESP or RDSP with multiple subscribers or holders, each such person is jointly and severally, or solidarily, liable with each other to pay the tax.
+
+**3.45** In the case of an advantage consisting of an increase in the FMV of plan property attributable to certain transactions or events (described in ¶[3.16](#p3.16) to 3.26), each increase in the FMV of plan property constitutes a separate advantage. Theoretically, the FMV increase could be measured on a daily, weekly, monthly or other periodic basis, provided that all of the increase within the measurement period is directly or indirectly attributable to transactions or events listed in the advantage definition. However, because the tax must be remitted annually, the measurement period must end at the end of the calendar year. Where 100% of the increase in FMV is caught by the advantage rules, the CRA will accept that the increase be measured on a calendar-year basis. This will facilitate administration and address inequity by netting out any decreases in value in the calendar year.
+
+**3.46** Advantage transactions might span more than one calendar year and the property value can fluctuate over that period. If so, taxpayers may request a waiver of all or part of the advantage tax in order to appropriately take into account such fluctuations in value. While the CRA will consider all relevant factors in assessing the merits of the request, a waiver will not be provided in situations where the reduction in value was artificial. See ¶[3.51](#p3.51) to 3.53 for more information on the waiver process.
+
+**3.47** Issuers, carriers and promoters of registered plans generally have no obligation under the Act to identify investments or transactions that may result in the plan’s controlling individual being liable for advantage tax. However, it is expected that issuers, carriers and promoters (and their agents or mandataries) would not knowingly facilitate the holding of, or participate in, such investments or transactions. Third-party penalties may be assessed in appropriate circumstances.
+
+#### Filing of tax return
+
+**3.48** Individuals liable for the advantage tax for any calendar year must file [Form RC339, Individual Return for Certain Taxes for RRSPs, RRIFs, RESPs or RDSPs](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc339.html), [RC728, First Home Savings Account (FHSA) Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc728.html), or [Form RC243, Tax-Free Savings Account (TFSA) Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc243.html), as applicable. Issuers, carriers and promoters liable for the advantage tax for a calendar year must file [Form RC298, Advantage Tax Return for RRSP, TFSA or RDSP Issuers, RESP Promoters or RRIF Carriers](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc298.html). The form, together with any balance due, must be submitted by no later than June 30 of the following year.
+
+#### RRSP and RRIF transitional rules
+
+**3.49** The tax on advantages originally applied only to TFSAs but was extended to RRSPs and RRIFs effective for transactions occurring after March 22, 2011. However, the prohibition on swap transactions was deferred until July 1, 2011. Furthermore, swap transactions that are undertaken to remove an investment from an RRSP or RRIF that would otherwise result in advantage tax if left in the plan are permitted to continue to occur until the end of 2021. Transitional relief from the advantage tax is available for prohibited investments that were acquired by an RRSP or RRIF before March 23, 2011 (see [Income Tax Folio S3-F10-C2](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html) for details).
+
+#### RESP and RDSP transitional rules
+
+**3.50** The tax on advantages was extended to RESPs and RDSPs effective for transactions occurring after March 22, 2017. However, the prohibition on swap transactions was deferred until July 1, 2017. Furthermore, swap transactions that are undertaken to remove an investment from an RESP or RDSP that would otherwise result in advantage tax if left in the plan are permitted to continue to occur until the end of 2021. Also, swap transactions that are undertaken to remove a prohibited investment that was acquired by an RESP or RDSP before March 23, 2017, are permitted to continue to occur until the end of 2027.
+
+#### Waiver of tax
+
+**3.51** Subsection 207.06(2) gives the Minister authority to cancel or waive all or part of the tax on advantages in appropriate circumstances. Various factors will be taken into account including reasonable error, the extent to which the transactions that gave rise to the tax also gave rise to another tax, and the extent to which payments were made from the taxpayer’s registered plan.
+
+**3.52** Taxpayers or their authorized representatives can make a written request for the waiver or cancellation of the tax. To support the request, taxpayers should provide all relevant information including the following, as applicable:
+
+- the taxpayer’s name, address, and telephone number
+
+- the taxpayer’s social insurance number, tax account number or business number, as the case may be
+
+- the name of the issuer, carrier or promoter of the registered plan and the plan number
+
+- the amount of tax for which a waiver is being requested and the years involved
+
+- a full description of the investment and any income or other related transactions that gave rise to the tax, including name of the investment entity, percentage ownership, date of acquisition, date of disposition, cost, and proceeds of disposition
+
+- a complete history of events including what measures were taken, and when they were taken, to resolve the non-compliance
+
+- the facts and reasons supporting that the transactions that gave rise to the tax were mainly caused by factors beyond the taxpayer’s control or by reasonable error
+
+- confirmation whether the transactions that gave rise to the tax also gave rise to another tax
+
+Requests for relief should be sent to the address listed in the applicable form referred to in ¶3.48.
+
+**3.53** The CRA administers the waiver provisions in a fair and flexible manner in order to promote voluntary compliance with the advantage rules and to encourage taxpayers to come forward and correct situations that are offside of these rules. Each waiver request will be considered on its own merits.
+
+## Application
+
+This updated Chapter, which may be referenced as S3-F10-C3, is effective May 28, 2024.
+
+This Chapter was first published on October 1, 2018. The history of updates to this Chapter can be viewed in the [Chapter History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas/chapter-history-s3-f10-c3-advantages-rrsps-resps-rrifs-rdsps-tfsas.html) page.
+
+Except as otherwise noted, all statutory references in this Chapter are references to the provisions of the Income Tax Act, R.S.C., 1985, c.1 (5th Supp.), as amended and all references to a Regulation are to the Income Tax Regulations, C.R.C. 1978, c. 945, as amended.
+
+Links to jurisprudence are provided through CanLII.
+
+Income tax folios are available in electronic format only.
+
+## Reference
+
+Sections 207.01 and 207.05.

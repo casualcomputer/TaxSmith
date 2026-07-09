@@ -1,0 +1,229 @@
+Title: Capital Personal Property (GST 400-3-9)
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/g400-3-9/capital-personal-property-gst-400-3-9.html
+Corpus path: corpus/cra/forms-publications/publications/g400-3-9/capital-personal-property-gst-400-3-9.md
+Document type: publication
+Last modified: 2017-11-07
+
+# Capital Personal Property (GST 400-3-9)
+
+**Notice to the reader:**
+
+Please note that the following GST Memorandum, although correct at the time of issue, has not been updated to reflect any subsequent legislative changes since the date of issue. As a result, some of the technical information this memorandum contains may no longer be valid. Please contact your GST/HST Rulings Centre for assistance.
+
+GST memoranda 400-3-9
+
+**INPUT TAX CREDITS SPECIAL CASES CAPITAL PERSONAL PROPERTY Ottawa, March 27, 1992**
+
+This memorandum does not replace the law found in the *Excise Tax Act* and its Regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation or contact any Revenue Canada Excise/GST office for additional information.
+
+This memorandum may reflect amendments proposed to the *Excise Tax Act* by Notices of Ways and Means Motion tabled on December 18, 1990, March 27, 1991 and November 5, 1991. The federal government announced its intention to introduce certain amendments to the *Excise Tax Act* to effect these changes which were outlined by the Minister of Finance in press releases on the mentioned dates. [Where proposed changes affect information contained in this memorandum, the information is enclosed in square brackets]. At the time of publication, Parliament has not enacted these proposed amendments. Any commentary in this memorandum should not be taken as a statement by the Department that such amendments will in fact be enacted into law in their current form.
+
+This memorandum describes the availability of the input tax credit (ITC) for the Goods and Services Tax (GST) paid on the acquisition, importation, use and disposition of capital personal property.
+
+**LEGISLATIVE AND OTHER REFERENCES**
+
+*Excise Tax Act -* sections 169, 195 to 205 and subsection 123(1)
+
+Notice of Ways and Means Motion tabled on March 27, 1991
+
+**TABLE OF CONTENTS**
+
+Definitions and Interpretations 2 General 5 Capital Property 6 Financial Institutions 7 Capital Personal Property 7 Increase in Use 8 Non-capital Property 9 Improvement 10 Ceasing Use 10 Sale 11 Musical Instruments 11
+
+**DEFINITIONS AND INTERPRETATIONS**
+
+The following are either definitions which have been taken from the *Excise Tax Act* as amended by S.C. 1990, c. 45 (Bill C-62), or departmental interpretations of terms relevant to the administration of that Act.
+
+"**Act**" means the *Excise Tax Act;*
+
+"**capital property**", in respect of a person, means property that is, or would be if the person were a taxpayer under the *Income Tax Act,* capital property of the person within the meaning of that Act, other than property described in Class 12 or 14 of Schedule II to the Income Tax Regulations. The definition of capital property found in the *Income Tax Act* includes
+
+(a) any depreciable property of the taxpayer, and
+
+(b) any property (other than depreciable property), any gain or loss from which would, if the property were disposed of, be a capital gain or capital loss, as the case may be, of the taxpayer.
+
+The definition excludes property the sale of which would be taken into account in computing ordinary income, eligible capital property including intangibles, cultural property, resource properties, insurance policies and timber resource properties. Class 12 includes low value assets depreciated at a rate of 100 per cent, while Class 14 includes limited-time patents, concessions, franchises, and licences;
+
+"**commercial activity**" means
+
+(a) any business carried on by a person,
+
+(b) any adventure or concern of a person in the nature of trade, and
+
+(c) any activity engaged in by a person that involves the supply of real property or of a right or interest in respect of real property by that person,
+
+but does not include
+
+(d) any activity engaged in by a person to the extent that it involves the making of an exempt supply by the person,
+
+(e) any activity engaged in by an individual without a reasonable expectation of profit, or
+
+(f) the performance of any duty or activity in relation to an office or employment;
+
+"**exclusive**", in respect of the consumption, use or supply of property or a service, means all or substantially all of the consumption, use or supply of the property or service, and "all or substantially all", in respect of the consumption, use or supply of property or a service by a financial institution, means all of the consumption, use or supply of the property or service;
+
+"**fair market value**" of property or a service supplied to a person means the fair market value of the property or service without reference to any tax excluded by section 154 of the Act from the consideration for the supply;
+
+"**financial institution**", at any time, means a person who is at that time a financial institution under section 149 of the Act;
+
+"**improvement**", in respect of capital property of a person, means any property or service that is supplied to, or goods that are imported by, the person for the purpose of improving the capital property, to the extent that the consideration paid or payable by the person for the property or service or the value of the goods is, or would be if the person were a taxpayer under the Income Tax Act, included in determining the adjusted cost base to the person of the capital property for the purposes of the Income Tax Act;
+
+"**individual**" means a natural person; (version anglaise seulement)
+
+"**input tax credit**" means a credit claimable by a registrant for the Goods and Services Tax paid or payable by the registrant in respect of the acquisition or importation of any property or service for consumption, use or supply in the course of commercial activities of the registrant;
+
+"**Minister**" means the Minister of National Revenue;
+
+"**person**" means an individual, partnership, corporation, trust or estate, or a body that is a society, union, club, association, commission or other organization of any kind;
+
+"**personal property**" means property that is not real property;
+
+"**prescribed**" means
+
+(a) in the case of a form, the information to be given on a form or the manner of filing a form, prescribed by the Minister, and
+
+(b) in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation;
+
+"**property**" means any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money;
+
+"**public sector body**" means a government or a public service body;
+
+"**public service body**" means a non-profit organization, a charity, a municipality, a school authority, a hospital authority, a public college or a university;
+
+"**real property**" includes
+
+(a) in respect of property in the Province of Quebec, immovable property and every lease thereof,
+
+(b) in respect of property in any other place in Canada, messuages, lands and tenements of every nature and description and every estate or interest in real property, whether legal or equitable, and
+
+(c) a mobile home;
+
+"**recipient**", in respect of a supply, means the person who pays or agrees to pay consideration for the supply or, if no consideration is or is to be paid for the supply, the person to whom the supply is made;
+
+"**registrant**" means a person who is registered under section 241 or who is required to apply to be registered under section 240 of the Act;
+
+"**sale**", in respect of property, includes any transfer of the ownership of the property and a transfer of the possession of the property under an agreement to transfer ownership of the property;
+
+"**tax"** means the Goods and Services Tax payable under Part IX of the Act.
+
+**General**
+
+1. An input tax credit (ITC) may be claimed by a registrant for the tax paid or payable on property or a service acquired or imported for consumption, use or supply in the registrant's commercial activities. Section 169 of the Act governs the claiming of an ITC which, depending on the circumstances, may be full or apportioned.
+
+2. Subsection 169(1) of the Act provides that, subject to Part IX of the Act, a registrant is eligible to claim a full ITC (100 per cent of the tax payable) if the acquired or imported property or service is for consumption, use or supply **exclusively** (generally 90 per cent or more) in the registrant's commercial activities.
+
+3. More information on full ITCs is available in GST MEMORANDUM 400-1-1, **FULL INPUT TAX CREDITS**.
+
+4. Subsection 169(2) of the Act provides for an apportioned ITC when property or a service is acquired or imported by a registrant for consumption, use or supply (in this subsection referred to as "intended use") partly in the registrant's commercial activities. The registrant may be eligible to claim an apportioned ITC for part of the tax paid or payable based on the intended use of the property or service.
+
+5. More information on apportioned ITCs is available in GST MEMORANDUM 400-1-3, **APPORTIONED INPUT TAX CREDITS**.
+
+**Capital Property**
+
+6. For purposes of determining an ITC on acquisition or importation of capital property, different rules apply depending on whether the capital property is personal property or real property. For capital personal property, an ITC may only be claimed if the property is for use primarily (generally more than 50 per cent) in commercial activities. In the case of capital real property, an ITC generally may be claimed proportional to the extent of its intended use in commercial activities.
+
+7. The rules described in paragraph 6 of this memorandum do not necessarily apply to public sector bodies using the Special Quick Method of Accounting. More information about the GST treatment of such bodies is contained in GST MEMORANDUM 600-2, **SPECIAL QUICK METHOD ACCOUNTING SYSTEM - CHARITIES, QUALIFYING NON-PROFIT ORGANIZATIONS AND SELECTED PUBLIC SERVICE BODIES.**
+
+8. For the purposes of the capital property subdivision, the Act provides authority, by regulation, to prescribe property to be personal property and not real property.
+
+9. A registrant determines the amount of an ITC claimable on taxable capital property based on intended use in its commercial activities. When the property is acquired or imported, the property is then treated as being used for its intended purpose. Consequently, if the property is actually used for some other purpose, the change in use rules apply.
+
+10. Changes in use of capital property that are insignificant are not considered to be changes in use for the purposes of the Act. A change in use of capital personal property of less than 10 per cent is deemed to be insignificant unless the primary use test applies. In such cases, a change in use of property from primarily commercial use to primarily non-commercial use is not insignificant. For example, a drop from 70 per cent use in commercial activity to 61 per cent use will have no GST consequences. However, a drop from 52 per cent use to 48 per cent use in commercial activity will be deemed to be a change in use, thus triggering change in use rules discussed in subsequent paragraphs.
+
+11. The Department views previous insignificant changes in the use of a property as being cumulative. Where such changes of less than 10 per cent accumulate to 10 per cent or more, the accumulated changes are considered to be a significant change, invoking the change in use rules.
+
+**Financial Institutions**
+
+12. Special rules exist for capital personal property having a cost to a registrant financial institution of more than $50,000. Generally, financial institutions may claim an ITC based on the extent of intended use in commercial activities at the time of acquisition or importation of such capital personal property.
+
+13. For more information on the tax treatment of the acquisition, improvement, change in use or sale of capital personal property by financial institutions, refer to GST MEMORANDUM 700-5-11, **CAPITAL PROPERTY.**
+
+14. When a registrant, that is not a financial institution, provides exempt financial services related to its commercial activities, any capital property used in the provision of those services is deemed to be used as capital property in the registrant's commercial activities. Thus, there is no requirement for registrants that are not financial institutions to apportion the use of capital properties between use in commercial activities and use in making exempt supplies.
+
+**CAPITAL PERSONAL PROPERTY**
+
+15. Section 199 of the Act contains a set of rules governing ITCs that may be claimed for the tax paid or payable on the acquisition or importation of capital personal property. These rules do not apply to financial institutions or to a passenger vehicle or aircraft of a registrant who is an individual or a partnership.
+
+16. For more information on special rules applying to the ITC entitlement for tax paid or payable on passenger vehicles and aircraft, see GST MEMORANDUM 400-3-4, **PASSENGER VEHICLES AND AIRCRAFT**.
+
+17. Under the rules in section 199 of the Act, a registrant may claim an ITC for tax paid or payable on the acquisition or importation of capital personal property if it is to be used primarily (generally more than 50 per cent) in its commercial activities. Where capital personal property is acquired or imported primarily for use in commercial activities, the registrant is deemed to use the property **exclusively** in such activities, and is allowed to claim an ITC on the full amount of tax paid.
+
+**Increase in Use**
+
+18. A registrant may acquire or import capital personal property and not be entitled to claim an ITC (generally, if it is to be used 50 per cent or less in commercial activities). Subsequently, the registrant begins to use the property as capital property primarily (generally more than 50 per cent) in commercial activities. Under subsection 199(3) of the Act, the registrant is deemed to have received, immediately before the time when the use changed, a supply of the property for use as capital property exclusively in commercial activities and to have paid tax at that time. As a consequence, the registrant will be able to claim an ITC.
+
+19. The amount of tax which the registrant is deemed to have paid is equal to the lesser of
+
+(a) the total tax paid on acquisition or importation of the property and any subsequent improvements, plus, if applicable, tax deemed to have been collected on any previous cessation of primary commercial use, minus all rebates of tax on the original acquisition or importation, and
+
+(b) the tax that would be payable if the registrant were to acquire the property at its fair market value at the time of the change in use.
+
+**Example**
+
+A computer was acquired by a registrant for $10,700 ($10,000 plus $700 GST). No ITC would be allowed if the extent of commercial use was 35 per cent. If, however, one year later the registrant begins to use the computer 70 per cent in commercial activities, ITC eligibility arises. The ITC eligibility is the lesser of tax paid or payable at acquisition and tax that would be paid or payable if the computer was acquired at fair market value at the time the computer begins to be used primarily (generally more than 50 per cent) in commercial activities.
+
+If the computer has a fair market value of $6,000 at the time of change of use, GST of $420 (7% x $6,000) would be payable if acquired at the fair market value at the time of the change in use. Since this amount is less than the tax paid at the time the computer was acquired ($700), the lesser amount of $420 will be the person's ITC entitlement. If, on the other hand, the value of the computer has appreciated to $12,000, the ITC entitlement will be restricted to $700, (the lesser of tax actually paid when the property was acquired and tax that would be payable if the computer was acquired at the time of the change of use for its fair market value at that time).
+
+**Non-Capital Property**
+
+20. A registrant may begin to use property as capital property that it was using as non-capital property in its commercial activities. [NOTE: Pursuant to the Ways and Means Motion introduced by the Minister of Finance on March 27, 1991, the Act will be amended to deem, as of April 1, 1991, the registrant to have sold the property for its fair market value and to have paid as a recipient and collected as a supplier tax on the deemed sale.] In many cases, the registrant will be eligible to claim an ITC for the change in use. However, if the registrant begins to use the property exclusively in other activities, there will be no ITC entitlement.
+
+**Example**
+
+A registrant physician owns a medical supply store and obtains from the store's inventory an examining table for use in his or her medical practice. The physician is required to self-assess on the fair market value of the table and remit the tax. Since the property is now used primarily in exempt activities, the physician is not entitled to claim an ITC.
+
+**Improvement**
+
+21. A registrant may claim an ITC for the tax on an improvement to capital personal property only if the capital personal property is used primarily in commercial activities immediately after the property is improved. In addition, an improvement may result in change of use rules applying to the total property if the registrant had not been entitled to an ITC on acquisition or importation of the unimproved property.
+
+**Example**
+
+A computer was used by a registrant primarily in commercial activities before and after an improvement. If the improvement costs $3,745 ($3,500 plus $245 GST) then the registrant would be able to claim $245 as an ITC. If the computer was used 45 per cent in commercial activities before and after the improvement, no ITC could be claimed on the improvement. However, if the computer was used 45 per cent in commercial activities before an improvement and 55 per cent in commercial activities afterwards, then the registrant would be entitled to an ITC.
+
+**Ceasing Use**
+
+22. A registrant that acquired capital personal property for use primarily (generally more than 50 per cent) in commercial activities subsequently may begin to use the property less than primarily in those activities. In such a case, the registrant is deemed to have sold the property for its fair market value at the time and to have collected tax on that amount which will have to be remitted with the registrant's next return.
+
+**Example**
+
+In 1991, a registrant bought a computer for $3,210 ($3,000 plus $210 GST) for use 70 per cent in commercial activities and claimed an ITC of $210. In 1993, the commercial use drops to 35 per cent. The registrant is considered to have sold the computer at its fair market value at that time. If the value is $1,000, tax of $70 is deemed collectible and the registrant must account for this amount in calculating its net tax for the period.
+
+**Sale**
+
+23. Where a registrant sells capital personal property and immediately before the sale the registrant was not using the property primarily (generally more than 50 per cent) in commercial activities, then the sale shall be deemed not to be a taxable supply. As a result, tax will not be charged on the sale.
+
+**Example**
+
+If the computer discussed in paragraph 22 of this memorandum was later sold for $500, no tax would be collectible or remittable on this sale.
+
+**Musical Instruments**
+
+24. Where a registrant individual acquires or imports a musical instrument for use in employment or in a business carried on by a partnership of which the individual is a member, such use of the instrument is deemed to be in commercial activities. Therefore, musical instruments are subject to the provisions for acquisition, change in use, ceasing to use and sale for capital personal property. If the deemed use of the instrument, or such use combined with actual use in commercial activities reaches the threshold of use primarily in commercial activities, the registrant may claim a full ITC for tax paid or payable on acquisition or importation.
+
+**Example**
+
+A musician is registered for the GST and uses a musical instrument 40 per cent as an employee and 25 per cent in the course of a commercial activity (for example, as a self-employed musician). This performer will be treated as using the instrument primarily (here 65 per cent) in a commercial activity and will, therefore, be entitled to claim a full ITC for any tax paid on the purchase of the instrument.
+
+**REFERENCES OFFICE OF RESPONSIBILITY:**
+
+Policy and Legislation
+
+**LEGISLATIVE REFERENCES:**
+
+*Excise Tax Act*
+
+**HEADQUARTERS FILE:**
+
+N/A
+
+**SUPERSEDES GST MEMORANDUM:**
+
+N/A
+
+**OTHER REFERENCES:**
+
+N/A
+
+SERVICES PROVIDED BY THE DEPARTMENT ARE AVAILABLE IN BOTH OFFICIAL LANGUAGES.
+
+THIS MEMORANDUM IS ISSUED BY TECHNICAL INFORMATION, EXCISE/GST BRANCH UNDER THE AUTHORITY OF THE DEPUTY MINISTER OF NATIONAL REVENUE, CUSTOMS AND EXCISE.

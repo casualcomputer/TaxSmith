@@ -1,0 +1,75 @@
+Title: ARCHIVED - Foreign exchange gains and losses
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it95r/archived-foreign-exchange-gains-losses.html
+Corpus path: corpus/cra/forms-publications/publications/it95r/archived-foreign-exchange-gains-losses.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Foreign exchange gains and losses
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO.: **IT-95R**
+
+DATE: December 16, 1980
+
+SUBJECT: INCOME TAX ACT**Foreign Exchange Gains and Losses**
+
+REFERENCE: Subsection 9(1) (Also subsections 39(2), 40(1) and 40(2) of the Act)
+
+**Notice to the reader:**
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it95r.html), including PDF (which is an exact rendition of the original).
+
+This bulletin replaces and cancels IT-95, dated March 15, 1973.
+
+1. There are no provisions in the Act which specify whether a foreign exchange gain or loss is on account of income or capital. In determining whether such a gain or loss is on account of income, the basic principles of determining income from a business or property for purposes of subsection 9(1) of the Act must be applied. Thus the major problem in determining the income tax status of foreign exchange gains or losses is the identification of the transactions from which they resulted, or, in the case of funds borrowed in a foreign currency, the use of the funds. A related problem is the determination of the method of accounting to be followed in reporting foreign exchange gains or losses for tax purposes.
+
+Identification of Transactions
+
+2. Where it can be determined that a gain or loss on foreign exchange arose as a direct consequence of the purchase or sale of goods abroad, or the rendering of services abroad, and such goods or services are used in the business operations of the taxpayer, such gain or loss is brought into income account. If, on the other hand, it can be determined that a gain or loss on foreign exchange arose as a direct consequence of the purchase or sale of capital assets, this gain or loss is either a capital gain or capital loss, as the case may be. Generally, the nature of a foreign exchange gain or loss is not affected by the length of time between the date the property is acquired (or disposed of) and the date upon which payment (or receipt) is effected.
+
+3. Generally, where borrowed funds are used in the ordinary course of a taxpayer's business operations, any foreign exchange gain realized on the repayment of the loan is considered to be an income gain and any foreign exchange loss incurred on repayment of the loan is considered to be an income loss. The fact that a company which borrowed in a foreign currency was not adequately capitalize d does not automatically result in capital treatment of any foreign exchange gains or losses arising on repayment. Capital treatment will result where it can be shown that the borrowed funds form par t of the permanent or fixed capital of the company, regardless of the use of the funds. In other cases of inadequate capitalization, the use made of the borrowed funds will determined where such gains or losses should b e on income account or on capital account.
+
+4. Where current foreign funds, i.e. funds obtained as a result of transactions on income account, are used to make a capital payment, such as a payment to purchase a capital property or a payment on a capital debt obligation, the exchange gain or loss on those current funds is reflected on income account at the time of the capital payment as though the funds had been converted to Canadian dollars and the same amount of Canadian funds had been used to make the capital payment. In such circumstances, there could subsequently be a capital gain or loss on the discharge of the capital debt obligation.
+
+5. Sundry dispositions of foreign currency by individuals, such as a conversion of travellers cheques in foreign funds to Canadian dollars on return from a vacation, are considered to be on account of capital. Foreign exchange losses sustained on the repayment of a debt which was given to acquire a personal-use property are also considered to be capital losses under subsection 39(2).
+
+6. A taxpayer who has transactions in foreign currency or foreign currency futures that do not form part of business operations, or are merely the result of sundry dispositions of foreign currency by an individual, will be accorded by the Department the same treatment as that of a "speculator" in commodity futures see 7 and 8 or IT-346R. However, if such a taxpayer has special "Inside" information concerning foreign exchange, he will be required to report his gains and losses on income account.
+
+Income Transactions Method of Accounting
+
+7. The Department will accept any method used to determine foreign exchange gains or losses on income transactions provided that method is, under the circumstances, in accordance with generally accepted accounting principles. Further the method used should be the same for both financial statement and income tax purposes. In the Department's view a determination of foreign exchange gains and losses cannot be properly made under section 9 if the taxpayer is inconsistent in his approach from year to year and, once he has chosen one method, the taxpayer should, in subsequent years, use the same method. However, the Department will accept a change in method, provided it is shown in the circumstances to be a more appropriate method to compute the taxpayer's income in the taxation year in which the change occurs, but it is expected that the new method will be used for financial reporting purposes by the taxpayer and thereafter will be consistently used. Some of the accounting methods that may be appropriate, depending on the circumstances, to determine foreign exchange gains and losses on income transactions are summarized in 8 and 9 below.
+
+8. Transactions on income account are normally recorded in a taxpayer's accounts in the Canadian dollar equivalent determined according to the rate of the exchange prevailing at the time of the transaction. If full or partial settlement (i.e. receipt or payment of Canadian dollars) of an account is made within the taxation year, any foreign exchange gain or loss is reflected in income in that taxation year and at the end of the year the normal practice is for a taxpayer to adjust to Canadian dollars all his current accounts to reflect the exchange rate prevailing at that time and to include any resulting foreign exchange gains or losses in income in the year (current rate or accrual method). If a taxpayer follows the practice of waiting until an account is fully or partially settled before bringing any foreign exchange gains or losses into account but does not adjust for accrued gains or losses at year end this method is also acceptable (historical rate or settlement method). In many situations it is not practical for a taxpayer to express each transaction at its prevailing rate at the time of the transaction. As a result, the Department will accept the following alternative methods of accounting for foreign exchange gains and losses:
+
+(a) a taxpayer may record his transactions throughout the year at a fixed rate which does not necessarily approximate the prevailing rate at the time; or
+
+(b) a taxpayer may record his transactions throughout the year at an average rate of exchange during the year. If either method (a) or (b) above is used by a taxpayer, an adjustment of all accounts to Canadian funds must be made at the end of the year at the prevailing exchange rate at that time.
+
+9. Where a taxpayer has a bank account in a foreign currency into which receipts from customers are deposited or on which cheques are drawn for the payment of foreign expenses or purchases, there may be, especially in the case where a taxpayer operates a foreign branch, numerous transactions on which a foreign exchange gain or loss will result. If the receipts in foreign currency are accumulated in the foreign bank account and converted periodically into Canadian dollars, there may be a foreign exchange gain or loss when each conversion is made. If the foreign funds are used to pay for purchases or to settle accounts payable, there may be, in respect of the funds so used, a foreign exchange gain or loss in the same amount as if those funds had been converted into Canadian dollars at that time and other Canadian dollars had been used to make the payment. When foreign exchange gains and losses are computed for such transactions any of the methods indicated above may be used.
+
+10. The comments in 8 and 9 above do not necessarily apply in non-arm's length situations where it is evident that the transactions have been set up in such a manner to benefit a non-resident or to permit the write-off of foreign exchange losses to a resident.
+
+11. Regardless of the method used to determine foreign exchange gains and losses, no reserve is allowed to provide for known or anticipated changes in exchange rates which have occurred, or may occur, after the end of a fiscal year.
+
+Capital Transactions
+
+12. Subsection 39(2) applies to any fluctuation after 1971 of a foreign currency relative to Canadian dollars that results in a gain being made or a loss being sustained. In the case of individuals the rules in that subsection provide that only the amount in excess of $200 of an individual's net gain or loss on the disposition of foreign currency is taxable or deductible as a capital gain or loss.
+
+13. The Department considers that a taxpayer has "made a gain" or "sustained a loss" in a foreign currency only where there has been a transaction resulting in a gain or loss. Subsection 39(2) does not apply where a loss has been made "on paper" but no transaction has taken place. As a result the "accrual" method of accounting for foreign exchange gains or losses is not acceptable for purposes of reporting foreign exchange gains or losses on capital account. The following are examples of the time when the Department considers a transaction resulting in the application of subsection 39(2) to have taken place.
+
+(a) at the time of conversion of funds in a foreign currency into another foreign currency or into Canadian dollars,
+
+(b) at the time funds in a foreign currency are used to make a purchase or a payment (in such a case the gains or loss would be the difference between the value of the foreign currency expressed in Canadian dollars when it arose and its value expressed in Canadian dollars when the purchase or payment was made), and
+
+(c) at the time of repayment of part or all of a capital debt obligation.
+
+Foreign currency funds on deposit are not considered to be disposed of until they are converted into another currency or are used to purchase a negotiable instrument or some other asset, i.e. foreign funds on deposit may be moved from one form of deposit to another as long as such funds can continue to be viewed as "on deposit". Term deposits, guaranteed investment certificates and other similar deposits which are in fact not negotiable, are considered funds on deposit. Transactions in which foreign currency funds are invested in negotiable instruments such as notes, bonds mortgages, debentures, U.S. government treasury bills and notes and U.S. commercial paper, will require a foreign exchange gain or loss calculation at the time the foreign currency funds are used to purchase these investments and as well, each time such investments mature or are otherwise disposed of, whether or not the funds are rolled over into like securities.

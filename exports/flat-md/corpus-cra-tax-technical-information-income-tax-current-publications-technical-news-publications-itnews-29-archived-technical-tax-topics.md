@@ -1,0 +1,56 @@
+---
+title: "ARCHIVED - Technical Tax Topics"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29/archived-technical-tax-topics.html
+last_modified: 2019-10-08
+---
+# ARCHIVED - Technical Tax Topics
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for income tax technical news](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/what-archived-content-notice-means-income-tax-technical-news.html)
+
+This document is also available [in other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29.html).
+
+## Reorganizations and Resources Division
+
+***Section 12 ~ Corporate Reorganizations Section I*** Acquisition of control, Amalgamations, Attribution where a corporation is involved, Butterfly transactions, Estate freezes, Instalment requirements, Penalties, Reorganizations of capital, Returns and reassessments, Safe income, Transfer of assets, Winding-up into another corporation.
+
+***Section 13 ~ Resources Industry Section*** Cogeneration and renewable energy expenses, Electricity generation equipment, Energy expenditures, Environmental expenses, Exploration and development expenses, Flow-through shares, Forestry, Gas, Mining, Oil, Pipeline operations, Processing and refining up to the M&P stage, Resource properties and Royalties.
+
+***Section 16 ~ Corporate Reorganizations Section II*** Deals with questions in Section 12.
+
+## Business and Partnerships Division
+
+***Section 23 ~ Administrative Law Section*** Forms and guides.
+
+***Section 24 ~ Business and Health Section*** Attendant Care, Definition of Common Law, Disability Tax Credit, Fellowships, Films and videos, Film tax credit, Inter-provincial tax allocation, Health Spending Account, Medical Expense Tax Credit, Partnerships, Personal tax credits, Private Health Services Plans, Tax Shelters.
+
+***Section 25 ~ Business and Personal Section*** Advertising and broadcasting expense limitation, Alternative minimum tax, Attendant care expenses, Automobile, Business income and general business expenses (limitations, reserves), Calculation of group term life insurance benefits, Certain section 81 exempt income (social assistance), Child care expenses, Child tax benefit, Communal organizations, Construction, Damage settlements, Death benefits, December 31, 1995 income, Employee withholding and employer information returns, Employment income and expenses, Fiscal period, Flexible benefit plans, Foster parents, General computation of tax for individuals, GST tax credits, Health and welfare trusts, Interest benefits, Limitation for fines and penalties, Limitation of expenses for passenger vehicles, Lump sum employment income, Meals and entertainment expenses, Membership fees, MLA’s and municipal officer’s allowances, Moving expenses, Non-refundable credits (e.g. personal, married, dependant, age), Northern residents deduction, Patronage dividend, Penalties for misrepresentation by a third party, Professional dues, Rental income, Self-employed, Scholarship income, Shareholder loans, Social assistance income, Source deductions, Standby charges, Tax on old age security benefits, Tax on split income, Training grants, Unpaid amounts and remuneration, Volunteer workers (emergency services), Wage loss replacement plans, Withholdings, Work at home expenses, Worker’s compensation.
+
+***Section 26 ~ Business Incentives and Capital Transactions Section*** Active business income, Alimony and child support, Allowable business investment losses (ABILs), Attribution, Capital cost allowance, Capital gains, Eligible capital expenditures, Eligible capital property, Farming and fishing income, Government grants, Investment tax credits, Manufacturing and processing profits deductions, Matchable expenditures, Non-compete payments, Principal residence, Qualified farm property, Qualified small business corporation share, Replacement property, Scientific research and experimental development, Structure settlements, Superficial losses.
+
+## International and Trusts Division
+
+***Section 31 ~ International Section I*** Amounts owing by non-residents, Branch tax, Carrying on business in Canada, E-commerce (domestic and international) (cross-border issues), FAPI, Foreign affiliates, Foreign Entity Classification, Foreign investment entities, Foreign reorganizations, Foreign reporting rules, Foreign spin offs, Foreign tax credit, Hybrid Entities, Immigration/emigrations, *Income Tax Conventions Interpretations Act*, International traffic, Limitation of the deduction of interest (18(4)), Part XIII withholding tax, Part-year residents, Permanent establishments, Overseas employment tax credit, Residency, Tax treaties, Taxable income earned in Canada, Thin capitalization, Transfer Pricing.
+
+***Section 33 ~ International Section II*** Deals with questions in Section 31.
+
+***Section 35 ~ Trusts Section*** Alter ego trusts - joint spousal or common law partner trusts, Attribution rules where a trust is involved, Death of a taxpayer, Eligible funeral arrangements, Foreign reporting rules where a trust is involved, Income Trusts, Mutual Funds, Mutual Fund Trusts, Non-resident trusts, Qualifying exchange, Real Estate Trusts (REITS), Trusts.
+
+## Financial Sector and Exempt Entities Division
+
+***Section 41 ~ Charitable and Financial Institution Sectors*** Banks and international banking centres, Charitable gifts, Charities, Cooperatives, Credit unions, Deposit insurance corporations, Exempt entities other than 149(1)(*l*), Insurance corporations, Large corporation tax, Mark-to-market properties & specified debt obligations, Mortgage investment corporations, Mutual fund corporations, Policyholder taxation, Trust companies.
+
+***Section 42 ~ Corporate Financing*** 12(1)(x) and loss utilizations with 20(1)(c), 212(1)(b)(vii), Attribution rules, Clergy, Debt forgiveness, Deductibility of interest and other borrowing costs, Distressed preferred shares, Financial engineering (derivatives, swaps, hedging), Interest income, Labour-sponsored venture capital corporations, Leasing, Political contributions, Structured settlements, Term preferred shares.
+
+***Section 43 ~ Deferred Compensation Arrangements and Retirement Plan*** Deferred profit-sharing plans (DPSPs), Employee benefit plans, Employee profit-sharing plans (EPSPs), Exempt pension corporations, Foreign pensions and Foreign retirement arrangements, Home buyers’ plan, Lifelong learning plan, Pension plans, Qualified investments, Registered education savings plans (RESPs), Registered retirement income funds (RRIFs), Registered retirement savings plans (RRSPs), Retirement compensation arrangements (RCAs), Retiring allowances, Salary deferral arrangements, Stock options.
+
+***Section 45 ~ Non-Profit Organizations and Aboriginal Issues*** Education tax credit, First Nations issuing charitable donation receipts, First Nations qualifying as a public body performing a function of government, Indian business income, Indian employment income and the Guidelines, Indian investment income, Indian Trusts, Metis and Inuit, Non-profit organizations, Self-government agreements, Status Indians (anything related to), Tuition tax credit.
+
+[ [Income Tax  Technical News No. 29](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29/archived-income-tax-technical-news-no-29.html) ]

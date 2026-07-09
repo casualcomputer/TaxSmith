@@ -1,0 +1,98 @@
+---
+title: "ARCHIVED - Interest on debts owing to specified non-residents (Thin Capitalization)"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it59r3/archived-interest-on-debts-owing-specified-non-residents-thin-capitalization.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Interest on debts owing to specified non-residents (Thin Capitalization)
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO.: **IT-59R3**
+
+DATE: September 26, 1984
+
+SUBJECT: INCOME TAX ACT**Interest on debts owing to specified non-residents (Thin Capitalization)**
+
+REFERENCE: Subsection 18(4) (also subsections 18(5) to (8))
+
+This bulletin replaces and cancels Interpretation Bulletin IT-59R2 dated December 11, 1978. Revisions are designated by vertical lines.
+
+**Notice to the reader:**
+
+- [Bulletins do not have the force of law](https://www.canada.ca/formspubs/pbs/tntc-eng.html).
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it59r3.html).
+
+1. Subsection 18(4) of the Act restricts a deduction for interest paid or payable by a corporation resident in Canada (other than a corporation excepted by subsection 18(8)) in a taxation year on debts owning to specified non-residents as set forth in subsection 18(5), if the ratio of these debts to the corporation's equity (as described in 6 and 7 below) exceeds three to one.
+
+2. Clause 18(5)(a)(i)(A) defines a specified non-resident as a person who was, at any time in the year,
+
+(a) a specified non-resident shareholder of a corporation, being a shareholder of the corporation who at that time, either alone or together with non-arm's length parties, owned 25% or more of the issued shares of any class of the capital stock of the corporation (a "specified shareholder") and who was at that time a non-resident person or a non-resident-owned investment corporation, or
+
+(b) a non-resident person, or a non-resident-owned investment corporation as defined by paragraph 133(8)(d), who was not dealing at arm's length with a specified shareholder of the corporation.
+
+3. Pursuant to subsection 18(6), where any specified non-resident shareholder of a corporation resident in Canada makes a loan to another person on condition that a loan be made by that person (or by any other person) to the corporation or another corporation resident in Canada, the lesser of the amounts of the loans is deemed to be a debt of the corporation that received the subsequent loan to the specified non-resident shareholder. Generally, subsection 18(6) will be applied only in those situations where the application of subsections 18(4) and 18(5) is otherwise frustrated or circumvented. For example, a non-resident corporation lends its Canadian subsidiary an amount which is re-loaned to another Canadian subsidiary. Provided that subsection 18(4) is applicable to the initial loan, subsection 18(6) will not be applied to the re-loaned amount. PAGE 2 For taxation years that commenced prior to November 13, 1981, the provisions of subsection 18(6) apply to loans by any specified non-resident as described in 2 above.
+
+4. There the greatest amount of the corporation's outstanding debts to specified non-residents at any time in a taxation year exceeds three times the corporation's equity (as described in 6 and 7 below), no deduction may be made for that proportion of the interest on those debts that the excess is of the greatest amount outstanding in the year. The disallowance may be calculated as follows:
+
+(A ÷ B) × C
+
+A = Greatest amount outstanding to specified non-residents minus 3 times equity B = Greatest amount outstanding to specified non-residents C = Interest paid or payable on debts owing to specified non-residents(according to the method followed in claiming interest expense)
+
+5. To apply the formula, only an interest-bearing debt for which a deduction for interest would otherwise be allowed in computing the corporation's income is taken into account.
+
+6. For taxation years commencing after November 12, 1981, equity means the aggregate of
+
+(a) the retained earnings at the commencement of the corporation's year not including the retained earnings of any other corporation (e.g. not including book entries where the equity method is used to account for earnings from long-term investment in another corporation),
+
+(b) the corporation's contributed surplus at the commencement of the year that was contributed by specified non-resident shareholders of the corporation, and
+
+(c) the greater of the corporation's paid-up capital (see IT-463) at the commencement of the year and the corporation's paid-up capital at the end of the year in respect of shares owned by specified non-resident shareholders of the corporation.
+
+7. For taxation years commencing after March 31, 1977 but prior to November 13, 1981, equity means the aggregate of
+
+(a) the retained earnings at the commencement of the corporation's year less the retained earnings of any other corporation included therein,
+
+(b) the corporation's contributed surplus at the commencement of the year, and
+
+(c) the greater of the corporation's paid-up capital at the commencement of the year and the corporation's paid-up capital at the end of the year.
+
+8. Subject to the comments in 6(a) and (b) above, generally accepted accounting principles govern in determining retained earnings and contributed surplus. Retained earnings cannot be a negative figure (deficit) nor can it include unrealized appraisal surpluses. A deficit does not reduce the amount of contributed surplus or paid-up capital for purposes of 6(b) and (c) and 7(b) and (c) above unless it has been legally incorporated in those amounts (e.g. where a deficit has been reduced or eliminated by the approval of the shareholders in accordance with the company's documents of incorporation and the applicable corporation law).
+
+9. In the following example a corporation resident in Canada (Canco II) that prior to November 13, 1981 was not subject to the restrictions imposed by subsection 18(4) in respect of interest paid to its non-resident affiliate (X Co.) (under the rules in 7(c) above) would be so restricted after November 12, 1981 because of the changed rules described in 6(c) above.
+
+- X Co. is a foreign corporation
+
+- Canco I is a Canadian resident wholly-owned subsidiary of X Co.
+
+- Canco II is a Canadian resident wholly-owned subsidiary of Canco I.
+
+- Financing arrangements are as follows:
+
+|  | Canco I | Canco II |
+
+| --- | --- | --- |
+
+| Capital Stock: |  |  |
+
+| Held by X Co. | $100 | - |
+
+| Held by Canco I | - | $ 400* |
+
+| Loans from X Co. | 300 | 1,200 |
+
+|  | $400 | $1,600 |
+
+* Qualifies as equity prior to November 13, 1981, but not thereafter.
+
+10. By virtue of subparagraph 18(5)(a)(ii), subsection 18(4) does not apply to certain debts owing by any corporation controlled by (and for taxation years that commenced prior to November 13, 1981, certain debts owning by a subsidiary of) a non-resident life insurance corporation. Such debts are those amounts required to be included by the non-resident life insurance corporation as property held by it in the course of carrying on an insurance business in Canada where that corporation, pursuant to subsection 138(9), has included the revenue there from in computing its income from carrying on an insurance business in Canada.
+
+11. Instead of claiming interest expense as a deduction in computing income, corporations may elect in accordance with section 21 to treat all or part of the interest as part of the cost of depreciable property or as part of Canadian exploration and development expenses, foreign exploration and development expenses, Canadian exploration expense, Canadian development expense or Canadian oil and gas property expense, as the case may be. By virtue of subsection 18(7), the maximum amount on which the election may be made is that amount of interest that otherwise would have been deductible in computing income pursuant to the provisions of subsection 18(4).

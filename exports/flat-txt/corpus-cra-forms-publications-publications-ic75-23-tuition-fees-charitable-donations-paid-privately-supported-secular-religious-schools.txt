@@ -1,0 +1,63 @@
+Title: Tuition Fees and Charitable Donations Paid to Privately Supported Secular and Religious Schools
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic75-23/tuition-fees-charitable-donations-paid-privately-supported-secular-religious-schools.html
+Corpus path: corpus/cra/forms-publications/publications/ic75-23/tuition-fees-charitable-donations-paid-privately-supported-secular-religious-schools.md
+Document type: publication
+Last modified: 2017-11-07
+
+# Tuition Fees and Charitable Donations Paid to Privately Supported Secular and Religious Schools
+
+NO.: **IC75-23**
+
+DATE : September 29, 1975
+
+SUBJECT: **Tuition Fees and Charitable Donations Paid to Privately Supported Secular and Religious Schools**
+
+1. Tuition fees paid to an educational institution in Canada are deductible by the student in accordance with subsection 60(f) of the Income Tax Act. Such fees are not considered charitable donations and official receipts designed for charitable donations may not be issued for such tuition fees even though the educational institution may be a registered Canadian charitable organization as defined in paragraph 110(8)(c) of the Act.
+
+2. The purpose of this circular is to explain two exceptions to the above rule where a portion or all of an amount paid to a school, other than a post-secondary institution or a designated educational institution (see Appendix A), may be considered as a donation. The two types of such schools which give rise to these special circumstances are:
+
+(a) those which teach exclusively religion, and
+
+(b) those which operate in a dual capacity providing both secular (academic) and religious education.
+
+Religious Schools
+
+3. If such a school teaches exclusively religion and thereby operates solely for the advancement of religion, payments for students attending that school are not considered to be tuition fees but will be considered as valid donations and, providing the school is a registered Canadian charitable organization, official receipts for charitable donations may be issued for such payments.
+
+Secular Schools
+
+4. The provisions of the Income Tax Act do not permit a deduction, as a charitable donation, of an amount paid to a school for academic tuition, whether the amount was paid for set fees or was a voluntary contribution. A gift, to be allowable within the concept of paragraph 110(1)(a) of the Act, must be a voluntary transference of property without consideration. The consideration here is the academic training received by the children attending the school. On the other hand religious training is not viewed as consideration for purposes of the definition of a gift.
+
+5. School fees are normally based on the costs of operation. However, there are some schools in Canada, usually connected with a church, which do not levy set fees and operate solely through contributions of parents or guardians and other members of the church. These schools, which are subject to the inspection of provincial educational authorities, operate in a dual capacity providing both secular and religious education.
+
+6. Under certain circumstances receipts for charitable donations may be issued for a portion of an amount paid to attend schools, other than post-secondary institutions or designated educational institutions, which operate in this dual capacity. There are two methods of calculating the donation portion of amounts paid, depending on how the school maintains its accounting records.
+
+7. The most favourable treatment will be received where the school can and does segregate the cost of operating the secular portion of the school and the cost of providing religious training. Under this method, the net cost of operating the secular portion of the school is to be pro-rated over the number of pupils enrolled during the school year to determine a "cost per pupil" for the secular training. An official donation receipt can be issued for that portion of a payment which is in excess of the pro-rated "cost per pupil" for academic training. If a taxpayer has more than one child in attendance at the school, the amount to be deducted from his total payment, to determine the donation portion, is the "cost per pupil" for academic training multiplied by the number of his children enrolled during the school year.
+
+8. The net cost of operating the secular portion of the school will be determined to be the total operating costs of that portion of the school for a school year (excluding capital expenditures and depreciation) less miscellaneous income, grants received and donations received from persons with no children in attendance, unless such grants or donations were designated for a capital purpose. "Cost per pupil" would be the above described cost divided by the number of students enrolled during the school year.
+
+9. Where such a school which operates in a dual capacity does not or cannot segregate the cost of operating the secular portion of the school and the cost of providing religious training, a donation receipt can be issued only for that part of the payment which is in excess of the net operating "cost per pupil" of the whole school for a school year. The net operating cost of the whole school in this case will be the total operating costs of the school including both secular and religious education (excluding capital expenditures and depreciation) less miscellaneous income, grants and donations from persons with no children in attendance, unless such grants or donations were designated for capital purposes. "Cost per pupil" will be the above described cost divided by the number of students enrolled during the school year. For taxpayers with more than one child in attendance, the rule in the last sentence of paragraph 7 above will apply using the "cost per pupil" of the whole school.
+
+10. For purposes of either of the above methods, where a payment has been made to a school before December 31st of a school year and the school must issue an official donation receipt for taxation purposes before the "cost per pupil" for the school year can be determined, the school may use the "cost per pupil" of the previous school year, if the school operated in that previous year.
+
+11. The school must be prepared to substantiate that the "cost per pupil" for a school year has been determined from the books and records of the school in accordance with the above policy.
+
+12. A payment to such a school by a person who is neither the parents or guardian of a pupil who attends such a school and for which no benefit is derived qualifies in full as a donation.
+
+APPENDIX A
+
+Section 110(9)
+
+"For the purposes of paragraphs 1(g) and (h),
+
+(a) "designated educational institution" means
+
+(i) an educational institution in Canada that is
+
+(A) a university, college or other educational institution designated by the Lieutenant Governor in Council of a province as a specified educational institution under the Canada Student Loans Act or recognized by the Minister of Education of the Province of Quebec for the purposes of the Students Loans and Scholarships Act of the Province of Quebec, or
+
+(B) certified by the Minister of Manpower and Immigration to be an educational institution by which courses are conducted that provide or improve the qualifications of a person for employment or for the carrying on of a business or profession,
+
+(ii) a university outside Canada at which the student referred to in paragraph (1)(g) or (h), as the case may be, was enrolled in a course, of not less than 13 consecutive weeks duration, leading to a degree, or
+
+(iii) if the student referred to in paragraph (1)(g) or (h), as the case may be, resided, during the whole of the year referred to therein, in Canada near the boundary between Canada and the United States, an educational institution in the United States to which he commuted that is a university, college or other educational institution providing courses at a post-secondary school level;"

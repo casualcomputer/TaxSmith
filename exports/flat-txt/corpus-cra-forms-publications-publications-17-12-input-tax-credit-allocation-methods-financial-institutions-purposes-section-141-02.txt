@@ -1,0 +1,769 @@
+Title: Input Tax Credit Allocation Methods for Financial Institutions for Purposes of Section 141.02
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-12/input-tax-credit-allocation-methods-financial-institutions-purposes-section-141-02.html
+Corpus path: corpus/cra/forms-publications/publications/17-12/input-tax-credit-allocation-methods-financial-institutions-purposes-section-141-02.md
+Document type: publication
+Last modified: 2023-07-22
+
+# Input Tax Credit Allocation Methods for Financial Institutions for Purposes of Section 141.02
+
+GST/HST Memorandum 17-12 July 2021
+
+This memorandum cancels and replaces GST/HST Technical Information Bulletin B-106, Input Tax Credit Allocation Methods for Financial Institutions for Purposes of Section 141.02 of the Excise Tax Act.
+
+This memorandum explains how financial institutions, including both listed and de minimis financial institutions as described in subsection 149(1), must categorize their inputs and the input tax credit (ITC) allocation methods in section 141.02 which apply to each input based on that categorization.
+
+It sets out the criteria, rules, terms and conditions specified by the Minister for purposes of these ITC allocation methods. A qualifying institution applying to have its methods authorized by the Minister is also required to categorize inputs and follow the criteria, rules, terms and conditions contained in this memorandum.
+
+This memorandum also provides information about the election under subsection 141.02(9) for a financial institution that is not a qualifying institution to use a prescribed percentage for its residual inputs.
+
+It also explains certain provisions in section 141.02 regarding appeals and when the Minister may direct a financial institution to use a particular method.
+
+In this publication, all legislative references are to the Excise Tax Act (ETA) and all references to the “Regulations” are to the Input Tax Credit Allocation Methods (GST/HST) Regulations, unless otherwise specified. The information in this publication does not replace the law found in the ETA and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1-800-959-8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1-800-567-4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1-855-666-5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia, and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [Introduction](#_Toc68865252)
+
+- [Categorizing business inputs](#_Toc68865253)
+
+    - [Excluded inputs](#_Toc68865254)
+
+    - [Exclusive inputs](#_Toc68865255)
+
+    - [Direct inputs](#_Toc68865256)
+
+    - [Non-attributable inputs](#_Toc68865257)
+
+- [Determining the extent of use of business inputs](#_Toc68865258)
+
+    - [Determining the extent of use of an exclusive input](#_Toc68865259)
+
+    - [Allocating excluded, direct and non‑attributable inputs](#_Toc68865260)
+
+    - [Criteria, rules, terms and conditions specified by the Minister](#_Toc68865261)
+
+          - [Objective measure](#_Toc68865262)
+
+                  - [Meaningful](#_Toc68865263)
+
+                  - [Unbiased](#_Toc68865264)
+
+                  - [Verifiable](#_Toc68865265)
+
+    - [Accurate application](#_Toc68865266)
+
+          - [Comparable results](#_Toc68865267)
+
+          - [Appropriate cost pools](#_Toc68865268)
+
+    - [Additional requirements for an ITC allocation method](#_Toc68865269)
+
+          - [Fair](#_Toc68865270)
+
+          - [Reasonable](#_Toc68865271)
+
+          - [Used consistently](#_Toc68865272)
+
+          - [Determined by the date specified in legislation](#_Toc68865273)
+
+          - [No alterations to ITC allocation method](#_Toc68865274)
+
+    - [Specified method for an excluded input](#_Toc68865275)
+
+    - [Direct attribution method for a direct input](#_Toc68865276)
+
+    - [Specified method for a non‑attributable input](#_Toc68865277)
+
+- [Non-qualifying institution electing to use a prescribed percentage for residual inputs](#_Toc68865278)
+
+    - [Revocation](#_Toc68865279)
+
+    - [Other methods](#_Toc68865280)
+
+    - [Direction by Minister](#_Toc68865281)
+
+    - [Appeals](#_Toc68865282)
+
+- [Appendix](#_Toc68865283)
+
+    - [Definitions](#_Toc68865284)
+
+## Introduction
+
+1. Financial institutions are required to follow specific rules for apportioning the use of their inputs in order to determine their ITC eligibility with respect to those inputs. Section 141.02 sets out these rules, which in conjunction with section 169 and subsections 141.01(2) and 141.01(3), apply in determining the extent to which property or a service is consumed or used, or acquired, imported or brought into a participating province for consumption or use for the purpose of making taxable supplies for consideration or otherwise (for example, for making exempt supplies). These specific rules apply to all financial institutions, which include both listed financial institutions described in paragraph 149(1)(a) and de minimis financial institutions described in paragraph 149(1)(b) or (c). For further information on determining if a person is a listed financial institution, refer to [GST/HST Memorandum 17-6, Definition of Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6.html), and for further information on determining if a person is a de minimis financial institution, refer to [GST/HST Memorandum 17-7, De Minimis Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-7.html).
+
+2. Section 141.02 includes provisions that apply specifically to financial institutions that are qualifying institutions, provisions that apply specifically to financial institutions that are not qualifying institutions, and provisions that apply to both of these types of financial institutions. If a financial institution is a qualifying institution, refer to [GST/HST Memorandum, 17-13, Application of Section 141.02 to Financial Institutions That Are Qualifying Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-13.html). It should be noted that a qualifying institution applying to have its methods authorized by the Minister is also required to categorize inputs and follow the criteria, rules, terms and conditions contained in this memorandum. Such an application is made using [Form GST116, Application, Renewal or Revocation of the Authorization for a Qualifying Institution to Use Particular Input Tax Credit Allocation Methods](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst116.html), or [Form RC7216, Application, Renewal or Revocation of the Authorization for a Qualifying Institution that is a Selected Listed Financial Institution to Use Particular Input Tax Credit Allocation Methods](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7216.html).
+
+3. To determine if a particular financial institution is a qualifying institution and for information about the application for a non-qualifying institution to be designated as a qualifying institution, refer to [GST/HST Memorandum, 17‑11, Determining Whether a Financial Institution is a Qualifying Institution for Purposes of Section 141.02](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-11.html).
+
+4. In this memorandum, references to property or a service being **acquired** means property or a service being either acquired, imported or brought into a participating province, as the case may be.
+
+5. Generally, under subsection 169(1), a person (who is a registrant) is only eligible to claim an ITC in respect of GST/HST paid or payable on property or a service acquired by the person to the extent that the property or service was acquired by the person for consumption, use or supply in the course of the person’s commercial activities. Subsection 141.01(2) clarifies the extent to which property or a service is acquired by the person for consumption or use in the course of the person’s commercial activities.
+
+6. Pursuant to subsection 141.01(2), a person is deemed to have acquired property or a service for consumption or use:
+
+- in the course of the person’s commercial activity to the extent that the property or service is acquired for the purpose of making taxable supplies for consideration in the course of an endeavour of the person
+
+- otherwise than in the course of the person’s commercial activities to the extent the property or service was acquired for either of these purposes:
+
+    - the purpose of making supplies in the course of an endeavour of the person that are not taxable supplies for consideration
+
+    - a purpose other than the making of supplies in the course of an endeavour of the person
+
+An endeavour includes a business; refer to the Appendix of this memorandum for the full definition of **endeavour**.
+
+7. Similarly, pursuant to subsection 141.01(3), a person is deemed to consume or use property or a service:
+
+- in the course of a person’s commercial activity to the extent that the property or service is consumed or used for the purpose of making taxable supplies for consideration in the course of an endeavour of the person
+
+- otherwise than in the course of the person’s commercial activities to the extent the property or service was consumed or used for either of these purposes:
+
+    - the purpose of making supplies in the course of an endeavour of the person that are not taxable supplies for consideration
+
+    - a purpose other than the making of supplies in the course of an endeavour of the person
+
+8. A financial institution is required to use section 141.02 to determine the extent to which property or a service is:
+
+- acquired by the financial institution for consumption or use in making taxable supplies for consideration or otherwise (procurative extent)
+
+- consumed or used by the financial institution for the purpose of making taxable supplies for consideration or otherwise (operative extent)
+
+9. Subsection 141.02(1) defines **procurative extent** as the extent to which property or a service is acquired for the purpose of making taxable supplies for consideration or the extent to which the property or service is acquired for purposes other than making taxable supplies for consideration. The procurative extent is used in the application of subsection 141.01(2), which generally deems the financial institution to have acquired the property or service for consumption or use in commercial activities for purposes of subsection 169(1) to the extent that the financial institution acquired the property or service for the purpose of making taxable supplies for consideration.
+
+10. Subsection 141.02(1) defines **operative extent** as the extent to which the consumption or use of property or a service is for the purpose of making taxable supplies for consideration or the extent to which the consumption or use is for purposes other than making taxable supplies for consideration. The operative extent of a particular input is relevant in determining the extent, under subsection 141.01(3), to which the property or service is deemed to be consumed or used by the financial institution in the course of its commercial activities. The extent to which the property or service is consumed or used in the course of the financial institution’s commercial activities is pertinent to those provisions that depend on whether, and to what extent, properties and services are, at any particular time, consumed or used in commercial activities (for example, provisions regarding ITCs on improvements and change-in-use rules for capital property).
+
+11. Although the procurative extent (intended use) of a business input is based on the purpose for which the particular business input was acquired at the time it was acquired, the actual use of the business input may help clarify what the financial institution’s intention was at the time the property or service was acquired.
+
+12. Where a financial institution is determining its eligibility to claim an ITC for the GST/HST paid or payable on a particular business input, the financial institution must do the following:
+
+- first, categorize the business input
+
+- second, apply the appropriate method to determine the procurative and operative extent of the business input that meets the requirements of section 141.02
+
+13. Examples provided in this memorandum are for illustrative purposes only.
+
+## Categorizing business inputs
+
+14. Section 141.02 defines four types of business inputs: excluded inputs, exclusive inputs, direct inputs and non-attributable inputs.
+
+15. Section 141.02 requires a financial institution to categorize its business inputs into these four types in order to identify the allocation methods which apply in determining the ITCs of the financial institution. In categorizing a business input:
+
+- the financial institution must determine whether the business input is an **excluded** input
+
+- if the business input is not an excluded input, it must determine whether the business input is an **exclusive** input
+
+- if the business input is not an excluded or exclusive input, it must determine whether the business input is a **direct** input
+
+- if the business input is not an excluded, exclusive or direct input, then the business input is a **non**-**attributable** input
+
+### Excluded inputs
+
+16. Subsection 141.02(1) defines **excluded input** of a financial institution to mean property (that is, personal property or real property) that is for use by the financial institution as capital property and any property or service that is acquired by the financial institution for use as an improvement to capital property of the financial institution. An excluded input may also include a prescribed property or service (there are currently no prescribed property or services).
+
+17. Under subsection 123(1), the term **capital property** means, in respect of a person, property that is, or would be if the person were a taxpayer under the Income Tax Act (ITA), capital property of the person within the meaning of the ITA, other than property described in Class 12, 14, 14.1 or 44 of Schedule II to the Income Tax Regulations.
+
+18. Under subsection 123(1), the term **improvement**, in respect of property of a person, means any property or service supplied to, or goods imported by, the person for the purpose of improving the property, to the extent that the consideration paid or payable by the person for the property or service or the value of the goods is, or would be if the person were a taxpayer under the ITA, included in determining the cost or, in the case of property that is capital property of the person, the adjusted cost base to the person of the property for the purposes of the ITA.
+
+19. Paragraph 169(1.1)(a) provides that, where a person acquires property or a service partly for use in improving capital property of the person and partly for another purpose, for the purpose of determining an ITC in respect of the property or service, notwithstanding section 138, which applies to incidental supplies, that part of the property or service that is for use in improving the capital property is deemed to be a separate property or service from the remaining part of the property or service.
+
+20. Where a financial institution is determining its eligibility to claim an ITC for the GST/HST paid or payable on a particular excluded input, subsection 141.02(14) requires that the financial institution use a specified method to determine the procurative extent and the operative extent of the excluded input. Refer to paragraphs 82 to 88 of this memorandum for information on a specified method for an excluded input.
+
+Financial Institution A purchases real property that it will use in making both taxable supplies for consideration and exempt supplies.
+
+The real property is capital property of Financial Institution A within the meaning of the ITA, and it is therefore an excluded input of Financial Institution A.
+
+Financial Institution B owns real property that it uses exclusively in making exempt supplies. The real property is capital property of Financial Institution B within the meaning of the ITA. Financial Institution B hires a contractor to complete certain improvements to its capital real property. Financial Institution B will add the cost of these improvements to the adjusted cost base of the real property for income tax purposes.
+
+The service supplied by the contractor to Financial Institution B is considered to be an improvement to capital real property. The contractor’s service is an excluded input of Financial Institution B because it is acquired by Financial Institution B for use as an improvement to its capital real property.
+
+Financial Institution C purchases an automated bank machine (ABM) to replace a broken machine in one of its retail banking locations.
+
+The ABM is property that is capital property of Financial Institution C within the meaning of the ITA. Therefore, the ABM is an excluded input of Financial Institution C.
+
+### Exclusive inputs
+
+21. Subsection 141.02(1) defines **exclusive input** of a financial institution to mean property or a service (other than an excluded input) that is acquired for consumption or use either directly and exclusively for the purpose of making taxable supplies for consideration, or directly and exclusively for purposes other than making taxable supplies for consideration. For financial institutions, exclusively means, in respect of the consumption or use of property or a service of the financial institution, 100% of the consumption or use of a property or service by the financial institution. Refer to paragraphs 29 and 30 of this memorandum for information on the rules for an exclusive input.
+
+22. As the definition of exclusive input does not include an excluded input, if a property or service is for use by the financial institution as capital property or as an improvement to capital property of the financial institution, and is acquired by the financial institution for consumption or use either directly and exclusively to make taxable supplies for consideration or directly and exclusively otherwise than to make taxable supplies for consideration, it will be an excluded input and not an exclusive input.
+
+Financial Institution D is a financial institution as a result of an election under subsection 150(1). The only supplies that Financial Institution D makes are supplies of services to Financial Institution E, which are deemed to be financial services as a result of the election under subsection 150(1). The financial services supplied to Financial Institution E are exempt. Financial Institution D acquires a consulting service from a third party as an input into the services it supplies to Financial Institution E.
+
+The third party’s supply of the consulting service to Financial Institution D is an exclusive input of Financial Institution D because it is not an excluded input and it is acquired by Financial Institution D for consumption or use directly and exclusively for purposes other than making taxable supplies for consideration (that is, to make exempt supplies of financial services).
+
+### Direct inputs
+
+23. Subsection 141.02(1) defines **direct input** to mean property or a service that is all of the following:
+
+- not an excluded input (that is, it is not capital property or an improvement to capital property)
+
+- not an exclusive input
+
+- attributable (in whole or in part) to the making of a particular supply or supplies
+
+24. A business input that might be considered an indirect input for cost allocation purposes (for example, certain overhead expenses) is a direct input for purposes of section 141.02 if the business input is not an excluded or exclusive input and can be attributed in whole or in part to the making of a particular supply or supplies.
+
+25. Where a financial institution is determining its eligibility to claim an ITC for the GST/HST paid or payable on a particular direct input, subsection 141.02(12) requires that the financial institution use a direct attribution method to determine the procurative or operative extent of the direct input. Refer to paragraphs 89 to 94 of this memorandum for information on a direct attribution method for a direct input.
+
+Financial Institution E makes taxable supplies for consideration and exempt supplies. Financial Institution E enters into a lease agreement with a landlord for the lease of space in a downtown office building. The leased space is not capital property of Financial Institution E. Financial Institution E uses 10% of the space it leases in making taxable supplies for consideration and 90% of the space it leases in making exempt supplies.
+
+The leased space in the building is a direct input because it is not an excluded or an exclusive input and because the use of the space can be attributed to the making of particular supplies (both taxable supplies for consideration and exempt supplies).
+
+### Non-attributable inputs
+
+26. Subsection 141.02(1) defines **non‑attributable input** to mean property or a service that is all of the following:
+
+- not an excluded input (that is, it is not capital property or an improvement to capital property)
+
+- not an exclusive input
+
+- not attributable (even in part) to the making of any particular supply (that is, it is also not a direct input)
+
+27. A financial institution generally has very few non-attributable inputs.
+
+28. Where a financial institution is determining its eligibility to claim an ITC for the GST/HST paid or payable on a particular non‑attributable input, subsection 141.02(10) requires that the financial institution use a specified method to determine the procurative or operative extent of the non‑attributable input. Refer to paragraphs 95 and 96 of this memorandum for information on a specified method for a non‑attributable input.
+
+Financial Institution F makes taxable supplies for consideration and exempt supplies. Financial Institution F purchases pamphlets that demonstrate ergonomic principles and illustrate various stretching techniques for its office staff. These pamphlets are left in a central location where employees can take one if they wish.
+
+The pamphlets are non‑attributable inputs of Financial Institution F because they are not excluded or exclusive inputs and cannot be attributed, even in part, to the making of any particular supply.
+
+Financial Institution G makes both taxable supplies for consideration and exempt supplies. Financial Institution G pays a monthly fee for the maintenance of a website which provides information about its involvement in the communities surrounding its offices (for example, sponsoring local children’s sports teams), as well as information about the various services it provides.
+
+Although the maintenance of the website is a business input that relates, in part, to Financial Institution G’s community involvement, the website maintenance service is not a non‑attributable input but is a direct input of Financial Institution G. This is because it is not an excluded input or an exclusive input and it can, at least in part, be attributed to the making of particular supplies (both taxable supplies for consideration and exempt supplies).
+
+## Determining the extent of use of business inputs
+
+### Determining the extent of use of an exclusive input
+
+29. Paragraph 141.02(6)(a) provides that if an exclusive input is acquired for consumption or use directly and exclusively for the purpose of making taxable supplies for consideration, the financial institution is deemed to have acquired the exclusive input for consumption or use exclusively in the course of its commercial activities. As a result, for the purpose of determining an ITC under section 169 in respect of that exclusive input, the extent to which the property or service is for consumption or use in the course of commercial activities is generally equal to 100%. A financial institution is therefore generally eligible to claim an ITC equal to 100% of the GST/HST paid or payable in respect of an exclusive input that is for consumption or use directly and exclusively for the purpose of making taxable supplies for consideration where all other conditions for claiming an ITC are met.
+
+30. Paragraph 141.02(6)(b) provides that if an exclusive input is acquired for consumption or use directly and exclusively for purposes other than making taxable supplies for consideration, the financial institution is deemed to have acquired the exclusive input for consumption or use exclusively otherwise than in the course of its commercial activities. As a result, for the purpose of determining an ITC under section 169 in respect of that exclusive input, the extent to which the property or service is for consumption or use in the course of commercial activities is generally equal to 0%. A financial institution is therefore generally not eligible to claim an ITC for any of the GST/HST paid or payable in respect of an exclusive input that is for consumption or use directly and exclusively for purposes other than making taxable supplies for consideration.
+
+Financial Institution H makes both taxable and exempt supplies. One of its divisions is engaged in making taxable supplies of leasing capital property owned by Financial Institution H to the public for consideration. Financial Institution H acquires a software program to be used only for its taxable leasing activity. The software program is considered to be capital property of Financial Institution H that is included in class 12 for purposes of the ITA, but it is not capital property for GST/HST purposes.
+
+The software program acquired by Financial Institution H is an exclusive input of Financial Institution H because it is not an excluded input of Financial Institution H and is acquired by Financial Institution H for consumption or use directly and exclusively for purposes of making taxable supplies for consideration. Pursuant to paragraph 141.02(6)(a), Financial Institution H is deemed to have acquired the exclusive input for consumption or use exclusively in the course of its commercial activities. As a result, for the purpose of determining an ITC under section 169 in respect of the software program, the extent to which the software program was acquired by Financial Institution H for consumption or use in the course of its commercial activities is equal to 100%. Financial Institution H is therefore eligible to claim an ITC equal to 100% of the GST/HST payable in respect of the software program where all other conditions for claiming the ITC are met.
+
+### Allocating excluded, direct and non‑attributable inputs
+
+31. Where a financial institution is determining its eligibility to claim an ITC for the GST/HST paid or payable in respect of a particular business input (other than an exclusive input), the financial institution must generally determine the procurative extent and the operative extent of the business input using a specified method under subsection 141.02(10) or (14) or a direct attribution method under subsection 141.02(12). These methods must conform to the criteria, rules, terms and conditions specified by the Minister in this memorandum. Refer to paragraphs 36 to 74 of this memorandum for these criteria, rules, terms and conditions. Refer to paragraphs 82 to 88 of this memorandum for additional information regarding a specified method for an excluded input, paragraphs 89 to 94 of this memorandum for additional information regarding a direct attribution method for a direct input and paragraphs 95 and 96 of this memorandum for additional information regarding a specified method for a non‑attributable input. Refer to paragraphs 106 to 108 of this memorandum for exceptions that are provided under subsections 141.02(11), (13), (15) and (32) and that apply in very limited circumstances.
+
+32. Any ITC allocation method that a financial institution uses in accordance with any of subsections 141.02(10) to (15) in respect of a fiscal year is also required to meet the conditions set out in subsection 141.02(16) which require the method to be fair and reasonable, used consistently throughout the fiscal year and determined by the financial institution within the deadline specified in that subsection. These conditions are explained in more detail in paragraphs 75 to 80 of this memorandum. It is a question of fact what allocation(s) are appropriate and meet the requirements of section 141.02 for each particular business input.
+
+33. Any ITC allocation method used should also be reviewed each year. If there are discrepancies between the intended use of a business input for ITC allocation purposes and the actual use of the business input, it is a question of fact whether it was appropriate to use the particular ITC allocation method and whether the method should be corrected for future fiscal years.
+
+34. The sum of the procurative extents of a business input (or the operative extents of a business input) for the purpose of making taxable supplies for consideration and for purposes other than making taxable supplies for consideration must be equal to 100%.
+
+35. Certain financial institutions which are selected listed financial institutions (SLFIs) and are investment plans (as defined by the Selected Listed Financial Institutions Attribution Method (GST/HST) Regulations) and have not made an election under subsection 225.4(6) or (7), are restricted under section 225.4 from claiming any ITC in respect of a business input unless the business input is an exclusive input of the SLFI. For further information, refer to [GST/HST Technical Bulletin B-107, Investment Plans (Including Segregated funds of an Insurer) and the HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-107.html). For a definition of **investment plan** for purposes of the Selected Listed Financial Institutions Attribution Method (GST/HST) Regulations, refer to the appendix to this memorandum.
+
+### Criteria, rules, terms and conditions specified by the Minister
+
+36. Section 141.02 provides that a specified method and a direct attribution method must conform to the criteria, rules, terms and conditions specified by the Minister. Where a particular allocation does not conform to all of the criteria, rules, terms and conditions, it may not be used. It is a question of fact whether a particular allocation meets all of the criteria, rules, terms and conditions specified by the Minister.
+
+37. Financial institutions may have a system in place which is not designed for ITC allocation purposes but which provides the information necessary to determine the use of business inputs. To the extent that a financial institution’s cost accounting system uses a method that meets the criteria, rules, terms and conditions specified by the Minister for a specified method or a direct attribution method, the financial institution must use its cost accounting system in that specified method or direct attribution method.
+
+38. For example, if a financial institution’s cost accounting system tracks the extent to which certain business inputs are used in making particular supplies on an input‑by‑input basis and this results in a specified method or direct attribution method that meets the criteria, rules, terms and conditions specified by the Minister in this memorandum, then the financial institution must use its cost accounting system in a specified method or direct attribution method of the financial institution for those particular business inputs.
+
+39. The criteria, rules, terms and conditions specified by the Minister to which a specified method or a direct attribution method must conform are that the method must employ an objective measure of use which is meaningful, unbiased and verifiable, and be applied in a manner that accurately reflects the use of the particular business input, including providing comparable results and using cost pools only if they are appropriate cost pools. These criteria, rules, terms and conditions are discussed below.
+
+#### Objective measure
+
+40. A specified method or direct attribution method must employ an objective measure of use which is:
+
+- meaningful
+
+- unbiased
+
+- verifiable
+
+##### Meaningful
+
+41. A meaningful allocation method accurately reflects the extent to which a particular business input was acquired, or consumed or used, for the purpose of making taxable supplies for consideration and for purposes other than making taxable supplies for consideration. For a financial institution whose core business is making exempt supplies of financial services, to be meaningful, any ITC allocation method used should accurately reflect the use of the business input in the context of the financial institution’s core business of making exempt supplies of financial services. For an example of this situation, refer to Example 17 in this memorandum. The ITC allocation method should reflect the use of an input in the context of the reality of the financial institution’s business.
+
+42. A meaningful ITC allocation method **must** be based:
+
+- first, on **tracking** to the extent possible
+
+- second, to the extent that the use of the business input cannot be tracked, on **causal allocation** to the extent possible
+
+- third, to the extent that the use of the business input cannot be allocated based on tracking or causal allocation, on **input‑based allocation** or **output‑based allocation**
+
+43. An ITC allocation method employing a measure of use that is not meaningful will not conform to the criteria, rules, terms and conditions specified by the Minister for a specified method or a direct attribution method and may not be used.
+
+###### Tracking
+
+44. Tracking is using a logical and systematic method to accurately record, to the extent possible, the purpose or purposes for which a financial institution acquired a business input or the actual use of a business input, including considering the context of the financial institution’s core business. As noted above, the actual use of a business input may help clarify what the financial institution’s intention was at the time the property or service was acquired.
+
+45. Where it is not possible to track the entire use or intended use of a business input, it should be tracked to the extent possible and the remainder of the use or intended use of the business input may be allocated using another appropriate allocation.
+
+Financial Institution I purchases a software license that allows 100 employees to use the software. Ninety‑seven of these employees only use the software to make exempt supplies and three only use the software to make taxable supplies for consideration. Financial Institution I records the use of the software license (97% for the purpose of making exempt supplies and 3% for the purpose of making taxable supplies for consideration) to the appropriate cost centres in its cost accounting system.
+
+This allocation is tracking because it is a logical and systematic method to accurately record the actual purposes for which Financial Institution I acquired the software.
+
+###### Causal allocation
+
+46. Causal allocation directly approximates the use of a particular business input using a logical and systematic approach and an appropriate allocation base.
+
+47. An allocation base (for example, square footage or number of employees) is used to link a particular business input to the making of a particular supply or supplies by the financial institution. The use of the input should have a correlation to the allocation base. For example, where an input is used equally over the allocation base and an increase in the allocation base leads to an increase in the use of the input (that is, there is a cause‑and‑effect relationship), it would generally be appropriate to use that allocation base.
+
+48. The allocation base must provide a reasonable approximation of the use or intended use of a business input. Causal allocation may only be used to the extent that the use of the business input cannot be tracked. Therefore, to be able to use causal allocation, a financial institution must be able to demonstrate that causal allocation was only used to the extent that tracking the use or intended use of the particular business input was not possible.
+
+Financial Institution J had 100 applicants who went through a general process to qualify to be considered for a position with Financial Institution J, and it hired 5 new employees as a result of this process: 1 employee to work in Department A to make taxable supplies for consideration and 4 employees to work in Department B to make exempt supplies. All of the 100 applicants, regardless of which department they would be working for, went through the same hiring process. Financial Institution J paid for the cost of a standardized exam and allocated it to Department A and Department B based on the number of employees that were hired in each department (that is, 20% for the purpose of making taxable supplies for consideration and 80% for the purpose of making exempt supplies).
+
+This allocation is causal allocation because it directly approximates the use of the standardized exam using a logical and systematic approach and an appropriate allocation base.
+
+###### Input-based allocation
+
+49. An input-based allocation uses a calculation based on the procurative extent of other business inputs. For example, the allocation of a non‑attributable input could be based on a ratio of exclusive and direct inputs allocated to the making of taxable supplies for consideration to the total of all exclusive and direct inputs that have been allocated.
+
+50. Input‑based allocation has limited application. An input‑based allocation must provide a reasonable approximation of the extent to which the consumption or use of a particular business input is for the purpose of making taxable supplies for consideration and for purposes other than making taxable supplies for consideration. Input‑based allocation may only be used to the extent that the use of the business input cannot be tracked or allocated through causal allocation. Therefore, to be able to use an input‑based allocation, a financial institution must be able to demonstrate that an input‑based allocation was only used to the extent that tracking and causal allocation were not possible.
+
+51. Input‑based allocation is only meaningful if it is calculated using exclusive and direct inputs that have either been tracked or allocated through the use of causal allocation. This is because the allocation of exclusive and direct inputs through tracking or causal allocation involves less approximation and therefore more closely reflects the use of those inputs in making taxable supplies for consideration and for other purposes than input-based allocation and output-based allocation. In addition, an input-based allocation is not calculated using excluded inputs because although a financial institution may be eligible to claim an ITC for all or part of the GST/HST payable on an excluded input upon its acquisition, the use of the excluded input is generally over a longer period of time than the use of other business inputs. Therefore, the use of an excluded input may not provide an accurate estimate of the use of other business inputs in that period.
+
+52. Furthermore, input‑based allocation can only be used if a substantial portion of the financial institution’s business inputs (other than excluded inputs) that relate to the financial institution’s business or relevant part of the business are exclusive and direct inputs that have been tracked or allocated through the use of causal allocation. What constitutes a substantial portion of the business inputs (other than excluded inputs) varies depending on the circumstances, but a substantial portion is generally almost all of the financial institution’s business inputs (other than excluded inputs).
+
+53. An example of the use of an input-based method can be found in Example 18 of this memorandum.
+
+###### Output-based allocation
+
+54. Output-based allocation uses a calculation based on an output measure (for example, revenue or number of transactions) to allocate the consumption or use of a business input.
+
+55. An output‑based allocation has limited application. An output‑based allocation must give a reasonable approximation of the extent to which the consumption or use of the business input is for the purpose of making taxable supplies for consideration and for purposes other than making taxable supplies for consideration. To be able to use an output‑based allocation, a financial institution must show that it was not possible to fully track the use of the particular business input or fully use causal allocation to allocate the particular business input.
+
+56. An allocation based on revenue is not appropriate where the amount of revenue generated from making particular supplies is not indicative of the cost of taxable inputs used in making those supplies. In this case, a revenue‑based allocation will not provide a reasonable approximation of the extent to which the consumption or use of the business input is for the purpose of making taxable supplies for consideration and for purposes other than making taxable supplies for consideration. For example, inputs should be used in the same proportion in making the supplies included in the calculation. Further, in order for a revenue‑based allocation to be appropriate, the average profit margin for the supplies included in the calculation should be the same because having different profit margins for different products may result in a particular type of supply being allocated a proportion of inputs that does not reflect the true proportion of inputs used in making that supply.
+
+57. Further, other distorting factors must be excluded from the ITC calculations in a revenue‑based method to avoid distortion of the results. For example, the financial institution should not include an amount receivable for the supply of capital property, an amount for the sale of a business or part of a business as a going concern, or an amount of proceeds from the sale of financial instruments held in the financial institution’s own account. These amounts will distort the calculation in a revenue‑based method.
+
+58. In a revenue‑based method, the elements of the ratios used must be consistent so as to not produce distorted results (for example, using gross revenue from taxable supplies for consideration for the whole business over net revenue from all sources for the whole business in a revenue-based method would produce distorted results).
+
+59. It must be determined on a case-by-case basis whether a particular factor causes distortions in the circumstances. It is a question of fact whether a financial institution has made adequate adjustments for all distorting factors in an output‑based allocation. Further, if the output-based allocation is applied to inappropriate inputs, for example, if it is applied to all business inputs in all categories or to all residual business inputs (that is, direct and non-attributable inputs), the output-based allocation would not conform to the criteria, rules, terms and conditions specified by the Minister.
+
+##### Unbiased
+
+60. An unbiased measure of use is impartial and is based on the facts surrounding the consumption or use of the business input. An unbiased measure uses a logical and systematic approach to produce a result that is supported by the facts surrounding the consumption or use of a particular business input. An unbiased measure is not designed to produce a result that cannot be substantiated by a reasoned review of the facts (for example, an allocation method would be biased if it produces a pattern of higher ITC claims than a reasoned review of the facts would substantiate). If assumptions concerning a business input are made in allocating a particular business input, they must be probable and not merely possible for a measure to be unbiased. For example, if it is assumed that vacant space will be used in making taxable supplies for consideration, it must be probable that it will be used that way, taking into consideration factors such as the consumption or use of the space in the context of the financial institution’s core business.
+
+61. A method employing a biased measure of use would not conform to the criteria, rules, terms and conditions specified by the Minister for a direct attribution method or a specified method and cannot be used.
+
+##### Verifiable
+
+62. A verifiable measure is one that a knowledgeable independent third party could use to arrive at the same procurative extent or operative extent of a business input using accurate information regarding the intended or actual consumption or use of the business input. The data and method used must be comprehensive, understandable, available for review, and must lead to an accurate result.
+
+63. A financial institution is expected to have appropriate systems in place which enable an ITC to be determined using a specified method or direct attribution method that meets the criteria, rules, terms and conditions specified by the Minister if the financial institution is claiming an ITC in respect of the GST/HST paid or payable on an excluded, direct or non‑attributable input. The financial institution’s system should also make it possible to verify that the criteria, rules, terms and conditions are met.
+
+64. A financial institution’s books and records must be in an appropriate form and contain sufficient information to allow a determination and verification of the amount of any ITC that is claimed. For additional information regarding books and records, refer to [GST/HST Memorandum 15-1, General Requirements for Books and Records](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/15-1.html), and [GST/HST Memorandum 15-2, Computerized Records](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/15-2.html).
+
+65. In addition to meeting the documentation requirements set out in subsection 169(4), a financial institution must be able to demonstrate with documentation that the financial institution has properly categorized its business inputs (that is, excluded inputs, exclusive inputs, direct inputs and non‑attributable inputs) and is using a specified method or a direct attribution method that meets the criteria, rules, terms and conditions specified by the Minister, as well as the requirements for the particular method. The documentation must also show that the requirements of subsection 141.02(16) are met because the method is fair and reasonable, used consistently throughout the year and was determined within the deadline specified in that subsection.
+
+66. Any ITC allocation method used is subject to verification by audit. A method employing a measure of use that is not verifiable will not conform to the criteria, rules, terms and conditions specified by the Minister for a specified method or a direct attribution method and cannot be used.
+
+#### Accurate application
+
+67. A specified method or a direct attribution method must be applied in a manner that accurately reflects the use of the business input. The accurate application of a specified method or a direct attribution method provides comparable results and uses cost pools only if they are appropriate cost pools.
+
+##### Comparable results
+
+68. The ITC allocation method used must provide comparable results which accurately reflect the extent to which a particular input was acquired, or consumed or used, for the purpose of making taxable supplies for consideration and for purposes other than making taxable supplies for consideration. For example, if two business inputs of the same category (for example, direct inputs) are used to the same extent for the same purpose, the ITC allocation method or methods used for these two business inputs should provide the same result in terms of the extent of use. If two business inputs of the same category are used to different extents for the same purpose, the ITC allocation method or methods used should provide different results.
+
+69. If an ITC allocation method does not provide comparable results which accurately reflect the consumption or use of the business input, it will not conform to the criteria, rules, terms and conditions specified by the Minister for a specified method or a direct attribution method and cannot not be used.
+
+##### Appropriate cost pools
+
+70. The legislation provides that the categorization and allocation of business inputs must be done on an input‑by‑input basis, and not based on a group of business inputs. Therefore, cost pools are only appropriate and may only be used where the use of grouping or pooling of business inputs has the same ITC allocation result as would be arrived at if each business input was allocated without the use of pooling.
+
+71. If business inputs are grouped together for ITC allocation purposes, it must be appropriate to use the same ITC allocation method for these business inputs, and the method must apply in the same manner (that is, produce the same result). All the business inputs within a cost pool must be included in a single business input category (for example, be included in the direct input category).
+
+72. Even where business inputs are included in the same business input category (that is, are all excluded, direct or non-attributable inputs), it may not be appropriate to pool the inputs and apply the same ITC allocation method to all inputs in that category. In situations where it is not appropriate to include particular inputs in a single pool, a separate pool or pools must be created or the inputs must be allocated input by input. If inputs in a particular business input category are grouped together for ITC allocation purposes, all of the inputs within the pool must:
+
+- be for use to the same extent for the purpose of making taxable supplies for consideration if the inputs in the pool are **tracked** (for example, a pool of inputs that are tracked cannot include an input that is used 2% for the purpose of making taxable supplies for consideration with an input that is used 30% for the purpose of making taxable supplies for consideration)
+
+- be allocated using the same appropriate allocation base if the inputs in the pool are allocated using **causal allocation**
+
+- apply to the same portion of the business if the input is allocated using **input-based allocation**
+
+- apply to the same portion of the business and use the same appropriate output measures (for example, revenue) if the input is allocated using **output-based allocation**.
+
+Financial Institution K pools its heating costs and telephone costs, which are both direct inputs. The heating costs relate to the use of space and cannot be tracked, while the telephone costs can be tracked to the sale of specific exempt and zero-rated financial products by specific employees and are not related to the use of the space. Financial Institution K allocates ITCs for both these inputs based on square footage. This use of pooling is inappropriate because the basis on which the inputs must be allocated is not the same (for example, one of these inputs relates directly to the use of the space and one does not). Further, the use of the telephone costs can be tracked and therefore tracking must be used for that input.
+
+73. As noted previously, if the link between a particular business input and the particular supplies to which the business input is attributed cannot be tracked, any approximation(s) used must reasonably reflect the extent to which the input is acquired, or consumed or used, for the purpose of making taxable supplies for consideration and for purposes other than making taxable supplies for consideration. As a result, it is only appropriate to pool particular inputs if pooling does not distort the results.
+
+74. If inappropriate cost pools are used in a particular ITC allocation method, the method will not conform to the criteria, rules, terms and conditions specified by the Minister for a specified method or a direct attribution method and cannot be used.
+
+### Additional requirements for an ITC allocation method
+
+75. Under subsection 141.02(16), any method that a financial institution uses in accordance with subsections 141.02(10) to (15) (for example, a specified method for an excluded input, a direct attribution method for a direct input or a specified method for a non-attributable input) for a fiscal year must be all of the following:
+
+- fair and reasonable
+
+- used consistently by the financial institution throughout the fiscal year
+
+- determined by the date specified in the legislation
+
+#### Fair
+
+76. The terms **fair** and **reasonable** are not defined in the ETA. The word **fair** generally means equitable, impartial, objective, unbiased and consistent with the applicable rules. As a result, a fair ITC allocation method should allocate each business input to the purposes for which the business input was acquired (that is, it should determine the procurative and operative extent of the business input) in a manner that is objective, equitable, impartial, unbiased and consistent with the applicable rules.
+
+77. An ITC allocation method designed to achieve a particular result that leads to a higher ITC claim than an objective review of the facts would substantiate is not a fair ITC allocation method.
+
+#### Reasonable
+
+78. The word **reasonable** generally means logical, rational, sensible, based on reason and within the bounds of common sense. As a result, a reasonable ITC allocation method should allocate each business input to the purposes for which the business input was acquired (that is, it should determine the procurative and operative extent of the business input) in a manner that is logical, rational, sensible and based on reason. To be reasonable, any method used should properly reflect the nature of the financial institution’s business.
+
+#### Used consistently
+
+79. A specified method for an excluded input, a direct attribution method for a direct input and a specified method for a non-attributable input that meet the requirements of section 141.02, including the criteria, rules, terms and conditions specified by the Minister, must be used consistently by the financial institution throughout the particular fiscal year of the financial institution.
+
+#### Determined by the date specified in legislation
+
+80. The method used in accordance with subsection 141.02(10) to (15) for a fiscal year must be determined by the financial institution no later than the day on or before which the financial institution is required to file a GST/HST return with the Minister for the first reporting period in the fiscal year.
+
+#### No alterations to ITC allocation method
+
+81. Under subsection 141.02(17), the ITC allocation method used by a financial institution for excluded, direct and non‑attributable inputs in respect of a fiscal year for purposes of any of subsections 141.02(10) to (15) cannot be altered or substituted with another method for that year at any time after the day the financial institution is required to file its return under Division V for the first reporting period of that fiscal year unless the Minister consents in writing to the alteration or substitution.
+
+### Specified method for an excluded input
+
+82. A specified method for an excluded input is a method conforming to the criteria, rules, terms and conditions specified by the Minister in this memorandum for determining the procurative or operative extent of property or a service. Refer to paragraphs 36 to 74 of this memorandum for these criteria, rules, terms and conditions. Any specified method for an excluded input that a financial institution uses in respect of a fiscal year is also required to meet the conditions set out in subsection 141.02(16), which are explained in paragraphs 75 to 80 of this memorandum.
+
+83. The criteria, rules, terms and conditions specified by the Minister for a specified method for an excluded input rely on the same general principles as they do for a direct attribution method for a direct input and a specified method for a non‑attributable input. However, an excluded input is different from a direct input or a non-attributable input in that capital property and improvements to capital property generally have a longer period of use. As a result, excluded inputs may be subject to change‑in‑use provisions that do not apply to direct inputs or non‑attributable inputs. As well, excluded inputs may be used exclusively for the purpose of making taxable supplies for consideration or exclusively for purposes other than for making taxable supplies for consideration (direct and non‑attributable inputs cannot be exclusive inputs).
+
+84. The procurative extent of an excluded input is relevant to the determination of a financial institution’s eligibility to claim an ITC for the GST/HST paid or payable on an excluded input upon its initial acquisition. A specified method for an excluded input conforming to the criteria, rules, terms and conditions specified by the Minister for determining the procurative extent of an excluded input will accurately reflect the extent to which the input was acquired for the purpose of making taxable supplies for consideration and for purposes other than making taxable supplies for consideration.
+
+85. The operative extent of an excluded input is the extent that the actual consumption or use of the excluded input is for the purpose of making taxable supplies for consideration or for purposes other than making taxable supplies for consideration. The operative extent of an excluded input is particularly important in the application of those provisions that depend on whether, and to what extent, property or a service is, at any particular time, consumed or used in commercial activities. For example, change-in-use provisions apply to certain capital property having a cost to the financial institution of more than $50,000. Additionally, in accordance with paragraph (b) of Element B of the formula in subsection 169(1), a financial institution is generally only eligible to claim an ITC for the GST/HST paid or payable on the acquisition of property or a service for use as an improvement to capital property to the extent that the financial institution was using the capital property in commercial activities immediately after the property was last acquired by the financial institution where all other conditions for claiming an ITC are met.
+
+86. For a method to be considered a specified method for an excluded input, it must accurately reflect the extent to which a particular excluded input was acquired, or consumed or used, both for the purpose of making taxable supplies for consideration and for other purposes. It **must** be based on:
+
+- first, **tracking** to the extent possible
+
+- second, to the extent that the use of the excluded input cannot be tracked, **causal allocation** to the extent possible
+
+- third, to the extent that the use of the excluded input cannot be allocated based on tracking or causal allocation, **input‑based allocation** or **output‑based allocation**
+
+87. The terms **tracking**, **causal allocation**, **input-based allocation** and **output-based allocation** apply as explained in paragraphs 41 to 59 of this memorandum.
+
+88. In general, few, if any, excluded inputs will be allocated using either an input-based allocation or an output-based allocation because most of a financial institution’s excluded inputs:
+
+- are consumed or used exclusively for particular purposes (for example, purposes other than making taxable supplies for consideration such that the extent of consumption or use in commercial activities is 0%)
+
+- can be tracked
+
+- can be allocated using causal allocation
+
+Financial Institution L purchases 30 of the same make and model of computer from the same supplier to replace 30 computers identified as needing replacement. All of the computers are acquired for a department that makes exclusively exempt supplies.
+
+At the time of the purchase, Financial Institution L enters the cost of the computers in its cost accounting system and allocates 100% of the cost (including the GST/HST) to a cost centre that makes exclusively exempt supplies. Financial Institution L identified the computers as excluded inputs for use 100% in exempt activity for ITC allocation purposes. Financial Institution L determined the ITC allocation method that it would use for computer purchases before its GST/HST return was due for the first reporting period in its fiscal year.
+
+The computers are excluded inputs of Financial Institution L as they are capital property of Financial Institution L, so it is required to use a specified method for an excluded input to allocate the computers.
+
+The allocation method used by Financial Institution L meets the criteria, rules, terms and conditions specified by the Minister because, among other things, it uses a logical and systematic approach to accurately reflect the extent to which Financial Institution L acquired the computers for particular purposes (procurative extent) through the use of tracking. Accordingly, the method is a specified method for these computers.
+
+Additionally, the requirements of subsection 141.02(16) are met because the method used was fair and reasonable and was used consistently throughout the fiscal year, and Financial Institution L determined the ITC allocation method prior to the date it was required to file its return for the first reporting period in the fiscal year.
+
+The allocation method is a specified method and meets the requirements of subsection 141.02(16). However, Financial Institution L is not eligible to claim any ITC for the GST/HST paid or payable on the acquisition of the computers because they are exclusively for the purpose of making exempt supplies.
+
+Financial Institution M purchases a piece of equipment for its network storage infrastructure for one of its offices for $65,000 plus HST. The equipment is capital property of Financial Institution M for GST/HST purposes and therefore Financial Institution M determines it is an excluded input. At the time of purchase, Financial Institution M intends to use the equipment to store data with a predetermined amount of the storage available for each employee, and Financial Institution M enters the cost of the equipment (including HST) in its cost accounting system.
+
+Each employee who will be storing data on the equipment works on specific products and most of the supplies of those products are exempt supplies. Based on this intended usage of the equipment by each employee, Financial Institution M determines that 97% of the data storage on the equipment will be used by employees making exempt supplies of financial services and 3% will be used by employees making taxable supplies for consideration.
+
+Financial Institution M’s ITC allocation method is based on this allocation and the cost information in its cost accounting system. Financial Institution M determined the ITC allocation method that it would use for such equipment purchases before its GST/HST return was due for the first reporting period of its fiscal year and used it consistently throughout that year.
+
+The equipment is an excluded input of Financial Institution M because it is capital property of Financial Institution M, so it is required to use a specified method for an excluded input to allocate the use of the equipment.
+
+The allocation method used by Financial Institution M meets the criteria, rules, terms and conditions specified by the Minister because, among other things, the method uses a logical and systematic approach to accurately reflect the extent to which Financial Institution M acquired the equipment for particular purposes (procurative extent) and determines this through the use of tracking. Accordingly, the method is a specified method for an excluded input.
+
+Additionally, the requirements of subsection 141.02(16) are met because the method used is fair and reasonable, is used consistently throughout the fiscal year and was determined by Financial Institution M prior to the date it was required to file its return for the first reporting period in the fiscal year.
+
+As the allocation method is a specified method for an excluded input and meets the requirements of subsection 141.02(16), Financial Institution M claims an ITC on the purchase of the equipment based on this method, which it is entitled to claim where all other conditions for claiming an ITC are met.
+
+For the first two years after the purchase, Financial Institution M’s use of the equipment remains at 3% for the purpose of making taxable supplies for consideration and 97% for the purpose of making exempt supplies. However, three years after the equipment purchase, Financial Institution M changes some of its products and changes the amount of data storage available to various product lines. As a result, using the same basis (tracking the usage by each employee) for determining the extent of use as it did on initial acquisition, Financial Institution M determines that the use of the equipment (operative extent) is 15% in making taxable supplies for consideration and 85% in making exempt supplies. Financial Institution M determined the ITC allocation method that it would use to determine the use of such equipment in making taxable supplies for consideration and for making exempt supplies before its GST/HST return was due for the first reporting period of its fiscal year and used it consistently throughout that year.
+
+Since the cost of the equipment was greater than $50,000 and the equipment was acquired by Financial Institution M for use as capital property, Financial Institution M applies subsection 204(2) to its change in the use of the equipment. The extent to which Financial Institution M is deemed to have consumed or used the equipment in commercial activities under subsection 141.01(3) was 3%, and it is now 15% (an increase of 12%). Financial Institution M last acquired the equipment for use as capital property in commercial activities and increased the extent to which the equipment is used in commercial activities by 12%, so Financial Institution M applies subsection 206(3). Financial Institution M determines that it is deemed to have received a supply of a portion of the equipment for use as capital property exclusively in its commercial activities and to have paid HST under that subsection. Therefore, Financial Institution M claims an ITC based on that deemed HST paid for this change in the use of the equipment.
+
+The allocation method used by Financial Institution M for this change in use meets the criteria, rules, terms and conditions specified by the Minister because, among other things, the method uses a logical and systematic approach to accurately reflect the extent to which the equipment was used in making taxable supplies for consideration and otherwise (operative extent) through tracking, Financial Institution M regularly reviews the extent of use of the equipment and Financial Institution M has an appropriate system in place that it uses for ITC allocation purposes. Accordingly, the method is a specified method for this excluded input.
+
+Additionally, the requirements of subsection 141.02(16) are met because the method is fair and reasonable, is used consistently throughout the fiscal year, and was determined by Financial Institution M prior to the date it was required to file its return for the first reporting period in the fiscal year.
+
+As the allocation method is a specified method and meets the requirements of subsection 141.02(16), Financial Institution M is eligible to claim an ITC for the deemed HST on the change in the use of the equipment, where all other conditions for claiming an ITC are met.
+
+Financial Institution N purchased a multi‑function printer to replace a photocopier for use by its employees who make both taxable supplies for consideration and exempt supplies, and paid HST. The printer is capital property of Financial Institution N. As part of its cost accounting system, Financial Institution N requires all its employees to enter a code to use the printer. All these cost codes relate to Financial Institution N’s product lines. Financial Institution N has identified which of its product lines involve making taxable supplies for consideration and which involve making exempt supplies. For the past three years, the usage of the photocopier for each product line was relatively consistent and Financial Institution N expects that the use of the new printer will be the same as the use of the previous photocopier.
+
+In making its ITC claim for the period in which it acquired the printer, Financial Institution N pools the cost of the printer with general office supplies, heating costs, computers, forms for specific financial products, consulting fees and insurance premiums. Financial Institution N records the GST/HST paid or payable on these inputs using a single cost centre and, for GST/HST reporting purposes, it estimates the amount of GST/HST included in the pooled costs, which includes the printer. It then determines the extent to which the items in the pool are used in making taxable supplies for consideration and in making exempt supplies based on the ratio of its revenue from its taxable supplies for consideration to all of its revenues.
+
+Financial Institution N did not categorize the above business inputs as required by section 141.02.
+
+Financial Institution N included the printer in a pool of inputs including exclusive inputs, direct inputs and excluded inputs and then applied a revenue‑based method to the entire pool. As the printer is an excluded input, Financial Institution N is required to use a specified method for an excluded input for its ITC allocation of the printer. Financial Institution N’s cost accounting system tracked the actual use of the previous photocopier and similarly Financial Institution N could have tracked the use of the new printer to accurately determine the extent to which the new printer was acquired for the purpose of making taxable supplies for consideration and otherwise.
+
+The method used by Financial Institution N to determine the procurative extent of the printer does not conform to the criteria, rules, terms and conditions specified by the Minister for a specified method for an excluded input. This is because, among other things, tracking was not used where it was possible and further, the method used an inappropriate cost pool (for example, the cost pool included more than one category of business inputs and it included insurance premiums for which Financial Institution N did not pay GST/HST). Therefore, the method is not a specified method for this excluded input.
+
+Additionally, the requirements of subsection 141.02(16) are not met because the method is not fair or reasonable in the circumstances. For example, it is not logical or rational, and therefore not reasonable, to include an amount in a cost pool for ITC allocation purposes on which no GST/HST is paid or payable (that is, the insurance premiums).
+
+As the allocation method is not a specified method for an excluded input and does not meet the requirements of subsection 141.02(16), Financial Institution N is not eligible to claim an ITC for the HST paid or payable on the purchase of the printer based on this method.
+
+### Direct attribution method for a direct input
+
+89. A direct attribution method for a direct input is a method, conforming to the criteria, rules, terms and conditions specified by the Minister, of determining the procurative and operative extent of a property or service in the **most direct manner**. Those criteria, rules, terms and conditions are specified in this memorandum (refer to paragraphs 36 to 74). Any direct attribution method for a direct input that a financial institution uses in respect of a fiscal year is also required to meet the conditions set out in subsection 141.02(16), which are explained in paragraphs 75 to 80 of this memorandum.
+
+90. A direct input can, at least in part, be attributed to the making of a particular supply. It is a question of fact whether a particular method determines consumption or use of the direct input in the **most direct manner**. Where there is more than one method which conforms to the criteria, rules, terms and conditions specified by the Minister and which could be used to allocate a direct input, the method chosen must be the one that allocates the property or service in the most direct manner, even where each method may appear to be fair and reasonable.
+
+91. As a direct attribution method requires that a determination be made in the most direct manner, the method used would also generally be consistent from year to year unless there are changes in the business that affect what would constitute the most direct manner of attributing the consumption or use of the particular direct input.
+
+92. For a method to be considered a direct attribution method, it must accurately and consistently reflect the use for which a particular direct input was acquired, or consumed or used, both for the purpose of making taxable supplies for consideration and for other purposes. It **must** be based on:
+
+- first, **tracking** to the extent possible
+
+- second, to the extent that tracking the use of the direct input is not possible, **causal allocation** to the extent possible
+
+- third, to the extent that the use of the direct input cannot be allocated based on tracking or causal allocation, **input‑based allocation** or **output‑based allocation**
+
+93. Generally, a substantial portion of a financial institution’s direct inputs can be tracked or allocated through causal allocation. As a result, few, if any, direct inputs will be allocated using either an input-based allocation or an output-based allocation.
+
+94. The terms **tracking**, **causal allocation**, **input‑based allocation** and **output‑based allocation** apply as explained in the “Meaningful” section of this memorandum.
+
+Financial Institution O acquires consulting services from an accounting firm in part for making taxable supplies for consideration of product line 1 and in part for making exempt supplies of product line 2. The accounting firm invoices Financial Institution O for its services and provides enough information on the invoice so that Financial Institution O can determine which services were used for each of its product lines. The accounting firm’s invoice indicated the amounts plus HST for the services related to product lines 1 and 2.
+
+Based on this breakdown by the accounting firm, Financial Institution O allocates the costs (including HST) of the consulting services to the two product lines in its cost accounting system, which it also uses for ITC allocation purposes. Financial Institution O categorizes the consulting services acquired from the accounting firm as a direct input of Financial Institution O. Financial Institution O determines its eligibility to claim an ITC for the HST it paid to the accounting firm based on the amount of HST it paid for the services relating to product line 1. Financial Institution O does not claim any ITC on the services relating to product line 2. The ITC allocation method is determined by Financial Institution O before the due date specified in subsection 141.02(16).
+
+The consulting services are a direct input because they are not an excluded or exclusive input and they can be attributed to the making of particular supplies. As such, Financial Institution O is required to use a direct attribution method to allocate the services in the most direct manner.
+
+The allocation method used by Financial Institution O determines the extent to which the consulting services provided by the accounting firm were acquired for consumption or use in making taxable supplies for consideration or otherwise (the procurative extent) in the most direct manner. The method meets the criteria, rules, terms and conditions specified by the Minister because, among other things, it uses a logical and systematic approach to accurately reflect the purposes for which the consulting services were acquired and determines the extent to which the services are for use in making taxable supplies for consideration and otherwise through tracking. Accordingly, the method is a direct attribution method for a direct input.
+
+Additionally, the requirements of subsection 141.02(16) are met because the method is fair and reasonable, is used consistently throughout the fiscal year and was determined by Financial Institution O prior to the date it was required to file its return for the first reporting period in the fiscal year.
+
+As the allocation method is a direct attribution method for this direct input and meets the requirements of subsection 141.02(16), Financial Institution O is eligible to claim an ITC for the HST paid on the consulting services which relate to product line 1, where all other conditions for claiming an ITC are met.
+
+The next year, Financial Institution O wants to also claim an additional ITC for the prior year on the consulting services paid to the accounting firm based on a calculation using causal allocation instead of tracking. Financial Institution O has not received written consent from the Minister to use this altered method.
+
+Financial Institution O is not eligible to alter or substitute its method for the prior year because the new method is not the most direct method, the new method does not use tracking although tracking is possible and Financial Institution O does not have written consent from the Minister pursuant to subsection 141.02(17). Financial Institution O is therefore not eligible to claim an additional amount as an ITC for the HST paid on the consulting services acquired from the accounting firm.
+
+Financial Institution P is engaged in making both taxable supplies for consideration and exempt supplies. It acquires various property and services, including rented office space, heating costs, electricity, equipment repair services, advertising and office expenses, and pays GST. The advertising services advertise specific exempt supplies made by Financial Institution P. The equipment that was repaired is used by a particular division to make both taxable and exempt supplies, and the office space, heating costs, electricity and other office expenses are used by all of its divisions. It then allocates these expenses to its different divisions for cost accounting purposes. For example, it allocates the full cost (including GST) of the advertising to the division that makes the exempt supplies to which the advertising relates and the full cost (including GST) of the equipment repairs to the division that uses the repaired equipment. It allocates a portion of the rest of the expenses that it considers overhead to each of its divisions and products based on the space (square footage) used by that division and product.
+
+However, it applies an output-based method (a ratio of revenue from taxable supplies for consideration to total revenue) to allocate the pool of all those business inputs for ITC purposes and, based on this method, claims a percentage of the GST paid on those expenses as an ITC.
+
+Financial Institution P did not categorize the above business inputs as required by section 141.02.
+
+The advertising services are an exclusive input as they are not an excluded input and were acquired for consumption or use directly and exclusively in making exempt supplies. Therefore, pursuant to subsection 141.02(6), Financial Institution P is deemed to have acquired the advertising services for consumption or use exclusively otherwise than in the course of its commercial activities and would not be eligible to claim any ITC on that input.
+
+The office space, heating costs, electricity, equipment repair and office supplies are direct inputs because they are not excluded or exclusive inputs and are attributable to the making of particular supplies (taxable supplies for consideration and exempt supplies) by Financial Institution P.
+
+The method used by Financial Institution P for these direct inputs does not conform to the criteria, rules, terms and conditions specified by the Minister. This is because, among other things, the method used is not the most direct manner of determining the procurative extent of these direct inputs, and tracking and causal allocation were not used where they were possible. Furthermore, the method includes inappropriate pooling (for example, the pool includes inputs from more than one category; that is, both exclusive and direct inputs). Therefore, the method used by Financial Institution P is not a direct attribution method for these direct inputs.
+
+Additionally, the requirements of subsection 141.02(16) are not met because the method is not fair or reasonable in the circumstances. For example, it is not logical or rational, and therefore it is not reasonable, to allocate a portion of the use of an exclusive input (acquired directly and exclusively to make exempt supplies) to the making of taxable supplies for consideration.
+
+As the allocation method is not a direct attribution method and does not meet the requirements of subsection 141.02(16). Financial Institution P is not eligible to claim an ITC for the GST paid on the property and services using this method.
+
+Financial Institution Q has a monthly lease with a landlord for space (based on square footage) within an office building. It pays $1,000,000 as rent plus $130,000 in HST to its landlord. Financial Institution Q’s core business is making exempt supplies of financial services. Financial Institution Q rents 25% of the space to advisors who are considered independent contractors for income tax purposes for $250,000 and collects $32,500 in HST on the rent. The rent charged by Financial Institution Q to advisors for each advisor office is what Financial Institution Q pays per square foot for that office space.
+
+Financial Institution Q will only rent space to a person who is an advisor (that is, a person that has an agreement with Financial Institution Q to arrange for the supply of Financial Institution Q’s financial services). However, advisors who have such an agreement are not required to rent space from Financial Institution Q and, in fact, a large number of them do not rent space from Financial Institution Q.
+
+The breakdown of space in the office building that Financial Institution Q leases is as follows:
+
+- 25% is offices rented to advisors
+
+- 20% is vacant offices that have been vacant for at least three years
+
+- 20% is space that Financial Institution Q considers to be for common use (for example, a training room, quiet rooms and boardrooms)
+
+- 35% is offices for Financial Institution Q’s employees who are exclusively engaged in making exempt supplies
+
+For ITC allocation purposes, Financial Institution Q allocates the space (based on square footage) as follows:
+
+- the 25% rented to advisors as 100% for the purpose of making taxable supplies of real property
+
+- the 20% vacant space as 100% for the purpose of making taxable supplies of real property on the premise that this space is held to rent to advisors
+
+- the 20% Financial Institution Q considered to be common space as 75% for the purpose of making taxable supplies of real property and 25% for the employees’ use in making exempt supplies
+
+- the 35% for Financial Institution Q’s employees engaged exclusively in making exempt supplies as 100% for a purpose other than making taxable supplies
+
+As a result, Financial Institution Q claims ITCs of $78,000 for 60% [25% + 20% + (75% × 20%)] of the HST it paid to its landlord on its lease of space in the office building.
+
+The leased space (rent) is a direct input of Financial Institution Q as it is not an excluded input or an exclusive input and it can be attributed to the making of particular supplies (both the making of taxable supplies for consideration and exempt supplies). Therefore, Financial Institution Q is required to use a direct attribution method to allocate the space.
+
+The method used by Financial Institution Q to determine the procurative extent of the space within the office building does not conform to the criteria, rules, terms and conditions specified by the Minister because, among other things, the method does not accurately reflect the extent to which the office space is for use in making taxable supplies for consideration of office space to advisors and in making exempt supplies of financial services. For example, Financial Institution Q claims full ITCs for the vacant office space even though it has a history of having vacant offices each month. Further, although advisors do not have to rent space from Financial Institution Q, it only rents this vacant space to the advisors who use the space to arrange for Financial Institution Q to make exempt supplies of financial services.
+
+Financial Institution Q’s core business is making supplies of financial services, not making supplies of real property. Financial Institution Q’s supply of office space to advisors is in the context of Financial Institution Q’s core business of making exempt supplies of financial services. Financial Institution Q’s assumption does not accurately reflect Financial Institution Q’s intended use of the space in the context of its rental experience and its core business of making exempt supplies of financial services.
+
+In addition, Financial Institution Q allocated 75% of the use of what it considers common space to the purpose of making taxable supplies for consideration even though it does not charge any additional amount of rent to the advisor for their use of that space. It is providing the use of its space to the advisors because they support its core business of selling financial services (and not because it is in the business of renting real property below cost; that is, at a loss). Therefore, the allocation method used by Financial Institution Q does not accurately reflect the use of the business input in the context of Financial Institution Q’s core business.
+
+Also, the method used by Financial Institution Q does not meet the criteria, rules, terms and conditions because it is biased, as it produces a pattern of higher ITC claims than a reasoned review of the facts would substantiate. That is, a reasoned view of the facts would not support claiming ITCs based on allocating 60% of the use of the space to making taxable supplies of real property rentals but only charging rent on 25% of that space.
+
+Therefore, as the method used does not conform to the criteria, rules, terms and conditions specified by the Minister, it is not a direct attribution method for the rent and cannot be used.
+
+Additionally, the requirements of subsection 141.02(16) are not met because the method is not fair or reasonable in the circumstances. For example, it is not fair or reasonable to allocate 60% of the use of the space to making taxable supplies of real property rentals but only charge rent on 25% of that space (that is, it is not fair or reasonable to base the allocation of the space on an assumption that it is operating a rental business at a loss).
+
+As the allocation method is not a direct attribution method and does not meet the requirements of subsection 141.02(16), Financial Institution Q is not eligible to claim an ITC for the HST paid on the rent based on this method.
+
+### Specified method for a non‑attributable input
+
+95. A specified method for a non‑attributable input is a method conforming to the criteria, rules, terms and conditions specified by the Minister in this memorandum for determining the procurative and operative extent of a non‑attributable input. Refer to paragraphs 36 to 74 of this memorandum for these criteria, rules, terms and conditions. Any specified method for a non‑attributable input that a financial institution uses in respect of a fiscal year is also required to meet the conditions set out in subsection 141.02(16), which are explained in paragraphs 75 to 80 of this memorandum.
+
+96. As mentioned in paragraph 27 of this memorandum, a financial institution generally has very few non‑attributable inputs. The criteria, rules, terms and conditions for a specified method for a non‑attributable input are the same as those for a direct attribution method for a direct input or a specified method for an excluded input, but the application is somewhat different because, unlike a direct or excluded input, a non‑attributable input cannot be attributed to the making of any particular supply by the financial institution. Any non‑attributable inputs of the financial institution would generally not be tracked or allocated using causal allocation but would be allocated using an input‑based or an output‑based allocation.
+
+Financial Institution R makes both taxable supplies for consideration and exempt supplies. Financial Institution R pays a fee to an external provider of employee assistance services related to the mental health and welfare of its employees, on which it pays the GST. The external provider provides general information to all employees regarding mental health and one-on-one services to individual employees. Financial Institution R does not receive information from the external provider about which employees use the one‑on‑one services of the external provider or the name of the department in which the employees work.
+
+In a particular reporting period, Financial Institution R is invoiced for $6,000 plus $300 in GST for employee assistance services, and the services are not attributable to the making of any particular supply. Financial Institution R categorizes the employee assistance services as a non-attributable input. As the services of the external provider are available to all of its employees, Financial Institution R uses an input-based method based on the whole business to determine the extent to which the services of the external provider were acquired for the purpose of making taxable supplies for consideration and otherwise. The value of all of Financial Institution R’s business inputs other than non-attributable inputs all of which are appropriately allocated to the making of taxable supplies for consideration and to purposes other than making taxable supplies for consideration (making exempt supplies, in this case) for the particular reporting period are:
+
+|  | Inputs for taxable supplies | Inputs for exempt supplies |
+
+| --- | --- | --- |
+
+| Exclusive inputs | $31,000 | $1,282,500 |
+
+| Direct inputs that are tracked | $500,000 | $4,471,200 |
+
+| Direct inputs allocated using causal allocation where tracking was not possible | $171,800 | $1,811,600 |
+
+| **Total** | **$702,800** | **$7,565,300** |
+
+| Excluded inputs | $150,000 | $525,500 |
+
+| **Total including excluded inputs** | **$852,800** | **$8,090,800** |
+
+Based on this information, Financial Institution R calculates that 8.5% [$702,800 ÷ ($702,800 + $7,565,300)] of the services is for the purpose of making taxable supplies for consideration. Financial Institution R claims an ITC of 8.5% on the services of the external provider based on this method. This ITC allocation method is determined by Financial Institution R before the due date specified in subsection 141.02(16).
+
+The employee assistance services are a non-attributable input of Financial Institution R because they are not an excluded input or an exclusive input and they cannot be attributed to the making of any particular supply.
+
+The input-based allocation method used by Financial Institution R meets the criteria, rules, terms and conditions specified by the Minister because, among other things, it was not possible to allocate the employee assistance services using tracking or causal allocation. Further, the input-based calculation used exclusive and direct inputs that were allocated appropriately through the rules for exclusive inputs and through direct attribution methods and these inputs represent a substantial portion (99.92%) [($702,800 + $7,565,300) ($702,800 + $7,565,300 + $6,000)] of the business inputs (other than excluded) that relate to the financial institution’s business. As a result, the method is a specified method for this non-attributable input.
+
+Additionally, the requirements of subsection 141.02(16) are met because the method used is fair and reasonable, is used consistently throughout the fiscal year and was determined by Financial Institution R prior to the date it was required to file its return for the first reporting period in the fiscal year.
+
+As the allocation method is a specified method and meets the requirements of subsection 141.02(16), Financial Institution R is eligible to claim an ITC of $25.50 (8.5% × $300) regarding the GST paid on the services of the external provider, where all other conditions for claiming an ITC are met.
+
+## Non-qualifying institution electing to use a prescribed percentage for residual inputs
+
+97. A financial institution that is not a qualifying institution may be eligible to make an election under subsection 141.02(9) to use a prescribed percentage for its residual inputs (that is, direct inputs and non-attributable inputs) for a particular fiscal year. A financial institution may make this election where both of these conditions are met:
+
+- the financial institution is, at any time in that particular fiscal year, a financial institution of a prescribed class (that is, it is a bank, an insurer or a security dealer as defined in the Regulations). For the definitions of **bank**,**insurer**and**security dealer**for purposes of the Regulations, refer to the appendix to this memorandum.
+
+- its tax credit rate for each of its two fiscal years immediately preceding the particular fiscal year equals or exceeds the prescribed percentage for the prescribed class of the financial institution (that is, 12% for banks, 10% for insurers and 15% for security dealers) for the particular fiscal year
+
+98. A financial institution eligible to make this election is one that would meet the definition of **qualifying institution** except that the financial institution does not meet the condition in paragraph (b) of that definition relating to its tax credit amount.
+
+99. For more information on prescribed classes, tax credit rates, tax credit amounts and qualifying institutions, refer to [GST/HST Memorandum 17‑11](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-11.html).
+
+100. Where an election under subsection 141.02(9) is in effect for a particular fiscal year for a financial institution, the extent to which a residual input of the financial institution is acquired, or consumed or used, for the purpose of making taxable supplies for consideration is deemed to be the particular prescribed percentage for the prescribed class of the financial institution (that is, 12% for banks, 10% for insurers and 15% for securities dealers).
+
+101. Where an eligible financial institution makes the election under subsection 141.02(9) in respect of a particular fiscal year of the financial institution, subsections 141.02(10), (11), (12) and (13) do not apply to the financial institution in respect of that fiscal year (that is, generally the requirement to use a direct attribution method for a direct input and the requirement to use a specified method for a non-attributable input). As well, if the election is in effect, the following rules apply in respect of each residual input of the financial institution:
+
+- the extent to which the residual input is acquired by the financial institution or is consumed or used for purposes other than making taxable supplies for consideration is deemed to be equal to the difference between 100% and the prescribed percentage for the prescribed class of financial institution (that difference being 88% for banks, 90% for insurers and 85% for securities dealers)
+
+- for the purpose of determining an ITC in respect of the residual input, the description of B in the formula in subsection 169(1) is deemed to be equal to the prescribed percentage for the prescribed class of financial institution
+
+102. An election under subsection 141.02(9) in respect of a fiscal year of a financial institution must be made in prescribed form and contain prescribed information. The form must be filed by the financial institution with the Minister in prescribed manner not later than the day by which the financial institution must file its GST/HST return for the first reporting period of that fiscal year, or any later day that the Minister may allow on application by the financial institution.
+
+103. To make an election under subsection 141.02(9), use [Form GST118, Election or Revocation of an Election for a Financial Institution to Use the Prescribed Percentage](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst118.html).
+
+Financial Institution S is a securities dealer for the purposes of section 141.02. Financial Institution S is a monthly filer and its tax credit rate for each of its fiscal years ending December 31, 2019, and December 31, 2020, exceeds 15% (the prescribed percentage for securities dealers), but its tax credit amount is below the prescribed tax credit amount of $500,000 for at least one of those years. As a result, Financial Institution S is not a qualifying institution.
+
+Financial Institution S makes an election under subsection 141.02(9) for its fiscal year ending December 31, 2020, by completing and filing Form GST118 on February 15, 2020 (before the date on which it must file its return for the first reporting period in its fiscal year ending December 31, 2020). As a result, for its fiscal year ending December 31, 2020, the extent to which each of Financial Institution S’s residual inputs is acquired, or consumed or used, for the purpose of making taxable supplies for consideration is deemed to be 15% and the extent to which each of Financial Institution S’s residual inputs is acquired, or consumed or used, for purposes other than making taxable supplies for consideration is deemed to be 85%. Additionally, for the purpose of determining an ITC in respect of each residual input, the description of B in the formula in subsection 169(1) is deemed to be 15%.
+
+### Revocation
+
+104. The election under subsection 141.02(9) in respect of a fiscal year of the financial institution ceases to have effect on the first day of the fiscal year and is deemed never to have been made if one of the following applies:
+
+- a notice of revocation of the election in prescribed form is filed in prescribed manner with the Minister not later than the day by which the financial institution’s GST/HST return for the first reporting period of the fiscal year is required to be filed
+
+- the financial institution is not of a prescribed class at any time in the fiscal year
+
+- the tax credit rate of the financial institution for each of the two fiscal years immediately preceding the fiscal year does not equal or exceed the prescribed percentage for the financial institution’s prescribed class for the fiscal year
+
+105. To revoke an election under subsection 141.02(9), use [Form GST118](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst118.html).
+
+### Other methods
+
+106. Subsections 141.02(11), (13) and (15) provide for the use of another method if no specified method applies to a particular non-attributable input, if no direct attribution method applies to a particular direct input or if no specified method applies to a particular excluded input, respectively. However, given the criteria, rules, terms and conditions specified by the Minister for specified methods and for direct attribution methods, it would be exceptional for a specified method or a direct attribution method to not apply to a particular business input.
+
+### Direction by Minister
+
+107. Under subsection 141.02(32), the Minister may, by notice in writing, direct a financial institution to use a particular method that is fair and reasonable for determining the procurative and operative extent of a business input for a particular fiscal year and any subsequent fiscal year of the financial institution, rather than the method used by the financial institution under any of subsections 141.02(10) to (15) for that year. There is no requirement that the Minister prove that the Minister’s method is more fair and reasonable than the method used by the financial institution, only that it be fair and reasonable.
+
+108. If a financial institution appeals an assessment in respect of an issue relating to the application of subsection 141.02(32), where the Minister directed the financial institution to use a method for a particular business input for a particular fiscal year and the Minister assessed the net tax of the financial institution for a reporting period included in the fiscal year, then subsection 141.02(33) applies. In that case, pursuant to subsection 141.02(33), the Minister is required to establish, on a balance of probabilities, that the method is fair and reasonable. Further, if the final determination by the courts is that the method is not fair and reasonable, the Minister may not direct the financial institution under subsection 141.02(32) to use another method for the fiscal year in respect of the particular business input.
+
+### Appeals
+
+109. Under subsection 141.02(31), if a financial institution appeals a GST/HST assessment for a reporting period in a fiscal year of the financial institution in respect of an issue relating to the determination of the operative extent or the procurative extent of a business input under any of subsections 141.02(10) to (15), the financial institution must establish on the balance of probabilities in any court proceeding relating to the assessment that:
+
+- in the case of the determination, under subsection 141.02(10) or (14), of the operative extent or the procurative extent of a non-attributable input or excluded input:
+
+    - the financial institution used a specified method consistently throughout the fiscal year to determine the operative extent or the procurative extent of the non-attributable or excluded input
+
+- in the case of the determination, under subsection 141.02(11) or (15), of the operative extent or the procurative extent of a non-attributable input or excluded input:
+
+    - no specified method applied to the non-attributable or excluded input and the other attribution method the financial institution used to determine the operative extent or procurative extent was fair and reasonable and used consistently by the financial institution throughout the year
+
+- in the case of the determination, under subsection 141.02(12), of the operative extent or the procurative extent of a direct input:
+
+    - it used a direct attribution method consistently throughout the fiscal year
+
+- in the case of the determination, under subsection 141.02(13), of the operative extent or the procurative extent of a direct input
+
+    - no direct attribution method applied to the direct input and the other attribution method that the financial institution used to determine the extent was fair and reasonable and used consistently throughout the year
+
+## Appendix
+
+### Definitions
+
+A **bank** is defined in the Regulations to mean, in respect of a fiscal year, a person who is a bank or an authorized foreign bank within the meaning of section 2 of the Bank Act, but it does not include a person that is at any time in the fiscal year an insurer.
+
+A **business** **input** means an excluded input, an exclusive input, a direct input or a non-attributable input.
+
+A **direct attribution method** is a method, conforming to criteria, rules, terms and conditions specified by the Minister, of determining in the most direct manner the operative extent and procurative extent of property or a service. These criteria, rules, terms and conditions are specified by the Minister.
+
+A **direct input** is property or a service that is not an excluded input, an exclusive input or a non‑attributable input. Generally, a direct input is property or a service that is neither capital property nor an improvement to capital property, that can be attributed in whole or in part to the making of a particular supply or supplies and that is acquired, or consumed or used, both for the purpose of making taxable supplies for consideration and for purposes other than making taxable supplies for consideration.
+
+An **endeavour** of a person is defined in subsection 141.01(1) to mean a business of a person, an adventure or concern in the nature of trade of a person, or the making of a supply by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply.
+
+An **excluded input** of a person is property (that is, personal or real property) that is for use by the person as capital property and any property or service that is acquired by the person for use as an improvement to capital property. An excluded input may also include a prescribed property or service. There are currently no prescribed property or services.
+
+An **exclusive input** of a person is property or a service (other than an excluded input) that is acquired by the person for consumption or use either directly and exclusively for the purpose of making taxable supplies for consideration, or directly and exclusively for purposes other than making taxable supplies for consideration. For financial institutions, exclusively means 100%.
+
+An **insurer** is defined in the Regulations to mean, in respect of a fiscal year, a person who is licensed or otherwise authorized under the laws of Canada or a province to carry on in Canada an insurance business or under the laws of another jurisdiction to carry on in that other jurisdiction an insurance business, and that carries on at any time in the fiscal year an insurance business as its principal business in Canada.
+
+An **investment plan,** as defined in the Selected Listed Financial Institutions Attribution Method (GST/HST) Regulations, means a segregated fund of an insurer (as defined in subsection 123(1)) or an investment plan (as defined in subsection 149(5)), other than:
+
+- a trust governed by a registered retirement savings plan, a registered retirement income fund, a registered disability savings plan or a TFSA (tax‑free savings account)
+
+- a trust governed by a registered education savings plan if the trust does not have more than one beneficiary at any one time or each of the beneficiaries of the trust is connected to each living subscriber under the plan, or was connected to a deceased original subscriber under the plan, by blood relationship or adoption (within the meaning of subsection 251(6) of the ITA)
+
+A **non-attributable input** of a person is property or a service that is acquired by the person and is neither an excluded input nor an exclusive input of the person and is not attributable to the making of any particular supply by the person.
+
+The **operative extent** of a particular property or service is, as the case may be, the extent to which the consumption or use of the property or service is for the purpose of making taxable supplies for consideration, or the extent to which the consumption or use of the property or service is for purposes other than making taxable supplies for consideration.
+
+The **procurative extent** of a particular property or service is, as the case may be, the extent to which the property or a service is acquired for the purpose of making taxable supplies for consideration, or the extent to which the property or service is acquired by the person for purposes other than making taxable supplies for consideration.
+
+A **residual input** is a direct input or a non-attributable input.
+
+A **securities dealer**is defined in the Regulations to mean, in respect of a fiscal year, a person that is all of the following:
+
+- carries on at any time in the fiscal year a business as a trader or dealer in, or as a broker or salesperson of, securities as the person’s principal business in Canada
+
+- is registered under the laws of Canada or a province to carry on in Canada at any time in the fiscal year a business as a trader or dealer in, or as a broker or salesperson of, securities
+
+- is not a bank or an insurer (as these terms are defined in the Regulations) at any time in the fiscal year
+
+A **specified method** is a method, conforming to the criteria, rules, terms and conditions specified by the Minister, for determining the operative extent and the procurative extent of property or a service. These criteria, rules, terms and conditions are specified by the Minister.
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries,**call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries,**call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in**Quebec**, call**Revenu Québec**at **1-800-567-4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST - Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for**general GST/HST**or**QST enquiries**, call**Business Enquiries**at**1-800-959-5525**
+
+- for**technical GST/HST**or**QST enquiries**, call**GST/HST Rulings SLFI**at**1-855-666-5166**

@@ -1,0 +1,39 @@
+Title: Golf Tournament fundraisers
+Source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/charities-video-gallery/golf-tournament-fundraisers.html
+Corpus path: corpus/cra/multimedia/charities-video-gallery/golf-tournament-fundraisers.md
+Document type: video_transcript
+Last modified: 2018-04-24
+
+# Golf Tournament fundraisers
+
+## Transcript
+**(The wording: Gifting and receipting – Golf tournaments – Canada Revenue Agency, appear on screen)**
+Is your charity hosting a golf tournament to raise funds? Do you plan to charge a registration fee and issue donation receipts to the participants?
+If so, this video will help you determine if you can issue a receipt and help you calculate the amount of the donation.
+There are three steps in determining if you can issue receipts and the amount to write on them.
+The first step is to decide on what the participants will receive with their registration fee. This is called the advantage to the donor. In the case of a golf tournament, the participants are donors.
+An advantage can be any property that a donor receives in exchange for their donation. It can include any goods, services, payment or other benefit.
+At a golf tournament, the most common advantages that participants receive are:
+- a round of golf
+- the use of a golf cart
+- a dinner in the clubhouse
+- open-bar refreshments
+- items of small value such as golf shirts or hats
+- door prizes
+But there are two exceptions.
+An advantage does not include an option to buy raffle tickets or any other games of chance. If you include either of these options in your registration fee, then you cannot issue a donation receipt for the registration fee.
+The chance to win a prize for a hole-in-one is so small that it is never considered an advantage, it can simply be ignored.
+Once you have decided on the advantages, determine the fair market value for each advantage. The fair market value is the amount someone could reasonably expect to pay for the goods in a free and open market. Then, add up the value of advantages to get the total value of all the advantages for each participant.
+The second step is to find out whether the participant intended to make a gift or donation.
+If the participant receives advantages that are worth no more than 80% of the registration fee, then the participant is considered to have made a donation and your charity can then give the participant a donation receipt. But for how much?
+The third step three is to determine the amount of the gift you can write on the receipt.
+Take the registration fee for each participant and subtract the total value of the advantages. The remaining amount is called the eligible amount of the donation. You can issue a donation receipt for that amount.
+Other situations could apply. For instance, some participants in the tournament might be members of the golf club where the tournament is being held. Their membership might include the use of a golf cart. In such a situation, do not include that benefit when you calculate the advantage to the participant. This means that the amount on the donation receipt for club members will be different from that of non-members.
+For more information about donation receipts in general, check out Gifting and Receipting 101 on our website.
+To see the Graphic educational tool on golf tournaments, visit the Canada.ca website.
+**(A maple leaf emblem appears on the screen with the wordings: Charities and giving and Canada.ca/charities-giving**
+**(Icons appear on the screen with the following words beside each related icons: "What's New" electronic list, Twitter account: @CanRevAgency and the YouTube Channel CanRevAgency)**
+**(Hashtag CRA charities appears on the screen**
+**(A Canadian Flag emblem appears on the screen with the wordings the Canada Revenue Agency and Agence du revenu du Canada)**
+**(Screen shows a copyright emblem and the wording Her Majesty, the Queen in Right of Canada, as represented by the Canada Revenue Agency, 2018)**
+**(The last screen shows the wording CANADA and an emblem of the Canadian flag)**

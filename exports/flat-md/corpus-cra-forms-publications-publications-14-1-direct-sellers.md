@@ -1,0 +1,524 @@
+---
+title: "Direct Sellers"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-1/direct-sellers.html
+last_modified: 2017-06-22
+---
+# Direct Sellers
+
+GST/HST memorandum 14.1
+
+Overview
+
+This section describes the Goods and Services Tax (GST) alternate collection method for direct sellers who distribute their exclusive products to purchasers through independent sales contractors rather than through retail establishments.
+
+Disclaimer
+
+The information in this memorandum does not replace the law found in the *Excise Tax Act* and its Regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation, or contact a Canada Revenue Agency (CRA) GST/HST Rulings Centre for more information. These centres are listed in [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html). If you wish to make a technical enquiry on the GST/HST by telephone, please call the toll-free number 1-800-959-8287.
+
+If you are located in the Province of Quebec, please contact Revenu Québec by calling the toll-free number 1-800-567-4692 for additional information.
+
+- [General](#General)
+
+- [Direct sellers](#P1001)
+
+- [Alternate collection method for direct sellers or direct sellers and their distributors](#P1002)
+
+- [Direct seller - approved to use the alternate collection method](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-1/direct-sellers.html)
+
+- [Distributor - approved to use the alternate collection method](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-1/direct-sellers.html)
+
+- [Starting/ceasing the use of the alternate collection method](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-1/direct-sellers.html)
+
+- [Sales aids](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-1/direct-sellers.html)
+
+- [Bonus payments](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-1/direct-sellers.html)
+
+- [Host gifts](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-1/direct-sellers.html)
+
+- [Restriction on input tax credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-1/direct-sellers.html)
+
+- [Appropriations for independent sales contractors](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-1/direct-sellers.html)
+
+- [Ceasing to be a registrant](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-1/direct-sellers.html)
+
+- [Request for cancellation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-1/direct-sellers.html)
+
+- [Non-arm's length supply](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-1/direct-sellers.html)
+
+- [Examples](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-1/direct-sellers.html)
+
+- [Historical changes](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-1/direct-sellers.html)
+
+- [Appendix](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-1/direct-sellers.html)
+
+## General
+
+Alternate collection method :
+
+1. A special GST collection method called the alternate collection method has been designed to simplify the operation of the tax for direct sellers and their independent sales contractors. The initial proposals for the alternate collection method for direct sellers were first announced on December 18, 1990. Since then, a number of refinements to the alternate collection method (ACM) have been made, which further simplify the rules for direct sellers who choose this method. The rules explained in this section are those in effect as of the date of the publication. The part of this section entitled "Historical changes" provides a brief overview of some rules which were in effect at one point, but have since been revoked or changed.
+
+Deregistration :
+
+2. The ACM has been designed such that it is not necessary for most independent sales contractors to be registered. This eliminates the administrative burden that would otherwise be placed on these small businesses. For information on deregistration, please contact your nearest Revenue Canada Excise/GST district office.
+
+## Direct sellers
+
+3. Generally, direct sellers distribute their exclusive products to purchasers through distributors and/or independent sales contractors who solicit orders and deliver merchandise directly to purchasers in their homes.
+
+ACM and direct sellers and their organizations s178.1 to 178.5
+
+4. The ACM is a streamlined method of applying the tax for direct sellers and their organizations. The ACM provides direct sellers with the option of ignoring, for GST purposes, sales of exclusive products to independent sales contractors and, instead, calculating their net tax liabilities as if the sales had been made directly to purchasers at that time, based on the suggested retail price of the exclusive products. Under this ACM, the independent sales contractors neither account for tax on sales of exclusive products of the direct seller nor include revenue from such sales in determining whether they surpass the small supplier threshold. The parts of this section entitled "Direct Seller - approved to use the alternate collection method" and "Distributor - approved to use the alternate collection method" provide detailed information on this method and how a direct selling organization may apply it. In addition, paragraphs 5 to 11 of this section explain certain terms as they apply to the ACM. These terms are defined in Section 1.5, *Definitions*, of Chapter 1, *GST Information*. As a final note, since direct sellers are the persons considered to be making the sale, they must ensure that they provide the proper documentary requirements. Chapter 8, *Input Tax Credits: Eligible ITCs*, will provide the information concerning documentary requirements.
+
+Direct seller
+
+5. **Direct seller**. Direct selling organizations that will be eligible to make use of the ACM are those which market and distribute their exclusive products through independent sales contractors to purchasers.
+
+Distributor
+
+6. **Distributor**. Some direct selling organizations operate under a multi-tiered structure (i.e., the direct seller supplies goods for resale to distributors who in turn resell the goods to other independent sales contractors for sale to final consumers). These distributors (who are themselves defined to be independent sales contractors) may also sell exclusive products directly to purchasers.
+
+Exclusive product
+
+7. **Exclusive product**. This term defines the type of property which, when sold by a direct seller, is covered under the ACM. It must be personal property that is acquired, manufactured or produced by the direct seller for sale to independent sales contractors with the expectation that the property will ultimately be sold, otherwise than as used property, by an independent sales contractor in the ordinary course of a business of the contractor to a purchaser other than another independent sales contractor of the direct seller.
+
+Independent sales contractor
+
+8. **Independent sales contractor (ISC)**. To qualify as an ISC of a direct seller, a person must have a contractual right to purchase exclusive products of the direct seller from the direct seller or from a distributor of the direct seller. The ISC must purchase the exclusive products of the direct seller for the purpose of resale to other ISCs of the direct seller or to purchasers. The ISC cannot market or sell these exclusive products to purchasers more than 50% of the time from a fixed place of business, other than a person's home, (e.g., store). The ISC cannot be an agent or employee of the direct seller or of a distributor of the direct seller.
+
+Purchaser
+
+9. **Purchaser**. This term is intended to capture the concept of a "final consumer" (i.e., the purchaser is not acquiring the product for the purpose of resale). The purchaser of an exclusive product may be a business which is purchasing the exclusive product for consumption within its commercial activities.
+
+Sales aid
+
+10. **Sales aid**. A sales aid refers to personal property that is acquired, manufactured or provided by the direct seller or ISC to assist in the promotion, sale and distribution of exclusive products. Sales aids include customized business forms, samples, demonstration kits, catalogues and promotional items. Exclusive products are specifically excluded from the definition of sales aid as is property acquired by an ISC for use as capital property.
+
+Suggested retail price
+
+11. **Suggested retail price**. The suggested retail price, at any time, will be the lowest price published (e.g., in a catalogue) by the direct seller that will apply to supplies which are made at that time to purchasers. The suggested retail price does not include any amount on account of tax. Sale prices (e.g., special catalogue inserts) may also qualify, at a particular time, as the suggested retail price.
+
+## Alternate collection method for direct sellers or direct sellers and their distributors
+
+ACM requirements s 178.2
+
+12. There are certain requirements that must be met respecting an application to use the ACM by a direct seller or a direct seller and its distributor.
+
+### Application to use the alternate collection method
+
+Who may apply
+
+13. A person who qualifies as a direct seller and who is a registrant may apply to the Minister to use the ACM.
+
+Joint application
+
+14. When a direct seller and a distributor of the direct seller are registrants, they may apply jointly to the Minister to use the ACM. When such a joint application is approved, the distributor, rather than the direct seller, will be responsible for accounting for the tax on the sale of exclusive products to purchasers, calculated on the suggested retail price at the time the distributor sells the exclusive products.
+
+How to apply
+
+15. Direct sellers (and distributors) must apply to the Department for approval to use the ACM, outlining certain information and conditions. (The Appendix to this section contains further information on the conditions that must be outlined in the application to use the ACM.) Such requests must be made in prescribed form and should be forwarded to the nearest Revenue Canada Excise/GST district office. Once approval is granted, the direct seller (and distributor(s) where the application is made jointly) will be notified in writing of the approval and the date the approval takes effect.
+
+Criteria for evaluating application
+
+16. The application to use the ACM must be made in writing and contain the required registration information of the direct seller (and distributors). It will be evaluated according to the following criteria:
+
+1. the direct seller must market and distribute personal property through ISCs;
+
+2. the ISCs must be self-employed, not employees or agents acting on behalf of the direct seller or a distributor of the direct seller, and the ISCs must have a contractual right to purchase exclusive products of the direct seller from the direct seller or from a distributor of the direct seller;
+
+3. the ISCs must purchase exclusive products for the purpose of resale to other ISCs or to purchasers, and cannot market or sell these exclusive products to purchasers more than 50% of the time from a fixed place of business, other than a person's home;
+
+4. the suggested retail prices of all goods sold to purchasers must be published and made available to purchasers, by means of a catalogue, flyer or other publication provided to the purchaser. Items sold at a discount price (i.e., on sale) should be announced in the same manner;
+
+5. the person who will be accounting for tax on the supply of goods to purchasers under the ACM and all other persons above that person in the marketing/distribution plan must be registrants as of the effective date of the application; and,
+
+6. the person who will be accounting for tax on the goods supplied to purchasers must be the only person who will account for tax on the supply of such goods.
+
+### Grant of approval
+
+Effective period - direct seller
+
+17. The Minister may approve, in writing, the application mentioned in paragraph 13 of this section. The approval would be effective for the period commencing on the day specified in writing by the Minister in the approval letter and ending on the earliest of the day on which a revocation of the approval becomes effective, or the direct seller ceases to be a registrant, or an approval of a joint application by a distributor and a direct seller ceases to be in effect, provided no such other approval is in effect.
+
+Effective period - direct seller and distributor (joint application)
+
+18. Where the Minister receives a joint application mentioned in paragraph 14 of this section, the Minister may approve, in writing, the application. The approval would be effective for the period commencing on the day specified in writing by the Minister in the approval letter and ending on the earliest of the day on which a revocation of the approval becomes effective, the direct seller ceases to be a registrant or the distributor ceases to be a registrant.
+
+Supplies to ISCs
+
+19. When an approval for a direct seller to use the ACM is in effect, all supplies made to all ISCs of the particular direct seller (including distributors) will be covered by the method unless a joint application as described in paragraph 14 of this section has been approved. Where such an application has been approved, transactions between the direct seller and that distributor will follow normal GST rules. The ISCs dealing through that distributor will still be covered by the ACM.
+
+Deemed approval ss 178.2(3) and (5)
+
+20. Unless an approval is already in effect, a direct seller is deemed to have been granted approval to use the ACM effective immediately before the first distributor of the direct seller is approved to use the method. While this deemed approval is in effect, the direct seller must collect the tax on the suggested retail price of all exclusive products supplied to an ISC unless the ISC is a distributor approved to account for tax under the ACM. The deemed approval will cease to have effect on the day the approval ceases for a distributor of the direct seller and no other approval is in effect for any other distributor of the direct seller.
+
+21. Therefore, a direct seller may be approved to use the ACM either by submitting a request or as a result of a deemed approval where a distributor of the direct seller and the direct seller have jointly applied to use the ACM, and approval has been granted. The direct seller is responsible for notifying its distributors and ISCs that the direct selling organization is using the ACM and that the rules governing the method will apply to them.
+
+### Revocation of approval
+
+Direct seller ss 178.2(6)
+
+22. Where a joint application between a direct seller and a distributor is not in effect, the Minister may revoke the approval to use the ACM when the direct seller fails to comply with the ACM, or any other section of Part IX of the Act, or when the direct seller requests in writing that the method be revoked. In either case, the Minister will notify the direct seller in writing of the effective date of the revocation.
+
+Direct seller and distributor ss 178.2(7)
+
+23. When a distributor fails to comply with the ACM, or any other section of Part IX of the Act, the Minister may revoke the approval to use the ACM granted to the direct seller and the distributor. The direct seller and the distributor may also request jointly, in writing, that the ACM be revoked. In either case, the Minister will notify both the distributor and the direct seller in writing of the effective date of the revocation.
+
+## Direct seller - approved to use the alternate collection method
+
+Rules respecting ACM for direct sellers s 178.3
+
+24. Section 178.3 sets out the rules respecting the ACM when an application has been approved for a direct seller. It describes the tax treatment of taxable supplies of exclusive products made in Canada by a direct seller to ISCs who are not distributors in respect of which an approval has been granted to use the ACM, and the subsequent sales by these ISCs.
+
+25. Under these rules, the direct seller accounts for the tax on the suggested retail price of the exclusive products sold to ISCs when the direct seller makes the supply to the ISC. The ISC cannot claim an input tax credit (ITC) as the amount collected on account of tax by the direct seller from the ISC is deemed not to be tax payable by the ISC. The ISCs recover this amount on account of tax by charging the tax to the purchasers, but not accounting for the tax. These rules do not apply if the supply is zero-rated.
+
+### Supplies by direct sellers to independent sales contractors
+
+Effect of approval for direct sellers ss178.3(1)
+
+26. When a direct seller makes in Canada a taxable supply by way of sale (other than a zero-rated supply) of an exclusive product to an ISC, the following rules apply:
+
+1. the supply is deemed to have been made for consideration that becomes due, and is paid, at the time that is the earliest time at which any consideration for the supply becomes due (i.e., when the direct seller issues the invoice to the ISC for the supply) or is paid, and that is equal to the suggested retail price of the exclusive product in effect at the time the supply is made by the direct seller to the ISC;
+
+2. tax is deemed not to be payable by the ISC with respect to its purchases of exclusive products from the direct seller;
+
+3. the ISC is not entitled to any rebate for tax paid in error under section 261 of the Act in respect of the supply; and
+
+4. an amount equal to tax calculated on the suggested retail price of the exclusive product at the time the supply is made is added in determining the net tax of the direct seller for the reporting period in which the consideration for the supply to the ISC is paid or becomes due.
+
+### Supplies by independent sales contractors
+
+27. Subsection 178.3(2) sets out the tax treatment of a supply of an exclusive product of the direct seller made by an ISC of the direct seller in cases where the ISC is not a distributor for whom approval of a joint application with the direct seller to use the ACM is in effect. For these rules to apply, tax must have been previously accounted for on the suggested retail price of the exclusive product either by the direct seller under subsection 178.3(1) (refer to paragraph 26 of this section) or by the ISC (or another registrant) by way of subsection 178.5(1) (refer to paragraph 49 of this section).
+
+Exclusive product supplied from one ISC to another paragraph 178.3(2)(d)
+
+28. If the supply of the exclusive product is made from one ISC to another ISC of the direct seller, the supply is deemed not to have been made by the first ISC and not to have been received by the other ISC. In effect, supplies from one ISC to another are ignored for GST purposes.
+
+Exclusive product supplied to any other person, i.e., purchaser paragraph 178.3(2)(e)
+
+29. If the ISC sells the exclusive products to any other person (i.e., a purchaser), other than the direct seller, the supply is deemed to be a taxable supply made not by the ISC, but by the direct seller. Any tax collected by the ISC is deemed to be tax collected on behalf of the direct seller, but is not included in the net tax of the direct seller since the direct seller will have already accounted for tax on the suggested retail price of the exclusive product when the exclusive product was first sold to an ISC.
+
+### Adjustments to net tax of direct sellers
+
+Exclusive product returned by ISC ss 178.3(3)
+
+30. If an ISC returns to the direct seller an exclusive product on which the direct seller had previously accounted for tax, the ISC is deemed not to have supplied the exclusive product and the direct seller may deduct, in determining its net tax, an amount equal to tax calculated on the suggested retail price of the exclusive products at the time of the original supply. For example, if the direct seller buys back inventory from the ISC, the direct seller is able to deduct an amount in determining its net tax equal to the tax the direct seller accounted for on the original sale of the exclusive product to the ISC. The direct seller may deduct such an amount within four years after the end of the reporting period in which the ISC returned the exclusive product to the direct seller.
+
+Supply by ISC after March 1993 ss 178.3(4)
+
+31. A direct seller who has been approved to use the ACM may adjust its net tax liability in cases where the direct seller has accounted for tax on the suggested retail price of an exclusive product and, after March 1993, an ISC subsequently makes a supply of the product that is:
+
+1. a zero-rated supply;
+
+2. a supply made outside Canada;
+
+3. a supply to a person not required to pay tax by virtue of an Act of Parliament (e.g., supplies of property or services made on a reserve to Indians or bands, or property or services that will be delivered to the reserve for supply to Indians or bands, and supplies made to provincial governments which have not otherwise agreed to pay the tax);
+
+4. for an amount that is less than the suggested retail price, but more than nominal, to a person other than another ISC (i.e., a purchaser) and the person paid tax on that amount; or
+
+5. appropriated for the ISC's own use, or supplied for nominal or no consideration to a person other than an ISC.
+
+Zero-rated supply, supply outside Canada and supply to persons not required to pay tax
+
+32. In cases where the ISC, after March 1993, has made a zero-rated supply, a supply outside Canada, or a supply to a recipient who is not required to pay tax by virtue of an Act of Parliament (e.g., supplies of property or services made on a reserve to Indians or bands, or property or services that will be delivered to the reserve for supply to Indians or bands, and supplies made to provincial governments which have not otherwise agreed to pay the tax), the direct seller may deduct an amount in determining its net tax equal to tax calculated on the suggested retail price of the exclusive product at the time the direct seller sold the exclusive product to the ISC, where the direct seller has paid or credited the amount to the ISC.
+
+Supply for less than suggested retail price
+
+33. When an ISC has sold an exclusive product, after March 1993, for less than the suggested retail price to someone other than another ISC and the purchaser paid tax calculated on that lower price, the deduction the direct seller may take in determining its net tax is equal to the difference between the tax calculated on the suggested retail price at the time the exclusive product is sold by the direct seller and the tax calculated on the actual sale price charged by the ISC. Again, the direct seller must pay to or credit the ISC the amount in question prior to deducting the amount from its net tax.
+
+Supply for no consideration or nominal consideration, and appropriation for own use
+
+34. If the ISC sells the exclusive product, after March 1993, for no consideration or nominal consideration (e.g., the ISC gave away the exclusive product) or appropriates the exclusive product for the ISC's own personal use, the direct seller's deduction from net tax is an amount equal to the difference between the tax calculated on the suggested retail price at the time the exclusive product is sold by the direct seller and the tax that would have been payable when the product was sold to the ISC had the ACM not been in effect. Again, the direct seller must pay to or credit the ISC the amount in question prior to deducting the amount from its net tax.
+
+Deductions
+
+35. To take a deduction in determining net tax, the direct seller must maintain evidence that the ISC made a zero-rated supply, a supply outside Canada, a supply for which the purchaser did not have to pay tax, a supply for less than the suggested retail price or for no or nominal consideration, or appropriated the exclusive product for the ISC's own use. The direct seller must also credit the amount of the deduction to the ISC. The direct seller may take the deduction in determining net tax for the reporting period in which the credit is given to the ISC or any reporting period within four years after that period.
+
+## Distributor - approved to use the alternate collection method
+
+Rules respecting ACM for distributors s 178.4
+
+36. Section 178.4 sets out the rules respecting the ACM where a joint application by a direct seller and a distributor has been approved. It describes the tax treatment of the transactions between the distributor and its ISCs. The rules with respect to the distributor are, in general, the same as those that apply to a direct seller using the ACM. As a result, the following information presented in paragraphs 37 to 47 of this section parallels the comments made in paragraphs 25 to 35.
+
+Joint application to use ACM
+
+37. When a joint application made by a direct seller and its distributor to use the ACM has been approved, sales to the distributor by the direct seller are subject to tax in the normal manner (i.e., the direct seller collects and accounts for tax on the actual selling price to the distributor). The distributor is, subject to section 169, entitled to claim ITCs for the tax paid or payable on its purchases of the goods from the direct seller. The ACM will affect transactions between the distributor and its ISCs, and the supply of exclusive products to purchasers by the distributor's ISCs. Sales by the distributor to other distributors who have been approved to use the ACM or to purchasers who are not ISCs will be subject to tax in the normal manner.
+
+### Supplies by the distributor to independent sales contractors
+
+Effect of approval for distributors
+
+38. When the distributor makes in Canada a taxable supply by way of sale (other than a zero-rated supply) of an exclusive product of the direct seller to an ISC who is not a distributor who has been approved to use the ACM, the following rules apply:
+
+1. the supply is deemed to have been made for consideration that becomes due, and is paid, at the time that is the earliest time at which any consideration for the supply becomes due (i.e., when the distributor issues the invoice to the ISC for the supply) or is paid, and that is equal to the suggested retail price of the exclusive product in effect at the time the supply is made by the distributor to the ISC;
+
+2. tax is deemed not to be payable by the ISC with respect to its purchases of exclusive products from the distributor;
+
+3. the ISC is not entitled to any rebate for tax paid in error under section 261 of the Act in respect of the supply; and
+
+4. an amount equal to tax calculated on the suggested retail price of the exclusive product at the time the supply is made is added in determining the distributor's net tax for the reporting period in which the consideration for the supply to the ISC is paid or becomes due.
+
+### Supplies by independent sales contractors
+
+39. Subsection 178.4(2) sets out the tax treatment where the approval of a distributor of a direct seller to use the ACM is in effect and an ISC of the direct seller makes a taxable supply (other than zero-rated) of an exclusive product of the direct seller. For these rules to apply, tax must have been previously accounted for on the suggested retail price of the exclusive product either by the distributor under subsection 178.4(1) (refer to paragraph 38 of this section) or by the ISC (or another registrant) by way of subsection 178.5(1) (refer to paragraph 49 of this section).
+
+Exclusive product supplied from one ISC to another paragraph 178.4(2)(c)
+
+40. If the supply of the exclusive product is made from one ISC to another ISC (not the distributor) of the direct seller, the supply is deemed not to have been made by the first ISC and not to have been received by the other ISC. In effect, supplies from one ISC to another are ignored for GST purposes.
+
+Exclusive product supplied to person other than distributor or ISC paragraph 178.4(2)(d)
+
+41. If the ISC sells the exclusive products to any person other than the distributor or an ISC (i.e., sells to a purchaser), the supply is deemed to be a taxable supply, not by the ISC, but by the distributor. Any tax collected by the ISC is deemed to be tax collected on behalf of the distributor, but is not included in the net tax of the distributor since the distributor will have already accounted for tax on the suggested retail price of the exclusive product when the exclusive product was first sold to an ISC.
+
+### Adjustments to net tax of distributors
+
+Exclusive product returned by ISC ss 178.4(3)
+
+42. If an ISC returns to the distributor an exclusive product on which the distributor was previously required to account for tax, the ISC is deemed not to have supplied the exclusive product to the distributor. The distributor may deduct, in determining net tax, an amount equal to tax calculated on the exclusive product's suggested retail price at the time the distributor supplied the product to the ISC. For example, if the distributor buys back inventory from the ISC, the distributor is able to claim a credit for the tax the distributor was required to account for on the initial sale of the exclusive product to the ISC.
+
+Supply by ISC after March 1993 ss 178.4(4)
+
+43. A distributor approved to use the ACM may adjust its net tax liability in cases where the distributor has accounted for tax on the suggested retail price of an exclusive product and, after March 1993, the ISC subsequently makes a supply of the product that is:
+
+1. a zero-rated supply;
+
+2. a supply made outside Canada;
+
+3. a supply to a person not required to pay tax by virtue of an Act of Parliament (e.g., supplies of property or services made on a reserve to Indians or bands, or property or services that will be delivered to the reserve for supply to Indians or bands, and supplies made to provincial governments which have not otherwise agreed to pay the tax);
+
+4. for an amount that is less than the suggested retail price, but more than nominal, to a person other than another ISC (i.e., a purchaser) and the person paid tax on that amount; or
+
+5. appropriated for the ISC's own use, or supplied for nominal or no consideration to a person other than an ISC.
+
+Zero-rated supply, supply outside Canada and supply to persons not required to pay tax
+
+44. In cases where the ISC, after March 1993, has made a zero-rated supply, a supply outside Canada, or a supply to a recipient who is not required to pay tax by virtue of an Act of Parliament (e.g., supplies of property or services made on a reserve to Indians or bands, or property or services that will be delivered to the reserve for supply to Indians or bands, and supplies made to provincial governments which have not otherwise agreed to pay the tax), the distributor may deduct, in determining net tax, an amount equal to tax calculated on the suggested retail price of the exclusive product at the time the distributor sold the exclusive product to the ISC, where the distributor has paid or credited the amount to the ISC.
+
+Supply for less than suggested retail price
+
+45. When an ISC has sold an exclusive product, after March 1993, for less than the suggested retail price to someone other than another ISC and the purchaser paid tax calculated on that lower price, the distributor may deduct from its net tax an amount equal to the difference between the tax calculated on the suggested retail price at the time the exclusive product is sold by the distributor and the tax calculated on the actual sale price charged by the ISC. Again, the distributor must pay to or credit the ISC the amount in question prior to deducting the amount from its net tax.
+
+Supply for no consideration or nominal consideration, and appropriation for own use
+
+46. If the ISC sells the exclusive product, after March 1993, for no consideration or nominal consideration (e.g., the ISC gave away the exclusive product) or appropriates the exclusive product for the ISC's own use, the distributor may deduct, in determining net tax, an amount equal to the difference between the tax calculated on the suggested retail price at the time the exclusive product is sold by the distributor and the tax that would have been payable when the product was sold to the ISC had the ACM not been in effect. Again, the distributor must pay or credit the ISC the amount in question prior to deducting the amount from its net tax.
+
+Deductions
+
+47. To take a deduction in determining net tax, the distributor must maintain evidence that the ISC made a zero-rated supply, a supply outside Canada, a supply for which the purchaser did not have to pay tax, a supply for less than the suggested retail price or for no or nominal consideration or appropriated the exclusive product for the ISC's own use. The distributor must also credit the amount of the deduction to the ISC. The distributor may take the deduction in determining net tax for the reporting period in which the credit is given to the ISC or any reporting period within four years after that period.
+
+## Starting/ceasing the use of the alternate collection method
+
+Products held in inventory
+
+48. Subsections 178.5(1) and 178.5(2) deal with the self-assessment requirements respecting exclusive products held in inventory at the time when a direct seller begins to use the ACM or when a distributor of the direct seller ceases to use the ACM. Subsections 178.5(3) and 178.5(4) deal with exclusive products held in inventory when a direct seller ceases to use the ACM.
+
+### Exclusive products held at time of approval
+
+Accounting for tax
+
+49. When, at any time after January 1, 1991, approval granted to a direct seller to use the ACM becomes effective (or deemed approval, explained in paragraph 20 of this section) and an ISC of the direct seller is a registrant who is not a distributor of the direct seller in respect of which an approval to use the ACM has been granted, the registrant must account for tax calculated on the suggested retail price of all exclusive products held in inventory as of the effective date of the application. The deemed supply respecting this self-assessment is not included in determining whether the ISC is a small supplier (section 148), and will not affect the threshold amount for purposes of reporting periods (section 249). When the product is subsequently sold by the ISC to purchasers, the ISC will not have to account for the tax collected as it will have already accounted for the tax when the ACM became effective.
+
+### Exclusive products held at time of revocation
+
+Self-assessment by distributor
+
+50. When an approval of a distributor of a direct seller to use the ACM ceases to have effect and an approval granted to the direct seller for the application of the ACM does not cease to have effect, the distributor must self-assess tax calculated on the suggested retail price of any exclusive product held in inventory at the time its approval ceases to be effective. The deemed supply respecting this self-assessment is not included in determining whether the distributor is a small supplier (section 148), and will not affect the threshold amount for purposes of reporting periods (section 249). When the product is subsequently sold by the distributor to purchasers, the distributor will not have to account for tax collected as it will have been accounted for at this time.
+
+Conditions under which ISC may claim ITCs
+
+51. When an approval granted to a distributor of a direct seller for the application of the ACM ceases to have effect at the same time an approval granted for the application of the ACM to the direct seller ceases to have effect, all ISCs of the direct seller, except those that are distributors in respect of whom an approval to use the ACM ceases to have effect at the same time, are deemed to have paid tax on the suggested retail price of their inventory of exclusive products held at the time that the approvals cease to have effect. This entitles eligible ISCs who are registrants to claim ITCs in respect of the inventory.
+
+52. When an approval given to a direct seller to use the ACM ceases to have effect at a time when there is no approval in effect for any distributor of the direct seller to use the ACM, all ISCs of the direct seller are deemed to have paid tax on the suggested retail price of their inventory of exclusive products held at the time the direct seller's approval ceases to have effect. This entitles those ISCs who are registrants to claim ITCs in respect of the inventory. This applies after March 1993.
+
+## Sales aids
+
+ss 178.5(5)
+
+53. Tax does not apply to a taxable supply made in Canada by way of sale of a sales aid sold to an ISC by a direct seller or by an ISC of the direct seller at a time when the direct seller is approved to use the ACM. This provision applies to supplies of sales aids for which no consideration became due or was paid before April 1993.
+
+## Bonus payments
+
+Payments to ISCs ss 178.5(6)
+
+54. Certain bonus payments to ISCs made at a time when the approval to use the ACM is in effect are deemed not to be consideration for a supply and tax does not apply. Bonus payments are any amounts (including money and property) paid by the direct seller or an ISC of the direct seller to an ISC that are made because of the volume of sales or purchases of exclusive products or sales aids. This provision applies to amounts paid or payable after March 1993.
+
+## Host gifts
+
+Gifts supplied by ISCs ss 178.5(7)
+
+55. When an ISC of a direct seller approved to use the ACM, supplies property to a person as consideration for the supply by the person of a service of acting as host at an occasion organized to promote or distribute by the ISC exclusive products of the direct seller, the person (i.e., the host) is deemed not to have made a supply of the service and the service is deemed not to be consideration for a supply. This rule applies to host gifts supplied after March 1993, and only when the ISC is not a distributor of the direct seller whose approval to use the ACM is in effect.
+
+## Restriction on input tax credits
+
+Supplies by direct sellers or distributors to ISCs ss 178.5(8)
+
+56. ITCs are denied to a direct seller or a distributor of a direct seller in respect of property (other than an exclusive product) or a service imported or acquired by the direct seller or distributor for supply to an ISC (or related individual) for no consideration or consideration that is less than the fair market value. Equally, no tax is payable on the supply to the ISC. This applies only where the ISC (or related individual) is acquiring the property or service for use otherwise than exclusively in a commercial activity (e.g., personal use). In addition, this rule applies only where the ACM is in effect, and applies to property or services acquired or imported after March 1993.
+
+## Appropriations for independent sales contractors
+
+Tax on supplies appropriated for non-commercial use ss 178.5(9)
+
+57. A direct seller or distributor of a direct seller, if registered, must account for tax (i.e., self-assess) on the fair market value (at the time the property or service was appropriated) of property (other than an exclusive product) or a service acquired, manufactured or produced in the course of commercial activities by the direct seller or distributor, and that is subsequently appropriated for use by an ISC (or related individual). This rule applies only where the ISC (or related individual) is acquiring the property or service for use otherwise than exclusively in a commercial activity (e.g., personal use). This rule does not apply where the direct seller or distributor was not entitled to claim an ITC in respect of the property or service because of section 170. This applies to appropriations after March 1993. For more information on restrictions respecting ITCs, refer to GST Memorandum 400-2, *Restrictions - General*.
+
+## Ceasing to be a registrant
+
+Deregistration of ISCs ss 178.5(11)
+
+58. ISCs of direct sellers for whom an approval to use the ACM is in effect who deregister after March 1993 are not required to account for tax on inventories of sales aids that are held at that time and that were acquired from the direct seller or another ISC of the direct seller at a time when an approval to use the ACM was in effect. This recognizes that, if the ISC were to purchase a sales aid from the direct seller or another ISC at that time, no tax would be payable. (refer to paragraph 53 of this section)
+
+## Request for cancellation
+
+Conditions for cancellation ss 242(2.2)
+
+59. The Minister has the authority to cancel the registration of an ISC who is not a small supplier, but who would be a small supplier if the rules under the ACM, as they operate on April 1, 1993, had applied to the ISC at all prior times. This special treatment is accorded to ISCs of direct sellers approved to use the ACM. Therefore, the supplies made by the ISC are treated as being non-taxable retroactive to January 1, 1991, assuming the ISC does not have other commercial activities which do not fall under the ACM. As such, the person is considered to have fallen under the small supplier's threshold of $30,000 since that date. Under these circumstances, the conditions for deregistration of small suppliers (i.e., the registration is cancelled effective after the last day of the fiscal year and the person has been registered for a period of not less than one year) do not apply to ISCs. The person is still required to file the request for cancellation; however, the effective date of cancellation assigned is the date requested by the registrant on the form GST 11, *Request for Cancellation of Registration*.
+
+## Non-arm's length supply
+
+Supplies of exclusive products to persons other than ISCs ss 178.5(12)
+
+60. The rules dealing with non-arm's length supplies under section 155 of the Act do not apply to the following supplies of exclusive products made by an ISC:
+
+1. a supply for consideration that is less than the suggested retail price, but more than nominal, to a person other than another ISC (i.e., a purchaser) and the person paid tax on that amount;
+
+2. a supply appropriated for the ISC's own use, or supplied for nominal or no consideration to a person other than an ISC; or
+
+3. a supply of a host gift.
+
+This treatment applies to supplies for which no consideration became due or was paid before April 1993.
+
+## Examples
+
+### Examples - application of the alternate collection method to an independent sales contractor and a distributor
+
+Registered direct seller
+
+DS Ltd., a direct seller and a GST registrant, has been approved to use the ACM effective April 1, 1993. DS Ltd sells only one product, a car care product. Each tin of the car care product has a suggested retail price of $10.00, but is $6.00 when sold to an ISC and $5.00 when sold to a distributor.
+
+ISC
+
+Pat joined DS Ltd. as an ISC on June 1, 1993, but Pat is not a distributor who has applied jointly with the direct seller and received approval to use the ACM.
+
+DS Ltd. charges and collects $6.00 plus 70 cents GST (10.00 x 7%) for each tin of the product sold to Pat. DS Ltd. reports the 70 cents as tax collectible on its GST return for the reporting period when it sold the tins to Pat. Pat is not eligible to claim an ITC in respect of the 70 cents paid, whether or not he is a registrant.
+
+Defective goods
+
+Pat had to return a defective tin to DS Ltd. and was refunded $6.00 plus the 70 cents GST that had been collected. DS Ltd. then deducted this amount in determining its net tax. DS Ltd. can deduct the amount in determining its net tax for the GST return for the reporting period when the defective tin was returned or in a return for any other reporting period within 4 years.
+
+Taxable sales by ISC
+
+Pat sells the product to his neighbour at the suggested retail price of $10.00 plus 70 cents GST. DS Ltd. has already collected 70 cents GST from Pat and reported the correct amount of tax. Therefore, Pat does not remit or report the 70 cents GST he collects from his neighbour.
+
+Non-taxable sales
+
+One of Pat's supplies was made to a provincial government. The provincial government purchased the product for $10.00 (no tax). Pat provided DS Ltd. with the documentation from the sale and, in turn, received a credit of 70 cents to be applied against his next order. DS Ltd. then included the 70 cents as a credit amount on its GST return and, as a result, reduced its net tax by that amount. DS Ltd. can make the adjustment in its GST return for the reporting period in which the credit was given or in a return for any other reporting period within 4 years.
+
+Supply for less than suggested retail price
+
+Pat also sold a tin of the product to his co-worker for $8.00 plus 56 cents GST. After providing the necessary documentation to DS Ltd., DS Ltd. credited him with 14 cents (.70 - .56) to be applied against his next order. DS Ltd. can then report this amount as a credit in its GST return for the reporting period in which the credit was given or in a return for any other reporting period within 4 years. Of course, since DS Ltd. has collected and reported the correct amount of tax, Pat does not report or remit the 56 cents GST he collected from his co-worker.
+
+Appropriation for own use
+
+When Pat's mother needs the product, he gives it to her without charge. Pat then provides the necessary documentation to DS Ltd. who, in turn, credits him with 28 cents to be applied against his next order. DS Ltd. explained that this credit amount was the difference between the tax calculated on the suggested retail price of $10.00 (70 cents) and the tax on the sale price of $6.00 (42 cents). DS Ltd. will then report the 28 cents as a credit on its GST return for the reporting period in which the amount is credited to Pat or in a return for any other reporting period within 4 years.
+
+Approved distributor
+
+Lucille is another ISC who joined DS Ltd. on June 1, 1993, but Lucille is also a distributor who has applied jointly with DS Ltd. and been approved to use the ACM. This approval became effective September 1, 1993. Of course, Lucille is a GST registrant.
+
+Before September 1, 1993, when DS Ltd. sold a tin of product to Lucille, DS Ltd. sold the product for $6.00 plus 70 cents GST ($10.00 x 7%). DS Ltd. had the responsibility to report that amount (70 cents) as tax collectible. Since September 1, 1993, DS Ltd. sells the product to Lucille for $5.00 and charges tax of 35 cents ($5.00 x 7%) to Lucille. DS Ltd. then reports the 35 cents as tax collectible on its GST return. Since Lucille is a registrant who acquired the product for resupply in her commercial activity, she is eligible to claim an ITC of 35 cents.
+
+Supply by approved distributor to ISC
+
+Due to a restructuring of the sales territory which took effect September 1, 1993, Pat will now purchase all his products from Lucille. When Lucille sells the product to Pat for $6.00, Lucille will collect the $6.00 and GST of 70 cents; that is, 7% of $10.00, the suggested retail price. Lucille is responsible for reporting the 70 cents as tax collectible on her GST return.
+
+When Pat, an ISC, returns, sells or gives the product away as described previously, he must provide the supporting documentation to Lucille. From now on, it is Lucille, not DS Ltd., who will pay or credit the amounts due to him, and it is Lucille who will include those amounts paid or credited when calculating her net tax.
+
+Supply by approved distributor to clients
+
+Lucille also has her own clients (not ISCs) to whom she sells the product directly. She must charge and collect tax on the sale price of the product under the normal GST rules. For example, if she sells the product to her neighbour for $7.00 she is responsible for charging 49 cents GST ($7.00 x 7%). This tax treatment also applies if Lucille makes any sales to other distributors of the direct seller who have been approved to use ACM. She will report these amounts charged as tax collectible on her GST returns.
+
+## Historical changes
+
+Definitions
+
+61. Before April 1993 the definitions "exclusive product" and "sales aid" read as follows:
+
+1. **"exclusive product"** of a person means personal property (other than a sales aid) that is sold by the person to ISCs of the person; and
+
+2. **"sales aid"** means personal property that is supplied by a direct seller or an ISC of the direct seller to assist in the promotion, sale, or distribution of exclusive products of the direct seller and includes a sample, demonstration kit, promotional or instructional item, catalogue and customized business form.
+
+Sales of exclusive products to ISCs by direct sellers and distributors
+
+62. The rules governing sales of exclusive products to ISCs by direct sellers and distributors changed effective April 1993. The result is that subsection 178.3 (1), as described in paragraph 26 of this section, and subsection 178.4 (1), as described in paragraph 38 of this section, apply only to supplies for which no consideration became due or was paid before April 1993. For supplies prior to this date, paragraphs 26 and 38 would read as follows:
+
+"If a direct seller (or distributor) made in Canada a taxable supply by way of sale (other than a zero-rated supply) of an exclusive product to an ISC, and any consideration for the supply became due or was paid before April 1993, then the following rules would have applied:
+
+1. the supply was deemed to have been made for consideration that became due, and was paid, at the time that was the earliest time at which any consideration for the supply became due (i.e., when the direct seller (or distributor) issued the invoice for the supply) or was paid, and that was equal to the suggested retail price of the exclusive product in effect at the time the supply was made by the direct seller (or distributor);
+
+2. tax was deemed not to be payable by the ISC with respect to its purchases of exclusive products from the direct seller (or distributor);
+
+3. the ISC was not entitled to any rebate for tax paid in error under section 261 of the Act in respect to the supply;
+
+4. an amount equal to tax calculated on the suggested retail price of the exclusive product at the time the supply was made must be added in determining the direct seller's (or distributor's) net tax for the reporting period in which the consideration for the supply to the ISC was paid or became due;
+
+5. the direct seller (or distributor) was deemed to have received, and the ISC to have made, a taxable supply of a service for consideration that became due and was paid at that time equal to the difference between the suggested retail price plus tax on that amount and the amount actually paid by the ISC to the direct seller (or distributor), that is, the ISC's mark-up. If the ISC was a registrant, tax had to be collected and reported on this amount."
+
+63. Whereas subsection 178.4(1) had applied to any purchaser, it has been amended so that the provisions described in paragraph 38 of this section now apply only to a purchaser who is an ISC. Currently, the supply of an exclusive product by a distributor who has been approved to use the ACM to a purchaser who is not an ISC is subject to tax in the normal manner.
+
+64. However, a special rule is provided in the legislation where any of the consideration for such a supply became due or was paid before April 1993. In such circumstances, the provisions described in paragraph 38 of this section would apply except those described in paragraph 38(b). To the extent the purchaser is eligible, this change would allow the purchaser to claim an ITC or a rebate under section 259.
+
+Supplies of exclusive products by ISCs
+
+65. The rules governing supplies of exclusive products by ISCs changed, effective April 1993. Therefore, for supplies for which consideration becomes due or is paid after March 1993 and for which no consideration became due or was paid prior to April 1993, subsection 178.3(2), as described in paragraphs 27 to 29 of this section, and subsection 178.4(2), as described in paragraphs 39 to 41 of this section, apply.
+
+66. For a supply of an excluisve product made by an ISC where consideration became due or was paid prior to April 1993, the provisions, as described in paragraphs 27 to 29 and 39 to 41 of this section applied. If the supply was to another ISC, then a further provision applied. Under this additional provision, the particular ISC who supplied the exclusive product was deemed to have received and the other ISC was deemed to have made a taxable supply of a service for consideration that became due and was paid at that time equal to the difference between the suggested retail price plus tax on the suggested retail price and the amount actually paid by the other ISC to the particular ISC for the exclusive product. That is, if the other ISC (the purchaser of the exclusive product) was a registrant, the tax had to be collected and reported on the profit margin.
+
+Post-sale adjustments
+
+67. Prior to April 1993, the ACM did not contain provision to address post-sale adjustments, as discussed in paragraphs 31 to 35 and paragraphs 43 to 47 of this section. Therefore, prior to this date, the direct seller or a distributor of the direct seller would not be permitted to make an adjustment to tax in such situations. Subsections 178.3(4) and 178.4(4) ensure that such adjustments are permitted after March 1993.
+
+Treatment of sales aids, bonus payments, host gifts, restrictions on ITCs, appropriations for ISCs and non-arm's length supplies prior to April 1993
+
+68. Prior to April 1993, the special provisions for sales aids, bonus payments, host gifts, restrictions on ITCs, appropriations for ISCs and non-arm's length supplies as described in paragraphs 53 to 58, and paragraph 60 of this section did not apply. Therefore, prior to this date, they would be treated as follows:
+
+1. **Sales aids.** Supplies of sales aids would follow normal rules in that, if it was a taxable supply by a registrant, tax would be payable. Further, if an ISC deregistered prior to April 1993, any sales aids in inventory at that time would be treated in the same manner as any other inventory for purposes of the self-assessment rules.
+
+2. **Bonus payments**. If the person receiving the payment was registered, he or she would have accounted for tax following the normal rules.
+
+3. **Host gifts**. The giving of a host gift would be considered a supply by way of sale of the property. If the host gift was an exclusive product, the supply would be treated the same as any other sale of an exclusive product. If the host gift was not an exclusive product and the ISC was registered, tax would be payable on the fair market value of the consideration. The consideration would be the service of hosting the event.
+
+4. **Restrictions on ITCs**. Normal ITC rules would apply when a direct seller or a distributor of the direct seller acquired or imported property or a service (other than an exclusive product) for supply to an ISC. The supply to the ISC would also follow the normal rules.
+
+5. **Appropriations for ISCs**. When a direct seller or a distributor of a direct seller appropriated property or a service for use by an ISC, the normal rules would apply. Generally, this would not require a self-assessment by the direct seller or the distributor.
+
+6. **Non-arm's length supplies**. The rules under section 155 of the Act would apply in the normal manner.
+
+## Appendix
+
+### Conditions that must be outlined in the application to use the alternate collection method
+
+The following outlines the information that is to be included in the request to use the ACM:
+
+- GST registration number of direct seller;
+
+- full legal name and trading name, if applicable;
+
+- full address and telephone number;
+
+- effective date of application;
+
+- GST registration number of each distributor (joint application);
+
+- full legal name of distributor(s) and trading name(s), if applicable;
+
+- full address and telephone number of distributor(s);
+
+- statement that the direct seller sells goods through ISCs to purchasers;
+
+- statement that ISCs are neither agents nor employees of the direct seller or a designated distributor;
+
+- statement that ISCs do not solicit, negotiate or enter into contracts for the sale of goods of the direct seller to purchasers primarily at a fixed place of business (other than a private residence);
+
+- statement that ISCs have a contractual right to purchase goods from the direct seller (or a distributor) for sale to other ISCs or purchasers;
+
+- acknowledgment that approval to use the ACM may be revoked if the direct seller or the distributor fail to comply with the provisions of sections 178.3 and 178.4 of the Act;
+
+- statement that certifies that the information given in the application, and any document attached, is true, correct and complete to the best of the applicant's knowledge, and is signed by a person authorized to sign on behalf of the direct seller and each of the distributors making the application.

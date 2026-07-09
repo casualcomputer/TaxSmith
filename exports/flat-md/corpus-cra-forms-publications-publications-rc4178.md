@@ -1,0 +1,18 @@
+---
+title: "RC4178 Death of a RRIF Annuitant, PRPP Member, or ALDA Annuitant"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4178.html
+last_modified: 2025-12-15
+---
+# RC4178 Death of a RRIF Annuitant, PRPP Member, or ALDA Annuitant
+
+This Canada Revenue Agency (CRA) information sheet provides general information for individuals on the death of a Registered Retirement Income Fund (RRIF) annuitant.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [rc4178-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4178/death-a-rrif-annuitant.html)
+
+    - PDF [rc4178-25e.pdf](/content/dam/cra-arc/formspubs/pub/rc4178/rc4178-25e.pdf)
+
+- Ask for an alternate formatYou can order a digital audio, e-text, braille or large print version of this publication to be sent to you by mail.[Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html)

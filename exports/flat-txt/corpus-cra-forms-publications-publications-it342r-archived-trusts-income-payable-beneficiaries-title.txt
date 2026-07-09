@@ -1,0 +1,101 @@
+Title: ARCHIVED - Trusts - Income Payable to Beneficiaries
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it342r/archived-trusts-income-payable-beneficiaries-title.html
+Corpus path: corpus/cra/forms-publications/publications/it342r/archived-trusts-income-payable-beneficiaries-title.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Trusts - Income Payable to Beneficiaries
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-342R**
+
+DATE: March 21, 1990
+
+SUBJECT: INCOME TAX ACT**Trusts - Income Payable to Beneficiaries**
+
+REFERENCE: Paragraphs 104(13)(a) and (c) (also subsections 94(3) and (4), 104(6), (13.1), (13.2), (18), (21), (24), (29) and (31), 105(2), 210.2(3) and 248(1) definition of "personal trust" and paragraphs 53(2)(h) and 212(1)(c))
+
+APPLICATION
+
+This bulletin cancels and replaces Interpretation Bulletin IT-342 dated September 7, 1976. The comments in this bulletin do not apply to a trust governed by an employee benefit plan and an employee trust which are discussed in the current version of IT-502.
+
+SUMMARY
+
+In computing the income of a beneficiary under a trust, any trust income for a particular year (as calculated on Form T3 - Trust Income Tax and Information Return) that became payable in the year to the beneficiary is included. This bulletin deals with amounts so included and the meaning of the term "payable". It discusses instances where amounts are deemed to be payable to a beneficiary and certain options that are available to the trust to designate amounts that are payable as not being payable, as well as certain deductions from income that can be flowed out from the trust to the beneficiary.
+
+DISCUSSION AND INTERPRETATION
+
+1. Pursuant to paragraphs 104(13)(a) and (c), an amount payable to a beneficiary out of the income of a trust (see Designations/Allocations to Beneficiaries in the Guide to the T3 Trust Return) for the year is required to be included in computing the income of the beneficiary for the year, whether or not paid to that person in the year, and shall not be included in computing the income of the beneficiary for a subsequent year in which it is paid. In addition, under subsection 105(2) a reasonable portion of amounts paid out of the income of a trust for the upkeep of property maintained under the terms of the trust arrangement for the use of a life tenant or other beneficiary (page 2 of Form T3) is required to be included in the income of the life tenant or other beneficiary for the taxation year for which the amounts were paid. For taxation years of trusts beginning after 1987 certain designated amounts paid or payable to a beneficiary may be excluded in computing the income of the beneficiary (see 4 below).
+
+MEANING OF "AMOUNT PAYABLE"
+
+2. Pursuant to subsection 104(24), an amount is not considered to be payable in a taxation year unless it is paid in the year to the person to whom it is payable or the person to whom it is payable is entitled in the year to enforce payment thereof. However, subsection 104(18) provides that where a right to the income of a trust has vested in a minor, income of the trust which has not become payable in the year to such beneficiary, solely because the beneficiary was a minor, shall be deemed to have become payable in the year. It should be noted that foreign accrual property income of a non-resident trust is included in the income of a beneficiary pursuant to paragraph 104(13)(c) to the extent that the amount may reasonably be considered to have become payable to a beneficiary within the meaning of subsection 104(24). That amount is deductible by the non-resident trust by virtue of subsections 94(3) and (4).
+
+FLOW-THROUGH OF DEDUCTIONS
+
+3. For taxation years of trusts beginning before 1988, deductions for capital cost allowance and terminal losses, in respect of depreciable property owned by a trust, may be claimed in determining the taxable income of the trust. Alternatively, trustees may designate that a specified amount of capital cost allowance and terminal losses be flowed-out and deducted by beneficiaries in determining their income. Also, for taxation years of trusts beginning before 1988, subsection 104(17) permits a designation of depletion allowance so that depletion on certain types of resource property owned by a trust may be deducted by beneficiaries from the income payable to them by the trust. Effective for taxation years of trusts commencing after 1987, capital cost allowance, terminal losses and depletion are deductible only in determining the income of a trust (page 2 of Form T3). Consequently income payable by a trust to beneficiaries in years commencing after 1987 is no longer eligible for the aforementioned deductions by beneficiaries.
+
+DESIGNATION OF TRUST INCOME PAYABLE TO BENEFICIARIES
+
+4. For taxation years of trusts commencing after 1987, paragraph 104(6)(b) allows a trust to deduct from its income less than the full amount of its income that was paid or payable to its beneficiaries. To facilitate this, subsection 104(13.1) permits a trust resident in Canada throughout the year, other than a trust exempt from tax by reason of subsection 149(1), to designate to its beneficiaries their respective shares of that portion of the trust's income payable to them in the year under subsections 104(13) or 105(2) that has not been deducted by the trust under paragraph 104(6)(b). Similarly, subsection 104(13.2) allows the same type of trust to designate to its beneficiaries their respective shares of that portion of taxable capital gains payable to them in the year under subsection 104(13) pursuant to subsection 104(21) that has not been deducted by the trust under paragraph 104(6)(b) or used in the designation under subsection 104(13.1). The designated amounts under subsections 104(13.1) and (13.2) are deemed not to have been paid or to have become payable in the year to or for the benefit of the beneficiaries for the purposes of subsections 104(13) and 105(2). Consequently, the designated amounts are taxable to the trust and not to the beneficiaries. Subsection 104(13.1) enables a trust which must pay out all of its income to its beneficiaries to use its non-capital losses from prior taxation years without affecting the ability of the trust to distribute its income currently. Subsection 104(13.2) contemplates the situation where a trust has net-capital or non-capital loss carryforwards from a prior taxation year and current taxable capital gains. In such circumstances, the trust may choose not to deduct the full amount to which it is entitled under subsection 104(6) in order to allow the net-capital or non-capital loss carryforwards to absorb the current taxable capital gain (page 3 of Form T3).
+
+For taxation years of trusts beginning before 1988, there is no provision in the Act which permits the taxation to the trust of amounts that are otherwise required to be included in computing the income of a beneficiary.
+
+As regards trusts not resident in Canada, all amounts that become payable to beneficiaries are included in their income with the exception of
+
+(a) proceeds of disposition of part or all of the interest of a beneficiary in a trust, or
+
+(b) where the trust is a personal trust, as defined in subsection 248(1) (see 5 below), a distribution of capital.
+
+ADJUSTMENTS TO ADJUSTED COST BASE
+
+5. Amounts designated by a trust pursuant to subsections 104(13.1) or (13.2), as described in 4 above, may reduce the adjusted cost base of the capital interest of the beneficiary in the trust. In the case of beneficiaries of a personal trust, there is no reduction of the adjusted cost bases of their capital interests unless they were acquired for consideration. A personal trust, defined in subsection 248(1), is either a testamentary trust or an inter vivos trust in which no beneficial interest was acquired for consideration payable to the trust or to a person who has made a contribution to the trust. However, the mere retention at the time the trust was created of an interest in an inter vivos trust by the individual or related individuals who settled the trust will not result in the trust not qualifying as a personal trust. For the purposes of the definition of a personal trust, love and affection will not be regarded as consideration. In general, trusts other than personal trusts may be described as commercial trusts and designations pursuant to subsection 104(13.1) or (13.2) will reduce the adjusted cost base of the capital interest of the beneficiary in such trusts in accordance with paragraph 53(2)(h).
+
+WHEN INCOME IS EARNED
+
+6. The amounts required to be included in computing the income of a beneficiary for a taxation year under subsections 104(13) and 105(2) are considered to have been earned by the beneficiary on the last day of the taxation year of the trust and are thus in respect of the taxation year or years of the trust which ended in the taxation year of the beneficiary. Where the beneficiary is a non-resident of Canada on the last day of the trust's taxation year, the amounts referred to above are subject to withholding tax pursuant to paragraph 212(1)(c), except where the exemptions provided in subsections 212(9), 212(10) and, for 1987 and prior taxation years, 212(11.1) are applicable.
+
+PHANTOM INCOME
+
+7. Pursuant to subsection 104(29), certain income of a trust, sometimes referred to as phantom income, may be designated by the trust and, as a result, is deemed to have become payable to particular beneficiaries by the trust. For taxation years of trusts commencing after 1987, this designation may be made only by a trust for a taxation year throughout which it was resident in Canada. Such designated amounts, which would otherwise be taxable to the trust, may be treated as income of beneficiaries of the trust under subsection 104(13) and may be deducted in determining the income of the trust pursuant to subsection 104(6).
+
+The amount in respect of which a trust may make this designation is the aggregate of
+
+(a) non-deductible charges under the Petroleum and Gas Revenue Tax Act pursuant to paragraph 18(1)(l.1),
+
+(b) non-deductible Crown charges under paragraph 18(1)(m), (c) Crown payments included in income under paragraph 12(1)(o), and
+
+(d) income inclusions resulting from transactions with the Crown which take place at other than fair market value under subsections 69(6) and (7), less the aggregate of
+
+(e) the resource allowance available to the trust under paragraph 20(1)(v.i), and
+
+(f) amounts which would be included in the income of the trust but for section 80.2 (reimbursement of Crown charges).
+
+Pursuant to paragraphs 104(29)(c) and (d), the amount of the designation is limited to the proportion of the phantom income, as calculated in (a) to (f) above, that the trust-purpose income payable to all beneficiaries is of the total trust-purpose income for the year. Trust-purpose income is income of the trust determined without reference to the Income Tax Act. The total amount of the designation, subject to the limit imposed above, may be allocated among the beneficiaries provided that the allocation to a particular beneficiary is reasonable having regard to the proportion of trust-purpose income included in the income of that beneficiary.
+
+PART XII.2 TAX
+
+8. Part XII.2 of the Act was added applicable to the 1988 and subsequent taxation years and it assesses a special tax on the designated income, as defined in subsection 210.2(2), of certain trusts. Part XII.2 tax generally applies where designated income of a trust is payable during the year to designated beneficiaries (generally non-residents and exempt persons) as defined in section 210, but does not apply, where, throughout the year, the trust was
+
+(a) a testamentary trust,
+
+(b) a mutual fund trust,
+
+(c) a trust exempt from tax by reason of subsection 149(1),
+
+(d) a trust described in subparagraph 108(1)(j)(ii) or (iv), or
+
+(e) a non-resident trust.
+
+These provisions are intended to ensure that designated income earned by trusts for the benefit of non-residents and exempt persons will be subject to full tax rates rather than the lower non-resident tax rates under Part XIII or no rate at all in the case of exempt persons.
+
+When a trust is subject to Part XII.2 tax and has taxable resident beneficiaries, or non-resident beneficiaries whose tax liability is computed under Part I of the Act, or both, a prorata share of the Part XII.2 tax can be designated by the trust in respect of any of the aforementioned beneficiaries. Such share of tax is then deemed by subsection 210.2(3) to be an amount paid on account of the tax payable under Part I for the beneficiary's taxation year in which the taxation year of the trust ends. The amount deemed by subsection 210.2(3) is also deemed, by subsection 104(31), to be an amount in respect of the income of the trust for the year that has become payable by the trust to the beneficiary at the end of the year. That amount is included in the beneficiary's income under subsection 104(13). Subsection 104(31) applies to taxation years of trusts commencing after 1987. Part XII.2 tax may be calculated on Form T3 Trust Schedule 4.

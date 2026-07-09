@@ -1,0 +1,254 @@
+---
+title: "ARCHIVED - Excise and GST/HST News - No. 96"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news96/excise-gst-hst-news-no-96.html
+last_modified: 2015-06-24
+---
+# ARCHIVED - Excise and GST/HST News - No. 96
+
+## Table of Contents
+
+- [Notice of Ways and Means Motion to Amend the Excise Tax Act](#_Toc420669666)
+
+- [Federal Budget 2015](#_Toc420669667)
+
+- [Claim period for a public service body or pension entity rebate filer](#_Toc420669668)
+
+- [University and public college meal plans](#_Toc420669669)
+
+- [What’s new for representatives?](#_Toc420669674)
+
+- [Prescribed rates of interest](#_Toc420669675)
+
+- [What’s new in publications](#_Toc420669676)
+
+- [Contact us](#_Toc420669677)
+
+## Notice of Ways and Means Motion to Amend the Excise Tax Act
+
+On May 28, 2015, the Minister of Finance tabled a [Notice of Ways and Means Motion](http://www.fin.gc.ca/drleg-apl/2015/nwmm-amvm-0515-eng.asp) in the House of Commons proposing to add new section 1 of Part II.1 of Schedule VI to the [Excise Tax Act](http://laws-lois.justice.gc.ca/eng/acts/E-15/index.html) which would zero-rate a supply of a product that is marketed exclusively for feminine hygiene purposes and is a sanitary napkin, tampon, sanitary belt, menstrual cup or other similar product.
+
+New section 1 would apply to any supply of a feminine hygiene product made on or after July 1, 2015.
+
+For more information see [Questions and Answers – Notice of Ways and Means Motion Concerning GST/HST and Feminine Hygiene Products](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/federal-government-budgets/budget-2015-strong-leadership/notice-ways-means-motion-concerning-gst-hst-feminine-hygiene-products-questions-answers.html) published on the CRA website*.*
+
+## Federal Budget 2015
+
+On April 21, 2015, the Minister of Finance tabled [Budget 2015](http://www.budget.canada.ca/2015/home-accueil-eng.html), which proposed to amend the [Excise Tax Act](http://laws-lois.justice.gc.ca/eng/acts/E-15/index.html) and the [Excise Act, 2001](http://laws-lois.justice.gc.ca/eng/acts/E-14.1/index.html) to:
+
+- permit information sharing within the CRA for the collection of non-tax debts under certain federal and provincial government programs and, in respect of Part IX of the *Excise Tax Act* and the *Excise Act, 2001*, permit information sharing in respect of certain programs where such information sharing is currently permitted under the *Income Tax Act*; and
+
+- clarify that the CRA and the courts may increase or adjust an amount included in an assessment that is under objection or appeal at any time, provided the total amount of the assessment does not increase.
+
+Budget 2015 also confirmed the Government’s intentions to proceed with certain previously announced measures relating to the GST/HST joint venture election.
+
+For more information, see the [Department of Finance News Release.](http://www.fin.gc.ca/n15/15-044-eng.asp)
+
+## Claim period for a public service body or pension entity rebate filer
+
+At the end of March 2015, the CRA mailed letters to registered and non-registered filers of public service bodies’ (PSB) and pension entity rebates. The purpose of the letters was to explain to these entities their proper claim period as defined under subsection 259(1) of the [Excise Tax Act](http://laws-lois.justice.gc.ca/eng/acts/E-15/index.html) (the Act). For a registrant, the claim period for the rebates is the same as the reporting period for its GST/HST return, that is, annual, quarterly or monthly. This means that a registrant will have either, one, four or twelve claim periods per year, depending on the filing frequency of its GST/HST return.
+
+For non-registrants, a claim period consists of either the first and second fiscal quarters in a fiscal year, or the third and fourth fiscal quarters in a fiscal year. This means that a non-registrant that claims a rebate will have two rebate claim periods per year: the first six months and the last six months of its fiscal year. A non-registrant is not allowed to have a 12-month claim period.
+
+Authorized division or branch accounts, regardless of their filing status, must use the same fiscal year end and claim period as their head office.
+
+For example, a person is a charity, a GST/HST registrant and a monthly filer. The registrant has submitted a [Form GST10, Application or Revocation of the Authorization to File Separate GST/HST Returns and Rebate Applications for Branches or Divisions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst10.html)*,*and has been approved to have its branches file separate GST/HST returns and PSB rebate applications. Therefore, each branch will have monthly claim periods for the rebates it wishes to file.
+
+This registrant’s branches would have monthly claim periods even if the registrant also filed a [Form GST31, Application by a Public Service Body to Have Branches or Divisions Designated as Eligible Small Supplier Divisions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst31.html), and has been approved to have that branch designated as a small supplier division.
+
+Each rebate application covers one claim period. Rebate claims for multiple claim periods cannot be consolidated into one rebate application. Also, GST/HST paid in one claim period cannot be included in the rebate application for a later claim period. For more information refer to the article titled “Time limits for claiming a public service bodies' rebate (PSB rebate)” in [Excise and GST/HST News No 89](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news89.html).
+
+## University and public college meal plans
+
+Generally, most supplies of property or services made in Canada are subject to GST/HST at the applicable rate (depending on the place of supply), unless they are zero-rated supplies (taxed at the rate of 0%) or exempt supplies. Exempt supplies are listed in Schedule V to the [Excise Tax Act](http://laws-lois.justice.gc.ca/eng/acts/E-15/index.html) (the Act) while zero-rated supplies are listed in Schedule VI to the Act.
+
+Section 13 of Part III of Schedule V to the Act exempts “a supply of a meal to a student enrolled at a university or public college where the meal is provided under a plan that is for a period of not less than one month and under which the student purchases from the supplier for a single consideration only the right to receive at a restaurant or cafeteria at the university or college not less than 10 meals weekly throughout the period”.
+
+The exemption for meals supplied under a meal plan applies only if the meals are supplied to students enrolled at a “university” or a “public college” as defined in the Act. A private college cannot make exempt supplies of meals under a meal plan to students.
+
+### A qualifying meal plan
+
+Meals provided to students under a meal plan are exempt where the meal plan meets all the following conditions (herein referred to as a “qualifying meal plan”):
+
+- The meals are provided to a student enrolled at a university or public college who lives on or off campus.
+
+- The student pays a single consideration for the meals provided under the meal plan.
+
+- The single consideration must be sufficient, based on the average retail price of a meal available to students at the on-campus restaurants and cafeterias at which the meal plan may be used, for the student to receive at least 10 meals each week for the period of the meal plan.
+
+- The meal plan is for a period of at least one month.
+
+- The meals are served only at an on-campus restaurant or cafeteria that is on the property of the university or public college. A private operator may own or operate the restaurant or cafeteria where the meals are served provided it is on campus.
+
+- The meal plan does not allow purchases at any off-campus eating establishments such as restaurants or fast-food outlets.
+
+- The meal plan does not allow purchases at a mini-mart or convenience store located on or off campus.
+
+- The meal plan does not allow purchases of food and beverage items that are not part of a meal, non-food items, or vending machine items.
+
+### Payment options
+
+One of the conditions of section 13 of Part III of Schedule V to the Act is that the student pays a single consideration to the supplier. Although “single consideration” is not defined in the Act, the Act does define “consideration” to include any amount that is payable for a supply by operation of law.
+
+Where a student enters into an agreement for meals to be provided under a meal plan and the agreement specifies that there is a single consideration, but the payment for that consideration may be made on an instalment basis, the CRA accepts that this type of arrangement meets the requirement of “single consideration”.
+
+### Top-ups
+
+In addition, the CRA considers “top-ups”, or the addition of funds to a qualifying meal plan, to be additional consideration for the same supply for GST/HST purposes. As such, the tax status of meals provided under a qualifying meal plan is not impacted by “top-ups” or the addition of funds to the qualifying meal plan.
+
+### Refund of balance
+
+The tax status of a supply for GST/HST purposes is to be determined at the time the student initially enters into the agreement with the supplier and will not be affected if, at the end of the plan period, unused funds are refunded or carried over for use in the future.
+
+In addition, the tax status of meals already supplied under a qualifying meal plan will not be affected if the plan is cancelled during the plan period and unused funds are refunded.
+
+At the beginning of the academic year a student purchases a meal plan from the university that meets all of the conditions of a qualifying meal plan. Therefore, the meals provided under the meal plan are exempt. During the Christmas break the student decides not return to university for the winter semester and requests that the university refund the remaining balance on the meal plan account. The university refunds the unused balance to the student.
+
+The fact that the university refunded the unused balance to the student does not affect the tax status of the meals that were already provided to the student under the qualifying meal plan.
+
+## What’s new for representatives?
+
+Representatives with level 2 authorization can now register for online mail on behalf of their business clients by going to [www.cra.gc.ca/representatives](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), entering the business number, and selecting the “Manage online mail” service. After a business is registered for online mail, most notices, statements, and letters sent by the CRA will no longer be printed and mailed. Instead, an email notification will be issued to the email address provided when there is mail available for viewing in a business client’s account.
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from July 1, 2015 to September 30, 2015, on overdue amounts payable to the Minister is 5%. The prescribed annual rate of interest on amounts owed by the Minister (i.e., rebates or refunds) is 1% for corporate taxpayers and 3% for non-corporate taxpayers. These rates are applicable to income tax, excise tax, the softwood lumber products export charge, GST/HST and the air travellers security charge (ATSC) and excise duty on wine, spirits and tobacco.
+
+The prescribed annual rate of interest respecting excise duty on beer, on overdue amounts payable for the indicated period, is set at 3%. Refund interest rates are not applicable for amounts owed by the Minister (i.e., rebates or refunds) for excise duty that is in relation to beer
+
+|  | GST/HST, Excise Tax, Softwood Lumber Products Export Charge, Excise Duty (wine, spirits, tobacco), ATSC, Income Tax | Excise Duty (beer) |  |  |
+
+| --- | --- | --- | --- | --- |
+
+| Period | Refund Interest Corporate Taxpayers | Refund Interest Non-Corporate Taxpayers | Arrears and Instalment Interest | Arrears Interest |
+
+| July 1 to September 30, 2015 | 1% | 3% | 5% | 3% |
+
+| April 1 to June 30, 2015 | 1% | 3% | 5% | 3% |
+
+| January 1 to March 31, 2015 | 1% | 3% | 5% | 3% |
+
+| October 1 to December 31, 2014 | 1% | 3% | 5% | 3% |
+
+Prescribed interest rates for previous years are available on the CRA website at [www.cra.gc.ca/interestrates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## What’s new in publications
+
+The following is a list of new or revised excise and GST/HST forms and publications.
+
+### GST/HST forms
+
+- [GST10, Application or Revocation of the Authorization to File Separate GST/HST Returns and Rebate Applications for Branches or Divisions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst10.html)
+
+- [GST17, Election Concerning the Provision of a Residence or Lodging at a Remote Work Site](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst17.html)
+
+- [GST20-1, Notice of Revocation of an Election for GST/HST Reporting Period by a Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst20-1.html)
+
+- [GST44, Election Concerning the Acquisition of a Business or Part of a Business](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst44.html)
+
+- [GST70, Election or Revocation of an Election to Change a GST/HST Fiscal Year](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst70.html)
+
+- [GST145, Waiver in Respect of the Period for Assessment](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst145.html)
+
+- [RC151, GST/HST Credit Application for Individuals Who Become Residents of Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc151.html)
+
+- [RC4616, Election or Revocation of an Election for Closely Related Corporations and/or Canadian Partnerships to Treat Certain Taxable Supplies as Having Been Made for Nil Consideration for GST/HST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html)
+
+### GST/HST guides
+
+- [RC4405, GST/HST Rulings - Experts in GST/HST Legislation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4405.html)
+
+### GST/HST info sheets
+
+- [GI-066, How a Charity Calculates the Net Tax to be Reported on its GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-066.html)(revised)
+
+- [GI-067, Basic GST/HST Guidelines for Charities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-067.html)(revised)
+
+- [GI-068, Basic GST/HST Guidelines for Public Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-068.html) (revised)
+
+- [GI-170, Charter Flights Supplied to Third-Party Charterers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-170.html)
+
+- [GI-171, Phasing out of Recaptured Input Tax Credits in Ontario](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-171.html)
+
+### GST/HST notices
+
+- [NOTICE288, Consolidated Filing for Investment Plans that Are Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice288.html)
+
+### Excise taxes and special levies notices
+
+- ETSL64, Imposition of Excise Tax on Fuel-Inefficient Vehicles – List of Vehicles and Associated Tax Rates for 2015 (revised)
+
+### Excise duty notices
+
+- [EDBN21, K50B Filing and Payment Schedules for Brewers (from January 2015 to June 2017)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edbn21.html)
+
+### Excise duty forms
+
+- [B270, Excise Act 2001 - Excise Duty Return - Non-Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b270.html)
+
+### Softwood lumber products export charge notices
+
+- [SWLN47, Surge Charge – Alberta Region (April 2015)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/swln47.html)
+
+- [SWLN48, Surge Charge - Alberta Region (May 2015)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/swln48.html)
+
+All GST/HST, excise duty and excise taxes and special levies publications can be found on the CRA website at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html), at [www.cra.gc.ca/etsl](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies.html) and at [www.cra.gc.ca/exciseduty](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty.html).
+
+To receive email notification as soon as a document is published on the CRA website, go to the [electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) page at [www.cra.gc.ca/lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribe to the RSS feed for all new CRA publications and forms, or subscribe to any number of mailing lists for different types of publications.
+
+## Contact us
+
+**More information** For **GST/HST general enquiries,**call Business Enquiries line at 1-800-959-5525. For **GST/HST technical enquiries,**call GST/HST Rulings at 1-800-959-8287.
+
+**Forms and publications**
+
+- To access **GST/HST** forms and publications **online**, go to [www.cra.gc.ca/gsthstpub](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/forms-publications.html).
+
+- To access **all other** forms and publications **online**, go to [www.cra.gc.ca/forms](https://www.canada.ca/en/revenue-agency/services/forms-publications.html) and select by topic, document type, or publication number.
+
+- To order forms and publications**by telephone**, call 1-800-959-5525.
+
+**Are you a GST/HST registrant located in Quebec?** To make an enquiry or obtain information on the GST/HST, contact Revenu Québec at 1-800-567-4692 or visit its website at [www.revenuquebec.ca](http://www.revenuquebec.ca/en/default.aspx).
+
+**Account enquiries****For general information and to make enquiries regarding your account** (except for softwood lumber products export charge accounts), you can:
+
+- view answers to common enquiries, or submit an enquiry using the online “Enquiries service” on “My Business Account”;
+
+- view account information online at [www.cra.gc.ca/businessonline](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html); or
+
+- call Business Enquiries at 1-800-959-5525.
+
+**For online access to** **your GST/HST, air travellers security charge, excise tax and duty accounts** (such as viewing up-to-date account balances and transactions, transferring payments, and more), go to:
+
+- [www.cra.gc.ca/representatives](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), if you are an authorized representative or employee; or
+
+- [www.cra.gc.ca/mybusinessaccount](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), if you are the business owner.
+
+**For enquiries regarding your softwood lumber products export charge account**, you can:
+
+- view answers to common enquiries, or submit an enquiry using the online “Enquiries service” on “My Business Account”;
+
+- view account information online at [www.cra.gc.ca/businessonline](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html); or
+
+- call 1-800-935-0313.
+
+**For enquiries regarding the status of specific GST/HST domestic rebate claims,** call the Business Enquiries line at 1-800-959-5525.
+
+**Selected listed financial institutions (including the ones located in Quebec)**
+
+- For **GST/HST** account-related enquiries or for registration for a CRA business number, call Business Enquiries at 1-800-959-5525. For GST/HST technical enquiries, call GST/HST Rulings at 1-855-666-5166.
+
+- For **QST** account-related enquiries for reporting periods ending on or after January 1, 2013 or for registration for a CRA business number effective on or after January 1, 2013, call Business Enquiries at 1-800-959-5525. For technical enquiries related to the amended QST, call GST/HST Rulings at 1-855-666-5166.
+
+**Help****For technical support using our online services**:
+
+- business accounts, call 1-800-959-5525
+
+- teletypewriter users, call 1-800-665-0354
+
+- calls outside of Canada and the United States, call collect at 1-613-940-8528
+
+Please have the screen number (bottom right) and, if applicable, the error number and message received on hand when calling.
+
+The *Excise and* *GST/HST News* is published quarterly and highlights recent developments in the administration of the GST/HST, First Nations goods and services tax (FNGST) and First Nations tax (FNT), softwood lumber products export charge, air travellers security charge (ATSC) as well as excise taxes and duties. If you would like to receive a link to each new edition of the*Excise and GST/HST News*as it is published, [subscribe](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/subscribe-a-canada-revenue-agency-electronic-mailing-list.html) to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-excise-gst-hst-news.html).
+
+This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, *Excise and* *GST/HST News*, Legislative Policy and Regulatory Affairs Branch, CRA, Ottawa, ON K1A 0L5

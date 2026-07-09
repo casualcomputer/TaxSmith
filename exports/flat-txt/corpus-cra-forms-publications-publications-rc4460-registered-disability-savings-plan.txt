@@ -1,0 +1,1193 @@
+Title: Registered Disability Savings Plan
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4460/registered-disability-savings-plan.html
+Corpus path: corpus/cra/forms-publications/publications/rc4460/registered-disability-savings-plan.md
+Document type: publication
+Last modified: 2026-01-06
+
+# Registered Disability Savings Plan
+
+RC4460(E) Rev. 25
+
+The CRA's publications and personalized correspondence are available in braille, large print, e-text, and MP3. For more information, go to [Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html) or go to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+## Table of Contents
+
+- [Definitions](#definitions)
+
+- [Chapter 1 - Registered disability savings plan rules](#P44_1110)
+
+    - [What is a Canada disability savings grant](#P44_1111)
+
+    - [What is a Canada disability savings bond](#P44_1112)
+
+          - [Carry forward of unused grant and bond](#Carry_forward)
+
+    - [Who can become a beneficiary of an RDSP](#P44_1113)
+
+    - [How to open an RDSP](#Who_can_open)
+
+    - [Who can open an RDSP](#Who_can_open_an_RDSP)
+
+          - [The beneficiary is under the age of majority](#Beneficiary_is_under)
+
+          - [The beneficiary has reached the age of majority and is contractually competent to enter into a plan](#Beneficiary_has_reached_1)
+
+          - [The beneficiary has reached the age of majority but their contractual competency to enter into a plan is in doubt](#Beneficiary_has_reached_2)
+
+          - [The beneficiary has reached the age of majority but is not contractually competent to enter into a plan](#Beneficiary_has_reached_3)
+
+    - [Can the holder of an RDSP be changed](#P44_1130)
+
+          - [When the plan holder who was a qualifying family member dies](#P44_2000)
+
+    - [Who can contribute to an RDSP](#P44_1114)
+
+    - [The contribution limit for RDSPs](#P44_1116)
+
+    - [What types of payments are made from an RDSP](#P44_1131)
+
+    - [Repayments under the CDSA](#rpmnts_cds)
+
+    - [LDAP formula](#LDAP_frml)
+
+    - [Non-taxable portion of a DAP](#non_taxable_part)
+
+    - [What is a specified disability savings plan (SDSP)](#what_sdsp)
+
+    - [When an RDSP becomes an SDSP](#become)
+
+    - [When a plan stops being an SDSP](#stop)
+
+    - [Additional rules if the RDSP is a primarily government-assisted plan (PGAP) in the year](#P44_1132)
+
+    - [Reporting of payments from an RDSP](#P44_1120)
+
+    - [Transfers](#P44_1133)
+
+    - [Rollovers](#Rllvrs)
+
+          - [Rolling over retirement savings property on a tax‑deferred basis to an RDSP](#Rolling_over_retirement)
+
+          - [RDSP rollover reporting](#RDSP_rollover)
+
+          - [Eligible individual](#lgblndvdls)
+
+          - [Rolling over RESP property on a tax‑deferred basis to an RDSP](#Rolling_over_RESP)
+
+          - [When a rollover cannot be made](#Rolling_over_cm)
+
+    - [What happens if the beneficiary is no longer approved for the DTC](#P44_1121)
+
+    - [What happens if the beneficiary dies](#P44_1122)
+
+    - [When do grants and bonds have to be repaid](#P44_1134)
+
+          - [10-Year Repayment Rule](#10_year_repayment_rule)
+
+    - [Proportional repayment rule](#prprtnl_rpmnt_rl)
+
+- [Chapter 2 - Tax payable](#P44_1135)
+
+    - [Tax payable on DAPs](#P44_1136)
+
+    - [Tax deduction at source](#Tax_deduction_at)
+
+- [Chapter 3 - Anti-Avoidance Rules for RDSP](#Chapter_3_Anti_Avoidance)
+
+    - [Tax payable on prohibited investments](#P44_1137)
+
+    - [Tax payable on non-qualified investments](#tax_payable_on_nonqualified)
+
+    - [Refund of taxes paid on non-qualified or prohibited investments](#refund_of_taxes)
+
+    - [How to claim a refund](#How_to_claim)
+
+    - [Obligations of the RDSP issuer](#Obligations_of_the_RDSP)
+
+    - [Tax payable on an advantage](#Tx_pble_dvntg)
+
+    - [Waiver or cancellation of tax](#P44_1142)
+
+- [Digital services](#nls)
+
+    - [Digital services for individuals](#Online_services_for_individuals)
+
+    - [My Account](#P4460_0014)
+
+    - [Receive your CRA mail online](#Receiving_your_CRA_mail_online)
+
+    - [Electronic payments](#P4460_0015)
+
+- [For more information](#P44_1143)
+
+    - [If you need help](#P4460_0012)
+
+    - [Direct deposit](#Drct_dpst)
+
+    - [Forms and publications](#P4460_0013)
+
+    - [Electronic mailing lists](#ml)
+
+    - [Tax Information Phone Service (TIPS)](#P4460_0016)
+
+    - [Teletypewriter (TTY) and Video Relay Service (VRS)users](#P4460_0017)
+
+    - [Formal disputes (objections and appeals)](#Frml_dspts)
+
+    - [CRA service feedback program](#Complaints_and_disputes)
+
+          - [Service complaints](#Srvc_rltd_cmplnts)
+
+          - [Reprisal complaints](#Rprsl_cmplnts)
+
+    - [Due dates](#D_dts)
+
+    - [Related forms and publications](#Related_forms_and_publications)
+
+    - [Cancel or waive penalties and interest](#Cncl_pnlts_ntrst)
+
+## Find out if this guide is for you
+
+Use this guide if you want information about registered disability savings plans (RDSPs), This guide has information which is not in the general income tax and benefit package and which you may need to fill out your income tax and benefit return.
+
+La version française de ce guide est intitulée Régime enregistré d’épargne-invalidité.
+
+Unless otherwise stated, all legislative references are to the *Income Tax Act* or, where appropriate, the *Income Tax Regulations*.
+
+In this definition, “12 continuous months” includes any period that you were separated for less than 90 days because of a breakdown in the relationship.
+
+- is the parent of your child by birth or adoption
+
+- has custody and control of your child (or had custody and control immediately before the child turned 19 years of age) and your child is wholly dependent on that person for support
+
+**Fair market value (FMV)** – is generally considered to mean the highest price expressed in terms of money that can be obtained in an open and unrestricted market between informed and prudent parties, who are dealing at arm's length and under no compulsion to buy or sell.
+
+For more information on the valuation of securities of closely-held corporations, see [Information Circular IC89-3, *Policy Statement on Business Equity Valuations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic89-3.html).
+
+**Family net income** – is your net income added to the net income of your spouse or common-law partner, if you have one. Family net income does not include your child’s net income.
+
+**Financially dependent** – if you are a child or grandchild of an annuitant, you are generally considered financially dependent on that annuitant at the time of their death if, before that person’s death, you ordinarily resided with and depended on the annuitant and you meet **one of the following conditions:**
+
+- your net income for the previous year (shown on line 23600 of your income tax and benefit return) was less than the unreduced maximum basic personal amount (line 30000 of your income tax and benefit return) for that previous year
+
+- your financial dependence was due to a mental or physical infirmity and your net income for the previous year was equal to or less than the unreduced maximum basic personal amount **plus** the disability amount (line 31600 of your income tax and benefit return) for that previous year
+
+If, at the time of the annuitant’s death, you are away from home because you were attending school, we still consider you to have resided with the annuitant.
+
+If you meet one of the above conditions and you did not reside with the annuitant at the time of their death but received significant financial support from the annuitant, we may consider you to be financially dependent on the annuitant at the time of their death, if you can establish that you were. To do so, you or the legal representative should submit a request in writing to your tax services office explaining why we should consider you to be financially dependent on the annuitant at the time of their death.
+
+If your net income was **more than the amounts described above,**we **will not**consider you to be financially dependent on the annuitant at the time of their death, unless you can establish that you were by submitting a request as described above.
+
+**Holder**–the individual or entity who opens the RDSP and makes or authorizes contributions on behalf of the beneficiary, a successor or assignee of such an individual or entity, or in limited circumstances the beneficiary. As long as conditions are met, there can be more than one plan holder at any time.
+
+**Non-arm’s length**– generally refers to a relationship or transaction between persons who are related to each other.
+
+However, a non-arm’s length relationship might also exist between unrelated individuals, partnerships or corporations, depending on the circumstances. For more information, see the definition of [Arm's length](#arms_length).
+
+**Non-qualified investment**– any property that is not a qualified investment for the RDSP trust. For more information, see [Income Tax Folio S3-F10-C1, *Qualified Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html).
+
+**Prohibited investment**– property to which the holder is closely connected. It includes any of the following:
+
+- a debt of the holder
+
+- a debt or share of or an interest in, a corporation, trust or partnership in which the holder has a significant interest (generally a 10% or greater interest, taking into account non-arm’s length holdings)
+
+- a debt or share of or an interest in, a corporation, trust or partnership with which the holder does not deal at arm’s length
+
+A prohibited investment **does not include** a mortgage loan that is insured by the Canada Mortgage and Housing Corporation or by an approved private insurer. It also does not include certain investment funds and certain widely held investments that reflect a low risk of self-dealing. For more information, see [Income Tax Folio S3–F10–C2, *Prohibited Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html).
+
+**Qualified investment**– an investment in properties (except real property), including money, guaranteed investment certificates, government and corporate bonds, mutual funds and securities listed on a designated stock exchange.
+
+For more information, see [*Income* Tax Folio S3–F10–C1, *Qualified Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html).
+
+**Qualifying family member (QFM)** – a parent, blood or adopted brother or sister, or spouse or common-law partner (unless they are living apart from the individual due to a breakdown in their marriage or partnership) of the beneficiary.
+
+**Qualifying person** – an individual who or an entity that is legally authorized to act for a beneficiary who is a minor or is otherwise not contractually competent to enter into a disability savings arrangement, or a qualifying family member of an adult beneficiary provided that the beneficiary is not a beneficiary under a disability savings plan (other than for certain purposes), there is no entity that is legally authorized to act for the beneficiary, and the beneficiary’s contractual competency to enter into a disability savings plan is in doubt.
+
+For more information on how a qualifying person can open an RDSP, refer to section [Who can open an RDSP](#Who_can_open_an_RDSP).
+
+For more information on how a qualifying person can become a successor holder of an RDSP for a beneficiary, refer to section [Can the holder of an RDSP be changed](#P44_1130).
+
+**Registered education savings plan (RESP)**– a registered contract between an individual (the subscriber) and a person or an organization (the promoter). The subscriber generally makes contributions to the RESP, which earns income, paid in the form of educational assistance payments to one or more identified beneficiaries.
+
+**Registered retirement income fund (RRIF)** – a fund you establish with a carrier and that we register. You transfer property to the carrier from an RRSP, a PRPP, an RPP, an SPP, or from another RRIF and the carrier makes payments to you.
+
+**Registered retirement savings plan (RRSP)** – a retirement savings plan that you establish, that we register, and to which you or your spouse or common-law partner contribute. Any income you earn in the RRSP is usually exempt as long as the funds remain in the plan. You generally have to pay tax when you receive payments from the plan.
+
+**Related persons** – are not considered to deal with each other at arm's length. Related persons include individuals connected by blood relationship, marriage, common-law partnership, or adoption (legal or in fact). A corporation and another person or two corporations may also be related persons.
+
+For more information, see [Income Tax Folio S1-F5-C1, *Related Persons and Dealing at Arm's Length*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html).
+
+**Registered disability savings plan (RDSP)** – an arrangement between an individual or entity and a trust company in Canada (the issuer) that we register and that provides for the long-term financial security of a beneficiary who has a prolonged and severe mental or physical impairment.
+
+**Registered plan strip**– the amount of a reduction in the FMV of property of the RDSP, if the value is reduced as part of a transaction or event (or series) for which one of the main purposes is to enable the holder (or non-arm’s length person) to obtain a benefit in respect of the property of the RDSP or to obtain a benefit as a result of the reduction. Exceptions are provided for plan distributions that are included in income or specifically excluded from income (such as a tax-deferred transfer between plans).
+
+For more information on a registered plan strip, see [Income Tax Folio S3-F10-C3, *Advantages – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html).
+
+**Specified non-qualified investment income**– any income (excluding the dividend gross-up) or a capital gain that is reasonably attributable, directly or indirectly, to an amount that is taxable for any RDSP of the holder (for example, subsequent generation income earned on non-qualified investment income or on income from a business carried on by an RDSP).
+
+**Specified registered disability savings plan payment** – in respect of an eligible individual means a payment that meets all of the following conditions:
+
+- the payment is made to an RDSP under which the eligible individual is the beneficiary
+
+- the payment complies with the plan registration conditions
+
+- the payment has been designated in prescribed form for a taxation year by the holder of the plan and the eligible individual at the time that the payment is made
+
+- if the eligible individual is **not**a DTC-eligible individual, the payment is made before the end of the fifth year throughout which the individual **is not a DTC-eligible**individual.
+
+**Spouse** – a person to whom you are legally married.
+
+**Swap transaction**– this is any transfer of property between the RDSP and its holder (or non-arm's length person). Exceptions are provided for contributions to and distributions from the RDSP, purchase and sale transactions between the RDSP and another RDSP of the holder and transactions relating to insured mortgages.
+
+For more information on swap transactions and applicable transitional rules, see [Income Tax Folio S3-F10-C3, *Advantages – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html).
+
+**Unrelated persons –**may not be dealing with each other at arm's length at a particular time. Each case will depend upon its own facts. The following criteria will be used to determine if the parties to a transaction are not dealing at arm's length:
+
+- whether there is a common mind that directs the argaining for the parties to a transaction
+
+- whether the parties to a transaction act in concert without separate interests ("acting in concert" means, for example, that parties act with considerable interdependence on a transaction of common interest)
+
+- whether there is "de facto control" of one party by the other because of, for example, advantage, authority, or influence
+
+For more information, see [Income Tax Folio S1-F5-C1, *Related Persons and Dealing at Arm's Length*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html).
+
+## Chapter 1 - Registered disability savings plan rules
+
+An RDSP is defined above and is intended to help an individual who is approved to receive the disability tax credit (DTC) to save for their long-term financial security.
+
+Contributions to an RDSP are not tax deductible and can be made until the end of the year in which the beneficiary turns 59. Contributions that are withdrawn are not included as income to the beneficiary when paid out of an RDSP. However, the Canada disability savings grant (grant), the Canada disability savings bond (bond), investment income earned in the plan, and the proceeds from rollovers are included in the beneficiary's income for tax purposes when paid out of the RDSP. For more information on RDSPs, go to [Savings and pension plan administration](https://www.canada.ca/en/services/taxes/savings-and-pension-plans/savings-and-pension-plan-administration.html).
+
+### What is a Canada disability savings grant
+
+The grant is an amount that the Government of Canada pays into an RDSP. The government will pay a matching grant of 300%, 200% or 100%, depending on the beneficiary's adjusted family net income and the amount contributed. The beneficiary's adjusted family net income is calculated as follows:
+
+- from birth to December 31 of the year the beneficiary turns 18, the beneficiary's adjusted family net income is based on the income information used to determine the Canada child benefit (CCB) for that beneficiary
+
+- beginning the year the beneficiary turns 19 until the RDSP is closed, the beneficiary's adjusted family net income is based on their income **plus** their spouse's or common law partner's income
+
+- if the beneficiary is under the care of a department, agency or institution for at least one month in the year, the adjusted family net income is based on the allowance payable to the department, agency or institution under the [Children's Special Allowances Act](https://laws-lois.justice.gc.ca/eng/acts/C-28.5/page-1.html)
+
+An RDSP can get a maximum of $3,500 in matching grants in one year and up to $70,000 over the beneficiary's lifetime. A beneficiary's RDSP can receive a grant on contributions made until December 31 of the year in which the beneficiary turns 49.
+
+The amount of the grantis based on the beneficiary's adjusted family net income as follows:
+
+| Beneficiary's adjusted family net income | Grant | Maximum |
+
+| --- | --- | --- |
+
+| **$114,750**[Footnote1](#fn1tb1)**or less** |  |  |
+
+| on the first $500 | $3 for every $1 contributed | $1,500 |
+
+| on the next $1,000 | $2 for every $1 contributed | $2,000 |
+
+| **More than $114,750**[Footnote1](#fn1tb1) |  |  |
+
+| on the first $1,000 | $1 for every $1 contributed | $1,000 |
+
+| Footnotes Footnote 1 The beneficiary's adjusted family net income thresholds are indexed each year to inflation. The income thresholds shown are for 2025. [Return to footnote1referrer](#fn1-tb1rf) |  |  |
+
+### What is a Canada disability savings bond
+
+The bond is an amount paid by the Government of Canada directly into an RDSP. The government will pay a bond of up to $1,000 a year to low-income Canadians with disabilities. No contributions have to be made to get the bond. The lifetime bond limit is $20,000. A bond can be paid into an RDSP until the year in which the beneficiary turns 49.
+
+The amount of the bondis based on the beneficiary's adjusted family net income as follows:
+
+| Beneficiary's adjusted family net income | Bond |
+
+| --- | --- |
+
+| **$37,487[Footnote1](#fn1tb2) or less** (or if the holder is a public institution) | **$1,000** |
+
+| Between **$37,487**[Footnote 1](#fn1tb2) and **$57,375**[Footnote 1](#fn1tb2) | Part of the **$1,000**based on the formula in the [**Canada Disability Savings Act**](https://laws.justice.gc.ca/eng/acts/C-3.5/page-1.html) |
+
+| **Equal to or more than** **$57,375**[Footnote 1](#fn1tb2) | No bond is paid |
+
+| Footnotes Footnote 1 The beneficiary's adjusted family net income thresholds are indexed each year to inflation. The income thresholds shown are for 2025. [Return to footnote1referrer](#fn2-tb2rf) |  |
+
+To qualify for the bond or to earn a grant, the beneficiary must file income tax and benefit returns for the past two years and all future taxation years when they have an RDSP.
+
+For a beneficiary under the age of 18, their grant and bond amounts are calculated using the combined income of their parents or guardians from filed income tax returns. To continue receiving the correct amount of grants and bonds in the year they turn 19 and for every year after that, the beneficiary must start filing personal income tax returns, every year beginning in the year they turn 17.
+
+#### Carry forward of unused grant and bond
+
+Before the end of the year you turn 49 years of age, you can carry forward up to 10 years of unused grant and bond entitlements to future years, as long as you met the eligibility requirements during the carry-forward years (for example, if you were approved for the disability tax credit and you were a Canadian resident). If an RDSP was opened:
+
+- in 2025, the carry forward period would be from 2015 to 2025
+
+- in 2029, the carry forward period would be from 2019 to 2029
+
+The grant and bond will be paid on unused entitlements up to an annual maximum of $10,500 for the grant and $11,000 for the bond.
+
+[Employment and Social Development Canada](https://www.canada.ca/en/employment-social-development.html) (ESDC) administers the grant and the bond programs. ESDC bases the amount of the grant and bond that are available for any particular year on the beneficiary's family income, as well as on matching rates.
+
+Let us take Roger for example:
+
+- he is a person with a disability
+
+- his income has been less than $15,000 each year since 2008
+
+- he has been approved for the DTC each year since 2008
+
+- he is not and has never been, a beneficiary of an RDSP
+
+- he has reached the age of majority and is contractually competent to enter into a plan
+
+In August 2025, Roger opens an RDSP. Although opened in 2025, Roger's plan has accumulated grant and bond entitlements over the past 10 years, going back to 2015 since RDSPs became available in 2008.
+
+The following is a breakdown of Roger's accumulated grant and bond entitlements:
+
+- $1,500 in grant entitlements per year at the 300% matching rate ($1,500 × 10 years for a total of $15,000)
+
+- $2,000 in grant entitlements per year at the 200% rate ($2,000 × 10 years for a total of $20,000)
+
+- $1,000 in bond entitlements per year ($1,000 × 10 years for a total of $10,000)
+
+Upon application for his bond, his RDSP will receive $10,000 in accumulated bond entitlements, plus $1,000 for his 2025 bond entitlement.
+
+After the RDSP is opened, with Roger's written consent, his family contributes $800 to his RDSP in October 2025, for which his RDSP receives $2,400 ($800 × 300%) as a grant.
+
+Roger carries forward $12,600 ($15,000 – $2,400) in unused grant entitlement at the 300% rate and still carries $20,000 in unused grant entitlement at the 200% rate.
+
+### Who can become a beneficiary of an RDSP
+
+You can designate an individual as beneficiary if the individual meets all of the following criteria:
+
+- Is approved for the DTC (unless transferring from an existing RDSP to a new RDSP).
+
+- Has a valid social insurance number (SIN).
+
+- Is a resident of Canada when the plan is entered into.
+
+- Is under the age of 60 (a plan can be opened for an individual until the end of the year in which they turn 59). The age limit does not apply when a beneficiary's RDSP is opened as a result of a transfer from the beneficiary's former RDSP.
+
+A beneficiary can **only have** **one RDSP**at any given time, although this RDSP can have **several plan holders** throughout its existence and it can have **more than one plan holder** at any given time.
+
+A person is approved for the DTC only if a medical practitioner certifies on [Form T2201, *Disability Tax Credit Certificate*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2201.html), that the individual has a severe and prolonged impairment in physical or mental functions. This form must also be approved by the CRA and the person must be deemed to be approved for the DTC.
+
+To apply online or get Form T2201, go to [Disability tax credit (DTC)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html) or call **1-800-959-8281**.
+
+The holder does not have to be a resident of Canada. However, the beneficiary must be a resident of Canada when the plan is opened and when each contribution is made to the plan. RDSP payments can only be made to the beneficiary (or to the beneficiary's estate after the beneficiary's death). Contributors will not be entitled to a refund of their contributions.
+
+For more information, go to [Disability tax credit (DTC)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html) or see [Guide RC4064, *Disability–Related Information*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4064.html).
+
+### How to open an RDSP
+
+To open an RDSP, a person who qualifies to be a holder of the plan must contact a participating financial institution that offers RDSPs. These financial institutions are known as RDSP **issuers**.
+
+### Who can open an RDSP
+
+#### The beneficiary is under the age of majority
+
+If the beneficiary is under the age of majority, a qualifying person can open an RDSP for the beneficiary and become a holder if that person is any of the following:
+
+- a legal parent of the beneficiary
+
+- a guardian or tutor of the beneficiary or another individual who is legally authorized to act for the beneficiary
+
+- a public department, agency or institution that is legally authorized to act for the beneficiary
+
+#### The beneficiary has reached the age of majority and is contractually competent to enter into a plan
+
+If the beneficiary has reached the age of majority and is contractually competent to enter into a plan, the beneficiary can open an RDSP for themselves.
+
+If the legal parent(s), at the time the plan is established, are holders of a pre-existing RDSP for the adult beneficiary, the legal parent(s) could remain holder(s) of the new plan. The adult beneficiary could also be added as a joint holder along with their parents.
+
+#### The beneficiary has reached the age of majority but their contractual competency to enter into a plan is in doubt
+
+The ability for a qualifying family member (QFM) to open a plan under these rules applies as of June 29, 2012 and ends on **December 31, 2026**.
+
+The spouse or common-law partner is not eligible for this measure if they are living apart from the individual due to a breakdown in their marriage or partnership.
+
+The QFM measure cannot be used if the individual is already the beneficiary of an RDSP (except if the holder is a QFM who acquired rights as a successor holder) or if a qualifying person is authorized to act on behalf of the individual.
+
+A QFM can open an RDSP for the beneficiary and become a holder if, after reasonable inquiry, it is the opinion of the RDSP issuer, that an adult individual's contractual competency to enter into a plan is in doubt.
+
+A QFM is no longer qualified to be a holder if any of the following apply:
+
+- in the issuer’s opinion, after reasonable inquiry, the beneficiary’s contractual competence to enter into a plan is no longer in doubt and the beneficiary notifies the issuer that they choose to become the plan holder
+
+- the beneficiary is determined to be contractually competent by a competent tribunal or other authority under provincial law and the beneficiary chooses to replace the QFM as the plan holder
+
+- a legal representative is later named in respect of the beneficiary, the legal representative will then replace the QFM as the plan holder
+
+If a dispute arises as a result of an issuer's acceptance of a qualifying family member who was a qualifying person in relation to the beneficiary at the time the plan (or another RDSP of the beneficiary) was entered into or who was a successor holder, as a holder of a disability savings plan, from the time the dispute arises until the time that the dispute is resolved or an entity becomes the holder, the holder of the plan shall use their best efforts to avoid any reduction in the fair market value of the property held by the plan trust, having regard to the reasonable needs of the beneficiary under the plan.
+
+If after reasonable inquiry, an issuer of a disability savings plan is of the opinion that an individual's contractual competence to enter into a disability savings plan is in doubt, no action lies against the issuer for entering into a plan, under which the individual is the beneficiary, with a qualifying family member who was a qualifying person in relation to the beneficiary at the time the plan (or another registered disability savings plan of the beneficiary) was entered into, or allowing a qualifying family member to acquire rights as a successor of the holder of the plan.
+
+The RDSP issuer will be required to notify the individual if the individual becomes a beneficiary under an RDSP opened according to these rules.
+
+#### The beneficiary has reached the age of majority but is not contractually competent to enter into a plan
+
+An individual who is eligible to be a beneficiary of an RDSP, (but for whom a plan has not yet been opened) may have reached the age of majority but may not be contractually competent to enter into a plan.
+
+A qualifying person, who is legally authorized to act for the beneficiary, under the provincial legislation, can open an RDSP for the individual and become a holder.
+
+### Can the holder of an RDSP be changed
+
+#### The plan was opened when the beneficiary was a minor – the beneficiary is now a contractually competent adult
+
+If a plan is opened by a beneficiary's legal parent(s), the legal parent(s) can continue as the holder(s) of the plan after the beneficiary reaches the age of majority. When the beneficiary reaches the age of majority and is contractually competent to enter into a plan, the beneficiary can be added to the RDSP as a joint holder.
+
+If a plan was opened by a legally authorized person or body other than the beneficiary's legal parent(s), that person or body must be removed as a holder of the plan when the beneficiary reaches the age of majority and is contractually competent to enter into a plan. The beneficiary will become the new plan holder.
+
+#### The plan was opened when the beneficiary was an adult whose contractual competency was in doubt
+
+A qualifying family member (other than a legal parent who opened a plan when the beneficiary was a minor) will be replaced by the beneficiary upon their written request if it is determined that the beneficiary is contractually competent.
+
+#### The plan was opened when the beneficiary was not able to enter into a contract
+
+If the guardian, tutor, public department or any other qualifying person or body (with the exception of a qualifying family member) is no longer qualified to be a holder (for example they are no longer the legal guardian or have died), they must be removed from the plan as holder.
+
+A qualifying person can choose to remove themselves as a holder as long as there is another qualifying person to assign their rights to.
+
+In these cases, the following can be added to the plan as a holder's successor or assignee:
+
+- the beneficiary (provided that the beneficiary has reached the age of majority and is contractually competent)
+
+- the beneficiary's estate
+
+- any other person or body who is already a holder (for example, two legal parents enter into an RDSP plan together and one parent passes away; the other parent would receive the deceased parent's rights and become the sole holder of the plan)
+
+- a legal parent of the beneficiary who was previously a holder of the plan
+
+- a qualifying person at the time the rights are acquired
+
+### When the plan holder who was a qualifying family member dies
+
+Upon the death of the qualifying family member who was the last holder, one qualifying member may acquire rights as a successor holder if, at the time the rights are acquired, the successor is a qualifying person in relation to the beneficiary.
+
+### An entity who is authorized to act for the beneficiary, is legally appointed
+
+If all of the following conditions are met, an entity described in the second and third bullets under “Who can open an RDSP” replaces the qualifying family member as holder of the RDSP:
+
+- the entity is appointed as legally authorized to act for the beneficiary
+
+- a holder of the plan was a qualifying person in relation to the beneficiary at either of the following times
+
+- when the plan (or another registered disability savings plan of the beneficiary) was entered into or
+
+- when the holder became the successor holder after the death of the last remaining QFM
+
+### Who can contribute to an RDSP
+
+Anyone can contribute to an RDSP with the written permission of the plan holder. For more information, see [Who can open an RDSP](#Who_can_open_an_RDSP).
+
+### The contribution limit for RDSPs
+
+There is no annual limit on amounts that can be contributed to an RDSP of a particular beneficiary in a given year. However, the overall lifetime limit for a particular beneficiary is $200,000 (all previous contributions and rollovers that have been made to an RDSP of a particular beneficiary will reduce this amount). Contributions are permitted until the end of the year in which the beneficiary turns 59.
+
+Amounts directly transferred from one beneficiary's RDSP to another RDSP for the same beneficiary do not count toward the $200,000 overall contribution limit.
+
+### What types of payments are made from an RDSP
+
+There are three types of payments made from an RDSP:
+
+- disability assistance payments (DAPs) which include:
+
+    - single disability assistance payments (lump sum DAPs)
+
+    - lifetime disability assistance payments (LDAPs)
+
+- direct transfers to another RDSP for the same beneficiary (for more information, see [Transfers](#P44_1133))
+
+- repayments under the [Canada Disability Savings Act (CDSA)](http://www.laws-lois.justice.gc.ca/eng/acts/C-3.5/) or a designated provincial program
+
+A **DAP** is any payment from an RDSP to the beneficiary or to their estate after their death. DAPs may consist of contributions, grants, bonds, proceeds from rollovers and income earned in the plan. Only the beneficiary or the beneficiary's estate will be permitted to receive DAPs from the RDSP.
+
+A DAP is not permitted if, after the payment, the FMV of the property held by the RDSP would be less than the assistance holdback amount for the RDSP. For more information, see [Repayments under the CDSA](#rpmnts_cds).
+
+Not all RDSPs permit the payment of lump sum DAPs. The RDSP issuer **may**allow the holder to request lump sum DAPs to be made to a beneficiary that are separate from LDAPs, (as described below), where it is permitted under the specific RDSP. Contact a participating RDSP issuer to determine if it offers plans that allow a holder to request these types of payments from a plan.
+
+If the RDSP is a [specified disability savings plan (SDSP)](#what_sdsp), withdrawals can be made from the plan in the year of certification and each subsequent year without triggering the repayment of the assistance holdback amount.
+
+**LDAPs** are disability assistance payments (DAPs) that, once started, must be paid at least annually until either the plan is terminated or the beneficiary has died. These payments must begin by the end of the year in which the beneficiary turns 60 and, unless the year is a specified year (as described below), are subject to an annual [withdrawal limit determined by the formula](#maximum_ldap).
+
+If an RDSP is a SDSP, payments must start being paid from the plan before the end of the calendar year following the year in which the plan last became an SDSP.
+
+A **specified year**is the calendar year in which a licensed medical doctor or a nurse practitioner certifies in writing that the beneficiary will not live longer than five years, and includes each of the five calendar years following the year of certification. A year will not qualify as a specified year unless the medical certificate has been provided to the issuer in or before the year in question. For example, if a doctor makes such a certification in 2024, but the issuer is not provided with the certification until 2025, only the years from 2025 to 2029 are specified years for the RDSP.
+
+If the RDSP is an SDSP, the specified year includes each following calendar year.
+
+### Repayments under the CDSA
+
+Under the CDSA, the assistance holdback amount is generally required to be repaid to [ESDC](https://www.canada.ca/en/employment-social-development.html) if any DAP is paid from the RDSP.
+
+The **assistance holdback amount** is defined in the Canada Disability Savings Regulations. In general terms, it is the total amount of bond and grant paid into the RDSP within the last 10 year period, less any part of that amount that has been repaid to [ESDC](https://www.canada.ca/en/employment-social-development.html).
+
+As of January 1, 2014, an amount that is three times the amount of the DAP, up to a maximum of the assistance holdback amount, is required to be repaid to [ESDC](https://www.canada.ca/en/employment-social-development.html) if any DAP is paid from the RDSP.
+
+The assistance holdback amount, as of January 1, 2021, depends on the beneficiary's age.
+
+For more information on the assistance holdback rules, contact ESDC at **1-800-622-6232**.
+
+### LDAP formula
+
+There is no limit on the amount of lump sum DAPs or LDAPs payable to the beneficiary in a specified year (if the plan is **not** an SDSP). However, in all cases a DAP is not permitted if, after the payment, the FMV of the property held by the RDSP would be less than the assistance holdback amount for the RDSP.
+
+The total amount of the LDAP paid in the year cannot be more than the amount calculated using the following formula:
+
+**A ÷ (B + 3 – C) + D**
+
+where:
+
+A = the FMV of the property held in the plan at the beginning of the year, (excluding the value of locked-in annuity contracts held by the plan trust)
+
+B = the greater of 80 and the age of the beneficiary at the beginning of the calendar year
+
+C = the actual age of the beneficiary at the beginning of the calendar year
+
+D = the total of all periodic payments paid or deemed to have been paid, under certain locked-in annuity contracts, to the plan trust in the calendar year, if applicable
+
+### Non-taxable portion of a DAP
+
+The **non-taxable portion** of a DAP made to a beneficiary from an RDSP is the lesser of:
+
+- the DAP
+
+- the amount determined by the formula:
+
+**A × B ÷ C + D**
+
+where:
+
+A = the amount of the DAP
+
+B = the amount by which the total contributions made to any RDSP of the beneficiary exceeds the total non-taxable portion of all DAPs previously made from any RDSP of the beneficiary (if this formula were read without reference to variable D below)
+
+C = the amount by which the FMV of the property held by the RDSP before the DAP is greater than the assistance holdback amount for the plan
+
+D = the amount in respect of which a holder of the plan pays the tax payable on an advantage, unless this tax is waived, cancelled or refunded or has previously been included in the non-taxable portion of a DAP made to the beneficiary
+
+Linda earned more than $114,750 in 2025 and is the sole provider for her spouse Paul, who is 40 years old. She starts contributing to his RDSP in 2025 and Linda contributes $10,000 annually to Paul's RDSP for 20 years. The contributions made are eligible for the grant at a rate of 100% of the contributions made in the particular year, up to a maximum of $1,000 annually (see [Chart 1](#chart)). Paul is **not** eligible for the bond (see [Chart 2](#chart2)).
+
+After 20 years, the FMV of the RDSP is $261,448. Since Paulwill be 60 years old in 2045, the grant can be paid on the contributions from 2025 to 2034 (until he turns 49).
+
+Contributions can be made to the plan up until the end of the year in which Paul turns 59. No DAPs were paid from the RDSP since the RDSP was set up.
+
+Therefore, in 2045, the amount that Paul can receive is $10,893.67 calculated by the LDAP formula, which is **A ÷ (B + 3 – C) + D:**
+
+$261,448 ÷ (80 + 3 – 59) + $0 $261,448 ÷ 24 $10,893.67
+
+The non-taxable portion of the LDAP is $8,333.33 and is calculated by the [second formula](#non_taxable_part):
+
+$10,893.67 × $200,000 ÷ $261,448 + $0
+
+Variable B is $200,000 because no DAPs were made before 2045.
+
+Variable C is $261,448 because no assistance holdback amount exists since the last grant was paid into the RDSP more than 10 years ago.
+
+### What is a specified disability savings plan (SDSP)
+
+A **specified disability savings plan (SDSP)** is a measure to provide beneficiaries who have **shortened** life expectancy with greater flexibility to access their savings from an RDSP. Withdrawals from an SDSP **will not** trigger a repayment of the assistance holdback amount as long as the sum of the taxable portions of all withdrawals made in the year does not exceed $10,000 (unless the LDAP formula result requires a greater amount to be paid). However, once the election is made, no more contributions can be made to the plan and the plan will not be entitled to any new grant or bond. Furthermore, beneficiaries **will not** be entitled to carry forward any grant or bond for those years under this plan.
+
+### When an RDSP becomes an SDSP
+
+The RDSP becomes an SDSP when all of the following conditions are met:
+
+- a licensed medical doctor or a nurse practitioner certifies in writing that the beneficiary of an RDSP is, in their professional opinion, unlikely to survive more than five years
+
+- the holder of the RDSP elects in prescribed form and provides the election, along with the medical certification, to the issuer of the RDSP and
+
+- [ESDC](https://www.canada.ca/en/employment-social-development.html) receives notification of the election from the issuer
+
+### When a plan stops being an SDSP
+
+A plan stops being an SDSP if any of the following occur:
+
+- [ESDC](https://www.canada.ca/en/employment-social-development.html) receives notification from the issuer of the plan that the holder elects to have the plan stop being an SDSP.
+
+- The total of the taxable portion of the DAPs made from the plan in the year while it was an SDSP exceeded $10,000 (unless the LDAP formula result requires a greater amount to be paid).
+
+- A contribution, bond or grant is paid into the plan.
+
+- An amount is paid into the plan from a designated provincial program.
+
+- The plan is terminated.
+
+- The plan stops being an RDSP.
+
+- It is the beginning of the first calendar year throughout which the beneficiary under the plan is no longer approved for the DTC.
+
+- Payments have not begun to be paid before the end of the particular calendar year following the year in which the plan last became an SDSP.
+
+- An [RESP](#resp) rollover is made.
+
+- The total amount of DAPs made from the plan to the beneficiary in the calendar year is less than the amount determined by the [LDAP formula](#LDAP_frml) or an amount equal to the FMV of the property in the plan, whichever is the lesser.
+
+The holder must wait 24 months after the plan stopped being an SDSP before making a new election.
+
+### Additional rules if the RDSP is a primarily government-assisted plan (PGAP) in the year
+
+An RDSP becomes a PGAP at the beginning of a year when the total of all government grant and bond payments made into any of the beneficiary's RDSP(s) in the previous years is more than the total of all private contributions made to any of the beneficiary's RDSP(s) in the previous years.
+
+Generally, in a PGAP year (other than a specified year), the DAPs (including LDAPs) must not exceed the greater of the [LDAP formula](#LDAP_frml) and 10% of the FMV of the plan assets at the beginning of the year. Certain DAPs made following, and as a consequence of, a transfer of property from another RDSP of the beneficiary do not count toward this limit on DAPs.
+
+If the beneficiary is no longer approved for DTC and the holder requests the termination of the plan, there is no limit in the amount withdrawn.
+
+In any year where the beneficiary is over the age of 59, the LDAP will not be more than the [LDAP **formula**](#LDAP_frml). In a PGAP year, the combination of LDAPs and DAPs must not exceed the greater of the LDAP formula and 10% of the FMV of the plan assets at the beginning of the year.
+
+When the beneficiary is at least 27 years of age at the beginning of the calendar year and no older than 58 years of age at the beginning of the calendar year, the beneficiary has the right to direct that DAPs be paid to them at any time in that year if, after payment, the FMV of the property in the RDSP is not less than the assistance holdback amount for the RDSP. The DAP that can be paid under these circumstances cannot be more than the calculated allowable amount. With the exception of plans where the beneficiary is over the age of 59, a DAP made in any other year may require that the assistance holdback amount be repaid to [ESDC](https://www.canada.ca/en/employment-social-development.html).
+
+### Reporting of payments from an RDSP
+
+Proceeds from rollover amounts as well as the grant, bond and investment income earned in the plan are included in the beneficiary's income for tax purposes when they are paid out of the RDSP. RDSP issuers report the taxable portions of the payments from the plan in box 131, located in the "Other information" area of a T4A slip and send two copies of the slip to the beneficiary or the beneficiary's legal representative. The beneficiary has to include this amount as income on line 12500 of their income tax and benefit return for the year in which they receive it.
+
+For more information on the taxable portion of the payments, see [Tax payable on DAPs](#P44_1136).
+
+### Transfers
+
+An amount can be transferred from one RDSP to another RDSP **only** under the following conditions:
+
+- the transfer must be made directly from a beneficiary's current RDSP to a new RDSP for the same beneficiary
+
+- a transfer can only be made if all holders of the current RDSP agree to the transfer
+
+- all funds must be transferred from the current RDSP to the new RDSP
+
+- the current RDSP must be terminated immediately following the transfer to another RDSP
+
+- where the beneficiary has attained 59 years of age before the year in which the transfer takes place, the issuer of the new plan agrees to pay any DAPs required to be made under the plan
+
+### Rollovers
+
+#### Rolling over retirement savings property on a tax-deferred basis to an RDSP
+
+The maximum rollover amount into an RDSP is $200,000. All contributions and rollover amounts made to any RDSP of a beneficiary will reduce this amount. A grant will not be paid into the RDSP on amounts that are rolled over.
+
+The RDSP rules allow for a rollover of a deceased individual's registered retirement savings plan (RRSP) proceeds to an RDSP of the deceased individual's financially dependent child or grandchild with an impairment in physical or mental functions. For more information, see [Eligible individual](#lgblndvdls).
+
+If the beneficiary is no longer approved for DTC, the rollover must be done before the end of the fifth taxation year throughout which the beneficiary is no longer approved for DTC.
+
+These rollover rules also apply to:
+
+- registered retirement income fund (RRIF) proceeds
+
+- certain lump-sum amounts paid from registered pension plans (RPPs) and specified pension plans (SPPs)
+
+- pooled registered pension plans (PRPPs) proceeds
+
+#### RDSP rollover reporting
+
+The retirement savings rollover transaction must be documented using [Form RC4625, *Rollover to a Registered Disability Savings Plan (RDSP) Under Paragraph 60(m)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4625.html)or the form provided by the RDSP issuer. A tax slip will be issued (for example, [T4A, T4RSP or T4RIF](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/tax-slips.html)). The amount of the retirement savings rollover is reported and deducted on the eligible individual's income tax and benefit return. In some cases, the amount may also need to be reported and deducted in the deceased individual's final return.
+
+For more information on how rollovers should be reported, see [Transfers to registered disability savings plans](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4040/rrsps-other-registered-plans-retirement.html) in [Guide T4040, *RRSP and Other Registered Plans for Retirement*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4040.html).
+
+These rules apply to retirement savings rollovers only. Education savings rollovers are recorded on [Form RC435, *Rollover from a Registered Education Savings Plan to a Registered Disability Savings Plan*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc435.html) or another form provided by the RESP promoter. Tax slips are not issued for education savings rollovers.
+
+RDSP issuers may produce and use their own method of documentation for education savings rollovers.
+
+The retirement savings rollover to an RDSP:
+
+- will be considered a private contribution for the purpose of determining whether the RDSP is a PGAP, but will not be eligible for grants
+
+- will be included in the taxable portions of RDSP withdrawals made to the beneficiary
+
+- may not exceed and will reduce the RDSP contribution lifetime limit
+
+#### Eligible individual
+
+An eligible individual is a child or grandchild of a deceased annuitant under an RRSP or RRIF or of a deceased member of an RPP or SPP or PRPP, who was financially dependent on the deceased for support, at the time of the deceased's death, by reason of an impairment in physical or mental functions. The eligible individual must also be the beneficiary under the RDSP into which the eligible proceeds will be paid.
+
+#### Rolling over RESP property on a tax-deferred basis to an RDSP
+
+Rollovers can be made from an RESP to an RDSP. In general terms, a subscriber of an RESP that allows accumulated income payments and a holder of an RDSP may jointly elect to rollover an accumulated income payment under the RESP to the RDSP if, at the time of the election, the RESP beneficiary is also the beneficiary under the RDSP.
+
+To qualify for an RESP rollover, the beneficiary must meet the existing age and residency requirements in relation to RDSP contributions. As well, **one**of the following conditions must be met:
+
+- the beneficiary is or will be, unable to pursue post-secondary education because they have a severe and prolonged mental impairment
+
+- the RESP has been in existence for more than 35 years
+
+- the RESP has been in existence for at least 10 years, each beneficiary under the RESP has reached 21 years of age and is not eligible to receive educational assistance payments
+
+An RESP rollover to an RDSP will not be subject to regular income tax or the additional 20% tax, for more information, see [Form T1172, *Additional Tax on Accumulated Income Payments from RESPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1172.html). The RESP promoter must send [Form RC435, *Rollover from a Registered Education Savings Plan to a Registered Disability Savings Plan*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc435.html) to the RDSP issuer and keep a copy of it on file. This will satisfy the RESP promoter's requirement to file the election with CRA.
+
+When an RESP rollover occurs, contributions in the RESP will be returned to the subscriber on a tax-free basis. As well, [Canada Education Savings Grant (CESG)](https://www.canada.ca/en/services/benefits/education/education-savings/estimating-amounts.html) and [Canada Learning Bond (CLB)](https://www.canada.ca/en/services/benefits/education/education-savings/estimating-amounts.html) in the RESP will be required to be repaid to [ESDC](https://www.canada.ca/en/employment-social-development.html) and the RESP terminated by the end of February of the year after the year during which the rollover is made.
+
+The RESP rollover to an RDSP:
+
+- will be considered a private contribution for the purpose of determining whether the RDSP is a PGAP, but will not be eligible for grants
+
+- will be included in the taxable portions of RDSP withdrawals made to the beneficiary
+
+- may not exceed and will reduce the RDSP contribution lifetime limit
+
+#### When a rollover cannot be made
+
+A rollover from an RESP, RRSP, RRIF, RPP, PRPP or SPP cannot be made if any of the following conditions applies:
+
+- the beneficiary is not approved for the DTC (There is one exception. See [Rolling over retirement savings property on a tax-deferred basis to an RDSP](#Rolling_over_RESP)
+
+- the beneficiary has died
+
+- the beneficiary is over 59 years of age in the year of the contribution, or
+
+- the beneficiary is not a resident of Canada
+
+- it will cause the $200,000 contribution limit to be exceeded
+
+- the holder has not provided their consent to the rollover
+
+### What happens if the beneficiary is no longer approved for the DTC
+
+Since 2021, if a beneficiary is no longer approved for DTC, the holder of their RDSP has the option of closing the plan or keeping it open.
+
+If the holder decides to keep it open, amounts can still be withdrawn from the RDSP, but:
+
+- new contributions are not allowed to be made to the RDSP
+
+- new grants or bonds cannot be paid to the RDSP
+
+- amounts from a deceased parent or grandparent’s RRSP, RRIF, RPP, PRPP or SPP which the beneficiary was financially dependent for support, can be rolled over into the RDSP provided the rollover is completed before the end of the fifth taxation year throughout which the beneficiary is no longer DTC-eligible
+
+The grants and bonds that were received by the plan are not required to be repaid solely due to the loss of the beneficiary's DTC approval.
+
+Amounts from the RDSP can still be withdrawn at the request of the holder. Prior to the year the beneficiary turns 60, withdrawals will result in the repayment of grants and bonds that were paid into the RDSP in the 10 years before the beneficiary lost their DTC approval.
+
+If the beneficiary regains DTC approval, the RDSP will operate normally and contributions can be made to the plan.
+
+### What happens if the beneficiary dies
+
+The RDSP **must** be closed and all amounts remaining in the plan must be paid out to the beneficiary's estate by December 31 of the year **following** the calendar year in which the beneficiary dies. Any funds remaining in the RDSP, after any required repayment of government grants and bonds will be paid to the estate. If a DAP had been made and the beneficiary is deceased, the taxable portion of the DAP must be included in the income of the beneficiary's estate in the tax year in which the payment is made.
+
+### When do grants and bonds have to be repaid
+
+#### 10-Year Repayment Rule
+
+If any of the following events occur, all government grants and bonds paid into the plan during the preceding **10 years** before the event must be repaid to the Government of Canada. Repayments are required when any of the following conditions applies:
+
+- the RDSP is terminated
+
+- the plan ceases to be a RDSP
+
+- the beneficiary loses DTC approval before the age of 60 and the holder chooses to close or withdraw amounts from the RDSP
+
+- the beneficiary dies
+
+To ensure the funds in an RDSP are available to meet potential obligations under the 10-year repayment rule, RDSP issuers must set aside an "assistance holdback amount" equal to the total grant and bond paid into the RDSP in the preceding 10 years less any grant and bond already repaid in respect of that 10-year period. When one of the events described above occurs, the required repayment is equal to the amount of the assistance holdback amount immediately preceding the event.
+
+Repayments of amounts that were previously included as income **are** tax deductible and reported on line 23200 of the income tax and benefit return.
+
+A beneficiary with a life expectancy of five years or less will be allowed annual RDSP withdrawals of up to $10,000 in taxable plan savings, as well as a pro-rated amount of plan contributions, without having to repay the grants or bonds paid into the plan in the preceding 10 years. These rules only apply when an election to consider the plan an SDSP has been filed with the RDSP issuer by the holder of the RDSP and the issuer has notified [ESDC](https://www.canada.ca/en/employment-social-development.html) of the election.
+
+There is a rule that **applies** for withdrawals made from an RDSP **after 2013**. This rule replaces the 10 year repayment rule only for RDSP withdrawals. The former 10 year repayment rule will continue to apply when the RDSP is terminated, deregistered, or the RDSP beneficiary dies.
+
+This rule may change due to legislation. For the most updated information on the 10 year rule, contact the issuer of your RDSP or go to [ESDC](https://www.canada.ca/en/employment-social-development.html).
+
+### Proportional repayment rule
+
+**As of 2014**, the proportional repayment rule applies on the event where an amount is withdrawn from the RDSP. The proportional repayment rule will require that, for each $1 withdrawn from an RDSP, $3 of any grants or bonds paid into the plan in the 10 years preceding the withdrawal be repaid, up to a maximum of the assistance holdback amount. Repayments will be attributed to the grants or bonds that make up the assistance holdback amount based on the order in which they were paid into the RDSP.
+
+When an RDSP is either voluntarily closed or ceases to be registered due to non-compliance, the proportional repayment rule does not apply. Instead, the 10-year repayment rule is triggered, requiring full repayment of the Assistance Holdback Amount. The proportional repayment rule also does not apply in the case of the death of a beneficiary. In this case, the full Assistance Holdback Amount must be paid back to the government, and the remaining amounts held in the plan goes to the estate of the beneficiary.
+
+The proportional repayment rule may be changed due to legislation. For the most updated information on how much the repayment will be, contact the issuer of your RDSP or go to [ESDC](https://www.canada.ca/en/employment-social-development.html).
+
+Jeff opens an RDSP in 2020 and contributes $1,500 to his plan annually, being eligible for the maximum grant ($3,500) for each year. In 2025, the assistance holdback amount for his plan equals $21,000 (6 years, 2020 to 2025 inclusively, multiplied by $3,500).
+
+In 2025, he withdraws $600 from his RDSP. Under the 10-year repayment rule, the entire assistance holdback amount of $21,000 would have to be repaid. Under the proportional repayment rule, $1,800 of the assistance holdback amount will be repaid (approximately 9% of the repayment required under the former 10-year repayment rule). The $1,800 repayment will come from the grants paid into his RDSP in 2020 and the plan's assistance holdback amount will be reduced to $19,200.
+
+## Chapter 2 – Tax payable
+
+### Tax payable on DAPs
+
+When a DAP is made from an RDSP, the part of the payment that includes proceeds from a rolled over amount, the grants and bonds paid into the plan, and all investment income earned in the RDSP, such as interest, is taxable.
+
+That part of the payment is included in the income of the beneficiary for the year in which the payment is made. If the beneficiary is deceased when the payment is made, the amount is included in the income of the beneficiary's estate for the year of the payment.
+
+The taxable portion (or RDSP income) is excluded from income when calculating various income-tested benefits, such as the GST/HST credit, the Canada child benefit (CCB) and the Canada workers benefit (CWB). It is also excluded when calculating the social benefit repayment and the refundable medical expense supplement.
+
+### Tax deduction at source
+
+RDSP issuers will have to withhold income tax at source once the taxable portion of a beneficiary's lump sum **DAPs**and **LDAPs**exceed the total of the following two federal non-refundable tax credits (NRTCs):
+
+- the maximum basic personal amount (BPA)
+
+- the disability amount (DA)
+
+NRTCs help to reduce a taxpayer's total income tax liability at the end of the year. There are many federal and provincial NRTCs that individuals may be eligible to claim when filing their personal income tax and benefit returns. However, only the federal maximum BPA of $16,129 and federal DA ($10,138 in 2025) are to be used to calculate the taxable income from which to withhold income tax at source. This is because all RDSP beneficiaries are eligible for these two NRTCs.
+
+Using the chart below, with the 2025 tax year for example, a beneficiary can receive up to $26,267 (BPA of $16,129 + DA of $10,138) in taxable lump sum DAPs and LDAPs before the RDSP issuer has to withhold income tax at source. For the 2024 tax year, this amount was $25,577.
+
+| Year | 2025 | 2024 |
+
+| --- | --- | --- |
+
+| Federal maximum Basic Personal Amount (BPA) | $16,129 | $15,705 |
+
+| Federal Disability Amount (DA) | $10,138 | $9,872 |
+
+| Total | $26,267 | $25,577 |
+
+Once this amount is reached, income tax must be deducted from the taxable portion of all remaining payments in the year using the lump-sum tax withholding rate displayed below.
+
+NRTCs are adjusted annually to allow for inflation and other factors.
+
+The taxable portion of a beneficiary's lump sum DAPs and LDAPs are the total of:
+
+- the Canada disability savings grants
+
+- the Canada disability savings bonds
+
+- the investment income earned in the plan, such as interest
+
+- proceeds from rollovers of other plans (RRSPs or RESPs for example)
+
+Individual or private contributions oran amount in respect of which a holder of the plan pays the advantage tax described under [Tax payable on advantage](#Tx_pble_dvntg), (unless this tax is waived, cancelled or refunded, or has previously been included in the non-taxable portion of a DAP made to the beneficiary) are not taxable.
+
+RDSP issuers will use the lump-sum withholding rate that corresponds to either the:
+
+- total taxable portion of all LDAPs expected to be paid in the year,
+
+- taxable portion of each lump sum DAP when requested
+
+The lump-sum withholding rates are:
+
+- 10% (5% for Quebec) on amounts up to and including $5,000
+
+- 20% (10% for Quebec) on amounts over $5,000, and up to $15,000
+
+- 30% (15% for Quebec) on amounts over $15,000
+
+The above rates are a blend of the federal and provincial rates. The Quebec rates represent only the federal rates. For more information on the provincial rates for the province of Quebec, go to [Ministère des Finances Québec](http://www.finances.gouv.qc.ca/index_en.asp).
+
+## Chapter 3 – Anti-Avoidance Rules for RDSP
+
+The anti-avoidance rules provide for a special tax on certain advantages that unduly exploit the tax attributes of an RDSP, as well as special taxes on prohibited investments and on non-qualified investments.
+
+Each person who is a holder of an RDSP is jointly liable for the taxes on prohibited investments, non-qualified investments and advantages described below. Where two or more holders of an RDSP are jointly liable to pay such a tax, only one form needs to be filed on behalf of all the holders that are liable for the tax.
+
+### Tax payable on prohibited investments
+
+If the RDSP trust acquires a prohibited investment or if previously acquired property becomes prohibited, the holder will be subject to a special tax equal to 50% of the fair market value (FMV) of the investment, and the holder must file [Form RC339, *Individual Return for Certain Taxes for RRSPs, RRIFs, RESPs or RDSPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc339.html), with a payment for any balance due, no later than June 30 following the end of the calendar year.
+
+The tax is refundable in certain circumstances. For more information, see [Refund of taxes paid on non-qualified or prohibited investments](#refund_of_taxes).
+
+When the prohibited investment ceases to be a prohibited investment while it is held by the RDSP trust, the RDSP trust is considered to have disposed of the property at its FMV right before that time and to have re-acquired the property for the same amount at the same time.
+
+The holder is also liable for the 100% advantage tax on income earned and capital gains realized on prohibited investments.
+
+The 100% advantage tax applies to income earned and the portion of any realized capital gain that accrued, **after** **March 22, 2017**, regardless of when the prohibited investment generating the income or gain was acquired.
+
+For more information, see [Income Tax Folio S3–F10–C2, *Prohibited Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html).
+
+### Tax payable on non-qualified investments
+
+If the RDSP trust acquired a non-qualified investment or if a previously acquired property becomes a non-qualified investment, the investment will be subject to a special tax. The tax is equal to 50% of the FMV of the property at the time that it was acquired or that it became non-qualified, and the holder must file [Form RC339, *Individual Return for Certain Taxes for RRSPs, RRIFs, RESPs or RDSPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc339.html) with a payment for any balance due, no later than June 30 following the end of the calendar year.
+
+Any increase in the value of a non-qualified investment at the time of disposition is not reported on the [Form RC339, *Individual Return for Certain Taxes for RRSPs, RRIFs, RESPs or RDSPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc339.html). Income earned and capital gains realized by an RDSP trust on non-qualified investments will continue to be taxable to the Trust, regardless of when the investment was acquired. The Trust must file [Form T3RET, *T3 Trust Income Tax and Information Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ret.html) and is liable to pay any tax owing.
+
+Any charges or fees that the financial institution has passed on to the annuitant as a result of the T3 Return having been filed is a matter between the annuitant and the financial institution.
+
+If an investment is both a non-qualified investment and a prohibited investment, it is treated as a prohibited investment only and the trust is not subject to tax on the investment earnings.
+
+The tax payable on non-qualified investments is refundable in certain circumstances. For more information, see [Refund of taxes paid on non-qualified or prohibited investments](#refund_of_taxes).
+
+The holder is also liable for the 100% advantage tax on specified non-qualified investment income if this income is not withdrawn promptly.
+
+For more information, see [Income Tax Folio S3-F10-C1, *Qualified Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html).
+
+### Refund of taxes paid on non-qualified or prohibited investments
+
+You may be entitled to a refund of the 50% tax on non-qualified or prohibited investments if the investment was disposed of or ceased to be a non-qualified or prohibited investment, before the end of the calendar year after the year in which the tax arose (or such later time as is permitted by the Minister of National Revenue).
+
+However, no refund will be issued if it is reasonable to expect that the holder knew or should have known, that the investment was or would become a non-qualified or a prohibited investment.
+
+The refund applies to the 50% tax on non-qualified or prohibited investments but not to the 100% tax on advantages.
+
+If the 50% tax on non-qualified or prohibited investments and the entitlement to the refund of that tax, arose in the same calendar year, then a remittance of the tax is not required. For example, no remittance of tax would be required if an RDSP trust acquired and disposed of a non-qualified investment in the same calendar year.
+
+### How to claim a refund
+
+To claim a refund, you must:
+
+- send your request in writing (you can attach it to Form RC339)
+
+- attach the appropriate documents detailing the information relating to the acquisition and disposition of the non-qualified or prohibited property (you can attach the written request and supporting documents to Form RC339)
+
+The documents must contain the following:
+
+- name and description of the property
+
+- number of shares or units
+
+- date the property was acquired or became non-qualified or prohibited property
+
+- date of the disposition or the date that the property became qualified or ceased to be prohibited
+
+### Obligations of the RDSP issuer
+
+The issuer of an RDSP must exercise the care, diligence and skill of a reasonably prudent person to minimize the possibility that a trust governed by the plan holds a non-qualified investment.
+
+If the issuer fails to comply with this obligation, the issuer is liable to a penalty under the *Income Tax Act*.
+
+The issuer is also required to notify the holder of the RDSP, in prescribed form and manner before March of a calendar year, if at any time in the preceding year the RDSP trust acquired or disposed of a non-qualified investment or if an investment became or ceased to be a non-qualified investment.
+
+### Tax payable on an advantage
+
+If the holder or a person not dealing at arm’s length with the holder (including the RDSP itself) was provided with an advantage in relation to their RDSP during the year, a 100% tax is payable, which is:
+
+- in the case of a benefit, the FMV of the benefit
+
+- in the case of a loan or a debt, the amount of the loan or debt
+
+- in the case of a registered plan strip, the amount of the registered plan strip
+
+For taxes payable on an advantageyou must file using [Form RC339, *Individual Return for Certain Taxes for RRSPs, RRIFs, RESPs or RDSPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc339.html).
+
+When an advantage is extended by the issuer of an RDSP, the issuer and not the holder is liable for the tax. The issuer must file [Form RC298, *Advantage Tax Return for RRSP, TFSA, FHSA or RDSP issuers, RESP promoters or RRIF carriers*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc298.html), with a payment for any balance due, no later than **June 30** following the end of calendar year.
+
+For more information, see [IncomeTax Folio S3-F10-C3, *Advantages – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html).
+
+### Waiver or cancellation of tax
+
+We may waive or cancel all or part of the taxes if we determine it is fair to do so after reviewing all factors, including whether:
+
+- the tax arose because of a reasonable error
+
+- the extent to which the transaction or series of transactions that gave rise to the tax also gave rise to another tax under the *Income Tax Act*
+
+- the extent to which payments have been made from the RDSP
+
+A **waiver**refers to the tax that is otherwise payable by a taxpayer for which relief is granted by the CRA before this amount is assessed or charged to the taxpayer. A **cancellation**refers to the amount of tax that was assessed or charged to the taxpayer for which relief is granted by the CRA.
+
+The waiver is limited to tax paid under the anti-avoidance rules and not taxes paid under any other part of the *Income Tax Act*.
+
+To consider your request, we need a letter that explains why the tax liability arose, why this is a reasonable error and why it would be fair to cancel or waive all or part of the tax. Send your letter to one of the following addresses:
+
+If your residential address is based in:
+
+Ontario, Prince Edward Island, Newfoundland and Labrador, Yukon, Nunavut, Northwest Territories, as well as the following cities in the province of Quebec (Montréal, Québec City, Laval, Sherbrooke, Gatineau and Longueuil).
+
+Send your request to:
+
+Canada Revenue Agency Sudbury Tax Centre Pension Workflow Team Post Office Box 20000, Station ASudbury ON P3A 5C1
+
+If your residential address is based in:
+
+Manitoba, Saskatchewan, Alberta, British Columbia, Nova Scotia, New Brunswick and the remaining areas in the province of Quebec not listed under the Sudbury Tax Centre.
+
+Send your request to:
+
+Canada Revenue Agency Winnipeg Tax Centre Pension Workflow Team Post Office Box 14000, Station MainWinnipeg MB R3C 3M2
+
+## Digital services
+
+### Digital services for individuals
+
+The CRA's digital services are fast, easy, and secure!
+
+### My Account
+
+My Account lets you access your personal income tax and benefit information, and interact with the CRA online throughout the year.
+
+### Profile
+
+- Change your address, phone numbers, direct deposit information, marital status, information about children in your care, and language preference
+
+- Edit your notification preferences and receive email notifications when important changes are made to your account
+
+- Manage your authorized representatives and authorization requests
+
+- Manage your multi-factor authentication settings, security options, and personal identification number (PIN)
+
+### Tax returns
+
+- View your notice of assessment or reassessment, special elections and returns, carryover amounts, and tax information slips (T4 and more)
+
+### Accounts and payments
+
+- View your account balance and statement of account
+
+- Make a payment online to the CRA with the My Payment service, create a pre-authorized debit (PAD) agreement, or create a QR code to pay in person at Canada Post for a fee
+
+- Transfer a payment
+
+### Benefits and credits
+
+- View your benefit and credit information, and apply for certain benefits
+
+### Savings and pension plans
+
+- View information about your Registered Retirement Savings Plan (RRSP), Tax-Free Savings Account (TFSA), Home Buyer's Plan (HBP), First Home Savings Account (FHSA), and Lifelong Learning Plan (LLP)
+
+### Correspondence
+
+- View mail from the CRA
+
+- Submit documents to the CRA
+
+- Submit an audit enquiry
+
+- File a formal dispute
+
+- Request a CPP/EI ruling
+
+### Additional digital services
+
+- Track the progress of certain files and enquiries you have submitted to the CRA
+
+- View and print your proof of income statement
+
+### Receive your CRA mail online
+
+Set your correspondence preference to “Electronic mail” to receive email notifications when CRA mail, like your notice of assessment, is available in your account. You will no longer receive your CRA mail by paper. For more information, go to [Email notifications from the CRA – Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/online-mail-helping-you-organize-your-canada-revenue-agency-mail.html).
+
+### Access My account
+
+To access My Account, go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) and sign in to or register for a CRA account.
+
+### Electronic payments
+
+Make your payment using:
+
+- your Canadian bank or credit union's online banking, mobile app, or telephone service
+
+- the CRA's My Payment service at [Pay with a debit card through the CRA's My Payment service](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html) with your activated debit card from a participating Canadian bank or credit union with a Visa® Debit or Debit Mastercard® (does **not**include credit cards)
+
+- pre-authorized debit (PAD) at [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) which lets you:
+
+    - set up payments to the CRA from a Canadian chequing account on pre-set dates starting in five or more business days
+
+    - pay an amount due, repay overpaid amounts, or make instalment payments
+
+    - view your account history and modify, cancel or skip a payment (for more information on PAD, go to [Pay by scheduled pre-authorized debit (PAD) through the CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html))
+
+- the “Proceed to pay” button through My Account in the “Accounts and payments” panel on the “Overview” page, or directly through “Accounts and Payments" side navigation menu item and under the "Account balance balance and statement of account” and “Instalments” panels
+
+- your credit card, *Interac e-Transfer*, or PayPal through one of the third-party service providers **for a fee**
+
+For more information, go to [Payments to the CRA](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html).
+
+## For more information
+
+### If you need help
+
+For help with common topics, current contact centre wait times, and links to online self-serve options, go to [Contact the Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+### Direct deposit
+
+Direct deposit is a fast, convenient, and secure way to receive your CRA payments directly in your account at a financial institution in Canada. For more information, go to [Direct deposit - Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html) or contact your financial institution.
+
+### Forms and publications
+
+The CRA encourages you to file your return electronically. If you need a paper version of the CRA's forms and publications, go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+### Electronic mailing lists
+
+The CRA can send you an email when new information on a subject of interest to you is available on the website. To subscribe, go to [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+### Tax Information Phone Service (TIPS)
+
+For tax information by telephone, use the CRA's automated service, TIPS, by calling **1-800-267-6999**.
+
+### Teletypewriter (TTY) and Video Relay Service (VRS) users
+
+If you use a TTY for a hearing or speech impairment, call **1-800-665-0354**.
+
+Register with Canada VRS to download the app by going to [Get started with Canada VRS](https://srvcanadavrs.ca/en/get-the-app/), and call the VRS line.
+
+If you use another **operator-assisted relay service**, call the CRA's regular telephone numbers instead of the TTY or Canada VRS numbers.
+
+### Formal disputes (objections and appeals)
+
+You have the right to file an appeal if you disagree with an assessment, determination, or decision.
+
+For more information, go to [File an objection](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/file-objection-cppei-appeal-minister.html).
+
+### CRA service feedback program
+
+#### Service complaints
+
+You can expect to be treated fairly and to receive a high level of service every time you interact with the CRA.
+
+You can provide compliments or suggestions; however, if you are not satisfied with the service you received:
+
+- You may save time by calling the CRA first depending on your situation. You can call the telephone number provided in your CRA correspondence or discuss your concerns with the employee you have been dealing with. If you do not have a contact number, go to [Contact the Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html)
+
+- You can ask to discuss the matter with the employee’s supervisor if you have not been able to resolve your service-issue
+
+- You can submit feedback by filling out [Form RC193, *Service Feedback*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html), if the issue remains unresolved. For more information, go to [Send feedback about CRA service](https://www.canada.ca/en/revenue-agency/services/make-a-service-complaint.html)
+
+- You may contact the [Office of the Taxpayers' Ombudsperson](https://www.canada.ca/en/taxpayers-ombudsperson.html) if you are not satisfied with the response you have received. The Ombudsperson will only respond to complaints that the CRAhas already tried to address
+
+For more information about the *Taxpayer Bill of Rights*, go to [Taxpayer Bill of Rights](https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/taxpayer-bill-rights.html).
+
+#### Reprisal complaints
+
+If you have received a response regarding a previously submitted service complaint or a formal review of a CRAdecision and feel you were not treated impartially by a CRAemployee, you can submit a reprisal complaint by filling out [Form RC459, *Reprisal Complaint*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc459.html).
+
+For more information, go to [Reprisal Complaints](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/reprisal-complaints.html).
+
+### Due dates
+
+When a due date falls on a Saturday, Sunday or public holiday recognized by the CRA, your return is considered on time if the CRAreceives it or if it is postmarked on or before the next business day.
+
+For more information, go to [Due dates and payment dates](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/important-dates-individuals.html).
+
+### Related forms and publications
+
+#### Forms
+
+- [RC193, *Service Feedback*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html)
+
+- [RC298, *Advantage Tax Return for RRSP, TFSA, FHSA, or RDSP issuers, RESP promoters or RRIF carriers*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc298.html)
+
+- [RC339, *Individual Return for Certain Taxes for RRSPs, RRIFs, RESPs or RDSPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc339.html)
+
+- [RC435, *Rollover from a Registered Education Savings Plan to a Registered Disability Savings Plan*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc435.html)
+
+- [RC459, *Reprisal Complaint*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc459.html)
+
+- [RC4625, *Rollover to a Registered Disability Savings Plan (RDSP) Under Paragraph 60(m)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4625.html)
+
+- [T1172, *Additional Tax on Accumulated Income Payments from RESPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1172.html)
+
+- [T2201, *Disability Tax Credit Certificate*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2201.html)
+
+#### Publications
+
+- [IC89-3, *Policy Statement on Business Equity Valuations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic89-3.html)
+
+- [IC99-1R4, *Registered Disability Savings Plans*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic99-1/registered-disability-savings-plans.html)
+
+- [RC4064, *Disability–Related Information*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4064.html)
+
+#### Income Tax Folios
+
+- [S1-F1-C2, *Disability Tax Credit*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-1-health-medical/income-tax-folio-s1-f1-c2-disability-tax-credit.html)
+
+- [S1-F5-C1, *Related Persons and Dealing at Arm's Length*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html)
+
+- [S3-F10-C1, *Qualified Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html)
+
+- [S3-F10-C2, *Prohibited Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html)
+
+- [S3-F10-C3, *Advantages – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html)
+
+### Cancel or waive penalties and interest
+
+The CRA administers legislation, commonly called "taxpayer relief provisions" that gives the CRA discretion to cancel or waive penalties and interest when taxpayers cannot meet their tax obligations due to circumstances beyond their control.
+
+The CRA’s discretion is limited to any period that ends within 10 calendar years before the year the request is made.
+
+### Penalties
+
+The CRA will consider your request only if it relates to a tax year or fiscal period ending in any of the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to a penalty for a tax year or fiscal period ending in 2015 or later.
+
+### Interest on a balance owing
+
+The CRA will consider only the amounts that accrued during the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to interest that accrued in 2015 or later.
+
+Taxpayer relief requests can be made online using the CRA’s My Account, My Business Account, or Represent a Client digital services.
+
+You can also fill out [Form RC4288, *Request for Taxpayer Relief – Cancel or Waive Penalties and Interest*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4288.html), and send it :
+
+- online using **My Account**, **My Business Account**, or **Represent a Client**
+
+- by mail or courier to the designated office, as shown on the last page of the form, based on your place of residence
+
+For information about submitting documents online, go to [Submit documents online](https://www.canada.ca/en/revenue-agency/services/e-services/submit-documents-online.html).
+
+For more information about cancelling or waiving penalties and interest, go to [Cancel or waive penalties or interest at the CRA](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/cancel-waive-penalties-interest.html).

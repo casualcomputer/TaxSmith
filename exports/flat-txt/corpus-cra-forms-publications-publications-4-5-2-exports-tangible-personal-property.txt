@@ -1,0 +1,651 @@
+Title: Exports - Tangible Personal Property
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-5-2/exports-tangible-personal-property.html
+Corpus path: corpus/cra/forms-publications/publications/4-5-2/exports-tangible-personal-property.md
+Document type: publication
+Last modified: 2018-05-29
+
+# Exports - Tangible Personal Property
+
+GST/HST memorandum 4.5.2 August 2014
+
+This version replaces the one dated November 1997.
+
+This memorandum provides information about supplies of tangible personal property that are listed in Part V of Schedule VI to the *Excise Tax Act* as zero-rated exports for GST/HST purposes. Information about supplies of services and intangible personal property is provided in [GST/HST Memorandum 4.5.3, Exports - Services and Intellectual Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-5-3.html). Information about the criteria for determining the residence status of recipients to whom supplies are made in order to determine whether those supplies may be zero-rated as exports is provided in [GST/HST Memorandum 4.5.1, Exports - Determining Residence Status](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-5-1.html).
+
+**Disclaimer** The information in this publication does not replace the law found in *the Excise Tax Act* (the Act) and its regulations; it is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate regulation, or contact any GST/HST rulings centre for additional information. A ruling should be requested for certainty in respect of any particular GST/HST matter. [GST/HST Memorandum 1.4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling and lists the GST/HST rulings centres.
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario, New Brunswick and Newfoundland and Labrador, 14% in Prince Edward Island and 15% in Nova Scotia. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, see [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please contact Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [www.revenuquebec.ca](http://www.revenuquebec.ca/en/default.aspx) to obtain general information.
+
+**Exception:**Since January 1, 2013, the CRA has been administering the GST/HST and the Québec sales tax (QST) for listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST and/or QST purposes whether or not they are located in Quebec. If you wish to make a technical enquiry on the GST/HST related to SLFIs by telephone, please call 1‑855‑666‑5166.
+
+## Table of Contents
+
+- [General](#_Toc394471133)
+
+- [Tangible personal property exported by the recipient](#_Toc394471134)
+
+    - [Definitions and explanation of significant terms](#_Toc394471135)
+
+    - [Satisfactory evidence of exportation](#_Toc394471136)
+
+- [Tangible personal property sent outside Canada by the supplier](#_Toc394471137)
+
+- [Supply for which an Export Trading House certificate is provided](#_Toc394471138)
+
+- [Supply for which an Export Distribution Centre Program certificate is provided](#_Toc394471139)
+
+- [Property supplied to operators of ships, aircraft, or railways](#_Toc394471140)
+
+- [Excisable goods](#_Toc394471141)
+
+- [Tangible personal property supplied with services performed on temporarily imported tangible personal property](#_Toc394471142)
+
+- [Tangible personal property supplied with emergency repair services](#_Toc394471143)
+
+    - [Emergency repairs to conveyances or cargo containers](#_Toc394471144)
+
+    - [Emergency repairs to railway rolling stock](#_Toc394471145)
+
+    - [Emergency repairs to or storage of empty cargo containers](#_Toc394471146)
+
+- [Duty free shops](#_Toc394471147)
+
+- [Tangible personal property supplied in conjunction with services under non-resident’s warranty](#_Toc394471148)
+
+- [Dies, fixtures, jigs, moulds, tools](#_Toc394471149)
+
+- [Continuous transmission commodities](#_Toc394471150)
+
+    - [Supplies to unregistered recipients](#_Toc394471151)
+
+    - [Supplies to registered persons](#_Toc394471156)
+
+- [Floating and mobile homes](#_Toc394471158)
+
+- [Appendix: Evidence of exportation](#_Toc394471159)
+
+## General
+
+1. Generally, taxable supplies of property and services made in Canada are subject to GST at the rate of 5% if they are made in a non-participating province and subject to HST at the applicable harmonized rate if they are made in a participating province. Certain supplies of property and services made in Canada that are destined for consumption, use, or supply outside Canada, are zero-rated (taxable at 0%) under Part V of Schedule VI.
+
+2. For information on the place of supply rules for determining whether supplies are made in or outside Canada, refer to [GST/HST Memorandum 3.3, Place of Supply](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3.html).
+
+## Tangible personal property exported by the recipient
+
+Conditions for zero-rating Sch VI, Part V, s 1
+
+3. A supply of tangible personal property (other than an excisable good) made by a person to a recipient (other than a consumer) who intends to export the property is zero-rated if all of the following conditions are met:
+
+1. in the case of property that is a continuous transmission commodity that the recipient intends to export by means of a wire, pipeline, or other conduit, the recipient is not registered for GST/HST;
+
+2. the recipient exports the property as soon after the property is delivered by the person to the recipient as is reasonable having regard to the circumstances surrounding the exportation, and where applicable, to the normal business practice of the recipient;
+
+3. the recipient has not acquired the property for consumption, use, or supply in Canada before exportation;
+
+4. after the supply is made and before the recipient exports the property, the property is not further processed, transformed, or altered in Canada, except to the extent reasonably necessary or incidental to its transportation; and
+
+5. the person maintains evidence satisfactory to the Minister of National Revenue of exportation of the property by the recipient.
+
+4. For a supply to be zero-rated under this provision, all the conditions of the provision must be met. The following paragraphs describe these conditions in detail and outline the position of the Canada Revenue Agency (CRA) where applicable.
+
+### Definitions and explanation of significant terms
+
+Consumer ss 123(1)
+
+5. A “consumer” of property or a service means a particular individual who acquires or imports the property or service for the particular individual’s personal consumption, use, or enjoyment or the personal consumption, use or enjoyment of any other individual at the particular individual’s expense, but does not include an individual who acquires or imports the property or service for consumption, use, or supply in the course of commercial activities of the individual or other activities in the course of which the individual makes exempt supplies.
+
+Excisable goods ss 123(1)
+
+6. “Excisable goods” means beer or malt liquor within the meaning assigned by section 4 of the *Excise Act* and spirits, wine, and tobacco products within the meaning assigned by section 2 of the *Excise Act, 2001*.
+
+Intent to export vs actual export of the property
+
+7. Tangible personal property will generally be regarded as exported where the property is carried or sent out of Canada for trade, consumption, use, or supply by the recipient outside Canada, and the property is not consumed, used, or supplied en route before delivery to a place outside Canada. The recipient must have the intention of exporting the property when the supply is made in order for it to be zero-rated. However, it is not sufficient that the recipient intends to export the property. The recipient must export the property in fact. If the recipient intends to sell the property to another person who will export the property, the supply to the recipient is not zero-rated under section 1 of Part V of Schedule VI.
+
+Continuous transmission commodity ss 123(1)
+
+8. A “continuous transmission commodity” means electricity, crude oil, natural gas, or any tangible personal property that is transportable by means of a wire, pipeline, or other conduit. Refer to paragraphs 53 to 76 of this memorandum for further information on conditions for zero-rating a supply of a continuous transmission commodity.
+
+As soon after the property is delivered by the person to the recipient as is reasonable
+
+9. Whether tangible personal property is exported “as soon after the property is delivered by the person to the recipient as is reasonable” will depend on the facts of each situation, including the type of property involved and the general business practices of the recipient. The CRA will consider the following factors where the supplier can provide documentary evidence why the property was not exported either immediately after the supply was made, or in the time frame originally anticipated:
+
+- a late shipment from a subcontractor delays the shipment of the whole consignment;
+
+- transportation obstacles have been encountered;
+
+- some tangible personal property is held in inventory while awaiting delivery of other property before exporting all of the property at once;
+
+- the delay is attributable to the recipient’s normal business practice; or
+
+- other situations have resulted in unexpected delays.
+
+Not for consumption, use, or supply before exportation
+
+10. Paragraph 1(c) of Part V of Schedule VI provides that the tangible personal property must not be acquired by the recipient for consumption, use, or supply in Canada before the exportation of the property. To determine if the property is for consumption, use, or supply in Canada before its exportation, it is necessary to consider each of the following words separately.
+
+- “Consumption” is not defined in the Act but is generally considered to be the act or instance of consuming or the process of being consumed. For example, fuel is consumed in the operation of an internal combustion engine.
+
+- “Use” is not defined in the Act but is generally considered to be the act or practice of using or employing something. “Use” stresses the practicality of the end result or purpose for which something was acquired and the purpose for which the property was acquired and employed.
+
+- “Supply” is defined in subsection 123(1) to mean, subject to sections 133 and 134, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift, or disposition. Generally, under section 133, the entering into of an agreement to provide property or a service is deemed to be a supply of the property or service made at that time and the actual provision of the property or service is deemed to be part of that supply.
+
+Not further processed, transformed, or altered in Canada
+
+11. Paragraph 1(d) of Part V of Schedule VI provides that after the supply is made, and before the tangible personal property is exported by the recipient, the property must not be further processed, transformed, or altered in Canada except to the extent reasonably necessary or incidental to its transportation.
+
+12. “Processed” is not defined in the Act. For purposes of paragraph 1(d) of Part V of Schedule VI, processing property is generally considered to refer to a technique of preparation, handling, or other activity which causes a physical or chemical change in the property other than natural growth. The following activities are examples of processing:
+
+- drying lumber in a kiln
+
+- breaking bulk and packaging, or repackaging goods for sale or resale where there is a systematic procedure to increase the marketability
+
+- drying, cleaning, blending, and bagging grain.
+
+13. “Altered” is not defined in the Act; however, to alter tangible personal property generally means to change the property without changing its essential character. It excludes a service that destroys the essential character of a good or results in the creation of a new or commercially different good with different essential characteristics. Painting a good a different colour would be an example of altering a good.
+
+14. The following activities are not generally considered to be processing, transforming, or altering for purposes of paragraph 1(d) of Part V of Schedule VI:
+
+- filling orders from bulk inventory, where the activities involved are nothing more than counting, measuring, and packaging
+
+- inventory-taking
+
+- refrigerating
+
+- warehousing
+
+- storing
+
+- export packing or repacking
+
+- export labelling
+
+- export crating
+
+- loading and unloading
+
+- consolidating
+
+- testing without processing, transforming, or altering the property.
+
+### Satisfactory evidence of exportation
+
+Sch VI, Part V, par 1(e)
+
+15. The person must maintain evidence satisfactory to the Minister of the exportation of the tangible personal property by the recipient of the supply.
+
+16. The acceptability of the evidence of exportation will depend on whether the entire shipment of the tangible personal property can be traced from its origin in Canada to the point where it leaves Canada on its way to a foreign destination. The list of documents that will establish evidence satisfactory to the Minister that the recipient has exported the property from Canada will vary depending on the mode of transportation used to export the property and the nature of the property. Satisfactory evidence may include the following documents:
+
+- sales invoice or purchase contract that identifies the property and the recipient, matched with the respective shipping or delivery instructions on the purchase order;
+
+- transportation document that describes the delivery service, such as a bill of lading issued by or on behalf of a carrier, which is evidence of a contract of carriage as well as proof of delivery of the property on board a vessel (additional information on freight transportation services is available in [GST/HST Memorandum 28.2, Freight Transportation Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/28-2.html));
+
+- customs brokers’ or freight forwarders’ invoice that relates to the exported property;
+
+- import documentation required by the country to which the property is exported;
+
+- in the case of motor vehicles, boats, ships, and aircraft, registration from the foreign regulatory authority where the property has been licensed; or
+
+- any other evidence (that is not generated internally by the recipient) satisfactory to the CRA that the property has been exported.
+
+17. The Appendix, *Evidence of exportation*, provides further information about the documents that the CRA will accept as satisfactory evidence of the exportation of tangible personal property.
+
+## Tangible personal property sent outside Canada by the supplier
+
+Conditions for zero-rating Sch VI, Part V, s 12
+
+18. A supply of tangible personal property (other than a continuous transmission commodity that is being transported by means of a wire, pipeline, or other conduit) is zero-rated if the supplier:
+
+1. ships the property to a destination outside Canada that is specified in the contract for carriage of the property;
+
+2. transfers possession of the property to a common carrier or consignee that has been retained, to ship the property to a destination outside Canada, by
+
+    1. the supplier on behalf of the recipient, or
+
+    2. the recipient’s employer; or
+
+3. sends the property by mail or courier to an address outside Canada.
+
+Common carrier
+
+19. A “common carrier” is not defined in the Act but generally refers to a person engaged in the business of transporting property from place to place, and who offers services to the public for compensation.
+
+A Canadian resident purchases a vehicle from an automobile dealer located in Toronto. The resident asks the dealer to arrange for a common carrier to pick up the automobile from the dealer’s lot and deliver it to the resident’s son who is currently living in Portugal. The dealer hires a carrier on behalf of the resident to ship the vehicle to Portugal. The supply of the vehicle by the dealer to the Canadian resident is zero-rated provided the dealer maintains the appropriate documentary evidence of exportation.
+
+Supply to armed forces personnel abroad
+
+20. Section 12 of Part V of Schedule VI also applies where tangible personal property is sent to armed forces personnel abroad via armed forces postal boxes situated in Canada.
+
+Evidence of export
+
+21. Suppliers must maintain satisfactory evidence that the tangible personal property has been sent outside Canada. Satisfactory evidence parallels the evidence required under section 1 of Part V of Schedule VI (see paragraphs 15 to 17 of this memorandum). Where the property has been sent by mail or courier, a receipt from the person shipping the property will be satisfactory as evidence that the property has been exported.
+
+## Supply for which an Export Trading House certificate is provided
+
+22. The term “export trading house” is not defined in the Act but generally refers to a person who is engaged exclusively (i.e., 90% or more) in export trading activities consisting of acquiring goods in Canada or importing goods for sale in the export market.
+
+Conditions for zero-rating supplies made to an export trading house Sch VI, Part V, s 1.1
+
+23. A taxable supply of tangible personal property (other than an excisable good or a continuous transmission commodity that is to be transported by or on behalf of the recipient by means of a wire, pipeline, or other conduit) made by way of sale to a GST/HST-registered recipient (other than a consumer), is zero-rated where:
+
+1. the recipient provides an export certificate (within the meaning of section 221.1) to the supplier certifying that authorization to use the certificate is in effect, along with the recipient’s program authorization number (the Business Number), and the expiry date of the authorization; and
+
+2. if the recipient’s authorization to use an export certificate is not in effect at the time the supply is made, or the recipient does not export the property in the circumstances described in paragraphs 1(b) to (d) of Part V of Schedule VI, the supplier did not know and could not reasonably be expected to have known, at or before the latest time at which tax would otherwise have become payable in respect of the supply if it were not a zero-rated supply, this to be the case.
+
+24. For additional information regarding this program, call 1-800-959-8287.
+
+## Supply for which an Export Distribution Centre Program certificate is provided
+
+25. Generally, the Export Distribution Centre Program (EDCP) permits authorized eligible export-oriented businesses that do not manufacture or produce goods, but may add limited value to goods, to acquire or import goods for processing and export without having to pay GST/HST.
+
+Conditions for zero-rating supplies to an export distribution centre Sch VI, Part V, s 1.2
+
+26. A taxable supply of property (other than an excisable good or a continuous transmission commodity that is to be transported by or on behalf of the recipient by means of a wire, pipeline, or other conduit) made by way of sale to a recipient, who is registered for GST/HST is zero-rated where:
+
+1. the recipient provides an EDCP certificate (within the meaning of section 273.1) to the supplier certifying that an authorization to use the certificate is in effect at the time the supply is made, and that the property is being acquired for use or supply as domestic inventory or added property, and discloses the recipient’s EDCP authorization number (Business Number) and the expiry date of the authorization;
+
+2. the total consideration, included in a single invoice or agreement, for the supply and for all other supplies, if any, that are made to the recipient and otherwise included in section 1.2 of Part V of Schedule VI is at least $1000; and
+
+3. if the recipient’s authorization to use the certificate is not, in fact, in effect at the time the supply is made, or the recipient is not acquiring the property for use or supply as domestic inventory or as added property in the course of its commercial activities, and at or before the latest time at which tax would have become payable in respect of the supply if it were not a zero-rated supply, the supplier did not know, and could not reasonably be expected to have known, this to be the case.
+
+27. Detailed information about the EDCP, including how to apply for authorization to use the program, is provided in [GST/HST Technical Information Bulletin B-088, Export Distribution Centre Program](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-088.html).
+
+## Property supplied to operators of ships, aircraft, or railways
+
+Sch VI, Part V, s 2
+
+28. A supply of property or a service (other than a sale of real property) made to a non-resident person, who is not registered for GST/HST at the time the supply is made, is zero-rated where the property or service is acquired by the person for consumption, use, or supply:
+
+1. where the person carries on a business of transporting passengers or property to or from Canada or between places outside Canada by ship, aircraft, or railway, in the course of so transporting passengers or property;
+
+2. in the course of operating a ship or aircraft by or on behalf of a government of a country other than Canada; or
+
+3. in the course of operating a ship for the purpose of obtaining scientific data outside Canada or for the laying or repairing of oceanic telegraph cables.
+
+29. The phrase “between places outside Canada” means that the transportation of property or passengers does not originate or terminate in Canada, but the conveyance does travel through Canada.
+
+An unregistered non-resident person is commercially engaged in the ferrying of aircraft from the United States to Europe. While en route to Europe, the non-resident lands at a Canadian airport to obtain sufficient fuel for the flight over the Atlantic Ocean. As the non-resident is engaged in transporting the aircraft between places outside Canada, the supply of the fuel is zero-rated.
+
+Sch. VI, Part V, para 2(a)
+
+30. Supplies made to an unregistered non-resident person operating a ship, an aircraft, or a railway where the supplies are not for consumption, use, or supply in the course of transporting passengers or property are not zero-rated. For the supply to be zero-rated, the ship, aircraft, or railway must be in service (i.e., on its way to a destination).
+
+An unregistered non-resident airline is supplied with meals for consumption on board, and parts used to operate the aircraft while the aircraft is transporting passengers or property to a destination outside Canada. The supplies of meals and parts are zero-rated.
+
+### Example 4
+
+A cruise ship stops at a Canadian port while transporting passengers between places outside Canada. During the cruise ship's stay in port, the unregistered non-resident operator of the cruise ship rents bicycles for use by some of its passengers. The supplies of rented bicycles to the operator are not zero-rated because they are not acquired for consumption, use or supply by the operator in the course of transporting passengers.
+
+31. Additional information about services supplied under section 2 of Part V of Schedule VI is available in [GST/HST Memorandum 4.5.3, Exports - Services and Intellectual Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-5-3.html).
+
+Fuel for transporting passengers or property Sch VI, Part V, s 2.1
+
+32. A supply of fuel to a person who is registered for GST/HST at the time the supply is made, is zero-rated where:
+
+1. the person carries on a business of transporting passengers or property to or from Canada or between places outside Canada by ship, aircraft, or railway; and
+
+2. the fuel is acquired by the person for use in the course of so transporting passengers or property.
+
+33. In this case, GST/HST registered operators of ships, aircraft, or railways can purchase supplies of fuel on a zero-rated basis where the fuel is for use in transporting passengers or freight to or from Canada, including journeys both beginning and ending outside Canada.
+
+## Excisable goods
+
+Excisable goods exported without duty Sch VI, Part V, s 3
+
+34. A supply of an excisable good is zero-rated if the recipient exports the good without paying duty, in accordance with the *Excise Act* and the *Excise Act, 2001*.
+
+## Tangible personal property supplied with services performed on temporarily imported tangible personal property
+
+Sch VI, Part V, para 4(b)
+
+35. A supply of any tangible personal property supplied in conjunction with a service (other than a transportation service) in respect of the tangible personal property is zero-rated if the property to which the service relates is:
+
+- ordinarily situated outside Canada;
+
+- temporarily imported into Canada for the sole purpose of having the service performed; and
+
+- exported as soon as is practicable after the service is performed.
+
+A manufacturer produces equipment in Canada that is exported and then returned to the manufacturer in Canada for non-warranty repairs. The manufacturer replaces faulty parts in the equipment with new parts. After the repairs are made, the equipment is then exported again. The new parts supplied with the repair services are zero-rated.
+
+As soon as is practicable after the service is performed
+
+36. Whether the tangible personal property is exported “as soon as is practicable after the service is performed” depends on the type of property involved and the general business practices of the person. Paragraph 9 of this memorandum lists the reasons for a delay in exporting property which the CRA will consider when evaluating whether the property has been exported as soon as is practicable.
+
+37. Additional information about services supplied under section 4 of Part V of Schedule VI is available in [GST/HST Memorandum 4.5.3, Exports - Services and Intellectual Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-5-3.html).
+
+## Tangible personal property supplied with emergency repair services
+
+Emergency
+
+38. The term “emergency” is not defined in the Act but generally refers to an unforeseen event or combination of events that calls for immediate action. The repairs must be of an urgent nature that if not immediately undertaken, could seriously affect the safety of the conveyance, the property, or passengers being transported, and the people working on or about the conveyance. The application of sections 6, 6.1 and 6.2 of Part V of Schedule VI depends on the facts associated with each situation.
+
+### Emergency repairs to conveyances or cargo containers
+
+Sch VI, Part V, s 6
+
+39. A supply made by a person to a non-resident recipient of an emergency repair service, and of any tangible personal property supplied in conjunction with the service, in respect of a conveyance or cargo container that is being used or transported by the person in the course of a business of transporting passengers or property, is zero-rated.
+
+40. The words “conveyance” or “cargo container” are not defined in the Act but are understood to mean the following:
+
+- a “conveyance” is a means of transporting or carrying that includes a vehicle such as a bus, ship, airplane, truck, train, or automobile; and
+
+- a “cargo container” is anything that contains or can contain the lading or freight of a ship, airplane, train, or other vehicle, and is generally a portable metal compartment in which freight is placed for convenience of movement.
+
+41. The carrier receiving the emergency repair service does not necessarily have to be using the conveyance or cargo container in order for the supply to be zero-rated. The conveyance or cargo container may be in the process of being transported by the person. However, the purpose of the conveyance or cargo container must be to transport passengers or property by any mode of transportation, including road, rail, air, and sea.
+
+### Emergency repairs to railway rolling stock
+
+Sch VI, Part V, s 6.1
+
+42. A supply made to an unregistered non-resident person of an emergency repair service (including any tangible personal property supplied in conjunction with the service) in respect of railway rolling stock that is being used in the course of a business to transport passengers or property, is zero-rated.
+
+While transporting an empty tank car from Montréal to Québec City, the domestic carrier notices that one of the wheels of the tank car is damaged. The carrier delivers the empty tank car to a repair facility operated by a firm specializing in repairing railway rolling stock. The repair firm contacts the unregistered non-resident lessor of the tank car and obtains authorization to repair the tank car. Following the repairs, the tank car is returned to the carrier for transportation to Québec City. The parts supplied to the unregistered non-resident, along with the emergency repair service, are zero-rated.
+
+### Emergency repairs to or storage of empty cargo containers
+
+Sch VI, Part V, s 6.2
+
+43. A supply of tangible personal property made to an unregistered non-resident, in conjunction with an emergency repair service, or storage service, in respect of an empty cargo container, is zero-rated if:
+
+- the cargo container is used in transporting property to or from Canada;
+
+- the cargo container is classified under heading No. 98.01 or subheading No. 9823.90 of Schedule I to the *Customs Tariff* (note that while these provisions of the *Customs Tariff* were repealed effective January 1, 1998, they are still relevant for purposes of the GST/HST, and that cargo containers of the type classified under those provisions may now generally be classified under subheading No. 9801.10 in the List of Tariff Provisions to the *Customs Tariff*); and
+
+- the container is at least 6.1 metres in length or has an internal capacity of at least 14 cubic metres.
+
+44. Additional information about services supplied under sections 6, 6.1, and 6.2 of Part V of Schedule VI is available in [GST/HST Memorandum 4.5.3, Exports - Services and Intellectual Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-5-3.html).
+
+## Duty free shops
+
+Sales by duty free shops Sch. VI, Part V, s 11
+
+45. A supply of tangible personal property at a duty free shop, licensed as such under the *Customs Act*, made by a person operating the shop to an individual for export by the individual is zero-rated.
+
+46. All tangible personal property, including excisable goods, sold to an individual for export at a duty free shop is zero-rated under this provision. The documentary requirements for duty free shops are outlined in Canada Border Services Agency [Customs Memorandum D4-3-5, Duty Free Shop - Inventory Control and Sales Requirements](http://www.cbsa-asfc.gc.ca/publications/dm-md/d4/d4-3-5-eng.html).
+
+Sales to duty free shops Sch VI, Part V, s 16
+
+47. A supply of tangible personal property made by way of sale to a duty free shop operator, as inventory that will be sold at the shop to individuals for export by the individuals, is zero-rated. The operator must provide the licence number of the shop to the supplier.
+
+## Tangible personal property supplied in conjunction with services under non-resident’s warranty
+
+Supply under non-resident’s warranty Sch VI, Part V, s 13
+
+48. A supply of tangible personal property made to an unregistered non-resident is zero-rated if:
+
+1. the property is acquired by the non-resident for the purpose of fulfilling the non-resident's obligation under a warranty; or
+
+2. the supply of the property is deemed under the drop shipment rules in section 179 to have been made as a consequence of a transfer of possession to another person of the property in the performance of an obligation of the non-resident under a warranty.
+
+49. Section 13 of Part V of Schedule VI also zero-rates a supply of a service to an unregistered non-resident in relation to tangible personal property or real property, if the service is acquired by the non-resident for the purpose of fulfilling an obligation under the non-resident’s warranty. Additional information about services supplied under section 13 of Part V of Schedule VI is available in [GST/HST Memorandum 4.5.3, Exports - Services and Intellectual Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-5-3.html).
+
+A Canadian supplier provides a replacement part for a refrigerator to an unregistered non-resident who sold the refrigerator to a consumer in Canada. Under the terms of the warranty for the refrigerator, the non-resident must provide the replacement part for the refrigerator to the consumer if it breaks down during the warranty period. The supply of the replacement part to the unregistered non-resident is zero-rated.
+
+50. The warranty must be in writing and may be issued by any non-resident, including a dealer or a manufacturer.
+
+## Dies, fixtures, jigs, moulds, tools
+
+Production equipment sold to unregistered non-residents Sch. VI, Part V, s 14(2)
+
+51. A supply of a die, fixture, jig, mould, or tool, or an interest therein, made to a non-resident who is not registered at the time the supply is made for use directly in the manufacture or production of tangible personal property for the non-resident is zero-rated. The tangible personal property does not have to be exported.
+
+Definitions Sch VI, Part V, s 14(1)
+
+52. The terms die, fixture, jig, mould, and tool are defined as follows:
+
+- “die” means a solid or hollow form used for shaping materials by stamping, pressing, extruding, drawing, or threading;
+
+- “fixture” means a device for holding goods in process while working tools are in operation that does not contain any special arrangement for guiding the working tools;
+
+- “jig” means a device used in the accurate machining of goods in process by holding the goods firmly and guiding tools exactly to position;
+
+- “mould” means a hollow form, matrix, or cavity into which materials are placed to produce goods of desired shapes; and
+
+- “tool” means a device for use in, or attachment to, production machinery that is for the assembly of materials or the working of materials by turning, milling, grinding, polishing, drilling, punching, boring, shaping, shearing, pressing, or planing.
+
+A manufacturer in Canada charges its customers for moulds required in manufacturing a specific product. The moulds remain in Canada but the goods produced with the use of the moulds are sold to both Canadian and American customers. The supplies of the moulds to the non-resident customers are zero-rated provided the moulds are for use directly in the manufacture or production of goods for the non-resident.
+
+## Continuous transmission commodities
+
+### Supplies to unregistered recipients
+
+#### Natural gas exports
+
+Sch VI, Part V, s 15
+
+53. A supply of natural gas made by a person to an unregistered recipient who intends to export the gas by pipeline is zero-rated if:
+
+1. the recipient exports the gas as soon after it is delivered to the recipient by the supplier or, in the case of a supply of a service of storing natural gas or taking up the recipient’s surplus natural gas for a period, after the gas is delivered to the recipient upon expiry of the period, as is reasonable having regard to the circumstances surrounding the exportation and, where applicable, to the normal business practice of the recipient;
+
+2. the gas is not acquired by the recipient for consumption or use in Canada (other than by a carrier as fuel or compressor gas to transport the gas by pipeline) or for supply in Canada (other than to supply natural gas liquids or ethane recovered from the gas at a straddle plant described in subsection 153(6)) before it is exported by the recipient;
+
+3. after the supply is made and before the recipient exports the gas, the gas is not further processed, transformed, or altered in Canada (except to recover natural gas liquids or ethane at a straddle plant or to the extent reasonably necessary or incidental to its transportation); and
+
+4. the supplier maintains evidence satisfactory to the Minister of the exportation of the gas by the recipient.
+
+54. A “straddle plant” is defined in subsection 123(1) to mean a natural gas processing plant devoted primarily to the recovery of natural gas liquids or ethane from natural gas that is transported by pipeline to the plant by a common carrier of natural gas.
+
+55. Refer to paragraphs 15 to 17 of this memorandum and the Appendix, *Evidence of exportation*, for more information on satisfactory evidence of exportation.
+
+56. Additional information about services supplied under section 15 of Part V of Schedule VI is available in [GST/HST Memorandum 4.5.3, Exports - Services and Intellectual Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-5-3.html).
+
+#### Exchange of natural gas liquids for make-up gas
+
+ss 153(6)
+
+57. For the purposes of Part IX of the Act if:
+
+1. natural gas is transported by pipeline to a straddle plant at which natural gas liquids or ethane (each of which is referred to as “natural gas liquids”) is recovered from the natural gas;
+
+2. the residue gas is returned to the pipeline after the recovery along with other natural gas (referred to as “make-up gas”) that is supplied solely to make up for the loss of energy content due to the recovery; and
+
+3. the consideration or a part of the consideration for any supply of the natural gas liquids (or the right to recover the liquids) or any supply of the make-up gas is
+
+    1. in the case of a supply of the natural gas liquids or the right to recover the liquids, the make-up gas, and
+
+    2. in the case of a supply of the make-up gas, the natural gas liquids or the right to recover the liquids,
+
+the value of that consideration or part, as the case may be, is deemed to be nil.
+
+58. When natural gas liquids are recovered from natural gas at a straddle plant, a certain amount of make-up gas is often added to the residue gas to make up for the loss of energy content due to the recovery. This sometimes involves transactions whereby the person holding the rights to the natural gas liquids exchanges the liquids or the rights to them for the make-up gas supplied by the other party to the transaction. The transaction may or may not also involve the payment by either party of monetary consideration.
+
+59. The exchange of natural gas liquids and make-up gas is normally between the owner of the gas and the straddle plant operator, but there may be intermediary transactions as well involving such an exchange. A third party might acquire the rights to the natural gas liquids from the owner of the gas before it is processed and promise to supply the necessary make-up gas after the processing. In this case, there could be more than one exchange to which subsection 153(6) applies: an exchange between the owner of the gas and the third party; and another exchange between the third party and the straddle plant operator who supplies the make-up gas to the third party for supply to the owner.
+
+60. The value of the consideration or part for any supply of the natural gas liquids (or the right to recover the liquids) recovered at a straddle plant is deemed to be nil if the consideration or a part of the consideration is make-up gas. The value of consideration or part for the supply of make-up gas is also deemed to be nil if the consideration is the natural gas liquids recovered at a straddle plant or the right to recover the liquids. If there is any monetary consideration for either supply, tax is calculated in the normal manner.
+
+#### Exchange of continuous transmission commodities
+
+Sch VI, Part V, para 15.1(a)
+
+61. A supply of a continuous transmission commodity made by a supplier (“first seller”) to an unregistered person (“first buyer”) is zero-rated if:
+
+1. the first buyer makes a supply of the commodity to a registrant and delivers it in Canada to the registrant,
+
+2. all or part of the consideration for the first buyer’s supply of the commodity to the registrant is property of the same class or kind delivered to the first buyer outside Canada,
+
+3. between the time the first buyer takes delivery of the commodity and the time it is delivered by the first buyer to the registrant,
+
+    1. the first buyer does not use the commodity (except, in the case of natural gas, to the extent that it is used by a carrier as fuel or compressor gas to transport the gas by pipeline), and
+
+    2. the commodity is not further processed, transformed, or altered (except to the extent reasonably necessary or incidental to its transportation) other than, in the case of natural gas, to recover natural gas liquids or ethane from the gas at a straddle plant,
+
+4. between the time of the first seller’s supply and the time the registrant receives delivery, the commodity is transported only by wire, pipeline, or other conduit, and
+
+5. the first seller maintains evidence satisfactory to the Minister of the first buyer’s supply of the commodity to the registrant.
+
+62. Continuous transmission commodities situated in Canada are frequently exchanged for similar commodities situated outside Canada. For example, natural gas acquired in Canada on a zero-rated basis by an unregistered non-resident who intends to export the gas may instead be sold and delivered in Canada, without having been exported, to a registrant in exchange for the registrant’s gas of the same class and kind already situated outside Canada. Persons may enter into such exchange agreements to minimize transportation costs and reduce shipping time without changing the zero-rated status of the transaction.
+
+63. Generally, section 15.1 ensures that specified cross border exchanges of continuous transmission commodities transported by means of wire, pipeline, or other conduit qualify for zero-rating on a transaction basis rather than on the basis of physical flows.
+
+#### Adjustments to tax
+
+64. Where the registrant who acquires the continuous transmission commodity from the first buyer is not acquiring the commodity for consumption, use, or supply exclusively in the course of commercial activities of the registrant, the supply is an imported taxable supply and the registrant is liable for tax under sections 218 and 218.1, calculated on the value of the consideration for the supply of the commodity.
+
+s 217 “imported taxable supply” para (b.2)
+
+65. The definition of an “imported taxable supply” includes a supply of a continuous transmission commodity if:
+
+- the supply is deemed under section 143 to be made outside Canada to a registrant by a person who was the recipient of a supply of the commodity that was a zero-rated supply included in section 15.1 of Part V of Schedule VI or that would, but for subparagraph (a)(v) of that section, have been included in that section; and
+
+- the registrant is not acquiring the commodity for consumption, use, or supply exclusively in the course of commercial activities of the registrant.
+
+Self-assessment s 218 and subpara 218.1(1)(b)(ii)
+
+66. Division IV of the Act imposes tax on the recipient of an imported taxable supply. Under section 218, the recipient must self-assess the GST, or the federal part of the HST, calculated on the value of the consideration for the supply.
+
+67. In addition, every recipient of an imported taxable supply of continuous transmission commodity, that is delivered or made available to the recipient in a particular participating province where the recipient is either a resident or is a registrant, must self-assess an amount of the provincial part of the HST under subparagraph 218.1(1)(b)(ii), equal to the tax rate for the particular participating province multiplied by the value of the consideration for the supply.
+
+### Supplies to registered persons
+
+Sch VI, Part V, s 15.2
+
+68. A supply of a continuous transmission commodity to a recipient who is registered for GST/HST is zero-rated if the recipient provides the supplier with a declaration in writing that:
+
+1. the recipient intends to export the commodity by wire, pipeline, or other conduit described in
+
+    1. in the case of natural gas, paragraphs 15(a) to (c) of Part V of Schedule VI as outlined in paragraph 53 of this memorandum, and
+
+    2. in any other case, paragraphs 1(b) to (d) of Part V of Schedule VI as outlined in paragraph 3 of this memorandum; or
+
+2. the recipient intends to supply the commodity in the circumstances described in subparagraphs 15.1(a)(i) to (iv) of Part V of Schedule VI as outlined in paragraph 61 of this memorandum.
+
+69. If the recipient subsequently neither exports the commodity as described in paragraph 15.2(a), nor supplies it as described in paragraph 15.2(b), the supply is still zero-rated if the supplier did not know or could not reasonably be expected to have known, at or before the latest time at which GST/HST in respect of the supply would have been payable if the supply were not zero-rated, that the recipient would not supply or export the commodity as required.
+
+#### Adjustments to tax
+
+70. Where the commodity is not exported or supplied as declared in writing by the registered recipient, the supply to the recipient is an imported taxable supply. The recipient is liable for tax under sections 218 and 218.1, and an amount calculated under section 236.1, unless the commodity is acquired for consumption, use, or supply exclusively in the course of the recipient’s commercial activities.
+
+s 217 “imported taxable supply” para (b.3)
+
+71. The definition of an “imported taxable supply” includes a supply, included in section 15.2 of Part V of Schedule VI, of a continuous transmission commodity that:
+
+- is neither
+
+    - exported, as described in paragraph (a) of that section; nor
+
+    - supplied, as described in paragraph (b) of that section, by the recipient; and
+
+- the recipient is not acquiring the commodity for consumption, use, or supply exclusively in the course of commercial activities of the recipient.
+
+Self-assessment s 218 and subpara 218.1(1)(b)(ii)
+
+72. Division IV of the Act imposes tax on the recipient of an imported taxable supply. Under section 218, the recipient must self-assess the GST, or the federal part of the HST, calculated on the value of the consideration for the supply.
+
+73. In addition, every recipient of an imported taxable supply of continuous transmission commodity that is delivered or made available in a participating province, where the recipient is either a resident or a registrant, must self-assess an amount of the provincial part of the HST under subparagraph 218.1(1)(b)(ii), equal to the tax rate for the particular participating province multiplied by the value of the consideration for the supply.
+
+Interest adjustment s 236.1
+
+74. A registrant who receives a zero-rated supply of a continuous transmission commodity that is not subsequently exported or supplied, as required for zero-rating under section 15.2 of Part V of Schedule VI, is required to add an amount to its net tax for the reporting period that includes the earliest day in which tax on the initial supply would have become payable had that supply not been a zero rated supply. This net tax adjustment reflects the cash flow benefit obtained by the registrant in having received a supply on a zero-rated basis.
+
+75. The amount to be added to net tax is equal to interest, at the prescribed rate, calculated on the total amount of tax that would have been payable in respect of the supply. The amount is computed for the period:
+
+- beginning on the earliest day on which tax would have become payable in respect of the supply, and
+
+- ending on the day on or before which the return for that reporting period is required to be filed.
+
+## Floating and mobile homes
+
+Floating and mobile homes exported Sch. VI, Part V, s 24
+
+76. For the purposes of Part V of Schedule VI to the Act, a floating home and a mobile home not affixed to land are each deemed to be tangible personal property and not real property.
+
+77. Therefore, the supply of a floating or mobile home would be zero-rated under section 1 or 12 of Part V of Schedule VI where the conditions of those provisions as previously described have been met.
+
+## Further information
+
+All **GST/HST technical publications** are available on the CRA website at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make an **enquiry**on the **GST/HST**by **telephone**, call one of the following numbers:
+
+- for **general enquiries,** call the **Business Enquiries** line at **1-800-959-5525**;
+
+- for **technical enquiries,**call **1-800-959-8287**.
+
+If you are located in **Quebec**, contact **Revenu Québec** at **1-800-567-4692** or visit their website at [www.revenuquebec.ca](http://www.revenuquebec.ca).
+
+If you are a **selected listed financial institution**(whether or not you are located in Quebec) and require information on the **GST/HST**or**QST**, call one of the following numbers:
+
+- for **general enquiries**, call **1-800-959-5525**;
+
+- for **technical enquiries**, call **1-855-666-5166**.
+
+## Appendix: Evidence of exportation
+
+1. Evidence of exportation must enable the entire shipment of tangible personal property to be traced from its origin in Canada to its destination outside Canada. When the specific destination cannot be determined because of industry practices or because the property is homogeneous, the CRA must be able to ascertain that the property did leave Canada.
+
+2. The following documents will establish evidence satisfactory to the CRA that the tangible personal property has been exported from Canada, whether the supply of the property has been zero-rated or tax has been paid. This list is not exhaustive. Paper documents as well as electronically stored data will be acceptable.
+
+**A. Standard documentation**
+
+- a commercial invoice;
+
+- purchase agreement or billing between the supplier and the customer;
+
+- a copy of the transportation document that describes the delivery service. This could be in the form of a bill of lading issued by or on behalf of a carrier. A bill of lading can also be replaced by non-negotiable documents such as a pro-bill, way-bill, consist sheet, sea waybill, liner waybill, freight receipt, combined or multimodal transport documents. When bills of lading are not used in the relevant trade, the parties should either use the terms “Free Carrier (name point)” or “Freight/Carriage paid to (name point)” or alternatively, stipulate in the F.O.B., C & F. and C.I.F. terms that the seller should provide the buyer with the usual documents or other evidence of the delivery of the goods to the carrier;
+
+- customs broker’s or freight forwarder’s invoice relating to the supply;
+
+- import documentation required by the country where the goods are exported; and
+
+- copy of the document from the foreign regulatory authority if the property has been licensed in the case of automotive vehicles, boats, ships, and aircraft.
+
+For exports to the United States of America:
+
+- embossed copy of U.S. Entry Summary, Form 7501 (this document is invalid unless filled out at the moment of exportation);
+
+- U.S. Customs entry; and
+
+- U.S. Certificate of Disposition of Imported Merchandise (Form 3227).
+
+**B. Documentation for shipments of goods by ship, rail, aircraft, or truck:**
+
+- Shipments via vessel
+
+    - independent inspector’s reports;
+
+    - ullage (loss by evaporation) reports;
+
+    - inspection reports (certificate of quantity and quality loaded);
+
+    - landed certificates and meter tickets at port of discharge;
+
+    - form A6, *General Declaration*;
+
+    - meter tickets; and
+
+    - form E15, *Certificate of Destruction/Exportation*, validated by an authorized officer of the Canada Border Services Agency (CBSA).
+
+- Shipments via rail
+
+    - meter tickets;
+
+    - form E15, *Certificate of Destruction/Exportation*, validated by an authorized officer of the CBSA; and
+
+    - destination receiving reports.
+
+- Shipments via pipeline (assuming that the vendor is always the shipper)
+
+    - pipeline meter tickets or other evidence that the goods were shipped via a continuous outbound freight movement; and
+
+    - pipeline statements, which are usually provided on a monthly basis, detailing movements.
+
+- Shipments of non-motive products by truck
+
+    - invoices for transportation charges from the carrier hired by the customer;
+
+    - destination receiving reports; and
+
+    - form E15, *Certificate of Destruction/Exportation*, validated by an authorized officer of the CBSA.
+
+- Shipments of motive products by truck (this could include gasoline and diesel fuel where sales are F.O.B. the rack or F.O.B. a Canadian origin)
+
+    - petroleum loading tickets;
+
+    - invoices for transportation charges from the carrier hired by the customer; and
+
+    - destination receiving reports.
+
+3. Registrants who may have problems determining the appropriate export documentation for their particular situation may contact the CRA for assistance.

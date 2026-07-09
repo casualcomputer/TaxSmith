@@ -1,0 +1,142 @@
+---
+title: "ARCHIVED - Deemed Disposition and Acquisition on Ceasing to be or Becoming Resident in Canada"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it451r/archived-deemed-disposition-acquisition-on-ceasing-becoming-resident-canada.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Deemed Disposition and Acquisition on Ceasing to be or Becoming Resident in Canada
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-451R**
+
+DATE: March 25, 1987
+
+SUBJECT: INCOME TAX ACT**Deemed Disposition and Acquisition on Ceasing to be or Becoming Resident in Canada**
+
+REFERENCE: Sections 48, 88.1 and 219.1 (also sections 90 to 95, 110.6 and 250, subsections 115(1), 126(2.2) and 159(4), paragraphs 212(1)(h) and 212(1)(j) to (q) of the Act and section 1300 and subsection 5907(13) of the Regulations)
+
+This bulletin replaces and cancels Interpretation Bulletin IT-451 dated June 13, 1980 and IT-451 ADDENDUM dated September 8, 1982. Current revisions are designated by vertical lines.
+
+Introduction
+
+1. This bulletin deals with the deemed disposition rules in subsection 48(1) and section 88.1, the deemed acquisition rules in subsection 48(3), and the rules in subsection 48(5) which include prescribed amounts in the foreign accrual property income of certain foreign affiliates.
+
+2. The purpose of subsection 48(1) is to include in the computation of income of a taxpayer, for a taxation year in which the taxpayer ceases to be resident in Canada, certain capital gains or losses accrued prior to departure from Canada. On the other hand, subsection 48(3) is intended to exclude from the computation of income of a taxpayer who has become a resident of Canada that portion of any capital gain or loss that had accrued prior to becoming resident. Although subsections 48(1) and 48(3) refer to "any property" and "each property", they relate only to capital property since these subsections apply for purposes of subdivision c of Division B of Part I only. Furthermore, section 48 does not apply to deem either an acquisition or disposition for capital cost allowance purposes. Where a foreign affiliate of a taxpayer resident in Canada becomes resident in Canada after November 12, 1981, subsection 48(5) provides rules for the calculation of the affiliate's foreign accrual property income as discussed in 22 and 23 below. In addition, as discussed in 18 to 20 below, section 88.1 provides rules, applicable to certain corporations emigrating after August 28, 1980, which override section 48.
+
+Becoming or Ceasing to be Resident in Canada
+
+3. Whether or not a taxpayer has become or ceased to be resident in Canada is generally a question of fact. Where a person sojourns, (see IT-221R2, paragraph 15) in Canada for 183 days or more in a taxation year, paragraph 250(1)(a) deems that person to have been resident in Canada throughout the year. Where this is the case, the person is considered to have become so resident at the commencement of that year and to have ceased to be so resident at the end of the year so that the provisions of section 48 apply. However, where that person is an individual, the relieving provision of subsection 48(4) (see 11 below) may apply to exempt the individual from the deemed disposition rules of subsection 48(1) (also see IT-221R2 for additional comments on an individual's residence status).
+
+4. Where the taxpayer is a trust, the trust is generally considered to become resident or cease to be resident in Canada when the trustee who has ownership or control over the assets of the trust becomes or ceases to be resident. It is possible that a trust may be subject to the provisions of section 48 by virtue of the trustee becoming or ceasing to be a resident of Canada even though the trust property and/or the beneficiary were already located in or outside Canada.
+
+5. Subject to the provisions of subsection 250(4) which deems residency in Canada throughout a particular taxation year, a corporation is normally resident in the country where its central management and control are located. Therefore the provisions of sections 48 or 88.1 may be applicable where such management and control moves out of or into Canada.
+
+Deemed Disposition on Ceasing to be Resident
+
+6. Where a taxpayer ceases to be resident in Canada at any particular time after 1971 in a taxation year, subject to the comments in 10 and 11 below, subsection 48(1) provides that the taxpayer is deemed to have disposed of certain capital properties owned immediately before that time (i.e., while still resident in Canada) for proceeds equal to fair market value. The taxpayer is also deemed to have reacquired the property immediately after ceasing to be resident in Canada at a cost of the same amount. Ownership is to be interpreted in the broadest sense, in accordance with Canadian judicial interpretation, no matter where the property is located. However, for valuation purposes the fair market value in the country or area of location of the property will usually govern.
+
+7. The taxpayer is required to use the rules of subdivision c of Division B of Part I to calculate taxable capital gains, allowable capital losses and taxable net gains (listed personal property) on property deemed to be disposed of in computing income for Part I tax purposes for the taxation year in which the taxpayer ceased to be resident (see IT-193 Special Release). A capital gain from a deemed disposition under subsection 48(1) cannot be reduced by a reserve under paragraph 40(1)(a).
+
+Capital Gains Deduction
+
+8. In taxation years before 1985 (former) paragraph 48(1)(d) had the effect of exempting an individual, other than a trust, on the first $5,000 of total capital gains from deemed dispositions of property other than listed personal property. To the extent that such capital gains were less than $5,000, the balance of the exemption was applied under (former) paragraph 48(1)(e) to reduce the individual's gains from deemed dispositions of listed personal property. The taxpayer's "gains" from deemed dispositions of listed personal property were the amounts thereof determined under subparagraph 40(1)(a)(i) and not the "net gain" referred to in subsection 41(2). No part of the exemption could be applied against gains arising from actual dispositions of capital property.
+
+9. In computing taxable income after 1984, section 110.6 permits an individual (other than a trust) who was resident in Canada throughout a taxation year to deduct an amount in respect of capital gains of that taxation year. For this purpose, subsection 110.6(5) provides that an individual who was resident in Canada at some time during a particular taxation year and throughout either the immediately preceding or following taxation year is deemed to have been resident in Canada throughout the particular taxation year. As a consequence such an individual who, for purposes other than subsection 110.6, has ceased to be resident in Canada at some time during a taxation year is eligible for the capital gains deduction to the extent provided by section 110.6. (see 12 below).
+
+Exceptions
+
+10. Subsection 48(1) does not apply to
+
+(a) property that would be taxable Canadian property as described in paragraph 115(1)(b) if the taxpayer had not been resident in Canada at any time in the year, unless the taxpayer is an individual (other than a trust) who has elected under paragraph 48(1)(a) to be deemed to have disposed of that property immediately before ceasing to be a resident of Canada (see 12 and 14 below),
+
+(b) property that is deemed to be taxable Canadian property because of an election under paragraph 48(1)(c), (see 13 and 14 below),
+
+(c) a right to receive payments described in paragraph 212(1)(h) and paragraphs 212(1)(j) to (q) (e.g., pension benefits, retiring allowances, payments from registered retirement savings plans, etc.), or
+
+(d) a right to receive a payment of any benefit under the Canada Pension Plan or a provincial pension plan described in section 3 of that Plan.
+
+In addition, as discussed in 18 to 20 below, subsection 48(1) is not applicable to a corporation that was incorporated in Canada where section 88.1 is applicable nor, as discussed in 11 below, to certain properties owned by an individual other than a trust.
+
+Resident in Canada for Short Term Only
+
+11. Subsection 48(4) excludes from the deemed disposition rule of subsection 48(1) any property owned by an individual (other than a trust) if the taxpayer either owned the property immediately before becoming resident or acquired it by inheritance or bequest after becoming resident, provided that during the 10-year period immediately before ceasing to be a resident the taxpayer was not resident in Canada for periods totalling more than 60 months. Property acquired in exchange for property owned when the individual last became resident, as may be the case as a result of a share exchange under section 85.1 or under the rollover provisions of section 85, is not excluded by subsection 48(4) and is deemed to be disposed of when the individual subsequently ceases to be resident. Where an individual who sojourned in Canada is deemed to be resident in Canada under paragraph 250(1)(a) throughout a calendar year, the full calendar year, as opposed to the actual period of sojourning, is required to be included in determining the 60-month period referred to in subsection 48(4).
+
+Election to Include Property
+
+12. For 1985 and subsequent taxation years an individual (other than a trust) who elects under paragraph 48(1)(a) in prescribed manner and within a prescribed time is deemed to have disposed of property described in 10(a) above immediately prior to departure from Canada for proceeds of disposition equal to the fair market value of the property immediately before the departure. By making such an election an individual may claim a capital gains deduction in respect of capital gains accrued at the time of departure. The capital gains deduction is not available to a non-resident except to the extent described in 9 above. Procedures for making an election under paragraph 48(1)(a) have not yet been prescribed.
+
+Election to Exclude Property
+
+13. A Canadian corporation or an individual other than a trust may elect under paragraph 48(1)(c) to exclude from the deemed disposition rule of subsection 48(1) any property to which that rule would otherwise apply. The election is made on form T2061 which must be filed not later than the time when the taxpayer is required under section 150 to file an income tax return for the year of ceasing to be resident. Regulation 1300 sets out the applicable requirements. Security acceptable to the Minister is required to be furnished (see 15 below). Subsection 48(2) deems any property in respect of which such an election is made to be taxable Canadian property from the time immediately after the taxpayer ceased to be resident until the earlier of the date that the property is sold and the date on which the taxpayer next becomes resident in Canada.
+
+14. Where a taxpayer has elected under paragraph 48(1)(a) or (c) on one or more properties, subsection 48(1) limits the allowable capital losses from deemed dispositions of property other than listed personal property to the lesser of
+
+(a) the aggregate of such allowable capital losses, and
+
+(b) the amount deemed by subsection 48(1) to be the aggregate of the taxable capital gains from deemed dispositions of property other than listed personal property.
+
+This limitation prevents a taxpayer from electing in respect of property (other than listed personal property) under paragraph 48(1)(a) or
+
+(c) in such a manner as to defer deemed capital gains while claiming deemed capital losses. There is no similar provision in respect of listed personal property because losses from that source are not deductible except against gains from listed personal property.
+
+Acceptable Security
+
+15. An election under paragraph 48(1)(c) or subsection 159(4) (see 16 below) requires that the taxpayer furnish to the Minister security acceptable to the Minister for payment of any tax the payment of which is deferred by the election. Where such an election is to be made, the taxpayer should contact the local District Taxation Office to determine the security necessary in respect of the deferral.
+
+Election to Pay Tax by Instalments
+
+16. A taxpayer may elect under subsection 159(4) to pay the Part I tax arising from deemed dispositions under subsection 48(1) in up to six annual instalments, with interest, provided the Minister is furnished with acceptable security (see 15 above). The election must be made on form T2074 and be filed on or before the day when the taxpayer's last income tax return as a resident of Canada is required to be filed. Regulation 1301 sets out the requirements applicable to such elections.
+
+Foreign Tax Deduction
+
+17. Where a taxpayer who is not resident in Canada disposes of property that was deemed by subsection 48(2) to be taxable Canadian property of the taxpayer and the gain is taxed in a foreign country as well as in Canada, the Part I tax otherwise payable may, within the limitations of subsection 126(2.2), be reduced on account of foreign taxes paid.
+
+Corporate Emigration
+
+18. Section 48 does not have application in respect of a taxation year to which section 88.1 applies. Section 88.1 is somewhat similar to section 48 except that it deems a disposition of each property rather than certain capital properties and applies only to a corporation that was incorporated in Canada and was resident in Canada at some time and that has, after August 28, 1980, either
+
+(a) been granted articles of continuance (or similar corporate constitutional documents) in a jurisdiction outside Canada, or
+
+(b) become resident in a jurisdiction outside Canada and as a consequence becomes exempt from Part I tax on its subsequent income from non-Canadian sources by virtue of any Act of Parliament or anything approved, made or declared to have the force of law thereunder (generally a tax convention).
+
+19. The corporation's taxation year is deemed to have ended immediately before the particular time that either of the two events described in 18 above occurs and a new taxation year is deemed to have commenced at the particular time. The corporation is deemed to have disposed of all the property that it owned immediately before the particular time for proceeds equal to fair market value at the time of such disposition. Unlike section 48, this rule applies for all purposes of the Act, including recapture of capital cost allowances. Such property is deemed to have been reacquired by the corporation immediately after the particular time at a cost equal to those deemed proceeds of disposition. The corporation is also deemed not to be a Canadian corporation at the particular time and all subsequent times. However, the corporation will continue to be a resident of Canada if the conditions described in subsection 250(4) are met, and will be subject to the tax consequences that ensue as a result of such residency.
+
+20. Where a taxation year of a corporation is deemed by section 88.1 to have ended, section 219.1 provides that a tax of 25% shall be paid on the amount by which the deemed proceeds of disposition pursuant to the provisions of section 88.1 exceed the aggregate of
+
+(a) the paid-up capital of all the issued and outstanding shares of the corporation immediately before the deemed end of its taxation year, and
+
+(b) all amounts outstanding at the deemed year end, excluding dividends, of debts owing by the corporation, and other obligations of the corporation to pay an amount.
+
+Demand Payment of Taxes
+
+21. Where the Minister suspects that a taxpayer is about to leave Canada, he has the power under section 226 to demand payment of all taxes, interest and penalties before the day otherwise fixed for payment. If the taxpayer fails to comply with the demand, the Minister may direct that the taxpayer's goods and chattels be seized.
+
+Corporate Immigration
+
+22. Where, at any time after November 12, 1981, a corporation becomes resident in Canada and immediately before that time it was a foreign affiliate (as defined in paragraph 95(1)(d)) of a taxpayer resident in Canada, subsection 48(5) provides that for the purposes of sections 90 to 95
+
+(a) the corporation's taxation year is deemed to end immediately before that time,
+
+(b) the corporation is deemed to have commenced a new taxation year at that time,
+
+(c) the corporation is deemed to have been a controlled foreign affiliate, as defined in paragraph 95(1)(a), of the taxpayer at the end of the taxation year described in (a) above, and
+
+(d) the amounts determined under subsection 5907(13) of the Regulations are to be included in the corporation's foreign accrual property income for that year.
+
+23. In essence, subsection 48(5) and Regulation 5907(13) provide that certain amounts that accrued to the foreign affiliate prior to becoming resident in Canada are deemed to be foreign accrual property income of a controlled foreign affiliate. Pursuant to the provisions of section 91 such amounts are therefore taxable in the hands of a shareholder resident in Canada in the shareholder's taxation year in which the foreign affiliate's taxation year is deemed to end.
+
+Deemed Acquisition on Becoming Resident
+
+24. Subject to 25 below, a taxpayer who becomes a resident of Canada at any particular time in a taxation year is deemed under subsection 48(3) to have acquired at that time each property owned at a cost equal to fair market value at that time. Property that is "taxable Canadian property" as described in paragraph 115(1)(b), or deemed to be taxable Canadian property because of an election under paragraph 48(1)(c), is excepted from subsection 48(3).
+
+25. A taxpayer who became resident before 1972 and disposes of property after 1971 will compute capital gains or losses from original cost or V-day value, as the case may be. The same rule applies to a taxpayer who becomes a resident of Canada after 1971 and who later disposes of property that was excepted from the deemed acquisition rule (e.g., "taxable Canadian property").
+
+26. Subsection 48(3) may apply to property that is cash located in a country where foreign exchange restrictions are in effect. Where this is so, it is the Department's view that in determining the fair market value of such blocked currency, the currency should be valued at its Canadian dollar equivalent at the normal exchange rate prevailing at the time the taxpayer becomes resident in Canada, discounted by a factor for premiums or other amounts which would be payable on conversion at that time even though the currency is, in fact, not converted.

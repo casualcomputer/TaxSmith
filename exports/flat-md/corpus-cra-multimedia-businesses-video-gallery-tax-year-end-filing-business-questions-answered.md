@@ -1,0 +1,154 @@
+---
+title: "Tax Year-End Filing for Businesses: Your Questions Answered"
+gallery_title: "Webinar: Tax Year-End Filing for Businesses: Your Questions Answered"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/businesses-video-gallery/tax-year-end-filing-business-questions-answered.html
+video_source: https://www.youtube.com/watch?v=WbynKwZt494
+last_modified: 2021-03-16
+---
+
+# Tax Year-End Filing for Businesses: Your Questions Answered
+
+## Transcript
+Hello and welcome to Tax Year-End Filing for Businesses: Your Questions Answered. I’m Mathew, your host for today.
+### Introduction – Tax Year-End Filing for Businesses: Your Questions Answered
+Let’s get started.
+If you joined us for the previous webinar, Taxation Year-End Filing for Businesses, you probably noticed a very busy Q&A box.
+### Q&As – Taxation Year-end Filing for Businesses
+We received an extraordinary number of questions in our last webinar, coming in at a rate of one per second. It was impossible to field and answer very many. Today, we will answer more of them.
+Your questions focussed on the following areas, topics and forms:
+- Claiming expenses while working from home
+- T4/T4A filing
+- CEWS, CERB and T4 (codes 57-60)
+- 10% Temporary Wage Subsidy and the PD27 form
+Let's have a look at some of your questions now.
+### Q&As – Claiming expenses while working from home
+#### Our first question is: How do we claim working from home expenses during this time for employees and employers?
+The answer has several parts.
+Eligible employees working from home in 2020 due to the COVID-19 pandemic can claim these expenses in one of two ways: by using the flat rate method of $2 for each day they worked from home up to a maximum of $400 OR by using the detailed method and completing the T2200 short form, which is a simplified method introduced by the CRA for 2020 due to the pandemic.
+With the temporary flat rate method, employees do **not** have to:
+- calculate the size of their work space,
+- keep supporting documents or
+- get Form T2200 or T2200S completed and signed by their employer.
+Employees will complete option 1 on form T777S by entering on line 9939 the amount of the claim to a maximum of $400. The amount of the claim should also be entered on line 22900 of their tax return. They must attach a copy of the T777S form to their 2020 Income tax and benefit return.
+Eligible employees working from home in 2020 due to the COVID-19 pandemic can alternatively use the detailed method to claim home offices expenses.
+With this method:
+- Employees can claim the actual amounts they paid, supported by documents. Lists of eligible expenses, such as utilities and some maintenance are included at Canada.ca.
+- Employees must have a completed and signed form T2200S from their employer. They do not have to attach form T2200S to their return, but they must keep it in case the Canada Revenue Agency asks to see it later.
+- Employees must complete Option 2 on form T777S and enter the result from line 9368 on line 22900 of their return
+- Employees must attach a copy of the T777S form with their 2020 income tax and benefit return.
+Eligible employees claiming use of home expenses as well as other employment expenses, for example, motor vehicle expenses, due to their employment contract, or filing a 2019 or prior tax return must use form T777 to claim employment expenses.
+They must have a completed and signed form T2200 from their employer.
+To summarize, employers:
+Complete form T2200S for employees working from home in 2020 due to the COVID-19 pandemic that chose to use the detailed method to calculate their home office expenses.
+It's important to note that not everyone is eligibleto use the T2200s form.
+Employers must complete a standard T2200 form
+- if employees are required under their contract of employment to use a portion of their home for work
+- if employees were required to pay for other employment expenses, for example, motor vehicle expenses
+If you are self-employed and want to claim business use of home expenses, please visit Business-use-of-home-expenses on Canada.ca.
+### Q&As – T4/T4A filing
+#### Question 2: I hired a self-employed individual to help out with my personal residences or needs. Do I need to fill out a T4 and T4A? If so, do I need a second payroll account for both?
+The answer:
+T4s are for employees and T4As are for self-employed individuals/sub-contractors Fill out T4 slips for employees who received remuneration from you during the year if one of the following applies:
+- you had to deduct CPP/QPP contributions, EI premiums, PPIP premiums, or income tax from the remuneration
+- the remuneration was more than $500
+Fill out T4A slips for self-employed workers if one of the following applies:
+- the total of all payments for services, in the calendar year,was more than $500
+- you deducted tax from any payment
+A payroll account is needed for T4s and T4As. The account would be set up in the name of the person/entity paying the remuneration. T4s and T4As can be reported under the same payroll account, therefore a second payroll account is not necessary.
+To determine if the person is an employee or self-employed, consider:
+- the level of control the payer has over the worker's activities
+- whether the worker or payer provides the tools and equipment
+- whether the worker can subcontract the work orhire assistants
+- the degree of financial risk the worker takes, the degree of responsibility for investment and management that the worker holds
+If you are unsure of the relationship, you can request a CPP/EI ruling which will confirm whether a worker is an employee or self-employed.
+#### Question 3: I am a Sole Proprietor and paid an independent contractor about $1,800 for labour and supplies. Do I need to submit a T4A?
+There are three slips that may need to be filed. These are the T5018, the T4A, or the T4A-NR. Which slip should be used depends on several deciding factors:
+If the payer's primary source of business income (more than 50%) is from construction activities, and you make payments to subcontractors for construction services, andif the payee is a resident of Canada, T5018s are issued to sub-contractors for construction services, including any GST/HST and provincial/territorial sales tax:
+- Goods-only payments do not have to be reported.
+- Mixed service and goods payments are reported if there is a total annual service component of $500 or more
+- Complete one slip for the reporting period for each subcontractor
+A T5018 is not required if the payer only made payments to non-resident subcontractors (payees). Contract payments are reported on a T4A-NR information return which consists of a T4A-NR summary and slip, if the sub-contractor is a non-resident of Canada for services provided inside Canada. T4As are issued to all other sub-contractors, assuming the payee is a Resident of Canada, and the payer is not a federal department, agency, or Crown corporation,for services, if at least one of the following applies:
+- The total of all payments in the calendar year was more than $500
+- Income Tax was deducted from the payment
+Enter any fees or other amounts paid for services in Box 048 – Fees for services. Do not include GST/PST/HST paid to the recipient for these services. A T4A is not required if the payer only made payments to non-resident subcontractors (payees). Payments to non-resident subcontractors are instead reported on a T4A-NR.
+#### Question 4: For any payments made as a management fee, is a T4A required?
+The answer:
+It depends.
+If management fees represent payments for normal duties carried out by a shareholder/director/officer, they are consequently considered to be employment income and are to be reported on a T4.
+If on the other hand the management fees are payments for duties outside the normal scope of a director/shareholder/officer, they are self-employed earnings and should be reported on a T4A.
+The determining factors, which characterize the capacity in which the management fees were paid, will determine whether there is a contract **of**service (T4-employment income) or a contract **for**service (T4A-self-employed earnings).
+### Q&As – Questions on CEWS, CERB and T4 (codes 57-60)
+#### Question 5: What changes were made to the T4? What do these changes mean?
+The answer:
+For the tax year 2020, in addition to reporting employment income in Box 14 or using Code 71, use new ‘other information' codes when reporting employment income and retroactive payments in the following periods:
+- Code 57: Employment income – March 15 to May 9
+- Code 58: Employment income – May 10 to July 4
+- Code 59: Employment income – July 5 to August 29
+- Code 60: Employment income – August 30 to September 26
+Eligibility criteria for the Canada Emergency Response Benefit, the Canada Emergency Wage Subsidy and Canada Emergency Student Benefit are based on employment income for a defined period.
+The new requirement means that all employers should report income and any retroactive payments, including cash and non-cash taxable benefits, made during these periods, regardless of whether or not they applied for and received CEWS.
+#### Question 6: If an employee was not paid in the newly stipulated periods, should we fill in as zero for boxes 57 to 60?
+The answer:
+No zero is required, if you do not have to enter an amount in a box, simply leave the box blank
+#### Question 7: If staff were hired in March and worked from March to April but were paid in May, in which box should I note the amounts?
+The answer:
+For the tax year 2020, in addition to reporting employment income in Box 14 or using Code 71, use codes 57-60 when reporting employment income and retroactive payments. Employment income paid on or between March 15, 2020 and May 9, 2020 would be reported using Code 57, in addition to reporting the employment income in Box 14 or using Code 71.
+Employment income paid on or between May 10, 2020 and July 4, 2020 would be reported using Code 58, in addition to reporting the employment income in Box 14 or using Code 71.
+#### Question 8: On the T4 slips there are boxes 57, 58, 59, 60, which are for the wage subsidy. I have two employees that are reporting numbers in all boxes. However, I have some that have numbers only in two boxes or three. Should I report zero in boxes that have no subsidy?
+The answer:
+Codes 57 to 60 are to be completed by the employer, with earned income **paid**by the employer to the employee, within the time frames, for each Code. If you do not have to enter an amount in a box, do not put zero - simply leave the box blank.
+#### Question 9: Since CEWS is reported on the accrual method, should the boxes 57-60 then also be reported in this way or can it be done on the cash basis?
+The answer:
+CEWS is claimable based on when income is earned. However, T4 reporting is done on a cash basis. Boxes 57-60 should be filled out based on when amounts were paid to employees. Please report using Code 57 to Code 60, based on the date the income was paid, as follows:
+- Code 57: Employment income – March 15 to May 9
+- Code 58: Employment income – May 10 to July 4
+- Code 59: Employment income – July 5 to August 29
+- Code 60: Employment income – August 30 to September 26
+To illustrate, if an employee worked from March 15 to May 9 but was only paid on June 15, these earnings must be listed using Code 58.
+#### Question 10: We are on a monthly payroll, where payment is made on the last day of the month. How would you record the breakdown of employment income for Code 57-60 for COVID-19 pay periods? Do you divide the monthly salary by 4 weeks then multiply the weekly salary by the number of weeks in each period?
+The answer:
+While CEWS is claimable on an earned basis, T4 reporting is based on when amounts are paid to employees. If employees are paid on a monthly basis, the amounts should be reported based on the period the payday falls within.
+For example, if an employee works throughout the month of May, and is paid $2000 on May 30th, the entire $2000 should be reported using Code 58.
+#### Question 11: Our organization did not apply for the CEWS. Do we need to do we need to fill out codes 57-60 on the T4 slips?
+The answer is Yes.
+Codes 57-60 are used to help verify claims made through CEWS, CERB, and CESB. As such, all employers should report income and any retroactive payments, including cash and non-cash taxable benefits, made during these periods, regardless of whether or not they applied for and received CEWS.
+### Q&As – Questions on 10% Temporary Wage Subsidy and the PD27 form
+#### Question 12: Must an employer file a PD27 even if no deductions to income tax were taken?
+The answer:
+A PD27 is used when an employer takes advantage of the Temporary Wage Subsidy (TWS).
+Only an employer electing not to participate in both the CEWS and TWSdoes not need to submit Form PD27.
+#### Question 13: Our organization applied the Temporary Wage Subsidy or TWS through a reduction in remitted payroll taxes. How should we report this in our T4 summary?
+The answer:
+Include the amount of the claimed Temporary Wage Subsidy on Line 82 of the T4 summary as this amount is part of the remittances made to CRA in 2020.
+If the Temporary Wage Subsidy amount is not included in the summary, it may generate a PD4R, a Tax deduction, Canada Pension Plan and Employment Insurance Discrepancy Notice.
+#### Question 14: Do we claim the 10% wage subsidy as income if we receive it?
+The answer:
+If you take advantage of the Temporary Wage Subsidy, you must report the total subsidy mount as income on your tax return in the same year you reduced your remittances.
+#### Question 15: Is it required for businesses to apply a 10% subsidy?
+The answer:
+No, an employer does not need to apply for the 10% Temporary Wage Subsidy before they can reduce their remittances.
+However, an employer who has reduced their remittances under the TWS should file the PD27 form to reconcile the subsidy on their payroll account.
+If you are an eligible employer but did not reduce your payroll remittances, you can still calculate the TWS on remuneration paid from March 18 to June 19, 2020, and the CRA will pay the amount of the subsidy to you at the end of the year or transfer it to your next year's remittance.
+#### Question 16: Under ‘Rep a client' under the payroll section there is a tab for the 10% Temp Wage Subsidy. Is this the same as the PD27 form so that I can fill it out there or do I have to do the PD27 and then send it in?
+The answer is yes, it is the same.
+Employers can also submit their Form PD27 using MyBA or Represent a Client (RAC). Once your form is submitted, you will receive a confirmation that the form has been submitted.
+#### Question 17: If you elected to receive the CEWS but not the Temporary Wage Subsidy, should you still file a PD27?
+The answer is yes. You must fill out the PD27.
+If you are eligible for the TWS but you want to participate only in the CEWS, you can make a special election for your TWS to be equal to 0% of the remuneration you pay. To make the election, enter March 18 to June 19, 2020 as the pay period and enter "0" in Part D of PD27 for the dollar amount and percentage of the subsidy you are claiming.
+If you do not enter "0" in Part D, you will be considered to have taken advantage of the full 10% TWS and your CEWS claim may be reduced and recovered if necessary. Only an employer electing not to participate in both the CEWS and TWS does not need to submit Form PD27.
+#### Question 17: If you elected to receive the CEWS but not the Temporary Wage Subsidy, should you still file a PD27?
+The answer is yes. You must fill out the PD27.
+If you are eligible for the TWS but you want to participate only in the CEWS, you can make a special election for your TWS to be equal to 0% of the remuneration you pay.
+To make the election, enter March 18 to June 19, 2020 as the pay period and enter "0" in Part D of PD27 for the dollar amount and percentage of the subsidy you are claiming. If you do not enter "0" in Part D, you will be considered to have taken advantage of the full 10% TWS and your CEWS claim may be reduced and recovered if necessary.
+Only an employer electing not to participate in both the CEWS and TWS does not need to submit Form PD27. The amount of the Temporary Wage Subsidy is taxable, and must be reported as income by the employer in the year it is received. The Canada Emergency Wage Subsidy is also taxable. You must include the amount of CEWS you receive on your Annual Return of Income, such as the Corporation Income Tax Return or Partnership Return when calculating your taxable income.
+#### Question 19: Should box 82 be used for TWS received?
+The answer:
+Yes, include the amount of the claimed TWS on Line 82 of the T4 summary as this amount is part of the remittances made to the CRA in 2020.
+### Thanks!
+Tax administration is as complex as life itself. If the content today doesn't quite fit your situation, please:
+- Visit our web site
+- Call CRA's business enquiries line at 1-800-959-5525
+- Visit Canada.ca/cra-liaison-officer to get free tax help from an liaison office
+- You can also go to canada.ca/cra-videos where you'll find all our business webinars.
+We've come to the end of our webinar.
+Thanks for joining me today. I hope it's been helpful. Stay tuned for more webinars in the coming months! Good bye.

@@ -1,0 +1,50 @@
+---
+title: "HST and First Nations in Prince Edward Island"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-159/hst-first-nations-prince-edward-island.html
+last_modified: 2025-11-21
+---
+# HST and First Nations in Prince Edward Island
+
+GST/HST Info Sheet GI-159 March 2013
+
+The Government of Prince Edward Island has proposed a harmonized sales tax (HST) that would come into effect on April 1, 2013. The HST rate in Prince Edward Island would be 14% of which 5% would represent the federal part and 9% the provincial part.
+
+### How will the HST affect sales to Indians Footnote 1, Indian bands, and band-empowered entities in P.E.I.?
+
+The HST would apply in the same way as the GST, and its application would be consistent with the provisions of the *Indian Act*. Goods and services sold to Indians, Indian bands, and band-empowered entities that are currently relieved of the GST would also be relieved of the HST. Goods and services sold in P.E.I. to Indians, Indian bands and band-empowered entities that are currently subject to the GST would generally also be subject to the HST.
+
+### How will the HST affect purchases of goods by Indians, Indian bands, and band-empowered entities in P.E.I.?
+
+The HST would not apply to goods acquired on a reserve in P.E.I. by Indians, Indian bands, and unincorporated band-empowered entities. Goods bought off a reserve by Indians, Indian bands, and unincorporated band-empowered entities would be relieved of tax if the goods are delivered to a reserve by the vendor or vendor's agent. In both cases, appropriate documentation supporting the relieved sale must be provided to the vendor. If the goods are being purchased on or off a reserve by an incorporated band-empowered entity, they will also have to be acquired for band management activities for HST relief to apply. Generally, where goods bought in P.E.I. off a reserve are not delivered to a reserve in P.E.I., the HST would apply. Refer to GST/HST Info Sheet GI-160, *Prince Edward Island: Transition to the Harmonized Sales Tax – Goods*, for more information on the application of the HST.
+
+### How will the HST apply to services acquired by Indians, Indian bands, and band-empowered entities in P.E.I.?
+
+Services performed totally on a reserve that are acquired by an Indian would be relieved of the HST. Generally, services performed in P.E.I. off a reserve would be subject to the HST. Refer [GST/HST Info Sheet GI-135, Prince Edward Island: Transition to the Harmonized Sales Tax – Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-135.html) for more information on the application of the HST.
+
+Services acquired on or off a reserve by an Indian band or band-empowered entity for band management activities would not be subject to the HST. However, tax relief would not apply at the point of sale for transportation, short-term accommodation, meals, or entertainment purchased off a reserve. Bands or band-empowered entities would have to file a general rebate application to recover the GST/HST paid on these purchases if they are made in the course of band management activities or for real property located on a reserve.
+
+### How will the GST/HST apply to goods and services acquired by Indians, Indian bands, and band-empowered entities outside P.E.I.?
+
+The introduction of the HST in P.E.I. will not change how the GST/HST is applied to goods and services acquired by Indians, Indian bands, and band-empowered entities outside of P.E.I. Goods and services sold to Indians, Indian bands, and band-empowered entities outside of P.E.I. that are currently relieved of the GST/HST will continue to be relieved of these taxes. Goods and services sold to Indians, Indian bands, and band-empowered entities that are currently subject to the GST/HST will remain subject to these taxes.
+
+### What is a point-of-sale rebate and what tax relief does it provide?
+
+The P.E.I. government has announced targeted tax relief of the provincial part of the HST on certain qualifying goods. Where the person purchases a qualifying good the supplier may provide the person with a point-of-sale rebate. The supplier would credit the provincial part of the HST and only collect the 5% federal part of the HST (equivalent to the GST). The P.E.I. government has designated the following goods as being qualifying goods eligible for point-of-sale rebates:
+
+- books
+
+- children's clothing
+
+- children's footwear
+
+- heating oil
+
+### Where to get more information?
+
+For additional information on the tax relief available to First Nations persons and First Nations organizations, please see [GST/HST Technical Information Bulletin B-039, GST/HST Administrative Policy – Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html), which summarizes the CRA's administrative policy respecting GST/HST relief for Indians, Indian bands and band-empowered entities.
+
+Please note that the tax relief described in this info sheet does not apply to First Nations' taxes imposed by Aboriginal governments and administered by the CRA as the Indian Act tax exemption does not apply to such taxes. As well, this info sheet does not apply to Aboriginal governments and their citizens that have signed final or self-government agreements that end Indian Act tax relief (see [GST/HST Notice238, First Nations Having a Self-Government Agreement Ending Indian Act Tax Relief - Determining Tax Relief for Indian Members Who Are Not Citizens](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice238.html)).
+
+This info sheet does not replace the law found in *the Excise Tax Act* (the Act) and its regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate regulation, or contact any CRA GST/HST rulings office for additional information. A ruling should be requested for certainty in respect of any particular GST/HST matter. [Pamphlet RC4405, GST/HST Rulings – Experts in GST/HST Legislation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4405.html), explains how to obtain a ruling and lists the GST/HST rulings offices. If you wish to make a technical enquiry on the GST/HST by telephone, please call 1-800-959-8287. If you are located in Quebec and wish to make a technical enquiry or request a ruling related to the GST/HST, please contact Revenu Québec at 1-800-567-4692. You may also visit the [Revenu Québec Web site](http://www.revenuquebec.ca/en/default.aspx) to obtain general information.
+
+All technical publications related to GST/HST are available on the CRA Web site at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).

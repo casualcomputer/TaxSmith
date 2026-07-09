@@ -1,0 +1,971 @@
+Title: CANCELLED - Lifelong Learning Plan (LLP)
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4112/lifelong-learning-plan.html
+Corpus path: corpus/cra/forms-publications/publications/rc4112/lifelong-learning-plan.md
+Document type: publication
+Last modified: 2026-04-01
+
+# CANCELLED - Lifelong Learning Plan (LLP)
+
+RC4112(E) Rev. 24
+
+The CRA's publications and personalized correspondence are available in braille, large print, e-text, and MP3. For more information, go to [About multiple formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html) or call **1-800-959-8281**.
+
+La version française de ce guide est intitulée Régime d’encouragement à l’éducation permanente (REEP).
+
+Unless otherwise stated, all legislative references are to the Income Tax Act or, where appropriate, the Income Tax Regulations.
+
+## Table of contents
+
+- [Definitions](#P107_4073)
+
+- [Chapter 1 – Participating in the LLP](#Chpt_1)
+
+    - [Eligibility requirements for the LLP](#P142_8779)
+
+    - [Conditions the LLP student has to meet](#P147_9763)
+
+          - [Qualifying educational program](#P156_10934)
+
+          - [Designated educational institution](#P160_11592)
+
+          - [Full-time registered student](#P162_11915)
+
+          - [Enrollment on a part-time basis](#P164_12475)
+
+          - [If the LLP student does not enrol in the program on time](#P171_13983)
+
+    - [How much you can withdraw](#P174_14594)
+
+    - [Restrictions on withdrawals](#Rest_with)
+
+    - [When you can make LLP withdrawals](#when_llpwithdrawals)
+
+    - [How to make an LLP withdrawal](#P183_16086)
+
+          - [Filing an income tax and benefit return](#P186_16874)
+
+    - [How the withdrawal from your RRSP affects your RRSP deduction](#P190_17955)
+
+    - [If the LLP student leaves the educational program](#P269_20271)
+
+    - [Cancelling an LLP withdrawal](#LLP_wthdrwll_cnclld)
+
+          - [How to cancel your LLP withdrawal](#P281_21956)
+
+          - [Due date for cancellation payment](#P290_23328)
+
+    - [Questions you may have](#P298_24443)
+
+          - [How often can I participate in the LLP?](#P299_24465)
+
+          - [Can my spouse or common law partner and I participate in the LLP at the same time?](#P301_24754)
+
+          - [Can I make LLP withdrawals from more than one RRSP?](#P307_25271)
+
+          - [Can I make LLP withdrawals for other purposes?](#P309_25674)
+
+          - [Can I participate in the LLP and in the Home Buyers’ Plan at the same time?](#P311_25981)
+
+- [Chapter 2 – Repaying your withdrawals](#P316_27011)
+
+    - [When and how much to repay](#P320_27302)
+
+    - [How to make your repayments](#P362_31252)
+
+    - [Contributions you cannot designate](#P368_32687)
+
+          - [If you want to repay earlier](#P376_33754)
+
+          - [If you repay less than the amount required](#_Ref425217829)
+
+          - [If you repay more than the amount required for a year](#_Ref23057775)
+
+    - [Situations when the repayments have to be made in less than 10 years](#stns_rpmnts)
+
+          - [If the person who made the LLP withdrawal dies](#P459_37016)
+
+          - [LLP election on death](#_Toc17107795)
+
+          - [If you become a non-resident of Canada](#P480_41606)
+
+          - [Your options in the year you turn 71](#P493_43481)
+
+- [Appendix – Effect of LLP on RRSP deductions](#P499_44715)
+
+- [Digital services](#nln_srvcs)
+
+    - [Digital services for individuals](#digital)
+
+    - [My Account](#myaccount)
+
+    - [Receive your CRA mail online](#_Toc17107803)
+
+    - [Electronic payments](#lctrnc_pmnts)
+
+- [Related forms and publications](#_Toc17107805)
+
+    - [Forms](#_Toc17107806)
+
+    - [Guide](#_Toc17107807)
+
+- [For more information](#more_information)
+
+    - [If you need help](#contact_us)
+
+    - [Direct deposit](#_Toc17107810)
+
+    - [Forms and publications](#forms)
+
+    - [Electronic mailing lists](#mailing_lists)
+
+    - [Tax Information Phone Service (TIPS](#taxinfo))
+
+    - [Teletypewriter (TTY) and Video Relay Service(Canda VRS) users](#tty)
+
+    - [CRA service feedback program](#_Toc17107815)
+
+          - [Service complaints](#_Toc17107817a)
+
+          - [Reprisal complaints](#_Toc17107817c)
+
+    - [Due dates for Individual returns](#due_date)
+
+    - [Cancel or waive penalties and interest](#waive)
+
+## Find out if this guide is for you
+
+Use this guide if you want information about participating in the Lifelong Learning Plan (LLP).
+
+The LLP allows you to withdraw amounts from your registered retirement savings plans (RRSPs) to finance training or education for you or your spouse or common-law partner. You do not have to include the withdrawn amounts in your income, and the RRSP issuer will not withhold tax on these amounts.
+
+Over your repayment period (generally 10 years), you have to repay to your RRSP,PRPP or SPP, the amounts you withdrew under the LLP. Any amount that you do not repay when due will be included in your income for the year it was due.
+
+The [Definitions](#P107_4073) section gives general explanations of the terms we use. [Chapter 1](#Chpt_1) gives information on how the LLP works. [Chapter 2](#P316_27011) explains how to repay withdrawals under the LLP.
+
+## Definitions
+
+These definitions provide a general explanation of the terms that we use in this guide.
+
+**Annuitant** – generally, an annuitant of an RRSP is the person for whom the plan provides a retirement income.
+
+**Common-law partner** – a person who is **not your spouse**, with whom you are living in a conjugal relationship, and to whom at least **one**of the following situationsapplies. The person:
+
+- has been living with you in a conjugal relationship and this current relationship has lasted for at least 12 continuous months**Note** In this definition, “12 continuous months” includes any period that you were separated for less than 90 days because of a breakdown in the relationship.
+
+- is the parent of your child by birth or adoption
+
+- has custody and control of your child (or had custody and control immediately before the child turned 19 years of age) and your child is wholly dependent on that person for support
+
+**Designated education institutions** – designated educational institutions include:
+
+- Canadian universities, colleges, and other educational institutions
+
+- Canadian educational institutions certified by Employment and Social Development Canada (ESDC) providing courses that develop or improve skills in an occupation, other than courses designed for university credit
+
+- Universities outside Canada where the student is enrolled in a course that lasts at least three consecutive weeks and leads to a degree at the bachelor level or higher
+
+- Universities, colleges, or other educational institutions in the United States that give courses at the post-secondary school level if the student is living in Canada (near the border) throughout the year and commutes to that institution
+
+**Fair market value (FMV)** – is generally considered to mean the highest price expressed in terms of money that can be obtained in an open and unrestricted market between informed and prudent parties, who are dealing at arm’s length and under no compulsion to buy or sell.
+
+For more information on the valuation of securities of closely held corporations, see "[Information Circular IC89-3, Policy Statement on Business Equity Valuations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic89-3.html)".
+
+**LLP balance** – your LLP balance, at any time, is the total of all eligible amounts you have withdrawn from your RRSPs under the LLP, **minus** the total of all amounts you have repaid to your RRSP, PRPP or SPP included in your income.
+
+**LLP student** – this is the individual whose education you are financing under the LLP. It can be you or your spouse or common-law partner, but not your child or the child of your spouse or common-law partner. You have to participate in the LLP for the same LLP student each year until the year after you have reduced your LLP balance to zero.
+
+**LLP withdrawal** – this is an amount you withdraw from your RRSPs under the LLP.
+
+**Participation period** – your LLP participation period starts on January 1 of the year you make an eligible withdrawal from your RRSP and ends in the year your LLP balance is zero.
+
+**Pooled registered pension plan (PRPP)** – a retirement savings plan to which you or your employer or both can contribute. Any income earned in the PRPP is usually exempt from tax as long as it remains in the plan.
+
+**Qualifying student** – for the purposes of the LLP, for a month in a taxation year after 2016 means an individual who in the month is enrolled in a qualifying educational program as a full-time student at a designated educational institution, and if requested by the Minister has provided proof of enrolment by filing a certificate in prescribed form issued by the designated educational institution and containing prescribed information. If the individual is enrolled at an educational institution certified by the Minister of Employment and Social Development, the individual is 16 years of age before the end of the year and is enrolled in the program to obtain skills for, or improved the individual’s skills in, an occupation.
+
+**Repayment period** – the repayment period starts in the second, third, fourth, or fifth year after the year of the first withdrawal and ends when the LLP balance is zero.
+
+**RRSP deduction limit** – the maximum amount you can deduct from contributions you made to your RRSP, PRPP or SPP and to your spouse’s or common‑law partner’s RRSP or SPP for a year (excluding transfers to your RRSPs of certain types of qualifying income). The calculation is based, in part, on your earned income in the previous year. Pension adjustments (PAs), past service pension adjustments (PSPAs), pension adjustment reversals (PARs), prescribed amount for connected persons, and your unused RRSP deduction room at the end of the previous year are also used to calculate the limit.
+
+**Specified pension plan (SPP)** – a pension plan or similar arrangement that has been prescribed under the Income Tax Regulations as a “specified pension plan” for purposes of the Income Tax Act. Many of the rules related to RRSPs also apply to SPPs.
+
+**Spouse** – a person to whom you are legally married.
+
+## Chapter 1 – Participating in the LLP
+
+The LLP allows you to withdraw up to $10,000 in a calendar year from your RRSPs to finance full-time training or education for you or your spouse or common law partner. You cannot participate in the LLP to finance your children’s training or education, or the training or education of your spouse’s or common law partner’s children. As long as you meet the LLP conditions **every year**, you can withdraw amounts from your RRSPs until January of the fourth calendar year after the year you made your first LLP withdrawal. You cannot withdraw more than $20,000 in total.
+
+**The LLP Withdrawal Process**
+
+You **must** meet **all** of the following LLP conditions:
+
+- you are a resident of Canada
+
+- the LLP student is enrolled (or has received an offer to enrol before March of the following year):
+
+    1. as a full-time student
+
+    2. in a qualifying educational program
+
+    3. at a designated educational institution
+
+    4. if you have made an LLP withdrawal in a previous year, your repayment period has not begun
+
+**Note**If the LLP student meets one of the disability conditions (go to [Enrollment on a part-time basis](#P164_12475)), they can be enrolled on a part-time basis.
+
+- you have an RRSP
+
+Fill out [Form RC96, Lifelong Learning Plan (LLP) Request to Withdraw Funds from an RRSP](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc96.html) and give it to your RRSP issuer.
+
+**You can withdraw both the following**:
+
+- up to $10,000 in a calendar year
+
+- up to $20,000 in total
+
+The LLP student has to:
+
+- enrol before March of the year after the year of the LLP withdrawal
+
+- still be enrolled in that program in April of the year after the LLP withdrawal, unless the student has already completed the program by then
+
+If the student leaves the educational program **before** April of the year after the LLP withdrawal, go to [If the LLP student leaves the educational program](#P269_20271) for more information.
+
+The RRSP issuer will withhold tax at source on the part of the withdrawal that exceeds the $10,000 limit for the year.
+
+The RRSP issuer will send you a T4RSP slip showing the amount you withdrew under the LLP.
+
+You must file an income tax and benefit return and fill out a [Schedule 7](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html) to report all LLP withdrawals made in the tax year.
+
+### Eligibility requirements for the LLP
+
+If you are an RRSP annuitant and a resident of Canada, you can usually participate in the LLP to withdraw funds from your RRSPs for your own or your spouse's or common-law partner's education.
+
+Certain types of RRSPs, such as locked-in RRSPs, do not allow you to withdraw funds from them. Your RRSP issuer can give you more information about the types of RRSPs you have.
+
+Similar to locked-in RRSPs, PRPPs and SPPs do not allow for LLP withdrawals. However, you can designate your PRPP and SPP contributions as an LLP repayment
+
+You cannot participate in the LLP after the end of the year you turn 71. For more information, go to [Your option in the year you turn age 71](#P493_43481).
+
+You have to be a resident of Canada when you receive funds from your RRSPs under the LLP. If you are not sure whether you are considered a resident or non-resident of Canada, or if you need more information about residency status, go to [Taxes](https://www.canada.ca/en/services/taxes.html), or call the International Enquiries for Individuals and Trusts at one of the following numbers: **1-800-959-8281**(toll free within Canada and the Continental U.S.), or **1-613-940-8495** (from outside Canada and the Continental U.S. — we accept collect calls by automated response. Please note that you may hear a beep and experience a normal connection delay).
+
+If you become a non-resident after you make an LLP withdrawal, see "[If you become a non-resident of Canada](#P480_41606)".
+
+### Conditions the LLP student has to meet
+
+The LLP student can be you or your spouse or common-law partner. You cannot name your child or the child of your spouse or common-law partner as an LLP student.
+
+The LLP student must enrol on a **full time basis** in a **qualifying educational program**at a**designated educational institution**.
+
+If the LLP student meets the disability conditions, the student can enrol on a part time basis (go to [Enrollment on a part time basis](#P164_12475)). If you are not sure whether the LLP student is enrolled on a full time basis, check with the educational institution.
+
+The educational institution determines when the student is considered to be enrolled in a program, and when the student is no longer enrolled. Usually, the student is considered to be enrolled when part or all of the student's fees are paid.
+
+If the LLP student is not already enrolled in a program, the student must have received a written offer from a designated educational institution to enrol before March of the year after you withdraw funds from your RRSPs under the LLP. A conditional written offer is acceptable.
+
+If you made an LLP withdrawal in a previous year, your repayment period has not begun.
+
+You cannot participate in the LLP if the student has already completed the program and is no longer enrolled.
+
+#### Qualifying educational program
+
+A **qualifying educational program** is an educational program offered at a designated educational institution.
+
+The program must be one of the following:
+
+- of a technical or vocational nature designed to provide a person with skills for, or improve a person’s skills in, an occupation, in the case where the program is at an educational institution certified by ESDC
+
+- at a post-secondary school level, in any other case
+
+All programs must meet both of the following conditions:
+
+- last three consecutive months or more
+
+- require a student to spend 10 hours or more per week on courses or work in the program. Courses or work includes lectures, practical training, and laboratory work, as well as research time spent on a post-graduate thesis. It **does not** include study time
+
+#### Designated educational institution
+
+A **designated educational institution** is a university, college, or other educational institution. However, there are some differences whether the institution is located in Canada or outside Canada. For more detailed information, consult the definition of [designated educational institution](#desig-institutions). If you are not sure whether a particular institution qualifies as a designated educational institution, go to [Guide P105, Students and Income Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p105.html), or call **1-800-959-8281**.
+
+#### Full-time registered student
+
+The educational institution determines who is a full‑time or part‑time student. The requirement that the student enrol as a full‑time student is separate from the qualifying educational program requirement. The qualifying educational program requirement can be met by a person taking courses by correspondence or by a person enrolled in a distance education program. Even if the student is enrolled in a program that requires spending 10 hours or more per week on courses or work in the program, the institution may consider the student to be enrolled on a part‑time basis. In this case, you will not be considered a full-time student for LLP purposes. The following section explains the only exception to this rule.
+
+#### Enrollment on a part-time basis
+
+An LLP student who meets one of the disability conditions can be enrolled on a part-time basis. The program in which the student is enrolled must still be a qualifying educational program that usually requires a student to spend 10 hours or more per week on courses or work in the program.
+
+However, a student who meets the disability conditions can spend less than 10 hours per week on courses or work in the program.
+
+We consider the LLP student to meet the disability conditions if **one** of the following situations applies:
+
+- the student cannot reasonably be expected to be enrolled as a full-time student because of a mental or physical impairment, and the student has submitted a signed letter from a medical doctor, an optometrist, a speech-language pathologist, an audiologist, an occupational therapist, a physiotherapist, or a psychologist stating this
+
+- the student is entitled to the disability amount on [line 31600](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-31600-disability-amount-self.html) of the student's income tax and benefit return for the year of the LLP withdrawal
+
+If the student was allowed the disability amount on their income tax and benefit return for the previous year and still meets the eligibility requirements for the disability amount, the student will meet the disability condition for the LLP. The student will also meet this condition if someone else claimed the disability amount for the student in the previous year and the student still meets the eligibility requirements for the disability amount. If you have questions about the disability amount, call **1-800-959-8281**.
+
+#### If the LLP student does not enrol in the program on time
+
+If the LLP student is not already enrolled when you make the withdrawal, the student has to enrol in a qualifying educational program before March of the year after you made the LLP withdrawal.
+
+If the LLP student does not enroll in the program on time, you have to cancel your LLP withdrawal.
+
+For more information, go to [How to cancel your LLP withdrawal](#P281_21956).
+
+### How much you can withdraw
+
+Under the LLP, you can withdraw up to $10,000 from your RRSPs in a calendar year. This is your **annual LLP limit**. The amount you withdraw is not limited to the amount of tuition or other education expenses. Your spouse or common-law partner can also withdraw up to $10,000 from their RRSPs under the LLP in the same year you do. For more information, go to [Can my spouse or common-law partner and I participate in the LLP at the same time?](#P301_24754).
+
+You cannot withdraw more than$20,000 each time you participate in the LLP. This is your **total LLP limit**. You can participate in the LLP again, starting the year after you bring your LLP balance to zero.
+
+If you withdraw more than the annual LLP limit of $10,000, the excess will be included in your income for the year of the withdrawal. The excess does not reduce your total LLP limit of $20,000.
+
+If you withdraw more than the total LLP limit of $20,000, the excess will be included in your income for the year you exceed the total LLP limit.
+
+### Restrictions on withdrawals
+
+You cannot withdraw funds from a PRPP or an SPP under the LLP. However, PRPP and SPP contributions can be designated as an LLP repayment. You do not have to include the withdrawn amounts in your income, and the RRSP issuer will not withhold tax on these amounts. You have to repay these withdrawals to your RRSP, PRPP or SPP, generally within 10 years. Any amount that you do not repay when it is due will be included in your income for the year it was due. This chapter explains the conditions that you and the LLP student have to meet to participate in the LLP, and how to make an LLP withdrawal. The chart below summarizes the LLP withdrawal process.
+
+### When you can make LLP withdrawals
+
+As long as the LLP student continues to meet the LLP conditions (go to [Conditions the LLP student has to meet](#P147_9763)), you can keep withdrawing amounts from your RRSPs until the earliest of the following:
+
+- the commencement of your repayment period
+
+- January of the fourth calendar year after the year you made your first LLP withdrawal
+
+You may not make additional LLP withdrawals until the year after your previous LLP balance is zero.
+
+Carlos made LLP withdrawals of $10,000 in 2019 and $5,000 in 2020 because his spouse was attending university. His spouse files income tax and benefit returns every year indicating she is enrolled in a full-time program. Carlos would like to withdraw another $5,000 in 2024. However, even though his spouse is still in school, he will have to start repaying his previous $15,000 withdrawals in 2024 and any 2024 withdrawal would be considered as ineligible and taxable.
+
+Nadia made her first LLP withdrawal in 2022 for herself as the LLP student and completed the program the same year. She was not a student in 2023 or in 2024. However, in 2024 she enrolled full‑time in a program beginning in January 2025 and would like to make another LLP withdrawal. Since Nadia will have to start repaying her 2022 withdrawal in 2024 (consult chart [When to start repaying your LLP withdrawals](#Start_repay_LLP)), she cannot make another LLP withdrawal in 2024 nor in subsequent years until the year after her first withdrawal has been fully repaid.
+
+Angela made an LLP withdrawal of $5,000 in 2014 because her spouse was enrolled full‑time in a program that year. Her repayment period started in 2016 and she has been making a $500 repayment each year. In 2025, she decided to return to school and would like to make a withdrawal of $10,000. Such a withdrawal would not be eligible unless she made contributions to her RRSP, PRPP or SPP and chooses to fully repay the remaining $1,000 by making the designation in Part B on [Schedule 7](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html) of her 2024 income tax and benefit return. If she does so, she could then start a new participation period beginning in 2024 and designate herself as the student.
+
+### How to make an LLP withdrawal
+
+To make an LLP withdrawal, use [Form RC96, Lifelong Learning Plan (LLP) Request to Withdraw Funds from an RRSP](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc96.html)*.* You have to fill out Form RC96 for each withdrawal you make. To get Form RC96, go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+Fill out Part 1 of Form RC96. You can name yourself or your spouse or common‑law partner as the LLP student in Part 1. After you fill out this part, give the form to your RRSP issuer, who will fill out Part 2.
+
+Your RRSP issuer will not withhold tax from the funds you withdraw if you meet the LLP conditions. Your RRSP issuer will send you a [T4RSP slip, Statement of RRSP Income](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4rsp.html) showing the amount you withdrew under the LLP in box 25. Attach this slip to your income tax and benefit return.
+
+#### Filing an income tax and benefit return
+
+Starting in the year you make your first LLP withdrawal, you have to file an income tax and benefit return every year until you have repaid all your LLP withdrawals or included them in your income. You have to send us an income tax and benefit return even if you do not owe any tax, or you did not make a repayment to your RRSP.
+
+Fill out [Schedule 7, RRSP, PRPP and SPP Contributions, and Transfers, and HBP and LLP Activities](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html) (included in your general income tax and benefit package), and attach it to your income tax and benefit return to show the LLP withdrawals or the repayments made in the tax year. This will help both you and us to keep track of them.
+
+When you report a withdrawal on the Schedule 7, tick Box 26400 if your spouse or common‑law partner is the student. If you do not make this indication, we will assume that you are the designated student. If withdrawals are made in different years, the student indicated must remain the same or your withdrawal may be considered ineligible.
+
+### How the withdrawal from your RRSP affects your RRSP deduction
+
+You can continue to contribute to your RRSP, PRPP or SPP and deduct your contributions from your income on your income tax and benefit return after you have made an LLP withdrawal from your RRSP. However, you may not be able to deduct contributions you made **before** the withdrawal from your RRSP. The following explains the restrictions that apply.
+
+If you do not have an RRSP, you cannot set one up and then make an LLP withdrawal immediately. The contribution has to be in the RRSP for 90 days before you can deduct it from your income on your income tax and benefit return.
+
+If you already have an RRSP and you contribute to it in the 89-day period before you make an LLP withdrawal, you may not be able to deduct the contribution from your income on your income tax and benefit return even if you repay this amount to your RRSP under the LLP. If the value of the RRSP right after the LLP withdrawal is **more than** or the **same as** the amount of the RRSP contribution, you can deduct the entire contribution. If the value of the RRSP right after the LLP withdrawal is **less than** the amount of the RRSP contribution, you cannot deduct either a portion or all of the contribution.
+
+To find out how much you **cannot** deduct, use the following formula for each RRSP from which you make an LLPwithdrawal:
+
+Total contributions you made to the RRSP in the 89-day period before the LLP withdrawal
+
+**Minus:** Value of the RRSP immediately after you made the LLP withdrawal
+
+**Equals:** The part of the contributions you **cannot** deduct at any time
+
+Stephen has an RRSP with a value of $6,500. He contributes $8,000 to the RRSP on February 12, 2024. He then makes an LLP withdrawal of $10,000 on March 1, 2023. The value of the RRSP after the withdrawal is $4,500.
+
+**February 12, 2024**
+
+Value of RRSP before contribution
+
+February 12, 2024, contribution
+
+Value after withdrawal
+
+**March 4, 2024**
+
+LLP withdrawal
+
+Value after withdrawal
+
+Stephen determines the part of his contribution that is not deductible as follows:
+
+Contribution in the 89-day period before the LLP withdrawal
+
+**Minus :** the value after the withdrawal
+
+**Result**
+
+Stephen **cannot** deduct $3,500 of the contribution he made on February 12, 2024, for any year.
+
+Use the [Appendix](#P499_44715) to determine the part of contributions that you or your spouse or common‑law partner made to your RRSP that are not deductible for any year.
+
+### If the LLP student leaves the educational program
+
+For you to be able to repay the LLP withdrawals over a 10-year period, the LLP student usually has to meet one of the following conditions:
+
+- complete the program
+
+- continue to be enrolled in the educational program at the end of March of the year after the LLP withdrawal
+
+If the LLP student leaves the program before April of the year after the withdrawal, you can still make your repayments over a 10-year period if**less than 75%** of the student's tuition is refundable by the educational institution.
+
+If the LLP student leaves the program before April of the year after the withdrawal, and **75% or more** of the LLP student's tuition is refundable, you have to cancel the LLP withdrawal. For more information, go to [How to cancel your LLP withdrawal](#P281_21956). If you do not cancel it, the amount you withdrew will be included in your income for the year you withdrew it.
+
+We check the LLP student's enrolment on [T2202, Tuition and Enrolment Certificate](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2202.html), on line 32010 and 32020 of [Schedule 11](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s11.html) of their income tax and benefit return for the year you make the withdrawal and for the following year.
+
+If we cannot determine that the LLP student has continued in the program, we will contact you to find out if you still meet the conditions to make the repayments over a 10-year period.
+
+In September 2024, George withdraws $1,000 from his RRSPs under the LLP. Earlier in the same month, he enrolled in a four-month college program and paid $750 in tuition fees. George completes the program in January 2025. Therefore, he can repay his LLP amounts over a 10-year period.
+
+Special rules apply if the LLP participant dies. For more information, go to [If the person who made the LLP withdrawal dies](#P459_37016).
+
+### Cancelling an LLP withdrawal
+
+You can cancel your LLP withdrawal **only** if one or more of the following situations apply:
+
+- the LLP student was not enrolled in the qualifying educational program when you made the withdrawal but had received written notification that they were entitled to enrol before March of the following year and did not enrol in time
+
+- the LLP student left the program before April of the year after the withdrawal, and 75% or more of the student’s tuition was refundable
+
+- you became a non-resident of Canada before the end of the year in which you made an LLP withdrawal
+
+A cancellation payment is not considered an RRSP, PRPP, and SPP contribution and therefore, must **not**be entered as a contribution in “Part A – Contributions” of [Schedule 7, RRSP, PRPP and SPP Contributions, and Transfers, and HBP or LLP Activities](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html), as you cannot claim a deduction for this amount on your income tax and benefit return.
+
+#### How to cancel your LLP withdrawal
+
+**Step 1**– Repay the amount you withdrew from your RRSP. You can make your cancellation payment to any of the following:
+
+- the same RRSP you withdrew the funds from
+
+- any other of your RRSPs
+
+- a new RRSP
+
+You cannot make a cancellation payment to your PRPP, SPP or spouse’s or common-law partner’s RRSPs or SPP. Your RRSP issuer will give you an RRSP contribution (cancellation payment) receipt.
+
+If you do not repay all the funds you withdrew, you have to include the unpaid amounts in your income for the year they were withdrawn. If we have already assessed your income tax and benefit return for that year, we will reassess it to include the unpaid amount. We may also charge you interest and penalties.
+
+**Step 2**– Send us a completed [Form RC97, Lifelong Learning Plan (LLP) – Cancellation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc97.html) or a letter and include all of the following:
+
+- the information about the RRSP annuitant (this is the individual who made the RRSP withdrawal):
+
+    - first name and initials
+
+    - last name
+
+    - social insurance number
+
+    - mailing address
+
+    - telephone number
+
+- the year you made the withdrawal
+
+- the amount withdrawn
+
+- the date you became a non-resident (if applicable)
+
+- the reason for the cancellation:
+
+    - the LLP student was not enrolled in the qualifying educational program when you made the withdrawal but had received written notification that they were entitled to enrol before March of the following year and did not enrol in time
+
+    - theLLP student left the program before April of the year after the withdrawal, and 75% or more of the student’s tuition was refundable
+
+    - you became a non-resident of Canada before the end of the year in which you made an LLP withdrawal
+
+- the amount and date of the cancellation payment
+
+- the signature of the RRSP annuitant
+
+**Step 3**– Send Form RC97 or this letter along with your RRSP contribution (cancellation payment) receipt to the Pension Workflow Team. It can be submitted by mail or by using [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html).
+
+If you would like to submit this information by mail, it should be sent to one of the following addresses:
+
+If your residential address is based in:
+
+Ontario, Prince Edward Island, Newfoundland and Labrador, Yukon, Nunavut, Northwest Territories as well as the following cities in the province of Quebec (Montréal, Quebéc City, Laval, Sherbrooke, Gatineau and Longueuil):
+
+Send your request to:
+
+Canada Revenue Agency Sudbury Tax Centre Pension Workflow Team Post Office Box 20000, Station A Sudbury ON P3A 5C1
+
+If your residential address is based in:
+
+Manitoba, Saskatchewan, Alberta, British Columbia, Nova Scotia, New Brunswick and the remaining areas in the province of Quebec not listed under the Sudbury Tax Centre:
+
+Send your request to:
+
+Canada Revenue Agency Winnipeg Tax Centre Pension Workflow Team Post Office Box 14000, Station Main Winnipeg MB R3C 3M2
+
+You cannot make your cancellation payment if the withdrawal did not meet the LLP conditions **when you made the withdrawal**. One or more of the situations listed above must apply for you to cancel your withdrawal.
+
+#### Due date for cancellation payment
+
+If you are a resident of Canada when you file your income tax and benefit return for the year in which you made the LLP withdrawal, the due date for the cancellation payment is December 31 of the year after the year you made the withdrawal.
+
+If you are a non-resident of Canada when you file your income tax and benefit return for the year in which you made the LLP withdrawal, the due date for the cancellation payment is the **earlier**of the following dates:
+
+- the date you file your income tax and benefit return for the year you made the withdrawal
+
+- December 31 of the year after the year of the withdrawal
+
+On May 6, 2024, Patrick applies to three Canadian universities as a full time student. On July 15, 2024, Patrick receives a written offer to enrol in a program at one of the universities. On July 16, 2024, he makes an LLP withdrawal of $10,000 from his RRSP. Since Patrick withdrew the funds in 2024, he has to enrol in the program before March 2025. If he does not, Patrick will have to cancel the LLP withdrawal by paying back the $10,000 to his RRSP by December 31, 2025. Any amount he does not repay will be included in his income for 2024.
+
+### Questions you may have
+
+#### How often can I participate in the LLP?
+
+There is no limit to the number of times you can participate in the LLP over your lifetime. Starting in the year after you bring your LLP balance to zero, you can participate in the LLP again and withdraw up to $20,000 over a new participation period. For more information, go to [Participation period](#participation).
+
+#### Can my spouse or common-law partner and I participate in the LLP at the same time?
+
+Yes. You can do any of the following:
+
+- you can participate in the LLP for yourself while your spouse or common-law partner participates in the LLP for themselves;
+
+- you can both participate in the LLP for either of you
+
+- you can participate in the LLP for each other
+
+Each of you can withdraw up to the annual LLP limit of $10,000 in a year and up to the total LLP limit of $20,000 over the period you are participating in the LLP.
+
+If you are already a participant in the LLP program and the student has been established as either yourself or your spouse or common-law partner, you cannot make an additional withdrawal for a different student.
+
+#### Can I make LLP withdrawals from more than one RRSP?
+
+You can make LLP withdrawals for you or your spouse or common-law partner from more than one RRSP as long as you are the annuitant of each RRSP. Your RRSP issuer will not withhold tax on these amounts. Although the maximum amount you can withdraw each time you participate is $20,000, there is an annual withdrawal limit of $10,000.
+
+Similar to locked-in RRSPs, PRPPs and SPPs do not allow for LLP withdrawals. However, you can designate your PRPP and SPP contributions as an LLP repayment.
+
+#### Can I make LLP withdrawals for other purposes?
+
+As long as you meet all the LLP conditions when you make the withdrawal, you can use the funds you withdrew for any purpose.
+
+#### Can I participate in the LLP and in the Home Buyers' Plan at the same time?
+
+You can participate in the LLP even if you have not yet fully repaid the withdrawn amounts from your RRSPs under the Home Buyers’ Plan (HBP). For more information about the HBP, go to [What is the Home Buyers' Plan (HBP)?](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan.html)
+
+## Chapter 2 – Repaying your withdrawals
+
+Over a period of 10 years, you have to repay to your RRSP, PRPP or SPP the amounts you withdrew under the LLP. Generally, for each year of your repayment period, you have to repay 1/10 of the total amount you withdrew, until the LLP balance is zero.
+
+### When and how much to repay
+
+You will receive an LLP Statement of Account each year with your notice of assessment or notice of reassessment. This statement will show the LLP withdrawals, your LLP balance, the amounts you have repaid to date, cancellations, income inclusions, and the amount you have to repay the following year.
+
+To view your LLP Statement of Account online, go to [My account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html). To view the LLP Statement of Account of someone who has authorized you on their behalf, go to [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html).
+
+If you did not receive an LLP statement of account on your notice of assessment or notice of reassessment and cannot access the information online, you can contact the CRA and request the LLP statement.
+
+To determine when you have to start repaying your LLP withdrawals, use the [chart](#Start_repay_LLP). The latest year you can start repaying your LLP withdrawals is the fifth year after your first LLP withdrawal. However, in most cases, you have to start repaying your withdrawals before that year.
+
+We determine when your repayment period starts by checking if the LLP student is a qualifying student for at least three months during the year. If the LLP student does not meet this condition two years in a row, your repayment period usually starts in the second of those two years. If the LLP student continues to meet this condition every year, your repayment period starts in the fifth year after your first LLP withdrawal.
+
+In some cases, the LLP student is not a qualifying student for at least three consecutive months in any calendar year. This can happen if the program is short, and the student starts it near the end of the year. In that case, your first repayment year is the second year after the year of your LLP withdrawal.
+
+If the student is not a qualifying student for three months in any year because the student left the program, see "[If the LLP student leaves the educational program](#P269_20271)"
+
+Sarah makes LLP withdrawals from 2021 to 2024. She continues her education from 2021 to 2026, and is a qualifying student up to tax year 2026. Sarah’s repayment period begins in 2026 since 2026 is the fifth year after the year of her first LLP withdrawal. The due date for her first repayment is, March 2027, which is 60 days after the end of 2026, her first repayment year.
+
+Joseph makes an LLP withdrawal in 2023 for a qualifying educational program he is enrolled in during the same year. He is a full‑time student for five months of 2023. Joseph completes the educational program in 2024, and he is a full‑time student for five months in 2024 He is not considered a qualifying student for 2025 or 2026. Joseph’s repayment period begins in 2026.
+
+Even if you become bankrupt, you still have to repay all your LLP withdrawals to your RRSPs. If you do not, you have to include the required amounts in your income each year as they become due.
+
+**When to start repaying your LLP withdrawals**
+
+Use this chart to determine when you have to start repaying your LLP withdrawals. This chart does not cover cancelling your withdrawal. For that situation, go to [How to cancel your LLP withdrawal](#P281_21956).
+
+**Step 1**
+
+**Is this the year of your first LLP withdrawal?**
+
+If **no**, go to Step 2.
+
+If **yes**, you do not have to start repaying your LLP withdrawal this year.
+
+**Step 2**
+
+**Is this the fifth year after your first LLP withdrawal?**
+
+(If you made your first LLP withdrawal in 2020, then 2025 would be the fifth year after your first LLP withdrawal.)
+
+If **no**, go to Step 3.
+
+If **yes**, you have to start repaying your LLP withdrawals this year.
+
+**Step 3**
+
+**Will the LLP student be considered a qualifying student for at least three months this year?**
+
+If **no**, go to Step 4.
+
+If **yes**, you do not have to start repaying your LLP withdrawals this year.
+
+**Step 4**
+
+**Was the LLP student considered a qualifying student for at least three months last year?**
+
+If **no**, you have to start repaying your LLP withdrawals this year.
+
+If **yes**, you do not have to start repaying your LLP withdrawals this year.
+
+### How to make your repayments
+
+To make your repayments, you have to contribute to your RRSP, PRPP or SPP in the repayment year or in the first 60 days of the following year. You can make the repayments to any of your RRSPs, PRPP or SPP or you can open a new RRSP.
+
+You have to designate your repayment for the year by completing [Schedule 7, RRSP, PRPP, and SPP Contributions and Transfers, and HBP and LLP Activities](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html) (included in your income tax package), and file it with your income tax and benefit return for the repayment year.
+
+You have to make your repayments to your RRSP, PRPP or SPP even if your RRSP deduction limit is zero or a negative amount. We do not consider an amount you designate as a repayment under the LLP to be an RRSP contribution. Therefore, you cannot claim a deduction for this amount on your income tax and benefit return.
+
+Betty has an LLP balance of $7,500. Her repayment period is from 2024 to 2033. For her first repayment year, she needs to repay $750, which is 1/10 of the amount she withdrew. Betty contributes $6,000 to her RRSPs in 2024. To designate $750 as her 2024 repayment, she has to file Schedule 7 with her 2024 income tax and benefit return. Betty can deduct the remaining $5,250 she contributed if the RRSP deduction limit shown on her notice of assessment for 2023 is at least $5,250.
+
+### Contributions you cannot designate
+
+Not all contributions you make to your RRSP, PRPP or SPP in the repayment year, or in the first 60 days of the following year, can be designated as a repayment under the LLP.
+
+You **cannot** designate all following contributions that:
+
+- your employer made to your PRPP
+
+- you make to your **spouse's or common-law partner's RRSPs** (or that they make to your RRSPs)
+
+- are amounts you transfer directly to your RRSPs from a [registered pension plan](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/transferring/registered-pension-plan-rpp-lump-payments.html) (RPP), [deferred profit sharing plan](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/transferring/deferred-profit-sharing-plan-dpsp-lump-payments.html) (DPSP), [registered retirement income fund](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/transferring/registered-retirement-income-fund-rrif-transfer-excess-amounts-property.html) (RRIF), [SPP](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/transferring/specified-pension-plan-lump-payments.html), [PRPP](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic13-1/ic13-1r1-pooled-registered-pension-plans.html), a [first home savings account](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account.html) (FHSA), or another RRSP
+
+- are amounts you deducted as a re-contribution of an excess qualifying withdrawal that you designated to have a provisional past service pension adjustment (PSPA) approved
+
+- are amounts you designate as a repayment under the HBP for the year
+
+- are amounts you contribute in the first 60 days of the repayment year, that meet one of the following conditions:
+
+    - you deducted on your income tax and benefit return for the previous year
+
+    - you designated as a repayment for the previous year under the HBP or the LLP
+
+- are amounts you receive in the repayment year (such as [retiring allowances](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/calculating-deductions/determining-tax-treatment/retiring-allowances.html)) that you include in your income, designate as a transfer to your RRSP and deduct on your income tax and benefit return for the year of receipt
+
+**If you want to repay earlier**
+
+Any payments you make before the first repayment year reduce your first required repayment. For example, if your first repayment year is 2025 and $1,000 is your required repayment and you make an early repayment of $600 in 2024, your required repayment for 2025 is $400.
+
+#### If you repay less than the amount required
+
+If you designate an amount **less** than the amount you have to repay, you have to include the difference in your income on line 12900 of your income tax and benefit return. The amount you include in your income is equal to the amount you have to repay **minus** the amount you designate as a repayment for the year. The amount you include in your income cannot be more than the result of this calculation.
+
+Your LLP balance is reduced by the amount you repay **plus** the amount you include in income. If you want to calculate the amount you have to repay for the next year, divide your LLP balance by the number of years remaining in your repayment period.
+
+Josée makes a $10,000 LLP withdrawal in 2022 for a four‑month qualifying educational program that finishes in the same year. For 2024, Josée’s repayment is $1,000 ($10,000 ÷ 10). Josée contributes $700 to her RRSPs in 2024, and she files Schedule 7 with her income tax and benefit return to designate the $700 as a repayment under the LLP.
+
+Josée has to include $300 in her income on line 12900 of her 2024 income tax and benefit return. She determined this as follows:
+
+She cannot claim a deduction for the $700 contributed to her RRSPs because she designated those contributions as a repayment under the LLP. In 2025, she will have to repay $1,000 ($9,000 ÷ 9).
+
+#### If you repay more than the amount required for a year
+
+If you repay and designate more than you have to repay for a year, the amount you have to repay in each of the following years will be less. The LLP Statement of Account we send with your notice of assessment or notice of reassessment takes into account any additional payments you make and tells you how much you have to repay for the next year. If you want to calculate the amount you have to repay for the next year, divide your LLP balance by the number of years left in your repayment period.
+
+Alexander’s repayment period began in 2020. His LLP balance was $8,500. Alexander’s repayment for 2020 was $850 ($8,500 ÷ 10). He made the repayment for 2020, 2021 and 2023. In 2023, he received an inheritance and decided to contribute $4,000 to his RRSPs and designate that amount as a repayment under the LLP for2023. He calculates the amount he has to repay for 2024 using the following chart:
+
+| Year | LLP balance at the beginning of the year | Amount Alexander has to repay for the year | Amount Alexander designates as a repayment for the year | LLP balance for the following year |
+
+| --- | --- | --- | --- | --- |
+
+| 2020 | $8,500 | $850 ($8,500 ÷ 10) | $850 | $7,650 |
+
+| 2021 | $7,650 | $850($7,650 ÷ 9) | $850 | $6,800 |
+
+| 2022 | $6,800 | $850 ($6,800 ÷ 8) | $850 | $5,950 |
+
+| 2023 | $5,950 | $850 ($5,950 ÷ 7) | $4,000 | $1,950 |
+
+| 2024 | $1,950 | $325 ($1,950 ÷ 6) | $325 | $1,625 |
+
+### Situations when the repayments have to be made in less than 10 years
+
+Additional repayment rules apply if you meet one of the following conditions:
+
+- you die
+
+- you become a non-resident of Canada
+
+- you reach the age of 71
+
+#### If the person who made the LLP withdrawal dies
+
+Usually, if the person who made the LLP withdrawal dies, the legal representative (administrator) has to include the LLP balance in the deceased person’s income for the year of death. If the deceased person contributed to an RRSP, PRPP or SPP in the year of death, the representative can designate the contributions as a repayment under the LLP by completing [Schedule 7, RRSP, PRPP, and SPP Contributions, and Transfers, and HBP and LLP Activities](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html). This reduces the LLP balance that has to be included in the deceased person’s income.
+
+An LLP student who dies may not have been the person who made the LLP withdrawal. If this is the case, the person who made the withdrawal makes the required LLP repayments over the usual 10-year period.
+
+#### LLP election on death
+
+If, at the time the person who made the LLP withdrawal dies, and the deceased had a spouse or common‑law partner who is a resident of Canada, that spouse or common-law partner can elect jointly with the deceased person’s legal representative (administrator) to make the repayments and to not include the LLP balance in the deceased person’s income.
+
+If the surviving spouse or common‑law partner is also the representative, they make the election.
+
+To make this election, the surviving spouse or common‑law partner and the deceased person’s legal representative fill out [Form RC98, Election to transfer the Home Buyers’ Plan (HBP) or Lifelong Learning Plan (LLP) balance at time of death](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc98.html) or sign a letter and attach it to the deceased person’s income tax and benefit return for the year of death. The letter should state that an election is being made to have the surviving spouse or common‑law partner make the repayments under the LLP, and to not have the income inclusion rule apply to the deceased person. The deceased person’s LLP balance then becomes the survivor’s LLP balance. The surviving spouse or common‑law partner makes the repayments to their own RRSP, PRPP or SPP.
+
+If this election is made and the deceased person had not made a repayment for the year of death, no repayment will be required for that year for the deceased.
+
+**If the surviving spouse or common‑law partner has no LLP balance at the time the person who made the LLP withdrawal dies**, the survivor is deemed to be the LLP student for the LLP balance taken over from the deceased person. The surviving spouse or common‑law partner will have to make repayments to their RRSP over the normal 10 year repayment period, determined as though the year of their first LLP withdrawal is the year the person died. For more information on when the repayment period will begin, go to [When and how much to repay](#P320_27302) and the [chart](#Start_repay_LLP).
+
+If the surviving spouse or common‑law partner wants to make LLP withdrawals, the LLP balance taken over from the deceased person will limit the amount they can withdraw.
+
+The survivor’s total limit will be $20,000 **minus** the LLP balance taken over from the deceased person. The annual LLP limit for the year of death will be $10,000 **minus** the remaining LLP balance of the deceased person.
+
+Isabelle died in 2024. At the time of death, she had an LLP balance of $7,200. Her repayment period began in 2023. Her husband Bruno is her legal representative and acts as her administrator.
+
+Bruno decides to elect to make the repayments. When he prepares Isabelle’s final income tax and benefit return for 2024, he does not include her LLP balance in her income. Instead, he fills out Form RC98 which explains that he is electing to make his late wife’s LLP repayments. He fills out form RC98 and attaches it to her final income tax and benefit return. Bruno becomes an LLP participant in 2024 having an LLP balance of $7,200.
+
+If Bruno is not a full‑time qualifying student for at least three months in both 2025 and 2026, his repayment period will begin in 2026. He may choose to make repayments in 2024 or 2025 in which case they will be applied to the balance to reduce or eliminate the required repayment in 2026 and subsequent years. For more information, go to [If you want to repay earlier](#P376_33754).
+
+If Bruno wants to participate in the LLP in 2024 for his own education, his total LLP limit is now $20,000 **minus** the remaining LLP balance from Isabelle. As well, his annual LLP limit for 2024 is $10,000 **minus** the remaining LLP balance from Isabelle.
+
+If Bruno did not make the election, he would have to include $7,200 as income on [line 12900](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-129-registered-retirement-savings-plan-rrsp-income.html) of Isabelle’s final income tax and benefit return for 2024.
+
+**If the surviving spouse or common‑law partner already had an LLP balance of their own** at the time the person dies, the deceased person’s LLP balance is added to the survivor’s LLP balance. This may cause the survivor’s LLP balance to be more than the $10,000 annual limit or the $20,000 total limit. If this occurs, we will not include the excess in the income of either the survivor or the deceased person.
+
+The surviving spouse or common-law partner has to repay the new balance over their own repayment period.
+
+Irene died on June 10, 2024. At the time of her death, she had an LLP balance of $7,000 to be repaid. Irene’s common‑law partner Paul, who is her estate’s legal representative and acts as her administrator, decides to make Irene's LLP repayment.
+
+He has his own LLP balance of $14,000, and his repayment period began in 2024. Paul will add Irene’s LLP balance of $7,000 to his own LLP balance of $14,000.
+
+However, Paul is only required to make a repayment of $1,400 in 2024 based on his own LLP balance of $14,000 at the beginning of the year. If he pays only the required amount in 2024, his minimum LLP repayment in 2025 will be $2,177 ($19,600 ÷ 9).
+
+#### If you become a non-resident of Canada
+
+If you become a non‑resident of Canada **after the year you made an LLP withdrawal**, you have to include your LLP repayable balance in income on your income tax and benefit return for the year you become a non‑resident or repay that balance to your RRSP, PRPP, or SPP. The due date for this repayment is the **earlier** of the following dates:
+
+- before the time you file your income tax and benefit return for the year that you become a non‑resident
+
+- 60 days after you become a non-resident.
+
+You have to designate your repayment for the year by completing [Schedule 7](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html) and filing it with your income tax and benefit return for the year you become a non‑resident. If you do not repay your LLP balance by the due date, you have to include the unpaid amount in your income for the year you became a non‑resident. The amount is included in your income for the period you were a resident of Canada.
+
+If you become a non-resident **before the end of the year in which you make an LLP withdrawal**, you have to cancel your LLP withdrawals by paying them back to your RRSP.
+
+For more information, go to [Cancelling an LLP withdrawal](#LLP_wthdrwll_cnclld).
+
+#### Your options in the year you turn 71
+
+The year after you reach the age of 71, you will not be able to repay any withdrawals to your RRSP, PRPP or SPP. This is because you cannot contribute to an RRSP, PRPP or SPP the year after you turn 71 years of age.
+
+In the year you turn 71, you can choose **one** of the following:
+
+- repay your remaining repayable balance to your RRSP, PRPP or SPP
+
+- make a partial repayment to your RRSP, PRPP or SPP. Your remaining repayable balance at the beginning of the year you turn 72 will be divided by the number of years remaining in your repayment period, and that calculated amount will be included as income on [line 12900](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-129-registered-retirement-savings-plan-rrsp-income.html) of your income tax and benefit return for each of those years
+
+- make no repayment to either your RRSP, PRPP or SPP. Your remaining repayable balance at the beginning of the year you turn 71 will be divided by the number of years remaining in your repayment period, and that calculated amount will be included as income on [line 12900](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-129-registered-retirement-savings-plan-rrsp-income.html) of your income tax and benefit return for each of those years
+
+In 2017, at the age of 64, Henry made an LLP withdrawal of $9,000. His repayment period began in 2022. The required annual repayment is $900.
+
+In 2024 he reaches the age of 71. Henry’s LLP balance at the beginning of 2024 is $7,200 and he can choose to make an LLP repayment, or to include $900 in his income.
+
+In 2024, Henry decides to contribute $3,000 to his PRPP and to designate that amount as a repayment under the LLP. This leaves him with an unpaid balance of $4,200 at the end of 2024. Henry will have to include $600 ($4,200 ÷ 7) in income for each year from 2025 to 2031.
+
+If he did not repay any part of the $7,200, he would have to include $900 in income each year from 2024 to 2031. If he repaid the entire $7,200, he would not have to include any part of this amount in his income.
+
+## Appendix - Effect of LLP on RRSP deductions
+
+**Calculating the part of your RRSP contributions that are not deductible for any year**
+
+Use a separate chart for each withdrawal made under the LLP.
+
+**Area 1 – Fill out this area if you are the only one who contributed to your RRSP during the 89 day period just before you withdrew an amount from that RRSP.**
+
+1. RRSP account number
+
+2. Amounts you contributed to the above RRSP during the 89 day period just before you withdrew an amount from that RRSP under the LLP [Footnote1](#fn1tb1)
+
+3. FMV of the property held in the above RRSP just after you made your withdrawal
+
+4. Line 2 **minus** line 3 (if negative, enter “0”). This is the amount of your contributions to the RRSP indicated on line 1 that you cannot deduct for any year.
+
+**Area 2 – Fill out this area if you contributed to your spouse’s or common-law partner’s RRSP during the 89 day period just before your spouse or common-law partner withdrew an amount from that RRSP.**
+
+5. RRSP account number
+
+6. Amounts you and your spouse or common-law partner contributed to the above RRSP during the 89 day period just before your spouse or common-law partner withdrew an amount from that RRSP under the LLP [Footnote2](#fn2tb1)
+
+7. FMV value of the property held in the above RRSP just after your spouse or common-law partner made their withdrawal
+
+8. Line 6 **minus** line 7 (if negative, enter “0”). This is the amount of the contributions to the RRSP indicated on line 5 that is not deductible for any year [Footnote3](#fn3tb1)
+
+## Digital services
+
+### Digital services for individuals
+
+The CRA's digital services are fast easy, and secure!
+
+### My Account
+
+My Account lets you view and manage your personal income tax and benefit information online.
+
+Use My Account throughout the year to:
+
+- view your benefit and credit information and apply for certain benefits
+
+- view your notice of assessment or reassessment
+
+- view uncashed cheques and request a replacement payment
+
+- change your address, phone numbers, direct deposit information, marital status and information about children in your care
+
+- manage notification preferences and receive email notifications when important changes are made to your account
+
+- check your tax-free savings account (TFSA) contribution room, your registered retirement savings plan (RRSP) deduction limit and your first home savings account (FHSA) participation room
+
+- track the progress of certain files and enquiries you have submitted to the CRA
+
+- make a payment online to the CRA with the My Payment service, create a pre-authorized debit (PAD) agreement, or create a QR code to pay in person at Canada Post for a fee (for more information on how to make a payment, go to [My payments](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html))
+
+- view and print your proof of income statement
+
+- manage authorized representatives and authorization requests
+
+- submit documents to the CRA
+
+- submit an audit enquiry
+
+- manage Multi-factor authentication settings
+
+To sign in to or register for the CRA's digital services, go to:
+
+- My Account at [My Account for individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html), if you are an individual
+
+- Represent a Client, at [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), if you are an authorized representative
+
+### Receive your CRA mail online
+
+Set your correspondence preference to "Electronic mail" to receive email notifications when CRA mail, like your notice of assessment, is available in your account.
+
+For more information, go to [Email notifications from the CRA](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/online-mail-helping-you-organize-your-canada-revenue-agency-mail.html).
+
+### Electronic payments
+
+Make your payment using:
+
+- your Canadian bank or credit union's online banking, mobile app or telephone service
+
+- the CRA’s My Payment service at [Pay with a debit card through the CRA's My Payment service](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html) with your activated debit card from a participating Canadian bank or credit union with one or of the following logos: Visa® Debit or Debit Mastercard® (does **not** include credit cards)
+
+- pre-authorized debit (PAD) at [My Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html) which lets you:
+
+    - set up payments to the CRA from a Canadian chequing account on preset dates starting in five or more business days
+
+    - pay an amount due, repay overpaid amounts or make instalment payments
+
+    - view your account history and modify, cancel or skip a payment (for more information on PAD, go to [Pay by scheduled pre-authorized debit (PAD) through CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html)
+
+- the “Proceed to pay” button in the “Accounts and payments” box of the “Overview” panel in My Account, or in the “Account balance and statement of account” or “Instalments” boxes of the “Accounts and Payments” panel in My Account
+
+- your credit card, Interac e-transfer or PayPal through one of the third-party service providers **for a fee**
+
+For more information, go to [Payment to the CRA](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html).
+
+## Related forms and publications
+
+### Forms
+
+[Schedule 7 - RRSP, PRPP and SPP Contributions and Transfers and HBP and LLP Activities](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html)
+
+[RC96 - Lifelong Learning Plan (LLP) Request to Withdraw Funds from an RRSP](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc96.html)
+
+[RC97 – Lifelong Learning Plan (LLP) – Cancellation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc97.html)
+
+[RC98 – Election to transfer the Home Buyers' Plan (HBP) or Lifelong Learning Plan (LLP) balance at time of death](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc98.html)
+
+### Guide
+
+[P105 - Student and income Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p105.html)
+
+## For more information
+
+### If you need help
+
+If you need more information after reading this guide, go to the [Canada Revenue Agency](https://www.canada.ca/en/services/taxes.html) or call**1-800-959-8281**.
+
+### Direct deposit
+
+Direct deposit is a fast, convenient, and secure way to receive your CRA payments directly in your account at a financial institution in Canada. For more information and ways to enrol, go to [Direct deposit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html) or contact your financial institution.
+
+### Forms and publications
+
+- **1-800-959-8281**, from Canada and the United States.
+
+- **613-940-8495**, from outside Canada and the United States. The CRA only accepts collect calls made through a telephone operator. After your call is accepted by an automated response, you may hear a beep and notice a normal connection delay. This service operates in Eastern Standard Time and is open Monday to Friday from 8:00 am to 8:00 pm and Saturday from 9:00 am to 5:00 pm.
+
+### Electronic mailing list
+
+The CRA can send you by an email when new information on a subject of interest to you is available on the website. To subscribe to the electronic mailing lists, go to [Electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+### Tax Information Phone Service (TIPS)
+
+For tax information by telephone, use the CRA’s automated service, TIPS, by calling **1-800-267-6999**.
+
+### Teletypewriter (TTY) and Video relay Service (Canada VRS) users
+
+If you use a TTY for a hearing or speech impairment call **1-800-665-0354**.
+
+If you use the Canada VRS application, call **1-800-561-6393**
+
+If you use another **operator-assisted relay service**, call the CRA's regular telephone numbers instead of the TTY or Canada VRS numbers
+
+## CRA service feedback program
+
+### Service complaints
+
+You can expect to be treated fairly under clear and established rules, and get a high level of service each time you deal with the CRA. For more information about the Taxpayer Bill of Rights, go to [Taxpayer Bill of Rights](https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/taxpayer-bill-rights.html).
+
+You may provide compliments or suggestions, and if you are not satisfied with the service you received:
+
+1. Try to resolve the matter with the CRA employee you have been dealing with or call the telephone number provided in the correspondence you received from the CRA. If you do not have contact information for the CRA, go to [Contact information](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+2. If you have not been able to resolve your service-related issue, you can ask to discuss the matter with the employee’s supervisor.
+
+3. If the problem is still not resolved, you can file a service-related complaint by filling out [Form RC193, Service Feedback](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html). For more information and to learn how to file a complaint, go to [Submit service feedback](https://www.canada.ca/en/revenue-agency/services/make-a-service-complaint.html).
+
+If your are not satisfied with how the CRA has handled your service-related complaint, you can submit a complaint to the [Office of the Taxpayers’ Ombudsperson](https://www.canada.ca/en/taxpayers-ombudsperson.html).
+
+#### Reprisal complaints
+
+If you have received a response regarding a previously submitted service complaint or a formal review of a CRA decision and feel you were not treated impartially by a CRA employee, you can submit a reprisal complaint by filling out [Form RC459, Reprisal Complaint](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc459.html).
+
+For more information, go to [Reprisal Complaints](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/reprisal-complaints.html).
+
+### Due dates for individual returns
+
+When the due date falls on a Saturday, Sunday, or public holiday recognized by the CRA, your return is considered on time if the CRA receives it or if it is postmarked on or before the next business day.
+
+For more information, go to [Due dates and payment dates](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/important-dates-individuals.html).
+
+### Cancel or waive penalties and interest
+
+The Canada Revenue Agency (CRA) administers legislation, commonly called the taxpayer relief provisions, that gives the CRA discretion to cancel or waive penalties and interest when taxpayers cannot meet their tax obligations due to circumstances beyond their control.
+
+The CRA’s discretion to grant relief is limited to any period that ended within 10 calendar years before the year in which a relief request is made.
+
+For penalties, the CRA will consider your request only if it relates to a tax year or fiscal period ending in any of the 10 calendar years before the year in which you make your request. For example, your request made in 2024 must relate to a penalty for a tax year or fiscal period ending in 2014 or later.
+
+For interest on a balance owing for any tax year or fiscal period, the CRA will consider only the amounts that accrued during the 10 calendar years before the year in which you make your request. For example, your request made in 2024 must relate to interest that accrued in 2014 or later.
+
+Taxpayer relief requests can be made online using the CRA's [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html), [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) (MyBA), or [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html) digital services
+
+- [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html): After signing in, select “Accounts and payments”, then “Request relief of penalties and interest”
+
+- [My BA](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) or [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html): After signing in, on the overview page select the appropriate program from the left menu and then select the account. Finally, select “Request relief of penalties and interest” from the right menu.
+
+You can also fill out [Form RC4288, Request for Taxpayer Relief – Cancel or Waive Penalties and Interest](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4288.html), and send it in one of the following ways:
+
+- online using [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html): select "Submit documents" from the "Correspondence" section
+
+- online with [My BA](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) or [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html): for a new case select "Submit documents" from the left menu, then select "No case or reference number?"; and finally, select "Request taxpayer relief – cancel or waive penalties and interest (Form RC4288)"
+
+- by mail to the designated office, as shown on the last page of the form, based on your place of residence.
+
+For information on the "Submit Documents online" service, go to [Submit documents online](https://www.canada.ca/en/revenue-agency/services/e-services/submit-documents-online.html).
+
+For more details on the required supporting documents, relief from penalties and interest, and other related forms and publication, go to [Cancel or waive penalties and interest](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/cancel-waive-penalties-interest.html).

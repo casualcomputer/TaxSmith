@@ -1,0 +1,117 @@
+Title: ARCHIVED - Capital Gains Derived in Canada by Residents of the United States
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it173r2sr/archived-capital-gains-derived-canada-residents-united-states.html
+Corpus path: corpus/cra/forms-publications/publications/it173r2sr/archived-capital-gains-derived-canada-residents-united-states.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Capital Gains Derived in Canada by Residents of the United States
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-173R2SR**
+
+DATE: February 12, 1996
+
+SUBJECT: INCOME TAX ACT**Capital Gains Derived in Canada by Residents of the United States**
+
+REFERENCE: SPECIAL RELEASE
+
+APPLICATION
+
+This Special Release revises Interpretation Bulletin IT-173R2 dated January 30, 1989. The purpose of this Special Release is to revise the bulletin (1) to reflect an amendment to the 1980 Canada-United States Income Tax Convention (the "1980 Convention") as contained in the third Protocol, signed on March 17, 1995, to the 1980 Convention, (2) to reflect an amendment to the Income Tax Act contained in S.C. 1994 c. 7 (formerly Bill C-15 and before that Bill C-92), (3) to clarify certain paragraphs, and (4) to delete a paragraph that has no current relevance.
+
+BULLETIN REVISIONS
+
+1. Paragraph 10 of the bulletin is revised to reflect an amendment to paragraph 8 of Article XIII of the 1980 Convention. Amended paragraph 8 of Article XIII provides that it can also apply to "other" organizations, reorganizations, amalgamations, divisions or similar transactions and not just "corporate" transactions of this nature. This amendment is effective with respect to taxation years beginning on or after January 1, 1996. Revised paragraph 10 reads as follows:
+
+10. Where a resident of the United States alienates property in the course of
+
+(a) a corporate organization, reorganization, amalgamation, division or similar transaction, or
+
+(b) with respect to taxation years beginning on or after January 1, 1996, any other organization, reorganization, amalgamation, division or similar transaction,
+
+and the profit, gain or income arising from the alienation is not recognized for income tax purposes by the United States but is so recognized by Canada, paragraph 8 of Article XIII of the 1980 Convention provides a means whereby double taxation may be avoided by deferring recognition in Canada of the profit, gain or income. To achieve such a deferral, the person or partnership who acquires that property and the vendor must petition the competent authority in Canada to defer the taxation (see 11 below). If the Canadian competent authority accedes to the request, an agreement must be entered into between that authority and the petitioners under which the deferral of taxation will be in effect for such time and under such other conditions as are stipulated in the agreement. Since the purpose of paragraph 8 of Article XIII of the 1980 Convention is to avoid double taxation, relief will only be granted to the extent necessary to avoid such double taxation. This provision is only applicable where alienations, in the circumstances stated, result in a net gain (i.e. gains exceed losses). The "competent authority" in Canada is the Minister of National Revenue or the Minister's authorized representative. Please refer to the current issue of Information Circular 71-17, Requests for Competent Authority Consideration Under Mutual Agreement Procedures in Income Tax Conventions, with respect to requests for competent authority consideration. (See also 11 below.)
+
+2. Paragraph 11 of the bulletin is revised to reflect an amendment, applicable after 1984, to section 115.1 of the Income Tax Act and to add other relevant information. The amendment to section 115.1 was made (i) in order that its application would not be restricted to the types of transactions listed in that section (as it read before the amendment), but rather would be applicable to a broader range of transactions, including proposed transactions, and (ii) in order to provide for the transfer of a taxpayer's rights and obligations (under an agreement to which the section applies) to another taxpayer. Revised paragraph 11 reads as follows:
+
+11. If there is a transaction as described in 10 above that has tax-deferred status in the United States but not in Canada, section 115.1 of the Canadian Income Tax Act reflects the Minister of National Revenue's authority to provide relief from the double taxation that may otherwise result. Where the Minister and a taxpayer have entered into an agreement under a provision of a tax treaty with another country that has the force of law in Canada, such as paragraph 8 of Article XIII of the 1980 Convention, subsection 115.1(1) provides that the terms and conditions of the agreement will govern the taxation of the taxpayer in Canada notwithstanding the provisions of the Act that would otherwise apply. Such an agreement may deal with (but is not restricted to) such matters as the vendor's proceeds of disposition and purchaser's cost of property, the tax base of depreciable property in Canada and the characterization of property in Canada (e.g, as capital property). Subsection 115.1(1) can apply to an agreement that concerns a completed or a proposed transaction. Under subsection 115.1(2), if the rights and obligations of a taxpayer under an agreement with the Minister described in subsection 115.1(1) have been transferred to another taxpayer with the concurrence of the Minister, that other taxpayer is deemed to have entered into, and is thus bound
+
+by, the agreement for purposes of applying subsection 115.1(1). Taxpayers who would like to enter into an agreement described in subsection 115.1(1) should write to:
+
+Director General International Tax Directorate Revenue Canada 2nd Floor Tower C Place Vanier 25 McArthur Road Vanier ON K1A 0L5.
+
+It should also be noted that the provisions of section 116 usually apply where a non-resident person disposes of taxable Canadian property. The requirements under that section are discussed in the current version of Information Circular 72-17, Procedures Concerning the Disposition of Taxable Canadian Property by Non- Residents of Canada - Section 116.
+
+3. Paragraphs 12 and 14 of the bulletin are revised for purposes of clarification. Previously, these paragraphs did not cover a situation in which an alienated capital asset had been acquired by a U.S. resident prior to January 1, 1972 (the starting point for Canada's taxation of capital gains). Paragraphs 12 and 14 are therefore revised, and a second example is added at the end of paragraph 14, in order to cover such a situation. (While the first example at the end of paragraph 14 is updated and clarified, it remains essentially the same as before in that it continues to be based on a post-1971 acquisition situation.) Revised paragraphs 12 and 14 read as follows:
+
+12. Paragraph 9 of Article XIII of the 1980 Convention provides a transitional rule reflecting the fact that, under Article VIII of the 1942 Canada-United States Income Tax Convention (the "1942 convention"), gains derived by a resident or corporation or other entity of the United States from the sale or exchange of capital assets located in Canada were exempt from tax in Canada provided that such resident or corporation or other entity did not have a permanent establishment in Canada at any time in the taxation year during which the sale or exchange occurred. Paragraph 9 of Article XIII of the 1980 Convention reduces the amount of a capital gain that would otherwise be liable to tax in Canada derived by a person resident in the United States from the alienation of a capital asset located in Canada, provided that such person either
+
+(a) owned the asset on September 26, 1980 and was a resident of the United States on September 26, 1980 and at all times after that date until the alienation; or
+
+(b) acquired the asset in a transaction which qualified as a non-recognition transaction (see 13 below) for Canadian tax purposes.
+
+The reduction to the amount of the capital gain otherwise liable to tax in Canada is described in 14 below. Paragraph 9 of Article XIII does not apply to
+
+(c) an asset that, on September 26, 1980, either formed part of the business property of a permanent establishment or pertained to a fixed base in Canada of a resident of the United States;
+
+(d) an alienation by a resident of the United States of an asset that was owned at any time after September 26, 1980 and before such alienation by a person who was not at all times after that date while the asset was owned by such person a resident of the United States; or
+
+(e) an alienation of an asset that was acquired by a person at any time after September 26, 1980 and before such alienation in a transaction other than a non-recognition transaction.
+
+14. In applying the transitional rule in paragraph 9 of Article XIII of the 1980 Convention as referred to in 12 above, the reduction to the amount of the capital gain otherwise liable to tax in Canada is either
+
+(a) the proportion of that amount that is attributable on a monthly basis to the period ending on December 31, 1984 (the method for determining such proportion is hereinafter referred to as the "pro-rata method"), or
+
+(b) such greater portion of that amount as is shown to the satisfaction of the Canadian competent authority to be reasonably attributable to that period.
+
+For purposes of determining the amount of the capital gain that is otherwise liable to tax in Canada, one should keep in mind that under the Canadian income tax system, any portion of a capital gain that accrued up to the end of 1971 is essentially not liable to tax in Canada. This result is achieved through the application of the Income Tax Application Rules, 1971 ("ITAR") that takes into account, when calculating a capital gain on a property that has been owned since before 1972, the fair market value of that property as of "V-day" (i.e., valuation day as of the end of 1971). The examples below illustrate the use of the pro-rata method for reducing the capital gain otherwise liable to tax in Canada. If the taxpayer (i.e., United States resident) wishes instead to show to the satisfaction of the Canadian competent authority that a greater portion of the capital gain otherwise liable to tax in Canada is attributed to the period ending December 31, 1984, this is usually accomplished by having the property appraised as of December 31, 1984. A taxpayer who wishes to use this method must indicate this on the taxpayer's Canadian income tax return for the taxation year in which the alienation took place and must attach to the return a statement describing the relevant evidence. The Canadian competent authority or authorized representative will >determine whether the taxpayer has satisfied the requirements of paragraph 9 of Article XIII of the 1980 Convention.
+
+Example 1 of pro-rata method (property acquired after 1971)
+
+An individual resident of the United States acquired real property situated in Canada on January 1, 1978 for $100,000. The property was sold on October 31, 1995 for $180,000. For the sake of simplicity, assume there were no costs of selling the property. If the pro-rata method provided for in paragraph 9 of Article XIII of the 1980 Convention were used, the capital gain otherwise liable to tax in Canada would be reduced as follows:
+
+| Capital gain otherwise liable to tax in Canada = $180,000 proceeds - $100,000 cost | $80,000 |
+
+| --- | --- |
+
+| Number of months property owned = | 214 |
+
+| Number of months property owned prior to January 1, 1985 = | 84 |
+
+| Reduction to capital gain = 84 x $80,000 = 214 | $31,402 |
+
+| Capital gain liable to tax in Canada after reduction = $80,000 - $31,402 = | $48,598 |
+
+| Taxable capital gain = 3/4 of $48,598 = | $36,449 |
+
+Example 2 of pro-rata method (property acquired before 1972)
+
+An individual resident of the United States acquired land situated in Canada on January 1, 1960 for $20,000. The V-day value of the property at the end of 1971 was $80,000. The property was sold on October 31, 1995 for $180,000. For the sake of simplicity, assume there were no costs of selling the property. If the pro-rata method provided for in paragraph 9 of Article XIII of the 1980 Convention were used, the capital gain otherwise liable to tax in Canada would be reduced as follows:
+
+| Capital gain otherwise liable to tax in Canada = $180,000 proceeds - $80,000 V-day value (which, in this example, is deemed to be the adjusted cost base because of ITAR 26(3)) = | $100,000 |
+
+| --- | --- |
+
+| Number of months property owned after December 31, 1971 (the starting point for Canada's taxation of capital gains) = | 286 |
+
+| Number of months property owned after December 31, 1971 and prior to January 1, 1985 = | 156 |
+
+| Reduction to capital gain = 156 x $100,000 = 286 | $54,545 |
+
+| Capital gain liable to tax in Canada after reduction = $100,000 - $54,545 = | $45,455 |
+
+| Taxable capital gain = 3/4 of $45,455 = | $34,091 |
+
+4. Paragraph 15 of the bulletin, as issued January 30, 1989, has no current relevance and is deleted.
+
+If you have any comments regarding the matters discussed in this special release, please send them to:
+
+Director,Technical Publications Division Policy and Legislation Branch Revenue Canada 875 Heron Road Ottawa ON K1A 0L8

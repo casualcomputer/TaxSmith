@@ -1,0 +1,40 @@
+---
+title: "ARCHIVED - Transactions in securities"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it479rsr/archived-transactions-securities.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Transactions in securities
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-479RSR**
+
+DATE: February 21, 1985
+
+SUBJECT: INCOME TAX ACT**Transactions in securities**
+
+REFERENCE: Section 39 (Also sections 9 and 49 and section 6200 of the Regulations)
+
+1. Paragraph 6 of IT-479R is hereby cancelled and replaced by the following:
+
+"6. The election under subsection 39(4) is applicable only to "Canadian securities". This term is defined in subsection 39(6) as a security (other than an indexed security or a prescribed security) that is a share of the capital stock of a corporation resident in Canada, a unit of a mutual fund trust (applicable to 1979 and subsequent taxation years) or a bond, debenture, bill, note, mortgage, hypothec or a similar obligation issued by a person resident in Canada. A Canadian security includes such a security that is sold short. The term "indexed security" is defined by paragraph 47.1(1)(e) of the Act and "a prescribed security" is defined by section 6200 of the Regulations."
+
+2. The reference in paragraph 7 to "3(f)" should be "3(g)"
+
+3. Paragraph 20 is cancelled and replaced by the following:
+
+"20. Section 66.3 deems shares of capital stock acquired under the circumstances described in subparagraphs 66.1(6)(a)(v), 66.2(5)(a)(v) or 66.4(5)(a)(iii) not to be capital property of a taxpayer, if acquired before November 13, 1981 but to be inventory acquired at a cost to the taxpayer of nil. Such shares acquired after November 12, 1981 will not be deemed to be inventory. The ordinary rules will apply for determining whether such shares are capital property or inventory in the hands of the shareholder but the shares will be deemed to have been acquired at a cost of NIL."
+
+4. Paragraph 21(b) is changed by replacing the reference to "subsection 20(14)" with "subsections 20(14) and (14.1)".
+
+5. Paragraph 21 is further amended by changing the reference in subparagraph (c) from "11 to 13 of IT-265R" to "8 to 11 of IT-265R2".
+
+6. IT-114 is under revision. When IT-114R is issued, it will be necessary to revise the numbering of the paragraphs of IT-114 referred to in paragraphs 16, 21 and 22.

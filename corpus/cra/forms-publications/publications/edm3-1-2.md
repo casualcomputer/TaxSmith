@@ -1,0 +1,18 @@
+---
+title: "EDM3-1-2 CANCELLED Licensed Users"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edm3-1-2.html
+last_modified: 2013-10-31
+---
+# EDM3-1-2 CANCELLED Licensed Users
+
+## This publication was cancelled
+
+This publication was cancelled as of 2026-04-15 and replaced with [EDM3-1-2 Licensed users](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm3-1-2-licensed-users.html).
+
+The Excise Act, 2001 requires a person to obtain a user's licence in order to be authorized to perform certain activities that are restricted under the Act. This memorandum provides an overview of the obligations and entitlements of persons who may become licensed users
+
+## Related documents
+
+- [B263 Excise Duty Return - Licensed User](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b263.html)
+
+- [EDN40 Semi-Annual Reporting Period for Certain Licensees](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edn40.html)

@@ -1,0 +1,57 @@
+Title: ARCHIVED - Sale of Accounts Receivable
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it188r/archived-sale-accounts-receivable.html
+Corpus path: corpus/cra/forms-publications/publications/it188r/archived-sale-accounts-receivable.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Sale of Accounts Receivable
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-188R**
+
+DATE: May 22, 1984
+
+SUBJECT: INCOME TAX ACT**Sale of Accounts Receivable**
+
+REFERENCE: Section 22 (also sections 28, 34, 85, 88 and 97, subsections 50(1) and 69(1), and paragraphs 20(1)(l) and 20(1)(p))
+
+This bulletin cancels and replaces Interpretation Bulletin IT-188 dated November 12, 1974. Current revisions are designated by vertical lines.
+
+1. Section 22 is applicable upon election by a vendor and a purchaser, where the vendor (individual, partnership, corporation or estate) sells all or substantially all of the assets of a business that was carried on in Canada to the purchaser who proposes to continue the business. All or substantially all is considered to be at least 90% of the property used in carrying on the business. The business assets sold must include all the accounts receivable of the vendor that are outstanding at the time of the sale. "Accounts receivable" includes the debts arising from loans made in the ordinary course of the business if part of the business was the lending of money.
+
+2. If the Minister accepts the election (see 5 below) the vendor of the business is entitled to deduct in the year of sale any loss on sale of the accounts receivable computed as the difference between the proceeds received and their face value (excluding those accounts previously written off as bad debts under paragraph 20(1)(p)). The loss is computed without regard to any reserve for doubtful debts, whether or not such reserve has been previously allowed as a deduction under paragraph 20(1)(l).
+
+3. The amount that the vendor is allowed as a deduction in the year of sale pursuant to paragraph 22(1)(a) (see 2 above) must be included in the purchaser's income in the year of the purchase. Paragraph 22(1)(c) provides that the purchaser may then deal with the accounts receivable for tax purposes as though they had arisen while such purchaser was the owner of the business; that is, for these accounts the purchaser may claim a deduction for a reserve for doubtful debts under paragraph 20(1)(l) and may deduct bad debts under paragraph 20(1)(p). A receivable that the vendor previously deducted under paragraph 20(1)(p) may not be deducted by the purchaser. Also, if the purchaser should collect a receivable previously deducted by the vendor under paragraph 20(1)(p), it must be included in income.
+
+4. That portion of the sale price of the business that is the consideration for the accounts receivable is required to be set out in the election which the vendor and purchaser must execute pursuant to subsection 22(2). The election must be made on form T2022 and should be filed with the tax return for the year of the sale. References to "year" and "taxation year" in subsection 22(1) refer to the fiscal period of a business.
+
+5. The amount that is stated in the election to be the consideration for the accounts receivable is final for tax purposes as far as the vendor and purchaser are concerned and cannot later be altered. It is not necessarily binding on the Minister, however, and may be questioned on assessment if it is considered not to reflect the facts of the sale, such as when the face value of the debts sold is incorrectly stated or when the consideration actually paid is different from that set out in the election as paid. If the vendor and purchaser are not dealing at arm's length and the fair market value of the accounts receivable sold was more or less than the consideration paid for them, the provisions of paragraph 69(1)(a) or (b) will be applied to the transaction.
+
+6. If the agreement for the sale of the business does not specify what part of the total consideration is for the accounts receivable, a reasonable allocation must be made between accounts receivable and other assets included in the sale.
+
+Other Sales or Transfers of Accounts Receivable
+
+7. If the sale of accounts receivable by taxpayers on the accrual basis does not meet the requirements under section 22 as outlined above, or if the vendor and the purchaser do not file an election, any loss on sale will be a capital loss to the vendor, unless the vendor is a trader in accounts receivable. Such a loss is treated in accordance with the provisions of the Act governing capital losses. However, the vendor does have the right to establish that, as of the date of the sale, certain of the accounts receivable were bad debts which met the requirements of paragraph 20(1)(p) and were therefore deductible as an expense of the year. The purchaser cannot claim deductions under paragraph 20(1)(l) or (p) for the accounts purchased, and any gain or loss on realization of the accounts is a capital gain or loss unless the purchaser is a trader in accounts receivable. If, at the end of a taxation year ending subsequent to the purchase, any one of the purchased accounts receivable is considered uncollectible, the purchaser is deemed, by subsection 50(1) of the Act, to have disposed of it at that time, giving rise to a capital loss. At the same time the purchaser is deemed to have reacquired the receivable for nil and any recovery or disposition of the bad debt is included in the computation of capital gains in the year of recovery.
+
+8. Where in the ordinary course of business a taxpayer discounts customer's trade paper such as notes and bills receivable, the amount of the discount is considered to be a deductible business expense, not a capital loss.
+
+9. An election under section 22 is not available when debts are distributed to the parent on winding-up under the provisions of section 88 because a sale did not take place. The use of the "rollover" provisions of section 97 in respect of the sale of accounts receivable precludes the use of a section 22 election, except in the circumstances set out in 12 of IT-471. Similarly, the use of the "rollover" provisions of section 85 precludes the use of a section 22 election, but there is nothing to prevent the sale of the accounts receivable (using section 22) before the rest of the assets are "rolled" under section 85.
+
+Cash Basis Taxpayers
+
+10. Where a taxpayer who reports income from a business on a cash basis disposes of, or ceases to carry on, all or part of the business, the amount received for the accounts receivable that would have been income is income to the taxpayer in the year of receipt pursuant to subsection 28(5). This is income whether it is received from the sale of a business as a going concern, or from the separate sale or later collection of the accounts receivable. Any amount brought into income by subsection 28(5) was eligible income with which to acquire an income averaging annuity contract (I.A.A.C.). However, the deduction allowed in respect of payments made by a taxpayer for the purchase of an I.A.A.C. have been phased-out and generally is no longer allowable after November 12, 1981. It should be noted that use of the forward averaging rules may be beneficial in a year subsequent to 1981 when subsection 28(5) income is reported. The provisions of section 119, averaging for farmers and fishermen, may also be applied.
+
+11. A taxpayer who reports income from a business on a cash basis may dispose of, or cease to carry on, the business or part of it and become a non-resident of Canada before the accounts receivable are fully collected. The comments in the preceding paragraph (except the comment on forward averaging) apply to all amounts received on collection of the accounts up to and including the year in which the taxpayer ceased to be a resident of Canada, at which time the taxpayer is required by subsection 28(4) also to include in income an amount equal to the value of the uncollected accounts when the taxpayer ceased to be a resident of Canada.
+
+Reserves for Doubtful Accounts
+
+12. Where a taxpayer who reports income from a business on an accrual basis sells the business, any reserve for doubtful debts allowed at the end of the preceding taxation year should be included in income of the current year. No reserve for doubtful debts is allowable as of the date of the sale since the reserve allowable under paragraph 20(1)(l) is required to be calculated as of the end of the taxation year, when the accounts receivable would not be debts owing to the taxpayer.

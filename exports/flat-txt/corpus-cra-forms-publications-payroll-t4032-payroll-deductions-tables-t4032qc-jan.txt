@@ -1,0 +1,37 @@
+Title: T4032QC Payroll Deductions Tables - EI, and income tax deductions - Quebec - Effective January 1, 2026
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/payroll/t4032-payroll-deductions-tables/t4032qc-jan.html
+Corpus path: corpus/cra/forms-publications/payroll/t4032-payroll-deductions-tables/t4032qc-jan.md
+Document type: publication
+Last modified: 2024-12-16
+
+# T4032QC Payroll Deductions Tables - EI, and income tax deductions - Quebec - Effective January 1, 2026
+
+## Notice to the reader
+
+Publication T4032, *Payroll Deductions Tables*, is available in sections for each province and territory. Section A (available in both HTML and PDF formats) contains general information. Sections B and C (available in PDF format only) contain the payroll deductions tables for Employment Insurance premiums and the payroll deductions tables for federal tax deductions.
+
+Please note that you can also use the [Payroll Deductions Online Calculator (PDOC)](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/payroll-deductions-online-calculator.html) to calculate federal tax deductions and employment insurance premiums.
+
+### Section A
+
+- [t4032qc-january-general-information.html [HTML]](https://www.canada.ca/en/revenue-agency/services/forms-publications/payroll/t4032-payroll-deductions-tables/t4032qc-jan/t4032qc-january-general-information.html)
+
+- [t4032-qc-1-26e.pdf [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4032/2026/t4032-qc-1-26e.pdf)
+
+### Section B - Employment Insurance premiums tables
+
+- When the [province of employment is Quebec [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4032/2026/t4032ei-ae-qc-26eng.pdf)
+
+### Section C - Federal tax deductions tables for Quebec
+
+- [52 pay periods a year (Weekly) [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4032/2026/t4032-qc-52pp-26-eng.pdf)
+
+- [26 pay periods a year (Biweekly) [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4032/2026/t4032-qc-26pp-26-eng.pdf)
+
+- [24 pay periods a year (Semi-monthly) [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4032/2026/t4032-qc-24pp-26-eng.pdf)
+
+- [12 pay periods a year (Monthly) [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4032/2026/t4032-qc-12pp-26-eng.pdf)
+
+**Last update:** 2025-12-17
+
+**Related document:**[T4032 Payroll Deductions Tables](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/t4032-payroll-deductions-tables.html)

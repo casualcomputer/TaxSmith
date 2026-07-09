@@ -1,0 +1,133 @@
+Title: G300-6-2 Payments (GST 300-6-2)
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/g300-6-2/payments-gst-300-6-2.html
+Corpus path: corpus/cra/forms-publications/publications/g300-6-2/payments-gst-300-6-2.md
+Document type: publication
+Last modified: 2017-11-07
+
+# G300-6-2 Payments (GST 300-6-2)
+
+**Notice to the reader:**
+
+Please note that the following GST Memorandum, although correct at the time of issue, has not been updated to reflect any subsequent legislative changes since the date of issue. As a result, some of the technical information this memorandum contains may no longer be valid. Please contact your GST/HST Rulings Centre for assistance.
+
+GST memoranda 300-6-2
+
+**TAX ON SUPPLIES TIME OF LIABILITY**
+
+**Ottawa, March 20, 1991**
+
+**PAYMENTS**
+
+This memorandum in the "**TIME OF LIABILITY**" sub-series explains when a payment is considered to be made for purposes of timing of liability for the Goods and Services Tax (GST).
+
+**LEGISLATIVE REFERENCES**
+
+*Excise Tax Ac*t, sections 123, 152, 168, 169, 182, 223, and subsections 153(3) and 334(1)
+
+**DEFINITIONS**
+
+The following definitions have either been taken from the *Excise Tax Act* as amended by S. C. 1990, c. 45 (Bill C-62) or represent departmental interpretations of terms relevant to the administration of that Act.
+
+"**Act**" means the **Excise Tax Act**;
+
+"**consideration**" may be money, a thing, a service, forbearance in the exercise of a right or anything else which induces the supplier to make the supply. Where consideration is monetary, the amount of the money will be used to calculate the tax. Where the consideration is non-monetary, the fair market value of the consideration at the time the supply was made will be used to calculate the tax;
+
+"**invoice**" includes a statement of account, a bill and any other similar record, regardless of its form or characteristics, and a cash register slip or receipt;
+
+"**person**" means an individual, partnership, corporation, trust or estate, or a body that is a society, union, club, association, commission or other organization of any kind;
+
+"**property**" means any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money;
+
+"**recipient**", in respect of a supply, means the person who pays or agrees to pay consideration for the supply or, if no consideration is or is to be paid for the supply, the person to whom the supply is made;
+
+"**registrant**" means a person who is registered, or who is required to apply to be registered, under sections 240 and 241 of the *Excise Tax Act*;
+
+"**sale**", in respect of property, includes any transfer of the ownership of the property and a transfer of the possession of the property under an agreement to transfer ownership of the property;
+
+"**service**" means anything other than
+
+(a) property,
+
+(b) money, and
+
+(c) anything that is supplied to an employer by a person who is or agrees to become an officer or employee of the employer in the course of or in relation to the office or employment of that person;
+
+"**supply**" means, subject to sections 133 and 134 of the Act, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition;
+
+"**tax**" means the Goods and Services Tax payable under Part IX of the *Excise Tax Ac*t;
+
+"**taxable supply**" means a supply that is made in the course of a commercial activity, but does not include an exempt supply.
+
+**GENERAL RULE**
+
+1. The general timing of liability rule under subsection 168(1) of the Act is that tax is payable by the recipient of a taxable supply on the earlier of the day the consideration for the supply is paid and the day the consideration for the supply becomes due. Tax is generally collectible by the supplier at the same time that it is payable by the recipient.
+
+2. Registrants are required to account for any tax collectible on the return for the reporting period in which the tax became collectible, regardless of whether it was actually collected.
+
+**Consideration Becomes Due**
+
+3. Under subsection 152(1) of the Act, consideration, or a part thereof, for a taxable supply, is deemed to become due on the earliest of the following days:
+
+(a) the day the supplier first issues an invoice in respect of the supply for that consideration or part;
+
+(b) the date of that invoice;
+
+(c) the day when, but for an undue delay, the supplier would have issued an invoice in respect of the supply for that consideration or part; and
+
+(d) the day that the recipient is required to pay that consideration or part pursuant to an agreement in writing.
+
+4. When a taxable supply of property is made by way of lease, licence or similar arrangement under an agreement in writing, subsection 152(2) provides that, notwithstanding subsection 152(1) of the Act, consideration, or a part, is deemed to become due on the day the recipient is required to pay the consideration, or a part, pursuant to the agreement. For example, if payments were made on specific dates under the terms of a written agreement, the timing of liability for the tax is determined by the agreement, unless the consideration is paid in advance of the date (subsection 168(1) of the Act).
+
+**PAYMENT IS MADE**
+
+5. Payment is made when the supplier receives the money, property or service which is the consideration for the supply. In most cases, liability for the tax is triggered on the day payment is made, becomes due or is deemed to become due.
+
+6. A supplier has received payment when the consideration for the supply is in the supplier's possession or control. Receipt by an agent of the supplier generally constitutes receipt by the supplier.
+
+7. Subsection 334(1) of the Act provides that anything sent by first class mail or its equivalent is deemed to have been received by the person to whom it was sent on the day it was mailed. In general, this day is determined by the postmark on the envelope.
+
+**Barters** 8. When property or a service and not money is given or required to be given as consideration for a supply, subsection 152(3) of the Act states that consideration will be deemed paid or required to be paid at the time the property or service is given or required to be given.
+
+**Post-dated Cheques**
+
+9. In the case of post-dated cheques, consideration will generally be viewed as paid on the post-date of the cheque (the day the cheque first becomes negotiable) rather than the day the cheque is given to the supplier. For example, if a supply is paid for by post-dated cheques dated at monthly intervals over a one- year period, consideration for each part of the supply will be viewed as paid on the date of the post-date of each cheque.
+
+**EXCEPTIONS**
+
+There are some situations when tax is not collectible on the earlier of the day that payment is made or becomes due.
+
+**Deposits**
+
+10. When a person gives a deposit for a supply, under subsection 168(9) of the Act the deposit is not regarded as payment of consideration for the supply until the supplier applies the deposit against the consideration for the supply or the deposit is forfeited. More information is available in GST MEMORANDUM 300-6-8, "**DEPOSITS**".
+
+**Coin-operated Devices**
+
+11. If taxable supplies are made by way of a coin-operated device, such as a washing machine or video game machine, the recipient is treated as having paid consideration and any tax payable on the day the coins are inserted into the machine. On the day the supplier removes the money from the machine, the supplier is receiving the consideration and collecting any tax payable by the recipient. Suppliers must include such tax on the return for the reporting period which includes the day the coins were removed from the device. More information is available in GST MEMORANDUM 300-6-10, "**COIN-OPERATED DEVICES**".
+
+**NOTE**: This publication is not a legal document. It contains general information and is provided for convenience and guidance in applying the Excise Tax Act and Regulations. If interpretations problems occur, please refer to the legislation or contact the nearest Revenue Canada Excise office.
+
+**REFERENCES**
+
+**OFFICE OF RESPONSIBILITY:**
+
+Policy and Legislation
+
+**LEGISLATIVE REFERENCES:**
+
+*Excise Tax Act*
+
+**HEADQUARTERS FILE:**
+
+N/A
+
+**SUPERSEDES GST MEMORANDUM:**
+
+N/A
+
+**OTHER REFERENCES:**
+
+N/A
+
+SERVICES PROVIDED BY THE DEPARTMENT ARE AVAILABLE IN BOTH OFFICIAL LANGUAGES.
+
+THIS MEMORANDUM IS ISSUED BY TECHNICAL INFORMATION, EXCISE BRANCH UNDER THE AUTHORITY OF THE DEPUTY MINISTER OF NATIONAL REVENUE, CUSTOMS AND EXCISE.

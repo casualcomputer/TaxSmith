@@ -1,0 +1,28 @@
+---
+title: "T4002 Self-employed Business, Professional, Commission, Farming, and Fishing Income"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002.html
+last_modified: 2026-04-10
+---
+# T4002 Self-employed Business, Professional, Commission, Farming, and Fishing Income
+
+## Ways to access the information
+
+- Read the publicationPrevious years: Standard print PDFsThis form is also available for the years listed below:[2024 – Standard print PDF (t4002-24e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-24e.pdf)[2023 – Standard print PDF (t4002-23e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-23e.pdf)[2022 – Standard print PDF (t4002-22e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-22e.pdf)[2021 – Standard print PDF (t4002-21e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-21e.pdf)[2020 – Standard print PDF (t4002-20e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-20e.pdf)[2019 – Standard print PDF (t4002-19e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-19e.pdf)[2018 – Standard print PDF (t4002-18e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-18e.pdf)[2017 – Standard print PDF (t4002-17e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-17e.pdf)[2016 – Standard print PDF (t4002-16e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-16e.pdf)[2015 – Standard print PDF (t4002-15e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-15e.pdf)[2014 – Standard print PDF (t4002-14e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-14e.pdf)[2013 – Standard print PDF (t4002-13e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-13e.pdf)[2012 – Standard print PDF (t4002-12e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-12e.pdf)[2011 – Standard print PDF (t4002-11e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-11e.pdf)[2010 – Standard print PDF (t4002-10e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-10e.pdf)[2009 – Standard print PDF (t4002-09e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-09e.pdf)[2008 – Standard print PDF (t4002-08e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-08e.pdf)[2007 – Standard print PDF (t4002-07e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-07e.pdf)[2006 – Standard print PDF (t4002-06e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-06e.pdf)[2005 – Standard print PDF (t4002-05e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-05e.pdf)[2004 – Standard print PDF (t4002-04e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-04e.pdf)[2003 – Standard print PDF (t4002-03e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-03e.pdf)[2002 – Standard print PDF (t4002-02e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-02e.pdf)[2001 – Standard print PDF (t4002-01e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-01e.pdf)[2000 – Standard print PDF (t4002-00e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-00e.pdf)[1999 – Standard print PDF (t4002-99e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-99e.pdf)[1998 – Standard print PDF (t4002-98e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-98e.pdf)[1997 – Standard print PDF (t4002-97e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-97e.pdf)[1996 – Standard print PDF (t4002-96e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-96e.pdf)[1995 – Standard print PDF (t4002-95e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-95e.pdf)[1994 – Standard print PDF (t4002-94e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-94e.pdf)[1993 – Standard print PDF (t4002-93e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-93e.pdf)[1992 – Standard print PDF (t4002-92e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-92e.pdf)[1991 – Standard print PDF (t4002-91e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-91e.pdf)[1990 – Standard print PDF (t4002-90e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-90e.pdf)[1989 – Standard print PDF (t4002-89e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-89e.pdf)[1988 – Standard print PDF (t4002-88e.pdf)](/content/dam/cra-arc/formspubs/pub/t4002/t4002-88e.pdf)
+
+    - Online format [t4002-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002/t4002-1.html)
+
+    - PDF [t4002-25e.pdf](/content/dam/cra-arc/formspubs/pub/t4002/t4002-25e.pdf)
+
+- Ask for an alternate formatYou can order a digital audio, e-text, braille or large print version of this publication to be sent to you by mail.[Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html)
+
+## Related documents
+
+- [T2042 Statement of Farming Activities](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2042.html)
+
+- [T2121 Statement of Fishing Activities](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2121.html)
+
+- [T2125 Statement of Business or Professional Activities](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2125.html)
+
+- [T4003 Farming and Fishing Income](https://www.canada.ca/en/revenue-agency/services/forms-publications/previous-year-forms-publications/archived-t4003.html)
+
+- [T4004 Fishing Income](https://www.canada.ca/en/revenue-agency/services/forms-publications/previous-year-forms-publications/archived-t4004.html)

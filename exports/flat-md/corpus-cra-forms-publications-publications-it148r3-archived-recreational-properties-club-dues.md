@@ -1,0 +1,168 @@
+---
+title: "ARCHIVED - Recreational Properties and Club Dues"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it148r3/archived-recreational-properties-club-dues.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Recreational Properties and Club Dues
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-148R3**
+
+DATE: July 21, 1997
+
+SUBJECT: INCOME TAX ACT**Recreational Properties and Club Dues**
+
+REFERENCE: Paragraph 18(1)(l) (also subsection 13(7) of the *Income Tax Act* and subsection 1102(17) and paragraph 1102(1)(f) of the *Income Tax Regulations*)
+
+### Notice -- Bulletins do not have the force of law
+
+***This document is also available for [download in PDF format](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it148r3.html).***
+
+## Recreational Properties and Club Dues
+
+## Contents
+
+- *[Application](#P65_2486)*
+
+- *[Summary](#P67_2560)*
+
+- *[Discussion and Interpretation](#P75_4583)*
+
+    - [RECREATIONAL PROPERTIES](#P76_4612) (¶ 1)
+
+          - [Yachts](#P78_5052) (¶ 2)
+
+          - [Camp and lodge](#P83_7193) (¶ 3)
+
+          - [Golf course or facility](#P87_9211) (¶ 4)
+
+          - [General comments](#P90_10304) (¶s 5-10)
+
+    - [CLUB DUES](#P100_14419) (¶s 11-12)
+
+- *[Explanation of Changes](#P118_16559)*
+
+## Application
+
+This bulletin cancels and replaces IT-148R2 dated June 2, 1981.
+
+## Summary
+
+The *Income Tax Act* provides several restrictions and limits on the deductibility of outlays and expenses in computing income from a business or property. In this regard, generally, no deduction may be made in respect of outlays and expenses except to the extent that they were made or incurred by a taxpayer for the purpose of gaining or producing income from a business or property, are reasonable in the circumstances, and are not personal or living expenses.
+
+This bulletin deals with the rules concerning the limitation under paragraph 18(1)(l) regarding the deductibility of expenses in respect of recreational properties and club dues in computing a taxpayer's income from a business or property. Paragraph 18(1)(l) provides that, in computing income from a business or property, a taxpayer cannot deduct:
+
+- outlays or expenses for the use or maintenance of a property that is a yacht, camp, lodge or a golf course or facility unless they were incurred in the ordinary course of a taxpayer's business of providing the property for hire or reward; or
+
+- membership fees or dues in any club if the main purpose of the club is to provide its members with dining, recreational, or sporting facilities.
+
+Expenses for food, beverages and entertainment that are not subject to paragraph 18(1)(l) are still subject to the provisions of paragraph 18(1)(a) and sections 67 and 67.1. See the current version of IT-518, *Food, Beverages and Entertainment Expenses*, for more information.
+
+The intent of paragraph 18(1)(l) is to deny the deduction of outlays or expenses in situations where taxpayers provide recreational activities or facilities to persons such as business clients, suppliers, employees, shareholders or others for which the direct business purpose is marginal. Certain types of recreational properties or sites that were perceived as prone to being used for this type of activity were identified by Parliament and the deduction of outlays or expenses incurred for the use and maintenance of these sites is prohibited.
+
+## Discussion and Interpretation
+
+### RECREATIONAL PROPERTIES
+
+**¶ 1.** Subparagraph 18(1)(l)(i) is not restricted to a taxpayer who is the owner of a property described therein but also applies to a taxpayer who rents or uses such a property from the owner and, in either case, the use of the property may be by the taxpayer or by the taxpayer's clients, suppliers, shareholders or employees. (*Sie-Mac Pipeline Contractors Ltd. v. The Queen*, 93 DTC 5158, [1993] 1 C.T.C. 226, S.C.C.).
+
+### Yachts
+
+**¶ 2.** The word "yacht," as used in paragraph 18(1)(l), is not defined in the *Income Tax Act*. Whether or not a particular vessel is a "yacht" for purposes of subparagraph 18(1)(l)(i) will normally depend on the general use to which it is put, rather than the nature of its design (*John Barnard Photographers Ltd. v. The Minister of National Revenue*, 79 DTC 592, [1979] C.T.C. 2678). The meaning of the word "yacht" in paragraph 18(1)(l) was examined in *C.I.P. Inc. v. The Minister of National Revenue*, 86 DTC 1373, [1986] 1 C.T.C. 2525. The Tax Court of Canada found that a tugboat, which had been refitted by its owner as a residence and chartered by the taxpayer for purposes of entertainment, was not a yacht because the vessel's primary use was a residence by its owner. The tugboat was available for charter for only part of the year. The question of whether the vessel was a yacht depended on the general use that was made by the owner rather than the use that the taxpayer made of the tugboat when it was chartered. This decision was upheld by the Federal Court -- Trial Division, 88 DTC 6005, [1988] 1 C.T.C. 32.
+
+Paragraph 18(1)(l) will not apply to deny an outlay or expense in connection with a vessel essential to the business operations, "all or substantially all" the use of which is for business purposes. For this purpose, the "all or substantially all" test will be considered to be met if at least 90 per cent of the use is for business purposes. In this respect, business purposes do not include the entertainment or recreation of clients, suppliers, shareholders or employees.
+
+If a yacht is used primarily to entertain clients, suppliers, shareholders or employees, the deductibility of any interest expense on funds borrowed to purchase the yacht is generally denied by the application of subparagraph 18(1)(l)(i).
+
+Expenses incurred for food and beverages at a dining facility of a yacht will not be subject to subparagraph 18(1)(l)(i), if such dining facilities are used on their own and not in conjunction with the recreational nature of the property and there is a genuine business purpose to the use of the facilities.
+
+### Camp and lodge
+
+**¶ 3.** The words "camp" and "lodge," as used in subparagraph 18(1)(l)(i), are not defined in the *Income Tax Act*. However, for this purpose, "lodge" is generally considered to mean an inn or resort hotel, particularly one that is a centre for recreational activities, as well as a dwelling occupied on a seasonal basis in connection with particular activities, such as hunting or fishing. It is a question of fact whether a hotel or inn is a "lodge." Some factors to consider in making this determination include the location of the hotel or inn, whether it is operated on a seasonal or year-round basis, the type of facilities offered, and whether the facilities offered are the primary or secondary focus, or are incidental to the hotel or inn.
+
+The words "camp" and "lodge" are not considered to embrace a small cottage or other similar dwelling which is designed primarily for the restricted use of a single family. Whether or not a particular dwelling is a "lodge" or "camp" for this purpose will normally depend on the use to which it is put, rather than the physical characteristics or the nature of the design of the property. A reasonable proportion of the taxes, insurance and other like expenses incurred in the maintenance of a cottage may be claimed as a deduction in computing income if a self-employed individual is carrying on a business, or is an employed commission salesman who is required to supply his or her own office space, provided a portion of the cottage is used solely for such income-earning activities by the self-employed individual or employed commission salesman.
+
+If a resort hotel or lodge is used for a genuine business purpose which does not include the entertainment or recreation of clients, suppliers, shareholders or employees, the related expenses are not considered to be subject to paragraph 18(1)(l). Notwithstanding the above, paragraph 18(1)(l) applies in situations where some business meetings may be involved but the main activity is recreation or entertainment.
+
+### Golf course or facility
+
+**¶ 4.** The word "facility" as used in subparagraph 18(1)(l)(i), refers solely to a golf course and is intended to extend the words "golf course" to include any amenities provided by a golf club, such as a restaurant, dining room, lounge, banquet hall, conference room, health club, swimming pool, curling rink or tennis courts.
+
+Green fees or membership fees in a golf club are not deductible by virtue of paragraph 18(1)(l). In addition, expenses incurred for food and beverages at, and for the use of, a restaurant, dining room, lounge, banquet hall or conference room of a golf club in conjunction with a game of golf or other recreational activity at the golf club are not deductible by virtue of subparagraph 18(1)(l)(i). Expenses incurred for food and beverages at a restaurant, dining room, banquet hall or conference room of a golf club are not subject to paragraph 18(1)(l), provided there is a genuine business purpose to the use of the facilities and the expenses are not incurred in conjunction with a game of golf or other recreational activity at the golf club.
+
+### General comments
+
+**¶ 5.** Any property that forms part of the inventory of a taxpayer is not subject to the rule in subparagraph 18(1)(l)(i). For example, if a taxpayer's business involves the purchase or manufacture of yachts for sale, the maintenance costs of such yachts are not disallowed by subparagraph 18(1)(l)(i).
+
+**¶ 6.** The disallowance of outlays or expenses for the maintenance of a recreational property described in subparagraph 18(1)(l)(i) does not extend to such costs incurred by a taxpayer whose ordinary business consists of or includes the renting of that property. If this is the case but, at times, the property is used for some other purpose, such as business entertaining or personal enjoyment, a reasonable proportion of the maintenance expenses attributable to such uses cannot be claimed as a deduction in computing income.
+
+**¶ 7.** If the ordinary business of a taxpayer does not consist of or include the renting of the recreational property, the maintenance expenses of the property that would otherwise not be deductible under paragraph 18(1)(l) may be used to offset any incidental rent that may be received therefrom, even if the incidental rent exceeds the non-deductible maintenance expenses.
+
+**¶ 8.** In regard to capital cost allowances that may be claimed on properties described in subparagraph 18(1)(l)(i) that are owned by a taxpayer, a distinction must be drawn between such properties acquired by the taxpayer before January 1, 1975, and those acquired at a later date. For properties acquired before January 1, 1975, neither subparagraph 18(1)(l)(i) of the Act nor the *Income Tax Regulations* prohibit a deduction for capital cost allowance if the property was acquired to produce income from a business of any kind. For example, if a taxpayer owns a fishing lodge and can show that he or she uses it to entertain customers or potential customers and the property was acquired by him before January 1, 1975, for purposes of gaining or producing income, the taxpayer is entitled to claim capital cost allowance on the property. However, the taxpayer is prohibited by subparagraph 18(1)(l)(i) from deducting any of its maintenance costs. If the property is used partly for a business purpose and partly for a non-business purpose, the capital cost must be apportioned on the basis of the two uses, as provided in subsection 13(7).
+
+**¶ 9.** If a property described in subparagraph 18(1)(l)(i) was acquired by a taxpayer on or after January 1, 1975, paragraph 1102(1)(f) of the Regulations prohibits a deduction for capital cost allowance if any part of the maintenance costs of the property are non-allowable by virtue of subparagraph 18(1)(l)(i) of the Act. In accordance with subsection 1102(17) of the Regulations, a property is not to be viewed as having been acquired on or after January 1, 1975, if:
+
+- the taxpayer was obligated to acquire it under the terms of an agreement in writing entered into before November 13, 1974;
+
+- construction of the property had commenced by the taxpayer before November 13, 1974, and the construction was completed substantially in accordance with plans and specifications agreed to by the taxpayer before November 13, 1974; or
+
+- construction of the property had commenced under an agreement in writing entered into by the taxpayer before November 13, 1974, and the construction was completed substantially in accordance with plans and specifications agreed to by the taxpayer before November 13, 1974.
+
+**¶ 10.** As indicated in [¶ 2](#P02) above, paragraph 18(1)(l) will not apply to deny an outlay or expense in connection with a property, described in subparagraph 18(1)(l)(i), essential to the business operations, if "all or substantially all" of its use is for business purposes. Consequently, capital cost allowance would be deductible for a particular taxation year if the "all or substantially all" business purpose test is met for a property that was provided for hire or reward as part of the taxpayer's ordinary business. If such a property is also used by the taxpayer for personal use, an apportionment of the capital cost is required in accordance with subsection 13(7).
+
+### CLUB DUES
+
+**¶ 11.** Subparagraph 18(1)(l)(ii) prohibits the deduction of any expense incurred by the taxpayer in respect of membership dues (whether initiation fees or otherwise) which entitle the taxpayer, the taxpayer's employees or anyone else to use the facilities of any club, the main purpose of which is to provide dining, recreational or sporting facilities for its members.
+
+When determining the main purpose for which a club was organized, the instruments creating the club, such as the content of the club's by-laws to regulate its affairs, are to be considered. Also of importance in this determination is whether more than 50 percent of the club's assets are used in providing dining, recreational or sporting facilities.
+
+**¶ 12.** The payment or reimbursement of club dues or membership fees by an employer would generally be considered to be a taxable benefit to the employee. However, as indicated in the current version of IT-470, *Employees' Fringe Benefits*, if an employer pays the fees required for an employee to be a member of a social or athletic club, the employee is not considered to have received a taxable benefit when the membership is principally for the employer's advantage rather than the employee's. The use of an in-house recreational facility or a physical fitness facility that is owned by the employer for the use of the employees does not usually give rise to a taxable benefit to the employees. In addition, no taxable benefit will generally arise to the employees if the employer pays a related or unrelated organization to provide such facilities, as long as the facilities or membership is available equally to all employees. On the other hand, if the club membership is in the nature of a fringe benefit with little or no advantage to the employer's business, then the cost of membership is considered to be a taxable benefit to the employee and included in the employee's income, even though the dues or fees are not deductible by the employer because of paragraph 18(1)(l). The onus is on the employer and employee to establish that membership in the facility is primarily to the employer's advantage.
+
+## Explanation of Changes
+
+### Introduction
+
+The purpose of the *Explanation of Changes* is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+### Reasons for the Revision
+
+The bulletin has been revised to expand upon departmental interpretations used in determining whether or not paragraph 18(1)(l) applies. We have clarified our position on the deduction of the cost of food and beverages incurred at a dining facility of a golf club. We have elaborated on the Department's interpretation of the meaning of terms such as "camp," "lodge," and "yacht" as used in subparagraph 18(1)(l)(i). We have also added comments on club dues and factors to be considered in determining the main purpose of a club, for purposes of subparagraph 18(1)(l)(ii).
+
+The comments in this bulletin are not affected by any draft legislation released before April 1, 1997.
+
+### Legislative and Other Changes
+
+[¶ 2](#P02) (replaces former ¶ 4) has been revised to expand on the meaning of the term "yacht" used in subparagraph 18(1)(l)(i) in light of the decision in *C.I.P. Inc. v. The Minister of National Revenue*, 86 DTC 1373, [1986] 1 C.T.C. 2525. It also reflects our position that when a yacht is primarily used to entertain business clients, the deductibility of interest expense on funds borrowed to purchase the yacht is denied. Comments have also been added on the deduction of the cost of food and beverages on a dining facility on a yacht.
+
+In [¶ 3](#P03) (replaces former ¶ 3), we have expanded on the commentary regarding the meaning of the terms "camp" and "lodge" used in subparagraph 18(1)(l)(i). In particular, the deductibility of expenses incurred at a camp or lodge used for a genuine business purpose is discussed.
+
+We have expanded [¶ 4](#P04) (replaces former ¶ 2) to provide a more complete discussion of the meaning of the word "facility" used in subparagraph 18(1)(l)(i) with respect to dining facilities at a golf course. It also reflects our position on the deductibility of the cost of food and beverages incurred at a dining facility of a golf club.
+
+[¶ 11](#P11) (replaces former ¶ 11) has been revised to provide a more detailed discussion of the application of subparagraph 18(1)(l)(ii) with respect to club dues when the main purpose of the club is to provide dining, recreational or sporting facilities for its members. In addition, comments on the determination of the main purpose of a club have been added.
+
+[¶ 12](#P12) (replaces former ¶ 12) elaborates on the criteria used to determine whether or not the payment or reimbursement of club dues by an employer gives rise to a taxable benefit to the employee.
+
+Throughout the bulletin, we have made minor changes to improve its clarity and readability.
+
+### Notice -- Bulletins do not have the force of law
+
+Interpretation bulletins (ITs) provide Revenue Canada's technical interpretations of income tax law. Due to their technical nature, ITs are used primarily by departmental staff, tax specialists, and other individuals who have an interest in tax matters. For those readers who prefer a less technical explanation of the law, the Department offers other publications, such as tax guides and pamphlets.
+
+While the ITs do not have the force of law, they can generally be relied upon as reflecting the Department's interpretation of the law to be applied on a consistent basis by departmental staff. In cases where an IT has not yet been revised to reflect legislative changes, readers should refer to the amended legislation and its effective date. Similarly, court decisions subsequent to the date of the IT should be considered when determining the relevancy of the comments in the IT.
+
+An interpretation described in an IT applies as of the date the IT is published, unless otherwise specified. When there is a change in a previous interpretation and the change is beneficial to taxpayers, it is usually effective for all future assessments and reassessments. If the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date of the IT.
+
+A change in a departmental interpretation may also be announced in the *Income Tax Technical News*.
+
+***If you have any comments regarding matters discussed in this IT, please send them to:***
+
+***Director, Business and Publications Division Income Tax Rulings Directorate Policy and Legislation Branch Revenue Canada Ottawa ON K1A 0L5***

@@ -1,0 +1,2265 @@
+Title: GST/HST Public Service Bodies' Rebate
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034/rc4034-gst-hst-public-service-bodies-rebate.html
+Corpus path: corpus/cra/forms-publications/publications/rc4034/rc4034-gst-hst-public-service-bodies-rebate.md
+Document type: publication
+Last modified: 2025-05-29
+
+# GST/HST Public Service Bodies' Rebate
+
+RC4034(E) Rev. 25
+
+The CRA's publications and personalized correspondence are available in braille, large print, e-text, and MP3. For more information, go to [Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html) or call **1-800-959-5525**.
+
+This guide uses plain language to explain the most common tax situations. It is provided for information only and does not replace the law.
+
+La version française de ce guide est intitulée Remboursement de la TPS/TVH pour les organismes de services publics.
+
+## Table of contents
+
+- [Find out if this guide is for you](#GDFY)
+
+    - [GST/HST and Quebec](#P87_3516)
+
+- [What's new](#whtsnw)
+
+- [Definitions](#Definitions)
+
+- [What is the GST/HST?](#P105_4074)
+
+- [The business number](#P110_4807)
+
+- [Who can claim the public service bodies' rebate](#CCSBR)
+
+    - [Using the special quick method of accounting](#using_sqma)
+
+    - [Other situations where another type of rebate may be available](#P132_7396)
+
+- [What can you claim?](#P138_8055)
+
+    - [Eligible purchases and expenses](#P143_8461)
+
+          - [First Nations Goods and Services Tax](#TPNS)
+
+    - [Non-eligible purchases and expenses](#P149_9259)
+
+    - [Rebate of the provincial part of the HST](#P161_11602)
+
+    - [Point-of-sale rebates](#prov_posrebates)
+
+- [How to claim the public service bodies' rebate](#P172_12969)
+
+    - [GST/HST registrants](#P176_13501)
+
+          - [Do you have a branch or division that files separate GST/HST returns?](#files_separate_returns)
+
+    - [Non-registrants](#P183_14387)
+
+    - [Branches and divisions](#P186_14991)
+
+    - [Filing deadlines for the public service bodies' rebate](#P193_16534)
+
+    - [How to view your public service bodies' rebate](#P193_16535)
+
+    - [How to make changes to a rebate application you already filed](#P198_17374)
+
+    - [Required documents](#P200_17601)
+
+- [Filling out the public service bodies' rebate application](#rebate_application)
+
+    - [Part A – Identification](#P208_18379)
+
+          - [Business number](#P209_18402)
+
+          - [Name and address](#P212_18721)
+
+          - [Contact person](#P214_18977)
+
+          - [Charity registration number](#P216_19140)
+
+          - [Fiscal year-end](#P218_19335)
+
+    - [Part B – Claim period](#P223_20299)
+
+          - [GST/HST registrants](#P224_20320)
+
+          - [Non-registrants](#non_registrants)
+
+    - [Part C – Offset on GST/HST return](#P228_21032)
+
+    - [Part D – Details of claim](#P234_21903)
+
+    - [Part E – Certification](#P236_22040)
+
+- [Filling out the provincial schedule](#completing_ps)
+
+- [Rebate factors and explanation of activity types](#rbt_fctrs)
+
+    - [Municipality](#line300)
+
+          - [Determined municipality](#det_mun)
+
+          - [Designated municipality](#des_mun)
+
+    - [University](#nvrst)
+
+    - [School authority](#line302)
+
+    - [Public college](#pblc-cllg)
+
+    - [Hospital authority](#hsptl-thrt)
+
+    - [Facility operator](#fclt)
+
+    - [External supplier](#xtrnl)
+
+    - [Charities and public institutions](#line305)
+
+          - [Charities that are GST/HST registrants](#areyou_charityregistrant)
+
+    - [Qualifying non-profit organization](#qlfng-nn-prft)
+
+    - [Printed books](#bks)
+
+    - [Property and services exported by a charity or a public institution](#gds)
+
+- [Self-government refund](#slf-gvrnmnt)
+
+- [How to calculate the public service bodies' rebate](#P353_39884)
+
+    - [Non-creditable tax charged](#non-creditable)
+
+          - [How to calculate non-creditable tax charged](#clct_ncrdt_tx)
+
+    - [Using the regular method to calculate your rebate](#regular_method)
+
+          - [Are you a resident of a non-participating province that buys property and services in a participating province?](#resident_nonparticipating)
+
+          - [Are you a resident of a participating province that imported goods for use in another province?](#areyouaresident)
+
+          - [Did you buy goods in a participating province and bring them into another province?](#prt_prvnc_nthr_prvnc)
+
+          - [Did you buy services or intangible personal property in a participating province for use in another province?](#srvs_ntgblpp_prtcprv)
+
+          - [How to calculate the amount of GST/HST included in a purchase price](#P469_49443)
+
+    - [Using the simplified method to calculate your rebate](#smplf-mthd)
+
+- [Carrying forward a rebate](#crry-frwrd)
+
+- [Claiming a rebate as a qualifying non-profit organization](#P609_56885)
+
+    - [What qualifies as government funding?](#P621_58380)
+
+          - [Who is a grantor?](#P635_60658)
+
+          - [What amounts are included in total revenue?](#P638_61331)
+
+    - [How to calculate the percentage of government funding](#P655_63359)
+
+- [Special rules for claimants with multiple activity types](#mltpl-ctvty)
+
+    - [Are you a charity, public institution, or qualifying NPO that is also a selected public service body?](#areyou_charity)
+
+    - [Are you a selected public service body that acquires property or services for use by another selected public service body?](#areyou_selected_public)
+
+    - [Are you an organization that is more than one type of selected public service body?](#areyou_organization)
+
+- [Special rules for claimants resident in more than one province](#spcl-rl)
+
+    - [Are you resident in more than one province and have a single activity type?](#single_activity)
+
+    - [Are you a resident in more than one province and have multiple activity types?](#multiple_activity)
+
+- [Digital services](#online_services)
+
+- [For more information](#P728_67924)
+
+## Find out if this guide is for you
+
+This guide gives general information about how to calculate your goods and services tax/harmonized sales tax (GST/HST) public service bodies' rebate or self-government refund. It describes the different calculation methods you can use and also explains how to fill out your rebate application.
+
+### GST/HST and Quebec
+
+In Quebec, Revenu Québec generally administers the GST/HST. If the physical location of your business is in Quebec, you have to file your returns with Revenu Québec using its forms, unless you are a person that is a selected listed financial institution (SLFI) for GST/HST or Quebec Sales Tax (QST) purposes or both. For more information, see the Revenu Québec publication [IN-203-V, *General Information Concerning the QST and the GST/HST*](https://www.revenuquebec.ca/en/online-services/forms-and-publications/current-details/in-203-v/). If you are an SLFI, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html).
+
+## What's new
+
+### Rebate factors for New Brunswick for school authorities, public colleges, and hospital authorities
+
+Under recent changes, eligible school authorities, public colleges, and hospital authorities resident in New Brunswick can claim a public servicebodies' rebate of the provincial part of the HST at the rate of 100% for tax payable on or after April 1, 2024.
+
+Effective April 1, 2024, health authorities, school districts, and community colleges will no longer be entitled to a 100% government entity rebate of the GST/HST available under theCanada-New Brunswick Comprehensive Integrated Tax Coordination Agreement. However, if eligible, they may continue to claim the 100% government entity rebate for any GST/HST that became payable before April 1, 2024.
+
+### Rebate factors for Prince Edward Island for charities, public institutions, and qualifying non-profit organizations
+
+Under recent changes, if you are a charity, public institution, or qualifying non-profit organization resident in Prince Edward Island, the rebate rate for the provincial part of the HST paid or payable on eligible purchases and expenses is 35% for tax payable before January 1, 2023, and 50% for tax payable on or after January 1, 2023.
+
+### Revised eligibility rules
+
+Under recent changes, for rebate claims ending after April 7, 2022 (and the GST/HST paid or payable after that date), the eligibility rules for the rebate that can be claimed on lines 304, 310, 311, and 312 were amended to include the delivery of a health care service with the active involvement of, or on the recommendation of, either a physician or a nurse practitioner, irrespective of their geographical location.
+
+## Definitions
+
+**Capital property**, in respect of a person, generally means:
+
+- any depreciable property that is or would be eligible for a capital cost allowance deduction for income tax purposes
+
+- any property, other than depreciable property, the sale of which would result in a capital gain or loss for income tax purposes
+
+For GST/HST purposes, capital property does not include property inClasses 12, 14, 14.1, or 44 of Schedule II to the Income Tax Regulations.
+
+**Charity**means a registered charity or registered Canadian amateur athletic association for income tax purposes, but does not include a public institution. A charity can issue official donation receipts for income tax purposes.
+
+For the purposes of the public service bodies' rebate, a charity also includes a non-profit organization that operates, otherwise than for profit, a health care facility.
+
+**Claim period** of a person at any time means:
+
+- where the person is at that time a registrant, the reporting period of the person that includes that time
+
+- in any other case, the period that includes that time and consists of **either**of the following:
+
+    - the first and second fiscal quarters in a fiscal year of the person
+
+    - the third and fourth fiscal quarters in a fiscal year of the person
+
+**Commercial activity**means any business or adventure or concern in the nature of trade carried on by a person, butdoes **not** include:
+
+- the making of exempt supplies
+
+- any business or adventure or concern in the nature of trade carried on without a reasonable expectation of profit by an individual, a personal trust, or a partnership where all of the members are individuals
+
+Commercial activity also includes a supply of real property, other than an exempt supply, made by any person, whether or not there is a reasonable expectation of profit, and anything done in the course of making the supply or in connection with the making of the supply.
+
+**Designated municipality** means a person designated by the Minister of National Revenue to be a municipality, but only in respect of activities specified in the designation that involve the making of supplies (other than taxable supplies) by the person of municipal services.
+
+**Eligible activities**, for the purposes of the public service bodies' rebate, means the making of facility supplies, ancillary supplies, or home medical supplies, or operating a qualifying facility to make facility supplies.
+
+**Exempt supplies** are supplies of property and services that are not subject to the GST/HST. GST/HST registrants generally cannot claim input tax credits to recover the GST/HST paid or payable on property and services acquired to make exempt supplies. However, as a public service body, you may be eligible to claim a GST/HST rebate of the tax paid or payable on expenses related to making exempt supplies.
+
+**External supplier**means a charity, a public institution, or a qualifying non-profit organization (other than a hospital authority or a facility operator), that makes ancillary supplies, facility supplies, or home medical supplies.
+
+**Facility operator** means a charity, a public institution, or a qualifying non-profit organization (other than a hospital authority), that operates a qualifying facility.
+
+**Health care facility**, for the purposes of the definition of charity, means a facility, or a part thereof, operated for the purpose of providing residents of the facility who have limited physical or mental capacity for self-supervision and self-care with the following:
+
+- nursing and personal care under the direction or supervision of qualified medical and nursing care staff or other personal and supervisory care (other than domestic services of an ordinary household nature) according to the individual requirements of the residents
+
+- assistance with the activities of daily living
+
+- assistance with social, recreational and other related services to meet the psycho-social needs of the residents
+
+- meals and accommodation
+
+**Hospital authority** means an organization that operates a public hospital and that is designated by the Minister of National Revenue as a hospital authority for GST/HST purposes.
+
+An organization designated as a hospital authority is responsible for advising the CRA of any changes that may affect its designation and its eligibility for the public service bodies' rebate. This would include a structure change due to an amalgamation or merger with another organization, or any changes in the manner in which it is funded or operated.
+
+When an organization no longer qualifies as a hospital authority, it will no longer be entitled to a public service bodies' rebate at the rate for hospital authorities, regardless of whether its designation as a hospital authority has been revoked. For more information, see [Reminder for organizations that have been designated as hospital authorities that subsequently amalgamate, merge or consolidate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news103/news103-excise-gst-hst-news-no-103-december-2017.html) in the [Excise and GST/HST News – No. 103](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news103.html).
+
+**Input tax credit (ITC)** means a credit that GST/HST registrants can claim to recover the GST/HST paid or payable for property or services they acquired, imported into Canada, or brought into a participating province for use, consumption, or supply in the course of their commercial activities.
+
+**Municipality** means an incorporated city, town, village, metropolitan authority, township, district, county or rural municipality, or other incorporated municipal body however designated, and such other local authority that the Minister of National Revenue may determine to be a municipality for GST/HST purposes.
+
+For the purposes of the public service bodies' rebate, a municipality includes a person designated by the Minister of National Revenue to be a municipality, but only in respect of activities, specified in the designation, that involve the making of supplies (other than taxable supplies) by the person of municipal services.
+
+For more information, see [Guide RC4049, *GST/HST Information for Municipalities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4049.html).
+
+**Non-profit organization (NPO)** means a person (other than an individual, estate, trust, charity, public institution, municipality, or government) that meets **both** of the following conditions:
+
+- It is organized and operated solely for non-profit purposes
+
+- It does not distribute or make available any of its income for the personal benefit of any proprietor, member, or shareholder, unless the proprietor, member, or shareholder is a club, a society, or an association that has, as its primary purpose and function, the promotion of amateur athletics in Canada
+
+**Non-selected public service body activities** are activities other than:
+
+- in the case of a person designated to be a municipality, those activities for which a person was designated as a municipality
+
+- activities carried out in the course of:
+
+    - in the case of a person determined to be a municipality, fulfilling responsibilities as a local authority
+
+    - in the case of a person acting in its capacity as a hospital authority, operating a public hospital, making facility supplies, ancillary supplies, or home medical supplies or operating a qualifying facility to make facility supplies
+
+    - in the case of a person acting in its capacity as a facility operator, making facility supplies, ancillary supplies, or home medical supplies or operating a qualifying facility to make facility supplies
+
+    - in the case of a person acting in its capacity as an external supplier, making facility supplies, ancillary supplies, or home medical supplies
+
+    - in the case of a person acting in its capacity as a school authority, public college, or university, operating an elementary or a secondary school, a post-secondary college or technical institute, a recognized degree-granting institution or a college affiliated with, or research body of, such a degree-granting institution
+
+**Participating province**means a province that has harmonized its provincial sales tax with the GST to implement the harmonized sales tax (HST). Participating provinces include New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, and Prince Edward Island, but do not include the Nova Scotia offshore area or the Newfoundland offshore area except to the extent that offshore activities, as defined in subsection 123(1) of the ETA, are carried on in that area.
+
+**Person**means an individual, a partnership, a corporation, the estate of a deceased individual, a trust, or a body that is a society, a union, a club, an association, a commission or other organization of any kind.
+
+**Prescribed government organization**meansa prescribed entity that is a crown agent (for example, a Crown corporation) that is organized and operated solely for non-profit purposes and does not distribute or make available any of its income for the personal benefit of any proprietor, member, or shareholder.
+
+**Property**meansany property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money.
+
+**Public college** means an organization that operates a post-secondary college or post-secondary technical institute that meets **both** of the following conditions:
+
+- The organization receives funds from a government or a municipality that are paid for the purpose of assisting the organization in the ongoing provision of educational services to the general public
+
+- The organization's primary purpose is to provide programs of instruction in one or more fields of vocational, technical, or general education
+
+**Public institution**means a registered charity for income tax purposes that is also a school authority, a public college, a university, a hospital authority, or a local authority determined by the Minister of National Revenue to be a municipality.
+
+**Public service body** means a charity, non-profit organization, municipality, university, public college, school authority, or hospital authority.
+
+**Qualifying non-profit organization (Qualifying NPO)**means an NPO or prescribed government organization whose percentage of government funding is at least 40% of its total revenue.
+
+**Real property** includes:
+
+- a mobile home or floating home and any leasehold or ownership interest in such property
+
+- in Quebec, immovable property and every lease of such property
+
+- in any other place in Canada, all land, buildings of a permanent nature, and any interest in real property
+
+**Registrant**means a person that is registered or required to be registered for the GST/HST, but generally excludes a person that is registered or required to be registered under special rules applicable to digital economy businesses unless that person registered under those special rules begins carrying on business in Canada, requiring them to register under the regular rules that apply to most persons.
+
+**School authority** means an organization that operates an elementary or secondary school in which it provides instruction that meets the standards of educational instruction established by the government of the province or territory in which the school is operated.
+
+For more information, see [GST/HST Memorandum 20-1, *School Authorities – Elementary and Secondary Schools*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-1.html).
+
+**Selected public service body**means:
+
+- a school authority, a university, or a public college that is established and operated otherwise than for profit
+
+- a hospital authority
+
+- a municipality
+
+- a facility operator
+
+- an external supplier
+
+**Service** means anything other than:
+
+- property
+
+- money
+
+- anything that is supplied to an employer by an employee in the course of employment
+
+**Supply** means the provision of property or a service in any way, including sale, transfer, barter, exchange, licence, rental, lease, gift, or disposition.
+
+**Taxable supplies**are supplies that are made in the course of a commercial activity and are subject to the GST/HST (including zero-rated supplies).
+
+**University** means a recognized degree-granting institution or an organization that operates a college affiliated with, or a research body of, such an institution.
+
+For more information, see [GST/HST Memorandum 20-3, *Universities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-3.html).
+
+**Zero-rated supplies**are supplies of property and services that are taxable at the rate of 0%. This means there is no GST/HST charged on these supplies, but GST/HST registrants may be eligible to claim ITCs for the GST/HST paid or payable on property and services acquired to provide these supplies.
+
+## What is the GST/HST?
+
+The goods and services tax (GST) is a tax that applies to most supplies of goods and services made in Canada. The GST also applies to many supplies of real property (for example, land, buildings, and interests in such property) and intangible personal property such as trademarks, rights to use a patent, and digitized products downloaded from the internet and paid for individually.
+
+The participating provinces harmonized their provincial sales tax with the GST to implement the harmonized sales tax (HST) in those provinces. Generally, the HST applies to the same base of property (for example, goods) and services as the GST. In some participating provinces, there are point-of-sale rebates equivalent to the provincial part of the HST on certain qualifying items. For more information, see [Point-of-sale rebates](#prov_posrebates).
+
+GST/HST registrants who make taxable supplies (other than zero-rated supplies) in the participating provinces collect tax at the applicable HST rate. GST/HST registrants collect tax at the 5% GST rate on taxable supplies they make in the rest of Canada (other than zero-rated supplies). Special rules apply for determining the place of supply. For more information on the HST and the place-of-supply rules, see [Draft GST/HST Technical Information Bulletin B-103, *Harmonized Sales Tax – Place of supply rules for determining whether a supply is made in a province*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-103.html).
+
+The HST rate can vary from one participating province to another. For the list of all applicable GST/HST rates, go to [GST/HST calculator (and rates](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html)).
+
+## The business number
+
+The business number (BN) identifies an organization and simplifies the way it deals with the Canadian government. Under a BN, you can have any accounts you may need, such as the following:
+
+- registered charity
+
+- corporate income tax
+
+- payroll deductions
+
+- GST/HST
+
+Your GST/HST account number is your nine-digit BN with an RT program identifier followed by a four-digit reference number to identify each account you may have within the GST/HST program type. You will use this number when you claim your GST/HST rebates and file any GST/HST returns, if returns are required.
+
+If you do not already have a GST/HST account number when you claim a rebate, the CRA will assign you a BN with an RT program identifier to process any GST/HST rebates to which you may be entitled.
+
+Branches and divisions that are authorized to file separate GST/HST returns and rebates will have the same BN as the head office; however, the four-digit reference number at the end will be different. For example, the head office may have RT0001 at the end of its BN and a branch could have RT0002.
+
+If you have a BN for the purpose of claiming a rebate only, you are **not**considered to be a GST/HST registrant.
+
+## Who can claim the public service bodies' rebate
+
+You may be able to claim the public service bodies' rebate of the GST or the **federal** part of the HST paid or payable on **eligible** purchases and expenses if you are**any**of the following:
+
+- a [charity](#charity)
+
+- a [qualifying non-profit organization (qualifying NPO)](#qual-NPO)
+
+- a [selected public service body](#selectedPSB)
+
+In some cases, you may also be able to claim a rebate of the **provincial** part of the HST. For more information, see [Rebate of the provincial part of the HST](#P161_11602).
+
+A person that is a listed financial institution or a registrant that is prescribed under the Games of Chance (GST/HST) Regulations cannot claim a public service bodies' rebate.
+
+Any GST/HST paid or payable on eligible purchases and expenses made during your claim period qualifies for the rebate as long as you meet all the requirements for doing so (for example, you are a registered charity under the Income Tax Act or you meet the 40% government funding requirement for a qualifying NPO) on the **last** day of the claim period or the fiscal year that includes that claim period.
+
+There may be situations where you have to calculate your public service bodies' rebate using more than one rebate factor. See [Special rules for claimants with multiple activity types](#mltpl-ctvty) and [Special rules for claimants resident in more than one province](#spcl-rl).
+
+### Using the special quick method of accounting
+
+The **special quick method** is another accounting method available to certain public service bodies that are registered for the GST/HST. Using the special quick method does not affect your public service bodies' rebate entitlements and you still claim your rebate in the usual way. That is, you claim a rebate of the GST or the **federal** part of the HST paid or payable on all the eligible purchases and expenses you made during the claim period for which you cannot claim ITCs.
+
+If you qualify for a rebate of the **provincial** part of the HST, claim it in the usual way (see [Rebate of the provincial part of the HST](#P161_11602)).
+
+For more information, see [Special quick method of accounting for public service bodies](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/complete-file-quick-method.html).
+
+### Other situations where another type of rebate may be available
+
+You may also qualify for a rebate if you are **any** of the following:
+
+- a specified person claiming a rebate of the GST or the **federal** part of the HST you paid on books (see [Printed books](#bks))
+
+- a charity or a public institution claiming a rebate of the GST/HST paid on property or services exported outside of Canada (see [Property and services exported by a charity or a public institution](#gds))
+
+- an entity that has a self-government agreement that allows you a refund of the GST or the **federal**part of theHST on property and services you acquire for self-government activities (see [Self-government refund](#slf-gvrnmnt))
+
+You may also be eligible to claim a rebate of the **provincial** part of the HST paid if you bought or acquired goods, services, or intangible personal property in a participating province for use outside the province. For more information, see [Did you buy goods in a participating province and bring them into another province?](#prt_prvnc_nthr_prvnc) and [Did you buy services or intangible personal property in a participating province for use in another province?](#srvs_ntgblpp_prtcprv)
+
+If you have claimed, or are entitled to claim, another rebate of the GST/HST paid or payable, that amount must be deducted from your GST/HST paid or payable when calculating your public service bodies' rebate. For more information, see [Non-creditable tax charged](#non-creditable).
+
+## What can you claim?
+
+You can claim a percentage of the amount of GST/HST paid or payable on **eligible** purchases and expenses used in your organization's activities. The percentage you use depends on the type of organization you are, the activities you perform, and the provinces in which you are resident.
+
+To find out when the public service bodies' rebate may be available for the **provincial** part of the HST, see [Rebate of the provincial part of the HST](#P161_11602).
+
+### Eligible purchases and expenses
+
+The GST/HST paid or payable on the following purchases and expenses may be eligible for the public service bodies' rebate:
+
+- general operating expenses, such as rent, utilities, and administration expenses, for which you **cannot** claim ITCs
+
+- most allowances and reimbursements you pay to employees involved in your exempt activities
+
+- property and services used, consumed, or supplied in your exempt activities
+
+- capital property used in exempt activities
+
+You cannot claim the public service bodies' rebate when you change the use of the capital property from primarily (more than 50%) in commercial activities to primarily innon-commercialactivities. This is because you have to calculate the basic tax content of the property with such a change in use and the basic tax content formula already takes the public service bodies' rebate into account.
+
+#### First Nations Goods and Services Tax
+
+Several First Nations have passed laws imposing a First Nations Goods and Services Tax (FNGST) on their lands and have entered into tax administration agreements concerning the FNGST. The FNGST is a 5% tax on taxable supplies of property and services on certain First Nations lands. Generally, the same property and services that are subject to the GST/HST are subject to the FNGST. When the FNGST applies to a supply, the GST or the federal part of the HST does not.
+
+The CRA administers the FNGST for the First Nations. Generally, the same rules apply to the FNGST as to the GST/HST when claiming PSB rebates. A charity, qualifying NPO, or selected public service body can claim the applicable PSB rebate of any FNGST paid or payable on eligible purchases and expenses.
+
+### Non-eligible purchases and expenses
+
+The GST/HST paid or payable on certain purchases and expenses is**not**eligiblefor the public service bodies' rebate. These purchases and expenses include:
+
+- memberships in a club, the main purpose of which is to provide dining, recreational, or sporting facilities
+
+- tobacco products, cannabis products, and alcoholic beverages (except when included in the price of a meal) you supply and for which you are not required to collect the GST/HST
+
+- property and services you acquire to provide long-term residential accommodation (one month or more), **unless** more than 10% of the accommodation is restricted to seniors, youths, students, or individuals with a disability or with limited financial resources who qualify for occupancy or reduced rents under a means or income test
+
+- property and services you acquire primarily (more than 50%) for the supply of a parking space made available to residential tenants **unless** more than 10% of the residential accommodation associated with the parking space is restricted to seniors, youths, students, or individuals with a disability or limited financial resources who qualify for occupancy or reduced rents under a means or income test
+
+- property and services acquired primarily for making a supply of real property to another person for use by that person in leasing residential property on an exempt basis (including incidental parking), **unless** that other person is a public service body and more than 10% of the residential property is restricted to seniors, youths, students, individuals with a disability, or individuals with limited financial resources who qualify for occupancy or reduced rents under a means or income test
+
+- property or services you supply to another person, if the property or service is a taxable benefit to that person for income tax purposes, but you do not have to remit any GST/HST on the supply
+
+- property and services considered to be acquired by you acting as the operator of a joint venture (where an election has been filed) if any of the co-venturers would not be entitled to claim a public service bodies' rebate if they were acquired by the co-venturer
+
+- property and services you acquire to supply to an officer, employee, or member, or to another person related to that person, for personal use unless **one** of the following situations applies:
+
+    - you supply the property or service for its fair market value in the same year you acquire it and tax is payable in respect of the supply
+
+    - you supply the property or service free of charge to the person and it is not a taxable benefit
+
+A qualifying NPO owns an apartment building and rents 5% of the apartments on a long-term basis to individuals with a disability. As less than 10% of the apartment building is used as housing that is restricted to individuals with a disability, the NPO **cannot** claim a public service bodies' rebate of a percentage of the GST/HST it pays or owes on its expenses incurred to maintain the apartment building, as they are not eligible expenses.
+
+### Rebate of the provincial part of the HST
+
+You may be eligible for a public service bodies' rebate of some of the **provincial** part of the HST paid or payable on eligible purchases and expenses if you are **any** of the following:
+
+- a charity that is not a selected public service body and you are resident in one or more participating provinces
+
+- a qualifying NPO that is not a selected public service body and you are resident in one or more participating provinces
+
+- a facility operator or an external supplier resident in New Brunswick, Nova Scotia, or Ontario
+
+- a hospital authority resident in New Brunswick, Nova Scotia or Ontario
+
+- a school authority or public college that is established and operated other than for profit resident in New Brunswick
+
+- a school authority, university, or public college that is established and operated other than for profit resident in Nova Scotia or Ontario
+
+- a municipality resident in New Brunswick, Newfoundland and Labrador, Nova Scotia, or Ontario
+
+- a selected public service body resident in Newfoundland and Labrador, or Prince Edward Island, that is also a charity, public institution, or qualifying NPO for non-selected public service body activities
+
+Hospital authorities, school authorities, and public colleges resident in New Brunswick are only eligible for a rebate of the provincial part of the HST for claim periods that end on or after April 1, 2024. Special transitional rules apply if a hospital authority, school authority or public college's claim period straddles this date. The 100% public service bodies' rebate of the provincial part of the HST is not available for any tax that became payable before April 1, 2024.
+
+If you are resident in more than one province, at least one of which is a participating province, calculate your public service bodies' rebate for the**provincial** part of the HST based on the extent you intended to consume, use, or supply the eligible purchases and expenses in the course of your activities in each participating province in which you are resident.
+
+If you have multiple activity types in more than one participating province you have to calculate your rebate of the**provincial** part of the HST for each activity type for each participating province in which you are resident to the extent you intended to consume, use, or supply property or services in the course of your activities in each province in which you are resident.
+
+For more information, see [Special rules for claimants with multiple activity types](#mltpl-ctvty) and [Special rules for claimants resident in more than one province](#spcl-rl).
+
+You may be resident in more than one province. You are considered to be resident in a province if you are resident in Canada and **one** of the following situations applies:
+
+- You are a corporation, and your corporation is incorporated or continued under the laws of that province and not continued elsewhere.
+
+- You are a partnership, an unincorporated society, a club, an association or an organization, or a branch of such an organization, and the member or the majority of the members having management and control is resident in that province.
+
+- You are a labour union, and you are carrying on labour union activities in that province and have a local union or branch in that province.
+
+- You have a permanent establishment in that province.
+
+For example, if you have a permanent establishment in a participating province and another permanent establishment in a non-participating province, you would be considered resident in both provinces.
+
+For more information, see [GST/HST Info Sheet GI-121, *Determining Whether a Public Service Body is Resident in a Province for Purposes of the Public Service Bodies' Rebate*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-121.html).
+
+### Point-of-sale rebates
+
+Vendors provide point-of-sale rebates for the provincial part of the HST on qualifying items, which are included in the following chart. They only collect the 5% federal part of the HST payable on these items.
+
+**Qualifying items for the point-of-sale rebates**
+
+A vendor's ability to claim ITCs is not affected by crediting purchasers in this manner. If the vendor does not credit the point-of-sale rebate, the purchaser is able to apply for a rebate of the provincialpart of the HST using [Form GST189, *General Application for GST/HST Rebates*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html).
+
+You can only claim a public service bodies' rebate of the **federal** part of the HST on these items. If HST taxable items and provincial point-of-sale rebate items are included on the same purchase invoice, you have to separate the **federal** part of the HST and the **provincial**part of the HST paid on that invoice in order to calculate the amounts on which the federal and provincial (if applicable) rebates can be claimed.
+
+For a description of qualifying items and for more information on the point-of-sale rebate, see the following publications:
+
+- [GST/HST Info Sheet GI-060, *Harmonized Sales Tax for Ontario – Point-of-Sale Rebate on Newspapers*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-060.html)
+
+- [GST/HST Info Sheet GI-063, *Point-of-Sale Rebate on Children's Goods*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-063.html)
+
+- [GST/HST Info Sheet GI-064, *Harmonized Sales Tax for Ontario – Point-of-Sale Rebate on Prepared Food and Beverages*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-064.html)
+
+- [GST/HST Info Sheet GI-065, *Point-of-Sale Rebate on Books*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-065.html)
+
+- [GST/HST Info Sheet GI-169, *Point-of-Sale Rebate on Heating Oil*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-169.html)
+
+- [Form GST189, *General Application for GST/HST Rebates*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html)
+
+Marie's Daycare is a charity that runs a daycare centre. Marie's Daycare purchases books and pencils from Jackson's Bookstore in Ontario.
+
+| Item | Amount |
+
+| --- | --- |
+
+| Books | $120.00 |
+
+| Pencils | $14.00 |
+
+| Subtotal | $134.00 |
+
+| HST | $7.82 |
+
+| Total amount due | $141.82 |
+
+Marie's Daycare received a point-of-sale rebate of the **provincial** part of the HST on the books; therefore, only the **federal**part of the HST was paid:
+
+$120.00 × 5% = $6.00
+
+Marie's Daycare paid HST on the pencils:
+
+$14.00 × 13% = $1.82
+
+Marie's Daycare will have to track these amounts separately as the tax paid on each will have to be separated when claiming the public service bodies' rebate.
+
+## How to claim the public service bodies' rebate
+
+To file your rebate application, use [Form GST66, *Application for GST/HST Public Service Bodies' Rebate and GST Self-Government Refund*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst66.html), and, if applicable, [Form RC7066-SCH, *Provincial Schedule – GST/HSTPublic Service bodies' rebate*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7066-sch.html).
+
+For more information, see [Filling out the public service bodies' rebate application](#rebate_application) and [Filling out the provincial schedule](#completing_ps). Keep this guide to help you fill out future rebate applications.
+
+### GST/HST registrants
+
+If you are a GST/HST registrant, you can fill out one rebate application for each reporting period.
+
+If you are filing your return online, you can also file your rebate application online using:
+
+- [GST/HST NETFILE](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/gst-hst-netfile.html)
+
+- "File a return" in My Business Account, if you are a business owner
+
+- "File a return" in Represent a Client, if you are an authorized representative or employee
+
+To sign in to or register for My Business Account or Represent a Client, go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+If you are claiming the amount of your rebate on**line 111**of a GST/HST return that you are filing online and you choose not to file your rebate application online, you have to send it to the address on the rebate form no later than the day you file your return.
+
+If you are claiming the amount of your rebate on **line 111** of a GST/HST return that you are **not** filing online, you have to send your rebate application with that paper return.
+
+If you file a paper return, the CRA will no longer mail the personalized Form GST284, *Application for GST/HST Public Service Bodies' Rebate and GST Self-Government Refund*, or Form GST284-SCH, *Provincial Schedule – GST/HST Public Service**Bodies' Rebate*.
+
+#### Do you have a branch or division that files separate GST/HST returns?
+
+If you have a branch or division that files its own GST/HST returns, it also has to file separate rebate applications using the same filing frequency as the head office.
+
+If a branch or division is not authorized to file separate GST/HST returns and rebate applications, include its rebate claims on the head office's application.
+
+To find out how to apply for authorization to file separate rebate applications and returns, see [Branches and divisions](#P186_14991).
+
+### Non-registrants
+
+If you are not a GST/HST registrant, you have two claim periods per fiscal year (the first six months and the last six months of your fiscal year). You can file **one** rebate application for each claim period in which you are eligible for a public service bodies' rebate.
+
+You can file your rebate application online using:
+
+- [Electronic rebate forms](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/gst-hst-netfile/gst-hst-netfile-electronic-rebate-forms.html) at [GST/HST NETFILE](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/gst-hst-netfile.html)
+
+- "File a rebate" in My Business Account, if you are a business owner
+
+- "File a rebate" in Represent a Client, if you are an authorized representative or employee
+
+To sign in to or register for My Business Account or Represent a Client, go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+If you choose to file a paper rebate application, mail your rebate application to the address indicated on the form.
+
+If you file a paper return, the CRA will no longer mail the personalized Form GST284, *Application for GST/HST Public Service Bodies' Rebate and GST Self-Government Refund*, or Form GST284-SCH, *Provincial Schedule – GST/HST Public Service**Bodies' Rebate*.
+
+File only one rebate application for your whole organization **unless** you have received authorization for a branch or division to file separate rebate applications. An authorized branch or division has to file its own rebate applications. For more information, see [Branches and divisions](#P186_14991).
+
+### Branches and divisions
+
+If your organization has a branch or division, the head office can apply for authorization to allow the branch or division to file its own rebate applications, separate from the head office.
+
+As a branch or division of an organization, the claim period and filing frequency of the rebate application must be the same as your parent/primary organization.
+
+To be eligible, the branch or division has to be identified separately from the head office by its location or the nature of its activities and must have its own separate books and records. To apply for authorization, the head office has to fill out [Form GST10, *Application or Revocation of the Authorization to File Separate GST/HST Returns and Rebate Applications for Branches or Divisions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst10.html).
+
+If your organization receives this authorization and is a GST/HST registrant, the authorized branch or division has to file its own GST/HST returns, separate from the head office.
+
+Each branch or division that we authorize will use the head office's business number (BN) when it applies for its rebate; however, the four-digit reference number at the end of the BN will be different to identify it as a branch or division. For example, the head office may have RT0001 at the end of its BN and a branch or division may have RT0002.
+
+The CRA will inform the head office of these numbers and the date when the branches or divisions can begin filing their separate rebate applications. Branches or divisions have to use their BN on all their rebate applications and correspondence. If a branch or division is not authorized to file separate GST/HST rebate applications, include its rebate claims on the head office's application.
+
+### Filing deadlines for the public service bodies' rebate
+
+**If you are a GST/HST registrant**, you have up to four years from the due date of your GST/HST return for the claim period in which you incurred the expense to file a rebate application.
+
+**If you are not a GST/HST registrant**, you have up to four years from the last day of the claim period in which you incurred the expense to file a rebate application.
+
+**Exception to the four-year limit** When the supplier is assessed for tax that was not collected from you during the period, and you then pay the tax after the four-year limitation, you can fill out a separate rebate application to cover that claim period in which the tax is actually paid.
+
+### How to view your public service bodies' rebate
+
+You can view a summary of your assessed public service bodies' rebate or view the status of your public service bodies' rebate using:
+
+- My Business Account, if you are a business owner
+
+- Represent a Client, if you are an authorized representative or employee
+
+To sign in to or register for My Business Account or Represent a Client, go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+### How to make changes to a rebate application you already filed
+
+If you need to change a rebate that you have already filed, you can:
+
+- use the CRA's digital services in My Business Account or Represent a Client at [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html)
+
+- send a letter to the CRA indicating the change
+
+### Required documents
+
+**Do not send any documents** with your application (unless you are a non-profit organization (NPO) sending [Form GST523-1, *Non-profit organizations – Government Funding*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst523-1.html), to update your eligibility as a qualifying NPO). However, you have to keep adequate books and records, including original invoices, for six years from the end of the year they relate to in case the CRA asks to see them.
+
+## Filling out the public service bodies' rebate application
+
+All claimants have to fill out Parts A, B, D, and E of [Form GST66, *Application for GST/HST Public Service Bodies' Rebate and GST Self-Government Refund*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst66.html).
+
+Fill out Part C only if you are a GST/HST registrant and you want to claim your rebate on **line 111** of your GST/HST return (see [Part C – Offset on GST/HST return)](#P228_21032).
+
+If you have a business number for the purpose of claiming a rebate only, you are **not**considered to be a GST/HST registrant.
+
+If you are claiming a rebate of the **provincial** part of the HST, you must also fill out [Form RC7066-SCH, *Provincial Schedule – GST/HST Public Service Bodies' Rebate*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7066-sch.html), and attach it to your application. For more information, see [Filling out the provincial schedule](#completing_ps).
+
+Incomplete or incorrect information may cause a delay in processing your application.
+
+### Part A – Identification
+
+#### Business number
+
+Enter your full business number (BN) in the space provided on all of your applications. It includes your BN followed by the "RT" program identifier and the four-digit reference number. You need to print it on all of your correspondence with the CRA.
+
+If you do not have a BN, you will be assigned one with your first application.
+
+#### Name and address
+
+Enter the complete name (and any trade name) and the mailing address of your organization. Enter your physical location if it is different from the mailing address. All correspondence and cheques will be sent to your mailing address.
+
+#### Contact person
+
+Enter the name and telephone number of the person in your organization whom the CRA can contact if it needs more information about your application. The CRA needs your consent if you want it to deal with the contact person as your representative for your business account related information.
+
+You can give this consent online by using My Business Account at [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) or by going to [Representative authorization](https://www.canada.ca/en/revenue-agency/services/tax/representative-authorization.html).
+
+#### Charity registration number
+
+Enter the charity registration number assigned to you as a charity under the Income Tax Act, if applicable. This number is your BN plus an "RR" program identifier.
+
+#### Fiscal year-end
+
+Enter your fiscal year-end. If your organization is a non-registrant, its fiscal year-end determines its claim periods for filing rebate applications. For more information, see [Non-registrants](#non_registrants).
+
+### Part B – Claim period
+
+#### GST/HST registrants
+
+Enter the claim period of your application. Your claim periods are the same as your reporting periods for your GST/HST returns. You file your applications with the same frequency as your GST/HST returns (that is monthly, quarterly, or annually).
+
+#### Non-registrants
+
+Enter the claim period of your application. Your claim period has to correspond to either the first six months or the last six months of your fiscal year. You cannot claim a rebate more than twice a year. For example, a non-registrant organization with a December 31 fiscal year-end can file one rebate application for the period from January 1 to June 30 and another for the period from July 1 to December 31 in each fiscal year.
+
+### Part C – Offset on GST/HST return
+
+This part applies to GST/HST registrants only.
+
+Tick **yes**or **no** to show whether you want to include the total amount claimed from **line 409** of the application on **line 111**of your GST/HST return. When you transfer the **line 409** amount from your application to **line 111** of your GST/HST return, you use your rebate to reduce any amount you owe on your return or to increase any refund.
+
+Enter the reporting period end date of that GST/HST return in the space provided on the rebate application. Send your rebate application with your GST/HST return.
+
+If you have an amount owing on a GST/HST return, even after using your rebate to reduce the amount you owe, make sure the CRA receives the return, rebate application, and remittance by the due date of the return to avoid being charged a penalty for late-filing and interest on the amount owing.
+
+### Part D – Details of claim
+
+Fill out the table in Part D by entering the amount of the rebate you are claiming for each activity you perform on the applicable lines. The lines that apply to you depend on your activity type. For more information on the different activity types and the corresponding rebate factors, see [Rebate factors and explanation of activity types](#rbt_fctrs).
+
+### Part E – Certification
+
+An authorized person from your organization has to sign and date every application and provide a telephone number.
+
+## Filling out the provincial schedule
+
+Fill out [Form RC7066-SCH, *Provincial Schedule – GST/HST Public Service Bodies' Rebate*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7066-sch.html) to claim a rebate of the**provincial** part of the HST. Fill out only the lines that apply to your provinces of residence and your activity types. Enter the total provincial amount claimed on the provincial schedule on **line B** of Part D of the rebate application.
+
+For information on the different activity types and the corresponding rebate factors, see [Rebate factors and explanation of activity types](#rbt_fctrs).
+
+Attach a copy of the provincial schedule ([Form RC7066-SCH](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7066-sch.html)) to your application and send both documents.
+
+If you are a GST/HST registrant and you are claiming your rebate on your GST/HST return, send the provincial schedule and the application with your return.
+
+If you are filing your return online, you can also file your rebate application and provincial schedule online using:
+
+- [GST/HST NETFILE](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/gst-hst-netfile.html)
+
+- "File a return" in My Business Account, if you are a business owner
+
+- "File a return" in Represent a Client, if you are an authorized representative or employee
+
+To sign in to or register for My Business Account or Represent a Client, go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+If you choose not to file your rebate application online, send a paper copy of your application accompanied with the provincial schedule.
+
+## Rebate factors and explanation of activity types
+
+To find out whether your organization is eligible to claim a public service bodies' rebate and the rebate factor that applies, see the following information for your activity type.
+
+If your organization performs more than one type of activity see [Special rules for claimants with multiple activity types](#mltpl-ctvty). If your organization is resident in more than one province, at least one of which is a participating province, see [Special rules for claimants resident in more than one province](#spcl-rl). If you are a self-governing Indigenous government, see [Self-government refund](#slf-gvrnmnt) to find out how to claim this refund.
+
+The following chart gives an overview of the rebate factors that apply to each activity type when calculating the public service bodies' rebate of the GST and the federal part of the HST. It also gives information about the rebate factors that apply by activity type and by participating province. You use these factors to calculate the public service bodies' rebate of the provincial part of the HST. For more information on which rebate factor to use, see the explanation of each activity type.
+
+| Public service body activity type | Rebate factor for the GST or the federal part of the HST | Rebate factor for the provincial part of the HST for public service bodies resident in: |  |  |  |  |  |
+
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Provincial part of the HST forNS | Provincial part of the HST for NB[Footnote1](#fn3tb1) | Provincial part of the HST forNL[Footnote2](#fn3tb2) | Provincial part of the HST forON | Provincial part of the HST forPEI[Footnote3](#fn3tb3) | Provincial part of the HST forNPP[Footnote4](#fn3tb4) |  |  |
+
+| Municipality | 100% | 57.14% | 57.14% | 57.14% | 78% | 0% | 0% |
+
+| University | 67% | 67% | 0% | 0% | 78% | 0% | 0% |
+
+| School Authority | 68% | 68% | 100% | 0% | 93% | 0% | 0% |
+
+| Public College | 67% | 67% | 100% | 0% | 78% | 0% | 0% |
+
+| Hospital Authority | 83% | 83% | 100% | 0% | 87% | 0% | 0% |
+
+| Facility Operator | 83% | 50% | 50% | 0% | 87% | 0% | 0% |
+
+| External Supplier | 83% | 50% | 50% | 0% | 87% | 0% | 0% |
+
+| Charity | 50% | 50% | 50% | 50% | 82% | 50% | 0% |
+
+| Qualifying NPO | 50% | 50% | 50% | 50% | 82% | 50% | 0% |
+
+| Footnotes Footnote 1The rebate factor for New Brunswick for school authorities, public colleges, and hospital authorities only applies to claim periods that end on or after April 1, 2024. Special rules apply if you are resident in New Brunswick and your claim period includes this date. The 100% public service bodies' rebate of the provincial part of the HST is not available for any tax that became payable before April 1, 2024. [Return to footnote1referrer](#fn3tb1-rf) Footnote 2Selected public service bodies resident in Newfoundland and Labrador that are also a charity, public institution, or qualifying NPO are entitled to claim a 50% rebate of the **provincial** part of the HST paid or payable on purchases and expenses used in non-selected public service body activities. [Return to footnote2referrer](#fn3tb2-rf) Footnote 3 Selected public service bodies resident in Prince Edward Island that are also a charity, public institution, or qualifying NPO are entitled to claim a 50% rebate of the **provincial** part of the HST paid or payable on purchases and expenses used in non-selected public service body activities. For tax payable before January 1, 2023, charities, public institutions, or qualifying NPOs resident in Prince Edward Island qualified for a **35%** rebate instead of a **50%** rebate. Special rules apply if you are resident in Prince Edward Island and your claim period includes this date. [Return to footnote3referrer](#fn3tb3-rf) Footnote 4 NPP means non-participating provinces, which include all of the provinces and territories not listed above. For more information, call GST/HST Rulings at **1-800-959-8287**. [Return to footnote4referrer](#fn3tb4-rf) |  |  |  |  |  |  |  |
+
+### Municipality
+
+#### Determined municipality
+
+If a local authority is determined to be a municipality, it has the benefit of municipal status for all GST/HST purposes. For example, a paramunicipal organization can apply to be determined to be a municipality.
+
+#### Designated municipality
+
+If a person is designated to be a municipality for particular exempt municipal services that it supplies, the person is considered to be a municipality **only for the purposes of the public service bodies' rebate and only for those particular exempt municipal services**. The designation does not apply to the person as a whole.
+
+The designation allows the person to apply for a rebate of the GST/HST using the municipality rebate factor, but only for the tax paid or payable on purchases and expenses used in the course of supplying the exempt municipal services for which the organization was designated (referred to as designated activities).
+
+For example, an organization **that is not a municipality**may be designated by the Minister of National Revenue to be a municipality for its supplies of long-term accommodation on a rent-geared-to-income (RGI) basis. Once designated, it can claim a public service bodies' rebate using the municipality rebate factor for the GST/HST paid or payable on purchases and expenses used to provide RGI accommodation.
+
+Another example is an organization **that is not a municipality** and that is designated by the Minister of National Revenue to be a municipality because it operates a water distribution, sewerage, or drainage system and provides services of installing, repairing, maintaining, or interrupting that system.
+
+Once designated, the organization's supplies of those services are exempt from the GST/HST. It can also claim a public service bodies' rebate using the municipality rebate factor for the GST/HST paid or payable on eligible purchases and expenses used to provide those services.
+
+#### Rebate factors
+
+The rebate factor for municipal activities is **100%** of the GST and the **federal** part of the HST paid or payable.
+
+If you are eligible to claim a rebate as a municipality, enter the amount on**line 300** of Part D of the application.
+
+Designated municipalities that are charities or public institutions qualify for a**50%** rebate of the GST and the **federal** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of activities other than their designated activities. Enter this amount on **line 305** of Part D of the application.
+
+Designated municipalities that are qualifying NPOs qualify for a **50%** rebate of the GST and the **federal** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of activities other than their designated activities. Enter this amount on **line 306** ofPart D of the application.
+
+#### Municipalities resident in a participating province
+
+Municipalities resident in a participating province may also qualify for the rebates explained below.
+
+**Municipalities resident in Ontario**
+
+Municipalities resident in Ontario qualify for a **78%** rebate of the **provincial**part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their municipal activities or designated activities in Ontario. Enter this amount on **line 300-ON**of the provincial schedule.
+
+Designated municipalities that are charities or public institutions resident in Ontario qualify for an **82%** rebate of the **provincial** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of activities other than their designated activities in Ontario. Enter this amount on **line 305-ON** of the provincial schedule.
+
+Designated municipalities that are qualifying NPOs resident in Ontario qualify for an **82%** rebate of the **provincial**part of the HST to the extent that they intended to consume, use, or supply property or services in the course of activities other than their designated activities in Ontario. Enter this amount on **line 306-ON** of the provincial schedule.
+
+**Municipalities resident in Nova Scotia**
+
+Municipalities resident in Nova Scotia qualify for a **57.14%** rebate of the **provincial** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their municipal activities or designated activities in Nova Scotia. Enter this amount on **line 300-NS** of the provincial schedule.
+
+Designated municipalities that are charities or public institutions resident in Nova Scotia qualify for a **50%** rebate of the **provincial** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of activities other than their designated activities in Nova Scotia. Enter this amount on **line 305-NS**of the provincial schedule.
+
+Designated municipalities that are qualifying NPOs resident in Nova Scotia qualify for a **50%** rebate of the **provincial**part of the HST to the extent that they intended to consume, use, or supply property or services in the course of activities other than their designated activities in Nova Scotia. Enter this amount on **line 306-NS** of the provincial schedule.
+
+**Municipalities resident in New Brunswick**
+
+Municipalities resident in New Brunswick qualify for a **57.14%** rebate of the **provincia**l part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their municipal activities or designated activities in New Brunswick. Enter this amount on **line 300-NB** of the provincial schedule.
+
+Designated municipalities that are charities resident in New Brunswick qualify for a **50%** rebate of the **provincial** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of activities other than their designated activities in New Brunswick. Enter this amount on **line 305-NB** of the provincial schedule.
+
+Designated municipalities that are qualifying NPOs resident in New Brunswick qualify for a **50%** rebate of the **provincial** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of activities other than their designated activities in New Brunswick (only if they are not also a hospital authority, a university, a school authority, or a public college). Enter this amount on**line 306-NB**of the provincial schedule.
+
+**Municipalities resident in Newfoundland and Labrador**
+
+Municipalities resident in Newfoundland and Labrador qualify for a **57.14%** rebate of the **provincial** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their municipal activities or designated activities in Newfoundland and Labrador. Enter this amount on **line 300-NL**of the provincial schedule.
+
+Designated municipalities that are charities or public institutions resident in Newfoundland and Labrador qualify for a **50%** rebate of the **provincial** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of activities other than their designated activities in Newfoundland and Labrador. Enter this amount on line **305-NL** of the provincial schedule.
+
+Designated municipalities that are qualifying NPOs resident in Newfoundland and Labrador qualify for a **50%** rebate of the **provincial** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of activities other than their designated activities in Newfoundland and Labrador. Enter this amount on line **306-NL** of the provincial schedule.
+
+While not technically a municipality, an Inuit community government (and the Nunatsiavut Government) that is resident in Newfoundland and Labrador is treated as a municipality for the purpose of claiming the public service bodies' rebate of the provincial part of the HST. This is in accordance with the terms of the Labrador Inuit Tax Treatment Agreement, which was made between the federal government, the government of Newfoundland and Labrador and the Inuit of Labrador. The Inuit community governments are listed in the Labrador Inuit Land Claims Agreement. An Inuit community government (and the Nunatsiavut Government) may be entitled to claim a self-government refund of the GST and the federal part of the HST (see [Self-government refund](#slf-gvrnmnt)).
+
+**Municipalities resident in Prince Edward Island**
+
+Designated municipalities that are charities or public institutions resident in Prince Edward Island qualify for a **50%** rebate of the **provincial** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of activities other than their designated activities in Prince Edward Island. Enter this amount on **line 305-PE** of the provincial schedule.
+
+Designated municipalities that are qualifying NPOs resident in Prince Edward Island qualify for a **50%** rebate of the **provincial** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of activities other than their designated activities in Prince Edward Island. Enter this amount on **line 306-PE** of the provincial schedule.
+
+For more information about how the GST/HST applies to municipalities, see [Guide RC4049, *GST/HST Information for Municipalities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4049.html).
+
+### University
+
+#### Rebate factors
+
+The rebate factor for universities is **67%** of the GST and the **federal**part of the HST paid or payable on property or services consumed, used, or supplied in the course of operating a university.
+
+If you are eligible to claim a rebate as a university, enter the amount on**line 301**of Part D of the application.
+
+Universities that are public institutions qualify for a **50%** rebate of the GST and the **federal** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their non-selected public service body activities. Enter this amount on **line 305** of Part D of the application.
+
+Universities that are qualifying NPOs qualify for a **50%** rebate of the GST and the **federal** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their non-selected public service body activities. Enter this amount on **line 306** of Part D of the application.
+
+#### Universities resident in a participating province
+
+Universities resident in Ontario qualify for a **78%** rebate of the **provincial** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of operating a university in Ontario. Enter this amount on **line 301-ON** of the provincial schedule.
+
+Universities resident in Nova Scotia qualify for a**67%**rebate of the **provincial** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of operating a university in Nova Scotia. Enter this amount on **line 301-NS** of the provincial schedule.
+
+### School authority
+
+#### Rebate factors
+
+The rebate factor for school authorities is**68%** of the GST and the **federal** part of the HST paid or payable on property or services consumed, used, or supplied in activities engaged in by the person in the course of operating an elementary or secondary school.
+
+If you are eligible to claim a rebate as a school authority, enter the amount on **line 302** of Part D of the application.
+
+School authorities that are public institutions qualify for a **50%** rebate of the GST and the **federal**part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their non-selected public service body activities. Enter this amount on **line 305** of Part D of the application.
+
+School authorities that are qualifying NPOs qualify for a **50%** rebate of the GST and the **federal** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their non-selected public service body activities. Enter this amount on**line 306** of Part D of the application.
+
+#### School authorities resident in a participating province
+
+School authorities resident in Ontario qualify for a **93%** rebate of the **provincial** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their activities related to operating an elementary or secondary school in Ontario. Enter this amount on **line 302-ON** of the provincial schedule.
+
+School authorities resident in Nova Scotia qualify for a **68%** rebate of the **provincial** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their activities related to operating an elementary or secondary school in Nova Scotia. Enter this amount on **line 302-NS** of the provincial schedule.
+
+School authorities resident in New Brunswick qualify for a **100%** rebate of the **provincial** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their activities related to operating an elementary or secondary school in New Brunswick. Enter this amount on **line 302-NB** of the provincial schedule.
+
+The 100% rebate of the provincial part of the HST only applies to claim periods that end on or after April 1, 2024. Special transitional rules apply if a school authority's claim period straddles this date. The 100% public service bodies' rebate of the provincial part of the HST is not available for any tax that became payable before April 1, 2024.
+
+If you are a school authority that is also a public institution or a qualifying NPO that is engaged in multiple activity types, see [Special rules for claimants with multiple activity types](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034/rc4034-gst-hst-public-service-bodies-rebate.html).
+
+### Public college
+
+#### Rebate factors
+
+The rebate factor for public colleges is**67%** of the GST and the **federal**part of the HST paid or payable on property or services consumed, used, or supplied in activities engaged in by the person in the course of operating a post-secondary college or post-secondary technical institute.
+
+If you are eligible to claim a rebate as a public college, enter the amount on **line 303** of Part D of the application.
+
+Public colleges that are public institutions qualify for a **50%** rebate of the GST and the **federal** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their non-selected public service body activities. Enter this amount on **line 305** of Part D of the application.
+
+Public colleges that are qualifying NPOs qualify for a **50%** rebate of the GST and the **federal** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their non-selected public service body activities. Enter this amount on **line 306** of Part D of the application.
+
+#### Public colleges resident in a participating province
+
+Public colleges resident in Ontario qualify for a **78%** rebate of the **provincial**part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their activities related to operating a post-secondary college or post-secondary technical institute in Ontario. Enter this amount on **line 303-ON**of the provincial schedule.
+
+Public colleges resident in Nova Scotia qualify for a **67%** rebate of the **provincial** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their activities related to operating a post-secondary college or post-secondary technical institute in Nova Scotia. Enter this amount on **line 303-NS**of the provincial schedule.
+
+Public colleges resident in New Brunswick qualify for a **100%** rebate of the **provincial** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their activities related to operating a post-secondary college or post-secondary technical institute in New Brunswick. Enter this amount on **line 303 NB** of the provincial schedule.
+
+The 100% rebate of the provincial part of the HST only applies to claim periods that end on or after April 1, 2024.Special transitional rules apply if a public college's claim period straddles this date. The 100% public service bodies' rebate of the provincial part of the HST is not available for any tax that became payable before April 1, 2024.
+
+### Hospital authority
+
+The public service bodies' rebate applies to property or services consumed, used, or supplied in activities engaged in by the person in the course of operating a public hospital. The rebate also applies to eligible activities other than the operation of a public hospital, namely operating a qualifying facility to make facility supplies, or the making of facility supplies, ancillary supplies, or home medical supplies.
+
+For more information, see [GST/HST Memorandum 25-2, *Designation of Hospital Authorities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/25-2.html) and [Policy Statement P-245, *Determination of "activities engaged in by the person in the course of operating a public hospital."*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-245.html)
+
+#### Rebate factors
+
+The rebate factor for hospital authorities is**83%** of the GST and the **federal** part of the HST paid or payable on its purchases and expenses related to the operation of a public hospital.
+
+If you are eligible to claim a rebate for the operation of a public hospital, enter the amount on **line 304**of Part D of the application.
+
+The rebate factor for hospital authorities is **83%** of the GST and the **federal** part of the HST paid or payable on its purchases and expenses related to eligible activities **other than** the operation of a public hospital.
+
+If you are eligible to claim a rebate for eligible activities **other than** the operation of a public hospital, enter this rebate on **line 310** of Part D of the application.
+
+Hospital authorities that are public institutions qualify for a **50%** rebate of the GST and the **federal** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their non-selected public service body activities. Enter this amount on**line 305** of Part D of the application.
+
+Hospital authorities that are qualifying NPOs qualify for a **50%** rebate of the GST and the **federal** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their non-selected public service body activities. Enter this amount on **line 306** of Part D of the application.
+
+#### Hospital authorities resident in a participating province
+
+Hospital authorities in Ontario qualify for an **87%** rebate of the **provincial** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their hospital activities in Ontario. Enter this amount on **line 304-ON** of the provincial schedule.
+
+If you also qualify for an **87%** rebate of the **provincial**part of the HST for eligible activities, enter this amount on **line 310-ON** of the provincial schedule.
+
+Hospital authorities in Nova Scotia qualify for an **83%** rebate of the **provincial** part of the HST paid or payable to the extent that they intended to consume, use, or supply property or services in the course of their activities related to the operation of a public hospital in Nova Scotia. Enter this amount on **line 304-NS**of the provincial schedule.
+
+Hospital authorities in Nova Scotia qualify for a **50%** rebate of the **provincial**part of the HST paid or payable to the extent that they intended to consume, use, or supply property or services in activities **not** related to the operation of a public hospital in Nova Scotia. Enter this amount on **line 305-NS** or **306-NS** of the provincial schedule, whichever applies.
+
+Hospital authorities in New Brunswick qualify for a **100%** rebate of the **provincial** part of the HST paid or payable to the extent that they intented to consume, use, or supply property or services in the course of their activities related to the operation of a public hospital in New Brunswick. Enter this amount on **line 304-NB** of the provincial schedule.
+
+Hospital authorities in New Brunswick qualify for a **50%** rebate of the **provincial** part of the HST paid or payable to the extent that they intended to consume, use, or supply property or services in activities not related to the operation of a public hospital in New Brunswick. Enter this amount on **line 305‑NB** or **306‑NB** of the provincial schedule, whichever applies.
+
+The rebate of the provincial part of the HST only applies to claim periods that end on or after April 1, 2024. Special transitional rules apply if a hospital authority's claim period straddles this date. The public service bodies' rebate of the provincial part of the HST is not available for any tax that became payable before April 1, 2024.
+
+For more information on eligible activities other than the operation of a public hospital, call **1-800-959-8287**.
+
+If you are a hospital authority that is also a public institution or a qualifying NPO that is engaged in multiple activity types, see [Special rules for claimants with multiple activity types](#mltpl-ctvty).
+
+### Facility operator
+
+The public service bodies' rebate applies to property or services consumed, used, or supplied in activities engaged in by the person in the course of operating a qualifying facility to make facility supplies, or of making facility supplies, ancillary supplies, or home medical supplies.
+
+#### Rebate factors
+
+The rebate factor for facility operators is **83%** of the GST and the **federal**part of the HST paid or payable on its purchases and expenses related to eligible activities.
+
+If you are eligible to claim this rebate, enter the amount on **line 311** of Part D of the application.
+
+Facility operators that are charities or public institutions qualify for a **50%** rebate of the GST and the **federal** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their non-selected public service body activities. Enter this amount on **line 305** of Part D of the application.
+
+Facility operators that are qualifying NPOs qualify for a **50%** rebate of the GST and the **federal** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their non-selected public service body activities. Enter this amount on **line 306** of Part D of the application.
+
+#### Facility operators resident in a participating province
+
+Facility operators resident in Ontario qualify for an **87%** rebate of the **provincial**part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their eligible activities in Ontario. Enter this amount on **line 311-ON** of the provincial schedule.
+
+Facility operators resident in Nova Scotia qualify for a **50%** rebate of the **provincial**part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their activities in Nova Scotia. Enter the amount on **line 305-NS** or **line 306-NS**of the provincial schedule, whichever applies.
+
+Facility operators resident in New Brunswick qualify for a **50%** rebate of the **provincial**part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their activities in New Brunswick. Enter this amount on **line 305-NB**or **line 306-NB**of the provincial schedule, whichever applies.
+
+For more information on rebates for facility operators, call **1-800-959-8287**.
+
+If you are a facility operator that is also a charity or a public institution or a qualifying NPO that is engaged in multiple activity types, see [Special rules for claimants with multiple activity types](#mltpl-ctvty).
+
+### External supplier
+
+The public service bodies' rebate applies to property or services consumed, used, or supplied in eligible activities.
+
+#### Rebate factors
+
+The rebate factor for an external supplier is **83%** of the GST and the **federal**part of the HST paid or payable on its purchases and expenses related to eligible activities.
+
+If you are eligible to claim this rebate, enter the amount on **line 312** of Part D of the application.
+
+External suppliers that are charities or public institutions qualify for a **50%** rebate of the GST and the **federal** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their non-selected public service body activities. Enter this amount on **line 305**of Part D of the application.
+
+External suppliers that are qualifying NPOs qualify for a **50%** rebate of the GST and the **federal** part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their non-selected public service body activities. Enter this amount on **line 306** of Part D of the application.
+
+#### External suppliers resident in a participating province
+
+External suppliers resident in Ontario qualify for an **87%** rebate of the **provincial**part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their eligible activities in Ontario. Enter this amount on **line 312-ON** of the provincial schedule.
+
+External suppliers resident in Nova Scotia qualify for a **50%** rebate of the **provincial**part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their activities in Nova Scotia. Enter the amount on **line 305-NS** or **line 306-NS**of the provincial schedule, whichever applies.
+
+External suppliers resident in New Brunswick qualify for a **50%** rebate of the **provincial**part of the HST to the extent that they intended to consume, use, or supply property or services in the course of their activities in New Brunswick. Enter the amount on **line 305-NB**or **line 306-NB**of the provincial schedule, whichever applies.
+
+For more information on rebates for external suppliers, call **1-800-959-8287**.
+
+If you are a external supplier that is also a charity or a public institution or a qualifying NPO that is engaged in multiple activity types, see [Special rules for claimants with multiple activity types](#mltpl-ctvty).
+
+### Charities and public institutions
+
+#### Rebate factors
+
+The rebate factor for a charity or public institution is **50%** of the GST and the **federal**part of the HST paid or payable on its eligible purchases and expenses in respect of non-selected public service body activities.
+
+A public institution may claim a rebate of the GST and the federal part of the HST to the extent that it intended to consume, use, or supply property or services in the course of their non-selected public service body activities. See [Special rules for claimants with multiple activity types](#mltpl-ctvty).
+
+If you are eligible to claim this rebate, enter the amount on **line 305** of Part D of the application.
+
+#### Charities and public institutions resident in a participating province
+
+Charities resident in two or more provinces, at least one of which is a participating province, must calculate their public service bodies' rebate of the **provincial** part of the HST based on the extent they intended to consume, use, or supply property or services in the course of their activities in each participating province in which they are resident. For more information, see [Special rules for claimants resident in more than one province](#spcl-rl).
+
+Charities and public institutions resident in Ontario qualify for an**82%** rebate of the **provincial**part of the HST on non-selected public service body activities. Enter this amount on **line 305-ON** of the provincial schedule.
+
+Charities and public institutions resident in Nova Scotia qualify for a **50%** rebate of the **provincial**part of the HST on non-selected public service body activities. Enter this amount on **line 305-NS** of the provincial schedule.
+
+Charities and public institutions (other than universities) resident in New Brunswick qualify for a **50%** rebate of the **provincial**part of the HST on non-selected public service body activities. Enter this amount on **line 305-NB** of the provincial schedule.
+
+Public institutions (other than universities) resident in New Brunswick are only eligible for a 50% rebate of the provincial part of the HST for claim periods ending on or after April 1, 2024. Special transitional rules apply if a public institution's claim period straddles this date. The 50% public service bodies' rebate of the provincial part of the HST is not available for any tax that became payable before April 1, 2024.
+
+Charities and public institutions resident in Newfoundland and Labrador qualify for a **50%** rebate of the **provincial**part of the HST only on non-selected public service body activities. Enter this amount on**line 305-NL** of the provincial schedule.
+
+Charities and public institutions resident in Prince Edward Island qualify for a **50%** rebate of the **provincial**part of the HST only on non-selected public service body activities. Enter this amount on **line 305-PE** of the provincial schedule.
+
+For tax payable before January 1, 2023, charities and public institutions resident in Prince Edward Island qualified for a 35% rebate on their non-selected public service body activities instead of a 50% rebate.
+
+If you are a charity or public institution that is engaged in multiple activity types, see [Special rules for claimants with multiple activity types](#mltpl-ctvty). If you are a charity or public institution that is resident in more than one province, at least one of which is a participating province, see [Special rules for claimants resident in more than one province](#spcl-rl).
+
+#### Charities that are GST/HST registrants
+
+As a charity that is a GST/HST registrant, you have to use the net-tax calculation for charities when you file your GST/HST return, unless you are eligible to elect not to use it and you file the appropriate form.
+
+Using the net-tax calculation method for charities does not affect your public service bodies' rebate entitlements and you still claim your rebate in the usual way. Therefore, you can claim a rebate of the GST or the **federal** part of the HST paid or payable on all of the eligible purchases and expenses you made during the claim period for which you cannot claim ITCs. Also, if you qualify for a rebate of the **provincial** part of the HST, claim it in the usual way.
+
+For more information on the net-tax calculation method for charities, see [Guide RC4082, *GST/HST Information for Charities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4082.html), and [GST/HST Info Sheet GI-066, *How a Charity Completes Its GST/HST Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-066.html).
+
+### Qualifying non-profit organization
+
+#### Rebate factors
+
+The rebate factor for qualifying NPO is**50%** of the GST and the **federal**part of the HST paid or payable on its eligible purchases and expenses in respect of non‑selected public service body activities.
+
+If you are a qualifying NPO that is also a hospital authority, school authority, university, public college, designated municipality, external supplier, or facility operator, see [Special rules for claimants with multiple activity types](#mltpl-ctvty).
+
+If you are eligible to claim a rebate as a qualifying NPO, enter the amount on **line 306** of Part D of the application.
+
+#### Qualifying NPOs resident in a participating province
+
+Qualifying NPOs resident in two or more provinces, at least one of which is a participating province, must calculate their public service bodies' rebate of the provincial part of the HST based on the extent they intended to consume, use, or supply property or services in the course of their activities in each participating province in which they are resident. For more information, see [Special rules for claimants resident in more than one province](#spcl-rl).
+
+Qualifying NPOs resident in Ontario qualify for an **82%** rebate of the **provincial**part of the HST on non-selected public service body activities. Enter this amount on **line 306-ON** of the provincial schedule.
+
+Qualifying NPOs resident in Nova Scotia qualify for a **50%** rebate of the **provincial**part of the HST on non-selected public service body activities. Enter this amount on **line 306-NS** of the provincial schedule.
+
+Qualifying NPOs (other than universities) resident in New Brunswick qualify for a **50%** rebate of the **provincial**part of the HST on non-selected public service body activities. Enter this amount on **line 306-NB** of the provincial schedule.
+
+Qualifying NPOs (other than universities) resident in New Brunswick are only eligible for a 50% rebate of the provincial part of the HST for claim periods ending on or after April 1, 2024. Special transitional rules apply if a qualifying NPO's claim period straddles this date. The 50% public service bodies' rebate of the provincial part of the HST is not available for any tax that became payable before April 1, 2024.
+
+Qualifying NPOs resident in Newfoundland and Labrador qualify for a **50%**rebate of the **provincial**part of the HST only on non-selected public service body activities. Enter this amount on **line 306-NL** of the provincial schedule.
+
+Qualifying NPOs resident in Prince Edward Island qualify for a **50%** rebate of the **provincial**part of the HST only on non-selected public service body activities. Enter this amount on **line 306-PE** of the provincial schedule.
+
+For tax payable before January 1, 2023, qualifying NPOs resident in Prince Edward Island qualified for a 35% rebate on their non-selected public service body activities instead of a 50% rebate.
+
+If you are a qualifying NPO that is resident in more than one province, at least one of which is a participating province, see [Special rules for claimants resident in more than one province](#spcl-rl).
+
+You cannot claim a rebate of the**provincial**part of the HST for a supply of goods on which you received a point-of-sale rebate when you purchased the goods.
+
+### Printed books
+
+[Specified persons](#specified), excluding prescribed charities and prescribed non-profit organizations, can claim a rebate of the GST or the **federal**part of the HST payable on printed books and their updates, audio recordings of printed books, and printed versions of religious scriptures purchased **other than for resale**.
+
+The rebate is not available if:
+
+- the specified person has acquired or imported the books to be sold or given away
+
+- for GST/HST that becomes payable after July 27, 2018, without having been paid on or before that day, the specified person has acquired or imported the books for the purpose of transferring ownership of the books as part of a single supply of another property or service
+
+Specified persons that are prescribed charities and prescribed non-profit organizations whose primary purpose is the promotion of literacy **can** claim a rebate of the GST/HST payable on printed books and their updates, audio recordings of printed books, and printed versions of religious scriptures that are acquired other than for the purposes of sale for consideration. This broadens the rebate available to such organizations to include property that is **given away at no cost**.
+
+A point-of-sale rebate is already available in the participating provinces for the **provincial**part of the HST on printed books. Therefore, you can only apply for a rebate of the **federal**part of the HST on this application. For more information, see [GST/HST for businesses](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html) and select [Claim a GST/HST rebate](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates.html) and then **Provincial point-of-sale rebate on qualifying items (reason code 16)**.
+
+For this rebate, **printed books** **do not include** certain items such as:
+
+- newspapers
+
+- magazines and periodicals that are not purchased by subscription or that have more than 5% of their printed space devoted to advertising
+
+- books designed primarily for writing or drawing on, or affixing thereto, or inserting therein, items such as clippings, pictures, coins, stamps or stickers
+
+- brochures or pamphlets
+
+- agendas and calendars
+
+- directories
+
+- rate books (for example, insurance rate books)
+
+#### Filing deadline
+
+You have up to four years from the last day of the claim period in which the tax became payable to file a rebate application for the printed-book rebate.
+
+**Specified person,** for the purposes of the rebate for printed books, means:
+
+- a municipality
+
+- a university
+
+- a public college
+
+- a school authority
+
+- a charity, a public institution or a qualifying NPO that operates a public lending library
+
+- a prescribed charity or a prescribed qualifying NPO whose primary purpose is the promotion of literacy
+
+To request to be prescribed, send your request, including the name of the organization, its governing documents, and a statement of its purposes and activities, to the following address:
+
+**Director Public Service Bodies and Governments Division GST/HST Rulings Directorate320 Queen Street, Tower A, 5th floor Ottawa ON K1A 0L5**
+
+The CRA will pass their recommendation on to the Department of Finance Canada. For more information, see [GST/HST Memorandum 13-4, *Rebates for Printed Books, Audio Recordings of Printed Books, and Printed Versions of Religious Scriptures*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/13-4.html).
+
+#### Rebate factor
+
+As a specified person, your rebate factor is**100%**of the GST or the **federal**part of the HST payable on printed books and their updates, audio recordings of printed books, and printed versions of religious scriptures that you bought or imported, other than those you intend to resell.
+
+If you are eligible to claim a rebate for printed books of the GST or the federal part of the HST, enter the amount on **line 307** of Part D of the application.
+
+### Property and services exported by a charity or a public institution
+
+If you are a charity or a public institution, you can claim a rebate of the GST/HST that you paid on property or services that you exported outside Canada. To be eligible for the rebate, you must have paid the GST/HST and have exported the property or services.
+
+You cannot claim a rebate of tax you paid to export property or services. The rebate is only for tax paid on the purchase of the property or services. The rebate does not apply to inputs used or consumed in Canada. For example, fund-raising activities or overhead expenses cannot be claimed, even if they are related to a purchase that is exported.
+
+#### Rebate factors
+
+The rebate factor for exported property and services is **100%** of the GST and the **federal** part of the HST paid on the acquisition of property or services that are exported from Canada by the charity or public institution, including those exported in the course of a commercial activity, and for which an input tax credit is not available.
+
+If you are eligible to claim a rebate for exported property and services, enter the amount on **line 308** of Part D of the application.
+
+Charities and public institutions not resident in a participating province should also claim their rebate of the **provincial** part of the HST paid on property and services exported from Canada on **line 308** of Part D of the application.
+
+#### Property and services exported by charities and public institutions resident in a participating province
+
+The rebate factor for the **provincial**part of the HST is also **100%**. Claim this rebate as follows:
+
+- If you are resident in Ontario, enter this amount on **line 308-ON** of the provincial schedule.
+
+- If you are resident in Nova Scotia, enter this amount on **line 308-NS** of the provincial schedule.
+
+- If you are resident in New Brunswick, enter this amount on **line 308-NB** of the provincial schedule.
+
+- If you are resident in Newfoundland and Labrador, enter this amount on **line 308-NL** of the provincial schedule.
+
+- If you are resident in Prince Edward Island, enter this amount on **line 308-PE** of the provincial schedule.
+
+If you export property or services for which you previously claimed a public service bodies' rebate on another line, you may still be eligible for a rebate on the amount that did not qualify. Once you have exported the property or services, you may be able to claim the difference between the total GST/HST paid and the amount already claimed as a public service bodies' rebate. Claim the difference between the GST or the **federal** part of the HST and the amount previously claimed on **line 308** of the rebate application. Claim the difference between the **provincial** part of the HST and the amount you previously claimed on the appropriate lines of the provincial schedule. You have up to four years from the last day of the fiscal year in which tax in respect of the supply became payable to file a rebate application for this rebate.
+
+## Self-government refund
+
+In this guide, self-government refund refers to a refund available to an Indigenous government that has entered into an agreement with the Government of Canada that provides for a refund of the GST and the **federal**part of the HST for property and services that are acquired for self-government activities. Indigenous governments that have entered into such agreements include those Yukon First Nations with self-government agreements, the Nisg̱a'a Nation, the Tłı̨chǫ First Nation, the Tsawwassen First Nation, the Maa-nulth First Nations, the Tla'amin First Nation, the Délı̨nę First Nation, the Labrador Inuit and the Whitecap Dakota Nation.
+
+If you are an Indigenous government that has such an agreement, you may be eligible to claim a refund of **100%** of the GST and the **federal** part of the HST paid or payable on property and services. The terms and conditions that apply to the refund of the GST and the **federal** part of the HST are included in each agreement.
+
+Enter the refund on **line 309** of Part D of the application. The time limit for claiming the self-government refund is stated in your agreement.
+
+An Inuit community government (and the Nunatsiavut Government) that is resident in Newfoundland and Labrador is treated as a municipality for the purpose of claiming the public service bodies' rebate of the provincial part of the HST. See [Municipality](#line300).
+
+## How to calculate the public service bodies' rebate
+
+You generally calculate and claim your public service bodies' rebate based on your claim period. To claim a rebate, file [Form GST66, *Application for GST/HST Public Service Bodies' Rebate and GST Self-Government Refund*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst66.html), for each claim period in which you are eligible for a rebate.
+
+The rebate is available only on the GST/HST paid or payable, not on the full cost of the property or services. You do not pay GST/HST on zero-rated or exempt property and services, such as hearing aids, meals provided to hospital patients, or admissions to certain fund-raising events of charities. In addition, you cannot claim a rebate of the**provincial**part of the HST for which you received a point-of-sale rebate.
+
+Certain purchases and expenses are not eligible for the public service bodies' rebate. For examples of eligible and ineligible purchases and expenses, see [What can you claim?](#P138_8055)
+
+There are two possible methods to calculate your rebate:
+
+- the **regular method** based on non-creditable tax charged (see [Using the regular method to calculate your rebate](#regular_method))
+
+- the **simplified method**(see [Using the simplified method to calculate your rebate](#smplf-mthd))
+
+### Non-creditable tax charged
+
+Generally, non-creditable tax charged is the GST/HST paid or payable on eligible purchases and expenses that you cannot recover in any way, other than by claiming the public service bodies' rebate. You need to know this amount if you are [using the regular method to calculate your rebate](#regular_method). For more information, see [GST/HST Memorandum 13-5, *Non-creditable Tax Charged*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/13-5/non-creditable-tax-charged.html).
+
+Non-creditable tax charged also includes FNGST paid or payable on eligible purchases and expenses that cannot be recovered in any way other than by claiming the PSB rebate.
+
+#### How to calculate non-creditable tax charged
+
+Use the following instructions to calculate the amount of your non-creditable **GST**charged. To calculate the federal or provincial non-creditable **HST** charged, use the federal or provincial part of the HST amounts instead of the GST amounts.
+
+If you paid the HST at different rates on your purchases and expenses (for example, if you paid 13% HST on some purchases and expenses and 15% on others) calculate them separately according to the rates you paid.
+
+Non-creditable **GST**charged for a claim period is equal to the total GST paid or payable in the period on eligible purchases and expenses, **minus** the following amounts:
+
+- any ITCs you claimed or are entitled to claim for any of that GST (this does not apply to non-registrants because they cannot claim ITCs)
+
+- any rebate, refund, or remission of any of that GST that it is reasonable to expect you received or are entitled to receive
+
+- any amount of that GST that is refunded, credited, or adjusted in your favour and for which you have either received a credit note from the supplier or you have issued a debit note to the supplier
+
+The result is your non-creditable GST charged. Use this amount to calculate your rebate of the GST using the regular method.
+
+For **HST** amounts, you must first separate the federal and provincial parts of the HST. To determine the **federal** part of the HST, multiply your HST paid or payable on eligible purchases and expenses by:
+
+- 5/13 for those purchases and expenses taxed at 13%
+
+- 5/14 for those purchases and expenses taxed at 14%
+
+- 5/15 for those purchases and expenses taxed at 15%
+
+Add up the results and use this amount to calculate your **federal** non creditable HST charged.
+
+To determine the **provincial** part of the HST, multiply your HST paid or payable on eligible purchases and expenses by:
+
+- 8/13 for those purchases and expenses taxed at 13%
+
+- 9/14 for those purchases and expenses taxed at 14%
+
+- 10/15 for those purchases and expenses taxed at 15%
+
+Add up the results and use this amount to calculate your **provincial** non-creditable HST charged.
+
+A charity resident in Ontario paid $1,300 in HST on goods purchased and used exclusively in Ontario. The charity was not entitled to claim an ITC or any other rebate, refund, or remission of that HST.
+
+Total HST paid in claim period: $1,300
+
+**Federal** part of the HST: $500 ($1,300 × 5/13)
+
+**Provincial** part of the HST: $800 ($1,300 × 8/13)
+
+The charity calculates its non-creditable tax charged as follows:
+
+- federal non-creditable HST charged: $500 – $0 = $500
+
+- provincial non-creditable HST charged: $800 – $0 = $800
+
+When separating the federal and provincial parts of the HST, you also have to take into account any point-of-sale rebate for the **provincial** part of the HST on specified items and **exclude** these items from your calculation (the **federal** part of the HST paid on these items may be included when calculating your non creditable GST charged as explained above).
+
+To find out how to calculate your rebate for the**federal**part and the **provincial** part of the HST, see [Step 2](#step2_rebate_federalpart) and [Step 4](#step4_rebate_provincialpart).
+
+If you paid a GST/HST-included amount and need to know the amount of tax that was included, see [How to calculate the amount of GST/HST included in a purchase price](#P469_49443).
+
+### Using the regular method to calculate your rebate
+
+Use the following steps to calculate your public service bodies' rebate using the regular method.
+
+#### Step 1
+
+#### Calculate your rebate of the GST
+
+Do the following calculation to determine your public service bodies' rebate of the GST for each activity you are engaged in.
+
+**Non-creditable GST charged for the claim period**
+
+**Public service bodies' rebate for the GST**
+
+To determine your non-creditable tax charged, see [How to calculate non-creditable tax charged](#how_calculate).
+
+To determine your rebate factor for the GST, see [Rebate factors and explanation of activity types](#rbt_fctrs).
+
+If you are engaged in more than one activity type, you have to calculate your public service bodies' rebate of the GST using more than one rebate factor. For more information, see [Special rules for claimants with multiple activity types](#mltpl-ctvty).
+
+#### Step 2
+
+#### Calculate your rebate of the federal part of the HST
+
+To calculate your rebate of the **federal** part of the HST, you must first determine the federal part of the HST that you paid or that was payable on eligible purchases and expenses during the claim period.
+
+Complete the following calculations that apply to you. If you have purchases and expenses that were taxed at different rates, calculate them separately according to the rates you paid.
+
+Multiply your HST paid or payable on eligible purchases and expenses by:
+
+- 5/13 for those purchases and expenses taxed at 13%
+
+- 5/14 for those purchases and expenses taxed at 14%
+
+- 5/15 for those purchases and expenses taxed at 15%
+
+Add up the results and use this amount to calculate your **federal** non-creditable HST charged. To find out how to calculate this amount, see [How to calculate non-creditable tax charged](#clct_ncrdt_tx).
+
+Multiply your **federal** non-creditable HST charged by your rebate factor for the **federal** part of the HST to determine your rebate of the **federal** part of the HST. To find out your rebate factor, see [Rebate factors and explanation of activity types](#rbt_fctrs).
+
+If you are engaged in more than one activity type you have to calculate your public service bodies' rebate using more than one rebate factor. For more information, see [Special rules for claimants with multiple activity types](#mltpl-ctvty).
+
+#### Step 3
+
+Add up the results from steps 1 and 2 (by activity type if you are engaged in multiple activity types) and enter the total on the appropriate lines (**lines 300 to 312**) of Part D of the application. Add up the amounts on **lines 300 to 312**and enter the total on **line A** of the application.
+
+#### Step 4
+
+#### Calculate your rebate of the provincial part of the HST
+
+Only certain organizations can claim a rebate of the**provincial** part of the HST. To find out if you are eligible, see [Rebate of the provincial part of the HST](#P161_11602).
+
+If you are resident in more than one province, at least one of which is a participating province, determine the extent you intend to consume, use, or supply property or services in the course of your activities in each province in which you are resident.
+
+Complete the following calculations that apply to you.
+
+If you have purchases and expenses that were taxed at different rates, calculate them separately according to the rates you paid.
+
+If you are eligible for a rebate of the **provincial**part of the HST, multiply your HST paid or payable on eligible purchases and expenses by:
+
+- 8/13 for those purchases and expenses taxed at 13%
+
+- 9/14 for those purchases and expenses taxed at 14%
+
+- 10/15 for those purchases and expenses taxed at 15%
+
+Add up the results and use this amount to calculate your **provincial** non-creditable HST charged. To find out how to calculate this amount, see [How to calculate non-creditable tax charged](#how_calculate).
+
+To determine your rebate of the **provincial** part of the HST, multiply your **provincial** non-creditable HST charged by your rebate factor for the **provincial** part of the HST for each activity type for each province in which you are resident and, if applicable, the extent of consumption, use or supply in each province.
+
+If you are engaged in more than one activity type, see [Special rules for claimants with multiple activity types](#mltpl-ctvty).
+
+If you have activities in more than one province, at least one of which is a participating province, see [Special rules for claimants resident in more than one province](#spcl-rl).
+
+Do **not** include in your calculation any amount for which a point-of-sale rebate of the **provincial**part of the HST was received.
+
+To find out your rebate factor, see [Rebate factors and explanation of activity types](#rbt_fctrs).
+
+Enter the amounts on the appropriate lines of the provincial schedule. The total from your provincial schedule is entered on **line B** of Part D of the application.
+
+#### Step 5
+
+Add **lines A and B** on your rebate application and enter the total on **line 409** of your application. This is your public service bodies' rebate of the GST/HST.
+
+A municipality in Ontario is registered for the GST/HST. It buys property and services for use in its taxable and exempt activities during the claim period of April 1, 2021, to June 30, 2021. The municipality paid 13% HST on all of its taxable purchases and expenses and claimed the following ITCs:
+
+| Item | Amount |
+
+| --- | --- |
+
+| Total HST paid in claim period | $5,000 |
+
+| ITCs claimed | $2,100 |
+
+| Non-creditable HST charged | $2,900 |
+
+**Rebate of the federal part of the HST**
+
+Calculate the **federal** part of the non-creditable HST charged as follows:
+
+$2,900 x 5/13 = $1,115.38
+
+The federal rebate factor for municipalities is 100%. The rebate of the **federal** part of the HST is:
+
+$1,115.38 x 100% = $1,115.38
+
+The municipality enters $1,115.38 on **line 300** of Part D of the application.
+
+**Rebate of the provincial part of the HST**
+
+Calculate the **provincial** part of the non-creditable HST charged as follows:
+
+$2,900 x 8/13 = $1,784.62
+
+The provincial rebate factor for municipalities in Ontario is 78%. Calculate the rebate of the **provincial** part of the HST as follows:
+
+$1,784.62 x 78% = $1,392.00
+
+The municipality enters $1,392.00 on **line 300-ON** of the provincial schedule and on **line B** of Part D of the application.
+
+The total rebate claim on **line 409** of Part D will be $2,507.38($1,115.38 + $1,392.00).
+
+In this example, the rebate factors for the federal and provincial parts of the HST are different because it is a municipality resident in Ontario. The municipality does not have to factor in the extent of use in each participating province because it is only resident in one province.
+
+If you are a public service body resident in a participating province and you get a point-of-sale rebate of the **provincial**part of the HST on some of your purchases and expenses, you have to exclude the **federal**part of the HST from the non-creditable tax charged before making your calculations to separate the federal and provincial parts of the HST. You add the amount you excluded to the **federal**part of the HST calculated before applying the federal rebate factor.
+
+A university in Ontario is registered for the GST/HST. It buys property and services for use in its taxable and exempt activities during the claim period of July 1, 2021, to September 30, 2021. The university paid 13% HST on all of its taxable purchases and expenses and claimed ITCs. It also received a point-of-sale rebate of the **provincial** part of the HST for certain specified purchases and expenses:
+
+| Item | Amount |
+
+| --- | --- |
+
+| Total HST paid in claim period | $5,000 |
+
+| ITCs claimed | $2,100 |
+
+|  |  |
+
+|  | = $2,900 |
+
+| Less the **federal** part of the HST paid on goods on which a point-of-sale rebate was received | $100 |
+
+|  |  |
+
+| Non-creditable HST charged | = $2,800 |
+
+|  |  |
+
+| **Rebate of the federal part of the HST** |  |
+
+| Calculate the **federal** part of the non-creditable HST charged as follows: | $2,800 × 5/13 = $1,076.92 |
+
+| Add the federal part of the HST from above | $100.00 |
+
+|  | = $1,176.92 |
+
+The federal rebate factor for universities is 67%. The rebate of the **federal**part of the HST is:
+
+$1,176.92 × 67% = $788.54
+
+The university enters $788.54 on **line 301** of Part D of the application.
+
+**Rebate of the provincial part of the HST**
+
+Calculate the **provincial**part of the non-creditable HST charged as follows:
+
+$2,800 × 8/13 = $1,723.08
+
+The provincial rebate factor for universities in Ontario is 78%. Calculate the rebate of the**provincial**part of the HST as follows:
+
+$1,723.08 × 78% = $1,344.00
+
+The university enters $1,344.00 on **line 301-ON** of the provincial schedule.
+
+The total rebate claim entered on **line 409** of Part D will be $2,132.54 ($788.54 + $1,344.00).
+
+The university does not have to factor in the extent of use in each participating province because it is resident in only one province.
+
+#### Are you a resident of a non-participating province that buys property and services in a participating province?
+
+As a resident of a non-participating province, you can claim a public service bodies' rebate of the **federal**part of the HST paid or payable on purchases and expenses made in a participating province and for the GST paid or payable on purchases and expenses made in a non-participating province.
+
+Since you are **not** a resident of a participating province, you are **not** eligible for a public service bodies' rebate of the **provincial**part of the HST.
+
+#### Are you a resident of a participating province that imported goods for use in another province?
+
+If you are resident in a particular participating province and you imported goods at a place in another province for consumption or use exclusively in any province (other than the particular participating province) you may be entitled to a rebate of all or part of the provincial part of the HST you paid on the goods.
+
+You must have paid the appropriate provincial sales tax in the province of use before claiming a rebate of the provincial part of the HST.
+
+If you claim, or are entitled to claim, a rebate of the provincial part of the HST using [Form GST189](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html), that amount cannot also be claimed as a public service bodies' rebate.
+
+For more information, see [Form GST189, *General Application for GST/HST Rebates*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html), or [Guide RC4033, *General Application for GST/HST Rebates*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4033.html).
+
+#### Did you buy goods in a participating province and bring them into another province?
+
+If you bought goods in a participating province for consumption, use, or supply exclusively outside the participating province and you removed the goods from the participating province no later than 30 days after they were delivered to you, you may be entitled to a rebate of all or a portion of the provincial part of the HST paid. For example, you may be entitled to a rebate of a portion of the **provincial**part of the HST on goods if you moved the goods from a participating province with a higher rate to a participating province with a lower rate. You must have paid the appropriate provincial sales tax in the province of use before claiming a rebate of the**provincial**part of the HST.
+
+For more information, see [Form GST495, *Rebate Application for Provincial Part of Harmonized Sales Tax (HST)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst495.html).
+
+If you claim, or are entitled to claim, a rebate of the**provincial**part of the HST using [Form GST495](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst495.html), that amount cannot also be claimed as a public service bodies' rebate.
+
+#### Did you buy services or intangible personal property in a participating province for use in another province?
+
+If you bought **services or intangible personal property** in a participating province that are for use significantly (10% or more) outside the participating province, you may be entitled to a rebate of some or all of the **provincial**part of the HST paid. Use [Form GST189, *General Application for GST/HST Rebates*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html), to apply for this rebate.
+
+If you claim, or are entitled to claim, a rebate of the**provincial**part of the HST using [Form GST189](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html), that amount cannot also be claimed as a public service bodies' rebate.
+
+For more information, see [Form GST189, *General Application for GST/HST Rebates*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html), or [Guide RC4033, *General Application for GST/HST Rebates*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4033.html).
+
+A qualifying NPO resident in Alberta is registered for the GST/HST. It buys property and services in Nova Scotia (a participating province) and Alberta (a non-participating province) to use in its taxable and exempt activities. All purchases and expenses made in Alberta were subject to 5% GST. All purchases and expenses made in Nova Scotia were subject to 14% HST.
+
+Since the qualifying NPO is not a resident of a participating province, it cannot claim a public service bodies' rebate of the provincial part of the HST. The qualifying NPO may be eligible for a rebate of the provincialpart of the HST using [Form GST189](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html) or [Form GST495](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst495.html) for property that it removed from Nova Scotia for use in Alberta. The qualifying NPO may be eligible for a rebate of the provincial part of the HST using Form GST189 for services that it acquired for use significantly in Alberta.
+
+The qualifying NPO will calculate its non-creditable GST charged and **federal**non-creditable HST charged (see [Using the regular method to calculate your rebate](#regular_method)), and multiply these amounts by the qualifying NPO rebate factor of 50%.
+
+#### How to calculate the amount of GST/HST included in a purchase price
+
+If the GST/HST was included in the purchase price (it was not shown separately on the invoice), calculate the amount of GST/HST included by using one of the following calculations. The calculation you have to use depends on whether you were charged the GST or the HST and at which rate.
+
+**If you were charged the GST**
+
+When the GST is included in a purchase price, do the following calculation to find out the amount of GST included.
+
+**If you were charged 5% GST:** purchase price (GST included) × 5/105 = GST charged
+
+The amount on which vendors charge the GST should not include provincial sales tax.
+
+**If you were charged the HST**
+
+When the HST is included in a purchase price, do one of the following calculations, whichever applies, to determine the amount of HST included.
+
+**If you were charged 13% HST:** purchase price (HST included) × 13/113 = HST charged
+
+**If you were charged 14% HST:** purchase price (HST included) × 14/114 = HST charged
+
+**If you were charged 15% HST:** purchase price (HST included) × 15/115 = HST charged
+
+If you were charged the HST on some items on an invoice and received a point-of-sale rebate on others on the same invoice, you will have to separate the items on which you paid the HST from those on which you paid the **federal**part of the HST only.
+
+Include the items on which you were charged the HST when calculating the HST amounts. Include the items on which you were charged the **federal**part of the HST only when calculating the GST amounts.
+
+### Using the simplified method to calculate your rebate
+
+The **simplified method to calculate your rebate** is another way to calculate your public service bodies' rebate, whether or not you are a GST/HST registrant. If you are eligible to use this method and choose to do so, you will not have to track the GST/HST you paid on each invoice.
+
+However, you have to keep documents to support your application and, if you are a registrant, continue to charge, collect, and remit the GST/HST on your supplies as usual. You do not have to file any forms to start using this method, but you have to meet certain conditions.
+
+You cannot use the simplified method to calculate your rebate for real property. In such situations, the amount of tax paid on real property that qualifies for the rebate should be added **after** you have calculated your rebate using the simplified method.
+
+The simplified method to calculate rebates cannot be used to calculate your rebate for exported goods and services (**line 308**) or for printed books (**line 307**).
+
+You are **eligible** to use the simplified method for claiming rebates if you meet **all** of the following conditions:
+
+- You and your associates have annual worldwide revenues from taxable supplies of property and services that do not exceed $1 million in your immediately preceding fiscal year and the preceding fiscal quarters in the current fiscal year. This limit does not include goodwill, zero-rated financial services, or sales of capital real property
+
+- Your taxable purchases in Canada must not exceed $4 million in the immediately preceding fiscal year. In addition, you must be able to reasonably expect that your taxable purchases in Canada in the **current** fiscal year will not be more than $4 million. The $4 million purchase limit does not include zero-rated purchases, but does include purchases imported into Canada or brought into a participating province
+
+Use the following steps to calculate your rebate using the simplified method.
+
+#### Step 1
+
+Add up **separately** your eligible purchases and expenses for which you were charged the GST/HST at the rate of 5%, 13%, 14%, or 15%. For example, add up all the purchases and expenses on which you paid the GST at 5%. This could include purchases and expenses for which you received a point-of-sale rebate of the **provincial**part of the HST and only had to pay the **federal**part of the HST. For more information on point-of-sale rebates, see [Step 5](#stp_5).
+
+Only include purchases and expenses for use in your organization's activities and on which the GST or the HST is paid or payable by you or by an employee whom you have reimbursed. If you are a charity or public institution, only include purchases and expenses for use in your organization's activities and on which the GST or the HST is paid or payable by you or by an employee or volunteer whom you have reimbursed. Make sure to include:
+
+- the purchase price
+
+- the GST or the HST
+
+- non-refundable provincial taxes (only for purchases and expenses taxed at 5% GST)
+
+- reasonable tips
+
+- import duties
+
+- interest and late penalties paid for supplies taxed at 5%, 13%,14%, or 15%
+
+Do**not**include:
+
+- the part of purchases and expenses for which you claimed or will claim ITCs
+
+- purchases and expenses on which you have not paid the GST/HST, such as salaries, insurance payments, interest paid, and other exempt or zero-rated purchases and expenses, as well as purchases and expenses from a non-registrant
+
+- purchases and expenses made outside Canada that are not subject to the GST/HST
+
+- the part of ITCs on meals and entertainment that is subject to recapture
+
+- refundable or rebatable provincial sales taxes
+
+- amounts paid on real property, including purchases and rentals
+
+If you are a registrant, you must separate your expenses between those for exempt activities and those for commercial activities. For more information, see [Guide RC4022, *General Information for GST/HST Registrants*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+#### Step 2
+
+Multiply your eligible purchases and expenses calculated in [step 1](#step1) by:
+
+- 5/105 for those purchases and expenses taxed at 5% GST
+
+- 5/113 for those purchases and expenses taxed at 13% HST
+
+- 5/114 for those purchases and expenses taxed at 14% HST
+
+- 5/115 for those purchases and expenses taxed at 15% HST
+
+#### Step 3
+
+Add up all of the results from [step 2](#step2). Then add any GST or the **federal**part of the HST that you paid on real property for which you cannot claim an ITC as well as any **federal**part of the HST paid on items for which a point-of-sale rebate was received for the **provincial**part of the HST if these sales were not already included in [step 1](#step1).
+
+#### Step 4
+
+Multiply the amount you calculated in [step 3](#Step3a)by your rebate factor for the GST or the **federal**part of HST. To find the rebate factor that applies to you, see [Rebate factors and explanation of activity types](#rbt_fctrs).
+
+If you are engaged in more than one activity type, you have to calculate your public service bodies' rebate of the GST or the **federal**part of the HST using more than one rebate factor. For more information, see [Special rules for claimants with multiple activity types](#mltpl-ctvty).
+
+#### Step 5
+
+If you are resident in a participating province, you may also be entitled to a rebate of the**provincial** part of the HST. To find out if you are eligible, see [Rebate of the provincial part of the HST](#P161_11602). If you are eligible, complete this step and[step 6](#step6a). If not, go to [step 7](#step7).
+
+If you can claim a rebate of the **provincial**part of the HST, you must make sure that you do not include any amount for which you received a point-of-sale rebate of the **provincial**part of the HST (such as a point-of-sale rebate on books) in the calculation for step 5. Include the **federal**part of the HST paid on these purchases and expenses when calculating the amount of the GST or the **federal** part of the HST in [step 2](#step2).
+
+To calculate your rebate of the**provincial** part of the HST, multiply your total eligible purchases and expenses in [step 1](#step1) by:
+
+- 8/113 for those purchases and expenses taxed at 13% HST
+
+- 9/114 for those purchases and expenses taxed at 14% HST
+
+- 10/115 for those purchases and expenses taxed at 15% HST
+
+#### Step 6
+
+Add up all of the results from [step 5](#step5_provparthst). Then add any provincial part of the HST that you paid on real property for which you cannot claim an ITC.
+
+#### Step 7
+
+Multiply the amount you calculated in [step 6](#step6a) by your rebate factor for the **provincial**part of the HST. To find the rebate factor that applies to you, see [Rebate factors and explanation of activity types](#rbt_fctrs).
+
+If you are engaged in more than one activity type, you have to calculate your public service bodies' rebate of the**provincial**part of the HST using more than one rebate factor. For more information, see [Special rules for claimants with multiple activity types](#mltpl-ctvty).
+
+If you are resident in more than one province, at least one of which is a participating province, you have to determine the extent you intended to consume, use, or supply the property or service in the course of each activity type in each province in which you are resident. For more information, see [Special rules for claimants resident in more than one province](#spcl-rl).
+
+#### Step 8
+
+Enter the results of [step 4](#step4a) and [step 7](#step7) on the appropriate lines of your application and provincial schedule.
+
+A charity located in Manitoba offers exempt arts and crafts programs to children. GST was charged at 5% on all taxable purchases and expenses and the 7% retail sales tax is not rebatable or refundable.
+
+| **Item** | **Amount** | **GST** | **PST** | **Total** |
+
+| --- | --- | --- | --- | --- |
+
+| Rent | $1,500 | $75 | - | $1,575 |
+
+| Employees' salaries | $1,000 | - | - | $1,000 |
+
+| Advertising | $100 | $5 | - | $105 |
+
+| Equipment | $400 | $20 | $28 | $448 |
+
+| Supplies | $300 | $15 | $21 | $336 |
+
+| **Total** | **$3,300** | **$115** | **$49** | **$3,464** |
+
+**Step 1** Taxable expenses = total expenses minus employees' salaries and rent = $3,464 − $1,000 − $1,575 = $889**Step 2**Multiply $889 by 5/105 = $889 × 5 ÷ 105 = $42.33**Step 3** To calculate the charity's rebate, add the GST paid on the rent to the amount determined in Step 2:
+
+$42.33 + $75 = $117.33
+
+**Step 4** Multiply the result by the rebate factor of 50%:
+
+$117.33 × 50% = $58.67
+
+The total rebate available is $58.67. Step 5 does not apply as the charity is not resident in a participating province.
+
+A charity located in Ontario offers exempt arts and crafts programs to children. HST was charged at 13% on all taxable purchases and expenses. A point-of-sale rebate of $100 was given for the purchase of certain printed books included in the supplies.
+
+| **Item** | **Amount** | **HST** | **Total** |
+
+| --- | --- | --- | --- |
+
+| Rent | $1,500 | $195 | $1,695 |
+
+| Employees' salaries | $1,000 | - | $1,000 |
+
+| Advertising | $100 | $13 | $113 |
+
+| Equipment | $400 | $52 | $452 |
+
+| Supplies | $300 | $39 | $339 |
+
+| **Totals** | **$3,300** | **$299** | **$3,599** |
+
+| Less point-of-sale rebate on books* | ($100) | ($8) | ($108) |
+
+| **Totals (price includes HST)** | **$3,200** | **$291** | **$3,491** |
+
+| *Price includes the **federal** part of the HST only | $100 | $5 | $105 |
+
+**Step 1**
+
+Taxable expenses at the HST rate = total expenses minus employees' salaries and rent (this does not include the expense on which a point-of-sale rebate was received):
+
+= $3,491 − $1,000 − $1,695
+
+= $796
+
+**Step 2**
+
+Multiply $796 by 5/113:
+
+= $796 × 5 ÷ 113
+
+= $35.22
+
+**Step 3**
+
+To calculate the charity's rebate, add the federal part of the HST paid on the rent and on the books to the amount determined in step 2:
+
+= $35.22 + ($195 × 5/13) + $5
+
+= $35.22 + $75 + $5
+
+= $115.22
+
+**Step 4**
+
+Multiply the result by the rebate factor of 50%:
+
+Federal rebate = $115.22 × 50% = $57.61
+
+**Step 5**
+
+To calculate the charity's rebate of the provincial part of the HST, multiply the total eligible purchases and expenses in step 1 by 8/113:
+
+= $796 x 8/113 = $56.25
+
+Since a point-of-sale rebate for the specified items was received, this amount was not included in the calculation in step 5. Instead, it was only included in the calculation in step 3.
+
+**Step 6**
+
+Add the provincial part of the HST paid on the rent to the amount determined in step 5:
+
+= $56.35 + ($195 × 8/13)
+
+= $56.35 + $120
+
+= $176.35
+
+**Step 7**
+
+To calculate the charity's rebate of the provincial part of the HST, multiply the result of step 6 by the rebate factor for Ontario: Provincial part of the HST
+
+= $176.35 x 82% (rebate factor)
+
+Provincial rebate
+
+= $144.61
+
+The total rebate available is $202.22 ($57.61 + $144.61).
+
+## Carrying forward a rebate
+
+You may be able to claim a public service bodies' rebate of the GST/HST paid or payable on an eligible purchase or expense for a particular claim period on the rebate application for a later claim period.
+
+To be eligible, you must meet **all** of the following conditions:
+
+- The later claim period ends after September 8, 2017
+
+- You did not claim the rebate in any other claim period
+
+- You file your rebate application for the later claim period within the following time frames:
+
+    - If you are a GST/HST registrant, within two years of the due date of your GST/HST return for the claim period in which the GST/HST was paid or payable
+
+    - If you are not a GST/HST registrant, within two years and three months from the last day of the claim period in which the GST/HST was paid or payable
+
+- You did not change your type of public service bodies' rebate claimant at any time from the beginning of the claim period in which the GST/HST was paid or payable to the end of the later period where you would be claiming the rebate
+
+- Your rebate factor (including your rebate factor for the provincial part of the HST, if applicable) did not change at any time from the beginning of the claim period in which the GST/HST was paid or payable to the end of the later period where you would be claiming the rebate
+
+If you do not meet **all**of the above conditions you must claim your public service bodies' rebate on the application for the claim period in which the GST/HST amount was paid or became payable.
+
+You are a school authority resident in Nova Scotia. You paid HST on an expense on October 15, 2022 (during the claim period October 1, 2022, to December 31, 2022), and were eligible to claim a public service bodies' rebate for the amount. You notice in July 2024 that you did not claim that public service bodies' rebate on any rebate application. You want to claim the rebate on your rebate application for the claim period April 1, 2024, to June 30, 2024.
+
+You have been a school authority throughout the period from October 1, 2022, to June 30, 2024, and you have not been any other type of public service bodies' rebate claimant during the period. Your rebate factor has been 68% for both the federal part of the HST and the provincial part of the HST throughout the period.
+
+You are eligible to claim the public service bodies' rebate of the HST paid on October 15, 2022, on your public service bodies' rebate application for the claim period April 1, 2024, to June 30, 2024, provided you file the rebate application within two years of the due date for your GST/HST return for the period October 1, 2022, to December 31, 2022.
+
+You cannot carry forward the printed-book rebate, the rebate for goods and services exported by a charity or a public institution, or the self-government refund.
+
+## Claiming a rebate as a qualifying non-profit organization
+
+A qualifying non-profit organization (NPO) can claim a 50% public service bodies' rebate of the GST and the **federal**part of the HST paid or payable on eligible purchases and expenses for which it cannot claim an ﻿ITC or other rebate, refund, or remission of tax.
+
+A qualifying NPO that is resident in a participating province may also qualify for a rebate of the **provincial**part of the HST paid or payable. For rebate factors for the various provinces and how to claim your rebate, see [Rebate factors and explanation of activity types](#rbt_fctrs).
+
+Generally, an NPO is a qualifying NPO for a fiscal year if its percentage of government funding for that fiscal year is at least 40% of its total revenue. To calculate your percentage of government funding, you first need to know the amount of:
+
+- your government funding for a fiscal year
+
+- your total revenue for a fiscal year
+
+This guide refers to **government funding** and **grantor** only for the purpose of determining who is a qualifying NPO. For more information, see [What qualifies as government funding?](#P621_58380), [Who is a grantor?](#P635_60658) and [What amounts are included in total revenue?](#P638_61331)
+
+If you are an NPO, you have to file [Form GST523-1, *Non-profit Organizations – Government Funding*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst523-1.html), for each completed fiscal year you want to claim a public service bodies' rebate. The CRA uses this form to establish that your NPO received the required amount of government funding to be considered a qualifying NPO.
+
+This form can be filed online using:
+
+- "Electronic rebate forms" at [GST/HST NETFILE](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/gst-hst-netfile.html)
+
+- "File a rebate" in My Business Account, if you are a business owner
+
+- "File a rebate" in Represent a Client, if you are an authorized representative or employee
+
+To sign in to or register for My Business Account or Represent a Client, go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+If you choose to file a paper version of [Form GST523-1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst523-1.html), fill out and send the form to the address indicated on the form.
+
+Do **not** send your annual reports or financial statements.
+
+### What qualifies as government funding?
+
+Government funding, for the purposes of the public service bodies' rebate, means an amount of money (including a forgivable loan) that is easily identifiable and is paid by a grantor:
+
+- to support or promote the NPO's objectives but not to pay for property or services supplied by the NPO to the grantor
+
+- for an exempt supply of property or services made by the NPO, if the property and services are not for the use or consumption of the grantor or persons related to the grantor (for example, government funding of a local health unit to supply medical services to the public)
+
+Government funding can be paid directly to the NPO by a grantor or through another organization called an **intermediary**. For example, a national organization that receives government funding from a grantor can allocate government funding to its provincial affiliates, and in turn, the provincial affiliates can redistribute the funds to their regional clubs. Funding paid directly to the NPO by an intermediary would be government funding when **all**of the following conditions are met:
+
+- The intermediary received the amounts from a grantor or from another organization that received the amounts directly from a grantor.
+
+- The amounts pass through a **maximum** of two intermediaries.
+
+- The amounts are clearly identified as government funding in the NPO's financial statements.
+
+- The intermediary that paid the amount to the NPO fills out [Form GST322, *Certificate of Government Funding*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst322.html), to confirm that the amounts are government funding.
+
+- The amounts would be considered government funding if they were paid by a grantor directly to the NPO for the same purpose as they were paid to the NPO by the intermediary.
+
+- If the amounts are paid to the NPO for an exempt supply of property or services, the property and services are not for the use or consumption of the grantor, the intermediary, or persons related to the grantor or the intermediary.
+
+Government funding does **not** include:
+
+- indirect or non-financial forms of assistance
+
+- low-interest loans and loan guarantees
+
+- property or services supplied at a subsidized price
+
+- a refund, rebate or remission of, or credit in respect of, taxes, duties, or fees imposed under any statute
+
+#### Who is a grantor?
+
+**Grantor** means:
+
+- the federal government, provincial governments or municipalities, but does not include a corporation, all or substantially all (90% or more) of whose activities are commercial activities or the supply of financial services or any combination of the two
+
+- a corporation that is controlled by a government or by a municipality and one of its main purposes is to fund charitable or non-profit activities
+
+- a trust, board, commission, or other body that is established by a government, municipality, or corporation described in the previous bullet, and one of its main purposes is to fund charitable or non-profit activities
+
+- an Indian band
+
+#### What amounts are included in total revenue?
+
+**Total revenue** includes the following amounts:
+
+- government funding that is identified as such in the organization's financial statements
+
+- income from investments (interest and dividends)
+
+- non-capital distributions from a trust to the NPO
+
+- loans from people with whom the organization is not dealing at arm's length (for example, an NPO funds a related NPO through loans with unusually low interest rates). If the loans are later reimbursed, they will be deducted from revenue at that time
+
+- proceeds from the issuance of equity securities
+
+- monetary capital contributions (for example, the raising of capital by an NPO that cannot issue shares)
+
+Also include the following amounts from which you can deduct 25% to take into account the cost of fundraising:
+
+- financial payments, such as private gifts and donations
+
+- the total of all amounts by which the fair market value of a financial instrument received by the NPO is more than the consideration paid or payable for the instrument
+
+- all receipts from sponsorships
+
+- all receipts from taxable (including zero-rated) and exempt sales of property and services (do not include receipts from sales of real property or capital property, sales of financial instruments, benefits granted to employees or shareholders, or property you are deemed to have sold when you stop being a registrant)
+
+- proceeds from gambling activities, minus prizes and winnings paid out
+
+Record ongoing revenue, such as sales, membership fees, or revenue items for activities extending over a number of years, when you receive them or when they become receivable, **whichever is earlier**.
+
+Deduct from your total any amounts you repaid during the year. The result is the amount of total revenue you need to calculate your percentage of government funding.
+
+### How to calculate the percentage of government funding
+
+First, determine the fiscal year for which you want to be considered a qualifying NPO. Indicate this fiscal year in Part B of [Form GST523-1, *Non-profit Organizations – Government Funding*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst523-1.html).
+
+Second, fill out the calculation in Part C of Form GST523-1 to calculate your percentage of government funding:
+
+**Government funding for the fiscal year**
+
+**÷**
+
+**Total revenue for the fiscal year including government funding**
+
+**×**
+
+**100**
+
+If your percentage of government funding is **40%****or more**, you are a qualifying NPO for the fiscal year in Part B. Fill out Part E of Form GST523-1.
+
+If your percentage of government funding is **less than 40%** and the fiscal year in Part B is your first fiscal year of existence, you are **not** a qualifying NPO for that fiscal year.
+
+If your percentage of government funding is **less than 40%** and the fiscal year in Part B is not your first fiscal year of existence, you may be a qualifying NPO based on your preceding fiscal years. Use Part D to calculate your percentage of government funding based on:
+
+- the first fiscal year of your organization's existence, if the fiscal year identified in Part B is your second fiscal year of existence; fill out only Chart A in Section 1 of Part D, and line 1 of Section 2
+
+- the two fiscal years immediately before the fiscal year in Part B, if the fiscal year in Part B is your organization's third, or later, fiscal year of existence; fill out both Charts A and B in Section 1 of Part D, and Section 2
+
+## Special rules for claimants with multiple activity types
+
+There may be situations where you have to calculate your public service bodies' rebate using more than one rebate factor.
+
+### Are you a charity, public institution, or qualifying NPO that is also a selected public service body?
+
+You may be a [charity](#charity), [public institution](#pblc_nstn), or [qualifying NPO](#qual-NPO) that is also a [selected public service body](#selectedPSB) that acquires property or services for use in different activities. If so, you claim your rebate to the extent you intended to use, consume, or supply property or services in each activity type.
+
+A registered charity resident in Alberta has been designated as a hospital authority and is therefore a public institution. It also operates a daycare centre. The operation of the daycare centre is related to its charitable activities and not to the operation of a public hospital.
+
+The organization is entitled to an 83% rebate of the GST or the **federal**part of the HST paid or payable on purchases and expenses it will use in exempt activities relating to its operation of the public hospital.
+
+It can claim a 50% rebate of the GST or the **federal**part of the HST paid or payable for the operation of the daycare centre.
+
+### Are you a selected public service body that acquires property or services for use by another selected public service body?
+
+If you are a selected public service body that acquires property or services that will be consumed, used, or supplied primarily (more than 50%) by another selected public service body, which is a separate legal entity, you will claim your rebate using the rebate factor of the other selected public service body.
+
+A university that is established and operated otherwise than for profit pays the HST on a computer it buys. The computer will be used primarily by a hospital authority in the course of operating a public hospital.
+
+The university can claim a rebate of the **federal**part of the HST it paid on the computer at the hospital authority rebate factor of 83%. The university may also be eligible for a rebate of the **provincial**part of the HST paid, depending on the type of activities performed and the provinces in which it is resident.
+
+### Are you an organization that is more than one type of selected public service body?
+
+If you are in more than one selected public service body category (for example, you are both a hospital authority and a school authority) and you acquire property or services to be consumed, used, or supplied primarily (more than 50%) as one type of selected public service body, the rebate factor is based on the primary use of those items.
+
+An organization that is both a hospital authority and a school authority pays the GST on consulting services it acquires to use primarily in its school authority activities. The organization is established and operated otherwise than for profit. The organization can claim a rebate of the GST it paid on those services at the school authority rebate factor of 68%.
+
+You file only one rebate application for the claim period. You fill out the application by determining the appropriate amounts to enter as follows:
+
+- Allocate the amount of the GST or the **federal** part of the HST eligible for the rebate between each of your activity types.
+
+- For each of these allocated amounts, calculate the amount of the rebate separately. Use the assigned rebate factor for each activity type, and enter the appropriate amounts on **lines 300 to 312** of Part D of the application.
+
+- Total all amounts recorded on **lines 300****to 312**, and enter the total on **line A** of Part D of the application.
+
+If you qualify for a rebate of the **provincial**part of the HST, calculate the rebate of the **provincial**part separately. Use the rebate factor for the **provincial**part of the HST for each activity type for the provinces in which you are a resident and enter the amounts on the appropriate lines of the provincial schedule.
+
+If you are resident in more than one province, at least one of which is a participating province, you will have to determine the extent to which you intended to consume, use, or supply property or services in the course of your activities in each province in which you are resident. For more information, see [Special rules for claimants resident in more than one province](#spcl-rl).
+
+Total all amounts on the provincial schedule and enter the result on **line B**of Part D of the application.
+
+An organization resident in Ontario operates both a hospital authority and a school authority on a non-profit basis. The organization pays $6,000 in HST on supplies it acquires to use primarily in hospital authority activities. The organization pays $3,000 in HST on supplies it acquires to use primarily in school authority activities. The organization calculates its public service bodies' rebate in the following manner:
+
+| Item | School | Hospital |
+
+| --- | --- | --- |
+
+| HST paid on purchases and expenses | $3,000.00 | $6,000.00 |
+
+| **Federal** part of HST | $1,153.85 | $2,307.69 |
+
+| Rebate factor | 68% | 83% |
+
+| Federal rebate | $784.62 | $1,915.38 |
+
+| **Line 302** | $784.62 |  |
+
+| **Line 304** |  | $1,915.38 |
+
+| **Provincial** part of HST | $1,846.15 | $3,692.31 |
+
+| Rebate factor | 93% | 87% |
+
+| Provincial rebate | $1,716.92 | $3,212.31 |
+
+| **Line 302-ON** | $1,716.92 |  |
+
+| **Line 304-ON** |  | $3,212.31 |
+
+Enter the amounts for **line 302** and **line 304** on the application. Enter the amounts for **line 302-ON** and **line 304-ON** on the provincial schedule. Enter $2,700 ($1,915.38 + $784.62) on **line A** of Part D of the application. Enter $4,929.23 ($3,212.31 + $1,716.92) on **line B** of Part D of the application. Enter $7,629.23 ($2,700 + $4,929.23) on **line 409** of Part D of the application.
+
+## Special rules for claimants resident in more than one province
+
+### Are you resident in more than one province and have a single activity type?
+
+If you are resident in more than one province, at least one of which is a participating province, you have to calculate the public service bodies' rebate of the **provincial**part of the HST based on the extent you intended to consume, use, or supply property or services in the course of your activities in each province in which you are resident.
+
+A charity is resident in the participating provinces of Prince Edward Island and Ontario and the non-participating province of Alberta. It paid $600 in HST in Prince Edward Island, $2,000 in HST in Ontario, and $800 in GST in Alberta on eligible purchases of goods. The extent that the charity intended to consume, use, or supply the goods in the course of its activities in each province is divided as follows:
+
+- 10% in Prince Edward Island
+
+- 40% in Ontario
+
+- 50% in Alberta
+
+The charity was not entitled to claim an ITC or any other rebate, refund, or remission of that GST/HST. The goods were not removed from the province in which they were purchased within 30 days after they were delivered to the charity; therefore, the charity cannot claim a rebate for goods removed from a participating province using [Form GST495, *Rebate Application for Provincial Part of Harmonized Sales Tax (HST)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst495.html). The charity uses the regular method to calculate its public service bodies' rebate as follows.
+
+**Step 1**
+
+**Calculate the rebate of the GST**
+
+The non-creditable GST charged is $800 ($800 – $0) (see [How to calculate non-creditable tax charged](#clct_ncrdt_tx)). The GST rebate factor for charities is 50%. Therefore, the public service bodies' rebate of the non-creditable GST charged is $400 ($800 × 50%).
+
+**Step 2**
+
+**Calculate the rebate of the federal part of the HST**
+
+The goods purchased in Prince Edward Island were taxed at 15% and the goods purchased in Ontario were taxed at 13%. The **federal** part of the HST is $969.23 [($600 × 5/15) + ($2,000 × 5/13)]. The **federal** non-creditable tax charged is $969.23 ($969.23 – $0). The federal rebate factor for charities is 50%. Therefore, the public service bodies' rebate of the **federal** non-creditable tax charged is $484.62 ($969.23 × 50%).
+
+**Step 3**
+
+The total from steps 1 and 2 is $884.62 ($400 + $484.62). The charity enters $884.62 on **line 305** of the application and, since it is not engaged in any other activity types, it also enters this amount on **line A** of Part D of the application.
+
+**Step 4**
+
+**Calculate the rebate of the provincial part of the HST**
+
+The **provincial** part of the HST is $1,630.77 [($600 × 10/15) + ($2,000 × 8/13)]. The **provincial** non-creditable tax charged is $1,630.77 ($1,630.77 – $0).
+
+Multiply the **provincial** non-creditable tax charged by the provincial rebate factors for charities and the extent of use as follows:
+
+- Prince Edward Island: $1,630.77 × 50% × 10% = $81.54
+
+- Ontario: $1,630.77 × 82% × 40% = $534.89
+
+On the provincial schedule, the charity enters $534.89 on **line 305-ON**, $81.54 on **line 305-PE**, and nothing for Alberta as it is not a participating province. The charity adds these amounts ($81.54 + $534.89) and enters $616.43 on **line B** of Part D of the application.
+
+**Step 5**
+
+The charity adds **lines A** ($884.62) and **B** ($616.43) on the rebate application and enters the total ($1,501.05) on **line 409**. This is the total public service bodies' rebate claimed by the charity.
+
+### Are you a resident in more than one province and have multiple activity types?
+
+If you are resident in more than one province and have multiple activity types, you must calculate your rebate of the **provincial** part of the HST based on the extent you intended to consume, use, or supply property or services in the course of each of your activity types in each province in which you are resident.
+
+A registered charity that is resident in Nova Scotia and Ontario is a university and is therefore a public institution. The university is established and operated other than for profit. The organization operates university campuses and daycare centres in Nova Scotia and Ontario. The organization paid $1,200 in HST in Nova Scotia and $1,300 in HST in Ontario on eligible purchases of goods for use in its exempt activities. The extent that the organization intended to consume, use, or supply the goods in each activity type and in each province is divided as follows:
+
+| Activity | NS | ON | Total |
+
+| --- | --- | --- | --- |
+
+| University | 40% | 30% | 70% |
+
+| Daycare centre | 20% | 10% | 30% |
+
+The charity was not entitled to claim an ITC or any other rebate, refund, or remission of that GST/HST. The goods were not removed from the province in which they were purchased within 30 days after they were delivered to the charity; therefore the charity cannot claim a rebate for goods removed from a participating province using [Form GST495, *Rebate Application for Provincial Part of Harmonized Sales Tax (HST)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst495.html).
+
+The charity uses the regular method to calculate its public service bodies' rebate as follows:
+
+**Step 1**
+
+**Calculate the rebate of the GST**
+
+The organization has no non-creditable GST charged in this claim period. As a result, this step does not apply.
+
+**Step 2**
+
+**Calculate the rebate of the federal part of the HST**
+
+The goods purchased in Nova Scotia were taxed at 14% and the goods purchased in Ontario were taxed at 13%. The **federal** part of the HST is $928.57 [($1,200 × 5/14) + ($1,300 × 5/13)]. The **federal** non-creditable tax charged is $928.57 ($928.57 – $0) (see [How to calculate non-creditable tax charged](#clct_ncrdt_tx)).
+
+Multiply the **federal** non-creditable tax charged by the relevant federal rebate factor and the extent of use in each activity as follows:
+
+- University activities: $928.57 × 67% × 70% = $435.50
+
+- Other activities (daycare): $928.57 × 50% × 30% = $139.29
+
+On the application, the organization enters $435.50 on **line 301** and $139.29 on **line 305**. The public service bodies' rebate of the **federal** non-creditable tax charged is $574.79 ($435.50 + $139.29).
+
+**Step 3**
+
+The total from steps 1 and 2 is $574.79. The organization enters this amount on **line A** of Part D of the application.
+
+**Step 4**
+
+**Calculate the rebate of the provincial part of the HST**
+
+The **provincial** part of the HST is $1,571.43 [($1,200 × 9/14) + ($1,300 × 8/13)]. The **provincial** non-creditable tax charged is $1,571.43 ($1,571.43 – $0).
+
+Multiply the **provincial** non-creditable tax charged by the relevant provincial rebate factors and the extent of use in each activity in each province as follows:
+
+- University activities in Nova Scotia: $1,571.43 × 67% × 40% = $421.14
+
+- Other activities in Nova Scotia (daycare): $1,571.43 × 50% × 20% = $157.14
+
+- University activities in Ontario: $1,571.43 × 78% × 30% = $367.71
+
+- Other activities in Ontario (daycare): $1,571.43 × 82% × 10% = $128.86
+
+On the provincial schedule, the organization enters $421.14 on**line 301-NS**, $157.14 on **line 305-NS**, $367.71 on **line 301-ON**, and $128.86 on **line 305-ON**. The organization adds these amounts and enters $1,074.85 on **line B** of Part D of the application.
+
+**Step 5**
+
+The organization adds **lines A** ($574.79) and **B** ($1,079.85) on the rebate application and enters the total ($1,654.64) on **line 409**. This is the total public service bodies' rebate the organization can claim.
+
+## Digital services
+
+### GST/HST electronic filing and remitting
+
+### Handle your business taxes online
+
+My Business Account lets you access your business tax information and interact with the CRA online throughout the year.
+
+#### Profile
+
+- Manage your addresses, direct deposit information, business activity, program account names, operating names, phone numbers, business numbers in your profile, and language preference
+
+- Manage your notification preferences and receive email notications when important changes are made to your account
+
+- Manage your authorized representatives and authorization requests
+
+- Manage your multi-factor authentication settings and security options
+
+#### Balances and payments
+
+- Make a payment online to the CRA with My Payment, create a pre-authorized debit (PAD) agreement or create a QR code to pay in person at Canada Post for a fee
+
+- View and pay account balance
+
+- View account transactions
+
+- Transfer payments and immediately view the updated balance
+
+- View interest
+
+- Calculate future balance
+
+- View direct deposit transactions
+
+- Calculate and pay instalment payments
+
+#### Transactions
+
+- File a return, view the status of filed returns, and adjust returns
+
+- File and adjust a rebate
+
+- File and view an election related to GST/HST
+
+- Track the progress of certain files and enquiries you have submitted to the CRA
+
+- Make an online request regarding your account and view answers to common enquiries
+
+- Request relief of penalties and interest
+
+- File a formal dispute (Notice of Objection)
+
+- Submit a PDF form with electronic signature
+
+- Close an account
+
+#### Correspondance
+
+- View mail from the CRA
+
+- Submit documents to the CRA
+
+- Submit an audit enquiry
+
+For more information, go to [Digital services for businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html).
+
+#### Access My Business Account
+
+To access My Business Account, go to go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) and sign in to or register for a CRA account.
+
+#### Receive your CRA mail online
+
+Most correspondence is only available online in My Business Account by default, except when a business has changed its delivery method to receive paper mail. Make sure you register for email notifications from the CRA to find out when you have new mail to view in My Business Account.
+
+For more information, go to [Email notifications from the CRA – Businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/online-mail-reduce-your-cost-doing-business-saving-time-online.html).
+
+#### Create a pre-authorized debit agreement for payments from your Canadian chequing account
+
+A pre-authorized debit (PAD) is a secure online self-service payment option for individuals and businesses to pay their taxes. A PAD lets you authorize withdrawals from your Canadian chequing account to pay the CRA. You can set the payment dates and amounts of your PAD agreement using the CRA's secure My Business Account Service at [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html). PADs are flexible and managed by you. You can use My Business Account to view your account history and modify, cancel or skip a payment. For more information, go to [Pay by scheduled pre-authorized debit (PAD) through CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html).
+
+### Electronic payments
+
+Make your payment using:
+
+- your Canadian bank or credit union's online banking, mobile app or telephone service
+
+- the CRA's [My Payment](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html) service with your activated debit card from a participating Canadian bank or credit union with a Visa Debit or Debit Mastercard logo (does **not** include credit cards)
+
+- pre-authorized debit (PAD) at [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) which lets you:
+
+    - set up payments to the CRA from a Canadian chequing account on preset dates starting in five or more business days
+
+    - pay an amount due, repay overpaid amounts or make instalment payments
+
+    - view your account history and modify, cancel, or skip a payment (for more information on PAD, go to [Pay by scheduled pre-authorized debit (PAD) through CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html))
+
+- the "Proceed to pay" button on the "View and pay account balance" page and other pages within My Business Account
+
+- your credit card, *Interac* e-transfer or PayPal through one of the third-party service providers **for a fee**
+
+For more information, go to [Payments to the CRA](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html).
+
+## For more information
+
+### If you need help
+
+If you need more information after reading this guide, go to [Taxes](https://www.canada.ca/en/services/taxes.html) or call **1-800-959-5525**.
+
+### Direct deposit
+
+Direct deposit is a fast, convenient and secure way to receive your CRA payments directly in your account at a financial institution in Canada. For more information, go to [Direct deposit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html) or contact your financial institution.
+
+### Forms and publications
+
+The CRA encourages you to file your return electronically. If you need a paper version of the CRA's forms and publications, go to [Forms and publications - CRA](https://www.canada.ca/en/revenue-agency/services/forms-publications.html) or call **1-800-959-5525**.
+
+### Electronic mailing lists
+
+The CRA can send you an email when new information on a subject of interest is available on the website. To subscribe, go to [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+### Teletypewriter (TTY) and Video Relay Service (Canada VRS) users
+
+If you use a TTY for a hearing or speech impairment, call **1-800-665-0354**.
+
+Register with Canada VRS to download the app, by going to [Canada VRS](https://srvcanadavrs.ca/en/get-the-app/personal-account), and call the VRS line.
+
+If you use another **operator-assisted relay service**, call the CRA's regular telephone numbers instead of the TTY or Canada VRS numbers.
+
+### GST/HST rulings and interpretations
+
+You can request a ruling or interpretation on how the GST/HST applies to a specific transaction for your operations. This service is provided free of charge. For the mailing address or fax number of the closest GST/HST Rulings centre, see [GST/HST Memorandum 1-4, *Excise and GST/HST Rulings and Interpretations Service*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), or call **1-800-959-8287**.
+
+### Formal disputes (objections and appeals)
+
+You have the right to file an objection if you disagree with an assessment, determination, or a decision.
+
+For more information, go to [File an objection](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/file-objection-cppei-appeal-minister.html).
+
+### CRA service feedback program
+
+#### Service complaints
+
+You can expect to be treated fairly and to receive a high level of service every time you interact with the CRA.
+
+You may provide compliments or suggestions; however, if you are not satisfied with the service you received:
+
+- You may save time by calling the CRA first depending on your situation. You can call the telephone number provided in your CRA correspondence or discuss your concerns with the employee you have been dealing with. If you do not have a contact number, go to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html)
+
+- You can ask to discuss the matter with the employee's supervisor if you have not been able to resolve your service issue
+
+- You can submit feedback by filling out [Form RC193, *Service Feedback*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html), if the issue remains unresolved. For more information, go to [Send feedback about CRA service](https://www.canada.ca/en/revenue-agency/services/make-a-service-complaint.html)
+
+- You may contact the Office of the Taxpayers' Ombudsperson if you are not satisfied with the response you have received. The Ombudsperson will only respond to complaints that the CRA has already tried to address
+
+For more information about the *Taxpayer Bill of Rights*, go to [Taxpayer Bill of Rights](https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/taxpayer-bill-rights.html).
+
+#### Reprisal complaints
+
+If you received a response about a previously submitted service complaint or formal review of a CRA decision and felt that you were not treated fairly by a CRA employee, you can submit a reprisal complaint by filling out [Form RC459, *Reprisal Complaint*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc459.html).
+
+For more information, go to [Reprisal Complaints](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/reprisal-complaints.html).
+
+### Due dates
+
+When a due date falls on a Saturday, Sunday or public holiday recognized by the CRA, your payment is considered on time if the CRA receives it on or before the next business day.
+
+For more information, go to [Important dates for corporations](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/important-dates-businesses/important-dates-corporations.html).
+
+### Cancel or waive penalties and interest
+
+The CRA administers legislation, commonly called "taxpayer relief provisions", that gives the CRA discretion to cancel or waive penalties and interest when taxpayers cannot meet their tax obligations due to circumstances beyond their control.
+
+The CRA's discretion is limited to any period that ends within 10 calendar years before the year the relief request is made.
+
+#### Penalties
+
+The CRA will consider your request only if it relates to a tax year or fiscal period ending in any of the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to a penalty for a tax year or fiscal period ending in 2015 or later.
+
+#### Interest on a balance owing
+
+The CRA will consider only the amounts that accrued during the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to interest that accrued in 2015 or later.
+
+Taxpayer relief requests can be made online using the CRA's My Account, My Business Account or Represent a Client digital services.
+
+You can also fill out [Form RC4288, *Request for Taxpayer Relief – Cancel or Waive Penalties and Interest*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4288.html), and send it:
+
+- online using My Account
+
+- My Business Account, or Represent a Client
+
+- by mail or courier to the designated office, as shown on the last page of the form, based on your place of residence
+
+For information about submitting documents online, go to [Submit documents online](https://www.canada.ca/en/revenue-agency/services/e-services/submit-documents-online.html).
+
+For more information about cancelling or waiving penalties and interest, go to [Cancel or waive penalties and interest at the CRA](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/cancel-waive-penalties-interest.html).

@@ -1,0 +1,12 @@
+---
+title: "NOTICE278 CANCELLED Harmonized Sales Tax for Prince Edward Island - Questions and Answers on General Transitional Rules for Personal Property and Services"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice278.html
+last_modified: 2012-12-07
+---
+# NOTICE278 CANCELLED Harmonized Sales Tax for Prince Edward Island - Questions and Answers on General Transitional Rules for Personal Property and Services
+
+## This publication was cancelled
+
+This publication was cancelled as of 2025-11-12.
+
+This document is provided to assist businesses and consumers in understanding how the transitional rules for the proposed HST would apply to transactions made by GST/HST registrants that straddle the April 1, 2013 implementation date.

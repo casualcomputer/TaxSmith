@@ -1,0 +1,199 @@
+Title: Other GST Returns (GST 500-2-6)
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/g500-2-6/other-gst-returns-gst-500-2-6.html
+Corpus path: corpus/cra/forms-publications/publications/g500-2-6/other-gst-returns-gst-500-2-6.md
+Document type: publication
+Last modified: 2017-11-07
+
+# Other GST Returns (GST 500-2-6)
+
+**Notice to the reader:**
+
+Please note that the following GST Memorandum, although correct at the time of issue, has not been updated to reflect any subsequent legislative changes since the date of issue. As a result, some of the technical information this memorandum contains may no longer be valid. Please contact your GST/HST Rulings Centre for assistance.
+
+GST memoranda 500-2-6
+
+**ADMINISTRATION AND ENFORCEMENT RETURNS AND PAYMENTS Ottawa, January 23, 1991**
+
+**OTHER GST RETURNS**
+
+This memorandum in the **RETURNS AND PAYMENTS** sub-series explains the procedures and requirements for filing returns for the Goods and Services Tax (GST) for imported taxable supplies other than goods, acquisition of real property and prepaid expenses.
+
+**LEGISLATIVE REFERENCES**
+
+*Excise Tax Act* - section 217, subsections 118(3), 118(4), 218(1), 228(4), 238(1), 337(6), 340(2)
+
+**TABLE OF CONTENTS**
+
+Definitions 2 General 4 Goods and Services Tax Return for Imported Taxable Supplies Other Than Goods 5 Goods and Services Tax Return for Acquisition of Real Property 6 Goods and Services Tax Return for Prepaid Expenses 8
+
+**DEFINITIONS**
+
+The following definitions have either been taken from the *Excise Tax Act* (as it is to be amended by Bill C-62) or represent departmental interpretations of terms relevant to the administration of that Act.
+
+"**Act"** means the *Excise Tax Act* as it is to be amended by
+
+Bill C-62;
+
+"**consumer**" of property or a service means a particular individual who acquires or imports the property or service for the particular individual's personal consumption, use or enjoyment or the personal consumption, use or enjoyment of any other individual at the particular individual's expense, but does not include an individual who acquires or imports the property or service for consumption, use or supply in the course of commercial activities of the individual or other activities in the course of which the individual makes exempt supplies;
+
+"**imported taxable supply**" means a taxable supply of personal property or a service that is made outside Canada to a recipient who is resident in Canada and that may reasonably be regarded as having been received by the recipient for use in Canada otherwise than exclusively in a commercial activity, but does not include
+
+(a) a supply in respect of which tax under Division II, Part IX of the *Excise Tax Act* is payable,
+
+(b) a supply of goods in respect of which tax under Division III, Part IX of the *Excise Tax Act* is payable,
+
+(c) a zero-rated supply,
+
+(d) goods included in Schedule VII to the *Excise Tax Act*, or
+
+(e) a prescribed supply;
+
+"**input tax credit**" means a credit claimed by a registrant for the Goods and Services Tax paid or payable on any property or service consumed, used or supplied in the course of a commercial activity;
+
+"**personal property"** means property that is not real property;
+
+"**prescribed**" means
+
+(a) in the case of a form, the information to be given on a form or the manner of filing a form, prescribed by the Minister, and
+
+(b) in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation;
+
+"**real property**" includes
+
+(a) in respect of property in the Province of Quebec, immovable property and every lease thereof,
+
+(b) in respect of property in any other place in Canada, messuages, lands and tenements of every nature and description and every estate or interest in real property, whether legal or equitable, and
+
+(c) a mobile home;
+
+"**recipient**", in respect of a supply, means the person who pays or agrees to pay consideration for the supply or, if no consideration is or is to be paid for the supply, the person to whom the supply is made;
+
+"**registrant**" means a person who is registered, or who is required to apply to be registered, under sections 240 and 241 of the *Excise Tax Act;*
+
+"**reporting period**" of a person means the reporting period of the person as determined under sections 245 to 251 of the *Excise Tax Act;*
+
+"**sale**", in respect of property, includes any transfer of the ownership of the property and a transfer of the possession of the property under an agreement to transfer ownership of the property;
+
+"**service**" means anything other than
+
+(a) property,
+
+(b) money, and
+
+(c) anything that is supplied to an employer by a person who is or agrees to become an officer or employee of the employer in the course of or in relation to the office or employment of that person;
+
+"**supplier**", in respect of a supply, means the person making the supply;
+
+"**supply**" means, subject to sections 133 and 134 of the *Excise Tax Act*, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition;
+
+"**tax**" means the Goods and Services Tax payable under Part IX of the *Excise Tax Act*;
+
+"**taxable supply**" means a supply that is made in the course of a commercial activity, but does not include an exempt supply.
+
+**GENERAL**
+
+1. Subsection 238(1) of the Act provides that every registrant shall file a return for each reporting period of the registrant:
+
+(a) where the registrant's reporting period is the fiscal year, the return is to be filed within three months after the end of the fiscal year; and
+
+(b) in every other case, the return is to be filed within one month after the end of the reporting period of the registrant.
+
+2. For additional information on reporting periods, refer to GST MEMORANDUM 500-2-1, "**UTHORIZED FISCAL PERIODS AND REPORTING PERIODS".**
+
+3. Every registrant must file the "**GOODS AND SERVICES TAX RETURN FOR REGISTRANTS**", on a periodic basis, in order to report the net tax calculation.
+
+4. There are certain situations, however, in which the net tax must be reported on other than the "**GOODS AND SERVICES TAX RETURN FOR REGISTRANTS**".
+
+The situations are as follows:
+
+(a) a person is required to remit tax as the recipient of an imported taxable supply as defined in section 217 of the Act;
+
+(b) a purchaser is required to remit the tax on a taxable supply of real property; and
+
+(c) a person is required to remit tax on a prepaid or prepayable taxable supply which is not made until 1991, pursuant to subsections 337(6) and 340(2) of the Act.
+
+*GOODS AND SERVICES TAX RETURN FOR IMPORTED TAXABLE SUPPLIES OTHER THAN GOODS*
+
+5. Pursuant to subsection 218(1) of the Act, every recipient of an imported taxable supply is liable for the GST equal to seven per cent of the value of the consideration for the imported taxable supply.
+
+6. Imported taxable supplies include intangible personal property such as intellectual property rights, royalties and copyright fees, and services such as architectural consulting services, or computer software design and similar service related activities received for use in Canada otherwise than exclusively in a commercial activity.
+
+7. Imported taxable supplies do not include those in respect of which the GST under Division II or tax on the importation of goods is payable, zero-rated supplies, non-taxable importations listed in Schedule VII to the Act or a "prescribed supply".
+
+8. Additional details on imported taxable supplies are available in GST MEMORANDUM 300-9, "I**MPORTED SERVICES AND INTANGIBLE PROPERTY**".
+
+9. The GST is payable by the recipient on the earlier of the day on which the consideration is paid and the day on which the consideration for the supply becomes due.
+
+10. Every person who is liable for the GST for imported taxable supplies shall prepare a "**GOODS AND SERVICES TAX RETURN FOR IMPORTED TAXABLE SUPPLIES OTHER THAN GOODS**", a copy of which is attached as Appendix A to this memorandum, containing prescribed information, for the reporting period of the person in which the tax becomes payable.
+
+11. The return is to be used by both registrants and non- registrants who import taxable supplies other than goods as defined in section 217 of the *Excise Tax Act*.
+
+12. In the case of registrants, a special return is required because the tax that is remitted with respect to imported taxable supplies other than goods does not form part of the "net tax calculation" that is reported on the "**GOODS AND SERVICES TAX RETURN FOR REGISTRANTS**".
+
+13. The return must be filed and remittance paid not later than:
+
+(a) where the reporting period to which the return relates is the fiscal year of the taxpayer, the day that is three months after the end of the reporting period; and
+
+(b) in any other case, the day that is one month after the end of the reporting period to which the return relates.
+
+14. Although the reporting period of a non-registrant (except for a listed financial institution) is normally a calendar month, the reporting period for a non-registrant who is the recipient of an imported taxable supply is a calendar quarter.
+
+**GOODS AND SERVICES TAX RETURN FOR ACQUISITION OF REAL PROPERTY**
+
+15. Pursuant to subsection 228(4) of the Act, a purchaser of real property is required to remit any GST payable on the transaction directly to the Receiver General, in those situations where the vendor is not required to collect the tax. A return must be filed with the remittance. A copy of the "**GOODS AND SERVICES TAX RETURN FOR ACQUISITION OF REAL PROPERTY**" is attached as Appendix B to this Memorandum.
+
+16. A purchaser who is registered for the GST will become liable to remit tax in respect of a taxable supply of real property provided the supply is not a supply of a residential complex made to an individual.
+
+17. If the person is a registrant and acquired the property for use or supply primarily in the course of commercial activities, the real property return must be filed on or before the due date of the registrant's "**GOODS AND SERVICES TAX RETURN FOR REGISTRANTS**" for the reporting period in which the tax became payable. In all other cases, the return must be filed on or before the last day of the month following the month in which the tax became payable. For example, if the tax becomes payable on February 16, the return must be filed on or before March 31.
+
+18. If a registrant is eligible to claim an input tax credit on a purchase of real property for use or supply primarily in the course of commercial activities, the following procedure may be used:
+
+(a) the registrant files the "**GOODS AND SERVICES TAX RETURN FOR ACQUISITION OF REAL PROPERTY**" at the same time as the "**GOODS AND SERVICES TAX RETURN FOR REGISTRANTS**" for the reporting period in which the real property transaction was completed; and
+
+(b) the registrant claims the input tax credit pertaining to the transaction on the "**GOODS AND SERVICES TAX RETURN FOR REGISTRANTS**".
+
+19. If the registrant is in a refund situation, the registrant can offset the tax owing on the real property transaction by the amount of the refund on the regular return.
+
+20. A registrant may also become eligible to claim an input tax credit for a purchase of real property for use as a supply partly, but not primarily, in the course of commercial activities. For such a transaction, the "**GOODS AND SERVICES TAX RETURN FOR ACQUISITION OF REAL PROPERTY**" is due by the last day of the month following the month in which the tax became payable. Quarterly and annual filers will, consequently, not be in a position to file the real property return at the same time as the"**GOODS AND SERVICES TAX RETURN FOR REGISTRANTS**" and, therefore, cannot offset the tax remittable by the amount of any refund.
+
+21. A purchaser who is not registered for the GST will become liable to remit in respect of a taxable supply of real property in the following circumstances:
+
+(a) the supplier is a non-resident (for purposes of this memorandum, non-residents with permanent establishments in Canada do not qualify as residents); or
+
+(b) the recipient is a prescribed recipient.
+
+**GOODS AND SERVICES TAX RETURN FOR PREPAID EXPENSES**
+
+22. Pursuant to subsection 337(6) of the Act, where a taxable supply of tangible personal property by way of sale or of a service is made in Canada by a supplier in the ordinary course of a business, GST is payable in respect of any consideration for the supply that became due or was paid without becoming due after August 1989 and before September 1990 for property that was not delivered to the person and the ownership of which was not transferred to the person before 1991, or for any of the service that was not performed before 1991. An instalment payable under a contract in respect of which subsection 118(3) or 118(4) of the Act applies is excluded from "consideration" for the purpose of this section.
+
+23. Furthermore, where a taxable supply of property by way of lease, licence or similar arrangement is made in Canada by a supplier in the ordinary course of a business, GST is payable in respect of any rent, royalty or a similar payment that became due or was paid without becoming due after August 1989 and before September 1990 that is attributable to a period after 1990.
+
+24. Paragraphs 22 and 23 above do not apply to taxable supplies made to consumers.
+
+25. The person receiving the supply must file a "**GOODS AND SERVICES TAX RETURN FOR PREPAID EXPENSES**" on or before April 1, 1991, and remit the tax payable to the Receiver General. A copy of the form to be filed is attached as Appendix C of this Memorandum.
+
+**NOTE**: This memorandum is not a legal document. It contains general information and is provided for convenience and guidance in applying the *Excise Tax Act* and Regulations. If interpretation problems occur, please refer to the legislation or contact the nearest Revenue Canada Excise office.To view Appendices A, B and C, please see the printed copy of this publication. You can obtain a copy by contacting your local Excise office
+
+**REFERENCES OFFICE OF RESPONSIBILITY:**
+
+Policy and Legislation
+
+**LEGISLATIVE REFERENCES:**
+
+*Excise Tax Act* as amended by Bill C-62
+
+**HEADQUARTERS FILE:**
+
+N/A
+
+**SUPERSEDES GST MEMORANDUM:**
+
+N/A
+
+**OTHER REFERENCES:**
+
+N/A
+
+SERVICES PROVIDED BY THE DEPARTMENT ARE AVAILABLE IN BOTH OFFICIAL LANGUAGES.
+
+THIS MEMORANDUM IS ISSUED BY TECHNICAL INFORMATION, EXCISE BRANCH UNDER THE AUTHORITY OF THE DEPUTY MINISTER OF NATIONAL REVENUE CUSTOMS AND EXCISE.

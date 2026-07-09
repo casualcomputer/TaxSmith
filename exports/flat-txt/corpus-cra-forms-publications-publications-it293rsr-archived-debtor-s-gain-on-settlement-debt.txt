@@ -1,0 +1,37 @@
+Title: ARCHIVED - Debtor's Gain on Settlement of Debt
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it293rsr/archived-debtor-s-gain-on-settlement-debt.html
+Corpus path: corpus/cra/forms-publications/publications/it293rsr/archived-debtor-s-gain-on-settlement-debt.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Debtor's Gain on Settlement of Debt
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-293RSR**
+
+DATE: September 19, 1983
+
+SUBJECT: INCOME TAX ACT**Debtor's Gain on Settlement of Debt**
+
+REFERENCE: SPECIAL RELEASE
+
+1. In its application after November 12, 1981 the references in this bulletin to any of paragraph 80(a) to (f) should be read as references to paragraphs 80(1)(a) to (f).
+
+2. Paragraph 11 of IT-293R is revised to read as follows:
+
+11. The word "payment" is given its usual meaning and accordingly includes payment in kind. Where a debtor corporation issues its own shares to a creditor in settlement of a debt, the provisions of section 80 do not apply if the fair market value of the shares at that time is not less than the principal amount of the debt, but section 80 will have application to the corporation where the fair market value of the shares is less than the principal amount of the debt then outstanding. The ACB of the shares to the creditor will be their fair market value except where the debt was a convertible property to which section 51 has application, in which case the ACB of the shares will be the ACB of the converted debt. In situations where an amount owing to a shareholder by a corporation is extinguished by being contributed by the shareholder to the corporation in the form of a capital contribution, the Department considers that section 80 is applicable on the full amount of the loan extinguished. The above rules will also apply where the above results are, in effect, achieved through a series of transactions. As an example, where a corporation borrows money from a bank or money lender on a daylight loan basis to pay the amount of a debt to its creditor and the creditor then uses the funds to buy shares in the corporation which in turn repays the daylight loan, section 80 will be applicable if the principal amount of the debt extinguished exceeds the fair market value of the shares acquired by the creditor.
+
+3. Paragraph 24 is revised to read as follows:
+
+24. Prior to November 13, 1981, the provisions of section 80 were not applied in respect of inter-company debt extinguished on an amalgamation that was subject to the provisions of section 87. However, subsection 80(2) now provides that inter-corporate indebtedness which would otherwise be extinguished on an amalgamation after November 12, 1981 be deemed to have been settled before the amalgamation by a payment made and received of an amount equal to the cost amount to the creditor of the amount outstanding at that time on account of the principal amount of the debt or obligation. For purposes of subsection 80(2) the definition of cost amount in section 248 is read without reference to paragraph (e) thereof. The result is that subsection 80(1) may apply on amalgamation of a debtor and creditor to a debt that had been purchased by the creditor from a third party for an amount less than both its principal amount and the amount for which it was issued by the debtor.
+
+4. Paragraph 27 is deleted in its entirety. Please refer to Special Release to IT-20

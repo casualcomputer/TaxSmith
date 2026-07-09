@@ -1,0 +1,7618 @@
+---
+title: "Guide for the Partnership Information Return (T5013 Forms)"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4068/guide-partnership-information-return-t5013-forms.html
+last_modified: 2026-06-01
+---
+# Guide for the Partnership Information Return (T5013 Forms)
+
+## Table of contents
+
+- [Find out if this guide is for you](#isthisguide)
+
+- [What's new](#P128_4443)
+
+- [Chapter 1 – General information](#chptr_1)
+
+    - [Find out if you have to file a partnership information return](#must_file)
+
+          - [Nominees and agents who hold an interest in a partnership for another person](#nominees_agents)
+
+          - [Investment clubs on the modified-partnership basis](#Investment_club)
+
+          - [Partnerships that do not have to file a partnership information return](#Partnerships_no_partnership)
+
+    - [Who is responsible for filing](#P3138_79604)
+
+    - [Important reporting information for partners](#P3009_13587)
+
+    - [Mandatory disclosure rules](#infrmtn_rprtng_tx_vdnc_trnsctns)
+
+          - [Tax avoidance through the use of partnerships](#tx_vdnc_thrgh_prtnrshps)
+
+    - [Additional information](#ddtnl_nfrmtn)
+
+          - [International tax and thin capitalization rules](#ntrntnl_tx_thn_cptlztn_rls)
+
+          - [Functional currency reporting – Election under section 261](#fnctnl_crrncy_rprtng)
+
+          - [Specified investment flow-through partnerships](#spcfd_nvstmnt_flwthrgh)
+
+          - [Tax shelters](#P300_913611)
+
+    - [Multiplication of the small business deduction](#small)
+
+    - [T1156, *Part.II.2 Tax Return for Partnerships*](#t1156)
+
+- [Chapter 2 – Filing methods](#flng_mthd)
+
+    - [Mandatory electronic filing](#mandatory)
+
+          - [Failure to file information returns over the Internet](#failure)
+
+    - [Web access code](#webaccess)
+
+    - [Web Forms (slips and summary only)](#web)
+
+    - [Elections and other paper forms](#paper)
+
+    - [Paper filing](#filing_paper)
+
+    - [How to fill out the forms and schedules of the return](#how)
+
+    - [Partnership account number](#account)
+
+    - [How to get a partnership account number](#howtogetacct)
+
+    - [AgriStability and AgriInvest programs](#P30091_3589a)
+
+    - [How to distribute the forms](#distribute)
+
+- [Chapter 3 – After you file](#P30091_3589b)
+
+    - [What you need to know after filing your partnership information return](#whathappens)
+
+    - [Keeping records](#kprcrds)
+
+          - [Review and audit](#reviewaudit)
+
+    - [Filing a formal dispute](#formaldispute)
+
+    - [Amending your return](#amendreturn)
+
+          - [Using tax preparation software and the electronic filing method](#P30091_3589c)
+
+          - [Filing on paper](#ppr_rtrn)
+
+    - [Amending or cancelling slips](#dngslps_lctrn)
+
+    - [Replacement slips](#rplcng_slps)
+
+    - [Amending, cancelling, or adding slips without a web access code](#mndng_cncllng_wwc)
+
+- [Chapter 4 – Due dates](#chptr4_dts)
+
+    - [Annual return](#annualreturn)
+
+    - [Due dates](#duedate)
+
+    - [Final return](#final_return)
+
+    - [The CRA can determine the income or loss of the partnership](#when_cra_determine)
+
+          - [Notice of determination](#noticeof)
+
+    - [Date when we consider the partnership information return to be filed](#dte_whncnsdr_prtfl)
+
+    - [Date when we consider income tax, penalty, and interest payments to be effective](#date_when_effective)
+
+    - [Due dates for publicly traded partnerships to post their financial information on the CDS Innovations Inc. website](#post_cds)
+
+- [Chapter 5 – Penalties](#penalties_partnerships)
+
+    - [Late filing](#lt_flng)
+
+          - [Late filing penalty under subsections 66(12.74) and 66(12.75)](#P3050_75591)
+
+    - [Repeated failure to file](#repeated_failure)
+
+    - [Offences and punishment](#offences)
+
+    - [Failure to provide social insurance numbers (SINs), business numbers (BNs), or other information](#failing)
+
+    - [Using an identification number](#using_idnumber)
+
+    - [Penalties applicable to tax shelters](#P3009_13596)
+
+          - [False or misleading information](#false_mislead)
+
+          - [Failure to file an information return or report required information](#failuretofile)
+
+          - [Failure to provide the tax shelter identification number](#failingtoprovide)
+
+          - [If you provide an incorrect tax shelter identification number](#incorrect_idnumber)
+
+    - [Misrepresentation of a tax matter by a third party](#misrep_third)
+
+    - [Interest on penalties](#P3138_79621)
+
+    - [Cancel or waive penalties or interest](#waive)
+
+    - [Voluntary disclosures](#P3009_13597)
+
+- [Chapter 6 – Determining the net income or loss of the partnership and partners](#P241_16199)
+
+    - [Calculating the partnership's income or loss](#P3009_13613)
+
+          - [Partnership income](#P3009_13614)
+
+          - [Net income or loss for income tax purposes](#P3009_13617)
+
+          - [Business and non‑business activities](#business_nonbusiness)
+
+          - [Income sources](#income_sources)
+
+          - [Tax shelter investment](#tax_shelter_invest)
+
+          - [Income from foreign sources](#P3009_13621)
+
+          - [Business investment loss](#P3009_13622)
+
+          - [Capital cost allowance (CCA)](#P3009_13623)
+
+          - [Scientific research and experimental development (SR&ED)](#P3009_13624)
+
+          - [Royalty payments to a third party](#royalty)
+
+          - [Contract payments to a third party](#contract_payments)
+
+    - [Allocating the income or loss to partners](#P3009_13627)
+
+          - [Losses](#P3009_13629)
+
+          - [Restricted farm losses](#P3138_79650)
+
+          - [Scientific research and experimental development (SR&ED)](#P3009_13632)
+
+- [Chapter 7 – *T5013-FIN, Partnership Financial Return*](#P383_35014)
+
+    - [Filling out T5013-FIN, *Partnership Financial Return*](#P3009_13635)
+
+          - [Page 1](#p3138_9654)
+
+          - [Page 2](#P3049_72708)
+
+          - [Page 3](#P3110_33872)
+
+          - [Page 4](#P3110_34021)
+
+          - [Order of attachments](#P3138_79656)
+
+- [Chapter 8 – T5013 schedules](#P518_51390)
+
+    - [T5013 SCH 1, *Net Income (Loss) for Income Tax Purposes*](#T5013SCH1)
+
+          - [Reconciling the partnership's net income or loss for income tax purposes](#P3009_13638)
+
+          - [Supporting form and schedules](#P3009_13639)
+
+          - [Filling out the T5013 SCH 1](#P3009_13640)
+
+    - [T5013 SCH 2, *Charitable Donations, Gifts, and Political Contributions*](#P3009_13641)
+
+          - [Eligible amount of gift](#P3009_13643)
+
+          - [Filling out the T5013 SCH 2](#complete_sch2)
+
+    - [T5013 SCH 5, *Allocation of Salaries and Wages, and Gross Revenue for Multiple Jurisdictions*](#P30091_3646)
+
+          - [Filling out the T5013 SCH 5](#complete_sch5)
+
+    - [T5013 SCH 6, *Summary of Dispositions of Capital Property*](#P3009_13649)
+
+          - [Filling out the T5013 SCH 6](#complete_sch6)
+
+    - [T5013 SCH 8, *Capital Cost Allowance (CCA)*](#P30091_3652)
+
+          - [Filling out the T5013 SCH 8](#complete_sch8)
+
+          - [T5013 SCH 8 examples](#sch8ex)
+
+          - [List of the most common CCA rates and classes](#lst_cc_rts_clss)
+
+    - [T5013 SCH 9, *List of Partnerships*](#P3009_13656)
+
+          - [Filling out the T5013 SCH 9](#hw_fll_schdl9)
+
+    - [T5013 SCH 12, *Resource-Related Deductions*](#P30091_3662)
+
+          - [Filling out the T5013 SCH 12](#fillingSCH12)
+
+    - [T5013 SCH 50, *Partner's Ownership and Account Activity*](#P3009_13665)
+
+          - [Filling out the T5013 SCH 50](#fillingSCH50)
+
+    - [T5013 SCH 52,*Summary Information for Partnerships that Allocated Renounced Resource Expenses to their Members*](#P3009_13668)
+
+          - [Filling out the T5013 SCH 52](#complete_sch52)
+
+    - [T5013 SCH 58, *Canadian Journalism Labour Tax Credit*](#t5013sch58)
+
+    - [T5013 SCH 63, *Return of Fuel Charge Proceeds to Farmers Tax Credit*](#t5013sch63)
+
+    - [T5013 SCH 74, *Clean Hydrogen Investment Tax Credit*](#t5013sch74)
+
+    - [T5013 SCH 75, *Clean Technology Investment Tax Credit*](#t5013sch75)
+
+    - [T5013 SCH 76, *Clean Technology Manufacturing Investment Tax Credit*](#t5013sch76)
+
+    - [T5013 SCH 78, *Carbon Capture, Utilization, and Storage Investment Tax Credit*](#t5013sch78)
+
+    - [T5013 SCH 130, *Partnership Interest and Financing Expenses and Interest and Financing Revenues*](#t5013sch130)
+
+          - [Filling out the T5013 SCH 130](#fillingSCH130)
+
+    - [GIFI schedules](#P3049_73363)
+
+- [Chapter 9 – T5013, *Statement of Partnership Income,* and T5013 SUM, *Summary of Partnership Income*](#P568_58342)
+
+    - [Filling out the T5013 slip](#P1387_9691)
+
+          - [Fixed boxes](#fixed_boxes)
+
+          - [Generic boxes](#generic)
+
+    - [Tax shelter information](#tax_shelter)
+
+          - [Renounced Canadian exploration and development expenses](#renounced)
+
+    - [Filling out the T5013 SUM, *Summary of Partnership Income*](#P3009_13683)
+
+          - [Part 1 – Identification](#Part1_t5013SUM)
+
+          - [Part 2 – Totals from the T5013 slips](#Part2_t5013SUM)
+
+          - [Part 3 – Contact information](#Part3_t5013SUM)
+
+          - [Part 4 – Certification](#Part4_t5013SUM)
+
+- [Chapter 10 – Transactions with non-residents of Canada](#P1864_84479)
+
+    - [Returns required](#P30091_3684)
+
+          - [Payments to non-residents of Canada](#P31387_9703)
+
+          - [Withholding requirements](#P3009_13686)
+
+          - [Penalties for failing to withhold or to remit non-resident tax](#P1387_9705)
+
+          - [Non-arm's length transactions with non-residents](#P3049_80049)
+
+          - [Foreign affiliates](#P31387_9707)
+
+          - [Transfers or loans to a non-resident trust](#P31387_9708)
+
+          - [Distributions from and indebtedness to a non-resident trust](#P3138_79709)
+
+          - [Penalties for failing to file an information return](#penalties)
+
+    - [Disposing of taxable Canadian property by non-residents](#P3009_13688)
+
+    - [Disposing of taxable Canadian property by a partnership with non-resident partners](#P31387_9712)
+
+- [Appendix A – *Canadian province or territory, and U.S state, territory, or possession codes*](#ppdxa)
+
+- [Appendix B – *Country codes*](#Appendix_B)
+
+- [Appendix C – *References, initialisms and definitions*](#may)
+
+- [Definitions](#definitions)
+
+- [Digital services](#digital)
+
+    - [Handle your business taxes online](#hndlng_bsnss_txs_nln)
+
+    - [Balances and payments](#balances)
+
+    - [Transactions](#transactions)
+
+    - [Correspondence](#correspondence)
+
+    - [Receive your CRA mail online](#receive)
+
+    - [Online payments](#online)
+
+- [For more information](#more_info)
+
+    - [If you need help](#what_needhelp)
+
+    - [Direct deposit](#drct_dpst)
+
+    - [Forms and publications](#frm_pb)
+
+    - [Electronic mailing lists](#lctrnc_mlglst)
+
+    - [Teletypewriter (TTY) users](#tltpwrtr)
+
+    - [Service complaints](#service_complaints)
+
+    - [Reprisal complaints](#reprisal_complaints)
+
+## Find out if this guide is for you
+
+This guide gives general information on how to fill out the partnership information return, its related schedules and forms, and the T5013 slips and summary for the partners that are members of the partnership.
+
+The partnership information return is used to report any fiscal data about the allocation of net income, losses, and other amounts from the partnership's activities to its members. It is also used by [specified investment flow-through (SIFT) partnerships to calculate the tax payable under Part IX.1](https://laws-lois.justice.gc.ca/eng/acts/i-3.3/page-168.html#h-312185).
+
+[Income Tax Folio S4-F16-C1, *What is a Partnership?*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-16-partnerships/income-tax-folio-s4-f16-c1-what-a-partnership.html), can help you determine if your arrangement is a partnership. As noted in that folio, the existence of a partnership must be determined by reference to the partnership law of the relevant province or territory.
+
+For the purposes of this guide, the partnership information return includes the following:
+
+- [T5013 FIN, *Partnership Financial Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013fin.html), and the related schedules and forms
+
+- [Form T5013 SUM, *Summary of Partnership Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sum.html), and [T5013, *Statement of Partnership Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html) slips
+
+In this guide, CRA refers to the Canada Revenue Agency.
+
+### Confidentiality of information
+
+Under the *Privacy Act*, the information you provide on the partnership information return and related forms and schedules can be used only for the purposes authorized by law.
+
+### Legislative references
+
+Unless otherwise stated, all legislative references are to the [*Income Tax Act*](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html) or, where appropriate, to the [*Income Tax Regulations*](http://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._945/index.html).
+
+## What's new
+
+### Chapter 1 – General information
+
+To find our publications, including forms, schedules, income tax interpretation bulletins (ITs), and information circulars (ICs), see [Forms and Publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+### Find out if you have to file a partnership information return
+
+Under subsection 229(1) of the Regulations, all partnerships that carry on business in Canada or are Canadian partnerships or specified investment flow-through (SIFT) partnerships, must file a partnership information return. However, under CRA administrative policy, certain partnerships that carry on business in Canada or are Canadian partnerships are not required to file a partnership information return.
+
+For more information on SIFT partnerships, see [Specified investment flow-through partnership](#sift_partnership) and [Specified investment flow‑through (SIFT) partnership](#SIFT_2).
+
+**Reference**Regulation 229(1)
+
+**Partnerships that carry on business in Canada and Canadian partnerships** – A partnership that carries on a business in Canada, or a Canadian partnership with Canadian or foreign operations or investments, **must** **file** a return if either of the following occur:
+
+- at the end of the fiscal period, the partnership has an **absolute value** of revenues plus an absolute value of expenses of more than $2 million, or has more than $5 million in assets
+
+- at any time during the fiscal period:
+
+    - the partnership is a tiered partnership (has another partnership as a partner or is itself a partner in another partnership), or
+
+    - the partnership has a corporation or a trust as a partner, or
+
+    - the partnership invested in flow-through shares of a principal-business corporation that incurred Canadian resource expenses and renounced those expenses to the partnership, or
+
+    - the minister of National Revenue requests one in writing.
+
+The absolute value of a number refers to the numerical value of the number without regard to its positive or negative sign. To determine if a partnership exceeds the $2 million threshold, **add** total worldwide expenses to total worldwide revenues rather than subtract expenses from revenues as you would to determine net income.
+
+The cost figure of all assets worldwide, both tangible and intangible, without taking into account the depreciated amount should be used to determine whether a partnership meets the criterion of "more than $5 million in assets."
+
+The T5013 FIN, and the schedules T5013 SCH 1, T5013 SCH 50, T5013 SCH 100, T5013 SCH 125, T5013 SCH 140 (if applicable) andT5013 SCH 141, as well as the T5013 slips and Form T5013 SUM are all mandatory. However, the T5013 SCH 141 is not mandatory for investment clubs.
+
+##### Example 1 – Partnership has more than $2 million in absolute value of revenues and expenses
+
+WXYZ is a Canadian partnership with five members who are all individuals.
+
+For the fiscal period ending December 31, 2025, WXYZ had $1.5 million of revenue, $1.25 million in expenses and net income of $250,000. The partnership's total of assets is $2 million before depreciation.
+
+WXYZ **has to file**a return and give each partner a T5013 slip because the absolute value of revenues ($1.5 million) and expenses ($1.25 million) is more than $2 million.
+
+##### Example 2 – Partnership is a tiered partnership
+
+ABCD is a Canadian partnership with two members: Sawyer who is an individual, and Phoebe Properties which is itself a partnership carrying on a business in Canada.
+
+For the fiscal period ending December 31, 2025, ABCD had $950,000 in revenue and $400,000 in expenses for a net income of $550,000.
+
+ABCD **has to file**a return and give each partner a T5013 slip because one of its two partners is a partnership.
+
+Phoebe Properties has four members who are all individuals.
+
+For the fiscal period ending December 31, 2025, the business operated by Phoebe Properties had $1 millionin revenue, $600,000 in expenses and net income of $400,000. It allocated $168,750 to each partner under the partnership agreement ($68,750 from ABCD plus $100,000 from Phoebe Properties).
+
+Phoebe Properties **has to file**its own return because it is a partner in another partnership.
+
+##### Example 3 – Partnership has a corporation (or a trust) as a member
+
+EFGH is a Canadian partnership with three members: Newmarket Maple Inc., ABCD Trust, and Steven who is an individual. Newmarket Maple Inc. is a corporation carrying on a business in Canada.
+
+For the fiscal period ending December 31, 2025, EFGH had a net income of $1,350,000.
+
+EFGH **has to file**a return and give each partner a T5013 slip because the partners include a corporation and a trust.
+
+##### Example 4 – Partnership is not a tiered partnership, has $2 million or less in absolute value of revenues and expenses, and less than $5 million in assets
+
+Beta Hand Crafts is a new Canadian partnership with 10 members who are all individuals.
+
+For its first fiscal period ending December 31, 2025, Beta Hand Crafts had $750,000 in revenue, $500,000 in expenses and net income of $250,000. The total of assets is $1.5 million before depreciation.
+
+Beta Hand Crafts **does not have to file**a return because the absolute value of its revenues and expenses ($1,250,000) does not exceed the $2 million threshold, it does not have more than $5 million in assets, it is not a tiered partnership, it does not have corporations or trusts as partners, and it has not invested in flow-through shares of a principal-business corporation that incurred Canadian resource expenses and renounced those expenses to the partners.
+
+Beta Hand Crafts has 2 options for advising its 10 partners of their share of net income:
+
+**Option 1:** Beta Hand Crafts can give each of its partners a copy of its financial statements for the fiscal period.
+
+**Option 2:** Beta Hand Crafts can fill out a return voluntarily and issue each partner a T5013 slip.
+
+**Limited partnerships that invested in flow-through shares**– A limited partnership may have invested in one of the following:
+
+- **only** in flow-through shares
+
+- **in** flow-through shares **and** also in other property
+
+In each of the above situations, the partnership **must file**a return for the applicable fiscal period.
+
+As a result of the partnership's investment in flow-through shares, the partnership may or may not have the following renunciations to allocate to the partners:
+
+- renounced resource expenses
+
+- reductions to the amounts previously renounced
+
+- amounts of assistance
+
+#### Nominees and agents who hold an interest in a partnership for another person
+
+**Requirement to file** – Every person who holds an interest in a partnership as a nominee or agent for another person has to fill out and file with the CRA a **separate** Form T5013 SUM and the related T5013 slips for **each** partnership in which an interest is held for another person.
+
+**Reference** Regulation 229(3)
+
+**Investor's slips**– The information required on [slips T5013, *Statement of Partnership Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html), that the nominee or agent issues to their investors **must** reconcile with the information provided on the T5013 slips the partnership issued to the nominee or agent.
+
+##### Forms nominees or agents have to file
+
+The following prescribed forms and information must be filed with the CRA:
+
+- [Form T5013 SUM, *Summary of Partnership Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sum.html)
+
+- a copy of all the T5013 slips issued by the nominee or agent to each person (investor) for whom the nominee or agent holds an interest
+
+For more information about filing information returns electronically, go to [File information returns electronically (tax slips and summaries)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+#### Investment clubs on the modified-partnership basis
+
+**Requirement to file** – An investment club on the modified-partnership basis that meets any of the filing criteria has to file a return. For more information on the filing criteria, see [Find out if you have to file a partnership information return](#P300_913583).
+
+An investment club on the modified-partnership basis that does not meet any of the filing criteria does not have to file a return.
+
+**Reporting income**– A club receives investment income for its members which must be included in calculating the income of each member on a calendar-year basis. On the modified-partnership basis, a club and its members are treated as if each member owned a partnership interest in the club instead of an undivided interest in each asset of the club.
+
+This modified-partnership basis permits the determination of capital gains and losses at the club level, as if the club were a partnership owning property and realizing capital gains and losses. These gains or losses, together with any other income such as dividends or interest, are allocated to the members in the year in which they are received by the club.
+
+**References**[Information Circular IC73-13, *Investment Clubs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic73-13.html), and its [Special Release](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic73-13sr/special-release-investment-clubs.html)
+
+#### Partnerships that do not have to file a partnership information return
+
+When all members of a partnership are registered or entitled to be registered under the [*Indian Act*](https://laws-lois.justice.gc.ca/eng/acts/i-5/), and the partnership earns all its income at its permanent establishment on a reserve, the partnership does not have to file a return.
+
+If the partnership has any income earned off-reserve and the income is not exempt from tax, the partnership may have to file a return. To determine if you need to file a return, go to [T5013 Partnership Information Return filing requirements](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/t5013-partnership-information-return-filing-requirements.html).
+
+For more information on the tax exemption under section 87 of the *Indian Act*, go to [Information on the tax exemption under section 87 of the *Indian Act*](https://www.canada.ca/en/revenue-agency/services/indigenous-peoples/information-indians.html).
+
+#### Who is responsible for filing
+
+Once you determine that your partnership has to file a return, **each member**of the partnership is responsible for making sure that a return is filed for each fiscal period of the partnership.
+
+You need to file only one return for each fiscal period of the partnership. Any partner can file on behalf of the other partners. The partner who is filing the return on behalf of all the members of the partnership is the **authorized partner**. Once a partner files a return, we consider all partners to have filed it.
+
+**References** Regulations 229(1) and 229(2)
+
+#### Important reporting information for partners
+
+If the partnership has to file a return, the partners have to use the information from the T5013 slips issued by the partnership to report their share of partnership income or loss on their income tax or partnership information returns.
+
+If the partnership does not have to file a return, the partners have to use the information from the partnership's financial statements to report their share of the partnership's income or loss on their income tax return.
+
+The partners use the information on the T5013 slip to prepare the following returns:
+
+- **Individuals –** [T1 *Income Tax and Benefit Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-g.html)
+
+- **Corporations –** [T2 *Corporation Income Tax Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012.html)
+
+- **Trusts –** [T3 *Trust Income Tax and Information Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013.html)
+
+- **Partnerships**– [T5013 FIN *Partnership Financial Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013fin.html)
+
+Partnership income or loss allocated to the partners (for example, business, rental, or investment income) keeps its source identity. For example, dividend income earned by a partnership is dividend income for the partners. The T5013 slip follows the principle of keeping the source identity of the income.
+
+**Individuals**– Partners who are individuals have to calculate the income and expenses from their business activities by using one or more of the forms listed below that apply to them:
+
+- [T2125, *Statement of Business or Professional Activities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2125.html)
+
+- [T2121,*Statement of Fishing Activities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2121.html)
+
+- [T2042,*Statement of Farming Activities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2042.html)
+
+**Participation in AgriStability and AgriInvest programs:** For farming activities in **Quebec**, individuals should contact their provincial AgriStability and AgriInvest Program Administration in Quebec.
+
+For farming activities in **Alberta**, **Prince Edward Island**, and **Ontario**, use forms:
+
+- [T1163, *Statement A – AgriStability and AgriInvest Programs Information and Statement of Farming Activities for Individuals*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1163.html)
+
+- [T1164, *Statement B – AgriStability and AgriInvest Programs Information and Statement of Farming Activities for Additional Farming Operations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1164.html)
+
+For farming activities in **British Columbia**,**Saskatchewan**, **Manitoba**, **New Brunswick**, **Nova Scotia**, **Newfoundland**and**Labrador**, and the **Yukon,**and the**Northwest Territories** use forms:
+
+- [T1273, *Statement A – Harmonized AgriStability and AgriInvest Programs Information and Statement of Farming Activities for Individuals*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html)
+
+- [T1274, *Statement B – Harmonized AgriStability and AgriInvest Programs Information and Statement of Farming Activities for Additional Farming Operations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1274.html)
+
+For transactions entered into after June 21, 2023, the definition of **avoidance transaction** has been amended so that a transaction will be an avoidance transaction if it may reasonably be considered that one of the main purposes of the transaction, or of a series of transactions of which the transaction is a part, is to obtain a tax benefit.
+
+A reportable transaction does not include a transaction that is, or is part of a series of transactions that includes, the acquisition of a tax shelter or issuance of a flow-through share for which an information return has been filed with the minister under subsections 237.1(7) or 66(12.68), respectively. This is the case unless it is reasonable to conclude that one of the main reasons for acquiring a tax shelter or issuing a flow-through share was to avoid the reportable transaction provisions under section 237.3.
+
+More than one person may have a reporting requirement for the same reportable transaction. For transactions entered into after June 21, 2023, every person (for example, the taxpayer and the advisor or promoter) that has a reporting requirement for the same reportable transaction must file a separate [Form RC312, *Reportable Transaction and Notifiable Transaction Information Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc312.html), generally within 90 days of the earlier of:
+
+- the day the taxpayer (or a person who entered into the transaction for the benefit of the taxpayer) becomes contractually obligated to enter into the reportable transaction
+
+- the day the taxpayer (or a person who entered into the transaction for the benefit of the taxpayer) enters into the reportable transaction
+
+If the information return is not filed as and when required, the reassessment period is extended to three years (or, for tax years that begin after 2022, either three or four years depending on the type of taxpayer) after the date the return is filed.
+
+The scope of an assessment, reassessment or additional assessment during this extended reassessment period is limited to the tax benefit (or, for tax years that begin after 2022, the reportable transaction).
+
+There may be additional provincial or territorial reporting requirements depending on your province or territory of residence.
+
+Failure to report could result in the suspension of the tax benefit and a penalty for the failure to report.
+
+For transactions entered into after June 21, 2023, each person that has a reporting requirement for a reportable transaction will have to pay a separate penalty if they fail to report.
+
+For more examples of activities that would not, in and of themselves, meet a generic hallmark and as such, would not result in a transaction being subject to a reporting obligation, go to [No reporting obligation under the reportable transaction regime](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/mandatory-disclosure-rules-overview/guidance-document.html).
+
+For more information, see [Form RC312, *Reportable Transaction and Notifiable Transaction Information Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc312.html).
+
+**Reference** Section 237.3
+
+### Additional information
+
+#### International tax and thin capitalization rules
+
+In general, the thin capitalization rules limit the deductibility of interest expenses of a corporation or trust in circumstances where the amount of debt owing to certain non-residents exceeds a 1.5-to-1 debt-to-equity ratio.
+
+##### Partnerships
+
+The thin capitalization rules include debts owed by partnerships of which a corporation or trust is a member. In particular, for the purpose of determining the corporation's or trust's debt-to-equity ratio under the thin capitalization rules, debt obligations and property of the partnership will be allocated to its members based on their proportionate interest in the partnership.
+
+In circumstances where the partner's permitted debt-to-equity ratio is exceeded, the partnership's interest deduction will not be denied but an amount will be included in computing the income of the partner from a business or property, as appropriate. The source of this income inclusion will be determined by reference to the source against which the interest is deductible at the partnership level. This inclusion will equal the amount of the interest on the portion of the allocated partnership debt that exceeds the permitted debt-to-equity ratio.
+
+For corporate partners, the income inclusion under these rules is deemed to be a dividend paid by the corporate partner to the non-resident recipient of the interest and is subject to Part XIII withholding tax.
+
+**Reference**Subsection 18(7)
+
+PQRS 1 and PQRS 2 are Canadian-resident corporations and equal partners in a partnership that earns income from a business. PQRS 1 is wholly owned by Forco, a non-resident corporation.
+
+The PQRS 1 shares owned by Forco have paid-up capital of $4,000, but PQRS 1 has no other capital for the purposes of the thin capitalization rules. Forco lends $3,000 to the partnership and lends $8,500 directly to PQRS 1.
+
+PQRS 1 has a 50% interest in the partnership and will therefore be allocated 50% of the partnership loan ($1,500) for thin capitalization purposes. PQRS 1 has capital of $4,000 and is considered to have outstanding debts to a specified non-resident (Forco) of $10,000 ($8,500 debt owed by PQRS 1 to Forco plus $1,500 in debt allocated from the partnership).
+
+With a permitted debt-to-equity ratio of 1.5-to-1, PQRS 1 has $4,000 of total excess debt—that is, ($10,000 − 1.5 × $4,000) ÷$10,000, or 2/5, of $10,000. This 2/5 ratio is applied to interest on the debt owed directly to Forco by PQRS 1 as well as the debt allocated from the partnership to determine how much interest is denied, or added back to income, respectively. Accordingly, 2/5 of the interest deduction in respect of the $8,500 direct loan from Forco will be denied and an amount equal to 2/5 of the deductible interest expense, in respect of the $1,500 debt allocated from the partnership, will be required to be included in computing the income of PQRS 1 from the partnership's business.
+
+#### Functional currency reporting – Election under section 261
+
+When a corporation that elects to report in a functional currency is a member of a partnership, that partnership has to use the same functional currency when preparing the T5013 slip for this corporate partner.
+
+If a partnership has one member that has made the election and another partner that has not elected, or has elected to use a different functional currency, the partnership is required to prepare the T5013 slip, for the partners who made an election under section 261 in their elected functional currency.
+
+The functional currency is reported in box 205 of the T5013 slip.
+
+A functional currency is a currency of a country other than Canada that is both:
+
+- a qualifying currency, currently:
+
+    - the British pound (GBP)
+
+    - the euro (EUR)
+
+    - the Australian dollar (AUD)
+
+    - the U.S. dollar (USD)
+
+    - the Japanese yen (JPY)
+
+- the primary currency in which the taxpayer maintains its records and books of account for financial reporting purposes for the tax year
+
+**References** Subsections 261(1), (3), (5), and (6)
+
+### Specified investment flow-through partnerships
+
+A specified investment flow-through (SIFT) partnership is liable to pay tax under Part IX.1, section 197 of the Act. For this purpose, the partnership information return is considered as the Part IX.1 tax return which is required to be filed by a SIFT partnership under subsection 197(4).
+
+Part IX.1 tax applies on a SIFT partnership's **taxable** **non-portfolio** **earnings**. The tax rate under Part IX.1 reflects the general federal corporate rate for the tax year minus the corporate rate reduction that would apply for the tax year and **minus** the provincial or territorial abatement for the taxable income earned in a province or territory, plus a provincial or territorial SIFT tax rate.
+
+If a SIFT partnership is liable for tax under Part IX.1 for a tax year, the amount of income that will be subject to tax in the hands of the members of the partnership under Part I will be reduced. This is because paragraph 96(1.11)(a) modifies the wording of paragraph 96(1)(f) where Part IX.1 tax is payable so as to reduce the allocation of partnership income to a member of the partnership by an amount representing the member's share of the **taxable** **non-portfolio earnings**. The difference between the partnership's **taxable non-portfolio earnings** for the tax year and the tax payable by the partnership for the tax year under Part IX.1 is deemed to be a dividend received by the partnership from a taxable Canadian corporation. This deemed dividend is allocated to the members of the partnership in the same proportion as the taxable non-portfolio earnings.
+
+The result is that members of the partnership who are "residents of Canada" will be deemed to have received an "eligible dividend" that qualifies for the enhanced dividend tax credit (in the case of individuals) or that qualifies for inclusion in the general rate income pool (in the case of corporations). A partner that is a corporation resident in Canada may also be eligible for a dividend deduction under section 112.
+
+The amount of "eligible dividend" is to be reported in box 132 of the T5013 slip.
+
+**References** Sections 112 and 197 Subsections 89(1) and 96(1.11) Paragraph 96(1)(f)
+
+#### How to calculate Part IX.1 tax
+
+Every partnership that is a SIFT partnership for a tax year is liable to a tax under Part IX.1 equal to the amount determined by the following formula:
+
+| **where:** |  |
+
+| --- | --- |
+
+| **A** | represents the taxable non-portfolio earnings of the SIFT partnership for the tax year |
+
+| **B** | represents the net corporate income tax rate in respect of the SIFT partnership for the tax year |
+
+| **C** | represents the provincial or territorial SIFT tax rate of the SIFT partnership for the tax year |
+
+For more information about SIFT partnerships, go to [How to complete Form T5013-1](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/t5013-partnership-information-return-filing-requirements/partnerships-that-subject-specified-investment-flow-through-sift-tax/complete-form-t5013-1.html).
+
+**References** Section 112 Subsection 197(2)
+
+#### Tax shelters
+
+##### Applying for a tax shelter number
+
+Tax shelter promoters must apply for a tax shelter identification number from the CRA using the prescribed [Form T5001, *Application for Tax Shelter Identification Number and Undertaking to Keep Books and Records*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5001.html).
+
+The CRA will issue a tax shelter identification number when an application is received, if the application includes:
+
+- all the information required by the Act
+
+- an undertaking that is satisfactory to the minister of national revenue for the custody of the tax shelter's books and records. We will usually accept an undertaking by the promoter responsible for the tax shelter's books and records to keep such documents at the promoter's usual place of business in Canada
+
+**References** Subsections 237.1(2) and (3)
+
+##### The right time for a promoter to apply for a tax shelter number
+
+For any tax shelter for which an application for a tax shelter identification number was made on or after March 29, 2012, promoters can sell or issue, or accept consideration for the tax shelter only if:
+
+- the minister has issued before that time an identification number for the tax shelter
+
+- that time is during the calendar year designated by the minister as being applicable to the identification number
+
+Tax shelter identification numbers that were applied for before March 29, 2012, (or that had been issued as of that date) were only valid until the end of 2013. For applications made on or after March 29, 2012, the tax shelter identification number will be valid only for one designated calendar year.
+
+**Reference** Subsection 237.1(4)
+
+##### The tax shelter identification number
+
+The tax shelter identification number consists of two letters (**TS**) followed by a six-digit number.
+
+This number does **not** confirm that an investor is entitled to claim any tax benefits associated with the tax shelter.
+
+We use the tax shelter identification number for administrative purposes only.
+
+**Reference** Subsection 237.1(5)
+
+##### Providing a tax shelter identification number
+
+Tax shelter promoters have to make reasonable efforts to ensure that they provide the identification number assigned to a tax shelter to every person who acquires an interest, or invests, in a tax shelter:
+
+- For a sale or issuance of an interest by any tax shelter promoter, or the acceptance of a contribution to the gifting arrangement, the promoter has to provide the identification number to the purchaser directly
+
+- For subsequent sales of interests in the tax shelter, for which the promoter is not directly involved, the promoter's duty will normally be satisfied by clearly including the identification number on each certificate of ownership
+
+**Reference** Paragraph 237.1(5)(a)
+
+##### Mandatory statement
+
+Also, every tax shelter promoter has to include the following statement on every written document that refers to the issuance of the tax shelter number by the CRA:
+
+- Where the statement or return is wholly or partly in English: "The identification number issued for this tax shelter shall be included in any income tax return filed by the investor. Issuance of the identification number is for administrative purposes only and does not in any way confirm the entitlement of an investor to claim any tax benefits associated with the tax shelter."
+
+- Where the statement or return is wholly or partly in French: « Le numéro d'inscription attribué à cet abri fiscal doit figurer dans toute déclaration d'impôt sur le revenu produite par l'investisseur. L'attribution de ce numéro n'est qu'une formalité administrative et ne confirme aucunement le droit de l'investisseur aux avantages fiscaux découlant de cet abri fiscal. »
+
+- Where the statement or return includes neither English nor French, include both the English and French statements described above
+
+**Reference** Paragraph 237.1(5)(c)
+
+##### Statement of earnings prepared
+
+Each promoter who prepares a statement of earnings for a tax shelter must prominently display the tax shelter identification number on the upper right hand corner of any statement of earnings. If an identification number is not obtained in advance, no person may claim any loss, deduction, or credit for the tax shelter until the number is obtained, and the promoter pays a penalty. Tax shelter investors have to provide the tax shelter identification number on their claim for tax benefits for any investment in a tax shelter.
+
+We will **deny** tax benefits claimed by tax shelter investors if they invest in a tax shelter arrangement that **does not** have a tax shelter identification number.
+
+##### Identifying tax shelter participants
+
+The promoter of a tax shelter has to keep a list of participants showing the name, address, and identification number of each participant.
+
+### Multiplication of the small business deduction
+
+In general, the small business deduction that a Canadian-controlled private corporation (CCPC) that is a member of a partnership can claim in respect of its income from the partnership is limited by the specified partnership income (SPI) rules to the lesser of the active business income (ABI) that it receives as a member of the partnership (its "partnership ABI") and its pro-rata share of a notional $500,000 business limit for the partnership (its "SPI limit"). A CCPC's specified partnership income is added to its active business income from other sources, if any, and the CCPC can generally claim the small business deduction on the total (subject to its annual business limit).
+
+In order to address concerns about partnership structures that multiply access to the small business deduction, the SPI rules have been expanded for tax years that begin after March 21, 2016. In general, for the purpose of the SPI rules:
+
+- A CCPC that is a member of a partnership will have its ABI from providing (directly or indirectly, in any manner whatever) services or property to the partnership included in its "partnership ABI" and thus subject to the limitation under the SPI rules
+
+- The SPI rules are expanded to apply to a CCPC that is not a member of a partnership if it is a "designated member" (a defined term) of the partnership. Where the CCPC is a designated member of a partnership, its ABI from providing (directly or indirectly, in any manner whatever) services or property to the partnership will be subject to the SPI rules as if it was a member except that the SPI limit of a designated member of a partnership will initially be nil (as it does not receive any allocation of income from the partnership). However, if certain conditions are met, any person (including an individual) that is a member of the partnership and does not deal at arm's length with the designated member of the partnership will be entitled to notionally assign to the designated member all of or a portion of the actual member's SPI limit in respect of a fiscal period of the partnership that ends in the designated member's tax year
+
+A CCPC will be considered to be a designated member of a partnership if it is not otherwise a member of the partnership in the tax year, and it provides (directly or indirectly, in any manner whatever) services or property to the partnership at any time in the tax year, and if one of the following tests is met:
+
+- One of the shareholders of the CCPC has a direct or indirect interest in the partnership
+
+- The CCPC does not deal at arm's length with a person that has a direct or indirect interest in the partnership, and it is not the case that all or substantially all of the CCPC's ABI for the tax year is from providing services or property to arm's length persons or partnerships (other than the partnership and any partnership in which a person that does not deal at arm's length with the CCPC has a direct or indirect interest)
+
+#### Assigning specified partnership business limit
+
+A person that is a member of a partnership may assign to a designated member of the partnership all or any part of the person's specified partnership business limit if:
+
+- a prescribed form is filed with the minister of national revenue by:
+
+    - the designated member in their return of income for the designated member's tax year, and
+
+    - the person in their return of income for the person's tax year
+
+If you are a CCPC that is a designated member or a CCPC making an assignment to another CCPC, you must file the T2 SCH 7, Aggregate Investment Income and Income Eligible for the Small Business Deduction. If you are an individual, a trust, or a corporation that is **not** a CCPC, and you are making an assignment to a designated member, you must file the T2 SCH 7, and complete only Table 1 (columns A1, B1, C1, G1, H1 and J1) and Table 3 to make this assignment. We will accept either the T2 SCH 7, with Tables 1 and 3 completed, or a letter providing the same information that is required on the T2 SCH 7.
+
+**Reference** Subsection 125(8)
+
+Kerry and Chris are married. Kerry owns 100% of K Co. Chris owns 100% of C Co.
+
+Kerry and Leslie each have a 50% interest in a limited liability partnership (LLP) that provides accounting services to the public. Leslie deals at arm's length with Kerry and Chris. None of K Co, C Co, or Chris is a member of the LLP.
+
+The LLP has $200,000 of net income to allocate to its members. K Co and C Co each earn $400,000 from providing accounting services to LLP.
+
+### T1156, Part II.2 Tax Return for Partnerships
+
+Fill out the [T1156](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1156.html) to calculate your Part II.2 tax on repurchases of equity if you are a specified investment flow-through (SIFT) partnership as defined in subsection 197(1), or would be a SIFT partnership if your assets were situated in Canada, that redeemed, acquired or cancelled its equity listed on a designated stock exchange in the fiscal period.
+
+File this return separately from any other return.
+
+For more information, see the instructions on the T1156.
+
+## Chapter 2 – Filing methods
+
+Internet filing is available from January 12, 2026. You **must** file information returns by Internet **if** **you** **file** **more** **than** **five information** **returns** **(slips)**for a calendar year.
+
+If you use commercial or in-house software to manage your business, you can file up to **150** **MB** by [Internet file transfer](https://apps.cra-arc.gc.ca/ebci/njfs/ext/disclaimer). Using tax preparation software, you can file your return in extensible markup language (XML). All you need is a web browser to connect to the Internet, and your software will create, print, and save your electronic information return in XML format.
+
+For example, a service bureau can file multiple returns in one submission, provided the total submission does not exceed the 150 MB restriction. For information about this filing method, contact your software publisher or go to [Filing Information Returns Electronically](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+If your return is more than 150 MB, you can either compress your return or divide it so that each submission is no more than 150 MB.
+
+## Mandatory electronic filing
+
+### Failure to file information returns over the Internet
+
+If you file more than five information returns for a calendar year and you do not file the returns by [File information returns electronically (tax slips and summaries)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html) or [Web Forms](https://apps.cra-arc.gc.ca/ebci/nkca/Webforms/disclaimer), you may have to pay a penalty determined as follows:
+
+| Number of information returns (slips) by type | Penalty |
+
+| --- | --- |
+
+| 6 to 50 | $125 |
+
+| 51 to 250 | $250 |
+
+| 251 to 500 | $500 |
+
+| 501 to 2,500 | $1,500 |
+
+| 2,501 or more | $2,500 |
+
+**Each slip is an information return**, and the penalty we assess is based on the number of information returns filed in an incorrect way. The penalty is calculated according to the type of information return. For example, if you file 51 NR4 slips and 51 T4 slips on paper, we will assess two penalties of $250, one for each type of information return.
+
+### Web access code
+
+You may need a web access code to file information returns over the Internet. If you do not remember your web access code or you need a code for a new account, go to [File information returns electronically (tax slips and summaries)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html) and select "How to file," "Where to find your Web access code (WAC)," to use the Online Web access code service.
+
+You do not need a web access code if you file your returns through My Business Account or Represent a Client. Electronic filing, without a web access code, is available to:
+
+- business owners using the "File a return" service in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), and
+
+- authorized representatives and employees through [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html)
+
+Original and amended returns are accepted for fiscal periods ending in 2015 and later.
+
+### Web Forms (slips and summary only)
+
+Our Web Forms application is free and secure. You can fill out an information return for the T5013 Summary and slips easily with Web Forms, following the step-by-step instructions.
+
+Web Forms lets you:
+
+- file **up to 100 slips** (original, additional, amended, or cancelled) from our website
+
+- calculate all of the totals for the summary
+
+- create electronic information return containing slips and a summary, which can be saved and imported at a later date
+
+- print all your slips and your summary
+
+- validate data in real time
+
+After you submit your information return for the T5013 Summary and slips, you will receive a confirmation number that will be your proof that we received it.
+
+To start using this application or to get more information about Web Forms, go to [File information returns electronically (tax slips and summaries) - How to file.](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview/filing-information-returns-electronically-t4-t5-other-types-returns-file.html)
+
+### Elections and other paper forms
+
+If you have to file an election; or any other paper form with your return and you are filing your partnership information return electronically, unless otherwise specified, send the documents to your tax centre. Clearly identify your partnership's name, account number and the applicable fiscal period end on the documents.
+
+Form T661 can now be filed electronically, via Submit Documents in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), or by [Internet file transfer](https://apps.cra-arc.gc.ca/ebci/njfs/ext/disclaimer) using tax preparation software from January 2023.
+
+### Paper filing
+
+We strongly encourage you to file your return online. However, you can file your T5013 financial return, schedules, and summary, as well as up to five slips on paper.
+
+Fill out **one copy** of the T5013 slip for each partner and send them with your T5013 Summary. Enter the information for two different partners on one sheet. You must keep a copy of the T5013 slips and the T5013 Summary for your files.
+
+Send the T5013 financial return, schedules, summary and slips to:
+
+Prince Edward Island Tax Centre 275 Pope Rd Summerside PE C1N 6A2
+
+**Reference**[Information Circular IC97-2, *Customized Forms*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic97-2.html)
+
+### How to fill out the forms and schedules of the return
+
+Use the following instructions to prepare your return in order to help us process it efficiently and quickly:
+
+- Type or print the data and information wherever possible. If you prepare your return by hand, print clearly
+
+- Enter the account number and the fiscal period end of the partnership in the designated boxes of the forms and schedules and on every other document you need to attach with your [T5013 FIN](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013fin.html)
+
+- Enter all amounts in Canadian dollars, unless the partnership has to report the income or loss of one or more partners using the partner's elected functional currency. For more information, see [Functional currency reporting – Election under section 261](#fnctnl_crrncy_rprtng)
+
+- Income from foreign countries – Report all income from foreign countries in Canadian dollars, unless the partnership has to report the income or loss of one or more partners using the partner's elected functional currency
+
+If you do not enter all the information requested in each area, we will contact you to get the missing information, or ask you to send us an amended form. Missing information can delay the processing of the partnership's information return or the partner's return.
+
+If more than 12 other information financial fields or more than 4 text fields are required on the T5013 slips, create a second slip to report the additional amounts.
+
+### Partnership account number
+
+A partnership account number has three parts and 15 characters: the 9-digit business number (BN); the 2-letter information return program identifier RZ; and a 4-digit reference number to identify each account a business may have. A partnership account number looks like this: 123456789RZ1234.
+
+**Partnerships –** If you file your return on paper, you must enter your partnership account number on the following documents:
+
+- [T5013 FIN](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013fin.html), and on all the related T5013 schedules
+
+- [Form T5013 SUM](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sum.html), T5013 slips, and all financial statements issued to the partners
+
+- all correspondence regarding the partnership that you send to the CRA
+
+**Nominee or agent**– If you are a **nominee** or an **agent** who holds an interest in a partnership for another person, you will have to file Form T5013 SUM and the T5013 slip for each partnership in which you are holding an interest for another person. You must therefore register for a T5 group RZ account number.
+
+The account number used can be an existing T5 group account number, an existing T5 group number with a new extension (last 4 digits of the 15-character RZ) or a new business number.
+
+You do not have to register for an RZ account number for each partnership in which you are holding an interest.
+
+For more information on the requirements applicable to nominees or agents, see [Nominees and agents who hold an interest in a partnership for another person](#nominees_agents).
+
+### How to get a partnership account number
+
+You can register for a business number (BN) and one or more CRA program accounts at the same time.
+
+**Online** – You can register for a BN with Business Registration Online (BRO). If you already have a BN but do not have an RZ program account number, you can get one with BRO. To register online or to find out more about online registration, go to [Business Registration with the CRA](https://www.canada.ca/en/services/taxes/business-registration.html).
+
+**By mail** – You can register for a BN by completing Form RC1, Request for a Business Number and Certain Program Accounts. You must select the "Partnerships Group" program account type and the T5013 Partnership Information Return. A nominee or agent who files Form T5013 SUM and slips must register for a T5 group RZ account number.
+
+Send the completed Form RC1 to your nearest tax centre.
+
+If you already have a BN, but do not have an RZ program account, be ready to answer all the questions in Form RC1.
+
+### AgriStability and AgriInvest programs
+
+The CRA is not the primary administrator of the AgriStability and AgriInvest programs. For more information on these programs, go to [AgriStability](https://agriculture.canada.ca/en/programs/agristability)and [AgriInvest](https://agriculture.canada.ca/en/programs/agriinvest).
+
+### How to distribute the forms
+
+After you fill out the forms and schedules included in the return, you have to send them to the relevant recipients.
+
+#### To the Canada Revenue Agency
+
+**Send all of the following:**
+
+- the completed original of the [T5013 FIN, *Partnership Financial Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013fin.html)
+
+- the completed original of [Form T5013 SUM, *Summary of Partnership Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sum.html)
+
+If you do not already have a partnership account number, you must apply for one before filing your return. For more information, see [How to get a partnership account number](#howtogetacct).
+
+- the original copy of all slips [T5013, *Statement of Partnership Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html)
+
+- the completed original of the [T5013 SCH 1, *Net Income (Loss) for Income Tax Purposes*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch1.html)
+
+- the completed original of the [T5013 SCH 50, *Partner's Ownership and Account Activity*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch50.html)
+
+- the completed original of the [T5013 SCH 100, *Balance Sheet Information*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch100.html)
+
+- the completed original of the [T5013 SCH 125, *Income Statement Information*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch125.html)
+
+- the completed original of the [T5013 SCH 141, *General Index of Financial Information (GIFI) – Additional Information*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch141.html)
+
+- one copy of the notes to the financial statements for the fiscal period, if applicable (if filing paper returns)
+
+If you file electronically, do **not** send the paper copy of the notes to the financial statements to your tax centre. If we need the notes to your financial statement, we will ask for them.
+
+- any other forms or documents when they apply
+
+Full disclosure is required on all documents relating to the return. All the information requested in this return and supporting documents is **prescribed information**.
+
+**The nominees or agents must send all of the following:**
+
+- the completed original of [Form T5013 SUM](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sum.html)
+
+- the original copy of all [T5013 slips](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html)
+
+#### To the members of the partnership
+
+Mail two copies of the T5013 slips to the last known address of each partner, with a copy of the slip instructions for the recipient, or deliver them in person. Do this on or before the day you have to file the return.
+
+You can send recipients an electronic copy of their T5013 slips and instructions ([T5013-INST](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t5013-inst/statement-partnership-income-instructions-recipient.html)). However, each recipient has to consent in writing or by email to receive the slips electronically.
+
+**Reference** Regulation 209
+
+#### The partnership and nominees or agents
+
+Keep one copy of each form that you send to the CRAfor your records.
+
+## Chapter 3 – After you file
+
+### What you need to know after filing your partnership information return
+
+When we receive your partnership information return, we check it to see if you have prepared it correctly. After an initial review, we enter your return into our processing system, which captures the information and performs various validity and balancing checks. If there are any discrepancies, we may contact you.
+
+### Keeping records
+
+Keep your paper and electronic records for a period of **six years** from the end of the last tax year to which they relate. However, if you want to destroy them before the period is over, fill out [Form T137, *Request for Destruction of Records*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t137.html).
+
+For more information, go to [Keeping records](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/keeping-records.html).
+
+**References**Subsections 230(4), 230(4.1), 230(5), and 230(6) Regulation 5800[Information Circular IC05-1, *Electronic Record Keeping*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic05-1.html)[Information Circular IC78-10, *Books and Records Retention/Destruction*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-10.html)
+
+#### Review and audit
+
+We do in-depth reviews or audits of partnership information returns that are filed, including all supporting records.
+
+Our officials are authorized to examine or audit partnership records. They will show you an official identification card before beginning a review. This protects the partnership and its partners from unauthorized people gaining access to confidential information. For more information on the audit process, see [Guide RC4188, *What You Should Know About Audits*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4188.html).
+
+If you want us to contact an independent representative (such as an accountant or lawyer) about the audit, you have to authorize us to do so.
+
+#### Notice of assessment
+
+We will issue a notice of assessment for the return only if we apply a penalty, or if an amount of tax is payable under section 197, Tax on SIFT Partnerships.
+
+### Filing a formal dispute
+
+If a partnership disagrees with an assessment or a determination, the authorized partner can object.
+
+Filing an objection is the first step in the formal process of resolving a dispute. The authorized partner has 90 days after the date of the notice of assessment or notice of determination to file an objection.
+
+The partner can file an objection by using one of the following options:
+
+- making an online submission through My Business Account or Represent a Client on the CRA web pages, and selecting "Register a formal dispute (Notice of Objection)" under "Partnerships"
+
+- sending a completed [Form T400A, *Notice of Objection – Income Tax Act*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t400a.html), or a signed letter to the chief of appeals at your appeals intake centre
+
+For more information about objections and appeals, see [Guide P148, *Resolving your dispute*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p148/p148-resolving-your-dispute-objection-appeal-rights-under-income-tax-act.html): Objection rights under the *Income Tax Act*, or go to [Service feedback, objections, appeals, disputes, and relief measures](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes.html).
+
+**References**Section 165 Subsection 165(1.15)
+
+### Amending your return
+
+If you find an error in any part of your return after filing it, or received information that should have been included in the return, send us your amended return via one of the following methods.
+
+#### Using tax preparation software and the electronic filing method
+
+Use your tax preparation software to make changes to your return (T5013 FIN, schedules, the T5013 slips and Form T5013 SUM). Save a new XML file and upload it to us through the My Business Account service for business owners through My Business Account (for service for business owners) or Represent a Client (for authorized representatives and employees) at [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+You can also upload your XML file through the Internet file transfer service. This service can be found on our website by going to [How to file](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview/filing-information-returns-electronically-t4-t5-other-types-returns-file.html).
+
+#### Filing on paper
+
+Send a letter explaining the changes along with an amended return.
+
+Enter all the data in the same way as on the original return except for the areas that you are changing. Answer "Yes" to line 040 on page 1 of the amended T5013 FIN, and tick (✓) the "Amended" box on the top right hand corner of all the amended T5013 schedules, other forms or documents you are submitting. If a form or document does not have an "Amended" box to tick, clearly print the word "AMENDED" at the top of the form or document.
+
+Send the amended return to:
+
+Prince Edward Island Tax Centre 275 Pope Rd Summerside PE C1N 6A2
+
+Do **not** adjust any current year forms for errors made in a previous year.
+
+If the error has an impact on the partnership's net income or loss for a previous year, amend the previous year's return and issue amended T5013 slips to the partners and the CRA. The partners should ask us to adjust their returns for the previous year. These types of errors can affect each partner's tax payable for the previous year.
+
+You must also send your amended slips in the same format as you sent your original slips (for example, if you sent your original slip electronically, you must send your amended slip electronically).
+
+If the amended or cancelled slips affect the partnership financial return, you must file an amended partnership financial return with your tax centre.
+
+#### Amending or cancelling slips electronically
+
+To amend a slip electronically, **only** change the information that is incorrect. Use summary report type code "A" and slip report type code "A."
+
+To cancel a slip, do not change any information that was contained on the original slip. Use summary report type code "A" and slip report type code "C."
+
+For more information on how to amend or cancel information returns electronically, go to [Filing Information Returns Electronically](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+#### Amending or cancelling slips by paper
+
+At the top of each slip, clearly write "AMENDED" or "CANCELLED." Fill in all the necessary boxes, including the information that was correct on the original slip. Send two copies of the slips to the recipient. Send one copy of the slips to your tax centre with a letter explaining why the slip was amended or cancelled.
+
+#### Adding slips electronically
+
+If after you filed your T5013 slips electronically, you find you have slips you did not file with your initial submission, send them to us electronically. For more information on adding slips electronically, go to [File information returns electronically (tax slips and summaries)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview/filing-information-returns-electronically-t4-t5-other-types-returns-file.html).
+
+Any additional T5013 slips you file after the due date may result in a late filing penalty.
+
+#### Adding slips on paper
+
+If you file additional slips on paper, clearly write "ADDITIONAL" at the top of each new slip. Send one copy to the recipient and one copy to your tax centre.
+
+If you file more than five T5013 slips (including any additional slips) for the same calendar year, you should file them electronically.
+
+If you file any additional T5013 slips after the due date, you may have to pay a late filing penalty.
+
+If the additional slips you filed have an impact on the partnership financial return, you must file an amended partnership financial return with your tax centre.
+
+### Replacement slips
+
+If you issue T5013 slips to replace copies that are lost or destroyed, clearly write "DUPLICATE" on them. Do **not** send duplicate slips to the CRA, but keep them for your records.
+
+### Amending, cancelling, or adding slips without a web access code
+
+You can amend, cancel, and file more slips (up to 150 MB for Internet file transfer, and up to 100 slips for Web Forms) using the "File a return" service at:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), if you are the business owner
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), if you are an authorized representative or employee
+
+## Chapter 4 – Due dates
+
+### Annual return
+
+The due date for filing an annual return (including distributing the T5013 slips) depends on the type of partners, including end members of a tiered partnership. You must mail the recipients' copies of the T5013 slips, deliver them in person, or send them electronically no later than the day you have to file the return.
+
+#### Due dates
+
+- **March 31**after the calendar year in which the fiscal period of the partnership ended if, throughout the fiscal period:
+
+    - all partners are individuals, including end members of tiered partnership, and investment clubs that file on the modified-partnership basis. We consider a **trust** to be an individual
+
+- **Five months after the end of the partnership's fiscal period**if, throughout the fiscal period:
+
+    - all partners are corporations, including end members of a tiered partnership
+
+- **In all other cases, the earlier of:**
+
+    - March 31 after the calendar year in which the fiscal period of the partnership ended
+
+    - the day that is five months after the end of the partnership's fiscal period
+
+The due date is five months after the end of the fiscal period.
+
+| Fiscal period end | Filing due date |
+
+| --- | --- |
+
+| March 31 | August 31 |
+
+| June 30 | November 30 |
+
+| September 23 | February 23 |
+
+| September 30 | February 28 |
+
+| October 2 | March 2 |
+
+**References** Section 249.1 Subsections 102(2) for subdivision j, and 237.1(7.1) Regulations 209 and 229(5)[Information Circular IC73-13, *Investment Clubs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic73-13.html)
+
+#### Final return
+
+If a partnership ends its operations on or before the usual end of its fiscal period, file any outstanding returns no later than the **earlier** of:
+
+- 90 days after the date the partnership ended all business or activity
+
+- the date the partnership would otherwise have had to file a return if it had not ended all business or activity
+
+**Reference** Regulation 229(6)
+
+NTC Systems is a partnership with six partners, all individuals. In the first fiscal period of the partnership an election was made to use a January 31 fiscal period end.
+
+Under ordinary circumstances, the partnership would have filed the return for the fiscal period ending on January 31, 2025 no later than March 31, 2026.
+
+However, on June 30, 2025, NTC Systems ended its business and the partnership ceased to exist. Since the partnership ended its business on June 30, 2025, it has two fiscal periods ending in the 2025 calendar year.
+
+As a result, NTC Systems has to file two returns, both due on September 28, 2025 (90 days after June 30, 2025):
+
+- one for the full fiscal period ending January 31, 2025
+
+- one for the short fiscal period from February 1 to June 30, 2025
+
+If a partnership ceases to exist, each partner who is an individual can elect to have a fiscal period end on the usual date, as if the partnership has not ended. However, the election is only for calculating the individual's income for the tax year and does not affect the due date of the return.
+
+This election **cannot** be made if the election under subsection 249.1(4) has been made to use an off-calendar fiscal period under the alternative method.
+
+If the partnership is a tax shelter and does not have to file a partnership return because it does not meet the filing criteria, and it files [Form T5003 SUM, *Tax Shelter Information Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5003.html), then the due date of the T5003 return is the earlier of:
+
+- on or before the last day of February of the following calendar year
+
+- 30 days after the day it discontinues its activities
+
+When a due date falls on a Saturday, Sunday, or public holiday recognized by the CRA, your information return is due on the next business day.For a list of public holidays, go to [Public holidays](https://www.canada.ca/en/revenue-agency/services/tax/public-holidays.html).
+
+**References** Subsections 99(2) and 237.1(7.2)
+
+**How to change the partnership's fiscal period end** – The partnership's fiscal period is the same from year to year unless you have received approval to change the fiscal period.
+
+To change an established fiscal period, write a letter to your tax services office asking for approval and explaining the reasons for the change. A partnership is not permitted to adopt a floating fiscal period. A fiscal period that ends on "the last Friday of December" is an example of a floating fiscal period. You do not need approval to change the fiscal period in some situations, including when the partnership has wound up and you are filing its final return with an abbreviated fiscal period.
+
+**References** Section 249.1(7) Paragraph 249.1(1)(d)
+
+### The CRA can determine the income or loss of the partnership
+
+We can determine the following:
+
+- any income or loss of the partnership for a fiscal period and any deduction or other amount, or
+
+- any other matter that is relevant in determining the income, taxable income, or taxable income earned in Canada, of any member of the partnership for any tax year, within **three years** after the day that is the later of:
+
+    - the day on or before which a member of the partnership is required to file an information return for a fiscal period of the partnership
+
+    - the day the return is filed
+
+**References** Subsections 152(1.4) and 152(1.7)
+
+#### Notice of determination
+
+Subsection 152(1.4) of the *Income Tax Act* allows the CRA, for a fiscal period of a partnership, to make a determination (which includes a redetermination) of any income, loss, deduction, or other amount in respect of the partnership. Where a determination is made, we issue a notice of determination to the partnership and to each person who was a member of the partnership during the fiscal period.
+
+A determination is not invalid just because one or more persons who were members of the partnership during the period did not receive the notice of determination.
+
+**References** Subsections 152(1.5) and 152(1.6)
+
+##### Partnership waivers
+
+The CRA **cannot** determine an amount if more than three years have passed since the deadline for filing the relevant partnership information return, or more than three years have passed since the day it is actually filed, whichever is later. However, where the CRA obtains a waiver from each partner, the time period for making a determination is extended. If one or more of the partners does not provide a waiver, and, as a result, the period cannot be extended, a determination will need to be made by the CRA using only the information that is available to us at that time. The provision of a waiver is at the discretion of the taxpayer.
+
+There are circumstances under which it is better for both the CRA and the partners of a partnership to waive the three-year time limit. Obtaining the required waivers from all members of the partnership can be difficult; therefore, a single partner may be designated to file the waiver on behalf of all the partners.
+
+### Date when we consider the partnership information return to be filed
+
+If you file electronically, we will consider the T5013 return to be filed on the date that you successfully submit the return electronically to the CRA. The CRA will provide you with a confirmation number as proof that your return was filed.
+
+If you mail a paper return, we will consider it to be filed on the date the envelope is postmarked.
+
+If you deliver the return to our secure drop-off box at your tax services office or tax centre, we will consider it to be filed on the day you delivered it.
+
+You will be liable for a penalty under subsection 162(7.1) if you file a return late. See [Late filing](#late).
+
+### Date when we consider income tax, penalty, and interest payments to be effective
+
+Where the partnership has to pay income tax, penalty or interest, we consider any payment to have been made on the day we receive it, and not on the day you mail it.
+
+Your payment due date may fall on a Saturday, a Sunday, or a statutory holiday. If so, we will consider the payment as being received on time if we receive it on the first business day after the due date. For more information on the statutory holidays, go to [Public holidays](https://www.canada.ca/en/revenue-agency/services/tax/public-holidays.html).
+
+### Due dates for publicly traded partnerships to post their financial information on the CDS Innovations Inc. website
+
+A public partnership or a public investment partnership is required to make information available with respect to allocations of income, losses, and capital so that the return can be prepared on a timely basis.
+
+This information is to be made available by posting it by the **due date** (explained below) on the website of CDS Innovations Inc., a subsidiary of the Canada Depository for Canadian Securities Limited. Partnerships that require access to the website's upload facility in this respect should send a request by email to **cdsinnovations@cds.ca**.
+
+Each member of the partnership is responsible to make public the partnership's financial information on the CDS Innovations Inc. website. Once an authorized partner has made the required information public, we consider all partners to have fulfilled their obligation to do so.
+
+Note that this reporting requirement is separate from and does not replace the CRA's filing requirements and due date for the return.
+
+The **due date** for posting the required information is as follows:
+
+- in the case of a public partnership that **is not**a public investment partnership at any time in the fiscal period, the day that is the earlier of:
+
+    - 60 days after the end of the calendar year in which the fiscal period ends
+
+    - four months after the end of the fiscal period
+
+- in the case of a public partnership that **is** a public investment partnership at any time in the fiscal period, the day that is 67 days after the end of the calendar year in which the fiscal period ends
+
+These partnerships are also required to notify the CRA of the date their tax information was posted on the CDS Innovations Inc. website by emailing the notification to **PUBTRFOG@cra-arc.gc.ca**.
+
+**Reference**Regulation 229.1
+
+## Chapter 5 – Penalties
+
+### Late filing
+
+**Partnership** – If a T5013 partnership information return, or any part of it, is filed late, the partnership is subject to a penalty for each failure to file on time. We consider the return filed on time if we receive it or it is postmarked on or before the due date. The penalty is $25 per day, from a minimum of $100 to a maximum of $2,500.
+
+**Partners and partnership** – Every partner (including a nominee or agent who holds an interest in the partnership for another person) or partnership who fails to file an information return as and when required by the Act or the Regulations or fails to comply with a duty or obligation imposed by the Act or the Regulations (including distributing any slips late to the recipients) is liable to a penalty for each failure. Generally, the penalty for each failure is $25 per day, with a minimum penalty of $100 and a maximum of $2,500.
+
+The partnership may also be subject to a penalty for failure to file the respective information return reporting foreign property, foreign affiliates, non-arm's length transactions with non-residents or distributions from and indebtedness to a non-resident trust.
+
+**References**Subsections 162(7), 162(7.1), 162(10), 162(10.1), 233.1(3), 233.3(3), 233.4(4), and 233.6(1)Regulations 209(1), 229(1), (2), and (3)[Form T106, *Information Return of Non-Arm's Length Transactions with Non-Residents*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t106.html)[Form T1134, *Information Return Relating to Controlled and Non-Controlled Foreign Affiliates*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1134.html)[Form T1135, *Foreign Income Verification Statement*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1135.html)[Form T1141, *Information Return in Respect of Contributions to Non-Resident Trusts, Arrangements or Entities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1141.html)[Form T1142, *Information Return in Respect of Distributions from and Indebtedness to a Non-Resident Trust*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1142.html)
+
+#### Late-filing penalty under subsections 66(12.74) and 66(12.75)
+
+**Partnership**– If you file the[T5013 SCH 52](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch52.html)late, the partnership is subject to penalties from $100 up to $30,000. The partnership must pay this penalty when filing the return. Calculate this penalty on the T5013 SCH 52, and send your cheque payable to the Receiver General for Canada with your return.
+
+**References**Subsections 66(12.69), 66(12.691), 66(12.74), and 66(12.75)
+
+### Repeated failure to file
+
+**Partnership**–You are liable for an additional penalty of $100 for each member, multiplied by the number of months or part months (to a maximum of 24 months) during which the return is not filed. This additional penalty will apply if all of the following conditions are met:
+
+- We have already assessed the partnership a penalty for failing to file a partnership information return for that fiscal period
+
+- We have formally demanded the return (or information required to be contained in the return) from a partner for that fiscal period
+
+- We have assessed the partnership a penalty for failing to file a partnership information return in any of the three preceding fiscal periods
+
+**References** Section 233 Subsections 162(7.1) and 162(8)
+
+### Offences and punishment
+
+**Partners (including a tax shelter promoter)**– If no member files a return as required under the Act or the Regulations, each partner may be guilty of an offence. If convicted, in addition to any other penalty, each partner could be liable to one of the following:
+
+- a fine from $1,000 up to $25,000
+
+- a fine from $1,000 up to $25,000 and imprisonment up to 12 months
+
+Given that there are specific penalty provisions under the mandatory disclosure rules (MDR) that apply to reportable or notifiable transactions, the general penalty provision under subsection 238(1) for failure to file an information return is removed for these transactions. This is deemed to have come into force on June 22, 2023, which is the coming into force date of the specific penalty provisions under the MDR.
+
+**Reference** Subsection 238(1)
+
+### Failure to provide social insurance numbers (SINs), business numbers (BNs), or other information
+
+The partnership is liable for penalties for each failure if information required to be provided on a form is missing. Penalties for failing to give SINs, BNs, and other information also apply to the partners.
+
+**Partnership**– Anyone who prepares a partnership return, or any other information return, has to make a reasonable effort to get the necessary information, including identification numbers from the individuals, corporations, trusts or partnerships resident in Canada who will receive the T5013 slips.
+
+If you do not do this, the partnership and each partner may be subject to a $100 penalty for each failure. The penalty does not apply if an individual has applied for, but has not yet received, a SIN when the partnership files the information return.
+
+We may ask to see documents to prove you made a reasonable effort to get the identification numbers. Therefore, you should keep any documents to prove you made a reasonable effort to get your investors' SIN (for example, using registered mail). When you send a request by mail, you should keep a record of the date of the request, an example of the request form, and the names of the people you contacted.
+
+**Partners**– Persons or partnerships have to give their identification number on request to anyone who has to prepare a slip for them. A person or partnership that does not comply with this requirement is subject to a $100 penalty for each failure.
+
+A person or partnership that does not have an identification number has 15 days from the date of receipt of an information request to apply for one. After receiving the identification number, the person or partnership has 15 days to provide it to the person who is preparing the slips.
+
+An individual who does not have a SIN can apply for one at any Service Canada Centre. For more information, visit their website at [Service Canada](https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada.html).
+
+**Social insurance number (SIN)**, **individual tax number (ITN)**, or **temporary tax number (TTN)** –Individuals need to provide a SIN, an ITN, or a TTN. If the individual is a partner that does not have a SIN but provides a TTN, use that. If the individual partner is a non-resident and is not eligible to get a SIN, the partner should apply for an ITN using [Form T1261, *Application for a Canada Revenue Agency Individual Tax Number (ITN) for Non-Residents*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1261.html).
+
+An individual under 18 years of age at the end of the tax year to which the information return relates does not need to provide a SIN if that individual's total income for the year is expected to be $2,500 or less.
+
+**References** Subsections 162(5), 162(6), 237(1), 237(1.1), and 237(2)[Information Circular IC82-2, *Social Insurance Number Legislation that Relates to the Preparation of Information Slips*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic82-2.html)
+
+### Using an identification number
+
+If you have to prepare a return (or if you are an officer, employee, or agent of someone who does), and to do so you have to get an identification number from each member of the partnership, you may use an identification number only for the purpose for which it was provided to you, or for the purposes required or authorized by law.
+
+The Act protects the use of identification numbers. If you do not have the written consent of the person or partnership, you cannot do the following:
+
+- knowingly use or communicate their identification number
+
+- knowingly allow it to be communicated
+
+If you are convicted of using an identification number for unauthorized purposes, you are liable to one of the following:
+
+- a fine up to $5,000
+
+- imprisonment up to 12 months
+
+- a fine **and** imprisonment
+
+**Reference**Subsection 239(2.3)
+
+### Penalties applicable to tax shelters
+
+#### False or misleading information
+
+Every person who:
+
+- files false or misleading information on [Form T5001, *Application for Tax Shelter Identification Number and Undertaking to Keep Books and Records*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5001.html)
+
+- as a principal or as an agent or nominee sells, issues, or accepts consideration for an interest in a tax shelter (including a gifting arrangement) before the minister of national revenue has issued an identification number
+
+- is liable to a penalty that is the greater of:
+
+    - $500
+
+    - 25% of the greater of:
+
+          - the total of all amounts, each of which is the consideration received or receivable from a person for the tax shelter before the correct information is filed with the minister or the identification number is issued, as the case may be
+
+          - the total of all amounts, each of which is an amount stated or represented to be the value of property that a particular person who acquires or invests in the tax shelter could donate to a qualified donee, if the tax shelter is a gifting arrangement and consideration has been received or is receivable from the particular person for the tax shelter before the correct information is filed with the minister or the identification number is issued, as the case may be
+
+**Reference** Subsection 237.1(7.4)
+
+#### Failure to file an information return or report required information
+
+Given that there are a specific penalty provisions under the mandatory disclosure rules (MDR) that apply to reportable or notifiable transactions, the general penalty provision under subsection 238(1) for failure to file an information return is removed for these transactions. This is deemed to have come into force on June 22, 2023, which is the coming into force date of the specific penalty provisions under the MDR.
+
+Every person who is required to file an information return and who fails to comply with a demand under section 233 to file the return, or to report required information, is liable to a penalty equal to 25% of the greater of:
+
+- the total of all amounts each of which is the consideration received or receivable by the person for the tax shelter from a particular person for whom information required had not been reported at or before the time that the demand was issued or the return was filed, as the case may be
+
+- if the tax shelter is a gifting arrangement, the total of all amounts each of which is an amount stated or represented to be the value of property that the particular person could donate to a qualified donee
+
+**Reference** Subsection 237.1(7.5)
+
+#### Failure to provide the tax shelter identification number
+
+We may assess a penalty of $100 for each failure if the tax shelter identification number is missing on a form.
+
+**References** Subsections 162(5) and 237.1(5)
+
+#### If you provide an incorrect tax shelter identification number
+
+If you willfully give an incorrect tax shelter identification number, and are convicted of the offence, you are liable to one of the following:
+
+- a fine from 100% up to 200% of the cost of the tax shelter interest
+
+- imprisonment up to two years
+
+- a fine **and** imprisonment
+
+This fine is in addition to any other penalty we assess.
+
+**Reference** Subsection 239(2.1)
+
+### Misrepresentation of a tax matter by a third party
+
+We will charge a penalty to those persons who counsel and assist others in making false statements when they file their returns, or who are willfully blind to obvious "errors" when preparing, filing, or assisting another person in filing a return. This penalty will also be applied to arrangements and plans which contain false statements.
+
+**References**[Information Circular IC01-1, *Third-Party Civil Penalties*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic01-1.html) Section 163.2
+
+### Interest on penalties
+
+We charge interest compounded daily at a fixed rate set out by the Act on the total outstanding amount of penalties and interest. Both interest and penalties are payable to the receiver general.
+
+**Reference**Subsection 161(11)
+
+## Chapter 6 – Determining the net income or loss of the partnership and partners
+
+A partnership that is required to file a partnership information return, as [described](#must_file), has to:
+
+- prepare its financial statements and calculate its income or loss using the International Financial Reporting Standards (IFRS) or the Accounting Standards for Private Enterprise (ASPE), whichever applies
+
+Although the CRA does not specify that financial statements must be prepared following any particular type of accounting principles or standards, the Canadian Accounting Standards Board (AcSB) requires that publicly accountable enterprises (PAEs) use IFRS in the preparation of all interim and annual financial statements.
+
+For the first year, when IFRS is adopted, partnerships have to keep additional documentation to support amounts filed on the General Index of Financial Information (GIFI) and information returns.
+
+For more information on IFRS books and records and other IFRS topics, go to [International Financial Reporting Standards (IFRS)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/international-financial-reporting-standards-ifrs.html).
+
+- prepare its [T5013 FIN, *Partnership Financial Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013fin.html)
+
+- reconcile its income or loss for income tax purposes according to the Act and Regulations using the [T5013 SCH 1, *Net Income (Loss) for Income Tax Purposes*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch1.html), to determine the incomes and losses that the partnership can allocate to the partners
+
+- prepare the appropriate T5013 schedules and forms that apply
+
+- prepare its [T5013 SUM, *Summary of Partnership Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sum.html), which summarizes all the amounts allocated to the partners
+
+- prepare the [T5013, *Statement of Partnership Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html) slips for the partners
+
+**Reference**[Form T1139, *Reconciliation of Business Income for Tax Purposes*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1139.html)
+
+### Calculating the partnership's income or loss
+
+#### Partnership income
+
+Under the Act, we generally consider a partnership to be a flow-through entity. Calculate the partnership's income or loss as though the partnership is a separate entity, and flow the income or loss out of the partnership to the partners.
+
+#### Net income or loss for income tax purposes
+
+Use the T5013 SCH 1 to reconcile the difference between the partnership's net income or loss reported on the financial statements and its net income or loss for income tax purposes. For more information on how to calculate net income or loss for income tax purposes, see [T5013 SCH 1, *Net Income (Loss) for Income Tax Purposes*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch1.html).
+
+#### Business and non-business activities
+
+The partnership can have a rental income or loss from a business or from property (a non-business activity). For more information on the difference between business and non-business rental activities, see [Interpretation Bulletin IT-434, *Rental of Real Property by Individual*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it434r.html), and its Special Release.
+
+In this guide, when we discuss business income or loss, we include rental income or loss from a business activity. When we discuss rental income or loss, we refer to the non-business rental income or loss from property.
+
+#### Income sources
+
+The partnership can have income from more than one source, such as business, professional, commission, farming, fishing, rental, and investment. Calculate the income or loss from each source separately, on a working paper as follows:
+
+- Calculate the partnership's net income or loss for accounting purposes by preparing the financial statements
+
+- Apply the general rules of subsection 96(1) to calculate the net income or loss for income tax purposes
+
+- Allocate the resulting net income or loss for income tax purposes to the partners by completing the slips for the partners
+
+When the partnership allocates income and losses to the partners, the income or losses keep their source identity. For example, dividend income a partnership earned is the partner's dividend income.
+
+#### Tax shelter investment
+
+When an interest in the partnership is a tax shelter investment, the partnership's expenditures may be reduced by the limited-recourse amounts that relate to the expenditures and by certain other amounts. For a partnership, a limited-recourse amount includes any financing for which recourse against any member of the partnership is limited, either immediately or in the future and either absolutely or contingently. Where a partnership has a tax shelter investment, that expenditure may also be reduced by the limited-recourse amounts that relate to that expenditure and by certain other amounts. A tax shelter investment is defined in subsection 143.2(1).
+
+**References** Subsections 143.2(1), 143.2(6), and 143.2(8)
+
+#### Income from foreign sources
+
+If the partnership earned income or realized capital gains from foreign property during the fiscal period, report these amounts on your return.
+
+Unless the partnership is required to report using a functional currency, convert the foreign income earned by the partnership into **Canadian dollars** using the exchange rate in effect at the time of the transaction. If the transactions occurred at various times throughout the year, use an average exchange rate for the year.
+
+For capital transactions, you have to use the exchange rate in effect at the time of the transaction.
+
+**Reference**[Interpretation Bulletin IT-95, *Foreign Exchange Gains and Losses*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it95r.html)
+
+#### Business investment loss
+
+A business investment loss is a capital loss from the actual or deemed disposition of certain capital properties.
+
+It can arise from the partnership's arm's length dealings with a person on the disposition or deemed disposition of:
+
+- a small business corporation's share
+
+- a debt that a small business corporation owes to the partnership
+
+A business investment loss can also occur from the deemed disposition resulting from an election under subsection 50(1) for:
+
+- a debt that a small business corporation owes to the partnership that is considered to be a bad debt at the end of the year, other than a debt from the sale of personal-use property
+
+- a share of a small business corporation owned by the partnership at the end of the year (other than a share it received as consideration from the disposition of personal-use property) where the corporation is in one of the following scenarios:
+
+    - It has become bankrupt in the year
+
+    - It is insolvent, and a winding-up order exists under the Winding Up and Restructuring Act and the order has been made in the year
+
+    - It is, at the end of the year, insolvent and neither the corporation nor a corporation it controls carries on business. Also, at the end of the year, the fair market value of the share is nil, and it is reasonable to expect that the corporation will be dissolved or wound up and will not commence to carry on business
+
+Calculate the business investment loss in a separate working sheet and report the partner's share in box 137 of the T5013 slip.
+
+Generally, the allowable loss is 50% of the actual loss. The allowable part of the loss is called an allowable business investment loss (ABIL).
+
+A partner can deduct an ABIL against any other source of income for the year.
+
+If the ABIL is more than the partner's other income for the year, we consider that the excess is a non-capitalloss, which the partner can carry back 3 years and forward 10 years.
+
+If the partner cannot use all the non-capital loss that resulted from an ABIL against other income by the end of the 10-year carry-forward period, the unapplied non-capital loss that resulted from an ABIL becomes a net capital loss. As a net capital loss, the partner can carry it forward indefinitely, but can only apply it against taxable capital gains. For more information, see [Guide T4037, *Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html).
+
+**References** Subsections 50(1) and 111(1)[Guide T4037,*Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html)[Income Tax Folio S4-F8-C1, *Business Investment Losses*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-8-losses/income-tax-folio-s4-f8-c1-business-investment-losses.html)
+
+#### Capital cost allowance (CCA)
+
+For the definition of CCA and other CCA information, see [T5013 SCH 8,*Capital Cost Allowance (CCA)*](#P30091_3652).
+
+The partnership can deduct CCA on the depreciable property it owns, to the extent allowed under the Regulations. The partnership can deduct CCA up to the maximum available for the fiscal period, or it can deduct none at all. Generally, if a fiscal period is less than 12 months, you have to prorate the deduction based on the number of days in the fiscal period.
+
+If the partnership's activities include a rental operation, some restrictions apply to the amount of CCA the partnership can claim for the rental assets. For more information, see [Restriction on rental buildings](#P3048_18627).
+
+**References**[Income Tax Folio S3-F4-C1, *General Discussion of Capital Cost Allowance*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plans-folio-4-capital-cost-allowance/income-tax-folio-s3-f4-c1-general-discussion-capital-cost-allowance.html)[Interpretation Bulletin IT-79, *Capital Cost Allowance – Buildings or Other Structures*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it79r3.html)[Income Tax Folio S4-F15-C1, *Manufacturing and Processing*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-15-manufacturing-research-development/income-tax-folio.html)[Interpretation Bulletin IT-195, *Rental Property – Capital Cost Allowance Restrictions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it195r4.html)[Interpretation Bulletin IT-274, *Rental Properties – Capital Cost of $50,000 or More*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it274r.html)[Interpretation Bulletin IT-371, *Rental property – Meaning of "Principal Business"*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it371.html)
+
+#### Scientific research and experimental development (SR&ED)
+
+**Expenditures** – Subsection 96(1) has special rules that apply when a partnership has incurred SR&ED expenditures in a fiscal period. Under this subsection, the partnership deducts the full amount of SR&ED expenses in the year they were incurred.
+
+For more information on SR&ED, go to [Scientific Research and Experimental Development Tax Incentive Program](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html).
+
+**References** Paragraphs 96(1)(e.1) and (g)SR&ED Program forms and publications
+
+**Investment tax credit recapture** – If, during the tax year, the partnership sold or converted to commercial use a capital asset or a shared-use-equipment for which the members of the partnership had previously claimed an SR&ED investment tax credit (ITC), there may be an SR&ED ITC recapture of some or all of the ITC.
+
+The members of the partnership may have claimed ITCs on materials that were transformed in a product or a property. If that product or property is sold or converted to commercial use during the year, there may also be an SR&ED ITC recapture of some or all of the ITC.
+
+Recapture occurs when all the following conditions are met. The partnership:
+
+- acquired a particular property in the current year or in any of the 20 previous tax years, if the credit was earned in a tax year ending after 1997 and did not expire before 2008
+
+- claimed the cost or a portion of the cost of the property as a qualified expenditure for SR&ED on [Form T661, *Scientific Research and Experimental Development (SR&ED) Expenditures Claim*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t661.html)
+
+- included the cost or a portion of the cost of the property in computing the ITC at the end of a fiscal period
+
+- disposed of or converted the property to commercial use in the fiscal period. This condition is also met if the partnership disposed of, or converted to commercial use, a property that incorporated the property mentioned above
+
+If the partnership meets all of the above conditions, the amount of ITC the partnership has to recapture is the **lesser**of:
+
+- the ITC earned for the property
+
+- the amount calculated by applying the percentage used in calculating the ITC earned on the property to one of the following:
+
+    - the proceeds of disposition of the property if you disposed of it to a person with whom you deal **at arm's length**
+
+    - the fair market value of the property if you disposed of it to a person with whom you do **not** deal at arm's length
+
+Calculate the recapture for the fiscal period during which the property is disposed of or converted to commercial use. Deduct the ITC recapture from the ITC otherwise available to the partnership.
+
+If the partnership does not have enough ITC available to offset the recapture, partners have to add their share of the excess to the amount of Part I Tax calculated on their income tax return for the year. The partners should include their share of the excess ITC recapture amount on the corresponding line of the "Recapture of ITC on SR&ED expenditures" section of Part C on [Form T2038(IND), *Investment Tax Credit (Individuals)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2038-ind.html), or Part 16 of the [T2 SCH 31, *Investment Tax Credit – Corporations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch31.html), whichever applies.
+
+The excess is added to the partnership's pool of deductible SR&ED expenditures for the next fiscal period.
+
+**References** Subsections 13(21), 37(1), 127(27), (28), (30), and (35)[Recapture of SR&ED Investment Tax Credit Policy at Investment tax credit policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/recapture-investment-tax-credit-policy.html)
+
+#### Royalty payments to a third party
+
+The partnership may pay royalties to a third party. In this case, the partnership has to report the royalty payments on [Form T5, *Statement of Investment Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5.html).
+
+#### Contract payments to a third party
+
+If your partnership has construction as its primary business activity and you make payments to subcontractors for construction services, the partnership has to report the contract payments on [Form T5018, *Statement of Contract Payments*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5018.html).
+
+### Allocating the income or loss to partners
+
+Partnerships usually allocate income, gains, losses, deductions, credits, and other amounts among the partners according to the terms of the formal partnership agreement. If there is no written agreement for this allocation, under provincial or territorial laws, partners may be entitled to share equally in the capital and profits of the business. However, under subsection 103(1) or (1.1), we can revise a partner's share of the income or loss of the partnership to an amount that is reasonable in the circumstances.
+
+**Current members of a partnership**– Generally, a partnership's net income and loss, adjusted for income tax purposes, flows through to the partners. However, various provisions of the Act can affect the amounts allocated to partners, depending on whether the partner is a **general partner**, **limited partner**, or **specified member**.
+
+**Retired partners** – If a retired partner or a former member of the partnership is considered to be a member of the partnership under subsection 96(1.1) or 96(1.01), and receives a share of the partnership's income or loss, prepare a T5013 slip for that partner. As of January 1, 2017, new partner code "6" was implemented for a retired member paid under subsection 96(1.1), at box 002 of the [T5013 slip](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html).
+
+**References** Subsections 96(1.01), 96(1.1), 103(1), and 103(1.1)[Interpretation Bulletin IT-242, *Retired Partners*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it242r.html)[Interpretation Bulletin IT-278, *Death of a Partner or of a Retired Partner*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it278r2.html)
+
+#### Losses
+
+**General partner**– When general partners calculate their net income on their personal, corporate, or trust returns, they can deduct losses in the fiscal period to which they relate. If there is any excess, partners can usually include it in the calculation of their non-capital loss for the tax year.
+
+The partner's non-capital losses can be carried back three years and forward for 20 years.
+
+**Reference** Paragraph 111(1)(a)
+
+**Limited partner**–Each limited partner can deduct, on its income tax return, its share of the partnership's loss from a business (other than a farming business) or property only up to the maximum of its at-risk amount (ARA) at the end of the partnership's fiscal period, reduced by any ITC, farming losses and resource expenses the partnership allocated to the limited partner for that fiscal period. The residual amount becomes that limited partner's limited partnership loss (LPL) which the limited partner can carry forward indefinitely and deduct in a later year to the extent the limited partner has a positive ARA for the partnership after deducting the amounts specified under subparagraph 111(1)(e)(ii).
+
+For tax years that end after February 26, 2018, the at-risk rules have been clarified to:
+
+- also apply to a partnership that is itself a limited partner of another partnership, and
+
+- adjust a taxpayer's available non-capital loss and limited partnership loss carry-forward balances, as if these rules applied in the preceding years
+
+A partnership that is itself a limited partner of another partnership will not be able to flow the residual amount of those losses up to its own members and cannot carry it forward. However, the fact that the residual amount of those losses cannot be claimed is reflected in the adjusted cost base of the partnership interest.
+
+The at-risk rules do**not** restrict farming losses that a partnership incurs and allocates to limited partners.
+
+**References** Subsection 96(2.1) Paragraph 111(1)(e)
+
+#### Restricted farm losses
+
+Each partner, including the limited partner, may have to restrict a farm loss under section 31. If the partnership has a loss from a farming business, the rules on restricted farm losses apply to each partner, not to the partnership. Use box 124 of the T5013 slip to allocate farming income and losses to partners that are not limited partners.
+
+**Limited partners** – Use box 101 of the [T5013 slip](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html) to allocate farming income and losses to limited partners.
+
+**Reference** Section 31
+
+#### Scientific research and experimental development (SR&ED)
+
+**Limited partners** – You cannot allocate to a limited partner a loss that has been created or increased by SR&EDexpenses. When you calculate the amount of the loss for income tax purposes to allocate to the limited partners, reduce the loss by the amount of the SR&ED expenses deducted, or by the amount of the loss, whichever amount is **less**. This applies to SR&ED expenses incurred inside or outside Canada.
+
+Biz Partnership has one limited partner. Its net income for the fiscal period ending December 31, 2025, was $30,000 before deducting SR&ED expenses of $45,000.
+
+**Calculating the partnership's business loss and the business loss to be allocated to the limited partner**
+
+Net partnership income before deducting SR&ED expenses
+
+**Minus:** SR&ED expenses
+
+Partnership net loss for the period
+
+Reduced by the **lesser** of:
+
+SR&ED expenses
+
+Net loss
+
+**Business loss to be allocated to the limited partner** (box 104)
+
+The loss that **cannot be** allocated to the limited partners:
+
+- is **not** allowed to other partners
+
+- does **not** become a limited partnership loss
+
+- does **not** become a non-capital loss
+
+- does **not** affect the adjusted cost base of the limited partner's interest in the partnership
+
+If your partnership has incurred expenditures during the fiscal period for SR&ED carried on in Canada, the partnership should file [Form T661, *Scientific Research and Experimental Development (SR&ED) Expenditures Claim*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t661.html). To facilitate processing, file Form T661 with the partnership information return and attach the completed Form T661 and its related schedules to the front of the return for that fiscal period. You can file your Form T661 electronically. Form T661 should be filed **no later than** 12 months after the earliest of all filing due dates for the return of income of the members for the tax year in which the partnership's fiscal period ends, so that each member would then be able to meet their deadline to claim the SR&ED investment tax credit allocated to them.
+
+**References**[Eligibility of Work for SR&ED Investment Tax Credits Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-policies-guidelines/guidelines-eligibility-work-sred-tax-incentives.html)[SR&ED Claims for Partnerships Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/claims-partnerships-policy.html)
+
+## Chapter 7 – T5013 FIN, Partnership Financial Return
+
+[T5013 FIN, *Partnership Financial Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013fin.html), is the first part of the partnership information return. It provides information about the partnership's operations for the fiscal period.
+
+As well, it includes a checklist of forms and schedules that you need to attach to the T5013 FIN.
+
+Following the implementation of capital cost allowance (CCA) class 14.1, special transitional rule calculations do **not** have to be filed with the T5013 return. You should keep them with your records in case we ask for them at a later date. Elections should be filed as instructed at [Line 275](#line_275).
+
+Full disclosure is required pertaining to all documents relating to the partnership information return. All the information requested on the [T5013 FIN](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013fin.html), [Form T5013 SUM](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sum.html), the T5013 schedules, the [T5013 slips](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html), and in the documents supporting your return is **prescribed information**.
+
+### Filling out the T5013 FIN, Partnership Financial Return
+
+##### Partnership name and operating or trading name
+
+Enter the partnership's name exactly as per registration and the partnership's full operating/trading name. **Do not** use abbreviations and ensure the punctuation is correct.
+
+##### Address areas
+
+If your address has changed since you last filed a return and you want to file your return electronically, make sure you update your address with us before sending the T5013 FIN, T5013 SUM, all schedules, and slips.
+
+You can change any of your addresses using one of the following methods:
+
+**Online**– Owners can change the mailing, head office, and books and records address of their business by using the "Manage addresses" service in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html). Authorized representatives can also access the same service through [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html).
+
+**By mail or fax** – Send your request by mail or by fax to your tax centre. Include the following information:
+
+- an authorized partner's signature
+
+- your business number (BN)
+
+- your new address
+
+- the effective date of the change
+
+For more information on how to change your addresses, go to [Change a business address](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-address.html).
+
+##### Location of the partnership head office
+
+###### Has this location changed since the last time you filed a partnership information return?
+
+Tick (✓) the Yes or No box. If you answer **yes**, provide the complete address of the new location of your head office including the street number, street, city, province, territory or state, country, and postal code or zip code.
+
+See [Appendix A – *Canadian province or territory, and U.S. state, territory, or possession codes*](#Appendix_A), and [Appendix B – *Country codes*](#Appendix_B).
+
+If this is the first fiscal period for which you are filing, you must answer **yes** and fill out the applicable areas.
+
+###### Mailing address of the partnership (if different from the head office address)
+
+Fill out this area only if your mailing address is different from your head office address.
+
+###### Location of the partnership's books and records (if different from the head office address)
+
+Fill out this area only if the location of books and records is different from your head office address.
+
+###### Has this location changed since the last time you filed a partnership information return?
+
+Tick (✓) the Yes or No box. If you answer **yes**, provide the complete address of the new physical location of your books and records, including the street number, street, city, province, territory or state, country, and postal code or zip code.
+
+See [Appendix A – *Canadian province or territory, and U.S. state, territory, or possession codes*](#Appendix_A), and [Appendix B – *Country codes*](#Appendix_B).
+
+If this is the first fiscal period for which you are filing, you must answer **yes**, and fill out the applicable areas if the physical location of books and records is different from your head office address.
+
+##### Line 040 – Is this an amended return?
+
+If this is an amended return, tick (✓) the Yes box and attach a note to explain the changes you made. If you file your return electronically, send the notes to your tax centre to explain the changes.
+
+##### Lines 060 and 061 – Fiscal period to which this information return applies
+
+Enter the fiscal period start **and** end dates. Enter four digits for the year, two digits for the month and two digits for the day. See the example below.
+
+Fiscal period starting on May 1, 2025, and ending on April 30, 2026:
+
+**060** **Fiscal period start**
+
+Year Month Day
+
+|2|0|2|5|0|5|0|1|
+
+**061** **Fiscal period end***
+
+Year Month Day
+
+|2|0|2|6|0|4|3|0|
+
+A partnership's fiscal period cannot be more than 12 months in length. Generally, the partnership's fiscal period is the same from year to year unless you have received approval to change the fiscal period. For more information, see [How to change the partnership's fiscal period end](#chng_fiscl_prd)
+
+You do not need our approval for a short fiscal period when the partnership ceases to exist. However, it does affect the due date of the partnership information return. If this is the case, enter the date of dissolution for the fiscal period end. For more information, see [Definitions](#definition).
+
+**Reference**[Interpretation Bulletin IT-364, *Commencement of Business Operations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it364.html)
+
+###### Line 062 – The end members of this partnership are (tick the applicable boxes)
+
+As explained in the section called [Chapter 4 – Due dates](#chptr4_dts), the due date for filing the return depends on the type of partners, including end members.
+
+Tick (✓) the Individuals (including trusts) box, if all partners, including end members, are:
+
+- individuals
+
+- trusts
+
+- a combination of both individuals and trusts
+
+Tick (✓) theCorporationsbox, if all partners, including end members, are corporations.
+
+Tick (✓) both boxes if all partners, including end members, are a combination of individuals (including trusts) and corporations.
+
+If you provide inaccurate information in this section, it may cause a change to your filing due date, which then may result in the application of, or a change to, a late-filing penalty as described in the [Late filing](#lt_flng) section.
+
+###### Lines 070 and 071 – Is this the first year of filing?
+
+If this is your **first year** of filing, tick (✓) the Yes box and enter the date the partnership was created on line 071. Enter four digits for the year, two digits for the month and two digits for the day.
+
+###### Line 073 – Number of T5013 slips
+
+Enter the number of T5013 slips issued to partners or investors for the fiscal period.
+
+You do not have to issue a T5013 slip if there is no income, loss or other amount that has to be allocated to partners. In this case, enter 0 on line 073. You will need to inform the partners that you will not be issuing any slips.
+
+You do not have to issue a T5013 slip if there is no allocation to a particular partner. You will need to inform that partner that you will not be issuing a T5013 slip. For example, the partnership has five partners and one partner is a retired partner that has an income interest pursuant to subsection 96(1.1) where only income is allocated and not losses. If the partnership has only losses in that particular year, the retired partner will not have any allocation and therefore a T5013 slip is not required. You will need to enter 4 on line 073 but include all five partners on the [T5013 SCH 50](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch50.html).
+
+##### Line 078 – Is this the partnership's final information return up to dissolution?
+
+Tick (✓) the Yes or No box.
+
+You have to answer **yes** if you are filing your final information return for a fiscal period ending on the date of dissolution. Enter this date for the fiscal period end on line 061.
+
+##### Line 079 – If an election was made under section 261 by one or more partners, state the functional currency used for this return
+
+Only partnerships whose corporate members have made the election will be affected by this.
+
+If the financial information for the fiscal period is recorded in a functional currency, enter the functional currency used on line 079. For more information, see [Functional currency reporting – Election under section 261](#fnctnl_crrncy_rprtng).
+
+##### Line 082 – Was the partnership a Canadian partnership throughout the fiscal period?
+
+Tick (✓) the Yes or No box.
+
+##### Line 086 – Type of partnership at the end of the fiscal period
+
+Tick (✓) the box that describes the partnership type at the end of the fiscal period. The partnership type determines whether or not the partnership's members or investors are entitled to certain allocations and deductions.
+
+Partnerships that are **not tax shelters:**
+
+**01** General partnership**02** Limited partnership**03** Limited liability partnership**08** Investment Club
+
+Partnerships that **are tax shelters:**
+
+**﻿11** General partnership**12** Limited partnership**13** Co-ownership**19** Other (specify below)
+
+Co-ownership in and of itself may not necessarily constitute a partnership. See [Income Tax Folio S4-F16-C1,*What Is a Partnership*?](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-16-partnerships/income-tax-folio-s4-f16-c1-what-a-partnership.html)
+
+###### Line 087 – If the partnership is a tax shelter (TS), enter the TS identification number
+
+If the partnership is a tax shelter, enter the six digits of the tax shelter identification number. For more information about this number, see [The tax shelter identification number](#tax_shelterid).
+
+#### Page 2
+
+##### Required documents to attach to the T5013 FIN, Partnership Financial Return
+
+The partnership must provide the following with the partnership financial return:
+
+- Form [T5013 SUM](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sum.html) and a copy of each [T5013 slip](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html) issued to partners and nominees or agents
+
+- GIFIschedules: [T5013 SCH 100](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch100.html),[T5013 SCH 125](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch125.html), T5013 SCH 140 and [T5013 SCH 141](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch141.html)
+
+- schedules [T5013 SCH 1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch1.html) and [T5013 SCH 50](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch50.html)
+
+- other applicable schedules, forms and documents
+
+###### GIFI Schedules T5013 SCH 100, T5013 SCH 125, T5013 SCH 140 and T5013 SCH 141
+
+The partnership should include complete financial statements using the General Index of Financial Information (GIFI). If you file a paper return, include a copy of the notes to the financial statements with the return. If you file the return electronically, do not send the paper copy of the notes to the financial statements to your tax centre. If we need the notes to the financial statements, we will ask for them. For more information, see [GIFI schedules](#P3049_73363).
+
+###### T5013 SCH 1 and T5013 SCH 50
+
+The partnership must fill out and include the [T5013 SCH 1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch1.html) to adjust the partnership's net income or loss for income tax purposes.
+
+For more information on how to fill out this schedule, see [T5013 SCH 1, *Net Income (Loss) for Income Tax Purposes*](#P3009_13636).
+
+The partnership must also fill out and include the [T5013 SCH 50](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch50.html).
+
+**Member information:** Fill out the T5013 SCH 50 to record all the changes in each partner's ownership, and all activities in its partnership interest account during the fiscal period.
+
+For each member of the partnership during the fiscal period, give the details requested in **each** **box** of the schedule.
+
+For more information on how to fill out this schedule, see [T5013 SCH 50, *Partner's Ownership and Account Activity*](#P3009_13665).
+
+###### Other schedules, forms and documents
+
+The partnership may have to provide other schedules, forms, or documents depending on its circumstances.
+
+For each **yes** answer to the questions on lines 150 to 260, you have to file the T5013 schedules, forms, or documents that apply, as described in the following sections.
+
+##### T5013 schedules
+
+Include the following completed schedules with your financial return or file as instructed.
+
+These are presented in the same order as on page 2 of the financial return.
+
+###### T5013 SCH 9, List of Partnerships
+
+**Line 150**– Fill out the T5013 SCH 9 if, at any time during the fiscal period, the partnership was a member of another partnership, either directly or indirectly through one or more partnerships.
+
+For more information on how to complete this schedule, see [T5013 SCH 9, *List of Partnerships*](#list).
+
+**Reference** Section 251
+
+###### Form T2058, Election on Disposition of Property by a Partnership to a Taxable Canadian Corporation
+
+**Line 162**– This is a joint election form that can be used when the partnership has disposed of property to a corporation and has received as consideration shares of any class of the capital stock of the corporation. All the members of the partnership and the taxable Canadian corporation can jointly elect under subsection 85(2). If you file your return electronically, send Form T2058 to your tax centre.
+
+**References** Subsection 85(2)[Information Circular IC76-19, *Transfer of Property to a Corporation Under Section 85*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic76-19.html)[Form T2058, *Election on Disposition of Property by a Partnership to a Taxable Canadian Corporation*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2058.html)
+
+###### Form T2059, Election on Disposition of Property by a Taxpayer to a Canadian Partnership
+
+**Line 162**– This is a joint election form that can be used when a member of the partnership disposes of property to a Canadian partnership. The partner and partnership can jointly elect under subsection 97(2). If you file your return electronically, send Form T2059 to your tax centre.
+
+**References** Subsection 97(2)[Form T2059, *Election on Disposition of Property by a Taxpayer to a Canadian Partnership*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2059.html)[Interpretation Bulletin IT-413, *Election by Members of a Partnership under subsection 97(2)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it413r.html)
+
+###### Form T2060, Election for Disposition of Property upon Cessation of Partnership
+
+**Line 162**– This is a joint election form that can be used when a Canadian partnership ceases to exist and all the partnership property has been distributed to persons who were members of the partnership immediately before the partnership ceased to exist. The partners can jointly elect under subsection 98(3). If you file your return electronically, send Form T2060 to your tax centre.
+
+**References** Subsection 98(3)[Interpretation Bulletin IT-471, *Merger of Partnerships*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it471r.html)[Form T2060, *Election for Disposition of Property upon Cessation of Partnership*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2060.html)
+
+###### Form T106, Information Return of Non-Arm's Length Transactions with Non-Residents
+
+**Line 171**– Fill out and submit this form if, at any time in your partnership's fiscal period, the partnership had a total amount over $1 million of reportable transactions with non-arm's length non-residents.
+
+For more information on how to fill out Form T106, see [Non-arm's length transactions with non-residents](#arm). If you file your return electronically, send Form T106 to:
+
+Winnipeg Tax Centre Data Assessment and Evaluation Program Validation and Verification Section Foreign Reporting Returns 66 Stapon Road Winnipeg MB R3C 3M2
+
+###### Form T1134, Information Return Relating To Controlled and Non-Controlled Foreign Affiliates
+
+**Line 172**– This information return consists of a summary and an information return. A separate supplement **must** be filed for **each** foreign affiliate (non-resident corporation or non-resident trust) or controlled foreign affiliate (CFA) of the partnership. For more information, see [Foreign affiliates](#P31387_9707).
+
+Partnerships can file Form T1134 electronically for the 2017 and later fiscal periods. You can do this using NETFILE or through a service provider using EFILE. By filing electronically, you will receive a confirmation number at once to tell you that the Canada Revenue Agency (CRA) has received your forms.
+
+For fiscal periods starting after 2020, the partnership has to file Form T1134 within 10 months after the end of its fiscal period.
+
+For paper filers, send the original return, amended return and any additional information to:
+
+Winnipeg Tax Centre Data Assessment and Evaluation Program Validation and Verification Section Foreign Reporting Returns 66 Stapon Road Winnipeg MB R3C 3M2
+
+###### T5013 SCH 2, Charitable Donations, Gifts, and Political Contributions
+
+**Line 202**– Fill out the T5013 SCH 2 if, during the fiscal period, the partnership made charitable donations, gifts of certified cultural property, gifts of certified ecologically sensitive land, federal political contributions, or municipal, provincial or territorial political contributions.
+
+For more information on how to fill out this schedule, see [T5013 SCH 2, *Charitable Donations, Gifts, and Political Contributions*](#donation).
+
+###### T5013 SCH 5, Allocation of Salaries and Wages, and Gross Revenue for Multiple Jurisdictions
+
+**Line 205** – Complete the T5013 SCH 5 if, during the fiscal period, the partnership had income from multiple jurisdictions (provinces, territories, or other countries).
+
+For more information on how to fill out this schedule, see [T5013 SCH 5, *Allocation of Salaries and Wages, and Gross Revenue for Multiple Jurisdictions*](#complete_sch5).
+
+###### T5013 SCH 6, Summary of Dispositions of Capital Property
+
+**Line 206** – Fill out the T5013 SCH 6 if, during the fiscal period, the partnership disposed of capital property and incurred any capital losses, or realized any capital gains.
+
+For more information on how to fill out this schedule, see [T5013 SCH 6, *Summary of Dispositions of Capital Property*](#complete_sch6).
+
+###### T5013 SCH 8, Capital Cost Allowance (CCA)
+
+**Line 208**– Fill out the T5013 SCH 8 if the partnership has property that is eligible for capital cost allowance.
+
+For more information on how to fill out this Schedule, see [T5013 SCH 8, *Capital Cost Allowance (CCA)*](#P30091_3652)
+
+###### T5013 SCH 12, Resource-Related Deductions
+
+**Line 212** – Fill out the T5013 SCH 12 if the partnership incurred resource related expenses (other than resource expenses renounced to the partnership).
+
+For more information on how to fill out this schedule, see [T5013 SCH 12, *Resource-Related Deductions*](#complete_sch12).
+
+###### Calculation and allocation of investment tax credits (ITCs)
+
+**Line 231** – If you answer **yes** to the question at line 231, attach a document to the financial return providing a detailed calculation of the partnership's ITCs and their allocation to the partners. If you file your return electronically, send the detailed calculation of the partnership's ITC to your tax centre.
+
+For ITC codes and rates see [Box 189 – ITC type code](#bx_189_ITC_tp_cd).
+
+###### Form T661, Scientific Research and Experimental Development (SR&ED) Expenditures Claim
+
+**Line 232** – If your partnership has incurred expenditures during the fiscal period for SR&ED carried on in Canada, the partnership should file [Form T661](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t661.html). If filing by paper, the partnership should attach the completed Form T661 and its related schedules to the front of its return for that fiscal period. If you file your return electronically, you can send Form T661 electronically beginning January 2025.
+
+To facilitate processing, Form T661 should be filed with the partnership information return. The partnership should file Form T661 **no later than 12 months** after the earliest of all filing due dates for the return of income of the members for the tax year in which the partnership's fiscal period ends so that each member would then be able to meet their deadline to claim the SR&ED investment tax credit allocated to them. Partnerships can file Form T661 using NETFILE or an EFILE service provider.
+
+###### T5013 SCH 130, Partnership Interest and Financing Expenses and Interest and Financing Revenues
+
+**Line 233** – Tick (✓) the Yes box and fill out the T5013 SCH 130 if **both** of the following conditions apply during the fiscal period:
+
+- The partnership has a corporation or trust as a member or deemed to be a member under subsection 18.2(12)
+
+- The partnership has interest and financing expenses or interest and financing revenues that affect a member’s calculation of the proportion under subsection 18.2(2). This includes amounts described in subsection 18.2(1) under:
+
+    - Paragraph (h) of variable A of the definition of interest and financing expense (IFE)
+
+    - Paragraph (b) of variable B of the definition of IFE
+
+    - Paragraph (f) of variable A of interest and financing revenues (IFR)
+
+    - Paragraphs (b) to (d) of variable B of IFR
+
+The partnership does not need to file T5013 SCH 130 if all its members (including deemed members under subsection 18.2(12)) are not required to file a SCH 130 with their T2, T3, or T5013 return for the tax year or fiscal period that includes the end of the fiscal period of the partnership.
+
+If the partnership is exempt from filing T5013 SCH 130 for a fiscal period, tick (✓) the No box.
+
+The partnership must keep, with its records, written notification from each member identifying the reason it is exempt from filing a T2 or T3 SCH 130.
+
+For more information on how to fill out this schedule, see [T5013 SCH 130, *Partnership Interest and Financing Expenses and Interest and Financing Revenues*](#t5013sch130).
+
+###### T5013 SCH 52, Summary Information for Partnerships that Allocated Renounced Resource Expenses to their Members
+
+**Line 252** – Fill out the T5013 SCH 52 if the partnership, or another partnership of which your partnership is a member, invested in flow-through shares of a principal-business corporation that:
+
+- incurred Canadian exploration expenses or Canadian development expenses
+
+- renounced those expenses to the partnership
+
+In this case, the principal-business corporation will issue a [T101, *Statement of Resource Expenses*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t101.html), slip to your partnership.
+
+The partnership (partnership A) may have invested in flow-through shares indirectly, through its membership in another partnership (partnership B). If that is the case, partnership A will not receive a T101. Instead, partnership A will receive a T5013 slip from partnership B, and the T5013 slip will include the information necessary to fill out the T5013 SCH 52.
+
+For more information on how to fill out this schedule, see [T5013 SCH 52, *Summary Information for Partnerships that Allocated Renounced Resource Expenses to their Members*](#complete_sch52).
+
+###### Form T1135, Foreign Income Verification Statement
+
+**Line 259** – Tick (✓) the Yes box if the total cost of all the specified foreign property the partnership owned or held was more than CAN $100,000 at any time in the fiscal period. Fill out and file [Form T1135](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1135.html).
+
+For information on the property you are required to report, see [Form T1135](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1135.html).
+
+Even if you **do not** have to file a return, you have to send a completed Form T1135 to the Canada Revenue Agency on or before the due date of your return. You can use NETFILE or an EFILE service provider to send the form. For more information, see [Form T1135](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1135.html).
+
+There are substantial penalties for failing to complete and file Form T1135 accurately and by the due date. For more information about penalties relating to foreign reporting, go to [Foreign Income Verification Statement](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/foreign-reporting/foreign-income-verification-statement.html). If your partnership is not required to file a partnership information return but is required to file Form T1135, you will need to obtain a partnership RZ account number for this purpose. For more information, see [How to get a partnershipaccount number](#P30091_3589).
+
+###### T5013 SCH 58, Canadian Journalism Labour Tax Credit
+
+**Line 260** – Fill out the T5013 SCH 58 if the partnership is allocating any Canadian journalism labour tax credits to its members.
+
+For more information on how to fill out this schedule, see [T5013 SCH 58, *Canadian Journalism Labour Tax Credit*](#t5013sch58).
+
+###### T5013 SCH 63, Return of Fuel Charge Proceeds to Farmers Tax Credit
+
+**Line 261**– Fill out the T5013 SCH 63 if the partnership is allocating any return of fuel charge proceeds to farmers tax credit to its members.
+
+For more information on how to fill out this schedule, see [T5013 SCH 63, *Return of Fuel Charge Proceeds to Farmers Tax Credit*](#t5013sch63).
+
+###### T5013 SCH 78, Carbon Capture, Utilization, and Storage Investment Tax Credit
+
+**Line 263** – Fill out the T5013 SCH 78 if the partnership is allocating any carbon, capture, utilization and storage (CCUS) ITC, labour requirements addition to tax, or Part XII.7 to its members.
+
+For more information on how to fill out this schedule, see [T5013 SCH 78, *Carbon Capture, Utilization, and Storage Investment Tax Credit*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch78.html)
+
+###### T5013 SCH 75, Clean Technology Investment Tax Credit
+
+**Line 264**– Fill out the T5013 SCH 75 if the partnership is allocating any clean technology ITC, labour requirements addition to tax, or recapture of clean technology ITC to its members.
+
+For more information on how to fill out this schedule, see [T5013 SCH 75, *Clean Technology Investment Tax Credit*](#t5013sch75).
+
+###### T5013 SCH 76, Clean Technology Manufacturing Investment Tax Credit
+
+**Line 265** – Fill out the T5013 SCH 76 if the partnership is allocating any clean technology manufacturing (CTM) ITC or recapture of CTM ITC to its members.
+
+For more information on how to fill out this schedule, see [T5013 SCH 76, *Clean Technology Manufacturing Investment Tax Credit*](#t5013sch76).
+
+###### T5013 SCH 74, Clean Hydrogen Investment Tax Credit
+
+**Line 266** – Fill out the T5013 SCH 74 if the partnership is allocating any clean hydrogen (CH) ITC, labour requirements addition to tax, or recapture or recovery of clean hydrogen ITC to its members.
+
+For more information on how to fill out this schedule, see [T5013 SCH 74, *Clean Hydrogen Investment Tax Credit*](#t5013sch74).
+
+##### Other documents
+
+Generally, the partnership does not have to send us official receipts with its return. However, you have to keep the following documents with your other official records in case we ask to see them:
+
+- copy two of the [T101, *Statement of Resource Expenses*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t101.html), slips the partnership received from the principal-business corporation which support the amounts reported on your [T5013 SCH 52](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch52.html)
+
+- copy two of each of the [Form T5013, *Statement of Partnership Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html), and [Form T5003, *Statement of Tax Shelter Information*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5003.html), slips the partnership received from the tax shelter which support the amounts on [Form T5004, *Claim for Tax Shelter Loss or Deduction*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5004.html)
+
+- copies of any slips which support the tax deductions at source that you reported in box 168 of the T5013 slips
+
+- a copy of Form T2064, *Certificate – Proposed Disposition of Property by a Non-Resident of Canada*, or Form T2068, *Certificate – The Disposition of Property by a Non-Resident of Canada*, that we issued in accordance with subsection 116(5.2)
+
+- any other official receipts which support the allocation of amounts to the partners
+
+#### Page 3
+
+##### Additional information
+
+For each question from lines 270 to 304, tick (✓) the Yes or No box, and, when required, provide the requested information.
+
+##### Line 270 – Did the partnership use the international financial reporting standards (IFRS) when it prepared its financial statements?
+
+If the partnership used IFRS to prepare its financial statements, answer **yes** to this question.
+
+##### Line 271 – Was a slip issued to one or more nominees or agents?
+
+Tick (✓) the Yes or No box.
+
+##### Line 272 – Does the partnership agreement require that the nominees or agents complete and file any of the documents identified on page 2?
+
+Tick (✓) the Yes or No box.
+
+##### Line 273 – Does the partnership have one or more new nominees or agents?
+
+Tick (✓) the Yes or No box.
+
+##### Line 274 – Did the partnership allocate any amount of income tax deducted at source?
+
+If the partnership allocated any amount of income tax withheld at source from amounts paid or credited to the partnership in the fiscal period, tick (✓) the Yes box.
+
+##### Line 275 – Did the partnership make any other elections under the Income Tax Act during the fiscal period?
+
+If you answer **yes** to this question, attach a copy of any other election forms to this return. If you file your return electronically, send any other election forms to your tax centre.
+
+##### Lines 277 to 279 – Is this partnership the continuation of one or more predecessor partnerships since its last partnership information return was filed?
+
+If you answer **yes** to this question, you have to provide the business number (BN) of each predecessor partnership on lines 278 and 279. If there are more than two predecessor partnerships, attach a note to this return with the BN of each additional partnership. If you file your return electronically, send the notes to your tax centre to explain the BN of each additional partnership.
+
+**Continuation of a predecessor partnership** relates to the following – Where a Canadian partnership ceases to exist (the predecessor partnership) and all of its property is transferred to another Canadian partnership whose partners were all partners in the predecessor partnership, the new partnership is deemed to be a continuation of the predecessor partnership and each partner's partnership interest in the new partnership is deemed to be a continuation of his partnership interest in the predecessor partnership. These provisions simplify the changes that frequently take place in partnerships when one or more partners terminate their association but the remaining partners carry on the partnership's business as a new partnership.
+
+##### Line 280 – Was the partnership inactive throughout the fiscal period this information return applies to?
+
+Even if the partnership did not operate throughout the fiscal period (it was inactive), it may still have to file a return.
+
+##### Line 295 – If the major business activity is construction, did you have any subcontractors during the fiscal period?
+
+**Major business activity**– All individuals, partnerships, and corporations whose principal business activity is construction have to report payments made to subcontractors. For these purposes, construction is defined as erecting, excavating, installing, altering, modifying, repairing, improving, demolishing, dismantling, or removing any structure or part, including buildings, roads, and bridges.
+
+**Who is a subcontractor?**– A subcontractor is an individual, partnership, or corporation that provides construction services. For more information, go to the [T5018 slip – *Statement of contract payments*](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/completing-filing-information-returns/t5018-slip-statement-contract-payments.html).
+
+##### Line 296 – Did the partnership report its farming or fishing income using the cash method?
+
+Income from farming or fishing may be computed according to the cash method if the taxpayer so elects. The election is made by filing a return for a tax year wherein the income for that year from farming or fishing is computed in accordance with the cash method authorized by section 28.
+
+However, where the farming or fishing business is carried on by two or more persons jointly as partners or otherwise, an election to calculate the income on a cash basis is not valid unless each of the persons who jointly carry on the farming or fishing business files a return in which the income from that business is computed in accordance with the cash method.
+
+After the cash method is adopted, future farming or fishing income from the same source must be calculated by the same method unless an alternative method is adopted with the concurrence of the minister of national revenue, which may be given under the terms and conditions specified by the minister.
+
+##### Lines 297 and 298 – Is this a publicly traded partnership?
+
+If you answer **yes** to line 297, you have to answer **yes** to line 298 when [Form T5008, *Statement of Securities Transactions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5008.html), has been issued to a partner who disposed of its interest (or part of it) in the partnership.
+
+**Miscellaneous information**
+
+##### Lines 301 to 303 – Was an NR4 information return for tax deductions withheld at source filed for the fiscal period?
+
+If you answer **yes** at line 301, you have to provide the non-resident account number beginning with the letters NR on line 302 and tick (✓) the**Yes**or **No** box at line 303.
+
+##### Lines 304 to 306 – Is this partnership a specified investment flow-through (SIFT) partnership?
+
+If you answer **yes** to line 304, enter the taxable non-portfolio earnings for the tax year subject to Part IX.1 tax on line 305, and the amount of tax payable under Part IX.1 for the tax year on line 306. See [Specified investment flow-through partnerships](#spcfd_nvstmnt_flwthrgh) and [Appendix C – *References, initialisms and definitions*](#may).
+
+##### Line 307 – Enter the amount of the late filing penalty from line 307 of the T5013 SCH 52
+
+If your partnership allocated renounced resource expenses to its members and has to pay a penalty under subsections 66(12.74) and (12.75), enter the amount of the penalty on line 307. The penalty is the amount you calculated at line 307 on the [T5013 SCH 52](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch52.html).
+
+##### Line 308 – Amount of payment enclosed with this return
+
+Enter the total amount of the payment enclosed with this return.
+
+On lines 305, 306, and 308:
+
+- **do not** use the dollar sign
+
+- **use** a period to separate dollars and cents
+
+- if no entry is required, leave boxes and areas blank
+
+- **do not** use zeroes (000.00), dashes (–), NIL, or N/A in the boxes or financial areas that you are not using
+
+856751.25
+
+#### Page 4
+
+##### Additional information for all partnerships (including tax shelters that are partnerships)
+
+##### Lines 400 and 402 – Name and identification number of the partner designated under subsection 165(1.15)
+
+Provide the name and identification number of the partner that the partners have designated as the person having the right to object for the partnership to a determination under subsection 152(1.4). Under that subsection, we can determine any income or loss of the partnership for a fiscal period and any deduction or other amount, or any other matter, relevant in determining the tax liability of any member of the partnership. The same partner will also have the right to waive the three-year time limit for making a determination under subsection 152(1.4).
+
+##### Additional information for tax shelters only
+
+##### Lines 500 to 502 – Principal promoter
+
+Where the partnership is a tax shelter, provide the last and first name, and the identification number of the principal promoter.
+
+The principal promoter can be an individual, a corporation, a trust, or another partnership. Therefore, the identification number can be:
+
+- for an individual: their social insurance number
+
+- for a corporation or another partnership: the business number assigned by the CRA
+
+- for a trust: the trust account number assigned by the CRA
+
+##### Certification
+
+##### Lines 950 to 956
+
+Provide the last name, first name and position or title. The authorized signing officer of the partnership has to sign in the "Signature of the authorized partner" area. We will contact that person if we need more information to process the partnership information return when we review it.
+
+If you want us to contact another individual (for example, an accountant, a lawyer, or an employee), a group, or a firm as your representative for information related to your business accounts, we will need your consent. You can authorize a representative online using My Business Account. Alternatively, you can authorize another person to act as your representative. For more information, go to [Representative authorization](https://www.canada.ca/en/revenue-agency/services/tax/representative-authorization.html).
+
+##### Language of correspondence
+
+##### Line 990
+
+Tick (✓) the language of correspondence box that applies to you.
+
+#### Order of attachments
+
+To facilitate the processing of your return, attach the forms and schedules in the following order when you file your paper return:
+
+##### On the front of the T5013 FIN, Partnership Financial Return:
+
+- Form T661 (if applicable)
+
+- a cheque, if you are filing the return late and a penalty applies (calculated on the [T5013 SCH 52](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch52.html)), or if the partnership is a SIFT and has to pay income tax for the tax year
+
+##### On the back of the T5013 FIN, Partnership Financial Return:
+
+- schedules listed in numeric order
+
+- notes to the financial statements and the auditor or accountant's report if applicable, in numeric order
+
+- any other forms, such as the [T106](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t106.html), [T1135](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1135.html), [T2058](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2058.html), [T2059](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2059.html), or [T2060](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2060.html) in numerical order
+
+- any other documents, which support the deductions at source
+
+- Form T5013 SUM
+
+- T5013 slips
+
+## Chapter 8 – T5013 schedules
+
+On page 2 of the [T5013 FIN, *Partnership Financial Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013fin.html), you answered a list of questions covering the requirement to file schedules, forms, or documents. This chapter provides information and instructions on how to fill out the schedules listed below:
+
+- [T5013 SCH 1, *Net Income (Loss) for Income Tax Purposes*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch1.html)
+
+- [T5013 SCH 2, *Charitable Donations, Gifts, and Political Contributions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch2.html)
+
+- [T5013 SCH 5, *Allocation of Salaries and Wages, and Gross Revenue for Multiple Jurisdictions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch5.html)
+
+- [T5013 SCH 6, *Summary of Dispositions of Capital Property*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch6.html)
+
+- [T5013 SCH 8, *Capital Cost Allowance (CCA)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch8.html)
+
+- [T5013 SCH 9, *List of Partnerships*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch9.html)
+
+- [T5013 SCH 12, *Resource-Related Deductions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch12.html)
+
+- [T5013 SCH 50, *Partner's Ownership and Account Activity*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch50.html)
+
+- [T5013 SCH 52, *Summary Information for Partnerships that Allocated Renounced Resource Expenses to their Members*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch52.html)
+
+- [T5013 SCH 58, *Canadian Journalism Labour Tax Credit*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch58.html)
+
+- [T5013 SCH 63, *Return of Fuel Charge Proceeds to Farmers Tax Credit*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch63.html)
+
+- [T5013 SCH 74, *Clean Hydrogen Investment Tax Credit*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch74.html)
+
+- [T5013 SCH 75, *Clean Technology Investment Tax Credit*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch75.html)
+
+- [T5013 SCH 76, *Clean Technology Manufacturing Investment Tax Credit*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch76.html)
+
+- [T5013 SCH 78, *Carbon Capture, Utilization, and Storage Investment Tax Credit*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch78.html)
+
+- [T5013 SCH 130,*Partnership Interest and Financing Expenses and Interest and Financing Revenues*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch130.html)
+
+### GIFI schedules
+
+- [T5013 SCH 100, *Balance Sheet Information*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch100.html)
+
+- [T5013 SCH 125, *Income Statement Information*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch125.html)
+
+- T5013 SCH 140, *Summary Statement*
+
+- [T5013 SCH 141, *General Index of Financial Information (GIFI) – Additional Information*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch141.html)
+
+You can download schedules, forms, and publications at [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+### T5013 SCH 1, Net Income (Loss) for Income Tax Purposes
+
+Use the [T5013 SCH 1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch1.html) to reconcile the difference between the partnership's net income or loss reported on the financial statements and its net income or loss for tax purposes.
+
+You may need to prepare a working paper showing the breakdown into the separate amounts reported on the partners' T5013 slips. Do not send this working paper to the CRA unless we ask for it.
+
+#### Reconciling the partnership's net income or loss for income tax purposes
+
+Generally, the net income or loss reported on your partnership's financial statements will not be the same as the net income or loss required for tax purposes. This is because:
+
+- some operating costs and expenses that the partnership incurred and deducted on the partnership's financial statements are not allowable for tax purposes, and others are applied outside of the partnership
+
+- the partnership may have received non-taxable income which you should deduct from income when you calculate the partnership's income for income tax purposes
+
+- Salary or wages paid to partners are not allowable for tax purposes
+
+- Charitable donations are not deductible when determining your partnership's net income for tax purposes
+
+- Deductions for exploration, development and resource property expenses, and renounced expenses apply to members of the partnership and are not allowable for calculating the partnership's income or loss for tax purposes. The partnership should allocate these amounts in separate boxes on the slip so the partners can use these amounts when they calculate their own income or loss
+
+If you have such expenses or non-taxable income, the partnership's net income or loss, after extraordinary items, on the partnership's income statement will differ from the partnership's net income or loss for income tax purposes.
+
+In this case, use the T5013 SCH 1 to reconcile the partnership's net income or loss reported on its financial statements and the net income or loss required for income tax purposes.
+
+#### Supporting form and schedules
+
+You may have to use the following form and schedules to calculate certain amounts on T5013 SCH 1:
+
+- [T5013 SCH 2, *Charitable Donations, Gifts, and Political Contributions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch2.html)
+
+- [T5013 SCH 6,*Summary of Dispositions of Capital Property*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch6.html)
+
+- [T5013 SCH 8, *Capital Cost Allowance (CCA)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch8.html)
+
+- [T5013 SCH 12, *Resource-Related Deductions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch12.html)
+
+- [T5013 SCH 52, *Summary Information for Partnerships that Allocated Renounced Resource Expenses to their Members*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch52.html)
+
+- [Form T661, *Scientific Research and Experimental Development (SR&ED) Expenditures Claim*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t661.html)
+
+Each partner may have to make instalment payments for the income tax due on partnership income using [Form INNS3, *Instalment Remittance Voucher*](https://www.canada.ca/en/revenue-agency/services/forms-publications/request-payment-forms-remittance-vouchers.html).
+
+**References** Paragraph 153(1)(a)
+
+###### Line 151 – Cost of products available for sale that were consumed
+
+One or more partners or their family members may consume or use any of the products that the partnership ordinarily sells or uses to produce its income. The partnership cannot claim the cost of those products as an expense for tax purposes.
+
+To calculate the net income or loss for tax purposes, the partnership has to do one of the following:
+
+- **add**the cost of buying or producing those products to sales (to offset the deduction of those costs as purchases)
+
+- **add** back the costs of products available for sale that were consumed
+
+Products available for sale consumed by a partner or their family members are drawings the partner made from their capital account in the partnership.
+
+###### Line 152 – Personal expenses of the partners paid by the partnership
+
+If the partnership paid for a partner's personal expenses, it cannot claim those payments as an expense for tax purposes. These payments are drawings the particular partner has made from their capital account in the partnership.
+
+###### Line 155 – Renounced exploration, development and resource property expenses deducted per financial statements from the T5013 SCH 52
+
+Fill out line 155 only if the partnership deducted in its financial statements the renounced amounts received from a principal-business corporation or another partnership.
+
+###### Line 199
+
+Enter the amount from line 508 on page 2 of this schedule.
+
+###### Line 501 – Total
+
+**Add** the amounts from lines 101 to 199 and enter the total on line 501.
+
+###### Line 502 – Deduct
+
+Enter the amount from line 511 on page 3of this schedule.
+
+###### Line 503 – Net income (loss) for income tax purposes
+
+Enter the result of adding lines 500 **plus** 501 **minus**line 502. Allocate this income or loss for tax purposes to the partners.
+
+###### Line 504 – Deduct
+
+Enter the portion of line 503 to be allocated to the general partners.
+
+###### Line 505 – Net income (loss) for income tax purposes for limited and non-active partners
+
+Enter the result of deducting line 504 from line 503.
+
+This is the part of line 503 to be allocated to limited and non-active partners.
+
+##### Page 2
+
+On this page, we have listed some other additions required to calculate the net income or loss for income tax purposes.
+
+###### Lines 201 to 239
+
+These items are the non-allowable expenses and taxable items that are the **less common additions**. Enter the amounts on lines 201 to 239 that apply to your partnership.
+
+##### Some specific adjustment items for the reconciliation
+
+###### Line 201 – Accounts payable and accruals for cash basis – closing
+
+###### Line 202 – Accounts receivable and prepaid for cash basis – opening
+
+Partnerships that are farming or fishing businesses:
+
+- Where the partnership keeps its books and records on the cash method basis, and made a valid election under section 28 to compute its income for income tax purpose in accordance with the cash method, leave these lines blank
+
+- Where the partnership keeps its books and records on the cash method basis, but did not make the election under section 28, fill out lines 201 and 202 to convert the cash method to the accrual method
+
+**References** Section 28[Guide T4002, *Self-employed Business, Professional, Commission, Farming, and Fishing Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002.html)
+
+###### Line 203 – Accrual inventory – opening
+
+Only fill out line 203 if you are converting from the accrual basis to the cash basis.
+
+###### Line 232 – Resource amounts deducted
+
+**Exploration, development, and resource property expenses** – Subsection 96(1) has special rules that apply when a partnership has incurred exploration, development, and resource property expenses. That is, the partnership cannot have pools for these expenses. Add back these expenses from the [T5013 SCH 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch12.html)when you calculate the partnership's income or loss for tax purposes. Allocate these amounts to boxes 173 to 179 and 206, whichever applies on the slip, so the partners can use the amounts when they calculate their own income or loss.
+
+**References** Subsections 66.1(1) and 66.4(1)
+
+###### Lines 295 and 294
+
+On line 295, enter any other amounts that you deducted on the partnership's income statement that are not allowable for income tax purposes, and are not already covered on the [T5013 SCH 1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch1.html). Provide a short description on the corresponding line 605.
+
+##### Reporting Wage Subsidy
+
+Enter on any line 605 a short description identifying the total Wage Subsidy amount the partnership received.
+
+On line 295 that correspond to the entry, enter "0."
+
+Enter the Wage Subsidy amount on the [T5013 SCH 125](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch125.html), field code 8242.
+
+Partners of partnerships that do not have to file a partnership information return will need to enter their Wage Subsidy amounts on the applicable form: [T2125](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2125.html), [T2042](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2042.html), or [T2121](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2121.html). For instructions, use [Guide T4002, *Self‑employed Business, Professional, Commission, Farming, and Fishing Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002.html).
+
+To report income or loss from joint ventures, enter "Income or loss from joint ventures" at line 605, and the relevant amount at line 295.
+
+Joint ventures are no longer allowed to have a separate fiscal period.
+
+##### Line 296 – Total of column 2
+
+**Add** all amounts of lines 295, and enter this amount on line 296.
+
+##### Line 508 – Total
+
+**Add**lines 201 to 239, and add line 296, and enter this amount on line 508. Enter the amount from line 508 on line 199 on page 1 of the schedule.
+
+#### Page 3Deductions required to calculate the net income or loss for income tax purposes:
+
+##### Lines 300 to 347
+
+These items are the eligible expenses and non-taxable items that are **less common deductions**. Enter amounts on lines 300 to 347 as they apply to your partnership.
+
+#### Some specific adjustment items for the reconciliation
+
+##### Line 301 – Accounts receivable and prepaid for cash basis – closing
+
+Partnerships that are farming or fishing businesses:
+
+- Where the partnership keeps its books and records on the cash method basis, and made a valid election under section 28 to compute its income for income tax purpose in accordance with the cash method, leave these lines blank.
+
+- Where the partnership keeps its books and records on the cash method basis, but did not make the election under section 28, fill out lines 300 and 301 to convert the cash method to the accrual method.
+
+**References**Section 28[Guide T4002,*Self-employed Business, Professional, Commission,Farming, and Fishing Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002.html)
+
+##### Line 302 – Accrual inventory – closing
+
+Only fill out line 302 if you are converting from the accrual basis to the cash basis.
+
+##### Lines 395 and 705
+
+On line 395, enter any amounts that are not already covered in the T5013 SCH 1. Provide a short description on the corresponding line 705.
+
+##### Line 396 – Total of column 2
+
+**Add**all amounts of lines 395, and enter this amount on line 396.
+
+##### Line 509 – Total
+
+**Add**lines 300 to 394, and enter this amount on line 509.
+
+##### Lines 401 to 417
+
+These lines include the **most common deductions** specific for partnerships. Enter the amounts on lines 401 to 417 as they apply to your partnership.
+
+##### Line 510 – Total
+
+**Add**lines 401 to 417, and enter this amount on line 510.
+
+##### Line 511 – Total
+
+**Add**lines 509 and 510, and enter this amount on line 511. Enter this amount on line 502 on page 1 of the schedule.
+
+### T5013 SCH 2, Charitable Donations, Gifts, and Political Contributions
+
+If, during the fiscal period, your partnership made charitable donations, gifts, or political contributions, fill out each part of the [T5013 SCH 2](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch2.html) that applies:
+
+Part 1 – Charitable donations Part 2 – Gifts of certified cultural property Part 3 – Gifts of certified ecologically sensitive land Part 4 – Federal political contributions Part 5 – Provincial or territorial political contributions Part 6 – Municipal political contributions
+
+Report the total from each part on the appropriate line of [T5013 SCH 1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch1.html):
+
+- Parts 1, 2, and 3 – Report the total eligible amount for these parts on line 112, Charitable donations and gifts, of the T5013 SCH 1
+
+- Parts 4, 5, and 6 – Report the total eligible amount for these parts on line 114, Political contributions, of the T5013 SCH 1
+
+You do not have to attach receipts or supporting documents to this schedule. However, you must keep them in your records as we may ask to see them later.
+
+Effective on registration of the amended Regulation, charities will be allowed to issue donation receipts electronically, if they contain all required information, they are issued in a secure and non-editable format, and the charity maintains an electronic copy of the receipts.
+
+#### Eligible amount of gift
+
+The eligible amount of a gift or monetary contribution is the amount by which the fair market value of the gifted property or monetary contribution exceeds the amount of an advantage, if any, received or receivable in respect of the gift or monetary contribution. There are situations in which the eligible amount may be deemed to be **nil**.
+
+##### Advantage
+
+The advantage is generally the total value of all property, services, compensation, use or any other benefit that you are entitled to as partial consideration for, in gratitude for, or in any other way related to the gift or monetary contribution. The advantage may be contingent or receivable in the future, either to you or a person or partnership not dealing at arm's length with you.
+
+A gift of $1,000 to the Any Town Ballet Company, which is a registered charity, has been received. In gratitude, the company provides three tickets to a show that are valued at $150. In this case, the advantage is $150 and the eligible amount of the gift is $850 ($1,000 – $150).
+
+**References** Subsections 127(3), 248(31), (32), and (41)[Guide T4037, *Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html)[Guide P113, *Gifts and Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html)[Income Tax Folio S7-F1-C1, *Split-receipting and Deemed Fair Market Value*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-7-charities-non-profit-organizations/series/income-tax-folio-s7-f1-c1-split-receipting-deemed-fair-market-value.html)[Interpretation Bulletin IT-244, *Gifts by Individuals of Life Insurance Policies as Charitable Donations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it244r3.html)[Interpretation Bulletin IT-288, *Gifts of Capital Properties to a Charity and Others*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it288r2.html)[Interpretation Bulletin IT-297, *Gifts in Kind to Charity and Others*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it297r2.html)[Interpretation Bulletin IT-407, *Dispositions of Cultural Property to Designated Canadian Institutions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it407r4-consolid.html)
+
+#### Filling out the T5013 SCH 2
+
+##### Page 1Required information
+
+Enter the detailed information of each receipt the partnership received for any charitable donations, gifts, and political contributions the partnership made, on a separate line in the appropriate part of the schedule.
+
+###### Part 1 – Charitable donations
+
+Charitable donations are gifts made to a qualified donee. A qualified donee includes:
+
+- a Canadian registered charity
+
+- a registered foreign charity that has applied to the minister of national revenue for registration under subsection 149.1(26)
+
+- a registered journalism organization
+
+- a registered Canadian amateur athletic association
+
+- a registered national arts service organization
+
+- a registered tax exempt housing corporation resident in Canada set up only to provide low-cost housing for seniors
+
+- a registered municipality in Canada
+
+- a registered municipal or public body performing a function of government in Canada
+
+- the United Nations and its related agencies
+
+- universities outside Canada, the student body of which ordinarily includes students from Canada, that are registered with the CRA
+
+- His Majesty in Right of Canada, a province, or a territory
+
+**References** Subsections 118.1(1) and 149.1(1) Paragraph 110.1(1)(a)
+
+**Gift of a non-qualifying security** – Special rules apply if the partnership donates a non-qualifying security (other than an excepted gift) described in subsection 118.1(18) to a qualified donee. In this case, we consider the donation not to have been made. However, if the donee disposes of the donated non-qualifying security, or if the security ceases to be a non-qualifying security, before the end of the 60 month period after the donation, we consider the partnership to have made the donation at that later time. The value of the property is the **lesser** of:
+
+- the fair market value (FMV) of the security at the time it was actually donated
+
+If at a later time:
+
+- the security ceased to be a non-qualifying security, the FMV of the security at that later time
+
+- the security was disposed of by the donee, the FMV of the consideration received by the donee
+
+**References** Subsections 110.1(6), 118.1(13) to (19)
+
+###### Parts 2 and 3 – Cultural and ecological gifts
+
+Cultural gifts:
+
+Gifts of cultural property are gifts of property certified by the Canadian Cultural Property Export Review Board, that your partnership gave to a designated institution or public authority in Canada.
+
+If your partnership donates certified cultural property to a designated institution or public authority, the Canadian Cultural Property Export Review Board will determine the fair market value of the donated property and will issue Form T871, Cultural Property Income Tax Certificate, to your partnership.
+
+For more information, see [Guide P113, *Gifts and Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html), and [Income Tax Folio S7-F1-C1, *Split-receipting and Deemed Fair Market Value*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-7-charities-non-profit-organizations/series/income-tax-folio-s7-f1-c1-split-receipting-deemed-fair-market-value.html).
+
+Ecological gifts:
+
+- Ecological gifts are gifts of ecologically sensitive land including a covenant, an easement to which the land is subject or, in the case of land in Quebec, a real servitude or a personal servitude (the rights to which the land is subject and which has a term of not less than 100 years), if your partnership donated it to one of the following:
+
+    - a registred municipality in Canada, or a registred municipal or public body performing a function of government in Canada, that is approved by the federal minister of Environment and Climate Change in respect of the gift
+
+    - a registered charity (other than a private foundation) approved by the federal minister of Environment and Climate Change in respect of the gift, or
+
+    - His Majesty in right of Canada or a province or territory
+
+The federal minister of Environment and Climate Change (or a person designated by that minister) has to certify the land to be ecologically sensitive land important to the preservation of Canada's environmental heritage. That minister will also determine the fair market value of the gift and issue a certificate.
+
+For more information, see [Guide P113, *Gifts and Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html), and [Income Tax Folio S7-F1-C1, *Split-receipting and Deemed Fair Market Value*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-7-charities-non-profit-organizations/series/income-tax-folio-s7-f1-c1-split-receipting-deemed-fair-market-value.html).
+
+**References** Subsections 43(2), 110.1(4) and (5), 118.1(8), 118.1(10) to (12), and 248(31)[Guide P113, *Gifts and Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html)[Income Tax Folio S7-F1-C1, *Split-receipting and Deemed Fair Market Value*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-7-charities-non-profit-organizations/series/income-tax-folio-s7-f1-c1-split-receipting-deemed-fair-market-value.html)
+
+##### Page 2
+
+**Parts 4, 5, and 6**– Federal, provincial or territorial, and municipal political contributions
+
+Political contributions that qualify for a federal tax credit are the eligible amount of monetary contributions as defined in the Canada Elections Act made to a registered party, a registered association, or a candidate, as those terms are defined in the Canada Elections Act.
+
+Under the different provincial or territorial legislations, provincial or territorial, and municipal political contributions may qualify for a tax credit.
+
+You must provide each partner with the amount they are entitled to, as they will need this information to fill out their income tax and benefit return.
+
+**Reference** Subsection 127(3)
+
+### T5013 SCH 5, Allocation of Salaries and Wages, and Gross Revenue for Multiple Jurisdictions
+
+If during the fiscal period, your partnership had a permanent establishment in more than one jurisdiction, use the [T5013 SCH 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch5.html) to report the amounts of gross revenue and salaries and wages paid in each of the permanent establishments.
+
+A permanent establishment in a province or territory is usually a fixed place of business, which includes an office, branch, oil well, farm, timberland, factory, workshop, warehouse, or mine.
+
+Each member in a partnership is considered to have a permanent establishment in the province(s) or territory(ies) in which the partnership has a permanent establishment. This applies to both general and limited partners.
+
+The provincial or territorial allocation rules are contained in Part IV (for corporations) and Part XXVI (for individuals, and trusts) of the Regulations.
+
+**References** Parts IV and XXVI of the Regulations
+
+#### Filling out the T5013 SCH 5
+
+##### Part 1 – Allocation of salaries and wages, and gross revenue
+
+Where your partnership has a permanent establishment in any of the listed jurisdictions, tick (✓) the Yes box and enter the amounts of salaries and wages, and the gross revenue on the lines provided for each of the jurisdictions.
+
+Enter the total salaries and wages paid on line 130 and the total gross revenue on line 280.
+
+##### Part 2 – Amounts allocated by one or more partnerships
+
+Enter the name (exactly as per the registration) and account number of any partnerships in which your partnership is holding an interest.
+
+For each of these partnerships, tick (✓) the appropriate box in column 400 to indicate if any amounts you reported in Part 1 were allocated to you from this other partnership.
+
+### T5013 SCH 6, Summary of Dispositions of Capital Property
+
+Fill out the [T5013 SCH 6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch6.html), if during the fiscal period, your partnership disposed of capital property and incurred any capital losses, realized any capital gains, or received any slips that included capital gains.
+
+Capital gains resulting from gifts to qualified donees of certain capital properties such as certified ecologically sensitive land and certain securities may be exempt from tax. Report these in Part 10. See [Guide P113, *Gifts and Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html) for more information on dispositions of property by way of gift that may benefit from a capital gains exemption.
+
+**References** Section 54[Interpretation Bulletin IT-170, *Sale of Property – When Included in Income Computation*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it170r.html)[Interpretation Bulletin IT-448, *Dispositions – Changes in terms of securities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it448.html), and its Special Release [IT-448SR](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it448sr.html)[Interpretation Bulletin IT-460, *Dispositions – Absence of Consideration*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it460.html)Subsections 43(2), 110.1(1), (4) to (6), 118.1(1), (8), (10) to (13) and 248(31)Paragraphs 38(a), (a.1), (a.2), and (a.3) Subparagraph 39(1)(a)(i.1)[Guide P113, *Gifts and Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html)[Income Tax Folio S7-F1-C1, *Split-receipting and Deemed Fair Market Value*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-7-charities-non-profit-organizations/series/income-tax-folio-s7-f1-c1-split-receipting-deemed-fair-market-value.html)
+
+Fill out **each** part of this schedule that applies, using a separate line for each capital property your partnership disposed of during the fiscal period:
+
+Part 1 – Qualified small business corporation shares (QSBCS) Part 2 – Qualified farm or fishing property (QFFP) Part 3 – QFFP mortgage foreclosures and conditional sales repossessions Part 4 – Mutual fund units, deferral of eligible small business corporation shares, and other shares including publicly traded shares Part 5 – Real estate, depreciable property, and other properties Part 6 – Bonds, debentures, promissory notes, crypto-assets, and other similar properties Part 7 – Personal-use property Part 8 – Listed personal property Part 9 – Other gains (losses) except gifts of certain capital property (other than QFFP) Part 10 – Gifts of certain capital property Part 11 – Capital gains (losses) from other sources Part 12 – Interest in a partnership Part 13 – Qualifying business transfer to employee ownership trust Part 14 – Amounts eligible for the capital gains deduction Part 15 – Total capital gains (losses) (excluding amounts entered in Parts 12 and 14
+
+#### Filling out the T5013 SCH 6
+
+##### Parts 1 through 9 – Completing column numbers ending in 00, 01, 02, and 03
+
+###### Part 1 – Qualified small business corporation shares (QSBCS)
+
+List the shares of capital stock of a corporation you disposed of during the fiscal period. Give the following information:
+
+- the number of shares
+
+- the class of the shares
+
+- the name of the corporation in which the shares were held
+
+Do **not**include QSBCS that are disposed under a qualifying business transfer (QBT) or a qualifying cooperative conversion (QCC). Report these in Part 13.
+
+Usually, disposing of a share will result in a taxable capital gain or an allowable capital loss. However, if the partnership that is disposing of the share is in the business of trading shares, we consider the resulting gain or loss to be business income or loss.
+
+If a share is converted due to a merger or an amalgamation, section 248(1) deems a disposition to have occurred.
+
+###### Part 2 – Qualified farm or fishing property (QFFP)
+
+List the QFFP you disposed of during the fiscal period. Give the municipal address or a legal description of the disposed property.
+
+Do **not**include QFFP that are disposed under a QBT or a QCC. Report these in Part 13.
+
+###### Part 3 – QFFP mortgage foreclosures and conditional sales repossessions
+
+List all QFFP mortgage foreclosures and conditional sales repossessions you disposed of during the fiscal period. Enter a brief description, and give the municipal address or a legal description of the disposed property.
+
+###### Part 4 – Mutual fund units, deferral of eligible small business corporation shares, and other shares including publicly traded shares
+
+List the mutual fund units, deferral of eligible small business corporation shares, and other shares including publicly traded shares you disposed of during the fiscal period. Give the following information:
+
+- the number of shares
+
+- the class of the shares
+
+- the name of the fund or corporation in which the shares were held
+
+Do **not** include gifts to qualified donees of shares and rights listed on a designated stock exchange, segregated fund units and mutual fund units that have capital gains eligible for a 0% inclusion rate. Report these in Part 10.
+
+Also, do not include shares that are disposed under a QBT or a QCC. Report these in Part 13.
+
+###### Part 5 – Real estate, depreciable property, and other properties
+
+List the real estate you disposed of during the fiscal period. Give the municipal address of each property.
+
+Do **not**include gifts to certain qualified donees of certified ecologically sensitive land that have capital gains eligible for a 0% inclusion rate. Report these in Part 10.
+
+Disposing of non-depreciable real property (unless the property is inventory) may result in a capital gain or loss.
+
+Disposing of depreciable property may result in a capital gain, a capital cost allowance recapture, or a terminal loss. However, they do **not** result in a capital loss. A capital gain results if the proceeds are more than the capital cost. For more information, see [Recapture of CCA](#recapture_CCA) and [Terminal loss](#terminal).
+
+Report dispositions of depreciable property on the [T5013 SCH 8](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch8.html).
+
+**References**[Income Tax Folio S3-F4-C1, *General Discussion of Capital Cost Allowance*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plans-folio-4-capital-cost-allowance/income-tax-folio-s3-f4-c1-general-discussion-capital-cost-allowance.html)[Interpretation Bulletin IT-218, *Profit, Capital Gains and Losses from the Sale of Real Estate, Including Farmland and Inherited Land and Conversion of Real Estate from Capital Property to Inventory and Vice Versa*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it218r.html)
+
+**Bad debts** – When an amount receivable on a capital account becomes a bad debt and your partnership elects to have the provisions of subsection 50(1) applied, a deemed disposition occurs at the end of the year. Your partnership is considered to have reacquired the debt immediately afterwards at a cost of nil. This usually allows the partnership to claim a bad debt as a capital loss in the year. Any later recovery of that debt will result in a capital gain.
+
+**References** Subsection 50(1)[Interpretation Bulletin IT-159, *Capital Debts Established to be Bad Debts*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it159r3.html)
+
+**Foreign exchange gains or losses** – Foreign exchange gains or losses from buying or selling capital properties are capital gains or capital losses. Transactions in foreign currency or foreign currency futures that do not form part of the business operations can be considered capital dispositions.
+
+**References** Subsection 39(2)[Interpretation Bulletin IT-95, *Foreign Exchange Gains and Losses*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it95r.html)
+
+###### Part 6 – Bonds, debentures, promissory notes, crypto-assets, and other similar properties
+
+List the bonds you disposed of during the fiscal period. Give the following information:
+
+- the face value
+
+- the maturity date
+
+- the name of the issuer for each type of bond
+
+Do **not**include gifts to qualified donees of bonds and debentures listed on a designated stock exchange and prescribed obligations that have capital gains eligible for a 0% inclusion rate. Report these in Part 10.
+
+When you dispose of a debt obligation, we usually consider the amount of any realized discount or bonus to be a capital gain. Similarly, we consider a premium paid to be a capital loss, either when the obligation matures or on the date you dispose of the obligation.
+
+For information on crypto-assets, see Chapter 2 of Guide [T4037](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html), Capital Gains.
+
+**Reference**[Interpretation Bulletin IT-479, *Transactions in securities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it479r.html)and its Special Release
+
+###### Part 7 – Personal-use property
+
+Describe any personal-use property you disposed of during the fiscal period.
+
+Personal-use property of a partnership is property owned by a partnership that is used primarily for the personal use or enjoyment of a partner or a person who is related to a partner.
+
+Use the $1,000 rule to determine gains and losses when you dispose of personal-use property. According to this rule, if the adjusted cost base is less than $1,000, it is considered to be $1,000. As well, when the proceeds of disposition are less than $1,000, they are considered to be $1,000.
+
+The $1,000 rule does not apply when donors acquire personal-use property as part of an arrangement in which the property is gifted to a qualified donee, such as a registered charity.
+
+You **cannot** deduct losses on dispositions of personal-use property (other than listed personal property) from the partnership's income.
+
+**References** Subsections 46(1) and section 54
+
+###### Part 8 – Listed personal property
+
+Describe any listed personal property you disposed of during the fiscal period.
+
+Listed personal property is a special category of personal-use property that usually increases in value. The following is a complete list of the different types of listed personal property:
+
+- prints, etchings, drawings, paintings, sculptures, or other similar works of art
+
+- jewellery
+
+- rare folios, rare manuscripts, or rare books
+
+- stamps
+
+- coins
+
+If your partnership incurs losses from the disposition of listed personal property, the partners can only deduct these losses from capital gains realized from the disposition of other listed personal property.
+
+**References** Sections 41 and 54
+
+###### Part 9 – Other gains (losses) except gifts of certain capital property (other than QFFP)
+
+Include any mortgage foreclosures and conditional sales repossessions (other than for a qualified farm or fishing property) and any other gains or losses that you did not mention in this form.
+
+Describe any capital property you disposed of during the fiscal period that you have not reported in the other parts.
+
+###### Parts 1 through 9 – Completing columns with numbers ending in 05, 06, 07, 08, 09, and line numbers ending in 10
+
+For each column (except for column 05), enter the sum of the amounts reported on each line in the "Totals" line at the bottom of each Part of the schedule.
+
+###### Column numbers ending in 05 – Date of acquisition
+
+Enter the date you acquired the property.
+
+###### Column numbers ending in 06 – Proceeds of disposition
+
+Enter the proceeds of disposition. The proceeds of disposition are usually the selling price of the property. However, they can also include compensation the partnership received for property that was destroyed, expropriated, stolen, or damaged.
+
+For a gift or a deemed disposition, the proceeds of disposition are usually the fair market value of the property when its owner or use changes.
+
+**References** Sections 44 and 54
+
+###### Column numbers ending in 07 – Adjusted cost base
+
+Enter the cost of the property you used to calculate any capital gain or loss. This is called the adjusted cost base (ACB), which is the original cost of the property that has been adjusted to reflect certain transactions or occurrences that took place after acquiring the property.
+
+The cost of a capital property may be the actual cost, a deemed cost, or the valuation day value of the property. The nature of the property and the circumstances under which you acquired it determine which cost of the capital property you should use.
+
+**References** Subsections 53(1) and 53(2)[Income Tax Folio S3-F4-C1,*General Discussion ofCapital Cost Allowance*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plans-folio-4-capital-cost-allowance/income-tax-folio-s3-f4-c1-general-discussion-capital-cost-allowance/chapter-history-s3-f4-c1-general-discussion-capital-cost-allowance.html)
+
+The cost of property acquired after 1971 is usually the actual cost of acquiring it. This includes the purchase price plus any related costs such as commissions and legal fees, the cost of additions and improvements to the property, and other reasonable expenses. It does not include current expenses, such as maintenance and repair costs.
+
+**Reference**[Income Tax Folio S3-F4-C1, *General Discussion of Capital Cost Allowance*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plans-folio-4-capital-cost-allowance/income-tax-folio-s3-f4-c1-general-discussion-capital-cost-allowance.html)
+
+Special rules apply when determining the cost of capital property owned on December 31, 1971. According to these rules, tax is not assessed and losses are not allowed for any gain or loss that arose before that date.
+
+When deductions from the ACB of a property (other than a partnership interest) reduce the balance to a negative amount at any time in the fiscal period, you are considered to have realized a capital gain equal to the amount of the negative balance, and the ACB becomes nil.
+
+**Reference** Subsection 40(3) Paragraphs 53(1)(e) and 53(2)(c) outline the rules for determining the ACB of a partnership interest.
+
+Interests in a partnership that a limited partner or an inactive partner holds are subject to a negative ACB rule in subsection 40(3.1) that can result in a capital gain. Exceptions are for an "excluded interest" as specified in subsection 40(3.15).
+
+**Column numbers ending in 08 – Outlays and expenses (dispositions)**
+
+Enter the amount of outlays and expenses you incurred when calculating a gain or loss. You can deduct most expenses the partnership paid to put a property into saleable condition when you calculate a gain or loss. You can also deduct expenses incurred when disposing of the property. These expenses include certain fixing up costs, finder's fees, commissions, surveyor's fees, transfer taxes, and other reasonable expenses incurred to dispose of the property.
+
+**Column numbers ending in 09 – Gain (loss)**
+
+To calculate the gain or loss, subtract the ACB (amount in column numbers ending in 07) and the outlays and expenses (amount in column numbers ending in 08) from the proceeds of disposition (amount in column numbers ending in 06).
+
+A **capital gain** results when the proceeds of disposition of a capital property are more than the ACB and any related outlays or expenses.
+
+A **capital loss** occurs when the proceeds of disposition are less than the ACB and the related outlays and expenses. However, losses on depreciable property do not result in capital losses, but may result in a **terminal loss**.
+
+In certain cases, when you dispose of a building and the land on which it stands, and the building is disposed of for less than its undepreciated capital cost, you may have to reduce the terminal loss on the sale of the building by the gain on the sale of the land.
+
+**References** Subsection 13(21.1)[Income Tax Folio S3-F4-C1, *General Discussion of Capital Cost Allowance*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plans-folio-4-capital-cost-allowance/income-tax-folio-s3-f4-c1-general-discussion-capital-cost-allowance.html)
+
+**Line number ending in 10 – Total gain (loss)**
+
+For each of Parts 1 to 9 of the schedule, add the amounts from each column number ending in 09 and enter the total on the respective line number ending in 10.
+
+**Part 10 – Gifts of certain capital property**
+
+List all property gifted during the fiscal period that is eligible for a capital gains inclusion rate of 0%.
+
+- If you donated certain types of capital property to a registered charity or other qualified donee, you may be entitled to an inclusion rate of 0% on any capital gain realized on such gifts. This generally applies to gifts of the following properties: a share of the capital stock of a mutual fund corporation.
+
+- a unit of a mutual fund trust
+
+- an interest in a related segregated fund trust
+
+- a prescribed debt obligation
+
+- a share, debt obligation, or right listed on a designated stock exchange
+
+- certified ecologically sensitive land
+
+See [Guide P113, *Gifts and Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html), for more information on dispositions of property by way of gift that may benefit from a capital gains inclusion rate of 0%.
+
+Dispositions that result in losses must be reported in Parts 4, 5, or 6, whichever is applicable.
+
+**Column 940 to 954**
+
+Enter the following information according to the instructions for Part 4, 5, or 6, as applicable:
+
+- the face value and the maturity date
+
+- the number of shares and the class of the shares
+
+- the name of the fund or corporation in which the shares were held, or the name of issuer
+
+- a description, or the municipal address or a legal description of the property disposed of
+
+- the date of acquisition
+
+- the proceeds of disposition
+
+- the ACB
+
+- the outlays and expenses
+
+- the gain
+
+**Column 956 – Eligible amount of gift**
+
+If there is no advantage received in respect of the gift, the full amount of the capital gain is eligible for the inclusion rate of 0%. However, if there is an advantage in respect of the gift, only a portion of the capital gain is eligible for the inclusion rate of 0%. The rest is subject to the inclusion rate in paragraph 38(a) an inclusion rate. For more information, see [Guide P113, *Gifts and Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html).
+
+###### Column 958 – Gain subject to 0% inclusion rate
+
+The portion of the capital gain that relates to the eligible amount of the gift is subject to the capital gains inclusion rate of 0%. For each capital property listed in this Part, enter the amount that is the portion of the capital gain reported in column 954, that the eligible amount of the gift reported in column 956 is of the proceeds of disposition reported in column 948.
+
+For example, if the capital gain from the disposition is $1,000, the eligible amount of the gift is $1,800 and the deemed proceeds of disposition are $2,000, the portion of the capital gain to which the 0% capital gains inclusion rate applies is $900 ($1,000 x $1,800/$2,000). In this case, $900 would be entered at column 958 for this gifted property.
+
+###### Column 960 – Gain subject to the inclusion rate in paragraph 38(a)
+
+If an advantage was received in respect of the gift, the portion of the capital gain that relates to the advantage is subject to the capital gains inclusion rate in paragraph 38(a). For each capital property listed in this Part, enter the difference between the amount in column 954 and the amount in column 958. This is the portion of the capital gain that relates to the advantage in respect of the gift and that is subject to the capital gains inclusion rate in paragraph 38(a). Enter the amount in column 960.
+
+###### Line 959
+
+Enter the total of column 958 on line 959.
+
+###### Line 961
+
+Line 961 is the portion of the amount on line 959 to 0% inclusion rate in paragraph 38(a.1). The partnership should report the partner’s share of line 961 in box 274 of the T5013 slips.
+
+###### Line 970
+
+Enter the total of column 960 on line 970.
+
+**References** Paragraphs 38(a), (a.1), and (a.2)[Guide T4037,*Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html)[Guide P113,](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html)*[Gifts and Income Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html)*[Income Tax Folio S7-F1-C1, *Split-receipting and Deemed Fair Market Value*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-7-charities-non-profit-organizations/series/income-tax-folio-s7-f1-c1-split-receipting-deemed-fair-market-value.html)
+
+###### Part 11 – Capital gains (losses) from other sources
+
+###### Lines 980 and 981
+
+On line 980, enter any capital gains or losses from all [T5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5.html), [T5008](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5008.html), [T5013](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html), and [T4PS](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4ps.html) slips the partnership received. Enter any capital gains or losses from all [T3 slips](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3.html) on line 981.
+
+###### Part 12 – Interest in a partnership
+
+In general, if a partnership disposes of its interest in another partnership to a tax-exempt entity, a non-resident person, or another partnership or a trust that has such a member or beneficiary, a special rule may apply.
+
+Under subsection 100(1), part of the partnership's capital gain from the disposition of its interest in that partnership may be subject to the inclusion rate in paragraph 38(a) and another part may be subject to a 100% inclusion rate.
+
+The portion of the capital gain that can reasonably be attributed to increases in the value of capital property (other than depreciable property) held directly by that partnership (or held indirectly by that partnership through one or more other partnerships) is subject to the inclusion rate in paragraph 38(a) and the rest is subject to the 100% inclusion rate.
+
+If all the assets of that partnership are inventory, depreciable property, or resource property, then the capital gain would be subject to the 100% inclusion rate unless an exception applies. If there is also capital property (other than depreciable property), then it’s an apportionment.
+
+If subsection 100(1) applies, enter the portion of the capital gain that is subject to the 100% inclusion rate on line 885 of the [T5013 SCH 6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch6.html). Enter the portion of the capital gain that is subject to the inclusion rate in paragraph 38(a) in Part 5 of the [T5013 SCH 6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch6.html).
+
+The partnership should report the partner’s share of line 885 in box 289 of the T5013 slips.
+
+**Reference** Subsection 100(1) Paragraphs 38(a)(e)
+
+###### Part 13 – Qualifying business transfer to employee ownership trust
+
+List the shares of capital stock of a corporation you disposed of during the fiscal period under a qualifying business transfer (QBT) to an employee ownership trust. Give the following information:
+
+- the number of shares
+
+- the class of shares
+
+- the name of corporation in which the shares were held.
+
+Also include in Part 13 dispositions to a worker cooperative (WC) under a qualifying cooperative conversion (QCC).
+
+###### Part 14 – Amounts eligible for the capital gains deduction
+
+Enter amounts eligible for the capital gains deduction pertaining to parts 1, 2, 3, 11 and 13, on lines 120, 220, 320, and 420.
+
+Enter the portion of the amount from lines 120, 220, 320, and 420 that is attributable to dispositions **before** June 25, 2025 on the respective lines 330, 350, 370, and 390.
+
+Enter the portion of the amount from lines 120, 220, 320, and 420 that is attributable to dispositions **after** June 24, 2025 on the respective lines 340, 360, 380, and 395.
+
+Report the partner’s share of lines 330, 350, and 370 in the respective boxes 153, 154, and 155 of the T5013 slips.
+
+Report the partner’s share of lines 340, 360, and 380 in the respective boxes 276, 277, and 278 of the T5013 slips.
+
+Report the partner’s share of lines 390 and 395 to the partner in a letter with a breakdown of the portion that is attributable to each QBT and QCC respectively andto QSBCS and QFFP along with the date of disposition.
+
+###### Part 15 – Total capital gains (losses) (excluding amounts entered in Parts 12 and 14)
+
+###### Line 992
+
+On this line, enter the total of lines 110, 210, 310, 410, 510, 610, 710, 810, 910, 970, 980, 981 and 780 **minus** the sum of lines 120, 220, 320 and 420.
+
+Enter each partner's share of the amount from line 992 in box 151 of the T5013 slips.
+
+### T5013 SCH 8, Capital Cost Allowance (CCA)
+
+Paragraph 20(1)(a) allows the deduction of part of the capital cost of certain depreciable property from income earned in the fiscal period from a business or property. These deductions are known as capital cost allowance (CCA).
+
+Fill out the [T5013 SCH 8](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch8.html) to:
+
+- calculate the amount of CCA the partnership can claim for the fiscal period for depreciable property, or to designate immediate expensing property, or both
+
+- identify situations where the partnership:
+
+    - has to adjust the balance for a class of assets
+
+    - has acquired depreciable property
+
+    - has disposed of depreciable property
+
+#### Depreciable property
+
+Your partnership might acquire a depreciable property such as a building, furniture, or equipment to use in your business or professional activities. We consider a property to be depreciable property for which you can claim CCA only if it fits in one of the classes described in Schedule II or Part XI of the Regulations. A maximum rate is set out for each class of depreciable assets.
+
+Land is not a depreciable property and is not eligible for CCA.
+
+**References** Subsections 13(21) and 18(3) Paragraph 20(1)(a) Regulations 1100(1), 1202(2) Schedule II
+
+##### Capital cost allowance (CCA)
+
+With a few exceptions, you cannot deduct capital expenditures in full when you calculate your partnership's net business or professional income for tax purposes in the fiscal period the partnership made the expenditures. Instead, since these properties wear out or become obsolete (in other words, they depreciate) over time, you can deduct the capital expenditures from income over a period of several fiscal periods.
+
+##### Disability-related modifications
+
+You can deduct outlays and expenses you incur for eligible disability-related modifications made to a building in the fiscal period you paid them, instead of having to add them to the capital cost of your building. Eligible disability-related modifications include changes you make to accommodate wheelchairs. You can also deduct expenses paid to install or get certain disability-related devices and equipment.
+
+You can claim this as "Other less common deductions" on page 3 of the [T5013 SCH 1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch1.html).
+
+##### Available-for-use rule
+
+The available-for-use rule determines the earliest fiscal period in which you can claim CCA for depreciable property.
+
+##### How to know when a property is available for use
+
+**Property other than a building** is considered available for use at the earliest of several dates. Generally, you can claim a CCA deduction at whichever time is the **earliest** of:
+
+- when the partnership first uses the property for the purpose of earning income
+
+- the beginning of the first fiscal period that begins at least 358 days after the end of the fiscal period in which the partnership acquired the property (that is, the second fiscal period after the fiscal period the partnership acquired it)
+
+- immediately before the partnership disposes of the property
+
+- when the property is delivered, or made available, to the partnership and the partnership can use the property to either produce a saleable product or perform a saleable service
+
+**A building** is considered available for use at whichever of the following dates is the**earliest** of:
+
+- when the partnership uses 90% or more of the building for its intended purpose
+
+- when construction, renovation, or alteration is completed
+
+- the beginning of the first fiscal period that begins at least 358 days after the end of the fiscal period in which the partnership acquired the building (that is, the second fiscal period after the fiscal period the partnership acquired it)
+
+- immediately before the partnership disposes of the building
+
+- where the property is a replacement property for a building that was acquired before 1990 or that became available for use at or before the time the replacement property was acquired, or when the replacement building was acquired
+
+**References** Subsections 13(27) to 13(32)
+
+##### Calculating CCA
+
+To calculate CCA, first separate all depreciable assets into the appropriate classes described in Schedule II. Usually, you calculate the CCA amount for a fiscal period on the previous fiscal period's ending undepreciated capital cost (UCC) balance for each class (that is, the declining-balance basis). Apply the set rate for that class, usually a percentage, to the UCC of that class at fiscal period end to calculate the maximum CCA you can claim. However, for certain types of property, such as leasehold interests, you calculate the CCA amount for a fiscal period based on a percentage of the original capital cost of the property (that is, the straight line basis).
+
+You can deduct any amount up to the maximum that is available for the fiscal period. When a fiscal period is shorter than 12 months, you generally have to prorate the CCA.
+
+**Reference** Subsection 13(21)
+
+##### Restriction on rental buildings
+
+If the partnership receives rental income, (business or property), it can generally claim CCA on buildings and equipment such as stoves and refrigerators. However, you generally cannot create or increase a rental loss by claiming CCA on any buildings or equipment for the rental property. To be a rental property, the property must be used by the partnership more than 50% of the time for the purposes of gaining or producing gross revenue that is rent.
+
+If the partnership owns more than one rental building to which this restriction applies, to calculate the total income or loss for the fiscal period, you have to combine all the rental income from these buildings even if they belong to different classes. This also applies to furniture, fixtures, and appliances that the partnership uses in its rental buildings. The partnership can claim CCA for these properties, the building, or both. However, the partnership **cannot** use CCA to create or increase a rental loss.
+
+The partnership owns three rental properties (non-business rental properties). Two of these properties are class 1 buildings, and the third one is a class 3 building. All the buildings contain class 8 appliances.
+
+The partnership earns net rental income from these properties as follows:
+
+| **Buildings** | **Net rental income or loss** |
+
+| --- | --- |
+
+| **1 (Class 1)** | $1,500 |
+
+| **2 (Class 1)** | + $2,000 |
+
+| **3 (Class 3)** | + ($4,000) |
+
+| **Total** | = ($500) |
+
+The partnership has an overall net loss of $500. Since the partnership **cannot**increase its rental loss by claiming CCA, it cannot claim any CCA on the rental buildings or appliances.
+
+**References** Regulations 1100(11) and (14)[Interpretation Bulletin IT-195, *Rental Property – Capital Cost Allowance Restrictions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it195r4.html)[Interpretation Bulletin IT-443,](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it443.html)*[Leasing Property – Capital Cost Allowance Restrictions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it443.html), and its Special Release*[Guide T4036,*Rental Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4036.html)[Form T776, *Statement of Real Estate Rentals*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t776.html)
+
+##### Restriction on computer tax shelter property
+
+In general, a partnership **cannot** create or increase a loss by claiming CCA on any computer tax shelter property.
+
+**References** Regulations 1100(20.1) and (20.2)
+
+##### Replacement property
+
+In a few cases, your partnership can elect to postpone or defer adding a capital gain or CCA recapture to income. Your partnership might sell a business property, and replace it with a similar one, or a partnership property might be stolen, destroyed, or expropriated, and your partnership replaces it with a similar one. You can defer tax on the proceeds of disposition that your partnership reinvests in replacement property within a certain period of time. To defer reporting the capital gain or CCA recapture, your partnership must acquire and use the new property for the same or a similar purpose as the one that it is replacing.
+
+**References** Subsections 13(4) and 44(1)[Income Tax Folio S3-F3-C1, *Replacement Property*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/folio-3-capital-transactions/income-tax-folio-s3-f3-c1-replacement-property.html)
+
+##### CCA rates and classes
+
+**Enhanced first-year CCA for manufacturing and processing (M&P) buildings**
+
+Under proposed changes, partnerships can claim a temporary enhanced first-year CCA for the cost of eligible manufacturing or processing buildings, including qualifying additions or alterations.
+
+A 100% deduction will be allowed in the first fiscal period that eligible property is used for M&P, if at least 90% of the floor space is used for eligible purposes to manufacture or process goods for sale or lease.
+
+The enhanced deduction applies only to eligible property acquired after November 3, 2025 in the fiscal period when the property is first available for use and is subject to the following phase‑out schedule:
+
+- 100% for years ending before 2030
+
+- 75% for years ending in 2030 or 2031
+
+- 55% for years ending in 2032 or 2033
+
+- 0% for years ending after 2033
+
+Partnerships should maintain documentation to support eligibility, including floor space calculations, usage records, and availability for use dates. Ensure the deduction is reflected in the partnership’s CCA schedules.
+
+**New purpose-built residential rental – Class 1**
+
+An accelerated CCA rate of 10% (the existing CCA rate of 4% plus an additional 6%) is available for eligible new purpose-built rentals in Canada that:
+
+Either:
+
+- begin construction after April 15, 2024, and before 2031, or
+
+- was previously used as a commercial property, but was substantially renovated to be used as a purpose-built residential rental and the renovation began after April 15, 2024, and before 2031
+
+and,
+
+- become available for use before 2036
+
+Investments eligible for this measure continues to benefit from the accelerated investment incentive (AII) and reaccelerated investment incentive (RII). The AII currently suspends the half-year rule, providing a CCA deduction at the full rate for eligible property that, becomes available for use before 2025. For more information on [RII](#RIIP).
+
+In general terms, eligible property is a new purpose-built residential rental that is a building or part of a building situated in Canada:
+
+- that contains four or more residential rental units, at least four of which contain private kitchen facilities, a private bath and a private living area, or 10 or more residential rental units, and
+
+- in which at least 90% of residential rental units are rented or offered for rent for continuous periods of not less than 28 consecutive days
+
+A residential rental unit means a housing unit used or intended for use as rented residential premises that is not provided to the travelling or vacationing public.
+
+**CCA for the manufacturing and processing sector** –Manufacturing and processing machinery and equipment acquired after March 18, 2007, and before 2016 that would otherwise be included in class 43 (eligible for a 30% declining-balance CCA rate) are included in class 29 and eligible for 50% straight-line CCA rate.
+
+Eligible assets acquired after 2015 and before 2026 are included in class 53 and are eligible for a 50% declining-balance CCA rate. They are subject to the half-year rule.
+
+Eligible assets acquired after 2025 are included in class 43 and are eligible for a 30% declining-balance CCA rate. They are subject to the half-year rule.
+
+Equipment used in manufacturing and processing may also be eligible for the AII and RII (see below).
+
+**Reference**[Income Tax Folio S4-F15-C1,*Manufacturing and Processing*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-15-manufacturing-research-development/income-tax-folio.html)
+
+**Zero-emission vehicles (ZEVs)** **– Classes 54 and 55 –** For ZEVs acquired after March 18, 2019, two CCA classes are added. Class 55 was created for ZEVs otherwise included in class 16, essentially automobiles for lease or rent and taxicabs, with the same CCA rate of 40%. Class 54 was created for ZEVs that would otherwise be included in class 10 or 10.1, essentially other automobiles, with the same CCA rate of 30%. The CCA still applies on a declining-balance basis.
+
+A partnership may elect to not include in class 54 or 55 a vehicle that would otherwise be a ZEV. When such an election is filed, the vehicle will no longer be considered a ZEV. As a result, the vehicle will be included in its usual CCA class 10, 10.1 or 16. A partnership has to file this election with the minister of national revenue in its return for the tax year in which the vehicle is acquired. There is no provision for late filing or amending elections.
+
+An eligible ZEV is essentially a motor vehicle that is owned by the partnership and is for use on streets and highways (excluding a trolley bus or vehicle operated only on rails) that is fully electric, or a plug in hybrid that has a battery capacity of at least 7 kWh, or fully powered by hydrogen.
+
+It **cannot** be a vehicle:
+
+- for which the Government of Canada paid assistance under a prescribed program such as the federal purchase incentive announced on March 19, 2019 (presently there is only one prescribed program)
+
+- that the partnership elected not to include in class 54 or 55
+
+If the vehicle was acquired before March 2, 2020, it must not have been used, or acquired for use, for any purpose before it was acquired by the partnership and it cannot be a vehicle for which an amount has been deducted as CCA, or a terminal loss has been claimed, by another person or partnership.
+
+If the vehicle was acquired after March 1, 2020, it must meet one of the following conditions:
+
+- No CCAor terminal loss was claimed in respect of the vehicle by any person or partnership before it was acquired by the partnership
+
+The vehicle was **not**:
+
+- previously owned or acquired by the partnership or a non-arm's length person or partnership, or
+
+- transferred to the partnership on a tax-deferred **rollover** basis
+
+In addition, a ZEV has to be acquired, and become available for use, after March 18, 2019, and before 2034.
+
+An enhanced first-year CCA is available as follows for property acquired before 2025:
+
+- 100% for property that became available for use after March 18, 2019, and before 2024
+
+- 75% for property that became available for use in 2024 or 2025
+
+- 55% for property that became available for use after 2025 and before 2028
+
+An enhanced first-year CCA is available as follows for property acquired after 2024:
+
+- 100% for property that became available for use on or after January 1, 2025, and before 2030
+
+- 75% for property that became available for use in 2030 or 2031
+
+- 55% for property that became available for use after 2031 and before 2034
+
+For the enhanced first-year allowance, the following step should be done before calculating the CCA:
+
+- increase the net capital cost addition to the class for property that becomes available for use before 2034 as follows:
+
+**For Class 54, increase the capital cost addition by an amount equal to**:
+
+- 2 ⅓ times the net addition to the class for property acquired before 2025 that became available for use before 2024 and property acquired after 2024 that became available for use before 2030
+
+- 1 ½ times the net addition to the class for property acquired before 2025 that becomes available for use in 2024 or 2025 and property acquired after 2024 that became available for use in 2030 or 2031
+
+- 5/6 times the net addition to the class for property acquired before 2025 that became available for use after 2025 and property acquired after 2024 that became available for use after 2031
+
+**For Class 55, increase the capital cost addition by an amount equal to:**
+
+- 1 ½ times the net addition to the class for property acquired before 2025 that became available for use before 2024 and property acquired after 2024 that became available for use before 2030
+
+- 7/8 times the net addition to the class for property acquired before 2025 that became available for use in 2024 or 2025 and property acquired after 2024 that became available for use in 2030 or 2031
+
+- 3/8 times the net addition to the class for property acquired before 2025 that became available for use after 2025 and property acquired after 2024 that became available for use after 2031
+
+- suspend the existing CCA half-year rule
+
+Multiply the result by the prescribed CCA rate of 30% for class 54 and 40% for class 55.
+
+The CCA will apply to any remaining balance for the classes using the set rate for each class.
+
+These measures do not change the total amount that can be deducted over the life of the vehicle, it just allows a larger deduction in the first year.
+
+A zero-emission passenger vehicle is an automobile that is included in class 54. When the capital cost of a zero-emission passenger vehicle is more than a prescribed amount ($61,000 plus sales taxes for vehicles acquired on or after January 1, 2023), the capital cost of the vehicle is deemed to be the prescribed amount. This amount will be reviewed annually.
+
+If a zero-emission passenger vehicle is disposed of to a person or partnership with which the partnership deals at arm's length and its cost is more than the prescribed amount, the proceeds of disposition will be adjusted based on a factor equal to the prescribed amount as a proportion of the actual cost of the vehicle. But for dispositions made after July 29, 2019, the actual cost of the vehicle is adjusted for any payments or repayments of government assistance.
+
+##### Zero-emission vehicles (other than motor vehicles) – Class 56
+
+Class 56 provides a temporary enhanced first-year capital cost allowance (CCA) rate of 100% for eligible zero-emission automotive equipment (other than motor vehicles) that currently do not benefit from the accelerated rate provided by classes 54 and 55.
+
+Class 56 includes property that is acquired after March 1, 2020, and becomes available for use before 2034.
+
+The enhanced first-year CCA applies only for the tax year in which the equipment or vehicle first becomes available for use. It is subject to the following phase-out for property acquired before 2025:
+
+- 100% for property that became available for use after March 1, 2020 and before 2024
+
+- 75% for property that became available for use after 2023 and before 2026
+
+- 55% for property that became available for use after 2025 and before 2028
+
+It is subject to the following phase-out for property acquired after 2024:
+
+- 100% if it became available for use after 2024 and before 2030
+
+- 75% if it became available for use in 2030 or 2031
+
+- 55% if it became available for use after 2031 and before 2034
+
+For the enhanced first-year allowance, the following step should be done before calculating the CCA:
+
+- increase the net capital cost addition by an amount equal to:
+
+    - 2 ⅓ times the net addition to the class for property acquired before 2025 that became available for use before 2024 and property acquired after 2024 that became available for use before 2030
+
+    - 1 ½ times the net addition to the class for property acquired before 2025 that became available for use in 2024 or 2025 and property acquired after 2024 that became available for use in 2030 or 2031
+
+    - 5/6 times the net addition to the class for property acquired before 2025 that became available for use after 2025 and property acquired after 2024 that became available for use after 2031
+
+- suspend the existing CCA half-year rule
+
+CCA is deductible on any remaining balance in class 56 on a declining-balance basis at a rate of 30%. An election is available to forgo class 56 treatment and instead include property in the class in which it is otherwise eligible.
+
+To be eligible for the enhanced first-year allowance, a vehicle or equipment must be automotive (that is, self-propelled) and fully electric or powered by hydrogen. Vehicles or equipment that are powered partially by electricity or hydrogen (which includes hybrid vehicles and vehicles that require human or animal power for propulsion) are not eligible.
+
+Class 56 captures any type of zero-emission automotive (i.e., self-propelled) equipment that is not a motor vehicle. For example, zero-emission aircraft, watercraft, trolley buses and railway locomotives. The exclusion of motor vehicles is intended to result in class 56 capturing all such automotive equipment that is not designed for use on highways or streets. Those that are designed for use on highways or streets should generally be eligible for inclusion in class 54 or 55.
+
+Additions or alterations may also qualify for class 56 treatment if they convert automotive equipment (other than a motor vehicle) into zero-emission property. In cases where a business converts automotive equipment or vehicles to run only on electricity or hydrogen, the business would be able to claim the enhanced first-year allowance in respect of the cost of additions or alterations needed to achieve such a conversion. The enhanced allowance would be available for the fiscal period in which the converted equipment or vehicle first becomes available for use by the business.
+
+Class 56 excludes property in respect of which CCAhas previously been claimed by any person or partnership where the property was acquired by the partnership on a tax-deferred **rollover** basis or it was previously owned or acquired by the partnership or a non-arm's length person or partnership.
+
+##### CCA for clean energy equipment (classes 43.1 and 43.2)
+
+For property that becomes available for use after 2024, access to classes 43.1 and 43.2 for certain fossil-fuelled and low efficiency waste-fuelled electrical generation equipment was restricted by:
+
+- removing some equipment that is currently included in these classes (for example, fossil-fuelled cogeneration systems)
+
+- narrowing the eligibility by imposing heat rate thresholds for others (for example, producer gas generating equipment)
+
+**Accelerated investment incentive property (AIIP)**
+
+An AIIP is a property (other than a property included in classes 54 to 56) that is acquired after November 20, 2018, and before 2025, and becomes available for use before 2028.
+
+AIIP is a property that meets one of the following conditions:
+
+- No person or partnership has claimed a capital cost allowance (CCA) or terminal loss for the property before it was acquired by the partnership
+
+- The property was not:
+
+    - previously owned or acquired by the partnership or a non-arm's length person or partnership, or
+
+    - transferred to the partnership on a tax-deferred **rollover**basis
+
+The following measures are available to AIIP:
+
+- Accelerated investment incentive (AII) – Providing an enhanced first-year allowance for certain eligible property that is subject to the CCA rules. In general, the incentive is made up of two elements:
+
+    - an increase of up to 50% of the net capital cost addition (for the purposes of calculating the CCA) to a class for property that becomes available for use before 2024
+
+    - suspending the existing CCAhalf-year rule (and equivalent rules for Canadian vessels and class 13 property) for property that becomes available for use before 2028
+
+Under the existing half-year rule, in general, property (other than AIIP, reaccelerated investment incentive property (RIIP), or property included in classes 54 to 56) acquired during the tax year is eligible for only 50% of the normal maximum CCA for the year. You can claim full CCA for that property in the next tax year. See Regulation 1100(2).
+
+In certain situations, rules related to limited partners, specified leasing properties, specified energy properties and rental properties can restrict a CCA deduction, or a loss related to such a deduction, that would otherwise be available. These rules continue to apply.
+
+The accelerated investment incentive does not change the total amount that can be deducted over the life of the property, it just allows a larger deduction in the first year.
+
+For more information, go to [Accelerated Investment Incentive](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/report-business-income-expenses/claiming-capital-cost-allowance/accelerated-investment-incentive.html).
+
+**References**Subsection 1104(4) of the Regulations[Income Tax Folio S3-F8-C2, *Tax Incentives for Clean Energy Equipment*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-8-resource-properties/income-tax-folio-s3-f8-c2-tax-incentives-clean-energy-equipment.html)
+
+##### Reaccelerated investment incentive property
+
+Reaccelerated investment incentive property (RIIP) is a property (other than a property included in classes 54 to 56) that is acquired by the partnership after 2024, and becomes available for use before 2034.
+
+The property has to meet one of the following conditions:
+
+- no person or partnership has claimed CCA (or a terminal loss) for the property before it was acquired by the partnership
+
+- the property was not:
+
+    - transferred to the partnership on a tax deferred "rollover" basis, or
+
+    - previously owned or acquired by the partnership or a non-arm's length person or partnership
+
+The following measures are available to RIIP:
+
+- **Reaccelerated investment incentive** – Providing an enhanced first-year allowance for certain eligible property that is subject to the CCA rules. In general, the incentive is made up of two elements:
+
+    - an increase to the capital cost addition for certain classes (for purposes of calculating CCA) for property that becomes available for use in certain years
+
+    - suspending the existing CCA half-year rule (and equivalent rules for Canadian vessels and Class 13 property) for property that becomes available for use before 2034
+
+Under the half-year rule, in general, property other than AIIP, RIIP, or property included in Classes 54 to 56, acquired during the tax year, is eligible for only 50% of the normal maximum CCA for the year. You can claim full CCA for that property in the next tax year. See Regulation 1100(2).
+
+In certain situations, rules related to limited partners, specified leasing properties, specified energy properties and rental properties can restrict a CCA deduction, or a loss for such a deduction, that would otherwise be available. These rules continue to apply.
+
+The reaccelerated investment incentive does not change the total amount that can be deducted over the life of the property, it just allows a larger deduction in the first year.
+
+**References** Regulations 1100(2) and 1104(4.01)
+
+#### Immediate expensing of up to $1.5 million per year for designated immediate expensing property (DIEP)
+
+The immediate expensing incentive is available to eligible partnerships. An eligible partnership is a Canadian partnership all of the members of which were, throughout the fiscal period, Canadian-controlled private corporations (CCPCs), individuals (other than trusts) resident in Canada, or a combination of both. A partnership with another partnership as a member does not qualify for this incentive.
+
+In general terms, the immediate expensing incentive is a temporary accelerated CCA incentive that allows an eligible partnership to immediately deduct the full cost of designated immediate expensing property (DIEP), up to $1.5 million per fiscal period. However, the amount cannot exceed its income for the fiscal period from the source in which the property is used (calculated before deducting CCA). As a result, the immediate expensing incentive cannot be used to create or to increase a partnership loss.
+
+DIEP is property that is immediate expensing property that became available for use in the fiscal period and is designated as DIEP in prescribed form filed by the partnership no later than 12months after the filing due date of the partnership return for the fiscal period.
+
+Immediate expensing property is a depreciable property (other than property included in Classes 1 to 6, 14.1, 17, 47, 49 and 51) that is acquired by the partnership after December 31, 2021, becomes available for use before 2024 (**or before 2025 in the case of a Canadian partnership all the members of which are individuals throughout the fiscal period**) and meets one of the following conditions:
+
+- the property has never been used and no person or partnership has claimed CCA (or a terminal loss) for the property before it was acquired by the partnership
+
+- the property was not:
+
+    - transferred to the partnership on a tax deferred **rollover** basis, or
+
+    - previously owned or acquired by the partnership or a non-arm's length person or partnership
+
+The immediate expensing incentive is available only for the fiscal period in which the property becomes available for use. The $1.5 million limit is shared among associated members of a group of eligible persons or partnerships (EPOPs) and prorated for fiscal periods that are shorter than 365 days. In order to determine whether two or more EPOPs are associated with each other, special rules have been added which are generally intended to extend the concept of "association", for purposes of this measure, to individuals and partnerships.
+
+An EPOP means a corporation that was a CCPC throughout the year, an individual (other than a trust) resident in Canada throughout the year or a Canadian partnership all of the members of which were, throughout the fiscal period, CCPCs, individuals (other than trusts) resident in Canada, or a combination of both.
+
+If the eligible capital costs are more than $1.5 million and included in more than one CCA class, the partnership can decide to which CCA class the immediate expensing incentive is attributed.
+
+If the partnership has less than $1.5 million of eligible capital costs, it can't carry forward the excess capacity.
+
+The immediate expensing incentive does not change the total amount of CCA that can be deducted over the life of a property, it just allows a larger deduction in the first year. The half-year rule (also known as the 50%rule) is suspended for property to which this measure is applied. Any CCA claimed in the fiscal period under this measure will reduce the UCC of the class to which the DIEP belongs for the purposes of computing any other CCA deduction for the fiscal period.
+
+In some situations, certain rules including those related to limited partners, leasing properties, specified leasing properties, specified energy properties and rental properties can restrict a CCA deduction, or a loss related to such a deduction, that would otherwise be available. These rules continue to apply.
+
+For details, see [T5013 SCH 8 examples](#sch8ex).
+
+**References** Regulations 1100(0.1) to (0.3) and 1104(3.1) to (3.6)
+
+#### Filling out the T5013 SCH 8
+
+##### Part 1 – Agreement between associated eligible persons or partnerships (EPOPs)
+
+Fill out Part 1 if you are an eligible partnership that is associated in the fiscal period with one or more eligible persons or partnerships (EPOPs) and have entered into an agreement under subsection 1104(3.3) of the Income Tax Regulations to share the $1.5 million immediate expensing limit.
+
+Provide in the table, the names of the associated EPOPs, their identification number and the percentage assigned under the agreement. Provide also the immediate expensing limit allocated to you which is $1.5 million multiplied by the percentage assigned to you in column 3. If the sum of the percentages assigned under the agreement exceeds 100%, the immediate expensing limit is nil.
+
+**References** Regulations 1104(3.1) to (3.6)
+
+##### Part 2 – Income earned from the source in which the designated immediate expensing property (DIEP) is used
+
+Fill out Part 2 if you are a Canadian partnership of which all the members were, throughout the fiscal period, CCPCs, individuals (other than trusts) resident in Canada, or a combination of both.
+
+If you have only one source of income, enter the income of that source before CCA deductions on line 156.
+
+If you have more than one source of income, list in the table each source of income, the income before any CCA deductions from each source, and the total amount of the DIEP used for each source.
+
+**References**Regulations 1100(0.1)(c) and 1104(3.1)
+
+##### Part 3 – CCA calculation
+
+###### Column 1 – Class number
+
+Enter the class number of your properties, using a separate line for each class number. To get this information, use the T5013 SCH 8 for the last fiscal period, or Schedule II and Parts XI and XVIIof the Regulations. Then, calculate CCA on the undepreciated capital cost of all the property in that class.
+
+Generally, all depreciable property of the same class is grouped together. However, you may sometimes have to maintain a separate record for each property in the same class. For example, property that you would usually group in the same class but use to earn income from different sources. Also, each property you elected to identify in a separate class under Regulation 1101(5q), and each class 10.1 passenger vehicle.
+
+To determine what class (class 10 or 10.1) your passenger vehicle belongs to, do not include goods and services tax (GST), harmonized sales tax (HST), or provincial sales tax (PST) when calculating the vehicle's cost. If the passenger vehicle belongs in class 10.1, CCA is based on the set maximum cost in the fiscal period plus any taxes that apply on the maximum cost.
+
+List separately any acquisitions that are not subject to the 50% rule. For more information about these types of acquisitions, see Regulations 1100(2) and (2.2).
+
+If a class number has not been provided in Schedule II of the Regulations for a particular class of property, use the subsection provided in Regulation 1101.
+
+**References** Regulation 7307(1) Regulations 1100 and 1101
+
+##### Election under Regulation 1101(5q)
+
+This election allows you to include certain property usually included in Classes 8 and 43 in a separate class. You have to have acquired each property at a capital cost of at least $1,000. The types of properties that qualify for this election include manufacturing and processing property, computer software, photocopiers, and electronic communications equipment such as facsimile transmission devices or telephone equipment.
+
+You can elect to classify a property in a separate class or several properties in one or more than one separate class. This election can allow you to claim a terminal loss, which is any remaining undepreciated capital cost at the time of disposition of the properties in this class. For more information on terminal losses, see [Column 25 – Terminal loss](#column25).
+
+###### Column 2 – Undepreciated capital cost (UCC) at the beginning of the fiscal period
+
+If this is the first fiscal period of the business or activity, do not enter any information here.
+
+If this is not the first fiscal period of the business or activity, for each class, enter the UCC at the end of the previous fiscal period. You will find these figures in the last column of the previous fiscal period's T5013 SCH 8.
+
+###### Column 3 – Cost of acquisitions during the fiscal period (new property must be available for use)
+
+If the partnership acquired depreciable property during the fiscal period, enter the capital cost for each class.
+
+Depreciable property is considered acquired when it becomes available for use. Include any property acquired in previous fiscal periods that has now become available for use. This property would have been previously excluded from column 3. List separately any acquisitions of property in the class that are not subject to the 50% rule.
+
+Generally, the amount you spend to buy a depreciable property is the capital cost of that property. It is the cost of the property, not its value. Along with the purchase price, it includes costs such as delivery, installation, legal, accounting, engineering work, GST, HST, and any PST. For more information on the GST/HST input tax credit, see the topic [Government assistance](#government).
+
+**Reduce the capital cost of a property by the following amounts:**
+
+- **Government assistance**: Deduct the amount of any related assistance the partnership received or is entitled to receive from a government, municipality, or other public authority in the fiscal period. Assistance includes a grant, a subsidy, and a forgivable loan.
+
+Also, if your partnership incurred GST/HST on some of the depreciable property it bought for the business, it may have applied for, and be considered to have received, the related input tax credit. We consider this input tax credit to be government assistance
+
+- **Investment tax credit (ITC)**: The partnership may have earned an ITC on depreciable property it acquired and had available for use in the fiscal period and allocated those credits to the partners. We consider that the partnership receives this ITC as assistance. Therefore, the partnership has to deduct from the capital cost of the depreciable property the amount of ITC it allocated to the partners, whether or not the partners claimed the tax credit
+
+- **Non-government assistance**: A partnership can elect to reduce the capital cost of depreciable property by the amount of related non-government assistance it received.
+
+If you do not reduce the capital cost of the depreciable property by the amount of the related non-government assistance the partnership received, you have to include the assistance in the partnership income
+
+- **Forgiven debt**: A partnership has to reduce the capital cost of a depreciable property and the UCC of a depreciable property of the applicable class by the amount of a forgiven debt obligation for which the partnership has made a designation under subsection 80(5), to the extent that subsection 80(6) permits the reduction
+
+**Add to the capital cost of the property the following amount:**
+
+- **Repayment of assistance**: Increase the capital cost of the property when the partnership repays any amount of assistance that previously reduced the capital cost of the property and the partnership did not dispose of that property
+
+Do not enter subsection 97(2) transfers in this column.
+
+**References** Subsections 13(7.1) and 13(7.4) Paragraph 12(1)(x) Regulations 1100(2) and (2.2)[Income Tax Folio S3-F4-C1, *General Discussion of Capital Cost Allowance*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plans-folio-4-capital-cost-allowance/income-tax-folio-s3-f4-c1-general-discussion-capital-cost-allowance.html)
+
+##### Column 4 – Cost of acquisitions from column 3 that are designated immediate expensing property (DIEP)
+
+For each class, designate the immediate expensing property acquired and available for use in the fiscal period as DIEP by entering the capital cost in column 4. They are included in column 3 and shown separately in column 4.
+
+**Reference** Regulation 1104(3.1)
+
+###### Column 5 – Adjustments and transfers
+
+In some cases, you will have to adjust the UCC of a property in column 5. Enter the amounts that will either **reduce** or **increase** the UCC.
+
+If the total adjustments for any class reduce the UCC for that class, show the amount in brackets.
+
+**Reduce**the UCC of a property by the following amounts:
+
+- any amount by which the UCC for the class is required (otherwise than because of a reduction in the taxpayer's capital cost of depreciable property) to be reduced at or before the time of the UCC calculation because of the debt forgiveness rules in subsection 80(5)
+
+- each amount of ITC allowed on a property for a tax year which has ended before the UCC calculation and after disposition of the property
+
+- each amount of assistance you received (or were entitled to receive) after the disposition of a property, if such assistance would have decreased the capital cost of the property by virtue of paragraph 13(7.1)(f)
+
+- each amount you received after February 23, 1998, and before the time of the UCC calculation for a refund of an amount as or on account of a proposed or existing countervailing or anti-dumping duty on a particular property added to the UCC of the class
+
+- each depreciable property transferred under section 85. Deduct the depreciable property transferred to a corporation
+
+**Add**to the UCC of the property:
+
+- any legally required repayment of assistance made after the disposition of a particular property, that would have otherwise increased the capital cost of the property under paragraph 13(7.1)(d)
+
+- any legally required repayment of an inducement, assistance or any other amount contemplated in paragraph 12(1)(x) received after the disposition of a particular property, that otherwise would have increased the capital cost of the property under paragraph 13(7.4)(b)
+
+- each amount payable after February 23, 1998, and paid before the time of the UCC calculation as or on account of a proposed or existing countervailing or anti-dumping duty on a particular property
+
+Also include in column 5 depreciable property transferred under subsection 97(2). Show the amounts that reduce the UCC in brackets. Do not include them as income.
+
+**References** Subsections 13(7.1), (7.4), and (21), 80(5) and (6), 127(5), (6), and (12) Paragraph 12(1)(x)[Interpretation Bulletin IT-273,*Government Assistance – General Comments*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it273r2.html)
+
+###### Column 6 – Amount from column 5 that is assistance received or receivable during the fiscal period for a property, subsequent to its disposition
+
+Enter the total amount of assistance you received (or were entitled to receive) after the disposition of a depreciable property, if such assistance would have decreased the capital cost of the property if received before the disposition by virtue of paragraph 13(7.1)(f).
+
+The amount of assistance received (or that is entitled to be received) is included in column 5, since it reduces the capital cost of a property and is reported separately in column 6.
+
+**References** Subsection 13(21) Paragraph 13(7.1)(f)
+
+###### Column 7 – Amount from column 5 that is repaid during the fiscal period for a property, subsequent to its disposition
+
+In column 7, include all amounts you have repaid during the year with respect to any legally required repayment, made after the disposition of a corresponding property, of:
+
+- assistance that would have otherwise increased the capital cost of the property under paragraph 13(7.1)(d)
+
+- any inducements, assistance or any other amount contemplated in paragraph 12(1)(x), that otherwise would have increased the capital cost of the property under paragraph 13(7.4)(b)
+
+These amounts are also included in column 5, since they increase the capital cost of a property. They are also reported separately in column 7.
+
+**References** Subsection 13(21) Paragraphs 13(7.1)(d), 13(7.4)(b), and 12(1)(x) Regulation 1100(2.2)
+
+###### Column 8 – Proceeds of dispositions
+
+For each class, you usually enter the total proceeds of disposition you received or you are entitled to receive for property disposed of during the fiscal period. However, if you disposed of the property for more than its capital cost, enter the capital cost, not the actual proceeds of disposition.
+
+A capital gain results when you dispose of a depreciable property for more than its capital cost. However, losses on depreciable property **do not result** in capital losses. They may result in terminal losses. For more information about terminal losses, see [Column 25 – Terminal loss](#column25).
+
+**Reference** Subsection 13(21)
+
+###### Column 9 – UCC
+
+Calculate the UCC as follows:
+
+- column 2 **plus** column 3
+
+- **plus** or **minus** column 5 (plus if the amount is positive, or minus if the amount is negative)
+
+- **minus** column 8
+
+For each class of assets, this amount is the subtotal that is the UCC before the restriction on certain depreciable properties. You cannot claim CCA when the amount in column 9 is:
+
+- positive, and no property is left in that class at the end of the fiscal period (a **terminal loss**)
+
+- negative (a **recapture of CCA**)
+
+**Capital gain** – If the proceeds of disposition of a depreciable property are more than its capital cost, a capital gain may occur. This capital gain should be included on Part 5 of the [T5013 SCH 6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch6.html).
+
+**Capital loss** – There cannot be a capital loss on the disposition of depreciable property. In this case, your partnership may have a terminal loss.
+
+##### Terminal loss
+
+A terminal loss results when you dispose of all the property in a particular class and there is an amount of undepreciated capital cost left in column 9.
+
+You have to deduct the terminal loss from the partnership income.
+
+For more information on how to fill out the T5013 SCH 8, see [Example 1 – Terminal loss](#loss).
+
+##### Recapture of CCA
+
+If the amount in column 9 is negative, you have a recapture of CCA. A recapture of CCA occurs when the proceeds of disposition in column 8 are more than the total of columns 2 and 3, plus or minus the amount in column 5 of that class.
+
+You have to add the recapture of CCA to the partnership income.
+
+The recapture and terminal loss rules do not apply to passenger vehicles in class 10.1. However, the recapture rules do apply to a passenger vehicle that was, at any time, a DIEP.
+
+Once you have entered the recapture or terminal loss from column 9 in column 24 or 25, do not complete columns 26 and 27 for that line.
+
+**References**Subsections 13(1), (2), and (21), 20(16.1), and 54 Paragraphs 20(16)(a), 39(1)(a) and (b)[Guide T4037, *Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html)[Income Tax Folio S3‑F4‑C1, *General Discussion of Capital Cost Allowance*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plans-folio-4-capital-cost-allowance/income-tax-folio-s3-f4-c1-general-discussion-capital-cost-allowance.html)
+
+###### Column 10 – UCC of the DIEP
+
+Enter the UCC amount that relates to the DIEP reported in column 4. If the UCC amount that relates to the DIEP reported in column 4 exceeds the amount in column 9, enter in column 10 the amount from column 9. If the figure in column 9 is zero or a negative amount, enter zero.
+
+###### Column 11 – Immediate expensing
+
+The immediate expensing is the lesser of the following three elements:
+
+- the immediate expensing limit for the fiscal period
+
+- the UCC of the DIEP for the fiscal period (amount from column 10)
+
+- the income earned (before any CCA deductions) from the business or property in which the DIEP is used (amount from line 156 or relevant source of income from line 165)
+
+The immediate expensing limit is equal to one of the following five amounts, whichever is applicable:
+
+- $1.5 million, if the partnership is not associated (under subsection 1104(3.6) of the Regulations) with any other EPOP in the fiscal period
+
+- the immediate expensing limit allocated to the partnership in Part 1, if it is associated with one or more EPOPs in the fiscal period and it entered into an agreement with them under subsection 1104(3.3) of the Regulations
+
+- nil, if the partnership is associated with one or more EPOPs in the fiscal period and:
+
+    - the total of the percentages assigned in the agreement exceeds 100%, or
+
+    - the partnership has not filed an agreement in prescribed form as required under subsection 1104(3.3) of the Regulations
+
+- the amount determined under subsection 1104(3.5) of the Regulations for any second or subsequent fiscal period ending in a calendar year, if the partnership has two or more fiscal periods ending in the calendar year in which it is associated with another EPOP that has a tax year ending in that calendar year, or
+
+- any amount allocated by the Minister under subsection 1104(3.4) of the Regulations
+
+The immediate expensing limit has to be prorated if your fiscal period is less than 51 weeks.
+
+**References**Regulations 1100(0.1) and 1104(3.1) to (3.6)
+
+###### Column 12 – Remaining UCC
+
+Column 12 represents the remaining portion of UCC after applying the immediate expensing deduction. This UCC will be used to calculate the CCA deduction under subsection 1100(1) of the Regulations.
+
+**Subtract** the amount in column 11 from the amount in column 9 and enter the difference.
+
+**Reference**Regulation 1100(0.2)
+
+###### Column 13 – Cost of acquisitions on remainder of class
+
+Column 13 represents the cost of acquisitions after applying the immediate expensing deduction to DIEP. It includes the cost of the properties acquired during the fiscal period that are not DIEP and the cost of DIEPs in excess of the immediate expensing deduction for the fiscal period.
+
+To calculate the amount you have to enter in column 13, **subtract** the amount in column 11 from the amount in column 3.
+
+###### Column 14 – Cost of acquisitions from column 13 that are accelerated investment incentive property (AIIP) or property acquired before 2025 that is included in Classes 54 to 56
+
+For each class, enter the total cost of AIIP or property acquired before 2025 that is included in Classes 54 to 56 that became available for use during the year. They are included in column 13 and shown separately in column 14.
+
+AIIP generally means a property, other than property included in Classes 54 to 56, acquired after November 20, 2018, and before 2025, and that becomes available for use before 2028.
+
+For more details, see [Zero-emission vehicles (ZEVs) – Classes 54 and 55](#zev_54_55) and [Zero-emission vehicles (other than motor vehicles) – Class 56](#zev_56), and [Accelerated investment incentive property (AIIP)](#AIIP).
+
+**References**Regulation 1104(4) Schedule II of the Regulations
+
+###### Column 15 – Cost of acquisitions from column 13 that are reaccelerated investment incentive property (RIIP) or property acquired after 2024 that is included in Classes 54 to 56
+
+For each class, enter the total cost of the RIIP or property acquired after 2024 that is included in Classes 54 to 56 that became available for use during the year. They are included in column 13 and shown separately in column 15.
+
+RIIP generally means a property, other than property included in Classes 54 to 56, acquired after 2024 and becomes available for use before 2034.
+
+For more details, see Zero-emission vehicles (ZEVs) – Classes 54 and 55 and Zero-emission vehicles (other than motor vehicles) – Class 56, and Reaccelerated investment incentive property (RIIP).
+
+**Reference** Regulation 1104(4.01)
+
+Schedule II of the Regulations
+
+###### Column 16 – Proceeds of disposition available to reduce additions of AIIP, RIIP and property included in Classes 54 to 56
+
+When you purchase both AIIP, RIIP or a property included in Classes 54 to 56, and other property that is not an AIIP, RIIP and property in Classes 54 to 56 during the year, and a disposition occurs, the disposition first offsets the property other than AIIP, RIIP and property included in Classes 54 to 56. Then it reduces the UCC of the AIIP, RIIP or the property included in Classes 54 to 56.
+
+To calculate the amount you have to enter in column 16, do the following:
+
+- **add**the amount in column 8
+
+- **add** the amount in column 6
+
+- **subtract** the amount in column 13
+
+- **add** the amount in column 14
+
+- **add**the amount in column 15
+
+- **subtract**the amount in column 7
+
+**Reference**Regulation 1100(2)
+
+###### Column 17 – Net capital cost additions of AIIP and property acquired before 2025 that is included in Classes 54 to 56 acquired during the fiscal period
+
+To calculate the amount you have to enter in column 17, **subtract** the amount in column 16 from the amount in column 14 and enter the difference.
+
+**Reference**Regulation 1100(2)
+
+###### Column 18 – Proceeds of dispositions from column 16 available to reduce additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56
+
+Under an administrative position, the CRA allows the amount from column 16 to reduce first the additions of AIIPs and property acquired before 2025 that is included in Classes 54 to 56, with any remaining amount reducing the additions of RIIPs and property acquired after 2024 that is included in Casses 54 to 56.
+
+To calculate the amount you have to enter in column 18, subtract the amount in column 14 from the amount in column 16 and enter the difference.
+
+###### Column 19 – Net capital cost additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56
+
+To calculate the amount that you have to enter in column 19, subtract the amount in column 18 from the amount in column 15 and enter the difference.
+
+**Reference** Regulation 1100(2)
+
+###### Column 20 – UCC adjustment for AIIP and property acquired before 2025 that is included in Classes 54 to 56
+
+The remaining UCC (from column 12) is adjusted in order to include an accelerated CCA component for AIIP and property acquired before 2025 that is included in any of Classes 54 to 56 that became available for use during the year. **Multiply**the net capital cost of additions from column 17 by the relevant factor.
+
+For more information on the relevant factors, see the instructions on the [T5013 SCH 8](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch8.html).
+
+**Reference**Regulation 1100(2)
+
+###### Column 21 – UCC adjustment for RIIP and property acquired after 2024 that is included in Classes 54 to 56
+
+The remaining UCC (from column 12) is adjusted in order to include an accelerated CCA component for RIIP acquired during the year and property acquired after 2024 that is included in Classes 54 to 56. Multiply the net capital cost of additions from column 19 by the relevant factor.
+
+For more information on the relevant factors, see the instructions on the [T5013 SCH 8](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch8.html).
+
+**Reference** Regulation 1100(2)
+
+###### Column 22 – UCC adjustment for property acquired during the fiscal period other than AIIP, RIIP and property included in Classes 54 to 56
+
+In the fiscal period that a partnership acquired depreciable property, the CCA claim was generally limited to 50% of the allowable rate for net acquisitions of property in that class. The partnership could claim the full CCA for that property starting in the next fiscal period.
+
+This 50% rule does not apply to certain property, including AIIP, RIIP and property included in Classes 54 to 56. Certain properties acquired through non-arm's length transfers or butterfly transfers (which occur in the course of certain reorganizations) are also exempt from the 50% rule. For special rules and exceptions, see [Income Tax Folio S3-F4-C1, *General Discussion of Capital Cost Allowance*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plans-folio-4-capital-cost-allowance/income-tax-folio-s3-f4-c1-general-discussion-capital-cost-allowance.html).
+
+To apply the 50% rule, the remaining UCC of the property (from column 12) has to be adjusted. This adjustment is equal to half of the net amount of additions to the class (the net cost of acquisitions minus the proceeds of dispositions). Enter this amount in column 22. For more information, see [Example 3 – 50% rule](#example_3_50).
+
+When applying the 50% rule, do not reduce the net amount of additions by the ITC claimed in the previous fiscal period and included in column 5.
+
+To calculate the amount you have to enter in column 22, do the following:
+
+- **subtract**the amounts in column 14 and 15 from the amount in column 13
+
+- **subtract**the amount in column 6
+
+- **add**the amount in column 7
+
+- **subtract**the amount in column 8
+
+- **multiply**the result by 0.5
+
+**References**Regulations 1100(2) and 1100(2.2)
+
+###### Class 10.1 – Half-year rule on sale
+
+There is a special rule for a class 10.1 vehicle the partnership disposed of in the current fiscal period. In the fiscal period the partnership disposed of the vehicle, you can claim half of the CCA that would have been allowed if the partnership had still owned the vehicle. Use the half-year rule on the sale when the partnership meets both of the following conditions:
+
+- the partnership disposed of a class 10.1 vehicle in the current fiscal period
+
+- the partnership owned the same vehicle at the end of the preceding fiscal period
+
+**References**Regulations 1100(2) and (2.5)
+
+###### Column 23 – CCA rate %
+
+If you are using the declining-balance method, enter the rate provided under Part XI of the Regulations. If you are using any other method or if a rate has not been provided for a particular class of property, enter N/A in this column.
+
+**Declining balance method** – The capital cost of an asset (other than an AIIP, RIIP or a property included in Classes 54 to 56) is $780,000. Assume the rate for the class is 10% and the half-year rule applies.
+
+First year: 10% x $780,000 = $78,000 $78,000 ÷ 2 = $39,000 CCA (half-year rule)
+
+Second year: $780,000 - $39,000 = $741,000 (undepreciated capital cost) $741,000 x 10% = $74,100 CCA
+
+Third year: $741,000 - $74,100 = $666,900 (undepreciated capital cost) $666,900 x 10% = $66,690 CCA
+
+And so on for the following years.
+
+##### Column 24 – Recapture of CCA
+
+If the amount in column 9 for any class is negative, the partnership has a recapture and may also have a capital gain.
+
+**Add** the amount of any recapture for each class to the partnership's income when you reconcile the partnership's net income or loss for income tax purposes. Enter the total from column 24 (box 230) on line 107 of the [T5013 SCH 1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch1.html).
+
+The recapture rules do not apply to passenger vehicles in class 10.1. However, they do apply in respect of a passenger vehicle that was, at any time, a DIEP.
+
+Report the partner's share of recaptured depreciation in box 252 of the partner's T5013 slip only if the partnership is required to file a [T5013 SCH 130](#t5013sch130).
+
+**References**Subsections 13(1) and 13(2)
+
+##### Column 25 – Terminal loss
+
+When your partnership disposes of **all** the property in a particular class in a fiscal period, and there is a positive amount of UCC left in column 9, that amount is a terminal loss. You have to deduct the terminal loss from the partnership's income. Enter the total from column 25 (box 240) on line 404 of the [T5013 SCH 1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch1.html).
+
+The terminal loss rules do not apply to:
+
+- passenger vehicles in class 10.1
+
+- property in class 14.1, unless you have ceased carrying on the business to which it relates
+
+- certain limited-period franchises, concessions, or licences in class 14 to which the replacement property rules applied, unless certain conditions are met
+
+Report the partner’s share of the terminal loss in box 251 of the partner’s T5013 slips only if the partnership is required to file a [T5013 SCH 130](#t5013sch130).
+
+**References**Subsection 20(16) and 20(16.1)
+
+##### Column 26 – CCA
+
+To claim the maximum CCA for each class for the declining-balance method, do the following:
+
+- column 12 **plus**column 20 **plus** column 21
+
+- **minus**column 22
+
+- **multiply the result** by the rate in column 23
+
+- **plus** column 11
+
+Enter the result in column 26. You do not have to claim the maximum allowable CCA. You can claim any amount up to the maximum allowed.
+
+If the fiscal period is less than 365 days, prorate the CCA claim for all property except for those Classes of property that Regulation 1100(3) excludes. The exceptions in Regulation 1100(3) include:
+
+- class 14 assets
+
+- class 15 assets
+
+- timber limits and cutting rights
+
+- industrial mineral mines
+
+- certified productions
+
+- Canadian film or video productions
+
+- certain mining equipment in Classes 28 and 41
+
+- To calculate the maximum CCA claim, multiply the maximum CCA for a complete fiscal period by the number of days in the fiscal period and divide by 365.
+
+Enter the total of CCA amounts, or the lower amounts, in line 250, and report it at line 403 of the [T5013 SCH 1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch1.html).
+
+Report the partner's share of CCA on depreciable property in box 040 of the partner's T5013 slips.
+
+**Reference**Regulation 1100(3)
+
+##### Column 27 – UCC at the end of the fiscal period
+
+For each class, calculate this amount by subtracting column 26 from the amount in column 9 and enter the difference.
+
+The amount for each class in this column is the amount you enter in column 2 on the [T5013 SCH 8](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch8.html) for the next fiscal period.
+
+See the following examples for completing the T5013 SCH 8.
+
+**References**[Guide T4002, *Self-employed Business, Professional, Commission, Farming, and Fishing Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002.html)[Guide RC4060, *Farming Income and the AgriStability and AgriInvest Programs – Joint Forms and Guide*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4060.html)[Guide RC4408, *Farming Income and the AgriStability and AgriInvest Programs Harmonized Guide*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408.html)
+
+#### T5013 SCH 8 examples
+
+A manufacturing business decided to sell its warehouse because it was better to lease instead. The business received $60,000 for the warehouse. At the end of the 2025 fiscal period, the business had no assets remaining in Class 3.
+
+The business's T5013 SCH 8 for its 2025 fiscal period looks like this:
+
+| 1 Class number | 2 Undepreciated capital cost (UCC) at the beginning of the fiscal period | 3 Cost of acquisitions during the fiscal period (new property must be available for use) | 4 Cost of acquisitions from column 3 that are designated immediate expensing property (DIEP) | 5 Adjustments and transfers (show amounts that will reduce the UCC in brackets) | 6 Amount from column 5 that is assistance received or receivable during the fiscal period for a property, subsequent to its disposition | 7 Amount from column 5 that is repaid during the fiscal period for a property, subsequent to its disposition | 8 Proceeds of dispositions |
+
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Line**200** | Line**201** | Line**203** | Line**232** | Line**205** | Line**221** | Line**222** | Line**207** |
+
+| **3** | **$65,000** | Blank space for value | Blank space for value |  |  | Blank space for value | **$60,000** |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 9 UCC (column 2 **plus** column 3 **plus** or **minus** column 5 **minus** column 8) | **10** UCC of the DIEP (enter the UCC amount that relates to the DIEP reported in column 4) | 11 Immediate expensing | 12 Remaining UCC (column 9 **minus** column 11) (if negative, enter "0") | 13 Cost of acquisitions on remainder of Class (column 3 **minus** column 11) | 14 Cost of acquisitions from column 13 that are accelerated investment incentive property (AIIP) or property acquired before 2025 that is included in Classes 54 to 56 | 15 Cost of acquisitions from column 13 that are reaccelerated investment incentive property (RIIP) or property acquired after 2024 that is included in Classes 54 to 56 | 16 Proceeds of disposition available to reduce additions of AIIP, RIIP and property included in Classes 54 to 56 (column 8 **plus** column 6 **minus** column 13 **plus** column 14 **plus** column 15 **minus** column 7) (if negative, enter “0”) | 17 Net capital cost additions of AIIP and property acquired before 2025 that is included in Classes 54 to 56 (column 14 **minus** column 16) (if negative, enter "0") |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  | Line **236** | Line **238** |  |  | Line **225** | Line **226** |  |  |
+
+| **$5,000** | Blank space for value | Blank space for value | Blank space for value | **N/A** | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 18 Proceeds of dispositions from column 16 available to reduce additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 16 **minus** column 14) (if negative, enter "0") | 19 Net capital cost additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 15 **minus** column 18) (if negative, enter "0") | 20 UCC adjustment for AIIP and property acquired before 2025 that is included in Classes 54 to 56 (column 17 **multiplied** by the relevant factor) | 21 UCC adjustment for RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 19 **multiplied** by the relevant factor) | 22 UCC adjustment for property acquired during the fiscal period other than AIIP, RIIP and property included in Classes 54 to 56 (0.5 **multiplied** by the result of column 13 **minus** column 14 **minus** column 15 **minus** column 6 **plus** column 7 **minus** column 8) (if negative, enter “0”) | 23 CCA rate % | 24 Recapture of CCA | 25 Terminal loss | 26 CCA (for declining balance method, the result of column 12 **plus** column 20 **plus** column 21 **minus** column 22, **multiplied** by column 23 or a lower amount, **plus** column 11) | 27 UCC at the end of the fiscal period (column 9 **minus** column 26) |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  |  |  |  | Line **224** | Line **212** | Line **213** | Line **215** | Line **217** | Line **220** |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | **N/A** | Blank space for value | **$5,000** | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+The amount in column 25 is a terminal loss.
+
+The manufacturing business deducts the $5,000 terminal loss from its income (line 404 of the T5013 SCH 1).
+
+A clothing business bought a sewing machine on February 1, 2021 for $15,000. The machine qualified for the accelerated investment incentive. Because of the business's overwhelming success in retail, it decided to concentrate only on retailing. As a result, the business sold its sewing machine in 2025 for $18,000 (but the proceeds of disposition in column 8 cannot be more than $15,000, the capital cost). At the beginning of 2025, the undepreciated capital cost of Class 8 was $5,376.
+
+The business's T5013 SCH 8 for its fiscal period ending December 31, 2025, looks like this:
+
+| 1 Class number | 2 Undepreciated capital cost (UCC) at the beginning of the fiscal period | 3 Cost of acquisitions during the fiscal period (new property must be available for use) | 4 Cost of acquisitions from column 3 that are designated immediate expensing property (DIEP) | 5 Adjustments and transfers (show amounts that will reduce the UCC in brackets) | 6 Amount from column 5 that is assistance received or receivable during the fiscal period for a property, subsequent to its disposition | 7 Amount from column 5 that is repaid during the fiscal period for a property, subsequent to its disposition | 8 Proceeds of dispositions |
+
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Line**200** | Line**201** | Line**203** | Line**232** | Line**205** | Line**221** | Line**222** | Line**207** |
+
+| **8** | **$5,376** | Blank space for value | Blank space for value |  |  | Blank space for value | **$15,000** |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 9 UCC (column 2 **plus** column 3 **plus** or **minus** column 5 **minus** column 8) | **10** UCC of the DIEP (enter the UCC amount that relates to the DIEP reported in column 4) | 11 Immediate expensing | 12 Remaining UCC (column 9 **minus** column 11) (if negative, enter "0") | 13 Cost of acquisitions on remainder of Class (column 3 **minus** column 11) | 14 Cost of acquisitions from column 13 that are accelerated investment incentive property (AIIP) or property acquired before 2025 that is included in Classes 54 to 56 | 15 Cost of acquisitions from column 13 that are reaccelerated investment incentive property (RIIP) or property acquired after 2024 that is included in Classes 54 to 56 | 16 Proceeds of disposition available to reduce additions of AIIP, RIIP and property included in Classes 54 to 56 (column 8 **plus** column 6 **minus** column 13 **plus** column 14 **plus** column 15 **minus** column 7) (if negative, enter “0”) | 17 Net capital cost additions of AIIP and property acquired before 2025 that is included in Classes 54 to 56 (column 14 **minus** column 16) (if negative, enter "0") |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  | Line **236** | Line **238** |  |  | Line **225** | Line **226** |  |  |
+
+| **($9,664)** | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 18 Proceeds of dispositions from column 16 available to reduce additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 16 **minus** column 14) (if negative, enter "0") | 19 Net capital cost additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 15 **minus** column 18) (if negative, enter "0") | 20 UCC adjustment for AIIP and property acquired before 2025 that is included in Classes 54 to 56 (column 17 **multiplied** by the relevant factor) | 21 UCC adjustment for RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 19 **multiplied** by the relevant factor) | 22 UCC adjustment for property acquired during the fiscal period other than AIIP, RIIP and property included in Classes 54 to 56 (0.5 **multiplied** by the result of column 13 **minus** column 14 **minus** column 15 **minus** column 6 **plus** column 7 **minus** column 8) (if negative, enter “0”) | 23 CCA rate % | 24 Recapture of CCA | 25 Terminal loss | 26 CCA (for declining balance method, the result of column 12 **plus** column 20 **plus** column 21 **minus** column 22, **multiplied** by column 23 or a lower amount, **plus** column 11) | 27 UCC at the end of the fiscal period (column 9 **minus** column 26) |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  |  |  |  | Line **224** | Line **212** | Line **213** | Line **215** | Line **217** | Line **220** |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | **N/A** | **$9,624** | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+The amount in column 24 is the recapture of CCA.
+
+The clothing business includes the $9,624 recapture in its income (line 107 of the T5013 SCH 1).
+
+The capital gain is $18,000 **minus** $15,000, which equals $3,000.
+
+In the 2025 fiscal period, a bookstore bought a photocopier for $10,000 to help keep up with the paperwork, and started using it right away. The vendor was a non-arm's lenght person who claimed CCA for the photocopier in a prior fiscal period. The photocopier is then not considered AIIP or RIIP. Assume the exception to the 50% rule does not apply. The bookstore has to apply the 50% rule when it calculates the amount of CCAit can deduct for its fiscal period ending in 2025.
+
+The bookstore's T5013 SCH 8 for its 2025 fiscal period looks like this:
+
+| 1 Class number | 2 Undepreciated capital cost (UCC) at the beginning of the fiscal period | 3 Cost of acquisitions during the fiscal period (new property must be available for use) | 4 Cost of acquisitions from column 3 that are designated immediate expensing property (DIEP) | 5 Adjustments and transfers (show amounts that will reduce the UCC in brackets) | 6 Amount from column 5 that is assistance received or receivable during the fiscal period for a property, subsequent to its disposition | 7 Amount from column 5 that is repaid during the fiscal period for a property, subsequent to its disposition | 8 Proceeds of dispositions |
+
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Line**200** | Line**201** | Line**203** | Line**232** | Line**205** | Line**221** | Line**222** | Line**207** |
+
+| **8** | **$14,000** | **$10,000** | Blank space for value |  |  | Blank space for value |  |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 9 UCC (column 2 **plus** column 3 **plus** or **minus** column 5 **minus** column 8) | **10** UCC of the DIEP (enter the UCC amount that relates to the DIEP reported in column 4) | 11 Immediate expensing | 12 Remaining UCC (column 9 **minus** column 11) (if negative, enter "0") | 13 Cost of acquisitions on remainder of Class (column 3 **minus** column 11) | 14 Cost of acquisitions from column 13 that are accelerated investment incentive property (AIIP) or property acquired before 2025 that is included in Classes 54 to 56 | 15 Cost of acquisitions from column 13 that are reaccelerated investment incentive property (RIIP) or property acquired after 2024 that is included in Classes 54 to 56 | 16 Proceeds of disposition available to reduce additions of AIIP, RIIP and property included in Classes 54 to 56 (column 8 **plus** column 6 **minus** column 13 **plus** column 14 **plus** column 15 **minus** column 7) (if negative, enter “0”) | 17 Net capital cost additions of AIIP and property acquired before 2025 that is included in Classes 54 to 56 (column 14 **minus** column 16) (if negative, enter "0") |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  | Line **236** | Line **238** |  |  | Line **225** | Line **226** |  |  |
+
+| **$24,000** | Blank space for value | Blank space for value | **$24,000** | **$10,000** | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 18 Proceeds of dispositions from column 16 available to reduce additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 16 **minus** column 14) (if negative, enter "0") | 19 Net capital cost additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 15 **minus** column 18) (if negative, enter "0") | 20 UCC adjustment for AIIP and property acquired before 2025 that is included in Classes 54 to 56 (column 17 **multiplied** by the relevant factor) | 21 UCC adjustment for RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 19 **multiplied** by the relevant factor) | 22 UCC adjustment for property acquired during the fiscal period other than AIIP, RIIP and property included in Classes 54 to 56 (0.5 **multiplied** by the result of column 13 **minus** column 14 **minus** column 15 **minus** column 6 **plus** column 7 **minus** column 8) (if negative, enter “0”) | 23 CCA rate % | 24 Recapture of CCA | 25 Terminal loss | 26 CCA (for declining balance method, the result of column 12 **plus** column 20 **plus** column 21 **minus** column 22, **multiplied** by column 23 or a lower amount, **plus** column 11) | 27 UCC at the end of the fiscal period (column 9 **minus** column 26) |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  |  |  |  | Line **224** | Line **212** | Line **213** | Line **215** | Line **217** | Line **220** |
+
+|  | Blank space for value | Blank space for value | Blank space for value | **$5,000** | **20** | Blank space for value | Blank space for value | **$3,800** | **$20,200** |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+A grocery store bought refrigeration equipment to store fruits and vegetables for $20,000 during its fiscal period and before 2025. The equipment it purchased is not immediate expensing property. The fiscal period starts on April1, 2024, and ends on March 31, 2025.
+
+The refrigeration equipment is included in Class 8 and is considered AIIP. AIIP is included in the columns 3, and 13, and reported separately in column 14.
+
+AIIP is not subject to the half-year rule. Without the accelerated investment incentive, the amount of property bought during the fiscal period subject to the CCA deduction would be **$10,000** as the half-year rule would apply.
+
+The accelerated investment incentive allows the grocery store to claim up to three times the amount of CCA otherwise deductible in the first year.
+
+The grocery store's T5013 SCH 8 for its fiscal period ending March 31, 2025, looks like this:
+
+| 1 Class number | 2 Undepreciated capital cost (UCC) at the beginning of the fiscal period | 3 Cost of acquisitions during the fiscal period (new property must be available for use) | 4 Cost of acquisitions from column 3 that are designated immediate expensing property (DIEP) | 5 Adjustments and transfers (show amounts that will reduce the UCC in brackets) | 6 Amount from column 5 that is assistance received or receivable during the fiscal period for a property, subsequent to its disposition | 7 Amount from column 5 that is repaid during the fiscal period for a property, subsequent to its disposition | 8 Proceeds of dispositions |
+
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Line**200** | Line**201** | Line**203** | Line**232** | Line**205** | Line**221** | Line**222** | Line**207** |
+
+| **8** | **$45,000** | **$20,000** | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 9 UCC (column 2 **plus** column 3 **plus** or **minus** column 5 **minus** column 8) | **10** UCC of the DIEP (enter the UCC amount that relates to the DIEP reported in column 4) | 11 Immediate expensing | 12 Remaining UCC (column 9 **minus** column 11) (if negative, enter "0") | 13 Cost of acquisitions on remainder of Class (column 3 **minus** column 11) | 14 Cost of acquisitions from column 13 that are accelerated investment incentive property (AIIP) or property acquired before 2025 that is included in Classes 54 to 56 | 15 Cost of acquisitions from column 13 that are reaccelerated investment incentive property (RIIP) or property acquired after 2024 that is included in Classes 54 to 56 | 16 Proceeds of disposition available to reduce additions of AIIP, RIIP and property included in Classes 54 to 56 (column 8 **plus** column 6 **minus** column 13 **plus** column 14 **plus** column 15 **minus** column 7) (if negative, enter “0”) | 17 Net capital cost additions of AIIP and property acquired before 2025 that is included in Classes 54 to 56 (column 14 **minus** column 16) (if negative, enter "0") |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  | Line **236** | Line **238** |  |  | Line **225** | Line **226** |  |  |
+
+| **$65,000** | Blank space for value | Blank space for value | **$65,000** | **$20,000** | **$20,000** | Blank space for value | Blank space for value | **$20,000** |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 18 Proceeds of dispositions from column 16 available to reduce additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 16 **minus** column 14) (if negative, enter "0") | 19 Net capital cost additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 15 **minus** column 18) (if negative, enter "0") | 20 UCC adjustment for AIIP and property acquired before 2025 that is included in Classes 54 to 56 (column 17 **multiplied** by the relevant factor) | 21 UCC adjustment for RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 19 **multiplied** by the relevant factor) | 22 UCC adjustment for property acquired during the fiscal period other than AIIP, RIIP and property included in Classes 54 to 56 (0.5 **multiplied** by the result of column 13 **minus** column 14 **minus** column 15 **minus** column 6 **plus** column 7 **minus** column 8) (if negative, enter “0”) | 23 CCA rate % | 24 Recapture of CCA | 25 Terminal loss | 26 CCA (for declining balance method, the result of column 12 **plus** column 20 **plus** column 21 **minus** column 22, **multiplied** by column 23 or a lower amount, **plus** column 11) | 27 UCC at the end of the fiscal period (column 9 **minus** column 26) |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  |  |  |  | Line **224** | Line **212** | Line **213** | Line **215** | Line **217** | Line **220** |
+
+|  | Blank space for value | **$0** | Blank space for value | Blank space for value | **20** | Blank space for value | Blank space for value | **$13,000** | **$52,000** |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+A potato producer bought tractors for $200,000 during its fiscal period and before 2025. These properties are not immediate expensing property. The fiscal period starts on April 1, 2024, and ends on March 31, 2025.
+
+Properties that qualify for the accelerated investment incentive are referred to as AIIP and equal to $150,000. They are included in the columns 3 and 13, and reported separately in column 14.
+
+AIIP is not subject to the half-year rule while properties bought during the year that are not AIIP ($50,000, which is the difference between columns 13 and 14) are subject to the half-year rule calculation in column 22.
+
+The producer's T5013 SCH 8 for its fiscal period ending March 31, 2025, looks like this:
+
+| 1 Class number | 2 Undepreciated capital cost (UCC) at the beginning of the fiscal period | 3 Cost of acquisitions during the fiscal period (new property must be available for use) | 4 Cost of acquisitions from column 3 that are designated immediate expensing property (DIEP) | 5 Adjustments and transfers (show amounts that will reduce the UCC in brackets) | 6 Amount from column 5 that is assistance received or receivable during the fiscal period for a property, subsequent to its disposition | 7 Amount from column 5 that is repaid during the fiscal period for a property, subsequent to its disposition | 8 Proceeds of dispositions |
+
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Line**200** | Line**201** | Line**203** | Line**232** | Line**205** | Line**221** | Line**222** | Line**207** |
+
+| **10** | **$450,000** | **$200,000** | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 9 UCC (column 2 **plus** column 3 **plus** or **minus** column 5 **minus** column 8) | **10** UCC of the DIEP (enter the UCC amount that relates to the DIEP reported in column 4) | 11 Immediate expensing | 12 Remaining UCC (column 9 **minus** column 11) (if negative, enter "0") | 13 Cost of acquisitions on remainder of Class (column 3 **minus** column 11) | 14 Cost of acquisitions from column 13 that are accelerated investment incentive property (AIIP) or property acquired before 2025 that is included in Classes 54 to 56 | 15 Cost of acquisitions from column 13 that are reaccelerated investment incentive property (RIIP) or property acquired after 2024 that is included in Classes 54 to 56 | 16 Proceeds of disposition available to reduce additions of AIIP, RIIP and property included in Classes 54 to 56 (column 8 **plus** column 6 **minus** column 13 **plus** column 14 **plus** column 15 **minus** column 7) (if negative, enter “0”) | 17 Net capital cost additions of AIIP and property acquired before 2025 that is included in Classes 54 to 56 (column 14 **minus** column 16) (if negative, enter "0") |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  | Line **236** | Line **238** |  |  | Line **225** | Line **226** |  |  |
+
+| **$650,000** | Blank space for value | Blank space for value | **$650,000** | **$200,000** | **$150,000** | Blank space for value | Blank space for value | **$150,000** |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 18 Proceeds of dispositions from column 16 available to reduce additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 16 **minus** column 14) (if negative, enter "0") | 19 Net capital cost additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 15 **minus** column 18) (if negative, enter "0") | 20 UCC adjustment for AIIP and property acquired before 2025 that is included in Classes 54 to 56 (column 17 **multiplied** by the relevant factor) | 21 UCC adjustment for RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 19 **multiplied** by the relevant factor) | 22 UCC adjustment for property acquired during the fiscal period other than AIIP, RIIP and property included in Classes 54 to 56 (0.5 **multiplied** by the result of column 13 **minus** column 14 **minus** column 15 **minus** column 6 **plus** column 7 **minus** column 8) (if negative, enter “0”) | 23 CCA rate % | 24 Recapture of CCA | 25 Terminal loss | 26 CCA (for declining balance method, the result of column 12 **plus** column 20 **plus** column 21 **minus** column 22, **multiplied** by column 23 or a lower amount, **plus** column 11) | 27 UCC at the end of the fiscal period (column 9 **minus** column 26) |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  |  |  |  | Line **224** | Line **212** | Line **213** | Line **215** | Line **217** | Line **220** |
+
+|  | Blank space for value | Blank space for value | Blank space for value | **$25,000** | **30** | Blank space for value | Blank space for value | **$187,500** | **$462,500** |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+A new partnership (that meets all the conditions to be considered an EPOP and all the members of which are individuals throughout the fiscal period) decides to start a business. Its fiscal period started on November 1, 2024, and ended on October 31, 2025. On December1, 2024, it purchased Class 10 assets for $1.2 million. The partnership is not associated with any other (EPOP) during the fiscal period.
+
+All properties bought during the fiscal period qualify for the immediate expensing incentive and are referred to as DIEP. Those properties are included in column 3 and reported separately in column 4.
+
+The partnership's net income for tax purposes (before any CCA deductions) from the business in which the DIEP is used is $2 million for its fiscal period ending October 31, 2025.
+
+The amount of immediate expensing allowed is the lesser of (a) the immediate expensing limit ($1.5 million), (b) the UCC of the DIEP ($1.2 million) and (c) the net income for tax purposes (before any CCA deductions) from the business ($2 million) resulting in a limit of $1.2 million.
+
+In this scenario, the immediate expensing incentive allows the partnership to deduct the full cost of the asset in the first fiscal period.
+
+The partnership's T5013 SCH 8 for its fiscal period ending October 31, 2025, looks like this:
+
+| 1 Class number | 2 Undepreciated capital cost (UCC) at the beginning of the fiscal period | 3 Cost of acquisitions during the fiscal period (new property must be available for use) | 4 Cost of acquisitions from column 3 that are designated immediate expensing property (DIEP) | 5 Adjustments and transfers (show amounts that will reduce the UCC in brackets) | 6 Amount from column 5 that is assistance received or receivable during the fiscal period for a property, subsequent to its disposition | 7 Amount from column 5 that is repaid during the fiscal period for a property, subsequent to its disposition | 8 Proceeds of dispositions |
+
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Line**200** | Line**201** | Line**203** | Line**232** | Line**205** | Line**221** | Line**222** | Line**207** |
+
+| **10** | Blank space for value | **$1,200,000** | **$1,200,000** | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 9 UCC (column 2 **plus** column 3 **plus** or **minus** column 5 **minus** column 8) | **10** UCC of the DIEP (enter the UCC amount that relates to the DIEP reported in column 4) | 11 Immediate expensing | 12 Remaining UCC (column 9 **minus** column 11) (if negative, enter "0") | 13 Cost of acquisitions on remainder of Class (column 3 **minus** column 11) | 14 Cost of acquisitions from column 13 that are accelerated investment incentive property (AIIP) or property acquired before 2025 that is included in Classes 54 to 56 | 15 Cost of acquisitions from column 13 that are reaccelerated investment incentive property (RIIP) or property acquired after 2024 that is included in Classes 54 to 56 | 16 Proceeds of disposition available to reduce additions of AIIP, RIIP and property included in Classes 54 to 56 (column 8 **plus** column 6 **minus** column 13 **plus** column 14 **plus** column 15 **minus** column 7) (if negative, enter “0”) | 17 Net capital cost additions of AIIP and property acquired before 2025 that is included in Classes 54 to 56 (column 14 **minus** column 16) (if negative, enter "0") |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  | Line **236** | Line **238** |  |  | Line **225** | Line **226** |  |  |
+
+| **$1,200,000** | **$1,200,000** | **$1,200,000** | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 18 Proceeds of dispositions from column 16 available to reduce additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 16 **minus** column 14) (if negative, enter "0") | 19 Net capital cost additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 15 **minus** column 18) (if negative, enter "0") | 20 UCC adjustment for AIIP and property acquired before 2025 that is included in Classes 54 to 56 (column 17 **multiplied** by the relevant factor) | 21 UCC adjustment for RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 19 **multiplied** by the relevant factor) | 22 UCC adjustment for property acquired during the fiscal period other than AIIP, RIIP and property included in Classes 54 to 56 (0.5 **multiplied** by the result of column 13 **minus** column 14 **minus** column 15 **minus** column 6 **plus** column 7 **minus** column 8) (if negative, enter “0”) | 23 CCA rate % | 24 Recapture of CCA | 25 Terminal loss | 26 CCA (for declining balance method, the result of column 12 **plus** column 20 **plus** column 21 **minus** column 22, **multiplied** by column 23 or a lower amount, **plus** column 11) | 27 UCC at the end of the fiscal period (column 9 **minus** column 26) |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  |  |  |  | Line **224** | Line **212** | Line **213** | Line **215** | Line **217** | Line **220** |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | **30** | Blank space for value | Blank space for value | **$1,200,000** | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+A new partnership, with a fiscal period following the 2025 calendar year, decides to start manufacturing cars. On May 1, 2025, it bought eligible machinery and equipment for $1.5 million.
+
+The eligible machinery and equipment is included in Class 53, and is considered RIIP. These acquisitions are included in columns 3 and 13, and also reported separately in column 15.
+
+The amount of RIIP subject to the CCA deduction is $1,500,000, plus an additional relevant factor of 1 (calculated in column 21), for a total amount of $3,000,000 on which the CCA rate of 50% is applied for a maximum CCA deduction of $1,500,000. RIIP is also not subject to the half-year rule.
+
+Without the reaccelerated investment incentive, the amount of property bought during the fiscal period subject to the CCA deduction would be $750,000 as the half-year rule would apply.
+
+In this scenario, the reaccelerated investment incentive allows the partnership to deduct the full cost of the asset in the first year.
+
+The partnership’s T5013 SCH 8 for its fiscal period ending December 31, 2025, looks like this:
+
+| 1 Class number | 2 Undepreciated capital cost (UCC) at the beginning of the fiscal period | 3 Cost of acquisitions during the fiscal period (new property must be available for use) | 4 Cost of acquisitions from column 3 that are designated immediate expensing property (DIEP) | 5 Adjustments and transfers (show amounts that will reduce the UCC in brackets) | 6 Amount from column 5 that is assistance received or receivable during the fiscal period for a property, subsequent to its disposition | 7 Amount from column 5 that is repaid during the fiscal period for a property, subsequent to its disposition | 8 Proceeds of dispositions |
+
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Line**200** | Line**201** | Line**203** | Line**232** | Line**205** | Line**221** | Line**222** | Line**207** |
+
+| **53** | Blank space for value | **$1,500,000** | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 9 UCC (column 2 **plus** column 3 **plus** or **minus** column 5 **minus** column 8) | **10** UCC of the DIEP (enter the UCC amount that relates to the DIEP reported in column 4) | 11 Immediate expensing | 12 Remaining UCC (column 9 **minus** column 11) (if negative, enter "0") | 13 Cost of acquisitions on remainder of Class (column 3 **minus** column 11) | 14 Cost of acquisitions from column 13 that are accelerated investment incentive property (AIIP) or property acquired before 2025 that is included in Classes 54 to 56 | 15 Cost of acquisitions from column 13 that are reaccelerated investment incentive property (RIIP) or property acquired after 2024 that is included in Classes 54 to 56 | 16 Proceeds of disposition available to reduce additions of AIIP, RIIP and property included in Classes 54 to 56 (column 8 **plus** column 6 **minus** column 13 **plus** column 14 **plus** column 15 **minus** column 7) (if negative, enter “0”) | 17 Net capital cost additions of AIIP and property acquired before 2025 that is included in Classes 54 to 56 (column 14 **minus** column 16) (if negative, enter "0") |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  | Line **236** | Line **238** |  |  | Line **225** | Line **226** |  |  |
+
+| **$1,500,000** | Blank space for value | Blank space for value | **$1,500,000** | **$1,500,000** | Blank space for value | **$1,500,000** | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 18 Proceeds of dispositions from column 16 available to reduce additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 16 **minus** column 14) (if negative, enter "0") | 19 Net capital cost additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 15 **minus** column 18) (if negative, enter "0") | 20 UCC adjustment for AIIP and property acquired before 2025 that is included in Classes 54 to 56 (column 17 **multiplied** by the relevant factor) | 21 UCC adjustment for RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 19 **multiplied** by the relevant factor) | 22 UCC adjustment for property acquired during the fiscal period other than AIIP, RIIP and property included in Classes 54 to 56 (0.5 **multiplied** by the result of column 13 **minus** column 14 **minus** column 15 **minus** column 6 **plus** column 7 **minus** column 8) (if negative, enter “0”) | 23 CCA rate % | 24 Recapture of CCA | 25 Terminal loss | 26 CCA (for declining balance method, the result of column 12 **plus** column 20 **plus** column 21 **minus** column 22, **multiplied** by column 23 or a lower amount, **plus** column 11) | 27 UCC at the end of the fiscal period (column 9 **minus** column 26) |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  |  |  |  | Line **224** | Line **212** | Line **213** | Line **215** | Line **217** | Line **220** |
+
+|  | **$1,500,000** | Blank space for value | **$1,500,000** | Blank space for value | **50** | Blank space for value | Blank space for value | **$1,500,000** | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+A new partnership, with a fiscal period starting on July 1, 2024 and ending on June 30, 2025, purchased clean energy generation equipment on November 1, 2024, for $1 million and February 1, 2025, for $1.8 million. All properties became available for use on the purchase date and are not immediate expensing property. They are included in the columns 3 and 13, and reported separately in columns 14 and 15.
+
+The amount of AIIP and RIIP subject to the CCA deduction is respectively $1 million and $1.8 million, plus an additional relevant factor of 1 ½ for AIIP (calculated in column 20) and 2 1/3 for RIIP (calculated in column 21), for a total amount of $8,500,000 on which the CCA rate of 30% is applied for a maximum CCA deduction of $2,550,000.
+
+The partnership's T5013 SCH 8 on June 30, 2025 would look like this:
+
+| 1 Class number | 2 Undepreciated capital cost (UCC) at the beginning of the fiscal period | 3 Cost of acquisitions during the fiscal period (new property must be available for use) | 4 Cost of acquisitions from column 3 that are designated immediate expensing property (DIEP) | 5 Adjustments and transfers (show amounts that will reduce the UCC in brackets) | 6 Amount from column 5 that is assistance received or receivable during the fiscal period for a property, subsequent to its disposition | 7 Amount from column 5 that is repaid during the fiscal period for a property, subsequent to its disposition | 8 Proceeds of dispositions |
+
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Line**200** | Line**201** | Line**203** | Line**232** | Line**205** | Line**221** | Line**222** | Line**207** |
+
+| **43.1** | Blank space for value | **$2,800,000** | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 9 UCC (column 2 **plus** column 3 **plus** or **minus** column 5 **minus** column 8) | **10** UCC of the DIEP (enter the UCC amount that relates to the DIEP reported in column 4) | 11 Immediate expensing | 12 Remaining UCC (column 9 **minus** column 11) (if negative, enter "0") | 13 Cost of acquisitions on remainder of Class (column 3 **minus** column 11) | 14 Cost of acquisitions from column 13 that are accelerated investment incentive property (AIIP) or property acquired before 2025 that is included in Classes 54 to 56 | 15 Cost of acquisitions from column 13 that are reaccelerated investment incentive property (RIIP) or property acquired after 2024 that is included in Classes 54 to 56 | 16 Proceeds of disposition available to reduce additions of AIIP, RIIP and property included in Classes 54 to 56 (column 8 **plus** column 6 **minus** column 13 **plus** column 14 **plus** column 15 **minus** column 7) (if negative, enter “0”) | 17 Net capital cost additions of AIIP and property acquired before 2025 that is included in Classes 54 to 56 (column 14 **minus** column 16) (if negative, enter "0") |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  | Line **236** | Line **238** |  |  | Line **225** | Line **226** |  |  |
+
+| **$2,800,000** | Blank space for value | Blank space for value | **$2,800,000** | **$2,800,000** | **$1,000,000** | **$1,800,000** | Blank space for value | **$1,000,000** |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 18 Proceeds of dispositions from column 16 available to reduce additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 16 **minus** column 14) (if negative, enter "0") | 19 Net capital cost additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 15 **minus** column 18) (if negative, enter "0") | 20 UCC adjustment for AIIP and property acquired before 2025 that is included in Classes 54 to 56 (column 17 **multiplied** by the relevant factor) | 21 UCC adjustment for RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 19 **multiplied** by the relevant factor) | 22 UCC adjustment for property acquired during the fiscal period other than AIIP, RIIP and property included in Classes 54 to 56 (0.5 **multiplied** by the result of column 13 **minus** column 14 **minus** column 15 **minus** column 6 **plus** column 7 **minus** column 8) (if negative, enter “0”) | 23 CCA rate % | 24 Recapture of CCA | 25 Terminal loss | 26 CCA (for declining balance method, the result of column 12 **plus** column 20 **plus** column 21 **minus** column 22, **multiplied** by column 23 or a lower amount, **plus** column 11) | 27 UCC at the end of the fiscal period (column 9 **minus** column 26) |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  |  |  |  | Line **224** | Line **212** | Line **213** | Line **215** | Line **217** | Line **220** |
+
+|  | **$1,800,000** | **$1,500,000** | **$4,200,000** | Blank space for value | **30** | Blank space for value | Blank space for value | **$2,550,000** | **$250,000** |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+|  | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+#### List of the most common CCA rates and classes
+
+For a complete list of rates, see Schedule II of the Income Tax Regulations.
+
+| Class number | Description | CCA rate |
+
+| --- | --- | --- |
+
+| 1 | Most buildings made of brick, stone, or cement acquired after 1987, including their component parts such as electric wiring, lighting fixtures, plumbing, heating and cooling equipment, elevators, and escalators (additional allowance of 6% for buildings used for manufacturing and processing in Canada and 2% for buildings used for other non-residential purposes, for buildings acquired after March 18, 2007, may be available). Under proposed rules, an additional allowance of 6% applies for new purpose-built residential rentals that begin construction after April 15, 2024, and before 2031, and are available for use before 2036 | 4% |
+
+| 3 | Most buildings made of brick, stone, or cement acquired before 1988, including their component parts as listed in class 1 above | 5% |
+
+| 6 | Buildings made of frame, log, stucco on frame, galvanized iron, or corrugated metal that are used in the business of farming or fishing, or that have no footings below-ground; fences and most greenhouses | 10% |
+
+| 7 | Canoes, boats, and most other vessels, including their furniture, fittings, or equipment | 15% |
+
+| 8 | Property that is not included in any other class such as furniture, calculators and cash registers (that do not record multiple sales taxes), photocopy and fax machines, printers, display fixtures, refrigeration equipment, machinery, tools costing $500 or more, and outdoor advertising billboards and greenhouses with rigid frames and plastic covers | 20% |
+
+| 9 | Aircraft, including furniture, fittings, or equipment attached, and their spare parts | 25% |
+
+| 10 | Automobiles (except taxis and others used for lease or rent), vans, wagons, trucks, buses, tractors, trailers, drive-in theatres, general-purpose electronic data-processing equipment (for example, personal computers) and systems software, and timber-cutting and removing equipment | 30% |
+
+| 10.1 | Passenger vehicles costing more than $34,000 (before tax) if acquired in 2022. If acquired in 2023, passenger vehicles costing more than $36,000 (before tax). If acquired in 2024, passenger vehicles costing more than $37,000 (before tax). If acquired in 2025, passenger vehicles costing more than $38,000 (before tax). If acquired after December 31, 2025, passenger vehicles costing more than $39,000 (before tax) | 30% |
+
+| 12 | Chinaware, cutlery, linen, uniforms, dies, jigs, moulds or lasts, computer software (except systems software), cutting or shaping parts of a machine, certain property used for earning rental income such as apparel or costumes, and videotape cassettes; certain property costing less than $500 such as kitchen utensils, tools, and medical or dental equipment acquired after May 1, 2006 | 100% |
+
+| 13 | Property that is a leasehold interest (the maximum CCA rate depends on the type of leasehold and the terms of the lease) | N/A |
+
+| 14 | Patents, franchises, concessions, and licences for a limited period – the CCA is limited to whichever is less: the capital cost of the property spread out over the life of the property, or the undepreciated capital cost of the property at the end of the tax year Class 14 also includes patents, and licences to use patents for a limited period, that you elect not to include in class 44 | N/A |
+
+| 14.1 | As of January 1, 2017, intangible capital property, previously known as eligible capital property, including goodwill, trademarks, franchises, concessions, or licences for an unlimited period, patents and licences to use patents for an unlimited period, that you elect not to include in class 44. For each tax year that ends before 2027, an additional 2% CCA is allowed for property acquired before 2017 (maximum $500) | 5% |
+
+| 16 | Automobiles for lease or rent, taxicabs, and coin-operated video games or pinball machines; certain tractors and large trucks acquired after December 6, 1991, that are used to haul freight and that weigh more than 11,788 kilograms | 40% |
+
+| 17 | Roads, sidewalks, parking-lot or storage areas, telephone, telegraph, or non-electronic data communication switching equipment | 8% |
+
+| 29 | Machinery and equipment acquired after March 18, 2007, and before 2016 that is used in Canada mainly to manufacture and process goods for sale or lease | 50% |
+
+| 38 | Most power-operated movable equipment acquired after 1987 used for moving, excavating, placing, or compacting earth, rock, concrete, or asphalt | 30% |
+
+| 43 | Machinery and equipment acquired after February 25, 1992, that is used in Canada mainly to manufacture and process goods for sale or lease. Also see class 53 | 30% |
+
+| 43.1 | Clean energy generation and energy conservation equipment not included in class 43.2, including electric vehicle charging stations set up to supply more than 10 kW but less than 90 kW of continuous power | 30% |
+
+| 43.2 | Clean energy generation and energy conservation equipment acquired after February 22, 2005, and before 2025 | 50% |
+
+| 44 | Patents and licences to use patents for a limited or unlimited period that the partnership acquired after April 26, 1993. However, you can elect not to include such property in class 44 by attaching a letter to the return for the year the partnership acquired the property. In the letter, indicate the property you do not want to include in class 44. A 100% first year deduction applies for new additions of property that was acquired becomes available for use after April 15, 2024 and before 2027 | 25% |
+
+| 46 | Data network infrastructure equipment that supports advanced telecommunication applications, acquired after March 22, 2004. It includes assets such as switches, multiplexers, routers, hubs, modems, and domain name servers that are used to control, transfer, modulate, and direct data, but does not include office equipment such as telephones, cell phones or fax machines, or property such as wires, cables or structures. A 100% first-year deduction applies for new additions of property that was acquired and becomes available for use after April 15, 2024, and before 2027. | 30% |
+
+| 50 | General-purpose computer equipment and systems software acquired after March 18, 2007, that is not used principally as electronic process control, communications control, or monitor equipment, and the systems software related to such equipment, and data handling equipment that is not ancillary to general-purpose computer equipment. A 100% first-year deduction applies for new additions of property that was acquired and becomes available for use after April 15, 2024, and before 2027 | 55% |
+
+| 53 | Machinery and equipment acquired after 2015 and before 2026 that is used in Canada mainly to manufacture and process goods for sale or lease | 50% |
+
+| 54 | Property that is a zero-emission vehicle that is not included in class 16 or 55. In general terms, this class would include zero-emission vehicles acquired after March 18, 2019, and that become available for use before 2034, that would otherwise be included in class 10 or 10.1. Includes zero-emission passenger vehicles, which have a capital cost limitation of $61,000 plus sales tax, if acquired after 2022 | 30% |
+
+| 55 | Property that is a zero-emission vehicle that would otherwise be included in class 16. The vehicle is acquired after March 18, 2019, and that become available for use before 2034. Does not include "zero-emission passenger vehicles" and, as such, does not have any capital cost limitation | 40% |
+
+| 56 | Property that is fully electric or hydrogen powered automotive equipment (other than a motor vehicle) acquired after March 1, 2020, and that becomes available for use before 2034. Includes additions or alterations to automotive equipment (other than a motor vehicle) to the extent they cause the automotive equipment to become fully electric or powered by hydrogen | 30% |
+
+| 57 | Equipment, other than excluded CCUS equipment, that is used solely to capture, transport or store carbon dioxide (CO2) as part of a CCUS project | 8% |
+
+| 58 | Equipment that is used solely to use carbon dioxide (CO2) in industrial production | 20% |
+
+| 59 | Intangible property acquired after 2021 for determining the existence, location, extent or quality of a geological formation to permanently store captured carbon in Canada, including property acquired as a result of undertaking environmental studies or community consultations | 100% |
+
+| 60 | Intangible property acquired after 2021 for drilling, converting or completing a well in Canada for the permanent storage of captured carbon | 30% |
+
+### T5013 SCH 9, List of Partnerships
+
+Fill out the [T5013 SCH 9](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch9.html) if your partnership is a direct or indirect member of another partnership.
+
+#### How to know when a partnership is a direct member
+
+Your partnership would be considered a direct member of another partnership when it holds a direct interest in the other partnership. Your partnership should be listed as a partner on that partnership's [T5013 SCH 50, *Partner's Ownership and Account Activity*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch50.html).
+
+#### How to know when a partnership is an indirect member
+
+Your partnership would be considered an indirect member of another partnership when it holds an indirect interest in the other partnership through one or more partnerships. For example, you have an interest in Partnership A. Partnership A is a member of Partnership B, which is a member of Partnership C. Partnership A is a direct member of Partnership B, and it is an indirect member of Partnership C.
+
+#### Filling out the T5013 SCH 9
+
+##### Information about each of the entities
+
+Provide information on all direct or indirect entities as follows:
+
+###### Column 100 – Name of entity
+
+Enter the exact legal name of the entity of which your partnership is a direct or indirect member. Do not use abbreviations.
+
+###### Column 200 – Jurisdiction under which the entity was formed
+
+Enter the code of the jurisdiction under which the entity was formed. You can find the jurisdiction abbreviations in [Appendix A](#ppdxa) or [Appendix B](#Appendix_B).
+
+###### Column 300 – Business or identification number of entity
+
+Enter the nine-digit business number the CRA assigned to the entity, or the identification number that applies.
+
+###### Column 400 – Code
+
+Enter the code number for each entity using one of the following:
+
+**Code 9** – Your partnership is a direct member of the listed partnership.
+
+**Code 10** – Your partnership is an indirect member of the listed partnership through one or more other partnerships.
+
+If your partnership is both a direct member **and** an indirect member of the other partnership, list the other partnership on the T5013 SCH 9 twice – once under Code 9 and once under Code 10.
+
+### T5013 SCH 12, Resource-Related Deductions
+
+Fill out the [T5013 SCH 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch12.html) if, during the fiscal period, your partnership:
+
+- incurred any resource related expenses such as:
+
+    - Canadian exploration expenses (CEE), including Canadian renewable and conservation expenses
+
+    - Canadian development expenses (CDE)
+
+    - Canadian oil and gas property expenses (COGPE)
+
+- incurred any foreign resource expenses
+
+- received or became entitled to receive any assistance relating to resource related expenses
+
+**Do** **not** include in this schedule any expenses or assistance renounced to the partnership by a principal-business corporation that issued flow-through shares. Renounced amounts will be shown on a T101 slip the partnership received from the principal-business corporation or a [T5013 slip](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html) received from another partnership. Report these amounts on the[T5013 SCH 52](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch52.html).
+
+Eligible expenses related to the exploration and development of lithium brine deposits made on or after March 28, 2023, qualify as CEE and CDE.
+
+An accelerated deduction generally applies to eligible Canadian development expenses and eligible Canadian oil and gas property expenses incurred after November 20, 2018 and before 2025. The accelerated deduction began to be phased out for expenses incurred after 2023.
+
+A reaccelerated deduction generally applies to eligible Canadian development expenses and eligible Canadian oil and gas property expenses incurred after 2024, and before 2034. The reaccelerated deduction will begin to be phased out for expenses incurred after 2029.
+
+**References**Part XII of the Regulations
+
+#### Filling out the T5013 SCH 12
+
+##### Parts 1 to 4
+
+Lines 170, 270, 370, and 451 are for the interest and financing expenses (IFE) included in resource-related deductions. These lines only need to be completed if the partnership is required to file a [T5013 SCH 130](#t5013sch130).
+
+Enter the amount of resource-related expenses that apply to the partnership in the following areas:
+
+- Part 1 – Canadian exploration expenses
+
+- Part 2 – Canadian development expenses
+
+- Part 3 – Canadian oil and gas property expenses
+
+- Part 4 – Foreign resource expenses
+
+Do calculations as instructed, and report the amount of each partner's share on the appropriate boxes of the partner's T5013 slips.
+
+Lines 264 and 364 have been added for the reaccelerated Canadian development expenses and the reaccelerated Canadian oil and gas property expenses.
+
+##### Part 4
+
+###### Line 450 – Total
+
+To calculate the total foreign resource expenses from the country identified on line 400, subtract the amount from line 422 and line 424 from the sum of lines 405, 414, and 416.
+
+###### Line 460 – Total
+
+Enter the amount of interest and financing expenses (IFE) that are included in the total reported in column 7. Enter each partner’s share of the amount from line 460 in box 261 of the T5013 slips.
+
+### T5013 SCH 50, Partner's Ownership and Account Activity
+
+Fill out the [T5013 SCH 50](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch50.html) to provide information on the partnership interest held by the partners of the partnership.
+
+Use this schedule to record all changes in the membership of the partnership or to record account activity such as:
+
+- adding new partners
+
+- amounts to be included in the calculation of the ACB of each partner
+
+- amounts to be included in the calculation of the at-risk amount for limited partners
+
+- disposition of all or part of an interest during the fiscal period
+
+For each partner who was a member of the partnership at any time during the fiscal period, give the details requested on **each** relevant line of the schedule.
+
+Enter negative amounts in brackets.
+
+##### Registered charities
+
+Registered charities or registered Canadian amateur athletic associations are allowed to hold an interest in a limited partnership, and they will have an RR program account. This measure is in effect as of April 21, 2015.
+
+#### Filling out the T5013 SCH 50
+
+##### At the top of each other page, enter the same partnership account number and fiscal period end you entered in the identification section on page 1.
+
+##### Line 010 – Number of partners
+
+Enter the number of partners, including nominees or agents, holding an interest in the partnership at the end of the fiscal period.
+
+###### Line 011 – Number of partners who disposed of all, or part of, their partnership interest
+
+Enter the number of partners, including nominees or agents, who disposed of all, or part of, their partnership interest during the fiscal period, including partners who joined the partnership and retired during the fiscal period.
+
+###### Line 012 – Number of nominees or agents
+
+Enter the number of nominees or agents who hold an interest in the partnership for another person at the end of the fiscal period.
+
+###### Line 015 – Total of all amounts from lines 220
+
+Enter the total of all amounts from lines 220.
+
+##### Partners 1 to 5
+
+You can enter information for a maximum of five partners. If you have more than five partners, use additional T5013 SCH 50s as necessary, and change the sequential partner number.
+
+###### Lines 100 to 110 – Ownership
+
+###### Line 100 – Partner name
+
+Enter as follows:
+
+- **For an individual** – the last name, then the first name and initials
+
+- **For a corporation**– the corporation's full name
+
+- **For a partnership**– the partnership's full name
+
+- **For a trust**– the trust's full name
+
+- **For a registered charity or a registered Canadian amateur athletic association** – the legal (official) name under which the organization is registered
+
+The partner name must be the same as the one listed on the [T5013 slip](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html).
+
+###### Line 101 – Partner identification number
+
+The partner identification number must be the same as the one listed in box 006 on the T5013 slip.
+
+Enter the partner identification number as follows:
+
+- **For a corporation or another partnership** – Enter the 15-character account number the CRA assigned to the entity
+
+- **For a trust** – Enter the trust account number the CRA assigned to the entity
+
+- **For an individual** – Enter the social insurance number
+
+- **For a non-resident entity** – Enter one of the numbers mentioned above, or an individual tax number (ITN), or a temporary tax number (TTN) issued by the CRA to the entity for any of its business accounts (payroll (RP), GST/HST (RT)
+
+- **For a registered charity or a registered Canadian amateur athletic association** – Enter the RR program account number
+
+The partnership has to make a reasonable effort to obtain the identification numbers from the partners. Failure to provide this information may result in penalties for the partnership and partners. Refer to [Failure to provide social insurance numbers (SINs), business numbers (BNs), or other information](#failing) for more information about penalties.
+
+###### Line 105 – Type of partner
+
+To identify the type of partner, enter one of the following codes:
+
+##### Residents of Canada
+
+Codes:
+
+##### Non-residents of Canada
+
+Codes:
+
+If you are entering code "**4**" on line 106 for a nominee, agent, broker, or advisor that holds an interest in the partnership as nominee or agent for one or more persons, or one or more nominees or agents, leave line 105 blank.
+
+###### Line 106 – Partner code
+
+To identify the status of the partner within the partnership, enter one of the following codes:
+
+##### Partner code for retired partner
+
+If a partner has retired but is receiving income as described in subsection 96(1.1), we consider the retired partner to be a member of the partnership. Therefore, you have to enter code **"6"** for that retired partner.
+
+If the partner was a general partner before retirement, depending on the circumstances, we may still consider the retired partner to be a general partner, or we may consider the retired partner to be a specified member who is not a limited partner.
+
+Before retirement, Carl (an individual) was a general partner of the partnership. After retirement, Carl continues to receive payments from work in progress.
+
+**Situation 1** – Carl is still actively engaged in the partnership's business. In this case, we consider Carl to be a general partner.
+
+**Situation 2** – Carl is carrying on a business activity similar to the partnership's business. In this case, we consider Carl to be a general partner.
+
+**Situation 3** – Carl is not actively engaged in the partnership's activities and is not carrying on a business activity similar to the partnership's business. In this case, we consider Carl to be a specified member who is not a limited partner.
+
+**Situation 4** – Carl is deemed to be a member of the partnership under subsection 96(1.1) as the members of the partnership have entered into an agreement to allocate a share of the income or loss of the partnership. In this case, we consider Carl to be a retired member paid under subsection 96(1.1).
+
+###### Line 107 – Percentage (%) of partner's interest
+
+Enter the percentage of a partner's interest within the partnership up to four decimal places. The Act recognizes a partnership interest but does not recognize various types of classes of partnership units.
+
+If you have more than one type or class of partnership unit, the percentage shown on line 107 should be a percentage of the total interest of all types or classes of units for each partner.
+
+**Total partnership units**
+
+Class A units:
+
+Class B units:
+
+Total units:
+
+**Partner A interest**
+
+Class A units:
+
+Class B units:
+
+Total units:
+
+The percentage of the partner's interest is: (8,000 ÷ 1,500,000) × 100 = 0.5333%
+
+###### Line 110 – Did the partner dispose of an interest during the fiscal period?
+
+If the partner disposed of all, or part of, its partnership interest during the fiscal period, including a partner who joined and retired during the fiscal period, tick (✓) the Yes box; otherwise, tick (✓) the No box.
+
+###### Line 220 – Fiscal period's income (loss) allocation
+
+Enter the partner's share of the income or loss of the partnership from any source for the fiscal period, calculated using the computational rules provided under subparagraphs 53(1)(e)(i) and 53(2)(c)(i). These computational rules require, for example, using the amount of the actual capital gains instead of the taxable capital gains.
+
+The total of all amounts from line 220 must be the same as line 015. If there is no income or loss to allocate, you **must**enter zero.
+
+###### Lines 300 to 350 – Account activity
+
+##### Calculating the adjusted cost base (ACB) of a partnership interest
+
+Each partner has to calculate the ACB of a partnership interest. The partner can calculate the ACB at any time, however, it has to be done before the tax return is filed.
+
+The partnership has to provide all of the information (to the best of its knowledge) that the partners need to calculate the ACB of their interest.
+
+Paragraphs 53(1)(e) and 53(2)(c) cover the adjustments the partner has to make to its interest in the partnership. The items listed below reflect some of the more common additions and subtractions used to calculate the ACB of a partner's interest in the partnership.
+
+Generally, a partner's ACB at any time is that partner's **original cost** of the partnership interest,
+
+**plus**
+
+- the partner's share of income from any source from all previous fiscal periods since the partner acquired the partnership interest
+
+- the partner's share of any capital dividends and life insurance capital dividends the partnership received before that time
+
+- the partner's additional capital contributed since the partner acquired the partnership interest
+
+- for limited partners and certain specified members, the partner's negative ACB amount since the partner acquired the partnership interest, and which we consider to be a gain from a disposition before that time under subsection 40(3.1), or paragraph 98(1)(c) or 98.1(1)(c)
+
+**minus**
+
+- the partner's share of losses from any source, investment tax credits (if claimed under subsection 127(5)), and resource deductions (section 66) from all previous fiscal periods since the partner acquired the partnership interest
+
+- the partner's withdrawals from the partnership since the partner acquired the partnership interest
+
+- the partner's limited partnership loss (LPL) to the extent that the limited partner deducted the loss
+
+- for certain limited partners or specified members, the amount of any limited-recourse debt that can reasonably be considered to have been used to acquire the partnership interest that is not a tax shelter investment
+
+We aggregate amounts to be added or deducted under the following four lines:
+
+- **Line 320** – Partner's share of the previous fiscal period's income (loss) (as per the T5013 SCH 50)
+
+- **Line 330** – Capital contributions in the fiscal period
+
+- **Line 340** – Withdrawals in the fiscal period
+
+- **Line 350** – Other adjustments
+
+**References** Paragraphs 53(1)(e) and 53(2)(c)[Interpretation Bulletin IT-430, *Life Insurance Proceeds Received by a Private Corporation or a Partnership as a Consequence of Death*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it430r3-consolid.html)
+
+###### Line 300 – Cost base
+
+Enter the acquisition cost of the partnership interest. Where the partner bought its interest on multiple occasions, enter the total of the cost base of each purchase. The T5013 return preparer is expected to make a reasonable attempt to ensure that the amount reported on line 300 is correct. If the preparer does not have this information, the field **must** be left blank.
+
+Line 300 does not include amounts on line 310.
+
+###### Line 310 – Cost of units acquired during the fiscal period
+
+Enter the total acquisition cost of units acquired by the partner during the fiscal period. Where the partner bought its interest on multiple occasions, enter the total of the cost of each purchase.
+
+The cost of the partnership interest is one of the following:
+
+- the monetary amount contributed, where the interest was acquired by contributing cash to the partnership
+
+- the fair market value (FMV) of the property contributed, where the interest was acquired by contributing property to the partnership (other than by rollover). Subsection 97(1) deems that the partnership acquired the property at FMV, and the partner disposed of it for proceeds equal to that FMV
+
+- where the partner transferred property to the partnership on a rollover basis under subsection 97(2), as determined under the rules in that provision
+
+- where the partnership received the information:
+
+    - the agreed price paid to an existing partner to purchase their interest
+
+    - the price paid for an interest bought in a secondary market
+
+If the cost of the partnership interest is not known, for example, it was bought from another partner, the partnership should leave lines 300 and 310 blank.
+
+##### Cost of a partnership interest that is a tax shelter investment
+
+When the partnership interest is a tax shelter investment, section 143.2 reduces the cost (the expenditure) of the tax shelter investment by the total of all limited recourse amounts that relate to the expenditure, the at-risk adjustment for the expenditure, and certain other amounts that can reasonably be considered to relate to the expenditure.
+
+We may consider the unpaid principal of indebtedness to be a limited-recourse amount if, among other circumstances, interest is not charged and paid within 60 days after year end, or where arrangements in writing to repay the principal and interest within a reasonable period of time were not made at the time the indebtedness arose.
+
+##### Line 320 – Partner's share of the previous fiscal period's income (loss)
+
+Enter the partner's share of the previous fiscal period's income or loss from any source calculated using the computational rules provided under subparagraphs 53(1)(e)(i) and 53(2)(c)(i). These computational rules require, for example, using the amount of the actual capital gains instead of the taxable capital gains. Also, the calculation of net income or loss for income tax purposes excludes amounts not allowed as deductions under the Act such as club dues. If this is the first time you are filing the T5013 SCH 50, or the partnership did not have to file a return for the previous fiscal period based on the filing criteria, enter the partner's share as you would have calculated it for the end of the previous fiscal period.
+
+##### Line 330 – Capital contributions in the fiscal period
+
+For each partner, include only the amounts that the partnership has already received and the amounts that the partnership can legally collect.
+
+##### Line 340 – Withdrawals in the fiscal period
+
+Include as drawings for the fiscal period:
+
+- salary or wages paid to the partner
+
+- the cost of products available for sale that the partner consumed
+
+- a partner's personal expenses that the partnership paid
+
+- amounts paid to a third party on behalf of the partner
+
+- return of capital
+
+- contributions to a registered retirement savings plan (RRSP) on behalf of the partner
+
+- any other amounts or benefits the partner received or that flowed through to the partner
+
+##### Line 350 – Other adjustments
+
+Include all other amounts that affect the partner's ACB and that are not included in another line, including any adjustments relating to subsection 96(1.01).
+
+Subsection 96(1.01) generally applies to the 1995 and subsequent tax years. Paragraph 96(1.01)(a) deems a taxpayer who is a former member of a partnership to be a member of the partnership at the end of the fiscal period in which the taxpayer ceased to be a member, for the purpose of allocating partnership income or loss for that period. This provision clarifies that, although a taxpayer may have ceased to be a member of a partnership before the end of the partnership's fiscal period, an amount of the income or loss of the partnership is allocable to the taxpayer under subsection 96(1). The amount so allocated is relevant to certain calculations relating to partnership income or loss, including the calculation of the ACB of the former member of the partnership immediately before the taxpayer ceased to be a member.
+
+Subsection 96(1.01) applies notwithstanding the rule in paragraph 98.1(1)(d) that would otherwise deem a former partnership member with a residual interest not to be a member of the partnership for the purposes of certain provisions of the Act.
+
+Paragraph 96(1.01)(a) does not require that partnership income or loss be calculated immediately after a member leaves the partnership. The income or loss allocation, including that of the former member, continues to be calculated after the end of the partnership's fiscal period. In some circumstances the fiscal period of a partnership may end in a tax year of the former member that is after the tax year in which the partnership interest was disposed of. It is, therefore, possible that a member will not be required to report a partnership income allocation until the tax year following that in which a capital gain or loss on the disposition of the partnership interest is required to be reported.
+
+Paragraph 96(1.01)(b) clarifies that an income or loss allocation for the "stub period" during which a taxpayer was a member is included in the calculation of the ACB of the partnership interest at the time the former member disposes of the interest or a residual interest. The income or loss allocation will affect the calculation of a capital loss under paragraph 98.1(1)(c) or subsection 100(2).
+
+Alice was a partner in XYZ Partnership until June 30. The fiscal period of the partnership ends December 31. The ACB of her partnership interest on January 1 was nil. From January to June 30 she withdrew $16,000 in capital.
+
+Just before the end of the partnership's fiscal period, all the partners agree that Alice's share of income for the period was $20,000. On December 30 she was paid $4,000 in satisfaction of her residual interest.
+
+A summary of Alice's ACB is as follows:
+
+|  |  | **ACB** |
+
+| --- | --- | --- |
+
+| January 1, year 1 |  | Nil |
+
+| Drawings: ($16,000) | ($16,000) | ($16,000) |
+
+| Retirement of Alice, June 30 |  |  |
+
+| Share of income for 6 months | $20,000 | $4,000 |
+
+| Payout of rights to equity: December 31 – Fiscal period ends | $4,000 | Nil |
+
+In this example, Alice is allocated $20,000 income under subsection 96(1.01). The ACB of her interest immediately before she retired on June 30 was $4,000 (i.e., $20,000 **minus** $16,000). She is deemed by paragraph 98.1(1)(b) to have disposed of her residual interest on December 31 for proceeds of disposition of $4,000, such that she has no capital gain or loss on the disposition.
+
+Subparagraph 53(1)(e)(v) requires that "rights or things" (referred to in subsection 70(2)) in respect of the partnership interest of a deceased partner be included in the ACB of the partnership interest of the deceased. This provision is no longer relevant to income of the partnership to which a partner is entitled at the time of death, since subsection 96(1.01) applies to the allocation of partnership income for the fiscal period in which the taxpayer dies.
+
+However, subparagraph 53(1)(e)(v) continues to apply in respect of other rights or things, if any, to which the deceased taxpayer is entitled through the partnership that are required to be included in the income of the deceased taxpayer under subsection 70(2).
+
+##### Lines 410 to 430 – At-risk amount (ARA) (for limited partners only)
+
+Calculating the ARA can be very complex; the partner has to consider many rules, and needs to know the ACB of the limited partner's interest in the partnership.
+
+In simplified terms, a limited partner's ARA is calculated under subsection 96(2.2) as:
+
+**(a + b + b.1) minus (c + d)**
+
+where
+
+1. is the ACB of the limited partner's interest in the partnership at the time of calculation (amount calculated as indicated in [Calculating the adjusted cost base (ACB) of a partnership interest](#calculating_acb), or the amount in accordance with subsection 96(2.3) where applicable)
+
+Subsection 96(2.3) applies where the limited partner is not the first owner of the interest.
+
+For the at-risk calculation, if the limited partner buys the partnership interest on the secondary market, that is a partnership interest acquired from a vendor other than the partnership, the ACB of that partnership interest is calculated as if the cost of the interest to the limited partner is the **lesser** of the following amounts:
+
+- the cost otherwise determined
+
+- the greater of:
+
+    - the ACB to the vendor immediately before the sale of the interest, (if this is a negative amount, we consider the ACB to be NIL)
+
+    - NIL
+
+1. is any partnership income allocated to the limited partner for the fiscal period**b.1** are certain amounts deemed under subsections 66.1(7) CEE, 66.2(6) CDE, and 66.4(6) COGPE, for the limited partner for the fiscal period, that relate to certain amounts receivable by the partnership as consideration for property or services or as proceeds of disposition of Canadian resource property
+
+2. is any amount that the limited partner (or a person or a partnership not dealing at arm's length with the partner) owes to the partnership (or to a person or partnership not dealing at arm's length with the partnership) but does not include any such amount deducted under subparagraph 53(2)(c)(i.3) in calculating the ACB of the limited partner's interest in the partnership, or under section 143.2 in calculating the cost of that partnership interest
+
+3. is any amount or benefit the limited partner, or a person not dealing at arm's length with the limited partner, is entitled to get in any form or manner, immediately or in the future and absolutely or contingently, to reduce the impact of any loss to the partnership interest
+
+###### Line 410 – Partner's share of the fiscal period's income
+
+Enter the amount of partnership income allocated to the limited partner for the fiscal period (amount "**b"** in the preceding formula) from any source calculated using the computational rules provided under subparagraph 53(1)(e)(i). These computational rules require, for example, using the amount of the actual capital gains instead of the taxable capital gains. **Do not** enter the partner's share of the fiscal period's loss.
+
+###### Line 420 – Partner's share in certain reductions of resource expenses for the fiscal period
+
+Enter amount "**b.1**" from the preceding formula.
+
+###### Line 430 – Non-arm's length debt owing and/or benefits receivable
+
+Enter the total of amounts "**c**" and "**d**" in the preceding formula.
+
+**References** Section 54 Subsection 96(2.2)
+
+### T5013 SCH 52, Summary Information for Partnerships that Allocated Renounced Resource Expenses to their Members
+
+Fill out the [T5013 SCH 52](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch52.html) if the partnership invested in flow-through shares of a principal-business corporation.
+
+If the corporation renounced resource expenses, adjusted amounts previously renounced, or allocated amounts for assistance or expenses qualifying for an investment tax credit (ITC), it will issue slip [T101, *Statement of Resource Expenses*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t101.html). Where the expenses from a principal-business corporation flowed through from another partnership, that partnership will have issued a T5013 slip to your partnership.
+
+Use the information from the T101 or [T5013 slip](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html) to fill out Part 1 of the T5013 SCH 52. The amounts in the total lines in Part 1 of the T5013 SCH 52 are the amounts you have to allocate to the partners on the T5013 slips. You will also need to notify the partners of the date of the flow-through share agreements entered into by the partnership under which resource expenses were renounced to the partnership.
+
+Attach the completed T5013 SCH 52 to the front of your return for that period.
+
+Attach your cheque to the front of the partnership information return if you are filing the return late and a penalty calculated on the T5013 SCH 52 applies. If you do not include this schedule with the partnership information return, we can apply a penalty. For more information about the penalties, see [Late filing penalty under subsections 66(12.74) and 66(12.75)](#P3050_75591). If you file your return electronically, send your cheque to your tax centre.
+
+##### Flow-through shares
+
+The flow-through share regime is eliminated for oil, gas, and coal activities, by no longer allowing oil, gas and coal exploration or development expenditures to be renounced to a flow-through share investor. This applies to expenditures under flow-through share agreements entered into after March 31, 2023
+
+### Filling out the T5013 SCH 52
+
+#### Part 1 – Renounced Canadian exploration expenses and Canadian development expenses
+
+##### Columns 100, 200, 300 and 400 – Identification number
+
+Enter the identification number from the T101 slip your partnership received from the principal-businesscorporation. If the expenses flowed through another partnership, enter that partnership's account number from the T5013 slip your partnership received from that partnership.
+
+##### Columns 102, 202 and 302 – Effective date of renunciation
+
+Enter the effective date of renunciation of the resource expenses from the T101 slip your partnership received from the principal-business corporation. If the expenses flowed through another partnership, enter that partnership's fiscal period end from the T5013 slip your partnership received from that partnership.
+
+#### Summary of renounced resource expenses allocated to the members of the partnership and the portion of the reduction subject to an interest-free period
+
+##### Column 104 and line 120 – Canadian exploration expenses (CEE)
+
+In column 104, enter the CEE from:
+
+- box 120 of the T101 slips received from each principal-business corporation
+
+- box 190 of the T5013 slips received from each partnership
+
+The total on line 120 should equal the total of the amounts that you reported in box 190 of the T5013 slips issued to partners.
+
+##### Column 106 and line 121 – Canadian development expenses (CDE)
+
+In column 106, enter the CDE from:
+
+- box 121 of the T101 slips received from each principal-business corporation
+
+- box 191 of the T5013 slips received from each partnership
+
+The total on line 121 should equal the total of the amounts you reported in box 191 of the T5013 slips issued to partners.
+
+##### Column 108 and line 130 – Portion of any reduction subject to an interest-free period – CEE
+
+In column 108, enter the portion of the reduction for CEE that is available for the interest-free period from:
+
+- box 130 of the T101 slips received from each principal-business corporation
+
+- box 196 of the T5013 slips received from each partnership
+
+The total on line 130 should equal the total of the amounts that you reported in box 196 of the T5013 slips issued to partners.
+
+#### Summary of assistance allocated or to be allocated
+
+##### Column 204 and line 124 – Canadian exploration expenses (CEE)
+
+In column 204, enter the CEE assistance from:
+
+- box 124 of the T101 slips received from each principal-business corporation
+
+- box 192 of the T5013 slips received from each partnership
+
+The total on line 124 should equal the total of the amounts that you reported in box 192 of the T5013 slips issued to partners.
+
+##### Column 206 and line 125 – Canadian development expenses (CDE)
+
+In column 206, enter the CDE assistance from:
+
+- box 125 of the T101 slips received from each principal-business corporation
+
+- box 193 of the T5013 slips received from each partnership
+
+The total on line 125 should equal the total of the amounts that you reported inbox 193 of the T5013 slips issued to partners.
+
+#### Summary of expenses qualifying for an investment tax credit (ITC) allocated to the members of the partnership
+
+##### Column 304 and line 128 – Mineral exploration tax credit (METC)
+
+In column 304, enter the resource expenditures qualifying for the METC from:
+
+- box 128 of the T101 slips received from each principal-business corporation
+
+- box 194 of the T5013 slips received from each partnership
+
+The total on line 128 should equal the total of the amounts that you reported in box 194 of the T5013 slips issued to partners.
+
+##### Column 306 and line 129 – Portion subject to an interest-free period – METC
+
+In column 306, enter the portion of the reduction for METC that is available for the interest-free period from:
+
+- box 129 of the T101 slips received from each principal-business corporation
+
+- box 195 of the T5013 slips received from each partnership
+
+The total on line 129 should equal the total of the amounts that you reported in box 195 of the T5013 slips issued to partners.
+
+##### Column 310 and line 122 – Critical mineral exploration tax credit (CMETC)
+
+In column 310, enter the resource expenditures qualifying for the CMETC from:
+
+- box 122 of the T101 slips received from each principal-business corporation
+
+- box 239 of the T5013 slips received from each partnership
+
+The total on line 122 should equal the total of the amounts that you reported in box 239 of the T5013 slips issued to partners.
+
+##### Column 312 and line 123 – Portion subject to an interest-free period – CMETC
+
+In column 312, enter the portion of the reduction for CMETC that is available for the interest-free period from:
+
+- box 123 of the T101 slips received from each principal-business corporation
+
+- box 240 of the T5013 slips received from each partnership
+
+The total on line 123 should equal the total of the amounts that you reported in box 240 of the T5013 slips issued to partners.
+
+The CMETC offers a 30% tax credit available to investors who invest in flow-through shares (FTS) in mining companies that undertake exploration for certain critical minerals in Canada. To qualify for this credit, the renunciation must be under a FTS agreement entered into after April 7, 2022, and before April 1, 2027. In addition, expenses related to the exploration of lithium brine deposits must be incurred after March 27, 2023 to qualify. The designated critical minerals are: copper, nickel, lithium, cobalt, graphite, rare earth elements, scandium, titanium, gallium, vanadium, tellurium, magnesium, zinc, platinum group metals and uranium.
+
+#### Summary of expenses qualifying for a provincial tax credit
+
+##### Columns 402, 403, 404, 405, 406, 407, 408 and 409, and lines 141, 151, 143, 153, 144, 154, 145 and 155
+
+In the appropriate column, enter the CEE (mining exploration only) that qualifies for provincial tax credits from:
+
+- boxes 141 and 151 for BC, 143 and 153 for SK, 144 and 154 for MB, and 145 and 155 for ON of the T101 slips received from each principal-business corporation
+
+- boxes 197 and 241 for BC,198 and 242 for SK, 199 and 243 for MB, and 200 and 244 for ON of the T5013 slips received from each partnership
+
+The total entered on lines 141, 151, 143, 153, 144, 154, 145 and 155 should equal the total of the amounts that you reported in boxes 197, 241,198, 242, 199, 243, 200 and 244 respectively of the T5013 slips issued to partners.
+
+As of January 1, 2023, the cap on labour expenditures per eligible newsroom employee is increased from $55,000 to $85,000 (prorated for the number of days in the fiscal period the partnership was a QJO). As well, as a temporary measure for four years, the tax credit rate is increased from 25% to 35% for the period from January 1, 2023 to December 31, 2026. After that period, the rate will return to 25%. Transitional rules apply to prorate these changes if the fiscal period does not follow a calendar year.
+
+To be eligible for the credit, the partnership must be a QJO, as defined in subsection 125.6(1) of the Act. Under this definition, a partnership is a QJO if it is a qualified Canadian journalism organization (QCJO), as defined in subsection 248(1) of the Act, and it does not hold a “licence,” as defined in subsection 2(1) of the Broadcasting Act.
+
+The credit cannot be allocated to a member of the partnership that is a partnership or a “specified member,” as defined in subsection 248(1) of the Act.
+
+A limited partner is considered to be a specified member.
+
+With the removal of the fuel charge effective April 1, 2025, the 2024 calendar year is the final year for which this credit is available. As such, it is only available if the fiscal period of the partnership began in 2024.
+
+**Reference** Section 127.42
+
+### T5013 SCH 74, Clean Hydrogen Investment Tax Credit
+
+A refundable tax credit, the clean hydrogen investment tax credit, is available to support investments in clean hydrogen production. The credit is equal to between 15% and 40% of the cost of purchasing and installing eligible property used in an eligible project. This percentage depends on the carbon intensity (CI) of the hydrogen the project will produce.
+
+The credit applies to property that is acquired and becomes available for use in respect of a qualified clean hydrogen project after March 27, 2023, and before 2035. It will be reduced by half for property that becomes available for use in 2034.
+
+To calculate and allocate the credit, complete the [T5013 SCH 74, *Clean Hydrogen Investment Tax Credit*,](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch74.html) and file it with your financial return for the fiscal period.
+
+### T5013 SCH 75, Clean Technology Investment Tax Credit
+
+A refundable clean technology investment tax credit is available. The credit is equal to 30% of the capital cost of eligible clean technology property that is acquired and that becomes available for use after March 27, 2023, and before 2034. The rate will be reduced to 15% in 2034 and nil after 2034.
+
+To calculate and allocate the credit, complete the [T5013 SCH 75, *Clean Technology Investment Tax Credit*,](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch75.html) and file it with your financial return for the fiscal period.
+
+### T5013 SCH 76, Clean Technology Manufacturing Investment Tax Credit
+
+A refundable investment tax credit is available for investment in certain clean technology manufacturing property that is used in:
+
+- clean technology manufacturing and processing
+
+- critical mineral extraction and processing
+
+The clean technology manufacturing investment tax credit is equal to 30% of the capital cost of eligible property associated with eligible activities.
+
+The credit applies to property that is acquired and becomes available for use after 2023. It will be gradually phased out starting with property that becomes available for use in 2032 as follows:
+
+- 30% in 2024 to 2031
+
+- 20% in 2032
+
+- 10% in 2033
+
+- 5% in 2034
+
+The credit will no longer be in effect for property that becomes available for use after 2034.
+
+The labour requirements do not apply to the clean technology manufacturing ITC.
+
+### T5013 SCH 78, Carbon Capture, Utilization, and Storage Investment Tax Credit
+
+A refundable carbon capture, utilization, and storage investment tax credit is available for qualified expenditures incurred after 2021 and before 2041.
+
+The credit rates for qualified CCUS expenditures are:
+
+- 60% after 2021 (30% after 2035 and before 2041) for eligible capture equipment used in a direct air capture project
+
+- 50% after 2021 (25% after 2035 and before 2041) for all other eligible capture equipment
+
+- 37.5% after 2021 (18.75% after 2035 and before 2041) for eligible transportation, storage, and use equipment
+
+To calculate and allocate the credit, complete the [T5013 SCH 78, *Carbon Capture Utilization, and Storage Investment Tax Credit*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch78.html), and file it with your financial return for the fiscal period.
+
+### T5013 SCH 130, Partnership Interest and Financing Expenses and Interest and Financing Revenues
+
+Use the [T5013 SCH 130, *Partnership Interest and Financing Expenses and Interest and Financing Revenues*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch130.html) to report amounts needed by members of the partnership to calculate their Excessive Interest and Financing Expenses Limitation (EIFEL) under subsection 18.2(2).
+
+A partnership required to complete the T5013 SCH 130 must, in addition, provide each member with detailed calculations of the relevant affiliate interest and financing expenses (RAIFE) and relevant affiliate interest and financing revenues (RAIFR) of any controlled foreign affiliate (CFA) of the partnership.
+
+### Filling out the T5013 SCH 130
+
+#### Part 1A to Part 4:
+
+Provide the information and complete the calculations as instructed.
+
+#### Part 5:
+
+Report the member's share of the amounts reported in Part 5 on the appropriate boxes of the member's T5013 slip – see [B](#boxes247to261)[oxes 247 to 261 – EIFEL rules](#boxes247to261).
+
+For more information on the T5013 SCH 130, go to [Excessive interest and financing expenses limitation rules](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/excessive-interest-financing-expenses-limitation-rules.html).
+
+**References**
+
+Section 18.2(1)
+
+### GIFI schedules
+
+Each partnership should include complete financial statement information for the fiscal period of the return using the codes provided in the General Index of Financial Information (GIFI).
+
+GIFI schedules include:
+
+- the [T5013 SCH 100, *Balance Sheet Information*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch100.html)
+
+- the [T5013 SCH 125, *Income Statement Information*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch125.html), and, if necessary, T5013 SCH 140, *Summary Statement*. If you have more than one business line, please fill out a separate T5013 SCH 125 for each business line and one T5013 SCH 140to summarize them
+
+- the [T5013 SCH 141, *General Index of Financial Information (GIFI) – Additional Information*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch141.html). This schedule is a set of questions designed to determine who prepared the financial statements and the extent of their involvement, and to identify the type of information contained in the notes to the financial statements
+
+Partnerships that do **not** have anything to report on their T5013 SCH 100 and T5013 SCH 125 are required to tick (✓) Yes at line 999 – "Is this a NIL schedule?" and attach T5013 SCH 100 and T5013 SCH 125 to their T5013 return.
+
+To help us process the schedules efficiently and quickly, do not use zeroes (000 00), dashes (–), NIL, or N/A on the lines when there is nothing to report.
+
+For more information on the GIFI, see [Guide RC4088, General Index of Financial Information (GIFI)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4088.html).
+
+## Chapter 9 – T5013, Statement of Partnership Income slip, and Form T5013 SUM, Summary of Partnership Income
+
+[Form T5013 SUM](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sum.html) reports the totals of amounts allocated to the partners on the [T5013 slips](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html).
+
+Before you fill out the Summary and the related T5013 slips, make sure that you:
+
+- read [How to fill out the forms and schedules of the return](#return)
+
+- fill out the [T5013 FIN](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013fin.html) and the related schedules (other than a nominee or an agent)
+
+- consider each partner's membership status within the partnership for income tax purposes (general, limited, or specified) when you calculate the amounts allocated to the partner
+
+The rules for allocating amounts to partners can vary depending on the type of partner. Therefore, under headings for the various boxes in this chapter, we separate the information for general and limited partners. If there is no difference in the rules, the information is under the heading "All partners." Wherever necessary, we also provide additional information and instructions for tax shelters and partnerships that invested in flow-through shares.
+
+All partnerships have to fill out the [T5013 slip](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html), since the T5013A slip is obsolete.
+
+The T5013 slips show only the most commonly used financial boxes. There are also blank generic code boxes for less common amounts and information that is not an amount. If you have to use a generic box, enter the box number and the amount or the information in the blank box. See the examples that follow.
+
+To help us quickly process the Summary and T5013 slips, follow these procedures:
+
+- Enter all amounts in dollars and cents:
+
+    - **Use** a period to separate dollars from cents
+
+    - Do **not** use dollar ($) signs
+
+    - Do **not** use zeros, dashes, NIL, or N/A in the boxes or financial areas you are not using
+
+- If you made an error in a previous fiscal period, do not adjust your current fiscal period Summary and T5013 slips. Instead, file amended forms for the previous fiscal period. For instructions, see [Amending or cancelling slips](#amending_cancel)
+
+- **Income from foreign countries** – Report all income from foreign countries. Unless the partnership is required to report using a functional currency, convert the foreign income earned by the partnership into **Canadian dollars** using the exchange rate in effect at the time of the transaction. If transactions occurred at various times throughout the year, use an average exchange rate for the year
+
+- Fill out a generic text box to identify each foreign country and the income from that foreign country. To number each generic box, use the appropriate box number for the type of income in the first part of the number box and the appropriate three-letter country code from [Appendix B](#Appendix_B) in the second part of the number box. The partner needs this information to calculate the foreign tax credits separately for each country. To find out how to complete T5013 slips, see the following examples
+
+**Canadian and foreign net rental income (loss)**
+
+A partnership is composed of two members each owning half of the partnership interest. Its Canadian and foreign net rental income is $250,000. The amount of foreign net rental income included is $100,000. Of the $100,000, $25,000 comes from the United States of America, and $75,000 from Mexico.
+
+On the T5013 Summary and each partner's T5013 slip, enter:
+
+**T5013 Summary**
+
+| Box – Case | Code | Amount – Montant |
+
+| --- | --- | --- |
+
+| 110 | CAN | 75,000.00 |
+
+| 110 | USA | 12,500.00 |
+
+| 110 | MEX | 37,500.00 |
+
+**Foreign dividend and interest income**
+
+A partnership's foreign dividend and interest income of $8,540 is from Japan. There are five members in the partnership, each owning 20% of the partnership interest.
+
+On the T5013 Summary and each partner's T5013 slip, enter:
+
+**T5013 Summary**Box 135 is not totalled or displayed on the summary.
+
+| Box – Case | Code | Amount – Montant |
+
+| --- | --- | --- |
+
+| 135 | JPN | 1,708.00 |
+
+- **Income from multiple provinces or territories** – Fill out a generic box on the T5013 slip, to identify each province or territory and the income from that province or territory. To number each generic box, use the appropriate box number for the type of income in the first part of the number box and two-letter province or territory code from [Appendix A](#ppdxa) in the second part of the number box. The partner needs this information to calculate provincial or territorial income tax payable
+
+**Business income from multiple provinces or territories**
+
+A partnership business income is $475,600, 70% is from Alberta and 30% is from Ontario. There are eight members in the partnership, each owning 12.5% of the partnership interest.
+
+On the T5013 Summary and each partner's T5013 slip, enter:
+
+**T5013 Summary**
+
+| Box – Case | Code | Amount – Montant |
+
+| --- | --- | --- |
+
+| 116 | AB | 41,615.00 |
+
+| Box – Case | Code | Amount – Montant |
+
+| --- | --- | --- |
+
+| 116 | ON | 17,835.00 |
+
+- Enter all losses in brackets on the forms. However, if you are filing the slips electronically, you must use a dash
+
+**Limited partnership farming income (loss)**
+
+A partnership farming loss is $26,845.90 (and 100% of it from Ontario). There are five members in the partnership, each owning 20% of the partnership interest.
+
+On the T5013 Summary and each partner's T5013 slip, enter:
+
+**T5013 Summary**
+
+Box 101 is not totalled or displayed on the summary.
+
+| Box – Case | Code | Amount – Montant |
+
+| --- | --- | --- |
+
+| 101 | ON | -5,369.18 |
+
+- Enter the necessary information that is related to specific generic boxes in the other information text box on the bottom left hand side of the T5013 slip
+
+**Investment in film property**
+
+A partnership invested in Canadian film property and received $18,671.92 as income from the investment. There are four members in the partnership, each owning 25% of the partnership interest.
+
+On the T5013 Summary and each partner's slip, enter:
+
+**T5013 Summary**Box 146 is not totalled or displayed on the summary.
+
+| Box – Case | Code | Amount – Montant |
+
+| --- | --- | --- |
+
+| 146 |  | 4,667.98 |
+
+| Box – Case | Other information – Autres renseignements |
+
+| --- | --- |
+
+| 147 | Canadian film property |
+
+### Filling out the T5013 slip
+
+The T5013 slip gives information to each partner about the partnership's operating results for the fiscal period. It includes income, losses, and other amounts allocated to the partner.
+
+The T5013 slip includes elements of the obsolete Form T5013A. Tax shelters that previously filled out a T5013A slip must fill out the T5013 slip.
+
+Fill out one T5013 slip for each partner, and record all relevant information.
+
+For more information regarding amended, additional, cancelled and duplicated slips, see [Amending or cancelling slips](#amending_cancel).
+
+#### Fixed boxes
+
+##### Fiscal period-end
+
+Enter the four numbers of the year and two numbers of the month and day of the fiscal reporting period end (YYYY-MM-DD). If the partnership ended its operations, see [Final return](#final_return).
+
+##### Tax shelter identification number
+
+If the partnership is a tax shelter, enter the tax shelter identification number the CRA assigned to the partnership. For more information, see [The tax shelter identification number](#tax_shelterid).
+
+##### Filer's name and address
+
+Enter the full name and complete address associated with the partnership account number you are entering in box 001.
+
+##### Box 001 – Partnership account number
+
+The filer may be the partnership, a nominee or an agent. Enter the 15-character partnership account number, which includes the RZ program identifier.
+
+For more information about the account number, see [Partnership account number](#prtnrshp_ccnt_nmbr).
+
+##### Box 002 – Partner code
+
+To identify the status of the partner within the partnership, enter one of the following codes:
+
+**6**
+
+for a retired member paid under subsection 96(1.1)
+
+##### Box 003 – Country code
+
+Enter "CAN" if the partner resides in Canada. If the partner resides in a country **other than** Canada, enter the appropriate three-letter code for the country where the partner resides from [Appendix B](#Appendix_B).
+
+##### Box 004 – Recipient type
+
+To identify the type of partner, enter:
+
+for an individual, other than a trust
+
+for a corporation
+
+for an association, trust (RRSP trustee, fiduciary-trustee, nominee, or estate), club, or partnership
+
+If you entered code "4" in box 002, enter code "4" in box 004.
+
+##### Box 005 – Partner's share (%) of partnership
+
+Enter the partner's percentage share of the partnership net income (loss) held by the partner at the partnership's fiscal period end. Use up to six decimal places. For example, 10.25% would be written as 010.250000.
+
+##### Box 006 – Partner's identification number
+
+**For a partner that is an individual** – Enter the social insurance number (SIN).
+
+The [T5013 slip](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html) preparer has to make a reasonable effort to get a partner's SIN. However, leave this area blank if the partner:
+
+- has not provided the SIN when you prepare the T5013 slip
+
+- does not have a SIN and has to apply for one
+
+**Do not**delay completing the annual return beyond the due date.
+
+If a partner provides you with a SIN after you filed the return, prepare an amended T5013 slip.
+
+Penalties may apply if you do not provide the SIN. For more information, see [Failure to provide social insurance numbers (SINs), business numbers (BNs), or other information](#failing).
+
+**For** **a** **partner** **that** **is** **a** **trust** – Enter the trust account number. You can get this number from the trustee.
+
+**For a partner that is a corporation** – Enter the corporation's 15-character **RC** account number. You can get this number from an officer of the corporation.
+
+**For a partner that is a partnership** – Enter that partnership's 15-character **RZ**account number. You can get this number from a partner of the partnership.
+
+**For a non-resident partner** – If the partner is a non-resident and has already been assigned one of the numbers mentioned above, or an individual tax number (ITN), or a temporary tax number (TTN) issued by the CRA or a 15-characteraccount number assigned by the CRA to the partner for any of its business accounts (payroll deductions (RP), GST/HST (RT), or import/ export (RM), enter this number. Otherwise leave the box blank.
+
+**For** **any other** **partner** **that** **has** **a** **business** **number** – Enter the 15-character account number assigned by the CRA to the partner for any of its business accounts (payroll deductions (RP), GST/HST (RT)), or for a registered charity or registered Canadian amateur athletic association (RR).
+
+##### Partner's name and address
+
+Type or clearly print this information as described below:
+
+###### Partner's name
+
+**For an individual** – Enter the last name, then the usual first name and initials.
+
+**For a corporation** – Enter the corporation's full name.
+
+**For a partnership** – Enter the partnership's full name.
+
+**For a trust** – Enter the trust's full name.
+
+Enter the full name, do not use abbreviations, and make sure the punctuation is correct.
+
+The partner's name should be the same name reported on line 100 of the T5013 SCH 50.
+
+###### Partner's address
+
+Enter the **complete mailing address** of the partner. If the partner is a trust, enter the**complete mailing address** of the responsible trustee, executor, liquidator, or administrator. Include the following:
+
+- number and street name
+
+- suite, apartment, or post office box number
+
+- city
+
+- province, territory, or state (use the appropriate two-letter code from [Appendix A](#Appendix_A))
+
+- postal code, United States zip code, or other code
+
+- country (use "CAN" or the appropriate three-letter code from [Appendix B](#Appendix_B))
+
+##### Box 205 – Functional currency code
+
+Enter the functional currency code in a generic text box in the "Other Information" area on the slip (if applicable). For example, enter USD if the functional currency is the US dollar.
+
+##### Box 010 – Total limited partner's business income (loss)
+
+This is the total of all the amounts from boxes 104 on the slip.
+
+##### Box 020 – Total business income (loss)
+
+This is the total of all the amounts from boxes 116 on the slip.
+
+##### Box 030 – Total capital gains (losses)
+
+This is the total of all the amounts from boxes 151, 153, 154, and 155, 276, 277, 278 and 289 on the slip.
+
+##### Box 040 – Capital cost allowance
+
+**All partners** – Enter the partner's share of the capital cost allowance you calculated on line 250 of the T5013 SCH 8. Do **not** include terminal losses in this amount. See box 254 for additional information.
+
+The partner needs these amounts to calculate adjusted taxable income for the purpose of calculating federal alternative minimum tax on [Form T691, *Alternative Minimum Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t691.html), and the additional tax for minimum tax purposes on the appropriate provincial and territorial tax and credit Form 428.
+
+If you entered an amount in fixed box 040, use a generic text box to enter the amounts requested by the related title of the following boxes for providing additional capital cost allowance information:
+
+- **Box 220** – Capital cost allowance for rental or leasing property
+
+- **Box 221** – Capital cost allowance for film property
+
+##### Generic boxes
+
+##### Limited partner's net income (loss)
+
+**Limited partners** – Losses from a business (other than a farming business) or from property allocated to a limited partner in a fiscal period that can be used by the limited partner in the tax year are restricted to that limited partner's at-risk amount (ARA) at the end of the fiscal period of the partnership, minus certain other deductions. For more information, see [Limited partnership loss (LPL)](#lmtd_prnrshp_loss) and [Lines 410 to 430 – At-risk amount (ARA) (for limited partners only)](#line) in the T5013 SCH 50 instructions.
+
+You **cannot** allocate a loss that has been created or increased by SR&ED expenditures to a limited partner. For more information, see [Scientific research and experimental development (SR&ED)](#P3009_13624).
+
+##### Box 101 – Limited partner's farming income (loss) (multi-jurisdictional)
+
+**Limited partners only** – Allocate the partner's share of the partnership's net total farming income.
+
+##### Box 102 – Agricultural income stabilization
+
+**All partners** – Enter the partner's share of the limited partnership's net total farming income from the AgriStability and AgriInvest Programs.
+
+##### Box 103 – Limited partner's fishing income (loss) (multi-jurisdictional)
+
+**Limited partners only** – Allocate the partner's share of the partnership's net total fishing income.
+
+##### Box 104 – Limited partner's business income (loss) (multi-jurisdictional)
+
+**Limited partners only** – Allocate the partner's share of the partnership's net total business income, other than farming income.
+
+Do not deduct carrying charges incurred for earning any investment income. These amounts are included in box 210.
+
+**Partnerships that are tax shelters** – Enter the reduced expenditure amount after applying section 143.2.
+
+If there is business income from foreign countries, fill out a generic financial box to identify each foreign country.
+
+##### Box 105 – Limited partner's at-risk amount
+
+**Limited partners only** – Enter the amount of the limited partner's ARA.
+
+Include a note in generic text box 105 in the "Other information" area of the T5013 slip but do not report a financial amount in the generic financial box if:
+
+- the partnership interest is a limited partner's exempt interest as described under the heading [Limited partner's exempt interest](#limited_partner)
+
+- you entered partner code "3" on line 106 of the T5013 SCH 50 indicating a limited partner's exempt interest
+
+##### Box 106 – Limited partner's adjusted at-risk amount
+
+**Limited partners only** – Enter the limited partner's adjusted ARA. This is the limited partner's ARA reduced by the limited partner's share of any investment tax credit and any farming losses. A limited partner's share of resource expenses is restricted to the partner's adjusted ARA. For more information about the adjusted ARA, see [Boxes 173 to 176 – Resource expenses](#P30542_1145).
+
+##### Box 107 – Limited partner's rental income (loss)
+
+**Limited partners only** – Allocate the partner's share of the partnership's net rental income (non-business activity rental income (loss) from property).
+
+Do not deduct carrying charges incurred for earning the non-business rental income. These amounts are included in box 210.
+
+If there is rental income from foreign countries, do not deduct any tax the foreign country withheld from the amount of foreign income. Report the foreign tax withheld in box 171. Fill out a generic financial box to identify each foreign country. For information on the generic box number, see [Examples](#xmpls_cfnr).
+
+**Partnerships that are tax shelters** – Enter the reduced expenditure amount after applying section 143.2.
+
+##### Box 108 – Limited partner's loss available for carry forward
+
+**Limited partners only** – Enter the amount of the limited partner's limited partnership loss (LPL), which is the amount of the loss allocated to the limited partner that is restricted by the limited partner's ARA. See [Limited partnership loss (LPL)](#lmtd_prnrshp_loss).
+
+The limited partner can carry forward this amount indefinitely and deduct it in a later year if, at that time, the limited partner has a positive ARA after deducting the amounts specified under subparagraph 111(1)(e)(ii).
+
+Report the amount of the current fiscal period's partnership losses that the limited partner can use in the current tax year in boxes 101 to 107, as they apply.
+
+##### Box 109 – Previous loss carry forward eligible in the current year
+
+**Limited partners only** – Enter the amount of the limited partner's LPL previously carried forward that the partner may be able to claim in the current tax year. The partner can deduct this amount only if the partner has a positive ARA in respect of the partnership and only to the extent permitted by paragraph 111(1)(e).
+
+##### Box 113 – Return of capital
+
+**All partners** – Enter the non‑taxable amounts that the limited partnership distributed to the partner. The partners need these amounts to reduce the adjusted cost base of the limited partnership interest.
+
+##### Canadian and foreign net business income (loss)
+
+If the partnership has foreign business income or losses, fill out a generic box to identify each foreign country. For information on the generic box number, see these [examples](#xmpls_cfnr).
+
+**Partnerships that invested in flow‑through shares** – Do not include in boxes 116, 120, 124, or 126 any renounced resource expenses entered in boxes 190 to 193 on a T5013 slip.
+
+##### Box 114 – Other income
+
+Allocate the partner's share of any other partnership reconciled net income that is not included in boxes 116 to 126. This includes any COVID-19 related subsidies. Do not allocate a loss in box 114. Do not include investment income allocated in box 146.
+
+##### Box 115 – Type of other income
+
+Describe the other income you allocated in box 114. Use a generic text box on the slip under section "Other information."
+
+##### Box 116 – Business income (loss) (multi‑jurisdictional)
+
+**All partners** (other than limited partners) – Allocate the partner's share of the partnership's reconciled net total business income or loss. Do not include farming or fishing income in box 116 because they should be reported in boxes 124 and 126 respectively.
+
+If there is business income from foreign countries, fill out a generic financial and jurisdictional code box to identify each foreign country.
+
+##### Box 118 – Gross business income (multi-jurisdictional)
+
+Enter the partner's share of the partnership's gross business income.
+
+##### Box 119 – Foreign business income that is exempt from Canadian tax due to a tax convention or agreement (multi-jurisdictional)
+
+Enter any part of foreign business income that is exempt from Canadian tax due to a tax convention or agreement. The partner needs this information to fill out [Form T1139, *Reconciliation of 2023 Business Income for Tax Purposes*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1139.html). Use a generic financial box on the slip. Fill out a different generic text box to identify each foreign country.
+
+##### Box 120 – Professional income (loss) (multi-jurisdictional)
+
+**All partners** – Allocate the partner's share of the partnership's reconciled net total professional income.
+
+##### Box 121 – Gross professional income (multi-jurisdictional)
+
+Enter the partner's share of the partnership's gross professional income.
+
+##### Box 122 – Commission income (loss) (multi-jurisdictional)
+
+**All partners** – Allocate the partner's share of the partnership's reconciled net total commission income. Use a generic financial box on the slip.
+
+##### Box 123 – Gross commission income (multi-jurisdictional)
+
+Enter the partner's share of the partnership's gross commission income.
+
+##### Box 124 – Farming income (loss) (multi-jurisdictional)
+
+**All partners** (other than limited partners) – Allocate the partner's share of the partnership's reconciled net total farming income.
+
+##### Box 125 – Gross farming income (multi-jurisdictional)
+
+Enter the partner's share of the partnership's gross farming income.
+
+##### Box 126 – Fishing income (loss) (multi-jurisdictional)
+
+**All partners**(other than limited partners) – Allocate the partner's share of the partnership's reconciled net total fishing income.
+
+##### Box 127 – Gross fishing income (multi-jurisdictional)
+
+Enter the partner's share of the partnership's gross fishing income.
+
+##### Box 149 – Total business income (loss) from an active business carried on in Canada
+
+**If the partner is a corporation** – Allocate the total income or loss from an active business carried on in Canada. Use a generic financial box on the slip.
+
+##### Box 150 – Canadian manufacturing and processing profits under subsection 125.1(3)
+
+**If the partner is a corporation** – Allocate the Canadian manufacturing and processing profits under subsection 125.1(3). Use a generic financial box on the slip.
+
+##### Canadian and foreign investments and carrying charges
+
+##### Box 110 – Canadian and foreign net rental income (loss) (multi-jurisdictional)
+
+**All partners** (other than limited partners) – Allocate the partner's share of the partnership's reconciled net rental income (**non-business activity** rental income or loss from property).
+
+Do not deduct carrying charges incurred for earning the non-business rental income. These amounts are included in box 210.
+
+If there is foreign rental income, do not deduct any tax the foreign country withheld from the amount of foreign income. Report the foreign tax withheld in box 171. Fill out a generic financial box to identify each foreign country.
+
+##### Box 111 – Foreign net rental income (loss) (multi-jurisdictional)
+
+**All partners** (other than limited partners) – Enter the partner's share of the partnership's reconciled foreign net rental income (**non-business activity** rental income (loss) from property) already included in box 110. Use a generic financial box on the slip. Fill out a generic financial and jurisdictional code box to identify each foreign country.
+
+Do not deduct any tax the foreign country withheld from the amount of foreign income. Report the foreign tax withheld in box 171.
+
+##### Box 112 – Foreign net rental income that is exempt from Canadian tax due to a tax convention or agreement (multi-jurisdictional)
+
+**All partners** – Enter any part of foreign rental income that is exempt from Canadian tax due to a tax convention or agreement. Use a generic financial box on the slip. Fill out a generic financial and jurisdictional code box to identify each foreign country and the article and paragraph of the applicable tax treaty.
+
+The partner needs this information to fill out [Form T2209,*Federal Foreign Tax Credits*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2209.html).
+
+##### Box 117 – Gross Canadian and foreign rental income
+
+Enter the partner's share of the partnership's gross Canadian and foreign rental income.
+
+The amount **cannot** be a negative amount.
+
+##### Box 128 – Interest from Canadian sources
+
+**All partners** – Allocate the partner's share of interest income from Canadian sources that the partnership received, or is considered to have received.
+
+Do not deduct carrying charges incurred for earning the interest income. These amounts are included in box 210.
+
+Do not include interest income from a business activity that you already included in box 116, 124, or 126.
+
+The partnership may be able to deduct interest paid to a partner on a loan from that partner. The interest the partnership paid is the partner's interest income. Report the partner's interest income on a T5 slip, not on a T5013 slip.
+
+The amount cannot be a negative amount.
+
+##### Box 129 – Actual amount of dividends (other than eligible dividends)
+
+**All partners** – Allocate the partner's share of the **actual** amount of dividends other than eligible dividends that the partnership received, or is considered to have received, from taxable Canadian corporations.
+
+Do not deduct carrying charges incurred for earning the dividend income. These amounts are included in box 210.
+
+The amount cannot be a negative amount.
+
+##### Box 130 – Taxable amount of dividends (other than eligible dividends)
+
+**Partners who are individuals resident in Canada** (including trusts but not a trust that is a registered charity) **and** **partnerships** – If the dividends were paid in 2018, enter 16% more than the amount reported in box 129. If the dividends are paid after 2018, enter 15% more than the amount reported in box 129.
+
+**Partners who are corporations** – Do not enter an amount in box 130 if the partner is a corporation.
+
+##### Box 131 – Dividend tax credit for dividends (other than eligible dividends)
+
+**Partners who are individuals resident in Canada** (including trusts but not a trust that is a registered charity) **and partnerships** – The amount entered in box 131 is 10.0313% of the taxable amount reported in box 130 for dividends paid during 2018. If the dividends are paid after 2018, the amount entered in box 131 is 9.0301% of the taxable amount reported in box 130.
+
+**Partners who are corporations** – Do not enter an amount in box 131 if the partner is a corporation.
+
+##### Box 132 – Actual amount of eligible dividends
+
+**All partners** – Allocate the partner's share of the **actual** amount of eligible dividends that the partnership received, or is considered to have received, from taxable Canadian corporations.
+
+Do not deduct carrying charges incurred for earning the dividend income. These amounts are included in box 210.
+
+##### Box 133 – Taxable amount of eligible dividends
+
+**Partners who are individuals resident in Canada** (including trusts but not a trust that is a registered charity) **and** **partnerships**– Enter the sum of the amount reported in box 132 plus the eligible dividend gross-up.
+
+The eligible dividend gross-up is the result of multiplying the amount reported in box 132 by the appropriate percentage for the fiscal period:
+
+- 38%
+
+**Partners who are corporations** – Do not enter an amount in box 133 if the partner is a corporation.
+
+##### Box 134 – Dividend tax credit for eligible dividends
+
+**Partners who are individuals resident in Canada** (including trusts but not a trust that is a registered charity)**and partnerships** – The amount entered in box 134 is 15.0198% of the amount reported in box 133.
+
+**Partners who are corporations** – If the partner is a corporation, do not enter an amount in box 134.
+
+##### Box 135 – Foreign dividend and interest income (multi-jurisdictional)
+
+**All partners** – Allocate the partner's share of the combined dividend and interest income from sources outside Canada. Use a separate generic financial box for amounts from each country. Fill out a generic financial code box to identify each foreign country, using the three-letter country code from [Appendix B](#Appendix_B).
+
+Do not deduct any tax that the foreign country withheld from the foreign income. Report the amount of any foreign taxes withheld in box 171.
+
+Do not deduct carrying charges incurred for earning the foreign dividend and interest income. These amounts are included in box 210.
+
+The amount cannot be a negative amount.
+
+##### Box 136 – Foreign investment income that is exempt from Canadian tax due to a tax convention or agreement (multi-jurisdictional)
+
+**All partners** – Enter any part of foreign investment income that is exempt from Canadian tax due to a tax convention or agreement. Use a generic financial box on the slip. Fill out a generic financial code box to identify each foreign country, using the three-letter country code from [Appendix B](#Appendix_B).
+
+**Individuals**– When filling out your income tax and benefit return, the amounts of income that are exempt of tax under an income tax convention should be deducted at line 256.
+
+When filling out [Form T2209, *Federal Foreign Tax Credits*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2209.html), deduct box 136 from box 135 to calculate the amount to claim as income.
+
+##### Box 137 – Business investment loss
+
+**All partners** – Allocate the partner's share of the business investment loss. See the definition of [Business investment loss](#P3009_13622).
+
+If you entered an amount in box 137, use a generic financial box on the slip under section "Other information" to enter the amounts or other information requested by the related title into the following relevant boxes.
+
+**Tax shelters** – If your partnership is a tax shelter with many business investment losses, fill out one box only and enter "Tax shelter business investment loss" in generic box 138.
+
+##### Box 138 – Name of the Small Business Corporation
+
+##### Box 139 – Number and class of shares, or type of debt owed by the Small Business Corporation
+
+##### Box 140 – Insolvency, bankruptcy, or wind-up date
+
+##### Box 141 – Date the partnership bought the shares or acquired the debt
+
+##### Box 142 – Proceeds of disposition
+
+##### Box 143 – Adjusted cost base of the shares or debt
+
+##### Box 144 – Outlays and expenses on the disposition
+
+The partners have to provide the information to us when they use the amount to calculate their allowable business investment loss deduction using the chart for line 21700 on Form [T1436, *Capital Gains Worksheet*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1436.html).
+
+##### Box 145 – Dividend rental arrangement compensation payments
+
+**All partners** – Allocate the partner's share of compensation payments that the partnership paid or received for earning dividend income from dividend rental arrangements. Use a generic financial box on the slip.
+
+##### Box 146 – Other investment income
+
+**All partners** – Allocate the partner's share of other investment income from Canadian sources that the partnership received, or is considered to have received. Use a generic financial box on the slip.
+
+Fill out box 147 to identify the type of investment income. The partners need this information to fill out [Form T691, *Alternative Minimum Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t691.html).
+
+The amount cannot be a negative amount.
+
+##### Box 147 – Type of investment income
+
+**All partners** – If you entered an amount in box 146, enter the type of investment income in box 147.
+
+The partner needs this information to calculate adjusted taxable income for calculating the alternative minimum tax on [Form T691](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t691.html) and the additional tax for minimum tax purposes on the appropriate provincial and territorial tax and credit Form 428. Use a generic text box on the slip.
+
+##### Additional amounts and information
+
+##### Box 151 – Capital gains (losses)
+
+**All partners** – Allocate the partner's share of capital gains and losses, and capital gains dividends from the amount you calculated and entered on line 992 of the [T5013 SCH 6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch6.html).
+
+Do not include a business investment loss (these amounts are included in box 137).
+
+Do not deduct any allowable reserves for the period. Report the amount of any capital gains reserve that you allocated to the partner in box 159, 223, or 225 (as applicable).
+
+##### Box 274 –Capital gains eligible to the 0% inclusion rate under paragraph 38(a.1)
+
+Allocate the partner’s share of the amount you entered in line 961 of the [T5013 SCH 6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch6.html).
+
+A partner needs this information to calculate alternative minimum tax on Form T691 for an individual and on the [T3 SCH 12, *Minimum Tax, for a trust*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch12.html).
+
+##### Box 152 – Last fiscal period's capital gains reserve allocated in the previous year and brought into income for the current year
+
+**All partners** – Report the partner's share of any capital gains reserve brought into income for the current fiscal period.
+
+Do not include the amounts reported in boxes 222, 224.
+
+Also, do not include in any box the amount of any prior period reserve brought into income for the current fiscal period for dispositions under a qualifying business transfer (QBT) or a qualifying cooperative conversion (QCC). Report the partner’s share of any such amounts to the partner in a letter with a breakdown of the portion that is attributable respectively to QSBCS and QFFP, if any, along with the date of disposition.
+
+##### Box 153 – Qualified small business corporation shares (QSBCS) capital gains (losses) amount eligible for the capital gains exemption – On dispositions before June 25, 2024
+
+**All partners** – Allocate partner's share of QSBCS capital gains (losses) amount eligible for the capital gains exemption from the amount you entered at line 330 of the [T5013 SCH 6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch6.html).
+
+##### Box 276 – Qualified small business corporation shares (QSBCS) capital gains (losses) amount eligible for the capital gains exemption – On dispositions after June 24, 2024
+
+**All partners** – Allocate the partner’s share of QSBCS capital gains (losses) amount eligible for the capital gains exemption from the amount you entered at line 340 of the [T5013 SCH 6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch6.html).
+
+##### Box 154 – Qualified farm or fishing property (QFFP) capital gains (losses) amount eligible for the capital gains exemption – On dispositions before June 25, 2024
+
+**All partners** – Allocate the partner’s share of QFFP capital gains (losses) amount eligible for the capital gains exemption from the amount you entered at line 350 of the [T5013 SCH 6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch6.html).
+
+##### Box 277 – Qualified farm or fishing property (QFFP) capital gains (losses) amount eligible for the capital gains exemption – On dispositions after June 24, 2024
+
+**All partners** – Allocate the partner’s share of QFFP capital gains (losses) amount eligible for the capital gains exemption from the amount you entered at line 360 of the [T5013 SCH 6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch6.html).
+
+##### Box 155 – Capital gains (losses) from QFFP mortgage foreclosures and conditional sales repossessions eligible for the capital gains deduction – On dispositions before June 25, 2024
+
+**All partners** – Allocate the partner’s share of capital gains (losses) from QFFP mortgage foreclosures and conditional sales repossessions eligible for the capital gains deduction from the amount you entered at line 370 of the [T5013 SCH 6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch6.html).
+
+##### Box 278 – Capital gains (losses) from QFFP mortgage foreclosures and conditional sales repossessions eligible for the capital gains deduction – On dispositions after June 24, 2024
+
+**All partners** – Allocate the partner’s share of capital gains (losses) from QFFP mortgage foreclosures and conditional sales repossessions eligible for the capital gains deduction from the amount you entered at line 380 of the [T5013 SCH 6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch6.html).
+
+##### Box 156 –Foreign capital gains (losses) (Multi‑jurisdictional)
+
+Enter the capital gains (losses) from a foreign source. If capital gains (losses) are from one or more foreign countries, report the total amount of capital gain (loss) from each foreign source using separate boxes for each source. The partners need this information to calculate the foreign tax credits on foreign business and non‑business income.
+
+Do not deduct any foreign taxes withheld when you calculate the gain (loss). Report the amount of any foreign taxes withheld in box 171.
+
+##### Box 157 – Foreign capital gains exempt from Canadian tax due to a tax convention or agreement (Multi-jurisdictional)
+
+Enter the foreign capital gain that is exempt from Canadian tax due to a tax convention or agreement. If there is more than one foreign source, use separate boxes for each source. The partners need this information to calculate the foreign tax credits on foreign business and non-business income.
+
+##### Box 159 – Capital gains reserves
+
+**All partners** – Report the partner's share of any capital gains reserve for the fiscal period.
+
+Do not include the amounts reported boxes 223, 225.
+
+Also, do not include in any box the amount of any reserve for dispositions under a qualifying business transfer (QBT). Report the partner’s share of any such amount to the partner in a letter with a breakdown of the portion that is attributable respectively to QSBCS and QFFP.
+
+The partner needs this amount to fill out [Form T2017,*Summary of Reserves on Dispositions of Capital Property*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2017.html).
+
+If you entered an amount in box 159, use a generic financial box to enter the amounts requested by the related title of boxes 163 and 165.
+
+##### Boxes 222 to 225 – Capital gains reserves eligible for the lifetime capital gains exemption
+
+Where a capital gains reserve is claimed and included in income in a later year, the amount of the capital gains exemption that can be claimed in that later year is limited to the amount that would have been eligible for the exemption in the year of disposition. Partnerships should report the total capital gains reserves in the appropriate box on the slip but provide any necessary break-down to the partners on a separate document.
+
+##### Box 222 – Prior year reserves from qualified farm or fishing property (QFFP)
+
+Report the partner’s share of the prior period reserve brought into income for the current fiscal period for dispositions of QFFP.
+
+##### Box 223 – Current year reserves from qualified farm or fishing property (QFFP)
+
+Report the partner’s share of the reserve for the fiscal period for dispositions of QFFP.
+
+##### Box 224 – Prior year reserves from qualified small business corporation shares (QSBCS)
+
+Report the partner’s share of the prior period reserve brought into income for the current fiscal period for dispositions of QSBCS.
+
+##### Box 225 – Current year reserves from qualified small business corporation shares (QSBCS)
+
+Report the partner’s share of the reserve for the fiscal period for dispositions of QSBCS.
+
+##### Box 226 – Repaid assistance (for Canadian exploration expenses)
+
+Allocate the partner's share of the amount you entered in line 154 of the [T5013 SCH 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch12.html).
+
+##### Box 227 – Repaid assistance (for Canadian development expenses)
+
+Allocate the partner's share of the amount you entered in line 252 of the [T5013 SCH 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch12.html).
+
+##### Box 228 – Repaid assistance (for Canadian oil and gas property expenses)
+
+Allocate the partner's share of the amount you entered in line 352 of the [T5013 SCH 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch12.html).
+
+##### Box 229 – Amount receivable for CEE property or unitized oil and gas field CEE
+
+Allocate the partner's share of the amount you entered in line 156 of the [T5013 SCH 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch12.html).
+
+##### Box 230 – Amount receivable for CDE property or unitized oil and gas field CDE
+
+Allocate the partner's share of the amount you entered in line 254 of the [T5013 SCH 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch12.html).
+
+##### Box 231 – Amount receivable for unitized oil and gas field CCOGPE
+
+Allocate the partner's share of the amount you entered in line 354 of the [T5013 SCH 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch12.html).
+
+##### Box 232 – Proceeds of disposition (for Canadian development expenses)
+
+Allocate the partner's share of the amount you entered in line 256 of the [T5013 SCH 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch12.html).
+
+##### Box 233 – Proceeds of disposition (for Canadian oil and gas property expenses)
+
+Allocate the partner's share of the amount you entered in line 356 of the [T5013 SCH 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch12.html).
+
+##### Box 234 – Accelerated Canadian development expenses
+
+Allocate the partner's share of the amount you entered in line 262 of the [T5013 SCH 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch12.html).
+
+##### Box 235 – Accelerated Canadian oil and gas property expenses
+
+Allocate the partner's share of the amount you entered in line 362 of the [T5013 SCH 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch12.html).
+
+##### Box 236 – Canadian Journalism Labour Tax Credit
+
+Enter the partner's share of the credit from Part 4 of the [T5013 SCH 58](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch58.html).
+
+The credit cannot be allocated to a member of the partnership that is a partnership or a "specified member," as defined in subsection 248(1) of the Act. A limited partner is considered to be a specified member.
+
+##### Box 237 – Return of fuel charge proceeds to farmers tax credit
+
+Enter the partner's share of the credit from the [T5013 SCH 63](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch63.html).
+
+##### Box 163 – Capital gains reserve from other property
+
+**All partners** – Report the partner's share of any capital gains reserve for the fiscal period for other property.
+
+##### Box 165 – Capital gains reserve from non-qualifying securities the partnership donated to a qualified donee
+
+If all or part of the capital gains are from making a donation to a qualified donee of a non-qualifyingsecurity (described in subsection 118.1(18)), other than an excepted gift (described in subsection 118.1(19)), the partnership may qualify to claim a reserve as described in subsection 40(1.01).
+
+For gifts of non-qualifying securities, the reserve you can claim **cannot** be greater than the eligible amount of the gift.
+
+For fiscal periods ending before the end of the 60-month period following the donation of the non-qualifying security, the partnership must bring into income the preceding fiscal period's capital gains reserve, if it claimed a reserve. During this period, if the donee still holds the property, or the security is still a non-qualifying security, the partnership can claim a current fiscal period's capital gains reserve for the donated non-qualifying security.
+
+If the donee disposes of the security, or the security ceases to be a non-qualifying security, before the end of the 60-month period following its donation, the partners may qualify to claim the donation. For more information, see [Box 182 – Eligible amount of charitable donations](#box_182).
+
+**All partners** – Report the partner's share of any capital gains reserve for the fiscal period for non-qualifyingsecurities the partnership donated to a qualified donee.
+
+##### Box 166 – Capital gains reserve from gifts of non-qualifying securities – Eligible amount
+
+Enter the eligible amount of the gifts of non-qualifying securities (other than excepted gifts) the partnership donated to a qualified donee in respect of which the capital gains were realized and a reserve is available.
+
+##### Box 167 – Capital gains reserve from gifts of non-qualifying securities – Advantage
+
+Enter the amount of advantage of the gifts of non-qualifying securities (other than excepted gifts) the partnership donated to a qualified donee in respect of which the capital gains were realized and a reserve is available.
+
+##### Box 289 – Portion of the capital gain subject to a 100% inclusion rate under subsection 100(1)
+
+Enter the partner’s share of the amount you entered on line 885 of the T5013 SCH 6.
+
+##### Box 168 – Income tax deducted
+
+**All partners** – Allocate the partner's share of **income tax withheld at source from amounts paid or credited to** the partnership in the fiscal period.
+
+Use a generic financial box on the slip.
+
+If the partnership operates a farming business, tax may have been withheld at source from patronage dividends. In this case, the partnership should have received a [T4A slip, *Statement of Pension, Retirement, Annuity, and Other Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4a.html), on which box 022 shows the amount of income tax deducted.
+
+If the partnership operates a fishing business, tax may have been withheld from fish or marine deliveries. In this case, if the fisher's designated employer issues a [T4 slip, *Statement of Remuneration Paid*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4.html), to the partnership, box 22 shows the amount of income tax deducted.
+
+Do not include "tax the partner may have paid by instalments" in this box.
+
+The partnership **cannot** withhold tax from a partner's share of income, a partner's drawings from the partnership, or salaries or wages paid to the partner as allocations of partnership income. Also, the partnership is **not** responsible for deducting and remitting income tax instalment payments on amounts allocated to the partners.
+
+However, on an individual basis, each partner may have to make instalment payments of income tax due on partnership income using [Form INNS3, Instalment Remittance Voucher](https://www.canada.ca/en/revenue-agency/services/forms-publications/request-payment-forms-remittance-vouchers.html).
+
+**Boxes 169 and 170**– Part IX.1 tax
+
+**For SIFT partnerships** – Once you have calculated the Part IX.1 tax according to the formula provided under section 197, the Part IX.1 tax payable and related information is entered in a generic financial box as follows:
+
+##### Box 169 – Part IX.1 tax
+
+Enter the amount of Part IX.1 tax payable for the tax year.
+
+##### Box 170 – Taxable non-portfolio earnings (TNPE)
+
+Enter the amount of TNPE for the tax year (amount A in the formula of subsection 197(2)).
+
+For more information about Part IX.1 tax, see [How to calculate Part IX.1 tax](#hw_prt_tx_clcltd).
+
+##### Box 171 – Foreign tax paid on non-business income (Multi-jurisdictional)
+
+**All partners** – Enter the partner's share of foreign taxes that the partnership paid on non-business income.
+
+Use a separate generic financial and jurisdictional box to report the foreign income tax that the partnership paid or that was withheld from non-business income for each foreign country.
+
+**Reference**[Income Tax Folio S5-F2-C1, *Foreign Tax Credit*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/folio-2-foreign-tax-credits-deductions/income-tax-folio-s5-f2-c1-foreign-tax-credit.html)
+
+##### Box 172 – Foreign tax paid on business income (Multi-jurisdictional)
+
+**All partners** – Enter the partner's share of foreign taxes that the partnership paid on business income.
+
+Use a separate generic financial and jurisdictional box to report the foreign income tax that the partnership paid or that was withheld on business income for each foreign country.
+
+**Reference**[Income Tax Folio S5-F2-C1, *Foreign Tax Credit*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/folio-2-foreign-tax-credits-deductions/income-tax-folio-s5-f2-c1-foreign-tax-credit.html)
+
+##### Boxes 173 to 181 – Resource-related deductions
+
+See the T5013 SCH 12 for amounts to be allocated and more information on resource-related deductions.
+
+Use a generic financial box to enter the amounts or other information requested by the related title of the following boxes:
+
+##### Boxes 173 to 176 – Resource expenses
+
+Do not include in boxes 173 and 174 any renounced resource expenses entered in boxes 190 and 191 of a T5013 slip.
+
+**General partners** – In the appropriate box, allocate the partner's **full** share of Canadian exploration expenses (CEE), Canadian renewable and conservation expenses (CRCE), Canadian development expenses (CDE), Canadian oil and gas property expenses (COGPE), and foreign exploration and development expenses (FEDE) that the partnership incurred.
+
+The partners will calculate the allowable deductions for the current fiscal period based on their own cumulative CEE, CRCE, CDE, COGPE, and FEDE pools.
+
+**Limited partners** – You have to restrict a limited partner's share of resource expenses to the partner's adjusted at-risk amount (ARA). The adjusted ARA is the ARA reduced by the limited partner's share of any investment tax credit and any farming losses. However, the entitlement to any assistance which results in a reduction in a limited partner's cumulative CEE, CDE, or COGPE pools does not reduce a limited partner's ARA.
+
+The limited partner's share of the resource expenses that are **greater** than the adjusted ARA reduces the limited partner's share of resource expenses in the following order:
+
+1. Canadian oil and gas property expenses (COGPE)
+
+2. Canadian development expenses (CDE)
+
+3. Canadian exploration expenses (CEE), and Canadian renewable and conservation expenses (CRCE)
+
+4. Foreign resource expenses (FRE)
+
+5. Foreign exploration and development expenses (FEDE)
+
+If there are excess resource expenses that you cannot allocate to the limited partner in the current fiscal period, you can add the excess to that class of expenses that the partnership incurs in the next fiscal period. Therefore, you can carry forward the limited partner's excess indefinitely, and allocate it when the limited partner can deduct it.
+
+Enter the limited partner's share in the relevant box(es):
+
+##### Box 173 – Canadian exploration expenses (CEE) other than Canadian renewable and conservation expenses (CRCE) – from line 150 of the T5013 SCH 12
+
+##### Box 206 – Canadian renewable and conservation expenses (CRCE) – from line 152 of the T5013 SCH 12
+
+##### Box 174 – Canadian development expenses (CDE) – from line 250 of the T5013 SCH 12
+
+##### Box 175 – Canadian oil and gas property expenses (COGPE) – from line 350 of the T5013 SCH 12
+
+##### Box 176 – Foreign resource expenses (FRE) (Multi-jurisdictional) – from line 455 of the T5013 SCH 12
+
+If you allocate an amount in box 176, fill out a generic financial and jurisdiction code box for each foreign country. The partners need this information to calculate the cumulative FRE pool separately for each country.
+
+##### Boxes 179 to 181 – Resource expenses assistance
+
+Do not include in boxes 179 to 181 any assistance entitlement from "renounced resource expense assistance" entered in boxes 192 and 193 of a T5013 slip.
+
+**General partners** – In the appropriate box, allocate the partner's full share of assistance for CEE, assistance for CDE, and assistance for COGPE that the partnership received. The partners will use these amounts when they calculate the allowable deductions for the current fiscal period based on their own cumulative CEE, CDE, and COGPE pools.
+
+**Limited partners** – You have to restrict a limited partner's share of resource expenses to the limited partner's adjusted at-risk amount (ARA).
+
+Enter the limited partner's share in the relevant box(es):
+
+##### Box 179 – Assistance for Canadian exploration expenses (CEE) – from line 160 of the T5013 SCH 12
+
+##### Box 180 – Assistance for Canadian development expenses (CDE) – from line 260 of the T5013 SCH 12
+
+##### Box 181 – Assistance for Canadian oil and gas property expenses (COGPE) – from line 360 of the T5013 SCH 12
+
+##### Boxes 182 to 185 – Charitable donations, gifts, and political donations
+
+See the [T5013 SCH 2](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch2.html) for amounts to be allocated and more information on charitable donations, gifts, and political donations. Use a generic financial box to enter the amounts requested by the related title of the following boxes.
+
+If you have made gifts of cultural property, you must have received Form T871, Cultural Property Income Tax Certificate. If you have made gifts of ecologically-sensitive land, you must have received a certificate issued by the federal minister of environment and climate change.
+
+You do not have to attach official receipts, certificates, or other supporting documents to this schedule. However, you must keep them in your records in case we ask to see them later.
+
+##### Box 182 – Eligible amount of charitable donations
+
+**All partners** – Allocate the partner's share of the eligible amount of the charitable donations you reported on line 210 of the T5013 SCH 2.
+
+##### Box 183 – Eligible amount of cultural and ecological gifts
+
+**All partners** – Allocate the partner's share of the eligible amount of all cultural and ecological gifts you reported on lines 410 and 510 of the T5013 SCH 2.
+
+Unlike other donations, the partner's claim for cultural and ecological gifts is not limited to the percentage specified for charitable donations. Partners can choose the part of their donations they want to claim in a tax year and can carry forward any unused part for up to five years after the tax year. For gifts of ecologically sensitive land made after February 10, 2014, partners can carry forward any unused part for up to 10 years.
+
+As the current T5013 slip has only one box for this reporting, partnerships should provide partners with the necessary breakdown. Partners will need to know these two amounts separately.
+
+**Reference**[Interpretation Bulletin IT-407, *Dispositions of Cultural Property to Designated Canadian Institutions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it407r4-consolid.html)
+
+##### Box 184 – Eligible amount of federal political contributions
+
+**All partners** – Allocate the partner's share of the eligible amount of monetary contributions to a registered political party, a registered association, or a candidate you reported on line 610 of the T5013 SCH 2.
+
+##### Box 185 – Eligible amount of provincial and territorial political contributions (Multi-jurisdictional)
+
+**All partners** – Allocate the partner's share of eligible contributions to a registered provincial or territorial political party, or to a registered candidate in a provincial or territorial election you reported on line 710 of the T5013 SCH 2.
+
+Some provinces and territories also allow contributions to a registered constituency association. Contact the provincial or territorial authorities for more information.
+
+##### Box 207 – Eligible amount of municipal political contributions (Multi-jurisdictional)
+
+**All partners** – Allocate the partner's share of eligible contributions to a registered municipal political party or to a registered candidate for election to a municipal political office in accordance with the partner's share of amounts reported on line 910 of the T5013 SCH 2.
+
+##### Box 209 – Part XII.2 Tax Credit
+
+**Canadian resident partners only** – The partnership may be a beneficiary of a trust that has paid Part XII.2 tax. If the partnership is not a **designated beneficiary** as defined in section 210, and has received trust income allocations on which a Part XII.2 tax credit may be claimed by partners who are eligible beneficiaries, enter the Canadian resident partner's share of the Part XII.2 refundable tax credit in box 209.
+
+##### Box 210 – Total carrying charges (Multi-jurisdictional)
+
+**General partners**– Allocate the partner's share of carrying charges that the partnership incurred for earning all investment income. This includes all amounts covered in paragraphs 20(1)(c) to (f).
+
+**Limited partners**– Any loss resulting from the carrying charges may be restricted by the at-risk rules due to the limited partner's ARA. In box 210, enter only the amount that is not restricted. Enter the residual amount in box 108. See [Limited partner's net income (loss)](#netloss).
+
+This is the total of boxes 211 to 216.
+
+If you entered an amount in box 210, use a generic financial box to enter the amounts requested by the related title of the following boxes for providing additional carrying charges information.
+
+The partner needs this amount to calculate adjusted taxable income for the purpose of calculating the alternative minimum tax on [Form T691, Alternative Minimum Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t691.html), and the additional tax for minimum tax purposes on the appropriate provincial and territorial tax and credit [Form 428](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/provincial-territorial-tax-credits-individuals.html).
+
+If carrying charges in boxes 211 to 216 include Canadian and foreign sources, fill out a generic financial and jurisdiction code box to identify each foreign country. The partner needs this information to calculate foreign tax credits, separately for each country on [Form T2209, Federal Foreign Tax Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2209.html).
+
+**References** Subsections 96(2.1) and 96(2.2)[Interpretation Bulletin IT-232, *Losses – Their Deductibility in the Loss Year or in Other Years*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it232r3.html)
+
+##### Box 211 – Carrying charges on interest and dividend income
+
+##### Box 212 – Carrying charges on rental income
+
+##### Box 213 – Carrying charges on film property
+
+##### Box 214 – Carrying charges on resource property and flow-through shares
+
+##### Box 215 – Carrying charges for acquiring an interest in a partnership of which you are a limited or non-active partner, or which owns a rental or leasing property or a film property
+
+##### Box 216 – Carrying charges (Multi-jurisdictional) – other
+
+##### Box 186 – Investment tax credit allocated from the partnership (Multi-jurisdictional)
+
+Fill out generic financial boxes for each type of property or expenditure eligible for the investment tax credits (ITC) to advise the partners of any ITC to which the partner is entitled.
+
+Enter:
+
+- **186** in the first part of the number box
+
+- the partner's share of the ITC in the amount box
+
+You cannot allocate to [specified members](#specified_member) the ITC earned on qualified scientific research and experimental development (SR&ED) expenditures. A limited partner is considered to be a specified member.
+
+The members of the partnership may have claimed ITC on materials that were transformed, or on equipment used for performing SR&ED in Canada. In some cases, you may have to recapture some or all of the ITC. For more information, see [Investment tax credit recapture](#recapture).
+
+**Specified member** – You can allocate the ITCs that the partnership earned according to each specified member's share of the ITCs at the end of the partnership's fiscal period. However, you cannot allocate the ITCs earned on qualified SR&ED expenditures to specified members (see the definition of [Specified member of a partnership](#specified_member)).
+
+**Limited partner** – Subsection 127(8.1) may limit the amount of ITC the partnership can allocate to a limited partner. Therefore, due to these rules, the amount of ITC the partnership can allocate to a limited partner may be less than the amount that the partnership can allocate to a general partner.
+
+The partnership can allocate to a limited partner the part of the ITC it can attribute to the limited partner (other than the ITC on SR&ED expenditures) but that amount cannot exceed the **lesser of**:
+
+- the limited partner's ARA in the partnership at the end of the partnership's fiscal period
+
+- the portion of the limited partner's ITC that would have arisen had the partnership only made an expenditure equal to the limited partner's expenditure base as calculated under subsection 127(8.2)
+
+Generally, under subsection 127(8.3), any ITC that cannot be allocated to a limited partner or a specified member in a fiscal period can be allocated to other partners who are not specified members. This includes any SR&ED ITC that cannot be allocated to a specified member due to the restriction in paragraph 127(8)(b). This also includes any ITC that could not be allocated to a limited partner due to the constraint in subsection 127(8.1).
+
+**Allocation of unallocated partnership ITCs –**Subsection 127(8.3) provides rules for allocating to certain partners a part of any partnership ITCs that remain after the allocations under subsections 127(8) and (8.1). In general, ITCs that could remain for allocation after the application of those subsections would be SR&ED ITCs (which cannot be allocated to a specified member of the partnership) and other ITCs (including any ITC related to an apprenticeship expenditure) that cannot be allocated to a limited partner because the allocation is restricted by the limited partner's expenditure base and ARA.
+
+Essentially, partnership ITCs that cannot be allocated to specified members of a partnership may be added to the ITCs allocated to members of the partnership who were not specified members of the partnership at any time in its fiscal period. This additional allocation under subsection 127(8.3) is to be based on what is reasonable in the circumstances (having regard to the investment in the partnership, including debt obligations of the partnership, of each such member of the partnership). Also, the partner has to be a member of the partnership throughout the fiscal period of the partnership.
+
+The amount available for such an allocation is determined under subsection 127(8.31). The amount available, if greater than zero, is the amount by which the partnership's total ITCs for its fiscal period is greater than the total of:
+
+- the partnership ITCs allocated to general partners who are not specified members
+
+- the amount of ITCs allocated to specified members of the partnership. This amount does not include SR&ED ITCs because such amounts cannot be allocated to specified members. In addition, this amount does not include other ITCs (such as apprenticeship expenditure ITCs) that cannot be allocated to limited partners because of the restriction in subsection 127(8.1)
+
+Under subsection 127(8.4), a partner can elect to renounce all or a portion of the additional ITCs allocated to that partner pursuant to subsection 127(8.3). Where the partner makes that election, those ITCs are extinguished.
+
+**References**[Form T932, *Election by a member of a partnership to renounce investment tax credits pursuant to subsection 127(8.4)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t932.html)[Form T2038(IND),](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2038-ind.html)*[Investment Tax Credit (Individuals)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2038-ind.html)*[Form T2 SCH 31, *Investment Tax Credit – Corporations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch31.html)[Information Circular IC78-4, *Investment Tax Credit Rates*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-4/investment-tax-credit-rates.html), and its [Special Release](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-4r3sr.html)
+
+##### Box 187 – Investment tax credit transferred under subsection 127(8.3)
+
+**Partners that are not specified members** – Complete generic financial boxes to advise the partners of any share of excess ITC that the partnership can allocate under subsection 127(8.3) to partners that are not specified members.
+
+##### Box 188 – Excess ITC recapture
+
+Enter the amount of excess ITC recapture that the partner has to include in Part I tax. For more information, see [Investment tax credit recapture](#recapture).
+
+##### Box 189 – ITC type code
+
+Enter the appropriate ITC type code for the type of property's expenditure on a generic text box in the "Other information" area on the slip.
+
+For all types of ITCs (other than SR&ED) allocated from a partnership to an individual, the individual will need to divide the credit amount in box 186 or 187 by the applicable rate to determine the expenditure or investment amount to enter on [Form T2038(IND)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2038-ind.html).
+
+The types of ITC that can be allocated are:
+
+- SR&ED, 15% rate (code 4B)
+
+- qualified property or **transitional rate** qualified resource property, 10% rate (code 12)
+
+- apprenticeship job creation tax credit, 10% rate (code 6)
+
+**Reference**[Form T2038(IND), *Investment Tax Credit (Individuals)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2038-ind.html)
+
+### Tax shelter information
+
+This section provides instructions for the tax shelter information, and the allocation of renounced Canadian exploration and development expenses boxes that were previously entered on the T5013A slip. This information now has to be entered on the revised T5013 slip.
+
+#### Renounced Canadian exploration and development expenses
+
+Provide the information described in this section if the partnership invested in flow-through shares of a principal-business corporation. If the corporation allocated renounced resource expenses, amended amounts previously renounced, amounts for assistance, or expenses qualifying for an ITC, it will issue [slip T101, *Statement of Resource Expenses*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t101.html). A partnership that is a partner in a partnership that has invested in flow-through shares of a corporation will now be issued a T5013 slip by the partnership.
+
+Use the information from the T101 and T5013 slips to fill out Part 1 of the T5013 SCH 52. The amounts on the total lines in Part 1 on the T5013 SCH 52 are the amounts you have to allocate to the partners.
+
+A **limited partner's** share of resource expenses is restricted to the partner's adjusted ARA. For information on calculating the ARA, see [Lines 410 to 430 – At-risk amount (ARA) (for limited partners only)](#line).
+
+Partners will calculate the allowable deductions for the current fiscal period based on their own cumulative CEE and CDE pools.
+
+##### Box 190 – Renounced Canadian exploration expenses; andBox 191 – Renounced Canadian development expenses
+
+Allocate the total amounts on lines 120 and 121 in Part 1 of the T5013 SCH 52 as follows:
+
+**General partners** – Allocate the partner's **full** share of renounced CEE and renounced CDE that the partnership allocated to its members.
+
+**Limited partnerships** – You have to restrict a limited partner's share of renounced resource expenses to the limited partner's **adjusted** ARA.
+
+##### Box 192 – Assistance for Canadian exploration expenses; andBox 193 – Assistance for Canadian development expenses
+
+Allocate the partner's **full** share of any assistance for CEE previously renounced, and CDE previously renounced, that the partnership allocated to its members from lines 124 and 125 in Part 1 of the T5013 SCH 52.
+
+##### Box 194 – Expenses qualifying for the mineral exploration tax credit (METC)
+
+**Fill out this box only if the partner**, including an end member, **is an individual other than a trust**. Those partners need these amounts to fill out [Form T1229, *Statement of Resource Expenses and Depletion Allowance*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1229.html).
+
+Allocate the partner's **full** share of all Canadian exploration expenses (surface exploration in the mining sector only) that qualify for METC that the partnership allocated to its members from line 128 in Part 1 of the T5013 SCH 52.
+
+##### Box 195 – Portion subject to an interest-free period – METC
+
+Allocate the partner's **full** share of the reduction available for the interest-free period that the partnership allocated to its members from line 129 in Part 1 of the T5013 SCH 52. This is the amount an individual is entitled to, due to an adjustment to an amount affected by the look-back rule.
+
+##### Box 196 – Portion subject to an interest-free period – CEE
+
+Allocate the partner's **full** share of the reduction available for the interest-free period that the partnership allocated to its members from line 130 in Part 1 of the T5013 SCH 52. This is the amount an individual is entitled to, due to an adjustment to an amount affected by the look-back rule.
+
+##### Boxes 197 to 200 – Expenses qualifying for provincial tax credits
+
+##### Box 197 – Expenses qualifying for a provincial tax credit – BC
+
+##### Box 198 – Expenses qualifying for a provincial tax credit – SK
+
+##### Box 199 – Expenses qualifying for a provincial tax credit – MB
+
+##### Box 200 – Expenses qualifying for a provincial tax credit – ON
+
+Allocate, in the approprriate box, the partner's **full** share of any Canadian exploration expenses (only mining expenses eligible for the federal mineral exploration tax credit) that qualify for a provincial tax credit and that the partnership allocated to its members from lines 141, 143, 144 and 145 in Part 1 of the T5013 SCH 52.
+
+Partners, including end members, who are individuals (excluding trusts) need these amounts to claim the provincial tax credits. Where the expenses qualify for these tax credits, some provinces require that the individual be a resident of the province at the end of the calendar year.
+
+Some provinces require the partnership to provide the partners with the appropriate provincial tax credit form to claim these credits. See the relevant legislation and regulations for the provinces.
+
+##### Box 239 – Expenses qualifying for the critical mineral exploration tax credit (CMETC)
+
+**Fill out this box only if the partner, including an end member, is an individual other than a trust**. Those partners need these amounts to fill out Form T1229, *Statement of Resource Expenses and Depletion Allowance*.
+
+Allocate the partner's **full** share of **all** Canadian exploration expenses (surface exploration in the critical mining sector only) that qualify for the CMETC that the partnership allocated to its members from line 122 in Part 1 of the T5013 SCH 52.
+
+Enter all Canadian exploration expenses, not the cost per unit.
+
+##### Box 240 – Portion subject to an interest-free period – (CMETC)
+
+Allocate the partner's **full** share of the reduction available for the interest‑free period that the partnership allocated to its members from line 123 in Part 1 of the T5013 SCH 52. This is the amount an individual is entitled to, due to an adjustment to an amount affected by the look‑back rule.
+
+##### Boxes 241 to 244 – Critical Mineral Exploration Tax Credit
+
+##### Box 241 – Critical Mineral Exploration Tax Credit – BC
+
+##### Box 242 – Critical Mineral Exploration Tax Credit – SK
+
+##### Box 243 – Critical Mineral Exploration Tax Credit – MB
+
+##### Box 244 – Critical Mineral Exploration Tax Credit – ON
+
+Allocate, in the appropriate box, the partner's **full** share of any Canadian exploration expenses (only mining expenses eligible for the federal critical mineral exploration tax credit) that qualify for a provincial tax credit and that the partnership allocated to its members from lines 151, 153, 154 and 155 in Part 1 of the T5013 SCH 52.
+
+Partners, including end members, who are individuals (excluding trusts) need these amounts to claim the provincial tax credits. Where the expenses qualify for these tax credits, some provinces require that the individual be a resident of the province at the end of the calendar year.
+
+Some provinces require the partnership to provide the partners with the appropriate provincial tax credit form to claim these credits. See the relevant legislation and regulations for the provinces.
+
+##### Box 245 – Current Year CCUS ITC
+
+Enter the partner’s share of the CCUS ITC from Part 2 of the [T5013 SCH 78](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch78.html).
+
+##### Box 246 – CCUS Labour requirements addition to tax
+
+Enter the partner’s share of the CCUS labour requirements addition on tax from Part 5 of the [T5013 SCH 78](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch78.html).
+
+### Excessive interest and financing expenses limitation (EIFEL) rules
+
+The EIFEL rules limit the interest and financing expenses (IFE) that certain corporations and trusts can deduct. The EIFEL rules apply indirectly in respect of partnerships, as interest and financing expenses and revenues of a partnership are attributed to members that are corporations or trusts, in proportion to their interests in the partnership.
+
+When corporations and trusts subject to EIFEL are members of a partnership, they may be impacted indirectly based on the proportionate share of the partnership’s income. Under the EIFEL rules, excessive IFE incurred by a partnership is subject to a deemed income inclusion in the hands of the corporation and trust members, rather than being treated as a denied deduction at the partnership level.
+
+A partnership that has IFE or interest and financing revenues (IFR) and has a corporation or a trust as a member that is not an excluded entity for purposes of the EIFEL rules must file a [T5013 SCH 130, *Partnership Interest and Financing Expenses and Interest and Financing Revenues*](#t5013sch130) for fiscal periods starting on or after October 1, 2023.
+
+#### Boxes 247 to 261 – EIFEL rules
+
+Boxes 247 to 261 are used to report amounts needed by members to calculate EIFEL under subsection 18.2(2). Boxes 247 to 256 must be completed if the partnership is required to file a [T5013 SCH 130](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch130.html).
+
+Boxes 258 to 261 must be completed if the partnership is required to file a [T5013 SCH 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch12.html) and has a corporation or a trust as a member or deemed member under subsection 18.2(12).
+
+#### Box 247 – Variable A of interest and financing expenses
+
+Enter the amount allocated to the partner in column 4 of Part 5 of the [T5013 SCH 130](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch130.html).
+
+#### Box 248 – Variable A of interest and financing revenues
+
+Enter the amount allocated to the partner in column 6 of Part 5 of the [T5013 SCH 130](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch130.html).
+
+#### Box 249 – Variable B of interest and financing expenses
+
+Enter the amount allocated to the partner in column 5 of Part 5 of the [T5013 SCH 130](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch130.html).
+
+#### Box 250 – Variable B of interest and financing revenues
+
+Enter the amount allocated to the partner in column 7 of the [T5013 SCH 130](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch130.html).
+
+#### Box 251 – Terminal Loss
+
+Allocate the partner’s share of the amount you entered in line 240 of the [T5013 SCH 8](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch8.html).
+
+#### Box 252 – Recaptured depreciation
+
+Allocate the partner’s share of the amount you entered in line 230 of the [T5013 SCH 8](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch8.html).
+
+#### Box 253 – Income derived from activities funded by a borrowing that results in exempt interest and financing expenses
+
+Enter the amount allocated to the partner in column 10 of Part 5 of the [T5013 SCH 130](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch130.html).
+
+#### Box 254 – Interest and financing expenses in CCA
+
+Enter the amount allocated to the partner in column 9 of Part 5 of the [T5013 SCH 130](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch130.html).
+
+#### Box 255 – Interest and financing expenses in terminal loss
+
+Enter the amount allocated to the partner in column 8 of Part 5 of the [T5013 SCH 130](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch130.html).
+
+#### Box 256 – Loss derived from activities funded by a borrowing that results in exempt interest and financing expenses
+
+Enter the amount allocated to the partner in column 11 of Part 5 of the [T5013 SCH 130](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch130.html).
+
+#### Box 258 – Interest and financing expenses in Canadian exploration expenses
+
+Allocate the partner’s share of the amount you entered in line 170 of the [T5013 SCH 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch12.html).
+
+#### Box 259 – Interest and financing expenses in Canadian development expenses
+
+Allocate the partner’s share of the amount you entered in line 270 of the [T5013 SCH 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch12.html).
+
+#### Box 260 – Interest and financing expenses in Canadian oil and gas property expenses
+
+Allocate the partner’s share of the amount you entered in line 370 of the [T5013 SCH 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch12.html).
+
+#### Box 261 – Interest and Financing Expenses in foreign resource expenses
+
+Allocate the partner’s share of the amount you entered in line 460 of the [T5013 SCH 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch12.html). If you allocate an amount in box 261, fill out a generic financial and jurisdiction code box for each foreign country. The partners need this information to calculate the interest and financing expenses (IFE) in the cumulative foreign resource expenses pool separately for each country.
+
+#### Box 265 – Current Year CT ITC
+
+Enter the partner’s share of the recapture of the clean technology (CT) ITC from Part 1 of the [T5013 SCH 75](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch75.html).
+
+#### Box 266 – CT Labour requirements addition to tax
+
+Enter the partner's share of the clean technology (CT) labour requirements addition to tax from Part 6 of the [T5013 SCH 75](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch75.html).
+
+#### Box 267 – CT ITC recapture
+
+Enter the partner’s share of the clean technology (CT) ITC recapture from Part 3 of the [T5013 SCH 75](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch75.html).
+
+#### Box 269 – Part XII.7 tax
+
+Enter the partner's share of the Part XII.7 tax from Part 6 of the [T5013 SCH 78](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch78.html).
+
+##### Box 292 – Current year CTM ITC
+
+Enter the partner’s share of the clean technology manufacturing (CTM) ITC from Part 1 of the [T5013 SCH 76](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch76.html).
+
+##### Box 293 – CTM ITC recapture
+
+Enter the partner’s share of the clean technology manufacturing (CTM) ITC recapture from Part 3 of the [T5013 SCH 76](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch76.html).
+
+##### Box 294 – Current year clean hydrogen ITC
+
+Enter the partner’s share of the clean hydrogen ITC from Part 1 of the [T5013 SCH 74](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch74.html).
+
+##### Box 295 – Clean hydrogen labour requirements addition to tax
+
+Enter the partner’s share of the clean hydrogen labour requirements addition to tax from Part 4 of the [T5013 SCH 74](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch74.html).
+
+##### Box 296 – Clean hydrogen ITC recovery
+
+Enter the partner’s share of the clean hydrogen ITC recovery from Part 8 of the [T5013 SCH 74](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch74.html).
+
+##### Box 297 – Clean hydrogen ITC recapture
+
+Enter the partner’s share of the clean hydrogen ITC recapture from Part 6 of the [T5013 SCH 74](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch74.html).
+
+##### Tax shelter information
+
+Fill out this section if the tax shelter sold units to the partner in the fiscal period. The partners use this information when they claim any tax shelter losses or deductions reported on the [T5013 slip](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html).
+
+##### Box 201 – Number of units acquired
+
+Enter the number of units in the tax shelter the investor **acquired in the fiscal period**. Do not include units previously reported in a prior filing. Enter the number of units in the generic text boxes in the "Other information" area on the slip.
+
+##### Box 202 – Cost per unit
+
+Enter the acquisition cost of each unit in the tax shelter the investor acquired in the fiscal period. Do not include units acquired in previous fiscal periods.
+
+##### Box 203 – Total cost of units
+
+Enter the total cost of the units (multiply the amount in box 201 by the amount in box 202).
+
+##### Box 204 – Other indirect reductions
+
+Enter the amount of any indirect reduction of the expenditure under subparagraph 143.2(6)(b)(iii).
+
+##### Provincial tax credits
+
+Partners may be able to claim provincial tax credits that relate to their share of certain amounts allocated from the partnership. If there are no specific boxes on the T5013 slip to report such amounts, partnerships should nonetheless provide partners with the necessary information to claim any applicable provincial tax credits.
+
+More information on the various provincial tax credits is in the individual and corporate income tax guides. You can also see the relevant legislation and regulations for the provinces.
+
+##### British Columbia clean buildings tax credit
+
+A temporary tax credit is available for qualifying retrofits that improve the energy efficiency of multi-unit residential buildings with four or more units and prescribed types of commercial buildings. The qualifying retrofits must be completed before April 1, 2027, and certified by the British Columbia Ministry of Finance.
+
+To qualify for the credit, expenditures must be made before April 1, 2026, and incurred under an agreement entered into after February 22, 2022. Not all expenditures qualify. For more information on qualifying expenditures, go to [Clean buildings tax credit](https://www2.gov.bc.ca/gov/content/taxes/income-taxes/corporate/credits/clean-buildings#qualifying-expenditures).
+
+The retrofit certification deadline has been extended to September 30, 2028.
+
+The amounts shown on the Ministry of Finance certificate are estimates only. The partnership must determine if it should adjust the tax credit amount. The partnership must also reduce the total of the qualifying expenditures by the amount of any assistance received or receivable for the cost of the retrofit. The available credit is 5% of the remaining amount. Claim qualifying expenditures only.
+
+The Ministry of Finance issues a certificate to the partnership for each retrofit, not to each partner. The partnership must calculate the credit and provide their partners a letter with the allocated amount of the credit. The partners can claim the allocated amount of the credit on their tax return for the tax year following the tax year in which the retrofit was completed.
+
+The cost of retrofits is **not** deducted in the year it is incurred since it is claimed over time through **capital cost allowance**.
+
+The CRA is responsible for administering this tax credit and will make the final determination about the actual tax credit claim amount. The amount claimed may be reviewed and adjusted.
+
+For more information, go to [Clean buildings tax credit](https://www2.gov.bc.ca/gov/content/taxes/income-taxes/corporate/credits/clean-buildings).
+
+**Reference**Part 16, *British Columbia Income Tax Act*
+
+### Filling out Form T5013 SUM, Summary of Partnership Income
+
+#### Part 1 – Identification
+
+Enter the information for your situation.
+
+#### Part 2 – Totals from the T5013 slips
+
+##### Box 009 – Total number of T5013 information slips attached
+
+Enter the number of T5013 slips issued to partners or investors for the fiscal period.
+
+#### Reporting amounts and information from the T5013 slips
+
+Use the section under box 009 to report the **total** of amounts you reported on all the related T5013 slips you filed with this summary. This section reflects the same categories of income and losses you reported on the T5013 slips.
+
+**Fixed boxes**–The fixed boxes on this form are the same as the fixed boxes on the T5013 slips. In each fixed box, report the totals of amounts allocated to the partners on the T5013 slips.
+
+##### Box 010 – Total limited partner's business income (loss)
+
+Enter the total from box 010 of all T5013 slips.
+
+##### Box 020 – Total business income (loss)
+
+Enter the total from box 020 of all T5013 slips.
+
+##### Box 030 – Total capital gains (losses)
+
+Enter the total from box 030 of all T5013 slips.
+
+##### Box 040 – Capital cost allowance
+
+Enter the total from box 040 of all T5013 slips.
+
+**Generic financial boxes** – In the six generic boxes in this area, report the totals of amounts allocated to the partners on the T5013 slips.
+
+##### Box 110 – Canadian and foreign net rental income (loss)
+
+Enter the total from box 110 of all T5013 slips.
+
+##### Box 120 – Professional income (loss)
+
+Enter the total from box 120 of all T5013 slips.
+
+##### Box 190 – Renounced Canadian exploration expenses
+
+Enter the total from box 190 of all T5013 slips.
+
+##### Box 191 – Renounced Canadian development expenses
+
+Enter the total from box 191 of all T5013 slips.
+
+##### Box 194 – Expenses qualifying for an ITC
+
+Enter the sum of boxes 194 and 239 of all the T5013 slips.
+
+##### Box 210 – Total carrying charges
+
+Enter the total from box 210 of all the T5013 slips.
+
+For more information, see these [examples](#xmpls_cfnr).
+
+#### Part 3 – Contact information
+
+The contact person must be familiar with the records, books of account, and the partnership's financial operations.
+
+We will contact this individual directly if we need more information when processing or reviewing the T5013 summary.
+
+#### Part 4 – Certification
+
+To certify that the information provided on the return, summary, and slips is correct and complete, an authorized person must date, sign and provide their position or office.
+
+Enter the name of the preparer in the box just below the certification area, and the date it was prepared.
+
+For fiscal periods ending in 2013 and later years, nominees or agents only have to complete [Form T5013 SUM, *Summary of Partnership Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sum.html), and the [T5013, *Statement of Partnership Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html), slips for each partnership of which they held an interest for another person. They do not have to file the T5013 FIN, Partnership Financial Return, and the T5013 SCH 50, Partner's Ownership and Account Activity.
+
+## Chapter 10 – Transactions with non-residents of Canada
+
+### Returns required
+
+In addition to completing the partnership information return, if your partnership has transactions with non-residents, the partnership or its partners may also have to fill out the following information returns:
+
+- [NR4SUM, *Summary of Amounts Paid or Credited to Non-Residents of Canada*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr4sum.html)
+
+- [NR4, *Statement of Amounts Paid or Credited to Non-Residents of Canada*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr4.html)
+
+- [T4A-NRSUM, *Fees, Commissions, or Other Amounts Paid to Non-Residents for Services Rendered in Canada*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4a-nr-sum.html)
+
+- [T4A-NR, *Statement of Fees, Commissions, or Other Amounts Paid to Non-Residents for Services Rendered in Canada*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4a-nr.html)
+
+- [T106, *Information Return of Non-arm's Length Transactions with Non-residents*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t106.html)
+
+- [T1134, *Information Return Relating to Controlled and Non-Controlled Foreign Affiliates*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1134.html)
+
+- [T1141, *Information Return in Respect of Contributions to Non-Resident Trusts, Arrangements or Entities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1141.html)
+
+- [T1142, *Information Return in Respect of Distributions From and Indebtedness to a Non-Resident Trust*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1142.html)
+
+**Reference** Section 233.1
+
+#### Payments to non-residents of Canada
+
+As well as filling out the T5013 slips, the partnership may also have to fill out [NR4 slips](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr4.html) and [Form NR4SUM](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr4sum.html).
+
+If a non‑resident provides services in Canada to a partnership, the partnership has to fill out T4A‑NR slips and Form T4A‑NRSUM.
+
+Effective on royal assent, the CRA will be able to waive the withholding requirement, over a specified period, for payments to a non-resident service provider if either of the following conditions are met:
+
+- the non-resident is not subject to Canadian income tax for the payments because of the tax treaty between their country of residence and Canada
+
+- the income from providing the services is exempt income from international shipping or from operating an aircraft in international traffic.
+
+The minister of National Revenue has the legislative authority to waive the withholding requirement on multiple transactions with a single waiver, and to establish any conditions and information requirements necessary to reduce compliance risk.
+
+The minister may also revoke the waiver if the minister is no longer satisfied that the conditions are being met.
+
+If you need more information about withholding requirements, making payments, and filing the NR4 or T4A-NR information returns, see [Guide T4061, *NR4 – Non-Resident Tax Withholding, Remitting and Reporting*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4061.html).
+
+#### Withholding requirements
+
+A partnership that pays or credits, or which we consider to have paid or credited, certain amounts to non-residents may have to withhold tax on the income under Part XIII. These include:
+
+- management fees
+
+- interest
+
+- estate or trust income
+
+- rents, royalties, etc.
+
+- timber royalties
+
+- dividends, including patronage dividends
+
+- motion picture rights and acting services
+
+- taxable net income stabilization account (NISA No. 2), and AgriStability and AgriInvest farm income support payments
+
+Generally, the withholding tax rate is 25% unless reduced under a tax convention or agreement between Canada and a foreign country.
+
+Remit your non-resident tax deductions so that we receive them no later than 15 days after the end of the month in which you withheld the tax. We consider the payment to be received on the date the payment is received by us or your Canadian financial institution.
+
+To make your payment directly to us, use the remittance voucher from [Form NR76, *Non-Resident Tax – Statement of Account*](https://www.canada.ca/en/revenue-agency/services/forms-publications/request-payment-forms-remittance-vouchers.html). Send it and your cheque or money order, payable to the Receiver General for Canada, to:
+
+Canada Revenue Agency P.O. Box 3800, Stn A Sudbury ON P3A 0C3 CANADA
+
+You can also make your payment by taking your completed remittance voucher to your financial institution in Canada.
+
+**References**Subsections 212(1), (2), (5), (5.1), and 215(1)
+
+#### Penalties for failing to withhold or to remit non-resident tax
+
+A partnership that pays or credits, or which we consider to have paid or credited certain amounts to or for a non-resident of Canada, but does not withhold (or remit) non-resident tax, is liable for the amount of tax that the partnership should have withheld or remitted, plus a penalty of 10% of the tax. If we have penalized the partnership previously, a penalty of 20% of the tax may apply for any more failures in the same calendar year.
+
+We charge interest, compounded daily at a set rate, on the total amount of tax, penalties, and interest levied.
+
+Both penalties and interest are payable to the Receiver General for Canada.
+
+**References**Subsections 215(6), 227(8) and (9)
+
+#### Non-arm's length transactions with non-residents
+
+You have to file [Form T106, *Information Return of Non-arm's Length Transactions with Non-residents*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t106.html), if, at any time in your partnership's fiscal period, your partnership did the following:
+
+- carried on a business in Canada, or included a member who was a Canadian resident
+
+- participated in a reportable transaction with a non-arm's length non-resident person or a partnership of which that non-resident person is a member
+
+- had total reportable transactions in the fiscal period of more than $1,000,000 for all thenon-residents
+
+[Form T106](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t106.html) consists of the T106 Summary and the T106 slips. You must file a separate T106 slip for each non-resident.
+
+Your partnership has to file [Form T106](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t106.html) no later than the day on which you have to file your partnership information return. If you do not file your Form T106 by the due date, the partnership will be subject to a penalty. For more information, see [Form T106](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t106.html).
+
+**References** Sections 233.1 and 251
+
+#### Foreign affiliates
+
+If your partnership is described in subparagraph 233.4(1)(c)(i), and has a foreign affiliate as described in subparagraph 233.4(1)(c)(ii), your partnership has to file [Form T1134,*Information Return Relating to Controlled and Non-Controlled Foreign Affiliates*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1134.html). For fiscal periods that begin after 2020, the partnership has to file Form T1134 no later than 10 months after the end of its fiscal period.
+
+For more information, see [Form T1134, *Information Return Relating to Controlled and Non-Controlled Foreign Affiliates*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1134.html).
+
+**Reference** Section 233.4
+
+#### Transfers or loans to a non-resident trust
+
+If, in any year, your partnership made a transfer or loan to certain non-resident trusts of which members of the partnership are contributors, connected contributors or resident contributors, the property is considered to have been transferred or lent jointly by the partnership and by each member of the partnership. Each member of your partnership may have to file [Form T1141, *Information Return in Respect of Contributions to Non-Resident Trusts, Arrangements or Entities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1141.html), but members can elect to file jointly.
+
+In general, the members of the partnership have to file Form T1141 no later than the day on which they have to file their tax returns for the tax year that includes the end of the trust's year. Where a joint election is made, Form T1141 must be filed on or before the latest day on which Form T1141 would have been due by any of the partners if not for the joint filing.
+
+**References** Subsections 94(1) and (2), 233.2(2), (4), and (5)
+
+#### Distributions from and indebtedness to a non-resident trust
+
+If your partnership is beneficially interested in a non-resident trust (other than an excluded trust or an estate that arose on death) and it received a distribution from or was indebted to the non-resident trust in the year, your partnership may have to file [Form T1142, *Information Return in Respect of Distributions from and Indebtedness to a Non-Resident Trust*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1142.html).
+
+Your partnership has to file Form T1142 no later than the day on which you have to file your partnership information return.
+
+**Reference** Subsection 233.6(1)
+
+#### Penalties for failing to file an information return
+
+##### Information returns reporting foreign affiliates, non-arm's length transactions with non-residents, and transfers or loans to a non-resident trust
+
+If the information returns reporting foreign affiliates and non-arm's length transactions with non-residents are not filed when required, the partnership will be subject to a penalty.
+
+If the information return reporting transfers or loans to a non-resident trust is not filed when required, the partner will be subject to a penalty.
+
+The penalty is $25 per day for up to 100 days (minimum $100 and maximum $2,500).
+
+Where the failure to file is done knowingly or under circumstances amounting to gross negligence, the penalty is $500 a month, to a maximum of $12,000 for each failure to file, less any penalties already levied.
+
+If we have served a demand to file the information return, the penalty is $1,000 a month, to a maximum of $24,000 for each failure to file, less any penalties already levied.
+
+We can assess an additional penalty if, after 24 months, the information returns reporting foreign affiliates and transfers or loans to a non-resident trust still have not been filed. We can also assess an additional penalty if you knowingly, or under circumstances amounting to gross negligence, make false statements or omissions in an information return.
+
+##### Information return reporting distributions from and indebtedness to a non-resident trust
+
+If the information return reporting distributions from and indebtedness to a non-resident trust is not filed when required, the partnership is subject to a penalty. The penalty is the greater of $100 or $25 times the number of days late, up to a maximum of 100 days. However, if a demand to file the information return was issued, the penalty is $1,000 a month, to a maximum of $24,000 for each failure, less any penalties already levied. An additional penalty may apply for making false statements or omissions.
+
+**References**Subsections 162(7), (10), (10.1), and 163(2.4)
+
+### Disposing of taxable Canadian property by non-residents
+
+Generally, when non-residents dispose of taxable Canadian property, they have to notify us of the proposed or actual disposition by filling out [Form T2062, *Request by a Non-Resident of Canada for a Certificate of Compliance Related to the Disposition of Taxable Canadian Property*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2062.html).
+
+On a proposed disposition, the seller may either prepay or provide security for the tax that may be payable. The tax is 25% of the estimated proceeds of disposition **minus** the adjusted cost base of the property. When we receive the notice and the tax or security, we will issue a **clearance certificate** for the non-resident and the proposed purchaser fixing the amount of the estimated proceeds of disposition.
+
+If the non-resident did not notify us of the proposed disposition, or if the information about the proposed disposition changed, the seller has 10 days after the disposition to advise us. When we receive the notice of the actual disposition and the tax or security, we will issue a clearance certificate for the non-resident and the purchaser.
+
+If the seller does not prepay or provide security for the tax payable, the buyer may have to pay any tax owing by the seller. Generally, this tax is 25% of the purchaser's cost, or if we issued a certificate for a proposed disposition, the tax is 25% of the cost **minus** the proceeds of disposition (certificate limit) fixed by that certificate. The buyer has to send this amount to us no later than 30 days after the end of the month in which the property was acquired. The buyer is entitled to recover the tax paid on behalf of the seller and can withhold amounts from any later payments to the seller.
+
+The buyer is not liable for the seller's tax if we issued a certificate to the non-resident seller and the buyer for the actual disposition.
+
+In addition to [Form T2062](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2062.html), you may have to file one or more of the following:
+
+- **for dispositions of Canadian resource property**, fill out [Form T2062A, *Request by a Non-Resident of Canada for a Certificate of Compliance Related to the Disposition of Canadian Resource or Timber Resource Property, Canadian Real Property (Other Than Capital Property), or Depreciable Taxable Canadian Property*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2062a.html)*,* and the related [T2062A SCH 1, *Disposition of Canadian Resource Property by Non-Residents*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2062asch1.html)
+
+- **for dispositions of Canadian real property (other than capital property),**Canadian timber resource property, and depreciable taxable Canadian property, fill out [Form T2062A](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2062a.html)
+
+- **for dispositions of a life insurance policy in Canada**, fill out [Form T2062B, *Notice of Disposition of a Life Insurance Policy in Canada by a Non-Resident of Canada*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2062b.html), and the related [T2062B SCH 1, *Certification and Remittance Notice*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2062bsch1.html)
+
+**References** Subsections 116(1) to (5)[Information Circular IC72-17, *Procedures Concerning the Disposition of Taxable Canadian Property by Non-Residentsof Canada – Section 116*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic72-17.html)
+
+#### Disposing of taxable Canadian property by a partnership with non-resident partners
+
+For a disposition by a partnership with non-resident partners, we will accept one [Form T2062](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2062.html) filed for all non-resident partners.
+
+With the notice, we need a list of **all** the non-resident partners with each non-resident partner's:
+
+- complete Canadian and foreign address
+
+- complete Canadian social insurance number, corporation business number, trust account number, partnership business number, or non-resident account number
+
+- percentage of the taxable Canadian property that each non-resident partner owns
+
+- amount of the prepayment or security allocated to each of the non-resident partners
+
+We will then issue one certificate of compliance, Form T2064(C), Certificate – Proposed Disposition of Property by a Non‑Resident of Canada, or Form T2068(C), Certificate – The Disposition of Property by a Non‑Resident of Canada, and attach a list of the above information.
+
+The partnership is responsible for giving the relevant information to each non-resident partner. Each partner's actual tax liability will be calculated when we assess each partner's return for the year.
+
+**References**[Information Circular IC76-12, Ap*plicable Rate of Part XIII tax on Amounts Paid or Credited to Persons in Countries with which Canada has a Tax Convention*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic76-12.html)[Interpretation Bulletin IT-81, Partnerships – *Income of Non-Resident Partners*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it81r.html)[Interpretation Bulletin IT-155, *Exemption from Non-Resident Tax on Interest Payable on Certain Bonds, Debentures, Notes, Hypothecs, or Similar Obligations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it155r3.html), and its [Special Release](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it155r3sr/archived-corporations-exemption-non-resident-tax-on-interest-payable-on-certain-bonds-debentures-notes-hypothecs-similar-obligations.html)[Interpretation Bulletin IT-361, *Exemption from Part XIII Tax on Interest Payments to Non-Residents*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it361r3.html)[Income Tax Folio S5-F1-C1, *Determining an Individual's Residence Status*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/folio-1-residency/income-tax-folio-s5-f1-c1-determining-individual-s-residence-status.html)
+
+## Appendix A – Canadian province or territory, and U.S. state, territory, or possession codes
+
+Use the following abbreviations when you have to enter Canadian province or territory, or U.S. state, territory or possession codes.
+
+**Canada**
+
+| Province | Code |
+
+| --- | --- |
+
+| Alberta | AB |
+
+| British Columbia | BC |
+
+| Manitoba | MB |
+
+| New Brunswick | NB |
+
+| Newfoundland and Labrador | NL |
+
+| Northwest Territories | NT |
+
+| Nova Scotia | NS |
+
+| Nunavut | NU |
+
+| Ontario | ON |
+
+| Prince Edward Island | PE |
+
+| Québec | QC |
+
+| Saskatchewan | SK |
+
+| Yukon | YT |
+
+**United States**
+
+| State | Code |
+
+| --- | --- |
+
+| Alabama | AL |
+
+| Alaska | AK |
+
+| American Samoa | AS |
+
+| Arizona | AZ |
+
+| Arkansas | AR |
+
+| Armed Forces Americas | AA |
+
+| Armed Forces Africa | AE |
+
+| Armed Forces Canada | AE |
+
+| Armed Forces Europe | AE |
+
+| Armed Forces Middle East | AE |
+
+| Armed Forces Pacific | AP |
+
+| California | CA |
+
+| Colorado | CO |
+
+| Connecticut | CT |
+
+| Delaware | DE |
+
+| District of Columbia | DC |
+
+| Florida | FL |
+
+| Georgia | GA |
+
+| Guam | GU |
+
+| Hawaii | HI |
+
+| Idaho | ID |
+
+| Illinois | IL |
+
+| Indiana | IN |
+
+| Iowa | IA |
+
+| Kansas | KS |
+
+| Kentucky | KY |
+
+| Louisiana | LA |
+
+| Maine | ME |
+
+| Marshall Islands | MH |
+
+| Maryland | MD |
+
+| Massachusetts | MA |
+
+| Michigan | MI |
+
+| Micronesia (Federation states of) | FM |
+
+| Minnesota | MN |
+
+| Minor Outlying Islands | UM |
+
+| Mississippi | MS |
+
+| Missouri | MO |
+
+| Montana | MT |
+
+| Nebraska | NE |
+
+| Nevada | NV |
+
+| New Hampshire | NH |
+
+| New Jersey | NJ |
+
+| New Mexico | NM |
+
+| New York | NY |
+
+| North Carolina | NC |
+
+| North Dakota | ND |
+
+| Northern Mariana Islands | MP |
+
+| Ohio | OH |
+
+| Oklahoma | OK |
+
+| Oregon | OR |
+
+| Palau | PW |
+
+| Pennsylvania | PA |
+
+| Puerto Rico | PR |
+
+| Rhode Island | RI |
+
+| South Carolina | SC |
+
+| South Dakota | SD |
+
+| Tennessee | TN |
+
+| Texas | TX |
+
+| Utah | UT |
+
+| Vermont | VT |
+
+| Virgin Islands | VI |
+
+| Virginia | VA |
+
+| Washington | WA |
+
+| West Virginia | WV |
+
+| Wisconsin | WI |
+
+| Wyoming | WY |
+
+## Appendix B – Country codes
+
+Use the following abbreviations when you have to enter a country code.
+
+| Country | Code |
+
+| --- | --- |
+
+| Afghanistan | AFG |
+
+| Åland Islands | ALA |
+
+| Albania | ALB |
+
+| Algeria | DZA |
+
+| American Samoa | ASM |
+
+| Andorra | AND |
+
+| Angola | AGO |
+
+| Anguilla | AIA |
+
+| Antarctica | ATA |
+
+| Antigua and Barbuda | ATG |
+
+| Argentina | ARG |
+
+| Armenia | ARM |
+
+| Aruba | ABW |
+
+| Australia | AUS |
+
+| Austria | AUT |
+
+| Azerbaijan | AZE |
+
+| Bahamas | BHS |
+
+| Bahrain | BHR |
+
+| Bangladesh | BGD |
+
+| Barbados | BRB |
+
+| Belarus | BLR |
+
+| Belgium | BEL |
+
+| Belize | BLZ |
+
+| Benin | BEN |
+
+| Bermuda | BMU |
+
+| Bhutan | BTN |
+
+| Bolivia, Plurinational State of | BOL |
+
+| Bonaire, Sint Eustatius and Saba | BES |
+
+| Bosnia and Herzegovina | BIH |
+
+| Botswana | BWA |
+
+| Bouvet Island | BVT |
+
+| Brazil | BRA |
+
+| British Indian Ocean Territory | IOT |
+
+| Brunei Darussalam | BRN |
+
+| Bulgaria | BGR |
+
+| Burkina Faso (Upper Volta) | BFA |
+
+| Burundi | BDI |
+
+| Cabo Verde | CVE |
+
+| Cambodia (Kampuchea) | KHM |
+
+| Cameroon | CMR |
+
+| Canada | CAN |
+
+| Cayman Islands | CYM |
+
+| Central African Republic | CAF |
+
+| Chad | TCD |
+
+| Chile | CHL |
+
+| China (Mainland) | CHN |
+
+| Christmas Island (Australia) | CXR |
+
+| Cocos (Keeling) Islands | CCK |
+
+| Columbia | COL |
+
+| Comoros | COM |
+
+| Congo | COG |
+
+| Congo, Democratic Republic of (formerly Zaire) | COD |
+
+| Cook Islands | COK |
+
+| Costa Rica | CRI |
+
+| Côte d'Ivoire (Ivory Coast) | CIV |
+
+| Croatia | HRV |
+
+| Cuba | CUB |
+
+| Curaçao | CUW |
+
+| Cyprus | CYP |
+
+| Czech Republic | CZE |
+
+| Denmark | DNK |
+
+| Djibouti | DJI |
+
+| Dominica | DMA |
+
+| Dominican Republic | DOM |
+
+| Ecuador | ECU |
+
+| Egypt | EGY |
+
+| El Salvador | SLV |
+
+| Equatorial Guinea | GNQ |
+
+| Eritrea | ERI |
+
+| Estonia | EST |
+
+| Eswatini | SWZ |
+
+| Ethiopia | ETH |
+
+| Falkland Islands (Malvinas) | FLK |
+
+| Faroe Islands | FRO |
+
+| Fiji | FJI |
+
+| Finland | FIN |
+
+| France | FRA |
+
+| French Guiana | GUF |
+
+| French Polynesia | PYF |
+
+| French Southern Territories | ATF |
+
+| Gabon | GAB |
+
+| Gambia | GMB |
+
+| Georgia | GEO |
+
+| Germany | DEU |
+
+| Ghana | GHA |
+
+| Gibraltar | GIB |
+
+| Greece | GRC |
+
+| Greenland | GRL |
+
+| Grenada | GRD |
+
+| Guadeloupe | GLP |
+
+| Guam | GUM |
+
+| Guatemala | GTM |
+
+| Guernsey | GGY |
+
+| Guinea | GIN |
+
+| Guinea Bissau | GNB |
+
+| Guyana | GUY |
+
+| Haiti | HTI |
+
+| Heard Island and McDonald Islands | HMD |
+
+| Holy See (Vatican City State) | VAT |
+
+| Honduras | HND |
+
+| Hong Kong | HKG |
+
+| Hungary | HUN |
+
+| Iceland | ISL |
+
+| India | IND |
+
+| Indonesia | IDN |
+
+| Iran, Islamic Republic of | IRN |
+
+| Iraq | IRQ |
+
+| Ireland | IRL |
+
+| Isle of Man | IMN |
+
+| Israel | ISR |
+
+| Italy | ITA |
+
+| Jamaica | JAM |
+
+| Japan | JPN |
+
+| Jersey | JEY |
+
+| Jordan | JOR |
+
+| Kazakhstan | KAZ |
+
+| Kenya | KEN |
+
+| Kiribati | KIR |
+
+| Korea, Democratic People's Replublic of (North) | PRK |
+
+| Korea, Republic of (South) | KOR |
+
+| Kuwait | KWT |
+
+| Kyrgyzstan | KGZ |
+
+| Lao People's Democratic Republic | LAO |
+
+| Latvia | LVA |
+
+| Lebanon | LBN |
+
+| Lesotho | LSO |
+
+| Liberia | LBR |
+
+| Libya | LBY |
+
+| Liechtenstein | LIE |
+
+| Lithuania | LTU |
+
+| Luxembourg | LUX |
+
+| Macao | MAC |
+
+| Macedonia, the Former Yugoslav Republic of | MKD |
+
+| Madagascar | MDG |
+
+| Malawi | MWI |
+
+| Malaysia | MYS |
+
+| Maldives | MDV |
+
+| Mali | MLI |
+
+| Malta | MLT |
+
+| Marshall Islands | MHL |
+
+| Martinique | MTQ |
+
+| Mauritania | MRT |
+
+| Mauritius | MUS |
+
+| Mayotte | MYT |
+
+| Mexico | MEX |
+
+| Micronesia, Federated States of | FSM |
+
+| Moldova, Republic of | MDA |
+
+| Monaco | MCO |
+
+| Mongolia | MNG |
+
+| Montenegro | MNE |
+
+| Montserrat | MSR |
+
+| Morocco | MAR |
+
+| Mozambique | MOZ |
+
+| Myanmar (Burma) | MMR |
+
+| Namibia | NAM |
+
+| Nauru | NRU |
+
+| Nepal | NPL |
+
+| Netherlands | NLD |
+
+| New Caledonia | NCL |
+
+| New Zealand | NZL |
+
+| Nicaragua | NIC |
+
+| Niger | NER |
+
+| Nigeria | NGA |
+
+| Niue | NIU |
+
+| Norfolk Island | NFK |
+
+| Northern Ireland | GBR |
+
+| Northern Mariana Islands | MNP |
+
+| Norway | NOR |
+
+| Oman | OMN |
+
+| Pakistan | PAK |
+
+| Palau | PLW |
+
+| Panama | PAN |
+
+| Papua New Guinea | PNG |
+
+| Paraguay | PRY |
+
+| Peru | PER |
+
+| Philippines | PHL |
+
+| Pitcairn | PCN |
+
+| Poland | POL |
+
+| Portugal | PRT |
+
+| Puerto Rico | PRI |
+
+| Qatar | QAT |
+
+| Réunion | REU |
+
+| Romania | ROU |
+
+| Russian Federation | RUS |
+
+| Rwanda | RWA |
+
+| Saint Barthélemy | BLM |
+
+| Saint Helena, Ascension and Tristan da Cunha | SHN |
+
+| Saint Kitts and Nevis | KNA |
+
+| Saint Lucia | LCA |
+
+| Saint Martin (French part) | MAF |
+
+| Saint Pierre and Miquelon | SPM |
+
+| Saint Vincent and the Grenadines | VCT |
+
+| Samoa | WSM |
+
+| San Marino | SMR |
+
+| Sao Tome and Principe | STP |
+
+| Saudi Arabia | SAU |
+
+| Senegal | SEN |
+
+| Serbia | SRB |
+
+| Seychelles | SYC |
+
+| Sierra Leone | SLE |
+
+| Singapore | SGP |
+
+| Sint Maarten (Dutch part) | SXM |
+
+| Slovakia (Slovak Republic) | SVK |
+
+| Slovenia | SVN |
+
+| Solomon Islands | SLB |
+
+| Somalia | SOM |
+
+| South Africa | ZAF |
+
+| South Georgia and the South Sandwich Islands | SGS |
+
+| South Sudan | SSD |
+
+| Spain | ESP |
+
+| Sri Lanka | LKA |
+
+| Sudan | SDN |
+
+| Surinam | SUR |
+
+| Svalbard and Jan Mayen | SJM |
+
+| Sweden | SWE |
+
+| Switzerland | CHE |
+
+| Syrian Arab Republic | SYR |
+
+| Taiwan | TWN |
+
+| Tajikistan | TJK |
+
+| Tanzania United Republic of | TZA |
+
+| Thailand | THA |
+
+| Timor Leste | TLS |
+
+| Togo | TGO |
+
+| Tokelau | TKL |
+
+| Tonga | TON |
+
+| Trinidad and Tobago | TTO |
+
+| Tunisia | TUN |
+
+| Turkey | TUR |
+
+| Turkmenistan | TKM |
+
+| Turks and Caicos Islands | TCA |
+
+| Tuvalu | TUV |
+
+| Uganda | UGA |
+
+| Ukraine | UKR |
+
+| United Arab Emirates | ARE |
+
+| United Kingdom (including Northern Ireland) | GBR |
+
+| United States | USA |
+
+| United States Minor Outlying Islands | UMI |
+
+| Uruguay | URY |
+
+| Uzbekistan | UZB |
+
+| Vanuatu (New Hebrides) | VUT |
+
+| Venezuela, Bolivarian Republic of | VEN |
+
+| Viet Nam | VNM |
+
+| Virgin Islands, British | VGB |
+
+| Virgin Islands, U.S. | VIR |
+
+| Wallis and Futuna | WLF |
+
+| West Bank and Gaza Strip | PSE |
+
+| Western Sahara | ESH |
+
+| Yemen | YEM |
+
+| Zambia | ZMB |
+
+| Zimbabwe | ZWE |
+
+| All other countries | OMC |
+
+## Appendix C – References, initialisms and definitions
+
+The following references, acronyms and definitions are provided for your information.
+
+### References
+
+**Return** – Unless otherwise indicated, refers to the Partnership Information Return.
+
+**T1 return** – Refers to the Income Tax and Benefit Return.
+
+**Partnership** – Refers only to partnerships, including tax shelters that are partnerships.
+
+**Partner, member and member of a partnership –** When we refer to a member of a partnership, we may use the words partner, member, or member of a partnership. These terms have the same meaning.
+
+***Income Tax Act*** – We refer to the *Income Tax Act* as the Act.
+
+**Income Tax Regulations** – We refer to the Income Tax Regulations as the Regulations.
+
+**Interest in a partnership, partnership interest, and interest –**When we refer to an interest in a partnership, we may use the words interest in a partnership, partnership interest, or interest. These terms have the same meaning.
+
+**Tax year and fiscal period** – Under paragraph 96(1)(b), we consider the partnership's fiscal period to be its tax year. We use the terms tax year and fiscal period to reflect specific situations as follows:
+
+- **fiscal period** for situations that relate to choosing the accounting period, calculating the partnership's income, and reporting the partner's capital account
+
+- **tax year** for situations that relate to calculating the partnership's taxable income, for flowing amounts out of the partnership to the partners, and when the term tax year is used in the Act
+
+**Multiple jurisdictions**(Multi-jurisdictional) – If the partnership's allocated income is from more than one province or territory, the second box will show a two-letter province or territory code. If the income is from a foreign country, the box will show a three-letter country code.
+
+### Acronyms
+
+Throughout this guide and on the partnership forms, we use the following initialisms:
+
+| **Acronyms** | Definitions |
+
+| --- | --- |
+
+| **ABIL** | allowable business investment loss |
+
+| **ACB** | adjusted cost base |
+
+| **AIIP** | accelerated investment incentive property |
+
+| **ARA** | at-risk amount |
+
+| **ASPE** | accounting standards for private enterprise |
+
+| **BN** | business number |
+
+| **CCA** | capital cost allowance |
+
+| **CCEE** | cumulative Canadian exploration expenses |
+
+| **CCPC** | Canadian-controlled private corporation |
+
+| **CCUS** | carbon capture, utilization, and storage |
+
+| **CDE** | Canadian development expenses |
+
+| **CEE** | Canadian exploration expenses |
+
+| **CFRE** | cumulative foreign resource expense |
+
+| **COGPE** | Canadian oil and gas property expenses |
+
+| **CRA** | Canada Revenue Agency |
+
+| **CRCE** | Canadian renewable and conservation expenses |
+
+| **DIEP** | designated immediate expensing property |
+
+| **EPOP** | Eligible persons or partnership |
+
+| **EIFEL** | excessive interest and financing expenses limitation |
+
+| **FEDE** | foreign exploration and development expenses |
+
+| **FRE** | foreign resource expense |
+
+| **GAAP** | generally accepted accounting principals |
+
+| **GIFI** | General Index of Financial Information |
+
+| **GST** | goods and services tax |
+
+| **HST** | harmonized sales tax |
+
+| **IFE** | interest and financing expenses |
+
+| **IFR** | interest and financing revenues |
+
+| **IFRS** | international financial reporting standards |
+
+| **ITC** | investment tax credit |
+
+| **ITN** | individual tax number |
+
+| **LLP** | limited liability partnership |
+
+| **LPL** | limited partnership loss |
+
+| **PAE** | publicly accountable enterprise |
+
+| **PST** | provincial sales tax |
+
+| **QFFP** | qualified farm or fishing property |
+
+| **QSBCS** | qualified small business corporation shares |
+
+| **QST** | Quebec sales tax |
+
+| **RAIFE** | relevant affiliate interest and financing expenses |
+
+| **RAIFR** | relevant affiliate interest and financing revenues |
+
+| **SIFT** | specified investment flow-through |
+
+| **SIN** | social insurance number |
+
+| **SR&ED** | scientific research and experimental development |
+
+| **TTN** | temporary tax number |
+
+| **UCC** | undepreciated capital cost |
+
+| **ZEV** | zero-emission vehicle |
+
+### Definitions
+
+#### Adjusted cost base (ACB) of a partnership interest
+
+The Act does not define an interest in a partnership, but generally considers a partner's equity ownership to be a capital property. As a capital property, the partnership interest has a tax value, and the Act provides rules about calculating that value. The partners need to know the tax value of their partnership interest because, when they dispose of all or part of it, the disposition may be subject to rules which may result in a capital gain.
+
+In most cases, the ACB of an interest in the partnership is not the same amount as the original cost of that interest. Therefore, partners have to adjust the cost of their interest to calculate the ACB.
+
+Under the Act, each partner will have one ACB that includes all their interests in the partnership. The Act does not differentiate between different types of interests in a partnership.
+
+For more information, see [Calculating the adjusted cost base (ACB) of a partnership interest](#calculating_acb).
+
+**References** Paragraphs 53(1)(e) and 53(2)(c)[Interpretation bulletin IT-430, *Life Insurance Proceeds Received by a Private Corporation or a Partnership as a Consequence of Death*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it430r3-consolid.html)
+
+#### At-risk amount (ARA)
+
+The ARA rules apply to **limited partners**. These rules generally limit the amount of loss the limited partners can claim to the amount of the actual at-risk capital.
+
+**Negative ACB of a partnership interest** – The rule under subsection 40(3.1) **extends** the existing limited partnership at-risk rules that restrict the amount of losses an investor can deduct. Under this rule, limited partners and certain other partners have to report, as a capital gain, any negative ACB in their partnership interest at the end of a fiscal period of the partnership. In particular, the rule ensures that partners cannot circumvent the at-risk rules by allocating partnership losses before making distributions. Therefore, limited partners and certain other partners are not able to extract, tax free, more than the ACB of their interest in the partnership. See [Lines 410 to 430 – At-risk amount (ARA) (for limited partners only)](#line).
+
+**References**Subsections 40(3.1), 96(2.1), 96(2.2), and 96(2.4)
+
+#### Identification number
+
+Refers to either a social insurance number (SIN), individual tax number (ITN), temporary tax number (TTN), business number (BN), trust account number, or non-resident account number.
+
+#### Fiscal period
+
+We consider the partnership's fiscal period to be its tax year. Generally, the partnership must use the calendar year as its fiscal period in the following situations:
+
+- When at least one of the members of the partnership is either:
+
+    - an **individual**(other than a graduated rate estate **or** an individual to whom the exemptions in section 149 or 149.1 apply)
+
+    - a professional corporation
+
+    - another **partnership** that has a member that is described above that would, if the fiscal period ended at the end of the calendar year in which the period began, be a member of the partnership in the period
+
+If the partnership carries on a business outside Canada, the Act does not require the business to use a December 31 fiscal year-end.
+
+- In the case of a partnership (other than a partnership to which subsection 249.1(9) applies (see "Multi-tier election" below) or a partnership described in the first bullet above) that is a **member of another partnership** or **has a member that is another partnership**, if at the end of the calendar year:
+
+    - a corporation has a significant interest, as defined in section 34.2, in the partnership
+
+    - the partnership is a member of another partnership in which a corporation has a significant interest as defined in section 34.2
+
+    - a membership interest in the partnership is held directly, or indirectly through one or more partnerships, by a partnership described in the first two points immediately above, or
+
+    - the partnership holds directly, or indirectly through one or more partnerships, a membership interest in a partnership described in any of the first three points immediately above
+
+#### Multi-tier election
+
+A partnership in a multi-tier partnership structure must use the calendar year as its fiscal period unless a valid multi-tier alignment election has been filed to align to a common fiscal period.
+
+**References**Subsections 102(2), 249.1(9), (10), and (11)Paragraphs 96(1)(b) and 249.1(1)(c)Subparagraph 249.1(1)(b)(ii)
+
+##### Election to use an off-calendar fiscal period under the alternative method
+
+In general, unincorporated businesses such as partnerships are not, for income tax purposes, separate taxable entities, and are not required to file an income tax return. However, the income of unincorporated businesses that flows through partnerships is included in the income tax return of the partners. Where the partnership has an individual (other than a graduated rate estate, or an individual who is exempt from tax under section 149 or 149.1) as a partner, that partnership must use the calendar year as its fiscal period unless an election to use an off-calendar fiscal period is filed.
+
+However, there can be important reasons unrelated to income tax for the use of a non-calendar fiscal year (for example, using a year-end at a low point in the activity of the business).
+
+The election to use an off-calendar fiscal period under the alternative method is available to any new unincorporated business. However, it must be made on or before the filing due date of the income tax returns of partners who are individuals, which is June 15 of the year following the year in which the business commences. The election cannot be made in a subsequent year. Where the partnership has a graduated rate estate as a member, the election must be filed on or before the earliest of the filing due dates of the members of the partnership for the tax year in which the business commences.
+
+A partner who has the authority to act for the new partnership that carries on business can elect under subsection 249.1(4) to use an off-calendar fiscal period, if both of the following apply:
+
+- the partnership is **not** a member of another partnership
+
+- all the members of the partnership are individuals (including a graduated rate estate, or an individual that is exempt from tax under sections 149 or 149.1)
+
+The election to use an off-calendar fiscal period is only required if the partnership would otherwise be required to have a calendar year due to subparagraph 249.1(1)(b)(ii).
+
+**References** Subsections 249.1(4) and 96(3)
+
+##### Revoking your partnership's election to use an off-calendar fiscal period under the alternative method
+
+If your partnership elected under the alternative method to use an off-calendar fiscal period, and now wants to change to a December 31 fiscal year-end, that election can be revoked. To revoke an election, an authorized partner has to file [Form T1139, *Reconciliation of Business Income for Tax Purposes*](/en/revenue-agency/services/forms-publications/forms/t1139.htm)*,* with the relevant return of income on or before the earliest filing due date for the members of the partnership.
+
+**Reference** Subsection 249.1(6)
+
+##### Form T1139, Reconciliation of Business Income for Tax Purposes – Partnerships that cannot use the alternative method to have an off-calendar fiscal period
+
+Partnerships whose expenditures made in the course of carrying on the business were primarily (i.e. more than 50% of its expenditures) the cost or capital cost of tax shelter investments, **cannot** use the alternative method to have an off-calendar fiscal period.
+
+**Reference** Subsection 249.1(5)
+
+#### Joint venture
+
+The Act does not define **joint venture**. The term is often incorrectly used to describe an association that may be a partnership. Whether a joint venture is a partnership is a question of fact.
+
+In general, we **do not**consider a joint venture to be a partnership when the following conditions apply:
+
+- Each person (participant) keeps ownership of the property. That is, the property is not held under joint tenancy or tenancy in common other than, for example, the land used in a single project to construct an apartment building
+
+- The joint venture is limited to one project or has a specified end
+
+- The agreement states that it is not a partnership, and the facts support this
+
+- The joint venture participants do not act as agents for each other
+
+- Each joint venture participant receives a share of the gross profits, and shares only expenses for the specific project (that is, they do not operate a business in common)
+
+None of the above factors alone will determine if the relationship is a joint venture or a partnership.
+
+**Reference**[Income Tax Folio S4-F16-C1, *What is a Partnership?*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-16-partnerships/income-tax-folio-s4-f16-c1-what-a-partnership.html)
+
+##### Eligible pooling arrangements
+
+Individuals may use a special purpose partnership as an investment agent in an arrangement that is treated as a joint venture. Each individual will be treated as having their own share portfolio within the partnership.
+
+**References**Subsections 44.1(1) and 44.1(3)
+
+#### Limited partnership loss (LPL)
+
+A limited partner can deduct, on its tax return, its share of the partnership's loss from a business (other than a farming business) or property only up to the maximum of its at-risk amount (ARA) at the end of the partnership's fiscal period reduced by any ITC, farming losses and resource expenses the partnership allocated to the limited partner for that fiscal period. Unless the limited partner is itself a partnership, the residual amount becomes that limited partner's LPL which the limited partner can carry forward indefinitely and deduct in a later year to the extent the limited partner has a positive ARA for the partnership after deducting the amounts specified under subparagraph 111(1)(e)(ii). The at-risk rules do not restrict farming losses that a partnership incurs and allocates to limited partners.
+
+**References**Subsection 96(2.1)Paragraph 111(1)(e)
+
+#### Nominee or agent
+
+The terms nominee and agent are not defined in the Act or the Regulations.
+
+For the purposes of filing the return, a nominee or an agent **has to hold an interest** in the partnership **for another person** in order to be considered as a nominee or an agent.
+
+#### Tax shelter
+
+In general, one of the following definitions applies to **tax shelter**:
+
+- an **investment in a** **property** (**other than** a flow-through share or a prescribed property)
+
+- a **gifting arrangement** (described in bullet (a) below, under the definition of "gifting arrangement")
+
+The definition applies if it is reasonable to consider, based on statements or representations made or proposed to be made, that within the **first four years** of buying an investment in the property or entering into the gifting arrangement, the person will have losses, deductions, or credits **equal to or more than** the net cost of the investment in the property or of the property acquired under the gifting arrangement.
+
+"Net cost" is the net of any prescribed benefits expected to be received or enjoyed, directly or indirectly, by the person or another person with whom the person does not deal at arm's length. A gifting arrangement that is described in (b) below under the definition of "gifting arrangement" is also considered to be a tax shelter.
+
+The Act defines "tax shelter" and "gifting arrangement" in subsection 237.1(1). For the purposes of the tax shelter rules, a person includes a partnership.
+
+In general, a **gifting arrangement** means any arrangement under which it may reasonably be considered, having regard to statements or representations made or proposed to be made in connection with the arrangement, that if a person were to enter into the arrangement, the person would:
+
+1. make a gift to a qualified donee, or a political contribution, of property acquired by the person under the arrangement
+
+2. incur a limited-recourse debt that can reasonably be considered to relate to a gift to a qualified donee or a political contribution
+
+Generally, a limited-recourse debt is one where the borrower is not at risk for the repayment.
+
+**Property**, as defined in subsection 248(1), means property of any kind whatever, whether real or personal and whether tangible or intangible, including a right of any kind whatever and a share or a chose in action (for example, right to sue).
+
+**Prescribed property** in relation to a tax shelter is defined in section 3101 of the Regulations and means property that is any of the following:
+
+- a registered pension plan
+
+- a registered retirement savings plan
+
+- a deferred profit-sharing plan
+
+- a registered retirement income fund
+
+- a registered education savings plan
+
+- shares of one of the following:
+
+    - prescribed venture capital corporations
+
+    - prescribed labour-sponsored venture capital corporations
+
+    - taxable Canadian corporations held in a prescribed stock savings plan
+
+    - a property substituted for such shares
+
+**Prescribed benefits** in respect of an interest in a tax shelter are defined in section 3100 of the Regulations, and include, in general, revenue guarantees, contingent liabilities, limited-recourse amounts, and rights of exchange or conversion.
+
+##### Promoter
+
+A tax shelter **promoter** is any person who, in the course of a business, sells or issues (or promotes the sale, issuance or acquisition of) the tax shelter or acts as an agent or advisor in respect of such activities or accepts (whether as principal or agent) consideration for the tax shelter. This definition applies to all persons responsible for the sale of a tax shelter, including brokers, sales agents and advisors. There may be more than one promoter for the same tax shelter.
+
+For more information, see [Applying for a tax shelter number](#P300_913611) or go to [Tax shelters](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/tax-shelters.html).
+
+**References** Subsections 110.1(1), 118.1(1), 127(4.1), 143.2(1), 143.2(6.1), 143.2(8), 149.1(1), 237.1(1), and 248(1) Paragraph 40(2)(i) Regulations 3100 and 3101[Income Tax Folio S1-F5-C1, *Related persons and dealing at arm's length*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html)[Form T5001, *Application for Tax Shelter Identification Number and Undertaking to Keep Books and Records*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5001.html)
+
+##### Appraisals for donations of gifts in kind
+
+We require that the promoter provide us with appraisals of gifts in kind.
+
+For more information, go to [Tax shelters](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/tax-shelters.html).
+
+#### Types of partners
+
+##### End member
+
+The end member is the **last** individual (including a trust) or corporation that receives the final allocation from a partnership **after** the income has been allocated through all the various levels of the tiered partnership.
+
+**References**Subsections 102(2), 127(31), 163(2.8), and 247(6)
+
+##### General partner
+
+A general partner is a partner whose personal liability for the debts and obligations of the partnership is not limited.
+
+##### Limited partner (at any time during the fiscal period)
+
+A limited partner is one whose liability as a partner is limited under partnership law.
+
+However, we consider other partners to be limited partners for the following:
+
+- at-risk rules relating to losses, investment tax credits, and resource expenses
+
+- deemed gain rules relating to a negative ACB
+
+- cost of tax shelter investments
+
+Such partners that may be considered to be limited partners could include a partner whose liability as a member of the partnership is limited by contract and general partners who are shell corporations.
+
+A limited partner does **not** include a member of a **limited liability partnership** (LLP) under the circumstances described in paragraph 96(2.4)(a). A limited liability partnership is a type of partnership permitted under some provincial and territorial laws.
+
+The exception is **not** for all types of LLPs. The exception applies to LLPs that limit the member's liability **only**for debts, obligations and liabilities of the partnership, or any member of the partnership, arising from negligent acts or omissions or misconduct or fault of another member of the partnership or an employee, agent or representative of the partnership in the course of the partnership business while the partnership is an LLP. Such LLPs are often referred to as "partial shield" LLPs.
+
+However, another type of LLP exists, commonly referred to as "full shield" LLPs, under which LLP partners are protected from partnership liabilities (for example, from partnership account payables). A partner of a "full shield" LLP would not meet the exception and would be considered a limited partner.
+
+**References** Section 143.2 Subsections 40(3.14) and 96(2.4)
+
+##### Limited partner's exempt interest
+
+If a partnership interest is an exempt interest, a person who we would otherwise consider to be a limited partner will not be subject to the at-risk rules.
+
+Generally, a limited partner's exempt interest is a prescribed partnership interest or an interest in a partnership that was actively carrying on business, or earning income from renting or leasing property, on a regular and continuous basis on February 25, 1986, and continuously after that date.
+
+A partnership interest can lose exempt status when, after February 25, 1986, there has been a substantial contribution of capital to the partnership or a substantial borrowing by the partnership.
+
+**Reference**Subsection 96(2.5)
+
+##### Specified member of a partnership
+
+The status as a specified member of a partnership is determined for each partner for a particular fiscal period or tax year of the partnership. Generally, a specified member includes the following:
+
+- any partner who is a limited partner at any time during the partnership's fiscal period or tax year
+
+- any partner (including a general partner) who while a partner was **not**regularly, continuously, and substantially during the partnership's operating year:
+
+    - **actively engaged** in the activities of the partnership's business, except for the financing of the partnership
+
+    - **carrying on a business** similar to that of the partnership in its tax year
+
+**Reference** Subsection 248(1)
+
+#### Types of partnerships
+
+Under common law, a partnership is the relationship that exists between two or more persons who join to carry on a **trade or business in common** to make a profit. If there is no business in common, there is no partnership. For instance, co-ownershipof a rental property as an investment does not in itself constitute a partnership.
+
+Each person contributes money, property, labour, or a skill, and expects to have a share in the profits or the losses of the business enterprise.
+
+Under Quebec civil law, a contract of partnership is a contract by which the parties, in a spirit of cooperation, agree to carry on an **activity**,**including the operation of an enterprise**, to contribute thereto by combining property, knowledge or activities, and to share any resulting pecuniary profits.
+
+You can have a valid partnership without a formal written partnership agreement. The type and extent of a person's involvement in the business is important in determining whether the person is a partner or not.
+
+If you need more help to decide whether an arrangement is a partnership, you can consult the relevant provincial or territorial laws. We will usually accept a decision based on those laws.
+
+**Reference**[Income Tax Folio S4-F16-C1, *What is a Partnership?*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-16-partnerships/income-tax-folio-s4-f16-c1-what-a-partnership.html)
+
+##### Canadian partnership
+
+A Canadian partnership is one in which all the partners, including all end members, are resident in Canada.
+
+**References** Subsections 102(1) and 248(1)
+
+##### Canadian resident partnership
+
+A Canadian resident partnership is a partnership that, at any time in respect of which the expression is relevant:
+
+- is a Canadian partnership
+
+- would, if it were a corporation, be resident in Canada (including, for greater certainty, a partnership that has its central management and control in Canada)
+
+- was formed under the laws of a province or territory
+
+**Reference** Subsection 248(1)
+
+##### Limited liability partnership (LLP)
+
+A limited liability partnership (LLP) is a type of partnership permitted under some provincial and territorial laws. An LLP is different from a limited partnership and from an ordinary general partnership. A member of an LLP may be considered a limited partner under the Act depending on the type of LLP.
+
+For more information, see [Limited partner (at any time during the fiscal period)](#lmtd_prtnr_nytm).
+
+**References** Paragraphs 96(2.4)(a) and 40(3.14)(a)
+
+##### Limited partnership
+
+A limited partnership must be registered as such under the appropriate provincial or territorial registry system. A limited partnership has at least one general partner and one or more limited partners.
+
+##### Public investment partnership
+
+A public investment partnership is a public partnership of which 90% or more of the fair market value of the property it holds is related to any one or any combination of the following property:
+
+- units of public trusts
+
+- partnership interests in public partnerships
+
+- shares of the capital stock of public corporations
+
+**Reference** Regulation 229.1(1)
+
+##### Public partnership
+
+A public partnership is a partnership, the interests in which are listed on a designated stock exchange in Canada, and which carries on a business in Canada or is a Canadian partnership.
+
+According to subsection 229.1(2) of the Regulations, a public partnership or a public investment partnership is required to make information available with respect to distributions and allocations of income, losses, and capital so that the return can be prepared on a timely basis.
+
+##### ReferenceRegulation 229.1(1)
+
+##### Specified investment flow-through (SIFT) partnership
+
+A SIFT partnership, is a partnership other than an **excluded subsidiary entity** (see [Note 1](#nt_1) below) that meets all of the following conditions at any time during the tax year:
+
+- the partnership is a Canadian resident partnership
+
+- **investments** in the partnership are listed or traded on a stock exchange or other **public market** (see [Note 2](#nt_2) below)
+
+- the partnership holds one or more **non-portfolio properties** (see [Note 3](#nt_3) below)
+
+**Note 1**
+
+An **excluded subsidiary entity** means an entity of which none of the equity is at any time in the tax year listed or traded on a stock exchange or other public market, or held by any person or partnership other than certain qualifying holders. Currently, only real estate investment trusts, taxable Canadian corporations, SIFT trusts, SIFT partnerships, and other excluded subsidiary entities are qualifying holders.
+
+**Note 2**
+
+An **investment** in the partnership is:
+
+- a property that is a security of the partnership
+
+- a right which may reasonably be considered to replicate a return on, or the value of, a security of the partnership
+
+However, an unaffiliated publicly-traded liability of the partnership is excluded from the definition.
+
+A **security** of the partnership includes a partnership interest. It also includes certain rights conferred by the partnership or an entity affiliated with the partnership.
+
+**Public market** is defined to include any trading system or other organized facility on which securities that are qualified for public distribution are listed or traded. Excluded from the definition, however, is any facility that operates solely for the issuance or redemption (or acquisition or cancellation) of a security by its issuer.
+
+**Note 3**
+
+**Non-portfolio property**is described below.
+
+The ITA also provides two other definitions that are important for the purposes of determining the Part IX.1 tax on SIFT partnerships: **taxable non-portfolio earnings** and **non-portfolio earnings**.
+
+The **taxable non-portfolio earnings** of a SIFT partnership means the **lesser** of the following two amounts:
+
+1. the amount that would be the SIFT partnership's income for the tax year, as determined under section 3, if it were a taxpayer for the purposes of Part I and if subsection 96(1) did not include paragraph (d)
+
+2. its **non-portfolio earnings** for the tax year
+
+The **non-portfolio earnings** of a SIFT partnership for a tax year means the total of amount **a)** plus amount **b)** below:
+
+**a)** the amount, if any, by which
+
+1. the total of all of the SIFT partnership's income for the tax year from any business carried on by it in Canada and the income from any non-portfolio property other than income that is a taxable dividend received by the SIFT partnership is **greater** than
+
+2. the total of all of the SIFT partnership's losses for the tax year from any business carried on by it in Canada and from any non-portfolio property
+
+**and**
+
+**b)** the amount, if any, by which all taxable capital gains of the SIFT partnership from dispositions of non-portfolio properties during the tax year exceeds all allowable capital losses of the SIFT partnership for the tax year from dispositions of non-portfolio properties during the tax year
+
+A **non-portfolio property** of a partnership for a tax year means a property that is held by the partnership that is:
+
+1. a security of a **subject entity** (other than a **portfolio investment entity**) if at that time the partnership holds:
+
+    1. securities of the subject entity that have a total fair market value that is **greater than 10%** of the equity value of the subject entity
+
+    2. securities of the subject entity that, together with all of the securities that the partnership holds of entities affiliated with the subject entity, have a total fair market value that is **greater than 50%** of the equity value of the partnership
+
+2. a Canadian real, immovable or resource property, if at any time in the tax year the total fair market value of all properties held by the partnership that are Canadian real, immovable or resource properties is **greater than 50%** of the equity value of the partnership
+
+3. a property that the partnership, or a person or partnership with whom the partnership does not deal at arm's length, uses at that time in the course of carrying on a business in Canada
+
+The term **subject entity** means one of the following:
+
+1. a corporation resident in Canada
+
+2. a trust resident in Canada
+
+3. a Canadian resident partnership
+
+4. a non-resident person, or a partnership that is not described in (c) above, whose principal source of income is one or any combination of sources in Canada
+
+A**portfolio investment entity** at any time means an entity that does not at that time hold any **non-portfolio property**.
+
+The **equity value** of an entity at any time means the total fair market value at that time of any of the following:
+
+1. all of the issued and outstanding shares of the capital stock of the corporation if the entity is a corporation
+
+2. all of the income or capital interests in the trust if the entity is a trust
+
+3. all of the interests in the partnership if the entity is a partnership
+
+**References** Subsections 122.1(1) and 197(1)
+
+##### Small business investment limited partnership
+
+A limited partnership interest in a "small business investment limited partnership" (as defined in subsection 5102(1) of the Regulations) is a **qualified investment** for registered retirement savings plans (RRSPs), registered education savings plans (RESPs) and registered retirement income funds (RRIFs) unless it is excluded by virtue of subsection 4900(8) or 4900(9) of the Regulations. However, an interest in a general partnership is **not** a qualified investment.
+
+**References** Regulations 4900(8) and (9), 4901(2) and 5102[Income Tax Folio S3-F10-C1, *Qualified Investments – RRSPs, RESPs, RRIFs, RDSPs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html)
+
+##### Tiered partnership
+
+A tiered partnership has one or more partners that are partnerships, or is itself a partner, in another partnership.
+
+When a partnership (Partnership A) is a member of a particular partnership (Partnership B) that is a member of another partnership (Partnership C), those partnerships are tiered partnerships. Generally, the first partnership (Partnership A) is referred to as a top-tier partnership, the second one (Partnership B) as a second-tier partnership, and the last one (Partnership C) as a third-tier partnership. Where there are many tiered partnerships, the term "multi-tiered partnerships" is sometimes used.
+
+**References** Subsections 102(2) and 127(31) Regulation 5908(9)
+
+## Digital services
+
+### Handle your business taxes online
+
+[My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) lets lets you access your business tax information and interact with the CRA online throughout the year.
+
+### Profile
+
+- Manage your addresses, direct deposit information, program account names, operating names, phone numbers, business numbers, and language preferences
+
+- Manage your notification preferences and receive email notifications when important changes are made to your account
+
+- Manage your CRA business mail delivery method
+
+- Manage your authorized representatives and authorization requests
+
+- Manage your security settings, such as -in information, multi-factor authentication options, and personal identification number (PIN)
+
+### Balances and payments
+
+- Make a payment online to the CRA with the My Payment service, create a pre-authorized debit (PAD) agreement, or create a QR code to pay in person at Canada Post for a fee
+
+- View and pay account balance
+
+- View account transactions
+
+- Transfer payments and immediately view the updated balance
+
+- View interest
+
+- Calculate a future balance
+
+- View account activities
+
+### Transactions
+
+- View special elections and returns
+
+- View endorsements
+
+- Download reports
+
+- Track the progress of files and enquiries you have submitted to the CRA
+
+- Make an online request regarding your account and view answers to common enquiries
+
+- Request relief of penalties and interest
+
+- File a formal dispute (Notice of Objection)
+
+- Open a non-resident tax account (for non-resident withholding tax only)
+
+- Close an account
+
+### Correspondence
+
+- View mail from the CRA
+
+- Submit documents to the CRA
+
+- Submit an audit enquiry
+
+For more information, go to [Digital services](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html).
+
+### Receive your CRA mail online
+
+Register for email notifications to find out when CRA mail, like your notice of assessment, is available in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html).
+
+For more information, go to [business email notifications](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/online-mail-reduce-your-cost-doing-business-saving-time-online.html).
+
+### Online payments
+
+Make your payment using:
+
+- your Canadian bank or credit union's online banking, mobile app, or telephone service
+
+- the CRA's [My Payment service](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html) at with your activated debit card from a participating Canadian bank or credit union with a Visa Debit or Debit Mastercard logo (does **not** include credit cards)
+
+- pre-authorized debit (PAD) at [Pay by scheduled pre-authorized debit (PAD) through the CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html) which lets you:
+
+    - set up payments to the CRA from a Canadian chequing account on pre set dates starting in five or more business days
+
+    - pay an amount due, repay overpaid amounts, or make instalment payments
+
+    - view your account history and modify, cancel, or skip a payment (for more information on PAD, go to [Pay by scheduled pre-authorized debit (PAD) through the CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html))
+
+- the "Proceed to pay" buttons on the "View and pay account balance" page and other pages within My Business Account
+
+- your credit card, Interac e Transfer, or PayPal through one of the third party service providers **for a fee**
+
+For more information, go to [Payments – CRA](https://www.canada.ca/en/revenue-agency/services/payments.html).
+
+## For more information
+
+### If you need help
+
+For help with common topics, current contact centre wait times, and links to online self‑serve options, go to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+### Direct deposit
+
+Direct deposit is a fast, convenient, and secure way to receive your CRA payments directly into your account at a financial institution in Canada. For more information and ways to enrol go to [Direct deposit – Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html) or contact your financial institution.
+
+### Forms and publications
+
+The CRA encourages you to file your return electronically. If you need a paper version of the CRA's forms and publications, go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+### Electronic mailing lists
+
+The CRA can send you an email when new information on a subject of interest to you is available on the website. To subscribe to the electronic mailing lists, go to [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+### Teletypewriter (TTY) and Video Relay Service (Canada VRS) users
+
+If you use a TTY for a hearing or speech impairment, call **1-800-665-0354**.
+
+Register with Canada VRS to download the app, by going to **srvcanadavrs.ca/en/get-the-app**, and call the VRS line.
+
+If you use another **operator-assisted relay service**, call the CRA's regular telephone numbers instead of the TTY or Canada VRS numbers.
+
+### Service complaints
+
+You can expect to be treated fairly and to receive a high level of service every time you interact with the CRA.
+
+You can provide compliments or suggestions, however, if you are not satisfied with the service you received:
+
+- You may save time by calling CRA first depending on your situation. You can call the telephone number provided in your CRA correspondence or discuss your concerns with the employee you have been dealing with. If you do not have a contact number, go to [Contact the Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html)
+
+- You may contact the Office of the Taxpayers' Ombudsperson if you are not satisfied with the response you have received. The Ombudsperson will only respond to complaints that the CRA has already tried to address
+
+- You can submit feedback by filling out [Form RC193, *Service Feedback*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html), if the issue remains unresolved. For more information, go to [Send feedback about CRA service](https://www.canada.ca/en/revenue-agency/services/make-a-service-complaint.html)
+
+- You may contact the Office of the Taxpayers' Ombudsperson if you are not satisfied with the response you have received. The Ombudsperson will only respond to complaints that the CRA has already tried to address
+
+For more information about the Taxpayer Bill of Rights, go to [Office of the Taxpayers' Ombudsperson](https://www.canada.ca/en/taxpayers-ombudsperson.html).
+
+#### Reprisal complaints
+
+If you have received a response regarding a previously submitted service complaint or a formal review of a CRA decision and feel you were not treated impartially by a CRA employee, you can submit a reprisal complaint by filling out [Form RC459, *Reprisal Complaint*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc459.html).
+
+For more information, go to [Reprisal Complaints](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/reprisal-complaints.html).

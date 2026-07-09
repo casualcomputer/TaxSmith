@@ -1,0 +1,581 @@
+Title: General Restrictions and Limitations
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-2/general-restrictions-limitations.html
+Corpus path: corpus/cra/forms-publications/publications/8-2/general-restrictions-limitations.md
+Document type: publication
+Last modified: 2021-12-22
+
+# General Restrictions and Limitations
+
+GST/HST memorandum 8.2 March 2008
+
+This memorandum sets out the rules respecting the general restrictions and limitations that apply when claiming input tax credits under the *Excise Tax Act* (the Act).
+
+**Note:** All legislative references in this memorandum refer to the Act unless otherwise indicated.
+
+This memorandum of Chapter 8 cancels and replaces GST Memorandum 400-2, *Restrictions – General*, and paragraphs 8, 9, 10, 15 and 16 of GST Memorandum 400-3-5, *Property and Services for Non-Financial Institutions*.
+
+Disclaimer
+
+The information in this memorandum is provided for your reference and does not replace the law found in the *Excise Tax Act* and its Regulations. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation, or contact a CRA GST/HST Rulings Centre for more information. These centres are listed in GST/HST Memorandum 1.2, Canada Revenue Agency GST/HST Rulings Centres. If you wish to make a technical enquiry on the GST/HST by telephone, please call the toll-free number 1-800-959-8287.
+
+If you are located in the Province of Quebec, please contact Revenu Québec by calling the toll-free number 1-800-567-4692 or visit their Web site at [www.revenu.gouv.qc.ca](https://www.revenuquebec.ca/en/).
+
+Reference in this publication is made to supplies taxable at 5% (the rate of the GST) or 13% (the rate of the HST). The HST applies to supplies made in Nova Scotia, New Brunswick, and Newfoundland and Labrador (the “participating provinces”). If you are uncertain as to whether a supply is made in a participating province, you may refer to GST/HST Technical Information Bulletin B-078, *Place of Supply Rules Under the HST*.
+
+## Table of contents
+
+- [ITC restrictions and limitations](#P37_2015)
+
+- [Club memberships](#P42_3221)
+
+- [Home office expenses](#P58_6601)
+
+- [Supply for exclusive personal consumption, use or enjoyment](#P78_11127)
+
+- [Supply primarily for personal consumption, use or enjoyment](#P98_15435)
+
+- [Reasonable amounts](#P109_17339)
+
+- [Acquisition of a passenger vehicle or aircraft](#P115_18745)
+
+- [Leased passenger vehicles](#P265_38951)
+
+- [Food, beverages and entertainment expenses](#P307_46357)
+
+## ITC restrictions and limitations
+
+General rules
+
+1. Generally, registrants pay the GST/HST on their taxable purchases or acquisitions of property and services and claim input tax credits (ITCs) in respect of the tax paid or payable on those business inputs that relate to the making of taxable supplies. Even though an input may relate to a commercial activity, it may, in certain circumstances, not give rise to a full or partial ITC. Certain rules exist that restrict or limit the ITC entitlement either because of the nature or the type of the supply, or because there is a significant element of personal consumption or employee personal use. For instance, a general rule relating to ITCs is that a registrant cannot claim the ITC on property or services that are for the exclusive (i.e., 90% or more) personal consumption of an individual who is or who agrees to become an employee of the registrant, or for the personal consumption of a relative of the individual or of the registrant. This rule as well as several other rules that restrict or limit an ITC are discussed in detail in this memorandum. For a general discussion on the claiming of ITCs, see GST/HST Memorandum 8.1, [General Eligibility Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1.html).
+
+## Club memberships
+
+Restricting ITCs para 170(1)(a)
+
+2. A registrant is not entitled to claim an ITC in respect of the GST/HST paid or payable on a membership, or on a right to acquire a membership, in a club the main purpose of which is to provide dining, recreational or sporting facilities, unless the membership or right is acquired by the registrant exclusively for supply (i.e., for resale) in the ordinary course of a business of the registrant of selling such memberships or rights. This rule applies regardless of the status of the individual who uses the membership. It applies not only where the membership is used by employees, shareholders, officers or directors of the registrant, but also where the membership is used by the registrant's suppliers or customers.
+
+Meaning of membership ss 123(1)
+
+3. The term “membership” includes a right granted by a particular person that entitles another person to services that are provided by, or to the use of facilities that are operated by, the particular person and that are not available, or are not available to the same extent or for the same fee or charge, to persons to whom such a right has not been granted, and also includes such a right that is conditional on the acquisition or ownership of a share, bond, debenture or other security.
+
+Used on a regular and continuous basis for meeting clients
+
+4. Consideration for the supply of a membership, in this context, includes both ongoing fees and initiation fees and dues.
+
+A registrant purchases memberships to a tennis club for $10,000 plus $500 GST. The memberships are acquired exclusively for purposes of selling them to clients in the ordinary course of the registrant's business of selling such memberships. In this case, the registrant is entitled to claim an ITC of $500, provided all other ITC requirements are satisfied.
+
+Golf facilities and fees
+
+5. The treatment of golf club memberships for GST/HST purposes parallels the income tax treatment in that the registrant will be precluded from claiming an ITC in respect of the GST/HST paid or payable in respect of golf memberships. However, the registrant will be permitted to claim an ITC in respect of the tax paid or payable on food, beverages and entertainment supplied in golf clubs (subject to the recapture rules discussed below), provided that the supply is purchased for consumption or use in the registrant's commercial activities (e.g., a lunch meeting with a client), and the costs are clearly itemized and separated from the green fees/membership fees on the source document.
+
+Other facilities and fees
+
+6. For GST/HST purposes, the Act does not make specific reference to the use or maintenance of property that is a yacht, a camp, a lodge, or a golf course or facility. In the absence of a legislative provision restricting the entitlement to an ITC in respect of yachts, camps, lodges and golf courses, registrants may be entitled to apportion ITCs according to their use in commercial activities, provided one of the other restrictions does not apply.
+
+Other facilities and fees subpara 18(1)(l)(i)
+
+7. In contrast, under the *Income Tax Act*, a deduction is not allowed for any amount relating to the use or maintenance of property that is a yacht, a camp, a lodge or a golf course or facility unless the property is re-supplied by the taxpayer in the ordinary course of the taxpayer's business of renting such property.
+
+## Home office expenses
+
+Restricting ITCs para 170(1)(a.1)
+
+8. A registrant is not entitled to claim an ITC in respect of the tax paid or payable on a supply, importation, or bringing into a participating province of property or a service acquired, imported, or brought in for consumption or use by the registrant (or, where the registrant is a partnership, an individual who is a member of the partnership), in relation to a work space (i.e., home office) in a self-contained domestic establishment in which the registrant or individual resides unless the work space:
+
+- is the registrant's principal place of business; or
+
+- is used exclusively for the purpose of earning income from a business and is used on a regular and continuous basis for meeting the registrant's clients, customers, or patients in respect of the business.
+
+Meaning of self-contained domestic establishment ss 123(1) of the Act and ss 248(1) of the *Income Tax* Act
+
+9. The definition of the term "self-contained domestic establishment" for GST/HST purposes is the same as that for income tax purposes. It means a dwelling-house, apartment or other similar place of residence in which place a person as a general rule sleeps and eats. Whether a particular place fits this definition will be a question of fact.
+
+Consumption or use in relation to any part of a self-contained domestic establishment
+
+10. The ITCs may be restricted where the GST/HST is payable in relation to any part of a self-contained domestic establishment. Typically, supplies of property and services consumed or used in relation to a part of a self-contained domestic establishment can easily be distinguished from supplies made in relation to the business itself. Full ITCs would generally be available in respect of expenses incurred on supplies for only the office, while expenses relating to the domestic establishment as a whole may need to be apportioned between personal and business use. Finally, there would be no ITCs in respect of expenses that did not relate at all to the commercial activity. For example, heat and electricity would be included and apportioned when calculating a registrant's ITC entitlement (provided that the portion related to the home office was more than 10%), while costs relating to a room such as a bedroom that is not used at all in the business would be excluded.
+
+Principal place of business of a registrant IT-514
+
+11. The word “principal” is not defined in the Act, but it is generally regarded as being synonymous with the words “chief” or “main”. Therefore, where an individual has two or more places of business in respect of the same business, the work space must be the main place of business in order to meet the requirement under subparagraph 170(1)(a.1)(i) of the Act. More information on this topic is available in Interpretation Bulletin IT-514, Work Spaces in Home Expenses.
+
+A room in a contractor's residence is used to carry out the office functions of the business such as receiving work orders, bookkeeping, purchasing and preparing payrolls. The remaining activities of the business (i.e., the performance of the contracts) are carried out at the customer's location. In this case, the room in the contractor's residence is considered to be the contractor's principal place of business. This room could also be used for personal purposes since there is no requirement for the room to be used exclusively for business in order for it to be considered a principal place of business.
+
+Used on a regular and continuous basis for meeting clients
+
+12. Whether the requirement under subparagraph 170(1)(a.1)(ii) of the Act of being used on a regular and continuous basis has been met will depend, in part, on the nature of the business activity. This is determined on the basis of the facts of each situation. For example, a work space for a business that normally requires infrequent meetings or frequent meetings at irregular intervals would probably not meet the requirement.
+
+A home office is used by Doctor M to meet occasionally with one or two patients a week, while he meets most of his patients in a doctor's office in another building. This doctor's home office is not considered to be used on a regular and continuous basis for meeting patients.
+
+An accountant meets an average of five clients a day for five days each week in his home office. The accountant's work space is clearly being used to meet clients on a regular and continuous basis.
+
+## Supply for exclusive personal consumption, use or enjoyment
+
+Restricting ITCs para 170(1)(b)
+
+13. A registrant is not entitled to claim an ITC in respect of the tax paid or payable on a supply of property or a service acquired, imported, or brought into a participating province at any time in or before a reporting period of the registrant exclusively for the personal consumption, use or enjoyment (i.e., the “benefit”) in that period of a particular individual who was, is or agrees to become an officer or an employee of the registrant, or of another individual related to the particular individual, except where:
+
+- the property or service is re-supplied by the registrant to the particular individual (or that individual's relative) for consideration that becomes due in that period and that is equal to the fair market value of the property or service at the time the consideration becomes due; or
+
+- no amount is payable by the particular individual for the benefit and the benefit is not treated as a taxable benefit to the individual under section 6 of the *Income Tax Act*.
+
+Gifts and awards given by employers to employees
+
+14. To mark special occasions, employers can give their employees two non-cash gifts per year on a tax-free basis (i.e., without them being treated as taxable benefits for income tax purposes). In addition, to honour employment achievements, employers can give their employees two non-cash awards per year on a tax-free basis. The total cost to the employer, including taxes, of the two non-cash gifts or the two non-cash awards cannot be over $500 per year. Employers can deduct the total cost of the gifts or awards from their income tax. Employees do not have to include the cost of the gifts and/or awards in their taxable income as a taxable benefit. More information on this subject is available in the publication (T4130), [Employers' Guide – Taxable Benefits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4130.html).
+
+Exceptions
+
+15. This policy does not apply to cash or near-cash gifts and awards (e.g., gift certificates, gold nuggets or other items easily converted to cash). The value of this type of gift or award is considered a taxable employment benefit.
+
+16. With respect to the GST/HST, if a gift or an award qualifies as tax-free under section 6 of the *Income Tax Act*, then the employer will be entitled to claim an ITC with respect to the GST/HST paid or payable on the gift or award.
+
+XYZ Company acquires a $65 wedding gift for an employee. This is the only gift given to the employee for the year. Since the gift was acquired for less than $500, the company may deduct it as a business expense for income tax purposes without including it in the employee's income as a taxable benefit under section 6 of the *Income Tax Act*. It will also be able to claim an ITC with respect to the GST/HST paid on the gift. However, if the gift had been acquired for more than $500 and was therefore considered a taxable benefit to the employee, the company would not have been entitled to an ITC.
+
+17. Where property or a service is not acquired exclusively for the personal consumption, use or enjoyment of an employee, the ITC restriction under paragraph 170(1)(b) will not apply.
+
+ABC Accounting Firm pays for the parking expenses of all its employees. Each employee is required to provide his/her own personal transportation to travel from the office to clients' work locations throughout the city. In this case, the employer will not be restricted from claiming the ITC. However, any benefit relating to parking that is included in income under paragraph 6(1)(a) of the *Income Tax Act* may result in the registrant having to self-assess tax under subsection 173(1) of the Act.
+
+Employees and shareholders
+
+18. The ITC restriction applies to officers and employees of the registrant. The restriction does not apply to property and services purchased for officers or employees of another person.
+
+Supply of a vehicle for exclusive personal use
+
+19. A registrant is not permitted to pool or average out the use of company vehicles to determine the ITC on the vehicles. A registrant cannot claim an ITC based on the average use of a fleet of vehicles where some of the vehicles are intended to be for the exclusive personal use of the employees. The vehicles intended for the exclusive personal use of employees must be excluded from the calculation.
+
+## Supply primarily for personal consumption, use or enjoyment
+
+Restricting ITCs para 170(1)(c)
+
+20. No amount may be claimed by a registrant as an ITC in respect of the GST/HST payable on a supply of property that is made in or before a reporting period of the registrant by way of lease, licence or similar arrangement, primarily (i.e., more than 50%) for the personal consumption, use or enjoyment in that period of
+
+1. where the registrant is an individual, the registrant or an individual related to the registrant,
+
+2. where the registrant is a partnership, an individual who is a member of the partnership or another individual who is an employee, officer, or shareholder of, or related to, a member of the partnership,
+
+3. where the registrant is a corporation, an individual who is a shareholder of the corporation or another individual related to the shareholder, and
+
+4. where the registrant is a trust, an individual who is a beneficiary of the trust or another individual related to the beneficiary, except where the property is supplied at its fair market value by the registrant to that individual (or relative) and the consideration becomes due in that period.
+
+Starting in January 2008, a GST/HST registered corporation in Nova Scotia leases a computer for $200 per month (plus 13% HST of $26). The computer is used 75% of the time for the personal use of the president/shareholder of the company and family members, and 25% of the time in the corporation's commercial activities. The corporation will not be entitled to claim an ITC in respect of the HST payable on the monthly lease charges because the supply is leased primarily for personal use. However, if the total monthly lease cost of the computer were deducted from the pay cheque of the president of the corporation, the corporation would then be entitled to claim an ITC in respect of the HST payable by it on its monthly lease payments.
+
+## Reasonable amounts
+
+Test to determine reasonableness ss 170(2)
+
+21. A registrant is not entitled to claim an ITC in respect of the tax paid or payable on a property or service that is acquired, imported or brought into a participating province except to the extent that the consumption or use of property or service of such quality, nature or cost is reasonable in the circumstances, taking into account the nature of the registrant's commercial activities. Furthermore, the GST/HST in respect of which the ITC is claimed must be calculated on consideration for the property or service, or on a value of the property, that is reasonable in the circumstances.
+
+Mr. X, a registrant, is the owner of a small local chain of pizzerias (XYZ Pizza). Mr. X purchases a $5.5 million (including GST) yacht through his company and has a sign advertising “XYZ Pizza” placed prominently on both sides of the yacht. The yacht is never used to entertain suppliers or customers, but is sailed privately by Mr. X throughout the year. Mr. X claims a full ITC on the yacht for the reporting period in which the GST is payable. Given the nature of Mr. X's commercial activities, the cost of the yacht and the fact that the yacht is not used for business purposes except inasmuch as the sign could be considered to be advertising, the ITC claimed by Mr. X on the acquisition of the yacht would be denied under subsection 170(2).
+
+## Acquisition of a passenger vehicle or aircraft
+
+General rule
+
+22. In general, passenger vehicles and aircraft used in a registrant's commercial activities are considered to be capital personal property, and therefore fall within the general rules governing capital personal property. However, where a passenger vehicle or aircraft is used in the course of the commercial activities of a GST/HST registered individual or partnership, special ITC rules may apply.
+
+Meaning of passenger vehicle ss 123(1) of the Act and ss 248(1) of the *Income Tax Act*
+
+23. For GST/HST purposes, the term “passenger vehicle” has the same meaning as in the *Income Tax Act*. A passenger vehicle means an automobile acquired after June 17, 1987, (other than an automobile acquired after that date pursuant to an obligation in writing entered into before June 18, 1987) and an automobile leased under a lease entered into, extended or renewed, after June 17, 1987.
+
+Meaning of automobile ss 248(1) of the *Income Tax Ac*t
+
+24. An automobile means a motor vehicle that is designed or adapted primarily to carry individuals on highways and streets and that has a seating capacity for not more than the driver and eight passengers, but does not include:
+
+- an ambulance;
+
+- a clearly marked emergency-response vehicle that is used in connection with or in the course of an individual's office or employment with a fire department or the police;
+
+- a clearly marked emergency medical response vehicle that is used, in conjunction with or in the course of an individual's office or employment with an emergency medical response or ambulance service, to carry emergency medical equipment together with one or more emergency medical attendants or paramedics (this new exclusion from the definition of automobile applies to the 2005 and subsequent taxation years);
+
+- a motor vehicle acquired primarily for use as a taxi, a bus used in a business of transporting passengers or a hearse used in the course of a business of arranging or managing funerals,
+
+- except for the purposes of section 6, a motor vehicle acquired to be sold, rented or leased in the course of carrying on a business of selling, renting or leasing motor vehicles or a motor vehicle used for the purpose of transporting passengers in the course of carrying on a business of arranging or managing funerals; and
+
+- a motor vehicle
+
+    - of a type commonly called a van or pick-up truck, or a similar vehicle, that has a seating capacity for not more than the driver and two passengers and that, in the taxation year in which it is acquired or leased, is used primarily for the transportation of goods or equipment in the course of gaining or producing income;
+
+    - of a type commonly called a van or pick-up truck, or a similar vehicle, the use of which, in the taxation year in which it is acquired or leased, is all or substantially all for the transportation of goods, equipment or passengers in the course of gaining or producing income; or
+
+    - of a type commonly called a pick-up truck that is used in the taxation year in which it is acquired or leased primarily for the transportation of goods, equipment or passengers in the course of earning or producing income at one or more locations in Canada that are,
+
+          - described, in respect of any of the occupants of the vehicle, in subparagraph 6(6)(a)(i) or (ii) [Footnote1](#fn1), and
+
+          - at least 30 kilometres outside the nearest point on the boundary of the nearest urban area, as defined by the last census dictionary published by Statistics Canada before the year, that has a population of at least 40,000 individuals as determined in the last census published by Statistics Canada before the year.
+
+Meaning of automobile ss 248(1) of the *Income Tax Ac*t
+
+25. The term "motor vehicle" means an automotive vehicle designed or adapted to be used on highways and streets but does not include:
+
+- a trolley bus; or,
+
+- a vehicle designed or adapted to be operated exclusively on rails.
+
+An individual who is a registrant residing in British Columbia purchases an extended cab pick-up truck for $28,000 plus GST. In October 2007, the truck is to be used primarily in commercial activities. For purposes of this example, its business taxation year runs from August 1, 2007 to July 31, 2008. The truck has a seating capacity for the driver and five passengers (two in the front seat and three in the back seat). When the truck is used for business purposes, the back seat is removed and the space is used to store business supplies and tools. The back seat is then refitted at the end of the day for non-commercial activities. In this example, the truck satisfies the definition of passenger vehicle since it is an automobile and a motor vehicle with a seating capacity of more than the driver and two passengers (but not more than eight passengers). The reason is that, although the back seat is removed for use in the commercial activities of the registrant, the removal of the seat is not permanent. The truck is, therefore, still regarded as having a seating capacity for six (five passengers and the driver).
+
+26. In the above example, since the registrant is an individual who uses the passenger vehicle otherwise than exclusively in commercial activities, an ITC cannot be claimed in the reporting period of the acquisition. However, in accordance with subsection 202(4), the registrant will be entitled to claim an annual ITC equal to 5/105 of the capital cost allowance (CCA) deducted in the year for income tax purposes. This is discussed later on in this memorandum.
+
+27. In the above example, even if the registrant were to permanently remove the back seat in a subsequent year and install shelving in its place, and the truck then ceased to qualify as a passenger vehicle, the registrant would continue to calculate the ITC on the vehicle using the CCA-based method. Since the truck was initially purchased as a passenger vehicle, there is no provision in the Act to allow the registrant to claim a full ITC on the vehicle at the time the vehicle ceases to be a passenger vehicle.
+
+Meaning of aircraft IT-522R
+
+28. While the term "aircraft" is not defined in the Act, for administrative purposes, this term has the same meaning as has been established for purposes of the *Income Tax Act*. It is interpreted to mean any machine used or designed for travelling in the air, but does not include a machine designed to derive support in the atmosphere from reactions against the earth's surface of air expelled from the machine (e.g., a hovercraft). This means that an aircraft for GST/HST and income tax purposes not only includes airplanes but also helicopters and gliders.
+
+ITC eligibility for passenger vehicles and aircraft s 199, 201, 202
+
+29. The chart that follows paragraph 30 illustrates the eligibility of different types of registrants to claim ITCs for the GST/HST payable in respect of the acquisition of a passenger vehicle or aircraft for use as capital property of the registrant. There is no ITC allowed for the tax paid or payable on the acquisition cost of a passenger vehicle in excess of the capital cost of the vehicle for income tax purposes. Although subject to change, currently, the maximum capital cost, for income tax purposes, of passenger vehicles purchased since 2000 is $30,000 plus the applicable GST/HST and provincial sales tax. For taxation year 2000, the ceiling was $27,000 plus the applicable GST/HST and provincial sales tax. To calculate capital cost amounts for prior years, contact the nearest CRA tax services office.
+
+Value of passenger vehicle s 201
+
+30. Section 201 has been amended such that, for purposes of the GST/HST, the maximum capital cost for passenger vehicles acquired, imported or brought into a participating province will be calculated excluding the GST/HST and provincial sales taxes. This amendment applies to passenger vehicles that are acquired, imported or brought into a participating province after November 27, 2006, and to any passenger vehicle that is acquired, imported or brought into a participating province on or before that day unless an ITC in respect of the vehicle was claimed in a GST/HST return filed on or before November 27, 2006, and was determined on the basis that the maximum capital cost of the passenger vehicle included federal and provincial sales taxes.
+
+| **Percentage of use in commercial activities** | **General registrants and public sector bodies** | **GST/HST registered individuals and partnerships** | **Financial institutions** |
+
+| --- | --- | --- | --- |
+
+| ≤ 10 % | No ITC | No ITC | ITC = actual % of use |
+
+| >10 % to 50 % | No ITC | CCA based ITC* | ITC = actual % of use |
+
+| >50 % to <90 % | Full ITC | CCA based ITC* | ITC = actual % of use |
+
+| ≥ 90 % | Full ITC | Full ITC | ITC = actual % of use |
+
+* except where the use of the passenger vehicle or aircraft results in a taxable benefit under paragraph 6(1)(e) of the *Income Tax Act* (standby charge)
+
+31. Although a parallel between the Act and the *Income Tax Act* does exist more often than not in respect of passenger vehicles, there is a divergence from the *Income Tax Act* in circumstances where a registrant, other than an individual or a partnership, purchases a passenger vehicle used primarily in the course of commercial activities. In this case, the registrant is entitled to claim a full ITC in the reporting period the property is purchased. The registrant is not required to amortize the ITC over the life of the property notwithstanding that for income tax purposes the amount deducted in the year on the property is based on a CCA calculation. A registrant (other than a financial institution) will not be entitled to claim an ITC on the GST/HST payable in respect of a passenger vehicle or aircraft that is used 10% or less in commercial activities.
+
+Sale of a passenger vehicle ss 203(1)
+
+32. Where a registrant makes a taxable supply by way of sale of a passenger vehicle that was capital property, the registrant is entitled to claim an additional ITC in that reporting period for the portion of the tax that was previously unrecoverable because of the limitation under section 201 for an ITC upon the purchase of the vehicle.
+
+33. The additional ITC is determined by the formula
+
+A × (B – C) ÷ B
+
+where
+
+A is the basic tax content of the vehicle at the particular time;
+
+B is the total of
+
+1. the tax that was payable by the registrant in respect of the last acquisition or importation of the vehicle by the registrant,
+
+2. where the registrant brought the vehicle into a participating province after it was last acquired or imported by the registrant, the tax that was payable by the registrant in respect of bringing it into that province, and
+
+3. the tax that was payable by the registrant in respect of improvements to the vehicle acquired, imported or brought into a participating province by the registrant after the property was last acquired or imported; and
+
+C is the total of all ITCs that the registrant was entitled to claim in respect of any tax included in the total for B.
+
+34. Subsection 203(1) excludes from its application supplies by municipalities or supplies of designated municipal property (as defined in subsection 123(1)) of a person designated to be a municipality for purposes of section 259. This applies to any supply for which consideration became due after March 9, 2004, or was paid after that day without having become due, but it does not apply to any supply under an agreement in writing entered into before March 10, 2004.
+
+Non-exclusive use of a passenger vehicle or aircraft – individual or partnership ss 202(4)
+
+35. A GST/HST registered individual or partnership may claim a full ITC (subject to the capital cost limitations set out in paragraphs 29 and 30) where a passenger vehicle or aircraft is for use exclusively in the course of the registrant's commercial activities. However, when the registrant acquires, imports or brings into a participating province a passenger vehicle or aircraft for use as capital property of the registrant, but not for use exclusively in commercial activities, and tax is payable by the registrant in respect of the acquisition, importation or bringing in, the registrant is deemed to have:
+
+- acquired the passenger vehicle or aircraft on the last day of each taxation year of the registrant ending after that time; and
+
+- paid, on that day, tax in respect of the acquisition of the passenger vehicle or aircraft equal to the amount determined by the formula
+
+A × B
+
+where
+
+A is
+
+1. in the case of an acquisition or importation in respect of which tax is payable only under subsection 165(1) or section 212 or 218, as the case may require, and in the case of an acquisition deemed to have been made under subsection (5)[Footnote2](#fn2) of a vehicle or aircraft in respect of which no tax under subsection 165(2) was payable by the registrant, the amount determined by the formulaC/D where C is the rate of the GST (i.e. 5% as of January 1, 2008), and D is the total of 100% and the percentage determined for C,
+
+2. in the case of the bringing into a participating province of the vehicle or aircraft from a non-participating province and in the case of an acquisition in respect of which tax under section 220.06 is payable, the amount determined by the formulaE/F where E is the rate of the provincial portion of the HST (i.e. 8%), and F is the total of 100% and the percentage determined for E, and
+
+3. in any other case, the amount determined by the formulaG/H where G is the rate of the HST (i.e. 13% as of January 1, 2008), and H is the total of 100% and the percentage determined for G, and
+
+B is:
+
+1. nil where an amount in respect of the passenger vehicle or aircraft is included as a taxable benefit under paragraph (6)(1)(e) of the *Income Tax Act* (standby charge) in computing the income of an individual for a taxation year of the individual ending in that taxation year of the registrant, and
+
+2. in any other case, the CCA in respect of the vehicle or aircraft that was deducted under the *Income Tax Act* in computing the income of the registrant from those commercial activities for that taxation year of the registrant.
+
+Transitional rule
+
+36. The description of A in paragraph 202(4)(b) applies to any taxation year of a registrant that ends on or after July 1, 2006, except that, for the taxation year of a registrant that includes July 1, 2006, the description of A reads as follows:
+
+A is
+
+1. in the case of an acquisition or importation in respect of which tax is payable only under subsection 165(1) or section 212 or 218, as the case may require, and in the case of an acquisition deemed to have been made under subsection (5) of a vehicle or aircraft in respect of which no tax under subsection 165(2) was payable by the registrant, 6.5/106.5,
+
+2. in the case of the bringing into a participating province of the vehicle or aircraft from a non-participating province and in the case of an acquisition in respect of which tax under section 220.06 is payable, 8/108, and
+
+3. in any other case, 14.5/114.5.
+
+37. In cases where the individual or partner did not deduct any CCA with respect to the passenger vehicle or aircraft for income tax purposes, no ITCs are available to the GST/HST registered individual or partnership.
+
+38. As noted in the formula set out in paragraphs 35 and 36, a GST/HST registered individual or partnership is not entitled to claim an ITC where the passenger vehicle or aircraft that is used less than exclusively in commercial activities gives rise to a taxable standby charge. This complements section 173 which states, among other things, that the GST/HST registered individual or partnership is not required to self-assess tax in respect of the taxable benefit relating to a passenger vehicle or aircraft used other than exclusively in the commercial activities of the GST/HST registered individual or partnership. Accordingly, where no ITC is permitted to the GST/HST registered individual or partnership in respect of the property, the person is not required to remit tax in respect of the taxable benefit. Detailed information on this topic will be available in Chapter 9, *ITC – Taxable Benefits, Allowances and Reimbursements,* of the GST/HST Memoranda Series.
+
+Exempt use of a passenger vehicle or aircraft – general ITC rules ss 169(1)
+
+39. Under the general ITC rules, the registrant will have to reduce the ITC entitlement on the passenger vehicle or aircraft by the percentage of the CCA attributable to the making of exempt supplies (if any) since this is excluded from the definition of commercial activity. Even though the CCA attributable to the making of exempt supplies is deductible against the person's income for income tax purposes, that portion must be excluded from the calculation of the ITC for GST/HST purposes.
+
+Personal use of a passenger vehicle or aircraft
+
+40. Passenger vehicles or aircraft of GST/HST registered individuals or partnerships that are used in their commercial activities are often also used personally by the individuals or the members of the partnership. When calculating the CCA entitlement for income tax purposes in respect of the passenger vehicle or aircraft, the individual or partnership must deduct the personal use from the business use since no CCA is allowed on the portion attributable to personal use. However, to calculate the ITC allowed on passenger vehicles and aircraft, the registrant is not required to exclude from the calculation the personal use portion for GST/HST purposes as it has already been excluded for income tax purposes.
+
+A GST/HST registered individual acquired a passenger vehicle in Alberta in February 2008 for $18,000, including 5% GST. The individual used the vehicle 70% in commercial activities, 10% in exempt activities, and 20% for personal use. These percentages are confirmed by the vehicle's logbook based on the kilometres driven in that year. Assuming the individual makes exempt supplies as a business activity for income tax purposes, the maximum CCA deductible on the vehicle in its 2008 taxation year, which runs from March 1, 2008, to February 28, 2009, is as follows:
+
+**Step no. 1 – Calculation of maximum CCA deductible**
+
+½ * × 30% ** × $18,000 × (70% commercial activities + 10% exempt activities)
+
+= $2,160 (maximum CCA deductible)
+
+* In the year of acquisition, the individual can deduct one-half of the CCA deductible.
+
+** The passenger vehicle is a class 10 asset, depreciable at a rate of 30% (declining balance).
+
+**Step no. 2 – Calculation of maximum ITC available**
+
+5/105 × $2,160 (CCA) × [70% use in commercial activities ÷ 80% use (70% commercial activities + 10% exempt activities) for CCA purposes]
+
+= .0476 × $2,160 × 0.875
+
+= $89.96 (maximum ITC available for the year)
+
+Ceasing use of passenger vehicle or aircraft - deemed acquisition ss 203(2) and 202(5)
+
+41. Where a GST/HST registered individual or partnership that changes the use of its passenger vehicle or aircraft from exclusive use in commercial activities to non-exclusive use in commercial activities, the registrant is deemed to have made a taxable supply by way of sale and to have collected tax equal to the basic tax content of the passenger vehicle or aircraft at that time. Furthermore, the registrant is deemed to have acquired the vehicle or aircraft and to have paid tax at the time the change of use occurs. As a result, the individual or partnership will be required at that time to follow the CCA-based method for calculating the ITC on its passenger vehicle or aircraft pursuant to subsection 202(4). More information on basic tax content will be available in GST/HST Memorandum 8.3, *Calculating Input Tax Credits*.
+
+## Leased passenger vehicles
+
+Lease intervals and passenger vehicles ss 136.1(1) and 235(1)
+
+42. Generally, the GST/HST paid or payable by a registrant in respect of a lease payment for a passenger vehicle can be claimed as an ITC provided the vehicle is used in commercial activities and all other ITC requirements are satisfied. The registrant is deemed to have received a separate supply for each lease interval, and may therefore claim an ITC for each of these intervals. However, to the extent that the lease amounts exceed the maximum lease costs that are deductible for income tax purposes, the ITC equal to the GST/HST paid or payable on the excess is recaptured in the appropriate reporting period in a taxation year of the registrant. This treatment is analogous to the capital cost limitations in section 201 of the Act in that it also limits the amount of the ITCs allowed in respect of a passenger vehicle but in circumstances where the vehicle is leased rather than purchased by the registrant.
+
+Deductible limits for income tax purposes
+
+43. For income tax purposes, the deductibility of leasing costs associated with a passenger vehicle cannot exceed the lesser of two amounts determined by the following formulas under section 67.3 of the *Income Tax Act*:
+
+- paragraph 67.3(c) establishes a maximum amount deductible based on a leasing cost of $800 plus the applicable GST/HST and provincial sales tax (or such other amount as may be prescribed) for a 30-day period;
+
+- paragraph 67.3(d) calculates the proportion of the actual lease costs paid that would be attributable to a vehicle having a capital cost of $30,000 plus the applicable GST/HST and provincial sales tax (or such other amount as may be prescribed).
+
+44. The maximum leasing costs set out in these formulas are established annually by regulation. To determine the maximum deductible limits for lease agreements entered into prior to 2001, contact the nearest CRA tax services office. For information on how to calculate the maximum lease costs allowed under section 67.3 of the *Income Tax Act*, refer to Interpretation Bulletin IT521R, [Motor Vehicle Expenses Claimed by Self-Employed Individuals](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it521r.html).
+
+45. The recapture of the ITC in respect of leased passenger vehicles in a taxation year is provided by way of an adjustment to net tax. As an alternative, registrants may, when filing their GST/HST returns, include a claim for an ITC based on the maximum leasing costs deductible for *Income Tax Act* purposes, and thereby eliminate the requirement to recapture the ITC.
+
+Appropriate reporting periods ss 235(2)
+
+46. For purposes of the rule described in paragraph 43, the appropriate reporting period of a registrant in respect of a supply by way of lease to the registrant of a passenger vehicle in a taxation year of the registrant is:
+
+- where the registrant ceases to be registered for the GST/HST in or at the end of that taxation year, the last reporting period of the registrant in that year;
+
+- where the reporting period of the registrant in that taxation year is that taxation year, that reporting period; and
+
+- in any other case, the reporting period of the registrant that begins immediately after that taxation year.
+
+Personal use of leased passenger vehicle
+
+47. Subject to the threshold restrictions set out in paragraph 44 and subject to the restrictions in paragraphs 170(1)(b) and (c), a registrant is entitled to claim a full ITC on any GST/HST paid or payable on the lease of a passenger vehicle (and on its operating costs) used exclusively in its commercial activities notwithstanding that the passenger vehicle may be made available to an employee for personal use. This is because the employee's personal use of the vehicle is regarded as part of the registrant's commercial activities. However, any related employee benefit reported for income tax purposes (such as a standby charge or automobile operating cost benefit) is subject to the GST/HST under subsection 173(1) of the Act. Detailed information on this topic will be available in Chapter 9, *ITCs: Taxable Benefits, Allowances and Reimbursements,* of the GST/HST Memoranda Series.
+
+In January 2008, a GST/HST registered corporation leases a passenger vehicle for $750 per month. The leased passenger vehicle is used 46% in the registrant's commercial activities, 9% in its exempt activities, and 45% for its employee's personal use. Since the commercial use portion of the vehicle is equal to 91% (46% commercial activities plus 45% personal use), the registrant is entitled to claim a full ITC on the GST/HST payable on the lease payments. Where the monthly lease payments are below the deductible limit for income tax purposes, the registrant will not be required to recapture any ITCs claimed in its first reporting period following the taxation year. However, subsection 173(1) may apply if a related standby charge or automobile operating cost benefit is included in computing the employee's income for income tax purposes.
+
+Net tax where passenger vehicle is leased ss 235(1)
+
+48. Where the leasing costs exceed the consideration deductible for income tax purposes, the registrant must calculate its adjustment to net tax for GST/HST purposes based on the formula
+
+A × B × C
+
+where
+
+A is the ratio obtained by dividing the excess consideration (i.e., the consideration not deductible because of section 67.3 of the *Income Tax Act*) by the amount of the total consideration for the supply that would be deductible for income tax purposes in the absence of section 67.3 of the *Income Tax Act*;
+
+B is
+
+1. if the registrant is a selected listed financial institution in the appropriate reporting period, the tax paid or payable under any of subsection 165(1) and sections 212 and 218 in respect of that consideration (other than tax that, by reason of section 170, may not be included in determining an ITC of the registrant), and
+
+2. in any other case, the tax paid or payable in respect of that consideration (other than tax that, by reason of section 170, may not be included in determining an ITC of the registrant); and
+
+C is the proportion of the total use of the passenger vehicle that is use in commercial activities of the registrant.
+
+On February 1, 2008, a registrant (a quarterly filer) begins to lease a passenger vehicle for use exclusively in its commercial activities at a cost of $1,000 per month (plus 5% GST). The registrant's taxation year is the calendar year. The registrant claims an ITC in the amount of $150 representing the GST payable in respect of the vehicle for the last reporting period of the registrant's taxation year (i.e., 3 months × $50/month). Assume that the maximum consideration deductible for the lease payments under section 67.3 of the *Income Tax Act* for the 2008 taxation year is $2400. In the first quarterly return of the following taxation year, the registrant will be required to add, when determining its net tax, the following 5% GST amount in respect of the passenger vehicle:
+
+A × B × C
+
+= [($3,000* – $2,400**) ÷ $3,000*] × $150 × 100%
+
+= $30.00 (ITC recapture / net tax addition)
+
+* 3 months × $1,000/month (consideration payable on the lease)
+
+**(maximum amount of consideration deductible for income tax purposes).
+
+Further information
+
+49. Detailed information on the treatment of passenger vehicles and vehicle leases will be available in Chapter 11, *ITCs – Capital Personal Property*, and Chapter 12, *ITC Adjustments*, respectively of the GST/HST Memoranda Series.
+
+## Food, beverages and entertainment expenses
+
+General recapture rule ss 236(1)
+
+50. Registrants may claim ITCs in respect of the tax paid or payable for food, beverages or entertainment expenses, including those of employees, partners and volunteers during the reporting period in which they are incurred. However, the registrant must make an adjustment in the appropriate reporting period to recapture 50% of the ITCs previously claimed on those expenses. Paragraph 55 explains the meaning of the term “appropriate reporting period” for purposes of this provision. This parallels the treatment of meals and entertainment expenses for income tax purposes where subsection 67.1(1) of the *Income Tax Act* applies.
+
+Meal expenses of truck drivers ss 236(1)
+
+51. Under an amendment to subsection 236(1), as a result of amendments to section 67.1 of the *Income Tax Act,* there is a new rate of recapture of ITCs claimed by a person in respect of food and beverages consumed by a long-haul truck driver during the driver's eligible travel period (as those terms are defined in section 67.1 of the *Income Tax Act)*. The proportion of ITCs claimed by the driver that are recaptured will decrease as the deductible portion of long-haul truck driver meal expenses increases for income tax purposes.
+
+Rates of recapture
+
+52. The rate of recapture of ITCs claimed by a person in respect of food and beverages consumed by a long-haul truck driver during an eligible travel period will be:
+
+- 40%, for tax in respect of the supply that becomes payable, or is paid without having become payable, after March 19, 2007, and before 2008 where no allowance or reimbursement is paid in respect of the supply, or for allowances or reimbursements paid after March 19, 2007, and before 2008 in respect of the supply;
+
+- 35%, for tax in respect of the supply that becomes payable, or is paid without having become payable, in 2008 where no allowance or reimbursement is paid in respect of the supply, or for allowances or reimbursements paid in 2008 in respect of the supply;
+
+- 30%, for tax in respect of the supply that becomes payable, or is paid without having become payable, in 2009 where no allowance or reimbursement is paid in respect of the supply, or for allowances or reimbursements paid in 2009 in respect of the supply;
+
+- 25%, for tax in respect of the supply that becomes payable, or is paid without having become payable, in 2010 where no allowance or reimbursement is paid in respect of the supply, or for allowances or reimbursements paid in 2010 in respect of the supply; and
+
+- 20%, for tax in respect of the supply that becomes payable, or is paid without having become payable, after 2010 where no allowance or reimbursement is paid in respect of the supply, or for allowances or reimbursements paid after 2010 in respect of the supply.
+
+Meaning of entertainment para 67.1(4)(b) of the *Income Tax Act* and IT-518R
+
+53. The term “entertainment” includes amusement and recreation. Interpretation Bulletin IT-518R, [Food, Beverages and Entertainment Expenses](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it518r.html) states that entertainment expenses include the following:
+
+- the cost of tickets for a theatre, concert, athletic event, or other performance;
+
+- the cost of private boxes at sports facilities;
+
+- the cost of room rentals to provide entertainment such as a hospitality suite;
+
+- the cost of a cruise;
+
+- the cost of admission to a fashion show; and
+
+- the cost of entertaining guests at nightclubs, athletic, social, and sporting clubs and on vacation and other similar trips.
+
+Expenses such as taxes, gratuities and cover charges related to the above listed entertainment expenses are also subject to the 50% limitation (for both income tax and GST/HST purposes).
+
+Determination of net tax adjustment
+
+54. The recapture rule and the formula below determine the amount of the ITC recapture. Specifically, subsection 236(1) states that if
+
+1. an amount referred to as a composite amount
+
+    1. becomes due from a person, or is paid without having become due, in respect of a supply of property or a service made to the person, or
+
+    2. is paid by a person as an allowance or reimbursement in respect of which the person is deemed under section 174 or 175 of the Act to have received a supply of property or a service,
+
+2. one or both of the following situations applies:
+
+    1. subsection 67.1(1) of the *Income Tax Act*applies, or would apply, if the person were taxpayer under that Act, to all of the composite amount or that part of it that is, for the purposes of that Act, an amount (other than an amount to which subsection 67.1(1.1) of that Act applies) paid or payable in respect of the human consumption of food or beverages or the enjoyment of entertainment and section 67.1 of that Act deems the composite amount or that part to be 50% of a particular amount, and
+
+    2. subsection 67.1(1.1) of that Act applies, or would apply, if the person were a taxpayer under that Act, to all of the composite amount or that part of it that is, for the purposes of that Act, an amount paid or payable in respect of the consumption of food or beverages by a long-haul truck driver during the driver's eligible travel period (as those terms are defined in section 67.1 of that Act) and section 67.1 of that Act deems the composite amount or that part to be a percentage of a specified particular amount, and
+
+3. tax included in the composite amount or deemed under section 174 or 175 of the Act to have been paid by the person is included in determining an ITC in respect of the property or service that is claimed by the person in a return for a reporting period in a fiscal year of the person,
+
+the person shall, in determining its net tax for the appropriate reporting period, add the amount determined by the formula (Note: this formula applies to registrants who fall under **subparagraph 54(b)(i)** above)
+
+50% × A/B × C
+
+where
+
+A is in the case where **subparagraph 54(b)(i)** applies, the particular amount, B is the composite amount, and C is the ITC.
+
+OR
+
+Recapture formula for long-haul truck drivers
+
+the formula (Note: this formula applies to registrants who fall under **subparagraph 54(b)(ii)** above)
+
+40% × D/B × C
+
+where
+
+B is the composite amount, C is the ITC, and D is in the case where **subparagraph 54(b)(ii)** applies, the specified particular amount*.
+
+* 40% after March 18, 2007, and before 2008; 35% for 2008; 30% for 2009; 25% for 2010; 20% after 2010.
+
+Appropriate reporting period ss 236(1.1)
+
+55. There are timing rules that identify the return in which the ITC recapture in respect of meals or entertainment must be reported. Where a person is required to add, in determining the person's net tax, an amount determined by reference to an ITC claimed by the person in a return for a reporting period in a fiscal year of the person in respect of a supply of food, beverages and entertainment, the appropriate reporting period of the person is:
+
+1. where the person ceases to be registered for the GST/HST in a reporting period ending in that fiscal year, that reporting period;
+
+2. where that fiscal year is the person's reporting period, that reporting period; and
+
+3. in any other case, the first reporting period of the person following that fiscal year.
+
+In March 2008, during the course of its commercial activities, a registrant (monthly filer with a fiscal year-end of November 30) incurs food, beverages and entertainment expenses in the amount of 150 plus 5% GST ($7.50) and 8% provincial sales tax ($12). The registrant also leaves a tip or gratuity in the amount of $21, bringing the total expense to $190.50. For income tax purposes, the total amount of the expense is subject to the restriction under subsection 67.1(1) of the *Income Tax Act*. The registrant claims an ITC equal to the full amount of the GST paid ($7.50). Referring to the rule in paragraph 50, the registrant will be required to add the following amount to its net tax in respect of the food, beverages and entertainment expense in its return for December 2008:
+
+50% × A/B × C
+
+50% × ($190.50/$190.50) × $7.50
+
+= $3.75
+
+56. As an alternative to recapturing the ITC, registrants may choose to limit their ITC claims for food, beverages and entertainment expenses to the percentage that is not required to be recaptured in the reporting period in which they occur.
+
+Unreasonable amounts ss 236(1.2)
+
+57. Where the GST/HST calculated on an amount (referred to as “unreasonable consideration”) that is all or part of the total amount that becomes due from a person, or is paid without becoming due, in respect of a supply of property or a service made to the person is, because of subsection 170(2), not to be included in determining an ITC for purposes of subsection 236(1), that total amount is deemed to be the amount, if any, by which it exceeds the total of the unreasonable consideration and all gratuities, and taxes, duties or fees that are paid or payable in respect of the unreasonable consideration.
+
+58. This ensures the correct ITC recapture in respect of an expense partly attributable to food, beverages or entertainment when all or part of the expense is found to be unreasonable in the circumstances under subsection 170(2). In this case, the GST/HST calculated on the unreasonable amount is excluded from the calculation of the related ITC. Therefore, the amount that becomes due from a person (or that is paid without becoming due) for purposes of subsection 236(1) is reduced by the unreasonable consideration plus all gratuities, and taxes, duties or fees, if any, in respect of such consideration.
+
+Application ss 236(1) and (1.2)
+
+59. Subsections 236(1) and (1.2) apply in the case of an amount that becomes due or is paid without having become due in respect of a supply of food, beverages or entertainment and in the case of reimbursements or allowances in respect of a supply of food, beverages or entertainment, for the purpose of determining net tax for reporting periods ending after October 8, 1998. In all other cases, they apply only to amounts that become due, or are paid without having become due, after October 8, 1998.
+
+Exceptions to the recapture rule
+
+60. Subsection 236(1) does not apply to an amount paid or payable by a person in respect of food, beverages and entertainment where:
+
+- the person is a charity or public institution; or
+
+- subsection 67.1(2) or (4) of the *Income Tax Act* applies.
+
+61. Subsection 67.1(2) of the *Income Tax Act* lists the following exceptions to the limitations discussed in subsection 67.1(1) of that Act with respect to expenses in respect of food, beverages and entertainment:
+
+- purchased for re-supply by certain businesses;
+
+- purchased for charitable fund-raising events;
+
+- expenditures for which specific compensation is received;
+
+- amounts required to be included in the income of an employee (i.e., taxable benefit); and
+
+- in respect of one of six or fewer special events held in a calendar year where all employees are invited (e.g., annual festivals, a Christmas party).
+
+Remote location para 67.1(2)(d) and subpara 6(6)(a)(ii) of the *Income Tax Act*
+
+62. Amounts that are payable for meals or meal allowances at remote work sites, which constitute non-taxable benefits in the hands of an employee because of subparagraph 6(6)(a)(ii) of the *Income Tax Act* are exempted by paragraph 67.1(2)(d) of that act from the 50% limitation on deductibility contained in subsection 67.1(1). The term “remote location” means a location at which, by virtue of its remoteness from any established community, the taxpayer could not reasonably be expected to establish and maintain a self-contained domestic establishment.
+
+Special work site subpara 6(6)(a)(i) of the *Income Tax Act*
+
+63. Paragraph 67.1(2)(e) of the *Income Tax Act* extends the exemption from subsection 67.1(1) to expenses paid in respect of work at certain special work sites. This applies to expenses incurred after February 23, 1998. The term “special work site” means a location at which the duties performed by an individual are of a temporary nature, if the individual maintained at another location a self-contained domestic establishment as their principal place of residence that was, throughout the period, available for the individual's occupancy and not rented to any other person, and to which, by reason of distance, the individual could not reasonably be expected to have returned daily from the special work site.
+
+Travel status ss 67.1(4) of the *Income Tax Act*
+
+64. No amount paid or payable for travel on an airplane, train or bus is considered to be for food, beverages or entertainment. Accordingly, meals and beverages served and entertainment provided while travelling on these vehicles are not subject to the 50% limitation if the cost of meals, beverages and entertainment are included in the travel fee. Consequently, there is no requirement to adjust the net tax under subsection 236(1) in respect of ITCs previously claimed where the supply of travel was acquired in the course of the commercial activities of the registrant.
+
+Convention fees ss 67.1(3) of the *Income Tax Act*
+
+65. In circumstances where fees are paid for conventions where no amount has been determined for food, beverages or entertainment, for each day that the individual is entitled to these benefits, $50 (or such other amount as prescribed) is deemed to be paid for food, beverages or entertainment. Subsection 236(1) of the Act is, therefore, applicable to an ITC claimed on the $50 per diem.
+
+66. Although subsection 20(10) of the *Income Tax Act* provides that taxpayers can deduct expenses incurred in attending only two conventions per year, there is no similar provision in the Act that restricts claiming ITCs on convention expenses. Therefore, the registrant is entitled to claim ITCs on convention expenses as long as the requirements for claiming ITCs under the Act are met. However, the recapture rules in subsection 236(1) of the Act apply to every convention at which food, beverages and entertainment are provided, and for which the registrant claimed an ITC.
+
+Further information
+
+67. Further information respecting ITCs for food, beverages and entertainment will be available in Chapter 12, *ITC Adjustments,* of the GST/HST Memoranda Series.
+
+**Enquiries**
+
+If you wish to make a technical enquiry on the GST/HST by telephone, please call one of the following toll-free numbers:
+
+1-800-959-8287 (English service) 1-800-959-8296 (French service)
+
+General enquiries about the GST/HST should be directed to Business Enquiries at one of the following toll-free numbers:
+
+1-800-959-5525 (English service) 1-800-959-7775 (French service)
+
+If you are in the Province of Quebec, please call the following toll-free number:
+
+1-800-567-4692 (Revenu Québec)
+
+All GST/HST Technical Information Bulletins, as well as other publications, are available in the CRA Web site [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).

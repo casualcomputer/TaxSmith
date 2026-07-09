@@ -1,0 +1,516 @@
+---
+title: "Income Tax Guide to the Non-Profit Organization (NPO) Information Return"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4117/income-tax-guide-non-profit-organization-information-return.html
+last_modified: 2020-02-28
+---
+# Income Tax Guide to the Non-Profit Organization (NPO) Information Return
+
+T4117(E) Rev. 19
+
+Our publications and personalized correspondence are available in braille, large print, e-text, or MP3 for those who have a visual impairment. Find more information at [Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html) or call **1-800-959-5525**.
+
+Unless otherwise stated, all legislative references are to the Income Tax Act and the Income Tax Regulations.
+
+This guide uses plain language to explain the most common tax situations. It is provided for information only and does not replace the law.
+
+## Table of contents
+
+- [Is this guide for you?](#guide_for_you)
+
+- [Chapter 1 – General information](#C1)
+
+    - [What is a non-profit organization?](#C1_NPO)
+
+    - [What is an agricultural organization?](#C1_agricultural)
+
+    - [What is a board of trade or a chamber of commerce?](#C1_trade)
+
+    - [Distinguishing a non-profit organization from a charity](#C1_charity)
+
+    - [Does the organization you represent have to file a Non-Profit Organization (NPO) Information Return?](#C1_NPO_return)
+
+    - [When does an organization have to file its annual return?](#C1_annual_return)
+
+    - [Asking us to acknowledge your return](#C1_acknowledge_return)
+
+    - [Making changes to your return](#C1_change_return)
+
+    - [Authorizing a representative](#C1_representative)
+
+    - [Reviews and audits](#C1_reviews_audits)
+
+    - [Keeping records](#Keepingrecords)
+
+- [Chapter 2 – How to complete the NPO Information Return](#C2)
+
+    - [Part 1 – Identification](#C2_P1)
+
+    - [Part 2 – Amounts received during the fiscal period](#C2_P2)
+
+    - [Part 3 – Statement of assets and liabilities at the end of the fiscal period](#C2_P3)
+
+    - [Part 4 – Remuneration](#C2_P4)
+
+    - [Part 5 – The organization's activities](#C2_P5)
+
+    - [Part 6 – Location of books and records](#C2_P6)
+
+    - [Part 7 – Certification](#C2_P7)
+
+- [For more information](#fr_mr_nfrmtn)
+
+    - [What if you need help?](#wht_f_y_nd_hlp)
+
+    - [Forms and publications](#frms_pblctns)
+
+    - [Electronic mailing lists](#Electronic_mailing)
+
+    - [Teletypewriter (TTY) users](#tty)
+
+    - [Service-related complaints](#Service_complaint)
+
+    - [Formal disputes (objections and appeals)](#frmldspts)
+
+    - [Reprisal complaints](#reprisalcomplaints)
+
+## Is this guide for you?
+
+This guide is for you if you represent an organization that is:
+
+- a non-profit organization (NPO) as described in paragraph 149(1)(l) of the [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/)
+
+- an agricultural organization, a board of trade, or a chamber of commerce as described in paragraph 149(1)(e) of the Act.
+
+## Chapter 1 – General information
+
+### What is a non-profit organization?
+
+An NPO, as described in paragraph 149(1)(l), is a club, society, or association **that is not a charity**and that is organized and operated solely for:
+
+- social welfare
+
+- civic improvement
+
+- pleasure or recreation
+
+- any other purpose except profit
+
+To be considered an NPO, no part of the income of such an organization can be payable to or available for the personal benefit of any proprietor, member, or shareholder, unless the proprietor, member, or shareholder is a club, society, or association whose primary purpose and function is to promote amateur athletics in Canada.
+
+An NPO is exempt from tax under Part I of the Act on all or part of its taxable income for a fiscal period if it meets all of the above requirements for that period.
+
+Although a factual determination must be made in each case, most residential condominium corporations qualify as non-profit organizations under paragraph 149(1)(l) because they are usually operated for a purpose other than profit.
+
+For more information on whether the organization qualifies as an NPO described in paragraph 149(1)(l), see [Interpretation Bulletin IT-496R, Non-Profit Organizations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it496r.html).
+
+### What is an agricultural organization?
+
+For the purpose of paragraph 149(1)(e), an agricultural organization is an entity organized and operated for one or more of the following purposes:
+
+- the advancement or furtherance of agriculture
+
+- the betterment of the conditions of those engaged in agricultural pursuits
+
+- the improvement of the grade or quality of their pursuits
+
+- the development of a higher degree of efficiency in their respective occupations
+
+### What is a board of trade or a chamber of commerce?
+
+A board of trade or a chamber of commerce is generally an association to promote local commercial interests.
+
+You should use this guide if the organization you represent falls into one of the categories of organizations described at the beginning of this chapter. This guide includes general information about [Form T1044, Non-Profit Organization (NPO) Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1044.html), as well as step-by-step instructions on how to complete it.
+
+### Distinguishing a non-profit organization from a charity
+
+An NPO cannot be a charity, as defined in the [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/). There are differences between these types of organizations.
+
+Under the Act, a charity can apply to the Canada Revenue Agency for registration. Once accepted, a registered charity is exempt from income tax under paragraph 149(1)(f). The charity can then issue charitable donation receipts for tax purposes.
+
+An NPO does not have to register federally or provincially to acquire its tax-exempt status. An NPO cannot issue tax receipts for donations or membership fees contributed.
+
+A charity, whether or not it is registered, cannot be an NPO under the Act.
+
+For more information about registered charities, go to [Charities and giving](https://www.canada.ca/en/services/taxes/charities.html).
+
+### Does the organization you represent have to file a Non-Profit Organization (NPO) Information Return?
+
+Under subsection 149(12), an organization may have to file [Form T1044, Non-Profit Organization (NPO) Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1044.html) for a fiscal period ending after December 31, 1992, if it is:
+
+- a non-profit organization described in paragraph 149(1)(l)
+
+- an agricultural organization, a board of trade or a chamber of commerce described in paragraph 149(1)(e)
+
+However, the organization will only have to file an NPO information return if:
+
+- it received or was entitled to receive taxable dividends, interest, rentals, or royalties totalling more than $10,000 in the fiscal period
+
+- the total assets of the organization were more than $200,000 at the end of the immediately preceding fiscal period (the amount of the organization's total assets is the book value of these assets calculated using generally accepted accounting principles)
+
+- it had to file an NPO information return for a previous fiscal period
+
+Corporations operating only to provide **low-cost housing for the aged,** where no income is payable to or available for the personal benefit of any proprietor, member, or shareholder, do not have to file form T1044. Subsection 149(12) does not apply in such cases, since these corporations are exempt from Part I tax under paragraph 149(1)(i).
+
+Registered charities, registered Canadian amateur athletic associations, and registered national arts service organizations do not have to file form T1044.
+
+When calculating whether or not you have to file an NPO information return, you should only include the amounts your organization received or was entitled to receive in the form of taxable dividends, interest, rentals or royalties in the fiscal period.
+
+Once an organization has filed an NPO information return for a fiscal period, it must file an information return for all subsequent fiscal periods, as long as it remains an NPO and regardless of the dollar value of its revenues or the book value of its assets in those later years.
+
+**Q.** XYZ Ltd. is an NPO. At the end of its previous fiscal period it had total assets with a book value of $350,000, and it had received rental income of $7,000. At the end of its current fiscal period, the book value of its total assets decreased to $198,000, and its rental income decreased to $3,500. Does XYZ Ltd. have to file an NPO information return?
+
+**A.** Yes. XYZ Ltd. will have to file the NPO information return for its current fiscal period based on the book value of its total assets in the previous fiscal period. Since its total assets in that period were more than $200,000, XYZ Ltd. has to file the NPO information return for the current fiscal period **and all future fiscal periods**.
+
+A fiscal period is the period for which an organization's accounts have been prepared. In the case of a corporation, the fiscal period cannot be more than 53 weeks and, in any other case, it cannot be more than 12 months.
+
+An organization that has to file an NPO information return may also have to file other returns such as a [T2 – Corporation Income Tax Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2.html), a [T2 Short Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2short.html), or a [T3 – Trust Income Tax and Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ret.html). For more information on how to file these returns, see guides [T4012, T2 Corporation – Income Tax Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012.html), and [T4013, T3 – Trust Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013.html).
+
+A corporation generally has to file a T2 – Corporation Income Tax Return, or a T2 Short Return, even though it may be an NPO. If an organization's main purpose is to provide dining, recreational, or sporting facilities, then the property of the organization is deemed to be held by a trust and a T3 – Trust Income Tax and Information Return must be filed. The deemed trust will be taxable on the income earned from property as well as on the taxable capital gains on the disposition of property, held in the deemed trust, and not used to provide such services.
+
+For information on returns that certain clubs, societies or associations may have to file, see [Interpretation Bulletin IT-83R3, Non-Profit Organizations – Taxation of income from property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it83r3.html).
+
+An NPO does not have to include financial statements with the NPO information return.
+
+If your organization is involved in one or more activities, the amounts you have to report on the NPO information return will include total receipts, assets, liabilities, and remuneration related to all activities.
+
+### When does an organization have to file its annual return?
+
+An organization has to file its NPO information return no later than six months after the end of its fiscal period.
+
+Mail your return to:
+
+Jonquière Tax Centre T1044 Program PO Box 1300 LCD Jonquière Jonquière QC G7S 0L5
+
+The organization you represent may have more than one fiscal period ending in a 12-month period (or a 53-week period for corporations). In this case, the organization has to file the NPO information return for each of these periods, no matter how long they are.
+
+If the organization has to file an NPO information return and fails to do so on time, the basic penalty is $25 per day late. There is a minimum penalty of $100 and a maximum of $2,500 for each failure to file. We can waive penalties if you file the NPO information return late because of extraordinary circumstances beyond your control. If this happens, include a letter with the return giving the reasons why the return is late. If you need more information, see [Information Circular IC07-1R1, Taxpayer Relief Provisions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic07-1.html).
+
+### Asking us to acknowledge your return
+
+If you would like us to acknowledge the receipt of your NPO information return, include two copies of a letter with the return asking us for acknowledgement. We will date-stamp the letters and return one copy to you.
+
+We will only send a notice of assessment if we have to charge a penalty to the organization for late filing or failure to file.
+
+### Making changes to your return
+
+If you want to change your NPO information return, send us a letter with an explanation of the changes you want to make, fill out a new return, or make corrections on a photocopy of the original return. Make sure you include all of the same information that was on the original return except for the lines that you are changing. Clearly print the word “AMENDED” at the top of page 1 and send the letter or the amended return to:
+
+Jonquière Tax Centre T1044 Program PO Box 1300 LCD Jonquière Jonquière QC G7S 0L5
+
+### Authorizing a representative
+
+The information you give us will stay confidential under the Privacy Act; however, you can authorize a representative to discuss the organization's affairs with us.
+
+If your organization has a business number and is registered for the [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) online service, you can immediately authorize a representative to deal with us on your behalf by using the “Authorize or manage representatives” service at [My business account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html).
+
+Using the My Business Account service, you can also view a list of representatives we have on record for your business account(s), and change or cancel their authorization.
+
+A representative of an organization that has a business number can now:
+
+- submit authorization requests online
+
+- delete authorizations online
+
+Representatives can access these new services at [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html).
+
+### Reviews and audits
+
+Our authorized officials may conduct in-depth reviews or audits of the information returns that the organization files as well as its books and records.
+
+To prepare for such reviews and audits, the organization has to keep detailed books and records allowing us to verify amounts reported on a return.
+
+[Guide RC4188, What you should know about audits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4188.html), contains more information on the audit process.
+
+### Keeping records
+
+Keep your paper and electronic records for a period of six years from the end of the last tax year to which they relate. However, if you want to destroy them before the period is over, complete [Form T137, Request for Destruction of Records](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t137.html).
+
+For more information, go to [Keeping Records](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/keeping-records.html).
+
+## Chapter 2 – How to complete the NPO Information Return
+
+The information in this section follows the order of the lines on the return, which is divided into the following seven parts:
+
+Part 1 – Identification Part 2 – Amounts received during the fiscal period Part 3 – Statement of assets and liabilities at the end of the fiscal period Part 4 – Remuneration Part 5 – The organization's activities Part 6 – Location of books and records Part 7 – Certification
+
+**You have to complete all parts of the return that apply to the organization.**
+
+### Part 1 – Identification
+
+#### Fiscal period
+
+Enter the dates on which the fiscal period covered by this return began and ended.
+
+#### Business number (BN)
+
+If the organization has a BN, enter it in the space provided. If you do not have a BN and want to register for one, go to [Business Registration Online](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/registering-your-business/business-registration-online-overview.html).
+
+#### Name and address of organization
+
+Enter the full name and address of the organization as it was registered with the CRA when you received your business number.
+
+#### Trust (T3) number
+
+If the organization has a trust (T3) number, enter it in the space provided.
+
+A trust (T3) number is generally assigned after you file the first [T3 Trust Income Tax and Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ret.html).
+
+#### Is this the final return to be filed by this organization?
+
+Tick the appropriate box. Attach an explanation to the return if the organization no longer exists and this is the final return.
+
+#### Type of organization
+
+Enter the two-digit code that best describes the organization. The codes and types of organizations are as follows:
+
+| Code | Type of organization |
+
+| --- | --- |
+
+| 01 | Recreational or social organization |
+
+| 02 | Professional association |
+
+| 03 | Board of trade or chamber of commerce |
+
+| 04 | Organization operated for civic improvement |
+
+| 05 | Agricultural organization |
+
+| 06 | Educational organization |
+
+| 07 | Multicultural organization |
+
+| 08 | Arts or cultural organization |
+
+| 09 | Low-cost housing organization |
+
+| 10 | Residential condominium corporation |
+
+| 30 | Other |
+
+#### Name and title of person to contact
+
+If you want us to send correspondence to an individual's attention, include their full name and title in the space provided.
+
+### Part 2 – Amounts received during the fiscal period
+
+If the organization prepares its financial statements using the accrual method, you can report amounts on lines 100 to 106 using this method.
+
+#### Line 100 – Membership dues, fees, and assessments
+
+Report the total amount of membership dues, fees, and assessments the organization received from members in the fiscal period. For example, report club memberships, professional association dues, or membership fees.
+
+#### Line 101 – Federal, provincial, and municipal grants and payments
+
+Report the total amount of grants or payments the organization received from any level of government or governmental agency in the fiscal period. For example, include grants to assist agriculture and industry, or grants to promote the arts.
+
+#### Line 102 – Interest, taxable dividends, rentals, and royalties
+
+##### Interest
+
+Report the total interest the organization received for the fiscal period. For example, include interest from bank accounts, mortgages, bonds, or loans. Also include interest received from non-arm's length transactions. Include these amounts whether or not your organization received an information slip for this income.
+
+##### Taxable dividends
+
+Report the amount of taxable dividends the organization received from:
+
+- corporations residing in Canada
+
+- foreign corporations not residing in Canada
+
+##### Rentals
+
+Report the total receipts from property rentals the organization received in the fiscal period. Do not deduct related rental expenses.
+
+##### Royalties
+
+Report the total royalties the organization received during the fiscal period. For example, report royalties from publications, music, oil, and gas.
+
+Report the full amount of all foreign interest, taxable dividends, rental receipts, and royalties that the organization received in the fiscal period. Report these amounts in Canadian dollars, converted at the rate of exchange in effect when the organization received the amounts. Do not deduct any tax that was already deducted at source from these amounts.
+
+The ABC Tennis Association is an NPO. The following transactions occurred during the current fiscal period:
+
+- It received $2,000 in interest from term deposits
+
+- It received taxable dividends of $2,200 from XYZCorporation, a corporation residing in Canada
+
+- It received $500 in taxable dividends from MNO, a foreign corporation. MNO withheld $120 in tax at source. The amounts received and withheld were converted to Canadian dollars based on the exchange rate in effect on the date the organization received the taxable dividends
+
+- It received a total of $6,200 in rental receipts. The related rental expenses amounted to $3,600
+
+- It received $3,350 in royalties from one of its publications
+
+The total amount that the organization should report on line 102 is:
+
+| Description | Amount |
+
+| --- | --- |
+
+| Interest | $2,000 |
+
+| Taxable dividends from a corporation residing in Canada | $2,200 |
+
+| Taxable dividends received from a foreign corporation($500 + $120) | $620 |
+
+| Rental | $6,200 |
+
+| Royalties | $3,350 |
+
+| **Total** | $14,370 |
+
+The total amount that the ABC Tennis Association received or was entitled to receive from interest, taxable dividends, rentals, and royalties is $14,370. This is more than the $10,000 filing requirement. Therefore, ABC has to file [Form T1044, Non Profit Organization (NPO) Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1044.html), for the current fiscal period, **and all future fiscal periods**.
+
+This example is provided only for purposes of outlining a numerical calculation. An organization with this level and type of income may not qualify as an NPO, or may be subject to tax on its property income under subsection 149(5).
+
+#### Line 103 – Proceeds of disposition of capital property
+
+Report any proceeds of disposition the organization received. Generally, the proceeds of disposition are equal to the selling price on the date of the sale. However, the proceeds can also include compensation the organization received for property that was destroyed, expropriated, stolen, or damaged. If the proceeds of disposition are not money, use the fair market value of the goods or services you received on the date of the sale as the proceeds of disposition. Examples of capital properties include land, buildings, securities, and works of art.
+
+#### Line 104 – Gross sales and revenues from organizational activities
+
+Report sales and revenues received in the fiscal period from all organizational activities. Include such amounts as sales and revenues from programs, services, and special events. Do not deduct any related expenses.
+
+#### Line 105 – Gifts
+
+Report the total amount of gifts the organization received during its fiscal period. These include gifts:
+
+- from foreign sources
+
+- of capital received from a bequest or inheritance
+
+- subject to a trust
+
+- from other organizations
+
+#### Line 106 – Other receipts (specify)
+
+Report any other amount the organization received in the fiscal period on line 106. Specify in the space provided the nature of the amount you are reporting.
+
+### Part 3 – Statement of assets and liabilities at the end of the fiscal period
+
+#### Assets
+
+Record all the organization's assets (other than cash or amounts receivable) based on their cost. If you use another method of accounting, please tell us the method you have used.
+
+If the organization uses the accrual method, report amounts on lines 108 to 119 where they apply.
+
+#### Line 108 – Cash and short-term investments
+
+Report the total amount of the organization's cash and short-term investments that are on hand at the end of the organization's fiscal period. Cash includes cash on hand and cash deposits. Short term investments include treasury bills and term deposits. We consider any investment that has a maturity period of one year or less to be a short-term investment.
+
+#### Line 109 – Amounts receivable from members
+
+Report the total funds owing to the organization from members at the end of the organization's fiscal period. Include such amounts as loans, mortgages, and amounts connected to the sale of the organization's goods and services to these people.
+
+#### Line 110 – Amounts receivable from all others (not included on line 109)
+
+Report the total funds owing to the organization from all persons other than members at the end of the organization's fiscal period. Include such amounts as loans, mortgages, and amounts connected to the sale of goods and services. **Do not include the amounts you reported on line 109**.
+
+#### Line 111 – Prepaid expenses
+
+Report the total amount of all prepaid expenses at the end of the organization's fiscal period. Include such amounts as prepaid rent and prepaid insurance.
+
+#### Line 112 – Inventory
+
+Report the cost of all goods on hand at the end of the organization's fiscal period, including work in progress. Do not include supplies or other items not regularly offered for sale.
+
+#### Line 113 – Long-term investments
+
+Report the total cost of long-term investments on hand at the end of the organization's fiscal period. Include stocks, notes, bonds, and other securities. We consider any investment that has a maturity period of more than one year to be a long-term investment.
+
+#### Line 114 – Fixed assets
+
+Fixed assets include land, buildings, and equipment. Report fixed assets on hand at the end of the organization's fiscal period at their book value. For depreciable assets, **book value** equals the cost of the asset **minus** accumulated depreciation. For all other assets, it equals the cost.
+
+#### Line 115 – Other assets (specify)
+
+Examples of other assets are vehicles, supplies, and works of art. Report all other assets on hand at the end of the organization's fiscal period at their book value. For depreciable assets such as vehicles, **book value** equals the cost of the asset **minus** accumulated depreciation. For all other assets, it equals the cost.
+
+#### Liabilities
+
+#### Line 117 – Amounts owing to members
+
+Report the total amounts owing to members of the organization at the end of the organization's fiscal period. Include such amounts as loans, mortgages, salaries payable, and payments due for goods and services received.
+
+#### Line 118 – Amounts owing to all others (specify)
+
+Report the total of all other liabilities of the organization. Include amounts owing to other persons or organizations, such as loans, mortgages, notes, salaries to non members, and grants payable. **Do not include the amounts you reported on line 117**.
+
+### Part 4 – Remuneration
+
+#### Line 120 – Total remuneration and benefits paid to all employees and officers
+
+Report the total amount the organization paid out in remuneration and benefits to **all** employees and officers (including employees and officers who are or were members) during the fiscal period. Include amounts such as salaries, commissions, bonuses, directors' fees, trips, travel expenses, and benefits from housing loans.
+
+#### Line 121 – Total remuneration and benefits paid to employees and officers who are members
+
+Report the total amount the organization paid out during the fiscal period in remuneration and benefits **only** to employees and officers who are or were members of the organization at any time during that period. Members include both individuals and corporations. Include amounts such as salaries, commissions, bonuses, directors' fees, trips, travel expenses, and benefits from housing loans.
+
+#### Line 122 – Other payments to members (specify)
+
+Report the total of any payments the organization made to members during the fiscal period, other than payments made in the usual course of employment or commercial transactions. **Do not include the amounts you reported on lines 120 and 121**.
+
+#### Number of members in the organization
+
+On the line provided, enter the number of members in the organization at the end of the organization's fiscal period.
+
+#### Number of members who received remuneration or other amounts
+
+On the line provided, enter the total number of members who received remuneration, benefits or other payments during the fiscal period covered by the return.
+
+### Part 5 – The organization's activities
+
+Briefly describe the activities of the organization. If this is the organization's first year filing the NPO information return, include a copy of the organization's mission statement with the return.
+
+Also, indicate whether the organization carries on activities outside Canada. If so, give the location.
+
+### Part 6 – Location of books and records
+
+Enter the name, address, and telephone number of the person we should contact about the organization's books and records. Leave this area blank if the information is the same as in Part 1.
+
+### Part 7 – Certification
+
+The NPO information return has to be certified to show that the information in the return is correct and complete. Only a current officer of the organization can sign the certification.
+
+## For more information
+
+### What if you need help?
+
+If you need more information after reading this guide, visit [Taxes](https://www.canada.ca/en/services/taxes.html) or call **1-800-959-5525**.
+
+### Forms and publications
+
+To get our forms and publications, go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html) or call **1-800-959-5525**.
+
+### Electronic mailing lists
+
+The CRA can notify you by email when new information on a subject of interest to you is available on the website. To subscribe, go to [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+### Teletypewriter (TTY) users
+
+If you have a hearing or speech impairment and use a TTY, call **1-800-665-0354**.
+
+If you use an **operator-assisted relay service**, call our regular telephone numbers instead of the TTY number.
+
+### Service-related complaints
+
+You can expect to be treated fairly under clear and established rules, and get a high level of service each time you deal with the Canada Revenue Agency (CRA); see the Taxpayer Bill of Rights.
+
+If you are not satisfied with the service you received, try to resolve the matter with the CRA employee you have been dealing with or call the telephone number provided in the CRA's correspondence. If you do not have contact information, go to [Contact information - Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+If you still disagree with the way your concerns were addressed, you can ask to discuss the matter with the employee's supervisor.
+
+If you are still not satisfied, you can file a service complaint by filling out [form RC193, Service-Related Complaint](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html). For more information and how to file a complaint, go to [Make a service complaint](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/make-a-service-complaint.html).
+
+If the CRA has not resolved your service-related complaint, you can submit a complaint with the Office of the Taxpayers' Ombudsman.
+
+#### Formal disputes (objections and appeals)
+
+If you disagree with an assessment, determination or decision, you have the right to register a formal dispute.
+
+#### Reprisal complaints
+
+If you have previously submitted a service-related complaint or requested a formal review of a CRA decision and feel that, as a result, you were not treated impartially by a CRA employee, you can submit a reprisal complaint by filling out [form RC459, Reprisal Complaint](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc459.html).
+
+For more information about complaints and disputes, go to [Complaints, objections, appeals, disputes, and relief measures](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes.html).

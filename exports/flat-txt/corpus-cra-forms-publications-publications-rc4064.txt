@@ -1,0 +1,25 @@
+Title: RC4064 Disability-Related Information - 2025
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4064.html
+Corpus path: corpus/cra/forms-publications/publications/rc4064.md
+Document type: publication
+Last modified: 2026-05-27
+
+# RC4064 Disability-Related Information - 2025
+
+This guide is for people with impairments in physical or mental function.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [rc4064-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4064/disability-related-information.html)
+
+    - PDF [rc4064-25e.pdf](/content/dam/cra-arc/formspubs/pub/rc4064/rc4064-25e.pdf)
+
+    - Large print [rc4064-lp-25e.pdf](/content/dam/cra-arc/formspubs/pub/rc4064/rc4064-lp-25e.pdf)
+
+- Download and listenUse your preferred screen reader to listen to the e-text file.
+
+    - [E-text (rc4064-25e.txt)](/content/dam/cra-arc/formspubs/pub/rc4064/rc4064-25e.txt)
+
+- Ask for an alternate formatYou can order a digital audio, e-text, braille or large print version of this publication to be sent to you by mail.[Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html)

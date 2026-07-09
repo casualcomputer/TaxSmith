@@ -1,0 +1,262 @@
+---
+title: "Excise and GST/HST News - No. 121"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news121/news121-excise-gst-hst-news-no-121.html
+last_modified: 2026-01-15
+---
+# Excise and GST/HST News - No. 121
+
+January 2026
+
+## Table of Contents
+
+- [Federal Budget 2025](#toc0)
+
+- [Elimination of the Underused Housing Tax for 2025 and subsequent years](#toc1)
+
+- [End the Luxury Tax on Subject Aircraft and Vessels](#toc2)
+
+    - [Key Details for Registrants](#toc3)
+
+    - [Administrative Considerations](#toc4)
+
+    - [Need More Information?](#toc5)
+
+- [Illegitimate GST/HST Rulings or Interpretation Letters](#toc6)
+
+- [Carrying forward amounts and claim periods for a public service body or pension entity rebate filer](#toc7)
+
+- [The application of the definition of emission allowance and the Alberta Technology Innovation and Emissions Reduction (TIER) Regulation](#toc8)
+
+- [Accessing your GST/HST access code in the My Business Account portal](#toc9)
+
+- [Prescribed rates of interest](#toc10)
+
+- [Forms and publications](#toc11)
+
+- [Contact us](#toc12)
+
+## Federal Budget 2025
+
+On November 4, 2025, the Minister of Finance and National Revenue tabled [Budget 2025](https://budget.canada.ca/2025/home-accueil-en.html), which proposed amendments to the *Excise Tax Act*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act*, and other related legislation. These amendments are included in [Bill C-15](https://www.parl.ca/LegisInfo/en/bill/45-1/C-15) which has not yet received Royal Assent.
+
+The following two articles provide more detailed information on some of the proposed amendments included in Budget 2025.
+
+## Elimination of the Underused Housing Tax for 2025 and subsequent years
+
+On November 4, 2025, as part of [Budget 2025](https://budget.canada.ca/2025/home-accueil-en.html), the Minister of Finance and National Revenue tabled a [Notice of Ways and Means Motion to amend the Underused Housing Tax Act](https://www.budget.canada.ca/2025/report-rapport/nwmm-amvm-3-en.html), to eliminate the Underused Housing Tax (UHT) for the 2025 calendar year and subsequent years. Under these proposed amendments, no UHT is payable, and no UHT return is required to be filed in respect of the 2025 calendar year or subsequent years.
+
+These proposed amendments do not affect the application of the UHT to the 2022, 2023 or 2024 calendar years. Existing filing and payment obligations for these years, as well as related penalties and interest provisions remain in effect.
+
+## End the Luxury Tax on Subject Aircraft and Vessels
+
+Introduced on September 1, 2022, the luxury tax applies to sales, leases, importations, and certain improvements of subject vehicles, aircraft, and vessels priced above relevant thresholds under the *Select Luxury Items Tax Act*. Specifically, the luxury tax applies to subject vehicles and aircraft priced above $100,000 and subject vessels priced above $250,000.
+
+On November 4, 2025, as part of Budget 2025, the Minister of Finance and National Revenue announced a proposed measure to eliminate the luxury tax on subject aircraft and subject vessels effective November 5, 2025.
+
+Under this proposed measure, the luxury tax would no longer be payable on subject aircraft or subject vessels priced or valued above the relevant thresholds. However, the luxury tax would continue to apply to subject vehicles priced or valued above $100,000, unless an exemption applies. For more information on the application of the luxury tax to subject vehicles, please refer to [Notice LTN2, Subject vehicles under the Select Luxury Items Tax Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ltn2.html).
+
+### Key Details for Registrants
+
+- **Filing and Reporting:** Registrants, and persons that are not required to be registered, with liability for luxury tax on subject aircraft or vessels for the period October 1, 2025, to November 4, 2025, must include amounts owing in their quarterly return for the period ending December 31, 2025. After December 31, 2025, filing requirements would no longer apply for subject aircraft and vessels.
+
+- **Certificates:** Exemption, tax, and special import certificates would no longer be required for subject aircraft and vessels after November 4, 2025. However, previously issued certificates must still be retained for six years after the end of the year to which they relate.
+
+- **Registration:** Vendors in respect of subject aircraft or vessels, would no longer be required or permitted to register after November 4, 2025. Registrations for these items would be automatically cancelled on February 1, 2028. Registration in respect of subject vehicles would be unaffected.
+
+### Administrative Considerations
+
+Although the luxury tax on subject aircraft and vessels is proposed to end, registrants should note that the CRA retains the right to inspect, audit, or examine records as part of its enforcement and compliance obligations. All records must be kept for six years after the end of the year to which they relate.
+
+### Need More Information?
+
+For further details on this proposed measure, consult [Notice LTN5, Luxury tax not payable on subject aircraft and vessels](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ltn5.html). Additional resources are available on the CRA’s luxury tax webpage.
+
+If you have specific questions regarding the luxury tax, contact the Excise and Specialty Tax Directorate at 1‑866‑330‑3304 or visit [Contact Information – Excise and Specialty Tax Directorate](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/excise-taxes-contacts.html).
+
+## Illegitimate GST/HST Rulings or Interpretation Letters
+
+The Canada Revenue Agency (CRA) has recently become aware of the existence of illegitimate letters that purport to be GST/HST rulings or interpretations issued by the GST/HST Rulings Directorate. Such letters appear similar to official CRA correspondence but often contain irregular formatting or incomplete technical explanations. Some even reference the names of CRA officials or information taken from public sources. These letters appear to be used by taxpayers to legitimize non-compliant GST/HST practices without the CRA's knowledge.
+
+The CRA is exploring measures to protect the integrity of the GST/HST Rulings and Interpretations Service. If you receive a letter that is being presented as an official GST/HST ruling or interpretation, and you have concerns about its authenticity (for example, where the content appears technically inaccurate or unusually specific to a third party) you can contact GST/HST Rulings at 1‑800‑959‑8287. A GST/HST Rulings officer will assist in confirming whether the correspondence has been issued by the CRA.
+
+A GST/HST ruling applies only to the taxpayer who requests it (or on whose behalf it is requested) and only to the issues specifically covered by the ruling. You can request a ruling or interpretation on how the GST/HST applies to a specific transaction for your operations. This service is provided free of charge. For more information, refer to [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html).
+
+## Carrying forward amounts and claim periods for a public service body or pension entity rebate filer
+
+In March 2015, the Canada Revenue Agency sent letters to registered and non-registered filers of public service bodies' (PSB) and pension entity rebates. The purpose of the letters was to explain the proper rebate claim period as defined under subsection 259(1) of the [Excise Tax Act](https://laws-lois.justice.gc.ca/eng/acts/E-15/index.html).
+
+For registrants, the claim period for rebates is the same as their GST/HST return's reporting period (that is, annual, quarterly or monthly). This means that a registrant will have either, one, four or twelve claim periods per year, depending on the filing frequency of its GST/HST return.
+
+For non-registrants, a claim period consists of either the first and second fiscal quarters in a fiscal year, or the third and fourth fiscal quarters in a fiscal year. This means that a non-registrant that claims a rebate will have two rebate claim periods per year (the first six months and the last six months of its fiscal year). A non-registrant is not allowed to have a 12-month claim period.
+
+Authorized division or branch accounts, regardless of their filing status, must use the same fiscal year end and claim period as their head office.
+
+Each rebate application covers one claim period and generally only includes the GST/HST that became payable during the claim period or that was paid during the claim period without having become payable. However, a PSB rebate of the GST/HST paid or payable on an eligible purchase or expense for a particular claim period may be claimed on the rebate application for a later claim period if the criteria listed under the heading "Carrying forward a rebate" in [Guide RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034/rc4034-gst-hst-public-service-bodies-rebate.html) are met. This means that claimants may be able to combine multiple claim periods and consolidate them into one rebate application. The carry forward rules apply to later claim periods ending after September 8, 2017.
+
+For example, if a non-registrant's fiscal year-end is December 31, it has two claim periods (one for January to June and another for July to December). If all the conditions are met, it can choose to file one rebate for the second half of the year, from July 1 to December 31, and include amounts from both periods.
+
+Another example is a division that does not file rebate applications regularly but has a head office that files GST/HST returns every month. If all the conditions are met, this division is allowed to submit one rebate application for the December claim period that includes amounts for the whole year. In other words, this division no longer has to file rebate claims every month.
+
+However, carrying-forward is only permitted where the applicable PSB rebate rate did not change at any time from the beginning of the claim period in which the GST/HST was paid or payable to the end of the later period where the PSB rebate would be claimed. Therefore, some PSB rebate claimants resident in Prince Edward Island and New Brunswick may not be able to combine their PSB rebates for certain claim periods. For more information, refer to the articles "Public service bodies' (PSB) rebate rate increase for Prince Edward Island" in the [Excise and GST/HST News - No. 114](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news114/news114-excise-gst-hst-news-no-114.html), and "Public service bodies' rebate rate increases for New Brunswick" in the [Excise and GST/HST News - No. 117](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news117/news117-excise-gst-hst-news-no-117.html).
+
+For more information on carrying forward a rebate, including the conditions that must be met to be eligible, refer to [Guide RC4034](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034/rc4034-gst-hst-public-service-bodies-rebate.html).
+
+## The application of the definition of emission allowance and the Alberta Technology Innovation and Emissions Reduction (TIER) Regulation
+
+An article titled Instruments considered to be an emission allowance published in [Excise and GST/HST News – No. 113](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news113/news113-excise-gst-hst-news-no-113.html) attempted to clarify the Canada Revenue Agency's (CRA's) position as to when instruments (for example, credits and offsets) **are issued or created by, or on behalf of, a government or an international organization (a "regulator") or by a body established by, or an agency of, a regulator**, as required under subparagraph (a)(i) of the definition of **emission allowance** in subsection 123(1) of the *Excise Tax Act* (ETA). The CRA's position has evolved since the publication of this article, and the approach used in the application of subparagraph (a)(i) of the definition of **emission allowance** has changed. The CRA therefore wishes to provide an update on its position, specifically regarding the application of the definition of **emission allowance** as it relates to performance credits, emission offsets and sequestration credits generated under the *Alberta Technology Innovation and Emissions Reduction (TIER) Regulation*, Alta Reg 133/2019 (TIER Regulation).
+
+An emission allowance is defined in subsection 123(1) of the ETA as:
+
+- (a) an allowance, credit or similar instrument (other than a prescribed allowance, credit or instrument) that
+
+    - (i) is issued or created by, or on behalf of,
+
+          - (A) a government, a government of a foreign country, a government of a political subdivision of a country, a supranational organization or an international organization (each of which is in this definition referred to as a "regulator"),
+
+          - (B) a board, commission or other body established by a regulator, or
+
+          - (C) an agency of a regulator,
+
+    - (ii) can be used to satisfy a requirement under
+
+          - (A) a scheme or arrangement implemented by, or on behalf of, a regulator to regulate greenhouse gas emissions, or
+
+          - (B) a prescribed scheme or arrangement, and
+
+    - (iii) represents a specific quantity of greenhouse gas emissions expressed as carbon dioxide equivalent, or
+
+- (b) a prescribed property;
+
+To meet the definition of **emission allowance**, an allowance, credit or similar instrument must satisfy all the criteria set out in paragraph (a), or be prescribed in paragraph (b) of the definition of **emission allowance**. Currently, no property is prescribed.
+
+The CRA reviews and analyses the applicable federal or provincial legislation relating to these types of instruments on a case-by-case basis.
+
+For an instrument to meet the criterion in subparagraph (a)(i) of the definition, the instrument must be "issued or created by, or on behalf of", a regulator, board, commission or other body of a regulator, or an agency of a regulator. In performing an analysis, the CRA does not simply look for the terms "issued" or "created" in the relevant legislation, but also considers the broader context of that legislation, and how the instrument comes into being, or is put into circulation.
+
+The CRA recently examined whether emission performance credits, emission offsets and sequestration credits generated under the TIER Regulation meet the definition of **emission allowance** in subsection 123(1) of the ETA. In reviewing the context of the Regulation (along with Alberta's *Emissions Management and Climate Resilience Act*, SA 2003, c. E-7.8, and the Standards which form part of the TIER Regulation), the CRA has determined that emission performance credits, emission offsets, and sequestration credits generated under the TIER Regulation meet the definition of **emission allowance** in subsection 123(1) of the ETA.
+
+The position described in [Excise and GST/HST News - No. 113](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news113/news113-excise-gst-hst-news-no-113.html) is revoked as of the date of this publication. The CRA will continue to review the relevant Canadian federal and provincial legislation on a case-by-case basis, as requests are received, to determine which existing credits, allowances and other instruments are an emission allowance, as defined under subsection 123(1) of the ETA. As decisions are rendered and where appropriate, the letters relating to these decisions will be severed and published.
+
+The CRA will administer this revised position prospectively based on the specific facts of each case.
+
+For additional information on the GST/HST treatment of emission allowances, refer to the article on Carbon emission allowances in the [ARCHIVED – Excise GST/HST News - No. 104](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news104/news104-excise-gst-hst-news-no-104-june-2018.html).
+
+## Accessing your GST/HST access code in the My Business Account portal
+
+Effective October 20, 2025, business owners are able to view their GST/HST access code online through the secure My Business Account (MyBA) portal.
+
+The GST/HST access code is a personal security key used to authenticate your identity when submitting GST/HST returns outside of the Canada Revenue Agency's secure portals. This code is **only required** if you choose to file your GST/HST returns using one of the following services:
+
+- GST/HST NETFILE
+
+- GST/HST Internet File Transfer
+
+- GST/HST TELEFILE
+
+As a business owner, you can find your access code on the "View expected and filed returns" page within MyBA. To access this page, navigate to the "Returns" tab on the **RT Overview** page, then select the "View return details" button.
+
+The access code will **not** be visible to any representatives accessing the account via the Represent a Client online service, regardless of their authorization level.
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from October 1, 2025 to December 31, 2025 on overdue amounts payable to the Minister is 7%. The prescribed annual rate of interest on amounts owed by the Minister (such as, rebates or refunds) is 3% for corporate taxpayers and 5% for non-corporate taxpayers. These rates are applicable to income tax, excise taxes, GST/HST, underused housing tax (UHT), air travellers security charge (ATSC), luxury tax, fuel charge (under the *Greenhouse Gas Pollution Pricing Act*) and excise duties on wine, spirits, tobacco, cannabis and vaping products.
+
+The prescribed annual rate of interest respecting excise duty on beer products, on overdue amounts payable for the indicated period, is set at 5%. Refund interest rates are not applicable for amounts owed by the Minister (such as, rebates or refunds) for excise duty that is in relation to beer products.
+
+| PERIOD | October 1, 2025 to December 31, 2025 | July 1, 2025 to September 30, 2025 | April 1, 2025 to June 30, 2025 | January 1, 2025 to March 31, 2025 |
+
+| --- | --- | --- | --- | --- |
+
+| Refund Interest Corporate Taxpayers | 3% | 3% | 4% | 4% |
+
+| Refund Interest Non-Corporate Taxpayers | 5% | 5% | 6% | 6% |
+
+| Arrears and Instalment Interest | 7% | 7% | 8%* | 8% |
+
+* The Canada Revenue Agency (CRA) will provide interest relief on existing GST/HST and T2 balances between April 2 and June 30, 2025. There is no need to provide proof of hardship from or impact of tariffs. The CRA will automatically grant relief on GST/HST and T2 accounts during the relief period.
+
+| PERIOD | October 1, 2025 to December 31, 2025 | July 1, 2025 to September 30, 2025 | April 1, 2025 to June 30, 2025 | January 1, 2025 to March 31, 2025 |
+
+| --- | --- | --- | --- | --- |
+
+| Arrears Interest Excise duty - beer products | 5% | 5% | 6% | 6% |
+
+Prescribed interest rates for previous years are available on Canada.ca at [Prescribed interest rates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## Forms and publications
+
+All GST/HST, underused housing tax, luxury tax, fuel charge, excise duties, and excise taxes and other levies technical publications can be found on the [Technical tax information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information.html) webpage on Canada.ca. To access all forms and publications, go to [Forms and publications - CRA](https://www.canada.ca/en/revenue-agency/services/forms-publications.html), and for a list of new and revised publications, go to the [Canada Revenue Agency publications listed by number](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications.html) webpage. To access guides, returns and elections relating to the GST/HST, go to [GST/HST-related forms and publications](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/forms-publications.html).
+
+To receive email notification as soon as a document is published on the Canada.ca website, go to [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribe to the RSS feed for all new Canada Revenue Agency publications and forms, or subscribe to any number of mailing lists for different types of publications.
+
+## Contact us
+
+**Enquiries regarding programs administered by the Excise and Specialty Tax Directorate**
+
+For information about how to make a general or technical enquiry relating to excise duties, excise taxes and other levies (including the air travellers security charge), the fuel charge or the luxury tax or to enquire about your account or the processing status of a return or related refund or rebate application, refer to [Contact Information – Excise and Specialty Tax Directorate](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/excise-taxes-contacts.html).
+
+**Telephone enquiries**
+
+**GST/HST**
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- call Business Enquiries at 1‑800‑959‑5525 for **general enquiries**
+
+- call GST/HST Rulings at 1‑800‑959‑8287 for **technical enquiries**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1‑800‑567‑4692** or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution** (whether or not you are located in Quebec) and require information on the **GST/HST** or the **QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- call Business Enquiries at 1‑800‑959‑5525 for **general GST/HST** or **QST enquiries**
+
+- call GST/HST Rulings SLFI at 1‑855‑666‑5166 for **technical GST/HST** or **QST enquiries**
+
+**Underused housing tax**
+
+For general enquiries about a residential property that is owned by an individual:
+
+- Calls from the U.S. or Canada: 1‑800‑959‑8281
+
+- Calls from elsewhere: 613‑940‑8495 (collect calls accepted)
+
+For general enquiries about a residential property that is owned by a corporation:
+
+- Calls from the U.S. or Canada: 1‑800‑959‑5525
+
+- Calls from elsewhere: 613‑940‑8497 (collect calls accepted)
+
+**Account enquiries**
+
+For **general information** about the GST/HST and the underused housing tax and to make **enquiries** regarding your **account**, you can:
+
+- view answers to common enquiries, or submit an enquiry using the online **Enquiries service** in **My Business Account**, through the [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) portal;
+
+- view account information online at [Digital services for businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html);
+
+- call Business Enquiries at 1‑800‑959‑5525.
+
+For **enquiries** regarding the **status of specific GST/HST domestic rebate claims**, call Business Enquiries at 1‑800‑959‑5525.
+
+**Access your account online**
+
+For **online access** to your **GST/HST**, **air travellers security charge**, **luxury tax**, **fuel charge**, and **excise tax** and **duty accounts** (such as viewing up-to-date account balances and transactions, transferring payments and more), go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) and access:
+
+- **My Business Account** if you are the business owner
+
+- **Represent a Client** if you are an authorized representative or employee
+
+**Help**
+
+For **technical support using our online services**:
+
+- business accounts, call 1‑800‑959‑5525
+
+- teletypewriter users, call 1‑800‑665‑0354
+
+- callers outside of Canada and the United States, call collect at 613‑940‑8497
+
+Please have the screen number (bottom right) and, if applicable, the error number and message received on hand when calling.
+
+The Excise and GST/HST News is published quarterly and highlights recent developments in the administration of the GST/HST, the QST for SLFIs, the First Nations goods and services tax (FNGST) and the First Nations tax (FNT), the air travellers security charge (ATSC), the underused housing tax, the fuel charge, and the luxury tax as well as excise taxes and duties. If you would like to receive a link to each new edition of the Excise and GST/HST News as it is published, subscribe to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-excise-gst-hst-news.html). This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, Excise and GST/HST News, GST/HST Rulings Directorate, Legislative Policy and Regulatory Affairs Branch, CRA, 5th Floor, Place de Ville, 320 Queen Street, Ottawa K1A 0L5.

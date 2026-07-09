@@ -1,0 +1,219 @@
+Title: X6-1 Books and records
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/x6-1/books-records.html
+Corpus path: corpus/cra/forms-publications/publications/x6-1/books-records.md
+Document type: publication
+Last modified: 2026-06-08
+
+# X6-1 Books and records
+
+Excise Taxes and Other Levies Memorandum
+
+October 2013
+
+This version replaces the one dated August 1999.
+
+This memorandum explains the requirements under the *Excise Tax Act* for persons to retain and make available records, books of account, documents and other information, including business computerized records, to enable the verification of the amount of excise tax paid or collected, or the amount, if any, of any drawback, payment or deduction that has been made or that may be made under Part III of the Act.
+
+Except as otherwise noted, all statutory references in this memorandum are to the provisions of the *Excise Tax Act*. The information in this memorandum does not replace the law found in the Act and its regulations.
+
+If this information does not completely address your situation, refer to the Act or regulations or call 1-866-330-3304 for additional information.
+
+## Requirements for keeping books and records
+
+1. Persons who are required to pay or collect excise taxes or other sums, or who make an application for a drawback or a refund are required, under subsection 98(1), to keep adequate books and records.
+
+2. Persons must maintain books and records in English or French, at their place of business in Canada. Permission to store books and records elsewhere may be granted to persons whose accounting systems are centralized outside Canada.
+
+3. The books and records, and any source documents, must be in an appropriate form and must contain sufficient information to allow determination of the amount of tax to be paid or collected, or the amount to be refunded, rebated or deducted from net tax.
+
+4. Under subsection 100(2), if a person fails to keep adequate records or books of account, the Canada Revenue Agency (CRA) may specify the records and books of account that the person is required to keep, as well as the information that the books and records must contain.
+
+## Retention of books and records
+
+### Period of retention
+
+5. Pursuant to subsection 98(2), a person is required to keep records and books of account, and all supporting documents necessary to verify any related information, for a period of six years from the end of the calendar year to which they relate.
+
+#### Electronic books and records
+
+6. A person who keeps books and records in an electronic format is required, under subsection 98(2.01), to retain them in an electronically readable format for a period of six years from the end of the calendar year to which they relate. This means that a person must retain the electronic records even when a hard copy is available. However, pursuant to subsection 98(2.02), a person or class of persons may be exempted from the requirement to retain their electronic records under such terms and conditions as are acceptable to the CRA. More information on electronic record-keeping is available in paragraphs 13 to 35 of this memorandum.
+
+#### Objections and appeals
+
+7. Under subsection 98(2.1), if a person files a notice of objection or is a party to an appeal under the Act, they must keep every record or book that pertains to the subject matter of the objection or the appeal until the objection or appeal is disposed of by appeal or otherwise.
+
+### Permission for earlier disposal
+
+8. Subsection 98(2) authorizes a person to dispose of books and records before the end of the normal retention period, if written permission for their disposal is given by the CRA. To get permission, a person must apply in writing to their local CRA tax services office. The request must be signed by the person or an authorized representative, and must contain the following information:
+
+- specific identification of the books, records or other documents to be destroyed;
+
+- type of documents (for example, source documents that have been microfilmed or imaged electronically, or electronic records stored on tapes, disks, etc.);
+
+- the years for which the request applies;
+
+- indication of any outstanding appeal, objection or reference;
+
+- details of any special circumstances which would justify destruction of the books and records at an earlier time than is normally permitted; and
+
+- any other pertinent information.
+
+9. Permission for earlier disposal of books and records applies only to those related to the excise tax. Such permission does not extend to laws and authorities that require the retention of books and records for other taxes and duties.
+
+## Methods of retaining books and records
+
+10. A person is responsible for retaining their books and records, and any related document, in a manner that will ensure the reliability and readability of the information recorded.
+
+### Paper format
+
+11. Books, records and any related document may be kept in a traditional manner, that is, in paper format.
+
+12. All books and records as well as source documents that originate in paper format must be retained in that form except where an acceptable imaging or microfilming program (refer to the section below) is in place. Paper format also includes paper source documents that are entered into an electronic record-keeping system.
+
+### Electronic records and imaging
+
+13. Books and records may be retained in an electronically readable format. Electronic record-keeping refers to those electronic business systems that create, process, store, maintain and provide access to financial records. It includes but is not limited to custom and commercial accounting software, point-of-sale systems and Internet-based electronic commerce. Persons using electronic business systems must ensure that sufficient detail is captured and produced to ensure that the excise tax can be properly determined and verified.
+
+14. Persons keeping electronic records must also retain source documents. These records may be retained in microfiche, microfilm or electronic image format in accordance with CRA policy.
+
+#### Imaging specifications
+
+15. Imaging and microfilm (including microfiche) reproductions of books of original entry and source documents must be produced, controlled and maintained in accordance with the National Standard of Canada. This standard is outlined in the Canadian General Standards Board (CGSB) publication CAN/CGSB-72.34, *Electronic Records as Documentary Evidence*. To get this standard, go to the [Canadian General Standards Board Catalogue](https://www.canada.ca/en/public-services-procurement/services/standards-oversight/canadian-general-standards-board/catalogue.html).
+
+16. An acceptable imaging program requires that:
+
+1. a person in authority in the organization has confirmed in writing that the program will be part of the usual and ordinary activity of the organization's business;
+
+2. systems and procedures are established and documented;
+
+3. a log book is kept and shows:
+
+    1. the date of imaging;
+
+    2. the signatures of the persons authorizing and performing the imaging;
+
+    3. a description of the records imaged; and
+
+    4. whether source documents are destroyed or disposed of after imaging, and the date a source document was destroyed or disposed of;
+
+4. the imaging software maintains an index to permit the immediate location of any record, and the software inscribes the imaging date and the name of the person who did the imaging;
+
+5. the images are of commercial quality and are legible and readable when displayed on a computer screen or reproduced on paper;
+
+6. a system of inspection and quality control is established to ensure that (c), (d) and (e) above are maintained; and
+
+7. after reasonable notification, equipment in good working order is available to view, or where feasible, to reproduce a hard copy of the image.
+
+17. Paper source documents that have been imaged in accordance with the latest National Standard of Canada (refer to paragraph 15) may be disposed of and their images kept as permanent records.
+
+18. The person that outsources imaging is responsible for ensuring that the imaging is done in an acceptable manner when it is done by a third party.
+
+#### Other electronic record-keeping specifications
+
+19. The retained electronic records must, in combination with any other records (for example, the underlying contracts, price lists and price changes), have an adequate level of detail to meet the requirements of section 98. These records may be captured at any level of the accounting system, provided the audit trail, authenticity and integrity of the retained records can be established.
+
+20. A person should ensure that proper back-up records are maintained at all times and if any electronic records required to be maintained are lost, destroyed or damaged, the person must report this situation to the CRA and recreate the files within a reasonable period of time.
+
+21. A person who uses turnkey or packaged software to keep books and records electronically is not relieved of the responsibility to keep adequate electronic records because of deficiencies in the software. In cases where the software back-up procedures are deficient, additional specific back-up procedures may be required to retain adequate electronic records. Documentation must be retained at a level of detail that will describe the data entry procedures, reports produced, and any features that alter standard reports or create new reports.
+
+22. System documentation that provides a complete description of the electronic data processing (EDP) operation of the accounting system, and files that feed into the accounting system, must be retained. Statements and illustrations pertaining to the scope of operations should be sufficiently detailed to indicate:
+
+- the application being performed;
+
+- the procedures employed in each application; and
+
+- the controls used to ensure accurate and reliable processing.
+
+23. The following specific documentation for all files must also be retained:
+
+- record formats (including the meaning of all codes used to represent information);
+
+- flow charts (system and program);
+
+- label descriptions;
+
+- source program listings of programs that created the retained files; and
+
+- detailed chart of accounts for specific periods.
+
+24. Major changes to the EDP system, including effective dates, should be noted in order to preserve an accurate chronological record. This record should include any changes to software or systems and to the format of files. Audit trails should be designed to ensure that details underlying the summary accounting data, such as entries, invoices and vouchers, may be easily identified and made available to the CRA on request.
+
+25. From time to time, the CRA enters into agreements to keep specific files of electronic records to be used during subsequent audits. These agreements are referred to as "record retention agreements". The files retained under these agreements should be retained for the statutory period referred to in paragraph 6.
+
+#### Place of retention of electronic records
+
+26. All retained electronic records must be clearly labelled and stored in a secure environment in Canada. Permission to store retained electronic records elsewhere may be granted to persons whose accounting systems are centralized outside Canada. The authorization may be obtained by writing to your nearest CRA tax services office. It is highly recommended that back-up electronic records that are retained for the CRA be stored at an off-site location.
+
+#### Evaluations
+
+27. The CRA may periodically initiate tests to establish the readability and completeness of electronic records. The CRA will conclude its evaluations by coming to an agreement with the person on the computerized records to be retained and the processing of these records. This will eliminate the necessity to retain all EDP records and ensure that computerized data will be available for use during subsequent audits. The evaluation may also be requested by the person.
+
+28. These evaluations are inspections within the meaning of subsection 98(3), as they are directly related to the determination of a person's liabilities and obligations under the Act for a particular reporting period.
+
+29. Any agreement between the CRA and a person on the electronic records to be retained and processed does not apply to subsidiary companies acquired, or accounting and tax systems added, subsequent to the completion of the record evaluation or re-evaluation. All electronic records added subsequently to such an agreement and all systems produced by these companies must be retained until such time as a re-evaluation is conducted by the CRA. On disposition of a subsidiary, the files being retained for the CRA by, or for, the disposed subsidiary should be retained until a new evaluation can be made by the CRA. A re-evaluation can be requested by the person.
+
+#### Inspections
+
+30. Inspections referred to in paragraph 27 include the audit of electronic records. As a part of providing reasonable assistance, persons must allow CRA auditors to access their electronic records.
+
+31. Persons must be capable of accessing and reading the retained records at the time of an audit. When the EDP system that created the records is being replaced by a system with which the records would not be compatible, the person must convert them to a compatible system and retain both sets of files. Any difficulties in meeting the foregoing requirements should be reported to the CRA.
+
+32. Any change that would impact on the person's ability to access and read the records must also be reported to the CRA.
+
+33. The CRA may enter into an agreement with a person to modify or waive any, or all, of the requirements for conversion to a compatible system or to approve substitute procedures. The person remains subject to all requirements that the agreement does not specifically modify, waive or replace.
+
+#### Database management systems
+
+34. Persons using database management systems (DBMS) should ensure the implementation of appropriate procedures to comply with the documentation requirements outlined in this memorandum. Persons are in compliance if they create, for the use of the CRA, a sequential file or files containing all detailed transactions necessary to create an audit trail to trace back to the underlying source documents and entries. All necessary fields must be identified and file documentation must follow the rules outlined in this memorandum. This process should be reviewed by the CRA prior to file creation. These sequential files must be able to be processed by conventional means. As a minimum, the following documentation must be available:
+
+- database description;
+
+- record layout of each segment with respect to segment field;
+
+- systems control language; and
+
+- any other information required to access the file.
+
+35. Persons can obtain more information concerning the retention of data when using a DBMS by contacting the nearest CRA tax services office.
+
+## Provision of records
+
+### Inspections
+
+36. Pursuant to subsection 98(3), persons required to keep books and records must, at all reasonable times, make their records, books of account and other supporting documents available for inspection by officers of the CRA or a person authorized by the Minister, and must provide every facility necessary for such inspection. This provision applies to both paper and electronic books and records.
+
+### Requirement to provide documents or information
+
+37. Subsection 99(1) states that the CRA may require a person to provide any book, record, writing or other document or any information, for any purpose related to the administration or enforcement of the Act, within a reasonable time as stipulated in the demand. Such a request from the CRA would be made in a registered or certified letter, or a notice served personally. The provision of information or documents relating to one or more unnamed persons may be required where the CRA first obtains the authorization of a judge, as stipulated in section 102.1.
+
+### Copies
+
+38. Where any record or document is inspected or provided under sections 98 and 99, the person who inspects or is provided with the document, and any other officer of the CRA, is entitled to make a copy of the document, according to subsection 100(1.1). A copy of a document, certified as such by the CRA or an authorized person, has the same probative value as the original. In the case of electronic records, these persons can make a print-out of such electronic documents and the print-out as well as the original document will be considered evidence of the nature and content of the original document, and will have the same probative force as the original document.
+
+## Offences and penalties
+
+39. Under subsection 100(3), where the CRA has prescribed the form of records or books of account to be kept by a person, or the information to be contained in such documents, and the person fails to keep them as required, that person is guilty of an offence and liable on summary conviction to a fine that can range between $25 and $1,000. In default of payment of the fine, the person is liable to a term of imprisonment of not less than two months and not more than 12 months.
+
+40. Subsection 100(4) states that every person who fails to comply with the requirements of an inspection and who, in any way, prevents or attempts to prevent an officer of the CRA or an authorized person from having access to records or books of account kept or from inspecting books and records is guilty of an offence and liable on summary conviction to a fine that can range between $200 and $2,000, to imprisonment for a term of not more than six months or to both a fine and imprisonment.
+
+41. Pursuant to section 102, a person:
+
+- who destroys, alters or mutilates records or books of account kept in respect of any period or assists any other person in committing these acts to evade paying tax or otherwise to evade compliance with the Act, or
+
+- who makes, assents to or acquiesces in the making of false or deceptive entries or omits, assents to or acquiesces in the omission, to enter a material particular in records or books of account required to be kept in respect of any period,
+
+is guilty of an offence and liable on summary conviction to a fine that is equal to:
+
+- not less than the sum of $100 and an amount equal to double the amount of taxes that should have been paid or collected in respect of that period; and
+
+- not more than the sum of $1,000 and an amount equal to double the amount of taxes that should have been paid or collected in respect of that period.
+
+42. In default of payment of the fine, the person would be liable to imprisonment for a term ranging between 3 and 12 months.
+
+## Further information
+
+For all technical publications related to the *Excise Tax Act* and its regulations, go to [Excise taxes and other levies technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies.html).
+
+For information on how to make ageneral or technical enquiry on excise taxes, go to [Contact information – Excise and Specialty Tax Directorate](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/excise-taxes-contacts.html).
+
+For information on how to request a rulingorinterpretation related to excise taxes, go to [Requesting an excise and specialty tax ruling or interpretation](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/requesting-excise-specialty-tax-ruling-interpretation.html).

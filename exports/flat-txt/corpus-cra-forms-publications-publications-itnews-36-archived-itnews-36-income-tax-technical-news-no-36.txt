@@ -1,0 +1,139 @@
+Title: ARCHIVED - Income Tax - Technical News No. 36
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-36/archived-itnews-36-income-tax-technical-news-no-36.html
+Corpus path: corpus/cra/forms-publications/publications/itnews-36/archived-itnews-36-income-tax-technical-news-no-36.md
+Document type: publication
+Last modified: 2017-06-22
+
+# ARCHIVED - Income Tax - Technical News No. 36
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for income tax technical news](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/what-archived-content-notice-means-income-tax-technical-news.html)
+
+**July 27, 2007**
+
+**Notice to the reader:**
+
+- This version is only available electronically.
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-36.html), including PDF (which is an exact rendition of the original).
+
+**In This Issue**
+
+Paragraph 95(6)(*b*)
+
+The *Income Tax Technical News* is produced by the Legislative Policy and Regulatory Affairs Branch. It is provided for information purposes only and does not replace the law. If you have any comments or suggestions about the matters discussed in this publication, please send them to:
+
+Income Tax Rulings Directorate Legislative Policy and Regulatory Affairs Branch Canada Revenue Agency Ottawa ON K1A 0L5
+
+The *Income Tax Technical News* can be found on the Canada Revenue Agency Internet site at **www.cra.gc.ca**.
+
+## Paragraph 95(6)(b)
+
+The purpose of this article is to provide guidance with respect to the interpretation and application of paragraph 95(6)(*b*) of the *Income Tax Act* (the “Act”). Paragraph 95(6)(*b*) of the Act is an anti-avoidance rule that prevents the avoidance of tax by means of the acquisition or disposition of shares. More specifically, it applies where a person or partnership acquires or disposes of shares of the capital stock of a corporation or interests in a partnership, either directly or indirectly, and it can reasonably be considered that the principal purpose for the acquisition or disposition is to permit a person to avoid, reduce or defer the payment of tax or any other amount that would otherwise be payable under the Act (referred to in this article as a “tax benefit”). Where the provision applies, the acquisition or disposition is deemed not to have taken place, and where the shares or partnership interests were unissued immediately before the acquisition, those shares or partnership interests are deemed not to have been issued. The rule does not apply for the purposes of section 90 of the Act. Section 90 simply includes in the income of a taxpayer resident in Canada a dividend received by the taxpayer on a share of a non-resident corporation owned by the taxpayer.
+
+The words of paragraph 95(6)(*b*) are broad and could be considered to apply to a wide range of transactions. In order to ensure that the rule is applied only in the appropriate circumstances and in a consistent manner, all proposed reassessments involving paragraph 95(6)(*b*) will be reviewed by the Canada Revenue Agency (the “CRA”) at Headquarters.
+
+### Principal Purpose
+
+The principal purpose of an acquisition or disposition is to be determined objectively from the facts and circumstances surrounding that transaction. The person that makes the acquisition or disposition does not have to be the person that enjoys the tax benefit. Accordingly, when determining the principal purpose of an acquisition or disposition made by a member of a group of persons, such purpose may be determined to be a tax benefit enjoyed by any member of that group. For example, even though a purpose of the person making a share acquisition may be to earn a return on that investment, if a tax benefit is enjoyed by another person by virtue of the share acquisition, the acquisition may nevertheless be considered to have been made principally for the purpose of creating the tax benefit.
+
+**Examples**
+
+The examples below illustrate the approach that CRA will take in certain situations. Since the examples are general in nature, in applying the interpretive comments to specific situations, the following should be kept in mind:
+
+- The list of examples is not an exhaustive list of situations where the CRA will or will not apply paragraph 95(6)(*b*).
+
+- Paragraph 95(6)(*b*) applies for the purposes of subdivision i (other than section 90). The definition of the term “foreign affiliate” in subsection 248(1) (which applies for purposes of the Act) refers to the definition of that term in subsection 95(1) in subdivision i. Thus, paragraph 95(6)(*b*) may be invoked for the purposes of any provision of the Act that refers to the term “foreign affiliate”, with the result that a corporation would not be found to be a foreign affiliate for the purposes of the provision in question.
+
+- In addition to paragraph 95(6)(*b*), the CRA also may consider the application of the general anti-avoidance rule (“GAAR”) in subsection 245(2) or the transfer pricing rules in subsection 247(2) of the Act, depending on the facts.
+
+**Example 1 – Transitory Foreign Affiliate Status**
+
+This example is derived from the Department of Finance Explanatory Notes to paragraph 95(6)(*b*). Details have been added to demonstrate the manner in which the CRA would ascertain the principal purpose of the share acquisition.
+
+A Canadian multinational corporation (“Canco”) owns all of the shares in a foreign affiliate operating company (“FAOpco”), resident and carrying on an active business in a country that has a tax treaty with Canada (“Country A”). FAOpco has only one class of shares outstanding. FAOpco requires $500 million in new financing for use in its active business.
+
+XCo is another corporation resident in Canada that is not related to Canco. XCo is prepared to lend to FAOpco. XCo incorporates a foreign affiliate (“Finco”) in a second country that has a tax treaty with Canada (“Country B”) and invests $500 million of its surplus cash subscribing for all of the shares of Finco. Finco does not carry on an active business (as defined in subsection 95(1) of the Act). Finco uses the $500 million cash derived from XCo to make a ten-year loan to FAOpco. The loan bears interest at a rate of 6% per annum, and is repayable in full at the end of year ten.
+
+XCo purchases 11% of the outstanding shares of FAOpco from Canco for fair market value consideration, which at that time is $500,000. It is agreed that such shares of FAOpco are to be sold by XCo back to Canco for $900,000 at the end of year ten. It is not anticipated that FAOpco will pay any material dividends during the period the shares are held by XCo. XCo's federal tax rate in Canada is 31%. The income taxes paid on the interest income by Finco to the government of Country B will be negligible. No withholding tax applies in either Country A or Country B.
+
+At issue is XCo's principal purpose for acquiring 11% of the shares of FAOpco.
+
+**Analysis**
+
+Absent XCo's purchase of the shares of FAOpco, the interest income earned by Finco from the loan to FAOpco would be foreign accrual property income (“FAPI”), and would be included in the income of XCo and taxed under Part I of the Act at a rate of 31%. However, as a result of the acquisition of the shares of FAOpco, subparagraph 95(2)(*a*)(ii) applies to deem the interest income earned by Finco to be active business income. Therefore, the Part I tax savings of XCo derived directly from the share investment in FAOpco is $93 million (i.e. $500,000,000 x .06 x 10 x .31) over the term of the loan. On the other hand, the fixed return from such share investment is only $400,000 (i.e. $900,000 - $500,000). Accordingly, the CRA would conclude that the principal purpose for the acquisition of the shares of FAOpco by XCo was to reduce the tax otherwise payable by XCo. Therefore, paragraph 95(6)(*b*) applies to deem such shares not to have been acquired with the result that FAOpco is not a foreign affiliate of XCo. Any interest income paid by FAOpco to Finco would be FAPI to Finco, and would be included in the income of XCo and taxed under Part I of the Act.
+
+**Example 2 – Foreign Affiliate Financing**
+
+A Canadian multinational corporation (“Canco”) owns all of the shares in a foreign affiliate operating company (“FAOpco”), resident and carrying on an active business in a country that has a tax treaty with Canada (“Country A”). FAOpco requires $500 million in new financing for use in its active business. Canco borrows $500 million from a third-party lender, repayable in full at the end of year ten. Interest on the third-party debt is payable annually at 6%.
+
+Canco incorporates a foreign affiliate (“Finco”) in a second country that has a tax treaty with Canada (“Country B”) and invests $500 million subscribing for all of the shares of Finco. Finco does not carry on business. Finco uses the $500 million cash derived from Canco to make a loan to FAOpco. The loan bears interest at a rate of 6.1% per annum, and is repayable in full at the end of year ten. The income taxes paid on the interest income by Finco to the government of Country B will be negligible. Finco will pay its earnings to Canco annually in the form of dividends in order to fund Canco's interest payments to the third party lender. No withholding tax applies in either Country A or Country B.
+
+Canco also carries on business, and has historically earned, and is expected to continue to earn, taxable income in excess of $100 million annually from such business. Canco's federal tax rate in Canada is 31%.
+
+At issue is Canco's principal purpose for acquiring the shares of Finco.
+
+**Analysis**
+
+Since Canco's acquisition of the shares of Finco is a qualifying use for purposes of paragraph 20(1)(*c*) of the Act, Canco is able to deduct in computing its income liable to tax in Canada the interest paid to the third-party lender under that paragraph. The tax benefit to Canco is $93 million (i.e. $500,000,000 x .06 x 10 x .31).
+
+Canco's net return before tax on the shares of Finco is $5 million (i.e. $500,000,000 x (.061 - .06) x 10). In addition, Canco may profit from additional dividends on its shares of FAOpco and from an increase in the value of its investment in FAOpco as a result of earnings generated from the additional $500 million financing. Since this additional return from the shares of FAOpco cannot reasonably be quantified, the CRA will accept that the principal purpose of Canco's investment in the shares of Finco was not to reduce tax otherwise payable by Canco, and paragraph 95(6)(*b*) will not apply to deem such shares not to have been acquired.
+
+**Example 3 – Indirect Financing With Preferred Shares**
+
+A non-resident multinational corporation (“Foreign Parent”) owns the shares of a Canadian resident corporation (“Canco”) and a non-resident operating company (“Foreign Opco”). Foreign Opco is resident and carrying on an active business in a country that has a tax treaty with Canada (“Country A”). Foreign Opco requires $500 million in new financing for use in its active business. Canco borrows $500 million from a third-party lender, repayable in full at the end of year ten. Interest on the third-party debt is payable annually at 6%.
+
+Canco incorporates a foreign affiliate (“Finco”) in a second country that has a tax treaty with Canada (“Country B”) and invests $500 million subscribing for all of the shares of Finco. Finco does not carry on an active business (as defined in subsection 95(1) of the Act). Finco uses the $500 million cash derived from Canco to buy redeemable retractable preferred shares in Foreign Opco, with an annual dividend rate of 6.1%. The income taxes paid on the dividend income on the preferred shares by Finco to the government of Country B will be negligible. The preferred share acquisition by Finco causes Foreign Opco to become a foreign affiliate of Canco. Finco will pay its earnings to Canco annually in the form of a dividend in order to fund Canco's interest payments to the third party lender. No withholding tax applies in either Country A or Country B.
+
+Canco also carries on business in Canada, and has historically earned, and is expected to continue to earn, taxable income in excess of $100 million annually from such business. Canco's federal tax rate in Canada is 31%.
+
+At issue is Canco's principal purpose for acquiring the shares of Finco directly, and/or the preferred shares of Foreign Opco indirectly.
+
+**Analysis**
+
+In the above arrangement, Canco acquires the shares of Finco directly, and the preferred shares of Foreign Opco indirectly through Finco. Since Canco's acquisition of the shares of Finco is a qualifying use for the purposes of paragraph 20(1)(*c*) of the Act, Canco is able to deduct in computing its income liable to tax in Canada the interest paid to the third-party lender under that paragraph. The tax benefit to Canco from the interest deduction is $93 million (i.e. $500,000,000 x .06 x 10 x .31).
+
+Canco's net return before taxes on the shares of Finco is $5 million (i.e. $500,000,000 x (.061 - .06) x 10). However, Canco does not receive dividends directly from Foreign Opco or otherwise profit from an increase in the value of Foreign Opco as a result of earnings generated from the additional $500 million financing in Foreign Opco. Accordingly, the CRA would conclude that the principal purpose for the acquisition of the shares of Finco directly, and the shares of Foreign Opco indirectly, by Canco was to reduce the tax otherwise payable by Canco. Therefore, paragraph 95(6)(*b*) applies to deem the shares of Finco and the preferred shares of Foreign Opco not to have been acquired, with the result that neither Finco nor Foreign Opco will be a foreign affiliate of Canco. Any dividend received by Canco from Finco would be included in the income of Canco and taxed under Part I of the Act.
+
+**Example 4 –Abuse of subsection 85.1(3)**
+
+A Canadian corporation (“Canco”) owns shares in two foreign affiliates FA1 and FA2. Canco wants to sell and a non-resident arm's length buyer (“Buyer”) wants to buy the shares of FA2, having a fair market value of $1 million and nominal adjusted cost base. All or substantially all of the property of FA2 is excluded property, as that term is defined in subsection 95(1) of the Act. FA2 has no exempt or taxable surplus. Canco's federal tax rate is 31%.
+
+Buyer incorporates Forco, contributing $1 million in equity. FA1 subscribes for preferred shares of Forco bearing a 6% annual dividend rate, investing $10,000 in such shares and thereby making Forco a foreign affiliate of Canco. Canco rolls its shares of FA2 to FA1 using subsection 85.1(3) of the Act.
+
+FA1 sells the shares of FA2 to Forco for $1 million cash. The gain on the disposition of the FA2 shares is not FAPI to Canco because the shares of FA2 are excluded property. Subsection 85.1(4) does not apply to deny the application of 85.1(3) because Forco is a foreign affiliate of Canco.
+
+**Analysis**
+
+Similar to Example 1 above, a Canadian corporation acquired enough shares of an otherwise unrelated foreign corporation so that the foreign corporation would become a foreign affiliate of the Canadian corporation in order to take advantage of certain provisions in the Act. In the current example, FA1 acquired preferred shares of Forco, an otherwise unrelated foreign corporation, so that Forco would become a foreign affiliate of Canco. This rendered subsection 85.1(4) of the Act inapplicable so that the capital gain on the disposition of the FA2 shares would not be recognized on the transfer by Canco, thereby saving Canco federal taxes of $155,000 (i.e. $1,000,000 x .50 x .31).
+
+Since the annual dividends on the preferred shares amount to only $600 per year, it is reasonable to consider that the principal purpose for the acquisition of the preferred shares of Forco was to reduce Part I taxes that would otherwise have been payable by Canco on the gain from the arm's length sale of the FA2 shares.
+
+Therefore, paragraph 95(6)(*b*) applies to deem the preferred shares of Forco not to have been acquired with the result that Forco is not a foreign affiliate of FA1. Since the disposition of the FA2 shares to Forco is a disposition to an arm's length person that is not a foreign affiliate of Canco, Canco cannot use subsection 85.1(3) of the Act on the transfer of the FA2 shares to FA1 by virtue of subsection 85.1(4). Therefore the transfer takes place at fair market value, resulting in a $1 million capital gain to Canco.
+
+**Example 5 – Increase in Exempt Surplus**
+
+A Canadian corporation (“Canco”) owns 100% of a foreign affiliate (“FA1”), which owns 100% of another foreign affiliate of Canco (“FA2”), which owns 100% of another foreign affiliate of Canco (“FA3”). The fair market value of the shares of each of FA1, FA2 and FA3 is $1,000. The exempt surplus of FA3 is $500. All the shares have a nominal adjusted cost base. Canco is contemplating an arm's length sale of the shares of FA1. If the sale took place immediately, there would be a capital gain of $500 assuming a subsection 93(1) election of $500.
+
+FA1 incorporates a wholly owned subsidiary (“FA4”) and transfers its shares of FA2 to FA4 in exchange for share consideration. Paragraph 95(*2*)(c) of the Act applies to the transaction. A “relevant cost base” claim of $500 and a subsection 93(1) election of $500 are made by Canco. Under the current *Income Tax Regulations* (the “Regulations”), this creates an exempt deficit in FA2 of $500, and exempt surplus in FA1 of $500.
+
+FA2 is dissolved. Paragraph 95(2)(*e*.1) and subsection 5905(7) of the Regulations apply to the dissolution. The exempt deficit in FA2 ceases to exist pursuant to current Regulations.
+
+Canco sells the shares of FA1 to an arm's length party for $1,000 and makes a subsection 93(1) election for $1,000 to deem the full proceeds to be a dividend. The deemed dividend of $1,000 is fully deductible by Canco under section 113 of the Act.
+
+**Analysis**
+
+Canco has manufactured an additional $500 of exempt surplus to shelter a capital gain. The disposition of the shares of FA2 to FA4 was carried out principally in order to create artificial exempt surplus. It is reasonable to consider that the principal purpose for the disposition of the shares of FA2 was to reduce Part I taxes that would otherwise have been payable by Canco on the gain from the arm's length sale of the FA1 shares.
+
+The February 27, 2004 proposals to amend subsections 5905(7), (7.3) and (8) of the Regulations will prevent the creation of artificial exempt surplus on the transfer of shares within a group of foreign affiliates and on foreign affiliate dissolutions for transactions that occur after December 20, 2002. Paragraph 95(6)(*b*) will apply to such dispositions and dissolutions taking place on or before December 20, 2002. The disposition of the shares of FA2 to FA4 by FA1 and the disposition of the shares of FA2 by FA4 are deemed not to have taken place such that the exempt surplus within the chain remains at $500. When Canco sells the shares of FA1 and makes a subsection 93(1) election, the amount of the dividend that will be out of exempt surplus will be limited to $500. Canco will have a $500 capital gain.
+
+## 2007 Budget
+
+As part of its March 19, 2007 Budget, the Department of Finance tabled a Notice of Ways and Means Motion that proposes to restrict the deduction of interest expense incurred by corporations resident in Canada relating to investments in foreign affiliates. The proposals were amended by Finance's News Release 2007-041 on May 14, 2007. As of the date of the publication of this Income Tax Technical News, draft legislation has not been released.

@@ -1,0 +1,109 @@
+Title: Books, Records and Other Requirements for Taxpayers Having Foreign Affiliates
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic77-9/books-records-other-requirements-taxpayers-having-foreign-affiliates.html
+Corpus path: corpus/cra/forms-publications/publications/ic77-9/books-records-other-requirements-taxpayers-having-foreign-affiliates.md
+Document type: publication
+Last modified: 2020-02-24
+
+# Books, Records and Other Requirements for Taxpayers Having Foreign Affiliates
+
+IC
+
+INFORMATION CIRCULAR
+
+BOOKS, RECORDS AND OTHER REQUIREMENTS FOR TAXPAYERS HAVING FOREIGN AFFILIATES
+
+NUMBER: 77-9R June 22, 1983
+
+This circular cancels and replaces Information Circular 77-9 dated May 24, 1977. Current revisions are designed by vertical lines.
+
+1. This circular is for the guidance and information of taxpayers resident in Canada who have foreign affiliates, beneficial interests in certain non-resident trusts deemed by paragraph 94(1)(d) to be non-resident corporations and/or beneficial interests in non-resident discretionary trusts.
+
+Income Tax Returns
+
+2. All taxpayers with foreign affiliates, beneficial interests in certain non-resident trusts deemed by paragraph 94(1)(d) to be non-resident corporations and/or beneficial interests in non-resident discretionary trusts are asked to respond to the following questions with their income tax returns:
+
+(a) Individual Taxpayers (T1 Returns)
+
+(i) Did you have any controlled foreign affiliates at any time during the taxation year?
+
+(ii) Did you, or any controlled foreign affiliate of yours, or any corporation or trust with which you did not deal at arm's length, have a beneficial interest, at any time during the taxation year, in a non-resident discretionary trust to which subsection 94(1) applies?
+
+(b) Corporate Taxpayers (T2 Returns)
+
+(i) Did the corporation have any foreign affiliates at any time during the taxation year?
+
+(ii) Did the corporation, or any controlled foreign affiliate of the corporation, or any other corporation or trust with which the corporation did not deal at arm's length, have a beneficial interest, at any time during the taxation year, in a non-resident discretionary trust to which subsection 94(1) applies?
+
+PAGE 2
+
+(c) Trusts (T3 Returns)
+
+(i) Did the trust have any controlled foreign affiliates at any time during the taxation year?
+
+(ii) Did the trust, or any controlled foreign affiliate of the trust, or any corporation or any other trust with which the trust did not deal at arm's length, have a beneficial interest, at any time during the taxation year, in a non-resident discretionary trust to which subsection 94(1) applies?
+
+If a "yes" answer is given to any of the foregoing questions, a supplementary schedule will be required. Where in the case of a corporate taxpayer the positive answer is to question (i), the schedule will require details of the full name and address of each foreign affiliate with a distinction being made between controlled foreign affiliates and other foreign affiliates. In the case of individuals and trusts the necessary data will be only for controlled foreign affiliates. Where the positive answer is to question (ii), the full name and address of each trust and of the trustees of that trust will be required.
+
+3. Financial statements of a controlled foreign affiliate in respect of its taxation year (as defined in paragraph 95(1)(g) of the Act) ending in the taxation year of the taxpayer resident in Canada must accompany the income tax return filed in respect of that taxation year. Financial statements of foreign affiliates that are not required to be filed should, nevertheless, be retained by the Canadian taxpayer and be available for examination by the Department.
+
+4. Financial statements to be filed or retained by the Canadian taxpayer should be:
+
+(a) those that have been accepted by taxation authorities in the foreign jurisdiction, or
+
+(b) where they are not required by such authorities, those that have been certified by auditors.
+
+Where the Canadian taxpayer is of the opinion that these financial statements are unreliable or inconsistent with the basis used for other corporations in the group and he has compiled a revised version, then that revised version should also be filed with the annual income tax return or remain available for examination as the case may be.
+
+5. All financial statements of controlled foreign affiliates should be translated into English or French if they are presented in a language other than English or French.
+
+Books, Records and Financial Information
+
+6. Corporations
+
+(a) Where the Canadian taxpayer is a corporation, requirements will vary depending on whether or not the foreign affiliate is
+
+PAGE 3
+
+(i) a controlled foreign affiliate (including a non-resident trust that is deemed to be a controlled foreign affiliate), or
+
+(ii) any other foreign affiliate.
+
+(b) The provisions of subsection 230(1) of the Act make it the responsibility of the Canadian taxpayer to ensure that adequate books and records are maintained in Canada or elsewhere.
+
+(c) In the case of a controlled foreign affiliate, adequate books, records and supporting schedules should be available in Canada, on request, to substantiate the information disclosed in the taxpayer's returns.
+
+(d) Where other foreign affiliates are involved, requirements will vary depending upon the circumstances. If the Canadian taxpayer has a substantial interest in the foreign affiliate and is able to make a suitable arrangement to acquire, or there are other circumstances which enable the taxpayer to obtain the information, the Department would normally expect that there would be the same information available as there would be for a controlled foreign affiliate. Where the taxpayer is unable to obtain the required information and can demonstrate that a reasonable effort was made to do so, or where it can be demonstrated to the Department's satisfaction that it is not practical to make such an effort, the Department may, depending on the circumstances, accept less. For example, a corporation resident in Canada may be unable to obtain all the income tax returns and other information required to compute the various amounts defined in section 5907 of the Regulations for a particular foreign affiliate of the corporation because of restrictions imposed by a law of a foreign jurisdiction or by the directors of the foreign affiliate. If a reasonable effort has been made to obtain the required information, the corporation may compute such amounts using alternative documentation providing the Department is satisfied that, having regard to all the circumstances, a reasonable approximation of such amounts can be obtained through the use of such alternative documentation. What would ordinarily be expected to be made available would be the financial statements and other information that the Canadian taxpayer or a foreign affiliate is entitled to receive in its right as a shareholder under the corporation or other statutes of the foreign jurisdiction.
+
+Retention of Books, Records, and Information
+
+7. The requirements for the retention of records and books of account of a Canadian taxpayer are set out in Information Circular 78-10R. These requirements also apply to the books, records and information maintained by the Canadian taxpayer on the affairs of a foreign affiliate.
+
+PAGE 4
+
+8. As a minimum, these records should be sufficient to substantiate the computation of foreign accrual property income and any deductions claimed under subsection 91(5) or section 113 in respect of dividends received from the foreign affiliate. It will be necessary to retain records relating to the surplus accounts, foreign taxes paid, reorganizations, amalgamations and changes in participating percentage or surplus entitlement percentage and any other relevant information beyond the mandatory retention period if these transactions have future tax consequences.
+
+9. Foreign accrual property income is defined in paragraph 95(1)(b) of the Act and generally excludes income and losses from active businesses. The Department's interpretation of income from an active business is set out in Interpretation Bulletin IT-73R3.
+
+10. Where the foreign jurisdiction requires the income or profit from an active business to be computed in accordance with the income tax law of that jurisdiction, depreciation or capital cost allowance would be calculated according to the foreign taxation regulations unless an election is made pursuant to subsection 5907(2.1) of the Regulations. Capital cost allowance or depreciation schedules need not be filed but should be retained. Where the foreign jurisdiction has no such requirements, the active business income should be calculated under Part 1 of the Income Tax Act.
+
+11. Foreign accrual property income calculations of a controlled foreign affiliate must be computed under Part I of the Act. Capital cost allowance may be claimed on assets situated abroad for the purpose of calculating foreign accrual property income; however, appropriate capital cost allowance schedules must be filed with the annual return.
+
+Foreign Exchange
+
+12. Foreign currency conversions will, except in the cases noted in subsection 5903(2) of the Regulations, be made in accordance with the normal law. The Department has issued a number of Interpretation Bulletins (e.g. IT-95R, IT-174R, IT-205) on the subject of conversions.
+
+13. Subsection 5907(6) of the Regulations describes the currency to be used for recording the amounts referred to in subsection 5907(1) and (2).
+
+Subsection 93(1) Elections
+
+14. When a valid election has been made, there is no provision whereby it can be withdrawn or replaced with an amended election. However, where it is evident that the corporation intended to elect on the full amount of the available exempt surplus, the taxable surplus in respect of which a full deduction is available
+
+under section 113, or the capital gain otherwise determined in respect of the disposition of the shares and the taxpayer is not attempting to obtain any undue tax advantage and due and reasonable care was exercised in making the election, the Department will, if the taxpayer so requests in writing, consider revisions to the amounts designated in its election in the following circumstances:
+
+(a) the amount designated in the election is based, in part, on the determination of one or more fair market values and a reasonable effort has been made to establish the value and it is subsequently determined that the fair market value was other than the estimated amount,
+
+(b) typographical, clerical or other similar errors or omissions have been made in an otherwise valid election, or
+
+(c) exempt surplus, taxable surplus and/or tax paid in respect to taxable surplus has changed due to circumstances that are beyond the control of the taxpayer.
+
+15. Requests for revisions to the amount designated in an election made under subsection 93(1) must be signed by an authorized officer of the corporation and should set out in detail the reasons for the requested revision. These requests should be submitted to the District Taxation Office.

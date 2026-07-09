@@ -1,0 +1,38 @@
+---
+title: "T4033 Completing the Registered Charity Information Return"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4033.html
+last_modified: 2025-07-30
+---
+# T4033 Completing the Registered Charity Information Return
+
+This guide contains advice for registered charities on how to complete Form T3010, Registered Charity Information Return.
+
+## Ways to access the information
+
+- Read the publicationPrevious years: Standard print PDFsThis form is also available for the years listed below:[N/A – Standard print PDF (t4033-e.pdf)](/content/dam/cra-arc/formspubs/pub/t4033/t4033-e.pdf)[2023 – Standard print PDF (t4033-23e.pdf)](/content/dam/cra-arc/formspubs/pub/t4033/t4033-23e.pdf)[2021 – Standard print PDF (t4033-21e.pdf)](/content/dam/cra-arc/formspubs/pub/t4033/t4033-21e.pdf)[2020 – Standard print PDF (t4033-20e.pdf)](/content/dam/cra-arc/formspubs/pub/t4033/t4033-20e.pdf)[2019 – Standard print PDF (t4033-19e.pdf)](/content/dam/cra-arc/formspubs/pub/t4033/t4033-19e.pdf)[2017 – Standard print PDF (t4033-17e.pdf)](/content/dam/cra-arc/formspubs/pub/t4033/t4033-17e.pdf)[2016 – Standard print PDF (t4033-16e.pdf)](/content/dam/cra-arc/formspubs/pub/t4033/t4033-16e.pdf)[2015 – Standard print PDF (t4033-15e.pdf)](/content/dam/cra-arc/formspubs/pub/t4033/t4033-15e.pdf)[2014 – Standard print PDF (t4033-14e.pdf)](/content/dam/cra-arc/formspubs/pub/t4033/t4033-14e.pdf)[2013 – Standard print PDF (t4033-13e.pdf)](/content/dam/cra-arc/formspubs/pub/t4033/t4033-13e.pdf)[2013 – Standard print PDF (t4033-02-13e.pdf)](/content/dam/cra-arc/formspubs/pub/t4033/t4033-02-13e.pdf)[2002 – Standard print PDF (t4033-02e.pdf)](/content/dam/cra-arc/formspubs/pub/t4033/t4033-02e.pdf)
+
+    - Online format [t4033-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4033/t4033-completing-registered-charity-information-return.html)
+
+    - PDF [t4033-24e.pdf](/content/dam/cra-arc/formspubs/pub/t4033/t4033-24e.pdf)
+
+    - Large print [t4033-lp-24e.pdf](/content/dam/cra-arc/formspubs/pub/t4033/t4033-lp-24e.pdf)
+
+- Ask for an alternate formatYou can order a digital audio, e-text, braille or large print version of this publication to be sent to you by mail.[Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html)
+
+## Related documents
+
+- [T3010 Registered Charity Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3010.html)
+
+- [T1235 Directors/Trustees and Like Officials Worksheet](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1235.html)
+
+- [T1236 Qualified Donees Worksheet/Amounts Provided to Other Organizations](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1236.html)
+
+- [T1441 Qualifying Disbursements: Grants to Non-Qualified Donees](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1441.html)
+
+- [T1240 Registered Charity Adjustment Request](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1240.html)
+
+- [T2081 Excess Corporate Holdings Worksheet for Private Foundations](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2081.html)
+
+- [Filing a complete return](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/filing-t3010-charity-return/before-file.html)
+
+- [CRA-certified software for filing a charity information return](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/filing-t3010-charity-return/how-to-file/cra-certified-software-filing-charity-return.html)

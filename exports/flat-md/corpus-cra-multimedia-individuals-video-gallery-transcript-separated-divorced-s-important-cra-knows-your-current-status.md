@@ -1,0 +1,18 @@
+---
+title: "Separated or divorced – it's important the CRA knows your current status"
+gallery_title: "Separated or divorced – it's important the CRA knows your current status"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/individuals-video-gallery/transcript-separated-divorced-s-important-cra-knows-your-current-status.html
+video_source: /content/dam/cra-arc/migration/cra-arc/vc/ndvdls/sprtd-eng.mp4
+last_modified: 2018-01-25
+---
+
+# Separated or divorced – it's important the CRA knows your current status
+
+## Transcript
+[Mumbling]
+For the last time Helen - it's either me or the fish!
+Oh, it looks like you've already chosen the fish!
+No. I'm leaving and I'm taking Fluffy with me!
+You can keep your trout, your perch...
+Ooohhh...
+Get the benefit payment that is right for you by keeping your marital status up to date. Go to canada.ca/cra-marital-status for details.

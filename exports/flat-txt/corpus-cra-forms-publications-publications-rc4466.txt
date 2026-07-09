@@ -1,0 +1,19 @@
+Title: RC4466 CANCELLED - Tax-Free Savings Account (TFSA), Guide for Individuals
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4466.html
+Corpus path: corpus/cra/forms-publications/publications/rc4466.md
+Document type: publication
+Last modified: 2024-01-17
+
+# RC4466 CANCELLED - Tax-Free Savings Account (TFSA), Guide for Individuals
+
+## This publication was cancelled
+
+This publication was cancelled as of 2025-03-18 and replaced by the [Tax-Free Savings Account for issuers](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/tax-free-savings-account-tfsa-issuers.html) web page.
+
+Information for individuals on tax-free savings account (TFSA).
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [rc4466-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4466/tax-free-savings-account-tfsa-guide-individuals.html)

@@ -1,0 +1,12 @@
+---
+title: "NOTICE226 CANCELLED GST/HST Rate Reduction in 2008"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice226.html
+last_modified: 2007-12-18
+---
+# NOTICE226 CANCELLED GST/HST Rate Reduction in 2008
+
+## This publication was cancelled
+
+This publication was cancelled as of 2025-11-12.
+
+The GST rate will be reduced by one percentage point from 6% to 5%, effective January 1, 2008. This notice provides a detailed set of questions and answers that reflect the legislative amendments to the Excise Tax Ac to implement this rate reduction.

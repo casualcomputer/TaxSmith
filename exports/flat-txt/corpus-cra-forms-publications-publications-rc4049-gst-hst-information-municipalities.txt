@@ -1,0 +1,2075 @@
+Title: GST/HST Information for Municipalities
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4049/gst-hst-information-municipalities.html
+Corpus path: corpus/cra/forms-publications/publications/rc4049/gst-hst-information-municipalities.md
+Document type: publication
+Last modified: 2025-06-20
+
+# GST/HST Information for Municipalities
+
+RC4049(E) Rev. 25
+
+The CRA's publications and personalized correspondence are available in braille, large print, e-text, and MP3. For more information, go to [About multiple formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html) or call **1-800-959-5525**.
+
+Unless otherwise stated, all legislative references are to the *Excise Tax Act* or, where appropriate, the *GST/HST Regulations*.
+
+This guide uses plain language to explain the most common tax situations. It does not replace the law.
+
+The CRA uses the term **Indian** because it has legal meaning under the *Indian Act*.
+
+La version française de ce guide est intitulée Renseignements sur la TPS/TVH pour les municipalités.
+
+## Table of contents
+
+- [Find out if this guide is for yo](#P128_2808)u
+
+- [Definitions](#P158_6152)
+
+- [GST/HST and municipalities](#P182_11227)
+
+- [What is the GST/HST](#P187_11934)
+
+    - [Who pays the GST/HST](#P191_12616)
+
+    - [Who charges the GST/HST](#P191_12617)
+
+- [How does the GST/HST work](#P194_13040)
+
+- [Who qualifies as a municipality](#P209_17574)
+
+    - [Organizations that may be determined to be municipalities](#P220_19385)
+
+          - [Para-municipal organizations](#P227_19818)
+
+          - [Special-purpose provincially or territorially established authorities](#P247_21850)
+
+          - [Unincorporated municipal government units](#P263_23216)
+
+          - [Fire protection organizations](#P266_23870)
+
+          - [Indian bands, tribal councils, or band-owned corporations](#P268_24546)
+
+          - [Self-governing Indigenous governments and their entities](#_Toc172635695)
+
+    - [Organizations that may be designated to be municipalities](#P271_25381)
+
+          - [Residential Services](#P271_25300)
+
+          - [Unbottled water](#Water)
+
+          - [Rent-geared-to-income housing](#P271_25382)
+
+          - [Municipal transit services](#P271_25385)
+
+          - [Water distribution, sewerage, or drainage systems](#P2052_61254)
+
+          - [Indian bands, tribal councils, or band-owned corporations](#P2052_61308)
+
+          - [Self-governing Indigenous governments and their entities](#_Toc172635703)
+
+    - [How to cancel your municipal determination or designation](#P296_30009)
+
+    - [Organizational changes to determined or designated municipalities](#P296_30010)
+
+- [Taxable and exempt supplies](#tax_ex_prop_serv)
+
+    - [Taxable supplies (other than zero-rated)](#P305_30817)
+
+    - [Zero-rated supplies](#P323_32259)
+
+    - [Exempt supplies](#P330_32623)
+
+- [Registration requirements](#should_u_regs)
+
+    - [Small supplier](#P2033_66184)
+
+    - [How to register](#P254933987)
+
+    - [Bodies created by a municipality](#P351_35673)
+
+          - [Incorporated municipalities](#P354_36381)
+
+          - [Unincorporated municipalities](#P364_38301)
+
+- [Exemptions for municipalities](#exempt4municpl)
+
+    - [Library services](#P390_43250)
+
+    - [Registration and licences](#P2100_33599)
+
+          - [Property registration](#P1904_90573)
+
+          - [Court registration](#P1904_90587)
+
+          - [Licences](#P205261782)
+
+          - [Other exempt supplies](#P2052_61722)
+
+    - [Law enforcement and fire protection services](#P404_45048)
+
+    - [Residential services](#P406_45570)
+
+    - [Garbage collection, including the collection and delivery of recyclable materials](#P428_49195)
+
+    - [Municipal water distribution, sewerage, or drainage systems](#P435_50372)
+
+    - [Unbottled water](#P422_47805)
+
+    - [Municipal transit services](#P329_155818)
+
+    - [Other exempt municipal services](#P259796231)
+
+    - [Inter-municipal and intra-municipal supplies](#P375_40039)
+
+    - [Ferry, road, and bridge tolls](#P442_51204)
+
+    - [Admission to a place of amusement](#P460_53146)
+
+    - [Amateur performances and events](#P462_53502)
+
+    - [Recreational programs](#P465_54213)
+
+    - [Relief of poverty, suffering, or distress](#P473_55362)
+
+    - [Home care services](#P478_56142)
+
+    - [Fundraising by a public institution](#P484_57044)
+
+- [Harmonized sales tax](#hst)
+
+    - [Tax on property and services brought into a participating province](#tx_n_prprt_n_srvcs)
+
+    - [Imported services and intangible personal property](#mprtd_srvcs_n_ntngbl_prprt)
+
+- [Input tax credits](#P499_58562)
+
+    - [Simplified method for claiming ITCs](#P528_63938)
+
+- [GST/HST public service bodies' rebate](#P534_65544)
+
+    - [Apportionment of rebates](#P557_68936)
+
+    - [Eligible purchases and expenses](#lgbl_prchs_xpns)
+
+    - [First Nations Goods and Services Tax](#_Toc172635746)
+
+    - [Non-eligible purchases and expenses](#n_lgbl_prchs_xpns)
+
+    - [General operating expenses](#P562_69546)
+
+    - [How to apply for the PSB rebate](#P574_72412)
+
+          - [Registrant municipalities](#P575_72439)
+
+          - [Non-registrant municipalities](#P579_73649)
+
+- [Other rebates available](#othr_reb_avlbl)
+
+    - [Property or services removed from a participating province](#P614_77630)
+
+          - [Tangible personal property](#tpp)
+
+          - [Intangible personal property and services](#P626_79034)
+
+    - [Purchases of printed books](#P637_80447)
+
+    - [Provincial point-of-sale rebates](#P254934727)
+
+          - [How to account for point-of-sale rebates](#P261585854)
+
+    - [Rebate for sales of capital personal property by a non-registrant municipality](#P642_81120)
+
+- [Special quick method of accounting](#P219688905)
+
+    - [How to elect to use the special quick method](#P190492207)
+
+- [Capital property](#P648_82023)
+
+    - [Claiming ITCs on capital property](#P651_82288)
+
+    - [Supplies of capital personal property](#P654_82949)
+
+    - [Supplies of real property](#P659_83867)
+
+          - [Sales](#P2100_33840)
+
+          - [Leases](#P2100_33924)
+
+    - [Change-in-use – Capital real property](#P2033_67140)
+
+    - [Subsidized housing and self-supply](#P665_85052)
+
+    - [Expropriation](#P673_86928)
+
+- [Seizures and repossessions](#P677_87857)
+
+    - [Redemption of property](#P687_89020)
+
+- [Special issues](#spcl_issu)
+
+    - [Amalgamation, mergers and consolidations](#P735_93761)
+
+          - [New registration requirement](#P737_94035)
+
+          - [Updating elections](#P741_94800)
+
+          - [History of predecessor municipalities](#P745_95315)
+
+          - [Transferring of assets and property to the newly amalgamated municipality or organization](#P753_96514)
+
+          - [No automatic transfer of municipal designation or determination](#P755_96724)
+
+    - [Cost-sharing arrangements](#P757_97039)
+
+          - [Non-taxable reimbursements](#P761_97954)
+
+    - [Municipal officers' allowance](#P764_98686)
+
+    - [Grants and subsidies](#Grants)
+
+    - [Sponsorships](#_Toc172635784)
+
+- [Digital services](#online_services)
+
+    - [Handle your business taxes online](#hndlonline)
+
+    - [Receive your CRA mail online](#rcvmlonl)
+
+    - [Create a pre-authorized debit agreement for payments from your Canadian chequing account](#crpadagr)
+
+- [For more information](#more_info)
+
+    - [If you need help](#needhlp)
+
+    - [Direct deposit](#directdep)
+
+    - [Forms and publications](#formsnpub)
+
+    - [Electronic mailing lists](#electmaillist)
+
+    - [Tax Information Phone Service (TIPS)](#taxinfophone)
+
+    - [Teletypewriter (TTY)and Video Relay Services (Canada VRS) users](#ttyusers)
+
+    - [Formal disputes (objections and appeals)](#formldisp)
+
+    - [CRA service feedback programs](#feedbckprog)
+
+          - [Service complaints](#scecomplt)
+
+          - [Reprisal complaints](#reprcomplt)
+
+## Find out if this guide is for you
+
+This guide explains how the goods and services tax/harmonized sales tax (GST/HST) applies to municipalities. It contains an overview of the GST/HST, as well as more detailed information about GST/HST issues that are specific to municipalities.
+
+For basic information on charging, collecting, and remitting GST/HST, see [Guide RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+### Financial institutions
+
+This guide does **not** include information on the special rules for financial institutions. If you are a financial institution, see [Guide RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html). If you are a selected listed financial institution (SLFI), see [Guide RC4050, GST/HST Information for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4050.html).
+
+### Digital economy businesses
+
+This guide does not cover the new digital economy measures applicable to digital economy businesses including businesses that are registered or required to be registered under the simplified GST/HST registration regime of the digital economy provisions of Subdivision E of Division II of the *Excise Tax Act*, and to platform operators and non-resident digital economy businesses that are registered or required to be registered under the normal GST/HST registration regime. You can refer to “[GST/HST for digital economy businesses: Overview](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/digital-economy.html)", or contact us at **1-833-585-1463** (from Canada and the U.S.) or **1-613-221-3154**(from elsewhere – collect calls are accepted) for more information.
+
+### GST/HST and Quebec
+
+In Quebec, Revenu Québec generally administers the GST/HST. If the physical location of your business is in Quebec, you have to file your returns with Revenu Québec using its forms, unless you are a person that is an SLFI for GST/HST or Quebec sales tax (QST) purposes or both. For more information, see the Revenu Québec publication [IN-203-V, General Information Concerning the QST and the GST/HST](https://www.revenuquebec.ca/en/online-services/forms-and-publications/current-details/in-203-v/), available at [Revenu Québec](https://www.revenuquebec.ca/en/). If you are an SLFI, go to [Financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html).
+
+### First Nations taxes
+
+The First Nations goods and services tax (FNGST) is a tax that replaces the GST on the lands of First Nations and Indigenous governments that have imposed the FNGST.
+
+The First Nations tax (FNT) is a tax on the sale of alcoholic beverages, fuel and tobacco products on some First Nations reserves and lands of Indigenous governments.
+
+The Canada Revenue Agency (CRA) administers the FNGST and the FNT on behalf of the First Nations. For more information, see [First Nations Goods and Services Tax](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-indigenous-peoples/first-nations-goods-services-tax.html) and to [First Nations tax](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-indigenous-peoples/first-nations-tax.html).
+
+## What's new
+
+The major changes are listed below.
+
+**Nova Scotia**
+
+The Government of Nova Scotia has decreased the provincial part of the harmonized sales tax (HST) by one percentage point from 10% to 9%, effective April 1, 2025. This results in a decrease in the total HST rate in Nova Scotia from 15% to 14%.
+
+**Atlantic Tax Centre**
+
+The name change for Prince Edward Island Tax Centre to Atlantic Tax Centre was solely for internal administrative purposes. The Prince Edward Island Tax Centre will retain its name.
+
+**Simplified access to your CRA account**
+
+The CRA has simplified its sign-in process, making it easier to access My Account, My Business Account, and Represent a Client portals with a single sign in. To access My Account, My Business Account, and Represent a Client, go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+## Definitions
+
+**Basic tax content** of a property generally means the amount of GST/HST that was payable for the last acquisition of the property, and for any improvements made to the property since that last acquisition, less any amounts that were, or would have been, able to be recovered (for example, by rebate or remission, but not by input tax credits (ITC)). The calculation for the basic tax content takes into account any depreciation in the value of the property since it was last acquired (for example, when it was purchased or when it was last deemed to have been purchased, whichever occurred more recently).
+
+Registrants may have to calculate the basic tax content of a property if they increase or decrease their use of the property in their commercial activities. Non-registrants may have to calculate the basic tax content of real property if they file a rebate under section 257 of the *Excise Tax Act*.
+
+For more information on how to calculate basic tax content, see [Guide RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+**Capital personal property** generally means:
+
+- any depreciable personal property that is or would be eligible for a capital cost allowance deduction for income tax purposes
+
+- any personal property, other than depreciable property, the sale of which would result in a capital gain or loss for income tax purposes
+
+For GST/HST purposes, capital personal property does not include property in Classes 12, 14, 14.1, or 44 of Schedule II to the *Income Tax Regulations*.
+
+**Charity**means a registered charity or registered Canadian amateur athletic association for income tax purposes, but does not include a public institution. A charity can issue official donation receipts for income tax purposes.
+
+For the definition of charity for the purposes of the public service bodies' rebate, see [Guide RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+**Commercial activity** means any business or adventure or concern in the nature of trade carried on by a person, but does **not** include:
+
+- the making of exempt supplies
+
+- any business or adventure or concern in the nature of trade carried on without a reasonable expectation of profit by an individual, a personal trust, or a partnership where all of the members are individuals
+
+Commercial activity also includes a supply of real property, other than an exempt supply, made by any person, whether or not there is a reasonable expectation of profit, and anything done in the course of making the supply or in connection with the making of the supply.
+
+**Consideration**includes any amount that is payable for a supply by operation of law.
+
+**Designated municipal** **property** means property of a person who is, at any time, designated to be a municipality for the purpose of claiming the municipal rebate. Generally, it is property, or an improvement to it, that the designated municipality intended to consume, use, or supply more than 10% in the course of activities specified in its designation, and an amount for the property or improvement to it has been included in the calculation of non-creditable tax charged. Once property qualifies as designated municipal property, it is treated as such for as **l**ong as it is held by the designated municipality.
+
+**Designated municipality** means a person designated by the Minister of National Revenue to be a municipality, but only in respect of activities specified in the designation that involve the making of supplies (other than taxable supplies) by the person of municipal services.
+
+**Election** means a way for businesses and organizations to choose various options that may make it easier to comply with the GST/HST. Each election has its own eligibility criteria.
+
+**Exempt supplies** means supplies of property and services that are not subject to the GST/HST. GST/HST registrants generally cannot claim input tax credits to recover the GST/HST paid or payable on property and services acquired to make exempt supplies.
+
+**Government** means the federal, provincial, or territorial levels of government.
+
+**House and housing**, for the purposes of the GST/HST and/or applicable provincial new housing rebate, generally includes a detached or semi-detached single-unit house, a duplex, a condominium unit, a townhouse, a unit in a co-operative housing corporation, a mobile home (including a modular home), and a floating home. It may also include the land around and underneath the house that is reasonably necessary for its use and enjoyment as a place of residence. This is generally up to one half hectare (1.23 acres) and may include nearby buildings such as a detached garage or shed.
+
+House may also include a bed and breakfast or similar establishment where rooms are rented for short-term accommodation to the public. If more than 50% of the house is occupied by the owner or a relation as a primary place of residence, a GST/HST and/or applicable provincial new housing rebate may be claimed in respect of the entire house. If 50% or less of the house is occupied by the owner or a relation as a primary place of residence, only the part that is the primary place of residence is eligible for rebate purposes.
+
+**Input tax credit (ITC)** means a credit that GST/HST registrants can claim to recover the GST/HST paid or payable for property or services they acquired, imported into Canada, or brought into a participating province for use, consumption, or supply in the course of their commercial activities.
+
+**Lease** includes a lease or a licence, or an arrangement that is similar to a lease or a licence.
+
+**Municipality** means an incorporated city, town, village, metropolitan authority, township, district, county or rural municipality, or other incorporated municipal body however designated, and such other local authority that the Minister of National Revenue may determine to be a municipality for GST/HST purposes.
+
+For the purposes of the public service bodies’ rebate, a municipality includes a person designated by the Minister of National Revenue to be a municipality, but only in respect of activities, specified in the designation, that involve the making of supplies (other than taxable supplies) by the person of municipal services.
+
+**Municipal rebate** means a public service bodies’ rebate available for municipalities at a rate of 100% of the GST and the federal part of the HST. Municipalities in New Brunswick, Newfoundland and Labrador, Nova Scotia, and Ontario are also entitled to a municipal rebate for a percentage of the **provincial** part of the HST.
+
+**Non-creditable tax charged** in respect of property or a service for a claim period generally means the total GST/HST that became payable during a claim period or that was paid during a claim period without having become payable minus the following amounts:
+
+- any input tax credits the person claimed or is entitled to claim for any of that GST/HST
+
+- any rebate, refund or remission of any of that GST/HST that it is reasonable to expect the person received or is entitled to receive under any other section of the *Excise Tax Act* or under any other Act of Parliament
+
+- any amount of that GST/HST that is refunded, credited or adjusted in the person’s favour and for which it has either received a credit note from the supplier or has issued a debit note to the supplier
+
+For more information, see [GST/HST Memorandum 13-5, Non creditable Tax Charged](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/13-5/non-creditable-tax-charged.html).
+
+**Non-profit organization (NPO)** means a person (other than an individual, estate, trust, charity, public institution, municipality, or government) that meets **both** of the following conditions:
+
+- It is organized and operated solely for non-profit purposes
+
+- It does not distribute or make available any of its income for the personal benefit of any proprietor, member, or shareholder, unless the proprietor, member, or shareholder is a club, a society, or an association that has, as its primary purpose and function, the promotion of amateur athletics in Canada
+
+**Participating province** means a province that has harmonized its provincial sales tax with the GST to implement the harmonized sales tax (HST). Participating provinces include New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, and Prince Edward Island, but do not include the Nova Scotia offshore area or the Newfoundland offshore area except to the extent that offshore activities, as defined in subsection 123(1) of the *Excise Tax Act*, are carried on in that area.
+
+**Person** means an individual, a partnership, a corporation, the estate of a deceased individual, a trust, or a body that is a society, a union, a club, an association, a commission or other organization of any kind.
+
+**Property** means any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money.
+
+**Public institution** means a registered charity for income tax purposes that is also a school authority, a public college, a university, a hospital authority, or a local authority determined by the Minister of National Revenue to be a municipality.
+
+**Public sector body** means a government or a public service body.
+
+**Public service body** means a charity, non‑profit organization, municipality, university, public college, school authority, or hospital authority.
+
+**Qualifying non-profit organization** means a non‑profit organization or prescribed government organization whose percentage of government funding is at least 40% of its total revenue.
+
+**Registrant** means a person that is registered or required to be registered for the GST/HST, but generally excludes a person that is registered or required to be registered under special rules applicable to digital economy businesses unless that person registered under those special rules begins carrying on business in Canada, requiring them to register under the regular rules that apply to most persons.
+
+**Selected public service body** means:
+
+- a school authority, a university, or a public college that is established and operated otherwise than for profit
+
+- a hospital authority
+
+- a municipality
+
+- a facility operator
+
+- an external supplier
+
+**Service** means anything other than:
+
+- property
+
+- money
+
+- anything that is supplied to an employer by an employee in the course of employment
+
+**Supply** means the provision of property or a service in any way, including sale, transfer, barter, exchange, licence, rental, lease, gift, or disposition.
+
+**Taxable supply** means a supply that is made in the course of a commercial activity and is subject to the GST/HST (including zero‑rated supplies).
+
+**Zero-rated supplies** are supplies of property and services that are taxable at the rate of 0%. This means there is no GST/HST charged on these supplies, but GST/HST registrants may be eligible to claim ITCs for the GST/HST paid or payable on property and services acquired to provide these supplies.
+
+## GST/HST and municipalities
+
+The rules and administrative guidelines that apply to municipalities are outlined in this guide to help them comply with the GST/HST legislation. The guide includes information on how to register for the GST/HST and claim input tax credits (ITCs) and rebates, as well as information on property and services that are exempt from the GST/HST when supplied by municipalities.
+
+If you are a GST/HST registrant, see [Guide RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html). It has general information on charging, collecting, and remitting the GST/HST.
+
+If you are not a GST/HST registrant, see [Registration requirements](#should_u_regs).
+
+## What is the GST/HST
+
+The goods and services tax (GST) is a federal tax that applies to most supplies of goods and services made in Canada. The GST also applies to many supplies of real property (for example, land, buildings, and interests in such property) and intangible personal property such as trademarks, rights to use a patent, and digitized products downloaded from the Internet and paid for individually.
+
+The participating provinces harmonized their provincial sales tax with the GST to implement the harmonized sales tax (HST) in those provinces. Generally, the HST applies to the same base of property (for example, goods) and services as the GST. In some participating provinces, there are point‑of-sale rebates equivalent to the **provincial part** of the HST on certain qualifying items. For more information, see [Guide RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022/general-information-gst-hst-registrants.html).
+
+GST/HST registrants who make taxable supplies (other than zero-rated supplies) in the participating provinces collect tax at the applicable HST rate. GST/HST registrants collect tax at the 5% GST rate on taxable supplies they make in the rest of Canada (other than zero-rated supplies). Special rules apply for determining the place of supply. For more information on the HST and the place-of-supply rules, see Draft [GST/HST Technical Information Bulletin B-103, Harmonized Sales Tax – Place of Supply Rules for Determining Whether a Supply is Made in a Province](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-103.html).
+
+The HST rate can vary from one participating province to another. For a list of all applicable GST/HST rates, go to [GST/HST rates](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html) and select "GST/HST calculator (and rates)" under "Most requested".
+
+### Who pays the GST/HST
+
+Almost everyone has to pay the GST/HST on purchases of taxable supplies of property and services (other than zero-rated supplies).
+
+The governments of the participating provinces have agreed to pay the GST/HST on their taxable purchases. In addition, all British Columbia, Nunavut, and Quebec government departments and agencies pay the GST/HST on their taxable purchases. Therefore, you have to charge the GST/HST on taxable supplies of property and services you make to these provinces’ departments and agencies.
+
+The remaining provincial and territorial governments, including all of their government departments or ministries, and some of their Crown corporations, boards, commissions, and agencies, do not pay the GST/HST on their taxable purchases if they provide certification. You do not charge the GST/HST on taxable supplies of property and services made to one of these government entities if an authorized official provides appropriate documentation evidencing that the supplies are being purchased by a provincial or territorial department or eligible government entity. For more information, including an example of appropriate documentation, refer to [GST/HST Memorandum 18‑2, Provincial Governments](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/18-2.html).
+
+In addition, under certain circumstances, Indians, Indian bands, and band-empowered entities do **not** pay the GST/HST on their purchases. For more information, see GST/HST Technical Information [Bulletin B-039, GST/HST Administrative Policy – Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html).
+
+### Who charges the GST/HST
+
+Generally, GST/HST registrants have to charge and collect the GST/HST on all taxable (other than zero-rated) supplies of property and services they provide to their customers. **Both** GST/HST registrants and non-registrants are generally required to charge and collect the GST/HST on a taxable sale of real property in Canada. However, there are some exceptions for taxable sales of real property. For more information, see [Supplies of real property](#P659_83867).
+
+## How does the GST/HST work
+
+If you are a GST/HST registrant, you generally have to charge and collect the GST/HST on taxable supplies (other than zero-rated supplies) you make in Canada and file regular GST/HST returns to report that tax.
+
+You can generally claim ITCs on your GST/HST return to recover the GST/HST paid or payable on purchases and expenses to the extent you use, consume, or supply them in your commercial activities. Usually, commercial activities are those undertaken to make taxable (including zero‑rated) supplies of property and services. For more information, see [Input tax credits](#P499_58562).
+
+In addition, you **may** be eligible for a rebate of the GST/HST paid or payable on purchases and expenses for which you **cannot** claim ITCs. For more information, see [GST/HST public service bodies' rebate](#P534_65544).
+
+When you fill out your GST/HST return, deduct your ITCs from the GST/HST you charged. The result is your net tax. If you **also** qualify for a rebate, you can deduct your rebate from your net tax. Fill out the appropriate rebate application and send it with your GST/HST return.
+
+If the GST/HST amount you charged on your taxable supplies is more than the amount of the ITCs and rebates you are claiming, send the difference to the CRA. If the amount of the ITCs and rebates you are claiming is **more** than the GST/HST amount you charged on your taxable supplies, you can claim a refund.
+
+You have to file your GST/HST returns at regular intervals. When you register, the CRA will assign you a reporting period. Generally, your reporting period is based on the threshold amount.
+
+The threshold amount of a person for a fiscal year is calculated based on the total consideration for taxable supplies made in Canada by the person, including those of associates, in the immediately preceding fiscal year. When calculating this amount, a person does not include consideration attributable to supplies of financial services, sales of capital real property, supplies of zero‑rated exports of goods and services, and goodwill.
+
+For example, if your annual revenue from taxable supplies is $1,500,000 or **less**, the CRA will automatically give you an annual reporting period. This means that you file only one GST/HST return per year.
+
+You may be able to change your assigned reporting period. For example, if you have an annual reporting period but want to file more often, you may be able to elect to file your GST/HST returns on a monthly or quarterly basis instead. To change your assigned reporting period, use the CRA’s digital services in:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are a business owner
+
+- [Represent a client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are an authorized representative or employee
+
+You can also fill out and send [Form GST20, Election for GST/HST Reporting Period](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst20.html).
+
+To get the CRA's forms and publications, go to [GST/HST-related forms and publications](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/forms-publications.html).
+
+If you are an annual filer and your net tax for a fiscal year is $3,000 or **more**, you may have to make quarterly instalment payments throughout the following fiscal year even if your rebate reduces your amount owing to **less** than $3,000.
+
+**If you are a municipality**, your sales of personal property will be taxable, unless a specific exempting provision applies. Similarly, **if you are a designated municipality**, your sales of personal property that is designated municipal property will also be taxable unless a specific exempting provision applies. However, if you are **not** a GST/HST registrant, you generally would **not** be required to collect the GST/HST on the sale of such property unless it is capital personal property, as discussed below.
+
+**If you are either a municipality or a designated municipality that is not a GST/HST registrant**, you do **not** charge the GST/HST on any of your taxable services, nor do you charge the GST/HST on taxable supplies of property made by lease or licence. However, you may be required to collect the GST/HST on some taxable supplies of property made by way of **sale**, including:
+
+- sales of real property (see [Supplies of real property](#P659_83867) for the circumstances under which the purchaser must instead pay the tax directly to the CRA)
+
+- sales of capital personal property by a municipality
+
+- sales by a designated municipality of capital personal property that is designated municipal property
+
+## Who qualifies as a municipality
+
+For GST/HST purposes, a municipality means an incorporated city, town, village, metropolitan authority, township, district, county or rural municipality, or other incorporated municipal body, however designated. Examples of other incorporated municipal bodies include incorporated communities in Newfoundland and Labrador, incorporated northern hamlets, and incorporated northern settlements in Saskatchewan.
+
+Under authority delegated by the Minister of National Revenue, the CRA grants either total or partial municipal status to a local authority or other person when **one** of the following situations applies:
+
+- The CRA **determines** a local authority to be a municipality. This means that **all** the GST/HST legislative provisions that relate to municipalities will apply to the local authority as a whole.
+
+- The CRA **designates** a person to be a municipality for certain municipal services that it provides. The designation **only** applies to those municipal activities for which the person has been designated (referred to as designated activities). This restriction recognizes that the designated activities represent the only capacity in which the person is like a municipality.
+
+You have to send a written request to the CRA for municipal determination or designation for GST/HST purposes. Send your request with supporting documents electronically through the “Submit documents” service in the [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), or [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) portals. This service is available if you or your representative have registered to these portals.
+
+Alternatively, you can mail your request, with supporting documents, to:
+
+**Director Public Service Bodies and Governments Division GST/HST Rulings Directorate 320 Queen Street, Tower A, 5th floor Ottawa ON K1A 0L5**
+
+If you are in the province of Quebec, send your request for municipal determination or designation to Revenu Québec via email at **designations-municipalite@revenuquebec.ca**. Alternatively, you can mail your request, with supporting documents, to:
+
+**Directeur de l'interprétation relative au secteur public Direction générale de la législation Revenu Québec 3800, rue de Marly, secteur 5-2-2 Québec QC G1X 4A5**
+
+If someone is acting on your behalf regarding your municipal determination or designation request, a third-party authorization letter must be included with the request.
+
+The authorization should be specific to the request for a municipal determination or designation and should include the name, address, and telephone number of the third party. If the third party is an individual in a firm, provide both the name of the individual and that of the firm. Other types of CRA authorization forms are **not** acceptable for the purposes of a municipal determination or designation request (for example, [Form AUT-01, Authorize a Representative for Offline Access](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/aut-01.html)).
+
+#### Example of a third-party authorization letter for a municipal determination or designation request
+
+[Date]
+
+To whom it may concern:
+
+For the purposes of my request for a municipal [determination or designation] under the *Excise Tax Act*, I hereby authorize officials of the Canada Revenue Agency to provide the following person with confidential information about my operations:
+
+[Name of third party, including trading name and name of individual if applicable]
+
+[Address of third party and telephone number]
+
+[Signature of requestor]
+
+[Full name of requestor]
+
+[Address of requestor]
+
+[Business Number, if applicable]
+
+Please inform the CRA if you wish to revoke a third party authorization. The request for revocation should contain all of the information provided with the initial request for authorization.
+
+### Organizations that may be determined to be municipalities
+
+The following types of local authorities may apply to be determined as a municipality for GST/HST purposes:
+
+- para-municipal organizations
+
+- special-purpose provincially or territorially established authorities
+
+- unincorporated municipal government units
+
+- fire protection organizations
+
+- Indian bands, tribal councils, or band-owned corporations
+
+- self-governing Indigenous governments and their entities
+
+#### Para-municipal organizations
+
+Municipalities often create autonomous boards, commissions, and other local authorities to carry out certain municipal activities.
+
+To qualify for determination as a municipality, the local authority must be providing municipal services to the residents and owners of property of a local geographic area and those services would be the type that a municipality would normally provide.
+
+A local authority has to also meet **both** of the following conditions:
+
+- It is established by one or more municipalities, or by a province at the request of one or more municipalities.
+
+- It is owned or controlled by one or more municipalities.
+
+The CRA will consider a local authority to be **owned** by one or more municipalities if **one** of the following applies:
+
+- One or more municipalities own all or substantially all (90% or more) of the local authority’s shares or capital
+
+- One or more municipalities hold title to the local authority’s assets or control their disposition so that in the event of a winding-up or liquidation, these assets are vested in the municipality or municipalities
+
+The CRA will consider the local authority to be **controlled** by one or more municipalities if **both** of the following conditions are met:
+
+- The municipality or municipalities approves the local authority’s operating budget and, where it applies, capital budget.
+
+- The municipality or municipalities appoints the majority of the members of the local authority’s governing body (for example, the directors, governors, or commissioners).
+
+The tests for ownership and control of an organization by a municipality (or municipalities) are generally linked to the specific municipality (or municipalities) that created the organization. An organization will generally **not** qualify for determination if it is established by one or more municipalities and its ownership or control is shared by other persons that were not part of the original municipality or group of municipalities that created the organization.
+
+Local authorities that meet the above conditions are eligible to be determined to be a municipality for GST/HST purposes.
+
+Examples of local authorities that may fall into this category include:
+
+- community centre boards
+
+- local improvement boards
+
+- planning commissions
+
+- police service boards
+
+- public libraries
+
+- tourism boards
+
+When requesting municipal determination, the local authority should provide the provincial or territorial legislation and other documentation showing that a province, a territory, a municipality or a group of municipalities created the local authority. This could include a resolution or by-law of the municipal council or other managing body of the municipality, indicating its intentions.
+
+The local authority should provide documentation showing that either the control or the ownership requirements have been met. Documentation may include copies of municipal by-laws, incorporating documents, subordinate legislation empowering the organization, or financial statements.
+
+#### Special-purpose provincially or territorially established authorities
+
+These are local authorities created by a province or a territory that perform specific municipal services for residents or property owners within a local geographic area.
+
+A provincially or territorially established body may be determined to be a municipality if it meets **all** of the following conditions:
+
+- A province or territory empowers the local authority to perform municipal functions within a specified geographic area, including but **not** limited to:
+
+    - conservation
+
+    - erosion control
+
+    - fire or police protection
+
+    - irrigation or water improvement
+
+    - library services
+
+    - local planning, improvement, or development
+
+    - parks management
+
+    - pollution control
+
+    - water or sewerage distribution
+
+- The local authority is a body, board, commission, corporation, or other organization, and **not** an individual.
+
+- The local authority has local jurisdiction, rather than provincial or national jurisdiction.
+
+When requesting municipal determination, the local authority should provide a copy of relevant provincial or territorial legislation or regulations that control its activities, and copies of other supporting documentation including local by-laws, resolutions, or written notification from the provincial authority responsible for municipal affairs.
+
+#### Unincorporated municipal government units
+
+These include towns, villages, and hamlets that are similar to municipalities, but are unincorporated. The CRA will determine these organizations to be municipalities if they are empowered under provincial or territorial legislation to exercise general powers of local self‑government.
+
+When requesting municipal determination, the local authority should provide a copy of the relevant provincial or territorial legislation or regulations controlling their activities, as well as copies of supporting documents, including local by-laws, resolutions, or written notification from the provincial or territorial authority responsible for municipal affairs.
+
+#### Fire protection organizations
+
+Fire protection organizations, such as volunteer fire co-ops, volunteer fire departments, and fire teams and associations provide fire protection services in a municipality or any other local geographic area within a province or territory. These organizations may be incorporated (usually as non‑profit organizations) or unincorporated.
+
+The CRA may determine these organizations to be municipalities if they provide evidence that they were established to provide fire protection services in a local geographic area. This evidence may include provincial legislation, municipalby-laws, incorporating documents, an agreement or contract between the organization and a municipality or government for the provision of fire protection services, or any other satisfactory documentary evidence.
+
+#### Indian bands, tribal councils, or band-owned corporations
+
+An Indian band, tribal council, or band-owned corporation may qualify for determination as a municipality if it provides municipal services such as fire and police protection, water distribution, sewerage or drainage systems, or library services.
+
+Include the following documents with your request for municipal determination:
+
+- documentation that shows either of the following:
+
+    - the Indian band or tribal council is recognized by Indigenous Services Canada
+
+    - the corporation is owned by a band or a group of bands
+
+- documentation that shows the organization is providing municipal services to residents of the land for which it has local jurisdiction
+
+- a copy of the contribution funding agreement.
+
+### Self-governing Indigenous governments and their entities
+
+A self-governing Indigenous government or an entity of a self‑governing Indigenous government may qualify for determination as a municipality if it provides municipal services such as fire and police protection, water distribution, sewerage or drainage systems, or library services.
+
+A self-governing Indigenous government must include with its request for municipal determination documentation that shows it is providing municipal services to residents of the land for which it has local jurisdiction.
+
+An entity of a self‑governing Indigenous government must include with their request for municipal determination the following:
+
+- documentation that shows who established the entity
+
+- documentation that shows who owns or controls the entity (for example, letters patent, incorporating documents)
+
+- documentation that shows the entity is providing municipal services to residents of the land for which the self‑governing Indigenous government has local jurisdiction
+
+### Organizations that may be designated to be municipalities
+
+#### Residential services
+
+The CRA may designate a person to be a municipality with respect to standard exempt municipal services supplied on behalf of a municipality to owners or occupants of real property in a particular geographic area.
+
+You have to include the following documentation with your request for municipal designation:
+
+- a copy of the person’s incorporating documents
+
+- a description of the services provided and a description of the municipality and surrounding areas in which the services are provided
+
+- a copy of the by-law authorizing the municipality to enter into an agreement with the person and a copy of the agreement between the municipality and the person
+
+#### Unbottled water
+
+Supplies of unbottled water are considered to be standard municipal services. A person, such as a water hauler, water co-operative, or a private utility that supplies unbottled water may request municipal designation for purposes of claiming a municipal rebate.
+
+You have to include the following documentation with your request for municipal designation:
+
+- a copy of incorporating documents or other governing documents demonstrating that the person is a supplier of unbottled water
+
+- a description of the services provided and a description of the municipality and surrounding areas in which the services are provided
+
+- a copy of a paid customer invoice showing the supply of unbottled water
+
+- a copy of a purchase invoice for the unbottled water, a copy of a permit or other document allowing the person to take water from a government source, or any other document such as a letter from a municipality where the water is taken free of charge
+
+For more information, see [GST/HST Info Sheet GI-011, Water Haulers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-011/water-haulers.html).
+
+#### Rent-geared-to-income housing
+
+The supply of long-term residential accommodation to tenants on a rent-geared-to-income (RGI) basis by a non‑profit organization, a co-operative housing corporation, a public institution or a charity that receives government funding to assist it in providing this accommodation may qualify as a municipal service for municipal designation purposes.
+
+The government funding must be provided to the organization to subsidize the cost of housing units that are supplied to tenants on an RGI basis.
+
+The government funding in these situations includes funding provided by a municipality. The funding must be linked to the organization’s provision of RGI housing within a program to provide housing to low‑to‑moderate‑income households.
+
+Rent supplements paid by a government or municipality to low-income individuals are **not** considered to be government funding to the housing provider for the purposes of municipal designation.
+
+For the purposes of municipal designation, a supply that includes accommodation as one element but also includes other elements such as meals, personal care services, laundry, or housecleaning will **not** be considered an eligible supply of long-term accommodation.
+
+An organization that has been designated as a municipality for its supplies of long-term accommodation on an RGI basis is eligible for a municipal rebate for those designated activities.
+
+Municipal designation does **not** apply to any non‑designated activities that an organization may be engaged in, such as the supply of residential units that are not provided on a RGI basis. In addition, the supply of long-term residential accommodation, for which no government funding is received, is also **not** considered to be within an organization’s designated activities, even if the rent paid for the accommodation is geared to the tenant’s income.
+
+If an ongoing government funding for RGI housing ceases, the organization no longer qualifies for municipal designation and is no longer eligible for the municipal rebate. For example, where a funding or operating agreement expires and is not renewed, or where the funding ceases because the housing provider no longer meets the necessary terms and conditions for funding.
+
+For more information, see Excise and GST/HST News – No. 101 (March 2017).
+
+The following documentation is to be included with the written request for municipal designation:
+
+- a copy of the incorporating documents of the organization
+
+- a copy of a dated and signed agreement that demonstrates that you are providing RGI housing for which your charity or non‑profit organization receives funding from a government
+
+- documentation providing the number of RGI units for which your organization receives funding from a government relative to the total number of units in the project for the **current** year
+
+- documentation that shows that the selection of eligible households is within a program that is geared to low‑to‑moderate‑income households (documentation may include written policies, guidelines, and operating manuals that apply to the eligibility process for RGI housing)
+
+For more information on the eligibility criteria for municipal designation, see [GST/HST Info Sheet GI-124, Municipal Designation of Organizations Providing Rent Geared to Income Housing](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-124.html).
+
+#### Municipal transit services
+
+Supplies of municipal transit services that are made to a person, other than a transit authority, are GST/HST exempt.
+
+Municipal transit services are public passenger transportation services, or a right that exclusively entitles an individual to use such services (for example, a transit pass), that are supplied by a transit authority.
+
+Municipal transit services do **not** include charter services or services that are part of a tour. A transit authority is **any** of the following:
+
+- a division, department, or agency of a government, municipality, or school authority, whose primary purpose is to supply public passenger transportation services
+
+- a non-profit organization that receives funding from a government, municipality, or school authority to support the supply of public passenger transportation services
+
+- a non-profit organization that is established and operated for the purpose of providing public passenger transportation services to individuals with a disability
+
+In addition, to qualify as a transit authority, all or substantially all (90% or more) of the supplies made by the entity must be:
+
+- supplies of public passenger transportation services provided within the municipality and its environs
+
+- supplies of rights (such as transit passes) for individuals to use those public passenger transportation services
+
+Transit authorities that are **not** municipalities will have to apply for municipal designation in order to be eligible for a municipal rebate relating to their GST/HST exempt supplies of municipal transit services to members of the public.
+
+Supplies of public passenger transportation services provided by a non-profit organization that is **not** a transit authority, or by a charity, may be designated to be supplies of municipal transit services that are GST/HST exempt. Rights exclusively entitling an individual to use such services would also be GST/HST exempt.
+
+These entities will also have to apply for municipal designation in order to be eligible for the municipal rebate.
+
+You have to include the following documentation with your request for municipal designation:
+
+- a copy of the supplier’s incorporating documents
+
+- a description of the public passenger transportation services provided and a description of the municipality and surrounding area in which the services are provided
+
+- if it applies, a copy of a by-law authorizing the municipality to enter into an agreement with the supplier and a copy of the agreement between the municipality and the supplier for the purpose of providing the public passenger transportation services
+
+A service of operating a public municipal transit service supplied to a municipality does **not** qualify for designation.
+
+#### Water distribution, sewerage, or drainage systems
+
+An organization that operates a water distribution, sewerage, or drainage system may apply for municipal designation to exempt the services of installing, repairing, or maintaining the system that it operates. The CRA may designate organizations that operate a public system, where a municipality has transferred the functions, responsibilities, assets, risks, and liabilities associated with the operation of the system to the organization, or where a government recognizes the organization as a public utility.
+
+You have to include the following documentation with your request for municipal designation:
+
+- a copy of the organization’s incorporating documents
+
+- a description of the water distribution, sewerage or drainage system operated by the organization, along with a description of the municipality and surrounding areas in which the services are provided
+
+- a copy of the organization’s operating licence, permit, registration, or other authorization to operate the system and to provide water, sewerage, or drainage services through that system
+
+- a copy of a by-law authorizing the municipality to enter into an agreement with the organization and a copy of the agreement between the municipality and the organization, or a copy of the certificate, registration, utility tariff or other such document issued to the organization by the government recognizing the organization as a public utility
+
+### Indian bands, tribal councils, or band-owned corporations
+
+An Indian band, tribal council, or band‑owned corporation may qualify for designation as a municipality for any category of municipal services described under the heading “Organizations that may be designated to be municipalities”.
+
+You have to include the following documents with your request for municipal designation:
+
+- documentation that shows either of the following:
+
+    - the Indian band or tribal council is recognized by Indigenous Services Canada
+
+    - the corporation is owned by a band or a group of bands
+
+- documentation that shows your organization meets the conditions described under the relevant category of municipal services eligible for designation
+
+### Self-governing Indigenous governments and their entities
+
+A self-governing Indigenous government or an entity of a self-governing Indigenous government may qualify for designation under any category of municipal services described under the heading “Organizations that may be designated to be municipalities”.
+
+A self-governing Indigenous government must include with its request for municipal designation documentation that shows it meets the conditions described under the relevant category of municipal services eligible for designation.
+
+An entity of a self-governing Indigenous government must include with their request for municipal designation the following:
+
+- documentation that shows who established the entity
+
+- documentation that shows who owns or controls the entity (for example, letters patent, incorporating documents)
+
+- documentation that shows the entity meets the conditions described under the relevant category of municipal services eligible for designation
+
+### How to cancel your municipal determination or designation
+
+You have to send a written request to the CRA to cancel your municipal determination or designation. Send your request with supporting documents electronically through the “Submit documents” service in the [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) or [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) portals. This service is available if you or your representative have registered to these portals.
+
+Alternatively, you can mail your request, with supporting documents, to:
+
+**Director****Public Service Bodies and Governments Division****GST/HST Rulings Directorate****320 Queen Street, Tower A, 5th floor****Ottawa ON K1A 0L5**
+
+If you are in the province of Quebec, you should send your request to Revenu Québec via email at **designations-municipalite@revenuquebec.ca**. Alternatively, you can mail your request, with supporting documents, to:
+
+**Directeur de l'interprétation relative au secteur public Direction générale de la législation Revenu Québec 3800, rue de Marly, secteur 5-2-2 Québec QC G1X 4A5**
+
+### Organizational changes to determined or designated municipalities
+
+Once an organization or other person has been determined or designated to be a municipality, it is responsible for advising the CRA of any changes that may affect its eligibility as a municipality to ensure the continued payment of its public service bodies’ rebates (PSB rebates). This would include an organizational structure change due to an amalgamation, merger or consolidation with another organization, transfer of ownership, or any changes in the manner in which it is funded or operated.
+
+See also [Amalgamation, mergers and consolidations](#P735_93761). In addition, the application of the GST/HST to an organization’s supplies of property and services may change when it no longer meets the eligibility criteria to be determined or designated a municipality.
+
+A letter and any documentation of the changes may be sent to the addresses on the previous page.
+
+## Taxable and exempt supplies
+
+The following are examples of supplies of property and services made by a municipality that may be taxable, including zero-rated (taxable at 0%), or exempt.
+
+### Taxable supplies (other than zero-rated)
+
+The following are examples of taxable, other than zero-rated, supplies (for a list of all applicable GST/HST rates go to [GST/HST rates](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html) and select "GST/HST calculator (and rates)" under "Most requested"):
+
+- most supplies of real property (see [Supplies of real property](#P659_83867)), including:
+
+    - banquet facility rentals
+
+    - public parking rentals (such as municipal parking lots and parking meters)
+
+    - licences to use real property
+
+    - rights to use a municipal golf course
+
+- most supplies of personal property and capital personal property by a municipality (see [Supplies of capital personal property](#P654_82949))
+
+- telecommunication services, hydro-electricity, and natural gas
+
+- certain municipal services provided on an optional fee-for-service basis, such as driveway paving
+
+- licences to a consumer or non-registrant to remove forestry products or fishery products
+
+- services for testing or certifying that property meets a particular standard
+
+- supplies by a designated municipality of designated municipal property that is either personal property or capital personal property of the person
+
+- most supplies of property or a service made by a public institution that is a municipality
+
+- most supplies of designated municipal property by a public institution or a charity that is a designated municipality
+
+### Zero-rated supplies
+
+Examples of supplies of property and services taxable at 0% include:
+
+- certain medical devices, such as wheelchairs, eyeglasses, canes, and artificial teeth
+
+- basic groceries, such as fruit, vegetables, meat, and flour
+
+- most agricultural and fishery products
+
+- most property and services exported from Canada
+
+### Exempt supplies
+
+Examples of supplies of property and services that are GST/HST exempt when made by a municipality include:
+
+- fire protection
+
+- law enforcement
+
+- garbage collection, including the collection and delivery of recyclable materials
+
+- certain licences and permits
+
+- municipal transit
+
+For more information, see [Exemptions for municipalities](#exempt4municpl).
+
+## Registration requirements
+
+You have to register for the GST/HST if **both** of the following situations apply:
+
+- You provide taxable supplies in Canada.
+
+- You are **not** a small supplier (see [Small supplier](#P2033_66184)).
+
+You do **not** have to register if **one** of the following situations applies:
+
+- You are a small supplier (that does **not** carry on a taxi business or provide commercial ride-sharing services).
+
+- Your only commercial activity is the sale of real property, other than in the course of a business. Although you do **not** have to register for the GST/HST in this case, your sale of real property and certain capital personal property may still be taxable and you may have to charge and collect the tax. For more information, see [Supplies of capital personal property](#P654_82949) and [Supplies of real property](#P659_83867).
+
+- You are a non-resident who does **not** carry on business in Canada. For more information, see [Guide RC4027, Doing Business in Canada – GST/HST Information for Non-Residents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4027.html).
+
+### Small supplier
+
+You are a small supplier and do **not** have to register if you meet **one** of the following conditions:
+
+- The total amount of **all** revenues (before expenses) from your worldwide taxable supplies from **all** your businesses and those of your associates, is $30,000 or **less** in any single calendar quarter and in the last four consecutive calendar quarters.
+
+- You are a **public service bod**y and the total amount of **all** revenues (before expenses) from your worldwide taxable supplies from **all** of your activities and those of your associates, is $50,000 or **less** in any single calendar quarter and in the last four consecutive calendar quarters.
+
+In determining the total amount of revenue from taxable supplies (including zero-rated supplies) of property and services made inside and outside Canada by you and your associates, do **not** include revenues from supplies of financial services, sales of capital property, and goodwill from the sale of a business.
+
+If you are a small supplier, you do **not** have to register for the GST/HST but may do so voluntarily.
+
+the GST/HST but may do so voluntarily.
+
+If during one calendar quarter your total worldwide revenues from taxable supplies, including those of your associates, are more than the applicable small supplier threshold, you will immediately stop being a small supplier. You will have to start collecting the GST/HST on your taxable supplies made in Canada from the date of, and including, the supply that put you over the applicable small supplier threshold, even if you are **not** yet registered.
+
+If you do **not** exceed the applicable small supplier threshold amount in one calendar quarter, but you do over four consecutive calendar quarters, you are considered to be a small supplier for those four calendar quarters and a month following those quarters. You will have to start collecting the GST/HST on your taxable supplies made in Canada following that month.
+
+Registered charities that have been determined or designated to be municipalities can calculate their small supplier threshold with either the $250,000 gross revenue test or the $50,000 taxable supplies test. For more information, see [Guide RC4082, GST/HST Information for Charities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4082.html).
+
+If you are a non-registrant small supplier, you do **not** charge the GST/HST when you supply taxable property or services (other than certain taxable sales of real property and capital personal property, and taxable sales by a designated municipality of designated municipal property that is capital property of the person). You **cannot** claim ITCs to recover the GST/HST paid or payable on your purchases and expenses. However, as a municipality, you may be eligible for a rebate of the GST/HST.
+
+If you are a GST/HST registrant, you generally have to collect the GST/HST on your taxable supplies of property and services (other than zero-rated supplies and certain taxable sales of real property), **and** you can generally claim ITCs for the GST/HST paid or payable on your purchases and expenses incurred to provide them, to the extent they were consumed, used, or supplied in a commercial activity.
+
+### How to register
+
+Before you register for a GST/HST account, you need a business number (BN). Your BN will be your business identification for all your dealings with the CRA.
+
+To set up a BN, a GST/HST account, and any other account you may need (such as a payroll deduction or import account), use the CRA's online service at [Business number registration](https://www.canada.ca/en/services/taxes/business-number.html) or send [Form RC1, *Request for a Business Number and Certain Program Accounts*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc1.html).
+
+If the physical location of your business is in Quebec, contact Revenu Québec at **1-800-567-4692**.
+
+### Bodies created by a municipality
+
+Municipal boards, commissions, and departments that are legally part of a municipality **cannot** register separately for the GST/HST. However, public service bodies that are boards, commissions, and bodies created by a municipality and whose legal status is separate from the municipality have to register separately if their worldwide taxable supplies of property and services (including those of their associates) are more than $50,000 over four consecutive calendar quarters or in any single calendar quarter.
+
+#### Incorporated municipalities
+
+If you are incorporated, you register for the GST/HST as a single entity. Your individual branches or divisions **cannot** register separately. The CRA considers the total worldwide revenues from taxable supplies made by your corporation (including branches and divisions, as well as those of your associates) to determine whether or **not** you have to register.
+
+However, if your municipality has branches or divisions, you can apply for each branch or division with $50,000 or less in revenues from taxable supplies in its last four calendar quarters and in any single calendar quarter to be designated as a small supplier division.
+
+A small supplier division does **not** have to collect the GST/HST on its taxable supplies (other than on taxable **sales** of capital personal property and real property and, if it is a designated municipality, on taxable sales of designated municipal property that is capital property) and **cannot** claim ITCs for the GST/HST paid or payable on its purchases and expenses. Generally, the GST/HST paid or payable on purchases and expenses as a small supplier division would be included in the amounts you claim when calculating your rebate. Once a branch no longer qualifies as a small supplier division, it must collect the GST/HST on all of its taxable supplies (other than zero-rated) and can claim ITCs.
+
+A branch or division qualifies as a small supplier division if **all** of the following conditions are met:
+
+- You can separately identify the branch or division by either its location or the nature of its activities.
+
+- You keep separate records, accounting books, and systems for that branch or division.
+
+- The branch or division made $50,000 or less in revenues from taxable supplies in its last four calendar quarters and in any single calendar quarter.
+
+- You have **not** revoked the designation of a branch or division as a small supplier division within the previous 365-day period.
+
+If you would like to apply to have your branches or divisions designated as small supplier divisions, fill out and send [Form GST31, Application by a Public Service Body to Have Branches or Divisions Treated as Eligible Small Supplier Divisions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst31.html).
+
+#### Unincorporated municipalities
+
+If your municipality has several branches or divisions, the CRA may consider the branches or divisions to be separate entities for GST/HST purposes. Depending on the amount of their taxable supplies, individual branches or divisions may have to register separately.
+
+The CRA considers a branch or division within an unincorporated municipality to be a separate entity if it has a significant degree of control over its own affairs. To determine if a branch or division is a separate entity and should register separately for the GST/HST, consider the following criteria.
+
+**Legal status** – Does the particular branch or division have a constitution and by-laws different from those of the municipality? Does the branch’s constitution define the activities the branch will carry out? Can it sue and be sued, hold property, or contract in its own name? Is it liable for its own debts? Does it raise its own revenues or does the municipality fund it?
+
+**Management structure** – Do the municipality and its branches have different managers? Can the branch make financial and operational decisions without the approval of the municipality? Does it have separate accounting systems and a different fiscal year-end from the municipality?
+
+If a branch of an unincorporated municipality registers as a separate entity, the GST/HST applies to taxable supplies made between that branch and the municipality.
+
+## Exemptions for municipalities
+
+Municipalities make a number of supplies of property and services that are GST/HST exempt. Some exemptions are common to all [public service](#Public_service) and [public sector](#Public_sector) bodies. Some of the more common exemptions applicable to municipalities are described below.
+
+### Library services
+
+The supply of a right to borrowing privileges (library cards) and fines related to borrowing activities at a public library are **not** subject to the GST/HST.
+
+### Registration and licences
+
+#### Property registration
+
+Certain supplies relating to property registration are GST/HST exempt where those supplies are provided by a municipality or a board, commission, or other body established by a municipality. Such supplies may include:
+
+- registering, or processing an application to register, any property in a property registration system
+
+- filing, or processing an application to file, any document in a property registration system
+
+- providing access to, or the use of, a property registration system to register or to apply to register any property in it
+
+- providing access to, or the use of, a property registration system to file, or to apply to file, any document in it
+
+#### Court registration
+
+Supplies relating to the registration system of a court are GST/HST exempt where those supplies are provided by a municipality, or a board, commission, or other body established by a municipality. They include:
+
+- filing, or processing an application to file, a document in the registration system of a court or in accordance with legislative requirements
+
+- providing access to, or the use of, the registration system of a court, or any other registration system in which documents are filed as required by law, for the purpose of filing a document in that registration system
+
+- issuing, providing, or processing an application to issue or provide, a document from the registration system of a court or other similar tribunal
+
+- providing access to, or the use of, the registration system of a court or other similar tribunal to issue or obtain a document from that registration system
+
+#### Licences
+
+Certain supplies of licences, permits, quotas, or similar rights, a service of processing an application for a licence, permit, quota or similar right or the right to access, or to use a filing or registration system to make such applications are GST/HST exempt when these supplies are made by a municipality or by a board, commission, or other body established by a municipality.
+
+A right or a service supplied in respect of the importation of alcoholic beverages is subject to the GST/HST. In addition, services supplied in respect of an exempt licence, permit, quota or similar right, such as inspection services are also subject to the GST/HST.
+
+#### Other exempt supplies
+
+A supply of any document, or service of providing information, or a right to have access to, or to use, a filing or registration system to obtain any document or information provided by a municipality, or by a board, commission, or other body established by a municipality is GST/HST exempt, if **one** of the following applies:
+
+- The document or information indicates the vital statistics, residency, citizenship, the right to vote, or the registration for any government service, or any other status of any person.
+
+- The document or information is in respect of the title to, any right or estate in, property or any encumbrance or any assessment in respect of property or the zoning of real property.
+
+The supply of a service of providing information under the *Privacy Act*, the *Access to Information Act*, or any similar provincial legislation is also exempt when provided by a municipality, or by a board, commission, or other body established by a municipality.
+
+### Law enforcement and fire protection services
+
+The supply of a law enforcement service or a fire protection service made to a government or a municipality, or to a board, commission, or other body established by a government or municipality, is GST/HST exempt when provided by a municipality or by a board, commission, or other body established by a municipality. For example, fire protection services are exempt when supplied by a municipality to its neighbouring municipalities.
+
+### Residential services
+
+Supplies of municipal services are GST/HST exempt when provided by a municipality on a non-optional basis to owners or occupants of real property in the municipality (for example, sewerage services).
+
+This exemption applies **only** when the person paying for the service is the property owner or occupant. As a result, property owners or occupants will **not** pay tax on standard municipal services.
+
+Non-optional municipal services that a third party provides on behalf of a municipality are taxable if the third party bills the municipality for the services supplied, but exempt if the third party bills the property owner or occupant.
+
+A municipality hires a private business to provide snow removal services for the municipality. This service is taxable because it is being provided to the municipality rather than directly to property owners.
+
+Services that a municipality provides to owners or occupants of real property are exempt if they are supplied because of the owner’s or the occupant’s failure to comply with a legal obligation.
+
+A municipal by-law requires homeowners to cut the grass on municipal easements abutting their property. If a homeowner fails to comply, the municipality will cut the grass and charge the homeowner for the service. The service is exempt.
+
+### Garbage collection, including the collection and delivery of recyclable materials
+
+Garbage collection services, including collection of recyclable materials and special collections, are GST/HST exempt when provided by a municipality or a board, commission, or other body established by a municipality.
+
+The collection of recyclable material includes such services as the blue box program, where recyclable material is picked up from residences, or the service of collecting recyclable material from a central recycling depot.
+
+A municipality gives 52 tags to the homeowner, to be attached to one bag or container of garbage per week. The municipality collects only the bags or containers that have tags attached. Homeowners may purchase additional tags for $1.50 each if they have more than one bag or container of garbage to be collected. The garbage collection, and the supply of the additional tags, is exempt.
+
+Although the collection and delivery of recyclable material to a recycling centre is an exempt supply when made by a municipality, the processing and marketing of the recyclable material for later sale is a commercial activity. Consequently, the sale of recyclable material is taxable.
+
+### Municipal water distribution, sewerage, or drainage systems
+
+A supply of a service of installing, repairing, maintaining or interrupting the operation of a water distribution, sewerage, or drainage system, is GST/HST exempt if the supply is made by a municipality or by an organization that operates a water distribution, sewerage, or drainage system and that is designated as a municipality for this purpose.
+
+For example, where a municipality or a designated municipality repairs that part of a water or sewer line that is for the sole use of a property owner, and the municipality or designated municipality bills the owner, the amount billed is GST/HST exempt. A fee billed by a municipality or designated municipality to a property owner or occupant to turn the water supply on or off is also GST/HST exempt.
+
+A supply of a service of operating or managing another person’s water distribution, sewerage or drainage system is subject to the GST/HST.
+
+A supply of collecting, treating and disposing waste water is exempt when provided on a non-optional basis to owners or occupants of real property in the municipality.
+
+Supplies where a user or connection fee is charged by a person that is not a municipality or designated municipality to an owner or occupant of a property connected to a water distribution system are subject to the GST/HST **unless** the supplies are made on behalf of a municipality.
+
+For more information, see [Residential services](#P406_45570).
+
+### Unbottled water
+
+The supply of unbottled water made by a person other than a government, or by a government designated to be a municipality for purposes of supplying the water, is GST/HST exempt. The service of delivering an exempt supply of water is also exempt when made by the supplier of the water.
+
+This exemption does **not** apply to zero‑rated supplies (such as water sold to consumers in containers that are larger than a single serving (a single serving is under 600 mL)) or the supply of water served in single servings to consumers through a vending machine or at the supplier’s permanent establishment. These supplies are taxable at the applicable rate.
+
+### Municipal transit services
+
+Supplies of the following are GST/HST exempt:
+
+- Municipal transit services
+
+    - Municipal transit services are public passenger transportation services, including rights to use such services (for example, a transit pass), that are supplied by a transit authority
+
+    - Municipal transit services do **not** include charter services or services that are part of a tour
+
+- Rights that entitle an individual to use a public passenger transportation service, that is not a charter service or service that is part of a tour, and that is operated by a transit authority
+
+    - This includes when supplies of the rights are made by someone other than the transit authority that is performing the transportation service. For example, when an employer purchases transit passes to resell to its employees or a student association resells bus passes to its members, provided that the underlying service is operated by a transit authority
+
+- Public passenger transportation services that have been designated as municipal transit services, including rights to use such designated services
+
+These exemptions do **not** apply where the supply of the service or right is made to a transit authority.
+
+For the definition of “transit authority” and information on designated municipal transit services, see [Municipal transit services](#P271_25385).
+
+Supplies made to a transit authority of a right evidenced by a ticket, pass, voucher, or other similar physical or electronic media, are GST/HST exempt, where the right:
+
+- exclusively entitles an individual to use a public passenger transportation service that is operated by another transit authority
+
+- exclusively entitles an individual to use a public passenger transportation service that is a designated municipal transit service
+
+The transit authority must also be acquiring the right exclusively for the purpose of making a supply of the right.
+
+The exemption does **not** apply to a public passenger transportation service that is a charter service or a service that is part of a tour.
+
+Where a transit authority supplies a quantity of transit passes exclusively entitling an individual to use that transit authority’s public passenger transportation services, to another transit authority for re-sale purposes, then the supply from the first transit authority to the other transit authority would be GST/HST exempt.
+
+Supplies made to a transit authority of a right evidenced by a ticket, pass, voucher, or other similar physical or electronic media, exclusively entitling an individual to use a public passenger transportation service that is operated by the transit authority, and the transit authority previously supplied the right, are also GST/HST exempt.
+
+This does **not** include a public passenger transportation service that is a charter service or a service that is part of a tour.
+
+Where a transit authority supplied a quantity of transit passes exclusively entitling an individual to use the transit authority’s services, to a third party vendor, the subsequent supply of any unsold passes back to the transit authority would be GST/HST exempt.
+
+A supply of a service made by a person to a municipality of operating a municipal transit system is subject to the GST/HST.
+
+Taxable transit services include:
+
+- charter services provided by a municipal transit authority
+
+- city tour services provided by a transit authority if, in addition to the transportation services, passengers get a commentary by a tour guide
+
+- any transit services supplied by a private company and charged to a municipality
+
+### Other exempt municipal services
+
+The following services made by a municipality, or by a board, commission, or other body established by a municipality, are also exempt:
+
+- installing, replacing, repairing, and removing street or road signs, barriers, street or traffic lights, or any similar property
+
+- removing snow, ice, or water
+
+- removing, cutting, pruning, treating, or planting vegetation
+
+- repairing or maintaining roads, streets, sidewalks, or similar or adjacent property
+
+- installing accesses or egresses
+
+### Inter-municipal and intra-municipal supplies
+
+A regional municipality may provide property, services, or real property for municipalities within the region. In addition, municipalities and their autonomous para‑municipal organizations may make supplies between each other.
+
+Since a municipality and a para-municipal organization are separate entities, the GST/HST would usually apply to supplies made between them. However, there are special exemptions for certain supplies made between the following:
+
+- a municipality and any of its para-municipal organizations (for example, accounting services that a municipality provides for its library board, which has been determined to be a municipality, are exempt supplies, as is a lease of a building by the municipality to the library board)
+
+- para-municipal organizations of the same municipality (for example, supplies of literature from a municipal library board to a police commission are exempt if **both** are para-municipal organizations of the municipality)
+
+- a regional municipality and any of its local municipalities or any para-municipal organizations of any of those local municipalities (for example, the supply of legal services from the regional municipality to the local municipality is exempt)
+
+- a para-municipal organization of a regional municipality and any local municipality of the regional municipality, or any para-municipal organization of the local municipality (for example, the supply of a regional library board’s administrative services to a local municipality’s library board is exempt)
+
+- a regional municipality or any of its para-municipal organizations and any other organization designated for the provision of municipal services within an area over which the regional municipality has jurisdiction (for example, the supply of engineering services from the regional municipality to an organization operating a water distribution system for which it has been designated is exempt)
+
+The following supplies are subject to the GST/HST:
+
+- supplies of electricity, gas, steam, or telecommunication services made by a municipality or any of its para‑municipal organizations acting as a public utility
+
+- supplies between neighbouring municipalities, even if they are under the jurisdiction of the same regional municipality
+
+- supplies between para-municipal organizations of neighbouring municipalities, even if they are under the jurisdiction of the same regional municipality
+
+- supplies between a para-municipal organization of one municipality and a neighbouring municipality
+
+For the purposes of the exemption, a “para-municipal organization” of a municipal body means an organization (other than a government) that is owned or controlled by the municipal body. The definition of “para-municipal organization” sets out the manner in which a municipal body must own or control the organization, which is as follows:
+
+- either through ownership of all or substantially all (i.e., 90 per cent or more) of the organization’s shares or assets, or having control of the disposition of the organization’s assets so that the assets are vested in the municipal body in the event that the organization is wound-up or liquidated; or
+
+- by being responsible approving the organization’s operating and, where applicable, capital budgets and appointing the majority (i.e., more than 50 percent) of the members of the organization’s governing body.
+
+In addition, the organization must be any of the following:
+
+- where the municipal body is a municipality
+
+    - the organization is designated under section 259, or section 22 or 23 of *Part VI of Schedule V*, to be a municipality for purposes of that section, or
+
+    - the organization is determined as a municipality under paragraph (b) of the definition of municipality in subsection 123(1) and established by the municipality, or
+
+- where the municipal body is a provincially established designated body, the organization is determined as a municipality under paragraph (b) of the definition of municipality in subsection 123(1).
+
+### Ferry, road, and bridge tolls
+
+Domestic ferry services that transport passengers or property are GST/HST exempt if the principal purpose of the ferrying is to transport motor vehicles and passengers between parts of a road or highway system separated by water. A supply of a right to use a road or bridge is also exempt if a toll is charged for the right.
+
+### Admission to a place of amusement
+
+Admissions to places of amusement, such as museums, recreational complexes, theatres, and wild life parks, by public sector bodies are exempt if the **maximum amount** charged is $1 or less. For example, if you charge adults a $5 admission and children a $0.50 admission, both supplies of admissions (for adults and for children) are taxable.
+
+### Amateur performances and events
+
+Admissions to be a spectator of a performance, athletic, or competitive event are exempt as long as 90% or **more** of the athletes, competitors, or performers are not remunerated, either directly or indirectly, for their participation.
+
+Government and municipal grants, reasonable gifts, prizes, and compensation for travel or other incidental expenses are **not** considered to be remuneration in this situation.
+
+The admissions are **not** exempt if they are for **either**:
+
+- events advertised as featuring paid participants
+
+- events where professional athletes compete for cash prizes
+
+### Recreational programs
+
+Supplies of memberships and services for recreational programs established and operated by public sector bodies are exempt if they consist of supervised instructional classes or activities involving athletics, outdoor recreation, music, dance, crafts, arts, hobbies, or other recreational pursuits in **one** of the following circumstances:
+
+- You provide them primarily to children 14 years of age or younger and it does not involve overnight supervision throughout a large part of the program
+
+- You provide them primarily to individuals who are underprivileged or who have a disability
+
+### Relief of poverty, suffering, or distress
+
+The supply of food, beverages, or short-term accommodation provided to relieve the poverty, suffering or distress of individuals (other than certain fund-raising activities) is GST/HST exempt when provided by a public sector body. For example, the GST/HST does **not** apply to charges for meals or accommodation at a shelter for needy individuals.
+
+Prepared meals provided in an individual’s home through programs for seniors, underprivileged individuals, or individuals with a disability who have difficulty preparing adequate meals for themselves are exempt. Any supply of food or beverages made to the public sector body for these programs is also GST/HST exempt (for example, sales of food and beverages to a meals-on-wheels organization).
+
+Additional exemptions exist for charities that provide relief of poverty, suffering, or distress. For more information, see [Guide RC4082, GST/HST Information for Charities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4082.html).
+
+### Home care services
+
+Home care services are household or personal care services such as bathing, cleaning, meal preparation, or childcare, that are rendered to an individual who requires assistance due to age, infirmity, or disability.
+
+These services are GST/HST exempt when offered in the individual’s place of residence and when supplied by a municipality. They are also exempt when a municipality or an organization administering a government or a municipal program for home care services pays an amount to another person to supply or to acquire these services.
+
+For more information, see [GST/HST Info Sheet GI-166, Application of the GST/HST to Home Care Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-166/application-gst-hst-home-care-services.html).
+
+If the individual receives exempt home care services as described above and requires additional home care services, any other such additional service is also exempt when rendered at the individual’s place of residence.
+
+### Fundraising by a public institution
+
+An organization (such as a conservation authority) that the CRA has determined to be a municipality, and that is also a registered charity under the *Income Tax Act*, meets the definition of public institution, for which there are specific exemptions.
+
+A supply made by a public institution of an admission to a fund-raising dinner, ball, concert, show, or similar fund-raising event is exempt where the public institution is permitted to issue a donation receipt for income tax purposes for part of the admission price, or could issue a donation receipt if the recipient of the supply were an individual. This exemption does not require a public institution to issue a donation receipt.
+
+You sell tickets to a < id="_Hlk139968268">fund-raising dinner for $75 but $50 of the ticket price qualifies for a charitable donation receipt for income tax purposes. You do **not**charge the GST/HST on any part of the admission.
+
+Supplies of personal property or services made in the course of a fundraising activity are exempt if the supplies are **not** made on a regular or continuous basis throughout the year or a significant part of the year, and if the agreement for the supplies does **not** entitle the recipients to receive property or services throughout the year or a significant part of the year.
+
+## Harmonized sales tax
+
+### Tax on property and services brought into a participating province
+
+You may have to self-assess the **provincial** **part** of the HST if you acquire property or services in a non-participating province, but you use, consume, or supply them within the participating provinces. For a list of all applicable GST/HST rates, go to [GST/HST rates](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html).
+
+You may also have to self-assess if you use, consume, or supply property or services in a participating province with a higher HST rate than the participating province where you acquired them.
+
+For more information regarding self-assessment requirements and exceptions, see [GST/HST Notice 266, Draft GST/HST Technical Information Bulletin, Harmonized Sales Tax – Self-assessment of the provincial part of the HST in respect of property and services brought into a participating province](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice266.html).
+
+### Imported services and intangible personal property
+
+If you acquire services (such as architectural services for a building in Canada) or intangible personal property (IPP) (such as the right to use a patent in Canada) from an unregistered non-resident person outside Canada, you generally do **not** pay the GST/HST if you acquire them to consume, use, or supply 90% or **more** in your commercial activities (100% in the case of financial institutions). You also do **not** have to self-assess the **provincial part** of the HST if the imported services or IPP are for consumption, use, or supply 90% or **more** in the non‑participating provinces.
+
+If you **are** a registrant and you do **not** consume, use, or supply the imported services or IPP at least 90% in your commercial activities, you have to report the GST or the 5% **federal part** of the HST on **line 405** of your GST/HST return and remit the tax directly to the CRA.
+
+If you **are not** a GST/HST registrant, you may still have to self‑assess tax on imported services or IPP. Fill out [Form GST59, GST/HST Return for Imported Taxable Supplies, Qualifying Consideration and Internal and External Charges](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst59.html), to remit the tax.
+
+If you **are** a resident in a participating province and the imported services or IPP are for consumption, use, or supply **less** than 90% in your commercial activities and the services or IPP are for consumption, use, or supply 10% or **more** in the participating provinces, you may also have to self‑asses the **provincial part** of the HST on the services or IPP to the extent that the services or IPP are for consumption, use, or supply in those particular provinces.
+
+For more information regarding self-assessment requirements and exceptions, see [Guide RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+## Input tax credits
+
+The following information may **not** apply to a designated municipality that is a charity. For more information, see [Guide RC4082, GST/HST Information for Charities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4082.html).
+
+You may be eligible to claim ITCs if you are registered, or are required to be registered, for the GST/HST. **If you are not a GST/HST registrant, this section does not apply to you**.
+
+If you are eligible, you recover the GST/HST paid or payable on your purchases and expenses related to your commercial activities by claiming ITCs on your **line 106** if you are filing electronically using GST/HST NETFILE or if you are filing a paper return, or in your **line 108** calculation if you are filing using GST/HST TELEFILE. You **cannot**claim an ITC for purchases of certain capital property (see[Capital property](#P648_82023)).
+
+If a registrant municipality makes a taxable sale of capital personal property or a designated municipality makes a taxable sale of designated municipal property that is capital property of the person, the municipality can claim an ITC for the part of the GST/HST that is **not** otherwise recoverable.
+
+You can use the general rules to calculate your ITCs **or**the **simplified method for claiming ITCs**. For more information, see [Guide RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+General operating expenses are purchases you make for the overall operation of your municipality (for information on capital property, see [Claiming ITCs on capital property](#P651_82288)). These expenses include those for management, administration, and other support functions of your municipality. Examples of general operating expenses may include paper, pens, utilities, and equipment and office rentals.
+
+If you intend to consume or use 90% or **more** of an operating expense in your commercial activities, you can claim a full ITC for the GST/HST paid or payable on that expense.
+
+If you intend to consume or use 90% or **more** of an operating expense in your **exempt** activities, you **cannot** claim an ITC for the GST/HST paid or payable on that expense.
+
+You hire a painting company to paint an apartment building you use to supply long-term residential accommodation (an exempt supply). You **cannot** claim an ITC for the GST/HST paid or payable to the painting company.
+
+If you make **both** taxable and exempt supplies and you **cannot** attribute 90% or **more** of an operating expense to either a commercial activity or an exempt activity, you can **only** claim an ITC to the extent you acquire the property or service for consumption or use in your commercial activities. For mixed-use expenses, you have to determine their percentage of use in your commercial activities.
+
+The method you use to determine the percentage of consumption or use of the operating expenses in commercial activities has to be fair and reasonable, and be used consistently throughout the fiscal year.
+
+Examples of expenses that may be eligible for ITCs include:
+
+- general operating expenses, such as rent and utilities, to the extent that they are used in commercial activities
+
+- new merchandise bought for resale
+
+- meals and entertainment expenses related to your commercial activities (subject to certain restrictions)
+
+- certain allowances and reimbursements you paid to employees and volunteers engaged in your commercial activities
+
+- capital personal property (such as office furniture, photocopiers, computers, and vehicles) consumed or used primarily (**more** than 50%) in your commercial activities (see [Capital property](#P648_82023))
+
+- purchases of, and improvements to, capital real property used primarily in commercial activities (see [Capital property](#P648_82023))
+
+Your municipality operates an arena to make both taxable supplies of ice time for consideration and exempt supplies of supervised skating classes for children 14 years of age or under. During the quarterly reporting period, 70% of your hydro usage relates to your exempt supplies and 30% relates to taxable supplies for consideration. You may be eligible to claim 30% of the GST/HST paid or payable on that quarter’s hydro bill as an ITC. You may also be able to claim a municipal rebate for the remaining amount.
+
+Most registrants claim their ITCs when they file their GST/HST return for the reporting period in which they made their purchases or incurred their expenses. However, if your annual revenue from taxable supplies in **either** of the previous two fiscal years was $6 million or less, you generally have up to **four** years from the due date of the return for the reporting period in which the ITC could have first been claimed to claim the ITC.
+
+Do **not** include revenue from zero‑rated exports of property and services, zero‑rated supplies of financial services, taxable sales of capital real property and goodwill.
+
+You are a quarterly filer and your annual revenues are less than $6 million. GST was paid or payable on your property for resale in the reporting period of April 1 to June 30, 2022, for which you can claim an ITC. Since the end of the reporting period is June 30, 2022, and the due date of the return for that period is July 31, 2022, you can claim the ITC on that return or in any future return filed by July 31, 2026.
+
+If your annual revenue from taxable supplies (other than the excluded revenues noted on the previous page) was more than $6 million in **both** your preceding **two** fiscal years, the time limit for claiming ITCs is generally reduced to **two** years.
+
+### Simplified method for claiming ITCs
+
+The **simplified method for claiming ITCs** is another way for **eligible registrants** to calculate their ITCs when filling out their GST/HST return using the regular method of filing.
+
+When you use the simplified method for claiming ITCs, you do **not** have to show the GST/HST separately in your records. Instead, total the amount of your taxable purchases for which you can claim ITCs. You still have to keep the usual documents to support your ITC claims in case the CRA asks to see them.
+
+You are **eligible** to use the simplified method for claiming ITCs if you meet **all** of the following conditions:
+
+- You are a GST/HST registrant.
+
+- You are **not** a listed financial institution.
+
+- Your annual worldwide revenues from taxable property and services (including those of your associates) are $1 million or less in your last fiscal year.
+
+- You have **$4 million or less** in taxable purchases made in Canada in your last fiscal year. The $4 million purchase limit does **not** include zero‑rated purchases, but it does include purchases imported into Canada, as well as the GST/HST paid or payable on those purchases and importations. In addition, as a **municipality**, you **must** be able to reasonably expect that your taxable purchases in the **current** fiscal year will **not** be **more** than $4 million.
+
+For more information, see [Guide RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+## GST/HST public service bodies' rebate
+
+Public service bodies, such as municipalities, can claim a rebate to recover the GST/HST paid or payable. This rebate allows you, as a municipality, to recover 100% of the GST or of the **federal part** of the HST paid or payable on your eligible purchases and expenses, **but that you cannot recover through an ITC, or any other rebate, refund or remission**. You do **not** have to be registered for the GST/HST to apply for a municipal rebate. If you are a designated municipality, you are **only** entitled to claim the 100% rebate of the GST or the **federal part** of the HST to the extent that you intended to consume, use, or supply a purchase or expense in the course of your designated activities.
+
+If you are a municipality in New Brunswick, Newfoundland and Labrador, Nova Scotia, or Ontario, you may also claim a rebate for a percentage of the **provincial part** of the HST paid or payable on your eligible purchases and expenses. If you are a designated municipality resident in these provinces, you can only claim a municipal rebate of the **provincial part** of the HST to the extent that you intended to consume, use, or supply a purchase or expense in the course of your designated activities in the participating province.
+
+The rebate rates for the **provincial part** of the HST paid or payable on your eligible purchases and expenses are:
+
+- 57.14% if you are a municipality resident in New Brunswick
+
+- 57.14% if you are a municipality resident in Newfoundland and Labrador for tax payable on or after January 1, 2017, and 25% for tax payable in 2016
+
+- 57.14% if you are a municipality resident in Nova Scotia
+
+- 78% if you are a municipality resident in Ontario
+
+Municipalities in Prince Edward Island, as well as municipalities in Newfoundland and Labrador (for tax payable before January 1, 2016), are ineligible for a rebate of the **provincial part** of the HST. Similarly, designated municipalities in Prince Edward Island and Newfoundland and Labrador (for tax payable before January 1, 2016) are ineligible for a rebate of the **provincial part** of the HST paid or payable in relation to their designated activities. However, designated municipalities that are also qualifying non-profit organizations, public institutions, and charities may claim a rebate of the **provincial part** of the HST paid or payable in relation to their non-designated activities at the rate applicable to qualifying non-profit organizations, public institutions, and charities.
+
+While not technically a municipality, an Inuit community government (and the Nunatsiavut Government) that is resident in Newfoundland and Labrador is treated as a municipality for purposes of claiming the public service bodies’ rebate (PSB rebate) of the **provincial part** of the HST. For more information, see [Guide RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+You may be eligible to use the simplified method for claiming PSB rebates. For more information, see [Guide RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+### Apportionment of rebates
+
+If you are a designated municipality that is also a charity, public institution, or qualifying non-profit organization and you engage in activities that are separate from your designated municipal activities, you have to apportion your PSB rebate. Claim the 100% municipal rebate of the GST or the **federal part** of the HST to the extent that you intended to consume, use, or supply a purchase or expense in the course of your designated activities and a 50% PSB rebate to the extent that you intend to consume, use, or supply a purchase or expense in your other activities.
+
+You are a registered charity resident in Manitoba that supplies rent‑geared‑to‑income housing and you have been designated as a municipality for these supplies.
+
+Your supplies of housing are restricted to seniors, 40% on a rent‑geared‑to‑income basis and the other 60% are at market rate. You are entitled to a 100% municipal rebate of the GST for purchases and expenses relating to rent‑geared‑to‑income housing, the only activity for which you have been designated to be a municipality, and you are entitled to a 50% rebate of the GST for purchases and expenses that relate to the supplies of housing to seniors at market rate.
+
+If you are a designated municipality that is also a charity, a public institution, or a qualifying non‑profit organization resident in a participating province, you have to apportion your PSB rebate of the **provincial part** of the HST. Claim the municipal rebate using the relevant rebate rate of the **provincial part** of the HST (see above) to the extent that you intended to consume, use, or supply a purchase or expense in your designated activities and claim a PSB rebate as a charity or qualifying non-profit organization to the extent that you intend to consume, use, or supply a purchase or expense in your other activities. The PSB rebate rates of the **provincial part** of the HST for charities and qualifying non‑profit organizations are:
+
+- 50% if you are resident in New Brunswick (only if you are **not** also a hospital authority, a university, a school authority, or a public college)
+
+- 50% if you are resident in Newfoundland and Labrador
+
+- 50% if you are resident in Nova Scotia
+
+- 82% if you are resident in Ontario
+
+- 50% if you are resident in Prince Edward Island for tax payable on or after January 1, 2023, and 35% for tax payable before January 1, 2023.
+
+For more information, see [Guide RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+### Eligible purchases and expenses
+
+The GST/HST paid or payable on the following purchases and expenses may be eligible for the PSB rebate:
+
+- general operating expenses, such as rent, utilities, and administration expenses, for which you cannot claim ITCs
+
+- most allowances and reimbursements you pay to employees involved in your exempt activities
+
+- property and services used, consumed, or supplied in your exempt activities
+
+- capital property. However, you **cannot** claim the rebate when you change the use of capital property from primarily commercial activities to primarily non‑commercial activities. This is because you have to calculate the basic tax content of the property with such a change in use and the basic tax content formula already takes the PSB rebate into account
+
+### First Nations Goods and Services Tax
+
+Several First Nations and Indigenous governments have passed laws imposing a First Nations goods and services tax (FNGST) on their lands and have entered into tax administration agreements concerning the FNGST. The FNGST is a 5% tax on taxable supplies of property and services on certain First Nations’ or Indigenous governments’ lands. Generally, the same property and services that are subject to the GST/HST are subject to the FNGST. When the FNGST applies to a supply, the GST or the **federal part** of the HST does **not**.
+
+The CRA administers the FNGST for the First Nations and Indigenous governments. Generally, the same rules apply to the FNGST as to the GST/HST when claiming PSB rebates. You can claim the PSB rebate of any FNGST paid or payable on eligible purchases and expenses.
+
+### Non-eligible purchases and expenses
+
+The GST/HST paid or payable on certain purchases and expenses is **not** eligible for the PSB rebate. These purchases and expenses include:
+
+- membership in a club, the main purpose of which is to provide dining, recreational, or sporting facilities
+
+- tobacco products, cannabis products and alcoholic beverages (except when included in the price of a meal) you supply and for which you are not required to collect the GST/HST
+
+- property and services you acquire to provide long-term residential accommodation (one month or more), unless more than 10% of the accommodation is restricted to seniors, youths, students, or individuals with a disability or with limited financial resources who qualify for occupancy or reduced rents under a means or income test
+
+- property and services you acquire primarily (more than 50%) for the supply of a parking space made available to residential tenants **unless** more than 10% of the residential accommodation associated with the parking space is restricted to seniors, youths, students, or individuals with a disability or limited financial resources who qualify for occupancy or reduced rents under a means or income test
+
+- property and services acquired primarily for making a supply of real property to another person for use by that person in leasing residential property on an exempt basis (including incidental parking), **unless** that other person is a public service body and more than 10% of the residential property is restricted to seniors, youths, students, individuals with a disability, or individuals with limited financial resources who qualify for occupancy or reduced rents under a means or income test
+
+- property or services you supply to another person, if the property or service is a taxable benefit to that person for income tax purposes, but you do not have to remit any GST/HST on the supply
+
+- property and services considered to be acquired by you acting as the operator of a joint venture (where an election has been filed) if any of the co-venturers would not be entitled to claim a PSB rebate if they were acquired by the co-venturer
+
+- property and services you acquire to supply to an officer, employee, or member, or to another person related to that person, for personal use unless **either** of the following applies:
+
+    - You supply it for its fair market value in the same year you acquire it and tax is payable in respect of the supply
+
+    - You supply the good or service free of charge to the person and it is not a taxable benefit
+
+### General operating expenses
+
+General operating expenses are purchases you make for the overall operation of your municipality (for more information, see [Capital property](#P648_82023)). These expenses include those for management, administration, and other support functions of your municipality. Examples of general operating expenses may include paper, pens, utilities, and equipment and office rentals.
+
+If you **are** a GST/HST registrant and you can attribute an expense directly to a specific use, the rules are as follows:
+
+- You can claim an ITC if you incur an expense to provide taxable property and services for consideration. For example, if you pave private owners’ driveways in a new subdivision and bill the owners directly for this service, you can claim an ITC for the GST/HST paid or payable on expenses used to provide the service
+
+- You can claim a rebate if you incur an expense to make exempt supplies. If you intend to use your general operating expenses all or substantially all (90% or more) to provide exempt property and services, you can claim a rebate of 100% of the GST or the **federal part** of the HST paid or payable on all of these expenses. If you are a municipality in New Brunswick, Newfoundland and Labrador, Nova Scotia, or Ontario, you may also claim a rebate for a percentage of the **provincial part** of the HST for these expenses
+
+Designated municipalities must allocate expenses between their designated activities and their other activities, and apportion their rebate claim accordingly.
+
+If you **cannot** directly attribute your general operating expenses to a specific use, you have to apportion the GST/HST paid or payable on these expenses. This applies if your municipality makes **both** taxable and exempt supplies. You can claim an ITC for the GST/HST paid or payable on property or a service to the extent that it was acquired for use in your commercial activities and a rebate on the part of the GST/HST for which you cannot claim ITCs (for example, purchases used in exempt activities). You have to apportion the GST/HST paid or payable on your general operating expenses between commercial and exempt activities.
+
+You are a municipality in Saskatchewan and your operating expenses for both commercial and exempt activities combined are $1,000 per month plus $50 GST. If 30% of your activities involve making taxable supplies of property and services for consideration and 70% involve making exempt supplies of property and services, you may be eligible to claim on your GST/HST return an ITC for 30% of the GST paid or payable on your monthly operating expenses that are not directly attributable to a particular activity. The balance of GST that is not eligible for an ITC qualifies for a 100% rebate.
+
+The method you use to determine the extent that a property or service is used in your commercial activities and in your exempt activities has to be fair and reasonable for your specific circumstances, and you have to use it consistently throughout the fiscal year.
+
+### How to apply for the PSB rebate
+
+You can apply for the PSB rebate by using the CRA's digital services in:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are a business owner
+
+- [Represent a client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are an authorized representative or employee
+
+If you are required to file an **electronic return**, use [Form GST66, Application for GST/HST Public Service Bodies' Rebate and GST Self‑government Refund](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst66.html), and if applicable, [Form RC7066-SCH, Provincial Schedule – GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7066-sch.html), can be filed electronically with your return, using GST/HST NETFILE, or the “File a return” service through My Business Account or Represent a Client.
+
+If you have rebate applications that **cannot** be filed electronically, but relate to the GST/HST return that you are filing electronically, use Form GST66, and if applicable, Form RC7066-SCH, and send them by mail no later than the due date of your electronic return, to the applicable tax centre noted on the rebate form.
+
+If you are claiming the amount of your rebate on **line 111** of a GST/HST return that you are filing electronically and you choose **not** to file your rebate application electronically, you have to send it to the address on the rebate form no later than the day you file your return.
+
+If you are claiming the amount of your rebate on **line 111** of a GST/HST return that you are **not** filing electronically, you have to send your rebate application with that paper return.
+
+If you file a paper return, the CRA will no longer mail the personalized Form GST284, *Application for GST/HST Public Service Bodies' Rebate and GST Self–Government Refund*, and Form GST284–SCH, *Provincial Schedule – GST/HST Public Service Bodies' Rebate*.
+
+#### Registrant municipalities
+
+Your municipal rebate **can** be offset against any net tax you owe on your GST/HST return by claiming the rebate on **line 111**. For more information, see [Guide RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+You have up to four years from the due date of your GST/HST return for the claim period in which you made the purchase or incurred the expense to apply for the municipal rebate. You do **not** have to include original invoices or receipts with the rebate application. However, you have to keep them for six years from the end of the calendar year to which they relate, in case the CRA asks to see them at a later date.
+
+Your branches or divisions may be entitled to file their own GST/HST returns and rebate applications. To do so, each branch or division has to meet certain conditions. For example, **each** branch or division has to be separately identified by its location or the nature of its activities, and separate books and records **must** be kept. The head office has to fill out and send [Form GST10, Application or Revocation of the Authorization to File Separate GST/HST Returns and Rebate Applications for Branches or Divisions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst10.html).
+
+#### Non-registrant municipalities
+
+You can file your municipal rebate application every six months (at the end of your second and fourth fiscal quarters). For more information, see [Guide RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+You have up to four years from the end of the claim period in which you made a purchase or incurred an expense to claim a rebate for the GST/HST on that purchase or expense.
+
+You can file one rebate application for the municipality as a whole. However, if your municipality has branches or divisions, you can also apply to have the branches or divisions file separate rebate applications. To do so, **each** branch or division has to meet certain criteria. Each branch or division has to be separately identified by its location or the nature of its activities, and separate books and records must be kept. The head office has to fill out and send a Form GST10.
+
+## Other rebates available
+
+### Property or services removed from a participating province
+
+Amounts claimed (or entitled to be claimed) as a rebate on [Form GST495, Rebate Application for Provincial Part of Harmonized Sales Tax (HST)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst495.html) or [Form GST189, General Application for GST/HST Rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html), must be deducted from the HST paid or payable by the public service body prior to calculating its PSB rebate.
+
+### Tangible personal property
+
+You may be able to claim a rebate of some or all of the **provincial part** of the HST you paid on tangible personal property (goods) that you bought in a participating province and removed from the province. A rebate of the amount is **not** available to the extent that you may otherwise recover the amount, for example by claiming an ITC for the amount.
+
+To qualify for the rebate of the **provincial part** of the HST that you paid on eligible goods that you bought in a participating province, you have to meet **all** of the following conditions:
+
+- You are a resident of Canada.
+
+- You bought the goods in a participating province and you paid HST on them.
+
+- You bought the goods for consumption, use, or supply exclusively (generally 90% or more) outside the participating province.
+
+- You removed the goods from the participating province to a non-participating province or a participating province with a lower HST rate no later than 30 days after they were delivered to you (excluding any amount of time that the goods were in storage).
+
+- You paid any applicable provincial sales tax of the province to which the goods were removed and any other applicable taxes.
+
+- You file the rebate application no later than one year after the day you remove the goods from the participating province.
+
+- Each receipt for an eligible good shows an amount of tax that can be rebated of at least $5.
+
+- The total amount of tax that can be rebated is at least $25.
+
+You **cannot** file more than one rebate application in a calendar month.
+
+The following goods **are not eligible** for this rebate:
+
+- excisable goods (such as beer, spirits, wine, and tobacco products.)
+
+- most gasoline, diesel fuel, and certain other types of fuel
+
+To apply for this rebate, fill out [Form GST495, Rebate Application for Provincial Part of Harmonized Sales Tax (HST)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst495.html). The form describes the documentation that is required to support your rebate claim.
+
+### Intangible personal property and services
+
+You may be eligible for a rebate of some or all of the **provincial part** of the HST payable on intangible personal property (such as goodwill, contractual rights, trademarks and intellectual property) or services you acquire in a participating province for consumption, use, or supply, in whole or in part, in non-participating provinces or in participating provinces with lower HST rates. A rebate of the amount is not available to the extent that you may otherwise recover the amount, for example by claiming an ITC for the amount.
+
+Generally, the rebate is calculated by multiplying the eligible amount of the **provincial part** of the HST payable by the percentage to which the intangible personal property or service is acquired for consumption, use, or supply outside the participating province (for non‑participating provinces, the **provincial part** of the HST is treated as being 0%.)
+
+To qualify for the rebate of the **provincial part** of the HST on intangible personal property or a service you acquired in a participating province, you have to meet **all** of the following conditions:
+
+- You are a resident of Canada.
+
+- The intangible personal property or service is acquired for consumption, use, or supply significantly (10% or **more**) in non-participating provinces or participating provinces with lower HST rates.
+
+- You file the rebate application no later than **one** year after the day the tax became payable.
+
+- **Each** receipt for eligible intangible personal property or an eligible service shows an amount of tax that can be rebated of at least $5.
+
+- The total amount of tax that can be rebated is at **least** $25.
+
+You **cannot** file more than one rebate application in a calendar month.
+
+To apply for the rebate, fill out [Form GST189, *General Application for GST/HST Rebates*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html). The form describes the documentation that is required to support your rebate claim.
+
+For more information on these rebates, see [Guide RC4033, General Application for GST/HST Rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4033.html).
+
+## Purchases of printed books
+
+You may qualify for the 100% rebate of the GST or the **federal part** of the HST payable on printed books, audio recordings of printed books, and printed versions of religious scriptures purchased **other than for resale**.
+
+**Designated**municipalities generally do not qualify for the printed-book rebate. For more information, see [Guide RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+For this rebate, **printed books** do **not** include certain items such as the following:
+
+- newspapers
+
+- magazines and periodicals that are **not** purchased by subscription or that have more than 5% of their printed space devoted to advertising
+
+- books designed primarily for writing or drawing on, or affixing thereto, or inserting therein, items such as clippings, pictures, coins, stamps or stickers
+
+- brochures or pamphlets
+
+- agendas and calendars
+
+- directories
+
+- rate books (for example, insurance rate books)
+
+You qualify for this rebate if you meet **all** the following conditions:
+
+- You are a municipality.
+
+- The printed books, audio recordings of printed books, and printed versions of religious scriptures are **not** bought for resale.
+
+- The printed books, audio recordings of printed books, and printed versions of religious scriptures are **not** bought for the purpose of transferring ownership in the course of supplying another property or service.
+
+In addition, a charity, or qualifying non-profit organization that operates a public lending library is eligible for this rebate. A charity or qualifying non-profit organization, whose primary purpose is promoting literacy, is also eligible for this rebate if it meets certain requirements.
+
+If a municipality qualifies for the book rebate for the GST or for the **federal part** of the HST, it must claim this rebate separately from its public service bodies' rebate. The municipality may claim both rebates using the same rebate application, for example, [Form GST66, Application for GST/HST Public Service Bodies' Rebate and GST Self-Government Refund](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst66.html).
+
+However, it must allocate the amount it is claiming as a municipality and the amount it is claiming as a federal book rebate to the appropriate lines in Part D of the form. The municipality **cannot** claim a municipal rebate for the GST/HST it paid on books if it would be entitled to claim the federal book rebate.
+
+For more information, see [Guide RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html), or [GST/HST Memorandum 13-4, Rebates for Printed Books, Audio Recordings of Printed Books, and Printed Versions of Religious Scriptures](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/13-4.html).
+
+### Provincial point-of-sale rebates
+
+Participating provinces provide a point‑of‑sale rebate of the **provincial part** of the HST payable on qualifying items. When vendors provide point-of-sale rebates for the **provincial part** of the HST, they **only** collect the 5% **federal part** of the HST payable on the sale of these items.
+
+| New Brunswick | Books [Footnote*](#fn*) |
+
+| --- | --- |
+
+| Newfoundland and Labrador | Books |
+
+| Nova Scotia | Books [Footnote*](#fn*) , children's clothing and footwear, and children's diapers |
+
+| Ontario | Books [Footnote*](#fn*) , children's clothing and footwear, children's diapers, children's car seats, qualifying newspapers, and qualifying food and beverages |
+
+| Prince Edward Island | Books [Footnote*](#fn*) , children's clothing and footwear, and qualifying heating oil |
+
+A vendor’s ability to claim ITCs would **not** be affected by crediting purchasers for the point-of-sale rebate. If the vendor does not credit the point-of-sale rebate, the purchaser may be able to apply for a rebate of the **provincial part** of the HST using [Form GST189, General Application for GST/HST Rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html).
+
+You can **only** claim a PSB rebate of the **federal** **part** of the HST on these items. If HST‑taxable items and provincial point-of-sale rebate items are included on the same purchase invoice, you have to separate the **federal** **part** of the HST and the **provincial** part of the HST paid on that invoice in order to calculate the amounts on which the federal and provincial (if applicable) rebates can be claimed.
+
+For a detailed description of the qualifying items and more information on point-of-sale rebate, go to [GST/HST-related forms and publications](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/forms-publications.html), and see the following publications:
+
+- [GST/HST Info Sheet GI–060, Harmonized Sales Tax for Ontario – Point‑of‑Sale Rebate on Newspapers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-060.html)
+
+- [GST/HST Info Sheet GI–063, Point‑of‑Sale Rebate on Children's Goods](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-063.html)
+
+- [GST/HST Info Sheet GI–064, Harmonized Sales Tax for Ontario – Point‑of‑Sale Rebate on Prepared Food and Beverages](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-064.html)
+
+- [GST/HST Info Sheet GI–065, Point‑of‑Sale Rebate on Books](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-065.html)
+
+- [GST/HST Info Sheet GI–169, Point‑of‑Sale Rebate on Heating Oil](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-169.html)
+
+- [Guide RC4033, General Application for GST/HST Rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4033.html) (reason code 16)
+
+#### How to account for point-of-sale rebates
+
+A registrant supplier that pays or credits the rebate amount at the point of sale can account for the rebate amount on its GST/HST return in **one** of two ways:
+
+- Show the total HST collected or collectible. If you are filing electronically using GST/HST NETFILE or filing a paper GST/HST return, show the total HST on **line 103** and claim an adjustment for the rebate amount on **line 107**. If you are filing using GST/HST TELEFILE, include the total HST collected or collectible in your **line 105** calculation and claim an adjustment for the rebate amount you paid or credited in your **line 108** calculation.
+
+- Show the net amount of the HST collected or collectible. If you are filing electronically using GST/HST NETFILE or filing a paper GST/HST return, show the net amount by including only the **federal part** (5%) of the HST on **line 103** and do not make an adjustment for the rebate amount on **line 107**. If you are filing using GST/HST TELEFILE, include only the **federal part** (5%) of the HST collected or collectible in your **line 105** calculation and do not claim an adjustment for the rebate amount paid or credited in your **line 108** calculation.
+
+For more information, see [Guide RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+### Rebate for sales of capital personal property by a non-registrant municipality
+
+Municipalities and designated municipalities that are **not** registrants may claim a rebate of tax when they make a taxable sale of capital personal property, of designated municipal property that is capital property. The rebate is equal to the lesser of the [basic tax content](#btc) of the property at that time, or the tax that is payable on the sale of the property, or would have been payable if there was not a tax-free rollover of the property.
+
+Claim the rebate by filling out and sending [Form GST189](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html) using Code 7. The application must be filed within **two** years after the day the amount payable on the sale became due or was paid.
+
+## Special quick method of accounting
+
+The special quick method is another accounting option available to eligible municipalities and designated municipalities that are GST/HST registrants. This method reduces paperwork and makes it easier to calculate the GST/HST remittances and file GST/HST returns because it eliminates the need to keep track of the actual GST/HST paid on purchases, or to separate purchases that are for commercial activities versus those for making exempt supplies.
+
+A designated municipality that is a charity **cannot** use the special quick method of accounting. For more information, see [Guide RC4082, GST/HST Information for Charities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4082.html).
+
+When you use the special quick method, you still collect the GST/HST on the property or services you supply. However, to calculate the amount of the GST/HST to be remitted, multiply the amount of your GST/HST included supplies for the reporting period by the remittance rate, or rates, that apply in your situation.
+
+The special quick method remittance rates are **less** than the applicable rate of tax that you collect. This means that you remit only part of the tax you collect. Since you **cannot** claim ITCs on most of your purchases when you use this method, the part of the tax that you keep accounts for the approximate value of the ITCs you would normally have claimed.
+
+Whether the special quick method will be more beneficial for you to use than the regular method depends on your specific situation.
+
+Remittance rates for municipalities using the special quick method vary according to the place of supply and the province in which the municipality is located. If all or substantially all (90% or more) of the supplies are made either within or outside a participating province, you can use one remittance rate.
+
+Using the special quick method does **not** affect the municipality’s entitlement to a PSB rebate. A municipality that has elected to use this method is entitled to claim a rebate for the GST or the **federal part** of the HST paid or payable on all eligible purchases made during the claim period for which it cannot claim ITCs. In addition, a municipality using this method that qualifies for a rebate for the **provincial part** of the HST will claim it in the usual way.
+
+For more information, go to [Special quick method of accounting for public service bodies](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/complete-file-quick-method.html).
+
+### How to elect to use the special quick method
+
+You can use the special quick method whether you file GST/HST returns monthly, quarterly, or annually. Elect to use this method by filing [Form GST287,](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst287.html)[Election or Revocation of the Election by Public Service Bodies to Use the Special Quick Method of Accountin](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst287.html)g.
+
+If you file monthly or quarterly GST/HST returns, you have to make your election on or before the due date of the return in which you begin using the special quick method.
+
+If you file annual returns, you have to make your election on or before the first day of your second fiscal quarter.
+
+If you have branches or divisions, your election to use this method will apply to all of your branches or divisions, whether or not they file separate GST/HST returns. Once you decide to use the special quick method, you have to use it for **at least** one year. You can keep using it without having to re-elect as long as you remain eligible.
+
+## Capital property
+
+Capital property, for GST/HST purposes, is based on the meaning of the term for income tax purposes and includes:
+
+- depreciable property (property that is eligible for capital cost allowance for income tax purposes)
+
+- other property that would result in a capital gain or capital loss for income tax purposes if you disposed of it
+
+Generally, capital property is property you buy for investment purposes or to earn income. It may include:
+
+- real property, such as land or a building
+
+- personal property such as equipment or machinery that you use in your business
+
+- photocopiers, computers, and cash registers
+
+- furniture and appliances used to furnish places such as offices, lobbies, and hotel rooms
+
+- free-standing refrigerators, ovens, and other large appliances. Built-in appliances are fixtures that are usually considered to be part of the real property
+
+Capital property for GST/HST purposes does **not** include property described for income tax purposes in:
+
+- class 12 (such as chinaware, cutlery, and certain tableware)
+
+- class 14 (certain patents, franchises, concessions, or licences for a limited period)
+
+- class 14.1 (goodwill of a business)
+
+- class 44 (a patent or a right to use patented information for a limited or unlimited period).
+
+To claim ITCs for these items based on the rules for operating expenses, see [General operating expenses](#P562_69546).
+
+### Claiming ITCs on capital property
+
+As a GST/HST registrant and public service body, you do not apportion the GST/HST paid or payable on acquisitions of capital property between commercial activities and the making of exempt supplies. Instead, you have to use the **primary use rule**. Under this rule, you can claim a full ITC on the acquisition or importation of capital property if you intend to use it **primarily** (more than 50%) in your commercial activities.
+
+If you intend to use the capital property 50% or less in commercial activities, you **cannot** claim ITCs but you may be eligible for the 100% municipal rebate of the GST or the **federal part** of the HST paid or payable. If you are a municipality in New Brunswick, Newfoundland and Labrador (as of January 1, 2016), Nova Scotia, or Ontario, you may also claim a municipal rebate for a portion of the **provincial part** of the HST for these expenses.
+
+Designated municipalities must allocate expenses between their designated activities and their other activities, and apportion their rebate claim accordingly.
+
+### Supplies of capital personal property
+
+Capital personal property includes items such as office furniture, equipment, and computers, but does **not** include real property. Most supplies of capital personal property made by a municipality are taxable and, if the municipality is a registrant, it has to collect tax on such a supply.
+
+Non-registrant municipalities that are small suppliers have to collect tax on taxable **sales** of capital personal property. However, they do **not** have to collect tax on leases or other supplies of capital personal property. As well, a non‑registrant small supplier that is a designated municipality has to collect tax on a taxable sale of designated municipal property that is capital property of the person.
+
+### Supplies of real property
+
+#### Sales
+
+Most sales of real property made by a municipality are taxable, as are most sales of designated real property made by a designated municipality (certain sales of housing remain exempt). A municipality or designated municipality has to collect and remit tax on its taxable sales of real property, whether or not it is a GST/HST registrant, **unless** either of the following situations applies:
+
+- The purchaser is registered for the GST/HST and, in the case where the purchaser is an individual, the property is neither housing nor supplied as a cemetery plot or place of burial, entombment or deposit of human remains or ashes.
+
+- The municipality and the purchaser jointly elect (using [Form GST22, Real Property – Election to Make Certain Sales Taxable](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst22.html)) to make taxable an otherwise exempt sale of housing.
+
+Under these circumstances, the municipality does **not** collect the tax payable. The responsibility shifts to the purchaser to report and remit the GST/HST. For more information, see [Guide RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+#### Leases
+
+Most leases and other supplies of real property made by a municipality are taxable supplies, as are most leases and other supplies of designated real property made by a designated municipality (certain supplies of housing remain exempt). However, it is only registrant municipalities and registrant designated municipalities that have to collect and remit tax on these taxable supplies.
+
+### Change-in-use – Capital real property
+
+The use of real property may change over time. For a municipality, the change‑in‑use rules that apply to capital real property are generally the same as those that apply to capital personal property.
+
+#### Exception
+
+If you have filed an election (using [Form GST26, Election or Revocation of an Election by a Public Service Body to Have an Exempt Supply of Real Property Treated as a Taxable Supply](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst26.html)) to make taxable certain otherwise exempt sales and leases of particular real property, the change-in-use rules for capital personal property do not apply. Instead, the change-in-use rules for capital real property that apply to corporations and partnerships will apply, but only for the property for which you filed the election. For more information, see [Guide RC4022](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+If you are a municipality that has **not** filed an election using Form GST26, you have to apply the change‑in‑use rules in **either** of the following situations:
+
+- Your real property that was used 50% or less in your commercial activities is now used more than 50% in your commercial activities.
+
+- Your real property that was used more than 50% in your commercial activities is now used 50% or less in your commercial activities.
+
+In each situation, you have to determine the **basic tax content** (BTC) of the property when the change occurs.
+
+If you change the use from 50% or less in commercial activities to more than 50% in commercial activities, you can claim an ITC equal to the BTC.
+
+If you change the use from more than 50% in commercial activities to 50% or less in commercial activities, you have to include an amount equal to the BTC in determining your net tax.
+
+**Calculating the basic tax content** As a general rule, the BTC formula is as follows:
+
+**(A – B) × C**
+
+**A** is the GST/HST payable for your last acquisition of the property and for later improvements you made to the property.
+
+**B** is any rebate or refund you were entitled to claim (or would have been entitled to claim if you had **not** been entitled to claim an ITC) for the GST/HST payable for your last acquisition of the property and for later improvements you made to it, but **not** including ITCs you were entitled to claim.
+
+**C** is the **lesser**of:
+
+- 1
+
+- the fair market value of the property at the time of the change in use **divided by** the total cost (**not** including the GST/HST) for your last acquisition of the property and later improvements you made to it
+
+#### Changing the use to more than 50% in commercial activities
+
+When you buy capital real property for use 50% or less in your commercial activities, you **cannot** claim ITCs to recover the GST/HST paid or payable. However, if you later change the use of the property to **more** than 50% in your commercial activities, the CRA considers you to have purchased the property at the time of the change in use, by including this amount on **line 106** if you are filing electronically using GST/HST NETFILE or if you are filing a paper GST/HST return, or by including it in your **line 108** calculation if you are filing using GST/HST TELEFILE.
+
+This generally means that you **can** recover all or part of the GST/HST you paid when you bought the property and any later improvements to the property.
+
+If you later change the use again and begin to use the property 50% or less in your commercial activities, you may have to pay all or part of the GST/HST that you claimed, or were entitled to claim, as an ITC. For more information, see [Changing the use to 50% or less in commercial activities](#change_50_less).
+
+#### Changing the use to 50% or less in commercial activities
+
+When you buy capital real property for use **more** than 50% in your commercial activities, you may be eligible to claim an ITC to recover the GST/HST you paid, or that was payable, on your purchase. However, if you change the use of the property from **more** than 50% in your commercial activities to 50% or less in your commercial activities, the CRA considers that you have sold the property and collected the GST/HST on that sale.
+
+The tax you are considered to have collected is equal to the BTC of the real property at the time of the change in use and has to be included in your net tax calculation when you file your GST/HST return for the reporting period in which the change in use occurred.
+
+This generally means that you have to repay all or part of the GST/HST you claimed, or were entitled to claim, as an ITC when you bought the property and when you made any improvements to it.
+
+The tax you have to repay is equal to the basic tax content of the capital personal property at the time of the change in use. This amount has to be included on **line 103** if you are filing electronically using GST/HST NETFILE or if you are filing a paper GST/HST return, or in your **line 105** calculation if you are filing using GST/HST TELEFILE, for the reporting period in which the change in use occurred.
+
+If you later change the use again and begin to use the property **more** than 50% in your commercial activities, you may be entitled to claim an ITC. For more information, see [Changing the use to more than 50% in commercial activities](#change_50_more).
+
+### Subsidized housing and self-supply
+
+Special self-supply rules may apply to a builder (including a municipality or designated municipality) that builds or substantially renovates housing, or builds an addition to multiple unit housing if 10% or more of the residential units in the housing are intended to be leased to seniors, youths, students, individuals with a disability, individuals in distress or in need of assistance, or individuals whose eligibility for a unit is based on a means or income test.
+
+During the construction phase, you can register for the GST/HST and claim ITCs for the GST/HST paid or payable on property and services you acquire that relate to the construction of the housing.
+
+However, you are considered to have made a taxable sale (self-supply) of the housing and to have collected the GST/HST on that sale, on the **late**r of the following:
+
+- the day construction is substantially completed
+
+- the day you first give possession or use of a residential unit in the housing under a lease, licence, or similar arrangement to an individual for use as a place of residence
+
+The amount of GST/HST you are considered to have collected and paid on the self-supply of the housing is equal to the **greater** of the following:
+
+- the amount of the GST/HST calculated on the fair market value of the housing at the time of the self-supply
+
+- the total amount of all of the GST/HST that would have been payable on the acquisition of the land, the construction of the building, and any other improvements to the property (collectively, the housing inputs) if the GST/HST rate that applied to those housing inputs had been the same GST/HST rate that applies to the self-supply of the housing
+
+For more information, see [Guide RC4052, GST/HST Information for the Home Construction Industry](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4052.html).
+
+If you constructed the housing to make exempt supplies of long-term residential rents, you **cannot** claim an ITC for the tax you have to account for on the self-supply. However, a municipality may be eligible to claim a municipal rebate of the tax that applies to the self-supply of the housing.
+
+An organization that has been designated as a municipality for its supply of RGI housing must allocate the tax paid between its designated activities, and its other activities, and apportion their PSB rebate claim accordingly (see [Apportionment of rebates](#P557_68936)).
+
+For more information, see [Guide RC4081, Information for Non-Profit Organizations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4081.html), or [Guide RC4082, GST/HST Information for Charities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4082.html) under the heading “Subsidized housing.”
+
+For additional information on the PSB Rebate, see [Guide RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+### Expropriation
+
+A municipality might, while acting as an authority of the province, expropriate real property of one of its residents for its own use. This might occur, for example, where a municipality intends to open or expand a highway and needs the surrounding non-municipal land to accomplish this.
+
+Generally, the transfer of ownership that occurs when real property is expropriated by a municipality is considered to be a sale for GST/HST purposes, whether the transfer is voluntary or not. The tax status of the expropriated property depends on who sells the property (such as an individual, or a corporation), and the type of real property expropriated (for example, vacant land or housing). If you have to pay the GST/HST on the expropriation of real property, see [Input tax credits](#P499_58562)or[GST/HST public service bodies' rebate](#P534_65544)for your ITC or rebate eligibility.
+
+### Seizures and repossessions
+
+When a municipality seizes or repossesses personal or real property (other than property under a lease, licence, or similar arrangement) from a person to satisfy a debt or other obligation, the GST/HST does **not** apply to the transfer of the property to the municipality resulting from the seizure or repossession.
+
+A resident of a municipality fails to pay his municipal taxes and the municipality seizes the property. The GST/HST does **not** apply to the transfer of the property from the resident to the municipality.
+
+Where a municipality causes a supply of property (as in a power of sale) to satisfy a debt owing by a debtor, this is also considered to be a seizure or repossession.
+
+When a municipality causes the sale of property, usually by way of an auction, for unpaid municipal taxes, two separate transactions take place at the time of sale:
+
+- The debtor transfers the property to the municipality (GST/HST does **not** apply to the transfer).
+
+- The municipality sells the property to a purchaser (GST/HST applies where the sale is **not** exempt). For more information, see [Supplies of real property](#P659_83867)
+
+### Redemption of property
+
+Where a municipality seizes and sells property of a debtor, the debtor might have a legal right to buy back the property (a right of redemption), usually within a certain period of time. Special rules apply to the redemption if the sale of the property between the municipality and the purchaser was taxable.
+
+A buyer at an auction buys the seized real property of a debtor for an amount, plus the GST. Under the applicable law, the original debtor has the right to redeem the property within a certain period of time, and does so. The redemption of the property by the original debtor is considered to be a sale by the auction buyer for no cost. The debtor is considered **not** to have ever sold the property or to have re-acquired it. If the debtor reimburses the auction buyer or the municipality the tax that the buyer paid on buying the property, the CRA considers the debtor to have paid tax in error equal to the reimbursed tax amount, and the debtor can claim a rebate for tax paid in error for the amount.
+
+For more information, see [GST/HST Policy Statement P-198, Unpaid Municipal Taxes and Redemption by the Previous Owner](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-198.html).
+
+## Special issues
+
+### Amalgamation, mergers and consolidations
+
+Organizational changes that involve the creation of a new organization or municipality, such as an amalgamation, merger, or consolidation of two or more organizations or municipalities, have consequences for various CRA accounts. In such cases, the newly formed organization or municipality is generally treated as a separate person from any of the predecessor organizations for GST/HST purposes.
+
+#### New registration requirement
+
+If you, as the newly amalgamated municipality, make taxable supplies of property and services in Canada, you have to register for the GST/HST, **unless** you are a small supplier (see [Registration requirements](#should_u_regs)).
+
+The former municipalities generally have to cancel their GST/HST registrations and file their returns up to the day before the date of amalgamation. Any branch or division accounts must also be cancelled under their old business numbers (BNs). You may apply for new branch or division accounts under the newly amalgamated municipality’s BN.
+
+To simplify matters, the CRA may permit a new municipality to keep the BN of one of its predecessors.
+
+#### Updating elections
+
+Most elections in effect under the former municipalities do **not** transfer over to the new municipality. In most cases, the newly amalgamated municipality must make a new election.
+
+Where two or more municipalities merge or amalgamate and any of the predecessor municipalities had an election in effect to use the special quick method, the election continues to be in effect as long as the newly amalgamated municipality is incorporated and meets all of the eligibility requirements for using this method.
+
+#### History of predecessor municipalities
+
+Although the new municipality is deemed to be a person separate from its predecessor municipalities for most GST/HST purposes, certain GST/HST entitlements or obligations of the new municipality are determined based on the history of its predecessors.
+
+The CRA considers the new municipality to be the same as, or a continuation of, each of the former municipalities, regarding real property purchased by the predecessors. For example, the basic tax content of the predecessors’ real property immediately before the amalgamation becomes the basic tax content of the new municipality’s real property immediately after the amalgamation.
+
+In addition, the new municipality is considered to be a continuation of each of its predecessors for:
+
+- determining ITC entitlements for the GST/HST paid on property and services purchased by a predecessor
+
+- bad debt adjustment – once a debt becomes bad, and you have written it off in your books, you may be able to recover some of the tax you previously remitted on the original supply
+
+- the threshold amounts used for determining reporting periods – the threshold amount will be based on the combined supplies of the predecessor municipalities
+
+- prescribed purposes
+
+#### Transferring of assets and property to the newly amalgamated municipality or organization
+
+The transfer of any assets by a predecessor to the newly incorporated municipality or organization due to the amalgamation, merger or consolidation is not a supply and is **not** subject to the GST/HST.
+
+#### No automatic transfer of municipal designation or determination
+
+Regardless of whether the municipal determination or designation granted to a predecessor organization is officially revoked, this status will no longer be effective as of the date the predecessor organization ceases to exist. Therefore, a new organization must apply for municipal determination or designation in order to claim the municipal rebate. For more information, see [Who qualifies as a municipality?](#P209_17574).
+
+Furthermore, the GST/HST exemptions for certain supplies made by municipalities or designated municipalities will generally not apply to the new organization **unless** it has been determined or designated as a municipality.
+
+In cases where the new organization has been permitted to continue using the BN of a predecessor organization, the municipal determination or designation does **not** transfer to the new organization.
+
+### Cost-sharing arrangements
+
+Cost sharing is a common way for two or more municipalities to share costs when buying third-party services, or when jointly operating programs such as 911 dispatch services or a recreational centre. This arrangement generally involves sharing the costs of expenses such as office space, employee wages, and utilities.
+
+In a typical cost-sharing arrangement, one of the members of the group acts as an **administrator**, handling the day‑to‑day operating duties such as buying property and services from third parties and paying the shared wages and benefits of employees. The administrator pays all of the costs initially, and receives reimbursement of their share of the costs from the other members of the group.
+
+The tax status of the various supplies under a cost-sharing arrangement depends on the nature of the relationship between the administrator and the other members of the arrangement.
+
+#### Non-taxable reimbursements
+
+If the administrator is acting as an **agent** of the other members, the CRA generally does **not** consider the reimbursements to be made as payment for a supply of property or services. The administrator does **not** charge the GST/HST on the amounts reimbursed by the other members of the group.
+
+If the administrator is **not** acting as an agent for the other members of the arrangement, there is a **supply** of the property or services by the administrator to the other members of the group. The tax status of that supply depends on the nature of the good or service being supplied by the administrator, and whether or **not** the supply is exempt. If the supply is not exempt, the property or services are taxable.
+
+### Municipal officers' allowance
+
+When you pay a non-accountable allowance to a municipal officer for expenses (all or substantially all [90% or more] of which are taxable at applicable rate of tax) that they incur in Canada, or for the use of a motor vehicle in Canada, you may be eligible to claim a GST/HST municipal rebate on the allowance. For more information, see [GST/HST Memorandum 9-3, Allowances](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/9-3.html).
+
+### Grants and subsidies
+
+As a municipality, you may provide or receive grants, contributions, subsidies, and similar payments often referred to as transfer payments. Transfer payments can be given for many different reasons ranging from supporting the activities of a small non-profit organization, to subsidizing major government-funded projects.
+
+A transfer payment is consideration for a supply, for GST/HST purposes, if there is a direct link between a transfer payment from a grantor and a supply by the grantee. A direct link will be established where the grantee makes a supply to the grantor or to a specified third party in return for the payment. If it is determined that a transfer payment is directly linked to a supply that is taxable, the grantee is required to collect the GST/HST on the transfer payment.
+
+The application of the GST/HST to transfer payments is determined on a case-by-case basis. For more information, see [GST/HST Memorandum 18‑4, Determining Whether a Transfer Payment is Consideration For a Supply](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/18-4/determining-whether-transfer-payment-consideration-supply.html).
+
+## Sponsorships
+
+A public sector body often receives sponsorships from businesses to fund their activities. In return, the public sector body may provide promotional services to the sponsor or may allow the sponsor the right to use its logo, trade name, or any similar intellectual property. Sponsorships may not be subject to the GST/HST depending on the nature and the extent of the promotional benefits you give to the sponsor.
+
+A corporation agrees to sponsor a municipality’s soccer team. In return, the municipality agrees to advertise the corporation’s trade name on the team’s uniform or a municipality runs a sporting event and publishes an acknowledgement of the sponsor in the event’s program.
+
+The payments from the corporation are **not** considered payment for a good or service; therefore, they are **not** subject to the GST/HST.
+
+A municipality receives funding in return for allowing a corporation the right to use its logo. The corporation uses the logo in its advertising campaign. The payments from the corporation are **not** considered payment for a good or service; therefore, they are **not** subject to the GST/HST.
+
+If the payment by the sponsor is made primarily (**more** than 50%) for advertising on television or radio, or in a newspaper, magazine, or other publication issued periodically, the payment received is **not** payment for a sponsorship, but rather a payment for advertising services. Therefore, the payment is subject to the GST/HST.
+
+## Digital services
+
+### Handle your business taxes online
+
+[My Business Accoun](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html)t lets you access your business tax information and interact with the CRA online throughout the year.
+
+**Profile**
+
+- Manage your addresses, direct deposit information, business activity, program account names, operating names, phone numbers, business numbers in your profile, and language preference
+
+- Manage your notification preferences and receive email notifications when important changes are made to your account
+
+- Manage your authorized representatives and authorization requests
+
+- Manage your multi-factor authentication settings and security options
+
+**Balances and payments**
+
+- Make a payment online to the CRA with My Payment, create a pre-authorized debit (PAD) agreement, or create a QR code to pay in person at Canada Post for a fee
+
+- View and pay account balance
+
+- View account transactions
+
+- Transfer payments and immediately view the updated balance
+
+- View interest
+
+- Calculate future balance
+
+- View direct deposit transactions
+
+- Calculate and pay instalment payments
+
+**Transactions**
+
+- File a return, view the status of filed returns, and adjust returns
+
+- File and adjust a rebate
+
+- File and view an election related to GST/HST
+
+- Track the progress of certain files and enquiries you have submitted to the CRA
+
+- Make an online request regarding your account and view answers to common enquiries
+
+- Request relief of penalties and interest
+
+- File a formal dispute (Notice of Objection)
+
+- Submit a PDF form with electronic signature
+
+- Close an account
+
+**Correspondence**
+
+- View mail from the CRA
+
+- Submit documents to the CRA
+
+- Submit an audit enquiry
+
+For more information, go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+**Access My Business Account**
+
+- To access My Business Account, go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), and sign in to or register for a CRA account.
+
+**Receive your CRA mail online**
+
+Most correspondence is only available online in My Business Account by default, except when a business has changed its delivery method to receive paper mail. Make sure you register for email notifications from the CRA to find out when you have new mail to view in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+For more information, go to [Email notifications from the CRA - Businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/online-mail-reduce-your-cost-doing-business-saving-time-online.html).
+
+**Create a pre-authorized debit agreement for payments from your Canadian chequing account**
+
+A pre-authorized debit (PAD) is a secure online self‑service payment option for individuals and businesses to pay their taxes. A PAD lets you authorize withdrawals from your Canadian chequing account to pay the CRA. You can set the payment dates and amounts of your PAD agreement using the CRA’s secure [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) service. PADs are flexible and managed by you. You can use [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) to view your account history and modify, cancel or skip a payment. For more information, go to [Pay by scheduled pre-authorized debit (PAD) through CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html).
+
+**Electronic payments**
+
+- Make your payment using:
+
+- your Canadian bank or credit union's online banking, mobile app, or telephone service
+
+- the CRA's My Payment service at [Pay with a debit card through the CRA's My Payment service](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html) with your activated debit card from a participating Canadian bank or credit union with a Visa Debit or Debit Mastercard logo (does not include credit cards)
+
+- pre-authorized debit (PAD) at canada.ca/cra-sign-in-services which lets you:
+
+    - set up payments to the CRA from a Canadian chequing account on pre-set dates starting in five or more business days
+
+    - pay an amount due, repay overpaid amounts, or make instalment payments
+
+    - view your account history and modify, cancel, or skip a payment (for more information on PAD, go to [Pay by scheduled pre-authorized debit (PAD) through CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html))
+
+- the "Proceed to pay" button on the "View and pay account balance" page and other pages within [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html)
+
+- your credit card, Interac e-Transfer, or PayPal through one of the third-party service providers for a fee
+
+## For more information
+
+### If you need help
+
+If you need more information after reading this publication, go to [GST/HST for businesses](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html) or call **1-800-959-5525**.
+
+### Direct deposit
+
+Direct deposit is a fast, convenient and secure way to receive your CRA payments directly in your account at a financial institution in Canada. For more information, go to [Direct Deposit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html) or contact your financial institution.
+
+### Forms and publications
+
+The CRA encourages you to file your return electronically. If you need a paper version of the CRA's forms and publications, go to [GST/HST-related forms and publications](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/forms-publications.html) or call **1-800-959-5525**.
+
+### Electronic mailing lists
+
+The CRA can send you an email when new information on a subject of interest to you is available on the website. To subscribe to the electronic mailing lists, go to [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+### Tax Information Phone Service (TIPS)
+
+For tax information by telephone, use the CRA’s automated service, TIPS, by calling **1‑800‑267‑6999**.
+
+### Teletypewriter (TTY) and Video Relay Service (Canada VRS) users
+
+If you use a TTY for a hearing or speech impairment, call **1‑800‑665‑0354**.
+
+Register with Canada VRS to download the app, by going to **SRV Canada VRS**, and call the VRS line.
+
+If you use another **operator‑assisted relay service**, call the CRA’s regular telephone numbers instead of the TTY and Canada VRS numbers.
+
+### Formal disputes (objections and appeals)
+
+You have the right to file an objection if you disagree with an assessment, determination, or decision. For more information, go to [File an objection](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/file-objection-cppei-appeal-minister.html).
+
+### CRA service feedback program
+
+#### Service complaints
+
+You can expect to be treated fairly and to receive a high level of service every time you interact with the CRA.
+
+You can provide compliments or suggestions; however, if you are not satisfied with the service you received:
+
+- You may save time by calling the CRA first depending on your situation. You can call the telephone number provided in your CRA correspondence or discuss your concerns with the employee you have been dealing with. If you do not have a contact number, go to [Contact the Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html)
+
+- You can ask to discuss the matter with the employee's supervisor if you have not been able to resolve your service issue
+
+- You can submit feedback by filling out [Form RC193, Service Feedback](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html), if the issue remains unresolved. For more information, go to [Send feedback about CRA service](https://www.canada.ca/en/revenue-agency/services/make-a-service-complaint.html)
+
+- You may contact the Office of the Taxpayers' Ombudsperson if you are not satisfied with the response you have received. The Ombudsperson will only respond to complaints that the CRA has already tried to address
+
+For more information about the [Taxpayer Bill of Rights](https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/taxpayer-bill-rights.html).
+
+### Reprisal complaints
+
+If you have received a response about a previously submitted service complaint or formal review of a CRA decision and felt that you were not treated fairly by a CRA employee, you can submit a reprisal complaint by filling out [Form RC459, Reprisal Complaint](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc459.html).
+
+For more information about complaints and disputes, go to [Reprisal complaints](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/reprisal-complaints.html).
+
+### Cancel or waive penalties and interest
+
+The CRA administers legislation, commonly called "taxpayer relief provisions," that gives the CRA discretion to cancel or waive penalties and interest when taxpayers cannot meet their tax obligations due to circumstances beyond their control.
+
+The CRA's discretion is limited to any period that ends within 10 calendar years before the year the request is made.
+
+**Penalties**
+
+The CRA will consider your request only if it relates to a tax year or fiscal period ending in any of the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to a penalty for a tax year or fiscal period ending in 2015 or later.
+
+**Interest on a balance owing**
+
+The CRA will consider only the amounts that accrued during the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to interest that accrued in 2015 or later.
+
+Taxpayer relief requests can be made online using the CRA's My Account, My Business Account, or Represent a Client at [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+You can also fill out [Form RC4288, Request for Taxpayer Relief – Cancel or Waive Penalties and Interest](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4288.html), and send it:
+
+■ online using My Account, My Business Account, or Represent a Client
+
+■ by mail or courier to the designated office, as shown on the last page of the form, based on your place of residence
+
+For information about submitting documents online, go to [Submit documents online](https://www.canada.ca/en/revenue-agency/services/e-services/submit-documents-online.html).
+
+For more information about cancelling or waiving penalties and interest, go to [Cancel or waive penalties and interest at the CRA](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/cancel-waive-penalties-interest.html).

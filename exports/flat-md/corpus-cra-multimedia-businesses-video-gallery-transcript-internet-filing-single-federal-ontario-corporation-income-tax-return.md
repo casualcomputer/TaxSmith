@@ -1,0 +1,21 @@
+---
+title: "Internet filing for the single federal and Ontario corporation income tax return"
+gallery_title: "Internet filing for the single federal and Ontario corporation income"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/businesses-video-gallery/transcript-internet-filing-single-federal-ontario-corporation-income-tax-return.html
+video_source: /content/dam/cra-arc/migration/cra-arc/vc/nwsrm/vdcsts/2010/v20100331-eng.webm
+last_modified: 2010-04-08
+---
+
+# Internet filing for the single federal and Ontario corporation income tax return
+
+## Transcript
+"Wow! Completing only one return for my federal and Ontario corporate income taxes was so easy. Bye-bye paper; hello single T2 return!"
+As of the first of January 2009, Ontario corporations can file a single return for both federal and provincial corporate income taxes.
+"And the new Canada Revenue Agency-approved software packages are great!"
+The CRA-approved 2009 T2 Corporation Income Tax Return software packages now include Ontario corporate income tax and credit calculations and schedules, as well as the Ontario Corporations Information Act Annual Return.
+"Now, how hard is it going to be to file my return online?"
+It will be easy, and you have two options. You can file your return directly using Corporation Internet Filing or you can use My Business Account.
+"Perfect. Everything I need to know is right here."
+"I really feel good about this. It saved me a lot of time, and it helped the environment too."
+For more information about the new single T2 return, go to www.cra-arc.gc.ca and search for T2.
+For more information about Internet filing, go to www.cra.gc.ca/eservices.

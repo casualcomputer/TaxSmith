@@ -1,0 +1,51 @@
+Title: ARCHIVED - Income Tax – Technical News
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-28/archived-income-tax-technical-news-no-28.html
+Corpus path: corpus/cra/forms-publications/publications/itnews-28/archived-income-tax-technical-news-no-28.md
+Document type: publication
+Last modified: 2019-10-08
+
+# ARCHIVED - Income Tax – Technical News
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for income tax technical news](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/what-archived-content-notice-means-income-tax-technical-news.html)
+
+## No. 28 April 24, 2003
+
+This document is also available for [download in other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-28.html).
+
+**This version is only available electronically.**
+
+## In This Issue
+
+- [Large corporation Tax  Long Term Debt](#P18_706)
+
+- [Section 86.1  Foreign Spin-Offs with "Poison Pill" Shareholder Rights Plans](#P22_1996)
+
+The *Income Tax Technical News* is produced by the Policy and Legislation Branch. It is provided for information purposes only and does not replace the law. If you have any comments or suggestions about the matters discussed in this publication, please send them to:
+
+Manager, Technical Publications and Projects Section Income Tax Rulings Directorate Policy and Legislation Branch Canada Customs and Revenue Agency Ottawa ON K1A 0L5
+
+or by e-mail at the following address:
+
+[bulletins@ccra.gc.ca](mailto:bulletins@cra-arc.gc.ca)
+
+## Large Corporations Tax  Long-Term Debt
+
+Paragraph 42 of Interpretation Bulletin IT-532, [*Part I.3  Tax on Large Corporations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it532.html), comments on the meaning of "long-term debt" of a financial institution for Part I.3 of the *Income Tax Act* (the Act) purposes. In particular, it indicates that a subordinated indebtedness issued for not less than 5 years but that may be retired before the 5-year term has expired is not considered long-term debt. We have reviewed this position and it is now our view that, while the terms and conditions of a debt may contain a provision for the retirement of the debt within 5 years, the debt would meet the definition of "long-term debt" in subsection 181(1) of the Act since the debt has nonetheless been issued for a term that is not less than 5 years.
+
+As a result of our revised position, a financial institution, which has issued a debenture such as the one described above, would include the amount of the debenture in computing its capital as long-term debt under subparagraph 181.3(3)(*a*)(i) of the Act and a corporation that is not a financial institution would be entitled to claim an investment allowance in respect of the debenture pursuant to paragraph 181.2(4)(*d*) of the Act.
+
+This revision to our position will be reflected in the next version of IT-532.
+
+## Section 86.1  Foreign Spin-Offs with "Poison Pill" Shareholder Rights Plans
+
+We have now had the opportunity to review in detail the issue of whether section 86.1 of the Act can apply to provide taxpayers with a tax deferral in the situation where there is a foreign spin-off and the shares being spun-off have an attached "poison pill" shareholder rights plan. We have confirmed with the Department of Finance that there are generally no tax policy concerns with "typical" "poison pill" shareholder rights plans, that is, rights plans where the rights are only exercisable on the occurrence of a well-defined event (generally, the acquisition of a significant percentage of the shares of the particular corporation). Accordingly, we are prepared to accept that, generally, section 86.1 of the Act can apply in a situation involving such rights plans, provided that the particular rights plan was established for bona fide commercial reasons and not to obtain a tax benefit, and provided that the rights established under the plan do not have any significant value independent of the shares being spun-off at the time of the spin-off. Where a plan is a typical "poison pill" rights plan, then, provided that there are no unusual external factors (such as an imminent change of control of the spun-off corporation), we will presume that the existence of the plan will not in and of itself preclude the application of section 86.1 of the Act.
+
+As shareholder rights plans can vary widely, it will always be a question of fact whether there was a tax benefit purpose in establishing a particular shareholder rights plan and whether the rights established under the plan have more than a nominal value at the time of the spin-off. In this regard, a copy of the shareholder rights plan or the information circular describing the nature of the shareholder rights plan (and, in particular, the contingent nature of the "poison pill" rights being transferred with the spin-off shares) should be included with the documents that are required to be provided by a foreign corporation to the CCRA in order for a distribution to qualify as an "eligible distribution" under section 86.1 of the Act. All relevant documents to be provided by the foreign corporation should continue to be forwarded to the International Tax Directorate of the Compliance Programs Branch of the CCRA.

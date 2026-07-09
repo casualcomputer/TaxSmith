@@ -1,0 +1,330 @@
+---
+title: "Self-employed Business, Professional, Commission, Farming, and Fishing Income: Find out if this guide is for you"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002/t4002-2.html
+last_modified: 2026-04-16
+---
+# Self-employed Business, Professional, Commission, Farming, and Fishing Income: Find out if this guide is for you
+
+## On this page
+
+- [Find out if this guide is for you](#toctp1)
+
+- [What's new for 2025](#whatsnew)
+
+- [Definitions](#toctp3)
+
+## Find out if this guide is for you
+
+Use this guide if you earned income as a:
+
+- sole proprietor (unincorporated, self-employed individual) who is any of the following:
+
+    - business person
+
+    - professional
+
+    - commission sales person (this is different from an employee who earns commission)
+
+    - daycare in your home
+
+    - farmer
+
+    - fisher
+
+- member of a:
+
+    - partnership who is a business person
+
+    - partnership who is a professional
+
+    - farming or fishing partnership
+
+It will help you calculate your self-employment income to report on your 2025 income tax return.
+
+Though a trust may be considered an individual, this guide is not for trusts. Do not use this guide if you are a trust or a corporation.
+
+If you are a trust, use [Guide T4013, T3 Trust Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013.html).
+
+If your business is incorporated, use [Guide T4012, T2 Corporation – Income Tax Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012.html).
+
+This guide contains tax information for all types of self-employment business income. However, some tax rules are not the same for all types of business. In this document, you will find the following icons:
+
+The briefcase icon means the information is specific to business and professional income and [Form T2125, Statement of Business or Professional Activities](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2125.html).
+
+The tractor icon means the information is specific to farming and [Form T2042, Statement of Farming Activities](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2042.html).
+
+The fish icon means the information is specific to fishing and [Form T2121, Statement of Fishing Activities](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2121.html).
+
+### If your business is conducting research and development (R&D) in Canada
+
+The Scientific Research and Experimental Development (SR&ED) Program gives tax incentives to encourage Canadian businesses of all sizes and in all sectors who conduct R&D to help create a thriving R&D culture in Canada. Learn how you can claim those incentives by going to [Scientific Research and Experimental Development (SR&ED) tax incentives](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html).
+
+### For farmers
+
+If you are participating in the AgriStability and AgriInvest programs, you have to use the applicable guide:
+
+- If you are an AgriStability and AgriInvest participant in Quebec, use this guide for your income tax return and contact La Financière agricole du Québec at **1-800-749-3646** about AgriStability and AgriInvest participation
+
+- If you are an AgriStability and AgriInvest participant in Alberta, Ontario, Saskatchewan or Prince Edward Island, use [Guide RC4060, Farming Income and the AgriStability and AgriInvest Programs Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4060.html)
+
+- If you are an AgriStability and AgriInvest participant in the rest of Canada, use [Guide RC4408, Farming Income and the AgriStability and AgriInvest Programs Harmonized Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408.html)
+
+### For fishers
+
+You can be a self-employed fisher and also a member of one or more fishing partnerships. For instance, you may have fished for groundfish by yourself and also have been in a lobster-fishing partnership with your child.
+
+Generally, we consider you to be a self-employed fisher if all of the following applies to you:
+
+- you participate in making a catch
+
+- you are not fishing for your own or another person's sport
+
+- you meet at least **one** of the following conditions:
+
+    - you own or lease the boat that is used to make the catch
+
+    - you own or lease specialized fishing gear used to make the catch (not including hand tools or clothing)
+
+    - you hold a species licence issued by Fisheries and Oceans Canada, which is necessary to make the catch
+
+    - you have a right of ownership to all or part of the proceeds from the sale of the catch, and you are responsible for all or part of the expenses incurred in making the catch. This means you have to pay a predetermined amount or percentage of the expenses, such as fuel, had by the crew in making the catch, regardless of the value of the catch
+
+You are considered to be self-employed if you have a business relationship with a payer and you have the right to determine where, when and how your work is done. For more information, see [Employment status: Employee or self-employed](https://www.canada.ca/en/revenue-agency/services/tax/canada-pension-plan-cpp-employment-insurance-ei-rulings/employee-self-employed.html).
+
+Throughout this guide, we refer to other publications such as guides and forms. Generally, if you need any of these, go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html). You may want to bookmark this address for easier access to our website in the future. For more information on archived content of interpretation bulletins, go to [What the Archived Content notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html).
+
+## What's new for 2025
+
+New items in this guide are outlined in colour. These may include changes introduced in the 2025 federal budget that had not yet become law at the time this guide was published.
+
+### Automobile deduction limits
+
+On **December 30, 2024**, the Government of Canada announced the automobile deduction limits for 2025.
+
+For Class 10.1 passenger vehicles (new and used) acquired on or after **January 1, 2025**, the prescribed amount increases from $37,000 to $38,000, before tax.
+
+The maximum deductible automobile leasing costs increase from $1,050 to $1,100 per month, before tax, for new leases entered into on or after **January 1, 2025**.
+
+### Critical mineral exploration tax credit and mineral exploration tax credit
+
+Under proposed changes, the critical mineral exploration tax credit has been expanded to include 13 new critical minerals, including bismuth, cesium, chromium, fluorspar, germanium, indium, manganese, molybdenum, niobium, phosphate, tantalum, tin, and tungsten. This expansion applies only to eligible flow-through share agreements entered into after **November 4, 2025**, and before **April 1, 2027**.
+
+Under proposed changes, the mineral exploration tax credit has also been extended for qualifying flow-through share agreements entered into before **April 1, 2027**.
+
+For more information, go to [Mineral exploration tax credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002/t4002-3.html) and[Critical mineral exploration tax credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002/t4002-3.html).
+
+### Capital cost allowance
+
+#### Accelerated investment incentive and reaccelerated investment incentive
+
+Under proposed changes, the accelerated investment incentive is available for qualifying property acquired before **January 1, 2025**, and that becomes available for use before 2028, and the reaccelerated investment incentive (RII) is available for qualifying property acquired on or after **January 1, 2025**, and that becomes available for use before 2034. The RII has a four‑year phase out for property that becomes available for use after 2029.
+
+For more information, go to [Accelerated investment incentive property](#AIIP) and [Reaccelerated investment incentive property](#RIIP).
+
+#### Enhanced first-year capital cost allowance
+
+Under proposed changes, the enhanced first‑year capital cost allowance (CCA) can be up to 100% for new additions of property to the following CCA classes:
+
+- Class 43.1 property that becomes available for use before 2034
+
+- Class 44, 46, or 50 property acquired after **April 15, 2024**, and that becomes available for use before 2027
+
+- Class 53 property acquired before 2026 and Class 43 property acquired after 2025
+
+- Class 54, 55, or 56 property that becomes available for use before 2034
+
+For most CCA classes, the enhanced first-year allowance will be phased out over a period of four years for properties that become available for use after 2029.
+
+For more information, go to [Classes of depreciable property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002/t4002-6.html).
+
+#### Purpose-built residential rentals
+
+Under proposed changes, there is an accelerated CCA rate of 10% for eligible new purpose built residential rentals. These projects have to begin construction after **April 15, 2024**, and before **2031**, and be available for use before **2036**.
+
+For more information, go to [Class 1 (4%)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002/t4002-6.html).
+
+#### Changes to Class 43.1
+
+Under proposed changes, there are new conditions that transmission equipment must meet to be included in the class and other restrictions on properties included in the class.
+
+For more information, go to [Class 43.1 (30%) and Class 43.2 (50%) – Clean energy equipment](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002/t4002-6.html).
+
+## Definitions
+
+**Accelerated investment incentive****property (AIIP)**– property that is eligible for an enhanced first-year allowance under the capital cost allowance (CCA) rules. The property may be eligible if it is acquired after November 20, 2018, and becomes available for use before 2028.
+
+Under proposed changes, the property is only AIIP if it is acquired after November 20, 2018, and before 2025, and becomes available for use before 2028. Property acquired after 2024 generally is [reaccelerated investment incentive property (RIIP)](#RIIP) instead.
+
+For more information on AIIP, go to [Accelerated investment incentive](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/report-business-income-expenses/claiming-capital-cost-allowance/accelerated-investment-incentive.html).
+
+**Arm's****length** – refers to a relationship or a transaction between unrelated persons who act in their own separate interests. An arm's length transaction is generally a transaction that reflects ordinary commercial dealings between unrelated parties acting in their own separate interests.
+
+For more information, see [Income Tax Folio S1-F5-C1, Related Persons and Dealing at Arm's Length](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html).
+
+**Available for****use** – generally, the **earlier of**:
+
+- the time the property is first used by the claimant to earn income
+
+- the time the property is delivered or is made available to the claimant and is capable of producing a saleable product or service
+
+For more information, see [Available-for-use rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002/t4002-6.html).
+
+**Capital****cost** – generally the taxpayer's full cost of acquiring the property. The capital cost of a property is usually the total of the following:
+
+- the purchase price (not including the cost of land, which is not depreciable)
+
+- the part of your legal, accounting, engineering, installation and other fees that relate to buying or constructing the property (not including the part that applies to land)
+
+- the cost of any additions or improvements you made to the property after you acquired it, if you did not claim these costs as a current expense (such as modifications to accommodate persons with disabilities)
+
+- for a building, soft costs (such as interest, legal and accounting fees, and property taxes) related to the period you are constructing, renovating, or altering the building, if these expenses have not been deducted as current expenses
+
+**Capital cost****allowance (CCA)** – you may have acquired depreciable property like a building, furniture or equipment to use in your business. You cannot deduct the initial cost of these properties in the calculation of the net income of the business or professional activities of the year. However, since these properties wear out or become obsolete over time, you can deduct the cost over a period of several years. This deduction is called CCA.
+
+**Depreciable****property** – the property on which you can claim CCA. It is usually capital property from a business or property. The capital cost can be written off as CCA over a number of years. You usually group depreciable properties into classes. Diggers, drills and tools that cost $500 or more belong in Class 8. You have to base your CCA claim on the rate assigned to each class of property.
+
+**Designated immediate expensing****property (DIEP)** – for a tax year, property that:
+
+- is immediate expensing property (see definition below) of the eligible person or partnership (EPOP)
+
+- is designated on a prescribed form the EPOP files with the minister for the tax year on or before the day that is 12 months after the EPOP's filing due date for the tax year to which the designation relates
+
+- became available for use by the EPOP in the tax year and before 2025.
+
+**Eligible person or****partnership (EPOP)**– one of the following:
+
+- a Canadian-controlled private corporation (CCPC) throughout the year
+
+- an individual (other than a trust) resident in Canada throughout the year
+
+- a Canadian partnership of which all the members were either CCPCs or individuals (other than trusts) and all the members were resident in Canada throughout the fiscal period
+
+**Fair market****value (FMV)** – generally, the highest dollar value you can get for your property in an open and unrestricted market between an informed and willing buyer and an informed and willing seller who are dealing at arm's length with each other.
+
+**Immediate expensing****property**– property, other than property included in CCA Classes 1 to 6, 14.1, 17, 47, 49 and 51, that:
+
+- is acquired by an EPOP who is an individual or a Canadian partnership after December 31, 2021
+
+- becomes available for use before:
+
+    - 2025, if the EPOP is an individual or a Canadian partnership of which all the members are individuals throughout the year
+
+    - 2024 in any other case
+
+- meets either of the following conditions:
+
+    - it has never been used for any purpose and no person or partnership has claimed CCA (or terminal loss) for the property before the property was acquired by the EPOP
+
+    - it has not been transferred to the EPOP on a tax deferred "rollover" basis and it was not previously owned or acquired by the EPOP or a non-arm's length person or partnership
+
+**Motor****vehicle** – an automotive vehicle designed or adapted for use on highways and streets. A motor vehicle does not include a trolley bus or a vehicle designed or adapted to be operated only on rails.
+
+**Non-arm's****length** – generally refers to a relationship or transaction between persons who are related to each other.
+
+However, a non-arm's length relationship might also exist between unrelated individuals, partnerships or corporations, depending on the circumstances. For more information, see the definition of [Arm's length](#toctp310).
+
+**Non-compliant amount –**means, for a tax year, the amount determined by the following formula:
+
+A × B ÷ C, where:
+
+- A is the total of all amounts that would normally be deductible in the calculation of income related to the use of a residential property as a short-term rental in the tax year
+
+- B is the number of days in the tax year that the residential property was a non-compliant short-term rental
+
+- C is the number of days in the tax year that the residential property was a short-term rental
+
+**Non-compliant short-term rental –** refers to a short-term rental located in a province or municipality that meets one of the following conditions:
+
+- the province or municipality does not permit operating the short-term rental at that location
+
+- the province or municipality requires registration, a licence, or a permit to operate the short-term rental, and the short-term rental does not comply with all the proper registration, licensing and permit requirements
+
+**Passenger****vehicle** – a motor vehicle that is owned by the taxpayer (other than a zero-emission vehicle) or that is leased, and is designed or adapted primarily to carry people on highways and streets. It seats a driver and no more than eight passengers. Most cars, station wagons, vans, and some pick-up trucks are passenger vehicles.
+
+Passenger vehicles and zero-emission passenger vehicles are subject to limits on the amount of CCA, interest and leasing costs that may be deducted. They do **not** include:
+
+- an ambulance
+
+- a clearly marked police or fire emergency response vehicle
+
+- a motor vehicle you bought to use more than 50% as a taxi, a bus used in the business of transporting passengers, or a hearse used in a funeral business
+
+- a motor vehicle you bought to sell, rent, or lease in a motor vehicle sales, rental or leasing business
+
+- a motor vehicle (except a hearse) you bought to use in a funeral business to transport passengers
+
+- a van, pick-up truck, or similar vehicle that seats no more than the driver and two passengers and that, in the tax year you bought or leased it, was used more than 50% to transport goods and equipment to earn income
+
+- a van, pick-up truck or similar vehicle that, in the tax year you bought or leased it, was used 90% or more to transport goods, equipment or passengers to earn income
+
+- a pick-up truck that, in the tax year you bought or leased it, was used more than 50% to transport goods, equipment or passengers to earn or produce income at a remote work location or at a special work site that is at least 30 kilometres from the nearest community with a population of at least 40,000
+
+- a clearly marked emergency medical service vehicle used to carry paramedics and their emergency medical equipment
+
+**Proceeds of****disposition** – the amounts you receive, or that we consider you to have received, when you dispose of your property (usually the selling price of the property). Proceeds of disposition is also defined to include, amongst other things, compensation received for property that has been destroyed, expropriated, damaged or stolen.
+
+**Purpose-built residential****rental** – under proposed changes, a purpose-built residential rental is a building or a part of a building situated in Canada that meets the following conditions:
+
+- it contains one of the following:
+
+    - 4 or more [residential rental units](#rru), at least 4 of which contain a private kitchen, bathroom, and living area
+
+    - 10 or more residential rental units
+
+- all or substantially all (at least 90%) of its residential rental units are rented or offered for rent for continuous periods of at least 28 consecutive days
+
+**Reaccelerated investment incentive****property (RIIP)** – under proposed changes, a RIIP is a property that is eligible for an enhanced first year allowance under the CCA rules. The property may be eligible if it is acquired after 2024 and becomes available for use before 2034.
+
+For more information on RIIP, go to [Accelerated investment incentive](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/report-business-income-expenses/claiming-capital-cost-allowance/accelerated-investment-incentive.html).
+
+**Related persons –** are not considered to deal with each other at arm's length. Related persons include individuals connected by blood relationship, marriage, common-law partnership, or adoption (legal or in fact). A corporation and another person or two corporations may also be related persons.
+
+For more information, see Income [Tax Folio S1-F5-C1, Related persons and Dealing at Arm's Length](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html).
+
+**Residential property**– refers to all or any part of a house, apartment, condominium unit, cottage, mobile home, trailer, houseboat, or other property located in Canada that can be used for residential purposes under applicable law.
+
+**Residential rental unit**– under proposed changes, a residential rental unit is a housing unit used or intended for use as a rented residential premises that is not provided to the travelling or vacationing public.
+
+**Short-term rental**–refers to a residential property that is rented or offered for rent for a period of less than 90 consecutive days.
+
+**Undepreciated capital****cost (UCC)** – generally, the amount left after you deduct CCA from the capital cost of a depreciable property. Each year, the CCA you claim reduces the UCC of the property.
+
+**Unrelated persons –** may not be dealing with each other at arm's length at a particular time. Each case will depend upon its own facts. The following criteria will generally be used to determine if the parties to a transaction are not dealing at arm's length:
+
+- whether there is a common mind that directs the bargaining for the parties to a transaction
+
+- whether the parties to a transaction act in concert without separate interests ("acting in concert" means, for example, that parties act with considerable interdependence on a transaction of common interest)
+
+- whether there is "de facto control" of one party by the other because of, for example, advantage, authority or influence
+
+For more information, see [Income Tax Folio S1-F5-C1, Related Persons and Dealing at Arm's Length](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html).
+
+**Zero-emission passenger****vehicle (ZEPV)** – an automobile that is owned by the taxpayer and is included in Class 54 (but would otherwise be included in Class 10 or 10.1). The rules that apply to the definition of passenger vehicles apply to zero-emission passenger vehicles. A ZEPV does not include a leased passenger vehicle, but other vehicles that would otherwise qualify as a ZEPV if owned by the taxpayer are subject to the same leasing deduction restrictions as passenger vehicles.
+
+**Zero-emission****vehicle (ZEV)** – is a motor vehicle that is owned by the taxpayer where all of the following conditions are met:
+
+- is a plug-in hybrid with a battery capacity of at least 7 kWh or is either fully:
+
+    - electric
+
+    - powered by hydrogen
+
+- is acquired, and becomes available for use, after March 18, 2019, and before 2028
+
+- has not been used or acquired for use for any purpose before it was acquired by the taxpayer
+
+- is a vehicle in respect of which an amount has not been deducted as CCA and a terminal loss has not been claimed by another person or partnership
+
+If the property was acquired after March 1, 2020, it may have been used, but a vehicle that was subject to a prior CCA or terminal loss claim cannot have been acquired by the taxpayer on a tax-deferred "rollover" basis nor previously owned or acquired by the taxpayer or a non-arm's length person or partnership.
+
+- is a vehicle for which:
+
+    - an election has not been made to forgo the Class 54 or 55 treatment
+
+    - assistance has not been provided by the Government of Canada under the incentive announced on March 19, 2019
+
+Under proposed changes, the period during which a motor vehicle needs to be acquired and become available for use is extended until before 2034.
+
+- [Table of contents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002/t4002-1.html)
+
+- [Next page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002/t4002-3.html)

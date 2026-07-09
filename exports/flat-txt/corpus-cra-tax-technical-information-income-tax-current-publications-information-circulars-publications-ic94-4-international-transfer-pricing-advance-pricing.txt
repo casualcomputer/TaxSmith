@@ -1,0 +1,1085 @@
+Title: International Transfer Pricing: Advance Pricing Arrangements (APAs)
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic94-4/international-transfer-pricing-advance-pricing.html
+Corpus path: corpus/cra/tax/technical-information/income-tax/current-publications/information-circulars/publications/ic94-4/international-transfer-pricing-advance-pricing.md
+Document type: technical_publication
+Last modified: 2024-02-28
+
+# International Transfer Pricing: Advance Pricing Arrangements (APAs)
+
+No.: **94-4R2**
+
+Date: February 22, 2024
+
+**This document is also available for [download in PDF](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic94-4.html) format.**
+
+This information circular cancels and replaces Information Circular 94-4R issued March 16, 2001, and Information Circular 94-4RSR (Special Release) issued March 18, 2005.
+
+A taxpayer may be eligible to apply for an APA with the CRA if they are subject to the transfer pricing rules set out in section 247 of the Income Tax Act of Canada (the Act), are carrying on business through a permanent establishment in Canada or in a tax treaty jurisdiction, or are conducting other international transactions with related parties.
+
+The APA program is an important program for the CRA as it provides enhanced tax certainty for both taxpayers and the CRA. An APA reduces compliance burden with respect to international transfer pricing transactions, which can otherwise be subject to costly and lengthy audits and treaty disputes. The APA program has therefore become a key tool for the CRA in making compliance easier. Through the program, taxpayers are provided an opportunity to work in collaboration with the CRA and other tax administration on a constructive and co-operative basis in order to achieve tax certainty on complex transfer pricing issues. The APA program also provides taxpayers an opportunity to openly discuss the challenges they face in trying to comply with transfer pricing requirements of multiple tax jurisdictions. Prospective tax certainty provided through the APA program contributes to the effective application of Canada’s tax treaties, which in turn helps to reduce barriers to trade and investment.
+
+This information circular provides comprehensive guidance on APAs with a specific focus on establishing what is required from taxpayers to enter the APA program and the criteria used by the CRA in assessing whether taxpayers and transactions are suitable for an APA. The aim of this guidance is to provide increased transparency with respect to the CRA’s APA program by offering clear direction to taxpayers on the APA process and program requirements.
+
+## Contents
+
+- [Glossary of terms and abbreviations](#toc0)
+
+- [Introduction](#toc1)
+
+- [Part I – Information about APAs](#toc2)
+
+    - [Purpose and scope of APAs](#toc2-1)
+
+    - [Types of APAs](#toc2-2)
+
+    - [Who should seek an APA](#toc2-3)
+
+    - [Benefits of entering into an APA](#toc2-4)
+
+    - [Expectations of taxpayer co-operation](#toc2-5)
+
+    - [Items covered in an APA](#toc2-6)
+
+    - [Independent experts and extraordinary fees](#toc2-7)
+
+    - [APA participants](#toc2-8)
+
+    - [Preliminary taxpayer contact with the CRA](#toc2-9)
+
+    - [Stages of an APA](#toc2-10)
+
+- [Part II – Prefiling meeting](#toc3)
+
+    - [Submission of a prefiling package](#toc3-1)
+
+    - [Review of the prefiling package for completeness](#toc3-2)
+
+    - [The prefiling meeting](#toc3-3)
+
+    - [CRA post-prefiling meeting review and notification to foreign tax authorities](#toc3-4)
+
+- [Part III – Processing an APA request](#toc4)
+
+    - [The decision process at the prefiling stage](#toc4-1)
+
+    - [Notice to the taxpayer to submit a formal request](#toc4-2)
+
+    - [Conditions letter](#toc4-3)
+
+    - [Receipt, review, and analysis of a submission](#toc4-4)
+
+- [Part IV – Case work and resolution](#toc5)
+
+    - [CRA acceptance of the taxpayer into the APA program](#toc5-1)
+
+    - [CRA contact with other tax authorities after acceptance](#toc5-2)
+
+    - [Site visits](#toc5-3)
+
+    - [Provision of information by the taxpayer](#toc5-4)
+
+    - [CRA review and analysis of information](#toc5-5)
+
+    - [Preparation of the CRA position paper](#toc5-6)
+
+    - [Exchange of position papers and negotiations with foreign tax authorities](#toc5-7)
+
+    - [Presentation of the APA to the taxpayer](#toc5-8)
+
+    - [Withdrawing an APA request or rejecting a Multilateral APA](#toc5-9)
+
+    - [Implementing the APA](#toc5-10)
+
+- [Part V – Other issues: Canada-United States arbitration](#toc6)
+
+- [Part VI – Legal effect](#toc7)
+
+- [Part VII – Use, disclosure, and protection of information](#toc8)
+
+- [Part VIII – Administering an APA](#toc9)
+
+    - [Filing an annual report](#toc9-1)
+
+    - [Auditing an APA](#toc9-2)
+
+    - [Resolving disputes](#toc9-3)
+
+    - [Revising an APA](#toc9-4)
+
+    - [Cancelling an APA](#toc9-5)
+
+    - [Revoking an APA](#toc9-6)
+
+    - [Renewing an APA](#toc9-7)
+
+- [Part IX – Other APA requests](#toc10)
+
+    - [Request for a Unilateral APA](#toc10-1)
+
+    - [APAs for small businesses](#toc10-2)
+
+- [Part X – Conclusion](#toc11)
+
+- [Part XI – Other references](#toc12)
+
+- [Part XII – Further contact](#toc13)
+
+- [Appendix I – APA submission checklist](#toc14)
+
+- [Appendix II – Example of a BAPA request letter](#toc15)
+
+## Glossary of terms and abbreviations
+
+1. This glossary defines some of the terms used in an APA (see paragraph 3) and in this circular:
+
+| **Act** | The Income Tax Act of Canada (R.S.C., 1985, c. 1 (5th Supp.)). |
+
+| --- | --- |
+
+| **APA** | An advance pricing arrangement between the Minister of National Revenue and a taxpayer. It covers certain transactions between the taxpayer and their related parties. APAs confirm appropriate transfer pricing methods, in advance, and their application to specific cross-border intragroup transactions for specified taxation years, under specified terms and conditions, for purposes of the Act. An APA may also be referred to as a “domestic APA” where it mirrors the critical assumptions, tax period and economic value for tax purposes of the covered transaction that were agreed upon between the Canadian competent authority and a foreign competent authority under the mutual agreement procedure in the relevant income tax treaty. |
+
+| **APA annual report** | A report submitted to the CRA by the taxpayer for each APA year, confirming the taxpayer’s compliance with the terms and conditions of the APA, as well as disclosing areas, if any, where there has been a failure to comply. |
+
+| **APA request** | The taxpayer’s written formal request for an APA. |
+
+| **APA submission** | Documents sent by the taxpayer along with all financial statements, schedules, analyses and any other information (including information provided orally) in support of the taxpayer’s APA request. |
+
+| **Arm's length allocation** | An allocation of profit or loss in respect of a transaction that would have occurred between the participants in the transaction if they had been dealing at arm's length with each other. |
+
+| **APA years** | Taxation years covered in the APA. |
+
+| **Arm's length transfer price** | As defined by section 247(1) of the Act: means, in respect of a transaction, an amount that would have been a transfer price in respect of the transaction if the participants in the transaction had been dealing at arm’s length with each other. |
+
+| **Base Erosion and Profit Shifting (BEPS)** | As defined by the OECD, BEPS refers to tax planning strategies that exploit gaps and mismatches in tax rules to artificially shift profits to low- or no-tax locations where there is little or no economic activity or to erode tax bases through deductible payments such as interest or royalties. |
+
+| **Bilateral APA** | An APA between the Canadian competent authority and the competent authority of a country with which Canada has an income tax treaty. It includes an agreement, under the mutual agreement procedure of the relevant income tax treaty, covering certain transactions or arrangements between the taxpayer and related parties. |
+
+| **Business cycle** | Depending on the industry, the number of years that should be included in an economic analysis to reliably value the financial performance of the taxpayer on a go-forward basis for an APA. A cycle should include enough years to adjust for industry or market anomalies due to one-time unforeseen economic events in order to value a normalized return for APA purposes. |
+
+| **Competent Authority Services Division** (CASD) | This division is part of the International and Large Business Directorate, Compliance Programs Branch, CRA. CASD administers the APA program and negotiates APAs with foreign competent authorities on behalf of the Minister of National Revenue. |
+
+| **Canadian competent authority** | The Minister of National Revenue or the Minister's authorized representative. |
+
+| **Commencement date for a MAP with the United States** | A MAP commencement date as defined by the Canada–United States Income Tax Convention including Annex A, and more specifically paragraph 7 of Article XXVI that applies to the arbitration procedure, is the earliest date on which the information necessary to undertake substantive consideration for a mutual agreement has been received by both competent authorities; what constitutes “information necessary to undertake substantive consideration for a mutual agreement” is determined in accordance with the administrative procedures in paragraph 4 of the Memorandum of Understanding Between the Competent Authorities of Canada and the United States of America (defined in the glossary). |
+
+| **Commencement date for MAP APAs with the United States** | Paragraph 19 of the Memorandum of Understanding Between the Competent Authorities of Canada and the United States of America (defined in the glossary) modifies the definition of a MAP “commencement date” for a MAP involving an APA (MAP APAs). The commencement date for a MAP APA is the earlier of: i) the date on which the competent authorities have exchanged position papers; or ii) two years from the earliest date on which the information necessary to undertake substantive consideration for a MAP APA has been received by both competent authorities. |
+
+| **Conditions Letter** | A letter issued by CASD to a taxpayer, which outlines the conditions and commitments the taxpayer must make throughout the APA process, including information required to be included in an APA submission. |
+
+| **Compensating adjustments** | To comply with the terms of an APA, compensating adjustments are those made to tax returns filed by taxpayers for taxation years, including rollback years, along with the corresponding books and records. Compensating adjustments may also be required to be made to the tax returns for taxation years of any related parties of the taxpayer. |
+
+| **Contracting states** | The countries who are signatories to a treaty. |
+
+| **Convention or treaty** | An income tax convention between Canada and a foreign jurisdiction (also referred to as a tax treaty or tax agreement). |
+
+| **CRA** | Canada Revenue Agency. |
+
+| **Critical assumptions** | The underlying business conditions and assumptions relied on for purposes of the APA analysis which, if significantly changed, would affect the substantive terms of the APA and may potentially invalidate the APA. |
+
+| **Cross-border intragroup transaction** | A transaction, including an arrangement or event between members of the same MNE group of which the taxpayer is a member. |
+
+| **Director** | Director of the Competent Authority Services Division. |
+
+| **ITD** | International Tax Directorate of the CCRA. |
+
+| **Foreign APA** | The APA between a foreign tax authority and a foreign related party of the taxpayer. |
+
+| **Foreign competent authority or foreign tax authority** | The competent authorities of the other tax jurisdictions involved in an APA. |
+
+| **Intangibles** | As defined in paragraph 6.6 of the OECD Guidelines, something that is not a tangible asset or a financial asset that can be owned or controlled for use in commercial activities, and whose use or transfer would be compensated had it occurred in a transaction between independent parties in comparable circumstances. |
+
+| **International and Large Business Directorate** (ILBD) | This directorate is part of the Compliance Programs Branch at the CRA. |
+
+| **Legal Services** | One of seven corporate branches within the CRA that supports program delivery through the provision of corporate and common services. Specifically, Legal Services assists the Minister, the Commissioner, the Board of Management and CRA employees in making effective decisions that are legally correct, fair, and consistent across the CRA. |
+
+| **Mutual Agreement Procedure** (MAP) | The MAP article in Canada’s conventions is a dispute resolution mechanism that allows authorized CRA officials to interact with foreign tax administrations to resolve issues of double taxation and taxation that is not in accordance with a convention. Under this article, residents in either country may request assistance to resolve an issue covered by the convention. In Canada, the Minister of National Revenue authorizes senior CRA officials to endeavour to resolve tax disputes under tax conventions that Canada has with other countries. These senior officials are referred to as the competent authority. A similar authorization usually takes place in treaty partner jurisdictions. For information on the steps to follow when asking for a MAP from the Canadian competent authority, see the circular [IC71‑17R6, Competent Authority Assistance under Canada’s Tax Conventions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic71-17.html). |
+
+| **MAP APA** | A MAP for purposes of reaching an APA in accordance with a treaty. |
+
+| **Memorandum** | The Memorandum of Understanding Between The Competent Authorities of Canada and The United States of America, for purposes of applying the arbitration procedure referred to in paragraphs 6 and 7, Article XXVI, including Annex A of the Canada-United States Income Tax Convention. |
+
+| **MNE Group** | A group of associated enterprises with business establishments in two or more jurisdictions. |
+
+| **MNE** | An enterprise that is a member of an MNE group. |
+
+| **Multilateral APA** | An APA between the Canadian competent authority and the competent authorities of two or more countries with which Canada has income tax treaties. It includes an agreement, under the mutual agreement procedure articles in the relevant income tax treaties, covering certain transactions or arrangements between the taxpayer and their related parties. |
+
+| **Non-resident entity** | A non-resident person participating in an APA with whom a taxpayer does not deal at arm's length for the purposes of the Act. |
+
+| **Organisation for Economic Co-operation and Development** (OECD) | An international organisation that works to provide advice on public policies and international standard-setting. |
+
+| **OECD Guidelines** | OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations. |
+
+| **OECD Model Tax Convention** | OECD Model Tax Convention on Income and Capital. |
+
+| **Permanent establishment** (PE) | Refers to a fixed place of business through which a resident of a treaty jurisdiction operates a business, wholly or partly in another treaty jurisdiction (generally set out in Article 5 of the relevant tax treaty based on the OECD Model Tax Convention), and whose profits are calculated according to the business profits article of a treaty (generally Article 7 of the relevant tax treaty based on the OECD Model Tax Convention). |
+
+| **Profit level indicator** (PLI) | A measure of a entity’s profitability, which may be expressed in relation to sales, costs or expenses, or assets and which is determined by selecting an appropriate set of companies to compare to a tested party. |
+
+| **Position paper** | In the context of a MAP or an APA process, a written document prepared by a competent authority for exchange with or presentation to another competent authority, which explains and supports the rationale for the competent authority’s adjustment, proposed adjustment or proposed transfer price of covered transactions for past or future years. |
+
+| **Related party** | Non-resident entity with whom the taxpayer does not deal at arm’s length and who is a part of the same MNE Group. |
+
+| **Related party transactions** | Transactions, including arrangements or events, between entities that are related parties and which, as such, do not deal at arm’s length. |
+
+| **Rollback year(s)** | Non-statute-barred taxation years where the facts and circumstances are substantially the same as those of the APA years, and to which the APA may be applied. |
+
+| **Signature date** | The date an APA is signed by the Director of CASD. |
+
+| **Tax Services Office (TSO)** | A tax services office of the CRA. |
+
+| **Tested party** | A tested party is the party chosen from a group of related parties, for purposes of applying a TPM. Usually, the related party with the least complex role in the transaction is chosen as the tested party. |
+
+| **Transfer price** | As defined by subsection 247(1) of the Act: means, in respect of a transaction, an amount paid or payable or an amount received or receivable, as the case may be, by a participant in the transaction as a price, a rental, a royalty, a premium or other payment for, or for the use, production or reproduction of, property or as consideration for services (including services provided as an employee and the insurance or reinsurance of risks) as part of the transaction. |
+
+| **Transfer Pricing Method** (TPM) | It is a basis for establishing an arm’s length transfer price or allocation under section 247 of the Act and, where applicable, under various income tax treaties between Canada and treaty jurisdictions. |
+
+| **Treaty jurisdiction (or treaty partner)** | A country with which Canada has entered into a tax convention. |
+
+| **Unilateral APA** | An APA between only the CRA and the taxpayer covering the Canadian tax treatment of international transactions with the taxpayer’s related party or parties. |
+
+## Introduction
+
+2. This circular explains what APAs are and how the APA program works. The CRA’s CASD administers APAs.
+
+## Part I – Information about APAs
+
+3. An APA is an arrangement between a taxpayer and the Minister of National Revenue covering a specified tax period. The APA is generally exclusive to international transfer pricing issues and the determination of business profits of a taxpayer operating a business through a PE in Canada or a treaty jurisdiction. Where a taxpayer files tax returns in accordance with an APA, the CRA will consider the taxpayer to have complied with the sections of the Act as identified in the APA. In this regard, APAs provide the CRA and taxpayers with tax certainty.
+
+### Purpose and scope of APAs
+
+4. The purpose of the APA program is to provide a co-operative process for resolving transfer pricing issues on a prospective basis and for preventing transfer pricing disputes. This program is a discretionary service provided by the CRA and is intended for taxpayers seeking to limit exposure to double taxation in treaty jurisdictions or reduce tax uncertainty in Canada. There is no legal requirement to enter into an APA, no legal entitlement to an APA and no statutory framework for APAs.
+
+5. Where section 247 of the Act applies, taxpayers should look for guidance when determining an arm’s length transfer price by referring to the CRA’s information circulars, if applicable, and transfer pricing memoranda, as well as information published by the OECD. Canada is a member of the OECD and endorses the OECD Guidelines.
+
+6. Although any taxpayer may apply for APA consideration, regardless of the size of the organization, the type or scope of its operations, or the nature of the transactions and proposed TPMs, the CRA may determine that a request is not suitable for the APA program (see paragraph 42).
+
+7. The APA program is separate from the CRA audit program. Filing an APA submission neither automatically nor independently starts an audit. Where a taxpayer requests an APA during an ongoing audit or pending an audit, CASD will endeavour to coordinate its program with the activities of the relevant TSO to achieve maximum efficiency for the taxpayer and the CRA. However, CASD has no decision-making authority in respect of the audit process.
+
+8. The scope and complexity of a case, and not the size of an entity or MNE group, as well as other factors (such as the extent of co-operation and the quality of information provided by the taxpayer throughout the APA process, as well as the resources available at the foreign tax authority[Footnote1](#fn1) ) will determine the time required to review and complete an APA request.
+
+9. When requested by the taxpayer or foreign competent authority, consideration will be given to the retroactive application of an APA to rollback years. The inclusion of rollback years will depend on a number of factors including treaty time limitations and whether the facts and circumstances of those years are consistent with the APA years. This consistency is essential for appropriately applying the TPM to those years. Acceptance of a rollback period is subject to the criteria in [Transfer Pricing Memorandum TPM-11, Advance Pricing Arrangement (APA) Rollback](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/transfer-pricing/11.html).
+
+### Types of APAs
+
+10. There are three types of APAs:
+
+1. Unilateral APAs;
+
+2. Bilateral APAs (BAPAs); and
+
+3. Multilateral APAs.
+
+11. The CRA prefers to enter into BAPAs or multilateral APAs since they minimize the possibility of double taxation and give taxpayers greater tax certainty. Part IX does, however, provide information with regards to unilateral APAs, including small business APAs, and when they may be appropriate.
+
+### Who should seek an APA?
+
+12. Taxpayers may consider seeking an APA if they have cross-border intragroup transactions with a related party resident in a treaty jurisdiction, where the treaty jurisdiction has an APA program.
+
+### Benefits of entering into an APA
+
+13. The CRA encourages the use of the APA program as a means to provide enhanced tax certainty while fostering a more cooperative relationship between the CRA and the taxpayer. Although this information circular primarily focuses on the procedural aspects of the APA process, it also aims to highlight the benefits of the program. These include:
+
+1. The APA program can provide tax certainty in multiple jurisdictions for future taxation years and significantly reduce the risk of double taxation, as long as the critical assumptions (see glossary definition) and other terms and conditions of the APA are maintained.
+
+2. Once in place, an APA can reduce the risk or limit the scope of the audit of a covered transaction in multiple tax jurisdictions. It also provides protection from transfer pricing penalties in Canada for the covered transactions in accordance with section 247 of the Act.
+
+3. Taxpayers who have had ongoing audits in one or more tax jurisdictions may benefit from the more collaborative approach taken by the participants during an APA process.
+
+4. The CRA’s APA program allows for the rollback of an APA to non-statute-barred taxation years, where the facts and circumstances of the APA years are the same as in the rollback years and other conditions are met. Most of Canada’s treaty partners who have APA programs also allow rollbacks and, as a result, taxpayers may benefit from the increased certainty of applying an APA rollback to prior years.
+
+5. Taxpayers are expected to co-operate throughout an APA with all participating tax authorities. Where a taxpayer meets this expectation, resolution of complex and potentially contentious issues is generally easier and more timely than in multiple audit settings and later MAP processes. Accordingly, the APA process may result in long-term savings in terms of the taxpayer’s time and compliance costs.
+
+### Expectations of taxpayer co-operation
+
+14. Taxpayers are expected to co-operate fully throughout the APA process. This includes but is not limited to the following:
+
+1. Submitting a comprehensive prefiling package, which fully discloses all relevant facts in all participating jurisdictions.
+
+2. Providing a complete APA submission within the specified deadline in response to the CRA’s conditions letter (see paragraph 49).
+
+3. Responding to requests for information from all participating tax authorities on a timely basis.
+
+4. Being proactive in providing tax authorities with all relevant and up-to-date information (see paragraph 44).
+
+15. At any time during the APA process, the CRA may notify the taxpayer that it has decided not to continue with the APA process; however, this is not common practice. Possible reasons for this may include:
+
+1. The taxpayer causes unreasonable delays, does not respond, or does not provide complete and accurate information when responding to information requests.
+
+2. Facts gathered by the CRA vary significantly from the stated facts in the submission.
+
+3. Other tax authorities advise that they are withdrawing from the process. In such circumstances, a unilateral APA could be explored if the criteria set out in paragraph 119 are met.
+
+4. The taxpayer does not accept a CRA request to hire an independent expert or bear extraordinary costs where considered appropriate (see paragraphs 17 to 23).
+
+5. There is one or more significant restructurings, insolvency proceedings, or significant changes to the taxpayer’s business operations.
+
+### Items covered in an APA
+
+16. An APA generally covers the following terms and conditions:
+
+1. The identification of all parties;
+
+2. The APA years to be covered including prior years for an APA rollback;
+
+3. The definition of the terms contained in the document;
+
+4. A description of the taxpayer’s business and that of the non-resident related party;
+
+5. The covered transactions;
+
+6. The selection of the TPMs and their application to the covered transactions;
+
+7. The selection and application of allocation keys used for purposes of apportioning expenses or revenues;
+
+8. The effects of the application of section 247 of the Act to the covered transactions, if any. These effects are only triggered in cases where the taxpayer files their income tax returns in accordance with the terms and conditions set out in the APA;
+
+9. Any critical assumptions that must be met or maintained throughout the APA period;
+
+10. A description of what is to be included in the taxpayer’s APA annual report to the CRA;
+
+11. The general limitations, roles, and responsibilities that apply during an audit of the covered transactions of an APA by the CRA;
+
+12. The taxpayer’s responsibilities for the maintenance of books and records for the APA years;
+
+13. The procedures for any compensating adjustments;
+
+14. A statement covering the use and disclosure of information obtained by the CRA during the APA process;
+
+15. A description of potential dispute resolution outcomes where a disagreement over the interpretation or application of the APA arises between the parties;
+
+16. Procedures to be followed where one of the parties believes a revision to the APA is required;
+
+17. The circumstances that may result in the APA being cancelled or revoked by the Director, as well as the steps to be taken and the resulting consequences where an APA is revised, cancelled or revoked; and
+
+18. Where a foreign tax authority has concluded an APA with a related party of the taxpayer, steps to be taken by the Director if the foreign APA is not consistent with the Canadian domestic APA.
+
+### Independent experts and potential fees to taxpayers
+
+17. An independent expert is any person with specialized skills, knowledge, education, or experience in a field of study, industry, or geographic area relevant to an APA.
+
+18. In exceptional or complex cases, the CRA or the foreign tax authority may determine, or the taxpayer may suggest in the APA request, that the opinion of an independent expert is required to help the competent authorities evaluate the APA submission. If such opinion is necessary, it will be at the taxpayer’s expense.
+
+19. The taxpayer, the CRA, and the participating foreign tax authority (where applicable) jointly select the independent expert and will define the expert’s mandate. The independent expert will then analyze the APA submission and provide a written opinion, which will include the basis for the opinion and the conclusions reached.
+
+20. If an independent expert is required, the CRA will ask the taxpayer for written authorization to examine and discuss the APA request and submission, as well as other relevant information, with the expert.
+
+21. The independent expert’s opinion will not be binding on any of the relevant participants in the APA process.
+
+22. The participating tax administrations will have full access to the expert’s report and supporting documentation.
+
+23. In rare circumstances, the taxpayer might be asked to bear certain costs for items that are not ordinarily part of the APA process, but which are considered critical to the resolution of the particular APA. For example, the CRA or the foreign tax authority may need access to specific data and analysis that is only available at a considerable cost.
+
+### APA participants
+
+24. Participants in an APA process may include the following:
+
+1. The taxpayer and their authorized representatives;
+
+2. Related parties and their authorized representatives;
+
+3. CRA officials from CASD, other areas of ILBD, Legal Services and the taxpayer’s TSO; and
+
+4. Officials from one or more foreign tax authorities.
+
+### Preliminary taxpayer contact with the CRA
+
+25. If a taxpayer wants to explore the possibility of an APA:
+
+1. The taxpayer (or their representatives) should contact CASD (see paragraph 130) to discuss the submission of a prefiling package and the corresponding prefiling meeting. Taxpayers should ensure they are following the CRA’s most up-to-date communication protocols in order to maintain confidentiality. Representatives should also ensure that proper taxpayer authorization forms are provided.
+
+2. If requested, CASD will provide guidance and assistance by explaining the procedures that should be followed. The starting point is a prefiling meeting that provides the CRA and the taxpayer with the opportunity to discuss the possibility of an APA.
+
+3. The taxpayer may have informal discussions on an anonymous basis with CASD regarding particular situations or scenarios; however, CASD will not give consideration to a prefiling meeting unless the parties are identified. CASD will not be bound by responses provided during informal discussions.
+
+### Stages of an APA
+
+26. The stages of an APA process usually include the following:
+
+1. Stage 1 – Prefiling meeting (see Part II)
+
+2. Stage 2 – Processing an APA request (see Part III)
+
+3. Stage 3 – Case work and resolution (see Part IV)
+
+## Part II – Prefiling meeting
+
+### Submission of a prefiling package
+
+27. The taxpayer must provide a complete prefiling package before a date for a prefiling meeting will be considered. While information requirements at this stage are not at the level of detail required in a complete APA submission (set out beginning in paragraph 45), the prefiling package should provide sufficient details about the tax period to be covered, the parties, the proposed TPM to be applied to the covered transaction, and the effect an eventual APA using the proposed TPM would have on the taxpayer’s tax filing position.
+
+28. A typical prefiling package includes the following:
+
+1. The names of the specific parties and participants to be included in the APA process;
+
+2. All relevant organizational charts including, if applicable, the global organizational structure of the MNE;
+
+3. A description of the industry in which the MNE operates;
+
+4. Rationale for requesting an APA and whether the request is for a unilateral APA, a BAPA, or a multilateral APA;
+
+5. Identification of treaty partners or countries involved, as appropriate;
+
+6. Nature and scope of the covered transactions, including the related parties and flow of the covered transactions proposed to be included within the scope of the APA;
+
+7. Details on the covered transaction including data, documentation and analysis that may be needed;
+
+8. If applicable, the rationale for excluding any potentially relevant cross-border intragroup transactions from the scope of the APA request along with complete details of those transactions;
+
+9. Identification of any potential need for the use of independent experts;
+
+10. Proposed TPM and its application to the covered transaction, including any available pro forma income statements for future taxation years after the application of the proposed TPM;
+
+11. APA years to be covered;
+
+12. Request for inclusion of prior years as rollback years along with a calculation of proposed adjustments that would result from the application of the proposed TPM to those years;
+
+13. Identification of adjustments or proposed adjustments for all years under audit in all proposed participating tax jurisdictions;
+
+14. Identification of any need for waivers in accordance with subsection 152(4) of the Act for all relevant taxation years (see [Waiver in Respect of the Normal Reassessment Period](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2029.html));
+
+15. Disclosure and brief history of any audit, appeal or litigation activity in all jurisdictions for all taxation years for the entities within the scope of the APA;
+
+16. A history of requests to and settlements by any competent authority, with any entity within the MNE group, that are relevant to the proposed scope of the APA;
+
+17. Disclosure of unilateral APAs, BAPAs, or multilateral APAs that are relevant to covered transactions and that are in place or in progress in other tax jurisdictions within the MNE group and their status;
+
+18. The key individuals (including the taxpayer’s officials or employees and any experts, advisors, or other representatives) who will be involved in the APA process; and
+
+19. The identity of all corporation officers authorized to communicate with the CRA, and all required representative authorizations.
+
+29. When preparing a prefiling package, please follow the above order from a. to s., and submit the prefiling package through the communication protocol outlined in paragraph 130.
+
+### Review of the prefiling package for completeness
+
+30. When the CRA receives a prefiling package, CASD officials will review the package to determine if it is sufficient to proceed with a formal prefiling meeting. The package should be comprehensive and include the items set out in paragraph 28 above. The CRA seeks to complete its review of the prefiling package within a reasonable timeframe, typically 30 days from receipt. CASD will provide acknowledgment that the prefiling package is complete. If the package is incomplete, CASD will advise the taxpayer of the need to provide more information and explain what is required before a prefiling meeting can be scheduled.
+
+### The prefiling meeting
+
+31. A prefiling meeting gives the taxpayer an opportunity to present the information in the prefiling package. The presentation should include details about business operations, structures, and business activities with a focus on the covered transactions, including the proposed TPM and its application as well as its effect on the proposed Canadian and foreign tax filing positions.
+
+32. The meeting also gives the CRA an opportunity to ask questions that clarify the taxpayer’s past and current tax filing positions along with what is proposed for future years. The discussion is expected to be open and transparent and is intended to clarify facts or any misunderstandings. Generally, these preliminary discussions facilitate the subsequent APA submission and expedite review process.
+
+33. CASD will contact the taxpayer to arrange a date for a meeting once it is determined that sufficient information has been received. Timing is subject to the CRA’s ability to co-ordinate personnel availability with the dates proposed.
+
+34. CASD must have received a complete prefiling package within 180 days after the end of the first taxation year that is to be covered by the APA. If a complete prefiling package is not received by that date, the first taxation year will not be considered as an APA year (and thus, the covered transactions of that year will not be covered by the APA), although the year may be considered as a rollback year.
+
+35. The prefiling meeting may take place in CASD’s offices located at the CRA’s headquarters in Ottawa, Ontario or virtually as determined and agreed to by the taxpayer, the CRA and any participating foreign tax authority. CRA officials in attendance may include the Director, the CASD manager, a CASD analyst and economist, an economist or other representative from ILBD, a representative from the audit team (if there is one) and a representative from the Legal Services Branch.
+
+36. Although routine issues such as the appropriate APA term (usually five years) and potential for rollbacks may be addressed, the CRA will not make any commitments at this stage. The purpose of the meeting is to have preliminary discussions with respect to the proposed covered transactions. This will also be the occasion for the CRA to set out its expectations of what should be addressed in the formal APA submission.
+
+37. In order to determine the suitability of the taxpayer’s request for an APA, additional information regarding what is contained in the prefiling package may be requested by the CRA before, during or after the prefiling meeting.
+
+38. At the conclusion of the meeting, the CRA will determine the next steps in the process, which may include the requirement for more information in order to address any questions from the CRA that arose during the meeting.
+
+### CRA post-prefiling meeting review and notification to foreign tax authorities
+
+39. After the prefiling meeting and the receipt of any additional information requested, the CRA may still need supplementary clarification or information. The CRA will not accept an APA request into the program until all requested information has been received.
+
+40. The CRA will also notify the foreign competent authority, if applicable, of the taxpayer’s interest in seeking a BAPA or multilateral APA, although it is the taxpayer’s responsibility to notify and apply for a BAPA or multilateral APA in all relevant tax jurisdictions.
+
+## Part III – Processing an APA request
+
+### The decision process at the prefiling stage
+
+41. The APA program is discretionary, and either the CRA or the taxpayer may decide not to proceed. Following the prefiling meeting and receipt of any additional information requested, the CRA will then either invite the taxpayer to make a formal APA request or inform the taxpayer that the CRA is not willing to pursue the request any further. If the CRA decides not to proceed after the prefiling meeting stage, the taxpayer or its representatives will be given reasons in writing for the decision.
+
+42. Items a. to p. below are some examples of reasons why the CRA may decide a taxpayer is not suitable for the APA program at any point after completing a pre-file meeting and receiving a complete prefiling package. Importantly, each request is evaluated based upon its individual facts and circumstances; however, the list below sets out some common reasons why the CRA may ultimately determine that a taxpayer and their proposed covered transactions are not suitable for the APA program:
+
+1. The CRA has concerns that the taxpayer’s proposal, covered transactions, cross-border intragroup transactions, arrangements or structure are part of, or relate to, a tax avoidance or BEPS strategy.
+
+2. The business is expected to undergo a significant transformation during the APA term, such as the addition of new or deletion of current business lines, so that the results of the APA would not be applicable for later periods.
+
+3. Before the APA term, the business underwent a transformation with potential significant tax implications that have not been audited or confirmed by the CRA.
+
+4. The taxpayer’s business activities, and levels of working capital, assets, and liabilities are not expected to stay consistent, taking into account inflation and fluctuations in global economic conditions, throughout the APA period.
+
+5. At the time of the request, the business is not a going concern.
+
+6. The enterprise has not been in business long enough to complete an economic analysis covering a full business cycle of taxation years for which an income tax return has been filed.
+
+7. The taxpayer chooses not to include all cross‑border intragroup transactions in their request without satisfactory rationale or justification for the exclusion, or the CRA concludes that the excluded transactions should otherwise be covered, and the taxpayer does not agree.
+
+8. Legal contracts governing the covered transaction are not aligned with the actual conduct of the parties.
+
+9. There is past or current litigation involving the proposed covered transactions for past years.
+
+10. The proposed covered transaction requires a determination under the Act that does not involve section 247, and the issue is not covered by a treaty article. This would prevent the Canadian competent authority from negotiating with a foreign tax authority, thus eliminating the possibility of a BAPA or multilateral APA.
+
+11. The taxpayer is seeking a PE determination under one of Canada’s tax treaties. Canada’s treaties contain a specific article for such determinations, which are resolved through the regular MAP process. Such determinations are not valid for later years and, consequently, such a case would not be considered for an APA.
+
+12. The request requires an attribution of profits to a PE, but the books and records of the taxpayer are inadequate such that the CRA cannot perform an analysis; or, the attribution involves the allocation of notional expenses, which have a specific treatment under Canadian domestic legislation.
+
+13. The APA would involve one or more of the following cross-border intragroup transactions: restructuring, shifting or eliminating functions, selling or transferring assets (including intangibles), closing plants, or allocating extraordinary gains or losses. Any of the above transactions may be one-time in nature, precluding an economic analysis of full years (years encompassing a business cycle in which these transactions occur) from being conducted.
+
+14. The enterprise does not have sufficient historical records that allow reasonable tracing of the ownership and development of intangibles.
+
+15. The taxpayer cannot establish a compelling commercial rationale for holding intangibles in a particular entity or jurisdiction separate from their headquarter jurisdiction or separate from the entity in which they were developed.
+
+16. The taxpayer cannot establish the value of an intangible, making it unlikely that the CRA could justify any valuation.
+
+### Notice to the taxpayer to submit a formal request
+
+43. After the prefile meeting, the taxpayer may receive notice from the CRA that they may proceed with a formal request. This acknowledgement and the subsequent conditions letter will only be issued once CASD has enough information to consider the APA request. If the taxpayer chooses to proceed, they must submit a letter seeking acceptance into the APA program. The letter should include the legal names and addresses of all taxpayers that are parties to the covered transaction, the years to be covered, the years requested for rollback (if applicable), and the list of all the foreign tax authorities involved. For an example of a letter seeking acceptance of a BAPA, see Appendix II.
+
+### Conditions letter
+
+44. Upon receipt of a taxpayer’s letter seeking acceptance into the APA program, the CRA will issue a conditions letter. Some of the terms, conditions and taxpayer commitments set out in the letter include:
+
+1. Consent to disclosure of information by the CRA to the foreign tax authorities. Where a multilateral APA is requested, the taxpayer must consent to disclosure of information to all tax authorities involved before CASD will explore the possibility of a multilateral request;
+
+2. Acknowledgment of an understanding of the confidentiality provisions of the Act;
+
+3. Commitment to provide all requested information in a timely manner;
+
+4. Commitment to provide a complete APA submission that is accurate, and in accordance with CRA requests within three months of the date of the conditions letter;
+
+5. A signed declaration by an authorized person to accompany the APA submission attesting to the accuracy of the information in the submission as follows:“I declare that I have examined this initial APA submission, including accompanying documents, and, to the best of my knowledge, all information presented in this APA submission is complete and accurate in all material respects.”
+
+6. Commitment to provide updated financial information on an annual basis for any taxation year that ends before the APA is concluded;
+
+7. Commitment to assume any additional costs that may arise for hiring an independent expert or that relate to other specific requests;
+
+8. Commitment to provide an annual declaration that there have been no changes to the business for any taxation year that ends before the APA is concluded, or, where there have been changes, a complete description thereof;
+
+9. Commitment to file and maintain valid waivers, in accordance with subsection 152(4) of the Act, for all relevant taxation years; and
+
+10. The signature of an authorized officer agreeing to all the terms outlined in the letter.
+
+### Receipt, review and analysis of a submission
+
+45. In response to the conditions letter, an APA submission should include detailed information which will support the application of the TPM used and the conclusions reached. Taxpayers are also expected to provide a full analysis of any alternate TPMs requested by the CRA or foreign competent authorities and to address any other CRA requests (see paragraph 50).
+
+46. Taxpayers should discuss the proposed TPM and provide a detailed analysis and explanation of it in accordance with applicable Canadian legislation and administrative guidance as well as the OECD Guidelines.
+
+47. Taxpayers should explain why the proposed TPM is the most appropriate method with regard to their specific facts and circumstances, recognizing, however, that adjustments to their analysis may be made as a result of the APA process.
+
+48. Taxpayers must show the effect of the proposed TPM on the covered transactions. They should do so by applying it consistently to the historical taxation years selected for analysis or the most recent business cycle, if appropriate, and to the time period they want the APA to cover, to the extent possible. CASD requires this information for purposes of testing this TPM. When the application of the proposed TPM to the taxpayer’s financial and tax data, and to the data of the non-resident entities, produces results that deviate from those reported under the TPM that was used during that period, the taxpayer must explain why the proposed TPM better reflects an arm’s length result.
+
+49. Where applicable and where the same information item is asked for in the prefiling document, taxpayers are expected to provide substantially more detail in the APA submission. All information provided in the APA submission must be complete and accurate in all material respects, based on information available at the time. A complete APA submission would also typically include the following:
+
+1. The formal legal names and addresses, as well as tax identification numbers in contracting states of all entities that are parties to the proposed APA;
+
+2. Identity and contact information of authorized representatives and authorized corporation officers;
+
+3. A signed statement attesting to the accuracy of the information provided, as phrased in the conditions letter;
+
+4. Waivers, in accordance with subsection 152(4) of the Act, for all relevant taxation years, as well as a written application for the refund of excess tax paid in Canada as a result of the proposed APA, where applicable;
+
+5. The proposed APA term including rollback years;
+
+6. A full set of relevant financial information for all years identified as required for economic analysis purposes, including financial statements for parties to the APA and consolidated financial statements for the MNE group;
+
+7. Where an attribution of profits to a PE is required, detailed segregated financial information and a justification for all assumptions made;
+
+8. A description and analysis of the business activities of all parties included in the proposed APA;
+
+9. A description and analysis of the industry and the markets in which the parties do business;
+
+10. An analysis of functions performed, assets used and risks assumed by the parties;
+
+11. The proposed TPM and its application, including the rationale for its selection;
+
+12. A description of existing or proposed terms and conditions with respect to the covered transactions, including copies of existing or proposed intercompany agreements
+
+13. A description of existing or proposed terms and conditions of any intragroup transactions that may impact or may be related to the covered transactions, including a description of such relationship or impact;
+
+14. Where a one-sided TPM is used, an explanation of the rationale for the selection of the tested party;
+
+15. The screening process including information that provides a description of the business activities, financial data, and rejection criteria applied to choose the set of comparables used in the economic analysis;
+
+16. Description of due diligence performed with respect to the availability of internal comparable information and, where applicable, the associated rejection reasons, where this information was ultimately not used in the application of a TPM;
+
+17. A historical analysis with respect to the development, enhancement, maintenance, protection, and exploitation of intangibles, from an economic perspective;
+
+18. A quantitative and qualitative analysis of the values assigned to intangibles and economic justification of the values assigned;
+
+19. An economic justification for any allocation keys used;
+
+20. The financial results of the application of the TPM when applied to the APA and rollback years; and
+
+21. A set of critical assumptions under which the proposed TPM would operate.
+
+50. It is also important that the submission addresses the specific requests the CRA made during or after the prefiling meeting, or in the conditions letter. Such requests could include:
+
+1. Internal industry analysis prepared by the MNE or analysis by third party experts;
+
+2. Inclusion of an independent expert report or extraordinary items such as access to specific data (see paragraphs 17 to 23);
+
+3. Details on the use of a transactional approach;
+
+4. Inclusion of a CRA-preferred TPM, where requested, and its application, in addition to the TPM and its application as proposed by the taxpayer;
+
+5. Segmented financial information for the purposes of a CRA analysis;
+
+6. Any other information or analysis requested; or
+
+7. An explanation, if the CRA requests cannot be addressed.
+
+51. Taxpayers are encouraged to file their APA submissions through the CRA’s E-services. The most up-to-date information can be obtained from this link: [Digital services - Canada.ca](https://www.canada.ca/en/revenue-agency/services/e-services.html).
+
+52. Where a submission cannot be provided through the CRA’s E‑services, the CRA requires three copies of the complete APA submission and all supporting schedules. The submission should be mailed or delivered to the address specified in paragraph 130.
+
+53. All documents must be in English or French. Do not submit original documents. Information obtained by the CRA throughout the APA process, including information in electronic format, will not be returned, whether or not the APA is successfully concluded (see Part VII).
+
+54. After a complete submission is received, CASD will endeavour to complete its analysis and advise the taxpayer whether it is willing to proceed within a reasonable timeframe. Where a submission is subject to timelines for arbitration as set out under the relevant articles of a treaty, those timelines will be followed. In addition, CASD endeavours to respect similar timeframes for other taxpayers not subject to arbitration, wherever possible. Paragraphs 49 and 50 set out what CASD considers to be a complete submission. Appendix I also provides an APA Submission Checklist for reference.
+
+## Part IV – Case work and resolution
+
+### CRA acceptance of the taxpayer into the APA program
+
+55. The CRA will advise the taxpayer in writing of their acceptance into the APA program. Acceptance starts the formal process by the CRA for the fact gathering phase of the APA and for initiating contact with the foreign competent authorities. However, the CRA may still require additional information before the start of any required site visits. Co-operation by the taxpayer with respect to information and other requests is a requirement to remain in the program and is necessary for the successful completion of an APA.
+
+56. If the CRA decides not to proceed with an APA after receipt of an APA submission, it will advise the taxpayer in writing, with an explanation of the reasons for its decision.
+
+57. In addition to examples listed in paragraph 42, the following are some scenarios in which the CRA may decide not to proceed after receiving a submission (note that this list is not exhaustive):
+
+1. The submission did not address previous CRA concerns or requests.
+
+2. The business conditions, and the facts and circumstances of the taxpayer have changed significantly since the CRA conditions letter was issued (for example, the sale or cessation of a business line, change of ownership, insolvency proceedings).
+
+3. The taxpayer has not responded or has not responded in a timely manner, as specified by CASD, to a CRA request asking for more information after receipt of the submission.
+
+4. The CRA determines that key information in the submission is incorrect, incomplete or misleading.
+
+5. The CRA has been contacted by a foreign tax authority advising that they are not willing to engage further in the APA process. In these circumstances, the CRA would consider whether or not a unilateral APA could be appropriate based on the criteria set out in paragraph 119.
+
+### CRA contact with foreign tax authorities after acceptance
+
+58. After a taxpayer’s submission has been accepted, the CRA will advise the participating foreign competent authorities of its acceptance.
+
+59. Upon acceptance of an application into the APA program, the taxpayer, CASD and the foreign competent authorities would ideally agree to a target project plan outlining the timelines for each stage of the APA process.
+
+60. Wherever possible, where the CRA determines that a site visit is necessary, and where foreign tax authorities want to participate in such a visit, joint site visits will be coordinated. If the foreign tax authorities agree to participate in site visits, the CRA will ask the taxpayer to coordinate a site visit agenda to accommodate all the tax authorities. Where the foreign tax authorities decline to participate in joint site visits, the CRA will work with the taxpayer to prepare a site visit agenda.
+
+### Site visits
+
+61. Site visits and functional interviews give tax authorities the opportunity to interview key personnel of the MNE to verify the position that was presented in the APA submission, and to obtain additional information and further clarification of the taxpayer’s business activities and that of their related parties. Usually, a site visit will be made at the taxpayer’s place of business and that of the related party involved in the covered transaction. It is also possible in some cases to arrange interviews through video or audio conference call, thus eliminating the need for some travel.
+
+62. The taxpayer is expected to assist all participating tax authorities in identifying and making available key personnel in order to ensure that all necessary facts are gathered before the formal economic analysis stage begins.
+
+63. In many cases, it is also very helpful to observe the operations of the MNE through a tour of the operating facilities. Where such a tour is not necessary, in-person functional interviews could be arranged at any mutually convenient location.
+
+64. Travel costs for CRA officials are borne by the CRA, while the taxpayer is responsible for travel costs for their own employees and representatives.
+
+65. After the site visits or interviews are concluded, it is common for the tax authorities to send questions in writing as follow-up. The CRA will advise the taxpayer of the next steps and possible timing for this process.
+
+### Provision of information by the taxpayer
+
+66. Where a taxpayer has gathered relevant information for consideration in addition to what was provided in the submission, the taxpayer is expected to share the same information with all participating tax jurisdictions on a simultaneous basis. This includes the taxpayer’s responses to a specific tax authority’s written queries sent during the APA process.
+
+67. The taxpayer is also expected to keep all participating tax authorities informed of any significant changes to the facts relied upon in the APA request as soon as the taxpayer becomes aware of the changes. The taxpayer is also responsible for providing updated financial information as it becomes available.
+
+### CRA review and analysis of information
+
+68. Upon the completion of site visits, as well as the receipt of responses to any post-site visit questions and any other information provided by the taxpayer, the CRA will start the formal analysis stage that needs to be completed before preparing a position paper. During this phase, the CRA may still require more information. CASD will periodically inform the taxpayer of its progress on the file, including the progress being made by foreign competent authorities, if known.
+
+### Preparation of the CRA position paper
+
+69. When the CRA is confident that its analysis is complete and factually correct, it will prepare and finalize its position paper.
+
+70. The CRA will endeavour to have a position paper completed and ready for exchange with the foreign competent authorities within one year of acceptance of the taxpayer into the APA program, or sooner where possible. Wherever possible, the CRA aims to coordinate, with the foreign tax authorities, when position papers should be issued, so that all tax authorities have enough time to evaluate the position papers before negotiations take place.
+
+### Exchange of position papers and negotiations with the foreign tax authorities
+
+71. Position papers are usually simultaneously exchanged between the CRA and the foreign competent authorities. In view of the special nature of the MAP and APA processes, position papers are not disclosed to taxpayers[Footnote2](#fn2) . Their disclosure and use are governed and protected by the provisions of the tax convention with the treaty jurisdiction.
+
+72. Negotiations between the competent authorities take place pursuant to the MAP article of the relevant treaty. Neither the taxpayer nor the related parties are invited to participate in the negotiations. However, the taxpayer and related parties may be asked to provide clarification of facts or respond to additional questions where such clarifications or questions arise during the competent authorities’ negotiations. CASD will also periodically provide updates to the taxpayer as negotiations progress.
+
+73. Depending on the treaty partners, arrangements are made to have negotiations either face-to-face or via video or audio conference, or a combination thereof. The CRA’s goal is to complete negotiations within one year from the first discussion. However, the CRA has no control over the time required to complete a successful negotiation where the foreign competent authorities are not necessarily committed to the same timelines.
+
+### Presentation of the APA to the taxpayer
+
+74. After an agreement is reached between competent authorities, each tax authority notifies the taxpayer under its jurisdiction and presents the arrangement to them. At this stage, the taxpayer has the option to accept or reject the arrangement.
+
+75. If the arrangement is accepted by the Canadian taxpayer and their foreign related party, CASD and the foreign competent authorities will draft the BAPA or multilateral APA. The taxpayer does not review this agreement, but may aid the competent authorities if any clarifications are required following the negotiations.
+
+76. The CRA then proceeds to draft the domestic APA, which will reflect the negotiated terms of the BAPA or multilateral APA. While the taxpayer has the opportunity to review the domestic APA, no changes to the TPM or the terms and conditions as negotiated between the competent authorities can be made.
+
+77. Where the taxpayer files the required tax returns in accordance with the terms and conditions of the domestic APA, the taxpayer’s returns filed on this basis will be deemed to be in accordance with section 247 of the Act. In such a case, the potential for double taxation and transfer pricing penalties is mitigated for the covered transaction.
+
+### Withdrawing an APA request or rejecting a Multilateral APA
+
+78. A taxpayer may withdraw its APA request at any time during the process or during which the APA is in force.
+
+79. If a taxpayer withdraws an APA request or rejects a BAPA or multilateral APA reached with foreign competent authorities, the taxpayer and the CRA will no longer have obligations to each other with respect to the APA process. Any previous undertakings and understandings relating to the APA request will be of no further force or effect. Part VII below provides information that applies to any information that has been sent to the CRA. Where the taxpayer does not accept a BAPA or multilateral APA reached with foreign competent authorities or withdraws its request, the TSO may make adjustments that result in double taxation. However, the taxpayer would still be entitled to the dispute resolution mechanism set out in the MAP article of the relevant treaty.
+
+### Implementing the APA
+
+80. The final step is the implementation of the APA by the CRA and the foreign tax authorities. CASD will communicate the APA results to the responsible TSO along with a copy of the APA. Where rollback years or years for which tax returns were filed are involved, the taxpayer may have to file amended returns.
+
+81. The Canadian competent authority negotiates APAs, including for rollback years, for each taxation year. As a result, the resolution of a BAPA or multilateral APA may require the taxpayer to make compensating adjustments with respect to a number of taxation years where tax returns have been filed during negotiations. The Canadian competent authority will only allow compensating adjustments to be applied to the taxation year to which the APAs are applicable.
+
+82. Despite the taxpayer’s signed domestic APA agreement, the CRA will not reassess the relevant tax returns unless the taxpayer waives in writing, in accordance with subsection 165(1.2) or 169(2.2) of the Act, their right to file a notice of objection under subsection 165(1), or their right to appeal to the Tax Court of Canada under subsection 169(1), as applicable, for each year for which a relevant tax return was filed.
+
+## Part V – Other issues: Canada–United States arbitration
+
+83. In accordance with paragraph 4 of the Memorandum regarding the application of the arbitration procedure, the CRA will ordinarily complete a formal review of the submission and determine whether the information necessary to undertake substantive consideration has been received, whether the submission is acceptable, or whether it is not accepted as it is considered incomplete. This will be communicated to the taxpayer within 60 calendar days of receipt of the submission.
+
+84. Where additional information is required before a determination can be made, the CRA will ordinarily advise the taxpayer within 75 calendar days of what information is required to complete the submission.
+
+85. After a complete submission is received and if both the CRA and the United States Internal Revenue Service (IRS) accept a taxpayer into the APA program, a commencement date is established. The commencement date with the US is established based on the earlier of (i) the date on which both competent authorities have exchanged position papers, or (ii) two years from the later of the two dates when the CRA and the IRS received information necessary to undertake substantive consideration (that is, a complete APA submission).
+
+86. If an APA agreement is not reached within the timeframe specified in Article XXVI, under paragraphs 6 and 7 of the Canada–United States Income Tax Convention, the case may be eligible for binding arbitration. Refer to the information circular IC71 17R6, Competent Authority Assistance under Canada’s Tax Conventions, for more information.
+
+87. For further information on administrative protocols which govern arbitration proceedings for the Canada–United States Income Tax Convention, refer to the Memorandum that can be found by accessing CASD’s information located on the canada.ca website (see paragraph 130).
+
+## Part VI – Legal effect
+
+88. Subject to any qualifications stated in the APA and the comments in paragraphs 100 to 115, an APA is binding on the CRA and the taxpayer.
+
+89. The act of requesting an APA, filing an APA submission, or participating in an APA process that is discontinued for any reason will not, by itself, constitute “reasonable efforts” for the purposes of subsection 247(3) of the Act with respect to the transactions and taxation years proposed to be covered under the APA. However, when a taxpayer complies with the terms and conditions of an APA, the CRA will consider that the results of applying the agreed TPM to the covered transaction have satisfied section 247 of the Act for periods specified in the APA. With respect to only the covered transaction in an APA, no penalty will be levied under subsection 247(3) of the Act for taxation years for which the APA remains in force.
+
+90. An APA is not a precedent for other taxation years of the taxpayer, any taxation year of any other taxpayer, or any administrative or judicial proceeding in relation to any taxation year, transaction or person.
+
+## Part VII – Use, disclosure, and protection of information
+
+91. The confidentiality provisions of the Act limit the CRA’s rights and powers to use and disclose information submitted in connection with an APA request or submission. All information obtained or generated during the APA process is for the purpose of administering the Act. APAs, and the information obtained or generated during the APA process, including commercially sensitive and proprietary data, relate directly to a taxpayer’s potential obligations under the Act. The confidentiality provision in the relevant income tax treaty will also apply.
+
+92. Except as otherwise provided by written agreement, an APA may not be introduced by a taxpayer or the CRA as evidence in any administrative or judicial proceeding in relation to any taxation year, transaction, or taxpayer.
+
+93. At the CRA’s discretion, certain statistics about the APA program may be made publicly available. This may involve disclosing general information about APAs, such as the number of APAs pending and in process, as well as the number and types of APAs concluded, and the TPMs employed. All such disclosures will be made according to the confidentiality provisions of the Act and the relevant treaty, as applicable. The Canadian competent authority may also provide information obtained during an APA process to another treaty partner in accordance with the Act and Canada’s obligations with respect to the exchange of information provisions of a particular legal instrument having force of law in Canada.
+
+## Part VIII – Administering an APA
+
+### Filing of an annual report
+
+94. Once an APA is entered into, the taxpayer is required to file an annual APA report in accordance with the terms of the APA. An APA report must address all items called for by the APA as well as any requests to revise or cancel the related APA.
+
+95. Reports should be detailed and should contain all necessary financial and analytical information such that the CRA can confirm the taxpayer’s compliance with the APA.
+
+96. APA reports for years during which tax returns were filed before the signature date are due 180 days after the signature date. The CRA may allow one report to address all years covered by the APA that have ended prior to the signature date of the APA.
+
+97. APA reports for years during which tax returns were filed after the APA signature date are due within 180 days of the end of the APA year.
+
+98. Where a taxpayer does not file annual APA reports within the timeframe agreed in the APA and in accordance with this circular, or does not file a report, the CRA may cancel the APA.
+
+99. Taxpayers are strongly encouraged to provide the report through the CRA’s E-services. Where this is not possible, two copies of the report should be mailed to the attention of the Director at the address noted in paragraph 130. Upon receipt of the APA report, CASD will review it for compliance with the APA and send a copy of the report to the relevant TSO. If the TSO decides to verify the taxpayer’s compliance with the APA, the audit protocols as set out in the APA will be followed.
+
+### Auditing an APA
+
+100. The taxpayer and non-resident entities must maintain books and records that allow the CRA to determine compliance with the APA. TSOs may audit compliance with APAs as part of the regular audit cycle. An audit of the taxpayer’s compliance with the APA will not re-evaluate the TPM or other terms and conditions agreed in the APA; it will usually be limited to establishing compliance with the terms and conditions of the APA and whether:
+
+1. material representations in the APA request, the related submission, and the periodic APA reports remain valid and accurately describe the taxpayer’s operations and those of the related parties for the years being audited;
+
+2. the agreed-upon TPM has been consistently applied for the years being audited in accordance with the terms and conditions of the APA;
+
+3. supporting data and calculations used in applying the agreed-upon TPM for the years being audited were correct in all material respects; and
+
+4. critical assumptions underlying the APA remain valid and relevant.
+
+101. The relevant TSO may consult with CASD on the scope and results of APA audits. After consulting with the Director, a TSO may propose adjustments to the amounts reported by the taxpayer. Proposed adjustments will not affect the validity or applicability of the APA. If the taxpayer agrees with the proposed adjustments, such adjustments will be treated as compensating adjustments required to be made subsequent to filing a tax return for an APA year.
+
+### Resolving disputes
+
+102. If a TSO determines that any matter arising from an audit has not been resolved, or if the taxpayer does not agree with any proposed adjustment, TSO officials will submit the issue to the Director. The Director has final authority and may decide to do one of the following:
+
+1. have the TSO abide by the Director’s interpretation of the terms and conditions of the APA;
+
+2. revise the APA with the taxpayer and foreign competent authority’s concurrence;
+
+3. cancel the APA; or
+
+4. revoke the APA.
+
+103. Resolution of disputes may include interpreting any term of an APA and deciding on the issues such as whether a given transaction is a covered transaction, and whether the taxpayer has retained proper records. If the taxpayer files tax returns in a manner inconsistent with the Director’s interpretation of the APA, the APA may be cancelled from a particular date or revoked. In the case of a revocation, the taxpayer may dispute the adjustments through the usual appeal process outlined in the Act.
+
+### Revising an APA
+
+104. In general, CASD will not entertain changes to an APA during the term of the agreement. However, a taxpayer’s APA may be revised if it is established that any of the following applies:
+
+1. There has been a failure to meet a critical assumption.
+
+2. There has been a change in law, including a treaty provision, that modifies the Canadian federal income tax treatment of any matter covered by the APA.
+
+3. There has been a material change in circumstances.
+
+4. The participating foreign tax authority’s equivalent domestic APA with the taxpayer under its jurisdiction is not consistent with the domestic APA or has been revised, cancelled or revoked.
+
+105. If a taxpayer believes their APA requires revision, the Director should be notified promptly. The notice should set out the reasons for the proposed revision and include supporting documentation.
+
+106. Specifically, if there is a failure to meet a critical assumption during the term of an APA, the taxpayer must notify CASD in writing promptly after the failure. The notification should describe and explain any failure to meet a critical assumption and give the reasons for the failure. The parties will discuss whether the APA should be revised and, in such case, how it should be revised in light of the changed circumstances.
+
+107. If the APA is not revised to the satisfaction of all parties, it may be cancelled by the Director. The decision to revise or cancel an APA would be made after the participants in the APA process have examined and evaluated the impact of any potential changes in critical assumptions on the APA.
+
+108. If the taxpayer and the Director agree on a revised APA, the effective date of that arrangement will be stated in the revised APA. If the taxpayer fails to sign a revised APA, the Director may cancel the APA.
+
+109. When a BAPA or multilateral APA is involved, and both the taxpayer and the CRA agree to revise the domestic APA, the CRA will submit the revised BAPA or multilateral APA to the foreign competent authorities for consideration. If the relevant competent authorities fail to conclude a revised BAPA or multilateral APA, the CRA may do one of the following:
+
+1. continue to apply the APA;
+
+2. apply the revised APA; or
+
+3. cancel the APA.
+
+### Cancelling an APA
+
+110. When the CRA cancels an APA:
+
+1. The APA will cease to be of any further force and effect as of the effective date of the cancellation.
+
+2. The effective date is generally determined to be as of the start of the taxation year that relates to the circumstances listed in paragraph 111.
+
+3. After the effective date of the cancellation, the transactions previously covered by the APA will be subject to the provisions of the Act and the tax treaties that apply.
+
+4. The CRA will give the taxpayer a written statement specifying the grounds for the cancellation.
+
+5. The CRA will inform the relevant treaty partners.
+
+111. The CRA may cancel an APA if it is established that any of the following applies:
+
+1. The taxpayer or any of their related parties made a material misrepresentation, mistake, or omission in the APA request, APA submission or related APA reports, or in providing, or failing to provide, any relevant information under this information circular.
+
+2. The taxpayer or their related parties failed to comply with any material term or condition of the APA.
+
+3. There has been a failure to meet a critical assumption.
+
+4. There has been a change in law, including a treaty provision that modifies the Canadian federal income tax treatment of any matter covered by the APA.
+
+5. A participating foreign tax authority’s APA is not consistent with the domestic APA or has been revised, cancelled, or revoked.
+
+6. There has been a failure to conclude or sign a revised unilateral APA, BAPA or multilateral APA.
+
+112. If a participating foreign tax authority cancels the APA, the taxpayer should notify the Director promptly after such action.
+
+### Revoking an APA
+
+113. When the CRA revokes an APA:
+
+1. Such revocation will be effective from the first day of the first APA year to which the APA may be applied, and the APA will be of no force and effect as though it had never been signed.
+
+2. After the effective date of the revocation, the transactions previously covered by the APA will be subject to the provisions of the Act and the tax treaties that apply.
+
+3. The CRA will give the taxpayer a written statement specifying the grounds for the revocation.
+
+4. The CRA will inform the relevant treaty partners
+
+114. The CRA may revoke an APA if it is established that any of the following applies:
+
+1. The taxpayer or their related parties made any material misrepresentation attributable to neglect, carelessness, or wilful default in the APA request, APA submission, related APA reports, , or in supplying, or failing to supply, any relevant information under this information circular.
+
+2. The taxpayer or the non-resident entities failed to comply with any material term or condition of the APA.
+
+3. The participating foreign tax authorities’ APA is not consistent with the domestic APA or has been revised, cancelled, or revoked.
+
+115. If a participating foreign tax authority revokes the APA, the taxpayer should notify the Director promptly after such action.
+
+### Renewing an APA
+
+116. Requests for renewal should be made in the final year of an existing BAPA or multilateral APA.
+
+117. The renewal of an existing BAPA or multilateral APA is generally more streamlined and less onerous than the initial process. However, any acceleration of completion timelines for the renewal of an existing BAPA or multilateral APA are dependent on the co-operation of the taxpayers, the facts and circumstances surrounding the covered transaction, and the willingness and processes of the foreign tax authorities involved.
+
+118. Requests for renewal of an APA will follow the same procedures that apply to initial APA requests, as set out beginning in paragraph 27. The CRA will advise where and when any of the procedures herein may be adjusted depending on the facts and circumstances of the renewal request. For example, in the case of many renewal requests, site visits are not required.
+
+## Part IX – Other APA requests
+
+### Request for a Unilateral APA
+
+119. As already noted in paragraph 11, the CRA prefers to enter into BAPAs or multilateral APAs in order to minimize the possibility of double taxation. However, there may be cases where a unilateral APA remains appropriate, in particular where there is a rationale for not pursuing a BAPA or multilateral APA. For example:
+
+1. a related party may be operating in a non treaty jurisdiction;
+
+2. the materiality of the covered transaction might not justify the cost of a BAPA or multilateral APA;
+
+3. a foreign competent authority might not have an APA program; or
+
+4. the taxpayer’s request to a foreign competent authority for a BAPA or multilateral APA was rejected.
+
+In addition, CASD will not agree to a rollback of a unilateral APA that would affect years for which tax returns were filed, as this may create double taxation or double non-taxation. For similar reasons, a unilateral APA will usually not cover years that ended before reaching an agreement on the terms and conditions of the unilateral APA, unless the taxpayer’s tax returns for those years were already filed in a manner consistent with the terms of the agreement.
+
+120. A request for a unilateral APA follows the stages outlined in paragraph 26, with the exception that a foreign authority is not involved and that the CRA will deal directly with the taxpayer. The CRA will prepare a draft position paper and may have a discussion with the taxpayer concerning factual accuracy before finalizing the paper. The position paper will be presented to the taxpayer for their acceptance or rejection. The CRA may vary its position based on additional discussions with the taxpayer, but will not engage in formal negotiations for purposes of reaching an agreement.
+
+121. Where a related party is in a jurisdiction which has a treaty with Canada and the unilateral APA with the CRA results in double taxation, the taxpayer may file for a MAP request. If this happens, the CRA will negotiate with the treaty partner under the MAP provisions of that treaty and will endeavour to resolve the double taxation. In order to reach a settlement, the CRA may have to amend the terms of the unilateral APA. If the taxpayer concurs with the MAP, the terms will override the terms of the unilateral APA for the taxation years included in the MAP.
+
+122. Taxpayers requesting a unilateral APA (see paragraph 119 for the criteria the CRA looks at before accepting a unilateral request) should be aware that Canada is a member of the OECD inclusive framework on BEPS and is committed to the BEPS minimum standards. Under the OECD guidelines for BEPS Action 5 on Harmful Tax Practices: Transparency Framework, member jurisdictions spontaneously exchange unilateral APAs with the other affected jurisdictions (for the disclosure of information, see Part VII).
+
+### APAs for small businesses
+
+123. CASD also administers an APA program for small businesses. The program is only for unilateral APA requests and is generally limited to requests from taxpayers with gross revenues of less than $50 million or a proposed covered transaction with a reported value of less than $10 million.
+
+124. CASD will consider all requests for a Small Business APA, provided the following two conditions for acceptance are satisfied:
+
+1. the taxpayer has, in the most recent taxation year prior to the request, gross revenues of less than $50 million or, if above that threshold, proposes that the APA cover a non-arm’s length transaction of less (or expected to be less) than $10 million in a taxation year[Footnote3](#fn3) ; and
+
+2. the taxpayer proposes to cover a non-arm’s length transaction that involves either the purchase or sale of tangible goods or the provision or receipt of routine services (the program will not address transfers of non-routine intangible property, tangible goods bundled with non-routine intangibles, or complex financial transactions).
+
+If it is determined during the APA process that:
+
+1. the taxpayer’s revenues or the dollar amount of the transaction, for the most recent taxation year prior to the request, exceeded the applicable threshold, thus failing to meet the first condition; or
+
+2. the proposed transactions are not accurately characterized as routine in nature, thus failing to meet the second condition;
+
+the CRA will not proceed further with the Small Business APA. Depending on the circumstances, the taxpayer can ask the CRA to restart the APA process following the procedures of the traditional APA program, or the taxpayer can withdraw their APA request.
+
+125. Under the Small Business APA Program, there are a number of key differences relative to the traditional APA program:
+
+1. Site visits will not take place. If the taxpayer is selected for an audit by the relevant TSO, the facts relevant to transactions covered by the Small Business APA will be verified[Footnote4](#fn4) .
+
+2. Only a functional analysis, and not an economic analysis, is required.
+
+3. The APA can cover multiple transactions of dissimilar products or services, provided that the threshold is met for each transaction, individually.
+
+4. An economic analysis based on the functional analysis provided by the taxpayer as well as responses to any supplemental questions will be performed by the CRA in order to determine an arm’s length price for the transactions based on the most reliable data available[Footnote5](#fn5) .
+
+5. The CRA will present its conclusion in draft format to the taxpayer for comment and will modify its conclusion where factual evidence warrants it. This should not be misconstrued as a negotiation process as the CRA does not negotiate APAs with taxpayers.
+
+6. There is no option for requesting a rollback; however, should any tax authority reassess a transaction covered by the Small Business APA, taxpayers will maintain any right to seek relief from double taxation pursuant to the pertinent provisions of the relevant tax convention.
+
+7. In place of the full annual report, all that will be required is an annual statement saying that the critical assumptions have been reviewed for the APA year and that they have or have not been breached.
+
+8. CASD aims to conclude a Small Business APA no later than one year after the request is received.
+
+## Part X – Conclusion
+
+126. This information circular has outlined the latest CRA policies and procedures as of this circular’s publishing date and is intended as guidance to taxpayers who want to ask for an APA with the CRA. Since these policies and procedures are subject to change, taxpayers should refer to the canada.ca website for any updates.
+
+127. Taxpayers should be aware there may be inconsistencies between this information circular and information and commitments in CRA correspondence exchanged with the taxpayer during the APA process. Where this occurs, the CRA correspondence, including the conditions letter and APA will prevail.
+
+## Part XI – Other references
+
+128. This information circular relates to certain issues addressed by the publications noted below, and complements rather than replaces the criteria, procedures, and requirements set out therein:
+
+- **Information Circular 70–6 (as revised)** – Advance Income Tax Rulings
+
+- **Information Circular 71–17 (as revised)** – Guidance On Competent Authority Assistance Under Canada’s Tax Conventions
+
+- **Income Tax Folio S1-F5-C1** – Related Persons and Dealing at Arm’s Length
+
+129. Please read this information circular in conjunction with the above-noted CRA publications, as amended from time to time.
+
+## Part XII – Further contact
+
+130. For up-to-date information on how to contact CASD, please visit the webpage for Competent Authority Services at the following link: [Competent Authority Services - Canada.ca](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/competent-authority-services.html)
+
+Once initial contact has been established, CASD officials will provide details on secure communication options to submit taxpayer-specific requests and other confidential information.
+
+Should taxpayers or their representatives prefer to use mail, please address all APA-related mail to:
+
+Director Competent Authority Services Division International and Large Business Directorate Canada Revenue Agency 344 Slater Street 18th Floor, Canada Building Ottawa, ON K1A 0L5
+
+## Appendix I
+
+### APA Submission Checklist
+
+The following checklist is only a guideline and is provided to help you organize and prepare your APA submission. Each APA submission is unique. Individual information requirements and submission format may vary from this checklist.
+
+Detailed information requirements for particular cases will be determined on a case-by-case basis during prefiling and later meetings.
+
+| **Item** | **Notes** |
+
+| --- | --- |
+
+| **I. Introduction** |  |
+
+| Taxpayer, non-resident entities, and representatives (Names, addresses, telephone numbers, relationships) |  |
+
+| Fiscal periods and business identification numbers of the taxpayer and non-resident entities |  |
+
+| Proposed term of the APA including any request for a rollback (see glossary definition) of the APA terms and conditions to non-statute-barred taxation years |  |
+
+| Proposed transactions to be covered under the APA (description of the property or services to which the proposed APA relates) |  |
+
+| Proposed TPM |  |
+
+| Proposed terms and conditions and critical assumptions for the APA |  |
+
+| Identify whether this is a request for a BAPA, multilateral APA, or unilateral APA |  |
+
+| Declaration statement |  |
+
+| History and background of the multinational enterprise |  |
+
+| General description of business and products or services |  |
+
+| Multinational structure, organizational arrangement, operational set-up, including major transaction flows |  |
+
+| Identify all other transaction flows of the multinational enterprise (volumes, directions and amounts) that may affect the pricing of the covered transactions |  |
+
+| Functional currency for each entity and the currency that is used for the proposed transactions to be covered under the APA |  |
+
+| Accounting and costing system, policies, procedures, and practices, including any significant financial and tax accounting differences that may affect the TPMs |  |
+
+| **II. Functional analysis** |  |
+
+| Detailed functional analysis of the taxpayer and all relevant entities with respect to the covered transactions, which may include, for example: |  |
+
+| Activities/Functions Research and development, manufacturing, services, marketing and distribution, general and administrative |  |
+
+| Risks Technological, product, market, credit, foreign exchange, litigation |  |
+
+| Capital employed Tangible assets, working capital, intangible assets |  |
+
+| Business strategies -- current and future Budget statements, projections and business plans for future period covered by proposed APA, general business and industry trends, future direction/business strategy including R&D, production, and marketing |  |
+
+| Financial and operating information, including corporate annual reports Financial statements (income, balance sheet, and statement of changes in financial position) on a consolidated and unconsolidated basis for the prior five years or the most recent business cycle, as appropriate (also provide interim statements for the most recent period before the date of the submission) Income tax returns and related supporting schedules for the prior three years including copies of Form T106, Information Return of Non-Arm’s Length Transactions with Non‑Residents Operating data (gross and net) segmented by product line, division, unit, and geographic region for the prior five years or the most recent business cycle, as appropriate |  |
+
+| Relevant marketing and financial studies |  |
+
+| Copies of all relevant intercompany agreements (pricing, cost sharing, licensing, distributorship etc.) |  |
+
+| **III. Industry and market analyses** |  |
+
+| Detailed industry analysis Comprehensive description of industry as well as generally accepted industrial and commercial practices Identification and general profile of competitors, including respective market shares Industry and general business statistics, financial ratios, and analyses/studies Critical success factors |  |
+
+| Detailed analysis of the markets for all countries involved |  |
+
+| Complete value chain analysis for the MNE group and relevant business lines, including: Important drivers of business profits Supply chain for the relevant products or services, showing both legal and physical flow of goods R&D activities and important intangibles Functional analysis describing the contribution to value creation at each stage Description of all entities involved in the value chain Other relevant information |  |
+
+| **IV. Transfer pricing background** |  |
+
+| Discussion of relevant legal considerations and requirements Canadian law Foreign law Income tax treaty between Canada and the foreign country |  |
+
+| Discussion of TPMs, policies, and practices used by the taxpayer and non-resident entities for the covered transactions during the past three years or business cycle, as appropriate |  |
+
+| Discussion of relevant rulings, unilateral APAs, BAPAs, multilateral APAs, and other similar arrangements entered into with foreign tax authorities, for transfer pricing or other valuation bases, or other tax matters entered into by the taxpayer (or its non-resident entities) and Canadian or foreign tax authorities |  |
+
+| Discussion of relevant Canadian income tax audit, appeals, judicial and competent authority history |  |
+
+| Discussion of unassessed taxation years (Canadian and foreign) and related outstanding tax, legal, and other pertinent issues |  |
+
+| Masterfile documentation for the MNE group in accordance with the OECD Guidelines, where it is prepared |  |
+
+| **V. TPM analysis** |  |
+
+| (Provide all information, including detailed analyses and explanations needed to establish the appropriateness of a proposed TPM, in accordance with the current version of Information Circular 87‑2, International Transfer Pricing, and the OECD Guidelines) |  |
+
+| Discussion and analysis of the most appropriate method as selected by the taxpayer, and, if applicable, discussion and analysis of alternate methods preferred by the CRA or other tax administrations |  |
+
+| Summary of selected TPMs and any secondary TPMs if used as a corroborative method |  |
+
+| **VI. Impact of proposed TPMs** |  |
+
+| Application of the proposed TPMs to the covered transactions for the three prior years' operations or the most recent business cycle, and discuss results |  |
+
+| Application of the proposed TPM to the period covered by the APA and discussion of the results |  |
+
+| Discussion and quantification of the variance |  |
+
+## Appendix II
+
+### Example of a BAPA Request Letter
+
+(on taxpayer’s letterhead)
+
+[DATE]
+
+**Private and confidential**
+
+Director Competent Authority Services Division International and Large Business Directorate Canada Revenue Agency 344 Slater Street 18th Floor, Canada Building Ottawa, ON K1A 0L5
+
+**Subject: Bilateral Advance Pricing Arrangement (BAPA) Request**
+
+Dear Sir or Madam:
+
+Further to our advance pricing arrangement (APA) prefiling meeting(s) of [date(s)], this confirms that [name of the taxpayer(s)] wants to enter into an APA with the Canada Revenue Agency (CRA) for certain transactions between [full legal name(s) of the taxpayer(s), full address(es), and Canadian business number(s)] and [full legal name(s) of the non-resident entity(ies), full address(es) and foreign tax identification number(s)]. As discussed, [name of the non-resident entity(ies)] intends to apply for an APA with [name of the foreign tax authority] as part of a BAPA with Canada.
+
+The transactions to be covered in the APA will be [describe the covered transactions]. As discussed in the meeting(s), we propose that the first APA cover a period of [number] taxation years. These are the years ending [month, day, 2xxx, 2xxx, 2xxx, 2xxx, etc.]. We also want to apply, in accordance with the memorandum TPM-11, Advance Pricing Arrangement (APA) Rollback (as revised), for a rollback for the prior taxation years ending [month, day, 2xxx, etc.]. The individual(s) authorized to represent [name of the taxpayer(s)] for this BAPA [is/are name of the person(s), firm(s)]. The CRA may provide taxpayer information relating to [name of the taxpayer(s)] to the above-named representative(s). Copies of all correspondence should be provided to [name of the individual(s) who will receive correspondence].
+
+We understand that the CRA is agreeable to sending a conditions letter to [name of the taxpayer(s)] outlining the commitments the CRA expects [name of the taxpayer(s)] to make before the CRA accepts the submission, and if accepted, commitments expected throughout the APA process.
+
+Should you have questions about our application, please contact [name of the primary contact] at [phone number].
+
+Sincerely,
+
+[name of the authorized officer of the taxpayer] Authorized officer of [name of the taxpayer]

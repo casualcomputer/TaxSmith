@@ -1,0 +1,180 @@
+---
+title: "Customs collections policies"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic13-3/customs-collections-policies.html
+last_modified: 2013-06-12
+---
+# Customs collections policies
+
+**This version is only available electronically.**
+
+## Table of contents
+
+- [Introduction](#Introduction)
+
+- [Payment obligations](#_Payment_obligations)
+
+- [Payment arrangements](#_Payment_arrangements)
+
+- [Interest and penalty provisions](#_Interest_and_penalty)
+
+- [Legal action to collect](#_Legal_action_to)
+
+- [Collection restrictions](#_Collection_restrictions)
+
+- [Detention of and lien on imported or exported goods (Section 97.25 CA)](#_Detention_of_and)
+
+- [Objections and appeals](#_Objections_and_appeals)
+
+- [Special collection provisions](#_Special_collection_provisions)>
+
+- [Collection in jeopardy](#_Collection_in_jeopardy)
+
+- [Property transfers](#_Property_transfers)
+
+- [Amounts owing by estates of deceased persons](#_Amounts_owing_by)
+
+- [Confidentiality](#_Confidentiality)
+
+- [Our service commitment](#_Our_service_commitment)
+
+- [Comments](#_Comments)
+
+## Introduction
+
+This information circular gives you a general overview of the Customs collections policies of the Canada Revenue Agency (CRA) for individuals, businesses, and organizations that owe money to the Crown relative to goods imported into Canada. It will help you understand your rights and responsibilities when you deal with us.
+
+In this circular, we use the term ‘debt’ when referring to any duties, fee, charge, penalty, interest or any other amount owing under the [Customs Act](http://laws-lois.justice.gc.ca/eng/acts/C-52.6/FullText.html) (CA).
+
+[Canada Border Services Agency](http://www.cbsa.gc.ca/menu-eng.html) (CBSA) is responsible for establishing the debt and issuing statements of account for their programs and policies. The CRA is only responsible for the collection activities of accounts placed into default status by CBSA.
+
+The CRA has an obligation to uniformly and fairly apply the provisions of the acts and regulations that we administer. Our collection policies and procedures are designed to allow us to consider each person’s financial and personal situation. We also have to ensure that all persons pay the required amount of taxes, duties, fees, penalties, and other amounts that are owed to the Crown.
+
+We modify our collections policies periodically as legislation and requirements change. We make every effort to provide updates in a timely manner. However, if a discrepancy arises between this information circular and current legislation, the legislation takes precedence.
+
+If you have questions about policies that are not covered in this circular, or if you would like confirmation of specific aspects of the policies covered in this circular, or if you simply need more information, please [contact the Revenue Collections Division](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html) of your tax services office.
+
+In this circular, we use the term “person”, when referring to the collection of accounts administered on behalf of Canada Border Services Agency (CBSA), to include (as applicable):
+
+- importers/exporters;
+
+- travellers;
+
+- Customs brokers;
+
+- licencees;
+
+- carriers; and
+
+- as included in other CBSA Programs.
+
+## Payment obligations
+
+Any debt you owe is payable in full immediately on the day the notice is received or served on the person. These amounts may be owing under the [Customs Act](http://laws-lois.justice.gc.ca/eng/acts/C-52.6/FullText.html), [Customs Tariff](http://laws-lois.justice.gc.ca/eng/acts/C-54.011/), [Excise Tax Act](http://laws-lois.justice.gc.ca/eng/acts/E-14.1/page-1.html#s-2.), [Special Import Measures Act](http://laws-lois.justice.gc.ca/eng/acts/S-15/index.html), and/or related regulations. If you do not pay the outstanding debt or contact us to discuss payment of your debt, we may take [legal action to collect](#_Legal_action_to) the unpaid amount.
+
+We charge interest on any amount owing until the balance is paid in full.
+
+## Payment arrangements
+
+If you cannot pay the total amount or the minimum payment owing on your notice or statement of account immediately, please [contact the Revenue Collections Division](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html) of your tax services office or call the number on your notice of debt/statement of account to discuss your options. We will consider mutually satisfactory payment arrangements, based on your ability to pay. We will consider this when you have tried all reasonable ways of getting the necessary funds, either by borrowing or rearranging your financial affairs, and you still cannot pay the balance in full.
+
+To help us determine your ability to pay, you will have to make full disclosure and give evidence of your income, expenses, assets, and liabilities either by telephone or by completing a financial questionnaire supplied to you by a collections officer. This information will be verified before we accept an arrangement.
+
+If you do not agree with the decision of a collections officer, you have the right to discuss the matter with the officer’s supervisor. The collections officer will provide you with the name and telephone number of the supervisor on request.
+
+If you cannot make a payment on your debt due to circumstances beyond your control, we may allow you to postpone payment until your financial situation improves. During that time, any interest that applies will continue to accrue on the debt.
+
+However, if your debt remains unpaid with no mutually acceptable payment arrangement, we may take [legal action to collect](#_Legal_action_to) the outstanding debt.
+
+## Interest and penalty provisions
+
+One of the purposes of the interest and penalty provisions is to ensure that a debtor is not put into undue financial hardship as a result of the recovery of a Customs debt. It may be appropriate to waive or cancel all or part of interest where there is an inability to pay beyond the control of a debtor.
+
+It is the responsibility of the debtor to [contact the CRA](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html) if making a payment arrangement will cause undue financial difficulty. Each case will be reviewed on its own merit. We will make every effort to deal with debtors fairly.
+
+Hardship is determined on the basis of the financial ability of the debtor to pay the debt. We will take into consideration any personal information that the debtor presents that may affect this ability. Depending on the ability to pay of the debtor, appropriate recovery action may include renegotiation of a payment arrangement, suspension of collection action, and/or any other suitable measures.
+
+For any other purpose of the interest and penalty provisions, please contact your nearest [CBSA office](http://www.cbsa-asfc.gc.ca/do-rb/menu-eng.html).
+
+## Legal action to collect
+
+If you do not pay an amount voluntarily, we may take legal action to:
+
+- garnishee wages, other income sources and/or bank accounts;
+
+- seize and sell assets; or
+
+- use any other means under any applicable statutes or laws to collect an amount owing.
+
+Garnishment action allows us to intercept funds payable to you by a third party, such as wages, bank accounts, or other income sources.
+
+If any other federal government department owes you money, we can issue a Statutory Set-Off to that department to have all or part of that money sent to us. We will then apply this amount against your outstanding balance. We will notify you by mail of garnishment or set-off actions.
+
+The [Customs Act](http://laws-lois.justice.gc.ca/eng/acts/C-52.6/FullText.html) provides for the registration of a certificate in the [Federal Court of Canada](http://cas-ncr-nter03.cas-satj.gc.ca/portal/page/portal/fc_cf_en/Index) for unpaid amounts. Once registered, the certificate has the same force and effect as a judgment obtained in the Federal Court. When the debt is certified, we will usually notify you by mail. If you still do not pay the amount, we may obtain a writ or memorial and seize assets and/or property, and have it advertised and sold.
+
+You have to pay all reasonable costs and charges incurred to collect the amount certified, and are still liable for any remaining balance. All proceeds from the sale remaining after costs and charges are paid will be applied to the debt.
+
+Once we undertake set-offs, garnishments, or other legal proceedings, we will not usually withdraw them until the account is paid in full, or it can be shown that the set-off and/or garnishment actions are causing undue hardship.
+
+## Collection restrictions
+
+If a person is liable for the payment of an amount under the [Customs Act](http://laws-lois.justice.gc.ca/eng/acts/C-52.6/FullText.html), we will not take any of the following actions under the [Customs Act](http://laws-lois.justice.gc.ca/eng/acts/C-52.6/FullText.html) until the ninety-first day after the day the notice is given to the debtor:
+
+- Commence legal proceedings in court
+
+- Certify the amount under section 97.24
+
+- Require the retention of the amount by way of deduction or set-off under section 97.26
+
+- Require a person or institution to make a payment under section 97.28
+
+- Require a person to turn over moneys under subsection 97.31(1)
+
+- Give a notice, issue a certificate or make a direction under subsection 97.32(1)
+
+If a person has appealed a decision of the Minister to the Federal Court under section 97.23 or 135 of the [Customs Act](http://laws-lois.justice.gc.ca/eng/acts/C-52.6/FullText.html), the Minister must not take any action described above to collect the amount in controversy before the date of the decision of the Court or the day on which the person discontinues the appeal.
+
+## Detention of and lien on imported or exported goods (Section 97.25 CA)
+
+We may suspend your importation privileges as well as take lien action against goods imported by or reported for exportation by the person. The goods may be detained and sold to satisfy the amount demanded in the notice. We will continue to detain and sell imported and exported goods or continue other collection proceeding against you until the amount owing to the Crown is paid in full, unless other acceptable payment arrangements are made to suspend these actions.
+
+This action is excluded from the restrictions outlined in the [Collection restrictions](#_Collection_restrictions) section of this circular.
+
+## Objections and appeals
+
+If you disagree with the notice, or if you do not understand it, you must contact or write to the person indicated on the notice or to your nearest [CBSA office](http://www.cbsa-asfc.gc.ca/do-rb/menu-eng.html) to discuss the matter. The CRA is only responsible for the collection of debts owed to CBSA programs. Any enquiry relating to notices of determination, assessments, re-determinations, adjustments, invoices, and payments must be addressed to CBSA.
+
+## Special collection provisions
+
+It is our policy to approach compliance consistently and responsibly. There are cases when we must use the enforcement provisions of the [Customs Act](http://laws-lois.justice.gc.ca/eng/acts/C-52.6/FullText.html) because our ability to collect has been, or is likely to be, defeated by the transfer, sale, loss, relocation,or other disposition of a person’s assets.
+
+## Collection in jeopardy
+
+When we have reasonable grounds to believe that the collection of all or part of an amount we have assessed would be jeopardized if there was a delay in collecting it, we can take action. Under the [Customs Act](http://laws-lois.justice.gc.ca/eng/acts/C-52.6/FullText.html), a judge of a superior court of a province or of the [Federal Court of Canada](http://cas-ncr-nter03.cas-satj.gc.ca/portal/page/portal/fc_cf_en/Index) can authorize us to take collection action immediately. When we are granted such an authorization, you have the right to apply to a court for a judicial review.
+
+If we believe that you have left or are about to leave Canada, we can require you to immediately pay all amounts owed, whether or not they are due at the time. If you do not make the payment, we can seize your goods and assets.
+
+## Property transfers
+
+If you owe an amount for a Customs transaction for a period in which you transferred property, or previous periods, section 97.29 of the [Customs Act](http://laws-lois.justice.gc.ca/eng/acts/C-52.6/FullText.html) applies. If you transfer property to a spouse or a person who has since become your spouse, a person under 18 years of age, or a person with whom you were not dealing at arm’s length, that person becomes liable for the lesser of the amount you owe, or the excess of the fair market value of the property over the consideration given for the property.
+
+These rules do not apply to a transfer of property between you and your spouse under a decree, order, or judgment of a competent tribunal, or under a written separation agreement where, at the time of transfer, you and your spouse were separated and living apart as a result of the breakdown of your marriage (including a common-law relationship).
+
+## Amounts owing by estates of deceased persons
+
+If the estate of a deceased person has amounts payable or remittable, we will contact the executor, administrator, or other legal representative of the estate and ask for payment of the outstanding amounts.
+
+## Confidentiality
+
+To preserve the right to confidentiality, we will only release your confidential information to your authorized representatives, or as the law authorizes us. It is our policy to confirm the identity and authorization of all parties concerned before we release confidential information. However, if it is necessary for us to take legal action, the legal documents will contain certain aspects of a person’s debt, such as the amount and type of debt owed.
+
+## Our service commitment
+
+The CRA is committed to respecting your rights and will serve you with a high degree of accuracy, professionalism, courteousness, and fairness. In your dealings and interactions with us, you can expect to be treated fairly under clear and established rules, and you can look forward to a high standard of service.
+
+If you are not satisfied with the service you receive from us, you can file a complaint with the [Make a service complaint](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/make-a-service-complaint.html) page and we will provide you with an explanation of our findings.
+
+## Comments
+
+If you have any comments about this circular please write to us at:
+
+Canada Revenue Agency Taxpayer Services and Debt Management Branch Collections Directorate 395 Terminal Avenue, 6th floor Ottawa, ON K1A 0L5

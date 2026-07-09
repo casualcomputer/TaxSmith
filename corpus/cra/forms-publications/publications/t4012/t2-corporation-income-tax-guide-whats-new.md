@@ -1,0 +1,168 @@
+---
+title: "T2 Corporation – Income Tax Guide – What's New"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-whats-new.html
+last_modified: 2026-05-28
+---
+# T2 Corporation – Income Tax Guide – What's New
+
+## Find out if this guide is for you
+
+This guide gives you basic information on how to complete the [T2 Corporation Income Tax Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2.html). This return is used to calculate federal income tax and credits. Corporations that have a permanent establishment in any province or territory other than Quebec or Alberta also use this return to report provincial and/or territorial income taxes and credits. Corporations with a permanent establishment in Quebec or Alberta must file a separate provincial return.
+
+## What's new
+
+### Federal, provincial, and territorial budgets for 2025
+
+New items in this guide are outlined in boxes. These include changes introduced in the 2025 federal, provincial, or territorial budgets. This guide may contain changes that had not yet become law at the time of publishing.
+
+### Accelerated capital cost allowance (CCA) for liquefied natural gas (LNG) facilities
+
+The Government has announced that the accelerated CCA will be reinstated for eligible LNG equipment and related buildings acquired after November 3, 2025, and before 2035. To be eligible, new emission performance requirements will have to be met.
+
+### Canada carbon rebate for small businesses
+
+The Canada carbon rebate for small businesses was eliminated. A portion of fuel charge proceeds for the 2019-2020 through 2023-2024 fuel charge years has been returned to the majority of eligible Canadian-controlled private corporations. Proceeds for the 2024-2025 fuel charge year will be returned in a similar manner. This will be the final payment. See the details about the [Canada carbon rebate for small businesses](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/business-tax-credits/canada-carbon-rebate-small-businesses.html).
+
+### Enhanced first-year CCA for manufacturing and processing buildings
+
+Under proposed changes, temporary enhanced first-year CCA is introduced for the cost of eligible manufacturing or processing (M&P) buildings, including the cost of eligible additions or alterations made to such buildings. A 100% deduction will be allowed in the first tax year that eligible property is used for M&P, if at least 90% of the floor space is used for eligible purposes to manufacture or process goods for sale or lease.
+
+The enhanced rate applies only for the tax year in which the eligible property is first used for manufacturing and processing. This measure would apply to eligible property that is acquired after November 3, 2025. The rate is subject to the following phase‑out:
+
+- 100% for tax years ending before 2030
+
+- 75% for tax years ending in 2030 or 2031
+
+- 55% for tax years ending in 2032 or 2033
+
+- 0% for tax years ending after 2033
+
+### Investment income of a foreign affiliate derived from assets supporting Canadian insurance risks
+
+Under proposed changes, the foreign accrual property income (FAPI) rules will be amended to clarify that investment income derived from assets held by a foreign affiliate of a corporation to back Canadian risks as part of a group integrated insurance business is included in the foreign affiliate's FAPI, regardless of which entity in the group is considered to carry the insurance business. This would apply to tax years that begin after November 4, 2025.
+
+### Restricting Part IV tax deferral
+
+Under proposed changes, for tax years starting after November 3, 2025, the deferral of Part IV tax on investment income will be limited when it comes from the use of tiered affiliated corporation structures with mismatched year‑ends.
+
+### Transfer pricing
+
+Section 247 of the ITA will be amended to better align with the Organisation for Economic Co‑operation and Development (OECD) Transfer Pricing Guidelines, and will require accurate delineation of transactions, including analysis of the economically relevant characteristics. The proposed measures also include:
+
+- increasing the threshold for the transfer pricing penalty from a $5 million to a $10 million transfer pricing adjustment
+
+- clarifying and simplifying the documentation requirements
+
+- reducing the time to provide the documentation from 3 months to 30 days
+
+These measures apply to tax years starting after November 4, 2025.
+
+### Voluntary Disclosures Program
+
+Effective October 1, 2025, changes were made to the Voluntary Disclosures Program to make it easier to apply to the program and understand it. See the [details](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html).
+
+### Integration and foreign accrual business income
+
+Foreign accrual business income (FABI) is a new elective relieving regime that complements foreign accrual property income (FAPI) by taxing certain foreign affiliate income like Canadian active business income. It also provides relief in respect of distribution made by a foreign affiliate out of its FABI surplus. FABI rules apply to tax years that begin after 2025, but also apply to preceding tax years if an election is filed under 93.4(4) or (5). See the [details](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html).
+
+### Accelerated investment incentive and reaccelerated investment incentive
+
+The accelerated investment incentive is available for qualifying property acquired before January 1, 2025, and that becomes available for use before 2028. The reaccelerated investment incentive (RII) is available for qualifying property acquired on or after January 1, 2025, and that becomes available for use before 2034. The RII generally has a four-year phase out for property that becomes available for use after 2029.
+
+See [Accelerated investment incentive property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html) and [Reaccelerated investment incentive property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html).
+
+### Eligible activities for Canadian exploration expense
+
+Under proposed clarifying changes, expenses incurred to determine the quality of a mineral resource in Canada will not include expenses related to determining the economic viability or engineering feasibility of the mineral resource. A similar clarifying change is proposed for certain expenses relating to accumulations of petroleum and natural gas. See the [details](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html).
+
+### Agricultural cooperatives: patronage dividends paid in shares
+
+The temporary deferral of income taxes and withholding obligations, which was set to expire at the end of 2025, will continue to apply to eligible shares issued before 2031. See the [details](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html).
+
+### Scientific research and experimental development
+
+The expenditure limit on which the SR&ED enhanced 35% tax credit can be earned is increased from $3 million to $6 million. See the [details](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html).
+
+### Carbon capture, utilization, and storage investment tax credit (CCUS ITC)
+
+The full CCUS ITC rates (60%, 50%, and 37.5%) are extended by five years so that they apply from 2022 to 2035. The lower rates (30%, 25%, and 18.75%) will apply to eligible expenditures incurred from the start of 2036 to the end of 2040. See page the [details](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+### Clean technology manufacturing ITC
+
+The list of qualifying materials eligible for the clean technology manufacturing ITC has been expanded to include antimony, indium, gallium, germanium and scandium. This applies to property that is acquired and becomes available for use after November 3, 2025. See the [details](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+### Return of fuel charge proceeds to farmers tax credit
+
+The return of fuel charge proceeds to farmers tax credit is being eliminated. The 2024 calendar year is the final year for which the credit is available. See the [details](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+### Newfoundland and Labrador all-spend film and video production tax credit
+
+Effective February 28, 2025, the maximum credit amount was increased from $10 million to $20 million. See [Newfoundland and Labrador all-spend film and video production tax credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html). .
+
+### Prince Edward Island higher rate of tax and small business limit
+
+Effective July 1, 2025, the higher rate of Prince Edward Island corporation income tax was decreased from 16% to 15% and the small business limit was increased from $500,000 to $600,000. See [Prince Edward Island](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+### Nova Scotia lower rate of tax and small business limit
+
+Effective April 1, 2025, the lower rate of Nova Scotia corporation income tax was decreased from 2.5% to 1.5% and the small business limit was increased from $500,000 to $700,000. See [Nova Scotia](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+### Ontario made manufacturing investment tax credit
+
+For eligible investments made after May 14, 2025, and before 2030, the credit rate has increased from 10% to 15%, for a maximum credit of $3 million a tax year. Qualification has expanded to taxable Canadian corporations other than Canadian-controlled private corporations for a non-refundable tax credit. Repayment of the credit could be required in some circumstances. Expenditures incurred in the tax year or any preceding tax year are allowed for buildings. Expenditures incurred in the tax year or the immediately preceding tax year are allowed for machinery and equipment. This applies retroactively to expenditures incurred on or after March 23, 2023. See [Ontario made manufacturing investment tax credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+### Ontario shortline railway investment tax credit
+
+Qualifying corporations are entitled to a temporary new refundable tax credit for eligible expenditures directly related to railway track maintenance, repair, or improvement incurred after May 14, 2025, and before 2030. See [Ontario shortline railway investment tax credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+### Manitoba manufacturing investment tax credit
+
+Effective July 1, 2026, a part of the manufacturing investment tax credit will be converted into an immediate retail sales tax exemption at the time of purchase for certain machinery and equipment. This change will remove the 7% refundable part of the credit for the cost of machinery and equipment that will be exempt from retail sales tax. The 1% non-refundable part of the credit will be retained. Any manufacturing and processing assets that are not eligible for the retail sales tax exemption, including buildings, will still be eligible for the 7% refundable and 1% non‑refundable credit. See [Manitoba manufacturing investment tax credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+### Manitoba cultural industries printing tax credit
+
+The credit, which was set to end December 31, 2024, has been made permanent. This is deemed to have come into force retroactively on January 1, 2025. See [Manitoba cultural industries printing tax credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+### British Columbia scientific research and experimental development tax credit
+
+British Columbia will align with proposed federal changes to increase the expenditure limit and the phase-out thresholds, reinstate the capital expenditure for the credit, and expand the refundable tax credit to eligible Canadian public corporations. See [British Columbia scientific research and experimental development tax credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+### British Columbia film and television tax credit
+
+The basic tax credit has increased from 35% to 40% for productions that begin principal photography after December 31, 2024. Animated productions that begin key animation after this date are eligible for the existing regional and distant location regional tax credits if the corporation has a physical office:
+
+- in BC outside the designated Vancouver area or in a distant location, and
+
+- where BC-based individuals spent at least 50% of their time rendering services.
+
+See [British Columbia film and television tax credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+### British Columbia production services tax credit
+
+The basic production services tax credit has increased from 28% to 36% for productions that begin principal photography after December 31, 2024. Animated productions that begin key animation after this date are eligible for the existing regional production services and distant location production services tax credits if the corporation has a physical office:
+
+- in BC outside the designated Vancouver area or in a distant location, and
+
+- where BC-based individuals spent at least 50% of their time rendering services
+
+See [British Columbia production services tax credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+#### British Columbia major production tax credit
+
+A new major production tax credit was announced for completed productions with BC production costs greater than $200 million for a major production. The credit is equal to 2% of the production's accredited qualified BC labour expenditures and may be claimed once the production is completed. The credit is available for productions that begin principal photography after December 31, 2024. See [British Columbia major production tax credit](https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/t4012/guide-t2-declaration-revenus-societes-chapitre-8-page-9-declaration-t2.html) .
+
+### British Columbia interactive digital media tax credit
+
+The credit rate was increased from 17.5% to 25% for eligible salary and wages (net of designated assistance) incurred after August 31, 2025. The credit, which was set to end August 31, 2028, has been made permanent. See [British Columbia interactive digital media tax credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+### British Columbia clean buildings tax credit
+
+The period to incur qualifying expenditures for the clean buildings tax credit, which was set to end March 31, 2025, has been extended one year to March 31, 2026. See [British Columbia clean buildings tax credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+### Yukon business carbon price rebate
+
+The Yukon business carbon price rebate no longer applies to tax years ending after March 31, 2025. See [Yukon business carbon price rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+- [Table of contents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide.html)
+
+- [Next page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)

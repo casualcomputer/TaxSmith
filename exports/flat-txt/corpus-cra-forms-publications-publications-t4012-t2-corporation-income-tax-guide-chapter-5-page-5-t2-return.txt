@@ -1,0 +1,47 @@
+Title: T2 Corporation – Income Tax Guide – Chapter 5: Page 5 of the T2 return
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-5-page-5-t2-return.html
+Corpus path: corpus/cra/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-5-page-5-t2-return.md
+Document type: publication
+Last modified: 2026-05-28
+
+# T2 Corporation – Income Tax Guide – Chapter 5: Page 5 of the T2 return
+
+## General tax reduction
+
+A general tax reduction of 13% is available on qualifying income.
+
+Corporations benefit from the general tax reduction only on taxable income that is subject to a rate of 38%.
+
+The reduction does not apply to income that benefits from preferential corporate tax treatment, such as:
+
+- income eligible for the small business deduction and Canadian manufacturing and processing profits
+
+- income eligible for the deduction for the generation of electrical energy for sale or the production of steam for sale
+
+- investment income subject to the refundable tax provisions
+
+The reduction also does not apply to income earned from a personal services business or to a corporation that was, throughout the year, an investment corporation, a mortgage investment corporation, or a mutual fund corporation.
+
+**Reference** Subsection 123.4(1)
+
+### General tax reduction for Canadian-controlled private corporations (CCPCs)
+
+If you are a CCPC throughout the tax year, complete this area of page 5 to calculate the reduction. Enter the resulting amount on line 638 on page 8.
+
+If you are a corporation that is, throughout the year, a cooperative corporation (within the meaning assigned by subsection 136(2)) or a credit union, enter zero at amount F.
+
+**Reference** Subsection 123.4(2)
+
+### General tax reduction
+
+Do not complete this area if you are a CCPC, an investment corporation, a mortgage investment corporation, a mutual fund corporation, or a corporation that has income not subject to the corporation tax rate of 38%.
+
+All other corporations complete this area of page 5 to calculate the reduction. Enter the general tax reduction on line 639 on page 8.
+
+**Reference** Subsection 123.4(2)
+
+- [Previous page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-4-page-4-t2-return.html)
+
+- [Table of contents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide.html)
+
+- [Next page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-6-pages-6-7-t2-return.html)

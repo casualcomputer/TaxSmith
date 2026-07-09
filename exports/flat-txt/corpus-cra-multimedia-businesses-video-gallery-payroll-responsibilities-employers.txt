@@ -1,0 +1,167 @@
+Title: Payroll Responsibilities for Employers
+Source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/businesses-video-gallery/payroll-responsibilities-employers.html
+Corpus path: corpus/cra/multimedia/businesses-video-gallery/payroll-responsibilities-employers.md
+Document type: video_transcript
+Last modified: 2025-12-09
+
+# Payroll Responsibilities for Employers
+
+## Transcript
+Hello, I'm Jackie, your host for today.
+Let's begin by acknowledging that the land on which I am located is the traditional, unceded territory of the Algonquin Anishinaabeg People. The Algonquin peoples have lived on this land since time immemorial. We are grateful to have the opportunity to be present in this territory. Given that we are meeting virtually, I also want to acknowledge the lands on which you are gathered from coast to coast, and invite you to take a moment to acknowledge the territory in which you find yourself.
+Welcome to Payroll Responsibilities for Employers.
+For today, please click on the question icon in the tool bar at the top of the screen to ask a question related to Payroll Responsibilities for Employers. We'll answer as many as we can during the webinar. For any other tax related questions, call the business inquiries line 1-800-959-5525.
+Let's get started.
+If you manage a payroll, directly or indirectly, this webinar will present your payroll responsibilities for the CRA.
+Today, we'll talk about:
+- Payroll obligations to CRA
+- Deductions and contributions
+- Tools for calculating types of pay
+- and withholdings
+- Books and Records
+- Remitting
+- Reporting
+As an employer, you need to withhold amounts from pay, and remit, and report these source deductions to the CRA. Source deductions include:
+- CPP contributions
+- additional CPP contributions (CPP2).
+- EI premiums,
+- and income tax from an employee's taxable, pensionable, and insurable income.
+An eligible person who is not a Canadian citizen or a permanent resident of Canada, and who applies for a Social Insurance Number, will get one beginning with the number 9. When you as the employer hire someone whom you know is not a Canadian citizen or permanent resident, you are required to confirm all the following:
+- The person's Social Insurance Number begins with 9
+- The Social Insurance Number has not expired
+- The person has a valid work permit issued by Immigration,Refugees and Citizenship Canada
+You must see the employee's existing immigration document authorizing them to work in Canada and you are responsible for verifying that it has not expired. The work permit itself is the only reliable source of information to determine whether a foreign national is working in an employment designated under the terms of that permit. Employers are required to retain all documents related to the foreign worker for up to 6 years, beginning on the first day of the period of employment for which the work permit is issued.
+The facts of the working relationship as a whole decide employment status. It is important to decide whether a worker is an employee or a self-employed individual. Employment status directly affects a person's entitlement to employment insurance benefits under the Employment Insurance Act. It can also have an impact on how a worker is treated under other legislation such as the Canada Pension Plan and the Income Tax Act.
+Salaries and wages are generally the bulk of an employee's regular income. Employers pay employees regular payments for their work. An employee can receive other forms of income, most notably taxable benefits and allowances.
+A taxable benefit generally arises when an employer pays for, or gives an employee something personal in nature such as a good or service. An example: You'll give your employee free use of property that you own, such as a parking space. A benefit is taxable generally when an employee receives an economic advantage that can be measured in money.
+An allowance or a reimbursement you give an employee for a personal expense is also taxable. An allowance or an advance is any periodic or lump sum amount paid to an employee on top of salary or wages to help pay for anticipated expenses, so they don't have to pay for them out of pocket. An allowance or advance is:
+- usually a predetermined amount chosen without using the actual cost
+- used however the employee chooses.
+The employee doesn't provide receipts. Benefits may be paid in cash, such as a meal allowance, or provided as non-cash items or services, such as a parking spot. The value of any benefits or allowances you provide to an employee must generally be included in their employment income. CPP, CPP2, EI, and income tax will usually have to be deducted from these additional amounts.
+Payroll responsibilities begin the moment you remunerate, that is, as soon as you pay amounts or provide a benefit to an employee. As an employer, you must correctly calculate each employee's total income, including salary, wages, taxable benefits, allowances, and other remuneration. Then, you will have to determine the amounts that must be withheld from that pay, including Canada Pension Plan contributions, Additional Canada Pension Plan contributions (CPP2) Employment Insurance Premiums and income tax.
+Whenever you withhold amounts from an employee, you must remit those amounts, including the employer's share of CPP and EI, to the CRA. These payments are due by a certain date that is specific to each employer.
+All employees, aged 18 to 69 years, who receive pensionable earnings must contribute to the CPP withholdings on the salary and wages. Pensionable earnings include a person's income from pensionable employment, employment for which a pension plan or fund has been set up. The CPP is a mandatory plan.
+There are three different contribution rates. For earnings up to the year's maximum pensionable earnings:
+- The base CPP contribution.
+- The first additional CPP contribution
+For earnings above the year's maximum pensionable earnings and up to the year's additional maximum pensionable earnings:
+- The second additional CPP contribution
+Employees who receive insurable earnings must contribute to EI.
+Insurable earnings are the total amount of earnings that a person has from all insurable employment, that is paid in cash; by the person's employer; and received and enjoyed by the person in respect of that employment.
+Unlike the CPP, there is no basic exemption and no age limit for EI premiums, so withholdings start on the first dollar of insurable earnings. Employers have to withhold the employee's EI premiums up to the maximum annual employee premium.
+EI is mandatory in all provinces and territories. However, if you are a Quebec employer and employees contribute to the Quebec Parental Insurance Plan, you will deduct EI premiums at a lower rate.
+Note that non-cash taxable benefits are not subject to EI premiums. The only exception to this is board and lodging benefits when an employee also receives cash earnings in the same pay period.
+Each employer must deduct EI premiums based on the employee's earnings. If an employee has a second job with a different employer, the EI deducted by the other employer doesn't affect what you must deduct.
+As an employer, you are responsible for deducting income tax from your employee's taxable income. The taxable income includes regular pay as well as taxable benefits and allowances you may provide to your employees.
+There is no age limit for deducting income tax, no basic exemption, no employer contribution, and no maximum.
+An employer must determine an employee's taxable income to calculate the income tax to deduct. Then, the employer must deduct income tax as a percentage corresponding to the employee's taxable income. The amount to be deducted depends on provincial, territorial
+and federal tax rates, as well as the claim code on an employee's TD1, Personal Tax Credits Return.
+Employees may claim tax credits on their income tax return. This reduces their taxable income. The TD1 form advises employers as to the tax credits an employee will claim. Employers can then adjust an employee's tax withholdings accordingly.
+You must deduct tax according to the claim code that corresponds with the total personal amount the employee claims on the TD1.
+Keep in mind that the personal tax credits can only be claimed once. So, if an employee has more than one employer, they should fill out a TD1 for each employer, but only claim the personal tax credit amounts on one of those forms. On the TD1, they will check the box on page two “more than one employer or payer at the same time” and enter claim code “0” on the front page.
+If your employee doesn't give you a TD1, you should use claim called 1. This means you'll calculate their pay, while only considering the basic personal amount.
+You should review forms to try to ensure they do not contain any obviously false or deceptive information. If you think that the TD1 has false information, you must deduct taxes after allowing the basic personal amount only.
+Use the Payroll Deductions Online Calculator to easily calculate federal, provincial, except for Quebec, and territorial payroll deductions.
+It calculates payroll deductions for the most common pay periods, such as weekly or biweekly, based on exact salary figures.
+The calculator will confirm the source deductions/withholdings you must include in the employee's official statement of earnings.
+Read the first page.
+You assume the risks associated with using this calculator. The reliability of the calculations produced depends on the accuracy of the information you provide.
+Review all risks.
+Click on I accept - Use the calculator at the bottom of the page.
+The following options are available on the Payroll Deductions Online Calculator landing page:
+- Salary
+- Commission
+- Pension
+- Verify CPP contributions and EI premiums
+Note: You can only do one type of calculation at a time.
+The “Salary” icon is selected by default.
+Select the “Next” button to start a new payroll deductions calculation.
+You will be directed to Step 1 of the salary calculation.
+Enter the employee's name and/or the employer's name. Select the province or territory of employment, normally where your business is located or where the employee reports for work.
+Select the pay period frequency. If you pay them on a bi-weekly basis, then choose bi-weekly
+(26 pay periods a year). This will help estimate the annual income of the employee for calculation purposes.
+Select the date the employee is paid.
+Enter the gross salary or wages income for the pay period. This is a required field. Enter the vacation pay amount for the pay period, if applicable.
+Of the following options, select the one that applies:
+- A bonus payment
+- A retroactive payment
+- No bonus or retroactive payment
+Select all other taxable income and benefits and/or other deductions that apply to this pay period.
+The options available are:
+- Taxable benefits and allowances
+- Tax deductions, tax reductions and non-refundable tax credit amounts
+Apply personal credits by using the total claim amount from the TD1 forms or the claim codes option.
+For CPP, select one of the following options:
+- CPP/QPP and second additional CPP/QPP maximum annual contributions have been reached
+- CPP/QPP exempt
+- Year-to-date amount from your records
+For EI, select only one of the following options:
+- EI maximum annual premium has been reached
+- EI exempt
+- Year-to-date amount
+Select “Calculate” to proceed to the Employer and Employee Result pages.
+The results for “Employee Deductions” and “Employer Remittances Summary” are displayed on two separate screens based on the information that you entered.
+Employee payroll deductions result is calculated based on the data you entered. Some items, such as vacation pay, will be displayed only if an entry was made.
+The Employer Remittance Summary provides the combined CPP/QPP contributions, CPP2/QPP2 EI premiums, and federal and provincial/territorial tax deductions for remittance.
+Lastly, remember that you must keep your books and records for at least 6 years from the end of the year they relate to.
+Books and records can include:
+- an account
+- an agreement
+- a book
+- a chart or table
+- a diagram
+- a form
+- and any other thing
+- containing information,
+- whether written or in any other form
+- receipts (original or copies)
+- your employees’ identification documents
+- such as their driver's
+- license and Social Insurance Number
+- hours each employee worked
+- amounts withheld from each employee
+- Form TD1,
+- Personal Tax Credits Return
+- information slips issued (for example, T4 slips) and returns filed
+In short, if you have created or received a document that relates to your business’ activities or financial transaction, it is a record for the purposes of the Income Tax Act.
+You have a few payment/remittance options.
+You can pay using “My Account” for individuals or “My Business Account” for businesses at Canada.ca.
+You can also pay through internet banking with your financial institution. If you pay this way, you may have to check to see how the CRA is listed as a payee.
+There are certain specific ways to remit for certain employers. For example, an accelerated threshold 2 remitter has to make payment at a Canadian financial institution. You are a threshold 2 accelerated remitter if you had an average monthly withholding amount of $100,000 or more in the last two calendar years.
+If you are not an accelerated threshold 2 remitter, you may choose to remit by mail. If you do, make your cheque payable to the Receiver General and mail it and your remittance voucher to the Sudbury Tax Center.
+A remittance voucher is a slip that provides the CRA specific account information and must accompany your payments. If you don't have a remittance voucher, include the following information:
+- Your payroll program account number
+- That you're a new remittance
+- if applicable
+- Your business's complete legal name, address, and telephone number
+- The period your remittance covers.
+- If it covers more than one period, provide a detailed breakdown
+- Or that you didn't receive a remittance voucher if applicable
+Employers hold funds withheld from employees in trust for the Receiver General of Canada. In other words, those funds do not belong to employers and therefore must be kept separate from operating funds.
+At the end of every calendar year, you have to total what you paid, deducted, and remitted during that year for each employee. These amounts are usually reported on a T4 slip.
+A T4 slip - Statement of Remuneration Paid reports an employee's taxable, pensionable, and insurable income including any taxable benefits and allowances as well as withholdings from that employee's remuneration for CPP contributions, additional CPP contributions EI premiums, and income tax.
+Certain types of income, such as pension income issued by employers, may require a T4A slip.
+You have to fill out a T4 slip for each of your employees.
+Every amount reported on a T4 slip has a box or ‘code.’ For example, employment income is always reported in box 14. Enter the corresponding amounts into each box.
+Employers may distribute T4 slips electronically by making them accessible to their employees on a secured portal with a secured printer.
+Employers can only distribute T4 slips using email if they have express written consent from employees.
+In all other cases, employers must provide two copies of the T4 slip, in paper format, to the employee in person or by mail.
+You also have to send one copy of each T4 slip to the CRA, along with a T4 summary. The summary is a form showing the sum of amounts reported on all T4 slips. And, you have to keep these copies for your records.
+Your T4 slips have to be sent to your employees and to the CRA no later than the end of February of the following year.
+Employers who generate more than 6 slips of each type, such as T4 or T4A, are required to file electronically, while employers with 5 slips or less can choose to file T4 information returns on paper.
+If you file your T4 slips late, you will be subject to a late filing penalty.
+Today, we discussed:
+- Payroll obligations to CRA
+- Deductions and contributions
+- Tools for calculating
+- types of pay and withholdings
+- Books and Records
+- Remitting
+- Reporting
+Tax administration is as complex as life itself. If the content today doesn't quite fit your situation, please:
+- Visit canada.ca/payroll
+- Visit canada.ca/cra-liaison-officer to get free tax help from a liaison officer
+- Call CRA's business inquiries line at 1-800-959-5525
+- You can also go to canada.ca/cra-videos where you'll find all our business webinars.
+We've come to the end of our webinar. Please click on the survey icon in the tool bar at the top of the screen to fill out the evaluation form for this webinar.
+Thanks for joining me today. I hope it's been helpful. Stay tuned for more webinars in the coming months! Good bye.

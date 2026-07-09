@@ -1,0 +1,18 @@
+---
+title: "EDM4-1-1 CANCELLED Producers and Packagers of Wine"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edm4-1-1.html
+last_modified: 2025-06-18
+---
+# EDM4-1-1 CANCELLED Producers and Packagers of Wine
+
+## This publication was cancelled
+
+This publication was cancelled as of 2026-04-15 and replaced with [EDM4-1-1 Producers and packagers of wine](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm4-1-1-producers-packagers-wine.html).
+
+An overview of the obligations and entitlements of persons who may become wine licensees.
+
+## Related documents
+
+- [B265 Excise Duty Return - Wine Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b265.html)
+
+- [EDN40 Semi-Annual Reporting Period for Certain Licensees](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edn40.html)

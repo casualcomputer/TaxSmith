@@ -1,0 +1,95 @@
+Title: ARCHIVED - Income Tax – Technical News
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-23/archived-income-tax-technical-news-no-23.html
+Corpus path: corpus/cra/tax/technical-information/income-tax/current-publications/technical-news/publications/itnews-23/archived-income-tax-technical-news-no-23.md
+Document type: technical_publication
+Last modified: 2019-10-08
+
+# ARCHIVED - Income Tax – Technical News
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for income tax technical news](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/what-archived-content-notice-means-income-tax-technical-news.html)
+
+## No. 23 June 18, 2002
+
+This document is also available for [download in other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-23-archived-income-tax-technical-news-no-23-june-18-2002.html).
+
+## In This Issue
+
+List of "approved" entities for the purpose of scientific research and experimental development
+
+Computer software
+
+The *Income Tax Technical News* is produced by the Policy and Legislation Branch. It is provided for information purposes only and does not replace the law. If you have any comments or suggestions about the matters discussed in this publication, please send them to:
+
+Manager, Technical Publications and Projects Section Income Tax Rulings Directorate Policy and Legislation Branch Canada Customs and Revenue Agency Ottawa ON K1A 0L5
+
+Or by email at the following address:[bulletins@ccra.gc.ca](mailto:bulletins@cra-arc.gc.ca)
+
+The *Income Tax Technical News* can be found on the Canada Customs and Revenue Agency [Internet site](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/current-income-tax-technical-news-ittn.html).
+
+## List of "Approved" Entities for the Purpose of Scientific Research and Experimental Development
+
+Entities that are engaged in carrying on scientific research and experimental development (SR&ED) may apply to be granted the status of an "approved" association or research institute under the *Income Tax Act* (the Act). Generally, the approved status of an entity may entitle a taxpayer to certain tax incentives in respect of payments made by the taxpayer to the approved entity to be used for SR&ED. The current version of Interpretation Bulletin IT-151, [*Scientific Research and Experimental Development Expenditures*](https://www.canada.ca/E/pub/tp/it151r5-consolid/README.html), discusses the manner in which an entity may apply for "approved" status and the availability of the tax incentives, including the investment tax credit, in respect of SR&ED expenditures incurred by a taxpayer.
+
+The information in respect of an application for "approved" status and the subsequent granting of approval is considered to be confidential. Generally, the rules under section 241 of the Act treat taxpayer information as confidential and do not permit the Canada Customs and Revenue Agency (CCRA) to provide information in respect of a taxpayer to another person. Such confidentiality provisions would preclude providing a public list of the entities that have been granted "approved" status. However, subsection 241(5) of the Act permits information regarding a taxpayer to be provided to a person with the consent of the taxpayer.
+
+In response to numerous requests to identify publicly the universities, colleges, associations, research institutes and similar institutions that have been "approved" for the purposes of subsection 37(7) and clauses 37(1)(*a*)(ii)(A) and (B) of the Act, the CCRA is now able to publish the attached list of such approved entities that have given their consent pursuant to subsection 241(5) of the Act.
+
+## Approved entities that have consented to be publicly identified
+
+Alberta Research Council, Edmonton, Alberta
+
+Canadian Arthritis Network, Toronto, Ontario
+
+Centre des technologies du gaz naturel (Québec) Inc., Montréal, Quebec
+
+Centre for Cold Ocean Resources Engineering, Memorial University of Newfoundland, St. John's, Newfoundland
+
+Children's Hospital of Eastern Ontario (CHEO) Research Institute Trust, Ottawa, Ontario
+
+Genesis Research Foundation, Toronto, Ontario
+
+Harvard University, Maryland, U.S.A.
+
+The John P. Robarts Research Institute, London, Ontario
+
+London Health Sciences Centre Research Inc., London, Ontario
+
+McGill University-Montreal Children's Hospital Research Institute, Montréal, Quebec
+
+National Research Council of Canada, Ottawa, Ontario
+
+Ottawa Health Research Institute, Ottawa, Ontario
+
+Research Branch, Agriculture and Agri-Food Canada, Ottawa, Ontario
+
+The Arthritis Research Centre Society of Canada, Vancouver, British Columbia
+
+The Lawson Research Institute, London, Ontario
+
+Toronto Hospital Research Institute, Toronto, Ontario
+
+University of North Dakota, North Dakota, U.S.A.
+
+Veterinary Infectious Disease Organization, University of Saskatchewan, Saskatchewan
+
+[1](#P40_3734) **Note**: For a current list of approved entities that have consented to be publicly identified, see the appendix to the current version of IT-151, [*Scientific Research and Experimental Development Expenditures*](https://www.canada.ca/E/pub/tp/it151r5-consolid/README.html).
+
+## Computer Software
+
+In the Commentary on Article 12 of the OECD Model Tax Convention on Income and Capital (April 29, 2000 condensed version) concerning the taxation of royalties, at paragraph 27, Canada has an observation that states:
+
+Canada does not adhere to paragraphs 14 through 14.3. In Canada, payments by a user of computer software pursuant to a contract that requires that the source code or program be kept confidential, are payments for the use of a secret formula or process and thus are royalties within the meaning of paragraph 2 of the article.
+
+On March 28, 2002, the Department of Finance informed the OECD that Canada is removing this observation. Accordingly, as of March 28, 2002**,** for the purposes of Canada's Income Tax Conventions, subject to the exceptional cases described in paragraph 14.3 of the commentary on Article 12, the CCRA will no longer view such a payment as a payment for a "secret formula" and the CCRA will apply this interpretation for the Conventions in force as of March 28, 2002 and subsequent Conventions that come into force after that date.
+
+However, the CCRA does view such a payment as a "royalty" where the definition of "royalty" in the particular Convention refers to "payments ... for the use of, or the right to use ... other intangible property". Also, the CCRA continues to be of the view that Part XIII tax applies to such a payment pursuant to paragraph 212(1)(*d*) of Canada's *Income Tax Act* because the payment is a "rent, royalty or similar payment, including, ..., any payment (i) for the use of or for the right to use in Canada any property ... or other thing whatever", unless the payment is in respect of what the CCRA refers to as "shrinkwrap" software or the exception in subparagraph 212(1)(*d*)(vi) applies.
+
+**1** Added on May 14, 2003[Back](#P7_248)

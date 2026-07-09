@@ -1,0 +1,111 @@
+Title: ARCHIVED - Patronage Dividends
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it362r/archived-patronage-dividends.html
+Corpus path: corpus/cra/forms-publications/publications/it362r/archived-patronage-dividends.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Patronage Dividends
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-362R**
+
+DATE: August 10, 1990
+
+SUBJECT: INCOME TAX ACT**Patronage Dividends**
+
+REFERENCE: Section 135 (also sections 149 and 215, subsections 4(1), 56(2), 125(1) and 127(6) and paragraphs 20(1)(c) and (d) and 212(1)(g)).
+
+Application
+
+This bulletin cancels and replaces IT-362 dated January 31, 1977. Except for the comments in 3 and 8, the bulletin applies to all taxation years. The comments in 3 and 8 regarding the deduction under subsection 135(2.1) apply with respect to amounts disallowed pursuant to subsection 135(2) in a taxation year ending after 1985. Current revisions are designated by vertical lines.
+
+Summary
+
+In computing income for a taxation year, a taxpayer is allowed to deduct patronage dividend payments made to customers. While the taxpayer involved is usually a cooperative corporation, sole proprietors, partnerships and ordinary corporations may also qualify for the deduction. This bulletin discusses the conditions set forth in section 135 that must be met in order to deduct the amount of the payments. Taxpayers who claim the deduction are required to file Form T2S(16).
+
+Discussion and Interpretation
+
+Allocation in Proportion to Patronage
+
+1. The patronage payments that may qualify for the deduction under subsection 135(1) are those which have been made pursuant to allocations in proportion to patronage. An "allocation in proportion to patronage" for a taxation year means an amount credited by the taxpayer to a customer of that year, on terms that the customer is entitled to or will receive payment of the amount, computed at a rate in proportion to patronage (i.e., the amount of business done with the customer in the taxation year) with appropriate differences in the rate for different types of goods, products or services and for different classes, grades, or qualities of such goods, products, or services.
+
+2. It is generally required that all customers be credited at the same rate for similar goods or services (as described in paragraph 135(4)(a)). If they are not and non-member customers are involved who are credited at a different rate than members, or are excluded from the allocation altogether, the amount deductible in the year by the taxpayer under subsection 135(1) may be limited by subsection 135(2). The effect of subsection 135(2) is to limit the amount deductible in respect of members to that proportion of the taxpayer's income from all sources, including taxable capital gains, that the business done with members is of the business done with all customers during the year. The method of calculating the allowable deduction under subsection 135(1) in such cases is set out in Form T2S(16). For the purposes of section 135, a "member" is a person who is entitled as a member or shareholder to full voting rights in the conduct of the affairs of the taxpayer (being a corporation) or of a corporation of which the taxpayer is a subsidiary wholly-owned corporation.
+
+3. Where subsection 135(2) applies in a taxation year ending after 1985 to deny the deduction of all or a portion of the amount paid to members, the undeducted amount may be deductible in a subsequent year under subsection 135(2.1). Effective for the 1987 and subsequent taxation years, this subsection permits a deduction equal to the excess of the taxpayer's income attributable to members of that year over the amount deducted under subsection 135(1) in respect of those members for that year to the extent of the undeducted amount that was not deducted in previous years. The method of calculating the allowable deduction under subsection 135(2.1) in such cases is also set out in Form T2S(16).
+
+4. Pursuant to paragraph 135(4)(a), the same rate of patronage allocation for similar goods or services must be applied to all member customers of a year. If a taxpayer sells at special reduced prices to selected member-customers and thus does not make allocations or makes reduced allocations to them, any allocations to other members for goods or services similar to those sold to the selected members at reduced rates are not regarded as being in proportion to patronage.
+
+5. A taxpayer is considered to qualify in "allocating in proportion to patronage" even though, for reasons of convenience, credit is not given to those customers to whom the patronage allocation would be less than $5.00, provided all other conditions are met. No deduction in computing income is allowable for such credits not given.
+
+6. The amount must be credited to the customer within the taxation year for which the allocation is made or within 12 months after the end of that year, and the prospect that such amounts would be credited must have been held forth to member or non-member customers of that year.
+
+Small Business Deduction - Income from an Active Business
+
+7. As a general rule, in calculating income from an active business carried on in Canada for purposes of computing the small business deduction under subsection 125(1), cooperative corporations which are Canadian-controlled private corporations must deduct the entire allowable deduction under subsection 135(1) for patronage dividends. However, since patronage dividends may be paid from any source of income, there may be situations where a lesser amount would be deducted from active business income for the purposes of the small business deduction. This would occur where:
+
+(a) patronage dividends were paid to persons who were not customers of the active business in Canada (such as customers of a business not carried on in Canada), or
+
+(b) allocations in proportion to patronage were not made at the same rate, in respect of similar goods or services, to all customers of the active business in Canada and there was income from another source.
+
+In these situations, subsection 4(1) would apply to allocate patronage dividends to the active business income of the cooperative in Canada on the basis of those dividends that are wholly or reasonably applicable to that active business income. The result is that only the patronage dividends paid to customers of the active business in Canada would be deducted from that active business income for the purpose of computing the taxpayer's small business deduction. If the overall amount for patronage dividends which is deductible in computing income from all sources is less than the amount of patronage dividends paid which are allocated to the active business income (for example, where the cooperative sustained a loss from its non-active business) the allocation to active business income would be limited to that lesser overall amount. Further, subsection 135(2) may apply in situation (b), whether or not the situation described in (a) also exists, to limit the amount deducted in respect of members who are customers of the active business in Canada. In such cases, the amount deducted would be limited to that proportion of the income of the active business (before the deduction for patronage dividends) that the business done with those members is of the business done with all customers of the active business in Canada. In this regard, see: Sedgewick Co-operative Association Limited v. The Queen, ó1984| CTC 14, 83 DTC 5455 (FCTD).
+
+8. As explained in 3 above, all or a part of a previous year's undeducted amount may be carried over and deducted in computing income from all sources under subsection 135(2.1) for the current year. The amount that is carried forward and deducted in this manner (or, in keeping with the comments in 7 above, that portion of that amount that relates to members who were customers of the active business in Canada) must also be deducted in computing a corporation's income from an active business carried on in Canada for the purpose of computing its small business deduction for the year.
+
+Holding Forth Prospect of Allocation
+
+9. A taxpayer is deemed to have held forth the prospect of allocations to customers by complying with any one of the methods provided in paragraphs 135(5)(a) and (b). Where a prospect is held forth by an advertisement in accordance with paragraph 135(5)(b), the appropriate part of the newspaper to be filed should show in one piece the advertisement and the name and the date of the newspaper. The prescribed form (Canada Gazette, November 9, 1949) for the advertisement is as follows:
+
+"As required by the Income Tax Act, this will advise our customers that it is our intention to make payment in proportion to patronage in respect of the year ending the ___ day of _____ 19__ and we hereby hold forth the prospect of patronage payments accordingly".
+
+Payment of Patronage Dividends
+
+10. A patronage payment is only deductible by a taxpayer in computing income for a taxation year if it is paid within the year or within 12 months of the end of the year to customers of the year or of a previous year where such payments were not deductible from income of a previous year. The ways in which such payment may be effected include the following:
+
+(a) by the distribution of money or merchandise, including merchandise vouchers redeemed within the year or within 12 months of the end of the year,
+
+(b) by a set-off of obligations which may be effected by the taxpayer crediting an amount to the customer pursuant to the customer's obligation to make a loan, purchase shares, or pay a debt where the application of the patronage dividend to such an obligation has been authorized by a customer in writing, or effected by the provisions of a by-law of the taxpayer (see also 11 below) in respect of member customers only, except that no formal authorization is required by the taxpayer to apply an amount to a trade debt of any customer, or
+
+(c) by a payment or transfer of property to some other person, at the direction of or with the concurrence of a customer, as a benefit to the customer or to benefit such other person (to the extent that it is to be included under subsection 56(2), in computing the customer's income for a taxation year).
+
+11. To effect a set-off of obligations pursuant to a by-law as discussed in 10 above, the by-law must be passed under the authority of a provision in the charter, articles of association, or statute under which the taxpayer was incorporated. There must be an obligation on the member customer to make a loan, purchase shares or pay a debt to the taxpayer, and an obligation on the taxpayer to pay the patronage dividend, before payment may be effected by set-off of obligations. This type of patronage payment should be credited separately to an account for each customer concerned, with each customer being notified accordingly.
+
+Other Payments to Customers
+
+12. Payments may also be made in accordance with the terms and conditions of a contract, or in compliance with the terms of the taxpayer's charter, articles of association, or by-laws, which would not be considered to be patronage dividends. An example of such payments would be those that result from an arrangement where the taxpayer markets the products of its members and is obligated to pay to them the proceeds of the sale less a deduction for the taxpayer's expenses and reserves. (See the current version of IT-493, Agency Cooperative Corporations.)
+
+13. Where a taxpayer making such payments also makes payments on a patronage basis, the latter remain patronage payments subject to the usual limitations. Taxpayers should keep their records in such a manner that a determination can be made of the amounts paid pursuant to obligations described in 12 above and the amounts distributed as patronage payments.
+
+Taxation of Customers
+
+14. All patronage dividends received by a customer (including certificates of indebtedness received pursuant to a patronage allocation), with the exception of those with respect to "consumer goods or services", are included in computing the recipient's income pursuant to subsection 135(7) for the taxation year in which they are received. In all cases where payment has been effected by the payer in any manner whatsoever, the patronage dividend is considered to have been received by the customer.
+
+15. Where the patronage dividend relates partly to consumer goods or services and partly to other goods or services, but the T4A slip forwarded to the customer by the payer does not show the amount applicable to each class of transaction, the whole of the payment is included in computing the customer's income unless it can be established that a portion of such payment is applicable to consumer goods or services and as such should not be subject to tax.
+
+16. By virtue of paragraph 135(4)(b) the expression "consumer goods and services" means goods or services the cost of which was not deductible by the customer in computing income from a business or property.
+
+17. Subsection 135(3) provides that where the amount, or the total of two or more amounts, paid by a taxpayer in respect of patronage payments to a customer resident in Canada in a particular calendar year exceeds $100 and that resident is not exempt from tax under section 149, the taxpayer is required to deduct and withhold a tax of 15 percent on the excess and remit it to the Receiver General on account of the customer's tax liability. If the taxpayer is a cooperative corporation that had an unused investment tax credit at the end of its previous taxation year, pursuant to subsection 127(6) this requirement to remit tax in the current taxation year may be met to the extent that the unused investment tax credit is applied against the tax otherwise required to be remitted. The amount deemed to have been remitted on account of the customer will be the same, regardless of the manner in which the requirement to remit was met.
+
+18. All patronage payments made to a non-resident customer are subject to a 25 percent withholding tax under paragraph 212(1)(g) and section 215. However, lower rates of tax may apply in accordance with the terms of an income tax agreement or convention with the country where the customer resides.
+
+Interest on Shares
+
+19. Many cooperatives, in addition to making patronage payments to their customers, pay interest to their shareholders on the outstanding capital stock. This so-called interest, which is calculated on the number of shares held by each member, is in reality a dividend on capital stock and, therefore, is not deductible in computing income of the cooperative. It is taxable in the hands of the recipient as a taxable dividend.
+
+Interest on Loan Capital
+
+20. Interest on loan capital is deductible in computing income provided it is paid or payable in accordance with paragraph 20(1)(c) or (d). Where loan capital results from the exchange or substitution of bonds, debentures, notes, or some other evidence of indebtedness for capital stock, the transaction is in effect a redemption of the capital stock and a concurrent borrowing of money from the former shareholders. Such loan capital is thus borrowed money within the meaning of paragraph 20(1)(c).
+
+21. Interest on the following classes of loan capital is not deductible:
+
+(a) Deferred Patronage Allocations, i.e., patronage allocations the payment of which has been deferred and which have not been loaned to the taxpayer;
+
+(b) Loan Units which do not carry a legal obligation to pay interest but in respect of which it is left to the directors in their discretion to pay such interest as they may decide is warranted.

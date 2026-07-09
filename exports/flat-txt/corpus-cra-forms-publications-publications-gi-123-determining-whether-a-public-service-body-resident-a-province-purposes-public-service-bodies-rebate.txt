@@ -1,0 +1,115 @@
+Title: Application of GST/HST to Residential Care Services Provided in Ontario
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-123/determining-whether-a-public-service-body-resident-a-province-purposes-public-service-bodies-rebate.html
+Corpus path: corpus/cra/forms-publications/publications/gi-123/determining-whether-a-public-service-body-resident-a-province-purposes-public-service-bodies-rebate.md
+Document type: publication
+Last modified: 2019-01-24
+
+# Application of GST/HST to Residential Care Services Provided in Ontario
+
+GST/HST Info Sheet GI-123 January 2019
+
+This version updates and replaces the one dated October 2011.
+
+This info sheet provides information on the application of the GST/HST to supplies of residential group care services and residential foster care services provided in the province of Ontario. For the purpose of this info sheet, we will refer to a business making these supplies as a **Resource**.
+
+This info sheet has been updated to include a link to GST/HST Memorandum 21-2, Residential Care Services.
+
+In this publication, all legislative references to the “Act” are to the *Excise Tax Act*, unless otherwise specified. The information in this publication does not replace the law found in the Act and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the Act or relevant regulation, or call GST/HST Rulings at 1-800-959-8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1-800-567-4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1-855-666-5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia, and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, see [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## The residential care services system in Ontario
+
+In Ontario, the provincial government can entrust the care of children in need of protection and adults with special needs to non-governmental organizations (NGOs). These NGOs, generally non-profit organizations, are given the responsibility of providing care for those individuals assigned or committed to their care. A common practice of these NGOs is to enlist a Resource to do either of the following:
+
+- facilitate the provision of care for the children, or individuals with a disability
+
+- provide that care directly to the children, or individuals with a disability
+
+A Resource generally makes one of 2 main types of supplies: residential group care services and residential foster care services.
+
+## What is a residential group care service?
+
+A residential group care service is the provision of boarding, lodging and associated supervisory, sheltered or group care provided directly to a child, or individual with a disability, away from the home of the child or individual’s parent(s) in a building, group of buildings or part of a building where adult staff are employed by the Resource to provide care to children, or individuals with a disability, on the basis of scheduled periods of duty.
+
+A supply of a residential group care service is made when a Resource operates a group home for the purpose of making a supply of a service of providing care, supervision and a place of residence directly to children, or individuals with a disability, in that group home.
+
+## What is a residential foster care service?
+
+A residential foster care service is the provision of boarding, lodging and associated supervisory care for a child, or an individual with a disability, away from the home of the child or individual’s parent(s) in a foster home where not more than 2 adult persons live and provide care to the child, or individual with a disability, on a continuous basis. The adults providing the care directly to the child or individual are foster parents and are not employees of the Resource.
+
+A supply of a residential foster care service is made when a Resource facilitates the placement of the child, or individual with a disability, in a foster home and the foster parents receive compensation for providing care, supervision and a place of residence directly to the child, or individual with a disability, in the foster home. In addition to facilitating the placement of the child, or individual with a disability, the Resource may be required to perform a number of other tasks to ensure the safe care of the child or individual (for example, developing a plan of care, providing training and support for foster parents, evaluating the performance of the foster parents).
+
+## Exemption under the Act for a residential care service
+
+The Act exempts from the GST/HST “a supply of a service of providing care, supervision and a place of residence to children, underprivileged individuals or individuals with a disability in an establishment operated by the supplier for the purpose of providing such service”.[Footnote1](#fn1)
+
+For the purpose of this info sheet, we will refer to this provision as the **residential care exemption**.
+
+In order for a supply of a residential care service made by a Resource to fall within this residential care exemption, the answer to both of the following questions must be **yes**:
+
+1. Does the Resource make a supply of a service of providing care, supervision and a place of residence directly to children, or individuals with a disability?
+
+2. Does the Resource make the supply of this service in an establishment operated by the Resource for the purpose of providing a service of care, supervision and a place of residence directly to children, or individuals with a disability?
+
+An NGO in Ottawa has been entrusted with the care of a particular 10-year-old boy. The NGO entered into a written agreement with ABC Company, a Resource. The boy is placed with ABC. ABC owns and operates a group home for children. ABC has a number of full-time employees who work 8-hour shifts in the group home. The group home has 8 bedrooms, a dining room, a kitchen, 4 bathrooms, a family room, laundry room and a large backyard. Each child, including the 10-year-old boy, is assigned their own bedroom in the home. Employees provide care and supervision directly to all the children staying in the home. Employees prepare all meals for the children. The children’s laundry is done by the employees. Employees provide assistance with homework. The NGO pays ABC a monthly fee for the care of the children, including the 10-year-old boy.
+
+Does the residential group care service supplied by ABC fall within the residential care exemption?
+
+In this example, the answers to the 2 questions are:
+
+1. Yes, the Resource’s employees are providing care and supervision directly to children. Therefore the Resource is making a supply of a service of providing care, supervision and a place of residence directly to children.
+
+2. Yes, the Resource is making the supply in a group home operated by the Resource for the purpose of providing a service of care, supervision and a place of residence directly to children.
+
+In order for the supply of the service to fall within the residential care exemption, the answers to both questions 1 and 2, above, must be **yes**.
+
+As the answers to both questions are yes, the supply does fall within the residential care exemption and therefore this supply is exempt from the GST/HST.
+
+### Example 2
+
+An NGO in Timmins has been entrusted with the care of a 6-year-old girl. The NGO entered into an agreement with XYZ Company, a Resource, and pays XYZ a monthly fee for the care of the 6-year-old girl. XYZ has identified and accepted a number of families that wish to foster children. XYZ places the child with a suitable foster family and compensates the foster family for the care of the child. The child lives with the foster family in the foster home. The foster home is owned by the foster parents. XYZ ensures that the child is being cared for in an acceptable manner.
+
+Does the residential foster care service supplied by XYZ fall within the residential care exemption?
+
+In this example, the answers to the 2 questions are:
+
+1. No, the Resource is not making a supply of a service of providing care, supervision and place of residence directly to children, or individuals with a disability.
+
+Rather, the Resource places the child in the residence (that is, a foster home) of a person (that is, a foster parent) who receives compensation for caring for the child. The Resource places the child with the foster family by following agreed upon standards of service outlined in its agreement with the NGO and in accordance with provincial legislation. The Resource does not provide care and supervision directly to the child.
+
+2. No, the supply is being made in the residence of a person who receives compensation for caring for the child.
+
+The foster home is not an establishment operated by the Resource. Regardless of the procedures required under provincial legislation for selection and utilization of these residences, this does not equate to the Resource operating the foster home.
+
+In order for the supply of the service to fall within the residential care exemption, the answers to both questions 1 and 2, above, must be **yes**.
+
+Since at least one of the answers to the above questions is no, the supply does not fall within the residential care exemption and therefore this supply is not exempt from the GST/HST provided that no other exempting provision under the Act applies (for example, the supply of a service by a charity). The supply would be taxable for purposes of the HST in Ontario at the rate of 13%.
+
+For more information on supplies of residential care services, refer to [GST/HST Memorandum 21-2, Residential Care Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/21-2.html).
+
+## Further information
+
+All **GST/HST technical publications** are available at [Technical information – GST/HST](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry**by**telephone**:
+
+- for **GST/HST general enquiries,**call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries,**call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in**Quebec**, call**Revenu Québec**at **1-800-567-4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST - Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for **general GST/HST** or **QST enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **technical GST/HST** or **QST enquiries**, call **GST/HST Rulings SLFI** at **1-855-666-5166**

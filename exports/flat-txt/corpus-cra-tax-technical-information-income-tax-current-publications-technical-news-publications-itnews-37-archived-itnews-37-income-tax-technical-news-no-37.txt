@@ -1,0 +1,81 @@
+Title: ARCHIVED - Income Tax - Technical News No. 37
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-37/archived-itnews-37-income-tax-technical-news-no-37.html
+Corpus path: corpus/cra/tax/technical-information/income-tax/current-publications/technical-news/publications/itnews-37/archived-itnews-37-income-tax-technical-news-no-37.md
+Document type: technical_publication
+Last modified: 2008-02-15
+
+# ARCHIVED - Income Tax - Technical News No. 37
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for income tax technical news](https://www.canada.ca/fr/agence-revenu/services/impot/renseignements-techniques/impot-revenu/que-represente-avis-contenu-archive-nouvelles-techniques-courantes-matiere-impot-revenu.html)
+
+**February 15, 2008**
+
+**Notice to the reader:**
+
+- This version is only available electronically.
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-37-archived-income-tax-technical-news-no-37-february-15-2008.html), including PDF (which is an exact rendition of the original).
+
+**In This Issue**
+
+Safe Income Calculation – Treatment of Non-Deductible Expenses
+
+The *Income Tax Technical News* is produced by the Legislative Policy and Regulatory Affairs Branch. It is provided for information purposes only and does not replace the law. If you have any comments or suggestions about the matters discussed in this publication, please send them to:
+
+Income Tax Rulings Directorate Legislative Policy and Regulatory Affairs Branch Canada Revenue Agency Ottawa ON K1A 0L5
+
+The *Income Tax Technical News* can be found on the Canada Revenue Agency Internet site at **www.cra.gc.ca**.
+
+## Safe Income Calculation – Treatment of Non-Deductible Expenses
+
+As indicated in the discussion under the heading “Safe Income Calculation – the *Kruco* Case” in *Income Tax Technical News #34*, the decision of the Federal Court of Appeal (FCA) in *The Queen v. Kruco* *Inc.* [[Footnote 1]](#P23_888) caused a great deal of uncertainty concerning the continued validity of many of the CRA's guidelines for determining the amount of a corporation's safe income on hand, as described in various papers[[Footnote 2]](#P24_1143) presented by senior CRA officials and supplemented by subsequent technical interpretations issued by the CRA.
+
+As a result of concerns that taxpayers might attempt to obtain an advantage by following those CRA positions which were favourable to them while relying on the *Kruco* decision to avoid those adjustments that would reduce a corporation's safe income on hand, the CRA, following consultation with other government stakeholders, decided to publish an article in *Income Tax Technical News #33*, explaining its interpretation of the *Kruco* decision and implementing an administrative practice that would address its concerns.
+
+In various published documents and statements made at annual conferences, the CRA has stated that its interpretation of *Kruco* was that an amount would generally only be included in a corporation's safe income to the extent that it is included in the determination of its net income for tax purposes or is an adjustment specifically set out in paragraph 55(5)(*b*) or (*c*). Similarly, an amount that is deducted in computing a corporation's net income for tax purposes would reduce the corporation's safe income. Otherwise, safe income would generally only be reduced by those cash outflows that occur after the determination of net income, but before the dividend is paid (such as taxes and dividends) to the extent that such disbursements reduce the income to which the capital gain may be attributable. The CRA further announced that it would follow this approach. Statements were also made to the effect that under this approach, non-deductible expenses would not generally reduce a corporation's safe income on hand.
+
+Since publication of its interpretation of the *Kruco* decision, the CRA has received numerous enquiries seeking clarification of its position relating to the treatment of non-deductible expenditures in the computation of safe income on hand. In many of these scenarios, the safe income on hand as determined under the approach described above would lead to anomalous results in that the amount determined would exceed the fair market value of the corporation's shares. Moreover, this approach may effectively undermine the tax policy underlying subsection 55(2) to the extent that where the safe income on hand as determined is not supported by the net fair market value of assets retained by the corporation, it may permit the payment of a safe dividend that reduces the portion of the gain on a share that is attributable to unrealized gains on the underlying assets of the corporation.
+
+Consequently, the CRA has decided to reconsider its interpretation of the *Kruco* decision, as described in ITTN's 33 and 34, in particular with reference to the treatment of non-deductible expenditures in the computation of safe income on hand.
+
+In this regard, the only case that specifically addresses the treatment of non-deductible expenditures is that of *Gestion Jean-Paul Champagne* [[Footnore 3]](#P31_4505) which was cited with approval by both the Tax Court of Canada (TCC) and the FCA in *Kruco*. In *Gestion Jean-Paul Champagne*, the Court held that the safe income of a corporation had to be reduced to reflect previously distributed profits, notably in the form of dividends and non-deductible expenditures.
+
+With respect to the *Kruco* case, it should be noted that at the TCC level, Dussault J. had to examine the validity of three negative adjustments made by the CRA to the taxpayer's safe income. The first two adjustments were with respect to investment tax credits claimed by the corporation. The purpose of these two negative adjustments was to reduce the safe income of the taxpayer by the amount of “phantom income” generated by these investment tax credits. With respect to both adjustments, the Tax Court Judge found in favour of the taxpayer. The third adjustment examined by Dussault J. related to a transaction that gave rise to a cash outlay that was found to be equivalent to a non-deductible expense. In paragraph 84 of his decision in *Kruco*, Dussault J. indicated that elements such as non-deductible expenses “reflect cash flow shown on the balance sheet which in no way affects the calculation of income for the purposes of the Act.” Furthermore, in paragraph 93 of his decision, Dussault J. held that the cash outlay made by the corporation with respect to the third adjustment was not reflected in the computation of the corporation's income for tax purposes, although it reduced the amount of disposable after-tax income by an equivalent amount. In his view, the reasoning applicable in the case of the third adjustment had to be the one adopted in *Gestion Jean-Paul Champagne*. Thus, the safe income of the corporation had to be reduced to reflect the cash outlay made by the corporation. Dussault J. finally found that the method adopted by the Minister with respect to the third adjustment was reasonable. It should be noted that the taxpayer did not appeal the issue of the third adjustment dealing with the impact of the cash outlay.
+
+In paragraphs 35 to 38 of the reasons for judgement in *Kruco*, the FCA sets out the general principles that should govern the calculation of safe income. The FCA recognizes that the calculation of safe income is only the first step and that a second step, the determination of the “safe income on hand”, is required by the Act. On this point, Noel, J. states the following in paragraph 38 of the decision and relies on *Gestion Jean-Paul Champagne* in support of his statement:
+
+There can be no doubt that this exercise [i.e. the second step – the calculation of “safe income on hand”] calls for *an inquiry* as to whether “the income earned or realized” *was kept on hand or remained disposable* to fund the payment of the dividend. It follows, *for instance*, that taxes or dividends paid out of this income must be extracted from safe income (see *Deuce Holdings Ltd*., *supra* and *Gestion Jean-Paul Champagne Inc*., *supra*). (emphasis added).
+
+Also, in paragraph 41 of his reasons for judgement in *Kruco*, Noel, J. stated:
+
+Reducing this income by reference to cash outflows, which take place after it has been computed in conformity with paragraph 55(5)(*c*), but before the dividend is paid, does no violence to the deeming provision since the deemed amount is accepted as the starting point and modified only by reference to subsequent events which are relevant to the subsection 55(2) computation, i.e., cash outflows which take place after the income has been determined — in conformity with the deeming provision — and which reduce the income to which the capital gain can be “reasonably … attributable”.
+
+In our view, in interpreting paragraph 41 of the FCA's decision, proper emphasis must be given to the general principles set out in paragraphs 35 to 38. We believe that safe income on hand reductions made to reflect the impact of cash outflows (such as non-deductible expenses), which are not deducted in the computation of the corporation's net income for tax purposes but still have the effect of reducing the amount of disposable after-tax income by an equivalent amount, are in line with the general principles set out by the FCA.
+
+Accordingly, we are now of the view that the amounts that must reduce a corporation's “safe income on hand” are not limited only to taxes and dividends. The use of the terms “for instance” in paragraph 38 of the FCA's decision supports this view. Furthermore, one would think that the statement by the FCA that the second step in the process of determining a corporation's safe income requires an “inquiry” as to whether the income earned or realized was kept on hand, is evidence that such second step implies more than the mere reduction of a corporation's net income by taxes and dividends paid only.
+
+We are also of the view that an interpretation of the *Kruco* decision that allows the reduction of safe income by the amount of non-deductible expenses incurred by a corporation is in accordance with the intent of subsection 55(2), which is to permit a tax-free intercorporate dividend to be paid to reduce a potential capital gain, to the extent however that such gain is attributable to the **retention** of “post-1971” income.
+
+Consequently, for any dividend paid after the date of release of this ITTN (other than a dividend paid in a transaction, or as part of a series of transactions, the arrangements for which, evidenced in writing, were substantially advanced at the date of release of this ITTN), it is the CRA's position that non-deductible expenses must be deducted in computing the safe income on hand attributable to the shares on which the dividend is paid, as computed before the safe-income determination time for a particular transaction. With respect to any dividend paid on or before the date of this ITTN (and any dividend paid after the date of release of this ITTN that is eligible for the transitional relief described above), due to the uncertainty associated with the impact of non-deductible expenses on safe income during such period, the CRA's general position will be not to make any new downward adjustments to a corporation's safe income on hand in respect of non-deductible expenses.
+
+## Footnotes
+
+**[Footnote 1](#P23_889)**
+
+*Canada* v. *Kruco Inc.*, 2003 DTC 5506, [2003] 4 CTC 185.
+
+**[Footnote 2](#P24_1144)**
+
+*Capital Gains Strips: A Revenue Canada Perspective On the Provisions of Section 55*, presented by J.R. Robertson at the 1981 annual conference of the Canadian Tax Foundation; *Section 55: A Review of Current Issues*, presented by Robert J.L. Read at the 1988 annual conference of the Canadian Tax Foundation; and *Income Earned or Realized: Some Reflections*, presented by Michael Hiltz at the 1991 annual conference of the Canadian Tax Foundation.
+
+**[Footnote 3](#P31_4506)**
+
+*Gestion Jean-Paul Champagne* v. *M.N.R*., [1996] 2 CTC 2537, 97 DTC 155.

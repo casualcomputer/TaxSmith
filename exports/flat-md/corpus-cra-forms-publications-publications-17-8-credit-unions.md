@@ -1,0 +1,214 @@
+---
+title: "Credit Unions"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-8/credit-unions.html
+last_modified: 2026-06-23
+---
+# Credit Unions
+
+GST/HST memorandum 17-8 June 2026
+
+This version replaces the one dated April 1999. This memorandum has been updated to reflect an amendment to the definition of credit union in subsection 137(6) of the *Income Tax Act* and to include information regarding the reporting requirements.
+
+This memorandum explains, for purposes of the GST/HST, the provisions of the *Excise Tax Act* that pertain to credit unions.
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the *Excise Tax Act* (ETA). The information in this publication does not replace the law found in the ETA and its regulations. Although correct at the time of issue, this publication may not have been updated to reflect subsequent legislative changes.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1‑800‑959‑8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Requesting a GST/HST Ruling or Interpretation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1‑855‑666‑5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The GST/HST rates are those that were in effect at the time of publishing. For the list of all applicable GST/HST rates (current and historic), go to [GST/HST calculator (and rates)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html).
+
+If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [Overview](#toc0)
+
+- [Meaning of significant terms](#toc1)
+
+- [General](#toc2)
+
+    - [Financial services in a mixed supply](#toc3)
+
+- [Transactions between credit unions](#toc4)
+
+    - [Credit unions are deemed to have elected](#toc5)
+
+- [Registration](#toc6)
+
+- [Reporting requirements](#toc7)
+
+## Overview
+
+1. Credit unions operate similarly to banks and are generally provincially incorporated. They provide financial services to their member-owners and operate through one or more branches.
+
+2. A credit union is also a member-owner of the provincial central. A provincial central is a cooperative of credit unions that provides services to the credit unions, such as the clearing or settlement of payments and access to national banking systems.
+
+3. A credit union is a listed financial institution according to subparagraph 149(1)(a)(iv). As a result, credit unions are subject to the special provisions of the ETA that apply to financial institutions and listed financial institutions. For information on listed financial institutions, refer to [GST/HST Memorandum 17-6, Definition of Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6.html).
+
+4. A credit union may also be a selected listed financial institution (SLFI) under subsection 225.2(1). A credit union that is an SLFI is subject to special provisions in the ETA and in the *Selected Listed Financial Institutions Attribution Method (GST/HST) Regulations* (SLFI Regulations).
+
+5. For example, a credit union that is an SLFI is required to make an adjustment to its net tax calculation for each reporting period by using the special attribution method formula in subsection 225.2(2) and the prescribed rules that apply to credit unions, such as those set out in paragraph 3(a) and section 25 of the SLFI Regulations.
+
+6. For information on SLFIs, refer to [GST/HST Memorandum 17-6-1, Definition of Selected Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6-1.html). Additional information on the special rules that apply to SLFIs is found in [Guide RC4050, GST/HST Information for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4050.html).
+
+## Meaning of significant terms
+
+7. **Credit union** is defined in subsection 123(1) to have "the meaning assigned by subsection 137(6) of the *Income Tax Act* [ITA] and includes a corporation described in paragraph (a) of the definition *deposit insurance corporation* in subsection 137.1(5) of [the ITA]".
+
+8. According to subsection 137(6) of the ITA, a credit union means "a corporation, association or federation incorporated or organized as a credit union or cooperative credit society if
+
+- (a) it is
+
+    - (i) a federal credit union, or
+
+    - (ii) a provider of financial services that is organized on cooperative principles and incorporated by or under an Act of the legislature of a province,
+
+- (b) all or substantially all the members thereof having full voting rights therein were corporations, associations or federations
+
+    - (i) incorporated as credit unions or cooperative credit societies, each of which is described in paragraph (a), or all or substantially all of the members of which were credit unions, cooperatives or a combination of those entities,
+
+    - (ii) incorporated, organized or registered under, or governed by a law of Canada or a province with respect to cooperatives, or
+
+    - (iii) incorporated or organized for charitable purposes,
+
+- or were corporations, associations or federations no part of the income of which was payable to, or otherwise available for the personal benefit of, any shareholder or member thereof, or
+
+- (c) the corporation, association or federation would be a credit union by virtue of paragraph (b) if all the members (other than individuals) having full voting rights in each member thereof that is a credit union were members having full voting rights in the corporation, association or federation".
+
+9. Deposit insurance corporation is defined in subsection 137.1(5) of the ITA. Under paragraph (a) of the definition, a **deposit insurance corporation** "means
+
+- (a) a corporation that was incorporated by or under a law of Canada or a province respecting the establishment of a stabilization fund or board if
+
+    - (i) it was incorporated primarily
+
+          - (A) to provide or administer a stabilization, liquidity or mutual aid fund for credit unions, and
+
+          - (B) to assist in the payment of any losses suffered by members of credit unions in liquidation, and
+
+    - (ii) throughout any taxation year in respect of which the expression is being applied
+
+          - (A) it was a Canadian corporation, and
+
+          - (B) the cost amount to the corporation of its investment property was at least 50% of the cost amount to it of all its property (other than a debt obligation of, or a share of the capital stock of, a member institution issued by the member institution at a time when it was in financial difficulty)"
+
+10. The term credit union includes caisse populaire. Regardless of whether it is referred to as a credit union, caisse populaire, or another term, the entity would be considered a credit union for purposes of the ETA if it meets the conditions set out in subsection 137(6) of the ITA.
+
+11. Generally, provincial centrals also meet the definition of credit union under subsection 137(6) of the ITA. They provide financial services to their member-owner credit unions. Each provincial central is a cooperative of credit unions of that particular province, pooling resources for efficiency, liquidity, and national reach.
+
+12. In Quebec, credit unions operate under a different legal structure but serve similar functions as elsewhere in Canada. Generally, member-owned credit unions form a federation that is consolidated for regulatory and financial purposes. The federation provides shared services, liquidity, and access to payment and clearing systems much like provincial centrals do in other provinces.
+
+## General
+
+13. Credit unions are financial institutions that provide various financial services to their members, similar to the services that banks provide to their customers. The services provided may include operating and maintaining savings and chequing accounts and issuing loans and mortgages.
+
+14. Credit unions are owned and controlled by their members. A member of a credit union is a person that is a member in the records of the credit union and that is entitled to participate in and use the services of the credit union. A member also includes an annuitant, holder, or subscriber of a registered retirement savings plan (RRSP), a registered retirement income fund (RRIF), a tax-free savings account (TFSA), a first home savings account (FHSA), or a registered education savings plan (RESP) that is recorded as a member in the records of the credit union.
+
+15. Generally, a person purchases a share of the credit union to become a member with voting rights. The supply of the share is a financial service.
+
+16. Section 140 states that the supply of a share, bond, debenture, or other security of an organization as a condition of obtaining a membership in an organization, or in a related organization, is deemed to be a supply of a membership and not a supply of a financial service. However, the supply of a share in a credit union is excluded from the application of section 140 and remains a financial service.
+
+17. A credit union provides many of the financial services included in the definition of financial service found in subsection 123(1). The supply of a financial service is an exempt supply under section 1 of Part VII of Schedule V, unless it is a zero-rated supply included inPart IX of Schedule VI.
+
+18. Supplies of financial services made to a non-resident person are generally zero-rated. However, exceptions apply where a non-resident's transaction involves financial services in respect of property or services in Canada. In such cases, they are supplies of exempt services.
+
+19. For example, where a credit union charges a processing fee to a non-resident for a mortgage loan on real property situated outside Canada, it is a zero-rated supply of a financial service. However, if the mortgage is held on real property in Canada, the financial service is an exempt supply.
+
+20. A credit union may also provide supplies, other than financial services, that are taxable supplies. For example, the following are not supplies of financial services and are subject to the GST/HST at the applicable rate for the province in which the supply is made:
+
+- the rental of a safety deposit box
+
+- the service of providing advice to clients with respect to wills and estate planning
+
+- the sale of repossessed or seized property by the credit union to satisfy a debt
+
+21. [GST/HST Memorandum 17-2, Products and Services of a Deposit-Taking Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-2.html), provides more information on the tax treatment of various supplies normally made by a financial institution.
+
+22. A credit union may, during the course of its business activities, seize or repossess property from a person. Generally, the reason for seizing property is to sell the property to recover the outstanding loan or debt for which the property served as security. Section 183 provides the rules for the treatment of property that is seized or repossessed. For more information, refer to [GST/HST Policy Statement P-102, Seizures and Repossessions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-102.html).
+
+### Financial services in a mixed supply
+
+23. Under section 139, where a supply of one or more financial services together with other property (excluding capital property) or services that are not financial services is made for a single consideration, the supply of each of the property or services is treated as a supply of financial services if all of the following conditions are met:
+
+- The financial services are related to the other property or services
+
+- It is the usual business practice of the supplier to supply those or similar property and services together
+
+- The consideration for the financial services (if supplied separately) would be more than 50% of the consideration for all of the property or services if they had been supplied separately
+
+A credit union charges an account holder a single service charge for personalized cheques (a non-financial service) and a range of financial services. The consideration for the financial services included in the mixed supply is more than 50% of the total service charge.
+
+Since the consideration for the financial services is more than 50% of the service charge, the supply of each of property and services included in the mixed supply is treated as a supply of financial services. The credit union is not required to identify a separate charge for the provision of the cheques or to collect the GST/HST based on that service charge. The entire supply is an exempt supply of a financial service.
+
+## Transactions between credit unions
+
+24. Many services provided by a provincial central to a credit union are exempt financial services. These include inter-credit union transfers, ATM settlements, and credit card transactions and reports.
+
+25. The supply of support services, such as marketing, training, management consulting, and data processing, by a provincial central to a credit union would normally be a taxable activity. However, such supplies among credit unions are deemed to be supplies of exempt financial services under subsection 150(6).
+
+### Credit unions are deemed to have elected
+
+26. [GST/HST Memorandum 17-14, Election to Deem Supplies to be Financial Services and Related Election for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-14.html), explains the effects of making the joint election under subsection 150(1) to have certain taxable intra-group transactions made between members of a closely related group deemed to be supplies of financial services.
+
+27. For purposes of the ETA, all credit unions are deemed to have elected under subsection 150(1). The following deeming provisions in subsection 150(6) apply in respect of credit unions to treat certain taxable supplies as exempt supplies of financial services:
+
+- At all times, every credit union is deemed to be a member of a closely related group of which every other credit union is a member
+
+- Every credit union is deemed to have made an election for exempt supplies under subsection 150(1) with every other credit union that is in effect at all times
+
+- Every supply of tangible personal property made by a credit union, other than capital property of the credit union, to another credit union is deemed to be a supply of a financial service
+
+28. Consequently, credit unions do not have the option of making supplies of property by way of lease, licence, or similar arrangement, or of a service (to which section 150 applies) to each other on a taxable basis.
+
+## Registration
+
+29. In general, the majority of supplies made by a credit union are exempt from the GST/HST. However, a credit union that makes a taxable supply in Canada in the course of a commercial activity in Canada is required, under subsection 240(1), to register for GST/HST purposes unless the credit union is a small supplier. For more information on small suppliers, refer to [GST/HST Memorandum 2-2, Small suppliers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/2-2.html).
+
+30. Under paragraph 240(3)(c), a listed financial institution, such as a credit union, that is resident in Canada may apply to be registered for GST/HST purposes even if it is not making any taxable supplies.
+
+31. For more information on GST/HST registration for listed financial institutions, refer to [GST/HST Memorandum 17-6-2, GST/HST Registration and Reporting Requirements for Listed Financial Institutions, Including Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6-1.html).
+
+## Reporting requirements
+
+32. A credit union may have to file GST/HST returns and an annual information return. The forms used will depend on whether the credit union is an SLFI and whether it is a registrant for GST/HST or QST purposes, or both. Also, the requirement to file an annual information return depends on meeting certain criteria.
+
+33. A credit union that operates in a participating province may be considered an SLFI if it has a permanent establishment in a participating province and a permanent establishment in any other province, at any time in the taxation year. For detailed information on determining whether a listed financial institution is an SLFI, refer to [GST/HST Memorandum 17-6-1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6-1.html).
+
+34. A financial institution, including a credit union, that is a registrant and has annual income over $2 million is generally required to file [Form GST111, Financial Institution GST/HST Annual Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst111.html), in addition to its regular GST/HST return. For more information, refer to [Guide RC4419, Financial Institution GST/HST Annual Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4419.html).
+
+35. Generally, GST/HST registrants are eligible to claim an input tax credit (ITC) for the GST/HST paid or payable on property or a service to the extent it was acquired, imported, or brought into a participating province for consumption, use, or supply in the course of the registrant's commercial activities (that is, for the purpose of making taxable supplies for consideration). Registrants, such as credit unions, that make exempt supplies of financial services are generally not eligible to claim an ITC for the GST/HST paid or payable on property or a service to the extent that the property or service was acquired, imported, or brought into a participating province to make exempt supplies of financial services. Where property or a service is for consumption, use, or supply partly to make taxable supplies for consideration in the course of a person's commercial activities and partly for other purposes, such as making exempt supplies of financial services, the person must allocate the GST/HST paid or payable on the property or service between these activities.
+
+36. Financial institutions are also subject to section 141.02, which provides for special ITC allocation methods that are applicable to financial institutions. For further information, refer to [GST/HST Memorandum 17-12, Input Tax Credit Allocation Methods for Financial Institutions for Purposes of Section 141.02](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-12.html).
+
+37. Additional information regarding the rules that apply to listed financial institutions and SLFIs is available in the following publications:
+
+- [GST/HST Memorandum 17-6-2](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6-2.html)
+
+- [Guide RC4050](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4050.html)
+
+- [Guide RC4419](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4419.html)
+
+- [Guide RC7219, GST/HST and QST Annual Information Return for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc7219.html)
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries**, call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1-800-567-4692** or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution** (whether or not you are located in Quebec) and require information on the **GST/HST** or the **QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for **general GST/HST** or **QST enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **technical GST/HST** or **QST enquiries**, call **GST/HST Rulings SLFI** at **1-855-666-5166**

@@ -1,0 +1,53 @@
+Title: Revision of Capital Cost Allowance Claims and Other Permissive Deductions
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic84-1/revision-capital-cost-allowance-claims-other-permissive-deductions.html
+Corpus path: corpus/cra/tax/technical-information/income-tax/current-publications/information-circulars/publications/ic84-1/revision-capital-cost-allowance-claims-other-permissive-deductions.md
+Document type: technical_publication
+Last modified: 2017-11-07
+
+# Revision of Capital Cost Allowance Claims and Other Permissive Deductions
+
+IC
+
+REVISION OF CAPITAL COST ALLOWANCE CLAIMS AND OTHER PERMISSIVE DEDUCTIONS
+
+84-1 July 9, 1984
+
+The guidelines in cancelled IT-112R are now incorporated in this Information Circular. There has been no change in the Department's practice set out in cancelled IT-112R in respect to claims for capital cost allowance or other permissive deductions. The practice is continued without interruption.
+
+1. From time to time, the Department receives requests from taxpayers to permit a revision of capital cost allowance claims for previous taxation years. As well, the situation often arises where a revision results from a reassessment by the Department. The following comments outline the types of revisions that generally occur and the circumstances under which requests for a revision will be accepted by the Department. These comments apply equally to other permissive deductions, such as special mortgage reserves calculated under section 33, scientific research expenditures of a capital nature calculated under paragraph 37(1)(b), or taxable capital gains reserves calculated under subparagraph 40(1)(a)(iii).
+
+2. A reference to the words "reassessment of tax" or "taxes payable" in this circular includes, in the case of a self-employed individual, a reference to contributions required under the Canada Pension Plan Act.
+
+3. Under paragraph 20(1)(a) of the Income Tax Act a taxpayer has the right to deduct, in computing income for tax purposes, such amounts of capital cost allowance (up to the maximum allowed by regulation) as are desired. Any revision to an amount previously deducted, which the Department may make, as described in 4, 5, 6, 8, 9 and 10 below, will not be made unless the taxpayer makes the request in writing.
+
+Reassessments
+
+4. Where a taxpayer has charged to expense in a year the cost of property which should have been capitalized, that expense will be disallowed to the taxpayer by virtue of paragraph 18(1)(b). In such cases the taxpayer will be allowed, if so desired, to make a revised capital cost allowance claim for the year in order to claim capital cost allowance on the cost of the property that should have been capitalized.
+
+5. Where an upward reassessment of tax is made in a year through adjustments other than those outlined in 4 above, and a taxpayer has not claimed maximum capital cost allowances in all classes in that year, the taxpayer will be advised of the circumstances and allowed, if so desired, to make a revised claim for that year.
+
+6. Where a taxpayer has claimed more capital cost allowance than is permissible for one class of property and less than the maximum allowed for another class, the Department would ordinarily be required to reassess tax on the excess allowance claimed over the maximum for the former class. In these circumstances the taxpayer will be allowed, if so desired, to have some part of the excessive allowance transferred to the latter class.
+
+Errors in classification
+
+7. Where there is a misclassification of depreciable property by a taxpayer, revision of the capital cost allowance schedules will ordinarily be made for all years that can be reassessed within the limitations imposed by subsection 152(4). It should be noted, however, that where depreciable property has been misclassified by a taxpayer or should have, but has not, been reclassified by a taxpayer pursuant to a change in the Act or Regulations, and an allowance in respect of the capital cost of that property has been claimed and allowed under the incorrect class, subsection 13(6) provides that the Minister of National Revenue may direct that, for years prior to the year specified in the direction, the misclassified property be deemed to have been property of the class in which it was originally classified, and then be deemed to have been transferred to its proper class at the beginning of the specified year. Subsection 13(5) sets out the mechanics under which transfers of misclassified property are dealt with in such circumstances and is explained in detail in Interpretation Bulletin IT-190R, "Capital Cost Allowance - Transferred and Misclassified Property."
+
+Property subject to "certification"
+
+8. A taxpayer may acquire depreciable property of one class which after "certification" or "acceptance" by a designated Minister or other body then qualifies for inclusion in another class providing for a faster write-off. For example, a motion picture film otherwise property of class 10(q) becomes property of class 12(n) after certification as a certified feature film. Where this is the case and the taxpayer's year-end intervenes between the date of acquisition of the property and the date "certification" or "acceptance" in respect of that property is given, it is the Department's policy to allow the taxpayer, after the date of certification or acceptance, to treat the property as property of the class providing for the faster write-off, effective from the date of acquisition. The taxpayer may then make revised claims for additional capital cost allowance for all prior taxation years affected that are not statute barred to reassessment, unless the comments in 10 below with regard to statute-barred years apply.
+
+Revisions requested in taxable years
+
+9. If a taxpayer requests a revision of capital cost allowance claimed in a year that was assessable to tax, such requests will be acceded to only if the time has not expired for filing a notice of objection in respect of that year (i.e. 90 days from the day of mailing of the notice of assessment or reassessment for that year) unless the comments in 8 above apply. If, however, circumstances are such that the request for revision of capital cost allowance claimed in a year accompanies a request for an offsetting change in some other "permissive" deduction, the result of which is that no change occurs in the assessed tax for that year (or any other year for which the 90 day time-limit has expired), such requests will ordinarily be acceded to.
+
+Revisions requested in non-taxable years
+
+10. Where a taxpayer requests a revision of capital cost allowance claimed in a taxation year for which a notification that no tax is payable had been issued (e.g. because of a non-capital loss in that year, the application of a non-capital loss of another year, or the fact that income was exempt from tax in that year), such request will be allowed provided there is no change in the tax payable for the year or any other year filed, including one that is statute barred, for which the time has expired for filing a notice of objection. Such request will not be allowed, however, where after February 24, 1977 the Minister has issued a notice of determination pursuant to subsection 152(1.1). A taxpayer who wishes to revise the capital cost allowance in a year for which a notice of determination has been issued should do so within 90 days from the day of mailing the notice of determination for that year.
+
+Requests for revision
+
+11. Where a taxpayer wishes to request a revision of prior years' capital cost allowance claims within the limits described above, a letter should be forwarded to the director of the district taxation office in which the taxpayer files income tax returns. This letter should set out the pertinent information concerning the requested revisions along with amended capital cost allowance schedules and any other schedules which are affected by the revision.
+
+Future position of the department
+
+12. In view of the changes to the Income Tax Act by S.C. 1983-84, Chapter 1, the Department will be reviewing the above positions and may announce changes at a later date.

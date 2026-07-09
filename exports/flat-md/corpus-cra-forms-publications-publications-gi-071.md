@@ -1,0 +1,12 @@
+---
+title: "GI-071 CANCELLED Ontario and British Columbia: Transition to the Harmonized Sales Tax - Tour Packages"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-071.html
+last_modified: 2010-05-05
+---
+# GI-071 CANCELLED Ontario and British Columbia: Transition to the Harmonized Sales Tax - Tour Packages
+
+## This publication was cancelled
+
+This publication was cancelled as of 2025-11-12.
+
+This info sheet explains how to calculate the goods and services tax (GST) and the HST on a tour package sold on or after May 1, 2010 and before July 2010 where elements of the package are supplied during the period that includes the July 1, 2010 implementation date of the HST in Ontario and British Columbia.

@@ -1,0 +1,62 @@
+---
+title: "General Anti-Avoidance Rule"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic88-2s1/general-anti-avoidance-rule.html
+last_modified: 2017-11-07
+---
+# General Anti-Avoidance Rule
+
+NO.: **88-2** SUPPLEMENT 1
+
+DATE: July 13, 1990
+
+SUBJECT: **General Anti-Avoidance Rule**
+
+1. The purpose of this Supplement to Information Circular 88-2 is to provide further guidance with respect to the application of the general anti-avoidance rule, section 245 of the Income Tax Act (the Act).
+
+2. The transactions described in the examples are assumed to comply with the relevant provisions of the Act and not to be subject to any other anti-avoidance rule. They are also assumed for the purposes of this supplement to have been undertaken primarily to obtain a tax benefit and they are, for that reason, avoidance transactions. Therefore, the issue to be determined is whether they would be regarded as a misuse of a provision of the Act or an abuse having regard to the Act read as a whole.
+
+EXAMPLES 3. Crystallizing Capital Gains Deduction
+
+Facts An individual owns shares of a corporation that are qualified small business corporation shares as defined in subsection 110.6(1) of the Act. The shareholder has started the procedures required to list the shares of the corporation on a prescribed stock exchange in Canada. In order to take advantage of the capital gains deduction under subsection 110.6(2.1) of the Act before the shares cease to be qualified small business corporation shares, the individual sells the shares to a related corporation in consideration for shares and elects an amount under subsection 85(1) of the Act that will permit the individual to take the maximum capital gains deduction.
+
+Interpretation The capital gains deduction under subsection 110.6(2.1) of the Act is available in respect of the disposition of a share that at the time of disposition was a qualified small business corporation share. It is not restricted to gains resulting from arm's length dispositions of such shares. Accordingly, the sale of shares to the related corporation would not be viewed as an abuse of the Act read as a whole.
+
+For another example of Crystallization of the Capital Gains Deduction see the comments relating to "Small Business Corporation Shares" in Revenue Canada Round Table in Report of Proceedings of Fortieth Tax Conference, 1988 Conference Report 53:7, "GAAR and QSBC Shares" at 53:9.
+
+4. Purchase by Newco of Qualified Small Business Corporation Shares
+
+Facts X and Y are Canadian resident individuals who deal at arm's length and each owns 50 percent of the shares of Opco. These shares are qualified small business corporation shares as defined in subsection 110.6(1) of the Act. X wants to acquire the shares of Opco owned by Y. X incorporates X Co., a taxable Canadian corporation, which borrows monies and purchases all of Y's shares of Opco for cash. X Co. and Opco merge. Y claims a capital gains deduction under subsection 110.6(2.1) of the Act in respect of the gain realized on the sale of the Opco shares.
+
+Interpretation Section 84.1 of the Act describes the circumstances in which consideration received by a taxpayer on a sale of shares to a corporation should be accounted for as a dividend. It does not deem the purchasing corporation to pay a dividend to the selling shareholder where the purchaser and the seller deal at arm's length. Since Y and X Co. deal at arm's length, the sale of shares is not affected by section 84.1 of the Act. As indicated in paragraph 20 of Information Circular 88-2, the borrowing by X Co., the purchase of shares by X Co. and the merger of X Co. and Opco are not abusive. In these circumstances, the sale to X Co. will not be an abuse of the Act read as a whole.
+
+5. Consolidation of Profits and Losses in a Corporate Group
+
+Facts Profitco and Lossco are taxable Canadian corporations. Lossco is a wholly-owned subsidiary of Profitco. Lossco has non-capital losses that would be deductible if Lossco had income. In order to generate income in Lossco from which its non-capital losses may be deducted, Profitco borrows from its bank and uses the monies to subscribe for common shares of Lossco. Lossco lends these monies to Profitco at a commercial rate of interest. Profitco repays the bank. The amount of share subscription is not in excess of the amount of monies that Lossco could reasonably be expected to be able to borrow for use in its business on the basis solely of its credit from an arm's length lender.
+
+Interpretation The Explanatory Notes to Draft Legislation and Regulations Relating to Income Tax Reform issued by the Minister of Finance in June 1988 state that the transfer of income between related corporations that is accomplished using transactions that are legally effective would not usually result in a misuse of the provisions of the Act or an abuse of the Act read as a whole. The transactions between Profitco and Lossco, which are related corporations, would not therefore be considered an abuse of the Act read as a whole. This interpretation does not address the deductibility of interest payable by Profitco to its bank or to Lossco. Such interest will be deductible pursuant to paragraph 20(1)(c) of the Act provided that Profitco acquires the shares of Lossco for the purpose of earning income from the shares.
+
+6. Debtor's Gain on Settlement of Debts
+
+Facts Purchaseco intends to purchase all the shares and debt of Lossco from their present owners and then amalgamate with Lossco. Purchaseco deals at arm's length with each of the present owners. Lossco's debt is owed to its bank. Lossco has non-capital losses that will be deductible by the corporation resulting from the amalgamation. The fair market value of the debt of Lossco, which will be its cost amount to Purchaseco, is less than its principal amount. In order to avoid the application of subsection 80(2) to the settlement of the debt that would otherwise occur on the amalgamation of Purchaseco and Lossco, Purchaseco incorporates a subsidiary, Subco, that purchases the Lossco debt from the bank at its fair market value. Purchaseco buys the Lossco shares and amalgamates with Lossco which becomes Amalco. Subco will continue to hold the debt of Amalco and does not intend to enforce the debt.
+
+Interpretation Subsection 80(2) of the Act contemplates that section 80 should apply where a debt with a cost amount that is less than its principal amount is extinguished on an amalgamation. The holding of the debt is equivalent to an extinguishment of the debt since the subsidiary of Amalco does not intend to seek repayment of the debt. Therefore, the acquisition of the debt by Subco would constitute an abuse of the Act read as a whole.
+
+For another example of Debtors' Gain on Settlement of Debts see paragraph 23 of Information Circular 88-2 dated October 21, 1988.
+
+7. Avoidance of Capital Gain by Non-Resident corporation on Sale of Shares of Canadian Subsidiary
+
+Facts USco, a corporation resident in the United States and not resident in Canada, owns all the shares of a taxable Canadian corporation, Opco, upon which there is an accrued gain. The value of the Opco shares is derived principally from real property situated in Canada. USco has agreed to sell the Opco shares to an arm's length purchaser, Purchaseco. To reduce the gain that it would otherwise realize on the sale of the Opco shares, USco causes Opco to pay to USco a dividend in an amount equal to the income earned and retained by Opco since USco acquired the Opco shares and sells the Opco shares to Purchaseco.
+
+Interpretation USco is entitled to reduce the fair market value of the Opco shares by the amount of the income earned by Opco since USco acquired the shares of Opco. As the dividend paid does not exceed this amount and USco is subject to income tax of 10 percent of the dividend paid pursuant to subsection 212(2) of the Act and paragraph 2 of Article X of the Canada-U.S. Tax Convention (1980), the payment of the dividend would not be an abuse of the Act read as a whole.
+
+8. Increase of Cost of Property Acquired on a Winding-Up of a Corporation
+
+Facts Canco operates three businesses, A, B and C, and owns investment property. Purchaseco intends to purchase all the shares of Canco, wind it up and dispose of business A and B. Prior to this purchase, Canco transfers all of the property used in business A and B to wholly-owned subsidiaries X and Y, respectively, and elects pursuant to subsection 85(1) of the Act in respect of the transfers. Purchaseco buys all the shares of Canco and winds up Canco and designates an amount, pursuant to paragraph 88(1)(d) of the Act, to increase the adjusted cost base of the shares of the subsidiaries X and Y. Purchaseco sells the shares of X and Y to different arm's length parties.
+
+Interpretation The shares of the subsidiaries issued in consideration for the property comprising businesses A and B are deemed by section 54.2 of the Act to be capital property of Canco. Paragraph 88(1)(d) of the Act provides that the cost to a parent of a capital property owned by a subsidiary may be increased in certain circumstances. The rules of this paragraph apply to a property of a subsidiary that is deemed to be a capital property as well as one that is in fact a capital property. Since the transactions described are consistent with the intention of section 54.2 and paragraph 88(1)(d) of the Act, the transfers by Canco of business A to X and business B to Y would not be an abuse of the Act read as a whole.
+
+9. Shift of Paid-Up Capital to Preferred Shares Created on an Amalgamation to give Capital Gains to Preferred Shareholder on Redemption
+
+Facts Ninety percent of the common shares of Opco are owned by Holdco and ten percent are widely held by individuals. Holdco and Opco will merge in a manner described in subsection 87(1) of the Act. On the merger, each individual shareholder of Opco will receive, in exchange for each common share owned, a redeemable preferred share of Amalco having paid-up capital and redemption amount equal to the fair market value of the common share immediately before the amalgamation. The paid-up capital of the Amalco shares issued on the amalgamation will not exceed the paid-up capital, immediately before the amalgamation, of the shares of Opco owned by the individuals and the shares of Holdco. The preferred shares of Amalco are redeemed and the shareholders include the redemption proceeds as proceeds of disposition of their preferred shares.
+
+Interpretation Section 84.1 of the Act indicates the circumstances in which a taxpayer who disposes of shares to a corporation should account for the proceeds of disposition as a dividend. Individuals who deal at arm's length with the acquiring corporation are not required to account for their proceeds of disposition as a dividend. If the individuals had sold their Opco shares to Holdco, section 84.1 would not have deemed Holdco to pay a dividend. The disposition of the redeemable preferred shares to Amalco is similar to a disposition to Holdco. Since the holders of the redeemable preferred shares will dispose of such shares to an arm's length person, Amalco, the issue of high paid-up capital redeemable preferred shares would not be an abuse of the Act read as a whole.

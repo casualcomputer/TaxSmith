@@ -1,0 +1,12 @@
+---
+title: "EDN30 CANCELLED Tobacco Marking Requirements under the Amended Stamping and Marking of Tobacco Products Regulations"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edn30.html
+last_modified: 2011-06-27
+---
+# EDN30 CANCELLED Tobacco Marking Requirements under the Amended Stamping and Marking of Tobacco Products Regulations
+
+## This publication was cancelled
+
+This publication was cancelled as of 2026-04-15 and replaced with [EDN30 Tobacco marking requirements under the amended Stamping and Marking of Tobacco Products Regulations](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-notices/edn30-tobacco-marking-requirements-under-amended-stamping-marking-tobacco-products-regulations.html).
+
+The purpose of this notice is to provide clarification regarding the tobacco marking requirements under the amended Stamping and Marking of Tobacco Products Regulations (SOR/2003-288).

@@ -1,0 +1,13 @@
+Title: Seniors
+Source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/videos-about-underground-economy/transcript-seniors.html
+Corpus path: corpus/cra/multimedia/individuals-video-gallery/videos-about-underground-economy/transcript-seniors.md
+Document type: video_transcript
+Last modified: 2018-01-26
+
+# Seniors
+
+## Transcript
+Retirement is no time to face the legal and financial nightmare of a home renovation gone wrong.
+That's why informed seniors protect themselves against the risks of under-the-table cash contractors.
+Honest contractors don't cheat, and honesty begins with a clear contract that protects you financially and legally.
+So check out Get It In Writing and learn how to hire a contractor the safe way.

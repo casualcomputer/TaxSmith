@@ -1,0 +1,2106 @@
+---
+title: "Farming Income and the AgriStability and AgriInvest Programs Harmonized Guide – Inventory code list"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-14.html
+last_modified: 2026-04-17
+---
+# Farming Income and the AgriStability and AgriInvest Programs Harmonized Guide – Inventory code list
+
+## On this page…
+
+- [Edible horticulture](#p14d10)
+
+- [Forage](#p14d15)
+
+- [Forage seed](#p14d20)
+
+- [Grains and oilseeds](#p14d25)
+
+- [Inedible horticulture](#p14d30)
+
+- [Bees and bee by products](#p14d35)
+
+- [Bison](#p14d40)
+
+- [Cattle](#p14d45)
+
+- [Dairy](#p14d50)
+
+- [Goats](#p14d55)
+
+- [Horses](#p14d60)
+
+- [Other livestock](#p14d65)
+
+- [Poultry](#p14d70)
+
+- [Ratites](#p14d75)
+
+- [Sheep](#p14d80)
+
+- [Swine](#p14d85)
+
+To find the code for your commodity, locate the name of your commodity and look under the column for your province.
+
+- If the box is blank, the code cannot be used in your province.
+
+- If the box is marked with an X, use this code on your form. The Administration will assign a price for the commodity. You can submit your own price for this commodity only if you meet the criteria outlined in this guide.
+
+- If the box is shaded, use this code on your form. You must provide your own price for this commodity. For more information, refer to the guide.
+
+## Edible horticulture
+
+| Description | Code | BC | MB | NB | NL | NS | NT | YT |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Anise | 6850 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Apples | 5030 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Apples, organic | 5031 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Apricots | 5032 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Artichokes | 5034 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Arugula | 6851 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Asparagus | 6998 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Basil | 6852 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Bean, lima | 6978 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Bean, mung | 6980 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, broad | 6972 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, green | 6974 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, green, organic | 6975 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, Jacob | 6976 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, snap | 6982 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, snap, fresh | 6983 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, soldier | 6984 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, wax | 6986 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beets | 7000 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Blackberries | 5000 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Blueberries, highbush (non-bearing year) | 5060 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Blueberries, highbush (planting year) | 5059 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Blueberries, highbush (years 1 to 2 of production) | 5061 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Blueberries, highbush (years 3 to 6 of production) | 5062 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Blueberries, highbush (years 7 to 9 of production) | 5063 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Blueberries, highbush (years 10+ of production) | 5064 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Blueberries, lowbush | 5004 | shaded: use the code Y | shaded: use the code Y | blank: code not used | shaded: use the code Y | blank: code not used | shaded: use the code Y | shaded: use the code Y |
+
+| Blueberries, lowbush (burn/sprout/mow) | 5099 | blank: code not used | blank: code not used | shaded: use the code Y | blank: code not used | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Blueberries, lowbush (establishment stage) | 5095 | blank: code not used | blank: code not used | shaded: use the code Y | blank: code not used | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Blueberries, lowbush (mature/full production) | 5098 | blank: code not used | blank: code not used | shaded: use the code Y | blank: code not used | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Blueberries, lowbush (primary production – 1st and 2nd harvest crop) | 5096 | blank: code not used | blank: code not used | shaded: use the code Y | blank: code not used | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Blueberries, lowbush (secondary production – 3rd and 4th harvest crop) | 5097 | blank: code not used | blank: code not used | shaded: use the code Y | blank: code not used | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Bok choi | 7002 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Borage | 6854 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Broccoflower | 7004 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Broccoli | 7006 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Brussels sprouts | 7008 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Cabbage | 7010 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Cabbage, Chinese | 7012 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Cantaloupes | 5036 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Carrots | 7014 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Carrots, organic | 7015 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Cauliflower | 7016 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Celery | 7018 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Cherries, sour | 5038 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Cherries, sweet | 5040 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chervil | 6855 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chives | 6856 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Cilantro | 6858 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Collards | 7020 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Comfrey | 6860 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Coriander | 6862 | shaded: use the code Y | shaded: use the code | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Corn, sweet | 7022 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Cranberries | 5006 | blank: code not used | shaded: use the code Y | blank: code not used | shaded: use the code Y | blank: code not used | shaded: use the code Y | shaded: use the code Y |
+
+| Cranberries (establishment stage) | 4990 | shaded: use the code Y | blank: code not used | shaded: use the code Y | blank: code not used | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Cranberries, 1st year of production | 4991 | shaded: use the code Y | blank: code not used | shaded: use the code Y | blank: code not used | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Cranberries, 2nd year of production | 4992 | shaded: use the code Y | blank: code not used | shaded: use the code Y | blank: code not used | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Cranberries, 3rd year of production | 4993 | shaded: use the code Y | blank: code not used | shaded: use the code Y | blank: code not used | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Cranberries, 4+ years of production | 4994 | shaded: use the code Y | blank: code not used | shaded: use the code Y | blank: code not used | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Cucumbers | 7024 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Cucumbers, English | 7026 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Cucumbers, greenhouse | 7028 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Cumin | 6864 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Currants, black | 5007 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Currants, red | 5009 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dill | 6866 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Echinacea, establishment | 6869 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Echinacea, root harvested | 6867 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Edible flowers | 7035 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Eggplant | 7030 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Eggplant, greenhouse | 7031 | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Elderberries | 5010 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Endive | 7032 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Evening primrose | 6870 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Fennel | 6872 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Fenugreek | 6874 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Fiddle heads | 7034 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Fireweed | 6876 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Garlic | 7036 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Garlic, organic | 7037 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Gherkins | 7038 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Gingko biloba | 6893 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Ginseng, establishment stage | 6879 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Ginseng, root harvested | 6877 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Gooseberries | 5012 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Gourds | 7069 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grapefruit | 5042 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grapes (non-bearing year) | 4996 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grapes (planting year) | 4995 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grapes (year 1 of production) | 4997 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grapes (year 2+ of production) | 4998 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Haskap | 5021 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hazelnuts | 7039 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hops establishment (planting year 1) | 4780 | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Hops, year 2 | 4781 | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Hops, year 3 | 4782 | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Hops, year 4+ | 4783 | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Horseradish, condiment | 7040 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Horseradish, enzyme | 7042 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Kale, organic | 7099 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Kenaf | 6920 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Kiwi fruit | 5044 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Kohlrabi | 7044 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Lavender | 6883 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Leeks | 7046 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Leeks, organic | 7047 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Lemon balm | 6881 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Lemons | 5046 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Lettuce | 7048 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Lettuce, greenhouse | 7050 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Lettuce, organic | 7049 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Lettuce, romaine | 7052 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Loganberries | 5016 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Maple syrup | 6930 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Maple syrup, vacuum | 6931 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Marjoram | 6880 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Melons | 7054 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Mint | 6882 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Monarda | 6884 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Mushrooms, brown | 6928 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Mushrooms, white | 6929 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Mustard leaves | 6934 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Nectarines | 5048 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Oilseed, radish | 6936 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Okra | 6922 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Onions | 7056 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Onions, organic | 7057 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Oranges | 5050 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Oregano | 6886 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Parsley | 6888 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Parsnips | 7058 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Peaches | 5052 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Pears | 5054 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Peas, green, fresh | 7060 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Peas, sweet | 7062 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Peppers, green | 7064 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Peppers, greenhouse | 7066 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Plums | 5056 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Potatoes, elite 1 | 7204 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Potatoes, elite 2 | 7206 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Potatoes, mini-tuber | 7200 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Potatoes, organic | 6991 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Potatoes, pre-elite | 7202 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Potatoes, processing | 6990 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Potatoes, seed | 6992 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Potatoes, sweet | 6994 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Potatoes, table | 6996 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Prunes | 5058 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Pumpkin | 7068 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Radish | 7070 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Radish seed, fodder | 6938 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Radish seed, organic | 6940 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Raspberries | 5018 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rhubarb | 7072 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rice, wild | 6933 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rosemary | 6892 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rutabagas | 7074 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sage | 6894 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Salsify | 7076 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Saskatoon berries | 5020 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Scorzonera | 7078 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sea buckthorn, berries | 5022 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sea buckthorn, leaves | 6988 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Shallots | 7080 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Spinach | 7082 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Spinach, organic | 7083 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Squash | 7084 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| St. John's wort | 6896 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Stevia | 6898 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Strawberries | 5024 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sugar beets | 6946 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Summer savory | 6900 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Swiss chard | 7086 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Swiss chard, organic | 7087 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Tarragon | 6902 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Thyme | 6903 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Tobacco | 6948 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Tomatoes | 7088 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Tomatoes, cherry, greenhouse | 7090 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Tomatoes, greenhouse | 7092 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Turnips | 7094 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Walnuts | 7097 | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Watercress | 6904 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Watermelon | 7096 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Wine (bottled) | 5066 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Wine (bulk/pre-bottled) | 5067 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Zucchini | 7098 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+## Forage
+
+| Description | Code | BC | MB | NB | NL | NS | NT | YT |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Alfalfa, dehy | 5560 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Greenfeed | 5562 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hay, alfalfa | 5564 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hay, alfalfa, organic | 5566 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hay, alfalfa/brome | 5568 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hay, alfalfa/grass | 5570 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hay, clover | 5572 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hay, grass | 5574 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hay, other | 5576 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hay, slough | 5578 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hay, timothy | 5579 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Haylage | 5580 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Millet | 5582 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Silage | 5584 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Silage, corn | 5583 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Straw | 5586 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Swath grazing | 5588 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+## Forage seed
+
+| Description | Code | BC | MB | NB | NL | NS | NT | YT |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Alfalfa, common seed | 5600 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Alfalfa, organic, seed | 5603 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Alfalfa, pedigreed seed | 5602 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Bentgrass, common seed | 5604 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Bentgrass, pedigreed seed | 5606 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Birdsfoot trefoil, common seed | 5608 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Birdsfoot trefoil, pedigreed seed | 5610 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Black medic | 5736 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Blue grama, common seed | 5612 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Blue grama, pedigreed seed | 5614 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Bromes, meadow, common seed | 5724 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Bromes, meadow, pedigreed seed | 5726 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Bromes, smooth, common seed | 5723 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Bromes, smooth, pedigreed seed | 5725 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chickling vetch, seed | 5729 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Clover, alsike, common seed | 5620 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Clover, alsike, pedigreed seed | 5622 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Clover, kura, common seed | 5624 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Clover, kura, pedigreed seed | 5626 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Clover, organic, seed | 5619 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Clover, other, common seed | 5628 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Clover, red, common seed, double cut | 5732 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Clover, red, common seed, single cut | 5731 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Clover, red, pedigreed seed, double cut | 5734 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Clover, red, pedigreed seed, single cut | 5733 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Clover, sweet, common seed | 5636 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Clover, sweet, pedigreed seed | 5638 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Fescue, meadow, common seed | 5640 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Fescue, meadow, pedigreed seed | 5642 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Fescue, red, creeping, common seed | 5727 | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Fescue, red, creeping, pedigreed seed | 5728 | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Fescue, tall, forage, common seed | 5644 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Fescue, tall, forage, pedigreed seed | 5646 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Fescue, tall, turf, common seed | 5648 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Fescue, tall, turf, pedigreed seed | 5650 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Fescues, other, common seed | 5652 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, fowl blue | 5671 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, green needle, common seed | 5656 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, green needle, pedigreed seed | 5658 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, Indian, common seed | 5660 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, Indian, pedigreed seed | 5662 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, June, common seed | 5664 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, June, pedigreed seed | 5666 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, Kentucky blue, common seed | 5668 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, Kentucky blue, pedigreed seed | 5670 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, orchard, common seed | 5672 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, orchard, pedigreed seed | 5674 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, other, common seed | 5676 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, reed canary, common seed | 5680 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, reed canary, pedigreed seed | 5682 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, switch, common seed | 5684 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, switch, pedigree seed | 5686 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, tufted hair, common seed | 5688 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, tufted hair, pedigreed seed | 5690 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, wheat, crested, common seed | 5692 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, wheat, crested, pedigreed seed | 5596 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, wheat, intermediate common seed | 5593 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, wheat, intermediate pedigreed seed | 5597 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, wheat, pubescent common seed | 5595 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, wheat, pubescent pedigreed seed | 5599 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, wheat, slender common seed | 5594 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Grass, wheat, slender pedigreed seed | 5598 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Milkvetch, American | 5699 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Milkvetch, Canada | 5697 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Milkvetch, common seed | 5696 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Milkvetch, pedigreed seed | 5698 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Millet, common seed | 5700 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Millet, pedigreed seed | 5702 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Native wheatgrass, northern | 5693 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Native wheatgrass, streambank | 5695 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Native wheatgrass, western | 5691 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Native, bluestem, big | 5683 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Native, bluestem, little | 5685 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Native, needle and thread | 5659 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Native, prairie cordgrass | 5689 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Native, prairie sandreed | 5687 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Native, sideoats grama | 5615 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Niger thistle | 5742 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Ryegrass, annual, common seed | 5704 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Ryegrass, annual, pedigreed seed | 5706 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Ryegrass, native, Canadian wild | 5709 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Ryegrass, perennial, common seed | 5708 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Ryegrass, perennial, pedigreed seed | 5714 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sainfoin, common seed | 5716 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sainfoin, pedigreed seed | 5718 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sloughgrass, American | 5730 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Timothy, common seed | 5720 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Timothy, pedigreed seed | 5722 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+## Grains and oilseeds
+
+| Description | Code | BC | MB | NB | NL | NS | NT | YT |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Barley | 5100 | shaded: use the code Y | blank: code not used | shaded: use the codeX | shaded: use the code Y | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y |
+
+| Barley, CW select six-row | 5233 | shaded: use the codeX | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Barley, CW select two-row | 5238 | shaded: use the codeX | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Barley, feed (>=48 lbs/bu.) | 5101 | blank: code not used | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Barley, feed (42 lbs/bu. to 47 lbs/bu.) | 5102 | blank: code not used | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Barley, feed (off board) | 5195 | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Barley, organic | 5200 | shaded: use the code Y | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Barley, organic six-row | 5205 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Barley, organic six-row, pedigreed | 5206 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Barley, organic two-row | 5210 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Barley, organic two-row, pedigreed | 5211 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Barley, organic, feed | 5204 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Barley, pedigreed seed | 5215 | shaded: use the code Y | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Barley, pedigreed seed six-row | 5220 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Barley, pedigreed seed two-row | 5225 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, adzuki | 6970 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, black | 5368 | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Beans, black, no. 1 | 5370 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, black, no. 2 | 5372 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, black, no. 3 | 5374 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, black, organic | 5369 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, black, pedigreed seed | 5375 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, brown, no. 1 | 5376 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, brown, no. 2 | 5378 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, brown, no. 3 | 5380 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, brown, organic | 5382 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, brown, pedigreed seed | 5384 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, cranberry, no. 1 | 5386 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, cranberry, no. 2 | 5388 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, cranberry, no. 3 | 5390 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, cranberry, organic | 5392 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, cranberry, pedigreed seed | 5394 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, dry, red kidney | 5405 | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Beans, dry, yellow eye | 5468 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, feed | 5446 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, great northern, no. 1 | 5396 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, great northern, no. 2 | 5398 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, great northern, no. 3 | 5400 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, great northern, organic | 5402 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, great northern, pedigreed seed | 5404 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, kidney, dark red, no. 1 | 5406 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, kidney, dark red, no. 2 | 5408 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, kidney, dark red, no. 3 | 5410 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, kidney, dark red, organic | 5412 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, kidney, dark red, pedigreed seed | 5414 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, kidney, light red, no. 1 | 5416 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, kidney, light red, no. 2 | 5418 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, kidney, light red, no. 3 | 5420 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, kidney, light red, organic | 5422 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, kidney, light red, pedigreed seed | 5424 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, pink, no. 1 | 5426 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, pink, no. 2 | 5428 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, pink, no. 3 | 5430 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, pink, organic | 5432 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, pink, pedigreed seed | 5434 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, pinto, no. 1 | 5436 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, pinto, no. 2 | 5438 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, pinto, no. 3 | 5440 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, pinto, organic | 5442 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, pinto, pedigreed seed | 5444 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, small red, no. 1 | 5448 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, small red, no. 2 | 5450 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, small red, no. 3 | 5452 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, small red, organic | 5454 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, small red, pedigreed seed | 5456 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, white pea (navy) | 5457 | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Beans, white pea (navy), no. 1 | 5458 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, white pea (navy), no. 2 | 5460 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, white pea (navy), no. 3 | 5462 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Beans, white peas (navy), organic | 5464 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beans, white peas (navy), pedigreed seed | 5466 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Buckwheat, no. 1 | 5240 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Buckwheat, no. 2 | 5242 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Buckwheat, no. 3 | 5244 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Buckwheat, organic | 5246 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Buckwheat, pedigreed seed | 5248 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Camelina | 5540 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Camelina, organic | 5542 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Camelina, pedigreed seed | 5544 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Canary seed | 5250 | shaded: use the code Y | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Canary seed, organic | 5252 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Canary seed, pedigreed seed | 5254 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Canola, Argentine | 5260 | shaded: use the code Y | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Canola, Argentine, no. 1 | 5262 | shaded: use the codeX | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Canola, Argentine, no. 2 | 5264 | shaded: use the codeX | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Canola, Argentine, no. 3 | 5266 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Canola, Argentine, organic | 5268 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Canola, Argentine, pedigreed seed | 5270 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Canola, Argentine, sample | 5272 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Canola, Polish | 5274 | shaded: use the code Y | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Canola, Polish, no. 1 | 5276 | shaded: use the codeX | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Canola, Polish, no. 2 | 5278 | shaded: use the codeX | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Canola, Polish, no. 3 | 5280 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Canola, Polish, organic | 5282 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Canola, Polish, pedigreed seed | 5284 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Canola, Polish, sample | 5286 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Caraway seed | 5290 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Caraway seed, organic | 5292 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Caraway seed, pedigreed seed | 5294 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chickpeas, desi, no. 1 | 5300 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Chickpeas, desi, no. 2 | 5302 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Chickpeas, desi, no. 3 | 5303 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Chickpeas, desi, organic | 5304 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chickpeas, desi, pedigreed seed | 5306 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chickpeas, feed | 5330 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chickpeas, large kabuli (average), no. 1 | 5310 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Chickpeas, large kabuli (average), no. 2 | 5312 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Chickpeas, large kabuli (average), no. 3 | 5314 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Chickpeas, large kabuli, organic | 5316 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chickpeas, large kabuli, pedigreed seed | 5318 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chickpeas, small kabuli, no. 1 | 5322 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Chickpeas, small kabuli, no. 2 | 5324 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Chickpeas, small kabuli, no. 3 | 5325 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Chickpeas, small kabuli, organic | 5326 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chickpeas, small kabuli, pedigreed seed | 5328 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Corn, grain | 5340 | shaded: use the code Y | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y |
+
+| Corn, grain, organic | 5342 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Corn, grain, pedigreed seed | 5344 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Fababeans, feed | 5360 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Fababeans, no. 1 | 5350 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Fababeans, no. 2 | 5352 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Fababeans, no. 3 | 5354 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Fababeans, organic | 5356 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Fababeans, pedigreed seed | 5358 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Flax | 5550 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Flax, organic | 5552 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Flax, organic, pedigreed seed | 5553 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Flax, pedigreed seed | 5554 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Flax, sample | 5556 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Harvest discount allowance | 6826 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hemp, fiber | 5750 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hemp, grain | 5752 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hemp, pedigreed seed | 5754 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Kamut | 5070 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Kamut, organic | 5072 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Kamut, pedigreed seed | 5074 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Lentils, black, organic | 5822 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, dark green speckled, extra no. 3 | 5760 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, dark green speckled, no. 1 | 5762 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, dark green speckled, no. 2 | 5764 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, dark green speckled, no. 3 | 5766 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, dark green speckled, organic | 5768 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Lentils, dark green speckled, pedigreed | 5770 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Lentils, feed | 5820 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Lentils, large green, extra no. 3 | 5772 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, large green, no. 1 | 5774 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, large green, no. 2 | 5776 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, large green, no. 3 | 5778 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, large green, organic | 5780 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Lentils, large green, pedigreed seed | 5782 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Lentils, medium green, extra no. 3 | 5784 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, medium green, no. 1 | 5786 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, medium green, no. 2 | 5788 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, medium green, no. 3 | 5790 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, medium green, organic | 5792 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Lentils, medium green, pedigreed seed | 5794 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Lentils, organic, pedigreed seed | 5821 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Lentils, red, extra no. 3 | 5796 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, red, no. 1 | 5798 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, red, no. 2 | 5800 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, red, no. 3 | 5802 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, red, organic | 5804 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Lentils, red, pedigreed seed | 5806 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Lentils, small green, extra no. 3 | 5808 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, small green, no. 1 | 5810 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, small green, no. 2 | 5812 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, small green, no. 3 | 5814 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Lentils, small green, organic | 5816 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Lentils, small green, pedigreed seed | 5818 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Linola | 5830 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Linola, organic | 5832 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Linola, pedigreed seed | 5834 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Linola, sample | 5836 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Mixed grain | 5840 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Mixed grain, organic | 5841 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Mustard, brown, no. 1 | 5850 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Mustard, brown, no. 2 | 5852 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Mustard, brown, no. 3 | 5854 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Mustard, brown, no. 4 | 5856 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Mustard, brown, organic | 5858 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Mustard, brown, pedigreed seed | 5860 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Mustard, oriental, no. 1 | 5862 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Mustard, oriental, no. 2 | 5864 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Mustard, oriental, no. 3 | 5866 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Mustard, oriental, no. 4 | 5868 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Mustard, oriental, organic | 5870 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Mustard, oriental, pedigreed seed | 5872 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Mustard, sample | 5874 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Mustard, yellow, no. 1 | 5876 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Mustard, yellow, no. 2 | 5878 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Mustard, yellow, no. 3 | 5880 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Mustard, yellow, no. 4 | 5882 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Mustard, yellow, organic | 5884 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Mustard, yellow, pedigreed seed | 5886 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Niger seed | 5968 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Oats | 5900 | shaded: use the codeX | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y |
+
+| Oats, organic | 5902 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Oats, organic, pedigreed seed | 5903 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Oats, pedigreed seed | 5904 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Oats, sample | 5906 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Peas, dry, feed | 5500 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Peas, dry, feed, organic | 5502 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Peas, dry, food, green, no. 1 | 5504 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Peas, dry, food, green, no. 2 | 5506 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Peas, dry, food, green, organic | 5508 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Peas, dry, food, yellow, no. 1 | 5510 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Peas, dry, food, yellow, no. 2 | 5512 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Peas, dry, food, yellow, organic | 5514 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Peas, dry, maple | 5516 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Peas, dry, marrowfat | 5518 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Peas, dry, pedigreed seed | 5520 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Quinoa | 5076 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Quinoa, organic | 5078 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Quinoa, pedigreed seed | 5080 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rapeseed, high erucic acid | 5259 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rye, fall | 5910 | shaded: use the code Y | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rye, fall, organic | 5912 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rye, fall, pedigreed seed | 5914 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rye, spring | 5916 | shaded: use the code Y | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rye, spring, organic | 5918 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rye, spring, pedigreed seed | 5920 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Safflower, no. 1 | 5930 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Safflower, organic | 5932 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Safflower, pedigreed seed | 5934 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Safflower, sample | 5936 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Screenings, all crops | 5907 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Screenings, all crops, organic | 5908 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Soybeans | 5940 | shaded: use the code Y | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Soybeans, organic | 5942 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Soybeans, pedigreed seed | 5944 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Soybeans, sample | 5946 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Spelt | 5082 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Spelt, organic | 5084 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Spelt, pedigreed seed | 5086 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sunflower, confectionary, birdseed | 5950 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sunflower, confectionary, no. 1 | 5952 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Sunflower, confectionary, no. 2 | 5954 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Sunflower, feed | 5956 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sunflower, organic | 5964 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sunflower, pedigreed seed | 5958 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sunflowers, oilseed, no. 1 | 5960 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Sunflowers, oilseed, no. 2 | 5962 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Sunola | 5970 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sunola, organic | 5972 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sunola, pedigreed seed | 5974 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Triticale | 5980 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Triticale, organic | 5982 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Triticale, pedigreed seed | 5984 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Wheat | 6000 | shaded: use the code Y | blank: code not used | shaded: use the codeX | shaded: use the code Y | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y |
+
+| Wheat, CNHR, no. 1 | 6295 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CNHR, no. 2 & 3 | 6296 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CPS | 6200 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CPS red, organic | 6730 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CPS red, pedigreed seed | 6735 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CPS white, organic | 6740 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CPS white, pedigreed seed | 6745 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CPSR, no. 1 | 6202 | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CPSR, no. 2 | 6204 | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWAD, no. 1 | 6210 | shaded: use the codeX | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWAD, no. 2 | 6212 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWAD, no. 3 | 6215 | shaded: use the code Y | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWAD, no. 4 | 6217 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWAD, organic | 6750 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWAD, pedigreed seed | 6755 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWES | 6225 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWES, organic | 6770 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWES, pedigreed seed | 6775 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWHW, organic | 6810 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWHW, pedigreed seed | 6815 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWHWS, no. 1 | 6235 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWHWS, no. 2 | 6242 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWHWS, no. 3 | 6245 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWRS, no. 1 | 6255 | shaded: use the codeX | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWRS, no. 2 | 6262 | shaded: use the codeX | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWRS, no. 3 | 6270 | shaded: use the codeX | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWRS, no. 4 | 6272 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWRS, organic | 6780 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWRS, organic, pedigreed seed | 6782 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWRS, pedigreed seed | 6785 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWRW | 6275 | blank: code not used | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWRW, no. 1 | 6276 | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWRW, no. 2 | 6277 | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWRW, organic | 6495 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWRW, pedigreed seed | 6500 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWRWS, organic | 6790 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWRWS, pedigreed seed | 6795 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWSP | 6290 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWSWS | 6285 | shaded: use the codeX | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWSWS, organic | 6800 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, CWSWS, pedigreed seed | 6805 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, feed (> = 58 lbs./bu.) | 6001 | blank: code not used | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, feed (52 lbs./bu. to 57 lbs./bu.) | 6002 | blank: code not used | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, feed, organic | 6726 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, non-CWB, feed | 6725 | shaded: use the codeX | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Wheat, organic | 6820 | shaded: use the code Y | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Wheat, pedigreed seed | 6825 | shaded: use the code Y | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+## Inedible horticulture
+
+| Description | Code | BC | MB | NB | NL | NS | NT | YT |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Bedding plants | 6959 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Blackberry plants | 5001 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Blueberry plants | 5005 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Christmas trees, (1st to 2nd years) | 6961 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Christmas trees, (3rd to 5th years) | 6962 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Christmas trees, (6th to 9th years) | 6963 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Christmas trees, (9+ years) | 6964 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Christmas trees, (establishment) | 6960 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Christmas trees, natural stand, harvested | 6966 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Christmas trees, natural stand, pre-harvest | 6965 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Currants, bushes | 5011 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Flowers, fresh cut | 6951 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Flowers, fresh cut, greenhouse | 6949 | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Perennials, 1 gallon, field/container | 7110 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Perennials, 2 gallon, field/container | 7112 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Perennials, 7 gallon, field/container | 7140 | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Perennials, 10 gallon, field/container | 7142 | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Perennials, 15 gallon, field/container | 7144 | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Perennials, 25 gallon, field/container | 7146 | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Perennials, 30 gallon, field/container | 7148 | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Perennials, 1 gallon, indoor | 7106 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Perennials, 2 gallon, indoor | 7108 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Perennials, 2.5 inch | 7103 | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Perennials, 4 inch | 7104 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Perennials, plugs/liners | 7102 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Perennials, potted, indoor | 7130 | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Perennials, potted, outdoor, nursery | 7132 | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Perennials, rootstock, field grown | 7134 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Plants, potted | 7101 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Raspberry plants (canes) | 6957 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rhubarb plants | 7073 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sod, acres growing | 6943 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sod, acres harvested | 6945 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sod, acres harvested (BC Coastal Regions) | 6937 | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used | blank: code not used |
+
+| Sod, acres seeded | 6941 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Strawberry, plants | 6956 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Trees and shrubs, 1 gallon, field/container | 7124 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Trees and shrubs, 2 gallon, field/container | 7126 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Trees and shrubs, 5 gallon, field/container | 7128 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Trees and shrubs, 1 gallon, indoor | 7118 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Trees and shrubs, 2 gallon, indoor | 7120 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Trees and shrubs, 5 gallon, indoor | 7122 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Trees and shrubs, 4 inch | 7116 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Trees and shrubs, ball and burlap, field | 7117 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Trees and shrubs, caliper, field stock | 7129 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Trees and shrubs, high value ball and burlap, field stock | 7115 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Trees and shrubs, plugs/liners | 7114 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+## Bees and bee by products
+
+| Description | Code | BC | MB | NB | NL | NS | NT | YT |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Bees, pollen | 7603 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beeswax | 7600 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Honey | 7604 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Honey bees | 7606 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Honey bees, nuclear colony | 7608 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Honey bees, package | 7610 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Leaf cutter bees | 7616 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+## Bison
+
+| Description | Code | BC | MB | NB | NL | NS | NT | YT |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Bison, breeding, bulls | 7902 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Bison, breeding, cows | 7904 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Bison, calves, bull | 7908 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Bison, calves, heifer | 7910 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Bison, two year old, bulls | 7924 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Bison, two year old, heifers | 7926 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Bison, yearling, bulls | 7928 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Bison, yearling, heifers | 7930 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+## Cattle
+
+| Description | Code | BC | MB | NB | NL | NS | NT | YT |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Beef, breeding, bulls | 8000 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, breeding, cows | 8002 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, calves, birth – 300 lbs | 8007 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, feeder, cows | 8060 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, heifer, feeder, 301 – 400 lbs | 8032 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, heifer, feeder, 401 – 500 lbs | 8036 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, heifer, feeder, 501 – 600 lbs | 8040 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, heifer, feeder, 601 – 700 lbs | 8044 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, heifer, feeder, 701 – 800 lbs | 8048 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, heifer, feeder, 801 – 900 lbs | 8052 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, heifer, feeder, 901 – 1000 lbs | 8056 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, heifer, feeder, 1001 – 1100 lbs | 8014 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, heifer, feeder, 1101 – 1200 lbs | 8018 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, heifer, feeder, 1201 – 1300 lbs | 8022 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, heifer, feeder, 1301 + lbs | 8028 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, replacement heifers (bred animals) | 8062 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, steer, feeder, 301 – 400 lbs | 8034 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, steer, feeder, 401 – 500 lbs | 8038 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, steer, feeder, 501 – 600 lbs | 8042 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, steer, feeder, 601 – 700 lbs | 8046 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, steer, feeder, 701 – 800 lbs | 8050 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, steer, feeder, 801 – 900 lbs | 8054 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, steer, feeder, 901 – 1000 lbs | 8058 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, steer, feeder, 1001 – 1100 lbs | 8016 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, steer, feeder, 1101 – 1200 lbs | 8020 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, steer, feeder, 1201 – 1300 lbs | 8024 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, steer, feeder, 1301 – 1400 lbs | 8026 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Beef, steer, feeder, 1401 + lbs | 8030 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Cattle, semen | 8063 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 301 – 400 lbs, bulls | 8100 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 401 – 500 lbs, bulls | 8104 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 501 – 600 lbs, bulls | 8108 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 601 – 700 lbs, bulls | 8112 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 701 – 800 lbs, bulls | 8116 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 801 – 900 lbs, bulls | 8120 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 901 – 1000 lbs, bulls | 8124 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 1001 – 1100 lbs, bulls | 8082 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 1101 – 1200 lbs, bulls | 8086 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 1201 – 1300 lbs, bulls | 8090 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 1301 – 1400 lbs, bulls | 8092 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 1401 lbs +, bulls | 8096 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 301 – 400 lbs, heifers | 8098 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 401 – 500 lbs, heifers | 8102 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 501 – 600 lbs, heifers | 8106 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 601 – 700 lbs, heifers | 8110 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 701 – 800 lbs, heifers | 8114 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 801 – 900 lbs, heifers | 8118 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 901 – 1000 lbs, heifers | 8122 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 1001 – 1100 lbs, heifers | 8080 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 1101 – 1200 lbs, heifers | 8084 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 1201 – 1300 lbs, heifers | 8088 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, 1301 lbs +, heifers | 8094 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, breeding, bulls | 8070 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, breeding, cows | 8072 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, calves, birth – 300 lbs | 8077 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, embryo | 8071 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, heifers, bred | 8127 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred beef, replacement heifers | 8128 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+## Dairy
+
+| Description | Code | BC | MB | NB | NL | NS | NT | YT |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Dairy quota, butterfat | 8200 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy quota, milk | 8202 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, breeding, bulls | 8204 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, breeding, cows | 8206 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, calves, heifer | 8210 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, calves, steer | 8212 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 301 – 400 lbs, heifers | 8236 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 401 – 500 lbs, heifers | 8240 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 501 – 600 lbs, heifers | 8244 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 601 – 700 lbs, heifers | 8248 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 701 – 800 lbs, heifers | 8252 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 801 – 900 lbs, heifers | 8256 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 901 – 1000 lbs, heifers | 8260 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 1001 – 1100 lbs, heifers | 8218 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 1101 – 1200 lbs, heifers | 8222 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 1201 – 1300 lbs, heifers | 8226 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 1301 lbs +, heifers | 8232 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 301 – 400 lbs, steers | 8238 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 401 – 500 lbs, steers | 8242 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 501 – 600 lbs, steers | 8246 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 601 – 700 lbs, steers | 8250 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 701 – 800 lbs, steers | 8254 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 801 – 900 lbs, steers | 8258 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 901 – 1000 lbs, steers | 8262 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 1001 – 1100 lbs, steers | 8220 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 1101 – 1200 lbs, steers | 8224 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 1201 – 1300 lbs, steers | 8228 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 1301 – 1400 lbs, steers | 8230 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, feeder 1401 lbs +, steers | 8234 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Dairy, replacement heifers | 8266 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 301 – 400 lbs, bulls | 8302 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 401 – 500 lbs, bulls | 8306 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 501 – 600 lbs, bulls | 8310 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 601 – 700 lbs, bulls | 8314 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 701 – 800 lbs, bulls | 8318 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 801 – 900 lbs, bulls | 8322 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 901 – 1000 lbs, bulls | 8326 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 1001 – 1100 lbs, bulls | 8284 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 1101 – 1200 lbs, bulls | 8288 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 1201 – 1300 lbs, bulls | 8292 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 1301 – 1400 lbs, bulls | 8294 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 1401 lbs +, bulls | 8298 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 301 – 400 lbs, heifers | 8300 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 401 – 500 lbs, heifers | 8304 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 501 – 600 lbs, heifers | 8308 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 601 – 700 lbs, heifers | 8312 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 701 – 800 lbs, heifers | 8316 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 801 – 900 lbs, heifers | 8320 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 901 – 1000 lbs, heifers | 8324 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 1001 – 1100 lbs, heifers | 8282 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 1101 – 1200 lbs, heifers | 8286 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 1201 – 1300 lbs, heifers | 8290 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, 1301 lbs +, heifers | 8296 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, breeding, bulls | 8272 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, breeding, cows | 8274 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, calves, heifer | 8278 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, calves, steers | 8280 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, heifers, bred | 8327 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred dairy, replacement heifers | 8328 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+## Goats
+
+| Description | Code | BC | MB | NB | NL | NS | NT | YT |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Goats, breeding, bucks | 8902 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Goats, breeding, does | 8904 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Goats, kids (<=65 lbs) | 8912 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Goats, kids (>=66 lbs) | 8910 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred goats, breeding, bucks | 8916 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred goats, breeding, does | 8918 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred goats, kids (<=65 lbs) | 8922 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred goats, kids (>=66 lbs) | 8920 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+## Horses
+
+| Description | Code | BC | MB | NB | NL | NS | NT | YT |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Horses, breeding, mares | 8558 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Horses, breeding, studs | 8560 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Horses, colts | 8562 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Horses, geldings | 8569 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Horses, mares | 8567 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Horses, semen | 8561 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Horses, slaughter | 8570 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Pregnant mare urine produced (PMU) | 8572 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred horses, breeding, mares | 8574 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred horses, breeding, studs | 8576 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred horses, colts | 8578 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred horses, slaughter | 8582 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+## Other livestock
+
+| Description | Code | BC | MB | NB | NL | NS | NT | YT |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Alpaca, breeding, hembras | 7502 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Alpaca, breeding, machos | 7504 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Alpaca, cria, hembras | 7506 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Alpaca, cria, machos | 7508 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Alpaca, fibre | 7516 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Breeding females, leased (not owned) | 8134 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chinchillas, breeding, females | 8602 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chinchillas, breeding, males | 8604 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chinchillas, pelts | 8600 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Deer, breeding, bucks | 8402 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Deer, breeding, does | 8404 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Deer, fawn, bucks | 8410 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Deer, fawn, does | 8412 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Deer, feeder, bucks | 8416 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Deer, feeder, does | 8418 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Deer, hunt, bucks | 8421 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Deer, semen | 8419 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Deer, yearling, bucks | 8420 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Deer, yearling, does | 8422 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Donkey, geldings | 8555 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Donkey, jackass | 8550 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Donkey, jackass, registered | 8551 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Donkey, jennys | 8552 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Donkey, jennys, registered | 8553 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Elk, breeding, bulls | 8452 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y |
+
+| Elk, breeding, cows | 8454 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y |
+
+| Elk, bulls producing velvet | 8456 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y |
+
+| Elk, calves, bull | 8460 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y |
+
+| Elk, calves, heifer | 8462 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y |
+
+| Elk, hunt, bulls | 8453 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y |
+
+| Elk, semen | 8469 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y |
+
+| Elk, velvet | 8470 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y |
+
+| Elk, yearling, heifers | 8474 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y |
+
+| Elk, yearling, spikers | 8476 | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y |
+
+| Fox, breeding, reynards | 8629 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Fox, breeding, vixens | 8631 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Fox, pelts | 8627 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Fox, pups | 8637 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Llama, breeding, females | 7552 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Llama, breeding, males | 7554 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Llama, cria, females | 7556 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Llama, cria, males | 7558 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Llama, fibre | 7566 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Mink, breeding, females | 8654 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Mink, breeding, males | 8656 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Mink, kits | 8662 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Mink, pelts | 8652 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Mule, johns | 8557 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Mule, mollys | 8556 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rabbits, breeding, bucks | 8677 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rabbits, breeding, does | 8679 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rabbits, fryers | 8691 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rabbits, kits | 8687 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rabbits, stewers | 8693 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Red deer, breeding, bulls | 8423 | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Red deer, breeding, cows | 8424 | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Red deer, bulls, producing velvet | 8425 | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Red deer, calves bull | 8426 | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Red deer, calves heifer | 8427 | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Red deer, feeder, heifers | 8430 | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Red deer, hunt, bulls | 8436 | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Red deer, semen | 8431 | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Red deer, velvet | 8432 | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Red deer, yearling, heifers | 8433 | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Red deer, yearling, spikers | 8434 | blank: code not used | blank: code not used | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | blank: code not used | blank: code not used |
+
+| Reindeer, breeding, bulls | 8502 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Reindeer, breeding, cows | 8504 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Reindeer, calves, bull | 8508 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Reindeer, calves, heifers | 8510 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Reindeer, feeder, bulls | 8512 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Reindeer, feeder, heifers | 8514 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Reindeer, trained | 8520 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Reindeer, yearling, bulls | 8516 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Reindeer, yearling, heifers | 8518 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Wild boar, breeding, boars | 8852 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Wild boar, breeding, sows | 8854 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Wild boar, finishers | 8856 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Wild boar, growers | 8858 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Wild boar, weanlings | 8862 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+## Poultry
+
+| Description | Code | BC | MB | NB | NL | NS | NT | YT |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Chickens (up to 1.4 kg) | 7680 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chickens (over 1.4 kg up to 2.7 kg) | 7681 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chickens (over 2.7 kg) | 7682 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chickens, broilers, chicks hatched | 7677 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chickens, chicks | 7667 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chickens, layers, broiler eggs for hatching | 7654 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chickens, layers, chicks hatched | 7678 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chickens, layers, eggs for consumption | 7656 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chickens, pullets | 7658 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Chickens, roosters | 7660 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Ducks, broilers | 7702 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Ducks, drakes | 7706 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Ducks, ducklings | 7708 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Ducks, eggs | 7712 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Ducks, hens | 7714 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Eggs for consumption | 7664 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Eggs for consumption, organic | 7665 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Eggs for hatching | 7663 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Geese, broilers | 7752 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Geese, eggs | 7758 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Geese, female | 7760 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Geese, ganders | 7762 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Geese, goslings | 7764 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Partridge, broilers | 7793 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Partridge, eggs for hatching | 7798 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Partridge, hens | 7800 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Partridge, pullets | 7795 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Partridge, roosters | 7796 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Pheasant, chicks | 7804 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Pheasant, eggs | 7810 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Pheasant, hens | 7812 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Pheasant, ring necked, broilers | 7811 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Pheasant, rooster | 7814 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Pheasant, white, broilers | 7813 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Pigeon, breeding pair | 7825 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Pigeon, pullets | 7820 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Pigeon, squab roasters | 7818 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred chickens, layers, broiler eggs for hatching | 7670 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred chickens, layers, eggs for consumption | 7672 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred, chickens, pullets | 7674 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred, chickens, roosters | 7676 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred turkeys, chicks | 7852 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred turkeys, eggs | 7856 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred turkeys, hens | 7858 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred turkeys, toms | 7860 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Quail, broilers | 7888 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Quail, eggs for consumption | 7895 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Quail, eggs for hatching | 7893 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Quail, hens | 7894 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Quail, pullets | 7890 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Quail, roosters | 7891 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Silkies, broilers | 7842 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Silkies, chicks | 7900 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Silkies, eggs for hatching | 7847 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Silkies, hens | 7899 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Silkies, pullets | 7844 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Silkies, roosters | 7845 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Taiwanese chickens, broilers | 7880 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Taiwanese chickens, chicks | 7887 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Taiwanese chickens, eggs for hatching | 7885 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Taiwanese chickens, hens | 7877 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Taiwanese chickens, pullets | 7882 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Taiwanese chickens, roosters | 7883 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Turkeys (up to 6.2 kg) | 7861 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Turkeys (over 6.2 kg up to 8.5 kg) | 7863 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Turkeys (over 8.5 kg up to 10.8 kg) | 7865 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Turkeys (over 10.8 kg up to 13.3 kg) | 7867 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Turkeys (over 13.3 kg) | 7869 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Turkeys, eggs | 7870 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Turkeys, hens | 7872 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Turkeys, poults, breeding | 7871 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Turkeys, poults, broilers | 7873 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Turkeys, toms | 7876 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+## Ratites
+
+| Description | Code | BC | MB | NB | NL | NS | NT | YT |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Emu, boomers | 7727 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Emu, chicks | 7729 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Emu, eggs | 7737 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Emu, flyers | 7739 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Emu, slaughter | 7741 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Ostrich, chicks | 7777 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Ostrich, eggs | 7783 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Ostrich, hens | 7785 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Ostrich, roosters | 7787 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Ostrich, slaughter | 7789 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rheas, chicks | 7827 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rheas, eggs | 7833 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rheas, hens | 7835 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rheas, roosters | 7837 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Rheas, slaughter | 7839 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+## Sheep
+
+| Description | Code | BC | MB | NB | NL | NS | NT | YT |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Purebred sheep, breeding, ewes | 8966 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred sheep, breeding, rams | 8968 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred sheep, lambs | 8972 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sheep, breeding, ewes | 8952 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sheep, breeding, rams | 8954 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sheep, lambs (<=79 lbs) | 8962 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Sheep, lambs (>=80 lbs) | 8960 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Wool | 8976 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+## Swine
+
+| Description | Code | BC | MB | NB | NL | NS | NT | YT |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Hogs, breeding, boars | 8752 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hogs, breeding, sows | 8754 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hogs, feeder, birth – 18 lbs | 8763 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hogs, feeder, 19 lbs – 36 lbs | 8764 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hogs, feeder, 37 lbs – 65 lbs | 8765 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hogs, feeder, 66 lbs – 100 lbs | 8766 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hogs, feeder, 101 lbs – 140 lbs | 8767 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hogs, feeder, 141 lbs – 180 lbs | 8768 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hogs, feeder, 181 lbs – 220 lbs | 8769 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hogs, feeder, 221 lbs – 240 lbs | 8770 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hogs, feeder, 241 lbs – 260+ lbs | 8791 | shaded: use the codeX | shaded: use the codeX | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hogs, gilts | 8755 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Hogs, semen | 8771 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred hogs, breeding, boars | 8774 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred hogs, breeding, sows | 8776 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+| Purebred hogs, gilts | 8789 | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y | shaded: use the code Y |
+
+- [Previous page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-13.html)
+
+- [Table of contents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-01.html)
+
+- [Next page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-15.html)

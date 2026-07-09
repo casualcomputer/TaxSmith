@@ -1,0 +1,3480 @@
+---
+title: "General Index of Financial Information (GIFI)"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4088/general-index-financial-information-gifi.html
+last_modified: 2023-08-24
+---
+# General Index of Financial Information (GIFI)
+
+RC4088(E) Rev. 23
+
+The CRA's publications and personalized correspondence are available in braille, large print, e-text, and MP3. For more information, go to [Order multiple formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html) or call **1-800-959-5525**. If you are outside Canada and the United States, call **613-940-8497**. The CRA only accepts collect calls made through a telephone operator. After your call is accepted by an automated response, you may hear a beep and notice a normal connection delay. This service operates in Eastern Standard Time and is open Monday to Friday from 8:00 am to 8:00 pm and Saturday from 9:00 am to 5:00 pm.
+
+This guide uses plain language to explain the most common tax situations. It is provided for information only and does not replace the law.
+
+La version française de ce guide est intitulée RC4088, Index général des renseignements financiers (IGRF).
+
+Unless otherwise stated, all legislative references are to the Income Tax Act or, where appropriate, the Income Tax Regulations.
+
+## Find out if this guide for you
+
+All corporations—except for insurance corporations—and all partnerships can file using the General Index of Financial Information (GIFI). For more information, see [Using the GIFI](#toc10).
+
+This guide provides general information and explains how to use the GIFI and the GIFI-Short.
+
+## General Index of Financial Information (GIFI)
+
+You have to include financial statement information when you file a [T2 Corporation Income Tax Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2.html) or a [T5013 Partnership Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html). The GIFI is an extensive list of financial statement items where each item has a unique code (for example, cash is 1001). When you use the GIFI, do not submit your financial statements with your return and schedules. If we need your traditional financial statements, we will ask for them.
+
+You can find a complete listing of GIFI items and their codes in [Appendix A](#toc63).
+
+### When to use the GIFI
+
+Use the GIFI to submit your financial statement information for both paper- and Internet-filed returns. For more information about our Internet filing service for corporations, go to [Corporation Internet Filing](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing.html), and for partnerships, go to [Filing Information Returns Electronically](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+### Filing your returns using My Business Account or Represent a Client
+
+You can file corporation returns online using the "Transmit a return" service or partnership returns using the "File a return" service in:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), if you are the business owner
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), if you are an authorized representative or employee
+
+### How to use the GIFI
+
+The GIFI is available as part of the T2 tax return preparation software programs certified by the Canada Revenue Agency (CRA). It is also available as part of the T5013 partnership information return preparation software programs. The GIFI is included in some utility programs that allow you to import information from an accounting software program to a return preparation program. If you do not use return preparation software, see [Introduction to the GIFI-Short](#toc52), [GIFI schedules for corporations](#toc22), or [GIFI schedules for partnerships](#toc35). Once you choose a GIFI code for each item you report on your financial statements, only the item code and amount will be included on your return.
+
+### The level of detail needed with the GIFI
+
+We need the same level of detail with the GIFI and GIFI-Short as we needed from traditional financial statements. For example, if your financial statements include 40 items such as cash, accounts receivable, total assets, sales, cost of sales, income taxes, and net income after taxes, we expect that same number of GIFI codes. We need as many GIFI codes as it takes to represent your balance sheet and income statement in their entirety. Do **not** report **only** subtotals and totals.
+
+Although you need to keep the working papers used to show the accounts or sub-accountsthat make up a financial statement item, do **not** submit them when filing your return.
+
+Report prepaid expenses as a current asset on line 1483 – Other current assets. If you are using the GIFI-Short, use line 1480.
+
+Report machinery fuel and lubricant expenses on line 9281 – Other expenses. If you are using the GIFI-Short, use line 9270.
+
+If machinery fuel and lubricant expenses are related to farming activity, report them on line 9764 – Machinery fuel, or on line 9760 – Machinery expenses.
+
+### Submitting notes to the financial statements
+
+Submit any notes to your financial statements with your GIFI or GIFI-Short information.
+
+If you file a [T2 Corporation Income Tax Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2.html) electronically, include the notes in text format with your transmission. Your software package should enable you to transfer the notes to the file you are transmitting, without rekeying. You do **not** have to file paper notes to financial statements if you file that year's T2 return electronically.
+
+If you file a [T5013 Partnership Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html) electronically, do **not** send the paper copy of the notes to your tax centre. If we need the notes to your financial statements, we will ask for them.
+
+If you file a paper [T2 Corporation Income Tax Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2.html) or [T5013 Partnership Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html), include a paper copy of your notes.
+
+For an example on how to report the information from the notes using the GIFI, see [Notes to the financial statements](#toc50).
+
+### Introduction to GIFI schedules
+
+Schedules [T2SCH100, Balance Sheet Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch100.html), [T2SCH101, Opening Balance Sheet Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch101.html), and [T2SCH125, Income Statement Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch125.html), provide spaces in column format for you to write your GIFI field codes and corresponding amounts. [Schedule T2SCH141, General Index of Financial Information (GIFI) –Additional Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch141.html), is for providing the additional information.
+
+Those who are eligible to use the GIFI-Short and have chosen to do so, must use the Form T1178. See [Using the GIFI-Short](#toc11).
+
+If you file a T5013 return, you should use the GIFI schedules for partnerships. Schedules [T5013 SCH 100, Balance Sheet Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch100.html), and [T5013 SCH 125, Income Statement Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch125.html), provide spaces in column format for you to write your GIFI field codes and corresponding amounts. Schedule [T5013 SCH 141, General Index of Financial Information (GIFI) –Additional Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch141.html), is for providing the additional information.
+
+### Where to get a copy of the GIFI form, guide, and schedules
+
+The GIFI form, guide, and schedules are available at [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+## General information for corporations
+
+### Using the GIFI
+
+All corporations (except for insurance corporations) can file using the GIFI.
+
+### Using the GIFI-Short
+
+If your corporation does not use return preparation software, and has both gross revenue and assets of less than one million dollars each, you may use the paper version of Form T1178, General Index of Financial Information – Short. Insurance corporations are not eligible. For more information, see [Using the GIFI-Short (T1178)](#toc51).
+
+#### Insurance corporations
+
+The GIFI and GIFI-Short do not currently meet the reporting needs of insurance corporations involved in underwriting (life insurers, deposit insurers, or property and casualty insurers). The GIFI does not include items specific to the insurance industry. You should continue to send a copy of your financial statements with your T2 return and schedules. If you file your return electronically, you can attach your financial statements when you file.
+
+#### Non-resident corporations
+
+You can use the GIFI and the GIFI-Short when you report in unconsolidated Canadian funds. Non-resident corporations cannot report in a functional currency. Do **not** use the GIFI or the GIFI-Short if you are filing under section 115 of the [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html) only because you disposed of taxable Canadian property or because you are a treaty-based exempt corporation.
+
+#### Inactive corporations
+
+If your corporation is inactive (you answered **yes** at line 280 of the T2 return), but you have balance sheet or income statement information to report, you can use the GIFI to file this information.
+
+### First year after incorporation
+
+You may be filing for the first year after incorporation. If so, complete two balance sheets: an opening and a closing. If you are not using a software package approved by us to complete this information, write "opening" in the top right-hand corner of the appropriate balance sheet.
+
+If you are using the [T1178](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1178.html), please tick the appropriate box to identify your opening balance sheet. The box is located on the right-hand corner of page 1 of the T1178.
+
+If you are using the GIFI schedules, Schedule[T2SCH100, Balance Sheet Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch100.html), is for the closing balance sheet information and Schedule[T2SCH101, Opening Balance Sheet Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch101.html), is for the opening balance sheet information.
+
+### Deferred expense statements
+
+You may be involved in exploration and development that has not yet generated significant sales revenue and you may have capitalized deferred expenditures. If so, do **not** use the GIFI to itemize these expenditures. You should report the aggregate deferred expenditures as balance sheet information. As well, you have to report "0" in the required fields on your income statement information (see [Validity check items](#toc41)).
+
+### Reporting in Canadian funds
+
+Report your financial statement information in Canadian funds even if you are a Canadian branch of a foreign corporation. You can report in a functional currency if you are an eligible corporation that has filed Form[T1296, Election, or Revocation of an Election, to Report in a Functional Currency](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1296.html), and elected to file in a functional currency under section 261 of the [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html).
+
+### Reporting negative amounts
+
+If you are using a software package, it will show you how to mark items as negative amounts. If you do not use a software package, you should mark negative amounts using brackets or a minus sign.
+
+### Reporting in dollars
+
+Report your financial statement amounts in actual dollars. Do **not** report cents. For example, report cash of $10,500.75 as 10501 under item 1001 –Cash (item 1000 for those using the GIFI-Short). Do **not** report amounts in thousands or millions of dollars.
+
+You can report in a functional currency if you are an eligible corporation that has filed [Form T1296](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1296.html) and elected to file in a functional currency under section 261 of the [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html).
+
+### Reporting unconsolidated financial statement information
+
+Report your financial statement information for each legal entity (unconsolidated). Include all unincorporated branches or divisions within that legal corporate entity.
+
+### Reporting multiple lines of business
+
+You may have multiple lines of business. For more information on how to report this type of situation using the GIFI, see [Appendix B](#toc64).
+
+### GIFI schedules for corporations
+
+If you file a [T2 return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2.html) without using return preparation software or [Form T1178](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1178.html), you can use the GIFI schedules.
+
+#### T2SCH100, Balance Sheet Information
+
+[Schedule 100](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch100.html) shows the corporation's financial position at the end of the tax year.
+
+#### T2SCH101, Opening Balance Sheet Information
+
+[Schedule 101](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch101.html) shows the corporation's opening balance sheet information for the first return of a new corporation.
+
+#### T2SCH125, Income Statement Information
+
+[Schedule 125](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch125.html) shows the income generated and the expenses incurred by the corporation during the tax year.
+
+#### T2SCH140, Summary Statement
+
+If you are submitting supplementary income statements, you will also need to complete and file Schedule 140. This schedule is at the bottom of page 2 of [Schedule 125](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch125.html).
+
+#### T2SCH141, GIFI – Additional Information
+
+[Schedule 141](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch141.html) is a set of questions designed to determine who is primarily involved with the financial information, the extent of their involvement or that of the person filling out the form, and whether they expressed any reservations. It also identifies the type of information contained in the notes to the financial statements and provides more information about the person who prepared the T2 return.
+
+Include any notes to the financial statements and the auditor or accountant's report, if they were prepared. You have to include this information even if you are filing your return using tax preparation software.
+
+## General information for partnerships
+
+### Using the GIFI
+
+All partnerships filing a [T5013 Partnership Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html) can file using the GIFI.
+
+### Reporting negative amounts
+
+You should mark negative amounts using brackets or a minus sign.
+
+### Reporting in Canadian funds
+
+Report your financial statement information in Canadian funds even if you are a Canadian branch of a foreign partnership.
+
+When a corporate member of the partnership has elected to report in a functional currency, the partnership has to use the same functional currency when preparing the information slip for this corporate partner.
+
+If a partnership has one member who has elected a functional currency and another who has not, or has elected another functional currency, the partnership is required to prepare the [T5013 information slips, Statement of Partnership Income](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html), for the partners who made an election under section 261 of the [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html) in their elected functional currency.
+
+### Reporting in dollars
+
+Report your financial statement amounts in actual dollars; do **not** report cents. For example, report cash of $10,500.75 as 10501 under item 1001 – Cash. Do **not** report amounts in thousands or millions of dollars.
+
+### Reporting multiple lines of business
+
+You may have multiple lines of business. For information on how to report for such a situation using the GIFI, see [Appendix B](#toc64).
+
+### Inactive partnerships
+
+If your partnership is inactive (you answered **yes** at line 280 of the T5013 FIN), but you have balance sheet or income statement information to report, you can use the GIFI to file this information. An inactive (non-operating) partnership can still have income or expenses in a year. It may pay a monthly service charge to maintain a bank account or it may earn interest or dividends from income-producing assets it held. It may also have received income that was shown as receivable in the previous year.
+
+### GIFI schedules for partnerships
+
+Each partnership should include complete financial statement information for the fiscal period of the return using the GIFI schedules for partnerships.
+
+#### T5013 SCH 100, Balance Sheet Information
+
+The [T5013 Partnership Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html) should include the [T5013 SCH 100](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch100.html) showing the partnership's financial position at the end of the fiscal period.
+
+#### T5013 SCH 125, Income Statement Information
+
+The [T5013 Partnership Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html) should include the [T5013 SCH 125](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch125.html) showing the income generated and expenses incurred by the partnership during the fiscal period.
+
+#### T5013 SCH 140, Summary Statement
+
+If you are submitting supplementary income statements, you will also need to complete and file the T5013 SCH 140. This schedule is at the bottom of page 2 of the [T5013 SCH125](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch125.html).
+
+#### T5013 SCH 141, GIFI – Additional Information
+
+The [T5013 SCH 141](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch141.html) has questions designed to determine who is primarily involved with the financial information and the extent of their involvement or that of the person filling out the form. It also identifies the type of information contained in the notes to the financial statements and provides more information about the person who prepared the T5013 return. If the notes were prepared, include them as well as the auditor or accountant's report to the financial statements unless you are filing a T5013 Partnership Information Return electronically. If you are filing electronically, do not send the paper copy of the notes to your tax centre. If we need the notes to the financial statements, we will ask for them.
+
+## Using the GIFI
+
+1. Select the items usually reported on your balance sheet from items in the 1000 to 3849 range.
+
+2. Select the items usually reported on your income statement from items in the 7000 to 9970 range.
+
+Items 9370 to 9899 relate specifically to farming income and expenses.
+
+3. Select the items usually reported in your extraordinary items and income taxes from items in the 9975 to 9999 range.
+
+### Validity check items
+
+The GIFI information has to balance. We use the following rules to check the information you provide:
+
+- total assets = total liabilities + total equity (partners' capital for partnerships)
+
+- total revenue − total expenses = net non-farming income
+
+- total farm revenue − total farm expenses = net farm income
+
+You have to provide certain line items so that we can check the above equations. Each GIFI **must** include the following items:
+
+**Balance sheet**
+
+- Item 2599 – Total assets
+
+- Item 3499 – Total liabilities
+
+- Item 3620 – Total shareholder equity (corporations only)**or**
+
+- Item 3575 – Total partners' capital (partnerships only)
+
+**Non-farming income and expenses**
+
+- Item 8299 – Total revenue
+
+- Item 9368 – Total expenses**and/or**
+
+**Farming income and expenses**
+
+- Item 9659 – Total farm revenue
+
+- Item 9898 – Total farm expenses
+
+**When reporting a breakdown of retained earnings**(corporations only)
+
+- Item 3849 – Retained earnings/deficit – End
+
+**Extraordinary items and income taxes**
+
+- Item 9999 – Net income/loss after taxes and extraordinary items
+
+The amount of a required item may be nil. If so, enter "0."
+
+These codes must be included along with all the other GIFI codes needed to represent your balance sheet and income statement in their entirety.
+
+For examples of how to use the GIFI for corporations and partnerships, see the [Appendix D](#toc11).
+
+### How to select GIFI items
+
+The GIFI consists of items you find on a balance sheet and on an income statement. The balance sheet section consists of items pertaining to assets, liabilities, and equity for corporations or partners' capital for partnerships. Items specific to retained earnings for corporations are included in this area as well. The income statement section consists of items you find under revenue, cost of sales, and expenses. Due to the specific reporting needs of the agriculture industry, we have provided a separate section for farming revenue and expenses. A section for extraordinary items and income taxes can be found after the farming section. For a complete listing of GIFI items, see [Appendix A](#toc63).
+
+We have further divided the GIFI into blocks of items within these sections. The item at the start of each block is highlighted in bold. The highlighted item represents the generic term for items within the block. You may not find the item that is an exact match to the item on your financial statements. If that is the case, use the generic item.
+
+The generic item at the start of each block does **not** represent the total of the items in the block.
+
+Assuming that you will prepare the GIFI from your own financial statements, use the following process when you select GIFI items:
+
+1. Select an exact match from the GIFI items on your financial statements
+
+2. If you cannot find an exact match, select the most appropriate item
+
+3. If you cannot find an appropriate item, select the generic item
+
+| GIFI code | GIFI name |
+
+| --- | --- |
+
+| **8760** | **Business taxes, licences, and memberships** |
+
+| 8761 | Memberships |
+
+| 8762 | Business taxes |
+
+| 8763 | Franchise fees |
+
+| 8764 | Government fees |
+
+If your income statement usually shows an account for "business charges" you could use item 8760 to report this amount.
+
+### Reporting an amount that combines two or more items
+
+An amount in your financial statement information may combine two or more GIFI items. To report this amount, determine which item is the greater or greatest amount and choose the most appropriate GIFI item.
+
+Cash and term deposits
+
+If **cash** is the greater amount, report under GIFI item 1001 – Cash.
+
+If **term deposits** is the greater amount, report under GIFI item 1181 – Canadian term deposits.
+
+Rent, taxes, and insurance
+
+You could report this under item 8911 – Real estate rental, under item 8762 – Business taxes, or under item 8690 – Insurance, depending on which amount is the greatest.
+
+### Completing the GIFI – Additional Information
+
+The GIFI – Additional Information is included with the GIFI in all CRA-approved software packages. Complete the GIFI – Additional Information when you use the GIFI to report your financial statement information. You need to complete all parts of the GIFI – Additional information that apply and include it with your T2 return along with your other GIFI schedules. You can see examples of a completed Schedule 141 [for a corporation](#toc74) and [for a partnership](#toc75).
+
+#### Part 1 – Information on the person primarily involved with the financial information
+
+Answer these three questions about the person who is primarily involved with the financial information. Indicate whether that person can be identified, whether that person has a professional designation in accounting, and whether that person is connected to the corporation or the partnership by ticking either the **yes** or **no** box for each question.
+
+#### Part 2 – Type of involvement
+
+Choose one or more options that represent your involvement and that of the person referred to in Part 1.
+
+#### Part 3 – Reservations
+
+If you selected option 300 or 301 in Part 2 – Type of involvement, answer question 099 "Has the person referred to in Part 1 expressed a reservation?".
+
+#### Part 4 – Other information
+
+Answer questions 101 to 108.
+
+If you answer **yes** to question 108 of the [T5013 Schedule 141](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch141.html), answer question 109.
+
+If you answer **yes** to question 200, answer questions 210 to 236, as applicable.
+
+If you answer **yes** to question 265, you have to maintain a separate reconciliation.
+
+#### Part 5 – Information on the person who prepared the T2 return
+
+If the person who prepared the T2 return has a professional designation in accounting but is not the person identified in Part 1, choose all of the options that apply in Part 5.
+
+### Notes to the financial statements
+
+You may have prepared notes to the financial statements. If so, include them with the GIFI.
+
+- If you file a T2 return electronically, you have to include the notes with your transmission. Your software package should enable you to transfer the notes to the file you are transmitting, without re-keying. You do **not** have to file paper financial statements or notes to financial statements if you file that year's T2 return electronically.
+
+- If you file your T5013 return electronically, keep your notes in case we ask for them later. If you file a paper T5013 return, include your notes.
+
+You cannot include tables and graphs in the notes if you are filing a T2 return electronically. You have to convert this type of information to plain text.
+
+Report on the GIFI breakdowns of items such as capital assets or investments shown in the notes.
+
+Your balance sheet shows fixed assets of $31,500, with a breakdown found in the notes.
+
+| Fixed assets | Cost | Accumulated amortization | Net amount |
+
+| --- | --- | --- | --- |
+
+| Land | $10,000 | n/a | $10,000 |
+
+| Buildings | $20,000 | $3,000 | $17,000 |
+
+| Furniture and fixtures | $5,000 | $500 | $4,500 |
+
+| Total | $35,000 | $3,500 | $31,500 |
+
+Using the GIFI, report the information from the notes as follows:
+
+| GIFI Code | Item | Amount |
+
+| --- | --- | --- |
+
+| 1600 | Land | $10,000 |
+
+| 1680 | Buildings | $20,000 |
+
+| 1681 | Accumulated amortization of buildings | ($3,000) |
+
+| 1787 | Furniture and fixtures | $5,000 |
+
+| 1788 | Accumulated amortization of furniture and fixtures | ($500) |
+
+| 2008 | Total tangible capital assets | $35,000 |
+
+| 2009 | Total accumulated amortization of tangible capital assets | ($3,500) |
+
+## Using the GIFI-Short (T1178)
+
+### Introduction to the GIFI-Short
+
+The GIFI-Short is intended for corporations only. If your corporation does not use return preparation software, and has both gross revenue and assets of less than one million dollars each, use [Form T1178, General Index of Financial Information – Short](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1178.html). You can choose from about 100 commonly used balance sheet and income statement items. A separate selection of income statement items that can be used by farming corporations is also included.
+
+### Completing the GIFI-Short (T1178)
+
+1. Enter all balance sheet items relating to assets, liabilities, shareholder equity, and statement of retained earnings (deficit) on page 1 of Form T1178.
+
+2. Enter all income statement items relating to revenues, cost of sales and operating expenses of a non-farming operation on page 3 of Form T1178.
+
+3. Enter all income statement items relating to revenues and expenses of a farming operation on page 4 of Form T1178.
+
+Corporations involved in both farming and non-farming activities can select items from both statements.
+
+1. Enter your extraordinary items and income tax items on page 4 of Form T1178.
+
+2. Complete the GIFI – Additional Information on page 5 of Form T1178. See [Completing the GIFI – Additional Information](#toc56).
+
+#### Required items
+
+There are some line items with an asterisk (*) that always need an entry. These line items are used to verify that information was received and recorded correctly.
+
+#### Reporting an amount that combines two or more items
+
+An amount in your financial statement information may combine two or more items. To report this amount, determine which item is the greater or greatest amount and use the appropriate line item.
+
+Rent and property taxes
+
+If rent is the greater amount, report it at line 8910 – Rental.
+
+If the taxes are the greater amount, report it at line 9180 – Property taxes.
+
+### Completing the GIFI – Additional Information
+
+The GIFI – Additional Information is a short set of questions designed to determine who is primarily involved with the financial information and the extent of their involvement or that of the person filling out the form. It also identifies whether any reservations were expressed and other information relating to the financial statements. You need to complete all parts of the GIFI – Additional information that apply and include it with your T2 return along with your other GIFI schedules.
+
+#### Part 1 – Information on the person primarily involved with the financial information
+
+Answer these three questions about the person who is primarily involved with the financial information. Indicate whether the person can be identified, whether the person has a professional designation in accounting, and whether the person is connected to the corporation by ticking the **yes** box or **no** box for each question.
+
+#### Part 2 – Type of involvement
+
+Choose one or more options that represent your involvement and that of the person referred to in Part 1.
+
+#### Part 3 – Reservations
+
+If you selected option 300 or 301 in Part 2 – Type of involvement, answer question 099 "Has the person referred to in Part 1 expressed a reservation?".
+
+#### Part 4 – Other information
+
+Answer questions 101 to 108.
+
+#### Part 5 – Information on the person who prepared the T2 return
+
+If the person who prepared the T2 return has a professional designation in accounting but is not the person identified in Part 1, choose all of the options that apply in Part 5.
+
+### Items found on GIFI-Short
+
+Consult [Appendix A](#toc63) if you need more information about certain lines found on Form T1178.
+
+## Appendix A – Complete listing of the GIFI items
+
+The following is a complete list of GIFI items. Some of them include more detail about the type of information you could report in the item. Some items are intended for corporations only or for partnerships only. Some items apply only to certain industry sectors or types of business.
+
+If you are eligible and have chosen to use the GIFI-Short, pay special attention to descriptions beginning with "GIFI-Short." If a line appearing on Form T1178 does not have a "GIFI-Short" description in this appendix, the regular GIFI definition applies.
+
+The generic items highlighted in bold at the start of each block do not represent a total of the items in the block. They are the generic items to use if the specific items in the block are not an exact match to the item on your financial statement.
+
+**1001 Cash**
+
+Use this item to report bank drafts, bank notes, cheques, coins, currency, money orders, postal notes, and post-dated cheques, as well as cash.
+
+**9012 Road costs**
+
+Use this item to report snow removal as well as road costs.
+
+### Balance Sheet Information
+
+#### Assets
+
+| GIFI code | GIFI name |
+
+| --- | --- |
+
+| **1000** | **Cash and deposits** **GIFI-Short:** Include all amounts under items 1001 to 1007. |
+
+| 1001 | Cash bank drafts, bank notes, cheques, coins, currency, money orders, postal notes, and post-dated cheques |
+
+| 1002 | Deposits in Canadian banks and institutions – Canadian currency |
+
+| 1003 | Deposits in Canadian banks and institutions – Foreign currency |
+
+| 1004 | Deposits in foreign banks – Canadian currency |
+
+| 1005 | Deposits in foreign banks – Foreign currency |
+
+| 1006 | Credit union central deposits (credit unions only) |
+
+| 1007 | Other cash-like instruments gold bullion and silver bullion |
+
+| **1060** | **Accounts receivable** claims, dividends, royalties, and subsidies receivable **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 1062, 1064, 1066, 1067, 1068, 1069 and 1071, as well as claims, dividends, royalties, and subsidies receivable. |
+
+| **1061** | **Allowance for doubtful accounts** **GIFI-Short:** Include all amounts under items 1063, 1065, 1070, and 1072. |
+
+| 1062 | Trade accounts receivable |
+
+| 1063 | Allowance for doubtful trade accounts receivable |
+
+| 1064 | Trade accounts receivable from related parties |
+
+| 1065 | Allowance for doubtful trade accounts receivable from related parties |
+
+| 1066 | Taxes receivableGST/HST, income tax refunds, and tax credits receivable |
+
+| 1067 | Interest receivable |
+
+| 1068 | Holdbacks receivable |
+
+| 1069 | Leases receivable |
+
+| 1070 | Allowance for doubtful amounts contained in leases receivable |
+
+| 1071 | Accounts receivable from employees |
+
+| 1072 | Allowance for doubtful accounts receivable from employees |
+
+| 1073 | Amounts receivable from members of NPOs This item is intended for corporations that are non-profit organizations to report amounts receivable from members. |
+
+| **1120** | **Inventories** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 1121 to 1127. |
+
+| 1121 | Inventory of goods for sale finished goods |
+
+| 1122 | Inventory parts and supplies |
+
+| 1123 | Inventory properties This item is intended for companies whose primary activities are real estate, subdivision, or construction, and who have real estate held for sale. |
+
+| 1124 | Inventory of aggregates |
+
+| 1125 | Work in progress goods in process |
+
+| 1126 | Raw materials includes amounts reported under inventories as raw materials usually found in the manufacturing sector |
+
+| 1127 | Inventory of securities This item is intended for companies such as brokers, stockbrokers, financial institutions, and investment companies that hold securities for sale. |
+
+| **1180** | **Short-term investments** short-term marketable securities **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 1181 to 1187, as well as short term investment in joint ventures or partnerships. |
+
+| 1181 | Canadian term deposits short-term bearer deposit notes, collateral deposits, and guaranteed investment certificates |
+
+| 1182 | Canadian shares |
+
+| 1183 | Canadian bonds bond coupons, bond deposits, corporate bonds, government bonds, and debentures shown current |
+
+| 1184 | Canadian treasury bills |
+
+| 1185 | Securities purchased under resale agreements includes amounts reported as securities purchased under resale agreements found in returns filed by financial institutions, investments companies and brokers |
+
+| 1186 | Other short-term Canadian investments |
+
+| 1187 | Short-term foreign investments all types of foreign investment shown current |
+
+| **1240** | **Loans and notes receivable** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 1241 to 1244 as well as amounts due from joint venture or partnerships. |
+
+| 1241 | Demand loans receivable amounts such as call loans, day loans, and demand loans |
+
+| 1242 | Other loans receivable |
+
+| 1243 | Notes receivable |
+
+| 1244 | Mortgages receivable |
+
+| **Items 1300 to 1303**(corporations only) | Current amounts due from shareholders/directors, such as advances, loans, and notes |
+
+| **1300** | **Due from shareholder(s)/director(s)** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 1301 to 1303. |
+
+| 1301 | Due from individual shareholder(s) |
+
+| 1302 | Due from corporate shareholder(s) due from parent company |
+
+| 1303 | Due from director(s) |
+
+| **Items 1310 to 1314**(partnerships only) | Current advances/loans/notes between the partners and the partnership |
+
+| **1310** | **Due from member(s)/general partner(s)** |
+
+| 1311 | Due from limited partners |
+
+| 1312 | Due from members that are partnerships |
+
+| 1313 | Due from general partners |
+
+| 1314 | Due from specified members who are not limited partners |
+
+| **1360** | **Investment in joint venture(s)/partnership(s)** current investment or equity in joint venture(s), partnership(s), and syndicate(s) |
+
+| **1380** | **Due from joint venture(s)/partnership(s)** current amounts due from joint venture(s)/partnership(s), or syndicate(s), such as advances, loans, and notes |
+
+| **Items 1400 to 1403** | "Related parties" can refer to affiliate, associated, and subsidiary corporations. **Note** Current investment in a parent company should be reported under item 1400; however, item 1302 should be used for current amounts due from a parent company. |
+
+| **1400** | **Due from/investment in related parties** **GIFI-Short:** A current investment in a parent company should be reported at line 1400, and a current amount due from a parent company should be reported at line 1300. Include all amounts here that would have otherwise been reported under items 1401 to 1403. |
+
+| 1401 | Demand notes from related parties amounts due from related parties such as call loans, day loans, and demand loans |
+
+| 1402 | Interest receivable from related parties |
+
+| 1403 | Loans/advances due from related parties |
+
+| **1460** | **Customers' liability under acceptances** This item is for financial institutions – any amount reported under this item should be equal to the amount reported in Liabilities under item 2940 – Bankers acceptances. |
+
+| **1480** | **Other current assets** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 1481 to 1486. |
+
+| 1481 | Future (deferred) income taxes (corporations only) income taxes applicable to future years, and reserve for income taxes, shown current |
+
+| 1482 | Accrued investment income |
+
+| 1483 | Taxes recoverable/refundable |
+
+| 1484 | Prepaid expenses |
+
+| 1485 | Drilling advances for mining, quarrying, and oil and gas industries |
+
+| 1486 | Security/tender deposits |
+
+| **1599** | **Total current asset*****s*** |
+
+#### Capital assets
+
+**Items 1600 to 2179 – Capital assets**– Throughout the GIFI, depreciation is referred to as amortization of tangible assets, depletion is referred to as amortization of natural resource assets, and amortization is referred to as amortization of intangible assets.
+
+**Items 1600 to 2009 – Tangible capital assets**–Item 2008 – Total tangible capital assets, represents the sum of all tangible capital assets reported, and item 2009 – Total accumulated amortization of tangible capital assets, represents the sum of all the accumulated amortization of the tangible capital assets reported, within items 1600 to 1922.
+
+When reporting this breakdown, do not show the net final amount of the tangible capital assets on the GIFI. However, if your financial statements show an amount, for example fixed assets (net), for which there is no breakdown, report it under item 2008 – Total tangible capital assets.
+
+| GIFI code | GIFI name |
+
+| --- | --- |
+
+| **1600** | **Land** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 1601 and 1602. |
+
+| 1601 | Land improvements landscaping |
+
+| 1602 | Accumulated amortization of land improvements |
+
+| **Items 1620 to 1633** | Depletable assets are assets that will be written off in later periods as they are used up. These items generally apply only to the resource or manufacturing industries. |
+
+| **1620** | **Depletable assets** costs for mine-stripping, well drilling, and waste removal **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 1622, 1624, 1626, 1628, 1630 and 1632, as well as cost for mine-stripping, well-drilling, waste removal, and gravel pits. |
+
+| **1621** | **Accumulated amortization of depletable assets** **GIFI-Short:** Include the accumulated depreciation or amortization of any of the items reported at line 1620. |
+
+| 1622 | Petroleum and natural gas properties |
+
+| 1623 | Accumulated amortization of petroleum and natural gas properties |
+
+| 1624 | Mining properties |
+
+| 1625 | Accumulated amortization of mining properties |
+
+| 1626 | Deferred exploration and development charges |
+
+| 1627 | Accumulated amortization of deferred exploration and development charges |
+
+| 1628 | Quarries |
+
+| 1629 | Accumulated amortization of quarries |
+
+| 1630 | Gravel pits |
+
+| 1631 | Accumulated amortization of gravel pits |
+
+| 1632 | Timber limits |
+
+| 1633 | Accumulated amortization of timber limits |
+
+| **1680** | **Buildings** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 1682 and 1684. |
+
+| **1681** | **Accumulated amortization of buildings** **GIFI-Short:** Include the accumulated depreciation or amortization of any of the items reported at line 1680. |
+
+| **Items 1682 and 1683** | For resource or manufacturing industries |
+
+| 1682 | Manufacturing and processing plant |
+
+| 1683 | Accumulated amortization of manufacturing and processing plant |
+
+| 1684 | Buildings under construction |
+
+| **1740** | **Machinery, equipment, furniture, and fixtures** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 1742, 1744, 1746, 1748, 1750, 1752, 1754, 1756, 1758, 1760, 1762, 1764, 1766, 1768, 1770, 1772, 1774, 1776, 1778, 1780, 1782, 1783 and 1785. |
+
+| **1741** | **Accumulated amortization of machinery, equipment, furniture, and fixtures** **GIFI-Short:** Include the accumulated depreciation or amortization of any of the items reported at line 1740. |
+
+| 1742 | Motor vehicles |
+
+| 1743 | Accumulated amortization of motor vehicles |
+
+| 1744 | Tools and dies |
+
+| 1745 | Accumulated amortization of tools and dies |
+
+| 1746 | Construction and excavating equipment |
+
+| 1747 | Accumulated amortization of construction and excavating equipment |
+
+| **Items 1748 and 1749** | For the forestry and logging industry |
+
+| 1748 | Forestry and logging equipment |
+
+| 1749 | Accumulated amortization of forestry and logging equipment |
+
+| **Items 1750 and 1751** | For the fishing industry |
+
+| 1750 | Fishing gear and nets sonar equipment |
+
+| 1751 | Accumulated amortization of fishing gear and nets |
+
+| **Items 1752 to 1757** | For resource industries |
+
+| 1752 | Mining equipment |
+
+| 1753 | Accumulated amortization of mining equipment |
+
+| 1754 | Oil and gas systems pipelines and distribution systems |
+
+| 1755 | Accumulated amortization of oil and gas systems |
+
+| 1756 | Production equipment for resource industries |
+
+| 1757 | Accumulated amortization of production equipment for resource industries |
+
+| 1758 | Production equipment for other than resource industries |
+
+| 1759 | Accumulated amortization of production equipment for other than resource industries |
+
+| **Items 1760 and 1761** | For resource industries |
+
+| 1760 | Exploration equipment |
+
+| 1761 | Accumulated amortization of exploration equipment |
+
+| 1762 | Shipping equipment |
+
+| 1763 | Accumulated amortization of shipping equipment |
+
+| 1764 | Ships and boats |
+
+| 1765 | Accumulated amortization of ships and boats |
+
+| 1766 | Aircraft |
+
+| 1767 | Accumulated amortization of aircraft |
+
+| 1768 | Signs |
+
+| 1769 | Accumulated amortization of signs |
+
+| 1770 | Small tools |
+
+| 1771 | Accumulated amortization of small tools |
+
+| 1772 | Radio and communication equipment |
+
+| 1773 | Accumulated amortization of radio and communication equipment |
+
+| 1774 | Computer equipment/software |
+
+| 1775 | Accumulated amortization of computer equipment/software |
+
+| **Items 1776 and 1777** | For the arts, entertainment, and recreation industry |
+
+| 1776 | Musical instruments |
+
+| 1777 | Accumulated amortization of musical instruments |
+
+| **Items 1778 to 1781** | For information and cultural industry |
+
+| 1778 | Satellites |
+
+| 1779 | Accumulated amortization of satellites |
+
+| 1780 | Earth stations |
+
+| 1781 | Accumulated amortization of earth stations |
+
+| 1782 | Machinery and equipment under construction |
+
+| 1783 | Transportation equipment |
+
+| 1784 | Accumulated amortization of transportation equipment |
+
+| 1785 | Other machinery and equipment |
+
+| 1786 | Accumulated amortization of other machinery and equipment |
+
+| *1787 | Furniture and fixtures |
+
+| 1788 | Accumulated amortization of furniture and fixtures **GIFI-Short:** Include the accumulated depreciation or amortization of any of the items on line 1787. |
+
+| **1900** | **Other tangible capital assets** art, books, chinaware, cutlery, utensils, uniforms, culverts, dams, golf courses, grain elevators, grandstands, swimming pools, towers, and trailer parks **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 1902, 1904, 1906, 1908, 1910, 1912, 1914, 1916, 1918, 1920 and 1921. |
+
+| **1901** | **Accumulated amortization of other tangible capital assets** **GIFI-Short:** Include the accumulated depreciation or amortization of any of the items on line 1900. **Note** Do not reduce amounts on lines 1900 and 1901 by government grants and investment tax credits. Report the net amount on line 3320. |
+
+| **Items 1902 and 1903** | For the forestry and logging industry |
+
+| 1902 | Logging roads |
+
+| 1903 | Accumulated amortization of logging roads |
+
+| 1904 | Asphalt and parking areas |
+
+| 1905 | Accumulated amortization of asphalt and parking areas |
+
+| 1906 | Wharves docks, float walks, and marinas |
+
+| 1907 | Accumulated amortization of wharves |
+
+| 1908 | Fences |
+
+| 1909 | Accumulated amortization of fences |
+
+| 1910 | Capital leases – Buildings |
+
+| 1911 | Accumulated amortization of capital leases – Buildings |
+
+| 1912 | Capital leases – Equipment |
+
+| 1913 | Accumulated amortization of capital leases – Equipment |
+
+| 1914 | Capital leases – Vehicles |
+
+| 1915 | Accumulated amortization of capital leases – Vehicles |
+
+| 1916 | Capital leases – Others rented signs |
+
+| 1917 | Accumulated amortization of capital leases – Others |
+
+| 1918 | Leasehold improvements |
+
+| 1919 | Accumulated amortization of leasehold improvements |
+
+| 1920 | Other capital assets under construction |
+
+| 1921 | Campsites |
+
+| 1922 | Accumulated amortization of campsites |
+
+| **2008** | **Total tangible capital assets** |
+
+| **2009** | **Total accumulated amortization of tangible capital assets** |
+
+| **Items 2010 to 2179 – Intangible capital assets** | Item 2178 – Total intangible capital assets, represents the sum of all intangible capital assets reported, and item 2179 – Total accumulated amortization of intangible capital assets, represents the sum of all the accumulated amortization of the intangible capital assets reported, within items 2010 to 2077. When reporting this breakdown, the net final amount of the intangible capital assets is not to be shown anywhere on the GIFI. However, if your financial statements show an amount for "intangibles" for which there is no breakdown, this item could be reported under Item 2178 – Total intangible capital assets. |
+
+| **2010** | **Intangible assets** concessions, formulas, franchises, and organization costs **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 2012, 2014, 2016, 2018, 2020, 2022, 2024 and 2026, as well as concessions, formulas, franchises and organization costs. |
+
+| **2011** | **Accumulated amortization of intangible assets** **GIFI-Short:** Include the accumulated amortization of any items reported at line 2010. |
+
+| 2012 | Goodwill |
+
+| 2013 | Accumulated amortization of goodwill applies to tax years before 2002 |
+
+| 2014 | Quota |
+
+| 2015 | Accumulated amortization of quota |
+
+| 2016 | Licences |
+
+| 2017 | Accumulated amortization of licences |
+
+| 2018 | Incorporation costs (corporations only) |
+
+| 2019 | Accumulated amortization of incorporation costs (corporations only) |
+
+| 2020 | Trademarks/patents |
+
+| 2021 | Accumulated amortization of trademarks/patents |
+
+| 2022 | Customer lists |
+
+| 2023 | Accumulated amortization of customer lists |
+
+| 2024 | Rights |
+
+| 2025 | Accumulated amortization of rights |
+
+| 2026 | Research and development |
+
+| 2027 | Accumulated amortization of research and development |
+
+| **Items 2070 to 2077** | For resource industries |
+
+| **2070** | **Resource rights** |
+
+| **2071** | **Accumulated amortization of resource rights** |
+
+| 2072 | Timber rights |
+
+| 2073 | Accumulated amortization of timber rights |
+
+| 2074 | Mining rights |
+
+| 2075 | Accumulated amortization of mining rights |
+
+| 2076 | Oil and gas rights |
+
+| 2077 | Accumulated amortization of oil and gas rights |
+
+| **2178** | **Total intangible capital assets** |
+
+| **2179** | **Total accumulated amortization of intangible capital assets** |
+
+| GIFI code | GIFI name |
+
+| --- | --- |
+
+| **Items 2180 to 2183**(corporations only) | long-term amounts due from shareholder(s)/director(s), such as advances, loans, and notes |
+
+| **2180** | **Due from shareholder(s)/director(s)** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 2181 to 2183. |
+
+| 2181 | Due from individual shareholder(s) |
+
+| 2182 | Due from corporate shareholder(s) due from parent company |
+
+| 2183 | Due from director(s) |
+
+| **2190** | **Due from members** advances, loans, and notes to members of co-operatives or credit unions. For cooperatives and credit unions. |
+
+| **2200** | **Investment in joint venture(s)/partnership(s)** long-term investment or equity in joint venture(s), partnership(s), and syndicate(s) |
+
+| **Items 2210 to 2214** (partnerships only) | long-term advances/loans/notes between the partners and the partnership |
+
+| **2210** | **Due from member(s)/general partner(s)** |
+
+| 2211 | Due from limited partners |
+
+| 2212 | Due from members that are partnerships |
+
+| 2213 | Due from general partners |
+
+| 2214 | Due from specified members who are not limited partners |
+
+| **2220** | **Due from joint venture(s)/partnership(s)** long-term amounts due from joint venture(s)/partnership(s), or syndicate(s), such as advances, loans, and notes |
+
+| **Items 2240 to 2250** | "Related parties" can refer to affiliate, associated, and subsidiary corporations. **Note** Long-term investment in a parent company must be reported under the appropriate item in this block; however, item 2182 – Due from corporate shareholder(s), must be used for long-term amounts due from a parent company. |
+
+| **2240** | **Due from/investment in related parties** **GIFI-Short:** Related parties can refer to affiliate, associated, and subsidiary corporations. **Note** Long term investment in a parent company must be reported on line 2240, and long term amount due from a parent company must be reported on line 2180. Include all amounts here that would have otherwise been reported under items 2241 to 2250. |
+
+| 2241 | Due from/investment in Canadian related parties |
+
+| 2242 | Shares in Canadian related corporations |
+
+| 2243 | Loans/advances to Canadian related corporations |
+
+| 2244 | Investment in Canadian related corporations at cost |
+
+| 2245 | Investment in Canadian related corporations at equity |
+
+| 2246 | Due from/investment in foreign related parties |
+
+| 2247 | Shares in foreign related corporations |
+
+| 2248 | Loans/advances to foreign related corporations |
+
+| 2249 | Investment in foreign related corporations at cost |
+
+| 2250 | Investment in foreign related corporations at equity |
+
+| **2280** | **Investment in co-tenancy** investment in co-ownerships |
+
+| **2300** | **Long-term investments** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 2301 to 2311. |
+
+| 2301 | Foreign shares |
+
+| 2302 | Other types of foreign investments foreign investments in joint ventures, partnerships, bonds, and debentures |
+
+| 2303 | Canadian shares |
+
+| 2304 | Government of Canada debt Government of Canada long-term bonds and debentures |
+
+| 2305 | Canadian, provincial, and municipal government debt |
+
+| 2306 | Canadian corporate bonds and debentures long-term bond coupons and bond deposits |
+
+| **Items 2307 to 2310** | For finance and insurance or management of companies industries |
+
+| 2307 | Debt securities |
+
+| 2308 | Equity securities |
+
+| 2309 | Securities purchased under resale agreements |
+
+| 2310 | Central credit union shares |
+
+| 2311 | Other Canadian long-term investments |
+
+| **Items 2360 to 2364** | For businesses that provide long-term loans such as those in the finance and insurance industries |
+
+| **2360** | **Long-term loans** advances and notes shown long-term. **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 2361 to 2364. |
+
+| 2361 | Mortgages |
+
+| 2362 | Personal and credit card loans |
+
+| 2363 | Business and government loans |
+
+| 2364 | Line of credit |
+
+| **2420** | **Other long-term assets** investment tax credits, stock exchange seats, and utilities deposits **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 2421 to 2427. |
+
+| 2421 | Future (deferred) income taxes (corporations only) income taxes applicable to future years, and reserve for income taxes, shown long-term |
+
+| 2422 | Deferred pension charges |
+
+| 2423 | Deferred unrealized exchange losses |
+
+| 2424 | Other deferred items/charges debt discount and expense, deferred development costs, deferred finance charges, deferred organization expense, lease inducements, tenant inducements, and cost on incomplete contracts |
+
+| 2425 | Accumulated amortization of deferred charges |
+
+| 2426 | Reserve fund |
+
+| 2427 | Cash surrender value of life insurance |
+
+| **2589** | **Total long-term assets** |
+
+| **2590** | **Assets held in trust** trust fund, trust assets, or funds held in escrow – Corporations such as collection agencies, funeral homes, insurance agencies, real estate agencies, travel agencies, and travel wholesalers must use this item. An amount reported under this item must have a balancing amount reported under item 3470 – Amounts held in trust, in the liabilities section. |
+
+| **2599** | **Total assets** This item represents the total of all current, capital, long-term assets, and assets held in trust and **must** be reported (see [Validity check items](#toc41)). |
+
+### Liabilities
+
+| GIFI code | GIFI name |
+
+| --- | --- |
+
+| **2600** | **Bank overdraft** bank indebtedness |
+
+| 2620 | **Amounts payable and accrued liabilities** accrued liabilities, agreements payable, claims payable, rent payable, and utilities payable **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 2621 to 2629, as well as agreements, claims, rent, and utilities payable. |
+
+| 2621 | Trade payables |
+
+| 2622 | Trade payables to related parties |
+
+| 2623 | Holdbacks payable |
+
+| 2624 | Wages payable |
+
+| 2625 | Management fees payable |
+
+| 2626 | Bonuses payable |
+
+| 2627 | Employee deductions payable payroll deductions for employee benefits such as employment insurance, Canada Pension Plan, Quebec Parental Insurance Plan, group insurance, and pension plans |
+
+| 2628 | Withholding taxes payable |
+
+| 2629 | Interest payable accrued interest payable |
+
+| 2630 | Amounts payable to members of NPOs This item is for corporations that are non-profit organizations to report amounts payable to members. |
+
+| **2680** | **Taxes payable** capital taxes, foreign taxes, GST/HST, current income taxes, logging taxes, sales taxes, and tax credits payable |
+
+| **2700** | **Short-term debt** corporate loans, demand loans, loans from foreign banks, and notes payable shown short-term **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 2701 to 2706, 2840, as well as corporate or demand loans, and loans from Canadian or foreign banks. |
+
+| 2701 | Loans from Canadian banks |
+
+| **Items 2702 to 2704** | For finance and insurance or management of companies industries |
+
+| 2702 | Liability for securities sold short |
+
+| 2703 | Liability for securities sold under repurchase agreements |
+
+| 2704 | Gold and silver certificates |
+
+| 2705 | Cheques and other items in transit |
+
+| 2706 | Lien notes |
+
+| 2707 | Credit card loans Include purchases made on your credit card for the purpose of earning business income. |
+
+| **2770** | **Deferred income** deferred capital or book gain, unearned income, unearned interest, unearned service charges, and unrealized foreign exchange gain shown current |
+
+| **Items 2780 to 2783** (corporations only) | Current amounts due to shareholder(s)/director(s), such as advances, loans, and notes |
+
+| **2780** | **Due to shareholder(s)/director(s)** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 2781 to 2789. |
+
+| 2781 | Due to individual shareholder(s) |
+
+| 2782 | Due to corporate shareholder(s) due to parent company |
+
+| 2783 | Due to director(s) |
+
+| **Items 2790 to 2794** (partnerships only) | current advances/loans/notes between the partnership and the partners |
+
+| **2790** | **Due to member(s)/general partner(s)** |
+
+| 2791 | Due to limited partners |
+
+| 2792 | Due to members that are partnerships |
+
+| 2793 | Due to general partners |
+
+| 2794 | Due to specified members who are not limited partners |
+
+| **2840** | **Due to joint venture(s)/partnership(s)** current amounts due to joint venture(s)/partnership(s), and syndicate(s) such as advances, loans, and notes |
+
+| **Items 2860 to 2863** | "Related parties" can refer to affiliate, associated, and subsidiary corporations. |
+
+| **2860**Footnote | **Due to related parties** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 2861 to 2863. |
+
+| 2861 | Demand notes due to related parties |
+
+| 2862 | Interest payable to related parties |
+
+| 2863 | Advances due to related parties |
+
+| ***2920** | **Current portion of long-term liability** |
+
+| **2940** | **Bankers' acceptances** for financial institutions – any amount reported under this item should be equal to the amount reported in Assets under item 1460 – Customers' liability under acceptances. For investment, finance, insurance, real estate and management of companies industries. |
+
+| **2960** | **Other current liabilities** progress payments shown current **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 2961 to 2966, as well as deferred income and unearned income shown current. |
+
+| 2961 | Deposits received bids, contract deposits, rental deposits, tenders, and security deposits |
+
+| 2962 | Dividends payable |
+
+| 2963 | Future (deferred) income taxes (corporations only) income taxes applicable to future years and reserve for income taxes shown current |
+
+| 2964 | Reserves for guarantees, warranties, or indemnities |
+
+| 2965 | General provisions/reserves contingent liabilities, provision for losses on loans, and pension reserves shown current |
+
+| 2966 | Crew shares amounts reported as crew shares in the fishing industry |
+
+| **3139** | **Total current liabilities** |
+
+| GIFI code | GIFI name |
+
+| --- | --- |
+
+| **3140** | **Long-term debt** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 3141 to 3149, as well as advances; loans or notes shown long term, due to joint ventures or partnerships; liability for securities sold short, liability for securities sold under repurchase agreements, and lien notes. |
+
+| 3141 | Mortgages |
+
+| 3142 | Farm Credit Corporation loan |
+
+| 3143 | Chartered bank loan |
+
+| 3144 | Credit Union/Caisse Populaire loan |
+
+| 3145 | Provincial or territorial government loan |
+
+| 3146 | Supply company loan |
+
+| 3147 | Private loan |
+
+| 3148 | Central, league, and federation loans for finance and insurance industries |
+
+| 3149 | Line of credit |
+
+| **Items 3150 and 3151** | For investment, finance, insurance, real estate and management of companies industries. |
+
+| 3150 | Liability for securities sold short |
+
+| 3151 | Liability for securities sold under repurchase agreements |
+
+| 3152 | Lien notes |
+
+| **3200** | **Deposit liabilities of financial institutions** This item applies to financial institutions and represents deposits made by customers. For investment, finance, insurance, real estate and management of companies industries. |
+
+| **3210** | **Bonds and debentures** |
+
+| **3220** | **Deferred income** deferred capital or book gain, unearned income, unearned interest, unearned service charges, and unrealized foreign exchange gain shown long-term |
+
+| **3240** | **Future (deferred) income taxes**(corporations only) income taxes applicable to future years and reserve for income taxes shown long-term |
+
+| **Items 3260 to 3263** (corporations only) | long-term amounts due to shareholder(s)/director(s), such as advances, loans, and notes |
+
+| **3260**Footnote | **Due to shareholder(s)/director(s)** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 3261 to 3263. |
+
+| 3261 | Due to individual shareholder(s) |
+
+| 3262 | Due to corporate shareholder(s) due to parent company |
+
+| 3263 | Due to director(s) |
+
+| **3270** | **Due to members** advances, loans, and notes from members of co-operatives or credit unions |
+
+| **3280** | **Due to joint venture(s)/partnership(s)** long-term amounts due to joint venture(s)/partnership(s), and syndicate(s) such as advances, loans, and notes |
+
+| **Items 3291 to 3295** (partnerships only) | long-term advances/loans/notes between the partnership and the partners |
+
+| 3291Footnote | Due to member(s)/general partner(s) |
+
+| 3292 | Due to limited partners |
+
+| 3293 | Due to members that are partnerships |
+
+| 3294 | Due to general partners |
+
+| 3295 | Due to specified members who are not limited partners |
+
+| **Items 3300 to 3302** | "Related parties" can refer to affiliate, associated, and subsidiary corporations. |
+
+| **3300**Footnote | **Due to related parties** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 3301 and 3302. |
+
+| 3301 | Amounts owing to related Canadian parties |
+
+| 3302 | Amounts owing to related foreign parties |
+
+| **3320** | **Other long-term liabilities** minority shareholder interest and other deferred credits shown long-term **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 3321 to 3328. |
+
+| 3321 | Long-term obligations/commitments/capital leases |
+
+| 3322 | Reserves for guarantees, warranties, or indemnities |
+
+| 3323 | Provision for site restoration dismantlement and abandonment costs, future removal, and site restoration costs. For resource industries. |
+
+| 3324 | Contributions to qualifying environmental trust environmental trust, mine reclamation, and reclamation of waste disposal sites. For resource industries. |
+
+| 3325 | General provisions/reserves contingent liabilities, provision for losses on loans, and pension reserves shown long-term |
+
+| 3326 | Preference shares restated (corporations only) This item applies to preferred shares that have been restated as a liability and reported as a long-term liability. |
+
+| 3327 | Member allocations (corporations only) allocation to members of credit unions and co-operatives |
+
+| 3328 | Deferred revenue from incomplete contracts intended for contractors using the completion method of reporting revenue to report deferred revenue from incomplete contracts |
+
+| **3450** | **Total long-term liabilities** |
+
+| **3460** | **Subordinated debt** |
+
+| **3470** | **Amounts held in trust** trust fund, trust liabilities, or funds held in escrow – Corporations such as collection agencies, funeral homes, insurance agencies, real estate agencies, travel agencies, and travel wholesalers would use this item. An amount reported under this item should have a balancing amount reported in item 2590 – Assets held in trust, in the assets section. |
+
+| **3499** | **Total liabilities** This item represents the total of all current and long-term liabilities and **must** be reported (see [Validity check items](#toc41)). |
+
+#### Equity – (corporations only)
+
+| GIFI code | GIFI name |
+
+| --- | --- |
+
+| **3500** | **Common shares** **GIFI-Short:** Include stock other than preferred stock which entitles the owner to a share of the corporation's profits and a share of the voting power in shareholder elections. |
+
+| **3520** | **Preferred shares** **GIFI-Short:** Include stock whose holders are guaranteed priority in the payment of dividends. |
+
+| **3540** | **Contributed and other surplus** **GIFI-Short:** Include all amounts here that would have otherwise appeared under items 3541 to 3543. |
+
+| 3541 | Contributed surplus capital donations, capital grants, and paid-in surplus |
+
+| 3542 | Appraisal surplus excess of appraisal value over cost, revaluation account, and revaluation surplus |
+
+| 3543 | General reserve general reserves, inventory reserves, mortgage reserves, and security reserves |
+
+| **3570** | **Head office account** home office account and head office investment |
+
+| **3580** | **Accumulated other comprehensive income** This item is intended for use by corporations and partnerships using either the pre-changeover accounting standards (Part V of the CICA Accounting Handbook) or International Financial Reporting Standard (IFRS) (Part I of the CICA Accounting Handbook) when preparing their financial statements. Report the accumulated balance of all components of other comprehensive income. This includes revenues, expenses, gains, and losses that are recognized in comprehensive income, but are not included in net income. |
+
+| **3600** | **Retained earnings/deficit** |
+
+| **3620** | **Total shareholder equity** This item represents the sum of all shareholder equity amounts and **must** be reported (see [Validity check items](#toc41)). |
+
+| **3640** | **Total liabilities and shareholder equity** |
+
+#### Partners' Capital (partnerships only)
+
+| GIFI code | GIFI name |
+
+| --- | --- |
+
+| **3540** | **Contributed and other surplus** |
+
+| 3541 | Contributed surplus capital donations, capital grants, and paid-in surplus |
+
+| 3542 | Appraisal surplus excess of appraisal value over cost, revaluation account, and revaluation surplus |
+
+| 3543 | General reserve general reserves, inventory reserves, mortgage reserves, and security reserves |
+
+| **3570** | **Head office account** home office account and head office investment |
+
+| **3580** | **Accumulated other comprehensive income** This item is intended for use by corporations and partnerships using either the pre–changeover accounting standards (Part V of the CICA Accounting Handbook) or International Financial Reporting Standard (IFRS) (Part I of the CICA Accounting Handbook) when preparing their financial statements. Report the accumulated balance of all components of other comprehensive income. This includes revenues, expenses, gains, and losses that are recognized in comprehensive income, but are not included in net income. |
+
+| **3545** | **Net income/loss** Any amount reported under this item should be equal to the amount reported under item 9999 – Net income/loss after extraordinary items. Exception: If there is an amount reported under item 9998, item 3545 should be equal to item 9999 plus or minus 9998. |
+
+| **3546** | **Prior period adjustments** |
+
+| **3547** | **Currency adjustments** |
+
+| **3548** | **Unusual revenue items** |
+
+| **3550** | **Total net income/loss** |
+
+| **3551** | **General partners' capital beginning balance** |
+
+| **3552** | **General partners' net income (loss)** |
+
+| **3553** | **General partners' drawings** |
+
+| **3554** | **General partners' contributions during the fiscal period** |
+
+| **3560** | **General partners' capital ending balance** |
+
+| **3561** | **Limited partners' capital beginning balance** |
+
+| **3562** | **Limited partners' net income (loss)** |
+
+| **3563** | **Limited partners' drawings** |
+
+| **3564** | **Limited partners' contribution during the fiscal period** |
+
+| **3571** | **Limited partners' capital ending balance** |
+
+| **3575** | **Total partners' capital** This item is the sum of all partner capital amounts and **must**be reported (see [Validity check items](#toc41)). |
+
+| **3585** | **Total liabilities and partners' capital** |
+
+### Retained Earnings Information (corporations only)
+
+#### Retained earnings/deficit
+
+| GIFI code | GIFI name |
+
+| --- | --- |
+
+| **3660** | **Retained earnings/deficit – Start** |
+
+| **3680** | **Net income/loss** Any amount reported under this item should be equal to the amount reported under item 9999 – Net income/loss after taxes and extraordinary items. Exception: If there is an amount reported under item 9998, item 3680 should be equal to item 9999 plus or minus item 9998. |
+
+| **3700** | **Dividends declared** liquidating dividends, premium paid on redemption of shares, and stock dividends declared on shares **GIFI-Short:** Also include all amounts here that would have otherwise been reported under items 3701 and 3702. |
+
+| 3701 | Cash dividends |
+
+| 3702 | Patronage dividends |
+
+| **3720** | **Prior period adjustments** |
+
+| **3740** | **Other items affecting retained earnings**dividends credited to investment account – If you choose to report dividends received in retained earnings rather than on the income statement, add the dividend back on Schedule 1, Net income (loss) for income tax purposes. **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 3741 to 3744, as well as prior period adjustments. |
+
+| 3741 | Share redemptions |
+
+| 3742 | Special reserves (corporations and co-ops only) |
+
+| 3743 | Currency adjustments |
+
+| 3744 | Unusual revenue items |
+
+| 3745 | Interfund transfer This item is intended for corporations that are non-profit organizations to report fund amounts transferred to/from retained earnings from/to the income statement. |
+
+| **3849** | **Retained earnings/deficit – End** This item represents the sum of all retained earnings amounts and **must** be reported if you are reporting retained earnings (see [Validity check items](#toc41)). An amount reported under this item should be the same amount reported under item 3600 – Retained earnings/deficit. |
+
+### Income Statement Information
+
+****0001 – Operating name****
+
+Complete this section if the operating name is different from the corporation's or partnership's name (for example, 111111 Ontario Ltd., operating as Maggie's Muffins).
+
+****0002 – Description of the operation****
+
+Complete the description of the operation when reporting more than one income statement, and the activity is different from the major business activity. See [Appendix B](#toc64) of this guide for more information on reporting multiple lines of business.
+
+****0003 – Sequence number****
+
+For more than one income statement, use sequence numbers for each statement : number 01 for the income statement relating to the main activity, with supplementary income statements numbered consecutively from 02.
+
+### Other comprehensive income
+
+**Items 7000 to 7020**–For corporations and partnerships using the International Financial Reporting Standards (IFRS). Other comprehensive income includes revenues, expenses, gains, and losses that are recognized in comprehensive income, but not included in net income. Line 9998 – "Total other comprehensive income" is the sum of the following items:
+
+| GIFI code | GIFI name |
+
+| --- | --- |
+
+| **7000** | **Revaluation surplus** change in carrying amount surplus as a result of revaluation of property, plant and equipment, and intangible assets |
+
+| **7002** | **Defined benefit gains/losses** actuarial gains and losses on defined benefit plans recognized in the period in which they occur |
+
+| **7004** | **Foreign operation translation gains/losses** gains and losses arising from translating the financial statements of a foreign operation |
+
+| **7006** | **Equity instruments gains/losses** subsequent changes in the fair market value of an investment in an equity instrument that is not held for trading |
+
+| **7008** | **Cash flow hedge effective portion gains/losses** effective portion of gains and losses on hedging instruments in a cash flow hedge |
+
+| **7010** | **Income tax relating to components of other comprehensive income** (corporations only) tax relating to each component of other comprehensive income if reported before tax |
+
+| **7020** | **Miscellaneous other comprehensive income** gains and losses relating to other comprehensive income not included in lines 7000 to 7008 |
+
+### Revenue
+
+| GIFI code | GIFI name |  |
+
+| --- | --- | --- |
+
+| **8000** | **Trade sales of goods and services** For corporations or partnerships who are not involved in the resource industry (items 8040 to 8053) or the fishing industry (items 8160 to 8166), but whose main source of income is the sale of a product or service. Amounts may be reported net of discounts allowed on sales, sales rebates, volume discounts, returns, and allowances. |  |
+
+| **8020** | **Sales of goods and services to related parties** See the explanation for item 8000 above. |  |
+
+| **8030** | **Interdivisional sales** |  |
+
+| **Items 8040 to 8053** | For resource industries |  |
+
+| **8040** | **Sales from resource properties** |  |
+
+| 8041 | Petroleum and natural gas sales |  |
+
+| 8042 | Petroleum and natural gas sales to related parties |  |
+
+| 8043 | Gas marketing |  |
+
+| 8044 | Processing revenue |  |
+
+| 8045 | Pipeline revenue |  |
+
+| 8046 | Seismic sales |  |
+
+| 8047 | Mining revenue |  |
+
+| 8048 | Coal revenue |  |
+
+| 8049 | Oil sands revenue |  |
+
+| 8050 | Royalty income |  |
+
+| 8051 | Oil and gas partnership/joint venture income/loss |  |
+
+| 8052 | Mining partnership/joint venture income/loss |  |
+
+| 8053 | Other production revenue well operating fees and sulphur revenue |  |
+
+| **8089** | **Total sales of goods and services** |  |
+
+| **8090** | **Investment revenue** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 8091 to 8094. |  |
+
+| 8091 | Interest from foreign sources This item may be reported as gross of withholding taxes; withholding taxes would then be reported under item 9283 – Withholding taxes |  |
+
+| 8092 | Interest from Canadian bonds and debentures |  |
+
+| 8093 | Interest from Canadian mortgage loans |  |
+
+| 8094 | Interest from other Canadian sources finance income, guaranteed investment certificates interest, interest on overpaid taxes, and loan interest |  |
+
+| 8095 | Dividend income **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 8096 and 8097. |  |
+
+| 8096 | Dividends from Canadian sources |  |
+
+| 8097 | Dividends from foreign sources may be reported gross of withholding taxes; withholding taxes would then be reported under item 9283 – Withholding taxes. |  |
+
+| **Items 8100 to 8103** | For finance and insurance industries |  |
+
+| **8100** | **Interest income (financial institutions)** |  |
+
+| 8101 | Loan interest |  |
+
+| 8102 | Securities interest |  |
+
+| 8103 | Deposits with banks' interest |  |
+
+| **8120** | **Commission revenue** commissions earned on the sale of products or services by businesses such as advertising agencies, brokers, insurance agents, lottery ticket sales, sales representatives, and travel agencies. Some corporations or partnerships may present sales and cost of sale on their income statement, with commission earned being the net amount. Report only the commission on the GIFI. Compensation could also be reported under this item (for example, compensation for collecting sales tax). Example of commission revenue Description AmountLottery ticket sales $40,000 Cost of lottery tickets 25,000 Commission $15,000 This would be reported as: Item 8120 – Commission revenue 15,000 **GIFI-Short:** Also include all amounts under item 8121. |  |
+
+| 8121 | Commission income on real estate transactions |  |
+
+| **8140** | **Rental revenue** revenue from the rental of boats, hotel or motel rooms, machinery or equipment, and storage lockers **GIFI-Short:** Also include all amounts here that would have otherwise been reported under items 8141 to 8150. |  |
+
+| 8141 | Real estate rental revenue amounts received as income from renting or leasing apartments, commercial buildings, land, office space, residential housing, and shopping centres. This item may also be used to report income from investments in co-tenancies and co-ownerships. |  |
+
+| 8142 | Film rental revenue |  |
+
+| **8150** | **Vehicle leasing** – for the automotive equipment rental and leasing sector – long-term vehicle leasing and short-term vehicle leasing. |  |
+
+| **Items 8160 to 8166** | For the fishing industry |  |
+
+| **8160** | **Fishing revenue** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 8161 to 8166. |  |
+
+| 8161 | Fish products |  |
+
+| 8162 | Other marine products Amounts received from the sale of flippers, herring roe, herring scales, Irish moss, kelp, seal meat, and seaweed. |  |
+
+| 8163 | Fishing grants, credits, and rebates |  |
+
+| 8164 | Fishing subsidies |  |
+
+| 8165 | Compensation for loss of fishing income or property Amounts received from The Atlantic Groundfish Strategy (TAGS) or insurance proceeds. |  |
+
+| 8166 | Sharesperson income |  |
+
+| **Items 8210 to 8212** | **Realized gains/losses on disposal of assets**– These items represent the net amount of proceeds over net book value on the disposal or sale of an asset. Note Losses on disposal/sale of assets shown as an expense should be reported under these items as a negative. |  |
+
+| **8210** | **Realized gains/losses on disposal of assets** gain/loss or profit/loss on disposal/sale of capital assets **GIFI-Short:** Also include amounts under items 8211 and 8212, as well as book gains or losses, gain or loss on disposal of fixed assets, and recaptured depreciation. |  |
+
+| 8211 | Realized gains/losses on sale of investments profit/loss on disposal of investments or marketable securities |  |
+
+| 8212 | Realized gains/losses on sale of resource properties |  |
+
+| **Items 8220 to 8224** | For non-profit organizations |  |
+
+| **8220** | **NPO amounts received** |  |
+
+| 8221 | Membership fees |  |
+
+| 8222 | Assessments |  |
+
+| 8223 | Gifts |  |
+
+| 8224 | Gross sales and revenues from organizational activities**GIFI-Short:** Use field 8220 to report NPOs' amounts received other than 8221 to 8224. |  |
+
+| **Items 8230 to 8250** | **Other revenue**–This block of items is for secondary sources of income. Although there are items in this block that are often main sources of income, item 8000 – Trade sales of goods and services, should still be used to report the main income.ExampleA corporation or partnership whose main source of revenue is consulting fees would choose item 8000 – Trade sales of goods and services, to report this income. However, if the corporation's or partnership's main source of income is from architectural design, but there is secondary income from consulting, the architectural income would be reported under item 8000 and the consulting income under item 8241 – Consulting fees. |  |
+
+| **8230**Footnote | **Other revenue** gains on settlement of a debt and miscellaneous revenue **GIFI-Short:** Also include all amounts here that would have otherwise been reported under items 8231, 8233, 8236, 8238 to 8241, and 8243 to 8250. |  |
+
+| 8231 | Foreign exchange gains/losses amortization of deferred exchange gains and losses and realized gains and losses on foreign currency |  |
+
+| 8232 | Income/loss of subsidiaries/affiliates for corporations or partnerships that report investment in subsidiary corporations on the equity basis |  |
+
+| 8233 | Income/loss of other divisions |  |
+
+| 8234 | Income/loss of joint ventures for corporations or partnerships that report investments in joint ventures on the equity basis |  |
+
+| 8235 | Income/loss of partnerships for corporations or partnerships that report investments in partnerships on the equity basis Note A loss on foreign exchange, subsidiaries/affiliates, other divisions, joint ventures, or partnerships shown as an expense should be reported under the appropriate item (items 8231 to 8235) as a negative. |  |
+
+| 8236 | Realization of deferred revenues realization of interest income, realization of instalment payments, and realization of service charges |  |
+
+| *8237 | Royalty income other than resource royalty income or royalty fees from computer programs, copyrights, motion pictures, and patents * Corporations, including non-profit organizations, can use this item to report royalties received. |  |
+
+| 8238 | Alberta royalty tax credits |  |
+
+| 8239 | Management and administration fees |  |
+
+| 8240 | Telecommunications revenue |  |
+
+| 8241 | Consulting fees |  |
+
+| *8242 | Subsidies and grants government assistance and subsidy payments (for non-fishing corporations), federal, provincial, territorial, or municipal grants received * Corporations, including non-profit organizations, and partnerships can use this item to report federal, provincial, territorial, or municipal grants received. If COVID-19 related assistance is received, include it under item 8242. |  |
+
+| 8243 | Sale of by-products secondary income earned by a garage selling discarded oil or tires to be used for other than the intended use, or a restaurant selling discarded food as pig feed |  |
+
+| **Items 8244 to 8246** | For finance and insurance industries. |  |
+
+| 8244 | Deposit services |  |
+
+| 8245 | Credit services |  |
+
+| 8246 | Card services |  |
+
+| 8247 | Patronage dividends |  |
+
+| 8248 | Insurance recoveries life insurance proceeds on the death of insured executives |  |
+
+| 8249 | Expense recoveries |  |
+
+| 8250 | Bad debt recoveries |  |
+
+| **8299** | **Total revenue** This item represents the sum of all revenue amounts and **must** be reported if there is no farming revenue (see [Validity check items](#toc41)). |  |
+
+#### Cost of sales
+
+| GIFI code | GIFI name |
+
+| --- | --- |
+
+| **8300** | **Opening inventory** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 8301 to 8303. |
+
+| 8301 | Opening inventory – Finished goods |
+
+| 8302 | Opening inventory – Raw materials |
+
+| 8303 | Opening inventory – Goods in process opening inventory – work in progress |
+
+| **8320** | **Purchases/cost of materials** cost of merchandise sold, fuel and purchased power, manufacturing supplies used, materials and merchandise purchased. The amounts related to this item may be reported net of discounts earned on purchases. |
+
+| **8340** | **Direct wages** commissions, labour, production wages, and supervision when shown in cost of sales |
+
+| **8350** | **Benefits on direct wages** |
+
+| **8360** | **Trades and sub-contracts** contract labour, custom work, sub-contract labour, and outside labour |
+
+| **8370** | **Production costs other than resource** |
+
+| **Items 8400 to 8441** | For resources industries |
+
+| **8400** | **Resource production costs** gas processing, oil and gas operating expenses, oil and gas production, milling, smelting, and refining. |
+
+| 8401 | Pipeline operations |
+
+| 8402 | Drilling |
+
+| 8403 | Site restoration costs future removal costs |
+
+| 8404 | Gross overriding royalty |
+
+| 8405 | Freehold royalties |
+
+| 8406 | Other producing properties rental freehold lease rentals and freehold delay rentals. |
+
+| 8407 | Prospect/geological digital processing, geochemical work, geophysical work, gravity meters, magnetic playbacks, seismographs, staking, and velocity surveys |
+
+| 8408 | Well operating, fuel and equipment |
+
+| 8409 | Well abandonment and dry holes |
+
+| 8410 | Other lease rentals |
+
+| 8411 | Exploration expenses aerial surveys |
+
+| 8412 | Development expenses stripping costs |
+
+| **8435** | **Crown charges** |
+
+| 8436 | Crown royalties |
+
+| 8437 | Crown lease rentals |
+
+| 8438 | Freehold mineral tax |
+
+| 8439 | Mining taxes |
+
+| 8440 | Oil sand leases |
+
+| 8441 | Saskatchewan resource surcharge |
+
+| **8450** | **Other direct costs** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 8451 to 8461. |
+
+| 8451 | Equipment hire and operation |
+
+| **Items 8452 to 8455** | For the forestry and logging industry |
+
+| 8452 | Log yard barker, bucking, clipper, log sorting, and sawing |
+
+| 8453 | Forestry costs cutting, firefighting supplies, scaling, and silviculture |
+
+| 8454 | Logging road costs road clearing, ploughing, and grating |
+
+| 8455 | Stumpage costs |
+
+| 8456 | Royalty costs royalties paid to holders of copyrights, movies, patents, performing rights, and trademarks, found in cost of sales |
+
+| 8457 | Freight-in and duty customs and excise duty |
+
+| 8458 | Inventory write-down revaluation of inventory and inventory adjustments |
+
+| 8459 | Direct cost amortization of tangible assets amortization of leasehold improvements and amounts referred to as depreciation shown in cost of sales |
+
+| 8460 | Direct cost amortization of natural resource assets amounts referred to as depletion shown in cost of sales |
+
+| 8461 | Overhead expenses allocated to cost of sales amounts reported under cost of sales that are normally considered operating expenses |
+
+| **8500** | **Closing inventory** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 8501 to 8503. |
+
+| 8501 | Closing inventory – Finished goods |
+
+| 8502 | Closing inventory – Raw materials |
+
+| 8503 | Closing inventory – Goods in process closing inventory – work in progress |
+
+| **8518** | **Cost of sales** This item represents the sum of all cost of sales amounts. |
+
+| **8519** | **Gross profit/loss** This item represents the net amount of item 8089 – Total sales of goods and services, less item 8518 – Cost of sales. It may also be referred to as gross margin. |
+
+#### Operating expenses
+
+| GIFI code | GIFI name |
+
+| --- | --- |
+
+| **8520** | **Advertising and promotion** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 8521 to 8524. |
+
+| 8521 | Advertising catalogues, media expenses, and publications |
+
+| 8522 | Donations charitable donations, donations to the Crown, and political donations |
+
+| 8523 | Meals and entertainment tickets (such as theatre, concert and athletic events.) |
+
+| 8524 | Promotion booths, demonstrations/presentations, displays, prospectus, samples, and seminars (given) |
+
+| **8570** | **Amortization of intangible assets** amortization of intangible assets such as deferred charges, goodwill (before 2002), patents, franchises, copyrights, trademarks, organization costs, and research and development costs |
+
+| **8571** | **Goodwill impairment loss** applies to 2002 and later tax years |
+
+| **8590** | **Bad debt expense** allowance for bad debts, allowance/provision for doubtful accounts, bad debt, bad debt written-off, provision for bad debts, and reserve for bad debt |
+
+| **8610** | **Loan losses** for loans, mortgages, and other loan-type amounts written off |
+
+| 8611 | Provision for loan losses provision/allowance for loan, mortgage, or credit losses |
+
+| **8620** | **Employee benefits** association dues, clothing allowance, lodging, payroll deductions/levies/taxes, and room and board **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 8621 to 8623. |
+
+| 8621 | Group insurance benefits medical, dental, and life insurance plans |
+
+| 8622 | Employer's portion of employee benefits Canada Pension Plan, company pension plan, employment insurance, Quebec Parental Insurance Plan, and Workers' Compensation |
+
+| 8623 | Contributions to deferred income plans contributions to a registered pension plan, a deferred profit sharing plan, an employee profit sharing plan, and a registered supplementary unemployment benefit plan |
+
+| **8650** | **Amortization of natural resource assets** amounts referred to as depletion |
+
+| **8670** | **Amortization of tangible assets** amortization of leasehold improvements and amounts referred to as depreciation |
+
+| **8690** | **Insurance** bonding, fire insurance, liability insurance, premium expenses, property insurance, and vehicle insurance |
+
+| 8691 | Life insurance on executives insurance policies where the beneficiary is the corporation rather than the estate of the executive |
+
+| **8710** | **Interest and bank charges** finance charges, bank charges, and interest payments on capital leases **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 8711 to 8717. |
+
+| 8711 | Interest on short-term debt |
+
+| 8712 | Interest on bonds and debentures amortization of bond discounts |
+
+| 8713 | Interest on mortgages amortization of mortgage discount or expense |
+
+| 8714 | Interest on long-term debt |
+
+| 8715 | Bank charges |
+
+| 8716 | Credit card charges interest on credit cards |
+
+| 8717 | Collection and credit costs |
+
+| **Items 8740 to 8742** | For finance and insurance industries. |
+
+| **8740** | **Interest paid (financial institutions)** |
+
+| 8741 | Interest paid on deposits |
+
+| 8742 | Interest paid on bonds and debentures |
+
+| **8760** | **Business taxes, licences, and memberships** municipal taxes and land transfer taxes, beverage licences, business charges, motor vehicle licences, motor vehicle registration permits, and trade licences **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 8761 to 8764. |
+
+| 8761 | Memberships dues and subscriptions |
+
+| 8762 | Business taxes business tax, provincial capital tax (excluding Nova Scotia tax on large corporations), bridge tolls, gross receipt tax, health and education tax, hospital tax, permits, road tolls, and taxes on leases |
+
+| 8763 | Franchise fees |
+
+| 8764 | Government fees |
+
+| **8790** | **Nova Scotia tax on large corporations** |
+
+| **8810** | **Office expenses** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 8811 to 8813. |
+
+| 8811 | Office stationery and supplies |
+
+| 8812 | Office utilities utility expenses related to an office such as electricity, gas, heating, hydro, and telephone |
+
+| 8813 | Data processing word processing |
+
+| **8860** | **Professional fees** engineering fees, professional services, and surveyor fees **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 8861 to 8877. |
+
+| 8861 | Legal fees lawyer and notary fees |
+
+| 8862 | Accounting fees bookkeeping |
+
+| 8863 | Consulting fees |
+
+| 8864 | Architect fees architectural design and illustration fees, and landscape architect fees |
+
+| 8865 | Appraisal fees real estate and jewellery appraisal, and financial valuation services |
+
+| 8866 | Laboratory fees |
+
+| 8867 | Medical fees |
+
+| 8868 | Veterinary fees breeding fees |
+
+| 8869 | Brokerage fees |
+
+| 8870 | Transfer fees land and property transfer fees |
+
+| 8871 | Management and administration fees |
+
+| 8872 | Refining and assay |
+
+| 8873 | Registrar and transfer agent fees |
+
+| 8874 | Restructuring costs reorganization costs |
+
+| 8875 | Security commission fees |
+
+| 8876 | Training expense animal training, management training, and staff development |
+
+| 8877 | Studio and recording |
+
+| **8910** | **Rental** rental expenses for arena, boat/vessel/ship, coal and lumberyards, railway sidings, safety deposit box/vaults, and parking charges **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 8911 to 8918. |
+
+| 8911 | Real estate rental apartment, building, land, and office rentals |
+
+| 8912 | Occupancy costs |
+
+| 8913 | Condominium fees |
+
+| 8914 | Equipment rental rental expenses for computer equipment, film, office machines, and road and construction equipment |
+
+| 8915 | Motor vehicle rentals |
+
+| 8916 | Moorage (boat) dock and wharf space |
+
+| 8917 | Storage rental expense for garages and warehouses |
+
+| 8918 | Quota rental forestry and logging quota rental expenses |
+
+| **8960** | **Repairs and maintenance** aircraft repairs and maintenance **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 8961 to 8964. |
+
+| 8961 | Repairs and maintenance – Buildings premises upkeep |
+
+| 8962 | Repairs and maintenance – Vehicles |
+
+| 8963 | Repairs and maintenance – Boats |
+
+| 8964 | Repairs and maintenance – Machinery and equipment gas and power line repairs and maintenance |
+
+| **9010** | **Other repairs and maintenance** janitorial services, landscaping, and yard maintenance |
+
+| 9011 | Machine shop expense |
+
+| 9012 | Road costs snow removal costs |
+
+| 9013 | Security alarm system and surveillance equipment repairs and maintenance |
+
+| 9014 | Garbage removal |
+
+| **9060** | **Salaries and wages** amounts not found in cost of sales such as administrative salaries, casual labour, cost of living allowance, down time, fees to employees, minimum wage levies, payroll remuneration, severance pay, supervision, and vacation pay **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 9061 to 9066. |
+
+| 9061 | Commissions |
+
+| 9062 | Crew share for the fishing industry |
+
+| 9063 | Bonuses incentive compensation |
+
+| 9064 | Directors fees |
+
+| 9065 | Management salaries officers' salaries |
+
+| 9066 | Employee salaries office salaries |
+
+| **9110** | **Sub-contracts** contract labour, contract work, custom work, and hired labour |
+
+| **9130** | **Supplies** medical supplies, veterinary drugs and supplies, wrapping and packing supplies |
+
+| 9131 | Small tools |
+
+| 9132 | Shop expense |
+
+| 9133 | Uniforms |
+
+| 9134 | Laundry dry-cleaning |
+
+| 9135 | Food and catering |
+
+| 9136 | Fishing gear |
+
+| 9137 | Nets and traps |
+
+| 9138 | Salt, bait, and ice |
+
+| 9139 | Camp supplies |
+
+| **9150** | **Computer-related expenses** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 9151 and 9152. |
+
+| 9151 | Upgrade updates to computer software |
+
+| 9152 | Internet |
+
+| **9180** | **Property taxes** municipal and realty taxes |
+
+| **9200** | **Travel expenses** airfare, hotel rooms, travel allowance, travel, and accommodations |
+
+| 9201 | Meetings and conventions seminars attended |
+
+| **9220** | **Utilities** |
+
+| 9221 | Electricity hydro |
+
+| 9222 | Water |
+
+| 9223 | Heat |
+
+| 9224 | Fuel costs coal, diesel, fuel, natural gas, oil, and propane for heating and cooking |
+
+| 9225 | Telephone and telecommunications cellular telephone, fax machine, and pager |
+
+| **9270** | **Other expenses** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 9200 to 9285. |
+
+| 9271 | Cash over/short |
+
+| 9272 | Reimbursement of parent company expense (corporations only) portion of expenses owing to parent |
+
+| 9273 | Selling expenses |
+
+| 9274 | Shipping and warehouse expense |
+
+| 9275 | Delivery, freight and express courier, customs, delivery and installation, distribution, ferry charges, freight and cartage, freight and duty, shipping and transportation |
+
+| 9276 | Warranty expenses guarantee costs |
+
+| 9277 | Royalty expenses – Resident amounts reported as non-resource royalties paid to Canadian residents such as copyrights, movies, patents, performing rights, and trademarks |
+
+| 9278 | Royalty expenses – Non-resident amounts reported as non-resource royalties paid to non-residents such as copyrights, movies, patents, performing rights, and trademarks |
+
+| 9279 | Dumping charges |
+
+| 9280 | Land fill fees |
+
+| 9281 | Vehicle expenses automobile expenses, gas, motor vehicle fuel, tires, and vehicle washing |
+
+| 9282 | Research and development |
+
+| 9283 | Withholding taxes |
+
+| 9284 | General and administrative expenses marketing and administration, office and general expenses, selling and administrative expenses |
+
+| 9285 | Interdivisional expenses |
+
+| 9286 | Interfund transfer This item is for corporations or partnerships including non-profit organizations to report fund amounts transferred to or from the income statement, from or to retained earnings. |
+
+| **9367** | **Total operating expenses** This item represents the sum of all operating expense amounts. |
+
+| **9368** | **Total expenses** This item **must** be reported if there are no farming expenses (see [Validity check items](#toc41)). Any amount reported under this item should be equal to the amount reported under item 8518 – Cost of sales, plus the amount reported under item 9367 – Total operating expenses. |
+
+| **9369** | **Net non-farming income** The amount reported should be equal to the amount reported under item 8299 – Total revenue, minus the amount reported under item 9368 – Total expenses. |
+
+### Farming Income Statement Information
+
+**Cash vs. Accrual** As a farming corporation or partnership, you may choose to report your income using the cash method rather than the accrual method. If you are involved in more than one business activity, only your farming business can use the cash method.
+
+| Code | Description |
+
+| --- | --- |
+
+| **0001** | **Operating name** Complete this section if your operating name is different from the corporation's name (for example, 111111 Ontario Ltd., operating as Maggie's Muffins). |
+
+| **0002** | **Description of the operation** You must complete the description of the operation when you are reporting more than one income statement, and the activity is different than the major business activity. For more information on reporting multiple lines of business, see [Appendix B](#toc41). |
+
+| **0003** | **Sequence number**For more than one income statement, use sequence numbers for each statement – number 01 for the income statement relating to the main activity with supplementary income statements numbered consecutively from 02. |
+
+#### Farming revenue
+
+| GIFI code | GIFI name |
+
+| --- | --- |
+
+| **9370** | **Grains and oilseeds** mustard seed, rye, and sunflower seeds **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 9371 to 9379. |
+
+| 9371 | Wheat durum |
+
+| 9372 | Oats |
+
+| 9373 | Barley |
+
+| 9374 | Mixed grains |
+
+| 9375 | Corn |
+
+| 9376 | Canola |
+
+| 9377 | Flaxseed |
+
+| 9378 | Soya beans |
+
+| 9379 | Wheat Board payments |
+
+| **9420** | **Other crop revenues** herbs, hops, and sugar beets **GIFI-Short:** Also include all amounts from items 9421 to 9426. |
+
+| 9421 | Fruit |
+
+| 9422 | Potatoes |
+
+| 9423 | Vegetables |
+
+| 9424 | Tobacco |
+
+| 9425 | Greenhouse and nursery products greenhouse or nursery products such as flowers, greenhouse vegetables, horticultural products, ornamental plants, rooted cuttings, seeds and bulbs, shrubs, sod and turf, and trees |
+
+| 9426 | Forage crops alfalfa, alsike, clover, clover seeds, fescue, grass seed, hay, and timothy |
+
+| **9470** | **Livestock and animal products revenue** revenue received from animal pelts, apiary operation, bison, chinchilla, deer, dog, elk, fox, goats, honey products, mink, market livestock income, rabbit, and wool **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 9471 to 9480. |
+
+| 9471 | Cattle revenue received from the sale of bulls, calves, and cows |
+
+| 9472 | Swine revenue received from the sale of hogs and pigs |
+
+| 9473 | Poultry revenue received from the sale of chicken, ducks, geese, and turkeys |
+
+| 9474 | Sheep and lambs |
+
+| 9475 | Pregnant mare urine (PMU) |
+
+| 9476 | Milk and cream (excluding dairy subsidies) |
+
+| 9477 | Eggs for consumption |
+
+| 9478 | Hatching eggs |
+
+| 9479 | Aquaculture (hatching and raising) |
+
+| 9480 | Horses (breeding and meat) revenue received from the sale of ponies, and other equine animals |
+
+| **9520** | **Other commodities** revenue received from ginseng, mushrooms, ostriches, and stud services **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 9521 to 9524. |
+
+| 9521 | Maple products |
+
+| 9522 | Artificial insemination |
+
+| 9523 | Semen production |
+
+| 9524 | Embryo production revenue received from embryo transplants |
+
+| **9540** | **Program payment revenues** Animal Contagious Diseases Act payments, farm subsidy, farm-support payments, grants, and stabilization subsidy **GIFI-Short:** Also include amounts under items 9541 to 9546. |
+
+| 9541 | Dairy subsidies |
+
+| 9542 | Crop insurance insurance proceeds from federal or provincial programs for loss of crops |
+
+| 9544 | Disaster Assistance Program payments |
+
+| 9545 | AgriStability and AgriInvest benefit |
+
+| 9546 | Production insurance premium benefit |
+
+| **9570** | **Rebates** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 9571 to 9573, as well as resales and other rebates. |
+
+| 9571 | Rebates – Fuel |
+
+| 9572 | Rebates – Interest |
+
+| 9573 | Rebates – Property taxes |
+
+| **9600** | **Other farm revenues/losses** sale of land, soil or stone, payment in kind, personal consumption benefit, and quality bonus **GIFI-Short:** Include amounts under items 9601 to 9608, 9610 to 9614, and 9617. |
+
+| 9601 | Custom or contract work seed cleaning/drying/packing/treating, crop dusting or spraying, custom combining/harvesting, custom seeding, custom spraying, and custom trucking/hauling |
+
+| 9602 | Wood sales amounts reported as income from a farmer's woodlot such as Christmas trees, firewood, logs, lumber, and poles |
+
+| 9603 | Horse racing |
+
+| 9604 | Insurance proceeds insurance proceeds for the loss of a building to fire or the loss of livestock to disease |
+
+| 9605 | Patronage dividends certificate of indebtedness |
+
+| 9606 | Rental income building, land, machine, and pasture rental |
+
+| 9607 | Interest income |
+
+| 9608 | Dividend income |
+
+| 9609 | Gains/losses on disposal of assets book gains/losses, gain/loss on disposal of fixed assets, profit/loss on disposal of fixed assets, profit/loss on sale of investments, and recaptured depreciation Note Losses on disposal/sale of assets shown as a farm expense should be reported under this item as a negative. |
+
+| 9610 | Gravel |
+
+| 9611 | Trucking |
+
+| 9612 | Resale of commodities purchased |
+
+| 9613 | Leases (such as gas, oil, well, and surface) |
+
+| 9614 | Machine rentals |
+
+| 9615 | Farming partnership income/loss |
+
+| 9616 | Farming joint venture income/loss |
+
+| 9617 | Custom feeding |
+
+| **9650** | **Non-farming income** If you are not using items 8000 to 8299, use this item to report any non-farming income of a farming corporation. |
+
+| **9659** | **Total farm revenue** This item represents the sum of all farm revenue amounts plus any amount under item 9650 and **must** be reported if there are no amounts under any of items 8000 to 8299 (see [Validity check items](#toc41)). |
+
+#### Farming expenses
+
+**Cost of Sales**– The farming income and expense section of the GIFI does not include an item for cost of sales. If a farming corporation has cost of sales with no breakdown, this should be reported under the most appropriate farm expense item.
+
+A cost of sales that consists mainly of hog purchases would be reported under item 9712 – Livestock purchases.
+
+| GIFI code | GIFI name |
+
+| --- | --- |
+
+| **9660** | **Crop expenses** water purchases or water rights for irrigation, seed cleaning, and crop supplies **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 9661 to 9664. |
+
+| 9661 | Containers, twine, and baling wire |
+
+| 9662 | Fertilizers and lime chemicals |
+
+| 9663 | Pesticides fungicides, herbicides, and insecticides |
+
+| 9664 | Seeds and plants |
+
+| **9710** | **Livestock expenses** Dairy Herd Improvement Association animal grading, dairy, or livestock supplies **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 9711 to 9714. |
+
+| 9711 | Feed, supplements, straw, and bedding purchased dairy rations and forage |
+
+| 9712 | Livestock purchases |
+
+| 9713 | Veterinary fees, medicine, and breeding fees artificial insemination, disease testing, embryo transplants, neutering, semen, spaying, and stud service |
+
+| 9714 | Minerals and salts |
+
+| **9760** | **Machinery expenses** **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 9761 to 9765. |
+
+| 9761 | Machinery insurance |
+
+| 9762 | Machinery licences |
+
+| 9763 | Machinery repairs |
+
+| 9764 | Machinery fuel lubricants |
+
+| 9765 | Machinery lease |
+
+| **9790** | **General farm expenses** milk testing, negative farm support payments, and silage preservation**GIFI-Short:** Include all amounts here that would have otherwise been reported under items 9793, 9796, 9797, 9800, 9802, 9803, 9806, 9817, 9821, 9822, 9823, 9825, 9826, 9827, 9830, 9831, and 9836. |
+
+| 9791 | Amortization of tangible assets amortization of leasehold improvements and amounts referred to as depreciation |
+
+| 9792 | Advertising, marketing costs, and promotion |
+
+| 9793 | Bad debt allowance for bad debts, allowance/provision for doubtful accounts, bad debt, bad debt written-off, provision for bad debts, and reserve for bad debt |
+
+| 9794 | Benefits related to employee salaries contributions to deferred income plans (DPSP/EPSP/RPP), employer's portion of employee benefits (CPP/EI/QPIP/WCB), group insurance benefits (dental/life/medical plans), payroll deductions, and lodging/room and board |
+
+| 9795 | Building repairs and maintenance |
+
+| 9796 | Clearing, levelling, and draining land expenses from building a road, digging/drilling a water well, installing land drainage, ploughing land, and bringing public utilities to the farm |
+
+| 9797 | Crop insurance, Revenue Protection Program, and stabilization premiums |
+
+| 9798 | Custom or contract work egg cleaning/grading/sorting/spraying, cheese aging, and contract harvesting/combining/crop dusting |
+
+| 9799 | Electricity |
+
+| 9800 | Fence repairs and maintenance |
+
+| 9801 | Freight and trucking delivery and distribution costs and shipping |
+
+| 9802 | Heating fuel and curing fuel coal, oil, natural gas, and fuel for curing tobacco/crop drying/greenhouses |
+
+| 9803 | Insurance program overpayment recapture |
+
+| 9804 | Other insurance premiums farm insurance, private crop insurance, livestock insurance, and business interruption insurance premiums |
+
+| 9805 | Interest and bank charges finance charges, interest on a farm loan, interest on long-term debt, and interest on a mortgage |
+
+| 9806 | Marketing board fees |
+
+| 9807 | Memberships/subscription fees association fees |
+
+| 9808 | Office expenses farm-related office expenses such as accounting/receipt books, invoices, and stationery |
+
+| 9809 | Professional fees amounts reported as farm-related expenses such as accounting/bookkeeping fees, data processing costs, and legal fees |
+
+| 9810 | Property taxes land, municipal, and realty taxes |
+
+| 9811 | Rent – Land and buildings |
+
+| 9812 | Rent – Machinery **GIFI-Short:** Include all amounts under item 9813. |
+
+| 9813 | Other rental expenses |
+
+| 9814 | Salaries and wages **GIFI-Short:** Include all amounts here that would have otherwise been reported under items 9815 and 9816, as well as salaries and wages paid to spouse. |
+
+| 9815 | Salaries and wages other than for spouse or dependants salaries for farmhand and self |
+
+| 9816 | Salaries and wages paid to dependants |
+
+| 9817 | Selling costs |
+
+| 9818 | Supplies |
+
+| 9819 | Motor vehicle expenses automobile expenses, gas, motor vehicle fuel, propane, tires, vehicle repairs and maintenance, and vehicle washing |
+
+| 9820 | Small tools |
+
+| 9821 | Soil testing |
+
+| 9822 | Storage/drying |
+
+| 9823 | Licences/permits |
+
+| 9824 | Telephone |
+
+| 9825 | Quota rental (tobacco, dairy) |
+
+| 9826 | Gravel |
+
+| 9827 | Purchases of commodities resold |
+
+| 9828 | Salaries and wages paid to spouse |
+
+| 9829 | Motor vehicle interest and leasing costs |
+
+| 9830 | Prepared feed |
+
+| 9831 | Custom feed |
+
+| 9832 | Amortization of intangible assets **GIFI-Short:** Include all amounts under item 9833. |
+
+| 9833 | Amortization of milk quota |
+
+| 9834 | Travel expenses |
+
+| 9835 | Capital/business taxes |
+
+| 9836 | Commissions and levies |
+
+| **9850** | **Non-farming expenses** If you are not using items 8300 to 9368, use this item to report any non-farming expenses of a farming corporation. |
+
+| **9870** | **Net inventory adjustment** This item may be used to report the farm's opening inventory less its closing inventory. Note If the closing inventory is greater than the opening inventory, this item should be reported as a negative. |
+
+| **9898** | **Total farm expenses** This item represents the sum of all farm expense amounts including any amount under item 9850 and **must** be reported if there are no amounts under any of items 8300 to 9368 (see [Validity check items](#toc41)). |
+
+| **9899** | **Net farm income** The amount reported should be equal to the amount reported under item 9659 – Total farm revenue, minus the amount reported under item 9898 – Total farm expenses. |
+
+| **9970** | **Net income/loss before taxes and extraordinary items** This item represents the sum of item 9369 – Net non-farming income, and item 9899 – Net farm income. For partnerships this item is called **Net income/loss before extraordinary items.** |
+
+#### Extraordinary items and income taxes
+
+| GIFI code | GIFI name |
+
+| --- | --- |
+
+| **9975** | **Extraordinary item(s)** This item includes gains/losses resulting from events that:are not expected to occur regularly over a period of years do not typify normal business activities do not depend primarily on decisions or determinations by management Examples include the expropriation of a corporation's or partnership's land and buildings for a highway, the destruction of a large portion of a wheat crop by a tornado, and an explosion in a nuclear reactor resulting in high-level radioactive emission. |
+
+| **9976** | **Legal settlements** settlement of royalties |
+
+| **9980** | **Unrealized gains/losses** unrealized gains/losses resulting from the adjustment of book values on the revaluation of assets |
+
+| **9985** | **Unusual items** asset valuation adjustments such as write-downs and write-offs to net realizable values, items to be scrapped, and gains/losses from discontinued operations or wind-up of subsidiaries/affiliates. This item represents unusual and non-recurring items that do not meet the criteria set out for extraordinary gains/losses. |
+
+| **9990** | **Current income taxes** (corporations only) Canadian income taxes, federal income/large corporation tax, previous year adjustment to federal income/large corporation tax, and provincial and territorial income taxes |
+
+| **9995** | **Future (deferred) income tax provision** (corporations only) Canadian income taxes deferred, provision for deferred income taxes, and provision for future income taxes |
+
+| **9998** | **Total-other comprehensive income** This item is intended for use by corporations and partnerships using either the pre-changeover accounting standards (Part V of the CICA Accounting Handbook) or the International Financial Reporting Standards (IFRS) (Part I of the CICA Accounting Handbook) when preparing their financial statements. It represents the sum of:Item 7000 – Revaluation surplus Item 7002 – Defined benefit gains/losses Item 7004 – Foreign operation translation gains/losses Item 7006 – Equity instruments gains/losses Item 7008 – Cash flow hedge effective portion gains/losses Item 7010 – Income tax relating to components of other comprehensive income Item 7020 – Miscellaneous other comprehensive income |
+
+| **9999** | **Net income/loss after taxes and extraordinary items** For partnerships this item is called **Net income/loss after extraordinary items.** This item represents the net amount of the following items:Item 9970 – Net income/loss before taxes and extraordinary items Item 9975 – Extraordinary item(s) Item 9976 – Legal settlements Item 9980 – Unrealized gains/losses Item 9985 – Unusual items Item 9990 – Current income taxes Item 9995 – Future (deferred) income tax provision Item 9998 – Total of other comprehensive income Item 9999 **must** be reported (see [Validity check items](#toc41)) |
+
+## Appendix B – Reporting multiple lines of business
+
+Some corporations and partnerships, such as those involved in a business that receives income from different sources, choose to file a supplementary income statement for each operation. You can use the GIFI to report the information from the supplementary statements.
+
+You may receive rental income from several properties and may choose to complete a supplementary income statement for each of the properties; or, as a manufacturer, you may also have a retail outlet and choose to submit a supplementary income statement for the retail activity.
+
+Another situation in which you may choose to submit a supplementary income statement is to report amounts broken down in the notes, such as rental loss.
+
+### Completing the main and supplementary income statements
+
+You have to provide an operating name for each statement, except the summary statement (see the last paragraph of this section), unless it is the same as the corporation's or partnership's legal name.
+
+You have to provide a description of the operation if it is different from the main activity.
+
+Each statement needs a sequence number. The income statement relating to the main activity must have sequence number 01. The supplementary income statements would be numbered consecutively from 02.
+
+A GIFI item can be reported on more than one statement. See [Using the same GIFI item on different statements](#toc66).
+
+Each statement should report items up to item 9970 – Net income/loss before taxes and extraordinary items. Do **not**report any extraordinary items or income taxes (items 9975 to 9999) on the main or supplementary income statements.
+
+The main income statement (Sequence 01) should not include the net amounts for the information that you have included on the supplementary statements. As a result, some total lines and perhaps gross profit will be different from what is shown on the financial statements.
+
+You have to provide a summary statement that reports the following: the sum of all amounts under item 9970 on each income statement, any amounts reported under items 9975 to 9998 (representing the extraordinary items and income taxes), and the amount under item 9999 (representing net income/loss after taxes and extraordinary items).
+
+### Using the same GIFI item on different statements
+
+You can report the same GIFI items, which appear for the main activity, on your supplementary income statements. However, any amount you report on a supplementary income statement should **not** be included in the amount you report on the main income statement for the same item.
+
+A corporation that prepares multiple income statements may choose to report item 8622 – Employer's portion of employee benefits, on each of its statements. The example following this section shows an amount for item 8622 on each of the statements. Note that the amount reported under item 8622 on Sequence 01 (main activity), does not include the amounts reported under item 8622 on the supplementary income statements.
+
+### Example – Multiple lines of business
+
+The following example represents the statements of a corporation whose main activity is manufacturing but is also involved in retail and equipment rental.
+
+Part 1 shows the corporation's main income statement, which includes the net amounts for each of the supplementary income statements.
+
+Part 2 shows how to report this type of information using the GIFI and how to balance your financial information. Note that the CRA would only receive the name, description of operations, and sequence number with the GIFI code and amount.
+
+#### Multiple lines of business – Part 1
+
+| Revenue | Amount |
+
+| --- | --- |
+
+| Sales | 1,500,000 |
+
+| Other revenue | 1,500 |
+
+| Foreign exchange | 4,200 |
+
+| Investment | 5,630 |
+
+| Buy-it-Here (net) | 152,850 |
+
+| Rent-a-Thing (net) | 311,630 |
+
+| **Sub-Total** | **1,975,810** |
+
+| Cost of sales | 725,000 |
+
+| **Total** | **1,250,810** |
+
+| Expenses | Amount |
+
+| --- | --- |
+
+| Advertising | 2,000 |
+
+| CPP | 7,100 |
+
+| Depreciation | 128,000 |
+
+| Insurance | 30,000 |
+
+| Interest on mortgages | 140,900 |
+
+| Bank charges | 12,700 |
+
+| Capital taxes | 6,600 |
+
+| Office | 5,800 |
+
+| Legal fees | 5,900 |
+
+| Consulting | 4,100 |
+
+| Management fees | 2,600 |
+
+| Parking | 230 |
+
+| Repairs and maintenance | 44,000 |
+
+| Janitorial services | 3,000 |
+
+| Salaries and wages | 282,000 |
+
+| Supplies | 14,500 |
+
+| Property taxes | 42,000 |
+
+| Utilities | 54,000 |
+
+| Telephone | 4,500 |
+
+| Automobile expenses | 11,700 |
+
+| Miscellaneous expenses | 30,100 |
+
+| **Total expenses** | **831,730** |
+
+| Net income before taxes | 419,080 |
+
+| Unrealized gain (loss) | 51,930 |
+
+| Income taxes | 9,000 |
+
+| Net income after taxes | 462,010 |
+
+| Revenue | Amount |
+
+| --- | --- |
+
+| Sales | 275,000 |
+
+| Cost of sales | 95,500 |
+
+| **Gross profit** | **179,500** |
+
+| Operating expenses | Amount |
+
+| --- | --- |
+
+| Advertising | 750 |
+
+| Medical plan | 400 |
+
+| CPP | 1,200 |
+
+| Repairs and maintenance | 300 |
+
+| Salaries and wages | 21,000 |
+
+| Supplies | 1,800 |
+
+| Utilities | 1,200 |
+
+| **Total** | **26,650** |
+
+| **Net income** | **152,850** |
+
+| Revenue | Amount |
+
+| --- | --- |
+
+| Equipment rental | 350,000 |
+
+| Expenses | Amount |
+
+| --- | --- |
+
+| Medical plan | 570 |
+
+| CPP | 1,500 |
+
+| Repairs and maintenance | 800 |
+
+| Salaries and wages | 30,000 |
+
+| Supplies | 5,500 |
+
+| **Total** | **38,370** |
+
+| **Net income** | **311,630** |
+
+#### Part 2
+
+- **0001 Operating Name:** Manufacture-It-Now
+
+- **0002 Description of the operation:** manufacturing
+
+- **0003 Sequence number:** 01
+
+| GIFI code | GIFI name | Amount |
+
+| --- | --- | --- |
+
+| 8000 | Trade sales of goods and services | 1,500,000 |
+
+| 8230 | Other revenue | 1,500 |
+
+| 8231 | Foreign exchange gains/losses | 4,200 |
+
+| 8090 | Investment revenue | 5,630 |
+
+| 8299 | Total revenue | 1,511,330 |
+
+| 8518 | Cost of sales | 725,000 |
+
+| **8519**[Footnote1c](#tfn1c) | **Gross profit/loss** | **775,000** |
+
+| Footnotes Footnote 1 8519 = 8000 - 8518 [Return to footnote1creferrer](#tfn1c-rf) |  |  |
+
+| GIFI code | GIFI name | Amount |
+
+| --- | --- | --- |
+
+| 8521 | Advertising | 2,000 |
+
+| 8622 | Employer's portion of employee benefits | 7,100 |
+
+| 8670 | Amortization of tangible assets | 128,000 |
+
+| 8690 | Insurance | 30,000 |
+
+| 8713 | Interest on mortgages | 140,900 |
+
+| 8715 | Bank charges | 12,700 |
+
+| 8762 | Business taxes | 6,600 |
+
+| 8810 | Office expenses | 5,800 |
+
+| 8861 | Legal fees | 5,900 |
+
+| 8863 | Consulting fees | 4,100 |
+
+| 8871 | Management and administration fees | 2,600 |
+
+| 8910 | Rental | 230 |
+
+| 8960 | Repairs and maintenance | 44,000 |
+
+| 9010 | Other repairs and maintenance | 3,000 |
+
+| 9060 | Salaries and wages | 282,000 |
+
+| 9130 | Supplies | 14,500 |
+
+| 9180 | Property taxes | 42,000 |
+
+| 9225 | Telephone and telecommunications | 4,500 |
+
+| 9220 | Utilities | 54,000 |
+
+| 9281 | Vehicle expenses | 11,700 |
+
+| 9270 | Other expenses | 30,100 |
+
+| 9367 | Total operating expenses | 831,730 |
+
+| **9368**[Footnote2c](#tfn2c) | **Total expenses** | **1,556,730** |
+
+| **9369**[Footnote3c](#tfn3c) | **Net non-farming income** | **(45,400)** |
+
+| **9970** | **Net income/loss before taxes and extraordinary items** | **(45,400)** |
+
+| Footnotes Footnote 2 9368 = 8518 + 9367 [Return to footnote2creferrer](#tfn2c-rf) Footnote 3 9369 = 8299 − 9368 [Return to footnote3creferrer](#tfn3c-rf) |  |  |
+
+- **0001 Operating Name:** Buy-It-Here
+
+- **0002 Description of the operation:** retail
+
+- **0003 Sequence number:** 02
+
+| GIFI code | GIFI name | Amount |
+
+| --- | --- | --- |
+
+| 8000 | Trade sales of goods and services | 275,000 |
+
+| 8299 | Total revenue | 275,000 |
+
+| 8518 | Cost of sales | 95,500 |
+
+| **8519**[Footnote4c](#tfn4c) | **Gross profit/loss** | **179,500** |
+
+| Footnotes Footnote 1 8519 = 8000 − 8518 [Return to footnote4creferrer](#tfn4c-rf) |  |  |
+
+| GIFI code | GIFI name | Amount |
+
+| --- | --- | --- |
+
+| 8521 | Advertising | 750 |
+
+| 8621 | Group insurance benefits | 400 |
+
+| 8622 | Employer's portion of employee benefits | 1,200 |
+
+| 8960 | Repairs and maintenance | 300 |
+
+| 9060 | Salaries and wages | 21,000 |
+
+| 9130 | Supplies | 1,800 |
+
+| 9180 | Property taxes | 42,000 |
+
+| 9220 | Utilities | 1,200 |
+
+| **9367** | **Total operating expenses** | **26,650** |
+
+| **9368** [Footnote5c](#tfn5c) | **Total expenses** | **122,150** |
+
+| **9369** [Footnote6c](#tfn6c) | **Net non-farming income** | **152,850** |
+
+| **9970** | **Net income/loss before taxes and extraordinary items** | **152,850** |
+
+| Footnotes Footnote 2 9368 = 8518 + 9367 [Return to footnote5creferrer](#tfn5c-rf) Footnote 3 9369 = 8299 − 9368 [Return to footnote6creferrer](#tfn6c-rf) |  |  |
+
+- **0001 Operating Name:** Rent-A-Thing
+
+- **0002 Description of the operation:** equipment rental
+
+- **0003 Sequence number:** 03
+
+| GIFI code | GIFI name | Amount |
+
+| --- | --- | --- |
+
+| 8140 | Rental revenue | 350,000 |
+
+| **8299** | **Total revenue** | **350,000** |
+
+| GIFI code | GIFI name | Amount |
+
+| --- | --- | --- |
+
+| 8621 | Group insurance benefits | 570 |
+
+| 8622 | Employer's portion of employee benefits | 1,500 |
+
+| 8960 | Repairs and maintenance | 800 |
+
+| 9060 | Salaries and wages | 30,000 |
+
+| 9130 | Supplies | 5,500 |
+
+| **9367** | **Total operating expenses** | **38,370** |
+
+| **9368** | **Total expenses** | **38,370** |
+
+| **9369**[Footnote7c](#tfn7c) | **Net non-farming income** | **311,630** |
+
+| **9970** | **Net income/loss before taxes and extraordinary items** | **311,630** |
+
+| Footnotes Footnote 1 9369 = 8299 - 9368 [Return to footnote7creferrer](#tfn7c-rf) |  |  |
+
+| GIFI code | GIFI name | Amount |
+
+| --- | --- | --- |
+
+| 9970 | Net income/loss before taxes and extraordinary items – All operations | 419,080 |
+
+| 9980 | Unrealized gains/losses | 51,930 |
+
+| 9990 | Current income taxes | 9,000 |
+
+| 9999[Footnote8c](#tfn8c) | Net income/loss after taxes and extraordinary items | 462,010 |
+
+| Footnotes Footnote 1 9999 = 9970 + 9980 − 9990 [Return to footnote8creferrer](#tfn8c-rf) |  |  |
+
+## Appendix C – Non-profit organizations
+
+This appendix is intended to help corporations that are non-profit organizations (NPOs) use the GIFI to report their financial statement information.
+
+### Example 1 – GIFI
+
+Table A shows NPO terminology and the equivalent GIFI terminology. Table B provides specific NPO terms and the suggested equivalent GIFI item.
+
+| NPO terminology | Equivalent GIFI terminology |
+
+| --- | --- |
+
+| Members' equity | Shareholder equity |
+
+| Owners' equity |  |
+
+| Fund balances |  |
+
+| Net assets |  |
+
+| Reserves |  |
+
+| Balance at end of year/General surplus | Retained earnings/deficit |
+
+| Operating fund |  |
+
+| General fund |  |
+
+| Statement of revenue and expenditures | Income statement |
+
+| Statement of income and surplus |  |
+
+| Statement of receipts and disbursements |  |
+
+| Statement of operations |  |
+
+| Excess of revenues over expenses (expenses over revenues) | Net non-farming income |
+
+| NPO term | GIFI code | Equivalent GIFI item |
+
+| --- | --- | --- |
+
+| Cash | 1001 | Cash and deposits |
+
+| Amounts receivable from other than members | 1060 | Accounts receivable |
+
+| Amounts receivable from members | 1073 | Amounts receivable from members of NPOs |
+
+| Inventory | 1120 | Inventories |
+
+| Short-term investments | 1180 | Short-term investments |
+
+| Prepaid expenses | 1484 | Prepaid expenses |
+
+| Fixed assets | 2008 | Total tangible capital assets |
+
+| Long-term investments | 2300 | Long-term investments |
+
+| Total assets | 2599 | Total assets |
+
+| Amounts owing to other than members | 2620 | Amounts payable and accrued liabilities |
+
+| Amounts owing to members | 2630 | Amounts payable to members of NPOs |
+
+| Total liabilities | 3499 | Total liabilities |
+
+| NPO term | GIFI code | Equivalent GIFI item |
+
+| --- | --- | --- |
+
+| Interest received | 8090 | Investment revenue |
+
+| Dividends received | 8095 | Dividend income |
+
+| Rentals received | 8140 | Rental revenue |
+
+| Proceeds of disposition of capital property | 8210 | Realized gains/losses on disposal of assets |
+
+| Membership dues or fees | 8221 | Membership fees |
+
+| Assessments received | 8222 | Assessments |
+
+| Gifts | 8223 | Gifts |
+
+| Gross sales and revenues from organizational activities | 8224 | Gross sales and revenues from organizational activities |
+
+| Royalties received | 8237 | Royalty income other than resource |
+
+| Federal, provincial, or municipal grants received | 8242 | Subsidies and grants |
+
+| Total receipts | 8299 | Total revenue |
+
+| NPO term | GIFI code | Equivalent GIFI item |
+
+| --- | --- | --- |
+
+| Shown in retained earnings | 3745 | Interfund transfer |
+
+| Shown on income statement | 9286 | Interfund transfer |
+
+### Example 2 – GIFI-Short
+
+Table A shows some NPO terminology and the equivalent GIFI terminology. Table B provides specific NPO terms and the suggested equivalent GIFI item.
+
+| NPO terminology | Equivalent GIFI terminology |
+
+| --- | --- |
+
+| Members' equity | Shareholder equity |
+
+| Owners' equity |  |
+
+| Fund balances |  |
+
+| Net assets |  |
+
+| Reserves |  |
+
+| Balance at end of year/General surplus | Retained earnings |
+
+| Operating fund |  |
+
+| General fund |  |
+
+| Statement of revenue and expenditures | Income statement |
+
+| Statement of income and surplus |  |
+
+| Statement of receipts and disbursements |  |
+
+| Statement of operations |  |
+
+| Excess of revenues over expenses (expenses over revenues) | Net non-farming income |
+
+| NPO term | GIFI code | Equivalent GIFI item |
+
+| --- | --- | --- |
+
+| Cash | 1000 | Cash and deposits |
+
+| Amounts receivable from other than members | 1060 | Accounts receivable |
+
+| Amounts receivable from members | 1073 | Amounts receivable from members of NPOs |
+
+| Inventory | 1120 | Inventories |
+
+| Short-term investments | 1180 | Short-term investments |
+
+| Prepaid expenses | 1480 | Other current assets |
+
+| Fixed assets | 2008 | Total tangible capital assets |
+
+| Long-term investments | 2300 | Long-term investments |
+
+| Total assets | 2599 | Total assets |
+
+| Amounts owing to other than members | 2620 | Amounts payable and accrued liabilities |
+
+| Amounts owing to members | 2630 | Amounts payable to members of NPOs |
+
+| Total liabilities | 3499 | Total liabilities |
+
+| NPO term | GIFI code | Equivalent GIFI item |
+
+| --- | --- | --- |
+
+| Interest received | 8090 | Investment revenue |
+
+| Dividends received | 8095 | Dividend income |
+
+| Rentals received | 8140 | Rental revenue |
+
+| Proceeds of disposition of capital property | 8210 | Realized gains/losses on disposal of assets |
+
+| Membership dues or fees | 8221 | Membership fees |
+
+| Assessments received | 8222 | Assessments |
+
+| Gifts | 8223 | Gifts |
+
+| Gross sales and revenues from organizational activities | 8224 | Gross sales and revenues from organizational activities |
+
+| Royalties received | 8237 | Royalty income other than resource |
+
+| Federal, provincial, or municipal grants received | 8242 | Subsidies and grants |
+
+| Total receipts | 8299 | Total revenue |
+
+| NPO term | GIFI code | Equivalent GIFI item |
+
+| --- | --- | --- |
+
+| Shown in retained earnings | 3745 | Interfund transfer |
+
+| Shown on income statement | 9286 | Interfund transfer |
+
+## Appendix D – Examples of using the GIFI
+
+The following examples represent a typical set of financial statements for a corporation and for a partnership. The first two columns show the item and the amount reported on the financial statement; the third and fourth columns show the corresponding GIFI code and name.
+
+These examples are only a guideline. They are not meant to dictate what to put on your statements or how to file.
+
+### Example 1 – Financial statements for a corporation
+
+#### Balance Sheet
+
+| Item description | ($) Amount | GIFI code | GIFI name |
+
+| --- | --- | --- | --- |
+
+| Cash | 2,540 | 1001 | Cash |
+
+| Accounts receivable (net of allowance for doubtful accounts of $25) | 331[Footnote1a](#tfn1a) 356 (25) | 1060 1061 | Accounts receivable Allowance for doubtful accounts |
+
+| Inventory | 8,947 | 1120 | Inventories |
+
+| Prepaid expenses | 1,813 | 1484 | Prepaid expenses |
+
+|  | 13,631 | 1599 | Total current assets |
+
+| Fixed assets (note 2) | 49,803[Footnote1a](#tfn1a) |  |  |
+
+| Office furniture and equipment | 9,793 | 1787 | Furniture and fixtures |
+
+| Accumulated amortization of office furniture and equipment | (4,010) | 1788 | Accumulated amortization of furniture and fixtures |
+
+| Computer equipment | 3,174 | 1774 | Computer equipment/software |
+
+| Accumulated amortization of computer equipment | (1,852) | 1775 | Accumulated amortization of computer equipment/software |
+
+| Computer software | 3,665 | 1774 | Computer equipment/software |
+
+| Accumulated equipment of computer software | (3,665) | 1775 | Accumulated amortization of computer equipment/software |
+
+| Machinery and equipment | 37,981 | 1740 | Machinery, equipment, furniture and fixtures |
+
+| Accumulated amortization of machinery and equipment | (16,072) | 1741 | Accumulated amortization of machinery, equipment, furniture and fixtures |
+
+| Leasehold improvements | 41,577 | 1918 | Leasehold improvements |
+
+| Accumulated amortization of leasehold improvements | (20,788) | 1919 | Accumulated amortization of leasehold improvements |
+
+| Total cost | 96,190 | 2008 | Total tangible capital assets |
+
+| Total accumulated amortization | (46,387) | 2009 | Total accumulated amortization of tangible capital assets |
+
+| Investment (note 3) | 1,000 | 2242 | Shares in Canadian related corporations |
+
+|  | 64,434 | 2599 | Total assets |
+
+| Footnotes Footnote 1 Use the GIFI to report the breakdown of these amounts, rather than the net amount. [Return to footnote1areferrer](#tfn1a-1-rf) |  |  |  |
+
+| Item description | ($) Amount | GIFI code | GIFI name |
+
+| --- | --- | --- | --- |
+
+| Bank indebtedness | 5,000 | 2600 | Bank overdraft |
+
+| Accounts payable | 6,797 | 2621 | Trade payables |
+
+| Current portion of bank loan liability | 5,104 | 2920 | Current portion of long-term liability |
+
+|  | 16,901 | 3139 | Total current liabilities |
+
+| Bank loan | 64,634 | 3143 | Chartered bank loan |
+
+| Due to shareholders, unsecured with no fixed terms | 29,900 | 3260 | Due to shareholder(s)/director(s) |
+
+|  | 94,534 | 3450 | Total long-term liabilities |
+
+|  | 111,435 | 3499 | Total liabilities |
+
+| Item description | ($) Amount | GIFI code | GIFI name |
+
+| --- | --- | --- | --- |
+
+| 1500 common shares | 1,500 | 3500 | Common shares |
+
+| Deficit | (48,501) | 3600 | Retained earnings/deficit |
+
+|  | (47,001) | 3620 | Total shareholder equity |
+
+##### Statement of Income and Retained Earnings
+
+| Item description | ($) Amount | GIFI code | GIFI name |
+
+| --- | --- | --- | --- |
+
+| Professional services | 191,396 | 8000 | Trade sales of goods and services |
+
+|  |  | 8299 | Total revenue |
+
+| Item description | ($) Amount | GIFI code | GIFI name |
+
+| --- | --- | --- | --- |
+
+| Advertising | 675 | 8521 | Advertising |
+
+| Amortization | 15,708 | 8670 | Amortization of tangible assets |
+
+| Association dues | 1,575 | 8761 | Memberships |
+
+| Bank charges and interest | 8,564 | 8710 | Interest and bank charges |
+
+| Business taxes | 5,789 | 8762 | Business taxes |
+
+| Insurance and licences | 3,988 | 8690 | Insurance[Footnote4a](#tfn4a) |
+
+| Office | 3,137 | 8810 | Office expenses |
+
+| Professional fees | 975 | 8860 | Professional fees |
+
+| Rent | 45,703 | 8911 | Real estate rental |
+
+| Repairs and maintenance | 1,255 | 8960 | Repairs and maintenance |
+
+| Supplies | 37,591 | 9130 | Supplies |
+
+| Telephone and utilities | 5,512 | 9225 | Telephone and telecommunications[Footnote4a](#tfn4a) |
+
+| Travel and education | 360 | 9200 | Travel expenses[Footnote4a](#tfn4a) |
+
+| Wages and benefits | 55,118 | 9060 | Salaries and wages[Footnote4a](#tfn4a) |
+
+|  | 185,950 | 9368 | Total expenses |
+
+| Net income before taxes | 5,446 | 9369 | Net non-farming income |
+
+| Income taxes | 1,400 | 9990 | Current income taxes |
+
+| Net income (loss) | 4,046 | 9999 | Net income/loss after taxes and extraordinary items |
+
+| Item description | ($) Amount | GIFI code | GIFI name |
+
+| --- | --- | --- | --- |
+
+| Net income (loss) | 4,046 | 3680 | Net income/loss |
+
+| Deficit, beginning of year | (52,547) | 3660 | Retained earnings/deficit – Start |
+
+| Deficit, end of year | (48,501) | 3849 | Retained earnings/deficit – End |
+
+| Footnotes Footnote 1 First item in two-item amount is greater (see [Reporting an amount that combines two or more items](#toc55)). [Return to footnote4areferrer](#tfn4a-rf) |  |  |  |
+
+##### Notes to financial statements
+
+**Note 1.** Basis of presentation
+
+The financial statements have been prepared by management in accordance with accounting principles generally accepted in Canada and using historic cost as the basis of presentation.
+
+**Note 2.** Fixed assets
+
+|  | Cost | Accumulated amortization | Net |
+
+| --- | --- | --- | --- |
+
+| Office furniture and equipment | 9,793 | 4,010 | 5,783 |
+
+| Computer equipment | 3,174 | 1,852 | 1,322 |
+
+| Computer software | 3,665 | 3,665 |  |
+
+| Machinery and equipment | 37,981 | 16,072 | 21,909 |
+
+| Leasehold improvements | 41,577 | 20,788 | 20,789 |
+
+| Total | 96,190 | 46,387 | 49,803 |
+
+**Note 3.**The investment is stated at cost and consists of shares in a Canadian affiliated corporation.
+
+### Example 2 - Financial statements for a partnership
+
+#### Balance Sheet
+
+| Item description | ($) Amount | GIFI code | GIFI name |
+
+| --- | --- | --- | --- |
+
+| Cash | 2,540 | 1001 | Cash |
+
+| Accounts receivable | 331 | 1060 | Accounts receivable |
+
+| Inventory | 8,947 | 1120 | Inventories |
+
+| Prepaid expenses | 1,813 | 1484 | Prepaid expenses |
+
+|  | 13,631 | 1599 | Total current assets |
+
+| Fixed assets (note 2) | 49,803[Return to footnote1b](#tfn1b) |  |  |
+
+| Office furniture and equipment | 9,793 | 1787 | Furniture and fixtures |
+
+| Accumulated amortization of office furniture and equipment | (4,010) | 1788 | Accumulated amortization of furniture and fixtures |
+
+| Computer equipment | 3,174 | 1774 | Computer equipment/software |
+
+| Accumulated amortization of computer equipment | (1,852) | 1775 | Accumulated amortization of computer equipment/software |
+
+| Computer software | 3,665 | 1774 | Computer equipment/software |
+
+| Accumulated amortization of computer software | (3,665) | 1775 | Accumulated amortization of computer equipment/software |
+
+| Machinery and equipment | 37,981 | 1740 | Machinery, equipment, furniture and fixtures |
+
+| Accumulated amortization of machinery and equipment | (16,072) | 1741 | Accumulated amortization of machinery, equipment, furniture and fixtures |
+
+| Leasehold improvements | 41,577 | 1918 | Leasehold improvements |
+
+| Accumulated amortization of leasehold improvements | (20,788) | 1919 | Accumulated amortization of leasehold improvements |
+
+| Total cost | 96,190 | 2008 | Total tangible capital assets |
+
+| Total accumulated amortization | (46,387) | 2009 | Total accumulated amortization of tangible capital assets |
+
+| Investment | 1,000 | 2300 | Long-term investments |
+
+|  | 64,434 | 2599 | Total assets |
+
+| Footnote Footnote 1 Use the GIFI to report the breakdown of these amounts, rather than the net amount. [Return to footnote1b](#tfn1b-rf) |  |  |  |
+
+| Item description | ($) Amount | GIFI code | GIFI name |
+
+| --- | --- | --- | --- |
+
+| Bank indebtedness | 5,000 | 2600 | Bank overdraft |
+
+| Accounts payable | 3,000 | 2621 | Trade payables |
+
+| Current portion of bank loan liability | 1,900 | 2920 | Current portion of long-term liability |
+
+|  | 9,900 | 3139 | Total current liabilities |
+
+| Bank loan | 4,634 | 3143 | Chartered bank loan |
+
+| Due to members with no fixed terms | 29,900 | 3291 | Due to member(s)/general partner(s) |
+
+|  | 34,534 | 3450 | Total long-term liabilities |
+
+|  | 44,434 | 3499 | Total liabilities |
+
+| Item description | ($) Amount | GIFI code | GIFI name |
+
+| --- | --- | --- | --- |
+
+| General partners' capital | 20,000 | 3560 | General partners' capital ending balance |
+
+| Total partners' capital | 20,000 | 3575 | Total partners' capital |
+
+| Total liabilities and partners' capital | 64,434 | 3585 | Total liabilities and partners' capital |
+
+##### Statement of Income
+
+| Revenue | ($) Amount | GIFI code | GIFI name |
+
+| --- | --- | --- | --- |
+
+| Professional services | 191,396 | 8000 | Trade sales of goods and services |
+
+|  |  | 8299 | Total revenue |
+
+| Operating Expenses | ($) Amount | GIFI code | GIFI name |
+
+| --- | --- | --- | --- |
+
+| Advertising | 675 | 8521 | Advertising |
+
+| Amortization | 15,708 | 8670 | Amortization of tangible assets |
+
+| Association dues | 1,575 | 8761 | Memberships |
+
+| Bank charges and interest | 8,564 | 8710 | Interest and bank charges |
+
+| Business taxes | 5,789 | 8762 | Business taxes |
+
+| Insurance and licences | 3,988 | 8690 | Insurance |
+
+| Office | 3,137 | 8810 | Office expenses |
+
+| Professional fees | 975 | 8860 | Professional fees |
+
+| Rent | 45,703 | 8911 | Real estate rental |
+
+| Repairs and maintenance | 1,255 | 8960 | Repairs and maintenance |
+
+| Supplies | 37,591 | 9130 | Supplies |
+
+| Telephone and utilities | 5,512 | 9225 | Telephone and telecommunications |
+
+| Travel and education | 360 | 9200 | Travel expenses |
+
+| Wages and benefits | 55,118 | 9060 | Salaries and wages |
+
+|  | 185,950 | 9368 | Total expenses |
+
+| Net income (loss) | 5,446 | 9999 | Net income/loss after extraordinary items |
+
+##### Notes to financial statements
+
+**Note 1.** Basis of presentation
+
+The financial statements have been prepared by management in accordance with accounting principles generally accepted in Canada and using historic cost as the basis of presentation.
+
+**Note 2.** Fixed assets
+
+|  | Cost | Accumulated amortization | Net |
+
+| --- | --- | --- | --- |
+
+| Office furniture and equipment | 9,793 | 4,010 | 5,783 |
+
+| Computer equipment | 3,174 | 1,852 | 1,322 |
+
+| Computer software | 3,665 | 3,665 |  |
+
+| Machinery and equipment | 37,981 | 16,072 | 21,909 |
+
+| Leasehold improvements | 41,577 | 20,788 | 20,789 |
+
+| Total | 96,190 | 46,387 | 49,803 |
+
+### Example 3 – Completed GIFI – Additional Information for a corporation
+
+| Information on the person | Line number | Yes/No |
+
+| --- | --- | --- |
+
+| Can you identify the person[Footnote1](#xmpl3a) specified in the heading of Part 1? If you answered **no**, go to Part 2. | **111** | Yes |
+
+| Does that person have a professional designation in accounting? | **095** | Yes |
+
+| Is that person connected[Footnote2](#xmpl3b) with the corporation? | **097** | No |
+
+| Footnotes Footnote 1 A person primarily involved with the financial information is a person who has more than a 50% involvement in preparing the financial information that the T2 return is based on. For exemple, if three persons prepared the financial information by doing respectively 30%, 30% and 40% of the work, answer **no** at line 111. If they did respectively 10%, 20%, and 70% of the work, answer **yes** at line 111 and complete Part 1 by referring only to the third person. [Back to Footnote1](#xmpl3a-rf) Footnote 2 A person connected with a corporation can be: (i) a shareholder of the corporation who owns more than 10% of the common shares; (ii) a director, an officer, or an employee of the corporation; or (iii) a person not dealing at arm's length with the corporation. [Back to Footnote2](#xmpl3b-rf) |  |  |
+
+| Choose one or more of the following options that represent your involvement and that of the person referred to in Part 1: | Line number | Yes/No |
+
+| --- | --- | --- |
+
+| Completed an auditor's report | **300** |  |
+
+| Completed a review engagement report | **301** |  |
+
+| Conducted a compilation engagement | **302** | Yes |
+
+| Provided accounting services | **303** |  |
+
+| Provided bookeeping services | **304** |  |
+
+| Other (please specify) ...... **305** __________________________________________________________________ |  |  |
+
+| Reservations | Line number | Yes/No |
+
+| --- | --- | --- |
+
+| If you selected option **300** or **301** in Part 2 above, answer the following question:Has the person referred to in Part 1 expressed a reservation? | **099** | - |
+
+| Question | Line number | Yes/No |
+
+| --- | --- | --- |
+
+| Were notes to the financial statements prepared? | **101** | Yes |
+
+| Did the corporation have any subsequent events? | **104** | No |
+
+| Did the corporation re-evaluate its assets during the tax year? | **105** | No |
+
+| Did the corporation have any contingent liabilities during the tax year? | **106** | No |
+
+| Did the corporation have any commitments during the tax year? | **107** | Yes |
+
+| Does the corporation have investments in joint venture(s) or partnership(s)? | **108** | No |
+
+| Impairment and fair value changes |  |  |
+
+| In any of the following assets, was an amount recognized in net income or other comprehensive income as a result of an impairment loss in the tax year, a reversal of an impairment loss recognized in a previous fiscal period, or a change in fair value during the fiscal period? | **200** | No |
+
+| If **Yes**, enter the amount recognized: | Line number | In net income Increase (decrease) | Line number | In OCI Increase (decrease) |
+
+| --- | --- | --- | --- | --- |
+
+| Property, plant, and equipment | **210** | ________________ | **211** | ________________ |
+
+| Intangible assets | **215** | ________________ | **216** | ________________ |
+
+| Investment property | **220** | ________________ | n/a | n/a |
+
+| Biological assets | **225** | ________________ | n/a | n/a |
+
+| Financial instruments | **230** | ________________ | **231** | ________________ |
+
+| Other | **235** | ________________ | **236** | ________________ |
+
+| Financial instruments | Line number | Yes/No |
+
+| --- | --- | --- |
+
+| Did the corporation derecognize any financial instrument(s) during the tax year? (other than trade receivables)? | **250** | No |
+
+| Did the corporation apply hedge accounting during the tax year? | **255** | No |
+
+| Did the corporation discontinue hedge accounting during the tax year? | **260** | No |
+
+| Adjustments to opening equity | Line number | Yes/No |
+
+| --- | --- | --- |
+
+| Was an amount included in the opening balance of retained earnings or equity, in order to correct an error, to recognize a change in accounting policy, or to adopt a new accounting standard in the current year? | **265** | No |
+
+| if **Yes**, you have to maintain a separate reconciliation. |  |  |
+
+| If the person who prepared the T2 return has a professional designation in accounting but is not the person identified in Part 1, choose all of the following options that apply: | Line number | Yes/No |
+
+| --- | --- | --- |
+
+| Prepared the T2 return and the financial information contained therein | **310** | Yes |
+
+| The client provided the financial statements | **311** |  |
+
+| The client provided a trial balance | **312** |  |
+
+| The client provided a general ledger | **313** |  |
+
+| Other (please specify) ...... **314** ___________________________________________________________________ |  |  |
+
+### Example 4 – Completed GIFI – Additional Information for a partnership
+
+| Information on the person | Line number | Yes/No |
+
+| --- | --- | --- |
+
+| Can you identify the person[Footnote1](#xmpl4a) specified in the heading of Part 1? If you answered **no**, go to Part 2. | **111** | Yes |
+
+| Does that person have a professional designation in accounting? | **095** | Yes |
+
+| Is that person connected[Footnote2](#xmpl4b) with the partnership? | **097** | No |
+
+| Footnotes Footnote 1 A person primarily involved with the financial information is a person who has more than a 50% involvement in preparing the financial information that the partnership information return is based on. For exemple, if three persons prepared the financial information by doing respectively 30%, 30% and 40% of the work, answer **no** at line 111. If they did respectively 10%, 20%, and 70% of the work, answer **yes** at line 111 and complete Part 1 by referring only to the third person. [Back to Footnote1](#xmpl4a-rf) Footnote 2 A person connected with a partnership can be: (i) a member of the partnership who owns more than 10% of the partnership units; (ii) an employee of the partnership; or (iii) a person not dealing at arm's length with the partnership. [Back to Footnote2](#xmpl4b-rf) |  |  |
+
+| Choose one or more of the following options that represent your involvement and that of the person referred to in Part 1: | Line number | Yes/No |
+
+| --- | --- | --- |
+
+| Completed an auditor's report | **300** |  |
+
+| Completed a review engagement report | **301** | Yes |
+
+| Conducted a compilation engagement | **302** |  |
+
+| Provided accounting services | **303** |  |
+
+| Provided bookeeping services | **304** |  |
+
+| Other | **305** |  |
+
+| if other, please specify ...... **306** ___________________________________________________________________ |  |  |
+
+| Reservations | Line number | Yes/No |
+
+| --- | --- | --- |
+
+| If you selected option **300** or **301** in Part 2 above, answer the following question:Has the person referred to in Part 1 expressed a reservation? | **099** | No |
+
+| Élément | Line number | Yes/No |
+
+| --- | --- | --- |
+
+| Were notes to the financial statements prepared? | **101** | Yes |
+
+| Did the partnership have any subsequent events? | **104** | No |
+
+| Did the partnership re-evaluate its assets during the fiscal period? | **105** | No |
+
+| Did the partnership have any contingent liabilities during the fiscal period? | **106** | No |
+
+| Did the partnership have any commitments during the fiscal period? | **107** | Yes |
+
+| Does the partnership have investments in joint ventures? If **yes**, complete question 109 below | **108** | No |
+
+| Is the partnership filing joint venture(s) financial statements? | **109** | n/a |
+
+| Impairment and fair value changes |  |  |
+
+| In any of the following assets, was an amount recognized in net income or other comprehensive income as a result of an impairment loss in the fiscal period, a reversal of an impairment loss recognized in a previous fiscal period, or a change in fair value during the fiscal period? | **200** | No |
+
+| If **Yes**, enter the amount recognized: | Line number | In net income Increase (decrease) | Line number | In OCI Increase (decrease) |
+
+| --- | --- | --- | --- | --- |
+
+| Property, plant, and equipment | **210** | ________________ | **211** | ________________ |
+
+| Intangible assets | **215** | ________________ | **216** | ________________ |
+
+| Investment property | **220** | ________________ | n/a | n/a |
+
+| Biological assets | **225** | ________________ | n/a | n/a |
+
+| Financial instruments | **230** | ________________ | **231** | ________________ |
+
+| Other | **235** | ________________ | **236** | ________________ |
+
+| Financial instruments | Line number | Yes/No |
+
+| --- | --- | --- |
+
+| Did the partnership derecognize any financial instrument(s) during the fiscal period (other than trade receivables)? | **250** | No |
+
+| Did the partnership apply hedge accounting during the fiscal period? | **255** | No |
+
+| Did the partnership discontinue hedge accounting during the fiscal period? | **260** | No |
+
+| Adjustments to opening partners' capital | Line number | Yes/No |
+
+| --- | --- | --- |
+
+| Was an amount included in the opening balance of partners' capital, in order to correct an error, to recognize a change in accounting policy, or to adopt a new accounting standard in the current fiscal period? | **265** | No |
+
+| If **Yes**, you have to maintain a separate reconciliation. |  |  |
+
+| If the person who prepared the partnership information return has a professional designation in accounting but is not the person identified in Part 1, choose all of the following options that apply: | Line number | Yes/No |
+
+| --- | --- | --- |
+
+| Prepared the partnership information return and the financial information contained therein | **310** | Yes |
+
+| The client provided the financial statements | **311** |  |
+
+| The client provided a trial balance | **312** |  |
+
+| The client provided a general ledger | **313** |  |
+
+| Other | **314** |  |
+
+| If other, please specify ...... **315** ___________________________________________________________________ |  |  |
+
+## Digital services
+
+### Handle your business taxes online
+
+My Business Account lets you view and manage your business taxes online.
+
+Use My Business Account throughout the year to:
+
+- make a payment online to the CRA with [My Payment](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html), create a pre-authorized debit (PAD) agreement, or create a QR code to pay in person at Canada Post
+
+- file a return, view the status of filed returns, and view return balances
+
+- submit documents to the CRA
+
+- manage authorized representatives and authorization requests
+
+- register to receive email notifications and to view mail from the CRA in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html)
+
+- manage addresses, direct deposit information, program account names, operating names, phone numbers, and business numbers in your profile
+
+- view and pay account balances
+
+- calculate and pay instalment payments
+
+- calculate a future balance
+
+- transfer payments and immediately view the updated balance
+
+- view closing balances (for example, non-capital loss balances)
+
+- make an online request regarding your account and view answers to common enquiries
+
+- track the progress of certain files you have submitted to the CRA
+
+- submit an audit enquiry
+
+- request relief of penalties and interest
+
+- manage multi-factor authentication settings
+
+To sign in to or register for the CRA's digital services, go to:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), if you are a business owner
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), if you are an authorized representative
+
+For more information, go to [Digital services for businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html).﻿
+
+### Receive your CRA mail online
+
+Register for email notifications to find out when CRA mail, like your notice of assessment, is available in My Business Account.
+
+For more information, go to [Email notifications from the CRA –Businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/online-mail-reduce-your-cost-doing-business-saving-time-online.html)
+
+### Create a pre-authorized debit agreement from your Canadian chequing account
+
+A pre-authorized debit (PAD) is a secure online self-service payment option for individuals and businesses to pay their taxes. A PAD lets you authorize withdrawals from your Canadian chequing account to pay the CRA. You can set the payment dates and amounts of your PAD agreement using the CRA's secure [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html).PADs are flexible and managed by you. You can use[My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) to view your account history and modify, cancel, or skip a payment. For more information, go to [Pay by pre-authorized debit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html).
+
+### Electronic payments
+
+Make your payment using:
+
+- your Canadian financial institution's online or telephone banking services
+
+- the CRA's [Pay now with My Payment](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html) service
+
+- your credit card, Interac e-transfer, or PayPal through one of the CRA's third-party service providers
+
+- pre-authorized debit (PAD) at [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html)
+
+For more information, go to [Payments to the CRA](https://www.canada.ca/en/revenue-agency/services/payments-cra.html).
+
+### Direct deposit
+
+Direct deposit is a fast, convenient, and secure way to receive your CRA payments directly in your account at a financial institution in Canada. For more information and ways to enrol, go to [Direct deposit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html) or contact your financial institution.
+
+## For more information
+
+### If you need help
+
+If you need more information after reading this guide, go to [Taxes](https://www.canada.ca/en/services/taxes.html) or call **1-800-959-5525**.
+
+For more information about filing your T2 Corporation Income Tax Return, see Guide [T4012, T2 Corporation – Income Tax Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012.html). For corporation internet filing, go to [Corporation Internet Filing](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing.html).
+
+For more information about filing your T5013 Partnership Information Return, see Guide [T4068, Guide for the Partnership Information Return (T5013 Forms)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4068.html).
+
+### Forms and publications
+
+The CRA encourages you to file your return electronically. If you need a paper version of the CRA's forms and publications, go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html) or call one of the following numbers:
+
+- **1-800-959-5525**, from Canada and the United States
+
+- **613-940-8497**,from outside Canada and the United States. The CRA only accepts collect calls made through a telephone operator. After your call is accepted by an automated response, you may hear a beep and notice a normal connection delay. This service operates in Eastern Standard Time and is open Monday to Friday from 8:00 am to 8:00 pm and Saturday from 9:00 am to 5:00 pm.
+
+### Electronic mailing lists
+
+The CRA can send you an email when new information on a subject of interest to you is available on the website. To subscribe to the electronic mailing lists, go to [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+### Tax Information Phone Service (TIPS)
+
+For tax information by telephone, use the CRA's automated service, TIPS, by calling **1-800-267-6999**.
+
+### Teletypewriter (TTY) users
+
+If you use a TTY for a hearing or speech impairment, call **1-800-665-0354.**
+
+If you use an **operator-assisted relay service**, call the CRA's regular telephone numbers instead of the TTY number.
+
+### Formal disputes (objections and appeals)
+
+You can file a formal dispute or objection if you think the CRA misinterpreted the facts of your tax situation or applied the tax law incorrectly.
+
+For more information, go to [File an objection](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/file-objection-cppei-appeal-minister.html).
+
+### Service complaints
+
+You can expect to be treated fairly under clear and established rules, and get a high level of service each time you deal with the CRA. For more information, see the [Taxpayer Bill of Rights](https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/taxpayer-bill-rights.html).
+
+You may provide compliments or suggestions, and if you are not satisfied with the service you received:
+
+1. Try to resolve the matter with the employee you have been dealing with or call the telephone number provided in the correspondence you received from the CRA. If you do not have contact information for the CRA, go to [Contact the Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html)
+
+2. If you have not been able to resolve your service related issue, you can ask to discuss the matter with the employee's supervisor
+
+3. If the problem is still not resolved, you can file a service‑related complaint by filling out form [RC193, Service Feedback](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html). For more information and to learn how to file a complaint, go to [Submit service feedback](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/make-a-service-complaint.html).
+
+If you are not satisfied with how the CRA has handled your service-related complaint, you can submit a complaint to the [Office of the Taxpayers' Ombudsperson](https://www.canada.ca/en/taxpayers-ombudsperson.html).
+
+### Reprisal complaints
+
+If you have received a response regarding a previously submitted service complaint or a formal review of a CRA decision and feel you were not treated impartially by a CRA employee, you can submit a reprisal complaint by filling out form [RC459, Reprisal Complaint](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc459.html).
+
+For more information, go to [Reprisal complaints](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/reprisal-complaints.html).
+
+### Due dates
+
+When a due date falls on a Saturday, Sunday, or public holiday recognized by the CRA, your payment is considered on time if the CRA receives it on or before the next business day.
+
+For more information, go to [Important dates for corporations](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/important-dates-businesses/important-dates-corporations.html).
+
+### Cancel or waive penalties and interest
+
+The CRA administers legislation, commonly called taxpayer relief provisions, that allows the CRA's discretion to cancel or waive penalties and interest when taxpayers cannot meet their tax obligations due to circumstances beyond their control.
+
+The CRA's discretion to grant relief is limited to any period that ends within 10 calendar years before the year in which a relief request is made.
+
+For penalties, the CRA will consider your request only if it relates to a tax year or fiscal period ending in any of the 10 calendar years before the year in which you make your request. For example, your request made in 2023 must relate to a penalty for a tax year or fiscal period ending in 2013 or later.
+
+For interest on a balance owing for any tax year or fiscal period, the CRA will consider only the amounts that accrued during the 10 calendar years before the year in which you make your request. For example, your request made in 2023 must relate to interest that accrued in 2013 or later.
+
+Taxpayer relief requests can be made online using the CRA's My Account, My Business Account (MyBA), or Represent a Client digital services:
+
+- [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html): After signing in, select "Accounts and payments," then "Request relief of penalties and interest."
+
+- [MyBA](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) or [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html): After signing in, on the MyBA overview page, select the appropriate program from the navigation menu, then select the correct account. Finally, select "Request relief of penalties and interest" under the "Request" heading.
+
+You can also fill out [Form RC4288, Request for Taxpayer Relief - Cancel or Waive Penalties and Interest](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4288.html), and send it with one of the following ways:
+
+- online with [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html): select "Submit documents" under the "Correspondence" section
+
+- online with [MyBA](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) or [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html): select "Submit documents" from the banner at the top of the page
+
+- by mail to the designated office, as shown on the last page of the form, based on your place of residence
+
+For more information, go to [Submit documents online](https://www.canada.ca/en/revenue-agency/services/e-services/submit-documents-online.html).
+
+For more details on the required supporting documents, relief from penalties and interest, and other related forms and publications, go to [Cancel or waive penalties and interest](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/cancel-waive-penalties-interest.html).

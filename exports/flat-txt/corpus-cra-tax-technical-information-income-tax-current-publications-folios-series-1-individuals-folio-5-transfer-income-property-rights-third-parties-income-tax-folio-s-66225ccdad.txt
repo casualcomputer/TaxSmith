@@ -1,0 +1,473 @@
+Title: Income Tax Folio S1-F5-C1, Related Persons and Dealing at Arm's Length
+Source: https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html
+Corpus path: corpus/cra/tax/technical-information/income-tax/current-publications/folios/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.md
+Document type: technical_publication
+Last modified: 2015-11-24
+
+# Income Tax Folio S1-F5-C1, Related Persons and Dealing at Arm's Length
+
+**Series 1: Individuals**
+
+**Folio 5: Transfers of Income, Property or Rights to Third Parties**
+
+**Chapter 1: Related Persons and Dealing at Arm's Length**
+
+## Summary
+
+This Chapter discusses the criteria used to determine whether persons deal with each other at arm's length for purposes of the Act. Although the term **at arm's length** is used throughout the Act, the Act does not contain any precise definition of the term. Section 251, which is the statutory provision for determining arm's-length relationships, refers to three categories of persons. The first category of persons is **related persons** and the second and third categories of persons are referred to in this Chapter as **unrelated persons**. The second category refers specifically to certain personal trusts and their beneficiaries while the third category refers to all other **persons not related to each other**.
+
+The Canada Revenue Agency (CRA) issues income tax folios to provide technical interpretations and positions regarding certain provisions contained in income tax law. Due to their technical nature, folios are used primarily by tax specialists and other individuals who have an interest in tax matters. While the comments in a particular paragraph in a folio may relate to provisions of the law in force at the time they were made, such comments are not a substitute for the law. The reader should, therefore, consider such comments in light of the relevant provisions of the law in force for the particular tax year being considered.
+
+## Table of contents
+
+- [Discussion and interpretation](#toc0)
+
+    - [Related persons](#toc1)
+
+          - [Related individuals](#toc2)
+
+          - [﻿Corporations and other persons](#toc3)
+
+    - [Unrelated persons](#toc4)
+
+          - [Personal trusts](#toc5)
+
+          - [Other unrelated persons](#toc6)
+
+- [Application](#toc7)
+
+- [Reference](#toc8)
+
+- [History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length/chapter-history-s1-f5-c1-related-persons-dealing-arms-length.html)
+
+## Discussion and interpretation
+
+### Related persons
+
+**1.1** Paragraph 251(1)(a) deems that **related persons** do not deal with each other at arm's length. This is the case regardless of how they actually deal with one another. Subsection 251(2) defines related persons for the purposes of the Act. Subsections 251(3) to 251(6) clarify and expand on the definitions.
+
+#### Related individuals
+
+**1.2** According to paragraph 251(2)(a), individuals connected by blood relationship, marriage, common-law partnership or adoption are related persons.
+
+##### Blood relationship
+
+**1.3** Paragraph 251(6)(a) refers to a **blood relationship** as being that of:
+
+- a parent and a child (or other descendant, such as a grandchild or a great-grandchild), or
+
+- a brother and a sister.
+
+**1.4** In particular, subsection 252(1) provides that a child of an individual includes:
+
+1. a person of whom the individual is the legal parent;
+
+2. a person who is wholly dependent on that individual for support if the person is or was, before reaching 19 years of age, in law or in fact, under the individual's custody and control;
+
+3. a child of the individual's spouse or common-law partner (that is, a stepchild); and
+
+4. a spouse or common-law partner of the individual's child (that it, a son-in-law or a daughter-in-law), as well as the spouse or common-law partner of a stepchild or of a person considered to be the individual's child as described in ¶1.4(b) above.
+
+**1.5** On the divorce or death of an individual's child (described in ¶1.4(a), (b) or (c)), the child's former spouse or common-law partner ceases to be the child's spouse or common-law partner (see ¶1.7) and is no longer a child of the individual.
+
+**1.6** Paragraph 252(2)(b) provides that an individual's **brother** includes:
+
+- the brother of the individual's spouse or common-law partner and
+
+- the spouse or common-law partner of the individual's sister.
+
+It does not include the spouse or common-law partner of the sister or of the brother of the individual's spouse or common-law partner.
+
+Similarly, paragraph 252(2)(c) provides that an individual's **sister** includes:
+
+- the sister of the individual's spouse or common-law partner and
+
+- the spouse or common-law partner of the individual's brother.
+
+It does not include the spouse or common-law partner of the brother or of the sister of the individual's spouse or common-law partner.
+
+Therefore, if Mr. A and Mr. B are otherwise unrelated, and they have each married one of two sisters, they are not connected by blood according to paragraph 251(6)(a). Similarly, if Mr. X and Mrs. Y are brother and sister, Mrs. X and Mr. Y are not connected by blood. However, Mr. A and Mr. B, and Mrs. X and Mr. Y, in the respective examples, are connected by marriage according to paragraph 251(6)(b).
+
+##### Marriage
+
+**1.7** According to paragraph 251(6)(b), two persons are **connected by marriage** if one person is married to the other person or to an individual who is connected by blood relationship to that other person. For example, an individual will be connected by marriage to the parents and any siblings of their spouse. However, where an individual's marriage is dissolved by either divorce or the death of his or her spouse, the individual will cease to be **connected by marriage** or to be **connected by blood relationship** to the parents and any siblings of their former spouse.
+
+##### Common-law partnership
+
+**1.8** Paragraph 251(6)(b.1) provides that two individuals are connected by common-law partnership if one individual is in a common-law partnership with the other or with a person who is connected by blood relationship to that other person. Subsection 248(1) defines a common-law partnership as the relationship between two persons who are common-law partners of each other.
+
+**1.9** The term common-law partner in respect of a taxpayer is defined in subsection 248(1) and at a particular time includes:
+
+1. a person who at that time cohabits in a conjugal relationship with the taxpayer and has done so throughout the continuous 12-month period that ends at that time; and
+
+2. a person who at that time cohabits in a conjugal relationship with the taxpayer and is the parent of a child of the taxpayer for one of the following reasons (as more fully described in ¶[1.4(a)](#p1.4) and (b)):
+
+    1. the person is the legal parent of the child; or
+
+    2. the child is wholly dependent on the person for support and the person has, in law or in fact, the custody and control of the child (or did immediately before the child turned 19).
+
+**1.10** Under the definition of common-law partner, once individuals begin to cohabit in a conjugal relationship they are deemed to continue cohabiting in that conjugal relationship until they live separate and apart for a period of 90 consecutive days because of a breakdown of their conjugal relationship. After this 90-day period has passed, the effective day of the change of marital status is the date the individuals started living separate and apart.
+
+Ms. X and Mr. Y have no children and have been living together in a conjugal relationship that began February 1, 2004. On March 15, 2010, they began to live separate and apart as a result of a breakdown in their relationship. Over a year later, on June 30, 2011, they reconciled and resumed living together in a conjugal relationship.
+
+Ms. X and Mr. Y commenced being common-law partners on February 1, 2005, being the end of a continuous 12-month period of living together in a conjugal relationship. Because Ms. X and Mr. Y separated for a period of at least 90 consecutive days because of a breakdown in their relationship, they will be considered to have ceased to be common-law partners on March 15, 2010, being the first day of the 90-day period. Because they ceased to be common-law partners, when they reconciled and resumed living together in a conjugal relationship on June 30, 2011 they would not be considered common-law partners until they satisfy a continuous 12-month period of living together in a conjugal relationship. In this case, the earliest they will be considered common-law partners will be June 30, 2012.
+
+**1.11** In determining whether a person is a parent of his or her partner’s child, paragraph (b) of the definition of **common-law partner** does not restrict the determination to the natural child of the partner. Instead, it generally extends to all those individuals described in ¶[1.4(a)](#p1.4) or (b). Where a person is a parent of his or her partner’s child at the time that the couple begin to cohabit in a conjugal relationship, a common-law partnership will commence at that time. Similarly, if a person becomes a parent of his or her partner’s child while the couple are already cohabiting in a conjugal relationship and before the 12-month minimum period has completed, their common-law partnership will begin at the time the person becomes a parent of the child. In both situations, there is no requirement that the couple have cohabited for the 12-month minimum period described in ¶1.9(a).
+
+**1.12** For the purposes of ¶1.9(b) and the discussion in ¶1.11, a child does not generally include a son-in-law or a daughter-in-law. Therefore, for example, a woman who begins to live together in a conjugal relationship with her son-in-law's father will not be the common-law partner of her son-in-law's father until they have lived together for a continuous 12-month period.
+
+##### Other relatives
+
+**1.13** For purposes of the Act, an individual’s niece, nephew, aunt, uncle or cousin is not connected by blood, marriage or common-law partnership or adoption to the individual. This will be the case unless such person is related to the individual because of some other relationship (for example, becoming a child of the individual because of the extended meaning of child as described in ¶[1.4(b)](#p1.4)).
+
+##### Adoption
+
+**1.14** According to paragraph 251(6)(c), two individuals are **connected by adoption** if one individual is the adopted child of the other. In addition, an individual who is connected by blood (except a brother or sister) to another individual will be connected by adoption to that person's adopted child. Therefore, individuals are connected by adoption to their adoptive children, parents and grandparents.
+
+**1.15** **Adoption** includes a **legal adoption** and an **adoption in fact**. An adoption in fact is also known as a **de facto adoption**.
+
+**1.16** Whether a de facto adoption has occurred at a particular time is a question of fact and has to be determined based on a consideration of the particular circumstances. The appointment of a guardian of a child does not, in and of itself, constitute a de facto adoption. For a de facto adoption to exist, generally the adoptive parent must exercise parental care and guidance on a continuing basis. The factors to consider in determining whether a certain relationship between an individual and a child constitutes a de facto adoption are:
+
+- actual control and custody,
+
+- an exercise of parental care and responsibility on a continuing basis,
+
+- dependency, and
+
+- proximity to each other.
+
+#### Corporations and other persons
+
+##### Control - general
+
+**1.17** Paragraphs 251(2)(b) and (c) set out the statutory rules for determining when a corporation and another person will be considered to be **related persons** for purposes of the Act. Under paragraph 251(2)(b), a corporation will be related to another person (including another corporation) where:
+
+1. that person controls the corporation;
+
+2. that person is a member of a related group that controls the corporation; or
+
+3. that person is a person who is related to a person described in i) or ii) above.
+
+**1.18** In addition, paragraph 251(2)(c) provides that two corporations will be related if:
+
+1. the two corporations are controlled by the same person or group of persons;
+
+2. each of the corporations is controlled by one person and the person who controls one corporation is related to the person who controls the other corporation;
+
+3. one of the corporations is controlled by one person and that person is related to any member of a related group that controls the other corporation;
+
+4. one of the corporations is controlled by one person and that person is related to each member of an unrelated group that controls the other corporation (see **Example 2** below);
+
+5. any member of a related group that controls one of the corporations is related to each member of an unrelated group that controls the other corporation (see **Example 3** below); or
+
+6. each member of an unrelated group that controls one of the corporations is related to at least one member of an unrelated group that controls the other corporation (see **Example 4** below).
+
+**1.19** For the purposes of subsection 251(2), control means **de jure control**, which generally means the right of control that rests in ownership of such number of shares as carries with it the right to a majority of the votes in the election of the board of directors of the corporation. For a detailed discussion of de jure control of a corporation, see [Interpretation Bulletin IT-64R4 (consolidated), Corporations: Association and Control](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it64r4-consolid.html).
+
+**1.20** The expression **related group** is defined in subsection 251(4) and means a group of persons, each member of which is related to every other member of the group. For example, a group consisting of two common-law partners and their children would be a related group. An **unrelated group** refers to a group of persons that is not a related group. For an unrelated group to constitute a group of persons which controls a corporation, there must be:
+
+- a common link or interest between the persons which must involve more than their mere status as shareholders (for example, see [Interpretation Bulletin IT-302R3, Losses of a Corporation – The Effect that Acquisitions of Control, Amalgamations, and Windings-up Have on Their Deductibility – After January 15, 1987](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it302r3.html),paragraph 6, referring to a group of persons seeking a tax advantage from the accumulated losses of a corporation), or
+
+- evidence that those shareholders act together to exert control over the corporation.
+
+In the case of a closely-held corporation (for example, where there are two or three unrelated shareholders, none of which individually controls the corporation) the CRA considers that there is a presumption that the shareholders of such a closely-held corporation will act together to control the corporation. In order to rebut this presumption, it would be necessary to show that no one is controlling the corporation and that the decision-making process in the corporation is effectively deadlocked.
+
+- A has two adult children, C and D. ﻿
+
+- C has two children, X and Y, and
+
+- D has one child, Z.
+
+A owns all of the issued and outstanding shares of ACo. This means A controls ACo. Each of Y and Z owns 50% of the common shares of OpCo. Since Y and Z are cousins, they will, for purposes of the Act, be an unrelated group that controls OpCo. As A is related to each of Y and Z (that is, A is their grandparent), ACo and OpCo will be related pursuant to subparagraph 251(2)(c)(iv).
+
+Assume the same facts as described in Example 2, except that each of A, C and D owns 33-1/3% of the common shares of BCo.
+
+A, C and D are a related group that controls BCo. Since A is related to each of Y and Z (that is, A is their grandparent), BCo and OpCo will be related pursuant to subparagraph 251(2)(c)(v).
+
+Mr. X, Mr. Y and Mr. Z are an unrelated group that controls XYZ Co.
+
+Their spouses, Mrs. X, Mrs. Y and Mrs. Z are an unrelated group that controls 123 Co.
+
+As Mr. X is related to Mrs. X, Mr. Y is related to Mrs. Y and Mr. Z is related to Mrs. Z, XYZ Co will be related to 123 Co pursuant to subparagraph 251(2)(c)(vi).
+
+##### Special rules
+
+###### Related through a third corporation
+
+**1.21** Subsection 251(3) provides that where two corporations are each related to a third corporation, they are deemed to be related to each other for the purposes of subsections 251(1) and (2).
+
+- A and B are sisters
+
+- Each of A and B has an adult child, being C and D, respectively.
+
+- Each of A, B, C and D owns all of the issued shares of one corporation, ACo, BCo, CCo and DCo, respectively.
+
+In this situation, ACo and BCo are related to each other by virtue of subparagraph 251(2)(c)(ii).
+
+Also, ACo and CCo are related to each other and BCo and DCo are related to each other by virtue of subparagraph 251(2)(c)(ii).
+
+Therefore, ACo and DCo will be related to each other by virtue of subsection 251(3) because each of them is related to BCo.
+
+Similarly, BCo and CCo will be related under subsection 251(3) because each of them is related to ACo.
+
+However, since subsection 251(3) does not apply for the purposes of a subsequent application of subsection 251(3), CCo will not be related to DCo.
+
+###### Control by related groups
+
+**1.22** The provisions of paragraphs 251(5)(a), (b), and (c) apply in the determination of control of a corporation for the purposes of identifying related persons within the meaning assigned by subsection 251(2). They also apply for the purpose of the definition of a **Canadian-controlled private corporation** in subsection 125(7).
+
+**1.23** When a related group is in a position to control a corporation, paragraph 251(5)(a) deems the corporation to be controlled by the related group. This will be the case even if it is part of a larger group that in fact controls the corporation. However, where a corporation is controlled by a single person, paragraph 251(5)(a) will not apply to deem the corporation to be controlled by a group of persons, whether related or not.
+
+###### Common shareholder
+
+**1.24** In determining whether two corporations are related, paragraph 251(5)(c) provides that a person who owns shares of both corporations shall be deemed, as a shareholder of one of the corporations, to be related to himself, herself, or itself as a shareholder of the other corporation.
+
+###### Options and rights
+
+**1.25** Pursuant to paragraph 251(5)(b) where at any time a person has a right under a contract, in equity or otherwise, either immediately or in the future and either absolutely or contingently:
+
+- to acquire shares (or control voting rights of shares) of a corporation, the person is deemed to be in the same position, relative to the control of the corporation, as if the person actually owned the shares at that time;
+
+- to cause the corporation to redeem, acquire, or cancel any shares of its capital stock owned by other shareholders, the person is deemed to be in the same position, relative to the control of the corporation, as if the shares were redeemed, acquired, or cancelled by the corporation at that time;
+
+- to (or to acquire or control) voting rights of a corporation's shares, the person is deemed to be in the same position, relative to the control of the corporation, as if that person could exercise those voting rights at that time; or
+
+- to cause the reduction of voting rights of a corporation's shares owned by other shareholders, the person is deemed to be in the same position, relative to the control of the corporation, as if the voting rights were reduced at that time.
+
+**1.26** However, the provisions of paragraph 251(5)(b) will not apply to a particular right to the extent that the right is not exercisable at that time because the exercise of the right is contingent on an individual’s:
+
+- death,
+
+- bankruptcy, or
+
+- permanent disability.
+
+###### Convertible securities
+
+**1.27** If bonds, debentures or non-voting shares of a corporation are convertible into voting shares, one of the deeming rules in paragraph 251(5)(b) may apply because of the **right** of the owners of those securities to make the conversion. However, whether it will be applicable can depend upon the distribution of such convertible securities. If such securities have been issued to the general public and have wide distribution, they may usually be ignored since it is unlikely that the exercise of such rights will result in any person or group of persons acquiring control of the corporation as a result of the conversion of such securities. However, if large numbers of such securities are concentrated in the hands of a small group of people, their impact will need to be considered. A similar situation can exist when a person has a right in some other form to subscribe for voting shares of a corporation.
+
+###### Buy-sell agreements
+
+**1.28** Although the wording in paragraph 251(5)(b) may be broad enough to include almost any buy-sell agreement, this paragraph will not normally be applied solely because the applicable shareholder agreement contains:
+
+- a **right of first refusal**; or
+
+- a **shotgun arrangement**. A shotgun arrangement is one under which a shareholder offers to purchase the shares of another shareholder and the other shareholder must either accept the offer or purchase the shares owned by the offering party.
+
+###### Simultaneous control
+
+**1.29** If paragraph 251(5)(b) does apply, it is possible for each of two unrelated persons to be regarded, for the purposes of subsection 251(2), as having control of the same corporation at the same time. While paragraph 251(5)(b) does not deny that actual control is held by the person who has the direct ownership of shares, another person could have control simultaneously as a result of the application of one of the rules in paragraph 251(5)(b).
+
+S owns a majority of the voting shares in each of Corporations A and B and, therefore, has actual control of Corporations A and B.
+
+J, who controls Corporation C, has an option to purchase the controlling shares in Corporation A from S or from S's estate.
+
+S and J are not related.
+
+In these circumstances, paragraph 251(5)(b) deems J to have control of Corporation A, but does not deny that S has the actual control of it.
+
+As a result:
+
+- Corporations A and B are related (see subparagraph 251(2)(c)(i)) and are deemed not to deal with each other at arm's length (see paragraph 251(1)(a));
+
+- Corporations A and B are each related to S (see subparagraph 251(2)(b)(i)) and are deemed not to deal with S at arm's length (see paragraph 251(1)(a));
+
+- On the basis that J is deemed by paragraph 251(5)(b) to be in the same position in relation to the control of Corporation A as if J owned the majority of the voting shares of Corporation A, Corporations A and C are related (see subparagraph 251(2)(c)(i)) and are deemed not to deal with each other at arm's length (see paragraph 251(1)(a));
+
+- Corporation C is related to J (see subparagraph 251(2)(b)(i)) and is deemed not to deal with J at arm's length (see paragraph 251(1)(a));
+
+- On the basis that J is deemed by paragraph 251(5)(b) to be in the same position in relation to the control of Corporation A as if J owned the majority of the voting shares of Corporation A, Corporation A is related to J (see subparagraph 251(2)(b)(i)) and is deemed not to deal with J at arm's length (see paragraph 251(1)(a)); and
+
+- Corporations B and C are related (see subsection 251(3)) and are deemed not to deal with each other at arm's length (see paragraph 251(1)(a)).
+
+If, however, J's option had been exercisable only after the death, bankruptcy or permanent disability of S, J would not be deemed to have control of Corporation A, because of the exceptions in paragraph 251(5)(b). In that case, Corporations A and B would not be related to Corporation C, and J would not be related to Corporation A.
+
+### Unrelated persons
+
+#### Personal trusts
+
+**1.30** Paragraph 251(1)(b) provides that a taxpayer and a **specified personal trust** (see ¶1.34) are deemed not to deal with each other at arm's length if the taxpayer, or any person not dealing at arm's length with the taxpayer, is beneficially interested in the trust. Pursuant to subsection 248(25), a **person or partnership who is beneficially interested in a trust** includes:
+
+- a person or partnership that has any right as a beneficiary to receive any of the income or capital of the trust either directly from the trust or indirectly through one or more trusts or partnerships. This right could be:
+
+    - immediate or in the future,
+
+    - absolute or contingent, or
+
+    - conditional on or subject to the exercise of any discretion by any person or partnership;
+
+- a particular person or partnership who may become beneficially interested in the trust by the exercise of discretion by any person or partnership, where any property has been acquired, directly or indirectly in any manner, by the trust from the particular person or partnership; and
+
+- a member of a partnership that is beneficially interested in the trust.
+
+**1.31** The following are examples of situations where an individual is beneficially interested in a trust:
+
+1. trust income is payable to the individual;
+
+2. income is held in trust and will be paid upon the individual's attainment of a certain age;
+
+3. the individual is one for whom a preferred beneficiary election may be made;
+
+4. the individual is one of a class who has a remainder interest under the trust; or
+
+5. the individual has contributed property to the trust (for example, the settlor of the trust) and may, by virtue of the existence of a power of appointment, be added as a beneficiary of the trust at a later date.
+
+**1.32** An individual is beneficially interested in the trust in the circumstances described in ¶1.31(b) even if the individual's right to receive income ceases if the individual should die before attaining the specified age. Similarly, an individual is beneficially interested in the trust in the circumstances described in ¶1.31(c) even if the trustees have full discretionary powers concerning the distribution of the capital or income of the trust so that the individual may in fact receive nothing from the trust.
+
+**1.33** A **personal trust**, as defined in subsection 248(1), is a trust (other than certain trusts that are or were unit trusts) that is either a testamentary trust or an inter vivos trust in which no beneficial interest was acquired for consideration payable to the trust or to a person or partnership that has made a contribution to the trust. Subsection 108(7) provides that a person (or two or more persons who are considered to be related for the purposes of that subsection) may make a contribution of property to a trust and retain an interest in the trust without causing the trust to lose its status as a personal trust.
+
+**1.33.1** For the 2016 and subsequent tax years, the definition of **personal trust** in subsection 248(1) has been modified. As such, a **personal trust** will mean a trust (other than certain trusts that are or were unit trusts) that is either:
+
+- a **graduated rate estate** (see ¶1.33.2); or
+
+- a trust in which no beneficial interest was acquired for consideration payable to the trust or to any person or partnership that has made a contribution to the trust.
+
+**1.33.2** Subsection 248(1) has been amended to add the definition of **graduated rate estate.**Beginning on December 31, 2015, an individual’s **graduated rate estate**at any time will be the estate that arose on and as a consequence of the individual’s death if
+
+- that time is no more than 36 months after the death;
+
+- the estate is at that time a testamentary trust;
+
+- the individual’s social insurance number (or if the individual had not, before the death, been assigned a social insurance number, such other information as is acceptable to the Minister) is provided in the estate’s return of income;
+
+- the estate designates itself as the graduated rate estate of the individual in its return of income; and
+
+- no other estate designates itself as the graduated rate estate of the individual.
+
+**1.34** A **specified personal trust** as that expression is used in ¶1.30 is a personal trust other than:
+
+- an amateur athlete trust,
+
+- an employee life and health trust,
+
+- an employee trust,
+
+- a prescribed master trust,
+
+- a trust governed by a deferred profit sharing plan,
+
+- an employee benefit plan,
+
+- an employees profit sharing plan,
+
+- a foreign retirement arrangement,
+
+- a pooled registered pension plan,
+
+- a registered disability savings plan,
+
+- a registered education savings plan,
+
+- a registered pension plan,
+
+- a registered retirement income fund,
+
+- a registered retirement savings plan,
+
+- a registered supplementary unemployment benefit plan
+
+- a tax-free savings account,
+
+- a related segregated fund trust,
+
+- a retirement compensation arrangement trust,
+
+- a trust whose direct beneficiaries are one of the aforementioned trusts,
+
+- a health and welfare trust,
+
+- a trust governed by an eligible funeral arrangement,
+
+- a cemetery care trust, or
+
+- a trust deemed in respect of a communal religious organization.
+
+**1.35** Pursuant to paragraph 251(1)(b), property acquired by a beneficiary as a consequence of the death of an individual and in accordance with the terms of the will of the deceased will be acquired from a person with whom the beneficiary is not dealing at arm's length.
+
+**1.36** Paragraph 251(1)(b) will also deem two or more specified personal trusts not to be dealing at arm's length where, among other things:
+
+- the same person is a beneficiary of each trust; or
+
+- a person who is a beneficiary of one trust does not deal at arm's length with a person who is a beneficiary of the other trust(s).
+
+#### Other unrelated persons
+
+##### Question of fact
+
+**1.37** Paragraph 251(1)(c) provides that it is a question of fact whether unrelated persons (other than persons described in ¶1.30) are dealing with each other at arm's length at a particular time. Sometimes unrelated persons may deal with each other at arm's length and sometimes they may not, depending on the circumstances. General criteria can be provided to determine whether there is an arm's-length relationship between unrelated persons for a given transaction. However, it must be recognized that all-encompassing guidelines to cover every situation cannot be provided. Each particular transaction or series of transactions must be examined on its own merits. The following paragraphs set forth the CRA's general guidelines with some specific comments about certain relationships.
+
+**1.38** The following criteria have generally been used by the courts in determining whether parties to a transaction are not dealing at **arm's length**:
+
+- whether there is a common mind which directs the bargaining for both parties to a transaction;
+
+- whether the parties to a transaction act in concert without separate interests; and
+
+- whether there is de facto control.
+
+It is not required that all three tests be satisfied in every case. In any particular case, any one or more of the criteria may be of greater or lesser importance in the determination whether the parties are dealing at arm’s length ([Canada v. Remai,](http://canlii.ca/t/26p3r) 2009 FCA 340, 2009 DTC 5188 (FCA), at par. 32).
+
+**1.39** The courts have held that when one person (or a group of persons) is, in fact, the bargaining agent, or the mind by which the bargaining is directed, on behalf of both (or all) parties to a transaction, then the parties cannot be dealing at arm's length. The courts have expanded this principle to include the concept of **acting in concert** with respect to an element of common interest. The fact that two or more parties act in a highly interdependent manner (in respect of a transaction of mutual interest) can be an indication of the fact that the parties are acting in concert and in the same interest and therefore are not dealing with each other at arm's length. When a common purpose exists, a transaction is not necessarily a non-arm's-length one when different interests (or independent parties) are also present. In this context, different interests are considered to exist when each party has an independent interest from the other parties to a transaction, notwithstanding the fact that each party may have the same purpose, such as economic gain.
+
+**1.40** The courts have also held, in certain cases, that excessive or constant advantage, authority or influence can constitute **de facto control** (that is, effective without legal control). This situation can bring parties into a non-arm's-length relationship. It is important to note that this advantage need not be exercised to be a factor; the mere ability to do so is sufficient.
+
+**1.41** Failure to carry out a transaction at fair market value may be indicative of a non-arm's-length transaction. However, such failure is not conclusive. Conversely, a transaction between unrelated persons at fair market value does not necessarily indicate an arm's-length situation. The key factor is whether there are separate economic interests which reflect ordinary commercial dealing between parties acting in their separate interests. A situation where one party to a transaction is merely accommodating the other party in an attempt to obtain a certain tax result may be a situation where the parties are not dealing at arm's length because they do not have separate economic interests which reflect ordinary commercial dealings between parties acting in their own separate interests.
+
+##### Partnerships
+
+**1.42** Where a partnership owns a majority of the issued voting shares of a corporation, the partnership will not be considered to deal at arm's length with the corporation.
+
+**1.43** Where one partner is in a position to control a partnership, that partner is not considered to be dealing at arm's length with the partnership. For example, a partner can be in a position to control a partnership through ownership of a controlling interest or through a mandate vested in that partner by the other partners. However, when a partner is not in a position to control a partnership and that partner has little or no say in directing the operations of the partnership, it is generally recognized that the partner is dealing at arm's length with the partnership.
+
+Where a related group of partners owns a controlling interest in a partnership, each member of that related group will not be considered to deal at arm's length with the partnership.
+
+**1.44** Partners are not necessarily considered not to deal at arm’s length with each other in transactions outside of their partnership activity merely because they are members of the same partnership. However, their partnership in business would be a factor to be considered in any other transaction between them.
+
+**1.44.1** The determination of whether a partnership is dealing at arm’s length with a person who is not a partner will generally be made on the basis of the relationship of the directing minds of the partnership and the person at the relevant time.
+
+##### Trusts
+
+**1.45** As stated in the Summary, this Chapter describes the criteria used to determine whether persons deal with each other at arm’s length. An **individual** is defined in subsection 248(1) to mean a **person**. Because subsection 104(2) deems a trust to be an individual in respect of the trust property, it will be a person to which section 251 applies.
+
+**1.46** Where a trust owns a majority of the voting shares of a corporation such that the trustee(s) of the trust control the corporation, the trust and the corporation will be related persons by virtue of subparagraph 251(2)(b)(i). Therefore, pursuant to paragraph 251(1)(a), the trust and the corporation will be deemed not to be dealing at arm's length.
+
+**1.47** Subsection 104(1) provides that a reference to a trust is to be read to include a reference to the trustee of the trust who has ownership or control of the trust property. This will be the case unless the context requires a different interpretation. Where the rule applies, the control of a particular corporation by a trust may also result in a trustee of the trust being related to the particular corporation because of that trustee’s ownership of the shares of, and control of, the corporation.
+
+Mr. A is the sole trustee of a particular trust that owns all of the issued shares in the capital of a corporation.
+
+Both the particular trust and Mr. A will be related to the corporation and deemed not to be dealing at arm’s length with the corporation.
+
+**1.48** Where there is more than one trustee of a trust, the determination of which trustee(s) has control of the corporation will depend upon the facts of each case, including the terms of the trust agreement.
+
+**1.49** Where, in the context, a reference to the trust is to be read to include a reference to the trustee having ownership or control of the trust property, the trust will be related to each person who is related to that trustee.
+
+Mr. A is the sole trustee of a particular trust. The trust will be related to, and deemed not to deal at arm’s length with, each person to whom Mr. A is connected by blood relationship, marriage or common-law partnership or adoption. This would include, for example, his spouse, his children and other descendants and his brothers and sisters.
+
+**1.50** As discussed in ¶[1.30](#p1.30) to ¶1.34, a specified personal trust will also be deemed not to deal at arm's length with its beneficiaries or with any person who does not deal at arm's length with any such beneficiary. In any other case it is a question of fact whether the trust and a particular person or group of persons are dealing at arm's length.
+
+**1.51** In making this determination, there is a general presumption that a trust does not deal at arm's length with its settlor. However, this general presumption may not apply if the trustee of the trust is a professional trustee (for example, a public trust company) and the settlor has not maintained some degree of influence over the trustee. Also, if property is settled on a trust by a settlor who transfers all of the usual rights of ownership of the property, the settlor might be considered to deal at arm's length with the trust provided that the trustee is free of any influence exercised by the settlor.
+
+**1.52** These exceptions do not apply, however, to a transfer of property from a deceased to the estate of the deceased or to a trust created by the will of the deceased. The CRA generally considers that these transfers do not take place at arm’s length.
+
+##### Shareholders and corporations
+
+**1.53** A person who is not related to a corporation is not considered not to deal at arm’s length with the corporation merely because he or she owns shares of the corporation. However, if a sufficient number of minority shareholders act in concert in order to direct the affairs of a corporation, they may be considered not to be dealing at arm's lengthwith the corporation. **Acting in concert** generally means a predetermined agreement to act in a certain manner. In a widely-held corporation, the fact that a majority of shareholders vote collectively to take some business action may not, by itself, indicate that those shareholders are acting in concert and therefore not dealing at arm's length with each other and the corporation (see [Interpretation Bulletin IT-302R3, Losses of a Corporation – The Effect that Acquisitions of Control, Amalgamations, and Windings-up Have on Their Deductibility – After January 15, 1987](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it302r3.html), paragraphs 4 to 6). Also, the direct management voice of any minority shareholder who holds an officer's position with a corporation may be relevant in assessing that shareholder's relationship with that corporation.
+
+**1.54** There may be situations where closely-held private corporations employ some of the same personnel, occupy the same premises, and to the public eye, appear to be one enterprise. In some cases, there may also be intercorporate share ownership which is insufficient to create legal control. In such situations, the corporations may be considered not to be dealing with each other at arm's length.
+
+## Application
+
+This updated Chapter, which may be referenced as S1-F5-C1, is effective November 26, 2015.
+
+When it was first published on May 2, 2014, this Chapter replaced and cancelled Interpretation Bulletin IT-419R2, Meaning of Arm’s Length.
+
+The history of updates to this Chapter as well as any technical updates from the cancelled interpretation bulletin can be viewed in the [Chapter History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length/chapter-history-s1-f5-c1-related-persons-dealing-arms-length.html) page.
+
+Except as otherwise noted, all statutory references herein are references to the provisions of the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.), as amended and all references to a Regulation are to the Income Tax Regulations, C.R.C. 1978, c. 945, as amended.
+
+Links to jurisprudence are provided through CanLII.
+
+Income tax folios are available in electronic format only.
+
+## Reference
+
+Sections 251 and 252 (also sections 104, 108 and 248).

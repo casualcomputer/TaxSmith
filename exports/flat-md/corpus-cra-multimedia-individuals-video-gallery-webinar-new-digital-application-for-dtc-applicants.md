@@ -1,0 +1,189 @@
+---
+title: "Webinar - Disability tax credit (DTC) – Fully digital application form for applicants"
+gallery_title: "Webinar – Disability tax credit (DTC) – Fully digital application form for applicants"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/individuals-video-gallery/webinar-new-digital-application-for-dtc-applicants.html
+video_source: https://youtu.be/yEjuFS1_8t8
+last_modified: 2024-06-14
+---
+
+# Webinar - Disability tax credit (DTC) – Fully digital application form for applicants
+
+## Transcript
+### Slide 1 – Disability tax credit (DTC) - Fully digital application form for applicants and medical practitioners
+Melanie: Hello, and welcome. My name is Melanie. I’m with the Canada Revenue Agency, or CRA for short.
+I’m very happy to be here today. I will be talking to you about the disability tax credit and the digital application process for individuals and medical practitioners.
+[An individual wearing a hearing aid is sitting at a desk and using a tablet.]
+### Slide 2 – Land acknowledgment
+Melanie: Before we get started, I would like to respectfully acknowledge the territory in which we gather, as the ancestral unceded homelands of the Beothuk and the island of Newfoundland as the ancestral unceded homelands of the Mi’kmaq and Beothuk.
+It is also important to note that Indigenous Peoples in remote areas often lack consistent access to a primary healthcare provider. This can contribute to the dynamics between patients and medical practitioners. During this reflection, we encourage everyone to always strive to interact in a culturally-safe and sensitive manner.
+Given that we are meeting virtually, I also want to acknowledge the lands on which you are gathered from and invite you to take a moment of silence to have a thought for the territory in which you find yourself.
+[Icon of an eagle, narwhal, violin, feather, ulu, and infinity symbol.]
+### Slide 3 – Overview
+Melanie: In today’s webinar, we are providing information about recent changes to the disability tax credit form and how to apply.
+Throughout the presentation, we will be referring to the credit as the “DTC.”
+First, we will go over the DTC and eligibility.
+Next, we will talk about the changes to the paper application form known as form T2201, Disability Tax Credit Certificate.
+Then, we will review the digital application process. Both the applicant and the medical practitioner can complete and submit their portions of the DTC application online. We’ll start with how individuals can apply for the DTC.
+And finally, we will go over some helpful resources.
+[A smiling adult watches over a child playing with a fidget spinner.]
+### Slide 4 – The disability tax credit (DTC)
+Melanie: The Disability Tax Credit (DTC) is a non-refundable tax credit that helps people with disabilities, or their supporting family members, reduce the amount of income tax they may have to pay.
+If someone has a severe and prolonged impairment, they may apply. Once approved, they may claim the credit on their income tax and benefit return. Limitations may be experienced in more than one of the categories for the DTC. However, the amount of the credit is not impacted by the number of limitations.
+If the DTC is approved for prior years, individuals can request an adjustment to have it applied to their previous tax returns.
+By reducing income tax, the DTC can help offset some of the extra costs related to the impairment.
+Even if you do not have taxable income, there are other benefits to applying for the DTC. Being approved can provide access to other federal, provincial, or territorial programs, such as the Registered Disability Savings Plan, the Canada Workers Benefit Disability Supplement and the Child Disability Benefit.
+[An older adult smiles while using a walking aid.]
+### Slide 5 – Eligibility
+Melanie: An individual may be eligible for the DTC if a medical practitioner certifies that they have a severe and prolonged impairment, substantially all of the time, in one or more of the categories of impairment; significant limitations in two or more categories; or receive life-sustaining therapy to support a vital function.
+The categories of impairment include walking, mental functions, dressing, feeding, eliminating (bowel or bladder functions), hearing, speaking, vision and life-sustaining therapy. The cumulative effect of 2 or more impairments may also be considered if, together, their effect is as severe as having a marked restriction in one category.
+As of 2021, people with Type 1 diabetes meet the eligibility criteria under life-sustaining therapy.
+When we talk about eligibility, it’s important to note that eligibility for the DTC is based on the effects of the impairment, not solely on the medical condition itself.
+Eligibility for the DTC is not based on your ability to work, to do housekeeping activities or to engage in recreational activities.
+Even if you receive the Canada Pension Plan disability benefit or Quebec Pension Plan disability benefit, workers compensation benefits, Veterans Affairs disability benefits, or other types of disability or insurance benefits, you may not be eligible for the DTC. Each of these programs has other purposes and different eligibility criteria.
+[An individual with a prosthetic leg is sitting at a desk and smiling while using a cellphone.]
+### Slide 6 – How to apply
+Melanie: The application process for the DTC involves the person with the disability and their medical practitioner, who can certify the effects of the impairment.
+There are several types of medical practitioners who can complete, certify the effects of an impairment and sign the T2201 application.
+These practitioners include doctors, nurse practitioners, optometrists, audiologists, occupational therapists, physiotherapists, psychologists and speech-language pathologists. Some medical practitioners can certify all categories of impairment where other medical practitioners can only certify certain categories.
+All DTC applications are reviewed on a case-by-case basis.
+Applicants and medical practitioners have two options to complete the DTC application. They can apply with the paper form, or they can apply with the digital application form.
+### Slide 7 - Updates to the paper T2201 form
+Melanie: Several improvements were made to the paper form T2201 and digital application form in 2024.
+In Part A:
+- The explanations regarding claimants and adjustment requests are now clearer.
+- Also, a warning now indicates that the form must be signed by an authorized individual in order for the CRA to process it.
+In Part B
+- The language was updated to strengthen the message on the form
+- And, medical practitioners are now asked to provide clear examples related to their patientClearer questions for Type 1 diabetes and space to provide examples for cumulative effects category were added
+Ensure you are using the digital application form or the most recent paper version of the form when applying for the DTC.
+### Slide 8 - Advantages to using the digital application form
+Melanie: Here are some of the advantages of using the digital application form, for both the applicant and the medical practitioner:
+- Applicants can complete Part A via My Account. Medical practitioners can complete and submit Part B through the DTC digital application form.
+- For applicants using My Account, the digital application form will be prepopulated with the information the CRA has on file. They are only required to verify the information and provide updates.
+- There is no need to print and mail the form to the CRA.
+- If the applicant does not have online access to the CRA’s My Account, they can start the application over the phone. Part A, the applicant’s portion of the form, can be completed using the automated voice service or by calling a CRA agent.
+- The digital application form was streamlined to guide the medical practitioner through the DTC application process. Only relevant questions are asked, based on the category of impairment.
+- And finally, the form is securely sent directly to the CRA for assessment, avoiding any mail delays.
+The CRA provides support throughout the application process.
+If you need assistance, you can contact the CRA by phone at **1-800-959-8281**.
+Contact centre agents can guide you through the application process, identify which medical practitioners can certify the form and provide guidance on claiming the credit.
+If a contact centre agent can’t answer a question, they can request assistance from a DTC navigator. DTC navigators are DTC experts who help resolve complex issues. Navigators will call the taxpayer directly if they need to do research or consult other areas.
+### Slide 9 - How to claim the DTC
+Melanie: It is important to note that once someone is determined to be eligible for the DTC, they may claim the non-refundable tax credit when they do their taxes.
+An individual can also request an adjustment to their tax returns that they filed up to 10 years ago for years they were eligible for the DTC but did not claim it.
+The CRA will send you a Notice of Determination after your DTC application has been reviewed. It will show which years you are eligible to claim the DTC. This information can also be viewed in My Account.
+DTC eligibility can expire and then you will have to re-apply. When your eligibility is about to expire, you will be notified one year in advance on your Notice of Assessment and in the year it expires.
+If you have been approved for the DTC and your Notice of Determination does not have an expiry date, please do not submit a new T2201, unless we ask for it.
+For more information about how to claim the DTC, applicants or their representatives can visit [canada.ca/disability-tax-credit](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html).
+[A screenshot of [canada.ca/disability-tax-credit](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html).]
+### Slide 10 - DTC digital application form – Part A - Applicants
+Melanie: Next, we will walk through how to apply for the DTC using the digital application form. Part A is for the applicant – the person with the disability or their legal representative.
+Part B is for medical practitioners. If you are using the digital application for both sections, Part A must be completed before the medical practitioner starts Part B.
+### Slide 11 – Using the digital application form
+Melanie: Applicants can access the digital application through My Account. Legal representatives can use Represent a Client.
+To find the application, go to the “Benefits and credits” page in My Account and select the “Disability tax credit (DTC)” section. Click “Apply for DTC.”
+The “Benefits and Credits” page of My Account shows applicants when the CRA receives Part B from their medical practitioner, and reference numbers for applications that have not been completed.
+Clicking “View” next to each application displays a summary of all information that was provided as part of the application.
+More information for those eligible will be under the “Apply for DTC” section.
+[A screenshot of the “Benefits and credits” page in My Account.]
+### Slide 12 - DTC digital application form - Part A – Applicant
+Melanie: After clicking on “Apply for DTC” in My Account, you will be directed to start Part A. Once you are ready, click “Start.”
+Applicants are directed to three sections:
+- In the first, provide information about the person with the disability;
+- In the second, provide information about the person claiming the disability amount, if applicable, for example, when a supporting family member is claiming the disability amount;
+- And in the third, you can review and edit previous entries, and then submit Part A.
+[A screenshot of the DTC digital application form.]
+### Slide 13 - DTC digital application form - Part A, Step 1
+Melanie: Step 1 asks about the person with the disability. Choose from three options:
+- Myself
+- A child under 18 in my care who is not listed
+- Or none of the above
+If the applicant has children in their care on their account, and they are applying for them, a fourth option is available called “A child in my care.” The parent who is receiving the Canada child benefit for that child will see the child’s name.
+[A screenshot of the DTC digital application form.]
+### Slide 14 - DTC digital application form - Part A, Step 1, Review
+Melanie: The information the CRA has on file will be displayed for the individual who is listed as the person with a disability in Step 1.
+Review the information and confirm it is correct. Select “Yes,” then click “Next” to proceed to Step 2.
+If the information is not correct, select “No.” A prompt will ask the user to update the information through the “Profile” section of My Account before returning to the application.
+[A screenshot of the DTC digital application form.]
+### Slide 15 - DTC digital application form - Part A, Step 2, Person with the disability (adult) or their legal representative
+Melanie: There are two questions for Step 2 when completing an adult application. The first asks who will be claiming the DTC amount on their income tax return. The options provided are:
+- Myself
+- A supporting family member
+- Or "The amount will not be claimed at this time"
+A supporting family member can be a spouse, common-law partner, child, grandchild, parent, grandparent, sister, brother, aunt, uncle, niece or nephew.
+The second question of Step 2 asks if previous tax returns should be adjusted for all applicable years. Returns are adjusted if the CRA determines a person is eligible for the DTC amount for previous years but has not yet claimed this amount.
+[A screenshot of the DTC digital application form.]
+### Slide 16 - DTC digital application form - Part A, Step 2, Person with the disability (adult) or their legal representative
+Melanie: If there is a supporting family member in Step 2 who will be claiming the amount on their return, the application asks for information about this person. Their name and relationship to the applicant are required. It is optional to provide their social insurance number.
+The application asks whether the person with the disability and the supporting family member live together.
+[A screenshot of the DTC digital application form.]
+### Slide 17 - DTC digital application form - Part A, Step 2, Person with the disability (adult) or their legal representative
+Melanie: Entitlement for the transfer of the disability amount is based on the relationship with and the financial support provided by the supporting family member.
+The application requests details on how the supporting family member provides or provided financial support to the person with the disability.
+Questions are asked about the basic necessities of life, including food, shelter and clothing.
+The years during which financial support has been provided in each category can be chosen from drop-down lists. The supporting family member does not need to provide financial support in all areas.
+If the support continues, the current calendar year can be selected under the “To” year.
+There is also an area to provide written details about the financial support provided. For example, the support can include buying groceries or clothing, or paying the mortgage or rent, for the person with the disability.
+[A screenshot of the DTC digital application form.]
+### Slide 18 - DTC digital application form - Part A, Step 2, Child
+Melanie: If applying for a child in Step 2, the application asks three questions. One – who will be claiming the disability amount? The options are:
+- Myself
+- A supporting family member
+- Or, "The amount will not be claimed at this time"
+When applying for a child, the applicant does not have to be the person who will be claiming the DTC on their return.
+In this example, the mother is applying and claiming the disability amount.
+However, for the other parent to claim the amount, the mother could select “A supporting family member” and provide the necessary information.
+The second question asks if the applicant would like their previous tax returns adjusted, if applicable, and the relationship to the person with the disability.
+The last question asks if the person with the disability and the supporting family member live together.
+Once these questions are answered, click “Next.”
+[A screenshot of the DTC digital application form.]
+### Slide 19 - DTC digital application form - Part A, Step 3: Review and submit
+Melanie: Step 3 is to review the information from the previous steps. Click “Edit” to make changes.
+[A screenshot of the DTC digital application form.]
+### Slide 20 - DTC digital application form - Part A, Step 3: Review and submit
+Melanie: If someone other than the person with the disability is claiming the disability amount, they will have to provide additional information on the timing and type of financial support they provide.
+It will also list their name, SIN if provided, and relationship to the person with the disability.
+This information can be edited before submission.
+[A screenshot of the DTC digital application form.]
+### Slide 21 - DTC digital application form - Part A, Step 3: Review and submit
+Melanie: The last part of Step 3 is authorization and submission.
+Depending on selections made in Part A, either two or three of the following statements will appear:
+- The information above is correct and I am ready to submit Part A of my application.
+- I authorize the medical practitioner who will complete Part B of the application to provide CRA with relevant information from their medical records in order to determine eligibility.
+- And if applicable, the CRA can adjust my previous tax returns.
+The applicant must authorize these statements before submitting Part A. Once the statements are authorized, click “Submit.”
+[A screenshot of the DTC digital application form.]
+### Slide 22 - DTC digital application form - Part A, Confirmation
+Melanie: After clicking “Submit,” a “Confirmation” page appears. This page provides the reference number. Medical practitioners will need this reference number to complete Part B and submit your application to the CRA digitally.
+A helpful link with instructions for medical practitioners is available and these can be printed or saved.
+You can view the reference number in My Account on the “Benefits and Credits” page. It’s in the DTC table next to the date Part A was completed and submitted.
+This section of My Account also provides updates on whether Part B has been received from medical practitioners.
+It is important to note that your DTC application is not complete until a medical practitioner completes Part B of the form. Ensure that you provide your medical practitioner with your reference number from Part A.
+Only submit one copy of your DTC application form. Submitting the form through multiple methods may delay the processing of your application.
+Please note that Part B of the digital application must be certified and submitted by the medical practitioner; applicants cannot complete Part B themselves. Part B of the digital application form will be considered invalid if submitted by anyone other than a medical practitioner.
+[A screenshot of the DTC digital application form.]
+### Slide 23 – After your apply
+Melanie: Once the CRA receives your application, your information will be reviewed to determine whether you’re eligible.
+You can track the progress of your application in My Account.
+Once the CRA completes the review, you will be sent a notice of determination within eight weeks. It may take longer if more information is required and if your medical practitioner is contacted for clarification.
+You can claim the disability amount on your income tax and benefit return if the CRA determines that you’re eligible for the DTC.
+You may also transfer some or all of the disability amount to the supporting family member you identified in Part A of the DTC application form if you do not need the entire disability amount to reduce your own income tax.
+If your notice of determination indicates that you were eligible for the DTC for previous years, you can ask for adjustments to your tax returns. You may have already requested this adjustment when you completed Part A of the form. If not, you can still request the adjustment after the notice of determination is received.
+You may request adjustments for up to nine previous years or the year indicated on your notice of determination, whichever is most recent.
+If there are changes to the effects of your impairment, your eligibility for the DTC may also change. You must inform the CRA if your medical condition improves to the point that you no longer meet the criteria for the DTC.
+If your application is denied and you disagree with the decision, you can ask the CRA to review your file. Be sure to include any relevant medical information you have not already sent. As we discussed, eligibility for the DTC is based on the effects of the impairment and not solely on the medical condition. Make sure to submit your request for a review within one year of the date of your notice of determination. Otherwise, you may have to send the CRA a new DTC application form.
+On your notice of determination, you will receive an invitation with a link to complete the DTC Applicant Survey. Your feedback is valuable, and it will help the CRA make improvements to the DTC application process.
+### Slide 24 – Resources for applicants and medical practitioners
+Melanie: We’re nearing the end of the presentation. Before we go, we want to show you where you can get more information.
+The CRA’s website [canada.ca/disability-tax-credit](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html) provides:
+- The DTC application form; and
+- A guide to help navigate the DTC process and other related tax credits.
+If you have questions and are a DTC applicant or are interested in applying, call **1-800-959-8281** or TTY at **1-800-665-0354**.
+### Slide 25 – Thank you!
+Melanie: And that’s all for me! This is the end of our webinar. Thank you for joining us today. We hope it was helpful!
+For more information on any related topics, visit our webpage at [canada.ca/taxes](https://www.canada.ca/en/services/taxes.html).
+If you need a refresher, today’s presentation will be posted on the CRA’s Individuals video gallery at [canada.ca/individuals-video-gallery](https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/individuals-video-gallery.html) within a few weeks of our broadcast.
+We also encourage you to visit our Upcoming Events page at [canada.ca/cra-outreach-events](https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/help-others/outreach/upcoming-events-products.html) to view and register for upcoming webinars.
+Did you know you can subscribe to electronic mailing lists with the CRA? Sign up to receive benefit and credit payment date email reminders about a week before a payment is issued. Go to [canada.ca/benefit-credit-payment-reminders](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/payment-dates-reminder.html).
+Thank you for listening and enjoy your day!
+[An adult supports a smiling child in a specialized wheelchair.]

@@ -1,0 +1,136 @@
+---
+title: "ARCHIVED - Income Tax - Technical News No. 39"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-39/archived-itnews-39-income-tax-technical-news-no-39.html
+last_modified: 2019-10-08
+---
+# ARCHIVED - Income Tax - Technical News No. 39
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for income tax technical news](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/what-archived-content-notice-means-income-tax-technical-news.html)
+
+**December 4, 2008**
+
+**Notice to the reader:**
+
+- This version is only available electronically.
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-39.html), including PDF (which is an exact rendition of the original).
+
+**In This Issue**
+
+- [Settlement of a Shareholder Class Action Suit - Compensation by Way of Cash and Shares](#_Toc223828151)
+
+The *Income Tax Technical News* is produced by the Legislative Policy and Regulatory Affairs Branch. It is provided for information purposes only and does not replace the law. If you have any comments or suggestions about the matters discussed in this publication, please send them to:
+
+Income Tax Rulings Directorate Legislative Policy and Regulatory Affairs Branch Canada Revenue Agency Ottawa ON K1A 0L5
+
+The *Income Tax Technical News* can be found on the Canada Revenue Agency Internet site at **www.cra.gc.ca**.
+
+## Settlement of a Shareholder Class Action Suit – Compensation by Way of Cash and Shares
+
+As a result of the settlement of a shareholder class action suit against a corporation in respect of allegations of artificially inflated share prices, I recently received cash and shares from the corporation (the “**Settlement Payment**”), because of shares of the same class I had previously bought (the “**Original Shares**”). The amount of cash and the number of shares that I received in my Settlement Payment was directly related to how many Original Shares I bought.
+
+### How will the cash and shares be taxed in the following situations?
+
+**1. I acquired my Original Shares in a registered plan such as a Registered Retirement Savings Plan (RRSP) or a Registered Retirement Income Fund (RRIF).**
+
+The Settlement Payment should have been paid directly to the RRSP or RRIF by the corporation. If the Settlement Payment was paid directly to your RRSP or RRIF by the corporation, or if you received the Settlement Payment but you returned it to your RRSP or RRIF within a reasonable time, then you will not have to pay tax on the Settlement Payment at the time it is received. The Settlement Payment will be treated as though it was never outside of the RRSP or RRIF. The transfer of the Settlement Payment to the RRSP or RRIF to correct the error will not be considered a contribution, and no deduction will be permitted for the amount transferred. Generally, we will consider a Settlement Payment to be returned within a reasonable time if it is returned within six months of being received or by the end of the taxation year in which it was received, whichever is later. In circumstances where your RRSP or RRIF no longer exists, your RRSP has matured or your RRSP has been converted to a RRIF, the Settlement Payment relating to the shares acquired in your previous RRSP or RRIF may be paid into another existing or a successor RRSP or RRIF with the same tax consequences.
+
+If you received the Settlement Payment in respect of shares held in your RRSP or RRIF and choose not to transfer the cash and shares to your RRSP or RRIF, the cash payment and the fair market value of the shares will be considered income and must be included on your tax return as an RRSP or RRIF benefit received in the year.
+
+**2. I still own all of my Original Shares that I acquired outside of my RRSP or RRIF.**
+
+No amount will have to be included in your income as a result of the receipt of the Settlement Payment. There will only be an adjustment to the adjusted cost base of the Original Shares.
+
+Since you still own all of your Original Shares, the adjusted cost base for each share that you own after receiving the Settlement Payment is equal to the adjusted cost base of the Original Shares, reduced by the amount of cash you received in the Settlement Payment, all divided by the total number of shares that you now own. (You will be treated as if you paid less for more shares in the original share purchase.)
+
+*Example:*
+
+You own 10 Original Shares of the corporation with an adjusted cost base of $1,200 or $120 per share. You receive a Settlement Payment consisting of $100 in cash plus 1 share. Your adjusted cost base for your 11 shares is now $1,100 ($1,200 - $100) or $100 per share.
+
+**3. I no longer own any of the Original Shares that I acquired outside of my RRSP or RRIF.**
+
+Since you no longer owned any of your Original Shares when you received the Settlement Payment, you are considered to have received additional proceeds of disposition from having disposed of your Original Shares. If you held your Original Shares on capital account, the value of the Settlement Payment (i.e. the cash amount plus the current fair market value of any new shares) will be treated as a capital gain and you must include a portion (currently 50%) of this amount in your income for the year as a taxable capital gain. A taxable capital gain can be reduced or eliminated by any unclaimed allowable capital losses that you may have.
+
+The adjusted cost base of any share received in the Settlement Payment will be equal to its fair market value at the time that you received it.
+
+If you are a trader or otherwise held your Original Shares on income account, then the Settlement Payment will be included in your income for the year as business income rather than as a capital gain. The shares you received from the settlement are inventory, the cost of which will be equal to the fair market value of those shares when they were received.
+
+**4. I have disposed of some, but not all, of the Original Shares that I bought on capital account outside of my RRSP or RRIF.**
+
+Where you have disposed of some, but not all, of your Original Shares, you must treat the Settlement Payment as being two payments for tax purposes; one payment relating to the Original Shares that you still own and one payment relating to the Original Shares that you have disposed of. The Settlement Payment should be split proportionally, taking into account the relative number of shares that were disposed of compared to the total number of Original Shares. Please refer to situations 2 and 3 above for details on how to treat each part of the Settlement Payment.
+
+*Example:*
+
+You acquired 30 Original Shares of the corporation outside of your RRSP or RRIF and you held these shares on capital account. You sold 20 shares two years ago. Your remaining 10 shares have an adjusted cost base of $1,200 or $120 per share. You have received a Settlement Payment consisting of $300 in cash and 3 shares. The current fair market value of the 3 shares is $10 each.
+
+The portion of the Settlement Payment that is a capital gain is $220, and is computed as follows:
+
+| 20 shares sold | x ($300 + (3 x $10 each)) = $220 |
+
+| --- | --- |
+
+| 30 total shares |  |
+
+Your taxable capital gain to be reported in the year will be 50% of this amount, which is $110. A taxable capital gain can be reduced or eliminated by any unclaimed allowable capital losses that you may have.
+
+The portion of the Settlement Payment relating to the shares you still own results in an ACB reduction of $110, that is computed as follows:
+
+| 10 shares sold | x ($300 + (3 x $10 each)) = $110 |
+
+| --- | --- |
+
+| 30 total shares |  |
+
+The ACB of the 13 shares you now own would be computed as follows:
+
+| 10 Original Shares @ $120 each | $1,200 |
+
+| --- | --- |
+
+| 3 Settlement Shares @ $10 each | $30 |
+
+| Sub-total for 13 shares | $1,230 |
+
+| Less: ABC reduction (as calculated above) | $ 110 |
+
+| Total ACB of 13 shares | $1,120 |
+
+| ACB per shares ($1,120 ÷ 13) | $86.15 |
+
+**5. I have disposed of all of my Original Shares that I had acquired outside of my RRSP or RRIF but, prior to receiving the Settlement Payment, I acquired more shares outside of my RRSP or RRIF.**
+
+The shares you have acquired since disposing of the Original Shares are unrelated to the Settlement Payment; therefore, the situation is the same as in 3 above. You have a capital gain or business income, depending on whether you held the Original Shares on capital or income account, equal to the total value of the Settlement Payment.
+
+**6. I still own all of my Original Shares that I hold on capital account outside of my RRSP or RRIF but, prior to receiving the Settlement Payment, I acquired more shares of the same class, which I also hold on capital account outside my RRSP or RRIF.**
+
+The shares you have acquired since you first acquired the Original Shares are unrelated to the Settlement Payment; therefore, the situation is effectively the same as in 2 above. The adjusted cost base of the shares (of the same class) that you now own must be reduced to reflect the Settlement Payment received.
+
+*Example:*
+
+You acquired outside your RRSP or RRIF 10 Original Shares with an adjusted cost base (“ACB”) of $1,200 or $120 each, which you hold on capital account. You later purchased outside your RRSP or RRIF 4 more shares of the same class with a market value of $10 each, which you hold on capital account as well. Subsequently, you received a Settlement Payment in respect of the 10 Original Shares that you still own. The Settlement Payment consisted of $100 in cash plus 1 share with a market value of $10.
+
+The ACB of the 15 shares you now own will be reduced to reflect the Settlement Payment you received. The ACB of her shares is computed as follows:
+
+| 10 Original Shares @ $120 each | $1,200 |
+
+| --- | --- |
+
+| 4 shares you bought @ $10 each | $40 |
+
+| 1 Settlement Share @ $10 | $10 |
+
+| Sub-total for 15 shares | $1,250 |
+
+| Less: ACB Reduction ($100 cash + 1 share @ $10) | $ 110 |
+
+| Total ACB of 15 shares | $1,140 |
+
+| ACB per share ($1,140 ÷ 15) | $76.00 |

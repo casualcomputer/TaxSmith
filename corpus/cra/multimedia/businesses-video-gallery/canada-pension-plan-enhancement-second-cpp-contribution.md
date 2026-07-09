@@ -1,0 +1,121 @@
+---
+title: "Canada Pension Plan Enhancement: Second CPP Contribution"
+gallery_title: "Canada Pension Plan Enhancement: Second CPP Contribution"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/businesses-video-gallery/canada-pension-plan-enhancement-second-cpp-contribution.html
+video_source: https://youtu.be/Ys3XBJAdryo
+last_modified: 2025-12-09
+---
+
+# Canada Pension Plan Enhancement: Second CPP Contribution
+
+## Transcript
+### 1. Canada Pension Plan Enhancement
+Hello and welcome to the Canada Pension Plan enhancement, Second CPP Contribution webinar.
+I'm Matthew, your host for today.
+### 2. Introduction
+For today, please use the question box to post your questions related to today's webinar.
+We'll answer as many as we can during and 20 minutes after the webinar.
+For any other tax related questions, we invite you to call the business enquiries line at 1-800-959-5525.
+Let's get started.
+### 3. Outline
+Today, we'll talk about:
+- Canada Pension Plan purpose
+- Who participates in the CPP?
+- CPPe 2019 to 2023 recap
+- Second CPP contributions
+- CPPe Benefits and tax deductions
+### 4. Canada Pension Plan Purpose
+Before we talk about the enhancement of the CPP, let's talk about what the CPP's purpose is and how it helps Canadians plan for their retirement.
+The Canada Pension Plan for our intent and purposes is a mandatory deduction for all Canadian workers who are over the age of 18 and under 65. From the ages of 65 to 70, CPP contributions are optional. If you are 65 or older and under 70, you can elect to stop contributing by submitting a CPT30 "Election to Stop Contributing to the Canada Pension Plan.
+Earnings on which CPP contributions are calculated are called "pensionable earnings".
+### 5. Pensionable Earnings
+We have said the words "pensionable earnings, but what does it mean? To make a long story short, pensionable earnings is income acquired that is considered to be pensionable by the CRA.
+Most worker-earned income collected in Canada is pensionable, like working at a fast food restaurant or being a salaried IT worker for a firm. However there are some exceptions like income earned on a reserve by an indigenous employee which would not be pensionable.
+### 6. Canada Pension Plan Purpose (continued)
+Canada's retirement income system is based on three pillars which are a mix of public pensions and voluntary savings:
+- The Old Age Security program (OAS)
+- The CPP and the QPP
+- Voluntary tax-assisted private savings and employer-sponsored pension plans like matched RRSP contributions
+As one of those three pillars, the CPP/QPP is essential in ensuring that Canadians have more than one source of income for retirement.
+We also know that employer sponsored pension plans have decreased substantially since the 1970s. This means most workers will only have the OAS and CPP/QPP to assist them financially during their retirement, unless they have private savings.
+### 7. Canada Pension Plan Increased Benefits
+Once fully in place in 2064, the CPP enhancement will increase the maximum CPP retirement benefit by about 50 per cent. The current maximum benefit is $15,679. In today's dollar terms, the enhanced CPP represents an increase of nearly $8,000, to a maximum benefit of nearly $23,832.
+Enhanced benefits will accumulate gradually as individuals pay into the enhanced CPP. Young Canadians just entering the workforce will see the largest increase in benefits. CPP income replacement levels will go from replacing 25% of a worker's pensionable earnings to 33%.
+To fund these enhanced benefits, annual CPP contributions have increased modestly and will continue to increase until 2025. We will go over how these increases work in detail in the next few slides.
+### 8. Who participates in the CPP?
+With very few exceptions, every person between the age 18 and 65 who works in Canada outside of Quebec and earns more than $3,500 per year must contribute to the CPP.
+If you earn less than $3,500, you do not contribute to the CPP.
+### 9. Who participates in the CPP? (continued)
+Employer's must match the amount of their employees contributions. The employer is responsible for deducting and remitting CPP contributions to the CRA.
+### 10. Who participates in the CPP? (continued)
+Self-employed individuals must contribute at the self-employed rate which is equivalent to the employee and employer rates combined.
+Self-employed individuals contribute to the CPP at the end of the year when they file their income tax return.
+### 11. Quebec Pension Plan
+If you work in Québec, you will contribute to the Québec Pension Plan or QPP rather than the CPP. The QPP has recently been enhanced in a similar manner to the CPP. Please visit Revenue Québec's website for more information on the QPP and what your obligations are as an employee, employer or self-employed individual.
+### 12. CPPe 2019 to 2023
+Let's now do a quick recap of the CPP enhancement. The enhancement introduced rate increases from 2019 to 2023. These small rate increases were gradual and slowly raised the contribution rate from 4.95% in 2018 to 5.95% in 2023. These increases included the introduction of tax deductions for enhanced contributions, which we will cover later on.
+### 13. CPPe 2019 to 2023 (Continued)
+Any contributions more than 4.95% in contributions are considered enhanced contributions and they are tax deductible. Any contributions based on the standard 4.95% contribution rate are considered base contributions and result in a non-refundable tax credit.
+### 14. CPPe 2019 to 2023 (continued)
+For example, Maya contributes $2,200 a year in CPP contributions. $1,830 of those contributions are based on the 4.95% while the extra $370 are based on the additional 1% enhanced contributions. The $1,830 would be called base contributions, while the $370 would be called first contribution amount.
+### 15. Yearly Maximum Pensionable Earnings
+The YMPE or Year's Maximum Pensionable Earnings determines the maximum amount on which CPP contributions are calculated. Because your CPP contributions are based on how much you earn, once you earn more than the YMPE, any earnings that are more than this amount are not subject to CPP contributions and are not included in any CPP calculations. For simplification purposes, we will call the YMPE, the earnings ceiling from now on.
+The earnings ceiling is decided every year, based off of average yearly wage growth in Canada.
+### 16. Second CPP contributions
+Starting in 2024, the enhancement will introduce a new earnings ceiling to the CPP. This new earnings ceiling is officially referred to as the Year's Additional Maximum Pensionable Earnings. But for simplicity's sake, we will call it the second earnings ceiling for the rest of the webinar.
+The second earnings is exactly what it sounds like. It is an additional earnings ceiling where any amount over the second earnings ceiling are no longer considered for CPP contributions. But how could this be if there is already a first earnings ceiling? Let's go over the details:
+### 17. Second CPP contributions
+Once a contributor's earnings pass the first earnings ceiling in 2024.any earnings above that but below the second earnings ceiling, will still be considered pensionable earnings but at a different rate. This new rate will be 4% for employees and employers, and 8% for self-employed individuals.
+So how much more will the second earnings ceiling be compared to the first earnings ceiling? Well in 2024, it will be approximately 7% higher than the first earnings ceiling, and then in 2025 it will be 14% higher where it will remain at this level for the foreseeable future.
+### 18. Second CPP Contributions (Continued)
+Starting in 2024, there will be three different contribution payments:
+- The base CPP contribution
+- The first CPP contribution
+- The second CPP contribution.
+There will be changes to the T4 starting in 2024. We will go over these changes shortly. Our T4 slips are also available to download or view online at Canada.ca at any time. However, they will only be available for the current tax year.
+### 19. Examples
+Let's take a look at some examples of the second CPP contributions. Please keep in mind that all CPP YMPE and YAMPE figures are estimates.
+Maya is an employee for ABC Inc. in Ontario. She earns $100,000 a year. Let's estimate that by 2024, the first earnings ceiling or YMPE will be $67,700, while the second earnings ceiling or YAMPE is to be at $72,439.
+In order to calculate Maya's CPP contributions, let's start with the first earnings ceiling. Since Maya's salary is more than the first earnings ceiling, we take the earnings ceiling amount and subtract the $3,500 exemption. We now have $64,200. We then take $64,200 and multiple it by 0.0595 which is 5.95%, the first ceiling contribution rate. This gives us a total of $3,819.90 in yearly contributions for the first earnings ceiling.
+Next because Maya's earnings are more than the second earnings ceiling, we will then take the second earnings ceiling and subtract the first earnings ceiling from it, to arrive at $4,739. We then take this amount and multiply it by 0.04 which is our 4% contribution rate for any amounts above the first earnings ceiling but below the second earnings ceiling. We therefore arrive at $189.56 for Maya's second CPP contributions.
+Therefore, Maya's total contributions equal $4,009.46 for the 2024 calendar year. She will make a total of $189.56 in second contributions since her salary is above the first earnings ceiling.
+### 20. Examples T4
+Looking at this T4 slip example where the sole focus is on the CPP, you will notice Maya's income in box 14, as well as her CPP contributions for base and first CPP contributions in box 16 for the amount of $3,819.90. Employers will insert all second CPP contributions in box 16a. In this case, ABC Inc. would enter $189.56 in box 16a.
+### 21. Examples (Continued)
+Let's take a look at another example. Ryan is self-employed and earns $70,000 annually in 2024. Because he earns more than the first earnings ceiling, we once again take the first earnings ceiling amount and subtract the $3,500 exemption. We then take this amount and multiple by 0.119 which is the 11.9% contribution rate for self-employed individuals. We are left with $7,639.80.
+Because Ryan's earnings are slightly above the second earnings ceiling, we then take Ryan's earnings and subtract them by the first earnings ceiling. This gives us a total of $2,300 which we then multiply by 0.08 or 8% which is the second contribution rate for amounts over the first earnings ceiling for self-employed individuals. This gives us a total of $184. Therefore, Ryan must contribute a total of $7,823.80 for 2024. He will contribute $184 as his second CPP contribution.
+### 22. Examples (Continued)
+In our third example, Diego makes $45,000 as an employee for ABC Inc. Because his earnings are below the first earnings ceiling, we simply take Diego's earnings and subtract the $3,500 exemption and multiply this by the contribution rate of 5.95%. This gives us a total of $2,469.35 which is the maximum Diego will contribute to the CPP for 2024 since his earnings are below the second earnings ceiling. Diego will not make any second contributions to the CPP.
+### 23. Examples T4
+Solely focusing on CPP, Diego's employer would fill out his T4 slip in the way demonstrated for the calendar year 2024. His income would be $45,000 in box 14 and his CPP contributions would be $2,469.25 in box 16. Because his employment income is below the second earnings ceiling, Diego's employer writes $0.00 in box 16a.
+### 24. Examples (Continued)
+If you are an employer you must match your employees contributions. For example, in Maya's case, her employer would also contribute $4,009.46 in 2024. For Diego's employer, they would also contribute $2,469.25 as once again the employer is matching their employees CPP contribution amounts.
+In order to find out how to properly deduct and remit CPP contributions as an employer, you can use the Payroll Online Deduction Calculator to assist you, or you can also use the T4032 Payroll Deductions Tables found on Canada.ca. These will be updated for the second CPP contributions scheduled to start in 2024 and 2025.
+### 25. T4 Changes
+How will this change how CPP is reported? Well for employees, they will not notice a change. However, for employers, a new box (Box 16a) will appear on the T4 where you will enter all second contribution amounts as shown in our earlier examples. You will continue to report CPP contributions how you normally would for any contributions below the first earnings ceiling. This includes base and first CPP contributions.
+Self-employed individuals will report their second CPP contributions at the end of the year. More details will be made public the closer we get to the 2024 calendar year.
+### 26. Benefits
+So how will you benefit from the CPP? When a contributor turns 60 years old, they can decide to start receiving CPP benefits at a reduced rate. Generally, the later a CPP contributor decides to start receiving CPP benefits, the higher their CPP benefits will be. A contributor can do this up until they turn 70 years old where it is then mandatory to stop contributing and start receiving CPP benefits.
+Contributors can decide to start receiving benefits from the CPP at 60 but must wait until 65 to opt out of the CPP.
+### 27. Benefits
+Let's assume that most people take their CPP benefits at 65 years old. Let's take a look at a few examples.
+If Diego, Ryan and Maya all worked for 40 years and each contributed throughout their work years, they will each receive different amounts since your CPP benefits depend on how much you contributed throughout your lifetime. Someone who has contributed the maximum amount of CPP throughout their lifetime will receive higher benefits then someone who contributed less. With that being said, the enhancement will raise benefits for all contributors across the board.
+### 28. Tax Treatment of CPP Contributions – Employees and Employers
+The CPP enhancement also includes tax deductions for all enhanced contributions. Looking at the table here, any contributions made on the base rate of 4.95% is a non-refundable tax credit UNLESS you are an employer matching your employee's contributions. In that case it would be a tax deduction. In all other instances of CPP, contributions will be tax deductible, meaning that everyone will contribute more to CPP, but pay less in taxes every year.
+### 29. Tax Treatment of CPP Contributions – Self-Employed Individuals
+This table shows us the same rates but for self-employed workers. While the rates differ, the tax treatments are the same as their employer/employee counterparts.
+### 30. Recap of Pertinent Information
+Today, we covered the following items:
+- Purpose of the Canada Pension Plan
+- Who participates in the CPP?
+- CPPe 2019 to 2023 Recap
+- Second CPP Contributions
+- CPPe Benefits and tax deductions
+### 31. Thank You!
+Tax administration is as complex as life itself. If the content today doesn't quite fit your situation, please:
+- Visit our website
+- Visit Canada.ca/cra-liaison-officer to get free tax help from a liaison officer
+- Call CRA's business enquiries line at 1-800-959-5525
+- You can also go to canada.ca/cra-videos where you'll find all our business webinars.
+We've come to the end of our webinar. Please fill out the evaluation form for this webinar which will pop up on your screen.
+Thanks for joining me today. I hope it's been helpful. Stay tuned for more webinars in the coming months! Good bye.

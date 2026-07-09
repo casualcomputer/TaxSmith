@@ -1,0 +1,263 @@
+Title: ARCHIVED - Excise and GST/HST News - No. 93
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news93/news93-excise-gst-hst-news-no-93.html
+Corpus path: corpus/cra/forms-publications/publications/news93/news93-excise-gst-hst-news-no-93.md
+Document type: publication
+Last modified: 2024-11-19
+
+# ARCHIVED - Excise and GST/HST News - No. 93
+
+## Table of Contents
+
+- [Is your non-profit organization (NPO), charity or public institution federally incorporated under the Canada Corporations Act?](#_Toc400613007)
+
+- [Pooled registered pension plans – draft GST/HST legislative and regulatory proposals](#_Toc400613008)
+
+- [New drug submissions](#_Toc400613009)
+
+- [Sponsorships](#_Toc400613010)
+
+- [New electronic filing options available](#_Toc400613011)
+
+- [Order additional remittance vouchers online](#_Toc400613012)
+
+- [Prescribed rates of interest](#_Toc400613013)
+
+- [What's new in publications](#_Toc400613014)
+
+- [Enquiries](#_Toc400613015)
+
+## Is your non-profit organization (NPO), charity or public institution federally incorporated under the Canada Corporations Act?
+
+If not, please disregard this article as no further action is needed.
+
+If so, you need to apply for a Certificate of Continuance by October 17, 2014, in order to transition to the [Canada Not-for-profit Corporations Act](http://laws-lois.justice.gc.ca/eng/acts/C-7.75/index.html) (NFP Act). NPOs, charities and public institutions that are currently incorporated under Part II of the [Canada Corporations Act](http://laws-lois.justice.gc.ca/eng/acts/C-1.8/index.html) need to apply for a certificate of continuance under the new NFP Act by October 17, 2014.
+
+After that date, NPOs, charities and public institutions that have not continued will have their corporate status dissolved by Corporations Canada. Once an NPO, charity or public institution's corporate status is dissolved, it ceases to exist as a legal entity. Where the corporation is a registered charity, the Canada Revenue Agency (CRA) will take steps to revoke the charity's registration under the [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html). In addition, as a result of a change in legal status, an NPO, charity or public institution's GST/HST registration status will change and the tax status of supplies and entitlements to recover GST/HST paid on purchases and expenses could change.
+
+For information for NPOs, go to Industry Canada's website at [www.ic.gc.ca](http://www.ic.gc.ca/).
+
+## Pooled registered pension plans – draft GST/HST legislative and regulatory proposals
+
+On August 29, 2014, the Department of Finance released for public consultation draft legislative proposals that would implement certain tax measures. Among these are proposed GST/HST measures relating to pooled registered pension plans (PRPPs).
+
+The proposals would amend the [Excise Tax Act](http://laws-lois.justice.gc.ca/eng/acts/E-15/index.html) (the Act) and the [Selected Listed Financial Institutions Attribution Method (GST/HST) Regulations](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2001-171/index.html) to ensure that pension plans that are PRPPs for purposes of the [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html) receive similar treatment under the Act as registered pension plans. For example, the definition of investment plan would be revised to include a pension entity (a trust or a corporation) of a PRPP. In addition, a pension entity of a PRPP would generally be considered to be a selected listed financial institution if it had plan members resident in at least one participating province and another province. The draft legislative proposals also add new definitions and modify existing ones so that PRPPs would be subject to current GST/HST pension plan rules. Among these is the definition of “pension rebate amount” which generally provides a PRPP rebate equal to 33%. However, this rate may be reduced for a pension entity of a PRPP to the extent that contributions are made or are expected to be made to the PRPP by self-employed individuals or by employees of an employer where that employer does not itself make contributions to the PRPP.
+
+As is currently the case for registered pension plans, it is proposed that a pension entity of a PRPP and its qualifying employers be permitted to make a joint election to transfer some or all of the pension entity's rebate entitlement to some or all of the qualifying employers. In this regard, the draft legislation also includes specific modifications for the calculation of the “degree of participation” of each qualifying employer under subsection 261.01(6), and for non-qualifying pension entities under subsection 261.01(9).
+
+These amendments would generally take effect on December 14, 2012. Please refer to the Department of Finance News Release, 2014‑113 for more information.
+
+## New drug submissions
+
+The Canada Revenue Agency (CRA) has received numerous questions on whether a supply of a drug recommended by Health Canada for inclusion on the [Prescription Drug List](http://www.hc-sc.gc.ca/dhp-mps/prodpharma/pdl-ord/pdl_list_fin_ord-eng.php) is a supply of a zero-rated drug under section 2 of Part I of Schedule VI to the Act. Section 2 zero-rates drugs and substances included in the [Food and Drugs Act](http://laws-lois.justice.gc.ca/eng/acts/F-27/index.html) and Regulations, the [Controlled Drugs and Substances Act](http://laws-lois.justice.gc.ca/eng/acts/C-38.8/index.html) and Regulations, the [Narcotic Control Regulations](http://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1041/index.html) and the [Benzodiazepines and Other Targeted Substances Regulations](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2000-217/index.html). Prior to December 19, 2013 drugs on the *Prescription Drug List* were listed on Schedule F to the [Food and Drug Regulations](http://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/index.html).
+
+Drugs may undergo an assessment by Health Canada to be included on the *Prescription Drug List* or undergo a regulatory amendment to be included on a schedule to the *Controlled Drugs and Substances Act* (CDSA). During the assessment and amendment process, the status of a drug in the Drug Product Database managed by Health Canada will read “Prescription Recommended” or “CDSA Recommended” depending on the act or regulation governing the drug.
+
+For GST/HST purposes, as outlined in [GST/HST Memorandum 4.1, Drugs and Biologicals](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-1.html), a supply of a drug is zero-rated effective the date the drug is included on the *Prescription Drug List* or included under an act or regulations specified in section 2 of Part I of Schedule VI. While a drug undergoes the assessment or amendment process and maintains the status of “Prescription Recommended” or “CDSA Recommended” in Health Canada's Drug Product Database, the drug is not “included” on the *Prescription Drug List* or under an act or regulation. Therefore, a supply of a drug made in these circumstances is subject to GST/HST at the rate of 5%, 13%, 14% or 15%, depending on the place of supply in Canada. The CRA recognizes that there may be a delay from the time at which a drug is “recommended” until the drug is included on the Prescription Drug List or under an act or regulations. However, as required by section 2 of Part I of Schedule VI, until such time as a drug is included on the *Prescription Drug List* or a schedule to the CDSA, a supply of the drug is not zero-rated under that section.
+
+In contrast, where a drug is removed from the *Prescription Drug List* or any of the acts or regulations referred to in section 2 of Part I of Schedule VI a manufacturer or supplier of this drug is generally required to charge GST/HST at the rate of 5%, 13%, 14% or 15%, depending on the place of supply in Canada, effective the date the drug is removed.
+
+The [Drug Product Database](http://www.hc-sc.gc.ca/dhp-mps/prodpharma/databasdon/index-eng.php) is accessible via Health Canada's website at [www.hc-sc.gc.ca](http://www.hc-sc.gc.ca). Health Canada has published [Questions and Answers about the Prescription Drug List](http://www.hc-sc.gc.ca/dhp-mps/prodpharma/pdl-ord/pdl_qa_fin_ord-eng.php) and the process for adding and removing a drug from the Prescription Drug List, which can also be found on its website.
+
+## Sponsorships
+
+Public sector bodies often receive sponsorships from businesses to fund their activities. In return, a public sector body may supply property or services to its sponsors. For example, a public sector body may provide promotional services to a sponsor or may grant the sponsor the right to use its logo. Sponsorships may or may not be subject to GST/HST depending on the nature and the extent of the promotional benefits provided to the sponsor.
+
+Pursuant to section 135 of the [Excise Tax Act](http://laws-lois.justice.gc.ca/eng/acts/E-15/index.html) (the Act), a supply made in exchange for sponsorship funds is deemed not to be a supply and is therefore not subject to GST/HST where the following conditions are met:
+
+- the supplier is a public sector body, meaning a government, a non-profit organization, a charity, a municipality, a hospital authority, a school authority, a public college or a university;
+
+- the public sector body makes a supply of a service, or a supply by way of licence of the use of a copyright, trade-mark, trade-name or other similar intellectual property of the body;
+
+- the recipient of the supply is a person who is a sponsor of an activity of the public sector body;
+
+- the supply is for use by the sponsor exclusively in publicizing the sponsor's business; and
+
+- the payment by the sponsor is not primarily (more than 50%) for a service of advertising on television or radio, or in a newspaper, magazine or other publication published periodically.
+
+Section 135 only applies to supplies of a service or certain types of intellectual property made by public sector bodies. Supplies of other types of property, such as real property or naming rights, are not relieved of tax by virtue of section 135. Where section 135 does not apply, a supply made by a public sector body in exchange for sponsorship funds will be subject to GST/HST unless an exempting provision applies. Advertising services and supplies of intellectual property are generally exempt from GST/HST when provided by a charity or public institution. When supplied by public sector bodies other than a charity or a public institution, these supplies would generally be subject to tax.
+
+Generally, a GST/HST registrant is eligible to claim an input tax credit (ITC) for the GST/HST paid or payable on a property or service only to the extent that the registrant acquires the property or service in order to make a taxable supply for consideration. Although a public sector body that is a GST/HST registrant is not required to collect tax on sponsorship funds that meet the above conditions for section 135 to apply, this does not affect the public sector body's eligibility to claim an ITC on related expenses. As a result, if but for section 135 the sponsorship funds received would be consideration for a taxable supply, the public sector body will generally be eligible to claim an ITC on a property or service to the extent that the property or service is acquired by the body for use in making that supply.
+
+Where the sponsorship funds received would otherwise be consideration for an exempt supply by the public sector body, no ITC is available if the property or service is exclusively for use in making that supply, and ITC allocation may be required if the input is not exclusively for use in making that supply. For more information on calculating ITCs, refer to [GST/HST Memorandum 8.3, Calculating Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-3.html). Where ITCs are not available, the public sector body may be eligible for a public service body rebate. For more information on the public service body rebate, refer to [Guide RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+A sponsor contributes $10,000 to a non-profit organization that is a GST/HST registrant and, in return, receives promotional services from the non-profit organization. The supply of the promotional services is deemed not to be a supply pursuant to section 135 and the $10,000 is not subject to GST/HST. However, the supply of promotional services would otherwise have been a taxable supply made for consideration; therefore, the non-profit organization will be eligible to claim ITCs on property and services acquired to provide the promotional services, provided the other requirements in the Act for claiming ITCs have been met.
+
+A municipality is constructing a recreational facility. ABC Co. contributes $1 million and in exchange the facility will be named “ABC Co. Centre” for the next five years. The $1 million is consideration for a supply of naming rights by the municipality, which is a supply of intangible personal property that does not fall under section 135. Therefore, the $1 million is subject to GST/HST. The municipality will be eligible to claim ITCs on property and services acquired to provide the naming rights, provided the other requirements in the Act for claiming ITCs have been met. For example, ITC allocations may be required if an input is not for use exclusively in making the supply of the taxable naming rights.
+
+## New electronic filing options available
+
+Electronic filing options for excise tax, excise duty, air travellers security charge and softwood lumber products export charge are now available to allow taxpayers to file returns and refund/rebate applications directly to the CRA over the Internet. These new services may be accessed within the [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) (MyBA) portal of the CRA web site.
+
+Taxpayers will also have the option to use all, or a portion of, their refund/rebate application to offset their tax payable on their return.
+
+As of October 20, 2014, electronic filing is available for the following programs:
+
+**RE – Excise Tax**
+
+- B200, *Excise Tax Return*
+
+- N15, Excise Tax Act *– Application for Refund/Rebate*
+
+- N15-1, Excise Tax Act *– Application for Refund/Rebate, Supplementary Information*
+
+**RD – Excise Duty**
+
+- N10, *Excise Act Application for Refund/Deduction*
+
+- K50B, *Monthly Return – Excise Duty – Beer*
+
+- B256, Excise Act, 2001*– Application for Refund/Deduction*
+
+- B261*, Excise Duty Return – Duty Free Shop*
+
+- B262, *Excise Duty Return – Excise Warehouse Licensee*
+
+- B263, *Excise Duty Return – Licensed User*
+
+- B265, *Excise Duty Return – Wine Licensee*
+
+- B266, *Excise Duty Return – Spirits Licensee*
+
+- B267, *Excise Duty Return – Tobacco Licensee*
+
+**RG – Air Travellers Security Charge**
+
+- B254, *Application for Refund of the Air Travellers Security Charge*
+
+- B249, *Air Travellers Security Charge Return*
+
+**SL – Softwood Lumber**
+
+- B275, *Softwood Lumber Products Export Charge Return*
+
+- B278, *Softwood Lumber Products Export Charge – Application for Refund*
+
+## Order additional remittance vouchers online
+
+You can use the “Enquiries service” in “[My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html)” or “[Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html)” to make an online request for additional remittance vouchers and also to request copies of notices and statements.
+
+In most cases, these requests are processed within 24 hours. Go to:
+
+- [www.cra.gc.ca/mybusinessaccount](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), if you are a business owner; or
+
+- [www.cra.gc.ca/representatives](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), if you are an authorized representative or employee.
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from October 1, 2014, to December 31, 2014, on overdue amounts payable to the Minister is 5%. The prescribed annual rate of interest on amounts owed by the Minister (i.e., rebates or refunds) is 1% for corporate taxpayers and 3% for non-corporate taxpayers. These rates are applicable to income tax, excise tax, the softwood lumber products export charge, GST/HST and the air travellers security charge (ATSC) and excise duty on wine, spirits and tobacco.
+
+The prescribed annual rate of interest respecting excise duty on beer, on overdue amounts payable for the indicated period, is set at 3%. Refund interest rates are not applicable for amounts owed by the Minister (i.e., rebates or refunds) for excise duty that is in relation to beer.
+
+| - | GST/HST, Excise Tax, Softwood Lumber Products Export Charge, Excise Duty (wine, spirits, tobacco), ATSC, Income Tax | Excise Duty (beer) |  |  |
+
+| --- | --- | --- | --- | --- |
+
+| Period | Refund Interest Corporate Taxpayers | Refund Interest Non-Corporate Taxpayers | Arrears and Instalment Interest | Arrears Interest |
+
+| October 1 to December 31, 2014 | 1% | 3% | 5% | 3% |
+
+| July 1 to September 30, 2014 | 1% | 3% | 5% | 3% |
+
+| April 1 to June 30, 2014 | 1% | 3% | 5% | 3% |
+
+| January 1 to March 31, 2014 | 1% | 3% | 5% | 3% |
+
+Prescribed interest rates for previous years are available on the CRA website at [www.cra.gc.ca/interestrates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## What's new in publications
+
+The following is a list of new or revised excise and GST/HST forms and publications.
+
+### GST/HST forms
+
+- GST115, GST/HST Rebate Application for Tour Packages
+
+- [GST386, Rebate Application for Conventions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst386.html)
+
+- RC59, Business Consent
+
+- [RC4288, Request for Taxpayer Relief - Cancel or Waive Penalties or Interest](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4288.html)
+
+- [RC7259, Business Consent for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7259.html)
+
+### GST/HST guides
+
+- RC4160, Rebate for Tour Packages, Foreign Conventions, and Non-Resident Exhibitor Purchases
+
+### GST/HST info sheets
+
+- [GI-062, Point-of-Sale Rebate on Feminine Hygiene Products](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-062.html) (revised)
+
+- [GI-063, Point-of-Sale Rebate on Children's Goods](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-063.html) (revised)
+
+- [GI-065, Point-of-Sale Rebate on Books](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-065.html) (revised)
+
+- [GI-169, Point-of-Sale Rebate on Heating Oil](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-169.html)
+
+### Excise duty memoranda
+
+- EDM1-5-1, Rates of Excise Duty (revised)
+
+All GST/HST, excise duty and excise taxes and special levies publications can be found on the CRA website at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html), at [www.cra.gc.ca/etsl](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies.html) and at [www.cra.gc.ca/exciseduty](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty.html)
+
+To receive email notification as soon as a document is published on the CRA website, go to the [electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) page at [www.cra.gc.ca/lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribe to the RSS feed for all new CRA publications and forms, or subscribe to any number of mailing lists for different types of publications
+
+## Enquiries
+
+**For online access to your GST/HST, softwood lumber products export charge, air travellers security charge, excise tax and duty accounts** (such as viewing up-to-date account balances and transactions, transferring payments, and more), go to:
+
+- [www.cra.gc.ca/representatives](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), if you are an authorized representative or employee; or
+
+- [www.cra.gc.ca/mybusinessaccount](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), if you are the business owner
+
+**For technical help while using our online services**:
+
+- business accounts, call 1-800-959-5525
+
+- teletypewriter users, call 1-800-665-0354
+
+- calls outside of Canada and the United States, call collect at 1‑613‑940‑8528
+
+Please have the screen number (bottom right) and, if applicable, the error number and message received on hand when calling.
+
+**For general information and to make enquiries regarding your account** (except for softwood lumber products export charge accounts), you can:
+
+- view answers to common enquiries, or submit an enquiry using the online “Enquiries service” on “My Business Account”;
+
+- view account information online at [www.cra.gc.ca/businessonline](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html) ; or
+
+- call Business Enquiries at 1‑800‑959‑5525
+
+**For specific account-related enquiries,**use the online “Enquiries service” on My Business Account. Select the “Submit an enquiry” option to send us your question and receive a response electronically.
+
+**For enquiries regarding your softwood lumber products export charge account**, you can:
+
+- view answers to common enquiries, or submit an enquiry using the online “Enquiries service” on “My Business Account”;
+
+- view account information online at [www.cra.gc.ca/businessonline](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html) ; or
+
+- call 1‑800‑935‑0313
+
+**To make enquiries regarding the status of specific GST/HST domestic rebate claims,** call the Business Enquiries line at 1‑800‑959‑5525.
+
+**For GST/HST technical enquiries,**call GST/HST Rulings at 1‑800‑959‑8287.
+
+**Forms and publications**
+
+- To access forms and publications **online**, go to [www.cra.gc.ca/forms](https://www.canada.ca/en/revenue-agency/services/forms-publications.html)
+
+- To order forms and publications**by telephone**, call 1‑800‑959‑5525
+
+**Are you a GST/HST registrant located in Quebec?**
+
+To make an enquiry or obtain information on the GST/HST, contact Revenu Québec at 1‑800‑567‑4692 or visit its website at [www.revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+**Are you a selected listed financial institution (including those located in Quebec)?**
+
+- For **GST/HST** account-related enquiries or for registration for a CRA business number, call Business Enquiries at 1‑800‑959‑5525. For GST/HST technical enquiries, call GST/HST Rulings at 1‑855‑666‑5166
+
+- For **QST** account-related enquiries for reporting periods ending on or after January 1, 2013 or for registration for a CRA business number effective on or after January 1, 2013, call Business Enquiries at 1‑800‑959‑5525. For technical enquiries related to the amended QST, call GST/HST Rulings at 1‑855‑666‑5166
+
+The *Excise and GST/HST News* is published quarterly and highlights recent developments in the administration of the goods and services tax (GST) and harmonized sales tax (HST), First Nations goods and services tax (FNGST) and First Nations tax (FNT), softwood lumber products export charge, air travellers security charge (ATSC) as well as excise taxes and duties. If you would like to receive a link to each new edition of the*Excise and GST/HST News*as it is published, [subscribe](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/subscribe-a-canada-revenue-agency-electronic-mailing-list.html) to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-excise-gst-hst-news.html).
+
+This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, *Excise and GST/HST News*, Legislative Policy and Regulatory Affairs Branch, CRA, Ottawa, ON K1A 0L5.

@@ -1,0 +1,805 @@
+Title: IC99-1R4 Registered Disability Savings Plans
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic99-1/registered-disability-savings-plans.html
+Corpus path: corpus/cra/tax/technical-information/income-tax/current-publications/information-circulars/publications/ic99-1/registered-disability-savings-plans.md
+Document type: technical_publication
+Last modified: 2023-11-16
+
+# IC99-1R4 Registered Disability Savings Plans
+
+**This version is only available electronically.**
+
+**1**. This circular explains the rules of the Income Tax Act (ITA) and the Canada Revenue Agency’s (CRA) conditions for registering disability savings plans (DSPs). It also provides information on the Canada disability savings grant (grant) and the Canada disability savings bond (bond).
+
+This circular reflects the law in force when the circular was published. The reader should consider any relevant amendments to legal provisions or relevant court decisions made after this circular was published.
+
+## Authority
+
+**2.** Subsection 146.4(4) of the ITA lists the registration requirements for DSPs, and section 60.02 of the ITA has the rules for rolling over funds into a registered disability savings plan (RDSP). Subsection 160.21(1) of the ITA details the legislation for the joint liability of taxes resulting from deregistration of a non-compliant plan, while Part XI.01 of the ITA imposes taxes on various transactions involving RDSPs such as advantages, swap transactions, registered plan strips, and prohibited investments. This circular does not explain subsection 160.21(1) or Part XI.01 of the ITA in any detail. However, some information can be found in guide [RC4460, Registered Disability Savings Plan](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4460.html), and in Income Tax Folios [S3-F10-C2, Prohibited Investments](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html), and [S3-F10-C3, Advantages](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html).
+
+**3.** Subsection 146.4(1) of the ITA defines qualified investments for a trust governed by an RDSP. The prescribed investments mentioned in this definition are described in section 4900 of the Income Tax Regulations. Some information about the qualified investments for RDSP purposes is in paragraph 75 of this circular. You can find more in-depth information about qualified investments in Income Tax Folio [S3-F10-C1, Qualified Investments](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html). The Canada Disability Savings Act and the Canada Disability Savings Regulations state the rules for the grant and the bond.
+
+## Personal information
+
+**4.** Information that the CRA gathers for tax purposes is strictly confidential. Only the taxpayer or a person the taxpayer or the law authorizes has access to this information. The Privacy Act and the Access to Information Act reinforce this protection.
+
+## Part I – What Is an RDSP?
+
+### Overview of an RDSP
+
+**5.** A registered disability savings plan (RDSP) is a plan designed to help an individual who is eligible to receive the disability tax credit (DTC) to save for their long-term financial security. The RDSP is set up as an arrangement between an issuer and a holder for the future benefit of a DTC-eligible beneficiary.
+
+**6.** Contributions can be made to a plan by the plan holder and by other authorized supporters until the end of the year in which the beneficiary turns 59 years old. Contributions are not tax deductible. Earnings on contributions are tax-exempt while they stay in the plan.
+
+**7.** Contributions that are made to an RDSP may be supplemented by payments from the Canada Disability Savings Program, which is administered by Employment and Social Development Canada (ESDC). The Government of Canada provides payments in the form of the Canada disability savings grant (grant) and Canada disability savings bond (bond) to an eligible beneficiary’s RDSP. The grant is an amount provided by the Government based on contributions and family income. The bond is money that the Government may deposit into the RDSPs of low-income or modest-income Canadians without them having to make contributions.
+
+**8.** Payments out of the plan must begin by the end of the year in which the beneficiary turns 60 years of age, (or earlier, if the plan allows) and will continue to be paid at least once a year. When a payment is made from the plan, the grant and bond, investment income earned, and any rollover amounts are taxable income for the beneficiary.
+
+### Issuer, beneficiary, and holder
+
+#### Issuer
+
+**9.** An issuer is a trust company licensed or authorized under the laws of Canada or a province to carry on the business of offering to the public its services as a trustee. For issuers to offer RDSPs, they must first send a copy of a specimen plan to the Registered Plans Directorate (RPD) for written approval and enter into an agreement with ESDC (see Part II).
+
+#### Beneficiary
+
+**10.** The beneficiary named under an RDSP is an individual resident in Canada, with a valid social insurance number (SIN) and is DTC-eligible in the tax year the RDSP is opened. An individual is eligible in a tax year only if:
+
+- a qualified practitioner certifies on Form [T2201, Disability Tax Credit Certificate](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2201.html), that the individual has a severe and prolonged impairment in physical or mental functions; and
+
+- a completed Form T2201 has been approved by the Canada Revenue Agency (CRA).
+
+For more information on claiming the DTC, see [Tax credits and deductions for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities.html).
+
+**11.** An RDSP can have only one beneficiary, and that beneficiary will stay the same throughout the lifetime of the plan. After a beneficiary has been named on an RDSP, the beneficiary cannot be changed or replaced. A beneficiary can have only one plan open at a time. The only exception is when funds are being transferred from one RDSP to another RDSP of the same beneficiary. The first plan has to close right after the transfer.
+
+#### Holder
+
+**12.** A holder is a person or entity that opens a plan and makes contributions for a beneficiary. A holder can be any of these persons:
+
+1. the **beneficiary**, who is an adult and competent to enter into a contract;
+
+2. if the beneficiary is a minor, a **qualifying person** can open an RDSP and become the holder if they are:
+
+    - a legal parent of the beneficiary;
+
+    - a person who is legally authorized to act for the beneficiary, such as a legal guardian, tutor, or curator; or
+
+    - a public department, agency, or institution that is legally authorized to act for the beneficiary;
+
+3. if the beneficiary is over the age of majority, but not competent to enter into a contract, the holder can be a **qualifying person** who is:
+
+    - a person who is legally authorized to act for the beneficiary, such as a guardian, tutor, or curator; or
+
+    - a public department, agency, or institution legally authorized to act for the beneficiary; or
+
+4. if the beneficiary is an adult, and the issuer feels that his or her contractual competency is in doubt, the qualifying person can fall under the temporary **qualifying family member** (QFM) provision and become the holder if:
+
+    - there is no legally authorized person or entity acting for the beneficiary;
+
+    - the QFM opens the RDSP before January 1, 2027 (the QFM measure cannot be used after December 31, 2026);
+
+    - the beneficiary is not a beneficiary under another RDSP;**and** if (one or more of the following):
+
+    - the QFM is a spouse or common-law partner who is not living separate and apart from the beneficiary due to the breakdown of their marriage or common-law partnership;
+
+    - the QFM is the legal parent of the beneficiary; or
+
+    - the QFM is the beneficiary's brother or sister.
+
+A person or entity is legally authorized to act for a beneficiary if they have been appointed as such through the laws of the province where the beneficiary lives. The rules surrounding whether or not a beneficiary is competent to enter into an arrangement are determined through provincial regulatory bodies. The federal government does not determine legal authority or who is competent to enter into an arrangement.
+
+#### Changing or replacing a holder
+
+**13.** A holder may need to be replaced or changed during the lifetime of a plan. An entity can only become a successor or assignee of a plan holder if they give the issuer their SIN or business number (BN), and the entity is:
+
+- the beneficiary;
+
+- the beneficiary’s estate;
+
+- a current holder of the plan;
+
+- a qualifying person in relation to the beneficiary, as in 12(ii)-(iii); or
+
+- a legal parent of the beneficiary who was previously a holder of the plan.
+
+A QFM cannot be a successor or assignee of a holder. The QFM measure only applies if the beneficiary does not have an RDSP. The one exception is where a legal parent is the holder of a pre-existing RDSP for the beneficiary. That parent can transfer the plan to a new RDSP.
+
+**14.** Offering the QFM measure is not a requirement. If issuers want to allow their clients to open an RDSP with this option, their specimen plan(s) and trust document(s) will need to be amended. Holders can contact their RDSP issuer to find out what is allowed under their agreement.
+
+**15.** A plan can have multiple holders, but there must be at least one at all times for the plan to follow the rules of the ITA. If, at any time, a holder no longer meets the criteria of a qualifying person, he or she stops being a holder of the plan at once. Therefore, to comply with this condition of registration, the beneficiary or his or her estate can automatically become the holder until a successor/assignee holder can be named.
+
+### Contributions
+
+**16.** The holder is the person or entity who makes contributions to an RDSP. With the holder’s written permission, anyone can make a contribution to the beneficiary's plan. Contributions to an RDSP are not tax deductible and are not to be included in the beneficiary’s income when withdrawn from the plan.
+
+**17.** Contributions can be made to the plan if:
+
+- the beneficiary is a resident of Canada;
+
+- the contribution is made before the end of the year in which the beneficiary turns 59 years of age;
+
+- the total amount of contributions and rollovers made to the RDSP (and any other RDSP of the beneficiary) is not more than $200,000;
+
+- the beneficiary is eligible to receive the DTC for the tax year in which the contribution is made; and
+
+- the beneficiary has not died.
+
+**18.** A contribution does not include:
+
+- the grant or the bond;
+
+- payments under a designated provincial program (see 25);
+
+- an amount transferred from one RDSP to another RDSP of the same beneficiary;
+
+- a retirement savings rollover (however this amount counts toward the $200,000 lifetime limit); or
+
+- an education savings rollover (however this amount counts toward the $200,000 lifetime limit).
+
+#### No return of contributions to the holder
+
+**19**. The RDSP was designed to operate only for the benefit of the beneficiary. After a contribution is made to an RDSP, it can only be paid out to the beneficiary or to his or her estate. There can be no return of contributions to the holder.
+
+### Canada Disability Savings Program
+
+#### Overview of the program
+
+**20.** Employment and Social Development Canada (ESDC) administers the Canada Disability Savings Program. This program pays the Canada disability savings grant (grant) and the Canada disability savings bond (bond) to an eligible beneficiary’s RDSP. The Canada Disability Savings Act (CDSA) and the Canada Disability Savings Regulations provide the legislative authority for these payments. ESDC bases the amount of the grant and the bond that is available for a year on the beneficiary's family income and on matching rates.
+
+#### Canada disability savings grant and Canada disability savings bond
+
+**21.** The **grant** is an amount that the Government of Canada contributes to an RDSP at a matching rate of 300%, 200%, or 100%, depending on the beneficiary's family income and the amount contributed. An RDSP can get a maximum of $3,500 in matching grant in one year, and up to $70,000 over the beneficiary's lifetime. A grant can be paid into an RDSP on eligible contributions made to a beneficiary's RDSP until December 31 of the year in which he or she turns 49 years of age. For information on the grant, see Chapter 3-1 of the [RDSP provider user guide](https://www.canada.ca/en/employment-social-development/programs/disability/savings/issuers/user-guide.html).
+
+**22.** The **bond**is an amount paid, up to $1,000 a year, by the Government of Canada into the RDSP of a low-income or modest-income Canadian. The amount of a bond is based on the beneficiary’s family income. No contributions need to be made to get this benefit. The lifetime limit is $20,000. Bond payments can be made into an RDSP until December 31 of the year in which the beneficiary turns 49 years of age. For information on the bond, see Chapter 3-2 of the [RDSP provider user guide](https://www.canada.ca/en/employment-social-development/programs/disability/savings/issuers/user-guide.html).
+
+**23.** From birth until December 31 of the year a beneficiary turns 18 years of age, the beneficiary's family income is based on the income information used to determine the [Canada child benefit](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview.html) for that beneficiary. Beginning the year the beneficiary turns 19 years of age until the RDSP is closed, his or her family income is based on his or her income, plus his or her spouse's or common-law partner's income. To determine if a beneficiary qualifies for the bond or the matching rate of the grant, the beneficiary must file income tax returns for the previous two years and for all the tax years when he or she has an RDSP.
+
+**24.** If the beneficiary is under the care of a department, agency, or institution for at least one month in the year, the grant and bond are based on the allowance payable to that department, agency, or institution under the Children's Special Allowances Act. For more information, see [Children’s special allowances](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/childrens-special-allowances.html).
+
+**25.** A **designated provincial program** is a program that is established under the laws of a province and that supports savings in RDSPs. These additional provincial grants may be available to a beneficiary depending on where he or she lives. To find out what options are being offered, holders can speak to their RDSP issuer.
+
+**26.** A holder can carry forward a beneficiary's unused grant and bond entitlements from the previous 10-year period and apply them to future years. The grant and the bond can be paid on unused entitlements up to an annual maximum amount. For more information, see [InfoCapsule 11: Carry forward](https://www.canada.ca/en/employment-social-development/programs/disability/savings/issuers/infocapsules/carry-forward.html).
+
+A new grant and bond application form needs to be completed when the beneficiary turns 18 years of age, otherwise no further grant or bond can be paid. The beneficiary will also need to file income tax returns beginning in the year he or she turns 17 years of age, or no additional bond can be paid and the grant will only be paid at a 1 to 1 matching rate.
+
+#### Repayment of the grant and bond
+
+**27.** The **assistance holdback amount** (AHA) means the total amount of grant and bond paid into an RDSP, generally within the 10-year period before an event, less any amount that has been repaid to ESDC. For more information about events and calculating the AHA and repayment of grant and bond, see [Assistance holdback amount and repayment obligation](https://www.canada.ca/en/employment-social-development/programs/disability/savings/issuers/aha.html).
+
+**28.** The**proportional repayment rule** requires that for every $1 withdrawn from an RDSP, $3 of the grant and bond paid into the plan (generally within the 10 years before the withdrawal) will be repaid up to the maximum of the AHA. Repayments will be attributed to the grant and bond that make up the AHA, based on the order in which they were paid into the RDSP, beginning with the oldest amounts. For more information about calculating proportional repayments, see [Assistance holdback amount and repayment obligation](https://www.canada.ca/en/employment-social-development/programs/disability/savings/issuers/aha.html).
+
+**29.** The proportional repayment rule applies only to RDSP withdrawals. An issuer must repay the AHA from an RDSP that is closed or deregistered, or if the RDSP beneficiary dies. (Loss of DTC-eligibility is not an event that requires repayment of the AHA).
+
+All questions about the rules and legislation for the grant and bond, including eligibility, amounts, and repayments can be sent to ESDC. To contact ESDC, see 103.
+
+### Registering an RDSP
+
+**30**. A disability savings plan (DSP) is considered registered if the beneficiary is eligible to claim the DTC in the tax year the plan is opened and all the conditions of subsection 146.4(2) of the ITA have been met. These conditions are:
+
+- the specimen plan has been sent to the RPD and is approved;
+
+- the SIN of the beneficiary and the SIN or business number (BN) of the holder(s) have been given to the issuer; and
+
+- when the plan was opened, the beneficiary was a resident of Canada.
+
+If a disability savings plan is opened because of a transfer from a beneficiary’s current RDSP, the beneficiary does not need to be a resident of Canada or DTC-eligible in the tax year that the new disability savings plan is opened.
+
+**31.** To open an RDSP, a person who qualifies to be a holder of the plan can contact an issuer who offers RDSPs and apply for a plan for a beneficiary. The holder will be asked to give the issuer the beneficiary’s SIN, and the SIN or BN of the holder(s) and to fill out an application form or forms (the grant and the bond each have a form). The issuer will send the information electronically to ESDC as soon as the plan is opened. The Government of Canada records the given name, surname, gender, and date of birth of the beneficiary and all holders listed on the RDSP application form and compares them with the information held by the Social Insurance Registry.
+
+**32.** If the information listed on the application form does not match the information in the Social Insurance Registry, the Government places a hold (**pending** status) on the RDSP until the information is corrected and all validations have passed. After the beneficiary and holder SINs have passed the Social Insurance Registry validation, the DTC-eligibility of the beneficiary will be checked with the CRA. The RDSP will stay in pending status until all required information is validated. Once all information matches, the plan's status will change from pending to **registered**, and any eligible grant or bond may be paid into the plan at that time.
+
+**33.** To avoid processing delays, the issuer should **make sure that the holder checks the following items**:
+
+1. Confirm that the beneficiary is eligible to claim the DTC in the year the plan is opened by filing Form [T2201, Disability Tax Credit Certificate](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2201.html), with the CRA and make sure it has been approved before opening an RDSP. (Not required if the holder is opening the plan because of a transfer from the beneficiary’s prior RDSP).
+
+2. If a parent or guardian filed a Form T2201 for the beneficiary when the beneficiary was a child and at the time of filing the beneficiary had no SIN, the DTC status would have been associated with the parent or guardian’s CRA file. Once the beneficiary has a SIN, the holder will need to update the beneficiary’s file with the SIN and DTC information by contacting the CRA general enquiries line at **1-800-959-8281** with:
+
+    - the beneficiary's SIN; and
+
+    - the SIN of the individual who asked for the DTC for the beneficiary (or, if not certain, the person currently claiming the DTC).**Note** If the beneficiary is an adult, the CRA can only give DTC information to the beneficiary or to his or her authorized representative. To find out how to become an authorized representative, please call the CRA general enquiries line at **1-800-959-8281**, or go to [Authorize or cancel a representative](https://www.canada.ca/en/revenue-agency/services/tax/representative-authorization/overview.html).
+
+3. If the beneficiary is a child, make sure that the primary caregiver named on the RDSP application form has applied for the Canada child tax benefit when the RDSP is opened. If the child is maintained by an agency, the primary caregiver named on the RDSP application form should be the institution receiving the [Children’s special allowance](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/childrens-special-allowances.html) for the child when the RDSP is opened.
+
+4. Both the holder and the issuer’s representative should make sure that the name, date of birth, and SIN for the beneficiary and all holders of the plan listed on the RDSP application form match the information that was given to the Social Insurance Registry when the SIN was applied for or last updated (for example, married women do not often change their SIN information to reflect their married name. Their name, as it appears on their SIN card, must be used).
+
+5. As on the SIN application form, use the date convention dd/mm/yyyy when filling out the RDSP application form. If you do not use this convention, it will cause problems during the validation process. The holder can contact the Social Insurance Registry at **1-866-274-6627** (choose option 3) to verify that the holder(s) and beneficiary's name(s) and dates of birth are correct.
+
+**34.** The issuer will need to resubmit any corrected information through the Canada disability savings program system. This step should correct the information that was sent in before and allow the pending status on the plan to be changed to registered status. Holders can contact their issuer to find out more about the registration status of their plan.
+
+#### Losing registered status
+
+**35.** An RDSP is no longer considered registered when it does not meet:
+
+- the conditions of registration under subsection 146.4(4) of the ITA;
+
+- the requirements under the CDSA; or
+
+- the terms of the plan.
+
+The CRA may defer or waive the deregistration of a plan in certain circumstances. The issuer can write to the RPD to ask for a deferral or a waiver.
+
+### Payments out of an RDSP
+
+**36.** Three types of payments can be made from an RDSP:
+
+- disability assistance payments;
+
+- transfers from one RDSP to another RDSP for the same beneficiary; and
+
+- repayments of amounts under the CDSA or a designated provincial program.
+
+Only the beneficiary or his or her estate can receive disability assistance payments from the RDSP.
+
+#### Disability assistance payments
+
+**37.** A disability assistance payment (DAP) is any payment made from an RDSP to a beneficiary or to his or her estate after his or her death. A DAP is one payment that can be requested at any time and consists of contributions, grant, bond, rollovers, and income earned in the account. DAPs are subject to certain minimum and maximum withdrawal amounts, depending on the status of the RDSP.
+
+**38.** The payment of holder-requested DAPs is not a requirement. If issuers want to offer this benefit to their clients, it will need to be written into the terms of the plan. Holders can contact their RDSP issuer to find out what is allowed under their agreement.
+
+**39.** A **lifetime disability assistance payment** (LDAP) is a DAP that, once started, must be paid at least once a year until either the plan is closed or the beneficiary has died, whichever comes first. These payments may begin at any time, but if not already started, must begin no later than the end of the year that the beneficiary turns 60 years of age. There is a minimum and maximum LDAP amount that can be paid in a given year, depending on the status of the RDSP.
+
+**40.** A DAP (including an LDAP) cannot be paid if it would cause the value of the RDSP's assets to fall below the AHA, which could result in the RDSP being unable to satisfy an obligation to repay a grant or bond under the CDSA.
+
+In some situations the ITA doesn’t impose a minimum amount on LDAPs. However, since it is designed to be a payment, the amount of an LDAP can’t be equal to zero. When the Act does not indicate a minimum withdrawal amount, the LDAP won’t be less than $1.
+
+### Minimum and maximum withdrawals
+
+#### Primarily government-assisted plan and non-primarily government-assisted plan
+
+**41.** **A primarily government-assisted plan**(PGAP) means that the total of all grant and bond (government contributions) paid to any plan of the beneficiary before the beginning of the calendar year is more than the total of all holder contributions (private contributions) paid to any plan of the beneficiary before the beginning of the calendar year.
+
+**42.** Under a PGAP, a beneficiary can withdraw a combined DAP and LDAP amount of up to the specified maximum amount (see 46). This maximum does not apply if the year is a specified year (see 57).
+
+**43.** If the beneficiary is not the holder of the plan, he or she has the right to ask for a payment to be made from a PGAP. When the beneficiary is at least 27 years of age (at the beginning of the year) and no older than 58 (at the beginning of the year), he or she can ask for a withdrawal at any time in a year. If a withdrawal is made under these conditions, it will follow the same limitations as any other payment made from a PGAP.
+
+**44.** Regardless of any withdrawals from the plan, once a PGAP status has been set, the plan will stay as such during that year. However, a PGAP status is removed for the next year if the following happens:
+
+1. in the PGAP year, contributions and rollovers are deposited into the RDSP
+
+2. those contributions and rollovers cause the total of all holder contributions paid to any plan of the beneficiary to be more than the total of all grant and bond paid to any plan of the beneficiary
+
+**45.** If the total of all contributions and rollovers paid to any plan of the beneficiary are more than the total of the grant and bond paid to any plan of the beneficiary, then the plan is a non-primarily government-assisted plan (non-PGAP). There is no maximum on the amount that can be withdrawn in a year for a non-PGAP.
+
+For a detailed chart of the payment limits, see [InfoCapsule 14: Payment rules and limits](https://www.canada.ca/en/employment-social-development/programs/disability/savings/issuers/infocapsules/payment.html). Repayment of the grant and the bond may be required after a withdrawal.
+
+### Formulas
+
+#### Specified maximum amount
+
+**46.** The total amount of payments that can be paid from a PGAP cannot be more than the specified maximum amount, which is the greater of:
+
+1. the LDAP formula; and
+
+2. the amount determined by the formula:
+
+A + B
+
+**Where:**
+
+- A = 10% of the FMV held in the RDSP at the beginning of the year (not including any locked-in annuity contracts); and
+
+- B = all periodic payments from locked-in annuity contracts.
+
+#### LDAP maximum amount
+
+**47.** The total amount of LDAPs that can be paid in any calendar year (other than a specified year) cannot be more than the formula:
+
+A ÷ (B + 3 − C) + D
+
+**Where:**
+
+- A = the FMV of the property held in the plan at the beginning of the year, (not including the value of locked-in annuity contracts held by the plan trust);
+
+- B = the greater of 80 and the age of the beneficiary at the beginning of the calendar year;
+
+- C = the actual age of the beneficiary at the beginning of the calendar year; and
+
+- D = the total of all periodic payments paid, or deemed to have been paid, under certain locked-in annuity contracts, to the plan trust in the calendar year, if applicable.
+
+#### Non-taxable part of a withdrawal
+
+**48.** The non-taxable part of a withdrawal made from an RDSP to the beneficiary is the lesser of the amount of the withdrawal and the result of the formula:
+
+A × B ÷ C + D
+
+**Where:**
+
+- A = the amount of the withdrawal;
+
+- B = is the amount by which
+
+    - the total of all amounts, each of which is the amount of a contribution made before the time of the withdrawal, to any RDSP of the beneficiary is more than
+
+    - the total amount, each of which is the non-taxable part of any payment made before the time of the withdrawal, from any RDSP of the beneficiary if this formula were read without reference to variable D;
+
+- C = the amount by which the FMV of the plan immediately before the withdrawal is made, is more than the AHA;
+
+- D = the amount of advantage tax that the RDSP holder pays under section 207.05 of the ITA in respect of the plan or in respect of a prior RDSP for the beneficiary that was held by the holder. This amount does not include an amount that has been waived, cancelled, or refunded. This amount also does not include an amount that was included in the year or a prior year’s non-taxable amount portion of a withdrawal that was made from the plan or from a prior RDSP for the beneficiary that was held by the holder.
+
+### Taxation of an RDSP trust
+
+**49.** An RDSP trust will pay tax on all of its taxable income for a year if the trust borrowed money in the year or if it borrowed money in a preceding year and had not repaid it before the beginning of the year.
+
+**50.** If an RDSP trust is not taxable in the year because of money it borrowed, it will be taxed on the taxable income generated from carrying on one or more businesses in the year. Tax will also be payable on any income earned from a non-qualified investment and on any capital gains realized from the disposition of a non-qualified investment.
+
+### Taxation of a withdrawal
+
+**51.** The amount of a withdrawal, excluding the non-taxable amount, will be included in the beneficiary’s income in the year the withdrawal is made. If the beneficiary is deceased, that amount will be included in the beneficiary’s estate income in the year the withdrawal is made.
+
+### Transfers
+
+**52.** A holder can ask to have an RDSP transferred to another plan or institution as long as the new plan is for the same beneficiary. The prior issuer is responsible for transferring all information required for the new issuer to be able to determine withdrawal limitations and requirements as well as the taxable amount of any payments made in the new plan. The prior issuer must also close the old plan right after the transfer is complete. The amount of the transfer is not included in any taxpayer's income.
+
+**53.** The information the transferring issuer will provide to the receiving issuer is detailed in ESDC’s RDSP transfer [form EMP5611](https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=EMP5611). The required information includes balances from the transferring plan calculated at the time of transfer.
+
+**54.** If the beneficiary is at least 59 years of age before the year the transfer takes place (or any other age, if LDAPs have already begun to be paid), the receiving plan will pay to the beneficiary any DAPs (including LDAPs) that the transferring plan would have paid during the rest of the year had the transfer not taken place.
+
+**55.** Although plan transfers are allowed under the ITA, it is possible that not all issuers offer the same benefits. If the beneficiary’s previous plan accepted a rollover or a specified disability savings plan designation, or opened a plan with a QFM, then the new plan must also allow the same. Holders can contact their RDSP issuer to find out more about the terms of their agreement.
+
+### Shortened life expectancy
+
+#### Specified year
+
+**56.** It is possible that a beneficiary may have a shortened life expectancy and may not be able to take advantage of his or her plan’s long-term benefits. In such a case, a licensed medical doctor, or a nurse practitioner can certify in writing that, in his or her professional opinion, the beneficiary will not live longer than five years. The year of certification is called a **specified year** and includes:
+
+- each of the five calendar years after the year of certification (a year will only qualify as a specified year if the medical certificate has been given to the issuer in the year in question); or
+
+- each year after the plan is designated as a specified disability savings plan (see 59).
+
+**57.** There is no limit on the amount of DAPs or LDAPs that can be made to the beneficiary in a specified year. However, the withdrawals are still subject to the possible repayment of grant and bond.
+
+**58.** Allowing the designation of a specified year is not a requirement. Holders can contact their RDSP issuer to find out what is allowed under their agreement.
+
+#### Specified disability savings plan
+
+**59.** An RDSP can be designated as a specified disability savings plan (SDSP) to give a beneficiary with a shortened life expectancy, greater flexibility to access his or her savings from an RDSP. As an SDSP, the specified year includes the year the certification is given to the issuer, and each year after.
+
+**60.** The RDSP becomes an SDSP when:
+
+- a licensed medical doctor, or a nurse practitioner certifies in writing that, in his or her professional opinion, the beneficiary is not likely to survive longer than five years;
+
+- the holder of the RDSP gives the medical certificate to the issuer along with a form containing information that will designate the RDSP as an SDSP (the issuer will provide this form); and
+
+- the issuer tells ESDC of the SDSP election.
+
+The SDSP designation takes effect when ESDC receives the issuer’s notification. More information on the prescribed information for an SDSP election can be found in [RDSP Bulletin No. 2R](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/bulletins/rdsp-bulletin-2.html).
+
+**61.** A plan will stay an SDSP unless:
+
+- ESDC is told by the issuer that the holder chooses to remove the SDSP designation;
+
+- the total of taxable amounts paid out of the plan in a calendar year is more than $10,000; [Footnote1](#fn1)
+
+- payments do not start by the end of the year after the year the plan became an SDSP, and the total payment each year is less than the LDAP formula (a lesser amount is acceptable if supported by the property in the plan);[Footnote1](#fn1)
+
+- the beneficiary is no longer eligible to claim the DTC;
+
+- a contribution is made to the plan;
+
+- an education savings rollover is made to the plan (retirement savings rollovers are allowed);
+
+- a grant, bond, or designated provincial program payment (or payment from a similar program) is made to the plan;
+
+- the plan is closed; or
+
+- the plan becomes non-compliant under paragraph 146.4(10)(a) of the ITA.
+
+**62.** Allowing a plan to be designated as an SDSP is not a requirement. Holders can contact their RDSP issuer to find out what is allowed under their agreement.
+
+The holder of the plan cannot make another SDSP election until 24 months after the SDSP designation was last removed from the plan.
+
+### Rollovers
+
+#### Retirement savings rollover
+
+**63.** A retirement savings rollover is an indirect tax-deferred rollover of a certain amount to an eligible beneficiary's RDSP. Amounts that can be rolled over generally include a refund of premiums from a registered retirement savings plan (RRSP), an eligible amount paid from a registered retirement income fund (RRIF), or a lump-sum payment (not including any actuarial surplus) from a registered pension plan, pooled registered pension plan, or specified pension plan of an RDSP beneficiary's parent or grandparent. These amounts can only be rolled over if the RDSP beneficiary was financially dependent on the parent or grandparent because of a mental or physical infirmity immediately before the parent or grandparent died. In general, a rollover can only be made if the amount is rolled over in the year that it would otherwise be paid to the dependent.
+
+#### Education savings rollover
+
+**64.** An education savings rollover is a tax-deferred rollover of the income part of an individual’s registered education savings plan (RESP) to the same individual’s RDSP. A subscriber of an RESP that allows accumulated income payments and a holder of an RDSP can jointly choose to transfer an amount from the RESP to the RDSP if, at the time of the transfer, one of these conditions is met:
+
+- the beneficiary of the RESP has a severe and prolonged mental impairment that prevents him or her from enrolling in a qualifying educational program at a post-secondary educational institution; or
+
+- the RESP has been open for at least 10 years, and each beneficiary in the RESP is at least 21 years old and is not eligible to receive educational assistance payments when the rollover is made; or
+
+- the RESP has been open for at least 35 years.
+
+**65.** An **accumulated income payment** (AIP) is a distribution from an RESP. The distribution usually includes earnings on contributions, and may include earnings on any grant or bond paid into the RESP. Before an education savings rollover can be made, the AIP conditions must be met. For more information, see [IC93-3R Registered Education Savings Plans](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic93-3.html).
+
+#### Rules for all rollovers
+
+**66.** The contribution rules in 17 must be met before any rollover can take place. Note that a retirement savings rollover can be made to an RDSP when the beneficiary is not DTC-eligible if it is made by the end of the fourth year after the year in which the beneficiary lost their DTC eligibility.
+
+**67.** Partial rollovers are allowed for both retirement savings rollovers and education savings rollovers. If, for example, a beneficiary receives $175,000 as a refund of premiums from his or her deceased parent's RRSP, he or she does not need to roll over the entire amount into his or her RDSP. The same would apply if a rollover came from the beneficiary’s RESP.
+
+**68.** A rollover is to be treated as a contribution when determining if a plan is a PGAP. It will be treated as part of the earnings of a DAP or LDAP, since it is a taxable part of an RDSP withdrawal.
+
+The retirement savings rollover and education savings rollover will not result in any grant or amounts from a designated provincial program.
+
+**69.** If an RDSP has accepted a rollover, that particular RDSP can only be transferred to another RDSP that also accepts rollovers. After an RDSP has accepted a rollover, the rollover funds must be tracked separately according to paragraphs 146.4(4)(f) to (h) and (n) of the ITA and when calculating the taxable amount of a DAP or LDAP. If the issuer of the new RDSP has not set up their plan to accept rollover amounts, they will not be able to account for and properly administer those amounts in line with the ITA. Issuers will need to amend their specimen plan(s) and trust agreement(s) if they want to offer their clients the ability to roll over any funds into the RDSP.
+
+**70.** An RDSP issuer must take these steps for a rollover transaction to be considered complete:
+
+1. the RDSP specimen plan(s) or trust agreement(s) will need to be amended to allow RDSP arrangements to accept rollover amounts;
+
+2. the RDSP issuer must make sure that all prescribed information is collected and kept on the beneficiary’s RDSP file (and RESP file, as the case may be):
+
+    1. retirement savings rollover – Form [RC4625, Rollover to a Registered Disability Savings Plan](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4625.html) (or similar form created by the issuer with the prescribed information); or
+
+    2. education savings rollover – Form [RC435, Rollover from a Registered Education Savings Plan to a Registered Disability Savings Plan](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc435.html) (or similar form created by the issuer with the prescribed information listed in [RDSP Bulletin No. 4R](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/bulletins/rdsp-bulletin-4.html));
+
+3. the rollover amount must be made to the beneficiary's RDSP; and
+
+4. all required information (as detailed in the Canada Disability Savings Program's [Interface Transaction Standards](https://www.canada.ca/en/employment-social-development/programs/disability/savings/issuers/interface-standards.html)) must be electronically transmitted to the Canada disability savings program system (CDSPS).
+
+**71.** Allowing a retirement savings rollover or education savings rollover is not a requirement. If issuers want to allow their clients to roll over any funds into their RDSPs, the issuers must amend their trust agreement(s) and specimen plan(s) to account for each rollover measure. RESP promoters may also have to amend their specimen plan(s) to comply with the terms of an education savings rollover. Holders can contact their RDSP issuer to find out what is allowed under their agreement.
+
+### Closing a plan
+
+**72.** A plan must close by whichever of the following dates is earlier:
+
+- December 31 of the year after the year the beneficiary dies; or
+
+- December 31 of the year after the year in which the holder has requested that the plan close because the beneficiary is no longer eligible to claim the DTC.
+
+**73.** Amounts left in the plan (after considering any repayments under the CDSA or a designated provincial program) are to be paid to the beneficiary or his or her estate. If the issuer of a plan was not aware, or was not sure if the beneficiary had died and the issuer did not close the plan as required, the CRA may allow the plan to close later.
+
+**74.** The holder can ask to close an RDSP when:
+
+- there is no property in the RDSP;
+
+- only the AHA is left in the plan (there are no earnings or private contributions in the plan); the AHA would be returned and the plan could then close;
+
+- the holder asks for all the funds left in the plan to be paid out to the beneficiary and the payment is not more than the maximum allowable payment for that year [Footnote2](#fn2) ; or
+
+- the beneficiary is no longer DTC-eligible.
+
+Before closing a plan, issuers should make sure they consider any associated trust laws and requirements.
+
+### Qualified investments
+
+**75.** All investments held by a trust governed by an RDSP must be qualified investments. Qualified investments include:
+
+- money and deposits;
+
+- guaranteed investment certificates issued by a trust company;
+
+- bonds and other debt obligations of the Government of Canada, a province, a municipality, or a Crown corporation;
+
+- shares listed on a designated stock exchange in Canada or in a foreign country;
+
+- bonds and other debt obligations of a corporation whose shares are listed on a designated stock exchange in Canada or in a foreign country;
+
+- bonds and other debt obligations of an authorized foreign bank payable at a branch of the bank in Canada;
+
+- segregated fund policies; and
+
+- other investments prescribed by section 4900 of the Income Tax Regulations.
+
+**76.** Certain mortgages, units of a mutual fund trust, and shares of certain Canadian corporations could also be qualified investments. With the exception of certain annuity contracts, the types of investments that qualify for RDSPs are similar to those investments that qualify for RRSPs, RESPs, and RRIFs. Holding non-qualified investments in an RDSP could subject the plan trust to a tax.
+
+## Part II – RDSP administration
+
+### Specimen plan approval process
+
+#### Specimen plan concept
+
+**77.** Before an issuer can market a disability savings plan (DSP), they must send a specimen of the arrangement to the Registered Plans Directorate (RPD). The specimen plan is reviewed by the RPD to make sure that all documents comply with the rules of the Income Tax Act (ITA) and related administrative rules.
+
+**78.** The specimen plan will only be approved if an issuer has entered into an agreement with Employment and Social Development Canada (ESDC). The issuer agreement sets out the issuer’s obligations to give information to Employment and Social Development Canada. That ESDC gives the issuer the Canada Disability Savings Program’s [Interface Transaction Standards](https://www.canada.ca/en/employment-social-development/programs/disability/savings/issuers/interface-standards.html), which states the required data elements an issuer will need to collect and send to the Government of Canada. For more information, see [Issuer Enrollment Process](https://www.canada.ca/en/employment-social-development/programs/disability/savings/issuers.html).
+
+**79.** The issuer may enter into a registered disability savings plan (RDSP) arrangement with one or more holders only after receiving the RPD’s approval of the specimen plan. The terms of each individual RDSP must be identical to the terms of the specimen plan. Although issuers do not have to send in a final printed copy, the RPD may ask for a copy later.
+
+**80.** The documents that typically make up a specimen plan are:
+
+- the declaration of trust that sets out the terms and conditions of the DSP, including any schedules and riders for the plan;
+
+- the holder’s application form for the DSP;
+
+- any addendum that forms part of the application (for example, “Prescribed information for an SDSP election” found in [RDSP Bulletin No. 2R](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/bulletins/rdsp-bulletin-2.html)); and
+
+- a letter of authorization from the issuer, if a third party is filing the specimen plan documents for approval.
+
+**81.** When the RPD receives specimen plan documents, an identification number is assigned to them and the issuer is notified. This is not a registration number, since the specimen plan is not registered. For timely service, the issuer will use that identification number when corresponding with the Canada Revenue Agency (CRA) about the specimen plan or an RDSP conforming to the specimen plan
+
+The word "registered" cannot be used to refer to the name of the plan on the application form or other specimen plan documents, since the specimen plan is not registered. Only individual DSPs entered into using the approved application form can be registered.
+
+#### Statutory conditions
+
+**82.** The declaration of trust (plan text) has to comply with subsection 146.4(4) of the ITA and has to include the mandatory conditions described in paragraphs a) to p) below:
+
+a. The plan text will state that:
+
+- the RDSP will only be for the benefit of the beneficiary under the plan;
+
+- the designation of the beneficiary under the plan is irrevocable; and
+
+- no right of the beneficiary to receive payments from the plan can be surrendered or assigned, either in whole or in part.
+
+b. An entity can only become a successor or assignee of a holder of the plan if, at the time, the entity is i) the beneficiary, ii) the beneficiary’s estate, iii) a holder of the plan, iv) a qualifying person in relation to the beneficiary, or v) an individual who is a legal parent of the beneficiary and was previously a holder of the plan.
+
+c. An entity (other than the legal parent of the beneficiary) has to stop being a holder of the plan when the entity stops being a qualifying person in relation to the beneficiary.
+
+d. There must be at least one holder of the plan at all times during the plan’s existence. The plan may allow the beneficiary or his or her estate to automatically become a successor or assignee of a holder to comply with this condition.
+
+e. If an entity becomes a holder of the plan after it is entered into, the entity may not exercise their rights as a holder until they have advised the issuer that they are the new holder and have given the issuer their social insurance number or business number.
+
+f. Contributions cannot be made to the plan if the beneficiary is not eligible to claim the disability tax credit (DTC) for the particular tax year, or the beneficiary died before then. However, a retirement savings rollover can be made to the plan when the beneficiary is not DTC-eligible as long as it is made by the end of the fourth year after the year in which the beneficiary lost their DTC eligibility.
+
+g. Contributions cannot be made to the plan: i) after the calendar year in which the beneficiary has reached the age of 59; ii) if the beneficiary is not a resident of Canada; or iii) if the total of the contribution and all other contributions made to the plan and to any other RDSP of the beneficiary would be more than $200,000 (other than amounts transferred from one RDSP to another RDSP for the same beneficiary).
+
+h. Only the holder can make contributions to the plan, unless they have given written consent to allow others to make contributions to it.
+
+i. No payments may be made from the plan other than: i) disability assistance payments (DAPs); ii) a transfer to another RDSP of the beneficiary; and iii) repayments under the Canada Disability Savings Act (CDSA) or a designated provincial program.
+
+j. A DAP may not be made from the plan if the payment would result in the fair market value of the property in the plan trust being less than the assistance holdback amount (AHA) for the plan.
+
+k. Lifetime disability assistance payments (LDAPs) must start before the end of the calendar year in which the beneficiary turns 60 years of age. If the plan is opened in or after the year the beneficiary turns 60 years of age, LDAPs must start before the end of that calendar year.
+
+l. LDAPs cannot be more than the amount determined by the formula under paragraph 146.4(4)(l) of the ITA.
+
+m. The plan text must state whether DAPs that are not LDAPs can be made from the plan.
+
+n. If the total amount of all Canada disability savings grant and Canada disability savings bond paid into any RDSP of the beneficiary before the beginning of a calendar year is more than the total amount of private contributions made to any RDSP of the beneficiary before the beginning of that calendar year, the plan will limit the amount of DAPs and LDAPs that can be paid to the beneficiary in the calendar year as follows:
+
+1. If the calendar year is not a specified year, and the conditions in (p)(ii) are not met in the calendar year, the total amount of DAPs and LDAPs made in the year cannot be more than the amount determined by the calculation set out in the definition of specified maximum amount under subsection 146.4(1) of the ITA, except, in calculating that total amount, any payment made from the plan after a transfer in the calendar year from the beneficiary’s prior plan is to be disregarded if:
+
+    1. where the beneficiary reaches 59 years of age before the calendar year, the issuer of the new plan agrees to make one or more DAPs from the plan in the year equal to the amount by which the total amount of all DAPs that should have been paid from the prior plan in the calendar year, had the transfer not occurred, is more than the amount of DAPs that were paid from the prior plan in the calendar year; or
+
+    2. it is made instead of a payment that would have otherwise been allowed under the beneficiary’s prior plan in the calendar year had the transfer not occurred; and
+
+2. If the beneficiary has reached 27 years of age but not 59 years of age before the calendar year begins, the beneficiary may direct that DAPs be made to him or her during the year without the holder’s consent. The total amount of both the beneficiary-directed DAPs and all other DAPs that are made during the year must be limited by the same conditions as j) and n) i) above.
+
+n.1. If the beneficiary reached the age of 59 years before the calendar year begins, then the total amount of DAPs made in the year will not be less than the amount determined by the calculation given in paragraph 146.4(4)(l) of the ITA, unless the amount of funds in the plan trust do not support this amount.
+
+o. When asked by the holder(s), the issuer will transfer all property held by the plan trust to another RDSP of the beneficiary (the text of the plan must also state that as soon as the property is transferred to the new RDSP, the plan will end). The issuer will also transfer all information pertaining to the RDSP that is considered necessary for the new plan to comply with both the ITA and the CDSA.
+
+p. The plan must close by the end of the calendar year after the earlier of i) the calendar year in which the beneficiary dies and ii) the first calendar year throughout which the beneficiary has no severe and prolonged impairments as detailed in paragraph 118.3(1)(a.1) of the ITA and where the holder has requested termination of the plan. After considering required repayments of the grant and bond, any amounts left in the plan must be paid to the beneficiary or his or her estate, as the case may be.
+
+If an issuer wants to offer other optional provisions (for example, rollovers), and for more information on specimen plans, see [Sample pro forma](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/registered-disability-savings-plans-rdsps/sample-forma-declaration-trust.html) and [Set up, amend or close a disability savings specimen plan](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/registered-disability-savings-plans-rdsps/specimen-plan.html).
+
+#### Additional requirements
+
+**83.** The plan text must also state that:
+
+- A DSP is not considered registered unless it is based on an approved specimen plan and the issuer has received:
+
+    - the name and social insurance number (SIN) of the beneficiary; and
+
+    - the name and SIN (or business number (BN), as the case may be) of the holder(s);
+
+- A DSP is not considered registered unless the beneficiary is a resident of Canada when the plan is opened and the beneficiary is eligible to claim the DTC for the tax year in which the plan is opened. The residency and the DTC conditions do not apply if the plan is opened because of a plan transfer from one RDSP for the beneficiary to another RDSP for the beneficiary;
+
+- The DSP will not be considered registered if this information is not given to Employment and Social Development Canada as soon as the holder(s) enters into the arrangement with the issuer;
+
+- A DSP will not be registered if the beneficiary is the beneficiary under another RDSP, unless the beneficiary is transferring to another plan and the beneficiary's previous RDSP will be closed right after the transfer; and
+
+- The issuer has the ultimate responsibility for the administration of the plan and the plan trust. The plan text must also list the issuer’s obligations as stated in subsection 146.4(13) of the ITA.
+
+#### Holder application form
+
+**84.** The holder’s application form for a DSP will be addressed to the issuer (that is, the issuer’s name needs to appear somewhere on the application form). The RDSP application form has to include information as follows:
+
+- a space for the number assigned to the plan. If the issuer uses the term "account number" or other similar wording instead of the term "contract", please tell the RPD when sending in the documents for approval;
+
+- a space to record the name, address, date of birth, gender, and SIN (or BN, if it applies) of each holder under the plan;
+
+- a space to record the name, address, date of birth, gender, and SIN of the beneficiary under the plan;
+
+- a statement that the holder(s) must notify the issuer when the beneficiary is not a resident of Canada;
+
+- a space to record the name and SIN or BN of the person or entity who is the primary caregiver (see 85) of the beneficiary when the arrangement is signed;
+
+- a space to record the date on which the holder(s) enters into the plan with the issuer;
+
+- a space for the date that contributions to the plan must end (that is, by the end of the year in which the beneficiary turns 59 years of age);
+
+- a warning to the holder(s) that they are jointly liable with the beneficiary (or the beneficiary’s estate) for taxes if the plan becomes non-compliant and is deregistered;
+
+- a space where the holder(s) can state their relationship to the beneficiary as i) the legal parent of the beneficiary, ii) the legal guardian of the beneficiary, iii) a public institution that is legally authorized to represent the beneficiary, or iv) the spouse or common-law partner of the beneficiary (if the qualifying family member provision is offered);
+
+- space for the signature(s) of the holder(s), the issuer, and the primary caregiver;
+
+- a statement to the holder(s) that information gathered on the application form will be shared with both ESDC and the CRA for administering the RDSP and for validating the information related to the beneficiary and holder(s);
+
+- The holder(s) should be told that all information collected and under the control of the CRA will be administered in line with all laws that apply including the Privacy Act and the ITA. All information shared with, and under the control of, ESDC will be administered in line with all laws that apply including the CDSA, the Privacy Act, and the Department of Social Development Act;
+
+- a statement to the holder(s) that information on the application form will be used by the CRA to confirm the beneficiary’s information and eligibility to claim the DTC and that these validations will be shared with the issuer; and
+
+- a statement to the primary caregiver(s) that the information they have given on the application form will be used to confirm the beneficiary’s information and eligibility to claim the DTC, and that these validations will be shared with the issuer.
+
+**85.** The **primary caregiver** is the person who is receiving the [Canada child benefit](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview.html) for a beneficiary when an RDSP is opened. A primary caregiver can also be the department, agency, or institution that receives the [children’s special allowance](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/childrens-special-allowances.html) for a beneficiary. The primary caregiver’s personal information is needed on the RDSP application form.
+
+#### Trust arrangement
+
+**86.** RDSP legislation allows for a one-trust, one-beneficiary arrangement. Subsection 146.4(1) of the ITA defines **plan trust** as the trust that is governed by the DSP. A one-trust, one-beneficiary arrangement is considered when the definition of plan trust is read together with the other provisions of section 146.4 of the ITA, in particular, the maximum amount of LDAPs in paragraph 146.4(4)(l), the right to transfer to another RDSP in paragraph 146.4(4)(o), the deregistration of the RDSP in subsection 146.4(10), and the various taxes in Part XI.01 of the ITA.
+
+### Issuer’s obligations
+
+**87.** If an entity becomes a holder of an RDSP after the plan is entered into, the issuer will forward electronic notification to Employment and Social Development Canada in prescribed form with prescribed information on or before the day that is 60 days after the later of:
+
+- the day on which the issuer is advised of the change in holder; and
+
+- the day on which the issuer is provided with the SIN or BN of the new holder.
+
+**88.** Before the issuer can make any changes to an already approved specimen plan, the RPD will need to review and approve any proposed amendments.
+
+**89.** If the issuer discovers that the RDSP is or will likely become non-compliant, the issuer will notify both the RPD and ESDC of this fact no later than 30 days after the issuer becomes aware of possible or real non-compliance. The issuer will exercise the care, diligence, and skill of a reasonably prudent person to minimize the possibility that a holder of an RDSP may become liable to pay tax under Part XI.01 of ITA in connection with the RDSP. If the issuer does not comply with these obligations, they are liable to penalties as stated in subsection 162(7) of the ITA.
+
+**90.** If the issuer enters into an RDSP agreement with a qualifying family member (QFM), the issuer will collect and use any information given by the holder(s) that is necessary to administer and operate the plan. The issuer will contact the beneficiary in writing to tell him or her that the plan was opened using the QFM measure and give information on how the holder(s) can be replaced as detailed in subsections 146.4(1.5) and (1.6) of the ITA.
+
+**91.** When a plan is opened by a QFM, a beneficiary can notify the issuer of the beneficiary’s intent to become the plan holder of his or her RDSP. If a competent tribunal, an authority under provincial law, or, after reasonable enquiry, the issuer determines the beneficiary to be contractually competent, the QFM will stop being the holder of the RDSP and the beneficiary will become the new plan holder.
+
+**92**. When a plan is opened by a QFM and an entity becomes legally authorized to act for the beneficiary, the entity must notify the issuer of this fact as soon as possible. Once the issuer is notified, the authorized entity will replace the QFM as plan holder.
+
+**93.** If the issuer makes a reasonable enquiry into the beneficiary's contractual competence before opening a DSP arrangement with a QFM and it is the issuer's opinion that the beneficiary's ability to enter into a contract is in doubt, the issuer will not be held liable for opening the arrangement with the QFM.
+
+#### Responsibility for the plan and the plan trust
+
+**94.** The issuer has the ultimate responsibility for the administration of the plan and the plan trust. Therefore, the issuer will make sure that the plan and the plan trust are administered in line with the rules of the ITA, the Income Tax Regulations, the CDSA, and the Canada Disability Savings Regulations.
+
+#### Third parties
+
+**95.** The ITA does not prohibit an issuer from entering into a contract with a third party. However, the issuer should be aware that there are obligations written into the Act that if not handled correctly, may result in monetary penalties to that issuer. These obligations are listed in subsection 146.4(13) of the ITA. A breakdown of the calculation process for the penalties can be found in subsection 162(7) of the ITA.
+
+### Amending the specimen plan
+
+**96.** When a specimen plan is amended, all RDSPs conforming to that specimen plan must also be amended and a copy of the new plan or a letter with the changes must be sent to all holders. All amendments or revisions to an approved specimen plan, including amendments required by legislative changes, must be sent to the RPD for approval before the amendments go into effect. The RPD must also be informed if the issuer changes. The notice of change of issuer must state the date the amendment goes into effect and whether existing plans will be amended. The RPD will let the issuer know when the amendment is approved under section 146.4 of the ITA. Although the issuer does not have to send a printed copy at this time, the RPD may ask for it later.
+
+### Ending a specimen plan
+
+**97.** The issuer must let the RPD know when there are no other outstanding RDSPs that conform to the specimen plan and the specimen plan is no longer being marketed. The RPD will then end the specimen plan and close all related files.
+
+### Deregistration
+
+#### Non-compliance
+
+**98.** If an RDSP becomes non-compliant at any time, it loses its registered status (except as discussed in 100). When the plan ceases to be registered, a DAP is deemed to have been made from the plan to the beneficiary or, if the beneficiary is deceased, to his or her estate. The deemed payment is equal to the amount by which the fair market value (FMV) of the plan’s assets exceeds the AHA. If a plan becomes deregistered because a DAP is made that results in the FMV of the assets being less than the AHA, an additional DAP is deemed to have been made to the beneficiary. The additional deemed payment is equal to the amount by which:
+
+1. the lesser of the AHA in relation to the plan and the FMV of the property held by the plan trust at the time of payment is greater than
+
+2. the FMV of the property held by the plan trust right after the payment. The non-taxable part of this additional payment will be considered zero.
+
+#### Conditions for non-compliance
+
+**99.** An RDSP is non-compliant if it fails to meet a condition found in subsection 146.4(4) of the ITA (see 82), or if it is not administered in line with its terms. An exception is made when the failure relates to the rule that the plan is to operate only for the benefit of the beneficiary. An RDSP is also non-compliant if a person fails to comply with a condition or obligation under the CDSA. At that time, ESDC considers the plan non-compliant and will notify the CRA.
+
+**100.** The CRA may, if it is just and equitable to do so, either 1) waive the condition that caused the plan to be deregistered or 2) defer the deregistration until later. If a plan’s deregistration happens as a result of a non-permissible contribution, and the contribution is taken out of the plan within a time period allowed by the CRA, i) the contribution is deemed never to have been made and ii) the withdrawal is deemed to not be a DAP. As stated in 82p), an RDSP has to be closed by the end of the year after the year the beneficiary dies or is no longer eligible to claim the DTC and the holder wishes to close the plan, whichever is earlier. If the RDSP is not closed because the issuer is not aware of the beneficiary’s death or there is uncertainty about that status, then the CRA may allow the plan to close at a later date.
+
+### Contract nullification
+
+**101.** Paragraph (c) of the definition of a disability savings plan (DSP) in subsection 146.4(1) of the ITA states that for an arrangement to be considered a DSP, it must be opened in a year in which the beneficiary is eligible to claim the DTC. For a DSP to then become an RDSP, all of the DSP conditions must first be met. If the beneficiary is not eligible to claim the DTC in the year in which the plan is opened, the DSP will not be registered. If this is the case, the arrangement between the holder and the issuer will be void. Holders can contact their RDSP issuer for more information on the procedure that follows a beneficiary not being eligible for the DTC in the year a plan is opened.
+
+This does not apply to a DSP arrangement that is opened by transfer from an RDSP.
+
+## Part III – Contact and additional information
+
+### Canada Revenue Agency
+
+**102.** You can find more information at [Savings and pension plan administration](https://www.canada.ca/en/services/taxes/savings-and-pension-plans/savings-and-pension-plan-administration.html).
+
+**By telephone**
+
+Toll-free in Canada and the United States: **1-800-267-3100**
+
+If you are calling from outside of Canada or the United States, call us collect at **613-221-3105**. The Registered Plans Directorate accepts collect calls.
+
+**By mail and courier**
+
+Due to a building refit spanning multiple years, the Registered Plans Directorate’s mailing address has been temporarily changed. Please use the following address for all correspondence until further notice:
+
+Registered Plans Directorate Canada Revenue Agency 2215 Gladwin Cres Ottawa ON K1B 4K9
+
+We welcome feedback on this newsletter. Send comments by email to **RPD.LPRA2@cra-arc.gc.ca**.
+
+### Employment and Social Development Canada
+
+**103.** For more information about the Canada Disability Savings Program, contact Employment and Social Development Canada.
+
+**Telephone:** General enquiries: **1-866-204-0357**
+
+**E-mail** RDSP-REEI@hrsdc-rhdcc.gc.ca
+
+**Website** For general information:
+
+[Registered Disability Savings Plan](https://www.canada.ca/en/employment-social-development/programs/disability/savings.html)
+
+For issuers:
+
+[InfoCapsules for RDSP providers](https://www.canada.ca/en/employment-social-development/programs/disability/savings/issuers/infocapsules.html)[RDSP Provider User Guide](https://www.canada.ca/en/employment-social-development/programs/disability/savings/issuers/user-guide.html)
+
+### Forms and publications
+
+**104.** Canada Revenue Agency forms and publications are available online to view, download, or order at **canada.ca/cra-forms**or by calling:
+
+- Individual Income Tax and Trust Enquiries English **1-800-959-8281** / French **1-800-959-7383** or
+
+- Business and Self-Employed Individuals Enquiries English **1-800-959-5525** / French **1-800-959-7775**
+
+**Forms**
+
+- [RC298 Advantage Tax Return for RRSP, TFSA, RDSP, or RESP issuers or RRIF Carriers](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc298.html)
+
+- [RC339 Individual Return for Certain Taxes for RRSPs, RRIFs, RESPs or RDSPs](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc339.html)
+
+- [RC435 Rollover from a Registered Education Savings Plan to a Registered Disability Savings Plan](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc435.html)
+
+- [RC4532 Individual Tax Return for Registered Disability Savings Plan (RDSP)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4532.html)
+
+- [RC4625 Rollover to a Registered Disability Savings Plan](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4625.html)
+
+- [T1024 Election to Deem a Proportional Holding in a Qualified Trust/Corporate Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1024.html)
+
+- [T2201 Disability Tax Credit Certificate](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2201.html)
+
+- [T3F Investments Prescribed to be Qualified Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3f.html)
+
+- [T3GR Group Income Tax and Information Return for RRSP, RRIF, RESP, or RDSP Trusts](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3gr.html)
+
+- [T5 Statement of Investment Income](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5.html)
+
+**Publications**
+
+- [RC4460 Registered Disability Savings Plan](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4460.html)
+
+- [RC4157 Deducting Income Tax on Pension and Other Income, and Filing the T4A Slip and Summary](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4157.html)
+
+- [RC4064 Medical and Disability-Related Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4064.html)
+
+- [T4013 T3 – Trust Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013.html)
+
+- [IC78-14R4 Guidelines for trust companies and other persons responsible for filing T3GR, T3D, T3P, T3S, T3RI, and T3F returns](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-14.html)
+
+- [Income Tax Folio S3-F10-C1, Qualified Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html)
+
+- [Income Tax Folio S3-F10-C2, Prohibited Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html)
+
+- [Income Tax Folio S3-F10-C3, Advantages – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html)
+
+### Initialisms and acronyms
+
+**105.** Below is a list of initialisms and acronyms used in this document.
+
+| Initialisms/Acronyms | Expansion |
+
+| --- | --- |
+
+| AHA | assistance holdback amount |
+
+| BN | business number |
+
+| CDSA | Canada Disability Savings Act |
+
+| CDSPS | Canada disability savings program system |
+
+| CRA | Canada Revenue Agency |
+
+| DAP | disability assistance payment |
+
+| DSP | disability savings plan |
+
+| DTC | disability tax credit |
+
+| ESDC | Employment and Social Development Canada |
+
+| FMV | fair market value |
+
+| ITA | Income Tax Act |
+
+| LDAP | lifetime disability assistance payment |
+
+| PGAP | primarily government-assisted plan |
+
+| QFM | qualifying family member |
+
+| RDSP | registered disability savings plan |
+
+| RESP | registered education savings plan |
+
+| RRIF | registered retirement income fund |
+
+| RRSP | registered retirement savings plan |
+
+| SDSP | specified disability savings plan |
+
+| SIN | social insurance number |

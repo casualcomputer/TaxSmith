@@ -1,0 +1,19 @@
+Title: RC4092 Registered Education Savings Plans (RESP)
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4092.html
+Corpus path: corpus/cra/forms-publications/publications/rc4092.md
+Document type: publication
+Last modified: 2026-02-03
+
+# RC4092 Registered Education Savings Plans (RESP)
+
+This page provides information for individuals on RESPs.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [rc4092-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4092/registered-education-savings-plans-resps.html)
+
+    - PDF [rc4092-25e.pdf](/content/dam/cra-arc/formspubs/pub/rc4092/rc4092-25e.pdf)
+
+- Ask for an alternate formatYou can order a digital audio, e-text, braille or large print version of this publication to be sent to you by mail.[Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html)

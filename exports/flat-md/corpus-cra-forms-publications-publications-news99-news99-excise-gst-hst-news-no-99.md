@@ -1,0 +1,588 @@
+---
+title: "ARCHIVED - Excise and GST/HST News - No. 99"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news99/news99-excise-gst-hst-news-no-99.html
+last_modified: 2016-06-24
+---
+# ARCHIVED - Excise and GST/HST News - No. 99
+
+## Table of Contents
+
+- [Federal Budget 2016](#_Toc453072700)
+
+- [Simplified reporting of certain grandparented housing sales](#_Toc453072701)
+
+- [GST/HST on charitable donations](#_Toc453072702)
+
+- [Harmonized sales tax (HST) rate increases](#_Toc453072703)
+
+    - [New Brunswick HST increase](#_Toc453072704)
+
+    - [Newfoundland and Labrador HST increase](#_Toc453072705)
+
+    - [Prince Edward Island HST increase](#_Toc453072706)
+
+- [Stand-alone courses and definition of vocational school](#_Toc453072707)
+
+- [Involvement of investment dealers or brokers in the distribution of private placements](#_Toc453072708)
+
+- [Assignment of conditional sales contracts and commission fees](#_Toc453072709)
+
+- [Public service bodies’ rebate calculation for charities and qualifying non-profit organizations (NPOs)](#_Toc453072710)
+
+- [Application of the GST/HST to Métis and non-status Indians](#_Toc453072711)
+
+- [Tla’amin Final Agreement](#_Toc453072712)
+
+- [Late-filed new housing rebate applications](#_Toc453072713)
+
+- [Changes to line 101 on the GST34-3, Goods and Services Tax/Harmonized Sales Tax (GST/HST) electronic return](#_Toc453072714)
+
+- [Online mail](#_Toc453072715)
+
+- [Online filing for Canadian businesses dealing with excise duty, excise tax, and the air travellers security charge](#_Toc453072716)
+
+- [Prescribed rates of interest](#_Toc453072717)
+
+- [What’s new in publications](#_Toc453072718)
+
+- [Contact us](#_Toc453072719)
+
+## Federal Budget 2016
+
+On March 22, 2016, the Minister of Finance tabled Budget 2016 which proposed to amend the Excise Tax Act and the Excise Act, 2001. Budget 2016 also confirmed the Government’s intention to proceed with certain previously announced measures relating to the GST/HST. See the March 22, 2016, Department of Finance News Release for related information.
+
+Many of the proposed measures have been included in [Bill C-15, Budget Implementation Act, 2016 No.1](https://www.parl.ca/LegisInfo/en/bill/42-1/c-15), which received Royal Assent on June 22, 2016, and is now referred to as Statutes of Canada, 2016, c. 7. Bill C-15 also incorporates some previously announced measures.
+
+The measures included in Bill C-15 amend the [Excise Tax Act](http://laws-lois.justice.gc.ca/eng/acts/E-15/index.html) and the [Excise Act, 2001](http://laws-lois.justice.gc.ca/eng/acts/E-14.1/index.html) in the following ways:
+
+***Excise Tax Act* GST/HST measures**
+
+- adding insulin pens and insulin pen needles, and intermittent urinary catheters when provided under certain conditions, to the list of GST/HST zero-rated medical and assistive devices. For more information see GST/HST [Notice295, Questions and Answers on the Proposed GST/HST Treatment of Insulin Pens and Insulin Pen Needles](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice295.html), and [Notice296, Questions and Answers on the Proposed GST/HST Treatment of Intermittent Urinary Catheters](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice296.html);
+
+- clarifying that the GST/HST generally applies to supplies of purely cosmetic procedures provided by all suppliers, including registered charities;
+
+- adding a relieving provision to ensure that when a charity makes a taxable supply of property or services in exchange for a donation and an income tax receipt may be issued for a portion of the donation, only the value of the property or services supplied is subject to the GST/HST (see the article on this topic below);
+
+- ensuring that interest earned in respect of certain deposits is not included in the $1,000,000 threshold for determining whether a person is considered to be a *de minimis* financial institution for GST/HST purposes;
+
+- clarifying the treatment of imported reinsurance services under the GST/HST imported supply rules for financial institutions;
+
+- adding feminine hygiene products to the list of GST/HST zero-rated products. This measure was first tabled on May 28, 2015, in the [Notice of Ways and Means Motion Concerning GST/HST and Feminine Hygiene Products](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/federal-government-budgets/budget-2015-strong-leadership/notice-ways-means-motion-concerning-gst-hst-feminine-hygiene-products-questions-answers.html); and
+
+- permitting the sharing of taxpayer information in respect of non-tax debts within the Canada Revenue Agency (CRA) under certain federal and provincial government programs and in respect of certain programs where information sharing is currently permitted under the *Income Tax Act*. This measure was first announced on April 21, 2015, in [Budget 2015](http://www.budget.canada.ca/2015/docs/nrc/2015-04-21-eng.html).
+
+***Excise Tax Act* excise tax measures**
+
+- ensuring that the excise tax relief for heating oil applies only to diesel fuel that is consumed exclusively for providing heat to a home, building or similar structure, and is not consumed to generate heat in an industrial process;
+
+- removing the generation of electricity exemption for diesel fuel used in or by a vehicle, including a conveyance attached to the vehicle, of any mode of transportation. For more detailed information see [Excise Taxes and Special Levies Notice ETSL77, Budget 2016 – Restricting the Relief of Excise Tax on Diesel Fuel and Aviation Fuel](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/etsl77.html).
+
+***Excise Act, 2001* measures**
+
+- enhancing certain security provisions in the *Excise Act, 2001* to increase the maximum amount of security that must be provided and maintained, as well as amendments to the *Regulations Respecting Excise Licences and Registrations* and *Stamping and Marking of Tobacco Products Regulations*. For more detailed information, see Excise Duty Notice EDN41, Budget 2016 – Enhancing Certain Security and Collection Provisions in the Excise Act, 2001;
+
+- enhancing certain collection provisions in the *Excise Act, 2001* to give the Minister the authority to require security for payment of assessed amounts and penalties in excess of $10 million that are not otherwise collected under the Act; and
+
+- permitting the sharing of confidential information in respect of non-tax debts within the CRA under certain federal and provincial government programs and in respect of certain programs where information sharing is currently permitted under the *Income Tax Act*. This measure was first announced on April 21, 2015, in [Budget 2015](http://www.budget.canada.ca/2015/docs/nrc/2015-04-21-eng.html).
+
+The following proposed GST/HST measures were announced in Budget 2016 but are **not** included in Bill C-15:
+
+- amendments to the *Electronic Filing and Provision of Information (GST/HST) Regulations* to simplify the reporting of certain sales of grandparented housing (an article discussing this in more detail follows below) - corresponding transitional rules have been enacted in the [Regulations Amending Various GST/HST Regulations, No. 8 (SOR 2016/119)](http://gazette.gc.ca/rp-pr/p2/2016/2016-06-15/html/sor-dors119-eng.php);
+
+- zero-rating exported call centre services supplied to non-resident businesses that are not registered for GST/HST purposes where the supplier expects that the technical or customer support service is to be rendered primarily to individuals who are outside Canada at the time the support is rendered; and
+
+- amendments to add “qualifying voting control” of a particular corporation to the closely related test for purposes of the elections under sections 150 and 156, as well as certain other provisions of the *Excise Tax Act*.
+
+## Simplified reporting of certain grandparented housing sales
+
+A builder that sells grandparented housing in British Columbia, Nova Scotia, Ontario, or Prince Edward Island is required to report certain information if the sale is a “specified housing supply”. Builders are generally required to report the total number of their specified housing supplies for which the GST or federal part of the HST became payable in a reporting period and the total consideration for those supplies (that is, transitional information) on lines 1100 and 1101 of Schedule A, *Builders – Transitional Information*, of their GST/HST NEFTILE return for the reporting period.
+
+The original definition of “specified housing supply” in section 1 of the *Electronic Filing and Provision of Information (GST/HST) Regulations*refers to a sale of grandparented housing where the purchaser is not entitled to claim a GST/HST new housing rebate or a GST/HST new residential rental property rebate in respect of the GST or federal part of the HST payable on the sale, regardless of the reason for the purchaser’s ineligibility. Budget 2016 changes the definition of “specified housing supply” such that it now refers only to a sale of grandparented housing to a person where the total consideration for the sale, including consideration for any other taxable supply made to the person of an interest in the grandparented housing, is $450,000 or more. The new definition makes it easier for builders to identify their sales of grandparented housing that meet the definition of a “specified housing supply”, thereby making it simpler for them to report the transitional information in respect of such supplies. The new definition applies beginning with the reporting period of a builder that includes March 23, 2016, and for all future reporting periods.
+
+However, Budget 2016 also proposed a new election that allows a person, such as a builder, that makes specified housing supplies for which the GST or federal part of the HST became payable after June 2010 and before May 2016 to use the new definition of “specified housing supply” to report the transitional information for their previous specified housing supplies. The election is an opportunity for a person to report previously unreported transitional information and/or fix mistakes they may have made when they previously reported transitional information in respect of specified housing supplies without incurring a penalty for not previously reporting, or for misreporting, that transitional information. It should be noted that the penalties for not reporting, or for misreporting, the transitional information may be significant.
+
+The election can be filed by a person, such as a builder, that made specified housing supplies for which the GST or federal part of the HST became payable after June 2010 and before May 2016. The election is available for a short period of time. It has to be filed for a reporting period of the person that ends on or after May 1, 2016 and before January 1, 2017, or if no period ends during this period, the first reporting period that ends after December 31, 2016. The election has to be filed on or before the due date of the GST/HST return for the reporting period for which the election is made.
+
+A person should file the election using new Form RC4617, Election and Schedule to a Return for Simplified Reporting of Specified Housing Supplies.
+
+More information can be found in [GST/HST Notice294, Questions and Answers on Simplified Reporting of Specified Housing Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice294.html) or by calling 1-800-959-8287.
+
+## GST/HST on charitable donations
+
+The GST/HST is generally imposed on the value of the consideration for a taxable supply of property or a service made in Canada. The GST/HST does not apply to a donation if the donor receives nothing in return. However, if the person receiving the donation makes a supply of property or a service in exchange for a donation, the donation is consideration for the supply of the property or service. Under the existing rules, the entire amount of the donation must then be used to calculate any GST/HST payable in respect of the supply. If the donor receives property or a service having nominal value in exchange for the donation, the donation is not subject to the GST/HST.
+
+[Bill C-15, Budget Implementation Act, 2016 No.1](https://www.parl.ca/LegisInfo/en/bill/42-1/c-15) contains an amendment intended to bring the GST/HST treatment of charitable donations into line with their treatment under the split-receipting rules in the Income Tax Act. This amendment is a relieving change to provide that when a charity or public institution makes a taxable supply of property or a service in exchange for a donation and when an income tax receipt may be issued for a portion of the donation, only the value of the property or services supplied will be subject to the GST/HST.
+
+The amendment applies in the following circumstances:
+
+- the supplier is a charity or a public institution;
+
+- the charity or public institution makes a taxable supply of property or a service;
+
+- the value of the property or service is included in determining the amount of the advantage in respect of a gift for income tax purposes; and
+
+- an official donation receipt may be issued for income tax purposes in respect of part of the consideration for the supply (i.e., in respect of part of the donation), or could be issued if the donor were an individual.
+
+Where the amendment applies, the value of the consideration for the supply of the property or service made by the charity or public institution is deemed to be the fair market value of the property or service. It does not apply to exempt supplies made by a charity or public institution, such as certain supplies of admissions to a fund-raising event.
+
+The amendment applies to any supply made after March 22, 2016. In addition, where a charity or public institution did not collect the GST/HST on the full value of a donation made in exchange for a taxable (other than zero-rated) supply of property or a service made after December 20, 2002 (when the income tax split-receipting rules came into effect) and on or before March 22, 2016, transitional rules apply.
+
+For a supply made after December 20, 2002 and on or before March 22, 2016, there are three possibilities:
+
+- If the charity or public institution charged, collected or remitted the correct amount of tax under the old rules, that is, on the full amount received from the donor, no adjustment is required or permitted.
+
+- If the charity or public institution charged less than the correct amount of tax in accordance with the old rules, or did not charge, collect or remit an amount as or on account of tax, and the fair market value of the property or service supplied by the charity or public institution is $500 or more, the amendment applies retroactively and the GST/HST applies to the fair market value of the property or service.
+
+- If the charity or public institution charged less than the correct amount of tax in accordance with the old rules, or did not charge, collect or remit an amount as or on account of tax, and the fair market value of the property or service supplied by the charity or public institution is less than $500, the supply is deemed to have been made for no consideration. However, if a charity or public institution has charged some tax in respect of a supply made to a donor, the donor would not be entitled to a rebate or refund for tax paid.
+
+For supplies made on or after March 23, 2016, a charity or public institution that is a GST/HST registrant has to collect the GST/HST in accordance with the amendment regardless of the fair market value of the property or service supplied.
+
+On May 1, 2016, a charity that is a GST/HST registrant makes a taxable supply of a T-shirt with a fair market value of $20 in return for a $50 donation. The supply of the T-shirt is made in Alberta. The charity may issue an official donation receipt for income tax purposes. The amendment applies to deem the value of the consideration for the supply of the T-shirt to be its fair market value, $20. Therefore, the charity must collect and remit $1.00 GST on the supply of the T-shirt ($20 × 5%). The charity may charge the $1.00 GST in addition to the $50 donation, or it may treat the $50 donation as GST/HST inclusive. If the charity treats the $50 donation as **GST/HST exclusive**, it may issue a $30 official donation receipt for income tax purposes. If the charity treats the $50 donation as **GST/HST inclusive**, the amount of the GST/HST payable reduces the eligible amount of the gift for income tax purposes. In that case, the charity may issue a $29 official donation receipt for income tax purposes.
+
+### Example 2
+
+A ballet company that is a charity that is a GST/HST registrant makes supplies of admissions to ballet performances throughout the year. On January 1, 2016, an individual contributed $1,000 to the charity and in return received an admission with a fair market value of $200. The charity issued an $800 official donation receipt for income tax purposes. The supply of the admission made by the charity to the individual is taxable as no exempting provision applies. The charity did not collect any GST/HST in respect of the supply. The supply of the admission was made in Ontario. As the supply of the admission was made after December 20, 2002 and on or before March 22, 2016, and the fair market value of the admission is less than $500, the transitional rules apply to deem the supply to have been made for no consideration. Therefore, the charity is not required to collect or remit the GST/HST in respect of the supply of the admission. If the charity makes similar supplies on or after March 23, 2016, it has to collect and remit $26.00 HST on the supply of the admission ($200 × 13%).
+
+### Example 3
+
+A public institution makes a supply of an admission to a fund-raising ball for $150. The public institution may issue a $100 official donation receipt for income tax purposes in respect of part of the admission price. This supply is exempt, as a supply made by a charity or public institution of an admission to a fund-raising dinner, ball, concert, show or like fund-raising events is exempt where part of the consideration for the supply qualifies for a charitable donation receipt for income tax purposes. Therefore, the amendment has no impact on this transaction. The entire $150 ticket price is exempt from the GST/HST.
+
+### Example 4
+
+An individual donates $100 to a charity and in return receives a pen valued at $2. The charity may issue an official donation receipt for income tax purposes for the full $100, because the value of the pen is considered too minimal to affect the amount of the gift. The donation is not subject to the GST/HST.
+
+## Harmonized sales tax (HST) rate increases
+
+### New Brunswick HST increase
+
+On February 2, 2016, the Minister of Finance for New Brunswick tabled the [Provincial Budget 2016‑2017](http://www2.gnb.ca/content/gnb/en/departments/finance/budget/2016-2017/budget.html). Among other proposed measures, the Budget announced an increase to the provincial part of the HST by 2%. Effective July 1, 2016, the HST rate in New Brunswick would be 15%, of which 5% would represent the federal part and 10% the provincial part.
+
+On March 30, 2016, the [Department of Finance, New Brunswick](http://www2.gnb.ca/content/gnb/en/departments/finance.html), announced proposed transitional rules for the HST rate increase effective July 1, 2016. Transitional rules are used to determine which tax rate – the existing HST rate of 13% or the new HST rate of 15% – would apply in respect of transactions that straddle the July 1, 2016 effective date. These transitional rules have been enacted in the [Regulations Amending Various GST/HST Regulations, No. 8 (SOR 2016/119)](http://gazette.gc.ca/rp-pr/p2/2016/2016-06-15/html/sor-dors119-eng.php).
+
+### Newfoundland and Labrador HST increase
+
+On April 14, 2016, the Minister of Finance for Newfoundland and Labrador, tabled the [Provincial Budget 2016](http://www.budget.gov.nl.ca/budget2016/default.htm). Among other proposed measures, the Budget announced an increase to the provincial part of the HST by 2%. Effective July 1, 2016, the HST rate in Newfoundland and Labrador would be 15% of which 5% would represent the federal part and 10% the provincial part.
+
+On May 3, 2016, the [Government of Newfoundland and Labrador](http://www.fin.gov.nl.ca/fin/tax_programs_incentives/personal/hst.html) announced proposed transitional rules the HST rate increase effective July 1, 2016. [Transitional rules](http://www.fin.gov.nl.ca/fin/tax_programs_incentives/personal/transitional_rules.html) are required to set out which tax rate – the existing HST rate of 13% or the new rate of 15% – would apply in respect of certain transactions that straddle the July 1, 2016 effective date. These transitional rules have been enacted in the [Regulations Amending Various GST/HST Regulations, No. 8 (SOR 2016/119)](http://gazette.gc.ca/rp-pr/p2/2016/2016-06-15/html/sor-dors119-eng.php).
+
+### Prince Edward Island HST increase
+
+On April 19, 2016, the Minister of Finance for Prince Edward Island tabled the [Provincial Budget 2016](http://www.gov.pe.ca/budget/). Among other proposed measures, the Budget announced an increase to the provincial part of the HST by 1%. Effective October 1, 2016, the HST rate in Prince Edward Island would be 15%, of which 5% would represent the federal part and 10% the provincial part. [Transitional rules](http://www.gov.pe.ca/finance/index.php3?number=news&newsnumber=10842&dept=&lang=E) were announced on June 16, 2016.
+
+## Stand-alone courses and definition of vocational school
+
+Section 8 of Part III of Schedule V to the [Excise Tax Act](http://laws-lois.justice.gc.ca/eng/acts/E-15/index.html) (the Act) generally provides that governments, vocational schools, school authorities, universities or public colleges may supply services of instructing individuals in courses exempt of GST/HST where the courses lead to certificates, diplomas, licences or similar documents that attest to the competence of individuals to practise or perform a trade or vocation.
+
+To be exempt under section 8, courses supplied by a vocational school, as well as other institutions previously noted, must be supplied to individuals and must be part of a program leading to certificates, diplomas, licences or similar documents that attest to the competence of the individuals to practise or perform a trade or vocation. Therefore, stand-alone courses that do not lead to documents that attest to the competence of individuals to practise or perform a trade or vocation would not be exempt under section 8 even if such courses may be beneficial to the individuals and in some cases part of their job requirement. Similarly, courses offered by an organization and that occur only during a brief, concentrated period of time, such as a day or several consecutive days, would not be exempt under section 8 as the courses would not offer a progression and depth of learning that would lead to a diploma or certification of competence to practise or perform a specific trade or vocation.
+
+For an organization to be considered a vocational school, and thus be treated in a manner similar to a public college or similar institution for certain GST/HST exempting provisions, including section 8 of Part III of Schedule V to the Act, it must be established and operated primarily to provide students with correspondence courses, or instruction in courses, that develop or enhance students’ occupational skills.
+
+Generally, vocational schools have all or some of the following characteristics:
+
+- The organization is normally a corporation or an unincorporated association of some type. However, in some cases, the organization could be made up of a single individual.
+
+- The organization identifies or advertises itself as a school and is known publicly as a school.
+
+- The organization offers courses or programs following a scheduled curriculum under which the courses progress in the depth of learning from semester to semester.
+
+- The organization has a regularly enrolled student body which forms a class or classes.
+
+- The organization is paid by the students, or their parents if the students are under the provincial age of majority (or by another person on their behalf), for the service of instruction they receive.
+
+- The organization owns, rents or leases a place from where students are provided correspondence courses or instruction in courses.
+
+Health and safety legislation such as that administered by a provincial worker’s compensation authority requires certain occupations to maintain first aid certification. Business A sets itself up to provide basic first aid training. Business A markets its classes as helping workplaces comply with both federal and provincial/territorial occupational health and safety legislation. The first aid courses offered by Business A generally take place over a one or two day period.
+
+Business A would not meet the definition of a vocational school as it is not established and operated primarily to provide courses that develop or enhance an individual’s occupational skills; rather it was established to provide “one-off” courses that satisfy health and safety legislation. This is supported by the fact that the courses offered do not lead to certificates or diplomas or other documents that attest to the competence of an individual to practise or perform a trade or vocation. Therefore, section 8 of Part III of Schedule V to the Act will not apply.
+
+### Example 2
+
+Business B sets itself up to provide first aid training and other courses as part of its Health Care Assistant Program leading to a certification of competence to practise as a Health Care Assistant. Business B is registered provincially as a vocational school and markets itself as providing the individual with the specialized training needed to work as an intermediate or extended caregiver. The program takes about 30 weeks to complete.
+
+Business B would meet the definition of a vocational school as it is established and operated primarily to provide a program of courses that develop or enhance an individual’s occupational skills. In addition Business B is registered provincially as a vocational school and markets itself as a school that provides career training. In this instance, section 8 of Part III of Schedule V to the Act will apply to all of the courses provided by Business Bunder the Health Care Assistant Programas the courses lead to a diploma that attests to the competence of the individual to practise or perform a trade or vocation.
+
+## Involvement of investment dealers or brokers in the distribution of private placements
+
+An investment dealer or broker may facilitate the distribution of private placements by assisting the issuer of the private placement to locate investors, and by performing functions such as ensuring documents are complete, payments are processed and share certificates are issued.
+
+Where an investment broker provides a number of services or property and services, it must first be determined whether the investment broker is providing a single supply or multiple supplies. [GST/HST Policy Statement P-077R2, Single and Multiple Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-077r2.html) provides additional information on this matter.
+
+If it is determined that a single supply is being provided, the predominant element of that supply must be established to determine the nature of the supply. This determination will generally be based on written agreements between the investment broker providing the service and the investment broker’s client, detailing the actions, responsibilities and obligations of the investment broker in connection with the supply. Additional information relevant for making such a determination is provided in [GST/HST Technical Information Bulletin, B-105, Changes to the Definition of Financial Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-105.html).
+
+To determine if an investment broker facilitating the distribution of private placements is “arranging for” a financial service under paragraph (l) of the definition of “financial service” in subsection 123(1) of the [Excise Tax Act](http://laws-lois.justice.gc.ca/eng/acts/E-15/index.html), some of the factors to examine are the effort and time expended by the investment broker and the extent to which these steps result in a supply consisting of the transfer of ownership of a financial instrument from the issuer to the investor, in which the investment broker is directly involved and relied upon. There is no single factor that is determinative. For example, a service provided by an investment broker is not “arranging for” only because the investment broker is the only point of contact between the issuer and the investor.
+
+If the investment broker is providing a service that is preparatory to the provision of a service that results in the transfer of ownership of a financial instrument, the investment broker’s service would fall within paragraph (r.4) of the definition and, therefore, would not be a financial service.
+
+## Assignment of conditional sales contracts and commission fees
+
+Purchasers frequently enter into conditional sales contracts with automobile dealers for the purchase of automobiles. These dealers earn commission fees when they subsequently assign these contracts to financial institutions.
+
+The CRA considers a conditional sales contract to be a “debt security” and a “financial instrument” as it represents a right to be paid money. When the conditional sales contract is assigned to a third party, such as a financial institution, the third-party is acquiring the right to receive the stream of payments from the purchaser. The assignment of these rights is a financial service and is exempt from the GST/HST.
+
+Any fee or commission received by the automobile dealer as the assignor from the third party i.e., the assignee, would generally form part of the consideration received for the assignment of the conditional sales contract, and therefore would not be subject to the GST/HST as the assignment of the conditional sales contract is an exempt financial service.
+
+It is important to note that the above position specifically relates to commission fees for assignments of conditional sales contracts. It remains the CRA’s position that in situations where a vendor receives a referral fee for assisting a customer in obtaining a loan from a third party under a financing contract, it is necessary to determine whether the vendor is “arranging for” a service referred to in any of paragraphs (a) to (i) and not referred to in any of paragraphs (n) to (t) of the definition of “financial service” in subsection 123(1) of the Act and, if so, whether that financial service is the predominant element of the supply.
+
+For example, where a vendor provides the purchaser with a loan application, helps the purchaser complete the application, verifies the information entered on the application, and forwards the application to a financial institution, the services provided by the vendor are preparatory to the provision of a financial service and are therefore taxable. In such cases, the vendor would be required to charge the GST/HST in respect of any referral fees paid to the vendor by the financial institution. Additional examples of the GST/HST implications of such referral fees may be found in [GST/HST Technical Information Bulletin B-105, Changes to the Definition of Financial Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-105.html).
+
+## Public service bodies’ rebate calculation for charities and qualifying non-profit organizations (NPOs)
+
+The CRA has recently published a series of 16 [GST/HST Info Sheets](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst/gst-hst-info-sheets.html) specifically for charities and qualifying NPOs that are not selected public service bodies to aid with the calculation of their public service body rebates (PSB rebates) using the “regular method”.
+
+The series of [GST/HST info sheets GI-172 through to GI-187](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst/gst-hst-info-sheets.html) includes specific info sheets for charities and qualifying NPOs resident in each participating province, info sheets for charities and qualifying NPOs resident only in non-participating provinces, and info sheets for charities and qualifying NPOs resident in two or more provinces (one of which is a participating province).
+
+## Application of the GST/HST to Métis and non-status Indians
+
+On April 14, 2016, the Supreme Court of Canada’s decision in [Daniels v. Canada (Indian Affairs and Northern Development), 2016 SCC 12](http://www.canlii.org/en/ca/scc/doc/2016/2016scc12/2016scc12.html), declared that Métis and non-status Indians are “Indians” for the purpose of the federal Parliament’s law-making jurisdiction under subsection 91(24) of the Constitution Act, 1867.
+
+The Daniels decision does not grant the Métis or non-status Indians any specific rights or status as “Indians” under the [Indian Act](http://laws-lois.justice.gc.ca/eng/acts/I-5/index.html). As a result, the Daniels decision does not impact the entitlement to tax relief under section 87 of the Indian Act.
+
+The tax relief described in [GST/HST Technical Information Bulletin B-039, GST/HST Administrative Policy - Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html), does not extend to the Métis, Inuit or non-status Indians, or their governing bodies, and the CRA will continue to apply and administer the Indian Act tax exemption in the same way it did prior to the Daniels decision, and as described in GST/HST Technical Information Bulletin B-039.
+
+## Tla’amin Final Agreement
+
+Tla’amin Nation has ratified the Tla’amin Final Agreement and became self-governing effective April 5, 2016.
+
+The Sliammon Indian band ceased to exist as an Indian band under the *Indian Act*. Tax relief provided to the former band under [Technical Information Bulletin B-039, GST/HST Administrative Policy – Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html) no longer applies as of April 5, 2016.
+
+The Tla’amin Nation that replaces the Sliammon Indian band is not a “band” under the *Indian Act* and is therefore not eligible for tax relief under section 87 of the *Indian Act*.
+
+Under the Tla’amin Final Agreement, section 87 of the *Indian Act* tax relief will cease to apply to Tla’amin citizens. However, the Tla’amin Final Agreement provides for a transitional period during which Indian citizens of the Tla’amin Nation will still be entitled to tax relief under section 87 of the *Indian Act*. Where the conditions of B-039 are met, tax relief of the GST/HST continues to be available up to and including April 30, 2024 for the Indian citizens of the Tla’amin Nation.
+
+**GST self-government refund**
+
+The Tla’amin Tax Treatment Agreement (TTA) came into effect on April 5, 2016. The TTA provides for a 100% refund of that portion of the GST or federal part of the HST paid on goods and services acquired by the Tla’amin Nation and their eligible entities provided that input tax credits are not available and the other eligibility conditions are met.
+
+For more information please see [GST/HST Notice293, Tla'amin Nation - Ratification of Final Agreement](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice293.html).
+
+## Late-filed new housing rebate applications
+
+Under paragraph 256(3)(b) of the *Excise Tax Act*, the Minister may allow a late-filed new housing rebate application for owner-built housing (that is, Form GST191) when extraordinary circumstances beyond an individual’s control have prevented the individual from filing the rebate application on or before the due date. Such extraordinary circumstances may include:
+
+- natural or human-made disasters, such as flood, heavy storms, or fire;
+
+- civil disturbances or disruptions in services, such as strikes or demonstrations;
+
+- serious illness or accident; or
+
+- serious emotional or mental distress, caused by death, serious illness or accident in the immediate family, marital separation, or loss of employment.
+
+The provision to allow a late-filed new housing rebate application only applies to Form [GST191, GST/HST New Housing Rebate Application for Owner-Built Houses.](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst191.html) The provision does not apply to Form GST190, GST/HST New Housing Rebate Application for Houses Purchased from a Builder, or to Form GST524, GST/HST New Residential Rental Property Rebate Application. For more information on late-filed new housing rebate applications, see [Guide RC4028, GST/HST New Housing Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4028.html).
+
+## Changes to line 101 on the GST34-3, Goods and Services Tax/Harmonized Sales Tax (GST/HST) electronic return
+
+As part of its ongoing effort to better serve businesses and simplify its electronic services, starting May 16, 2016, the CRA changed the way registrants can report sales and other types of revenues on line 101 of the [GST34-3, Goods and Services Tax/Harmonized Sales Tax (GST/HST) Electronic Filing Information for TELEFILE and NETFILE clients](https://www.canada.ca/en/revenue-agency/services/forms-publications/request-payment-forms-remittance-vouchers.html).
+
+If a registrant has sales that include zero-rated supplies made in Canada, exempt supplies and zero-rated exports, the registrant can now report these amounts separately on its electronic GST/HST return. Before May 16, 2016, a registrant reported all these amounts on line 101. This change will let the CRA determine a registrant’s filing frequency and mandatory electronic filing requirements (when applicable).
+
+In the past, if a registrant was required to file electronically or report more frequently due to the inclusion of sales and revenues from non-taxable or zero-rated exports reported on line 101, the registrant would have had to contact the CRA to get its filing frequency corrected. The introduction of lines 90, 91 and 102 will help prevent these types of situations moving forward.
+
+**What changed for businesses that report zero-rated supplies made in Canada, exempt supplies and zero-rated exports**
+
+Three new lines are available:
+
+- Line 90 will be for reporting taxable sales (including zero-rated supplies) made in Canada.
+
+- Line 91 will be for reporting exempt supplies, zero-rated exports, and other sales and revenue.
+
+- Line 102 will be for reporting associates’ taxable sales (including zero-rated supplies) made in Canada when applicable.
+
+A registrant or its authorized representative must select a box on the first page of the GST/HST NETFILE screen to confirm that the registrant wants to report these types of sales and revenue.
+
+“Help text” will be available by selecting the corresponding blue “?” button for each new line. The help text will provide a description of what is to be reported on each particular line.
+
+## Online mail
+
+Stuck in the paper clutter? Register for online mail and receive your CRA mail electronically in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html). When you sign up for this service, the CRA will send an email notification when new mail is available to view in your secure digital space. New this year, you as a business owner, or your authorized representative can sign up for this service by entering an email address when filing a GST/HST NETFILE return.
+
+Be sure to be registered for [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html). Not only will you be able to view your notices, statements, and letters from the CRA online, you will also be able to view account balances, adjust prior returns, and much more! If you are an authorized representative, register or log in to [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html) to access [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html).
+
+## Online filing for Canadian businesses dealing with excise duty, excise tax, and the air travellers security charge
+
+Businesses dealing with excise duty, excise tax, and the air travellers security charge can streamline filing returns and refund/rebate applications by submitting the following forms online through [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html):
+
+**Excise duty:**
+
+- B256, *Excise Act, 2001* – Application for Refund/Deduction
+
+- B261, Excise Duty Return – Duty Free Shop
+
+- B262, Excise Duty Return – Excise Warehouse Licensee
+
+- B263, Excise Duty Return – Licensed User
+
+- B265, Excise Duty Return – Wine Licensee
+
+- B266, Excise Duty Return – Spirits Licensee
+
+- B267, Excise Duty Return – Tobacco Licensee
+
+- K50B, Excise Duty Return - Brewer
+
+- N10, *Excise Act* – Application for Refund/Drawback
+
+**Excise tax:**
+
+- B200, Excise Tax Return
+
+- N15, *Excise Tax Act* – Application for Refund/Rebate
+
+- XE8, *Excise Tax Act* – Application for Refund of Federal Excise Tax on Gasoline
+
+**Air travellers security charge:**
+
+- B249, Air Travellers Security Charge Return
+
+- B254, *Air Travellers Security Charge Act* – Application for Refund
+
+For information about online filing, go to [www.cra.gc.ca/mybusinessaccount](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) and select “What can I do on My Business Account?”.
+
+Canadian businesses dealing with excise duty, excise tax, and the air travellers security charge can also use online mail to manage their correspondence. When you sign up for online mail, the CRA will send you an email when eligible notices, letters, and statements are available to view in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) instead of mailing the documents to you.
+
+For information about online mail, go to [www.cra.gc.ca/businessonline](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html) and, under “Request,” select the Online mail option.
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from July 1, 2016 to September 30, 2016, on overdue amounts payable to the Minister is 5%. The prescribed annual rate of interest on amounts owed by the Minister (i.e., rebates or refunds) is 1% for corporate taxpayers and 3% for non-corporate taxpayers. These rates are applicable to income tax, excise tax, the softwood lumber products export charge, GST/HST, the air travellers security charge (ATSC) and excise duty on wine, spirits and tobacco.
+
+The prescribed annual rate of interest respecting excise duty on beer, on overdue amounts payable for the indicated period, is set at 3%. Refund interest rates are not applicable for amounts owed by the Minister (i.e., rebates or refunds) for excise duty that is in relation to beer.
+
+|  | GST/HST, Excise Tax, Softwood Lumber Products Export Charge, Excise Duty (wine, spirits, tobacco), ATSC, Income Tax | Excise Duty (beer) |  |  |
+
+| --- | --- | --- | --- | --- |
+
+| Period | Refund Interest Corporate Taxpayers | Refund Interest Non-Corporate Taxpayers | Arrears and Instalment Interest | Arrears Interest |
+
+| July 1 to September 30, 2016 | 1% | 3% | 5% | 3% |
+
+| April 1 to June 30, 2016 | 1% | 3% | 5% | 3% |
+
+| January 1 to March 31, 2016 | 1% | 3% | 5% | 3% |
+
+| October 1 to December 31, 2015 | 1% | 3% | 5% | 3% |
+
+Prescribed interest rates for previous years are available on the CRA website at [www.cra.gc.ca/interestrates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## What’s new in publications
+
+The following is a list of new or revised excise and GST/HST forms and publications.
+
+### GST/HST forms
+
+- [GST21, Election or Revocation of an Election to Have the Joint Venture Operator Account for GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst21.html)
+
+- [GST23, Election and Revocation of the Election by a Public Sector Body (Other than a Charity) to Have its Exempt Memberships Treated as Taxable Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst23.html)
+
+- [GST30, Election for Passenger Vehicles or Aircraft to be Deemed to be Used Exclusively in Non-Commercial Activities](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst30.html)
+
+- [GST106, Information on Claims Paid or Credited for Foreign Conventions and Tour Packages](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst106.html)
+
+- [GST303, Application to Offset Taxes by Refunds or Rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst303.html)
+
+- [GST494, Goods and Services Tax/Harmonized Sales Tax (GST/HST) Final Return for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst494.html)
+
+- [GST497, Election Under the Special Attribution Method for Selected Listed Financial Institutions and Notice of Revocation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst497.html)
+
+- [GST523-1, Non-profit organizations – Government Funding](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst523-1.html)
+
+- [GST528, Authorization to Use an Export Distribution Centre Certificate](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst528.html)
+
+- [RC4616, Election or Revocation of an Election for Closely Related Corporations and/or Canadian Partnerships to Treat Certain Taxable Supplies as Having Been Made for Nil Consideration for GST/HST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html)
+
+- RC4617, Election and Schedule to a Return for Simplified Reporting of Specified Housing Supplies
+
+- [RC7207-1, QST Rebate Application and Election for Pension Entities that are Selected Listed Financial Institutions for GST/HST Purposes Only](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7207-1.html)
+
+- [RC7294, GST/HST and QST Final Return for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7294.html)
+
+### GST/HST guides
+
+- [RC542, Changes affecting your GST/HST return](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc542.html)
+
+- [RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html)
+
+### GST/HST info sheets
+
+- [GI-172, Public Service Bodies' Rebate for Charities Resident Only in British Columbia](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-172.html)
+
+- [GI-173, Public Service Bodies' Rebate for Charities Resident Only in New Brunswick](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-173.html)
+
+- [GI-174, Public Service Bodies' Rebate for Charities Resident Only in Newfoundland and Labrador](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-174.html)
+
+- [GI-175, Public Service Bodies' Rebate for Charities Resident Only in Nova Scotia](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-175.html)
+
+- [GI-176, Public Service Bodies' Rebate for Charities Resident Only in Ontario](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-176.html)
+
+- [GI-177, Public Service Bodies' Rebate for Charities Resident Only in Prince Edward Island](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-177.html)
+
+- [GI-178, Public Service Bodies' Rebate for Charities Resident in One or More Non participating Provinces](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-178.html)
+
+- [GI-179, Public Service Bodies' Rebate for Charities Resident in Two or More Provinces, at Least One of Which Is a Participating Province](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-179.html)
+
+- [GI-180, Public Service Bodies' Rebate for Qualifying Non profit Organizations Resident Only in British Columbia](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-180.html)
+
+- [GI-181, Public Service Bodies' Rebate for Qualifying Non-profit Organizations Resident Only in New Brunswick](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-181.html)
+
+- [GI-182, Public Service Bodies' Rebate for Qualifying Non-profit Organizations Resident Only in Newfoundland and Labrador](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-182.html)
+
+- [GI-183, Public Service Bodies' Rebate for Qualifying Non- profit Organizations Resident Only in Nova Scotia](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-183.html)
+
+- [GI-184, Public Service Bodies' Rebate for Qualifying Non profit Organizations Resident Only in Ontario](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-184.html)
+
+- [GI-185, Public Service Bodies' Rebate for Qualifying Non-profit Organizations Resident Only in Prince Edward Island](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-185.html)
+
+- [GI-186, Public Service Bodies' Rebate for Qualifying Non-profit Organizations Resident in One or More Non-participating Provinces](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-186.html)
+
+- [GI-187, Public Service Bodies' Rebate for Qualifying Non-profit Organizations Resident in Two or More Provinces, at Least One of Which Is a Participating Province](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-187.html)
+
+### GST/HST memoranda
+
+- [3.5, Application of GST/HST to Other Taxes, Duties, and Fees](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-5.html)
+
+- [5.3, Exempt Legal Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/5-3.html) (revised)
+
+- [13.2, Rebates – Legal Aid](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/13-2.html) (revised)
+
+- [16.4, Anti-avoidance Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/16-4.html) (revised)
+
+- [18.3, GST/HST Relief for: Foreign Representatives, Diplomatic Missions, Consular Posts, International Organizations; and International Bridge and Tunnel Authorities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/18-3.html)
+
+### GST/HST notices
+
+- [Notice293, Tla'amin Nation - Ratification of Final Agreement](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice293.html)
+
+- [Notice294, Questions and Answers on Simplified Reporting of Specified Housing Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice294.html)
+
+- [Notice295, Questions and Answers on the Proposed GST/HST Treatment of Insulin Pens and Insulin Pen](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice295.html)
+
+- [Notice296, Questions and Answers on the Proposed GST/HST Treatment of Intermittent Urinary Catheters](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice296.html)
+
+### Excise forms
+
+- [B200, Excise Tax Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b200.html)
+
+- [B241, Excise Tax Return - Broker](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b241.html)
+
+- [B243, Excise Tax Return - Insured](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b243.html)
+
+- [B256, Excise Act, 2001 – Application for Refund](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b256.html)
+
+- [B261, Excise Duty Return – Duty Free Shop](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b261.html)
+
+- [B262, Excise Duty Return – Excise Warehouse Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b262.html)
+
+- [B263, Excise Duty Return – Licensed User](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b263.html)
+
+- [B264, Excise Duty Return – Special Excise Warehouse Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b264.html)
+
+- [B265, Excise Duty Return – Wine Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b265.html)
+
+- [B266, Excise Duty Return – Spirits Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b266.html)
+
+- [B267, Excise Duty Return – Tobacco Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b267.html)
+
+- [B270, Excise Act 2001 – Excise Duty Return - Non-Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b270.html)
+
+- [B271, Excise Duty Return – Tobacco Dealer](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b271.html)
+
+- [B284, Election or Revocation of the Election for Semi-Annual Reporting](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b284.html)
+
+- [E60, Tobacco Products Export Form](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/e60.html)
+
+- [E681, Excise Act 2001 – Refund Claim on Exported Tobacco Products](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/e681.html)
+
+- [K50B, Excise Duty Return - Brewer](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/k50b.html)
+
+- [N10, Excise Act – Application for Refund/Drawback](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/n10.html)
+
+- [N15, Excise Tax Act – Application for Refund/Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/n15.html)
+
+- [N15-1, Excise Tax Act – Application for Refund/Rebate, Supplementary Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/n15-1.html)
+
+- [XE8, Application for Refund of Federal Excise Tax on Gasoline](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/xe8.html)
+
+### Excise duty notices
+
+- EDN23, Issuance of Age and Origin Certificates (revised)
+
+- EDN32, Federal Excise Stamp Mandatory on Tobacco Products as of July 1, 2012 (revised)
+
+- EDN41, Budget 2016 – Enhancing Certain Security and Collection Provisions in the Excise Act, 2001
+
+### Excise taxes and special levies notices
+
+- [ETSL77, Budget 2016 – Restricting the Relief of Excise Tax on Diesel Fuel and Aviation Fuel](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/etsl77.html)
+
+### Air travellers security charge forms
+
+- [B248, Registration Form Under the Provisions of the Air Travellers Security Charge Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b248.html)
+
+- [B249, Air Travellers Security Charge Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b249.html)
+
+- [B254, Air Travellers Security Charge Act – Application for Refund](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b254.html)
+
+All GST/HST, excise duty and excise taxes and special levies publications can be found on the CRA website at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html), at [www.cra.gc.ca/etsl](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies.html) and at [www.cra.gc.ca/exciseduty](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty.html).
+
+To receive email notification as soon as a document is published on the CRA website, go to the [electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) page at [www.cra.gc.ca/lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribe to the RSS feed for all new CRA publications and forms, or subscribe to any number of mailing lists for different types of publications.
+
+## Contact us
+
+**More information****Forms and publications**
+
+- All **GST/HST technical publications** and **GST/HST related forms** are available on the CRA website at [www.cra.gc.ca/gsthstpub](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/forms-publications.html).
+
+- To access **all other**forms and publications on the CRA website go to [www.cra.gc.ca/forms](https://www.canada.ca/en/revenue-agency/services/forms-publications.html) and select by topic, document type or publication number.
+
+- To order forms and publications**by telephone**, call 1-800-959-5525.
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries,**call Business Enquiries at 1-800-959-5525;
+
+- for **GST/HST technical enquiries,**call GST/HST Rulings at 1-800-959-8287.
+
+If you are located in**Quebec**, call**Revenu Québec**at **1-800-567-4692**or visit their website at [www.revenuquebec.ca](http://www.revenuquebec.ca).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [www.cra.gc.ca/slfi](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or
+
+- for**general GST/HST**or**QST enquiries**, call**Business Enquiries**at**1-800-959-5525;**
+
+- for**technical GST/HST**or**QST enquiries**, call**GST/HST Rulings SLFI**at**1-855-666-5166.**
+
+**Account enquiries**
+
+For**general information** and to make **enquiries**regarding your **account** (except for softwood lumber products export charge accounts), you can:
+
+- view answers to common enquiries, or submit an enquiry using the online “Enquiries service” on “My Business Account”;
+
+- view account information online at [www.cra.gc.ca/businessonline](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html); or
+
+- call Business Enquiries at 1-800-959-5525.
+
+For **online access**to your **GST/HST**,**air travellers security charge**, **excise tax**and **duty accounts** (such as viewing up-to-date account balances and transactions, transferring payments and more), go to:
+
+- [www.cra.gc.ca/representatives](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), if you are an authorized representative or employee; or
+
+- [www.cra.gc.ca/mybusinessaccount](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), if you are the business owner.
+
+For **enquiries**regarding your **softwood lumber products export charge account**, you can call 1-866-330-3304.
+
+For **enquiries**regarding the**status of specific GST/HST domestic rebate claims,** call Business Enquiries at 1-800-959-5525.
+
+**Help**
+
+For **technical support using our online services**:
+
+- business accounts, call 1-800-959-5525
+
+- teletypewriter users, call 1-800-665-0354
+
+- calls outside of Canada and the United States, call collect at 1-613-940-8528
+
+Please have the screen number (bottom right) and, if applicable, the error number and message received on hand when calling.
+
+The *Excise and* *GST/HST News* is published quarterly and highlights recent developments in the administration of the GST/HST, First Nations goods and services tax (FNGST) and First Nations tax (FNT), softwood lumber products export charge, air travellers security charge (ATSC) as well as excise taxes and duties. If you would like to receive a link to each new edition of the*Excise and GST/HST News*as it is published, [subscribe](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/subscribe-a-canada-revenue-agency-electronic-mailing-list.html) to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-excise-gst-hst-news.html).
+
+This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, *Excise and* *GST/HST News*, Legislative Policy and Regulatory Affairs Branch, CRA, Ottawa, ON K1A 0L5.
+
+## 

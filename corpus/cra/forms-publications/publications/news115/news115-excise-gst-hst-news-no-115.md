@@ -1,0 +1,318 @@
+---
+title: "Excise and GST/HST News - No. 115"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news115/news115-excise-gst-hst-news-no-115.html
+last_modified: 2023-12-21
+---
+# Excise and GST/HST News - No. 115
+
+December 2023
+
+## Table of Contents
+
+- [Services provided by certain insurance intermediaries](#h1)
+
+- [Reinstatement of the GST/HST Relief for the Maa-nulth-aht](#h2)
+
+    - [Background](#h2_1)
+
+    - [GST/HST Implications of the Amendments](#h2_2)
+
+    - [CRA Publications to Update](#h2_3)
+
+- [Huu‑ay‑aht First Nations: End of the First Nations goods and services tax on their Lands](#h3)
+
+- [Toquaht Nation: End of the First Nations goods and services tax on their Lands](#h4)
+
+- [Uchucklesaht Tribe: End of the First Nations goods and services tax on their Lands](#h5)
+
+- [A new and unique "RT 9999" program and reference number for simplified GST/HST account](#h6)
+
+    - [Background](#h6_1)
+
+    - [New unique identifier RT 9999](#h6_2)
+
+    - [When to start using the RT 9999 account number to file and remit GST/HST?](#h6_3)
+
+    - [Web Access code](#h6_4)
+
+- [Prepare for CARM today if your business imports into Canada!](#h7)
+
+    - [Introduction to CARM](#h7_1)
+
+    - [CARM Benefits and Key Changes](#h7_2)
+
+    - [Next Steps for importers to be prepared and avoid delays at the border](#h7_3)
+
+- [Prescribed rates of interest](#h8)
+
+- [Forms and publications](#h9)
+
+## Services provided by certain insurance intermediaries
+
+The Canada Revenue Agency (CRA) recently published [GST/HST Notice 325, Services Provided by Certain Insurance Intermediaries](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice325.html).
+
+Notice 325 sets out the CRA’s new position on the application of GST/HST to the supplies of services by certain insurance intermediaries to an insurer or another person that has an agreement with an insurer. These intermediaries are often referred to as managing general agents, third party administrators, and managing general underwriters (together called MGAs in this article).
+
+MGAs may be involved in various aspects of an insurer’s provision of insurance under an insurance policy including:
+
+- Designing the policy.
+
+- Promoting and selling the policy.
+
+- Recruiting, training and managing subcontracted agents.
+
+- Paying insurance claims.
+
+- Providing administrative services.
+
+Previously, the CRA’s position was that for GST/HST purposes, the MGAs’ supplies of services were generally not included in the definition of financial service and were taxable supplies.
+
+The CRA reviewed its position in light of recent case law and submissions made by industry stakeholders.
+
+The CRA’s new position is that the supplies of services by MGAs, to an insurer, or another person that has an agreement with an insurer, are generally included in the definition of financial service (as **arranging for** an insurer’s supply of an insurance policy) and are not excluded by any of exclusionary paragraphs of that definition. As such, the MGAs are generally making an exempt supply of a financial service and are not required to collect GST/HST on the consideration for the supply (for example, a fee). [Notice 325](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice325.html) provides guidelines regarding the CRA’s new position and examples to illustrate how the GST/HST generally applies to an MGA’s services. The application of the GST/HST may vary depending on the specific facts and circumstances of a particular transaction.
+
+It is important to note that an MGA that is making exempt supplies of financial services may need to consider whether it is a listed financial institution or a selected listed financial institution. For more information, refer to [GST/HST Memorandum 17-6, Definition of "Listed Financial Institution"](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6.html) and [GST/HST Memorandum 17-6-1, Definition of "Selected Listed Financial Institution"](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6-1.html).
+
+## Reinstatement of the GST/HST Relief for the Maa-nulth-aht
+
+The Maa-nulth First Nations, Canada and British Columbia each consented to amendments to the Maa-nulth First Nations Final Agreement, which took effect on June 23, 2023. Under the amendments, section 87 of the Indian Act now applies to provide relief from the GST/HST imposed under Part IX of the Excise Tax Act, to a Maa-nulth-aht[Footnote1](#fn1) who is registered under the Indian Act. For purposes of the amendments, section 87 of the Indian Act applies on the Maa-nulth First Nation Lands[Footnote1](#fn1) that were an Indian Reserve or Surrendered Lands[Footnote2](#fn2) on the day before April 1, 2011, as if those lands were a reserve.
+
+**Maa-nulth First Nations** refers collectively to the following First Nations: The Huu-ay-aht First Nations, Ka:'yu:'k't'h'/Che:k'tles7et'h' First Nations, Toquaht Nation, Uchucklesaht Tribe and Ucluelet First Nation (also known as the Yuułuʔiłʔatḥ First Nation).
+
+The Canada Revenue Agency (CRA) uses the term **Indian** because it has a legal meaning under the Indian Act.
+
+### Background
+
+The Maa-nulth First Nations entered into the Maa-nulth First Nations Final Agreement with Her Majesty the Queen in right of Canada and Her Majesty the Queen in right of British Columbia (the Agreement), which took effect on April 1, 2011. Under the Agreement, as of May 1, 2019, section 87 of the Indian Act no longer applied in respect of the GST/HST to a Maa-nulth-aht. However, the Agreement did not change the fact that a Maa-nulth-aht could still register and be registered under the Indian Act, obtain a [Secure Certificate of Indian Status or Certificate of Indian Status](https://www.sac-isc.gc.ca/eng/1100100032380/1572461388012), and access certain rights and benefits available to First Nations people.
+
+As a result of the Agreement, effective May 1, 2019, a Maa-nulth-aht was no longer entitled to the GST/HST relief described in [GST/HST Technical Information Bulletin B-039, GST/HST Administrative Policy – Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html) (TIB B-039) regardless of their province or territory of residence. However, a Maa-nulth First Nation Citizen who is not a Maa-nulth-aht was still entitled to the GST/HST relief described in TIB B-039.
+
+### GST/HST Implications of the Amendments
+
+Effective June 23, 2023, a Maa-nulth-aht who is registered under the Indian Act is eligible for GST/HST relief on purchases of property and services when the requirements described in TIB B-039 are met. For example, a Maa-nulth-aht would be entitled to relief from the GST/HST on property and services acquired on a reserve provided that the requirements described in TIB B-039 are met.
+
+### CRA Publications to Update
+
+The CRA will be making changes to [GST/HST Notice 238, First Nations with a Self-Government Agreement Ending Indian Act Tax Relief – Determining Tax Relief for Indian Members](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice238.html) and [TIB B-039](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html) that are required as a result of the amendments to the Maa-nulth First Nations Final Agreement. The CRA will also publish a new GST/HST Notice on this matter.
+
+## Huu-ay-aht First Nations: End of the First Nations goods and services tax on their Lands
+
+On March 27, 2020, the Huu-ay-aht First Nations Government imposed a First Nations goods and services tax (FNGST) on the Maanulth Lands of the Huu-ay-aht First Nations[Footnote3](#fn3). On October 30, 2023, they signed an Agreement to Terminate the First Nations Goods and Services Tax Administration Agreement with the Government of Canada.
+
+**Effective November 14, 2023**, the FNGST is no longer imposed on the Maanulth Lands of Huu-ay-aht First Nations. Instead, as of that date, GST applies to taxable supplies of property or services made on those Lands.
+
+The CRA will publish a new GST/HST Notice on this matter.
+
+## Toquaht Nation: End of the First Nations goods and services tax on their Lands
+
+On February 18, 2020, the Toquaht Nation Government imposed a First Nations goods and services tax (FNGST) on the Maanulth Lands of the Toquaht Nation[Footnote4](#fn4). On October 30, 2023, they signed an Agreement to Terminate the First Nations Goods and Services Tax Administration Agreement with the Government of Canada.
+
+**Effective November 14, 2023**, the FNGST is no longer imposed on the Maanulth Lands of the Toquaht Nation. Instead, as of that date, GST applies to taxable supplies of property or services made on those Lands.
+
+The CRA will publish a new GST/HST Notice on this matter.
+
+## Uchucklesaht Tribe: End of the First Nations goods and services tax on their Lands
+
+On March 17, 2020, the Uchucklesaht Tribe Government imposed a First Nations goods and services tax (FNGST) on the Maanulth Lands of the Uchucklesaht Tribe[Footnote5](#fn5). On October 30, 2023, they signed an Agreement to Terminate the First Nations Goods and Services Tax Administration Agreement with the Government of Canada.
+
+**Effective November 14, 2023**, the FNGST is no longer imposed on the Maanulth Lands of the Uchucklesaht Tribe. Instead, as of that date, GST applies to taxable supplies of property or services made on those Lands.
+
+The CRA will publish a new GST/HST Notice on this matter.
+
+## A new and unique "RT 9999" program and reference number for simplified GST/HST account
+
+### Background
+
+As of July 1, 2021, under the new digital economy rules, certain digital economy businesses/suppliers were required to register for a simplified GST/HST account under Subdivision E of Division II of the Excise Tax Act (ETA). For more information on the GST/HST for digital economy businesses, go to the [Get ready to register for the GST/HST](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/digital-economy-gsthst/register-get-ready.html) webpage. Following their registration, these businesses/suppliers received a GST/HST program account number (for example, xxxxx xxxx RT 0001) similar to what regular GST/HST registrants would get under the regular GST/HST registration under Subdivision D of Division V of the ETA.
+
+### New unique identifier RT 9999
+
+As of July 1, 2023, all simplified GST/HST account numbers have a new and unique program and reference number RT 9999 (also known as a unique identifier) to clearly distinguish a simplified registrant from a regular registrant.
+
+All existing RT 0001 simplified GST/HST accounts processed prior to May 16, 2023 have been automatically transitioned to this unique identifier RT 9999. The simplified GST/HST account number registry has been updated to reflect the new unique identifier RT 9999. To access the registry, go to the [Confirming a simplified GST/HST account number](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/digital-economy-gsthst/confirming-simplified-gst-hst-account-number.html) webpage.
+
+More precisely, all existing RT 0001 simplified GST/HST accounts have been transitioned on June 30, 2023 to the updated simplified GST/HST accounts with the unique identifier RT 9999 effective July 1, 2023. On a go forward basis, simplified registrants should be using the updated GST/HST program account number on receipts, invoices or contracts that are provided to their customers.
+
+Note that the Business Number of these businesses/suppliers (that is, the first 9 digits preceding the RT 9999 program and reference number – for example, xxxxx xxxx RT 9999) has not changed.
+
+### When to start using the RT 9999 account number to file and remit GST/HST?
+
+If the simplified registrant was initially registered with a Business Number ending in RT 0001:
+
+- all returns up to and including the reporting period ending June 30, 2023 must be filed using the Business Number ending in RT 0001;
+
+- then, all reporting periods starting July 1, 2023 onward must be filed and GST/HST remitted under the Business Number ending in RT 9999.
+
+If the simplified registrant was initially registered with a Business Number ending in RT 9999 (this may apply to a business that registered for GST/HST on May 15, 2023 or after), then all reporting periods would be filed and GST/HST remitted using the Business Number ending in RT 9999.
+
+### Web Access code
+
+If the simplified registrant was initially registered with a Business Number ending in RT 0001, a letter was issued to include a new web access code for filing the simplified GST34 return under the Business Number ending in RT 9999.
+
+For more information on the new digital economy rules, go to the [GST/HST for digital economy businesses: Overview](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/digital-economy.html) webpage.
+
+## Prepare for CARM today if your business imports into Canada!
+
+### Introduction to CARM
+
+The Government of Canada is modernizing and streamlining the process of importing commercial goods via the [Canada Border Services Agency (CBSA) Assessment and Revenue Management (CARM)](https://www.cbsa-asfc.gc.ca/services/carm-gcra/) project. The CARM project being implemented by CBSA is a multi-year initiative that will transform the collection of duties and taxes for goods imported into Canada. In May 2024, CARM will become the official system of record for the collection of duties and taxes for commercial goods imported to Canada.
+
+The May 2024 implementation will expand the features of the [CARM Client Portal](https://ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca/en/auth/login) (CCP) and facilitate accounting and revenue management processes.
+
+Your organization needs to register for the CCP if it conducts any of the following activities:
+
+- Imports commercial goods as seldom as once a year.
+
+- Imports commercial goods through a courier.
+
+- Uses a customs broker or third-party service provider to import commercial goods.
+
+- Imports goods that will be sold.
+
+- Imports goods for any commercial, industrial, occupational, institutional or other like use.
+
+### CARM Benefits and Key Changes
+
+The implementation of CARM will serve to reduce the administrative burden on the trade community, while also allowing commercial importers to maintain their existing relationship with their customs broker by delegating authority to them via the CCP. Registering now is an important first step for importers to continue to have their customs broker act on their behalf in May 2024.
+
+Registering now allows importers:
+
+- the ability to view their transaction history on the CCP;
+
+- the ability to make payments online;
+
+- the ability to request advance rulings; and
+
+- access to a tool to help classify goods.
+
+Features that will be available after the scheduled implementation in May 2024 include:
+
+- electronic commercial accounting declarations that you can correct and adjust;
+
+- changes to the Release Prior to Payment (RPP) program;
+
+- harmonized billing cycles; and
+
+- the ability to:
+
+    - register for a Business Number (BN9)
+
+    - enrol in various CBSA commercial programs
+
+As of May 2024, the ability to register for an importer or exporter account (RM) will only be available via the CCP. The Canada Revenue Agency will no longer be providing this service.
+
+You can find more information on the [CARM](https://www.cbsa-asfc.gc.ca/services/carm-gcra/) website, including information on CARM webinars.
+
+### Next Steps for importers to be prepared and avoid delays at the border
+
+Importers need to register on the CCP in advance of May 2024. Every organization should be prepared and ready for the CARM coming-into-force date by having conversations within their organizations about the upcoming changes. For those that use a broker or other third-party service providers, discuss the upcoming changes with them to ensure that you can work together to prepare.
+
+When your organization is ready to register, please visit the CBSA’s [CARM Client Portal](https://ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca/en/homepage) webpage and select ‘Log into the CARM Client Portal’. Once you have registered, you will be able to use the current CCP functionality, with additional functionality becoming available in May 2024.
+
+Stay up to date by emailing the CARM Engagement Team at [cbsa.carm_engagement-engagement_de_la_gcra.asfc@cbsa-asfc.gc.ca](mailto:cbsa.carm_engagement-engagement_de_la_gcra.asfc@cbsa-asfc.gc.ca) to join the CARM distribution list.
+
+The CBSA’s CARM Client Support Helpdesk (CCSH) can be contacted with any account-specific questions. Fill out the client support [contact form](https://www.cbsa-asfc.gc.ca/contact/csform-formulairesc-eng.html) or call the helpdesk at 1-800-461-9999.
+
+You can find more information on the [CARM](https://www.cbsa-asfc.gc.ca/services/carm-gcra/) website.
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from October 1, 2023, to December 31, 2023, on overdue amounts payable to the Minister is 9%. The prescribed annual rate of interest on amounts owed by the Minister (such as, rebates or refunds) is 5% for corporate taxpayers and 7% for non-corporate taxpayers. These rates are applicable to income tax, excise taxes, GST/HST, underused housing tax (UHT), air travellers security charge (ATSC), luxury tax, fuel charge (under the Greenhouse Gas Pollution Pricing Act) and excise duties on wine, spirits, tobacco, cannabis and vaping products.
+
+The prescribed annual rate of interest respecting excise duty on beer products, on overdue amounts payable for the indicated period, is set at 7%. Refund interest rates are not applicable for amounts owed by the Minister (such as, rebates or refunds) for excise duty that is in relation to beer products.
+
+| PERIOD | October 1, 2023 to December 31, 2023 | July 1, 2023 to September 30, 2023 | April 1, 2023 to June 30, 2023 | January 1, 2023 to March 31, 2023 |
+
+| --- | --- | --- | --- | --- |
+
+| Refund Interest Corporate Taxpayers | 5% | 5% | 5% | 4% |
+
+| Refund Interest Non-Corporate Taxpayers | 7% | 7% | 7% | 6% |
+
+| Arrears and Instalment Interest | 9% | 9% | 9% | 8% |
+
+| PERIOD | October 1, 2023 to December 31, 2023 | July 1, 2023 to September 30, 2023 | April 1, 2023 to June 30, 2023 | January 1, 2023 to March 31, 2023 |
+
+| --- | --- | --- | --- | --- |
+
+| Arrears Interest Excise duty – beer products | 7% | 7% | 7% | 5% |
+
+Prescribed interest rates for previous years are available on Canada.ca at [Prescribed interest rates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## Forms and publications
+
+All GST/HST, underused housing tax, luxury tax, fuel charge, excise duties, and excise taxes and other levies technical publications can be found on the [Technical tax information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information.html) webpage on Canada.ca. To access all forms and publications go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html), and for a list of new and revised publications go to the [Canada Revenue Agency publications listed by number](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications.html) webpage. To access guides, returns and elections relating to the GST/HST go to [GST/HST-related forms and publications](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/forms-publications.html).
+
+To receive email notification as soon as a document is published on the Canada.ca website, go to [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribe to the RSS feed for all new CRA publications and forms, or subscribe to any number of mailing lists for different types of publications.
+
+## Contact us
+
+**Enquiries regarding programs administered by the Excise and Specialty Tax Directorate**
+
+For information about how to make a general or technical enquiry relating to excise duties, excise taxes and other levies (including the air travellers security charge), the fuel charge or the luxury tax or to enquire about your account or the processing status of a return or related refund or rebate application, refer to [Contact Information – Excise and Specialty Tax Directorate](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/excise-taxes-contacts.html).
+
+**Telephone enquiries**
+
+**GST/HST**
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- call Business Enquiries at 1-800-959-5525 for **general enquiries**
+
+- call GST/HST Rulings at 1-800-959-8287 for **technical enquiries**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1-800-567-4692** or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution** (whether or not you are located in Quebec) and require information on the **GST/HST** or the **QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- call Business Enquiries at 1-800-959-5525 for **general GST/HST** or **QST enquiries**
+
+- call GST/HST Rulings SLFI at 1-855-666-5166 for **technical GST/HST** or **QST enquiries**
+
+**Underused housing tax**
+
+For general enquiries about a residential property that is owned by an individual:
+
+- Calls from the U.S. or Canada: 1-800-959-8281
+
+- Calls from elsewhere: 613-940-8495 (collect calls accepted)
+
+For general enquiries about a residential property that is owned by a corporation:
+
+- Calls from the U.S. or Canada: 1-800-959-5525
+
+- Calls from elsewhere: 613-940-8497 (collect calls accepted)
+
+**Account enquiries**
+
+For **general information** about the GST/HST and the underused housing tax and to make **enquiries** regarding your **account**, you can:
+
+- view answers to common enquiries, or submit an enquiry using the online “Enquiries service” on [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html);
+
+- view account information online at [Digital services for businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html)
+
+- call Business Enquiries at 1-800-959-5525.
+
+For **enquiries** regarding the **status of specific GST/HST domestic rebate claims**, call Business Enquiries at 1-800-959-5525.
+
+**Access your account online**
+
+For **online access** to your **GST/HST**, **air travellers security charge**, **luxury tax**, **fuel charge**, and **excise tax** and **duty accounts** (such as viewing up-to-date account balances and transactions, transferring payments and more), go to:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) if you are the business owner
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html) if you are an authorized representative or employee
+
+**Help**
+
+For **technical support using our online services**:
+
+- business accounts, call 1-800-959-5525
+
+- teletypewriter users, call 1-800-665-0354
+
+- callers outside of Canada and the United States, call collect at 613-940-8497
+
+Please have the screen number (bottom right) and, if applicable, the error number and message received on hand when calling.
+
+The Excise and GST/HST News is published quarterly and highlights recent developments in the administration of the GST/HST, the QST for SLFIs, the First Nations goods and services tax (FNGST) and the First Nations tax (FNT), the air travellers security charge (ATSC), the underused housing tax, and the luxury tax as well as excise taxes and duties. If you would like to receive a link to each new edition of the Excise and GST/HST News as it is published, subscribe to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-excise-gst-hst-news.html). This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, Excise and GST/HST News, GST/HST Rulings Directorate, Legislative Policy and Regulatory Affairs Branch, CRA, 5th Floor, Place de Ville, 320 Queen Street, Ottawa K1A 0L5.

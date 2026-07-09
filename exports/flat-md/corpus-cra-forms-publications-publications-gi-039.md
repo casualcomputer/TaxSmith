@@ -1,0 +1,12 @@
+---
+title: "GI-039 CANCELLED Applying the 2008 GST/HST Rate Reduction to Allowances and Reimbursements"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-039.html
+last_modified: 2007-11-30
+---
+# GI-039 CANCELLED Applying the 2008 GST/HST Rate Reduction to Allowances and Reimbursements
+
+## This publication was cancelled
+
+This publication was cancelled as of 2025-11-12.
+
+This info sheet explains how the proposed reduction in the rate of the GST and the HST will apply to allowances or reimbursements for transactions that straddle the date the reduced rates come into effect, which is January 1, 2008.

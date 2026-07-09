@@ -1,0 +1,95 @@
+Title: ARCHIVED - Hire of Ships and Aircraft from Non-Residents
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it494/archived-hire-ships-aircraft-non-residents.html
+Corpus path: corpus/cra/forms-publications/publications/it494/archived-hire-ships-aircraft-non-residents.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Hire of Ships and Aircraft from Non-Residents
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-494**
+
+DATE: January 31, 1983
+
+SUBJECT: INCOME TAX ACT**Hire of Ships and Aircraft from Non-Residents**
+
+REFERENCE: Paragraph 212(1)(d) (also section 255, subsection 215(1) and paragraphs 81(1)(c) and 227(8)(a))
+
+1. This bulletin explains the Department's position with respect to the taxation of payments made by persons resident in Canada to non-residents for the hire of ships and/or aircraft for use in Canada. This bulletin deals with the taxation of only those payments made under a contract for hire that is a dry lease, demise or bareboat charter which customarily makes the charterer responsible for all operations of the ship or aircraft. Such a contract is hereinafter referred to as a bareboat charter.
+
+2. Subparagraph 212(1)(d)(i) subjects a non-resident person to an income tax of 25 % on all amounts paid or credited to that person by a resident of Canada as, on account or in lieu of payment of or in satisfaction of rent, royalty or a similar payment, for the use or the right to use in Canada, any property. Subparagraph 212(1)(d)(ix) exempts from tax in Canada a rental payment made by a person resident in Canada to a non-resident for the use of or the right to use outside Canada, any corporeal property. Accordingly, where a ship or aircraft is hired under a bareboat charter for use inside and outside Canada, it is the Department's view that the rent is to be prorated so that the portion thereof that relates to the use of the ship or aircraft outside Canada will not be taxed.
+
+3. The amount subject to the 25 % tax is that portion of the gross rent that is determined to be applicable to the time during which the ship or aircraft is used in Canada (see 5 below). A rate of tax less than 25 % will apply if such lesser rate is provided for in a reciprocal tax agreement between Canada and the country in which the lessor resides. Reference should be made to Information Circular 76-12R2 which includes a schedule of non-resident tax rates for treaty countries. Neither the exempting provisions of paragraph 81(1)(c) concerning the operation of a ship or aircraft in international traffic nor the provisions of any bilateral shipping and air transport agreements apply to bareboat charter hire because the income is rental income and not "income earned ... from the operation of a ship or aircraft".
+
+4. The term "in Canada" as used in 2 above will be considered to include the territorial sea of Canada, as defined in the Territorial Seas and Fishing Zones Act and the overlying airspace. In general terms, this embraces all water and airspace within what is known as the 12 nautical mile limit. However, for income tax purposes, paragraph 255(a) provides that Canada also includes the sea bed and subsoil of the submarine areas adjacent to the coasts of Canada in respect of which the Government of Canada or of a province, grants a right, licence or privilege to explore for, drill for or take any minerals, petroleum, natural gas or related hydrocarbons (basically Canada's Continental Shelf). Paragraph 255(b) further provides that Canada includes the seas and airspace above those submarine areas in respect of any activities carried on in connection with the exploration for or exploitation of the said minerals, petroleum, natural gas or hydrocarbons. This means that any equipment and personnel that are engaged under, upon or above the seas while carrying out any of the activities described in paragraph 255(b) in, upon or over any submarine areas described in paragraph 255(a) will be considered to be in Canada while so engaged. Accordingly, it is the Department's view that time in Canada for the purpose of 5 below, will also include the time during which a ship or aircraft is in, upon or over any submarine area described in paragraph 255(a), for the purpose of carrying out any activity described in paragraph 255(b), or for the purpose of carrying out any activity directly or indirectly related thereto (e.g. ferrying supplies and personnel). However, ships not engaged directly or indirectly in any activity described in paragraph 255(b) will not be considered to be in Canada for the purpose of 5 below, while merely traversing an area of the sea which is by virtue of section 255, determined to be in Canada for purposes of that section only.
+
+5. The Department is of the view that time in Canada is the proper basis for the apportionment of bareboat charter hire between use inside and outside Canada. In contracts where the amount of rent is computed by reference to time, a daily or hourly rate can be readily computed and applied to the number of days or hours in Canada. If rent is calculated on any other basis a notional daily or hourly rate can usually be computed. Other bases of apportionment will be accepted if it can be demonstrated that the result will be substantially the same as that obtained by use of the method described above and the time element is the basic factor in the determination.
+
+6. Subsection 215(1) requires the payer of any amount subject to tax under paragraph 212(1)(d) to withhold from the non-resident and remit to the Receiver General the amount of the tax imposed. Since rent is normally paid in advance, the payer is frequently obliged to withhold tax before the actual time in Canada has been established (making an exact computation of applicable withholding tax impossible). Consequently, it is acceptable to base amounts withheld on reasonably estimates drawn from proposed itineraries for the period covered by a rental payment. If a contract involves a series of rental payments, it is expected that excess or deficiencies in tax withheld from earlier payments will be adjusted in the amounts withheld from subsequent payments. The Department will not apply the penalty provisions of paragraph 227(8)(a) in respect of a deficiency in tax withheld if a payer can demonstrate that these guidelines were followed in good faith.
+
+7. It is recognized that shipping lanes may cross in and out of Canadian waters several times in the course of one voyage to or from a Canadian port, making a precise determination of time in Canada a difficult task. To assist in making this determination, except where section 255 applies as set out in 4 above, taxpayers may use the guidelines set forth in Appendix "A".
+
+Appendix A Shipping Traffic
+
+Assumption in the Determination of Time in Canada
+
+(a) Traffic in the following waters does not involve any time in Canadian territorial waters:
+
+(i) the Gulf of St. Lawrence on the seaward side of Escoumins,
+
+(ii) the Cabot Strait.
+
+(b) The following waters are entirely Canadian:
+
+(i) Hudson Strait,
+
+(ii) Hudson Bay
+
+(iii) Strait of Belle Isle,
+
+(iv) Canso Strait,
+
+(v) Bay of Fundy,
+
+(vi) Gulf of St. Lawrence and St Lawrence River inland from Escoumins to St. Lambert Lock,
+
+(vii) Welland Canal,
+
+(viii) Queen Charlotte Strait,
+
+(ix) Johnston Strait
+
+(c) Traffic in the Great Lakes and St. Lawrence River is in Canadian waters for the following percentage of the total time taken to travel directly between the points described:
+
+(i) St Lambert lock and Tibbert Point at the eastern end of Lake Ontario, 60 %,
+
+(ii) Tibbert Point and Port Weller, 45 %,
+
+(iii) Port Colborne and the mouth of the Detroit River, 70 %,
+
+(iv) the mouth of the Detroit River and the head of the St. Clair River, 45 %,
+
+(v) the head of the St. Clair River and Sault Ste. Marie, 5 %,
+
+(vi) Sault Ste. Marie and Thunder Bay, 15 %.
+
+(d) Traffic between the seaward side of the Strait of Juan de Fuca and 49th parallel is in Canadian waters for 55 % of the time taken to travel the total distance.
+
+(e) A ship bound to a Canadian port from (or outbound from a Canadian port to) international waters takes the route that involves the minimum navigable distance in Canadian waters. Thus, the distance in Canadian waters may be as short as 12 nautical miles.
+
+(f) Ships entering or departing Canadian ports in the Great Lakes follow recognized or usual shipping lanes.
+
+(g) Ships in the Strait of Juan de Fuca follow recognized or usual shipping lanes.
+
+(h) Time to travel between Tibbert Point and the St. Lambert lock in the St. Lawrence Seaway system is 25 hours.
+
+(i) Passage through the Welland Canal takes 12 hours.

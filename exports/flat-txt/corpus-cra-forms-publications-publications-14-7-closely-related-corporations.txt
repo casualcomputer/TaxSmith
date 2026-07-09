@@ -1,0 +1,329 @@
+Title: Closely Related Corporations
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-7/closely-related-corporations.html
+Corpus path: corpus/cra/forms-publications/publications/14-7/closely-related-corporations.md
+Document type: publication
+Last modified: 2023-06-20
+
+# Closely Related Corporations
+
+GST/HST memorandum 14-7 June 2023
+
+This memorandum does not reflect the [draft legislative and regulatory proposals](https://fin.canada.ca/drleg-apl/2022/ita-lir-0822-l-3-eng.html) relating to the GST/HST included in the Department of Finance Canada [news release](https://www.canada.ca/en/department-finance/news/2022/08/government-delivering-on-budget-2022-commitments-to-canadians.html) issued on August 9, 2022.
+
+This memorandum cancels and replaces GST/HST Notice 303, Changes to the Closely-related Test.
+
+This memorandum explains what is meant when two or more corporations are closely related for purposes of the Excise Tax Act.
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the Excise Tax Act (ETA). The information in this publication does not replace the law found in the ETA and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1-800-959-8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1-800-567-4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1-855-666-5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [Closely related corporations](#_Toc92371393)
+
+    - [Closely related group](#_Toc92371394)
+
+          - [Resident in Canada](#_Toc92371395)
+
+    - [Election under section 150](#_Toc92371396)
+
+    - [Election under section 156](#_Toc92371397)
+
+    - [Application to offset taxes by refunds or rebates](#_Toc92371398)
+
+    - [Definition of financial service](#_Toc92371399)
+
+- [Conditions of section 128](#_Toc92371400)
+
+    - [Qualifying voting control](#_Toc92371401)
+
+    - [Qualifying subsidiary](#_Toc92371402)
+
+    - [Deemed not to own a share](#_Toc92371403)
+
+    - [Closely Related Corporations (GST/HST) Regulations](#_Toc92371404)
+
+- [Examples](#_Toc92371405)
+
+    - [Closely related to the same third corporation](#_Toc92371406)
+
+    - [Corporations owned and controlled by credit unions](#_Toc92371407)
+
+## Closely related corporations
+
+1. Section 128 describes the manner in which two corporations may be closely related in terms of the holding of qualifying voting control and the ownership of the share capital in respect of one corporation by another corporation.
+
+2. Whether two or more corporations are closely related is important for purposes of the definition of **closely related group** in subsection 123(1).
+
+3. Determining whether two corporations are closely related is also important in establishing whether they can make an election under section 150 or 156. Whether two corporations are closely related is also relevant with respect to eligibility for the offset provision under subsection 228(7) and for purposes of a prescribed service in paragraph (t) of the definition of **financial service** in subsection 123(1).
+
+4. Section 128 specifically addresses closely related corporations. This is unique from other types of relationships under the ETA which, in addition to corporations, may include partnerships, individuals, trusts, associations and other organizations. In that regard, section 126 sets out which persons are related to each other and section 127 sets out which persons are associated with each other.
+
+### Closely related group
+
+5. **Closely related group** is defined in subsection 123(1) to mean “a group of corporations, each member of which is a registrant resident in Canada and is closely related, within the meaning assigned by section 128, to each other member of the group, and for the purposes of this definition,
+
+1. a non-resident insurer that has a permanent establishment in Canada is deemed to be resident in Canada, and
+
+2. credit unions and members of a mutual insurance group are deemed to be registrants”.
+
+#### Resident in Canada
+
+6. Under common law residency rules, a corporation is resident in Canada if its central management and control or mind and management are in Canada.
+
+7. In addition, section 132 also deems a person to be resident in Canada at any time in certain situations for GST/HST purposes. Under paragraph 132(1)(a), any corporation incorporated or continued in Canada and not continued elsewhere is deemed to be resident in Canada. However, if a corporation is continued both in Canada and elsewhere at the same time, this deemed resident rule does not apply and the corporation must be resident in Canada according to the common law rules in order to be a member of a closely related group.
+
+8. Subsection 132(2) provides that where a person that is not resident in Canada has a permanent establishment in Canada, the person is deemed to be resident in Canada, but only in respect of the activities of the person carried on through that permanent establishment. This deeming rule under subsection 132(2) does not satisfy the residency requirement in the definition of closely related group since the definition applies to a corporation as a whole, not just to particular activities of the corporation carried on through its permanent establishments. In addition, a permanent establishment in and of itself is not a person for GST/HST purposes, as the definition of **person** in subsection 123(1) does not include a permanent establishment.
+
+9. Subsection 132(3) provides that where a person who is resident in Canada (including a person deemed to be resident under subsection 132(1)) has a permanent establishment in a country other than Canada, the person is deemed to be non-resident in respect of, and only in respect of, activities that the person carries on through its permanent establishment outside Canada. Since a corporation that is deemed to be resident in Canada under subsection 132(1) will meet the residency requirement in the definition of closely related group, notwithstanding that it has a permanent establishment outside Canada, the corporation’s status as being resident in Canada will apply to its permanent establishment outside Canada for purposes of the definition of closely related group.
+
+10. The term **permanent establishment** is defined in subsection 123(1), and it includes a fixed place of business of a particular person through which the particular person makes supplies or of another person who is acting in Canada on behalf of the particular person and through whom the particular person makes supplies.
+
+11. For further information on determining if a person is resident in Canada, refer to [GST/HST Memorandum 3-4, Residence](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-4.html).
+
+### Election under section 150
+
+12. Section 150 provides a joint election that permits corporations that are members of a closely related group of which a listed financial institution is a member to treat certain taxable supplies made between them as supplies of exempt financial services.
+
+13. For information about this election, refer to [GST/HST Memorandum 17-14, Election to Deem Supplies to be Financial Services and Related Election for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-14.html), and [Form GST27, Election or Revocation of an Election to Deem Certain Supplies to be Financial Services for GST/HST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst27.html), or [Form RC7227, Elections or Revocation of the Elections to Deem Certain Supplies to be Financial Services for GST/HST and QST Purposes for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7227.html).
+
+14. Refer to [GST/HST Memorandum 17-6, Definition of Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6.html), for more information on who is a listed financial institution.
+
+### Election under section 156
+
+15. Section 156 provides a joint election that permits corporations resident in Canada and Canadian partnerships that are qualifying members of a qualifying group to treat certain taxable supplies between them as having been made for nil (or no) consideration if the requirements for the election are satisfied. **Qualifying group** is defined in subsection 156(1), and it includes a group of corporations, each member of which is closely related, within the meaning assigned by section 128, to each other member of the group.
+
+16. For information about this election, refer to [GST/HST Memorandum 14-5, Election to Deem Supplies to be Made for Nil Consideration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-5.html), and [Form RC4616, Election or Revocation of an Election for Closely Related Corporations and/or Canadian Partnerships to Treat Certain Taxable Supplies as Having Been Made for Nil Consideration for GST/HST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html).
+
+### Application to offset taxes by refunds or rebates
+
+17. Subsection 228(7) and the Offset of Taxes (GST/HST) Regulations allow closely related corporations that are members of a closely related group to apply to reduce or offset an amount of GST/HST remittable or payable by one member of the group by the amount of any GST/HST rebate or refund that another member is entitled to claim.
+
+18. Refer to [Form GST303, Application to Offset Taxes by Refunds or Rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst303.html), for information about this offset provision.
+
+### Definition of financial service
+
+19. Whether two corporations are closely related and members of a closely related group can be important with respect to paragraph (t) of the definition of financial service in subsection 123(1), which excludes from that definition various services prescribed by the Financial Services and Financial Institutions (GST/HST) Regulations. These regulations prescribe certain services, in particular the transfer, collection or processing of information and any administrative service, including an administrative service in relation to the payment or receipt of dividends, interest, principal, claims, benefits or other amounts, other than solely the making of the payment or the taking of the receipt.
+
+20. However, such services are not prescribed where the services are supplied with respect to an **instrument** (which is defined in the Financial Services and Financial Institutions (GST/HST) Regulations as “money, an account, a credit card voucher, a charge card voucher or a financial instrument”) by a person at risk or by a person that is a member of the same closely related group as a person at risk, if the recipient of the service is not the person at risk or another person that is a member of the same closely related group as the person at risk.
+
+21. In addition, such services are not prescribed where they are supplied by an agent, salesperson or broker who arranges for the issuance, renewal or variation, or the transfer of ownership, of the instrument for a person at risk or a person that is a member of the same closely related group as the person at risk. For this purpose, **person at risk** means a person who is financially at risk by virtue of the acquisition, ownership or issuance by that person of the instrument or by virtue of a guarantee, an acceptance or an indemnity in respect of the instrument, with certain exceptions.
+
+## Conditions of section 128
+
+22. Under paragraph 128(1)(a), “a particular corporation and another corporation are closely related to each other at any time if at that time
+
+1. qualifying voting control in respect of the other corporation is held by, and not less than 90% of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of the other corporation are owned by,
+
+    1. the particular corporation,
+
+    2. a qualifying subsidiary of the particular corporation,
+
+    3. a corporation of which the particular corporation is a qualifying subsidiary,
+
+    4. a qualifying subsidiary of a corporation of which the particular corporation is a qualifying subsidiary, or
+
+    5. any combination of the corporations or subsidiaries referred to in subparagraphs (i) to (iv)”.
+
+23. Under paragraph 128(1)(b), a particular corporation is closely related to another corporation if the other corporation is a prescribed corporation under the Closely Related Corporations (GST/HST) Regulations in relation to the particular corporation. This is further addressed in paragraphs 36 and 37 of this memorandum.
+
+24. Subsection 128(2) provides that where under subsection 128(1) two corporations are closely related to the same third corporation, they are closely related to each other.
+
+25. In general, subsections 128(1) and (2) do not apply where a person other than a corporation, such as an individual, a partnership[Footnote1](#fn1) or a trust, holds the voting control and owns the shares of the corporation. For example, where an individual (other than as a result of their employment) holds qualifying voting control and owns all of the shares, having full voting rights, of the capital stock of Corporation A and Corporation B, these two corporations would not be closely related for GST/HST purposes since they are owned and controlled by an individual rather than by a corporation.
+
+26. There are limited circumstances described in the Closely Related Corporations (GST/HST) Regulations where employee-owned shares may meet the requirements of subsection 128(1).
+
+27. Although an investment fund that is a member of a mutual insurance group may not itself be incorporated, subsection 128(3) deems an investment fund that is a member of a mutual insurance group to be a corporation for the purposes of section 128.
+
+### Qualifying voting control
+
+28. Under subsection 128(1.1), for purposes of Part IX of the ETA, “a person or a group of persons holds qualifying voting control in respect of a corporation at any time if at that time
+
+1. the person, or the members of the group collectively, as the case may be, own shares of the corporation to which are attached not less than 90% of the shareholder votes that may be cast in respect of each matter, other than a matter
+
+    1. for which a statute of a country, or of a state, province, or other political subdivision of a country, that applies to the corporation provides, in respect of the vote of the shareholders of the corporation on the matter, that
+
+          1. any shareholder of the corporation has voting rights that are different from the voting rights that the shareholder would otherwise have under the letters patent, instrument of continuance or other constating instrument by which the corporation was incorporated or continued, including any amendment to, or restatement of, the constating instrument, or
+
+          2. holders of a class or series of shares of the corporation are entitled to vote separately as a class or series, or
+
+    2. that is a prescribed matter or a matter that meets prescribed conditions or arises in prescribed circumstances; or
+
+2. the person or group, as the case may be, is a prescribed person or group in relation to the corporation.”
+
+29. In other words, in order for a person (or a group of persons) to be considered to hold qualifying voting control of a corporation, 90% or more of shareholder votes in respect of all corporate matters must be held and controlled by the person (or by the group of persons) with limited exceptions. Only where a particular person (or a particular group of persons) has a high degree of both ownership and control of the corporation will the person (or the group of persons) and the corporation be considered to be closely related for GST/HST purposes.
+
+Corporation A owns 94% of the value and number of issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of Corporation B and holds and controls 94% of the shareholder votes in respect of all corporate matters of Corporation B.
+
+Corporations A and B are, therefore, considered to be closely related.
+
+30. In some cases, the law of the jurisdiction (for example, the country, state or province) that applies to a corporation provides that the votes of the shareholders of the corporation on a particular matter are different from the voting rights that the shareholders would otherwise have according to the corporation’s articles of incorporation. Under these circumstances, that particular matter is excluded for the purposes of determining whether the corporation holds qualifying voting control in respect of another corporation.
+
+Subsection 183(3) of the Canada Business Corporations Act states: “Each share of an amalgamating corporation carries the right to vote in respect of an amalgamation agreement whether or not it otherwise carries the right to vote.”
+
+The distribution of voting rights in respect of the shareholder votes on an amalgamation agreement is not considered when determining whether a person holds qualifying voting control of a corporation under the Canada Business Corporations Act.
+
+31. Matters for which such laws entitle holders of a class or series of shares to vote separately as a class or series are also not considered when determining whether a person holds qualifying voting control of a corporation.
+
+A corporation incorporated under the Canada Business Corporations Act is authorized to issue shares of more than one class or series.
+
+Subsection 176(1) of the Canada Business Corporations Act provides that, in certain cases, holders of shares of a class or series are entitled to vote separately as a class or series on a proposal to amend the corporation’s articles with respect to specific matters, such as increasing the rights or privileges of any class of shares having rights or privileges equal or superior to the shares of such class.
+
+Therefore, certain matters listed in subsection 176(1) of the Canada Business Corporations Act entitling the holders of shares of a class or series to vote separately as a class or series are not considered for purposes of determining whether a person holds qualifying voting control of the corporation.
+
+### Qualifying subsidiary
+
+32. **Qualifying subsidiary** of a particular corporation is defined in subsection 123(1) as “another corporation in respect of which the particular corporation holds qualifying voting control and owns not less than 90% of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of the other corporation, and includes
+
+1. a corporation that is a qualifying subsidiary of a qualifying subsidiary of the particular corporation,
+
+2. where the particular corporation is a credit union, every other credit union, and
+
+3. where the particular corporation is a member of a mutual insurance group, every other member of that group”.
+
+### Deemed not to own a share
+
+33. For purposes of determining whether a person or group of persons holds qualifying voting control of a corporation, subsection 128(4) provides that “a particular person is deemed not to own a share at a particular time if
+
+1. another person has a right under a contract, in equity or otherwise, either immediately or in the future and either absolutely or contingently, to control the voting rights attached to the share, unless the right is not exercisable at the particular time because its exercise is contingent on the death, bankruptcy or permanent disability of an individual; and
+
+2. the other person is not closely related to the particular person at the particular time.”
+
+34. In other words, where the shareholder voting rights attached to a share that is owned by a particular person are subject to a right (under a contract, in equity or otherwise) of control by another person who is not closely related to the particular person, that share is generally excluded in determining whether the particular person has qualifying voting control of the corporation in question. However, if the particular person and the other person are closely related, this exclusion will not apply.
+
+Corporations A and B, which do not have common shareholders, each hold 50% of the shareholder votes on all corporate matters of Corporation C and 50% of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of Corporation C.
+
+Corporation C owns 100% of the value and number of the issued and outstanding shares of the capital stock of Corporation D. However, under an agreement made between Corporation A, Corporation B and Corporation C, Corporation A holds all of the voting rights attached to the shares of Corporation D that are owned by Corporation C.
+
+As Corporation A and Corporation B are not closely related to each other and Corporation C is not a qualifying subsidiary of either corporation (within the meaning of subsection 123(1)), Corporation C is not closely related to Corporation A under section 128. As a result, Corporation C is deemed not to own the shares of Corporation D for the purposes of section 128. Therefore, Corporation C and Corporation D are not closely related under section 128.
+
+### Closely Related Corporations (GST/HST) Regulations
+
+35. The Closely Related Corporations (GST/HST) Regulations broaden the conditions under which corporations can be considered to be closely related under section 128 and include instances where the beneficial ownership of the shares arises in respect of the employment of a person or where the shares are held in trust as specified in those regulations. Except in such limited circumstances, the holding of qualifying voting control and ownership of the share capital of two or more corporations by an individual does not make those corporations closely related to one another.
+
+36. Under paragraph 3(a) of the Closely Related Corporations (GST/HST) Regulations, for the purposes of paragraph 128(1)(b), a particular corporation and another corporation would be considered to be closely related if it is the case that they meet all of the following requirements:
+
+1. at least 90% of the total value and number of all the specified shares[Footnote2](#fn2) of the other corporation is represented by shares that are each owned or held in one of the following manners:
+
+    1. the share is owned by the particular corporation
+
+    2. the share is owned by a corporation closely related to the particular corporation under paragraph 128(1)(a)
+
+    3. the share is owned by one of the following:
+
+          1. a particular employee of one of the following:
+
+                  - the other corporation
+
+                  - a corporation closely related to the other corporation under paragraph 128(1)(a)
+
+                  - the particular corporation
+
+                  - a corporation closely related to the particular corporation under paragraph 128(1)(a) where the specified shares owned by employees cannot be publicly traded and ownership of the shares by the particular employee arose as a result of the employment of that employee
+
+          2. a corporation in which employees referred to above hold qualifying voting control and own 90% or more of the total value and number of all specified shares of that corporation where the specified shares owned by employees cannot be publicly traded and ownership of the shares by the employees arose as a result of the employment of those employees
+
+    4. the share is held in trust for the benefit of the other corporation or of a particular employee referred to above in subclause (C)(I) where the shares of the other corporation that are employee-owned cannot be publicly traded and became shares of the employee as a result of the employment of that employee [Footnote3](#fn3)
+
+2. at least 50% of the total value and number of the specified shares of the other corporation is represented by shares that are each owned by either the particular corporation or a corporation closely related to the particular corporation under paragraph 128(1)(a)
+
+3. the particular corporation would hold qualifying voting control in respect of the other corporation if the particular corporation were to own all of the following:
+
+    1. all of the issued and outstanding specified shares of the capital stock of the other corporation that are included in clauses (a)(i)(A) to (D)
+
+    2. all of the issued and outstanding shares of the capital stock of the other corporation that are not specified shares and that would be included in clauses (a)(i)(A) to (D) if they were specified shares
+
+37. Under paragraph 3(b) of the Closely Related Corporations (GST/HST) Regulations, a particular corporation and another corporation would be considered to be closely related for the purposes of paragraph 128(1)(b) if qualifying voting control of the other corporation is held by, and 90% or more of the total value and number of all the specified shares of the other corporation is owned by, one of the following:
+
+1. the particular corporation
+
+2. a corporation that is closely related to the particular corporation under paragraph 128(1)(a)
+
+3. a corporation that is a prescribed corporation in relation to the particular corporation for having met all the conditions described above under paragraph 3(a) of the Regulations
+
+4. any combination of the corporations referred to in subparagraphs (i) to (iii)
+
+38. Section 4 of the Closely Related Corporations (GST/HST) Regulations lists corporations that are prescribed for purposes of paragraph 128(1)(b) as being closely related to every credit union if the corporation is a registrant resident in Canada. At present, the only corporations listed are CDSL Canada Limited and CUE Datawest Ltd.
+
+## Examples
+
+39. In Examples 5 to 11:
+
+- a reference to owning the required shares of a corporation is a reference to owning a percentage of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of the corporation
+
+- a reference to holding qualifying voting control is a reference to owning shares in respect of a corporation to which are attached not less than 90% of the required shareholder votes as set out in subsection 128(1.1) and discussed in paragraph 28 of this memorandum
+
+Corporation A holds qualifying voting control and owns 90% of the required shares of Corporation B and, therefore, these corporations are closely related.
+
+Corporation A and Corporation C are closely related since Corporation B, which is a qualifying subsidiary of Corporation A, holds qualifying voting control and owns 90% of the required shares of Corporation C.
+
+Corporation B and Corporation C are closely related since Corporation A, of which Corporation B is a qualifying subsidiary, holds qualifying voting control and owns 90% of the required shares of Corporation C.
+
+Corporation B and Corporation D are closely related since qualifying voting control is held by, and 90% of the required shares of Corporation D are owned by, Corporation C, which is a qualifying subsidiary of Corporation A, and Corporation B is also a qualifying subsidiary of Corporation A.
+
+Corporation A and Corporation C are closely related since Corporation A and Corporation B, its qualifying subsidiary, together hold qualifying voting control and more than 90% of the required shares of Corporation C.
+
+### Closely related to the same third corporation
+
+40. Subsection 128(2) provides that where two corporations are closely related to the same corporation under the provisions of subsection 128(1), they are considered closely related to each other.
+
+Corporation A and Corporation C are closely related under subparagraph 128(1)(a)(v) (refer to Example 9).
+
+Corporation C and Corporation D are closely related under subparagraph 128(1)(a)(i) because Corporation C holds qualifying voting control and owns 90% of the required shares of Corporation D.
+
+Consequently, under the provisions of subsection 128(2), Corporation A and Corporation D are closely related to each other since they are both closely related under the rules of subsection 128(1) to the same corporation (Corporation C).
+
+### Corporations owned and controlled by credit unions
+
+41. For purposes of the GST/HST, **credit union** is defined in subsection 123(1) as having “the meaning assigned by subsection 137(6) of the Income Tax Act and includes a corporation described in paragraph (a) of the definition of deposit insurance corporation in subsection 137.1(5) of that Act”.
+
+42. For more information on the meaning of credit union, refer to [GST/HST Memorandum 17-8, Credit Unions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-8.html).
+
+43. In order for a credit union that is a corporation and another corporation that is not a credit union to be members of the same closely related group, as defined in subsection 123(1), the credit union and the other corporation must:
+
+- be closely related, as set out in section 128
+
+- both be resident in Canada
+
+- both be registrants (subject to the exception described in the next paragraph)
+
+44. While only actual registrants can ordinarily be members of a closely related group, paragraph (b) of the definition of closely related group provides that for purposes of that definition, a credit union is deemed to be a registrant. Therefore, when a credit union and another corporation are closely related under section 128, the credit union does not have to actually be registered for GST/HST purposes in order to be treated as being a member of a closely related group that includes the other corporation, provided the other corporation is a registrant and both corporations are resident in Canada.
+
+45. If not less than 90% of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of a corporation is owned by, and qualifying voting control is held by, a credit union that is also a corporation, the corporation and the credit union will be closely related under subparagraph 128(1)(a)(i).
+
+46. In addition, paragraph (b) of the definition of qualifying subsidiary in subsection 123(1) provides that where a particular corporation is a credit union, every other credit union is a qualifying subsidiary of the particular credit union. In that scenario, if one or more of those other credit unions have qualifying voting control of, and own at least 90% of the value and number of the issued and outstanding shares (having full voting rights under all circumstances) of, a corporation that is not a credit union, that corporation is closely related to the particular credit union under subparagraph 128(1)(a)(v), notwithstanding that the credit unions themselves might be otherwise unrelated.
+
+47. Furthermore, if all of the credit unions were corporations, they would all be qualifying subsidiaries of each other and, therefore, the corporation that is not a credit union would be closely related to all of those credit unions, including those that do not own a share of the corporation.
+
+Credit Union A, Credit Union B and Credit Union C are all corporations and they have no common shareholders. Paragraph (b) of the definition of qualifying subsidiary in subsection 123(1) provides that Credit Union B is a qualifying subsidiary of Credit Union A. Together, Credit Union A and Credit Union B, its qualifying subsidiary, hold qualifying voting control and own all of the required shares of Corporation X. Therefore, Credit Union A and Credit Union B are closely related to Corporation X under subparagraph 128(1)(a)(v).
+
+Further, each of Credit Union A and Credit Union B are qualifying subsidiaries of Credit Union C. Therefore, Credit Union C and Corporation X are also closely related under subparagraph 128(1)(a)(v) since qualifying voting control of Corporation X is held by, and not less than 90% of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of Corporation X are owned by, a combination of two qualifying subsidiaries of Credit Union C.
+
+Corporation Y is closely related to Corporation X under subparagraph 128(1)(a)(i). Since each of Credit Union A, Credit Union B and Credit Union C are closely related to Corporation X under the rules of subsection 128(1), each of the credit unions are also closely related to Corporation Y under subsection 128(2).
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries,**call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries,**call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in**Quebec**, call**Revenu Québec**at **1-800-567-4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for**general GST/HST**or**QST enquiries**, call**Business Enquiries**at**1-800-959-5525**
+
+- for**technical GST/HST**or**QST enquiries**, call**GST/HST Rulings SLFI**at**1-855-666-5166**

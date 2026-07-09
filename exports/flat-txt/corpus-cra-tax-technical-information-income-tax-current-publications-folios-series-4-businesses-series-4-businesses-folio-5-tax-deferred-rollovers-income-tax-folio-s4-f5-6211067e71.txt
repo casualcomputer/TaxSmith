@@ -1,0 +1,157 @@
+Title: Income Tax Folio S4-F5-C1, Share for Share Exchange
+Source: https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-5-tax-deferred-rollovers/income-tax-folio-s4-f5-c1-share-share-exchange.html
+Corpus path: corpus/cra/tax/technical-information/income-tax/current-publications/folios/series-4-businesses/series-4-businesses-folio-5-tax-deferred-rollovers/income-tax-folio-s4-f5-c1-share-share-exchange.md
+Document type: technical_publication
+Last modified: 2015-11-23
+
+# Income Tax Folio S4-F5-C1, Share for Share Exchange
+
+**Series 4: Businesses**
+
+**Folio 5: Tax Deferred Rollovers**
+
+**Chapter 1: Share for Share Exchange**
+
+## Summary
+
+This Chapter discusses the rules applicable to a share for share exchange carried out under section 85.1. The rules apply in certain circumstances when a taxable Canadian corporation is acquired by a Canadian corporation. The provisions are generally intended to provide a tax-free (rollover) exchange of shares of a taxable Canadian corporation for shares in another Canadian corporation. In order for the rollover to apply, the taxpayer must have held the exchanged shares as capital property. In addition, the consideration received on the exchange of these shares must be newly issued shares of the other corporation. The cost to the purchaser of each of the shares of the acquired corporation is generally the lesser of the fair market value of the share and its paid-up capital.
+
+This Chapter does not discuss share for share exchanges involving foreign corporations carried out under subsections 85.1(3) to 85.1(6.1). Furthermore, this Chapter does not discuss SIFT unit for share exchanges carried out under subsections 85.1(7) and 85.1(8).
+
+The Canada Revenue Agency (CRA) issues income tax folios to provide technical interpretations and positions regarding certain provisions contained in income tax law. Due to their technical nature, folios are used primarily by tax specialists and other individuals who have an interest in tax matters. While the comments in a particular paragraph in a folio may relate to provisions of the law in force at the time they were made, such comments are not a substitute for the law. The reader should, therefore, consider such comments in light of the relevant provisions of the law in force for the particular tax year being considered.
+
+## Table of contents
+
+- [Discussion and interpretation](#toc0)
+
+    - [Conditions for the application of subsection 85.1(1)](#toc1)
+
+    - [Limitations to the application of subsection 85.1(1)](#toc2)
+
+    - [Tax consequences to the vendor](#toc3)
+
+    - [Tax consequences to the purchaser](#toc4)
+
+    - [Computation of paid-up capital](#toc5)
+
+    - [Preservation of a tax-free zone](#toc6)
+
+- [Application](#toc7)
+
+- [Reference](#toc8)
+
+- [History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-5-tax-deferred-rollovers/income-tax-folio-s4-f5-c1-share-share-exchange/chapter-history-s4-f5-c1-share-share-exchange.html)
+
+## Discussion and interpretation
+
+### Conditions for the application of subsection 85.1(1)
+
+**1.1** Subsection 85.1(1) applies where a taxpayer (**vendor**) who holds shares (**exchanged shares**) in a corporation (**acquired corporation**) exchanges them for shares in the capital stock of a purchasing corporation (**purchaser**).
+
+**1.2** In order for the conditions in subsection 85.1(1) to be satisfied:
+
+1. the purchaser must be a Canadian corporation, as defined in subsection 89(1);
+
+2. the vendor must hold the exchanged shares as capital property;
+
+3. the exchanged shares must be shares of the capital stock of a taxable Canadian corporation, as defined in subsection 89(1); and
+
+4. the consideration received by the vendor on the exchange must be newly issued shares of one class from the treasury of the purchaser and cannot consist of stock options, income bonds, debentures or any other non-share consideration.
+
+**1.3** A partnership is generally considered to be a taxpayer for the purposes of subsection 85.1(1).
+
+**1.4** For share exchanges that occur after June 30, 2005, subsection 85.1(2.2) deems certain share issues made by the purchaser to be made to the vendor when they are in fact made to a trust under a court-approved plan of arrangement. This will be the case only where:
+
+1. the vendor disposes of the exchanged shares to the purchaser solely for the shares issued by the purchaser;
+
+2. the exchanged shares must trade on a designated stock exchange; and
+
+3. the shares issued by the purchaser are widely traded on a designated stock exchange immediately after and as part of completion of the plan of arrangement.
+
+**1.5** Subsection 85.1(2.2) does not apply to a particular share exchange of a taxpayer that occurs before November 5, 2010 if, within six months of being advised by the Minister of National Revenue that subsection 85.1(2.2) applies to the exchange, the taxpayer elects in writing not to have that subsection apply to the exchange.
+
+### Limitations to the application of subsection 85.1(1)
+
+**1.6** Subsection 85.1(1) will not apply where:
+
+1. the vendor acquires shares of the purchaser in exchange for other shares of the purchaser;
+
+2. the vendor acquires shares of the purchaser from a shareholder of the purchaser in exchange for shares of the acquired corporation;
+
+3. immediately before the exchange, the vendor and the purchaser were not dealing at arm's length. For this purpose, a right referred to in paragraph 251(5)(b) that is the right of the purchaser to acquire the exchanged shares is not applicable in determining whether persons are not dealing at arm’s length (paragraph 85.1(2)(a)). For a discussion of the criteria used to determine whether persons deal with each other at arm’s length, see [Income Tax Folio S1-F5-C1, Related Persons and Dealing at Arm’s Length](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html);
+
+4. immediately after the exchange, the vendor or persons with whom the vendor did not deal at arm's length, or the vendor together with such persons,
+
+    1. had de jure (legal) control of the purchaser, or
+
+    2. beneficially owned shares of the capital stock of the purchaser having a fair market value of more than 50% of the fair market value of all of the outstanding shares of the capital stock of the purchaser (paragraph 85.1(2)(b));
+
+5. the vendor is a foreign affiliate of a taxpayer resident in Canada at the end of the vendor’s tax year in which the exchange occurred, and the vendor included any portion of the gain or loss from the exchange in computing its foreign accrual property income for the tax year (paragraph 85.1(2)(e));
+
+6. the vendor and the purchaser have filed an election under subsection 85(1) or (2) with respect to the exchanged shares (paragraph 85.1(2)(c)). This will not preclude another vendor who has exchanged shares as part of the same arrangement from benefitting from subsection 85.1(1) if that vendor qualifies;
+
+7. subject to ¶1.7, the consideration received by the vendor for the exchanged shares includes shares of more than one class of the capital stock of the purchaser (paragraph 85.1(2)(d)); or
+
+8. subject to ¶1.7, the consideration received by the vendor for the exchanged shares includes consideration other than shares of the purchaser (**non-share consideration**) (paragraph 85.1(2)(d)). A right to acquire shares to be issued by the purchaser in the future as a settlement of a portion of the exchange is non-share consideration.
+
+**1.7** In certain circumstances, even if a share exchange is one that is described in ¶1.6(g) or (h,) subsection 85.1(1) could still apply. Subsection 85.1(1) may apply where a vendor:
+
+- receives newly issued shares of one class from the purchaser for some of the exchanged shares and non-share consideration or shares of a different class for other exchanged shares. The vendor must be able to clearly identify which exchanged shares were exchanged in consideration for the newly issued shares of that class of the purchaser and which were exchanged in consideration for shares of another class of the purchaser or for non-share consideration. The vendor must report any gain or loss from the disposition of each exchanged share for which shares of another class of the purchaser or non-share consideration was received.
+
+- receives newly issued shares of the purchaser and non-share consideration for each exchanged share. The purchaser’s offer must clearly indicate which fraction of each exchanged share is exchanged in consideration for the newly issued shares of the purchaser and which fraction of each exchanged share is exchanged for non-share consideration. The vendor must report any gain or loss from the disposition of the fraction of each exchanged share for which non-share consideration was received.
+
+- cannot receive a fractional share but is entitled under an exchange agreement to receive cash or other non-share consideration in lieu of a fraction of a newly issued share of the purchaser. Where the total value of the non-share consideration is $200 or less, the vendor may ignore the computation of the gain or loss on the partial disposition and reduce the adjusted cost base of the shares received by the amount of that value. Alternatively, the vendor may report the gain or loss. Where the total value of any non-share consideration received is greater than $200, the vendor must report any gain or loss from the disposition.
+
+### Tax consequences to the vendor
+
+**1.8** Unless the vendor chooses to include any portion of the gain or loss in income for the tax year in which the exchange occurred, the rollover provisions of subsection 85.1(1) apply automatically to the exchange and no election is required to be filed.
+
+**1.9** The vendor is deemed to dispose of the exchanged shares at their adjusted cost base and to have acquired the shares of the purchaser at a cost equal to the adjusted cost base of the exchanged shares immediately before the exchange.
+
+**1.10** Where the exchanged shares were taxable Canadian property of the vendor, the shares of the purchaser acquired by the vendor in the exchange will be deemed to be taxable Canadian property at any time that is within 60 months after the exchange.
+
+**1.11** If the vendor is a non-resident of Canada, and the exchanged shares meet the definition of taxable Canadian property but are not **excluded property** as defined in subsection 116(6), section 116 requirements must be complied with. For more information on these requirements, refer to [Information Circular IC72-17R6, Procedures Concerning the Disposition of Taxable Canadian Property by Non-residents of Canada - Section 116](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic72-17.html).
+
+### Tax consequences to the purchaser
+
+**1.12** Paragraph 85.1(1)(b) provides rules applicable to the purchaser. These rules apply even if the vendor has otherwise reported a gain or loss on the exchange.
+
+**1.13** The cost of each exchanged share to the purchaser is the lesser of:
+
+1. its fair market value immediately before the exchange; and
+
+2. its paid-up capital immediately before the exchange.
+
+### Computation of paid-up capital
+
+**1.14** Subsection 85.1(2.1) provides rules for computing the paid-up capital of the shares of the purchaser. The subsection applies where, as a result of an exchange to which subsection 85.1(1) applies, the increase in the paid-up capital of all of the outstanding shares of the purchaser exceeds the paid-up capital of the exchanged shares acquired by the purchaser (the **excess**). The effect of these rules is to limit the paid-up capital of the particular shares to the paid-up capital of the exchanged shares.
+
+**1.15** Paragraph 85.1(2.1)(a) requires that the paid-up capital of any particular class of shares be reduced by that proportion of the excess that the increase in the paid-up capital of that particular class of shares is of the increase in the paid-up capital of all classes of shares.
+
+**1.16** Paragraph 85.1(2.1)(a) is applicable in determining the paid-up capital of the purchaser’s shares even if the vendor has otherwise reported a gain or loss on the exchange.
+
+**1.17** Paragraph 85.1(2.1)(b) provides for a paid-up capital addition where paragraph 85.1(2.1)(a) previously required a reduction in the paid-up capital of a class of shares. This addition will apply where subsection 84(3), 84(4) or 84(4.1) subsequently deems a dividend as having been paid on shares of that class. The paid-up capital additions for a class of shares may not exceed the previous paid-up capital reductions for that class that resulted from the application of paragraph 85.1(2.1)(a).
+
+### Preservation of a tax-free zone
+
+**1.18** In respect of shares which are rolled over under subsection 85.1(1), subsection 26(26) of the ITAR provides that where the exchanged shares were owned by the vendor on December 31, 1971 and thereafter without interruption until the time of the exchange, the shares of the purchaser are deemed to be those same shares owned on December 31, 1971. The tax-free zone is thereby preserved.
+
+**1.19** By virtue of subsection 26(28) of the ITAR, subsection 26(26) of the ITAR will apply to the exchanged shares even though there has been a previous application of any of subsections 26(5), (21), (24), (26) or (27) of the ITAR to those shares. This applies to share exchanges under section 85.1 occurring after July 13, 1990 or, where the vendor makes an election, it applies to share exchanges occurring after May 7, 1974 for shares owned by the vendor on July 13, 1990. Prior to the enactment of subsection 26(28) of the ITAR, the previous application of any of subsections 26(5), (21), (24), (26) or (27) of the ITAR precluded the application of subsection 26(26) of the ITAR.
+
+## Application
+
+This updated Chapter, which may be referenced as S4-F5-C1, is effective November 24, 2015.
+
+When it was first published on June 12, 2015, it replaced and cancelled Interpretation Bulletin IT-450R, Share for Share Exchange.
+
+The history of updates to this Chapter as well as any technical updates from the cancelled interpretation bulletin can be viewed in the [Chapter History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-5-tax-deferred-rollovers/income-tax-folio-s4-f5-c1-share-share-exchange/chapter-history-s4-f5-c1-share-share-exchange.html) page.
+
+Except as otherwise noted, all statutory references herein are references to the provisions of the Income Tax Act, R.S.C., 1985, c.1 (5th Supp.), as amended and all references to a Regulation are to the Income Tax Regulations, C.R.C., c. 945, as amended.
+
+Links to jurisprudence are provided through CanLII.
+
+Income tax folios are available in electronic format only.
+
+## Reference
+
+Subsections 85.1(1), 85.1(2), 85.1(2.1) and 85.1(2.2); (also subsections 84(3), 84(4), 84(4.1), 116(1) and 116(6), and subsections 26(26) and 26(28) of the Income Tax Application Rules (ITAR)).

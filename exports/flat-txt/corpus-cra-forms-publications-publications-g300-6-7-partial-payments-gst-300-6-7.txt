@@ -1,0 +1,127 @@
+Title: Partial Payments (GST 300-6-7)
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/g300-6-7/partial-payments-gst-300-6-7.html
+Corpus path: corpus/cra/forms-publications/publications/g300-6-7/partial-payments-gst-300-6-7.md
+Document type: publication
+Last modified: 2017-06-22
+
+# Partial Payments (GST 300-6-7)
+
+**Notice to the reader:**
+
+Please note that the following GST Memorandum, although correct at the time of issue, has not been updated to reflect any subsequent legislative changes since the date of issue. As a result, some of the technical information this memorandum contains may no longer be valid. Please contact your GST/HST Rulings Centre for assistance.
+
+GST memoranda 300-6-7
+
+**Ottawa, January 15, 1992 TAX ON SUPPLIES TIME OF LIABILITY PARTIAL PAYMENTS**
+
+This memorandum does not replace the law found in the *Excise Tax Act* and its Regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation or contact any Revenue Canada Excise/GST office for additional information.
+
+This memorandum may reflect amendments proposed to the *Excise Tax Act* by Notices of Ways and Means Motion tabled on December 18, 1990, March 27, 1991 and November 5, 1991. The federal government announced its intention to introduce certain amendments to the *Excise Tax Act* to effect these changes which were outlined by the Minister of Finance in press releases on the mentioned dates. [Where proposed changes affect information contained in this memorandum, the information is enclosed in square brackets.] At the time of publication, Parliament has not enacted these proposed amendments. Any commentary in this memorandum should not be taken as a statement by the Department that such amendments will in fact be enacted into law in their current form.
+
+This memorandum explains when liability for payment of the Goods and Services Tax (GST) is incurred with respect to partial payments.
+
+**LEGISLATIVE AND OTHER REFERENCES**
+
+*Excise Tax Act* - subsections 123(1), 152(1), 152(2), 168(1), 168(2), 168(3), 168(7) and 221(1)
+
+**DEFINITIONS AND INTERPRETATIONS**
+
+The following are either definitions which have been taken from the *Excise Tax Act* as amended by S.C. 1990, c. 45 (Bill C-62) or departmental interpretations of terms relevant to the administration of that Act.
+
+"**Act**" means the *Excise Tax Act;*
+
+"**consideration**" may be money, a thing, a service, forbearance in the exercise of a right or anything else which induces the supplier to make the supply. Where consideration is monetary, the amount of the money will be used to calculate the tax. Where the consideration is non-monetary, the fair market value of the consideration at the time the supply was made will be used to calculate the tax;
+
+"**invoice**" includes a statement of account, a bill and any other similar record, regardless of its form or characteristics, and a cash register slip or receipt;
+
+"**person**" means an individual, partnership, corporation, trust or estate, or a body that is a society, union, club, association, commission or other organization of any kind;
+
+"**property**" means any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money;
+
+"**recipient**", in respect of a supply, means the person who pays or agrees to pay consideration for the supply or, if no consideration is or is to be paid for the supply, the person to whom the supply is made;
+
+"**registrant**" means a person who is registered under section 241 or who is required to apply to be registered under section 240 of the Act;
+
+"**service**" means anything other than
+
+(a) property,
+
+(b) money, and
+
+(c) anything that is supplied to an employer by a person who is or agrees to become an officer or employee of the employer in the course of or in relation to the office or employment of that person;
+
+"**supply**" means, subject to sections 133 and 134 of the Act, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition;
+
+"*tax*" means the Goods and Services Tax payable under Part IX of the Act;
+
+"**taxable supply**" means a supply that is made in the course of a commercial activity, but does not include an exempt supply.
+
+**GENERAL RULE**
+
+1. The general timing of liability rule, under subsection 168(1) of the Act, is that tax is payable by the recipient of a taxable supply on the earlier of the day the consideration for the supply is paid and the day the consideration for the supply becomes due. Tax is generally collectible by the supplier at the same time that it is payable by the recipient.
+
+2. Registrants are required to account for any tax collectible, on the return for the reporting period in which the tax became collectible, regardless of whether it was actually collected.
+
+**Consideration Paid**
+
+3. Consideration is paid when it is received by the supplier.
+
+**Consideration Becomes Due**
+
+4. Under subsection 152(1) of the Act, consideration, or a part thereof, for a taxable supply, is deemed to become due on the earliest of the following days:
+
+(a) the day that the supplier first issues an invoice in respect of the supply for that consideration or part and the date of that invoice;
+
+(b) the day the supplier would have, but for an undue delay, issued an invoice in respect of the supply for that consideration or part; and
+
+(c) the day that the recipient is required to pay that consideration or part pursuant to an agreement in writing.
+
+**PARTIAL PAYMENTS**
+
+5. Where consideration for a taxable supply is paid or becomes due on more than one day, then each part of the consideration is a "partial payment" for the taxable supply.
+
+6. Where consideration for a taxable supply is paid or becomes due on more than one day, then, pursuant to subsection 168(2) of the Act, the tax will be payable by the recipient (and, therefore, collectible by the supplier) on the earlier of the day a partial payment is made and the day that part becomes due.
+
+7. When subsection 168(2) of the Act applies, tax will be payable on the partial payment alone and not on the entire consideration for the supply. For example, a year-long study beginning in January, with a final report due in December, is commissioned for a total price of $5,000. The written agreement provides for quarterly partial payments of $1,000 with a final payment making up the balance. Subsection 168(2) operates to prevent the application of tax on the total consideration at the time the first partial payment is made. Instead, the GST would be calculated and become payable only on the amount of the first partial payment of $1,000 at the end of March. The tax on the other partial payments of $1,000 would become due in June and September. The final payment of $2,000 would be made at the end of December and the GST on this amount would be payable on that day.
+
+8. Where a taxable supply of property is made by way of lease, licence or similar arrangement under an agreement in writing, subsection 152(2) of the Act stipulates that, notwithstanding subsection 152(1) of the Act, consideration will become due on the day that the recipient is required to pay consideration, or a part, pursuant to the agreement. Therefore, the issuance of an invoice, reminder notice or other similar document in these situations will not affect the time at which consideration becomes due.
+
+9. Where there is a written agreement which requires the recipient to pay consideration or a part at a particular time, tax is payable on that consideration regardless of whether partial payment was made on that day. That is because the consideration has become due on that day pursuant to subsection 152(1) of the Act.
+
+10. Similarly, where payment of consideration or part is made before the consideration or part becomes due under a written agreement, tax will be payable on the day the payment is made.
+
+11. Even where a written agreement exists, there are cases where liability for payment of the tax will occur prior to that set out in the agreement. For example, in the case of contracts for the construction of, or alteration, renovation or repair to any real property (or a ship or other marine vessel where the work will take longer than three months), according to the Override Rule in paragraph 168(3)(c) of the Act, if the consideration or any part of the consideration for the supply has not been paid or become due by the last day of the calendar month immediately following the month in which the work was substantially (90 per cent) completed, then the tax becomes payable on that day regardless of when the next partial payment is due pursuant to the written agreement.
+
+12. For example, a customer has commissioned the construction of a house, and the agreement in writing provides for monthly payments each equal to 10 per cent of the total cost to be made over a six month period commencing May 1, with the balance of 40 per cent due when the construction is fully completed. The construction of the house is substantially completed by October 10 and, consequently, the tax on the balance would become payable on November 30 despite the agreement stating that payment is not required until the house is fully completed.
+
+13. For further information on the Override Rule, see GST MEMORANDUM 300-6-11, **OVERRIDE RULE**.
+
+14. If holdbacks are applied to partial payments, then the rules governing the liability for tax with respect to holdbacks will apply, provided that the holdback relates to a written agreement for the construction, renovation or alteration of, or repair to any real property, or any ship or other marine vessel, or is pursuant to federal or provincial law. That is, tax will be payable on the amount held back on the earlier of the day that the holdback is paid out and the day the holdback period expires. Further information on holdbacks may be found in GST MEMORANDUM 300-6-14, **HOLDBACKS.**
+
+15. Additional information on partial payments with respect to the construction industry may be found in GST MEMORANDUM 300-6-13, **CONSTRUCTION CONTRACTS.**
+
+**REFERENCES**
+
+**OFFICE OF RESPONSIBILITY:**
+
+Policy and Legislation
+
+**LEGISLATIVE REFERENCES**:
+
+*Excise Tax Act*
+
+**HEADQUARTERS FILE**:
+
+N/A
+
+**SUPERSEDES GST MEMORANDUM:**
+
+GST 300-6-7, dated January 14,1991
+
+**OTHER REFERENCES:**
+
+N/A
+
+SERVICES PROVIDED BY THE DEPARTMENT ARE AVAILABLE IN BOTH OFFICIAL LANGUAGES.
+
+THIS MEMORANDUM IS ISSUED BY TECHNICAL INFORMATION, EXCISE/GST BRANCH UNDER THE AUTHORITY OF THE DEPUTY MINISTER OF NATIONAL REVENUE, CUSTOMS AND EXCISE.

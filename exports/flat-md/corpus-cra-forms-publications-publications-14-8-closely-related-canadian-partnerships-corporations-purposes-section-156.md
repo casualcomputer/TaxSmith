@@ -1,0 +1,278 @@
+---
+title: "Closely Related Canadian Partnerships and Corporations for Purposes of Section 156"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-8/closely-related-canadian-partnerships-corporations-purposes-section-156.html
+last_modified: 2023-06-20
+---
+# Closely Related Canadian Partnerships and Corporations for Purposes of Section 156
+
+GST/HST memorandum 14-8 June 2023
+
+This memorandum does not reflect the [draft legislative and regulatory proposals](https://fin.canada.ca/drleg-apl/2022/ita-lir-0822-l-3-eng.html) relating to the GST/HST included in the Department of Finance Canada [news release](https://www.canada.ca/en/department-finance/news/2022/08/government-delivering-on-budget-2022-commitments-to-canadians.html) issued on August 9, 2022.
+
+This memorandum cancels and replaces GST/HST Notice 303, Changes to the Closely-related Test.
+
+This memorandum explains what is meant when two Canadian partnerships or a Canadian partnership and a corporation are closely related for purposes of section 156 of the Excise Tax Act.
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the Excise Tax Act (ETA). The information in this publication does not replace the law found in the ETA and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1-800-959-8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1-800-567-4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1-855-666-5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [Overview](#_Toc68768604)
+
+- [Qualifying voting control](#_Toc68768605)
+
+- [Interest in a partnership](#_Toc68768606)
+
+- [Closely related Canadian partnerships and corporations](#_Toc68768607)
+
+    - [Paragraph 156(1.1)(a) – Closely related Canadian partnerships](#_Toc68768608)
+
+    - [Paragraph 156(1.1)(b) – Closely related Canadian partnerships and corporations](#_Toc68768609)
+
+    - [Persons closely related to the same person](#_Toc68768610)
+
+## Overview
+
+1. Section 156 describes the manner in which two Canadian partnerships or a Canadian partnership and a corporation that is resident in Canada may be closely related to each other for purposes of making the joint election described under subsection 156(2).
+
+2. The joint election under subsection 156(2) permits two Canadian partnerships or a Canadian partnership and a corporation that is resident in Canada that are specified members of a qualifying group to treat certain taxable supplies between them as having been made for nil (or no) consideration. For information about the definitions of **specified member** and **qualifying group**, refer to [GST/HST Memorandum 14-5, Election to Deem Supplies to be Made for Nil Consideration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-5.html).
+
+3. For information about this joint election and the conditions for being a specified member of a qualifying group, refer to [GST/HST Memorandum 14-5](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-5.html) and [Form RC4616, Election or Revocation of an Election for Closely Related Corporations and/or Canadian Partnerships to Treat Certain Taxable Supplies as Having Been Made for Nil Consideration for GST/HST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html).
+
+4. The rules for determining whether a Canadian partnership and another person that is a Canadian partnership or a corporation resident in Canada are closely related are set out in subsection 156(1.1). These rules are based on the holding of **qualifying voting control** of the corporation together with the ownership of the share capital of the corporation or, in the case of a Canadian partnership, the holding of all or substantially all of the **interest in the partnership**.
+
+## Qualifying voting control
+
+5. Under subsection 128(1.1), for purposes of Part IX of the ETA, “a person or a group of persons holds qualifying voting control in respect of a corporation at any time if at that time
+
+1. the person, or the members of the group collectively, as the case may be, own shares of the corporation to which are attached not less than 90% of the shareholder votes that may be cast in respect of each matter, other than a matter
+
+    1. for which a statute of a country, or of a state, province, or other political subdivision of a country, that applies to the corporation provides, in respect of the vote of the shareholders of the corporation on the matter, that
+
+          1. any shareholder of the corporation has voting rights that are different from the voting rights that the shareholder would otherwise have under the letters patent, instrument of continuance or other constating instrument by which the corporation was incorporated or continued, including any amendment to, or restatement of, the constating instrument, or
+
+          2. holders of a class or series of shares of the corporation are entitled to vote separately as a class or series, or
+
+    2. that is a prescribed matter or a matter that meets prescribed conditions or arises in prescribed circumstances; or
+
+2. the person or group, as the case may be, is a prescribed person or group in relation to the corporation.”
+
+6. In other words, in order for a person (or group of persons) to be considered to hold qualifying voting control of a corporation, 90% or more of shareholder votes in respect of all corporate matters must be held and controlled by the person (or group of persons) with limited exceptions. Only where a particular person (or particular group of persons) has a high degree of both ownership and control of the corporation will the person (or group of persons) and the corporation be considered to be closely related for purposes of the GST/HST.
+
+7. Refer to [GST/HST Memorandum 14-7, Closely Related Corporations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-7.html), for additional information on the meaning of qualifying voting control.
+
+## Interest in a partnership
+
+8. For the purposes of section 156, subsection 156(1.3) provides that “a person, or a group of persons, holds, at any time, all or substantially all of the interest in a partnership only if, at that time,
+
+1. the person, or every person in the group of persons, is a member of the partnership; and
+
+2. the person, or the members of the group collectively, as the case may be, is or are
+
+    1. entitled to receive at least 90% of
+
+          1. if the partnership had income for the last fiscal period (within the meaning of the Income Tax Act) of the partnership that ended before that time (or, if the partnership’s first fiscal period includes that time, for that period), the total of all amounts each of which is the share of that income from all sources that each member of the partnership is entitled to receive, or
+
+          2. if the partnership had no income for the last fiscal period or the first fiscal period referred to in clause (A), as the case may be, the total of all amounts each of which is the share of the income of the partnership that each member of the partnership would be entitled to receive if the income of the partnership from each source were one dollar [the **income test**],
+
+    2. entitled to receive at least 90% of the total amount that would be paid to all members of the partnership (otherwise than as a share of any income of the partnership) if it were wound up at that time [the**winding-up test**], and
+
+    3. able to direct the business and affairs of the partnership or would be so able if no secured creditor had any security interest in an interest in, or the property of, the partnership [the **direction test**].”
+
+9. The income entitlement part of the preceding tests recognizes the fact that a partnership can have a different income sharing arrangement for each source of income of the partnership.
+
+10. Even though a secured creditor (for example, a bank) may hold a security interest in either the property of the partnership or an interest in the partnership and thus may be able to direct to some extent the business and affairs of the partnership, subparagraph 156(1.3)(b)(iii) applies the direction test assuming no secured creditor of the partnership has such a security interest.
+
+11. The condition under which a person (or group of persons) is able to direct the business and affairs of the partnership is consistent with the conditions under which a person (or group of persons) holds qualifying voting control of a corporation. Only where a person (or group of persons) has a high degree of entitlement to the partnership’s income or to amounts that would be paid to all members of the partnership on the winding-up of the partnership, as well as control of the partnership, will the person (or group of persons) be considered to have all or substantially all of the interest in the partnership. Whether a person (or group of persons) is able to direct the business and affairs of the partnership will be determined on a case-by-case basis, which would include a review of the partnership agreement and other relevant documents attesting to the manner in which the business of the partnership is managed.
+
+12. In a limited partnership, the limited partners typically do not manage or exert control over the partnership. Instead, it is the general partner that directs the business and affairs of a limited partnership and has control over the partnership’s property and business. A limited partner that is not able to direct the business and affairs of a limited partnership cannot hold all or substantially all of the interest in the partnership for purposes of section 156. Therefore, such a limited partner would not be closely related to the limited partnership for purposes of subsection 156(1.1) and thus not a specified member of a qualifying group, even if it were entitled to 90% or more of the limited partnership’s income and were entitled to receive 90% or more of the total amount that would be paid to all members of the partnership on the winding-up of the partnership.
+
+13. As a result, the condition that all or substantially all of the interest in the partnership must be held by a person (or group of persons collectively) that is able to direct the business and affairs of the partnership may preclude limited partners and limited partnerships from together forming a qualifying group for purposes of the joint election under section 156.
+
+## Closely related Canadian partnerships and corporations
+
+14. A group of Canadian partnerships, or of Canadian partnerships and corporations, forms a qualifying group if each member of the group is closely related to each other member of the group according to the provisions set out in subsection 156(1.1). Paragraph 156(1.1)(a) addresses the rules regarding whether two Canadian partnerships are closely related to each other (refer to paragraphs 15 and 16 of this memorandum and Examples 1 to 5). Paragraph 156(1.1)(b) addresses the rules regarding whether a Canadian partnership and a corporation are closely related to each other (refer to paragraphs 17 and 18 of this memorandum and Examples 6 to 9).
+
+### Paragraph 156(1.1)(a) – Closely related Canadian partnerships
+
+15. Under paragraph 156(1.1)(a), a particular Canadian partnership and another person that is also a Canadian partnership (the other Canadian partnership) are closely related to each other for the purposes of section 156 at any time if, at that time, one of the following applies:
+
+1. all or substantially all of the interest in the other Canadian partnership is held by one of the following:
+
+    1. the particular partnership (refer to Example 1)
+
+    2. a corporation, or a Canadian partnership, that is a member of a qualifying group of which the particular partnership is a member (refer to Example 2)
+
+    3. any combination of corporations or partnerships referred to in clauses (A) and (B) (refer to Example 3)
+
+2. the particular partnership meets one of the following conditions:
+
+    1. it both holds qualifying voting control in respect of a corporation that is a member of a qualifying group of which the other Canadian partnership is a member and owns at least 90% of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of the corporation (refer to Example 4)
+
+    2. it holds all or substantially all of the interest in a Canadian partnership that is a member of a qualifying group of which the other Canadian partnership is a member (refer to Example 5)
+
+16. In Examples 1 to 5:
+
+- a reference to a partner having a certain percentage of interest (for example, 95% interest) in a partnership is a reference to that partner having an entitlement to receive both of the following:
+
+    - that percentage of the partnership’s income
+
+    - that percentage of the total amount that would be paid to all partners (other than as a share of any partnership income) in the event that the partnership is wound up
+
+- a partner of a partnership is presumed to be able to direct the business and affairs of the partnership, as set out in subsection 156(1.3) and noted in paragraph 8 of this memorandum, if the partner has more than a 50% interest in the partnership
+
+- a reference to owning the shares of a corporation is a reference to owning a percentage of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of the corporation
+
+- a reference to holding qualifying voting control is a reference to owning shares in respect of a corporation to which are attached not less than 90% of the required shareholder votes, as set out in subsection 128(1.1) and noted in paragraph 5 of this memorandum
+
+Canadian Partnership A and Canadian Partnership B are closely related under clause 156(1.1)(a)(i)(A) because Canadian Partnership A holds all or substantially all of the interest in Canadian Partnership B, as set out in subsection 156(1.3), since it satisfies the income test, the winding-up test and the direction test (discussed in paragraph 8 of this memorandum) in respect of Canadian Partnership B.
+
+Consequently, since Canadian Partnership A and Canadian Partnership B are closely related to each other, they form a qualifying group under paragraph (b) of the definition of **qualifying group** in subsection 156(1).
+
+Canadian Partnership A holds all or substantially all of the interest in Canadian Partnership B, as set out in subsection 156(1.3), since it satisfies the income test, the winding-up test and the direction test (discussed in paragraph 8 of this memorandum) in respect of Canadian Partnership B. Therefore, Canadian Partnership A and Canadian Partnership B are closely related under clause 156(1.1)(a)(i)(A) and together form a qualifying group.
+
+Canadian Partnership B holds all or substantially all of the interest in Canadian Partnership C, as set out in subsection 156(1.3), since it satisfies the income test, the winding-up test and the direction test in respect of Canadian Partnership C. Therefore, Canadian Partnership B and
+
+Canadian Partnership C are closely related under clause 156(1.1)(a)(i)(A).
+
+Since all or substantially all of the interest in Canadian Partnership C, as set out in subsection 156(1.3), is held by a Canadian partnership (Canadian Partnership B) that is a member of a qualifying group of which Canadian Partnership A is a member, Canadian Partnership A and Canadian Partnership C are closely related under clause 156(1.1)(a)(i)(B).
+
+Further, as Canadian Partnership A, Canadian Partnership B and Canadian Partnership C are all closely related to one another, they constitute a qualifying group under paragraph (b) of the definition of qualifying group in subsection 156(1).
+
+In the same manner as the partnerships in the previous examples, Canadian Partnership A, Canadian Partnership B and Canadian Partnership C are all closely related to each other under clauses 156(1.1)(a)(i)(A) and (B) and together form a qualifying group as described in Example 2.
+
+In addition, as the qualifying group of Canadian Partnership A, Canadian Partnership B and Canadian Partnership C together satisfy the income test, the winding-up test and the direction test (discussed in paragraph 8 of this memorandum) in respect of Canadian Partnership D, they hold all or substantially all of the interest in Canadian Partnership D under paragraph 156(1.3)(b). As a result, Canadian Partnership D is closely related to each of Canadian Partnership A, Canadian Partnership B and Canadian Partnership C under clause 156(1.1)(a)(i)(C).
+
+Canadian Partnership A holds qualifying voting control and owns 95% of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of Corporation W. Therefore, Canadian Partnership A and Corporation W are closely related under clause 156(1.1)(b)(i)(A). Consequently, they form a qualifying group.
+
+Corporation W holds all or substantially all of the interest in Canadian Partnership B, as set out in subsection 156(1.3), since it satisfies the income test, the winding-up test and the direction test (discussed in paragraph 8 of this memorandum) in respect of Canadian Partnership B. Under clause 156(1.1)(b)(iii)(A), Corporation W and Canadian Partnership B are closely related. Consequently, they form a qualifying group.
+
+Since Canadian Partnership A holds qualifying voting control and owns 95% of the required shares of Corporation W, which is a member of a qualifying group of which Canadian Partnership B is a member, Canadian Partnership A is closely related to Canadian Partnership B under clause 156(1.1)(a)(ii)(A).
+
+Further, Canadian Partnership A and Canadian Partnership B, together with Corporation W, form a qualifying group under paragraph (b) of the definition of qualifying group in subsection 156(1).
+
+Canadian Partnership A and Canadian Partnership B are closely related under clause 156(1.1)(a)(i)(A).
+
+Similarly, Canadian Partnership B and Canadian Partnership C are closely related under clause 156(1.1)(a)(i)(A). Consequently, they form a qualifying group.
+
+Canadian Partnership A is closely related to Canadian Partnership C under clause 156(1.1)(a)(ii)(B) since Canadian Partnership A holds all or substantially all of the interest in a Canadian partnership (Canadian Partnership B), which is a member of a qualifying group of which Canadian Partnership C is a member.
+
+Further, since Canadian Partnership A, Canadian Partnership B and Canadian Partnership C are all closely related to each other, they form a qualifying group under paragraph (b) of the definition of qualifying group in subsection 156(1).
+
+### Paragraph 156(1.1)(b) – Closely related Canadian partnerships and corporations
+
+17. Under paragraph 156(1.1)(b), a particular Canadian partnership and another person that is a corporation (the particular corporation) are closely related to each other for the purposes of section 156 at any time if, at that time, one of the following applies:
+
+1. qualifying voting control in respect of the particular corporation is held by, and not less than 90% of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of the particular corporation are owned by one of the following:
+
+    1. the particular partnership (refer to Example 6)
+
+    2. another corporation, or a Canadian partnership, that is a member of a qualifying group of which the particular partnership is a member (refer to Example 6)
+
+    3. any combination of corporations or partnerships referred to in clauses (A) and (B) (refer to Example 7)
+
+2. qualifying voting control in respect of a corporation is held by, and not less than 90% of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of that corporation are owned by:
+
+    1. if that corporation is a member of a qualifying group of which the particular partnership is a member, the particular corporation
+
+    2. if that corporation is a member of a qualifying group of which the particular corporation is a member, the particular partnership
+
+3. all or substantially all of the interest in the particular partnership is held by one of the following:
+
+    1. the particular corporation
+
+    2. another corporation, or a Canadian partnership, that is a member of a qualifying group of which the particular corporation is a member
+
+    3. any combination of corporations or partnerships referred to in clauses (A) and (B) (refer to Examples 8 and 9)
+
+4. all or substantially all of the interest in a Canadian partnership is held by:
+
+    1. if the Canadian partnership is a member of a qualifying group of which the particular partnership is a member, the particular corporation
+
+    2. if the Canadian partnership is a member of a qualifying group of which the particular corporation is a member, the particular partnership
+
+18. In Examples 6 to 9:
+
+- a reference to a partner having a certain percentage of interest (for example, 95% interest) in a partnership is a reference to that partner having an entitlement to receive both of the following:
+
+    - that percentage of the partnership’s income
+
+    - that percentage of the total amount that would be paid to all partners (other than as a share of any partnership income) in the event that the partnership is wound up
+
+- a partner of a partnership is presumed to be able to direct the business and affairs of the partnership, as set out in subsection 156(1.3) and noted in paragraph 8 of this memorandum, if the partner has more than a 50% interest in the partnership
+
+- a reference to owning the required shares of a corporation is a reference to owning a percentage of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of the corporation
+
+- a reference to holding qualifying voting control is a reference to owning shares in respect of a corporation to which are attached not less than 90% of the required shareholder votes, as set out in subsection 128(1.1) and noted in paragraph 5 of this memorandum
+
+Canadian Partnership X holds qualifying voting control and owns 90% of the shares of Corporation Z. Corporation Z holds qualifying voting control and owns 90% of the shares of Corporation L. Canadian Partnership X and Corporation Z are closely related under clause 156(1.1)(b)(i)(A) and form a qualifying group under paragraph (b) of the definition of qualifying group.
+
+Canadian Partnership X is closely related to Corporation L under clause 156(1.1)(b)(i)(B) since qualifying voting control of Corporation L is held by, and 90% of the shares of Corporation L are owned by, Corporation Z, which is a member of a qualifying group of which Canadian Partnership X is a member.
+
+Further, as Corporation Z and Corporation L are closely related under subsection 128(1) and, as a result, Canadian Partnership X, Corporation Z and Corporation L are all closely related to each other, they form a qualifying group under paragraph (b) of the definition of qualifying group in subsection 156(1).
+
+Canadian Partnership X and Canadian Partnership Y are closely related under clause 156(1.1)(a)(i)(A) and together form a qualifying group, as described in Example 1.
+
+Canadian Partnership X and Corporation Z are also closely related under clause 156(1.1)(b)(i)(A), as described in Example 6.
+
+Canadian Partnership Y and Corporation Z are closely related under clause 156(1.1)(b)(i)(B) as qualifying voting control and 90% of the shares of Corporation Z are owned by a Canadian partnership (Canadian Partnership X) that is a member of a qualifying group of which Canadian Partnership Y is a member.
+
+Further, as Canadian Partnership X, Canadian Partnership Y and Corporation Z are all closely related to each other, they form a qualifying group under paragraph (b) of the definition of qualifying group.
+
+With respect to Corporation L, as Canadian Partnership X owns 33% of the shares, Canadian Partnership Y owns 34% of the shares, and Corporation Z owns 33% of the shares, they together hold qualifying voting control and all of the shares in respect of Corporation L.
+
+Canadian Partnership X (the particular partnership) and Corporation L are closely related under clause 156(1.1)(b)(i)(C) because qualifying voting control is held by, and all of the shares of Corporation L are owned by, a combination of corporations and Canadian partnerships referred to in clauses 156(1.1)(b)(i)(A) and (B) (that is, by Canadian Partnership X and members of a qualifying group of which Canadian Partnership X is a member).
+
+In the same manner, Canadian Partnership Y is also closely related to Corporation L.
+
+Since Corporation Z and Corporation L are both closely related to Canadian Partnership X, they are also closely related to each other under subsection 156(1.2) (refer to paragraph 19 of this memorandum).
+
+Corporation A holds qualifying voting control and owns 100% of the shares in Corporation B. Consequently they are closely related under subparagraph 128(1)(a)(i). Further, Corporation A and Corporation B form a qualifying group under paragraph (a) of the definition of qualifying group.
+
+Corporation A also holds 50% of the interest in each of Canadian Partnership X, Canadian Partnership Y and Canadian Partnership Z. Corporation B holds the other 50% interest in each of the partnerships.
+
+Corporation A and Canadian Partnership X are closely related under clause 156(1.1)(b)(iii)(C) since Corporation B is a member of a qualifying group of which Corporation A is a member and Corporation A and Corporation B together hold all or substantially all of the interest in Canadian Partnership X , as set out in subsection 156(1.3).
+
+In the same manner, Corporation A is closely related to Canadian Partnership Y and Canadian Partnership Z.
+
+AB Corporation holds qualifying voting control and owns 100% of the shares of HoldCo A and HoldCo B. HoldCo A holds qualifying voting control and owns 100% of the shares of A Co. HoldCo B holds qualifying voting control and owns 100% of the shares of X Co and Y Co. These latter two corporations form Canadian Partnership XY, in which X Co holds 50% of the interest and Y Co holds 50%.
+
+In this structure, the six corporations (AB Corporation, Holdco A, A Co, Holdco B, X Co and Y Co) form a qualifying group under paragraph (a) of the definition of qualifying group since they are all closely related to each other under section 128.
+
+Canadian Partnership XY and A Co are closely related under clause 156(1.1)(b)(iii)(C) since, as set out in subsection 156(1.3), all or substantially all of the interest in Canadian Partnership XY is held by a combination of corporations (X Co and Y Co) that are members of a qualifying group of which A Co is a member. Canadian Partnership XY is closely related to A Co under clause 156(1.1)(b)(iii)(C) (as well as to all the other corporations that are members of the qualifying group, based on the same logic).
+
+### Persons closely related to the same person
+
+19. Where two persons are each closely related under subsection 156(1.1) to the same corporation or Canadian partnership, or would be so related to that Canadian partnership if each member of that partnership were resident in Canada, subsection 156(1.2) provides that they are closely related to each other for the purposes of section 156.
+
+Corporation T holds all or substantially all of the interest in Canadian Partnership U and Canadian Partnership V, as set out in subsection 156(1.3), since it satisfies the income test, the winding-up test and the direction test (discussed in paragraph 8 of this memorandum) in respect of Canadian Partnership U and Canadian Partnership V (Corporation T is not a limited partner). Under clause 156(1.1)(b)(iii)(A), Corporation T and Canadian Partnership U are closely related. In the same manner, Corporation T is also closely related to Canadian Partnership V.
+
+Consequently, the two Canadian partnerships are closely related to each other under subsection 156(1.2) because they are each closely related to Corporation T under subsection 156(1.1).
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries,**call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries,**call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in**Quebec**, call**Revenu Québec**at **1-800-567-4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for**general GST/HST**or**QST enquiries**, call**Business Enquiries**at**1-800-959-5525**
+
+- for**technical GST/HST**or**QST enquiries**, call**GST/HST Rulings SLFI**at**1-855-666-5166**

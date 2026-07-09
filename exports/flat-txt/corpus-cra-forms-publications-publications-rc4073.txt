@@ -1,0 +1,11 @@
+Title: RC4073 CANCELLED Protocol - Between the Appeals Branch and Collections and Verification Branch (CVB)
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4073.html
+Corpus path: corpus/cra/forms-publications/publications/rc4073.md
+Document type: publication
+Last modified: 2026-03-25
+
+# RC4073 CANCELLED Protocol - Between the Appeals Branch and Collections and Verification Branch (CVB)
+
+## This publication was cancelled
+
+This publication was cancelled as of 2026-03-25

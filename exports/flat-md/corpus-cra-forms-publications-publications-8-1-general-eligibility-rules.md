@@ -1,0 +1,528 @@
+---
+title: "General Eligibility Rules"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1/general-eligibility-rules.html
+last_modified: 2023-07-20
+---
+# General Eligibility Rules
+
+GST/HST memorandum 8.1 May 2005
+
+Overview
+
+This memorandum explains the function of input tax credits in the operation of the goods and services tax/harmonized sales tax (GST/HST). It outlines the general eligibility rules that apply when claiming input tax credits under the *Excise Tax Act* (the Act).
+
+Disclaimer
+
+The information in this memorandum does not replace the law found in the *Excise Tax Act* and its Regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation, or contact a Canada Revenue Agency (CRA) GST/HST Rulings Centre for more information. These centres are listed in GST/HST Memorandum 1.2, Canada Revenue Agency GST/HST Rulings Centres. If you wish to make a technical enquiry on the GST/HST by telephone, please call the toll-free number 1-800-959-8287.
+
+If you are located in the Province of Quebec, please contact Revenu Québec by calling the toll-free number 1-800-567-4692 for additional information.
+
+**Note:** This memorandum does not deal with the subject of input tax credits and real property. For information on this topic, refer to GST/HST Memorandum 19.1, [Real Property and the GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-1/real-property-gst-hst.html).
+
+**Note** This memorandum of Chapter 8 cancels and replaces GST Memorandum 400*, Input Tax Credits* and GST Memorandum 400-1-1, *Full Input Tax Credits*. Changes have not been side-barred.
+
+**Note – HST** Reference in this publication is made to supplies taxable at 7% or 15% (the rate of the HST). The 15% HST applies to supplies made in Nova Scotia, New Brunswick, and Newfoundland and Labrador (the “participating” provinces). If a person is uncertain as to whether the supply is made in a participating province, the person may refer to Technical Information Bulletin B-078, *Place of Supply Rules Under the HST*, available from any Canada Revenue Agency (CRA) tax services office.
+
+## Table of Contents
+
+- [General](#P35_1754)
+
+- [ITC eligibility rules](#P40_2919)
+
+- [General ITC rule](#P60_5329)
+
+- [Acquired, imported or brought into a participating province](#P63_5933)
+
+- [For consumption, use or supply in commercial activities](#P76_8509)
+
+    - [Apportionment](#P102_14939)
+
+    - [Grants and subsidies](#P105_15756)
+
+    - [Basis of apportionment](#P116_17763)
+
+    - [Capital personal property](#P130_21436)
+
+    - [Acquisition or termination of a commercial activity](#P148_25538)
+
+    - [Financial services](#P156_27540)
+
+    - [Incidental supplies](#P174_31262)
+
+- [Registrant when tax paid or payable](#P179_32282)
+
+    - [Earliest time for claiming an ITC](#P182_32788)
+
+    - [Recipient](#P196_35809)
+
+    - [Agents or representatives](#P220_41036)
+
+    - [Buying groups](#P227_42175)
+
+- [Substantiating the ITC claim](#P239_45417)
+
+- [Time limit for claiming ITCs](#P248_46985)
+
+## General
+
+**Purpose of ITCs**
+
+1. A fundamental principle underlying the GST/HST is that no tax should be included in the cost of property and services acquired, imported or brought into a participating province by a registrant to make taxable supplies (including zero-rated supplies) in the course of the commercial activities of the registrant. To ensure that a property or service consumed, used or supplied in the course of commercial activities effectively bears no GST/HST, registrants are generally eligible to claim an input tax credit (ITC) for the GST/HST paid or payable on such property or service. Consequently, the ITC enables each registrant to recover the tax incurred in that registrant’s stage of the production and distribution process.
+
+**Net tax s 225**
+
+2. Generally, registrants pay the GST/HST on the taxable supplies of property and services they acquire, and collect the 7% GST or 15% HST when they make taxable supplies of property and services. Registrants may then claim ITCs for the GST/HST paid or payable on the property and services that they acquired in their GST/HST returns by deducting the total eligible ITC amount in their net tax calculation.
+
+## ITC eligibility rules
+
+**Overview**
+
+3. The Act sets out the methods for determining the amount that is claimable as an ITC and the circumstances and conditions that must exist before an ITC can be claimed. A person may be able to claim an ITC with respect to property or a service if all the following criteria are met:
+
+- the property or service must be acquired, imported or brought into a participating province by a person for consumption, use or supply in the course of the person’s commercial activities;
+
+- the person must be a registrant during the reporting period in which the GST/HST on the property or service becomes payable by the person or is paid without having become payable;
+
+- the person must have obtained sufficient documentary evidence to substantiate the ITC prior to making the claim in a GST/HST return;
+
+- tax must be payable by the person in respect of the supply, importation or bringing in, or be properly paid by the person prior to its becoming payable; and
+
+- the ITC must be claimed in a return filed within the time limit for claiming the ITC.
+
+These criteria are discussed in detail in this memorandum.
+
+4. Where a person has satisfied all of the criteria for claiming an ITC, the person must determine the amount of this ITC. More information on this subject will be available in Memorandum 8.3, *Calculating Input Tax Credits*.
+
+**Restrictions and limitations s 170**
+
+5. In certain instances, the Act restricts the claiming of ITCs for:
+
+- memberships in clubs that mainly provide dining, recreational or sporting facilities;
+
+- home offices;
+
+- supplies of property or services acquired, imported or brought into a participating province exclusively for the personal consumption, use or enjoyment of past, present or prospective employees or officers or their relatives; and
+
+- supplies of property by way of lease, licence or similar arrangement primarily for the personal consumption, use or enjoyment of registrants who are individuals, or primarily for the personal consumption, use or enjoyment of partners, employees, officers or shareholders of partnerships, shareholders of corporations, beneficiaries of trusts or the relatives of any of these individuals.
+
+**Reasonable ss 170(2)**
+
+6. In all cases the ITCs claimed for tax payable must be reasonable in the circumstances.
+
+**More information**
+
+7. More information on these restrictions and limitations will be available in Memorandum 8.2, *General Restrictions and Limitations*.
+
+## General ITC rule
+
+**ss 169(1)**
+
+8. Where a person acquires or imports property or a service, or brings it into a participating province and, during a reporting period of the person in which the person is a registrant, the GST/HST in respect of the property or service becomes payable by the person or is paid by the person without having become payable, that person may be eligible to claim an ITC in respect of the tax to the extent (expressed as a percentage) it was acquired, imported or brought into a participating province for consumption, use or supply in the course of the person’s commercial activities.
+
+## Acquired, imported or brought into a participating province
+
+**Meaning of acquire**
+
+9. The word “acquire” is not defined in the Act. The ordinary dictionary definition of the term “acquire” is to get, obtain, have control over or possess. With respect to property, relevant case law indicates that property is acquired by obtaining ownership or such normal aspects of ownership as possession, use or risk.
+
+10. A person has not obtained a property or a service in a way that will allow the person to consume, use or supply it in the course of its commercial activities where the person acts as an agent when paying, on behalf of a principal, the consideration and tax in respect of a supply of property or a service. In this circumstance, the agent will not likely have any right to consume, use or supply the property or service in the course of the agent's own commercial activities and, in the case of property, may never take possession (see **paragraphs 68 to 71**).
+
+**Meaning of import ss 123(1)**
+
+11. The word "import" means import into Canada.
+
+**ITC eligibility on imports tax under Divisions III and IV s 169**
+
+12. In general, the ITC eligibility for tax paid or payable under Division III (tax on importation of goods) and Division IV (tax on imported taxable supplies) of the Act is the same as for tax paid or payable for taxable supplies made in Canada under Division II (goods and services tax). More information on claiming ITCs in respect of importations will be available in Chapter 6, *Imports*, of the GST/HST Memoranda Series.
+
+**Meaning of participating province ss 123(1)**
+
+13. The term “participating province” means a province or area referred to in Schedule VIII, but does not include the Nova Scotia and Newfoundland and Labrador offshore areas except to the extent that offshore activities are carried on in those areas. Currently, the participating provinces are Nova Scotia, New Brunswick, and Newfoundland and Labrador as well as the Nova Scotia and Newfoundland and Labrador offshore areas to the extent mentioned above.
+
+**Bringing into a participating province Division IV.1**
+
+14. The ITC eligibility rules for property or services taxed under Division IV.1 (tax on property and services brought into a participating province) are the same as those for supplies taxed under Division II.
+
+15. Additional information on how the HST applies to imports and for property or services brought into a participating province is available in Technical Information Bulletins B-079, [Self-Assessment of the HST on Supplies Brought into a Participating Province](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-079.html), and B-081, [Application of the HST to Imports](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-081.html).
+
+## For consumption, use or supply in commercial activities
+
+**Meaning of consumption or use**
+
+16. The words “consumption” and “use” are not defined in the Act. Therefore, their common dictionary meanings should be considered. The word "consumption" is generally defined as the act or instance of consuming or the process of being consumed. It also suggests the using up of a thing in producing a particular result, where the thing is altered, transformed or destroyed as a result of, for instance, a manufacturing or production activity.
+
+17. The word “use” means the act of making something perform its basic function, or the exploitation of something toward a particular end, where the thing retains its basic characteristic or form. It is generally defined as the act or practice of using or employing something.
+
+**Meaning of supply ss 123(1)**
+
+18. The word “supply” means, subject to sections 133 (agreement as supply) and 134 (transfer of security interest), the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition.
+
+**Meaning of taxable supply ss 123(1)**
+
+19. The term “taxable supply” means a supply that is made in the course of a commercial activity.
+
+**Meaning of commercial activity ss 123(1)**
+
+20. A commercial activity of a person means a business carried on by the person, or an adventure or concern of the person in the nature of trade (other than a business, adventure or concern carried on or engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent that the business, adventure or concern in the nature of trade involves the making of exempt supplies by the person. The definition also includes the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply. Exempt supplies are listed in Schedule V to the Act. For information on exempt supplies, refer to Chapter 5, [Exempt Supplies](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst/gst-hst-memoranda-series.html), of the GST/HST Memoranda Series.
+
+**Meaning of business ss 123(1)**
+
+21. The term “business” includes a profession, calling, trade, manufacture or undertaking of any kind whatever, whether the activity or undertaking is engaged in for profit, and any activity engaged in on a regular or continuous basis that involves the supply of property by way of lease, licence or similar arrangement, but does not include an office or employment.
+
+**More information**
+
+22. For more information on what is meant by the term “business”, refer to Policy Statements P-167R, [Meaning of the First Part of the Definition of Business](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-167r.html), P-176R, [Application of Profit Test to Carrying on a Business](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-176r.html) and P-205R, [Meaning of the Second Part of the Definition of “Business” and Whether it Applies to Activities Regardless of Whether There is an Expectation of Profit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-205r.html).
+
+A person who starts a Christmas tree farm for the purpose of making taxable supplies of trees is engaged in a commercial activity. If registered for the GST/HST, the person may be eligible to claim ITCs for the GST/HST paid or payable on the land, equipment, and seedlings acquired for the purpose of making taxable supplies of Christmas trees even though the person may be unable to make any taxable supplies of Christmas trees for several years to come.
+
+**Zero-rated supply ss 123(1), 165(3) and Schedule VI**
+
+23. Any property or service that is consumed, used or supplied in the course of making zero-rated supplies (i.e., taxable supplies where the rate of tax charged is 0%) is consumed, used or supplied in the course of that person’s commercial activities, thereby entitling the person to an ITC for any GST/HST paid or payable on the property or service provided all the other ITC criteria are satisfied. Zero-rated supplies are listed in Schedule VI to the Act. For additional information, refer to Chapter 4, Zero-Rated Supplies, of the GST/HST Memoranda Series.
+
+**Use or intended use in commercial activities (other than financial institutions) ss 141(1) and (2)**
+
+24. Where a person, other than a financial institution, acquires or imports property or a service, or brings it into a participating province and consumes or uses it (or intends to consume or use it) in the course of the person’s commercial activities, the person may claim an ITC equal to 100% of the GST/HST paid or payable for that input where substantially all (90% or more) of the consumption or use of the property or service is in the course of the person’s commercial activities and all the other ITC criteria are satisfied. Information on the special rules for capital personal property is found in [paragraph 38](#P38).
+
+**Use or intended use in non-commercial activities (other than financial institutions) ss 141(3) and (4)**
+
+25. On the other hand, where a person that is not a financial institution acquires or imports property or a service, or brings it into a participating province and consumes or uses it (or intends to consume or use it) substantially all (90% or more) in the course of the person’s non-commercial activities (e.g., exempt activities), all of the property or service is considered to be for consumption or use in non-commercial activities. Accordingly, no ITC can be claimed for the GST/HST paid or payable on that particular input even if the person is a registrant.
+
+ABC Inc. (a registrant that is not a financial institution) intends to use newly acquired office supplies less than 10% in its commercial activities (the remaining percentage is for use by the company in making exempt supplies). Since the inputs will be used substantially all in non-commercial activities (i.e., used 90% or more in making exempt supplies), ABC Inc. is not eligible to claim an ITC in respect of the GST/HST paid or payable on those acquisitions.
+
+**Financial institutions**
+
+26. The "substantially all" rule described above does not apply to financial institutions, thereby allowing them to claim their ITCs based on the actual percentage of consumption, use or supply of the property or services in their commercial activities (note that this method is also used by financial institutions to calculate their ITC eligibility regarding capital personal property). For more information on ITCs for financial institutions, please refer to Chapter 17, *Special Sectors*: *Financial Institutions,* of the GST/HST Memoranda Series.
+
+### Apportionment
+
+**ITC apportionment rules s 141.01**
+
+27. Where property or a service is consumed or used partly in the course of a person’s commercial activities and partly in its non-commercial activities (less than 90%, but more than 10% in its commercial activities), the person must apportion the GST/HST for the property or service between these two activities. Specifically, the person may be eligible to claim an ITC for the portion of the GST/HST paid or payable for the property or service that relates to its consumption or use in its commercial activities as long as all the other ITC criteria are satisfied. As noted below, this apportionment is based on the extent to which the property or service is used to make taxable supplies for consideration (which in this context does not include nominal consideration).
+
+### Grants and subsidies
+
+**Grants and subsidies as consideration ss 141.01(1.2)**
+
+28. It is only the making of taxable supplies for consideration that gives rise to ITC eligibility. However, this would restrict the ITC eligibility of certain grant recipients who incur expenses in carrying out commercial activities that are fully funded by grants or subsidies such as individual consultants providing counselling services at no cost to the client under a government employment program. The Act therefore ensures that these grant recipients are eligible to claim ITCs in respect of their commercial activities that involve the making of taxable supplies. This is consistent with the general policy that the receipt of grants and subsidies should not affect a person’s ITC eligibility.
+
+**Amounts deemed consideration ss 141.01(1.2)**
+
+29. For purposes of section 141.01, when a registrant receives an amount that is not consideration for a supply and that is a grant, subsidy, forgivable loan, or other form of assistance, if the amount can reasonably be considered to be provided for the purpose of funding an activity that involves the making of taxable supplies for no consideration and is provided by:
+
+1. a government, a municipality or a band (within the meaning assigned by section 2 of the *Indian Act*);
+
+2. a corporation that is controlled by a person referred to in paragraph (a) above, and one of the main purposes of which is to provide such assistance; or
+
+3. a trust, board, commission or other body that is established by a person referred to in paragraphs (a) and (b) above, and one of the main purposes of which is to provide such assistance;
+
+that amount is deemed to be consideration for those supplies.
+
+**Further information**
+
+30. Information to determine whether a payment is considered a grant or subsidy is available in Technical Information Bulletin B-067, Goods and Services Tax Treatment of Grants and Subsidies (to be updated and re-issued in Chapter 18, *Special Sectors: Government*, of the GST/HST Memoranda Series).
+
+### Basis of apportionment
+
+**Meaning of endeavour ss 141.01(1)**
+
+31. The term “endeavour” of a person means a business of a person, an adventure or concern in the nature of trade of a person, or the making of a supply by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply. The exclusions contained in the definition of commercial activity with respect to a reasonable expectation of profit by an individual, a personal trust or a partnership and to the extent to which any exempt supplies are made in the course of that activity are not included in the definition of the term “endeavour”.
+
+**For the purpose of making supplies para 141.01(2)(a)**
+
+32. Property and services acquired, imported or brought into a participating province for consumption or use in the course of an endeavour are deemed to be acquired, imported or brought in for consumption or use in a person’s commercial activities (and give rise to eligibility to claim an ITC) to the extent that the property and services are acquired, imported or brought in for the purpose of making taxable supplies for consideration.
+
+**For the purpose other than making supplies para 141.01(2)(b)**
+
+33. To the extent that property or services are acquired, imported or brought into a participating province for the purpose of making supplies that are not taxable supplies for consideration, or for a purpose other than the making of supplies in the course of that endeavour, the property and services are treated as having been acquired, imported or brought in for consumption or use otherwise than in the course of a person’s commercial activities.
+
+**Actual consumption or use ss 141.01(3)**
+
+34. The rule regarding the purpose of making taxable supplies in subsections 141.01(2) and 141.01(3) is identical except that the former applies to intended consumption and use and the latter applies to actual consumption and use. The rule in subsection 141.01(3) is pertinent to those provisions (e.g., change-in-use rules for capital property) that depend on whether, and to what extent, properties and services are, at any particular time, consumed or used in commercial activities.
+
+**Free supplies ss 141.01(4)**
+
+35. In general, registrants are eligible to claim ITCs in respect of the tax paid or payable on taxable property and services to the extent that they are acquired or imported for the purpose of making taxable supplies for consideration in the course of their business. However, registrants may be eligible to claim ITCs with respect to property or services supplied for nominal or nil consideration (referred to as “free supplies”) depending on the purpose for which the free supply is made.
+
+36. Property and services acquired or imported to be given away as a free supply are considered to have been acquired or imported for use by the supplier in the making of other supplies, and not for the free supply. The Act provides a similar rule with respect to property and services acquired or imported for consumption or use directly or indirectly in making free supplies. The effect of these rules is that the eligibility to claim ITCs in respect of the property or services acquired with the intention of being provided as a free supply or being used directly or indirectly as inputs to a free supply depends on the extent to which the free supply is made to promote or facilitate the making of taxable supplies for consideration.
+
+**More information**
+
+37. Memorandum 8.3, *Calculating Input Tax Credits*, will examine in detail the requirements for a person to apportion inputs between commercial and non-commercial activities and outlines different allocation methods.
+
+### Capital personal property
+
+**Capital personal property ss 199(1) and (2)**
+
+38. The general ITC apportionment rule described above is subject to the rules that apply to capital personal property of a registrant that is not a financial institution. When determining the amount, if any, of an ITC for capital personal property, in most cases, the “primary use” test applies to the property. While the terms “primary use” or “used primarily” are not defined in the Act, they are generally accepted to mean more than 50%.
+
+**Meaning of personal property ss 123(1)**
+
+39. The term “personal property” means property that is not real property.
+
+**Change-of-use rules**
+
+40. Where there is a change in the proportion of commercial use of capital property over the life of an asset, special change-in-use rules apply. In general, where the commercial use has decreased significantly, the registrant is required to pay tax as a recapture of the ITCs previously claimed. Conversely, where the commercial use has increased significantly, the registrant is generally permitted to claim an additional ITC to recover the tax paid on the acquisition or improvement to the extent of the change in use. Detailed information on these special rules will be available in GST/HST Memorandum 8.3, *Calculating Input Tax Credits*.
+
+**Basic tax content**
+
+41. The basic tax content of a person’s property is generally the amount of tax under Part IX of the Act that the person was required to pay on the property and improvements at the time of acquisition or improvement, after deducting any amounts (other than ITCs) that the person was entitled to recover by rebate, remission or otherwise, and after taking into account any depreciation in the value of the property.
+
+**Acquisition of capital personal property – primary use test ss 199(2)**
+
+42. Where most capital personal property is acquired, imported or brought into a participating province by a registrant for use primarily in its commercial activities, the registrant (other than a financial institution) is deemed to use that property exclusively in such activities. Accordingly, the registrant may be eligible to claim an ITC equal to the total amount of GST/HST paid or payable on that property provided that all the other ITC criteria are satisfied.
+
+43. Generally, where capital personal property is not for use primarily in the course of a registrant’s (other than a financial institution’s) commercial activities (i.e., it is used 50% or less in commercial activities), there is no ITC eligibility in respect of that property.
+
+A computer acquired by an individual registered for the GST/HST is for use 70% in the registrant’s commercial activities and 30% for the registrant’s personal use. Since the computer is capital personal property for GST/HST purposes and that property is used primarily in the course of the registrant’s commercial activities, the registrant may be eligible to claim an ITC equal to 100% of the tax paid or payable on the acquisition of the computer provided all the other ITC criteria are satisfied.
+
+**More information**
+
+44. Detailed information on the treatment of capital personal property under the GST/HST will be available in Chapter 11, *ITCs: Capital Personal Property*, of the GST/HST Memoranda Series. Special rules also exist for the calculation of ITCs with respect to improvements to capital property. These rules will be discussed in detail in Memorandum 8.3, *Calculating Input Tax Credits*. For financial institutions, refer to Chapter 17, Special Sectors: Financial Institutions, of the GST/HST Memoranda Series.
+
+**Passenger vehicles and aircraft – special cases**
+
+45. There are special provisions for claiming ITCs in respect of the acquisition, importation or bringing into a participating province of a passenger vehicle or aircraft for use in commercial activities of a registrant who is an individual or a partnership. These will be discussed in detail in Memorandum 8.2, *General Restrictions and Limitations*.
+
+### Acquisition or termination of a commercial activity
+
+**Acquisition or termination of a commercial activity para 141.1(3)(a)**
+
+46. To the extent a person does anything (other than make a supply) in connection with the acquisition, establishment, disposition or termination of a commercial activity, the person is deemed to have done that thing in the course of the person’s commercial activities.
+
+47. This rule does not in itself mean that a person is eligible to claim an ITC. At all times, the person will be subject to the general ITC rules. However, as a result of this rule, the person may be eligible to claim ITCs for the GST/HST paid or payable in respect of property or services that are related to the purchase or sale of a business that is a commercial activity of the person, provided all the other ITC criteria are satisfied.
+
+**Non-commercial activities para 141.1(3)(b)**
+
+48. Conversely, to the extent a person does anything (other than make a supply) in connection with the acquisition, establishment, disposition of, or termination of an activity that is not a commercial activity (e.g., making exempt supplies), the person is deemed to have done that thing otherwise than in the course of a commercial activity. Accordingly, the person will not be eligible to claim ITCs for the tax paid or payable in respect of property or services acquired in connection with the acquisition or termination of the non-commercial business activity.
+
+A registrant incurs legal costs related to the acquisition of a rental building leased to commercial retailers as well as to individuals as a place of residence (i.e., exempt long-term leases of residential units). To the extent that the legal costs are in connection with the purchase of the commercial activity portion of the rental building (i.e., the portion related to the taxable commercial leases), the registrant will be eligible to claim an ITC in respect of the GST/HST paid or payable on those costs provided all the other ITC criteria are satisfied.
+
+### Financial services
+
+**Financial services provided by a non-financial institution paras 149(1)(a) and (b) and ss 185(1)**
+
+49. In general, to the extent that a registrant that is not a listed or *de minimis* financial institution acquires, imports or brings into a participating province property or services that are used to provide financial services related to its commercial activities, the property or services are deemed to have been acquired, imported or brought into the province for consumption, use or supply in the course of the commercial activities of the registrant. This eliminates the need for registrants who incidentally provide financial services to apportion ITCs between making exempt supplies and commercial activities.
+
+A registrant acquires taxable property and services related to the raising of capital to expand its manufacturing plant which it uses exclusively in commercial activities. Since the corporation has acquired the supplies to provide financial services in connection with its commercial activities, the property or services are deemed to be acquired for consumption, use or supply in the course of the corporation’s commercial activities. The corporation will be eligible to claim ITCs in respect of the GST/HST paid or payable on those supplies provided all the other ITC criteria are satisfied.
+
+**Restriction paras 149(1)(c) and 185(1)(a)**
+
+50. Where a registrant is a *de minimis* financial institution under paragraph 149(1)(c), the registrant may still be eligible to claim an ITC for a property or service acquired, imported or brought into a participating province for consumption, use or supply in the course of making supplies of financial services that relate to its commercial activities except to the extent that the property or service relates to:
+
+- credit cards or charge cards issued by the registrant; or
+
+- the making of any advance, the lending of money or the granting of any credit.
+
+**Financial services provided by an individual ss 185(2)**
+
+51. Where financial services are provided by an individual who is a registrant, these services are deemed not to relate to the individual's commercial activities for the purposes of applying subsection 185(1) unless the revenues and expenses relating to the financial services are taken into account in determining the individual's income from a business for purposes of the *Income Tax Act*.
+
+**Use in supply of financial services s 198**
+
+52. Section 198 parallels section 185 with respect to capital property. To the extent that a registrant which is neither a listed financial institution nor a person which is a financial institution because of paragraph 149(1)(b) (generally because of interest or dividend income) uses property as capital property of the registrant in the making of supplies of financial services that relate to commercial activities of the registrant,
+
+1. where the registrant is a financial institution because of paragraph 149(1)(c) (generally because of revenues derived from credit activities), the registrant is deemed to use the property in those commercial activities only to the extent that the registrant does not use the property in activities of the registrant that relate to
+
+    - credit cards or charge cards issued by the registrant, or
+
+    - the making of any advance, the lending of money or the granting of any credit, and
+
+2. in any other case, the registrant is deemed to use the property in those commercial activities.
+
+53. It is therefore important that a registrant that provides financial services determine whether it is a financial institution, and what kind of financial institution, under the Act. Detailed information will be available in Chapter 17, Special Sectors: Financial Institutions, of the GST/HST Memoranda Series.
+
+### Incidental supplies
+
+**Incidental supplies s 138**
+
+54. Where a particular property or service is supplied together with any other property or service that is reasonably regarded as incidental to the particular property or service for a single consideration, the other property or service is deemed to form part of the particular property or service. Therefore, where a taxable supply is made for a single consideration and that supply includes incidental property or services, ITCs may be claimed for the GST/HST paid or payable on any property or service consumed, used or supplied in the course of making the incidental supplies provided all the other ITC criteria are satisfied.
+
+**Policy statements P-159R1 and P-160R**
+
+55. To determine whether the incidental supply rule applies to a specific fact pattern, refer to Policy Statements P159R1, [Meaning of the Phrase “Reasonably Regarded as Incidental”](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-159r-1.html), and P-160R, [Meaning of the Phrase “Where a Particular Property or Service Is Supplied Together With Any Other Property or Service”](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-160r.html).
+
+## Registrant when tax paid or payable
+
+**General rule for ITCs ss 169(1)**
+
+56. To be eligible to claim an ITC, a person does not have to be a registrant during the reporting period in which the property or service is acquired, imported or brought into a participating province, but must be a registrant during the reporting period in which the GST/HST becomes payable or is paid without having become payable. An ITC eligibility can be generated where the tax has not been paid as long as the tax has become payable.
+
+### Earliest time for claiming an ITC
+
+**When tax is payable ss 168(1)**
+
+57. The rules for determining the timing of the liability for payment of the tax for a taxable supply are relevant for purposes of establishing the earliest reporting period in which an ITC can be claimed by a person acquiring or importing that supply, or bringing it into a participating province. The general rule specifies that GST/HST becomes payable by a recipient of a taxable supply on the day the consideration for the supply is paid or becomes due, whichever is earlier.
+
+**Special rules**
+
+58. Additional rules are provided that clarify when tax in respect of a supply is considered payable (e.g., on delivery, on consignment, for instalments, construction contracts, continuous supplies, sales of real property, holdbacks, etc.). Careful attention should be given to the provisions in the Act that set out when the GST/HST is payable by the recipient in order to determine the first date on which an ITC can be claimed. Detailed information on time of liability is available in GST Memorandum 300-6, [Time of Liability](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/g300-6.html).
+
+**When consideration is due ss 152(1)**
+
+59. Consideration, or a part thereof, for a taxable supply is deemed to become due on the earliest of:
+
+- the day the supplier first issues an invoice in respect of the supply for that consideration or part, or the date of that invoice, whichever is the earlier;
+
+- the day the supplier would have, but for an undue delay, issued an invoice in respect of the supply for that consideration or part; and
+
+- the day the recipient is required to pay that consideration or part to the supplier pursuant to a written agreement.
+
+**No ITC where tax paid in error**
+
+60. Where a person pays an amount as tax, or on account of tax, in error (e.g., an amount described as GST/HST was paid on an exempt supply), the amount is not tax that was payable under the Act. Accordingly, the person is not strictly eligible to claim an ITC for that amount, but should recover the amount paid in error from the supplier. Failing that, the person may claim a rebate under section 261 of the Act for tax paid in error by using form GST189, [General Application for Rebate of Goods and Services Tax (GST)/Harmonized Sales Tax (HST)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html). However, in practice, if a person claims an ITC in respect of an amount paid in error (which frequently occurs, given that the registrant does not immediately realize upon payment that an overpayment has been made), the CRA will offset this amount at the time of a net tax assessment by the amount of the rebate of the excess GST/HST to which the person would otherwise have been entitled, without any penalty and interest consequences.
+
+**ITCs prior to becoming a registrant ss 171(1) and (2), and 171.1(2)**
+
+61. On becoming a registrant, a person may be eligible to claim additional ITCs. This will be discussed in detail in Memorandum 8.5, *Becoming and Ceasing to be a Registrant*. Furthermore, information on GST/HST registration requirements can be found in Chapter 2, Registration, of the GST/HST Memoranda Series.
+
+### Recipient
+
+**General**
+
+62. A person that acquires or imports property or a service or brings it into a participating province may be eligible to claim an ITC in respect of the GST/HST paid or payable by the person on that property or service to the extent that it was acquired, imported or brought into a participating province for consumption, use or supply in the course of commercial activities of the person. The person that is eligible to claim the ITC for the tax paid or payable on the property or service is usually the recipient.
+
+**Meaning of recipient ss 123(1)**
+
+63. The term “recipient” means:
+
+1. where consideration for a supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration;
+
+2. where there is no agreement and consideration is payable for the supply, the person who is liable to pay that consideration; and
+
+3. where there is no consideration payable and:
+
+    - the supply is the sale of property, the person to whom the property is delivered or made available;
+
+    - the property is not sold but is, for instance, leased or licensed to the person, the person to whom possession or use of the property is given or made available; and
+
+    - the supply is the supply of a service, the person to whom the service is rendered.
+
+64. The definition of recipient further states that any reference to a person to whom a supply is made shall be read as a reference to the recipient of the supply.
+
+Registrant A enters into a contract for the supply of a service and is liable to pay for the service thereby meeting the definition of recipient. Where Registrant A acquires the service for use in its commercial activities, it may be eligible to claim an ITC for the GST/HST paid or payable in respect of the service provided all the other ITC criteria are satisfied.
+
+#### Example - 2
+
+Corporation X is required to pay an amount owing to Y for the supply of property made by Y. Although no agreement exists between the two parties, in this example, Corporation X is the recipient of the supply. Whether the corporation will be eligible to claim an ITC will depend on whether all the other ITC criteria are satisfied.
+
+#### Example - 3
+
+Registrant A, engaged exclusively in commercial activities, places an order for equipment with a supplier and is liable to pay the consideration for the equipment under the agreement for the supply. Registrant B actually takes delivery of the goods and uses the equipment exclusively in its commercial activities. The invoice issued by the supplier identifies Registrant A as the customer and lists the shipping address of Registrant B for delivery purposes. When Registrant B receives the goods, it pays the supplier and subsequently claims the ITC. As supporting documentation, it uses the invoice made out in the name of Registrant A. However, Registrant B cannot claim an ITC since it is not the person liable to pay the consideration for the equipment, and therefore is not liable to pay the tax (i.e., it is not the recipient of the supply). The recipient of the initial supply is Registrant A, and as such, it may claim the ITC if it acquires the equipment for consumption, use or supply in the course of its commercial activities and all the other ITC criteria are satisfied. Only if Registrant A in turn supplies the equipment to Registrant B, could Registrant B claim an ITC for the GST/HST paid or payable on the subsequent supply provided all the other ITC criteria are satisfied.
+
+**Multiple recipients**
+
+65. On occasion, a supplier may enter into an agreement for the making of a single taxable supply to more than one person. If there is more than one recipient for the supply, each recipient may be eligible to claim an ITC for the part of the GST/HST it is liable to pay in respect of the supply to the extent that the recipient’s part of the supply is for consumption, use or supply in the course of that particular recipient’s commercial activities provided all the other ITC criteria are met. Generally, the allocation of the ITC between multiple recipients must be determined by reference to other documentary evidence such as letters, written agreements or other supporting documentation.
+
+**Person who is not a recipient can claim ITCs in certain circumstances s 174, 175 and 180**
+
+66. In certain circumstances, even though a person is not the recipient of a supply, this person may be eligible to claim ITCs for the tax paid by the recipient. For example, when employers, partners, charities and public institutions pay allowances to, or reimburse, employees, partners or volunteers, the employers, partners, charities or public institutions may be eligible to claim ITCs in respect of these payments. Similarly, sometimes another person may claim ITCs in respect of the tax paid by a non-resident who is not registered for the GST/HST.
+
+**More information**
+
+67. Additional information on allowances and reimbursements will be available in Chapter 9, *ITCs: Taxable Benefits, Allowances and Reimbursements*, of the GST/HST Memoranda Series. Information on the requirements for the flow-through of ITCs with respect to non-registrants is available in GST/HST Memorandum 3.3.1, [Drop-Shipments](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-1.html), of Chapter 3, [Tax on Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/gst-hst-memoranda-series-chapters-14.html), of the GST/HST Memoranda Series.
+
+### Agents or representatives
+
+**Agents**
+
+68. In Example 3 above, if Registrant A were the agent of Registrant B (Registrant B is the “principal”), and Registrant A acquired the equipment on behalf of Registrant B in an agent-principal relationship and was acting solely in its capacity as agent when it agreed to pay for the supply, Registrant B would be eligible to claim the ITC on the acquisition provided all the other ITC criteria are satisfied.
+
+69. Even though the agent may appear to be the recipient of the supply as the agent is identified on the invoice as the customer, it is the principal who is ultimately liable to pay the consideration thereby making the principal the recipient of the supply.
+
+70. To facilitate the claiming of ITCs, the documentary requirements provide for the identification of either the recipient or the recipient’s duly authorized agent or representative. More information on the documentary requirements for claiming ITCs will be available in Memorandum 8.4, *Documentary Requirements for Claiming Input Tax Credits*.
+
+**Policy statement P-182R**
+
+71. More information on agents is available in Policy Statement P-182R, [Agency](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-182r.html).
+
+### Buying groups
+
+**Buying groups s 178.6**
+
+72. It is common in certain industries for businesses to enter into group purchasing arrangements to enable members to benefit from volume rebates offered by suppliers. Under a typical buying group arrangement, a group member sends a purchase order to the original supplier for the acquisition of property or services. The original supplier will then sell the property or services to the buying group (i.e., the “buyer”). The buyer will, in turn, sell the property or services to the member of the group for the same price payable by the buyer to the original supplier. Generally, the original supplier delivers the property, or renders the service, to the member of the group or to another person on behalf of the member and not to the buyer. In addition, the member of the group pays, on behalf of the buyer, the amount payable to the original supplier by the buyer as consideration for the property or services.
+
+73. Under the general principles of the GST/HST, the buyer is considered to have acquired the property or services for the purpose of supply to the members of the group. Where the property or services are taxable supplies, the buyer might be eligible to claim ITCs as the recipient of the supplies. Where the taxable property or services are subsequently supplied to the members of the group, as a registrant, the buyer is required to collect tax on the consideration charged to the members.
+
+74. However, under typical buying group arrangements, the buyer may not have the necessary information to properly account for the tax in the normal manner since purchase orders, invoices and delivery orders are exchanged directly between the original suppliers and the members of the group.
+
+75. As an alternative, the buying group may apply to the CRA and request that the "pass-through" supplies be ignored for GST/HST purposes (i.e., the taxable supplies of tangible personal property or services made to and by the buyer would be ignored and the members of the group would be considered to have acquired the supplies directly from the original supplier). To make the application, the buying group writes to the CRA requesting designation as a buyer.
+
+76. Where the designation is made by the CRA, each member of the buying group (i.e., the ultimate recipients) may be eligible to claim ITCs for the GST/HST paid or payable on the property or service to the extent that the property or service is for consumption, use, or supply in each of their commercial activities, provided all the other ITC criteria are satisfied. Sufficient documentation must be made available by each member to establish:
+
+- that the supplies of the tangible personal property or services made by the buyer are considered “pass-through” supplies;
+
+- that the original supplier has caused physical possession of the property to be transferred to, or rendered the service to, the member or to another person on behalf of the member and not to the buyer; and
+
+- that the member has paid, on behalf of the buyer, the amount payable to the original supplier as consideration for the property or service.
+
+**More information**
+
+77. More information on buying groups will be available in Chapter 14, *Special Provisions*, of the GST/HST Memoranda Series.
+
+## Substantiating the ITC claim
+
+**Required documentation ss 169(4)**
+
+78. In general, a registrant may not claim an ITC without first obtaining sufficient documentation to establish the registrant's eligibility and the amount of the eligible ITCs.
+
+***Input Tax Credit Information (GST/HST) Regulations***
+
+79. The *Input Tax Credit Information (GST/HST) Regulations* stipulate certain information requirements that must be obtained to substantiate an ITC claim. In general, the evidence required is dependent on the total amount paid or payable for the supply or supplies as shown on the supporting documentation.
+
+**Exemptions from documentary requirements ss 169(5)**
+
+80. The Minister is given discretionary power in certain circumstances to exempt a specified registrant, a specified class of registrants, or registrants in general from the documentary and information requirements stated in subsection 169(4), or any provision thereof, in respect of a supply or importation, or of a supply or importation of a specified class. To make an exemption, the Minister must be satisfied that there is, or will be, sufficient evidence to establish the particulars of a supply or importation, or of a supply or importation of a specified class, and the tax paid or payable in respect of the supply or importation. The Minister may also specify the terms and conditions for applying these exemptions.
+
+**Further information**
+
+81. More information concerning the documentary requirements for substantiating an ITC claim will be available in Memorandum 8.4, *Documentary Requirements for Claiming Input Tax Credits*.
+
+## Time limit for claiming ITCs
+
+**General four-year time limit para 225(4)(b)**
+
+82. For a person, other than a specified person, an ITC that arises in a particular reporting period of the person must be claimed in a return for that reporting period or a subsequent reporting period, filed by the due date of the return for the person’s last reporting period that ends within four years after the end of the particular reporting period.
+
+A registrant that is not a specified person files monthly GST/HST returns on a calendar basis. On February 15, 2002, the person acquires taxable property for use exclusively in its commercial activities. Since the end of the particular reporting period is February 28, 2002, the ITC for the GST/HST paid or payable on the property must be claimed in a return for a reporting period that ends no later than February 28, 2006, and filed by the due date of the return for that last reporting period, March 31, 2006.
+
+**Specified persons para 225(4)(a) and ss 225(4.1)**
+
+83. Generally, the four-year time limit for claiming an ITC is reduced to two years for a specified person. A person is a specified person during a reporting period of the person if:
+
+1. the person is a listed financial institution described in any of subparagraphs 149(1)(a)(i) to (x) during the reporting period; or
+
+2. the person’s threshold amounts (determined under subsection 249(1)) exceed $6 million for both the person’s particular fiscal year that includes the reporting period and the person’s previous fiscal year (generally, this means the person’s annualized taxable supplies made in Canada, including taxable supplies of associates, exceed $6 million in each of its preceding two fiscal years),
+
+unless, in the case where the person who is not a listed financial institution described above, the person is a charity during the reporting period, or all or substantially all of the supplies (excluding supplies of financial services) made by the person during either of the person’s two fiscal years immediately preceding the particular fiscal year that includes the reporting period are taxable.
+
+**2-year limit for specified persons subpara 225(4)(a)(iii)**
+
+84. An ITC that arises in a particular reporting period during which a person is a specified person must generally be claimed in a return filed by the due date of the return for the person’s last reporting period that ends within two years after the end of the fiscal year that includes the particular reporting period.
+
+A specified person is a calendar monthly filer with a December 31, 2002, fiscal year-end. Where at any time in that fiscal year the person acquires, imports or brings into a participating province a taxable supply of property or service for use in its commercial activities, the ITC for the GST/HST paid or payable must be claimed in a return for a reporting period that ends no later than December 31, 2004, and filed by the due date of the return for that last reporting period, January 31, 2005.
+
+**Exceptions to 2-year limit for specified persons subpara 225(4)(a)(i)**
+
+85. There are two exceptions where a specified person may be eligible to claim an ITC beyond the two-year ITC time limit. One exception is where the supplier fails to charge tax on the supply during the specified person’s reporting period in which the tax became payable, and the specified person pays that tax after that period and before claiming an ITC for the supply. In this case, the person may claim the ITC in a return for a reporting period that ends no later than two years after the end of the fiscal year in which the tax is charged provided the return is filed by the due date of the return for that last reporting period. However, the ITC generally cannot be claimed after the expiration of the general four-year time limit for claiming ITCs available to non-specified persons.
+
+**subpara 225(4)(a)(ii)**
+
+86. The second exception is where an ITC in respect of property or a service supplied to a specified person is claimed in error by another person within the two-year time limit. In this case, the specified person may claim the ITC for the supply within the general four-year time limit for claiming ITCs available to non-specified persons if the specified person has paid the tax.
+
+**Failure to charge tax within four year period para 225(4)(c)**
+
+87. Where the supplier fails to charge tax to a person (including a specified person) before the end of the last reporting period of the person that ends within four years after the end of the particular reporting period in which the tax became payable, the person may be eligible to claim an ITC in the return for the reporting period in which the tax is paid by the person, provided that return is filed by its due date. To be eligible to claim the ITC, the supplier must have disclosed in writing to the person that the Minister has assessed the supplier for that tax and that the person must have paid the tax to the supplier after the end of the last reporting period and before the ITC is claimed by the person.
+
+If you wish to make a **technical enquiry** on the GST/HST by telephone, please call one of the following toll-free numbers:
+
+1-800-959-8287 (English service) 1-800-959-8296 (French service)
+
+**General enquiries** about the GST/HST should be directed to Business Enquiries at one of the following toll-free numbers:
+
+1-800-959-5525 (English service) 1-800-959-7775 (French service)
+
+If you are in Quebec, please call the following toll-free number:
+
+1-800-567-4692 (Revenu Québec)
+
+All of the memoranda in the GST/HST Memoranda Series are available on the CRA web site at [www.cra-arc.gc.ca/tax/technical/gsthst-e.html](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).

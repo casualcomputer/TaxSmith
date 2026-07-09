@@ -1,0 +1,3700 @@
+---
+title: "T2 Corporation – Income Tax Guide – Chapter 8: Page 9 of the T2 return"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html
+last_modified: 2026-05-28
+---
+# T2 Corporation – Income Tax Guide – Chapter 8: Page 9 of the T2 return
+
+## Summary of tax and credits
+
+In the "Summary of tax and credits" area of your return, summarize the amounts of federal and provincial or territorial tax payable, as well as the credits and refunds claimed to reduce total tax payable.
+
+## Federal tax
+
+### Line 700 – Part I tax payable
+
+On line 700, enter the amount of Part I tax payable that you determined at amount N of page 7.
+
+### Line 705 – Part II.2 tax payable
+
+For transactions that occur after 2023, a 2% tax on repurchases of equity applies (subject to certain exceptions) on the net value of all equity repurchases during the year by:
+
+- a corporation resident in Canada (other than a mutual fund corporation) whose shares are listed on a designated stock exchange at any time in the tax year
+
+- a trust whose units are listed on a designated stock exchange at any time in the tax year and that is one of the following:
+
+    - a real estate investment trust
+
+    - a specified investment flow-through (SIFT) trust
+
+- a partnership where the partnership unit is listed on a designated stock exchange at any time in the tax year and that is a SIFT partnership
+
+- publicly traded entities that would be SIFT trusts or SIFT partnerships if their assets were located in Canada
+
+The tax does not apply to an entity described above in a tax year if the total fair market value of equity that is redeemed, acquired, or cancelled in that tax year (prorated for short tax years) is less than $1 million.
+
+Use [Schedule 56, Part II.2 Tax on repurchases of equity](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch56.html), to calculate any Part II.2 tax payable and file it with your T2 return. A penalty applies for late filing of Schedule 56 in addition to the penalty applicable to late filing of the T2 Return.
+
+On line 705, enter the amount of Part II.2 tax payable that you determined at amount G of Schedule 56.
+
+### Line 710 – Part III.1 tax payable
+
+A corporation that designates dividends as **eligible dividends** that exceed its capacity to pay such dividends is subject to Part III.1 tax. The tax is equal to 20% of the excessive eligible dividend designation.
+
+Use [Schedule 55, Part III.1 Tax on Excessive Eligible Dividend Designations](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch55.html), to calculate any Part III.1 tax payable and file it with your T2 return.
+
+Every corporation resident in Canada that pays a taxable dividend in the year, other than a capital gains dividend, must file this schedule.
+
+In the case where an excessive eligible dividend designation is determined to be part of a tax avoidance scheme, the 20% tax plus an additional 10% tax will apply to the whole dividend designation.
+
+#### Eligible dividend
+
+An eligible dividend is any taxable dividend paid to a resident of Canada by a Canadian corporation that is designated by that corporation to be an eligible dividend. The corporation does the designation by notifying, in writing, each person or partnership at the time it pays them the dividend. For more information about the notification guidelines, go to [Designation of Eligible Dividends](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/eligible-dividends/designation-eligible-dividends.html).
+
+A corporation is allowed to designate a portion of a taxable dividend (rather than the whole amount) to be an eligible dividend. Late designations are allowed, if they are made within three years, or in some situations, six years, after the day on which the designation was first required to be made and, in the opinion of the minister, it is just and equitable to do so (including to affected shareholders) in the circumstances. The designation is deemed to have been made on the day the designation was required to be made.
+
+A corporation's capacity to pay eligible dividends depends mostly on its status.
+
+#### General rate income pool (GRIP)
+
+A CCPC or a deposit insurance corporation may pay eligible dividends to the extent of its GRIP – a balance generally reflecting taxable income that has **not**benefited from the small business deduction or any other special tax rate – without incurring Part III.1 tax. The GRIP is calculated at the end of the tax year. However, a corporation can pay eligible dividends over the course of the year as long as, at the end of the year, the eligible dividends paid do not exceed its GRIP.
+
+Use [Schedule 53, General Rate Income Pool (GRIP) Calculation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch53.html), to determine the GRIP and file it with your T2 return. You should file this schedule if you paid an eligible dividend in the tax year, or if your GRIP balance changed, to ensure that the GRIP balance on the CRA's records is correct.
+
+You can view GRIP balances using the "View return balances" service through:
+
+- [My business account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are the business owner
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are an authorized representative or employee
+
+#### Low rate income pool (LRIP)
+
+A corporation resident in Canada that is neither a CCPC nor a deposit insurance corporation can pay eligible dividends in any amount unless it has an LRIP.
+
+For tax years starting after April 6, 2022, the investment income earned by substantive CCPCs will be added to their LRIP so that distributions of such income will not entitle the shareholders to the enhanced dividend tax credit.
+
+The LRIP is generally made up of taxable income that has benefited from certain preferential tax rates. The corporation has to reduce its LRIP to zero by paying out ordinary dividends before it can pay an eligible dividend, or it will be subject to Part III.1 tax. The LRIP must be calculated at the time a dividend is paid or received or any other event occurs affecting the LRIP balance in the year.
+
+Use [Schedule 54, Low Rate Income Pool (LRIP) Calculation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch54.html), to determine the LRIP, throughout the year. File the completed schedule with your T2 return. All other calculations including the worksheets should be kept with your records in case the CRA asks for them at a later date.
+
+#### Election not to be a Canadian-controlled private corporation
+
+A CCPC can elect not to be a CCPC for purposes of the eligible dividend treatment. If it so elects, it is deemed not to be a CCPC for the tax year in which it makes the election and all later tax years, until it revokes the election. The CCPC will lose its entitlement to the small business deduction. However, no other benefits of CCPC status will be affected.
+
+A corporation that revokes an election will become a CCPC again for the tax year that follows the tax year in which the revocation is made.
+
+Use [Form T2002, Election, or Revocation of an Election, not to Be a Canadian-Controlled Private Corporation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2002.html), to make or to revoke an election previously made, and file it by the due date of the T2 return. The CRA will not accept an election or revocation of an election after the filing due date.
+
+A corporation that has previously revoked an election must get written consent from the CRA to make or revoke another election.
+
+#### Election to treat excessive eligible dividend designations as ordinary dividends
+
+Corporations that make excessive eligible dividend designations may be allowed to elect to treat the excessive amounts paid as ordinary dividends. In order to do so, the corporation must have the concurrence of its shareholders who received, or were entitled to receive, the dividend and whose addresses are known to the corporation. For more information, go to [Election to treat excessive eligible dividend designations as ordinary dividends](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/eligible-dividends/election-treat-excessive-eligible-dividend-designations-ordinary-dividends.html).
+
+Corporations cannot elect to treat excessive eligible dividend designations that are subject to the 30% Part III.1 tax as ordinary dividends.
+
+**References** Sections 185.1 and 185.2 Subsections 89(11) to (14)
+
+### Line 712 – Part IV tax payable
+
+Use [Parts 1 and 2 of Schedule 3, Dividends Received, Taxable Dividends Paid, and Part IV Tax Calculation](#P3612_273746), to calculate Part IV tax payable on taxable dividends you received.
+
+#### Dividends subject to Part IV tax
+
+The following types of dividends are subject to Part IV tax:
+
+- taxable dividends from corporations that are deductible under section 112 when you calculate taxable income
+
+- taxable dividends from foreign affiliates that are deductible under paragraphs 113(1)(a), (a.1), (b), or (d), or subsection 113(2) when you calculate taxable income
+
+For details about dividends received after 2023 by financial institutions on shares that are mark-to-market property, see [Line 320](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html).
+
+Taxable dividends received are only subject to Part IV tax if the corporation receives them while it is a **private or subject corporation**. Taxable dividends received from a non-connected corporation are subject to Part IV tax at a rate of 38 1/3%.
+
+Taxable dividends received from a **connected corporation** are subject to Part IV tax only when paying the dividends generates a dividend refund for the payer corporation.
+
+#### Definitions
+
+##### Private corporation
+
+A private corporation is a corporation that is:
+
+- resident in Canada
+
+- not a public corporation
+
+- not controlled by one or more public corporations (other than a prescribed venture capital corporation)
+
+- not controlled by one or more prescribed federal Crown corporations
+
+- not controlled by any combination of prescribed federal Crown corporations and public corporations
+
+**Reference** Subsection 89(1)
+
+##### Subject corporation
+
+A subject corporation is a corporation, other than a private corporation, that is resident in Canada and is controlled by or for the benefit of either an individual other than a trust, or a related group of individuals other than trusts.
+
+**Reference** Subsection 186(3)
+
+##### Connected corporation
+
+A payer corporation is connected to the corporation that receives the dividends (the recipient) if the recipient controls the payer corporation. The payer and recipient corporations are also connected when both of the following apply:
+
+- the recipient owns more than 10% of the issued share capital (with full voting rights) of the payer corporation
+
+- the recipient owns shares of the capital stock of the payer corporation with a fair market value of more than 10% of the fair market value of all the issued share capital of the payer corporation
+
+You determine control of the corporation by considering the actual ownership of shares, without taking into account any rights referred to in paragraph 251(5)(b).
+
+For purposes of Part IV tax, a payer corporation is controlled by a recipient corporation if more than 50% of the payer's issued share capital (having full voting rights) belongs to the recipient, to persons with whom the recipient does not deal at arm's length, or to any combination of these persons.
+
+**References** Subsections 186(2) and (4)
+
+##### Exempt corporations
+
+The following types of corporations are exempt from Part IV tax:
+
+A. a corporation that was bankrupt at any time during the year
+
+B. a corporation that, throughout the year, was one of the following:
+
+- a prescribed labour-sponsored venture capital corporation
+
+- a prescribed investment contract corporation
+
+- an insurance corporation
+
+- a corporation licensed as a trustee
+
+- a bank
+
+- a registered securities dealer that was, throughout the year, a member of a designated stock exchange in Canada
+
+**Reference** Section 186.1
+
+##### Exempt dividends
+
+A corporation that is a prescribed venture capital corporation throughout the year does not have to pay Part IV tax on dividends it received from a prescribed qualifying corporation.
+
+**References** Section 186.2 Regulation 6704
+
+##### Dividends not taxable
+
+Any dividends that a corporation received from a capital dividend account are not taxable, as long as the payer corporation made an election under section 83. Therefore, if these non-taxable dividends are included as income, they should be deducted as an adjustment on Schedule 1.
+
+#### Parts 1 and 2 of Schedule 3
+
+In the following section you will find details on Parts 1 and 2 of Schedule 3. Parts 3 and 4 are explained under [Parts 3 and 4 of Schedule 3](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-6-pages-6-7-t2-return.html).
+
+##### Part 1 – Dividends received in the tax year
+
+Complete Part 1 to identify dividends, both taxable and non-taxable, received during the tax year and to calculate Part IV tax before deductions. Public corporations (other than subject corporations) do not need to calculate Part IV tax.
+
+If more than one corporation paid dividends, you have to do a separate calculation for each payer corporation. If your corporation's tax year-end is different than that of the payer corporation, dividends could have been received from more than one tax year of the payer corporation. If so, use a separate line to provide the information according to each tax year of the payer corporation.
+
+On line 320 of the return, enter the amount of taxable dividends deductible from taxable income under section 112, subsections 113(2) and 138(6), and paragraphs 113(1)(a), (a.1), (b), or (d).
+
+##### Part 2 – Calculation of Part IV tax payable
+
+Part IV tax otherwise payable on a dividend is reduced by any amount of Part IV.1 tax payable on the same dividend. See [details](#P3646_277237).
+
+You can reduce the amount of dividends subject to Part IV tax by using non-capital losses and farm losses incurred in the tax year or carried forward from previous years.
+
+Part 2 also allows the calculation of Part IV tax payable for taxable dividends received from connected corporations and eligible dividends received from non‑connected corporations.
+
+On line 712 of the return, enter the amount of Part IV tax payable on taxable dividends received
+
+**References**[Interpretation Bulletin IT–269, Part IV Tax on Taxable Dividends Received by a Private Corporation or a Subject Corporation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it269r4.html) Subsection 129(4)
+
+### Line 716 – Part IV.1 tax payable
+
+Complete [Schedule 43, Calculation of Parts IV.1 and VI.1 Taxes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch43.html), to calculate Part IV.1 tax payable.
+
+#### Part 4 of Schedule 43 – Calculation of Part IV.1 tax payable
+
+Part 4 gives details on how to calculate Part IV.1 tax.
+
+Public corporations and certain other corporations may be subject to the 10% Part IV.1 tax on dividends they receive on taxable preferred shares. A **restricted financial institution** is also subject to tax on dividends received on **taxable restricted financial institution shares** (see subsection 248(1) for definitions of these terms).
+
+The **issuer** of taxable preferred shares can elect to pay a 40% rather than a 25% tax under Part VI.1 on dividends on taxable preferred shares when they complete Part 3 of this schedule. This election exempts the **holder** of these shares from the 10% tax under Part IV.1. No other form needs to be filed to elect. For details, see [Line 724](#P3673_280621).
+
+**Excepted dividends**, which are defined in section 187.1, are not subject to Part IV.1 tax. For example, an excepted dividend is one the corporation receives on a share of another corporation in which the corporation had a substantial interest at the time it received the dividend.
+
+Part 4 of the schedule also allows the calculation of Part IV tax reduction when there is Part IV.1 tax payable on the same dividend.
+
+The Part IV tax reduction is equal to:
+
+- 10% of the dividend, if the dividend is received from a non-connected corporation
+
+- 30% of the Part IV tax payable, if the dividend is received from a connected corporation
+
+On line 716, enter the amount of Part IV.1 tax payable that you calculated on line 340 of Schedule 43.
+
+**References** Sections 187.1 to 187.6 Subsections 186(1.1) and 191.2(1)
+
+### Line 720 – Part VI tax payable
+
+You have to complete [Schedule 38, Part VI Tax on Capital of Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch38.html), to calculate Part VI tax.
+
+Part VI levies a tax on a financial institution's taxable capital employed in Canada. Part VI tax is 1.25% of the taxable capital employed in Canada that is more than the $1 billion capital deduction for the year.
+
+If the corporation is a member of a related group, you have to allocate the capital deduction among the members.
+
+Use [Schedule 39, Agreement Among Related Financial Institutions – Part VI Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch39.html), to allocate the capital deduction. File this agreement with your return.
+
+Only one of the associated or related corporations needs to file Schedule 39 for a calendar year. However, if Schedule 39 is not already on file when the CRA assesses any of the returns for a tax year ending in the calendar year of the agreement, it will ask for one.
+
+Under subsection 190.1(3), you can deduct Part I tax payable for the year from Part VI tax payable. This is called the Part I tax credit. You can deduct any unused Part I tax credits from Part VI tax in any of the three previous and seven following tax years.
+
+To calculate the balance of unused Part I tax credits and to carry back this credit, you can use [Schedule 42, Calculation of Unused Part I Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch42.html).
+
+**Financial institutions** include banks, trust companies, life insurance corporations, certain holding corporations, and corporations that accept deposits and carry on the business of lending money on the security of real property or immovables, or investing in indebtedness on the security of mortgages on real property or of hypothecs on immovables.
+
+File Schedule 38 with your return if you have Part VI tax payable, or would have, if not for the deduction of a Part I tax credit.
+
+On line 720, enter the amount of Part VI tax payable that you calculated on line 890 of [Schedule 38](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch38.html).
+
+**References** Sections 190, 190.1, and 190.11 to 190.15
+
+### Line 724 – Part VI.1 tax payable
+
+Complete the following schedules if required:
+
+- [Schedule 43, Calculation of Parts IV.1 and VI.1 Taxes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch43.html)
+
+- [Schedule 45, Agreement Respecting Liability for Part VI.1 Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch45.html)
+
+See the following headings for more details.
+
+#### Part 1 of Schedule 43 – Calculation of dividend allowance
+
+Calculate the dividend allowance on Part 1 of Schedule 43.
+
+Generally, the first $500,000 of dividends paid in the year on taxable preferred shares is exempt from Part VI.1 tax liability. This basic annual exemption is called the **dividend allowance**.
+
+However, the $500,000 dividend allowance is reduced if you paid more than $1 million of dividends on taxable preferred shares in the previous year.
+
+#### Part 2 of Schedule 43 – Agreement among associated corporations to allocate the dividend allowance
+
+If you are a member of an associated group, you have to allocate the dividend allowance between the members. Part 2 provides an area for this allocation.
+
+#### Part 3 of Schedule 43 – Calculation of Part VI.1 tax payable
+
+Complete Part 3 of [Schedule 43](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch43.html) to calculate Part VI.1 tax. Part VI.1 tax is levied on dividends (other than certain excluded dividends) you paid on short-term preferred shares and taxable preferred shares.
+
+You are subject to a 40% tax on dividends you paid on **short-term preferred shares**that are more than the annual dividend allowance.
+
+You are subject to a tax of 25% or 40% on dividends you paid on **taxable preferred shares** (other than short-term preferred shares) that are more than any remaining dividend allowance. Choosing the 40% rate will exempt the holder of these shares from the 10% tax under Part IV.1. This rate would apply to all future dividends paid on that class or series of shares.
+
+See subsection 248(1) for definitions of the terms **short-term preferred shares** and **taxable preferred shares**.
+
+#### Schedule 45, Agreement Respecting Liability for Part VI.1 Tax
+
+Complete [Schedule 45](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch45.html) to certify the transfer of Part VI.1 tax liability and send it to the CRA with Schedule 43.
+
+A corporation (the transferor) can transfer all or part of its Part VI.1 tax liability to another corporation (the transferee), if the corporations were related throughout the following tax years:
+
+- the transferor's tax year for which it owes Part VI.1 tax
+
+- the transferee's tax year that ends on or before the end of the above-mentioned transferor's tax year
+
+You can deduct Part VI.1 tax payable from income. See [line 325](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html) for more information. Any Part VI.1 tax that is left over after the taxable income is reduced to zero is part of the non-capital loss for the year. See [Part 1 – Non-capital losses](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html) for details.
+
+On line 724, enter the amount of Part VI.1 tax payable you calculated on line 270 of [Schedule 43](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch43.html).
+
+**References** Sections 191, and 191.1 to 191.4
+
+### Line 725 – Part VI.2 tax payable
+
+Under new Part VI.2 of the Income Tax Act, a Canada recovery dividend (CRD) is introduced in the form of a one-time 15% tax on bank and life insurer groups. The one time tax will apply to the 2020 and 2021 average taxable income (before any deductions for non capital losses or net capital losses) of any member in the group that is a bank, life insurer or other related financial institution at any time during its 2021 tax year. A proration rule would be provided for short tax years.
+
+A $1 billion taxable income exemption could be allocated by agreement amongst group members. The CRD tax would be imposed for the 2022 tax year and would be payable in equal amounts over five years, starting in 2022.
+
+File [Schedule 67, Canada Recovery Dividend](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch67.html), with your return. On line 725 of your return, enter the amount of Part VI.2 tax payable.
+
+### Line 726 – Part XII.7 tax payable
+
+You may be subject toPart XII.7 tax:
+
+- for a tax year that includes the first day of commercial operations of a CCUS project or for a preceding tax year, if your cumulative CCUS development tax credit for the immediately preceding tax year is more than your cumulative CCUS development tax credit for the current tax year, (see subsection 211.92(2))
+
+- if your actual eligible use percentage of a CCUS project is more than five percentage points lower than your projected eligible use percentage of the CCUS project for the relevant project period for a particular recovery tax year (see subsections 211.92(4) and (5))
+
+- the tax is accelerated if the actual eligible use percentage for a CCUS project is less than 10% during any year during the project's total CCUS project review period (see subsection 211.92(3))
+
+- if you dispose of or export property for which the qualified CCUS expenditure resulted in the determination of a cumulative CCUS development tax credit or a CCUS refurbishment tax credit for a previous year (see subsections 211.92(9) and (10))
+
+Determine Part XII.7 tax in Part 4 of [Schedule 78, Carbon Capture, Utilization, and Storage Investment Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch78.html), and file this schedule with your return. On line 726 of the return, enter the amount of Part XII.7 tax payable.
+
+### Line 727 – Part XIII.1 tax payable
+
+Every authorized foreign bank is subject to Part XIII.1 tax equal to 25% of its taxable interest expense for the year.
+
+You have to show your calculations on a separate schedule. Identify these calculations as Schedule 92, Part XIII.1 Tax – Additional Tax on Authorized Foreign Banks, since the CRA does not publish this schedule. For more information, see Part XIII.1 tax in the [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html).
+
+On line 727 of the return, enter the amount of Part XIII.1 tax payable.
+
+### Line 728 – Part XIV tax payable
+
+Every corporation that is non-resident in a tax year is subject to Part XIV tax.
+
+Part XIV tax is 25%, but a tax treaty can reduce this percentage. In addition, a tax treaty may restrict the Part XIV tax to corporations that carry on business in Canada through a permanent establishment in Canada.
+
+You have to complete [Schedule 20, Part XIV – Additional Tax on Non-Resident Corporations](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch20.html), to calculate Part XIV tax. On line 728 of the return, enter the amount of Part XIV tax payable you calculated on Schedule 20.
+
+Corporations that are subject to Part XIV tax should file their return with the Sudbury Tax Centre. See [Corporation Internet Filing](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html) and [Where to file your paper return](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+When a non-resident corporation ceases to carry on business in Canada, it may also be subject to various deemed disposition of property rules. The application of these rules would have to be considered in calculating the corporation's taxable income earned in Canada for the year (Part I) in order to determine thePart XIV tax liability for that year.
+
+In addition, the provisions of section 116 would generally apply to any disposition of property which constitute taxable Canadian property as defined in subsection 248(1).
+
+**References** Section 219[Interpretation Bulletin IT–137, Additional Tax on Certain Corporations Carrying on Business in Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it137r3.html)
+
+## Provincial and territorial tax
+
+Quebec and Alberta administer their own corporation income tax systems. Corporations that earn income in these provinces have to file separate provincial corporation income tax returns.
+
+All other provinces and territories legislate their corporation income tax provisions, but the CRA administers them. These provinces and territories do not charge income tax on the taxable income of corporations that are exempt from tax under section 149.
+
+If the corporation has a permanent establishment in any province or territory other than Quebec or Alberta, you have to calculate provincial and/or territorial income taxes and credits, as well as federal income taxes and credits, on the return.
+
+Unless otherwise specified in the legislation, the credits are considered government assistance and must be included in income in the tax year they are received.
+
+**Reference** Paragraph 12(1)(x)
+
+### Permanent establishment
+
+A permanent establishment in a province or territory is usually a fixed place of business of the corporation, which includes an office, branch, oil well, farm, timberland, factory, workshop, warehouse, or mine. Each corporate partner in a partnership has a permanent establishment where the partnership has a fixed place of business. If the corporation does not have a fixed place of business, the corporation's permanent establishment is the principal place in which the corporation's business is conducted.
+
+Each member of a partnership has a permanent establishment in the province or territory where the partnership has a permanent establishment. This applies to both general and limited partners. For example, where a corporation or its partnership uses substantial machinery or equipment in a particular place at any time in a tax year, it is deemed to have a permanent establishment in that place. Review the locations in which your activities and transactions occur to ensure all permanent establishments are properly identified.
+
+If the corporation carries on business, including partnership business, through an employee or an agent established in a particular place, it is considered to have a permanent establishment in that place if the employee or agent:
+
+- has general authority to contract for the corporation, or
+
+- has a stock of merchandise owned by the corporation from which the employee or agent regularly fills orders received
+
+A corporation that would not otherwise have any permanent establishment in a province or territory and/or a jurisdiction outside of Canada is deemed to have a permanent establishment at the place designated in its incorporation documents or bylaws as its head office or registered office. So, whether or not the corporation carries on a business in a province or territory, it is entitled to the 10% federal abatement, but subject to provincial or territorial taxation.
+
+See Regulation 400(2) for a complete definition of permanent establishment.
+
+**References** Regulation 400(2)[Interpretation Bulletin IT–177, Permanent Establishment of a Corporation in a Province](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it177r2-consolid.html)
+
+### Line 750 – Provincial or territorial jurisdiction
+
+On line 750, give the name of the province or territory where you earned your income. Usually, this is where the corporation has its permanent establishment.
+
+If you earned income in more than one province or territory, write "multiple" on line 750 and file [Schedule 5, Tax Calculation Supplementary – Corporations](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), with your return. See instructions on [how to complete Schedule 5](#P3736_287502).
+
+The Newfoundland and Labrador offshore area and the Nova Scotia offshore area are considered provinces.
+
+By completing line 750, you ensure that the income taxes go to the correct province or territory. Complete this line even if no tax is payable, or if the provincial jurisdiction is Quebec or Alberta.
+
+**Reference** Subsection 124(4)
+
+### Line 760 – Net provincial and territorial tax payable
+
+If your provincial or territorial jurisdiction is not Quebec or Alberta, and you do not need to complete Schedule 5, enter your provincial or territorial tax payable on line 760.
+
+If you do need to complete Schedule 5, enter the net amount of provincial or territorial tax on line 255 of the schedule. If this amount is positive enter it on line 760 of the return. If this amount is negative, enter it on line 812 of the return.
+
+The following section explains when and how to complete [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html).
+
+### Schedule 5, Tax Calculation Supplementary – Corporations
+
+You have to complete [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html) if one of the following applies:
+
+- there is a permanent establishment of the corporation or its partnerships in more than one province or territory (complete Part 1), whether or not you are taxable (if taxable, also complete Part 2)
+
+- the corporation is claiming provincial or territorial tax credits, or rebates (complete Part 2)
+
+- the corporation has to pay taxes other than income tax (see [Part 2 of Schedule 5](#P3768_290110))
+
+The Newfoundland and Labrador offshore area and the Nova Scotia offshore area are considered provinces.
+
+For information on the calculation of tax for each province and territory, see the sections that follow in this chapter.
+
+#### Part 1 of Schedule 5 – Allocation of taxable income
+
+You must complete Part 1 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html) if you or your partnerships had a permanent establishment in more than one province or territory. Complete columns A to F for each province or territory in which you had a permanent establishment in the tax year. If there is no taxable income, you only have to complete columns A, B and D.
+
+This also applies to corporations with permanent establishments in Quebec or Alberta.
+
+The CRA assesses provincial or territorial income taxes on the amount of taxable income allocated to each province or territory. For details on how to allocate taxable income, see Regulation 402 and [Income Tax Folio S4-F3-C2, Provincial Income Allocation](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/folio-3-general-principles-business-income-calculation/income-tax-folio-s4-f3-c2-provincial-income-allocation.html).
+
+Special rules for establishing a corporation's gross revenue and salaries and wages attributable to a jurisdiction are provided in cases where the corporation is a member of a partnership and the partnership had permanent establishments in more than one jurisdiction. See [Guide T4068, Guide for the Partnership Information Return (T5013 Forms)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4068.html) and prescribed [Form T5013 SCH 5, Allocation of Salaries and Wages, and Gross Revenue for Multiple Jurisdictions – Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch5.html).
+
+Whether or not the partnership filed a T5013 and related schedules, the partner corporations must report their permanent establishments and allocable revenue and salaries and wages on their own [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), inclusive of their partnership allocations. If a partner has a 50% share of partnership income it must include 50% of the gross revenue from [T5013 SCH 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sch5.html) in its [T2 SCH 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html) gross revenue. Salaries and wages of the partnership should also be reported on the [T2 SCH 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html) in the same proportions.
+
+Generally, to allocate taxable income to each province or territory, you have to use a formula based on gross revenue, and salaries and wages. See Part 1 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html) for details.
+
+You will find the general rules on how to allocate gross revenue in Regulation 402.
+
+Do not include any of the following amounts in gross revenue:
+
+- interest on bonds, debentures, or mortgages
+
+- dividends on shares of capital stock
+
+- rents or royalties from property that are not part of the principal business operations
+
+Allocate gross salaries and wages paid in the year to the permanent establishment in which those salaries and wages were paid only to the extent they were paid to employees of the permanent establishment (the permanent establishment is not necessarily the permanent establishment in which those salaries and wages were paid). Do not include in gross salaries and wages any commissions paid to a person who is not an employee, unless that person renders services that would normally be performed by an employee of the corporation. The allocation of salaries paid through a central paymaster is subject to the deeming rules under Regulation 402.1.
+
+See Regulations 403 to 413 for details on special methods for allocating taxable income for the following types of businesses:
+
+- insurance corporations (Regulation 403)
+
+- banks (Regulation 404)
+
+- federal credit unions (Regulation 404.1)
+
+- trust and loan corporations (Regulation 405)
+
+- railway corporations (Regulation 406)
+
+- airline corporations (Regulation 407)
+
+- grain elevator operators (Regulation 408)
+
+- bus and truck operators (Regulation 409)
+
+- ship operators (Regulation 410)
+
+- pipeline operators (Regulation 411)
+
+- divided businesses (Regulation 412)
+
+- non-resident corporations (Regulation 413)
+
+In field 100, enter the regulation number that applies to attribute the taxable income.
+
+**Reference** Regulations 400 to 413.1
+
+#### Part 2 of Schedule 5 – Provincial and territorial tax payable, tax credits, and rebates
+
+Complete Part 2 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html) if one of the following applies:
+
+- there is provincial or territorial tax (and a permanent establishment in more than one province or territory)
+
+- there is a claim for provincial or territorial tax credits or rebates
+
+- there is a claim for provincial or territorial refundable tax credits
+
+Corporations with a permanent establishment in Quebec or Alberta must complete the appropriate provincial corporation returns and schedules to report provincial tax and claim provincial credits and rebates.
+
+Corporations with a permanent establishment in Ontario must also complete Part 2 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html) if one of the three **previous** or five **following** conditions applies. The corporation:
+
+- is claiming the Ontario small business deduction
+
+- is claiming the Ontario credit union reduction
+
+- has an addition to Ontario basic income tax (such as a transitional tax debit)
+
+- has Ontario corporate minimum tax payable
+
+- has Ontario special additional tax on life insurance corporations payable
+
+Corporations must also complete Part 2 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html) if they have Newfoundland and Labrador capital tax on financial institutions payable or Nova Scotia financial institutions capital tax payable.
+
+On line 255 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the net amount of provincial and territorial tax payable or the net amount of refundable credits. When the result is positive, enter the net provincial or territorial tax payable on line 760 of the return. When the result is negative, enter the refundable provincial or territorial tax credit on line 812 of the return. Attach to your return any forms you completed to claim provincial or territorial credits or rebates, where requested.
+
+In the following sections, you will find information about provincial and territorial tax rates, foreign tax credits, and details on the provincial and territorial credits and rebates.
+
+### Dual rates of provincial and territorial income tax
+
+Generally, provinces and territories have two rates of income tax: the **lower rate** and the **higher rate**.
+
+The lower rate applies to the income eligible for the federal small business deduction. One component of the small business deduction is the business limit. Some provinces or territories choose to use the federal business limit. Others establish their own business limit.
+
+The higher rate applies to all other income. For detailed information on the income eligible for each rate and the rates that apply to each province and territory, see the sections that follow in this chapter or go to [Corporation Tax Rates](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/corporation-tax-rates.html).
+
+Corp X earned all its income in 2025 from its permanent establishment in Newfoundland and Labrador. Corp Xclaimed the small business deduction when it calculated its federal tax payable. The income from active business carried on in Canada was $78,000.
+
+The Newfoundland and Labrador **lower rate**of tax is 2.5%. The **higher rate**of tax is 15%.
+
+Corp X calculates its Newfoundland and Labrador tax payable as follows:
+
+Taxable income: $90,000
+
+**Subtract** amount taxed at lower rate:
+
+| Description | Amount |
+
+| --- | --- |
+
+| Least of lines 400, 405, 410, and 428 in the federal small business deduction calculation (from the T2 return) | $78,000 |
+
+| Amount taxed at higher rate | $12,000 |
+
+| Taxes payable at the lower rate: $78,000 × 2.5% = | $1,950 |
+
+| Taxes payable at the higher rate: $12,000 × 15% = | $1,800 |
+
+| Newfoundland and Labrador tax payable | **$3,750** |
+
+When you allocate taxable income to more than one province or territory, you also have to allocate proportionally any income eligible for the federal small business deduction.
+
+Corp Y has permanent establishments in both Newfoundland and Labrador **and** Nunavut. Its tax year runs from January 1, 2025, to December 31, 2025.
+
+Corp Y claimed the small business deduction when it calculated its federal tax payable.
+
+The **lower rate** of tax for Newfoundland and Labrador is 2.5%, and the **higher rate** of tax is 15%.
+
+To calculate its Newfoundland and Labrador income tax, Corp Y does the following calculations:
+
+| Description | Amount |
+
+| --- | --- |
+
+| Taxable income allocated to Newfoundland and Labrador (from Schedule 5) | $60,000 |
+
+| Taxable income allocated to Nunavut (from Schedule 5) | $30,000 |
+
+| Total taxable income earned in Canada | $90,000 |
+
+| Least of lines 400, 405, 410, and 428 in the federal small business deduction calculation (from the T2 return) | $78,000 |
+
+| Income eligible for the federal small business deduction attributed to Newfoundland and Labrador: ($60,000 ÷ $90,000) × $78,000 = | $52,000 |
+
+| Taxable income earned in Newfoundland and Labrador | $60,000 |
+
+| **Subtract:** Income eligible for the federal small business deduction attributed to Newfoundland and Labrador | $52,000 |
+
+| Amount taxed at higher rate | $8,000 |
+
+| Taxes payable at higher rate: $8,000 × 15% = | $1,200 |
+
+| Taxes payable at lower rate: $52,000 × 2.5% = | $1,300 |
+
+| Newfoundland and Labrador tax payable | **$2,500** |
+
+To calculate its Nunavut income tax payable, Corp Y would repeat the same steps, using the rates that apply.
+
+On the appropriate lines of Part 2 of Schedule 5, enter the gross amount of each provincial or territorial tax payable.
+
+### Provincial or territorial foreign tax credits
+
+Every province and territory allows a corporation to claim a foreign tax credit for taxes it paid to another country on foreign **non-business income**. This credit reduces the provincial tax otherwise payable.
+
+However, you cannot claim foreign tax credits for the provinces of Quebec and Alberta on the federal return, because these provinces collect their own income taxes.
+
+The provincial or territorial foreign tax credit is available to a corporation that meets all of the following criteria:
+
+- it is resident in Canada throughout the tax year
+
+- it has a permanent establishment in the province or territory at any time in the tax year
+
+- it has foreign investment income for the tax year
+
+For Ontario, an authorized foreign bank is eligible for the foreign tax credit if it performed Canadian banking business.
+
+You can claim this credit only if the foreign non-business income tax paid exceeds the federal foreign non-business income tax credit deductible for the year.
+
+For each province or territory for which you are claiming a credit, you have to do a separate calculation. Also, if you paid tax to more than one foreign country you have to do a separate calculation for each country.
+
+If dual rates of corporation tax apply, use the higher rate when you calculate the foreign tax credit. For Ontario, use the basic rate of tax.
+
+To claim the foreign tax credit, complete [Schedule 21, Federal and Provincial or Territorial Foreign Income Tax Credits and Federal Logging Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch21.html).
+
+If the tax rate has changed during the tax year, you have to prorate the calculation in Part 9 of Schedule 21 using the number of days in each period. For British Columbia, **prorate the tax rate** in each period, round off the prorated rates to the nearest one-thousandth of one percent (= 0.001%), and add the rounded percentages for the periods **before** multiplying by the foreign non-business income.
+
+On the appropriate lines of Part 2 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the applicable provincial and territorial foreign tax credits.
+
+### Newfoundland and Labrador
+
+The **lower rate** of Newfoundland and Labrador income tax is 2.5% effective January 1, 2024. It was previously 3%. This lower rate applies to taxable income earned in Newfoundland and Labrador that qualifies for the federal small business deduction.
+
+If the rate changes during the tax year, you have to base your calculation on the number of days in the year that each rate is in effect.
+
+The **higher rate** of income tax is 15%. This higher rate applies to taxable income earned in Newfoundland and Labrador that does not qualify for the federal small business deduction.
+
+These rates also apply to taxable income earned in the Newfoundland and Labrador offshore area.
+
+You can use [Schedule 307, Newfoundland and Labrador Corporation Tax Calculation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch307.html), to help you calculate the Newfoundland and Labrador tax before the credits are applied. You do not have to file it with your return. See the schedule for more details.
+
+On line 200 and/or 205 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of tax calculated.
+
+#### Newfoundland and Labrador capital tax on financial institutions
+
+A provincial tax is levied on the taxable capital of a corporation that is a financial institution that has a permanent establishment in Newfoundland and Labrador. This tax applies to banks, as well as trust and loan corporations.
+
+The tax is equal to 6% of the amount by which the corporation's taxable capital employed in the province for the year, including the offshore area, is more than its capital deduction for the year.
+
+A capital deduction of $5 million is available to a corporation if the total amount of the capital of the corporation and any corporations in a related group, if any, is $10 million or less. If the corporation is a member of a related group that includes another financial institution, the corporation's entitlement to the $5 million capital deduction could be subject to allocation by the province unless the corporation files an agreement allocating the capital deduction among the corporations in the related group.
+
+Use [Schedule 306, Newfoundland and Labrador Capital Tax on Financial Institutions – Agreement Among Related Corporations](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch306.html), to allocate the capital deduction. File this agreement with your return.
+
+Corporations that are liable to pay this tax have to file [Schedule 305, Newfoundland and Labrador Capital Tax on Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch305.html).
+
+On line 518 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the provincial tax on financial institutions payable.
+
+A penalty applies to financial institutions that have to pay this tax and do not file the required return on time. For details, see [Penalties](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html) for large corporations.
+
+Instalment payment requirements for this tax are the same as for Part I tax. For details, see [Instalment due dates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html).
+
+The provincial capital tax cannot be reduced by any tax credits. However, you can deduct the capital tax payable when calculating federal income for tax purposes.
+
+#### Newfoundland and Labrador political contribution tax credit
+
+You can claim a tax credit on contributions made to registered political parties, registered district associations, or registered non-affiliated candidates, as defined under the [Elections Act, 1991](https://www.assembly.nl.ca:443/legislation/sr/statutes/e03-1.htm), of Newfoundland and Labrador.
+
+The annual maximum credit is **$500** and is calculated as follows:
+
+- 75% of the first $100 contributed
+
+**plus**
+
+- 50% of the next $450 contributed
+
+**plus**
+
+- 33 1/3% of the next $600 contributed
+
+You do not have to file official receipts with your return. However, keep them in case the CRA asks for them later. The CRA can accept photocopies only if the issuer certifies them as true copies.
+
+On line 891 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the total amount of qualifying contributions, and on line 500, enter the amount of the credit you are claiming.
+
+#### Newfoundland and Labrador venture capital tax credit
+
+The Newfoundland and Labrador government will issue a certificate to corporations investing in qualifying venture capital funds. This non refundable credit is equal to 30% of the amount invested, to a lifetime maximum credit of $75,000.
+
+This credit must be applied against tax otherwise payable. You can carry unused credits back to the three previous tax years or forward to the seven following tax years.
+
+If you file your T2 return electronically, keep your certificate in case the CRA asks for it later.
+
+To claim the credit, file a completed [Schedule 308, Newfoundland and Labrador Venture Capital Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch308.html). See the schedule for more details.
+
+On line 504 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+#### Newfoundland and Labrador direct equity tax credit
+
+You can claim this credit for an investment in eligible shares of a business with which you deal at arm's length.
+
+There are two tax credit rates. For qualifying activities undertaken in the province:
+
+- outside the North East Avalon, a 35% rate applies
+
+- within the North East Avalon, a 20% rate applies
+
+In cases where qualifying activities are undertaken in both areas, a reasonable proration applies.
+
+The maximum credit you can claim is $50,000 per year, including any amounts carried back or carried forward.
+
+This credit must be claimed against tax otherwise payable. You can carry forward unused credits for seven years or back three years.
+
+The Province of Newfoundland and Labrador will issue Form NLDETC-1, Newfoundland and Labrador Direct Equity Tax Credit, as a receipt for eligible investments. File this form with your T2 return.
+
+To claim the credit, file a completed [Schedule 303, Newfoundland and Labrador Direct Equity Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch303.html). See the schedule for more details.
+
+On line 505 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit.
+
+#### Newfoundland and Labrador resort property investment tax credit
+
+You can claim this credit if you make an investment in a qualifying resort development property in Newfoundland and Labrador within five years after the unit in the qualifying resort development property is first made available for sale. The corporation must not sell or transfer ownership in the unit for at least five years from the date of purchase.
+
+The credit is equal to 45% of the amount invested to a lifetime maximum credit of $150,000. The maximum credit you can claim in the tax year is $50,000, including any amounts carried back or carried forward.
+
+This credit must be applied against tax otherwise payable. You can carry forward unused credits to the seven following tax years or back to the three previous tax years.
+
+The application for the credit must be made within 90 days after the sale of the unit. The Province of Newfoundland and Labrador will issue Form NLRPITC-1, Newfoundland and Labrador Resort Property Investment Tax Credit, for qualifying investments. File this form with your T2 return.
+
+To claim the credit, file a completed [Schedule 304, Newfoundland and Labrador Resort Property Investment Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch304.html). See the schedule for more details.
+
+On line 507 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+#### Newfoundland and Labrador research and development tax credit
+
+You can claim this credit if you have a permanent establishment in Newfoundland and Labrador and if you made eligible expenditures for research and development carried out in Newfoundland and Labrador. The credit is equal to 15% of eligible expenditures.
+
+The credit is fully refundable, but must first be applied against total taxes payable.
+
+To claim the credit, file a completed [Schedule 301, Newfoundland and Labrador Research and Development Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch301.html), with your return no later than 12 months after the filing due date of the corporation. See the schedule for more details.
+
+On line 520 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of credit earned in the year.
+
+#### Newfoundland and Labrador film and video industry tax credit
+
+The minister of Finance for the Province of Newfoundland and Labrador will issue a tax credit certificate to a corporation that produces an eligible film or video in the province.
+
+The amount of the credit is equal to whichever is less:
+
+- 40% of eligible salaries paid in the tax year to residents of the province
+
+- 25% of the total production costs for each eligible project
+
+The credit is a maximum of $5 million for each eligible corporation, together with all corporations associated with that corporation, for all eligible films or videos begun in a 12‑month period. This amount is $4 million for eligible films or videos begun before July 1, 2021.
+
+This credit is fully refundable, but must first be applied against total taxes payable.
+
+To claim the credit, file the certificates (or a copy) with your return. Keep a copy for your records.
+
+If there is only one certificate, enter the certificate number on line 821 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html). If there is more than one certificate, complete [Schedule 302, Additional Certificate Numbers for the Newfoundland and Labrador Film and Video Industry Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch302.html), and file it with your return.
+
+On line 521 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit earned in the current year.
+
+#### Newfoundland and Labrador interactive digital media tax credit
+
+You can claim this credit if you paid eligible salaries and remuneration for eligible interactive digital media projects in the province. The credit has been made permanent.
+
+This refundable credit is equal to 40% of qualifying expenditures. Qualifying expenditures are eligible salaries and 65% of eligible remuneration. The credit is limited to $40,000 per employee per year and $2 million per corporation or group of associated corporations per year.
+
+The minister of Finance for the Province of Newfoundland and Labrador will issue a tax credit certificate to a corporation that produces an eligible interactive digital media project in the province.
+
+To claim the credit, file the certificates (or a copy) with your return no later than 18 months after the end of the tax year for which you are claiming the credit. Keep a copy for your records. For most projects, the credit may be claimed for the year in which the expenses were incurred. For projects developed primarily for government, the whole credit may be claimed for the tax year during which the project was completed.
+
+If there is only one certificate, enter the certificate number on line 840 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html). If there is more than one certificate, complete [Schedule 309, Additional Certificate Numbers for the Newfoundland and Labrador Interactive Digital Media Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch309.html), and file it with your return. See the schedule for more details.
+
+On line 522 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+#### Newfoundland and Labrador manufacturing and processing investment tax credit
+
+Since April 7, 2022, a 10% manufacturing and processing investment tax credit is available to encourage the manufacturing and production, fishery, farming, and forestry sectors to invest in capital equipment located in and for use in a business operated in the province. The credit is calculated based on the corporation's capital cost of eligible property.
+
+In the case of a Canadian-controlled private corporation (CCPC), up to 40% of the credit is refundable. You can carry unused credits back to the 3 previous tax years or forward to the 20 following tax years. The unused credits cannot be applied to a tax year that ends before April 7, 2022.
+
+To claim the credit, file a completed [Schedule 310, Newfoundland and Labrador Manufacturing and Processing Investment Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch310.html), with your return. See the schedule for more details.
+
+On line 508 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the non refundable credit you are claiming. On line 523 of Schedule 5, enter the amount of the refundable credit.
+
+#### Newfoundland and Labrador green technology tax credit
+
+Since April 7, 2022, a 20% green technology tax credit is available to CCPCs with a permanent establishment in the province that invest in equipment for green activities such as:
+
+- energy conservation
+
+- clean energy generation
+
+- efficient use of fossil fuels
+
+The equipment has to be located in, and for use in a business operated in, the province. The credit is calculated based on the corporation's capital cost of eligible property.
+
+The maximum credit is $1 million annually, of which 40% is refundable. You can carry unused credits back to the 3 previous tax years or forward to the 20 following tax years. The unused credits cannot be applied to a tax year that ends before April 7, 2022.
+
+To claim the credit, file a completed [Schedule 311, Newfoundland and Labrador Green Technology Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch311.html), with your return. See the schedule for more details.
+
+On line 506 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the non refundable credit you are claiming. On line 526 of Schedule 5, enter the amount of the refundable credit.
+
+#### Newfoundland and Labrador all-spend film and video production tax credit
+
+A refundable all-spend film and video production tax credit is available since April 7, 2022. The 40% tax credit applies to total eligible production costs, with a maximum credit of $10 million for an eligible production in a tax year.
+
+Effective February 28, 2025, the maximum credit amount was increased from $10 million to $20 million.
+
+The minister of Finance for the Province of Newfoundland and Labrador will issue a tax credit certificate to a corporation that produces an eligible all spend film or video in the province.
+
+To claim the credit, file the certificates (or a copy) with your return. Keep a copy for your records. Enter the certificate number on line 842 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html).
+
+On line 524 of Schedule 5, enter the amount of the credit earned in the current year.
+
+### Prince Edward Island
+
+The **lower rate** of Prince Edward Island income tax is 1%.
+
+This rate applies to the taxable income earned in Prince Edward Island that qualifies for the Prince Edward Island small business deduction.
+
+Effective July 1, 2025, the small business limit was increased from $500,000 to $600,000.
+
+Effective July 1, 2025, the higher rate of Prince Edward Island corporation income tax was decreased from 16% to 15%.
+
+If the rate or the business limit changes during the tax year, you have to base your calculation on the number of days in the year that each rate or limit is in effect.
+
+You can use [Schedule 322, Prince Edward Island Corporation Tax Calculation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch322.html), to help you calculate the Prince Edward Island tax before the credits are applied. You do not have to file it with your return. See the schedule for more details.
+
+On line 210 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of tax calculated.
+
+#### Prince Edward Island corporate investment tax credit
+
+Corporations that have acquired qualified property are eligible for this credit. Apply the credit to reduce the Prince Edward Island tax payable.
+
+You can carry back an unused credit to the three previous tax years from the tax year that you acquired the property. You can also carry forward the unclaimed credit to the seven tax years that follow the tax year in which you acquired the property.
+
+The credit can be renounced but must include all current year credits. Partial renouncements are not permitted. The renouncement must be filed on or before the filing due date of the income tax return.
+
+To claim the credit, file a completed [Schedule 321, Prince Edward Island Corporate Investment Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch321.html), with your return. See the schedule for more details.
+
+On line 530 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+### Nova Scotia
+
+The **lower rate** of Nova Scotia income tax is 2.5%.
+
+Effective April 1, 2025, the lower rate of Nova Scotia corporation income tax was decreased from 2.5% to 1.5%.
+
+The income eligible for the lower rate is determined using the $500,000 Nova Scotia business limit.
+
+Effective April 1, 2025, the small business limit was increased from $500,000 to $700,000.
+
+If the rate or the business limit changes during the tax year, you have to base your calculation on the number of days in the year that each rate or limit is in effect.
+
+The **higher rate** of income tax is 14%. The rate applies to taxable income earned in Nova Scotia that does not qualify for the lower rate.
+
+These rates also apply to taxable income earned in the Nova Scotia offshore area.
+
+You can use [Schedule 346, Nova Scotia Corporation Tax Calculation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch346.html), to help you calculate the Nova Scotia tax before the application of credits. You do not have to file it with your return. See the schedule for more details.
+
+On line 215 and/or 220 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of tax calculated.
+
+#### Nova Scotia food bank tax credit for farmers
+
+Corporations that carry on a farming business in Nova Scotia may claim a non‑refundable tax credit equal to 25% of the amount of the qualifying donation that is deducted the same year under section 110.1 of the federal Income Tax Act for the donation. A qualifying donation is a donation to an eligible food bank of one or more agriculture products produced in Nova Scotia.
+
+To claim the credit, file a completed [Schedule 2, Charitable Donations and Gifts](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch2.html), with your return. For more details, see the schedule.
+
+On line 570 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit earned in the current year.
+
+#### Nova Scotia corporate tax reduction for new small businesses
+
+This tax reduction eliminates the Nova Scotia corporation income tax for new corporations that carry on eligible new small businesses for the first three tax years after incorporation if the corporation is also eligible for the federal small business deduction.
+
+An eligible corporation must apply to the Nova Scotia Department of Finance and Treasury Board and receive an eligibility certificate before claiming the tax reduction. Once the eligibility certificate is received, the corporation can claim this tax reduction to reduce Nova Scotia income tax otherwise payable. To claim the tax reduction each tax year, the corporation must receive an eligibility certificate for each of the three tax years.
+
+An eligible corporation must:
+
+- be a Canadian-controlled private corporation incorporated in Nova Scotia, or
+
+- be a corporation incorporated outside the province, but inside of Canada, that
+
+    - pays at least 25% of its wages to employees who are resident in the province, and
+
+    - has its head office in the province
+
+An eligible corporation must also have at least two employees, one of whom is not related to a specified shareholder of the corporation. One or more employees not related to a shareholder must have at least 1,300 total paid hours of employment in a 12-month period, or an equivalent amount prorated for a short tax year.
+
+[Schedule 341, Nova Scotia Corporate Tax Reduction for New Small Businesses](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch341.html), is a worksheet to calculate the credit. You do not have to file it with your return.
+
+To claim the tax reduction, file the original or a copy of the eligibility certificate issued by the province with your return.
+
+On lines 834 and 556 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the certificate number and the amount of the reduction you are claiming.
+
+#### Nova Scotia innovation equity tax credit
+
+This credit is made available to corporations resident in Nova Scotia who make eligible capital investments before March 2, 2029, in eligible Nova Scotia small and medium size corporations engaged in innovative activities.
+
+The credit is equal to 15% of the eligible investment. The minimum investment amount is $50,000 and the maximum annual investment amount is $500,000.
+
+The credit is not refundable. Apply the credit first to reduce the tax payable for the year to zero. If unclaimed credits remain, you can carry them back to the three previous tax years or carry them forward to the seven following tax years.
+
+The minister of Finance and Treasury Board for Nova Scotia will issue a tax credit certificate to corporations that make an eligible investment in an approved corporation.
+
+To claim the credit, file the original or a copy of the tax credit certificate issued by the province with your return along with a completed [Schedule 349, Nova Scotia Innovation Equity Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch349.html). For more details, see the schedule.
+
+On line 562 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+#### Nova Scotia venture capital tax credit
+
+This credit is available to corporations who invest in a qualifying venture capital fund after March 31, 2019, and before March 31, 2029.
+
+The tax credit is equal to 15% of an eligible investment up to a $500,000 maximum annual investment.
+
+The credit is not refundable. Apply the venture capital tax credit first to reduce the tax payable for the year to zero. If unclaimed credits remain, you can carry them back to the three previous tax years or carry them forward to the seven following tax years.
+
+The minister of Finance and Treasury Board for Nova Scotia will issue a tax credit certificate to corporations that make an eligible investment in a qualifying venture capital fund.
+
+To claim the credit, file the original or a copy of the tax credit certificate issued by the province with your return along with a completed [Schedule 350, Nova Scotia Venture Capital Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch350.html). For more details, see the schedule.
+
+On line 563 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+#### Nova Scotia research and development tax credit
+
+You can claim this credit if you have a permanent establishment in Nova Scotia and if you made eligible expenditures for research and development carried out in Nova Scotia. The credit is equal to 15% of eligible expenditures.
+
+The credit is fully refundable, but must be applied first against total taxes payable.
+
+You can renounce the research and development tax credit for eligible expenditures incurred during the year under subsection 41(7) of the Income Tax Act (Nova Scotia).
+
+To calculate and claim the credit, file a completed [Schedule 340, Nova Scotia Research and Development Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch340.html), with your return no later than 18 months after the corporation's tax year-end. See the schedule for more details.
+
+On line 566 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of credit earned in the year.
+
+#### Recapture of Nova Scotia research and development tax credit
+
+A corporation that disposed of a property used in research and development, or converted the property to commercial use, may have to report a recapture of any Nova Scotia research and development tax credit previously calculated on that property. Any recapture will create or increase Nova Scotia tax otherwise payable.
+
+To calculate the recapture, complete [Schedule 340, Nova Scotia Research and Development Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch340.html). See the schedule for more details.
+
+On line 221 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of recapture calculated.
+
+#### Nova Scotia digital media tax credit
+
+The minister of Finance and Treasury Board for Nova Scotia will issue a tax credit certificate to a corporation producing an eligible product in the province.
+
+An eligible employee has to be a resident of Nova Scotia for tax purposes during the production period.
+
+The credit is based on the qualifying expenditures incurred before January 1, 2031, and is limited by total expenditures.
+
+The amount of the credit is the lesser of:
+
+- 50% of qualifying expenditures
+
+- 25% of total expenditures
+
+A bonus of 10% of qualifying expenditures or 5% of total expenditures is available for developing an eligible product in a prescribed geographic area. An eligible corporation must have no less than 50% of eligible salaries paid to employees who normally report to a permanent establishment of the eligible corporation in the prescribed geographic area of the province.
+
+This credit is refundable, but must be applied first against total taxes payable.
+
+To claim the credit, file the original or a copy of the certificate issued by the province with your return.
+
+If there is only one certificate, enter the certificate number on line 838 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html). If there is more than one certificate, complete [Schedule 347, Additional Certificate Numbers for the Nova Scotia Digital Media Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch347.html), and file it with your return.
+
+On line 567 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit earned in the current year.
+
+#### Nova Scotia digital animation tax credit
+
+This credit provides incentive for digital-animation productions that start key animation before January 1, 2031.
+
+An eligible employee has to be a resident of Nova Scotia on the last day of the calendar year just before the year for which you claim the tax credit. The maximum of an employee's eligible salary is $150,000 per production.
+
+Send a Part A application for an eligibility certificate to the Department of Finance and Treasury Board of Nova Scotia before the start of key animation of a digital animation production.
+
+After the production is completed, file a Part B application for a tax certificate.
+
+The credit is the sum of:
+
+- 50% of qualifying expenditures deducted by total assistance
+
+- 17.5% of eligible digital animation labour expenditures
+
+This credit is refundable, but must be applied first against total tax payable.
+
+To claim the credit, file the original or a copy of the tax certificate issued by the province with your return.
+
+If there is only one certificate, enter the certificate number on line 839 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html). If there is more than one certificate, complete [Schedule 348, Additional Certificate Numbers for the Nova Scotia Digital Animation Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch348.html), and file it with your return.
+
+On line 569 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit earned in the current year.
+
+#### Nova Scotia capital investment tax credit
+
+An eligible corporation must submit to the Department of Finance and Treasury Board of Nova Scotia:
+
+- a Part A application for an eligibility certificate to find out if the project is eligible
+
+- then, Part B applications for tax credit certificates after the end of each tax year in which qualified property is acquired
+
+An eligible corporation can claim this tax credit on qualified property acquired before January 1, 2030, for use in Nova Scotia as part of an approved project that is more than $15 million in total cost.
+
+The refundable credit equals 25% of the capital cost of qualified property. The maximum tax credit available for each approved project is $100 million across the duration of the project. For qualified property acquired before October 1, 2022, the rate was 15% and the amount $30 million.
+
+The credit is available to corporations:
+
+- mainly in the manufacturing and processing, farming, fishing, logging sectors
+
+- transporting freight, including satellites, by space vehicle into orbit
+
+To claim the credit, file the original or a copy of the tax credit certificate issued by the province with your return.
+
+If there is only one certificate, enter the certificate number on line 841 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html). If there is more than one certificate, complete [Schedule 351, Additional Certificate Numbers for the Nova Scotia Capital Investment Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch351.html), and file it with your return.
+
+On line 568 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+#### Nova Scotia financial institutions capital tax
+
+A provincial tax is levied on the taxable capital of financial institutions that have a permanent establishment in Nova Scotia at any time in the tax year. This tax applies to banks (including authorized foreign banks) as well as trust and loan companies.
+
+The tax is equal to 4% of the financial institution's taxable capital employed in the province for the year, including the offshore area.
+
+When calculating its taxable capital (before allocation to the province), a financial institution can deduct a basic capital deduction plus the amount of its investment in related financial institutions for the tax year.
+
+For a tax year, a basic capital deduction of $5 million is available to a financial institution if the total amount of the capital of the financial institution and its related financial institutions, if any, is $10 million or less. If the financial institution is a member of a related group, the financial institution's entitlement to the $5 million capital deduction could be deemed to be nil unless it files an agreement allocating the basic capital deduction among the group.
+
+The basic capital deduction is increased to $30 million if the financial institution is a trust company or a loan company with its registered office in Nova Scotia.
+
+Use [Schedule 353, Nova Scotia Financial Institutions Capital Tax – Agreement Among Related Corporations](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch353.html), to allocate the basic capital deduction. File this agreement with your return.
+
+Corporations that are liable to pay this tax have to file [Schedule 352, Nova Scotia Financial Institutions Capital Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch352.html).
+
+On line 222 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the provincial tax on financial institutions payable.
+
+A penalty applies to financial institutions that have to pay this tax and do not file the required return on time. See the details about the [penalties for large corporations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html).
+
+### New Brunswick
+
+The **lower rate** of New Brunswick corporation income tax is 2.5%.
+
+To determine the income eligible for the lower rate, use the New Brunswick business limit of $500,000.
+
+The New Brunswick business limit is not subject to the federal passive income business limit reduction. As such, eligible New Brunswick small businesses are eligible for the New Brunswick lower rate regardless of the amount of passive income they earned. See the details on the [reduced business limit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-4-page-4-t2-return.html).
+
+The **higher rate** of New Brunswick corporation income tax is 14%.
+
+The higher rate applies to all income not eligible for the lower rate.
+
+You can use [Schedule 366, New Brunswick Corporation Tax Calculation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch366.html), to help you calculate the New Brunswick tax before the application of credits. You do not have to file it with your return. See the schedule for more details.
+
+On line 225 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of tax calculated.
+
+#### New Brunswick small business investor tax credit
+
+You can claim a tax credit for investments in eligible small businesses in New Brunswick.
+
+The non-refundable credit equals 15% of the amount you invested to an annual maximum of $75,000 (for investment of up to $500,000).
+
+You can carry back an unused credit to the three previous tax years. You can also carry forward the unused credit to the seven following tax years.
+
+New Brunswick will issue a certificate for qualifying investments. If you file your return electronically, keep your certificate in case the CRA asks for it later. Otherwise, file it with your paper T2 return.
+
+To claim the credit, file a completed [Schedule 367, New Brunswick Small Business Investor Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch367.html), with your return. For more details, see the schedule.
+
+On line 578 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+#### New Brunswick research and development tax credit
+
+You can claim this credit if you have a permanent establishment in New Brunswick and you made eligible expenditures for research and development to be carried out in New Brunswick. The amount of the credit is equal to 15% of eligible expenditures.
+
+The credit is fully refundable, but must first be applied against total taxes payable.
+
+To claim the credit, file a completed [Schedule 360, New Brunswick Research and Development Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch360.html), with your return. For more details, see the schedule.
+
+On line 597 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+#### Recapture of New Brunswick research and development tax credit
+
+A corporation that disposed of a property used in research and development, or converted it to commercial use, may have to report a recapture of any New Brunswick research and development tax credit previously calculated on that property. Any recapture will create or increase New Brunswick tax otherwise payable.
+
+To calculate the recapture, complete [Schedule 360, New Brunswick Research and Development Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch360.html).
+
+On line 573 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of recapture calculated.
+
+### Ontario
+
+The **basic rate** of income tax is 11.5%.
+
+You can use [Schedule 500, Ontario Corporation Tax Calculation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch500.html), to calculate your Ontario basic income tax. Schedule 500 is a worksheet and you do not have to file it with your return.
+
+On line 270 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of basic income tax calculated.
+
+#### Ontario small business deduction
+
+The deduction reduces the Ontario basic income tax of a corporation that was a CCPC throughout the tax year. It is calculated by multiplying the corporation's Ontario small business income for the tax year by the small business deduction rate (8.3%) for the year, resulting in a lower tax rate of 3.2%.
+
+The Ontario small business deduction is phased out for CCPCs (including associated corporations) with taxable capital employed in Canada of more than $10 million in the previous tax year. It is completely eliminated when the taxable capital is $50 million or more in the previous tax year. This is referred to as the taxable capital business limit reduction.
+
+The Ontario small business limit is not subject to the federal passive income business limit reduction. As such, eligible Ontario small businesses can receive the Ontario small business deduction regardless of the amount of passive income they earned. See the details on the [reduced business limit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-4-page-4-t2-return.html).
+
+Ontario small business income cannot exceed Ontario taxable income.
+
+When calculating the Ontario small business income, the corporation's Ontario domestic factor is the ratio of the corporation's Ontario taxable income to the corporation's taxable income earned in all provinces and territories.
+
+You can use Part 2 of [Schedule 500, Ontario Corporation Tax Calculation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch500.html), to calculate the deduction. Schedule 500 is a worksheet and you do not have to file it with your return.
+
+On line 402 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the small business deduction amount.
+
+#### Ontario transitional tax debits and credits
+
+The Ontario transitional tax debits and credits have provided a transition from the [Corporations Tax Act (Ontario)](https://www.ontario.ca/laws/statute/90c40) for corporations with different income tax attributes for federal and Ontario purposes.
+
+For tax years ending before 2009, a corporation's income and taxable income for Ontario purposes were determined based on its Ontario tax pools (for example, the undepreciated capital cost of depreciable property) under the Corporations Tax Act (Ontario).
+
+For tax years ending after 2008, the corporation's income and taxable income for Ontario purposes are determined based on its federal tax pools under the Taxation Act, 2007 (Ontario).
+
+If the corporation's federal tax pools exceeded its Ontario tax pools, the corporation had a transitional tax debit. A specified corporation subject to the Ontario transitional tax debit was generally required to pay additional Ontario corporate income tax over a five-year period beginning with its first tax year ending after 2008.
+
+Although the five-year period has ended, it is still possible to have a transitional tax debit since, after 2015, the corporation can continue to defer the transitional tax debits as long as it does not claim an SR&ED tax deduction and the SR&ED expenditure pool is not reduced by government assistance.
+
+Conversely, where the corporation's Ontario tax pools exceeded its federal tax pools, the corporation had a transitional tax credit. A specified corporation was generally entitled to a transitional tax credit over a five-year period beginning with its first tax year ending after 2008. You can no longer claim this credit.
+
+A specified corporation is defined under subsection 46(5) of the [Taxation Act, 2007 (Ontario)](https://www.ontario.ca/laws/statute/07t11).
+
+Complete [Schedule 506, Ontario Transitional Tax Debits and Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch506.html), to calculate the corporation's transitional tax debits. Use [Schedule 507, Ontario Transitional Tax Debits and Credits Calculation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch507.html), to determine the amounts to enter in Part 3 of Schedule 506.
+
+File Schedule 506 with the return. Schedule 507 does not have to be filed with the return.
+
+On line 276 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the total transitional tax debits.
+
+#### Ontario corporate minimum tax
+
+The Ontario corporate minimum tax payable is equal to the amount by which the corporate minimum tax exceeds the Ontario corporate income tax.
+
+A corporation is subject to corporate minimum tax if its total assets are **$50** million or more **and** its total revenue is **$100** million or more except if the corporation was, throughout the tax year, one of the following:
+
+- a corporation exempt from income tax under section 149 of the federal [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html)
+
+- a mortgage investment corporation
+
+- a deposit insurance corporation under subsection 137.1(5) of the federal Income Tax Act
+
+- a congregation or business agency to which section 143 of the federal Income Tax Act applies
+
+- an investment corporation
+
+- a mutual fund corporation
+
+The corporate minimum tax rate is 2.7%.
+
+In determining if the total assets or total revenue exceeds the limits, a corporation must include its share of the total assets and total revenue of a partnership in which it has an interest, any associated foreign or Canadian corporation, and any associated corporation's share of a partnership. If a corporation is associated it must complete and file [Schedule 511, Ontario Corporate Minimum Tax – Total Assets and Revenue for Associated Corporations](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch511.html), to report the total assets and total revenue of all the associated corporations.
+
+File [Schedule 510, Ontario Corporate Minimum Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch510.html), with your T2 return if one of the following applies:
+
+- the corporation is subject to corporate minimum tax for the tax year (Part 1 of the schedule)
+
+- the corporation is not subject to corporate minimum tax in the year, but is deducting a corporate minimum tax credit or has a corporate minimum tax credit carryforward (see [Ontario corporate minimum tax credit](#Ontario_corporate_minimum_tax_credit)), corporate minimum tax loss carryforward, or current year corporate minimum tax loss (Parts 4 to 8 of the schedule)
+
+- the corporation has special additional tax on life insurance corporations payable in the year even if it is not subject to corporate minimum tax for the tax year (Part 4 of Schedule 510, and [Schedule 512, Ontario Special Additional Tax on Life Insurance Corporations [SAT])](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch512.html)
+
+Corporate minimum tax is based on the adjusted net income of a corporation. The adjusted net income is a corporation's net income calculated in accordance with Canadian generally accepted accounting principles or the International Financial Reporting Standards, with various adjustments. The adjustments are reported in Part 2 of Schedule 510.
+
+Accounting gains reported in the year from corporation reorganizations that are deferred for income tax purposes are deductible when calculating adjusted net income.
+
+Accounting gains reported in the year on the transfer of property under section 85, section 85.1, section 97, subsection 13(4), and/or section 44 of the federal Act are deductible when calculating adjusted net income. An election is required in order to claim this deduction. The CRA will consider a corporation to have filed an election (and to not need to file another document) if it reports the deduction and has filed the election(s) required for corporate income tax purposes.
+
+In addition, certain unrealized mark-to-market gains/losses and foreign currency gains/losses on assets that are not required to be included in computing income for income tax purposes are not included in adjusted net income. For additional information see [Ontario Regulation 37/09](https://www.ontario.ca/laws/regulation/r09037).
+
+File a completed [Schedule 510](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch510.html) with your return and, if applicable, [Schedule 511](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch511.html).
+
+On line 278 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the corporate minimum tax.
+
+**References** Division C, Sections 54 to 62 Taxation Act, 2007 (Ontario)
+
+##### Corporate minimum tax loss carryforward
+
+A corporate minimum tax loss may be carried forward 20 years.
+
+Upon amalgamation under section 87, only corporate minimum tax losses from predecessors who are not controlled by predecessors in the amalgamated group can be transferred to a new corporation. On a vertical amalgamation of a parent and subsidiary corporations, only the loss from the parent may be transferred to the new corporation. The subsidiary's loss may not be transferred to the parent.
+
+Upon winding up a subsidiary under subsection 88(1), the subsidiary's corporate minimum tax loss may not be transferred to a parent corporation.
+
+Calculate the carry-forward amount in Part 7 of [Schedule 510, Ontario Corporate Minimum Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch510.html).
+
+#### Ontario special additional tax on life insurance corporations
+
+A life insurance corporation carrying on business in Ontario at any time in the tax year is subject to the Ontario special additional tax on life insurance corporations.
+
+The special additional tax payable for a tax year is equal to the amount by which:
+
+- 1.25% of the corporation's taxable paid-up capital multiplied by the number of days in the tax year divided by 365
+
+**is more than**
+
+- the total of the corporation's Ontario corporate income tax and corporate minimum tax payable for the year.
+
+Use [Schedule 512, Ontario Special Additional Tax on Life Insurance Corporations (SAT)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch512.html), to calculate the tax payable.
+
+The special additional tax paid for a tax year is added to the corporation's corporate minimum tax credit carryforward. This credit may be deducted to reduce Ontario corporate income tax payable in future years. For more information, see [Ontario Corporate Minimum Tax Credit](#Ontario_corporate_minimum_tax_credit). Enter the special additional tax payable for the tax year in Part 4 of [Schedule 510, Ontario Corporate Minimum Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch510.html).
+
+Life insurance corporations that are subject to the special additional tax and related, at the end of the tax year, to another life insurance corporation carrying on business in Canada must use [Schedule 513, Agreement Among Related Life Insurance Corporations (Ontario)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch513.html), to allocate the capital allowance among the members of the related group.
+
+File [Schedule 512](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch512.html) and, if applicable, Schedule 513, with your return.
+
+On line 280 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of special additional tax payable.
+
+**Reference** Section 63, Taxation Act, 2007 (Ontario)
+
+#### Ontario political contributions tax credit
+
+Effective January 1, 2017, this credit is eliminated for corporations. You can carry forward unused contributions for up to 20 years.
+
+You can claim a tax credit on contributions made before January 1, 2017, to Ontario registered parties, registered constituency associations, or registered candidates as defined under the [Ontario Election Finances Act](https://www.ontario.ca/laws/statute/90e07).
+
+Generally, this non-refundable credit is calculated by multiplying the [basic tax rate](#ontario2009) by the amount of Ontario political contributions, up to an annual maximum indexed according to the Election Finances Act. The credit is effective for tax years ending after December 31, 2008. It replaces the previous deduction for political contributions administered by the province.
+
+You can carry forward unused contributions, including those from pre-2009 tax years, for up to 20 years. There are no carry-back provisions.
+
+You do not have to file official receipts with your return. However, keep them in case the CRA asks for them later. The CRA can accept photocopies only if the issuer certifies them as true copies.
+
+To claim a carry-forward amount, file a completed [Schedule 525, Ontario Political Contributions Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch525.html), with your return.
+
+On line 415 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+**Reference** Section 53.2, Taxation Act, 2007 (Ontario)
+
+#### Ontario tax credit for manufacturing and processing
+
+You can claim the Ontario tax credit for manufacturing and processing if the corporation had both:
+
+- Ontario taxable income during the tax year
+
+- eligible Canadian profits from manufacturing and processing, farming, fishing, logging, mining, the generation of electrical energy for sale, or the production of steam for sale
+
+You cannot claim this credit on the corporation's income that is subject to the Ontario small business deduction rate.
+
+To claim the credit, file a completed [Schedule 502, Ontario Tax Credit for Manufacturing and Processing](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch502.html), with the return.
+
+On line 406 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+**Reference** Section 33, Taxation Act, 2007 (Ontario)
+
+#### Ontario credit union tax reduction
+
+The Ontario credit union tax reduction allows credit unions a special deduction from income tax otherwise payable. It is designed to reduce their overall income tax rate to the same net rate paid by small business corporations that claim the Ontario small business deduction.
+
+To be eligible to claim the Ontario credit union tax reduction, the credit union must meet the following criteria:
+
+- have been a credit union throughout the tax year
+
+- have had a permanent establishment in Ontario at any time in the tax year
+
+- have Ontario taxable income in the year
+
+You can use Part 4 of [Schedule 500, Ontario Corporation Tax Calculation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch500.html), to calculate the Ontario credit union tax reduction. Schedule 500 is a worksheet and you do not have to file it with your return.
+
+To claim the Ontario credit union tax reduction, file [Schedule 17, Credit Union Deductions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch17.html), with your return.
+
+On line 410 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the reduction you are claiming.
+
+**Reference** Section 35, Taxation Act, 2007 (Ontario)
+
+#### Ontario research and development tax credit
+
+You can claim this credit if you have a permanent establishment in Ontario and you had eligible expenditures for scientific research and experimental development carried out in Ontario.
+
+An eligible expenditure is all of the following:
+
+- an expenditure attributable to a permanent establishment in Ontario of a corporation
+
+- a qualified expenditure for the purposes of section 127 of the federal [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html) for scientific research and experimental development carried on in Ontario
+
+- reduced by government assistance, non-government assistance, or contract payments received, entitled to be received, or reasonably expected to be received
+
+The amount of the non-refundable credit is equal to 3.5% of eligible expenditures incurred by a corporation in a tax year that ends on or after June 1, 2016. The rate was previously 4.5%.
+
+If the credit rate changes during the tax year, you have to base your calculation on the number of days in the year that each rate is in effect.
+
+The credit may be applied to reduce Ontario corporate income tax that you would otherwise have to pay. An unused credit can be carried back 3 years and can be carried forward 20 years.
+
+Only corporations that are not exempt from Ontario corporate income tax and that have no exempt income can claim the credit.
+
+You can waive the current-year research and development tax credit, in whole or in part, under subsection 43(1) of the Taxation Act, 2007 (Ontario).
+
+To claim the credit, file a completed [Schedule 508, Ontario Research and Development Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch508.html), with your return. Also attach completed copies of [Form T661, Scientific Research and Experimental Development (SR&ED) Expenditures Claim](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t661.html), and [Schedule 31, Investment Tax Credit – Corporations](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch31.html).
+
+If the corporation is a member of a partnership and is allocated a portion of the credit as provided for in section 40 of the [Taxation Act, 2007 (Ontario)](https://www.ontario.ca/laws/statute/07t11), attach a schedule showing the partnership's calculation.
+
+On line 416 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+**References** Sections 38 to 44, Taxation Act, 2007 (Ontario)
+
+#### Recapture of Ontario research and development tax credit
+
+A corporation that disposed of a property used in scientific research and experimental development, or converted it to commercial use, may have to report a recapture of any Ontario research and development tax credit previously calculated on that property. Any recapture will create or increase Ontario tax otherwise payable.
+
+To calculate the recapture, complete [Schedule 508, Ontario Research and Development Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch508.html).
+
+On line 277 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of recapture calculated.
+
+**Reference** Section 45, Taxation Act, 2007 (Ontario)
+
+#### Ontario corporate minimum tax credit
+
+The Ontario corporate minimum tax credit that may be deducted from Ontario corporate income tax payable for the tax year is equal to the least of:
+
+- the corporate minimum tax credit available for the tax year
+
+- the Ontario corporate income tax payable (before the corporate minimum tax credit) **minus** the greater of the following two amounts:
+
+    - the corporate minimum tax after foreign tax credit deduction
+
+    - the gross special additional tax on life insurance corporations for the tax year
+
+- the Ontario corporate income tax payable (before the corporate minimum tax credit) **minus** the total refundable tax credits for the tax year
+
+The minimum tax credit carryforward at the beginning of the tax year is equal to the minimum tax and special additional tax paid in previous tax years less any minimum tax credit previously deducted or expired. Only special additional tax paid in a tax year ending after 2008 is included.
+
+The minimum tax credits attributable to tax years ending after March 22, 2007, can be carried forward for 20 years.
+
+For tax years ending after 2008, the carryforward of minimum tax credits attributable to tax years ending before March 23, 2007, is extended from 10 to 20 years if the credit did not otherwise expire before the beginning of the corporation's first tax year ending after 2008.
+
+Complete Parts 4, 5, and 6 of [Schedule 510, Ontario Corporate Minimum Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch510.html), to calculate the corporate minimum tax credit carryforward and the credit deducted in the current tax year.
+
+On line 418 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit deducted in the current tax year.
+
+**References** Subsections 53(1) to 53(5), Taxation Act, 2007 (Ontario)
+
+#### Ontario community food program donation tax credit for farmers
+
+A non-refundable tax credit is available for farmers who donate to community food programs.
+
+A qualifying donation is a donation of one or more agricultural products produced in Ontario by an eligible person and given by an eligible person to an eligible community food program in Ontario.
+
+The credit is equal to 25% of that part of the corporation's qualifying donations for the year that the corporation deducted under subsection 110.1(1) of the federal Income Tax Act when computing its taxable income for the year.
+
+You must claim the credit in the same year that you claim the deduction for charitable gifts under section 110.1 of the federal Income Tax Act for the donation. Charitable gifts are eligible for a five-year carryforward.
+
+To claim the credit, file a completed [Schedule 2, Charitable Donations and Gifts](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch2.html), with your return. For more details, see the schedule.
+
+On line 420 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+**Reference** Section 103.1.2, Taxation Act, 2007 (Ontario)
+
+#### Ontario qualifying environmental trust tax credit
+
+A corporation that is the beneficiary of a qualifying environmental trust located in Ontario can claim a qualifying environmental trust tax credit on income that is subject to tax under Part XII.4 of the federal [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html).
+
+The amount of the tax credit is the corporation's share of the qualifying environmental trust tax paid by the trust.
+
+The qualifying environmental trust will issue a letter to the corporation that is a beneficiary.
+
+The credit is fully refundable but must first be applied against taxes payable.
+
+You do not have to file the letter with your return. However, keep it in case the CRA asks for it later.
+
+On line 450 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+**Reference** Section 87, Taxation Act, 2007 (Ontario)
+
+#### Ontario co-operative education tax credit
+
+You can claim this refundable credit if you are a corporation that provided a qualifying work placement at a permanent establishment in Ontario for a student enrolled in a qualifying post-secondary co-operative education program.
+
+To be a qualifying work placement, the work placement must meet all of the following conditions:
+
+- the student must perform employment duties for a corporation under a qualifying co-operative education program
+
+- the placement must be developed or approved by an eligible educational institution as a suitable learning situation
+
+- the terms of the placement must require the student to engage in productive work
+
+- the placement must be for a period of at least 10 consecutive weeks except, in the case of an internship program, the placement cannot be less than 8 consecutive months and not more than 16 consecutive months
+
+- the corporation must supervise and evaluate the job performance of the student
+
+- the institution must monitor the student's performance in the placement
+
+- the institution must certify the placement as a qualifying work placement
+
+- the student must be paid for the work performed
+
+The credit is equal to an eligible percentage (25% to 30%) of the eligible expenditures incurred by the corporation for a qualifying work placement.
+
+The maximum credit for each qualifying work placement is $3,000.
+
+Eligible expenditures are equal to the following amounts:
+
+- salaries and wages (including taxable benefits) paid or payable to a student in a qualifying work placement
+
+- fees paid or payable to an employment agency for the provision of services performed by the student in a qualifying work placement
+
+Keep a copy of the letter of certification from the eligible educational institution in Ontario to support your claim. The letter of certification must contain the name of the student, the employer, and the educational institution, as well as the term of the work placement and the name or discipline of the qualifying co-operative education program.
+
+To claim the credit, file a completed [Schedule 550, Ontario Co-operative Education Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch550.html), with your return. For more details, see the schedule.
+
+On line 452 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+**Reference** Section 88, Taxation Act, 2007 (Ontario)
+
+#### Ontario computer animation and special effects tax credit
+
+The Ontario computer animation and special effects (OCASE) tax credit is a refundable tax credit equal to 18% of the qualifying labour expenditures for eligible computer animation and special effects activities, incurred by a qualifying corporation for an eligible production.
+
+Changes were made affecting the eligibility of productions for which the qualifying corporation did not incur any specified labour costs before March 26, 2024. See details below.
+
+Qualifying labour expenditures equal the corporation's Ontario labour expenditures less any assistance reasonably related to these expenditures, other than excluded government assistance.
+
+For productions for which the qualifying corporation did **not** incur any specified labour costs before March 26, 2024, qualifying labour expenditures may be incurred in the tax year or the previous tax year, so long as they were not claimed in the previous tax year. For productions for which the qualifying corporation incurred any specified labour costs before March 26, 2024, qualifying labour expenditures must have been incurred in the tax year.
+
+The Ontario labour expenditures are the sum of the salaries and wages and the remuneration incurred that are directly attributable to computer animation and special effects activities performed in Ontario and paid to certain persons or entities, within 60 days of the end of the tax year.
+
+To be eligible for the credit, a corporation must meet certain criteria, including all of the following:
+
+- be a Canadian corporation
+
+- perform eligible computer animation and special effects activities for the eligible production at a permanent establishment in Ontario for the tax year
+
+Eligible labour expenditures may include remote work done by employees, if the work is done in Ontario and the employee is an Ontario resident at the end of the last calendar year ending before undertaking the work. The employee must report to and be under the direction of an eligible tax credit applicant with a permanent establishment in Ontario.
+
+- not be exempt from tax under Part III of the [Taxation Act, 2007 (Ontario)](https://www.ontario.ca/laws/statute/07t11) for the tax year
+
+- not be controlled directly or indirectly, at any time in the tax year, in any way, by one or more corporations, all or part of whose taxable income is exempt from tax under section 57 of the [Corporations Tax Act (Ontario)](https://www.ontario.ca/laws/statute/90c40) or Part III of the Taxation Act, 2007 (Ontario)
+
+- not be a prescribed labour-sponsored venture capital corporation at any time in the tax year
+
+For film or television productions for which no specified labour costs were incurred before March 26, 2024, an eligible production no longer has to qualify for either the Ontario film and television tax credit or the Ontario production services tax credit. Instead, the corporation has to incur more than $25,000 in Ontario labour expenditures for each film or television production it is claiming the OCASE credit for. This minimum labour expenditure threshold has to be incurred either:
+
+- in the tax year of the claim
+
+- cumulatively between the tax year of the claim and the previous tax year
+
+- in any previous two-year period
+
+Once a qualifying corporation reaches the minimum labour expenditure threshold within up to two tax years for a specific production, expenditures related to that production in those tax years and any later tax year will be eligible. Certain types of productions are excluded from eligibility, such as instructional, music and gaming videos, and videos consisting mainly of user-generated footage.
+
+For film or television productions for which the qualifying corporation incurred any specified labour costs before March 26,2024, a certificate for the Ontario production services tax credit or the Ontario film and television tax credit must have been issued to a qualifying corporation for the production.
+
+Before claiming the credit, you must apply **online** to Ontario Creates for a certificate of eligibility. If the production is eligible, Ontario Creates will issue a certificate indicating the estimated amount of the tax credit. Only **one** certificate of eligibility is issued for all of the eligible productions for the tax year.
+
+To claim the credit, file the following with your return for the year:
+
+- a certificate of eligibility (or copy) issued by Ontario Creates
+
+- a completed [Schedule 554, Ontario Computer Animation and Special Effects Tax Credit,](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch554.html) for **each** eligible production
+
+If you file your return electronically, see information on [T2 Attach-a-doc](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html).
+
+If you file a paper return, send the return and required attachments to your [tax centre](https://www.canada.ca/en/revenue-agency/corporate/contact-information/tax-services-offices-tax-centres.html).
+
+On line 456 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the total amount of the credit you are claiming.
+
+The CRA will not begin to process the media tax credit claim until it receives all the required documents. A claim is considered to be complete when all of the above documents are filed with the CRA.
+
+**Reference** Section 90, Taxation Act, 2007 (Ontario)
+
+#### Ontario film and television tax credit
+
+The Ontario film and television tax credit is a refundable tax credit based on the qualifying labour expenditures incurred by a qualifying production company for eligible Ontario productions. The amount of credit depends on whether the eligible production is:
+
+- a first-time production
+
+- a small first-time production
+
+- other than a first-time production
+
+##### First-time production
+
+If the eligible Ontario production is a first-time production, you can claim a credit equal to:
+
+- 40% of the labour expenditures, for the first $240,000 for the production and 35% on the balance
+
+- an additional 10% of the labour expenditures if the production is a regional Ontario production
+
+##### Small first-time production
+
+If the eligible Ontario production is a small first-time production, you can claim a credit equal to the lesser of:
+
+- the labour expenditures
+
+- $20,000 if the production is a regional Ontario production or $15,000 if it is not a regional Ontario production. These amounts are reduced by any Ontario film and television tax credits previously received for the production
+
+The total labour expenditure for a small first-time production cannot be more than $50,000 at the time the production is completed.
+
+##### Other than a first-time production
+
+If the eligible Ontario production is other than a first-time production, you can claim a credit equal to:
+
+- 35% of labour expenditures
+
+- an additional 10% of labour expenditures if the production is a regional Ontario production
+
+The qualifying labour expenditures equal the corporation's Ontario labour expenditures less assistance reasonably related to these expenditures. Some exceptions apply, see [Schedule 556](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch556.html).
+
+The qualifying labour expenditures are determined without reference to any equity investment held by a person prescribed under section 1106(10) of the federal regulations.
+
+The Ontario labour expenditures are the sum of the salaries, wages, and remuneration paid, and reimbursements made to the parent company of eligible salaries and wages and remuneration, incurred in a tax year that are directly attributable to the eligible Ontario production, performed in Ontario and paid to certain persons or entities, within 60 days of the end of the tax year.
+
+To be eligible for the credit, a corporation must meet certain criteria, including all ofthe following:
+
+- be a Canadian-controlled corporation throughout the tax year as determined under sections 26 to 28 of the [Investment Canada Act](https://laws-lois.justice.gc.ca/eng/acts/I-21.8/index.html)
+
+- have a permanent establishment in Ontario throughout the tax year
+
+- be primarily engaged in the carrying on of a Canadian film or video production business through a permanent establishment in Canada in the tax year
+
+- not be exempt from tax under Part III of the Taxation Act, 2007 (Ontario) or Part I of the federal [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html) for the tax year
+
+- not be controlled, at any time in the tax year, directly or indirectly, in any way, by one or more persons, all or part of whose taxable income was exempt from tax under Part I of the federal Income Tax Act
+
+- not be a prescribed labour-sponsored venture capital corporation at any time in the tax year
+
+You **cannot** claim the Ontario film and television tax credit if you claim the Ontario production services tax credit for that same production for any tax year.
+
+All productions must provide on-screen acknowledgement of Ontario tax credit support in their end credits if principal photography started after August 24, 2023.
+
+Productions that are distributed only online are eligible for the credit if principal photography started on or after November 1, 2022, and if they meet all applicable criteria.
+
+Before claiming the credit, you must apply **online** to Ontario Creates for a certificate of eligibility. If the production is eligible, Ontario Creates will issue a certificate indicating the estimated amount of the tax credit.
+
+To claim the credit, file the following with your return for the year for **each** eligible production:
+
+- a certificate of eligibility (or copy) or the Letter of Confirmation issued by Ontario Creates
+
+- a completed [Schedule 556, Ontario Film and Television Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch556.html)
+
+If you file your return electronically, see information on [T2 Attach-a-doc](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html).
+
+If you file a paper return, send the return and required attachments to your [tax centre](https://www.canada.ca/en/revenue-agency/corporate/contact-information/tax-services-offices-tax-centres.html).
+
+On line 458 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the total amount of the credit you are claiming.
+
+The CRA will not begin to process the film tax credit claim until it receives all the required documents. A claim is considered to be complete when all of the above documents are filed with the CRA.
+
+**Reference** Section 91, Taxation Act, 2007 (Ontario)
+
+#### Ontario production services tax credit
+
+The Ontario production services tax credit is a refundable tax credit based on qualifying production expenditures incurred for eligible film or television productions by a qualifying corporation in a tax year. The corporation can be Canadian or foreign owned.
+
+The credit is equal to 21.5% of qualifying production expenditures incurred, including qualifying labour expenditures as well as the purchase or rental of qualifying tangible properties, such as equipment and studio rentals.
+
+The qualifying production expenditures include the sum of:
+
+- eligible wage expenditures
+
+- eligible service contract expenditures
+
+- eligible tangible property expenditures
+
+- reimbursements to the parent company of eligible wage and service contract expenditures
+
+**less**
+
+- assistance reasonably related to these expenditures (some exceptions apply—see next and [Schedule 558](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch558.html))
+
+The maximum eligible expenditures for leasing real property for on-location filming is 5% of the production's qualifying production expenditures, net of these location costs. Expenditures must be reasonable in the circumstances and paid to an arm's length party.
+
+Ontario labour expenditures (including labour under a service contract) must amount to at least 25% of the total qualifying production expenditures. Otherwise, the corporation's qualifying production expenditure limit for a tax year cannot be more than four times the Ontario labour expenditures (including labour under a service contract).
+
+Retroactive to June 4, 2015, eligible service contract expenditures included in determining a corporation's expenditure limit must relate to remuneration paid by the corporation, rather than to salary and wages paid to Ontario‑based individuals.
+
+Expenditures incurred through non arm's length contracts are limited to expenditures that would have been eligible if incurred directly by the corporation. Only expenditures incurred **after** the final script stage to the end of the post-production stage are eligible for the credit.
+
+To be eligible for the credit, a corporation must meet certain criteria, including all of the following:
+
+- be primarily engaged, in the tax year, in the carrying on of a film or video production business, or a film or video production services business, through a permanent establishment in Ontario
+
+- not be exempt from tax, for the tax year, under Part III of the Taxation Act, 2007 (Ontario) or Part I of the [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html)
+
+- not, at any time in the tax year, be controlled directly or indirectly, in any way, by one or more persons, all or part of whose taxable income was exempt from tax under Part I of the Income Tax Act
+
+- not be a prescribed labour-sponsored venture capital corporation at any time in the tax year
+
+You **cannot** claim the Ontario production services tax credit if you claim the Ontario film and television tax credit for that same production for any tax year.
+
+All productions must provide on-screen acknowledgement of Ontario tax credit support in their end credits if principal photography started after August 24, 2023.
+
+Productions that are distributed only online are eligible for the credit if principal photography started on or after November 1, 2022, and if they meet all applicable criteria.
+
+Before claiming the credit, you must apply **online** to Ontario Creates for a certificate of eligibility. If the production is eligible, Ontario Creates will issue a certificate indicating the estimated amount of the tax credit.
+
+To claim the credit, file the following with your return for the year for **each** eligible production:
+
+- a certificate of eligibility (or copy) issued by Ontario Creates
+
+- a completed [Schedule 558, Ontario Production Services Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch558.html)
+
+If you file your return electronically, see information on [T2 Attach-a-doc](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html).
+
+If you file a paper return, send the return and required attachments to your [tax centre](https://www.canada.ca/en/revenue-agency/corporate/contact-information/tax-services-offices-tax-centres.html).
+
+On line 460 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the total amount of the credit you are claiming.
+
+The CRA will not begin to process the film tax credit claim until it receives all the required documents. A claim is considered to be complete when all of the above documents are filed with the CRA.
+
+**Reference** Section 92, Taxation Act, 2007 (Ontario)
+
+#### Ontario interactive digital media tax credit
+
+As a COVID-19 measure, for products that were not completed before March 15, 2020, and for which eligible labour expenditures were incurred in the 2020 tax year, Ontario has temporarily extended the 37-month period during which eligible labour expenditures must be incurred by an additional 24 months.
+
+The Ontario interactive digital media tax credit is a refundable tax credit based on qualifying expenditures incurred for eligible products and eligible digital games by a qualifying corporation during a tax year.
+
+This credit focuses on entertainment products and educational products for children under 12. Certain products, such as search engines, real estate databases, or news and public affairs products are excluded. These do not apply to large digital game corporations (qualifying digital game corporations and specialized digital game corporations).
+
+Film and television websites that are bought or licensed by a broadcaster and embedded in the broadcaster's website are eligible for the Ontario interactive digital media tax credit.
+
+The following conditions apply:
+
+- 80% of total labour costs for eligible products have to be attributable to qualifying wages and qualifying remuneration paid to**individuals**or to **corporations that carry on a personal services business**
+
+- 25% of total labour costs for eligible products have to be attributable to qualifying wages of **employees** of the qualifying corporation
+
+The above-noted eligibility requirements do not apply to large digital game corporations.
+
+The credit applies to the following situations:
+
+- all qualifying corporations that develop and market their own eligible products (**non-specified**products) are eligible to claim a credit equal to 40% of expenditures. These expenditures include marketing and distribution expenditures paid within 60 days of the end of the tax year, for a maximum of $100,000 per eligible product for all tax years
+
+- qualifying corporations that develop eligible products under a fee-for-service arrangement (**specified**products) are eligible to claim a credit equal to 35% of expenditures
+
+- a 35% credit is available to both:
+
+    - qualifying digital game corporations that incur a minimum of $1 million of eligible Ontario labour expenditures over a 36-month period for **fee-for-service** work done in Ontario for an eligible digital game
+
+    - **specialized** digital game corporations that incur at least $500 000 ($1 million for tax years starting before April 12, 2019) of Ontario labour expenses each year in developing eligible digital games. A specialized digital game corporation generally would have at least 80% of Ontario payroll or 90% of annual gross revenues directly attributable to developing digital games
+
+For all eligible products, qualifying expenditures include Ontario salaries and wages incurred in a tax year that are directly attributable to the eligible product and paid within 60 days of the end of the tax year.
+
+Eligible expenditures include remuneration paid to individuals, other taxable Canadian corporations, and partnerships. If amounts are paid to individuals, other taxable Canadian corporations or partnerships for services rendered by its employees, the expenditures must not be more than the salaries and wages of those employees. Corporations that develop specified products may also claim these expenditures.
+
+Qualifying expenditures are reduced by any government assistance reasonably related to these expenditures (some exceptions apply—see [Schedule 560](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch560.html)).
+
+You cannot claim the Ontario interactive digital media tax credit if you claim the Ontario computer animation and special effects tax credit, the Ontario film and television tax credit or the Ontario production services tax credit for the same expenditure for any tax year.
+
+To be eligible for the credit, a corporation must meet certain criteria, including all of the following:
+
+- be a Canadian corporation
+
+- have completed development on or developed an eligible interactive digital media product at a permanent establishment in Ontario, as described in subsection 93(16) of the [Taxation Act, 2007 (Ontario)](https://www.ontario.ca/laws/statute/07t11)
+
+Eligible labour expenditures may include remote work done by employees, if the work is done in Ontario and the employee is an Ontario resident who reports to and is under the direction of an eligible tax credit applicant with a permanent establishment in Ontario.
+
+- not be exempt from tax under Part III of the Taxation Act, 2007 (Ontario) for the tax year
+
+- not be controlled directly or indirectly, in any way, at any time in the tax year, by one or more corporations, all or part of whose taxable income was exempt from tax under section 57 of the [Corporations Tax Act (Ontario)](https://www.ontario.ca/laws/statute/90c40) or Part III of the Taxation Act, 2007 (Ontario)
+
+- not be a prescribed labour-sponsored venture capital corporation at any time in the tax year
+
+In addition, a large digital game corporation must also meet the following criteria:
+
+- be a corporation that carries on through a permanent establishment in Ontario a business that includes developing digital games
+
+- not be a corporation the primary activity of which is to provide the services of a single individual and all the issued and outstanding shares of the capital stock of which are owned by that individual
+
+For more information see [Schedule 560, Ontario Interactive Digital Media Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch560.html).
+
+Before claiming the credit, you must apply **online** to Ontario Creates for a certificate of eligibility. If the product or digital game is eligible, Ontario Creates will issue a certificate indicating the estimated amount of the tax credit. Only **one** certificate of eligibility is issued for all of the eligible products or digital games for the tax year.
+
+You have to apply for this certificate within 18 months of the end of the tax year in which development of the eligible product was completed. Specialized digital game corporations are entitled to file an annual application, rather than having to apply separately for each product they complete.
+
+To claim the credit, file the following with your return for the year:
+
+- a certificate of eligibility (or copy) issued by Ontario Creates
+
+- a completed Schedule 560, Ontario Interactive Digital Media Tax Credit, for **each** eligible product or eligible digital game
+
+If you file your return electronically, see information on [T2 Attach-a-doc](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html).
+
+If you file a paper return, send the return and required attachments to your [tax centre](https://www.canada.ca/en/revenue-agency/corporate/contact-information/tax-services-offices-tax-centres.html).
+
+On line 462 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the total amount of the credit you are claiming.
+
+The CRA will not begin to process the media tax credit claim until it receives all the required documents. A claim is considered to be complete when all of the above documents are filed with the CRA.
+
+**Reference** Section 93, Taxation Act, 2007 (Ontario)
+
+#### Ontario book publishing tax credit
+
+The Ontario book publishing tax credit is a refundable tax credit of 30% on the qualifying expenditures incurred during a tax year for an eligible literary work, by an Ontario book publishing company, up to a maximum credit of $30,000 per work.
+
+Qualifying expenditures include the following expenditures the corporation incurred in publishing an eligible literary work:
+
+- pre-production costs
+
+- marketing expenditures incurred 12 months before to 12 months after the date the literary work is published
+
+- 50% of the production costs
+
+- 100% of expenditures incurred that reasonably relate to preparing a literary work for publishing in one or more digital or electronic formats
+
+- 50% of expenditures incurred that reasonably relate to transferring a prepared digital or electronic version of the literary work into or onto a form suitable for distribution
+
+The credit is available for any number of literary works by a Canadian author in an eligible category.
+
+Qualifying expenditures are reduced by any assistance reasonably related to these expenditures.
+
+To be eligible for the credit, a corporation must meet certain criteria, including all of the following:
+
+- be a Canadian-controlled corporation throughout the tax year, as determined under sections 26 to 28 of the [Investment Canada Act](http://laws-lois.justice.gc.ca/eng/acts/I-21.8/index.html)
+
+- carry on a book publishing business primarily through a permanent establishment in Ontario for the tax year
+
+- not be exempt from tax under Part III of the Taxation Act, 2007 (Ontario) for the tax year
+
+- not be controlled by the author of the literary work, or by a person not dealing at arm's length with the author
+
+Before claiming the credit, you must apply **online** to Ontario Creates for a certificate of eligibility. If the literary work is eligible, Ontario Creates will issue the certificate.
+
+To claim the credit, file the following with your return for the year for **each** literary work:
+
+- a certificate of eligibility (or copy) issued by Ontario Creates
+
+- a completed [Schedule 564, Ontario Book Publishing Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch564.html)
+
+If you file your return electronically, see information on [T2 Attach-a-doc](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html).
+
+If you file a paper return, send the return and required attachments to your [tax centre](https://www.canada.ca/en/revenue-agency/corporate/contact-information/tax-services-offices-tax-centres.html).
+
+On line 466 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the total amount of the credit you are claiming.
+
+The CRA will not begin to process the media tax credit claim until it receives all the required documents. A claim is considered to be complete when all of the above documents are filed with the CRA.
+
+**Reference** Section 95, Taxation Act, 2007 (Ontario)
+
+#### Ontario innovation tax credit
+
+You are eligible to claim an Ontario innovation tax credit if you meet all of the following conditions:
+
+- you had a permanent establishment in Ontario during the year
+
+- you have carried on scientific research and experimental development (SR&ED) in Ontario during the year
+
+- you are not exempt from tax under Part III of the Taxation Act, 2007 (Ontario)
+
+- you are eligible to claim a federal investment tax credit under section 127 of the federal [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html) for the corporation's qualified expenditures
+
+- you have filed [Form T661, Scientific Research and Experimental Development (SR&ED) Expenditures Claim](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t661.html), and [Schedule 31, Investment Tax Credit – Corporations](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch31.html), in the tax year
+
+The credit is an 8% refundable tax credit based on the sum of the corporation's qualified expenditures incurred in Ontario and any eligible repayments. Qualified expenditures include 100% of current expenditures.
+
+The credit is available to a maximum annual expenditure limit of $3 million. Associated corporations must share in the $3 million expenditure limit.
+
+The expenditure limit of $3 million begins to reduce when the federal taxable income of the corporation and its associated corporations for the previous tax year exceeds $500,000 and becomes nil at $800,000. The $3 million expenditure limit also begins to reduce when the specified capital amount of the corporation and its associated corporations for the previous tax year reaches $25 million and becomes nil at $50 million.
+
+**Expenditure limit**, **qualified expenditure**, and **eligible repayments** are defined in subsections 96(3.1), 96(8) and 96(12) of the [Taxation Act, 2007 (Ontario)](https://www.ontario.ca/laws/statute/07t11).
+
+You can waive the current year tax credit, in whole or in part, under subsection 96(14) of the Taxation Act, 2007 (Ontario).
+
+File a completed [Schedule 566, Ontario Innovation Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch566.html), with your return. See the schedule for more details.
+
+On line 468 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+**Reference** Section 96, Taxation Act, 2007 (Ontario)
+
+#### Ontario business-research institute tax credit
+
+You are eligible to claim an Ontario business-research institute tax credit if you meet all of the following conditions:
+
+- you carried on business in the tax year through a permanent establishment in Ontario
+
+- you incurred qualified expenditures under an eligible contract with an eligible research institute
+
+- you were not exempt from tax under Part III of the Taxation Act, 2007 (Ontario)
+
+This credit is a 20% refundable tax credit based on qualified expenditures for the tax year incurred in Ontario under an eligible contract with an eligible research institute.
+
+The annual qualified expenditure limit is $20 million. If a corporation is associated with other corporations at any time in a calendar year, the $20 million limit must be allocated among the associated corporations. The maximum tax credit that a qualifying corporation or an associated group of corporations can claim in a tax year is $4 million (20% of $20 million).
+
+Complete [Schedule 568, Ontario Business-Research Institute Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch568.html), to claim the credit and complete a [Schedule 569, Ontario Business-Research Institute Tax Credit Contract Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch569.html), for each eligible contract.
+
+When completing Schedule 569, to find the applicable eligible research institute code, go to [Eligible Research Institutes](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/provincial-territorial-corporation-tax/ontario-provincial-corporation-tax/ontario-business-research-institute-tax-credit.html).
+
+Keep a copy of each eligible contract to support your claim.
+
+On line 470 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+**Reference** Section 97, Taxation Act, 2007 (Ontario)
+
+#### Ontario regional opportunities investment tax credit
+
+A 10% refundable income tax credit applies to capital investments. A Canadian-controlled private corporation that invests in capital property that becomes available for use on or after March 25, 2020, in designated regions of Ontario, may be eligible for the tax credit. For a listing of designated regions, see [Which regions the credit supports](https://www.ontario.ca/document/regional-opportunities-investment-tax-credit#section-4).
+
+The credit rate was **temporarily doubled to 20%** from 10%. This applied to property that became available for use in the corporation's tax year, in the period beginning on March 24, 2021, and ending before January 1, 2024.
+
+Eligible property is capital property included in capital cost allowance class 1 or class 6, with some exceptions. Expenditures for these classes include costs for constructing, renovating, or acquiring eligible commercial and industrial buildings.
+
+If the property is a building, or an addition or alteration to a building, at least 90% of the floor space of the building is used at the end of the tax year for a non-residential use.
+
+The tax credit is available for expenditures of more than $50,000 and up to a limit of $500,000 in the tax year. In general, the qualifying region includes the north, the east (except the Ottawa region) and the south-west of Ontario.
+
+A qualifying corporation that is associated with one or more other corporations during a particular tax year may claim this credit if each of the other corporations has agreed in writing to waive, under subsection 97.1(7) of the Taxation Act, 2007 (Ontario), its right to claim this credit for any tax year of the other corporation that overlaps with the particular tax year.
+
+To claim the credit, file a completed [Schedule 570, Ontario Regional Opportunities Investment Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch570.html), with your return. By filing this schedule, you confirm that you have obtained waivers from all associated corporations. Do not file the waivers with the schedule, but keep them in case the CRA asks for them later. For more details, see the schedule.
+
+On line 472 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+**Reference**Section 97.1, Taxation Act, 2007 (Ontario)
+
+#### Ontario made manufacturing investment tax credit
+
+A 10% refundable corporation income tax credit applies to eligible investments made after March 22, 2023, of up to $20 million in a tax year made by qualifying corporations, for a maximum credit of $2 million a tax year.
+
+For eligible investments made after May 14, 2025, and before 2030, the Ontario made manufacturing investment tax credit rate is increased to 15%, for a maximum credit of $3 million a tax year.
+
+Qualifying corporations are Canadian-controlled private corporations that have a permanent establishment in Ontario.
+
+For eligible investments made after May 14, 2025, and before 2030, qualification is expanded to corporations other than Canadian-controlled private corporations that have a permanent establishment in Ontario. This credit is non-refundable and may be carried forward for up to 10 following tax years.
+
+The $20 million limit can be shared by an associated group of corporations and is prorated for short tax years.
+
+Eligible investments are capital expenditures for the construction, renovation, or acquisition of buildings included in capital cost allowance class 1 and, for property acquired before 2026, expenditures for machinery and equipment included in class 53. The buildings and machinery and equipment must be used for the manufacturing or processing of goods in Ontario.
+
+After 2025, eligible investments in machinery and equipment will be capital expenditures for assets included in paragraph (a) of class 43 that are used in the manufacturing or processing of goods for sale or lease.
+
+Machinery and equipment expenditures may be incurred in the tax year immediately preceding the year the property becomes available for use.
+
+A corporation may have to make a repayment if it claims the credit for a tax year ending after May 14, 2025, for eligible capital property and the property is, within the five following years:
+
+- disposed of
+
+- converted or changed to a non-manufacturing or processing use
+
+- removed from Ontario
+
+This applies to dispositions, conversions, or removals after May 14, 2025.
+
+To claim the credit, file a completed [Schedule 572, Ontario Made Manufacturing Investment Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch572.html), with your return. For more details, see the schedule.
+
+On [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html):
+
+- enter on line 474 the amount of the refundable credit you are claiming
+
+- enter on line 421, when available, the amount of the non-refundable credit you are claiming
+
+- enter on line 281 the amount of the repayment
+
+**Reference** Sections 53.3 and 97.2, Taxation Act, 2007 (Ontario)
+
+#### Ontario shortline railway investment tax credit
+
+Ontario introduced a 50% temporary refundable corporation income tax credit for certain capital and labour expenditures directly related to railway track maintenance, repair, or improvement in Ontario. The credit is limited to $8,500 per track mile in Ontario and is available for eligible expenditures incurred after May 14, 2025 and before 2030.
+
+A qualifying corporation must:
+
+- be a corporation that is:
+
+    - licensed provincially under the Shortline Railways Act (Ontario), or
+
+    - a class II or III rail carrier as defined under section 8 of the Transportation Information Regulations (Canada) made under the Canada Transportation Act that possesses a Railway Operating Certificate under the Railway Safety Act (Canada)
+
+- not be exempt from Ontario corporation income tax for the tax year
+
+- carry on business in Ontario in the tax year through a permanent establishment in Ontario
+
+##### Capital expenditures
+
+Eligible expenditures include capital investments in Ontario for certain railway-related capital property included in the following capital cost allowance classes:
+
+- class 1: expenditures for maintenance of railway track, and bridges, tunnels, and other structures ancillary to the railway
+
+- class 3: expenditures for shortline railway trestles
+
+- class 13: certain railway-related leasehold improvements or alterations to property other than a building
+
+##### Labour expenditures
+
+Eligible labour expenditures are expenditures which relate to payments made to Ontario-based individuals for maintenance, repair or improvement of railway track performed in Ontario by or on behalf of a qualifying corporation.
+
+Ontario-based individual means, in relation to an eligible labour expenditure, an individual who was resident in Ontario at the time that the maintenance, repair or improvement of railway track is performed.
+
+##### Certification
+
+A shortline railway corporation must obtain a Certificate of Eligibility from the Ontario Ministry of Transportation that certifies the following:
+
+- the corporation, throughout the tax year, is either:
+
+    - a shortline railway company licensed under the Shortline Railways Act, 1995, or
+
+    - a class II or class III rail carrier as defined under section 8 of the Transportation Information Regulations (Canada) made under the Canada Transportation Act which has been issued a Railway Operating Certificate in accordance with the Railway Safety Act (Canada)
+
+- the number of railway track miles in Ontario owned or leased by the corporation at the beginning of the tax year
+
+To claim the credit, enter the amount of the credit you are claiming on line 476, when available, of [Schedule 5](https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/formulaires/t2sch5.html).
+
+Also attach to your return for the year the certificate most recently issued for the year, or a certified copy of it. A new schedule will be available late 2026.
+
+**Reference** Section 97.3
+
+#### Ontario specialty types
+
+Any corporation carrying on business in Ontario through a permanent establishment must file [Schedule 524, Ontario Specialty Types](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch524.html), to identify its specialty type in one of the following situations:
+
+- the tax year is the first year after incorporation or an amalgamation
+
+- there is a change to the specialty type
+
+### Manitoba
+
+The higher **rate**of Manitoba income tax is 12%.
+
+Corporations may be eligible for a small business deduction to reduce all or part of the tax otherwise payable.
+
+The **lower** rate of Manitoba income tax for small business is 0%.
+
+The income eligible for the small business deduction rate is determined using the Manitoba business limit of $500,000.
+
+You can use [Schedule 383, Manitoba Corporation Tax Calculation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch383.html), to help you calculate your Manitoba tax before the application of credits. You do not have to file it with your return. See the schedule for more details.
+
+On line 230 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of tax calculated.
+
+#### Manitoba manufacturing investment tax credit
+
+You can earn this credit on the cost of qualified property. The credit will first be applied to reduce the Manitoba corporation income tax payable. Then you can claim a part of the credit you are entitled to claim in a tax year as a refundable credit.
+
+The non‑refundable part of the credit is 1% of the cost of qualified property. For property acquired before April 12, 2017, the rate is 2%.
+
+The refundable part of the credit is 7% of the cost of qualified property. For property acquired before July 1, 2019, the rate is 8%.
+
+Effective July 1, 2026, a part of the manufacturing investment tax credit will be converted into an immediate retail sales tax exemption at the time of purchase for certain machinery and equipment. This change will remove the 7% refundable part of the credit for the cost of machinery and equipment that will be exempt from retail sales tax. The 1% non-refundable part of the credit will be retained. Any manufacturing and processing assets that are not eligible for the retail sales tax exemption, including buildings, will still be eligible for the 7% refundable and 1% non‑refundable credit.
+
+| Date of acquisition | Refundable credit rate | Non-refundable credit rate | Total credit rate |
+
+| --- | --- | --- | --- |
+
+| After June 30, 2019 | 7% | 1% | 8% |
+
+| Before July 1, 2019, and after April 11, 2017 | 8% | 1% | 9% |
+
+| Before April 12, 2017 | 8% | 2% | 10% |
+
+Under subsection 7.2(7) of the [Manitoba Income Tax Act](https://web2.gov.mb.ca/laws/statutes/ccsm/i010e.php), you can renounce, in whole or in part, the manufacturing investment tax credit earned in the current tax year.
+
+Qualified property includes new and used buildings, machinery, and equipment made available for use in Manitoba primarily for manufacturing or processing goods for sale or lease.
+
+The **acquired** date for purposes of this credit is the date that the property became **available for use**.
+
+Certain green energy equipment is eligible for both the manufacturing investment tax credit and the [green energy equipment tax credit](#manitobagreen).
+
+You can carry back an unused non-refundable credit to the three previous tax years from the tax year in which you acquired the property. You can also carry it forward to the 10 tax years that follow the tax year in which you acquired the property.
+
+To claim the credit, file a completed [Schedule 381, Manitoba Manufacturing Investment Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch381.html) no later than 12 months after your income tax return is due for the tax year in which the expenditures were incurred. For more details, see the schedule.
+
+On line 605 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the non-refundable credit you are claiming. On line 621, enter the amount of the refundable credit you are claiming.
+
+#### Manitoba research and development tax credit
+
+You can claim this credit if you have a permanent establishment in Manitoba and you made eligible expenditures for research and development carried out in Manitoba.
+
+The amount of the credit is equal to 15% of eligible expenditures. Eligible expenditures include current expenditures and capital expenditures for depreciable property (other than a building or a leasehold interest in a building) and first term and second term shared-use-equipment.
+
+In addition to the corporation's eligible expenditures, a corporation may claim any repayments of government assistance that are related to eligible expenditures.
+
+The tax credit for research and development carried on in Manitoba under an eligible contract with a qualifying research institute is fully refundable. When eligible research and development is not undertaken under an eligible contract with an institute, 50% of the tax credit amount is refundable, the rest is non-refundable.
+
+Manitoba Finance posted on its website the list of [Educational Institutions Potentially Eligible for Participation in SR&ED Refundable Manitoba R&D Tax Credit Program](https://www.gov.mb.ca/finance/pubs/eligible_institutions.pdf).
+
+You can carry back an unused non-refundable credit to the 3 previous tax years from the tax year that you made the expenditure in. You can also carry it forward to the 20 tax years that follow the tax year in which you made the expenditure.
+
+You can renounce the research and development tax credit for an eligible expenditure incurred during the year, in whole or in part, under subsection 7.3(7) of the Income Tax Act (Manitoba).
+
+To claim the credit, file a completed [Schedule 380, Manitoba Research and Development Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch380.html), with your return. You must identify the eligible expenditures no later than 12 months after your income tax return is due for the tax year in which the expenditures were incurred. For more details, see the schedule.
+
+On line 606 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the non-refundable credit you are claiming. On line 613 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the refundable credit.
+
+#### Manitoba paid work experience tax credit
+
+The Manitoba paid work experience tax credit includes the following:
+
+- youth work experience hiring incentive (25%, lifetime maximum $5,000)
+
+- co-op student hiring incentive (15%, lifetime maximum $5,000)
+
+- co-op graduate hiring incentive (15%, maximum $2,500)
+
+- apprentice hiring incentive (15%, 20% for rural or northern early level, 25% for high school, maximum $5,000)
+
+- journeyperson hiring incentive (15%, maximum $5,000)
+
+Employers self-assess salary and wages for qualifying employees based on the fiscal year, as long as the employee is progressing through their co-op or apprenticeship program.
+
+The credit is fully refundable, but it must first be applied against total taxes payable.
+
+To claim the credit, file a completed [Schedule 384, Manitoba Paid Work Experience Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch384.html), with your return. For more details, see the schedule.
+
+On line 622 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html) enter the amount of the credit you are claiming.
+
+A corporation that is exempt under section 149 of the federal [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html) is also eligible to claim this credit, except Crown corporations and other provincial government entities. Along with Schedule 384, the exempt corporation will also have to complete [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html) and file a T2 return.
+
+##### Youth work experience hiring incentive
+
+You can claim this credit if you have been approved by the province to provide paid work experience to an individual who has completed an approved high school course or training program.
+
+The credit is equal to 25% of the eligible salary and wages paid to a qualifying youth, less government assistance, up to a lifetime maximum of $5,000 per youth.
+
+The eligible employment period of the youth must be completed by the end of the calendar year following the academic year that the youth completed the approved course.
+
+##### Co-op student hiring incentive
+
+You can claim this credit if you are an employer who provides a work placement for a student enrolled in a qualifying post-secondary co-operative education program.
+
+The credit for each qualifying work placement is 15% of the salary and wages paid to the student for work performed mainly in Manitoba, less government assistance, to a lifetime maximum of $5,000 per student.
+
+The credit will be nil if the student under the work placement has had five previous qualifying work placements.
+
+##### Co-op graduate hiring incentive
+
+You can claim this credit if you are an employer that has hired co-op graduates in full-time employment in Manitoba. The students must have graduated from a recognized post-secondary co-operative education program in a field related to the employment.
+
+The credit is equal to 15% of the net salary and wages paid to the graduate, less government assistance, in each of the first two full years of employment, to a maximum of $2,500 for each year, where the employment starts within 18 months of graduation.
+
+##### Apprentice hiring incentive
+
+You can claim this credit if you are an employer who hires high-school and post-secondary apprentices in Manitoba.
+
+The maximum amount of the credit is $5,000 per apprentice per year. Depending on your situation, the rate of salary and wages is:
+
+- 15%, if you do not qualify for any other situation
+
+- 20% for employers of apprentices who normally reside outside of Winnipeg and whose work is performed outside of Winnipeg
+
+- 25% for employers of high school apprentices
+
+This component of the credit also covers employers eligible for the federal apprenticeship job creation tax credit, who will receive a top-up that is equal to the difference between this provincial credit and the federal credit.
+
+##### Journeyperson hiring incentive
+
+You can claim this credit if you are an employer that has hired recent graduates of apprenticeship programs in full-time employment in Manitoba. The journeyperson must have received their certificate of qualification in Canada in a field related to the employment.
+
+The credit is equal to 15% of salary and wages paid to the journeyperson, less government assistance, in each of the first two full years of employment, up to a maximum of $5,000 for each year, where the employment starts within 18 months of certification.
+
+Employment periods must be continuous and consecutive, but an employment period may be interrupted by a seasonal layoff of not more than three months.
+
+#### Manitoba odour-control tax credit
+
+You can no longer earn this credit, as it was eliminated for expenditures made after April 11, 2017. You can only carry forward the non-refundable, unused, unexpired credit for 10 tax years.
+
+To claim the carryforward, file a completed [Schedule 385, Manitoba Odour – Control Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch385.html), with your return. For more details, see the schedule.
+
+On line 607 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the non‑refundable, unused, and unexpired credit carried forward from previous years and applied to reduce tax payable in the current year.
+
+#### Manitoba small business venture capital tax credit
+
+You can claim this non-refundable tax credit if you are an eligible investor and you meet both of the following conditions:
+
+- you are a corporation that is not a prescribed venture capital corporation or labour-sponsoredventure capital corporation under Part LXVII of the federal regulations
+
+- you made a direct investment of at least $10,000 in shares the Province has approved as an **eligible investment** in an **eligible small business corporation**, as defined in the regulations. Before March 12, 2018, the minimum amount was $20,000
+
+The credit is now permanent.
+
+An eligible small business corporation and its affiliates can have a maximum of 100 full‑time equivalent employees for the immediately preceding calendar year or a maximum of $15 million in annual sales for the most recently completed fiscal period.
+
+Eligible small businesses include ventures of commercial crop production in a climate-controlled environment and brew pubs.
+
+The credit is equal to 45% of the amount invested up to a lifetime maximum investment of $500,000. The maximum amount of the tax credit you can earn in a year is $225,000. However, the maximum amount of the tax credit you can **apply** against provincial tax in the year is $120,000, including any amounts carried back or carried forward.
+
+|  | Credit rate | Annual and lifetime investment limit | Yearly maximum earned | Yearly maximum applicable |
+
+| --- | --- | --- | --- | --- |
+
+| Shares issued after April 6, 2021 | 45% | $500,000 | $225,000 | $120,000 |
+
+| Shares issued after June 11, 2014, and before April 7, 2021 | 45% | $450,000 | $202,500 | $67,500 |
+
+| Shares issued before June 12, 2014 | 30% | $450,000 | $135,000 | $45,000 |
+
+For eligible shares issued before April 7, 2021, the credit is equal to 45% of the amount invested up to a lifetime and annual maximum investment of $450,000. The yearly maximum **applicable** is $67,500. For eligible shares issued before June 12, 2014, the rate was 30% and the lifetime and annual maximum investment was $450,000. The yearly maximum **applicable** was $45,000.
+
+This credit must be claimed against Manitoba tax otherwise payable. You can carry forward unused credits to the 10 following tax years or back to the threeprevious tax years.
+
+The Province of Manitoba will issue a tax credit receipt for qualifying investments. If you file your T2 return electronically, keep your receipt in case the CRA asks for it later. Otherwise, file it with your paper T2 return.
+
+To claim the credit, file a completed [Schedule 387, Manitoba Small Business Venture Capital Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch387.html). See the schedule for more details.
+
+On line 608 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+#### Manitoba cooperative development tax credit
+
+You can no longer earn this credit, as it was eliminated for contributions made after April 11, 2017. You can only carry forward the non-refundable, unused, unexpired credit for 10 tax years.
+
+To claim the carryforward, file a completed [Schedule 390, Manitoba Cooperative Development Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch390.html), with your return.
+
+On line 609 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the non-refundable, unused, and unexpired credit carried forward from previous years and applied to reduce tax payable in the current year.
+
+#### Manitoba cultural industries printing tax credit
+
+This refundable tax credit for Manitoba printers is based on the eligible printing costs incurred and paid before 2025 in producing eligible books.
+
+The Manitoba cultural industries printing tax credit, which was set to end December 31, 2024, has been made permanent. This is deemed to have come into force retroactively on January 1, 2025.
+
+The annual maximum tax credit is $1.1 million per corporation. If two or more eligible printers are related to or associated with each other, the $1.1 million maximum is shared.
+
+The credit is calculated as
+
+tax credit = 35% x L x (R1/R2)
+
+where:
+
+L is the total of the amounts paid by the printer in the tax year as salary or wages to its employees who were resident in Manitoba on December 31 of that tax year for their employment in the printer's book printing division
+
+R1 is the printer's eligible printing revenue for the tax year
+
+R2 is the total book printing revenue, other than revenue from the printing of yearbooks, earned by the printer in the tax year
+
+You can claim this credit if you are engaged in the business of printing books in Manitoba and have a permanent establishment in Manitoba.
+
+All of the following conditions apply:
+
+- the maximum revenue is capped at $200,000 per book title
+
+- at least 90% of the book must be new material that has not already been published
+
+- if the book contains pictures and is not a children's book, at least 65% must be text
+
+- the printer must demonstrate that the book is for sale through an established distributor
+
+An eligible book is a non-periodical Canadian-authored publication. It is classified as fiction, non-fiction, poetry, drama, biography, or children's.
+
+On line 611 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+#### Manitoba interactive digital media tax credit
+
+This permanent refundable tax credit is available to a corporation that incurs qualified labour expenditures, as well as some marketing and distribution expenses, towards the Manitoba based development of eligible interactive digital media products for market.
+
+Effective April 1, 2023, the eligible expenditures were expanded to allow for more flexible forms of employee compensation and incentives as eligible labour expenditures for this tax credit. However, these do not include labour expenditures such as bonuses tied to profits or revenues, stock options or signing bonuses, which are still not eligible.
+
+To claim this credit, a corporation must first apply to Manitoba Economic Development, Investment, Trade, and Natural Resources for a certificate of eligibility. This certificate gives the corporation a preliminary indication as to whether the project will be eligible for the credit and an estimate of the final tax credit amount. The corporation must receive a certificate of eligibility before it can incur eligible expenses.
+
+The corporation must then apply for a tax credit certificate, which is used to claim a tax credit with the CRA. The corporation can apply for this certificate at:
+
+- the end of every corporate tax year
+
+- the end of the project
+
+However, if the corporation applies at the end of the project, only the expenses incurred in the current tax year, or the two years immediately preceding the current year, are eligible for a tax credit.
+
+Expenses for eligible projects are to be claimed in the tax year in which they were incurred. Some qualified corporations, in certain circumstances, will be exempt from having to apply for a certificate of eligibility (pre-approval) before project work starts.
+
+An eligible corporation must be a taxable Canadian corporation with a permanent establishment in Manitoba.
+
+The credit is equal to:
+
+- 40% of eligible expenditures, if the corporation pays at least 25% of its total salary and wages to employees who are residents of Manitoba during the year the corporation incurred the eligible project expenses
+
+- 35% of eligible expenditures, if the corporation pays less than 25% of its total salary and wages to Manitoba residents and it incurs at least $1 million in qualifying Manitoba labour expenses during the tax year related to its eligible projects, and provided that these expenses are not already supported by another form of government assistance
+
+Companies may claim up to $100,000 in eligible marketing and distribution expenses directly attributable to a project that meets the requirements to claim marketing and distribution costs.
+
+The eligible activities for this tax credit also include add-on digital media and content that is developed or provided mainly for commercial use and that complements the main product being developed, such as:
+
+- downloadable content
+
+- on going maintenance and updates
+
+- data management and analysis
+
+When a government or public authority purchases an interactive digital media product, the amount paid by the purchaser and the amount of the interactive digital media tax credit cannot be more than 100% of the project's costs.
+
+Repaid or repayable government assistance and repayable or recoupable Canada Media Fund support do not reduce eligible labour costs.
+
+To claim the credit, file the tax credit certificate with your return. The requirement that a corporation claim the credit on or before its filing due date for the tax year is eliminated.
+
+On line 614 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+#### Manitoba book publishing tax credit
+
+You can claim this credit if you meet all of the following conditions:
+
+- are engaged mainly in the business of publishing books or you operate a book publishing business as a university press
+
+- have a permanent establishment in Manitoba
+
+- pay at least 25% of the wages and salaries to employees who are Manitoba residents
+
+- have published at least two eligible books within the two-year period ending at the end of the tax year
+
+An eligible book is a first edition, non-periodical Canadian authored publication. It is classified as fiction, non-fiction, poetry, drama, biography, or children's.
+
+The credit is equal to 40% of eligible Manitoba labour costs, including non-refundable monetary advances made in the tax year to authors of eligible books, to a maximum of $100,000 per year.
+
+The credit also includes non-refundable monetary advances and labour costs related to publishing an **electronic version** of an eligible literary work.
+
+An additional bonus of 15% on Manitoba printing costs can be claimed if the book is printed on paper with a minimum of **30% recycled content**. For this bonus, eligible printing costs must be incurred and paid in the year of publication or the immediately following calendar year.
+
+The credit is fully refundable. It is now permanent.
+
+To claim the credit, file a completed [Schedule 389, Manitoba Book Publishing Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch389.html), no later than 18 months after the end of the tax year for which you are claiming the credit.
+
+On line 615 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+#### Manitoba green energy equipment tax credit
+
+The Manitoba green energy equipment tax credit is now permanent.
+
+- Manufacturer's tax credit
+
+    - geothermal heat pump systems (7.5% of 125%)
+
+    - green energy transmission equipment (8% of 125%)
+
+- Purchaser's tax credit
+
+    - geothermal heat pump systems
+
+          - energy equipment excluding geothermal heat pumps (15%) if the installer is certified by the Manitoba Geothermal Energy Alliance, Inc.
+
+          - heat pump (7.5%)
+
+    - solar heating (10%)
+
+    - gasification equipment (15%)
+
+    - energy co-generation equipment from biomass (15%)
+
+##### Manufacturer's tax credit
+
+You can claim this credit if you manufacture and sell **geothermal heat pumps** for use in Manitoba.
+
+Manufacturers can claim a 7.5% tax credit on the adjusted cost of **geothermal heat pump systems** that meet the standards set by the Canadian Standards Association.
+
+Adjusted cost means an amount equal to 125% of the manufacturer's cost of manufacturing the heat pump.
+
+Manufacturers can also claim an 8% tax credit on the adjusted cost of **green energy transmission**equipment sold.
+
+The [Manitoba manufacturing investment tax credit](#mb_manufacturing2)includes a credit for green energy transmission equipment.
+
+This credit is refundable, but must first be applied against total taxes payable.
+
+On line 619 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit earned in the year.
+
+##### Purchaser's tax credit
+
+You can also claim this credit if you buy qualifying property that is used to produce energy in Manitoba from a renewable resource. The rate varies with different classes of property and is prescribed by legislation.
+
+Purchasers can claim a credit on **geothermal heat pump** systems that meet the standards set by the Canadian Standards Association. The tax credit equals the total of:
+
+- 15% of the capital cost of geothermal energy equipment, excluding the cost of the heat pump
+
+- 7.5% of the purchase price of a heat pump that qualifies for the manufacturer's geothermal energy equipment tax credit
+
+Purchasers who install new specified **solar heating** equipment in Manitoba qualify for a refundable 10% credit on the eligible capital costs (including taxes and costs related to acquiring and making the system operational). The equipment does not include equipment used to heat water for use in a swimming pool or equipment that distributes heated air or water in a building.
+
+The purchaser's credit also includes **gasification** equipment and certain equipment used for **co-generation of energy from biomass**that are installed in Manitoba and used in a business. The tax credit rate is 15%.
+
+This credit is refundable, but must first be applied against total taxes payable.
+
+On line 619 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit earned in the year.
+
+#### Manitoba film and video production tax credit
+
+Manitoba Film and Music reviews all tax credit applications and will issue a tax credit certificate to a corporation that produces an eligible film in the province.
+
+The credit is based on labour costs or production costs.
+
+##### Credit based on labour costs
+
+The credit is equal to 45% (65% with bonuses) of eligible salaries paid for work performed on an eligible film.
+
+The percentage of eligible salaries paid to non-residents for work performed in Manitoba is 30% of eligible salaries paid to Manitobans when there are two Manitoba trainees for each eligible non-resident in the film production technical crew. However, it is 10% of eligible salaries paid to Manitobans when there is only one Manitoba trainee for each eligible non resident.
+
+The following bonuses are available:
+
+- a 10% **frequent filming** bonus on the third eligible film, for corporations that produce three eligible films in two years. This also applies to serial productions
+
+- a 5% **rural filming** bonus on eligible salaries paid for work performed in Manitoba on productions where at least 50% of filming days take place at least 35 kilometres outside of Winnipeg
+
+- a 5% **Manitoba producer** bonus on eligible salaries where a Manitoba resident receives credit as a producer on an eligible film
+
+##### Credit based on production costs
+
+Instead of claiming the credit based on labour costs only, corporations may elect to claim a 30% tax credit based on production costs incurred for labour, goods, and services provided in Manitoba that are directly attributable to the production of an eligible film.
+
+A Manitoba production company bonus of 8% is added to the 30% cost-of-production credit, increasing the total cost-of-production credit to 38%. The production company must own, otherwise than by way of security, voting shares of the corporation and receive credit as a producer, co-producer, or executive producer of the film.
+
+The cost of production credit also includes eligible accommodation expenditures of up to $300 (including tax) per night for a residence or a hotel room in Manitoba.
+
+This credit is fully refundable, but must first be applied against total taxes payable.
+
+To claim the credit, for each eligible film, file the following with your return for the tax year:
+
+- a Certificate of Completion (if the production was completed in the tax year), or an Advance Certificate of Eligibility (if the production was not completed in the tax year), issued by Manitoba Film and Music
+
+Film producers are able to get advance credits before the completion of a film if they submit the proper documents.
+
+- a completed copy of [Schedule 388, Manitoba Film and Video Production Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch388.html)
+
+- all the additional documents listed on the last page of Schedule 388
+
+If you file your return electronically, see information on [T2 Attach-a-doc](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html).
+
+If you file a paper return, send the return and required attachments to your [tax centre](https://www.canada.ca/en/revenue-agency/corporate/contact-information/tax-services-offices-tax-centres.html).
+
+Corporations may file [Form T2029, Waiver in Respect of the Normal Reassessment Period or Extended Reassessment Period](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2029.html), to extend the application for a Certificate of Completion with the Manitoba certifying authority by 18 months.
+
+On line 620 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit earned in the current year.
+
+#### Manitoba rental housing construction tax credit
+
+A new credit regarding rental housing construction has been introduced, the [Manitoba rental housing construction incentive tax credit](#mb_rental_inc).
+
+This tax credit is equal to 8% of the capital cost of an eligible rental housing project.
+
+Projects in which the application is submitted before March 13, 2018, must be made available for use before 2020. For applications submitted after March 12, 2018, and before 2019, the project must be made available for use before 2021. Applications are no longer accepted after 2018.
+
+Eligible projects means the construction or conversion from a non residential use, of a building, group of buildings, or portion of a building, with at least five or more new residential rental units, and with at least 10% of the units qualifying as affordable rental housing units. The maximum credit is set at $12,000 per eligible rental unit.
+
+Eligible landlords can operate as a for-profit or not-for-profit corporation, but must be residents of Manitoba or have a permanent establishment in Manitoba.
+
+Eligible not-for-profit projects received a fully refundable tax credit in the year in which they earned the tax credit, as the project became available for use. You can no longer claim the refundable credit. The tax credit on for-profit projects is claimable over a maximum of five years, and is non-refundable.
+
+To claim the credit, file a completed [Schedule 394, Manitoba Rental Housing Construction Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch394.html), with your return. You do not have to file the certificate with your return. However, keep it in case the CRA asks for it later. Tax‑exempt corporations also have to file a return in order to claim this credit.
+
+On line 602 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the non-refundable, unused, and unexpired credit carried forward from previous years and applied to reduce tax payable in the current year.
+
+#### Manitoba community enterprise development tax credit
+
+Corporations with a permanent establishment in Manitoba that pay atleast 25% of their payroll to Manitoba residents are eligible to acquire tax-creditable shares when they invest in specific community enterprises or in community development investment pools in their communities. The issuer of the shares is responsible for issuing a T2CEDTC (MAN.) receipt to the corporation for that investment. The receipt contains a unique serial number provided by the Manitoba government.
+
+This refundable credit is equal to 45% of a maximum annual investment of $60,000. The credit is now permanent.
+
+If you file electronically, keep your receipt in case the CRA asks for it later. Otherwise, file your receipt with your paper return.
+
+On line 327 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the total amount of the credit you are claiming.
+
+#### Manitoba child care centre development tax credit
+
+This refundable income tax credit applies to the creation of licensed child care centres.
+
+Manitoba will issue a tax credit certificate to taxable private corporations that create new child care centres. The credit can reach $10,000 over five years per infant or preschool space created. The corporation must not be primarily engaged in child care services.
+
+On line 889 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the certificate number and on line 328, the amount of the credit you are claiming.
+
+### Manitoba rental housing construction incentive tax credit
+
+Effective for the 2024 tax year, a new refundable tax credit is introduced that will provide:
+
+- $8,500 for the construction of new market rate rental units
+
+- $13,500 for units classified and maintained as affordable units for a period of at least 10 years
+
+Construction must start on or after January 1, 2024.
+
+Non-profit entities can claim this tax credit in the year the eligible rental housing project becomes available for use. For-profit entities can claim $8,500 on all units in the year the eligible rental housing project becomes available for use, and an additional $5,000 over 10 years for affordable units.
+
+The minister appointed to administer the Manitoba Housing and Renewal Corporation Act may issue a tax credit certificate to a qualifying entity in relation to one or more eligible rental housing projects.
+
+To claim the credit, when available, file a completed **Schedule 395, Manitoba Rental Housing Construction Incentive Tax Credit**, with your return. You do not have to file the certificate with your return. However, keep it in case the CRA asks for it later.
+
+On line 887 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the certificate number and on line 329, the amount of the credit you are claiming.
+
+### Saskatchewan
+
+The **lower rate** of Saskatchewan income tax is 1%.
+
+Income eligible for this lower rate is determined using the Saskatchewan business limit of $600,000.
+
+The **higher rate** of income tax is 12%. This rate applies to all income not eligible for the lower rate.
+
+You can use [Schedule 411, Saskatchewan Corporation Tax Calculation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch411.html), to help you calculate your Saskatchewan tax before the application of credits. You do not have to file it with your return. See the schedule for more details.
+
+On line 235 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of tax calculated.
+
+#### Saskatchewan political contribution tax credit
+
+You can claim a tax credit on contributions made to qualifying political parties or election candidates.
+
+The annual maximum credit is **$650**and is calculated as follows:
+
+- 75% of the first $400 contributed
+
+**plus**
+
+- 50% of the next $350 contributed
+
+**plus**
+
+- 33 1/3% of the next $525 contributed
+
+You cannot carry forward unused amounts for future use.
+
+You do not have to file official receipts with your return. However, keep them in case the CRA asks for them later. The CRA can accept photocopies only if the issuer certifies them as true copies.
+
+On line 890 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the total amount of qualifying contributions, and on line 624, enter the amount of the credit you are claiming.
+
+#### Saskatchewan manufacturing and processing profits tax reduction
+
+You can claim this reduction if at any time in the tax year you had a permanent establishment in Saskatchewan, earned taxable income and had Canadian manufacturing and processing profits, in Saskatchewan.
+
+The profits from producing or processing electrical energy or steam for sale can be included with Canadian manufacturing and processing profits for this tax reduction.
+
+You must claim this reduction within three years of the filing due date of the return for the applicable tax year.
+
+You can reduce the Saskatchewan income tax rate on Canadian manufacturing and processing profits by up to 2%.
+
+You can calculate the reduction on [Schedule 404, Saskatchewan Manufacturing and Processing Profits Tax Reduction](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch404.html). Schedule 404 is a worksheet for your convenience. You do not have to file it with your return. For more details, see the schedule.
+
+On line 626 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of reduction you are claiming.
+
+#### Saskatchewan manufacturing and processing investment tax credit
+
+You can earn this credit on qualified property that is used in Saskatchewan mainly for manufacturing or processing goods for lease or sale.
+
+The credit is fully refundable and is equal to 6% of the capital cost of a qualified property.
+
+Corporations that are exempt under section 149 of the federal [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html) are not eligible for the credit.
+
+To claim the credit, file a completed [Schedule 402, Saskatchewan Manufacturing and Processing Investment Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch402.html), with your return. For more details, see the schedule.
+
+On line 644 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+#### Saskatchewan research and development tax credit
+
+You can claim this credit if you have a permanent establishment in Saskatchewan, and you made eligible expenditures for scientific research and experimental development carried out in Saskatchewan.
+
+The credit is equal to 10% of eligible expenditures.
+
+The credit is based on the sum of the corporation's eligible expenditures and on any repayments of government assistance that are related to eligible expenditures.
+
+Refundability varies with the period the expenditure is incurred. Any unused non‑refundable credit can be carried back 3 tax years and carried forward 10 taxyears from the tax year in which you earned the credit.
+
+You can renounce the non‑refundable research and development tax credit for an eligible expenditure incurred during the year, in whole or in part, under subsection 63.4(13) of the Saskatchewan Income Tax Act, 2000.
+
+The following apply for eligible expenditures incurred after March 31, 2017:
+
+- Canadian-controlled private corporations (CCPCs) are eligible for a **refundable** tax credit based on the tax year in which the expenditure is incurred, as follows:
+
+    - for tax years beginning after December 15, 2024, on the first $2 million of eligible expenditures
+
+    - for tax years beginning before December 16, 2024, on the first $1 million of eligible expenditures
+
+- eligible expenditures that are more than the annual limit above, and those incurred by non‑CCPCs, are eligible for a **non-refundable** credit
+
+- a yearly maximum **credit** of $1 million is set for refundable and non‑refundable tax credits
+
+To claim the credit, file a completed [Schedule 403, Saskatchewan Research and Development Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch403.html). See the schedule for more details.
+
+On line 631 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the non-refundable credit you are claiming. On line 645 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the refundable credit.
+
+#### Saskatchewan qualifying environmental trust tax credit
+
+A corporation that is a beneficiary of a qualifying environmental trust located in Saskatchewan can claim a 12% tax credit on income that is subject to tax under Part XII.4 of the federal [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html).
+
+The qualifying environmental trust will issue a letter to the corporation that is a beneficiary.
+
+This credit is fully refundable, but must first be applied against taxes payable.
+
+You do not have to file the letter with your return. However, keep it in case the CRA asks for it later.
+
+On line 641 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit earned.
+
+### British Columbia
+
+The **lower rate**of British Columbia income tax is 2%.
+
+Income eligible for the lower rate is determined using the British Columbia business limit of $500,000.
+
+The **higher rate**of British Columbia income tax is 12%. This rate applies to all income not eligible for the lower rate.
+
+You can use [Schedule 427, British Columbia Corporation Tax Calculation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch427.html), to help you calculate your British Columbia tax before the application of credits. You do not have to file it with your return. See the schedule for more details.
+
+On line 240 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of tax calculated.
+
+**References** Sections 14, 14.1, and 16, British Columbia Income Tax Act
+
+#### British Columbia credit union tax reduction
+
+The British Columbia credit union tax rules allow credit unions to use a lower tax rate than the income tax rate otherwise applicable. It is the same rate paid by small business corporations that claim the British Columbia small business deduction.
+
+To be eligible to claim the lower tax rate, the credit union must meet all of the following conditions:
+
+- have been a credit union throughout the tax year
+
+- have had a permanent establishment in British Columbia at any time in the tax year
+
+- have British Columbia taxable income in the year
+
+To claim the British Columbia credit union tax reduction, file [Schedule 17, Credit Union Deductions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch17.html), with your return.
+
+#### British Columbia logging tax credit
+
+Corporations that have paid **logging tax** to British Columbia on income they earned from logging operations for the year can claim a British Columbia logging tax credit. This non-refundable credit is equal to one-third of the logging tax payable and paid as indicated on provincial [forms FIN 542S, Logging Tax Return of Income](https://www2.gov.bc.ca/gov/content/taxes/natural-resource-taxes/forestry/logging-tax/file-pay/logging-tax-return), or [FIN 542P, Logging Tax Return of Income for Processors](https://www2.gov.bc.ca/gov/content/taxes/natural-resource-taxes/forestry/logging-tax/file-pay/processor-tax-return).
+
+On line 651 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+**Reference** Section 19.1, British Columbia Income Tax Act
+
+#### British Columbia farmers' food donation tax credit
+
+Corporations in the business of farming can claim this credit if they donate qualifying agricultural products they produce in British Columbia to a registered charity that provides food to those in need or helps to operate a school meal program.
+
+The non‑refundable tax credit is equal to 25% of the eligible amount of the qualifying agricultural product for gifts made before January 1, 2027.
+
+You must claim the credit in the same year that you claim the deduction for charitable gifts under section 110.1 of the federal Income Tax Act for the donation. The carry-forward period is five years.
+
+To claim the credit, file a completed [Schedule 2, Charitable Donations and Gifts](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch2.html), with your return. For more details, see the schedule.
+
+On line 683 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+**Reference** Section 20.1, British Columbia Income Tax Act
+
+#### British Columbia small business venture capital tax credit
+
+Corporations investing in shares of a registered venture capital corporation or eligible business corporation can claim a British Columbia venture capital tax credit. The British Columbia government issues a certificate called Form SBVC 10 to these corporations.
+
+Eligible business corporations participating in the small business venture capital program are allowed to claim the [British Columbia interactive digital media tax credit](#bc_idmtc).
+
+As of March 2, 2019, a convertible right investment in an eligible business corporation is eligible for a tax credit. A tax credit certificate is issued when the investment is made, not when the convertible right converts to shares.
+
+Apply the venture capital tax credit first to reduce the British Columbia provincial tax payable for the year to zero. If unclaimed credits remain, you can carry them forward for up to four tax years to reduce the British Columbia tax payable.
+
+You do not have to file the certificate with your return. However, keep it in case the CRA asks for it later.
+
+On [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), line 880, enter the unclaimed tax credit, if any, at the end of the previous tax year. On line 881, enter the tax credit amount available in the current year as reported on Form SBVC 10. On line 882, enter the 9-digit certificate number from Form SBVC 10. On line 883, enter the amount of the credit transferred on an amalgamation. On line 656, enter the tax credit amount you are claiming.
+
+**Reference** Section 21, British Columbia Income Tax Act
+
+#### British Columbia scientific research and experimental development tax credit
+
+A qualifying corporation with a permanent establishment in British Columbia can claim this credit on expenditures incurred in the tax year before September 1, 2027, for scientific research and experimental development (SR&ED) carried on in British Columbia.
+
+An active member of a partnership can also claim its share of the partnership's non-refundable tax credit for SR&ED carried on in British Columbia. Only partners that are qualifying corporations can claim the credit.
+
+To claim the credit, file a completed [Form T666, British Columbia (BC) Scientific Research and Experimental Development Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t666.html), with your return. You must file this form no later than 18 months after the end of the tax year in which the qualified expenditures are incurred (even if you do not claim the credit for that year). For more details, see [Form T666](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t666.html).
+
+**Reference** Part 6, British Columbia Income Tax Act
+
+#### British Columbia SR&ED refundable tax credit
+
+A qualifying corporation that is a Canadian-controlled private corporation (CCPC) may claim the refundable tax credit.
+
+The amount of the credit is equal to 10% of whichever of the following amounts is less:
+
+- the SR&ED qualified BC expenditure for the tax year
+
+- the expenditure limit for the tax year
+
+On line 674 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the refundable credit you are claiming.
+
+**Reference** Section 98, British Columbia Income Tax Act
+
+#### British Columbia SR&ED non-refundable tax credit
+
+Qualifying CCPCs with SR&ED qualified expenditures that are more than their expenditure limit, and qualifying corporations that are not CCPCs,may claim a non-refundable tax credit.
+
+The annual non-refundable tax credit is 10% of the SR&ED qualified BC expenditure for that year less the total of:
+
+- the amount of refundable credit for that year
+
+- any amount renounced for that year under subsection 100(1) of the British Columbia Income Tax Act
+
+The credit may be deducted against the income tax payable for that year. You must claim the maximum tax credit available in the year it is earned. You can carry back an unused credit to the 3 previous tax years from the year the expenditures were incurred. You can also carry forward the unclaimed credit to the 10 tax years that follow the tax year in which the expenditures were incurred.
+
+On line 659 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the non-refundable credit you are claiming.
+
+**Reference** Section 99, British Columbia Income Tax Act
+
+#### Recapture of British Columbia SR&ED tax credit
+
+A corporation that disposed of a property used in SR&ED, or converted it to commercial use within 10 years of acquiring the property, may be required to report a recapture of any British Columbia SR&ED tax credit previously calculated on that property. Any recapture will create or increase British Columbia tax otherwise payable.
+
+To calculate the recapture, complete [Form T666](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t666.html) and attach it to your return. For more details, see Form T666.
+
+On line 241 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of recapture calculated.
+
+**Reference** Sections 102.1 to 102.6, British Columbia Income Tax Act
+
+#### British Columbia qualifying environmental trust tax credit
+
+A corporation that is a beneficiary of a qualifying environmental trust located in British Columbia can claim a tax credit on income that is subject to tax under Part XII.4 of the federal [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html).
+
+The credit will reduce the provincial tax otherwise payable for the tax year that includes the trust's tax year.
+
+This credit is fully refundable, but must first be applied against total taxes payable.
+
+On line 670 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit earned.
+
+**Reference** Section 25, British Columbia Income Tax Act
+
+#### British Columbia film and television tax credit
+
+The film and television tax credits are for domestic productions with qualifying levels of Canadian content. To claim these credits, an eligible production corporation must be a Canadian-controlled taxable corporation that has a permanent establishment in British Columbia and its activities must primarily be carrying on a film or video production business through a permanent establishment in Canada.
+
+The film and television tax credit **cannot** be claimed if the production services tax credit is claimed for that production.
+
+These credits are fully refundable but must first be applied against total taxes payable.
+
+These credits apply to BC labour expenditures. For determining BC labour expenditures, a BC-based individual is a person who is resident in the province on December 31 of the year preceding the end of the tax year for which the tax credit is claimed.
+
+An eligible production corporation can claim these different credits:
+
+- the basic tax credit (35%)
+
+For productions that start principal photography after December 31, 2024, this rate is 40%.
+
+- the scriptwriting tax credit (35%)
+
+- the regional tax credit (12.5%)
+
+- the distant location regional tax credit (6%)
+
+- the film training tax credit (30%—see other option below)
+
+- the digital animation, visual effects and post-production (DAVE) tax credit (16%)
+
+If you are not eligible for, or do not claim the basic tax credit, you cannot claim the scriptwriting, regional, distant location, film training, or the DAVE tax credits.
+
+To claim these credits, file the following with your return for the year by the filing deadline:
+
+- the eligibility certificate (or a copy) received from Creative BC. As of April 1, 2023, the CRA is no longer accepting an eligibility certificate alone for final-year claims. A completion certificate is required
+
+- if the production was completed in the tax year, the completion certificate (or a copy) and a copy of the audited statement of production costs and notes provided to Creative BC
+
+- a completed copy of [Form T1196, British Columbia Film and Television Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1196.html), for each eligible production
+
+You must file these documents with the CRAno later than 18 months after the end of the tax year.
+
+If you file your return electronically, see the information on [T2 Attach-a-doc](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html).
+
+If you file a paper return, send the return and required attachments to your [tax centre](https://www.canada.ca/en/revenue-agency/corporate/contact-information/tax-services-offices-tax-centres.html).
+
+On line 671 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount you are claiming.
+
+##### Basic tax credit
+
+The basic tax credit is equal to 35% of the qualified BC labour expenditure for the tax year for the production.
+
+The basic tax credit is increased to 40% for productions that begin principal photography after December 31, 2024.
+
+##### Scriptwriting tax credit
+
+The scriptwriting tax credit is equal to 35% of eligible scriptwriting expenditures directly attributable to developing script material for a production. This includes salary, wages, and other remuneration and reimbursements paid to scriptwriters who are BC-based individuals. The cost of buying a published or finished literary work, screenplay, script, or script material is not eligible.
+
+The expenses have to be incurred:
+
+- after February 20, 2018
+
+- no earlier than two years before the date principal photography starts
+
+- before the end of the final script stage
+
+These amounts have to be paid no later than 60 days after the end of the tax year in which principal photography started.
+
+##### Regional tax credit
+
+The regional tax credit is equal to one of the following amounts:
+
+- 12.5% of the qualified BC labour expenditure for the production for the tax year, where a minimum of **five days** and more than 50% of the total principal photography days in British Columbia are outside of the designated Vancouver area
+
+- for a production that is intended for television broadcast as a series and that comprises a cycle of at least three episodes, where principal photography of at least three episodes is done in British Columbia outside of the designated Vancouver area, the credit is 12.5% of the qualified BC labour expenditure for the tax year for the qualified episodes done in British Columbia, where a minimum of **five days**and more than 50% of the total principal photography days in British Columbia are outside of the designated Vancouver area
+
+The credit is prorated for the number of days of principal photography done in British Columbia outside the designated Vancouver area over the total number of **days** of principal photography done in British Columbia.
+
+Animated productions that began key animation after May 31, 2024, and before January 1, 2025, are not eligible for the regional tax credit. The credit is reinstated for animation productions that begin key animation after December 31, 2024, if the corporation has a physical office in BC:
+
+- outside the designated Vancouver area, and
+
+- where BC-based individuals spent at least 50% of their time rendering services
+
+For **animated productions that began key animation before June 1, 2024**, the regional tax credit is 12.5% of the qualified BC labour expenditure prorated by the BC labour expenditure incurred in BC outside the designated Vancouver area over the total BC labour expenditure for the animated production incurred in the tax year.
+
+If **key animation begins after December 31, 2024**, only include BC labour expenditure for the tax year for BC‑based individuals who spent at least 50% of their time rendering services in a physical office described above.
+
+##### Distant location regional tax credit
+
+The distant location regional tax credit can only be claimed if the corporation is eligible for, and claiming, the regional tax credit.
+
+The distant location regional tax credit is available when principal photography is done in British Columbia in a distant location. The distant location is that part of British Columbia that is **not**included within the area that extends from the designated Vancouver area north, up to and including Whistler, and east to include Hope.
+
+The distant location regional tax credit is equal to one of the following amounts:
+
+- 6% of the qualified BC labour expenditure for the production for the tax year, where a minimum of **one day**of principal photography is in a distant location
+
+- for a production that is intended for television broadcast as a series and that comprises a cycle of at least three episodes, where principal photography of at least three episodes is done in a distant location, the credit is 6% of the qualified BC labour expenditure for the tax year for the qualified episodes determined for the regional tax credit, where a minimum of **one day**of principal photography is in a distant location
+
+The credit is prorated for the number of days of principal photography done in a distant location, over the total number of days of principal photography done in British Columbia.
+
+Animated productions that began key animation after May 31, 2024, and before January 1, 2025, are not eligible for the distant location regional tax credit. The credit is reinstated for animation productions that begin key animation after December 31, 2024, if the corporation has a physical office in BC:
+
+- in a distant location, and
+
+- where BC-based individuals spent at least 50% of their time rendering services
+
+For **animated productions that began key animation before June 1, 2024**, the distant location regional tax credit is 6% of the qualified BC labour expenditure prorated by the BC labour expenditure incurred in a distant location over the total BC labour expenditure for the animated production incurred in the tax year.
+
+If **key animation begins after December 31, 2024**, include only BC labour expenditure for the tax year for BC‑based individuals who spent at least 50% of their time rendering services in a physical office described above
+
+##### Film training tax credit
+
+Thefilm training tax creditis equal to whichever is less:
+
+- 30% of the payments (net of assistance) made to the trainees in the tax year while they are participating in the approved training program on the production
+
+- 3% of the qualified BC labour expenditure for the production for the tax year
+
+##### Digital animation, visual effects and post-production (DAVE) tax credit
+
+The digital animation, visual effects and post-production tax creditis equal to 16% of BClabour expenditure directly attributable to prescribed digital animation or visual effects activities, including prescribed digital post-production activities.
+
+**Reference** Part 5, British Columbia Income Tax Act
+
+#### British Columbia production services tax credit
+
+The production services tax credits are available to both domestic and foreign producers and there is no Canadian content requirement. To claim these credits, the corporation must have a permanent establishment in British Columbia during the tax year, and throughout the tax year, must have primarily carried on a film or video production business or a film or video production services business.
+
+The production services tax credit **cannot**be claimed if the film and television tax credit is claimed for that production.
+
+These credits are fully refundable but must first be applied against total income tax payable.
+
+These credits apply to BC labour expenditures. A BC-based individual is a person who is resident in the province on December 31 of the year preceding the end of the tax year for which the tax credit is claimed.
+
+An accredited production corporation can claim these different credits:
+
+- the basic production services tax credit (28%)
+
+For productions that start principal photography after December 31, 2024, this rate is 36%.
+
+- the regional production services tax credit (6%)
+
+- the distant location production services tax credit (6%)
+
+- the digital animation, visual effects and post-production (DAVE) services tax credit (16%)
+
+- the major production tax credit (2%)
+
+If you are not eligible for, or do not claim the basic production services tax credit, you cannot claim the regional, distant location, DAVE production services tax credits, or the major production tax credit.
+
+For productions incurring their first accredited BC labour expenditure (ABCLE) on or after February 22, 2022, corporations must notify Creative BC of their intent to claim these credits within 120 days of first incurring an ABCLE for the production. Creative BC must receive this notice before issuing an accreditation certificate. You will be unable to claim ABCLE incurred before the date you filed the pre certification form if you miss the 120 day deadline. **Late notice could result in denied or reduced claims.**
+
+For productions incurring their first ABCLE between July 1, 2020, and February 21, 2022, corporations will be allowed to claim ABCLE incurred up to 120 days before filing the pre certification notice, regardless of how many days after the first incurred ABCLE the pre-certification notice was filed. However, you will be unable to claim ABCLE incurred more than 120 days before filing the pre certification form. This may reduce the production services tax credit available to you.
+
+To claim these credits, file the following with your return for the year by the filing deadline:
+
+- the accreditation certificate (or a copy) received from Creative BC
+
+- the major production certificate (or a copy) from Creative BC, if the major production tax credit is being claimed
+
+- a completed [Form T1197, British Columbia Production Services Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1197.html), for each accredited production
+
+You must file these documents with the CRA no later than 18 months after the end of the tax year. For tax years starting before February 19, 2020, the filing deadline is 36 months after the end of the tax year.
+
+If you file your return electronically, see information on [T2 Attach-a-doc](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html).
+
+If you file a paper return, send the return and required attachments to your [tax centre](https://www.canada.ca/en/revenue-agency/corporate/contact-information/tax-services-offices-tax-centres.html).
+
+On line 672 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of credit you are claiming.
+
+##### Basic production services tax credit
+
+The basic production services tax creditis equal to 28% of the corporation's accredited qualified BC labour expenditure for the tax year.
+
+The basic production services tax credit is increased to 36% for productions that begin principal photography after December 31, 2024.
+
+##### Regional production services tax credit
+
+The regional production services tax creditis equal to 6% of the accredited qualified BC labour expenditure for the production for the tax year, where a minimum of five days and more than 50% of the total principal photography days in British Columbia are done outside of the designated Vancouver area.
+
+The credit is prorated for the number of days of principal photography done in British Columbia outside the designated Vancouver area over the total number of days of principal photography done in British Columbia.
+
+Animated productions that began key animation after May 31, 2024, and before January 1, 2025, are not eligible for the regional production services tax credit. The credit is reinstated for animation productions that begin key animation after December 31, 2024, if the corporation has a physical office in BC:
+
+- outside the designated Vancouver area, and
+
+- where BC-based individuals spent at least 50% of their time rendering services
+
+For **animated productions that began key animation before June 1, 2024**, the regional production services tax credit is 6% of the accredited qualified BC labour expenditure, prorated by the accredited BC labour expenditure incurred in BC outside the designated Vancouver area over the total accredited BC labour expenditure for the animated production incurred in the tax year.
+
+If **key animation begins after December 31, 2024**, only include accredited BC labour expenditure for the tax year for BC‑based individuals who spent at least 50% of their time rendering services in a physical office described above.
+
+##### Distant location production services tax credit
+
+The distant location production services tax credit can only be claimed if the corporation is eligible for, and is claiming the regional production services tax credit.
+
+The distant location production services tax credit is available when principal photography is done in British Columbia in a distant location. The distant location is that part of British Columbia that is not included within the area that extends from the designated Vancouver area north, up to and including Whistler and east to include Hope.
+
+The distant location production services tax credit is equal to 6% of the accredited qualified BC labour expenditure for the production for the tax year, where a minimum of one day of principal photography is done in a distant location.
+
+The credit is prorated for the number of days of principal photography done in a distant location, over the total number of days of principal photography done in British Columbia.
+
+Animated productions that began key animation after May 31, 2024, and before January 1, 2025, are not eligible for the distant location production services tax credit. The credit is reinstated for animation productions that begin key animation after December 31, 2024, if the corporation has a physical office in BC:
+
+- in a distant location, and
+
+- where BC-based individuals spent at least 50% of their time rendering services
+
+For **animated productions that began key animation before June 1, 2024**, the distant location production services tax credit is 6% of the accredited qualified BC labour expenditure prorated by the accredited BC labour expenditure incurred in a distant location over the total accredited BC labour expenditure incurred for the animated production in the tax year.
+
+If **key animation begins after December 31, 2024**, include only accredited BC labour expenditure for the tax year for BC‑based individuals who spent at least 50% of their time rendering services in a physical office described above.
+
+##### Digital animation, visual effects and post-production (DAVE) services tax credit
+
+The digital animation, visual effects and post-production services tax credit is equal to 16% of accredited qualified BC labour expenditure that is directly attributable to prescribed digital animation or visual effects activities, including prescribed digital post-production activities.
+
+##### Major production tax credit
+
+A new major production tax credit was announced for completed productions with BC production costs greater than $200 million for a major production. The credit is equal to 2% of the production's accredited qualified BC labour expenditures and may be claimed once the production is completed. The credit is available for productions that begin principal photography after December 31, 2024.
+
+**Reference**
+
+Part 5, British Columbia Income Tax Act
+
+#### British Columbia mining exploration tax credit
+
+A corporation that has incurred qualified mining exploration expenses in British Columbia may qualify for the British Columbia mining exploration tax credit. The corporation must have maintained a permanent establishment in the province at any time in the tax year.
+
+The expenditures have to be incurred in the tax year for determining the existence, location, extent, or quality of a mineral resource in British Columbia.
+
+Since February 23, 2024, mining exploration expenses related to a bituminous sands deposit or oil shale deposit do not qualify for the British Columbia mining exploration tax credit.
+
+Qualified mining exploration expenses may include expenses incurred in the course of:
+
+- prospecting
+
+- carrying out geological, geophysical, or geochemical surveys
+
+- drilling
+
+- trenching
+
+- digging test pits
+
+- preliminary sampling
+
+Prospecting, drilling, trenching, digging test pits, and preliminary sampling expenses incurred before the mine comes into production in reasonable commercial quantities are qualified mining exploration expenses only to the extent the expenses exceed any revenues resulting from those expenses.
+
+Exploration expenses may also include expenses incurred for environmental studies or community consultations to get a right, licence, or privilege for determining the existence, location, extent or quality of a mineral resource in BC.
+
+Any flow-through mining expenditure renounced under the federal [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html) does not qualify for the credit.
+
+This credit also applies to partnerships. Taxpayers who are active members of a partnership, other than specified members (such as limited partners), can each claim their proportionate share of the partnership's tax credit. To claim your proportionate share of the partnership's tax credit, file a completed [Schedule T1249, British Columbia Mining Exploration Tax Credit Partnership Schedule](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1249.html), with your return. For more details, see the schedule.
+
+The credit is equal to 20% of the amount by which:
+
+- the total qualified mining exploration expenses incurred in the tax year
+
+**is more than**
+
+- the total assistance for amounts included in the total qualified mining exploration expenses for the tax year
+
+A corporation can claim an additional 10% of the total qualified mining exploration expenses incurred in prescribed mountain pine beetle affected areas. These expenses must be reduced by the total assistance attributable to them.
+
+The credit is fully refundable, but must first be applied against total taxes payable.
+
+To claim the credit, file a completed [Schedule 421, British Columbia Mining Exploration Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch421.html), with your return. You must claim this credit no later than 18 months after the end of the tax year.
+
+For more details, see the schedule. Members of a partnership must also file a completed Schedule T1249.
+
+On line 673 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of credit you are claiming.
+
+**Reference** Section 25.1, British Columbia Income Tax Act
+
+#### British Columbia book publishing tax credit
+
+You can claim this credit if you receive a base amount of Publishing Support contributions under the federal Canada Book Fund (CBF) before April 1, 2026.
+
+The recipient must be a Canadian-controlled corporation carrying on business mainly through a permanent establishment in British Columbia with book publishing as its principal business.
+
+You are eligible for a credit of 90% of the base amount of Publishing Support contributions received in the tax year. The credit is fully refundable, but must first be applied against total taxes payable.
+
+On line 886 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the base amount of Publishing Support contributions received in the tax year (excluding other supplementary amounts such as the export and recovery supplement). On line 665, enter the amount of the credit you are claiming. You must claim this credit no later than 18 months after the end of the tax year.
+
+**Reference** Part 8, British Columbia Income Tax Act
+
+#### British Columbia training tax credit
+
+You can claim a refundable tax credit if you are a taxable corporation with a permanent establishment in the province and you paid salary and wages before January 1, 2028, to an employee who was registered in a prescribed program administered through SkilledTradesBC.
+
+The province offers a credit to employers based on the salary and wages paid to an apprentice:
+
+- the **basic** tax credit for apprentices in the first 24 months of a non-Red Seal program (20%, maximum $4,000)
+
+- the **completion** tax credit when an apprentice completes level three or four of either a Red Seal program or a non-Red Seal program (15%, maximum $2,500 / $3,000)
+
+- the **enhanced**tax credit for apprentices who are individuals registered under the Indian Act or who qualify for the disability amount on their income tax and benefit return (all levels of both Red Seal and non-Red Seal programs) (5.5% maximum $1,000, 30% maximum $6,000, or 22.5% maximum $3,750 / $4,500)
+
+To complete a tax credit level, see the requirements in the table issued by the province, Training Tax Credits: Table of Eligible Programs and Completion Requirements for Employers.
+
+You cannot claim the British Columbia training tax credit if you claim the [British Columbia shipbuilding and ship repair industry tax credit](#BCship) in the tax year.
+
+You can claim **one or more** of the following three credits in the year for each qualified employee:
+
+- The**basic tax credit** is 20% of the salary and wages (net of designated assistance) you paid to an employee who was in the first 24 months of an eligible non-Red Seal apprenticeship program in the tax year. The maximum basic tax credit you can claim is $4,000, per employee, per year. This credit is not available to Red Seal programs and cannot be claimed if you are claiming the federal apprenticeship job creation tax credit for the same employee (see [Apprenticeship job creation tax credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html))
+
+- The **completion tax credit** is 15% of the salary and wages (net of designated assistance) you paid to an employee within the 12 month period ending on any day in the month that the employee completed level three or four of either an eligible Red Seal program or non-Red Seal program. The maximum completion tax credit you can claim is $2,500 per employee who has completed level three, and $3,000 per employee who has completed level four
+
+- The **enhanced tax credit** is available if you employ individuals registered under the Indian Act or qualify for the disability amount on their income tax return. Do not claim the basic tax credit or the completion tax credit if you are claiming the enhanced tax credit for that employee because these credits are included in the calculation of the enhanced tax credits. An employer claiming the enhanced tax credit for a qualifying employee should only complete Part 3 when filing [Schedule 428, British Columbia Training Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch428.html). The enhanced tax credits are as follows:
+
+    - **for the first 24 months of an eligible Red Seal program**, 5.5% of the salary and wages (net of designated assistance) you paid to an employee who was in the first 24 months of a Red Seal apprenticeship program in the tax year. The maximum tax credit you can claim is $1,000 per employee. You can claim this credit in addition to the federal apprenticeship job creation tax credit for the same employee
+
+    - **for the first 24 months of an eligible non-Red Seal program**, 30% of the salary and wages (net of designated assistance) you paid to an employee who was in the first 24 months of a non-Red Seal apprenticeship program in the tax year. The maximum tax credit you can claim is $6,000 per employee. This credit is not available to Red Seal programs and cannot be claimed if you are claiming the federal apprenticeship job creation tax credit for the same employee
+
+    - **for level three or four of an eligible Red Seal or non-Red Seal program**, 22.5% of the salary and wages (net of designated assistance) you paid to an employee within the 12-month period ending on any day in the month that the employee completed level three or four. The maximum tax credit you can claim is $3,750, per employee who has completed level three and $4,500, per employee who has completed level four
+
+For the completion and enhanced tax credits, the salary and wages can be dually applied to overlapping periods when more than one level is completed during the tax year.
+
+The employer's tax year runs from January 1 to December 31, 2025.
+
+An employee completes level three on January 31, 2025, and level four on June 30, 2025.
+
+In the tax year, the employer can claim the wages paid from February 1, 2024, to January 31, 2025, for the level three tax credit. In the same tax year, the employer can also claim the wages paid from July 1, 2024, to June 30, 2025, for the level four tax credit. The wages paid from July 1, 2024, to January 31, 2025, are used for both credits.
+
+You can also claim these credits for former qualified employees for the time they were employed by you during an eligible period, even though they were no longer working for you when they completed a specific level of the apprenticeship program.
+
+These credits extend to partnerships. Corporations who are members of a partnership, other than specified members (such as limited partners), can each claim their share of the partnership's tax credit.
+
+Special rules apply for multiple employers not dealing at arm's length who want to claim the training tax credit for the same employee. For more details, see section 125 of the [British Columbia Income Tax Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96215_01).
+
+To claim these credits, file a completed [Schedule 428, British Columbia Training Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch428.html), with your return. You must claim:
+
+- the basic tax credit and the enhanced basic tax credit no later than 36 months after the end of the tax year in which the eligible salaries and wages are paid
+
+- the completion tax credit and the enhanced completion tax credit no later than 36 months after the end of the tax year in which the employee completed the requirements for a tax credit level
+
+On line 679 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the total amount of the credits you are claiming.
+
+**References** Part 9, British Columbia Income Tax Act Training Tax Credits: Table of Eligible Programs and Completion Requirements for Employers
+
+#### British Columbia interactive digital media tax credit
+
+The interactive digital media tax credit is a refundable credit equal to 17.5% of BC eligible salary and wages (net of designated assistance) incurred before September 1, 2028.
+
+The British Columbia interactive digital media tax credit rate has increased from 17.5% to 25%, effective September 1, 2025. The credit, which was set to end August 31, 2028, has been made permanent.
+
+You cannot claim this credit if you claim the BC SR&ED tax credit for the year. Also, the corporation must meet all of the following conditions:
+
+- be registered with the BC Ministry of Finance for each tax year for which the tax credit is claimed
+
+- have a permanent establishment in British Columbia at any time during the tax year
+
+- be a taxable Canadian corporation throughout the tax year
+
+- either of the following applies:
+
+    - the corporation has eligible salary and wages for the tax year of $2,000,000 or more
+
+    - the corporation has eligible salary and wages for the tax year of more than $100,000 and less than $2,000,000, and either of the following applies:
+
+          - the corporation's principal business in the tax year is developing interactive digital media products
+
+          - all or substantially all of the corporation's business in the tax year is one or both of the following: developing interactive digital media products; or providing eligible activities to a corporation that has a permanent establishment in British Columbia and either has as its principal business the development of interactive digital media products or has eligible salary and wages equal to or greater than $2,000,000 for the tax year
+
+The $100,000 and $2,000,000 are prorated for short tax years.
+
+- interactive digital media corporations registered as eligible business corporations in the [small business venture capital program](#P4291_346643) are eligible to claim the credit
+
+- since September 1, 2024, products that enable gambling with currency do not qualify as interactive digital media products
+
+To claim the credit, file a completed [Schedule 429, British Columbia Interactive Digital Media Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch429.html), with your return.
+
+You must claim this credit no later than 18 months after the end of the tax year.
+
+On line 680 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+**Reference** Part 10, British Columbia Income Tax Act
+
+#### British Columbia shipbuilding and ship repair industry tax credit
+
+You can claim a refundable tax credit if you are an eligible employer in the British Columbia shipbuilding and ship repair industry and, before January 1, 2027, you paid salary and wages to an employee who was registered in a prescribed program administered through SkilledTradesBC.
+
+The credit applies to Red Seal and non-Red Seal programs.
+
+You can claim **one or more** of the following three credits in the year for each qualified employee:
+
+- the **basic** tax credit for employees within 24 months after the employee entered into an apprenticeship agreement (20%, maximum $5,250)
+
+- the **completion** tax credit when an employee completes level three or four of an eligible program (20%, maximum $5,250)
+
+- the **enhanced** tax credit for employees who are individuals registered under the Indian Act or who qualify for the disability amount on their income tax return (all levels of an eligible program) (30%, maximum $7,875)
+
+For each of the basic and completion tax credits, the credit is equal to 20% of the salary and wages (net of designated assistance) that were paid to an employee, up to a maximum of $5,250 per employee per tax year.
+
+These numbers are increased by half when they apply to the enhanced tax credit. This credit is equal to 30% of the salary and wages (net of designated assistance) that were paid to an employee, up to a maximum of $7,875 per employee per tax year.
+
+For the completion and enhanced tax credits, the salary and wages can be dually applied to overlapping periods when more than one level is completed during the tax year.
+
+You cannot claim the British Columbia shipbuilding and ship repair industry tax credit if you claim the [British Columbia training tax credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html) in the tax year.
+
+These credits extend to partnerships. Corporations that are members of a partnership, other than specified members (such as limited partners), can each claim their share of the partnership's tax credit.
+
+Special rules apply for multiple employers not dealing at arm's length who want to claim the tax credit for the same employee. For more details, see section 126.5 of the British Columbia Income Tax Act.
+
+To claim these credits, file a completed [Schedule 430, British Columbia Shipbuilding and Ship Repair Industry Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch430.html), with your return. You must claim these credits no later than 36 months after the end of the tax year in which you paid the eligible salaries and wages.
+
+On line 681 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the total amount of the credits you are claiming.
+
+**Reference** Part 9, British Columbia Income Tax Act
+
+#### British Columbia clean buildings tax credit
+
+Effective February 23, 2022, a temporary tax credit has been introduced for retrofits that improve the energy efficiency of multi-unit residential buildings with four or more dwelling units and prescribed types of commercial buildings.
+
+The refundable credit is equal to 5% of qualifying expenditures made before April 1, 2025, and incurred under an agreement entered into after February 22, 2022.
+
+The period to incur qualifying expenditures for the British Columbia clean buildings tax credit, which was set to end March 31, 2025, has been extended one year to March 31, 2026.
+
+You must complete the retrofit before April 1, 2027, and file an application for certification with the British Columbia Ministry of Finance before you can claim the credit.
+
+The retrofit certification deadline has been extended to September 30, 2028.
+
+To claim the credit, if you have only one certificate, enter the certificate number on line 884 of Schedule 5. If you receive more than one certificate, file a completed [Schedule 432, Additional Certificate Numbers for the British Columbia Clean Buildings Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch432.html), with your return. You do not have to file the certificate with your return. However, keep it in case the CRA asks for it later.
+
+On line 685 of Schedule 5, enter the amount of the credit you are claiming.
+
+**Reference** Part 16, British Columbia Income Tax Act
+
+### Yukon
+
+The **lower rate** of Yukon income tax is 0%.
+
+Income eligible for the lower rate is determined using the Yukon business limit of $500,000.
+
+The **higher rate** of tax is 12%. The higher rate applies to taxable income earned in the Yukon that does not qualify for the small business deduction.
+
+You can use [Schedule 443, Yukon Corporation Tax Calculation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch443.html), to help you calculate the Yukon tax before the application of credits. You do not have to file it with your return. See the schedule for more details.
+
+On line 245 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of tax calculated.
+
+#### Yukon political contribution tax credit
+
+You can claim a non-refundable tax credit on contributions you made to a registered political party or to a candidate for an election to the Yukon Legislative Assembly.
+
+The Yukon political contribution tax credit for corporations matches the federal political contribution tax credit for individuals on an ongoing basis.
+
+Currently, the annual maximum credit is **$650**and is calculated as follows:
+
+- 75% of the first $400 contributed
+
+**plus**
+
+- 50% of the next $350 contributed
+
+**plus**
+
+- 33 1/3% of the next $525 contributed
+
+You do not have to file official receipts with your return. However, keep them in case the CRA asks for them later. The CRA can accept photocopies only if the issuer certifies them as true copies.
+
+On line 897 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the total amount of qualifying contributions. On line 675, enter the amount of the credit you are claiming.
+
+#### Yukon manufacturing and processing profits tax credit
+
+Corporations that have earned taxable income and manufacturing and processing profits in the Yukon are eligible for this non-refundable credit.
+
+The Yukon manufacturing and processing profits tax credit rate is 9.5%.
+
+[Schedule 440, Yukon Manufacturing and Processing Profits Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch440.html), is a worksheet to calculate the credit. You do not have to file it with your return. For more details, see the schedule.
+
+On line 677 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+#### Yukon research and development tax credit
+
+You can claim this credit if you have a permanent establishment in the Yukon at any time in the year and you incurred qualified expenditures in the year for scientific research and experimental development carried on in the Yukon.
+
+The credit is equal to the total of the following amounts:
+
+- 15% of eligible expenditures incurred in the year
+
+- 5% of eligible expenditures included above paid or payable to Yukon University
+
+The credit is based on the sum of the corporation's qualified expenditures and any eligible repayments.
+
+The credit is fully refundable, but must first be applied against total taxes payable.
+
+To claim the credit, file [Schedule 442, Yukon Research and Development Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch442.html), with your return no later than 18 months after the end of the tax year for which you are claiming the credit. For more details, see the schedule.
+
+On line 698 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the credit you are claiming.
+
+#### Yukon business carbon price rebate
+
+The Yukon business carbon price rebate no longer applies to tax years ending after March 31, 2025.
+
+The federal carbon levy applied to fuels bought in Yukon before April 1, 2025. Yukon Carbon Rebate Program returns all carbon levy revenues back to individuals, businesses, First Nations governments, and municipal governments.
+
+The Canada Revenue Agency administers parts of this program in the form of rebates.
+
+Starting in 2023, the Yukon business carbon price rebate also includes the Yukon mining business carbon price rebate.
+
+For a list of eligible Yukon assets and a list of eligible Yukon mining assets, see Schedule 444. The lists are subject to changes. In this case, the Carbon Price Rebate General Regulation takes precedence.
+
+To claim the rebate, file [Schedule 444, Yukon Business Carbon Price Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch444.html), with your return.
+
+On line 699 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of the Yukon general business carbon price rebate you are claiming.
+
+On line 696 of Schedule 5, enter the amount of the Yukon mining business carbon price rebate you are claiming.
+
+### Northwest Territories
+
+The **lower rate** of Northwest Territories income tax is 2%. This lower rate applies to taxable income earned in the Northwest Territories that qualifies for the federal small business deduction.
+
+The **higher rate** of the Northwest Territories income tax is 11.5%. This rate applies to taxable income earned in the Northwest Territories that does not qualify for the federal small business deduction.
+
+You can use [Schedule 461, Northwest Territories Corporation Tax Calculation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch461.html), to help you calculate the Northwest Territories tax before the credits are applied. You do not have to file it with your return. See the schedule for more details.
+
+On line 250 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of tax calculated.
+
+#### Northwest Territories political contribution tax credit
+
+You can claim a non-refundable tax credit on contributions you made to a candidate for an election to the Northwest Territories Legislative Assembly.
+
+The annual maximum credit is **$500** and is calculated as follows:
+
+- 100% of the first $100 contributed
+
+**plus**
+
+- 50% of the next $800 contributed
+
+You do not have to file official receipts with your return. However, keep them in case the CRA asks for them later. The CRA can accept photocopies only if the issuer certifies them as true copies.
+
+Contributions to a political party do **not** qualify for this credit.
+
+On line 898 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the total amount of qualifying contributions, and on line 700, enter the amount of the credit you are claiming.
+
+### Nunavut
+
+The **lower rate** of Nunavut income tax is 3%. This lower rate applies to taxable income earned in Nunavut that qualifies for the federal small business deduction.
+
+The **higher rate** of Nunavut income tax is 12%. This rate applies to taxable income earned in Nunavut that does **not** qualify for the small business deduction.
+
+You can use [Schedule 481, Nunavut Corporation Tax Calculation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch481.html), to help you calculate the Nunavut tax before the credits are applied. You do not have to file it with your return. See the schedule for more details.
+
+On line 260 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the amount of tax calculated.
+
+#### Nunavut political contribution tax credit
+
+You can claim a non-refundable tax credit on contributions you made to a candidate for an election to the Nunavut Legislative Assembly.
+
+The annual maximum credit is **$500** and is calculated as follows:
+
+- 100% of the first $100 contributed
+
+**plus**
+
+- 50% of the next $800 contributed
+
+You do not have to file official receipts with your return. However, keep them in case the CRA asks for them later. The CRA can accept photocopies only if the issuer certifies them as true copies.
+
+Contributions to a political party do **not** qualify for this credit.
+
+On line 899 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html), enter the total amount of qualifying contributions. On line 725, enter the amount of the credit you are claiming.
+
+## Other credits
+
+### Line 780 – Investment tax credit refund
+
+On line 780, enter the amount of the investment tax credit refund, including the clean economy ITCs and the refundable part of the SR&ED ITC. See the details on the [SR&ED ITC](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html).
+
+#### Clean economy investment tax credits
+
+##### Carbon capture, utilization, and storage (CCUS) ITC
+
+CCUS is a suite of technologies that capture carbon dioxide (CO2) emissions from fuel combustion, from industrial processes, or directly from the air, to either store the CO2 or use it in industry. Businesses that incur qualified CCUS expenditures after 2021 and before 2041 can claim the refundable CCUS ITC. To claim the CCUS ITC, you must have been issued an initial project evaluation from Natural Resources Canada (NRCan).
+
+The credit rates for qualified CCUS expenditures are:
+
+- 60% after 2021 (30% after 2030) for eligible capture equipment used in a direct air capture project
+
+- 50% after 2021 (25% after 2030) for all other eligible capture equipment
+
+- 37.5% after 2021 (18.75% after 2030) for eligible transportation, storage, and use equipment
+
+The full credit rates are extended by five years so that they apply from 2022 to the end of 2035. The lower rates would apply to eligible expenditures incurred from the start of 2036 to the end of 2040.
+
+Effective November 28, 2023, if you elect to meet the labour requirements (prevailing wage requirements and apprenticeship requirements), you can claim the ITC you have selected at the **regular** tax credit rate.
+
+If you do **not** elect to meet the labour requirements, you will be eligible to claim the ITC you have selected at a **reduced** tax credit rate of 10 percentage points less than the regular tax credit rate.
+
+Generally, you cannot claim the CCUS ITC for:
+
+- any expenditure for which another clean economy ITC or an ITC under section 127 of the Income Tax Act (for example, the Atlantic ITC) is deducted
+
+- a specified natural gas energy system if a clean electricity ITC is deducted by any person for any property that is part of the system
+
+You can claim the CCUS ITC in the tax year you incurred the expenditures in, regardless of when the property becomes available for use.
+
+Eligible equipment is eligible for capital cost allowance (CCA) on a declining balance basis in two new classes:
+
+- class 57 with an 8% CCA rate for carbon capture, transportation, and storage equipment
+
+- class 58 with a 20% CCA rate for carbon use equipment (equipment required for using CO2 in industrial production)
+
+You must use the equipment as part of a CCUS project.
+
+These classes are eligible for enhanced first year depreciation under the accelerated investment incentive.
+
+Corporations must track and account for the capture and actual usage of CO2. As well, they may have to repay credit amounts they were previously paid if the ineligible uses are more than the quantities originally planned and in certain other circumstances.
+
+To claim the credit, complete [Schedule 78, Carbon Capture, Utilization, and Storage Investment Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch78.html), for each project and file it by the filing due date for the tax year you are entitled to claim the credit for. If you are a member of a partnership, enter your allocation of the credit from the partnership on line 190 of Schedule 78.
+
+The CRA may accept the late filing of the required information, if filed by the later of December 31, 2026, and one year after the filing due date for the tax year in which you are entitled to claim the credit for.
+
+On line 200 of [Schedule 31](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch31.html), enter the amount of the credit you are claiming for all CCUS projects.
+
+For more information, see the details on [Carbon Capture, Utilization, and Storage (CCUS) Investment Tax Credit (ITC)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/business-tax-credits/clean-economy-itc/carbon-capture-itc.html).
+
+**References** Sections 127.44, 127.46, and Part XII.7
+
+##### Clean technology ITC
+
+A refundable tax credit, the clean technology investment tax credit, is available. The credit is equal to 30% of the capital cost of eligible clean technology property that is acquired and that becomes available for use after March 27, 2023, and before 2034. The rate will be reduced to 15% in 2034 and nil after 2034.
+
+Effective November 28, 2023, if you elect to meet certain labour requirements (prevailing wage requirements and apprenticeship requirements), you can claim the ITC you have selected at the **regular** tax credit rate.
+
+If you do **not** elect to meet the labour requirements, you will be eligible to claim the ITC you have selected at a **reduced** tax credit rate of 10 percentage points less than the regular tax credit rate.
+
+Exemptions apply for clean technology property described:
+
+- in subparagraph (d)(i) of CCA class 43.1 (certain active solar heating equipment and ground or air source heat pump system equipment)
+
+- in class 56 (zero-emission self‑propelled equipment that is not a motor vehicle, including certain additions and alterations)
+
+Clean technology property includes:
+
+- certain equipment using zero-emission power generation technologies, including:
+
+    - equipment used to generate electricity from solar, wind and water energy
+
+    - concentrated solar energy equipment
+
+    - small modular nuclear reactors)
+
+- storage equipment for zero-emission energy and non-road zero-emission vehicles
+
+- geothermal energy systems, unless they are used for geothermal energy projects that will co-produce oil, gas, or other fossil fuels
+
+For businesses investing in eligible property that is acquired and becomes available for use on or after November 21, 2023, eligibility for the credit includes systems that produce electricity, heat, or both electricity and heat, from eligible waste biomass.
+
+Businesses can fully benefit from both this credit and the ITCs in section 127 of the Income Tax Act (for example, the Atlantic ITC). However, generally they cannot claim the clean technology ITC for:
+
+- any expenditure for which another clean economy ITC was deducted by any person
+
+- any part of the capital cost of a property if a CCUS ITC or a clean hydrogen ITC was deducted by any person for that property
+
+To claim the credit, complete [Schedule 75, Clean Technology Investment Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch75.html), and file it with your return for the tax year you are entitled to claim the credit for. If you are a member of a partnership, enter your allocation of the credit from the partnership on line 160 of Schedule 75. You must file the required information by the later of December 31, 2026, and the day that is one year after your filing due date for the tax year you are entitled to claim the credit for.
+
+On line 155 of [Schedule 31](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch31.html), enter the amount of the credit you are claiming.
+
+**References**Sections 127.45 and 127.46
+
+##### Clean hydrogen ITC
+
+A refundable tax credit, the clean hydrogen investment tax credit, is available to support investments in clean hydrogen production. The credit is equal to between 15% and 40% of the cost of purchasing and installing eligible property used in the qualified project. This percentage depends on the carbon intensity (CI) of the hydrogen the project will produce.
+
+Processes with the lowest carbon intensity (measured as kilograms of carbon dioxide equivalent (CO2eq) per kilogram of hydrogen produced) will earn the highest rate. The credit will not apply when the carbon intensity is 4.0 kg or more.
+
+The credit applies to property that is acquired and becomes available for use after March 27, 2023, and before 2035. It will be reduced by half for property that becomes available for use in 2034.
+
+| Rates of clean hydrogen ITC |  |  |
+
+| --- | --- | --- |
+
+| CI Tiers | Rates |  |
+
+|  | Available for use from March 28, 2023, to the end of 2033 | Available for use in 2034 |
+
+| Less than 0.75 kg | 40% | 20% |
+
+| 0.75 kg or more, and less than 2 kg | 25% | 12.5% |
+
+| 2 kg or more, and less than 4 kg | 15% | 7.5% |
+
+For clean ammonia equipment or certain other equipment used solely in connection with clean ammonia equipment, the rate is:
+
+- 15% if the equipment becomes available for use before 2034
+
+- 7.5% if it becomes available for use in 2034
+
+- 0% if it becomes available for use after 2034
+
+The rates for clean ammonia equipment apply regardless of the carbon intensity, provided the carbon intensity is less than 4 kg.
+
+At the end of a compliance period of a qualified clean hydrogen project, if the average actual carbon intensity is higher than the most recent expected carbon intensity that was used to determine the clean hydrogen ITC, you may be subject to recovery tax in the tax year in which the compliance period ends.
+
+Effective November 28, 2023, if you elect to meet certain labour requirements (prevailing wage requirements and apprenticeship requirements), you can claim the ITC you have selected at the **regular** tax credit rate.
+
+If you do **not** elect to meet the labour requirements, you will be eligible to claim the ITC you have selected at a **reduced** tax credit rate of 10 percentage points less than the regular tax credit rate.
+
+Under proposed changes, effective for property that is acquired and becomes available for use in an eligible project on or after December 16, 2024, the clean hydrogen ITC would be expanded to include projects that produce hydrogen from methane pyrolysis .
+
+Eligible equipment would include property that is used to produce all or substantially all hydrogen from methane pyrolysis (determined without reference to any solid carbon that is produced), such as:
+
+- pyrolysis reactors
+
+- heat exchangers
+
+- separation equipment and purifiers
+
+- compression and on-site storage equipment
+
+Support for the capital costs of the pyrolysis reactor system would be limited to $3,000 per tonne of annual hydrogen production capacity.
+
+As is the case for the clean hydrogen ITC in general, eligible equipment would also include dual-use electricity and heat equipment, project support equipment, ammonia production equipment, and oxygen production equipment, provided they satisfy the existing requirements.
+
+Businesses can fully benefit from both this credit and the ITCs in section 127 of the Income Tax Act (for example, the Atlantic ITC). However, generally they cannot claim the clean hydrogen ITC for any expenditure for which another clean economy ITC was deducted by any person.
+
+To claim the credit, you must first get a confirmation of a clean hydrogen project plan from Natural Resources Canada (NRCan). Complete a [Schedule 74, Clean Hydrogen Investment Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch74.html), for each qualified clean hydrogen project and file it with your return for the tax year you are entitled to claim the credit for. If you are a member of a partnership, enter your allocation of the credit from the partnership on line 190 of Schedule 74. You must file the required information by the later of December 31, 2026, and the day that is one year after your filing due date for the tax year you are entitled to claim the credit for.
+
+On line 140 of [Schedule 31](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch31.html), enter the amount of credit you are claiming for all qualified clean hydrogen projects.
+
+For more information on the clean hydrogen ITC, see the details on [how and when to claim the credit](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/business-tax-credits/clean-economy-itc/clean-hydrogen-itc/claiming-credit-ch-itc/how-claim.html).
+
+**References**Sections 127.46 and 127.48
+
+##### Clean technology manufacturing ITC
+
+A refundable tax credit, the clean technology manufacturing investment tax credit, appplies to:
+
+- clean technology manufacturing and processing
+
+- qualifying material (including certain critical minerals) extraction and processing
+
+The list of qualifying materials eligible for the clean technology manufacturing ITC has been expanded to include antimony, indium, gallium, germanium and scandium. This applies to property that is acquired and becomes available for use after November 3, 2025.
+
+The clean technology manufacturing investment tax credit is equal to 30% of the capital cost of eligible property associated with eligible activities.
+
+Eligible property generally includes machinery and equipment, including certain industrial vehicles, used in manufacturing, processing, or critical mineral extraction, as well as related control systems.
+
+The credit is not available for property used in the production of battery cells or modules if such production benefits from direct support through a special contribution agreement with the Government of Canada.
+
+Because producing qualifying materials may occur at polymetallic projects (projects engaged in the production of multiple metals), several adjustments were made to the credit. One of these includes changing to a "primarily" test for property used in qualifying mineral activities expected to produce qualifying materials at mine or well sites.
+
+Eligible expenditures include investments in eligible property used in qualifying mineral activities that are expected to produce primarily (more than 50%—rather than 90%) qualifying materials at mine or well sites, including tailing ponds and mills located at these sites.
+
+The credit applies to property that is acquired and becomes available for use after 2023. It will be gradually phased out starting with property that becomes available for use in 2032 as follows:
+
+- 30% in 2024 to 2031
+
+- 20% in 2032
+
+- 10% in 2033
+
+- 5% in 2034
+
+The credit will no longer be in effect for property that becomes available for use after 2034.
+
+The labour requirements do not apply to the clean technology manufacturing ITC.
+
+Businesses can fully benefit from both this credit and the ITCs in section 127 of the Income Tax Act (for example, the Atlantic ITC). However, generally they cannot claim the clean technology manufacturing ITC for:
+
+- any expenditure for which another clean economy ITC was deducted by any person
+
+- any part of the capital cost of a property if a CCUS ITC or a clean hydrogen ITC was deducted by any person in respect of that property
+
+To claim the credit, complete [Schedule 76, Clean Technology Manufacturing Investment Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch76.html), and file it with your return for the tax year you are entitled to claim the credit for. If you are a member of a partnership, enter your allocation of the credit from the partnership on line 150 of Schedule 76. You must file the required information by the later of December 31, 2026, and the day that is one year after your filing due date for the tax year you are entitled to claim the credit for.
+
+On line 170 of [Schedule 31](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch31.html), enter the amount of the credit you are claiming.
+
+For more information on the clean technology manufacturing ITC, see the details on [how and when to claim the credit](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/business-tax-credits/clean-economy-itc/clean-technology-manufacturing-itc/claiming-credit-ctm-itc/how-claim.html).
+
+**References** Section 127.49 Section 5202 of the Regulations
+
+##### Clean electricity ITC
+
+A new 15% refundable tax credit, the clean electricity investment tax credit, was introduced to support eligible entities that make eligible investments to accelerate the supply and transmission of clean electricity.
+
+The credit is available for eligible property that is acquired after April 15, 2024, and that becomes available for use before 2035, for projects that did not begin construction before March 28, 2023.
+
+Eligibility for the credit was expanded to include systems that produce electricity, or both electricity and heat, from eligible waste biomass.
+
+If you elect to meet the labour requirements (prevailing wage requirements and apprenticeship requirements), you can claim the ITC you have selected at the regular tax credit rate.
+
+If you do not elect to meet the labour requirements, you will be eligible to claim the ITC you have selected at a reduced tax credit rate of 10 percentage points less than the regular tax credit rate.
+
+Businesses could fully benefit from both this credit and the ITCs in section 127 of the Income Tax Act (for example, the Atlantic ITC). However, generally they could not claim the clean electricity ITC for:
+
+- any expenditure for which another clean economy ITC was deducted by any person
+
+- any part of the capital cost of a property if a CCUS ITC or a clean hydrogen ITC was deducted by any person in respect of that property
+
+- a qualified natural gas energy system, if a CCUS ITC was deducted by any person in respect of any property that is part of the system
+
+To claim the credit, when available, complete Schedule 77, Clean Electricity Investment Tax Credit, and file it with your return for the tax year you are entitled to claim the credit for. If you are a member of a partnership, enter your allocation of the credit from the partnership on line 160 of Schedule 77. You must file the required information by the later of December 31, 2026, and the day that is one year after your filing due date for the tax year you are entitled to claim the credit for.
+
+On line 185, when available, of [Schedule 31](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch31.html), enter the amount of the credit you would be claiming.
+
+**References** Sections 127.46 and 127.491
+
+##### Electric vehicle supply chain ITC (proposed)
+
+The Government announced a new 10% electric vehicle (EV) supply chain investment tax credit. This credit would apply on the cost of buildings and any component part included in CCA class 1(q) used in key segments of the EV supply chain for businesses that invest in Canada across three supply chain segments:
+
+- electric vehicle assembly
+
+- electric vehicle battery production
+
+- cathode active material production
+
+At least $100 million would have to be invested in each of the three segments. This investment threshold could be met by the corporation itself or by the corporation in combination with certain other investors.
+
+The corporation (either by itself or in combination with certain other investors) would have to either:
+
+- acquire at least $100 million in property eligible for the clean technology manufacturing ITC that has become available for use in each of the three segments
+
+- acquire at least $100 million in property eligible for the clean technology manufacturing ITC that has become available for use in each of two segments; and hold a qualifying minority interest in another corporation that acquires at least $100 million in property eligible for the clean technology manufacturing ITC that has become available for use in the remaining segment
+
+The credit would apply to property that is acquired and becomes available for use after 2023. It would be reduced to 5% for property that becomes available for use in 2033 or 2034, and would be zero after 2034.
+
+**Reference** Proposed section 127.492
+
+##### More information about the clean economy ITCs
+
+For more information, see the details on the [Clean economy investment tax credits (ITCs)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/business-tax-credits/clean-economy-itc.html). You may phone the CRA at the Fraser Valley and Interior Tax Services Office at **1-855-825-3262**.
+
+Also, you may write to:
+
+Canada Revenue Agency Clean Economy Tax Incentives Division 9755 King George Blvd Surrey BC V3T 5E1
+
+### Line 784 – Dividend refund
+
+On line 784, enter the amount of the dividend refund, which you calculated in the "Dividend refund" area on page 7 of your return. See [Dividend refund](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-6-pages-6-7-t2-return.html) for details.
+
+### Line 788 – Federal capital gains refund
+
+For tax years starting after 2024, a corporation does not qualify as a mutual fund corporation if:
+
+- specified persons together own more than 10% of its shares by value, and
+
+- it is controlled by or for the benefit of a corporate group
+
+This new rule does not apply to mutual fund corporations incorporated within the two previous years and where specified persons hold shares with a value of $5 million or less.
+
+The corporate group could consist of any combination of corporations, individuals, trusts, and partnerships that do not deal with each other at arm's length. Exceptions apply to make sure the measure does not adversely affect mutual fund corporations that are widely held pooled investment vehicles.
+
+**Investment corporations** and **mutual fund corporations** have to file [Schedule 18, Federal and Provincial or Territorial Capital Gains Refund](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch18.html), with their returns. Schedule 18 has to contain the following information:
+
+- details about the refundable capital gains tax on hand
+
+- details of the capital gains redemption for the year
+
+- a calculation of the federal capital gains refund for the year
+
+Use 28% as the percentage to determine the refundable capital gains tax on hand.
+
+The federal capital gains refund for the year is whichever is less:
+
+- 14% of the total of:
+
+    - the capital gains dividends paid in the period starting 60 days after the beginning of the year and ending 60 days after the end of the year and
+
+    - the capital gains redemption for the year, or
+
+- the refundable capital gains tax on hand at the end of the year
+
+Complete the appropriate lines on [Schedule 18](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch18.html), and enter on line 788 of the return the federal capital gains refund. See Line 808 for the details on the [provincial or territorial capital gains refund](#P4559_381195).
+
+If a corporation is established and maintained mainly to benefit non-residents, it does not qualify as a mutual fund corporation, and it cannot claim the capital gains refund.
+
+**References** Sections 130 and 131
+
+### Line 792 – Federal qualifying environmental trust tax credit refund
+
+On line 792, enter the amount of federal qualifying environmental trust tax credit refund that was not used in the Part I tax calculation. See [line 648](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html) for more information.
+
+### Line 795 – Return of fuel charge proceeds to farmers tax credit
+
+This refundable tax credit was a way to return fuel charge proceeds under the federal carbon pollution pricing system directly to corporations that operate farming businesses.
+
+The return of fuel charge proceeds to farmers tax credit is being eliminated. The 2024 calendar year is the final year for which the credit is available.
+
+A corporation has to incur gross eligible farming expenses of at least $25,000 (subject to exclusions). All or a portion of those expenses must be attributable to the following designated provinces: Ontario, Manitoba, Saskatchewan, or Alberta, and additionally for 2023, Newfoundland and Labrador, Prince Edward Island, Nova Scotia, or New Brunswick.
+
+The credit is equal to eligible farming expenses attributable to a designated province for the tax year, multiplied by the payment rate for the calendar year for the designated province, as specified by the minister of Finance.
+
+You can claim this credit on your tax returns for 2021 through the 2024 calendar years.
+
+With the removal of the federal fuel charge effective April 1, 2025, the return of fuel charge proceeds to farmers tax credit for the 2024‑25 fuel charge year will be the final credit available to eligible farming businesses. So, the minister of Finance has specified the payment rate per $1,000 in eligible farming expenses that are incurred in the2025 calendar year (for the 2025-26 fuel charge year), in the designated provinces, to be nil.
+
+File a completed [Schedule 63, Return of Fuel Charge Proceeds to Farmers Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch63.html), with your return for the year.
+
+On line 795 of the return, enter the amount of the credit you are claiming.
+
+**Reference**Section 127.42
+
+### Line 796 – Canadian film or video production tax credit
+
+A fully refundable tax credit is available to qualified corporations that produce an eligible production certified by the minister of Canadian Heritage to be a Canadian film or video production.
+
+The credit is equal to 25% of qualified labour expenditures for the year for the production. The qualified labour expenditure cannot be more than 60% of the total cost of a production. The tax credit is therefore limited to 15% of the total cost of a production, less any assistance. Labour expenditures in respect of non-residents of Canada (other than Canadian citizens) will not be eligible for the credit.
+
+For more information, see [Guide RC4164, Canadian Film or Video Production Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4164.html), or go to [Film and Media Tax Credits](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/film-media-tax-credits.html).
+
+To claim the credit, file the following items with your return for the year:
+
+- the Canadian Film or Video Production Certificate (Part A) issued by the Canadian Audio-Visual Certification Office (CAVCO), or a copy
+
+- if it applies, a Certificate of Completion (Part B) issued by CAVCO, or a copy, and a copy of the audited statement of production costs and notes provided to CAVCO
+
+- a completed [Form T1131, Canadian Film or Video Production Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1131.html), for each Canadian film or video production
+
+If you file your return electronically, see information on [T2 Attach-a-doc](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html).
+
+If you file a paper return, send the return and required attachments to your [tax centre](https://www.canada.ca/en/revenue-agency/corporate/contact-information/tax-services-offices-tax-centres.html).
+
+On line 796, enter the amount of the credit from Form T1131. If you are filing more than one of these forms, enter the cumulative total.
+
+You**cannot** claim the Canadian film or video production tax credit if you claim the film or video production services tax credit for that same production for any tax year.
+
+**References** Section 125.4 Regulation 1106[Guide RC4164, Canadian Film or Video Production Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4164.html)
+
+### Line 797 – Film or video production services tax credit
+
+A fully refundable tax credit is available to eligible production corporations for a film or video production certified by the minister of Canadian Heritage to be an accredited production.
+
+Eligible production corporations do not include those that, at any time in the year, are tax-exempt, are controlled by one or more tax-exempt entities, or are prescribed labour-sponsoredventure capital corporations.
+
+The credit is equal to 16% of qualified Canadian labour expenditures for the year.
+
+Qualified Canadian labour expenditure is net of any assistance.
+
+For more information, see [Guide RC4385, Film or Video Production Services Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4385.html), or go to [Film and Media Tax Credits](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/film-media-tax-credits.html).
+
+To claim the credit, file the following items with your return for the year:
+
+- an Accredited Film or Video Production Certificate, or a copy issued by CAVCO
+
+- a completed [Form T1177, Film or Video Production Services Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1177.html), for each accredited production
+
+If you file your return electronically, see information on [T2 Attach-a-doc](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html).
+
+If you file a paper return, send the return and required attachments to your [tax centre](https://www.canada.ca/en/revenue-agency/corporate/contact-information/tax-services-offices-tax-centres.html).
+
+On line 797, enter the amount of the credit from Form T1177. If you are filing more than one of these forms, enter the cumulative total.
+
+You **cannot** claim the film or video production services tax credit if you claim the Canadian film or video production tax credit for that same production for any tax year.
+
+**References** Section 125.5 Regulation 9300[Guide RC4385, Film or Video Production Services Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4385.html)
+
+### Line 798 – Canadian journalism labour tax credit
+
+The Canadian journalism labour tax credit is a refundable tax credit available to qualifying journalism organizations (QJO).
+
+The amount of the credit is set at 25% of qualifying labour expenditures for a tax year, for an eligible newsroom employee. The maximum credit available is $13,750 for each eligible newsroom employee per year. The credit amount is reduced by the amount received from the Aid to Publishers component of the Canada Periodical Fund.
+
+As a temporary measure for four years, the cap on labour expenditures per eligible newsroom employee is increased from $55,000 to $85,000. As well, the tax credit rate is increased from 25% to 35%. These changes apply to qualifying labour expenditures incurred after 2022. The rate will return to 25% for expenditures incurred after 2026. Transitional rules apply to prorate these changes if an organization's tax year does not follow a calendar year.
+
+To be a QJO, as defined in subsection 125.6(1), the organization must be a qualified Canadian journalism organization (QCJO), as defined in subsection 248(1), and must also meet both of the following additional criteria:
+
+- it does not hold a licence, as defined in subsection 2(1) of the Broadcasting Act
+
+- if it is a corporation having share capital, it meets the conditions in subparagraph (e)(iii) of the definition of Canadian newspaper in subsection 19(5)
+
+To be a QCJO, an organization must apply for and be designated as a QCJO by the minister of National Revenue. An organization is deemed to have become designated as a QCJO on the date that it applies for designation with the CRA, unless otherwise specified by the minister. The CRA can revoke a QCJO's designation when it no longer meets the eligibility requirements, but the CRA must consider any advice provided by an advisory board before revoking an organization's designation.
+
+A credit can be claimed by a member (other than a partnership member and a specified member) of a QJO that is a partnership, based on the relative specified proportions, as defined in subsection 248(1) of the Income Tax Act, of each qualifying member for the relevant fiscal period. The credit allocated by the partnership to the partner is taxable to the partner and the partner must include it in their business income in the same tax year.
+
+For details on how to apply for designation as a QCJO, go to [Supporting Canadian journalism](https://www.canada.ca/en/revenue-agency/campaigns/support-canadian-journalism.html) and select "Qualified Canadian journalism organization".
+
+A QCJO can go to [Supporting Canadian journalism](https://www.canada.ca/en/revenue-agency/campaigns/support-canadian-journalism.html) and select “Canadian journalism labour tax credit” for more information on eligibility for claiming the refundable tax credit and for details on calculating the credit.
+
+To claim the credit, file a completed [Schedule 58, Canadian Journalism Labour Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch58.html), with your return for the year.
+
+On line 798 of the return, enter the amount of the credit you are claiming.
+
+**References**Section 125.6 Subsection 248(1)
+
+### Lines 800 and 801 – Tax withheld at source
+
+This is the amount shown as "income tax deducted" on any information slips, such as NR4, T4A, or T4A-NR, you may have received.
+
+On line 800, enter the total amount of income tax deducted from all your information slips. On line 801, enter the total payments on which tax has been withheld.
+
+**Reference**[Information Circular C75-6, Required Withholding From Amounts Paid to Non-Residents Providing Services in Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic75-6.html)
+
+### Line 808 – Provincial and territorial capital gains refund
+
+**Investment public corporations** and **mutual fund corporations** have to file [Schedule 18, Federal and Provincial or Territorial Capital Gains Refund](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch18.html), with their return, complete with information mentioned in [Line 788 – Federal capital gains refund](#fdrlcptl).
+
+These corporations have to calculate the provincial and territorial capital gains refund according to provincial and territorial income tax acts.
+
+Complete the appropriate lines of [Schedule 18](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch18.html), and enter the provincial and territorial capital gains refund on line 808.
+
+**References** Sections 130 and 131
+
+### Line 812 – Provincial and territorial refundable tax credits
+
+On line 812, enter the amount of provincial and territorial refundable tax credits calculated on line 255 of [Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html) (negative amount).
+
+### Line 840 – Tax instalments paid
+
+On line 840, report all instalment payments you made for the tax year.
+
+You can view your interim balance; and if needed, you can transfer payments within a program account and between program accounts of the same nine-digit business number and immediately view updated balances, by using the "View and pay account balance" service through:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are the business owner
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are an authorized representative or employee
+
+If there is a discrepancy between the amount you report on the return and the interim balance in your business account, the CRA will use the amount in your business account for the tax year being assessed when it processes the return.
+
+For information on how to make payments, go to [Payments to the CRA](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html). See also the details on [calculating corporation tax instalments](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/corporation-payments/paying-instalments/instalment-requirements/calculating-instalments-parts-1-xiii-1-tax-provincial-territorial-tax.html).
+
+Even if you elected to report in a functional currency, you still have to complete line 840 in Canadian currency.
+
+## Refund or payment
+
+Your refund or balance owing is the difference you get after subtracting all the credits on lines 780 to 840 from the total tax payable on line 770.
+
+If your total tax payable (line 770) is less than your total credits (line 890), enter the difference on the **refund** line.
+
+If your total payable (line 770) is more than your total credits (line 890), enter the difference on the **balance owing**line.
+
+After the CRA processes your return and applies any interest and/or penalty charges, if the total amount owing at that time is $2 or less, you will not have to pay that amount. If an amount of $2 or less is owed to you, the amount will not be refunded; however, the CRA will apply it to any existing liability you may have.
+
+### Line 894 – Refund code
+
+If entitled to a refund, enter one of the following codes on line 894:
+
+- enter "**1**" or leave this line blank if you want the CRA to send you the refund
+
+- enter "**2**" if you want the CRA to transfer the refund to next year's instalment account
+
+If you want the CRA to apply the refund to another liability (such as an expected debit from a reassessment) or to a different account, attach a letter to your return giving instructions and the CRA will review your request
+
+The CRA will apply the refund to any outstanding liabilities the corporation owes on the same or related business number account. Then, it will refund or transfer the excess overpayment according to the code you enter. The CRA will do this only if all the required returns have been filed on the account and all related accounts.
+
+Under subsection 220(6) of the [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html) a corporation may assign any amount payable under this Act. However, according to subsection 220(7) the minister of National Revenue "is not required to pay to the assignee, the assigned amount". As an alternative, the CRA will review a request to send the refund to a "care of" address. However, a refund issued in this manner will still be issued in the name of the corporation.
+
+The payment of refunds and rebates will be withheld until all required returns, of which the minister of National Revenue has knowledge, have been filed.
+
+**Reference** Subsection 164(2.01)
+
+### Line 896 – If the corporation is a Canadian-controlled private corporation throughout the tax year, does it qualify for the one-month extension of the date the balance of tax is due?
+
+Tick the **yes** or **no** box. See [Balance-due day](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html).
+
+## Payment of balance owing
+
+You can pay your corporation's balance owing using one of the following methods:
+
+- your Canadian bank or credit union's online banking, mobile app, or telephone service
+
+- the CRA's [My Payment](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html) service with your activated debit card from a participating Canadian bank or credit union with a Visa Debit or Debit Mastercard logo (does **not**include credit cards)
+
+- pre-authorized debit (PAD) when you [sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) which lets you:
+
+    - set up payments to the CRA from a Canadian chequing account on pre-set dates starting in five or more business days
+
+    - pay an amount due, repay overpaid amounts, or make instalment payments
+
+    - view your account history and modify, cancel, or skip a payment (for more information on PAD, go to canada.ca/pay-authorized-debit)
+
+- the "Proceed to pay" button on the "View and pay account balance" page and other pages within My Business Account
+
+- your credit card, Interac e-transfer or PayPal through one of the third-party service providers **for a fee**
+
+- in person, with cash or by debit, at Canada Post **for a fee**. To do so you will need a remittance voucher with a QR code or a self-generated QR code. For more information, go to [Payments to the CRA](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html)
+
+- in person at your financial institution in Canada. To do so, you have to use a remittance voucher which you can request through the following portals:
+
+    - for business owners: [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html)
+
+    - for business employees and representatives: [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html)
+
+For more information about payments, go to [Payments to the CRA](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html).
+
+If you have an amount owing, you can view a revised balance that includes interest calculated to a date you select by using the "View and pay account balance" service and selecting the "Calculate future balance" option through:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are the business owner
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are an authorized representative or employee
+
+You can ask that the CRA stop issuing remittance vouchers and the envelope that is sent with notices and statements by using the "Enquiries service" and selecting the "Change mailing instructions" option through [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) or through [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+## Direct deposit request
+
+You can start, update, or stop direct deposit online, and also view direct deposit transactions through:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are a business owner
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are a representative with level three (delegated authority) authorization
+
+Representatives authorized at level one or two with online access can see direct deposit transactions at Represent a Client.
+
+You can also sign up for direct deposit or change your account information through the websites of many financial institutions. Once you provide consent for direct deposit, your CRA direct deposit information will be updated the next day. Visit your financial institution's website for information on how to sign up.
+
+For more information, go to [Direct deposit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html).
+
+Your direct deposit request will stay in effect until you change the information or cancel the service. However, if your financial institution advises the CRA that you have a new account, the CRA may deposit your payments into the new account. If, for any reason, it cannot deposit a payment into a designated account, the CRA will mail a cheque to you at the address on file at the time of the original payment.
+
+The CRA must generate all large-value refunds ($25 million or more) through Lynx, Canada's high‑value payment system. To avoid potential delays, you have to be registered for direct deposit and be registered on the Lynx system. If you are expecting a large-value refund, arrange for direct deposit and contact your [tax centre](https://www.canada.ca/fr/agence-revenu/organisation/coordonnees/bureaux-services-fiscaux-centres-fiscaux.html) to make the necessary arrangements.
+
+## Mandatory electronic filing for tax preparers
+
+### Lines 920 and 925
+
+Enter the tax preparer's EFILE number on line 920 and RepID on line 925, if applicable.
+
+All EFILE registrations or renewals now require a representative identifier (RepID). This is a unique seven‑character identifier you get when you register as a representative with the Represent a Client service.
+
+Tax preparers have to file electronically all income tax returns they prepare for a fee, with certain exceptions, including that they can file five corporation returns and five individual returns (other than trust) by means other than electronic. Signatures may be electronic on [Form T183CORP, Information Return for Corporations Filing Electronically](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t183corp.html).
+
+The CRA may charge a penalty to tax preparers who fail to respect the limit.
+
+For more information, go to [Mandatory electronic filing for tax preparers](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-tax-preparers/mandatory-electronic-filing-tax-preparers.html).
+
+**Reference** Section 150.1
+
+## Certification
+
+### Lines 950 to 959
+
+**Lines 950 to 956** – Complete these lines with the required information. Be sure that the person who signs and dates the return is an authorized officer of the corporation.
+
+**Line 957** – Tick the **yes** or **no** box.
+
+**Lines 958 and 959** – If you answer **no** to line 957, provide the first and last names and telephone number of a contact person. This contact person is responsible for all matters related to the processing of this year's return and must be an authorized representative.
+
+If you wish to authorize representatives (including employees) to discuss your corporation income tax return for any year with the CRA, use My Business Account. Please verify if your list of authorized representatives is up-to-date and, if applicable, modify or cancel authorized representatives. My Business Account allows you to authorize new representatives, and to view, update, and cancel authorizations of existing representatives. For more information, see how to [sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+For information on how to authorize a representative for a non-resident account, go to [Representatives for non-resident accounts](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/payments-non-residents/nr4-part-xiii-tax/representatives-non-resident-accounts.html).
+
+## Language of correspondence
+
+### Line 990
+
+Indicate in which official language you would like to receive your correspondence by entering the appropriate code:
+
+- **1** for English
+
+- **2** for French
+
+- [Previous page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html)
+
+- [Table of contents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide.html)
+
+- [Next page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-appendices.html)

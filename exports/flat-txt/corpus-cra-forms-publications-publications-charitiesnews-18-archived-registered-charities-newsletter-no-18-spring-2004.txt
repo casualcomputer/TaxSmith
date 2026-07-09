@@ -1,0 +1,283 @@
+Title: ARCHIVED - Registered Charities Newsletter No. 18 - Spring 2004
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/charitiesnews-18/archived-registered-charities-newsletter-no-18-spring-2004.html
+Corpus path: corpus/cra/forms-publications/publications/charitiesnews-18/archived-registered-charities-newsletter-no-18-spring-2004.md
+Document type: publication
+Last modified: 2004-04-13
+
+# ARCHIVED - Registered Charities Newsletter No. 18 - Spring 2004
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## Contents
+
+- [From the Director General](#P1)
+
+- [What’s New](#P2)
+
+    - [Name change: from CCRA to CRA](#P3)
+
+    - [Information sessions in 2004](#P4)
+
+    - [Updated pamphlet on gifts and income tax](#P5)
+
+    - [List of companies authorized to produce a customized Form T3010A now available](#P6)
+
+    - [*Privacy Act* affects some charities](#P7)
+
+    - [Other sites of interest](#P8)
+
+    - [Statistics on charities](#P9)
+
+    - [Charitable donation tax shelter arrangements](#P10)
+
+- [Did you know?](#P11)
+
+    - [What is a gift in kind?](#P12)
+
+    - [How does a charity calculate its disbursement quota if it has received a gift in kind?](#P13)
+
+    - [How should charitable gifts in kind be valued?](#P14)
+
+    - [Donation of time-shares, including recreational property](#P15)
+
+    - [Can businesses receive receipts for donations made out of their inventory?](#P16)
+
+    - [Can shares or stock options be gifts?](#P17)
+
+    - [Can a charity issue a charitable receipt for a court ordered donation?](#P18)
+
+- [Issues](#P19)
+
+    - [GST/HST and registered charities](#P20)
+
+- [Policies](#P21)
+
+    - [Upcoming policies from the Charities Directorate](#P22)
+
+- [Contact information](#P23)
+
+**From the Director General**
+
+2003 was a year of a great many achievements, and we are looking forward to several new developments in 2004.
+
+One immediately visible change will be in our name. Although Canada Customs and Revenue Agency (CCRA) remains our legal name, the administrative changes necessary to make the transition to our new name and structure, Canada Revenue Agency (CRA) are well underway.
+
+In the last year, we achieved significant success in producing new policies in draft or final form, including policies on business activities and political activities. In 2004, we are looking forward to consulting with charities on additional draft policies, including ones on ethnocultural groups, public benefit, and umbrella organizations.
+
+Several other initiatives are underway. Over the past two years, as part of the Voluntary Sector Initiative (VSI), the CRA and the Department of Finance have worked with representatives of the charitable sector and other departments through a Joint Regulatory Table (JRT) to study the current state of charity regulation and to propose comprehensive reform measures. As we move forward and make changes, we intend to continue to work with the sector. One obvious way in which we are beginning this dialogue, is through the establishment of the new charities advisory committee. It is anticipated that the list of appointees will be made public by the end of March at: www.cra.gc.ca/tax/charities/cac/menu-e.html. As we move forward with other changes, additional opportunities will be sought to consult with charities, their advisors and other stakeholders.
+
+As well as seeking input from charities through this means, the Charities Directorate will continue to make itself available as an information resource for charities. For the eighth consecutive year, we will hold information sessions across the country. I would like to take this opportunity to thank those people in the charitable sector who, by acting as hosts for these sessions, have made them possible. I would also like to take this opportunity to encourage your participation in these sessions, when they are held near you. Throughout the course of this year, we will be looking at the RoadShow and thinking about ways to improve it. We also want to look at other kinds of outreach. Would videoconferencing be of interest to charities? What about an on-line, interactive question and answer session on specific topics? Your views are needed and welcome.
+
+One of the requests that we receive on a regular basis is for additional information about government organizations, other than the Charities Directorate, that charities might deal with. This newsletter includes a link to a list of Web sites and phone numbers for these bodies, as well as general information on their roles. The list will be updated periodically. We are also pleased to be able to include a guest piece on GST/HST, and contact information for any questions relating to this tax.
+
+In a future edition of the newsletter we plan to provide information on contacts that are of particular interest to those working overseas.
+
+If you have any suggestions for future editions of the newsletter, please e-mail them to us at: [charities-bienfaisance-bulletin@ccra-adrc.gc.ca](mailto:charities-bienfaisance-bulletin@ccra-adrc.gc.ca).
+
+**What’s new?**
+
+**Name change: from CCRA to CRA** On December 12, 2003, the Customs Program of the CCRA was transferred to the Canada Border Services Agency (CBSA). As of this date, our new name and acronym is the Canada Revenue Agency (CRA)/Agence du revenu du Canada (ARC).
+
+By virtue of Bill C-43, we have operated under the legal name "Canada Customs and Revenue Agency" since November 1, 1999. The new name and acronym will be phased in. In some cases, it will continue to appear on publications until the old stock is used up. It will also affect some Web site addresses. For example, the URL [www.cra-arc.gc.ca](https://www.canada.ca/en/revenue-agency.html) became active on February 26, but clients will still be able to access the site using the old address [www.cra-arc.gc.ca](http://www.cra-arc.gc.ca/menu-eng.html).
+
+To reflect the changes that are occurring across many government departments, the list of federal government contacts, which accompanies this newsletter, will be updated periodically.
+
+**Information sessions in 2004** News about the information sessions delivered by the Charities Directorate (the RoadShow) is now available on the CRA Web site at: [www.cra.gc.ca/tax/charities/roadshow](https://www.canada.ca/chrts-gvng/chrts/cmmnctn/sssns/menu-eng.html). More information will be added as it becomes available. Please keep visiting our Web site for updated information.
+
+If you have any comments or suggestions regarding the RoadShow, we would appreciate hearing from you. You can contact the RoadShow Co-ordinator either by e-mail ([information.sessions@ccra.gc.ca](mailto:information.sessions@ccra.gc.ca)) or by mail at:
+
+RoadShow Co-ordinator Charities Directorate Place de Ville, Tower “A” 13th Floor Ottawa Ontario K1A 0L5
+
+**Updated pamphlet on gifts and income tax** The Assessment and Collections Branch of the CRA has recently released a revised version of P113, *Gifts and Income Tax*. The pamphlet is directed at individuals who are planning to give a gift to a charity, but it has information that is of interest to charities as well. The revised text includes information on proposed changes that have been announced but are not yet law. You can get a copy of this pamphlet on the CRA Web site.
+
+**List of companies authorized to produce a customized Form T3010A now available** The CRA mails copies of the T3010A to all charities, and also makes this form available through its Web site. However, some charities choose to use a customized version of the form produced privately. The list of companies authorized to produce the customized Form T3010A for 2003 can now be found on the Web site at: [www.cra.gc.ca/tax/charities/customized-e.html](https://www.canada.ca/chrts-gvng/chrts/customized-eng.html). *Forms from companies that have not been authorized to produce this form may not be accepted.* The CRA will continue to provide free copies of this form to all charities both by mail, and through its Web site.
+
+***Privacy Act* affects some charities** The *Personal Information Protection and Electronic Documents Act* (PIPEDA) sets out ground rules for how private sector organizations may collect, use, or disclose personal information in the course of commercial activities. As of January 1, 2004, PIPEDA covers the collection, use, or disclosure of personal information in the course of *any* commercial activity by registered charities. The PIPEDA will apply if the charity conducts any form of commercial activity, and collects, uses or discloses any personal information in the course of the commercial activity. Information on PIPEDA is available through Industry Canada’s Privacy for Business Web site ([www.privacyforbusiness.ic.gc.ca](http://www.ic.gc.ca/eic/site/ecic-ceac.nsf/eng/h_gv00464.html)) and its Electronic Commerce Branch ([www.ecom.ic.gc.ca](http://www.ic.gc.ca/eic/site/ecic-ceac.nsf/eng/home)), as well as the federal Privacy Commissioner's Web site at: [www.privcom.gc.ca](http://www.privcom.gc.ca).
+
+**Other sites of interest** The Charities Directorate’s jurisdiction over charities is limited to the application of the *Income Tax Act.* Accordingly, there are many federal government departments outside of the CRA that have an impact on charities. These include the Department of Finance and the Competition Bureau of Industry Canada. Even within the CRA, not all issues related to charities are within the mandate of the Charities Directorate. For example, questions about GST/HST fall within the mandate of the Excise and GST/HST Rulings Directorate. The Income Tax Rulings Directorate supplies advance income tax rulings and technical interpretations.
+
+To guide charities more effectively to these and other government departments, this newsletter includes a description of why charities might want to contact these bodies. In addition, it provides a link to a table of contact information for these and other **Federal Government Contacts**. This table will be updated periodically. In a future edition of this newsletter, this contact information will be expanded to include the provincial level.
+
+With this issue, we are also including a piece developed by the Excise and GST/HST Rulings Directorate concerning some of the rules about GST/HST that affect charities.
+
+**Department of Finance:** While the CRA is responsible for administering and interpreting the *Income Tax Act*, tax policy is primarily the responsibility of the Department of Finance. Accordingly, any changes to tax policy or amendments to the legislation would have to be considered by that department.
+
+The Department of Finance provides the Minister of Finance with analysis and advice in relation to the *Income Tax Act*. This includes tax incentives for charitable giving and certain legal requirements that charities must fulfil to be registered at the federal level in Canada.
+
+**The Competition Bureau of Industry Canada:** The Competition Bureau is responsible for administering and enforcing the *Competition Act*, the *Consumer Packaging and Labelling Act*, the *Textile Labelling Act,* and the *Precious Metals Marking Act*. Its role is to promote and maintain fair competition so that Canadians can benefit from lower prices, product choice, and quality services. The Bureau promotes fair competition in the marketplace by discouraging deceptive business practices and by encouraging provision of sufficient information to enable informed consumer choice. The *Competition Act* includes provisions dealing with false or misleading representations and other deceptive practices. In this capacity, the Bureau may be called to investigate alleged misleading fundraising promotions.
+
+**GST/HST and Excise Taxes:** All questions related to the administration of the GST/HST and Excise taxes can be directed to the Business Enquiries line at 1-800-959-5525. RC4082*, GST/HST Information for Charities*, ([www.cra.gc.ca/E/pub/gp/rc4082/](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4082.html)) is designed to answer questions that registered charities may have regarding the GST/HST.
+
+**Income Tax Rulings Directorate:** The Income Tax Rulings Directorate of the CRA provides two main services to the public. It provides advance income tax rulings and technical interpretations to written requests from taxpayers. An advance income tax ruling is a written statement to a taxpayer stating how the CRA will interpret and apply specific provisions of existing Canadian income tax law to a definite transaction or transactions that a taxpayer is contemplating. An hourly fee is charged for advance income tax rulings. The Directorate also provides general interpretations of provisions of the *Income Tax Act*, which are not binding on the CRA for any specific transaction. No fee is charged for general interpretations. More information on these services is found in [Information Circular 70-6R5](https://www.canada.ca/E/pub/tp/ic70-6r5/README.html), which is available on the CRA’s Web site.
+
+While the Charities Directorate provides interpretations of those provisions that deal primarily with issues of registration and revocation, specifically with charities, the Income Tax Rulings Directorate provides general interpretations on provisions that deal specifically with taxpayers, which includes charities. Questions on those provisions of the Act that deal with gifting and donors are better directed to the Income Tax Rulings Directorate.
+
+**Statistics on charities** The charitable sector continued to grow in the last year, and it now comprises more than 80,500 organizations.
+
+**As of January 2, 2004**
+
+|  | Public Foundation | Private Foundation | Charitable Organizations | Total | % |
+
+| --- | --- | --- | --- | --- | --- |
+
+| **BC** | 625 | 524 | 9735 | 10884 | 13.51% |
+
+| **AB** | 326 | 435 | 7777 | 8538 | 10.60% |
+
+| **SK** | 210 | 119 | 4254 | 4583 | 5.69% |
+
+| **MB** | 285 | 192 | 3984 | 4461 | 5.54% |
+
+| **ON** | 1600 | 1867 | 24789 | 28256 | 35.07% |
+
+| **QC** | 999 | 663 | 13731 | 15393 | 19.11% |
+
+| **NB** | 107 | 66 | 2513 | 2686 | 3.33% |
+
+| **PE** | 23 | 9 | 527 | 559 | 0.69% |
+
+| **NS** | 143 | 94 | 3518 | 3755 | 4.66% |
+
+| **NL** | 43 | 12 | 1126 | 1181 | 1.47% |
+
+| **NT** | 5 | 2 | 116 | 123 | 0.15% |
+
+| **YT** | 3 | 1 | 111 | 115 | 0.14% |
+
+| **NU** |  | 1 | 28 | 29 | 0.04% |
+
+| **TOTAL** | 4369 | 3985 | 72209 | 80563 | 100% |
+
+**Charitable donation tax shelter arrangements** In earlier issues, we described arrangements in which a promoter facilitates the donation of property to a registered charity by arranging for a taxpayer to purchase a property and then donate it at a higher value than was paid. Under these “buy-low, donate-high” arrangements, the taxpayer was intended to receive a tax receipt for an amount that was substantially higher than the actual cost of the property. In response to concerns about these arrangements, the Department of Finance, on December 5, 2003, released proposed amendments dealing with donation tax shelter arrangements. As of 6 p.m. EST of that date, the value of a property that is the subject of a gift to a qualified donee will generally be limited to the donor’s cost of the property where the property is donated within three years of acquisition by the donor or is otherwise acquired through a “gifting arrangement” or in contemplation of donation. This proposed rule will not apply to gifts of inventory, real property situated in Canada, or certified cultural property. It will also not apply to gifts of publicly traded securities or ecological gifts that qualify for the 25% capital gains inclusion rate. The proposed amendments also include amendments relating to the use of limited-recourse debt in charitable donation arrangements. For more information on these proposed amendments, refer to the News Release issued by the Department of Finance on December 5, 2003. You can find it at: [www.fin.gc.ca/news03/03-061e.html](http://www.collectionscanada.gc.ca/webarchives/20071122013950/http://www.fin.gc.ca/news03/03-061e.html).
+
+The CRA will continue to review earlier transactions and may challenge claims where the amounts on receipts seem inflated. To date, the CRA has reassessed 5,000 individuals involved in donation arrangements. In addition, another 5,000 are being audited in connection with various donation arrangements. Some charities that have taken part in these arrangements are also being examined.
+
+The Charities Directorate is actively working with other areas within the CRA to identify organizations that are taking part in any abusive donation arrangements. Charities and promoters involved in such arrangements may be subject to civil penalties if they make misrepresentations of tax matters that could result in their clients making false statements or omissions on their returns, including overstating the fair market value of a property donated. For more information on these penalties, see Information Circular 01-1, *Third-Party Civil Penalties*.
+
+**Did you know?**
+
+**What is a gift in kind?** For tax purposes, for something to be a gift, there must be a voluntary transfer of property. A gift in kind is a gift of property other than cash. It includes numerous types of property, in particular inventory, capital property, and depreciable property. ‘Services’ are not considered gifts in kind because they do not involve a transfer of property. A charity that receives a gift in kind can issue a tax receipt for the eligible amount of the gift.
+
+Sometimes the line between what constitutes a property and what constitutes a service is quite clear. If an individual or company creates a Web site for a charity, develops a computer program or computer application for a charity, or provides the maintenance of a charity’s Web site, including any updates or other modifications, the individual or company is providing a service rather than a property.
+
+However, there are other scenarios that are less clear, either because it is not certain whether the scenario involves a service or property, or because it is uncertain whether the donor can be considered to have *transferred* property to a charity. The Income Tax Rulings Directorate is currently considering some of these situations. With regard to a Web site and software, a couple of key issues are: Can a Web site be considered property for the purposes of making a gift? Can a licence to use software be the subject of a gift?
+
+The Income Tax Rulings Directorate is also looking at the tax implications of transferring reward points to a charity.
+
+At present, the Income Tax Rulings Directorate is considering such proposed transactions only on a case-by-case basis. However, it is interested in hearing about particular situations that involve these or similar items, and is willing to entertain submissions about whether such items can be the subject of a charitable tax receipt. Please send your comments by June 30, 2004 to:
+
+Director, Financial Industries Division Income Tax Rulings Directorate Policy and Legislation Branch Canada Revenue Agency Ottawa ON K1A 0L5
+
+The Directorate will not be responding to individual submissions but plans to respond to these issues in an upcoming publication.
+
+**How does a charity calculate its disbursement quota if it has received a gift in kind?** An amount equal to 80% of all receipted amounts, other than a gift received from a registered charity, must be included in calculating the amount of a charity’s disbursement quota. In this regard, an amount in respect of gifts of capital received by way of bequests or inheritance and “10 year gifts” are included only in the year they are expended. With regard to gifts, other than specified gifts, received from a registered charity, an amount equal to 100% and 80% of the gift is added to the disbursement quota of a private foundation and a public foundation, respectively. This is the case whether the gift is made in cash or in kind.
+
+In meeting a charity’s disbursement quota, for gifts in kind, the CRA is prepared to accept that the necessary amount has been expended where the property is used directly by the charity in delivering its charitable programs. For example, paintings donated to an art gallery for use in its display would be considered to have been expended on charitable activities. On the other hand, gifts in kind for a fundraising auction or similar purpose would generally be considered to be expended when they are converted to cash and used by the charity in carrying on its charitable purposes or activities.
+
+**How should charitable gifts in kind be valued?** Gifts in kind must be valued on the basis of "fair market value".
+
+As mentioned on page 3, in the piece entitled “Charitable donation tax shelter arrangements”, following amendments proposed on December 5, 2003, the value of a gift in kind may change. It will be limited to a donor’s cost of the property, where the property is donated within three years of acquisition by the donor or is otherwise acquired through a gifting arrangement or in contemplation of donation. Generally gifts of inventory, publicly traded securities, certified cultural property, ecological gifts, or real property situated in Canada are exceptions to this rule.
+
+The courts have defined fair market value as being, “the highest price obtainable in an open and unrestricted market between informed and prudent parties, acting at arm’s length, under no compulsion to act, expressed in terms of money, or money’s worth”.
+
+If the value of the property donated is anticipated to have a fair market value greater than $1,000, it is advisable to have an independent appraiser or valuator determine the fair market value of the items donated.
+
+To determine the fair market value of the properties mentioned above, an individual requires a knowledge of the property being appraised or valued and a specialized knowledge of the principles, theories, and procedures of real estate appraisal, business equity valuation, personal property, machinery and equipment valuation, or other valuation specialties. There are professional appraisers or valuators in these disciplines. It is important to obtain the services of a qualified individual in the appropriate specialty area to obtain a supportable, well-reasoned opinion of value.
+
+Appraisers or valuators who belong to professional appraisal or valuation organizations have completed a prescribed course of study and several years of experience before attaining accreditation. An accredited appraiser or valuator is required to follow the Canadian Uniform Standards of Professional Appraisal Practice, or the Practice Standards established by the Canadian Institute of Chartered Business Valuators, when completing a valuation of a gift in kind.
+
+The factors that influence the value of property are numerous. Some of the most important of these factors are described briefly below.
+
+The appraiser or valuator is required to research the property and obtain market data in the appropriate market place(s). In the case of personal property, various market levels need to be analyzed to determine the most relevant market for the subject property. For example, the appropriate market is not always retail or purchases from a dealer if art is being purchased. The appropriate market for the property being appraised may be the wholesale market. In estimating fair market value, this factor and others are considered by the personal property appraisers as they apply the correct principles, theories, and procedures.
+
+Another factor is the effective date of the valuation, which for all valuation disciplines is very important because economies, markets, and market levels change frequently and rapidly. For example, a price list for a print established by the publishers eight years prior to the effective date of valuation may not reflect the value at the date of donation. The fair market value may be higher if the demand for the print is high. If the demand for the print has declined, the sale price and value of the print will have dropped. The market activity at the date of donation will determine the fair market value of the print, not a price list established a number of years earlier.
+
+An accredited appraiser or valuator will provide you with a professional report detailing their opinion of the fair market value and the support for their conclusions. The CRA also utilizes the services of professional appraisers and valuators to ensure the fair market value of the property is appropriately stated.
+
+Information on the tax advantages of donating to charity is available in the newly revised P113, *Gifts and Income Tax*.
+
+**Donation of time-shares, including recreational property** Are there any limitations that might prevent donors from making a gift of time-shares? What are the tax considerations?
+
+It is only possible to receipt the transfer of a time-share if ownership of the deed title is first transferred to the donor then transferred to the charity. Otherwise, there is no transfer of ownership, and a gift has not been made by the donor. Merely loaning property is not considered a gift for purposes of sections 110.1 and 118.1 of the *Income Tax Act*.
+
+Where a gift has been made, any capital gains realized at the time of the donation would be taxable in the donor’s hands in the usual way. However, the donor may choose to reduce the value of the gift and the associated taxable capital gain by applying subsection 110.1(3) or 118.1(6) of the Act. Generally, the annual gifting limit is 75% of the donor’s net income plus 25% of the taxable capital gain and recapture arising from the gift.
+
+If the donors were to dispose of the property themselves and then make a gift of the proceeds, the charity would not be required to establish a value for the time-share interest. The choice of which method to use is a matter for which the donors and the charity may want to seek independent advice from professionals in the field.
+
+Charities and their donors should be aware that the existence of other express or implied arrangements (e.g., where the donation is conditional on or made with the expectation that the charity will buy the property from the donor) may disqualify all or part of the donation from being considered a gift. In evaluating the arrangement the CRA looks to not only the formal written arrangement but also any additional written or verbal agreements and assurances to determine whether a gift at law has been made. The CRA reserves the right to investigate transactions after the fact to ensure their legitimacy.
+
+**Can businesses receive receipts for donations made out of their inventory?** Registered charities can issue official donation receipts for gifts that a business makes out of inventory, and the taxpayer can use these receipts to claim a charitable deduction. However, the business has to include in its income, the fair market value of any goods out of its inventory that it gives to a charity. The income of a business is increased because it must include the value of the gift. However, this increase is offset by the charitable deduction or credit. Where a transaction results in a material benefit to the business, the rules related to split receipting may apply, or the benefit may be such that no part of the transaction can be considered a gift. In cases where there is consideration, a business may claim these costs as promotional expenses, rather than seeking a charitable donation. Under some circumstances, it may be more financially advantageous to claim these costs as a promotional expense. More information on this topic can be found in the policy commentary *Gifts Out of Inventory*, CPC-018 at:[www.cra.gc.ca/tax/charities/policy/cpc/cpc-018-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/policy-commentary-018-gifts-inventory.html).
+
+**Can shares or stock options be gifts?** One of the requirements necessary to the making of a gift for purposes of the *Income Tax Act* is the voluntary transfer of property. Where a corporation issues shares of its capital stock or grants a stock option, jurisprudence[1](#P213_26049) supports the view that there is no transfer of property by the corporation as the corporate assets are not reduced as a result of the issuance. As there is no gift in these circumstances, the charity should not issue a receipt notwithstanding that the shares or options will normally have value.
+
+On the other hand, if the donor is a person who has acquired shares or stock options, generally the charity may issue a receipt for the eligible amount of the gift.
+
+**Can a charity issue a charitable receipt for a court ordered payment made to it?** No. Under charity law, to qualify as a gift a payment must be voluntary. A payment that results from a court order, even if the taxpayer was given a choice between making a payment and some other penalty, cannot be said to be voluntary. Therefore, if a company or individual is ordered by a court to give money to charity, the charity cannot issue an official donation receipt for the amount it receives. If needed, the charity can issue an ordinary receipt to acknowledge such a payment.
+
+**Issues**
+
+**GST/HST and registered charities** The Charities Directorate itself does not deal with issues relating to the Goods and Services Tax (GST)/ Harmonized Sales Tax (HST), but many registered charities have questions about how it affects their operations. We are therefore pleased to include this article from the Excise and GST/HST Rulings Directorate dealing with some of the issues that face registered charities.
+
+**GST/HST Enquiries** All questions concerning GST/HST should be directed to the GST/HST Business Enquiries line at 1-800-959-5525 (English) or 1-800-959-7775 (French). For general information about the GST/HST and for further discussion of the subjects covered in this article, please refer to GST/HST Guide, *GST/HST Information for Charities* ([www.cra.gc.ca/E/pub/gp/rc4082/](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4082.html)). For more technical information, please call the GST/HST Rulings line at 1-800-959-8287 (English) or 1-800-959-8296 (French). If your group would benefit from a technical seminar on a GST/HST issue, please call the GST/HST Rulings line to arrange for one. Please note that, in the province of Quebec, the Ministère du Revenu du Québec (MRQ) administers GST/HST on behalf of the federal government. Quebec-based registered charities may call the MRQ at 1-800-567-4692.
+
+**GST/HST Rulings and Interpretations** The CRA provides written GST/HST rulings and interpretations to help persons determine their GST/HST obligations and entitlements. This service is offered free of charge. For more information about this service, please refer to GST/HST Memorandum 1.4, *Goods and Services Tax Rulings* ([www.cra.gc.ca/E/pub/gm/1-4/](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html)), or call the GST/HST Rulings line noted above.
+
+**GST/HST and Registered Charities** The GST is a 7% tax charged on most supplies of goods and services made in Canada. For supplies of goods and services made in Nova Scotia, New Brunswick, and Newfoundland and Labrador, the supplies are subject to the HST, a combined federal and provincial tax, at a rate of 15%.
+
+Registered charities that are small suppliers are not required to register for the GST/HST and do not collect GST/HST on taxable supplies (other than taxable sales of land or buildings). A registered charity is considered a small supplier if it has either $250,000 or less in annual gross revenue or not more than $50,000 in annual worldwide taxable supplies (other than sales of capital assets, such as a building or a computer).
+
+All registered charities are entitled to a Public Service Body Rebate of 50% on the GST (and in most cases also the HST) that they have paid, and that cannot be claimed as an input tax credit. A registered charity does not have to be registered for GST/HST to claim this rebate.
+
+**Net tax calculation method for charities** Since 1997, most registered charities that are GST/HST registrants are required to use a special net tax calculation, referred to as the "Net Tax Calculation for Charities". Under this calculation, registered charities remit 60% of the GST/HST they collect, but they cannot claim input tax credits on the GST/HST paid on most items. The main exception is that they may be able to claim an input tax credit for GST/HST paid or payable on capital assets. However, these rules do not apply to a registered charity that is a school authority, public college, university, hospital authority, or a local authority determined to be a municipality.
+
+**Registered charities providing employment assistance to individuals with disabilities** Certain registered charities that provide employment assistance to individuals with disabilities can be given a special designation under the *Excise Tax Act*. To be eligible, one of the registered charity's main purposes must be to provide employment, training for employment, or employment placement services for individuals with disabilities, or to provide instructional services to assist such individuals in securing employment. The registered charity must also supply, on a regular basis, services that are performed, in whole or in part, by individuals with disabilities.
+
+Once designated, all of the otherwise exempt services the registered charity provides to GST/HST registrants will be taxable. Some services, such as childcare and educational services, are not affected by the designation and remain exempt. Furthermore, the following services, when supplied by a designated charity to a public sector body or a board, commission, or other body established by a government or a municipality will remain exempt:
+
+- care, employment, or training for employment of individuals with disabilities;
+
+- employment placement services for such individuals; or
+
+- the provision of instruction to assist such individuals in securing employment.
+
+In addition, the registered charity will not be required to use the Net Tax Calculation Method for Charities, thereby requiring the registered charity to remit the full amount of GST/HST collected or collectable and enabling the registered charity to claim input tax credits. Once designated, the registered charity can use the "Special Quick Method of Accounting for Public Service Bodies" to calculate its net tax remittances.
+
+Registered charities may request to be designated by writing to: Director, Public Services Bodies and Governments Division, Excise and GST/HST Rulings Directorate 14th floor, Tower A, Place de Ville, Ottawa ON K1A 0L5.
+
+For further details concerning the designation process, please contact the GST/HST Rulings line 1-800-959-8287 (English) or 1-800-959-8296 (French).
+
+**Policies**
+
+**Upcoming policies from the Charities Directorate** As part of the policy development process, the Charities Directorate is making copies of all its draft publications available on the “Consultation on proposed policy” page for charities on the CRA Web. The comments we receive by this means have, in the past, provided us with a broader range of experience than we would otherwise be able to access, and this helps us identify revisions that are required prior to finalizing the policies. The Charities Directorate plans to make several new draft policies available in the first half of this year including policies on public benefit, ethnocultural organizations, and umbrella organizations. We look forward to your input on these policies.
+
+**Contact information**
+
+**The Charities Directorate** You can call us toll free at 1-800-267-2384 (English) or 1-888-892-5667 (bilingual).
+
+You can also write to us at: Charities Directorate Canada Revenue Agency Ottawa ON K1A 0L5
+
+You can contact us by email for comments or suggestions
+
+- about the newsletter at:[charities-bienfaisance-bulletin@ccra-adrc.gc.ca](mailto:charities-bienfaisance-bulletin@ccra-adrc.gc.ca)
+
+- about the RoadShow at:[information.sessions@ccra-adrc.gc.ca](mailto:information.sessions@ccra-adrc.gc.ca)
+
+- about the Web site at:[Charities-Bienfaisance@ccra-adrc.gc.ca](mailto:Charities-Bienfaisance@ccra-adrc.gc.ca)
+
+You can find all our publications at:[http://www.cra-arc.gc.ca/chrts-gvng/chrts/formspubs/menu-eng.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/charities-related-forms-publications.html)
+
+Draft publications for consultation are available at:[www.cra.gc.ca/tax/charities/consultations/menu-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/consultation-feedback-on-policies-guidance.html)
+
+For information on new additions about charities, see the “What’s new” page at:[www.cra.gc.ca/tax/charities/whatsnew/menu-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/whats-new.html)
+
+For an e-mail notification of these additions, subscribe to the free electronic mailing list at:[www.cra.gc.ca/eservices/maillist/subscribecharities-e.html](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-charities-giving-whats-new.html)
+
+A list of federal government contacts outside of the Charities Directorate, that may be of interest to charities, is available at:[www.cra.gc.ca/tax/charities/related_links/federal-e.html](https://www.canada.ca/chrts-gvng/chrts/fdrl-eng.html)
+
+1 Algoa Trust 93 DTC 404 (TCC) aff'd without reasons Feb. 4, 1998, Doc A-201-93 (Fed CA)

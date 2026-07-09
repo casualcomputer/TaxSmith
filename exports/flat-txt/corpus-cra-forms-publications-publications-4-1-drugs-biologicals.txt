@@ -1,0 +1,185 @@
+Title: Drugs and biologicals
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-1/drugs-biologicals.html
+Corpus path: corpus/cra/forms-publications/publications/4-1/drugs-biologicals.md
+Document type: publication
+Last modified: 2018-05-29
+
+# Drugs and biologicals
+
+GST/HST memorandum 4.1 June 2000
+
+Overview
+
+This memorandum explains the tax status of Drugs and biologicals as they relate to the Goods and Services Tax /Harmonized Sales Tax (GST/HST) provisions of the *Excise Tax Act* (the Act).
+
+Disclaimer
+
+The information in this memorandum does not replace the law found in the *Excise Tax Act* and its Regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation, or contact a Canada Revenue Agency (CRA) GST/HST Rulings Centre for more information. These centres are listed in GST/HST Memorandum 1.2, [Canada Revenue Agency GST/HST Rulings Centres](https://www.canada.ca/E/pub/gm/1-2/README.html). If you wish to make a technical enquiry on the GST/HST by telephone, please call the toll-free number 1-800-959-8287.
+
+If you are located in the Province of Quebec, please contact Revenu Québec by calling the toll-free number 1-800-567-4692 for additional information.
+
+This memorandum in Chapter 4, *Zero-Rated Supplies*, supersedes Memorandum 4.1, *Prescription Drugs and biologicals*, issued in January 1995. Due to the number of revisions, the changes have not been side-barred.
+
+Reference in this publication is made to supplies taxable at 7% or 15% (the rate of the HST). The 15% HST applies to supplies made in Nova Scotia, New Brunswick and Newfoundland (the "participating provinces"). If a person is uncertain as to whether the supply is made in a participating province, the person may refer to Technical Information Bulletin B-078, *Place of Supply Rules under* *the HST*, available from any Canada Customs and Revenue Agency (CCRA) tax services office.
+
+## Table of Contents
+
+- [General](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-1/drugs-biologicals.html)
+
+- [Drugs and biologicals](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-1/drugs-biologicals.html)
+
+- [Other drugs when supplied under prescription](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-1/drugs-biologicals.html)
+
+- [Provincially controlled drugs](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-1/drugs-biologicals.html)
+
+- [Over-the-counter drugs](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-1/drugs-biologicals.html)
+
+- [Not considered drugs for purposes of the GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-1/drugs-biologicals.html)
+
+- [Off-the-shelf non-presciption drugs](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-1/drugs-biologicals.html)
+
+- [Federally controlled drugs and substances](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-1/drugs-biologicals.html)
+
+- [Dispensing service and fees](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-1/drugs-biologicals.html)
+
+- [Human sperm](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-1/drugs-biologicals.html)
+
+- [Institutional health care service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-1/drugs-biologicals.html)
+
+- [Imports](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-1/drugs-biologicals.html)
+
+**Proposed amendments**
+
+This memorandum includes discussion on the proposed amendments that arise from Bill C-24 which received first reading on February 16, 2000. At the time of publication, Parliament has not enacted these proposed amendments. Any commentary in this memorandum should not be taken as a statement by the CCRA that such amendments will be enacted into law in their current form.
+
+## General
+
+Definition of medical practitioner Sch. VI, Part I, s 1
+
+1. The term "medical practitioner" means a person who is entitled under the laws of a province to practise the profession of medicine or dentistry.
+
+Definition of pharmacist Sch. VI, Part I, s 1
+
+2. The term "pharmacist" means a person who is entitled under the laws of a province to practise the profession of pharmacy.
+
+Definition of prescription Sch. VI, Part I, s 1
+
+3. The term "prescription" means a written or verbal order, given to a pharmacist by a medical practitioner, directing that a stated amount of any drug or mixture of drugs specified in the order be dispensed for the individual named in the order.
+
+## Drugs and biologicals
+
+General
+
+4. Part I of Schedule VI lists the drugs, substances and biologicals that are zero-rated under the Act.
+
+Agricultural or veterinary use Sch. VI, Part 1, s 2
+
+5. Agricultural or veterinary drugs are not zero-rated under the Act. Therefore, the supply of a drug when it is labelled or supplied for agricultural or veterinary use only is taxable at 7% or 15%.
+
+## Other drugs when supplied under prescription
+
+6. To be zero-rated, the supply of the drugs discussed in paragraphs 12 and 13 will generally not require a prescription when supplied to a consumer. However, consumers can generally only get these drugs with a prescription. Supplies of certain other drugs not included in the regulatory schedules discussed in paragraphs 12 and 13 are also zero-rated when supplied under prescription. This is the case with drugs generically known as over-the-counter drugs.
+
+Sch. VI, Part I, s 3
+
+7. Notwithstanding the restrictions discussed in the paragraphs 12 and 13, which apply to the zero-rating of some drugs, the supply of any drug for human consumption is zero-rated when it is:
+
+1. dispensed by a medical practitioner to an individual for the personal consumption or use by that individual or a relative of that individual; or
+
+2. prescribed by a medical practitioner for the personal consumption or use of the individual named in the prescription.
+
+## Provincially controlled drugs
+
+Sch. VI, Part I, s 3
+
+8. Under authority of the statutes relating to the practice of pharmacy, provincial governments may identify drugs that must be sold under prescription. The list of these drugs is different in each province. Zero-rated relief applies to these drugs in their respective provinces when they are supplied under the circumstances described in paragraph 7.
+
+## Over-the-counter drugs
+
+9. The supply of over-the-counter drugs is generally taxable at 7% or 15% except where the drug is supplied under the prescription of a medical practitioner. An over-the-counter drug is physically controlled by a pharmacist. Consumers have to ask a pharmacist for an over-the-counter drug as opposed to products that a consumer can take directly off the shelf for purchase.
+
+## Not considered drugs for purposes of the GST/HST
+
+10. Some products are intended for the treatment of minor ailments but are not considered to be drugs. These products can be purchased in a variety of retail outlets. Examples of these products include medicated shampoos and cough drops. These products are taxable at 7% or 15%.
+
+## Off-the-shelf non-prescription drugs
+
+11. The supply of non-prescription drugs available off the shelf in pharmacies, grocery stores and other retail outlets is taxable at 7% or 15%.
+
+## Federally controlled drugs and substances
+
+General Sch. VI, Part I, s 2
+
+12. The supply of any drug or substance included in paragraphs 2(a) through (f) of Part I of Schedule VI is zero-rated. These drugs or substances are zero-rated throughout the production and distribution chain (i.e., regardless of who sells them). These are as follows:
+
+Schedule C or D,*Food* a*nd Drugs Act* Sch. VI, Part I, para 2(a)
+
+- Drugs included in Schedule C or D to the *Food and Drugs Act*; Schedule C drugs are essentially those, other than radionuclides, represented for use in the radiopharmaceuticals. Schedule D drugs are biologic. These drugs include: allergenic substances used for the treatment or diagnosis of allergic or immunological diseases, blood, vaccines, blood derivatives and certain hormones, and enzymes extracted from animal tissues or cultures of micro-organisms.
+
+Schedule F, *Food and* *Drug Regulations* Sch. VI, Part I, para 2(b)
+
+- Drugs included in Schedule F to the *Food and Drug Regulations;*Included are classes of drugs such as antibiotics, hormones and tranquillisers. The supply of such a drug or mixture of drugs that may, pursuant to the *Food and* *Drugs Act* or the Regulations, be sold to a consumer without a prescription is taxable at 7% or 15%, except when purchased under a prescription in which case the supply would be zero-rated.
+
+Schedule to Part G, *Food and Drug Regulations* Sch. VI, Part I, para 2(c)
+
+- Drugs or other substances included in the schedule to Part G of the *Food and Drug Regulations*; and These drugs or other substances are classified as controlled drugs and include stimulants (such as amphetamines and methamphetamines) and sedatives (such as barbituric acid and methaqualone). This amendment applies to supplies made on or after May 14, 1997, when the corresponding change was made to the cross-referenced *Food and Drug Regulations*. These drugs were formerly zero-rated by reference to Schedule G to the *Food and Drugs Act*. The drugs included in the schedule to Part G of the *Food and* *Drug* *Regulations* may only be prescribed under certain conditions.
+
+Schedule, *Narcotic* *Control Regulations* Sch. VI, Part I, para 2(d)
+
+- A drug that contains a substance included in the schedule to the *Narcotic Control Regulations*, other than a drug or mixture of drugs that may be sold to a consumer without a prescription pursuant to the *Controlled Drugs and Substances Act* or regulations made under that Act. The supply of the drugs or mixtures of drugs which may be sold without a prescription is taxable at 7% or 15% except when purchased under a prescription in which case the supply would be zero-rated. This amendment applies to supplies made on or after May 14, 1997, when the corresponding change was made to the cross-referenced *Controlled Drugs and Substances Act* or regulations made under that Act. These drugs were formerly zero-rated by reference to the schedule to the *Narcotic Control Act*.
+
+Non-prescription drugs for life-threatening conditions Sch. VI, Part I, para 2(e)
+
+- Some specific drugs used to treat life-threatening conditions namely:
+
+    - Digoxin
+
+    - Digitoxin
+
+    - Prenylamine
+
+    - Deslanoside
+
+    - Erythrityl tetranitrate
+
+    - Isosorbide dinitrate
+
+    - Nitroglycerine
+
+    - Quinidine and its salts
+
+    - Medical oxygen
+
+    - Epinephrine and its salts
+
+Drugs for use in emergency treatment Sch. VI, Part I, para 2(f)
+
+- Drugs to be used in emergency treatment authorized by Health Canada under the *Food and Drug Regulations*. This is known as the Emergency Drug Release Program.
+
+New drug submissions
+
+13. When Health Canada approves a new drug for inclusion under any of the acts and/or regulations referred to in Part I of Schedule VI, the supply of the drug is zero-rated for GST/HST purposes effective the date the new drug is included in the act and/or regulation.
+
+## Dispensing service and fees
+
+Dispensing service and fees Sch. VI, Part I, s 4
+
+14. The supply of a service of dispensing a drug for human use is zero-rated. At the retail level, drugs may only be dispensed by a pharmacist. Normally, pharmacists charge fees for dispensing prescription drugs. These fees, known as "dispensing fees", are zero-rated when supplied in conjunction with the supply of zero-rated prescription drugs.
+
+## Human sperm
+
+Sch. VI, Part I, s 5
+
+15. A supply of Human sperm is zero-rated.
+
+## Institutional health care service
+
+Sch. V, Part II, s 2
+
+16. Where zero-rated drugs or biologicals are supplied in a health care facility as part of an institutional health care service, the supply is exempt. More information about exempt institutional health care services is available in GST Memorandum 300-4-2, *Health Care* *Services* (to be reissued in Chapter 5, *Exempt Supplies*).
+
+## Imports
+
+Sch. VII, s 6
+
+17. Drugs, the supply of which is zero-rated under Part I of Schedule VI, are non-taxable when imported into Canada.

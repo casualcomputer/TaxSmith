@@ -1,0 +1,325 @@
+Title: ARCHIVED - Policyholders - Income from Life Insurance Policies
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it87r2/archived-policyholders-income-life-insurance-policies.html
+Corpus path: corpus/cra/forms-publications/publications/it87r2/archived-policyholders-income-life-insurance-policies.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Policyholders - Income from Life Insurance Policies
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO.: **IT-87R2**
+
+DATE: February 15, 1996
+
+SUBJECT: INCOME TAX ACT**Policyholders Income from Life Insurance Policies**
+
+REFERENCE: Section 12.2 (also subsections 12(3), 20(20), and 148(1), (2), (4), (8), (8.1) and (8.2), and the definitions of "life insurance policy" in subsection 138(12), and "adjusted cost basis" and "disposition" in subsection 148(9); and paragraphs 56(1)(d.1) and (j) of the Income Tax Act; and sections 304 to 307; subsections 201(5), 217(2), 308(1), 309(1) and (2), and the definitions of "net cost of pure insurance" in subsection 308(1) and "modified net premiums" in subsection 1404(2); and paragraphs 1401(1)(a) and (c) of the Income Tax Regulations)
+
+**Notice to the reader:**
+
+- [Bulletins do not have the force of law](https://www.canada.ca/formspubs/pbs/tntc-eng.html).
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it87r2.html).
+
+Application
+
+This bulletin cancels and replaces Interpretation Bulletin IT-87R dated February 28, 1986.
+
+Summary
+
+This bulletin deals with the treatment of policyholders' income from certain life insurance policies and annuity contracts. It outlines the basis on which various types of taxpayers must report accrued investment income for policies last acquired before or after certain relevant dates. With some exceptions (e.g., an exempt policy), a taxpayer must report the accrued investment income on a life insurance policy or an annuity on an annual basis. However, if the policy or annuity was last acquired before 1990 and the policyholder is an individual, the accrued investment income must generally be reported every three years, unless the individual has elected to report the income on an annual basis.
+
+The bulletin also discusses in general the tax implications arising from the disposition or deemed disposition of a life insurance policy or annuity contract.
+
+Discussion and Interpretation
+
+General
+
+1. Issuers of life insurance policies are required by the rules set out in subsections 201(5) and 217(2) of the Income Tax Regulations to report on an information return (Form T4A or T5), the amount, if any, that a policyholder must include in income for a taxation year in respect of any such policy. The determination of such amounts generally requires information that is available only in the accounts of the issuer. Accordingly, the paragraphs which follow serve only to inform taxpayers of the taxability of earnings arising from life insurance policies. Policyholders can obtain specific details about the taxability of amounts related to their policies from the issuer of the policy.
+
+2. The term "life insurance policy" is broadly defined in subsection 138(12). In addition to a regular life insurance policy, it includes an annuity contract and a contract for which all or any part of the insurer's reserves vary in amount depending on the fair market value of a specified group of assets (i.e., a "segregated fund"). Unless otherwise stated, a reference to a "life insurance policy" in this bulletin includes an annuity contract, but not a segregated fund policy. There are special rules that apply to segregated fund policies. However, a discussion of these rules is beyond the scope of this bulletin.
+
+3. The terms "accumulating fund" and "adjusted cost basis" are relevant to the taxation of accrual income under a life insurance policy and the taxation of income from the disposition of such a policy. These terms are explained below.
+
+Accumulating fund
+
+In general terms, the "accumulating fund" of a life insurance policy is a measure of the accumulated savings that have built up within the policy. To calculate the accumulating fund, it is necessary to refer to section 307 of the Regulations. Under this provision, the calculation may differ depending on the type of life insurance policy issued. For instance, the accumulating fund in respect of an interest in an annuity contract (other than a contract issued by a life insurer) is determined under paragraph 307(1)(a) of the Regulations and is essentially the greater of:
+
+- the cash surrender value of the interest less outstanding loans made under the contract in respect of the interest; and
+
+- the excess of the present value of future payments over the sum of outstanding loans made under the contract in respect of the interest and the present value of future premiums.
+
+In the case of an interest in a life insurance policy (other than an annuity contract referred to above), the accumulating fund is determined under paragraph 307(1)(b) of the Regulations.
+
+Generally, it is the proportion of the taxpayer's interest in the policy of the maximum amount determined by the life insurer under paragraph 1401(1)(a) or (c) of the Regulations. Paragraph 1401(1)(a) of the Regulations determines the maximum reserve a life insurer can deduct in computing its income in respect of a deposit administration fund policy. Paragraph 1401(1)(c) of the Regulations determines the reserve for other types of life insurance policies and can generally be described as the greater of:
+
+- the cash surrender value of the policy less outstanding policy loans in respect of the policy; and
+
+- the excess of the present value of future benefits over the sum of outstanding policy loans and the present value of future modified net premiums (the term "modified net premiums" is defined in subsection 1404(2) of the Regulations).
+
+Note that paragraph 307(1)(b) of the Regulations does not apply to determine the accumulating fund of an exemption test policy. Such a policy is a notional policy used to determine if a life insurance policy qualifies as an exempt policy and is therefore exempt from accrual taxation (see 4(a) below and section 306 of the Regulations).
+
+Adjusted cost basis
+
+The "adjusted cost basis" (ACB) to a policyholder of an interest in a life insurance policy is defined in subsection 148(9). The ACB is essentially the cost of the interest in the policy adjusted for certain items. The more common items that increase the ACB include premiums paid under the policy and any amount required to be included in income under section 12.2. Some of the more common items that reduce the ACB include:
+
+- the proceeds of the disposition of the policyholder's interest in the policy;
+
+- in the case of an interest in a life insurance policy (other than an annuity contract) last acquired after December 1, 1982, the "net cost of pure insurance," as defined in subsection 308(1) of the Regulations, determined immediately before the end of the calendar year ending in a taxation year commencing after May 31, 1985; and
+
+- in the case of an interest in an annuity contract to which subsection 12.2(1) applies for the year, or would apply if the contract had an anniversary day in the year and while the policyholder held the interest, annuity payments paid out of the contract.
+
+POLICIES LAST ACQUIRED AFTER 1989
+
+Accrual rules under subsection 12.2(1)
+
+4. When a taxpayer holds an interest in a life insurance policy last acquired after 1989, subsection 12.2(1) generally requires the taxpayer to report accrued income (see 5 below) relevant to the policy on an annual basis. However, subsection 12.2(1) specifically excludes interests in the following types of policies from accrual taxation:
+
+(a) an exempt policy, as prescribed by section 306 of the Regulations for the purposes of the definition in subsection 12.2(11) (An exempt policy is a policy which is issued mainly for insurance protection and not for investment purposes. Policyholders must generally rely on the issuer of a life insurance policy to determine if it is an exempt policy because the determination requires information which may not be available in life insurance contracts themselves.);
+
+(b) a prescribed annuity contract, as defined in section 304 of the Regulations; and
+
+(c) a contract under which the policyholder has received proceeds in the form of an annuity contract under the terms and conditions of a life insurance policy that was not an annuity contract and that was last acquired before December 2, 1982.
+
+5. Subsection 12.2(1) applies to any taxpayer who, in a taxation year, holds an interest in a life insurance policy, other than the types of policies described in 4(a) to (c) above, on any anniversary day of the policy. Such a taxpayer is required to include in computing income for the year the excess of the accumulating fund (see 3 above) in respect of the taxpayer's interest in the policy on the anniversary day over the adjusted cost basis (see 3 above) to the taxpayer of that interest on that day. The "anniversary day" of a life insurance policy is defined in subsection 12.2(11) as:
+
+- the day that is one year after the day immediately before the issue date of the policy; and
+
+- the day that occurs at every successive one-year interval from the day determined above.
+
+For example, if a policy is issued on July 1, 1994, the policy's first anniversary day is June 30, 1995. Accordingly, income accrued between July 1, 1994 and June 30, 1995 will be included in income for the policyholder's taxation year that includes June 30, 1995, unless the policy is disposed of at an earlier date.
+
+POLICIES LAST ACQUIRED BEFORE 1990
+
+6. The provisions in section 12.2 as amended by S.C. 1990, c. 39 (formerly Bill C-28) apply only to life insurance policies last acquired after 1989. The provisions of the section prior to the amendment continue to apply to life insurance policies last acquired before 1990 and are referred to in this bulletin as "former" provisions. A summary of the accrual rules under section 12.2 as they apply to policies last acquired before 1990 and after 1989 is contained in the appendix at the end of this bulletin.
+
+Accrual rules under former subsections 12.2(1) and (3)
+
+7. As mentioned in 4 above, subsection 12.2(1) generally applies to an interest in a life insurance policy last acquired after 1989 by any taxpayer. In the case of policies last acquired before 1990, separate rules apply to corporate policyholders and individual policyholders.
+
+(a) If the taxpayer is a corporation, partnership, unit trust, or a trust with a corporation or partnership as a beneficiary, former subsection 12.2(1) requires the taxpayer to report on an annual basis the accrued income relevant to the policy. The amount of accrued income that must be reported is the excess of the accumulating fund in respect of the taxpayer's interest at the end of the calendar year ending in the taxation year over the adjusted cost basis of the interest to the taxpayer at the end of that calendar year.
+
+(b) If the taxpayer is not someone described in (a) above, but is, for example, an individual or a trust where all beneficiaries are individuals, former subsection 12.2(3) requires the taxpayer to report accrued income relevant to the policy, as determined under that subsection, every three years. A taxpayer who is subject to this rule may elect under former subsection 12.2(4) to report the policy earnings on an annual basis. To make this election in respect of a particular life insurance policy, taxpayers must notify the issuer of the policy, in writing, that they intend to report the investment income as it accrues on an annual basis.
+
+8. Subject to 9 below, the accrual rules in former subsections 12.2(1) and (3) (set out in 7 above) apply to:
+
+- an interest in a life insurance policy last acquired after December 1, 1982;
+
+- in the case of former subsection 12.2(1), an interest in an annuity contract last acquired after December 19, 1980 and before December 2, 1982 under which annuity payments did not commence before December 2, 1982; and
+
+- in the case of former subsection 12.2(3), an interest in an annuity contract last acquired before December 2, 1982 under which annuity payments did not commence before December 2, 1982.
+
+These rules apply to taxation years commencing after 1982. Note that if former subsection 12.2(9) applies to a life insurance policy last acquired before December 2, 1982 (see 10 below), the policy will be subject to the accrual rules in former subsection 12.2(1) or (3), whichever is applicable.
+
+9. Specifically excluded under the accrual rules in former subsection 12.2(1) or (3) are interests in the following types of policies:
+
+- an exempt policy as described in 4(a) above (former paragraphs 12.2(1)(c) and 12.2(3)(c));
+
+- a prescribed annuity contract (former paragraph 12.2(3)(d)); and
+
+- a policy as described in 4(c) above (former paragraphs 12.2(1)(d) and 12.2(3)(e)).
+
+Effect of former subsection 12.2(9) on pre-December 2, 1982 policies
+
+10. Former subsection 12.2(9) provides that a life insurance policy last acquired before December 2, 1982 will be treated for tax purposes as a policy that was last acquired after December 1, 1982, if, at any time after December 1, 1982:
+
+(a) a premium as prescribed in subsection 309(1) of the Regulations (other than a premium referred to in subsection 12.2(8)) has been paid in respect of an interest in the policy; and either
+
+(b) the policy is not an exempt policy; or
+
+(c) there has been an increase, as prescribed in subsection 309(2) of the Regulations, in any benefit on death under the policy.
+
+When former subsection 12.2(9) applies, the policy will be subject to the accrual rules in former subsection 12.2(1) or (3) (see 7 to 9 above).
+
+Unfixed premiums
+
+11. Subsection 12.2(8) applies to an annuity contract last acquired before 1990 if the premiums paid after 1989 under the contract were not fixed before 1990. Under subsection 12.2(8), the first premium paid after 1989 under the contract which was not fixed before 1990 is deemed to have been paid to acquire an interest in a separate annuity contract at the time it is paid to the extent that the amount of the premium was not fixed before 1990. Subsection 12.2(8) further deems any subsequent premiums paid under the original annuity contract to have been paid under that separate contract to the extent that such premiums were not fixed before 1990. The separate annuity contract will be subject to annual accrual taxation under subsection 12.2(1), unless it is a prescribed annuity contract. Subsection 12.2(8) does not apply to:
+
+- contracts described in 4(c) above; or
+
+- contracts already subject to annual accrual reporting pursuant to former subsection 12.2(1) or (4), or subsection 12(3).
+
+In the case of an annuity contract (subject to certain exceptions) last acquired before December 2, 1982, any premiums paid after December 1, 1982 and before 1990 under the contract are deemed to have been paid to acquire an interest in a separate annuity contract to the extent that the premiums were not fixed before December 2, 1982. The separate contract will be subject to accrual taxation as described in 7(a) or (b), whichever is applicable.
+
+Riders
+
+12. A rider added at any time after 1989 to a life insurance policy (other than an annuity contract) last acquired before 1990 is subject to the provisions of subsection 12.2(10). (A rider is an attachment or addition to the policy that modifies its conditions or coverage.) This subsection is designed to prevent an individual from obtaining additional life insurance that is not subject to annual accrual reporting by adding the additional insurance to an existing policy subject to triennial accrual. When a rider providing for additional life insurance (other than an accidental death benefit) is added to a life insurance policy held by any taxpayer, subsection 12.2(10) deems the rider to be a separate life insurance policy issued at the time the rider itself was added. As a result, the separate policy will be subject to the annual accrual rules in subsection 12.2(1). In the case of a rider added at any time after December 1, 1982 and before 1990 to a policy (other than an annuity contract) last acquired before December 2, 1982, if subsection 12.2(10) applies to treat the rider as a separate life insurance policy, the separate policy will be subject to the accrual rules in former subsection 12.2(1) or (3) as described in 7(a) and (b) above.
+
+Note: The draft legislation released by the Minister of Finance on April 26, 1995 contains a proposal to amend subsection 12.2(10) so that it does not apply to a rider added after 1994 to an exempt policy last acquired after December 1, 1982. The exclusion makes the treatment of such riders consistent with the treatment of riders added to exempt policies acquired after 1990. In both cases, if the rider causes the exempt policy to lose its exempt status, the policy will become subject to annual accrual reporting.
+
+OTHER COMMENTS RELATED TO ACCRUAL TAXATION
+
+Negative adjusted cost basis (ACB)
+
+13. Subsection 12.2(5) applies when the ACB of an annuity contract is a negative amount at the end of a taxation year. This rule ensures that accrued income is brought into income even if, for example, the contract expires in the year. When a taxpayer holds an interest in an annuity contract last acquired after 1989 to which subsection 12.2(1) applies or would apply if the contract had an anniversary day in the year while the taxpayer held it, subsection 12.2(5) requires the taxpayer to include in income for the year the amount, if any, by which:
+
+(a) the total of the amounts determined at the end of the year under any of H to L in the definition of ACB in subsection 148(9) in respect of the taxpayer's interest in the contract,
+
+exceeds
+
+(b) the total of all amounts determined at the end of the year under any of A to G in the definition referred to in (a) above.
+
+In the case of an interest in an annuity contract last acquired before 1990, if the ACB of the interest becomes negative at the end of the year, the negative amount is generally included in income if the contract is one to which former subsection 12.2(1), (3), or (4) applies or would apply if the contract had a third anniversary in the year.
+
+DISPOSITIONS OF INTERESTS
+
+14. When a policyholder disposes of an interest in a life insurance policy, the rules in paragraph 56(1)(j) and subsection 148(1) apply. These rules require the policyholder to include in income for the taxation year in which the disposition occurs the amount, if any, by which the proceeds of the disposition of the policyholder's interest that the policyholder, beneficiary or assignee is entitled to receive in the year exceed the ACB to the policyholder of that interest immediately before the disposition. When a policyholder disposes of an interest in a life insurance policy for which income has been reported in accordance with the accrual rules explained in 4 or 7 above, double taxation of such income does not occur because the amount of income that has already been reported increases the ACB of the policy.
+
+15. Subsection 20(20) provides a deduction in respect of income accrued but not received under a life insurance policy at the time of disposition. The deduction under subsection 20(20) is limited to the lesser of:
+
+- the total of all amounts in respect of the policyholder's interest in the policy that were included in the policyholder's income under section 12.2 or former paragraph 56(1)(d.1); and
+
+- the excess of the ACB of the policyholder's interest over the proceeds of the disposition that the policyholder, a beneficiary or an assignee is entitled to receive.
+
+Subsection 20(20) does not apply to dispositions on death of an interest in a life insurance policy that is not an annuity contract or dispositions of an interest in a prescribed annuity contract.
+
+16. A "disposition" of an interest in a life insurance policy is defined in subsection 148(9) as including:
+
+- a surrender of the interest;
+
+- a policy loan made after March 31, 1978;
+
+- the dissolution of the interest by virtue of the maturity of the policy; and
+
+- a disposition of the interest by operation of law only.
+
+Certain transactions are specifically excluded from the definition of "disposition." For example, a payment resulting from the death of the insured person under a life insurance policy (other than an annuity contract) that was last acquired before December 2, 1982, or that is an exempt policy, is not a disposition. As a result, the payment is received tax-free.
+
+17. In addition to the definition of "disposition" in subsection 148(9), subsection 148(2) may apply to deem the policyholder to have disposed of all or part of an interest in a life insurance policy in certain circumstances. For instance, a disposition is deemed to occur:
+
+- when a policyholder is entitled to receive a policy dividend (see 19 below); or
+
+- when a life insurance policy is subject to the accrual taxation and the life insured or annuitant dies.
+
+In the latter case, the policyholder is deemed by paragraph 148(2)(b) to have disposed of the policy immediately before the death. As a result, the policyholder will have to include in income any income that has accrued since the last anniversary day, but any death benefit will be received tax-free.
+
+18. To the extent permitted by subsection 148(8), (8.1) or (8.2), a transfer of an interest in a life insurance policy to the policyholder's child or spouse may be made on a tax-deferred basis. The policyholder is deemed to have been disposed of the interest for proceeds of the disposition equal to the ACB of the interest immediately before the transfer and the child or spouse is deemed to have acquired the interest at a cost equal to those proceeds.
+
+Policy dividends
+
+19. Paragraph 148(2)(a) applies when a policyholder is entitled to receive a policy dividend. It deems the policyholder to have disposed of an interest in the policy for proceeds equal to the amount of such a dividend. However, when the policy dividend is received or receivable in taxation years commencing after December 20, 1991, any part of the dividend that is automatically used to pay a premium under the policy or to repay a policy loan under the policy, as provided for under the terms and conditions of the policy, is not included in the proceeds of the disposition. If the total of policy dividends that a policyholder is entitled to receive in a year exceeds the ACB of the policy, the policyholder has to include that excess amount in income for that year.
+
+Calculation of income from partial disposition
+
+20. Subsection 148(4) provides a special rule to calculate a policyholder's income when the policyholder disposes of part of an interest in a life insurance policy (other than an annuity contract) last acquired after December 1, 1982 or an annuity contract. In calculating the income from disposition, only the ACB of the portion of the policyholder's interest disposed of is deductible. Under subsection 148(4), the ACB of the part interest is the proportion of the ACB of the policyholder's entire interest in the policy or contract that the proceeds of the disposition is of the accumulating fund of the entire interest immediately before the disposition. Subsection 148(4) does not apply to partial dispositions resulting from a declaration of a policy dividend or the taking of a policy loan.
+
+Other bulletins
+
+21. In connection with the subject matter of this bulletin, the current versions of the following interpretation bulletins may be of interest to the reader:
+
+- IT-66 Capital Dividends
+
+- IT-85 Health and Welfare Trusts for Employees
+
+- IT-111 Annuities Purchased from Charitable Organizations
+
+- IT-223 Overhead Expense Insurance vs. Income Insurance
+
+- IT-227 Group Term Life Insurance Premiums
+
+- IT-244 Gifts by Individuals of Life Insurance Policies as Charitable Donations
+
+- IT-309 Premiums on Life Insurance Used as Collateral
+
+- IT-355 Interest on Loans to Buy Life Insurance Policies and Annuity Contracts, and Interest on Policy Loans
+
+- IT-408 Life Insurance Policies as Investments of Registered Retirement Savings Plans and Deferred Profit Sharing Plans
+
+- IT-416 Valuation of Shares of a Corporation Receiving Life Insurance Proceeds on Death of a Shareholder
+
+- IT-430 Life Insurance Proceeds Received by a Private Corporation or a Partnership as a Consequence of Death
+
+If you have any comments regarding the matters discussed in this bulletin, please send them to:
+
+Director, Technical Publications Division Policy and Legislation Branch Revenue Canada 875 Heron Road Ottawa ON K1A 0L8
+
+APPENDIX
+
+SUMMARY OF THE ACCRUAL RULES UNDER SECTION 12.2
+
+LIFE INSURANCE POLICIES LAST ACQUIRED AFTER 1989
+
+| By any Taxpayer | annual accrual reporting Under subsection 12.2(1) | see ¶ 5 and exceptions in ¶ 4 |
+
+| --- | --- | --- |
+
+LIFE INSURANCE POLICIES LAST ACQUIRED BEFORE 1990
+
+| life insurance policy last acquired after December 1, 1982 and before 1990 | annual accrual reporting required under former subsection 12.2(1) | see ¶s 7(a) and 8 and exceptions in ¶ 9 |
+
+| --- | --- | --- |
+
+| annuity contract last acquired after December 19, 1980 and before December 2, 1982 under which annuity payments did not commence before December 2, 1982 | same as above | same as above |
+
+| life insurance policy last acquired after December 1, 1982 and before 1990 | triennial accrual reporting required under former subsection 12.2(3) unless an election has been made under former subsection 12.2(4) to report on an annual accrual basis | See ¶s 7(b) and 8 and exceptions in ¶ 9 |
+
+| --- | --- | --- |
+
+| annuity contract last acquired after December 19, 1980 and before December 2, 1982 under which annuity payments did not commence before December 2, 1982 | same as above | same as above |
+
+Explanation of Changes for Interpretation Bulletin IT-87R2 Policyholders' Income from Life Insurance Policies
+
+Introduction
+
+The purpose of the Explanation of Changes is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+Overview
+
+This bulletin deals with the application of the income accrual rules in section 12.2 to certain life insurance policies and annuity contracts. It also discusses in general the tax implications arising from the disposition or deemed disposition of a life insurance policy or annuity contract.
+
+We revised the bulletin to reflect amendments to the Income Tax Act enacted in S.C. 1986, c. 6 (formerly Bill C-84); S.C. 1990, c. 39 (formerly Bill C-28); S.C. 1994, c. 7, Sch. II (1991, c. 49 - formerly Bill C-18); and S.C. 1994, c. 7, Sch. VIII (1993, c. 24 - formerly Bill C-92).
+
+The draft legislation released by the Minister of Finance on April 26, 1995 contains a proposal to amend subsection 12.2(10). The proposed amendment is reflected in a note at the end of 12. The comments in this bulletin are not affected by any other draft legislation released before January 8, 1996.
+
+Legislative and other changes
+
+No.1, which currently refers to Form T5, has been revised to also refer to Form T4A.
+
+No.2 has been revised to clarify that the comments in the bulletin relate to both life insurance policies and annuity contracts, unless otherwise stated. In addition, No.2 notes that the bulletin does not apply to segregated fund policies.
+
+New No.3 provides an explanation of the terms "accumulating fund" and "adjusted cost basis."
+
+New No.4 explains the general rule in subsection 12.2(1), which was amended to combine the annual reporting requirements in former subsections 12.2(1) and (3). No.4 also sets out the exceptions to subsection 12.2(1).
+
+New No.5 describes the calculation of the amount policyholders are required to include in income under subsection 12.2(1). It also includes the definition of "anniversary day" in subsection 12.2(11).
+
+New No.6 explains that the provisions in section 12.2 were amended by Bill C-28. However, the provisions prior to the amendment still continue to apply to a life insurance policy last acquired before 1990 and are referred to in the bulletin as "former" provisions.
+
+The comments in former No.6, which described the interaction between subsection 89(2) and the life insurance capital dividend account of a corporation, have been removed since the rules relating to the life insurance capital dividend account were repealed applicable after May 23, 1985.
+
+New No.7 (former No.3) covers the income accrual rules in former subsections 12.2(1) and (3), as well as the election under former subsection 12.2(4).
+
+New No.8 comments on the application of former subsections 12.2(1) and (3). It also mentions that where former subsection 12.2(9) applies to a life insurance policy last acquired before December 2, 1982, the policy will be subject to the income accrual rules in former subsection 12.2(1) or (3), whichever is applicable.
+
+New No.9 (former No.4), which describes the exceptions to former subsections 12.2(1) and (3), has been revised to add a reference to the type of policy described in former paragraphs 12.2(1)(d) and 12.2(3)(e).
+
+New No.10 (former No.5) discusses subsection 12.2(9) which sets out the circumstances in which changes to a life insurance policy last acquired before December 2, 1982 will result in the policy being treated as a policy last acquired after December 1, 1982. While subsection 12.2(9) was repealed, applicable to policies last acquired after 1989, this former provision continues to apply to policies issued before December 2, 1982 in the circumstances described in No.10.
+
+New No.11 explains the application of subsection 12.2(8) which provides that an annuity contract last acquired before 1990 will be subject to annual accrual taxation to the extent of any premiums paid after 1989 that were not fixed before 1990.
+
+New No.12 discusses subsection 12.2(10) which provides that certain riders added to life insurance policies are to be treated as separate life insurance policies. The note at the end of No.12 describes the proposed amendment to subsection 12.2(10) contained in the draft Amendments to the Income Tax Act and Related Statutes issued by the Minister of Finance on April 26, 1995.
+
+New No.13 deals with the rule in subsection 12.2(5). Under subsection 12.2(5), when the adjusted cost basis of an annuity contract is negative at the end of a taxation year, the policyholder is required to include the negative amount in income for the year.
+
+New Nos 14 to 17 replace former No.7. New No.15 discusses subsection 20(20) which allows a deduction for income accrued but not received under certain life insurance policies at the time of disposition. New No.16 has been revised to add that a life insurance policy (other than an annuity contract) that was last acquired before December 2, 1982, or that is an exempt policy, is not considered to be disposed of when the person whose life is insured under the policy dies. New No.17 describes the tax consequences when the life insured or annuitant under a life insurance policy that is subject to accrual reporting dies.
+
+New No.18 refers to subsections 148(8) to (8.2) which allow transfers of interests in life insurance policies to family members on a tax- deferred basis under certain circumstances.
+
+New No.19 (former No.8) reflects an amendment to paragraph 148(2)(a) to exclude from the proceeds of the disposition any part of a policy dividend that is automatically applied to pay a premium or repay a policy loan, as provided for under the terms and conditions of the policy.
+
+New No.20 deals with subsection 148(4) which provides a special rule in calculating a policyholder's income when part of an interest in a life insurance policy is disposed of.
+
+New No.21 lists other bulletins that may be of interest to the reader.
+
+We have added an appendix which summarizes the accrual rules under section 12.2 as they apply to policies last acquired before 1990 and after 1989.
+
+Throughout the bulletin, we have made a number of minor changes to improve the overall clarity and readability of the bulletin.

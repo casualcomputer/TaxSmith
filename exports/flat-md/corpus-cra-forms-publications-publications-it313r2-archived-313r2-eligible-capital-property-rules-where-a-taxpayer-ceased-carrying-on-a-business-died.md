@@ -1,0 +1,218 @@
+---
+title: "ARCHIVED - Income Tax Interpretation Bulletin"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it313r2/archived-313r2-eligible-capital-property-rules-where-a-taxpayer-ceased-carrying-on-a-business-died.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Income Tax Interpretation Bulletin
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## Eligible Capital Property - Rules Where a Taxpayer Has Ceased Carrying on a Business or Has Died
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-313R2**
+
+DATE: April 21, 1995
+
+SUBJECT: INCOME TAX ACT**Eligible Capital Property - Rules Where a Taxpayer Has Ceased Carrying on a Business or Has Died**
+
+REFERENCE: Section 24 and subsection 70(5.1) (also section 14 and 25, subsections 70(3.1), 248(8), 248(9), 248(23.1), 252(4) and 256(5.1) and paragraph 20(1)(b)) of the Income Tax Act and section 21 of the Income Tax Application Rules, 1971 (ITAR))
+
+Application
+
+This bulletin cancels and replaces Interpretation Bulletin IT-313R, Eligible Capital Property - Ceasing to Carry on Business, dated October 10, 1978, and the Special Release to that bulletin dated May 25, 1984, as well as IT-344R, Eligible Capital Property - Deceased Persons, dated May 8, 1987.
+
+Summary
+
+Eligible capital property of a business is intangible capital property, such as goodwill and other "nothings", the cost of which neither qualifies for capital cost allowance nor is fully deductible as a current expense in the year of its acquisition. This bulletin explains the rules for eligible capital property that apply if a taxpayer has ceased carrying on a business or has died. Generally, when a taxpayer has ceased carrying on a business and has disposed of all its eligible capital property of any value, a final positive balance in the eligible capital property pool is deducted by the taxpayer as a terminal allowance. A final negative balance, on the other hand, results in an amount being included in income.
+
+As an exception to the above rule, an individual generally cannot claim a terminal allowance if the business is subsequently carried on by the individual's spouse or controlled corporation. Instead, the final positive balance in the pool, as well as the make-up of the pool for purposes of calculating income inclusions, is "rolled over" from the individual to the spouse or controlled corporation.
+
+Generally, where an eligible capital property is transferred to a beneficiary as a result of a taxpayer's death and the rules for a rollover to the taxpayer's spouse or controlled corporation do not apply, the taxpayer is deemed to have disposed of the property for proceeds that are based on the property's proportionate share of the pool balance. If the beneficiary does not continue carrying on the deceased taxpayer's business, the beneficiary is deemed to have acquired the property as a capital property for an amount equal to the deceased taxpayer's deemed proceeds. If, on the other hand, the beneficiary continues carrying on the deceased taxpayer's business, the property's proportionate share of the pool balance and make-up of the pool (for purposes of calculating income inclusions) is rolled over from the deceased taxpayer to the beneficiary.
+
+This bulletin also discusses a rule that can apply when a successor has acquired a government right (which is a type of eligible capital property) from a person with whom the successor was not dealing at arm's length.
+
+Discussion and Interpretation
+
+An Overview of the Eligible Capital Property Rules for an Ongoing Business
+
+1. The following is a summary of the current rules (the "new system" of rules, which began in 1988) pertaining to the eligible capital property ("EC property") of an ongoing business. The cumulative eligible capital ("cumulative EC") for a business is, in effect, an expenditure pool (the "pool") relating to the EC property for that business. The pool is increased by three-quarters (the "inclusion rate") of each eligible capital expenditure ("EC expenditure") made to acquire EC property. The pool is decreased by each eligible capital amount ("EC amount"), which is essentially equal to three-quarters of the net proceeds from the disposition of an EC property. A deduction is allowed under paragraph 20(1)(b) of up to 7% of any positive balance in the pool as of the end of a taxation year, and the pool is then decreased by the amount so deducted. Technically, the pool balance cannot be a negative amount. However, subsection 14(1) provides for certain tax consequences when, as of the end of a taxation year, the amounts that have decreased the pool are greater than the amounts that have increased the pool. The references in this bulletin to a "negative balance" mean this notional negative balance, i.e., the excess of the decreases over the increases. Generally, a negative balance as of the end of a taxation year results in an amount being included in income (which will be referred to in the remainder of this bulletin as a "subsection 14(1) income inclusion"), and the pool balance is then increased to nil so that the same amount cannot be included in income a second time. The EC property rules for an ongoing business are discussed in more detail in the current version of Interpretation Bulletin IT-123, Transactions Involving Eligible Capital Property. For purposes of discussion in the remainder of this bulletin, it is assumed that the taxpayer has only one business.
+
+Rules that Apply If a Taxpayer Has Ceased Carrying on a Business and Has Disposed of All Its Eligible Capital Property of Any Value
+
+2. The rules in subsection 24(1) apply if the following two requirements are met:
+
+- A taxpayer has ceased carrying on a business.
+
+- The taxpayer no longer owns any property of any value that was EC property of the business.
+
+The facts of the particular case determine whether or not the taxpayer has ceased carrying on a business. This generally occurs when the taxpayer has ceased the normal activities of the business with little likelihood of starting them up again in the near future.
+
+3. Under paragraph 24(1)(a), the taxpayer deducts, in calculating income, any final positive balance that the pool has at the time when the above two requirements are first met. When calculating the final pool balance for this purpose, note that the pool must have been reduced by all EC amounts occurring up to that time from EC property dispositions. The deduction under paragraph 24(1)(a) of a final positive balance in the pool is sometimes referred to as a "terminal allowance".
+
+4. A terminal allowance must be deducted in computing the taxpayer's income for the first taxation year that ends after the time when the two subsection 24(1) requirements were first met. If the taxpayer is an individual, the "first taxation year" is the calendar year in which the requirements were first met, unless the individual files an election under subsection 25(1) (see 7, and also 9, below). If the taxpayer is a corporation, the "first taxation year" is the corporation's fiscal period in which the requirements were first met.
+
+5. Under the rule in paragraph 24(1)(b), no paragraph 20(1)(b) deduction may be claimed for the business in computing the taxpayer's income for any taxation year that ends after the time when the two subsection 24(1) requirements were first met. Under the rule in paragraph 24(1)(c), the amount of the terminal allowance deducted under paragraph 24(1)(a) is subtracted from the pool balance, thus reducing that balance to nil so that the taxpayer cannot subsequently claim all or any portion of that terminal allowance amount a second time.
+
+6. If the pool has a negative balance at the time when the two subsection 24(1) requirements are first met (again keeping in mind that the pool must have been reduced by all applicable EC amounts resulting from EC property dispositions), a subsection 14(1) income inclusion occurs. For corporations, the subsection 14(1) income inclusion occurs in the fiscal period in which the two subsection 24(1) requirements are first met. For individuals, the subsection 14(1) income inclusion occurs, by virtue of paragraph 24(1)(d), in the calendar year in which the two subsection 24(1) requirements are first met, unless the individual files an election under subsection 25(1) (see 7 to 9 below).
+
+7. The subsection 25(1) election is available to an individual who was the proprietor of a business and who has disposed of it during a fiscal period of the business. Under the election, the fiscal period of the business is deemed to have ended at the time it would have ended had the taxpayer not disposed of the business during the fiscal period.
+
+Example: The fiscal period of an individual's proprietorship business normally ends on June 30. The individual sells the business, including all the EC property, on November 30, 1994. After reducing the pool balance by all the EC amounts resulting from the EC property dispositions, the individual still has a positive balance in the pool. The resulting terminal allowance would normally be deducted in computing the individual's income for 1994. However, the individual makes an election under subsection 25(1). Under the election, the final fiscal period of the business is deemed to end on June 30, 1995 (the date it would normally end if the individual had not disposed of the business before that date). As a result, the individual deducts the terminal allowance in computing income for 1995.
+
+8. The subsection 25(1) election can be used in the same way to defer a subsection 14(1) income inclusion because paragraph 25(3)(b) overrules the application, mentioned in 6 above, of paragraph 24(1)(d).
+
+9. Subsection 25(2) provides that a subsection 25(1) election is not valid unless the taxpayer is a resident of Canada at the time when the fiscal period of the business would be deemed to have ended if the election were valid. Thus, in the above example, the taxpayer would have to be a resident of Canada on June 30, 1995 for the election to be valid.
+
+10. Note: The comments above regarding a fiscal period that does not end on December 31 should be read in light of a proposed tax measure that was announced in the Federal Budget of February 27, 1995. That measure, if enacted, would generally provide that a fiscal period beginning after 1994 of a business carried on in Canada by a sole proprietorship, a professional corporation or a partnership (where at least one partner is an individual, a professional corporation or another affected partnership) would be deemed to end at the earlier of the time it would otherwise end and December 31. Given that most taxpayers affected would otherwise be required to report more than 12 months of business income on their 1995 tax returns, certain transitional measures would be available.
+
+11. The subsection 24(1) rules discussed above are modified by subsection 24(2) when there is an EC property pool "rollover" from an individual to his or her spouse or corporation. The subsection 24(2) rollover rules apply if the following two requirements are met:
+
+- The individual has ceased carrying on the business.
+
+- Subsequently, either the individual's spouse or a corporation controlled directly or indirectly in any manner whatever by the individual carries on the business and acquires all the property that had any value when the individual ceased carrying on the business and that was EC property of the individual's business.
+
+12. Common-law couples that come within the "extended meaning of spouse" rules in subsection 252(4) are treated as spouses for purposes of the rules in subsection 24(2).
+
+13. A corporation can be "controlled directly or indirectly in any manner whatever" by means of de jure control or de facto control. With regard to the latter, the question of whether a corporation is "controlled directly or indirectly in any manner whatever" is subject to the "control in fact" provision in subsection 256(5.1). The current version of Interpretation Bulletin IT-64, Corporations: Association and Control - After 1988, contains more information on this topic.
+
+14. Where the above requirements for the operation of subsection 24(2) are met, paragraph 24(2)(a) prevents the individual who has ceased carrying on the business from claiming a terminal allowance. Nevertheless, paragraph 24(2)(a) modifies paragraph 24(1)(c) (which is discussed in 5 above) so that it still causes any positive balance in the pool to be reduced to nil as far as the individual is concerned. The combined effect of paragraphs 24(2)(b) to (d) is that the transferee (i.e., the individual's spouse or the corporation controlled by the individual, as the case may be) starts out, with respect to the business, as follows:
+
+- The transferee takes over the individual's positive pool balance, if any, as calculated immediately before the rollover. This means that the transferee can claim a paragraph 20(1)(b) deduction for the transferee's first taxation year for the business (assuming that the pool balance is still positive as of the end of that year).
+
+- The transferee starts out in effectively the same position as the individual, regarding the make-up of the pool account, for purposes of determining any subsequent subsection 14(1) income inclusions.
+
+15. In addition to paragraph 24(2)(a), subsection 85(4) is another provision that can prevent a terminal allowance from being claimed under subsection 24(1)(a). Subsection 85(4) can apply in, but is not restricted to, situations involving a subsection 85(1) election made in connection with a transfer of EC property to a corporation. For more information on these provisions, see the current version of Interpretation Bulletin IT-291, Transfer of Property to a Corporation under Subsection 85(1).
+
+16. By virtue of subsection 24(3), if a partnership has been dissolved and neither subsection 98(3) nor subsection 98(5) applies, each former member of the partnership may deduct an amount equal to that former member's proportion of the paragraph 24(1)(a) terminal allowance that would have been deductible by the partnership had it not ceased to exist.
+
+17. Note: In Bill C-70, proposed new paragraph 20(1)(hh.1) contains a rule for allowing a taxpayer who has ceased carrying on a business to deduct three-quarters of any subsequent repayment of assistance from a government, municipality or other public authority. To qualify, the repayment would have to be under a legal obligation to do so. The amount repaid would also have to have previously reduced the amount of an EC expenditure of the taxpayer while still in business. If enacted, paragraph 20(1)(hh.1) would apply to amounts repaid after February 21, 1994. Also in Bill C-70, proposed new subsection 79(4) would deem payments made by the taxpayer with respect to certain debts to be repayments of assistance to which paragraph 20(1)(hh.1) would apply. To qualify for this purpose, a debt would have to reasonably be considered to have been included in the taxpayer's proceeds of disposition of EC property that had been surrendered by the taxpayer. If enacted, proposed new subsection 79(4) would apply with respect to property surrendered after February 21, 1994 (unless pursuant to a court order made before February 22, 1994).
+
+Rules that Apply If a Taxpayer Has Died and a Beneficiary Acquires an Eligible Capital Property of the Deceased Taxpayer's Business
+
+18. If a taxpayer dies, the rules in subsection 70(5.1) can apply. These rules are in some respects similar to those in subsection 24(2) discussed above. An important difference, however, is that while the rules in subsection 24(2) apply in connection with the pool as a whole, those in subsection 70(5.1) apply in connection with a particular EC property. Subsection 70(5.1) applies if the following two requirements are met:
+
+- A taxpayer has died.
+
+- As a consequence of the taxpayer's death, another person (the "beneficiary") acquires a property that was an EC property of the taxpayer for the business that was carried on by the taxpayer until his or her death. (Subsections 248(8) and (9), and also subsection 248(23.1), provide certain rules for determining whether property has been acquired by a person as a consequence of the death of a taxpayer.)
+
+The second requirement is not met (and thus subsection 70(5.1) does not apply) under either of the following circumstances:
+
+- the beneficiary's acquisition of the property is by way of a distribution of property by a trust and the trust has claimed a paragraph 20(1)(b) deduction for the property; or
+
+- the property is acquired by the taxpayer's spouse or controlled corporation and subsection 24(2) applies (see 11 above).
+
+19. Where the requirements for the operation of subsection 70(5.1) are met for a particular property, the taxpayer is deemed by paragraph 70(5.1)(a) to have disposed of the property immediately before death. The deemed proceeds of disposition are equal to four-thirds of the proportion of any positive balance in the pool that the fair market value of the property is of the total fair market value of all the EC property of the taxpayer for the business. The deemed proceeds are then multiplied by three-quarters (i.e., the "inclusion rate") to determine the "EC amount" for the property.
+
+Example: Several years ago, Mr. A started up a business, having acquired the necessary licence for $85,000. When the licence was granted, its terms provided that it was transferable and that it survived the licensee. As of the time of (immediately before) Mr. A's death,
+
+- the pool balance had been reduced to $60,000 as a result of his paragraph 20(1)(b) deductions for prior years;
+
+- the licence was worth $100,000; and
+
+- Mr. A's endeavours had resulted in goodwill in the business, valued at $50,000.
+
+The requirements of subsection 70(5.1) were met for both the licence and the goodwill. Under paragraph 70(5.1)(a), Mr. A is deemed to have disposed of the two EC properties, immediately before his death, for proceeds as follows:
+
+Licence: (4 ÷ 3) × ($100,000 ÷ $150,000) × $60,000 = $53,333
+
+Goodwill: (4 ÷ 3) × ($50,000 ÷ $150,000) × $60,000 = $26,667
+
+Mr. A's EC amounts for the two deemed dispositions are therefore:
+
+Licence: (3 ÷ 4) × $53,333 = $40,000
+
+Goodwill: (3 ÷ 4) × $26,667 = $20,000
+
+Note that even though no amount was ever added to the pool for the goodwill (because Mr. A did not purchase it), its value must still be taken into account in the above calculations. This is because the goodwill still meets the definition of an EC property (see the current version of Interpretation Bulletin IT-123). Since the EC amounts for the licence and goodwill come to a total of $60,000, they reduce Mr. A's pool balance to nil as of the time immediately before his death. As a result, there cannot be any paragraph 20(1)(b) deduction, terminal allowance or subsection 14(1) income inclusion for Mr. A for the year of his death.
+
+20. If the requirements of subsection 70(5.1) are met for a particular property and the beneficiary does not continue carrying on the taxpayer's business, paragraph 70(5.1)(b) deems the beneficiary to have acquired the property as a capital property at the time of the taxpayer's death at a cost equal to the deceased taxpayer's deemed proceeds of disposition as determined by the rule discussed above. A subsequent disposition of the property can result in a capital gain or capital loss to the beneficiary.
+
+21. If, on the other hand, the beneficiary continues carrying on the deceased taxpayer's business, the combined effect of paragraphs 70(5.1)(c) and (d) are essentially the same as the rollover results described in 14 above for a spouse or controlled corporation under paragraphs 24(2)(b) to (d), except that the rollover results for the beneficiary under paragraphs 70(5.1)(b) and (c) are calculated for each particular property rather than for the pool as a whole. That is, the beneficiary starts out, at the time of the deceased taxpayer's death, with respect to the particular property, as follows:
+
+- The beneficiary takes over that proportion, based on fair market values, of the deceased taxpayer's positive pool balance (if any, as calculated immediately before the rollover) that pertains to the particular property. In the example in 19 above, $40,000 of Mr. A's pool balance for the licence, and $20,000 for the goodwill, could be taken over by a beneficiary. Where a beneficiary takes over some or all of a deceased taxpayer's pool balance under this rule, a paragraph 20(1)(b) deduction can be claimed for the beneficiary's first taxation year for the business (assuming that the beneficiary's pool balance is still positive as of the end of that year).
+
+- The beneficiary starts out in effectively the same position as the deceased taxpayer, regarding that proportion (based on fair market values) of the make-up of the pool account that pertains to the particular property, for purposes of determining any subsequent subsection 14(1) income inclusions.
+
+22. By virtue of subsection 70(3.1), the rules in section 70 with respect to the "rights or things" of a taxpayer who has died do not apply to EC property.
+
+Government Rights
+
+23. Subsection 21(1) of the Income Tax Application Rules (ITAR) applies in a situation where a taxpayer disposes of or allows the expiry of a government right relating to a business carried on continuously by the taxpayer from January 1, 1972 to the date of the disposition (or to the date the right expires). By virtue of that provision, the total consideration to the taxpayer for the government right (which will enter into the calculation of an EC amount) is reduced by the greater of the following two amounts:
+
+- the taxpayer's pre-1972 cost of acquiring the government right (or of acquiring the taxpayer's original right in respect of the government right), to the extent that such cost has not previously been deducted in calculating the taxpayer's income; and
+
+- the fair market value, as at December 31, 1971, of the taxpayer's specified right in respect of the government right.
+
+- from a person with whom the successor was not dealing at arm's length; or
+
+- pursuant to an agreement with a person with whom the successor was not dealing at arm's length, if under the terms of the agreement the non-arm's length person allowed the right to expire so that the successor could acquire a substantially similar right from the authority that had issued the right to the non-arm's length person;
+
+subsection 21(2.1) of the ITAR can make the favourable rule in subsection 21(1) available to the successor. If the successor subsequently disposes of or allows the expiry of
+
+- the government right acquired in either of the two situations described above (the "particular right"), or
+
+- any other government right that was acquired by the successor to continue, without interruption, rights substantially similar to those that the successor had under the particular right,
+
+subsection 21(2.1) treats the non-arm's length person and the successor as one person for purposes of section 14 of the Act. This means that, if the non-arm's length person carried on the business (in respect of which the government right was held) continuously from January 1, 1972 to the date the successor acquired the right or the substantially similar right, then the successor will be considered to have carried on the business (in respect of which the successor's right was held) continuously from January 1, 1972 until the successor disposes of or allows the expiry of the successor's right. The successor could be, for example, the beneficiary of a deceased taxpayer as referred to in 21 above or the spouse or controlled corporation of a taxpayer as referred to in 14 above. For the Department's interpretation of when a non-arm's length relationship exists with a trust, see the current version of Interpretation Bulletin IT-419, Meaning of Arm's Length.
+
+If you have any comments regarding the matters discussed in this bulletin, please send them to:
+
+Director, Technical Publications Division Policy and Legislation Branch Revenue Canada 875 Heron Road Ottawa ON K1A 0L8
+
+Explanation of Changes for Interpretation Bulletin IT-313R2 Eligible Capital Property - Rules Where a Taxpayer Has Ceased Carrying on a Business or Has Died
+
+Introduction
+
+The purpose of the Explanation of Changes is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+Overview
+
+Interpretation Bulletin IT-313R2 explains the rules regarding the eligible capital ("EC") property of a taxpayer's business that can apply if the taxpayer has ceased carrying on the business or has died. This new bulletin combines and updates two former bulletins: IT-313R, Eligible Capital Property - Ceasing to Carry on Business (including the Special Release to that bulletin dated May 25, 1984) and IT-344R, Eligible Capital Property - Deceased Persons. The new bulletin has been written because of amendments to the Income Tax Act that were enacted by S.C. 1988, c. 55 (formerly Bill C-139), S.C. 1991, c. 49 (formerly Bill C-18), S.C. 1993, c. 24 (formerly Bill C-92) and S.C. 1994, c. 21 (formerly Bill C-27). It also contains a note regarding proposed amendments to the Income Tax Act included in Bill C-70 and a note regarding a proposed tax measure announced in the Federal Budget of February 27, 1995. The comments in the bulletin are not affected by any other draft legislation released before April 21, 1995.
+
+Legislative and Other Changes
+
+The explanations given below do not refer to the paragraph numbers of the two former bulletins because the sentences and paragraphs of those bulletins have been significantly rearranged in IT-313R2.
+
+Number 1 gives an overview of the current ("new system") EC property rules for an ongoing business. The new system of rules, which began in 1988, is discussed in greater detail in the current version of Interpretation Bulletin IT-123.
+
+Numbers 2, 3, 4, 5, 6, 7 and 8 reflect a Bill C-18 amendment to subsection 24(1). Before the amendment, the only requirement for the operation of that subsection was that the taxpayer cease carrying on the business. The subsection then provided rules for calculating the taxpayer's income for the taxation year in which the taxpayer ceased carrying on the business. The amendment, which took effect after July 13, 1990, added a second requirement that the taxpayer no longer own any EC property of any value in respect of the business, and caused the subsection 24(1) rules to apply for purposes of calculating the taxpayer's income for the taxation years ending after the two requirements had been met.
+
+Number 9 provides information on subsection 25(2), which contains a residency requirement for purposes of a subsection 25(1) election.
+
+Number 10 provides a comment regarding a tax measure proposed in the Federal Budget of February 27, 1995.
+
+Number 11 (and number 14) reflects a Bill C-18 amendment to subsection 24(2) that took effect after July 13, 1990. Under this amendment, which makes subsection 24(2) consistent with amended subsection 24(1), the spouse or controlled corporation must not only continue carrying on the taxpayer's business but must also acquire all the EC property of any value from the taxpayer's business.
+
+Number 12 refers to subsection 252(4). That provision, which extends the meaning of "spouse" for purposes of the Act, was added to the Act as a result of Bill C-92, applicable after 1992.
+
+Number 13 provides information for determining whether a corporation was "controlled directly or indirectly in any manner whatever" by a taxpayer (these words have been in subsection 24(2) since 1972). In this connection, number 13 refers to the "control in fact" rule in subsection 256(5.1), which was added to the Act as a result of Bill C-139, applicable for taxation years commencing after 1988.
+
+Number 14 reflects Bill C-18 and Bill C-92 amendments to subsection 24(2), all applicable after July 13, 1990, that allow the rollover rules in that subsection to work in conjunction with the new system of EC property rules in section 14.
+
+Number 16 refers to the partnership dissolution rule in subsection 24(3), which was added to the Act as a result of Bill C-92, applicable after July 13, 1990.
+
+Number 17 contains a note describing proposed new rules, contained in Bill C-70, regarding repayments (after a taxpayer has discontinued a business) of government and other assistance.
+
+Number 18 refers to subsection 248(23.1), which was added to the Act as a result of Bill C-27. The portion of subsection 248(23.1) that contains the rule for deeming that property has been disposed of as a consequence of a taxpayer's death is applicable to deaths occurring after December 21, 1992. Number 18 also describes an exclusion from the operation of subsection 70(5.1) that was added to that subsection as a result of Bill C-18, effective for beneficiaries' acquisitions occurring on or after July 13, 1990.
+
+Number 19 indicates that a multiple of four-thirds is used in determining the deemed proceeds under paragraph 70(5.1)(a). The change in the multiple from "two times" to "4/3" occurred as a result of Bill C-139 and was consequential on the change in the "inclusion rate" in the new system of EC property rules in section 14 from "1/2" to "3/4". This amendment to subsection 70(5.1) took effect in 1988.
+
+Numbers 19 to 21 reflect a Bill C-18 amendment to subsection 70(5.1) whereby the calculations under that subsection for a particular property are now based on the property's proportionate share of the pool balance. This amendment was made retroactive to take effect in 1988.
+
+Number 21 reflects Bill C-18 and Bill C-92 amendments to subsection 70(5.1) that allow the rollover rules in that subsection to work in conjunction with the new system of EC property rules in section 14. These amendments were made retroactive to take effect in 1988.
+
+Number 23, which discusses the rules in section 21 of the Income Tax Application Rules (ITAR) for pre-1972 government rights,
+
+- explains those rules in greater detail than was done in Interpretation Bulletin IT-344R;
+
+- reflects a Bill C-139 amendment to section 21 of the ITAR which adapts its rules to the new system of EC property rules in section 14 (this amendment took effect for dispositions of property occurring after June 17, 1987, subject to a grandfathering rule); and
+
+- relates the rules in section 21 of the ITAR to the rollover rules in subsection 24(2) (in addition to the rollover rules in subsection 70(5.1) as was done in IT-344R).

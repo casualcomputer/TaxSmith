@@ -1,0 +1,43 @@
+Title: ARCHIVED - Surface Rentals and Farming Operations
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it200/archived-surface-rentals-farming-operations.html
+Corpus path: corpus/cra/forms-publications/publications/it200/archived-surface-rentals-farming-operations.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Surface Rentals and Farming Operations
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-200**
+
+DATE: February 24, 1975
+
+SUBJECT: INCOME TAX ACT**Surface Rentals and Farming Operations**
+
+REFERENCE: Subsection 9(1) (also section 43 and paragraphs 53(2)(d) and 54(h))
+
+1. Persons exploring or drilling for petroleum or natural gas often obtain a lease from the owner of land covering certain surface rights. For example, the lease may cover several years in respect of a small acreage of land, possibly set in from the boundaries of the owner's land. The first year's payment may be in a lump sum for such things as damage to land, land improvements, inconvenience, severance and the first year's rent, without a specific amount being ascribed to any of these items. For the second and subsequent years, the lease may require a periodic payment or payments for rental, severance, or inconvenience. In these circumstances, the portion of the lump sum paid in the first year that is equal to the periodic payments to be made in subsequent years is considered to be income within the meaning of subsection 9(1). The remainder of the lump sum payment is generally considered to be capital.
+
+Capital
+
+2. The capital portion of the first year's payment, as compensation for property injuriously affected, damaged or destroyed, constitutes "proceeds of disposition" within the meaning of paragraph 54(h) and may result in a capital gain or loss. Under section 43, the adjusted cost base of the part of the property disposed of is that part of the adjusted cost base of the whole property that is reasonably attributable to the part. The adjusted cost base of the whole property is then decreased by that amount pursuant to paragraph 53(2)(d). Where the part disposed of is relatively small in relation to the property, the Department accepts any reasonable portion of the adjusted cost base that the taxpayer wishes to attribute to the proceeds.
+
+Income
+
+3. Where a specific amount is ascribed in the lease (or in a supplementary letter) to each of the various items included in the first year's payment, normally only those amounts that are for recurring items are considered to be income. An item may recur even though the amounts payable for it differ in the first and subsequent years.
+
+Farming Operations
+
+4. The portion of the first year's payment specified for damage to growing crops is considered to be on account of income rather than capital. Income payments to a farmer actively engaged in farming the land, part of which is the subject of the lease, are income from the business of farming.
+
+Damage to Property
+
+5. Payments that the owner of land receives for granting permission to make "shot hole tests" on his land are considered to be in respect of possible damage to the land and thus are capital.

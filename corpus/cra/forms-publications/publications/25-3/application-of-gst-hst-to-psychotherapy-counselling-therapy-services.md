@@ -1,0 +1,674 @@
+---
+title: "Application of the GST/HST to Psychotherapy and Counselling Therapy Services"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/25-3/application-of-gst-hst-to-psychotherapy-counselling-therapy-services.html
+last_modified: 2026-04-22
+---
+# Application of the GST/HST to Psychotherapy and Counselling Therapy Services
+
+GST/HST memorandum 25-3 April 2026
+
+This memorandum cancels and replaces GST/HST Notice 334, *Proposed Amendment – Exemption for Psychotherapy Services*, and GST/HST Notice 335, *Proposed Amendment – Exemption for Counselling Therapy Services*.
+
+This memorandum explains how the GST/HST applies to supplies of psychotherapy and counselling therapy services made on or after June 20, 2024. It also explains other implications of adding these services to the list of services that are GST/HST exempt.
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the *Excise Tax Act* (ETA). The information in this publication does not replace the law found in the ETA and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1‑800‑959‑8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Requesting a GST/HST Ruling or Interpretation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1‑855‑666‑5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The GST/HST rates are those that were in effect at the time of publishing. For the list of all applicable GST/HST rates (current and historic), go to [GST/HST calculator (and rates)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html).
+
+If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [Overview](#toc0)
+
+- [Meaning of significant terms](#toc1)
+
+- [GST/HST exemptions for psychotherapy and counselling therapy services](#toc2)
+
+    - [First condition – supply is a psychotherapy or counselling therapy service](#toc3)
+
+    - [Second condition – service is rendered to an individual by a practitioner](#toc4)
+
+          - [Rendered to an individual](#toc5)
+
+          - [Rendered by a practitioner of the service](#toc6)
+
+    - [Third condition – qualifying health care supply](#toc7)
+
+    - [Fourth condition – not a cosmetic service supply](#toc8)
+
+    - [Summary and additional examples](#toc9)
+
+- [Supplies made by a charity or public institution](#toc10)
+
+- [Application of the GST/HST digital economy measures to these services](#toc11)
+
+- [Other charges](#toc12)
+
+    - [Cancellation fees](#toc13)
+
+    - [Returned cheques](#toc14)
+
+- [Implementation period](#toc15)
+
+- [GST/HST charged or collected in error](#toc16)
+
+- [Input tax credits](#toc17)
+
+    - [Supplies made on or after June 20, 2024](#toc18)
+
+          - [Change in use – capital personal property](#toc19)
+
+          - [Change in use – capital real property](#toc20)
+
+- [Cancellation of GST/HST registration](#toc21)
+
+    - [Services and non-capital property held at time of cancellation](#toc22)
+
+    - [Reporting periods](#toc23)
+
+    - [Prepaid tax instalments](#toc24)
+
+## Overview
+
+1. Most supplies of services made in Canada are subject to the GST/HST unless they are specifically exempt under Schedule V.
+
+2. Part II of Schedule V exempts supplies of certain health care services when the services are supplied under specific conditions, such as conditions regarding the type of service being rendered and who renders the service. If a supply of a particular health care service is not included in Part II of Schedule V, and no other relieving provision in the ETA applies, the supply is subject to the GST/HST at the applicable rate for the province in which the supply is made.
+
+3. On June 20, 2024, Bill C-59 received royal assent. As a result, psychotherapists and counselling therapists were added to the list of health care practitioners whose professional services rendered to individuals are exempt from the GST/HST under section 7 of Part II of Schedule V.
+
+4. This memorandum outlines the conditions that must be met for the psychotherapy and counselling therapy exemptions to apply, and it explains the GST/HST implications of adding psychotherapy and counselling therapy services to the list of services that are GST/HST exempt.
+
+In this memorandum, we refer to both psychotherapy services and counselling therapy services. It is important to note that, under the ETA, there are two separate exemptions and each exemption must be considered individually.
+
+## Meaning of significant terms
+
+5. **Basic tax content** of a property is defined in subsection 123(1) and generally means the amount of the GST/HST that was payable for the last acquisition of the property, and for any improvements made to the property since that last acquisition, less any amounts that were, or would have been, able to be recovered (for example, by rebate or remission, but not by input tax credits). The calculation for the basic tax content takes into account any depreciation in the value of the property since it was last acquired (for example, when it was purchased or when it was last deemed to have been purchased, whichever occurred more recently).
+
+6. Registrants may have to calculate the basic tax content of a property if they increase or decrease their use of the property in their commercial activities. For more information on how to calculate basic tax content, refer to [Guide RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+7. **Exempt supplies** means supplies of property and services that are not subject to the GST/HST. GST/HST registrants generally cannot claim input tax credits to recover the GST/HST paid or payable on property and services acquired to make exempt supplies.
+
+8. **Input tax credit** means a credit that GST/HST registrants can claim to recover the GST/HST paid or payable for property or services they acquired, imported into Canada, or brought into a participating province for use, consumption, or supply in the course of their commercial activities.
+
+9. **Registrant** is defined in subsection 123(1) and means a person that is registered or required to be registered for the GST/HST, but generally excludes a person that is registered or required to be registered under special rules applicable to digital economy businesses unless that person registered under those special rules begins carrying on business in Canada, requiring them to register under the regular rules that apply to most persons.
+
+10. **Unregulated province** is not defined in the ETA. For purposes of this memorandum, it means a province or territory that does not regulate the profession of psychotherapy or counselling therapy, as applicable. As such, there is no provincial or territorial regulatory body established to govern the profession in the province or territory.
+
+## GST/HST exemptions for psychotherapy and counselling therapy services
+
+11. Section 7 of Part II of Schedule V lists specific services that are exempt from the GST/HST if the service is rendered to an individual by a practitioner of the service. Effective June 20, 2024, the list of services found under section 7 of Part II of Schedule V was amended by adding the following after paragraph (j):
+
+(j.1) psychotherapy services;
+
+(j.2) counselling therapy services;
+
+12. For the exemptions found under paragraphs 7(j.1) and (j.2) of Part II of Schedule V to apply to a supply of psychotherapy or counselling therapy services, respectively, all of the following conditions must be met:
+
+- The supply is a psychotherapy or counselling therapy service
+
+- The psychotherapy or counselling therapy service is rendered to an individual by a practitioner of psychotherapy or counselling therapy
+
+- The psychotherapy or counselling therapy service is a qualifying health care supply under section 1.2 of Part II of Schedule V
+
+- The psychotherapy or counselling therapy service is not a cosmetic service supply or a supply in respect of a cosmetic service supply that is not made for medical or reconstructive purposes in accordance with section 1.1 of Part II of Schedule V
+
+### First condition – supply is a psychotherapy or counselling therapy service
+
+13. For a supply to be exempt under paragraph 7(j.1) or (j.2) of Part II of Schedule V, respectively, the supply must be a supply of a psychotherapy service or a counselling therapy service.
+
+14. Generally, the Canada Revenue Agency (CRA) does not define health care services, such as psychotherapy services or counselling therapy services. Health care services are provincially regulated and what is considered to be a particular health care service can vary from province to province.
+
+15. For GST/HST purposes, the CRA looks to the scope of practice contained in the provincial legislation that regulates a particular health care profession to define the services provided by that profession. What constitutes a psychotherapy service or a counselling therapy service is determined by the regulatory body for that profession in the particular province, and not by the CRA.
+
+16. If a person practises in a province that regulates the profession of psychotherapy or counselling therapy, their services must fall within the scope of practice for the particular profession as determined by the regulatory body in that province. To determine whether the services they perform are psychotherapy or counselling therapy services, as applicable, the person must refer to the regulatory body or relevant provincial legislation for the province in which they practise. For a list of the regulatory bodies and relevant provincial legislation (at the date of publication), refer to paragraph 29 of this memorandum.
+
+As part of the services they offer, a registered psychotherapist or counselling therapist also offers clinical supervision services.
+
+Where clinical supervision services are part of the scope of practice of the respective profession as dictated by the provincial regulatory body, the services are considered psychotherapy or counselling therapy services, as applicable, for purposes of the GST/HST exemptions. The person acting as a clinical supervisor must meet the criteria set out by the regulatory body at the time that the clinical supervision service is provided.
+
+In addition, where the purpose of the clinical supervision service is to safeguard the well-being of a client, the service is considered to be a qualifying health care supply (refer to [Third condition – qualifying health care supply](#toc7)).
+
+Provided that these and all other conditions outlined in this memorandum are met, the supply of a clinical supervision service is exempt from the GST/HST.
+
+17. If a person practises in an unregulated province but has the qualifications equivalent to those necessary to be licensed or certified in a province that regulates the profession of psychotherapy or counselling therapy, their services must fall within the scope of practice of that profession in that regulated province. Where this is the case, their services are considered psychotherapy or counselling therapy services, as applicable, for purposes of the GST/HST exemptions.
+
+A person practises the profession of counselling therapy in an unregulated province. The person has the equivalent qualifications to those required to be a Licensed Counselling Therapist in New Brunswick.
+
+To determine if their services fall under the exemption for counselling therapy, the person must refer to the scope of practice of a Licensed Counselling Therapist in New Brunswick. If their services fall within that scope of practice, they are considered counselling therapy services for purposes of the GST/HST exemption.
+
+18. Not all services rendered by a psychotherapist or counselling therapist may be psychotherapy or counselling therapy services for GST/HST purposes (for example, training services). A practitioner of psychotherapy or counselling therapy must determine whether each supply they make is a psychotherapy or counselling therapy service. This is particularly important for a person who practises the profession of psychotherapy or counselling therapy and provides other services and/or is registered with more than one regulatory body for more than one health care profession.
+
+In addition to supplying psychotherapy or counselling therapy services, a person offers non-clinical services, presentations, and workshops.
+
+Non-clinical services that are provided for non-health care purposes, even if supplied by health care professionals, are not considered to be basic health care and are not intended to be eligible for an exemption. As such, non-clinical services are not exempt supplies of psychotherapy or counselling therapy services.
+
+In addition, the supply of presentations and workshops, the purpose of which is to provide information, is not considered a qualifying health care supply for purposes of the GST/HST. As such, supplies of presentations and workshops are excluded from the exemptions for psychotherapy services and counselling therapy services.
+
+19. Services that are outside the scope of practice of the respective profession are not psychotherapy or counselling therapy services for GST/HST purposes and, therefore, do not fall under the exemption for psychotherapy or counselling therapy services. If the supply of the service does not fall within another exempting provision of the ETA, the supply is subject to the GST/HST.
+
+A person offers training services to other health care professionals.
+
+Such training services are not considered psychotherapy or counselling therapy services. Furthermore, they are not qualifying health care supplies as the purpose of the training is not one of the purposes in that definition (refer to [Third condition – qualifying health care supply](#toc7)).
+
+Therefore, the GST/HST exemptions for psychotherapy services and counselling therapy services do not apply to training services provided to other health care professionals.
+
+### Second condition – service is rendered to an individual by a practitioner
+
+20. Once it is determined that a service is a psychotherapy or counselling therapy service, to be exempt under paragraph 7(j.1) or (j.2) of Part II of Schedule V, the service must also be:
+
+- rendered to an individual
+
+- rendered by a practitioner of the service
+
+#### Rendered to an individual
+
+21. For GST/HST purposes, the phrase "rendered to an individual" means the service provider has a professional relationship with the client and is applying their expertise for the purpose of meeting the client's health care needs. An examination or assessment of the client, or a review of the findings in the client's health care records regarding the client's diagnosis or treatment, can also demonstrate that the service is rendered to an individual. For more information, refer to Example 25 of this memorandum.
+
+#### Rendered by a practitioner of the service
+
+22. Section 1 of Part II of Schedule V defines the term **practitioner**, in respect of a supply of psychotherapy or counselling therapy services, to mean a person that meets all of the following conditions:
+
+- The person practises the profession of psychotherapy or counselling therapy, as the case may be
+
+- Where the person **is** required to be licensed or otherwise certified to practise the profession of psychotherapy or counselling therapy in the province in which the service is supplied, the person is so licensed or certified
+
+- Where the person **is not** required to be licensed or otherwise certified to practise the profession of psychotherapy or counselling therapy in that province, the person has the qualifications equivalent to those necessary to be so licensed or otherwise certified in another province
+
+##### Practises the profession of psychotherapy or counselling therapy
+
+23. The definition of practitioner requires an individual to first determine if they practise a profession that is listed in the definition (for purposes of this memorandum, that is psychotherapy or counselling therapy).
+
+24. Rendering services of psychotherapy or counselling therapy does not necessarily mean that the person practises the profession of psychotherapy or counselling therapy.
+
+25. Provincial legislation provides information on the regulatory regime in regard to regulated health care professions in a given province.
+
+26. For example, certain provincial legislation permits nurses to provide psychotherapy services within the scope of practice of nursing. In such a case, the psychotherapy services provided by the nurse are considered to be nursing services as part of the nursing profession. The CRA considers that those nurses practise the profession of nursing rather than the profession of psychotherapy. The exemption for nursing services in section 6 of Part II of Schedule V may apply to the supply of psychotherapy services made by those nurses.
+
+A person is a social worker and a member of the Alberta College of Social Workers. The person provides psychotherapy services in Alberta. The services are part of the scope of practice of social work in Alberta, which encompasses psychosocial interventions such as psychotherapy.
+
+Although the person provides psychotherapy services, they are not practising the profession of psychotherapy. Instead, they are practising the profession of social work.
+
+As a result, the supply of their services is not exempt from the GST/HST under paragraph 7(j.1) of Part II of Schedule V. However, the exemption for social work services in section 7.2 of Part II of Schedule V may apply to the supply of psychotherapy services made by the social worker.
+
+A person is a registered occupational therapist and a member of the College of Occupational Therapists of Ontario. The person practises in Ontario and provides psychotherapy services. The services are part of the scope of practice of occupational therapy in Ontario according to the legislation that regulates the profession in Ontario.
+
+Although the person provides psychotherapy services, they are not practising the profession of psychotherapy. Instead, they are practising the profession of occupational therapy.
+
+As a result, the supply of their services is not exempt from the GST/HST under paragraph 7(j.1) of Part II of Schedule V. However, such supplies continue to be exempt occupational therapy services under paragraph 7(i) of Part II of Schedule V provided all conditions of that exemption are met.
+
+##### Is licensed to practise the profession of psychotherapy or counselling therapy
+
+27. Once it is determined that a person practises the profession of psychotherapy or counselling therapy, the next step is to determine if the person is required to be licensed or otherwise certified to practise the profession in the province(s) in which they supply their services.
+
+28. If a person supplies their services in a province where they are required to be licensed or otherwise certified to practise the profession, to be a practitioner for GST/HST purposes, the person must be so licensed or certified. To be licensed or otherwise certified to practise a particular health profession in a province, a person must have the licence or other certification that is required by the provincial regulatory body responsible for the regulation of the health profession in that province. The role of the provincial regulatory body and the authority to monitor and regulate its respective health profession is usually set out in provincial legislation.
+
+29. At the date of publication, the professions of psychotherapy and counselling therapy are regulated in Canada in the following provinces:
+
+- Psychotherapy:
+
+    - in Ontario by the College of Registered Psychotherapists of Ontario[Footnote1](#fn1) in accordance with the *Psychotherapy Act, 2007*
+
+    - in Quebec by the Ordre des psychologues du Québec in accordance with the *Code des professions*
+
+- Counselling therapy:
+
+    - in New Brunswick by the College of Licensed Counselling Therapists of New Brunswick in accordance with the *Licensed Counselling Therapy Act*
+
+    - in Nova Scotia by the Nova Scotia College of Counselling Therapists in accordance with the *Counselling Therapists Act, 2008*
+
+    - in Prince Edward Island by the College of Counselling Therapy of Prince Edward Island in accordance with the *Counselling Therapists Regulations* under the *Regulated Health Professions Act*
+
+The list of provinces and territories that regulate the professions of psychotherapy and counselling therapy is subject to change over time. It is the responsibility of the psychotherapist or counselling therapist to monitor their licensing requirements to ensure compliance with the ETA.
+
+A person supplies counselling therapy services in New Brunswick. The College of Licensed Counselling Therapists of New Brunswick (CCTNB) regulates the profession of counselling therapy in New Brunswick. The person is licensed by the CCTNB to practise the profession of counselling therapy.
+
+The person practises the profession of counselling therapy in a regulated province and is licensed to practise the profession in that province. Therefore, the person is a practitioner of counselling therapy for purposes of the GST/HST.
+
+30. Membership in a professional association is not the same as being licensed or certified by a regulatory body for purposes of the definition of practitioner. Where an association is not regulated by provincial legislation and membership in the association is not required to practise the profession of psychotherapy or counselling therapy in the province, the association is not a regulatory body for GST/HST purposes. Therefore, membership in such an association does not mean that a person is licensed or otherwise certified to practise the profession of psychotherapy or counselling therapy.
+
+31. Where psychotherapy or counselling therapy services are supplied in a regulated province but the services are rendered by a person who is not licensed by the regulatory body, the person is not a practitioner of psychotherapy or counselling therapy for GST/HST purposes. As a result, the supply of their services is not exempt under paragraph 7(j.1) or (j.2) of Part II of Schedule V. If the services are rendered by a person licensed to practise the profession in another regulated province, refer to Example 21 of this memorandum.
+
+A person provides psychotherapy services in Ontario. Under Ontario legislation, the College of Registered Psychotherapists of Ontario (CRPO) regulates the profession of psychotherapy. The person is not a Registered Psychotherapist with the CRPO. Instead, the person is a Canadian Certified Counsellor (CCC) in good standing with the Canadian Counselling and Psychotherapy Association (CCPA), an association for mental health professionals.
+
+To be a practitioner in respect of psychotherapy services supplied in a province that regulates the profession, a person must be licensed or otherwise certified to practise the profession in that province. In a regulated province, a regulatory body regulates the profession under provincial legislation.
+
+The CCPA is not a regulatory body under provincial legislation, and membership in the CCPA is not required to practise the profession of psychotherapy in Ontario. Although the CCPA may set its own professional standards, the person's membership in the CCPA is not the same as being licensed by the CRPO.
+
+Since the person is not a Registered Psychotherapist with the CRPO, they are not a practitioner in respect of psychotherapy services supplied in Ontario and their services are not exempt from the GST/HST under paragraph 7(j.1) of Part II of Schedule V.
+
+However, we understand that certain other health care professions are permitted to provide psychotherapy services in Ontario. While the other health care professionals do not practise the profession of psychotherapy, their supplies of psychotherapy services may be exempt if another exempting provision applies.
+
+##### Has equivalent qualifications
+
+32. Where a person supplies psychotherapy or counselling therapy services in an unregulated province, to be a practitioner for GST/HST purposes, the person must have the qualifications equivalent to those necessary to be so licensed or certified in another province.
+
+33. The CRA does not provide rulings on whether a person has qualifications equivalent to those required to be licensed or otherwise certified to practise the profession in a regulated province. The onus is on the person to demonstrate that they are a practitioner for purposes of the GST/HST exemptions in section 7 of Part II of Schedule V.
+
+34. To demonstrate that they meet the definition of practitioner, a person may refer to the website of a regulatory body in a province that regulates the profession to determine if their particular qualifications meet the licensing requirements. If a person determines that they have equivalent qualifications, they should keep all supporting information for verification purposes.
+
+A person supplies psychotherapy services in Manitoba, a province that does not regulate the profession of psychotherapy.
+
+To be a practitioner of psychotherapy, the person must have the qualifications equivalent to those necessary to be licensed or certified to practise the profession of psychotherapy in a province that regulates the profession.
+
+A person provides counselling therapy services in Ontario. The province of Ontario regulates the profession of psychotherapy but does not regulate the profession of counselling therapy.
+
+To be a practitioner of counselling therapy, the person must determine whether they have the equivalent qualifications to practise the profession of counselling therapy in a province that regulates the profession (at the date of publication, that is New Brunswick, Nova Scotia, or Prince Edward Island). If the person has equivalent qualifications, they must also determine whether their services fall within the scope of practice of the profession of counselling therapy in the regulated province.
+
+As the person provides counselling therapy services in Ontario, they must also determine if they are permitted to provide the services without being licensed by a regulatory body in Ontario.
+
+A person is a mental health therapist. They practise in Alberta, a province that does not regulate the professions of psychotherapy and counselling therapy.
+
+To be a practitioner of psychotherapy or counselling therapy, the person must determine if they have the qualifications equivalent to those necessary to be licensed or certified in a province that regulates the respective profession (refer to paragraph 29 of this memorandum). If the person can demonstrate that they have the equivalent qualifications, they are a practitioner for GST/HST purposes.
+
+Only supplies of psychotherapy and counselling therapy services are exempt from the GST/HST under paragraphs 7(j.1) and (j.2) of Part II of Schedule V. Therefore, for one of the exemptions to apply, the person must also determine whether their services fall within the scope of practice of the particular profession in the particular regulated province.
+
+35. Some associations have already confirmed with one or more regulatory bodies that certain members have the qualifications equivalent to those necessary to be licensed or certified in a province that regulates the respective profession. At the date of publication, the following associations have done so:
+
+- Association of Counselling Therapy of Alberta has confirmed equivalency with the College of Registered Psychotherapists of Ontario (CRPO)
+
+- BC Association of Clinical Counsellors has confirmed equivalency with the CRPO
+
+- Canadian Association for Couple and Family Therapy has confirmed equivalency with the CRPO
+
+- Canadian Counselling and Psychotherapy Association has confirmed equivalency with both the CRPO and the College of Licensed Counselling Therapists of New Brunswick
+
+These confirmed equivalencies apply only in unregulated provinces. In regulated provinces, service providers must be registered with the applicable regulatory body to meet the requirements for exemption.
+
+A person is a Counselling Therapist (CT) in good standing with the Association of Counselling Therapy of Alberta (ACTA). They practise in Alberta, an unregulated province.
+
+The ACTA has confirmed with the College of Registered Psychotherapists of Ontario (CRPO) that, for GST/HST purposes, members with the CT designation who meet the CRPO's entry-to-practice education requirements have qualifications equivalent to those required to practise the profession of psychotherapy in the province of Ontario.
+
+Therefore, persons with the CT designation who meet the CRPO's entry-to-practice education requirements meet the definition of practitioner in respect of psychotherapy services that are supplied in provinces that do not regulate the profession of psychotherapy.
+
+A person is a Registered Clinical Counsellor (RCC) in good standing with the BC Association of Clinical Counsellors (BCACC). The person practises in British Columbia, an unregulated province.
+
+The BCACC has confirmed with the College of Registered Psychotherapists of Ontario that, for GST/HST purposes, RCCs from British Columbia have qualifications equivalent to those required to practise the profession of psychotherapy in the province of Ontario.
+
+Therefore, persons with the RCC designation in British Columbia meet the definition of practitioner in respect of psychotherapy services that are supplied in provinces that do not regulate the profession of psychotherapy.
+
+A person is a Registered Marriage and Family Therapist and an active member of the Canadian Association for Couple and Family Therapy (CACFT). They practise in Saskatchewan, an unregulated province.
+
+The CACFT has confirmed with the College of Registered Psychotherapists of Ontario that, for GST/HST purposes, Registered Marriage and Family Therapists have qualifications equivalent to those required to practise the profession of psychotherapy in the province of Ontario.
+
+Therefore, persons with the Registered Marriage and Family Therapist designation meet the definition of practitioner in respect of psychotherapy services that are supplied in provinces that do not regulate the profession of psychotherapy.
+
+Individual A is a Canadian Certified Counsellor (CCC) in good standing with the Canadian Counselling and Psychotherapy Association (CCPA). They provide psychotherapy services in a province that does not regulate the profession of psychotherapy.
+
+Individual B is also a CCC in good standing with the CCPA. They provide counselling therapy services in a province that does not regulate the profession of counselling therapy.
+
+The CCPA has confirmed with the College of Registered Psychotherapists of Ontario that, for GST/HST purposes, the requirements to become a CCC are substantially equivalent to the requirements to be licensed to practise the profession of psychotherapy in the province of Ontario.
+
+The CCPA has also confirmed with the College of Licensed Counselling Therapists of New Brunswick that, for GST/HST purposes, the requirements to become a CCC are substantially equivalent to the requirements to be licensed to practise the profession of counselling therapy in the province of New Brunswick.
+
+Therefore, persons with the CCC designation (which includes the Canadian Clinical Supervisor (CCS) designation) meet the definition of practitioner in respect of psychotherapy services and counselling therapy services that are supplied in provinces that do not regulate the professions.
+
+36. Where a person does not have the qualifications equivalent to those necessary to be licensed or certified in a regulated province, the person is not a practitioner for GST/HST purposes. Any supplies of psychotherapy or counselling therapy services made by the person are generally not exempt from the GST/HST under paragraph 7(j.1) or (j.2) of Part II of Schedule V.
+
+### Third condition – qualifying health care supply
+
+37. In addition to the first two conditions, section 1.2 of Part II of Schedule V requires that a psychotherapy or counselling therapy service rendered to an individual by a practitioner also be a qualifying health care supply for the GST/HST exemptions in section 7 of Part II of Schedule V to apply. This means that a psychotherapy or counselling therapy service must be made for the purpose of maintaining health; preventing disease; treating, relieving, or remediating an injury, illness, disorder, or disability; assisting (other than financially) an individual in coping with an injury, illness, disorder, or disability; or providing palliative care.
+
+38. If the supply of a psychotherapy or counselling therapy service is not a qualifying health care supply, section 1.2 of Part II of Schedule V excludes the supply from the GST/HST exemption for psychotherapy or counselling therapy services.
+
+In addition to supplying psychotherapy or counselling therapy services, a person provides treatment reports and letters to lawyers for legal proceedings, such as custody or criminal court.
+
+The supply of treatment reports and letters to lawyers for legal or court proceedings, the purpose of which is to provide information to a third party, is not considered to be a qualifying health care supply for purposes of the GST/HST. As such, treatment reports and letters to lawyers for custody or criminal court are excluded from the exemptions for psychotherapy services and counselling therapy services.
+
+39. For more information, refer to [GST/HST Policy Statement P-256, Qualifying Health Care Supplies and the Application of the GST/HST to Supplies of Medical Examinations, Assessments, Reports and Certificates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-256.html).
+
+### Fourth condition – not a cosmetic service supply
+
+40. Finally, for a supply of a psychotherapy or counselling therapy service to be exempt from the GST/HST under paragraph 7(j.1) or (j.2) of Part II of Schedule V, the service must not be for a cosmetic purpose. Section 1.1 of Part II of Schedule V excludes from the exempting provisions in Part II of Schedule V (other than section 9), a cosmetic service supply or a supply in respect of a cosmetic service supply.
+
+41. A cosmetic service supply is defined in section 1 of Part II of Schedule V to mean a supply of a property or a service that is made for cosmetic purposes and not for medical or reconstructive purposes. Cosmetic procedures are surgical and non-surgical procedures that are generally aimed at enhancing an individual's appearance and that are not provided for the purpose of treating a medical condition or for reconstructive purposes.
+
+### Summary and additional examples
+
+42. For paragraph 7(j.1) or (j.2) of Part II of Schedule V to exempt a particular supply, specific conditions must be met.
+
+43. The supply must be a supply of a psychotherapy or counselling therapy service. The service must be rendered to an individual by a practitioner of the service. The service must be a qualifying health care supply and cannot be a cosmetic service supply.
+
+44. Where these conditions are met, the supply of a psychotherapy or counselling therapy service is exempt from the GST/HST.
+
+A person provides psychotherapy services in Ontario. The profession of psychotherapy is regulated in the province of Ontario by the College of Registered Psychotherapists of Ontario (CRPO).
+
+For the person's services to be exempt from the GST/HST, all of the following conditions must be met:
+
+- The service is a psychotherapy service within the scope of practice of psychotherapy as determined by the legislation, the provincial regulations, or the regulations of the CRPO
+
+- The psychotherapy service is rendered to an individual by a practitioner of psychotherapy, which, in this case, means that the person is a Registered Psychotherapist in good standing with the CRPO
+
+- The service is a qualifying health care supply (refer to [Third condition – qualifying health care supply](#toc7))
+
+- The service is not a cosmetic service supply (refer to [Fourth condition – not a cosmetic service supply](#toc8))
+
+A person provides counselling therapy services in Prince Edward Island. The profession of counselling therapy is regulated in Prince Edward Island by the College of Counselling Therapy of Prince Edward Island (CCTPEI). The person is a Registered Counselling Therapist in good standing with the CCTPEI.
+
+The person provides counselling therapy services in Prince Edward Island, a regulated province, and is a Registered Counselling Therapist in good standing with the CCTPEI. Therefore, the person is a practitioner of counselling therapy for GST/HST purposes.
+
+For the person's services to be exempt from the GST/HST, the following conditions must also be met:
+
+- The service is a counselling therapy service within the scope of practice of a Registered Counselling Therapist in Prince Edward Island
+
+- The counselling therapy service is rendered to an individual
+
+- The service is a qualifying health care supply (refer to [Third condition – qualifying health care supply](#toc7))
+
+- The service is not a cosmetic service supply (refer to [Fourth condition – not a cosmetic service supply](#toc8))
+
+A person provides psychotherapy services in Ontario. Ontario is a province that regulates the profession of psychotherapy through its regulatory body, the College of Registered Psychotherapists of Ontario (CRPO). The person is not registered with the CRPO but is registered in another regulated profession where the scope of practice of their regulated profession includes psychotherapy services.
+
+Since Ontario regulates the profession of psychotherapy, a person providing services in Ontario must be registered with the CRPO to be a practitioner of psychotherapy. As the person is not registered with the CRPO, they are not a practitioner of psychotherapy and the exemption for psychotherapy services does not apply.
+
+However, we understand that in Ontario certain other health care professions (for example, nursing, occupational therapy) are permitted to perform the controlled act of psychotherapy within the scope of practice of their profession. While these other health care professionals are not practitioners in respect of psychotherapy services, their services may be exempt if another exempting provision applies.
+
+As an example, Registered Occupational Therapists are authorized to provide psychotherapy services in Ontario. Where a Registered Occupational Therapist provides psychotherapy services, the supply may be exempt under paragraph 7(i) of Part II of Schedule V, which exempts a supply of an occupational therapy service if the service is rendered to an individual by a practitioner of the service.
+
+A person provides counselling therapy services in Manitoba. Counselling therapy is not regulated in Manitoba. However, it is regulated in Nova Scotia by the Nova Scotia College of Counselling Therapists (NSCCT) and the person is a Registered Counselling Therapist in good standing with the NSCCT.
+
+To be a practitioner in respect of counselling therapy services supplied in Manitoba, a person must have equivalent qualifications to those required to be registered in a province that regulates the profession. Since the person is a Registered Counselling Therapist in good standing with the NSCCT, they have equivalent qualifications and are a practitioner for counselling therapy services provided in Manitoba or any other unregulated province.
+
+For the person's services to be exempt from the GST/HST, the following conditions must also be met:
+
+- The service is a counselling therapy service within the scope of practice of counselling therapy as determined by the NSCCT
+
+- The counselling therapy service is rendered to an individual
+
+- The service is a qualifying health care supply (refer to [Third condition – qualifying health care supply](#toc7))
+
+- The service is not a cosmetic service supply (refer to [Fourth condition – not a cosmetic service supply](#toc8))
+
+A person provides counselling therapy services in Prince Edward Island, a province that regulates the profession of counselling therapy. However, they are not registered with the College of Counselling Therapy of Prince Edward Island (CCTPEI). Instead, they are registered with the College of Licensed Counselling Therapists of New Brunswick.
+
+Although the person is registered in New Brunswick, they practise in Prince Edward Island, a province that also regulates the profession. Therefore, the person must determine whether they are a practitioner of counselling therapy in Prince Edward Island. To do so, they must refer to the legislation or the provincial regulations in Prince Edward Island and comply with any rules the CCTPEI may have in regard to services rendered by an out-of-province regulated professional. Where the person complies with the requirements of the CCTPEI, they are considered a practitioner of counselling therapy and, provided all other conditions are met, their services are exempt.
+
+A person practises psychotherapy in an unregulated province. The person has confirmed that they have the equivalent qualifications to a Licensed Counselling Therapist in New Brunswick, a province that regulates the profession of counselling therapy.
+
+We understand that psychotherapy is part of the scope of practice of counselling therapy in New Brunswick. Since the person has confirmed that they meet the equivalent qualifications to a Licensed Counselling Therapist in New Brunswick, they are a practitioner for GST/HST purposes. Provided all other conditions are met, their counselling therapy services (which, in this case, include psychotherapy services) provided in the unregulated province are exempt.
+
+A person offers family therapy, couples therapy, and group therapy services.
+
+Paragraphs 7(j.1) and (j.2) of Part II of Schedule V apply to supplies of psychotherapy services and counselling therapy services, respectively. For a particular service (family, couple, or group therapy) offered by the person to be exempt from the GST/HST, all of the following conditions must be met:
+
+- The service must fall within the scope of practice of the profession of psychotherapy or counselling therapy
+
+- The service must be rendered to each individual in the family, couple, or group, as applicable, by a practitioner of psychotherapy or counselling therapy to the extent that the practitioner is a direct care provider of each individual client
+
+- The service must be a qualifying health care supply (refer to [Third condition – qualifying health care supply](#toc7))
+
+- The service cannot be a cosmetic service supply (refer to [Fourth condition – not a cosmetic service supply](#toc8))
+
+Where any of the conditions are not met, the exemption for psychotherapy or counselling therapy does not apply to the particular service. If the supply of the service does not fall within another exempting provision of the ETA, the supply is subject to the GST/HST.
+
+A Registered Psychotherapist is subcontracted by a clinic in Ontario to provide psychotherapy services to the clinic's clients. The Registered Psychotherapist has a written agreement with the clinic.
+
+Where a clinic contracts with a Registered Psychotherapist for the provision of psychotherapy services to clients of the clinic, there are two transactions that take place: one transaction between the psychotherapist and the clinic and another transaction between the clinic and its clients.
+
+In the transaction between the clinic and its clients, the clinic is supplying psychotherapy services. The services are rendered to its clients by a Registered Psychotherapist, a practitioner for purposes of the GST/HST. The psychotherapy services rendered to the clients by a Registered Psychotherapist within their scope of practice are generally exempt regardless of whether the psychotherapist is an employee or a subcontractor of the clinic.
+
+In the transaction between the psychotherapist and the clinic, a written agreement exists. The terms of the written agreement will determine the nature of the supply and the tax status of this transaction. For example, where the written agreement is a contract for the psychotherapist to provide psychotherapy services to the clinic's clients, the exemption for psychotherapy services may apply. However, if the written agreement allows the clinic to retain a portion of the psychotherapist's fees for the use of the facilities, equipment, and administrative services supplied by the clinic, the amount retained may be consideration for a taxable supply made by the clinic to the psychotherapist. This depends on the wording of the agreement and the facts and circumstances of the case.
+
+A psychotherapy clinic in Ontario hires a psychotherapy student to provide psychotherapy services to its clients. The student renders the psychotherapy services to the clinic's clients under the supervision of a Registered Psychotherapist.
+
+As a supervisor, the Registered Psychotherapist reviews the clients' medical records and comments on the best course of treatment. The clinical supervision services provided by the Registered Psychotherapist are within the scope of practice of the profession of psychotherapy in Ontario, a regulated province.
+
+The services provided by the clinic to its clients include both the services rendered by the student psychotherapist and the Registered Psychotherapist. The supply of the student's psychotherapy services to clients of the clinic is part of the Registered Psychotherapist's overall services, and the Registered Psychotherapist is a practitioner for purposes of the GST/HST.
+
+Where the services are qualifying health care supplies (refer to [Third condition – qualifying health care supply](#toc7)) and are not cosmetic service supplies (refer to [Fourth condition – not a cosmetic service supply](#toc8)), the clinic's supplies of the psychotherapy services to its clients are exempt from the GST/HST.
+
+## Supplies made by a charity or public institution
+
+45. Most supplies of services made by a charity or public institution are exempt from the GST/HST. Supplies of psychotherapy or counselling therapy services made by a charity are generally exempt under section 1 of Part V.1 of Schedule V. Supplies of psychotherapy or counselling therapy services made by a public institution are generally exempt under section 2 of Part VI of Schedule V.
+
+46. As a result, the addition of paragraphs 7(j.1) and (j.2) of Part II of Schedule V does not have an impact on the tax status of supplies of psychotherapy or counselling therapy services made by a charity. Supplies of psychotherapy or counselling therapy services made by a public institution that are cosmetic service supplies or that are not qualifying health care supplies are generally excluded from the exemption in section 2 of Part VI of Schedule V. Supplies that are excluded from exemption in Part II of Schedule V by sections 1.1 and 1.2 of that Part are also excluded from the exemption for public institutions.
+
+## Application of the GST/HST digital economy measures to these services
+
+47. Generally, the supply of a psychotherapy or counselling therapy service remains a supply of a service even when delivered to a client by electronic means. Therefore, it is important to note that as of July 1, 2021, GST/HST obligations may be triggered under the digital economy measures in limited situations.
+
+48. The digital economy measures generally only apply to taxable psychotherapy or counselling therapy services (**specified supplies**) when provided by a non-resident person (**specified non-resident supplier**), either directly or through an intermediary, such as a distribution platform (**specified distribution platform**), to specific clients (**specified Canadian recipients**). When such services are rendered by a person who is a resident of Canada, whether directly or through a platform, the regular GST/HST registration rules apply.
+
+49. Where a specified non-resident supplier (licensed or not) rendered specified supplies online directly to specified Canadian recipients in Canada or through a platform before June 20, 2024, the supplies are generally taxable for GST/HST purposes. As a result, the specified non-resident supplier or the intermediary (**distribution platform operator**) may have potential GST/HST obligations, including registering, charging, collecting, and remitting the GST/HST under the digital economy measures.
+
+50. To determine a non-resident person's GST/HST obligations on or after June 20, 2024, the person must first determine whether they meet the conditions to be a practitioner of psychotherapy or counselling therapy.
+
+51. Where a non-resident person is not a practitioner of psychotherapy or counselling therapy for GST/HST purposes, their supply of psychotherapy or counselling therapy services remains taxable. As a result, the specified non-resident supplier or the distribution platform operator continues to have potential GST/HST obligations under the digital economy measures.
+
+52. If a specified non-resident supplier is a practitioner of psychotherapy or counselling therapy, their supply of psychotherapy or counselling therapy services may be exempt under paragraph 7(j.1) or (j.2) of Part II of Schedule V, respectively, provided all other conditions outlined in this memorandum are met. Where this is the case, the exempt supply of their services would not fall within the scope of the digital economy measures.
+
+53. For more information, go to [GST/HST for digital-economy businesses: Overview](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/digital-economy.html), which provides definitions of key terms used in this section and explains the corresponding GST/HST obligations.
+
+## Other charges
+
+54. In addition to fees charged for psychotherapy or counselling therapy services, a psychotherapist or counselling therapist may also charge administrative fees, such as cancellation fees or fees for returned cheques.
+
+### Cancellation fees
+
+55. A psychotherapist or counselling therapist may charge a cancellation fee when an appointment is missed or cancelled without notice. A cancellation fee paid by a client is treated as payment for the intended supply (that is, consultation or treatment).
+
+56. Where the psychotherapy or counselling therapy service would have been exempt, the GST/HST does not apply to the cancellation fee.
+
+57. Where the service would have been taxable, the GST/HST applies to the cancellation fee. The amount paid by the client to the psychotherapist or counselling therapist is deemed under section 182 to be a GST/HST-included amount. The client is deemed to have paid and the psychotherapist or counselling therapist, if a GST/HST registrant, is deemed to have collected the GST/HST on the cancellation fee at the time the fee is paid.
+
+### Returned cheques
+
+58. A fee charged for a returned cheque for insufficient funds is consideration for an exempt supply of a financial service under section 1 of Part VII of Schedule V. As a result, the GST/HST does not apply to this fee.
+
+## Implementation period
+
+59. Supplies of psychotherapy and counselling therapy services rendered before June 20, 2024, are generally taxable for GST/HST purposes. Provided the conditions outlined in this memorandum are met, supplies of psychotherapy and counselling therapy services made on or after June 20, 2024, are exempt from the GST/HST. There was no transition period for this change.
+
+A Registered Psychotherapist in Ontario is providing exempt psychotherapy services.
+
+As of June 20, 2024, the psychotherapist must not charge the GST/HST on their exempt psychotherapy services.
+
+A counselling therapist was making taxable supplies of counselling therapy services. As of June 20, 2024, their supplies of counselling therapy services became exempt from the GST/HST.
+
+Supplies of counselling therapy services rendered before June 20, 2024, were taxable for GST/HST purposes. If the counselling therapist was a GST/HST registrant (that is, a person that was registered or required to be registered for the GST/HST) before that date, they had to charge and collect the GST/HST on their counselling therapy services.
+
+As of June 20, 2024, the counselling therapist must not charge the GST/HST on their exempt counselling therapy services.
+
+## GST/HST charged or collected in error
+
+60. Any amount of the GST/HST charged or collected by a person must be included in the net tax calculation in the person's return for the applicable reporting period.
+
+61. A psychotherapist or counselling therapist who has charged or collected an amount as the GST/HST in error on an exempt supply made on or after June 20, 2024, may, in accordance with section 232:
+
+- adjust the amount charged if the amount has not been collected
+
+- refund or credit the amount to the client if the amount has been collected
+
+62. A psychotherapist or counselling therapist who adjusts, refunds, or credits the amount must do so within **two years** after the day the amount was charged or collected and must provide the client with a credit note containing specific information.
+
+63. A psychotherapist or counselling therapist who adjusts, refunds, or credits the amount charged or collected as the GST/HST in error to clients, may deduct the amount when determining their net tax for the reporting period in which the credit note is issued. The amount may only be deducted to the extent it has been included in determining the net tax for the reporting period in which the credit note is issued or a preceding reporting period of the psychotherapist or counselling therapist. This amount should be reported as an adjustment on line 107 (if using GST/HST NETFILE) or line 108 (if using GST/HST TELEFILE) of the GST/HST return for the appropriate reporting period.
+
+64. For more information on adjusting, refunding, or crediting the GST/HST to a client, including the specific information that must be contained in a credit note or debit note, refer to [GST/HST Memorandum 12-2, Refund, Adjustment, or Credit of the GST/HST under Section 232 of the Excise Tax Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/12-2.html).
+
+65. Alternatively, a psychotherapist or counselling therapist can choose not to adjust the amount charged or issue a refund or credit. In such cases, section 261 provides that clients who have paid an amount as the GST/HST on exempt supplies in error may claim a rebate of the amount paid using [Form GST189, General Application for GST/HST Rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html), reason code 1C. The time limit to apply for this rebate is **two years** after the day the client paid the amount.
+
+66. For more information on claiming a rebate of the GST/HST paid in error, clients may refer to [Guide RC4033, General Application for GST/HST Rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4033.html).
+
+## Input tax credits
+
+67. Under subsection 169(1), a GST/HST registrant is generally eligible to claim an input tax credit (ITC) to recover the GST/HST paid or payable on taxable property and services to the extent that the property or service is acquired, imported, or brought into a participating province by the registrant for consumption, use, or supply for the purpose of making taxable supplies for consideration. An ITC cannot be claimed for the GST/HST paid or payable on property or services that a registrant acquired, imported, or brought into a participating province for purposes other than making taxable supplies for consideration (for example, for the purpose of making exempt supplies).
+
+68. For more information, refer to [GST/HST Memorandum 8-3, Calculating Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-3.html).
+
+### Supplies made on or after June 20, 2024
+
+69. Supplies of psychotherapy or counselling therapy services made on or after June 20, 2024, are exempt from the GST/HST provided that all conditions outlined in this memorandum are met. The change in tax status for psychotherapy and counselling therapy services impacts a GST/HST registrant's ITC eligibility.
+
+70. A GST/HST registrant is not eligible to claim ITCs on inputs (for example, services, capital property, non-capital property) acquired for the purpose of making exempt supplies of psychotherapy or counselling therapy services.
+
+A Registered Counselling Therapist practises in Prince Edward Island. As of June 20, 2024, they provide only exempt counselling therapy services.
+
+As of June 20, 2024, the Registered Counselling Therapist is no longer eligible to claim ITCs on inputs (for example, services, capital property, non-capital property) acquired for the purpose of making exempt supplies of counselling therapy services.
+
+A GST/HST registered psychotherapist practises in Newfoundland and Labrador. As of June 20, 2024, the psychotherapy services that they provide are exempt. However, they also provide workshops on psychotherapy and they have determined that supplies of the workshops are taxable for GST/HST purposes.
+
+As a GST/HST registrant, the psychotherapist is eligible to claim ITCs on inputs acquired for the purpose of making taxable supplies if the other conditions for claiming an ITC, such as documentary requirements, are met.
+
+Since their psychotherapy services are exempt as of June 20, 2024, the psychotherapist is no longer eligible to claim ITCs on inputs acquired for the purpose of making those services. However, the workshops are taxable supplies. Therefore, the psychotherapist is eligible to claim ITCs on inputs acquired for the purpose of providing the workshops if the other conditions for claiming an ITC are met.
+
+71. In addition, where the tax status of a psychotherapist's or counselling therapist's services changes (from taxable to exempt), a change in use of their capital property may occur. The psychotherapist or counselling therapist may be required to remit the GST/HST resulting from the change in use.
+
+72. Change-in-use provisions are a set of rules that apply when a property is originally purchased for one purpose, then subsequently used for another (for example, from a GST/HST taxable activity to an exempt one or vice versa).
+
+A psychotherapist purchased a computer to use in the management of their psychotherapy practice. Their practice generated GST/HST taxable revenues until June 19, 2024. As of June 20, 2024, their practice only generates GST/HST exempt revenues.
+
+Since the computer was originally purchased for use in GST/HST taxable activities and it is now used only in GST/HST exempt activities, the change in the tax status of the psychotherapist's services triggers the change-in-use provisions.
+
+#### Change in use – capital personal property
+
+73. If, as a result of psychotherapy or counselling therapy services becoming exempt from the GST/HST, there is a change in use of a person's capital personal property from more than 50% in taxable activities to 50% or less in taxable activities, the person ceases to use the property primarily in taxable activities. As a result, if the person is a GST/HST registrant, they are deemed under subsection 200(2) to have sold the property immediately before the change in use occurs and, at the time the change in use occurs, they are deemed to have collected the GST/HST on the sale of the property equal to the basic tax content of the property at that time.
+
+74. In addition, subsection 200(2) deems the person to have repurchased the same property at the time the change in use occurs and to have paid the GST/HST on the purchase of the property equal to the basic tax content of the property at that time.
+
+75. The deemed sale effectively requires the person to account for all, or part, of the GST/HST previously claimed (or that the person was eligible to claim) as an ITC when they bought the property and when they made improvements to the property. The person must account for the amount of the GST/HST deemed to have been collected on the deemed sale of capital personal property in their net tax calculation for the reporting period in which the change in use of the property occurs. They are not eligible to claim an ITC for the GST/HST deemed to have been paid under subsection 200(2) on the deemed repurchase of the property and must remit any positive amount of net GST/HST owing for the reporting period.
+
+76. For more information, go to [Calculate input tax credits - Percentage of use in commercial activities](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/calculate-prepare-report/input-tax-credit/calculate-percentage-use-commercial-activities.html) or refer to "Change-in-use rules for capital personal property" in [Guide RC4022](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+A Registered Psychotherapist is registered for the GST/HST and is located in Ontario. They purchased a computer in Ontario on January 22, 2020, to be used primarily in taxable activities. The cost of the computer was $2,000 plus the HST of $260 ($2,000 × 13%). The psychotherapist claimed an ITC of $260 at the time of purchase. They did not make any improvements to the computer.
+
+On June 20, 2024, the Registered Psychotherapist began to use the computer primarily in exempt activities. At that time, the fair market value of the computer was $200.
+
+To calculate the basic tax content (BTC) of the computer, the psychotherapist uses the formula:
+
+**(A − B) × C**
+
+where:
+
+Therefore, the BTC of the computer is $26 ([$260 − $0] × 0.1).
+
+The psychotherapist must include the HST deemed to have been collected in respect of the change in use (that is, $26) on line 103 (if the return is filed using GST/HST NETFILE) or line 105 (if the return is filed using GST/HST TELEFILE) for the reporting period in which the change in use of the computer occurred.
+
+#### Change in use – capital real property
+
+77. If the use of capital real property in taxable commercial activities is reduced, a GST/HST registrant is generally considered to have sold a portion of the property that reflects the decrease in use in accordance with subsection 206(5) or 207(2). Subsection 206(5) applies where a registrant (except an individual or a public sector body that is not a financial institution) reduces the extent to which capital real property is used in a commercial activity without ceasing to use it in commercial activity. Subsection 207(2) applies where a registrant who is an individual reduces (but does not cease) the use of real property in commercial activities, without beginning to use the property primarily (more than 50%) for personal use and enjoyment.
+
+78. However, a change in use of capital real property of less than 10% is deemed to be insignificant under section 197, unless the use in commercial activities is reduced to 10% or less, or in the case of an individual, the individual begins to use the property primarily for personal use and enjoyment. For example, a change in use from 65% use in commercial activities to 60% use in commercial activities is deemed to be insignificant and has no GST/HST consequences.
+
+79. Subsequent insignificant changes in the use of the property are cumulative. For example, if the use in commercial activities is further reduced to 55% in a subsequent reporting period, the cumulative change from 65% to 60% and then from 60% to 55% is deemed to be significant.
+
+A GST/HST registered corporation is located in New Brunswick. The corporation purchased a commercial building in New Brunswick on January 1, 2020, to be used exclusively (90% or more) in taxable activities, which included the provision of counselling therapy services. The cost of the property was $1,000,000 plus the HST of $150,000 ($1,000,000 × 15%). The corporation claimed an ITC of $150,000 for the HST paid on the purchase.
+
+In 2022, the corporation made improvements to the property for a total cost of $50,000 plus the HST of $7,500 ($50,000 × 15%). The corporation claimed an ITC of $7,500 for the HST paid on the improvements.
+
+On June 20, 2024, the tax status of the corporation's counselling therapy services changed from taxable to exempt. Using a fair and reasonable method, the corporation determined that the use of the property in taxable activities was reduced to 15%. The fair market value of the property on June 20, 2024, was $1,300,000.
+
+The corporation is deemed to have sold a portion of the property and to have collected the HST, which is calculated using the formula:
+
+**A × B**
+
+where:
+
+To calculate the BTC of the property, the corporation uses the formula:
+
+**(A − B) × C**
+
+where:
+
+Therefore, the BTC of the property is $157,500 ([$157,500 − $0] × 1).
+
+The corporation must include the HST deemed to have been collected in respect of the change in use of the property equal to $133,875 ($157,500 × 85%) on line 103 (if the return is filed using GST/HST NETFILE) or line 105 (if the return is filed using GST/HST TELEFILE) for the reporting period in which the change in use of the property occurred.
+
+80. A reduction of the use in commercial activities to 10% or less (or in the case of an individual, where the individual begins to use the property primarily for personal use and enjoyment) is always considered to be a significant change in use even if the change in use is less than 10%. For example, a change in use from 15% use in commercial activities to 10% use in commercial activities is deemed to be significant.
+
+81. When a GST/HST registrant stops using capital real property in commercial activities (that is, when the use in commercial activities is reduced to 10% or less) and begins to use the real property 90% or more for non-commercial activities, or a registrant individual begins to use capital real property primarily for their personal use and enjoyment or that of a related individual, the registrant is considered to have sold the property under subsection 206(4) or 207(1), respectively. Unless the sale is exempt, the registrant is also considered to have collected the GST/HST on the sale equal to the basic tax content of the property at that time[Footnote2](#fn2) and they are considered to have repurchased the property and to have paid the same amount of tax. The registrant is not eligible to claim an ITC for the GST/HST deemed to have been paid on the deemed repurchase of the property.
+
+All facts from Example 32 remain the same except that the extent of the use of the property in taxable activities was reduced from exclusive use (90% or more) to 8% in taxable activities. As a result, the corporation is considered to have ceased using the property in taxable activities.
+
+The corporation is deemed to have sold the property and to have collected the HST equal to the basic tax content (BTC) of the property, which is calculated using the formula:
+
+**(A − B) × C**
+
+where:
+
+Therefore, the BTC of the property is $157,500 ([$157,500 − $0] × 1).
+
+The corporation must include the HST deemed to have been collected in respect of the change in use of the property (that is, $157,500) on line 103 (if the return is filed using GST/HST NETFILE) or line 105 (if the return is filed using GST/HST TELEFILE) for the reporting period in which the change in use of the property occurred.
+
+82. For more information, go to [Calculate input tax credits – Percentage of use in commercial activities](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/calculate-prepare-report/input-tax-credit/calculate-percentage-use-commercial-activities.html) or refer to "Change-in-use rules for capital real property" in [Guide RC4022](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+## Cancellation of GST/HST registration
+
+83. If a psychotherapist or counselling therapist has a GST/HST account and they confirm that their psychotherapy or counselling therapy services are exempt, they must stop charging the GST/HST on those services.
+
+84. If all of the psychotherapist's or counselling therapist's services are exempt, they are not required to be registered and may close their GST/HST account.
+
+85. However, all services supplied by a psychotherapist or counselling therapist might not be exempt from the GST/HST. If only some of their services are exempt while others remain taxable, the psychotherapist or counselling therapist must determine if they are a small supplier.
+
+86. In general, section 148 provides that a person is a small supplier in a particular calendar quarter and the following month where their total revenues from worldwide taxable supplies, including zero-rated supplies, in the previous four consecutive calendar quarters do not exceed the small supplier threshold of $30,000 (or $50,000 for a public service body). For more information on small suppliers, refer to [GST/HST Memorandum 2-2, Small suppliers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/2-2.html).
+
+87. If a psychotherapist or counselling therapist is not a small supplier, they must keep their GST/HST account open and continue to charge, collect, and remit the GST/HST on their taxable supplies.
+
+88. If a psychotherapist or counselling therapist is a small supplier, they may choose to cancel their GST/HST registration as long as they have been registered for at least one year.
+
+89. A GST/HST registration can be cancelled by completing and filing [Form RC145, Request to Close Business Number Program Accounts](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc145.html). Alternatively, a registration can be cancelled in writing or by calling Business Enquiries at 1‑800‑959‑5525. All necessary information must be provided, including the reason for, and effective date of, the cancellation.
+
+90. In addition, any returns, remittances, and balances owing up to and including the cancellation date must be submitted.
+
+91. For information on how cancelling a GST/HST registration may affect capital property that a person used in their taxable commercial activities, refer to "Cancelling your registration" in [Guide RC4022](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html), or go to [Close your GST/HST account](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-account/close-account.html).
+
+### Services and non-capital property held at time of cancellation
+
+92. Unlike capital property (discussed in paragraphs 73 to 82 of this memorandum), there are generally no change-in-use provisions that apply to services and non-capital property. However, there may be GST/HST consequences if a psychotherapist or counselling therapist cancels their GST/HST registration.
+
+93. Where a person cancels its GST/HST registration and ceases to be a registrant, subsection 171(3) may require the person to account for the GST/HST on non-capital property on hand at that time. In addition, paragraph 171(4)(b) may require the person to repay ITCs previously claimed on services, rent, royalties, and similar payments that relate to a period after the cancellation of the registration.
+
+94. For more information, refer to "Cancelling your registration" in [Guide RC4022](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html) or go to [Close your GST/HST account](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-account/close-account.html).
+
+A psychotherapist purchased 10 boxes of notepads on January 10, 2024, intending to use the notepads in making taxable supplies of psychotherapy services. The psychotherapist is a monthly filer and, on their GST/HST return for the period ending January 31, 2024, they claimed a full ITC for the GST/HST paid to purchase the notepads.
+
+The psychotherapist had five boxes of notepads remaining on June 20, 2024, when their psychotherapy services became exempt from the GST/HST, and they had not yet cancelled their GST/HST registration.
+
+Since the psychotherapist had intended to use the notepads in the course of making taxable supplies of psychotherapy services, they are not required to account for the portion of the GST/HST that was paid on the notepads that will be used in making exempt supplies of psychotherapy services.
+
+However, if the psychotherapist later cancels their registration, subsection 171(3) may require them to account for the GST/HST on the fair market value of any remaining boxes of notepads.
+
+### Reporting periods
+
+95. If a person cancels their GST/HST registration, they are required to file their final GST/HST returns. Under subsection 251(2), the person is deemed to have two separate reporting periods and may, therefore, have to file two separate returns:
+
+- a return for a reporting period that ends the day before the person cancels their registration
+
+- a second return for a reporting period that begins the day the GST/HST registration is cancelled and ends on the last day of that month (this return is only required if the person has any GST/HST to remit for that period)
+
+96. For more information, refer to "Filing your final GST/HST return" in [Guide RC4022](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html) or go to [Close your GST/HST account](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-account/close-account.html).
+
+### Prepaid tax instalments
+
+97. When filing the final GST/HST return, a person should report any instalment payments made throughout the year on line 110.
+
+98. Generally, if the instalment payments made throughout the year are less than the net tax owing, the person must remit the difference.
+
+99. Conversely, if the instalment payments made throughout the year are more than the net tax owing, the person can claim the difference as a refund. Overpayments are refunded provided that there is no debt or missing return on the person's business account.
+
+100. For more information, go to [Remit (pay) the GST/HST by instalments](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/remit-pay-gst-hst-collected/pay-instalment.html).
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries**, call **Business Enquiries** at **1‑800‑959‑5525**
+
+- for **GST/HST technical enquiries**, call **GST/HST Rulings** at **1‑800‑959‑8287**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1‑800‑567‑4692** or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution** (whether or not you are located in Quebec) and require information on the **GST/HST** or the **QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for **general GST/HST** or **QST enquiries**, call **Business Enquiries** at **1‑800‑959‑5525**
+
+- for **technical GST/HST** or **QST enquiries**, call **GST/HST Rulings SLFI** at **1‑855‑666‑5166**

@@ -1,0 +1,596 @@
+---
+title: "Guidance on Country-By-Country Reporting in Canada"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4651/guidance-on-country-country-reporting-canada.html
+last_modified: 2024-03-01
+---
+# Guidance on Country-By-Country Reporting in Canada
+
+ISBN 978-0-660-35465-1
+
+Rv4-141/2024E-PDF
+
+## Acronyms
+
+BEPS Base erosion and profit shifting
+
+CbC Country-by-country
+
+CE Constituent entity
+
+CRA Canada Revenue Agency
+
+OECD Organisation for Economic Co-operation and Development
+
+MAC Multilateral Convention on Mutual Administrative Assistance in Tax Matters
+
+MCAA Multilateral Competent Authority Agreement on the Exchange of Country-by-Country Reports
+
+MNE Multinational enterprise
+
+QCAA Qualifying competent authority agreement
+
+SPE Surrogate parent entity
+
+TIN Tax identification number
+
+UPE Ultimate parent entity
+
+## Purpose of this document
+
+This document provides guidance to taxpayers affected by country-by-country (CbC) reporting filing obligations imposed under [section 233.8](https://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-233.8.html)[Footnote1](#fn1) of the Income Tax Act (the Act).
+
+Unless otherwise noted, all legislative references in this document are to the Act or the Income Tax Regulations (the Regulations).
+
+For ease of reference, the terms defined in subsection 233.8(1) of the Act are reproduced in [Annex I](#toc27). The Canadian CbC reporting legislation is available at the [Justice Laws Website](http://laws-lois.justice.gc.ca/eng/) at laws-lois.justice.gc.ca/eng and the accompanying [Department of Finance Explanatory Notes](https://www.fin.gc.ca/drleg-apl/2016/ita-lir-0716-n-eng.pdf)[Footnote2](#fn2) can be found at the [Department of Finance](https://www.canada.ca/en/department-finance.html) website.
+
+## Background
+
+In October 2015, the Organisation for Economic Co-operation and Development (OECD)/G20 project on Base Erosion and Profit Shifting (BEPS) issued reports in 15 action areas. One of these reports deals with [Transfer Pricing Documentation and Country-by-Country Reporting](http://www.oecd.org/tax/transfer-pricing-documentation-and-country-by-country-reporting-action-13-2015-final-report-9789264241480-en.htm)[Footnote3](#fn3) (the BEPS Action 13 Final Report). The BEPS Action 13 Final Report recognized that enhancing transparency for tax administrations, by providing them with adequate information on the activities of multinational enterprises in order to conduct transfer pricing risk assessments, is an essential part of addressing BEPS.
+
+The country-by-country report (CbC report), a component of BEPS Action 13, is a form that a large [multinational enterprise group (MNE group)](#mnegroup) with total consolidated group revenue of €750 million or more must file with the tax administration of the jurisdiction in which the [ultimate parent entity (UPE)](#upe) of the [MNE group](#mnegroup) resides.
+
+A CbC report includes the global allocation, by jurisdiction, of key variables for the [MNE group](#mnegroup) including: revenue, profit, tax paid, stated capital, accumulated earnings, number of employees and tangible assets, as well as the main activities of each [constituent entity (CE)](#ce) of the [MNE group](#mnegroup).
+
+CbC reports filed with the Canada Revenue Agency (CRA) are automatically exchanged with other jurisdictions in which the [MNE group](#mnegroup) operates (via a [CE](#ce)), provided that, in each case,
+
+- the other jurisdiction has implemented CbC reporting legislation,
+
+- the two jurisdictions have a legal framework in place for automatic exchange of information (e.g., the [Multilateral Convention on Mutual Administrative Assistance in Tax Matters](http://www.oecd.org/tax/exchange-of-tax-information/convention-on-mutual-administrative-assistance-in-tax-matters.htm) (MAC)[Footnote4](#fn4) or a bilateral tax treaty), and
+
+- they have entered into a [qualifying competent authority agreement](#qcaa) (QCAA) relating to CbC reporting.
+
+Similarly, the CRA receives, via automatic exchange, CbC reports from other jurisdictions where the [UPE](#upe) of an [MNE group](#mnegroup) is resident, if that [MNE group](#mnegroup) has operations in Canada. If the CRA cannot obtain the CbC report from the jurisdiction of the [UPE](#upe) via automatic exchange of information, then in certain cases, section 233.8 of the Act requires a [CE](#ce) in Canada (that is not the [UPE](#upe)) to file the CbC report. This is often referred to as a local filing requirement.
+
+An [MNE group](#mnegroup) may avoid having this local filing requirement imposed on multiple [CEs](#ce) in multiple jurisdictions by designating one of its [CEs](#ce) to be a [surrogate parent entity](#spe) ([SPE](#spe)) for filing purposes. As a result of this designation, provided that the [SPE](#spe) is located in a jurisdiction which has implemented CbC reporting, the [SPE](#spe) will file the CbC report on behalf of the [MNE group](#mnegroup) as a whole under the laws of the jurisdiction of the [SPE](#spe).
+
+## Interpretation of Canadian CbC reporting legislation
+
+All countries participating in the BEPS project agreed upon a [CbC reporting implementation package](https://www.oecd.org/ctp/transfer-pricing/beps-action-13-country-by-country-reporting-implementation-package.pdf)[Footnote5](#fn5). This package includes model legislation for the introduction of CbC reporting requirements (OECD model legislation). The purpose of the implementation package, and in particular, the OECD model legislation, is to ensure a consistent and standard approach to the implementation of CbC reporting by all participating jurisdictions. For this reason, the Canadian CbC reporting legislation generally conforms to the OECD model legislation. Therefore, an understanding of the [BEPS Action 13 Final Report](https://www.oecd.org/en/publications/2015/10/transfer-pricing-documentation-and-country-by-country-reporting-action-13-2015-final-report_g1g58cf0.html) is useful to interpreting the Canadian CbC reporting legislation and it should be read in conjunction with this guidance. In addition, the OECD has released [Guidance on the implementation of CbC Reporting](http://www.oecd.org/ctp/beps/guidance-on-country-by-country-reporting-beps-action-13.htm)[Footnote6](#fn6), which is updated from time to time.
+
+It should be noted that where there are differences between the OECD model legislation and the Canadian CbC reporting legislation, the Canadian CbC reporting legislation takes precedence.
+
+## Entities that are required to file in Canada
+
+CbC reporting requirements apply to any [MNE group](#mnegroup) that has total consolidated group revenue of €750 million or more, as reflected in its [consolidated financial statements](#cfs), in the **immediately preceding** [fiscal year](#fy).
+
+Under subsection 233.8(3) of the Act, the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) must be filed by:
+
+- the [UPE](#upe) of the [MNE group](#mnegroup), if it is resident in Canada in the [reporting fiscal year](#rfy) (primary reporting mechanism); or
+
+- a [CE](#ce) of the [MNE group](#mnegroup), which is not the [UPE](#upe), if it is resident in Canada in the [reporting fiscal year](#rfy), and certain conditions are satisfied. See [secondary reporting mechanism](#toc12) for information.
+
+The CbC report must be filed in prescribed form ([RC4649](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html)[Footnote7](#fn7)) or, in the case of a CE filing under the secondary reporting mechanism, may also be a substantially similar report required to be filed in a jurisdiction other than Canada. For purposes of this guidance, the RC4649 or a substantially similar report are collectively referred to as a CbC report.
+
+### Change of UPE during a fiscal year
+
+The [UPE](#upe) is always identified by reference to the last day of the [fiscal year](#fy) to which the CbC report relates. Therefore, for an [MNE group](#mnegroup) with a [fiscal year](#fy) end of December 31, 2016, the [UPE](#upe) is identified by reference to the date of December 31, 2016.
+
+It should be noted that the [UPE](#upe) of an [MNE group](#mnegroup) may change from one [fiscal year](#fy) to the next or part way through a [fiscal year](#fy) as a result of a restructuring of the [MNE group](#mnegroup), e.g. a takeover. An [MNE group](#mnegroup) should be cognizant of the impact that changing the [UPE](#upe) may have on CbC reporting obligations, in particular, where the jurisdiction of tax residence of the [UPE](#upe) changes. Where a change in the [UPE](#upe) of an [MNE group](#mnegroup) occurs, the [MNE group](#mnegroup) should carefully review its obligations with regard to making notifications and filing CbC reports.
+
+Where the [UPE](#upe) of an [MNE group](#mnegroup), that is not an [excluded MNE group](#exmnegroup), changes in a [fiscal year](#fy), the CRA expects the following to apply:
+
+- The [UPE](#upe) of the acquired [MNE group](#mnegroup) should file a CbC report including data for that [MNE group](#mnegroup) up to the date of takeover.
+
+- The parent entity of the acquirer [MNE group](#mnegroup) should file a CbC report as normal for its [fiscal year](#fy). That CbC report will include data for the [CEs](#ce) of the acquired [MNE group](#mnegroup) from the date of acquisition until the end of the [fiscal year](#fy).
+
+### Non-publicly traded UPEs
+
+There may be situations where one or more individuals ultimately own non-publicly traded entities and each of these entities has its own subsidiaries across more than one jurisdiction. In order to identify the existence and membership of an [MNE group](#mnegroup), the entity that is ultimately either required to prepare consolidated financial statements for financial reporting purposes under applicable accounting principles or would be so required if equity interests in any of such business entities were traded on a public securities exchange, will be the [UPE](#upe). This applies even if the top entity is a holding company.
+
+### Rules for investment funds
+
+[Guidance on the Implementation of Country-by-Country Reporting: BEPS Action 13](http://www.oecd.org/tax/beps/guidance-on-country-by-country-reporting-beps-action-13.htm) confirms that the application of CbC reporting to investment funds will depend on the relevant accounting treatment. The governing principle is to follow the accounting consolidation rules.
+
+If, applying accounting rules, an investment entity does not consolidate investee companies, then those investee companies should not form part of an [MNE group](#mnegroup) and should not be considered [CEs](#ce). However, if the accounting rules require that the investment entity consolidates with an investee company, the investee company should be part of an [MNE group](#mnegroup) (where one exists) and should therefore be considered a [CE](#ce).
+
+## Exemptions from filing in Canada
+
+The only exemption from filing is for an [MNE group](#mnegroup) with consolidated group revenue below the €750 million threshold. There are no exemptions for any specific industries, investment funds, entities with tax exempt status, non-corporate entities or entities that are not publicly listed.
+
+## Effective date of CbC reporting in Canada
+
+CbC reporting in Canada applies to [fiscal years](#fy) of [MNE groups](#mnegroup) beginning on or after January 1, 2016.
+
+## Deadline for filing of the CbC Report
+
+In accordance with subsection 233.8(6) of the Act, the [CbC](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) report must generally be filed with the CRA no later than 12 months after the last day of the [fiscal year](#fy) to which the report relates. For example, a CbC report for the [fiscal year](#fy) ended December 31, 2017 must be filed with the CRA no later than December 31, 2018.
+
+However, if notification of [systemic failure](#sf) has been received by the [CE](#ce), this deadline can be extended to 30 days after receipt of the notification. This takes into account situations where a [CE](#ce) has been informed of a [systemic failure](#sf) beyond the period within which it could meet the 12 month deadline.
+
+## Filing a CbC Report with the CRA - Corporation Internet Filing (CIF)
+
+Canadian UPEs and SPEs that are corporations must file CbC reports electronically using CRA certified software that provides for the filing of the RC4649 electronically. Canadian CEs that are using the RC4649 must also file electronically in this manner. Electronic filing provides an easy-to-use, convenient, secure, and confidential method for filing the RC4649. CIF streamlines the tax filing process and provides the filer with an immediate confirmation of receipt. A paper copy of your return should not be submitted when filing electronically.
+
+To file an [RC4649](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) directly to the CRA through the Internet, you require one of the following:
+
+- A Web Access Code - generally used if filing for one corporation; or
+
+- An EFILE number and password - generally used if filing tax returns for multiple corporations.
+
+### How to obtain a Web Access Code
+
+If you transmit your [RC4649](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) using a Web Access Code, you can apply for, and receive, this code within certain commercial tax preparation software packages or by completing the [T2 Web Access Code online](https://apps.cra-arc.gc.ca/ebci/tgif/t2wac/connecting-e.jsp) form.
+
+Otherwise, contact the Corporation Internet Filing Helpdesk[Footnote8](#fn8) .
+
+### Electronic filing using EFILEFootnote 9
+
+Canadian corporations that meet the electronic filing requirements and pass the screening criteria can file the RC4649 electronically using the CRA’s T2 EFILE service. To use this service, you must first complete the online EFILE Registration form.
+
+When completing this registration form, you will need to select a “Return Type”. You should indicate T2 returns as the “Return type” on the application form, even if you are only applying for the EFILE number to electronically file a CbC report and you are not going to be transmitting a T2 return.
+
+When you receive confirmation that you have successfully registered, you will be given an EFILE online number and password. Once you receive notification that you are certified for T1 EFILE, you will also automatically be certified for T2 EFILE and you can transmit corporation income tax returns, including the RC4649, using your EFILE online number and password. For more information about EFILE registration, contact the EFILE Helpdesk[Footnote10](#fn10) .
+
+## Filing a CbC Report with the CRA - Paper filing
+
+Canadian corporations must file the RC4649 electronically. Partnerships and trusts are not able to use electronic filing and must file a CbCR in paper format.
+
+A version of the [RC4649](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) that can be filed physically is available on the CRA website. File this report separately from the tax return. Partnerships and trusts should use the [RC4649](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) version that is on the CRA website, and not an Excel document or other internally generated report. The fillable PDF is expandable to add as many lines for tax jurisdictions or [CE](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4651/guidance-on-country-country-reporting-canada.html)s as necessary.
+
+If you are filing a paper version, mail the return and any related information to:
+
+CbC Reporting & OECD Projects Section International Tax Division Canada Building, 18th floor 344 Slater Street Ottawa, ON K1A 0L5
+
+## Filing an amended CbC Report
+
+If you are amending a previously filed CbC report you must indicate this by indicating "Yes" to the question on the report to this effect. If yes, you must re-complete the whole CbC report including the amendments (i.e. include all information not amended plus all amended information), and re-file the entire amended report. If the initial report was paper filed, then the amended report must be paper filed. If the initial report was electronically filed, then the amended report must also be electronically filed. In both cases, the appropriate instructions above would be followed.
+
+## Reporting Entity
+
+The reporting entity is the [CE](#ce) that, by virtue of domestic law in its jurisdiction of tax residence, files the CbC Report in its capacity to do so on behalf of the [MNE Group](#mnegroup).
+
+Note: on the [RC4649](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html), the reporting entity is either:
+
+- the UPE
+
+- an SPE – a Canadian CE that has been designated as a surrogate parent of a foreign UPE.**Note: A Canadian**[**CE**](#ce)**cannot be designated as an**[**SPE**](#spe)**of a Canadian**[**UPE**](#upe)
+
+- a CE, in cases of a local filing requirement
+
+The reporting entity will inform the CRA, on the cover page of the [RC4649](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html), at the time of filing the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html), whether it is the [UPE](#upe), the appointed [SPE](#spe), or a [CE](#ce) of the [MNE group](#mnegroup). If the reporting entity identifies itself as the appointed [SPE](#spe) or a [CE](#ce), the name of the [UPE](#upe) and its jurisdiction of residence for tax purposes must also be reported.
+
+## Notifications required for CbC reporting purposes in Canada
+
+There is no obligation for a [CE](#ce) resident in Canada for tax purposes, that is either the [UPE](#upe) or the [SPE](#spe) of the [MNE group](#mnegroup), to notify the CRA in advance of filing the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) that it is the reporting entity.
+
+Additionally, there is no obligation for a [CE](#ce) resident in Canada for tax purposes to notify the CRA, in advance of filing the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html), of the name and jurisdiction of tax residence of the reporting entity.
+
+## Secondary reporting mechanism
+
+The secondary reporting mechanism applies in two different circumstances.
+
+First, in accordance with subparagraph 233.8(3)(b)(ii) of the Act, a [CE](#ce) of the [MNE group](#mnegroup) that is resident in Canada for tax purposes and which is not the [UPE](#upe), is required to file a [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) (local filing requirement) when no [SPE](#spe) has been appointed by the [MNE group](#mnegroup) in another jurisdiction and any of the following conditions is satisfied:
+
+1. the [UPE](#upe) of an [MNE group](#mnegroup) is not required to provide a CbC report in its jurisdiction of tax residence;
+
+2. the jurisdiction in which the [UPE](#upe) of that [MNE group](#mnegroup) is resident for tax purposes does not have a [qualifying competent authority agreement (QCAA)](#qcaa) in effect with Canada (by the time for filing the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) pursuant to subsection 233.8(6) of the Act) that provides for the automatic exchange of CbC reporting information; or
+
+3. there has been a [systemic failure](#sf) of the jurisdiction of residence of the [UPE](#upe) and the CRA has notified the [CE](#ce) of the [systemic failure](#sf).
+
+Second, the secondary reporting mechanism also applies when a Canadian [CE](#ce) is appointed as [SPE](#spe) for a foreign [UPE](#upe).
+
+Canada’s local filing obligation will only apply under the circumstances contained in paragraph 60 of the BEPS [Action 13 report on Transfer Pricing Documentation and Country-by-Country Reporting](http://www.oecd.org/tax/transfer-pricing-documentation-and-country-by-country-reporting-action-13-2015-final-report-9789264241480-en.htm).
+
+## Designation for multiple constituent entities
+
+Where the secondary reporting mechanism applies and there is more than one [CE](#ce) resident in Canada for tax purposes required to file a [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) in respect of a [reporting fiscal year](#rfy), subsection 233.8(4) of the Act allows for one of those [CEs](#ce) to be designated to file the report on behalf of all such [CEs](#ce) in the [MNE group](#mnegroup). The reporting entity can inform the CRA of this designation using the cover page of the [RC4649](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) at the time of filing or by putting the relevant information into Table 3.
+
+## Surrogate parent entity
+
+An [MNE group](#mnegroup) may avoid having the secondary reporting requirement imposed on multiple [CEs](#ce) in multiple jurisdictions by designating one of its [CEs](#ce) to be an [SPE](#spe) for filing purposes. Subsection 233.8(5) of the Act allows an [SPE](#spe) to file a CbC report instead of the [UPE](#upe). If the conditions in this subsection are met, a Canadian-resident [CE](#ce) that is not the [UPE](#upe) is not required to file a CbC report under the secondary reporting mechanism with the CRA with respect to a [reporting fiscal year](#rfy).
+
+To qualify, an [SPE](#spe) of the [MNE group](#mnegroup) must file a CbC report in respect of the [reporting fiscal year](#rfy) with the tax authority of its jurisdiction of tax residence on or before the time for filing. In addition, the jurisdiction of tax residence of the [SPE](#spe) must meet certain requirements. In particular, it must:
+
+- require filing of CbC reports;
+
+- have a [QCAA](#qcaa) in effect to which Canada is a party on or before the time for filing the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html), pursuant to subsection 233.8(6) of the Act, in respect of the [reporting fiscal year](#rfy);
+
+- not be in a position of [systemic failure](#sf); and
+
+- have been notified by the [SPE](#spe) that it is filing as the [SPE](#spe).
+
+## Obligations of a surrogate parent entity in Canada
+
+A [CE](#ce) resident in Canada that is appointed as an [SPE](#spe) of a foreign [UPE](#upe) is subject to filing requirements as if that entity were a [UPE](#upe) in Canada. In particular, subsection 233.8(1) of the Act defines an [SPE](#spe) as a [CE](#ce) of an [MNE group](#mnegroup) that has been appointed by the [MNE group](#mnegroup) — in substitution for the [UPE](#upe) — to file the CbC report on behalf of the [MNE group](#mnegroup), if one or more of the conditions in subparagraph 233.8(3)‍(b)‍(ii) applies (i.e., the conditions for the secondary reporting mechanism to apply).
+
+The [CE](#ce) resident in Canada, which is appointed as an [SPE](#spe), must notify the CRA, at the time filing, that it is filing as the [SPE](#spe) on behalf of the [UPE](#upe) of the [MNE group](#mnegroup).
+
+## Filing a “substantially similar report required to be filed in a jurisdiction other than Canada”
+
+Under the [secondary reporting mechanism](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4651/guidance-on-country-country-reporting-canada.html), a [CE](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4651/guidance-on-country-country-reporting-canada.html) in Canada may file the CbC Report in a format that is already prepared by the [UPE](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4651/guidance-on-country-country-reporting-canada.html), provided that the report is substantially similar to the [RC4649](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) and is the CbC report that is required to be filed in a jurisdiction other than Canada. **It is important to note** that we will need to be able to identify the Reporting Entity. If the CE files a substantially similar report, completing the [cover page of the RC4649](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) with the required information would be helpful. Otherwise, put the necessary information into Table 3.
+
+Note that when an MNE group appoints a Canadian CE to be an SPE, the appointed SPE acts in substitution for the UPE. Accordingly, the SPE must electronically file the RC4649 and is not permitted to file a substantially similar report in its place.
+
+It is not possible to electronically file a substantially similar report; such a filing is required to be done in paper format.
+
+### Currencies
+
+If the reporting entity is filing a substantially similar report, the currency that was used to complete the report must be clearly indicated. If the currency used is not indicated on the substantially similar report being filed, it can be indicated by completing the cover page of the RC4649 with the required information or by putting the necessary information into Table 3.
+
+### Language
+
+The CRA prefers to receive a substantially similar report that was completed in French or English. In cases where the report filed is in a different language, the CRA may contact the reporting entity concerning translation of some or all of the report, as necessary.
+
+## Automatic exchange of CbC reporting information
+
+Assuming the secondary reporting mechanism does not apply, where the reporting entity is not resident in Canada for tax purposes, CRA will receive CbC reporting information from the competent authority in the jurisdiction in which the reporting entity is tax resident.
+
+Subparagraph [241(4)(e)(xii)](https://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-241.html) of the Act allows the CRA to exchange CbC reporting information with the competent authorities of other jurisdictions under certain international agreements that authorize the exchange of taxpayer information between the jurisdictions. On the basis of the information in the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html), where certain conditions are met and one or more [CEs](#ce) of the [MNE group](#mnegroup) are either resident for tax purposes, or are subject to tax with respect to the business carried out through a [permanent establishment](#pe) in another jurisdiction, CRA automatically exchanges the CbC reporting information with jurisdictions where an activated exchange agreement is in effect.
+
+In most cases, the exchange of CbC reporting information is expected to take place under the MAC*, as amended by 2010 Protocol*and the [Multilateral Competent Authority Agreement on the Exchange of Country-by-Country Reports](https://www.oecd.org/en/publications/the-multilateral-convention-on-mutual-administrative-assistance-in-tax-matters_9789264115606-en.html)[Footnote11](#fn11) (CbC MCAA). As at October 24, 2019, 82 jurisdictions (including Canada) have signed the CbC MCAA. A current [list of the jurisdictions that have signed the CbC MCAA](https://www.oecd.org/tax/beps/CbC-MCAA-Signatories.pdf)[Footnote12](#fn12) can be found on the OECD website.
+
+CbC reporting information can only be automatically exchanged between jurisdictions when a [QCAA](#qcaa) is activated and in effect between the jurisdictions (and where the other jurisdiction has implemented CbC reporting legislation). For example, although a CbC MCAA with a jurisdiction may have been activated by December 1, 2018, if it is in effect for taxable periods beginning on or after January 1, 2019, the local filing requirement would apply for the 2018 fiscal year.
+
+For a list of Canada’s activated exchange relationships, refer to the OECD [website](http://www.oecd.org/tax/beps/country-by-country-exchange-relationships.htm)[Footnote13](#fn13) .
+
+In Canada, a [QCAA](#qcaa) is an agreement between authorized representatives of those jurisdictions that are parties to a listed international agreement (which is defined in subsection 248(1) of the Act) that requires the automatic exchange of CbC reporting information between jurisdictions.
+
+CRA considers that the bilateral competent authority arrangement with the United States made to effectuate the automatic exchange of CbC reporting information under the Canada –United States Income Tax Convention constitutes a [QCAA](#qcaa).
+
+## The impact of currency fluctuations on the €750 million filing threshold
+
+In Canada, the definition of [excluded MNE group](#exmnegroup) in subsection 233.8(1) of the Act sets the threshold for filing a [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) at €750 million. Other jurisdictions may set the threshold using a near equivalent in domestic currency. To determine if a Canadian filing obligation exists, [MNE groups](#mnegroup) that prepare [consolidated financial statements](#cfs) in a currency other than the Euro must convert consolidated group revenues for the immediately preceding [fiscal year](#fy).
+
+Currency fluctuations during a fiscal year between Euros and a domestic currency used to establish a filing threshold may result in different conclusions being reached when the thresholds are tested in each currency. As a result, the following situation could arise:
+
+- The consolidated group revenues of an [MNE group](#mnegroup), with a [UPE](#upe) resident for tax purposes in a jurisdiction other than Canada (the other jurisdiction), do not exceed the threshold for filing set in the domestic currency of the other jurisdiction, but simultaneously exceed the €750 million threshold for filing in Canada.
+
+- The [UPE](#upe) of the [MNE group](#mnegroup) would not be required to file a CbC report in the other jurisdiction, however any [CE](#ce) of that [MNE group](#mnegroup) resident for tax purposes in Canada would be required to file a CbC report pursuant to the secondary reporting mechanism of subparagraph 233.8(3)(b)(ii) of the Act.
+
+Consistent with the OECD’s [Guidance on the Implementation of Country-by-Country Reporting: BEPS Action 13](http://www.oecd.org/ctp/beps/guidance-on-country-by-country-reporting-beps-action-13.htm), where the [UPE](#upe) of an [MNE group](#mnegroup) is resident in a jurisdiction other than Canada, provided that jurisdiction has implemented a reporting threshold that is a near equivalent of €750 million in its domestic currency as it was at January 2015, an [MNE group](#mnegroup) that complies with this local threshold will not be subject to the secondary reporting mechanism in Canada.
+
+### Conversion of consolidated group revenues to Euros
+
+Generally, relevant accounting standards, such as International Accounting Standard (IAS) 21[Footnote14](#fn14) – the effects of changes in foreign exchange rates, paragraph 39(b) – provide that income and expenses in one currency are converted to a different presentation currency using the prevailing exchange rate (i.e., the spot rate) at the dates of the transactions. However, it may not be practical for an [MNE group](#mnegroup) to convert consolidated group revenues on a transaction-by-transaction basis. Given that revenues are typically earned throughout a [fiscal year](#fy), using an average exchange rate for the period (as [published by the Bank of Canada](http://www.bankofcanada.ca/rates/exchange/)[Footnote15](#fn15) ) is acceptable for the purpose of the conversion that may be required in the definition of [excluded MNE group](#exmnegroup) in subsection 233.8(1) of the Act.
+
+## Completing the CbC Report
+
+This section addresses some specific situations which may arise when completing the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html). Detailed instructions for completing the report also accompany the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html).
+
+The reporting entity should adopt a reasonable, consistent and practical approach to completing the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html). It is the responsibility of the reporting entity to ensure that the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) is complete and accurate, and that a reasonable effort was made by the reporting entity to obtain the necessary information from other members of the [MNE group](#mnegroup). The reporting entity may choose to use data from its consolidation reporting packages, from separate entity statutory financial statements, regulatory financial statements, or internal management accounts.
+
+Furthermore, the reporting entity should complete the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) taking into account the guidance provided in the BEPS Action 13 Final Report, [OECD Guidance on the Implementation of Country-by-Country Reporting](http://www.oecd.org/ctp/beps/guidance-on-country-by-country-reporting-beps-action-13.htm) and this guidance (RC4651), having regard to the specific facts and circumstances of the reporting entity and the industry in which it operates. It is the responsibility of the reporting entity to ensure that the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) is filed on time and the information provided is complete and accurate.
+
+As a general matter, the CRA intends to provide a reasonable degree of flexibility for [MNE groups](#mnegroup) filing a CbC report in Canada in situations where guidance or interpretation on certain issues may not have been available at the time of filing, or where jurisdictions vary in their approaches to certain issues.
+
+Any assumptions made in completing the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) should be stated in Table 3.
+
+In accordance with the [CbC reporting XML Schema: User Guide for Tax Administrations](http://www1.oecd.org/tax/country-by-country-reporting-xml-schema-user-guide-for-tax-administrations.htm) and Taxpayers published by the OECD[Footnote16](#fn16) (the XML Schema) the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) must contain:
+
+- the tax identification number (TIN) of each [CE](#ce) and
+
+- the issuing country of the TIN for each [CE](#ce).
+
+Note that changes to the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) were introduced in 2019, including that it is now mandatory to provide the MNE name on the cover page and that a field to capture the fiscal year start date has been added.
+
+### Taxation year versus fiscal year
+
+Note that when the taxation year end of the [UPE](#upe) is different from the fiscal year end for annual accounting purposes, the year end to be recorded on the cover page of the CbC report is that which corresponds to consolidated accounting records, not the taxation year.
+
+### Reconciliation of the CbC report to consolidated accounts
+
+In accordance with the BEPS Action 13 Final Report, it is not necessary to reconcile the revenue, profit and tax reported in the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) to the [consolidated financial statements](#cfs). The requirement to disclose aggregated amounts, as opposed to consolidated amounts, implies that even where [consolidated financial statements](#cfs) are the source of information used, the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) may not reconcile with the consolidated accounts.
+
+### Table 1 – Overview of allocation of income, taxes and business activities by jurisdictions
+
+All columns in Table 1 require the reporting entity to include aggregated results on a country-by-country basis.
+
+All amounts on the report must be stated in one and the same currency.
+
+For electronic filing, all amounts must be stated in Canadian dollars unless an election has been made under paragraph 261(3)(b) of the Act to report in a functional currency. Where the reporting entity has made an election under paragraph 261(3)(b) of the Act to use a functional currency, that currency may be used. Presently, a “qualifying currency” is defined in subsection 261(1) of the Act as:
+
+- Australian dollar
+
+- United States Dollar
+
+- United Kingdom Pound
+
+- Euro
+
+Where the reporting entity’s currency for financial reporting purposes is not Canadian dollars, and they have not elected under paragraph 261(3)(b) of the Act to use a functional currency for the purposes of filing the CbC report, the reporting currency for financial reporting purposes may still be used when filing the CbC report providing that the following conditions are met:
+
+- The reporting entity’s reporting currency for financial reporting purposes is a “qualifying currency” as defined in subsection 261(1) of the Income Tax Act.
+
+- The reporting entity discloses in Table 3 – Additional Information that it is reporting in one of the qualifying currencies notwithstanding that no election has been made by the reporting entity pursuant to paragraph 261(3)(b) of the Act. If the amounts in Table 1 required conversion into one of the functional currencies, the conversion rate used should be set out in Table 3.
+
+Amounts reported on Table 1 in Canadian dollars or other qualifying currency may be rounded to the nearest 1,000 dollars, pounds, or Euros, as applicable, so long as the rounding does not materially distort the reported data. However, in all cases, amounts should be reported in full numbers, including all zeroes with no shortening.
+
+Financial data related to a foreign [permanent establishment](#pe) of the [business entity](#businessentity) should be included in the reporting of the jurisdiction of the [permanent establishment](#pe) and excluded from the reporting for the tax jurisdiction of the [business entity](#businessentity).
+
+#### Tax jurisdiction
+
+List all of the tax jurisdictions in which the [CEs](#ce) of the [MNE group](#mnegroup) are resident for tax purposes using the country codes based on the ISO 3166-1 Alpha 2 Standard. A tax jurisdiction is defined as a State as well as a non-State jurisdiction which has fiscal autonomy and in respect of which a country code exists. The ISO 3166-1 Alpha 2 Standard country codes can be found at the following website link: [http://www.iso.org/iso/country_codes](http://www.iso.org/iso/country_codes). Use code “X5” for entities deemed by the reporting MNE or reporting entity not to be resident in any tax jurisdiction for tax purposes.
+
+Where a [CE](#ce) is resident in more than one tax jurisdiction, the applicable tax treaty tie breaker rules should be applied to determine the tax jurisdiction of residence. Where no applicable tax treaty exists, the [CE](#ce) should be reported in the tax jurisdiction of the [CE’s](#ce) place of effective management. The place of effective management should be determined in accordance with the provisions of Article 4 of the [OECD Model Tax Convention](https://www.oecd-ilibrary.org/taxation/model-tax-convention-on-income-and-on-capital-full-version_9a5b369e-en)[Footnote17](#fn17) and its accompanying [commentaries](http://www.oecd.org/berlin/publikationen/43324465.pdf)[Footnote18](#fn18) . Additional information regarding residency can be provided in the Additional Information section of Table 3 of the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html).
+
+In the case of a partnership that is the UPE of an MNE group, if it is resident for tax purposes under the laws of a specific jurisdiction, then it is considered to be resident for CbC reporting purposes in that jurisdiction. In any other case, it will be resident in the jurisdiction under the laws of which it was organized or arranged.
+
+#### Stateless entities
+
+A stateless entity is a business entity that is organized under the laws of a particular country but that is not tax resident in any jurisdiction. A stateless entity may be the UPE of an MNE group. For all other purposes of the CbC report, all financial and other data relating to stateless entities should be aggregated under the ‘X5’ (stateless) tax jurisdiction of residence on Table 1, all stateless CEs should be grouped and listed under the ‘X5’ jurisdiction on Table 2, and for any additional information provided on Table 3 with respect to a stateless CE, ‘X5’ would be used as the relevant country code.
+
+#### Revenues
+
+Revenues should be interpreted in the broadest possible sense to include income from sales of inventory and properties, services, royalties, interest, premiums and any other amounts.
+
+Payments received from other [CEs](#ce) within the MNE group that are treated as dividends in the payor’s tax jurisdiction should not be included.
+
+##### Revenues – Unrelated* Party
+
+For the purposes of this form, “Revenues-Unrelated Party” is the sum of revenues of all the constituent entities of the MNE group listed in Table 2, for each relevant tax jurisdiction, generated from transactions with independent entities.
+
+*Not a reference to subsection 251(2) – “related person” of the Act.
+
+##### Revenues – Related* party
+
+For the purposes of this form, “Revenues-Related Party” should be read as the aggregate amount of revenues generated from transactions between constituent entities listed in Table 2, for each relevant tax jurisdiction. The financial results of all intercompany transactions within the same jurisdiction must be aggregated and not consolidated. Table 3 (Additional Information) of the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) can be used to explain levels of domestic intercompany transactions, if required.
+
+*Not a reference to subsection 251(2) – “related person” of the Act.
+
+##### Revenues – Total
+
+Enter the total of the amounts reported for unrelated and related parties.
+
+#### Profit or Loss before income tax
+
+Enter the sum of the profit or loss before income tax for all [CEs](#ce) resident for tax purposes in the relevant tax jurisdiction. The profit or loss should include all extraordinary income and expense items.
+
+Payments received from other constituent entities that are treated as dividends in the payor’s tax jurisdiction should be excluded from profit (loss) before income tax . Table 3 (Additional Information) of the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) can be used to explain the exclusion of the amounts in the event that other jurisdictions may not have the same interpretation.
+
+#### Income tax paid (on a cash basis)
+
+Enter the total amount of income tax actually paid during the relevant [fiscal year](#fy) by all [CEs](#ce) resident for tax purposes in the relevant tax jurisdiction. Income taxes paid should include taxes paid by the [CE](#ce) to the residence tax jurisdiction and to all other tax jurisdictions. Taxes paid should include withholding taxes paid by other entities (associated/related parties and independent/unrelated parties) with respect to payments to the [CE](#ce). For example, if company A resident in tax jurisdiction A earns interest in tax jurisdiction B, the tax withheld in tax jurisdiction B should be reported by company A.
+
+In general, a refund of income tax should be reported as a reduction in Income Tax Paid (on Cash Basis) in the reporting fiscal year in which the refund is received. An exception to this may be permitted where the refund is treated as revenue of the MNE group under the applicable accounting standard or in the source of data used to complete Table 1. Where this is the case, taxpayers should provide the following statement in Table 3: "Tax refunds are reported in Revenues and not in Income Tax Paid (on Cash Basis)".
+
+#### Income tax accrued – current year
+
+Enter the sum of the accrued current tax expense recorded on taxable profits or losses of the year of reporting of all [CEs](#ce) resident for tax purposes in the relevant tax jurisdiction. The current tax expense should reflect only operations in the current year and should not include deferred taxes or provisions for uncertain tax liabilities.
+
+#### Stated capital
+
+Enter the aggregated sum of the stated capital of all [CEs](#ce) resident for tax purposes in the relevant tax jurisdiction.
+
+With regard to [permanent establishments](#pe) that are not legal entities, the stated capital should be reported by the legal entity of which the [permanent establishment](#pe) is a part, unless there is a defined regulatory requirement in the [permanent establishment](#pe) tax jurisdiction to report the stated capital in that jurisdiction.
+
+#### Accumulated earnings
+
+Enter the aggregated sum of the total accumulated earnings of all [CEs](#ce) resident for tax purposes in the relevant tax jurisdiction as of the end of the year. With regard to [permanent establishments](#pe) that are not legal entities, accumulated earnings should be reported by the legal entity of which the [permanent establishment](#pe) is a part.
+
+#### Number of employees
+
+Enter the total number of employees on a full-time equivalent basis of all [CEs](#ce) resident for tax purposes in the relevant tax jurisdiction. The number of employees may be reported as of the year-end, on the basis of average employment levels for the year or on any other basis consistently applied across tax jurisdictions and from year to year that reasonably reflects the number of employees per jurisdiction for the year. For this purpose, independent contractors, their employees, and seconded employees participating in the ordinary operating activities of the [CE](#ce) should be reported as employees. Reasonable rounding or approximation of the number of employees is permissible, providing that such rounding or approximation does not materially distort the relative distribution of employees across the various tax jurisdictions. Consistent approaches should be applied from year to year and across entities.
+
+#### Tangible assets other than cash and cash equivalents
+
+Enter the sum of the net book values of tangible assets of all [CEs](#ce) resident for tax purposes in the relevant tax jurisdiction. With regard to [permanent establishments](#pe), assets attributable to the [permanent establishment](#pe) should be reported by reference to the tax jurisdiction in which the [permanent establishment](#pe) is situated and not by reference to the tax jurisdiction of residence of the [business entity](#businessentity) of which the [permanent establishment](#pe) is a part. Tangible assets for this purpose do not include cash or cash equivalents, intangibles or financial assets.
+
+### TABLE 2 – List of all the CEs of the MNE group included in each aggregation per tax jurisdiction
+
+#### Tax jurisdiction
+
+For information on tax jurisdictions, refer to the instructions for Table 1 above. This list of tax jurisdictions should reflect those listed in Table 1.
+
+#### Name of the CEs resident in the tax jurisdiction
+
+The reporting entity must list, by legal entity name, all of the [CEs](#ce) of the [MNE group](#mnegroup) on the basis of tax jurisdiction. A CE that operates a business carried on through a permanent establishment in a tax jurisdiction other than the jurisdiction in which it resides may have to be listed multiple times: once with respect to its jurisdiction of residency, and then with respect to each business operated in another jurisdiction that meets the definition of a constituent entity.
+
+### If a CE is a PE
+
+The “-PE” designation is to be used only where a legal entity in one jurisdiction is carrying on business in another jurisdiction through that same legal entity. This is most often seen in branch situations. With regard to [permanent establishments](#pe), the [permanent establishment](#pe) must be listed by reference to the tax jurisdiction in which it is situated and not by reference to the tax jurisdiction of residence of the [legal entity](#businessentity) of which the [permanent establishment](#pe) is a part. For example, if XYZ Corp, resident in tax jurisdiction A, has a branch in tax jurisdiction B, the branch should be listed on Table 2 as a [permanent establishment](#pe) in tax jurisdiction B. The name of the [CE](#ce) should clearly indicate the legal entity of which the [permanent establishment](#pe) is a part (e.g., XYZ Corp – Tax Jurisdiction A –PE).
+
+#### Name of the city of the address of the CE
+
+Enter the city name of the address of the [CE](#ce).
+
+#### Country code of the country of the address of the CE
+
+Enter the country code of the country of the address of the [CE](#ce) using the ISO codes noted above.
+
+In Canada’s experience, country code errors are common. These should be checked carefully as many country codes bear little resemblance to the actual name of the jurisdiction.
+
+#### Tax identification number (TIN) of CEs
+
+Enter the tax identification number used by the tax administration of the tax jurisdiction of residence of the [CE](#ce). When the relevant [CE](#ce) has a TIN that is used by the tax administration in its tax jurisdiction of residence, such TIN must be provided.
+
+When a [CE](#ce) does not have a TIN, **the value “NOTIN” must be entered**. This field must not be left blank.
+
+#### Country code of the TIN
+
+Enter the country code of the tax jurisdiction that issued the TIN. This country code must be provided when a TIN exists.
+
+#### Tax jurisdiction of organization or incorporation if different from tax jurisdiction of residence
+
+Enter the country code of the tax jurisdiction under whose laws the [CE](#ce) of the [MNE group](#mnegroup) is organized or incorporated if it is different from the tax jurisdiction of residence.
+
+#### Main business activities
+
+Enter the main business activity or activities carried out by the [CE](#ce) in the relevant tax jurisdiction. If the business activity chosen is “Other”, a description of the nature of the activity must be provided in the “Other Information” section. If there is insufficient room on Table 2 in the Other Information” section to provide such information, Table 3 can also be used for this purpose.
+
+Please note that you can select more than one business activity for each CE.
+
+### TABLE 3 – Additional information
+
+MNEs are required to provide a description of the sources of data used to prepare the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html). While the descriptions may be brief, they should be sufficient to enable an understanding of the source of each item of information in the report. Where a general principle applies, this should be described together with any exceptions that exist. Where information relevant to a particular jurisdiction is taken from different sources of data, or where the sources of data used change over time, this should be explained.
+
+Other information or explanations may be entered that would further the understanding of the mandatory information provided in the [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html), including the assumptions that were made when compiling the information and the accounting rules applied.
+
+## Fiscal years less than 12 months
+
+Where the accounting period of an [MNE group](#mnegroup) is less than 12 months, the time for filing the CbC report generally remains the same i.e. 12 months after the last day of the [reporting fiscal year](#rfy).
+
+In the determination of whether an [MNE group](#mnegroup) is an [excluded MNE group](#exmnegroup) for a particular [fiscal year](#fy), where the [fiscal year](#fy) immediately preceding the particular [fiscal year](#fy) is less than 12 months, the threshold of €750 million should be prorated accordingly.
+
+## Penalties
+
+Penalties may be applicable to the filing of a CbC report in Canada under the following legislative provisions:
+
+### Subsection 162(5) of the Act
+
+Subsection 162(5) of the Act provides a penalty for the failure of any person to provide any information required on a prescribed form made pursuant to the Act or the Regulations. The penalty for the failure to provide the information is $100, and is applicable to each such failure.
+
+### Subsection 162(7) of the Act
+
+Subsection 162(7) of the Act provides a penalty for the failure to file an information return as and when required by the Act and for the failure to comply with a duty or obligation imposed under the Act or the Regulations. The penalty is equal to $25 per day of default, subject to a $100 minimum and a $2,500 maximum. Note that an incomplete return received by the CRA, depending on the specific information that is missing, may be considered to not have been filed.
+
+### Paragraphs 162(10)(a) and (b) of the Act
+
+The penalty under subsection 162(10) of the Act applies in two mutually exclusive situations described by paragraphs 162(10)(a) and (b).
+
+The first situation arises where a person or partnership, knowingly or under circumstances amount to gross negligence, fails to file an information return as and when required by any of sections 233.1 to 233.4 or section 233.8. Where no demand has been served under section 233 to file the return, the penalty is $500 per month for up to 24 months. It begins to run from the month in which the return was required to be filed.
+
+The second situation arises where a person or partnership required to file a return under any of sections 233.1 to 233.4 or section 233.8 has, knowingly or under circumstances amounting to gross negligence, failed to comply with a demand served under section 233 to file the return. The penalty in this case is $1,000 per month for up to 24 months. It begins to run from the month in which the demand was served.
+
+Given the widespread understanding of CbC reporting requirements by multinationals, any failure to file a [CbC report](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) as required under subsection 233.8(3) of the Act will, for the 2018 and subsequent filing years, be presumed to be gross negligence unless special circumstances exist that explain the failure to file.
+
+## Cancel or waive penalties or interest
+
+The CRA administers legislation, commonly called taxpayer relief provisions, that allows the CRA discretion to cancel or waive penalties or interest when taxpayers cannot meet their tax obligations due to circumstances beyond their control.
+
+The CRA’s discretion to grant relief is limited to any period that ended within 10 calendar years before the year in which a request is made.
+
+For penalties, the CRA will consider your request only if it relates to a tax year or fiscal period ending in any of the 10 calendar years before the year in which you make your request. For example, your request made in 2019 must relate to a penalty for a tax year or fiscal period ending in 2009 or later.
+
+For interest on a balance owing for any tax year or fiscal period, the CRA will consider only the amounts that accrued during the 10 calendar years before the year in which you make your request. For example, your request made in 2019 must relate to interest that accrued in 2009 or later.
+
+To make a request, fill out Form RC4288, Request for Taxpayer Relief – Cancel or Waive Penalties or Interest. For more information about relief from penalties or interest and how to submit your request, go to canada.ca/taxpayer-relief.
+
+## Confidentiality of CbC reporting information
+
+Section 241 of the Act provides that all taxpayer information is confidential and may only be disclosed in accordance with the law. The information contained on CbC reports will be treated in the same manner as all other taxpayer information in CRA’s possession and is additionally subject to limitations on usage described below in [Appropriate use of CbC reporting information](#toc25).
+
+Although the CbC MCAA is a multilateral agreement, the automatic exchange of CbC reporting information will be made on a bilateral basis as the CbC MCAA includes a mechanism that allows each jurisdiction to retain control over which jurisdictions they agree to exchange CbC reporting information with. Canada will automatically exchange CbC reporting information with only jurisdictions that are committed to using the information appropriately and preserving its confidentiality. Pursuant to section 8 of the CbC MCAA, Canada will notify the OECD (as provided for in Article 24 of the MAC) of the jurisdictions with which it intends to automatically exchange CbC reporting information. If any such jurisdiction also listed Canada as an intended CbC reporting exchange partner, the CRA will be obliged under the CbC MCAA to exchange CbC reporting information with the matched jurisdiction. The OECD will maintain a [published list](http://www.oecd.org/tax/beps/country-by-country-exchange-relationships.htm) which will indicate with whom Canada and other committed jurisdictions are exchanging CbC reporting information under the CbC MCAA.
+
+In addition, all information exchanged is subject to the confidentiality rules and other safeguards provided for in the MAC. The MAC generally provides that information must be treated as secret and only used by tax officials for tax purposes.
+
+## Appropriate use of CbC reporting information
+
+The BEPS Action 13 Final Report sets out three permitted uses for information contained in CbC reports, namely:
+
+- to assess high level transfer pricing risk;
+
+- to assess other BEPS-related risks; and
+
+- for economic and statistical analysis.
+
+Canada is committed to using information provided on CbC reports in accordance with only the uses permitted in the BEPS Action 13 Final Report. CRA will not use CbC reporting information, by itself, to make reassessments to the income of a taxpayer for the purposes of the Act.
+
+The BEPS Action 13 Report requires that the information contained in the CbC reports not be used as a substitute for a detailed transfer pricing analysis of individual transactions and prices based on a full functional analysis and full comparability analysis. The information in a CbC report on its own does not constitute conclusive evidence that transfer prices are or are not appropriate, and should not be used to propose transfer pricing adjustments based on a global formulary apportionment of income.
+
+## Contact Us
+
+Questions with respect to filing a CbC report can be submitted to [countryrepg@cra-arc.gc.ca](mailto:countryrepg@cra-arc.gc.ca) ([Country-by-Country Reporting Enquiries / Demandes de renseignements pour les Déclarations pays par pays (CRA/ARC)](mailto:COUNTRYREPG@cra-arc.gc.ca)). This service is intended to provide assistance to reporting entities filing a CbC report with the CRA pursuant to [section 233.8](https://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-233.8.html) of the Act. When using the service, the content of any email sent should not include confidential information.
+
+Questions can be technical in nature, in respect of electronic filing of the CbC report, or with respect to concerns about the appropriate use of the information contained in the CbC report.
+
+Media enquiries, enquires from other domestic or foreign governmental organizations, and any other enquiry beyond the intended purpose of this service will not receive a response.
+
+## Annex I
+
+### Subsection 233.8(1) of the Act– Definitions
+
+For ease of reference, the definitions in subsection 233.8(1) on the Act have been provided below.
+
+#### Business entity
+
+[Business entity](#businessentity) means:
+
+1. a person (other than an individual that is not a trust) or partnership; and
+
+2. a business that is carried on through a [permanent establishment](#pe), if a separate financial statement for the business is prepared for financial reporting, regulatory, tax reporting or internal management control purposes.
+
+#### Consolidated financial statements
+
+[Consolidated financial statements](#cfs) means financial statements in which the assets, liabilities, income, expenses and cash flows of the members of a group are presented as those of a single economic entity.
+
+#### Constituent Entity
+
+[Constituent entity](#ce), of an [MNE group](#mnegroup), means
+
+1. any [business entity](#businessentity) of the [MNE group](#mnegroup) that
+
+    1. is included in the [consolidated financial statements](#cfs) of the [MNE group](#mnegroup) for financial reporting purposes, or
+
+    2. would be required to be included if equity interests in any of the [business entities](#businessentity) in the [MNE group](#mnegroup) were traded on a public securities exchange; and
+
+2. any [business entity](#businessentity) that is excluded from the [MNE group’s](#mnegroup) [consolidated financial statements](#cfs) solely because of size or materiality.
+
+#### Excluded MNE group
+
+[Excluded MNE group](#exmnegroup) means two or more [business entities](#businessentity) that meet the conditions in paragraphs (a) and (b) of the definition of [MNE group](#mnegroup), if, with respect to a particular [fiscal year](#fy) of the [MNE group](#mnegroup), it has a total consolidated group revenue of less than €750 million during the [fiscal year](#fy) immediately preceding the particular [fiscal year](#fy), as reflected in its [consolidated financial statements](#cfs) for the preceding [fiscal year](#fy).
+
+#### Fiscal year
+
+[Fiscal year](#fy), of an [MNE group](#mnegroup), means an annual accounting period with respect to which the [ultimate parent entity](#upe) of the [MNE group](#mnegroup) prepares its financial statements.
+
+#### Multinational enterprise group or MNE group
+
+[Multinational enterprise group](#mnegroup) or [MNE group](#mnegroup) means two or more [business entities](#businessentity), if
+
+1. they are either required to prepare [consolidated financial statements](#cfs) for financial reporting purposes under applicable accounting principles or would be so required if equity interests in any of the [business entities](#businessentity) were traded on a public securities exchange;
+
+2. one of the [business entities](#businessentity) is resident in a particular jurisdiction and
+
+    1. another [business entity](#businessentity) resides in a different jurisdiction, or
+
+    2. is subject to tax in a different jurisdiction with respect to a business carried on by it through a [business entity](#businessentity) — described in paragraph (b) of the definition [business entity](#businessentity)— in that other jurisdiction; and
+
+3. they are not an [excluded MNE group](#exmnegroup).
+
+#### Permanent establishment
+
+Permanent establishment has the same meaning as in section 8201 of the Income Tax Regulations.
+
+#### Qualifying competent authority agreement
+
+Qualifying competent authority agreement means an agreement that
+
+1. is between authorized representatives of those jurisdictions that are parties to a listed international agreement, and
+
+2. requires the automatic exchange of country-by-country reports between the party jurisdictions.
+
+#### Reporting fiscal year
+
+Reporting fiscal year means a [fiscal year](#fy), if the financial and operational results of the [fiscal year](#fy) are reflected in the country-by-country report.
+
+#### Surrogate parent entity
+
+Surrogate parent entity means a [constituent entity](#ce) of an [MNE group](#mnegroup) that has been appointed by the [MNE group](#mnegroup) — in substitution for the [ultimate parent entity](#upe) — to file the country-by-country report on behalf of the [MNE group](#mnegroup), if one or more of the conditions in subparagraph (3)(b)(ii) applies.
+
+#### Systemic failure
+
+[Systemic failure](#sf) means, with respect to a jurisdiction, that the jurisdiction has a [qualifying competent authority agreement](#qcaa) in effect with Canada, but
+
+1. has suspended automatic exchange (for reasons other than those that are in accordance with the terms of the agreement); or
+
+2. has persistently failed to automatically provide country-by-country reports in its possession — in respect of [MNE groups](#mnegroup) that have [constituent entities](#ce) in Canada — to Canada.
+
+#### Ultimate Parent Entity
+
+[Ultimate parent entity](#upe) means a [constituent entity](#ce) of an [MNE group](#mnegroup) that meets the following conditions:
+
+1. the [constituent entity](#ce) holds directly or indirectly a sufficient interest in one or more [constituent entities](#ce) of the [MNE group](#mnegroup) so that it is required to prepare [consolidated financial statements](#cfs) under accounting principles generally applied in its jurisdiction of residence, or would be so required if its equity interests were traded on a public securities exchange in its jurisdiction of residence; and
+
+2. no other [constituent entity](#ce) of the [MNE group](#mnegroup) holds, directly or indirectly, an interest in it that is described in paragraph (a).
+
+## References

@@ -1,0 +1,18 @@
+---
+title: "T5013-INST Statement of Partnership Income - Instructions for recipient"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t5013-inst.html
+last_modified: 2026-01-20
+---
+# T5013-INST Statement of Partnership Income - Instructions for recipient
+
+T5013-INST - Statement of partnership income - Instructions for Recipient
+
+## Ways to access the information
+
+- Read the publicationPrevious years: Standard print PDFsThis form is also available for the years listed below:[2024 – Standard print PDF (t5013-inst-24e.pdf )](/content/dam/cra-arc/formspubs/pub/t5013-inst/t5013-inst-24e.pdf)[2023 – Standard print PDF (t5013-inst-23e.pdf)](/content/dam/cra-arc/formspubs/pub/t5013-inst/t5013-inst-23e.pdf)[2022 – Standard print PDF (t5013-inst-22e.pdf)](/content/dam/cra-arc/formspubs/pub/t5013-inst/t5013-inst-22e.pdf)[2021 – Standard print PDF (t5013-inst-21e.pdf)](/content/dam/cra-arc/formspubs/pub/t5013-inst/t5013-inst-21e.pdf)[2020 – Standard print PDF (t5013-inst-20e.pdf)](/content/dam/cra-arc/formspubs/pub/t5013-inst/t5013-inst-20e.pdf)[2019 – Standard print PDF (t5013-inst-19e.pdf)](/content/dam/cra-arc/formspubs/pub/t5013-inst/t5013-inst-19e.pdf)[2019 – Standard print PDF (t5013-inst-12-19e.pdf)](/content/dam/cra-arc/formspubs/pub/t5013-inst/t5013-inst-12-19e.pdf)[2018 – Standard print PDF (t5013-inst-18e.pdf)](/content/dam/cra-arc/formspubs/pub/t5013-inst/t5013-inst-18e.pdf)[2017 – Standard print PDF (t5013-inst-17e.pdf)](/content/dam/cra-arc/formspubs/pub/t5013-inst/t5013-inst-17e.pdf)[2016 – Standard print PDF (t5013-inst-16e.pdf)](/content/dam/cra-arc/formspubs/pub/t5013-inst/t5013-inst-16e.pdf)[2015 – Standard print PDF (t5013-inst-15e.pdf)](/content/dam/cra-arc/formspubs/pub/t5013-inst/t5013-inst-15e.pdf)[2014 – Standard print PDF (t5013-inst-14e.pdf)](/content/dam/cra-arc/formspubs/pub/t5013-inst/t5013-inst-14e.pdf)[2013 – Standard print PDF (t5013-inst-13e.pdf)](/content/dam/cra-arc/formspubs/pub/t5013-inst/t5013-inst-13e.pdf)[2011 – Standard print PDF (t5013-inst-11e.pdf)](/content/dam/cra-arc/formspubs/pub/t5013-inst/t5013-inst-11e.pdf)[2009 – Standard print PDF (t5013-inst-09e.pdf)](/content/dam/cra-arc/formspubs/pub/t5013-inst/t5013-inst-09e.pdf)[2006 – Standard print PDF (t5013-inst-06e.pdf)](/content/dam/cra-arc/formspubs/pub/t5013-inst/t5013-inst-06e.pdf)
+
+    - Online format [t5013-inst-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t5013-inst/statement-partnership-income-instructions-recipient.html)
+
+    - PDF [t5013-inst-25e.pdf](/content/dam/cra-arc/formspubs/pub/t5013-inst/t5013-inst-25e.pdf)
+
+- Ask for an alternate formatYou can order a digital audio, e-text, braille or large print version of this publication to be sent to you by mail.[Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html)

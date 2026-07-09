@@ -1,0 +1,327 @@
+Title: Income Tax Act – Workgroup Cross-Reference Chart
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29/archived-income-tax-act-workgroup-cross-reference-chart-20.html
+Corpus path: corpus/cra/forms-publications/publications/itnews-29/archived-income-tax-act-workgroup-cross-reference-chart-20.md
+Document type: publication
+Last modified: 2019-10-08
+
+# Income Tax Act – Workgroup Cross-Reference Chart
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for income tax technical news](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/what-archived-content-notice-means-income-tax-technical-news.html)
+
+This document is also available [in other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29.html).
+
+## Table 21
+
+| *Income Tax Act* Reference | English Workgroup Number | Bilingual Workgroup Number |
+
+| --- | --- | --- |
+
+| 200 | 43 | 44 |
+
+| 201(1) | 43 | 44 |
+
+| 201(2) | 43 | 44 |
+
+| 201(3) | 43 | 44 |
+
+| 201(4) | 43 | 44 |
+
+| 202(1) | 43 | 44 |
+
+| 202(2) | 43 | 44 |
+
+| 202(3) | 43 | 44 |
+
+| 202(4) | 43 | 44 |
+
+| 202(5) | 43 | 44 |
+
+| 202(6) | 43 | 44 |
+
+| 203 | 43 | 44 |
+
+| 204 | 43 | 44 |
+
+| 204.1(1) | 43 | 44 |
+
+| 204.1(2) | 43 | 44 |
+
+| 204.1(2.1) | 43 | 44 |
+
+| 204.1(3) | 43 | 44 |
+
+| 204.1(4) | 43 | 44 |
+
+| 204.2(1) | 43 | 44 |
+
+| 204.2(1.1) | 43 | 44 |
+
+| 204.2(1.2) | 43 | 44 |
+
+| 204.2(1.3) | 43 | 44 |
+
+| 204.2(1.31) | 43 | 44 |
+
+| 204.2(1.32) | 43 | 44 |
+
+| 204.2(1.4) | 43 | 44 |
+
+| 204.2(1.5) | 43 | 44 |
+
+| 204.2(2) | 43 | 44 |
+
+| 204.2(3) | 43 | 44 |
+
+| 204.2(4) | 43 | 44 |
+
+| 204.3(1) | 43 | 44 |
+
+| 204.3(2) | 43 | 44 |
+
+| 204.4(1) | 43 | 44 |
+
+| 204.4(2) | 43 | 44 |
+
+| 204.4(3) | 43 | 44 |
+
+| 204.4(4) | 43 | 44 |
+
+| 204.4(5) | 43 | 44 |
+
+| 204.4(6) | 43 | 44 |
+
+| 204.4(7) | 43 | 44 |
+
+| 204.5 | 43 | 44 |
+
+| 204.6(1) | 43 | 44 |
+
+| 204.6(2) | 43 | 44 |
+
+| 204.6(3) | 43 | 44 |
+
+| 204.7(1) | 43 | 44 |
+
+| 204.7(2) | 43 | 44 |
+
+| 204.7(3) | 43 | 44 |
+
+| 204.8(1) | 42 | 44 |
+
+| 204.8(2) | 42 | 44 |
+
+| 204.8(3) | 42 | 44 |
+
+| 204.81(1) | 42 | 44 |
+
+| 204.81(2) | 42 | 44 |
+
+| 204.81(3) | 42 | 44 |
+
+| 204.81(4) | 42 | 44 |
+
+| 204.81(5) | 42 | 44 |
+
+| 204.81(6) | 42 | 44 |
+
+| 204.81(7) | 42 | 44 |
+
+| 204.81(8) | 42 | 44 |
+
+| 204.81(8.1) | 42 | 44 |
+
+| 204.81(8.2) | 42 | 44 |
+
+| 204.81(9) | 42 | 44 |
+
+| 204.82(1) | 42 | 44 |
+
+| 204.82(2) | 42 | 44 |
+
+| 204.82(2.1) | 42 | 44 |
+
+| 204.82.(2.2) | 42 | 44 |
+
+| 204.82(3) | 42 | 44 |
+
+| 204.82(4) | 42 | 44 |
+
+| 204.82(5) | 42 | 44 |
+
+| 204.82(6) | 42 | 44 |
+
+| 204.83(1) | 42 | 44 |
+
+| 204.83(2) | 42 | 44 |
+
+| 204.84 | 42 | 44 |
+
+| 204.841 | 42 | 44 |
+
+| 204.85(1) | 42 | 44 |
+
+| 204.85(2) | 42 | 44 |
+
+| 204.85(3) | 42 | 44 |
+
+| 204.86(1) | 42 | 44 |
+
+| 204.86(2) | 42 | 44 |
+
+| 204.87 | 42 | 44 |
+
+| 204.9 | 43 | 44 |
+
+| 204.9(1) | 43 | 44 |
+
+| 204.9(1.1) | 43 | 44 |
+
+| 204.9(2) | 43 | 44 |
+
+| 204.9(3) | 43 | 44 |
+
+| 204.9(4) | 43 | 44 |
+
+| 204.9(5) | 43 | 44 |
+
+| 204.91 | 43 | 44 |
+
+| 204.91(1) | 43 | 44 |
+
+| 204.91(2) | 43 | 44 |
+
+| 204.91(3) | 43 | 44 |
+
+| 204.91(4) | 43 | 44 |
+
+| 204.92 | 43 | 44 |
+
+| 204.93 | 43 | 44 |
+
+| 204.94(1) | 43 | 44 |
+
+| 204.94(2) | 43 | 44 |
+
+| 204.94(3) | 43 | 44 |
+
+| 204.94(4) | 43 | 44 |
+
+| 205 | 43 | 44 |
+
+| 206 | 43 | 44 |
+
+| 206(1) | 43 | 44 |
+
+| 206(1.1) | 43 | 44 |
+
+| 206(1.2) | 43 | 44 |
+
+| 206(1.3) | 43 | 44 |
+
+| 206(1.4) | 43 | 44 |
+
+| 206(1.5) | 43 | 44 |
+
+| 206(2) | 43 | 44 |
+
+| 206(2.01) | 43 | 44 |
+
+| 206(2.1) | 43 | 44 |
+
+| 206(3.1) | 43 | 44 |
+
+| 206(3.2) | 43 | 44 |
+
+| 206(4) | 43 | 44 |
+
+| 206.1 | 43 | 44 |
+
+| 207(1) | 43 | 44 |
+
+| 207(2) | 43 | 44 |
+
+| 207(3) | 43 | 44 |
+
+| 207.1(1) | 43 | 44 |
+
+| 207.1(2) | 43 | 44 |
+
+| 207.1(3) | 43 | 44 |
+
+| 207.1(4) | 43 | 44 |
+
+| 207.2(1) | 43 | 44 |
+
+| 207.2(2) | 43 | 44 |
+
+| 207.2(3) | 43 | 44 |
+
+| 207.3 | 42 | 44 |
+
+| 207.31 | 42 | 44 |
+
+| 207.4(1) | 42 | 44 |
+
+| 207.4(2) | 42 | 44 |
+
+| 207.5 | 43 | 44 |
+
+| 207.5(1) | 43 | 44 |
+
+| 207.5(2) | 43 | 44 |
+
+| 207.6(1) | 43 | 44 |
+
+| 207.6(2) | 43 | 44 |
+
+| 207.6(3) | 43 | 44 |
+
+| 207.6(4) | 43 | 44 |
+
+| 207.6(5) | 43 | 44 |
+
+| 207.6(5.1) | 43 | 44 |
+
+| 207.6(6) | 43 | 44 |
+
+| 207.6(7) | 43 | 44 |
+
+| 207.7(1) | 43 | 44 |
+
+| 207.7(2) | 43 | 44 |
+
+| 207.7(3) | 43 | 44 |
+
+| 207.7(4) | 43 | 44 |
+
+| 208(1) | 13 | 14 |
+
+| 208(1.1) | 13 | 14 |
+
+| 208(2) | 13 | 14 |
+
+| 208(3) | 13 | 14 |
+
+| 208(4) | 13 | 14 |
+
+| 209(1) | 13 | 14 |
+
+| 209(2) | 13 | 14 |
+
+| 209(3) | 13 | 14 |
+
+| 209(4) | 13 | 14 |
+
+| 209(5) | 13 | 14 |
+
+| 209(6) | 13 | 14 |
+
+[ [Income Tax  Technical News No. 29](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29/archived-income-tax-technical-news-no-29.html) ] [ [Table of Contents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29/archived-income-tax-act-workgroup-cross-reference-chart-26.html) ] [ [Next](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29/archived-income-tax-act-workgroup-cross-reference-chart-21.html) ]

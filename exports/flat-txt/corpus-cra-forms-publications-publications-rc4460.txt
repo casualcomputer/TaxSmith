@@ -1,0 +1,19 @@
+Title: RC4460 Registered Disability Savings Plan
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4460.html
+Corpus path: corpus/cra/forms-publications/publications/rc4460.md
+Document type: publication
+Last modified: 2026-01-06
+
+# RC4460 Registered Disability Savings Plan
+
+Information on how to set up and establish an RDSP. Additional information on eligibility requirements, taxation, payments, and Canada disability savings grants and bonds.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [rc4460-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4460/registered-disability-savings-plan.html)
+
+    - PDF [rc4460-25e.pdf](/content/dam/cra-arc/formspubs/pub/rc4460/rc4460-25e.pdf)
+
+- Ask for an alternate formatYou can order a digital audio, e-text, braille or large print version of this publication to be sent to you by mail.[Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html)

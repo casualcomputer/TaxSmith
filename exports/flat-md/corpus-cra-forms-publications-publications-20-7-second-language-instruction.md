@@ -1,0 +1,204 @@
+---
+title: "Second-language Instruction"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-7/second-language-instruction.html
+last_modified: 2019-12-11
+---
+# Second-language Instruction
+
+GST/HST Memorandum 20-7 December 2019
+
+This memorandum explains the circumstances under which supplies of instruction in English or French as a second language are exempt from the GST/HST under the Excise Tax Act.
+
+In this publication, all legislative references to the “Act” are to the Excise Tax Act, unless otherwise specified. The information in this publication does not replace the law found in the Act and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the Act or relevant regulation, or call GST/HST Rulings at 1-800-959-8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1-800-567-4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1-855-666-5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia, and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, see [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [General](#_Toc6388280)
+
+- [Second-language instruction](#_Toc6388281)
+
+    - [Other language instruction](#_Toc6388282)
+
+    - [Programs](#_Toc6388283)
+
+    - [Suppliers](#_Toc6388284)
+
+          - [School authorities](#_Toc6388285)
+
+          - [Vocational schools](#_Toc6388286)
+
+          - [Universities](#_Toc6388287)
+
+          - [Public colleges](#_Toc6388288)
+
+          - [Businesses established and operated primarily to provide instruction in languages](#_Toc6388289)
+
+    - [Course materials](#_Toc6388290)
+
+## General
+
+1. Supplies of many educational services, as well as certain specific supplies of related property and services, are exempt from the GST/HST. These exemptions are listed in Part III of Schedule V.
+
+## Second-language instruction
+
+2. Section 11 of Part III of Schedule V exempts “a supply of a service of instructing individuals in, or administering examinations in respect of, language courses that form part of a program of second-language instruction in either English or French, if the supply is made by a school authority, a vocational school, a public college or a university or in the course of a business established and operated primarily to provide instruction in languages”.
+
+3. The exemption in section 11 of Part III of Schedule V applies only to the supply of a service of instructing individuals in, or administering examinations in respect of, courses in English or French as a second language. The exemption does not apply to other courses relating to English or French, such as courses intended to help students improve their command of English or French when it is their first language, nor does it apply to the supply of instruction in languages other than French or English.
+
+4. The determination of whether a particular supply of language instruction or examination administration qualifies for exemption under section 11 of Part III of Schedule V is a question of fact and must be made on a case-by-case basis.
+
+An individual signs up for a technical writing course at a local university. The course focuses on English grammar and writing techniques in general, as well as on specific skills relating to technical and scientific writing.
+
+Although the technical writing course involves instruction in the English language, the supply of the course is not exempt under section 11 of Part III of Schedule V as it is not part of a program of instruction in English as a second language. However, it may be exempt under another section of Part III of Schedule V.
+
+### Other language instruction
+
+5. While the exemption under section 11 of Part III of Schedule V applies only to the supply of instructing individuals in, or administering examinations in respect of, courses in English or French that form part of a program of second language instruction, the supply of instructing individuals in other courses relating to English, French or other languages may be exempt under another provision of Schedule V. For example, section 7 of Part III of Schedule V exempts a supply of a service of instructing individuals in, or administering examinations in respect of, courses taken for credit towards a diploma or degree if the supply is made by a school authority, public college or university, and section 1 of Part V.1 of Schedule V exempts certain supplies made by charities.
+
+### Programs
+
+6. For the purposes of the exemption under section 11 of Part III of Schedule V, the term **program** is generally understood to refer to a particular series of courses that:
+
+- follow a logical sequence
+
+- fit together in a coherent way
+
+7. The courses that form part of a program generally have a common subject matter or purpose, and the program itself should also have the purpose to develop students’ skills in English or French as a second language.
+
+8. While a program generally consists of a series of courses, it is not necessary that an individual take all of the courses offered as part of that program for the exemption in section 11 of Part III of Schedule V to apply.
+
+The Continuing Education department of a public college offers a variety of language courses, including:
+
+- Chinese for Beginners; Chinese, Level 2; and Chinese, Level 3
+
+- French for Beginners; French, Level 2; and French, Level 3
+
+- Conversational Russian
+
+- Conversational Spanish
+
+The supply of instruction by the public college in French for Beginners; French, Level 2; and French, Level 3 is exempt under section 11 of Part III of Schedule V as it is part of a program of second-language instruction in French. Although the supplies of language instruction in Chinese, Russian and Spanish are part of a program of second-language instruction, section 11 of Part III of Schedule V only applies to language instruction in English and French. Therefore, the courses in Chinese, Russian and Spanish would not be exempt under section 11 of Part III of Schedule V. However, they may be exempt under another section of Part III of Schedule V.
+
+### Suppliers
+
+9. In addition to being part of a program, the supply of instruction in English or French as a second language must be made by a school authority, vocational school, university, or public college or in the course of a business established and operated primarily to provide instruction in languages.
+
+#### School authorities
+
+10. **School authority** is defined in subsection 123(1) to mean “an organization that operates an elementary or secondary school in which it provides instruction that meets the standards of educational instruction established by the government of the province in which the school is operated”.
+
+11. For the purposes of the Act, the term **province** is interpreted to include a territory of Canada.
+
+12. For information on the requirements that must be met to qualify as a school authority, refer to [GST/HST Memorandum 20-1, School Authorities – Elementary and Secondary Schools](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-1.html).
+
+#### Vocational schools
+
+13. **Vocational school** is defined in section 1 of Part III of Schedule V to mean “an organization that is established and operated primarily to provide students with correspondence courses, or instruction in courses, that develop or enhance students’ occupational skills”.
+
+14. For information on the requirements that must be met to qualify as a vocational school, refer to [GST/HST Memorandum 20-4, Vocational Schools and Courses](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-4.html).
+
+#### Universities
+
+15. **University** is defined in subsection 123(1) to mean “a recognized degree-granting institution or an organization that operates a college affiliated with, or a research body of, such an institution”.
+
+16. For information on the requirements that must be met to qualify as a university, refer to [GST/HST Memorandum 20-3, Universities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-3.html).
+
+#### Public colleges
+
+17. **Public college** is defined in subsection 123(1) to mean “an organization that operates a post-secondary college or post-secondary technical institute
+
+1. that receives from a government or a municipality funds that are paid for the purpose of assisting the organization in the ongoing provision of educational services to the general public, and
+
+2. the primary purpose of which is to provide programs of instruction in one or more fields of vocational, technical or general education”.
+
+18. For information on the requirements that must be met to qualify as a public college, refer to [GST/HST Memorandum 20-2, Public Colleges](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-2.html).
+
+#### Businesses established and operated primarily to provide instruction in languages
+
+19. A person may engage in more than one business. In order for the exempting provision under section 11 of Part III of Schedule V to apply, a person’s business that provides instruction in English or French as a second language must meet the conditions of being established and operated primarily (more than 50%) to provide instruction in languages.
+
+20.**Business** is defined in subsection 123(1) to include “a profession, calling, trade, manufacture or undertaking of any kind whatever, whether the activity or undertaking is engaged in for profit, and any activity engaged in on a regular or continuous basis that involves the supply of property by way of lease, licence or similar arrangement, but does not include an office or employment”.
+
+21. [GST/HST Policy Statement P-167R, Meaning of the First Part of the Definition of Business](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-167r.html), and [GST/HST Policy Statement P-205R, Meaning of the Second Part of the Definition of Business and Whether it Applies to Activities Regardless of Whether There is an Expectation of Profit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-205r.html), provide additional information on the definition of business.
+
+22. To determine if a business of a person was established primarily to provide instruction in languages, the CRA will examine the facts surrounding that business to determine the purpose for which the business was established. The CRA will consider factors such as the business’s ongoing activities and operations, as well as its promotional materials (brochures, advertisements, course guides, etc.), which may provide evidence of the purpose for its establishment.
+
+23. Once it has been determined that the business was established primarily to provide instruction in languages, it must be determined whether the business is operated primarily to provide instruction in languages. The CRA will consider a business to be operated primarily to provide instruction in languages if more than 50% of its total annual revenues are derived from fees/tuition for, or can be attributed to instruction in, language courses.
+
+24. The following are examples of sources of revenue that could relate to, or be dependent on, providing instruction in language courses and that may be included in calculating course-related revenues:
+
+- fees charged for textbooks and course material related to language courses
+
+- fees charged for the administration of examinations related to language courses
+
+- fees charged for locker rentals for individuals taking language courses
+
+- photocopying fees charged for language courses
+
+- library fees for language courses
+
+- parking fees for individuals taking language courses
+
+25. While the exemption under section 11 of Part III of Schedule V is for the supply of second-language instruction in English or French only, the CRA will take into account revenues from the supply of instruction in any language when determining whether a business is operated primarily to provide instruction in languages.
+
+26. Businesses must review their operations on an annual basis to determine whether they continue to operate primarily to provide instruction in languages. For example, a business that was considered to be operating primarily to provide instruction in languages in a fiscal year and that intends to continue to operate in the same manner would be considered to be operated primarily to provide instruction in languages in the following fiscal year. However, if the portion of the business’s total annual revenues that is derived from language course fees/tuition or that can be attributed to instruction in these courses falls to 50% or less during the following fiscal year, the business would no longer be considered to be operated primarily to provide instruction in languages in the next fiscal year.
+
+During the course of an audit, Articles of Incorporation for Corporation A were provided to the auditor. The Articles state that Corporation A was established primarily to provide language training and secondarily to provide teacher training. Corporation A offers a program of second-language instruction in English, French, German, Portuguese, and Spanish, as well as training for individuals who wish to learn how to teach French as a second language.
+
+The breakdown of Corporation A’s revenue for the prior fiscal year was as follows:
+
+- 75% from instruction in languages, of which approximately:
+
+    - 10% is from instruction in English
+
+    - 25% is from instruction in French
+
+    - 15% is from instruction in German
+
+    - 5% is from instruction in Portuguese
+
+    - 20% is from instruction in Spanish
+
+- 25% from teacher training
+
+The Articles of Incorporation demonstrate that Corporation A was established primarily to provide language training, and the breakdown of revenue provided by Corporation A demonstrates that in the prior fiscal year, it was operated primarily to provide language training. In the prior fiscal year, Corporation A’s supplies of instructing individuals in English and French were made in the course of a business established and operated primarily to provide instruction in languages. As such, the auditor knew that the supplies of services of instructing individuals in English and French would be exempt under section 11 of Part III of Schedule V.
+
+At the beginning of the current fiscal year, Corporation A added translation services to its business activities and contracted with Company X to provide translation services. At the end of the current fiscal year, Corporation A realizes that the revenue from the translation services for the current fiscal year will be 55% of its annual revenue. Corporation A’s supplies of instructing individuals in English and French will no longer be made in the course of a business operated primarily to provide instruction in language courses. Therefore, the supplies of services of instructing individuals in language courses, including English and French, will no longer be exempt supplies under section 11 for the following fiscal year.
+
+### Course materials
+
+27. Students often purchase course materials that relate to their second-language instruction, such as textbooks, dictionaries, notes, and compact discs, from the person supplying the service of instruction. The course materials may either be part of a single supply of a service of instruction that consists of several elements or be supplied separately from the supply of a service of instruction. The tax status of course materials that relate to a service of instruction in a second language must therefore be determined on a case-by-case basis.
+
+28. If the service of instruction and course materials form part of a single supply of the second-language instruction and the supply of the service of instruction is an exempt supply, the course materials included in the single supply will not be subject to the GST/HST.
+
+29. If the supply of course materials is a separate supply from the exempt supply of the service of instruction, the supply of the course materials would not be exempt under Part III of Schedule V and would be taxable unless another exempting provision of the Act applies to the supply.
+
+30. [GST/HST Policy Statement P-077R2, Single and Multiple Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-077r2.html), provides guidance for determining whether a transaction consisting of several elements is a single supply or 2 or more supplies.
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries,**call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries,**call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in**Quebec**, call**Revenu Québec**at **1-800-567-4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST - Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for**general GST/HST**or**QST enquiries**, call**Business Enquiries**at**1-800-959-5525**
+
+- for**technical GST/HST**or**QST enquiries**, call**GST/HST Rulings SLFI**at**1-855-666-5166**

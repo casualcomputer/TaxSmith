@@ -1,0 +1,91 @@
+Title: ARCHIVED - Amounts Excluded from Income - Statutory Exemptions and Certain Service or RCMP Pensions, Allowances and Compensation
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it397rsr/archived-amounts-excluded-income-statutory-exemptions-certain-service-rcmp-pensions-allowances-compensation.html
+Corpus path: corpus/cra/forms-publications/publications/it397rsr/archived-amounts-excluded-income-statutory-exemptions-certain-service-rcmp-pensions-allowances-compensation.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Amounts Excluded from Income - Statutory Exemptions and Certain Service or RCMP Pensions, Allowances and Compensation
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO.: **IT-397R**
+
+DATE: July 15, 1995
+
+SUBJECT: INCOME TAX ACT**Amounts Excluded from Income - Statutory Exemptions and Certain Service or RCMP Pensions, Allowances and Compensation**
+
+REFERENCE: SPECIAL RELEASE
+
+**Notice to the reader:**
+
+- [Bulletins do not have the force of law](https://www.canada.ca/formspubs/pbs/tntc-eng.html).
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it397rsr.html), including PDF (which is an exact rendition of the original).
+
+## Application
+
+The purpose of this Special Release is to update Interpretation Bulletin IT- 397R, dated February 23, 1990, to reflect amendments to the Income Tax Act by S.C. 1994, c.7, Schedule II (1991, c. 49 - formerly Bill C-18) and by S.C. 1994, c. 7, Schedule VII (1992, c. 48 - formerly Bill C-80), to the Merchant Navy Veteran and Civilian War-related Benefits Act by S.C. 1994, c. 7, Schedule II (1992, c.-24 - formerly Bill C-84) and to the Foreign Missions and International Organizations Act by S.C. 1994, c. 21 (formerly Bill C-27). This Special Release also cancels IT-62, Indians, dated August 18, 1972, for the reasons stated in 1 below.
+
+## Bulletin Revisions
+
+1. Paragraph 2 of the bulletin is cancelled since it does not take into account recent jurisprudence or amendments to the Indian Act. New paragraph 2 discusses the guidelines issued in June 1994 concerning exemption from tax for Indians earning employment and related income. The determination of the taxation status of other forms of income (such as business or investment) requires a review of the factors connecting the income to a reserve on a case- by-case basis. The Supreme Court of Canada did not accept the principle of the location of the debtor as sole criteria for determining exemption from tax. There are a number of cases presently before the courts, which should provide assistance in determining the weight to be applied to various factors. As these cases are resolved, the Department will communicate any principles established. In the meantime, it is suggested that individuals who require the full text of the guidelines or who require a determination with regard to a specific situation contact there nearest Tax Services Office. Paragraph 2 is replaced by the following:
+
+2. Section 87 of the Indian Act exempts from taxation the personal property of an Indian situated on a reserve. The courts have decided that, for purposes of section 87 of the Indian Act, an Indian's employment income is personal property. Therefore, if an Indian earns employment income, what must be determined is whether that income is situated on a reserve. When making this determination, the approach taken by the Supreme Court of Canada, in the case of Glenn Williams v. The Queen, 92 DTC 6320, (1992) 1 C.T.C. 225, must be followed. This approach requires the examination of all factors connecting income to a reserve. Guidelines concerning the exemption from income tax for Indians earning employment and related income were issued by the Department in June 1994. These guidelines replaced the Interpretation Bulletin commentary and have the same weight as a bulletin. Under these guidelines, an Indian's employment income will usually be exempt from income tax in any of the following situations:
+
+(a) when at least 90% of the duties of an employment are performed on a reserve,
+
+(b) when the employer is resident on a reserve and the Indian lives on a reserve,
+
+(c) when more than 50% of the duties of an employment are performed on a reserve and the employer is resident on a reserve, or the Indian lives on a reserve,
+
+(d) when the employer is resident on a reserve and the employer is:
+
+(i) an Indian band which has a reserve,
+
+(ii) a tribal council representing one or more Indian bands which have reserves, or
+
+(iii) an Indian organization controlled by one or more such bands or tribal councils, if the organization is dedicated exclusively to the social, cultural, educational, or economic development of Indians who for the most part live on reserves,
+
+and the duties of the employment are in connection with the employer's non- commercial activities carried on exclusively for the benefit of Indians who for the most part live on reserves.
+
+Furthermore, when less than 90% of the duties of an employment are performed on a reserve and the employment income is not exempted by another guideline or disposition of the Act, the exemption is to be prorated. The exemption will apply to the portion of the income related to the duties performed on the reserve.
+
+The receipt of unemployment insurance benefits, retiring allowances, Canada pension plan (or Quebec pension plan) payments, registered pension plan benefits or wage loss replacement plan benefits will usually be exempt from income tax when received as a result of employment income that was exempt from tax. If a portion of the employment income was exempt, then a similar portion of these amounts will be exempt.
+
+2. The title to paragraph 3 of the bulletin is cancelled and replaced by Foreign Missions and International Organizations Act as a consequence of the change of the name of the former Privileges and Immunities (International Organizations) Act by Bill C-27.
+
+3. Paragraph 8 of the bulletin is cancelled due to the repeal of subsections 56(5), (6) and (7) by Bill C-80 for the 1993 and subsequent taxation years. This follows the modification to the dependants tax credit, which no longer applies, to dependants who are under the age of 18 years at any time in the year.
+
+4. That part of paragraph 10(b) of the bulletin preceding (i) is cancelled and replaced by the following as a consequence of the change of the name of the former Civilian War Pensions and Allowances Act to the Merchant Navy Veteran and Civilian War-related Benefits Act by Bill C-84:
+
+(b) Compensation payable under the Merchant Navy Veteran and Civilian War- related Benefits Act, for the same reasons referred to in (a) above, for service rendered by any person in World War II who was
+
+5. Paragraph 10(b) of the bulletin is amended to add the following as a consequence of a new category of veteran added under the Merchant Navy Veteran and Civilian War-related Benefits Act by Bill C-84:
+
+(xi) a merchant navy veteran.
+
+6. Paragraph 10 of the bulletin is further amended to add (e) following an amendment to paragraph 81(1)(d) by Bill C-18. Item (e) will read as follows:
+
+(e) Annuities payable, and received after 1985, under the Gallantry Awards Order for conspicuous and distinguished service during a war to gallant members of the Canadian Forces.
+
+7. Paragraph 11 in the French version of the bulletin is revised to correct the reference to la "Loi sur la pension du service public" with la "Loi sur la pension de la fonction publique".
+
+8. Paragraph 12 of the bulletin is cancelled and replaced by the following due to the fact that the exemption under paragraph 81(1)(e) has been extended to pension payments received on account of disabilities or death out of a "war" rather than out of "war service" by Bill C-18:
+
+12. Under paragraph 81(1)(e), a pension payment on account of disability or death arising out of war service received from a foreign country that was an ally of Canada at the time of the war service is not required to be included in income. Also, for the 1988 and subsequent taxation years, this exemption will apply to a pension payment on account of disability or death arising out of a war received from a foreign country that was an ally of Canada at the time of the war. This will allow pensions paid to civilian war casualties to benefit from the exemption. In both cases, in order for the exemption to apply, the foreign country that pays the pension must grant substantially similar relief for the year to persons receiving payments referred to in paragraph 81(1)(d) and discussed in 10 above (see also 13 below).
+
+9. The first sentence in paragraph 13 of the bulletin is cancelled and replaced by the following as a consequence of an amendment to paragraph 81(1)(e) by Bill C-18 and to add back the word "co-belligerents":
+
+Paragraph 81(1)(e) only applies to pension payments made by countries that were allies or co-belligerents of Canada at the time of war or war service referred to in 12 above.
+
+If you have any comments concerning the matters discussed in this special release, please send them to:
+
+Director, Technical Publications Division Policy and Legislation Branch Revenue Canada 875 Heron Road Ottawa ON K1A 0L8

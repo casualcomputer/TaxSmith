@@ -1,0 +1,535 @@
+Title: Place of Supply
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3/place-supply.html
+Corpus path: corpus/cra/forms-publications/publications/3-3/place-supply.md
+Document type: publication
+Last modified: 2025-03-03
+
+# Place of Supply
+
+GST/HST memorandum 3.3 April 2000
+
+Notice of Change 188 **re 3.3, *Place of Supply*, paragraph 39, April 14, 2004.**
+
+Overview
+
+This memorandum explains what place of supply means and provides detailed information on place of supply for purposes of the Goods and Services Tax /the Harmonized Sales Tax (GST/HST) provisions of the *Excise Tax Act*. The place of supply rules contained in this memorandum apply for purposes of determining if a supply is made in or outside Canada. The place of supply rules that determine the application of the HST on supplies deemed to be made in or outside a participating province are not provided in this memorandum, but can be found in Technical Information Bulletin B-078, *Place of Supply Rules under the HST*.
+
+Disclaimer
+
+The information in this memorandum does not replace the law found in the *Excise Tax Act* and its Regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation, or contact a Canada Revenue Agency (CRA) GST/HST Rulings Centre for more information. These centres are listed in GST/HST Memorandum 1.2, [Canada Revenue Agency GST/HST Rulings Centres](https://www.canada.ca/E/pub/gm/1-2/README.html). If you wish to make a technical enquiry on the GST/HST by telephone, please call the toll-free number 1-800-959-8287.
+
+If you are located in the Province of Quebec, please contact Revenu Québec by calling the toll-free number 1-800-567-4692 for additional information.
+
+This memorandum supersedes GST Memorandum 300-5, *Place of Supply*, dated August 27, 1990. Due to the number of significant changes, the revisions have not been side-barred.
+
+Reference in this publication is made to supplies taxable at 7% or 15% (the rate of the HST). The 15% HST applies to taxable (others than zero-rated) supplies made in Nova Scotia, New Brunswick and Newfoundland (the "participating provinces"). If a person is uncertain as to whether the supply is made in a participating province, the person may refer to Technical Information Bulletin B-078, *Place of Supply Rules under the HST*, available from any tax services office.
+
+[Proposed amendments]
+
+[Where information reflects proposed amendments, the information is enclosed in square brackets.] In this memorandum, the proposed amendments that are reflected through the use of square brackets arise from the Bill C-24, which received first reading February 16, 2000. Any commentary in this memorandum should not be taken as a statement by the Canada Customs and Revenue Agency (CCRA) that such amendments will in fact be enacted into law in their current form.
+
+## Table of Contents
+
+- [Place of supply](#P59_2586)
+
+- [Supply made in Canada](#P75_4624)
+
+- [Supply made outside Canada](#P100_6216)
+
+- [Supply of tangible personal property by way of sale](#P122_8162)
+
+- [Supply of tangible personal property otherwise than by way of sale](#P140_10529)
+
+- [Supply of intangible personal property](#P179_18526)
+
+- [Mobile and floating homes](#P191_19741)
+
+- [Other factors to determine the place of supply](#P196_20163)
+
+- [Place of supply rules for telecommunication services](#P221_22840)
+
+    - [Supply of telecommunication services](#P239_25417)
+
+- [Place of supply for international travel](#P265_29598)
+
+- [Supply in a province](#P272_30752)
+
+- [Determining residence and non-residence status in Canada](#P282_32218)
+
+- [Supply made by non-residents](#P287_32940)
+
+    - [Registration of non-residents](#P309_35012)
+
+- [Supply before release](#P325_37551)
+
+- [Drop-shipments on behalf of non-residents](#P329_38146)
+
+## Place of supply
+
+General rule
+
+s 142
+
+1. Section 142 sets out the rules that, in some cases, deem supplies to be made in Canada and others outside Canada. Generally, the GST/HST applies only to a supply made or deemed to be made in Canada. However, reference must be made to Schedules V and VI, enumerating exempt and zero-rated supplies respectively. For example, for certain supplies made in Canada, Part V of Schedule VI provides zero-rated status where the goods are exported or the services are for consumption or use outside Canada. With respect to a person making exempt supplies, as described in Schedule V, there is no requirement to collect tax on the supply made in Canada.
+
+Supplies made or deemed to be made outside Canada
+
+2. Where the supply is made or deemed to be made outside Canada, the supply is not subject to tax under Division II; that is, the recipient of the supply is not liable to pay the tax and the supplier is not liable to collect the tax. The supply could, however, be subject to tax under Division III (tax on imported goods) or IV (tax on imported taxable supplies).
+
+Meaning of Canada
+
+ss 123(2)
+
+3. For purposes of the GST/HST, Canada includes
+
+1. the sea bed and subsoil of the submarine areas adjacent to the coasts of Canada in respect of which the government of Canada or of a province may grant a right, licence or privilege to explore for or exploit any minerals; and
+
+2. the seas and airspace above the submarine areas referred to in paragraph (a) above in respect of any activities carried on in connection with the exploration for or exploitation of minerals.
+
+Nature of the supply
+
+4. Separate place of supply rules may apply depending on the nature of the supply (i.e., tangible personal property, real property, intangible personal property or services). For example, a sale of real property or a service relating to real property is deemed to be made where the real property is situated. Where a supply is not governed by these rules, the determination must be made on the basis of the facts in the particular case.
+
+## Supply made in Canada
+
+ss 142(1)
+
+5. Subject to sections 143, 144 and 179 (which are discussed later), a supply is deemed to be made in Canada if:
+
+Goods by way of sale
+
+para 142(1)(a)
+
+(a) in the case of a supply by way of sale of tangible personal property (e.g., goods), the property is, or is to be, delivered or made available in Canada to the recipient of the supply (More information is available in paragraphs 7 to 11.);
+
+Goods otherwise than by way of sale para 142(1)(b)
+
+(b) in the case of a supply of tangible personal property otherwise than by way of sale (e.g., lease, rental), possession or use of the property is given or made available in Canada to the recipient of the supply (Further information is available in paragraphs 12 to 23.);
+
+Intangible personal property
+
+para 142(1)(c)
+
+(c) in the case of a supply of intangible personal property,
+
+(i) the property may be used in whole or in part in Canada, or
+
+(ii) the property relates to real property situated in Canada, to tangible personal property ordinarily situated in Canada or to a service to be performed in Canada (More information is available in paragraphs 24 to 26.);
+
+Real property
+
+para 142(1)(d)
+
+(d) in the case of a supply of real property or of a service in relation to real property, the real property is situated in Canada;
+
+Prescribed service para 142(1)(f)
+
+(e) the supply is a supply of a prescribed service (none currently prescribed); or
+
+Other services
+
+para 142(1)(g)
+
+(f) in the case of a supply of any other service, the service is, or is to be, performed in whole or in part in Canada.
+
+## Supply made outside Canada
+
+ss 142(2)
+
+6. The Act provides that a supply is deemed to be made outside Canada if:
+
+Goods by way of sale
+
+para 142(2)(a)
+
+(a) in the case of a supply by way of sale of tangible personal property (e.g., goods), the property is, or is to be, delivered or made available outside Canada to the recipient of the supply (More information is available in paragraphs 7 to 11.);
+
+Goods otherwise than by way of sale para 142(2)(b)
+
+(b) in the case of a supply of tangible personal property otherwise than by way of sale, possession or use of the property is given or made available outside Canada to the recipient of the supply (Further information is available in paragraphs 12 to 23**.**);
+
+Intangible personal property
+
+para 142(2)(c)
+
+(c) in the case of a supply of intangible personal property,
+
+(i) the property may not be used in Canada, or
+
+(ii) the property relates to real property situated outside Canada, to tangible personal property ordinarily situated outside Canada or to a service to be performed wholly outside Canada (More information is available in paragraphs 24 to 26.);
+
+Real property
+
+para 142(2)(d)
+
+(d) in the case of a supply of real property or a service in relation to real property, the real property is situated outside Canada;
+
+For example, a sale of land in the United States or a supply of engineering services relating to a building to be constructed outside Canada is not subject to tax, even though some of the work may be done in Canada. However, mobile homes and floating homes are deemed to be supplied in the place where they are delivered or made available to the recipient (See paragraph 27 for the rules on mobile and floating homes.).
+
+Prescribed service para 142(2)(f)
+
+(e) the supply is a supply of a prescribed service (none currently prescribed); or
+
+Other services para 142(2)(g)
+
+(f) in the case of a supply of any other service, the service is, or is to be, performed wholly outside Canada.
+
+## Supply of tangible personal property by way of sale
+
+Meaning of the phrase "delivered or made available"
+
+Policy statement
+
+P-078
+
+7. For purposes of paragraphs 142(1)(a) and 142(2)(a) which deem supplies of tangible personal property by way of sale to be made in Canada or outside Canada, the phrase "delivered or made available" has the same meaning as that assigned to the concept of "delivery" under the law of the sale of goods, as follows:
+
+"Delivered" refers to those situations where delivery of the tangible personal property under the applicable law of the sale of goods is effected by actual delivery.
+
+"Made available" refers to those situations where delivery of the tangible personal property under the applicable law of the sale of goods is effected by constructive delivery (i.e., actual physical possession of the tangible personal property is not transferred to the recipient of the supply yet is recognized as having been intended by the parties and as sufficient in law). For example, situations arise where a person sells tangible personal property to another person and agrees to hold the property as bailee for the buyer.
+
+8. In any given case, the place where the tangible personal property is delivered or made available may be determined by reference to the place where the tangible personal property is considered to have been delivered under the law of the sale of goods applicable in that case.
+
+Terms of the contract
+
+9. Generally, the place where the tangible personal property is delivered or made available can be determined by reference to the terms of the contract.
+
+The *Sale of Goods Act* and the *Civil Code*
+
+10. In common law provinces, the law of the sale of goods is primarily contained in the appropriate *Sale of Goods Act*. In the province of Quebec, the obligation of the seller to deliver the tangible personal property to the buyer is contained in the *Civil Code* rather than in a *Sale of Goods Act.*
+
+Contract governed by the Convention
+
+11. In those cases where the contract between the parties is governed by the *United Nations Convention on Contracts for the International Sale of Goods* (Convention), the place where the tangible personal property is delivered or made available will have to be determined in accordance with the rules relating to delivery contained in the Convention rather than in accordance with the domestic law of any province.
+
+## Supply of tangible personal property otherwise than by way of sale
+
+Supply made in Canada
+
+para 142(1)(b)
+
+12. A supply of tangible personal property is deemed to be made in Canada if, in the case of a supply otherwise than by way of sale, possession or use of the property is given or made available in Canada to the recipient of the supply.
+
+Supply made outside Canada
+
+para 142(2)(b)
+
+13. A supply of tangible personal property is deemed to be made outside Canada if, in the case of a supply otherwise than by way of sale, possession or use of the property is given or made available outside Canada to the recipient of the supply.
+
+Tangible personal property otherwise than by way of sale
+
+14. It is generally understood that a supply of tangible personal property otherwise than by way of sale includes a supply by way of lease, licence or similar arrangement. Nevertheless, there may be other supplies that are determined not to have been made by way of sale.
+
+Policy statement
+
+P-193
+
+15. For purposes of paragraphs 142(1)(b) and 142(2)(b) which deem supplies of tangible personal property otherwise than by way of sale to be made in Canada or outside Canada, the CCRA considers that the place where possession or use of the tangible personal property is given or made available refers to the place where:
+
+- the recipient of the supply of the tangible personal property obtains physical possession of the property at the time the agreement is entered into or the supply is made, or
+
+- in situations where physical possession of the tangible personal property is not obtained at the time the agreement is entered into or the supply is made, the recipient may obtain or have access to the property.
+
+Terms of the agreement
+
+16. The place where possession or use of the tangible personal property is given or made available can be determined based on the location of the property at the time the supply is made (i.e., at the time the agreement is entered into). Generally, the location can be determined by reference to the terms of the agreement (e.g., lease or rental agreement). In those instances where there is no agreement or the terms of the agreement are not conclusive, it is necessary to look to the actions of the parties.
+
+Lease etc. of property
+
+ss 136.1(1)
+
+17. Where property is supplied by way of lease, licence or similar arrangement, and consideration is paid on a periodic basis (lease interval), a separate supply is deemed to occur in respect of each lease interval. The CCRA's position is that, for purposes of paragraphs 142(1)(b) and 142(2)(b), possession or use of the tangible personal property is given or made available only once under the lease agreement. This point in time is at the beginning of the lease. Therefore, for purposes of section 142, it is only necessary to determine the place of supply once. However, if a supply is deemed to be made in Canada pursuant to paragraph 142(1)(b), and that supply is not deemed to be made outside Canada under another provision of the Act or zero-rated or exempt by Schedules VI or V respectively, a determination as to the place of supply for purposes of section 144.1 and Part II of Schedule IX will have to be made for each lease interval to determine the appropriate amount of tax applicable to each separate lease payment (i.e., GST at 7% or HST at 15%).
+
+[Lease intervals
+
+ss 136.1(1)]
+
+18. [Proposed new paragraph 136.1(1)(d) clarifies that if the place of supply of the property without regard to the deeming rule in paragraph 17 of this memorandum would be considered to be in Canada, then that is the place of supply for all of the supplies that are, because of that paragraph, considered to be made under the arrangement. Likewise, if the place of supply would be considered to be outside Canada, all of the supplies are considered to be made outside Canada. This amendment comes into force on December 10, 1998.
+
+19. The amendment is intended to ensure that the test of whether a supply of property by way of lease, licence or similar arrangement is made in or outside Canada continues to be a once-and-for-all test that is irrespective of the separate-supply rule. In the case of tangible personal property, the determination would generally be based on where legal delivery of the property was made to the recipient under the terms of the arrangement (i.e., where possession or use was first given or made available to the recipient). This determination would govern whether all the deemed supplies made under the arrangement was considered to be made in or outside Canada, irrespective of whether the property was situated in Canada during some lease intervals and outside Canada during others
+
+Delivery on exercise of option
+
+ss136.1(1.1)
+
+20. New subsection 136.1(1.1) specifies, for greater certainty, the time and place at which a recipient who had been leasing property is treated as receiving delivery of it as a purchaser when the recipient exercises a purchase option and maintains physical possession of the property. It is the same time and place at which the recipient begins to have possession of the property as purchaser and ceases to have possession as lessee or licensee. New subsection 136.1(1.1) comes into force on April 1, 1997.
+
+A person who is a lessee under a lease of property arrangement exercises an option provided for under the lease arrangement to purchase the property while retaining physical possession of the property. In this example, the time and place of delivery of the property in relation to the purchase is the time and place at which the person begins to have possession as purchaser (i.e., generally when ownership transfers) and not the time and place at which the person first took possession of the property as lessee.]
+
+paras 142(1)(g) and 142(2)(g)
+
+21. A supply of any other service is deemed to be made in Canada if the service is, or is to be, performed in whole or in part in Canada. A supply of any other service is deemed to be made outside Canada if the service is, or is to be, performed wholly outside Canada. The term "any other service" refers to a service other than a service in relation to real property, a prescribed service or a telecommunication service.
+
+Billing periods for ongoing services
+
+ss 136.1(2)
+
+22. Where the consideration for a supply of a service includes a payment that is attributable to a period (i.e., a billing period) that is the whole or a part of the period during which the service is to be rendered, there is a separate supply for each billing period. For purposes of paragraphs 142(1)(g) and 142(2)(g), the determination as to whether a supply of any other service is made in (or outside) Canada is made only once - at the time the agreement is entered into. When making the determination, the entire period during which the service is, or is to be, performed under the agreement for the supply must be considered. If a supply is deemed to be made in Canada pursuant to paragraph 142(1)(g), and that supply is not deemed to be made outside Canada under another provision in the Act or zero-rated or exempt by the Schedules VI and V respectively, a determination as to the place of supply for purposes of section 144.1 and Part V of Schedule IX will have to be made for each billing period to determine the appropriate amount of tax applicable to each payment (i.e., GST at 7% or HST at 15%).
+
+[new para 136.1(2)(d)]
+
+23. [New paragraph 136.1(2)(d) proposes to clarify that if the place of supply of the services without regard to the deeming rule in paragraph 22 of this memorandum would be considered to be in Canada, then that is the place of supply for all of the supplies that are, because of that paragraph, considered to be made under the agreement. Likewise, if the place of supply would be considered to be outside Canada, all of the supplies are considered to be made outside Canada. It is to be noted that this rule does not apply to telecommunication services because these services have special place of supply rules. This amendment comes into force on December 10, 1998.]
+
+## Supply of intangible personal property
+
+Supplies made prior to April 24, 1996
+
+subpara 142(1)(c)(i)
+
+24. Prior to April 24, 1996, a supply of intangible personal property such as intellectual property was deemed to be made in Canada if the property might have been used in whole or in part in Canada, and the recipient of the supply was either resident in Canada or was registered under the GST.
+
+Supplies made on or after April 24, 1996
+
+subpara 142(1)(c)(i)
+
+25. For supplies of intangible personal property made on or after April 24, 1996, a supply of intangible personal property is deemed to be made in Canada if the property may be used in whole or in part in Canada.
+
+Effect of changes to para 142(1)(c)
+
+26. The changes to subparagraph 142(1)(c)(i) remove the reference to a person resident in Canada or registered for the GST/HST so that the determination of the place of supply for intangible personal property is based only on use in whole or in part in Canada.
+
+A Canadian author sells the worldwide publishing rights (considered to be a supply of intangible personal property) to her novel to an unregistered non-resident publisher. As the publishing rights include Canada, the supply is deemed to be made in Canada.
+
+## Mobile and floating homes
+
+Treated as tangible personal property
+
+ss 142(3)
+
+27. For the purposes of the place of supply rules in section 142, a mobile home and a floating home when not permanently affixed to land are treated as tangible personal property and not real property. As a result, the rules for tangible personal property apply in determining whether a supply of a mobile or floating home is made in or outside Canada.
+
+## Other factors to determine the place of supply
+
+Uncertainty in determining the place of supply
+
+Policy statement
+
+P-200
+
+28. In certain situations, the deeming provisions in subsections 142(1) and 142(2) do not appear to provide a definitive result as to where the supply is made. Depending on the facts, situations can arise whereby a supply appears not to be deemed to be made in or outside Canada, or a supply appears to be deemed to be made both in and outside Canada. There are also situations not described by either subsection 142(1) or 142(2).
+
+Specific facts and application of general legal principles
+
+29. In these situations, to determine whether subsections 142(1) or 142(2) apply to deem a supply to be made in (or outside) Canada, the CCRA will look to the facts of the case presented and the application of general legal principles. Some of the factors that can be considered when making the determination include:
+
+- where the contract was concluded (i.e., contract terms),
+
+- where the property may be used,
+
+- the residence status of the recipient and the supplier,
+
+- the registration status of the recipient and the supplier (if a non-resident), and
+
+- the actions of the parties.
+
+30. There may be other factors, depending upon the specific case, which will also assist in determining the place of supply. When applying general legal principles, it is necessary to refer to the civil law rules (as in Quebec) or the common law rules of the jurisdiction governing the contract under which the supply is being made.
+
+Contract terms
+
+31. One of the factors mentioned above concerns the contract terms. A contract is a written or spoken agreement between two or more parties intended to be enforceable by law. When determining where a contract was concluded, it is important to understand that there are two parts to a contract, an offer and an acceptance. An offer generally contains two ideas: (1) an intimation of willingness to be bound, and (2) a statement of the price required. The acceptance also contains two ideas: (1) the acceptance of the offeror's proposal, and (2) either the promise requested by the offeror or the performance of the act required. Generally speaking, a contract is concluded at the place where the offer to provide the property or services is accepted.
+
+Supply by non-resident
+
+ss 143(1)
+
+32. It is also important to understand that, even though a supply is determined to be made in Canada based on general legal principles, the supply may still be deemed to be made outside Canada under the provisions of subsection 143(1), provided the supplier is a non-resident and the conditions outlined in that subsection are met. Subsection 143(1) is discussed in paragraph 51.
+
+## Place of supply rules for telecommunication services
+
+Meaning of telecommunication service
+
+ss 123(1)
+
+33. A telecommunication service means the service of emitting, transmitting or receiving signs, signals, writing, images or sounds, or intelligence of any nature by wire, cable, radio, optical or other electromagnetic system, or by any similar technical system. It also includes making available for telecommunication purposes any telecommunications facility of a person in the telecommunication business.
+
+34. This definition includes telecommunication services, such as, local and long-distance telephone services, cable and pay television, electronic mail, facsimiles, data transmission, and video, audio and computer link-ups. The definition also specifies that providing access to a telecommunications facility such as a dedicated line is a telecommunication service, whether or not the facility is used.
+
+Services that are not telecommunication services
+
+35. A distinction must be made between telecommunication services and services delivered by means of telecommunications. The definition does not include services that might be related to telecommunication services, for example, translation services, charges for the relocation of services, wire news services or directory assistance.
+
+Meaning of telecommunications facility
+
+ss 123(1)
+
+36. A telecommunications facility is defined as any facility, apparatus or other thing that is used, or is capable of being used, for telecommunications. The definition is broad in scope and includes any wire, cable, radio, optical or other electromagnetic system or any similar system, or any part thereof, that can be used for telecommunications as well as items such as telephones, fax machines and satellites.
+
+Supplies made prior to April 24, 1996
+
+paras 142(1)(e) and 142(2)(e)
+
+37. Prior to April 24, 1996, a supply of a telecommunication service was deemed to be made at the place where the facility or instrument for the emission, transmission, or reception of the service in respect of which the invoice for the supply was or was to be, issued was ordinarily situated (in or outside Canada).
+
+Supplies made after April 23, 1996
+
+s 142.1
+
+38. Effective for supplies made after April 23, 1996, section 142.1 sets out the place of supply rules for determining when a supply of a telecommunication service is made in Canada. This section overrides the general place of supply rules under section 142, but remains subject to section 143 which deems supplies made by non-resident persons to be made outside Canada in certain situations. Refer to paragraph 51.
+
+### Supply of telecommunication services
+
+Telecommunication service deemed to be made in Canada
+
+para 142.1(2)(a)
+
+39. Where a telecommunication service consists of making a telecommunications facility available for use, and the facility or any part thereof is located in Canada, the telecommunication service is deemed to be made in Canada. This applies whether or not the facility is actually used. For example, the supply of a dedicated line or a supply of a leased telephone line which is partly located in Canada is a supply of a telecommunication service made in Canada. It is to be noted that, for administrative purposes, only the Canadian portion of the dedicated line is taxable at 7% or 15%. The amount of the consideration relating to the Canadian portion should be calculated on a direct line distance basis between the two Canadian end points.
+
+In any other case
+
+para 142.1 (2)(b)
+
+40. In the case of a telecommunication service other than the supply of the facilities (e.g., where the charge for the telecommunication service is determined on a per-use basis such as long-distance telephone calls), the service is deemed to be made in Canada when:
+
+(a) the telecommunication is emitted and received in Canada, or
+
+For example, a telephone call from Toronto to Vancouver is a supply made in Canada, even if the telecommunications facility used to make the call is normally located outside Canada (such as a cellular phone with a non-Canadian billing location).
+
+(b) when the telecommunication is emitted or received in Canada and the billing location (discussed in the following paragraphs) for the service is in Canada.
+
+For example, a telephone call from Toronto to New York, made with a calling card connected to a telephone located in Canada, is a supply made in Canada. The same telephone call made with a calling card connected to a telephone located outside of Canada is a supply made outside Canada.
+
+Billing location
+
+ss 142.1(1)
+
+41. There are rules for determining when the billing location for a telecommunication service is considered to be in Canada. The billing location is, in some cases, relevant to the determination of the place of supply of the telecommunication service under subsection 142.1(2).
+
+Billing location is considered in Canada
+
+42. The billing location is considered to be in Canada if the fee for the service is charged or applied by the telecommunications company to an account of the recipient that relates to a telecommunications facility ordinarily located in Canada. The billing location is not necessarily the same as the billing address, or the place to which the invoice is sent.
+
+If a business traveller made a long-distance call from a telephone in the United States and used a calling card to have the call charged to the business' number in Canada, the billing location would be considered to be in Canada, even if the business had arranged to have its telephone billings sent to its US branch office for processing.
+
+In any other case
+
+para 142.1(1)(b)
+
+43. Where the fee for the service is not charged or applied to an account that the recipient has with the telecommunications company, the billing location is considered to be in Canada if the telecommunications facility used to initiate the service is located in Canada. For example, if a telephone call is paid for by depositing coins in a pay phone or by using a credit card issued by a financial institution, the billing location for the call would be in Canada if the telephone used by the caller is in Canada.
+
+Billing location is not always a conclusive factor
+
+44. The fact that a billing location for a service is not in Canada does not necessarily mean that the supply of the service is not made in Canada. Under the place of supply rules described above, the billing location is a factor only where the telecommunication is not both emitted and received in Canada. For example, if a person makes a long-distance call from one place in Canada to another place in Canada but charges it to a number in the United States using a calling card, the supply can still be considered to be made in Canada pursuant to paragraph 142.1(2)(b) regardless of the fact that the billing location was not in Canada.
+
+## Place of supply for international travel
+
+Delivery while on international travel
+
+ss 180.1(2)
+
+45. Where a supply of tangible personal property or a service (other than passenger transportation services) is made to an individual on board an aircraft on an international flight or a vessel on an international voyage, the supply is deemed to be made outside Canada and is not subject to tax under Division II. However, physical possession of the property must be given to the individual on board the aircraft or vessel, or the service must be wholly performed on board the aircraft or vessel. This would include, for example, charges for food and beverages served on board the vessel.
+
+Supplies made on or after April 24, 1996
+
+46. Section 180.1 is effective for supplies made on or after April 24, 1996. Previously, supplies of tangible personal property delivered or services wholly provided on board an aircraft on an international flight were zero-rated under Part VII of Schedule VI. Supplies of tangible personal property delivered or services performed on board a vessel on an international voyage, while the vessel was in Canadian waters, were not zero-rated.
+
+## Supply in a province
+
+Taxable supply made in a province
+
+47. Once it has been determined that a taxable supply is made or deemed to be made in Canada by virtue of the rules outlined in sections 142 and 142.1, it must then be established whether the taxable supply is considered to be made in or outside a participating province. Effective April 1, 1997, a taxable supply (other than a zero-rated supply) made in a participating province, including supplies shipped or mailed from outside a participating province to recipients in a participating province, is taxable at 15%. A taxable supply made in a non-participating province is taxable at 7%, including supplies shipped or mailed from a participating province to recipients in a non-participating province.
+
+Supply made in a province
+
+s 144.1
+
+48. A supply made in Canada is considered to be made in a province if it is determined under the rules of Schedule IX to be made in that province. If a supply is made in Canada and the rules in Schedule IX do not apply to deem the supply to be made in a particular province, the supply is deemed to be made outside that province. Further, a supply made in Canada that is not made in a participating province is deemed to be made in a non-participating province.
+
+Additional information
+
+TIB B-078
+
+49. Detailed information on the place of supply rules with respect to the participating provinces is available in Technical Information Bulletin B-078, *Place of Supply Rules under the HST.*
+
+## Determining residence and non-residence status in Canada
+
+General
+
+s 132
+
+50. The residence status of a person is an important factor for a number of provisions in the Act. For purposes of this memorandum, the determination of the residence status of a person is important in order to determine which provisions of the Act would apply for purposes of the place of supply rules. For example, before applying section 143, which deems certain supplies made by non-residents in Canada to be made outside Canada, it is important to determine that a person has non-residence status for GST/HST purposes. Detailed information on the residence status and permanent residence of a person is available in GST/HST Memorandum 3.4, *Residence*.
+
+## Supply made by non-residents
+
+Supply by
+
+non-resident
+
+s 143
+
+51. A supply of personal property or a service made in Canada by a non-resident person is deemed to be made outside Canada, unless the supply is made in the course of a business carried on in Canada;
+
+- the supply is made in the course of a business carried on in Canada;
+
+- at the time the supply is made, the person is registered for GST/HST purposes; or
+
+- the supply is the supply of an admission in respect of a place of amusement, a seminar, an activity or an event where the non-resident person did not acquire the admission from another person.
+
+No tax on supplies deemed made outside Canada
+
+52. Where a supply that is made by a non-resident person is deemed to be made outside Canada, the supply is not subject to the tax under Division II; that is, the recipient of the supply is not liable to pay tax and the supplier is not liable to collect the tax.
+
+Suppliers of prescribed property
+
+ss 240(4) and s 143.1
+
+53. Every person who, in Canada, whether through an employee or agent or by means of advertising directed at the Canadian market, solicits orders for, or offers for sale, prescribed property that is to be sent by mail or courier to the recipient at an address in Canada is deemed to be carrying on business in Canada and is required to register for the GST/HST, unless the non-resident person is a small supplier. Prescribed property includes books, newspapers, magazines, periodicals, and similar printed publications.
+
+Combined effect of
+
+ss 240(4) and s 143.1
+
+54. The combined effect of section 143.1 and subsection 240(4) is to ensure that foreign publishers are required to account for the tax on their subscription sales in Canada on the same basis as domestic publishers. Hence, section 143.1 also applies to resident suppliers of prescribed publications who arrange to have foreign publications sent by mail or courier to Canada.
+
+More information
+
+55. Further information on imports of prescribed publications is available in GST/HST Memorandum 6.3, *Imported Publications,* of Chapter 6, *Imports,* and in the GST/HST Guide, *Doing Business in Canada - GST/HST Information for Non-Residents.*
+
+### Registration of non-residents
+
+Carrying on business in Canada
+
+ss 240(1)
+
+56. If a non-resident person makes taxable supplies in Canada in the course of carrying on business in Canada, the non-resident person must register for the GST/HST and account for the tax, unless the non-resident qualifies as a small supplier.
+
+More information
+
+57. Detailed information on small suppliers is available in GST/HST Memorandum 2.2, *Small Suppliers*, of Chapter 2, *Registration*. Information on determining if a non-resident person is carrying on business in Canada and on non-resident GST/HST registration is available in the GST/HST Guide, *Doing Business in Canada - GST/HST Information for Non-Residents* and in GST/HST Memorandum 2.5, *Non-Resident Registration*, of Chapter 2, *Registration*.
+
+Voluntary registration
+
+ss 240(3)
+
+58. Subject to the conditions of subsection 240(3), a non-resident person that does not carry on business in Canada and is not required to register for GST/HST may apply voluntarily to be registered. Refer to GST/HST Memorandum 2.3, *Voluntary Registration*, of Chapter 2, *Registration,* for further information on voluntary registration.
+
+Non-resident suppliers of admissions
+
+ss 240(2) and 148(3)
+
+59. Every person who enters Canada for the purpose of making taxable supplies of admissions in respect of a place of amusement, a seminar, an activity or an event in Canada is required to be registered for the GST/HST before making any such supply. These persons are not eligible for small supplier status, even if the total value of the taxable supplies they make does not exceed the $30,000 small supplier threshold.
+
+Requiring non-resident performers to file returns
+
+Policy statement P-134
+
+60. Non-resident performers who make taxable supplies of admissions to events in Canada must file a GST/HST return and remit tax collected or collectible prior to the person, or an employee of the person who was involved in the commercial activity in which the supply was made, leaving Canada. If a non-resident performer enters Canada, but does not make a taxable supply of admission to an event in Canada (i.e., the supply is to a promoter who is responsible for selling tickets, etc.), the non-resident performer is not required to file a GST/HST return and remit tax prior to departure from Canada after that event. Further information on the requirement for returns by non-resident performers making supplies of admissions to events in Canada is available in Policy Statement P-134, *Requirement for Returns by Non-Resident Performers Staging Events in Canada*.
+
+## Supply before release
+
+s 144
+
+61. A supply of goods that have been imported in compliance with the *Customs Act* or any other Act of Parliament that prohibits, controls or regulates the importation of goods, but have not been released before the goods are delivered or made available in Canada to the recipient of the supply (e.g., goods stored in a sufferance or a bonded warehouse), is deemed to be a supply made outside Canada, and therefore not subject to tax under Division II. When the goods are released by Canada Customs, the tax under Division III will be payable at that time by the importer.
+
+## Drop-shipments on behalf of non-residents
+
+Drop-shipments
+
+s 179
+
+62. Generally, a drop-shipment occurs when an unregistered non-resident acquires property from a registrant in Canada, and instructs the registrant to deliver the property to the non-resident for export or to another person in Canada.
+
+63. A drop-shipment also occurs when an unregistered non-resident contracts with a registrant in Canada to have certain commercial services performed on the property before it is delivered to another person in Canada or to the non-resident for export.
+
+64. The registrant is liable to collect tax from the non-resident, generally calculated on the fair market value of the property at that time. There exists, however, an exception to this rule through a system of drop-shipment certificates, for registrants to avoid having to account for tax on the goods as long as they are transferring them to registered persons in Canada. More information on drop-shipments rules will be available in GST/HST Memorandum 3.3.1, *Drop Shipments*.
+
+All GST/HST memoranda and other Canada Customs and Revenue Agency publications are available on Internet at the CCRA site http://www.cra-arc.gc.ca/ under the heading "Technical Publications" in "Tax".

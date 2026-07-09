@@ -1,0 +1,290 @@
+---
+title: "ARCHIVED - Spousal or Common-Law Partner Registered Retirement Savings Plans"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it307r4/archived-spousal-common-law-partner-registered-retirement-savings-plans.html
+last_modified: 2018-04-17
+---
+# ARCHIVED - Spousal or Common-Law Partner Registered Retirement Savings Plans
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-307R4**
+
+DATE: January 24, 2003
+
+SUBJECT: INCOME TAX ACT**Spousal or Common-Law Partner Registered Retirement Savings Plans**
+
+REFERENCE: Subsection 146(5.1) (also subsections 146(1), (5), (8), (8.2), (8.3), (8.5), (8.6), (8.7), (8.8), (12), and (16), 146.3(5.1), the definition of "common-law partner" in subsection 248(1), 252(4) and paragraph 60(*l*), of the *Income Tax Act* (the "Act"))
+
+### Notice—Bulletins do not have the force of law
+
+This document is also available for [download in other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it307r4.html).
+
+**This version is only available electronically.**
+
+## Contents
+
+- *[Application](#P24_824)*
+
+- *[Summary](#P26_1182)*
+
+- *[Discussion and Interpretation](#P37_2423)*
+
+    - [Meaning of "Spousal or Common-Law Partner Plan"](#P38_2452) (¶ 1)
+
+    - [Meaning of "Spouse" and "Common-Law Partner"](#P43_3230) (¶ 2)
+
+    - [Maximum Deduction](#P49_4261) (¶s 3-5)
+
+    - [Amounts to be Included in Income](#P68_7440) (¶s 6-12)
+
+    - [Combining Spousal and Partner and Non-Spousal and Partner RRSPs](#P106_16075) (¶s 13-15)
+
+- *[Explanation of Changes](#P160_19173)*
+
+## Application
+
+This bulletin cancels and replaces Interpretation Bulletin IT-307R3 dated March 24, 1995. The comments in this bulletin reflect the amendments to the *Income Tax Act* providing similar tax treatment to same-sex common-law couples as is provided to opposite sex couples. As a general rule, these amendments apply to the 2001 and later taxation years.
+
+## Summary
+
+This bulletin discusses:
+
+- a taxpayer's deduction from income for contributions made to a registered retirement savings plan (RRSP) under which the taxpayer's spouse or common-law partner is the annuitant (in this bulletin, referred to as a "spousal and partner RRSP") subject to the taxpayer's RRSP deduction limit;
+
+- the tax consequences to both the taxpayer and the taxpayer's spouse or common-law partner when amounts are withdrawn out of spousal and partner RRSPs; and
+
+- the implications of combining spousal and partner and non-spousal and partner RRSPs.
+
+The main benefit of a spousal and partner RRSP is that when amounts are withdrawn:
+
+- the RRSP income may be included in the annuitant's income instead of the contributor's income, subject to the attribution rules discussed in ¶s [7](#p_7) to 9; and
+
+- the annuitant may be in a lower personal income tax bracket than the contributor for the taxation year of the income inclusion.
+
+For more information about contributions to a taxpayer's own RRSP, and contributions to spousal and partner RRSPs, refer to:
+
+- the current version of Interpretation Bulletin IT-124, [*Contributions to Registered Retirement Savings Plans*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it124r6.html); and
+
+- the income tax guide called [RRSPs and Other Registered Plans for Retirement](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4040.html).
+
+## Discussion and Interpretation
+
+## Meaning of "Spousal or Common-Law Partner Plan"
+
+**¶ 1.** A "spousal or common-law partner plan" in relation to a taxpayer is defined by subsection 146(1) to mean:
+
+- an RRSP under which the taxpayer's spouse or common-law partner is the annuitant at the time when the taxpayer has made a contribution; or
+
+- an RRSP or registered retirement income fund (RRIF) that has received a payment or transfer from a spousal or common-law partner plan in relation to the taxpayer.
+
+The term "spousal or common-law partner plan" applies to the special attribution rules for RRSPs (see ¶s [7](#p_7) to 9) and RRIFs. These rules require that, under certain circumstances, a taxpayer includes in income certain amounts that would otherwise be included in the income of the taxpayer's spouse or common-law partner.
+
+## Meaning of "Spouse" and "Common-Law Partner"
+
+**¶ 2.** Subsection 252(4), which extended the meaning of "spouse" to include certain common-law relationships, has been repealed beginning with the 2001 taxation year. The term "spouse" now refers exclusively to a person who is legally married to the taxpayer.
+
+The term "common-law partner" in respect of a taxpayer is defined in subsection 248(1) and applies for the 2001 and subsequent taxation years. Generally, it includes at a particular time, a person who, at that time, cohabits in a conjugal relationship with the taxpayer and either:
+
+- has cohabited with the taxpayer for a continuous period of at least one year; or
+
+- is the natural or adoptive parent of a child of the taxpayer.
+
+As a transitional measure for taxation years 1998, 1999 and 2000, same-sex common-law partners could jointly elect to be treated as common-law partners for all purposes of the Act. However, this joint election had to be filed by April 30, 2001 (or June 15, 2001, if at least one partner was self-employed).
+
+## Maximum Deduction
+
+**¶ 3.** Subject to certain limits discussed below, a taxpayer may claim deductions in a year for contributions to:
+
+- a spousal and partner RRSP; and
+
+- his or her own RRSP.
+
+The taxpayer's deduction is not reduced by any contributions made by the taxpayer's spouse or common-law partner to an RRSP. When a taxpayer makes contributions to a spousal and partner RRSP, the receipt given to the taxpayer by the issuer of the RRSP should identify the taxpayer as the contributor, and the spouse or common-law partner as the annuitant.
+
+**¶ 4.** Subsection 146(5.1) sets out the rules for the deductibility of contributions that a taxpayer makes to all spousal and partner RRSPs. The maximum amount that a taxpayer may deduct under subsection 146(5.1) in computing income for a year is limited to the lesser of:
+
+(a) the total of all contributions that a taxpayer makes after 1990 and within 60 days after the end of the year (other than the exceptions noted in ¶ 5) to spousal and partner RRSPs, to the extent that the contributions were not deducted in computing the income of the taxpayer for a previous year; and
+
+(b) the amount by which the taxpayer's "RRSP deduction limit" for the year is more than the amount, if any, deducted for the year by the taxpayer under subsection 146(5) in respect of contributions made to his or her own RRSP.
+
+Because of the limitation in (b), the maximum amount that a taxpayer may deduct in any year to his or her own RRSP, and to a spousal and partner RRSP, cannot be more than the taxpayer's "RRSP deduction limit" for the year.
+
+If a taxpayer's RRSP deduction limit for a year was $13,500, the taxpayer could deduct:
+
+- $13,500 for contributions to the taxpayer's own RRSP for that year;
+
+- $13,500 for contributions to a spousal and partner RRSP; or
+
+- a combination of amounts to his or her own RRSP and to the spousal and partner RRSP if the total deduction for contributions to both plans does not exceed $13,500.
+
+However, the maximum RRSP deduction for a particular year is not reduced when the taxpayer is entitled to deduct special contributions or transfers to the taxpayer's own RRSP for the same taxation year. The current version of IT-124, [*Contributions to Registered Retirement Savings Plans*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it124r6/archived-contributions-registered-retirement-savings-plan.html), contains a detailed discussion on the calculation of the RRSP deduction limit.
+
+**¶ 5.** The following contributions that a taxpayer makes to a spousal and partner RRSP are not deductible in a given year under subsection 146(5.1):
+
+- contributions that were deducted in computing the contributor taxpayer's income for a previous year;
+
+- contributions in respect of which the contributor taxpayer or his or her spouse or common-law partner has received a payment that the taxpayer has deducted as a refund of an undeducted contribution under subsection 146(8.2) in computing income for a previous year; or
+
+- contributions withdrawn by the taxpayer's spouse or common-law partner as an "eligible amount" under the Home Buyers' Plan or the Lifelong Learning Plan less than 90 days after being contributed. For this purpose, it is assumed that RRSP withdrawals relate first to RRSP earnings and then on a first in, first out basis to RRSP premiums previously paid.
+
+## Amounts to be Included in Income
+
+**¶ 6.** Generally, any amount received by a taxpayer out of the taxpayer's own RRSP is the taxpayer's income, and any amount received by the taxpayer's spouse or common-law partner out of the spousal and partner RRSP is income of the spouse or common-law partner. This is so even though the taxpayer may have made part or all of the contributions to the spousal and partner RRSP. Similarly, if an RRSP becomes deregistered, the fair market value of all property held in the RRSP immediately before its deregistration is included in the income of the annuitant under the plan before it became deregistered (see the current version of Interpretation Bulletin IT-415, [*Deregistration of Registered Retirement Savings Plans*](https://www.canada.ca/frmspbs/prioryear/it415r2/README.html), for more information).
+
+**¶ 7.** Subsection 146(8.3) contains a special rule which, if applicable, attributes to the taxpayer all or part of specified amounts withdrawn out of a spousal and partner RRSP. Certain amounts that would usually be included (in accordance with ¶ 6) in the income of the taxpayer's spouse or common-law partner, who was the annuitant under the plan, will (subject to the exceptions listed in ¶ 8) be included in the income of the taxpayer. This special rule is designed to discourage the short-term use of spousal and partner RRSPs as a means of income splitting. Subsection 146.3(5.1) contains a similar attribution rule in respect of certain withdrawals from a spousal and partner RRIF.
+
+Subsection 146(8.3) applies to:
+
+(a) an amount received by the taxpayer's spouse or common-law partner out of a spousal and partner RRSP before its maturity under paragraph 146(8) (see ¶ 6);
+
+(b) an amount equal to the fair market value of all property of the plan received by the taxpayer's spouse or common-law partner on the deregistration of a spousal and partner RRSP under paragraph 146(12)(b); and
+
+(c) a payment in full or partial commutation of a retirement income received by the taxpayer's spouse or common-law partner under a matured spousal and partner RRSP.
+
+The spousal and partner RRSP attribution rule applies to (a), (b), and (c) if the taxpayer is **not** living separate and apart from the taxpayer's spouse or common-law partner at the time because of the breakdown of their marriage or common-law partnership. Subsection 146(8.3) does not apply to payments received by the taxpayer's spouse or common-law partner as retirement income under a matured plan.
+
+**¶ 8.** Subsection 146(8.7) provides that the spousal and partner RRSP attribution rule does not apply to:
+
+- the taxpayer for the year in which he or she died;
+
+- the taxpayer if either the taxpayer or the taxpayer's spouse or common-law partner is a non-resident of Canada at the time of payment;
+
+- amounts paid out of a plan, referred to in subsection 146(12) as an amended plan, that was deregistered before May 26, 1976;
+
+- a payment received in full or partial commutation of a matured spousal and partner plan that was directly transferred under paragraph 60(*l*) to an RRSP or a RRIF, or that was used to purchase an annuity as provided in paragraph 60(*l*) that cannot be commuted, and is not commuted, in whole or in part within three years of its purchase; or
+
+- an amount deemed by subsection 146(8.8) to have been received by the annuitant spouse or common-law partner as a result of his or her death (see the current version of Interpretation Bulletin IT-500, [*Registered Retirement Savings Plans – Death of an Annuitant*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it500r.html)).
+
+**¶ 9.** Under the spousal and partner RRSP attribution rule, the amount to be included in computing the taxpayer's income for the year is the lesser of:
+
+(a) the total of the amounts described in ¶ [7(a)](#p_7a) to (c), excluding the exceptions in ¶ 8, received by the taxpayer's spouse or common-law partner in the year; and
+
+(b) the total of all contributions made by the taxpayer in the year or in one of the two immediately preceding taxation years to all spousal and partner RRSPs in relation to the taxpayer (see ¶s 10 and 11). This total is not limited to contributions made to the particular plan out of which came the benefit or withdrawal.
+
+Therefore, a taxpayer may have to include in income all, part or none of a withdrawal from a spousal and partner RRSP, if the taxpayer contributed to a spousal and partner RRSP:
+
+- in the year of withdrawal; or
+
+- in one of the two immediately preceding taxation years.
+
+The taxpayer's spouse or common-law partner is still required to include the full amount of the withdrawal in his or her income under subsection 146(8); however, the spouse or common-law partner can claim a deduction under subsection 146(8.6) (see ¶ 11) equal to the amount that the taxpayer is required to include in income under subsection 146(8.3).
+
+If a taxpayer contributed $2,000 in 1999 to a spousal and partner RRSP, assuming that the taxpayer did not make any contributions to a spousal and partner RRSP in 1997, 1998, 2000, or 2001, any amount withdrawn out of a spousal and partner RRSP in 1999, 2000, or 2001, up to $2,000, will be attributed back to the taxpayer and included in the taxpayer's income for the year of withdrawal. If $3,000 is withdrawn from the spousal and partner RRSP in relation to the taxpayer in 1999, 2000, or 2001, then:
+
+- $2,000 would be included in the taxpayer's income; and
+
+- the full withdrawal of $3,000 would be included in the income of the taxpayer's spouse or common-law partner for the year of the withdrawal; however, the spouse or common-law partner could claim a deduction of $2,000 under subsection 146(8.6) (see ¶ 11).
+
+Form T2205, [*Amounts from a Spousal or Common-Law Partner RRSP or RRIF to Include in Income for*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2205.html) ____ may be used to determine the amount to include in the income of the taxpayer and the taxpayer's spouse or common-law partner. This form is available at all Canada Customs and Revenue Agency tax services offices.
+
+**¶ 10.** Subject to ¶ 11, the total referred to in ¶ 9(b) includes all contributions that the taxpayer made during the three-year period whether or not the contributions have been deducted in computing income. Undeducted contributions have to be taken into account because contributions made after 1990 may be carried forward and deducted in a future year. Therefore, a taxpayer might not deduct a contribution made to a spousal and partner RRSP until after the spouse or common-law partner has withdrawn an amount from the RRSP.
+
+A taxpayer contributed $2,000 to a spousal and partner RRSP in 1997. In 1998, $2,000 is withdrawn from the spousal and partner RRSP, which is attributed back to the taxpayer and included in the taxpayer's income for 1998. In 2001, the taxpayer claims an RRSP deduction of $2,000 under subsection 146(5.1) for the spousal and partner RRSP contribution made in 1997.
+
+**¶ 11.** An RRSP contribution has to be included in computing the income of the taxpayer if the spousal and partner RRSP attribution rule applies. In such a case, that contribution is, after that time, deemed by subsection 146(8.6), (for the purposes of subsections 146(8.3) and 146.3(5.1)), not to have been paid to a spousal and partner RRSP. This ensures that:
+
+- the special attribution rule does not apply more than once to the same contribution; and
+
+- double taxation is prevented by allowing a deduction to the taxpayer's spouse or common-law partner equal to the amount included in the taxpayer's income under subsection 146(8.3).
+
+A taxpayer contributed $1,000 to a spousal and partner RRSP in each of 1999, 2000 and 2001. In 2001, the taxpayer's common-law partner withdraws $5,000 out of the RRSP. The following occurs:
+
+- Of that withdrawal, $3,000 is attributed to the taxpayer under subsection 146(8.3) and the taxpayer has to include $3,000 in his or her income.
+
+- The taxpayer's common-law partner has to include the full $5,000 in income under subsection 146(8) but can claim a deduction of $3,000 under subsection 146(8.6).
+
+- The net effect is that the taxpayer's common-law partner would report the remaining balance of $2,000 on his or her income tax return. In this case, the $3,000 is taxed once in the hands of the taxpayer.
+
+**¶ 12.** If a taxpayer has made more than one contribution to a spousal and partner RRSP during the three-year period, subsection 146(8.5) provides an ordering rule to determine the particular contribution that has to be included in income. Specifically, the rule provides that contributions, or parts of contributions, are to be included in income in the same order as they were made (first in, first out). Any contributions, or parts of contributions, that have been previously included in income under subsection 146(8.3) are excluded in any subsequent application of that subsection.
+
+## Combining Spousal and Partner and Non-Spousal and Partner RRSPs
+
+**¶ 13.** A taxpayer may make RRSP contributions to a spousal and partner RRSP and the taxpayer's spouse or common-law partner may also make contributions to that same RRSP. When an RRSP receives a contribution made by the annuitant's spouse or common-law partner:
+
+- the RRSP becomes a "spousal or common-law partner plan" (see ¶ [1](#p_1) for the definition of this term); and
+
+- amounts withdrawn out of the spousal or common-law partner plan may be subject to the special attribution rules (see discussion in ¶s [7](#p_7) to 9 and the example in ¶ 14).
+
+**¶ 14.** The following example illustrates how subsections 146(8.3), (8.5), and (8.6) apply when the taxpayer makes contributions to a spousal and partner RRSP and the taxpayer's spouse or common-law partner contributes to the same RRSP.
+
+| Year | Taxpayer's Contributions | Spouse or Common-Law Partner's Contributions | Total Contributions | Withdrawals | Cumulative Total |
+
+| --- | --- | --- | --- | --- | --- |
+
+| 1 | $1,000 | $2,000 | $3,000 | Nil | $3,000 |
+
+| 2 | Nil | Nil | Nil | Nil | 3,000 |
+
+| 3 | 3,000 | 1,000 | 4,000 | $1,500 | 5,500 |
+
+| 4 | Nil | 1,000 | 1,000 | Nil | 6,500 |
+
+| 5 | Nil | Nil | Nil | 4,500 | 2,000 |
+
+The withdrawal of $1,500 in Year 3 would be included in the taxpayer's income under subsection 146(8.3) since it is the lesser of:
+
+- the amount received ($1,500); and
+
+- the total of all contributions of $4,000 ($1,000 in Year 1 + $3,000 in Year 3) made by the taxpayer to the spousal and partner plan during the relevant years.
+
+This is so even though the taxpayer's spouse or common-law partner might consider the withdrawals to be from his or her own contributions to the plan. In Year 5, the spouse or common-law partner withdraws $4,500. Only $2,500 of the withdrawal would be included in the taxpayer's income for that year because $2,500 is the lesser of:
+
+- the withdrawal ($4,500); and
+
+- the total contributions made by the taxpayer during the relevant years that have not previously been included in the taxpayer's income of $2,500 ($3,000 contribution in Year 3 – $500). [The amount of $500 ($1,500 withdrawal in Year 3 – $1,000 contribution in Year 1) was already included in the taxpayer's income in Year 3.]
+
+The full withdrawal of $4,500 would be included in the income of the taxpayer's spouse or common-law partner under subsection 146(8). However, the spouse or common-law partner could claim a deduction for $2,500 under subsection 146(8.6). The net effect is that the remaining balance of $2,000 ($4,500 – $2,500) is reported on the spouse or common-law partner's income tax return as income.
+
+**¶ 15.** Where a taxpayer is the annuitant under a spousal and partner RRSP and under a non-spousal and partner RRSP, subsection 146(16) allows for the transfer of property between the two RRSPs. However, if the non-spousal and partner plan receives a transfer of property from the spousal and partner RRSP, the recipient RRSP will become a spousal and partner RRSP since the definition of "spousal and common-law partner plan" (see ¶ [1](#p_1)) includes any RRSP that has received a transfer from a spousal or common-law partner plan. The spousal and partner RRSP designation is relevant for the purposes of the attribution rules discussed in ¶s [7](#p_7) to 9.
+
+## Explanation of Changes
+
+**Introduction**
+
+The purpose of the Explanation of Changes is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised interpretations of the CCRA.
+
+**Reasons for the Revision**
+
+We have revised the bulletin to reflect amendments to the *Income Tax Act* and to take into consideration S.C. 2000, c.12 (formerly Bill C-23), which was designed to amend many statutes, among them the *Income Tax Act*, to provide similar tax treatment to same-sex common-law couples as is provided to opposite sex couples. In addition, the scope of the bulletin has been narrowed to cover topics specific to spousal and partner RRSPs.
+
+**Legislative and Other Changes**
+
+¶ [1](#p_1) (former ¶ 2) outlines the new definition of "spousal or common-law partner plan" in subsection 146(1) of the Act.
+
+¶ [2](#p_2) (former ¶ 1) defines the terms "spouse" and "common-law partner". It also presents the election for same-sex common-law partners who wished to have the new rules apply to previous taxation years.
+
+¶s [3](#p_3), [5](#p_5) (former ¶ 7) and [6](#p_6) (former ¶ 8) have been revised to delete any reference to paragraph 60(*j*.2) as transfers to spousal and partner RRSPs under that provision are no longer available since 1995.
+
+Former ¶s 4, 5, 9, 10, 12, 13 and 22 have been deleted from this bulletin since the same material is covered in other CCRA publications.
+
+¶ [6](#p_6) (former ¶ 8) describes contributions to spousal and partner RRSPs which are not deductible under subsection 146(5.1). The addition to the paragraph reflects the enactment of subparagraph 146(5.1)(*a*)(iv) precluding the deduction of certain amounts withdrawn as an "eligible amount" under the Home Buyers' Plan or the Lifelong Learning Plan.
+
+¶ [15](#p_15) has been added to the bulletin and describes the tax implications of merging spousal and partner and non-spousal and partner RRSPs.
+
+The various examples in the bulletin have been updated to reflect more current years.
+
+Throughout the bulletin, we have made other changes for clarification or readability purposes, and we have deleted comments which were redundant or which no longer have any relevance.
+
+### Notice—Bulletins do not have the force of law
+
+At the Canada Customs and Revenue Agency (CCRA), we issue income tax interpretation bulletins (ITs) in order to provide technical interpretations and positions regarding certain provisions contained in income tax law. Due to their technical nature, ITs are used primarily by our staff, tax specialists, and other individuals who have an interest in tax matters. For those readers who prefer a less technical explanation of the law, we offer other publications, such as tax guides and pamphlets.
+
+While the comments in a particular paragraph in an IT may relate to provisions of the law in force at the time they were made, such comments are not a substitute for the law. The reader should, therefore, consider such comments in light of the relevant provisions of the law in force for the particular taxation year being considered, taking into account the effect of any relevant amendments to those provisions or relevant court decisions occurring after the date on which the comments were made.
+
+Subject to the above, an interpretation or position contained in an IT generally applies as of the date on which it was published, unless otherwise specified. If there is a subsequent change in that interpretation or position and the change is beneficial to taxpayers, it is usually effective for future assessments and reassessments. If, on the other hand, the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date on which the change is published.
+
+Most of our publications are available on our [Web site](https://www.canada.ca/en/revenue-agency/services/forms-publications/document-type.html).
+
+***If you have any comments regarding matters discussed in an IT, please send them to:***
+
+***Manager, Technical Publications and Projects Section Income Tax Rulings Directorate Policy and Legislation Branch Canada Customs and Revenue Agency Ottawa ON K1A 0L5***
+
+***or by e-mail at the following address:[bulletins@ccra.gc.ca](mailto:bulletins@cra-arc.gc.ca)***

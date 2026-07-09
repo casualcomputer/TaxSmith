@@ -1,0 +1,54 @@
+---
+title: "Amended Qalipu Mi'kmaq First Nation’s Founding Members List"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice314/amended-qalipu-mikmaq-first-nations-founding-members-list.html
+last_modified: 2020-10-16
+---
+# Amended Qalipu Mi'kmaq First Nation’s Founding Members List
+
+GST/HST Notices - Notice 314 October 2020
+
+Due to the revocation of the Indian status of some members of the Qalipu Mi'kmaq First Nation, this notice provides vendors with information about how to properly identify Qalipu Mi'kmaq First Nation members who are eligible for tax relief as explained in [GST/HST Technical Information Bulletin B-039, GST/HST Administrative Policy – Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html) (TIB B-039).
+
+If this information does not completely address your particular situation, you may wish to refer to [TIB](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html) B-039 or call GST/HST Rulings at 1-800-959-8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1-800-567-4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1-855-666-5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia, and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, see [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Amended Qalipu Mi'kmaq First Nation’s Founding Members List
+
+[GST/HST Technical Information Bulletin B-039, GST/HST Administrative Policy – Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html) (TIB B-039) summarizes the tax relief policy of the Canada Revenue Agency (CRA) relating to Indians.[Footnote1](#fn1) The treatment of purchases made by an Indian under the GST/HST is consistent with section 87 of the Indian Act under which the personal property of an Indian or an Indian band situated on a reserve and their interests in reserve or surrendered lands are not subject to tax. TIB B-039 does not apply to individuals who are not registered under the Indian Act.
+
+The Qalipu Mi'kmaq First Nation members were registered as Indians under the Indian Act when the Qalipu Mi'kmaq First Nation was established in 2011 as a landless Indian Band and the Band’s initial members were set out in a Founding Members List. The Founding Members List has been amended 3 times since then to add individuals to the Founding Members List. These individuals were also added to the Indian Register. Most Qalipu Mi'kmaq First Nation members are located in Newfoundland and Labrador.
+
+As of August 31, 2018, approximately 7,600 individuals were removed from both the Founding Members List and the Indian Register. As a result, these individuals ceased to be eligible for tax relief, as explained in [TIB B-039](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html), as of that date. The Government of Canada will not seek repayment of any benefits, including tax relief, that these individuals received while they were registered as an Indian. The Secure Certificate of Indian Status cards issued to and held by these individuals have been revoked and are no longer valid. Attempting to use a revoked Secure Certificate of Indian Status card could result in legal consequences.
+
+## Validating the Secure Certificate of Indian Status Card
+
+The CRA does not determine whether a particular person qualifies to be registered as an Indian under the Indian Act. Such decisions are the responsibility of Indigenous Services Canada, which maintains an automated telephone service that can be used to confirm whether a Secure Certificate of Indian Status card is valid. The phone number is 1-877-VALIDE8 (1-877-825-4338) and is listed on the back of the Secure Certificate of Indian Status card.
+
+To confirm that an individual is entitled to tax relief, as explained in [TIB B-039](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html), vendors are expected to not only request to see a Certificate of Indian Status card or original Temporary Confirmation of Registration Document but, in the case of the Qalipu Mi'kmaq First Nation (band number 034), to make sure that the card is still valid as the individual presenting the card may no longer be a member of the Qalipu Mi'kmaq First Nation nor registered under the Indian Act. The requirement for vendors to retain adequate evidence with respect to their tax-relieved sales, as explained in TIB B-039, still remains.
+
+Validating a Qalipu Mi'kmaq First Nation member’s Secure Certificate of Indian Status card will make sure that registrant vendors are not liable for tax that should have been collected from an individual claiming to be exempt from the GST/HST.
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a GST/HST enquiry by telephone:
+
+- for **GST/HST general enquiries,**call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries,**call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in**Quebec**, call**Revenu Québec**at **1-800-567-4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST - Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for **general GST/HST** or **QST enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **technical GST/HST** or **QST enquiries**, call **GST/HST Rulings SLFI** at **1-855-666-5166**

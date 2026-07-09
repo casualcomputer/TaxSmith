@@ -1,0 +1,576 @@
+---
+title: "FCN6 Road Carriers Under the Greenhouse Gas Pollution Pricing Act"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn6/road-carriers-under-greenhouse-gas-pollution-pricing-act.html
+last_modified: 2019-03-15
+---
+# FCN6 Road Carriers Under the Greenhouse Gas Pollution Pricing Act
+
+March 2019
+
+The purpose of this notice is to provide information on registration, filing and reporting requirements to persons that are required to register as road carriers under Part 1 of the [Greenhouse Gas Pollution Pricing Act](https://laws-lois.justice.gc.ca/eng/acts/G-11.55/index.html).
+
+Generally, persons that use fuel in a vehicle, subject to certain conditions, to provide commercial transportation of individuals or goods by road between provinces or between Canada and another country are required to be registered as road carriers. Such persons should carefully review the information contained in this notice since a clear understanding of the legislative provisions is key to remaining compliant with the Act.
+
+For more information on the other types of registration under the Act and the registration process, refer to [Fuel Charge Notice FCN1, Registration Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn1.html).
+
+The information in this notice is for reference purposes only and does not replace the *Greenhouse Gas Pollution Pricing Act* or its regulations. The information described in this notice is also based, in part, on the *Draft Regulations Amending Part 1 of Schedule 1 and Schedule 2 to the Greenhouse Gas Pollution Pricing Act*. The Draft Regulations were included as attachments to the news release entitled [Department of Finance Announcing Climate Action Incentive Payments and Launch of Fuel Charge Consultations](https://www.canada.ca/en/department-finance/news/2018/10/department-of-finance-announcing-climate-action-incentive-payments-and-launch-of-fuel-charge-consultations.html), that was issued on October 23, 2018. Any reference that is made in this notice to April 1, 2019 or July 1, 2019 is as proposed in the Draft Regulations. Any reference that is made in this notice to a particular listed province refers to Manitoba, New Brunswick, Nunavut, Ontario, Saskatchewan and Yukon, as proposed in the Draft Regulations. Any commentary contained in this notice should not be taken as a representation by the Canada Revenue Agency (CRA) that the Draft Regulations will eventually be made in their current form.
+
+Should there be any discrepancy between the information in this notice and the legislative provisions in the Act or its regulations, the legislative provisions apply. For more information about the Act and its regulations, including all related technical publications, go to [Fuel charge technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge.html).
+
+All legislative references in this publication are to the Act, unless otherwise specified.
+
+## Table of Contents
+
+- [Overview](#_Toc1373427)
+
+- [Information on registration](#_Toc1373428)
+
+    - [Mandatory registration](#_Toc1373429)
+
+    - [Timing of registration](#_Toc1373430)
+
+    - [Applying for registration](#_Toc1373431)
+
+    - [Authority for separate returns](#_Toc1373432)
+
+    - [Applying for more than one type of registration](#_Toc1373433)
+
+    - [Cancelling a registration](#_Toc1373434)
+
+- [Information on the fuel charge](#_Toc1373435)
+
+    - [Registered road carrier](#_Toc1373436)
+
+    - [Registered road carrier that is also a registered importer](#_Toc1373437)
+
+    - [Registered road carrier that is also a registered emitter](#_Toc1373438)
+
+    - [Registered road carrier that is also a registered user of fuel](#_Toc1373439)
+
+    - [Registered road carrier that is also a registered user of combustible waste.](#_Toc1373440)
+
+    - [Filing and reporting](#_Toc1373441)
+
+    - [Calculating net fuel quantity](#_Toc1373442)
+
+    - [Calculating the charge payable or the net fuel quantity rebate](#_Toc1373443)
+
+    - [Calculating the net charge](#_Toc1373444)
+
+- [Special rules](#_Toc1373445)
+
+    - [Fuel brought into a listed province on behalf of a registered road carrier](#_Toc1373446)
+
+    - [Fuel in transit through a listed province](#_Toc1373447)
+
+    - [Fuels in a mixture](#_Toc1373448)
+
+    - [Biogasoline, biodiesel and biomethane](#_Toc1373450)
+
+- [Claiming a rebate](#_Toc1373449)
+
+    - [Net fuel quantity rebate](#_Toc3110358)
+
+    - [Payment in excess of the amount payable](#_Toc3110359)
+
+## Overview
+
+As part of the Government of Canada’s initiative to implement a federal carbon pollution pricing system, and taking into consideration provincial carbon pollution pricing systems, the Government of Canada has developed a federal carbon pollution pricing system composed of a fuel charge that applies to fossil fuels and an output-based pricing system (OBPS) for industrial facilities.[Footnote1](#fn1)
+
+The federal system applies in provinces and territories where a provincial or territorial carbon pollution pricing system has not been put into place or the system does not meet the federal standard. The Canada Revenue Agency (CRA) will be responsible for administering and enforcing the fuel charge component of the federal system beginning April 1, 2019, as proposed, for the proposed listed provinces of Manitoba, New Brunswick, Ontario and Saskatchewan and beginning July 1, 2019, as proposed, for the proposed listed provinces of Nunavut and Yukon (the listed provinces). For the applicable [rates](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) of the charge on the various [fuel](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) types and [combustible waste](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html), go to [Fuel Charge Rates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcrates.html).
+
+This notice provides information on the requirements to register as a road carrier, as well as on reporting and filing obligations. [Persons](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) that provide a commercial service of transporting individuals or goods by specified commercial vehicle should carefully review the information included in this notice and should also familiarize themselves with the Act, its regulations and other related notices. They may also [contact the CRA](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/contacts.html) for additional information and clarification.
+
+## Information on registration
+
+### Mandatory registration
+
+Under subsection 63(1), a person is required to be registered as a road carrier in respect of a type of fuel that is a [qualifying motive fuel](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) if the person [uses](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) fuel of that type in a specified commercial vehicle in a listed province unless the person is, or is required to be, registered as a distributor, a specified air carrier, an air carrier, a specified marine carrier, a marine carrier, a specified rail carrier or a rail carrier, in respect of that type of fuel.
+
+A**specified commercial vehicle** is defined in section 3 as “a vehicle:
+
+1. that is used to provide commercial transportation of individuals or goods by road
+
+    1. from one province to another province, or
+
+    2. from a particular location to another location if one location is in Canada and one location is outside Canada;
+
+2. that
+
+    1. has two axles and a gross vehicle weight exceeding 11,797 kg,
+
+    2. has three or more axles regardless of weight, or
+
+    3. when combined with the trailer with which it is used, has a gross vehicle weight exceeding 11,797 kg; and
+
+3. that is not a recreational vehicle, including a motor home, bus or pickup truck with attached camper, if used solely for a particular individual’s personal use or enjoyment or the personal use or enjoyment of any other individual at the particular individual’s expense.”
+
+Under section 126, a person that is required to be registered as a road carrier but does not apply for registration as and when required is liable to pay a penalty of $2,000.
+
+### Timing of registration
+
+A person that is required to be registered as a road carrier in respect of a type of fuel must apply for registration before the later of:
+
+- April 1, 2019, for Manitoba, New Brunswick, Ontario and Saskatchewan or July 1, 2019, for Yukon and Nunavut; and
+
+- the day on which the person first uses fuel of that type in a specified commercial vehicle in a listed province.
+
+### Applying for registration
+
+To apply for registration as a road carrier, a person must complete [Form L400, Fuel Charge Registration](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400.html). Even where the person applies for more than one type of registration, only one registration form is required, unless an application for authority to file separate returns under subsection 88(1) is submitted. The person must also complete [Form L400-2, Fuel Charge Registration Schedule – Road Carrier](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400-2.html), and may also be required to complete [Form L400-1, Fuel Charge Registration Schedule](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400-1.html), depending on the type of registration for which it is applying. Information on other registration types can be found in [Fuel Charge Notice FCN1, Registration Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn1.html).
+
+Registration forms can be submitted electronically using the “Submit documents” function in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html). If the person submits a registration application electronically, that person will be provided with a confirmation number. This confirmation number should be retained for follow‑up on the status of the application.
+
+The person can also send the completed registration forms by mail to the following address:
+
+Sudbury Tax Centre Fuel Charge Program Post Office Box 20000, Station A Sudbury ON P3A 5C1
+
+The processing of the fuel charge registration may be delayed in the case of missing or incomplete information.
+
+If the application for registration is approved, the CRA will inform the person in writing of its registration number and the effective date of registration.
+
+### Authority for separate returns
+
+Under subsection 88(1), a person that engages in one or more activities in separate branches or divisions may apply to the CRA for authority to file separate returns and rebate applications under Part 1 of the Act for a branch or division. The application to file separate returns must be submitted in the form of a letter at the time of registration.
+
+The person must complete the application and, for each branch or division, confirm that the following requirements are met:
+
+- the branch or division indicated in the application can be separately identified by reference to its location or the nature of the activities in which it is engaged; and
+
+- separate [records](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html), books of account and accounting systems are maintained for the branch or division.
+
+A separate [Form L400](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400.html) should be used for each branch or division, along with [Form L400-1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400-1.html) or [Form L400-2](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400-2.html) or both, depending on the type of registration for which the person is applying.
+
+The application and forms can be submitted electronically using the “Submit documents” function in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) or by mail to the Sudbury Tax Centre at the address listed above.
+
+If the application to file separate returns is approved, the CRA will inform the person in writing and the authorization will remain in effect until:
+
+- the person requests the revocation of the authorization in writing;
+
+- the person fails to comply with any condition of the authorization or any provision of Part 1 of the Act;
+
+- the CRA is no longer satisfied that the requirements of the authorization are met; or
+
+- the CRA considers that the authorization is no longer required.
+
+Under these conditions, the CRA will revoke the authorization and send a notice in writing to the person specifying the effective date of the revocation.
+
+### Applying for more than one type of registration
+
+In addition to applying for registration as a road carrier, a person is also required to register as an importer if the person[imports](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) fuel in a listed province or brings fuel into a listed province from a place in Canada unless the fuel is imported or brought into a listed province in a [supply tank](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) of a [vehicle](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) or is fuel that is [gasoline](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html), [kerosene](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html), [light fuel oil](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) or propane in a quantity that does not exceed 200 litres. For more information on [registered importers](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html), refer to [Fuel Charge Notice FCN4, Importers Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn4.html).
+
+A person that is [registered as a road carrier](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) may also register as an emitter if it is responsible for a [covered facility](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) under the OBPS, and Environment and Climate Change Canada has registered the covered facility and has issued a covered facility certificate to the person. For more information on [registered emitters](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html), refer to [Fuel Charge Notice FCN5, Emitters Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn5.html).
+
+A registered road carrier may also register as a user of fuel if it uses fuel in a [non-covered activity](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) in a listed province. For more information on [registered users](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) of fuel, refer to [Fuel Charge Notice FCN7, Users Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn7.html).
+
+A registered road carrier is also required to register as a user of combustible waste if it burns combustible waste, such as tires or asphalt shingles, in a listed province for the purpose of producing heat or energy. For more information about registered users of combustible waste, refer to [Fuel Charge Notice FCN7](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn7.html).
+
+### Cancelling a registration
+
+Under subsection 65(8), if a person is registered as a road carrier in respect of a type of fuel, the CRA must cancel that registration when registering that person as a distributor, a specified air carrier, an air carrier, a specified marine carrier, a marine carrier, a specified rail carrier or a rail carrier, in respect of that type of fuel,.
+
+Also, a registered road carrier that believes it is no longer required to be registered (for example, if ownership changes or business activity ceases) may request that the CRA cancel its registration. The registered road carrier must notify the CRA in writing when this occurs, noting the reason for requesting the cancellation and the effective date. The CRA must cancel the registration if satisfied that the registration is not required.
+
+The registered road carrier can submit the request electronically using the “Submit documents” function in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) or by mail to the Sudbury Tax Centre at the address listed in the section “Applying for registration” above. Filing and reporting requirements remain in effect until the effective date of cancellation.
+
+Finally, the CRA may also cancel a registration if it is satisfied that the registration is not required, after giving the person reasonable notice. In this case, the CRA will notify the person of the cancellation and the effective date of the cancellation.
+
+## Information on the fuel charge
+
+Generally, a charge applies to 21 types of fuel [delivered](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html), transferred, used, [produced](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html), imported or brought into Manitoba, New Brunswick, Ontario or Saskatchewan beginning April 1, 2019, and Nunavut or Yukon beginning July 1, 2019. A charge also applies on combustible waste when it is burned in a listed province for the purpose of producing heat or energy.
+
+### Registered road carrier
+
+A registered road carrier will pay a fuel charge on fuel that is used in a listed province, or claim a rebate, based on the results of the net fuel quantity calculation described later in the section “Calculating net fuel quantity” of this notice.
+
+A road carrier may be required to hold multiple registration types depending on its business activities.
+
+### Registered road carrier that is also a registered importer
+
+A registered road carrier that is also a registered importer is required to comply with all the rules and obligations that apply to registered importers. A registered road carrier that is also a registered importer must pay a charge under section 19 on fuel imported or brought into a listed province.
+
+For more information, refer to [Fuel Charge Notice FCN4](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn4.html).
+
+### Registered road carrier that is also a registered emitter
+
+A registered road carrier that is also a registered emitter is required to comply with all the rules and obligations that apply to registered emitters. A registered road carrier that is also a registered emitter must pay a charge under section 22 on fuel that is not for use at its covered facility in a listed province.
+
+For more information, refer to [Fuel Charge Notice FCN5](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn5.html).
+
+### Registered road carrier that is also a registered user of fuel
+
+A registered road carrier that is also a registered user of fuel is required to comply with all the rules and obligations that apply to registered users of fuel. A registered road carrier that is also a registered user of fuel must pay a charge under section 23 on fuel that is used in a listed province otherwise than in a non-covered activity or delivered to another person under certain circumstances.
+
+For more information, refer to [Fuel Charge Notice FCN7](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn7.html).
+
+### Registered road carrier that is also a registered user of combustible waste
+
+A registered road carrier that is also a registered user of combustible waste is required to comply with all the rules and obligations that apply to registered users of combustible waste. A registered road carrier that is also a registered user of combustible waste and that burns combustible waste in a listed province for the purposes of producing heat or energy must pay a charge under section 25.
+
+For more information, refer to [Fuel Charge Notice FCN7](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn7.html).
+
+### Filing and reporting
+
+The [reporting period](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) of a registered road carrier is a calendar quarter beginning on the first day of January, April, July and October. For example, a person that is only registered as a road carrier must pay the [net charge](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) for the quarterly reporting period of April to June by the end of July. If the registered road carrier is also registered, or required to be registered, as an importer, an emitter or a user, it is required to report monthly. A registered road carrier must file a return with the CRA, even if there is no amount owing. The return must be filed by the end of the month following the reporting period.
+
+#### Forms to complete
+
+The quantity of fuel subject to a charge must be reported by fuel type and listed province. A registered road carrier must file [Form B400, Fuel Charge Return – Registrant](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400.html), for each reporting period, as well as [Form B400-12, Fuel Charge Return Schedule – Registered Road Carrier](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-12.html).
+
+#### More than one type of registration
+
+If the registered road carrier holds more than one type of registration, it must report by fuel type and listed province for each registration type. This means that the registered road carrier must file [Form B400](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400.html) for each registration type and once for each reporting period, as well as
+
+- [Form B400-2, Fuel Charge Return Schedule – Registered Importer](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-2.html), if it is also a registered importer;
+
+- [Form B400-3, Fuel Charge Return Schedule – Registered Emitter](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-3.html), if it is also a registered emitter;
+
+- [Form B400-4, Fuel Charge Return Schedule – Registered User of Fuel](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-4.html), if it is also a registered user of fuel;
+
+- [Form B400-5, Fuel Charge Return Schedule – Registered User of Combustible Waste](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-5.html), if it is also a registered user of combustible waste.
+
+Section 104 provides that a registered road carrier must keep its records for 6 years after the end of the year to which they relate.
+
+A registered road carrier must determine the net fuel quantity of each type of fuel for each listed province for a reporting period for which a return and accompanying return schedule(s) must be filed.
+
+### Calculating net fuel quantity
+
+Under section 32, the net fuel quantity of a person that is a registered road carrier in respect of a type of fuel for a reporting period of the person, for that type of fuel and for a listed province, is the amount determined by the formula:
+
+| **Where** |  |
+
+| --- | --- |
+
+| **A** | is the total of all quantities, each of which is a quantity of fuel of that type that is(a) used by the person in a specified commercial vehicle in the listed province (unless the fuel is used at a covered facility of the person and the person is a registered emitter) during the reporting period; or (b) removed from a supply tank of a specified commercial vehicle of the person at a location in the listed province during the reporting period; and |
+
+| **B** | is the total of all quantities, each of which is a quantity of fuel of that type that is transferred into a supply tank of a specified commercial vehicle of the person at a location in the listed province (unless the location is a covered facility of the person and the person is a registered emitter) during the reporting period. |
+
+The result from the calculation of the net fuel quantity can be either positive or negative and is required to calculate the net charge of the registrant.
+
+According to section 34, if the result of the net fuel quantity calculation of a registered road carrier for a reporting period, for a type of fuel and for a listed province is a positive amount, the registered road carrier must pay a fuel charge in respect of that net fuel quantity and the listed province in the amount determined using the formula set out in section 40 and described in the section below. The charge becomes payable on the last day of the reporting period.
+
+If the result of the net fuel quantity calculation is a negative amount, a registered road carrier can claim a rebate under section 46 in respect of that net fuel quantity, the listed province and the applicable reporting period.
+
+In April 2019, a registered road carrier transports goods between provinces in Canada, one of which is a listed province, for a calendar quarter. It picks up a trailer full of cargo in a listed province and, before leaving, fuels the truck with 100 litres of light fuel oil (diesel). Two hours later, it delivers the trailer to a warehouse located in a non-listed province. The registered road carrier uses 30 litres of light fuel oil (diesel) to get to the border shared by the listed and the non-listed provinces. It uses 70 litres of light fuel oil (diesel) from the border to the warehouse location in the non-listed province.
+
+The net fuel quantity is calculated using the formula **A – B**,
+
+where
+
+**A** is 30 litres of light fuel oil (diesel) used in a listed province**B** is 100 litres transferred (purchased) in a listed province
+
+Therefore, the net fuel quantity is –70 litres (30 – 100).
+
+The registered road carrier can claim a rebate, because the result is a negative amount. The amount of the rebate will be calculated using the formula set out in section 46, described below.
+
+### Calculating the charge payable or the net fuel quantity rebate
+
+For registered road carriers, if the net fuel quantity result is positive, the amount of the charge is calculated using the formula under subsection 40(1). If the net fuel quantity result is negative, a rebate is calculated using the formula under subsection 46(2).
+
+The amount of the **charge payable** is calculated using the formula:
+
+| **Where** |  |
+
+| --- | --- |
+
+| **A** | is the net fuel quantity |
+
+| **B** | is the rate in respect of fuel of that type for the listed province applicable at the time the charge becomes payable |
+
+The amount of the **rebate** is calculated using the formula:
+
+| **Where** |  |
+
+| --- | --- |
+
+| **A** | is the net fuel quantity |
+
+| **B** | is the rate in respect of fuel of that type for the listed province applicable on the last day of the reporting period |
+
+The result obtained either under section 40 or section 46 is used in the calculation of the net charge, as described in the next section.
+
+In April 2019, a registered road carrier transports goods between provinces in Canada and to the United States. It picks up a trailer full of cargo in a non-listed province and, before leaving, fuels the truck with 100 litres of light fuel oil (diesel). It uses 30 litres between the non-listed province and the border shared by the non‑listed and the listed provinces. It then uses 50 litres in the listed province before crossing the Canadian-American border.
+
+The net fuel quantity is determined using the formula **A – B**
+
+where
+
+**A** is 50 litres of light fuel oil (diesel) used in the listed province**B** is 0 since the light fuel oil was transferred in the supply tank (purchased) in a non-listed province
+
+The net fuel quantity is 50 litres (50 – 0).
+
+Because the result of the calculation for the net fuel quantity is a positive amount, the charge payable in respect of the light fuel oil (diesel) used in the listed province is determined using the formula **A × B**
+
+where
+
+**A** is 50 litres of light fuel oil (diesel)**B** is $0.0537 per litre
+
+The **charge payable** by the registered road carrier will be **$2.69** (50 litres × $0.0537 per litre), which reflects the quantity of light fuel oil (diesel) used in the listed province during the reporting period.
+
+### Calculating the net charge
+
+Under section 71, every person that is required to file a return must, in the return, determine the net charge for the reporting period for which the return is required to be filed.
+
+After calculating the charge(s) payable and the rebate(s)[Footnote2](#fn2), if applicable, in respect of fuel or combustible waste and the listed province(s), the registered road carrier must determine the net charge for a particular reporting period.
+
+The net charge is calculated using the following formula, which is set out in section 71:
+
+| **Where** |  |
+
+| --- | --- |
+
+| **A** | is the total of all amounts, each of which is the amount determined for a listed province by the formula **C − D** where **C** is the total of all amounts, each of which is a charge in respect of fuel, other than a charge under subsection 20(3), or combustible waste and the listed province that becomes payable by the person in the particular reporting period **D** is the total of all amounts, each of which is an amount of a rebate, other than a rebate for a payment in error under section 49 or a net charge rebate under subsection 71(4), in respect of the listed province payable by the CRA for a reporting period and that is claimed by the person in the return that is required to be filed under section 69 for the particular reporting period |
+
+| **B** | is $0 at this time[Footnote3](#fn3) |
+
+If the net charge for a reporting period of a registered road carrier is a positive amount, the registered road carrier must pay that amount to the Receiver General no later than the day on or before which the return for the reporting period is required to be filed (that is, by the end of the month following the reporting period for which the net charge becomes payable).
+
+Interest and/or penalties may apply to late payments. For information on payment methods, go to [Payments to the Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/services/payments-cra.html).
+
+If the net charge for a reporting period of a registered road carrier is a negative amount, the registered road carrier may claim the amount of that net charge as a net charge rebate in the return filed under section 69 for that reporting period. The rebate is payable to the registered road carrier by the CRA.
+
+During the reporting period, a registered road carrier has the following journeys:
+
+**Journey 1**
+
+The registered road carrier:
+
+- transports goods between Canada and the United States;
+
+- picks up a trailer full of cargo in a non‑listed province and, before leaving, fuels the truck with 100 litres of light fuel oil (diesel);
+
+- delivers the trailer to a warehouse located in Listed Province A;
+
+- uses 70 litres of light fuel oil (diesel) to get to the border shared by the non-listed and the listed provinces and 30 litres of light fuel oil (diesel) to go from that border to the warehouse located in Listed Province A.
+
+**Journey 2**
+
+The registered road carrier:
+
+- picks up, at the warehouse in Listed Province A, another trailer to be delivered to a warehouse located in Listed Province B. Before leaving the warehouse in Listed Province A, the road carrier refuels the truck with an additional 400 litres of light fuel oil (diesel);
+
+- uses 300 litres of light fuel oil (diesel) from the warehouse in Listed Province A to the border shared with Listed Province B and 100 litres of light fuel oil from that border to the warehouse in Listed Province B;
+
+- picks up, at the warehouse in Listed Province B, another trailer to be delivered to a warehouse located in the United States;
+
+- refuels the truck before leaving the warehouse in Listed Province B with an additional 300 litres of light fuel oil (diesel);
+
+- uses 70 litres of light fuel oil from the warehouse in Listed Province B to the Canadian‑American border.
+
+The **net fuel quantity** and **net charge** must be calculated for each listed province.
+
+**Listed Province A**
+
+The **net fuel quantity** is determined using the formula **A – B**
+
+where
+
+**A** is 330 litres of light fuel oil (diesel) in Listed Province A (30 litres used during Journey 1 + 300 litres used during Journey 2)**B** is 400 litres of light fuel oil (diesel) transferred in the supply tank (purchased) in Listed Province A prior to leaving for Listed Province B
+
+The net fuel quantity in respect of Listed Province A is –70 litres (330 litres – 400 litres).
+
+Because the net fuel quantity is a negative amount, the **rebate** is determined using the formula **A × B**, under subsection 46(2),
+
+where
+
+**A** is –70 litres (the net fuel quantity result is negative)**B** is $0.0537 per litre
+
+The rebate amount in respect of Listed Province A is $−3.76 (−70 litres × $0.0537 per litre).
+
+As a result, the amount of $3.76 will be used as element D in the calculation of the net charge.
+
+The **net charge** is calculated using the formula **A + B**
+
+where
+
+**A** is **C – D**
+
+where
+
+**C** is $0 (there is no charge payable)**D** is $3.76 (the amount of the rebate)
+
+**B** is $0
+
+Therefore,
+
+**A** is $–3.76 ($0 – $3.76)**B** is $0
+
+Because the amount of the net charge is negative ($−3.76 + $0), the registered road carrier can claim a net charge rebate, under subsection 71(4), of $3.76 in respect of Listed Province A.
+
+**Listed Province B**
+
+The **net fuel quantity** is determined using the formula **A – B**
+
+where
+
+**A** is 170 litres of light fuel oil (diesel) in Listed Province B (100 litres used during Journey 2 + 70 litres used to get to the Canadian-American border during that journey)**B** is 300 litres of light fuel oil (diesel) transferred into the supply tank (purchased) in Listed Province B prior to leaving for the United States
+
+The net fuel quantity in respect of Listed Province B is –130 litres (170 litres – 300 litres).
+
+Because the net fuel quantity is a negative amount, the amount of the **rebate** is determined using the formula **A × B**, under subsection 46(2),
+
+where
+
+**A** is −130 litres (the net fuel quantity result is negative)**B** is $0.0537 per litre
+
+The rebate amount in respect of Listed Province B is $−6.98 (−130 litres × $0.0537 per litre).
+
+As a result, the amount of $6.98 will used as element D in the calculation of the net charge.
+
+The **net charge** is calculated using the formula **A + B**
+
+where
+
+**A** is **C – D**
+
+where
+
+**C** is $0 (there is no charge payable)**D** is $6.98 (the amount of the rebate)
+
+**B** is $0
+
+Therefore,
+
+**A** is $–6.98 ($0 – $6.98)**B** is $0
+
+Because the amount of the net charge is negative ($−6.98 + $0), the registered road carrier can claim a net charge rebate, under subsection 71(4), of $6.98 in respect of Listed Province B.
+
+## Special rules
+
+### Fuel brought into a listed province on behalf of a registered road carrier
+
+Under section 10, when another person transports fuel into a listed province on behalf of a registered road carrier, the registered road carrier, and not the person transporting the fuel, is considered to have brought the fuel into the listed province.
+
+Similar rules apply when fuel is removed from a listed province.
+
+### Fuel in transit through a listed province
+
+Under section 11, fuel in transit through a listed province is deemed not to have been brought into the listed province if the following conditions are met:
+
+- a quantity of fuel is brought into a listed province from a place in Canada in the course of the transportation of the fuel to a place outside the listed province;
+
+- the fuel is transported without being stored in the listed province (otherwise than in a manner that is solely incidental to the transportation); and
+
+- the person bringing the fuel into the listed province is a registered emitter or is registered otherwise than only as a road carrier in respect of that type of fuel.
+
+Similar rules apply under section 12 for imported fuel that is in transit through a listed province.
+
+### Fuels in a mixture
+
+Under section 16, a [mixture](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) of 2 or more fuels is deemed to be fuel of the type that is present in the highest proportion in the mixture. Therefore, the rate to be used when calculating the amount of the charge payable in respect of a mixture is the rate for the type of fuel present in the highest proportion in the mixture.
+
+### Biogasoline, biodiesel and biomethane
+
+When [biogasoline](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) contained in gasoline, [biodiesel](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) contained in light fuel oil, or [biomethane](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html)contained in [natural gas](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) exceeds a certain threshold, the number of litres in the case of gasoline or light fuel oil, or cubic metres in the case of [marketable natural gas](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) (MNG) or [non-marketable natural gas](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) (NMNG), is adjusted through the following formulas.
+
+#### Gasoline that contains more than 10% biogasoline
+
+Under subsection 8(5), the quantity of gasoline is calculated using the following formula:
+
+| **Where** |  |
+
+| --- | --- |
+
+| **A** | is the number of litres that the gasoline occupies at 15°C |
+
+| **B** | is the proportion of biogasoline in the product |
+
+A registered road carrier has 100 litres of gasoline that contains 12% biogasoline.
+
+The quantity of gasoline that is subject to the charge is calculated using the formula **A × (100% – B) ÷ 95%**
+
+where
+
+**A** is 100 litres (the number of litres that the gasoline occupies at 15°C)**B** is 12% (the proportion of biogasoline)
+
+Therefore, 100 litres × (100% – 12%) ÷ 95% equals 93 litres of gasoline.
+
+Because the gasoline contains 12% biogasoline, only 93 of the 100 litres are subject to the charge.
+
+#### Light fuel oil that contains more than 5% biodiesel
+
+Under subsection 8(6), the quantity of light fuel oil is calculated using the formula
+
+| **Where** |  |
+
+| --- | --- |
+
+| **A** | is the number of litres that the light fuel oil occupies at 15°C |
+
+| **B** | is the proportion of biodiesel in the product |
+
+A registered road carrier has 100 litres of light fuel oil that contains 2% biodiesel.
+
+The formula does not apply because the proportion of biodiesel contained in the quantity of light fuel oil does not exceed 5%. Therefore, the full quantity of 100 litres will be used in the calculation of the charge payable.
+
+### Example 2 – Biodiesel
+
+A registered road carrier has 100 litres of light fuel oil that contains 6% biodiesel.
+
+The quantity of light fuel oil that is subject to the charge is calculated using the formula **A × (100% – B) ÷ 98%**
+
+where
+
+**A** is 100 litres (the number of litres that the light fuel oil occupies at 15°C)**B** is 6% (the proportion of biodiesel)
+
+Therefore, 100 litres × (100% – 6%) ÷ 98% equals 96 litres of light fuel oil.
+
+Because the light fuel oil contains 6% biodiesel, only 96 of the 100 litres are subject to the charge.
+
+#### Natural gas that contains biomethane
+
+Under subsection 8(7), the quantity of MNG or NMNG is calculated using the formula
+
+| **Where** |  |
+
+| --- | --- |
+
+| **A** | is the number of cubic metres that the MNG or NMNG occupies at 15°C and 101.325 kPa |
+
+| **B** | is the proportion of biomethane in the product |
+
+A registered road carrier has 100 cubic metres of MNG that contains 2% biomethane.
+
+The quantity of MNG that is subject to the charge is calculated using the formula **A × (100% – B)**
+
+where
+
+**A** is 100 cubic metres (the number of cubic metres that the MNG or NMNG occupies at 15°C and 101.325 kPa)**B** is 2% (the proportion of biomethane)
+
+Therefore, 100 cubic metres × (100% – 2%) equals 98 cubic metres of MNG.
+
+Because the MNG contains 2% biomethane, only 98 of the 100 cubic metres are subject to the charge.
+
+## Claiming a rebate
+
+A registered road carrier may claim a rebate under section 46 or 49, as explained below.
+
+Under section 51, a rebate will not be paid to a person at any time unless the person has filed all returns of which the CRA has knowledge and that are required to be filed on or before that time by the person under the *Excise Tax Act*, the *Income Tax Act*, the *Excise Act, 2001*, and the *Air Travellers Security Charge Act*.
+
+### Net fuel quantity rebate
+
+A person that is a registered road carrier can claim a net fuel quantity rebate under section 46 if a net fuel quantity, which is determined under section 32, of the person for a reporting period, for a type of fuel and for a listed province is a negative amount. The amount of the rebate is calculated using the formula set out in subsection 46(2) (see the section "Calculating the charge payable or the net fuel quantity rebate" in this notice).
+
+The rebate under section 46 is not to be paid in respect of a particular reporting period unless an application for a rebate is filed as part of [Form B400-12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-12.html) with the CRA:
+
+- no later than the day on or before which the return under section 69 is required to be filed for the last reporting period of the person that ends within 2 years after the end of the particular reporting period; and
+
+- with [Form B400](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400.html) and any related schedule in respect of the reporting period in which the amount of the rebate is taken into account in determining the net charge for the reporting period.
+
+### Payment in excess of the amount payable
+
+Under section 49, a person may claim a rebate if it paid an amount in excess of the amount of the charge that was payable. The rebate is available whether the amount was paid by mistake or otherwise. The amount of the rebate is equal to the amount of the excess.
+
+The rebate payable under section 49 for an amount paid in excess of the amount payable is not to be paid to a person to the extent that:
+
+- the amount was assessed; or
+
+- the amount was taken into account as an amount required to be paid for a reporting period for which the CRA has assessed the person.
+
+This rebate is not to be included in the calculation of the net charge. Instead, a registered road carrier that intends to claim this rebate must submit an amended [Form B400](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400.html) and any related schedule to the CRA.
+
+## Further information
+
+For all technical publications related to the *Greenhouse Gas Pollution Pricing Act* and its regulations, go to [Fuel charge technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge.html).
+
+To make a technical enquiry on the fuel charge or for additional information on the application of the fuel charge for each type of registrant, go to [Contact Information – Excise and Specialty Tax Directorate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/contacts/excise-taxes-contacts.html).

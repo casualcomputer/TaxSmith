@@ -1,0 +1,36 @@
+---
+title: "ARCHIVED - Part Dispositions"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it264r/archived-part-dispositions.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Part Dispositions
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-264R**
+
+DATE: December 29, 1980
+
+SUBJECT: INCOME TAX ACT**Part Dispositions**
+
+REFERENCE: SPECIAL RELEASE
+
+This bulletin cancels and replaces Interpretation Bulletin IT-264 dated November 10, 1975. Current revisions are designated by vertical lines.
+
+1. Section 43 provides that for the purposes of computing the gain or loss where part of a property is disposed of, the adjusted cost base (ACB) of the property owned immediately prior to the disposition must be reasonably apportioned between the part disposed of and the part retained.
+
+2. The granting of an easement or a public right of way is a disposition of a part of the property in respect of which it is granted. Pursuant to section 43, the Department normally accepts an amount equal to the proceeds from such disposition as being the reasonable portion of the adjusted cost base of the whole property attributable to the part disposed of. The Department will also allow this method of determining the adjusted cost base where the portion of property expropriated in fee simple for use as a right of way is insignificant. For example, the Department considers that a portion that is 20% or less of the size of the property is insignificant in such circumstances.
+
+3. Similarly, where compensation (i.e. proceeds of disposition) is received in respect of damage to an insubstantial part of the total property and the damage is not repaired, the Department accepts an allocation to the damaged property (i.e. part disposition) of any portion of the ACB that does not exceed an amount equal to such compensation. This approach to determining how much of the total ACB is attributable to a part disposition does not extend to a situation where the compensation received for the damaged property is excessive in relation to the total property. Of course, where the taxpayer can establish that the portion of the ACB reasonably attributable to the damaged property is greater than the compensation, that portion is accepted.
+
+4. Pursuant to clause 54(c)(ii)(A), an installment payment made on a mortgage is a disposition of property because it is a transaction or event by which the property (i.e. the mortgage principal) is redeemed in part. For the purpose of computing the capital gain where an installment payment is received on a discounted mortgage, the proceeds of disposition are the portion of the installment payment received on account of the mortgage principal, and the ACB of the property disposed of is, by virtue of section 43, an amount equal to the proceeds of disposition less a portion of the discount as determined on the basis of a pro rata share of all amounts receivable as payments on account of the total principal indebtedness of the borrower. In effect, a capital gain is realized in respect of the discount each time an installment payment is received.
+
+5. However, for administrative purposes, where the amount of the mortgage discount is relatively minor, the taxpayer may treat it as only being realized in payments received by him after he has fully recovered his acquisition cost of the mortgage.

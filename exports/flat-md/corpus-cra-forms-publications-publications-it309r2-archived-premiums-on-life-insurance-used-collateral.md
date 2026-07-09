@@ -1,0 +1,160 @@
+---
+title: "ARCHIVED - Premiums on Life Insurance Used as Collateral"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it309r2/archived-premiums-on-life-insurance-used-collateral.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Premiums on Life Insurance Used as Collateral
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-309R2**
+
+DATE: February 28, 1995
+
+SUBJECT: INCOME TAX ACT**Premiums on Life Insurance Used as Collateral**
+
+REFERENCE: Subparagraph 20(1)(e.2) (also section 308 of the Regulations)
+
+Application
+
+This bulletin cancels and replaces Interpretation Bulletin IT-309R, Expenses of Borrowing Money - Life Insurance Premiums, dated January 10, 1979.
+
+Summary
+
+This bulletin discusses the limited deduction that is available in calculating income from a business or property for premiums payable after 1989 under a life insurance policy when the policy has been assigned to a restricted financial institution as collateral for a loan. The amount eligible for deduction in a particular year is limited to either the premiums payable by the taxpayer under the policy for the year, or the net cost of pure insurance under the policy for the year, whichever amount is less. Furthermore, only the portion of the lesser of these amounts that can reasonably be considered to relate to the amount owing under the loan is deductible.
+
+Discussion and Interpretation
+
+1. Paragraph 20(1)(e.2) permits a limited deduction in calculating income from a business or property for premiums payable after 1989 under a life insurance policy (other than an annuity contract). The taxpayer seeking the deduction must also be the policyholder for the premiums to be considered to be "payable by the taxpayer under a life insurance policy" and deductible under paragraph 20(1)(e.2). The provisions of paragraph 20(1)(e.2) will apply to permit a deduction for premiums payable under a life insurance policy if all the conditions in (a) to (c) below are satisfied:
+
+(a) An interest in the life insurance policy is assigned to a restricted financial institution (RFI) in the course of a borrowing from the institution. An RFI is defined in subsection 248(1) and includes financial institutions such as banks, trust companies, credit unions and insurance companies.
+
+(b) The interest payable on the borrowing is or would, but for subsections 18(2) and (3.1) and sections 21 and 28, be deductible in calculating the taxpayer's income for the year.
+
+(c) The assignment referred to in (a) is required by the RFI as collateral for the borrowing.
+
+2. Provided the conditions in 1 above are satisfied, the amount eligible for deduction under paragraph 20(1)(e.2) is the portion of the lesser of:
+
+(a) the premiums payable by the taxpayer under the life insurance policy for the year, and
+
+(b) the net cost of pure insurance under the policy for the year (see 4 below)
+
+that can reasonably be considered to relate to the amount owing from time to time during the year under the loan for which the insurance policy has been assigned as collateral. For example, if the life insurance coverage under an assigned policy is $500,000, and the amount owing under the loan throughout the taxation year is $200,000, the amount deductible under paragraph 20(1)(e.2) is limited to 40% of the lesser of the premiums payable and the net cost of pure insurance under the policy for the year. If the taxpayer's taxation year end does not correspond to the policy year, the premiums payable under the policy should be prorated on a reasonable basis to the taxation year. Similarly, the net cost of pure insurance, which is determined by the insurer on a calendar year basis, should be prorated on a reasonable basis to the taxation year.
+
+Line of credit
+
+3. An unused line of credit, even if it is subject to a standby charge or commitment fee, is not an amount owing in determining the portion that "can reasonably be considered to relate to the amount owing from time to time during the year" under the loan.
+
+Net cost of pure insurance
+
+4. The net cost of pure insurance under a life insurance policy is to be determined in accordance with section 308 of the Income Tax Regulations. The net cost of pure insurance, which may be obtained from the insurance company, is determined by referring to standard mortality assumptions and approximates the cost of the pure insurance coverage under the policy for the year. As a result, when the policy, which has been assigned as collateral for a loan, has a savings component or some form of prefunding, the maximum deduction under paragraph 20(1)(e.2) would generally be limited by the "net cost of pure insurance" limitation in 2(b) above.
+
+Collateral in excess of loan balance
+
+5. It may be that an RFI, in accordance with industry practice, requires that other assets be pledged as collateral for a loan such that the total value of the collateral exceeds the loan balance. In these cases, a deduction under paragraph 20(1)(e.2) will usually not be denied unless it is clear that the lender has made the life insurance requirement simply to accommodate the taxpayer. Therefore, a deduction for the full amount of the premiums is generally available, subject to the requirements in 1 to 3 above, provided the insurance coverage does not exceed the maximum amount of the loan outstanding during the year.
+
+Assignment of policy
+
+6. For purposes of 1(a) above, it is not necessary that a policy be taken out at the time of borrowing. The assignment of an existing policy is acceptable. However, such an assignment must satisfy a bona fide requirement of the RFI and not be an accommodation to provide the borrower access to a deduction of otherwise non-deductible premiums.
+
+Duplicate insurance
+
+7. In some situations, a lender may require that the lives of more than one person be insured in respect of a particular borrowing. In such situations, the deductibility of the premiums payable by the borrower under any particular policy is determined independently of the other policies, as if each policy were the only life insurance policy assigned as collateral for the loan.
+
+Example
+
+8. Corporation A (December 31 year-end) borrows $400,000 from its bank on January 1, 1994. The bank (an RFI) required the following collateral:
+
+- assignment of existing life insurance policies on two senior officers of the corporation (the policies have $500,000 and $350,000 coverage); and
+
+- pledge of fixed assets (fair market value of assets: $100,000).
+
+On June 30, 1994, the corporation repays $100,000 of principal on the loan.
+
+The premiums on the life insurance policies are $1,000 and $800 a year. There is a savings component in each policy, and it has been determined that the cost of pure insurance for the year is $750 and $600 respectively for these policies. Assuming the conditions in 1(a) to (c) above are satisfied, the amount deductible under paragraph 20(1)(e.2) for 1994 for each policy is determined as follows:
+
+|  | Policy I | Policy II |
+
+| --- | --- | --- |
+
+| Lesser of: |  |  |
+
+| premiums payable net cost of pure insurance | $1,000 $750 | $800 $600 |
+
+|  |  |  |
+
+| Lesser amount | $750 | $600 (A) |
+
+|  | --------- | ------- |
+
+| Portion of amount (A) that can reasonably be considered to relate to the amount owing: |  |  |
+
+|  |  |  |
+
+| From January to June --------------------- |  |  |
+
+|  |  |  |
+
+| $750 x 6/12 x $400,000/ $500,000 | $300 |  |
+
+| $600 x 6/12 |  | $300 |
+
+|  |  |  |
+
+| From July to December --------------------- |  |  |
+
+| $750 x 6/12 x $300,000/ $500,000 | $225 |  |
+
+|  |  |  |
+
+| $600 x 6/12 x $300,000/ $350,000 |  | $257 |
+
+|  |  |  |
+
+| Amount deductible under paragraph 20(1)(e.2) for the year: | $525 | $557 |
+
+|  | ------- | ------- |
+
+| Non deductible portion of premiums: | $475 | $243 |
+
+|  | ======= | ======= |
+
+If you have any comments regarding the matters discussed in this bulletin, please send them to:
+
+Director, Technical Publications Division Policy and Legislation Branch Revenue Canada 875 Heron Road Ottawa ON K1A 0L8
+
+Explanation of Changes for Interpretation Bulletin IT-309R2 Premiums on Life Insurance Used as Collateral
+
+Introduction
+
+The purpose of the Explanation of Changes is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+Overview
+
+This bulletin deals with the limited deduction that is available in calculating income from a business or property for premiums payable after 1989 under a life insurance policy, when the policy has been assigned to a restricted financial institution as collateral for a loan.
+
+We have undertaken this revision to incorporate the amendments to the Income Tax Act enacted by S.C. 1994, c. 7, Sch. II (1991, c.49 - formerly Bill C-18) to deal with the introduction of paragraph 20(1)(e.2) for premiums payable after 1989.
+
+Legislative and other changes
+
+We have revised Nos 1 to 4 to reflect the Bill C-18 introduction of paragraph 20(1)(e.2). They explain the conditions that must be met for life insurance premiums to be deductible under that paragraph. Former Nos 1 to 4 explained the limited circumstances under which life insurance premiums could be claimed, before the introduction of paragraph 20(1)(e.2), as a cost of borrowing money under subparagraph 20(1)(e)(ii). However, the decision in Her Majesty the Queen v. Antoine Guertin, 1988 DTC 6126, (1988) 1 C.T.C. 360 overruled the position contained in former Nos 1 to 4. Paragraph 20(1)(e.2) was enacted to counter this decision and to generally continue, with some modification, the administrative practice as set out in former Nos 1 to 4.
+
+Former No 6 provided that it was not necessary for the borrower to be the policyholder to deduct the life insurance premiums as a cost of borrowing money under subparagraph 20(1)(e)(ii) as long as the borrower bore the premium cost. It also dealt with taxable benefits that may have been conferred on the policyholder in such circumstances. Under paragraph 20(1)(e.2), the life insurance premiums must be payable by the taxpayer under the life insurance policy. Since former No 6 is not relevant for life insurance premiums deductible under paragraph 20(1)(e.2), we have deleted it.
+
+We have revised new No 5 (former No 7) to explain the deductibility of life insurance premiums in situations where the lender requires collateral in excess of the loan balance.
+
+Former No 8 provided that in certain situations, the unused portion of a line of credit could be considered for the purpose of determining the deductible portion of the insurance premium. However, under paragraph 20(1)(e.2) only the portion of the life insurance premium that may reasonably be considered to relate to the amount owing may be deductible. As mentioned in new No 3, any unused portion of a line of credit is not an amount owing and cannot be taken into consideration in the determination of a deduction under paragraph 20(1)(e.2). Therefore, we have deleted former No 8.
+
+The position in new No 7 (former No 9) was revised to eliminate the condition that there be a valid business reason for the assignment of duplicate life insurance policies. This condition is not required under paragraph 20(1)(e.2). Furthermore, under that paragraph, the deductibility of the premiums for a life insurance policy assigned as collateral for a loan is determined independently of the assignment of other life insurance policies as additional collateral for the loan. Accordingly, we have changed the position in former No 9 that considered the face amount of only one policy and the aggregate of all the policy premiums in determining the deductible amount.
+
+We have added new No 8 to provide a detailed example on calculating the amount of life insurance premiums that are deductible under paragraph 20(1)(e.2), and to illustrate most of the comments made in the bulletin.
+
+Throughout the bulletin, we have made minor changes for clarification or readability purposes.

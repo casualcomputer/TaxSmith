@@ -1,0 +1,24 @@
+---
+title: "Taxpayer Relief"
+gallery_title: "Taxpayer Relief"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/businesses-video-gallery/taxpayer-relief.html
+video_source: https://www.youtube.com/watch?v=W6m4VdOyoSg
+last_modified: 2021-04-19
+---
+
+# Taxpayer Relief
+
+## Transcript
+Were you unable to meet your tax obligations due to circumstances beyond your control?
+You may be able to ask the Canada Revenue Agency to cancel or waive your penalties or interest.
+Meet Suzanne.
+Suzanne’s house caught on fire on April 20, which prevented her from filing her tax and benefit return on time..
+She was charged a late filing penalty.
+Suzanne fills out form RC4288 online using My Account to apply for taxpayer relief due to her unfortunate situation.
+When applying for relief, you must give the facts and circumstances that explain your inability to meet your tax obligations.
+Your request should clearly outline what you are asking to have cancelled or waived, and for what reason.
+In the case of a natural or human-made disaster, such as the fire in Suzanne’s home, you must provide a copy of the insurance and fire reports with your application.
+If you’re asking for relief from penalties or interest, you must send your request within ten years of the tax year or fiscal period.
+For example, a request made in 2020 must be related to a penalty for a tax year ending in 2010 or later or interest accrued in 2010 or later.
+Use the CRA's electronic services to send your application for relief as well as all supporting documents.
+If you’re considering sending a request for relief from penalties or interest, go to canada.ca/penalty-interest-relief.

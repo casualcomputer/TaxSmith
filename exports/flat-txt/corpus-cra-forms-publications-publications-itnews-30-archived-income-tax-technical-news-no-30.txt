@@ -1,0 +1,593 @@
+Title: ARCHIVED - Income Tax - Technical News No. 30
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-30/archived-income-tax-technical-news-no-30.html
+Corpus path: corpus/cra/forms-publications/publications/itnews-30/archived-income-tax-technical-news-no-30.md
+Document type: publication
+Last modified: 2019-10-08
+
+# ARCHIVED - Income Tax - Technical News No. 30
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for income tax technical news](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/what-archived-content-notice-means-income-tax-technical-news.html)
+
+NO. 30 May 21, 2004
+
+**This version is only available electronically.**
+
+## In This Issue
+
+- [Prepaid Income - Whether Subsection 9(1) or Paragraph 12(1)(a) Applies?](#P25_1274)
+
+- [Withholding Tax on Interest](#P58_9939)
+
+- [Computation/Allocation of Partnership Income and Losses](#P85_14322)
+
+- [Corporate Loss Utilization Transactions](#P120_23434)
+
+- [Reasonableness of Shareholder/Manager Remuneration](#P148_28212)
+
+- [Pre-judgment Interest](#P180_33759)
+
+- [Tax Avoidance](#P209_40061)
+
+- [Social Security Taxes and the Foreign Tax Credit](#P228_41739)
+
+- [Restricted Farm Losses (Section 31)](#P251_45709)
+
+The *Income Tax Technical News* is produced by the Policy and Planning Branch. It is provided for information purposes only and does not replace the law. If you have any comments or suggestions about the matters discussed in this publication, please send them to:
+
+Income Tax Rulings Directorate Policy and Planning Branch Canada Revenue Agency Ottawa ON K1A 0L5
+
+The *Income Tax Technical News* can be found on the Canada Revenue Agency Internet site at [www.cra.gc.ca](http://www.cra-arc.gc.ca/menu-eng.html).
+
+This issue contains topics of current interest that were discussed at the annual **Canadian Tax Foundation** conference held in Montreal from September 21 to 23, 2003, by Paul Lynch, Director, Financial Industries Division, and Daryl Boychuk, Manager, Partnerships Section, both of the Income Tax Rulings Directorate of the Policy and Legislation Branch of the Canada Customs and Revenue Agency (CCRA).
+
+## Prepaid Income - Whether Subsection 9(1) or Paragraph 12(1)(a) Applies?
+
+There is currently some uncertainty over the scope and the application of the “quality-of-income” concept that originated in the *Kenneth B.S. Robertson Ltd.* case. [1](#P27_1507) There is also some uncertainty with respect to the interrelation between the “quality-of-income test” and the “earning requirement” under the Act. For instance, it is not clear whether or how the quality-of-income test applies to unearned amounts described in paragraph 12(1)(*a*).
+
+Two recent court cases (the *Blue Mountain Resorts Limited decision* [2](#P29_1916) handed down by the Tax Court of Canada and the *Compagnie Meloche inc.* decision [3](#P30_2080) handed down by the Quebec Court of Appeal) have applied paragraph 12(1)(a) rather than subsection 9(1) with respect to prepaid income that, arguably, had the quality of income. Unfortunately, the courts did not expressly rule or comment on the quality-of-income issue. In the *Blue Mountain Resorts Limited*, the Tax Court simply held that the case could be decided by reference to the statutory provisions at issue, that is, paragraphs 12(1)*(a)* and 20(1)*(m)*. In the *Compagnie Meloche inc.* case, the Quebec Court of Appeal held that the portion of the fees that related to services to be rendered was unearned when received by the taxpayer and that a reserve under paragraph 20(1)*(m)* could be claimed in that respect.
+
+However, we understand that, on the basis of court cases such as *Burrard Yarrows Corporation* [4](#P32_2978), *Kenneth B.S. Robertson Ltd.* and *Ikea Limited [5](#P33_3162)*, the CCRA has, on some occasions in the past, applied subsection 9(1) to prepaid income described in subsection 12(1)(*a*) that, arguably, was free of conditions or restrictions upon its use by the recipient.
+
+## Question 1
+
+What is the practical impact of applying subsection 9(1) or paragraph 12(1)(*a*) to prepaid income?
+
+## Response 1
+
+Both subsection 9(1) and paragraph 12(1)(*a*) have the effect of bringing amounts into income. However, paragraph 20(1)(*m*) allows a taxpayer to claim a reserve only with respect to amounts included in income under paragraph 12(1)(*a*). In other words, the paragraph 20(1)(*m*) reserve does not apply to amounts included in the income of a taxpayer under section 9.
+
+The application of paragraphs 12(1)*(a)*, 12(1)*(e)* and 20(1)*(m)* to prepaid income allows the deferral of the recognition of income to the period in which the services are effectively rendered or the goods effectively delivered. Under paragraph 12(1)*(a)*, prepaid income is included in the income of the taxpayer in the year in which it is received, but an optional reserve under paragraph 20(1)*(m)* may be claimed. This inclusion/deduction mechanism allows the recognition of the prepaid income as performance of the acts progresses. Under such a mechanism, the “earning event” (i.e. the rendering of the services or the delivery of the goods) is the “recognition event” for income tax purposes.
+
+The application of subsection 9(1) to prepaid income results in an upfront inclusion of the amounts in a taxpayer's income. Under such an approach, the prepayment is fully included in the income of the recipient in the year of receipt. Furthermore and based on paragraphs 18(1)(*a*) and 18(1)(*e*), no deduction or reserve is generally allowed in the year of receipt to take into consideration the obligations that the recipient has to perform or fulfill in the following years. The recipient will be allowed to deduct in a particular taxation year amounts in respect of his obligations towards the payer when he will effectively incur an outlay or expense in such particular taxation year.
+
+## Question 2
+
+What is the current position of the CCRA with respect to the application of paragraph 12(1)(*a*) and subsection 9(1) to prepaid income that, arguably, has the quality of income?
+
+## Response 2
+
+We have recently undertaken a review on the question of the application of paragraph 12(1)*(a)* and subsection 9(1) to prepaid income. In light of this analysis, the CCRA is now of the view that, as a general rule, the inclusion/deduction mechanism provided under paragraphs 12(1)*(a)*, 12(1)*(e)* and 20(1)*(m)* should apply to amounts received in a year by a taxpayer in the course of a business in respect of services not rendered or goods not delivered before the end of the year or that, for any reason may be regarded as not having been earned in the year or a previous year. This inclusion/deduction mechanism is a specific statutory scheme dealing with the taxation of some types of prepaid income. It normally allows a closer matching of costs and revenues and therefore generally results in a more accurate picture of a taxpayer's profit for a particular period.
+
+## Question 3
+
+Will the inclusion/deduction mechanism provided under paragraphs 12(1)*(a)*, 12(1)*(e)* and 20(1)*(m)* always be applicable?
+
+## Response 3
+
+No. In certain situations, the application of the inclusion/deduction mechanism provided under paragraphs 12(1)*(a)*, 12(1)*(e)* and 20(1)*(m)* may prove to be inappropriate or inadequate, having regard to the scheme of the Act. In some circumstances, the inclusion in income of amounts received by a taxpayer in the year of receipt under subsection 9(1) may turn out to be more appropriate and more in accordance with the scheme of the Act. Again, it is an examination of all the facts and circumstances surrounding a particular situation that will determine in which situation the application of subsection 9(1) is required. Such determination will need to be made on a case-by-case basis.
+
+## Question 4
+
+Could the CCRA give some general examples of situations where subsection 9(1), rather than subsection 12(1)(*a*), would apply to prepaid income?
+
+## Response 4
+
+As an example, a prepayment would normally have to be included in the taxpayer's income upon receipt under subsection 9(1) where, having regard to all the circumstances, it is determined that the actions required to be done by the taxpayer and/or its obligations under the agreement are substantially performed at the time of receipt of the prepayment, or shortly after. On this point, reference can be made to the decision *Dixie Lee (Maritimes) Ltd. [6](#P52_7780)* In such cases, an “upfront inclusion approach” would arguably present the best measure of the recipient's tax position. The actions or obligations that the taxpayer would still have to perform in the future would not be substantial enough to justify the application of the inclusion/deduction mechanism provided under paragraphs 12(1)*(a)*, 12(1)*(e)* and 20(1)*(m)*.
+
+An “upfront inclusion approach” would also impose itself in situations where the agreement between the taxpayer and its client would lawfully provide that the taxpayer would be allowed to retain the prepayment made by the client in any event, regardless of whether or not the services or goods will in fact ever be provided. In other words, under this type of clause, the taxpayer would be allowed to retain the prepayment even if the taxpayer would not fulfill its obligations under the contract and would be in default. In such a case, the prepaid amount received by the taxpayer cannot be considered as an amount received on account of services not rendered or goods not delivered before the end of the year. Arguably, such a clause in a contract has the effect of dissociating the prepaid amount with any services to be rendered or goods to be delivered. In the presence of this type of clause, the link between the prepayment and the services or goods to be provided is absent or is not sufficient to permit the application of paragraph 12(1)*(a)*. Consequently, the amounts received in such circumstances would generally be included in the taxpayer's income upon receipt under subsection 9(1), without the possibility of deducting any amount as a reserve under paragraph 20(1)*(m)*.
+
+## Question 5
+
+What can be done to avoid any uncertainty on the whole issue of the application of paragraph 12(1)*(a)* and subsection 9(1) to prepaid income in a particular situation?
+
+## Response 5
+
+We would of course recommend to a taxpayer that has some concerns about the application of paragraph 12(1)(*a*) and subsection 9(1) in a particular situation to apply for an advance income tax ruling.
+
+## Withholding Tax on Interest
+
+The Act contains certain exemptions to the normal withholding tax requirements for interest imposed under Part XIII. The most common exemption from withholding tax relates to long-term arm's-length debt (subparagraph 212(1)(*b*)(vii)).
+
+The *General Electric Capital Equipment Finance Inc.* case [7](#P61_10255) has created some uncertainty as to the continuing application of the subparagraph 212(1)*(b)*(vii) exemption to debts whose terms have been modified.
+
+## Question 1
+
+Can the CCRA provide guidance as to its administration of the Act on this point?
+
+## Response 1
+
+In the *GE Capital* case, the Federal Court of Appeal stated that the issue was whether or not a new obligation was created by reason of the modifications made to the debts. The debts were found to have four fundamental terms, being:
+
+1. the identity of the debtor;
+
+2. the principal amount of the debt;
+
+3. the interest rate on the debt; and
+
+4. the maturity date of the debt.
+
+The facts were that the last three items (i.e. the principal amount, the interest rate and the maturity date) were all changed. The Federal Court of Appeal found that these constituted substantial changes that materially altered the terms of the obligation and consequently created a new debt for purposes of subparagraph 212(1)(*b*)(vii). Further, the court expressly stated that, in common law, a novation is not required before there can be a new debt for the purposes of subparagraph 212(1)(*b*)(vii).
+
+We believe the *GE Capital* case is consistent with our views expressed in Income Tax Technical News No. 14 - that is, in common law, a rescission of a debt obligation will be implied when the parties have effected such an alteration of its terms as to substitute a new obligation in its place, which is entirely inconsistent with the old, or, if not entirely inconsistent with it, inconsistent with it to an extent that goes to the very root of it.
+
+If a debt obligation is subject to contract law in Quebec and if the changes in the terms of the original debt obligation have resulted in a novation under the Civil Code of Québec (where the original debt obligation is discharged and substituted by a new obligation), it is appropriate to view that a new obligation comes into existence for income tax purposes.
+
+## Question 2
+
+Have you dealt with this issue on a rulings basis since the *GE Capital* case?
+
+## Response 2
+
+Yes, we have considered this issue in the context of a ruling request subsequent to the release of the *GE Capital* case. In that situation the main facts involved a change from paying interest currently to deferring interest payments until maturity, to amend the security interests of the debt holders, to change the conversion ratio of the debt as well as some other changes. In that situation, we considered that the existing obligation continued and that a new obligation did not come into existence for purposes of subparagraph 212(1)(*b*)(vii).
+
+## Question 3
+
+The post-amble to paragraph 212(1)(*b*) refers to interest computed by reference to “revenue, profit, cash flow, commodity price or any other similar criterion” and deems such interest not to be interest eligible for the withholding tax exemption. This legislation causes concerns to tax practitioners with regard to debts where the terms of loan agreements may contain a provision for upward or downward adjustments to the interest rate from time to time over the term of the loan, that are based on the ratio of certain debt balances to earnings before interest, tax, depreciation, and amortization (EBITDA), to the borrower. Can the CCRA comment on the application of this provision in this context?
+
+## Response 3
+
+The wording of the post-amble to paragraph 212(1)(*b*) is very broad. Our initial reaction is that a term such as that described above could well fall within the ambit of the post-amble to paragraph 212(1)(*b*) such that the withholding tax exemption would be unavailable.
+
+## Question 4
+
+Have you dealt with this issue on a rulings basis?
+
+## Response 4
+
+Although we have had numerous requests for technical interpretations on this issue, we have not had any formal ruling requests. We would be pleased to consider this issue in the context of a ruling where we would have the opportunity to examine the draft loan agreements and the details relating to the particular circumstances of the borrower.
+
+## Computation/Allocation of Partnership Income and Losses
+
+## Question 1
+
+At last year's panel discussion on partnership issues, the CCRA stated that a “salary” paid to a partner would not be deductible in computing the income of the partnership. Some practitioners have questioned whether this position is consistent with the case law (namely, *Archbold v. The Queen* [8](#P88_14679)) and the partnership acts of the provinces (which do not prohibit the payment of remuneration to a partner if expressly agreed to between or among the partners). In view of these concerns, has the CCRA reconsidered its position on the tax treatment of a “salary” paid to a member of a partnership?
+
+## Response 1
+
+The CCRA continues to stand by its assertion that a “salary” paid to a partner is not deductible in computing the income of the partnership. In our view, the earning of income from employment by a member of a partnership would be inconsistent with the legal relationships that define a partnership (i.e., two or more persons carrying on business in common with a view to profit). That is, a partner is a participant in the business of the partnership and not an employee.
+
+## Question 2
+
+What is the legal basis for concluding that a member of a partnership cannot be an employee of the partnership?
+
+## Response 2
+
+Each member of a partnership carries on business as both a principal and an agent of the other members of the partnership. Accordingly, an agreement between the members of the partnership to employ a particular partner would be an attempt by the particular partner to enter into a contract of employment with him or herself. Such an agreement would, at law, be a nullity. The Tax Court of Canada considered this issue in *Crestglen Investments Limited* [9](#P95_16115) and reached the same conclusion:
+
+*The tax treatment of a partner's partnership income is the same whether it is a partnership distribution or monies allocated for partnership management services. Thus a partner cannot be an employee of a partnership that is capable of entering into a contract of employment with the partnership...*
+
+## Question 3
+
+Assume that a particular partner is not paid a salary as an employee of the partnership but is remunerated by reference to a formula (e.g., hours billed). Is the CCRA willing to treat this amount as deductible in computing the income of the partnership?
+
+## Response 3
+
+A provision in the partnership acts of the common law provinces prohibits a partner from receiving remuneration for acting in the course of the partnership business, subject to any agreement between the partners. Accordingly, these statutes do not prohibit the members of a partnership from agreeing to remunerate one or more members of that partnership based on, among other things, hours billed or revenues generated.
+
+Although the payment of remuneration to a partner acting in the course of the partnership business is not strictly prohibited, it does not necessarily follow that such remuneration would be a deductible expense of the partnership. There are at least two reasons why a deduction would be inappropriate.
+
+First, if a deduction were available, the partner would have two sources of income from carrying on one business:
+
+1) the remuneration (which would not be income from carrying on the partnership business since it would be an expense of the partnership); and
+
+2) the partner's share of the income or loss from the partnership.
+
+Second, to allow a deduction in computing the income from the partnership business would be to allow the recipient partner a deduction for an amount paid to him or herself.
+
+Thus, in our view, any remuneration paid to a partner for work performed in the course of the partnership business is properly treated as a distribution of income or a draw against capital and would not be deductible in computing partnership income.
+
+## Question 4
+
+Are there any circumstances where an amount paid to a partner would be deductible in computing the income of the partnership?
+
+## Response 4
+
+There are some circumstances in which we would allow a partnership to deduct an amount paid to a partner. For example, we would be prepared to allow a deduction in computing the income of a partnership for fees paid to a partner if the fees are paid in consideration for services provided to the partnership by the partner acting other than in his or her capacity as a partner (i.e., the services are not related to the ownership of the partnership interest). That is, the services are provided by the partner in the course of carrying on a business separate from the business carried on by the partnership. Accordingly, the problem of deriving two sources of income from one business does not arise since the amount paid to the partner is included in that partner's income from the separate business. In addition, in the circumstances where a partner is providing services to the partnership other than in the capacity as a partner, we would be willing to accept that the agreement under which the services are provided does not offend the rule against contracting with oneself. However, to avoid uncertainty as to the deductibility of these payments, we would encourage taxpayers not to enter into service contracts directly with the partnership but to enter into these contracts through a separate entity.
+
+## Question 5
+
+The Tax Court of Canada held in the 1995 informal procedure case *Archbold v. The Queen* that an amount paid to a partner as “salary” was deductible in computing the income of the partnership. What is the CCRA's view of this decision?
+
+## Response 5
+
+The *Archbold* case involved a husband and wife partnership under which the wife was given a commission on gross sales made by the partnership. The Court accepted that the payment of this amount, referred to as a salary, was deductible in computing the income of the partnership thus creating a loss for the husband. In reaching her conclusion, Lamarre Proulx, J.T.C.C. focused on the fact that the relevant provincial partnership act did not present a legal impediment to a partner drawing a salary from a partnership.
+
+In our view, the Court in *Archbold* did not establish a legal basis for treating the amount as an expense of the partnership. As we stated in our response to Question 4, the fact that law does not prohibit the payment of remuneration is not sufficient, in and of itself, to ensure that the payment is deductible in computing the income of the partnership. It is our position that remuneration paid to a partner will qualify as an expense only if it is paid in circumstances described in the response to Question 4. In our view, the amount paid in *Archbold* is not this type of payment and, accordingly, we do not intend to apply *Archbold* as a precedent in other cases.
+
+## Question 6
+
+What is the CCRA's position on preference units, that is, units of a partnership that entitle the holder to a preferential share of the profits or losses of the partnership. For example, consider an arrangement where a partnership issues two types of partnership interests. In consideration for the transfer of property to the partnership or in recognition of its specialized expertise, Taxpayer A acquires a “preferred” partnership interest that entitles it to receive, in priority to some, or all, of the other partners a predetermined amount of partnership income, loss, resource pools or other partnership amounts relevant in the computation of a partner's income for purposes of the Act and a fixed entitlement to partnership capital in the event of liquidation or redemption of such partnership interest. Taxpayers B and C could acquire units that entitle them to a *pro rata* share of the remaining income, loss, resource pools or other amounts and capital of the partnership after satisfaction of Taxpayer A's interest.
+
+## Response 6
+
+In our view, there is no impediment to the creation of partnership interests that carry different entitlements to share in the income, loss or other attributes of the partnership. However, the sharing of these tax attributes is subject to section 103 of the Act. In considering the application of section 103, we would examine whether one of the principal reasons for the separate interests was the reduction or postponement of tax, or in the case where two or more members of the partnership are not dealing with each other at arm's length, whether the amount of income or loss allocated to Taxpayer A was reasonable having regard to the circumstances, including capital invested and work performed.
+
+## Corporate Loss Utilization Transactions
+
+A basic element of corporate tax planning is not to have one member of a corporate group pay income taxes while another is in a loss position. Transactions are undertaken to transfer income or deductions in order to avoid this result. While this issue cannot be regarded as new, it is useful to be reminded of the dos and don'ts regarding this topic.
+
+## Question 1
+
+What are the basic parameters of loss utilization transactions, and what is the basis in law for these?
+
+## Response 1
+
+As a starting point, all transactions that are undertaken must be legally effective and otherwise comply with the technical provisions of the *Income Tax Act*. Beyond this, the only technical concern is the application of the General Anti-Avoidance Rule, and particularly subsection 245(4), that is, is there a misuse or abuse. As noted in the Department of Finance's explanatory notes for the GAAR, the transfer of income or deductions within an affiliated group of corporations would not ordinarily fall within the scope of section 245 since they usually are not considered to result in a misuse or abuse.
+
+There is a scheme to the Act, evidenced by certain provisions, including subsections 69(11) and 111(4) to 111(5.2), that restrict the claims by corporations for losses, deductions or credits incurred by a non-affiliated corporation. However, these limitations do not apply to transactions between affiliated corporations. In addition, several other provisions of the Act, notably the stop-loss provisions, prevent the recognition of losses on transactions undertaken within a corporate group. From this we can conclude that there is a scheme to the Act recognizing and accepting certain transactions between affiliated corporations as being undertaken by the same corporate group.
+
+## Question 2
+
+Can you provide us with a general summary of the corporate loss utilization framework?
+
+## Response 2
+
+In general terms, we look at these transactions as a means of achieving a consolidated tax position for the group. Most of the information we require when considering a ruling request for a loss utilization transaction relates to this.
+
+## Question 3
+
+So what information would you be looking for in particular with regard to a loss consolidation ruling?
+
+## Response 3
+
+We will ask for three things:
+
+1. an explicit summary of accumulated losses and taxable incomes for all relevant years for all relevant corporations and the period of time for which these corporations have been or are expected to be affiliated;
+
+2. an analysis of any loss carrybacks to be undertaken by a formerly profitable corporation; and
+
+3. an analysis of the possibility of losses being refreshed beyond the 7 year carryforward limit.
+
+## Question 4
+
+There is some uncertainty in the tax community as to the continuing validity of comments in example 5 of Supplement 1 of the GAAR Information Circular 88-2. In particular, the example makes reference to borrowings in a loss consolidation transaction not exceeding what a corporation could reasonably be expected to borrow for use in its business on the basis solely of its credit from an arm's length lender. Can you clarify the CCRA's current views on this?
+
+## Response 4
+
+As noted earlier, loss consolidation transactions must be legally effective. The decisions of the *Supreme Court of Canada*, notably in *Shell* [10](#P142_26743), reinforce this concept. However, we would not feel comfortable providing a ruling on a loss consolidation transaction that contemplates dollar amounts and time frames that are blatantly artificial. Thus, in order to be provided with a ruling, we must be able to satisfy ourselves that the transactions are plausible, and the quickest way for us to obtain such assurance is through a commitment letter.
+
+## Question 5
+
+Another area of uncertainty relates to the *C.R.B. Logging* [11](#P145_27283) case. To refresh people's memories of this, the facts involved the indirect acquisition by a subsidiary of dividend paying preferred shares of the parent. The court ruled that there was no independent source of income from which the parent could fund the dividends, and thus the interest deductibility provisions were not met, and so the deduction for the interest was disallowed. What is the CCRA's current view on this type of situation for loss consolidation purposes?
+
+## Response 5
+
+While we have not reached the point where we would state that *CRB Logging* is no longer good law, we have provided rulings on some upstream shareholding situations. The key criteria to be met in such situations is the existence of other assets in the parent company that can generate sufficient income to pay the dividends on the preferred shares held by the subsidiary.
+
+## Reasonableness of Shareholder/Manager Remuneration
+
+At the 2001 Canadian Tax Foundation conference, you discussed the CCRA's long-standing policy on when, for purposes of section 67 of the *Income Tax Act* (the Act), shareholder/manager remuneration will be considered reasonable. You indicated that the CCRA would not challenge the reasonableness of remuneration that was paid by a Canadian-controlled private corporation (CCPC) to an individual who is a shareholder of the corporation, provided the individual is active in the business operations and resident in Canada. You further indicated that this policy would not apply to inter-corporate management fees.
+
+Since the conference, we understand that you have received a number of advance income tax ruling requests involving situations in which these criteria were met, but you were unable to rule favorably because there were other factors that indicated the remuneration was to be paid for reasons beyond the original intent of the policy.
+
+## Question 1
+
+Can you discuss the intent of the policy on shareholder/manager remuneration?
+
+## Response 1
+
+The general purpose of the policy is to provide flexibility to a CCPC and its active shareholder/managers to take advantage of marginal tax rates by reducing the corporation's taxable income to or below the small business deduction limit through the payment of salaries and bonuses from income that is derived from normal business operations, and to provide certainty as to the taxable status of the transactions.
+
+## Question 2
+
+When do you consider a particular situation to be within the intent of the policy in reviewing an advance income tax ruling request?
+
+## Response 2
+
+In general terms, we consider any straightforward situation where the basic criteria noted above are met and the income that is used to pay the remuneration was earned from the ongoing, normal activities of the business, to be within the intent of the policy.
+
+## Question 3
+
+The determination of the reasonableness of an amount is generally a question of fact. The Directorate has stated on numerous occasions that it will not rule on questions of fact. Why would you consider ruling on the reasonableness of shareholder/manager remuneration?
+
+## Response 3
+
+We want to provide certainty to taxpayers as to the taxable status of transactions that are within the intent of this policy. As noted, we also want to provide flexibility to taxpayers in tax planning and allow them to take full advantage of marginal corporate and personal income tax rates and any integration provided for under the law.
+
+## Question 4
+
+Can you give us some examples of situations that the CCRA would consider to be beyond the intent of the policy?
+
+## Response 4
+
+Yes. We would consider a situation in which a CCPC pays the remuneration out of the proceeds generated from a major a sale of business assets, including the sale of the entire business assets or those of a large division, to be beyond the intent of the policy. This would encompass all sources of income triggered by the proceeds, including capital gains, recapture of capital cost allowance, and income arising from the disposition of eligible capital properties. We would not generally be concerned with situations where there is a sale of some of the assets, which is incidental to the normal business operations.
+
+## Question 5
+
+Are there any other situations that you would consider to be beyond the intent of the policy?
+
+## Response 5
+
+Yes. Also beyond the intent of this policy would be a situation in which the income of a CCPC is derived from management fees or dividends that have flowed through a complex corporate structure. In this situation, the income used to pay the remuneration is not derived from the normal business operations of the CCPC.
+
+## Question 6
+
+Are you saying that the CCRA would consider the remuneration to be unreasonable or refuse to rule in situations that you consider to be beyond the intent of the policy?
+
+## Response 6
+
+No. All we are saying is that the CCRA reserves the right to challenge the reasonableness of the remuneration or refuse to rule in these situations. We would like to re-emphasize that the policy is intended for straightforward situations where the criteria noted above are met. We will, however, consider any situation in the context of an advance income tax ruling where the facts demonstrate that there is no undue tax advantage resulting from the transactions.
+
+## Question 7
+
+When requesting an advance income tax ruling on the reasonableness of shareholder/manager remuneration under section 67 of the Act, are there any important considerations that should be kept in mind?
+
+## Response 7
+
+All advance income tax ruling requests should include a complete disclosure of all relevant facts, the purpose of the proposed transaction, and a discussion on why the request should be considered in the context of the relevant provisions of the Act, jurisprudence, and CCRA policy. In addition, where one of the purposes of the proposed transactions is to alleviate the tax consequences imposed under the law of a province that does not have a collection agreement with the CCRA, the ruling request should contain a copy of the ruling from the province with respect the proposed transactions or other documentation to that effect.
+
+In terms of a ruling request on the reasonableness of shareholder/manager remuneration under section 67 of the Act, it may be helpful to provide a complete analysis of the tax impact of the proposed transactions, a valid business reason for payment of the remuneration, and a reasonable estimate of the amount of the remuneration.
+
+## Pre-judgment Interest
+
+The CCRA has recently dealt with a number of issues involving the tax treatment of pre-judgment interest on wrongful dismissal awards. We understand that, while a wrongful dismissal award would be taxed as a retiring allowance, it is the administrative position of the CCRA that the associated pre-judgment interest would not be subject to tax.
+
+## Question 1
+
+What is meant by pre-judgment interest?
+
+## Response 1
+
+Sometimes, pre-judgment interest is referred to as either pre-judgment interest or pre-settlement interest. Pre-judgment interest means an amount, classified as interest by the courts or under the terms of the settlement agreement, that is interest payable for the time between the emergence of the cause of action and the date of the award or settlement.
+
+## Question 2
+
+What is the CCRA's current administrative position on the tax treatment of pre-judgment interest?
+
+## Response 2
+
+Our current position is that pre-judgment interest is generally taxable as interest income if it is in the nature of interest. The courts have described interest in general terms as “the return or consideration or compensation for the use or retention by one person of a sum of money, belonging to... or owed to, another”. It is a question of fact whether an amount paid under the terms of a court order or settlement agreement constitutes interest income. In our view, where an award for damages is made either by a court or by means of an out-of-court settlement which includes an amount that is explicitly identified to be interest on all or a portion of the award, such amount normally constitutes interest income in the hands of the recipient for all purposes of the Act.
+
+However, there is currently an administrative exception for pre-judgment interest related to awards for personal injury or death, wrongful dismissal, and retroactive worker's compensation payments. Accordingly, pre-judgment interest on such awards is not subject to tax.
+
+## Question 3
+
+What is the CCRA's rationale for not taxing pre-judgment interest on taxable wrongful dismissal awards?
+
+## Response 3
+
+The CCRA issued a press release on April 26, 1985, which stated that pre-judgment interest received in respect of damage awards did not have to be included in income. The CCRA applied this administrative position to awards for personal injury or death, wrongful dismissal, and retroactive worker's compensation.
+
+## Question 4
+
+What changes will the CCRA make to its administrative position on pre-judgment interest?
+
+## Response 4
+
+Our administrative position is mainly based on the principle that the taxation of pre-judgment interest should follow the tax treatment of the associated award. We also feel that pre-judgment interest that is in the nature of interest should generally be taxed as such. In order to be consistent with both the underlying reason for our administrative position and legal principles, we will be changing our policy to exclude pre-judgment interest on wrongful dismissal awards from the administrative exception and, therefore, tax it as interest income. Essentially, our new position will be that all pre-judgment interest, which is explicitly identified as interest in the court order or settlement agreement, will be taxed as interest income, but the exception for pre-judgment interest on awards for personal injury or death, or retroactive worker's compensation will remain in place. This new position will be effective for court orders, or settlement agreements dated on or after January 1, 2004.
+
+Our new administrative position continues to recognize that pre-judgment interest on non-taxable awards related to personal injury or death, or retroactive worker's compensation payments will not be subject to tax.
+
+## Question 5
+
+How can this new position be justified in light of the decision of the Tax Court in *Dr. Syed Ahmad* [12](#P202_37565) case?
+
+## Response 5
+
+In this case, the appellant worked for Atomic Energy Canada Limited (“AECL”) as a nuclear researcher for 20 years from 1967 to 1987. In 1984, he was demoted by AECL due to the interference of AECL's major customer, Ontario Hydro. He subsequently brought an action against Ontario Hydro for inducement of breach of contract. In 1987, he was wrongfully dismissed by AECL, and received $102,000 as a settlement. In 1993, the Ontario Superior Court ordered Ontario Hydro to pay the appellant general damages of $488,525, libel damages of $40,000, pre-judgment interest of $388,212, and post-judgment interest of $199,371. This judgment was upheld by the Court of Appeal for Ontario in 1997. In reassessing the taxpayer for 1997, the CCRA included in his income the general damages and interest (other than approximately $45,000 of interest relating to the libel damages).
+
+The court found that the general damages did not constitute a retiring allowance because they were not paid in respect of the loss of an office or employment. The damages represented compensation for the destruction of the appellant's career as a nuclear researcher due to the tort of inducement of breach of contract, and not merely for the loss of a particular job. Accordingly, the damages were found to be not taxable.
+
+As for the taxation of the pre-judgment interest, the court found that the appellant did not have any right to a principal amount prior to judgment, and no interest could accrue until the judgment was rendered. Therefore, the amount labelled pre-judgment interest in this case formed part of the award and was not, in fact, interest.
+
+This case was decided on its particular facts and, in our view, is not inconsistent with our policy on pre-judgment interest. Essentially, the court found that the portion of the award stated to be “pre-judgment interest” in this case was not in the nature of interest. Since the court also found that the award did not fall within the definition of “retiring allowance”, the portion of the award identified as pre-judgment interest was not subject to tax.
+
+Where pre-judgment interest is paid on an award for wrongful dismissal, the amount will normally be taxed as interest income. However, if the facts indicate that the portion identified as “interest” is not in the nature of interest, then it will be considered to form part of the overall award, and be taxed as a retiring allowance.
+
+## Tax Avoidance
+
+## Question 1
+
+Tax practitioners are always interested to know what files the CCRA is examining. In this context, can you tell us what is new or current with regard to files involving tax avoidance?
+
+## Response 1
+
+The most interesting files we have been pursuing lately can generically be categorized as treaty shopping situations.
+
+## Question 2
+
+We hear about the term treaty shopping quite a bit. What does the CCRA consider treaty shopping to involve?
+
+## Response 2
+
+In the context of tax avoidance, we consider treaty shopping to include transactions involving the establishment of residency in a particular jurisdiction by a taxpayer in order to avail itself to the provisions of that jurisdiction's treaty for tax avoidance purposes.
+
+## Question 3
+
+There is some question in the tax community whether or not CCRA can challenge these types of transactions. On what basis is CCRA in fact challenging these arrangements?
+
+## Response 3
+
+One basis is to deny the benefits under the treaty under what is referred to as the abuse of treaties approach - that being that treaties have as their purpose the elimination of double taxation and the prevention of fiscal evasion. The Commentary to Article 1 of the *OECD Model Tax Convention on Income and on Capital* states, in part, at paragraph 9.4:
+
+… *it is agreed that states do not have to grant the benefits of a double taxation convention where arrangements that constitute an abuse of the provisions of the convention have been entered into.*
+
+A second basis to challenge such transactions is, of course, GAAR.
+
+## Question 4
+
+So, which treaty shopping arrangements is the CCRA looking at?
+
+## Response 4
+
+It is CCRA policy to challenge all treaty shopping arrangements.
+
+## Social Security Taxes and the Foreign Tax Credit
+
+Section 126 of the *Income Tax Act* (the “Act”) provides for a foreign tax credit for taxes paid to foreign jurisdictions. The CCRA stated in paragraph 5 of IT-122R2, that U.S. social security taxes paid by an employee are income taxes that may qualify as “non-business-income taxes” under paragraph 126(7) of the Act for purposes of the foreign tax credit under paragraph 126(1)(a). The CCRA has also confirmed that German and French social security contributions qualify as “non-business-income taxes”.
+
+## Question 1
+
+Will the CCRA extend the treatment given to the U.S., the French and German contributions to social security contributions in other countries as well?
+
+## Response 1
+
+We have reviewed the treatment of social security taxes as income or profits taxes for the purposes of the foreign tax credit and we concluded that the position in IT-122R2 is not supportable in law, because the social security taxes reviewed do not qualify as taxes. Consequently, we are revising our position on this point. As a rule, social security taxes will no longer be accepted as non-business income taxes for the purposes of the foreign tax credit. The technical interpretations regarding the tax treatment of social security contributions in France and Germany as foreign tax credits are thus obsolete and unreliable.
+
+## Question 2
+
+What about social security taxes in the U.S.?
+
+## Response 2
+
+The general rule is that social security taxes will no longer be regarded as non-business income taxes for the purposes of the foreign tax credit. However, in the Canada-U.S tax convention, Canada has specifically agreed to give a foreign tax credit for payments under the *Federal Insurance Contributions Act*, more commonly known as FICA taxes. So in accordance with our tax treaty with the U.S., we will continue to allow a foreign tax credit for FICA taxes.
+
+## Question 3
+
+Can you explain the reasons for the change in the general position?
+
+## Response 3
+
+The position in Interpretation Bulletin IT-122R2 that U.S. social security taxes collected under the U.S. *Federal Insurance Contributions Act* are income or profits taxes was based on the *Seley* [13](#P242_43890) case, a 1962 decision of the Tax Appeal Board. The Board held that the social security contributions paid by a Canadian taxpayer to the U.S. qualified as an income or profits tax for the purposes of the foreign tax credit. The Department of National Revenue accepted that decision and this was reflected in IT-122R2. However, our reliance on the Seley case was reconsidered in light of the fact that Canadian courts have accepted as authority (as was notably the case recently in *Frank Yates* [14](#P243_44444)), the meaning of the word “tax” given by the Supreme Court of Canada in *Lawson* [15](#P244_44594). In that case, the Supreme Court said:
+
+*A tax is a levy, enforceable by law imposed under the authority of a legislature, imposed by a public body and levied for a **public purpose**.*
+
+This judicial interpretation of the meaning of the word “tax” by the Supreme Court has been cited on several other occasions. Since a payer of social security derives specific economic benefits from his contributions, the amount cannot be said to be levied for a public purpose, and therefore it cannot be an income or profits tax. For this reason, social security contributions generally do not qualify as income or profits taxes because they are not really taxes at all, within the judicially accepted meaning of that term.
+
+## Question 4
+
+Is this change effective for the 2003 taxation year of taxpayers?
+
+## Response 4
+
+In order to give us enough time to inform the public adequately and for administrative ease, the new position will only be applied for the year 2004 and subsequent taxation years. IT-122R2 is being cancelled and it is expected that the change in position will be explained in a Technical Newsletter.
+
+## Restricted Farm Losses (Section 31)
+
+Recently, the Federal Court of Appeal has considered two cases dealing with whether the deductibility of farm losses would be restricted by section 31 of the *Income Tax Act*. In *Kroeker v. The Queen* [16](#P253_45941), the appellant and her husband lived on a farm, which they had purchased in 1982, and operated as a partnership. From 1987 to 1992, the appellant worked, full-time, as a controller with a farm implement manufacturing company, while her husband tended to the farm. The farm was a combination grain and cattle operation. The appellant stated that, from 1989 to 1992, there had been a shift in the focus of the farming operation to cattle from grain, which had proven to be unreliable. From 1993 to 1995, the farm had generated losses ranging from about $4,200 to over $42,000 on gross farming revenue of between $83,000 and $108,000. The appellant deducted her share, 50%, of the losses against her net income. The CCRA applied subsection 31(1) of the Act on the basis that there was no evidence that the farm partnership could reasonably be expected to provide to the taxpayer “substantial” profits from farming. The Federal Court of Appeal found that the losses were fully deductible because the appellant's time, capital, and labour were focussed on the farm, and the farm actually made a profit in 1998.
+
+In *Taylor v. The Queen* [17](#P255_47136), the appellant had operated the family farm since 1971. From 1987 to 1998, the appellant had gross farm income of between $22,000 and $88,000 and net farm losses of between $2,500 and $50,000. The appellant had also been employed on a full-time basis with a gas refinery for many years. The farm was originally a cattle operation, which had grown from five head of cattle to over one hundred head. The farm changed to a haying operation in 1997 after the cattle were sold due to a bacterial infection. The appellant had invested over $300,000 in the farm, and devoted more time to the farm than to his employment. The CCRA restricted the deductibility of the farm loss under subsection 31(1) of the Act. However, the Federal Court of Appeal found that the losses were fully deductible, consistent with its decision in *Kroeker*.
+
+## Question 1
+
+In light of the decisions in *Kroeker* and *Taylor*, would the CCRA comment on its position with respect to the application of section 31 to farm losses?
+
+## Response 1
+
+We feel that the decisions in the *Kroeker* and *Taylor* cases were based on the particular facts of each case. The rationale used by the court in its analysis of the facts was not inconsistent with our overall approach on determining whether farming, either alone or in combination with another source, constitutes a taxpayer's chief source of income.
+
+In its analysis, the court commented on the time spent in the farming operation, capital committed to the operation, and actual and potential profitability of the farm. These factors were set down by the Supreme Court in *Moldowan v. The Queen* [18](#P261_48790), and are used by the CCRA to determine whether farming is the chief source of income for the taxpayer.
+
+The decisions, however, highlight the fact that it may be appropriate in certain cases to place more attention on time and capital committed when making the determination.
+
+## Question 2
+
+What approach is taken by the CCRA in determining the deductibility of farm losses?
+
+## Response 2
+
+The review of farm losses is a two-step process.
+
+First, we look at the losses to determine if they arise from an income source. If there is no source, then the losses would not be deductible.
+
+Secondly, if the losses are determined to be from a source, then we would consider whether that source, either alone or in combination with another source, constitutes the taxpayer's chief source of income. If it does not, then the losses would be restricted by section 31 of the Act.
+
+## Question 3
+
+In light of the Supreme Court decisions in the *Stewart* [19](#P271_49772) and *Walls* [20](#P272_49853) cases, how would the CCRA evaluate farm losses to determine if they arise from an income source?
+
+## Response 3
+
+Consistent with the approach taken by the Supreme Court in the *Stewart* and *Walls* cases, we would consider whether the farming activities were undertaken in pursuit of profit, or whether they were simply a personal endeavour. Where there is a personal element to the farming activity, then it must be determined whether the operation is carried out in a sufficiently commercial manner. If so, then any loss arising from these activities would be considered to have arisen from a source of income.
+
+In order to determine whether the farm activities are carried out in a commercial or business-like manner, we would look at all of the facts including the following:
+
+- Amount of capital invested in the farming infrastructure and machinery;
+
+- Taxpayers background and experience in farming;
+
+- Time spent on farming;
+
+- Capability of the operation to show a profit;
+
+- The taxpayers operational plan or intended course of action with respect to the farm;
+
+- The gross revenue and income or losses generated by the farm in the past;
+
+- The scale and manner in which the farm is operated as compared to other commercial farming operations in the area.
+
+## Question 4
+
+If the farming operation is carried on in pursuit of profit, how will the CCRA determine if the losses would be restricted by section 31 of the Act?
+
+## Response 4
+
+In order to establish whether farming constitutes a taxpayer's chief source of income, we would compare the farming operation to the taxpayer's other income sources in terms of time spent on farming, capital committed to the farm operation, and the actual or potential profitability of the farm. All three factors must be weighed, with no one factor alone being decisive.
+
+However, in determining the weight to be given to each factor, we would look at the taxpayer's normal lifestyle. If the taxpayer has a farming background and his or her lifestyle revolves around the farm, then time spent on, and capital committed to, farming have greater significance. For example, this would be the case where a second-generation farmer takes a job to supplement his or her farming income.
+
+On the other hand, where the taxpayer's normal lifestyle is not farming, then profitability assumes more importance. This would be the case where a taxpayer, who has ongoing income from employment, a profession, or a pension, has decided to start farming after establishing a non-farming career or retiring. In this situation, the most important consideration is whether the farm has generated, or can be expected to generate enough income to support the taxpayer's lifestyle.
+
+## Question 5
+
+In *Donnelly v. The Queen* [21](#P291_52623), the Federal Court of Appeal found that there must be a “reasonable expectation of substantial profit” in order for farming to be considered the taxpayer's chief source of income. In the *Kroeker* decision, the Court appears to distinguish *Donnelly* as applying only to cases where horses are raised for racing. In this context, would the CCRA comment on what approach would be taken in situations involving full-time employees, or professionals, who incur losses from the raising of racehorses?
+
+## Response 5
+
+We would use the two-step approach outlined above to evaluate the deductibility of losses from a horse racing operation.
+
+In our view, when a full-time employee, or professional, starts raising horses for racing, there is likely a strong personal or “hobby” element to such activities. Therefore, in determining whether the horse racing operation is carried out in pursuit of profit, we would look at all of the facts, including those listed in Question 3 above, to establish if the activity is carried out in a sufficiently commercial manner.
+
+Secondly, in determining whether the activity constitutes the taxpayer's chief source of income, we would consider the time spent on the activity, the capital committed to the operation, and the actual and potential profitability of the operation. Since the taxpayer's normal mode of lifestyle is not focussed on farming in the situation presented, the most important factor would be the actual and potential profitability of the operation. In this context, the comments in *Donnelly* are relevant, and we would consider whether the horse racing operation could be expected to generate substantial profits in relation to the taxpayer's other income sources.
+
+**Footnotes**
+
+1 *Kenneth B.S. Robertson Ltd. v. M.N.R.*, 2 DTC 655 (Exch. Ct.).
+
+2 *Blue Mountain Resorts Limited v. The Queen*, 2002 DTC 1886; [2002] 4 CTC 2016 (TCC).
+
+3 *Deputy Minister of Revenue for Quebec v. Compagnie Meloche inc.*, 2002 DTC 7169 (Q.C.A.).
+
+4 *Burrard Yarrows Corporation v. The Queen*, 86 DTC 6459, at 6463; [1986] 2 CTC 313 (FCTD); affirmed at 88 DTC 6352; [1988] 2 CTC 90 (FCA).
+
+5 *Ikea Limited v. The Queen*, 98 DTC 6092; [1998] 2 CTC 61 (SCC).
+
+6 *Dixie Lee (Maritimes) Ltd. v. The Queen*, 88 DTC 6108; [1988] 1 CTC 193 (FCTD), affirmed at 91 DTC 5518; [1991] 2 CTC 167 (FCA).
+
+7 *General Electric Capital Equipment Finance Inc. v. The Queen*, 2002 DTC 6734; [2002] 1 CTC 217 (FCA).
+
+8 *Terrance G. Archbold v. The Queen*, [1995] 1 CTC 2872. (DTC unavailable).
+
+9 *Crestglen Investments Limited v. MNR*, 93 DTC 462; [1993] 2 CTC 3210 (TCC). It is important to note that the prohibition against entering into a contract with oneself may be overridden by statute. For example, section 60 of the *Partnership Act* (Alberta), section 60 of the *Partnership Act* (Saskatchewan) and section 13 of the *Limited Partnership Act* (Nova Scotia) authorize a limited partner to loan money to and transact other business with the limited partnership. See also paragraph 12(2)(b) of the *Limited Partnership Act* (Ontario) which authorizes a limited partner to act as a contractor for the limited partnership.
+
+10 *Shell Canada Ltd. v. The Queen*, 99 DTC 5669; [1999] 4 CTC 313 (SCC).
+
+11 *C.R.B. Logging Co. Ltd. v. The Queen*, 2000 DTC 6547; [2000] 4 CTC 157 (FCA).
+
+12 *Dr. Syed Ahmad v. The Queen*, 2002 DTC 2065; [2002] 4 CTC 2497 (TCC).
+
+13 *Charles E. Seley v. MNR*, 62 DTC 565 (TAB) (CTC unavailable).
+
+14 *Frank Yates v. Her Majesty The Queen*, 2001 DTC 761 (CTC unavailable).
+
+15 *Lawson*, [1931] S.R.C. 357.
+
+16 *Anna Kroeker v. The Queen*, 2002 DTC 7436; [2003] 1 CTC 183 (FCA).
+
+17 *Ken M. Taylor v. The Queen*, 2002 DTC 7596; [2003] 1 CTC 318 (FCA).
+
+18 *William Moldowan v. The Queen*, 77 DTC 5213; [1977] CTC 310 (SCC).
+
+19 *Brian J. Stewart v. The Queen*, 2002 DTC 6969; [2002] 3 CTC 439 (SCC).
+
+20 *The Queen v. Jack Walls and Robert Buvyer*, 2002 DTC 6960; [2002] 3 CTC 421 (SCC).
+
+21 *The Queen v. Andrew Donnelly*, 97 DTC 5499; [1998] 1 CTC 23 (FCA).

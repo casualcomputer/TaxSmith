@@ -1,0 +1,577 @@
+Title: Calculating Input Tax Credits
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-3/calculating-input-tax-credits.html
+Corpus path: corpus/cra/forms-publications/publications/8-3/calculating-input-tax-credits.md
+Document type: publication
+Last modified: 2014-08-07
+
+# Calculating Input Tax Credits
+
+GST/HST memorandum 8.3 August 2014
+
+This version replaces the one dated February 2012.
+
+This memorandum explains the general method for calculating input tax credits (ITCs) as provided for under the *Excise Tax Act* (Act). It sets out the requirement to apportion goods and services between commercial and non-commercial activities, and outlines methods for doing so. It also explains the rules affecting ITCs in respect of improvements to capital property as well as those for leases and ongoing services.
+
+This publication does **NOT** apply to financial institutions. For information on how to calculate ITCs for financial institutions, refer to the following GST/HST Memoranda: [17-11, Determining Whether a Financial Institution is a Qualifying Institution for Purposes of Section 141.02](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-11.html), [17-12, Input Tax Credit Allocation Methods for Financial Institutions for Purposes of Section 141.02](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-12.html), and [17-13, Application of Section 141.02 to Financial Institutions That Are Qualifying Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-13.html).
+
+**Disclaimer** The information in this publication does not replace the law found in *the Excise Tax Act* (the Act) and its regulations; it is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate regulation, or contact any GST/HST rulings centre for additional information. A ruling should be requested for certainty in respect of any particular GST/HST matter. [GST/HST Memorandum 1.4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling and lists the GST/HST rulings centres.
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario, New Brunswick and Newfoundland and Labrador, 14% in Prince Edward Island and 15% in Nova Scotia. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, see [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please contact Revenu Québec at 1-800-567-4692. You may also visit the Revenu Québec website at [www.revenuquebec.ca](http://www.revenuquebec.ca/en/) to obtain general information.
+
+## Table of Contents
+
+- [General](#_Toc393887145)
+
+- [How to calculate ITCs](#_Toc393887146)
+
+- [Methods of allocation](#_Toc393887147)
+
+- [ITCs for improvements to capital property](#_Toc393887148)
+
+- [ITCs for leases of property or for ongoing services](#_Toc393887149)
+
+## General
+
+1. Under section 169, most registrants who make taxable supplies in the course of their commercial activities are eligible to recover the GST/HST that they incur by means of the ITC mechanism. The criteria for determining whether a person can claim an ITC are outlined in [GST/HST Memorandum 8.1, General Eligibility Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1.html). Where persons have satisfied all of the criteria for claiming an ITC, they must then determine how to calculate the amount of that ITC.
+
+2. Generally, a person is only eligible to claim an ITC that is equal to the proportion of the tax paid or payable with respect to the acquisition, importation or bringing into a participating province of property or a service that represents the extent that the property or service is for consumption, use or supply in the course of the commercial activities of the person.
+
+## How to calculate ITCs
+
+### General rule
+
+3. As per subsection 169(1), where a person meets the criteria for claiming an ITC, the amount of the ITC is generally determined by the formula:
+
+A × B
+
+where
+
+A is the tax in respect of the supply, importation or bringing into a participating province that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+
+B is
+
+1. where the tax is deemed under subsection 202(4) to have been paid in respect of a passenger vehicle or aircraft (“the property”) on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) that the person used the property in the course of its commercial activities during that taxation year,
+
+2. where the property or service is acquired, imported or brought into the province by the person for use in improving capital property of the person, the extent (expressed as a percentage) that the person was using the capital property in the course of its commercial activities immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+
+3. in any other case, the extent (expressed as a percentage) that the person acquired or imported the property or service or brought it into the participating province, for consumption, use or supply in the course of its commercial activities.
+
+#### Element A
+
+4. Element A of the formula is equal to the tax paid or payable in respect of the supply, importation or bringing into a participating province. This amount is based on the applicable rate of the GST/HST.
+
+5. In certain cases, the legislation deems a person to have paid tax. Where the person is eligible to claim an ITC, the amount of deemed tax will be the amount that is included in element A of the formula to determine the amount of the person’s ITC in that case. For example, where a registrant that is an individual or a partnership at any time acquires or imports a passenger vehicle or aircraft (“the property”), or brings it into a participating province, for use as its capital property, but not for use exclusively in its commercial activities, and tax is payable by the registrant, for purposes of determining an ITC, the registrant is deemed to have acquired the property on the last day of each taxation year ending after that time and to have paid tax on that day. The amount of deemed tax is determined in accordance with the formula included in subsection 202(4). The amount of deemed tax is then included in element A of the formula for calculating ITCs described in paragraph 3 of this memorandum to determine the amount of the ITC that could be claimed by the individual or partnership.
+
+6. For further information about a person’s liability to pay tax, refer to [Chapter 3, Tax on supplies](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst/gst-hst-memoranda-series.html), of the GST/HST Memoranda Series.
+
+#### Paragraph (a) of element B – passenger vehicle or aircraft
+
+7. Where a registrant that is an individual or a partnership acquires or imports a passenger vehicle or aircraft (“the property”), or brings it into a participating province, for use as capital property otherwise than exclusively in the course of its commercial activities, element B of the formula A × B is the extent to which the registrant used that property in the course of its commercial activities during a taxation year. The extent of use is expressed as a percentage of the total use of the property in the course of the commercial activities and businesses of the person during that taxation year.
+
+8. More information about ITCs respecting passenger vehicles and aircraft is provided in [GST/HST Memorandum 8.2, General Restrictions and Limitations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-2.html).
+
+#### Paragraph (b) of element B – improvements to capital property
+
+9. Where a person has acquired or imported property or a service, or brought into a participating province, for use in improving capital property (see the definition of capital property in paragraph 61) of the person, element B is the extent (expressed as a percentage) to which the person was using the capital property in the course of its commercial activities immediately after the capital property, or a portion of it, was last acquired or imported by the person prior to the improvement. As a result, a person may be eligible to claim an ITC for the tax payable on the improvement.
+
+#### Paragraph (c) of element B – other cases
+
+10. Where paragraphs 7 to 9 above do not apply, element B is the extent to which the property or service is acquired, imported or brought into a participating province for consumption, use or supply in the course of the person’s commercial activities.
+
+11. There are particular rules that apply in determining ITCs for capital property. For information regarding ITCs on capital personal property, see [GST/HST Memorandum 8.1, General Eligibility Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1.html). For information regarding ITCs on improvements to capital property, see paragraphs 59 to 69. For information with respect to ITCs and capital real property, refer to [Chapter 19, Special Sectors – Real Property](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst/gst-hst-memoranda-series.html), of the GST/HST Memoranda Series.
+
+### Use or purpose for the supply
+
+#### Exclusively in commercial activities
+
+12. Generally, a registrant will be eligible to claim an ITC equal to 100% of the GST/HST paid or payable on taxable[Footnote1](#fn1) inputs under the formula A × B, where the consumption, use or supply of property or a service is exclusively in commercial activities, or is deemed to be exclusively in commercial activities, of the person and where all other conditions for claiming an ITC are met.
+
+13. If a person is involved in making both taxable and exempt supplies, the person has to determine the percentage of consumption or use, or intended consumption or use, in the course of the person’s commercial activities of each property or service acquired for consumption or use.
+
+#### Use or intended use in commercial activities (other than financial institutions)
+
+14. Under subsections 141(1) and (2), where substantially all (i.e., 90% or more) of the consumption or use of property or a service (or intended consumption or use) by a person, other than a financial institution, is in the course of its commercial activities, all of the consumption or use of the property or service is deemed to be in the course of those activities. As a result, where a person has satisfied all of the criteria for claiming an ITC, the person may claim an ITC equal to 100% of the tax paid or payable in respect of the property or service.
+
+#### Use or intended use in non-commercial activities (other than financial institutions)
+
+15. By contrast, under subsections 141(3) and (4), where substantially all of the consumption or use of property or a service (or intended consumption or use) by a person, other than a financial institution, is in the course of activities other than commercial activities, all of the consumption or use is deemed to be in the course of these activities. As a result, a person will not be eligible to claim an ITC for the tax paid or payable in respect of the property or service.
+
+16. Where the extent of consumption or use of property (other than capital property) or a service in commercial activities is less than 90% but more than 10%, a person may be eligible to claim an ITC based on the extent to which the property or service is for consumption or use in the course of its commercial activities.
+
+#### For the purpose of making taxable supplies for consideration
+
+17. Property and services acquired, imported or brought into a participating province by a person for consumption or use in the course of an endeavour of the person are deemed, under paragraph 141.01(2)(a), to be acquired, imported or brought in for consumption or use in the person’s commercial activities to the extent that the property or services are acquired, imported or brought in for the purpose of making taxable supplies for consideration in the course of that endeavour.
+
+18. The term “endeavour” of a person, as defined in subsection 141.01(1), means a business of a person, an adventure or concern in the nature of trade of a person, or the making of a supply by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply. The exclusions contained in the definition of commercial activity with respect to a reasonable expectation of profit by an individual, a personal trust or a partnership all the members of which are individuals and to the extent to which any exempt supplies are made in the course of that activity are not included in the definition of the term “endeavour”.
+
+#### For other purposes
+
+19. Property or services are deemed, under paragraph 141.01(2)(b), to have been acquired, imported or brought into a participating province for consumption or use otherwise than in the course of a person’s commercial activity to the extent that the property or services are acquired, imported or brought into a participating province for the purpose of making supplies in the course of an endeavour of the person that are not taxable supplies for consideration, or for a purpose other than the making of supplies in the course of that endeavour.
+
+##### Example
+
+A non-profit organization that is involved in lobbying for particular causes, but does not make taxable supplies for consideration is not eligible to claim ITCs because the property or services it acquires for consumption or use in the course of its activities are deemed to be for consumption or use otherwise than in commercial activities.
+
+20. A person is eligible to claim an ITC in respect of property or a service only to the extent that it has been acquired, imported or brought into a participating province for the purpose of making taxable supplies for consideration. The definition of “consideration” in subsection 123(1) includes any amount that is payable for a supply by operation of law.
+
+#### Nominal consideration
+
+21. Subsection 141.01(1.1) provides that, for purposes of determining the extent of use in subsections 141.01(1.2) to (3), supplies for nominal consideration are treated the same as supplies for no consideration. The term “nominal consideration” is not defined in the Act. A determination of whether a supply is made for nominal consideration will be based on the facts of the individual case. Where a person makes a taxable supply for no consideration, the person is not eligible to claim any ITCs on the property or services consumed or used in the course of that endeavour with the exception of certain free supplies as explained in paragraphs 29 and 30.
+
+22. There are a number of provisions in the Act that establish the value of the consideration for a supply in particular circumstances. For example, under subsection 153(1), where the consideration or a part of the consideration is expressed in money, the value of the consideration or that part is deemed to be equal to the amount of the money and, where the consideration or part is other than money, the value of the consideration or that part is deemed to be equal to the fair market value of the consideration or that part at the time the supply was made.
+
+23. In addition, under subsection 155(1), generally, where a taxable supply of property or a service is made for no consideration or for consideration that is less than the fair market value of the property or service at the time the supply is made between persons not dealing with each other at arm’s length, and the recipient of the supply is not a registrant who is acquiring the property or service for consumption, use or supply exclusively in the course of its commercial activities, the consideration for the supply is deemed to be the fair market value of the property or service at that time. As a result, where the supplier has met the other requirements for claiming an ITC, the supplier will be eligible to claim ITCs on its taxable inputs related to the taxable supply made for the deemed consideration (i.e., the fair market value of the supply) to the extent that these inputs are acquired for the purpose of making taxable supplies for consideration.
+
+#### Grants and subsidies
+
+24. Please see paragraphs 28 to 30 of [GST/HST Memorandum 8.1, General Eligibility Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1.html), for an explanation of when grants and subsidies may be regarded as consideration for taxable supplies for purposes of calculating the extent to which property or a service was acquired, imported or brought in for consumption or use in the course of a person’s commercial activity, as per subsection 141.01(1.2).
+
+#### Purpose of acquisition
+
+25. Pursuant to subsection 141.01(2), when determining if property or a service has been acquired, imported or brought into a participating province for consumption or use for the purpose of making a taxable supply for consideration, a registrant must:
+
+- determine the intent for acquiring, importing or bringing into the participating province the property or service;
+
+- determine the extent that the property or service was acquired, imported or brought into the participating province for the purpose of making taxable supplies for consideration and for other purposes; and
+
+- determine the tax status of the first-order supplies made by the registrant for which purpose the property or service was acquired, imported or brought into the participating province.
+
+#### Intent
+
+26. The purpose for which property or a service is acquired, imported or brought into a participating province is not dependent on whether a registrant is actually making taxable supplies for consideration at the time the test is applied (i.e., at the time the property or service is acquired). Rather, it is forward-looking and based on the intention of the registrant to make taxable supplies with those particular inputs. Actual consumption or use may help clarify what the intention was at the time of acquisition.
+
+##### Example 1
+
+An individual registrant operates an advertising agency in Alberta as a sole proprietorship and is engaged exclusively in a commercial activity. In the current reporting period, the individual purchases the following taxable supplies in relation to the activity:
+
+- accounting services,
+
+- rent,
+
+- electric power,
+
+- poster stock (the project for which the poster stock was ordered was later cancelled and the stock will not be used for at least another nine months), and
+
+- DVDs.
+
+The individual claims 100% of the GST paid or payable as an ITC in the return for the period. Since the individual acquired the poster stock with the intention of using it exclusively for the purpose of making taxable supplies for consideration, the ITC eligibility remains, notwithstanding that the individual will not consume or use the stock immediately.
+
+##### Example 2
+
+A university acquires laboratory equipment for use by its professors in providing tax-exempt educational instruction. When the university acquired the equipment this year, it also intended to make taxable supplies for consideration of a certain percentage of the equipment to its students. Consequently, the university can claim an ITC with respect to the GST/HST payable on the laboratory equipment it intends to sell. Should the university not sell the equipment and, instead, appropriate it for use as capital property to provide exempt supplies, the university will be deemed to have sold the equipment and collected tax on the sale. It will also be deemed to have purchased the property and paid tax on the purchase. The tax considered to have been collected and paid would be equal to the tax on the fair market value of the equipment at the time it is appropriated as capital property.
+
+#### First-order supplies
+
+27. Where inputs are acquired, imported or brought into a participating province for consumption or use for the purpose of making a particular supply (the first-order supply), and the first-order supply is made for the purpose of making another supply (the secondary supply), it is the tax status of the first-order supply that determines whether the inputs are for consumption or use in a commercial activity.
+
+##### Example
+
+A public institution that is not a financial institution makes certain taxable supplies for consideration, and the profits are used to support the public institution’s exempt activities. Property and services acquired for consumption or use in making those taxable supplies are considered to have been acquired for the purpose of making taxable supplies for consideration. The public institution would generally be eligible to claim ITCs for the GST/HST paid or payable on the property and services acquired for consumption or use in making those taxable supplies where all other ITC conditions are met.
+
+#### Actual consumption or use
+
+28. While the above discussion is phrased in terms of the intended consumption or use of property or services, some of the same points raised apply to actual consumption or use of property or services, which is determined in accordance with subsection 141.01(3). A determination of the actual consumption or use of property or services is necessary to apply those provisions (e.g., change-in-use rules for capital property) that are dependent on whether, and to what extent, properties or services are, at any particular time, consumed or used in commercial activities.
+
+#### Free supplies
+
+29. In general, registrants are eligible to claim ITCs in respect of the tax paid or payable on taxable property and services to the extent that they are acquired, imported or brought into a participating province for the purpose of making taxable supplies for consideration in the course of their endeavour. However, registrants may be eligible to claim ITCs with respect to property or services supplied for nominal or nil consideration (referred to as free supplies) depending on the purpose for which the free supply is made.
+
+30. More specifically, subsection 141.01(4) provides that a free supply is a taxable supply made in the course of a particular endeavour for no consideration or nominal consideration where it can reasonably be regarded that one of the purposes (referred to as the “specified purpose”) of the supply is to facilitate, further or promote the acquisition, consumption or use of other property or services by any other person, or an endeavour of any person. Where these conditions are met, to the extent that the supplier acquired or imported a particular property or brought it into a participating province for the purpose of making the free supply of that property or service or for consumption or use in the course of making the free supply, the supplier is deemed, for the purposes of determining the extent of use in subsection 141.01(2), to have acquired or imported the particular property or service or brought it into the province, as the case may be, for use in the course of the particular endeavour, and for the specified purposes (e.g., promoting another property or service) and not for the purpose of making the free supply. Similarly, where the above conditions are met, to the extent that the supplier consumed or used a particular property or service for the purpose of making the free supply, the supplier shall be deemed, for the purposes of subsection 141.01(3), to have consumed or used the particular property or service for the specified purposes.
+
+##### Example
+
+If a doctor provides free calendars (i.e., a taxable supply) to patients who have an annual physical (i.e., an exempt supply), the doctor is not eligible to claim any ITCs for the tax payable on the purchase of the calendars. However, if a commercial real estate company gives away a similar promotional item to clients, it will be considered to have acquired the item for the purpose of making a taxable supply for consideration where the calendar is given away to promote the acquisition of the taxable services of the real estate company. Therefore, the commercial real estate company would be eligible to claim the related ITCs where all other ITC conditions are met.
+
+#### Interaction with other provisions of the Act
+
+31. Under subsection 141.01(6), where a particular provision of the Act deems certain circumstances to exist [other than subsections 141.01(2) to (4)], and the existence of these deemed circumstances is dependent on the extent to which property or a service was consumed, used, acquired, imported or brought into a participating province for the consumption or use in the course or other than in the course of a commercial activity, then subsections 141.01(2) and 141.01(3) apply to determine that extent. Once that determination of the extent of use has been made under subsections 141.01(2) or (3) and if the condition regarding the extent of use in the particular provision is met, and all other circumstances necessary for that provision to apply exist, then the particular provision applies, notwithstanding subsections 141.01(2) and (3).
+
+##### Example
+
+Paragraph 199(2)(b) deems a registrant (other than a financial institution) to have acquired, imported or brought into a participating province capital personal property (other than a passenger vehicle or an aircraft of a registrant who is an individual or a partnership) for use exclusively in commercial activities if the registrant acquired, imported or brought into a participating province the property for use primarily (more than 50%) in commercial activities. By virtue of the rule contained in subsection 141.01(6), subsection 141.01(2) applies to determine whether the condition that the property was acquired, imported or brought into a participating province primarily for use in commercial activities is satisfied.
+
+In this example, assume that it is determined under subsection 141.01(2) that the capital personal property that is neither a passenger vehicle nor an aircraft was acquired by the registrant, which is not a financial institution, to be used 60% in commercial activities. If only subsection 141.01(2) applied, the registrant would only be eligible to claim an ITC on 60% of the GST/HST paid or payable on the property. However, the rule under subsection 141.01(6) provides that, having determined under subsection 141.01(2) that the property was acquired for use primarily (in this case, 60%) in commercial activities, the deeming under paragraph 199(2)(b) applies so that the registrant is considered to have acquired the property for use exclusively in commercial activities, and is therefore eligible to claim an ITC equal to 100% of the GST/HST paid or payable, provided that the other requirements for claiming an ITC are met.
+
+#### Deemed consideration
+
+32. Subsection 141.01(7) provides that where any provision deems a supply not to have been made by a person, deems a supply to have been made for no consideration, or deems the consideration for a supply not to be consideration for the supply, that deeming does not apply for the purposes of subsections 141.01(1) to (4), and therefore does not affect the person’s ability to claim ITCs.
+
+##### Example
+
+Under section 135, where a public sector body makes a supply of a service (other than certain advertising services), or a right to use its copyright, trademark, trade-name or similar property, to a sponsor of an activity of the body to publicize the sponsor’s business, it is deemed not to be a supply. Therefore, if a sponsor contributes $10,000 to a non-profit organization and, in return, receives promotional services from the non-profit organization that meet the requirements of section 135, the supply of the promotional services will be deemed not to be a supply. In this example, pursuant to subsection 141.01(7), the deeming provisions of section 135 will not apply for purposes of subsections 141.01(1) to (4), so the public sector body will be eligible to claim ITCs for costs incurred for the promotional services in the normal manner where the supply of the promotional services by the non-profit organization is taxable.
+
+## Methods of allocation
+
+### Types of inputs
+
+33. When an allocation of the consumption or use of property and services is necessary for the purposes of determining an ITC, it may be appropriate to view the property and services as falling into two main categories:
+
+- single-use property and services (inputs) for consumption or use exclusively in a particular activity (i.e., either in making taxable supplies for consideration or otherwise than in making taxable supplies for consideration);
+
+- multiple-use inputs for consumption or use in more than one kind of activity (i.e., both in making taxable supplies for consideration and otherwise than in making taxable supplies for consideration).
+
+#### Single-use inputs
+
+34. Single-use inputs are property and services acquired, imported or brought into a participating province on which the tax has been paid or is payable, and that are for consumption or use entirely in one of the following activities:
+
+- making taxable (including zero-rated) supplies for consideration – generally ITCs equal to 100% of the GST/HST paid or payable may be claimed;
+
+- making exempt supplies – generally no ITC may be claimed; or
+
+- an activity undertaken for a purpose other than making supplies for consideration in the course of the person’s endeavour – generally no ITC may be claimed (e.g., property acquired for personal use by a sole proprietor).
+
+#### Multiple-use inputs
+
+35. Multiple-use inputs are property and services acquired, imported or brought into a participating province on which the tax has been paid or is payable, and that are for consumption or use directly or indirectly in more than one of the following activities:
+
+- making taxable (including zero-rated) supplies for consideration;
+
+- making exempt supplies; and
+
+- an activity undertaken for a purpose other than making supplies for consideration in the course of the person's endeavour.
+
+##### Example
+
+A registrant non-profit organization has a mandate to promote the arts in a particular community. The non-profit organization develops a program consisting of supervised instructional classes in which children (14 years of age and under) learn painting techniques. This supply is determined to be an exempt supply. The non-profit organization also sells arts and crafts supplies that it purchases to resell at a higher price, supplies of which are determined to be taxable supplies. The non-profit organization purchases a single supply of art paper to use in teaching painting techniques and to sell as arts and crafts supplies. The art paper is a multiple-use input because it is for use in making both taxable supplies for consideration and exempt supplies.
+
+#### Allocating costs – single-use inputs
+
+36. There is no apportionment of ITCs for single-use inputs; either an ITC equal to 100% of the GST/HST paid or payable or no ITC is available.
+
+##### Example
+
+A registrant that is a retailer of electronics acquires televisions for the purpose of making taxable supplies of the televisions for consideration. The registrant has acquired the televisions exclusively for the purpose of making supplies in the course of a commercial activity, and will generally be eligible to claim an ITC equal to 100% of the GST/HST paid or payable where the other requirements for claiming an ITC are met.
+
+#### Allocating costs – multiple-use inputs
+
+37. Once all the single-use inputs are identified, it is necessary to consider the remaining tax that was incurred on multiple-use inputs. An allocation method must be adopted to apportion the ITCs.
+
+### Method of determining extent
+
+38. Except in the case of financial institutions, which are subject to section 141.02, the legislation does not specify any method or formula that must be used to allocate property or services that have been acquired, imported or brought into a participating province for consumption or use partly in the commercial activities of a registrant and partly for other purposes. However, subsection 141.01(5) provides that, subject to section 141.02, the methods used by a registrant in determining the extent to which property or services are acquired, imported or brought into a participating province by the registrant, or consumed or used by the registrant for the purpose of making taxable supplies for consideration, or for any other purpose, must be fair and reasonable and used consistently throughout the registrant’s fiscal year.
+
+39. The terms “fair” and “reasonable” are not defined in the Act.
+
+#### Fair
+
+40. The word “fair” generally means equitable, impartial, objective, unbiased and consistent with the applicable rules. As a result, a fair ITC allocation method should allocate each input to the purposes for which the input was acquired (i.e., the purpose of making taxable supplies for consideration and purposes other than making taxable supplies for consideration such as the purpose of making exempt supplies or a purpose other than making supplies) in a manner that is objective, equitable, impartial, unbiased and that is consistent with the requirements of the ITC provisions.
+
+41. An ITC allocation method designed to achieve a particular result that leads to a higher ITC than an objective review of the facts would substantiate is not a fair ITC allocation method. If assumptions are required to arrive at an ITC allocation method or to use that allocation method, those assumptions must be probable and not merely possible, for the ITC allocation method to be considered fair.
+
+#### Reasonable
+
+42. The word “reasonable” generally means logical, rational, sensible, based on reason and within the bounds of common sense. As a result, a reasonable ITC allocation method should allocate each input to the purposes for which the input is acquired (i.e., the purpose of making taxable supplies for consideration and purposes other than making taxable supplies for consideration such as the purpose of making exempt supplies or a purpose other than making supplies) in a manner that is logical, rational, sensible, based on reason and within the bounds of common sense. An ITC allocation method that is reasonable should logically link the input to the purposes for which it is acquired.
+
+#### Fair and reasonable
+
+43. ITCs are generally only available on inputs that are for consumption or use in making taxable supplies for consideration and only to the extent that the inputs are for the purpose of making taxable supplies for consideration. Fairness requires that the ITC allocation method be designed to reflect the actual purposes, for which the inputs are acquired, in an objective manner. Reasonableness also requires that the ITC allocation method be consistent with the nature of the registrant’s activities and intended use of the inputs.
+
+44. Tracking the use of each input and the extent to which this use is for the purpose of making taxable supplies for consideration is a means of determining the extent to which a particular input is for consumption or use in making taxable supplies for consideration that would be an objective, unbiased or fair method. Such a method would also be a logical or reasonable method. In order to be fair and reasonable, any method other than tracking the use of inputs should reasonably approximate the actual use of the inputs.
+
+45. The Act generally provides that an ITC is only available on an input that is for consumption or use in making taxable supplies for consideration, which excludes the making of exempt supplies. A fair and reasonable ITC allocation method would generally only allow ITCs on inputs for consumption or use in making taxable supplies for consideration unless a specific exception applies [e.g., subsection 141.01(1.2)]. As a result, in the absence of a specific exception, an ITC allocation method that allows ITCs to be claimed on inputs that are for consumption or use otherwise than in making taxable supplies for consideration would not be a fair and reasonable ITC allocation method.
+
+46. A fair and reasonable allocation method must reflect the purposes for which the property or service was acquired, having regard to the nature of the registrant's activities. If a particular method accurately reflects the purpose for which the property or service was acquired, the method would be fair and reasonable.
+
+47. Where a method is used to allocate the extent of use of a property or service for the purpose of determining an ITC, the requirements discussed in [GST/HST Memorandum 8.4, Documentary Requirements for Claiming Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-4.html), provide that the registrant must identify the method used and maintain information to support that the method used is fair and reasonable in the circumstances, and it must be used consistently throughout its fiscal year.
+
+##### Example 1
+
+A public institution has a mandate to provide exempt supplies. The public institution’s revenues are as follows:
+
+- 95% government funding (that is not consideration for a supply) to assist in its mandate;
+
+- 0.5% consideration charged to persons who receive exempt supplies; and
+
+- 4.5% consideration for taxable supplies which are made to provide additional funding to support its mandate.
+
+The public institution used a revenue-based ITC allocation method (i.e., an output-based method) which did not include the amount of government funding in the calculation and claimed ITCs equal to 90% (4.5%/5%) of the GST/HST paid or payable on taxable inputs.
+
+If the public institution claimed ITCs based on the purpose for which it acquired its inputs it would claim ITCs equivalent to 2.18% (2% + 0.18%[Footnote2](#fn2)) of the tax paid or payable on all taxable inputs based on:
+
+- 2% of taxable inputs are for use exclusively for the purpose of making taxable supplies for consideration;
+
+- 88% of taxable inputs are for use exclusively for the purpose of making exempt supplies; and
+
+- 10% of taxable inputs are for use both for the purpose of making taxable supplies for consideration and for either the purpose of making exempt supplies or for a purpose other than making supplies:
+
+    - 85% of the mixed-use inputs are for use less than 10% in commercial activities and are not eligible for ITCs;
+
+    - 15% of the mixed-use inputs are for use 12% for the purpose of making taxable supplies for consideration and 88% for the purpose of making exempt supplies and for purposes other than making supplies.
+
+An output-based ITC allocation method is only appropriate when an analysis shows that the outputs generated by a registrant will give a reasonable approximation of the use of inputs in those activities and the method reasonably reflects the use or intended use of the inputs. This is explained under the heading “Output-based method”. If a revenue-based ITC allocation method is appropriate in the circumstances, excluding the government funding revenue from the denominator in the calculation would not be fair and reasonable because government funding may be the greatest source of revenue for the public institution and that revenue is used to purchase inputs, including taxable inputs that are used in making exempt supplies. In this example, as 88% of taxable inputs are used exclusively for the purpose of making exempt supplies, a method that results in the public institution claiming 90% of the GST/HST paid or payable on those inputs as ITCs is not a fair and reasonable allocation method for those inputs.
+
+##### Example 2
+
+A public service body has a mandate to provide certain services, which are exempt supplies. The public service body also makes some taxable supplies (e.g., selling t-shirts) to bring in extra money to support its mandate. To date, the public service body has tracked the use of its inputs and claimed ITCs on inputs that are for use in making taxable supplies for consideration (e.g., selling t-shirts). This resulted in an ITC claim equivalent to 4% of the GST/HST the public service body paid on all inputs, based on the use of each input.
+
+The public service body receives a suggestion that it could claim higher ITCs based on an opinion that its principal activities (i.e., its activities under its mandate) are inputs into the making of its taxable supplies (e.g., t-shirts). Based on this advice, the public service body makes an ITC claim of 90%, rather than 4%, of the GST/HST paid or payable for current and subsequent periods.
+
+This is not a fair and reasonable ITC allocation method because it does not reflect the extent to which the inputs are for the purpose of making taxable supplies for consideration. The public service body’s performance of its mandate is not an input into making taxable supplies of t-shirts that provide extra money to support its mandate.
+
+##### Example 3
+
+An optometrist makes exempt supplies of optometry services and taxable supplies of prescription eyeglasses (zero-rated) and non-prescription sunglasses (subject to GST/HST). Wherever possible, the optometrist tracks the use of inputs. The use of other inputs (e.g., office/retail space and heat) is allocated using an allocation base that is appropriate to the particular input (e.g., office/retail space and heat are allocated based on the portion of the space that is for use in making taxable supplies for consideration over the total amount of rented space). The optometrist’s use of tracking is both fair and reasonable as it accurately reflects the actual purpose of the input in making the supplies. Similarly, the optometrist’s use of an allocation method based on an appropriate allocation base is also fair and reasonable because it is an allocation base that reflects the actual purpose of the inputs.
+
+48. The appropriateness of a particular allocation method depends on the particular circumstances of the registrant. Three possible methods are:
+
+- the direct allocation method;
+
+- the input-based method; and
+
+- the output-based method.
+
+### Direct allocation method
+
+49. The method that allocates inputs directly to activities should yield fair and reasonable results. Specifically, where it is possible to record the actual consumption or use of a particular input in making taxable supplies for consideration and otherwise, this is a reasonable method to apply. Where this is not possible, allocation factors could be applicable under the direct allocation method.
+
+50. Where an allocation factor is used, it should directly approximate the use of the particular input in making taxable supplies for consideration and otherwise using a systematic approach and an appropriate allocation base. A factor may be used where there is a link between the factor and the output or outputs which is logical and where the use of the particular input has a correlation to the allocation base (e.g., where the input is used equally over the allocation base).
+
+51. It is a question of fact whether a particular method would produce a result that is fair and reasonable throughout a particular year. Frequently, a method that is appropriate for allocating a particular input for ITC purposes is not appropriate for allocating another type of input for ITC purposes.
+
+#### Example 1
+
+A GST/HST registered real estate investor in Alberta owns various parcels of real property within a particular neighbourhood and uses each parcel either in making an exempt supply by way of lease of a residential complex or a taxable supply by way of lease of commercial real estate. The real estate investor hires a registrant snow removal company to clear snow from the walkways on all of these properties and pays $2,500 + $125 GST for the season. The charges for snow removal are based on the square footage that is being cleared of snow. The real estate investor uses the square footage of the walkway that must be cleared on each property to allocate the GST paid on the snow clearing to either the making of exempt supplies or taxable supplies. Of the total square footage that is cleared, 70% is on parcels that are used in making taxable supplies and the remaining 30% is on parcels that are used in making exempt supplies. As a result, the registrant is eligible to claim an ITC of $87.50 ($125 × 70%), provided that the other requirements for claiming the ITC are met. Although this is an appropriate allocation method to use to allocate snow removal, an allocation method based on walkway square footage would not be appropriate to use to allocate vehicle operating costs.
+
+#### Example 2
+
+A registrant engaged in making both taxable supplies for consideration and exempt supplies incurs expenses for a particular month that include the following:
+
+| Utilities | $500 + $25 GST |
+
+| --- | --- |
+
+| Computer operating cost | $200 + $10 GST |
+
+| Rent | $4,000 + $200 GST |
+
+| Building maintenance | $200 + $10 GST |
+
+| Vehicle operating costs | $500 + $25 GST |
+
+- The utilities, rent and building maintenance are allocated on the basis of square footage, and floor space that is used in part in making taxable supplies for consideration is allocated entirely to the purpose of making taxable supplies for consideration (85%) and the remainder to purposes other than making taxable supplies for consideration (15%).
+
+- Computer costs are allocated on the basis of the employee time spent using the computer in making taxable supplies for consideration (15%) and otherwise (85%).
+
+- The company vehicle operating costs are allocated based on driving logs on the basis of the proportion of kilometres driven that relates to making taxable supplies for consideration (25%) and otherwise (75%).
+
+As a result, the registrant claims ITCs of $199.75 [($25 + $200 + $10) × 85%] for utilities, rent and building maintenance; $1.50 ($10 × 15%) for computer operating costs; and $6.25 ($25 × 25%) for vehicle operating costs. The methods used to allocate computer operating costs and vehicle operating costs may be appropriate. However, even if the inputs are used equally over the space, the method used to allocate utilities, rent and building maintenance is not appropriate because it allocates all of the use of particular square footage to the making of taxable supplies for consideration even if that square footage is also used, in part, otherwise than in making taxable supplies for consideration.
+
+### Input-based method
+
+52. An input-based method may be used to apportion ITCs for those inputs that cannot be allocated to commercial activities or other activities using the direct allocation method. For this method to be considered fair and reasonable by the CRA, property and services that can be attributed using the direct allocation method must represent a significant part of the registrant’s overall inputs.
+
+53. The input-based allocation method is the use of an input-based formula to allocate those remaining inputs that cannot be allocated using the direct allocation method (e.g., the ratio of taxable inputs allocated to taxable activities using the direct allocation method as compared to total inputs allocated using the direct allocation method).
+
+#### Example
+
+In March 2014, a registered corporation located in New Brunswick acquired property and services for $1,400 (13% HST included). The intended use of the inputs that can be wholly or partly allocated to the following categories has been determined by direct allocation:
+
+| Taxable supplies for consideration | $300 |
+
+| --- | --- |
+
+| Exempt supplies | $900 |
+
+| **Total** | $**1,200** |
+
+The remaining $200 ($1,400 – $1,200) relates to property and services for activities such as directors' meetings and the activities of the personnel department that are not directly identifiable with making specific supplies.
+
+One approach to allocating these amounts to commercial activities that may yield an acceptable result is to use the ratio of property and services wholly and partly allocated to taxable supplies using direct allocation to the total property and services allocated using direct allocation. Following through with the example, the calculation of the ratio would be:
+
+$300/$1,200 = 0.25 (or 25%)
+
+Accordingly, the amount of indirect inputs allocated to taxable supplies would be equal to $50 (i.e., 25% of $200).
+
+As a result, the ITC eligibility to the corporation would be $40.27 [($300 + $50) × 13/113]. The registrant is eligible for ITCs of $40.27 provided all other conditions for claiming the ITCs are met.
+
+### Output-based method
+
+54. An output-based method is only appropriate when an analysis shows that the outputs generated by a person will give a reasonable approximation of the use of inputs in those activities. The method can use such items as:
+
+- the number of transactions processed (e.g., purchase orders and sales orders);
+
+- the number of telephone enquiries;
+
+- revenues; or
+
+- some other reasonable measure relating to the outputs of the registrant.
+
+55. An output-based method can be used if the registrant can substantiate that:
+
+- the method is fair and reasonable in the circumstances; and
+
+- the method reasonably reflects the use or intended use of the inputs.
+
+### Revenue-based method
+
+56. A revenue-based method uses the ratio of revenue from making taxable supplies for consideration to total revenues to determine the ITC eligibility.
+
+#### Reasons for caution
+
+57. A revenue-based method should be used with caution. Some of the reasons for this include:
+
+- different profit margins for different products which may result in a particular category of supply being allocated a proportion of inputs that does not reflect the true proportion of inputs used;
+
+- the revenue recognized in a period may not reflect the inputs used in that period (e.g., recovery of a bad debt from a prior period); and
+
+- the amount of revenue involved is not necessarily indicative of the cost of taxable inputs used.
+
+#### Preventing distortion
+
+58. Under a revenue-based method, certain items should be excluded from the calculation to avoid distortion. These items include:
+
+- proceeds from the sale of financial instruments;
+
+- any amount receivable for the supply of capital goods used for business purposes (e.g., proceeds from the sale of fixed assets/lands); and
+
+- the value of the sale of a business as a going concern.
+
+##### Example 1
+
+A registrant in a non-participating province has determined that, of total revenues of $1,000,000, revenues from taxable supplies for the period January 1, 2013 to March 31, 2014 are $200,000. There is no correlation between the revenue derived from making any particular supply and the cost of the taxable inputs that are required to make that supply (e.g., a particular product that is sold for $1,000 requires $450 in taxable inputs, while a particular service that is sold for $1,000 only requires $50 in taxable inputs). For purposes of calculating ITC eligibility, the registrant calculates the ratio as:
+
+$200,000/$1,000,000 = 0.20 (20%)
+
+The registrant has input costs of $300,000 + $15,000 GST and claimed ITCs of $3,000 (i.e., $15,000 × 20%). This is not an appropriate method for determining ITCs in this circumstance because there is no correlation between the revenue that is used as a basis for allocation and the taxable inputs.
+
+##### Example 2
+
+A public institution claims full ITCs on all inputs that are for use exclusively in making taxable supplies for consideration. It applies a single revenue-based formula, which excludes grants and subsidies received by the public institution, to calculate its ITC entitlement on all other inputs including capital property. The revenue-based formula is not adjusted to reflect the fact that full ITCs have already been claimed on inputs used exclusively in making taxable supplies for consideration. The grants and subsidies received by the public institution fund its making of exempt supplies.
+
+This method of allocating ITCs is not fair and reasonable for several reasons, including the following:
+
+- The revenue-based formula is not adjusted to reflect the fact that full ITCs have already been claimed on inputs used exclusively in making taxable supplies for consideration.
+
+- An output-based ITC allocation method is only appropriate when an analysis shows that the outputs generated by a person will give a reasonable approximation of the use of the inputs in those activities and a revenue-based method that excludes grants and subsidies used to purchase inputs used in making exempt supplies does not provide a reasonable approximation of the use of those inputs.
+
+- It is only appropriate to pool particular inputs if pooling does not distort the ITC allocation results. It is unlikely that pooling all of the inputs (e.g., capital property with non-capital property and multiple-use inputs with specific-use inputs) would result in a fair and reasonable allocation of inputs for ITC purposes. For example, inputs that are capital property and other inputs would need to be considered separately because the allocation provisions that apply to capital property are different from those that apply to other inputs.
+
+## ITCs for improvements to capital property
+
+### Treatment of improvements
+
+59. There are special rules for the treatment of improvements to capital real property and capital personal property.
+
+60. As per subsection 123(1), an “improvement”, in respect of property of a person, means any property or service supplied to, or goods imported by, the person for the purpose of improving the property, to the extent that the consideration paid or payable by the person for the property or service or the value of the goods is, or would be if the person were a taxpayer under the *Income Tax Act*, included in determining the cost or, in the case of property that is capital property of the person, the adjusted cost base to the person of the property for the purposes of that Act. Therefore, an improvement would not include repairs and maintenance expenses relating to capital property since they are generally not added to the adjusted cost base of the property.
+
+61. Under subsection 123(1), “capital property”, in respect of a person, means property that is, or would be if the person were a taxpayer under the *Income Tax Act*, capital property of the person within the meaning of that act, other than Class 12 (low value assets for which 100% is written off), Class 14 (certain patents, franchises, concessions, licences for a limited period) and Class 44 (patents or rights to patented information) of Schedule II to the *Income Tax Regulations*.
+
+#### Adjusted cost base
+
+62. Under section 54 of the *Income Tax Act*, the capital cost (or adjusted cost base) of capital property is determined for income tax purposes under Subdivision c of Part I of the *Income Tax Act*. Examples of expenses incurred by a taxpayer that increase the adjusted cost base of capital property that is depreciable property would be the costs for the construction, alteration or modification of the property. Soft costs (e.g., interest, legal and accounting fees, and property taxes) incurred in respect of the construction, renovation or alteration of a building are also added to the adjusted cost base of the property. In most cases, the adjusted cost base of capital property is the purchase price of the property adjusted for amounts incurred to prepare the property for use (e.g., delivery expenses, installation and legal fees). In addition, the cost of repairs made in anticipation of a sale of the property is included in the adjusted cost base of the property.
+
+#### Deemed separate supply
+
+63. If property or a service is acquired, imported or brought into a participating province by a person for use partly in improving capital property and partly for another purpose, the part of the property or service for use in improving the property and the remaining part are each deemed, under paragraph 169(1.1)(a), to be a separate property or service, with neither forming part of the other for purposes of determining an ITC. Consequently, the part of the property or service acquired for use in improving the capital property is a separate supply governed by the ITC rules for improvements.
+
+#### Tax deemed payable
+
+64. Under paragraph 169(1.1)(b), the tax deemed to be payable in respect of the part of the property or service for use in improving the capital property is determined by the formula:
+
+A × B
+
+where
+
+A is the tax payable in respect of the supply, importation or bringing in of the entire property or service without regard to use; and
+
+B is the percentage of the total consideration paid or payable for the supply in Canada of the property or service or the value of the goods imported or brought in that is or would be, if the person were a taxpayer under the *Income Tax Act*, included in determining the adjusted cost base to the person of the capital property for purposes of that act.
+
+#### Deemed amount
+
+65. Pursuant to paragraph 169(1.1)(c), the tax related to that part of the property or service that is not for use in improving the capital property is deemed to be equal to the difference between the total tax paid or payable on the property or service and the amount determined by the formula in paragraph 64.
+
+##### Example
+
+In March 2014, a landlord in a non-participating province who is an individual and a registrant engages a contractor to make improvements and repairs to an apartment building, 20% of which is leased as commercial retail space. Those improvements and repairs will cost $10,000 plus $500 GST. Of the contractor's services, 60% are considered to be improvements to capital property and are included in determining the adjusted cost base of the property under the ITA. The remaining 40% of the services are not improvements to capital property, and are to be expensed for income tax purposes.
+
+***Improvement***
+
+The GST deemed payable on the part of the services for use in improving capital property is equal to the amount determined using the formula A × B in paragraph 169(1.1)(b), where:
+
+A is the tax payable (i.e., $500 in this example) and
+
+B is the extent to which the services are used in improving the property (i.e., 60% in this example)
+
+Therefore, the GST deemed payable for the improvements to the apartment building is $300 (i.e., $500 × 60%).
+
+The ITC available on the improvement is calculated in accordance with subsection 169(1) and paragraph (b) of element B of the formula in that subsection, and is equal to $60 (i.e., $300 × 20%).
+
+***Non-improvement***
+
+The GST deemed payable on the part of the services that is not for use in improving the property (i.e., the repair services) is determined in accordance with paragraph 169(1.1)(c) and is equal to
+
+$500 – 300 = $200
+
+If the repair services were for consumption or use exclusively in the landlord’s commercial activity (i.e., in its retail space), then an ITC of $200 in respect of this part could be claimed. Conversely, if the repair services were for consumption or use exclusively on the residential portion of the building, no additional ITC could be claimed. However, if the repair services were partly (e.g., 20%) for consumption or use in commercial activities and partly (e.g., 80%) for consumption or use in non-commercial activities, an ITC of $40 (i.e., $200 × 20%) could be claimed in accordance with subsection 169(1) and paragraph (c) of element B of the formula in that subsection.
+
+### Improvements to capital real property
+
+#### Primary use test for individuals
+
+66. Subsection 208(4) provides that an ITC in respect of an improvement to capital real property of a registrant who is an individual cannot be claimed if, at the time the tax becomes payable or is paid without having become payable, the capital real property is primarily for the personal use and enjoyment of the individual or a related individual.
+
+#### Certain public service bodies
+
+67. Similar to the rule in the paragraph above, where a registrant public service body (PSB) (other than a financial institution) acquires an improvement to capital real property in respect of which the PSB has not filed an election under section 211, the PSB cannot claim an ITC in respect of the improvement unless, at the time tax in respect of the improvement becomes payable, the capital real property is used primarily in its commercial activities.
+
+### Improvements to capital personal property – primary use test
+
+68. Pursuant to subsection 199(4), a registrant (other than a financial institution) is not eligible to claim an ITC with respect to an improvement made to capital personal property unless, at the time the tax becomes payable or is paid without becoming payable, the property is used primarily in the registrant’s commercial activities.
+
+#### Example
+
+A registrant owns a computer that is used primarily in the registrant's commercial activities. The registrant adds a component as an improvement to the computer. Since at the time tax became payable on the improvement the computer was used primarily in the registrant's commercial activities, the registrant will be eligible to claim an ITC for the tax paid or payable for the component.
+
+### Improvements to passenger vehicles and aircraft
+
+69. There are also special rules for improvements to passenger vehicles and aircraft of individuals or partnerships. For more information, see [GST/HST Memorandum 8.2, General Restrictions and Limitations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-2.html).
+
+## ITCs for leases of property or for ongoing services
+
+70. Generally, if a person acquires property by way of lease, licence or similar arrangement for use exclusively in the course of its commercial activities, the person may claim an ITC for the GST/HST paid or payable in respect of each periodic payment at the earlier of the time it becomes due or the time it is paid, provided all the other ITC criteria are met. Similarly, a person may be entitled to claim an ITC for the tax paid or payable in respect of a payment for an ongoing service if the service meets the general ITC eligibility requirements.
+
+### Lease intervals
+
+71. Under subsection 136.1(1), supplies of property by way of lease, licence or similar arrangement will be treated as a series of separate supplies, one for each period (referred to as a “lease interval”) to which a particular lease payment is attributable and for which the possession or use of the property is provided under the arrangement. For each lease interval, the supplier is deemed to have made, and the recipient is deemed to have received, a separate supply of the property on the earliest of:
+
+- the first day of the lease interval;
+
+- the day the payment attributable to the lease interval becomes due; and
+
+- the day the payment attributable to the lease interval is paid.
+
+72. The payment attributable to the lease interval is deemed to be consideration payable for the supply of the property for that lease interval.
+
+73. A registrant's ITC eligibility is determined separately with respect to each supply. The ITC is calculated using the formula in subsection 169(1) and is based on the extent that the person uses the property in the course of its commercial activities as determined through the application of section 141.01. As such, the amount of the ITC may vary with each lease payment if the extent of use in commercial activities changes for each lease interval.
+
+#### Example – Sch. V, Part 1, s 6 and 6.1
+
+Mr. Peters leases land to Mr. Smith who constructs and rents residential units in a multiple-unit residential complex (i.e., an apartment complex). This complex is subsequently converted to a hotel that Mr. Smith uses to make taxable short-term rentals. The separate supplies for each lease interval for the land lease and the apartment rentals were exempt. However, the separate supplies for each lease interval for the land leased from Mr. Peters to Mr. Smith become taxable supplies at the beginning of the first lease interval during which the building is no longer used all or substantially all to make long-term residential rentals. The separate supplies of the land lease continue to be taxable for each lease interval throughout which the building is a hotel and the supplies of the units are taxable. Therefore, Mr. Peters and Mr. Smith can claim ITCs on costs relating to the lease intervals for which the leases are taxable.
+
+### Ongoing services – billing periods
+
+74. Under subsection 136.1(2), ongoing services will be treated as a series of separate supplies of services, one for each period (referred to as a “billing period”) to which a particular payment is attributable and during which the service is rendered under the agreement. For each billing period, the supplier is deemed to have made, and the recipient is deemed to have received, a separate supply of the service on the earliest of:
+
+- the first day of the billing period;
+
+- the day the payment for that billing period becomes due; and
+
+- the day the payment attributable to the billing period is made.
+
+75. The payment attributable to the billing period is deemed to be consideration payable for the supply of the service for that billing period.
+
+76. For purposes of claiming an ITC, the formula in subsection 169(1) applies separately to each amount of tax that becomes payable or is paid without having become payable with respect to each taxable supply. Therefore, the person may not be entitled to claim an ITC to the same extent for each of these amounts of tax since the use of the service in the course of the person’s commercial activities as determined through the application of section 141.01 may change for each billing period.
+
+## Further information
+
+All **GST/HST technical publications** are available on the CRA website at [www.cra.gc.ca/gsthsttech](http://www.cra.gc.ca/gsthsttech).
+
+To make an **enquiry**on the **GST/HST**by **telephone**, call one of the following numbers:
+
+- for **general enquiries,** call the **Business Enquiries** line at **1-800-959-5525**;
+
+- for **technical enquiries,**call **1-800-959-8287**.
+
+If you are located in **Quebec**, contact **Revenu Québec** at **1-800-567-4692** or visit their website at [www.revenuquebec.ca](http://www.revenuquebec.ca).

@@ -1,0 +1,617 @@
+Title: ARCHIVED - Income Tax - Technical News No. 38
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-38/archived-itnews-38-income-tax-technical-news-no-38.html
+Corpus path: corpus/cra/tax/technical-information/income-tax/current-publications/technical-news/publications/itnews-38/archived-itnews-38-income-tax-technical-news-no-38.md
+Document type: technical_publication
+Last modified: 2019-10-08
+
+# ARCHIVED - Income Tax - Technical News No. 38
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for income tax technical news](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/what-archived-content-notice-means-income-tax-technical-news.html)
+
+**September 22, 2008**
+
+**Notice to the reader:**
+
+- This version is only available electronically.
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-38.html), including PDF (which is an exact rendition of the original).
+
+**In This Issue**
+
+- [Questions Presented at the Conference](#_Toc223828151)
+
+    - [Single Administration of Ontario Corporate Tax](#_Toc223828152)
+
+    - [Interprovincial Tax Planning Arrangements](#_Toc223828155)
+
+    - [Income Tax Treatment of GST](#_Toc223828158)
+
+    - [Control of Corporation Owned by Income Trust ─ Impact of Change in Trustees](#_Toc223828163)
+
+    - [Canadian Controled Private Corporation (CCPC) Determination – Impact of the *Sedona* Decision](#_Toc223828166)
+
+    - [Canada-U.S. Treaty’s Competent Authority Provision](#_Toc223828169)
+
+    - [Thin Capitalization](#_Toc223828180)
+
+    - [*Imperial Oil* and the Treatment of Foreign Currency Loans](#_Toc223828183)
+
+    - [Sift Rules – Transitional Normal Growth](#_Toc223828186)
+
+    - [Sift Entities – Definition of “Real Estate Investment Trust” in Section 122.1](#_Toc223828189)
+
+    - [Paragraph 251(5)(*b*) – Conditional Agreements](#_Toc223828192)
+
+    - [CRA Auditors' Access to Audit Working Papers](#_Toc223828195)
+
+    - [Foreign Entity Classification](#_Toc223828198)
+
+    - [Application of Paragraph 95(6)(*b*)](#_Toc223828201)
+
+    - [Pension Fund Corporations](#_Toc223828204)
+
+- [Questions not Presented at the Conference](#_Toc223828209)
+
+    - [Application of Subparagraph 212(1)(*b*)(vii)](#_Toc223828210)
+
+    - [Employee Stock Option Deduction](#_Toc223828213)
+
+    - [Purchase Price Allocation for Rental Properties](#_Toc223828216)
+
+    - [Subsection 78(4) – Liability Assumed by a Third Party](#_Toc223828219)
+
+    - [Value of Company Attributable to Voting Non-Participating Shares](#_Toc223828222)
+
+    - [Criteria for Determining Hedge Effectiveness for Tax Purposes](#_Toc223828225)
+
+    - [Definition of “Non-Portfolio Earnings” in Subsection 122.1(1)](#_Toc223828228)
+
+    - [Filing Requirements for T5013, *Partnership Information Return*](#_Toc223828231)
+
+    - [Transfer of GST/HST Refunds to Non-Resident Security Accounts](#_Toc223828234)
+
+    - [Anti‑Discrimination Provisions](#_Toc223828237)
+
+    - [Limited Liability Company under the Protocol](#_Toc223828240)
+
+The *Income Tax Technical News* is produced by the Legislative Policy and Regulatory Affairs Branch. It is provided for information purposes only and does not replace the law. If you have any comments or suggestions about the matters discussed in this publication, please send them to:
+
+Income Tax Rulings Directorate Legislative Policy and Regulatory Affairs Branch Canada Revenue Agency Ottawa ON K1A 0L5
+
+The *Income Tax Technical News* can be found on the Canada Revenue Agency Internet site at **www.cra.gc.ca**.
+
+This issue contains topics of current interest that were prepared for discussion at the annual **Canadian Tax Foundation**conference held in Montreal from November 25 to 27, 2007, by Richard Montroy, Director General, Legislative Policy Directorate, and Mickey Sarazin, Director, Financial Sector and Exempt Entities Division of the Income Tax Rulings Directorate, both directorates within the Legislative Policy and Regulatory Affairs Branch of the Canada Revenue Agency (the “CRA”).
+
+*Unless otherwise stated, all statutory references throughout this* Income Tax Technical News *are to the* Income Tax Act (*the “Act”*).
+
+## Q uestions Presented at the Conference
+
+### Single Administration of Ontario Corporate Tax
+
+#### Question
+
+We have heard that the CRA will soon begin to administer corporate income tax on behalf of Ontario. Can you tell us more about this?
+
+#### Response
+
+This is an important initiative for the CRA; the CRA and the Ontario Ministry of Revenue are working together to make this happen and the business community is supportive of this initiative. The single administration of corporate tax in Ontario by the CRA will provide significant benefits for Ontario businesses, including reduced compliance costs. Ontario’s corporate taxpayers will have one single point of contact for all their corporate taxes. This will mean only one set of rules, one tax return, one audit, and one appeals process. Full harmonization of the provincial and federal tax systems will begin in the 2009 taxation year.
+
+This means that as of February 2008, the CRA will begin to accept combined federal-provincial instalment payments for the 2009 tax year. As of January 2009, Ontario businesses will file a single T2 tax return with the CRA for the 2009 taxation year. However, the business community did not want to wait for the implementation of the single tax return in 2009 to start realizing compliance cost savings. Both the federal and provincial governments are committed to providing the benefits of single administration to Ontario businesses as soon as possible. To do this, the CRA has agreed to take on responsibility for the majority of Ontario’s Corporations Tax administrative functions for taxation years ending prior to 2009. As of April 2008, the CRA will begin to audit Ontario corporate tax returns, and will assume responsibility for most of Ontario’s objections, appeals, and rulings functions.
+
+We will update the web information as often as we can, so make sure you visit it regularly to make sure you’re aware of all the changes coming with the harmonized tax system. You can find it at [www.cra.gc.ca/ctao](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/provincial-territorial-corporation-tax/ontario-provincial-corporation-tax.html).
+
+### Interprovincial Tax Planning Arrangements
+
+#### Question
+
+We understand that some inter-provincial tax planning arrangements have come under the scrutiny of the provinces and CRA over the last several years. Are there any current arrangements that have caused the provinces and CRA further concern?
+
+#### Response
+
+CRA and the provinces have great concerns with respect to transactions undertaken to erode provincial income tax bases, particularly arrangements promoted by tax practitioners where the result is no or minimum provincial income tax being paid. In addition to the Ontario Financing Arrangement, the Quebec Truffle arrangement, which caused Quebec to introduce amendments in 2006 effective 2002, CRA has identified another arrangement referred to as the Q-Yes Plan (i.e., Québec Year End Shuffle Plan). No rulings have been requested on any of these arrangements.
+
+The Q-Yes Plan facilitates the avoidance of provincial tax on capital gains for both individuals and corporations by rolling property to be sold in an arm’s length transaction to a new corporation, selecting different year ends for federal and Quebec purposes. Nominal units in a Quebec publicly traded limited partnership are acquired by the corporation, which partnership has a different year end than that of the two selected for the corporation. With three different year ends in play, and through the use of how taxable income earned in a province is calculated in section 400 of the *Income Tax Regulations* (the “Regulations”), only a nominal portion of the gain gets reported.
+
+On behalf of the provinces with which we have a Tax Collection Agreement, CRA intends to identify and challenge all abusive provincial tax avoidance arrangements. CRA is working closely with the provinces of Ontario, Quebec and Alberta in that regard.
+
+### Income Tax Treatment of GST
+
+Deductibility of interest and penalties related to Goods and Services Tax (the “GST”) or Harmonized Sales Tax (the “HST”) under the Act.
+
+#### Question 1
+
+Would an amount of interest assessed under Part IX of the *Excise Tax Act* (the “ETA”), after April 1, 2007 but relating to a period before that time, be deductible under the Act? Consider the following two examples.
+
+**Example 1**
+
+Assume a Canadian corporate taxpayer (Canco) with a year-end of December 31, 2007, has received a June 30, 2007 GST assessment relating to a GST liability outstanding for the 2005 GST filing period. The interest charged in the assessment under old paragraph 280(1)(*b*) of the ETA (up to March 31, 2007) is $10. The interest charged under new subsection 280(1) of the ETA (from April 1 to June 30, 2007) is $3.
+
+Is the total interest charged of $13 deductible in the taxpayer’s 2007 taxation year?
+
+**Example 2**
+
+Assume that Canco has received a GST assessment dated June 30, 2008 for a GST liability outstanding for a 2005 GST filing period. The interest charged under old paragraph 280(1)(*b*) of the ETA (up to March 31, 2007) is $10, and interest charged under new subsection 280(1) of the ETA (from April 1 to June 30, 2008) is $12.
+
+Is the taxpayer able to deduct any of the $22 of interest assessed in the 2008 taxation year?
+
+#### Response 1
+
+Prior to the introduction of the current version of paragraph 18(1)(*t*), an amount paid or payable as interest under Part IX of the ETA that related to a GST/HST liability arising in the course of earning income from a business or property was deductible.
+
+Pursuant to changes introduced by Budget 2006, paragraph 18(1)(*t*) now provides that in computing the income of a taxpayer from a business or property, no deduction shall be made in respect of, *inter alia,*any amount paid or payable as interest under Part IX of the ETA for taxation years beginning April 2007 or later.
+
+As stated in our response to Question 1 in Rulings’ document 2007-023664, it is our view that the effective date referenced in the coming into force information relating to the amendment to paragraph 18(1)(*t*) is applicable to the wording “paid or payable” in the opening words of that provision such that in order to be deductible, the interest must have been “paid or payable” in a **taxation year that** **commenced prior to April 1, 2007**[emphasis added].
+
+Accordingly, where an amount of interest under Part IX of the ETA is accrued in a taxation year that commenced on or after April 1, 2007, such interest will not be deductible whether or not that accrued interest relates to an amount of GST/HST that owed in respect of a year that commenced prior to April 1, 2007.
+
+**Example 1 Comments**
+
+The entire $13 of interest is “payable” in a taxation year that commenced prior to April 1, 2007 even though $3 of that interest actually became payable in a period after March 31, 2007. As such, the entire $13 of interest assessed in 2007 would be deductible.
+
+**Example 2 Comments**
+
+Since a portion of the $12 of the interest becomes “payable” in a taxation year that commenced after April 1, 2007 (i.e. the 2008 taxation year), the portion of interest that became payable during the period from January 1, 2008 to June 30, 2008 would not be deductible for any taxation year. The fact that the assessment was not issued until the taxpayer’s 2008 taxation year (i.e. a taxation year that commenced after April 1, 2007) should not result in the complete denial of all the interest as it is clear that some of the interest (i.e. the entire $10 plus a portion of the $12) would have been payable in a taxation year that commenced prior to April 1, 2007.
+
+In both examples, to the extent that a deduction is not denied by paragraph 18(1)(*t*), the interest is deductible in the taxation year in which it accrued. For administrative simplicity, however, we would permit a deduction in the year the interest is assessed or paid.
+
+#### Question 2
+
+What about the deductibility under the Act of a penalty assessed under the ETA after April 1, 2007, but relating to a period before that time?
+
+#### Response 2
+
+Section 67.6 deals with the deductibility of fines and penalties that are imposed after March 22, 2004. The section states that in computing income, no deduction shall be made in respect of any amount that is a fine or penalty (other than a prescribed fine or penalty) imposed under a law of a country or of a political subdivision of a country (including a state, province or territory) by any person or public body that has authority to impose the fine or penalty. Draft paragraph 7309(*a*) of the Regulations provides that for the purposes of section 67.6, an amount paid or payable under any of paragraphs 280(1)(*a*), 280(1.1)(*a*) and 280(2)(*a*) of the ETA is a prescribed penalty.
+
+Effective April 1, 2007, the foregoing provisions of the ETA were amended to remove references to these penalties. As a result, taxpayers are not subject to these penalties for periods subsequent to March 31, 2007. However, a penalty assessed under any of paragraphs 280(1)(*a*), 280(1.1)(*a*) and 280(2)(*a*) of the ETA in respect of a period before April 1, 2007 will continue to be deductible under the Act provided the particular penalty was incurred by the taxpayer for the purpose of earning income from a business or property.
+
+In our view, the penalty, which accrues monthly, is deductible in the year that includes each such month. For administrative simplicity, we would permit a deduction in the year the amount is assessed or paid.
+
+### Control of Corporation Owned by Income Trust ─ Impact of Change in Trustees
+
+#### Questions
+
+1. What is CRA’s view on the impact on control of a corporation that is owned by an income trust when there are changes in trustees of the trust?
+
+2. When an income trust is involved, should one look to the unitholders instead of the trustees to determine control of a corporation owned by the trust because an income trust is similar to a public corporation in terms of governance?
+
+#### Response
+
+In a May 2005 technical interpretation (2004-0087761E5), the CRA concluded that, where a trust holds sufficient voting shares to control a corporation, a change in any trustees of the trust could trigger an acquisition of control of the corporation. As set out in that interpretation, the test of *de jure* control contemplates the ownership of shares that give the holder the ability to elect a majority of directors. Where a trust is a shareholder, case law has referred to the trustees in assessing corporate control, since the trust is not a legal entity, but a relationship between the trustees and the beneficiaries. (See *M.N.R. v. Consolidated Holding Company Limited*, 72 DTC 6007 (SCC)). Where a trust has multiple trustees, the determination as to which trustee or group of trustees controls the corporation can only be made after a review of all the pertinent facts, including the terms of the trust instrument. However, in the absence of evidence to the contrary, we would consider there to be a presumption that all of the trustees would constitute a group that controls the corporation.
+
+As further noted by the CRA in *Income Tax Technical News*No. 34, we took this view because we believed that the fiduciary obligation that each of the trustees would have to act in the best interests of the beneficiaries of the trust would make it unlikely that two trustees could properly act together to control a corporation, to the exclusion of a third trustee.
+
+That being said, given the unique governance structure applicable to income trusts, we would need to review all the facts of a particular case in order to determine whether the position stated in the 2005 technical interpretation and the rationale for that position would be applicable to any particular income trust.
+
+### Canadian Controled Private Corporation (CCPC) Determination – Impact of the Sedona Decision
+
+#### Question
+
+What are the CRA's current views on the treatment of employee stock option rights under paragraph 251(5)(*b*) of the Act following the decision in *Sedona Networks Corporation v.* *The Queen*(2007 FCA 169), in which the Federal Court of Appeal (the “FCA”) concluded that all rights under paragraph 251(5)(*b*) must be considered in the determination of Canadian-controlled private corporation (the “CCPC”) status under subsection 125(7), rather than the selective determination of individual rights?
+
+#### Response
+
+There were two main issues raised in the Sedona appeal:
+
+1. Was an agreement between “BMCC” (a subsidiary of a public corporation) and “Ventures” (a Canadian-resident private corporation), under which Ventures was given the right to exercise the voting rights in respect of BMCC’s shares of Sedona, relevant in determining control of Sedona?
+
+2. To what extent were options to acquire treasury shares of Sedona that were held by residents and non-residents of Canada to be taken into account in applying paragraph 251(5)(*b*) and paragraph (*b*) of the CCPC definition, in determining control of Sedona?
+
+The FCA decided, in respect of the first issue, that the agreement between Ventures and BMCC was not relevant to the determination of control of Sedona, such that, without regard to options and the application of paragraph 251(5)(*b*), Sedona would be controlled by the hypothetical “particular person” referred to in paragraph (*b*) of the CCPC definition, such that Sedona was not a CCPC.
+
+Having decided the first issue in this way, it was unnecessary for the FCA to consider the second issue, being the impact of paragraph 251(5)(*b*). The courts have held on several occasions that paragraph 251(5)(*b*) does not operate to remove control from the person who actually controls the corporation, as the purpose of paragraph 251(5)(*b*) is to widen the notion of control, not restrict it. [[Footnote 1]](#_edn1) Accordingly, the comments of the FCA in respect of paragraph 251(5)(*b*) may be considered to be *obiter dicta*.
+
+It should also be noted that the FCA did not explicitly hold that paragraph 251(5)(*b*) must be applied by considering the rights held by all persons; this interpretation of the provision is, at most, implicit in the FCA’s calculations in paragraph 27 of its reasons for judgment.
+
+In view of the above, the CRA does not believe that the Sedona decision precludes it from applying paragraph 251(5)(*b*) on a holder-by-holder basis, where such an interpretation can be supported having regard to the context and the purpose of the provisions in question.
+
+### Canada-U.S. Treaty’s Competent Authority Provision
+
+The *Canada‑United States Income Tax Convention (1980)*(the “Convention”) at Article IV, paragraph 4, provides that where “an estate, trust or other person (other than an individual or a company) is a resident of both Contracting States, the competent authorities of the States shall by mutual agreement endeavor to settle the question and to determine the mode of application of the Convention to such person.”
+
+#### Question 1
+
+Can the CRA provide guidance on the criteria used to determine the residence of an estate or trust under this provision?
+
+#### Response 1
+
+As stated in Article I of the Convention, the Convention is generally applicable to persons who are residents of either Canada or the United States, or both Canada and the United States. Where a person is considered a resident of both Contracting States, Article IV will generally provide a mechanism to attempt to resolve the question of dual residence so that the person can be considered a resident of one of the Contracting States. Where the person is a trust or an estate, it is CRA’s position that the tie-breaker rules in paragraph 2 of Article IV of the Convention do not apply.
+
+In determining whether a trust or estate is a resident of Canada for purposes of the Act, the CRA will generally apply the criteria described in Interpretation Bulletin IT‑447, *Residence of a Trust or Estate*. As stated therein, it is generally CRA’s view that the residence of a trust or estate in Canada, or in a particular province or territory within Canada, is a question of fact to be determined according to the circumstances in each case. However, in the absence of express statutory direction, a trust or estate will generally be considered to reside where the trustee, executor, administrator, heir or other legal representative who manages the trust or controls the trust assets resides. Where the trust or estate is also considered a resident of the United States under its domestic law, and thereby resident of both Contracting States for purposes of the Convention, the competent authority for Canada will consider all the surrounding facts on a case-by-case basis to determine the strength of the trust’s ties to Canada relative to the United States. In addition to the factors listed in IT‑447, some of the factors the competent authority for Canada may consider are the residence of the settlor, the residence of the beneficiaries, the location of the trust property, the reason the trust was established in a particular jurisdiction, etc. This is not intended to be an exhaustive list as each case may be negotiated differently and warrant different considerations based on its particular fact situation.
+
+#### Question 2
+
+Has the CRA made any determinations under this provision of the Convention in the past?
+
+#### Response 2
+
+The competent authority for Canada has received very few requests to negotiate the question of dual residence of a trust or estate with the competent authority for the United States under this provision of the Convention. However, as a result of proposed legislative changes to section 94, the competent authority for Canada has recently received a number of requests seeking its views on the question of dual residence.
+
+#### Question 3
+
+On October 29, 2007, the House of Commons passed Bill C‑10, which is a reprint of Bill C‑33 of the previous parliamentary session. Bill C‑10 proposes to amend *inter alia*section 94. Is it possible to rely on Article IV(4) of the Convention where a U.S. trust is deemed to be a resident of Canada under the proposed provisions of subsection 94(3) (the “proposed section 94”)?
+
+#### Response 3
+
+Although this question is premature at this time, and the CRA will generally not comment on proposed legislation, we recognize this issue may affect several taxpayers and be very important for them and their representatives in planning their affairs. Accordingly, we appreciate the opportunity to explain the Canadian competent authority’s position on this issue, assuming the proposed amendments to section 94 are adopted as proposed in Bill C‑10.
+
+The requests received to date on this subject from taxpayers have resulted in the Canadian competent authority conducting extensive consultations with other CRA stakeholders and officials of the Department of Finance. Discussions between representatives of the competent authority for both Canada and the United States have also been held to explain Canada’s concerns in these situations.
+
+As you may recall, the 1999 Budget Speech documents specifically addressed the use by Canadian residents of non-resident trusts to earn income. A primary concern was that such arrangements could result in the deferral or avoidance of Canadian tax on income that would otherwise be taxable in Canada. Indeed, it was noted that a feature of these arrangements was to disguise the fact that the non-resident trust had a Canadian beneficiary and that a number of foreign jurisdictions had modified their trust laws to offer great flexibility in relation to the designation of trust beneficiaries — effectively making the current rules in section 94 difficult to apply. We understand the proposed amendments to section 94 attempt to deal with these difficulties.
+
+Where a trust is deemed to be a resident of Canada pursuant to proposed section 94, it is the CRA’s position that such a trust is also a resident of Canada for purposes of the relevant income tax treaty, such as, in this case, paragraph 1 of Article IV of the Convention. Where such a trust is also considered a resident of the other country pursuant to its domestic tax legislation, the trust may be considered a resident of both Contracting States and may request competent authority assistance pursuant to paragraph 4 of Article IV of the Convention to endeavour to settle the question and determine the mode of application of the Convention. In that context, it is generally the Canadian competent authority’s position that it would not be appropriate to cede Canadian residence of trusts subject to proposed section 94 in the context of negotiations with the competent authority of the other Contracting State. The Canadian competent authority’s policy reflects the view that the test for residency under proposed section 94 is neither inferior nor subordinate to other tests of residency. Similarly, we understand that the competent authority for the other Contracting State may be equally reluctant to cede the residence of a trust it otherwise considers resident in its jurisdiction. Furthermore, given that proposed section 94 anticipates providing full relief for the foreign taxes paid by the trust, if any, we understand the proposed legislation does not contemplate the other country giving up its right to tax the trust’s income from non‑Canadian sources. Accordingly, it is the Canadian competent authority’s position that the negotiation of these cases with a view to settle the question of dual residence will generally not be possible or advisable, particularly where both competent authorities are known, more broadly, to be at an impasse on the matter.
+
+In that respect, we note that this provision of the Convention does not require the competent authorities to come to a common understanding. The provision contemplates that the result may be dual residence for a trust where the countries cannot settle the question. In fact, as mentioned above, the Convention specifically provides that it applies to persons who are residents of one or both of the Contracting States. The fact that the competent authorities are under no obligation to settle the question is also consistent with the provisions of Article XXVI of the Convention (Mutual Agreement Procedure) and the Commentary on Article 25 (Mutual Agreement Procedure) of the OECD Model Convention, which both use very similar wording to paragraph 4 of Article IV of the Convention. It should be noted also that Article 2 of the 5th Protocol to the Convention, signed on September 21, 2007, will add similar provisions to paragraph 3 of Article IV, whereby the competent authorities of the Contracting States shall endeavour to settle the question of dual residence of certain corporations by mutual agreement and determine the mode of application of the Convention. The last sentence of paragraph 3(*b*) of Article IV specifically acknowledges that the competent authorities may not be able to come to a common understanding on the question of dual residence. These provisions should be contrasted with paragraph 2(*d*) of Article IV of the Convention, which specifically provides that the competent authorities *shall settle* the question of dual residence in the case of a natural person. This is further reflected in the Diplomatic Notes exchanged in connection with the 5th Protocol to the Convention (Annex A to the Convention), which recognizes that binding arbitration shall be used to determine Article IV residence issues but only insofar as it relates to the residence of a natural person.
+
+#### Question 4
+
+Is it also possible to rely on this provision of the Convention where a U.S. trust is deemed to be a resident of Canada under the provisions of current subsection 94(1)?
+
+#### Response 4
+
+As mentioned, the competent authority for Canada has received very few requests for assistance with respect to trusts falling within the ambit of current section 94. However, as a general rule, given the similarities between both regimes, we see no obvious reason why the position outlined above with respect to proposed section 94 would not also be applicable to cases where current section 94 applies.
+
+#### Question 5
+
+Can the CRA provide an example of a "mode of application"?
+
+#### Response 5
+
+We believe that determining the “mode of application” of the Convention can proceed notwithstanding a failure to settle the question of residency. In that context, it is the Canadian competent authority’s position that the Convention should be applied to a trust subject to section 94 so as to avoid any unexpected double taxation. Accordingly, once income tax returns have been filed in Canada, the Canadian competent authority will accept requests from trusts subject to section 94 seeking relief from double taxation and consider providing unilateral relief or entering into negotiations with the competent authority of the other Contracting State with a view to avoiding any resulting double taxation.
+
+### Thin Capitalization
+
+#### Question
+
+How does the CRA interpret the term “beginning of a calendar month” in subparagraph 18(4)(a)(ii) when calculating equity for purposes of the thin capitalization rules in a situation where a corporation is newly incorporated?
+
+#### Response
+
+CRA’s position is that the term “beginning of a calendar month” means the earliest moment on the first day of the month. Since the commencement of the first fiscal period of a corporation takes place at the time of its incorporation for the purposes of subparagraph 18(4)(*a*)(ii), we are prepared to accept that in the context of a corporation that is newly incorporated, the term “beginning of a calendar month” means the date of incorporation.
+
+### Imperial Oil and the Treatment of Foreign Currency Loans
+
+#### Question
+
+In its decision in *Imperial Oil*, the Supreme Court of Canada makes the statement, in *obiter*, that “without a conversion of currency, the mere repayment of principal – the very thing that was borrowed – cannot yield a profit or loss”. Does CRA agree with this view of the Supreme Courtor extend its application to situations where, for example, U.S. dollar denominated loans are repaid with newly borrowed U.S. dollars or U.S. dollars generated by the operations of the corporate group such that there is no foreign exchange gain or loss on repayment of the original loan?
+
+#### Response
+
+Although we agree with the *ratio decidendi* of the Supreme Court of Canada in arriving at its decision, because the above statement is *obiter*, CRA is not bound by the statement. Accordingly, where U.S. dollar denominated loans are repaid with newly borrowed U.S. dollars or U.S. dollars generated by the operations of the corporate group and there has been a fluctuation in the value of the U.S. dollar relative to the Canadian dollar since the time the money was borrowed, a taxpayer will be considered to have “made a gain” or “sustained a loss”, for purposes of subsection 39(2), at the time of repayment of part or all of the foreign currency denominated capital debt obligation.
+
+### Sift Rules – Transitional Normal Growth
+
+#### Question
+
+What are the consequences of exceeding safe harbour limit where it can be demonstrated that the growth is “normal” in the circumstances?
+
+#### Response
+
+Under the new specified investment flow‑through (the “SIFT”) legislation, the SIFT trust and SIFT partnership definitions are suspended in their application to qualifying entities until the end of a specified transitional period.
+
+Determining the length of an entity’s transitional period requires that meaning be given to the expression “exceeds normal growth”. Because the language “exceeds normal growth” is found in the Act, this process is necessarily a process of statutory interpretation. The meaning ascertained through that process should, therefore, withstand the scrutiny of established principles for interpreting fiscal legislation.
+
+That said, the Act expressly directs that the determination of whether a qualifying entity exceeds normal growth be made by reference to the Guidelines. Therefore, we do not accede to the view that, in determining whether an entity exceeds normal growth for purposes of the transitional rules, an outcome as determined by reference to the Guidelines can be set aside, and regard be made to some other set of criteria. Such an approach would render meaningless the direction to use the Guidelines. The statutory direction to apply the Guidelines in determining whether an entity exceeds normal growth is an invitation to depart from whatever the ordinary meaning of that expression may be, and to give added weight to the context and purpose of the relevant legislative provisions in determining whether an entity exceeds normal growth. Therefore, the preferred approach is to apply the Guidelines to the relevant facts in a manner that ensures that the outcome conforms to the relevant statutory context and purpose.
+
+In this regard we offer the following additional comments. The purpose of the SIFT taxation regime appears to be to ensure a level playing field among flow‑through entities, corporations, and their respective investors. In our view, the provision of transitional relief in applying the SIFT trust and SIFT partnership definitions was not intended to allow for a departure from the level playing field principle. The purpose of the transitional relief instead appears to have been to provide for an orderly transition - for otherwise affected flow-through structures in place on Oct 31, 2006 - into the regime of corporate-type taxation under the SIFT taxation rules.
+
+Any results from applying the Guidelines should be consistent with the purpose of providing an orderly transition, while at the same time reconciled to the broader legislative objective of leveling the playing the field among flow-through entities, corporations, and their respective investors.
+
+Transitional relief of a qualifying entity ends at the earliest on the first day, after December 15, 2006, on which the entity exceeds normal growth as determined by the Guidelines. As a result, the SIFT trust and SIFT partnership definitions will begin applying to a qualifying entity for its taxation year that includes the day on which it first exceeds normal growth.
+
+### Sift Entities – Definition of “Real Estate Investment Trust” in Section 122.1
+
+#### Question
+
+The revenue tests in the definition of “real estate investment trust” (“REIT”) do not include income earned as a beneficiary of a trust. Does income of the trust retain its underlying character when earned by a beneficiary of the trust for purposes of the REIT revenue tests in the definition of REIT in subsection 122.1(1)?
+
+#### Response
+
+No. Subsection 108(5) provides that income allocated to a beneficiary by a trust is “income of the beneficiary for the year from a property that is an interest in the trust and not from any other source” except as otherwise provided under Part I of the Act. Nothing in section 122.1 counteracts the effect of subsection 108(5). As a result, when a trust that meets the conditions in paragraphs (*a*) to (*c*) of the definition of “SIFT trust” in subsection 122.1(1) is itself a beneficiary of another trust and the sole source of income of the first trust is the income allocated to it from the second trust, the first trust will not qualify as a REIT as defined in subsection 122.1(1) even though the second trust earns at least 95% of its income from the rent of real or immoveable properties. In coming to this conclusion, we recognize that the definition of “real or immoveable property” in subsection 122.1(1) includes a security that is it itself a REIT; however, we are unable to conclude that the income allocated to a beneficiary from a trust that is a REIT could qualify as “rent from real or immoveable property” as defined in subsection 122.1(1).
+
+The good news is that we have recently received a written request for a technical interpretation on this issue that includes a technical analysis of the provisions noted above and we are currently considering the issue further.
+
+### Paragraph 251(5)(b) – Conditional Agreements
+
+New subsection 249(3.1) triggers an additional taxation year-end at the time a corporation becomes a CCPC or ceases to have this status (subject to the ability to avoid such a taxation year by electing under subsection 89(11) in the case of ceasing to be a CCPC). The wording of paragraph 251(5)(*b*) is extremely broad and will cause a corporation to cease to be a CCPC, for example, if a non-resident has a future contingent right to acquire shares that would give it majority ownership. Canadian corporations controlled by SIFTs could be CCPCs if they are not controlled by, or the majority of their shares are not owned in aggregate by a combination of, non-residents or public corporations.
+
+In many transactions, SIFTs have entered into agreements to sell their subsidiaries at a future date, for example, to non-residents. However, the agreements are subject to a condition precedent (which cannot be waived) that the SIFT’s unit holders must vote in favour of such transaction, given that the trustees do not have authority to undertake such a significant transaction without the concurrence of the unit holders. Typically, the unit holder vote (and then closing of the transaction) will occur two months after the initial agreement is signed due to the time required to prepare a circular, mail it to the unit holders and provide for a required delay in holding a unit holder meeting.
+
+#### Question
+
+In this circumstance, is the right under the agreement that is subject to a condition precedent a right that is described in paragraph 251(5)(*b*)?
+
+#### Response
+
+A “right” described in paragraph 251(5)(*b*) by the phrase “a right under a contract, in equity or otherwise, either immediately or in the future and either absolutely or contingently” has been given a very broad meaning by the courts [[Footnote 2]](#_edn2). It is our view that where the entitlement of a party to acquire the shares of a corporation owned by the vendor is subject to a condition, the party has a contingent right to acquire the shares and, therefore, one to which paragraph 251(5)(*b*) applies.
+
+### CRA Auditors' Access to Audit Working Papers
+
+#### Question
+
+Can you give us the status of CRA policy review?
+
+#### Response
+
+The CRA continues to collaborate with the CICA Task Force on Auditor Working Papers and Confidentiality, and with other stakeholders. A policy is being drafted and will be circulated for comments.
+
+### Foreign Entity Classification
+
+Since the introduction of IT-343R in 1977, CRA has changed its position regarding the significance of the separate legal entity status in the classification of foreign entities. Separate legal entity status is still considered a distinctive feature of corporations, but it is not a feature of corporations alone. The fact that an entity is a separate legal entity is not in itself determinative of its status for tax purposes.
+
+#### Question
+
+Which kinds of entities have been considered by CRA and have been classified as corporations when using the new approach followed by CRA?
+
+#### Response
+
+Using the new approach, we have considered the characteristics of Polish LLCs, US LLCs, S Corporations and French “*sociétés par actions simplifiées*” and we have concluded that these entities are corporations for Canadian tax purposes.
+
+The British Columbia Supreme Court reached the same conclusion with respect to LLCs in the case of a Nevada LLC in *Boliden Westmin Limited and NVI Mining Ltd. v. Her Majesty the Queen*, 2007-PTC-BC-4. The Court, considering that a Nevada LLC had numerous hallmarks of a corporation (such as limited liability, separate legal person, issuance of shares of some sort though of a different name, right for that separate legal person to deal with property, to contract, to sue, to receive grants or privileges in its own name), had decided that the Nevada LLC was a corporation under British Columbia taxation statutes and was satisfied that it was the case for federal income tax purposes.
+
+We cannot always reach a general position for a particular foreign entity. In certain situations, we have reached a conclusion after an analysis not only of the foreign legislation under which an entity was formed but also of the agreements like articles of incorporation and contracts between the parties that governed it. For example, after analyzing the foreign legislation and the agreements related to their creation, we concluded that the Dutch cooperative, the Chilean Special contractual mining company and the Chinese-Foreign Contractual Joint Venture were corporations for federal income tax purposes.
+
+We have examined other kinds of entities that we did not consider as being corporations for federal income tax purposes such as DRUPAs, DRULPAs, an Australian limited partnership and the French “*sociétés en nom collectif*”. Those were considered to be partnerships. The Pakistan association of persons reviewed was found to be a partnership based on the foreign legislation and the agreements and facts related to that particular situation. The German Investment Funds and the Austrian Foundation that we have examined were considered to be trusts after having reviewed the foreign legislation and the relevant agreements.
+
+Our approach remains as stated last year, that is, to determine the status of an entity for Canadian tax purposes, we generally follow the two-step approach described below:
+
+1. Determine the characteristics of the foreign business association under foreign commercial law;
+
+2. Compare these characteristics with those of recognized categories of business associations under Canadian commercial law in order to classify the foreign business association under one of those categories.
+
+Even if we consider all the characteristics of an entity, the most important attributes are the nature of the relationship between the various parties and the rights and obligations of the parties under the applicable laws and agreements.
+
+### Application of Paragraph 95(6)(b)
+
+#### Questions
+
+In an earlier draft of *Income Tax Technical News* No. 36 (the “ITTN”) that had limited distribution, the CRA identified certain situations as offensive from the paragraph 95(6)(*b*) perspective. Some of the situations in the draft were not addressed in the official release on July 27, 2007 (e.g. “double dips” where there has been a refinancing of the foreign Opco’s debt and the implementation of certain foreign holding companies).
+
+1. Can we assume by their omission that CRA has changed its view and concluded that they are not offensive?
+
+2. In addition, the earlier draft included a paragraph that specifically addressed “series of transactions” from a paragraph 95(6)(*b*) perspective. That paragraph did not make it into the final version. What are the implications?
+
+#### Response
+
+The draft release of the ITTN suggested that CRA would restrict the application of paragraph 95(6)(*b*) to those cases where the policy intent of one or more provisions of the Act is otherwise frustrated or circumvented. The CRA is now of the view paragraph 95(6)(*b*) has no such limitation and that the only consideration in the application of that provision is whether it can reasonably be considered that the principal purpose for the acquisition or disposition referred to is to permit a person to avoid, reduce or defer the payment of tax.
+
+Facts were added to the examples in the official release to attempt to show that the CRA considers the paragraph 95(6)(*b*) analysis to be generally limited to quantifying the tax benefit and comparing it to the potential aggregate direct and indirect non-tax benefits. Some examples found in the draft version were eliminated because they were considered redundant while others were eliminated because it was considered unreasonable to try to assume facts around the example in order to make the paragraph 95(6)(*b*) analysis. The CRA would be pleased to consider the application of paragraph 95(6)(*b*) to proposed transactions that are dissimilar to those set out in the official release in the context of an advance ruling request.
+
+In reference to the “series” issue, as indicated in the published version of the ITTN, CRA is of the view that the principal purpose of an acquisition or disposition is to be determined from all the facts and circumstances surrounding that transaction. We see nothing in the subsection that would restrict us from looking at any other transactions to determine the principal purpose of an acquisition or disposition where such acquisition or disposition is part of a series of transactions.
+
+### Pension Fund Corporations
+
+It is unclear as to whether the quantitative limitations apply at the level of a pension fund real estate corporation, described in subparagraph 149(1)(*o*.2)(ii), or a pension fund investment corporation, described in subparagraph 149(1)(*o*.2)(iii). For example, in the case of a pension fund real estate corporation, subclause 149(1)(*o*.2)(ii)(A)(II) was added by a Technical Bill in 2001, effective for taxation years that end after 2000, that expands the scope of the definition of a real estate corporation so as to permit a corporation to invest its funds in a partnership that limits its activities in the manner described.
+
+However, subclause 149(1)(*o*.2)(ii)(B) was not amended in a way that would make it clear that the investment in a partnership is not subject to the quantitative limitations prescribed by the PBSA or a similar law of a province. For example, the PBSA and many provincial statutes limit a pension fund to not more than 10% of the book value of its assets in any one investment. In Quebec, there is diversification requirement with no similar fixed quantitative limitation.
+
+#### Question 1
+
+This leads to the question whether an investment by a pension fund real estate corporation in units of a partnership is limited to 10% of the book value of the overall assets of the pension fund corporation (or some other level of diversification, but clearly not 100%).
+
+#### Response 1
+
+Paragraph 149(1)(*o*.2) exempts certain types of pension corporations from tax under Part I of the Act, provided certain conditions are satisfied. The conditions that must be satisfied relate, in general, to the ownership and the activities of a pension corporation, as well as the investments that may be made by a pension corporation.
+
+Subparagraph 149(1)(*o*.2)(ii) lists, *inter alia*, conditions concerning the activities and investments of a pension real estate corporation that must be satisfied for purposes of paragraph 149(1)(*o*.2). Subclause 49(1)(*o*.2)(ii)(A)(II) requires that a pension real estate corporation limit its activities to investing its funds in a partnership that limits its activities to acquiring, holding, maintaining, improving, leasing or managing capital property that is real property or an interest in real property owned by the partnership. Clause 149(1)(o.2)(ii)(B) provides that a pension real estate corporation make no investments other than in real property or an interest therein or investments that a pension plan is permitted to make under the Pension Benefits Standards Act, 1985 (the “PBSA”) or a similar law of a province. It is the CRA’s position that the quantitative limitations set out in the PBSA or in a similar law of a province do apply in the application of this clause. In our view, each of the conditions contained in clauses 149(1)(o.2)(ii)(A), (B) and (C) must be satisfied in order for a pension corporation to satisfy the provisions of subparagraph 149(1)(o.2)(ii).
+
+However, the issue concerning the requirements of clause 149)(*o*.2)(ii)(B) and the application of the investment restrictions under the PBSA or a similar law of a province to a pension real estate corporation that invests in a partnership described in clause 149(1)(*o*.2)(ii)(B) is presently under review. We will provide further information concerning this issue once we have completed our review.
+
+#### Question 2
+
+Similarly, is it the view of CRA that investments of a pension fund investment corporation, regulated by subparagraph 149(1)(*o*.2)(iii), are subject to a similar *quantitative* limitation at the level of the corporation itself?
+
+#### Response 2
+
+Paragraph 149(1)(*o*.2) exempts certain types of pension corporations from tax under Part I of the Act, provided certain conditions are satisfied. The conditions that must be satisfied relate, in general, to the ownership and the activities of a pension corporation, as well as the investments that may be made by a pension corporation.
+
+Subparagraph 149(1)(*o*.2)(iii) lists the conditions concerning the permissible investments of a corporation referred to as a pension investment corporation for purposes of paragraph 149(1)(*o*.2). The preamble to subparagraph 149(1)(*o*.2)(iii) provides that a pension investment corporation make no investments other than investments that a pension fund or plan is permitted to make under the PBSA or a similar law of a province and it is the CRA’s position that the quantitative limitations set out in the PBSA or a similar law of a province do apply. In our view, a pension investment corporation must satisfy both the preamble to subparagraph 149(1)(*o*.2)(iii) and all of the conditions in clauses 149(1)(*o*.2)(iii)(A), (B) and (C).
+
+## Questions not Presented at the Conference
+
+### Application of Subparagraph 212(1)(b)(vii)
+
+#### Question
+
+What will be the CRA administrative position on the application of proposed subparagraph 212(1)(*b*)(vii) dealing with withholding on cross border interest payments if Bill C-28 does not receive Royal Assent before January 1, 2008?
+
+#### Response
+
+The CRA would proceed with implementation of the Part XIII withholding tax exemption, in accordance with its past practice on the administration of draft legislation.
+
+However, if the Government is defeated specifically in respect to Bill C-28, the CRA would not implement the Part XIII withholding tax exemption.
+
+We can provide assurances that, if the proposal is not enacted, there will be no penalties and interest for those who choose to not withhold, as long as they were acting in good faith.
+
+### Employee Stock Option Deduction
+
+#### Question
+
+Generally, Royalty and Income Trusts are expected to make regular distributions to unit holders on a monthly or quarterly basis and, theoretically, the value of a unit should decrease by the amount of these distributions such that options to acquire units will also theoretically decrease in value at the time a distribution is made. However, due to other market influences, if there is no direct evidence of a visible market price decline that coincides with a distribution and exercise price reduction, what is the criteria of a fair market value reduction that the CRA would accept to allow an exercise price reduction for purposes of proposed subsections 110(1.7) and (1.8)?
+
+#### Response
+
+Proposed subsection 110(1.7) is intended to ensure that an employee who exercises an employee security option will be entitled to a deduction under paragraph 110(1)(*d*) where there has been a reduction in the exercise price payable by the employee under the option and the conditions in proposed subsection 110(1.8) have been satisfied. Essentially, proposed subsection 110(1.8) provides that proposed subsection 110(1.7) will apply if the employee would not otherwise have qualified for the deduction under paragraph 110(1)(*d*) if the option had been exercised immediately after the reduction in the exercise price had been made. Proposed subsection 110(1.8) further provides that subsection 7(1.4) would be satisfied, at the time of the exercise, had the reduction in the exercise price been effected through an exchange of options.
+
+The application of the provisions of subsection 7(1.4) generally requires the determination of the fair market value of the securities that would be acquired if the options were exercised immediately before and after the disposition of options. Decline in fair market value is a matter of professional opinion based on observable factors in an economic environment. As with any valuation assignment, fair market value is determined by undertaking appropriate due diligence procedures in accordance with generally accepted valuation principles and performing the appropriate calculations leading to a valuation opinion. Consequently, evidence is gathered by using appropriate due diligence procedures and such procedures are determined on a case-by-case basis. Therefore, the observable facts of each case should be considered when determining whether or not a distribution has negatively affected the fair market value of units in determining whether or not an exercise price reduction is warranted.
+
+The Headquarters Valuation Section of CRA offers a pre-valuation enquiry service the mandate of which is to provide comfort on a proposed transaction as to the appropriate scope of review, methodology to be employed, elements to be considered, and procedures to be followed in a valuation assignment. Such services will not include expressing any kind of opinion on the valuation conclusion itself or providing commentary on the valuation or appraisal conclusions prepared by a taxpayer. All requests should be made in writing and addressed to the Manager of the Valuation Services Section.
+
+### Purchase Price Allocation for Rental Properties
+
+#### Question
+
+If a purchaser in a real estate transaction follows the new accounting guidelines requiring the allocation of a portion of the purchase price to be allocated to intangible assets based on the operating leases in place and the probability of the leases being renewed (EIC 140 and CICA Handbook 1581), will the CRA view the purchaser as having purchased and the vendor as having disposed of intangibles as well as land, building, and equipment as part of the total purchase price?
+
+#### Response
+
+When dealing with real estate transactions, the CRA will generally not view the purchaser as having purchased, nor the vendor as having sold, eligible capital property for tax purposes as a result of an accounting requirement (EIC 140 and CICA Handbook 1581) to allocate a portion of the purchase price to intangible assets.
+
+The CRA will continue to review asset values reported from agreements of real estate purchases and sales and may apply revised values to both the purchaser and the seller if the reported values are unreasonable.
+
+### Subsection 78(4) – Liability Assumed by a Third Party
+
+Subsection 78(4) deems certain remuneration, which remains unpaid 180 days after the end of the taxation year in which it was accrued, to be an expense in the taxation year in which it is paid. However, the deductibility of remuneration is unclear where subsection 78(4) applies to a non-contingent liability accrued by a company (“A Co”) which liability is assumed by another company (“B Co”) as part of the consideration paid for the purchase of A Co’s business (including its employees).
+
+#### Question
+
+In this scenario, does the CRA concur that the deductibility of the expense for A Co occurs in the year the payment is made by B Co (i.e., the year in which the remuneration is taxable to the employee(s))?
+
+#### Response
+
+In this scenario, the deductibility of the expense for A Co occurs in the year the payment is made by B Co. However, B Co is not entitled to deduct payments to employees representing remuneration earned while such employees were employed by A Co.
+
+### Value of Company Attributable to Voting Non-Participating Shares
+
+#### Question
+
+What is the CRA’s position on the value of a private company that is attributable to voting non-participating shares?
+
+#### Response
+
+The CRA does not have an established position on valuing different types of property. Information Circular 89-3 (IC 89-3), Policy Statement on Business Equity Valuations, outlines the valuation principles and policies that CRA generally considers and follows in the valuation of securities and intangible property of closely held corporations for income tax purposes.
+
+IC 89-3 discusses, in general terms, the approaches applicable to closely held or private corporations, recognizing that the facts and circumstances of each case will be determinative of fair market value. The valuator must use reasonable judgment and objectivity in the selection and analysis of the relevant facts of each case.
+
+For the above-noted reasons, it is not the intention of the CRA to write a policy or state a formal position regarding this issue.
+
+When we value different classes of shares in a company, we generally determine the “*en bloc*” fair market value and then allocate the value to each class in isolation. The fair market value of each class of shares must be determined on its own merits according to the individual rights and restrictions of each class. In other words, we consider what a hypothetical arm’s length purchaser would be willing to pay for a particular class of shares based on the rights, restrictions and conditions, which ultimately affect the economic benefits to be derived from ownership. Given the above, there may be many factors, which might influence the value of voting control.
+
+We are not aware of any case law that deals specifically with the allocation of value amongst various classes of shares where voting rights were separated from participation.
+
+It is the opinion of the CRA that a hypothetical purchaser would be willing to pay some amount for the voting control of a company. It is difficult to ascertain what a pure voting right would be worth. However, the answer to this question will depend upon facts and circumstances of each case.
+
+### Criteria for Determining Hedge Effectiveness for Tax Purposes
+
+For accounting purposes, hedge effectiveness is the extent to which changes in the fair value or cash flows of a hedged item, relating to a risk being hedged and arising during the term of a hedged relationship, are offset by changes in the fair value or cash flows of the corresponding hedging item. Guidance on hedge accounting can be found in CICA Handbook Section 3865.
+
+#### Question
+
+Can the CRA provide guidance on the criteria to evaluate the effectiveness of a hedge for tax purpose?
+
+#### Response
+
+“Hedge” is not a defined term in the Act. The effectiveness of a hedge for tax purposes, i.e., whether a financial instrument constitutes a hedge, is relevant to the computation of profit. As the Supreme Court of Canada stated in *Canderel Ltd v The Queen*, 98 DTC 6100 (“Canderel”), the determination of profit is a question of law. Accounting standards are not law. Well-accepted business principles, which include but are not limited to the formal codification found in generally accepted accounting principles (“GAAP”), are not rules of law but interpretive aids. The CRA will take into consideration how the taxpayer reports under the new accounting standards as part of our review of the taxpayer's determination of profit under GAAP. Accordingly, the new accounting standards, which include guidance on hedge accounting in CICA
+
+Handbook Section 3865, would not cause the CRA to change how it interprets and applies the Act with respect to whether a financial instrument constitutes a hedge for tax purposes. The courts (*Echo Bay Mines Ltd v. The Queen*, 92 DTC 6437, *Salada Foods Ltd v. The Queen*, 74 DTC 6171, *Ontario* *(Minister of Finance) v. Placer* *Dome Canada Limited*, 2006 SCC 20) have confirmed that whether an activity constitutes hedging depends on sufficient inter-connection or integration with the underlying transaction. Again, as the Supreme Court stated in Canderel, ultimately, it is the law that determines how the CRA interprets and applies the Act.
+
+### Definition of “Non-Portfolio Earnings” in Subsection 122.1(1)
+
+#### Questions
+
+1. Whether the term “income” is net income after deducting all amounts that are directly traceable to a particular source of income?
+
+2. How are expenses that are not directly traceable to a particular source of income allocated in determining “non-portfolio earnings”? For instance, if a SIFT Trust has gross income from both non-portfolio properties and from other properties how are deductions that are not directly traceable to a particular source of income (for example portfolio costs, auditing fees etc.) treated in determining non‑portfolio earnings?
+
+3. Finally, as described in paragraph 5 of Interpretation Bulletin IT-524, where expenses pertain to income that is a taxable dividend received by a SIFT Trust, may the SIFT Trust allocate these expenses against other type of income?
+
+#### Response
+
+Under the Act, the income of a trust is generally determined the same way as the income of any individual and is generally subject to tax under Part I of the Act. The term “income” as used in the definition of “non-portfolio earnings” in subsection 122.1(1) is interpreted in accordance with the ordinary rules of construction. Subsection 4(1) provides as follows:
+
+"For the purposes of this Act,
+
+(a) a taxpayer’s income or loss for a taxation year from an office, employment, business, property or other source, or from sources in a particular place, is the taxpayer’s income or loss, as the case may be, computed in accordance with this Act ..."
+
+Consequently, in accordance with subsection 4(1), only deductions that may reasonably be considered to be wholly applicable to a source or to a source in a particular place and any other deductions as may reasonably be regarded as applicable thereto may be claimed against the income from such source. Accordingly, a SIFT trust’s income from a business carried on by it in Canada or from a non-portfolio property is the net income derived from such business or such non-portfolio property computed in accordance with section 4. Subject to the specific exceptions contained in subsections 4(2), all deductions that are wholly applicable to, and/or such part of any other deductions (for example, general or overhead expenses) that are reasonably regarded as applicable to a specific source are deducted in computing the income from that specific source in accordance with subsection 4(1).
+
+Finally, as mentioned in paragraph 5 of IT-524:
+
+“In a case where there is only one beneficiary or where all beneficiaries share pro‑rata in each type of income, the trust may deduct, to the greatest extent possible, expenses against income other than taxable dividends in order to obtain the maximum possible flow-through of the dividend tax credit to such beneficiary or beneficiaries, provided that an allocation of the expenses in this manner is not contrary to trust law or the trust agreement. However, in a case where all beneficiaries do not share pro-rata in each type of income, expenses that clearly pertain to the dividend income must be deducted against such income prior to its being designated to the beneficiaries.”
+
+It does not appear necessary to modify this position at this time.
+
+### Filing Requirements for T5013, Partnership Information Return
+
+#### Question
+
+What is the CRA’s position regarding partnerships with five or fewer partners where one or more partners is a corporation or trust?
+
+#### Response
+
+Partnerships with five or fewer members throughout the entire fiscal period, none of which is another partnership, are not required to file a T5013, *Partnership Information Return*, for that fiscal period.
+
+We are considering a change to our administrative policy to require a T5013 for each fiscal period of a partnership that has one or more partners that is a corporation or a trust. However, we are still in the process of reviewing this position and any change will be applied prospectively.
+
+### Transfer of GST/HST Refunds to Non-Resident Security Accounts
+
+#### Question
+
+How are non-resident security amounts determined and why are GST/HST refunds being transferred to these accounts? Has the administration of these accounts changed?
+
+#### Response
+
+Under subsection 240(6) of the ETA, non-residents who register for the GST/HST must provide and maintain adequate security with the CRA unless they have a permanent establishment in Canada. The term "permanent establishment" is qualified in this subsection to exclude a fixed place of business of another person who acts in Canada on behalf of a non‑resident. Therefore, a non-resident person may be exempted from providing security only if the non-resident makes supplies through its own fixed place of business in Canada.
+
+The non-resident security helps to ensure that a non‑resident person pays or remits all amounts due under Part IX of the ETA. In cases, where a registrant has no assets in Canada that the CRA can seize if the registrant defaults on its tax remittance obligations, then the CRA has the security to which it can resort for payment.
+
+The initial security required at time of GST/HST registration is set at 50% of the estimated net tax (positive or negative) of the non-resident for the 12‑month period following registration. Subsequently, the security required is equal to 50% of the net tax during the person's previous 12-month period.
+
+Non-residents with annual taxable supplies in Canada below $100,000 (including zero rated supplies) **and** whose annual net tax (remittable or refundable) is less than $3000 are not required to post security. The GST/HST security requirement for other non-residents is currently set at a minimum of $5,000 and a maximum of $1 million.
+
+The CRA typically reviews the amount of security held for each non-resident annually. A registrant will generally only be asked to increase the amount of security where,
+
+1. if the total amount of security required is $25,000 or less and the additional amount is more than $2,500, or
+
+2. if the total amount of security required exceeds $25,000 and the additional amount is more than $5,000.
+
+In cases where an increase is required in the amount of security held for a particular non resident, the CRA issues a notice to that person indicating the additional amount required and advises that any GST/HST amounts may be withheld. If this increased amount of security is not received by the CRA within a reasonable period of time, the processing system is instructed to automatically transfer any GST/HST amounts owing to that person to the security account until the additional security requirement has been met. This automatic set-off procedure began in April 2007 with the implementation of the GST/HST program into the Standardized Accounting system. During implementation, security account requirements were recalculated and automatic set-offs were started where the amounts held were insufficient. There were also some initial system issues concerning non-residents with permanent establishment in Canada, however, these issues have been identified and resolved.
+
+Non-residents wanting to discuss their security account requirements should contact the tax services office indicated for them at the following link [http://www.cra-arc.gc.ca/contact/gsthstnonres-e.html](https://www.canada.ca/cntct/gsthstnnrs-eng.html) on the CRA website.
+
+### Anti‑Discrimination Provisions
+
+#### Question
+
+The anti-discrimination provisions have been extended to cover “nationals” who cannot be subjected to more burdensome “requirements” than residents of Canada. Will this mean that the compliance procedures in section 116 will not be applicable for U.S. nationals disposing of taxable Canadian property? If not, why not?
+
+#### Response
+
+Paragraph 1 of Article XXV of the *Canada-U.S. Tax Convention* provides that a citizen of a Contracting State who is a resident of the other State cannot be subject in that other State to any taxation or requirement connected therewith which is more burdensome than the taxation or connected requirements to which citizens of the other State *in the same circumstances* are or may be subjected. In essence, paragraph 1 of Article XXV ensures that a citizen of a Contracting State (*e*.*g*., the U.S.) who is a resident of the other State (*e*.*g*., Canada) is treated in the same manner as a resident citizen of that other State. This Article does not require either State to treat residents and non-residents in the same manner.
+
+The Fifth Protocol amends Article XXV to substitute the term “national” for “citizen.” The amendment broadens the application of Article XXV since a national, unlike a citizen, includes a legal person other than an individual. However, the amendment does not change the basic requirement that, to obtain relief under Article XXV, a national of one State must be *in the same circumstances* as a national of the other State. In this respect, a U.S. national is not *in the same circumstances* as a Canada resident national unless the U.S. national is resident in Canada.
+
+Section 116 does not apply to U.S. nationals or Canadian nationals who are resident in Canada. Similarly, section 116 applies to Canadian nationals and U.S. nationals who are not resident in Canada. In either case, U.S. nationals and Canadian nationals are treated in the same manner. Thus, section 116 does not subject U.S. nationals to more burdensome requirements than Canadian nationals in the same circumstances. Accordingly, the amendment to Article XXV to extend the protection of this Article to “nationals” of the Contracting State will not affect the application of section 116.
+
+### Limited Liability Company under the Protocol
+
+Assume a U.S. limited liability company (“LLC”) is 100% owned by Mr. X, a U.S. resident individual. The LLC has not elected to be treated as a corporation under the U.S. “check-the-box” regulations and, consequently, is treated as a disregarded entity for U.S. tax purposes. Mr. X would be the beneficial owner of the dividend if he owned the shares of the Canadian corporation directly.
+
+#### Question
+
+If the LLC owns all of the shares of a Canadian corporation and the Canadian corporation pays a dividend to the LLC, what rate of Canadian withholding tax will apply to the dividend payment under the proposed 5th Protocol to the *Canada-U.S. Income Tax Convention* (the “Convention”)?
+
+#### Response
+
+The CRA has examined several state limited liability company statutes, but not all. We assume that the LLC in this example would constitute a corporation for Canadian income tax purposes.
+
+Subparagraph 2(*b*) of Article X (Dividends) of the Convention provides that dividends paid by a resident of one Contracting State may be taxed by the State of source at 15% if paid to a resident (other than a company described in subparagraph (a)) of the other Contracting State who is the beneficial owner of such dividends.
+
+Proposed paragraph 6 of Article IV (Residence) of the Convention provides:
+
+“An amount of income, profit or gain shall be considered to be derived by a person who is a resident of a Contracting State where:
+
+1. The person is considered under the taxation law of that State to have derived the amount through an entity (other than an entity that is a resident of the other Contracting State); and
+
+2. By reason of the entity being treated as fiscally transparent under the laws of the first-mentioned State, the treatment of the amount under the taxation law of that State is the same as its treatment would be if that amount had been derived directly by that person.
+
+Assuming U.S. tax law would in fact apply to consider Mr. X to have derived the dividend through the LLC, and that Mr. X is treated for U.S. tax purposes as if he had received the dividend directly from the Canadian corporation, we are of the view that the dividend paid to the LLC would be subject to the reduced rate of 15% by virtue of Article X and proposed paragraph 6 of Article IV of the Convention.
+
+Proposed paragraph 6 of Article IV of the Convention will have effect, in respect of withholding taxes, for amounts paid or credited on or after the first day of the second month that begins after the date on which the Protocol enters into force.
+
+## Footnotes
+
+**Footnote 1**
+
+*Ferronnex Inc. c*. MRN, [1991] 1 CTC 2330 (CCI); *MacDonald Drums Manufacturing Corp. c. MRN*, [1966] 40 Tax ABC 273; *Economy Home Builders Ltd. c. MRN,* [1965] 38 Tax ABC 148; *Viking Food Products Ltd. c. MRN*, [1967] CTC 101 (C.Ech.).
+
+**Footnote 2**
+
+See, for example, *Lusita Holdings Limited* v. *The Queen*, 82 DTC 6297 (FCTD) [approved 84 DTC 6346 (FCA)] where Mahoney, J. described the phrase “in equity or otherwise” as referring back to and describing the “right” referred to in that paragraph, rather than modifying and describing the type of “contract” to which paragraph 251(5)(b) could apply.

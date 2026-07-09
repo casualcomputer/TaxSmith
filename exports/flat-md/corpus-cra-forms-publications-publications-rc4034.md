@@ -1,0 +1,18 @@
+---
+title: "RC4034 GST/HST Public Service Bodies' Rebate"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html
+last_modified: 2025-05-29
+---
+# RC4034 GST/HST Public Service Bodies' Rebate
+
+This guide explains methods to calculate your public service bodies' rebate or GST Self-government refund. It also provides instructions on how to complete the related application Forms GST66 and RC7066-SCH.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [rc4034-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034/rc4034-gst-hst-public-service-bodies-rebate.html)
+
+    - PDF [rc4034-25e.pdf](/content/dam/cra-arc/formspubs/pub/rc4034/rc4034-25e.pdf)
+
+- Ask for an alternate formatYou can order a digital audio, e-text, braille or large print version of this publication to be sent to you by mail.[Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html)

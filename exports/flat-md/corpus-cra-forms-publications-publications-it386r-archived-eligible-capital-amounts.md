@@ -1,0 +1,72 @@
+---
+title: "ARCHIVED - Eligible Capital Amounts"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it386r/archived-eligible-capital-amounts.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Eligible Capital Amounts
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-386R**
+
+DATE: October 30, 1992
+
+SUBJECT: INCOME TAX ACT**Eligible Capital Amounts**
+
+REFERENCE: Subsection 14(1) and subparagraph 14(5)(a)(iv) (also paragraph 14(5)(b))
+
+Application
+
+This bulletin cancels and replaces Interpretation Bulletin IT-386 dated July 4, 1977.
+
+Summary
+
+This bulletin discusses transactions that involve an eligible capital amount resulting from the disposition of eligible capital property. All or a portion of an eligible capital amount may be required to be included in income from a business. Examples of such transactions are the sale of a franchise or licence for an unlimited period, the sale of goodwill in connection with a business, the outright sale of a process and the sale of certain rights. However, where consideration for the disposition of eligible capital property is dependent upon the use of or production from that property, such consideration does not give rise to an eligible capital amount but rather is simply included in income.
+
+Discussion and Interpretation
+
+1. "Eligible capital property" ("EC property") of a business may be broadly described as intangible capital property, such as goodwill and other "nothings", the cost of which neither qualifies for capital cost allowance nor is fully deductible in the year of its acquisition as a current expense. "Cumulative eligible capital" is basically an expenditure pool relating to EC property which is increased by a portion of each "eligible capital expenditure" ("EC expenditure") made to acquire EC property and decreased by each "eligible capital amount" ("EC amount") related to the proceeds from the disposition of an EC property. The decrease to the pool for an EC amount in a particular taxation year can cause the pool to have a negative balance at the end of that year. Where this occurs, subsection 14(1) requires an amount to be included in the taxpayer's income from the business for the year and, in some cases and for certain taxpayers (primarily individuals), also provides for a deemed taxable capital gain in the year. A full discussion on these provisions is contained in the current version of IT-123, Transactions Involving Eligible Capital Property.
+
+2. The following are examples of the type of transaction that can result in an EC amount:
+
+(a) A person sells a franchise or licence for an unlimited period. The sale is a disposition of EC property.
+
+(b) A person carries on a business for a period of time and then sells the business together with its associated goodwill. The sale of the goodwill is a disposition of EC property. "Goodwill" may include one or more of the following:
+
+(i) reputation,
+
+(ii) services of employees,
+
+(iii) favourable commercial contracts,
+
+(iv) trademarks or trade names,
+
+(v) favourable financial relationships,
+
+(vi) management performance record, and
+
+(vii) non-competition provisions.
+
+(c) Ms A owns a business which she sells together with its associated goodwill to a corporation she owns or controls. The portion of the sale price attributed to the goodwill is generally considered to be the proceeds from the disposition of EC property provided that the sale is a bona fide business transaction.
+
+(d) Mr. X carries on a business operation that uses a process he has developed himself. He receives consideration for disclosing the process and allowing it to be used by the payer. Since knowledge of the process is intangible property and is not depreciable, the proceeds from the outright sale of the knowledge are considered to be from the disposition of EC property. However, if the knowledge is not sold outright but rather, for example, is merely licensed for a limited period of time, or its use is permitted under the terms of a non-exclusive licence, the total proceeds for the right to use the process are considered to be income and taxable as such (see the Federal Court of Appeal's decisions in The Queen v. Canadian General Electric Company Limited, 87 DTC 5070, (1987) 1 C.T.C. 180, and Canadian Industries Limited v. The Queen, 80 DTC 6163, (1980) C.T.C. 222).
+
+(e) Company A, which is in the trucking transport business, sells its right to use a particular truck route to Company B. Under certain circumstances the transaction will not be considered to be the sale of the licence itself, but rather will be considered to be payment for allowing Company B to "stand in the vendor's shoes" before the provincial transportation authorities in order to gain a better opportunity of acquiring a trucking licence itself. In such a case, the proceeds to Company A are considered to be from the disposition of EC property.
+
+(f) Consideration to a taxpayer for permission to use the taxpayer's name (or a similar name) is considered to be proceeds from the disposition of an EC property.
+
+(g) Consideration to a taxpayer for amending the terms and conditions of the taxpayer's licence or allowing it to expire is considered to be proceeds from the disposition of an EC property.
+
+3. In the same way that a particular expenditure may be characterized as being either an EC expenditure or a current expense depending on the circumstances of the case, a particular amount of consideration to a taxpayer may be either proceeds from the disposition of EC property or an income receipt. The characterization of the consideration is a question of fact, although isolated transactions usually result in a disposition of EC property.
+
+4. Subparagraph 14(5)(a)(iv) has a "mirror image test" to determine whether an amount which a taxpayer has received or may become entitled to receive in connection with a business as a result of a disposition of property, is proceeds from the disposition of EC property resulting in an EC amount. The test is met where, if any payment had been made after 1971 by the taxpayer for that property, such payment would have qualified as an EC expenditure of the taxpayer under paragraph 14(5)(b) for the business. In other words, a taxpayer disposing of property in connection with a business looks in the mirror to see whether, if the taxpayer were instead purchasing the property, its cost would qualify as an EC expenditure of the taxpayer for the same business. (See the Federal Court of Appeal's decision in Samoth Financial Corporation Ltd. v. The Queen, 86 DTC 6335, (1986) 2 C.T.C. 107.) The mirror image test is particularly significant in determining whether dispositions of customer lists and ledger accounts, trademarks, milk quotas and other government rights, and stock exchange seats and memberships, will be considered to be dispositions of EC property. For a discussion on whether a payment for these and other types of intangible property would or would not qualify as an EC expenditure within the provisions of paragraph 14(5)(b), see the current version of IT-143, Meaning of Eligible Capital Expenditure.
+
+5. Any portion of consideration received for EC property that is dependent upon the use of or production from that property does not result in an EC amount but rather is taxable as income under paragraph 12(1)(g) (e.g., see the Tax Court of Canada's decision in 289018 Ontario Limited V. M.N.R, 87 DTC 38, (1987) 1 C.T.C. 2095). In such a case, the comments in the current version of IT-462, Payments Based on Production or Use, are applicable.

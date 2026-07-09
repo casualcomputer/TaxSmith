@@ -1,0 +1,103 @@
+Title: Administrative Policy Regarding Adjustment to the GST/HST Return
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-149r/administrative-policy-regarding-adjustment-goods-services-tax-harmonized-sales-tax-return.html
+Corpus path: corpus/cra/forms-publications/publications/p-149r/administrative-policy-regarding-adjustment-goods-services-tax-harmonized-sales-tax-return.md
+Document type: publication
+Last modified: 2026-06-23
+
+# Administrative Policy Regarding Adjustment to the GST/HST Return
+
+GST/HST policy statement P-149 June 2026
+
+This version replaces the one dated September 1999. This policy statement has been updated to include information regarding specified persons as well as additional information on the format and timing of a request to amend a GST/HST return.
+
+This policy statement discusses an administrative policy regarding adjustments relating to GST/HST returns (other than information returns).
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the *Excise Tax Act* (ETA). The information in this publication does not replace the law found in the ETA and its regulations. Although correct at the time of issue, this publication may not have been updated to reflect subsequent legislative changes.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1‑800‑959‑8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Requesting a GST/HST Ruling or Interpretation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1‑855‑666‑5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The GST/HST rates are those that were in effect at the time of publishing. For the list of all applicable GST/HST rates (current and historic), go to [GST/HST calculator (and rates)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html).
+
+If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [Issue](#toc0)
+
+- [Decision](#toc1)
+
+- [Discussion](#toc2)
+
+    - [Format of Request](#toc3)
+
+    - [Timing of Request](#toc4)
+
+    - [Right of Redress](#toc5)
+
+## Issue
+
+Amounts included on a previously filed GST/HST return may be adjusted upon a request made to the Minister of National Revenue (Minister). However, it is important to note that the Minister is not required to accept a request to amend a return and may refuse the request in whole or in part.
+
+## Decision
+
+The Minister will generally deny a request where there are no extenuating circumstances and the requested change consists solely of an increase in the amount of input tax credits (ITCs) or certain other deductions from net tax, without a corresponding increase in a tax liability for the same reporting period. The rationale for this approach is that the registrant can generally claim the amount on a subsequent return that has not been filed, provided all conditions for claiming the amount have been met, including the requirement to claim it within the allowable time limit.
+
+The Minister may apply administrative flexibility when extenuating circumstances are present. Such circumstances may include, but are not limited to:
+
+- situations where delaying a refund would cause financial hardship or significant negative consequences for the registrant
+
+- where an amount is only eligible to be claimed or deducted within a specific reporting period
+
+If you forgot to include an amount in your ITCs, and there were no extenuating circumstances, include the omitted amount on line 106 on your next return due to be filed if you are filing electronically using [GST/HST NETFILE](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/file-gst-hst-return/how-file/using-online-netfile-form.html) or if you are filing a paper return, or in the calculation on line 108 if you are using [GST/HST TELEFILE](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/file-gst-hst-return/how-file/by-phone-telefile.html).
+
+A registrant must generally claim an ITC in a return filed by the due date of the return for the last reporting period that ends within four years after the end of the reporting period in which the ITC could have first been claimed. However, a specified person[Footnote1](#fn1) is generally required to claim an ITC by the due date of the return for the last reporting period that ends within two years after the end of the fiscal year in which the tax becomes payable.
+
+The specific circumstances surrounding a request will be taken into account by the Minister when deciding whether to adjust a previously filed return. Each decision will be made on a case-by-case basis.
+
+A review of the documentation and other records supporting the requested adjustment(s) may be required either prior to accepting the request or at a later date.
+
+## Discussion
+
+### Format of Request
+
+If you want to change a return that you have already sent us, generally you do not file another return, unless you are a Selected Listed Financial Institution (SLFI) requesting a change to [Form GST494, GST/HST Final Return for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst494.html), or [Form RC7294, GST/HST and QST Final Return for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7294.html). If you are an SLFI and would like more information on how to request changes to previously filed returns, refer to [Guide RC4050, GST/HST Information for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4050.html).
+
+For instructions on how to change a return go to [File your GST/HST return – After you file](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/file-gst-hst-return/after-file.html). As previously mentioned, the Minister is not required to accept a request to amend a return and may refuse the request in whole or in part. Interest may apply to any overdue amounts that you have to remit to the Receiver General.
+
+If the return to be adjusted was filed with Revenu Québec, you must submit the appropriate request form. For details on the appropriate request form, go to [Amending a GST/HST or QST Return](https://www.revenuquebec.ca/en/businesses/consumption-taxes/gsthst-and-qst/reporting-gsthst-and-qst/amending-a-gsthst-or-qst-return/).
+
+For more information on how to collect, record, calculate, and remit the GST/HST, refer to [Guide RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+### Timing of Request
+
+In most cases, the Minister cannot assess or reassess a GST/HST return beyond the time limitation set out in subsection 298(1). In general, the limitation is four years after the later of the day on which the person was required to file the return and the day the return was filed. As such, you should submit a request to amend a return prior to that date.
+
+### Right of Redress
+
+If you feel that discretion was not properly exercised during the Canada Revenue Agency's (CRA) review of your request for reassessment, you can apply to the Federal Court for a judicial review. Its review is restricted to determining whether the CRA has exercised its discretion in a reasonable and fair manner. If the Federal Court rules that discretion was not exercised in a reasonable and fair manner, it refers the request back to the CRA for reconsideration.
+
+For more information on the judicial review process and how to apply for a judicial review, visit the [Federal Court](https://www.fct-cf.ca/en/pages/representing-yourself/procedural-roadmaps/application-for-judicial-review).
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries**, call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1-800-567-4692** or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution** (whether or not you are located in Quebec) and require information on the **GST/HST** or the **QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for **general GST/HST** or **QST enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **technical GST/HST** or **QST enquiries**, call **GST/HST Rulings SLFI** at **1-855-666-5166**

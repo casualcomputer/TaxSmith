@@ -1,0 +1,175 @@
+Title: ARCHIVED - Capital Cost Allowance -- Patents, Franchises, Concessions and Licences
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it477-consolid/archived-capital-cost-allowance-patents-franchises-concessions-licences.html
+Corpus path: corpus/cra/forms-publications/publications/it477-consolid/archived-capital-cost-allowance-patents-franchises-concessions-licences.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Capital Cost Allowance -- Patents, Franchises, Concessions and Licences
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-477(Consolidated)**
+
+DATE: See *[Bulletin Revisions](#P111_17292)* section
+
+SUBJECT: INCOME TAX ACT**Capital Cost Allowance -- Patents, Franchises, Concessions and Licences**
+
+REFERENCE: Paragraph 20(1)(a) (also Class 14 of Schedule II, paragraph 1100(1)(c) and subsection 1100(9) of the Regulations)
+
+### Notice -- Bulletins do not have the force of law
+
+***This document is also available for [download in PDF format](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it477-consolid.html).***
+
+## Capital Cost Allowance -- Patents, Franchises, Concessions and Licences
+
+***Latest Revisions -- ¶s [1](#P01), [4](#P04) and [5](#P05)***
+
+## Contents
+
+- *[Application](#P58_2509)*
+
+- *[Summary](#P63_2726)*
+
+- *[Discussion and Interpretation](#P65_3006)*
+
+    - [General](#P66_3035) (¶s 1-2)
+
+    - [Calculation of Maximum Allowance](#P74_4115) (¶s 3-6)
+
+    - [Election in Case of Patent](#P81_7265) (¶s 7-8)
+
+    - [Definitions](#P86_8331) (¶s 9-12)
+
+    - [Expectation of Class 14 Property](#P91_10214) (¶ 13)
+
+    - ["Life of the Property" and "Limited Period"](#P93_11309) (¶s 14-17)
+
+    - [Industrial Designs](#P98_14870) (¶ 18)
+
+    - [Capital Cost](#P100_15221) (¶s 19-22)
+
+- *[Bulletin Revisions](#P111_17292)*
+
+## Application
+
+This bulletin is a consolidation of the following:
+
+- IT-477 dated April 30, 1981; and
+
+- subsequent amendments thereto.
+
+For further particulars, see the "Bulletin Revisions" section near the end of this bulletin.
+
+## Summary
+
+This bulletin deals with paragraph 20(1)(a) of the *Income Tax Act* (the Act) and paragraph 1100(1)(c) of the *Income Tax Regulations* (the Regulations) which allow a taxpayer to claim capital cost allowance in respect of property in class 14 of Schedule II of the Regulations.
+
+## Discussion and Interpretation
+
+### General
+
+**¶ 1.** Class 14 property is prescribed to be property that is a patent, franchise, concession or licence for a limited period in respect of property but not including
+
+(a) a franchise, concession or licence in respect of minerals, petroleum, natural gas, other related hydrocarbons or timber and property relating thereto (except a franchise for distributing gas to consumers or a licence to export gas from Canada or from a province) or in respect of a right to explore for, drill for, take or remove minerals, petroleum, natural gas, other related hydrocarbons or timber,
+
+(b) a leasehold interest,
+
+(c) a property that is included in class 23, or
+
+(d) a licence to use computer software (applicable in respect of property acquired after May 25, 1976).
+
+**¶ 2.** The general rules regarding capital cost allowance are not discussed in detail in this bulletin but it should be kept in mind that a property is not included in class 14 (or any other class of property described in Part XI and Schedule II of the Regulations) if it is a property described in subsection 1102(1) of the Regulations.
+
+### Calculation of Maximum Allowance
+
+**¶ 3.** Pursuant to paragraph 1100(1)(c) of the Regulations, the maximum capital cost allowance available to a taxpayer in any year in respect of class 14 property is the lesser of:
+
+(a) the aggregate of the amounts obtained by apportioning the capital cost of each property over the life of the property remaining at the time the cost was incurred, or
+
+(b) the undepreciated capital cost to him as of the end of the taxation year of property of that class.
+
+**¶ 4.**It is the CCRA's view that the life of the property referred to in ¶ 3(a) generally refers to the maximum period that the property may be used for the purposes of earning income. That is, the apportionment of the capital cost of a class 14 property should generally be made equally over the remaining life of the property. However, the CCRA accepts that the capital cost of a class 14 property may be apportioned on another basis where, based on the legal agreements and other relevant factors, the taxpayer can clearly demonstrate that it is reasonable. For example, where a 3 year licence provides that a television program may be broadcast three times in year 1, and once in each of years 2 and 3, it would generally be appropriate to allocate 3/5 of the capital cost to year 1 and 1/5 to each of years 2 and 3.
+
+**¶ 5.** Where less than the maximum allowance is claimed in a taxation year, the difference between the amount claimed and the maximum allowance for that year can be deducted only as a terminal loss under subsection 20(16) in a taxation year at the end of which the taxpayer owns no class 14 property. For example, assume that a taxpayer with a December 31 year-end acquires, on January 1, 2000, a licence expiring on December 31, 2004, which represents the taxpayer's only asset in class 14. Assume further that the asset was acquired at a cost of $1,000 and that, based on the life of the licence, the taxpayer is entitled to an allowance of up to $200 per year. If only $1 is claimed in 2000, the maximum allowance continues to be $200 in subsequent years and the $199 not claimed in 2000 would become deductible as a terminal loss in 2004, if no class 14 property is owned by the taxpayer at the end of 2004.
+
+**¶ 6.** Subsection 1100(3) of the Regulations which, in certain instances, requires capital cost allowance to be prorated over a short taxation year, does not apply to class 14 property.
+
+### Election in Case of Patent
+
+**¶ 7.** Where the cost of a patent is determined wholly or partly by reference to the use of the patent, capital cost allowance may be claimed under subsection 1100(9) of the Regulations rather than under paragraph 1100(1)(c). Under this subsection, the taxpayer is permitted to deduct an amount, not exceeding the undepreciated capital cost of the property in class 14, of up to the aggregate of
+
+(a) the part of the capital cost of the patent determined by reference to the use of the patent in the year, and
+
+(b) the part of the capital cost of the class 14 property apportioned to the year under[3(a)](#P03a) above after excluding from capital cost any amounts determined by reference to the use of the patent in that year or previous years.
+
+**¶ 8.** It should be noted that subsection 1100(9) of the Regulations applies to patents only and not to any other class 14 property. For instance, a licence to use a patent will, if it is for a limited period, qualify as class 14 property but will not be eligible for the elective treatment under this subsection.
+
+### Definitions
+
+**¶ 9.** In Canada, a patent is defined in the Patent Act as letters patent for an invention. Accordingly, no patent exists under that Act until the date the letters patent are granted and issued as noted on the face of the patent, and capital cost allowance is not available in respect of the cost of acquiring a patent while a patent is pending. The life of a patent in Canada is 17 years from the date the letters patent are granted and issued.
+
+**¶ 10.** Foreign patents, that is those granted by a foreign government, may qualify as depreciable property in the same way as other foreign property. Reference is made to IT-205 in this regard. The relevant foreign law would govern in determining when the patent comes into existence, whether or not the patent is "for a limited term" and the "life of the property remaining at the time the cost was incurred" for the purposes of claiming capital cost allowance.
+
+**¶ 11.** The words "franchise, concession or licence", are not capable of easy definition. Generally, they must be given the meaning or sense in which they are normally employed by businessmen on his continent and they extend, not only to certain kinds of rights, privileges or monopolies conferred by or pursuant to legislation or by governmental authority, but also to analogous rights, privileges or authorities created by contract between private parties. Again, generally, these words are used to refer to some right, privilege or monopoly that enables the holder to carry on his business or earn income from property, or that facilitates the carrying on of his business or the earning of income from property. These words do not extend to a contract under which a person is entitled to remuneration for the performance of specified services, nor to a covenant not to compete for a limited period.
+
+**¶ 12.** A trademark does not qualify as a class 14 property. (See IT-143R.)
+
+### Expectation of Class 14 Property
+
+**¶ 13.** A payment made to obtain a patent, franchise, concession or licence is included in the capital cost of the property whether made to the actual grantor or to a holder of such property in order that he will relinquish it in favour of the payer. Where, however, a taxpayer pays an amount, either separately or as part of a payment to acquire the business or assets of another person, for which he does not obtain an existing patent, franchise, concession or licence but only the right to stand in place of that other person in applying for such a property or for a renewal thereof, no part of that amount is paid for property of class 14; such amount may, however, qualify as an eligible capital expenditure for the purposes of section 14. An example would be where a taxpayer pays an amount to a vendor for a licensed taxicab where the licence is not transferable but he fully expects that the licensing authority will issue a new licence to him. Such amount would not be depreciable as the taxpayer is paying for a mere expectation of being granted a licence.
+
+### "Life of the Property" and "Limited Period"
+
+**¶ 14.** Property that is a patent, franchise, concession or licence qualifies under class 14 only if it is for a "limited period", and its cost is depreciable, pursuant to paragraph 1100(1)(c) of the Regulations, "over the life of the property remaining at the time the cost was incurred". That is, it must be for a period capable of being ascertained at the time the cost was incurred. For example, under the Copyright Act, copyright in a work generally subsists for the life of the author and fifty years after his death. As the period during which the author may live is not ascertainable during his lifetime, a taxpayer may only include in class 14 a copyright acquired after the death of the author. On the other hand, a licence for a limited term of up to 50 years under a copyright granted before the author's death would be depreciable.
+
+**¶ 15.** The provisions of a franchise, concession or licence concerning renewals or extensions following the original term are relevent in determining the life of the property and whether or not the property is for a limited period. Where such renewals or extensions are automatic or within the control of the taxpayer, that is they do not require any further negotiation with or the concurrence or consent of the grantor, the life of the property includes such additional periods. For instance, where a franchise with an initial term of 5 years can be renewed at the option of the franchise for one further 3-year period, the life of the franchise is 8 years. On the other hand, where the concurrence of the franchisor is required, the life of the property does not include any renewal period. Where the taxpayer has an option to renew or extend the term only if certain conditions are met, for instance meeting certain performance or sales criteria, the circumstances of the particular case must be examined to determine whether or not, when he acquired the property, it was reasonably certain that these conditions would be met. If so, the additional periods are included in the life of the property.
+
+**¶ 16.** Where renewal or extension periods are considered part of the life of the property under the criteria set out in ¶ 15 above, and where the number of such renewals or extensions is indefinite, the property is not for a limited period and does not qualify as a class 14 property. Where the number of such renewals or extensions is definite, for example, where a licence is for an initial term of 5 years and the licensee has options to renew the licence for two further 3-year periods, the property is for a limited term, in this example 11 years. The number of renewals or extensions may, in fact, be limited in certain circumstances even if the relevant agreement does not expressly provide such limits. For instance, a licence under a Canadian patent under which the licensee has unlimited rights of renewal has a limited life because the life of the patent is itself limited to 17 years.
+
+**¶ 17.** Provisions, including force majeure and contingency termination clauses, which may result in an early termination of the life of a property are not considered relevant in determining the life of the property and whether or not the property is for a limited period. For example, a franchise with an initial term of 5 years containing an option exercisable by the franchisee to renew for one further period of 5 years is for a limited period, namely 10 years, notwithstanding that the franchisor may become entitled to terminate the franchise agreement upon giving 60 days notice.
+
+### Industrial Designs
+
+**¶ 18.** Under the Industrial Design Act, an industrial design is protected for a period of 5 years from the date of registration subject to renewal for a further period of up to 5 years. A registered industrial design is considered to be a franchise for a limited period and the life of the property on initial registration is 10 years.
+
+### Capital Cost
+
+**¶ 19.** The capital cost of a class 14 property includes the purchase price, if any, and any legal fees and disbursements, registration fees and representation expenses laid out to acquire the property. Expenses paid in a year in making a representation, relating to a business being carried on by a taxpayer, to a government, government agency or other body referred to in paragraph 20(1)(cc), including any representation for the purpose of obtaining a licence, permit, franchise or patent, are deductible under paragraph 20(1)(cc) (or, if an election is made, under subsection 20(9)). However, if the representation expense was laid out to acquire a class 14 property, it will also form part of the capital cost thereof. To avoid a further deduction under paragraph 20(1)(a) in respect of the same amount and to permit recapture of the expenditure, subsection 13(12) deems the amount deducted under paragraph 20(1)(cc) (or in respect of which an election has been made under subsection 20(9)), to the extent that it forms part of the capital cost of the property, to have been allowed as capital cost allowance.
+
+**¶ 20.** Where expenses related to the acquisition of a class 14 property are incurred in a year prior to the year in which the property is acquired, they will be added to the capital cost of the property in the year of its acquisition. No claim for capital cost allowance may be made in a year prior to the year of the actual acquisition of the relevant property.
+
+**¶ 21.** The capital cost to the original owner of a patent or industrial design includes research and development expenses incurred in discovering, designing or developing the property to the extent that such expenses have not already been deducted as scientific research expenditures or ordinary operating expenses in the computation of income.
+
+**¶ 22.** Once the invention or design has been developed to the point where a patent or an industrial design registration can be obtained, subsequent expenses for the purpose of turning the property to account would not form part of its capital cost.
+
+## Bulletin Revisions
+
+¶s 2 and 3 and ¶s 6 to 22 have not been revised since the issuance of IT-477 on April 30, 1981.
+
+The first sentence of the original [¶ 1](#P01) is now the *Summary* of the consolidated bulletin. [November 27, 2001]
+
+[¶ 4](#P04) was modified to reflect the CCRA's revised interpretative position regarding the apportionment of the cost of a class 14 property. [November 27, 2001]
+
+The example given in [¶ 5](#P05) was updated so as not to contradict the revised interpretative position set out in ¶ 4. [November 27, 2001]
+
+### Notice -- Bulletins do not have the force of law
+
+At the Canada Customs and Revenue Agency (CCRA), we issue income tax interpretation bulletins (ITs) in order to provide technical interpretations and positions regarding certain provisions contained in income tax law. Due to their technical nature, ITs are used primarily by our staff, tax specialists, and other individuals who have an interest in tax matters. For those readers who prefer a less technical explanation of the law, we offer other publications, such as tax guides and pamphlets.
+
+While the comments in a particular paragraph in an IT may relate to provisions of the law in force at the time they were made, such comments are not a substitute for the law. The reader should, therefore, consider such comments in light of the relevant provisions of the law in force for the particular taxation year being considered, taking into account the effect of any relevant amendments to those provisions or relevant court decisions occurring after the date on which the comments were made.
+
+Subject to the above, an interpretation or position contained in an IT generally applies as of the date on which it was published, unless otherwise specified. If there is a subsequent change in that interpretation or position and the change is beneficial to taxpayers, it is usually effective for future assessments and reassessments. If, on the other hand, the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date on which the change is published.
+
+***If you have any comments regarding matters discussed in an IT, please send them to:***
+
+***Manager, Technical Publications and Projects Section Income Tax Rulings Directorate Policy and Legislation Branch Canada Customs and Revenue Agency Ottawa ON K1A 0L5***
+
+Most of our publications are available on our Web site at: **www.ccra.gc.ca**

@@ -1,0 +1,12 @@
+---
+title: "EDN25 CANCELLED Sale of Unstamped Partially Manufactured Tobacco and Activities of a Tobacco Licensee"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edn25.html
+last_modified: 2010-09-03
+---
+# EDN25 CANCELLED Sale of Unstamped Partially Manufactured Tobacco and Activities of a Tobacco Licensee
+
+## This publication was cancelled
+
+This publication was cancelled as of 2026-04-15 and replaced with [EDN25 Sale of unstamped partially manufactured tobacco and activities of a tobacco licensee](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-notices/edn25-sale-unstamped-partially-manufactured-tobacco-activities-tobacco-licensee.html).
+
+The purpose of this Notice is to clarify the activities of tobacco licensees that are permitted under the Excise Act, 2001 with respect to unstamped partially manufactured tobacco.

@@ -1,0 +1,11 @@
+Title: EDN54 CANCELLED General Overview of the Cannabis Excise Stamps
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edn54.html
+Corpus path: corpus/cra/forms-publications/publications/edn54.md
+Document type: publication
+Last modified: 2025-03-19
+
+# EDN54 CANCELLED General Overview of the Cannabis Excise Stamps
+
+## This publication was cancelled
+
+This publication was cancelled as of 2025-03-19 and replaced by [Memorandum EDM6-1, General information on the possession, sale, and distribution of cannabis products and the cannabis stamping regime](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm6-1-general-information-possession-sale-distribution-cannabis-products-cannabis-stamping-regime.html).

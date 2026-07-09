@@ -1,0 +1,393 @@
+Title: ARCHIVED - Part I.3 - Tax on Large Corporations
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it532/archived-part-3-tax-on-large-corporations.html
+Corpus path: corpus/cra/forms-publications/publications/it532/archived-part-3-tax-on-large-corporations.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Part I.3 - Tax on Large Corporations
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+|  |  |  |  |  |
+
+| --- | --- | --- | --- | --- |
+
+| NO.: | **IT-532** |  | DATE: | October 13, 2000 |
+
+| SUBJECT: | INCOME TAX ACT **Part I.3 -- Tax on Large Corporations** |  |  |  |
+
+| REFERENCE: | Sections 181, 181.1, 181.2, 181.5, 181.7 and 181.71 (also sections 181.3 and 181.4 and subsection 245(1)) |  |  |  |
+
+### Notice -- Bulletins do not have the force of law
+
+***This document is also available for [download in PDF format](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it532.html).***
+
+## Contents
+
+- *[Application](#P75_3086)*
+
+- *[Summary](#P77_3381)*
+
+- *[Discussion and Interpretation](#P90_7932)*
+
+    - [Who Is Exempt from Part I.3 Tax](#P91_7961) (¶s 1-4)
+
+    - [Determining Carrying Value and Other Amounts](#P102_11326) (¶s 5-7)
+
+    - [Netting](#P106_13604) (¶s 8-10)
+
+    - [Accounting Treatment vs. Legal Form](#P110_15030) (¶s 11-15)
+
+    - [Accounting Principles -- Alternatives](#P116_17913) (¶s 16-17)
+
+    - [Restatement of Financial Statements](#P119_19174) (¶ 18)
+
+    - [Double Counting](#P121_20584) (¶ 19)
+
+    - [Capital Stock, Retained Earnings and Surplus](#P123_20929) (¶s 20-23)
+
+    - [Reserves](#P133_23604) (¶s 24-26)
+
+    - [Deferred Revenue (Credits)](#P137_25647) (¶s 27-29)
+
+    - [Write Downs](#P141_27444) (¶ 30)
+
+    - [Loans and Advances](#P143_28290) (¶s 31-35)
+
+    - [Bonds, Debentures, Notes, Mortgages, Bankers' Acceptances or Similar Obligations](#P167_30994) (¶s 36-39)
+
+    - [Investment Allowance](#P187_32793) (¶s 40-45)
+
+    - [Partnerships](#P207_36723) (¶s 46-51)
+
+    - [Joint Ventures](#P222_39876) (¶s 52-54)
+
+    - [Non-Resident Investment in Partnerships -- Section 181.4](#P226_41825) (¶ 55)
+
+    - [General Anti-Avoidance Rule (GAAR)](#P230_42779) (¶ 56)
+
+## Application
+
+This new bulletin discusses the Part I.3 tax on large corporations. It is intended to provide some clarification and certainty with regard to some of the more common interpretative issues with respect to this tax, as considered by the Canada Customs and Revenue Agency (CCRA) to date.
+
+## Summary
+
+Part I.3 tax -- the tax on large corporations -- was introduced in the budget of April 1989 and subsequently became law with the enactment of Bill C-28. It is generally effective with respect to taxation years ending after June 1989.
+
+Part I.3 tax is determined on an annual basis by applying a specified rate to the capital tax base of a corporation. Every corporation, whether resident or non-resident, and whether incorporated with or without share capital, is potentially liable for tax under Part I.3. Liability is based upon the capital tax base of the corporation and is independent of whether it is earning profits or incurring losses in a given year. Liability for Part I.3 tax for a particular taxation year will not occur, however, if the corporation is exempted therefrom for that year.
+
+Another consideration in determining whether a corporation is liable for any Part I.3 tax is the "capital deduction". The capital deduction is a maximum amount of $10,000,000 that reduces the capital tax base. Where corporations are related to each other at any time in a particular year, the capital deduction of $10,000,000 must be shared amongst them. Section 181.5 provides specific rules to determine the allocation of the capital deduction amongst corporations that are considered related. Once a corporation's Part I.3 tax liability is determined, it may be reduced, for taxation years ending after 1991, by the amount of its Canadian surtax liability. Any excess Canadian surtax may be applied against Part I.3 tax in the three preceding and seven subsequent taxation years.
+
+For purposes of this bulletin, the phrases "capital", "taxable capital employed in Canada of a corporation" and "taxable capital of a corporation" will be referred to generally as the "capital tax base". All references to statute are to the *Income Tax Act* unless otherwise stated and the expressions "financial institution", "long-term debt" and "reserves" have the meaning assigned to them by subsection 181(1).
+
+When determining a corporation's capital tax base, separate rules are used for three separate categories of corporations. Each of these categories is generally based on the specific nature of the corporation and the jurisdiction in which it carries on its business. The three categories, and their related sections of the Act, are as follows:
+
+(a) corporations that are not financial institutions and are resident in Canada -- section 181.2;
+
+(b) corporations that are not financial institutions and throughout the year were not resident in Canada, but carried on business in Canada during the year through a permanent establishment -- section 181.4; and
+
+(c) financial institutions -- section 181.3 (note: financial institutions are further divided into subcategories based upon the nature of their respective business).
+
+The comments in this bulletin primarily address the first category of corporations, that is, corporations that are resident in Canada and are not financial institutions -- since these corporations have been responsible for a significant portion of interpretative enquiries. (Unless otherwise indicated, any reference to a "corporation" in this bulletin means a corporation that is not a financial institution.) Nevertheless, it could be that a particular comment in the bulletin addresses an issue that is relevant to another category, particularly with respect to a component of capital or investment allowance. An example is our comments with respect to "capital stock, retained earnings and surplus", since this capital component is also common to certain financial institutions. Similarly, our comments with respect to "loans and advances" would be relevant to corporations that are not financial institutions and are not resident in Canada.
+
+In the application of Part I.3, as discussed below, subsection 181(3) requires the use of a balance sheet that is prepared in accordance with generally accepted accounting principles (GAAP). The *CICA Handbook* generally represents the accepted authority for the application of GAAP in Canada. Accordingly, this bulletin refers to various provisions of the Handbook in order to elaborate upon particular situations or to provide specific examples that relate to interpretative issues. It is not the intention of the CCRA to express opinions on GAAP. Where specific references have been made to a particular Handbook provision, the reader is advised that these comments relate solely to the context in which they are presented and represent the CCRA's understanding of the CICA guidelines at the date of this bulletin.
+
+## Discussion and Interpretation
+
+## Who Is Exempt from Part I.3 Tax
+
+**¶ 1.** Subsection 181.1(3) exempts from tax under Part I.3 for a given taxation year any corporation that was any one of the following:
+
+(a) a "non-resident owned investment corporation", as defined in subsection 133(8), throughout the year;
+
+(b) a "bankrupt", within the meaning assigned by the *Bankruptcy and Insolvency Act*, at the end of the year;
+
+(c) exempt from Part I tax under section 149 throughout the year on all of its taxable income;
+
+(d) neither resident in Canada at any time in the year nor carrying on business through a "permanent establishment", as defined in subsection 400(2) of the *Income Tax Regulations* (the "Regulations"), in Canada at any time in the year;
+
+(e) a "deposit or deemed deposit insurance corporation", as defined in subsections 137.1(5) and (5.1), respectively, throughout the year; or
+
+(f) a "cooperative corporation", as defined in subsection 136(2), throughout the year, having as its principal business the marketing or processing of natural products of its members or customers.
+
+**¶ 2.** Where a corporation is bankrupt at the end of its taxation year, it will be exempt from Part I.3 tax with respect to that particular taxation year. Paragraph 128(1)(*d*), however, provides for a deemed taxation year that ends on the day immediately before the day on which the corporation became a bankrupt and, consequently, the corporation is not a bankrupt as of the end of that deemed taxation year. The corporation would therefore be liable for Part I.3 tax with respect to that year.
+
+**¶ 3.** As indicated above, an exemption from Part I tax by reason of section 149 will exempt a corporation from Part I.3 tax as long as the corporation is exempt from Part I tax on all (100%) of its taxable income in a particular year. Where the taxable income of a corporation is nil, exempt status under Part I.3 may only be claimed if section 149 would have exempted all of its taxable income had it been positive. Where an insurer described in paragraph 149(1)(*t*) is only eligible for a partial exemption from Part I tax, the insurer is not considered exempt on all of its taxable income and is therefore subject to Part I.3 tax in that particular year. Fraternal or benevolent societies described in subsection 149(3) are not exempt from tax on all of their taxable income and are therefore subject to Part I.3 tax. However, a corporation described in paragraph 149(1)(*l*) that earns income subject to tax under subsection 149(5) is exempt from tax under Part I.3 because subsection 149(5) deems the property of such a corporation to be property of a trust. Tax under Part I is therefore payable by that trust and not the corporation.
+
+**¶ 4.** Federal Crown corporations are generally exempt from the application of Part I.3 because they are exempt from Part I tax on all of their taxable income by virtue of paragraph 149(1)(*d*). However, where a Federal Crown corporation is prescribed by section 7100 of the Regulations, or is controlled by one or more corporations that is so prescribed, an exemption from Part I tax may not be claimed under paragraph 149(1)(*d*) because of the application of subsection 27(2). Section 181.71 imports section 27 to Part I.3 with the effect that prescribed Crown corporations and corporations they control are unable to claim an exemption under paragraph 149(1)(*d*) and are therefore subject to tax under Part I.3.
+
+## Determining Carrying Value and Other Amounts
+
+**¶ 5.** The amounts and carrying values of the various components of a corporation's capital tax base are generally based upon amounts reflected in the corporation's unconsolidated balance sheet as prepared in accordance with generally accepted accounting principles (GAAP) and presented to the corporation's shareholders. GAAP, for this purpose, refers to those accounting principles specific to the accounting requirements of the Canadian Institute of Chartered Accountants (CICA), the accepted authority for the application of GAAP in Canada. In the case of a bank or insurance corporation required by law to report to the Office of the Superintendent of Financial Institutions (OSFI), the amounts and carrying values used to determine the capital tax base are those reflected in the balance sheet accepted by OSFI (or provincial equivalent where an insurance corporation is required to report to that authority).
+
+**¶ 6.** The expression "reflected in the balance sheet" includes the notes to the financial statements which are considered an integral component of those statements and, in the case of statements of asset and liabilities filed with OSFI, any supporting schedules. Accordingly, such notes or schedules may be used to determine an amount or carrying value. Reliance upon notes and schedules may be required, for example, where the value of a particular component of the capital tax base may not be readily determinable because it is part of a net figure in the balance sheet or where a specific component of the capital tax base is not identified as such in the balance sheet but detail as to its composition is included in the notes and supporting schedules.
+
+**¶ 7.** The balance sheet, pursuant to subsection 181(3), is used for the purpose of determining the carrying value of a corporation's assets or any other amount under Part I.3 that is relevant to the determination of the capital tax base. However, the description or characterization accorded a specific balance sheet item is not necessarily determinative for purposes of Part I.3. This recognizes that numerous balance sheet items may be grouped under one caption or that a balance sheet description may reflect an item's accounting substance rather than its legal form.
+
+## Netting
+
+**¶ 8.** The offsetting or netting of assets and liabilities is generally not permissible under GAAP except in a few cases such as where a debtor, as a result of an agreement with a creditor, has a legal right to offset or eliminate all or a portion of an obligation due to a creditor by applying, against that obligation, an amount of an obligation due to the debtor by that same creditor and the parties intend to act upon that right. Where netting is permissible under GAAP, the net amount of an item described on the balance sheet will represent the carrying value of that item for the purpose of determining the capital tax base.
+
+**¶ 9.** GAAP does not require the restatement of errors or misstatements in financial statements that are not material. In other words, it may be possible for financial statements to be considered to have been prepared in accordance with GAAP even in a situation where the presentation of a particular item on the balance sheet, in isolation, would not otherwise be in accordance with GAAP.
+
+**¶ 10.** The aggregation of balance sheet accounts under one heading, such as the inclusion of a number of debts or obligations under the single caption "current liabilities", should not be confused with netting or offsetting. The composition of these particular balances would be subject to individual examination to determine the appropriate amount or carrying value to be included in the capital tax base.
+
+## Accounting Treatment vs. Legal Form
+
+**¶ 11.** As indicated in [¶ 7](#P07), the balance sheet nomenclature used to describe or characterize a particular balance sheet item may be based upon its accounting substance rather than its legal form. It is the CCRA's position that the legal nature governs irrespective of the accounting treatment or nomenclature used to describe or characterize a particular transaction or event. The reporting of certain leases as sales or financing transactions (*CICA Handbook*, Section 3065) and the reporting of certain preferred shares with various debt characteristics as debt (*CICA Handbook*, Section 3860) are but two examples where the accounting characterizations may not reflect the legal nature of the transactions.
+
+**¶ 12.** Preferred shares that have been characterized as liabilities and reflected on the balance sheet in an amount equal to the redemption amount of the shares would, for the purposes of Part I.3, be considered to retain their legal character as shares of the capital stock of a corporation. The relevant amount or carrying value, however, would be the redemption amount since it is the amount that is reflected on the balance sheet of the corporation in accordance with GAAP.
+
+**¶ 13.** A lease that transfers substantially all of the benefits, risks and rewards of ownership may be treated as a sale for accounting purposes. Where the lease is treated at law as a lease, it will be considered to retain its character as a lease for purposes of Part I.3. Accordingly, notwithstanding the classification of a lease for accounting purposes, any indebtedness in respect of an arrangement that is at law a lease would not be included in the capital tax base by virtue of subsection 181.2(3). Similarly, any amount reflected in the balance sheet as a receivable in respect of such an arrangement would not qualify for an investment allowance by virtue of subsection 181.2(4).
+
+**¶ 14.** The equity and consolidation methods of accounting are not permitted by virtue of paragraph 181(3)(*a*). In circumstances where the only balance sheet prepared for presentation to the shareholders is on a consolidated basis, an unconsolidated balance sheet will have to be prepared for each of the parent and its subsidiary corporations for purposes of Part I.3. In such circumstances, it is the CCRA's position that the unconsolidated balance sheets must be prepared using the same accounting principles (other than consolidation) used in preparing the consolidated balance sheet presented to the shareholders.
+
+**¶ 15.** It is the CCRA's position that "push-down accounting", an accounting method described in the *CICA Handbook*, Section 1625, is not a consolidation method for the purpose of paragraph 181(3)(*a*). Accordingly, where a balance sheet has been prepared using this method, it would not be restated as described in [¶ 14](#P14), to eliminate the effects of the push-down accounting.
+
+## Accounting Principles -- Alternatives
+
+**¶ 16.** The CCRA recognizes that there are many instances where alternative methods of presentation and disclosure are available with respect to the recording of identical transactions and events. For example, the *CICA Handbook*, Section 3800, recommends either of two alternative methods of accounting for government assistance related to the acquisition of fixed assets: the assistance may be either deducted from the cost of the asset or may be set-up as a deferred credit and subsequently amortized. These alternatives may cause different results for the purposes of Part I.3. If a corporation is given alternative methods as in the above example, it may choose the one considered most appropriate, regardless of its impact upon the capital tax base.
+
+**¶ 17.** Corporations are not subsequently prohibited, for the purposes of Part I.3, from changing accounting principles provided that such change is in accordance with GAAP and is followed consistently thereafter. The GAAP used for Part I.3 purposes must be the same as those adopted for financial statement purposes. It is therefore unacceptable for a corporation to utilize one set of GAAP for financial statement purposes and a different set of GAAP for purposes of Part I.3.
+
+## Restatement of Financial Statements
+
+**¶ 18.** In addition to the results of the current period, financial statements often provide the reader with comparative data for one or more preceding years. Subparagraph 181(3)(*b*)(i) requires the use of a balance sheet that is ". . . presented to the shareholders of the corporation . . ." in determining the various components under Part I.3 for a given taxation year. It is the CCRA's view that financial statements presented to the shareholders only refer to the current year and do not extend to any years presented on a comparative basis. The fact that the financial statements, for any preceding years, reflect an amount that is not correctly stated does not necessarily mean that those statements were not prepared in accordance with GAAP. The *CICA Handbook*, Section 1506, provides that the correction of a material error of a prior period or periods will be excluded from the determination of net income for the current period. Such a determination would generally depend on the facts of the particular case such that there is no requirement to revise the financial statements for the period in which the error occurred. The correction is instead accounted for by restating the financial statements of the prior period on a comparative basis only. In such a case, the comparative statements would not be used to redetermine liability under Part I.3 for the prior year.
+
+## Double Counting
+
+**¶ 19.** There are instances where a particular balance sheet item may be included in or will be deductible from the capital tax base under two or more provisions within Part I.3. In these cases, subsection 181(4) will operate to ensure that the particular item will be included in, or deductible from, the capital tax base only once.
+
+## Capital Stock, Retained Earnings and Surplus
+
+**¶ 20.** A corporation's capital tax base includes, in accordance with paragraph 181.2(3)(*a*), the amount of the corporation's capital stock, retained earnings, contributed surplus and any other surpluses reflected on its balance sheet at year end.
+
+**¶ 21.** The amount of a corporation's capital stock includes the carrying value of all classes of shares -- including common, preferred and special category shares -- issued by the corporation. For this purpose, the carrying value of shares includes subscriptions receivable for the shares. Where corporations such as credit unions and cooperative corporations are incorporated without share capital, the total of their members' contributions are to be included in capital. It is the CCRA's view that contributions from members of credit unions, cooperatives and other such corporations that are commonly referred to as "saving's account share capital" are members' contributions and are accordingly included in the capital tax base pursuant to paragraph 181.2(3)(*a*).
+
+**¶ 22.** The retained earnings of a corporation, whether positive or negative (deficit), are included in or deducted from the capital tax base under paragraphs 181.2(3)(*a*) and (*i*), respectively. In applying the *CICA Handbook*, Section 3860, to financial instruments with mandatory redemption rights, the corporation may adopt an alternative presentation that shows the difference between the stated capital and the redemption amount as a negative component of shareholders' equity separate from retained earnings or deficit.
+
+**¶ 23.** The word "surplus" has a restricted usage for purposes of GAAP denoting either earned surplus (commonly referred to as retained earnings) or capital or contributed surplus (generally referring to transactions between a corporation and its own shareholders). Contributed surplus includes such amounts as premiums on shares issued, gains on forfeited shares and donated shares. The words "any other surpluses", however, extend beyond a strict accounting context and are, in the CCRA's view, to be interpreted broadly as generally meaning the excess of a corporation's assets over its liabilities and share capital. Any other surpluses would include amounts that, although not specifically reflected on the balance sheet as surpluses, represent such an excess and would be considered part of the capital or assets of the corporation. Examples of amounts that the CCRA may consider as other surpluses could include the following:
+
+- government assistance;
+
+- share options;
+
+- warrants or other similar rights;
+
+- deferred revenue; and
+
+- realized or unrealized gains, including foreign exchange gains not included in income.
+
+## Reserves
+
+**¶ 24.** Paragraph 181.2(3)(*b*) requires a corporation to include, in the calculation of its capital tax base, the amount of its reserves for the year except to the extent they were deducted, pursuant to a statutory provision, under Part I. Where the Part I statutory deduction with respect to a particular reserve exceeds the related accounting reserve, the excess will not reduce capital due to the use of the words ". . . except to the extent of . . .". For the purposes of Part I.3, reserves are defined in subsection 181(1) as meaning all of a corporation's reserves, provisions and allowances other than allowances in respect of depreciation and depletion but including deferred income taxes. "Depreciation and depletion" for this purpose is considered to include amortization of goodwill.
+
+**¶ 25.** The Part I.3 definition of "reserves" is broader than its accounting concept which is generally limited to an appropriation of retained earnings. In our view, amounts that are appropriated from capital (including retained earnings), charged to income in respect of future or contingent expenditures, or in fact earned (even though not considered earned for accounting purposes) but not included in income (and therefore not retained earnings), will generally constitute a reserve. Such amounts may also constitute other surpluses and be included in the capital tax base under paragraph 181.2(3)(*a*).
+
+**¶ 26.** Deferred income tax credit balances are included in capital as reserves pursuant to paragraph 181.2(3)(*b*) while deferred income tax debit balances are deducted from capital under paragraph 181.2(3)(*h*). A provision for anticipated taxes is considered a reserve and, accordingly, is added to capital unless a notice of assessment has been issued with respect to that amount, in which case the assessment establishes the tax liability which would only be included in the capital tax base pursuant to paragraph 181.2(3)(*f*) to the extent that the amount of the liability has been outstanding for more than 365 days before the end of the year.
+
+## Deferred Revenue (Credits)
+
+**¶ 27.** Deferred revenue or credits generally refer to amounts received or recorded as receivable that have not been earned for accounting purposes and are carried forward to be taken into income over a period of years. The CCRA considers that deferred credits (whether of a capital or income nature) either come within the definition of a reserve to be included in the capital tax base pursuant to paragraph 181.2(3)(*b*) or constitute other surpluses and are included in the capital tax base pursuant to paragraph 181.2(3)(*a*). No amount is included in the capital tax base where a corporation has billed in advance and such billing remains unpaid and unearned at year end.
+
+**¶ 28.** Notwithstanding the above, where deferred revenue is represented by cash, the entire amount is included in the capital tax base as an advance pursuant to paragraph 181.2(3)(*c*) independent of whether an amount in respect thereof is deducted under Part I. Where two or more such provisions (such as paragraphs 181.2(3)(*b*) and (*c*)) are applicable, subsection 181(4) will operate to prevent double counting as discussed in [¶ 19](#P19).
+
+**¶ 29.** In certain instances, such as in the accounting for long-term construction projects, GAAP does not necessarily require the complete recognition of income in a given year although the earning process is complete. In such case, the amount of deferred revenue (i.e., uncertified progress billings) that represents completed services is considered a reserve and accordingly added to the capital tax base irrespective of whether architectural or engineering approval or certification has been obtained. Since there is no statutory Part I deduction allowed with respect to these amounts, the full amount is included in the capital tax base pursuant to paragraph 181.2(3)(*b*).
+
+## Write Downs
+
+**¶ 30.** GAAP provides for the recognition of a write down in the carrying value of an asset where there has been a permanent impairment in value. For the purposes of Part I.3, such write downs are not considered reserves. In such case, the written down value as reflected on a balance sheet is the carrying value for Part I.3 purposes. However, if the write down reflects only a possible, contingent or temporary decline in the value of an asset, the CCRA would consider such a write down to constitute a reserve, which would be included in the capital tax base, except to the extent there has been a deduction taken under Part I with respect to that amount. The determination of whether a write down in value represents a temporary impairment in the value of an asset or otherwise would be a question of fact in any particular situation.
+
+## Loans and Advances
+
+**¶ 31.** The amount of all loans and advances to the corporation at the end of the year is included in the capital tax base pursuant to paragraph 181.2(3)(*c*). Accrued interest with respect to loans and advances, however, is considered separate from the amount of the loan or advance and is generally only included in the capital tax base to the extent it has remained outstanding for a period of at least 365 days before the end of the year.
+
+**¶ 32.** A loan is generally defined as delivery by one party, and receipt by another party, of a sum of money upon agreement, express or implied, to repay with or without interest. The carrying value of a loan -- whether secured or unsecured, long or short-term, and whether owed to related or non-related entities -- is included in the capital tax base. The current portion of a loan is also included in the capital tax base.
+
+**¶ 33.** The term "advance" often means simply "pay" or "pay money before it is due" and, therefore, has a broad scope. Generally, any amount received by a corporation that is not included in income will constitute an advance and will be required to be included in the capital tax base.
+
+**¶ 34.** The following are some of the amounts that must be included in the capital tax base as loans and advances:
+
+- line or letter of credit, to the extent drawn upon;
+
+- deferred revenue represented by cash;
+
+- bank overdrafts;
+
+- insurance policy loans;
+
+- gold loans;
+
+- outstanding cheques issued, to the extent they exceed funds on deposit, in all jurisdictions governed by common law;
+
+- outstanding cheques honored by the corporation's bank, to the extent they exceed funds on deposit, in the civil law jurisdiction of Quebec;
+
+- take-or-pay amounts;
+
+- prepaid amounts including rent received;
+
+- customer and security deposits;
+
+- contract advances;
+
+- proceeds from the sale of gift certificates, to the extent that they are not included in income;
+
+- forgivable loans;
+
+- inter-company loans between a parent corporation and its wholly-owned subsidiaries pursuant to a cash management system agreed to by a bank (generally referred to as a mirror accounting system) where overdrafts of subsidiaries are regularly transferred to the parent's account; and
+
+- drawings from a partnership, except to the extent they represent a distribution of a corporate partner's partnership capital included in its capital tax base.
+
+**¶ 35.** The following amounts would not be included in the capital tax base as loans or advances:
+
+- advance billings not received in cash where the service has been rendered;
+
+- loans legally defeased, provided no amount is reflected in the balance sheet in respect of the defeased debt; and
+
+- the mere granting or provision of credit facilities by a supplier, creditor or lender.
+
+## Bonds, Debentures, Notes, Mortgages, Bankers' Acceptances or Similar Obligations
+
+**¶ 36.** The amount of all indebtedness represented by bonds, debentures, notes, mortgages, bankers' acceptances or similar obligations is included in the capital tax base pursuant to paragraph 181.2(3)(*d*). The duration of the obligation and whether it relates to the acquisition of fixed assets or inventories is irrelevant to the determination of whether an amount is included under this paragraph.
+
+**¶ 37.** The following are some of the amounts that must be included in the capital tax base under paragraph 181.2(3)(*d*):
+
+- lien notes;
+
+- commercial paper;
+
+- indebtedness under a conditional sales contract;
+
+- balance of sale, where evidenced by a note, mortgage or other obligation; and
+
+- bond payable without regard to any bond discount, where the full amount of the bond payable is reflected on the face of the balance sheet.
+
+**¶ 38.** The amount of all other indebtedness, excluding lease obligations, that has been outstanding at the balance sheet date for more than 365 days is required to be included in the capital tax base pursuant to paragraph 181.2(3)(*f*). Some examples of indebtedness that could be included under this paragraph are the following:
+
+- current taxes payable;
+
+- ordinary trade accounts payable;
+
+- balance of sale;
+
+- accrued interest with respect to loans, advances, indebtedness, bonds, debentures, notes, mortgages, bankers' acceptances or similar obligations;
+
+- wages and salaries payable;
+
+- employee source deductions;
+
+- unfunded pension liabilities; and
+
+- contingent liabilities that can be reasonably estimated and have been charged against income.
+
+**¶ 39.** The following are some amounts that would not be included under paragraph 181.2(3)(*f*):
+
+- obligations under a lease; and
+
+- contingent liabilities that cannot be reasonably estimated.
+
+## Investment Allowance
+
+**¶ 40.** In computing its capital tax base, a corporation is entitled to a reduction in respect of certain of its investments. This reduction or investment allowance, calculated in accordance with subsection 181.2(4), is the total of the carrying values (as reflected on the corporation's balance sheet in accordance with GAAP) of certain of the corporation's assets. Where, in accordance with GAAP, the carrying value of an asset has been written down to reflect an impairment in value, whether permanent or temporary, such written down value as reflected on the corporation's balance sheet becomes the carrying value for investment allowance purposes.
+
+**¶ 41.** An investment allowance is unavailable where the investee corporation is exempt from tax under Part I.3, except where the exemption applies solely because the investee was non-resident and did not carry on business in Canada through a permanent establishment at any time in the year. With regard to the question of whether a corporation's business in Canada is carried on through a permanent establishment in Canada, the comments in the current version of IT-177, *Permanent Establishment of a Corporation in a Province and of a Foreign Enterprise in Canada*, may provide assistance.
+
+**¶ 42.** The following are some of the assets that qualify for an investment allowance:
+
+- Shares of another corporation, including non-resident corporations and "mutual fund corporations" within the meaning assigned by subsection 131(8).
+
+- Loans or advances to corporations that are not financial institutions. The comment concerning loans and advances in ¶s [31](#P31) to 35 are equally applicable for purposes of the investment allowance. In certain circumstances, subsection 181.2(6) deems a corporation to have made a loan to a corporation where a trust has been used as a conduit to make a loan to a related corporation that is not a financial institution.
+
+- Bonds, debentures, notes, mortgages or similar obligations of a corporation that is not a financial institution. This would include stripped bonds, commercial paper and indebtedness under conditional sales contracts or agreements.
+
+- Long-term debt of a financial institution. Long-term debt is generally defined in terms of the *Bank Act* definition of "subordinated indebtedness" where such indebtedness is evidenced by obligations issued for a term of not less than 5 years. A debt that may be retired before the 5-year term has expired is not considered long-term debt.
+
+**¶ 43.** The following are some of the assets that would not qualify for an investment allowance:
+
+- an interest in a trust, including units of a mutual fund trust within the meaning assigned by subsection 132(6);
+
+- bankers' acceptances;
+
+- trade accounts receivable, regardless of length of time outstanding;
+
+- government bonds, including bonds of government owned corporations;
+
+- any investments in leases;
+
+- share warrants and options; and
+
+- accrued interest receivable.
+
+**¶ 44.** A corporation that makes a loan or advance to a partnership, or holds a bond, debenture, note, mortgage or similar obligation issued by a partnership, is entitled to an investment allowance equal to the carrying value of the respective investment pursuant to paragraph 181.2(4)(*d*.1), if the following conditions are met:
+
+- the corporate lender must not be a member of that partnership; and
+
+- each member of the partnership must be, throughout the taxation year of the corporate investor, a corporation that is not a financial institution, and that is not exempt from Part I.3 tax except where the exemption applies solely because the member is a non-resident corporation that did not carry on business in Canada through a permanent establishment at any time in the year.
+
+**¶ 45.** Where a corporation has made a loan to a partnership in respect of which one of the members is another partnership, the loan will not qualify for the investment allowance even if all the members of that partnership are corporations.
+
+## Partnerships
+
+**¶ 46.** A partnership, whether general or limited, is not liable for Part I.3 tax. However, general or limited members of a partnership that are corporations are, pursuant to paragraph 181.2(3)(*g*), required to include a proportionate share of certain partnership amounts that would be included in the capital tax base of the partnership if it were a corporation. The proportionate share is equal to the corporate partner's share of the actual partnership net accounting income or loss for the fiscal period of the partnership ending within the corporate partner's taxation year.
+
+**¶ 47.** In computing its capital tax base, a corporate partner is required, in accordance with paragraph 181.2(3)(*g*), to include its proportionate share of the following amounts that are reflected in the balance sheet of the partnership, that has been prepared in accordance with GAAP:
+
+- reserves of the partnership (paragraph 181.2(3)(*b*)) net of statutory reserves deducted by the partnership in computing its income under Part I;
+
+- loans and advances, excluding amounts owing to corporate partners (paragraph 181.2(3)(*c*));
+
+- bonds, debentures, notes, mortgages, bankers' acceptances and similar obligations, excluding amounts owing to other corporate partners (paragraph 181.2(3)(*d*)); and
+
+- all other indebtedness outstanding for more than 365 days, excluding leases and amounts owing to corporate partners (paragraph 181.2(3)(*f*)).
+
+**¶ 48.** The wording of paragraph 181.2(3)(*g*) provides a look-through to a second-tier partnership. Where, for example, a corporation is a member of a partnership that is itself a member of another partnership, the corporation will be required to include in its capital tax base the proportionate amounts described above of both partnerships.
+
+**¶ 49.** There is no specific provision to add a corporate partner's share of partnership income or loss to the capital tax base. In our view, such income or loss is legally that of the corporate member and should, in accordance with GAAP, be reflected in its retained earnings and, therefore, is required to be included in the capital tax base by virtue of paragraph 181.2(3)(*a*).
+
+**¶ 50.** Paragraph 181.2(4)(*e*) provides an investment allowance with respect to a corporate partner's interest in a partnership. For this purpose, subsections 181.2(5) and 181(3) deem the interest to have a carrying value equal to the partner's proportionate share (as described above) of the total of the following partnership assets that are reflected on its balance sheet, prepared in accordance with GAAP, at the end of its fiscal period:
+
+- shares of corporations;
+
+- bonds, debentures, notes, mortgages or similar obligations of and loans or advances to other corporations that are not financial institutions;
+
+- long-term debt of financial institutions; and
+
+- dividends payable to the corporation at the end of the year on a share of the capital stock of another corporation.
+
+**¶ 51.** In each case, the investee corporation must not be exempt from Part I.3 tax except where the exemption applies solely because it is a non-resident corporation that did not carry on business in Canada through a permanent establishment at any time in the year.
+
+## Joint Ventures
+
+**¶ 52.** A joint venture is generally defined as a business undertaking by two or more parties in which profits, losses and control are shared. The determination of whether a corporation is a member of a partnership or a joint venturer can only be answered in light of the facts of the particular case. The courts, in certain cases, have recognized a joint venture as being a business relationship distinct from a partnership. The CCRA will generally rely upon provincial partnership legislation in making such a determination.
+
+**¶ 53.** Each joint venturer may be liable individually for joint venture operations or may be jointly liable with other joint venturers and in a proportion different to that in which they may share income or losses. If a corporate venturer is singularly liable for any indebtedness related to a joint venture, the full amount of that indebtedness would be included in the calculation of its capital tax base. However, if the corporate venturer is jointly liable with other co-venturers, only its appropriate portion of the indebtedness would be so included. The amount of indebtedness for which any particular joint venturer is liable would not necessarily be dependent upon any income or loss sharing arrangement among the venturers. Any income earned or loss incurred with respect to the joint venture would be considered that of the joint venturers and appropriately included in their respective capital tax bases reflected through their retained earnings on the basis of their respective taxation years.
+
+**¶ 54.** As noted previously, for purposes of Part I.3, paragraph 181(3)(*a*) disallows use of both the equity and consolidation methods of accounting. It is the CCRA's view that the application of the proportionate consolidation method (*CICA Handbook*, Section 3055) to the accounting for interests in joint ventures does not represent a true consolidation method and is therefore acceptable for Part I.3 purposes.
+
+## Non-Resident Investment in Partnerships -- Section 181.4
+
+**¶ 55.** Paragraph 181.4(*a*) requires that a corporation (other than a financial institution) that throughout the year was not resident in Canada include, in the calculation of its capital tax base, the carrying value of all assets used by it in the year, or held by it in the year in the course of carrying on any business through a permanent establishment in Canada. Where a non-resident carries on such a business through a partnership, the carrying value of assets with respect to that partnership will equal the non-resident's proportionate interest of the assets of the partnership that are used or held in relation to that business. Similarly, indebtedness referred to in paragraph 181.4(*b*) and the carrying value of assets referred to in paragraph 181.4(*c*) with respect to that partnership will be equal to the non-resident's proportionate interest of those amounts with respect to that business.
+
+## General Anti-Avoidance Rule (GAAR)
+
+**¶ 56.** The CCRA would consider the application of the general anti-avoidance rule (section 245) where transactions have not been undertaken or arranged primarily for *bona fide* purposes other than to obtain a "tax benefit", as defined in subsection 245(1), which would include the reduction of Part I.3 tax. For example, a temporary shift of assets otherwise ineligible for the investment allowance to assets which would qualify, particularly where the shift is undertaken at or near the end of the corporation's year end, would be subject to examination.
+
+### Notice -- Bulletins do not have the force of law
+
+At the Canada Customs and Revenue Agency (CCRA), we issue income tax interpretation bulletins (ITs) in order to provide technical interpretations and positions regarding certain provisions contained in income tax law. Due to their technical nature, ITs are used primarily by our staff, tax specialists, and other individuals who have an interest in tax matters. For those readers who prefer a less technical explanation of the law, we offer other publications, such as tax guides and pamphlets.
+
+While the comments in a particular paragraph in an IT may relate to provisions of the law in force at the time they were made, such comments are not a substitute for the law. The reader should, therefore, consider such comments in light of the relevant provisions of the law in force for the particular taxation year being considered, taking into account the effect of any relevant amendments to those provisions or relevant court decisions occurring after the date on which the comments were made.
+
+Subject to the above, an interpretation or position contained in an IT generally applies as of the date on which it was publicized, unless otherwise specified. If there is a subsequent change in that interpretation or position and the change is beneficial to taxpayers, it is usually effective for future assessments and reassessments. If, on the other hand, the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date on which the change is publicized.
+
+***If you have any comments regarding matters discussed in an IT, please send them to:***
+
+***Director, Business and Publications Division Income Tax Rulings Directorate Policy and Legislation Branch Canada Customs and Revenue Agency Ottawa ON K1A 0L5***

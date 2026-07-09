@@ -1,0 +1,687 @@
+---
+title: "NOTICE266 - For discussion purposes only - Draft GST/HST Technical Information Bulletin, Harmonized Sales Tax – Self-assessment of the provincial part of the HST in respect of property and services brought into a participating province"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice266/draft-GST-HST-Technical-Information-Bulletin-Harmonized-Sales-Tax-Self-assessment-provincial-part-HST-respect-property-services-brought-into-participating-province.html
+---
+# NOTICE266 - For discussion purposes only - Draft GST/HST Technical Information Bulletin, Harmonized Sales Tax – Self-assessment of the provincial part of the HST in respect of property and services brought into a participating province
+
+GST/HST Notices - Notice 266 September 2011
+
+## For discussion purposes only
+
+**Draft GST/HST Technical Information Bulletin,**Harmonized Sales Tax – Self-assessment of the provincial part of the HST in respect of property and services brought into a participating province.
+
+This publication is being disseminated by the Canada Revenue Agency in draft form for comments or suggestions, which should be sent by October 31, 2011 to the following:
+
+Manager Border Issues Unit General Operations and Border Issues Division Excise and GST/HST Rulings Directorate Canada Revenue Agency 10th floor, Place de Ville, Tower A 320 Queen Street Ottawa, ON K1A 0L5
+
+Email: [Patrick.McKinnon@cra-arc.gc.ca](mailto:Patrick.McKinnon@cra-arc.gc.ca) Telephone: 613-670-9900
+
+## Harmonized Sales Tax – Self-Assessment of the provincial part of the HST in respect of property and services brought into a participating province
+
+The provinces of Ontario and British Columbia have joined the Harmonized Sales Tax (HST) framework as a result of legislation passed by the governments of Canada, Ontario and British Columbia. Beginning July 1, 2010, the HST, which is administered by the Canada Revenue Agency (CRA), replaced the federal Goods and Services Tax (GST) and the existing provincial sales taxes in those provinces. In addition, federal regulations have been passed implementing an agreement signed by the governments of Canada and Nova Scotia to increase the provincial part of the HST in Nova Scotia, effective July 1, 2010.
+
+This publication replaces GST/HST Technical Information Bulletin B-079 Self-Assessment of the HST on Supplies Brought into a Participating Province, dated February 28, 1997. It explains the rules in the Excise Tax Act (the Act) and its regulations that require self‑assessment of the provincial part of the HST in respect of personal property and services brought into a participating province and that have not been subject to the provincial part of the HST at the same or higher provincial rate as the rate for that province. This includes new self‑assessment rules announced in the Backgrounder released by the Department of Finance on February 25, 2010, entitled Place of Supply, Self-Assessment and Rebate Rules for the Harmonized Sales Tax (HST) and reflected in Division IV.1 and regulations entitled New Harmonized Value-added Tax System Regulations, No. 2 published in the Canada Gazette, Part II, on June 30, 2010. In addition, it includes rules included in Regulations amending various GST/HST Regulations, No. 2 published in the Canada Gazette Part II on March 16, 2011, that are effective July 1, 2010, as well as the Proposed Amendments to the GST/HST Legislation and the proposed Draft Regulations Amending Various GST/HST Regulations which includes the proposed Selected Listed Financial Institutions Attribution Method (GST/HST) Regulations (draft SLFI Regulations), both announced on January 28, 2011. Any commentary in this bulletin should not be taken as a statement by the CRA that these proposed amendments will be enacted in their current form.
+
+All legislative references in this bulletin refer to the Excise Tax Act and its regulations unless otherwise indicated. Further, all references in this publication to supplies are to taxable (other than zero-rated) supplies made in Canada unless otherwise indicated.
+
+## Table of Contents
+
+- [1. Introduction](#_Toc303070159)
+
+- [2. Tax on tangible personal property brought into a participating province](#_Toc303070160)
+
+    - [Overview](#_Toc303070161)
+
+    - [I. Tax on tangible personal property brought into a participating province](#_Toc303070162)
+
+          - [Application in offshore areas](#_Toc303070163)
+
+          - [When the tax becomes payable](#_Toc303070164)
+
+          - [Non-taxable property](#_Toc303070165)
+
+    - [II. Tax on tangible personal property supplied by non-registered non-resident suppliers](#_Toc303070166)
+
+          - [Application in offshore areas](#_Toc303070167)
+
+          - [When the tax becomes payable](#_Toc303070168)
+
+          - [Non-taxable property](#_Toc303070169)
+
+    - [III. Tax on imported commercial goods and specified motor vehicles](#_Toc303070170)
+
+          - [Imported commercial goods and specified motor vehicles](#_Toc303070171)
+
+          - [Use in offshore areas](#_Toc303070172)
+
+          - [Non-taxable property](#_Toc303070173)
+
+          - [When the tax becomes payable](#_Toc303070174)
+
+- [3. Tax on intangible personal property and services brought into a participating province](#_Toc303070175)
+
+    - [Overview](#_Toc303070176)
+
+    - [Tax on intangible personal property and services acquired for consumption, use or supply in a participating province](#_Toc303070177)
+
+          - [When the tax becomes payable](#_Toc303070178)
+
+          - [Non-taxable supplies](#_Toc303070179)
+
+- [4. Returns and payment of tax](#_Toc303070180)
+
+- [Appendix A – Division IV.1 provisions](#_Toc303070181)
+
+- [Appendix B – Definitions and concepts that are relevant for purposes of Division IV.1](#_Toc303070182)
+
+- [Appendix C – Definitions and concepts that are relevant for purposes of subdivision a of Division IV.1 (sections 220.05](#_Toc303070183)[to 220.07)](#_Toc303070183)
+
+- [Appendix D – Definitions and concepts that are relevant for purposes of section 220.05](#_Toc303070184)
+
+- [Appendix E – Tax in respect of TPP brought into a participating province from another province](#_Toc303070185)
+
+- [Appendix F – Part I of Schedule X to the Excise Tax Act](#_Toc303070186)
+
+- [Appendix G – Schedule VII to the Excise Tax Act](#_Toc303070187)
+
+- [Appendix H – Tax in respect of TPP supplied by a non-resident non-registered supplier and delivered or made available](#_Toc303070188)[or sent by mail or courier to a participating province (Section 220.06)](#_Toc303070188)
+
+- [Appendix I – Definitions and concepts that are relevant for purposes of section 220.07](#_Toc303070189)
+
+- [Appendix J – Tax in respect of specified motor vehicles and commercial goods imported into a participating province](#_Toc303070190)
+
+- [Appendix K – Definitions and concepts that are relevant for purposes of Subdivision b of Division IV.1 (section 220.08)](#_Toc303070191)
+
+- [Appendix L – Tax in respect of a taxable supply of intangible personal property or services made in a province to a resident of a participating province for consumption, use or supply in a participating province](#_Toc303070192)
+
+## 1. Introduction
+
+Taxable supplies that are made in Canada are subject to the GST (the federal part of the HST) under subsection 165(1) at a rate of 5%. Taxable supplies that are made in a participating province are also subject to the provincial part of the HST under subsection 165(2) at the provincial rate for the province, which results in the application of HST at the relevant harmonized rate. The provincial rates for the participating provinces set out under Schedule VIII are 10% for Nova Scotia, 8% for Ontario, New Brunswick, and Newfoundland and Labrador, and 7% for British Columbia. The province in which a supply is deemed to be made is determined by place of supply rules that are contained in Schedule IX and the *New Harmonized Value-Added Tax System Regulations*. These rules are explained in [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html). A new place of supply rule that would apply in certain circumstances to sales of specified motor vehicles is explained in [GST/HST Info Sheet GI-119, Harmonized Sales Tax – New Place of Supply Rule for Sales of Specified Motor Vehicles](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-119.html).
+
+The place of supply rules are designed to deem the province in which a supply of property or services is made to be the province in which consumption of property and services is most likely to occur and the supplier is required to collect the GST or HST in respect of the supply depending on the province in which the supply is made. However, in certain circumstances, personal property and services may subsequently be consumed in a different province with a higher provincial rate.
+
+Furthermore, depending on the circumstances, the importation of taxable goods into Canada is generally subject to GST at a rate of 5% or HST at the relevant combined rate. Such goods may subsequently be brought into a participating province with a higher provincial rate than the rate of tax that applied to their importation.
+
+Division IV.1 sets out self-assessment rules that in some circumstances require a person to report and pay the provincial part of the HST where property and services are brought into a participating province for consumption, use or supply in a participating province after having been supplied in a province with a lower provincial rate (if the province in which the supply is made is a non-participating province, the provincial rate is equal to 0%), or where taxable personal property is imported from outside of Canada into a participating province with a provincial rate that is higher than the provincial rate that was payable in respect of the importation of the property.
+
+Generally, self-assessment of the provincial part of the HST in respect of property or services brought into a participating province is required under Division IV.1 in the following four situations, which comprise the main sections of this publication:
+
+- tangible personal property (TPP) brought into a participating province (section 220.05);
+
+- tangible personal property supplied by non-registered non-resident suppliers (section 220.06);
+
+- imported specified motor vehicles and commercial goods (section 220.07); and
+
+- intangible personal property (IPP) and services acquired by a resident recipient of a participating province for consumption, use or supply in a participating province (section 220.08).
+
+As explained in this publication, there are several exceptions to the requirement to self-assess the provincial part of the HST in respect of property or services that are brought into a participating province. A significant exception generally applies where the property or service is brought into a participating province by a registrant for consumption, use or supply exclusively (i.e. 90% or more for registrants other than financial institutions and 100% for financial institutions) in the course of commercial activities of the registrant. The self-assessment rules can therefore have greater application with respect to non-registrants and certain entities, such as public service bodies, that are involved in exempt activities. Another significant exception generally applies where the provincial part of the HST has already been payable in respect of the property or service at a provincial rate that is equal to or higher than the provincial rate for the participating province into which the property or service is brought, including as a result of the supply of the property or service having been made in a participating province based on the application of the place of supply rules. In addition, there is an exception under section 220.04 that generally applies when a person is a selected listed financial institution. See the heading “Selected Listed Financial Institution” in Appendix B for additional information.
+
+The self-assessment rules that are explained in this publication are set out in Division IV.1, Schedule X, and Part 5 of the New Harmonized Value-Added Tax System Regulations No. 2 (the Regulations). Appendix A provides an overview of the key provisions of Division IV.1 that are explained in this publication.
+
+The place of supply rules are also complemented by rules that provide for rebates of the provincial part of the HST in certain circumstances where the provincial part has been paid in respect of supplies of property and services that are made in a participating province and subsequently removed from the participating province or acquired for consumption, use or supply outside the province, including in another participating province with a lower provincial part rate. These rebate rules will be explained in GST/HST Technical Information Bulletin Harmonized Sales Tax – Rebates of the Provincial Part of the HST that is to be released. Information regarding the self-assessment rules under Division IV (other than the rules that apply to financial institutions and that are explained in [GST/HST Technical Information Bulletin B-095, The Self-assessment Provisions of Section 218.01 and Subsection 218.1(1.2) for Financial Institutions (Import Rules)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-095.html)) that apply in respect of property or services supplied outside Canada and acquired for consumption, use or supply in a participating province will be addressed in the publication to be released entitled Harmonized Sales Tax – Imported Taxable Supplies. Note that this bulletin does not address the proposed provisions relating to provincial investment plans set out in the Proposed Draft Regulations Amending Various GST/HST Regulations (the draft regulations), which includes proposed changes to the New Harmonized Tax System Regulations, No. 2, which were announced by the Department of Finance on January 28, 2011 (see the definition of “Provincial Investment Plan” in Appendix B). This bulletin also does not address circumstances where the exception in section 220.04 does not apply to selected listed financial institutions.
+
+Appendix B contains definitions and concepts that are relevant for purposes of Division IV.1. Definitions and concepts that are only relevant for purposes of a particular subdivision or section of Division IV.1 are set out in separate appendices as indicated throughout the publication.
+
+## 2. Tax on tangible personal property brought into a participating province
+
+### Overview
+
+The self-assessment rules for tangible personal property that is brought into a participating province from another province or from outside Canada are set out in sections 220.05 to 220.07 under Subdivision a of Division IV.1, Schedule X and Division 3 of Part 5 of the Regulations. Generally, the self-assessment rules for tangible personal property apply consistently across all types of tangible personal property brought into a participating province, except with respect to specified motor vehicles. The rules governing when the provincial part of the HST is payable in respect of specified motor vehicles and how the tax is paid and collected are quite different in certain respects when compared to all other types of tangible personal property.
+
+As explained below, there are several exceptions to the requirement to self-assess the provincial part of the HST in respect of tangible personal property that is brought into a participating province. A significant exception to the obligation to self-assess the provincial part generally applies where the property is brought into a participating province by a registrant for consumption, use or supply exclusively (i.e., 90% or more for registrants other than financial institutions and 100% for financial institutions) in the course of commercial activities of the registrant. Another significant exception generally applies where the provincial part of the HST has already been payable in respect of the property at a provincial rate that is equal to or higher than the provincial rate for the participating province, including as a result of the supply of the property having been made in a participating province based on the application of the place of supply rules. In addition, there is an exception under section 220.04 that generally applies when a person is a selected listed financial institution. See the heading “Selected Listed Financial Institution” in Appendix B for additional information.
+
+The application of the rules with respect to specified motor vehicles and to other types of tangible personal property is explained in this section and in Section 4, Returns and Payments of Tax.
+
+Appendix C contains definitions and concepts that are relevant for purposes of Subdivision a of Division IV.1.
+
+### I. Tax on tangible personal property brought into a participating province
+
+(Subsection 220.05(1) and section 9 of the Regulations)
+
+Appendix D contains definitions and concepts that are relevant for purposes of subsection 220.05(1).
+
+Unless a specific exception applies, a person must self-assess the provincial part of the HST in respect of tangible personal property that is brought into a participating province by the person from another province. The amount of tax that is to be self‑assessed in this case is calculated in a prescribed manner under the Regulations by multiplying a prescribed value, in respect of the tangible personal property, by the appropriate rate.
+
+The rate is equal to the difference between the provincial rate for the participating province into which the tangible personal property is brought and the provincial rate for the other province from which the property is brought (if the other province is a non-participating province, the provincial rate is equal to 0%). If the tangible personal property is a specified item in respect of the other province, the rate is the provincial rate for the participating province that the property is brought into.
+
+If the tangible personal property is a specified motor vehicle that the person is required to register under the laws of the participating province relating to the registration of motor vehicles, the value of the property is equal to the “specified value” of the vehicle. If the tangible personal property is not such a specified motor vehicle and consideration was paid or payable in respect of an arm’s length sale of the property made at any time to the person, the value of the property is equal to the lesser of the value of that consideration and the fair market value of the property at the time it is brought into the participating province. In any other case, including where the tangible personal property has been supplied by way of lease, the value is equal to the fair market value of the property at the time it is brought into the participating province.
+
+The actual formula for determining the amount of tax payable under subsection 220.05(1) is equal to
+
+A × B
+
+where
+
+A is the percentage determined by the formula C – D
+
+where
+
+C is equal to the tax rate for the participating province, and
+
+D is equal to:
+
+- if the property is a specified item in respect of the other province, 0%, and
+
+- in any other case, the provincial rate for the other province;
+
+B is equal to:
+
+- if the property is a specified motor vehicle that the person is required to register under the laws of the participating province relating to the registration of motor vehicles, the specified value in respect of the specified motor vehicle,
+
+- if the property is not a specified motor vehicle referred to in paragraph (a) and consideration was paid or payable in respect of a supply of the property made by way of sale at any time to the person by another person with which the person dealt at arm’s length, the lesser of the value of that consideration and the fair market value of the property at the particular time, and
+
+- in any other case, the fair market value of the property at the particular time.
+
+#### Application in offshore areas
+
+(Subsection 220.05(4))
+
+A person is not required to self-assess the provincial part of the HST in respect of tangible personal property that is brought into the Nova Scotia offshore area or Newfoundland offshore area from another province, unless the property is brought into the area for consumption, use or supply in the course of an offshore activity.
+
+### Example 1
+
+An individual who lives in Ontario and is visiting Manitoba purchases a laptop computer for $500 (which is also equal to its fair market value) for personal use from a Manitoba retailer. The individual picks up the computer at the retailer’s premises in Manitoba and is required to pay GST at a rate of 5% in respect of the purchase to the supplier.
+
+When the individual returns to Ontario with the computer, tax becomes payable by the individual in respect of the computer. The amount of tax that the individual is required to self-assess is equal to $40 (8% (8% Ontario provincial rate – 0% Manitoba provincial rate) × $500 (value of the consideration for the supply)).
+
+### Example 2
+
+An individual who lives in Nova Scotia and is visiting British Columbia purchases adult clothing from a retailer for $900 (which is also equal to its fair market value) in British Columbia. The individual picks up the clothing at the retailer’s premises and is required to pay HST at the rate of 12% (consisting of the 5% federal part and the 7% provincial part of the HST in British Columbia) in respect of the purchase to the supplier.
+
+When the individual returns to Nova Scotia with the clothing, the tax becomes payable by the individual in respect of the clothing. The amount of tax that the individual is required to self-assess is equal to $27 (3% (10% Nova Scotia provincial rate – 7% British Columbia provincial rate) × $900 (value of the consideration for the supply)).
+
+### Example 3
+
+A supplier in New Brunswick sells goods to an unrelated purchaser in Nova Scotia that is engaged in exempt activities. The supply of the goods is made in New Brunswick and the supplier collects HST at the rate of 13% (consisting of the 5% federal part and the 8% provincial part of the HST in New Brunswick) in respect of the supply. The goods have a fair market value of $10,000, but the supplier agrees to sell the goods to the purchaser for $9,000. The purchaser then immediately brings the goods into Nova Scotia.
+
+When the purchaser brings the goods into Nova Scotia, the tax becomes payable by the purchaser in respect of the goods. The amount of tax that the purchaser is required to self‑assess is equal to $180 (2% (10% Nova Scotia provincial rate – 8% New Brunswick provincial rate) × $9,000 (the lesser of the value of the consideration for the supply and the fair market value)).
+
+### Example 4
+
+A supplier in Quebec sells goods to a related purchaser in New Brunswick that is involved in exempt activities. The supply of the goods is made in Quebec and GST at a rate of 5% is collected by the supplier in respect of the sale. The goods have a fair market value of $20,000, but the supplier agrees to sell the goods to the purchaser for $5,000. The purchaser then immediately brings the goods into New Brunswick.
+
+When the purchaser brings the goods into New Brunswick, the tax becomes payable by the purchaser in respect of the goods. Because the supplier and purchaser do not deal with each other at arm’s length, the amount of tax that the purchaser is required to self-assess in respect of the goods is based on the fair market value of the goods when they are brought into New Brunswick. The amount of tax that the purchaser is required to self‑assess is equal to $1,600 (8% (8% New Brunswick provincial rate – 0% Quebec provincial rate) × $20,000 (the fair market value of the goods)).
+
+### Example 5
+
+A leasing business in Alberta leases equipment, valued at $2,000, to a public college located in British Columbia pursuant to a two‑month lease. The equipment is for use in exempt activities of the college. The college takes delivery of the equipment in Alberta, and brings it into British Columbia other than for consumption, use or supply in the course of commercial activities. Because the supply is made in a non‑participating province, only GST at a rate of 5% is collected in respect of the lease.
+
+When the college brings the equipment into British Columbia, the tax becomes payable in respect of the equipment. Although the leasing business and the college deal with each other at arm’s length, the supply of the equipment is a supply by way of lease, and thus tax becomes payable by the college based on the equipment’s fair market value when it is brought into British Columbia. The amount of tax that the college is required to self‑assess is equal to $140 (7% (7% British Columbia provincial rate – 0% Alberta provincial rate) × $2,000 (fair market value of the equipment)).
+
+### Example 6
+
+An individual who lives in Newfoundland and Labrador and is visiting Ontario purchases children’s clothing and a children’s car seat for a total of $500 from a retailer in Ontario. The individual picks up the clothing and car seat at the retailer’s premises. Because the clothing and car seat qualify as specified items in Ontario, the individual only pays the federal part of the HST at the rate of 5% in respect of the purchase.
+
+The children’s clothing and car seat are not specified items in Newfoundland and Labrador. When the individual brings the goods into Newfoundland and Labrador, the tax becomes payable by the individual in respect of the goods. Because the clothing and car seat are specified items in Ontario and not subject to the provincial part of the HST when supplied in Ontario, the rate to be used when self-assessing tax owing by the individual would be 8%, which is the provincial rate for Newfoundland and Labrador. The amount of tax that the individual is required to self-assess is equal to $40 (8% (8% Newfoundland and Labrador provincial rate – 0%, since the goods are specified items in respect of Ontario) × $500 (the value of the consideration for the supply of the goods)).
+
+### Example 7
+
+An individual who lives in Nova Scotia purchases a specified motor vehicle from a dealer in Saskatchewan. The supply of the vehicle is made in Saskatchewan and GST at a rate of 5% is collected by the supplier in respect of the supply.
+
+The individual returns to Nova Scotia a week later with the vehicle, where it needs to be registered with the Nova Scotia vehicle licensing authority. The licensing authority determines the specified value of the vehicle to be $30,000. The amount of tax that the individual is required to pay to the provincial licensing authority is equal to $3,000 (10% (10% Nova Scotia provincial rate – 0% Saskatchewan provincial rate) × $30,000 (the specified value of the vehicle)).
+
+### Example 8
+
+An individual who lives in British Columbia purchases a new mobile home that is not affixed to land from a person in Alberta for $20,000. The individual retains a carrier to ship the mobile home from Alberta to a place in British Columbia. The place of supply of the mobile home is in Alberta.
+
+Tax becomes payable by the individual in respect of the mobile home when it is brought into British Columbia. The mobile home is not affixed to land and as a result is tangible personal property. The individual is therefore required to self-assess tax in the amount of $1,400 (7% (7% British Columbia provincial rate – 0% Alberta provincial rate) × $20,000 (the value of the consideration for the supply)).
+
+#### When the tax becomes payable
+
+(Subsection 220.05(2))
+
+The time at which the provincial part of the HST becomes payable in respect of tangible personal property depends on the circumstances. In the case of a specified motor vehicle that is required to be registered under the motor vehicle registration laws of the participating province, the provincial part of the HST becomes payable on the earlier of the day the person registers the vehicle in the province and the day on or before which the person is required to register the vehicle in the province. In this case, the tax is not required to be reported on a GST/HST return, but rather is collected by the provincial licensing authority on behalf of the Receiver General when the vehicle is registered.
+
+In any other case, the provincial part of the HST in respect of the tangible personal property becomes payable on the day the property is brought into the province.
+
+The manner in which to self-assess the provincial part of the HST payable is explained in Section 4, Returns and Payments of Tax.
+
+### Example 9
+
+An individual who lives in Nova Scotia purchases adult clothing in British Columbia for $200 on August 1, 2010, and purchases adult clothing in Alberta for $200 on August 2, 2010. The individual brings the clothing back to her home in Nova Scotia on August 3, 2010.
+
+Tax becomes payable by the individual on August 3, 2010, the day the clothing is brought into Nova Scotia, at the rate of 10% (10% - 0%) in respect of the clothing purchased in Alberta and at the rate of 3% (10% – 7%) in respect of the clothing purchased in British Columbia. The amount of tax that the individual is required to self‑assess is equal to $26 [$6 (3% (10% Nova Scotia provincial rate – 7% British Columbia provincial rate) × $200 (the consideration for the supply of the goods)) + $20 (10% (10% Nova Scotia provincial rate – 0% Alberta provincial rate) × $200 (the consideration for the supply of the goods))].
+
+### Example 10
+
+An individual who lives in New Brunswick purchases a specified motor vehicle on January 10, 2011, from a dealer in Quebec. The individual picks up the vehicle in Quebec. The supply is made in Quebec and is subject to GST at a rate of 5% which is collected by the dealer.
+
+On January 18, 2011, the individual subsequently returns to New Brunswick with the vehicle, where under the laws of that province, the vehicle must be registered within a specified number of days of the vehicle’s entry into the province. The individual registers the vehicle before it is required to be registered and is required at that time to self-assess tax and pay the tax to the provincial licensing authority in New Brunswick at the rate of 8%.
+
+### Example 11
+
+A business brings a specialized truck from Quebec into Ontario for two weeks to dig wells. The truck was previously only used in Quebec. The truck falls within the definition of “specified motor vehicle”, but is not required to be registered under Ontario legislation relating to the registration of motor vehicles.
+
+Despite the truck being a specified motor vehicle, if it is not required to be registered in Ontario, it will be treated like other tangible personal property with respect to when tax becomes payable in respect of the truck. As a result, tax in respect of the truck will become payable by the business at the provincial rate of 8% when it is brought into Ontario, instead of on the earlier of the day the truck is registered, or required to be registered, in Ontario.
+
+### Non-taxable property
+
+(Subsection 220.05(3) and sections 10, 12 and 23 of the Regulations)
+
+The provincial part of the HST is not required to be self-assessed in respect of tangible personal property brought into a participating province:
+
+- where the property is included in Part I of Schedule X to the Act and is not prescribed property (paragraph 220.05(3)(a)); or
+
+- in prescribed circumstances (paragraph 220.05(3)(b)).
+
+Appendix E includes a flowchart that summarizes the rules under subsection 220.05(3) governing the exceptions to the self-assessment of the provincial part of the HST in respect of tangible personal property brought into a participating province by a person.
+
+**Non-taxable property included in Part I of Schedule X that is not prescribed property (paragraph 220.05(3)(a) and sections 12 and 23 of the Regulations)**
+
+Under paragraph 220.05(3)(a), the provincial part of the HST is not payable in respect of tangible personal property brought into a participating province by a person if it is included in Part I of Schedule X and is not prescribed property. As explained below, to determine whether property qualifies as non-taxable property under paragraph 220.05(3)(a) it is necessary to consider the provisions of Part I of Schedule X and sections 12 and 23 of the Regulations.
+
+**Property included in Part I of Schedule X**
+
+Part I of Schedule X to the Act lists tangible personal property that is conditionally relieved of the provincial part of the HST when it is brought into a participating province by a person. Generally, tangible personal property described in Part I includes:
+
+- tangible personal property that would generally be zero-rated (i.e., subject to tax at the rate of 0%) under Schedule VI (zero-rated supplies) (section 15 of Part I of Schedule X);
+
+- certain tangible personal property that is relieved of tax when imported pursuant to Schedule VII (non-taxable importations); and
+
+- tangible personal property, other than a specified motor vehicle, that is brought into a province by a registrant and that is to be consumed, used or supplied exclusively (i.e., 90% or more for registrants other than financial institutions and 100% for financial institutions) in the registrant’s commercial activities, provided the registrant does not use the Quick Method of Accounting, the Special Quick Method of Accounting for Public Service Bodies, or the net tax calculation for charities (section 22 of Part I of Schedule X).
+
+Appendix F contains Part I of Schedule X in its entirety, while Appendix G contains the text of Schedule VII, some of which is relevant for purposes of Schedule X.
+
+**Prescribed property under section 23 of Part I of Schedule X and section 23 of the Regulations**
+
+Section 23 of Part I of Schedule X provides that prescribed property that is brought into a participating province in prescribed circumstances, subject to such terms and conditions as may be prescribed, is non-taxable property. For purposes of section 23 of Part I of Schedule X, section 23 of the Regulations prescribes property where the requirement to self-assess the provincial part of the HST is relieved. Section 23 of the Regulations is similar to some of the relieving provisions under Part I of Schedule X, but addresses situations where tangible personal property is brought into a participating province after being removed from another participating province.
+
+**Prescribed property for purposes of paragraph 220.05(3)(a)**
+
+Pursuant to section 12 of the Regulations, property that is included in section 18, 20 or 21 of Part I of Schedule X to the Act is prescribed property for purposes of paragraph 220.05(3)(a), except if the property is included in another section (other than sections 18, 20 and 21) of that Part.
+
+Section 18 describes property that is brought into a participating province by a person after having been supplied to the person by another person in circumstances in which tax was payable in respect of the property by the person under subsection 165(2) or section 218.1.
+
+Section 20 describes property that is brought into a participating province by a person after having been imported by the person in circumstances in which:
+
+- tax was not payable under section 212 in respect of the property because of section 213; or
+
+- tax was payable under section 212.1 and the person was not entitled to a rebate of that tax under section 261.2.
+
+Section 21 describes property that is brought into a participating province by a person after having been used in, and removed from, a participating province by the person and in respect of which the person was not entitled to claim a rebate under section 261.1.
+
+Property that is included in sections 18, 20 and 21 may still qualify as non-taxable property under paragraph 220.05(3)(a), if it is included under another section of Part I of Schedule X. This includes property that is included in the similar, but more restrictive, paragraphs 23(d), (f) and (g) of the Regulations. Also, property that does not qualify as non-taxable property under paragraph 220.05(3)(a) can still qualify as non-taxable property under paragraph 220.05(3)(b), as explained below.
+
+The following examples illustrate the application of the various provisions referred to above that are relevant for purposes of determining whether property is non-taxable under paragraph 220.05(3)(a). The examples also include an explanation of each of the paragraphs of section 23 of the Regulations.
+
+**Paragraph 23(a) – Casual donations and gifts**
+
+Paragraph 23(a) of the Regulations describes donations and gifts between people in participating provinces, and is similar in scope to section 6 of Part I of Schedule X to the Act.
+
+Specifically, the provision describes tangible personal property that is sent as a casual donation by a person in a participating province to a person in another participating province, or that is brought into a particular participating province by a person who is resident in a participating province as a gift to a person in the particular participating province. The fair market value of the donation or gift must not exceed $60 under such regulations as the Minister of Public Safety and Emergency Preparedness may make for purposes of heading 98.16 of Schedule I to the Customs Tariff. Advertising matter, tobacco and alcoholic beverages are excluded.
+
+### Example 12
+
+An individual who lives in British Columbia purchases a birthday gift for a relative who lives in Ontario. The individual purchases the gift for $50 in British Columbia and pays HST at the rate of 12%, and brings the gift along when he travels to Ontario to visit his family. The gift is not advertising matter, tobacco or an alcoholic beverage.
+
+The property is included in section 18 of Part I of Schedule X, but it is also included in section 23 of Part I of Schedule X by virtue of being included in paragraph 23(a) of the Regulations. Specifically, because the gift is described in another provision of Part I of Schedule X, it is not prescribed property under section 12 of the Regulations. The individual is therefore relieved under paragraph 220.05(3)(a) from self‑assessing tax in respect of the gift when he brings it into Ontario.
+
+**Paragraph 23(b) – Bequests**
+
+Paragraph 23(b) of the Regulations describes tangible personal property that is given as a gift or bequest to an individual who is resident in a participating province and is similar in scope to section 10 of Part I of Schedule X to the Act.
+
+Specifically, the provision describes tangible personal property given as a gift or bequest to an individual who is resident in a participating province and that is brought into a participating province. The property must either be the personal and household effects of an individual who died in a participating province and was resident in a participating province at the time of death, or personal and household effects that are received by an individual who is resident in a participating province, as a result or in anticipation of the death of an individual who was resident in a participating province.
+
+### Example 13
+
+An individual who lives in New Brunswick dies unexpectedly. The individual’s will lists a number of beneficiaries who each receive various possessions that were owned by her. Pursuant to the will, a friend who lives in Nova Scotia receives a mantle clock worth $1,500 that the individual owned for a number of years. The friend brings the clock into Nova Scotia.
+
+The clock is not prescribed property under section 12 of the Regulations because it is included elsewhere in Part I of Schedule X (specifically, under paragraph 23(b) of the Regulations made under that Part). The friend is therefore relieved from having to self‑assess tax.
+
+**Paragraph 23(c) – Medals, trophies and other prizes**
+
+Paragraph 23(c) of the Regulations describes medals, trophies and other prizes and is similar in scope to section 11 of Part I of Schedule X to the Act. Specifically, the provision is restricted to medals, trophies and other prizes that are not usual merchantable goods. They must be won in a competition occurring in a participating province, bestowed, received or accepted in a participating province, or be donated by a person in a participating province for heroic deeds, valour or distinction.
+
+### Example 14
+
+An individual who lives in Ontario participates in a fishing derby while on vacation in British Columbia. The individual wins an award for the most fish caught, and in honour of his achievement, he receives a plaque engraved with his name. The individual brings the plaque back to Ontario at the end of the vacation.
+
+The plaque is a prize won in a competition held in a participating province and is not a usual merchantable good. As a result, the plaque is not prescribed property under section 12 of the Regulations and is included in section 23 of Part I of Schedule X and the individual is relieved under paragraph 220.05(3)(a) from having to self‑assess tax in respect of the plaque.
+
+### Example 15
+
+An individual who lives in Nova Scotia wins a home theatre system worth $3,000 in a contest held in Ontario. The individual accepts delivery of the system in Ontario, uses it for a few weeks in Ontario and returns to Nova Scotia with the system.
+
+The theatre system is prescribed property under section 12 of the Regulations because the system was used in Ontario and it is not included under any other provision in Part I of Schedule X because it is a usual merchantable good. As a result, tax becomes payable by the individual in respect of the system when it is brought into Nova Scotia.
+
+**Paragraph 23(d) – Property previously subject to provincial part of the HST**
+
+Paragraph 23(d) of the Regulations describes property in respect of which the provincial part of the HST previously applied at a provincial rate equal to or higher than the provincial rate of the particular participating province in which the property is brought into. As explained in the previous section, this property would be considered to be prescribed property for purposes of paragraph 220.05(3)(a). This provision is similar in scope to section 18 of Part I of Schedule X to the Act. Specifically, the provision applies where:
+
+- tangible personal property is brought into a particular participating province at a particular time by a person; and
+
+- the provincial part of the HST of a participating province was payable by the person either under subsection 165(2) in respect of a supply of the property made in a participating province, under subsection 218.1(1) in respect of an imported taxable supply of the property, or under Division IV.1, at an equal or higher provincial rate than the provincial rate for the participating province at the particular time.
+
+Further, to be included under the provision, the tangible personal property could not have been a specified item in the participating province at the time the provincial part of the HST was previously payable, and the person bringing the property into the particular participating province could not have been entitled to a rebate under section 261.1 of any part of the provincial part that was previously payable. Generally, section 261.1 provides a rebate to a purchaser of tangible personal property supplied in a participating province who removes the property from that province to another province with a lower provincial rate within 30 days after the property is delivered to the person.
+
+### Example 16
+
+An individual who lives in Ontario and is visiting New Brunswick purchases a camera for personal use from a New Brunswick retailer for $400. The individual picks up the camera at the retailer’s premises and pays HST at the rate of 13% to the retailer in respect of the supply, consisting of the 5% federal part and the 8% provincial part of the HST in New Brunswick. The individual returns to Ontario with the camera six weeks after purchasing it.
+
+The camera would not be prescribed property under section 12 of the Regulations because it is included elsewhere in Part I of Schedule X (specifically, paragraph 23(d) of the Regulations made under that Part). As a result, the individual bringing the camera into Ontario would be relieved under paragraph 220.05(3)(a) from the requirement to self‑assess the provincial part of the HST in respect of it.
+
+### Example 17
+
+A municipality located in British Columbia purchases a truck that is a specified motor vehicle from a dealer located in Alberta. The dealer ships the truck to the municipality’s depot. The supply of the truck is made in British Columbia and HST at the rate of 12%, which includes the 7% provincial part of the HST, is collected by the dealer in respect of the supply.
+
+The provincial part of the HST was payable at a rate of 7% by the municipality in respect of a supply of the truck, which is equal to the provincial rate for British Columbia. When the truck is brought into British Columbia, it is not prescribed property under section 12 of the Regulations because it is described elsewhere in Part I of Schedule X (specifically, under paragraph 23(d) of the Regulations made under that Part). The municipality is therefore relieved under paragraph 220.05(3)(a) from having to self‑assess tax in respect of the truck.
+
+**Paragraph 23(e) – Property leased for more than three months**
+
+This provision is similar in scope to section 19 of Part I of Schedule X to the Act.
+
+Paragraph 23(e) of the Regulations describes tangible personal property brought into a participating province by a person at a particular time when it is being supplied in a participating province to the person by way of lease, licence or similar arrangement under which continuous possession or use of the property is provided for a period of more than three months and in circumstances in which tax under subsection 165(1) (the GST or federal part of the HST) is payable by the person in respect of the supply.
+
+### Example 18
+
+A non‑profit organization located in Nova Scotia leases equipment for a six‑month period from a company located in New Brunswick for use in Nova Scotia. Under the contract, each lease interval is a calendar month and the non‑profit organization is required to make monthly lease payments on the first business day of each month, beginning on April 1, 2011, which is the day the non‑profit organization takes delivery of the equipment in New Brunswick. All of the supplies of the equipment under the lease are made in Canada. Because the supplies are made in New Brunswick based on the ordinary location of the equipment being in that province, the non‑profit organization is required to pay HST at the rate of 13% when it makes its first payment. The non‑profit organization brings the equipment into Nova Scotia on April 3, 2011.
+
+The equipment is not prescribed property because the property is included elsewhere under Part I of Schedule X (specifically, under paragraph 23(e) of the Regulations made under that Part). Thus the business is relieved under paragraph 220.05(3)(a) from self‑assessing tax when the equipment is brought into Nova Scotia.
+
+**Paragraph 23(f) – Property previously subject to provincial part of HST on importation**
+
+Paragraph 23(f) of the Regulations covers the tax treatment of tangible personal property that is brought into a particular participating province after the provincial part of the HST of another participating province previously applied in respect of the property, when it was imported, at a provincial rate equal to or higher than the provincial rate for the particular participating province. This provision is similar in scope to section 20 of Part I of Schedule X to the Act.
+
+Specifically, the provision applies where:
+
+- tangible personal property is brought into a particular participating province at a particular time; and
+
+- the property was previously imported from outside Canada into another participating province where the provincial part of the HST previously applied under subsection 212.1(2) at a provincial rate that was equal to or higher than the provincial rate for the particular participating province at the particular time.
+
+Further, to be included under the provision, the tangible personal property could not have been a specified item in respect of the participating province at the time the provincial part of the HST was previously payable, and the person bringing the property into the particular participating province could not have been entitled to a rebate under section 261.2 of any part of the provincial part that was previously payable. Generally, section 261.2 provides a rebate to a person who is resident in a particular participating province and who imports property at a place in another province for consumption or use exclusively in any province other than the particular participating province.
+
+### Example 19
+
+An individual who lives in Ontario purchases goods for $400 from a non-registered non-resident supplier. Based on the terms of delivery in the sales agreement, the goods are supplied to the individual outside Canada. When the goods are imported by the individual at a border crossing in Ontario, the goods are accounted for under the Customs Act as non‑commercial goods, and the individual pays HST at the rate of 13%, consisting of the 5% federal part and the 8% provincial part of the HST in Ontario. The individual intends to give the goods as gifts, each worth $200, to two relatives who live in Newfoundland and Labrador on her next vacation there.
+
+The goods are not prescribed property when the individual brings them into Newfoundland and Labrador because the goods are described elsewhere under Part I of Schedule X (specifically, under paragraph 23(f) of the Regulations made under that Part). Thus, there is relief from self-assessment under paragraph 220.05(3)(a).
+
+**Paragraph 23(g) – Property previously used in any participating province**
+
+Paragraph 23(g) of the Regulations describes tangible personal property brought into a particular participating province after having been, at any time, used in, and, at another time, removed from, any another participating province with a provincial rate that was at the time of its removal equal to or higher than the provincial rate in the particular participating province. This provision is similar in scope to section 21 of Part I of Schedule X to the Act.
+
+Further, to be included under the provision, the tangible personal property could not have been a specified item in the participating province at the time the provincial part of the HST was previously payable, and the person bringing the property into the particular participating province could not have been entitled to a rebate under section 261.1 of any part of the provincial part that was previously payable. Generally, section 261.1 provides a rebate to a purchaser of tangible personal property supplied in a participating province who removes the property from that province to another province with a lower provincial rate within 30 days after the property is delivered to the person.
+
+### Example 20
+
+A person who is a resident of New Brunswick purchases a canoe for $500 in Ontario from a non-registered small supplier. The supply of the canoe is made in Ontario. The individual uses the canoe in Ontario and a few weeks later brings the canoe into New Brunswick, where the canoe does not qualify as a specified item.
+
+**Paragraph 23(h) – Specified motor vehicles not subject to GST**
+
+Paragraph 23(h) of the Regulations describes a specified motor vehicle brought into a particular participating province by a person after being supplied by way of sale in a participating province to the person in circumstances where tax under subsection 165(1) (the GST or federal part of the HST) was not payable in respect of the supply.
+
+Thus, where the federal part of the HST does not apply in respect of a sale in another participating province of a specified motor vehicle, paragraph 23(h) of the Regulations provides that the provincial part of the HST will also not apply when the vehicle is brought into a particular participating province. A person bringing a vehicle into a particular participating province will therefore not be required in this case to self‑assess the provincial part of the HST payable in respect of the vehicle. However, it is possible that the particular participating province may, under separate provincial legislation, impose a provincial motor vehicle tax in lieu of the federal and provincial parts of the HST, and collect the tax when the vehicle is registered by the particular participating province’s licensing authority. Because such a tax is imposed pursuant to provincial legislation, the provincial tax treatment in these cases may vary across each participating province.
+
+### Example 21
+
+An individual who lives in Nova Scotia purchases a specified motor vehicle from another individual who lives in Newfoundland and Labrador and who is not a GST/HST registrant. The place of supply of the vehicle is in Newfoundland and Labrador. Because the transaction is a private sale, neither the 5% federal part of the HST, nor the 8% provincial part of the HST in Newfoundland and Labrador, is payable in respect of the vehicle.
+
+**Other examples involving Part I of Schedule X**
+
+### Example 22
+
+An individual who has lived in Manitoba his entire life moves to Ontario, and brings his personal and household goods with him. The goods were acquired in Manitoba, have been owned by the individual for at least 31 days, and were in his possession before the move.
+
+Although the individual is bringing tangible personal property into Ontario, the individual is entering the province at that time with the intention of establishing a residence for a period of not less than 12 months (circumstances described by section 9 of Part I of Schedule X). As a result, self-assessment of the provincial part of the HST is not required in respect of the goods when the individual brings them into Ontario.
+
+### Example 23
+
+A registered business located in Ontario purchases equipment that is supplied in Quebec. The equipment is acquired by the business for exclusive use in the course of its commercial activities. The business pays GST at a rate of 5% in respect of the supply and brings the equipment into Ontario.
+
+Although the business is bringing the equipment into Ontario, the business is a registrant and will use it exclusively in its commercial activities. Because the circumstances under section 22 of Part I of Schedule X are met, tax is not payable by the business in respect of the equipment when it is brought into Ontario.
+
+### Example 24
+
+The facts of this example are the same as those in Example 16, where an individual who lives in Ontario brings a camera into the province after it was supplied by way of sale to the individual in New Brunswick and HST at the rate of 13% applied in respect of the supply.
+
+The camera would be included in section 18 of Part I of Schedule X to the Act because tax was already payable by the individual under subsection 165(2) in respect of the supply. Property brought into a participating province in these circumstances is also not prescribed property under section 12 of the Regulations since the property is included in section 23 of Part I of Schedule X. Paragraph 220.05(3)(a) therefore relieves the individual from self‑assessing tax in respect of the camera that is brought into Ontario.
+
+### Example 25
+
+An individual who lives in New Brunswick purchases, for personal use, a boat for $7,000 (which is equal to its fair market value) that is supplied to the individual in New Brunswick. The individual pays HST at the rate of 13% in respect of the supply to the supplier. The boat will be used only during the summer months at the individual’s cottage in Nova Scotia.
+
+The boat would be included in section 18 of Part I of Schedule X to the Act because tax was already payable by the individual under subsection 165(2) in respect of the supply at the provincial rate for New Brunswick. However, property brought into a participating province in these circumstances is also prescribed property under section 12 of the Regulations, and the property is not included in another section of Part I of Schedule X. Paragraph 220.05(3)(a) therefore does not relieve the person from self‑assessing tax in respect of the boat that is brought into Nova Scotia. The amount of tax that the individual is required to self‑assess is equal to $140 (2% (10% Nova Scotia provincial rate – 8% New Brunswick provincial rate) × $7,000 (the value of the consideration for the supply of the boat)).
+
+**Prescribed circumstances under paragraph 220.05(3)(b)**
+
+A person who brings into a participating province tangible personal property that does not qualify as non‑taxable property under paragraph 220.05(3)(a) (i.e., that is not included in Part I of Schedule X, or that is included in Part I but is also prescribed property under section 12 of the Regulations), may still be relieved of the obligation to self‑assess the provincial part of the HST in respect of the property under paragraph 220.05(3)(b) in prescribed circumstances. These prescribed circumstances are set out in section 10 of the Regulations.
+
+**Prescribed circumstances under section 10 of the Regulations**
+
+Pursuant to paragraph 10(a) of the Regulations, self‑assessment is not required by a person in respect of tangible personal property that is brought into a participating province if the person is an unregistered non‑resident supplier who supplied the property to a recipient that paid tax under section 220.06 in respect of the supply (as explained under the heading “Tax on tangible personal property supplied by non-registered non-resident suppliers”) and the property was delivered or made available to the recipient in the participating province or sent by mail or courier to an address in that province.
+
+In addition, pursuant to paragraph 10(b) of the Regulations, self‑assessment is not required if the total of all amounts of tax that would become payable by the person under Division IV.1 in a calendar month would be $25 or less without the application of this $25 threshold and the $25 thresholds in respect of sections 220.06 and 220.08 explained below. The calculation of this threshold does not include any amount that would be deducted under subsection 220.09(3) from the tax payable under Division IV.1 because it is a prescribed amount for purposes of subsection 234(3) in respect of a point‑of‑sale rebate in respect of property or a service that is a specified item in the participating province in which the tangible personal property is brought.
+
+In the case of property that is a specified motor vehicle that the person is required to register under the laws of the participating province relating to the registration of motor vehicles, the threshold is based on the calendar month that includes the day that is the earlier of the day on which the person registers the vehicle and the day on or before which the person is required to register the vehicle. In any other case, the threshold is based on the calendar month that includes the day on which the property is brought into the participating province.
+
+### Example 26
+
+An individual who lives in British Columbia purchases a telescope, valued at $500, from a non‑resident supplier as a gift for a family member in Nova Scotia. The telescope is sent to the individual in British Columbia, who at importation pays HST at the rate of 12%, consisting of the 5% federal part and the 7% provincial part of the HST in British Columbia under section 212.1. As a result, the total HST paid was $60 ($500 × 12%). The individual travels to Nova Scotia, bringing the telescope with her.
+
+Because the individual has paid the provincial part of the HST imposed under section 212.1, the telescope is prescribed property under the Regulations, and the individual is not relieved under paragraph 220.05(3)(a) from the requirement to self‑assess tax in respect of the telescope brought into Nova Scotia. The individual therefore determines that she would owe $15 in tax payable under Division IV.1 in respect of the telescope. However, no other tax under Division IV.1 is payable by the individual in the calendar month that includes the day on which the telescope is brought into Nova Scotia. As a result, the telescope is being brought into Nova Scotia in prescribed circumstances, since the total tax owing by the individual in the calendar month does not exceed the $25 threshold prescribed in section 10 of the Regulations. The individual is therefore relieved by paragraph 220.05(3)(b) from having to self‑assess tax in respect of the telescope.
+
+### Example 27
+
+An individual who lives in British Columbia and is visiting Alberta purchases goods from various retailers in Alberta that the individual picks up at the retailers’ premises. Only GST at a rate of 5% is collected by the retailer in respect of the goods. The total value of the goods is $300, of which $200 represents children’s goods that qualify as specified items in British Columbia.
+
+The individual returns to British Columbia with the goods. Self-assessment of the provincial part of the HST for British Columbia would be required in respect of the total value of the goods, other than those that are specified items in the province, brought into the province in a calendar month. The individual determines that $7 (7% (7% British Columbia provincial rate – 0% Alberta provincial rate) × $100 (value of the consideration for the supply of goods that are not specified items in BC)) in tax payable under Division IV.1 would be payable in respect of the goods. However, no other tax under Division IV.1 is payable by the individual in the calendar month that includes the day on which the goods are brought into British Columbia. As a result, the goods are brought into British Columbia in prescribed circumstances, because the total Division IV.1 tax owing by the individual in the calendar month does not exceed the $25 threshold prescribed in section 10 of the Regulations. Therefore, under paragraph 220.05(3)(b), tax is not payable by the individual in respect of the goods.
+
+### Example 28
+
+In a calendar month, a charity located in Nova Scotia purchases children’s clothing for $1,000 from a supplier in New Brunswick and adult clothing for $500 from a supplier in Quebec. Pursuant to the contracts with the suppliers, the charity takes delivery of the clothing at the suppliers’ premises and then ships them to its location in Nova Scotia in the calendar month. HST at the rate of 13% was collected in respect of the clothing supplied in New Brunswick, and GST at a rate of 5% was collected in respect of the clothing supplied in Quebec.
+
+The children’s clothing purchased in New Brunswick is a specified item and is therefore excluded from the calculation of the amount of tax to be self-assessed. The charity must self-assess the provincial part of the HST for Nova Scotia in respect of the total value of the clothing purchased in Quebec and brought into the province in the calendar month, including the clothing that is a specified item in the province. The charity determines that the amount of tax payable is equal to $50 (10% (10% Nova Scotia provincial rate – 0% Quebec provincial rate) × $500 (value of the consideration of clothing purchased in Quebec)). As a result, the clothing purchased in Quebec is not brought into Nova Scotia in prescribed circumstances, because the total tax owing under Division IV.1 by the charity in the calendar month exceeds the $25 threshold prescribed in the Regulations, and the charity must self-assess this tax.
+
+## II. Tax on tangible personal property supplied by non-registered non-resident suppliers
+
+(Subsection 220.06(1))
+
+**Participating Province**
+
+Unless a specific exception applies, a recipient of a supply of tangible personal property that is delivered or made available to the recipient in a participating province, or that is sent by mail or courier to an address in the participating province, at a particular time by a non-resident supplier who is not registered for GST/HST purposes, is required to self-assess the provincial part of the HST for the province in respect of the property. The amount of tax to be self-assessed in this case is determined by multiplying the provincial rate for the participating province by the value of the tangible personal property.
+
+If the tangible personal property was supplied to a recipient by way of an arm’s length sale made by a non-resident, the value of the property in respect of which the provincial part of the HST is payable is equal to the lesser of the value of the consideration paid or payable in respect of the supply and the fair market value of the property at the particular time. In any other case, the value of the tangible personal property is equal to the fair market value of the property at the particular time.
+
+If the tangible personal property were prescribed property supplied in prescribed circumstances, the value of the property would be determined in a prescribed manner. However, there are currently no regulations that exist to prescribe such property or circumstances.
+
+The actual formula for determining the amount of tax payable under subsection 220.06(1) is equal to
+
+A × B
+
+where
+
+A is the tax rate for the participating province; and
+
+B is
+
+- if the supply of the property was made to the person by way of sale by a non-resident person with whom the person dealt at arm’s length, the lesser of the value of the consideration paid or payable in respect of the supply and the fair market value of the property at the particular time;
+
+- notwithstanding paragraph (a), in the case of prescribed property supplied in prescribed circumstances, the value determined in the prescribed manner; and
+
+- in any other case, the fair market value of the property at the particular time.
+
+### Application in offshore areas
+
+(Subsection 220.06(4))
+
+A recipient of a supply of tangible personal property by an non-registered non-resident is not required to self-assess the provincial part of the HST in respect of the property where it is delivered or made available to the recipient, or sent to an address, in the Nova Scotia or Newfoundland offshore area unless the property is acquired by the recipient for consumption, use or supply in the course of an offshore activity.
+
+### Example 29
+
+A school authority in Ontario orders taxable goods, for use in its exempt activities, from an arm’s length non‑resident that is not registered for GST/HST for a price of $500 (which is equal to the fair market value of the goods). Based on the terms of the agreement for the supply, the goods are to be delivered to the school authority in Ontario. The supplier imports the goods accounting for them as commercial goods and delivers the goods to the school authority in Ontario. The supplier only pays GST at a rate of 5% with respect to the importation of the goods. The supplier has not paid tax in respect of the goods under either section 220.05 (explained in the previous section) or section 220.07 (explained in the next section).
+
+The school authority is a recipient of a taxable supply of goods that are, at a particular time, delivered or made available to the school authority in a participating province, Ontario, by a non-resident supplier who is not registered for GST/HST. The amount of tax that is payable by the school authority under subsection 220.06(1) in respect of the goods is equal to $40 (8% Ontario provincial rate × $500 (the value of the consideration for the supply)).
+
+### Example 30
+
+A charity located in New Brunswick purchases taxable goods, for use in its exempt activities, from a related person that is a non-registered non-resident. Based on the terms of the agreement for the supply, the goods are to be delivered to the charity in New Brunswick. Although the goods have a fair market value of $400, the charity purchases the goods from the non-resident for $100. The non-resident purchases the goods from a related unregistered small supplier located in Prince Edward Island for $100, and instructs the small supplier to deliver them to the charity at its New Brunswick premises, which the charity receives three days later.
+
+The charity is a recipient of a taxable supply of goods that are, at a particular time, delivered or made available to the charity in a participating province, New Brunswick, by a non-resident supplier who is not registered for GST/HST. When the goods are delivered, tax under subsection 220.06(1) therefore becomes payable by the charity at the provincial rate of 8% for New Brunswick. Because the charity and the non-resident supplier do not deal with each other on an arm’s length basis, the charity is required to self-assess tax based on the fair market value of the goods. The charity is therefore required to self-assess tax equal to $32 (8% New Brunswick provincial rate × $400 (the fair market value of the goods)).
+
+### When the tax becomes payable
+
+(Subsection 220.06(2))
+
+The provincial part of the HST becomes payable in respect of the tangible personal property on the day the property is delivered or made available to the recipient in the province. The manner in which to self‑assess the tax is explained in Section 4, Returns and Payments of Tax, of this publication.
+
+### Example 31
+
+An individual who lives in Nova Scotia places an order for goods with a non-registered non-resident for a purchase price of $300 (which is equal to their fair market value). The goods are purchased by the non-resident from a small supplier located in Nova Scotia, and the non-resident instructs the small supplier to deliver the goods to the individual. The goods are delivered to the individual at the individual’s residence on October 5, 2010.
+
+Tax under subsection 220.06(1) becomes payable by the individual on October 5, 2010, because that is the day on which the goods were delivered to the individual in Nova Scotia. The amount of tax payable is equal to $30 (10% Nova Scotia provincial rate × $300 (the value of the consideration for the goods)).
+
+### Example 32
+
+A business located in British Columbia purchases goods from a non-registered non-resident for a price of $500 (which is equal to their fair market value). The non-resident purchases the goods from an unregistered small supplier located in British Columbia. Pursuant to the contract between the business and the non-resident, delivery of the goods to the business occurs at the small supplier’s premises when the full amount of consideration is paid. The business is responsible for hiring a carrier to get the goods. The business is not engaged exclusively in commercial activities.
+
+The business pays the full amount owing on July 25, 2010, and the carrier arrives at the small supplier’s premises to pick up the goods, but the goods are not delivered to the business until August 1, 2010. Despite this, tax under subsection 220.06(1) becomes payable by the business on July 25, 2010, because that is the day on which the goods were made available to the business. The amount of tax payable is equal to $35 (7% British Columbia provincial rate × $500 (the value of the consideration for the goods)).
+
+### Non-taxable property
+
+(Subsection 220.06(3) and sections 11, 12 and 23 of the Regulations)
+
+The provincial part of the HST is not required to be self-assessed in respect of tangible personal property that is supplied to a person by a non-registered non-resident and delivered or made available to the person in a participating province, or sent by mail or courier to an address in a participating province:
+
+- where the property is a specified motor vehicle required to be registered under the motor vehicle registration laws of a participating province (paragraph 220.06(3)(a));
+
+- where the property is included in Part I of Schedule X to the Act and is not prescribed property (paragraph 220.06(3)(a)); or
+
+- under prescribed circumstances (paragraph 220.06(3)(b)).
+
+Appendix H includes a flowchart that summarizes the rules under subsection 220.06(3) governing the exceptions to the self-assessment of the provincial part of the HST in respect of tangible personal property that is supplied to a person by an unregistered non-resident and delivered or made available to the person in a participating province, or sent by mail or courier to an address in a participating province.
+
+**Property under Part I of Schedule X that is not prescribed property (paragraph 220.06(3)(a) and sections 12 and 23 of the Regulations)**
+
+With respect to Part I of Schedule X to the Act, the scope of relief from self-assessment of the provincial part of the HST under paragraph 220.06(3)(a) is the same as the relief found under paragraph 220.05(3)(a) as explained under the heading “Non-taxable property” under the section “Tax on tangible personal property brought into a participating province” of this bulletin. A brief explanation of Part I of Schedule X is also found under that heading, while Appendix F contains the text of Part I of Schedule X.
+
+To determine whether property qualifies as non-taxable property under paragraph 220.06(3)(a), it is necessary to consider the provisions of Part I of Schedule X, and sections 12 and 23 of the Regulations.
+
+Pursuant to section 12 of the Regulations, property that is included in section 18, 20 or 21 of Part I of Schedule X to the Act is prescribed property for purposes of paragraph 220.06(3)(a), except if the property is included in another section (other than sections 18, 20 and 21) of that Part.
+
+For purposes of section 23 of Part I of Schedule X to the Act, section 23 of the Regulations prescribes property in respect of which the requirement to self-assess the provincial part of the HST is relieved in respect of tangible personal property that is supplied by a non-registered non-resident to a recipient and the property is delivered or made available to the recipient in a participating province, or sent by mail or courier to an address in a participating province. The situations contemplated by section 23 of the Regulations are similar to specific relieving provisions under Part I of Schedule X, but address scenarios where the tangible personal property was previously removed from another participating province. A person who is the recipient of a supply, by an unregistered non-resident, of prescribed property that is delivered or made available in a participating province, or that is sent by mail or courier to an address in a participating province, in the prescribed circumstances described under section 23 of the Regulations will therefore be relieved of the requirement to self-assess tax in respect of the property.
+
+Part I of this section of the publication, as it relates to non-taxable property under subsection 220.05(3), describes the property that is prescribed under section 23 of the Regulations.
+
+Section 18 describes property that is brought into a participating province by a person after having been supplied to the person by another person in circumstances in which tax was payable in respect of the property by the person under subsection 165(2) or section 218.1.
+
+Section 20 describes property that is brought into a participating province by a person after having been imported by the person in circumstances in which:
+
+- tax was not payable under section 212 in respect of the property because of section 213; or
+
+- tax was payable under section 212.1 and the person was not entitled to a rebate of that tax under section 261.2.
+
+Section 21 describes property that is brought into a participating province by a person after having been used in, and removed from, a participating province by the person and in respect of which the person was not entitled to claim a rebate under section 261.1.
+
+Property that is included in sections 18, 20 and 21 may still qualify as non-taxable property under paragraph 220.06(3)(a) if it is included under another section of Part I of Schedule X. This includes property included in the similar but more restrictive paragraphs 23(d), (f) and (g) of the Regulations. Also, property that does not qualify as non-taxable property under paragraph 220.06(3)(a) can still qualify as non-taxable property under paragraph 220.06(3)(b), as explained below.
+
+**Prescribed circumstances (paragraph 220.06(3)(b))**
+
+(Section 11 of the Regulations)
+
+The requirement to self-assess the provincial part of the HST is also relieved in prescribed circumstances.
+
+Pursuant to section 11 of the Regulations, the recipient of a supply of tangible personal property that is delivered or made available to the recipient in a participating province, or sent by mail or courier to an address in a participating province, is not required to self-assess the provincial part of the HST if tax in respect of the bringing of the property into the province was previously paid by the supplier under either section 220.05 (explained in the previous section) or section 220.07 (explained in the following section).
+
+In addition, self-assessment is not required where the total amount of tax that would become payable by the person under Division IV.1 in a calendar month would be $25 or less without the application of this $25 threshold and the $25 thresholds in respect of sections 220.05 and 220.08. The calculation of this threshold does not include any amount that would be deducted under subsection 220.09(3) from the tax payable under Division IV.1 because it is a prescribed amount for purposes of subsection 234(3) in respect of a point-of-sale rebate in respect of property that is a specified item in the participating province.
+
+### Example 33
+
+An individual who lives in Newfoundland and Labrador purchases goods for $250 (which is equal to their fair market value) from a non‑registered non‑resident. The non‑resident purchases the goods from a small supplier located in Newfoundland and Labrador, and has the goods delivered to the individual.
+
+The total tax under section 220.06 that would be payable by the individual in respect of the goods that are delivered or made available to the individual in Newfoundland and Labrador in the calendar month would be equal to $20 (8% Newfoundland and Labrador provincial rate × $250 (value of consideration for the goods)). No other tax under Division IV.1 is payable by the individual in that month and the tax that would be payable in respect of the goods does not exceed the $25 threshold prescribed in the Regulations. Therefore, under paragraph 220.06(3)(b), tax is not payable by the individual in respect of the goods.
+
+## III. Tax on imported commercial goods and specified motor vehicles
+
+(Subsections 220.07(1) and (3))
+
+**Participating Province**
+
+Appendix I contains definitions and concepts that are relevant for purposes of section 220.07.
+
+### Imported commercial goods and specified motor vehicles
+
+(Subsections 220.07(1) and (3))
+
+The GST generally applies on most goods when they are imported into Canada. Pursuant to section 212, a person who is liable for the payment of duties under the *Customs Act* in respect of imported goods, or who would be liable if those goods were subject to duties under that Act, is required to pay the federal part of the HST (i.e., the GST) in respect of the goods when they are imported. In addition, where a resident of a participating province is liable, or would be liable, under that Act for the payment of duties in respect of an imported good, the resident is generally required under subsection 212.1(2) to also pay the provincial part of the HST at the rate for the participating province. However, imported goods that are either specified motor vehicles or commercial goods are excluded from the application of subsection 212.1(2). In this case, only the federal part of the HST is payable in respect of the importation of the goods into Canada. Therefore, unless an exception applies, a person who brings tangible personal property into a participating province from outside Canada that is either
+
+- a specified motor vehicle, or
+
+- a good accounted for as a commercial good under section 32 of the *Customs Act* and is, or would be, liable for the payment of duties under that Act in respect of the property,
+
+is instead required under subsection 220.07(1) to self-assess the provincial part of the HST in respect of the vehicle or good at the provincial rate for the participating province.
+
+Taxable imported goods that are not specified motor vehicles or accounted for as commercial goods are generally subject to the provincial part of the HST for a participating province under section 212.1 at the time they are imported into Canada by a resident of that province. In these cases, the tax is collected by the Canada Border Services Agency instead of being self-assessed.
+
+Where tax is payable under subsection 220.07(1), the amount of tax payable is determined by multiplying the tax rate for the applicable participating province by the value of the commercial goods or the specified motor vehicle. The value depends on the type of good being imported.
+
+In the case of a specified motor vehicle that a person is required to register under the motor vehicle registration laws of a participating province, the value is equal to the specified value (generally, the value determined by the provincial licensing authority) at the time it is registered in that province.
+
+In any other case, the provincial part of the HST is calculated on the excise and duty-paid value of the tangible personal property as determined under section 215, which is the main valuation provision under the Act for purposes of determining the GST and, where applicable, the HST payable in respect of imported goods. In other words, GST/HST is applied on the total of the value of the property, as determined in accordance with the valuation methods under the *Customs Act*, and includes any duties and taxes, other than GST/HST, payable in respect of the goods.
+
+In the case of prescribed property brought into a province in prescribed circumstances, the provincial part of the HST is applied to the prescribed value of the property. Currently, no regulations exist that prescribe the property, circumstances and valuation rules for purposes of subsection 220.07(3).
+
+### Use in offshore areas
+
+(Subsection 220.07(5))
+
+Self-assessment of the provincial part of the HST in respect of tangible personal property that is brought into the Nova Scotia offshore area or Newfoundland offshore area from outside Canada is not required, unless the property is brought into the area for consumption, use or supply in the course of an offshore activity.
+
+### Example 34
+
+An individual who lives in Newfoundland and Labrador purchases a trailer from a non‑resident for the individual’s personal use. The trailer is supplied outside Canada. The trailer is a specified motor vehicle as defined under the Act. The individual imports the trailer into Newfoundland and Labrador after the purchase, where it needs to be registered with the Newfoundland and Labrador vehicle licensing authority. The specified value of the trailer determined by the licensing authority is equal to $30,000.
+
+GST is payable at a rate of 5% in respect of the trailer when it is imported, pursuant to section 212. Because the trailer is a specified motor vehicle, the provincial part of the HST for Newfoundland and Labrador is not payable in respect of the importation, in accordance with subsection 212.1(3), despite the trailer being imported for the individual’s personal use. However, tax is payable by the individual under subsection 220.07(1) in respect of the trailer. The amount of tax payable is equal to $2,400 (8% Newfoundland and Labrador provincial rate × $30,000 (the specified value of the trailer)).
+
+### Example 35
+
+An individual who lives in Ontario and is on vacation outside Canada purchases a good valued at $200 from a non-resident as a gift for a family member who lives in Quebec. The gift is supplied to the individual outside Canada. When the individual imports the gift into Quebec, it is accounted for under the *Customs Act* as a non-commercial good.
+
+GST is payable at a rate of 5% in respect of the gift when it is imported, pursuant to section 212. In addition, because the gift is imported by an individual who is a resident of Ontario and the gift is not a commercial good, the individual is required by section 212.1 to pay, when the gift is imported, the provincial part of HST at the provincial rate of 8% for Ontario, calculated on the gift’s value. Tax is therefore not payable under subsection 220.07(1) in respect of the good.
+
+### Example 36
+
+A business located in New Brunswick purchases a truck outside Canada from a non-resident for use by the business. The truck is supplied outside Canada. The truck is a specified motor vehicle as defined under the Act. The business imports the truck into New Brunswick after the purchase, where it needs to be registered with the New Brunswick vehicle licensing authority. The specified value of the truck determined by the licensing authority is equal to $60,000.
+
+GST is payable at a rate of 5% in respect of the vehicle when it is imported, pursuant to section 212. Because the vehicle is a specified motor vehicle, the provincial part of the HST does not apply at importation, in accordance with subsection 212.1(3). However, tax is payable by the business under subsection 220.07(1) in respect of the truck. The amount of tax payable is equal to $4,800 (8% New Brunswick provincial rate × $60,000 (the specified value of the truck)).
+
+### Non-taxable property
+
+(Subsection 220.07(2))
+
+Self-assessment of the provincial part of the HST is not required in respect of tangible personal property that is imported from outside Canada into a participating province where the property is:
+
+- a good, other than a specified motor vehicle, that is imported and brought into the province by a registrant for consumption, use or supply exclusively (i.e., 90% or more for registrants other than financial institutions and 100% for financial institutions) in the registrant’s commercial activities (other than a registrant who uses the Quick Method of Accounting, the Special Quick Method of Accounting for Public Service Bodies, or the net tax calculation for charities);
+
+- a mobile or floating home that has been used or occupied in Canada as a place of residence for individuals; or
+
+- a good that qualifies as a non-taxable importation under Schedule VII (Non-Taxable Importations)(see Appendix G).
+
+Appendix J includes a flowchart that summarizes the rules under subsection 220.07(2) governing the exceptions to the self-assessment of the provincial part of the HST in respect of imported goods.
+
+### Example 37
+
+A GST/HST registered golf club located in Nova Scotia purchases golf carts from a non-resident for use by members of the club. Based on the contract’s terms of delivery, the golf carts are supplied outside Canada. The golf carts are not specified motor vehicles as defined under the Act. The golf club imports the golf carts into Nova Scotia after the purchase.
+
+GST is payable at a rate of 5% in respect of the golf carts when they are imported, pursuant to section 212. In addition, although the carts are not specified motor vehicles under the Act, the provincial part of the HST applicable in Nova Scotia would not apply at importation, in accordance with subsection 212.1(3), because they would be accounted for under the Customs Act as commercial goods. However, since the carts were imported by a registrant for use exclusively in the registrant’s commercial activities, subsection 220.07(2) applies to relieve the club of the obligation to self-assess tax if the other conditions of that provision are met. The club therefore only pays GST at a rate of 5% in respect of the imported carts.
+
+### Example 38
+
+A registered individual who lives in British Columbia and works as a consultant purchases a laptop computer from a non-resident supplier exclusively for use in commercial activities. The computer is supplied outside Canada and imported by the individual into British Columbia. The computer is accounted for as a commercial good under the Customs Act when it is imported.
+
+GST is payable at a rate of 5% in respect of the computer when it is imported, pursuant to section 212. Because the computer is a commercial good, the provincial part of the HST applicable in British Columbia does not apply at importation, in accordance with subsection 212.1(3). In addition, since the computer was imported by a registrant exclusively for use in the registrant’s commercial activities, subsection 220.07(2) applies to relieve the individual of the obligation to self-assess tax if the other conditions of that provision are met. The individual thus only pays GST at a rate of 5% in respect of the imported computer.
+
+### Example 39
+
+A registered business located in New Brunswick imports equipment, supplied to the business outside Canada, into the province solely for use in its operations. The business is not engaged exclusively in commercial activities, and use of the equipment is divided equally between making taxable and exempt supplies. The equipment is accounted for as a commercial good under the Customs Act when it is imported.
+
+Because the equipment is accounted for as a commercial good, the provincial part of the HST does not apply under section 212.1 in respect of the equipment when it is imported. As a result, self-assessment of the tax is required under subsection 220.07(1). Subsection 220.07(2) does not apply to relieve the business from self-assessing tax in respect of the equipment because it is not brought into the province for consumption, use or supply exclusively in the commercial activities of the business. Therefore, the business is required to self-assess tax in respect of the equipment at the provincial rate of 8% for New Brunswick.
+
+### Example 40
+
+A business is located in Ontario and is a non-registered small supplier. The business imports goods, supplied to the business outside Canada by a non-registered non-resident supplier, into the province solely for use in its operations. The goods are accounted for as commercial goods under the Customs Act when they are imported.
+
+Because the goods are accounted for as commercial goods, the provincial part of the HST does not apply under section 212.1 in respect of the goods when they are imported. Despite the goods being brought into New Brunswick for exclusive use in commercial activities of the business, the business is not relieved under subsection 220.07(2) from the obligation to self-assess tax because it is not a GST/HST registrant. As a result, the business is required to self-assess tax in respect of the goods under subsection 220.07(1).
+
+### Example 41
+
+A business located in Ontario owns equipment that breaks down while the equipment is still under warranty. The business sends the equipment back to the non-resident manufacturer and accepts from the manufacturer, outside Canada, new equipment as replacement property for no consideration. The business imports the equipment into Ontario. The equipment is accounted for as a commercial good under the Customs Act when it is imported.

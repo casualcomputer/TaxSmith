@@ -1,0 +1,39 @@
+Title: Songhees First Nation Implements the First Nations Goods and Services Tax
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice268/songhees-first-nation-implements-first-nations-goods-services-tax.html
+Corpus path: corpus/cra/forms-publications/publications/notice268/songhees-first-nation-implements-first-nations-goods-services-tax.md
+Document type: publication
+Last modified: 2021-12-24
+
+# Songhees First Nation Implements the First Nations Goods and Services Tax
+
+GST/HST Notices - Notice 268 December 2011
+
+Starting December 29, 2011, the First Nations Goods and Services Tax (FNGST) will apply to supplies made on the lands of the Songhees First Nation listed in Schedule I (reserves of the Songhees First Nation) to the First Nations Goods and Services Tax Act (FNGST Act). The Songhees First Nation in British Columbia has signed a tax administration agreement with the Government of Canada and has passed a law to enact the FNGST. Everyone, including Indians, pays the FNGST on goods or services acquired on the reserves of the Songhees First Nation.
+
+As the FNGST is designed to work within the GST/HST framework, no additional forms or changes to registration will be required. Vendors will simply apply the FNGST to their supplies of goods and services made on the reserves of the Songhees First Nation in the same manner as the GST/HST.
+
+### How does the HST affect the First Nations Goods and Services Tax?
+
+In participating provinces, the HST consists of a federal part (5%) and a provincial part (7% in BC). Where an FNGST applies, it is the federal part of the HST (5%) that is replaced by the FNGST. There are currently no federally administered First Nations taxes that replace the provincial part of the HST.
+
+Therefore, if an Indian, Indian band or band-empowered entity were to acquire taxable goods and services on reserve lands where an FNGST applies, the supply will only be subject to the FNGST at the rate of 5%. The provincial part of the HST will be relieved provided the purchaser meets the criteria set out in [GST/HST Technical Information Bulletin B-039, GST/HST Administrative Policy – Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html).
+
+Special rules exist for leased vehicles under the [First Nations Goods and Services Tax Act](https://laws-lois.justice.gc.ca/eng/acts/F-11.7/index.html). For more information, see [Specified motor vehicles supplied by way of lease, licence or similar arrangement](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-102/first-nations-goods-services-tax-place-supply.html) in [GST/HST Technical Information Bulletin B-102, First Nations Goods and Services Tax - Place of Supply](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-102.html).
+
+### Self-assessment
+
+The Songhees First Nation and its Indian members are still eligible for tax relief on goods and services acquired on a reserve where an FNGST or other First Nations Tax does not apply. However, if the Songhees First Nation or its Indian members acquire goods on a tax-relieved basis and bring the goods onto a reserve of the Songhees First Nation, they will be liable for the FNGST on these goods. They will have to complete [Form GST531, Return for Self-assessment of the First Nations Goods and Services Tax (FNGST)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst531.html) and submit it to the Canada Revenue Agency (CRA) together with the FNGST payable on the goods acquired.
+
+### Further Information
+
+If you require additional information on the FNGST, go to [First Nations Goods and Services Tax](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-indigenous-peoples/first-nations-goods-services-tax.html) or contact the CRA at 1‑800‑959‑5525. You can obtain Form GST531 on the CRA’s Web site by going to [Canada Revenue Agency forms listed by number](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms.html) or calling 1-800-959-5525.
+
+### Enquiries by telephone
+
+**Technical enquiries on the GST/HST:** 1-800-959-8287
+
+**General enquiries on the GST/HST:** 1-800-959-5525 (Business Enquiries)
+
+**If you are located in Quebec:** 1‑800‑567‑4692 (Revenu Québec) or visit the [Revenu Québec Web site](https://www.revenuquebec.ca/en/).
+
+All technical publications on GST/HST are available on the CRA Web site at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).

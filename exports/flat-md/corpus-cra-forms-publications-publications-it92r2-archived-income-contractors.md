@@ -1,0 +1,118 @@
+---
+title: "ARCHIVED - Income of contractors"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it92r2/archived-income-contractors.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Income of contractors
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO.: **IT-92R2**
+
+DATE: December 29, 1983
+
+SUBJECT: INCOME TAX ACT**Income of Contractors**
+
+REFERENCE: Subsection 9(1) (also section 125.1, subsections 127(5) and 248(1) and paragraphs 20(1)(gg) and 20(1)(m))
+
+This bulletin replaces and cancels IT-92 dated March 3, 1975. Current revisions are designated by vertical lines.
+
+**Notice to the reader:**
+
+- [Bulletins do not have the force of law](https://www.canada.ca/formspubs/pbs/tntc-eng.html).
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it92r2.html).
+
+1. This bulletin applies to any prime contractor or subcontractor who is engaged in the construction of a building, road, dam, bridge or similar structure, in circumstances such that title thereto vests in a person other than the prime contractor or the subcontractor as it is constructed. This bulletin has no application to contractors who, for any reason, retain title to the structure (e.g. builders who construct houses on their own land). While the Department considers the fabrication of ships to be the manufacture of goods for sale, rather than construction, a shipbuilder who builds a ship under a contract which provides that title thereto vests in the ship owner as it is built, may, without impairing eligibility under section 125.1 or subsection 127(5), follow a method of computing income with respect to that contract as described in this bulletin.
+
+Types of Contracts
+
+2. There are four basic types of construction contracts:
+
+(a) cost-plus contracts, under which the contractor charges the cost of doing certain work, plus an amount calculated as a fixed percentage of those costs;
+
+(b) unit-price contracts, under which there is a set price per completed unit which covers the contractor's cost and profit;
+
+(c) fixed-fee contracts, which differ from cost-plus contracts only in that the contractor's profit is a preset amount rather than a percentage of cost (in both, the contractor is to receive costs plus profit);
+
+(d) fixed-total-price contracts, (known also as firm-price, fixed price or lump-sum contracts), under which the contractor agrees to do certain work for a set dollar which covers both cost and profit. The general rules which follow apply to all for types of contracts.
+
+General Rules - Income
+
+3. Construction contracts normally provide for a contractor to render, from time to time, progress billings as work on a project proceeds. Such contracts also normally entitle the contractor to be paid therefor, usually after the purchaser or the purchaser's architect or engineer has agreed that the part of the work covered by the progress billing has been satisfactorily completed. The terms of a construction contract may also require the purchaser to withhold a percentage from the payment of each progress billing pending satisfactory completion of the entire job. In some provinces this withholding, or holdback as it is commonly known, is mandatory by virtue of a provincial Mechanic's Lien Act or Construction Lien Act. The amount of a progress billing, less the hold back if any, becomes receivable and must be included in the contractors income at the time when the purchaser or the purchaser's architect or engineer approves the progress bill for payment. The aggregate of the holdbacks becomes receivable and must be included in the contractor's income on the day that is the later of
+
+(a) the day on which the architect or engineer issues the final certificate of job completion, and
+
+(b) the day of expiration of the lien period as stipulated in the applicable provincial statute.
+
+If, however, a contractor chooses to report income for tax purposes by including therein all amounts that have been billed to the purchaser, even though not approved for payment by the purchaser or the architect or engineer, or in respect of which a mechanic's lien period has not expired, it will be acceptable to the Department provided that the contractor does so consistently from year to year. In less formal situations where no construction contract exists or where the terms of a contract do not require formal approval of progress billings by the purchaser's architect or engineer before payment, the amount thereof, net of holdbacks if any, will be considered to be receivable and includable in the contractor's income as of the date such billings are made.
+
+4. Any amount actually received in the course of business by a contractor, including any amount which should have been approved for payment by the purchaser or by the architect or engineer before payment but was not, or which should have been withheld by the payer as a holdback but was not, must be included in the income of the contractor for the taxation year during which it was received.
+
+5. Where an amount has been received and was required by virtue of paragraph 12(1)(a) to be included in income, because the amount is a payment in advance for work to be performed at a later date, a reserve under paragraph 20(1)(m) is available to a contractor provided that the costs to be incurred after the contractor's fiscal year end can be identified. A reserve under paragraph 20(1)(m) is generally not available to a contractor with respect to any amount received and included in income where the amount has been billed by the contractor and paid by the customer on the basis of approval by the customer or by the architect or engineer, because such approval is prima facie evidence that the work covered by the contractors billing has in fact been completed. A reserve under paragraph 20(1)(m) cannot be claimed by a taxpayer with respect to an amount billed but not received, even though the amount has been included in income.
+
+General Rules - Expenses
+
+6. Subject to 8 below all costs incurred in a taxation year by a contractor in the performance of a contract are deductible in computing income for the year, even though part of the revenue relating to work completed may not be included in income until a subsequent year because progress billings with respect thereto have not been approved for payment and therefore have not become receivable in accordance with the comments in 3 above before the end of the particular taxation year.
+
+7. For the purpose of 6 above, costs incurred in the year in the performance of a contract include
+
+(a) the cost of materials for a contract that have been delivered to the job site, whether or not put in place,
+
+(b) all other direct and general costs and expenses which are proper deductions in computing income under Part I of the Act,
+
+(c) the gross amount, less holdback if any, of progress billings rendered by a subcontractor to the contractor that have been approved for payment, and
+
+(d) the aggregate of holdbacks withheld from payments made by a contractor to a subcontractor that are paid or payable in the year by the contractor in accordance with the terms of the appropriate provincial statute or, in the absence of any such statute, the terms of the subcontract itself.
+
+8. In contrast to 7 above, a cost is not considered to have been incurred in the performance of a contract in the year and is not deductible in the year in accordance with the comments in 6 above when it is, for example,
+
+(a) the cost of materials that have been merely ordered for future delivery,
+
+(b) the cost of materials and supplies that are described in a contractor's inventory, as that term is defined in subsection 248(1), including those earmarked for a specific contract but not delivered to the job site,
+
+(c) a holdback withheld by a contractor from a subcontractor if the contractor's liability to the subcontractor in respect thereof has not been established by the issuance of a required certificate by an architect or engineer, or
+
+(d) the gross amount of a billing rendered by a subcontractor to a contractor that requires, but has not received, approval prior to payment.
+
+9. At any particular time, the inventory of a contractor as referred to in 8(b) above excludes all that labour and material that has been incorporated into a structure, so that title thereto no longer vests in the contractor, and also excludes the aggregate of those costs described in 7(a) above.
+
+Fixed-Fee Contracts
+
+10. If billings under a fixed-fee contract are made as amounts are approved, and if a reasonable proportion of the total profit is included, the reporting of income on the basis of those billings is acceptable to the Department. Otherwise, income should be accrued to include the part of the profit earned and payable in the year in accordance with the terms of the contract.
+
+11. A contractor may also enter into a contract under which, for a fee, the contractor undertakes to manage or supervise a certain job. Ordinarily, the contractor does not purchase and bill materials under the contract, but if done, it is as agent for the contractor's principal. In such a contract, the fee should be included in income according to the terms of the contract, which may provide for its payment on a monthly, quarterly or other basis.
+
+Fixed-Total-Price Contracts (Use of "Completion Method")
+
+12. Generally, revenue from a contract of this kind should be included in income of the year in which certificates of completion or partial completion are issued pursuant to the contract. However, where such contracts may reasonably be expected to be completed within two years from the date of their commencement, for the convenience of both the taxpayer and the Department an alternative method commonly called the "completion method" of reporting contract revenue may be adopted, namely to take the whole revenue (including holdbacks) from each contract into income of the year in which the work thereon is physically completed. Normally, the Department will accept the date the final engineer's or architect's certificate is issued as the date of physical completion. However, where the contractor and the owner are not dealing at arm's length, any unusual delay in their issuance of certificates will be examined when deciding the date. Where such certificates are not required, the date of physical completion must be determined on the facts of each case, taking into consideration factors which suggest that the contract is "completed", such as acceptance of the project by the owner except for minor adjustments for incompleted work, or actual occupancy by the owner. Where the completion method is used, additions to a job requiring extra work to be performed which will postpone completion of the job from one taxation year to a later one should be treated as a separate contract.
+
+13. A contractor who chooses to adopt the completion method is required to do so in respect of all short-term contracts and is required to use the same method consistently from year to year. However, because the method is for convenience only, a contractor who has been using it may change to the method of reporting income in accordance with the general rules stated in paragraphs 3 to 9, but the Department will not agree to a reversal to the completion method in a later year. The Department will agree to a change from the method outlined in the general rules to the completion method provided that the contractor has never been on that method before. Any change should be effected so that no amounts are excluded in computing income.
+
+14. Contrary to the general rules in paragraph 6 to 9 above regarding expenses, a contractor using the completion method must defer to the year in which a short-term contract is completed all the direct costs of that contract incurred in a previous year. If the contractor also consistently defers overhead and other indirect expenses relative to such contracts, that practice is acceptable.
+
+15. Under the completion method, a loss on a short-term contract is taken into account only in computing the income of the year in which the contract is physically completed. No provision is allowed in a year prior to that of completion for an anticipated loss on the contract.
+
+16. If a contractor previously used the completion method of reporting income on all contracts that could reasonably be expected to be completed in less than two years, and then in a particular year decides to report income from one or more such contracts in accordance with the method described in paragraphs 3 to 9 above (the "progress method"), the Department takes the view that this decision is in effect a request to convert all contracts to the progress method.
+
+Purchase and Sale of Contracts
+
+17. Where a person obtains a contract and agrees to sell to another person the right to carry out or complete the contract, the amount received on the sale is regarded as being in lieu of the profits expected to be earned had the contract been carried out in full, and therefore the amount is considered to be income. On the other hand, the cost to the purchaser is regarded as a deductible cost of earning contract income.
+
+18. If the vendor performs part of the work required by the contract prior to the sale of the remainder and bills retains or the right to bill for this work, the vendor's income from the contract is computed according to the principles outlined above.
+
+Deposits as Security for Performance
+
+19. A contractor is often required to make a deposit as security for proper performance of a contract undertaken and sometimes this requirement is satisfied by the deposit of marketable securities such as bearer bonds. Should the value of the securities decrease while they are on deposit, that decrease is a capital loss and does not form part of the cost of the contract, even though the securities were acquired for that purpose and were disposed of at a loss when no longer needed. Conversely, of course, any gain made on their disposal is a capital gain.
+
+Inventory Allowance
+
+20. See IT-435R for comments concerning the eligibility of a contractor's inventory for the inventory allowance provided by paragraph 20(1)(gg).

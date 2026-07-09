@@ -1,0 +1,244 @@
+---
+title: "Income Tax Folio S1-F3-C4, Moving Expenses"
+source: https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-3-family-unit-issues/income-tax-folio-s1-f3-c4-moving-expenses.html
+last_modified: 2017-04-19
+---
+# Income Tax Folio S1-F3-C4, Moving Expenses
+
+**Series 1: Individuals**
+
+**Folio 3: Family Unit Issues**
+
+**Chapter 4: Moving Expenses**
+
+## Summary
+
+This Chapter explains the moving expense deduction. In computing income, employees, self-employed individuals and students may deduct certain moving expenses they paid for an **eligible relocation**. The Chapter specifies the expenses that are eligible as moving expenses and the conditions for deducting them from income. It briefly discusses the concept of **ordinarily resided**, notably in the context of multiple moves. The Chapter also discusses the maximum amount that can be deducted as moving expenses, the timing of the deduction, the types of income from which the deduction is permitted, and the amounts that can be deducted in a subsequent year. Finally, it refers readers to the Canada Revenue Agency (CRA) website for additional information about using the simple and detailed methods for calculating moving expenses related to travel and meals.
+
+The CRA issues income tax folios to provide technical interpretations and positions regarding certain provisions contained in income tax law. Due to their technical nature, folios are used primarily by tax specialists and other individuals who have an interest in tax matters. While the comments in a particular paragraph in a folio may relate to provisions of the law in force at the time they were made, such comments are not a substitute for the law. The reader should, therefore, consider such comments in light of the relevant provisions of the law in force for the particular tax year being considered.
+
+## Table of contents
+
+- [Discussion and interpretation](#toc0)
+
+    - [Eligible relocation](#toc1)
+
+          - [Eligible relocation of employees and self-employed individuals](#toc2)
+
+          - [Eligible relocation of students](#toc3)
+
+          - [Purpose of the move](#toc4)
+
+          - [The concept of ordinarily resided](#toc5)
+
+          - [The concept of “absent from Canada, but resident in Canada”](#toc6)
+
+    - [Conditions for deducting moving expenses](#toc7)
+
+    - [Timing of the deduction](#toc8)
+
+    - [Eligibility of moving expenses](#toc9)
+
+    - [Multiple moves](#toc10)
+
+- [Application](#toc11)
+
+- [Reference](#toc12)
+
+- [History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-3-family-unit-issues/income-tax-folio-s1-f3-c4-moving-expenses/chapter-history-s1-f3-c4-moving-expenses.html)
+
+## Discussion and interpretation
+
+### Eligible relocation
+
+**4.1** When computing income, section 62 permits an individual to deduct certain moving expenses that the individual paid in respect of an eligible relocation. The term **eligible relocation** is defined in subsection 248(1) and is explained in ¶4.3 and ¶4.4.
+
+**4.2** An eligible relocation may arise for an employee, a self-employed individual and also for a student. The expenses that are eligible as moving expenses are discussed in ¶[4.22](#4.22).
+
+#### Eligible relocation of employees and self-employed individuals
+
+**4.3** An **eligible relocation**of an employee and a self-employed individual is a move in respect of which all of the following conditions are met:
+
+1. it occurs to allow the individual to carry on a business or to be employed at a location (referred to as the **new work location**). The new work location must be in Canada unless the individual [is absent from Canada, but resident in Canada](#4.12);
+
+2. before the move the individual **ordinarily resided**at a residence (referred to as the **old residence**) and after the move the individual ordinarily resided at a residence (referred to as the **new residence**);
+
+3. both the old residence and the new residence are in Canada unless the individual is [absent from Canada, but resident in Canada](#4.12); and
+
+4. the move allows the individual to be at least 40 kilometres closer to the new work location. The Federal Court of Appeal established in [Giannakopoulos v M.N.R.](http://canlii.ca/t/4nfl), [1995] 3 FCR 294, 95 DTC 5477, that the 40 kilometre distance is measured using the shortest normal route available to the travelling public.
+
+#### Eligible relocation of students
+
+**4.4** An eligible relocation of a student is a move in respect of which all the following conditions are met:
+
+1. it occurs to allow the student to be in full-time attendance enrolled in a program at a post-secondary level at a location of a university, college or other educational institution (referred to as the **new work location**) whether in Canada or elsewhere;
+
+2. before the move, the student **ordinarily resided**at a residence (referred to as the **old residence**) and after the move, ordinarily resided at a residence (referred to as the **new residence**);
+
+3. the old residence and the new residence, or one of these residences, are in Canada unless the student is [absent from Canada, but resident in Canada](#4.12); and
+
+4. the move allows the student to be at least 40 kilometres closer to the educational institution. As indicated in ¶4.3(d), the distance of 40 kilometres is measured using the shortest normal route available to the travelling public.
+
+**4.5** An individual is considered to be a **full-time**student if they satisfy the full-time enrolment requirement for purposes of the education tax credit. A discussion on this requirement can be found in ¶1.25 to 1.27 of [Income Tax Folio S1-F2-C1, Education and Textbook Tax Credits](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-2-students/income-tax-folio-s1-f2-c1-education-textbook-tax-credits.html).
+
+**4.6** For purposes of ¶4.4(a), students who are entitled to the deduction for moving expenses include students who:
+
+- move within Canada to pursue postsecondary studies;
+
+- leave Canada for the same purpose (whether or not they remain residents of Canada); or
+
+- come to study in Canada.
+
+#### Purpose of the move
+
+**4.7** To satisfy the condition described in ¶[4.3(a)](#4.3(a)) or ¶[4.4 (a)](#4.4(a)), there must be a connection between the individual’s move and one of the following activities:
+
+- carrying on a business or being employed at a location in Canada or
+
+- attending an educational institution.
+
+Whether such a connection exists in a given situation can only be determined by examining the circumstances surrounding the move.
+
+**4.8** The required connection does not exist when an individual moves solely for personal reasons.
+
+**4.9** For an employee or self-employed individual, the connection can exist, for example, in the following situations:
+
+- an employee moves due to a transfer to another establishment of the employer; or
+
+- a self-employed individual moves for business reasons, such as needing to be closer to a possible market or resources needed for the business (for example natural resources, raw materials, or specialized equipment).
+
+Generally, the connection can exist even if there is a delay between the move and the time the business or employment activity at the new work location is undertaken.
+
+**4.10** For a student, the connection may exist and an eligible relocation may occur even if a student moves to attend an educational institution as well as to be employed.
+
+#### The concept of ordinarily resided
+
+**4.11** Whether an individual ordinarily resided at a residence is a question of fact that can only be determined by reviewing the facts of the particular situation. The notion of **ordinarily resided**must be given the meaning assigned by the Supreme Court of Canada in [Thomson v Minister of National Revenue](http://canlii.ca/t/1nmzk), [1946] S.C.R. 209, 2 DTC 812. In Thomson, Estey J. held that, “one is ‘ordinarily resident’ in the place where in the settled routine of his life he regularly, normally or customarily lives.” For more information in this regard, see ¶1.6 to 1.27 of [Income Tax Folio S5-F1-C1, Determining an Individual’s Residence Status](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/folio-1-residency/income-tax-folio-s5-f1-c1-determining-individual-s-residence-status.html).
+
+#### The concept of “absent from Canada, but resident in Canada”
+
+**4.12** An individual who is **absent from Canada, but resident in Canada** (see ¶4.3(a),(c) and ¶4.4(c)) would include:
+
+- an individual considered resident in Canada because the individual maintained residential ties with Canada while abroad (**factual resident**), and
+
+- an individual deemed by subsection 250(1) to be a resident of Canada.
+
+For more information, see Income Tax Folio S5-F1-C1, in particular ¶1.10 to 1.21 under [Factual residence – leaving Canada](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/folio-1-residency/income-tax-folio-s5-f1-c1-determining-individual-s-residence-status.html) and ¶1.34 to 1.36 under [Other deemed residents](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/folio-1-residency/income-tax-folio-s5-f1-c1-determining-individual-s-residence-status.html).
+
+An individual who ordinarily resides with his family in a residence in Toronto moves with his family to Sydney, Australia to participate in a two-year international teacher exchange program. The individual keeps his home in Canada and his employer in Canada continues to pay him while he is in Australia. He also maintains a number of other residential ties to Canada. The individual and his family settle into a routine in Sydney. They plan to return to Canada at the end of the program.
+
+Even though the individual is absent from Canada, he is a factual resident in Canada while working in Australia because he maintained significant and secondary residential ties with Canada.
+
+### Conditions for deducting moving expenses
+
+**4.13** In computing income for a year, an individual may deduct [certain moving expenses](#4.22)that the individual paid in respect of an eligible relocation to the extent that all of the following conditions are met:
+
+1. the expenses were not paid on the individual’s behalf in respect of, in the course of or because of, an office or employment;
+
+2. the expenses were not deductible under section 62 in computing the individual’s income for the previous tax year;
+
+3. the total expenses do not exceed the following:
+
+    - **for employees and self-employed individuals**, the total of all amounts included in computing income for the year from carrying on business at the new work location or from employment at the new work location (see ¶[4.18](#4.18)). Income from this employment includes amounts received under the Wage Earner Protection Program Act in respect of wages within the meaning of that Act; and
+
+    - **for students**, the total of amounts included in computing income for the year because of paragraphs 56(1)(n) and (o), if the student is a resident of Canada, or because of subparagraph 115(2)(e)(ii), if the student is a non-resident of Canada. The amounts included in computing income for the year because of paragraphs 56(1)(n) and (o) include the taxable amounts of scholarships, fellowships, research grants and certain prizes that the students received in the year, even if those amounts are not from Canada. These types of student awards are discussed in more detail in [Income Tax Folio S1-F2-C3, Scholarships, Research Grants and Other Education Assistance](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-2-students/income-tax-folio-s1-f2-c3-scholarships-research-grants-other-education-assistance.html). The amounts included in income because of subparagraph 115(2)(e)(ii) include the total of taxable awards, grants, and prizes of the same type as mentioned above, but only those from a Canadian source. Students who carry out an eligible relocation both to attend an educational institution full-time and to be employed, can deduct moving expenses up to their income for the year from awards, grants, and prizes, and from their employment at the new work location.
+
+4. reimbursements and allowances that the individual received in respect of the moving expenses are included in computing income. However, if the individual does not include the amounts received in income, it is the CRA’s practice to allow the individual to only deduct the amount of the expenses in excess of the allowances or reimbursements.
+
+**4.14** In accordance with subsection 248(28), an individual may not deduct moving expenses if those expenses have already been deducted in computing income for the year or for a previous tax year, whether under section 62 or another provision.
+
+**4.15** Any portion of an individual’s moving expenses paid by someone else is not eligible for deduction by the individual. However, provided the conditions in ¶[4.3](#4.3) (or ¶[4.4](#4.4)) and ¶[4.13](#4.13) are met, the CRA generally allows an individual to deduct moving expenses paid by the individual’s spouse or common-law partner. The CRA also allows spouses or common-law partners to decide how the deduction will be shared when they each have an eligible relocation as a result of the same change in residence. In all cases, the same moving expense can only be deducted once.
+
+### Timing of the deduction
+
+**4.16** An individual may not deduct moving expenses until they are paid. For example, where an individual moves and incurs a moving truck expense in year 1, but does not pay the invoice for the moving truck expense until year 2, the earliest that the moving expense could be deducted is in year 2 (subject to the conditions in ¶4.13).
+
+**4. 17** An individual may not deduct moving expenses paid in a year until the eligible relocation has occurred. For example, where an individual pre-pays a one-way airfare in year 1 in respect of an eligible relocation that does not occur until year 2, the earliest that the airfare expense may be deducted is in year 2 (subject to the conditions in ¶4.13).
+
+**4.18** If an employee or self-employed individual’s total moving expenses eligible for deduction exceed income at the new work location, the excess expenses can be deducted in a subsequent year, to the extent of the income at that work location for that subsequent year. An individual’s income at a new work location can include income from employment as well as income from carrying on a business at that new location. It can also include income from more than one employment or business at the new work location.
+
+**4.19** If a student’s total moving expenses eligible for deduction exceed the student’s income (as described in ¶[4.13(c)](#4.13(c))), the excess expenses can be deducted in a subsequent year, to the extent of such income for that subsequent year.
+
+### Eligibility of moving expenses
+
+**4.20** To be eligible for the moving expense deduction, expenses must be paid in respect of an **eligible relocation**, as defined in ¶[4.3](#4.3) or 4.4.
+
+**4.21** In accordance with section 67, an expense that is otherwise deductible under section 62can only be deducted up to an amount that is reasonable in the circumstances.
+
+**4.22** Under subsection 62(3), moving expenses that are eligible include expenses incurred as, or on account of:
+
+1. travel costs, including reasonable amounts spent for meals, lodging and the use of a vehicle (see ¶[4.25](#4.25)) incurred in the process of moving the individual and members of the individual’s household from the old residence to the new residence. The **members of an individual’s household** include individuals with close connections to the individual who live together as a family with the individual in the same self-contained domestic establishment, as well as their pets. Under subsection 248(1), a self-contained domestic establishment is a dwelling-house, apartment or other similar place of residence in which a person as a general rule sleeps and eats. A residence is considered to be a self-contained domestic establishment if it is a residential unit with restricted access and it is equipped with a kitchen, a bathroom, and a sleeping area.
+
+2. the cost of transporting and storing household effects (including items such as boats and trailers) in the process of moving from the old residence to the new residence;
+
+3. the cost of meals and lodging incurred near the old residence or the new residence for a period not exceeding 15 days;
+
+4. the cost of cancelling a lease for the old residence. This may include penalties or administrative fees charged by the landlord for cancelling the lease agreement and forfeiture of the last month’s deposit. It is the CRA’s view that a lease would generally be cancelled when the terms of the lease allowing for the cancellation are satisfied or the lease is assigned (that is, another person takes over the lease with the permission of the landlord). A lease would generally not be cancelled where the individual sublets to another person because the lease between the individual and the landlord is not terminated.
+
+5. costs related to the sale of the old residence (see ¶[4.26](#4.26) to ¶4.27). These include advertising, notary or legal fees, and real estate commissions. If a loan was used to finance the old residence, selling costs also include mortgage or hypothec prepayment penalties and costs to extinguish the hypothec or discharge the mortgage. Costs for the sale of the old residence do not include expenses for improvements or repairs done to make the property more saleable or any loss incurred on the sale. They also do not include travel costs to the old residence to undertake or finalize its sale or for any other reason while it is for sale.
+
+6. legal fees related to the purchase of the new residence as well as taxes, fees, and duties (other than any goods and services tax or value-added tax) on the transfer or registration of title to the new residence. However, such costs are only eligible if: No costs incurred to acquire a new residence, other than those described above, are eligible as moving expenses.
+
+    - the individual or the individual’s spouse or common-law partner is the owner of the old residence, alone or jointly; (see ¶[4.27](#4.27)) and
+
+    - the old residence is sold because of the move.
+
+7. interest, property taxes, insurance premiums and the cost of heating and utilities in respect of the old residence. These expenses are limited to those incurred for the period in which reasonable efforts are made to sell the old residence, to a maximum of $5,000. Furthermore, during this period, the old residence cannot be ordinarily occupied by the individual or by any other person who ordinarily resided there with the individual immediately before the move, nor can it be rented to any other person. In general, if each spouse or common-law partner has undertaken an eligible relocation, each can claim up to $5,000 in respect of the old residence, provided the same expense is not claimed twice.
+
+8. the cost of changing legal documents to reflect the address of the individual’s new residence, replacing drivers’ licences and non-commercial vehicle permits (excluding any cost for vehicle insurance) as well as connecting or disconnecting utilities. **Utilities** can include telecommunication services, such as cable, satellite television, and Internet connection. However, the cost of equipment and installation for such services (for example the purchase of an antenna) and the cost of forwarding mail are not eligible as moving expenses.
+
+**4.23**Moving expenses are not intended to include costs that are incidental to the move to the new residence, such as those incurred to replace damaged or lost goods.
+
+**4.24** As mentioned in ¶[4.22(f)](#4.22(f)), a goods and services tax or a value-added tax paid on the purchase price of a new home is not eligible as a moving expense. However, such a tax paid in relation to other costs that give rise to a deduction for moving expenses would be eligible. Examples might be the goods and services tax (GST) or the harmonized sales tax (HST) paid on the cost of renting a moving truck or on legal fees in respect of purchasing a new residence.
+
+**4.25** For the purposes of ¶[4.22(a)](#4.22(a)) and (c), individuals have the option of choosing either the **detailed** or **simplified method** of determining meal and vehicle expenses incurred in the process of moving. This option is also available to calculate vehicle expenses where an individual uses a vehicle to transport household effects between the old residence and the new residence, as mentioned in ¶[4.22(b)](#4.22(b)). Information on the requirements for receipts and the calculation of meal and vehicle expenses under the detailed and the simplified methods is available on the CRA web page entitled [Meal and vehicle rates used to calculate travel expenses](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-25500-northern-residents-deductions/meal-vehicle-rates-used-calculate-travel-expenses.html).
+
+**4.26** For the purposes of ¶[4.22(e)](#4.22(e)), individuals may generally deduct selling costs related to the sale of their old residence even if they did not take immediate action to sell the residence, due to specific circumstances. However, individuals must be able to explain the reasons for the delay and demonstrate that the costs were actually incurred because of the move. On the other hand, the selling costs of the old residence are not eligible if it is determined that the individual intended to keep the old residence as an investment or until its market value increased. In general, the more time that passes between the move and the sale of the old residence, the less likely it is that the selling costs were incurred because of the move.
+
+**4.27** For the purposes of ¶4.22(e) and (f), costs incurred for the sale of the old residence or the purchase of the new residence may be eligible expenses for the individual even if the individual’s spouse or common-law partner was the owner of the residence. However, as noted in ¶[4.15](#4.15) the individual or the individual’s spouse or common-law partner must have paid the expenses in order to deduct them from income.
+
+**4.28** To calculate the amount of moving expenses that an individual can deduct from income in the year of the move, see [Form T1-M, Moving Expenses Deduction](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1-m.html). For more information on moving expenses, see the CRA’s web page regarding [moving expenses](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-21900-moving-expenses.html).
+
+**4.29** Selling costs incurred on the sale of the old residence and that are otherwise eligible as moving expenses, may be treated in one of the following ways. They may be:
+
+1. taken into account in the calculation of the gain or loss arising from disposing of the property or;
+
+2. deducted in accordance with section 62.
+
+**4.30** The cost of moving a mobile home is not usually deductible under section 62. However, if personal effects are in the mobile home when it is moved, the cost of moving the home may be considered as a moving expense to the extent that it does not exceed the estimated cost of moving the personal effects separately.
+
+### Multiple moves
+
+**4.31** Individuals may have multiple moves in a given period. In general, for such multiple moves, each move is considered separately to determine whether it is an eligible relocation. However, in some cases, the moves must be considered together to determine whether they are instead several steps of a single eligible relocation.
+
+An individual lives in dwelling A in Halifax with his family for five years and then moves his family and all of his belongings to dwelling B in Brampton in order to be employed in downtown Toronto. After a few months, he sells dwelling B and moves his family and his belongings to dwelling C in Toronto for personal reasons (because he is tired of the daily commute).
+
+Based on the facts, it is determined that the individual ordinarily resided at dwelling A and dwelling B, and then ordinarily resided at dwelling C. This means that the move from dwelling A to dwelling B is considered a relocation, and the move from dwelling B to dwelling C is considered a second relocation. For purposes of the moving expense deduction, it must then be determined whether each of these two relocations qualifies as an **eligible relocation**(see ¶[4.3](#4.3)).
+
+The individual’s move from dwelling A to dwelling B appears to be an eligible relocation, since the move occurred to allow the individual to be employed in Canada and to be at least 40 km closer to the new work location. Expenses related to the move from dwelling A to dwelling B would be eligible as moving expenses (see ¶[4.22](#4.22)).
+
+The individual’s move from dwelling B to dwelling C is not for the purpose of carrying on a business or to be employed. Therefore it does not meet the definition of an eligible relocation. None of the expenses related to the move from dwelling B to dwelling C are eligible as moving expenses because they were not paid in respect of an eligible relocation.
+
+An individual who ordinarily resides in dwelling A in Saskatoon moves to Regina in order to be employed. He moves to dwelling B for a few months until he takes possession of dwelling C, also in Regina. In this situation, the facts indicate that the individual did **not** ordinarily reside at dwelling B before ordinarily residing at dwelling C.
+
+The CRA considers that only one move took place, from dwelling A to dwelling C, and that it occurred in two stages. Dwelling A is considered the old residence, and dwelling C the new residence. Given that this move appears to be an eligible relocation, the expenses incurred in respect of the individual’s move from dwelling A to dwelling C may be eligible as moving expenses. None of the expenses relating to the purchase or the sale of dwelling B are eligible.
+
+## Application
+
+This updated Chapter, which may be referenced as S1-F3-C4, is effective April 20, 2017.
+
+When it was first published on April 5, 2016, it replaced and cancelled Interpretation Bulletin IT-178R3, Moving Expenses.
+
+The history of updatges to this Chapter as well as any technical updates from the cancelled interpretation bulletin can be viewed in the [Chapter History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-3-family-unit-issues/income-tax-folio-s1-f3-c4-moving-expenses/chapter-history-s1-f3-c4-moving-expenses.html) page.
+
+Except as otherwise noted, all statutory references herein are references to the provisions of the Income Tax Act, R.S.C., 1985, c.1 (5th Supp.), as amended and all references to a Regulation are to the Income Tax Regulations, C.R.C., c. 945, as amended.
+
+Links to jurisprudence are provided through CanLII.
+
+Income tax folios are available in electronic format only.
+
+## Reference
+
+Sections 62 and 67; subsection 115(2); the definition of the expression **eligible relocation** in subsection 248(1); paragraphs 56(1)(n) and 56(1)(o), and subparagraph 56(1)(r)(v).
+
+Also of relevance are [Income Tax Folios S1-F2-C1, Education and Textbook Tax Credits](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-2-students/income-tax-folio-s1-f2-c1-education-textbook-tax-credits.html); [S1-F2-C3, Scholarships, Research Grants and Other Education Assistance](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-2-students/income-tax-folio-s1-f2-c3-scholarships-research-grants-other-education-assistance.html); [S5-F1-C1, Determining an Individual’s Residence Status](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/folio-1-residency/income-tax-folio-s5-f1-c1-determining-individual-s-residence-status.html), and [Interpretation Bulletin IT-420R3, Non-Residents – Income Earned in Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it420r3/archived-non-residents-income-earned-canada.html).

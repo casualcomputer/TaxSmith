@@ -1,0 +1,80 @@
+---
+title: "ARCHIVED - Exemption from Non-Resident Tax on Interest Payable on Certain Bonds, Debentures, Notes, Hypothecs or Similar Obligations"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it155r3/archived-exemption-non-resident-tax-on-interest-payable-on-certain-bonds-debentures-notes-hypothecs-similar.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Exemption from Non-Resident Tax on Interest Payable on Certain Bonds, Debentures, Notes, Hypothecs or Similar Obligations
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO.: **IT-155R3**
+
+DATE: June 16, 1989
+
+SUBJECT: INCOME TAX ACT**Exemption from Non-Resident Tax on Interest Payable on Certain Bonds, Debentures, Notes, Hypothecs or Similar Obligations**
+
+REFERENCE: Clause 212(1)(b)(ii)(C) (also subsection 212(15))
+
+**Notice to the reader:**
+
+- [Bulletins do not have the force of law](https://www.canada.ca/formspubs/pbs/tntc-eng.html).
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it155r3.html).
+
+## Application
+
+This bulletin replaces and cancels Interpretation Bulletin IT-155R2 dated May 4, 1984. Current revisions are designated by vertical lines.
+
+## Summary
+
+Paragraph 212(1)(b) provides for a tax (herein referred to as a "non-resident tax") of 25 per cent (unless reduced by a tax treaty with another country) on interest paid or credited by a person resident in Canada to a person not resident in Canada, unless an exception applies. This bulletin discusses the exceptions contained in clause 212(1)(b)(ii)(C) with respect to certain government debt. Other exceptions are discussed in IT-360R2 "Interest Payable in a Foreign Currency", IT-361R2 "Exemption From Tax on Interest Payments to Non-Residents" and Information Circular 77-16R3 "Non-Resident Income Tax".
+
+## Discussion and Interpretation
+
+1. Subclause 212(1)(b)(ii)(C)(I) provides for an exemption from non-resident tax where the amount paid or credited is in respect of interest payable on a bond, debenture, note, mortgage, hypothec or similar obligation of, or guaranteed by, the Government of Canada. The guarantee must cover the full amount of the obligation.
+
+2. The expression "guaranteed by the Government of Canada" refers to a guarantee given under the authority of Parliament to fulfill in case of default the obligations of a person. Interest paid on obligations of, or guaranteed by, a Crown corporation (or a board, commission or other body) that can be regarded as the Government of Canada by virtue of its enabling legislation is also exempt from the non-resident tax when paid or credited to a person not resident in Canada. Examples of such entities are the Canadian Wheat Board, the Export Development Corporation and Petro-Canada. Air Canada is an example of a Crown Corporation which is not regarded as the Government of Canada.
+
+3. National Housing Act (NHA) insured mortgages are guaranteed by the Government of Canada. However, an NHA insured mortgage may be held only by a lender who has been approved by the Governor in Council for the purpose of making loans under the NHA (an "approved lender"). Such a mortgage purchased by a person not resident in Canada continues to be an NHA insured mortgage as long as it is administered by the approved lender.
+
+Where a non-resident is not the registered owner of the NHA insured mortgage, there is no exemption under subclause 212(1)(b)(ii)(C)(I) unless the sale and administration agreement between the purchaser and the approved lender provide that the transfer of the title to the mortgage can be registered in the name of the non-resident, at any time, at the option of the non-resident purchaser.
+
+4. An amount paid or credited by a guarantor in respect of interest payable under a guaranteed obligation is subject to non-resident tax under paragraph 212(1)(b) unless the obligation is one on which the interest is exempt under one of the exceptions in paragraph 212(1)(b) (e.g., an obligation referred to in 1 above).
+
+5. Interest on a bond, debenture, note, mortgage, hypothec or similar obligation that is insured by the Canada Deposit Insurance Corporation is deemed under subsection 212(15) not to be interest on an obligation guaranteed by the Government of Canada.
+
+6. The interest on a Government of Canada treasury bill (meaning the difference between the face amount thereof and the amount paid there for) paid to a person not resident in Canada is exempt from non-resident tax by virtue of subclause 212(1)(b)(ii)(C)(I).
+
+7. Where a person not resident in Canada overpays a tax liability and interest as determined under subsection 164(3) in respect of the overpayment is paid or credited to that person, the exemption under subclause 212(1)(b)(ii)(C)(I) is not applicable because the overpayment described in subsection 164(3) is not a bond, debenture, note, mortgage, hypothec or similar obligation issued by the Government of Canada (See 1 above and 10 below). Procedures for obtaining a refund of any overpayment of non-resident tax are set out in Information Circular 77-16R3.
+
+8. Subclause 212(1)(b)(ii)(C)(II) provides for an exemption from non-resident tax where the amount paid or credited is in respect of interest payable by the government of a province or an agent thereof on the types of obligations referred to in 1 above. The obligation must be an obligation of the province or an agent thereof, not merely one guaranteed thereby as in 1 above.
+
+9. The remaining exemptions under clause 212(1)(b)(ii)(C) pertain to amounts paid or credited in respect of interest payable on bonds, debentures, mortgages, hypothecs or similar obligations of
+
+(a) a municipality in Canada, or a municipal or public body performing a function of government in Canada (e.g., a school board) (subclause 212(1)(b)(ii)(C)(III)),
+
+(b) a corporation, commission or association not less than 90 per cent of the shares or capital of which is owned by her Majesty in right of a province or by a Canadian municipality, or of a subsidiary wholly-owned corporation that is subsidiary to such a corporation, commission or association (subclause 212(1)(b)(ii)(C)(IV), or
+
+(c) an educational institution or a hospital if repayment of the principal amount thereof and payment of the interest thereon is to be made, or is guaranteed, assured or otherwise specifically provided for or secured by the government of a province (subclause 212(1)(b)(ii)(C)(V)).
+
+10. Subject to the limitations in 11 and 12 below, the exemptions provided under clause 212(1)(b)(ii)(C) apply to obligations issued after April 15, 1966.
+
+11. With respect to an obligation (other than a prescribed obligation)
+
+(a) issued or extended after February 25, 1986 (other than pursuant to an agreement in writing entered into on or before that date), or
+
+(b) under which the terms and conditions relating to the computation of interest payable thereon are changed at any time pursuant to an agreement made after February 25, 1986,
+
+the exemptions under clause 212(1)(b)(ii)(C) do not apply where all or any portion of the interest payable on the obligation is contingent or dependent upon the use of or production from property in Canada, or computed by reference to revenue, profit, cash flow, commodity price or any other similar criterion or by reference to dividends paid or payable to shareholders of any class of the capital stock of a corporation.
+
+To the date of the publication of this bulletin, there are no obligations prescribed for this purpose.
+
+12. Despite the clause 212(1)(b)(ii)(C) exemptions, interest payable on an obligation entered into during the period from November 12, 1981 (other than one entered into pursuant to a commitment in writing made on or before that date) to and including February 25, 1986, is not exempt from Part XIII Tax if all or any portion of the interest is contingent or dependent upon the use of or production from property in Canada.

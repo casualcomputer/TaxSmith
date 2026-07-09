@@ -1,0 +1,22 @@
+---
+title: "IT140R3 ARCHIVED - Buy-sell agreements"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it140r3.html
+last_modified: 1995-01-01
+---
+# IT140R3 ARCHIVED - Buy-sell agreements
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+This bulletin deals with taxpayers who own similar interest in a business or property and who often make such interest subject to a buy-sell agreement.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [it140r3-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it140r3/archived-sell-agreements.html)

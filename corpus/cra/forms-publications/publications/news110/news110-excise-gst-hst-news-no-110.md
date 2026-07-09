@@ -1,0 +1,254 @@
+---
+title: "Excise and GST/HST News - No. 110"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news110/news110-excise-gst-hst-news-no-110.html
+last_modified: 2022-04-21
+---
+# Excise and GST/HST News - No. 110
+
+December 2021
+
+This publication has been modified to include additional information in the article on digital economy regarding the CRA’s discretion in the administration of the new measures related to digital economy.
+
+## Table of Contents
+
+- [Co-ownership of a vehicle by an Indian and a non-Indian](#_Toc85025498)
+
+- [Incidental sellers of insurance](#_Toc85025499)
+
+- [Digital economy](#_Toc85025500)
+
+- [Prescribed rates of interest](#_Toc85025501)
+
+- [What’s new in publications](#_Toc85025502)
+
+- [Contact us](#_Toc85025503)
+
+## Co-ownership of a vehicle by an IndianFootnote 1 and a non-Indian
+
+This article outlines the conditions required to be met for relief of the GST/HST to apply when a vehicle is purchased by an Indian and a non-Indian. The conditions outlined in this article do not represent a change in the Canada Revenue Agency’s (CRA) policy. The information is being provided in order to ensure that the conditions for obtaining relief are clear and readily available. This article does not discuss leases, licences and similar arrangements.
+
+Section 87 of the Indian Act exempts from tax the personal property of an Indian or an Indian band situated on a reserve. The CRA is responsible for administering the Excise Tax Act, which governs the application of the GST/HST. [Technical Information Bulletin B-039, GST/HST Administrative Policy – Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html), summarizes the CRA’s policy concerning the application of the GST/HST to supplies of property and services made to Indians, Indian bands and band-empowered entities.
+
+Under the CRA’s policy, GST/HST relief applies to goods, including vehicles, purchased by an Indian when the goods are either purchased on a reserve or are delivered to a reserve by the vendor or the vendor’s agent. When an Indian purchases goods, vendors must keep supporting documents as proof that the sale was made to an Indian and, if applicable, that the goods were delivered to a reserve. The CRA will accept a [Certificate of Indian Status or a Temporary Confirmation of Registration Document](https://www.sac-isc.gc.ca/eng/1100100032374/1572457769548) as proof that an individual is registered under the Indian Act.
+
+Generally, when a vehicle is purchased by an Indian and a non-Indian, the relief of the GST/HST will apply if the following conditions are met:
+
+- the Indian and the non-Indian purchase the vehicle as co-owners and are jointly and severally, or solidarily liable for the cost of the vehicle
+
+- the Indian shows proof of their status to the vendor
+
+- if the vehicle is purchased off-reserve, the vendor delivers the vehicle to a reserve and maintains evidence of delivery
+
+The purchasers will be both jointly and severally, or solidarily liable where both names appear on the bill of sale or other similar document. It is a question of fact as to who is the purchaser of the vehicle, as well as where the delivery of the vehicle was made.
+
+For tax implications related to the delivery of a vehicle on lands where the First Nations goods and services tax is imposed, refer to [First Nations goods and services tax](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-indigenous-peoples/first-nations-goods-services-tax.html).
+
+In Ontario, registrant vendors may credit eligible Indian purchasers at the time of sale with an amount equal to the 8% provincial part of the HST for qualifying off-reserve supplies of vehicles. For information on the Ontario point-of-sale relief, go to the [Ontario First Nations Harmonized Sales Tax (HST) rebate](https://www.ontario.ca/page/ontario-first-nations-harmonized-sales-tax-hst-rebate) web page.
+
+## Incidental sellers of insurance
+
+This article addresses changes to the GST/HST treatment applied to supplies made by incidental sellers to insurers.
+
+For the purposes of this article, the term incidental seller is used to refer to a person who assists the insurer in the issuance of insurance but whose principal business is normally carried on outside the insurance industry (such as retailers, automotive dealers, banks, travel agents). For example, while supplying travel services to a customer, a travel agent may also facilitate the issuance of travel insurance from an insurer to a customer. If an incidental seller is considered to be arranging for an exempt supply of insurance by an insurer, the supply of this service by the incidental seller to the insurer will generally be an exempt supply of a financial service.
+
+An incidental seller’s service supplied to the insurer would typically include promoting the insurance, assisting the incidental seller’s customer in understanding and obtaining the insurance from the insurer, and collecting the premium from the customer and sending it to the insurer.
+
+Previously, the CRA viewed these supplies made by incidental sellers as taxable supplies on the basis that the predominant element of each supply was that of a promotional and administrative service. For more information, refer to the article “Incidental promotion of insurance products” in the [Excise and GST/HST News No. 100](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news100.html).
+
+The Tax Court of Canada rendered decisions in Applewood Holdings Inc. v. The Queen, 2018 TCC 231 and Zomaron Inc. v. The Queen, 2020 TCC 35. For more information on the Applewood decision, refer to the article on this topic in the [Excise and GST/HST News No. 106](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news106.html). The CRA will apply principles from these decisions to an incidental seller’s supply of services of arranging for the supply of insurance to an insurer.
+
+Where the essential character of the service for which an incidental seller earns its fees is the sale of insurance on behalf of the insurer to the customer, it will generally be considered an exempt supply of a financial service. In such circumstances, the supply by the incidental seller is arranging for the issuance of a financial instrument (such as, an insurance policy).
+
+There may be circumstances where an incidental seller is doing more than arranging for the supply of insurance. In those cases, it will be a question of fact whether the supply may be something other than an exempt supply of a financial service.
+
+## Digital economy
+
+Budget 2021 proposed to amend the Excise Tax Act by confirming previously announced GST/HST measures that related to the digital economy. These amendments were included in Bill C‑30 (Budget Implementation Act, 2021, No. 1), which received Royal Assent on June 29, 2021. As a result, the GST/HST measures relating to the digital economy became law, effective July 1, 2021.
+
+As discussed in the [Excise and GST/HST NewsNo. 109](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news109.html), affected businesses and platform operators are expected to comply with their obligations to register, collect and remit the GST/HST as set out under the new rules and legislative provisions to ensure that the GST/HST applies effectively and fairly to e-commerce transactions. As announced in Budget 2021, the CRA will work closely with affected businesses and operators to assist them in meeting their obligations. Where such businesses and operators show that they have taken reasonable measures but are unable to meet their new obligations for operational reasons, the CRA will take a practical approach to compliance and exercise discretion in administering the measures during a 12‑month transition period, starting July 1, 2021.
+
+Before the CRA exercises its discretion in the administration of the new measures, an affected business or platform operator must first obtain the CRA’s written approval that such discretion will be exercised. Submissions for the exercise of discretion may be made to the CRA during the 12-month transition period.
+
+To receive a timely response from the CRA regarding the exercise of its discretion, a submission from an affected business or platform operator should provide as much information as possible to demonstrate why it is unable to meet, for operational reasons, its new GST/HST obligations despite taking reasonable measures to try to be compliant. Submissions should therefore briefly describe:
+
+- the activities of the affected business or operator, along with estimated annual sales figures in Canada and the GST/HST normally collected,
+
+- the issues encountered by the affected business or operator,
+
+- the steps to be taken to resolve those issues and their anticipated completion dates, and
+
+- any extenuating circumstances that may prevent the business or operator from being compliant with the new GST/HST measures before a specified date.
+
+Note that because this is not intended to be an exhaustive list, the CRA may contact the affected business or operator if additional information is required in respect of their submission.
+
+A submission should also indicate how long the affected business or platform operator needs the CRA to exercise its discretion by providing a specific end date that does not extend beyond June 30, 2022.
+
+For more information, please go to [GST/HST for digital economy businesses](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/digital-economy.html), or contact the CRA either by calling 1‑833‑585-1463 in Canada and the U.S. (toll-free) or 613‑221‑3154 if calling from elsewhere (collect calls are accepted).
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from October 1, 2021 to December 31, 2021 on overdue amounts payable to the Minister is 5%. The prescribed annual rate of interest on amounts owed by the Minister (such as, rebates or refunds) is 1% for corporate taxpayers and 3% for non-corporate taxpayers. These rates are applicable to income tax, excise tax, GST/HST, the air travellers security charge (ATSC), the fuel charge (under the Greenhouse Gas Pollution Pricing Act) and excise duty on wine, spirits, tobacco and cannabis.
+
+The prescribed annual rate of interest respecting excise duty on beer, on overdue amounts payable for the indicated period, is set at 3%. Refund interest rates are not applicable for amounts owed by the Minister (such as, rebates or refunds) for excise duty that is in relation to beer.
+
+| **PERIOD** | October 1, 2021 to December 31, 2021 | July 1, 2021 to September 30, 2021 | April 1, 2021 to June 30, 2021 | January 1, 2021 to March 31, 2021 |
+
+| --- | --- | --- | --- | --- |
+
+| **Refund interest Corporate taxpayers** | 1% | 1% | 1% | 1% |
+
+| **Refund interest Non-corporate taxpayers** | 3% | 3% | 3% | 3% |
+
+| **Arrears and instalment interest** | 5% | 5% | 5% | 5% |
+
+| **PERIOD** | October 1, 2021 to December 31, 2021 | July 1, 2021 to September 30, 2021 | April 1, 2021 to June 30, 2021 | January 1, 2021 to March 31, 2021 |
+
+| --- | --- | --- | --- | --- |
+
+| **Arrears interest excise duty - beer** | 3% | 3% | 3% | 3% |
+
+Prescribed interest rates for previous years are available on Canada.ca at [Prescribed interest rates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## What’s new in publications
+
+The following is a list of new or revised excise and GST/HST forms and publications:
+
+**GST/HST guides**
+
+- [RC4210 GST/HST Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4210.html)
+
+**GST/HST memoranda**
+
+- [17-11 Determining Whether a Financial Institution is a Qualifying Institution for Purposes of Section 141.02](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-11.html)
+
+- [17-12 Input Tax Credit Allocation Methods for Financial Institutions for Purposes of Section 141.02](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-12.html)
+
+- [17-13 Application of Section 141.02 to Financial Institutions That Are Qualifying Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-13.html)
+
+**GST/HST forms**
+
+- [GST23 Election and Revocation of the Election by a Public Sector Body (Other than a Charity) to Have its Exempt Memberships Treated as Taxable Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst23.html)
+
+- [GST24 Election and Revocation of the Election to Tax Professional Memberships](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst24.html)
+
+- [GST26 Election or Revocation of an Election by a Public Service Body to Have an Exempt Supply of Real Property Treated as a Taxable Supply](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst26.html)
+
+- [GST70 Election or Revocation of an Election to Change a GST/HST Fiscal Year](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst70.html)
+
+- [GST71 Notification of GST/HST Accounting Periods](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst71.html)
+
+- [GST74 Election and Revocation of an Election to Use the Quick Method of Accounting](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst74.html)
+
+- [GST114 Bond for Non-Resident Person without a Permanent Establishment in Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst114.html)
+
+- [GST191-WS Construction Summary Worksheet](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst191-ws.html)
+
+- [GST322 Certificate of Government Funding](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst322.html)
+
+- [GST367 Endorsement to the Bond for Non-Resident Person without a Permanent Business Establishment in Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst367.html)
+
+- [GST499-1 First Nations Tax (FNT) Schedule](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst499-1.html)
+
+- [RC151 GST/HST Credit Application for Individuals Who Become Residents of Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc151.html)
+
+- [RC4600 Election or Revocation of an Election by a Qualifying Taxpayer Under Subsection 217.2(1)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4600.html)
+
+- [RC4602 Request for a Group GST/HST Registration Number for Selected Listed Financial Institutions with Consolidated Filing for GST/HST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4602.html)
+
+- [RC4602-1 Request to be Added to a Group GST/HST Registration for Selected Listed Financial Institutions with Consolidated Filing for GST/HST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4602-1.html)
+
+- [RC4603 GST/HST Tax Adjustment Transfer Election or Notice of Revocation for a Selected Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4603.html)
+
+- [RC4604 GST/HST Consolidated Filing Election or Notice of Revocation for a Selected Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4604.html)
+
+- [RC4604-1 Election for a Selected Listed Financial Institution to Join a GST/HST Consolidated Filing Election](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4604-1.html)
+
+- [RC4604-2 Election for a Selected Listed Financial Institution to Withdraw From a GST/HST Consolidated Filing Election](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4604-2.html)
+
+- [RC7191-ON GST191 Ontario Rebate Schedule](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7191-on.html)
+
+- [RC7202-1 Request to be Added to a Group Registration for Selected Listed Financial Institutions with Consolidated Filing for GST/HST and QST Purposes or only for QST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7202-1.html)
+
+- [RC7202 Request for a Group Registration Number for Selected Listed Financial Institutions with Consolidated Filing for GST/HST and QST Purposes or only for QST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7202.html)
+
+- [RC7203 Tax Adjustment Transfer Election or Notice of Revocation for a Selected Listed Financial Institution for GST/HST and QST Purposes or only for QST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7203.html)
+
+- [RC7204-1 Elections to Join a Consolidated Filing Election for a Selected Listed Financial Institution for GST/HST and QST Purposes or only for QST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7204-1.html)
+
+- [RC7204-2 Elections to Withdraw from a Consolidated Filing Election for a Selected Listed Financial Institution for GST/HST and QST Purposes or only QST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7204-2.html)
+
+- [RC7204 Consolidated Filing Election or Notice of Revocation for a Selected Listed Financial Institution for GST/HST and QST Purposes or only for QST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7204.html)
+
+- [RC7270 Election or Revocation of an Election to Change a GST/HST and QST Fiscal Year for Certain Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7270.html)
+
+- [RC7271 Notification of GST/HST and QST Accounting Periods for Certain Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7271.html)
+
+**Air travellers security charge forms**
+
+- [E691 Air Travellers Security Charge Exemption Certificate](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/e691.html)
+
+All GST/HST, excise duty, and excise taxes and special levies publications can be found on the Canada.ca website. Go to the [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html), [Excise duties technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty.html) and [Excise taxes and other levies technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies.html) web pages.
+
+To receive email notification as soon as a document is published on the Canada.ca website, go to [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribe to the RSS feed for all new CRA publications and forms, or subscribe to any number of mailing lists for different types of publications.
+
+## Contact us
+
+**More information**
+
+**Forms and publications**
+
+- All **GST/HST technical publications** and **GST/HST related forms** are available on the Canada.ca website. Go to [GST/HST related forms and publications](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/forms-publications.html).
+
+- To access **all other**forms and publications on the Canada.ca website go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+- To order forms and publications**by telephone**, call 1‑800‑959‑5525.
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries,**call Business Enquiries at 1-800-959-5525;
+
+- for **GST/HST technical enquiries,**call GST/HST Rulings at 1‑800‑959‑8287.
+
+If you are located in**Quebec**, call**Revenu Québec**at **1-800-567-4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST - Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or
+
+- for**general GST/HST**or**QST enquiries**, call Business Enquiries at 1-800-959-5525;
+
+- for**technical GST/HST**or**QST enquiries**, callGST/HST Rulings SLFI at 1-855-666-5166.
+
+Go to the[**Contact Information – Excise Duties, Excise Taxes, Fuel Charge and Air Travellers Security Charge**](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/contacts.html)webpagefor technical enquiries, publications and forms, and regional office contact information.
+
+**Account enquiries**
+
+For**general information** and to make **enquiries**regarding your **account**, you can:
+
+- view answers to common enquiries, or submit an enquiry using the online “Enquiries service” on “My Business Account”;
+
+- view account information online at [E-services for Businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html); or
+
+- call Business Enquiries at 1‑800‑959‑5525.
+
+For **online access**to your **GST/HST**,**air travellers security charge**, **excise tax**and **duty accounts** (such as viewing up-to-date account balances and transactions, transferring payments and more), go to:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) if you are the business owner.
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html) if you are an authorized representative or employee; or
+
+For **enquiries**regarding the**status of specific GST/HST domestic rebate claims,** call Business Enquiries at 1‑800‑959‑5525.
+
+**Help**
+
+For **technical support using our online services**:
+
+- business accounts, call 1‑800‑­959‑­5525
+
+- teletypewriter users, call 1‑800‑665‑0354
+
+- calls outside of Canada and the United States, call collect at 613‑940‑8497
+
+Please have the screen number (bottom right) and, if applicable, the error number and message received on hand when calling.
+
+The Excise and GST/HST News is published quarterly and highlights recent developments in the administration of the GST/HST, the QST for SLFIs, First Nations goods and services tax (FNGST) and First Nations tax (FNT), air travellers security charge (ATSC) as well as excise taxes and duties. If you would like to receive a link to each new edition of the Excise and GST/HST News as it is published, subscribe to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-excise-gst-hst-news.html).
+
+This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, Excise and GST/HST News, Excise and GST/HST Rulings Directorate, Legislative Policy and Regulatory Affairs Branch, CRA, 11th Floor, Place de Ville, 320 Queen Street, Ottawa K1A 0L5.

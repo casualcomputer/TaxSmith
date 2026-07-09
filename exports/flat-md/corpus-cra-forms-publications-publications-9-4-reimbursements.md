@@ -1,0 +1,414 @@
+---
+title: "Reimbursements"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/9-4/reimbursements.html
+last_modified: 2026-06-23
+---
+# Reimbursements
+
+GST/HST memorandum 9-4 June 2026
+
+This version replaces the one dated June 2012. This memorandum has been updated to reflect the current GST/HST rates. It also cancels and replaces GST/HST Policy Statement P-184, *Credit Card Expenses and the Registrant’s Use of Factors for Claiming Input Tax Credits*.
+
+This memorandum explains the treatment of reimbursements paid to employees, members of a partnership, or volunteers of a charity or public institution under the *Excise Tax Act*. It also explains the eligibility rules for claiming input tax credits or public service bodies' rebates for persons that pay these reimbursements.
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the *Excise Tax Act* (ETA). The information in this publication does not replace the law found in the ETA and its regulations. Although correct at the time of issue, this publication may not have been updated to reflect subsequent legislative changes.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1‑800‑959‑8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Requesting a GST/HST Ruling or Interpretation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1‑855‑666‑5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The GST/HST rates are those that were in effect at the time of publishing. For the list of all applicable GST/HST rates (current and historic), go to [GST/HST calculator (and rates)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html).
+
+If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [General](#toc0)
+
+- [Meaning of significant terms](#toc1)
+
+- [Reimbursements](#toc2)
+
+    - [Amounts that are not reimbursements](#toc3)
+
+          - [Allowances](#toc4)
+
+          - [Taxable benefits](#toc5)
+
+- [Purpose of section 175 and eligibility requirements](#toc6)
+
+- [Calculation of the GST/HST deemed paid](#toc7)
+
+- [Input tax credit and rebate eligibility](#toc8)
+
+    - [Input tax credit eligibility](#toc9)
+
+    - [Rebate eligibility](#toc10)
+
+          - [Rebates of the GST/HST](#toc11)
+
+          - [Public service bodies' rebate](#toc12)
+
+    - [Amount of input tax credit or rebate that may be claimed](#toc13)
+
+    - [Consistent use of method of calculation](#toc14)
+
+    - [Factors for input tax credit or rebate on reimbursements](#toc15)
+
+- [Credit card expenses](#toc16)
+
+    - [Meals and entertainment restriction](#toc17)
+
+- [Documentary requirements for input tax credits](#toc18)
+
+    - [Exemption from general requirements](#toc19)
+
+- [Documentary requirements for rebates](#toc20)
+
+## General
+
+1. Certain persons may be entitled to claim an input tax credit (ITC) or a public service bodies' rebate in respect of reimbursements paid to their employees, members of a partnership (partners), or volunteers of a charity or public institution. Where the conditions of section 175 are met, a person may be eligible to claim the ITC or rebate amount that they would have been able to claim had they incurred the expense directly.
+
+2. For information on claiming ITCs, refer to [GST/HST Memorandum 8-1, General Eligibility Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1.html).
+
+3. For information on claiming public service bodies' rebates, refer to [Guide RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+## Meaning of significant terms
+
+4. **Charity** means a registered charity or registered Canadian amateur athletic association for income tax purposes but does not include a public institution. A charity can issue official donation receipts for income tax purposes.
+
+5. **Employee** includes an officer.
+
+6. **Employer**, in relation to an officer, means the person from whom the officer receives remuneration.
+
+7. **Office** has the meaning assigned by subsection 248(1) of the Income Tax Act (ITA), but does not include any of the following:
+
+- the position of trustee in bankruptcy
+
+- the position of receiver (including the position of a receiver within the meaning assigned by subsection 266(1))
+
+- the position of trustee of a trust or personal representative of a deceased individual where the person that acts in the capacity is entitled to an amount for doing so that is included in computing, for the purposes of the ITA, the person's income or, where the person is an individual, the person's income from a business
+
+8. **Officer** means a person who holds an office.
+
+9. **Participating province** means a province that has harmonized its provincial sales tax (PST) with the GST to implement the HST. Participating provinces include New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, and Prince Edward Island, but do not include the Nova Scotia offshore area or the Newfoundland offshore area except to the extent that offshore activities, as defined in subsection 123(1), are carried on in that area.
+
+10. **Public institution** means a registered charity for income tax purposes that is also a school authority, a public college, a university, a hospital authority, or a local authority determined by the Minister of National Revenue to be a municipality.
+
+## Reimbursements
+
+11. Where it has been determined for income tax purposes that an amount is a reimbursement, the amount is also a reimbursement for GST/HST purposes.
+
+12. For the purposes of section 175, a **reimbursement** is a payment made by one person to repay another person for amounts spent. An amount constitutes a reimbursement where the amount is fully accounted for by the person receiving the payment (that is, evidenced by supporting vouchers or records).
+
+13. The Canada Revenue Agency (CRA) considers all of the following to be reimbursements:
+
+- a direct payment made on account by an employer, partnership, charity, or public institution as long as the liability for payment does not rest entirely with this person (for example, where an employer and an employee are jointly and severally liable to pay an amount on a corporate credit card)
+
+- a cash advance obtained (either before or after the acquisitions are made with the cash advance) by the employee, partner, or volunteer with the company credit card
+
+- an accountable advance, which is an amount given for expenses to be incurred and to be accounted for by the production of vouchers and the return of any amount not so spent
+
+### Amounts that are not reimbursements
+
+#### Allowances
+
+14. An **allowance** is any periodic or lump sum amount that a person receives from another person without having to account for its use. An amount constitutes an allowance for purposes of sections 174, 236, 253, and 259 where the amount meets all of the following criteria:
+
+- The amount paid is a predetermined amount
+
+- The amount paid is for a certain purpose
+
+- The amount paid is at the complete disposition of the person receiving the payment
+
+- The person receiving the payment does not have to repay the amount, does not have to account for its use, and does not have to demonstrate that the amount was actually spent
+
+15. Consequently, an allowance is not a reimbursement. For detailed information on allowances, refer to [GST/HST Memorandum 9-3, Allowances](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/9-3.html).
+
+#### Taxable benefits
+
+16. A reimbursement that results in a taxable benefit to the individual under the ITA is, in reality, remuneration or income of the individual and is not a reimbursement for the purposes of section 175. As income, the payment is not subject to the GST/HST and therefore is not eligible for purposes of determining an ITC or rebate entitlement under the ETA.
+
+An employer reimburses an employee for the hotel and travel expenses of the employee's spouse when the spouse accompanied the employee on a business trip within Canada. The reimbursement is considered to be a taxable benefit for income tax purposes. This reimbursement is in the nature of a salary or remuneration.
+
+## Purpose of section 175 and eligibility requirements
+
+17. Section 175 enables a person that is an employer, partnership, charity, or public institution to claim an ITC or public service bodies' rebate in respect of an amount reimbursed to employees, partners, or volunteers for the acquisition, importation, or bringing into a participating province of property or services for consumption or use in relation to the activities of the person.
+
+18. When the conditions of section 175 are met, the person is deemed to have received a supply of the property or service and to have paid the GST/HST in respect of the supply acquired by its employee, partner, or volunteer, at the time the reimbursement is paid.
+
+19. The provisions of section 175 apply to a person that is an employer, partnership, charity, or public institution that reimburses an amount to any of the following:
+
+- an employee of the person
+
+- where the person is a partnership, to a member of the partnership
+
+- where the person is a charity or public institution, to a volunteer who gives services to the charity or public institution
+
+Section 175 applies to reimbursements paid to volunteers who give services to either a charity or a public institution. It does not apply to volunteers of other types of organizations.
+
+20. An individual who gives services as a volunteer to a charity or public institution is not considered an employee of the charity or public institution. However, in some instances, an employee of a charity or public institution may, outside of their employment contract, give services to that charity or public institution as a volunteer. The facts of the case will determine whether an individual is providing services as a volunteer or performing duties in the course of their office or employment with a charity or public institution.
+
+A municipality reimburses its volunteer firefighters' expenses and also pays for the services provided by the firefighters. The municipality has determined that the firefighters are, in fact, performing the duties of an office or employment and are employees of the municipality.
+
+21. The person receiving the reimbursement must be an employee, a partner, or a volunteer at the time the property or service is acquired, imported, or brought into a participating province. If not, the provisions of section 175 do not apply to any reimbursement.
+
+A company reimburses a former employee for legal fees associated with termination of employment. Subsection 175(1) does not apply because the individual was not an employee at the time they acquired the legal services.
+
+22. However, if a person is an employee, a partner, or a volunteer at the time the property or service is acquired, imported, or brought into a participating province, it is not necessary that the person still be an employee, partner, or volunteer at the time of the reimbursement.
+
+23. If the employee, partner, or volunteer was acting as an agent for the employer, partnership, charity, or public institution at the time they acquired, imported, or brought into a participating province property or services, section 175 does not apply to the reimbursement. Instead, as the employer, partnership, charity, or public institution is considered to be the recipient of the supply, the usual rules for determining whether that person is entitled to claim ITCs or rebates apply. For more information on agents, refer to [GST/HST Info Sheet GI-012, Agents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-012.html).
+
+24. Generally, under section 267, if an individual dies, the GST/HST provisions continue to apply to the individual's estate as if the estate were the individual and the individual had not died. Under section 267.1, the trustee of a trust includes the representative of a deceased individual and a trust includes the estate of a deceased individual. Provided that the individual acquired, imported, or brought into a participating province property or services at the time that they were an employee, partner, or volunteer, any reimbursement to the estate of the deceased individual could be subject to the rules in section 175. However, if the estate acquires, imports, or brings into a participating province property or services after the death of the individual, the provisions of section 175 do not apply.
+
+25. Where a company reimburses the employees of another company for expenses that the employees of the other company incurred as a result of an arrangement between the two companies, section 175 does not apply.
+
+Company A pays the employees of Company B for expenses they incurred as a result of a contract entered into between Company A and Company B. Company A is not entitled to apply section 175 for these payments because there is no employer-employee relationship between Company A and the employees of Company B. Rather, the payments are consideration for a supply made from Company B to Company A.
+
+26. Under section 175, the property or service acquired, imported, or brought into a participating province by an employee, partner, or volunteer must be for **consumption** or **use** in relation to the activities of the employer, partnership, charity, or public institution.
+
+27. It is a question of fact whether the consumption or use of the property or service is in relation to the activities of the employer, partnership, charity, or public institution. However, there must be a direct connection between the consumption or use of the property or service and the activities engaged in by the person. For more information on the terms consumption and use, refer to [GST/HST Memorandum 8-1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1.html).
+
+28. Sometimes an employee, partner, or volunteer acquires, imports, or brings into a participating province multiple supplies of property or services, some of which are for consumption or use in relation to the activities of the employer, partnership, charity, or public institution and some of which are not. The supplies that are not for consumption or use in relation to the activities of the employer, partnership, charity, or public institution do not fall within the preamble to subsection 175(1). Consequently, the provisions of section 175 do not apply to those particular supplies.
+
+An employer pays their employees through a health care plan administrator for the employees' costs, including the HST (where applicable), of acupuncture, massage therapy, naturopathy, or homeopathy services. Section 175 does not apply to deem the employer to have received supplies of the services because the services are particularly personal and individual in nature and not considered to be for consumption or use directly in relation to activities of the employer.
+
+29. Generally, membership dues in a professional or work-related association are invoiced to the individual who is obligated to pay the amount as a member of the association. Where an employer reimburses all or a portion of the membership dues of its employees, the provisions of section 175 apply, provided that the membership dues are in relation to the activities of the employer. Furthermore, any direct payment made by the employer to the association on behalf of an employee in respect of the employee's membership dues constitutes a reimbursement of the employee's expense. Similar rules apply with respect to membership dues paid on behalf of partners and volunteers of a charity or public institution.
+
+30. Section 175 further requires that, the employee, partner, or volunteer must also have paid the GST/HST payable on the acquisition, importation, or bringing into a participating province of the property or services.
+
+## Calculation of the GST/HST deemed paid
+
+31. Where the conditions of section 175 are met, an employer, partnership, charity, or public institution that pays an amount as a reimbursement to an employee, partner, or volunteer is deemed to have received a supply of the property or service that was acquired, imported, or brought into a participating province and to have paid the GST/HST in respect of this supply.
+
+32. Any consumption or use of the property or service by the employee, partner, or volunteer in relation to the activities of the employer, partnership, charity, or public institution is deemed to be consumption or use by the employer, partnership, charity, or public institution, as the case may be, and not by the employee, partner, or volunteer.
+
+33. Where the conditions of section 175 are met, the employer, partnership, charity, or public institution is deemed to have paid, at the time the reimbursement is paid, the GST/HST in respect of the supply equal to the amount determined by a formula, referred to as the **exact calculation** method throughout the remainder of this memorandum, and calculated as follows:
+
+**A × B**
+
+where:
+
+While attending three days of meetings as the representative of a charity, a volunteer rents a car in Manitoba. Instead of returning home immediately after the meetings, the volunteer is taking a 1-week vacation, so they rent the vehicle for 10 days. The volunteer pays $500 plus $25 GST for the car rental. The charity reimburses the volunteer for 30% of the total cost (including the GST), which covers the portion of the volunteer's car rental used during the three days of meetings.
+
+According to section 175, the charity is deemed to have received a supply of the car rental, and the use of the car by the volunteer for the three days is considered to be use by the charity.
+
+The GST the charity is deemed to have paid in respect of the supply is determined by the formula:
+
+**A × B**
+
+where:
+
+- 30% (the percentage of the cost to the volunteer that was reimbursed)
+
+- 30% (the extent expressed as a percentage to which the car rental was acquired for use in relation to activities of the charity)
+
+Therefore, the GST deemed paid by the charity on the car rental is $7.50 ($25 × 30%).
+
+An individual who is a member of a partnership purchases a computer in Newfoundland and Labrador for $1,695, which includes $221.09 HST ($1,695 × 15/115). The computer will be used 60% in partnership activities and 40% for the partner's personal use. The partner pays the HST of $221.09 with respect to the acquisition of the computer. The partnership reimburses the partner for the full $1,695. The partnership is deemed to have received a supply of the computer. Since 60% of the use of the computer is in relation to the activities of the partnership, 60% of the supply is deemed to be used by the partnership.
+
+The HST the partnership is deemed to have paid is determined by the formula:
+
+A × B
+
+where:
+
+- 100% (the percentage of the cost to the partner that was reimbursed)
+
+- 60% (the extent expressed as a percentage to which the computer was acquired for use in relation to activities of the partnership)
+
+Therefore, the HST deemed paid by the partnership on the computer is $132.65 ($221.09 × 60%).
+
+34. If a partnership reimburses a partner who is not an individual after the partner has filed a return with the CRA and claimed an ITC in respect of the same expense, the rules in subsection 175(1) do not apply. Therefore, the partnership is not entitled to claim an ITC for the tax deemed paid even though it has reimbursed the partner.
+
+## Input tax credit and rebate eligibility
+
+### Input tax credit eligibility
+
+35. Where an employer, partnership, charity, or public institution that is a GST/HST registrant reimburses an employee, partner, or volunteer and the reimbursement meets the conditions of section 175, the registrant may be eligible to claim an ITC under subsection 169(1), where all the other conditions for claiming an ITC are met. The ITC for the GST/HST deemed paid is limited to the amount the registrant could have claimed if they had incurred the expense directly, based on the extent to which the deemed use or consumption is in the course of the registrant’s commercial activities.
+
+36. Charities are required to use the net tax calculation for charities. Consequently, they cannot claim ITCs for the GST/HST paid or payable on most of their purchases. However, if a charity meets certain conditions, it may elect not to use the net tax calculation for charities. For more information, refer to [GST/HST Info Sheet GI-066, How a Charity Completes Its GST/HST Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-066.html), or [Guide RC4082, GST/HST Information for Charities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4082.html).
+
+### Rebate eligibility
+
+#### Rebates of the GST/HST
+
+37. Eligible persons paying a reimbursement may be entitled to a rebate of the GST/HST deemed paid in respect of the property or service.
+
+38. For example, an Indian band or a band-empowered entity may claim a general rebate using reason code 8 on [Form GST189, General Application for GST/HST Rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html), when they pay a reimbursement to their employees or officials for eligible travel expenses. For more information, refer to [GST/HST Technical Information Bulletin B-039, GST/HST Administrative Policy – Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html).
+
+39. An Indigenous government that has entered into an agreement with the Government of Canada that pays a reimbursement to an employee may be entitled to a self-government refund of the GST and the federal part of the HST deemed paid on property or services for use in self-government activities. For more information, refer to [Guide RC4034](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html), under the heading "Self-government refund".
+
+40. A provincial government that has agreed to use the pay and rebate model that pays a reimbursement to an employee may be entitled to a rebate of the GST/HST deemed paid on the property or service. For more information, go to [GST/HST information for governments and diplomats](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-specific-situations/governments-diplomats.html) under the heading "Supplies made to provincial and territorial governments".
+
+#### Public service bodies' rebate
+
+41. Certain public service bodies can claim a public service bodies' rebate to recover a percentage of the GST/HST paid or payable on eligible purchases and expenses that it cannot recover in any other way. A public service body may not be entitled to an ITC for the GST/HST deemed paid in respect of a property or service in some cases (for example, if the person is not a GST/HST registrant, the property or service is not consumed or used in the course of its commercial activities, the person is limited in the ITCs that it can claim because of the net tax calculation for charities or the special quick method of accounting for public service bodies).
+
+42. Where a charity, qualifying non-profit organization, or selected public service body that reimburses an employee is not entitled to an ITC, the person may be entitled to a public service bodies' rebate, under section 259, of the GST/HST deemed paid in respect of the property or service.
+
+43. Where a charity or public institution that reimburses a volunteer is not entitled to an ITC, the charity or public institution may be entitled to a public service bodies' rebate, under section 259, of the GST/HST deemed paid in respect of the property or service.
+
+44. A public service bodies' rebate is not available if the GST/HST deemed paid was in respect of a non-eligible purchase or expense. For more information, refer to [Guide RC4034](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+### Amount of input tax credit or rebate that may be claimed
+
+45. The amount of an ITC or rebate that can be claimed in respect of a reimbursement may be based on the exact calculation method (refer to the formula in paragraph 33) or calculated using a factor of the GST/HST deemed paid (referred to as the factor method). To use the factor method, 90% or more of the supplies for which the reimbursement is paid must have been subject to the related tax rate.
+
+### Consistent use of method of calculation
+
+46. Registrants must use the method of calculation that they select consistently within each category of reimbursed amounts (for example, airfare, hotel accommodation, food, beverages, and entertainment) throughout the fiscal year. This means, for example, that if a registrant chooses to calculate the GST/HST paid in respect of airfare expenses for one employee using the factor method, the registrant must use the same method for airfare expenses reimbursed to all other employees during the fiscal year.
+
+### Factors for input tax credit or rebate on reimbursements
+
+47. The following tables provide the factors that an employer, partnership, charity, or public institution may use to calculate the ITC or rebate using the factor method on reimbursements paid to employees, partners, and volunteers. The factor rates are lower than the GST/HST rates in recognition of the fact that the total expenses may include tips, PST, and other amounts that are not subject to the GST/HST.
+
+| Province where supplies are made | Factor |
+
+| --- | --- |
+
+| New Brunswick Newfoundland and Labrador Nova Scotia Prince Edward Island | 14/114 |
+
+| Ontario | 12/112 |
+
+| Any other province | 4/104 |
+
+| Province where supplies are made | Factor |
+
+| --- | --- |
+
+| New Brunswick Newfoundland and Labrador Prince Edward Island | 14/114 |
+
+| Nova Scotia | 13/113 |
+
+| Ontario | 12/112 |
+
+| Any other province | 4/104 |
+
+An employer reimburses an employee for expenses incurred in respect of supplies of property or services purchased in Alberta and New Brunswick.
+
+The employer is entitled to calculate its ITCs based on the GST/HST deemed paid on the reimbursed amount equal to the total of both of the following:
+
+- 4/104 of the amount reimbursed for supplies made in Alberta where 90% or more of the supplies are subject to the 5% GST
+
+- 14/114 of the amount reimbursed for supplies made in New Brunswick where 90% or more of the supplies are subject to the 15% HST
+
+A charity in Ontario reimburses a volunteer for hotel expenses incurred while the volunteer attended a conference in Ontario. The total reimbursed amount including the HST is $678.
+
+The charity uses the factor of 12/112 to determine that the amount of the HST included in the reimbursed amount is $72.64 ($678 × 12/112).
+
+Before calculating its public service bodies' rebate, the charity must separate the HST into its federal and provincial components.
+
+The charity determines that the federal part of the HST is $27.94 ($72.64 × 5/13) and the provincial part of the HST is $44.70 ($72.64 × 8/13).
+
+## Credit card expenses
+
+48. The CRA allows a person that is an employer, a partnership, a charity, or a public institution to use the factor method to calculate ITCs or rebates in respect of the GST/HST deemed paid by the person on purchases made by the person's employees, partners, or volunteers using credit cards. The use of factors is meant to simplify the administrative burden because credit card receipts often only show a single amount that is the total that includes gratuities and PST. Using the factor method is an option, however, some persons may prefer to use the exact calculation method.
+
+49. Factors may be used to calculate ITCs and rebates on expenses charged to company credit cards, provided all of the following conditions are met:
+
+- In the case of an ITC, the card member (that is, the employee, partner, or volunteer) must have acquired the property or service for consumption or use in relation to the person's (that is, the employer's, partnership's, charity's, or public institution's) commercial activities
+
+- In the case of public service bodies' rebates, the card member must have acquired an eligible property or service (refer to [Guide RC4034](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html) for more information)
+
+- There must be one or more written agreements between the person, the card member, and the credit card issuer stating that the card member is solely or jointly and severally liable with the person for the payment of all charges made on the company credit card issued to the card member
+
+- All or substantially all (90% or more) of the purchases of property or services recorded on the credit card statement must be taxable supplies (other than zero-rated supplies) acquired in Canada by the card member
+
+- The documentary evidence used to support the ITC or rebate claim must satisfy the following criteria:
+
+    - Where a credit card receipt is issued together with another supporting document, the person must obtain both the receipt and document before filing the return in which they claim the ITC or before filing the rebate application
+
+    - Where no other supporting document is issued with a credit card receipt (for example, gasoline purchased at a service station), the credit card receipt is sufficient documentary evidence to claim an ITC or rebate
+
+50. The monthly credit card statement does not constitute sufficient documentary evidence to claim an ITC or rebate. Whether the person uses the factor method or the exact calculation method (refer to paragraph 33) to calculate the ITC or rebate, the credit card statement must be supported by another document (for example, a credit card receipt or an invoice) to entitle the person to claim an ITC or rebate.
+
+51. The CRA considers a direct payment made on account by the person to the card issuer to be a reimbursement as long as the liability for payment of the credit card statement does not rest entirely with the person.
+
+52. If only the person, and not the card member, is liable to pay the company credit card account, it is the CRA's view that the person paid the expense and not the card member. Therefore, the card member is not being reimbursed by the person for any amount.
+
+A company that operates across Canada is a GST/HST registrant. The company provides a credit card to each manager and salesperson (that is, card member) in its marketing division, allowing them to purchase minor business-related items without being out of pocket. Typical business expenses include gasoline, meals, entertainment, and accommodations, which include any applicable PST and, in some cases, gratuities.
+
+The company receives a monthly statement from the credit card issuer for purchases made on the company credit cards. The company pays the statement amount directly to the card issuer by the due date.
+
+Every three months, each salesperson submits an expense report detailing any out-of-pocket expenses incurred during that period, along with the original receipts (and supporting documents, if any), for purchases made using the company credit card. Managers submit their expense reports monthly.
+
+Under written agreements between the company, the card member, and the credit card issuer, each card member is solely or jointly and severally liable with the company for the payment of all charges made on their company credit card.
+
+A salesperson for the company's sales office in Alberta submits an expense report for July 1, 2025, to September 30, 2025, along with the original receipts, for purchases made using the company credit card. All expenses were incurred in Alberta and subject to the 5% GST.
+
+The company can use the factor of 4/104 to calculate its ITC entitlement in respect of the expenses incurred in Alberta. The payment of the credit card charges made by the company to the card issuer is considered a reimbursement to its salesperson (that is, card member) since, under the signed agreements, the company is not solely responsible for the payment of all credit card charges. The card member is solely or jointly and severally liable with the company for the payment of all credit card charges.
+
+The business-related items were acquired for consumption or use in the company's commercial activities. The company has obtained documentary evidence (that is, the original credit card receipts), and all or substantially all (90% or more) of the purchases made are taxable supplies acquired in Canada by the card members.
+
+All facts are the same as those in Example 10, except that the written agreement is only between the company and the credit card issuer. Under the written agreement, the company is solely responsible for the payment of all credit card charges made by the company's salespeople and managers.
+
+A salesperson submits an expense report for July 1, 2025, to September 30, 2025, along with the original receipts, for purchases made using the company credit card.
+
+The company cannot use the factor method to calculate its ITC entitlement. The payment of the credit card charges made by the company to the card issuer is not considered to be a reimbursement since, under the signed agreement, the company is solely responsible for the payment of all credit card charges. For the factor method to be used, the card member must be solely or jointly and severally liable with the company for the payment of all credit card charges.
+
+All facts are the same as those in Example 10, except in addition to operations in Alberta, the company has a sales office in Ontario. In an effort to streamline its procurement practices, the company introduces a low-dollar purchasing program. The program allows the company's managers to use the company credit card to purchase business-related items up to a maximum value of $500.
+
+In June 2025, the office manager for the company's sales office in Alberta purchases office supplies from several office supply distributors using the company credit card. The office manager submits their monthly expense report in the amount of $459, which includes the GST at 5%, and provides the original receipts.
+
+Also in June 2025, the office manager for the company's sales office in Ontario makes similar purchases using the company credit card. The office manager submits their monthly expense report in the amount of $369, which includes the HST at 13%, and provides the original receipts.
+
+The company can use the factor of 4/104 for credit card expenses incurred in Alberta and the factor of 12/112 for credit card expenses incurred in Ontario to calculate its ITC entitlement.
+
+The payment of the credit card charges made by the company to the card issuer is considered to be a reimbursement to its office managers (that is, card members) since, under the signed agreements, the company is not solely liable for the payment of all credit card charges. The card members are solely or jointly and severally liable with the company for the payment of all credit card charges.
+
+The office supplies were acquired for consumption or use in the company's commercial activities. The company has obtained documentary evidence (that is, the original credit card receipts), and all or substantially all (90% or more) of the purchases made are taxable supplies acquired in Canada by the card members.
+
+For the credit card expenses incurred in Alberta, the company uses the factor 4/104 and can claim an ITC of $17.65 ($459 × 4/104).
+
+For the credit card expenses incurred in Ontario, the company uses the factor 12/112 and can claim an ITC of $39.54 ($369 × 12/112).
+
+### Meals and entertainment restriction
+
+53. If a reimbursement is paid in respect of the GST/HST incurred on food, beverages, and entertainment, the recapture rule under section 236 may apply to limit a registrant's ITC entitlement. However, the recapture rule does not apply to charities or public institutions. For more information on the ITC limitations in respect of food, beverages, and entertainment, refer to [GST/HST Memorandum 8-2, General Restrictions and Limitations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-2.html).
+
+## Documentary requirements for input tax credits
+
+54. Registrants that use the exact calculation method to determine their ITC eligibility for reimbursements (refer to paragraph 33) are subject to the general documentary and information requirements as prescribed under subsection 169(4). For information on documentary requirements in respect of ITCs, refer to [GST/HST Memorandum 8-4, Documentary Requirements for Claiming Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-4.html). For information on maintaining books and records, refer to [GST/HST Memorandum 15-1, General Requirements for Books and Records](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/15-1.html), and [GST/HST Memorandum 15-2, Computerized Records](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/15-2.html).
+
+### Exemption from general requirements
+
+55. Persons that use the factor method for reimbursements are exempt from the general documentary and information requirements for claiming ITCs if they maintain books and records that contain all of the following information:
+
+- the name and GST/HST registration number of the employer, partnership, charity, or public institution that paid the reimbursement
+
+- the name of the employee, partner, or volunteer who received the reimbursement
+
+- the total amount of the reimbursement paid to each employee, partner, or volunteer
+
+- the total GST/HST deemed to have been paid by the employer, partnership, charity, or public institution in respect of the reimbursement
+
+- the reporting period in which the reimbursement was paid
+
+- the nature of the reimbursement (that is, a description of the reimbursement, its purpose, and tax status)
+
+## Documentary requirements for rebates
+
+56. Persons that claim rebates for the GST/HST deemed paid on reimbursements are required, under subsection 286(1) and (1.2), to maintain adequate books and records, unless otherwise authorized by the Minister, in Canada in English or French to enable verification of the amount of the rebate. For information on maintaining books and records, refer to [GST/HST Memorandum 15-1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/15-1.html), and [GST/HST Memorandum 15-2](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/15-2.html).
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries**, call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1-800-567-4692** or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution** (whether or not you are located in Quebec) and require information on the **GST/HST** or the **QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for **general GST/HST** or **QST enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **technical GST/HST** or **QST enquiries**, call **GST/HST Rulings SLFI** at **1-855-666-5166**

@@ -1,0 +1,422 @@
+---
+title: "Place of Supply in a Province – General Rules for Services"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6/plc-spply-prvnc-gnrl-rls-fr-srvcs.html
+last_modified: 2026-04-09
+---
+# Place of Supply in a Province – General Rules for Services
+
+GST/HST Memorandum 3-3-6 April 2026
+
+This memorandum cancels and replaces, Draft GST/HST Technical Information Bulletin B-103, *Harmonized Sales Tax – Place of supply rules for determining whether a supply is made in a province*.
+
+This memorandum explains the place of supply rules included in Schedule IX of the *Excise Tax Act* (ETA) and the *New Harmonized Value-added Tax System Regulations* that determine whether a supply of services made in Canada is made in a participating province and consequently subject to the provincial part of the HST in addition to the federal part of the HST.
+
+This memorandum does not provide detailed information about the new digital economy measures applicable to digital economy businesses including businesses that are registered or required to be registered under the simplified GST/HST registration regime of Subdivision E of Division II of Part IX of the ETA, and to platform operators and non-resident digital economy businesses that are registered or required to be registered under the regular GST/HST registration regime. For more information, go to [GST/HST for digital economy businesses: Overview](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/digital-economy.html) or call the Canada Revenue Agency (CRA) at 1-833-585-1463 (from Canada and the U.S.) or 613-221-3154 (from elsewhere – collect calls are accepted).
+
+The following other memoranda in this series describe in detail the provincial place of supply rules for specific taxable supplies:
+
+- [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html)
+
+- [GST/HST Memorandum 3-3-3, Place of Supply in a Province – Tangible Personal Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-3.html)
+
+- [GST/HST Memorandum 3-3-4, Place of Supply in a Province – Real Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-4.html)
+
+- [GST/HST Memorandum 3-3-5, Place of Supply in a Province – General Rules for Intangible Personal Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-5.html)
+
+- [GST/HST Memorandum 3-3-5-1, Place of Supply in a Province – Specific Rules for Intangible Personal Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-5-1.html)
+
+- [GST/HST Memorandum 3-3-6-1, Place of Supply in a Province – Personal Services, Services in Relation to Property and Telecommunication Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6-1.html)
+
+- [GST/HST Memorandum 3-3-6-2, Place of Supply in a Province – Specific Rules for Services – Special Cases](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6-2.html)
+
+- [GST/HST Memorandum 3-3-7, Place of Supply in a Province – Transportation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-7.html)
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the *Excise Tax Act* (ETA), and all references to the Regulations are to the *New Harmonized Value-added Tax System Regulations*. The information in this publication does not replace the law found in the ETA and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1‑800‑959‑8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Requesting a GST/HST Ruling or Interpretation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1‑855‑666‑5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The GST/HST rates are those that were in effect at the time of publishing. For the list of all applicable GST/HST rates (current and historic), go to [GST/HST calculator (and rates)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html).
+
+If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## General
+
+1. Taxable supplies of property or services that are made in Canada are generally subject to the GST (the federal part of the HST) under subsection 165(1) at a rate of 5%. In addition, taxable supplies that are made in a participating province are subject to the provincial part of the HST under subsection 165(2) at the provincial rate for that province, which results in the application of the HST at the relevant harmonized rate.
+
+2. In the case of a taxable supply that is made in Canada, it is necessary to determine the province where the supply is made in order to apply the applicable tax and rate. Provincial place of supply rules exist for GST/HST purposes to determine the province in which a supply is deemed to be made.
+
+3. Generally, the place of supply rules described in Chapter 3 of the GST/HST Memoranda Series are also used to determine if the First Nations goods and services tax (FNGST) applies to supplies where a First Nation or an Indigenous government has imposed the FNGST. For more information, refer to paragraphs 54 to 60 of this memorandum.
+
+4. For further information regarding the legislative framework as well as the issues to consider before applying the provincial place of supply rules, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html). The general place of supply rules for services are contained in this memorandum, while the place of supply rules for specific services are contained in [GST/HST Memorandum 3-3-6-1, Place of Supply in a Province – Personal Services, Services in Relation to Property and Telecommunication Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6-1.html), in [GST/HST Memorandum 3-3-6-2, Place of Supply in a Province – Specific Rules for Services – Special Cases](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6-2.html), and in [GST/HST Memorandum 3-3-7, Place of Supply in a Province – Transportation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-7.html).
+
+5. Unless otherwise indicated, all references to supplies are to taxable (other than zero-rated) supplies made in Canada.
+
+6. References in this memorandum to terms, concepts, and examples are made in the context of the provincial place of supply rules for persons registered under Subdivision D of Division V of Part IX of the ETA (the regular GST/HST regime).
+
+7. The rules explained in this memorandum do not apply to supplies of digital property or services made or facilitated by persons registered under the digital economy provisions of Subdivision E of Division II of Part IX of the ETA (simplified GST/HST registration). Subdivision E contains separate registration and place of supply rules for distribution platform operators and non-resident suppliers of digital property and services. For additional information on the digital economy provisions, go to [GST/HST for digital economy businesses: Overview](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/digital-economy.html).
+
+8. The Canada Revenue Agency (CRA) generally does not administer provincial taxes, duties, or fees imposed by provincial legislation, other than the QST for persons that are selected listed financial institutions (SLFIs) for GST/HST or QST purposes or both. To determine whether any provincial taxes, duties, or fees are applicable in respect of a supply (for example, the QST in Quebec for persons that are not SLFIs), contact the appropriate provincial taxation authority.
+
+### Applying the place of supply rules for services
+
+9. The general place of supply rules for supplies of services are subject to specific place of supply rules that may apply to certain supplies of services.
+
+10. The place of supply rules for services are found in Schedule IX and the Regulations, as follows:
+
+- Division 3 of Part 1 of the Regulations sets out the general place of supply rules for services, which are explained in this memorandum, along with specific place of supply rules for services in relation to real property, most services in relation to tangible personal property, and personal services, which are explained in [GST/HST Memorandum 3-3-6-1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6-1.html). However, section 12 of the Regulations provides that the rules under Division 3 do not apply if one of sections 4 to 5 of Part VI, or Part VII or VIII of Schedule IX instead apply to determine the place of supply.
+
+- As explained in [GST/HST Memorandum 3-3-7](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-7.html), sections 4 to 5 of Part VI of Schedule IX set out the place of supply rules for particular transportation services, while the place of supply for postage-related services is determined under Part VII of Schedule IX. Part VIII of Schedule IX contains the place of supply rules for telecommunication services, which are explained in GST/HST Memorandum 3-3-6-1.
+
+- Additional specific place of supply rules related to passenger transportation services are found under Division 4 of Part 1 of the Regulations, which are also explained in GST/HST Memorandum 3-3-7. Section 19 of the Regulations provides that the place of supply rules under Division 4 override the rules contained in Division 3.
+
+- Finally, Division 5 of Part 1 of the Regulations provides specific place of supply rules that apply to particular supplies of services in special cases, which are explained in [GST/HST Memorandum 3-3-6-2](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6-2.html). Section 24 of the Regulations provides that the place of supply rules under Division 5 override the rules contained in Division 3.
+
+11. As a result, if a supply of a service is made that does not meet the conditions of any specific place of supply rule under Schedule IX or Divisions 4 or 5 of Part 1 of the Regulations, it must then be determined whether the supply is subject to the specific place of supply rules for services under Division 3 of Part 1 of the Regulations. If the supply does not meet the conditions of any of the specific rules under Division 3, the general place of supply rules for services will apply.
+
+12. The following flowchart illustrates how the place of supply rules for services apply:
+
+### Deemed performance
+
+13. Under section 3 of Part I of Schedule IX, where an agreement for a supply of a service is entered into but the service is never performed, the service is deemed to have been performed where the service was to be performed under the terms of the agreement.
+
+### Ongoing services
+
+14. Pursuant to subsection 136.1(2), where a supply of a service is made for consideration that includes a payment that is attributable to a period (referred to as a **billing period**) that is the whole or a part of the period during which the service is or is to be rendered under the agreement for the supply, a separate supply of the service for separate consideration is deemed to be made by the supplier and received by the recipient for each billing period.
+
+15. The supply for each billing period is deemed to be made on the earliest of the following:
+
+- the first day of the billing period
+
+- the day on which the payment attributable to that period becomes due
+
+- the day that payment is made
+
+16. As a result, the separate supplies of the services that are deemed to be made for each billing period may be subject to the GST or the HST at a different rate, to the extent that those supplies are deemed to be made in a different province based on the application of the place of supply rules for services.
+
+## Services – General Rules
+
+17. Pursuant to sections 13 and 18 of the Regulations, three general place of supply rules apply to supplies of services. The first general rule applies where the supplier obtains an address in Canada of the recipient, while the second general rule applies where such an address is not obtained and is based on the location of the performance of the service. The third general rule applies where the second general rule does not result in a supply being made in a single participating province because the service is performed equally in two or more participating provinces having the same highest tax rate.
+
+18. Although a supply of a service may be deemed to be made in a particular province based on the general place of supply rules, self-assessment of the provincial part of the HST by the recipient in respect of the service may still be required in some cases where it is established that the service is acquired for consumption, use, or supply in whole or in part in another province. The place of supply rules are not intended to replace the self-assessment provisions by requiring a supplier to determine the province or provinces in respect of which the recipient has acquired the service for consumption, use, or supply. Instead, the self-assessment rules complement the place of supply rules and account for different tax rates. For further information regarding self assessment, refer to [GST/HST NOTICE266, Draft GST/HST Technical Information Bulletin, Harmonized Sales Tax – Self-assessment of the provincial part of the HST in respect of property and services brought into a participating province](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice266.html).
+
+### General Rule 1 – Address in Canada obtained
+
+19. Subsection 13(1) of the Regulations determines the place of supply of a service based on a supplier obtaining an address in Canada of the recipient, as illustrated in the following flowchart:
+
+20. Pursuant to subsection 13(1) of the Regulations, a supply of a service is made in a province if, in the ordinary course of business of the supplier, the supplier obtains one of the following addresses in the province that is:
+
+- (a) the home or business address in Canada of the recipient, if the supplier obtains only one address that is a home or a business address in Canada of the recipient,
+
+- (b) the home or business address in Canada of the recipient that is most closely connected with the supply, if the supplier obtains more than one such address, or
+
+- (c) in any other case, the address in Canada of the recipient that is most closely connected with the supply.
+
+#### Determining the relevant address of the recipient
+
+21. The relevant address for purposes of General Rule 1 is generally the location of the recipient based on an address in Canada of the recipient that the supplier obtains in the ordinary course of its business. The type of address obtained must be an address of the recipient that represents an actual specific physical location that is situated in a province. For instance, an email address or an IP address obtained by a supplier that does not represent a specific physical location address of the recipient is not relevant.
+
+22. Generally, a home address means the address at which the primary residence of an individual is located.
+
+23. A business address is generally considered to be an address at which a business is located. A business address can therefore include, among other things, the address of an office, a branch, a factory, or a workshop of the recipient. A PO Box (a locked compartment within a Post Office) is not considered to be a business address. However, a PO Box address can be considered to be another address of the recipient where the supplier does not obtain a home or business address of the recipient in Canada, as explained at paragraphs 38 to 40 of this memorandum.
+
+24. For purposes of paragraphs 13(1)(a) and (b) of the Regulations, which are based on a specific type of address, it must be reasonable for the supplier to be able to conclude that the type of address obtained is a business address of the recipient based on information that is available to the supplier. For example, if an online supplier asks its customers to provide what it identifies on its website as a business address for billing purposes and this is the only address of the recipient that the supplier obtains in the ordinary course of its business, the supplier is not required to verify whether the address provided by the recipient is actually a business address of the recipient.
+
+25. This part of General Rule 1 also applies if the supplier obtains a business address that the supplier knows is a business address based on the supplier's knowledge of the recipient (for instance, based on interactions that the supplier has with the recipient).
+
+26. The rule does not require a supplier to obtain an address of the recipient that the supplier does not already obtain in the ordinary course of its business. The determination of the relevant address in respect of a supply is based on the facts taking into account the ordinary business practice of each supplier with respect to each supply.
+
+27. An address of the recipient obtained by a supplier is only relevant for purposes of General Rule 1 if it is obtained in the ordinary course of the supplier's business practices in connection with the supply. However, any address of the recipient obtained in the ordinary course of business of the supplier should be taken into consideration in applying the rule. The relevant address of the recipient also does not have to be an address obtained in respect of every supply made to the recipient for it to be considered a relevant address obtained in the ordinary course of business.
+
+28. An address of the recipient obtained by a supplier in the ordinary course of business could therefore include any of the following:
+
+- an address of the recipient from which the supplier is hired in connection with a supply pursuant to an agreement for the supply (the **contracting address**)
+
+- an address of the recipient that the supplier deals with in connection with a supply
+
+- a billing address of the recipient in connection with a supply
+
+29. The address obtained by the supplier in the ordinary course of business must be an address of the recipient of the supply. The recipient is generally the person who is liable under the agreement for the supply to pay the consideration payable for the supply.
+
+30. Under subsection 123(1), "a **recipient** of a supply of property or a service, means
+
+- (a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration,
+
+- (b) where paragraph (a) does not apply and consideration is payable for the supply, the person who is liable to pay that consideration, and
+
+- (c) where no consideration is payable for the supply,
+
+    - (i) in the case of a supply of property by way of sale, the person to whom the property is delivered or made available,
+
+    - (ii) in the case of a supply of property otherwise than by way of sale, the person to whom possession or use of the property is given or made available, and
+
+    - (iii) in the case of a supply of a service, the person to whom the service is rendered,
+
+and any reference to a person to whom a supply is made shall be read as a reference to the recipient of the supply".
+
+31. The rule is straightforward where a supplier only obtains a single address of the recipient in the ordinary course of its business. However, where a supplier obtains several addresses of the recipient that are connected to the supply, a determination must be made with respect to which of these addresses is the address that is most closely connected to the supply.
+
+#### Multiple addresses – determining the one most closely connected to the supply
+
+32. A supplier can obtain multiple addresses of the recipient in the ordinary course of its business. To the extent that the obtained addresses of the recipient are not different from supply to supply, the relevant address of the recipient for purposes of the place of supply rule should also not vary. However, if the addresses of the recipient vary from supply to supply, the relevant address may also vary for purposes of the place of supply rule.
+
+33. Since the home or business addresses obtained by each supplier can vary, the address that is most closely connected with the supply is not necessarily the same for all suppliers, or the same for all suppliers in a given industry, or even the same with respect to all supplies made by the same supplier. The determination of the relevant address obtained in respect of a supply under this place of supply rule is made according to the ordinary business practice of each supplier with respect to each supply.
+
+34. The rule does not provide the option of selecting a particular address of the recipient among several addresses obtained in the ordinary course of business of the supplier. Rather, the rule requires a determination of the address of the recipient that is most closely connected with the supply where multiple addresses are obtained.
+
+35. The address of the recipient from which the supplier is hired pursuant to the agreement for the supply (the contracting address) is generally the address that is most closely connected with the supply. This address will therefore determine the province in which the supply is made where it is in Canada and is obtained by the supplier in the ordinary course of its business.
+
+36. The determination of the place of supply can therefore be made with certainty at the time the supply is first made where the contracting address is identified in the agreement for the supply or, if it is not identified in the agreement, it has otherwise been obtained by the supplier in the ordinary course of its business. Where the recipient is a corporation, the contracting address could be the corporation's head office.
+
+37. If the contracting address of the recipient is not obtained, the address most closely connected with the supply would be the address of the recipient that the supplier has the most contact with and that the supplier mostly uses in connection with the supply.
+
+#### Address in Canada other than a home or business address obtained
+
+38. Paragraph 13(1)(c) of the Regulations further provides that if the supplier does not obtain a home or business address in Canada of the recipient in the ordinary course of its business, but in the ordinary course of its business the supplier obtains another address in Canada of the recipient, the supply is made in the province in which the address that is most closely connected with the supply is located.
+
+39. For purposes of this part of General Rule 1, there is no requirement for the address of the recipient to be an address at which the recipient is located.
+
+40. The types of addresses that could fall under this part of the rule could include an address of the recipient such as a billing address. The address must be obtained by the supplier for a legitimate underlying business reason. This address may correspond to an address that is in fact a home or business address of the recipient but that the supplier does not know is a home or business address because it is not the supplier's ordinary business practice to obtain this type of address. For instance, this could be the case where the supplier does not require recipients to identify the address as being a home or a business address.
+
+An Ontario company hires a national newspaper based in Quebec for the placement of an advertisement in a local Ontario newspaper. The only business address of the recipient obtained by the supplier in the ordinary course of its business is in Ontario.
+
+The only business address of the recipient in Canada that the supplier obtains in the ordinary course of its business is in Ontario.
+
+The supply of the service is therefore made in Ontario and is subject to the HST at a rate of 13%.
+
+A supplier in Saskatchewan agrees to design the website of a company in Ontario. The service is performed entirely in Saskatchewan. The only business address of the recipient obtained by the supplier in the ordinary course of its business is in Ontario.
+
+The only business address of the recipient in Canada that the supplier obtains in the ordinary course of its business is in Ontario.
+
+The supply of the service is therefore made in Ontario and is subject to the HST at a rate of 13%.
+
+A wedding planning company located in New Brunswick supplies a service of planning a wedding to be held in Quebec. Approximately 40% of the service is to be performed in Quebec at the wedding location and 60% in New Brunswick. In the ordinary course of its business, the supplier only obtains a home address of the recipient that is in New Brunswick.
+
+The home address of the recipient in Canada that the supplier obtains in the ordinary course of its business is in New Brunswick.
+
+The supply of the service is therefore made in New Brunswick and subject to the HST at a rate of 15%.
+
+The specific place of supply rule for services in relation to a location-specific event does not apply in this example because the services are not performed primarily (performed 50% or less) at the location of the event. For more information, refer to that topic in [GST/HST Memorandum 3-3-6-2](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6-2.html).
+
+A wedding planning company in Ontario supplies a service of planning a wedding to be held in Quebec. Approximately 40% of the service is to be performed in Quebec at the wedding location and 60% of the service is to be performed in Ontario. In the ordinary course of its business, the supplier only obtains a home address of the recipient that is in Manitoba.
+
+The home address of the recipient in Canada that the supplier obtains in the ordinary course of its business is in Manitoba.
+
+The supply of the service is therefore made in Manitoba and is subject to the GST at a rate of 5%.
+
+The specific place of supply rule for services in relation to a location-specific event does not apply in this example because the services are not performed primarily at the location of the event. For more information, refer to that topic in [GST/HST Memorandum 3-3-6-2](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6-2.html).
+
+A law firm in Quebec is hired by a company in Prince Edward Island to supply it with tax advice with respect to the supply of tangible personal property that is situated in Prince Edward Island. The only business address of the recipient obtained by the supplier in the ordinary course of its business is in Prince Edward Island.
+
+The only business address of the recipient in Canada that the supplier obtains in the ordinary course of its business is in Prince Edward Island.
+
+The supply of the service is therefore made in Prince Edward Island and is subject to the HST at a rate of 15%.
+
+The specific place of supply rule regarding services in relation to tangible personal property does not apply because of the indirect relationship between the purpose of the service and the property. For more information, refer to that topic in [GST/HST Memorandum 3-3-6-1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6-1.html).
+
+A consulting firm in Ontario is hired by a company in Nova Scotia to determine whether opening a retail franchise outlet in Nova Scotia would be a potentially viable business venture. The only address of the recipient that the consulting firm obtains in the ordinary course of its business is a business address of the recipient in Nova Scotia.
+
+The only business address of the recipient in Canada that the supplier obtains in the ordinary course of its business is in Nova Scotia.
+
+The supply of the service is therefore made in Nova Scotia and is subject to the HST at a rate of 14%.
+
+A sales agent in the Yukon is hired by a national company with its head office in Ontario to sell a line of products in the Yukon. The agent's service does not relate to a particular good that is known by the agent to be situated at a particular location, but rather consists of selling any of the national company's products to its customers in the Yukon. The sales agent accepts orders for products from customers in the Yukon and forwards them to the national company in Ontario for fulfillment. The only business address of the national company obtained by the sales agent in the ordinary course of its business is in Ontario.
+
+The only business address of the recipient in Canada that the supplier obtains in the ordinary course of its business is in Ontario.
+
+The supply of the service is therefore made in Ontario and is subject to the HST at a rate of 13%.
+
+The specific place of supply rule regarding services in relation to tangible personal property does not apply because of the indirect relationship between the agent's service and the property. For more information, refer to that topic in [GST/HST Memorandum 3-3-6-1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6-1.html).
+
+An individual who is resident in Manitoba hires an architect in Ontario to design a plan for a home that the individual intends to eventually build somewhere in Canada. The only address of the individual that the architect obtains in the ordinary course of its business is the individual's home address in Manitoba.
+
+The home address of the recipient in Canada that the supplier obtains in the ordinary course of its business is in Manitoba.
+
+The supply of the service is therefore made in Manitoba and is subject to the GST at a rate of 5%.
+
+The specific place of supply rule regarding services in relation to real property does not apply because of the indirect relationship between the service and the real property. For more information, refer to that topic in [GST/HST Memorandum 3-3-6-1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6-1.html).
+
+A supplier in Quebec agrees to design the website for a sole proprietor's business in New Brunswick. The service is performed entirely in Quebec. In the ordinary course of its business, the supplier obtains the business's contact information, including its address in New Brunswick. The sole proprietor provides their home address in Quebec to the supplier for billing purposes.
+
+The supplier obtained a business address of the recipient in New Brunswick and a home address of the recipient in Quebec. The business address of the recipient is most closely connected with the supply.
+
+The supply of the service is therefore made in New Brunswick and is subject to the HST at a rate of 15%.
+
+A corporation has its head office in Ontario and offices across Canada. The head office contracts with a supplier based in Ontario to provide the corporation with written legal advice. In performing the service, the supplier, who has contact only with employees from the head office, sends the written advice to the head office. In keeping with its ordinary business practice, the corporation requests that the invoice for the service be sent to a business address of the corporation in Alberta where its accounts payable department is located.
+
+The supplier has obtained two business addresses of the recipient in Canada in the ordinary course of its business: one in Ontario and one in Alberta. The business address of the recipient that is most closely connected with the supply is the business address of the head office in Ontario from which the supplier is hired.
+
+The supply of the service is therefore made in Ontario and is subject to the HST at a rate of 13%.
+
+The facts in this example are the same as in Example 10 except that the supplier is instructed by the head office to work with the British Columbia office of the corporation and to provide that office with the advice. As a result, the supplier then only deals with the British Columbia office with respect to the supply, including attending several meetings at the British Columbia office.
+
+The supplier has obtained three business addresses of the recipient in Canada in the ordinary course of its business: one in Ontario, one in Alberta, and one in British Columbia. The business address of the recipient that is most closely connected with the supply is the business address of the head office in Ontario from which the supplier is hired.
+
+The supply of the service is therefore made in Ontario and subject to the HST at a rate of 13%.
+
+The facts in this example are the same as in Example 10 except that the supplier, who ordinarily deals with the head office of the corporation in Ontario, is instead contracted by a Quebec office of the corporation that decides to hire the supplier to provide it with written legal advice. The Quebec office negotiates and establishes the terms of the agreement with the supplier. The supplier then only deals with the Quebec office in connection with the supply.
+
+The supplier has obtained three business addresses of the recipient in Canada in the ordinary course of its business: one in Ontario, one in Alberta, and one in Quebec. The business address of the recipient that is most closely connected with the supply is the business address of the Quebec office from which the supplier is hired.
+
+The supply of the service is therefore made in Quebec and is subject to the GST at a rate of 5%.
+
+A corporation has its head office in Nova Scotia and offices across Canada. The head office decides to hire an accounting firm in Nova Scotia to supply the corporation with accounting services. The head office negotiates and establishes all of the terms of the agreement for the supply with the supplier. The head office directs the Saskatchewan office of the corporation to which the invoice is sent to also sign the agreement with the supplier in Saskatchewan. The address of the head office in Nova Scotia and the office in Saskatchewan are the only two business addresses of the corporation that the supplier obtains in the ordinary course of its business.
+
+The supplier has obtained two business addresses of the recipient in Canada in the ordinary course of its business: one in Nova Scotia and one in Saskatchewan. The business address of the recipient that is most closely connected with the supply is the business address in Nova Scotia from which the supplier is hired.
+
+The supply of the service is therefore made in Nova Scotia and is subject to the HST at a rate of 14%.
+
+A corporation has its head office in Ontario and regional offices across Canada. The head office enters into a global framework agreement with a consulting firm in Alberta with respect to the supply of various consulting services. The framework agreement sets out definitions, the extent of liabilities of the parties, confidentiality obligations, performance standards, dispute resolution, and general payment terms. The business address of the head office is included in the framework agreement.
+
+The framework agreement does not constitute an agreement for the supply of any specific services and does not impose any obligation on either party to acquire or supply any services in the future. Instead, each regional office determines the specific services that it requires from the consulting firm and issues a purchase order to the supplier to obtain those services. Each purchase order adopts the terms contained in the framework agreement and constitutes the agreement for the supply of the services for which it is issued. The purchase orders include the business address of the regional office from which they are issued. The New Brunswick regional office of the corporation issues a purchase order to the consulting firm in Alberta for the supply of consulting services that it requires.
+
+With respect to the supply of the services made to the corporation, the supplier has obtained two business addresses of the recipient in Canada in the ordinary course of its business: one that is the head office in Ontario and one that is the address of the New Brunswick regional office from which the purchase order is issued. The business address of the recipient that is most closely connected with the supply is the business address in New Brunswick from which the supplier is hired.
+
+The supply of the services is therefore made in New Brunswick and is subject to the HST at a rate of 15%.
+
+A regional office of a federal government agency requires consulting services to assist with a project. The regional office, located in Nova Scotia, prepares a statement of work that outlines the objective of the services and deliverables required, along with the duration of the project and certain milestone dates when elements of the work are to be completed.
+
+The regional office sends the statement of work to the Government of Canada's purchasing department, which is located in Quebec. The purchasing department issues a call for tenders based on the statement of work. The purchasing department receives a number of bids from various consulting firms across Canada. The Government of Canada awards the contract to a consulting firm in Manitoba and enters into an agreement for the provision of services to the agency's regional office in Nova Scotia. The contract identifies the purchasing department as the contracting authority and the regional office as the technical authority.
+
+The supplier has obtained more than one business address of the recipient in Canada in the ordinary course of its business: one that is the address of the agency's regional office in Nova Scotia and one that is the address of the government purchasing department in Quebec that hired the supplier. The business address of the recipient that is most closely connected with the supply is the business address in Quebec from which the supplier is hired.
+
+The supply of the services is therefore made in Quebec and is subject to the GST at a rate of 5%.
+
+An accounting firm in Ontario is hired by a mutual fund trust in Ontario to provide accounting services. In the ordinary course of its business, the accounting firm has obtained various addresses in connection with the supply including the business address of the trust in Ontario, an address in Nova Scotia of the sponsor of the trust, and an address in Quebec of the trustee of the trust to which invoices for the services are sent.
+
+The business address of the recipient in Canada obtained by the supplier in the ordinary course of its business that is most closely connected with the supply is the business address of the trust in Ontario from which the supplier is hired.
+
+The supply of the services is therefore made in Ontario and is subject to the HST at a rate of 13%.
+
+A Yukon company sells advertising space in a tourism magazine to a sole proprietor in New Brunswick who has an outdoor guiding business. The advertisement includes a telephone number for customers to call to enquire about the guiding services. Payment for the advertising service is made through a third-party payment processor. The only address of the recipient obtained by the supplier in the ordinary course of its business is a PO Box in New Brunswick where the invoice will be sent.
+
+The supplier does not obtain a home or business address of the recipient. The only address of the recipient obtained in the ordinary course of the supplier's business is a PO Box in New Brunswick, which is the address most closely connected with the supply.
+
+The supply of the service is therefore made in New Brunswick and is subject to the HST at a rate of 15%.
+
+### General Rule 2 – No address in Canada obtained
+
+41. Subsection 13(2) of the Regulations determines the place of supply of a service where a supplier does not obtain an address in Canada of a recipient in the supplier's ordinary course of business. The rules under the subsection are generally based on where the service is performed, as illustrated in the following flowchart:
+
+42. Pursuant to subsection 13(2) of the Regulations, if a supplier does not obtain an address in Canada of the recipient in the supplier's ordinary course of business, "a supply of a service is made
+
+- (a) in a participating province if the Canadian element of the service is performed primarily [more than 50%] in participating provinces and
+
+    - (i) an equal or greater proportion of the Canadian element of the service is not performed in another participating province, or
+
+    - (ii) if subparagraph (i) does not apply, the tax rate for the participating province is the highest among the participating provinces for which no greater proportion of the service is performed in another participating province; and
+
+- (b) in a non-participating province if the Canadian element of the service is not performed primarily in participating provinces".
+
+43. The **Canadian element** of a service is defined in section 2 of the Regulations to mean "the portion of the service that is performed in Canada".
+
+44. Although the word **performed** is not defined in the ETA, the place where a service is performed is traditionally the place where the person physically doing the work is situated at the time the work is being conducted. For example, if a supplier in a non-participating province sends a technician to a participating province to provide programming services, the service is considered to be performed in the participating province since the service is physically performed in that province.
+
+45. Where all of the activities carried out by the supplier in performing a service are clearly undertaken in a province (that is, the employees performing the service are in the province, or the supplier's equipment used to provide the service is located in the province), the place of performance of the service is in the province.
+
+46. Where part of the activities carried out by the supplier in performing a service are carried out in a province, the province where those activities are performed must be taken into consideration in determining the place where the service is primarily performed. For example, a supplier may prepare a report in a province in respect of programming services carried on outside the province. Where the report is a component of the services supplied, the place where the report is prepared must be considered when determining the place of supply.
+
+47. Electronic commerce allows services to be provided remotely. A supplier can provide a service to a customer in another province without physically being in that other province. For example, a supplier can have a technician perform work from a province by electronically accessing a customer's computer located in another province, rather than sending the technician to the other province. Work is being performed both at the location of the service provider, as well as the location of the customer's property that is the object of the service. It is therefore necessary to take into account the location of the customer's property when determining the place of performance.
+
+48. Whether a service is performed in whole or in part in a province is a question of fact. Each supply of a service must be examined on a case-by-case basis to determine whether that service is performed in whole or in part in a province. Any activity related to the performance of the service must be taken into account in determining the extent to which a service is performed in a particular province or provinces. However, a supply of a service is performed at least in part in a province if either:
+
+- the service requires a person to perform a task (that is, the supplier acts through one or more of its employees), and the person performing or physically carrying out the task is situated in the province at the time the activity is done
+
+- the service includes operations performed by a supplier's equipment (for example, computer equipment), and the equipment is located in the province
+
+- the supply involves doing something to or with a recipient's equipment by accessing it from a remote location, and the recipient's equipment is located in the province (however, this does not apply to a service wholly performed outside the province, where the results are subsequently delivered electronically to a recipient's computers in another province, such as a programming service carried out at the supplier's location in a province and emailed to a recipient in another province)
+
+- any activity related to the performance of the service is undertaken in the province
+
+#### Rule 2A – Canadian element not performed primarily in participating provinces
+
+49. Pursuant to paragraph 13(2)(b) of the Regulations, if Rule 1 does not deem the supply of the service to be made in a province and the Canadian element of the service is not performed primarily (performed 50% or less) in participating provinces, the supply is made in a non-participating province.
+
+#### Rule 2B – Participating province of greatest proportion of performance
+
+50. Pursuant to subparagraph 13(2)(a)(i) of the Regulations, if Rule 1 does not deem the supply of the service to be made in a province and the Canadian element of the service is performed primarily (more than 50%) in participating provinces, the supply is made in a participating province if an equal or greater proportion of the Canadian element of the service is not performed in another participating province.
+
+An online service provider located in Prince Edward Island specializes in the provision of document editing and translation services. The service provider supplies these services to clients electronically over the Internet. A client in Saskatchewan sends its original documents by email to the email address of the service provider who returns the resulting edited or translated documents to the client's email address. The services are performed by employees of the service provider from its business address in Prince Edward Island. The service provider does not obtain an address of its clients.
+
+The Canadian element of the service is performed primarily in the participating provinces and the participating province in which the greatest proportion of the Canadian element of the service is performed is Prince Edward Island.
+
+The supply of the service is therefore made in Prince Edward Island and is subject to the HST at a rate of 15%.
+
+A non-resident organization registered under the regular GST/HST registration regime has members worldwide and hires a company in New Brunswick to administer an examination taken by 20 of its members in Canada. No exempting provisions apply to the supply of administering the examination in this case. Under the contract, the New Brunswick company's service includes three hours proctoring the exam in Ontario and seven hours marking the exams from its location in New Brunswick. The New Brunswick company obtains an address of the non-resident organization that is outside Canada.
+
+The New Brunswick company is providing a single supply of a service of administering an examination. The Canadian element of the service is performed primarily in participating provinces and the participating province in which the greatest proportion of the service of administering the exam is performed is New Brunswick.
+
+The supply of the service is therefore made in New Brunswick and is subject to the HST at a rate of 15%.
+
+#### Rule 2C – Highest tax rate where the service is performed equally in participating provinces
+
+51. Pursuant to subparagraph 13(2)(a)(ii) of the Regulations, if Rule 2B does not deem the supply of a service to be made in a participating province because the service is performed equally in two or more participating provinces, the service is supplied in the participating province that has the highest tax rate among the participating provinces for which no greater proportion of the service is performed in another participating province.
+
+An actuarial firm in Ontario is hired by an insurance company in Ontario to provide risk-management services. Of the total risk-management services performed, 50% is performed in Ontario and 50% is performed in Nova Scotia. In the ordinary course of its business, the only address obtained by the actuarial firm is an email address used for billing purposes.
+
+In the ordinary course of its business, the supplier does not obtain an address of the recipient, since an email address is not considered a relevant address. The Canadian element of the risk-management service is performed primarily in the participating provinces and in equal proportions in the participating provinces of Ontario and Nova Scotia.
+
+As a result, the supply of risk-management service is made in the participating province that has the highest tax rate among the participating provinces in which the service is performed, which in this case is Nova Scotia.
+
+The supply of the service is therefore made in Nova Scotia and is subject to the HST at a rate of 14%.
+
+### General rule 3 – Participating provinces with the same highest tax rate
+
+52. If a supply of a service cannot be determined under Rule 2C to be made in a single participating province because the highest tax rates for two or more participating provinces (each of which is referred to as a **specified province**) are the same, section 18 of the Regulations provides that the supply is made in the specified province based on the business address of the supplier that is most closely connected with the supply. If that address is:
+
+- located in a specified province, the supply is made in that province
+
+- not located in a specified province, the supply is made in the specified province that is closest in proximity, determined in any reasonable manner, to that address
+
+53. This rule is illustrated in the following flowchart:
+
+A company in Quebec contracts with a New Brunswick company, through the head office in New Brunswick, to receive conflict resolution services for its employees through live Internet streaming. The New Brunswick company has offices in New Brunswick and Prince Edward Island. Of the total conflict resolution services performed, 50% is performed in New Brunswick and 50% is performed in Prince Edward Island. In the ordinary course of its business, the New Brunswick company does not obtain an address of the recipient.
+
+The Canadian element of the conflict resolution service is performed primarily in the participating provinces and in equal proportions in the participating provinces of New Brunswick and Prince Edward Island. New Brunswick and Prince Edward Island have the same highest tax rate among the two participating provinces (specified provinces) in which the conflict resolution service is performed. The New Brunswick company has not obtained an address of the recipient in the ordinary course of its business.
+
+As a result, the supply is made in New Brunswick and is subject to the HST at a rate of 15% because the business address of the New Brunswick company that is most closely connected with the supply (the contracting office), is located in that province.
+
+## First Nations goods and services tax – place of supply
+
+54. The FNGST is a tax that may be imposed by a band council, other governing body of a First Nation, or an Indigenous government on the lands that it governs. The FNGST at the rate of 5% applies to most supplies of property and services made on these lands.
+
+55. Everyone has to pay the FNGST on the supply of property and services made on lands where the FNGST applies including Indians, Indian bands, or band-empowered entities. However, certain provincial and territorial governments do not pay the FNGST. The CRA uses the term Indian in this memorandum because it has legal meaning under the Indian Act.
+
+56. For more information on the FNGST and the First Nations and Indigenous governments that impose the FNGST, go to [First Nations Goods and Services Tax](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-indigenous-peoples/first-nations-goods-services-tax.html). You may also refer to [GST/HST Technical Information Bulletin B-102, First Nations Goods and Services Tax – Place of Supply](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-102.html).
+
+### Supply is deemed to be made on FNGST lands in a non-participating province
+
+57. The FNGST replaces the GST where the provincial place of supply rules deem the supply to be made on the lands where an FNGST is imposed and where those lands are located in a non-participating province. The supply is subject to the FNGST at the rate of 5%.
+
+### Supply is deemed to be made on FNGST lands in a participating province
+
+58. The FNGST replaces the federal part of the HST where the provincial place of supply rules deem the supply to be made on the lands where an FNGST is imposed and where those lands are located in a participating province. The supply is subject to the FNGST at the rate of 5%.
+
+59. Provided the purchaser meets the criteria set out in [GST/HST Technical Information Bulletin B-039, GST/HST Administrative Policy – Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html), the provincial part of the HST would be relieved. Where the purchaser does not qualify for relief of the provincial part of the HST under Technical Information Bulletin B-039, registered vendors are required to collect the provincial part of the HST in participating provinces unless relief of that part is provided by some other legislation or policy.
+
+### Supply is deemed to be made in Canada, but not on FNGST lands
+
+60. Where the provincial place of supply rules deem the supply to not have been made on FNGST lands, and the supply is made in Canada, then either the GST or the HST will apply depending on whether or not the supply is deemed to be made in a participating province.
+
+## Further infomation
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries**, call **Business Enquiries** at **1‑800‑959‑5525**
+
+- for **GST/HST technical enquiries**, call **GST/HST Ruling**s at **1‑800‑959‑8287**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1‑800‑567‑4692** or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution** (whether or not you are located in Quebec) and require information on the **GST/HST** or the **QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for **general GST/HST** or **QST enquiries**, call **Business Enquiries** at **1‑800‑959‑5525**
+
+- for **technical GST/HST** or **QST enquiries**, call **GST/HST Rulings SLFI** at **1‑855‑666‑5166**

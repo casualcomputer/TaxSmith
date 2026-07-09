@@ -1,0 +1,149 @@
+Title: Harmonized Sales Tax: Stated Price Net of GST/HST New Housing Rebates in Ontario
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-085/harmonized-sales-tax-stated-price-net-gst-hst-new-housing-rebates-ontario.html
+Corpus path: corpus/cra/forms-publications/publications/gi-085/harmonized-sales-tax-stated-price-net-gst-hst-new-housing-rebates-ontario.md
+Document type: publication
+Last modified: 2021-09-22
+
+# Harmonized Sales Tax: Stated Price Net of GST/HST New Housing Rebates in Ontario
+
+GST/HST Info Sheet GI-085 June 2010
+
+The Government of Ontario is introducing a harmonized sales tax (HST) that will come into effect on July 1, 2010.
+
+The HST rate in Ontario will be 13% of which 5% will represent the federal part and 8% the provincial part.
+
+This info sheet reflects proposed tax changes announced in:
+
+- the 2009 Ontario Budget, in Information Notice No. 2, *Helping Homebuyers and the Housing Industry with an Enhanced New Housing Rebate, A New Rental Housing Rebate and Transitional Rules* released by the Government of Ontario on June 18, 2009; and
+
+- Information Notice No. 4, *Additional Information for Homebuyers and the Housing Industry under Ontario HST* released by the Government of Ontario on November 19, 2009.
+
+Any commentary in this info sheet should not be taken as a statement by the Canada Revenue Agency (CRA) that the proposed transitional rules will be enacted in their current form.
+
+This info sheet explains how to determine the consideration payable for new housing in Ontario where a builder's price includes the HST at 13% and is net of the GST/HST new housing rebate in respect of the federal part of the HST and the Ontario new housing rebate in respect of the provincial part of the HST credited by the builder to the purchaser.
+
+Definitions for GST purposes, e.g., builder, residential complex, residential condominium unit, single unit residential complex and substantial renovation, will generally apply under the HST, as will the CRA's current policies on the application of the GST to housing. [Guide RC4052, GST/HST Information for the Home Construction Industry](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4052.html), and [GST/HST Info Sheet GI-005, Sale of a Residence by a Builder Who is an Individual](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-005.html), explore many of these important terms and concepts. Others are explained in [GST/HST Memorandum 19.2, Residential Real Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2.html).
+
+## Housing rebates paid or credited by builder
+
+Where certain conditions are met, the purchaser of a newly constructed or substantially renovated single unit residential complex or residential condominium unit may be entitled to claim a GST/HST new housing rebate in respect of the GST, or the federal part of the HST, paid on such housing. Purchasers in Ontario may also be entitled to claim an Ontario new housing rebate in respect of the provincial part of the HST paid on such housing. Refer to [GST/HST Info Sheet GI-079, Harmonized Sales Tax: Ontario New Housing Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-079.html), for details.
+
+The purchaser and the builder may agree to have the builder pay or credit both the amount of the GST/HST new housing rebate and the Ontario new housing rebate to the purchaser (or only the Ontario new housing rebate if the purchaser is not entitled to claim the GST/HST new housing rebate because the maximum threshold for this rebate was exceeded).
+
+In this case, the purchaser does not have to submit a rebate application directly to the CRA. The purchaser will sign the rebate application and provide it to the builder who will be required to send the rebate application to the CRA when the builder claims a deduction in its net tax calculation for the amount of the rebate. The deduction must be taken in the net tax calculation for the reporting period during which the rebate amount was paid or credited to the purchaser.
+
+## Stated price net of rebates
+
+In this info sheet, the "stated price" is the amount the purchaser agrees to pay the builder for the housing. The stated price includes the HST payable on the purchase.
+
+The "stated price net of rebates" means the stated price for the housing net of any GST/HST new housing rebate and the Ontario new housing rebate credited by the builder.
+
+The "consideration" payable for the purchase of the housing is the amount to be paid for the housing before any calculation of the tax payable and housing rebate entitlements for the purchaser.
+
+Where a stated price net of rebates is used, a calculation must be made to determine the value of the consideration payable for the housing. The value of the consideration must be calculated before the tax payable can be determined. Similarly, the tax payable must be calculated before the amount of the rebates can be determined.
+
+A separate formula is used to calculate the consideration within each of four price ranges. These are set out below.
+
+## Conditions
+
+The formulas in this info sheet can **only** be used if **all** of the following conditions are met:
+
+- the purchaser is buying a newly constructed or substantially renovated single unit residential complex or residential condominium unit from a builder, together with the related land;
+
+- the housing is situated in Ontario;
+
+- HST at 13% applies to the sale;
+
+- the purchaser meets the conditions for claiming the Ontario new housing rebate;
+
+- the builder pays or credits the Ontario new housing rebate and, where applicable, the GST/HST new housing rebate in respect of the federal part of the HST to the purchaser; and
+
+- the builder and the purchaser have agreed to a stated price net of the Ontario new housing rebate and, where applicable, the GST/HST new housing rebate in respect of the federal part of the HST.
+
+## Calculating the consideration payable
+
+The formula to be used for a particular sale depends on the builder's stated price net of rebates as follows.
+
+### Formula #1
+
+**Stated price net of rebates (SPNR) is not more that $368,200** (meaning that the consideration is not more than $350,000):**Consideration = SPNR ÷ 1.052**
+
+The stated price net of rebates is $325,000 and all of the above conditions are satisfied. The consideration would be calculated as:
+
+**Consideration** = $325,000 **÷** 1.052 = $308,935.36
+
+Once the consideration is determined the tax payable and the new housing rebates may be calculated.
+
+**HST payable** = $308,935.36 × 13% = $40,161.60
+
+**GST/HST new housing rebate in respect of the federal part of the HST** = ($308,935.36 × 5%) x 36% = $5,560.84
+
+**Ontario** **new housing rebate** = ($308,935.36 × 8%) × 75% = $18,536.12
+
+### Formula #2
+
+**Stated price net of rebates (SPNR) is more than $368,200 and not more than $424,850** (meaning that the consideration is more than $350,000 and not more than $400,000)**:**
+
+**Consideration = (SPNR + $28,350) ÷ 1.133**
+
+The stated price net of rebates is $410,000 and all of the above conditions are satisfied. The consideration would be calculated as:**Consideration** = ($410,000 + $28,350) **÷** 1.133 = $386,893.20
+
+Once the consideration is determined the tax payable and the new housing rebates may be calculated.
+
+**HST payable** = $386,893.20 × 13% = $50,296.12
+
+**GST/HST new housing rebate in respect of the federal part of the HST** = $6,300 × [($450,000 - $386,893.20)] ÷ $100,000 = $3,975.73
+
+**Ontario** **new housing rebate** = ($386,893.20 × 8%) × 75% = $23,213.59
+
+### Formula #3
+
+**Stated price net of rebates (SPNR) is more than $424,850 and not more than $484,500** (meaning that the consideration is more than $400,000 and not more than $450,000)**:**
+
+**Consideration = (SPNR + $52,350) ÷ 1.193**
+
+The stated price net of rebates is $460,000 and all of the above conditions are satisfied. The consideration would be calculated as:
+
+**Consideration** = ($460,000 + $52,350) **÷** 1.193 = $429,463.54
+
+Once the consideration is determined the tax payable and the new housing rebates may be calculated.
+
+**HST payable** = $429,463.54 × 13% = $55,830.26
+
+**GST/HST new housing rebate in respect of the federal part of the HST** = $6,300 × [($450,000 - $429,463.54)] ÷ $100,000 = $1,293.80
+
+**Ontario** **new housing rebate** = ($429,463.54 × 8%) × 75% = $24,000 (maximum)
+
+### Formula #4
+
+**Stated price net of rebates (SPNR) is more than $484,500** (meaning that the consideration is more than $450,000)**:** **Consideration = (SPNR + $24,000) ÷ 1.13**
+
+The stated price net of rebates is $700,000 and all of the above conditions are satisfied. The consideration would be calculated as:
+
+**Consideration** = ($700,000 + $24,000) **÷** 1.13 = $640,707.96
+
+Once the consideration is determined the tax payable and the new housing rebates may be calculated.
+
+**HST payable** = $640,707.96 × 13% = $83,292.03
+
+**GST/HST new housing rebate in respect of the federal part of the HST** = $6,300 × [($450,000 - $640,707.96)] ÷ $100,000 = $0
+
+**Ontario** **new housing rebate** = ($640,707.96 × 8%) × 75% = $24,000 (maximum)
+
+## RST transitional new housing rebate
+
+If the stated price includes the HST and is net of the:
+
+- GST/HST new housing rebate in respect of the federal part of the HST;
+
+- Ontario new housing rebate in respect of the provincial part of the HST; and
+
+- Ontario retail sales tax (RST) transitional new housing rebate,
+
+refer to GST/HST Info Sheet GI-088, *Harmonized Sales Tax: Stated Price Net of GST/HST New Housing Rebates and the Ontario RST Transitional New Housing Rebate.*
+
+This info sheet does not replace the law found in *the Excise Tax Act* (the Act) and its regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate regulation, or contact any CRA GST/HST Rulings Centre for additional information. A ruling should be requested for certainty in respect of any particular GST/HST matter. Pamphlet RC4405, [GST/HST Rulings – Experts in GST/HST Legislation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4405.html), explains how to obtain a ruling and lists the GST/HST Rulings Centres. If you wish to make a technical enquiry on the GST/HST by telephone, please call 1-800-959-8287.
+
+If you are located in Quebec and wish to make a technical enquiry or request a ruling related to the GST/HST, please contact Revenu Québec by calling 1-800-567-4692. You may also visit their Web site at [www.revenu.gouv.qc.ca](http://www.revenuquebec.ca/en/default.aspx) to obtain general information.
+
+All technical publications related to GST/HST are available on the CRA Web site at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).

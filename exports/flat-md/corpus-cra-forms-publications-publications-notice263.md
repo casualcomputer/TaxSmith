@@ -1,0 +1,22 @@
+---
+title: "NOTICE263 ARCHIVED - Maa-nulth First Nations"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice263.html
+last_modified: 2011-03-17
+---
+# NOTICE263 ARCHIVED - Maa-nulth First Nations
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+The five Maa-nulth Indian bands, (Huu-ay-aht First Nations, Ka:'yu:'k't'h'/Che''k''tles7et'h' First Nations, Toquaht Band, Uchucklesaht Band and Ucluelet First Nation), will cease to exist as Indian bands under the Indian Act.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [notice263-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice263/nulth-first-nations.html)

@@ -1,0 +1,208 @@
+---
+title: "Real Property Rebates - Special Issues"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3-7/real-property-rebates-special-issues.html
+last_modified: 2017-11-30
+---
+# Real Property Rebates - Special Issues
+
+GST/HST memorandum 19.3.7 July 1998
+
+Overview
+
+Special issues relating to real property rebates are discussed under the following headings:
+
+- [Alberta: certain new home purchase agreements](#P36_1574)
+
+- [Duplexes](#P45_2339)
+
+- [Major additions](#P53_3336)
+
+- [Rebates for mini-homes and park model trailers](#P77_6463)
+
+- [Special information pertaining to purchases of mobile homes](#P142_10711)
+
+- [Mixed-use buildings](#P149_11888)
+
+- [Substantial renovations](#P164_14445)
+
+- [Substantially renovated multiple unit residential complexes](#P186_16936)
+
+Disclaimer
+
+The information in this memorandum does not replace the law found in the *Excise Tax Act* and its Regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation, or contact a Canada Revenue Agency (CRA) GST/HST Rulings Centre for more information. These centres are listed in GST/HST Memorandum 1.2, *Canada Revenue Agency GST/HST Rulings Centres*. If you wish to make a technical enquiry on the GST/HST by telephone, please call the toll-free number 1-800-959-8287. If you are located in the Province of Quebec, please contact Revenu Québec by calling the toll-free number 1-800-567-4692 for additional information.
+
+Note
+
+This section of Chapter 19, *Special Sectors: Real Property* supersedes paragraphs 40 to 46, and 53 to 55 in GST Memorandum 500-4-5, *Housing and Other Real Property Rebates*. Side-barring indicates significant changes.
+
+## Alberta: certain new home purchase agreements
+
+Early transfer of land
+
+Policy statement P-083
+
+1. Certain new home purchase agreements in Alberta involve the transfer of ownership of the land before construction is completed. Generally, the purchaser in these cases is entitled to claim the GST new housing rebate for builder-built homes under section 254 if the criteria in that provision are satisfied. Accordingly, the purchaser could be paid or credited the rebate by the developer under the provisions of subsections 254(4) and (5). The purchaser can apply for the rebate when:
+
+- the purchaser, a former spouse or a relative of the purchaser occupies the complex; or
+
+- the purchaser makes an exempt sale of the complex before it has been occupied as a place of residence.
+
+## Duplexes
+
+Primary place of residence
+
+2. A duplex is a residential complex consisting of two residential units under one legal title. An individual who buys a newly constructed or substantially renovated duplex could be eligible for a new housing rebate under section 254 or 254.1. Part of the duplex must be used as the primary place of residence of the individual or a relation, which includes a former spouse or relative of the individual, even if the other part is rented to someone else as residential accommodation. Similarly, a new housing rebate may be available under section 256 to an individual who constructs or substantially renovates a duplex or hires someone to do so. The claim must satisfy the eligibility requirements of the section governing the particular housing rebate.
+
+Self-supply s 191
+
+3. Note that if 50% or more of a newly constructed or substantially renovated owner-built duplex is rented to an unrelated person, the owner may be subject to the self-supply rules in section 191.
+
+## Major additions
+
+Creates a new single unit residential complex
+
+4. The eligibility rules for new housing rebates apply where a single unit residential complex or residential condominium unit is constructed or substantially renovated. For an addition to qualify for a new housing rebate, the construction of the addition must change the character of the existing unit to such a fundamental extent that the resulting structure is essentially a new single unit residential complex or residential condominium unit. This fundamental change could mean that the original unit together with the addition form a newly constructed single unit residential complex or residential condominium unit, or that the existing unit was incorporated into the addition to form the newly constructed single unit residential complex or residential condominium unit.
+
+Determining factors TlB B-092
+
+5. Many factors need to be examined when determining if an addition has resulted in a newly constructed single unit residential complex or residential condominium unit. For a detailed discussion of these factors, please refer to Technical Information Bulletin B-092, [Substantial Renovations and the GST/HST New Housing Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-092.html).
+
+Minor additions, major additions
+
+6. Minor additions such as the addition of a porch or sunroom, the enlargement of a room or even the addition of a single room (such as a family room, bedroom or bathroom) would not normally qualify as construction of a new single unit residential complex or residential condominium unit. The construction of an addition that contains a number of rooms, although considered a major addition, may not necessarily qualify as the construction of a new unit. On the other hand, the construction of a 1,500 square foot addition to a 1,000 square foot house may be considered major enough to be the construction of a new single unit residential complex or residential condominium unit.
+
+Requesting a ruling
+
+7. Persons requesting a ruling on whether the construction of a particular addition constitutes the construction of a new single unit residential complex or residential condominium unit should provide Revenue Canada with the information and documents described in Section 1.4, *Goods and Services Tax Rulings* of the GST/HST Memoranda Series, as well as
+
+- copies of relevant documents indicating that a major addition to an existing single unit residential complex or residential condominium unit has been constructed or is to be constructed and the cost or expected cost of such construction (including, where applicable, copies of building permits, municipal property tax reassessments, land survey, construction plans, invoices and receipts from suppliers and contractors);
+
+- the ratio of newly constructed floor space to the existing floor space (i.e., the relative size of the new construction);
+
+- the number and type of rooms of the new construction;
+
+- the degree of annexation of the existing complex into the new construction; and
+
+- details and explanation of the work that was done, or to be done, to the existing building and the addition including the presence of new systems (i.e., plumbing and electrical).
+
+## Rebates for mini-homes and park model trailers
+
+Definition ss 123(1)
+
+8. Effective April 24, 1996, the definition of mobile home was amended to delete the requirement respecting the size of the mobile home and the requirement that the home be designed to be towed on its own chassis on wheels. Accordingly, after April 23, 1996, purchasers of mini-homes are entitled to a rebate under section 254 if the conditions for the rebate are satisfied. “Mini-homes” are manufactured homes that prior to April 24, 1996, did not meet the requirement under the old definition for the building to be designed to be towed on its own chassis on wheels. See paragraphs 16 and 17 for information concerning rebate options available to purchasers of mobile homes, including mini-homes.
+
+9. Park model trailers continue to be excluded from the new definition of mobile home. “Park model trailers” are manufactured trailers that did not satisfy the requirements of the earlier definition because:
+
+- they were smaller than the minimum dimensions specified under the old definition;
+
+- they were not designed to be placed or installed on a foundation; and
+
+- they were for recreational use.
+
+10. Notwithstanding the removal of the size specifications in the definition, the last two points generally continue to preclude a park model trailer from qualifying as a mobile home.
+
+Policy statement P-104 Definition of mobile home ss 123(1)
+
+11. If a park model trailer is used for residential rather than recreational purposes and is permanently affixed to land in the same manner as a house, it may qualify as a residential complex. To be affixed to the land in the same manner as a house means that the structure must be set on a permanent foundation, not merely placed on the land. If a park model trailer is affixed to land in the same manner as a house and if it is used for residential purposes rather than recreational, it would be considered to be a residential complex.
+
+12. It is a question of fact whether a particular park model trailer is permanently affixed to the land in the same manner as a house. The following factors help to determine if the structure is affixed to the land in such a manner:
+
+- the type of structure,
+
+- the use of the structure and the applicable land,
+
+- the actual degree of permanency of the installation on the land,
+
+- the agreements relating to:
+
+    - the permanency and means of affixing the structure to the land, and
+
+    - where applicable, the removal or ownership of the structure at the end of a lease.
+
+Rebates s 254 s 254.1
+
+13. If a newly constructed or substantially renovated park model trailer qualifies as a residential complex, and if both the land and the home are purchased from a builder, the new housing rebate under section 254 may be available. If the home is purchased from a builder and the land is leased from the same builder, the rebate under section 254.1 may be available.
+
+Rebate for owner-built unit s 256
+
+14. If an individual purchases a newly constructed or substantially renovated park model trailer from a vendor or manufacturer, and places it on land owned or leased by the individual, the individual is considered to have constructed a new residential complex if the structure is permanently affixed to the land in the same manner as a house. A new housing rebate may be available under section 256. Rebates under section 256 are computed on the total tax paid on acquisition of the land and improvements to it. This may include tax paid on the land, foundation, water and sewage installation costs, and on the acquisition, transportation and installation of the park model trailer. For further information on the rebates provided under section 256, see Section 19.3.4, *Rebate for Owner-Built Homes*.
+
+Summary table
+
+*Availability of rebates for mini-homes and park model trailers*
+
+| **If** | **and** | **then** a rebate may be available under |
+
+| --- | --- | --- |
+
+| a mini-home or park model trailer is not for recreational use and is a residential unit, | both unit and land are purchased from the builder, | s 254. |
+
+| i.e., used for residential purposes and is permanently affixed to the land in the same manner as a house, | unit is purchased and the land is leased from the builder, (term of at least 20 years or leased with an option to purchase) | s 254.1. |
+
+|  | unit purchased by an individual and affixed to land, | s 256. |
+
+## Special information pertaining to purchases of mobile homes
+
+Rebate options
+
+15. Individuals who purchase a new or substantially renovated mobile home may apply for a rebate directly from the Department under the provisions of section 254, 254.1 or 256, or may apply through the mobile home builder under the provisions of section 254 or 254.1. (Note: the definition of “builder” includes the manufacturer, distributor, or retailer of the mobile home, commonly referred to as a “dealer”.) However, as a claimant is entitled to file only one rebate application in respect of a particular home, a choice must be made concerning which approach is most appropriate to the rebate situation. The purchaser must meet the eligibility requirements for the applicable section of the Act. It is important to note that the builder can pay or credit the purchaser with a housing rebate calculated only on the total consideration for the mobile home, land, and improvements which the builder has sold to the purchaser.
+
+Further information
+
+16. For further information concerning mobile homes, see the section, “Special Information for Mobile Home Purchasers” in the guide, *GST/HST New Housing Rebate.*
+
+## Mixed-use buildings
+
+Proportionate use
+
+17. The availability of a new housing rebate where part of a property is used as an individual's primary place of residence and part is used for commercial purposes depends upon the proportion of use of the property.
+
+Residential complex ss 123(1)
+
+18. Where an individual purchases a single unit residential complex or residential condominium unit that is used primarily as the individual's place of residence or that of a relation, the individual may be eligible to claim the new housing rebate for the tax paid on the entire unit because the entire unit is considered to be a “residential complex”, even though part may be used for other purposes. “Primarily” generally means more than 50% of the use of the unit. For example, if a lawyer uses more than 50% of the floor space of a single unit residential complex as the lawyer's primary place of residence and the remainder as an office in which to meet clients, a new housing rebate would generally be based on the tax paid for the entire complex.
+
+No ITCs
+
+19. Subsection 208(1) precludes registrant individuals who acquire real property primarily for personal use and enjoyment from claiming ITCs for the acquisition, even though a portion of the property is used in commercial activities.
+
+ITC s 169
+
+20. An individual who purchases a mixed-use property, and uses it primarily in commercial activities rather than primarily as the individual's place of residence would not be eligible for a new housing rebate calculated on the tax paid on the purchase of the entire property. However, the individual may be eligible for a new housing rebate based on the tax paid for the part of the building that the individual, a former spouse, or a relation of the individual occupies as his or her primary place of residence together with tax paid for the land that is considered necessary for the unit's use and enjoyment as a place of the residence for individuals. This residential part of the building would constitute a residential complex. An ITC may be available for the portion that is used in commercial activities. An example of this type of mixed use is where an individual uses one storey of a three-storey building as the individual's primary place of residence while using the other two floors for business purposes. (See the discussion of ITCs and mixed-use properties in Section 19.1, *Real Property and the GST/HST*. See also the discussion of property converted to residential use under the change-in-use provision in Section 19.2.3, *Residential Real Property—Deemed Supplies*.)
+
+## Substantial renovations
+
+Definitions s 123(1)
+
+21. The acquisition or construction of a substantially renovated single unit residential complex or residential condominium unit by an individual may qualify for a housing rebate. “Substantial renovation” of a residential complex means :
+
+“the renovation or alteration of a building to such an extent that all or substantially all of the building that existed immediately before the renovation or alteration was begun, other than the foundation, external walls, interior supporting walls, floors, roof and staircases, has been removed or replaced where, after completion of the renovation or alteration, the building is, or forms part of, a residential complex.”
+
+22. All or substantially all means 90% or more.
+
+Substantial renovation = new construction
+
+23. If the building has been substantially renovated, the unit is treated for GST/HST purposes in the same manner as a newly constructed residential complex. While an addition to a unit is not included in determining if there has been a substantial renovation to the existing building, GST/HST costs related to the addition may be eligible for the housing rebate, if the existing building has been substantially renovated.
+
+Determining factors TIB B-092
+
+24. Many factors need to be examined when determining if a new construction qualifies as a substantial renovation. For a detailed discussion of these factors, please refer to Technical Information Bulletin B-092, [Substantial Renovations and the GST/HST New Housing Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-092.html).
+
+Requesting a ruling
+
+25. Persons requesting a ruling on whether or not a particular building has been substantially renovated should provide the Department with the information described in Section 1.4, *Goods and Services Tax Rulings* of the GST/HST Memoranda Series, as well as:
+
+- copies of relevant documentation indicating that renovation work has begun, or is to be undertaken, and the cost or expected cost of such renovations (including, where applicable, building permits, municipal property tax reassessments, construction plans, invoices and receipts from suppliers and contractors),
+
+- the number of rooms, types of rooms, and size of the building prior to the renovation, and
+
+- details and explanation of the work that was done, or is to be done, to the interior of the house and the particular rooms that have been removed or replaced as well as other work (including exterior work and new systems, such as plumbing and electrical) that was done, or is to be done, to the house.
+
+## Substantially renovated multiple unit residential complexes
+
+Joint tenancy or undivided co-ownership
+
+26. Certain builders are substantially renovating multiple unit residential complexes of more than two residential units and selling the complexes to individuals in joint tenancy or undivided co-ownership. Under this arrangement, each individual purchaser has his or her own residential unit, but is in a joint tenancy or undivided co-ownership for the entire complex on title.
+
+No rebate
+
+27. Subject to the rules relating to cooperative housing corporations, such individuals are not generally eligible to claim the new housing rebate because they are not purchasing a single unit residential complex or residential condominium unit but rather an interest in a complex which contains more than two residential units.

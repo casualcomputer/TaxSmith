@@ -1,0 +1,34 @@
+---
+title: "What work qualifies for SR&ED tax incentives? - Video 2"
+gallery_title: "What work qualifies for SR&ED tax incentives? - Video 2"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/businesses-video-gallery/transcript-video-2-what-work-qualifies-tax-incentives.html
+series: "CRA's SR&ED Tax Incentive Program"
+video_source: /content/dam/cra-arc/migration/cra-arc/vc/bsnss/srs-tx-ncntv-prgrm2-eng.webm
+last_modified: 2017-11-08
+---
+
+# What work qualifies for SR&ED tax incentives? - Video 2
+
+## Transcript
+Welcome to video two of this series. In the first video, I told you a little about the Scientific Research and Experimental Development program or SR&ED for short. Under the program, you can get an investment tax credit in the form of a cash refund or a reduction of the taxes you owe, or both.
+In this video, I'll tell you about what type of work qualifies for the tax credit. To qualify as SR&ED, your work must meet the definition of one of the following: basic research, applied research, or experimental development.
+Let me explain.
+One. Basic research. This is work carried out to advance scientific knowledge. It's usually done in universities or research institutes.
+So, this type of research is purely to gain scientific knowledge.
+Two. Applied research. It's also work carried out to advance scientific knowledge but, unlike basic research, it's done with a specific practical application in view.
+Three. Experimental development. This work is carried out to achieve technological advancement. It's also by far the most common type of SR&ED work.
+So, what does technological advancement mean? It means that you are generating information or knowledge to advance your technology base. This, in turn, will help you to develop new products or processes or improve existing ones.
+A word of caution though! A new or improved product does not always mean that a technological advancement was achieved.
+So how do you know that you've achieved technological advancement? An easy way is to ask yourself: what technological uncertainties did you encounter when you tried to develop the product or process?
+Technological uncertainties are barriers that prevent you from achieving your goals. The knowledge that you gain in overcoming those barriers is the technological advancement.
+Okay, we've talked about why SR&ED work is done. Now let's look at how it's done. No matter what type of SR&ED work you do, you have to follow certain basic procedures.
+Your work must be a systematic investigation or search by means of experiment or analysis.
+And what does that mean?
+Well, it means that each approach you take to resolve your uncertainty should be a planned experiment based on an idea or a concept.
+So, you start with a problem that you can't solve with the existing technology base or knowledge.
+Then you suggest new ideas for how to solve the problem and you test them. This will eventually lead you to increase your technology base or knowledge.
+In a nutshell, if you're doing a systematic investigation or search, by experiment or analysis, to advance science or technology, your work qualifies!
+It's that simple!
+Now you know what kind of work qualifies. In the next video we'll look at how to calculate your SR&ED expenditures and an investment tax credit.
+To find out more about the SR&ED program, check out the policies, services and tools at [www.cra.gc.ca/sred](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html)
+You can also attend free SR&ED information seminars. Thanks for watching.

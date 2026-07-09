@@ -1,0 +1,131 @@
+Title: ARCHIVED - Expenses of training
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it357r2/archived-expenses-training.html
+Corpus path: corpus/cra/forms-publications/publications/it357r2/archived-expenses-training.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Expenses of training
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-357R2**
+
+DATE: November 6, 1989
+
+SUBJECT: INCOME TAX ACT**Expenses of Training**
+
+REFERENCE: Subsection 18(1) (also section 67, subsections 15(1) and 20(10), and paragraph 6(1)(a))
+
+Application
+
+This bulletin replaces and cancels Interpretation Bulletin IT-357R dated May 21, 1980. Current revisions are indicated by vertical lines.
+
+Summary
+
+This bulletin deals with the deductibility of costs and expenses of training, including those for travel, food, beverages, and lodging incurred in connection with attending a training course, but not including tuition fees paid to certain educational institutions for which a tax credit is allowed.
+
+Training costs are not deductible as current expenses if they are capital expenditures. They are considered to be capital in nature where the training results in a lasting benefit to the taxpayer, i.e., where a new skill or qualification is acquired. Where, on the other hand, the training is taken merely to maintain, update or upgrade an already existing skill or qualification, the related costs are not considered to be capital in nature.
+
+Also, any portion of costs related to training which is either personal or unreasonable in the circumstances may not be deducted. In deciding whether any portion of these costs is personal or unreasonable, the duration and location of the course should be considered, as well as the days on which no training is taken.
+
+Costs incurred in connection with attending a convention or a business meeting can receive different tax treatment from the costs of attending a training course. A distinction should therefore be made between a training course and a convention or a business meeting.
+
+Discussion and Interpretation
+
+1. For the purposes of this bulletin, the reference to "costs or expenses of training" includes those costs for travel, food, beverages, and lodging that are incurred in connection with attending a training course, but does not include tuition fees paid to certain educational institutions for which a tuition tax credit is allowed (see the current version of IT-516). Costs of training are generally considered to be either capital or personal in nature and therefore not deductible by virtue of paragraphs 18(1)(b) or (h), respectively. However, in certain circumstances as described below, training expenses are not considered to be capital or personal in nature and thus are deductible provided that they are reasonable in the circumstances.
+
+Self-employed Individuals
+
+2. Where a training or educational course results in a lasting benefit to the taxpayer, the costs incurred in connection with the course are considered to be capital in nature. The deduction of these capital expenditures as current expenses is disallowed by paragraph 18(1)(b); however, where these expenditures were incurred in respect of a business of the taxpayer, they would qualify as "eligible capital expenditures" (see the current versions of IT-123 and IT-143). A lasting benefit to the taxpayer is considered to occur where a new skill or qualification for a business is acquired. Thus, training costs incurred by the taxpayer in connection with a course which he or she takes to obtain a credit for a degree, diploma, professional qualification or similar certificate would be considered capital in nature. Where, on the other hand, the taxpayer takes a training course merely to maintain, update or upgrade an already existing skill or qualification with respect to his or her business or profession, expenses incurred in connection with such a course are not considered to be capital in nature and their deduction as current expenses is not disallowed by paragraph 18(1)(b). Thus, for example, costs incurred in connection with a course taken to enable a professional to learn the latest methods of carrying on his or her profession may be allowable, even if the course relates to an area of the profession in which the professional was not previously involved actively though qualified to be so involved.
+
+3. The following are examples of cases where costs of training are considered to be capital expenditures, the deduction of which is disallowed by paragraph 18(1)(b), because the training is taken to acquire a new skill or qualification:
+
+(a) A medical general practitioner is training to qualify as a specialist.
+
+(b) A lawyer is taking an engineering course that is unrelated to his or her legal practice.
+
+(c) A taxpayer is taking a university or other course leading to a degree or other certificate. (Note, however, that costs incurred in connection with a course of the type described in 4 below will not be disallowed merely because the course is conducted at, or under the sponsorship of, a university.)
+
+(d) A professor employed by a university takes a course during a sabbatical (see also comments regarding duration of training in 5 below) in order to acquire a new skill needed for a sideline business.
+
+4. The following are examples of cases where training expenses are not considered to be capital in nature and thus their deduction as current expenses is not disallowed by paragraph 18(1)(b), because the training is taken merely to maintain, update or upgrade an existing skill or qualification:
+
+(a) A professional development course is taken as required or recommended by a professional body to maintain professional standards.
+
+(b) A tax course is taken by a lawyer or accountant who is qualified to do tax work, whether or not he or she has previously been actively involved in such work.
+
+(c) A course on modern building materials is taken by an architect.
+
+(d) A course on electronic ignitions is taken by the owner of an automobile repair shop.
+
+5. Any portion of a claim by a self-employed taxpayer in respect of training expenses which either is personal or is unreasonable in the circumstances is not deductible by virtue of paragraph 18(1)(h) or section 67, respectively. The following factors should be considered in determining whether any portion of a claim is personal or unreasonable:
+
+Duration
+
+Full-time training courses generally do not exceed a period of two or three weeks. However, expenses incurred in connection with a full-time course of longer duration may, in certain circumstances, be considered reasonable. For example, expenses in connection with a course sponsored or accepted by a professional association to maintain the professional standards of its members would generally be allowable even if the course lasts four to six weeks. It should be noted, however, that the total time taken in attending courses in any one year should not be so great that the taxpayer can be said not to have carried on his or her business or profession for a significant part of the year.
+
+Location of Course
+
+As a rule, expenses of attending a training course outside the taxpayer's general geographic locale are considered unreasonable to the extent that they exceed what they would have been had a similar course been attended locally, if available. The Department may question the deductibility of expenses incurred in connection with attending a course held in a distant location or in a recognized holiday area. The fact that a training course in such a location or area was of relatively short duration and was followed by a personal holiday may indicate that the costs claimed, or a portion of such costs, are not deductible training expenses but are personal expenses. Claims in connection with training taken outside of continental North America are considered to be unreasonable to the extent that they exceed what they would have been in connection with equivalent training in North America, if available. Claims in connection with a training course held outside the territorial limits of a sponsoring professional organization or business association are generally considered to be unreasonable to the extent that they exceed what they would have been had that course been held within such territorial limits.
+
+Days When No Training Taken
+
+A taxpayer attending a training course will not be allowed to claim expenses for those days when no training is taken. An exception is made for days of arrival and departure, as well as weekends (including long weekends) where the course is attended on the last working day of the preceding week and the first working day of the following week and it is reasonable for the taxpayer to stay over the weekend. For example:
+
+|  | Costs Allowed | Costs Not Allowed |
+
+| --- | --- | --- |
+
+|  |  |  |
+
+| Monday - date of arrival | x |  |
+
+| Tuesday, Wednesday - course attended |  |  |
+
+| x |  |  |
+
+| Thursday - sightseeing Trip |  |  |
+
+|  | x |  |
+
+| Friday - course attended |  |  |
+
+| x |  |  |
+
+| Saturday, Sunday - no courses |  |  |
+
+| x |  |  |
+
+| Monday to Friday - course attended |  |  |
+
+| x |  |  |
+
+| Saturday to Saturday - vacation |  |  |
+
+|  | x |  |
+
+| Sunday - date of departure |  |  |
+
+| x |  |  |
+
+6. The current version of IT-518 discusses limitations on the deductibility of costs incurred in respect of food and beverages consumed and entertainment enjoyed. The current version of IT-521 discusses limitations on the deductibility of the costs of operating a vehicle. The limitations commented on in these bulletins apply to any costs discussed therein, effective for the dates of application given therein, that are incurred by a self-employed taxpayer in connection with taking a training course.
+
+Employers and Employees
+
+7. An employer may normally deduct expenses incurred in respect of an employee's training, regardless of whether it is the employer or the employee who benefits from the training, provided that such expenses are reasonable in the circumstances (see 5 above). If it is the employee and not the employer who benefits from the training, a taxable benefit under paragraph 6(1)(a) results. Reference should be made to the comments under the heading "Tuition Fees" in the current version of IT-470. A corporate employer may not deduct training costs which have been included in a shareholder's income under subsection 15(1).
+
+8. Although a tax credit in respect of tuition fees paid to certain educational institutions is available to taxpayers (see the current version of IT-516) including those who are employees, the Income Tax Act generally does not provide for an employee to deduct training expenses. However, an exception to this general rule can occur under paragraph 8(1)(f). That is, a taxpayer who is employed in connection with the selling of property or negotiating of contracts for his or her employer and who is remunerated in whole or part by commissions or other similar amounts may be entitled to deduct training expenses under paragraph 8(1)(f), as was found by the Tax Court of Canada in the case of Doris J. Neville v. M.N.R., 88 DTC 1546, {1988} 2 C.T.C. 2201. In order to deduct training expenses under paragraph 8(1)(f), all the requirements thereof must be satisfied. These requirements are described under the heading "Salespersons" in the current version of IT-522. The comments in 2, 5 and 6 above with respect to self-employed taxpayers should also be considered in connection with a deduction of training expenses under paragraph 8(1)(f) by an employee as described above.
+
+Conventions and Business Meetings
+
+9. A training course should be distinguished from a convention, which may be described as a formal meeting of members of an organization or association for professional or business purposes. Unlike a training course which generally has a classroom format for teaching a subject in accordance with a formal course of study, a convention does not normally have a classroom format and those attending are normally not expected to study text-books, prepare assignments or take tests. A convention does not become a training course when some of its sessions take the form of workshops. It is a question of fact whether a "seminar" is a convention or a training course. While conventions usually result in the acquisition of knowledge by those attending them, the deduction of convention expenses is specifically covered by subsection 20(10) and is subject to the limitations contained in the provisions of that subsection (see the current version of IT-131).
+
+10. A training course should also be distinguished from a meeting of a group of employees or owners of a business where no formal training occurs. An employer's costs incurred in connection with employee meetings of this nature are usually allowable, as are costs of similar meetings of the owners of a business, provided that such costs are reasonable in the circumstances and are incurred for the purpose of carrying on the business.

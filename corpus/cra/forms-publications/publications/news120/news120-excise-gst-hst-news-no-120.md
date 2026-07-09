@@ -1,0 +1,212 @@
+---
+title: "Excise and GST/HST News – No. 120"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news120/news120-excise-gst-hst-news-no-120.html
+last_modified: 2025-07-30
+---
+# Excise and GST/HST News – No. 120
+
+July 2025
+
+## Table of Contents
+
+- [The application of the GST/HST to a supply of a warranty](#toc0)
+
+    - [Supply of a warranty by an insurer](#toc1)
+
+    - [Supply of a warranty by a person that is not an insurer](#toc2)
+
+    - [Other situations](#toc3)
+
+- [References to Canada Border Services Agency's commercial importation forms in Canada Revenue Agency's publications](#toc4)
+
+- [Removal of the fuel charge](#toc6)
+
+    - [Filing and reporting](#toc7)
+
+    - [Registration/cancellation](#toc8)
+
+    - [Audit](#toc9)
+
+- [Prescribed rates of interest](#toc10)
+
+- [Forms and publications](#toc11)
+
+- [Contact us](#toc12)
+
+## The application of the GST/HST to a supply of a warranty
+
+This article is intended to provide assistance in determining whether a particular product is a warranty for GST/HST purposes and the application of the GST/HST to the supply of such a warranty. The term **warranty** is not defined in the *Excise Tax Act* (ETA). However, paragraph (a) of the definition of **insurance policy** in subsection 123(1) of the ETA refers to a "warranty in respect of the quality, fitness or performance of tangible property" and excludes those warranties in certain situations. Tangible property includes tangible personal property (TPP) and real property. This article focuses on TPP. Further information on the definition of insurance policy is provided later in this article.
+
+To determine the application of the GST/HST to a person's supply of a warranty in respect of the quality, fitness, or performance of TPP, it is first necessary to determine whether a person is making a single supply or multiple supplies. If, at the time of purchase, a person supplies TPP and the person's own warranty in respect of the quality, fitness or performance of the TPP to a buyer, the person is generally making a single supply of TPP.
+
+However, there may be times when a person is supplying TPP and not supplying their own warranty but is acting on behalf of another person who is supplying a warranty in respect of the quality, fitness or performance of the TPP. Note that who is supplying the warranty may not be clear to the buyer. For example, if Supplier A supplies TPP to a buyer and Supplier B supplies a warranty in respect of the quality, fitness, or performance of the same TPP to the buyer (such as an extended warranty effective after the manufacturer's warranty expires), Supplier B's supply of the warranty is likely a separate supply from Supplier A's supply of the TPP. For further information on single and multiple supplies, refer to [GST/HST Policy Statement P-077R2, Single and Multiple Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-077r2.html).
+
+The issue of whether a person is required to charge the GST/HST on a separate supply of a warranty in respect of the quality, fitness, or performance of TPP generally depends on whether the person is a registrant, an insurer and the warranty is an insurance policy as those terms are defined in the ETA.
+
+Under subsection 123(1), a **registrant** generally means "a person who is registered or required to be registered" for GST/HST purposes, and an **insurer** means "a person who is licensed or otherwise authorized under the laws of Canada or a province to carry on in Canada an insurance business or under the laws of another jurisdiction to carry on in that other jurisdiction an insurance business". Subsection 123(1) defines an **insurance policy** to include, in paragraph (a), "a policy or contract of insurance (other than a warranty in respect of the quality, fitness or performance of tangible property, where the warranty is supplied to a person who acquires the property otherwise than for resale) that is issued by an insurer". For further information on the definition of insurance policy under subsection 123(1), refer to [GST/HST Memorandum 17-16, GST/HST Treatment of Insurance Claims](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-16.html).
+
+### Supply of a warranty by an insurer
+
+Where an insurer makes a separate supply of a policy or contract of insurance that is a warranty in respect of the quality, fitness, or performance of TPP to a person that acquires the TPP **for resale**, the warranty is **not** excluded from the definition of insurance policy. The insurer's issuance of the insurance policy is a supply of a financial service under paragraph (d) of the definition of **financial service** in subsection 123(1). An insurer's supply of a financial service is an exempt supply under section 1 of Part VII of Schedule V to the ETA unless it is a zero-rated supply under Part IX of Schedule VI to the ETA. An insurer is not required to charge the GST/HST on the consideration (for example, a premium) for an exempt or zero-rated supply of a financial service.
+
+However, where an insurer makes a separate supply of a policy or contract of insurance that is a warranty in respect of the quality, fitness, or performance of TPP to a person that acquires the property **otherwise than for resale** (for example, for personal use), the warranty is excluded from the definition of insurance policy. As such, the insurer's issuance of the warranty is not a supply of a financial service under paragraph (d) of the definition of financial service. As the insurer's supply of the warranty is not a supply of a financial service or any other exempt supply, it is a taxable supply. If the insurer is a registrant, the insurer is generally required to charge the GST/HST on the consideration (for example, a fee) for the taxable supply of the warranty.
+
+### Supply of a warranty by a person that is not an insurer
+
+Where a person that is not an insurer makes a separate supply of a warranty in respect of the quality, fitness, or performance of TPP to another person, the warranty does not meet the definition of insurance policy, whether or not the other person acquires the property for resale. As the supply of the warranty is not a supply of a financial service or any other exempt supply, it is generally a taxable supply. If the person is a registrant, the person is generally required to charge the GST/HST on the consideration (for example, a fee) for the taxable supply of the warranty.
+
+### Other situations
+
+Where a policy or contract issued by an insurer provides a combination of coverages including insurance coverages as well as warranties in respect of TPP acquired by a person otherwise than for resale, it is a question of fact whether the policy or contract is an insurance policy under paragraph (a) of the definition of insurance policy in subsection 123(1). Also, in some cases, certain products or contracts may be called warranties but are not warranties in respect of the quality, fitness, or performance of TPP. The application of the GST/HST to such products or contracts is a question of fact. To determine the application of the GST/HST in either of these situations requires a review of all the relevant documentation. If you would like guidance for a particular situation, call GST/HST Rulings at 1‑800‑959‑8287 or send a letter to GST/HST Rulings to request a written ruling or interpretation. For further information on this service, refer to [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html).
+
+## References to Canada Border Services Agency's commercial importation forms in Canada Revenue Agency's publications
+
+As discussed in the article "Prepare for CARM today if your business imports into Canada!" published in the [Excise and GST/HST News No. 115](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news115.html) on December 12, 2023, the Canada Border Services Agency (CBSA) implemented the CBSA Assessment and Revenue Management (CARM) system in order to modernize and streamline the process of importing commercial goods. CARM is a multi-year digital initiative that has become the official system of record for the collection of duties and taxes for commercial goods imported into Canada.
+
+As a result of the implementation of CARM in October 2024, a number of forms that were previously used in respect of commercial importations, such as CBSA Form B3-3, *Canada Customs Coding Form* (Form B3) and CBSA Form B2, *Canada Customs – Adjustment Request* (Form B2), were replaced with the Commercial Accounting Declaration (CAD). Importers are now required to use the CAD as the accounting, correction, and adjustment document in respect of imported **commercial goods**, which is defined in the *Excise Tax Act* to mean goods that are imported for sale or for any commercial, industrial, occupational, institutional, or other like use.
+
+A number of Canada Revenue Agency (CRA) publications continue to refer to Form B3 and Form B2 and, in some cases, provide instructions that refer to fields in those forms that have been renumbered in the CAD. References to the old CBSA forms in the CRA publications should therefore be replaced with references to the CAD.
+
+For further information regarding the CAD and instructions on how to complete it, refer to the following CBSA Memoranda:
+
+- [Memorandum D17-1-5: Accounting for Commercial Goods](https://www.cbsa-asfc.gc.ca/publications/dm-md/d17/d17-1-5-eng.html)
+
+- [Memorandum D17-1-10: Coding of Customs Accounting Documents](https://www.cbsa-asfc.gc.ca/publications/dm-md/d17/d17-1-10-eng.html)
+
+- [Memorandum D17-2-1: Adjusting Commercial Accounting Declarations](https://www.cbsa-asfc.gc.ca/publications/dm-md/d17/d17-2-1-eng.html)
+
+- [Memorandum D17-2-4: Preparation and Presentation of Pre-CARM Adjustments](https://www.cbsa-asfc.gc.ca/publications/dm-md/d17/d17-2-4-eng.html)
+
+## Removal of the fuel charge
+
+On March 15, 2025, the Government of Canada made [regulations](https://gazette.gc.ca/rp-pr/p2/2025/2025-03-15-x2/html/sor-dors107-eng.html) that cease the application of the federal fuel charge under Part 1 of the *Greenhouse Gas Pollution Pricing Act* (the Act). As a result, the fuel charge no longer applies in listed provinces (Alberta, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Nunavut, Ontario, Prince Edward Island, Saskatchewan, and Yukon) in respect of activities after March 31, 2025.
+
+### Filing and reporting
+
+The fuel charge no longer needs to be reported or paid on all types of fuel and combustible waste in listed provinces in respect of activities after March 31, 2025.
+
+Effective April 1, 2025, fuel charge filing requirements for registered persons and obligations for non-registered persons have ceased. Registered and non-registered persons must still file any required fuel charge returns and pay any amounts owing for reporting periods prior to April 1, 2025.
+
+Persons previously subject to a charge for fuel held in a listed province on adjustment days are not required to file Form B402, *Fuel Charge Return on Fuel Held in a Listed Province on Adjustment Day*, or the related schedule for April 1, 2025. Persons must still file any outstanding adjustment day returns and pay any amounts owing for adjustment days up to and including April 1, 2024.
+
+Registered persons must file Form [B400, Fuel Charge Return – Registrant](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400.html), and the related schedule for the period ending March 31, 2025.
+
+### Registration/cancellation
+
+Persons that were neither registered nor required to be registered on March 31, 2025, are no longer required or permitted to register for the fuel charge after that date.
+
+Effective November 1, 2025, all fuel charge accounts (CT endorsement) will be cancelled without any action required by registrants and affected non-registrants. Persons are still able to claim a rebate or amend returns in reporting periods prior to cancellation in accordance with the existing statutory time limitations.
+
+### Audit
+
+Current fuel charge audits in process along with closing audits will be completed over the next few years. Prepayment review of rebate claims will also continue as claims are filed.
+
+Section 111 of the Act limits reassessments of amounts payable to four years from the date the amount became payable. However, an assessment may be made beyond four years where a misrepresentation attributable to neglect, carelessness, or wilful default is made, or where fraud has been committed.
+
+Exemption certificates no longer apply in respect of a delivery of a type of fuel in a listed province on or after April 1, 2025. Section 104 of the Act provides that persons that are required to keep records must retain them for a period of six years after the end of the year to which the documents relate.
+
+For further information, refer to [Fuel Charge Notice FCN16, Removal of the fuel charge](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn16/removal-of-the-fuel-charge.html).
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from July 1, 2025, to September 30, 2025, on overdue amounts payable to the Minister is 7%. The prescribed annual rate of interest on amounts owed by the Minister (such as, rebates or refunds) is 3% for corporate taxpayers and 5% for non-corporate taxpayers. These rates are applicable to income tax, excise taxes, GST/HST, underused housing tax (UHT), air travellers security charge (ATSC), luxury tax, fuel charge (under the *Greenhouse Gas Pollution Pricing Act*), and excise duties on wine, spirits, tobacco, cannabis, and vaping products.
+
+The prescribed annual rate of interest respecting excise duty on beer products, on overdue amounts payable for the indicated period, is set at 5%. Refund interest rates are not applicable for amounts owed by the Minister (such as, rebates or refunds) for excise duty that is in relation to beer products.
+
+| PERIOD | July 1, 2025 to September 30, 2025 | April 1, 2025 to June 30, 2025 | January 1, 2025 to March 31, 2025 | October 1, 2024 to December 31, 2024 |
+
+| --- | --- | --- | --- | --- |
+
+| Refund Interest Corporate Taxpayers | 3% | 4% | 4% | 5% |
+
+| Refund Interest Non-Corporate Taxpayers | 5% | 6% | 6% | 7% |
+
+| Arrears and Instalment Interest | 7% | 8%* | 8% | 9% |
+
+* The Canada Revenue Agency (CRA) will provide interest relief on existing GST/HST and T2 balances between April 2 and June 30, 2025. There is no need to provide proof of hardship from or impact of tariffs. The CRA will automatically grant relief on GST/HST and T2 accounts during the relief period.
+
+| PERIOD | July 1, 2025 to September 30, 2025 | April 1, 2025 to June 30, 2025 | January 1, 2025 to March 31, 2025 | October 1, 2024 to December 31, 2024 |
+
+| --- | --- | --- | --- | --- |
+
+| Arrears Interest Excise duty - beer products | 5% | 6% | 6% | 7% |
+
+Prescribed interest rates for previous years are available on Canada.ca at [Prescribed interest rates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## Forms and publications
+
+All GST/HST, underused housing tax, luxury tax, fuel charge, excise duties, and excise taxes and other levies technical publications can be found on the [Technical tax information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information.html) webpage on Canada.ca. To access all forms and publications, go to [Forms and publications - CRA](https://www.canada.ca/en/revenue-agency/services/forms-publications.html), and for a list of new and revised publications, go to the [Canada Revenue Agency publications listed by number](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications.html) webpage. To access guides, returns, and elections relating to the GST/HST, go to [GST/HST-related forms and publications](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/forms-publications.html).
+
+To receive email notification as soon as a document is published on the Canada.ca website, go to [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribe to the RSS feed for all new Canada Revenue Agency publications and forms, or subscribe to any number of mailing lists for different types of publications.
+
+## Contact us
+
+**Enquiries regarding programs administered by the Excise and Specialty Tax Directorate**
+
+For information about how to make a general or technical enquiry relating to excise duties, excise taxes and other levies (including the air travellers security charge), the fuel charge or the luxury tax or to enquire about your account or the processing status of a return or related refund or rebate application, refer to [Contact Information – Excise and Specialty Tax Directorate](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/excise-taxes-contacts.html).
+
+### Telephone enquiries
+
+**GST/HST**
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- call Business Enquiries at 1‑800‑959‑5525 for **general enquiries**
+
+- call GST/HST Rulings at 1‑800‑959‑8287 for **technical enquiries**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1‑800‑567‑4692** or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution** (whether or not you are located in Quebec) and require information on the GST/HST or the QST, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- call Business Enquiries at 1‑800‑959‑5525 for **general GST/HST** or **QST enquiries**
+
+- call GST/HST Rulings SLFI at 1‑855‑666‑5166 for technical **GST/HST or QST enquiries**
+
+**Underused housing tax**
+
+For general enquiries about a residential property that is owned by an individual:
+
+- Calls from the U.S. or Canada: 1‑800‑959‑8281
+
+- Calls from elsewhere: 613‑940‑8495 (collect calls accepted)
+
+For general enquiries about a residential property that is owned by a corporation:
+
+- Calls from the U.S. or Canada: 1‑800‑959‑5525
+
+- Calls from elsewhere: 613‑940‑8497 (collect calls accepted)
+
+### Account enquiries
+
+For **general information** about the GST/HST and the underused housing tax and to make **enquiries**regarding your **account**, you can:
+
+- view answers to common enquiries, or submit an enquiry using the online **Enquiries service** in **My Business Account**, through the [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) portal;
+
+- view account information online at [Digital services for businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html)
+
+- call Business Enquiries at 1‑800‑959‑5525.
+
+For **enquiries**regarding the **status of specific GST/HST domestic rebate claims**, call Business Enquiries at 1‑800‑959‑5525.
+
+### Access your account online
+
+For **online access** to your **GST/HST**, **air travellers security charge**, **luxury tax**, **fuel charge**, and **excise tax and duty accounts** (such as viewing up-to-date account balances and transactions, transferring payments and more), go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) and access:
+
+- **My Business Account** if you are the business owner
+
+- **Represent a Client** if you are an authorized representative or employee
+
+### Help
+
+For **technical support using our online services**:
+
+- business accounts, call 1‑800‑959‑5525
+
+- teletypewriter users, call 1‑800‑665‑0354
+
+- callers outside of Canada and the United States, call collect at 613‑940‑8497
+
+Please have the screen number (bottom right) and, if applicable, the error number and message received on hand when calling.
+
+The Excise and GST/HST News is published quarterly and highlights recent developments in the administration of the GST/HST, the QST for SLFIs, the First Nations goods and services tax (FNGST) and the First Nations tax (FNT), the air travellers security charge (ATSC), the underused housing tax, the fuel charge, and the luxury tax as well as excise taxes and duties. If you would like to receive a link to each new edition of the Excise and GST/HST News as it is published, subscribe to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-excise-gst-hst-news.html). This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, Excise and GST/HST News, GST/HST Rulings Directorate, Legislative Policy and Regulatory Affairs Branch, CRA, 5th Floor, Place de Ville, 320 Queen Street, Ottawa K1A 0L5.

@@ -1,0 +1,511 @@
+Title: ARCHIVED - Excise and GST/HST News - No. 88 (Spring 2013)
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news88/news88-excise-gst-hst-news-no-88-spring-2013.html
+Corpus path: corpus/cra/forms-publications/publications/news88/news88-excise-gst-hst-news-no-88-spring-2013.md
+Document type: publication
+Last modified: 2013-05-30
+
+# ARCHIVED - Excise and GST/HST News - No. 88 (Spring 2013)
+
+## Table of Contents
+
+- [Federal Budget 2013](#_Toc355878941)
+
+    - [GST/HST](#_Toc355878942)
+
+    - [Excise duty](#_Toc355878947)
+
+- [Regulations Amending Various GST/HST Regulations, No. 4](#_Toc355878949)
+
+- [Reminder – changes to harmonized sales tax in Prince Edward Island and British Columbia](#_Toc355878950)
+
+- [Music programs](#_Toc355878951)
+
+- [Matsqui First Nation implements First Nations goods and services tax](#_Toc355878952)
+
+- [What's new with GST/HST electronic filing?](#_Toc355878953)
+
+- [What's new with online services?](#_Toc355878954)
+
+- [Direct deposit](#_Toc355878955)
+
+- [Prescribed rates of interest](#_Toc355878956)
+
+- [What's new in publications](#_Toc355878957)
+
+- [Enquiries](#_Toc355878958)
+
+## Federal Budget 2013
+
+The Budget 2013, tabled by the Minister of Finance on March 21, 2013, includes several proposed measures relating to the GST/HST and excise duty. Legislation to implement certain of these measures, [Bill C-60, the Economic Action Plan 2013 Act, No 1](http://www.parl.gc.ca/HousePublications/Publication.aspx?Language=E&Mode=1&DocId=6113748&File=32), received Second Reading in the House of Commons on May 7, 2013. This proposed legislation also confirms the Government's intention to proceed with previously announced tax measures including proposed changes to certain GST/HST rules relating to financial institutions. The following are highlights of these measures for GST/HST and excise duty purposes.
+
+### GST/HST
+
+#### Health care services
+
+Supplies of basic health care services and certain health-related assistive services are generally exempt from the GST/HST. Budget 2013 proposes amendments to expand the exemption for homemaker services to reflect current provincial and territorial practices for health-related assistive services delivered to persons in their homes.
+
+**Home care services**
+
+Currently, publicly subsidized or funded homemaker services, such as cleaning, laundering, meal preparation and child care rendered to an individual who, due to age, infirmity or disability, requires assistance in his or her home, are exempt from the GST/HST. This exemption does not cover personal care services such as bathing, feeding, and assistance with activities of daily living.
+
+Effective for supplies made after March 21, 2013, the budget proposes to expand the exemption for homemaker services to include publicly subsidized or funded personal care services, rendered to an individual who, due to age, infirmity or disability requires such assistance at home. Accordingly, it is proposed that the definition of “homemaker service” be repealed and the new definition of “home care service” be added. The new definition will include personal care services such as bathing, feeding and assistance with dressing and taking medication as well as household services, such as cleaning, laundering, meal preparation and child care.
+
+Where a service provider charges GST/HST on an exempt supply of a home care service made after March 21, 2013, the supplier may refund or credit the GST/HST to the purchaser. Alternatively, purchasers who have paid an amount as GST/HST on exempt supplies may claim a rebate of tax paid in error using [Form GST189, General Application for Rebate of GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html) *.* The Canada Revenue Agency (CRA) will not pay rebates in respect of claims for GST/HST paid on supplies of exempt home care services made after March 21, 2013 until after the proposed amendments receive Royal Assent.
+
+**Reports and services for non-health care purposes**
+
+Supplies of basic health care services are generally exempt from the GST/HST. Services that are provided solely for non-health care purposes are not intended to be exempted as health care services, even if rendered by health care professionals.
+
+Effective for supplies made after March 21, 2013, the budget proposes to clarify that the GST/HST applies to health care reports, examinations and other services that are not performed for the purpose of the protection, maintenance or restoration of the health of an individual or for palliative care. Such taxable supplies would include reports, examinations and other services performed solely for the purpose of determining liability in a court proceeding or under an insurance policy. Supplies of property and services in respect of a taxable supply of a report, examination or other service, such as charges for an x-ray or lab test in relation to a taxable examination, would also be taxable. Reports, examinations and other services paid for by a provincial or territorial health insurance plan will continue to be exempt.
+
+It should be noted that Policy statement P-248*,* *The Application of the GST/HST to the Supply of an Independent Medical Examination (IME) and to Other Independent Assessments*, would be obsolete in respect of supplies made after March 21, 2013.
+
+#### The Governor General and the GST/HST
+
+Currently, a supply of a property or a service that is for the use of the Governor General is zero-rated.
+
+The budget proposes that, effective July 1, 2013, such supplies will no longer be zero-rated. As a result, the Governor General and his office will pay the GST/HST on taxable purchases made on or after July 1, 2013, and will be able to recover the GST/HST paid on purchases for official use in the same manner as other federal government departments.
+
+#### Business identification information
+
+Currently, basic business identification information is required to be provided at the time of GST/HST registration. This includes the legal and operating name of the business, type of ownership, ownership details, business activity and contact information.
+
+Effective on the date of Royal Assent, the budget proposes that the Minister of National Revenue be given the discretionary authority to withhold the payment of GST/HST refunds to a person until all of the person's prescribed business identification information has been provided and is accurate. The refund hold will be applied in a fair and judicious manner.
+
+#### Pension plan rules
+
+Currently, an employer that participates in a registered pension plan (a participating employer) is deemed to have made a taxable supply to the pension entity of the pension plan when it acquires, consumes or uses inputs in activities relating to the pension plan. These “deemed taxable supply rules” require the participating employer to account for deemed tax on inputs:
+
+- acquired for supply to the pension entity;
+
+- consumed or used in making supplies to the pension entity; and
+
+- consumed or used (but not for supply) in the employer's internal pension activities in respect of the pension plan (e.g., payroll employee's time in respect of pension deductions).
+
+In the first two circumstances, the employer also has to account for tax on actual supplies to the pension entity of those same resources. When this happens, the employer is allowed to make an adjustment to their net tax to ensure tax is remitted only once.
+
+**Election to not account for GST/HST on actual taxable supplies**
+
+Effective for supplies made after March 21, 2013, the budget proposes to allow a participating employer of a pension plan and a pension entity of the pension plan to make a joint election to treat an actual taxable supply of property or a service by the employer to the pension entity as being made for no consideration where the employer accounts for and remits tax on the deemed supply of the property or service or on the consumption or use of inputs for the purpose of making the actual supply. This would eliminate the need for a tax adjustment. The election should be filed with the Minister of National Revenue on or before the first day of the employer's fiscal year for which the election is to have effect or any later day that the Minister may allow. A determination of whether an election will be accepted late would be made on a case-by-case basis. To allow an employer to take immediate advantage of the new provision, an election that is filed after the first day of the employer's fiscal year that includes March 21, 2013 would generally be accepted provided that (i) the employer was a participating employer on the first day of that fiscal year; (ii) the election is filed by the end of the 2013 calendar year; and (iii) the employer and pension entity acted after March 21, 2013 as if the election had been in place. The election would apply only to actual supplies made after March 21, 2013.
+
+If the employer fails to remit tax on the deemed supplies for a particular fiscal year, the CRA would be able to:
+
+- cancel the election effective from the beginning of the employer's fiscal year; and
+
+- assess the employer for both the actual tax and the deemed tax for that fiscal year, plus interest.
+
+**Relief from accounting for tax on deemed taxable supplies**
+
+Effective for fiscal years of an employer beginning after March 21, 2013, the budget also proposes that:
+
+- A participating employer of a pension plan would be fully relieved from applying the deemed taxable supply rules in respect of the pension plan for a fiscal year where:
+
+    - an election with a pension entity of the pension plan to treat actual taxable supplies as being made for no consideration (discussed above) is not in effect for the employer; and
+
+    - the amount of the GST (including the federal part of the HST) that the employer was (or would have been, but for this measure) required to account for and remit under the deemed supply rules in respect of the pension plan in its preceding fiscal year is both less than $5,000 and less than 10% of the total net GST (including the federal part of the HST) paid by all pension entities of that pension plan in that preceding fiscal year.
+
+- A participating employer not satisfying the above $5,000 and 10% thresholds may be relieved from applying the deemed taxable supply rules to inputs acquired for consumption or use (but not supply) in its internal pension activities in respect of the pension plan. This relief would be available if the amount of the GST (including the federal part of the HST) that the employer was (or would have been, but for this measure) required to account for and remit for deemed supplies related to the employer's internal pension activities in respect of the pension plan in its preceding fiscal year is below the $5,000 and 10% thresholds. An employer that is entitled to relief under this provision would also be able to treat its actual taxable supplies as being for no consideration where the election, discussed above, is in effect.
+
+These proposed amendments are included in [Bill C-60, the Economic Action Plan 2013 Act, No. 1](http://www.parl.gc.ca/LegisInfo/BillDetails.aspx?Language=E&Mode=1&billId=6108103).
+
+### Excise duty
+
+#### Manufactured tobacco
+
+The federal budget 2013 proposes amendments to the [Excise Act, 2001](http://laws-lois.justice.gc.ca/eng/acts/E-14.1/index.html) to increase the rates of excise duty and special duty on manufactured tobacco other than cigarettes and tobacco sticks. Certain fines and a penalty have also been changed to reflect the new rates. These rates took effect midnight March 21, 2013.
+
+More detailed information and the proposed new rates are published in Excise Duty Notice EDN33, Changes to Excise Duty Rates on Manufactured Tobacco.
+
+## Regulations Amending Various GST/HST Regulations, No. 4
+
+The *Regulations Amending Various GST/HST Regulations, No. 4* were adopted on April 18, 2013 and were published in the Canada Gazette on May 8, 2013. These regulations include amendments to the *Selected Listed Financial Institutions Attribution Method (GST/HST) Regulations* and to other regulations relating to financial institutions, to implement the new rules for financial institutions outstanding from the introduction of the HST in Ontario and British Columbia. These regulations also implement rules for financial institutions related to the winding down of the HST in British Columbia.
+
+## Reminder – changes to harmonized sales tax in Prince Edward Island and British Columbia
+
+Effective April 1, 2013, Prince Edward Island (P.E.I.) has an HST. The HST rate in P.E.I. is 14% of which 5% represents the federal part and 9% the provincial part.
+
+Effective April 1, 2013, the 12% HST, consisting of a 5% federal part and a 7% provincial part, no longer applies in British Columbia (B.C.). Instead, the GST at 5% and a provincial sales tax apply.
+
+## Music programs
+
+A supply of a service of tutoring or instructing an individual in music lessons is exempt from the GST/HST. The CRA views a lesson as an activity designed to result in a progression or development of skills toward a pre-set lesson goal or objective. Music lessons involve formal instruction that develops skills in musical performance involving the use of the human voice or musical instruments, conducting an orchestra or musical composition.
+
+Music lessons would not include instruction devoted to music-recording skills, music history or the teaching of techniques of music education. The fact that an activity involves music does not mean it is a supply of instruction in music or a music lesson. Activities involving music entertainment or appreciation and recreational courses that include an element of music (e.g. ballroom dancing, aerobics) would not be considered music lessons.
+
+Whether a particular activity or program is a music lesson is a question of fact. The CRA has developed the following questions to help determine whether an activity or program is a music lesson for GST/HST purposes. These questions are not necessarily all-inclusive or of equal significance in each particular case.
+
+- Does the supplier provide instruction in identifiable musical skills or concepts?
+
+- Is the program delivered in a structured and sequential manner with defined goals or objectives?
+
+- Are students required to complete an examination or assessment to determine the appropriate class placement or starting level of instruction?
+
+- Does the instructor provide students with feedback regarding their progress? Or are there examinations to identify the students' progress during or upon completion of the program?
+
+- Does the instructor possess any qualifications in music (e.g., a degree in music or other musical training)?
+
+- Does the instructor use a recognized method of teaching music?
+
+- Are the lessons designed to meet criteria specified by a governing body that lead to standardized assessment or certification by either the governing body or their authorized representatives?
+
+- Does the program involve non-musical elements? If so, what proportion of the program schedule is devoted to instruction in music? Can the other elements be connected to musical concepts or methods of teaching music?
+
+- What is the main purpose of the program? That is, is the program provided to teach musical skills, or for some other purpose such as recreation?
+
+- How is the program advertised and promoted?
+
+If a supplier provides multiple music programs, some of these programs may be considered music lessons for GST/HST purposes while others may not. For instance, some suppliers may provide different programs designed for participants in a particular age range. Each program must be considered separately.
+
+A supplier offers a program for pre-school aged children and their parents. The program is advertised as a great way for families to spend time together and have fun. The program consists of singing, musical games, dancing, storytelling and play time. Although the program involves some musical elements, most of the program schedule is devoted to other activities. The main purpose of the program is to promote child development and socialization. This program would not qualify as a music lesson for GST/HST purposes. Therefore, the supplier must charge GST/HST on its supplies of the program.
+
+## Matsqui First Nation implements First Nations goods and services tax
+
+Starting May 21, 2013, the First Nations goods and services tax (FNGST) applies to supplies made on the lands of the Matsqui First Nation, excluding supplies made on the reserve (i.e., Pekw'xe:yles) that the Matsqui First Nation shares with other British Columbia First Nations.
+
+Everyone, including Indians, pays the FNGST on goods and services acquired on the reserve lands of the Matsqui First Nation.
+
+As the FNGST is designed to work within the GST/HST framework, no additional forms or changes to registration are required. Vendors simply apply the FNGST to their supplies of goods and services made on the reserves of the Matsqui First Nation in the same manner as the GST/HST.
+
+**Further information**
+
+The CRA has published a notice regarding the implementation of the FNGST: [NOTICE283*,*The Matsqui First Nation Implements the First Nations Goods and Services Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice283.html). If you require additional information on the FNGST, see [Booklet RC4365, First Nations Goods and Services Tax (FNGST](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-indigenous-peoples/first-nations-goods-services-tax.html)), check the CRA Web site at www.cra.gc.ca/aboriginalpeoples or contact the CRA at 1-800-959-5525.
+
+## What's new with GST/HST electronic filing?
+
+Effective April 8, 2013, several new services are available for GST/HST return filers:
+
+**Electronic filing of Form GST106**
+
+[Form GST106, Information on Claims Paid or Credited for Foreign Conventions and Tour Packages](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst106.html) can be filed through an online Web form when filing a GST34 return using GST/HST NETFILE or “File a return” in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) and [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html). Form GST106 can also be filed separately using “File a return” in My Business Account and Represent a Client.
+
+**Reporting of BC transition tax and BC transition rebate**
+
+Schedule A of the GST34 return has been updated with new fields to report the BC transition tax and BC transition rebate. These new fields apply to builders of housing in British Columbia, as part of the province's return to the PST, and are accessible using GST/HST NETFILE and “File a return” in My Business Account and Represent a Client. For more information about the BC transition tax and BC transition rebate see GST/HST Info Sheet GI-156, [Elimination of the Harmonized Sales Tax in British Columbia: British Columbia Transition Tax on New Housing](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-156.html), GST/HST Info Sheet GI-157, [Elimination of the Harmonized Sales Tax in British Columbia: British Columbia Transition Rebate for Builders of New Housing](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-157.html) and [GST/HST Notice276, Elimination of the HST in British Columbia in 2013 – Transitional Rules for Real Property Including New Housing](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice276/elimination-hst-british-columbia-2013-transitional-rules-real-property-including-new-housing.html).
+
+**Electronic filing requirements for persons in PEI**
+
+Certain persons in PEI are required to file their GST34 returns electronically for any reporting periods ending on or after April 1, 2013. For information on electronic filing, who is required to file their GST/HST returns electronically, and line by line instructions for completing the GST/HST NETFILE return, see GST/HST Info Sheet GI-099, [Builders and Electronic Filing Requirements](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-099.html) and GST/HST Info Sheet GI-118, [Builders and GST/HST NETFILE](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-118.html). Schedule A of the GST34 return has been updated with new fields to report information for filers in PEI.
+
+## What's new with online services?
+
+**Register for online mail**
+
+You can now choose to receive notices of assessment and reassessment, and some letters online. When you register for this new service, the CRA will no longer print and mail correspondence items to you. Instead, you will receive an email to notify you that there is mail to view in your secure online business account.
+
+Using the new online mail service is much faster and easier, compared to managing paper mail. Go to [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) at [www.cra.gc.ca/mybusinessaccount](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), and select “Manage online mail” from the left sidebar menu.
+
+**View mail**
+
+We have renamed the “View correspondence” service to “View mail (correspondence).” You can view a notice of assessment, letter, or statement in “View mail” up to three years from the date of the item.
+
+## Direct deposit
+
+Instead of being sent a cheque for your refunds and rebates, enjoy the convenience of direct deposit.
+
+Wherever your business takes you, make sure your CRA refunds and rebates can reach you. Asking for direct deposit means you will receive your money faster and it will be deposited directly into your account at a Canadian financial institution.
+
+To sign up for direct deposit, fill out form RC366, Direct Deposit Request for GST/HST, Payroll, and/or Corporation Income Tax.
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from April 1, 2013, to June 30, 2013, on overdue amounts payable to the Minister is 5%. The prescribed annual rate of interest on amounts owed by the Minister (i.e., rebates or refunds) is 1% for corporate taxpayers and 3% for non-corporate taxpayers. These rates are applicable to income tax, excise tax, the softwood lumber products export charge, GST/HST and the air travellers security charge (ATSC) and excise duty on wine, spirits and tobacco.
+
+The prescribed annual rate of interest respecting excise duty on beer, on overdue amounts payable for the indicated period, is set at 3%. Refund interest rates are not applicable for amounts owed by the Minister (i.e., rebates or refunds) for excise duty that is in relation to beer.
+
+| - | GST/HST, Excise Tax, Softwood Lumber Products Export Charge, Excise Duty (wine, spirits, tobacco), Income Tax, ATSC | Excise Duty (beer) |  |  |
+
+| --- | --- | --- | --- | --- |
+
+| Period | **Refund Interest Corporate Taxpayers** | **Refund Interest Non-Corporate Taxpayers** | **Arrears and Instalment Interest** | **Arrears Interest** |
+
+| April 1 to June 30, 2013 | 1% | 3% | 5% | 3% |
+
+| January 1 to March 31, 2013 | 1% | 3% | 5% | 3% |
+
+| October 1 to December 31, 2012 | 1% | 3% | 5% | 3% |
+
+| July 1 to September 30, 2012 | 1% | 3% | 5% | 3% |
+
+Prescribed interest rates for previous years are available on the CRA Web site at [www.cra.gc.ca/interestrates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## What's new in publications
+
+The following is a list of new or revised excise and GST/HST forms and publications.
+
+**GST/HST forms**
+
+- [GST60 GST/HST Return for Acquisition of Real Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst60.html)
+
+- [GST66 Application for GST/HST Public Service Bodies' Rebate and GST Self-Government Refund](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst66.html)
+
+- [GST71 Notification of Accounting Periods for GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst71.html)
+
+- GST115 GST/HST Rebate Application for Tour Packages
+
+- [GST189 General Application for Rebate of GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html)
+
+- [GST190 GST/HST New Housing Rebate Application for Houses Purchased from a Builder](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst190.html)
+
+- [GST191 GST/HST New Housing Rebate Application for Owner-Built Houses](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst191.html)
+
+- [GST191-WS Construction Summary Worksheet](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst191-ws.html)
+
+- GST192 GST/HST Transitional Rebate Application for Builders of New Housing on Leased Land
+
+- GST193 GST/HST Transitional Rebate Application for Purchasers of New Housing
+
+- [GST370 Employee and Partner GST/HST Rebate Application](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst370.html)
+
+- [GST489 Return for Self-Assessment of the Provincial Part of Harmonized Sales Tax (HST)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst489.html)
+
+- [GST495 Rebate Application for Provincial Part of Harmonized Sales Tax (HST)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst495.html)
+
+- GST515 Direct Deposit Request for the GST/HST New Housing Rebate
+
+- [GST518 GST/HST Specially Equipped Motor Vehicle Rebate Application](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst518.html)
+
+- [GST524 GST/HST New Residential Rental Property Rebate Application](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst524.html)
+
+- [GST525 Supplement to the New Residential Rental Property Rebate Application - Co-op and Multiple Units](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst525.html)
+
+- [RC199 Voluntary Disclosures Program (VDP) - Taxpayer Agreement](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc199.html)
+
+- [RC376 Taxpayer Relief Request Statement of Income and Expenses and Assets and Liabilities for Individuals](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc376.html)
+
+- [RC4530 Election or Revocation of an Election to Use a Production Proxy to Report the Recapture of Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4530.html)
+
+- [RC4531 Election or Revocation of an Election to Use the Estimation and Reconciliation Method to Report the Recapture of Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4531.html)
+
+- RC7000-BC British Columbia Provincial Sales Tax (PST) Transitional New Housing Rebate
+
+- RC7000-PE Prince Edward Island Provincial Sales Tax Transitional New Housing Rebate
+
+- RC7001-BC British Columbia Provincial Sales Tax (PST) Transitional New Housing Rebate - Residential Condominiums
+
+- RC7001-PE Prince Edward Island Provincial Sales Tax Transitional New Housing Rebate - Residential Condominiums
+
+- RC7002-BC British Columbia Provincial Sales Tax (PST) - Transitional New Housing Rebate - Apartment Buildings
+
+- RC7002-PE Prince Edward Island Provincial Sales Tax Transitional New Housing Rebate - Apartment Buildings
+
+- RC7003-BC British Columbia Provincial Sales Tax (PST) Transitional New Housing Rebate for Non-Registrant First Resellers
+
+- RC7003-PE Prince Edward Island Provincial Sales Tax Transitional New Housing Rebate for Non-registrant First Resellers
+
+- RC7004-BC British Columbia Transition Rebate
+
+- [RC7066-SCH Provincial Schedule - GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7066-sch.html)
+
+- RC7190-BC GST190 British Columbia Rebate Schedule
+
+- [RC7190-WS GST190 Calculation Worksheet](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7190-ws.html)
+
+- RC7191-BC GST191 British Columbia Rebate Schedule
+
+- [RC7191-ON GST191 Ontario Rebate Schedule](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7191-on.html)
+
+- [RC7271 Notification of Accounting Periods of a Selected Listed Financial Institution for GST/HST and QST](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7271.html)
+
+- RC7524-BCGST524 British Columbia Rebate Schedule
+
+**GST/HST guides, booklets and pamphlets**
+
+- [RC4022 General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html)
+
+- [RC4027 Doing Business in Canada - GST/HST Information for Non-Residents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4027.html)
+
+- [RC4028 GST/HST New Housing Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4028.html)
+
+- [RC4033 General Application for GST/HST Rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4033.html)
+
+- [RC4034 GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html)
+
+- RC4036 GST/HST Information for the Travel and Convention Industry
+
+- [RC4049 GST/HST Information for Municipalities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4049.html)
+
+- [RC4058Quick Method of Accounting for GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4058.html)
+
+- [RC4072First Nations Tax (FNT)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-indigenous-peoples/first-nations-tax.html)
+
+- [RC4080 GST/HST Information for Freight Carriers](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-specific-situations/freight-carriers.html)
+
+- [RC4081 GST/HST Information for Non-Profit Organizations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4081.html)
+
+- [RC4082 GST/HST Information for Charities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4082.html)
+
+- RC4091 GST/HST Rebate for Partners - Includes Form GST370
+
+- RC4100 Harmonized Sales Tax and the Provincial Motor Vehicle Tax
+
+- RC4103 GST/HST Information for Suppliers of Publications
+
+- RC4160 Rebate for Tour Packages, Foreign Conventions, and Non-Resident Exhibitor Purchases
+
+- [RC4231 GST/HST New Residential Rental Property Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4231.html)
+
+- RC4247 The Special Quick Method of Accounting for Public Service Bodies
+
+- [RC4365 First Nations Goods and Services Tax (FNGST)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-indigenous-peoples/first-nations-goods-services-tax.html)
+
+**GST/HST info sheets**
+
+- [GI-095 Harmonized Sales Tax: Information on the Transitional Tax Adjustment for Builders of Housing in Ontario and British Columbia](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-095.html) (revised)
+
+- [GI-096 Harmonized Sales Tax: Provincial Transitional New Housing Rebates for Housing in Ontario and British Columbia](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-096.html) (revised)
+
+- [GI-099 Builders and Electronic Filing Requirements](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-099.html) (revised)
+
+- [GI-118 Builders and GST/HST NETFILE](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-118.html)(revised)
+
+- [GI-135 Prince Edward Island: Transition to the Harmonized Sales Tax - Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-135.html)
+
+- [GI-136 Prince Edward Island: Transition to the Harmonized Sales Tax - Intangible Personal Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-136.html)
+
+- [GI-137 Prince Edward Island: Transition to the Harmonized Sales Tax - Memberships](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-137.html)
+
+- [GI-138 Prince Edward Island: Transition to the Harmonized Sales Tax - Passenger Transportation Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-138.html)
+
+- [GI-139 Prince Edward Island: Transition to the Harmonized Sales Tax - Admissions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-139.html)
+
+- [GI-140 Prince Edward Island: Transition to the Harmonized Sales Tax - Freight Transportation Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-140.html)
+
+- [GI-141 Prince Edward Island: Transition to the Harmonized Sales Tax - Transportation Passes](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-141.html)
+
+- [GI-142 Prince Edward Island: Transition to the Harmonized Sales Tax - Prepaid Funeral and Cemetery Arrangements and Interment Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-142.html)
+
+- [GI-143 Prince Edward Island: Transition to the Harmonized Sales Tax - Tour Packages](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-143.html)
+
+- [GI-144 Harmonized Sales Tax: Purchasers of New Housing in Prince Edward Island](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-144.html)
+
+- [GI-145 Harmonized Sales Tax: Information on Owner-built Homes, Mobile Homes and Floating Homes in Prince Edward Island](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-145.html)
+
+- [GI-146 Harmonized Sales Tax: Information for Builders of New Housing in Prince Edward Island](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-146.html)
+
+- [GI-147 Harmonized Sales Tax: Stated Price Net of the GST/HST New Housing Rebate in Prince Edward Island](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-147.html)
+
+- [GI-148 Harmonized Sales Tax: Stated Price Net of GST/HST New Housing Rebate and the P.E.I. PST Transitional New Housing Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-148.html)
+
+- [GI-149 Harmonized Sales Tax: Information for Landlords of New Rental Housing in Prince Edward Island](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-149.html)
+
+- [GI-150 Harmonized Sales Tax: Information on the Transitional Tax Adjustment for Builders of Housing in Prince Edward Island](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-150.html)
+
+- [GI-151 Harmonized Sales Tax: Provincial Transitional New Housing Rebate for Housing in Prince Edward Island](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-151.html)
+
+- [GI-152 Harmonized Sales Tax: Assignment of Purchase and Sale Agreements for Grandparented Housing in Prince Edward Island](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-152.html)
+
+- [GI-153 Harmonized Sales Tax: Builder Disclosure Requirements in Prince Edward Island](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-153.html)
+
+- [GI-154 Prince Edward Island: Transition to the Harmonized Sales Tax – Payment of the GST/HST by Prince Edward Island Government Entities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-154.html)
+
+- [GI-155 British Columbia: Transition to the Goods and Services Tax - Payment of the GST/HST by B.C. Government Entities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-155.html)
+
+- [GI-156 Elimination of the Harmonized Sales Tax in British Columbia: British Columbia Transition Tax on New Housing](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-156.html)
+
+- [GI-157 Elimination of the Harmonized Sales Tax in British Columbia: British Columbia Transition Rebate for Builders of New Housing](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-157.html)
+
+- [GI-158 Payment of the GST/HST by Quebec Government Entities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-158.html)
+
+- [GI-159 HST and First Nations in Prince Edward Island](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-159.html)
+
+- [GI-160 Prince Edward Island: Transition to the Harmonized Sales Tax - Goods](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-160.html)
+
+- [GI-161 Prince Edward Island: Transition to the Harmonized Sales Tax - Returns and Exchanges](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-161.html)
+
+- [GI-162 Prince Edward Island: Transition to the Harmonized Sales Tax - Continuous Supplies and Budget Payment Arrangements](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-162.html)
+
+- [GI-163 Harmonized Sales Tax: Leases of Real Property in Prince Edward Island](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-163.html)
+
+- [GI-164 Prince Edward Island: Transition to the Harmonized Sales Tax - Information for Non-registrant Builders](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-164.html)
+
+- [GI-165 Prince Edward Island: Transition to the Harmonized Sales Tax - Builders and Recaptured Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-165.html)
+
+**GST/HST notices**
+
+- [NOTICE282 Harmonized Sales Tax for Prince Edward Island - Questions and Answers that Relate to Public Service Bodies, Health and Education](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice282.html)
+
+- [NOTICE283 The Matsqui First Nation Implements the First Nations Goods and Services Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice283.html)
+
+**GST/HST technical information bulletins**
+
+- [B-107 Investment Plans (Including Segregated Funds of an Insurer) and the HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-107.html) (revised)
+
+**Excise forms**
+
+- [B254 Application for Refund of the Air Travellers Security Charge](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b254.html)
+
+- [B270 Excise Act 2001 - Excise Duty Return - Non-Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b270.html)
+
+- [B284 Election or Revocation of the Election for Semi-Annual Reporting](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b284.html)
+
+- [N10 Excise Act Application for Refund/Deduction](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/n10.html)
+
+- [N15 Excise Tax Act - Application for Refund/Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/n15.html)
+
+- [XE8 Application for Refund of Federal Excise Tax on Gasoline](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/xe8.html)
+
+**Excise notices**
+
+- EDBN18 K50B Filing and Payment Schedules for Brewers (2013-2014)
+
+- EDN33 Changes to Excise Duty Rates on Manufactured Tobacco
+
+- ETSL64 Imposition of Excise Tax on Fuel-Inefficient Vehicles - Listing of Vehicles and Associated Tax Rates for 2013
+
+**Softwood lumber products export charge notices**
+
+- SWLN45 The Export Charge
+
+All GST/HST, Excise Duty, and Excise Taxes and Special Levies publications can be found on the CRA Web site at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html), at [www.cra.gc.ca/etsl](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies.html), and at [www.cra.gc.ca/exciseduty](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty.html).
+
+To receive email notification as soon as a document is published on the CRA Web site, go to the [electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) page at [www.cra.gc.ca/lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribe to the RSS feed for all new CRA publications and forms, or subscribe to any number of mailing lists for different types of publications.
+
+## Enquiries
+
+**For online access to your GST/HST, softwood lumber products export charge, air travellers security charge, excise tax and duty accounts, (such as viewing up-to-date account balances and transactions, transferring payments, and more)** go to:
+
+- [www.cra.gc.ca/representatives](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), if you are an authorized representative or employee; or
+
+- [www.cra.gc.ca/mybusinessaccount](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), if you are the business owner.
+
+**For technical help while using our online services**:
+
+- business accounts, call 1-800-959-5525
+
+- teletypewriter users, call 1-800-665-0354
+
+- calls outside of Canada and the United States, call 709-772-8371 collect
+
+Please have the screen number (bottom right); and if applicable, the error number and message received on hand when calling.
+
+**For specific account-related enquiries,**use the online “Enquiries service” on My Business Account. Select the “Submit an enquiry” option to send us your question and receive a response electronically.
+
+**For general information and to make enquiries regarding your account** (except for softwood lumber products export charge accounts), call Business Enquiries at 1-800-959-5525.
+
+**For enquiries regarding your softwood lumber products export charge account,** call 1-800-935-0313.
+
+**To make enquiries regarding the status of specific GST/HST domestic rebate claims,** call 1-800-959-5525.
+
+**For GST/HST technical enquiries**call GST/HST Rulings at 1-800-959-8287.
+
+**Forms and publications**
+
+To access forms and publications online go to www.cra.gc.ca/orderforms.
+
+To order forms and publications by telephone call 1-800-959-2221.
+
+**Are you a GST/HST registrant located in Quebec?**
+
+To make an enquiry or obtain information on the GST/HST, contact Revenu Québec at 1-800-567-4692 or
+
+visit their Web site at www.revenuquebec.ca.
+
+**Are you a selected listed financial institution located in Quebec?**
+
+For GST/HST account-related enquiries or for registration for a CRA business number, call Business Enquiries at 1-800-959-5525. For GST/HST technical enquiries, call GST/HST Rulings at 1-855-666-5166.
+
+For QST account-related enquiries for reporting periods ending on or after January 1, 2013 or for registration for a CRA business number effective on or after January 1, 2013, call Business Enquiries at 1-800-959-5525. For technical enquiries related to the amended QST, call GST/HST Rulings at 1-855-666-5166.
+
+The *Excise and* *GST/HST News* is published quarterly and highlights recent developments in the administration of the goods and services tax (GST) and harmonized sales tax (HST), First Nations goods and services tax (FNGST) and First Nations tax (FNT), softwood lumber products export charge, air travellers security charge (ATSC) as well as excise taxes and duties. If you would like to receive a link to each new edition of the*Excise and GST/HST News*as it is published, [subscribe](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/subscribe-a-canada-revenue-agency-electronic-mailing-list.html) to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-excise-gst-hst-news.html).
+
+This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into the law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, *Excise and* *GST/HST News*, Legislative Policy and Regulatory Affairs Branch, CRA, Ottawa, ON K1A 0L5.

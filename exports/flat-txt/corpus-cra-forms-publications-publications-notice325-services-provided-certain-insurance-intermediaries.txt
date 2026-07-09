@@ -1,0 +1,387 @@
+Title: Services Provided by Certain Insurance Intermediaries
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice325/services-provided-certain-insurance-intermediaries.html
+Corpus path: corpus/cra/forms-publications/publications/notice325/services-provided-certain-insurance-intermediaries.md
+Document type: publication
+Last modified: 2023-07-25
+
+# Services Provided by Certain Insurance Intermediaries
+
+GST/HST Notices - Notice 325 July 2023
+
+To allow for feedback, this GST/HST Notice had a 3-month comment period. The comment period ended on October 31, 2023, and all comments received are currently being reviewed. Any changes to this GST/HST Notice resulting from this review will be published in an updated publication.
+
+Please note that this GST/HST Notice is not considered to be draft. This GST/HST Notice can be relied upon as an accurate summary of the Canada Revenue Agency’s interpretation of the law on the date of publication.
+
+This publication provides guidance on the application of the GST/HST to supplies made to an insurer, or to another person that has an agreement with an insurer, by certain insurance intermediaries often referred to as managing general agents, third party administrators or managing general underwriters.
+
+This publication does not address a person’s supply of administering an employer’s self‑insured benefit plan or arrangement. For more information on this topic, refer to [GST/HST Policy Statement P-136R, Administrative Services Only with Stop-Loss](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-136r.html).
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the Excise Tax Act (ETA), and all references to the Regulations are to the Financial Services and Financial Institutions (GST/HST) Regulations. The information in this publication does not replace the law found in the ETA and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1‑800‑959‑8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1‑855‑666‑5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [Introduction](#_Toc134788386)
+
+- [Single supply or multiple supplies](#_Toc134788387)
+
+- [Determining the predominant element of the supply](#_Toc134788388)
+
+- [Determining whether the supply is a financial service](#_Toc134788389)
+
+    - [Inclusionary paragraph (l)](#_Toc134788390)
+
+    - [Certain exclusionary paragraphs](#_Toc134788391)
+
+          - [Paragraph (r.4)](#_Toc134788392)
+
+          - [Paragraph (t)](#_Toc134788393)
+
+- [Examples](#_Toc134788394)
+
+## Introduction
+
+In the insurance industry, there may be several persons involved in various aspects of an insurer’s provision of insurance under an insurance policy. This publication is intended to assist certain insurance intermediaries, often referred to as managing general agents (MGAs), third party administrators (TPAs) or managing general underwriters (MGUs), whose activities may include the following:
+
+- designing the policy
+
+- promoting and selling the policy
+
+- recruiting, training and managing subcontracted agents
+
+- paying insurance claims
+
+- providing administrative services
+
+These insurance intermediaries may have an agreement directly with an insurer to provide their services, or they may enter into an agreement with another person that has an agreement with an insurer.
+
+The purpose of this publication is to assist these insurance intermediaries in determining the application of the GST/HST to their supplies. The agreements between the parties play a critical role in making this determination.
+
+The first step in making this determination is to establish whether, under the agreement, the intermediary is making a single supply or multiple supplies for GST/HST purposes with respect to a particular transaction. It is then necessary to characterize each supply by considering its predominant element and whether the predominant element fits within the definition of financial service in subsection 123(1), in order to determine whether the supply is a taxable supply or an exempt supply for GST/HST purposes.
+
+An insurance intermediary’s supply of property or a service is generally a taxable supply unless it is an exempt supply under Schedule V. A supply of a financial service is an exempt supply under section 1 of Part VII of Schedule V unless it is a zero-rated supply under Part IX of Schedule VI. A person is not required to charge the GST/HST on the consideration paid or payable for an exempt supply, or a zero-rated supply, of a financial service.
+
+## Single supply or multiple supplies
+
+An insurance intermediary, such as an MGA, TPA or MGU, may provide several elements of property and/or services to an insurer or another person that has an agreement with an insurer. As indicated above, the first step in determining the application of the GST/HST is to determine whether the insurance intermediary is making a single supply or multiple supplies. This determination is particularly critical where some of the elements would be taxable, and some would be exempt, if supplied separately.
+
+It is a question of fact whether a person is making a single supply or multiple supplies in respect of a particular transaction. For more information, refer to [GST/HST Policy Statement P‑077R2, Single and Multiple Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-077r2.html).
+
+In some cases, there is more than one written contract between the parties. This, in and of itself, does not determine whether there are multiple supplies. It is possible to have more than one written contract and still have one supply. See Example 4 below for a situation with more than one written contract between the parties.
+
+If it is determined that multiple supplies are being made by an insurance intermediary, the possible application of sections 138 and 139 should be considered. For information on section 138, refer to [GST/HST Policy Statement P-159R1, Meaning of the Phrase Reasonably Regarded as Incidental](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-159r-1.html), and [GST/HST Policy Statement P-160R, Meaning of the Phrase “Where a Particular Property or Service is Supplied Together with any Other Property or Service”](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-160r.html).
+
+Once the number of supplies has been identified, it is then necessary to characterize each supply to determine its tax status.
+
+## Determining the predominant element of the supply
+
+To characterize a supply made by an insurance intermediary, such as an MGA, TPA or MGU, it is necessary to identify all of the elements of the supply that the recipient received for the consideration that was paid or payable. Then it is necessary to determine the predominant element of the supply, as it is only the predominant element that is taken into account when applying the inclusionary and exclusionary paragraphs of the definition of financial service. A predominant element of a supply is an element upon which the commercial efficacy of the supply critically depends.
+
+In certain situations, there may be more than one predominant element, in which case all of the predominant elements are considered as a whole in determining the essential character of the supply.
+
+The perspective of the recipient must be taken into account when determining the predominant element of a supply made by an insurance intermediary. In most cases, the recipient is an insurer that enters into an agreement with the insurance intermediary. This determination requires looking objectively at what property or service, from the recipient’s perspective, is provided by the insurance intermediary in return for the consideration paid. Note that the way the consideration for the supply is calculated is not, in and of itself, a determining factor.
+
+In making these determinations, the terms of the agreements between the parties must be taken into account together with all other facts making up the relevant factual matrix.
+
+## Determining whether the supply is a financial service
+
+Once the predominant element of the supply has been determined, it is necessary to consider whether the insurance intermediary is making a supply of a financial service.
+
+A **financial service** is defined in subsection 123(1). A supply is one of a financial service where the predominant element of the supply is included in any of paragraphs (a) to (m) of the definition of financial service (the inclusionary paragraphs) and is not excluded by any of paragraphs (n) to (t) of that definition (the exclusionary paragraphs).
+
+### Inclusionary paragraph (l)
+
+Paragraph (l) of the definition of financial service includes **arranging for** a service that is referred to in any of paragraphs (a) to (i) of that definition and not referred to in any of paragraphs (n) to (t) of that definition.
+
+An insurance intermediary, such as an MGA, TPA or MGU, may be involved in an insurer’s supply of a financial service. An insurer’s issuance or renewal of an insurance policy is included in paragraph (d) of the definition of financial service and is not excluded by any of paragraphs (n) to (t) of that definition.
+
+An **insurer** is defined in subsection 123(1) to mean a person that is licensed or otherwise authorized under the laws of Canada or a province to carry on in Canada an insurance business or under the laws of another jurisdiction to carry on in that other jurisdiction an insurance business.
+
+An **insurance policy** is defined under subsection 123(1) to include, under paragraph (a) of that definition, a policy or contract of insurance (other than certain warranties) that is issued by an insurer.
+
+To determine whether an insurance intermediary is making a supply of a service that is included in paragraph (l) (that is, arranging for the insurer’s supply of a financial service), it is necessary to look at a variety of factors. [GST/HST Technical Information Bulletin B‑105, Changes to the Definition of Financial Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-105.html), discusses factors to consider in making this determination. In the context of insurance intermediaries, such as MGAs, TPAs or MGUs, the factors in the following three paragraphs are particularly relevant.
+
+For an insurance intermediary’s supply to be included in paragraph (l) as arranging for a financial service, the purpose of the supply must be to act as an intermediary to bring parties together to effect the insurer’s supply of the financial service. Examining the intentions of the parties under the agreement will assist in determining the purpose of the supply. It is also necessary to consider the degree of direct involvement of an insurance intermediary in an insurer’s supply of a financial service. The degree of involvement should be sufficient to cause the insurer’s supply of the financial service to occur, although it is not necessary for the insurance intermediary to be involved in each individual transaction.
+
+In addition, there should be a high degree of reliance on the insurance intermediary by the insurer or the recipient of the insurer’s supply of the financial service.
+
+### Certain exclusionary paragraphs
+
+Even if the predominant element of a supply made by an insurance intermediary, such as an MGA, TPA or MGU, is included in any of paragraphs (a) to (m) of the definition of financial service, the supply is not one of a financial service if the predominant element is also excluded from that definition by any of paragraphs (n) to (t). For example, in some situations, exclusionary paragraph (r.4) or (t) could apply.
+
+#### Paragraph (r.4)
+
+Paragraph (r.4) excludes, from the definition of financial service, a service that is preparatory to the provision, or the potential provision, of a service referred to in any of paragraphs (a) to (i) and (l) of the definition of financial service, or that is provided in conjunction with a service referred to in any of those paragraphs, and that is any of the following:
+
+- a service of collecting, collating or providing information
+
+- a market research, product design, document preparation, document processing, customer assistance, promotional or advertising service or a similar service
+
+#### Paragraph (t)
+
+Paragraph (t) excludes, from the definition of financial service, certain services that are prescribed under the Financial Services and Financial Institutions (GST/HST) Regulations (Regulations). Subject to subsection 4(3) of the Regulations (discussed below), under paragraph 4(2)(b) of the Regulations, a prescribed service for purposes of paragraph (t) includes any administrative service (including an administrative service in relation to the payment or receipt of claims or benefits, but excluding a service that is solely the making of the payment or the taking of the receipt). For example, an administrative service under paragraph 4(2)(b) of the Regulations could include a service in relation to the payment of an insurance claim that does not involve any independent decision making.
+
+Subsection 4(3) of the Regulations provides that an administrative service is not a prescribed service for purposes of paragraph (t) (and is therefore not excluded from the definition of financial service by that paragraph) where the administrative service is supplied with respect to an **instrument** (defined in the Regulations as money, an account, a credit card voucher, a charge card voucher or a financial instrument such as an insurance policy) by any of the following:
+
+- a person at risk in respect of the instrument
+
+- a person that is a member of the same closely related group as a person at risk, if the recipient of the service is not the person at risk or another person that is a member of the same closely related group as the person at risk
+
+- an agent, salesperson or broker that arranges for the issuance, renewal or variation, or transfer of ownership, of the instrument for a person at risk or a person that is a member of the same closely related group as the person at risk
+
+A **person at risk** in respect of an instrument is defined in the Regulations to mean a person that is financially at risk by virtue of the acquisition, ownership or issuance by that person of the instrument or by virtue of a guarantee, an acceptance or an indemnity in respect of the instrument, but does not include a person who becomes so at risk in the course of, and only by virtue of, authorizing a transaction, or supplying a clearing or settlement service, in respect of the instrument.
+
+## Examples
+
+The following examples illustrate how the provisions of the ETA apply in the context of certain transactions in the insurance industry. In each example, it is assumed that the parties to the agreement operate in a manner that is consistent with the terms of the agreement. The application of the ETA may vary depending on the specific facts and circumstances of a particular transaction.
+
+A Canadian corporation operates as an MGA. The corporation enters into a managing general agent agreement (MGA Agreement) with an insurer that is licensed and resident in Canada. The MGA Agreement provides the following:
+
+- The purpose of the MGA Agreement is for the promotion and sale of the insurer’s life and health insurance policies in Canada.
+
+- The corporation is authorized to promote and sell the insurance policies through its employees or affiliated licensed independent insurance agents (independent agents) who are not employees of the corporation.
+
+- The customers’ applications for insurance are to be submitted by the corporation to the insurer and the insurer approves or denies the applications and, if approved, issues insurance policies.
+
+- The corporation is responsible for recruiting, training and supervising the independent agents according to the insurer’s guidelines.
+
+- The corporation is also responsible for ensuring that the corporation and the independent agents do all the following:
+
+    - maintain appropriate licences to sell the insurer’s insurance policies
+
+    - maintain a reasonable standard of competency related to the insurance policies
+
+    - comply with all relevant laws and with all the insurer’s rules, guidelines and procedures
+
+- The corporation is required to have an agreement (Agreement A) with each of the independent agents to promote and sell the insurer’s policies in accordance with the MGA Agreement.
+
+- The insurer is required to pay commissions to the corporation of a specific percentage of premiums paid for insurance policies issued on the basis of applications or requests for the insurance policies submitted to the insurer by the corporation.
+
+- The insurer is required to pay separate commissions directly to the independent agents for their sales of the policies.
+
+The corporation and each independent agent enter into a separate Agreement A for the independent agent to promote and sell the insurer’s policies. Agreement A provides that when a policy is sold by the independent agent, the parties will share the compensation payable by the insurer to the independent agent based on a specific percentage. It also provides that Agreement A will not continue if the MGA Agreement is terminated.
+
+The insurer and each independent agent also enter into a separate agreement (Agreement B) which states that its purpose is for the independent agent to promote and sell the insurer’s life and health insurance policies in Canada. It indicates that the corporation has the insurer’s authority to ensure that the independent agent maintains a reasonable standard of knowledge and competency related to the sale of the insurer’s policies. It provides that the insurer will directly pay a commission to the independent agent for its sales of the insurer’s policies and that the insurer will also pay a commission to the corporation for the independent agent’s sales of the insurer’s policies. Agreement B provides the insurer with the right to terminate the independent agent’s service of promoting and selling the insurer’s policies. The insurer must advise the corporation if it decides to do so. Agreement B also provides that it will not continue if the MGA Agreement is terminated.
+
+**Analysis**
+
+Under the MGA Agreement, the insurer receives several elements from the corporation for the consideration paid to the corporation. The insurer needs all of the elements and they are inextricably intertwined and integrally connected to one another. Therefore, all of the elements provided by the corporation under the MGA Agreement form a single supply.
+
+Taking into account the perspective of the insurer (that is, the recipient of the corporation’s supply under the MGA Agreement), the predominant element of the supply, for which the consideration is paid, is the corporation’s sale of the insurer’s insurance policies through its employees and through the independent agents. All other services provided by the corporation under the MGA Agreement are ancillary to the corporation’s sale of the insurer’s policies.
+
+The purpose of the corporation’s supply to the insurer under the MGA Agreement is to act as an intermediary to bring together the insurer and customers to effect the insurer’s supply of insurance policies. Also, the insurer highly relies on the corporation to sell its insurance policies through the corporation’s employees and the independent agents. Further, the corporation has sufficient direct involvement in the insurer’s supply of insurance policies that it can be said that the corporation causes the supply to occur. Therefore, the supply made by the corporation under the MGA Agreement is a supply of arranging for the insurer’s supply of a financial service.
+
+The corporation’s supply to the insurer under the MGA Agreement is included in paragraph (l) of the definition of financial service and is not excluded from that definition by paragraphs (n) to (t). The corporation’s supply of the financial service to the insurer is exempt under section 1 of Part VII of Schedule V. The corporation is not required to charge the GST/HST on the commission paid by the insurer for the supply.
+
+A Canadian corporation, operating as a TPA, develops an employee benefit plan to market to employers. The corporation brands it with its own name and logo. The plan consists of a bundle of insured benefits for employees, including life insurance, extended health insurance, dental care insurance and long-term and short-term disability insurance. As the corporation is not a licensed insurer, the corporation contracts with three insurers that are licensed and resident in Canada to issue group insurance policies to employers, which policies provide the various insured benefits under the plan to the insured employees.
+
+The corporation’s agreement with one of the insurers (insurer) provides the following:
+
+- The purpose of the agreement is to appoint the corporation to sell the insurer’s group insurance policies to employers in Canada, which policies provide extended health and dental insurance coverageto their employees.
+
+- The corporation will design the insured benefits and the related documentation (booklets, forms, standard letters, marketing materials) and set premium rates, subject to the insurer’s approval.
+
+- The corporation will solicit and sell the insurer’s policies to employers, directly or through subcontracted licensed agents and brokers.
+
+- The corporation will recruit, train and monitor the agents and brokers and provide them with advice regarding the terms and conditions of the group policies.
+
+- The corporation will receive and review applications from employers for the policies, determine appropriate rates, issue quotes, enroll employees in the plan and provide confirmation of insurance coverage to the employers.
+
+- The corporation will collect and bill the premiums payable by the employers under the group policies and remit the net amount to the insurer after deducting the corporation’s commission.
+
+- The corporation will receive claims for insured benefits, verify coverage, and pay claims under the group policies on behalf of the insurer.
+
+- For the corporation’s services, the insurer will pay the corporation a commission of a specific percentage of the premiums received for group policies issued by the insurer when sold by or through the corporation and its agents and brokers.
+
+- The corporation is required to pay its agents and brokers for their services.
+
+- The insurer does not have a contract with the agents and brokers.
+
+**Analysis**
+
+Under the agreement, the insurer receives several elements from the corporation for the consideration paid to the corporation. The insurer needs all of the elements and they are inextricably intertwined and integrally connected to one another. Therefore, all of the elements provided by the corporation under the agreement form a single supply.
+
+Taking into account the perspective of the insurer (that is, the recipient of the corporation’s supply under the agreement), the predominant element of the supply, for which the consideration is paid, is the corporation’s sale of the insurer’s insurance policies through its employees, agents and brokers. All other services provided by the corporation under the agreement, including those related to the administration of claims, are ancillary to the corporation’s sale of the insurer’s policies.
+
+The purpose of the corporation’s supply to the insurer under their agreement is to act as an intermediary to bring together the insurer and the employers to effect the insurer’s supply of the insurance policies. Also, the insurer highly relies on the corporation to sell its policies through the corporation’s employees, and network of agents and brokers. The corporation has sufficient direct involvement in the insurer’s supply of insurance policies that it can be said that the corporation causes the supply to occur. Therefore, the corporation’s supply to the insurer is a supply of arranging for the insurer’s supply of a financial service.
+
+The corporation’s supply to the insurer under the agreement is included in paragraph (l) of the definition of financial service and is not excluded from that definition by paragraphs (n) to (t). The corporation’s supply of the financial service to the insurer is exempt under section 1 of Part VII of Schedule V. The corporation is not required to charge the GST/HST on the commission paid by the insurer for the supply.
+
+A Canadian corporation enters into an agreement with an insurer that is licensed and resident in Canada. The insurer issues travel insurance policies that provide coverage to individual residents of Canada for emergency medical treatment outside Canada, trip cancellation and loss of baggage.
+
+The agreement provides the following:
+
+- The insurer appoints the corporation to act on the insurer’s behalf for the purpose of distributing and managing the policies.
+
+- The corporation will design and draft the policies, insurance certificates, and administrative documents and set premium rates and distributors’ compensation following the insurer’s guidelines.
+
+- The corporation will market and distribute the insurer’s policies through the corporation’s employees or its subcontracted agents.
+
+- The corporation will hire, train and monitor the subcontracted agents that distribute the insurer’s policies and ensure that the subcontracted agents and the corporation’s employees are properly licensed.
+
+- The corporation will collect insurance premiums and remit them to the insurer.
+
+- The corporation will investigate and pay insurance claims following the insurer’s guidelines.
+
+- The corporation will provide monthly reports to the insurer on premiums collected and claims paid.
+
+- For the corporation’s services, the insurer will pay the corporation a commission of a specific percentage of the premiums it receives for the insurer’s policies sold through the corporation’s employees and subcontracted agents.
+
+- The corporation is responsible for paying compensation to its subcontracted agents that sell the insurer’s policies.
+
+- The insurer does not have a contract with the corporation’s subcontracted agents.
+
+**Analysis**
+
+Under the agreement, the insurer receives several elements from the corporation for the consideration paid to the corporation. The insurer needs all of the elements and they are inextricably intertwined and integrally connected to one another. Therefore, all of the elements provided by the corporation under the agreement form a single supply.
+
+Taking into account the perspective of the insurer (that is, the recipient of the corporation’s supply under the agreement), the predominant element of the supply, for which the consideration is paid, is the corporation’s sale of the insurer’s policies through its employees and subcontracted agents. All other services provided by the corporation under the agreement, including those related to the administration of claims, are ancillary to the corporation’s sale of the insurer’s policies.
+
+The purpose of the corporation’s supply to the insurer under their agreement is to act as an intermediary to bring together the insurer and the individuals to effect the insurer’s issuance of a policy. Also, the insurer highly relies on the corporation to sell its policies through the corporation’s employees and subcontracted agents. The corporation has sufficient direct involvement in the insurer’s supply of insurance policies that it can be said that the corporation causes the supply to occur. Therefore, the corporation’s supply to the insurer is a supply of arranging for the insurer’s supply of a financial service.
+
+The corporation’s supply to the insurer under the agreement is included in paragraph (l) of the definition of financial service and is not excluded from that definition by paragraphs (n) to (t). The corporation’s supply of the financial service to the insurer is exempt under section 1 of Part VII of Schedule V. The corporation is not required to charge the GST/HST on the commission paid by the insurer for the supply.
+
+A Canadian corporation that is a TPA enters into two different agreements with an insurer that is licensed and resident in Canada.
+
+Agreement A provides the following:
+
+- The corporation agrees to solicit customers for, and to distribute, the insurer’s group life and health insurance policies, including renewals of the policies. Specifically, it is required, through its independent insurance agents who are not employees of the corporation, to solicit and receive applications for the policies from customers (for example, employers) and submit them to the Insurer. The insurer will issue the insurance policies to the customers.
+
+- The corporation, and its agents selling the insurer’s policies, must comply with certain directives and standards of the insurer, including holding all required licences.
+
+- The corporation is solely responsible for communication with the insurer. Neither the customer nor the agent communicates directly with the insurer.
+
+- The Insurer is required to pay a commission to the corporation under Agreement A for soliciting and distributing the insurer’s policies. The commission is based on the premiums it collects on behalf of the insurer.
+
+- The insurer does not have a contract with the agents. Rather, the corporation is responsible for paying the agents for their role in soliciting and selling the policies.
+
+Agreement B provides the following:
+
+- The corporation agrees to administer the policies it has distributed for the insurer.
+
+- The corporation agrees to register individuals, such as a customer’s employees, in the policies and ensure they meet the conditions to be eligible to participate in the policies.
+
+- The corporation’s duties include providing insurance certificates and policy information to the participating individuals and answering their questions on the policies.
+
+- The corporation is required to bill the customers and collect the premiums for the policies in force, hold the premiums in a bank account for the insurer and remit them to the insurer.
+
+- The corporation will also provide claims management services to the insurer for the policies it has distributed. This includes ensuring a claimant’s eligibility and entitlement to benefits, forwarding the application for benefits to the insurer and processing and paying the eligible claims. The insurer will advance an amount to the corporation to pay the claims.
+
+- The corporation does not receive separate consideration from the insurer for its services provided under Agreement B.
+
+**Analysis**
+
+Under Agreement A and Agreement B, the insurer receives several elements from the corporation for the consideration paid to the corporation. The insurer needs all of the elements in the agreements and they are inextricably intertwined and integrally connected to one another. Therefore, all of the elements provided by the corporation under both agreements form a single supply.
+
+Taking into account the perspective of the insurer (that is, the recipient of the corporation’s supply under the agreements), the predominant element of the supply, for which the consideration is paid, is the corporation’s distribution (sale) of the insurer’s policies through its agents. All other services provided by the corporation under the agreements, including those related to the administration of claims, are ancillary to the corporation’s sale of the insurer’s policies.
+
+The purpose of the corporation’s supply to the insurer under their agreements is to act as an intermediary to bring together the insurer and a customer to effect the insurer’s issuance of a policy. The corporation has sufficient direct involvement in the insurer’s issuance of a policy that it can be said that the corporation causes the financial service to occur. Further, the insurer highly relies on the corporation to sell its insurance policies through the corporation’s agents. Therefore, the corporation’s supply to the insurer is a supply of arranging for the insurer’s supply of a financial service.
+
+The corporation’s supply to the insurer under Agreement A and Agreement B is included in paragraph (l) of the definition of financial service and is not excluded from that definition by paragraphs (n) to (t). The corporation’s supply of the financial service to the insurer is exempt under section 1 of Part VII of Schedule V. The corporation is not required to charge the GST/HST on the commissions paid by the insurer for the supply.
+
+A Canadian corporation enters into an agreement with an insurer that is licensed and resident in Canada. The insurer issues car replacement insurance policies to customers that purchase new cars from certain Canadian car dealers. The policy provides that, for the payment of a premium, if there is a total loss of the new car through theft or collision and the customer purchases a similar replacement car from the same car dealer, the insurer will pay to the insured customer the difference between the cost of the replacement car and the primary insurer’s settlement amount.
+
+The agreement provides that the corporation will do the following:
+
+- distribute the insurer’s policy through Canadian car dealers
+
+- ensure that each dealer signs a distribution agreement with the insurer in which the dealer agrees to offer and sell the insurer’s policy to its eligible customers by following the procedures in the distribution agreement
+
+- provide training and support to the dealers’ employees regarding the policy
+
+- monitor the dealers to ensure that the policies are distributed in accordance with the distribution agreement and applicable legislation
+
+- collect the premiums and remit them to the insurer after deducting the corporation’s commission
+
+- provide reports to the insurer regarding the policies sold by the dealers, such as the name of the insured, the car make and model, and the price of the car
+
+- send any notices of claims to the insurer
+
+The Agreement also provides that for the corporation’s services, the insurer will pay a commission to the corporation equal to a specific percentage of the premium paid for each policy issued by the insurer through the corporation’s network of dealers.
+
+**Analysis**
+
+Under the agreement, the insurer receives several elements from the corporation for the consideration paid to the corporation. The insurer needs all of the elements and they are inextricably intertwined and integrally connected to one another. Therefore, all of the elements provided by the corporation under the agreement form a single supply.
+
+Taking into account the perspective of the insurer (that is, the recipient of the corporation’s supply under the agreement), the predominant element of the supply, for which the consideration is paid, is the corporation’s distribution of the insurer’s policies through the car dealers. All other services provided by the corporation under the agreement are ancillary and support the corporation’s sale of the insurer’s policies.
+
+The purpose of the corporation’s supply to the insurer under their agreement is to act as an intermediary to bring together the insurer and the insured to effect the insurer’s issuance of a policy. Also, the insurer highly relies on the corporation to sell its policies through the car dealers. The corporation has sufficient direct involvement in the insurer’s supply of the policies that it can be said that the corporation causes the supply to occur. Therefore, the corporation’s supply to the insurer is a supply of arranging for the insurer’s supply of a financial service.
+
+The corporation’s supply to the insurer under the agreement is included in paragraph (l) of the definition of financial service and is not excluded from that definition by paragraphs (n) to (t). The corporation’s supply of the financial service to the insurer is exempt under section 1 of Part VII of Schedule V. The corporation is not required to charge the GST/HST on the commission paid by the insurer for the supply.
+
+A Canadian corporation is not a licensed insurer or otherwise authorized under the laws of Canada, a province or another jurisdiction to carry on an insurance business. The corporation designs and develops a car replacement contract to be entered into with customers that purchase new cars from certain Canadian car dealers. The contract provides that, for the payment of a fee, if there is a total loss of the new car through theft or collision and the customer purchases a similar replacement car from the same car dealer, the corporation will pay to the customer the difference between the cost of the replacement car and the primary insurer’s settlement amount.
+
+The corporation enters into distribution agreements with the Canadian car dealers, which provide that the car dealers will offer and enter into contracts with eligible customers on behalf of the corporation by following the procedures in the distribution agreement.
+
+An insurer that is licensed and resident in Canada issues a contractual liability insurance policy to the corporation, which provides coverage to the corporation for its obligations under the contracts with the customers. The customers that enter into the contract with the corporation are not insured under the insurer’s policy.
+
+**Analysis**
+
+When the corporation enters into a car replacement contract with a customer, the corporation’s supply is not included in paragraph (d) of the definition of financial service under subsection 123(1) because the corporation is not issuing an insurance policy. The corporation’s car replacement contract is not an insurance policy as defined in subsection 123(1), in part, because the corporation is not an insurer as defined under that same subsection.
+
+The insurer’s issuance of the contractual liability policy to the corporation is included in paragraph (d) of the definition of financial service and is not excluded from that definition by paragraphs (n) to (t). Therefore, the insurer is making an exempt supply of a financial service to the corporation under section 1 of Part VII of Schedule V. The insurer is not required to charge the GST/HST on the premiums paid by the corporation for the supply.
+
+Although the insurer made a supply under paragraph (d) of the definition of financial service, the corporation is not arranging for the insurer’s supply of the financial service. As the corporation is the only insured person under the policy, the corporation is not acting as an intermediary in arranging for the insurer’s supply to another person.
+
+A Canadian corporation is the owner of an insurance claims adjudication and settlement system. The system enables the corporation to adjudicate drug benefit claims made by insured employees under group health insurance policies issued by insurers and to arrange for the employees to receive the drug benefits from pharmacies at the point of purchase. The corporation has agreements with several pharmacies that agree to use the corporation’s system and to fill the employees’ prescriptions. Once this is done, the corporation pays the pharmacies the amount of the drug benefits provided to the employees at the point of purchase using the insurers’ funds.
+
+The corporation has an agreement with an insurer that is licensed and resident in Canada. The insurer issues group health insurance policies to employers, which provide coverage for their employees. The agreement provides the following:
+
+- The corporation, through its system, will provide the real-time service of receiving electronic records of drug benefit claims submitted by the pharmacies at the point of service, verifying the eligibility of the employees making the claims and adjudicating the claims on behalf of the insurer in accordance with the relevant insurance policies, after which the corporation will pay the pharmacies for the benefits provided to the employees at the point of purchase.
+
+- The insurer will provide the funds needed for the corporation to make payments to the pharmacies for claims made under the insurance policy. The corporation does not take on any financial risk associated with the payment of the claims through its system.
+
+- The corporation is required to use the insurer’s guidelines in adjudicating and paying the claims. It has no discretionary authority in this regard.
+
+- The corporation will maintain the pharmacy network to allow electronic submission of drug transactions and will ensure there is a sufficient number of pharmacies in its network to meet the needs of employees making claims.
+
+- The corporation is required to assist in the development of standards for electronic transaction processing standards.
+
+- The corporation will provide a support desk for the pharmacies.
+
+- The corporation will maintain and update its system for changes in software, products and legislative requirements and will provide real-time monitoring of transactions processing.
+
+- The corporation is required to maintain pertinent drug information (for example, price) for use in the adjudication process.
+
+- The corporation will provide reports to the insurer and will train the insurer’s personnel who are authorized to access the corporation’s system.
+
+- The corporation will conduct routine audit procedures on the pharmacies.
+
+- For the corporation’s services, the insurer will pay a fee to the corporation for each claim adjudicated regardless of whether the claim is approved, rejected or voided by the insurer.
+
+**Analysis**
+
+Under the agreement, the insurer receives several elements from the corporation for the consideration paid to the corporation. The insurer needs all of the elements and they are inextricably intertwined and integrally connected to one another. Therefore, all of the elements provided by the corporation under the agreement form a single supply.
+
+Taking into account the perspective of the insurer (that is, the recipient of the corporation’s supply under the agreement), the predominant element of the supply, for which the consideration is paid, is an administrative service. For example, the corporation does not make decisions regarding the eligibility and payment of claims independent of the directions provided by the insurer. Further, this administrative service does not consist solely of the payment or receipt of insurance benefits or claims.
+
+Even if the corporation’s supply to the insurer is included in any of paragraphs (a) to (m) of the definition of financial service, it is a prescribed service under paragraph 4(2)(b) of the Regulations and is excluded from the definition of financial service by paragraph (t) of that definition. Subsection 4(3) of the Regulations does not apply to exclude it from being a prescribed service because the corporation is not a person at risk in respect of the insurer’s issuance of the insurance policy and is not otherwise described in that subsection.
+
+The corporation’s supply to the insurer under the agreement is not a supply of a financial service. It is a taxable supply and the corporation is required to charge the GST/HST on the fee paid by the insurer for the supply.
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a GST/HST enquiry by telephone:
+
+- for **GST/HST general enquiries,**call **Business Enquiries** at **1‑800‑959‑5525**
+
+- for **GST/HST technical enquiries,**call **GST/HST Rulings** at **1‑800‑959‑8287**
+
+If you are located in**Quebec**, call**Revenu Québec**at **1‑800‑567‑4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for **general GST/HST** or **QST enquiries**, call **Business Enquiries** at **1‑800‑959‑5525**
+
+- for **technical GST/HST** or **QST enquiries**, call **GST/HST Rulings SLFI** at **1‑855‑666‑5166**

@@ -1,0 +1,2506 @@
+---
+title: "RRSPs and Other Registered Plans for Retirement"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4040/rrsps-other-registered-plans-retirement.html
+last_modified: 2026-01-23
+---
+# RRSPs and Other Registered Plans for Retirement
+
+T4040(E) Rev. 25
+
+The CRA's publications and personalized correspondence are available in braille, large print, e-text, and MP3. For more information, go to [Order](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html)[alternate formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html) or call **1-800-959-8281**.
+
+## Find out if this guide is for you
+
+Use this guide if you want information about registered pension plans (RPPs), registered retirement savings plans (RRSPs), registered retirement income funds (RRIFs), specified pension plans (SPPs), and pooled registered pension plans (PRPPs).
+
+This guide has information which is not in the income tax package and which you may need to fill out your income tax and benefit return.
+
+A Tax-Free Savings Account (TFSA) is not a registered plan for retirement. You should refer to [Guide RC4466, *Tax-Free Savings Account (TFSA), Guide for Individuals*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4466.html).
+
+The CRA has included definitions of some of the terms used in this guide in the [Definitions](#P125_5217) section. You may want to read this section before you start.
+
+La version française de ce guide est intitulée REER et autres régimes enregistrés pour la retraite.
+
+Unless otherwise stated, all legislative references are to the *Income Tax Act*or, where appropriate, the *Income Tax Regulations*.
+
+## Table of contents
+
+- [Definitions](#P125_5217)
+
+- [Chapter 1 – RPP contributions](#P173_11915)
+
+    - [Fixing contribution errors in money purchase registered pension plans (2021 and subsequent years)](#Fixing_Cont)
+
+    - [Current service and past service contributions for 1990 or later years](#P182_13383)
+
+    - [Past service contributions for 1989 or earlier years](#P190_14346)
+
+          - [Interest on past service contributions](#P198_15959)
+
+    - [Other deductions](#P205_17886)
+
+    - [Calculating your 2025 deduction for your RPP contributions](#Calculate_RPP_deduction)
+
+- [Chapter 2 – RRSP contributions](#P1109_28354)
+
+    - [How to claim your RRSP deduction](#P1119_30706)
+
+          - [Age limit for contributing to an RRSP](#P1125_32292)
+
+          - [Contributing to your RRSPs](#P1127_32576)
+
+          - [How much can you deduct](#How_deduct)
+
+          - [Calculating your 2025 RRSP deduction limit](#Calculate_RRSP_deduct_Limit)
+
+          - [Contributions you can deduct for 2025](#Contribu_deductable_Year)
+
+    - [Contributing to your spouse's or common-law partner's RRSP or SPP, or both](#P1144_35839)
+
+    - [Keeping track of your RRSP, PRPP and SPP contributions – Schedule 7](#P1157_38716)
+
+          - [Line 1 – Unused RRSP, PRPP and SPP contributions](#Line_1)
+
+          - [Lines 2 and 3 – Total RRSP, PRPP and SPP contributions](#Line_2)
+
+          - [Lines 7 and 8 – Contributions designated as a repayment under HBP and LLP](#Line_7)
+
+          - [Line 15 – transfers](#Line_15)
+
+          - [Line 18 –RRSP, PRPP, or SPP contributions you are deducting for 2025](#Line_18)
+
+          - [Lines 24 to 27 – 2025 withdrawals under the HBP and the LLP](#Line_27)
+
+          - [Line 28 – Contributions to an amateur athlete trus](#Line_28)t
+
+    - [Unused RRSP, PRPP or SPP contributions](#P2119_46862)
+
+          - [Withdrawing the unused contributions](#Withdraw_Unused_Cont)
+
+    - [Tax on RRSP excess contributions](#P2144_51601)
+
+    - [Property from an FHSA](#Prop_FHSA)
+
+- [Chapter 3 – RRIF contributions](#P2188_56980)
+
+    - [Property from an RRSP, PRPP, or SPP](#Prprt_Frm_N_RRSP_PRPP_SPP)
+
+    - [RPP amounts](#RPP_Mnts)
+
+    - [DPSP amounts](#DPSP_mnts)
+
+    - [Property from another RRIF](#Prprty_frm_nthr_RRIF)
+
+    - [Specified pension plan (SPP) amounts](#Spcfd_pnsn_pln_mnts)
+
+    - [Property from an FHSA](#Prop_fhsa_2)
+
+- [Chapter 4 – Anti-avoidance rules for RRSPs and RRIFs](#P2239_62895)
+
+    - [Tax payable on prohibited investments](#prohib_invest)
+
+    - [Tax payable on non-qualified investments](#tax_non_qual)
+
+    - [Refund of taxes paid on non-qualified or prohibited investments](#refund_oftax)
+
+    - [Obligations of the RRSP issuer or RRIF carrier](#Obligations_RRSP_RRIF)
+
+    - [Tax payable on an advantage](#on_advantage)
+
+    - [Waiver or cancellation of tax](#waiver_cancel)
+
+- [Chapter 5 – Amounts from an RRSP or a RRIF](#chapter5)
+
+    - [Yearly minimum amount from a RRIF](#Yrl_mnmm_amnt_RRF)
+
+    - [Transfers to registered disability savings plans](#transfers)
+
+    - [Locked-in RRSP](#locked_in)
+
+    - [Amounts paid from or into a spousal or common-law partner RRSP, RRIF, or SPP](#from_spp)
+
+          - [Calculating the income you and your spouse or common-law partner have to report](#calculate_spouse_Income)
+
+- [Chapter 6 – Transfers to registered plans or funds and annuities](#P2464_83200)
+
+    - [Other transfers](#P2481_85656)
+
+    - [Direct transfer of an RPP lump-sum amount](#P2708_96252)
+
+          - [excess transfer of an RPP lump sum amount](#Excess_RPP_transfer)
+
+          - [Transfers from a FHSA to an RRSP or RRIF when you have an excess FHSA amount](#transFrom_FHSA)
+
+- [Chapter 7 – PAs, PARs and PSPAs](#P2720_98618)
+
+    - [Pension adjustments (PAs)](#P2722_98650)
+
+          - [Does your employer have to report a PA for you](#Employer_PA)
+
+          - [What does your PA affect](#PA_Affect)
+
+    - [Pension adjustment reversals (PARs)](#P2732_100778)
+
+    - [Past service pension adjustments (PSPAs)](#P2736_102191)
+
+          - [Types of PSPAs](#PSPA_Type)
+
+          - [Cost of past service benefits](#Past_Service_Cost)
+
+          - [Net PSPA](#Net_PSPA)
+
+- [Chapter 8 – Pooled registered pension plan (PRPP)](#chptr_8)
+
+    - [Eligibility](#elig)
+
+    - [Participation](#participation)
+
+    - [Contributions to a PRPP](#cont_prpp)
+
+          - [Member contributions](#Member_Con)
+
+          - [Employer contributions](#Employer_Con)
+
+          - [Contributions made with tax-exempt income](#Tax_exempt)
+
+    - [PRPP transfers](#prpp_transfers)
+
+          - [Transfers to a PRPP](#PRPP_Transfer)
+
+          - [Transfers from a PRPP](#Intransfer_PRPP)
+
+    - [PRPP payments](#prpp_payments)
+
+    - [PRPP withdrawals](#prpp_withdrawals)
+
+    - [PRPP life events](#prpp_lf)
+
+          - [Death of a PRPP member](#Dth_PRPP_mmbr)
+
+          - [Breakdown of marriage or common-law partnership](Break_Marriage)
+
+- [Chapter 9 - Advanced life deferred annuity (ALDA) transfers](#CH9)
+
+    - [Tax on ALDA cumulative excess amounts](#Tax_ALDA)
+
+    - [Waiver or cancellation of tax](#Waiver_ALDA)
+
+    - [Death of an ALDA annuitant](#Death_ALDA)
+
+- [Chapter 10 – First home savings account (FHSA) transfers](#chapter10)
+
+    - [Transfer from an RRSP to an FHSA](#transfer_fhsa)
+
+    - [Transfer from an FHSA to an RRSP or RRIF](#transfer_rrsp_rrif)
+
+    - [Tax deduction on transfer from an RRSP to an FHSA](#tax_deduction)
+
+- [Digital services](#Online_Services)
+
+    - [Digital services for individuals](#online_ind)
+
+    - [My Account](#my_account)
+
+          - [Profile](#Profile)
+
+          - [Tax returns](#Tax_return)
+
+          - [Accounts and payments](#acc_Payment)
+
+          - [Benefits and credits](#Benefit_Credit)
+
+          - [Savings and pension plans](#Savings_Plan)
+
+          - [Correspondence](#Correspondence)
+
+    - [Additional digital services](#Add_Services)
+
+    - [Access My Account](#Access_My)
+
+    - [Receive your CRA mail online](#rcvng_ml_nln)
+
+    - [Electronic payments](#Electronic_pmt)
+
+- [Related forms and publications](#related_forms)
+
+    - [Guides](#Guides)
+
+    - [Information sheets](#Info_Sheet)
+
+    - [Forms](#forms)
+
+    - [Interpretation bulletins and income tax folios](#Interpretation_Folio)
+
+    - [Information circulars](#circulars)
+
+- [For more information](#for_more_info)
+
+    - [If you need help](#need_help)
+
+    - [Direct deposit](#direct_dep)
+
+    - [Forms and publications](#forms_pub)
+
+    - [Electronic mailing lists](#e_mail_lists)
+
+    - [Teletypewriter (TTY) and Video Relay Service (Canada VRS) users](#tty)
+
+    - [CRA service feedback program](#cra_feedback)
+
+          - [Service complaints](#Srvc_rltd_cmplnt)
+
+          - [Reprisal complaints](#rprsl_cmplnt)
+
+    - [Due dates](#Due_dates)
+
+    - [Cancel or waive penalties and interest](#Cncl_wv_pnlts)
+
+          - [Penalties](#Cancel_Penalties)
+
+          - [For interest on balance owing](#Cancel_Penalties)
+
+## Definitions
+
+This section provides a general definition of the technical terms that the CRA uses in this guide.
+
+**Advanced life deferred annuity (ALDA)** – a life annuity where the annuity payments must be started before the end of the year in which the annuitant turns 85 years of age.
+
+**Advantage** – any benefit, or debt that is conditional on the existence of the RRSP or RRIF, subject to certain exceptions for normal investment activities and conventional incentive programs.
+
+An advantage also includes any benefit that is an increase in the total fair market value (FMV) of the property of the RRSP or RRIF that is reasonably attributable to any one of the following:
+
+- a transaction or an event (or a series) that would not have occurred in a normal commercial or investment context between arm’s length parties acting prudently, knowledgeably, and willingly, and one of the main purposes of which is to benefit from the tax-exempt status of the RRSP or RRIF
+
+- a payment received in substitution for a payment for services rendered by the annuitant (or non-arm's length person) or for a return on investment on non-registered property
+
+- a **swap transaction**
+
+- a specified non-qualified investment incomethat has not been paid from the RRSP or RRIF within 90 days of the annuitant receiving a notice from CRA requiring removal
+
+An advantage also includes a **registered plan strip,** or any benefit that is income or a capital gain that is reasonably attributable to one of the following:
+
+- a prohibited investment
+
+- an artificial diversion of an amount away from the RRSP or RRIF
+
+For more information on advantages, refer to [Income Tax Folio S3-F10-C3, *Advantages – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html).
+
+**Annuitant** – generally, an annuitant of an RRSP or a RRIF is the person for whom the plan or fund provides a retirement income. In certain circumstances, the surviving spouse or common-law partner may qualify as the annuitant when, because of the death, they become entitled to receive benefits out of the plan or fund.
+
+**Arm’s length** – refers to a relationship or a transaction between unrelated persons who act in their own separate interests. An arm’s length transaction is generally a transaction that reflects ordinary commercial dealings between parties acting in their own separate interests.
+
+For more information, refer to [Income Tax Folio S1-F5-C1, *Related Persons and Dealing at Arm's Length*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html).
+
+**Common-law partner** – a person who is **not your** [**spouse**](#spouse), with whom you are living in a conjugal relationship, and to whom at least **one** **of the following situations** applies. The person:
+
+- has been living with you in a conjugal relationship, and this current relationship has lasted for at least 12 continuous months
+
+**Note** In this definition, “12 continuous months” includes any period that you were separated for less than 90 days because of a breakdown in the relationship.
+
+- is the parent of your child by birth or adoption
+
+- has custody and control of your child (or had custody and control immediately before the child turned 19 years of age) and your child is wholly dependent on that person for support
+
+**Commutation payment** – a fixed or single lump-sum payment from your RRSP annuity that is equal to the current value of all or part of your future annuity payments from the plan.
+
+**Deferred profit-sharing plan (DPSP)** – an employer-sponsored plan the CRA registers, in which the employer shares the profits of a business with all the employees or a designated group of employees.
+
+**Defined benefit provision** – the terms of an RPP that promise a certain level of pension on retirement, based on the employee's earnings and years of service.
+
+**Earned income** – the CRA calculates your earned income by adding your employment earnings, self-employment earnings, and certain other types of income, then subtracting specific employment expenses and business or rental losses. To calculate your earned income, refer to [Step 2](#stp_2chrt_3)of Chart 3.
+
+Qualifying performance income (generally endorsement income, prize money, or income from public appearances received by an amateur athlete) contributed to an amateur athlete trust (AAT), qualifies as earned income in determining the RRSP deduction limit of the trust’s beneficiary.
+
+**Excess ALDA transfer** – an excess ALDA transfer is defined in subsection 205(1) of the *Income Tax Act*and is informally referred to as an amount in excess of the 25% limit.
+
+**Fair market value (FMV)** – is generally considered to mean the highest price expressed in terms of money that can be obtained in an open and unrestricted market between informed and prudent parties, who are dealing at arm’s length, and under no compulsion to buy or sell.
+
+For more information on the valuation of securities of closely-held corporations, refer to [Information Circular IC89-3, *Policy Statement on Business Equity Valuations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic89-3.html).
+
+**Financially dependent** – if you are a child or grandchild of an annuitant, you are generally considered financially dependent on that annuitant at the time of their death if, before that person's death, you ordinarily resided with and depended on the annuitant, and you meet **one of the following conditions**:
+
+- your net income for the previous year (shown on line 23600 of your income tax and benefit return) was less than the unreduced maximum basic personal amount (line 30000 of your income tax and benefit return) for that previous year
+
+- your financial dependence was due to mental or physical infirmity and your net income for the previous year was equal to or less than the unreduced maximum basic personal amount **plus** the disability amount (line 31600 of your income tax and benefit return) for that previous year
+
+If, at the time of the annuitant's death, you are away from home because you were attending school, the CRA still considers you to have resided with the annuitant.
+
+If you meet one of the above conditions and did not reside with the annuitant at the time of their death, but received significant financial support from the annuitant, the CRA may consider you to be financially dependent on the annuitant at the time of their death, if you can establish that you were. To do so, you or the legal representative should submit a request in writing to your tax services office explaining why the CRA should consider you to be financially dependent on the annuitant at the time of their death.
+
+If your net income was **more than the amounts described above**, the CRA will**not** consider you to be financially dependent on the annuitant at the time of their death, unless you can establish that you were by submitting a request as described above.
+
+**First home savings account (FHSA)** – a registered plan which allows you, if you are a first-time home buyer, to save money to buy or build a qualifying first home tax-free (up to certain limits).
+
+**Foreign plan** – a plan or arrangement maintained primarily to benefit non-residents for services they perform outside Canada.
+
+**Matured RRSP** – an RRSP that is paying you retirement income.
+
+**Money purchase provision** – the terms of an RPP under which the amount of your pension depends on how much you and your employer contribute to the RPP for you.
+
+**Non-arm's length** – generally refers to a relationship or transaction between persons who are related to each other.
+
+However, a non-arm's length relationship might also exist between unrelated individuals, partnerships, or corporations, depending on the circumstances.
+
+For more information, refer to the definition of [Arm's length](#Arms_len).
+
+**Non-qualified investment** – any property that is not a qualified investment for the RRSP or RRIF trust.
+
+For more information on non-qualified investments, refer to [Income Tax Folio S3-F10-C1, *Qualified Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html).
+
+**Pooled registered pension plan (PRPP)** – a retirement savings plan to which you or your employer, or both, can contribute. Any income earned in the PRPP is usually exempt as long as it remains in the plan.
+
+**Prohibited investment** – this is property to which the RRSP or RRIF annuitant is closely connected. It includes any of the following:
+
+- a debt of the annuitant
+
+- a debt or share of, or an interest in, a corporation, trust, or partnership in which the annuitant has a significant interest (generally a 10% or greater interest, taking into account non-arm's length holdings)
+
+- a debt or share of, or an interest in, a corporation, trust, or partnership with which the annuitant does not deal at arm's length
+
+A prohibited investment **does not include** a mortgage loan that is insured by the Canada Mortgage and Housing Corporation or by an approved private insurer. It also does not include certain investment funds and certain widely held investments which reflect a low risk of self-dealing.
+
+For more information, refer to [Income Tax Folio S3-F10-C2, *Prohibited Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html).
+
+**Qualified investment** – an investment in properties (except real property), including money, guaranteed investment certificates, Canada savings bonds and provincial savings bonds, mutual funds, and most securities listed on a designated stock exchange.
+
+For more information, refer to [Income Tax Folio S3-F10-C1, *Qualified Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html).
+
+**Qualifying group plan amounts** – (often referred to as **mandatory group plan amounts**) They are contribution amounts that you are required to make to a PRPP or a "qualifying arrangement." An arrangement is a qualifying arrangement if all the following apply:
+
+- it is for two or more individuals
+
+- the contributions are amounts you are entitled to for services you provided
+
+- the contributions are remitted to the RRSP by the person who pays you, or by an agent for that person
+
+Qualifying group plan amounts **do not** **include** amounts that you could have prevented from being paid after beginning to participate in the arrangement and within 12 months before the amount was paid.
+
+**Qualifying retirement plan** – for purposes of the Canada–United States tax convention, a United States qualifying retirement plan is a plan that is generally exempt from income tax in the United States and is operated primarily to provide pension or retirement benefits. Common qualifying United States retirement plans include 401(k) arrangements.
+
+**Qualifying survivor** – is the annuitant's spouse or common-law partner or the annuitant's financially dependent child or grandchild.
+
+**Refund of premiums** – is some or all of an amount paid out of an RRSP to a qualifying survivor as a result of the annuitant's death. A refund of premiums includes an amount paid as an RRSP benefit, but it does not include a tax-paid amount.
+
+If amounts are paid to the estate and the qualifying survivor is a beneficiary of the estate, the qualifying survivor and the legal representative of the estate can jointly elect to treat part, or all of the amounts paid to the estate as received by the qualifying survivor as a refund of premiums.
+
+**Registered disability savings plan (RDSP)**–a trust arrangement between an individual (the holder) and a trust company in Canada (the issuer) that provides for the long-term financial security of a beneficiary who has a prolonged and severe mental or physical impairment.
+
+**Registered education savings plan (RESP)** – a registered contract between an individual (the subscriber) and a person or an organization (the promoter). The subscriber generally makes contributions to the RESP, which earns income, paid in the form of educational assistance payments to one or more identified beneficiaries.
+
+**Registered pension plan (RPP)** – a pension plan that the CRA has registered. Funds are contributed by an employer (or by an employer and employees) to provide a pension to employees when they retire.
+
+**Registered plan strip** – the amount of a reduction in the FMV of property of the RRSP or RRIF, if the value is reduced as part of a transaction or an event (or series) for which one of the main purposes is to enable the annuitant (or non-arm’s length person) to obtain a benefit in respect of the property of the RRSP or RRIF, or to obtain a benefit as a result of the reduction. Exceptions are provided for plan distributions that are included in income or specifically excluded from income (such as a tax-deferred transfer between plans).
+
+For more information on a registered plan strip, refer to [Income](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html)[Tax Folio S3-F10-C3, *Advantages – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html).
+
+**Registered retirement savings plan (RRSP)** – a retirement savings plan that you establish, that the CRA registers, and to which you or your spouse or common-law partner contribute. Any income you earn in the RRSP is usually exempt as long as the funds remain in the plan. You generally have to pay tax when you receive payments from the plan.
+
+**Related persons** – are not considered to deal with each other at arm’s length. Related persons include individuals connected by blood relationship, marriage, common-law partnership, or adoption (legal or in fact). A corporation and another person or two corporations may also be related persons.
+
+For more information, refer to [Income](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html)[Tax Folio S1-F5-C1, *Related Persons and Dealing at Arm's Length*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html).
+
+**RRIF carrier** – an entity (such as an insurance company, a trust company, or a bank) that is authorized to open a RRIF on your behalf.
+
+**RRSP contribution** – the amount you pay, in cash or in kind, at the time you contribute to an RRSP. In kind contributions consist of the FMV of the property.
+
+**RRSP deduction** – the amount you indicate on line 20800 of your income tax and benefit return. Your RRSP deduction claim is limited by the amount of your RRSP, PRPP, or SPP contributions previously made and your RRSP deduction limit.
+
+**RRSP deduction limit** – the maximum amount you can deduct from contributions you made to your RRSP, PRPP, or SPP and to your spouse's or common-law partner's RRSP or SPP for a year (excluding transfers to your RRSPs of certain types of qualifying income). The calculation is based, in part, on your [earned income](#earned_income) in the previous year. Pension adjustments (PAs), past service pension adjustments (PSPAs), pension adjustment reversals (PARs), prescribed amount for connected persons, and your unused RRSP deduction room at the end of the previous year are also used to calculate the limit.
+
+For information on the prescribed amount for connected persons, refer to Chapter 13 of [Guide T4084, *Pension Adjustment Guide*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4084.html).
+
+**RRSP issuer** – An entity (such as a bank, credit union, trust, or insurance company) that is authorized to open an RRSP on your behalf.
+
+**RRSP limit** – the maximum amount of new RRSP deduction room that you can create for a year and is one of the amounts used to determine your RRSP deduction limit for that year.
+
+For more information, refer to [Chart 3](#chrt_3).
+
+**RRSP excess contributions** – generally, the amount of your RRSP, PRPP, and SPP contributions that is more than your RRSP deduction limit for the year **plus** $2,000. If you have RRSP excess contributions, you may have to pay a tax of 1% per month on those contributions.
+
+For more information, refer to [Tax on RRSP excess contributions](#P2144_51601).
+
+**Retiring allowance** – this is an amount you receive on or after retirement from an office or employment in recognition of long service. It can include payment for unused sick leave and amounts you receive for loss of office or employment, whether as a payment of damages or a payment under an order or judgment of a competent tribunal.
+
+For more information, refer to [Chart 8](#Chrt_8).
+
+**Specified non-qualified investment income** – any income (excluding the dividend gross-up) or a capital gain that is reasonably attributable, directly or indirectly, to an amount that is taxable for any RRSP or RRIF of the annuitant (for example, subsequent generation income earned on non-qualified investment income or on income from a business carried on by an RRSP or RRIF).
+
+**Specified pension plan (SPP)** – a pension plan or similar arrangement that has been prescribed under the Income Tax Regulationsas a "specified pension plan" for purposes of the *Income Tax Act.* Many of the rules related to RRSPs also apply to SPPs.
+
+**Specified retirement arrangement (SRA)** – a pension plan that the CRA does not register for income tax purposes and that is either not funded or only partly funded.
+
+**Spousal or common-law partner RRIF** – a RRIF that received amounts or transfers of property from your spousal or common-law partner RRSP; or any of your other spousal or common-law partner RRIFs.
+
+**Spousal or common**‑**law partner RRSP** – an RRSP that you establish to pay yourself income at maturity that you or your spouse or common-law partner contributes to. Also, an RRSP that received amounts or transfers from any of your other spousal or common-law partner RRSPs or from your spousal or common law partner RRIF.
+
+**Spouse** – a person to whom you are legally married.
+
+**Swap transaction** – any transfer of property between the RRSP or RRIF and its annuitant (or non-arm's length person). Exceptions are provided for contributions to and distributions from the plan, purchase and sale transactions between an individual's two plans with the same tax attributes (for example, RRSP to RRSP or RRIF) and transactions relating to insured mortgages.
+
+For more information on swap transactions and applicable transitional rules, refer to [Income Tax Folio S3-F10-C3, *Advantages – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html).
+
+**Transitional prohibited investment benefit** – this expression is relevant only if an individual held one or more [prohibited investments](#prohibited) in their RRSP or RRIF on March 23, 2011, and continues to hold the investments in their RRSP or RRIF in the tax year. An individual’s transitional prohibited investment benefit for a tax year is the total of any income earned (excluding the dividend gross-up) and capital gains realized in the tax year on these investments, less any capital losses realized on these investments in the tax year. For this purpose, the amount of a capital gain realized is the positive difference between the FMV of the property when it is disposed of by the RRSP or RRIF, or when it ceases to be a prohibited investment (less reasonable costs of disposition, if any) and the FMV of the property on March 22, 2011. The amount of a capital loss is the negative difference.
+
+**Unmatured RRSP** – generally, an RRSP that has not yet started to pay you retirement income.
+
+**Unrelated persons** – may not be dealing with each other at arm’s length at a particular time. Each case will depend upon its own facts. The following criteria will generally be used to determine if the parties to a transaction are not dealing at arm’s length:
+
+- whether there is a common mind that directs the bargaining for the parties to a transaction
+
+- whether the parties to a transaction act in concert without separate interests; ("acting in concert" means, for example, that parties act with considerable interdependence on a transaction of common interest)
+
+- whether there is de facto control of one party by the other because of, for example, advantage, authority, or influence
+
+For more information, refer to [Income Tax Folio S1-F5-C1, *Related Persons and Dealing at Arm's Length*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html).
+
+**Unused RRSP, PRPP and SPP contributions** – the amount of your RRSP, PRPP and SPP contributions that you could not deduct or have chosen not to deduct, and that you did not designate as an HBP or LLP repayment for any year. Use [Schedule 7, *RRSP, PRPP and SPPContributions and Transfers and HBP and LLP Activities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html), to keep track of these contributions. This amount is carried forward to the following year and you can use it as a deduction up to your RRSP deduction limit for that year.
+
+**Unused RRSP deduction room at the end of the year** – generally, your RRSP deduction limit for the year **minus** the amount you deducted for RRSP, PRPP, and SPP contributions for that year.
+
+If you rendered services as an employee in the United States in the year, the amount you contributed in the year to a [qualifying retirement plan](#qrp) in the United States and deducted in your income tax and benefit return will **reduce** your unused RRSP deduction room. For more information, refer to [Other deductions](#P205_17886).
+
+## Chapter 1 – RPP contributions
+
+This chapter has information about making contributions to your [registered pension plan (RPP)](#rpp). Particularly, it will help you calculate the amount you can deduct for RPP contributions if you:
+
+- contributed more than $3,500 to an RPP in 2025 and your information slip shows a past service amount for a period before 1990
+
+- contributed an amount to an RPP in an earlier year, for a period before 1990, and you have not fully deducted that amount
+
+**Current service** is a period of service in the year, which is credited under your RPP by your employer. Current service contributions are amounts you contribute for that period of service.
+
+Generally, **past service** refers to a period of service with an employer in an earlier year that is later credited under the [defined benefit provision](#dbp) of your RPP. Past service contributions are amounts you contribute for that period of service. They may also include contributions you make to upgrade benefits for pensionable service you accrued in the past.
+
+You usually make your past service contributions in a lump-sum or by instalments. Your RPP may allow you to directly transfer amounts from other registered plans to pay for the cost of the past service benefits. For more information, refer to [Chart 6](#chrt_6).
+
+For more information on RPP contributions, refer to archived [Interpretation Bulletin IT-167R6, *Registered Pension Funds or Plans – Employee's Contributions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it167r6.html).
+
+### Fixing contribution errors in money purchase registered pension plans (2021 and subsequent years)
+
+Effective January 1, 2021, plan administrators of money purchase registered pension plans (MP RPPs) are able to correct for both under-contributions and over-contributions. They would be permitted to:
+
+- Correct certain types of errors through additional contributions to an employee’s account under a MP RPP to compensate for an under-contribution error made in any of the preceding 10 years, subject to a dollar limit. Such corrections are called Permitted Corrective Contributions (PCCs) and will be reported on [Form T215, *Past Service Pension Adjustment (PSPA) Exempt from Certification or Permitted Corrective Contribution (PCC)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t215.html)by the plan administrator.
+
+- Correct for pension over-contribution errors in respect of an employee for any of the 10 years prior to the year in which the excess amount is refunded to the contributor. Such corrections are called Pension Adjustment Corrections (PACs) and will be reported on [Form T10, *Pension Adjustment Reversal (PAR) or Pension Adjustment Correction (PAC)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t10.html)by the plan administrator.
+
+This measure would apply in respect of additional contributions made and amounts of over-contributions refunded in the 2021 and subsequent taxation years.
+
+To get additional information about RPPs, go to [Registered Pension Plans (RPPs)](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/about-registered-pension-plans-rpps.html).
+
+### Current service and past service contributions for 1990 or later years
+
+On line 20700 of your income tax and benefit return, you can deduct the amount shown in box 20 of your 2025 T4 slip (if there is no amount in box 74 or 75in the "Other information" area at the bottom of the slip) or on your union dues receipt. This amount includes:
+
+- current service contributions
+
+- past service contributions for 1990 or later years
+
+- permitted corrective contributions (PCCs)
+
+You can only deduct these contributions on your 2025 income tax and benefit return. You cannot deduct them for any other year.
+
+An amount in box 74 or 75 in the "Other information" area of your T4 slip indicates that part or the entire amount in box 20 is for past service before 1990. For more information, refer to [Past service contributions for 1989 or earlier years](#P190_14346). You can view your T4 and other tax information slips online by going to [My Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html).
+
+Pension benefits you earn on a past service basis for 1990 or later years may cause a PSPA. For more information, refer to [Past service pension adjustments (PSPAs)](#P2736_102191).
+
+### Past service contributions for 1989 or earlier years
+
+Calculate the amount you can deduct for past service contributions to an RPP for 1989 or earlier years based on whether the contributions were for service while you were a contributor or for service while you were not a contributor. [Chart 1](#chrt_1) will help you to determine the type of past service contributions you made for 1989 or earlier years.
+
+Past service contributions you made for 1989 or earlier years appear in boxes 20, 74, and 75of your 2025 T4 slip, in boxes 032, 126, and 162 of your 2025 T4A slip, or on a receipt that your plan administrator issued. You can view your T4, T4A, and other tax information slips online by going to [My](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html)[Account for Individuals.](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html)
+
+In some cases, you may be able to deduct for 2025 only part of the past service contributions you made. If this applies, you can carry forward the amount you cannot deduct to 2026 or later years. Future versions of this guide will help you calculate the amount you can deduct for 2026 or later years.
+
+If, for 2025, you deduct a carry-forward of past service contributions from an earlier year, attach a statement to your income tax and benefit return giving a breakdown of the amount of contributions you claimed for service while you were a contributor and for service while you were **not** a contributor.
+
+Fill out [Chart 2](#chrt_2) to calculate the amount of past service contributions you made for 1989 or earlier years that you can deduct for 2025.
+
+You can deduct a maximum of $3,500 for 2025 for past service contributions made for 1989 or earlier years for service while not a contributor to an RPP. The total amount you can deduct for all years is limited to $3,500 multiplied by the number of years or part years of service you bought back.
+
+### Interest on past service contributions
+
+If you elected **after** November 12, 1981, to make past service contributions and you make them in instalments, the annual instalment interest you pay is a past service contribution. Include this amount when you calculate how much you can deduct for past service contributions for 2025 on line 20700 of your income tax and benefit return.
+
+### Other deductions
+
+**Pension repayments** – If an individual repays to an RPP an overpayment of an amount received from the RPP that was included in their income for the year, or a preceding year, the individual can claim a deduction equal to the overpayment amount. The repayment must be for an amount that may reasonably be considered to have been paid from the RPP in error and not as an entitlement to benefits under the RPP. The individual cannot claim a deduction for the repayment if they are already claiming a deduction for this amount as a contribution to the RPP.
+
+In addition, the *[Income Tax Act](https://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html)*allows you to deduct repayments you made to your RPP in certain circumstances based on the two following acts:
+
+- the [*Public Service Superannuation Act*](http://laws.justice.gc.ca/eng/acts/P-36/)
+
+- the [*Royal Canadian Mounted Police Superannuation Act*](https://laws.justice.gc.ca/eng/acts/R-11/)
+
+For more information, refer to [Contact](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html)[the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+Generally, you cannot deduct contributions you made to pension plans in other countries. However, Canada has entered into income tax conventions or agreements, commonly known as tax treaties, with many countries that allow a deduction on your Canadian income tax and benefit return for some of those contributions.
+
+If you have contributed to a pension plan in another country, refer to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html)**.** The CRA only accepts collect calls made through telephone operators. After your call is accepted by an automated response, you may hear a beep and notice a normal connection delay. This service operates in Eastern Standard Time and is open Monday to Friday from 8 am to 8 pm and Saturday from 9 am to 5 pm.
+
+**Canada–United States commuters** – A resident of Canada, who works in the United States (commonly referred to as a "commuter"), and is a member of a [qualifying retirement plan](#qrp) in the United States, can deduct their contributions to that plan on their Canadian income tax and benefit return, as long they meet certain conditions and respect certain limits.
+
+The maximum amount that you can deduct for a year is the contributions you made in the year that are attributable to the work you performed in the year. This maximum is further limited to your [RRSP deduction limit](#rrsp_dl) for the year after reducing that limit by any RRSP contributions that you deducted for the year.
+
+The [qualifying retirement plan](#qrp) contributions you deduct for the year also reduce your [unused RRSP deduction room at the end of the year](#unused_deduction_room) that is carried forward and included in your following year's RRSP deduction limit. You can view your RRSP information online by going to [My](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html)[Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html).
+
+Depending on your situation, you will have to fill out either:
+
+- [Form RC267, *Employee Contributions to a United States Retirement Plan for Temporary Assignments*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc267.html)
+
+- [Form RC268, *Employee Contributions to a United States Retirement Plan for Cross-Border Commuters*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc268.html)
+
+- [Form RC269, *Employee Contributions to a Foreign Pension Plan or Social Security Arrangement for Non-United States Plans or Arrangements*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc269.html).
+
+These forms are available at [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+### Chart 1 – Buying back service or upgrading past service benefits for 1989 or earlier years – To determine if your RPP past service contribution is for service while you were a contributor or for service while you were not a contributor
+
+Use this chart to determine the type of period your contribution relates to. You can then use [Chart 2](#chrt_2) to calculate the amount you can deduct for that type of contribution.
+
+| **Step 1** **Does your past service contribution relate to any year in which you were contributing to any RPP?** If **yes**, go to Step 2. If **no**, your past service contribution is for service while not a contributor. Skip steps 2 and 3 below and fill out [Area B of Chart 2](#area_b_c2) to calculate the amount you can deduct for this contribution. | **Example** – Gilbert joined TTM Company’s RPP on February 4, 2025. This RPP allowed Gilbert to buy back 12 years of past service with CCD Company, a previous employer. During those 12 years (1977 to 1988), Gilbert contributed to CCD Company's RPP. Gilbert answers **yes** to this question because the past service contribution that he made in 2025 relates to a period of service while he contributed to CCD Company’s RPP. **Example** – André became a member of XTJ Company’s RPP in January 1990. He started working for XTJ in June 1989, but did not contribute to any RPP in 1989. In 2025, XTJ's RPP allows André to buy back your 1989 service with the company for $2,500. André answer **no** to this question because he did not contribute to any RPP in 1989. André's $2,500 contribution is for service while not a contributor. |
+
+| --- | --- |
+
+| **Step 2** **Did you make the past service contribution to the same RPP (and for the same year) that you contributed to during 1989 or an earlier year?** If **yes**, your past service contribution is for service while a contributor. Skip Step 3 below and fill out [Area C of Chart 2](#area_c_c2) to calculate the amount you can deduct for this contribution. If **no**, go to Step 3. | **Example** – Julie has been employed with YYW Ltd. since 1980 and has contributed to her employer's RPP ever since. In 2025, Julie makes a past service contribution of $8,000 to upgrade past service benefits that were previously credited under the RPP from 1980 to 1988. Julie answers **yes**to this question because she made the past service contribution to the same RPP that she contributed to from 1980 to 1988. Julie's $8,000 contribution is for service while a contributor. **Example** – Véronique changed employers in May 1987 and became a member of her new employer's RPP. She was a member of a different RPP from May 1980 until May 1987. Her new employer's RPP allowed her to buy back the past service with her previous employer. Véronique bought this service in July 1987. She answers **no**to this question because she did not make the past service contribution to the same RPP that she contributed to from May 1980 to May 1987. |
+
+| **Step 3** **Does one of the following statements apply to you?** You made the past service contribution before March 28, 1988. You made the past service contribution under the terms of a written agreement entered into before March 28, 1988. If you answer **yes** to one of the above statements, your past service contribution is for service while not a contributor. Fill out [Area B of Chart 2](#area_b_c2) to calculate the amount you can deduct for this contribution. If you answer **no** to both of the above statements, your past service contribution is for service while a contributor. Fill out [Area C of Chart2](#area_c_c2) to calculate the amount you can deduct for this contribution. | **Example** – Pauline joined DEF Company's RPP on January 15, 1988. This RPP allowed Pauline to buy back her six years of past service with ABC Company, her previous employer. During those six years, Pauline contributed to ABC Company's RPP. The ABC Company's RPP had a portability arrangement. Pauline entered into a written agreement on March 1, 1988, to buy back those six years of past service. Pauline has to contribute $400 each year for 35 years to pay for this service. Pauline answers **yes**, since one of the statements applies to Pauline (she made the past service contribution under the terms of a written agreement she entered into before March 28, 1988). Pauline's $400 yearly contribution is for service while not a contributor. **Example** – Roland is a member of his current employer's RPP. Roland entered into an agreement on April 12, 1990, to buy back (for $12,000) past service benefits for a period of service in 1988 and 1989 with another employer when he contributed to a different RPP. Roland answers **no**, since neither statement applies to Roland (he did not make the past service contribution before March 28, 1988, and did not make the past service contribution under the terms of a written agreement entered into before March 28, 1988). Roland's $12,000 contribution is for service while a contributor. |
+
+#### Calculating your 2025 deduction for your RPP contributions
+
+Éric has been working for his employer and has participated in the company’s RPP since 1997. Éric previously worked for his current employer from 1984 to 1994. The RPP would allow him to have that entire period of past service to be recognized as pensionable service if he chose to. In Éric’s plan, the past service is broken into periods before 1990, while he was a contributor and not a contributor, and for his service after 1989.
+
+For the period of service from 1984 to 1986, Éric **was not a contributor** to an RPP, and the plan requires that he pay his and the employer’s share to fund the past service; this amount is $12,000.
+
+For the period of service from 1987 to 1989, Éric **was a contributor** to the RPP, and the plan requires that he pay his share to fund the past service. This amount is $13,500.
+
+Likewise, the period of service from 1990 to 1994, Éric **was a contributor** to the RPP, and the plan requires that he pay his share to fund the past service. This amount is $18,500. The total cost to Éric for his past service request will be $44,000.
+
+The RPP would allow him to fund this past service with a cash payment or a transfer of funds or both, from another registered plan, like an RRSP.
+
+In order to buy back his past service, Éric makes a cash payment of $44,000 in 2025. Éric will receive a T4A slip showing $44,000 in box 032 for the total past service contributions, $13,500 in box 126 for pre-1990 past service contributions while a contributor, and $12,000 in box 162 for pre-1990 past service contributions while not a contributor.
+
+Éric is a member of the RPP and has current (2025) service contributions of $5,000. With his past service contributions, his total contribution for service that relates to 1990, or later years is $23,500 ($18,500 + $5,000).
+
+Éric fills out [Chart 2](#chrt_2) to calculate the amount of contributions that he can deduct from income for 2025.
+
+**Area A** calculates the amount of contributions for service that relates to 1990 or later years that is deductible for 2025. The amount on line 3 is entirely deductible for 2025. For Éric this amount is $23,500.
+
+**Area B** calculates the amount of contributions for service that relates to 1989 or earlier years while not a contributor that is deductible for 2025. For Éric the amount that is deductible in 2025 is $3,500. Éric will be able to claim $3,500 in each year for 2026 and 2027. Éric will not be able to deduct the last $1,500 because the maximum total amount he can deduct for all years is limited to $3,500 multiplied by the number of years he bought back.
+
+**Area C** calculates the amount of contributions for service that relates to 1989 or earlier years while a contributor that is deductible in 2025. For Éric, the amount that is deductible in 2025 is $0. Once Éric no longer claims any deductions under Areas A and B, he will be able to deduct $3,500 each year until his $13,500 contribution is fully deducted.
+
+**Area D** summarizes the total amount from Areas A, B, and C and calculates the amount that can be deducted from income in 2025.
+
+### Chart 2 – Calculating your 2025 deduction for your RPP contributions
+
+|  | **Area A – Fill out this area if you made a current service contributions or permitted corrective contributions in 2025,or if you made past service contributions in 2025 for service that relates to 1990 or later years. If you do not have to fill out this area, enter "0" on [line 21](#line_21).** |  |  | **Example from above** |  |
+
+| --- | --- | --- | --- | --- | --- |
+
+| 1. | Enter the total of all amounts from box 20 of your 2025 T4 slips, box 032 of your 2025 T4A slips, or from your receipts for union dues that represent RPP contributions | $ | __________**1** | $49,000 | **1** |
+
+| 2. | Enter the amount from boxes 74 and 75 of the "Other information" area of your T4 slip and boxes 126 and 162 of your T4A slip that represents past service contributions made for service that relates to 1989 or earlier years while a contributor or while not a contributor | $ | _________ **2** | $25,500 | **2** |
+
+| 3. | Line 1 **minus** line 2. This is the amount of your current service and past service contributions for 1990 and later years that you deduct for 2025. Enter this amount on [line 21 of Area D](#area_d_c2) | $ | **_________** **3** | $23,500 | **3** |
+
+|  | **Area B – Fill out this area if you made past service contributions for service that relates to 1989 or earlier years while not a contributor (for deceased individuals, ignore any reference to line 7).** |  |  | **Example from above** |  |
+
+| --- | --- | --- | --- | --- | --- |
+
+| 4. | Enter the total amount you contributed in 2025 or earlier years for past service contributions while not a contributor | $ | $_________**4** | $12,000 | **4** |
+
+| 5. | Enter the amount you deducted before 2025 for contributions you entered on line 4 | – | $________ **5** | $ 0 | **5** |
+
+| 6. | Line 4 **minus** line 5 | = | $________ **6** | $12,000 | **6** |
+
+| 7. | Annual deduction limit |  | $3,500 **7** | $ 3,500 | **7** |
+
+| 8. | Number of years [Footnote1](#fn1) of service to which the contributions on line 4 relate by the annual deduction limit _______ x $3,500 | ► | $________ **8** | 3 x 3500 $10,500 | **8** |
+
+| 9. | Enter the amount from line 5 | – | $________ **9** | $ 0 | **9** |
+
+| 10. | Line 8 **minus** line 9 | = | $________**10** | $10,500 | **10** |
+
+| 11. | Enter the amount from line 6, 7, or 10, **whichever is less**. This is the amount of your past service contributions for 1989 and earlier years for service while not a contributor that you can deduct for 2025. Enter the amount you deduct for 2025 on line 22 of Area D. [Footnote2](#fn2) |  | $________**11** | $ 3,500 | **11** |
+
+|  | **Area C – Fill out this area if you made past service contributions for service that relates to 1989 or earlier years while a contributor (for deceased individuals, ignore any reference to lines 15 to 19).** |  |  |  |  |  | **Example from above** |  |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| 12. | Enter the total amount you contributed in 2025 or earlier years for past service contributions while a contributor |  |  |  | $_________**12** |  | $13,500 | **12** |
+
+| 13. | Enter the amount you deducted before 2025 for contributions you entered on line 12 |  |  | – | $________ **13** |  | $ 0 | **13** |
+
+| 14. | Line 12 **minus** line 13 |  |  | = | $________ ► | $________**14** | $13,500 | **14** |
+
+| 15. | Annual deduction limit |  |  |  | $3,500 **15** |  | $ 3,500 | **15** |
+
+| 16. | Enter the amount from [line 3 in Area A](#line3_area_a) that you deduct for 2025 |  | $________**16** |  |  |  | $23,500 | **16** |
+
+| 17. | Enter the amount from [line 11 in Area B](#line11_area_b) that you deduct for 2025 | + | $________**17** |  |  |  | $ 3,500 | **17** |
+
+| 18. | Line 16 **plus** line 17 | = | $________► | – | $________**18** |  | $27,000 | **18** |
+
+| 19. | Line 15 **minus** line 18 (if negative, enter "0" |  |  |  | $________ ► | $________**19** | $ 0 | **19** |
+
+| 20. | Enter the amount from line 14 or 19, **whichever is less**. This is the amount of your past service contributions for 1989 and earlier years for service while a contributor that you can deduct for 2025. Enter the amount you deduct for 2025 on [line 23 of Area D](#line23_area_d) |  |  |  |  | $________**20** | $ 0 | **20** |
+
+|  | Area D – Fill out this area to calculate the total amount you can deduct on line 20700 of your 2025 income tax and benefit return. |  |  | Example from above |  |
+
+| --- | --- | --- | --- | --- | --- |
+
+| 21. | Enter the amount from [line 3 in Area A](#line3_area_a) that you deduct for 2025 (if you did not fill out Area A, enter "0") |  | $_________**21** | $23,500 | **21** |
+
+| 22. | Enter the part of the amount from [line 11 in Area B](#line11_area_b) that you deduct for 2025 | + | $________ **22** | $ 3,500 | **22** |
+
+| 23. | Enter the part of the amount from [line 20 in Area C](#line20_area_c) that you deduct for 2025 | + | $________ **23** | $ 0 | **23** |
+
+| 24. | **Add** lines 21 to 23. Enter this amount on line 20700 of your 2025 income tax and benefit return | = | $________ **24** | $27,000 | **24** |
+
+## Chapter 2 – RRSP contributions
+
+This chapter has general information on contributing to your RRSPs or your spouse's or common-law partner's RRSPs, as well as information on calculating your 2025 RRSP deduction limit.
+
+The rules the CRA explains in this chapter apply to all RRSPs and, unless otherwise stated, SPPs and PRPPs.
+
+March 2, 2026, is the deadline for contributing to an RRSP for the 2025 tax year.
+
+**Canada Savings Bonds** – You can transfer your holdings of past series compound-interest Canada Savings Bonds to your RRSPs or your spouse's or common-law partner's RRSPs. The amount you transfer is considered a contribution to the RRSP. For more information, contact your RRSP issuer.
+
+**Self-directed RRSPs** – These RRSPs allow you to control the assets and make the investment decisions yourself. This is not applicable for PRPPs and SPPs. Your financial institution can tell you if it offers self-directed RRSPs. The issuer (such as a bank, credit union, trust, or insurance company) can take care of the administrative details, including getting the plan registered, receiving the amounts you contribute, and trading securities. **Securities cannot be held in your own name**.
+
+**Qualified Investments** – You should pay particular attention to the type of investments you choose for your plan. If you buy non-qualified investments in your RRSP or RRIF, or if qualified investments held in your RRSP or RRIF become non-qualified, there are tax implications.
+
+The rules include a tax on the [annuitant](#annuitant) of an RRSP or a RRIF that acquires a prohibited investment. For more information on anti-avoidance rules, refer to [Chapter 4 – Anti-avoidance rules for RRSPs and RRIFs](#P2239_62895) and [Income Tax Folio S3–F10–C1, *Qualified Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html), or contact your RRSP issuer.
+
+### How to claim your RRSP deduction
+
+On line 20800 of your income tax and benefit return, you can deduct RRSP contributions you made up to the limits the CRA explains in the following sections.
+
+Your RRSP issuer will give you a receipt for the amounts you contributed. If you contributed to your spouse's or common-law partner's RRSP, the receipt should show your name as the contributor and your spouse's or common-law partner's name as the [annuitant](#annuitant). Attach the receipt(s) with your income tax and benefit return to support the amount you deducted. If you are using electronic filing (EFILE, NETFILE), show your receipts to your income tax service provider and keep them in case the CRA asks to see them.
+
+If you are using the NETFILE service, also keep your receipts in case the CRA asks to see them. If you do not get your receipts before the filing deadline, refer to [Tax slips](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/tax-slips.html) and select "Missing slips or receipts" for more information.
+
+If you are deducting an amount for 2025 in respect of contributions that you made before March 4, 2025, but had not previously deducted, you should have filled out and sent a [Schedule 7, *RRSP, PRPP, and SPP Contributions and Transfers, and HBP and LLP Activities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html), for these contributions, for each particular year. If you did not, you should fill out and send a copy of the appropriate [Schedule 7](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html) for each year, along with the appropriate RRSP receipts, to your tax centre. Send these separate from your 2025 income tax and benefit return.
+
+### Age limit for contributing to an RRSP
+
+The year you turn 71 is the last year in which you can make a contribution to your RRSP.
+
+You can contribute to an RRSP under which your spouse or common-law partner is the annuitant until the end of the year your spouse or common-law partner turns 71.
+
+### Contributing to your RRSPs
+
+This section will help you determine how much of your RRSP contributions you can deduct on line 20800 of your 2025 income tax and benefit return.
+
+#### How much can you deduct
+
+The amount of RRSP contributions that you can deduct for 2025 is based on your 2025 RRSP deduction limit, which appears on your latest notice of assessment or notice of reassessment, or on Form T1028, *Your RRSP, HBP, LLP, or FHSA information for 2025*.
+
+You can also deduct amounts for certain income you transfer to your RRSP. Your RRSP deduction limit is not reduced by these amounts. For more information on transfers, refer to [Chapter 6 – Transfers to registered plans or funds and annuities](#P2464_83200).
+
+Any income you earn in your RRSP is usually exempt for the time the funds remain in the plan.
+
+However, in respect of your RRSP, you cannot:
+
+- claim a deduction for capital losses within your RRSP
+
+- claim a deduction for amounts you pay for administration services for an RRSP
+
+- deduct brokerage fees charged to buy and dispose of securities within a trusteed RRSP
+
+- deduct the interest you paid on money you borrowed to contribute to an RRSP
+
+If the CRA reassesses a previous years’ income tax and benefit return, your revised 2025 RRSP deduction limit will appear on the notice of reassessment or, in some cases, on Form T1028. The CRA will also send you the Form T1028 with a new RRSP deduction limit if your RRSP deduction limit has changed for reasons other than a reassessment of a previous year’s income tax and benefit return.
+
+If you do not have a copy of your notice of assessment or reassessment nor a Form T1028, you can find out the amount of your RRSP deduction limit by:
+
+- going to [My Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html)
+
+- or refer to [Contact the Canada revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html)
+
+If you are a Canadian who works in the United States, refer to [Other deductions](#P205_17886).
+
+#### Calculating your 2025 RRSP deduction limit
+
+Your 2025 [RRSP deduction limit](#rrsp_dl) is shown on your latest notice of assessment or notice of reassessment. The CRA determines your 2025 RRSP deduction limit from information on your 2024 and previous years’ income tax and benefit returns, and from information the CRA keeps on record. If any of that information changes, your RRSP deduction limit may also change. If the RRSP deduction limit and available contribution room statement does not include your latest notice of assessment or reassessment or if you have not received a Form T1028, *Your RRSP, HBP, LLP, or FHSA information for 2025*, you can find out the amount of your 2025 RRSP deduction limit by:
+
+- going to [My Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html)
+
+- or refer to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html)
+
+### Contributions you can deduct for 2025
+
+For 2025, you can deduct contributions you made to your or your spouse's or common-law partner's RRSP or SPP from January 1, 1991, to March 2, 2026.
+
+You can also deduct contributions you made to your PRPP from January 1, 2013, to March 2, 2026 (do not include your employer's contributions). You can deduct these contributions if you did not deduct them for any other year, and if they are not more than your RRSP deduction limit for 2025. Even if you can no longer contribute to your RRSP in 2025 because of your age, you can deduct your [unused RRSP, PRPP and SPP contributions](#Unused_RRSP) up to your [RRSP deduction limit](#RRSP_Limit).
+
+**The Home Buyers' Plan (HBP) and the Lifelong Learning Plan (LLP)** – If you participate in the HBP or LLP, you may not be able to deduct, for any year, all or part of the contributions you made to your RRSP during the 89-day period just before you withdrew an amount under either of these plans. To determine the part of the contributions you made to your RRSP that you cannot deduct, go to [The Home buyers' Plan](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan.html) or [Lifelong Learning Plan](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/lifelong-learning-plan.html)*,*whichever applies.
+
+### Contributing to your spouse's or common-law partner's RRSP or SPP, or both
+
+Generally, the total amount you can deduct on line 20800 of your 2025 income tax and benefit return for contributions you make to your spouse’s or common-law partner’s RRSP or SPP and to your own RRSP, PRPP, or SPP cannot be more than your 2025 [RRSP deduction limit](#rrsp_dl).
+
+Michel’s 2025 RRSP deduction limit was $10,000. He contributed $4,000 to his RRSP and $6,000 to his common‑law partner’s RRSP. Michel chose to deduct the entire $4,000 of his personal RRSP contributions, but only $5,500 of the $6,000 contribution to his common‑law partner’s RRSP, for a total deduction of $9,500 on line 20800 of his 2025 income tax and benefit return. Michel used [Schedule 7, *RRSP, PRPP and SPP Contributions and Transfers and HBP and LLP Activities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html), to keep track of his RRSP contributions. He may be able to deduct the remaining $500 ($10,000 − $9,500) on a future year’s income tax and benefit return. To find out what other options are available, refer to [Unused](#P2119_46862)[RRSP, PRPP, or SPP contributions](#P2119_46862).
+
+If you cannot contribute to your RRSP, PRPP, or SPP because of your age, you can still contribute to your spouse's or common-law partner's RRSP or SPP until the end of the year they turn 71.
+
+**Contributions made after death** – No contributions can be made to a deceased individual's RRSP, PRPP, or SPP after their date of death. However, the deceased individual's legal representative can make contributions to the surviving spouse's or common-law partner's RRSP or SPP in the year of death or during the first 60 days after the end of that year. Contributions made to a spouse's or common-law partner's RRSP or SPP can be claimed on the deceased individual's income tax and benefit return up to that individual's RRSP deduction limit for the year of death.
+
+Jacques died in August 2025. Jacques's 2025 RRSP deduction limit is $7,000. Before he died, Jacques did not contribute to either his RRSP or his spouse's RRSP for 2025. His spouse Claire is 66 years of age in 2025. On Jacques's behalf, his legal representative can contribute up to $7,000 to Claire's RRSP for 2025. The legal representative can then claim an RRSP deduction of up to $7,000 on line 20800 of Jacques's 2025 final income tax and benefit return.
+
+If you made contributions to your spouse’s or common-law partner’s RRSPs or SPP in 2023, 2024, or 2025, and your spouse or common-law partner withdrew amounts from their spousal or common-law partner RRSPs or SPP, you may have to include all or part of those withdrawn amounts in your 2025 income. For more information, refer to [Amounts paid from or into a spousal or common-law partner RRSP, RRIF, or SPP](#from_spp).
+
+**The HBP and the LLP**– If your spouse or common-law partner participates in the HBP or LLP, you may not be able to deduct, for any year, all or part of the contributions you made to your spouse's or common-law partner's RRSP during the 89-day period just before your spouse or common-law partner withdrew an amount under either of these plans. To determine the part of the contributions you made to your spouse's or common-law partner's RRSP that you cannot deduct, go to [The Home buyers' Plan (HBP)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan.html) or [Lifelong Learning Plan](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/lifelong-learning-plan.html).
+
+If you have a payment arrangement contract with a financial institution to make contributions to your own RRSP or to your spouse's or common-law partner's RRSP, you can use [Form T1213, *Request to Reduce Tax Deductions at Source*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1213.html), to request authorization for your employer to reduce your tax deductions at source.
+
+### Keeping track of your RRSP, PRPP, and SPP contributions – Schedule 7
+
+Use [Schedule 7, *RRSP, PRPP and SPP Contributions and Transfers and HBP and LLP Activities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html), to keep track of your [RRSP, PRPP, and SPP contributions](#rrsp_c).
+
+If you made contributions to your RRSP, PRPP, or SPP, or your spouse’s or common‑law partner’s RRSP or SPP from March 4, 2025, to March 2, 2026, and you are not deducting the total contributions on your 2025 income tax and benefit return, attach a completed Schedule 7 to your 2025 income tax and benefit return. If you have already filed your income tax and benefit return, fill out Schedule 7 and send it to your tax centre **with** **your RRSP, PRPP or SPP receipts** and a note that includes both your name and social insurance number.
+
+For PRPP contributions, only **your** PRPP contributions are deductible on your income tax and benefit return. You cannot deduct any contributions made by your employer. Employer contributions must be reported separately on line 20810 of the income tax and benefit return.
+
+You may not have to fill out Schedule 7. To find out, read the information at the top of the schedule. If you do have to fill it out, you will find information below about lines 1, 2, 3, 7, 8, 15, 18, and 24 to 28.
+
+### Line 1 – Unused RRSP, PRPP, and SPP contributions
+
+These are amounts you contributed to your own RRSP, PRPP, or SPP, or to an RRSP or SPP for your spouse or common‑law partner after 1990, but did not deduct on line 20800 (line 208 for 2018 and prior tax years), of any previous income tax and benefit return, or designate as an HBP or LLP repayment.
+
+The total of these amounts is identified on the “Unused RRSP contributions previously reported and available to deduct for 2025” line on your 2025 RRSP deduction limit and available contribution room statement. These amounts are shown on:
+
+- your latest notice of assessment, or notice of reassessment
+
+- Form T1028, *Your RRSP, HBP, LLP, or FHSA information for 2025*, if you reported them on a previous year's [Schedule 7](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html)
+
+If you do not have your notice of assessment, notice of reassessment, or Form T1028, you can find out if you have unused RRSP, PRPP, or SPP contributions by:
+
+- going to [My Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html)
+
+- or refer to [Contact the Canada revenue Agency](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html)
+
+If you have unused RRSP, PRPP, or SPP contributions made from March 1, 2024, to March 3, 2025, you should have sent a completed Schedule 7 with your 2024 income tax and benefit return. If you did not, you should submit your receipts with a completed 2024 Schedule 7. **Send these separate from your income tax and benefit return for 2025. Do not include** them with your income tax and benefit return for 2025.
+
+If you have unused contributions you made from January 1, 1991, to February 29, 2024, but did not report this on a Schedule 7 **for 2023**or earlier, contact us.
+
+By doing so, you will avoid having your deduction **reduced** or **disallowed** for contributions made in the first 60 days of the year or in an earlier year. If you have not already filed your receipts, submit them with your Schedule 7. If you did not receive a copy of Schedule 7 with your income tax package, go to [Forms and Publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html), or [Contact the Canada revenue Agency](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+You may have to pay a tax if you have RRSP excess contributions. For more information, refer to [Tax on RRSP excess contributions](#P2144_51601).
+
+For information on unused PRPP contributions, refer to [Contributions to a PRPP](#cont_prpp).
+
+### Lines 2 and 3 – Total RRSP, PRPP and SPP contributions
+
+This total includes all amounts you:
+
+- contributed to your own RRSP from March 4, 2025, to March 2, 2026
+
+- contributed to your spouse or common law partner’s RRSP from March 4, 2025, toMarch 2, 2026
+
+- contributed to your account, or your spouse's or common-law partner's account, under an SPP from March 4, 2025, to March 2, 2026
+
+- contributed to your PRPP from March 4, 2025, to March 2, 2026 (do not include your employer’s PRPP contributions)
+
+- transferred to your own RRSP (refer to [Line 15 – Transfers](#line15))
+
+- designated as HBP or LLP repayments (refer to [Lines 7 and 8 – Contributions designated as a repayment under the HBP and the LLP](#lines6and7))
+
+Include on these lines **all** contributions you made from March 4, 2025, to March 2, 2026, even if you are **not deducting** or **designating** them on your income tax and benefit return for 2025. Otherwise, the CRA may reduce or disallow your claim for these contributions on your income tax and benefit return for a future year.
+
+If your taxable income is expected to increase in future years, it may be more beneficial for you to claim only part of your contributions for the 2025 tax year.
+
+You do not have to claim the full amount of your deductible RRSP, PRPP, or SPP contributions for 2025 (not including transfers). The contributions you do not claim for 2025 may be carried forward and claimed for future years when you may be subject to a higher tax rate.
+
+In all cases, you **must** record the total contributions you made on line 2 or 3 and line 24500 of your 2025 [Schedule 7](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html).
+
+**Do not include**the following amounts:
+
+- Any unused RRSP, PRPP, or SPP contributions you made on or after March 4, 2025, refunded to you or your spouse or common-law partner in 2025. Report the refund of RRSP contributions on line 12900 of your income tax and benefit return. If you received a refund of your PRPP contributions, report those amounts on line 11500 if you are 65 or older at the end of the year, or if, regardless of your age, you received the amount on the death of your spouse or common-law partner. Report these amounts on line 13000 in all other cases. Refunded SPP contributions are reported on line 11500 of your income tax and benefit return. You may be able to claim a deduction on line 23200. For more information, refer to [Unused RRSP, PRPP, or SPP contributions](#P2119_46862)
+
+- Part or all of the contributions you made to your RRSP or an RRSP for your spouse or common-law partner less than 90 days before either of you withdrew funds from that RRSP under the HBP or the LLP. For more information, go to [The](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan.html)[Home Buyers' Plan](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan.html) or [Lifelong Learning Plan](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/lifelong-learning-plan.html).
+
+- Any PRPP contributions made by your employer. For more information, refer to [Employer contributions](#emp_cont)
+
+- Contributions you made to your RRSP used to cancel a withdrawal under the HBP or LLP.
+
+You cannot withdraw funds from an SPP or a PRPP under the HBP or the LLP. However, SPP and PRPP contributions can be designated as an HBP or an LLP repayment.
+
+- Any amount directly transferred to your RRSP if you did not receive an information slip or if it is shown in box 35 of your T4RSP or T4RIF slips
+
+- The part of an RRSP withdrawal that you re-contributed to your RRSP and deducted on line 23200. This would have happened if, in error, you withdrew more RRSP funds than necessary to receive past-service benefits under an RPP
+
+- The excess part of a direct transfer of a lump-sum payment from your RPP to an RRSP, a PRPP, an SPP, or a RRIF that you withdrew and are including on line 11500, line 12900, or line 13000 of your income tax and benefit return for 2025 and deducting on line 23200
+
+### Lines 7 and 8 – Contributions designated as a repayment under the HBP and the LLP
+
+#### Temporary repayment relief for HBP
+
+In 2024, a temporary repayment relief was introduced to defer the start of the 15-year repayment period by an additional three years for participants making a first withdrawal between January 1, 2022, and December 31, 2025. Accordingly, the 15-year repayment period would start the fifth year following the year in which a first withdrawal was made.
+
+For example:
+
+- if you made your first withdrawal in 2021, your first year of repayment will be 2023 per the regular payment rule
+
+- if you made your first withdrawal in 2022, your first year of repayment will be 2027
+
+- if you made your first withdrawal in 2023, your first year of repayment will be 2028
+
+- if you made your first withdrawal in 2024, your first year of repayment will be 2029
+
+- if you are going to make your first withdrawal in 2025, your first year of repayment will be 2030
+
+Where the repayment relief does not apply, the current rule applies. Therefore, if you made your first withdrawal before January 1, 2022, your repayment period started the second year after the year you made your first withdrawal from your RRSP under the HBP. For example, if you made your first withdrawal in 2020, your first year of repayment was 2022.
+
+If you withdrew funds from your RRSP under the LLP before 2024, you may have to make a repayment for 2025. Your 2025 minimum required repayment is shown on your latest notice of assessment, notice of reassessment, or Form T1028.
+
+If the temporary repayment relief for HBP does not apply to you. To make a repayment under the HBP or the LLP for 2025, designate your contribution to your **own** RRSP, PRPP, or SPP from January 1, 2025, to March 2, 2026, as a repayment on line 7 or 8 of [Schedule 7](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html). You cannot designate contributions that you make to your spouse’s or common-law partner’s RRSP or SPP. Do not include an amount you deducted or designated as a repayment on your 2024 income tax and benefit return or that was refunded to you. **Do not send your repayment to the CRA**. You cannot deduct any RRSP, PRPP, or SPP contribution you **designate as an HBP or an LLP repayment** on Schedule 7. To view your HBP or LLP information, go to [My](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html)[Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html).
+
+If you repay less than the minimum required repayment for 2025, you have to report the difference as income on line 12900 of your income tax and benefit return.
+
+### Line 15 – Transfers
+
+You may have reported income on line 11500, 12900, or 13000 of your income tax and benefit return for 2025. If you contributed certain types of this income to your own RRSP on or before March 2, 2026, you could deduct this contribution, called a **transfer**, in addition to any RRSP contribution you make based on your RRSP deduction limit for 2025.
+
+For example, if you received a retiring allowance or severance pay in 2025, you would report it on line 13000 of your income tax and benefit return. You can contribute to your RRSP up to the eligible part of that income (box 66 of your T4 slips or box 47 of your T3 slips) and deduct it as a transfer. Include the amounts you transfer on lines 2 or 3, 24640 and 15 of [Schedule 7](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html).
+
+For more information about amounts you can transfer, refer to [Chapter 6 – Transfers to registered plans or funds and annuities](#P2464_83200).
+
+### Line 18 – RRSP, PRPP, or SPP contributions you are deducting for 2025
+
+Include on this line amounts that you contributed to your RRSP, PRPP, or SPP, or to your spouse’s or common-law partner’s RRSP or SPP that you will be deducting on your 2025 income tax and benefit return. This amount cannot be more than line 17.
+
+You can carry forward indefinitely any part of your RRSP deduction room accumulated after 1990 that you do not use.
+
+Your RRSP deduction limit for 2025 is shown on your latest notice of assessment, notice of reassessment, or Form T1028, *Your RRSP, HBP, LLP, or FHSA information for 2025*.
+
+If you do not have your notice of assessment, notice of reassessment, or Form T1028, you can find out your RRSP deduction limit for 2025 by:
+
+- going to [My Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html)
+
+- or refer to [Contact the Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html)
+
+If you would like to calculate your RRSP deduction limit for 2025, use [Chart 3](#chrt_3).
+
+You may not have reported income you received in a previous year on an income tax and benefit return for that year. If reported, that income may have provided you with additional room for which you could contribute to an RRSP, PRPP, or SPP in subsequent years. To ensure your RRSP deduction limit is up to date and maximized, file an income tax and benefit return for all years you have not filed and report your income.
+
+### Lines 24 to 27 – 2025 withdrawals under the HBP and the LLP
+
+On line 24, enter the total of your HBP withdrawals for 2025 from box 27 of your T4RSP slips. Tick the box at line 25 if the address of the home you acquired with these withdrawals is the same as the address on page 1 of your income tax and benefit return.
+
+On line 26, enter the total of your LLP withdrawals for 2025 from box 25 of your T4RSP slips. Tick the box at line 27 to designate that your spouse or common-law partner was the student for whom the funds were withdrawn. If you do not tick the box, you will be considered to be the student for LLP purposes. You can change the person you designate as the student only on the income tax and benefit return for the year you make your first withdrawal.
+
+Go to [Lifelong](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/lifelong-learning-plan.html)[Learning Plan](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/lifelong-learning-plan.html)for more information about:
+
+- when you have to make your repayments
+
+- what rules apply when the person who made the withdrawal dies, turns 71 years of age, or becomes a non-resident
+
+### Line 28 – Contributions to an amateur athlete trust
+
+On line 28, enter the qualifying performance income contributed to an amateur athletic trust in 2025.
+
+### Chart 3 – Calculate your 2025 RRSP deduction limit
+
+The line numbers in brackets refer to the line numbers on your 2024 income tax and benefit return.
+
+#### Step 1 – Calculate your unused RRSP deduction room at the end of 2024
+
+| 1. | Enter your RRSP deduction limit for 2024[Footnote3](#fn3) |  | $ | _________ | 1 |
+
+| --- | --- | --- | --- | --- | --- |
+
+| 2. | Enter the total RRSP, PRPP, and SPP contributions, that you deducted on line 20800. Do not include amounts you deducted for transfers of payments or benefits to an RRSP, or the excess amount you withdrew from your RRSP in connection with the certification of a provisional PSPA that you recontributed to your RRSP in 2024 | – | $ | _________ | **2** |
+
+| 3. | Enter the total 2024 employer PRPP contributions reported on line 20810[Footnote3](#fn3) | – | $ | _________ | **3** |
+
+| 4. | Line 1 **minus** line 2 and line 3. This is your unused RRSP deduction room at the end of 2024. This amount can be negative. Enter this amount on [line 42](#line_42) | = | $ | _________ | **4** |
+
+#### Step 2 – Calculate your 2024 earned income (include each amount only once in this step)Footnote 4
+
+| 5. | **Total** of line 10100 and 10400 on your income tax and benefit return |  |  |  |  |  | $ | _________ | **5** |  |  |  |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| 6. | Royalties for a work or invention that you authored or invented (line 10400) |  | $ | _________ | **6** |  |  |  |  |  |  |  |
+
+| 7. | Net research grants you received (line 10400) | + | $ | _________ | **7** |  |  |  |  |  |  |  |
+
+| 8. | Supplementary unemployment benefit plan payments that you received (line 10400) | + | $ | _________ | **8** |  |  |  |  |  |  |  |
+
+| 9. | Wage Earner Protection Program payments you received (line 10400) | + | $ | _________ | **9** |  |  |  |  |  |  |  |
+
+| 10. | **Add** lines 6 to 9 | = | $ | _________ | ► | – | $ | _________ | **10** |  |  |  |
+
+| 11. | Line 5 **minus** line 10 |  |  |  |  | = | $ | _________ | **11** |  |  |  |
+
+| 12. | Annual union, professional, or like dues (line 21200) that relate to the employment earnings you reported on line 5 above |  | $ | _________ | **12** |  |  |  |  |  |  |  |
+
+| 13. | Employment expenses (line 22900) that relate to the employment earnings you reported on line 5 above | + | $ | _________ | **13** |  |  |  |  |  |  |  |
+
+| 14. | Line 12 **plus** line 13 | = | $ | _________ | ► | – | $ | _________ | **14** |  |  |  |
+
+| 15. | Line 11 **minus** line 14 (if negative, enter "0") |  |  |  |  | = | $ | _________ | ► | $ | _________ | **15** |
+
+| 16. | Amount from line 10 above | + | $ | _________ | **16** |
+
+| --- | --- | --- | --- | --- | --- |
+
+| 17. | **Net** income from a business (excluding distributions from an amateur athletic trust) you carried on alone or as an active partner (lines 13500 to 14300). Enter losses on line 24 | + | $ | _________ | **17** |
+
+| 18. | Postdoctoral fellowship income (not otherwise reported as self‑employment income on line 17) [Footnote5](#fn5) | + | $ | _________ | **18** |
+
+| 19. | Disability payments you received from the Canada Pension Plan or Quebec Pension Plan (line 11410) | + | $ | _________ | **19** |
+
+| 20. | **Net** rental income from real property (line 12600). Enter losses on line 26 | + | $ | _________ | **20** |
+
+| 21. | Total taxable support payments you received in 2024. Also, the support payments you previously paid and deducted for the year in which you paid them but that were later repaid to you and that you included as income for 2024 (line 12800) | + | $ | _________ | **21** |
+
+| 22. | Enter the qualifying performance income contributed to an amateur athletic trust in 2024 | + | $ | **_________** | **22** |
+
+| 23. | **Add** lines 15 to 22 | = | $ | _________ | **23** |
+
+| 24. | Current‑year loss from a business you carried on alone or as an active partner (lines 13500 to 14300) |  | $ | _________ | **24** |
+
+| 25. | Amount included on line 17 above that represents the taxable portion of gains on the disposition of eligible capital property | + | $ | _________ | **25** |
+
+| 26. | Current‑year rental loss from real property (line 12600) | + | $ | _________ | **26** |
+
+| 27. | Enter the total deductible payments you made in 2024, and the support payments you received and included as income for the year in which you received them that you later repaid in 2024 or the previous two years and deducted for 2024 (line 22000) | + | $ | _________ | **27** |
+
+| 28. | **Add** lines 24 to 27 | = | $ | _________ | **28** |
+
+| 29. | Line 23 **minus** line 28. This amount is your 2024 earned income | = | $ | _________ | **29** |
+
+**Step 3 – RRSP limit for 2025**
+
+| 30. | Enter the amount from line 29 $ ___________ x 18% ► | = | $ | _________ | **30** |
+
+| --- | --- | --- | --- | --- | --- |
+
+| 31. | RRSP dollar limit for 2025 | – | $ | 32,490 | **31** |
+
+| 32. | Enter the amount from line 30 or 31, **whichever is less** | – | $ | _________ | **32** |
+
+**Step 4 – Your 2024 pension adjustment (PA)**
+
+| 33. | Enter your 2024 PA (the total from box 52 of your 2024 T4 slips andbox 034 of your 2024 T4A slips) [Footnote6](#fn6) | – | $ | _________ | **33** |
+
+| --- | --- | --- | --- | --- | --- |
+
+| 34. | Line 32 **minus** line 33 (if negative, enter "0") | = | $ | _________ | **34** |
+
+**Step 5 – Your 2025 total pension adjustment reversal (PAR)**
+
+| 35. | Enter your PARs and PACs (the total from box 2 of your 2025 T10 slips) | + | $ | _________ | **35** |
+
+| --- | --- | --- | --- | --- | --- |
+
+| 36. | Line 34 **plus** line 35 (enter this amount on line 43) | = | $ | **_________** | **36** |
+
+**Step 6 – Your 2025 net past service pension adjustment (PSPA)**
+
+| 37. | Enter your exempt PSPAs and PCCs for 2024 (the total from box 2 of your 2024 T215 slips) |  | $ | _________ | **37** |
+
+| --- | --- | --- | --- | --- | --- |
+
+| 38. | Enter your certified PSPAs for 2025 (line A in Part 3 of Form T1004, *Applying for the Certification of a Provisional PSPA)* | + | $ | _________ | **38** |
+
+| 39. | Line 37 **plus** line 38 | = | $ | _________ | **39** |
+
+| 40. | Enter your qualifying withdrawals for 2025 (Part 3 of Form T1006,*Designating an RRSP, a PRPP or an SPP Withdrawal as a Qualifying Withdrawal*) | – | $ | _________ | **40** |
+
+| 41. | Line 39 **minus** line 40. This amount is your 2025 net PSPA (this amount can be negative; enter this amount on line 45) | = | $ | _________ | **41** |
+
+**Step 7 – Your RRSP deduction limit for 2025**
+
+| 42. | Enter your 2024 unused RRSP deduction room from line 4 in [Step 1](#step1) |  | $ | _________ | **42** |
+
+| --- | --- | --- | --- | --- | --- |
+
+| 43. | Enter the amount from line 36 | + | $ | _________ | **43** |
+
+| 44. | Line 42 **plus** line 43 | = | $ | _________ | **44** |
+
+| 45. | Enter your 2025 net PSPA from line 41 | – | $ | _________ | **45** |
+
+| 46. | Line 44 **minus** line 45. This amount is your 2025 RRSP deduction limit (if negative, enter "0") | = | $ | _________ | **46** |
+
+**Step 8 – Your 2025 unused RRSP deduction room**
+
+| 47. | Enter the amount from line 44 |  | $ | _________ | **47** |
+
+| --- | --- | --- | --- | --- | --- |
+
+| 48. | Enter the amount from line 45 (this amount can be negative) | – | $ | _________ | **48** |
+
+| 49. | Line 47 **minus** line 48 (this amount can be negative) | = | $ | _________ | **49** |
+
+| 50. | Enter the amount of RRSP, PRPP, and SPP contributions that you deducted on line 20800 of your 2025 return, including employer PRPP contributions (cannot be more than the amount on line 46). Do not include amounts that you deduct for transfers of payments or benefits to an RRSP; nor for the excess amount you withdrew from your RRSP in connection with the certification of a provisional PSPA that you re‑contributed to your RRSP in 2025 | – | $ | _________ | **50** |
+
+| 51. | Line 49 **minus** line 50. This amount is your 2025 unused RRSP deduction room that you can carry forward to 2026 (this amount can be negative) | = | $ | _________ | **51** |
+
+### Unused RRSP, PRPP or SPP contributions
+
+This section applies to you if you did not use all of your RRSP, PRPP, or SPP contributions as a deduction in the year you made them. It does not apply to contributions that were designated as repayments under the HBP or the LLP, or contributions that were used to cancel an HBP (using [Form RC471, *Home Buyer's Plan (HBP) – Cancellation*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc471.html)) or LLP withdrawal (using the [Form RC97,*Lifelong Learning Plan (LLP) – Cancellation*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc97.html)). Your [unused RRSP, PRPP, and SPP contributions](#line1) from previous years will be on your RRSPdeduction limit and available contribution room statement shown on your latest notice of assessment, notice of reassessment, or Form T1028, *Your RRSP, HBP, LLP, or FHSA information for 2025*. To report new unused contributions, you have to file [Schedule 7, *RRSP, PRPP and SPP Contributions and Transfers and HBP and LLP Activities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html), with your income tax and benefit return. For more information, refer to [Keeping track of your RRSP, PRPP, and SPP contributions – Schedule 7](#P1157_38716).
+
+If you did not deduct all of the contributions you made to your RRSP, PRPP, or SPP, or your spouse’s or common-law partner’s RRSP in 1991 and later years (or your spouse’s or common law partner’s SPP in 2010 and later years), you have two options: you can leave the unused contributions in the plan or you can withdraw them.
+
+#### Withdrawing the unused contributions
+
+If you withdraw the unused contributions, you have to include them as income on your income tax and benefit return. However, you may be able to deduct an amount equal to the withdrawn contributions that you include in your income, if you or your spouse or common‑law partner received the unused contributions from an RRSP, a PRPP, an SPP, or a RRIF:
+
+- in the year you contributed them
+
+- in the following year
+
+- in the year that you were sent a notice of assessment or notice of reassessment for the year you contributed them, or in the following year
+
+You can deduct the amount if you meet **all** of the following conditions:
+
+- You have not deducted, for any year, the unused contributions that you made to your RRSP, PRPP, or SPP, or your spouse's or common-law partner's RRSP or SPP.
+
+- You have not designated the withdrawal of the unused RRSP, PRPP, or SPP contributions as a qualifying withdrawal to have your PSPA certified.
+
+- No part of the withdrawn contributions relates to a lump-sum amount from an RPP, a PRPP, an SPP, or certain DPSPamounts, that you transferred directly to an RRSP, a PRPP, or an SPP. For more information, refer to [Direct transfer of an RPP lump-sum amount](#P2708_96252).
+
+In addition, it has to be reasonable for the CRA to consider that at least one of the following applies:
+
+- you reasonably expected to be able to fully deduct the RRSP, PRPP, or SPP contributions for the year you made the contributions or the immediately preceding year
+
+- you did not make the RRSP, PRPP, or SPP contributions intending to withdraw them and deduct an offsetting amount
+
+**Withdrawal made using Form T3012A – Tax Deduction Waiver on the Refund of your Unused RRSP, PRPP, or SPP Contributions from your RRSP, PRPP or SPP**– If you meet all of the previous conditions and have not already withdrawn the unused RRSP, PRPP, or SPP contributions, you can withdraw them from your RRSP, PRPP, or SPP and not have tax withheld. To do this, fill out [Form T3012A, *T**ax Deduction Waiver on the Refund of your Unused RRSP, PRPP, or SPP Contributions from your RRSP*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3012a.html). This form cannot be used to withdraw unused RRSP contributions that were transferred to a RRIF. For more information, refer to [Withdrawal made without Form T3012A](#P2142_50945).
+
+If the unused RRSP, PRPP, or SPP contributions are withdrawn from your RRSP, PRPP, or SPP based on a Form T3012A that the CRA approved, do all the following:
+
+- attach a copy of the approved Form T3012A and the related T4RSP or T4A slip to your income tax and benefit return (if paper filing). If you file electronically, keep the Form T3012A and related slips in case the CRA asks to see them at a later date
+
+- report all of the following:
+
+    - an amount shown in box 20 of your or your spouse’s or common law partner’s 2025 T4RSP slip, on line 12900 of your income tax and benefit return
+
+    - an amount withdrawn from an SPP and included in box 18 of your or your spouse’s or common-law partner’s 2025 T4A slip on:
+
+          - line 11500 if you are 65 years of age or older on December 31, 2025
+
+          - line 11500 if you are under 65 years of age on December 31, 2025, and you received the amount as a result of the death of your spouse or common-law partner
+
+          - line 13000 in all other cases
+
+    - an amount withdrawn from an PRPP and included in box 194 of your 2025 T4A slip, on line 11500 if you are 65 or older at the end of the year, or on line 13000 otherwise
+
+For more information, refer to [Calculating the income you and your spouse or common-law partner have to report](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4040/rrsps-other-registered-plans-retirement.html)
+
+- deduct an amount on line 23200 of your income tax and benefit return equal to the unused contributions withdrawn
+
+**Withdrawal made without Form T3012A –** If you withdraw unused RRSP, PRPP, or SPP contributions from a RRIF, RRSP, PRPP, or SPP without Form T3012A, the issuer of the plan has to withhold tax. The amount you withdraw should be reported on your income tax and benefit return as follows:
+
+| **Withdrawal from** | **Information slip received** | **Report the amount online** |
+
+| --- | --- | --- |
+
+| RRSP | T4RSP box 22 | 12900 |
+
+| RRIF | T4RIF box 16 | 11500 (if you are 65 years or older on December 31, 2025) 11500 (regardless of your age, you received the amount on the death of your spouse or common-law partner) 13000 (in all other cases) |
+
+| PRPP | T4A box 194 | 11500 (if you are 65 years or older on December 31, 2025) 13000 (in all other cases) |
+
+| SPP | T4A box 18 | 11500 (if you are 65 years or older on December 31, 2025) 11500 (regardless of your age, you received the amount on the death of your spouse or common-law partner) 13000 (in all other cases) |
+
+In all cases, claim the tax the issuer withheld on line 43700 of your income tax and benefit return.
+
+**Fill out** [Form T746, *Calculating Your Deduction for Refund of Unused RRSP, PRPP, and SPP Contributions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t746.html), to calculate the amount you can deduct for the withdrawal. For more information about claiming the deduction for the withdrawal of unused RRSP contributions, refer to [line 23200](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-23200-other-deductions.html).
+
+### Tax on RRSP excess contributions
+
+Generally, you have [**RRSP excess contributions**](#rrsp_ec) if your unused RRSP, PRPP, and SPP contributions from prior years and your current calendar year contributions are more than your [RRSP deduction limit](#rrsp_dl) shown on your latest notice of assessment, notice of reassessment, or Form T1028, *Your RRSP, HBP, LLP, or FHSA information for 2025*, **plus** $2,000.
+
+Also, you can only qualify for the additional $2,000 amount if you were 18 or older at any time in 2024.
+
+Generally, you have to pay a tax of 1% per month on your unused contributions that exceed your RRSP deduction limit by more than $2,000. Your notice of assessment or notice of reassessment will indicate that you may have to pay a 1% tax on RRSP excess contributions if your unused RRSP, PRPP, or SPP contributions exceed your [RRSP deduction limit](#rrsp_dl). For information about contributing to a PRPP, refer to [Contributions to a PRPP](#cont_prpp). You can view your RRSP information online by going to [My Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html).
+
+You may not have to pay the 1% tax on all of your excess contributions, if one of the following situations applies:
+
+- you withdrew the excess amounts before the end of the month when the excess contribution was made
+
+- your contributions were [**qualifying group plan amounts**](#Qualifying_Group_Amount)
+
+- the contributions were made before February 27, 1995
+
+Follow the six-step process described in [Chart 4](#chrt_4) to determine if you have to fill out a [T1-OVP, 2025 *Individual Tax Return for RRSP, PRPP and SPP Excess Contributions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1-ovp.html), to calculate the amount subject to tax and the tax payable.
+
+If you determine that you have to pay this 1% tax, you have to send your completed T1-OVP return and pay the tax no later than 90 days after the end of the year in which you had the excess contributions.
+
+When you file your return, **send documents that identify the exact months of all RRSP, PRPP and SPP contributions and RRSP, PRPP, SPP or RRIF withdrawals you made in 2025**. Please note RRSP receipts, T4RSP and T4RIF slips do not contain this information.
+
+If the supporting documents received do not show the exact months of the contributions or withdrawals, the CRA may assess the T1-OVP return based on their records. This means that the CRA would include contributions from the first 60 days of the year in January and include the contributions from the rest of the year in March. As well, the CRA would include the withdrawal(s) in December.
+
+If you would like the CRA to complete the return(s) for you, send the CRA written authorization and the supporting documents mentioned above for the year(s) in question.
+
+**Penalty** – If you owe tax in a year and do not file your T1-OVP return within 90 days after the end of that year, the CRA will charge you a late-filing penalty. The penalty is 5% of your balance owing, plus 1% of your balance owing for each month that your T1-OVP return is late, to a maximum of 12 months. Your late-filing penalty may be higher if the CRA charged you a late‑filing penalty on your T1-OVP return for any of the three previous years.
+
+Attach your payment to your completed T1-OVP return and submit it to your [tax centre](https://www.canada.ca/en/revenue-agency/corporate/contact-information/tax-services-offices-tax-centres.html). If you do not pay your tax by the deadline, you may also have to pay arrears interest on any unpaid amount.
+
+**Interest** – If you have a balance owing in a year, the CRA charges compound daily interest starting on the 91st day of the following year on any unpaid amounts owing for that year. This includes any balance owing if the CRA reassesses your T1-OVP return. In addition, the CRA will charge you interest on the penalties indicated in the previous section, starting on that 91st day.
+
+**Voluntary disclosure** – You may have had to file a previous year T1-OVP return, but you have not sent it, or you sent the CRA an incorrect T1-OVP return. If so, you can voluntarily file or correct that T1-OVP return under the Voluntary Disclosures Program and pay only the taxes owing (plus interest) without penalty.
+
+This program does not apply to any T1-OVP return for which the CRA has started a review.
+
+For more information, and to know if your disclosure qualifies for this program, refer to [Information Circular IC00-1R6, Voluntary Disclosures Program](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic00-1.html).
+
+Be sure to indicate clearly, on any disclosure you make, that you are submitting information under the Voluntary Disclosures Program.
+
+#### Which return you have to use
+
+- If you have [RRSP excess contributions](#rrsp_ec) made from January 1, 1991, to December 31, 2025, that are subject to tax, fill out a [T1-OVP-S, *2025 Simplified Individual Tax Return for RRSP, PRPP and SPP Excess Contributions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1-ovp-s.html), for each applicable tax year.
+
+When you file your return, **send documents that identify the exact months of all RRSP, PRPP and SPP contributions and RRSP, PRPP, SPP or RRIF withdrawals you made in 2025**. Please note RRSP receipts, T4RSP and T4RIF slips do not contain this information.
+
+If the supporting documents received do not show the exact months of the contributions or withdrawals, the CRA may assess the T1-OVP return based on their records. This means that the CRA would include contributions from the first 60 days of the year in January and include the contributions from the rest of the year in March. As well, the CRA would include the withdrawal(s) in December.
+
+- If you made mandatory contributions to a group RRSP or a PRPP plan in 2024 or 2025 that are subject to tax, you must fill out a [T1-OVP, *2025 Individual Tax Return for RRSP, PRPP and SPP Excess Contributions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1-ovp.html), for each applicable tax year.
+
+When you file your return, include a copy of the contract or collective agreement from your employer or union stating that group contributions are mandatory and a statement confirming the amounts and dates of mandatory contributions and withdrawals for the year.
+
+Also include documents showing the exact months of all RRSP, PRPP and SPP contributions and RRSP, PRPP, SPP, or RRIF withdrawals you made in 2025. Please note RRSP receipts, T4RSP and T4RIF slips do not contain this information.
+
+If the supporting documents received do not show the exact months of the contributions or withdrawals, the CRA may assess the T1-OVP return based on their records. This means that the CRA would include contributions from the first 60 days of the year in January and include the contributions from the rest of the year in March. As well, the CRA would include the withdrawal(s) in December.
+
+**Waiver or cancellation of the RRSP excess contribution tax** – If you determined that you must pay a tax on your RRSP excess contributions, you may ask in writing that the CRA waives or cancels the tax if **both** of the following conditions are met:
+
+- your excess contributions on which the tax is based arose due to a reasonable error
+
+- you are taking, or have taken, reasonable steps to eliminate the excess contributions
+
+A **waiver**refers to the tax that is otherwise payable by a taxpayer for which relief is granted by the CRA before this amount is assessed or charged to the taxpayer. A **cancellation**refers to the amount of tax that was assessed or charged to the taxpayer for which relief is granted by the CRA.
+
+To consider your request, the CRA will need you to fill out [Form RC2503, *Request for Waiver or Cancellation of Part X.1 Tax - RRSP, PRPP and SPP Excess Contribution Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc2503.html). Your form should explain:
+
+- why you made excess contributions and why this is a reasonable error
+
+- what steps you are taking, or have taken, to eliminate the excess contributions
+
+Send your completed request and supporting documents that identify the exact months of all your RRSP, PRPP, and SPP contributions and RRSP, PRPP, SPP or RRIF withdrawals for the years involved, as well as any documents that would support the explanation of the reasonable error that caused the excess contribution to the tax center as shown on your notice of assessment or reassessment. **Please note that the CRA does not accept the official RRSP receipts or the T4RSP or T4RIF slips for this purpose as they do not contain the exact months of all your contributions or withdrawals.**
+
+If the CRA does not waive or cancel the tax, and the supporting documents received do not show the exact months of the contributions or withdrawals, the CRA may assess the T1-OVP return(s) based on their records. This means that the CRA would include contributions from the first 60 days of the year in January and include the contributions from the rest of the year in March. As well, the CRA would include the withdrawal(s) in December.
+
+Form RC2503 can be found at [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+For more information on cancellation or waiver of late-filing penalties and interest, refer to [Information Circular IC07-1R1, *Taxpayer Relief Provisions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic07-1.html).
+
+### Chart 4 – Do you have to fill out a 2025 T1-OVP return
+
+- If you follow the chart below and arrive at a point where it states, "you do not have to fill out a 2025 T1‑OVP return," you are not subject to the 1% per month tax.
+
+- When you file your return, send documents that identify the exact months of all RRSP, PRPP, and SPP contributions and RRSP, PRPP, SPP or RRIF withdrawals you made in 2025. Please note RRSP receipts, T4RSP and T4RIF slips do not contain this information. If the supporting documents received do not show the exact months of the contributions or withdrawals, the CRA may assess the T1-OVP return based on their records. This means that the CRA would include contributions from the first 60 days of the year in January and include the contributions from the rest of the year in March. As well, the CRA would include the withdrawal(s) in December.
+
+- If your 2025 RRSP deduction limit includes a net PSPA for 2025 or your unused RRSP deduction room at the end of 2024 was a negative amount, fill out a 2025 T1 OVP return to determine if you are subject to the 1% per month tax. If you are not subject to this tax for 2025, you may be subject to it for 2026.
+
+- Your unused RRSP, PRPP and SPP contributions are amounts you contributed to your own RRSP, PRPP or SPP, or to an RRSP or SPP for your spouse or common law partner after 1990, but did not deduct on line 20800 (line 208 for 2018 and prior tax years), of any previous income tax and benefit return, or designate as an HBP or LLP repayment. The total of these amounts is identified on line "Unused RRSP contributions previously reported and available to deduct for 2025" on your 2025 RRSP deduction limit and available contribution room statement. This information can be found on your latest notice of assessment, notice of reassessment, or Form T1028, *Your RRSP, HBP, LLP, or FHSA information for 2025*. However, if your unused RRSP contributions on line 24500 of your 2025 income tax and benefit return were reduced due to an RRSP withdrawal for which a deduction was claimed at line 23200 using Form T3012A or Form T746, your unused RRSP contributions on your latest notice of assessment, notice of reassessment, or Form T1028, will not be accurate for the purpose of determining if you have to fill out a 2025 T1-OVP return. In this case, you should use the total amount of your unused RRSP, PRPP and SPP contributions prior to the adjustment of this amount based on Form T3012A or Form T746 when following the chart below. You can access your RRSP information online by going to [My Account for individuals](/content/canadasite/), or [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+| **Situation** | ► | **Action** |
+
+| --- | --- | --- |
+
+| **Step 1–** Do any of these situations apply to you?You contributed amounts to your PRPP, RRSP, or SPP, or your spouse’s or common-law partner’s RRSP or SPP from January 1, 1991, to December 31, 2025, that you did not and will not deduct on line 20800 (line 208 for 2018 and prior tax years) of your 2025 income tax and benefit return. A gift was made to your RRSP from January 1, 1991, to December 31, 2025. A gift is any amount that someone other than you or your spouse or common-law partner contributed to your RRSP. | ► | If **one** of these situations **applies to you**, go to Step 2. If **neither** of these situations **apply to you**, you do not have to fill out a 2025 T1-OVP return. |
+
+| **Step 2** – Is your 2025 RRSP deduction limit from your latest notice of assessment, notice of reassessment, or Form T1028, *Your RRSP, HBP, LLP, or FHSA information for 2025*, more than the total of your unused RRSP, PRPP, and SPP contributions (including gifts) made from January 1, 1991, to December 31, 2024, **plus** the total PRPP, RRSP, or SPP contributions (including gifts and employer PRPP contributions) made during 2025? | ► | If **no**, go to Step 3 If **yes**, you do not have to fill out a 2025 T1-OVP return. |
+
+| **Step 3 –** Were you younger than 19 at any time in 2025? | ► | If **no**, go to Step 4. If**yes**, you may be subject to tax on your unused RRSP, PRPP, or SPP contributions. Fill out a[2025 T1‑OVP‑S](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1-ovp-s.html)return to determine the amount of this tax. When you file your return,**send documents that identify the exact months of all RRSP, PRPP and SPP contributions and RRSP, PRPP, SPP or RRIF withdrawals you made in 2025**. Please note RRSP receipts, T4RSP and T4RIF slips do not contain this information. If the supporting documents received do not show the exact months of the contributions or withdrawals, the CRA may assess the T1-OVP return based on their records. This means that the CRA would include contributions from the first 60 days of the year in January and include the contributions from the rest of the year in March. As well, the CRA would include the withdrawal(s) in December. |
+
+| **Step 4 –** Are your unused RRSP, PRPP, or SPP contributions (including gifts) made from January 1, 1991, to December 31, 2025, **less** than the total of your 2025 RRSP deduction limit from your latest notice of assessment or notice of reassessment, or Form T1028 **plus** $2,000? | ► | If **no**, go to Step 5. If **yes**, you do not have to fill out a 2025 T1-OVP return. |
+
+| **Step 5 –** Do any of these situations apply to you?At the end of 2025, all of your unused RRSP contributions (including gifts) were made before February 27, 1995. **All** of your unused RRSP contributions (including gifts) were made from January 1, 1991, to February 26, 1995, and their total was $8,000 or less. You did not contribute to an RRSP, a PRPP, or an SPP from February 27, 1995, to December 31, 2025. | ► | If **all** of these situations **apply to you**, you do not have to fill out a 2025 T1‑OVP return. If**one**of these situations**does not apply**to you, go to Step 6. |
+
+| **Step 6 –** Were **all** the **unused**contributions at the end of 2025 **mandatory contributions made in 2025** as a result of your participation in a [qualifying group plan](#qualifying)? | ► | If **yes**, you do not have to fill out a 2025 T1‑OVP return. [Footnote7](#fn7) If**no**, you may be subject to tax on your unused RRSP, PRPP, or SPP contributions. Fill out a [T1-OVP, *2025 Individual Tax Return for RRSP, PRPP and SPP Excess Contributions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1-ovp-s.html)to determine the amount of this tax. When you file your return, **send documents that identify the exact months of all RRSP, PRPP, and SPP contributions and RRSP, PRPP, SPP, or RRIF withdrawals you made in 2025**. Please note RRSP receipts, T4RSP and T4RIF slips do not contain this information. If the supporting documents received do not show the exact months of the contributions or withdrawals, the CRA may assess the T1-OVP return based on their records. This means that the CRA would include contributions from the first 60 days of the year in January and include the contributions from the rest of the year in March. As well, the CRA would include the withdrawal(s) in December. |
+
+### Property from an FHSA
+
+For 2023 and later taxation years, you can transfer property from your RRSPs to your FHSA. If you are an FHSA holder, you can also transfer property from your FHSAs to your RRSP. For more information, refer to [Chapter 10 – First home savings account (FHSA) transfers](#chapter10).
+
+## Chapter 3 – RRIF contributions
+
+This chapter provides general information about [RRIFs](#RRIF) and lists the types of property you can contribute to your RRIF. Usually, you can only contribute to your RRIF by directly transferring certain amounts you receive or are considered to have received.
+
+### Property from an RRSP, PRPP, or SPP
+
+You can contribute to your [RRIF](#RRIF) by having property transferred directly from:
+
+- your [unmatured RRSP](#unmatured), [PRPP](#PRPP), or SPP
+
+- your [matured RRSP](#matured), including a direct transfer of a [commutation payment](#commutation) from your RRSP annuity
+
+- an unmatured RRSP under which your current or former spouse or common-law partner is the [annuitant](#annuitant), if you and your current or former spouse or common-law partner were living separate and apart at the time of the transfer and if the transfer is made:
+
+    - under a decree, order, or judgment of a competent tribunal, or under a written separation agreement
+
+    - to settle rights arising out of your relationship on or after the breakdown of your relationship
+
+In addition, you can contribute to your RRIF any amounts that are not more than the eligible part of the designated amount, you receive or are considered to have received from a deceased annuitant's or member's RRSP, PRPP, or SPP in the following situations:
+
+- the annuitant or member under an RRSP, PRPP, or SPP dies and, at the time of death, you were the deceased annuitant's or member's spouse or common-law partner
+
+- you were a [financially dependent](#fin_dep)child or grandchild of the deceased annuitant who depended on the annuitant because of an impairment in physical or mental functions
+
+For more information, refer to [Information Sheet RC4177, *Death of an RRSP Annuitant*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4177.html), or [Form T2019, *Death of an RRSP Annuitant – Refund of Premiums*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2019.html).
+
+### RPP amounts
+
+You can contribute to your [RRIF](#RRIF) by directly transferring a lump-sum amount from an [RPP](#rpp) under which:
+
+- you are a member, if you are entitled to receive the lump-sum
+
+- your current or former spouse or common-law partner was the member, if you are entitled to receive the lump-sum because your current or former spouse or common-law partner died
+
+- your current or former spouse or common-law partner is a member, if you are entitled to receive the lump-sum under the following conditions:
+
+    - under a decree, order, or judgment of a competent tribunal, or under a written separation agreement
+
+    - to settle rights arising out of your relationship on or after the breakdown of your relationship
+
+In some cases, the*[Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html)*limits how much can be transferred without tax consequences. For more information, refer to [Direct transfer of an RPP lump-sum amount](#P2708_96252).
+
+### DPSP amounts
+
+You will be able to contribute to your [RRIF](#RRIF) by directly transferring a lump-sum amount from:
+
+- a [DPSP](#dpsp)under which you are a beneficiary, or former beneficiary, if you are entitled to receive the lump-sum
+
+- a DPSP under which your current or former spouse or common-law partner was the beneficiary, or former beneficiary, if you are entitled to receive the lump-sum because your current or former spouse or common-law partner died
+
+- a DPSPunder which your current or former spouse or common-law partner is a beneficiary, or former beneficiary, if you are entitled to receive the lump-sum:
+
+    - under a decree, order, or judgment of a competent tribunal, or under a written separation agreement
+
+    - to settle rights arising out of your relationship on or after the breakdown of your relationship
+
+For exceptions to the direct transfer requirement and other rules, refer to archived [Interpretation Bulletin IT-528, *Transfers of Funds Between Registered Plans*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it528.html).
+
+### Property from another RRIF
+
+You can contribute to your [RRIF](#RRIF) by directly transferring property from:
+
+- another RRIF under which you are the [annuitant](#annuitant)
+
+- a RRIF under which your current or former spouse or common-law partner is the annuitant, if the transfer is made under the following conditions:
+
+    - under a decree, order, or judgment of a competent tribunal, or under a written separation agreement
+
+    - to settle rights arising out of your relationship on or after the breakdown of your relationship
+
+In addition, you can contribute to your RRIF any amount up to the eligible amount of the designated benefit you receive or are considered to have received from the deceased annuitant's RRIF in either of the following situations:
+
+- the annuitant under a RRIF dies and, at the time of death, you were the deceased annuitant's spouse or common-law partner
+
+- you were a [financially dependent](#fin_dep) child or grandchild of the deceased annuitant who depended on the annuitant because of an impairment in physical or mental functions
+
+For more information, refer to [Information Sheet RC4178, *Death of a RRIF Annuitant, PRPP Member, or ALDA Annuitant*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4178.html), or [Form T1090, *Joint Designation on the Death of a RRIF Annuitant, PRPP Member, or ALDA Annuitant*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1090.html).
+
+### Specified pension plan (SPP) amounts
+
+If you are a member of an SPP, you can contribute to your [RRIF](#RRIF) by directly transferring a lump-sum amount from an SPP.
+
+You can also transfer a lump-sum amount from an SPP if you are entitled to it because your current or former spouse or common-law partner was a member of an SPP, and one of the following situations applies:
+
+- your current or former spouse or common-law partner has died
+
+- you and your current or former spouse or common-law partner are living separate and apart at the time of the transfer, and you are entitled to receive the lump-sum:
+
+    - under a decree, order, or judgment of a competent tribunal, or under a written separation agreement
+
+    - to settle rights arising out of your relationship on or after the breakdown of your relationship
+
+For more information on transfers, refer to [Chapter 6 – Transfers to registered plans or funds and annuities](#P2464_83200).
+
+### Property from an FHSA
+
+For 2023 and later taxation years, if you are an FHSA holder, you can contribute to your RRIF by directly transferring property from your FHSAs. For more information, refer to [Chapter 10 – First home savings account (FHSA) transfers](#chapter10).
+
+## Chapter 4 – Anti-avoidance rules for RRSPs and RRIFs
+
+The anti-avoidance rules provide for a special tax on certain advantages that unduly exploit the tax attributes of an RRSP and RRIF as well as special taxes on prohibited investments and on non-qualified investments.
+
+### Tax payable on prohibited investments
+
+If the RRSP or RRIF trust acquires a [prohibited investment](#prohibited) or if previously acquired property becomes prohibited, the annuitant will be subject to a special tax equal to 50% of the fair market value (FMV) of the investment, and the annuitant must file [Form RC339, *Individual Return for Certain Taxes for RRSPs, RRIFs, RESPs or RDSPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc339.html), with a payment for any balance due, no later than **June 30**following the end of the calendar year.
+
+The tax is refundable in certain circumstances. For more information, refer to [Refund](#Refund_Tax_PI)[of taxes paid on non-qualified or prohibited investments](#Refund_Tax_PI).
+
+When the prohibited investment ceases to be a prohibited investment while it is held by the RRSP or RRIF trust, the trust is considered to have disposed of the property at its FMV right before that time and to have re-acquired the property for the same amount at the same time.
+
+The annuitant is also liable for the 100% advantage tax on income earned and capital gains realized on prohibited investments.
+
+The 100% advantage tax applies to income earned, and the portion of any realized capital gain that accrued, regardless of when the prohibited investment generating the income or gain was acquired.
+
+If an investment is both a non-qualified investment and a prohibited investment, it is treated as a prohibited investment only.
+
+For more information, refer to [Income Tax Folio S3-F10-C2, *Prohibited Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html).
+
+### Tax payable on non-qualified investments
+
+If the RRSP or RRIF trust acquired a non-qualified investment, or if a previously acquired property becomes a non-qualified investment, the investment will be subject to a special tax. The tax is equal to 50% of the FMV of the property at the time that it was acquired or that it became non-qualified, and the annuitant must file [Form RC339, *Individual Return for Certain Taxes for RRSPs, RRIFs, RESPs or RDSPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc339.html), with a payment for any balance due, no later than **June 30**following the end of the calendar year.
+
+Any increase in the value of a non-qualified investment at the time of disposition is not reported on the [Form RC339, *Individual Return for Certain Taxes for RRSPs, RRIFs, RESPs or RDSPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc339.html). Income earned and capital gains realized by an RRSP or RRIF trust on non-qualified investments will continue to be taxable to the trust, regardless of when the investment was acquired. The trust must file a [T3RET, *T3 Trust Income Tax and Information Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ret.html)and is liable to pay any tax owing.
+
+Any charges or fees that the financial institution has passed on to the annuitant as a result of the T3 Return having been filed is a matter between the annuitant and the financial institution.
+
+If an investment is both a non-qualified investment and a prohibited investment, it is treated as a prohibited investment only and the trust is not subject to tax on the investment earnings.
+
+The tax payable on non-qualified investments is refundable in certain circumstances. For more information, refer to [Refund](#Refund_Tax_PI)[of taxes paid on non-qualified or prohibited investments](#Refund_Tax_PI).
+
+The annuitant is also liable for the 100% [advantage](#Advantage) tax on specified non-qualified investment income if this income is not withdrawn promptly.
+
+For more information, refer to [Income Tax Folio S3-F10-C2, *Prohibited Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html). For more information on acceptable investments, refer to [Income Tax Folio S3-F10-C1, *Qualified Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html).
+
+### Refund of taxes paid on non-qualified or prohibited investments
+
+You may be entitled to a refund of the 50% tax on non-qualified or prohibited investments if the investment was disposed of, or ceased to be a non-qualified or prohibited investment, before the end of the calendar year after the year in which the tax arose (or such later time as is permitted by the Minister of National Revenue).
+
+However, no refund will be issued if it is reasonable to expect that you knew, or should have known, that the investment was or would become a non-qualified or a prohibited investment.
+
+The refund applies to the 50% tax on non-qualified or prohibited investments, but not to the 100% tax on advantages.
+
+If the 50% tax on non-qualified or prohibited investments and the entitlement to the refund of that tax arose in the same calendar year, then a remittance of the tax is not required. For example, no remittance of tax would be required if an RRSP or RRIF trust acquired and disposed of a non-qualified investment in the same calendar year.
+
+#### How to claim a refund
+
+To claim a refund, you must:
+
+- send your request in writing to one of the addresses below (you can attach it to Form RC339)
+
+- attach the appropriate documents detailing the information relating to the acquisition and disposition of the non-qualified or prohibited property (you can attach the written request and supporting documents to Form RC339)
+
+The documents must contain all the following:
+
+- name and description of the property
+
+- number of shares or units
+
+- date the property was acquired or became non-qualified or prohibited property
+
+- date of the disposition or the date that the property became qualified or ceased to be [prohibited](#prohibited)
+
+If the disposition took place in the same year as the acquisition, enter the refundable amount on line E in Section 2 of the RC339 return, and attach the documents to your return. If the property disposed of was acquired in a previous year, send your request and the documents to one of the following addresses:
+
+- If your residential address is in Ontario, Prince Edward Island, Newfoundland and Labrador, Yukon, Nunavut, Northwest Territories, and in the following cities in the province of Quebec; Montréal, Québec City, Laval, Sherbrooke, Gatineau, and Longueuil, send your request to:
+
+Canada Revenue Agency Sudbury Tax Centre Pension Workflow Team Post Office Box 20000, Station ASudbury, ON P3A 5C1
+
+- If your residential address is in Manitoba, Alberta, Saskatchewan, British Columbia, Nova Scotia, New Brunswick, and the remaining areas in the province of Quebec not listed under the Sudbury Tax Centre, send your request to:
+
+Canada Revenue Agency Winnipeg Tax Centre Pension Workflow Team Post Office Box 14000, Station MainWinnipeg, MB R3C 3M2
+
+### Obligations of the RRSP issuer or RRIF carrier
+
+The issuer of an RRSP or carrier of a RRIF must exercise the care, diligence, and skill of a reasonably prudent person to minimize the possibility that a trust governed by the plan holds a non-qualified investment.
+
+If the issuer or carrier fails to comply with this obligation, the issuer or carrier is liable to a penalty under the *Income Tax Act*.
+
+The issuer or carrier is also required to notify the annuitant of the RRSP or RRIF, in prescribed form and manner before March of a calendar year, if, at any time in the preceding year, the RRSP or RRIF trust acquired or disposed of a non-qualified investment, or if an investment became or ceased to be a non-qualified investment.
+
+### Tax payable on an advantage
+
+If the annuitant or a person not dealing at arm's length with the annuitant (including the annuitant's RRSP or RRIF) was provided with an [advantage](#Advantage) in relation to their RRSP or RRIF during the year, a 100% tax is payable, which is:
+
+- in the case of a benefit, the FMV of the benefit
+
+- in the case of a loan or a debt, the amount of the loan or debt
+
+- in the case of aregistered planstrip, the amount of the registered plan strip
+
+For taxes payable on an advantage, you must file using [Form RC339, *Individual Return for Certain Taxes for RRSPs, RRIFs, RESPs or RDSPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc339.html), with a payment for any balance due, no later than June 30 following the end of the calendar year.
+
+When the advantage is extended by the issuer or carrier of an RRSP or RRIF, the issuer or carrier, and not the annuitant, is liable for the tax. The issuer or carrier must file [Form RC298, *Advantage Tax Return for RRSP, TFSA, FHSA or RDSP Issuers, RESP Promoters or RRIF carriers*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc298.html), with a payment for any balance due, no later than **June 30**following the end of the calendar year.
+
+For more information, refer to [Income Tax Folio S3-F10-C3, *Advantages – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html).
+
+### Waiver or cancellation of tax
+
+The CRA may waive or cancel all or part of the taxes if the CRA determines it is fair to do so after reviewing all factors, including whether:
+
+- the tax arose because of a reasonable error
+
+- the extent to which the transaction or series of transactions that gave rise to the tax also gave rise to another tax under the [*Income Tax Act*](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html)
+
+- the extent to which payments have been made from the person's registered plan
+
+A **waiver** refers to the tax that is otherwise payable by a taxpayer for which relief is granted by the CRA before this amount is assessed or charged to the taxpayer. A **cancellation** refers to the amount of tax that was assessed or charged to the taxpayer for which relief is granted by the CRA.
+
+The waiver is limited to tax paid under the anti-avoidance rules and not taxes paid under any other part of the [*Income Tax Act*](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html).
+
+To consider your request, the CRA needs a letter that explains why the tax liability arose, and why it would be fair to cancel or waive all or part of the tax. Send your letter to one of the following addresses:
+
+If your residential address is in Ontario, Prince Edward Island, Newfoundland and Labrador, Yukon, Nunavut, Northwest Territories, and in the following cities in the province of Quebec; Montréal, Québec City, Laval, Sherbrooke, Gatineau, and Longueuil, send your request to:
+
+Canada Revenue Agency Sudbury Tax Centre Pension Workflow Team Post Office Box 20000, Station ASudbury, ON P3A 5C1
+
+If your residential address is in Manitoba, Alberta, Saskatchewan, British Columbia, Nova Scotia, New Brunswick, and the remaining areas in the province of Quebec not listed under the Sudbury Tax Centre, send your request to:
+
+Canada Revenue Agency Winnipeg Tax Centre Pension Workflow Team Post Office Box 14000, Station MainWinnipeg, MB R3C 3M2
+
+## Chapter 5 – Amounts from an RRSP or a RRIF
+
+If you have an RRSP or a RRIF, you probably have a certain amount of flexibility on the types of payments you can get from these plans.
+
+Generally, an RRSP must mature by the last day of the year in which you turn 71. On maturity, the funds must be withdrawn, transferred to a RRIF, or used to purchase an annuity. There are no immediate tax implications when amounts are transferred to a RRIF or used to purchase an annuity. However, if you withdraw funds from your RRSP, tax will be withheld, and the amount withdrawn has to be included in your income for the year it is withdrawn.
+
+SPPs do not have the same rules as an RRSP in regard to maturing. Contact your SPP administrator for more information on amounts from an SPP. For information about PRPPs, refer to [Chapter 8 – Pooled registered pension plan (PRPP)](#chptr_8).
+
+Sometimes there can be an **increase** in the FMV of an RRSP, PRPP, or RRIF between the date of death and the date of final distribution to the beneficiary or estate. Generally, this amount has to be included in the income of the beneficiary or the estate for the year it is received. A T4RSP slip or T4RIF slip may be issued for this amount.
+
+Sometimes, the FMV of the property of an [unmatured RRSP](#unmatured), PRPP, or RRIF can **decrease** between the date of death and the date of final distribution to the beneficiary or the estate. If the total of all the amounts paid from an unmatured RRSP, PRPP, or RRIF is less than the FMV of the unmatured RRSP, PRPP, or RRIF at the time of the annuitant's death, a deduction may be claimed on the final income tax and benefit return of the annuitant.
+
+The deductible amount will generally be calculated as the difference between:
+
+- the FMV at the time of the death that was included in the deceased annuitant's income for the year of death
+
+- the total of all the amounts paid from the unmatured RRSP or RRIF
+
+This rule applies where the final distribution from the unmatured RRSP or the RRIF occurs after 2008. For more information, refer to [Chart 6](#chrt_6) and [Chart 7](#chrt_7).
+
+The deduction will generally not be available if the unmatured RRSP **or** the RRIF held a non-qualified investment after the [annuitant](#annuitant) died, or if the final distribution is made after the end of the year that follows the year in which the annuitant died. However, the CRA may waive these conditions to allow the deduction for a deceased annuitant on a case-by-case basis. [Form RC249, *Post-Death Decline in the Value of a RRIF, an Unmatured RRSP and Post-Death Increase or Decline in the Value of a PRPP*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc249.html), must accompany any request by the legal representative for an adjustment to the deceased annuitant's final income tax and benefit return.
+
+Jacques died on August 12, 2025. When he died, the FMV of his unmatured RRSP was $185,000. The RRSP contract named Jacques's estate as the sole beneficiary. A 2025 T4RSP slip was issued in Jacques's name to report the $185,000 FMV of the RRSP in box 34, Amounts deemed received on death. This amount was included in income on line 12900 of Jacques's 2025 final income tax and benefit return.
+
+The RRSP property was distributed to Jacques's estate on March 15, 2026. The FMV of that property was $150,000. The financial institution filled out [Form RC249, *Post‑Death Decline in the Value of a RRIF, an Unmatured RRSP and Post-Death Increase or Decline in the Value of a PRPP*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc249.html).
+
+The $35,000 difference between the $185,000 included in Jacques's 2025 income, and the $150,000 that the estate received can be deducted on Jacques's 2025 income tax and benefit return. This is because the RRSP did not hold any non‑qualified investments at any time after death, and the RRSP was fully distributed by the end of the year following the year of death. Jacques's legal representative should write and ask for an adjustment to the 2025 income tax and benefit return to allow the $35,000 post‑death loss to be deducted on line 23200. The completed Form RC249 must be sent with the request.
+
+Martin died on September 10, 2024. When he died the FMV of his unmatured RRSP was $185,000. The RRSP contract named Martin's spouse Élaine as the sole beneficiary. In February 2025, Élaine asked the financial institution to directly transfer all of the RRSP property to her RRSP. On February 15, 2025, when the RRSP was fully transferred, its FMV was $150,000.
+
+As the transfer was completed by the end of the year following the year of death, no 2024 T4RSP slip was issued in Martin's name to report the $185,000.
+
+A 2025 T4RSP slip was issued to Élaine to report the $150,000 in box 18, Refund of premiums. Élaine also received an RRSP receipt for the $150,000 transferred (contributed) to her RRSP.
+
+The $185,000 FMV of the RRSP at the time of death was not included in income on Martin's 2024 final income tax and benefit return. Élaine includes on line 12900 of her 2025 income tax and benefit return, the $150,000 reported as income on her 2025 T4RSP slip. She fills out [Schedule 7](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html) and deducts the $150,000 transfer (contribution) on line 20800.
+
+No deduction can be claimed on the Martin's 2024 final income tax and benefit return for the $35,000 post death loss as the $185,000 was not included in his 2024 income.
+
+### Yearly minimum amount from a RRIF
+
+Starting in the year after the year you establish a RRIF, you have to be paid a yearly minimum amount. The payout period under your RRIF is for your entire life. Your carrier calculates the minimum amount based on your age at the beginning of each year. However, you can elect to have the payment based on your spouse’s or common-law partner's age.
+
+You can withdraw more, but not less than the minimum.
+
+The following charts contain information on amounts you can receive or that the CRA considers you to receive from your RRSP or RRIF, or from a deceased individual's RRSP or RRIF. This chapter also provides information on spousal or common-law partner RRSPs and RRIFs.
+
+### Chart 5 – Amounts from your RRSP, PRPP, RRIF, or SPP
+
+- Report your RRSP income on line 12900 and any tax deducted (box 30 of the T4RSP slip) on line 43700 of your income tax and benefit return.
+
+- If you were 65 or older on December 31, 2025, report your RRIF or PRPP income on line 11500 of your income tax and benefit return. In all other cases, report your RRIF and PRPP income (if received before turning 65 years of age) on line 13000. For more information, refer to [line 11500](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-11500-other-pensions-superannuation.html). In **all** cases, claim any income tax deducted on line 43700 of your income tax and benefit return.
+
+- Report your SPP income on line 11500 of your income tax and benefit return.
+
+SPP and PRPP amounts are reported on a T4A slip and not a T4RSP slip. For more information, refer to [PRPP payments](#prpp_payments) or contact your SPP administrator.
+
+| **Description of amount** | **Information slip and box number** | **Will tax be withheld?** |
+
+| --- | --- | --- |
+
+| **Withdrawal from an RRSP** – You can withdraw amounts from your RRSP before it starts to pay you retirement income. If your spouse or common‑law partner contributed to your RRSP, refer to note [Footnote8](#fn8) below. You can withdraw unused contributions you made to an RRSP based on an approved [Form T3012A, *Tax Deduction Waiver on the Refund of Your Unused RRSP, PRPP, or SPP Contributions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3012a.html)from your RRSP, PRPP or SPP. If you transferred the unused contributions to your RRIF, refer to note [Footnote9](#fn9) below. | T4RSP box 22 T4RSP box 20 | Yes No |
+
+| **Annuity payments from an RRSP** – When an RRSP matures, you can draw an annuity from that RRSP. You have to include the payments in your income. If you receive the annuity payments because your spouse or common‑law partner died, the payments qualify for the pension income amount. In addition to receiving retirement income out of your RRSP, you can also choose to transfer the property to a RRIF or to buy yourself an eligible annuity. The value of all the property the plan holds is included in your income unless you draw an annuity from the [matured RRSP](#matured), use the RRSP to buy yourself an eligible annuity, or transfer the funds to a RRIF. For more information about the pension income amount, refer to [line 31400](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-31400-pension-income-amount.html). | T4RSP box 16 | No |
+
+| **Commutation payments from an RRSP** – A commutation payment is a fixed or single lump‑sum payment from your RRSP annuity that is equal to the current value of all or part of your future annuity payments from the plan. If your spouse or common‑law partner contributed to your RRSP, refer to note [Footnote8](#fn8) below. | T4RSPbox 22 | Yes |
+
+| **Minimum amount from a RRIF**– Starting in the year after the year you establish a RRIF, you have to be paid a yearly minimum amount. The payout period under your RRIF is for your entire life. Your RRIF carrier calculates the minimum amount based on your age at the beginning of each year. However, you can elect to have the payment based on your spouse’s or common‑law partner’s age. You must select this option when filling out the original RRIF application form. Once you make this election, you cannot change it. For more information, contact your RRIF carrier and refer to [Yearly minimum amount from a RRIF](#Yrl_mnmm_amnt_RRF). | T4RIF Box 16 | No |
+
+| **Excess amount from a RRIF** – In any year, you can be paid more than the minimum amount for that year. Amounts paid to you from a RRIF in a year that are more than the minimum amount for that year are called "excess amounts." Check with your carrier to make sure that your RRIF allows such payments. Under certain circumstances, you can directly transfer the excess amount from a RRIF. For more information, refer to [Excess amount from a RRIF under 60(l)(v)](#xcssmt-RRF) in Chart 9. The excess amount shown in box 24 of your T4RIF slip is for information purposes only. Only include the amount shown in box 16 of your slip on your income tax and benefit return. If you received the excess amount from your spousal or common‑law partner RRIF, refer to note [Footnote8](#fn8) . | T4RIF box 16 | Yes |
+
+| **Amounts deemed received on deregistration of an RRSP or a RRIF** – If in 2025 your RRSP or RRIF was changed and it no longer satisfies the rules under which it was registered, it is no longer an RRSP or a RRIF. It is now an amended plan or fund. In such a case, the CRA considers you to have received, in 2025, an amount that equals the FMV of all the property the plan or fund held at the time it ceased being an RRSP or a RRIF. If the deregistration was from your spousal or common‑law partner RRSP or RRIF, refer to note [Footnote8](#fn8) . | T4RSP box 26 T4RIF box 20 | Refer to note [Footnote10](#fn10) |
+
+| **Other income and deductions from an RRSP or a RRIF** – You may have to include other RRSP or RRIF amounts in your income, or you may be able to deduct other amounts for 2025. This applies if, in 2025, your RRSP or RRIF trust acquires or disposes of a non‑qualified investment. It also applies if trust property was used as security for a loan, sold for an amount less than its FMV, or the trust acquired property for an amount more than its FMV. If the amount in box 28 of your T4RSP slip or in box 22 of your T4RIF slip appears in brackets (negative amount,) claim it on line 23200 of your income tax and benefit return. | T4RSP box 28 T4RIF box 22 | No No |
+
+### Chart 6 – Amounts from a deceased annuitant's RRSP
+
+In all cases, tax will not be withheld. Report the amount on line 12900 of the income tax and benefit return.
+
+You can rollover the proceeds of a deceased annuitant's RRSP or RRIF, or a deceased member’s RPP, PRPP or SPP to the RDSP of a financially dependent infirm child or grandchild. For more information, refer to [Transfers to registered disability savings plans](#transfer_rdsp).
+
+R[efer to Death of a PRPP member](#Dth_PRPP_mmbr) for more information about amounts from a deceased member's PRPP. For more information on amounts from a deceased member's SPP, contact the SPP administrator.
+
+| **Description of amount** | **T4RSP box number** | **Slip issued in the name of, and to be reported by** |
+
+| --- | --- | --- |
+
+| **Payments from a matured RRSP** **If the surviving spouse or common‑law partner is**: **the beneficiary of the RRSP**, as specified in the RRSP contract or in the will, the remaining annuity payments under the RRSP become payable to the annuitant’s surviving spouse or common‑law partner and they will begin to receive the annuity payments. **the beneficiary of the estate**, the spouse or common‑law partner and legal representative can jointly elect in writing to treat amounts the RRSP paid to the estate as being paid to the spouse or common‑law partner. The surviving spouse or common‑law partner must attach a copy of the written election to their income tax and benefit return. The election has to specify that the surviving spouse or common‑law partner is electing to become the annuitant of the RRSP. If such an election is made, no T4RSP slip will be issued in the name of the estate even if the estate received the amounts. **For all other beneficiaries** – Annuity payments from an RRSP registered after June 29, 1978, that are to be paid to a beneficiary other than the RRSP annuitant’s surviving spouse or common‑law partner, have to be commuted. This commutation payment is not taxable in the beneficiary’s hands. The FMV of the property the RRSP held at the time of the annuitant’s death is included in the deceased annuitant’s income for the year of death. The amount reported on the deceased annuitant’s final Income Tax and Benefit Return may be reduced if, at the time of death, you were a financially dependent child or grandchild of the annuitant and an amount is paid from the RRSP to you or to the estate of which you are a beneficiary. For more information, refer to [Information Sheet RC4177, *Death of an RRSP Annuitant*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4177.html), and [Form T2019, *Death of an RRSP Annuitant – Refund of Premiums*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2019.html). Income earned in the RRSP after the annuitant dies that the beneficiary receives. Income earned in the RRSP after the annuitant dies that the estate receives. **Property from an unmatured RRSP** **Transfer to the surviving spouse or common‑law partner (named as beneficiary in the RRSP contract)** – If, **by** the end of the year following the year of death of the annuitant, **all** of the property the RRSP held is paid to you as the deceased annuitant’s spouse or common‑law partner (as specified in the RRSP contract), and that property is directly transferred to your RRSP, claim a deduction equal to the amount transferred to your RRSP on line 20800 of your income tax and benefit return. If the amount is directly transferred to your RRIF or directly transferred to an issuer to buy yourself an eligible annuity, claim a deduction equal to the amount transferred on line 23200 of your income tax and benefit return. **For all other situations** – The FMV of the property the RRSP held at the time of death is included in the deceased annuitant’s income for the year of death. The amount reported on the deceased annuitant’s final Income Tax and Benefit Return may be reduced if one of the following conditions applies: You were the spouse or common‑law partner of the annuitant at the time of death, and an amount is paid from the unmatured RRSP to you or to the estate of which you are the beneficiary. You were, at the time of death, a financially dependent child or grandchild of the annuitant and an amount is paid from the unmatured RRSP to you or to the estate of which you are a beneficiary. For more information, refer to [Information Sheet RC4177, *Death of an RRSP Annuitant*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4177.html), and [Form T2019, *Death of an RRSP Annuitant – Refund of Premiums*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2019.html). There is a decrease in the FMV of an unmatured RRSP between the date of death and the date of final distribution to the beneficiary or the estate. For more information, refer to [Information Sheet RC4177, *Death of an RRSP Annuitant*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4177.html), and [Form RC249, *Post‑Death Decline in the Value of a RRIF, an Unmatured RRSP and Post-Death Increase or Decline in the Value of a PRPP*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc249.html). Income earned in the RRSP after the annuitant dies that the beneficiary receives. Income earned in the RRSP after the annuitant dies that the estate receives. | box 16 box 16 box 34 box 28 box 28 box 18 box 34 box 18 or box 28 box 28 n/a box 28 box 28 | Surviving spouse or common‑law partner Surviving spouse or common‑law partner Deceased annuitant Beneficiary Estate Surviving spouse or common‑law partner Deceased annuitant’s final income tax and benefit return Surviving spouse or common‑law partner or estate Child/grandchild or estate Deceased annuitant’s final income tax and benefit return Beneficiary Estate |
+
+### Chart 7 – Amounts from a deceased annuitant's RRIF
+
+In all cases, tax will not be withheld
+
+If you received the amounts because your spouse or common law partner died, report these amounts on line 11500 of your income tax and benefit return. In all other cases, report the amounts on line 13000 of your income tax and benefit return
+
+| **Description of amount** | **T4RIF box number** | **Slip issued in the name of, and to be reported by** |
+
+| --- | --- | --- |
+
+| **Spouse or common‑law partner is designated as the new annuitant** – If the RRIF annuitant made a written election in the RRIF contract or in the will to have the RRIF amounts continue to the spouse or common‑law partner after death, the surviving spouse or common‑law partner becomes the annuitant after death and will begin to get the RRIF amounts as the new annuitant. The spouse or common‑law partner can become the annuitant of the RRIF after the deceased annuitant’s death, even if the deceased annuitant did not make this election in the RRIF contract or in the will. This is the case if the legal representative consents to the spouse or common‑law partner becoming the annuitant, and if the RRIF carrier agrees to continue paying the amounts under the deceased annuitant’s RRIF to the surviving spouse or common‑law partner. **Spouse or common‑law partner is designated as beneficiary of the RRIF** – If, by the end of the year following the year of death of the annuitant, **all** of the property the RRIF held is paid to you (as specified in the RRIF contract) as the deceased annuitant’s spouse or common‑law partner, and the eligible amount is directly transferred to your RRSP, claim a deduction equal to the transferred amount on line 20800 of your income tax and benefit return. If the amount is directly transferred to your RRIF or directly transferred to an issuer to buy an eligible annuity, claim a deduction equal to the transferred amount on line 23200 of your income tax and benefit return. The eligible amount is shown in box 24 of your T4RIF slip, and this is the maximum amount that can be directly transferred. **For all other situations** – On line 13000 of the deceased annuitant’s final income tax and benefit return, include the FMV of the property the RRIF held at the time of death. The amount reported on the deceased annuitant’s final income tax and benefit return may be reduced if one of the following conditions applies: You were the spouse or common‑law partner of the annuitant at the time of death and an amount is paid from the RRIF to you or to the estate of which you are a beneficiary You were, at the time of death, a financially dependent child or grandchild of the annuitant and an amount is paid from the RRIF to you or to the estate of which you are a beneficiary. For more information, refer to [Information Sheet RC4178, *Death of a RRIF Annuitant, PRPP Member, or ALDA Annuitant*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4178.html), and [Form T1090, *Joint Designation on the Death of a RRIF Annuitant, PRPP Member, or ALDA Annuitant*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1090.html).If you were a financially dependent infirm child or grandchild, you can rollover the proceeds of a deceased annuitant’s RRIF to your RDSP. For more information, refer to [Transfers to registered disability savings plans](#transfer_rdsp). There is a decrease in the FMV of a RRIF between the date of death and the date of final distribution to the beneficiary or the estate. For more information, refer to [Information Sheet RC4178, *Death of a RRIF Annuitant, PRPP Member, or ALDA Annuitant*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4178.html), and [Form RC249, *Post‑Death Decline in the Value of a RRIF, an Unmatured RRSP and Post-Death Increase or Decline in the Value of a PRPP*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc249.html). Income earned in the RRIF after the annuitant dies that the beneficiary receives. Income earned in the RRIF after the annuitant dies that the estate receives. | box 16box 16 and box 24 box 18 box 16 or box 22 box 22 box 22 n/a box 22 box 22 | Surviving spouse or common‑law partner Surviving spouse or common‑law partner Deceased annuitant’s final income tax and benefit return Surviving spouse or common‑law partner or estate Child, grandchild, or estate Deceased annuitant’s final income tax and benefit return Deceased annuitant’s final income tax and benefit return Beneficiary Estate |
+
+### Transfers to registered disability savings plans
+
+A deceased individual's RRSP and PRPP proceeds can be rolled over to the RDSP of the deceased individual's financially dependent child or grandchild with an impairment in physical or mental functions. This also applies for RRIF proceeds, certain lump-sum amounts paid from RPPs, and certain amounts from SPPs.
+
+The total amount of RRSP, RRIF, RPP, SPP, and PRPP proceeds rolled over to an RDSP cannot exceed the beneficiary's available RDSP contribution room. The rolled over proceeds will reduce the beneficiary's RDSP contribution room, but will not be eligible for any Canada disability savings grants.
+
+**Eligible individual** – An eligible individual is a child or grandchild of a deceased annuitant under an RRSP, a RRIF, or of a deceased member of an RPP, PRPP, or SPP, who was financially dependent on the deceased for support at the time of the deceased's death by reason of an impairment in physical or mental functions. The eligible individual must also be the beneficiary under the RDSP into which the eligible proceeds will be paid.
+
+For more information on the RDSP, refer to [Registered disability savings plan (RDSP)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/registered-disability-savings-plan-rdsp.html).
+
+The following chart shows what you have to do when there is a rollover to an RDSP. Use [Form RC4625, *Rollover to a Registered Disability Savings Plan (RDSP) Under Paragraph 60(m)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4625.html), or the form provided by your RDSP issuers to document the transaction.
+
+### RDSP Rollover
+
+| **Rollover from** | **Deceased individual** | **Eligible individual (refer to the definition above)** |
+
+| --- | --- | --- |
+
+| **RRSP** – Beneficiary named in the contract | n/a | The refund of premiums is shown in box 28 of a T4RSP slip. Enter this amount on line 12900 and claim a deduction equal to the amount transferred on line 23200. Attach [Form RC4625](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4625.html) or a letter from the RDSP issuer to your income tax and benefit return. |
+
+| **RRSP** – No beneficiary named in the contract | The refund of premiums is shown in box 28 of a T4RSP slip. On the deceased annuitant's final income tax and benefit return, enter this amount on line 12900 and claim a deduction equal to the amount transferred on line 23200. **Note** The deceased annuitant’s legal representative and qualifying survivor must have designated the amount the annuitant’s estate received from the RRSP to have been received by the qualifying survivor as a refund of premiums. [Form T2019](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2019.html) must be attached to the deceased annuitant's final income tax and benefit return. | Enter the refund of premiums transferred to the RDSP on line 13000 and claim a deduction equal to the amount transferred on line 23200. Attach [Form RC4625](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4625.html) or a letter from the RDSP issuer to your income tax and benefit return. When there is no beneficiary named in the contract, the dependent child or grandchild will not receive a T4RSP slip. However, forms [T1-ADJ](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1-adj.html), [RC4625](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4625.html), and [T2019](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2019.html) will have to be filed to have the deceased annuitant's income tax and benefit return adjusted to allow an eligible deduction on line 23200. When there is no beneficiary named in the contract, the recipient of the annuity will be unknown and so the income is recorded as "Other income" in box 28. |
+
+| **RRIF –**Beneficiary named in the contract | n/a | The designated benefit is shown in box 22 of a T4RIF slip. Enter this amount on line 13000 and claim a deduction equal to the amount transferred on line 23200. Attach [Form RC4625](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4625.html) or a letter from the RDSP issuer to your income tax and benefit return. |
+
+| **RRIF –**No beneficiary named in the contract | The designated benefit is shown in box 22 of a T4RIF slip. On the deceased annuitant's final income tax and benefit return, enter this amount on line 13000 and claim a deduction equal to the amount transferred on line 23200. **Note**The deceased annuitant’s legal representative and qualifying survivor must have designated the amount the annuitant’s estate received from the RRIF to have been received by the qualifying survivor as a designated benefit. [Form T1090](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1090.html) must be attached to the deceased annuitant's final income tax and benefit return. | Enter the designated benefit transferred to the RDSP on line 13000 and claim a deduction equal to the amount transferred on line 23200. Attach Form RC4625 or a letter from the RDSP issuer to your income tax and benefit return. When there is no beneficiary named in the contract, the dependent child or grandchild will not receive a T4RIF slip. However, forms [T1-ADJ](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1-adj.html), [RC4625](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4625.html), and [T1090](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1090.html) will have to be filed to have the deceased annuitant's income tax and benefit return adjusted to allow an eligible deduction on line 23200. |
+
+| **RPP** | n/a | The amount is shown in box 018 on T4A slip. Enter this amount on line 13000 and claim a deduction equal to the amount transferred on line 23200. Attach [Form RC4625](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4625.html) or a letter from the RDSP issuer to your income tax and benefit return. |
+
+| **SPP** | n/a | The amount is shown in box 018 of a T4A slip. Enter this amount on line 13000 and claim a deduction equal to the amount transferred on line 23200. Attach [Form RC4625](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4625.html) or a letter from the RDSP issuer to your income tax and benefit return. |
+
+| **PRPP** | n/a | The amount is shown in box 194 of a T4A slip. Enter this amount on line 13000 and claim a deduction equal to the amount transferred on line 23200. Attach [Form RC4625](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4625.html) or a letter from the PRPP administrator to your income tax and benefit return. |
+
+### Locked-in RRSP
+
+A locked-in RRSP is a plan containing funds transferred from an [RPP](#rpp) for a member of the RPP. **Under the pension laws of certain provinces**, locked-in RRSPs are sometimes called "locked-in retirement accounts (LIRAs)". This means that the member cannot receive the transferred funds. They either have to stay in the plan or be transferred to another locked-in RRSP to provide the member with a retirement income.
+
+You cannot withdraw funds from a locked-in RRSP. The money has to stay in the RRSP and will be used to buy a life annuity at retirement age.
+
+There are some exceptions that might allow you to access the money in your LIRA before retirement. While the rules vary from province to province, generally they include:
+
+- the annuitant having a reduced life expectancy
+
+- the annuitant being unemployed or having a low income
+
+- the annuitant becoming a non-resident of Canada
+
+- having a LIRA balance below a certain amount
+
+For more information, contact your plan administrator and then the jurisdiction (province) under which the LIRA is being held.
+
+However, under the pension laws of certain provinces, pension funds or funds from a locked-in RRSP can be transferred to a locked-in RRIF. These locked-in RRIFs are sometimes called life income funds or locked-in retirement income funds.
+
+Your employer or pension plan administrator can answer any questions you have about locked-in funds.
+
+Do not confuse locked-in RRSPs with fixed-term investments in an RRSP. A fixed-term investment, such as a guaranteed investment certificate, can have a locked-in interest rate for the term of the certificate.
+
+### Amounts paid from or into a spousal or common-law partner RRSP, RRIF, or SPP
+
+This section applies to you if:
+
+- you receive income from a spousal or common-law partner RRSP or RRIF
+
+- you receive income from an SPP account to which your spouse or common-law partner contributed
+
+- you have contributed to your spouse’s or common law partner’s RRSP or SPP
+
+A [spousal or common-law partner RRSP](#spousal) is any of your RRSPs:
+
+- to which your spouse or common-law partner contributed
+
+- that received amounts or transfers of property from your RRSPs to which your spouse or common-law partner had contributed
+
+- that received amounts or transfers of property from your RRIFs to which you had transferred amounts from your spousal or common-law partner RRSPs
+
+A spousal or common-law partner RRIF is any of your RRIFs that received amounts or transfers of property from:
+
+- a spousal or common-law partner RRSP
+
+- any of your other spousal or common-law partner RRIFs
+
+#### Calculating the income you and your spouse or common-law partner have to report
+
+If you contributed to your spouse’s or common law partner’s RRSPs or your spouse’s account under an SPP in 2023, 2024, or 2025, you may have to include in your 2025 income all or part of:
+
+- amounts your spouse or common‑law partner received in 2025 from any of their [**unmatured**](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4040/rrsps-other-registered-plans-retirement.html) spousal or common‑law partner RRSPs
+
+- commutation payments your spouse or common‑law partner received in 2025 from any of their [**matured**](#matured) spousal or common‑law partner RRSPs, or spousal or common-law partner SPP
+
+- amounts the CRA considers your spouse or common‑law partner to have received in 2025 in respect of any of their deregistered spousal or common‑law partner RRSPs or SPP
+
+- amounts your spouse or common‑law partner received, or those the CRA considers they received, in 2025 from any of their spousal or common‑law partner RRIFs that are more than the minimum amount for the year
+
+- amounts your spouse or common-law partner transferred from their spousal or common-law partner RRSPs to their FHSAs that are deemed to be a taxable withdrawal from their spousal or common-law partner RRSPs
+
+To determine the amount to include in your income or your spouse’s or common‑law partner’s income, your spouse or common‑law partner (the [annuitant](#annuitant)) should fill out [Form T2205, *Amounts from a Spousal or Common‑law Partner RRSP, RRIF or SPP to Include in Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2205.html)and follow the instructions on the form.
+
+If you want to ensure that you do not have to include any amount in your income when your spouse or common-law partner withdraws funds from a spousal or common-law partner RRSP, or spousal or common-law partner RRIF, make sure you have not contributed to any of your [spouse's or common-law partner's RRSPs](#spousal) in the year your spouse or common-law partner withdraws the funds, or in either of the two preceding years. Otherwise, you (the contributor) will probably have to include in your income the funds your spouse or common-law partner (the annuitant) withdraws.
+
+In May 2023, Marc started contributing to his spouse Stéphanie's RRSPs. He contributed the following amounts to her RRSPs:
+
+| Year | Amount |
+
+| --- | --- |
+
+| 2023 | $2,000 |
+
+| 2024 | $2,000 |
+
+| 2025 | + $1,000 |
+
+| Total | $5,000 |
+
+In 2025, Stéphanie withdrew $4,000 from her spousal or common‑law partner RRSPs. Before 2025, she had not withdrawn any amounts from her spousal or common‑law partner RRSPs.
+
+Stéphanie determines that Marc has to include $4,000 in his income on line 12900 of his 2025 income tax and benefit return, since the amount Marc has to include as income is the **lesser of**:
+
+- amounts he contributed to all spousal or common‑law partner RRSPs in 2023, 2024, and 2025 ($5,000)
+
+- amount his spouse withdrew from her spousal or common‑law partner RRSPs in 2025 ($4,000)
+
+Stéphanie does not include any amount in her income for this withdrawal.
+
+**Exceptions** – The rule that requires you, the contributor, to include certain amounts from spousal or common-law partner RRSPs, spousal or common-law partner RRIFs, or a spouse's account under an SPP as income does**not** apply to the following situations:
+
+- at the time of payment, or when the CRA considers the payment to have been received, you and your spouse or common-law partner were living separate and apart because of the breakdown of your relationship
+
+- at the time of payment, or when the CRA considers the payment to have been received, you or your spouse or common-law partner were non-residents of Canada
+
+- the amount is a [commutation payment](#commutation) that is transferred directly for your spouse or common-law partner to another RRSP, a RRIF, an SPP, or to an issuer to buy an eligible annuity that cannot be commuted for at least three years
+
+- the contributor dies in the year of payment or the year the CRA considers the payment to have been received
+
+- the CRA considers the deceased annuitant to have received the amount because of death
+
+In any such case, the annuitant spouse or common-law partner includes the payment in income for the year they receive it or is considered to have received it.
+
+**Tax deducted** – In all cases, the tax deducted has to be claimed by the individual to whom the slip is issued. In most cases, the information slip issued for the withdrawal will be in the name of the annuitant. However, report the income according to the calculations completed in Parts 1 and 2 of [Form T2205, *Amounts from a Spousal or Common-law Partner RRSP, RRIF or SPP to Include in Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2205.html).
+
+For more information, refer to archived [Interpretation Bulletin IT-307, *Spousal or Common-Law Partner Registered Retirement Savings Plans*.](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it307r4.html)
+
+## Chapter 6 – Transfers to registered plans or funds and annuities
+
+You can transfer certain amounts to an RPP, an RRSP, a RRIF, a DPSP, an SPP, a PRPP, or an FHSA You can also use certain amounts from an RPP, an RRSP, a RRIF, an SPP or a PRPP to buy yourself an eligible annuity.
+
+You have to transfer certain amounts directly. For other amounts, you can transfer them either directly or indirectly. This chapter provides information about the rules on these transfers.
+
+The three charts in this chapter list the most common types of amounts that you can transfer and the types of plans or funds to which you can transfer them.
+
+[Chart 8](#Chrt_8) covers amounts that you can transfer either directly or indirectly. [Chart 9](#chrt_9) covers amounts that you have to transfer directly. [Chart 10](#chrt_10) covers amounts that you transfer because of the breakdown of your marriage or common-law partnership.
+
+If you are a non-resident of Canada, refer to [Form NRTA1, *Authorization for Non-Resident Tax Exemption*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nrta1.html), for more information on transfers.
+
+### Other transfers
+
+Depending on the source of income, the following amounts can also be transferred to your RPP, SPP, PRPP, or RRSP:
+
+- certain lump-sum amounts from a non-registered pension plan that relate to services rendered throughout a period while a non-resident of Canada
+
+- eligible pension income from an estate or a testamentary trust
+
+- amounts received from foreign retirement arrangements, such as United States Individual Retirement Accounts (IRAs)
+
+For more information on these types of transfers, refer to archived [Interpretation Bulletin IT-528, *Transfers of Funds Between Registered Plans*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it528.html). For information on how to report the income, refer to[Federal income tax and benefit information](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-g.html).
+
+### Chart 8 – Amounts that you can transfer directly or indirectly
+
+- To deduct an amount, you have to make the contributions to a plan or fund in the year you receive the amount or no later than 60 days after the end of that year.
+
+- If you transfer the amount to your RRSP, you must be 71 years of age or younger at the end of the year you transfer the funds. You also have to fill out [Schedule 7, *RRSP, PRPP, and SPP Contributions and Transfers, and HBP and LLP Activities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html), and file it with your 2025 income tax and benefit return. If you need a Schedule 7, go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+| Type of property | Can be transferred to your: | Instructions |  |  |  |  |  |  |  |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  | RPP | RRSP | RRIF | Annuity | PRPP | SPP | ALDA | FHSA |  |
+
+| **Retiring allowance** | **Yes** | **Yes** | **No** | **No** | **Yes** | **Yes**[Footnote11](#fn11) | **No** | **No** | A retiring allowance is an amount you receive on or after retirement from an office or employment in recognition of long service. It includes payment for unused sick leave and amounts you receive for loss of office or employment, whether as a payment of damages or a payment under an order or judgment of a competent tribunal. You can transfer only the eligible part of your retiring allowance to your own RPP, SPP, RRSP, or PRPP. The eligible part is $2,000 for each year or part-year of service before 1996 in which you were employed by the employer or a person related to that employer from whom you received the retiring allowance. You can also transfer an additional $1,500 for each year or part-year of service before 1989 in which you had earned no pension or DPSP benefit from employer contributions that were either vested in you at the time of payment or that were previously paid to you. For 2025, the **eligible** portion of your retiring allowance will be reported in box 66 of your T4 slip and box 67 will show the part of your retiring allowance that is **not eligible**. On a T3 slip, the **eligible** part of a retiring allowance appears in box 47. Report the retiring allowance shown in boxes 66 and 67 of your 2025 T4 slip, or in box 26 of your T3 slip on line 13000 of your income tax and benefit return. Claim a deduction for the amount you transfer to your RPP on line 20700 of your income tax and benefit return. Claim a deduction for the amount you transfer to your RRSP on line 20800 of your income tax and benefit return. Write the amount of the transfer on line 24640 and in box 15 of Schedule 7. You cannot transfer the eligible part of your retiring allowance to your spouse’s or common-law partner’s RRSP. You may be able to contribute amounts you received from your retiring allowance to your own or your spouse’s or [common-law partner](#commonlaw_partner)’s RRSP, up to the limits explained in [Chapter 2](#P1109_28354). **Note** No tax is withheld if your employer directly transfers the eligible part of your retiring allowance. |
+
+| **Amounts paid from an RRSP, RRIF, ALDA upon death of the annuitant** | **No** | **Yes** | **Yes** | **Yes** | **Yes** | **Yes** | **No** | **No** | If, at the time of death, you are the deceased annuitant’s spouse or common-law partner, or you are a [financially dependent](#fin_dep) child or grandchild of the annuitant because of an impairment in physical or mental functions, you can transfer, on a tax-deferred basis, certain amounts paid from the deceased annuitant’s RRSP, RRIF or ALDA. You can rollover RRSP or RRIF proceeds to a RDSP of a financially dependent infirm child or grandchild. If you are the child or grandchild of the deceased annuitant, and are not financially dependent because of an impairment in physical or mental functions, you can only transfer the amounts to a term annuity. For more information on these transfers, refer to Information Sheets [RC4177, *Death of an RRSP Annuitant*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4177.html), and [RC4178, *Death of a RRIF Annuitant, PRPP Member, or ALDA Annuitant*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4178.html). No tax is withheld at source on these payments. For more information, refer to [Chart 6](#chrt_6) or [Chart 7](#chrt_7) |
+
+| **Lump-sum paid from an RPP, SPP, or PRPP upon death of the member** | **No** | **Yes** | **Yes** | **Yes** | **Yes** | **Yes** | **No** | **No** | If, at the time of death, you are a child or grandchild of the deceased member, and are financially dependent on the member because of an impairment in physical or mental functions, you can transfer, on a tax-deferred basis, certain amounts paid from the deceased member’s RPP, PRPP, or account under an SPP. You can rollover the proceeds to your RDSP if you are an [eligible individual](#lgbl_ndvdl). If you are the child or grandchild of the deceased member, and are not financially dependent on the member because of an impairment in physical or mental functions, you can only transfer the amounts to a term annuity. |
+
+### Chart 9 – Amounts that you have to transfer directly
+
+If you receive any of the types of amounts listed below (for example, in cash or by cheque), you must include them in your income for the year you receive them and you cannot transfer them on a tax-deferred basis. Instead, if you want to transfer these amounts to another registered plan or fund and defer the tax, make sure you inform the payer to transfer them directly.
+
+If you transfer the amount to your RRSP, you must be 71 or younger at the end of the year in which you transfer the funds.
+
+You do not have to use the forms listed in this chart. The institution that transfers your amounts may use other types of documents to record the transfer. The institution has to provide you with confirmation of the details of the transfer.
+
+| Type of property | Can be transferred to your: | Instructions | Form[Footnote12](#fn12) |  |  |  |  |  |  |  |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  | RPP | RRSP | RRIF | PRPP | Annuity | SPP | ALDA | FHSA |  |  |
+
+| **Defined benefit RPP lump-sum** | **Yes** | **Yes** | **Yes** | **Yes** | **No** | **Yes** | **No** | **No** | This includes a lump‑sum amount you are entitled to receive from your RPP or from your current or former spouse’s or [common-law partner’s](#commonlaw_partner) RPP because your current or former spouse or common-law partner has died. Do not claim a deduction for the amount you transfer, and do not report any amount on your income tax and benefit return. If you transfer an excess RPP lump‑sum amount, refer to [Excess transfer of an RPP lump‑sum amount](#xcsstrnsfr_RPP). | [T2151](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2151.html) |
+
+| **Money purchase RPP lump-sum** | **Yes** | **Yes** | **Yes** | **Yes** | **No** | **Yes** | **Yes** | **No** | This includes a lump‑sum amount you are entitled to receive from your RPP or from your current or former spouse’s or [common-law partner’s](#commonlaw_partner) RPP because your current or former spouse or common-law partner has died. Do not claim a deduction for the amount you transfer, and do not report any amount on your income tax and benefit return. | [T2151](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2151.html) For ALDA only: [T2157](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2157.html) |
+
+| **DPSP lump‑sum** | **Yes** | **Yes** | **Yes** | **Yes** | **No** | **Yes** | **Yes** | **No** | This includes a lump sum amount you are entitled to receive from your DPSP or from your current or former spouse’s or common-law partner’s DPSP because your current or former spouse or common-law partner has died. You can also transfer this amount to another DPSP. Do not claim a deduction for the amount you transfer, and do not report any amount on your income tax and benefit return. | [T2151](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2151.html) For ALDA only: [T2157](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2157.html) |
+
+| **RRSP commutation payment** | **No** | **Yes** | **Yes** | **Yes** | **Yes** | **Yes** | **No** | **No** | The commutation payment is shown in box 22 of your T4RSP slip. Report it on line 12900 of your income tax and benefit return. If you transfer the amount to your RRSP, claim a deduction for the amount you transfer on line 20800 of your income tax and benefit return. If you transfer the amount to your RRIF or to an issuer to buy an eligible annuity, claim a deduction for the amount you transfer on line 23200. Attach receipts to your income tax and benefit return showing the amount transferred. | [T2030](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2030.html) |
+
+| **Property from an unmatured RRSP** | **Yes** | **Yes** | **Yes** | **Yes** | **No** | **Yes** | **Yes** | **Yes** | This is an amount you are entitled to receive from an RRSP that has not yet started to pay you retirement income. Do not claim a deduction for the amount you transfer, and do not report any amount on your income tax and benefit return. | [T2033](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2033.html) For ALDA only:[T2157](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2157.html) For FHSA only: [RC720](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc720.html) |
+
+| **Property from a RRIF (excess amount)** | **Yes** | **No** | **Yes** | **Yes** | **No** | **Yes** | **Yes** | **No** | Do not claim a deduction for the excess amount you transfer, and do not report any amount on your income tax and benefit return. | T2033 For ALDA only: [T2157](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2157.html) |
+
+| **Excess amount from a RRIF under 60(l)(v)** | **No** | **Yes** | **Yes** | **Yes** | **Yes** | **Yes** | **No** | **No** | The excess amount is shown in boxes 16 and 24 of your T4RIF slip unless it is directly transferred to another RRIF for you. Report the total amount shown in box 16 on your income tax and benefit return. Refer to [line 11500](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-11500-other-pensions-superannuation.html) for details on how to report this income. If the excess amount is directly transferred to your RRSP, claim a deduction for the amount you transfer on line 20800 of your income tax and benefit return. If the excess amount is directly transferred to an issuer to buy an eligible annuity, claim a deduction for the amount you transfer on line 23200. The excess amount directly transferred to another of your RRIFs should not be reported on your T4RIF slip. Do not report the amount transferred as income on your income tax and benefit return, and do not claim any deduction for the amount transferred. | T2030 |
+
+| **SPP lump‑sum** | **No** | **Yes** | **Yes** | **Yes** | **Yes** | **Yes** | **No** | **No** | This includes a lump sum amount you receive from an SPP as a member. It also includes a lump sum amount you receive as the current or former spouse or common-law partner of a member if the member has died. Do not claim a deduction for the amount you transfer, and do not report any amount on your income tax and benefit return. | T2033 |
+
+| **Property from a PRPP** | **Yes** | **Yes** | **Yes** | **Yes** | **Yes** | **Yes** | **Yes** | **No** | This is an amount you are entitled to receive from a PRPP that has not yet started to pay you retirement income. It also includes a lump-sum amount you receive as the current or former spouse or common-law partner of a member if the member has died. Do not claim a deduction for the amount you transfer, and do not report any amount on your income tax and benefit return. | T2033 For ALDA only: [T2157](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2157.html) |
+
+| **Property from an FHSA** | **No** | **Yes** | **Yes** | **No** | **No** | **No** | **No** | **Yes** | This is an amount that you transfer from your FHSA to your RRSP, RRIF or FHSA. This also includes an amount from your spouse’s or common-law partner’s FHSA because your spouse or common-law partner has died and you were a spouse or common-law partner of the holder immediately before the death. Do not claim a deduction for the amount you transfer, and do not report any amount on your income tax and benefit return. If the amount transferred includes an excess FHSA amount, go to [Withdrawals and transfers out of your FHSAs](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/withdrawals-transfers-out-your-fhsas.html). | [RC721](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc721.html) [RC722](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc722.html) |
+
+### Chart 10 – Transferring amounts received because of a breakdown of the marriage or common-law partnership
+
+**In all cases, the transfer must be direct**. If you receive any of the types of amounts listed below (for example, in cash or by cheque), you have to include them in your income for the year you receive them and you cannot transfer them tax-free. Instead, if you want to transfer these amounts tax-free to another registered plan or fund, make sure you inform the payer to transfer them directly.
+
+In all cases, you must be entitled to the amount under a decree, order, or judgment of a competent tribunal, or under a written agreement relating to a division of property between you and your current or former spouse or common-law partner in settlement of rights arising from the breakdown of your relationship.
+
+If you transfer the amount to your RRSPs, you must be 71 or younger at the end of the year you transfer the funds.
+
+| Type of property | Can be transferred to your: | Instructions | Form[Footnote13](#fn13) |  |  |  |  |  |  |  |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  | RPP | RRSP | RRIF | PRPP | Annuity | SPP | ALDA | FHSA |  |  |
+
+| **RPP lump-sum** | **Yes** | **Yes** | **Yes** | **Yes** | **No** | **Yes** | **No** | **No** | Do not claim a deduction for the amount you transfer, and do not report any amount on your income tax and benefit return. | [T2151](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2151.html) |
+
+| **DPSP lump-sum** | **Yes** | **Yes** | **Yes** | **Yes** | **No** | **Yes** | **No** | **No** | Do not claim a deduction for the amount you transfer and do not report any amount on your income tax and benefit return. | [T2151](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2151.html) |
+
+| **Property from an unmatured RRSP** | **No** | **Yes** | **Yes** | **Yes** | **No** | **Yes** | **No** | **No** | You and your current or former spouse or common-law partner have to be living separate and apart at the time of the transfer because of the breakdown of your relationship. Do not claim a deduction for the amount you transfer and do not report any amount on your income tax and benefit return. | [T2220](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2220.html) |
+
+| **Property from a RRIF** | **No** | **Yes** | **Yes** | **Yes** | **No** | **Yes** | **No** | **No** | Do not claim a deduction for the amount you transfer and do not report any amount on your income tax and benefit return. | [T2220](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2220.html) |
+
+| **SPP lump‑sum** | **No** | **Yes** | **Yes** | **Yes** | **Yes** | **Yes** | **No** | **No** | You and your current or former spouse or common-law partner have to be living separate and apart at the time of the transfer because of the breakdown of your relationship. Do not claim a deduction for the amount you transfer and do not report any amount on your income tax and benefit return. | [T2220](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2220.html) |
+
+| **Property from a PRPP** | **Yes** | **Yes** | **Yes** | **Yes** | **Yes** | **Yes** | **No** | **No** | You and your current or former spouse or common-law partner have to be living separate and apart at the time of the transfer because of the breakdown of your relationship. Do not claim a deduction for the amount you transfer and do not report any amount on your income tax and benefit return. | [T2220](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2220.html) |
+
+| **Property from a FHSA** | **No** | **Yes** | **Yes** | **No** | **No** | **No** | **No** | **Yes** | Do not claim a deduction for the amount you receive and do not report any amount on your income tax and benefit return. If the amount transferred includes an excess FHSA amount, refer to [Breakdown of marriage or common-law partnership and FHSAs](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/ending-your-marriage-common-law-partnership.html). | [RC723](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc723.html) |
+
+### Direct transfer of an RPP lump-sum amount
+
+In most cases, if you transfer an RPP lump-sum amount directly to another RPP, SPP, RRSP, PRPP, or to a RRIF, you do not have to include any part of the amount in your income, and you cannot deduct it. However, the *[Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html)*limits the amount you may transfer on a tax-deferred basis from a [defined benefit provision](#dbp) of an RPP to a [money purchase provision](#money_provision) of an RPP, an RRSP, a PRPP, an SPP, or a RRIF.
+
+### Excess transfer of an RPP lump-sum amount
+
+If the amount you transfer is more than the limit, you have to include the excess transfer in your income. The T4A slip shows the excess transfer as pension income in boxes 018 and 108, which you report on line 13000 of your income tax and benefit return. You can view your T4A and other tax information slips online by going to [My Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html).
+
+If you made the excess transfer to your RRSP, PRPP, or SPP for 2025, the CRA considers you to have contributed it in the year in which you transferred it. Even if the excess transfer is made to your RRIF, the CRA still considers you to have contributed it to your RRSP, PRPP, or SPP. In both cases, the issuer, carrier, or administrator will give you an RRSP, a PRPP, or an SPP receipt for this contribution.
+
+You can deduct these RRSP, PRPP, or SPP contributions on line 20800 of your income tax and benefit return, up to your [RRSP deduction limit](#rrsp_dl) for the year in which you made the transfer. If you cannot deduct the contributions because they are more than your RRSP deduction limit for the year, you can leave them in your RRSP, PRPP, SPP, or RRIF and deduct them for future years up to your RRSP deduction limit for those years. You can view your RRSP information online by going to [My Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html).
+
+You may be subject to the 1% per month tax on the part of your unused contributions that are excess contributions during the period these contributions stay in the RRSP, PRPP, SPP, or RRIF. For more information, refer to [Tax on RRSP excess contributions.](#P2144_51601)
+
+**Withdrawal from an RRSP or a RRIF** – If you withdraw an excess transfer amount from an RRSP or a RRIF in 2025, and the CRA considers you to have contributed an excess transfer to your RRSP, a deduction is available if you meet both of the following conditions:
+
+- you did not previously deduct the excess amount as an RRSP contribution
+
+- you included the excess amount in your income for the year you received it
+
+You can use [Form T1043, *Deduction for Excess Registered Pension Plan Transfers You Withdrew from an RRSP, PRPP, SPP or RRIF*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1043.html), to calculate your deduction. Deduct the amount on line 23200 of your income tax and benefit return.
+
+You **cannot** use [Form T3012A, *Tax Deduction Waiver on the Refund of your Unused RRSP, PRPP, or SPP Contributions from your RRSP, PRPP or SPP*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1043.html), to withdraw unused contributions for an excess RPP lump-sum amount transferred to the RRSP, PRPP, SPP, or RRIF.
+
+### Transfers from an FHSA to an RRSP or RRIF when you have an excess FHSA amount
+
+If you have an excess FHSA amount at the time of the transfer and you transfer property from your FHSA to your RRSP or RRIF, any portion of the amount transferred that exceeds the total fair market value (FMV) of all the property held in all of your FHSAs at the time of the transfer minus the excess FHSA amount at the time of the transfer, will be treated as both:
+
+- a taxable withdrawal from your FHSA
+
+- a new RRSP contribution at the time of the transfer to your RRSP or RRIF
+
+The new RRSP contribution would reduce your unused RRSP deduction room and could result in RRSP excess contributions in certain cases.
+
+For more information, go to [Withdrawals and Transfers out of your FHSAs](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/withdrawals-transfers-out-your-fhsas.html).
+
+## Chapter 7 – PAs, PARs, and PSPAs
+
+### Pension adjustments (PAs)
+
+The following is an overview of PAs under RPPs and DPSPs. If you want to know how your PA is calculated or why you have a PA, contact your employer or plan administrator.
+
+Your PA for a year is the total pension credits for the year under aDPSP or a defined benefit or [money purchase provision](#money_provision) of an RPP of which you are a member. You may also have a pension credit if you participate in a [foreign plan](#foreign_plan). The pension credit is a measure of the value of the benefits that accrued to you during the year under these arrangements.
+
+#### Does your employer have to report a PA for you
+
+Your employer usually has to report a PA for you even if your benefit is not yet vested.
+
+#### Where is your PA shown on your T4 or T4A slip
+
+Your PA appears in box 52 of your T4 slip, or in box 034 of your T4A slip. If you worked for more than one employer in 2025 and each employer sponsors their own RPP or DPSP, you may have more than one PA. Enter the total of your PAs from your T4 and T4A slipson line 20600 of your 2025 income tax and benefit return.
+
+You can view your T4, T4A, and other tax information slips online by going to [My Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html).
+
+#### What does your PA affect
+
+Your PA for a year reduces your RRSP deduction limit for the following year. Your PA does not affect your income. If you contribute to your RRSP, PRPP, or SPP, or your spouse’s or common-law partner’s RRSP or SPP, your PA may indirectly affect the income taxes you pay or the refund you receive for the following year, because it reduces your RRSP deduction limit for the following year.
+
+For more information on how to calculate your RRSP deduction limit, refer to [Calculating your 2025 RRSP deduction limit.](#P1134_33932)
+
+You can find your 2025 RRSP deduction limit on your latest notice of assessment or notice of reassessment. If you receive a certified [Form T1004, *Applying for the Certification of a Provisional PSPA*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1004.html), after the CRA sends you your notice, the CRA may reduce your 2025 RRSP deduction limit. In such a case, the CRA will usually send you Form T1028, *Your RRSP, HBP, LLP, or FHSA information for 2025*, and give you your revised 2025 RRSP deduction limit when the CRA has updated the CRA's records.
+
+You can also find out your RRSP deduction limit by:
+
+- going to [My Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html)
+
+- or refer to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/contact/canadasite/en/revenue-agency/corporate/contact-information.html).
+
+If you participate in a [foreign plan](#foreign_plan), you may have to report an amount similar to a PA that will reduce your RRSP deduction limit for the following year. To determine the amount you have to report, contact the International Enquiries for Individuals and Trusts by going to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html) for the contact information. The CRA only accepts collect calls made through telephone operators. After your call is accepted by an automated response, you may hear a beep and notice a normal connection delay.
+
+For more information concerning PAs, refer to [Guide T4084, *Pension Adjustment Guide*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4084.html).
+
+### Pension adjustment reversals (PARs)
+
+A PAR restores your RRSP deduction limit when you end your membership in an [RPP](#rpp) or a [DPSP](#dpsp)in certain circumstances. Your plan administrator or trustee will report a PAR for you if the amount you receive from the plan is **less** **than** the total PAs and PSPAs that were previously reported for you.
+
+You will only have a PAR under a DPSP or a [money purchase provision](#money_provision) of an RPP if you are not fully vested at termination.
+
+Your plan administrator or trustee will send you a [T10, *Pension Adjustment Reversal (PAR) or Pension Adjustment Correction (PAC)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t10.html), that shows your PAR amount in box 2. Do not report this amount on your income tax and benefit return. Your plan administrator or trustee will send the CRA a copy of your T10 slip. The CRA uses that copy to increase your [RRSP deduction limit](#rrsp_dl) for the year.
+
+If you have a PAR for a termination in 2025, it increases your 2025 RRSP deduction limit. In such a case, the CRA will usually send you Form T1028,*Your RRSP, HBP, LLP, or FHSA information for 2025*, and give you your revised 2025 RRSP deduction limit when the CRA has updated the CRA's records.
+
+For more information on PAR, refer to [Guide RC4137, *Pension Adjustment Reversal Guide*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4137.html).
+
+If you do not receive Form T1028 and you want to confirm your 2025 RRSP deduction limit:
+
+- go to [My Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html)
+
+- or refer to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html)
+
+### Past service pension adjustments (PSPAs)
+
+The following is an overview of PSPAs. If you have questions about how your PSPA is calculated or why you have a PSPA, contact your employer or plan administrator.
+
+A PSPA is an amount your RPP administrator calculates when benefits relating to a previous period of pensionable service are improved or when you are credited with a new period of pensionable past service. A PSPA only occurs if the improved benefits or the new past service benefits relate to a period of service after 1989. A PSPA is the sum of the additional pension credits that would have been included in your PA if the upgraded benefits had actually been provided, or if the additional service was credited in those previous years.
+
+#### Types of PSPAs
+
+The plan administrator calculates your PSPA and determines whether the CRA has to certify the PSPA before the RPP can provide the past service benefits. There are two types of PSPAs: **certifiable** PSPAs, and PSPAs that are **exempt from certification** (exempt PSPAs). In most cases, the plan administrator has to report each PSPA to the CRA, whether exempt or certifiable.
+
+Certifiable PSPAs are also applicable to small plans with fewer than 10 members.
+
+**Exempt PSPAs** – An exempt PSPA usually occurs when all or almost all plan members receive past service benefit upgrades. In most cases, when an employer provides past service benefits and there is an exempt PSPA that is more than zero, the plan administrator has to report the PSPA to the CRA and to the plan member. For exempt PSPAs, the plan administrator has to fill out a [T215 slip, *Past Service Pension Adjustment (PSPA) Exempt from Certification or Permitted Corrective Contribution (PCC)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t215.html)*.*Do not attach the T215 slip to your income tax and benefit return.
+
+An exempt PSPA will not reduce your RRSP deduction limit until the year following the year of the past service event. For details on how to calculate your RRSP deduction limit, refer to [Calculating your 2025 RRSP deduction limit](#P1134_33932). You can view your RRSP information online by going to [My Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html).
+
+**Certifiable PSPAs** – A certifiable PSPA usually occurs if you, as a plan member, decide to buy a period of past service that is pensionable service under your RPP.
+
+The CRA has to certify most PSPAs that are more than zero and do not meet the [conditions for exemption](#exempt) outlined above. The CRA has to certify the PSPA before you have the right to receive the benefits under the plan. A certified PSPA will reduce your RRSP deduction limit for the year in which it is certified.
+
+Your plan administrator applies for PSPA certification by sending a completed [Form T1004, *Applying for the Certification of a Provisional PSPA*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1004.html). Since the *[Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html)*has limits on the PSPA amount for past service benefits that the CRA can certify, the CRA will apply these limits to the information on [Form T1004, *Applying for the Certification of a Provisional PSPA*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1004.html)and determine if the CRA can certify the PSPA.
+
+#### Cost of past service benefits
+
+The amount it costs you to pay for past service benefits will likely not equal the PSPA associated with the benefits, since a PSPA reflects a general measure of the value of the past service benefits rather than the actual cost to fund the benefits.
+
+Usually, you can pay for the cost of past service benefits by:
+
+- making a lump-sum contribution
+
+- making instalment contributions
+
+- directly transferring amounts from certain other registered plans. In this case, transfers may reduce the PSPA amount your plan administrator has to report to the CRA
+
+In some cases, your employer may fund all or part of the cost of the past service benefits.
+
+**Qualifying transfers** – Generally, a qualifying transfer is a direct transfer of a lump-sum amount from an [unmatured RRSP](#unmatured), an SPP, a DPSP, or a [money purchase provision](#money_provision) of an RPP. You can make a qualifying transfer to pay for all or part of the cost of the past service benefits related to the PSPA. If you make a qualifying transfer, the amount you transfer will reduce the PSPA amount the plan administrator has to report. Do not report your qualifying transfer amount as income and do not deduct it.
+
+#### What happens if the CRA cannot certify your PSPA
+
+If the CRA cannot certify your PSPA because the PSPA amount is more than the allowable limit, you may still be able to get certification if you agree to make a qualifying RRSP, PRPP, or SPP withdrawal. The CRA will send you letter, along with [Form T1006, *Designating an RRSP, a PRPP or an SPP Withdrawal as a Qualifying Withdrawal*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1006.html). Withdraw the qualifying withdrawal amount, as indicated on the letter and send the CRA one copy of the filled out Form T1006 (with Part 4 completed by the financial institution) and send the CRA proof that the funds were removed (such as an account transaction statement showing that the funds were removed from the plan) within 30 days of the date of the letter.
+
+Upon approval of the Form T1004, the CRA will then send you a T1028, *Your RRSP, HBP, LLP, or FHSA information for 2025,* to inform you of your revised RRSP deduction limit as a result of this change.
+
+To speed up the certification process, your plan administrator can review the certification formula before sending [Form T1004](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1004.html) to the CRA. If your plan administrator knows that the CRA will not certify the PSPA, the administrator may ask you in advance if you want to designate an RRSP qualifying withdrawal. If you choose to do so, the administrator may ask you to fill out [Form T1006](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1006.html) and will send it to the CRA with the certification request. If you cannot or choose not to make an RRSP qualifying withdrawal, the CRA will not certify the PSPA.
+
+If you choose not to proceed with Form T1006, you have the following options:
+
+- make a qualifying transfer, which will have the effect of reducing the amount of the PSPA
+
+- buy the amount of service that the unused RRSP deduction room plus the additional $8,000 (allowance for a shortfall) could purchase
+
+- wait and buy back the service at a later date when you have sufficient unused RRSP deduction room
+
+If you choose to proceed with any of the above three options, call the CRA officer indicated in your letter to advise them of your decision. They will return the Form T1004 to your plan administrator as denied.
+
+For more information, refer to "PSPAs requiring certification," in section 5.4 of [Guide T4104, *Past Service Pension Adjustment Guide*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4104.html).
+
+**Qualifying withdrawal** – Generally, a qualifying withdrawal is an amount you withdraw from your RRSP, PRPP, or SPP and include in your income for the year you withdraw the amount. You have to meet a number of conditions before the CRA will consider the amount to be a qualifying withdrawal. If you meet these conditions, you can designate the withdrawal and the CRA can certify the PSPA. The CRA outlines these conditions in Part 3 of [Form T1006](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1006.html), which you use to designate a qualifying withdrawal.
+
+#### Net PSPA
+
+Your net PSPA for 2025 reduces the amount of [RRSP contributions](#rrsp_c) you can deduct for 2025. Your 2025 net PSPA is the total of:
+
+- your exempt PSPAs and PCCs for 2024 (total from box 2 of your [T215 slips](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t215.html))
+
+**plus**
+
+- your certified PSPAs for 2025 ([Form T1004](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1004.html), Part 3, line A)
+
+**minus**
+
+- your RRSP qualifying withdrawals ([Form T1006](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1006.html), Part 3)
+
+Your [RRSP deduction limit](#rrsp_dl) may be reduced by the net PSPA or similar amount for the year if you participated in a [foreign plan](#foreign_plan) or [specified retirement arrangement](#specified_arrangement) and your past service benefits accruing under the plan were improved.
+
+For more information, refer to [Guide T4104, *Past Service Pension Adjustment Guide*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4104.html).
+
+The RRSP deduction claimed on a Section 216 return will not reduce your RRSP deduction limit for the following year. To correct your RRSP deduction limit, the CRA will have to process an administrative Form T215.
+
+Similar to exempt and certifiable PSPAs, an administrative Form T215 will reduce your RRSP deduction limit for the current calendar year. Once the administrative Form T215 is processed on your account, the amount of RRSP deduction claimed on your Section 216 return will show as a net PSPA on your Form T1028.
+
+Generally, the CRA sends Form T1028 with a new RRSP deduction limit if your RRSP deduction limit has changed for reasons other than a reassessment of a previous year’s income tax return.
+
+If you do not receive Form T1028 and you want to confirm your 2025 RRSP deduction limit:
+
+- go to [My Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html)
+
+- or refer to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/content/canada.ca/en/revenue-agency/corporate/contact-information.html)
+
+## Chapter 8 – Pooled registered pension plan (PRPP)
+
+A PRPP is a retirement savings option for individuals, including self-employed individuals.
+
+A PRPP enables its members to benefit from lower administration costs that result from participating in a large pooled pension plan. It's also portable, so it moves with its members from job to job.
+
+This chapter has general information about participating in and contributing to a PRPP. It provides information about who is eligible to join, how to transfer funds on a tax-deferred basis, and what you can deduct on your income tax and benefit return. For more information, refer to [The](https://www.canada.ca/en/revenue-agency/services/tax/pooled-registered-pension-plan-prpp.html)[Pooled Registered Pension Plan (PRPP)](https://www.canada.ca/en/revenue-agency/services/tax/pooled-registered-pension-plan-prpp.html).
+
+### Eligibility
+
+If you have a valid Canadian social insurance number (SIN), you can participate in a PRPP if any of the following conditions apply. You:
+
+- are employed or self-employed in the Nunavut, Yukon, or Northwest Territories
+
+- work in a federally regulated business or industry for an employer who chooses to participate in a PRPP
+
+- live in a province that has the required provincial standards legislation in place
+
+The*[Pooled Registered Pension Plan Act](http://laws-lois.justice.gc.ca/eng/acts/P-15.3/)* applies to PRPPs within the legislative authority of the federal government. Each province must enact its own legislation for PRPPs to be available to individuals not covered in the criteria above.
+
+### Participation
+
+You can be enrolled into a PRPP by either of the following:
+
+- your employer (if your employer chooses to participate in a PRPP)
+
+- a PRPP administrator (such as a bank or insurance company)
+
+Once you are enrolled, a PRPP account is created under your SIN. You choose the amounts to be contributed from your pay cheque. Your contributions, your employers’ contributions, and any lump-sum contributions, are all pooled together and credited to your account.
+
+The amount you can contribute is limited by your RRSP deduction limit.
+
+The amount that can be contributed is calculated based on the earned income you report on your income tax and benefit returns from prior years. It is important to file an income tax and benefit return each year when participating in the PRPP to keep your RRSP deduction limit up-to-date.
+
+### Contributions to a PRPP
+
+Similar to RRSPs, the maximum amount that you and your employer can both contribute to a PRPP in a given tax year without tax implications is determined by your RRSP deduction limit that appears on your latest notice of assessment or notice of reassessment, or on a Form T1028, *Your RRSP, HBP, LLP, or FHSA information for 2025*. You can also find out your 2025 RRSP deduction limit by:
+
+- going to [My Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html)
+
+- or refer to [Contact the Canada revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html)
+
+Any PRPP contributions you make that are not deducted on your income tax and benefit return are referred to as [unused PRPP contributions](#Unused_RRSP).
+
+**It is important for you to keep track of your RRSP, PRPP, and SPP contributions.**
+
+For more information, refer to [Keeping track of your RRSP, PRPP, and SPP contributions – Schedule 7](#P1157_38716).
+
+**Employer PRPP contributions, combined with your PRPP, SPP, and RRSP contributions, as well as contributions to your spouse’s or common-law partner’s RRSP or SPP that are above your RRSP deduction limit, may be considered excess contributions.**Combined contributions that are more than your RRSP deduction limit may be subject to a tax of 1% per month for every month they are left in the account. If you withdraw the unused contributions from your PRPP, you can claim an offsetting deduction. For more information, refer to[Withdrawing the unused contributions](#P2122_47948).
+
+Unlike RRSPs and SPPs, you cannot contribute to your spouse's or common-law partner's PRPP.
+
+#### Member contributions
+
+You can make voluntary contributions to your PRPP between January 1 in a given year and 60 days into the following year, up until the end of the year in which you turn **71**.
+
+You can deduct **your** contributions on your income tax and benefit return but your deduction must not be more than the difference between your RRSP deduction limit and the employer’s contributions to your PRPP. **You cannot deduct employer PRPP contributions on your income tax and benefit return.**
+
+Each year, Benoît contributes the maximum amount to his RRSPs and deducts this amount on line 20800 of his income tax and benefit return. In 2025, Benoît becomes a member of a PRPP, and he and his employer agree to make regular contributions throughout the year. Benoît knows his RRSP deduction limit for 2025 is $10,000, so he agrees to contribute $5,000 and his employer agrees to contribute $5,000. When filling out his 2025 income tax and benefit return, Benoît must remember to not include all of the contributions ($10,000) on line 20800 as he has done in prior years because he can only deduct up to $5000 of the contributions he made to his own PRPP. This is because only his PRPP contributions are deductible. Since the employer's contributions are not included in his income, they are not deductible on Benoît's income tax and benefit return.
+
+You can designate contributions you have made to your PRPP as repayments to the Home Buyers’ Plan (HBP) or the Lifelong Learning Plan (LLP). Fill out and include with your income tax and benefit return a [Schedule 7, *RRSP, PRPP and SPP Contributions and Transfers and HBP and LLP Activities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s7.html).
+
+Even if you are no longer employed, you can still contribute to your PRPP up to your available contribution room.
+
+#### Employer contributions
+
+An employer can make voluntary contributions to your PRPP. Contributions are not included in your income and are not deductible on your income tax and benefit return. Only **your** contributions to your PRPP are deductible on line 20800. Employer contributions that were made to your plan for the calendar year must be reported on line 20810.
+
+#### Contributions made with tax-exempt income
+
+For the purposes of contributing to a PRPP, the *[Income Tax Act](http://laws.justice.gc.ca/eng/acts/I-3.3/)*allows tax-exempt income earned by an Indian (as defined by the [*Indian Act*](http://laws-lois.justice.gc.ca/eng/acts/i-5/)), to be included in the calculation of their RRSP deduction limit for the year. Though their PRPP contributions made against tax-exempt income are not tax-deductible in their income tax and benefit return, they can be used as a repayment under the HBP or the LLP. For more information, refer to [Lines 7 and 8 – Contributions designated as a repayment under the HBP and the LLP](#lines6and7). Fill out and include with your income tax and benefit return a [Form RC383, *Tax-Exempt Earned Income and Contributions for a Pooled Registered Pension Plan*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc383.html).
+
+### PRPP transfers
+
+Where it is permissible, you can ask your PRPP administrator to directly transfer funds from one registered plan to another on a tax-deferred basis. Since you are not receiving an amount from the PRPP, you will not have to include the amount of the transfer as income on your income tax and benefit return.
+
+#### Transfers to a PRPP
+
+You can directly transfer amounts to your PRPP from another PRPP that you hold. You can also directly transfer amounts to your PRPP from your RPP, RRSP, RRIF, SPP, or DPSP under which you are the annuitant or member.
+
+You can also directly transfer funds to your PRPP account from the same plans mentioned above belonging to your spouse or common-law partner when you are entitled to those amounts because of a breakdown of the marriage or common‑law partnership or death.
+
+#### Transfers from a PRPP
+
+You can directly transfer amounts from your PRPP funds to another PRPP that you hold. You can also directly transfer amounts from your PRPP to your RPP, SPP, RRSP, or RRIF.
+
+The same transfers can be made for your spouse or common-law partner if they are entitled to the amount because of a breakdown of the marriage or common-law partnership or upon your death.
+
+A deceased member's PRPP proceeds can be rolled over to an RDSP of an [eligible individual](#lgbl_ndvdl).
+
+Amounts can also be directly transferred to a licensed annuity provider to acquire a qualifying annuity. However, if PRPP amounts are transferred to purchase a qualifying annuity, and there is an amount paid out of the annuity in the year, the amount paid out is to be included in the income tax and benefit return of the annuitant for the year of transfer.
+
+### PRPP payments
+
+Payments from a PRPP are considered to be pension income and are eligible for pension income splitting and the pension income amount if one of the following conditions applies:
+
+- you are aged 65 years or older
+
+- you are the spouse or common-law partner of a deceased PRPP member
+
+If you receive payments from a PRPP, it is taxable on your income tax and benefit return in the year you receive them. Since benefits such as old age security or guaranteed income supplements are calculated on the income you report on your income tax and benefit return each year, your benefits may be reduced accordingly.
+
+### PRPP withdrawals
+
+While the *Income Tax Act*places no restrictions on withdrawing funds from your PRPP account at any time, it does place limits on the credits available to you depending on your age when you receive payments. For example, if you receive payments from your PRPP before you are 65 years of age, you will not be eligible for pension income splitting or the pension income amount.
+
+The Pooled Registered Pension Plans Act also limits the distributions (withdrawals) that you can make to ensure that your PRPP funds are available for your retirement. Similar to other RPPs, the funds in your PRPP are generally "locked-in" and cannot be withdrawn before you retire from employment.
+
+You cannot for example, withdraw amounts from your PRPP to participate in the HBP or LLP. For more information, refer to [PRPP life events](#prpp_lf) or visit the [Office of the Superintendent of Financial Institutions Canada](http://www.osfi-bsif.gc.ca/Eng/Pages/default.aspx) for information about pension unlocking.
+
+### PRPP life events
+
+Although the legislation indicates that the funds within a PRPP are to be used for retirement purposes, the *Income Tax Act*does provide for certain situations where the funds are distributed prior to retirement age, and to someone other than the PRPP member.
+
+#### Death of a PRPP member
+
+When the member of a PRPP dies, where there is no successor member, the CRA considers that all property held in the PRPP is deemed to have been distributed immediately before the date of death. The [fair market value (FMV)](#fmv) of the assets held in the PRPP account less amounts distributed to qualifying survivors is included on the deceased member's final income tax and benefit return.
+
+A beneficiary will not have to pay tax on any amount paid out of the deceased member’s PRPP account if it can reasonably be regarded as having been included in the deceased member’s income.
+
+For complete detailed information on the death of a PRPP member, refer to [Information Sheet RC4178, *Death of a RRIF Annuitant, PRPP Member, or ALDA Annuitant*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4178.html).
+
+#### Breakdown of marriage or common‑law partnership
+
+A former or current spouse or common‑law partner of a PRPP member who is entitled to the funds from the member’s PRPP account as a result of a breakdown of the marriage or common-law partnership, may directly transfer the lump-sum amount to either:
+
+- another registered plan, such as another PRPP, RRSP, SPP, RRIF, or RPP of the individual
+
+- purchase a qualifying annuity
+
+## Chapter 9 – Advanced life deferred annuity (ALDA) transfers
+
+For 2020 and later taxation years, you can transfer certain amounts from an RRSP, a RRIF, a PRPP, a money purchase RPP, or a DPSP to purchase an ALDA, using [Form T2157, *Direct Transfer from a Registered Plan to Purchase an ALDA*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2157.html). An ALDA is a life annuity where the annuity payments must be started before the end of the year in which you turn 85 years of age. An ALDA is payable for as long as you live, or if it is a joint-lives annuity, for as long as you or your spouse or common-law partner lives.
+
+### Tax on ALDA cumulative excess amounts
+
+If you make a transfer to purchase an ALDA, either of the following purchases may result in an ALDA cumulative excess amount which is subject to tax:
+
+- a purchase that results in an excess ALDA transfer (refer to Chart A of the T1-OVP-ALDA return for the calculation of any excess ALDA transfers (i.e. amounts in excess of the 25% limit))
+
+- a purchase that causes you to exceed the ALDA dollar limit (the lifetime maximum for all of your ALDA purchases). For 2025, the ALDA dollar limit is $180,000.
+
+ALDA cumulative excess amounts are subject to a tax of 1% per month for every month they are left in the ALDA at the end of the month.
+
+If your ALDA purchases are subject to tax, you have to complete and file a T1-OVP-ALDA return on or before the filing due date of your income tax and benefit return.
+
+**Penalty** – If you owe tax in a year and do not file your T1-OVP-ALDA return on or before the filing due date of your income tax and benefit return, the CRA will charge you a late-filing penalty. The penalty is 5% of your balance owing, plus 1% of your balance owing for each month that your T1-OVP-ALDA return is late, to a maximum of 12 months. Your late-filing penalty may be higher if the CRA charged you a late-filing penalty on your T1-OVP-ALDA return for any of the three previous years.
+
+Attach your payment to your completed T1-OVP-ALDA return and submit it to:
+
+Canada Revenue Agency Sudbury Tax Centre Pension Workflow Team Post Office Box 20000, Station A Sudbury ON P3A 5C1
+
+If you do not pay your tax by the deadline, you may also have to pay interest that accumulated on any unpaid amount.
+
+**Interest** – If you have a balance owing in a year, the CRA charges compound daily interest starting on the 91st day of the following year on any unpaid amounts owing for that year. This includes any balance owing if we reassess your T1-OVP-ALDA return. In addition, the CRA will charge you interest on the penalties indicated in the previous section, starting on that 91st day.
+
+### Waiver or cancellation of tax
+
+If you determined that you must pay a tax on your ALDA cumulative excess amount, you may ask in writing that the CRA waives or cancels the tax if **both** of the following conditions are met:
+
+- your cumulative excess amount on which the tax is based arose due to a reasonable error; and
+
+- you are taking, or have taken, reasonable steps to eliminate the cumulative excess amount
+
+A **waiver** refers to the tax that is otherwise payable by a taxpayer for which relief is granted by the CRA before this amount is assessed or charged to the taxpayer. A **cancellation** refers to the amount of tax that was assessed or charged to the taxpayer for which relief is granted by the CRA.
+
+To consider your request, the CRA will need you to send a letter that explains:
+
+- why you made the cumulative excess amount and why this is a reasonable error
+
+- what steps you are taking, or have taken, to eliminate the cumulative excess amount
+
+Send your letters and supporting documents (such as copies of your ALDA account statements that identify the date you withdrew your cumulative excess amount as well as any other correspondence that shows that your cumulative excess amount arose due to a reasonable error) to:
+
+Canada Revenue Agency Sudbury Tax Centre Pension Workflow Team Post Office Box 20000, Station A Sudbury ON P3A 5C1
+
+For more information on cancellation or waiver of late-filing penalties and interest, refer to [Information Circular IC07-1R1, *Taxpayer Relief Provisions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic07-1.html).
+
+### Death of an ALDA annuitant
+
+For complete detailed information on the death of an ALDA annuitant, refer to [Information Sheet RC4178, *Death of a RRIF Annuitant, a PRPP Member, or ALDA Annuitant*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4178.html).
+
+## Chapter 10 – First home savings account (FHSA) transfers
+
+For 2023 and later taxation years, you can transfer property from your RRSP to your FHSA. For more information, refer to [First](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account.html)[Home Savings Account (FHSA)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account.html).
+
+### Transfer from an RRSP to an FHSA
+
+To complete a **direct** transfer from your RRSPs to your FHSAs, fill out [Form RC720, *Transfer from your RRSP to your FHSA*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc720.html)*,*and give it to your financial institution.
+
+If you make a direct transfer from your RRSPs to your FHSAs, the transfer will reduce your unused FHSA participation room. If you are an FHSA holder, you can also transfer property from your FHSAs to your RRSP.
+
+The transfer of property from your RRSPs to your FHSAs will not restore your unused RRSP deduction room.
+
+If you have RRSP excess contributions at the time of the transfer from your RRSPs, the transfer of property to your FHSAs will not reduce or eliminate your excess RRSP contributions.
+
+### Transfer from an FHSA to an RRSP or RRIF
+
+You can transfer property from your FHSAs to your RRSPs or RRIFs without any immediate tax consequences, as long as it is a **direct transfer**and you do not have an excess FHSA amount.
+
+You can only directly transfer property from your FHSAs to your RRSPs or RRIFs under which you are the annuitant of the plan or fund.
+
+If you have an excess FHSA amount at the time of the transfer and you transfer property from your FHSA to your RRSP or RRIF, any portion of the amount transferred that exceeds the total fair market value (FMV) of all the property held in all of your FHSAs at the time of the transfer minus the excess FHSA amount at the time of the transfer, will be treated as both:
+
+- a taxable withdrawal from your FHSA
+
+- a new RRSP contribution at the time of the transfer to your RRSP or RRIF
+
+The new RRSP contribution would reduce your unused RRSP deduction room and could result in RRSP excess contributions in certain cases.
+
+You can also transfer property from an FHSA to your RRSPs or RRIFs if you are entitled to it because your current or former spouse or common-law partner was an FHSA holder, and one of the following situations applies:
+
+- your spouse or common-law partner has died, and you were a spouse or common-law partner of the holder immediately before the death
+
+- you are entitled to receive the property from the FHSA under a decree, order, or judgment of a competent tribunal or under a written agreement relating to a division of property, in settlement of rights arising from the breakdown of your marriage or common-law partnership
+
+If the FHSA holder had an excess FHSA amount at the time of their death or at the time of the transfer, tax consequences may apply. For more information, refer to [Death and FHSAs](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/death-and-fhsas.html) or [Breakdown of a marriage or common-law partnership and FHSAs](https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/sujets/compte-epargne-libre-impot-achat-premiere-propriete/mettre-fin-votre-mariage-ou-votre-union-fait.html).
+
+If you do not do a direct transfer, the amount withdrawn from the FHSA would be taxable and would be treated as a new RRSP contribution. That new contribution would reduce your unused RRSP deduction room and could result in RRSP excess contributions in certain cases.
+
+To complete a direct transfer from an FHSA to your RRSPs or RRIFs, you will need to fill out a form and give it to your financial institution. For more information, refer to [Chart 9](#chrt_9).
+
+### Tax deduction on transfer from an RRSP to an FHSA
+
+Contributions that you make to your FHSAs are generally deductible on your income tax and benefit return for the year of the contribution or a future year, similar to RRSP contributions. However. it is important to note that transfers from your RRSPs to your FHSAs are not deductible.
+
+## Digital services
+
+### Digital services for individuals
+
+The CRA's digital services are fast, easy, and secure!
+
+### My Account
+
+My Account lets you access your personal income tax and benefit information, and interact with the CRA online throughout the year.
+
+#### Profile
+
+- Change your address, phone numbers, direct deposit information, marital status, information about children in your care, and language preference
+
+- Edit your notification preferences and receive email notifications when important changes are made to your account
+
+- Manage your authorized representatives and authorization requests
+
+- Manage your multi-factor authentication settings, security options, and personal identification number (PIN)
+
+#### Tax returns
+
+- View your notice of assessment or reassessment, special elections and returns, carryover amounts, and tax information slips (T4 and more)
+
+#### Accounts and payments
+
+- View your account balance and statement of account
+
+- Make a payment online to the CRA with the My Payment service, create a pre-authorized debit (PAD) agreement, or create a QR code to pay in person at Canada Post for a fee
+
+- Transfer a payment
+
+#### Benefits and credits
+
+- View your benefit and credit information, and apply for certain benefits
+
+#### Savings and pension plans
+
+- View information about your Registered Retirement Savings Plan (RRSP), Tax-Free Savings Account (TFSA), Home Buyers’ Plan (HBP), First Home Savings Account (FHSA), and Lifelong Learning Plan (LLP)
+
+#### Correspondence
+
+- View mail from the CRA
+
+- Submit documents to the CRA
+
+- Submit an audit enquiry
+
+- File a formal dispute
+
+- Request a CPP/EI ruling
+
+#### Additional digital services
+
+- Track the progress of certain files and enquiries you have submitted to the CRA
+
+- View and print your proof of income statement
+
+#### Receive your CRA mail online
+
+Set your correspondence preference to “Electronic mail” to receive email notifications when CRA mail, like your notice of assessment, is available in your account. You will no longer receive your CRA mail by paper.
+
+For more information, go to [Email notifications from the CRA – Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/online-mail-helping-you-organize-your-canada-revenue-agency-mail.html).
+
+#### Access My Account
+
+To access My Account, go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) and sign in to or register for a CRA account.
+
+#### Electronic payments
+
+Make your payment using:
+
+- your Canadian bank or credit union’s online banking, mobile app, or telephone service
+
+- the CRA’s My Payment service at [Pay with a debit card through the CRA's My Payment service](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html) with your activated debit card from a participating Canadian bank or credit union with a Visa Debit or Debit Mastercard logo (does **not**include credit cards)
+
+- pre-authorized debit (PAD) at [your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) which lets you:
+
+    - set up payments to the CRA from a Canadian chequing account on pre-set dates starting in five or more business days
+
+    - pay an amount due, repay overpaid amounts, or make instalment payments
+
+    - view your account history and modify, cancel, or skip a payment (for more information on PAD, go to [Pay by scheduled pre-authorized debit (PAD) through the CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html))
+
+- the “Proceed to pay” button through My Account in the “Accounts and payments” panel on the “Overview” page, or directly through “Accounts and Payments” side navigation menu item and under the “Account balance and statement of account” and “Instalments” panels
+
+- your credit card, *Interac* e-Transfer, or PayPal through one of the third-party service providers **for a fee**
+
+For more information, refer to [Payments to the CRA](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html).
+
+## Related forms and publications
+
+### Guides
+
+- [RC4092 – *Registered Education Savings Plans (RESPs)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4092.html)
+
+- [RC4137 – *Pension Adjustment Reversal Guide*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4137.html)
+
+- [RC4460 – *Registered Disability Savings Plan*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4460.html)
+
+- [T4084 – *Pension Adjustment Guide*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4084.html)
+
+- [T4104 – *Past Service Pension Adjustment Guide*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4104.html)
+
+### Information sheets
+
+- [RC4177– *Death of an RRSP Annuitant*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4177.html)
+
+- [RC4178 – *Death of a RRIF Annuitant, PRPP Member, or ALDA Annuitant*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4178.html)
+
+### Forms
+
+- [NRTA1 – *Authorization for Non-Resident Tax Exemption*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nrta1.html)
+
+- [RC96 – *Lifelong Learning Plan (LLP) Request to Withdraw Funds from an RRSP*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc96.html)
+
+- [RC249 – *Post-Death Decline in the Value of a RRIF, an Unmatured RRSP and Post-Death Increase or Decline in the Value of a PRPP*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc249.html)
+
+- [RC267 – *Employee Contributions to a United States Retirement Plan – for Temporary Assignments*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc267.html)
+
+- [RC268 – *Employee Contributions to a United States Retirement Plan – for Cross-Border Commuters*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc268.html)
+
+- [RC269 – *Employee Contributions to a Foreign Pension Plan or Social Security Arrangement – for Non-United States Plans or Arrangements*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc269.html)
+
+- [RC298 – *Advantage Tax Return for RRSP, TFSA, FHSA or RDSP issuers, RESP promoters or RRIF carriers*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc298.html)
+
+- [RC339 – *Individual Return for Certain Taxes for RRSPs, RRIFs, RESPs or RDSPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc339.html)
+
+- [RC2503 – *Request for Waiver or Cancellation of Part X.1 Tax - RRSP, PRPP and SPP Excess Contribution Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc2503.html)
+
+- [RC4625 – *Rollover to a Registered Disability Savings Plan (RDSP) Under Paragraph 60(m)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4625.html)
+
+- [RC720 – *Transfer from your RRSP to your FHSA*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc720.html)
+
+- [RC721 – *Transfer from your FHSA to your FHSA, RRSP or RRIF*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc721.html)
+
+- [RC722 – *Transfer from an FHSA to an FHSA, RRSP or RRIF After the Death of the Holder*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc722.html)
+
+- [RC723 – *Transfer from an FHSA to another FHSA, RRSP or RRIF on Breakdown of Marriage or Common-law Partnership*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc723.html)
+
+- [T1-OVP – *2025 Individual*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1-ovp.html)*[Return for RRSP, PRPP and SPP Excess Contributions tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1-ovp.html)*
+
+- [T1-OVP-ALDA – *2025 Individual Tax Return for Excess Transfers to Purchase an ALDA*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1-ovp-alda.html)
+
+- [T1-OVP-S – *2025 Simplified Individual Tax Return for RRSP, PRPP and SPP Excess Contributions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1-ovp-s.html)
+
+- [T3 – *Statement of Trust Income Allocations and Designations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3.html)
+
+- [T4 – *Statement of Remuneration Paid*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4.html)
+
+- [T4A – *Statement of Pension, Retirement, Annuity, and Other Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4a.html)
+
+- [T4RIF – *Statement of Income from a Registered Retirement Income Fund*](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/completing-slips-summaries/t4rsp-t4rif-information-returns/t4rif-slip-summary/t4rif-statement-income-a-registered-retirement-income-fund.html)
+
+- [T4RSP – *Statement of RRSP Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4rsp.html)
+
+- [T10 – *Pension Adjustment Reversal (PAR) or Pension Adjustment Correction (PAC)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t10.html)
+
+- [T746 – *Calculating Your Deduction for Refund of Unused RRSP, PRPP, and SPP Contributions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t746.html)
+
+- [T1004 – *Applying for the Certification of a Provisional PSPA*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1004.html)
+
+- [T1006 – *Designating an RRSP, a PRPP or an SPP Withdrawal as a Qualifying Withdrawal*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1006.html)
+
+- [T1007 – *Connected Person Information Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1007.html)
+
+- [T1036 – *Home Buyers' Plan (HBP) Request to Withdraw Funds from an RRSP*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1036.html)
+
+- [T1043 – *Deduction for Excess Registered Pension Plan Transfers You Withdrew from an RRSP, PRPP, SPP or RRIF*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1043.html)
+
+- [T1090 – *Joint Designation on the Death of a RRIF Annuitant, PRPP Member, or ALDA Annuitant*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1090.html)
+
+- [T1171 – *Tax Withholding Waiver on Accumulated Income Payments from RESPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1171.html)
+
+- [T1172 – *Additional Tax on Accumulated Income Payments from RESPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1172.html)
+
+- [T215 – *Past Service Pension Adjustment (PSPA) Exempt from Certification or Permitted Corrective Contribution (PCC)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t215.html)
+
+- [T2019 – *Death of an RRSP Annuitant – Refund of Premiums*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2019.html)
+
+- [T2030 – *Direct Transfer Under Subparagraph 60(l)(v)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2030.html)
+
+- [T2033 – *Direct Transfer under Subsection 146.3(14.1), 147.5(21) or 146(21), or Paragraph 146(16)(a) or**146.3(2)(e*)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2033.html)
+
+- [T2078 – *Election Under Subsection 147(10.1) for a Single Payment Received from a Deferred Profit-Sharing Plan*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2078.html)
+
+- [T2151 – *Direct Transfer of a Single Amount Under Subsection 147(19) or Section 147.3*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2151.html)
+
+- [T2157 – *Direct Transfer from a Registered Plan to Purchase an ALDA*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2157.html)
+
+- [T2205 – *Amounts from a Spousal or Common-law Partner RRSP, RRIF or SPP to Include in Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2205.html)
+
+- [T2220 – *Transfer from an RRSP, RRIF, PRPP, or SPP to Another RRSP, RRIF, PRPP or SPP on Breakdown of Marriage or Common-law Partnership*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2220.html)
+
+- [T3012A – *Tax Deduction Waiver on the Refund of Your Unused RRSP, PRPP, or SPP Contributions from Your RRSP, PRPP or SPP*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3012a.html)
+
+### Interpretation bulletins and income tax folios
+
+- [IT-167 ARCHIVED – *Registered Pension Funds or Plans – Employee's Contributions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it167r6.html)
+
+- [IT-307 ARCHIVED – *Spousal or Common-Law Partner Registered Retirement Savings Plan*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it307r4.html)
+
+- [IT-528 ARCHIVED – *Transfers of Funds Between Registered Plans*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it528.html)
+
+- [S1-F5-C1 – *Related Persons and Dealing at Arm's Length*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html)
+
+- [S2-F1-C2 – *Retiring Allowances*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-2-employers-employees/series-2-employers-employees-folio-1-specific-plans-offered-employers-employees/income-tax-folio-s2-f1-c2-retiring-allowances.html)
+
+- [S3-F10-C1 – *Qualified Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html)
+
+- [S3-F10-C2 – *Prohibited Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html)
+
+- [S3-F10-C3 – *Advantages – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html)
+
+- [S5-F1-C1 – *Determining an Individual's Residence Status*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/folio-1-residency/income-tax-folio-s5-f1-c1-determining-individual-s-residence-status.html)
+
+### Information circulars
+
+- [IC00-1R6 – *Voluntary Disclosures Program*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic00-1.html)
+
+- [IC07-1R1 – *Taxpayer Relief Provisions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic07-1.html)
+
+- [IC13-1R1 – *Pooled Registered Pension Plans (PRPP)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic13-1.html)
+
+- [IC72-22R10 –*Registered Retirement Savings Plans*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic72-22.html)
+
+- [IC77-1R5 –*Deferred Profit-Sharing Plans*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic77-1.html)
+
+- [IC78-18R6 – *Registered Retirement Income Funds*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18.html)
+
+- [IC93-3R2 – *Registered Education Savings Plans*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic93-3.html)
+
+## For more information
+
+### If you need help
+
+For help with common topics, current contact centre wait times, and links to online self-serve options, [Canada revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+### Direct deposit
+
+Direct deposit is a fast, convenient, and secure way to receive your CRA payments directly in your account at a financial institution in Canada. For more information, go to [Direct deposit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html) or contact your financial institution.
+
+### Forms and publications
+
+The CRA encourages you to file your return electronically. If you need a paper version of the CRA's forms and publications, go to [Forms](https://www.canada.ca/en/revenue-agency/services/forms-publications.html)[and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+### Electronic mailing lists
+
+The CRA can send you an email when new information on a subject of interest is available on its website. To subscribe, go to [Canada](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html)[Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+### Teletypewriter (TTY) and Video Relay Service (Canada VRS) users
+
+If you use a TTY for a hearing or speech impairment, call **1-800-665-0354**.
+
+Register with Canada VRS to download the app, by going to [Canada VRS](https://srvcanadavrs.ca/en/get-the-app/), and call the VRS line.
+
+If you use another **operator-assisted relay service**, call the CRA's regular telephone numbers instead of the TTY or Canada VRS numbers.
+
+## CRA service feedback program
+
+### Service complaints
+
+You can expect to be treated fairly and to receive a high level of service every time you interact with the CRA.
+
+You can provide compliments or suggestions; however, if you are not satisfied with the service you received.
+
+- You may save time by calling the CRA first depending on your situation. You can call the telephone number provided in your CRA correspondence or discuss your concerns with the employee you have been dealing with. If you do not have a contact number, go to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/content/canada.ca/en/revenue-agency/corporate/contact-information.html)
+
+- You can ask to discuss the matter with the employee's supervisor if you have not been able to resolve your service issue
+
+- You can submit feedback by filling out [Form RC193, *Service Feedback*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html), if the issue remains unresolved. For more information, go to [Send feedback about CRA service](https://www.canada.ca/en/revenue-agency/services/make-a-service-complaint.html)
+
+- You may contact the Office of the Taxpayers' Ombudsperson if you are not satisfied with the response you have received. The Ombudsperson will only respond to complaints that the CRA has already tried to address
+
+For more information about the *Taxpayer Bill of Rights*, refer to [Taxpayer Bill of Rights](https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/taxpayer-bill-rights.html).
+
+### Reprisal complaints
+
+If you received a response about a previously submitted service complaint or formal review of a CRA decision and felt that you were not treated fairly by a CRA employee, you can submit a reprisal complaint by filling out [Form RC459, *Reprisal Complaint*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc459.html).
+
+For more information, go to [Reprisal Complaints](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/reprisal-complaints.html).
+
+## Due dates
+
+When a due date falls on a Saturday, Sunday, or public holiday recognized by the CRA, your return is considered on time if the CRA receives it or if it is postmarked on or before the next business day.
+
+For more information, go to [Due dates and payment dates](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/important-dates-individuals.html).
+
+## Cancel or waive penalties and interest
+
+The CRA administers legislation, commonly called "taxpayer relief provisions" that gives the CRA discretion to cancel or waive penalties and interest when taxpayers cannot meet their tax obligations due to circumstances beyond their control.
+
+The CRA's discretion is limited to any period that ends within 10 calendar years before the year the request is made.
+
+### Penalties
+
+The CRA will consider your request only if it relates to a tax year or fiscal period ending in any of the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to a penalty for a tax year or fiscal period ending in 2015 or later.
+
+### Interest on a balance owing
+
+The CRA will consider only the amounts that accrued during the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to interest that accrued in 2015 or later.
+
+Taxpayer relief requests can be made online using the CRA's My Account, My Business Account, or Represent a Client digital services.
+
+You can also fill out [Form RC4288, *Request for Taxpayer Relief – Cancel or Waive Penalties and Interest*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4288.html), and send it:
+
+- online using My Account, My Business Account, or Represent a Client
+
+- by mail or courier to the designated office, as shown on the last page of the form, based on your place of residence
+
+For information about submitting documents online, go to [Submit documents online](https://www.canada.ca/en/revenue-agency/services/e-services/submit-documents-online.html).
+
+For more information about cancelling or waiving penalties and interest, go to [Cancel or waive penalties and interest at the CRA](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/cancel-waive-penalties-interest.html).

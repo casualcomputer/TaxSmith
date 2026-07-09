@@ -1,0 +1,277 @@
+Title: ARCHIVED - Excise and GST/HST News - No. 95
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news95/excise-gst-hst-news-no-95.html
+Corpus path: corpus/cra/forms-publications/publications/news95/excise-gst-hst-news-no-95.md
+Document type: publication
+Last modified: 2015-04-08
+
+# ARCHIVED - Excise and GST/HST News - No. 95
+
+## Table of Contents
+
+- [Form RC4616 – Simplified filing procedures concerning existing elections for nil consideration](#_Toc414266876)
+
+- [No offset of GST/HST and QST amounts for selected listed financial institutions with a consolidated filing election](#_Toc414266877)
+
+- [Service standard for responding to written requests for GST/HST rulings and interpretations](#_Toc414266878)
+
+- [Online services for GST/HST accounts](#_Toc414266879)
+
+- [Representatives – request or delete authorizations online](#_Toc414266880)
+
+- [Prescribed rates of interest](#_Toc414266881)
+
+- [What’s new in publications](#_Toc414266882)
+
+- [Enquiries](#_Toc414266883)
+
+## Form RC4616 – Simplified filing procedures concerning existing elections for nil consideration
+
+As discussed in the [Excise and GST/HST News – No 91](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news91.html) and [No 94](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news94.html), section 156 of the [Excise Tax Act](http://laws-lois.justice.gc.ca/eng/acts/E-15/index.html) permits corporations resident in Canada and Canadian partnerships that are:
+
+- registrants engaged exclusively in commercial activities; and
+
+- specified members of the same qualifying group
+
+to jointly elect to treat taxable supplies (with certain exceptions) made between them as having been made for no consideration.
+
+Effective January 1, 2015, the election (or revocation) must be filed with the Canada Revenue Agency (CRA).
+
+These parties must complete and file [Form RC4616, Election or Revocation of an Election for Closely Related Corporations and/or Canadian Partnerships to Treat Certain Taxable Supplies as Having Been Made for Nil Consideration for GST/HST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html). This form replaces Form GST25, which was not required to be filed with the CRA (see filing option 1 below for simplified procedures).
+
+Parties to an existing election in effect before January 1, 2015 must complete Form RC4616 and file it with the CRA before January 1, 2016. The election remains the original election with the original effective date. Specified members of a qualifying group that have existing elections, each with a different effective date that is before January 1, 2015, have the following two options for filing Form RC4616:
+
+- Under simplified procedures developed by the CRA, specified members of a qualifying group that have existing elections, each with a different effective date that is before January 1, 2015, now only need to file one Form RC4616 indicating December 31, 2014 as the effective date (covering all members instead of each filing separately). Each Form GST25 that was completed when each election was made should be kept with the electing members’ books and records and reflect the original effective date of the election. The common effective date of December 31, 2014, specified on Form RC4616, will be recorded in the CRA’s systems and will not invalidate the application of the election for supplies made before that date.
+
+- Alternatively, specified members of a qualifying group that have existing elections, each with a different effective date that is before January 1, 2015, could file a separate Form RC4616 for each (original) effective date. In this case, the different effective dates will be recorded in the CRA’s systems.
+
+In either case, Form RC4616 must be completed and filed with the CRA before January 1, 2016.
+
+## No offset of GST/HST and QST amounts for selected listed financial institutions with a consolidated filing election
+
+This article contains important information for:
+
+- investment plans that are selected listed financial institutions (SLFIs) for GST/HST or Quebec Sales Tax (QST) purposes or both that file their returns on a consolidated basis; and
+
+- managers of these investment plans.
+
+Generally, a person that is an SLFI for GST/HST or QST purposes or both, and files a return that relates to both the GST/HST and QST, is allowed to use an amount of the GST/HST or QST that is owed to the person in the reporting period for which the return is filed to offset (reduce) an amount of the QST or GST/HST respectively that is payable by the person in the same reporting period. An example of a return that relates to both the GST/HST and QST is [Form RC7294, Goods and Services Tax/Harmonized Sales Tax (GST/HST) and Quebec Sales Tax (QST) Final Return for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7294.html).
+
+However, the agreement for the CRA administration of the QST on behalf of Revenu Québec **does not provide for an** **offset** of GST/HST and QST when returns for the GST/HST and QST are filed on a consolidated basis for investment plans that are SLFIs for both GST/HST and QST purposes. More specifically, an amount of:
+
+- GST/HST owing cannot be reduced by a QST refund; or
+
+- QST owing cannot be reduced by a GST/HST refund.
+
+If investment plans that are SLFIs for both GST/HST and QST purposes are filing their GST/HST and QST return on a consolidated basis and owe GST/HST of $100,000, and are also entitled to a QST refund of $60,000 for a particular reporting period, a payment must be made to the CRA of $100,000 for the GST/HST owing and the CRA will issue a QST refund of $60,000.
+
+Similarly, if investment plans that are SLFIs for both GST/HST and QST purposes are filing their GST/HST and QST return on a consolidated basis and owe QST of $100,000 and are entitled to a GST/HST refund of $60,000 for a particular reporting period, a payment must be made to the CRA of $100,000 for the QST owing and the CRA will issue a GST/HST refund of $60,000.
+
+Please note that there is no requirement to make any adjustments to the manner in which amounts were remitted with respect to returns filed before April 22, 2015.
+
+In addition, investment plans that are SLFIs for GST/HST purposes only that file on a consolidated basis, should only report GST/HST on their consolidated return and cannot use a GST/HST refund to reduce QST that they owe that is reported on a different return. Nor can these investment plans offset an amount of GST/HST owing that is reported on their consolidated return with a refund of QST from a different return.
+
+Similarly, investment plans that are SLFIs for QST purposes only that file on a consolidated basis, should only report QST on their consolidated return and cannot use a QST refund to reduce GST/HST that they owe that is reported on a different return. Nor can these investment plans offset an amount of QST owing that is reported on their consolidated return with a refund of GST/HST from a different return.
+
+For additional information on the ability to offset the GST/HST and QST and consolidated filing please refer to [GST/HST Notice 288, Consolidated Filing for Investment Plans that are Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice288.html).
+
+## Service standard for responding to written requests for GST/HST rulings and interpretations
+
+The CRA’s service standards publicly state the level of performance that citizens can reasonably expect to encounter under normal circumstances. Numerous published service standards for CRA programs are available on the CRA website at [www.cra-arc.gc.ca/servicestandards](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/service-standards-cra.html).
+
+The GST/HST Rulings Program introduced a published service standard for responding to written requests for rulings and interpretations in 2006 which reads as follows: “Our goal is to respond to written requests for GST/HST rulings and interpretations within 45 business days of receipt in the CRA. This excludes highly technical and precedent and/or policy-setting rulings and interpretations.”
+
+As of April 1, 2015, this wording will be revised to read: “Our goal is to respond to written requests for GST/HST rulings and interpretations within 45 business days of CRA receipt of the request and all relevant facts and supporting documentation. This excludes highly technical and precedent and/or policy-setting rulings and interpretations.”
+
+This new wording is intended to encourage those requesting rulings and/or interpretations to provide as much information as possible with their initial request so that a more accurate, timely and complete response can be provided by the GST/HST Rulings Program. We hope this will facilitate service by reducing the need to ask for additional information from the requestor and as a result, reduce delays in the process.
+
+As of April 1, 2015, the new service standard wording will be on the CRA website at the following link: [www.cra-arc.gc.ca/servicestandards](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/service-standards-cra.html). It will also be reflected in [Pamphlet RC4405, GST/HST Rulings - Experts in GST/HST Legislation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4405.html) and [GST/HST Memorandum 1.4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html).
+
+## Online services for GST/HST accounts
+
+Are you wondering about the current status of your GST/HST return? Are you expecting a refund? Do you need to adjust your return? Have you misplaced your paper return and you need to file?
+
+Instead of using the telephone, switch to our online services for a faster and easier way to handle your business’s tax matters. You or your representative can file, pay, manage direct deposit, view mail, and access detailed information about your tax accounts – all online, all at your fingertips.
+
+- With the CRA's online secure services, you can:
+
+- authorize online access for employees and representatives to your business accounts;
+
+- file and adjust a GST/HST return without a Web access code;
+
+- view a processed return line by line along with the processing status and expected returns;
+
+- file various elections and rebates;
+
+- change mailing and physical addresses, as well as the address where you keep your books and records;
+
+- receive most of your CRA mail for your business online;
+
+- start, update, or stop direct deposit;
+
+- authorize the CRA to withdraw an amount from your bank account on date(s) that you choose using the “Pre-authorized debit” service;
+
+- submit account-related enquiries and get the responses online within 10 business days;
+
+- calculate interest to a future date, provided there is a balance owing using the “View and pay account balance” service;
+
+- calculate instalment payments;
+
+- request additional remittance vouchers;
+
+- request that we stop or restart the mailing of the GST/HST return for registrants package or the GST/HST and QST return for selected listed financial institutions;
+
+- request copies of notices and statements;
+
+- transfer payments within a program account and between program accounts of the same nine-digit business number and immediately view updated balances;
+
+- manage profile to add or remove a business;
+
+- view up-to-date account balances and transactions (for example, payments);
+
+- view direct deposit transactions;
+
+- view mail (for example, a notice of assessment);
+
+- view answers to common enquiries using the “Enquiries service”; and
+
+- view and manage operating names.
+
+To register or to log in to use these online services, go to:
+
+- [www.cra.gc.ca/mybusinessaccount](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) if you are a business owner; or
+
+- [www.cra.gc.ca/representatives](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html) if you are an employee or a representative of a business.
+
+For more information, go to [www.cra.gc.ca/businessonline](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html).
+
+## Representatives – request or delete authorizations online
+
+Representatives can use online services to:
+
+- send an authorization request and get access to their client’s business accounts; and
+
+- delete the authorization of a client that they no longer represent.
+
+Simply go to [www.cra.gc.ca/representatives](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html).
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from April 1, 2015 to June 30, 2015, on overdue amounts payable to the Minister is 5%. The prescribed annual rate of interest on amounts owed by the Minister (i.e., rebates or refunds) is 1% for corporate taxpayers and 3% for non-corporate taxpayers. These rates are applicable to income tax, excise tax, the softwood lumber products export charge, GST/HST and the air travellers security charge (ATSC) and excise duty on wine, spirits and tobacco.
+
+The prescribed annual rate of interest respecting excise duty on beer, on overdue amounts payable for the indicated period, is set at 3%. Refund interest rates are not applicable for amounts owed by the Minister (i.e., rebates or refunds) for excise duty that is in relation to beer.
+
+|  | GST/HST, Excise Tax, Softwood Lumber Products Export Charge, Excise Duty (wine, spirits, tobacco), ATSC, Income Tax | Excise Duty (beer) |  |  |
+
+| --- | --- | --- | --- | --- |
+
+| Period | Refund Interest Corporate Taxpayers | Refund Interest Non-Corporate Taxpayers | Arrears and Instalment Interest | Arrears Interest |
+
+| April 1 to June 30, 2015 | 1% | 3% | 5% | 3% |
+
+| January 1 to March 31, 2015 | 1% | 3% | 5% | 3% |
+
+| October 1 to December 31, 2014 | 1% | 3% | 5% | 3% |
+
+| July 1 to September 30, 2014 | 1% | 3% | 5% | 3% |
+
+Prescribed interest rates for previous years are available on the CRA website at [www.cra.gc.ca/interestrates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## What’s new in publications
+
+The following is a list of new or revised excise and GST/HST forms and publications.
+
+### Forms and guides
+
+- [GST60, GST/HST Return for Acquisition of Real Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst60.html)
+
+- [RC1, Request for a Business Number](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc1.html)
+
+- RC2, The Business Number and Your Canada Revenue Agency Program Accounts
+
+- [RC4419, Financial Institution GST/HST Annual Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4419.html)
+
+- [RC7219, GST/HST and QST Annual Information Return for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc7219.html)
+
+- [RC7260, GST/HST and QST Return for Acquisition of Real Property/Immovable by a Selected Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7260.html)
+
+### GST/HST memoranda
+
+- [16-4, Anti-avoidance Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/16-4/16-4-anti-avoidance-rules.html)
+
+### GST/HST notices
+
+- [NOTICE287, CRA Administrative Positions on the Application of the Import Rules for Financial Institutions to Reinsurance Contracts](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice287.html)
+
+- [NOTICE288, Consolidated Filing for Investment Plans that Are Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice288.html)
+
+### Excise duty memoranda
+
+- [EDM3-1-1, Producers and Packagers of Spirits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edm3-1-1.html) (revised)
+
+- [EDM3-1-2, Licensed Users](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edm3-1-2.html) (revised)
+
+- [EDM4-1-1, Producers and Packagers of Wine](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edm4-1-1.html) (revised)
+
+- [EDM8-1-1, Excise Warehouses](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edm8-1-1.html) (revised)
+
+### Excise Act, 2001 – Excise duty notices
+
+- EDN40, Semi-Annual Reporting Period for Certain Licensees
+
+All GST/HST, excise duty and excise taxes and special levies publications can be found on the CRA website at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html), at [www.cra.gc.ca/etsl](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies.html) and at [www.cra.gc.ca/exciseduty](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty.html).
+
+To receive email notification as soon as a document is published on the CRA website, go to the [electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) page at [www.cra.gc.ca/lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribe to the RSS feed for all new CRA publications and forms, or subscribe to any number of mailing lists for different types of publications.
+
+## Enquiries
+
+**For online access to** **your GST/HST, softwood lumber products export charge, air travellers security charge, excise tax and duty accounts** (such as viewing up-to-date account balances and transactions, transferring payments, and more), go to:
+
+- [www.cra.gc.ca/representatives](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), if you are an authorized representative or employee; or
+
+- [www.cra.gc.ca/mybusinessaccount](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), if you are the business owner.
+
+**For technical help while using our online services**:
+
+- business accounts, call 1-800-959-5525
+
+- teletypewriter users, call 1-800-665-0354
+
+- calls outside of Canada and the United States, call collect at 1-613-940-8528
+
+Please have the screen number (bottom right) and, if applicable, the error number and message received on hand when calling.
+
+**For general information and to make enquiries regarding your account** (except for softwood lumber products export charge accounts), you can:
+
+- view answers to common enquiries, or submit an enquiry using the online “Enquiries service” on “My Business Account”;
+
+- view account information online at [www.cra.gc.ca/businessonline](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html); or
+
+- call Business Enquiries at 1-800-959-5525
+
+**For specific account-related enquiries,**use the online “Enquiries service” on My Business Account. Select the “Submit an enquiry” option to send us your question and receive a response electronically.
+
+**For enquiries regarding your softwood lumber products export charge account**, you can:
+
+- view answers to common enquiries, or submit an enquiry using the online “Enquiries service” on “My Business Account”;
+
+- view account information online at [www.cra.gc.ca/businessonline](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html) ; or
+
+- call 1-800-935-0313
+
+**To make enquiries regarding the status of specific GST/HST domestic rebate claims,** call the Business Enquiries line at 1-800-959-5525.
+
+**For GST/HST technical enquiries,**call GST/HST Rulings at 1-800-959-8287.
+
+**Forms and publications** To access forms and publications **online**, go to [www.cra.gc.ca/forms](https://www.canada.ca/en/revenue-agency/services/forms-publications.html). To order forms and publications**by telephone**, call 1-800-959-5525.
+
+**Are you a GST/HST registrant located in Quebec?** To make an enquiry or obtain information on the GST/HST, contact Revenu Québec at 1-800-567-4692 or visit its website at [www.revenuquebec.ca](http://www.revenuquebec.ca/en/default.aspx).
+
+**Are you a selected listed financial institution (including the ones located in Quebec)?**
+
+- For **GST/HST** account-related enquiries or for registration for a CRA business number, call Business Enquiries at 1-800-959-5525. For GST/HST technical enquiries, call GST/HST Rulings at 1-855-666-5166.
+
+- For **QST** account-related enquiries for reporting periods ending on or after January 1, 2013 or for registration for a CRA business number effective on or after January 1, 2013, call Business Enquiries at 1-800-959-5525. For technical enquiries related to the amended QST, call GST/HST Rulings at 1-855-666-5166.
+
+The *Excise and GST/HST News* is published quarterly and highlights recent developments in the administration of the goods and services tax (GST) and harmonized sales tax (HST), First Nations goods and services tax (FNGST) and First Nations tax (FNT), softwood lumber products export charge, air travellers security charge (ATSC) as well as excise taxes and duties. If you would like to receive a link to each new edition of the *Excise and GST/HST News* as it is published, [subscribe](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/subscribe-a-canada-revenue-agency-electronic-mailing-list.html) to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-excise-gst-hst-news.html).
+
+This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, *Excise and GST/HST News*, Legislative Policy and Regulatory Affairs Branch, CRA, Ottawa, ON K1A 0L5.

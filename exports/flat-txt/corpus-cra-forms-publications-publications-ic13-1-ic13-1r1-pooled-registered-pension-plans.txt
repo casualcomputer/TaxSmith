@@ -1,0 +1,475 @@
+Title: Pooled Registered Pension Plans (PRPP)
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic13-1/ic13-1r1-pooled-registered-pension-plans.html
+Corpus path: corpus/cra/forms-publications/publications/ic13-1/ic13-1r1-pooled-registered-pension-plans.md
+Document type: publication
+Last modified: 2018-02-09
+
+# Pooled Registered Pension Plans (PRPP)
+
+**This circular is only available in electronic format.**
+
+This circular cancels and replaces IC13-1 dated February 18, 2013.
+
+**¶ 1.** This circular explains the provisions of the Income Tax Act (ITA) and the Canada Revenue Agency (CRA) requirements for the registration of a pooled pension plan. For more information, see the publications listed in Part IV, “General information,” below.
+
+This circular reflects the provisions of the law when this circular was published. You should check for any amendments to the legal provisions or court decisions that were issued after the publication date of this circular.
+
+## Authority
+
+**¶ 2.** Section 147.5 of the ITA contains the registration requirements for pooled pension plans, as well as the rules for income inclusions and deductions, tax treatment on death, transfers, and special rules for status Indians for pooled registered pension plans (PRPPs). Paragraph 60(l) and section 60.02 of the ITA contain the rollover provisions for PRPPs. Part X.1 of the ITA imposes a tax for over-contributions to deferred-income plans. Subsection 147.5(11) deems a contribution made by a PRPP member to the PRPP to be a premium to a registered retirement savings plan (RRSP) for the purpose of certain parts of the ITA, including Part X.1. This circular does not explain paragraph 60(l), section 60.02, or Part X.1 of the ITA, in any detail. Also, this circular does not explain the taxation of distributions from a PRPP, tax treatment on death, or the special rules for status Indians.
+
+### Personal information
+
+**¶ 3.** Information that we get for tax purposes is confidential. Only the taxpayer or a person the taxpayer or the law authorizes has access to this information. The Privacy Act and the Access to Information Act reinforce this protection.
+
+## Contents
+
+- [Part I – What is a PRPP?](#_Toc413411741)
+
+- [Parties to a PRPP](#_Toc413411742)
+
+    - [Administrator](#_Toc413411743)
+
+    - [Member](#_Toc413411744)
+
+    - [Successor member](#_Toc413411745)
+
+    - [Participating employer](#_Toc413411746)
+
+- [Contributions to a PRPP](#_Toc413411747)
+
+- [Distributions from a PRPP](#_Toc413411748)
+
+- [Part II – Registration process](#_Toc413411749)
+
+    - [Application for registration](#_Toc413411750)
+
+    - [Prescribed manner](#_Toc413411751)
+
+    - [Registration conditions](#_Toc413411752)
+
+    - [Additional conditions](#_Toc413411753)
+
+    - [Permissible benefits](#_Toc413411754)
+
+    - [Minimum amount](#_Toc413411755)
+
+    - [Restricted investments](#_Toc413411756)
+
+    - [Designated pooled pension plans](#_Toc413411757)
+
+    - [Funding arrangements](#_Toc413411758)
+
+    - [Mailing information](#_Toc413411759)
+
+- [Part III – PRPP administration](#_Toc413411760)
+
+    - [Administrator’s obligations](#_Toc413411761)
+
+    - [Annual information return](#_Toc413411762)
+
+    - [Amending the PRPP](#_Toc413411763)
+
+    - [Termination of the PRPP](#_Toc413411764)
+
+    - [Revocation for non-compliance](#_Toc413411765)
+
+    - [Appeal rights](#_Toc413411766)
+
+- [Transfers](#_Toc413411767)
+
+    - [Transfers into a PRPP](#_Toc413411768)
+
+    - [Transfers out of a PRPP](#_Toc413411769)
+
+- [Qualifying annuity](#_Toc413411770)
+
+- [Part IV – General information](#_Toc413411771)
+
+    - [Related forms and publications](#_Toc413411772)
+
+    - [Where to get help](#_Toc413411775)
+
+    - [Glossary](#_Toc413411776)
+
+## Part I – What is a PRPP?
+
+**¶ 4.** Subsection 147.5(1) of the ITA defines a PRPP as a pooled pension plan that has been accepted for registration by the Minister of National Revenue for the purposes of the ITA. A pooled pension plan is a plan that is registered under the Pooled Registered Pension Plans Act or a similar law of a province or territory. Under a PRPP, contributions are made to members’ accounts and are invested in order to provide retirement income to the plan members.
+
+**¶ 5.** A PRPP is not a registered pension plan. Registered pension plans are governed by a separate set of income tax rules in sections 147.1 to 147.4 of the ITA.
+
+## Parties to a PRPP
+
+### Administrator
+
+**¶ 6.** An administrator of a pooled pension plan is a corporation resident in Canada that is responsible for the administration of the plan and is authorized under the Pooled Registered Pension Plans Act or a similar law of a province or territory to act as an administrator. An administrator of a pooled pension plan may also be an entity designated to act as the administrator under section 21 of the Pooled Registered Pension Plans Act or any provision of a law of a province or territory that is similar to that section. Section 21 deals with pooled pension plan administrators who are insolvent or who cannot act in the best interests of the plan members.
+
+### Member
+
+**¶ 7.** A member is an individual who holds an account under a PRPP. The member must have a valid social insurance number (SIN) to hold an account. Individuals who are employed can participate in a PRPP whether or not their employer participates in the plan. Self-employed individuals can also have an account under a PRPP.
+
+### Successor member
+
+**¶ 8.** A successor member is an individual who was the spouse or common-law partner of a member of a PRPP just before the death of the member and who acquires, as a consequence of the death, all of the member’s rights for the member’s account under the PRPP.
+
+### Participating employer
+
+**¶ 9.** A participating employer is an employer that makes contributions to a pooled pension plan for its employees or former employees; or an employer who remits member contributions to the administrator.
+
+## Contributions to a PRPP
+
+**¶ 10.** Only the plan member and the plan member’s employer or former employer can contribute to the member’s account under the plan. Employer and member contributions are generally deductible in calculating their respective incomes, subject to the requirements of the ITA. In addition, transfers from other deferred-income plans are permissible. For details on transfers into a PRPP and their tax treatment, see **¶ 35** and **¶ 37**.
+
+**¶ 11.** Subsection 147.5(11) of the ITA deems a contribution made by a PRPP member to the PRPP to be a premium to an RRSP for the purpose of certain parts of the ITA, including subsection 146(5) and Part X.1. Part X.1 is extended to include the aggregate of contributions made to PRPPs and to RRSPs by the member. Employer contributions to a PRPP may also have Part X.1 tax implications for the member, due to modifications to section 146 and Part X.1 of the ITA.
+
+**¶ 12.** Member deductions for PRPP and RRSP contributions are limited to the amount by which the member’s RRSP deduction limit is more than employer PRPP contributions for the member for the year.
+
+## Distributions from a PRPP
+
+**¶ 13.** The only distributions that can be made from a PRPP are the payment of benefits or a return of contributions in certain circumstances. Benefits must begin to be paid from the PRPP no later than the end of the year in which the member reaches the age of 72, and must be made to the member while alive and, on death, to the designated beneficiary or successor member, if that applies. Permissible benefits must be in the form of variable benefits or the payment of a single amount from the member’s account. Variable benefits and single amounts are described in **¶ 18**. Total distributions each year to a member must not be less than the minimum amount, or the PRPP will become a revocable plan. The minimum amount is described in **¶ 19**. Benefits paid as a single amount may be transferred out of the PRPP. The rules regarding these transfers are described in **¶ 36**.
+
+## Part II – Registration process
+
+### Application for registration
+
+**¶ 14.** Under subsection 147.5(2) of the ITA, the Minister of National Revenue shall not accept for registration any pooled pension plan, unless application is made in the prescribed manner by the plan administrator and the plan complies with prescribed conditions for registration.
+
+### Prescribed manner
+
+**¶ 15.** An application is made in the prescribed manner where the following certified documents are submitted to the Minister of National Revenue:
+
+1. a completed Form RC364-CA, Application to Register a Pooled Pension Plan, or if your pension supervisory authority has a joint form with CRA, the applicable RC364 form (go to [Savings and pension plan administration](https://www.canada.ca/en/services/taxes/savings-and-pension-plans/savings-and-pension-plan-administration.html) for additional information);
+
+2. the plan text, and any other documents that include the terms of the plan;
+
+3. all trust deeds, insurance contracts, agreements, and any other documents for the funding of the benefits under the plan.
+
+### Registration conditions
+
+**¶ 16.** According to subsection 147.5(2) of the ITA, the Minister of National Revenue will not accept a pooled pension plan for registration unless, in his or her opinion, the plan complies with the following conditions:
+
+1. The main purpose of the plan is to accept and invest contributions in order to provide retirement income to plan members, subject to the limits and other requirements of the ITA;
+
+2. One account is kept for each member under the member’s SIN:
+
+    - to which are credited all contributions made to the plan for the member, and any earnings of the plan allocated to the member; and
+
+    - to which are charged all payments and distributions made for the member;
+
+3. The only benefits provided under the plan for each member are benefits determined only with reference to, and provided by, the amount in the member’s account;
+
+4. All earnings of the plan are allocated to plan members on a reasonable basis and no less than once a year;
+
+5. An arrangement under which property is held in connection with the plan is acceptable to the Minister of National Revenue. See **¶ 22**;
+
+6. No right of a person under the plan is capable of being assigned, charged, anticipated, given as security, or surrendered other than:
+
+    - an assignment under a decree, order, or judgment of a competent tribunal, or under a written agreement, relating to a division of property between the member and the member’s spouse or common-law partner or former spouse or common-law partner in settlement of rights arising out of, or on a breakdown of, their marriage or common-law partnership; or
+
+    - an assignment by the legal representative of a deceased individual on the distribution of the individual’s estate;
+
+7. All amounts contributed or allocated to the member’s account vest immediately and indefeasibly for the benefit of the member;
+
+8. The plan permits the payment of an amount to a member where the amount is paid to reduce the amount of tax that would otherwise be payable under Part X.1 by the member;
+
+9. Any amount payable from an account of a member after the death of the member is payable as soon as practicable after the death;
+
+10. There is no reason to expect that the plan may become a revocable plan; and
+
+11. any prescribed conditions.
+
+### Additional conditions
+
+**¶ 17.** A PRPP becomes a revocable plan at any time that:
+
+1. a contribution is made to the plan other than an amount:
+
+    - paid by a member of the plan;
+
+    - paid by the employer or former employer of a member of the plan in respect of the member; or
+
+    - transferred to the plan in accordance with any of subsections 147.5(21), 146(16) and (21), 146.3(14) and (14.1), 147(19) and 147.3(1), (4) and (5) to (7) of the ITA;
+
+2. a contribution is made to the plan in respect of a member after the calendar year in which the member attains 71 years of age, other than a permissible transfer described above;
+
+3. a participating employer makes contributions to the plan in a calendar year in respect of a member of the plan in excess of the RRSP dollar limit for the year, except in accordance with a direction by the member;
+
+4. a distribution is made from the plan other than:
+
+    - a payment of benefits in accordance with subsection 147.5(5) of the ITA, or
+
+    - a return of contributions:
+
+          1. if a contribution has been made as the result of a reasonable error by the member or participating employer and the return of contributions is made to the contributor no later than December 31 of the year following the calendar year in which the contribution was made;
+
+          2. to avoid revocation of the registration of the plan;
+
+          3. to reduce the amount of tax that would otherwise be payable, under Part X.1 by a member; or
+
+          4. to comply with any requirement under the ITA;
+
+5. property is held in connection with the plan that:
+
+    - the administrator knew or ought to have known was a restricted investment for the plan; or
+
+    - in the case of a designated pooled pension plan, is a share or a debt of, or an interest in, a participating employer of the plan or any person or partnership that does not deal at arm’s length with a participating employer, or an interest (or for civil law, a right) in, or a right to acquire, such a share, debt or interest; (see **¶ 21**.)
+
+6. the value of a member’s rights under the plan depends on the value of, or income or capital gains in respect of, property that would be described in paragraph 147.5(3)(e) of the ITA if it were held in connection with the plan;
+
+7. the administrator borrows money or other property for the purposes of the plan; or
+
+8. the plan or administrator does not comply with a prescribed condition.
+
+### Permissible benefits
+
+**¶ 18.** The only benefits that may be paid under a PRPP, in accordance with subsection 147.5(5) of the ITA, are variable benefits and the payment of a single amount from the member’s account. A single amount is that which is not part of a series of periodic payments. Variable benefits are benefits that would be in accordance with paragraph 8506(1)(e.1) of the Income Tax Regulations (ITR), if the benefits were provided under a money purchase provision of a registered pension plan. Variable benefits must meet the following conditions:
+
+1. they must be paid to the member from the member’s account;
+
+2. the variable payments must cease when the member dies; and
+
+3. the amount of variable benefits payable to the member for each calendar year is not less than the minimum amount.
+
+### Minimum amount
+
+**¶ 19.** The minimum amount is nil in the year if the member had not attained 71 years of age at the end of the preceding calendar year. Otherwise, the minimum amount is determined by the formula A × B.
+
+Variable A is the balance in the member’s PRPP account at the start of the year.
+
+Variable B is the factor determined based on the member’s age, or if the member has given the plan administrator a written designation before the start of the year, the member’s spouse’s or common-law partner’s age from the table under subsection 7308(4) of the ITR for the year.
+
+### Restricted investments
+
+**¶ 20.** A restricted investment is defined in subsection 147.5(1) of the ITA, as:
+
+1. a debt of a member of the plan;
+
+2. a share of, an interest in, or a debt of:
+
+    - a corporation, partnership or trust in which a member of the plan has a significant interest (as defined in subsection 147.5(30) of the ITA – generally a 10% or more interest); or
+
+    - a person or partnership that does not deal at arm’s length* with the member of the plan or with a person or partnership described in subparagraph above;
+
+3. an interest in, or a right to acquire, a share interest or debt described in a. or b.; or
+
+4. prescribed property.
+
+* The expression at **arm’s length** is described under section 251(1) of the ITA. Income Tax Folio, S1-F5-C1, Related Persions and Dealing at Arm's Length, discusses the criteria used to determine whether or not persons deal with each other at arm’s length under the ITA.
+
+### Designated pooled pension plans
+
+**¶ 21.** A designated pooled pension plan, for a calendar year, is defined in subsection 147.5(1) of the ITA as a pooled pension plan if, at any time in the year (other than the year in which the plan became registered as a PRPP), it meets any of the following conditions:
+
+1. the plan has fewer than 10 participating employers;
+
+2. the fair market value of property held in connection with the accounts of all members of the plan employed by a particular employer is more than 50% of the fair market value of the property held in connection with the plan;
+
+3. more than 50% of the members are employed by a particular participating employer; or
+
+4. it is reasonable to conclude that the participation in the plan of one or more participating employers occurs mainly to avoid the application of a, b, or c.
+
+### Funding arrangements
+
+**¶ 22.**Acceptable funding arrangements are the following:
+
+1. a contract for insurance with a company authorized to carry on a life insurance business in Canada;
+
+2. a trust resident in Canada governed by a written trust agreement under which the trustee is a corporation licensed or otherwise authorized under the laws of Canada or a province or territory to carry on in Canada the business of offering to the public its services as trustee;
+
+3. an arrangement that is acceptable under the Pooled Registered Pension Plans Act or a similar law of a province; and
+
+4. combinations of the above funding media.
+
+### Mailing information
+
+**¶ 23.** Send the pooled pension plan documents for registration to one of the following addresses:
+
+If using **regular mail**or a**courier service,** send it to:
+
+Registered Plans Directorate Canada Revenue Agency 875 Heron Rd Ottawa ON K1A 0L5
+
+Information for a plan is sensitive, and you have to handle it securely.
+
+## Part III – PRPP administration
+
+### Administrator’s obligations
+
+**¶ 24.** The administrator of a PRPP must use the care, diligence, and skill of a reasonably prudent trustee to minimize the possibility that the registration of the PRPP may be revoked other than at the request of the administrator. This includes making sure that all amounts paid into the plan and all amounts paid out of the plan are paid in accordance with the ITA.
+
+**¶ 25.** The administrator must submit the pooled pension plan for registration under the ITA and any amendments to the PRPP in the prescribed manner.
+
+**¶ 26.** The administrator is responsible for issuing annual PRPP contribution receipt returns and information returns for member and employer contributions and payments from the PRPP.
+
+### Annual information return
+
+**¶ 27.** The administrator of a PRPP must file an information return for each calendar year with the Minister of National Revenue on, or before, May 1 of the following calendar year. If, however, an agreement has been entered into between the Minister of National Revenue and a government regulator that is responsible for the supervision of the PRPP under the Pooled Registered Pension Plans Act or a similar law of a province, the administrator must file an annual information return on, or before, the date required by the government regulator.
+
+**¶ 28.** You must fill out Form RC368-CA, Pooled Registered Pension Plan Annual Information Return, or if your pension supervisory authority has a joint form with CRA, the applicable RC368 form.
+
+Please submit the completed form, together with all reference documentation, to the address(es) listed on the annual information return.
+
+### Amending the PRPP
+
+**¶ 29.** The Minister of National Revenue will not accept an amendment to a PRPP unless an application for the acceptance of the amendment is made in the prescribed manner and the amendment and the PRPP as amended comply with the PRPP registration conditions under subsection 147.5(2) of the ITA. The application for the acceptance of the amendment must be submitted no later than 60 days from the date the amendment was made.
+
+**¶ 30.**An application is made in the prescribed manner when the following documents are submitted to the Minister of National Revenue:
+
+1. a completed Form RC365-CA, Pooled Registered Pension Plan Amendment Information, or if your pension supervisory authority has a joint form with CRA, the applicable RC365 form; and
+
+2. a certified copy of the amendment, plan revisions, or change in the funding media.
+
+### Termination of the PRPP
+
+**¶ 31.** The administrator should advise the CRA when contributions on behalf of plan members are no longer being accepted. Also, when all of the assets have been paid from the plan, the administrator should inform the CRA of the details and the date of final disbursement in order to terminate registration of the plan. This can either be done by letter, or by completing the relevant section of the appropriate Form RC365.
+
+### Revocation for non-compliance
+
+**¶ 32.** The Minister of National Revenue may act to revoke the registered status of a PRPP under the ITA where:
+
+1. the plan does not comply with the registration conditions under subsection 147.5(2) of the ITA;
+
+2. the plan is not administered in accordance with the terms of the plan as registered;
+
+3. the plan becomes a revocable plan;
+
+4. the plan does not comply with a condition imposed by the Minister of National Revenue under subsection 147.5(6) of the ITA; or
+
+5. the registration of the plan under the Pooled Registered Pension Plans Act or a similar law of a province or territory is refused or revoked.
+
+**¶ 33.**Revocation for non-compliance occurs in two steps. The first step requires that the Minister of National Revenue issue a notice of intent to revoke the plan’s registered status. The date of revocation stipulated in the notice of intent will not be earlier than the date that the plan failed to meet a condition listed above. This step will give the PRPP administrator the opportunity to show the CRA why the PRPP should keep its registered status under the ITA. The second step involves the revocation of the PRPP’s registered status. The notice of revocation will be issued in writing to the plan administrator and the date of revocation will be specified. The Minister may issue the notice of revocation at any time 30 days after the notice of intent was mailed. An application for voluntary revocation under subsection 147.5(28) of the ITA will not stop the Minister from revoking a plan’s registered status for non-compliance at an earlier date.
+
+### Appeal rights
+
+**¶ 34.** Under subsection 172(3) of the ITA, an administrator can appeal a decision by the Minister of National Revenue to:
+
+- refuse to register a pooled pension plan;
+
+- propose to revoke the registration of a PRPP; or
+
+- refuse to accept an amendment to a PRPP.
+
+The notice of appeal should be sent to the Registry of the Federal Court of Appeal.
+
+## Transfers
+
+### Transfers into a PRPP
+
+**¶ 35.** Subsection 147.5(12) of the ITA deems a member’s account under a PRPP to be an RRSP under which the individual is the annuitant for certain purposes under the ITA, including transfer provisions. The following transfers into a PRPP are permissible under the ITA:
+
+1. from a registered pension plan in accordance with subsections 147.3(1), and (4) to (7) of the ITA;
+
+2. from an RRSP in accordance with subsection 146(16) of the ITA;
+
+3. from the Saskatchewan Pension Plan in accordance with subsection 146(21) of the ITA;
+
+4. from a registered retirement income fund in accordance with subsection 146.3(14) and (14.1) of the ITA;
+
+5. from a deferred profit-sharing plan in accordance with subsection 147(19) of the ITA; and
+
+6. from a PRPP in accordance with subsection 147.5(21) of the ITA.
+
+### Transfers out of a PRPP
+
+**¶ 36.** Subsection 147.5(21) of the ITA deals with permissible transfers out of a PRPP. An amount can be transferred out of a PRPP where the amount transferred:
+
+1. is a single amount;
+
+2. is transferred on behalf of an individual who:
+
+    - is the member;
+
+    - is a spouse or common-law partner or former spouse or common-law partner of the member who is entitled to the amount under a decree, order or judgment of a competent tribunal, or under a written agreement, relating to a division of property between the member and the individual, in settlement of rights arising out of, or on breakdown of, their marriage or common-law partnership; or
+
+    - is entitled to the amount as a consequence of the death of the member and was a spouse or common-law partner of the member immediately before the death; and
+
+3. is transferred directly to:
+
+    - the individual’s account under the PRPP;
+
+    - another PRPP in respect of the individual;
+
+    - a registered pension plan for the benefit of the individual;
+
+    - an RRSP or registered retirement income fund under which the individual is the annuitant; or
+
+    - a licensed annuities provider to acquire a qualifying annuity for the individual.
+
+**¶ 37.** Where a transfer is made to a PRPP as listed in **¶ 35** or from a PRPP in accordance with subsection 147.5(21) of the ITA, the amount transferred will not be included in the individual’s income. As well, no deduction may be claimed under any provision of the ITA for the transferred amount in computing the income of any taxpayer.
+
+## Qualifying annuity
+
+**¶ 38.** A qualifying annuity for an individual is an annuity bought from a licensed annuities provider with the proceeds from a member’s PRPP account that meets the following conditions:
+
+1. The annuity is payable to the individual for the individual’s life and if applicable, to the individual for the lives, jointly, of the individual and the individual’s spouse or common-law partner and to their survivor for the survivor’s life;
+
+2. payments begin no later than the later of the end of the year in which the individual turns 71 and the end of the year in which the annuity is acquired;
+
+3. the annuity is paid in equal periodic amounts at least annually, unless it is subsequently commuted, or the amounts are not equal due to adjustments described in subparagraphs 146(3)(b)(iii) to (v) of the ITA that are permissible for RRSPs;
+
+4. if the annuity includes a guarantee period, it must not exceed 15 years, and in the event of the later of the death of the individual and the individual’s spouse or common-law partner, the remaining amounts payable under the guarantee period must be commuted into a single amount and paid as soon as practicable after the later death; and
+
+5. the annuity must not permit any premiums to be paid, other than the premium from the PRPP to acquire the annuity.
+
+**¶ 39.** Any amounts received under a qualifying annuity are required by subsection 147.5(23) of the ITA to be included in the recipient’s income. This treatment ensures that the annuity payments will be treated like PRPP payments for income tax purposes.
+
+## Part IV – General information
+
+### Related forms and publications
+
+**¶ 40.** To receive a copy of our forms or publications, go to Forms and publications on the CRA website at **[canada.ca/cra-forms](https://www.canada.ca/en/revenue-agency/services/forms-publications.html)** or call **1-800-959-8281**.
+
+#### Forms
+
+- RC364, Application to Register a Plan as a Pooled Registered Pension Plan
+
+- RC364-CA, Application to Register a Pooled Pension Plan
+
+- RC365, Pooled Registered Pension Plan Amendment Information
+
+- RC365-CA, Pooled Registered Pension Plan Amendment Information
+
+- RC368, Pooled Registered Pension Plan Annual Information Return
+
+- RC368-CA, Pooled Registered Pension Plan Annual Information Return
+
+- T1-OVP, Individual Tax Return for RRSP Excess Contributions
+
+- T3PRP, T3 Pooled Registered Pension Plan Tax Return
+
+#### Publication
+
+- T4040, RRSPs and Other Registered Plans for Retirement
+
+### Where to get help
+
+**¶ 41.** For more information about the registration of PRPPs, go to [Savings and pension plan administration](https://www.canada.ca/en/services/taxes/savings-and-pension-plans/savings-and-pension-plan-administration.html).
+
+#### By telephone
+
+Toll-free in Canada and the United States: **1-800-267-3100**.
+
+If you are calling from outside of Canada or the United States, call us collect at **613-221-3105**. The Registered Plans Directorate accepts collect calls.
+
+#### By mail and courier
+
+Registered Plans Directorate Canada Revenue Agency 875 Heron Rd Ottawa ON K1A 0L5
+
+#### Forms and publications
+
+Find all of the forms and publications at [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+### Glossary
+
+**¶ 42.** The list below gives you initialisms used in this document.
+
+- CRA - Canada Revenue Agency
+
+- ITA - Income Tax Act
+
+- ITR - Income Tax Regulations
+
+- PRPP - Pooled Registered Pension Plan
+
+- RRSP - Registered Retirement Savings Plan
+
+- SIN - Social Insurance Number

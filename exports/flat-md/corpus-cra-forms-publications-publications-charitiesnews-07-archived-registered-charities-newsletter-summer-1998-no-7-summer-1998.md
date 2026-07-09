@@ -1,0 +1,58 @@
+---
+title: "ARCHIVED - Registered Charities Newsletter - Summer 1998 - No.7 - Summer 1998"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/charitiesnews-07/archived-registered-charities-newsletter-summer-1998-no-7-summer-1998.html
+last_modified: 1998-06-21
+---
+# ARCHIVED - Registered Charities Newsletter - Summer 1998 - No.7 - Summer 1998
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+*For information on the issues discussed below, please call us at 954-0410 for local Ottawa calls, or at 1-800-267-2384 for toll-free long distance calls. You can also write to us at the **Charities Division, Revenue Canada, Ottawa, Ontario K1A 0L5**, and our fax number is 613-946-2423.*
+
+## Annual Charity Information Return (T3010) - Frequently asked questions
+
+**1. Can I use some old forms I have at home if I do not have a copy of the most recent version?**
+
+The older versions of the T3010 forms are obsolete and should not be used. Charities should report fiscal periods that end in 1998 on a 1998 form. However, charities reporting fiscal periods ending in 1997 can use either the 1997 or the 1998 version.
+
+**2. On what line do you put the GST rebate?**
+
+It is not necessary to enter any GST rebates or GST payments in the "statement of receipts and disbursements". GST rebates are not a form of income for the charity. Rather, they are reimbursements from the government for amounts the charity has paid on certain items. As for GST payments, they are not a form of expenditure for the charity. They are simply transfers of sales taxes the charity has collected on behalf of the government. The same applies to other government rebates, for example, PST, HST, and gasoline rebates.
+
+**3. What's the difference between a government grant (lines 104-108) and receipts from governments (line 111)?**
+
+Basically, government grants represent amounts that are given to charities, usually on an annual basis, for their general support or to support one of their programs. On the other hand, receipts from governments represent payments that are often made throughout the year to charities for providing services on behalf of the government.
+
+### Reminder
+
+Some charities write to the Department and forward their T3010 in the same envelope. Please ensure that any correspondence is attached to **the front of the T3010**, or is mailed in a separate envelope.
+
+## Getting information by using the Business Number system
+
+As a result of the new Business Number system, charities can now access some information on their file through their tax services office. For example, a charity can now contact the tax services office to check if the Charities Division has received its T3010.
+
+Charities can also make minor changes through their tax services office. For example, they can report a change of address, or contact the tax services office if there is any confusion about what is their correct business number. However, some other changes still require formal approval by the Charities Division. For example, if a charity wants to request a change in its fiscal year end, it should contact the Charities Division directly. If a charity wants to change its name, it must modify its governing documents and submit an official copy to the Charities Division.
+
+## Fundraising golf tournaments
+
+The Department considers fundraising golf tournaments as "like events", within the meaning of Interpretation Bulletin IT-110R3, *Gifts and Official Donation Receipts*. This means a charity can issue a tax receipt for the difference between the price of the admission ticket for the tournament, and the fair market value of the golf game plus any other entertainment and meals the player receives.
+
+However, "like events" do not include events where the ticket purchaser gains the right to win a prize of more than a nominal amount For example, a charity cannot issue tax receipts when a fundraising golf tournament offers players the potential prize of a car for a hole-in-one.
+
+## Fundraising auctions
+
+All gifts donated for a charity auction may be receipted if their value can be determined. The amount indicated on the receipt will be the fair market value of the gift on the date the charity received it. A charity cannot issue tax receipts to people who buy items at a charity auction, even if the price they pay exceeds the fair market value of the item. This is because they are receiving something in return, and therefore, there is no gift.
+
+An auction is not a "like event". If a charity charges admission to its auction, it cannot issue a receipt for any part of the admission price. Just as a "like event" that is combined with a chance to win a prize or a draw is not considered a "like event", similarly a "like event" that is combined with an auction is also not considered a "like event". A charity cannot issue a receipt for any part of the admission charged for entry to the combined event.
+
+However, a charity can hold an auction and a "like event", such as a dinner, as separate events, even if they are held on the same evening, and at the same place. In this case, the charity should sell separate tickets to the two events, and the public can buy tickets for either one of the events or for both. Although the charity cannot give a receipt to those buying a ticket to the auction, it can issue a receipt for part of the purchase price of the dinner ticket.
+
+What about a dinner, for which tickets are sold, that is combined with an auction to which entry is free? Such an arrangement always raises questions about whether or not there is one event, or two events. If people think they have to buy a dinner ticket in order to attend the auction, the Department will view the dinner-and-auction as a single combined event for which the charity should not issue a receipt.
+
+**This newsletter forms part of a series. Keep them for future reference. All previous newsletters can be viewed at our Web Site: [Charities and giving](https://www.canada.ca/en/services/taxes/charities.html).**

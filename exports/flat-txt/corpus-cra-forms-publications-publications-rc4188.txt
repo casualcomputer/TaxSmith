@@ -1,0 +1,23 @@
+Title: RC4188 What You Should Know About Audits
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4188.html
+Corpus path: corpus/cra/forms-publications/publications/rc4188.md
+Document type: publication
+Last modified: 2019-08-08
+
+# RC4188 What You Should Know About Audits
+
+As part of our regular activities, the Canada Revenue Agency (CRA) selectively audits tax returns and claims for rebates. Our objective is to ensure the fairness and integrity of our self-assessment tax system.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [rc4188-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4188/what-you-should-know-about-audits.html)
+
+    - PDF [rc4188-18e.pdf](/content/dam/cra-arc/formspubs/pub/rc4188/rc4188-18e.pdf)
+
+- Download and listenUse your preferred screen reader to listen to the e-text file.
+
+    - [E-text (rc4188-18e.txt)](/content/dam/cra-arc/formspubs/pub/rc4188/rc4188-18e.txt)
+
+- Ask for an alternate formatYou can order a digital audio, e-text, braille or large print version of this publication to be sent to you by mail.[Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html)

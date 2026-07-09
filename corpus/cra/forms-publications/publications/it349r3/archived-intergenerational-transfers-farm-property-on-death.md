@@ -1,0 +1,298 @@
+---
+title: "ARCHIVED - Intergenerational Transfers of Farm Property on Death"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it349r3/archived-intergenerational-transfers-farm-property-on-death.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Intergenerational Transfers of Farm Property on Death
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-349R3**
+
+DATE: November 7, 1996
+
+SUBJECT: INCOME TAX ACT**Intergenerational Transfers of Farm Property on Death**
+
+REFERENCE: Subsections 70(9), (9.1), (9.2), (9.3), (10), (13) and (14) (also section 98.2, subsections 13(21.1), 70(5), 100(3), 104(4) and (5), 107(2), 248(8) and (9), 252(1), (2) and (4) of the *Income Tax Act*, Part XVII of the *Income Tax Regulations* and subsection 26(18) of the *Income Tax Application Rules* (ITAR))
+
+### Notice -- Bulletins do not have the force of law
+
+***This document is also available for [download in PDF format](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it349r3.html).***
+
+## Contents
+
+- *[Application](#P70_3064)*
+
+- *[Summary](#P72_3211)*
+
+- *[Discussion and Interpretation](#P84_4815)*
+
+    - [General](#P85_4844) (¶ 1)
+
+    - [Direct Transfer to Child and Indirect Transfer Through a Spouse Trust](#P106_8218) (¶s 2-7)
+
+    - [Family Farm Corporations and Partnerships](#P118_14475) (¶s 8-11)
+
+    - ["Farming Business" and "Used in the Business of Farming"](#P123_17069) (¶s 12-15)
+
+    - [Actively Engaged on a Regular and Continuous Basis](#P128_19314) (¶ 16)
+
+    - [Occurrences as a Consequence of Death](#P130_20339) (¶s 17-18)
+
+    - [Depreciable Property](#P138_23140) (¶s 19-20)
+
+    - [Property Depreciable Pursuant to Part XVII](#P149_27115) (¶s 21-26)
+
+    - [ITAR Provisions -- Land](#P158_31618) (¶s 27-28)
+
+    - [ITAR Provisions -- Depreciable Property of a Prescribed Class](#P161_32354) (¶s 29-30)
+
+    - [Miscellaneous Comments](#P164_33128) (¶s 31-32)
+
+- *[Explanation of Changes](#P181_33646)*
+
+## Application
+
+This bulletin cancels and replaces Interpretation Bulletin IT-349R2 dated July 17, 1987 and its Special Release dated September 6, 1991.
+
+## Summary
+
+Subsections 70(9), (9.1), (9.2) and (9.3) are designed to encourage children of farmers to operate the family farm after the death of their parents. Each provision allows for the deferral of the tax consequences that would otherwise result unless an election is made.
+
+Subsection 70(9) is concerned with the transfer of farm property (land in Canada and depreciable property of a prescribed class) on or after the death of a taxpayer to his or her child.
+
+Subsection 70(9.1) is concerned with the transfer of farm property from a spouse trust after the death of the spouse to a child of the taxpayer.
+
+Subsection 70(9.2) is concerned with the transfer of a share of the capital stock of a family farm corporation or an interest in a family farm partnership as a consequence of the death of a taxpayer to his or her child.
+
+Subsection 70(9.3) is concerned with the transfer of a share of the capital stock of a family farm corporation or an interest in a family farm partnership from a spouse trust after the death of the spouse to a child of the taxpayer.
+
+Each provision requires the transferee to be a child of the taxpayer and to be resident in Canada.
+
+For subsections 70(9) and (9.2) to apply, the property must vest indefeasibly in the child within 36 months of the taxpayer's death but an extension of the time is available in appropriate circumstances.
+
+This bulletin does not describe the legislative provisions in detail but rather provides relevant interpretations of the legislation with related examples. For a detailed description of the legislative provisions, please refer to the *Income Tax Act*.
+
+## Discussion and Interpretation
+
+## General
+
+**¶ 1.** In this bulletin, the terms listed below have the following meanings:
+
+**All or substantially all**: when the level of 90% of whatever is being measured is reached, the "all or substantially all" requirement is considered to have been met.
+
+**Child**: the definition of "child" in subsection 70(10) and the description in subsection 252(1) expand the usual meaning of child to include:
+
+(a) a child of the taxpayer whether born within or outside marriage;
+
+(b) a spouse of a child;
+
+(c) a child of the taxpayer's spouse ("step-child");
+
+(d) an adopted child;
+
+(e) a grandchild;
+
+(f) a great-grandchild; and
+
+(g) a person adopted-in-fact.
+
+To be adopted-in-fact for the purposes of (g) above, paragraph 252(1)(*b*) provides that an unrelated person will be deemed to be a taxpayer's child if that person is wholly dependent on the taxpayer for support and if the taxpayer has, in law or in fact, custody and control of the person (or had such custody and control immediately before that person turned 19 years old).
+
+**Cost amount** is defined in subsection 248(1) **for depreciable property of a prescribed class** as the proportionate share of the undepreciated capital cost of property of a prescribed class that the capital cost of the property is of the capital cost of all the property in that class that the taxpayer owns at that time. The capital cost of the depreciable property is adjusted as described in [¶ 19](#P19) below.
+
+**Parent**: Subsection 252(2) extends the usual meaning of "parent." A parent of a child includes an individual:
+
+(a) who is a natural parent, a step-parent or an adoptive parent of the child;
+
+(b) who is a natural parent, a step-parent or an adoptive parent of the child's spouse; or
+
+(c) of whom the child is or was considered to be a child.
+
+When a person who has not attained 19 years of age is under the custody and control of an individual and the individual is receiving support payments from an agency responsible for the person's care, the individual is not the parent of the person since the person is not wholly dependent on the individual. The definition of spouse is relevant to an understanding of who is a parent.
+
+**Spouse**: A person can become an individual's spouse either as a result of their marriage or as a consequence of the operation of subsection 252(4). The subsection expands the meaning of "spouse" to include what is generally referred to as a "common-law" spouse.
+
+**Spouse trust**: As described in subsection 70(6) or 73(1), a spouse trust is a trust created by will or by an instrument which becomes effective during a taxpayer's lifetime entitling the taxpayer's spouse, during his or her lifetime, to receive all of the income of the trust and allowing no one but the spouse (before the spouse's death) to receive or obtain the use of any of the income or capital of the trust. See the current version of IT-305, *Testamentary Spouse Trusts* for more information on spouse trusts.
+
+**Used principally in the business of farming**: A property is considered to be used principally in the business of farming if more than 50% of its use is in that business. For example, where a property is used for farming and for some other purpose, if more than 50% of the property's use is for farming then it will qualify as being used principally in the business of farming. If part of the property is lying idle, then that part cannot qualify as being used principally in the business of farming.
+
+## Direct Transfer to Child and Indirect Transfer Through a Spouse Trust (Subsections 70(9) and (9.1))
+
+**¶ 2.** Subsection 70(9) contemplates a transfer or distribution of property from the taxpayer's estate as a consequence of death (see also ¶s [17](#P17) and [18](#P18) below) to the children of the deceased. It does not apply to any sale of property by the estate unless, by virtue of subsection 248(8), the transfer or distribution of the property pursuant to the sale is considered to be a transfer or distribution of the property as a consequence of the taxpayer's death. In addition, subsection 70(9) applies only to property that is land in Canada that is capital property or depreciable property in Canada of a prescribed class that is owned by the taxpayer immediately before death and thus does not apply to such property owned at that time by a partnership or corporation.
+
+**¶ 3.** The following are examples of transfers or distributions of property to which subsection 70(9) may apply (see also ¶s [17](#P17) and [18](#P18) below):
+
+(a) A father and his son operate a farm in partnership; the father owns the farm property which he leases to the partnership. On the father's death, the farm property passes to the son by direct bequest (see ¶s [14](#P14) and [16](#P16) below).
+
+(b) A mother and her son operate a farm in partnership and own the farm property jointly (it is not partnership property). On the mother's death, her interest in the farm property passes to the son by virtue of the joint ownership.
+
+(c) A father operates a farm and owns the farm property. On his death, the farm property is held in trust for his son, and by the terms of the trust it vests indefeasibly in the son although it is not transferred to him until he attains a certain age. (The meaning of "vested indefeasibly" is not defined in the Act but its meaning for purposes of subsections 70(9), 70(9.1), 70(9.2) and 70(9.3), among others, is set out in the current version of IT-449, *Meaning of "Vested Indefeasibly*." In addition, subsection 248(9.2) describes two situations where property is deemed not to have vested indefeasibly.)
+
+(d) A father operates a farm and owns the farm property. The terms of his will provide that his son is to receive the land but, before any transfer or distribution can be made, a mortgage or charge must be placed on the land in order to provide funds to satisfy cash bequests to other beneficiaries. Notwithstanding that his title must be encumbered in this manner, the land will be considered to vest indefeasibly in the son and, for purposes of subsection 70(9), there will be no time limit for payment of the cash bequests to other beneficiaries. On the other hand, if the will provides that the son may receive the land only after the payment of certain amounts to other beneficiaries within a stipulated time following his father's death, the son would only meet the requirements of subsection 70(9) if he makes the required payments within the stipulated time period and that period is within the time period provided in subsection 70(9). The son's adjusted cost base of his inherited land in such cases is not increased by the required payments to beneficiaries.
+
+**¶ 4.** Subsection 13(21.1) may redetermine the amount that the legal representative of the taxpayer has elected under subsection 70(9). Subsection 13(21.1) generally provides that where a building and the land on which it is located are disposed of, a terminal loss on the sale of the building is reduced to the extent of any gain on the sale of the land. The subsection will apply where the elected amount which is the proceeds of disposition for a building is less than the lesser of the capital cost of the property and its cost amount to the deceased taxpayer and the elected amount for land exceeds the cost amount of that land immediately before the taxpayer's death. Where subsection 13(21.1) applies to redetermine a deceased taxpayer's proceeds of disposition, the elected amount for the building will be increased to restrict the potential terminal loss, while the elected amount for the land will be reduced by a corresponding amount. Subsection 13(21.1) may similarly apply where an election has been made under subsection 70(9.1) as though the reference to "deceased taxpayer" were to "spouse trust."
+
+See the current version of IT-220, *Capital Cost Allowance -- Proceeds of Disposition of Depreciable Property* for more information on subsection 13(21.1).
+
+**¶ 5.** Subsection 70(9.1) does not require that the trust, the taxpayer's spouse, or the child must be using the property in a farming business immediately before the death of the taxpayer's spouse. Therefore, a rollover under subsection 70(9.1) would be allowed where, during the period between the settlement of the spouse trust and the death of the spouse, the farm property was rented or leased to anyone who used it in a farming business. In addition, there is no requirement that the child continue to use the farm property in the business of farming after its transfer or distribution in order to qualify for the rollover under subsections 70(9) or (9.1).
+
+**¶ 6.** A rollover from a tainted spouse trust (a trust created under a will in favour of the deceased's spouse that does not meet the qualifications outlined in subsection 70(6)) to a child on the death of the spouse is not permitted under subsection 70(9.1) or subsection 70(9.3) as those provisions apply only to the spouse trust described in subsections 70(6) or 73(1). However, a rollover under subsection 70(9.1) or 70(9.3) would be permitted if the tainted spouse trust was untainted by means of an election under subsection 70(7) as described in the current version of IT-305, *Testamentary Spouse Trusts*.
+
+**¶ 7.** If a spouse trust described in subsection 70(6) or 73(1) is varied with the consent of all the beneficiaries in order that farm property will pass to one or more of the beneficiaries who are children of the settlor upon the death of the spouse and the requirements of subsection 70(9.1) are otherwise satisfied after the trust is varied, the rollover provisions of subsection 70(9.1) will apply to determine the proceeds to the trust and the cost to a child beneficiary of such farm property as is transferred or distributed to a child of the settlor pursuant to the terms of that varied trust.
+
+## Family Farm Corporations and Partnerships (Subsections 70(9.2) and (9.3))
+
+**¶ 8.** Pursuant to subsection 100(3), a taxpayer who inherits an interest in a partnership but is not a member of, or does not by virtue of the inheritance become a member of, that partnership is deemed to have acquired a right to receive partnership property and not to have acquired an interest in a partnership. Consequently, since subsections 70(9.2) and 70(9.3) provide only for a rollover of a partnership interest in a family farm partnership, but not partnership property, those rollover provisions will not apply to that particular inheritance.
+
+**¶ 9.** There is no provision in either subsection 70(9.2) or 70(9.3) for a rollover to a child on the death of an individual of a residual partnership interest described in section 98.1. Section 98.2 sets forth the rules governing a transfer of such a residual partnership interest on the death of an individual. In those rules, it is provided that a taxpayer (e.g., a child inheritor) who acquires such a residual partnership interest is deemed to have acquired a right to receive partnership property and not to have acquired a partnership interest to which subsections 70(9.2) and 70(9.3) might otherwise apply.
+
+**¶ 10.** Subsection 70(9.3) does not require the spouse trust, spouse, or child to be actively engaged on a regular and continuous basis in the corporation's business of farming. For partnership property, subsection 70(9.3) requires that the property that is transferred to the spouse trust must be an interest in a family farm partnership immediately before the transfer. However, on the subsequent transfer to the child the subsection only requires that, immediately before the death of the spouse, the interest in the partnership be used in the business of farming in Canada and that all or substantially all of its property be used in that business.
+
+**¶ 11.** The definitions of "interest in a family farm partnership" and "share of the capital stock of a family farm corporation" in subsection 70(10) require that "all or substantially all" of the fair market value of the property owned by the partnership or corporation be used in the business of farming. The question of whether "all or substantially all" of the property is used in the business of farming for purposes of subsection 70(10) is discussed in the current version of IT-268, *Inter Vivos Transfer of Farm Property to Child*. The departmental practices described there for purposes of inter vivos transfers to a child apply equally for purposes of the testamentary transfers discussed in this bulletin.
+
+## "Farming Business" and "Used in the Business of Farming"
+
+**¶ 12.** It is a question of fact to be decided on an individual case basis whether a particular farming operation constitutes a farming business at any particular time. Some of the criteria which should be considered in making this determination are set out in the current version of IT-322, *Farm Losses*. However, if in a taxation year a new farming operation has been initiated, or a previous operation has been reactivated after several years of inactivity, it may be difficult to determine that a farming business was carried on at a particular time in that year. In this regard, refer to the current version of IT-364, *Commencement of Business Operations*, which contains comments relevant to determining the commencement or recommencement of a business.
+
+**¶ 13.** Even though a farm owner (individual) may engage the services of another person to undertake virtually all of the work associated with the farming activities (custom working), the farm property may still be considered to have been used by the owner in the business of farming for purposes of subsection 70(9) or 70(9.1) where that owner, to the extent that the circumstances of the particular farming operations allow, exercised general management and control of the overall farming operations.
+
+**¶ 14.** A lessor of farm property is not considered to be using the property in the business of farming. Thus, the property which immediately before the lessor's death was leased to another person (including a sharecropper) is not eligible for transfer or distribution under subsection 70(9) unless it was used principally in the business of farming by a lessee who is the spouse or child of the lessor and that person was actively engaged in the business on a regular and continuous basis.
+
+**¶ 15.** The term "sharecropper" means a farmer who is a tenant and gives a share of the crop to the landlord in lieu of rent. There may be other types of sharing arrangements, for example, where an individual is actually an employee of the farm owner and not a tenant and receives a share of the crop as remuneration for services rendered. Under such an arrangement the farm property may be eligible for transfer or distribution under subsection 70(9).
+
+## Actively Engaged on a Regular and Continuous Basis
+
+**¶ 16.** Subsection 70(9) and the definitions in subsection 70(10) of "shares of the capital stock of a family farm corporation" and "interest in a family farm partnership" require that a person be "actively engaged on a regular and continuous basis" in the business of farming. Whether a person is "actively engaged on a regular and continuous basis" is a question of fact; however, it is considered that the requirement is met when the person is "actively engaged" in the management and/or day to day activities of the farming business. Ordinarily the person would be expected to contribute time, labour and attention to the business to a sufficient extent that such contributions would be determinant in the successful operation of the business. Whether an activity is engaged on a "regular and continuous basis" is also a question of fact but an activity that is infrequent or activities that are frequent but undertaken at irregular intervals would not meet the requirement.
+
+## Occurrences as a Consequence of Death
+
+**¶ 17.** Subsection 248(8) expands the usual meaning of transfers of property as a consequence of the death of a taxpayer or the taxpayer's spouse for the purposes of the Act. It provides that a transfer, distribution or acquisition of property will be considered to have occurred as a consequence of the death of a taxpayer or the taxpayer's spouse where such transfer, distribution or acquisition was made
+
+(a) under, or as a consequence of, the terms of a will or other testamentary instrument of the taxpayer or of the taxpayer's spouse,
+
+(b) as a consequence of the law governing the intestacy of the taxpayer or of the taxpayer's spouse, or
+
+(c) as a consequence of a disclaimer, release or surrender by a beneficiary under a will, other testamentary instrument or on the intestacy of a taxpayer or the taxpayer's spouse.
+
+Subsection 248(8) also provides that where a beneficiary under a will, other testamentary instrument or on the intestacy of a taxpayer releases or surrenders any property that was property of the taxpayer immediately before the taxpayer's death, such release or surrender will not be considered to be a disposition of that property by the beneficiary.
+
+**¶ 18.** Subsection 248(9) describes "disclaimer" and "release or surrender" for the purposes of subsection 248(8). A disclaimer involves an outright refusal to accept a gift, share or interest under a will, with no stipulation as to how the taxpayer's legal representatives should distribute the disclaimed property. A disclaimer of property in favour of another person is not a true disclaimer but an assignment. However, when such a disclaimer or assignment would achieve the same effect as a simple disclaimer without any assignment, a disclaimer is considered to have been made for the purposes of subsections 70(9), (9.1), (9.2) and (9.3). In Quebec a disclaimer includes a renunciation of a succession made under the laws of that province that is not made in favour of any person. For any of the subsections to apply, a disclaimer must be made within 36 months of the taxpayer's death or, upon written application to the Minister within that period, within such longer period as the Minister considers reasonable in the circumstances (see [¶ 32](#P32) below).
+
+A release or surrender made under the laws of a province (other than the Province of Quebec) must not be in favour of a particular person. For the Province of Quebec, a release or surrender means an *inter vivos* gift of an interest in, or right to property of, a succession made to the person who would have benefitted had the donor renounced the succession but not in favour of anyone. A release or surrender, whether made within the Province of Quebec or otherwise, must be made within the same time as a disclaimer is made, as described above.
+
+## Depreciable Property
+
+**¶ 19.** Subsection 70(13) provides that certain adjustments previously made to the capital cost of depreciable property of a prescribed class under subsection 13(7) do not apply for the purposes of section 70. These adjustments under subsection 13(7) provide that the capital cost of depreciable property may be limited to an amount that is less than the fair market value in cases where a non-income producing depreciable property begins to be used for producing income, where the income producing use of a depreciable property increases and where there is a non-arm's length acquisition of a depreciable property. The capital cost to a deceased taxpayer of depreciable property affected by the adjustments is readjusted for the purposes of determining the proceeds of disposition of that property in paragraphs 70(9)(*b*) and 70(9.1)*(b)*.
+
+**¶ 20.** Subsection 70(14) generally provides that, where two or more depreciable properties of a prescribed class are disposed of at the same time because of a taxpayer's death, section 70 and the definition of "cost amount" apply as if each property were disposed of in the order designated by the taxpayer's legal representative or the trust, where subsection 70(9.1) applies. Where no such designation is made in the appropriate income tax return, the Minister may designate the order.
+
+The ability to designate the order of disposition becomes relevant where some property of a prescribed class can be transferred to a beneficiary at the cost amount of the property while other property must be disposed of at fair market value. For example assume that
+
+- a deceased taxpayer had two depreciable properties in a prescribed class,
+
+- the properties were used principally in the business of farming,
+
+- one of the properties was bequeathed to the taxpayer's child while the other was bequeathed to a family friend,
+
+- each property had a cost of $1,000 and had a fair market value of $800 immediately before the deceased's death and
+
+- the undepreciated capital cost of the class was $1,200.
+
+If the property that was bequeathed to the child is designated as being the first one disposed of, pursuant to subsection 70(9), the deceased is deemed to have received proceeds of disposition equal to the lesser of the capital cost and the cost amount of the property. Since the capital cost of the property is $1,000 and, pursuant to the definition in subsection 248(1), the cost amount of the property is $600, the taxpayer's undepreciated capital cost of the property in the class will be reduced to $600 ($1,200 -- $600) following the disposition to the child. When the remaining property is disposed of to the family friend, pursuant to paragraph 70(5)(*a*), the deceased is deemed to have received proceeds of disposition equal to the fair market value of the property, that is, $800. As the undepreciated capital cost in the class is $600, there will be a recapture of capital cost allowance of $200.
+
+If the property that was bequeathed to the family friend is designated as being the first one disposed of, pursuant to paragraph 70(5)(*a*), the deceased is deemed to receive proceeds of disposition equal to the fair market value of the property, that is $800. This reduces the cost amount, that is, the undepreciated capital cost in the class, to $400. When the remaining property is disposed of to the child, pursuant to subsection 70(9), the deceased is deemed to have received proceeds of disposition equal to the lesser of the capital cost and the cost amount of the property. As the cost amount is the lesser amount there is no recapture of capital cost allowance. However, pursuant to paragraph 70(9)*(c)*, the capital cost of the property to the taxpayer's child is deemed to be $1,000 and the child is deemed to have taken capital cost allowance on the property of $600. Thus, while there is no immediate recapture of capital cost allowance, the recapture has not been avoided but rather deferred until the child disposes of the property.
+
+## Property Depreciable Pursuant to Part XVII
+
+**¶ 21.** The rollovers under subsections 70(9) and 70(9.1) for depreciable farm property apply only to depreciable property of a prescribed class. Subject to [¶ 26](#P26) below, property on which a taxpayer is claiming, or has claimed, capital cost allowance only under Part XVII of the Regulations would therefore not qualify for a rollover under subsection 70(9). Similarly, where a spouse trust is claiming, or has claimed, capital cost allowance only under Part XVII before transfer or distribution of such property from that spouse trust to a child upon the death of the settlor's spouse, that property would not qualify for a rollover under subsection 70(9.1). Where the aforementioned rollover provisions do not apply, paragraph 70(5)(*a*) would deem such property held by a taxpayer immediately before death to be disposed of at its fair market value at that time and paragraph 70(5)(*b*) would deem that same property to be acquired by any transferee, including the taxpayer's child, at that same amount. In the case of Part XVII property held in a spouse trust at the time the spouse beneficiary dies, the provisions of subsection 107(2) in conjunction with paragraph (*f*) of the definition of "cost amount" in subsection 248(1) would apply to deem such property to be disposed of at its cost amount to the trust immediately before its distribution to the surviving beneficiaries and to be acquired by those beneficiaries, including children, at that cost amount plus any adjustment thereto pursuant to paragraph 107(2)(*b*). Neither subsection 104(4) nor subsection 104(5) provides for the deemed disposition of Part XVII property by a trust.
+
+**¶ 22.** Subsection 20(2) of the ITAR effectively provides that capital cost allowance claimed under Part XI of the Regulations on property acquired before 1972 is recapturable while capital cost allowance claimed thereon under Part XVII is not unless any property that could have been included under Part XVII has been included in a class under Part XI. Further, Part XVII property which is transferred or distributed to a child or trust after 1971 and is depreciable property of the transferee is required to be included in a prescribed class under Part XI of the Regulations by the transferee, since property acquired after 1971 may not be depreciated pursuant to Part XVII of the Regulations.
+
+**¶ 23.** For a deceased taxpayer, any capital gains on Part XVII property, except the portion accrued before December 31, 1971 (exempt by subsection 20(1) of the ITAR), must be reported in the year of death since paragraph 70(5)(*a*) deems the taxpayer to have disposed of that property immediately before death.
+
+**¶ 24.** For a spouse trust that distributed Part XVII property to surviving beneficiaries, including children, on the death of the spouse, there will be no capital gains to the trust at the time the property is distributed because such property is deemed to be disposed of under subsection 107(2) at its cost amount.
+
+**¶ 25.** Subsection 20(1) of the ITAR will operate to preserve the tax-free status of a pre-1972 capital gain, if any, to a child who has after 1971 acquired Part XVII property from a spouse trust which in turn acquired the property before 1972 and owned them without interruption from December 31, 1971, until the date of disposition to the child. Subsection 20(1) of the ITAR will also preserve the tax-free status of a pre-1972 capital gain on Part XVII property acquired after 1971 either by a spouse or a spouse trust from a taxpayer (settlor). However, this provision will not preserve the tax-free status of a pre-1972 capital gain on Part XVII property acquired after 1971 by a child on the death of a parent, because when subsection 70(5) applies on the transfer, subsection 20(1) of the ITAR does not apply due to the exception in paragraph 20(1)(*b*) of the ITAR (see also the current version of IT-217, *Capital Property Owned on December 31, 1971 -- Depreciable Property*).
+
+**¶ 26.** Notwithstanding that a leasehold interest in farm land (including a grazing lease) acquired before 1972, on which capital cost allowance has been claimed only under Part XVII of the Regulations before a taxpayer's death or before the transfer of such property by a spouse trust to a child, is technically not depreciable property of a prescribed class, the Department will nevertheless accept it as qualifying for a rollover under subsections 70(9) and 70(9.1) if the taxpayers involved or their representatives so signify in writing.
+
+## ITAR Provisions -- Land
+
+**¶ 27.** Where subsection 70(9) applies to a transfer of land that was owned by the taxpayer on December 31, 1971 (or that was owned on June 18, 1971, by a person who did not deal at arm's length with the taxpayer and no arm's length owners intervened to the date of such transfer), subsections 26(3) and (5) of the ITAR preserve the tax-free zone in the hands of the transferee in the usual way (see the current version of IT-132, *Capital Property Owned on December 31, 1971 -- Non-arm's Length Transactions*).
+
+**¶ 28.** Where subsection 70(9.1) applies to a transfer or distribution of land from a spouse trust subsections 26(3) and 26(5) of the ITAR also preserve the tax-free zone in the usual way for the child inheritor.
+
+## ITAR Provisions -- Depreciable Property of a Prescribed Class
+
+**¶ 29.** By virtue of subsection 20(1.1) of the ITAR, the tax-free zone may also be preserved for depreciable property of a prescribed class transferred pursuant to subsection 70(9) (see the current version of IT-217). In effect, subsection 20(1.1) of the ITAR provides that subsection 20(1) of the ITAR does not apply on the death of the taxpayer (transferor) but only at the time the child inheritor disposes of the property.
+
+**¶ 30.** Although there is no reference to subsection 70(9.1) in subsection 20(1.1) of the ITAR, it is considered that the tax-free zone is similarly preserved by subsection 20(1) of the ITAR for depreciable property of a prescribed class transferred or distributed by a spouse trust to a child.
+
+## Miscellaneous Comments
+
+**¶ 31.** For the purposes of the rollover provisions described in section 70
+
+(a) the child relationship must exist at the time of death, and
+
+(b) a reference to "child" can be read as a reference to "children."
+
+**¶ 32.** A taxpayer's representative who wishes to request an extension of the 36-month period for establishing the indefeasible vesting of property in a child or the making of a disclaimer, release or surrender should write to the Director of the nearest Revenue Canada tax services office.
+
+## Explanation of Changes
+
+## Introduction
+
+The purpose of the *Explanation of Changes* is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+## Overview
+
+When a taxpayer dies, there is usually a deemed disposition of capital property at fair market value. The bulletin describes exceptions to the general rule that may apply where there is an intergenerational transfer of farm property, shares of the capital stock of a family farm corporation or interests in a family farm partnership.
+
+The bulletin reflects amendments to the *Income Tax Act* resulting from S.C. 1994, c.7, Schedule VIII (S.C. 1993, c.24 -- formerly Bill C-92) and S.C. 1994, c.21 (formerly Bill C-27) and adds interpretative comments concerning these changes. The comments in the bulletin are not affected by proposed legislation that was released before September 27, 1996.
+
+## Legislative and Other Changes
+
+The explanations of the relevant legislative provisions in the bulletin have been significantly reduced in cases where there was no interpretative value in those explanations.
+
+[¶ 1](#P01) consolidates the definitions in former ¶s 9 and 38 and describes several more words and expressions that are used in the bulletin. An important new definition that applies after 1992 is that of "spouse" -- which includes what is generally referred to as a "common-law" spouse.
+
+[¶ 4](#P04) is a new paragraph that describes subsection 13(21.1) -- a provision which may apply where the taxpayer's legal representative elects under subsection 70(9) or the trust elects under subsection 70(9.1). The reference to subsection 13(21.1) was added to subsections 70(9) and (9.1) as a result of the amendment to subsection 70(5) and applies to dispositions and acquisitions occurring after 1992.
+
+[¶ 14](#P14) (former 12(a)) reflects an amendment to subsection 70(9) which, for dispositions occurring after 1992, requires farm property to be used principally in the business of farming by the taxpayer, the taxpayer's spouse or any of the taxpayer's children and that person must be actively engaged on a regular and continuous basis in that business.
+
+New [¶ 16](#P16) discusses the expression "actively engaged on a regular and continuous basis." The expression was added to subsection 70(9) and the definitions in subsection 70(10) of "shares of the capital stock of a family farm corporation" and "interest in a family farm partnership" and applies to dispositions occurring after 1992.
+
+[¶ 18](#P18) (former ¶ 40) amends the definition of "disclaimer" in subsection 248(9) applicable after June 15, 1994.
+
+New [¶ 19](#P19) describes the addition of subsection 70(13) for dispositions and acquisitions made after 1992. The subsection provides that certain adjustments previously made to the capital cost of depreciable property of a prescribed class under subsection 13(7) do not apply for the purposes of section 70.
+
+New [¶ 20](#P20) describes subsection 70(14) which, for dispositions occurring after 1992, enables a taxpayer's legal representative or the estate to designate the order of disposition of two or more depreciable properties of a prescribed class.
+
+New [¶ 32](#P32) contains information for the representatives of taxpayers who wish to request an extension of time to establish the indefeasibly vesting of property in a child.
+
+Former ¶s 1, 2, 3, 5, 15, 16, 18, 21, 28, 29, 30, 33, 34, and 37 were not carried forward as they reflected primarily a restatement of the law. Former ¶s 12(b) and 14 were not carried forward as subsection 70(9.8) is no longer relevant to the bulletin. Former ¶ 36 was not carried forward as the law which it describes was repealed by S.C. 1986, c.6.
+
+Throughout the bulletin we have revised some of the wording in order to improve readability without altering the substance and reorganized the order of the paragraphs to improve cohesiveness.
+
+### Notice -- Bulletins do not have the force of law
+
+Interpretation bulletins (ITs) provide Revenue Canada's technical interpretations of income tax law. Due to their technical nature, ITs are used primarily by departmental staff, tax specialists, and other individuals who have an interest in tax matters. For those readers who prefer a less technical explanation of the law, the Department offers other publications, such as tax guides and pamphlets.
+
+While the ITs do not have the force of law, they can generally be relied upon as reflecting the Department's interpretation of the law to be applied on a consistent basis by departmental staff. In cases where an IT has not yet been revised to reflect legislative changes, readers should refer to the amended legislation and its effective date. Similarly, court decisions subsequent to the date of the IT should be considered when determining the relevancy of the comments in the IT.
+
+An interpretation described in an IT applies as of the date the IT is published, unless otherwise specified. When there is a change in a previous interpretation and the change is beneficial to taxpayers, it is usually effective for all future assessments and reassessments. If the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date of the IT.
+
+A change in a departmental interpretation may also be announced in the *Income Tax Technical News*.
+
+***If you have any comments regarding matters discussed in this IT, please send them to:***
+
+***Director, Business and Publications Division Income Tax Rulings Directorate Policy and Legislation Branch Revenue Canada Ottawa ON K1A 0L5***

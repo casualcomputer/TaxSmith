@@ -1,0 +1,12 @@
+---
+title: "EDM7-1-2 CANCELLED Tobacco Dealers"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edm7-1-2.html
+last_modified: 2013-07-05
+---
+# EDM7-1-2 CANCELLED Tobacco Dealers
+
+## This publication was cancelled
+
+This publication was cancelled as of 2026-04-15 and replaced with [EDM7-1-2 Tobacco dealers](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm7-1-2-tobacco-dealers.html).
+
+This memorandum is for individuals and provides an overview of the obligations and entitlements of persons who may become licensed tobacco dealers.

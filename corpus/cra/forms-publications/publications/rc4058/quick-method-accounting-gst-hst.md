@@ -1,0 +1,1002 @@
+---
+title: "Quick Method of Accounting for GST/HST"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4058/quick-method-accounting-gst-hst.html
+last_modified: 2025-07-21
+---
+# Quick Method of Accounting for GST/HST
+
+RC4058(E) Rev. 25
+
+The CRA's publications and personalized correspondence are available in braille, large print, e-text, and MP3. For more information, go to [About multiple formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html) or call **1-800-959-5525**.
+
+Unless otherwise stated, all legislative references are to the *Excise Tax Act* or, where appropriate, the *Excise Tax Act Regulations*.
+
+This guide uses plain language to explain the most common tax situations. It is provided for information only and does not replace the law.
+
+The CRA uses the term **Indian** because it has legal meaning under the *Indian Act*.
+
+La version française de ce guide est intitulée[La méthode rapide de comptabilité pour la TPS/TVH](https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4058/methode-rapide-comptabilite-tps-tvh.html).
+
+## Table of contents
+
+- [What's new](#whatsnew)
+
+- [Find out if this guide is for you](#is_guide_fu)
+
+    - [GST/HST and Quebec](#gst_hst_qc)
+
+- [Definitions](#P83_2879)
+
+- [The quick method of accounting](#P100_5211)
+
+    - [Determine if you can make this election](#P107_6535)
+
+          - [Exceptions](#Exceptions)
+
+          - [New registrants](#NWRGT)
+
+    - [Determine when you can make the election](#P149_10392)
+
+    - [How to elect to use the quick method](#P154_11042)
+
+    - [Duration of this election](#P156_11388)
+
+    - [How to revoke the election](#P187_13899)
+
+    - [Books and records](#P195_14893)
+
+- [When you use the quick method](#P198_15395)
+
+    - [Supplies not eligible for the quick method calculation](#P202_16127)
+
+    - [Claiming input tax credits](#P214_17670)
+
+- [Quick method remittance rates](#P225_18783)
+
+    - [Remittance rates for businesses that purchase goods for resale](#P231_19994)
+
+    - [Remittance rates for businesses that provide services](#P257_23031)
+
+    - [Supplies in both participating and non-participating provinces](#P281_24696)
+
+    - [Credit of 1% on the first $30,000 of revenue from your eligible supplies](#crdt_1)
+
+- [Special situations](#P304_28240)
+
+    - [Self-assessment of the provincial part of the HST](#P306_28258)
+
+    - [Bad debts](#P313_29504)
+
+    - [Credit adjustments](#P315_29880)
+
+    - [Trade-ins](#P317_30389)
+
+    - [Changes in the nature of your business](#P319_30710)
+
+- [Filling out your GST/HST return using the quick method](#P323_31422)
+
+- [Forms and publications](#Publications_and_forms)
+
+- [Digital services](#Online_services)
+
+    - [GST/HST electronic filing and remitting](#GST/HST_electronic_filing_rem)
+
+    - [Handle your business taxes online](#Handling_bus_tax_online)
+
+    - [Receive your CRA mail online](#receiving_cra_mail_online)
+
+    - [Create a pre-authorized debit agreement for payments from your Canadian chequing account](#authorizing_withdrawal)
+
+    - [Electronic payments](#Electronic_payments)
+
+- [For more information](#For_more_info)
+
+    - [If you need help](#What_if_you_need_help)
+
+    - [Direct deposit](#Dirct_dep)
+
+    - [Forms and publications](#Forms_Pub)
+
+    - [Ordering personalized remittance forms](#Ordering_personalized_rem_form)
+
+    - [Electronic mailing lists](#Excise_and_GST/HST_news)
+
+    - [Tax Information Phone Service (TIPS)](#TIPS)
+
+    - [Teletypewriter (TTY) and Video Relay Service (Canada VRS) users](#tty)
+
+    - [GST/HST rulings and interpretations](#gst_hst)
+
+    - [Formal disputes (objections and appeals)](#form_disp)
+
+    - [CRA service feedback program](#fdbk_prog)
+
+    - [Service complaints](#Sce_complnt)
+
+    - [Reprisal complaints](#Reprisal_complaint)
+
+    - [Due dates](#Due_dates)
+
+    - [Cancel or waive penalties and interest](#Cancel_or_waive_penalties_or_interest)
+
+## What's new
+
+The major changes are listed below.
+
+### Nova Scotia
+
+The Government of Nova Scotia has decreased the provincial part of the harmonized sales tax (HST) by one percentage point from 10% to 9%, effective April 1, 2025. This results in a decrease in the total HST rate in Nova Scotia from 15% to 14%.
+
+### Atlantic Tax Centre
+
+The name change for Prince Edward Island Tax Centre to Atlantic Tax Centre was solely for internal administrative purposes. The Prince Edward Island Tax Centre will retain its name.
+
+### Electronic filing for GST/HST registrants
+
+For GST/HST reporting periods that begin on or after January 1, 2024, the $1.5 million mandatory electronic filing threshold that was in place for GST/HST returns has been removed, which means that **all** registrants, other than selected listed financial institutions and charities, are now required to file their returns electronically. If this change applies to you, there will be penalties for not filing electronically. For more information, see [Guide RC4022, *General Information for GST/HST Registrants*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+### Electronic remittances or payments above $10,000
+
+As of January 1, 2024, remittances or payments to the Receiver General for Canada must be made as an electronic payment if the amount is $10,000 or more. The option to send payments by cheque will remain available to taxpayers for the foreseeable future. Before applying a penalty, the CRA will be educating taxpayers about the easy, secure, and convenient electronic payments options currently available to make payments to the CRA. For more information, see [Guide RC4022, *General Information for GST/HST Registrants*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+### Simplified access to your account
+
+The CRA has simplified its sign-in process, making it easier to access My Account, My Business Account, and Represent a Client portals with a single sign in. To access My Account, My Business Account, and Represent a Client, go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) and sign in to or register for a CRA account.
+
+## Find out if this guide is for you
+
+This guide explains how to use the quick method of accounting. It does **not** apply to qualifying non-profit organizations, municipalities, hospital authorities, charities, and most universities, public colleges and school authorities. If your organization is one of these, see [Special quick method of accounting for public service bodies](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/calculate-prepare-report/calculate-net-gst-hst/complete-file-quick-method.html).
+
+### GST/HST and Quebec
+
+In Quebec, Revenu Québec generally administers the GST/HST. If the physical location of your business is in Quebec, you have to file your returns with Revenu Québec using its forms, unless you are a person that is a selected listed financial institution (SLFI) for GST/HST or Quebec Sales Tax (QST) purposes or **both**. For more information, see the Revenu Québec [Publication IN-203-V, *General Information Concerning the QST and the GST/HST*](https://www.revenuquebec.ca/en/online-services/forms-and-publications/current-details/in-203-v/), available at [Revenu Québec](https://www.revenuquebec.ca/en/). If you are an SLFI, go to [GST/HST and QST – Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html).
+
+## Definitions
+
+**Associated person**, for GST/HST purposes, means a person that is generally associated with another person where one controls the other. Associated persons (referred to generally as "associates") may include:
+
+- two or more corporations
+
+- an individual and a corporation
+
+- a person and a partnership or trust
+
+- two persons, if they are associated with the same third person
+
+**Capital asset** generally means property that is or would be capital property under the [*Income Tax Act*](https://laws-lois.justice.gc.ca/eng/acts/I-3.3/) and includes property that, before January 1, 2017, was or would have been, eligible capital property for income tax purposes.
+
+**Participating province** means a province that has harmonized its provincial sales tax with the GST to implement the harmonized sales tax (HST). Participating provinces include New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, and Prince Edward Island, but do not include the Nova Scotia offshore area or the Newfoundland offshore area except to the extent that offshore activities, as defined in subsection 123(1) of the [*Excise Tax Act*](http://laws-lois.justice.gc.ca/eng/acts/E-15/), are carried on in that area.
+
+**Permanent establishment** of a person generally means **either**of the following:
+
+- a fixed place of business of the person, including a place of management, a branch, an office, a factory, or a workshop; or a mine, an oil or gas well, a quarry, timberland, or any other place where natural resources are extracted, through which the person supplies property or services
+
+- a fixed place of business of someone else (other than a broker, general commission agent, or other independent agent acting in the ordinary course of business) who is acting in Canada for the person and through whom the person supplies property or services in the ordinary course of business
+
+**Place of business** means any premises, facility, or installation used to carry on business, whether or not it is used exclusively for that purpose. Premises, facilities, or installations may be considered to be a place of business whether they are owned or rented, or, in some cases, where they are simply available to the business.
+
+**Supply** means the provision of property or a service in any way, including sale, transfer, barter, exchange, licence, rental, lease, gift, or disposition.
+
+**Zero-rated supplies** are supplies of property and services that are taxable at the rate of 0%. This means there is no GST/HST charged on these supplies, but GST/HST registrants may be eligible to claim input tax credits (ITCs) for the GST/HST paid or payable on property and services acquired to provide these supplies.
+
+## The quick method of accounting
+
+The **quick method** is another accounting option available to help small businesses calculate their net tax for GST/HST purposes. This method reduces paperwork and makes it easier to calculate GST/HST remittances and file GST/HST returns because it eliminates the need to report the actual GST/HST paid or payable on most purchases.
+
+When using the quick method, you still charge the GST at the rate of 5%or the HST at the applicable rate on your taxable supplies of property and services. For the list of applicable GST/HST rates, go to [GST/HST calculator (and rates)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html). To calculate the amount of GST/HST to remit, multiply the revenue from your supplies (including the GST/HST) for the reporting period by the quick method remittance rate, or rates, that apply to your situation.
+
+The remittance rates of the quick method are less than the applicable rates of GST/HST that you charge. This means that you remit only a part of the tax that you collect, or that is collectible. Since you **cannot** claim ITCs on most of your purchases when you use this method, the part of the tax that you keep accounts for the approximate value of the ITCs you would otherwise have claimed. For more information, see [Quick method remittance rates](#P225_18783)
+
+Whether the quick method will be more beneficial for you to use than the regular method depends on your specific situation.
+
+### Determine if you can make this election
+
+You can use the quick method if you meet **all** of the following conditions:
+
+- You have been in business continuously throughout the 365-day period ending immediately before your current reporting period (if you are a new registrant, see [New registrants](#NWRGT)).
+
+- You did **not** revoke an election of the **quick method** or the **simplified method for claiming ITCs**during that 365-dayperiod.
+
+- You are **not** a business type listed under [Exceptions](#Exceptions) below.
+
+- Your revenues (including the GST/HST) from annual worldwide taxable supplies, (including zero-rated supplies) **and those of your associates**,are **not** more than $400,000 for either the period consisting of the first four consecutive fiscal quarters out of your last five fiscal quarters, or the period consisting of the last four fiscal quarters out of your last five fiscal quarters. When you calculate your annual worldwide taxable supplies, exclude revenues from supplies of financial services and sales of real property, capital assets, and goodwill from the sale of a business.
+
+- You must have a permanent establishment in Canada.
+
+#### Exceptions
+
+The following business types **cannot** use the quick method:
+
+- persons that provide book keeping, financial consulting, tax consulting or tax return preparation services in the course of their commercial activities
+
+- persons that provide legal, accounting or actuarial services in the course of their professional practice
+
+- listed financial institutions
+
+- charities
+
+- public institutions
+
+- non–profit organizations with at least 40% government funding in the year (qualifying non–profit organizations)
+
+- municipalities or local authorities designated as a municipality
+
+- public colleges, school authorities, or universities, that are established and operated other than for profit
+
+- hospital authorities, facility operators, or external suppliers
+
+A **special quick method**is available to certain qualifying non-profitorganizations, selected public service bodies, specified facility operators and designated charities. For more information, see [Special quick method of accounting for public service bodies](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/calculate-prepare-report/calculate-net-gst-hst/complete-file-quick-method.html).
+
+ABC Shoe Store is a GST/HST registrant located in Calgary, Alberta, where it has operated for the last five years and makes all of its supplies. It files quarterly GST/HST returns and has always used the regular method to calculate its net tax. ABC Shoe Store is **not** a type of business listed under “Exceptions” above. They would like to use the quick method beginning April 1, 2025.
+
+ABC Shoe Store’s worldwide taxable sales (including the GST/HST) for the last five fiscal quarters are as follows:
+
+| Fiscal quarters ending | Amount | Amount |
+
+| --- | --- | --- |
+
+| March 31, 2024 | $78,000 |  |
+
+| June 30, 2024 | $118,000 | $118,000 |
+
+| September 30, 2024 | $128,000 | $128,000 |
+
+| December 31, 2024 | $70,000 | $70,000 |
+
+| March 31, 2025 |  | $86,000 |
+
+| **Total for four consecutive quarters** | **$394,000** | **$402,000** |
+
+The total sales (including the GST/HST) for the first four fiscal quarters (ending December 31, 2024) was $394,000. The total sales (including the GST/HST) for the last four fiscal quarters (ending March 31, 2025) was $402,000.
+
+Since at least **one** of the periods of four consecutive fiscal quarters out of the five **most** recent fiscal quarters has GST/HST‑included sales that are not more than $400,000, ABC Shoe Store can elect to start using the quick method on April 1, 2025.
+
+#### New registrants
+
+If you have not been in business continuously for the past year but you are an eligible type of business, you may be eligible to use the quick method. You can elect to use the quick method if, in your first full year of business, you can reasonably expect your revenues from worldwide taxable supplies, and those of your associates, to be $400,000 or **less**.
+
+### Determine when you can make the election
+
+If you file **annual** GST/HST returns, you have to make the election by the first day of your second fiscal quarter. If you are a new registrant filing your first return for a reporting period that is **not** a full fiscal year, you have to make your election by the due date of the return.
+
+If you file **monthly or quarterly** GST/HST returns, you have to make your election by the due date of the return for the reporting period in which you begin using the quick method.
+
+You can start using the quick method on the effective date you indicated to the CRA. This date has to be the first day of a GST/HST reporting period.
+
+If you previously elected to use the quick method and have revoked that election, you have to wait at least one year from the date the revocation became effective before you can elect to use the quick method again.
+
+### How to elect to use the quick method
+
+You can elect to use the quick method by using the CRA’s online services in:
+
+- My Business Account, if you are a business owner
+
+- Represent a Client, if you are an authorized representative or employee
+
+To sign in to access My Business Account, Represent a Client, or to register, go to [Sign-in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+You can also elect to use the quick method by filling out [Form GST74, *Election and Revocation of an Election to Use the Quick Method of Accounting*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst74.html).
+
+### Duration of this election
+
+Generally, the election stays in effect as long as the total annual revenue (including the GST/HST) from your worldwide taxable supplies (including zero-rated supplies), and those of your associates, does **not** exceed $400,000, **or** until you become a person that **cannot** use the quick method because of the type of business you carry on, see [Exceptions](#Exceptions).
+
+Do**not** include revenues from supplies of financial services and sales of real property, capital assets, and goodwill from the sale of a business.
+
+If your election is no longer in effect, you have to start accounting for the GST/HST using the regular method:
+
+- at the beginning of your next fiscal year if **both** of the following conditions apply:
+
+    - you file annual returns
+
+    - in your current fiscal year, you exceed the $400,000 threshold or become a person that **cannot** use the quick method because of the type of business you carry on
+
+- at the beginning of your second fiscal quarter of a fiscal year if **all** of the following conditions apply:
+
+    - you file monthly or quarterly returns
+
+    - your election to use the quick method **was** in effect at the beginning of that fiscal year
+
+    - you exceeded the $400,000 threshold in your previous fiscal year
+
+- at the beginning of your next fiscal quarter if **all** of the following conditions apply:
+
+    - you file monthly or quarterly returns
+
+    - your election to use the quick method **was not** in effect at the beginning of the fiscal year
+
+    - you exceeded the $400,000threshold in **both** the first four and the last four consecutive quarters of the previous five fiscal quarters
+
+- at the beginning of a fiscal quarter if **both** of the following conditions apply:
+
+    - you file monthly or quarterly returns
+
+    - you become a person that **cannot** use the quick method because of the type of business you began to carry on in the fiscal quarter
+
+At the end of each fiscal year, make sure that your business is still eligible to use the quick method for the following year. Also make sure that the same category of rates applies to your business. Base your calculations on supplies made in the fiscal year that just ended.
+
+| Quarters ending | Amount |
+
+| --- | --- |
+
+| March 31, 2024 | $92,000 |
+
+| June 30, 2024 | $98,000 |
+
+| September 30, 2024 | $103,000 |
+
+| December 31, 2024 | $123,000 |
+
+| **Total sales for fiscal year ended December 31, 2024** | **$ 416,000** |
+
+XYZ Clothing Store is a quarterly filer and used the quick method throughout 2024. To see how long its election would stay in effect, the store had to review its taxable sales (including the GST/HST) for the previous fiscal year. Since its worldwide taxable sales for 2024 were more than $400,000, it had to stop using the quick method at the **end** of the first fiscal quarter of 2025. This means it had to start calculating its GST/HST remittance using the regular method on April 1, 2025.
+
+### How to revoke the election
+
+You can revoke the election only **after** your quick method election has been in effect for at least **one** year.
+
+You can revoke the election by using the CRA's online services in:
+
+- My Business Account, if you are a business owner
+
+- Represent a Client, if you are an authorized representative or employee
+
+To sign in to access My Business Account, Represent a Client, or to register, go to [Sign-in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+You can also revoke the election by filling out [Form GST74, *Election and Revocation of an Election to Use the Quick Method of Accounting*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst74.html).
+
+You have to revoke the election by the due date of the GST/HST return for the last reporting period for which you want to use the quick method.
+
+If you revoke the election, **you have to wait at least one year**before you can elect to use the quick method again.
+
+If you stop using the quick method, you **cannot** claim ITCs for any tax paid or payable on purchases you made while using it, other than the ITCs you would have been entitled to claim, but did **not** claim, while you were using the quick method.
+
+### Books and records
+
+When you fill out your GST/HST return using the quick method, you do not have to indicate the actual GST/HST that you charged on most of your taxable supplies or the GST/HST paid or payable on most of your business purchases. However, you still have to keep all books and records related to your business purchases and your supplies for six years from the end of the year to which they relate. However, the CRA may ask you to keep the invoices longer than six years. If you want to destroy your records earlier, you have to send a written request and wait for the CRA’s written approval to do so. For more information, see [GST/HST Memorandum 15‑1, *General Requirements for Books and Records*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/15-1.html).
+
+## When you use the quick method
+
+When you use the quick method, you still charge the GST at 5% or the HST at the applicable rate on your supplies of taxable property and services (other than zero-rated supplies), but you remit only a portion of that tax.
+
+The HST rate can vary from one participating province to another. For the list of all applicable GST/HST rates, go to [GST/HST calculator (and rates)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html).
+
+The net tax you have to remit is calculated using the applicable quick method remittance rates. Usually only one of these rates will apply to your business. For more information, see [Quick method remittance rates](#P225_18783)
+
+You **cannot** claim ITCs for most of your purchases when you use the quick method. This is because the part of the tax that you keep accounts for the approximate value of the ITCs you would otherwise have claimed. For more information, see [Claiming input tax credits](#P214_17670).
+
+### Supplies not eligible for the quick method calculation
+
+- The quick method calculation applies to most of your supplies of property and services. However, certain supplies you make are **not** eligible for this calculation. If you make a supply that is **not** eligible, you do **not** use a remittance rate to calculate how much tax you have to remit. Instead, you have to account for such a supply the same way you would if the election were **not** in effect. For example, if you make a supply that is **not** eligible and you charge 5% GST, you have to report the full amount of tax charged instead of using a quick method remittance rate.
+
+The following supplies are **not** eligible for the quick method calculation:
+
+- supplies on which the customer does not have to pay the tax, such as:
+
+    - zero-rated supplies
+
+    - supplies made outside Canada
+
+    - certain supplies to Indians
+
+- sales of real property
+
+- sales of capital assets
+
+- supplies you made as an agent or auctioneer for which you must account for the tax paid
+
+- supplies of property or services you made to an employee or shareholder for which you must account for tax on the value of the supplies and that is to be included in the individual’s income as a taxable benefit for income tax purposes
+
+- supplies of property (other than capital property) or services for which you had to self‑assess tax because you appropriated property or services for the personal benefit of yourself, a shareholder, a beneficiary, a partner, a member of your organization, or related persons
+
+- supplies of property or services for which you had to self‑assess tax because you received a reimbursement under a warranty for property or services you acquired, and you were entitled to claim an ITC or rebate
+
+### Claiming input tax credits
+
+You can claim any ITCs to which you are entitled for the following **only**:
+
+- purchases of real property and improvements to real property
+
+- purchases of capital assets (other than real property), such as computers and vehicles, and improvements to such property
+
+- purchases on which the GST/HST became payable **before** your quick method election took effect, if the time limit to claim the amounts has **not** expired
+
+- goods sold by an auctioneer or an agent on your behalf where the auctioneer or agent has to account for the tax
+
+- goods you are considered to have bought to use only in your commercial activities if **both** of the following apply:
+
+    - a non‑resident, who is **not** registered for the GST/HST, transferred them to you, after paying tax on them
+
+    - you provided a commercial service on the goods and then sold them, acting as an agent for the non‑resident and collecting the GST/HST
+
+## Quick method remittance rates
+
+Most businesses use only one remittance rate. The rate that applies depends on whether you make taxable supplies of property or services in a participating or non‑participating province, and whether you make the supplies through a permanent establishment that is located in a participating or non‑participating province. The type of business you are involved in is also a factor. For example, a business that provides mostly services generally has to use a different remittance rate than a business that is involved mostly in purchasing goods for resale.
+
+In some cases, a business may have to use more than one remittance rate. For example, if a business makes supplies in both participating **and** non‑participating provinces, more than **one** rate may apply. For more information, see chart [GST/HST quick method remittance rates for businesses that purchase goods for resale, based on the province where the permanent establishment (PE) of a business is located](#Rmttnc_rt_chrt).
+
+The information in this section does**not** apply to the supplies listed in [Supplies not eligible for the quick method calculation](#P202_16127).
+
+### Remittance rates for businesses that purchase goods for resale
+
+Generally, retailers and wholesalers who purchase goods for resale use the first group of remittance rates. To be eligible to use these rates, the cost (including the GST/HST) of goods you purchased in your previous fiscal year for resale, or to use in goods you produce or manufacture for sale, must be **at least 40%** of your total revenue from annual taxable supplies (including the GST/HST) for that fiscal year. Do **not** include the annual taxable supplies of your associates in this calculation.
+
+If you began to use the quick method in your current fiscal year, your calculations should be based on your purchases and taxable supplies from either the first four or the last four consecutive quarters of the previous five quarters, instead of from your previous fiscal year.
+
+Exclude **purchases** of basic groceries and purchases for which you are **not** required to pay tax from your calculation of the cost of goods you purchased.
+
+Exclude **supplies** of basic groceries, financial services, and sales of real property, capital assets, goodwill from the sale of a business, as well as goods that you sold on behalf of someone else by auction from your calculation of your total annual taxable supplies, but **include** sales made by an auctioneer on your behalf.
+
+The following are examples of businesses that may use this group of quick method remittance rates:
+
+- antique dealers
+
+- grocery and convenience stores
+
+- art and craft shops
+
+- boutiques and novelty stores
+
+- service stations (gas)
+
+|  | Column 1: PE located where GST at 5% applies | Column 2: PE located where HST at 13% applies | Column 3: PE located where HST at 14% applies | Column 4: PE located where HST at 15% applies |
+
+| --- | --- | --- | --- | --- |
+
+| Supplies where GST at 5% applies | 1.8% | 0% (and 2.8% credit) | 0% (and 3.4% credit) | 0% (and 4.0% credit) |
+
+| Supplies where HST at 13% applies | 8.8% | 4.4% | 3.9% | 3.3% |
+
+| Supplies where HST at 14% applies | 9.6% | 5.3% | 4.7% | 4.2% |
+
+| Supplies where HST at 15% applies | 10.4% | 6.1% | 5.6% | 5.0% |
+
+If your business gives a point-of-sale rebate for sales of qualifying publications in the participating provinces, you can use the **1.8%** remittance rate for those sales if your cost of goods for resale is at least 40% of your total annual taxable sales (including the GST/HST but not including sales made by your associates). Qualifying publications include a printed book or an update of such a book, an audio recording, all or substantially all (90% or more) of which is a spoken reading of a printed book, and a bound or unbound printed version of scripture of any religion.
+
+Use the [Applicable rates](#pplicbl_rts) table to determine which column to use in the above table.
+
+| If the permanent establishment of your business is in: | During the following periods: | Use: |
+
+| --- | --- | --- |
+
+| Alberta | On or after January 1, 2008 | Column 1 |
+
+| British Columbia | On or after January 1, 2008, and before July 1, 2010; and on or after April 1, 2013 | Column 1 |
+
+| Manitoba | On or after January 1, 2008 | Column 1 |
+
+| New Brunswick | On or after July 1, 2016 | Column 4 |
+
+| Newfoundland and Labrador | On or after July 1, 2016 | Column 4 |
+
+| Northwest Territories | On or after January 1, 2008 | Column 1 |
+
+| Nunavut | On or after January 1, 2008 | Column 1 |
+
+| Nova Scotia | On or after April 1, 2025 Between July 1, 2010, and March 31, 2025 | Column 3 Column 4 |
+
+| Ontario | On or after July 1, 2010 | Column 2 |
+
+| Prince Edward Island | On or after October 1, 2016 | Column 4 |
+
+| Saskatchewan | On or after January 1, 2008 | Column 1 |
+
+| Yukon | On or after January 1, 2008 | Column 1 |
+
+### Remittance rates for businesses that provide services
+
+The next group of remittance rates is for businesses that do **not** qualify to use the first group of remittance rates, mentioned in the previous section. Generally, these rates are to be used by small businesses that provide services.
+
+The following are examples of businesses that may use this group of remittance rates:
+
+- auto repair shops
+
+- campgrounds
+
+- caterers
+
+- delicatessens
+
+- delivery service
+
+- dry cleaners
+
+- fast‑food outlets
+
+- house-cleaning services
+
+- painting contractors
+
+- photographers
+
+- small manufacturers
+
+- taxi drivers
+
+- travel agencies
+
+|  | Column 1: PE located where GST at 5% applies | Column 2: PE located where HST at 13% applies | Column 3: PE located where HST at 14% applies | Column 4: PE located where HST at 15% applies |
+
+| --- | --- | --- | --- | --- |
+
+| Supplies where GST at 5% applies | 3.6% | 1.8% | 1.6% | 1.4% |
+
+| Supplies where HST at 13% applies | 10.5% | 8.8% | 8.6% | 8.4% |
+
+| Supplies where HST at 14% applies | 11.3% | 9.6% | 9.4% | 9.2% |
+
+| Supplies where HST at 15% applies | 12.0% | 10.4% | 10.2% | 10.0% |
+
+If your business gives a point-of-sale rebate for sales of qualifying publications in the participating provinces, use the **3.6%** remittance rate for those sales. Qualifying publications include a printed book or an update of such a book, an audio recording, all or substantially all (90% or more) of which is a spoken reading of a printed book, and a bound or unbound printed version of scripture of any religion.
+
+Use the [Applicable rates](#pplicbl_rts) table to determine which column to use in the above table.
+
+### Supplies in both participating and non-participating provinces
+
+If you make supplies in both participating and non‑participating provinces, you normally have to use more than one remittance rate. However, special rules apply when **90% or more** of the eligible supplies you made in a reporting period were in either a participating province or a non‑participating province. These rules are as follows:
+
+- If 90% or more of the eligible supplies you made through a permanent establishment in a reporting period were made in a participating province, only use the rate that you would have to use if all eligible supplies were made in the participating province.
+
+- If 90% or more of the eligible supplies you made through a permanent establishment in a reporting period were made in non‑participating provinces, only use the rate that you would have to use if all eligible supplies were made in a non‑participating province.
+
+If neither of these situations applies to you, you may have to use more than one remittance rate unless 90% or more of the eligible supplies you made through a permanent establishment in a reporting period were made in participating provinces that have the same HST rate.
+
+### Credit of 1% on the first $30,000 of revenue from your eligible supplies
+
+In calculating your net tax using the quick method, you are entitled to a 1% credit on the first $30,000 of revenue from your eligible supplies (including the GST/HST) on which you must collect the GST at 5% or the HST at the applicable rate (see [GST/HST rates](#pplicbl_rts)) in **each** fiscal year.
+
+To qualify for the 1% credit, your quick method election must be in effect at the beginning of a fiscal year, or if you are a new registrant, on the day you became a registrant.
+
+If you file monthly or quarterly GST/HST returns, the 1% credit applies to the first and the following reporting periods of a fiscal year until you reach the $30,000 threshold, or the fiscal year ends. If you file annual GST/HST returns, use the 1% credit on your first $30,000 of revenue from your eligible supplies in that fiscal year.
+
+If the 0% remittance rate applies to your eligible sales, you are entitled to the 1% credit in addition to the credit given to businesses that purchase goods for resale (for more information, see the [remittance rates](#Rmttnc_rt_chrt) chart).
+
+If you do **not** make $30,000 in revenue from eligible supplies in a fiscal year, you **cannot** carry forward any unused portion of the credit to a later fiscal year.
+
+## Special situations
+
+### Self-assessment of the provincial part of the HST
+
+In some cases, you may have to self‑assess the provincial part of the HST, but you **cannot** use the quick method calculation to do so. Self‑assessment may be required in the following situations:
+
+- You bring goods into a participating province from another province.
+
+- You have goods delivered or made available to you in a participating province by a non‑resident who is **not** registered for GST/HST purposes.
+
+- You are a resident of a participating province and you acquire, in a particular province, intangible personal property (IPP) or a service for consumption, use or supply in whole or in part in any participating province.
+
+- You import commercial goods into a participating province.
+
+- You import services, or IPP that is **not** acquired for consumption, use or supply exclusively (90% or more) in the course of your commercial activities in the participating provinces.
+
+If you import services, or IPP that is **not** acquired for consumption, use, or supply exclusively in the course of your commercial activities, you may have to self-assess the GST or federal part of the HST, at the applicable rate.
+
+If you have to self‑assess any amount of the GST/HST, report the amount on **line 405** of your GST/HST return.
+
+For more information on self‑assessment, see:
+
+- [Guide RC4022, *General Information for GST/HST Registrants*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html)
+
+- [Notice 266 – For discussion purposes only – Draft GST/HST Technical Information Bulletin, *Harmonized Sales Tax – Self-assessment of the provincial part of HST in respect of property and services brought into a participating province*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice266/draft-GST-HST-Technical-Information-Bulletin-Harmonized-Sales-Tax-Self-assessment-provincial-part-HST-respect-property-services-brought-into-participating-province.html)
+
+### Bad debts
+
+When you use the quick method to calculate your net tax, you **cannot** make adjustments to your net tax for bad debts, except for supplies that are **not** eligible for the quick method calculation.
+
+### Credit adjustments
+
+If you give a customer a credit, refund, or rebate because you reduced the price of a good or a service that is eligible for the quick method calculation (see [Supplies not eligible for the quick method calculation](#P202_16127)), deduct the amount of the credit, refund, or rebate from the amount of your revenue from total eligible supplies **before** calculating your net tax using the remittance rate. This adjustment should be made for the reporting period during which you credited or paid the amount to your customers.
+
+### Trade-ins
+
+If you use the quick method, you have to include in your sales calculations any amount credited to a purchaser for a trade‑in. For example, you sell a pair of skates for $100 and accept a used pair of skates as a trade. You give a credit of $35 for the new skates. You have to include $100 in the total eligible sales for your net tax calculation.
+
+### Changes in the nature of your business
+
+If your business adds a new service, purchases the operations of another firm, or significantly changes its product lines or sales patterns, you have to determine your eligibility to continue using the quick method and the remittance rates that apply to your eligible supplies.
+
+If the nature of your business changes, see [Determine if you can make this election](#P107_6535) to determine if you are still a person who can use the quick method. If you are no longer eligible, see [Duration of this election](#P156_11388) to determine when you have to start calculating your GST/HST remittance using the regular method.
+
+## Filling out your GST/HST return using the quick method
+
+If you only have to use one remittance rate, follow these steps. Only fill out the lines of the return that apply to you.
+
+If you have to use more than one remittance rate, follow these instructions separately for **each** rate.
+
+### Line 101 – Sales and other revenue
+
+For each reporting period, add your revenues from taxable supplies (include the GST/HST at the rate that applied at that time) and enter the total on **line 101**, rounded off to the nearest dollar.
+
+Do **not** include the following on **line 101**:
+
+- revenue from supplies that are not eligible for the quick method calculation (see [Supplies not eligible for the quick method calculation](#P202_16127))
+
+- revenue from supplies on which no GST/HST was charged (such as zero-rated supplies, exempt supplies, supplies made outside Canada, or goods and services sold to individuals registered under the *Indian Act*)
+
+- provincial sales tax, if you had to charge the GST
+
+If you file your return electronically using the quick method, do **not**choose the option to fill out lines 90, 91, and 102.
+
+### Line 103 – GST/HST collected or collectible
+
+**Step 1**: Multiply the total you entered on **line 101**by the remittance rate that applies for that reporting period. To determine the applicable rate, see [Quick method remittance rates](#pplicbl_rts)
+
+**Step 2**: Calculate the GST/HST you collected, or that became collectible on your taxable supplies that are **not** eligible. For a list of these supplies, see [Supplies not eligible for the quick method calculation](#P202_16127).
+
+**Step 3**:Add the amounts from Step 1 and Step 2, and enter the result on **line 103** if you are filing electronically using GST/HST NETFILE, or in your **line 105** calculation if you are filing using GST/HST TELEFILE.
+
+### Line 104 – Adjustment to be added to the net tax
+
+Enter the total of any adjustments to be added to the net tax for the reporting period (for example, the GST/HST you obtained on the recovery of a bad debt from supplies that are **not eligible** for the quick method calculation) and include it on **line 104** if you are filing electronically using GST/HST NETFILE, or include it in your **line 105** calculation if you are filing a return using GST/HST TELEFILE.
+
+### Line 105 – Total GST/HST and adjustments for the period
+
+If you file your return electronically using GST/HST NETFILE, **line 105** will be automatically calculated based on the information you provided to fill out the other lines.
+
+If you are filing using GST/HST TELEFILE, add the amounts on **line 103** and **line 104**, and enter the result on **line 105**.
+
+### Line 106 – GST/HST paid or payable (ITCs)
+
+Add any amounts that you are eligible to claim as an ITC and enter the total on **line 106** if you are filing electronically using GST/HST NETFILE, or in your **line 108** calculation if you are filing a return using GST/HST TELEFILE. See [Claiming input tax credits](#P214_17670) for a list of the purchases and expenses for which you are still eligible to claim ITCs. The quick method remittance rates already take into account the ITCs for operating expenses and inventory purchases. Do **not** include any GST/HST paid or payable on these types of costs.
+
+If the 0% remittance rate applies to your eligible supplies, add the applicable credit (see [Quick method remittance rate](#P225_18783)) for those supplies (including the GST) and enter the total on **line 106** if you are filing electronically using GST/HST NETFILE, or in your **line 108** calculation if you are filing a return using GST/HST TELEFILE.
+
+### Line 107 – Adjustments to be deducted when determining the net tax
+
+If you are entitled to the 1% credit on the first $30,000 of revenue from your eligible supplies, enter the amount of the credit on **line 107** if you are filing electronically using GST/HST NETFILE, or in your **line 108** calculation if you are filing a return using GST/HST TELEFILE. For more information, see [Credit of 1% on the first $30,000 of revenue from your eligible supplies](#crdt_1).
+
+Also enter the total of any adjustments to be deducted when determining the net tax for the reporting period (for example, the GST/HST included in a bad debt from supplies that are **not eligible** for the quick method calculation).
+
+### Line 108 – Total ITCs and adjustments
+
+If you file your return electronically using GST/HST NETFILE, **line 108** will be automatically calculated based on the information you provided to fill out the other lines.
+
+If you are filing using GST/HST TELEFILE, add the amounts on **line 106** and **line 107**, and enter the result on **line 108**.
+
+### Line 109 – Net tax
+
+If you file your return electronically using GST/HST NETFILE or GST/HST TELEFILE, **line 109** will be automatically calculated based on the information you provided to fill out the other lines.
+
+### Line 110 – Instalment and other annual filer payments
+
+Enter any instalment and other annual filer payments you made for the reporting period on **line 110**.
+
+### Line 111 – Rebates
+
+Enter the total amount of GST/HST rebates **only** if the rebate form indicates that you can claim the amount on **line 111**. If you have entered an amount on **line 111**, attach the rebate application to the GST/HST return.
+
+If you are filing electronically, the rebate application **must** be mailed separately (or submitted electronically if available) by the due date of the return.
+
+### Line 112 – Total other credits
+
+**Line 112 does not appear on an electronic return**.
+
+### Line 113 A – Balance
+
+**Line 113 A does not appear on an electronic return.**
+
+### Line 205 – GST/HST due on the purchases of real property or purchases of emission allowances
+
+If you purchased taxable real property (other than a purchase of a residential complex by an individual) or taxable carbon emission allowances and have to remit the GST/HST on these purchases, enter the amount of that GST/HST on **line 205**.
+
+### Line 405 – Other GST/HST to be self-assessed
+
+Enter the applicable amount of GST/HST you have to self-assess when you bring property or a service into a participating province, or when you import commercial goods, services, or intangible property into Canada. For more information, see [Self-assessment of the provincial part of the HST](#P306_28258).
+
+### Line 113 B – Total other debits
+
+**Line 113 B does not appear on an electronic return.**
+
+### Line 113 C – Balance
+
+**Line 113 C does not appear on an electronic return.**
+
+### Line 114 – Refund claimed
+
+If you file your return using GST/HST NETFILE or TELEFILE, **line 114** will be calculated automatically based on the information you have already provided.
+
+After the CRA processes your return and applies any interest and/or penalty charges, if an amount of $2 or **less** is owed to you, the amount will **not** be refunded; however, the CRA will apply it to any existing liability you may have.
+
+### Line 115 – Amount owing
+
+If you file your return using GST/HST NETFILE or TELEFILE, **line 115** will be calculated automatically based on the information you have already provided
+
+You can make your remittance online using [My Payment](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html). You can also pay electronically using your financial institution's internet or telephone banking service.
+
+If you choose not to pay electronically and are **not** enclosing a cheque with your return, use [Form RC158, *Remittance Voucher – Payment on Filing – personalized*](https://www.canada.ca/en/revenue-agency/services/forms-publications/request-payment-forms-remittance-vouchers.html), to make your payment.
+
+Al and Bob's Lumber Yard sold goods in both a participating and a non-participating province through their permanent establishment in Ontario.
+
+**Al and Bob’s Lumber Yard Hamilton, Ontario Annual purchases and sales for 2024**
+
+$ 63,000
+
+$ 140,000
+
+45%
+
+**First quarter sales for 2025**
+
+$ 9,000
+
+$ 36,000
+
+**Total eligible sales** (Al and Bob’s Lumber Yard would enter this amount on **line 101** of its GST/HST return)
+
+**$ 45,000**
+
+This company used the quick method throughout 2024.
+
+In 2024, the company’s annual worldwide taxable sales (including the GST/HST) were not more than $400,000. This means that the company can continue to use the quick method in 2025.
+
+The company’s 2024 purchases (including the GST/HST) of goods for resale were more than 40% of the total annual taxable sales (including the GST/HST).
+
+For the first quarter of 2025, the company has to use two different remittance rates because it has sales in Ontario (a participating province), **and** in Manitoba (a non‑participating province) and it does **not** make at least 90% of its total taxable sales in **one** of these provinces.
+
+The remittance rate for the eligible sales made in Manitoba is 0%. The remittance rate for the eligible sales made in Ontario is 4.4%. This company can deduct a credit of 2.8% for the eligible sales made in Manitoba.
+
+**Quick method calculation for Al and Bob’s Lumber Yard Calculation of GST/HST remittance in first quarter of 2025**
+
+$ 1,584
+
+(Al and Bob’s Lumber Yard would enter the total of these two amounts on **line 103** of its GST/HST return)
+
+Deduct 2.8% for the $9,000 eligible sales made in Manitoba (Al and Bob’s Lumber Yard would enter this amount on **line 106** of its GST/HST return)
+
+$ (252)
+
+Deduct 1% for the first $30,000 of eligible sales (Al and Bob’s Lumber Yard would enter this amount on **line 107** of its GST/HST return)
+
+$ (300)
+
+**First quarter remittance** (Al and Bob’s Lumber Yard would enter this amount on **line 115** of its GST/HST return)
+
+**$ 1,032**
+
+## Forms and publications
+
+The CRA offers a wide range of publications in both official languages. For a list of all GST/HST publications, go to [GST/HST related forms and publications](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/forms-publications.html).
+
+- Pamphlets and booklets are available on a variety of subjects.
+
+- Guides contain more detailed information on how the GST/HST affects specific types of businesses and organizations.
+
+- Info Sheets provide explanations on specific topics.
+
+- GST/HST Memoranda give more in-depth technical information on administrative and policy aspects of the GST/HST, and are aimed at tax professionals.
+
+- GST/HST Notices provide explanations on recent changes.
+
+- Technical Information Bulletins announce changes to GST/HST legislation and administrative policy in specific areas.
+
+Revenu Québec administers the GST/HST in Quebec. If the physical location of your business is located in Quebec, contact [Revenu Québec](https://www.revenuquebec.ca/en/), unless you are a person that is a selected listed financial institution (SLFI) for GST/HST or QST purposes or **both**. If you are an SLFI, go to [GST/HST and QST – Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html).
+
+### Forms
+
+There are a number of options available to businesses and organizations to make it easier to comply with the GST/HST. These options, called **elections** or **applications**, allow you to adapt the administrative requirements of the GST/HST to your own business activity. While some options are available to **all** registrants, other options are available only to organizations and businesses that meet certain conditions.
+
+Other forms are used to remit an amount of tax. They are called returns or remittance vouchers.
+
+### Elections
+
+You can make an election if you meet **all** the eligibility criteria.
+
+You are responsible for ensuring that you meet the conditions of the election. At the time of an audit, the CRA reserves the right to verify your eligibility and to disallow an election if you have not met the requirements.
+
+### Applications
+
+Applications are different from elections. You have to meet the necessary requirements, and for many applications, you can call the CRA or fill out the form and mail it. The CRA has to acknowledge that your application has been processed and approved before you can begin to use the procedure for which you have applied.
+
+## Digital services
+
+### GST/HST electronic filing and remitting
+
+You have several options for filing your GST/HST return or remitting an amount owing electronically. For more information, go to [Complete and file a GST/HST return](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/file-gst-hst-return/reporting-requirements-deadlines.html).
+
+### Handle your business taxes online
+
+My Business Account lets you access your business tax information and interact with the CRA online throughout the year.
+
+#### Profile
+
+- Manage your addresses, direct deposit information, business activity, program account names, operating names, phone numbers, business numbers in your profile, and language preference
+
+- Manage your notification preferences and receive email notifications when important changes are made to your account
+
+- Manage your authorized representatives and authorization requests
+
+- Manage your multi-factor authentication settings and security options
+
+#### Balances and payments
+
+- Make a payment online to the CRA with My Payment, create a pre-authorized debit (PAD) agreement, or create a QR code to pay in person at Canada Post for a fee
+
+- View and pay account balance
+
+- View account transactions
+
+- Transfer payments and immediately view the updated balance
+
+- View interest
+
+- Calculate future balance
+
+- View direct deposit transactions
+
+- Calculate and pay instalment payments
+
+#### Transactions
+
+- File a return, view the status of filed returns, and adjust returns
+
+- File and adjust a rebate
+
+- File and view an election related to the GST/HST
+
+- Track the progress of certain files and enquiries you have submitted to the CRA
+
+- Make an online request regarding your account and view answers to common enquiries
+
+- Request relief of penalties and interest
+
+- File a formal dispute (Notice of Objection)
+
+- Submit a PDF form with electronic signature
+
+- Close an account
+
+#### Correspondence
+
+- View mail from the CRA
+
+- Submit documents to the CRA
+
+- Submit an audit enquiry
+
+For more information, go to [Digital services for businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html).
+
+#### Access My Business Account
+
+To access My Business Account, go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+### Receive your CRA mail online
+
+Most correspondence is only available online in My Business Account by default, except when a business has changed its delivery method to receive paper mail. Make sure you register for email notifications from the CRA to find out when you have new mail to view in My Business Account.
+
+For more information, go to[Email notifications](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/online-mail-reduce-your-cost-doing-business-saving-time-online.html).
+
+### Create a pre-authorized debit agreement for payments from your Canadian chequing account
+
+A pre-authorized debit (PAD) is a secure online self-service payment option for individuals and businesses to pay their taxes. A PAD lets you authorize withdrawals from your Canadian chequing account to pay the CRA. You can set the payment dates and amounts of your PAD agreement using the CRA's My Business Account in [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html). PADs are flexible and managed by you. You can use My Business Account to view your account history and modify, cancel, or skip a payment. For more information, go to [Pay by pre-authorized-debit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html).
+
+### Electronic payments
+
+Make your payment using:
+
+- your Canadian bank or credit union’s online banking, mobile app or telephone service
+
+- the CRA's My Payment service at [My Payment](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html) with your activated debit card from a participating Canadian bank or credit union with one of the following logos: Visa® Debit, Debit Mastercard® (does **not** include credit cards)
+
+- pre-authorized debit (PAD) at [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) which lets you:
+
+    - set up payments to the CRA from a Canadian chequing account on pre-set dates starting in five or more business days
+
+    - pay an amount due, repay overpaid amounts or make instalment payments
+
+    - view your account history and modify, cancel or skip a payment (for more information on PAD, go to [Pay by scheduled pre-authorized debit (PAD) through CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html))
+
+- the “Proceed to pay” button on the “View and pay account balance” page and other pages within My Business Account
+
+- your credit card, Interac-e-transfer, or Paypal through one of the third-party service providers **for a fee**
+
+For more information, go to [Payments to the Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html).
+
+## For more information
+
+### If you need help
+
+If you need more information after reading this guide, go to [GST/HST](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html) or call **1-800-959-5525**.
+
+### Direct deposit
+
+Direct deposit is a fast, convenient and secure way to receive your CRA payments directly in your account at a financial institution in Canada. For more information, go to [Direct deposit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html)or contact your financial institution.
+
+### Forms and publications
+
+The CRA encourages you to file your return electronically. If you need a paper version of the CRA's forms and publications, go to [GST/HST related forms and publications](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/forms-publications.html) or call **1-800-959-5525**.
+
+### Ordering personalized remittance forms
+
+The following personalized remittance forms are **not** available on the CRA's website. The CRA only provides them in a pre-printed format:
+
+- RC158, *Remittance Voucher – Payment on filing – personalized*
+
+- RC159, *Remittance Voucher – Amount Owing – personalized*
+
+- RC160, *Remittance Voucher – Interim Payments – personalized*
+
+- RC177, *Remittance Voucher – Balance Due – personalized*
+
+You can order **most** remittance vouchers or payment forms through My Account, My Business Account, or Represent a Client. To sign in or to register, go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+### Electronic mailing lists
+
+The CRA can send you an email when new information on a subject of interest to you is available on its website. To subscribe, go to [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+### Tax Information Phone Service (TIPS)
+
+For tax information by telephone, use the CRA's automated service, TIPS, by calling **1-800-267-6999**.
+
+### Teletypewriter (TTY) users and Video Relay Service (VRS) users
+
+If you use a TTY for a hearing or speech impairment, call **1-800-665-0354**.
+
+Register with Canada VRS to download the app, by going to **SRV Canada VRS**, and call the VRS line.
+
+If you use another **operator-assisted relay service**, call the CRA’s regular telephone numbers instead of the TTY and Canada VRS numbers.
+
+### GST/HST rulings and interpretations
+
+You may request a ruling or interpretation on how the GST/HST applies to a specific transaction for your operations. This service is provided free of charge. For the mailing address or fax number of the closest GST/HST rulings centre, see [GST/HST Memorandum 1-4, *Excise and GST/HST Rulings and Interpretations Service*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), or call **1-800-959-8287**.
+
+### Formal disputes (objections and appeals)
+
+You have the right to file an objection or an appeal if you disagree with an assessment, a determination, or a decision.
+
+For more information, go to [File an objection](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/file-objection-cppei-appeal-minister.html).
+
+### CRA service feedback program
+
+#### Service complaints
+
+You can expect to be treated fairly and to receive a high level of service every time you interact with the CRA.
+
+You can provide compliments or suggestions, however, if you are not satisfied with the service you received:
+
+- You may save time by calling the CRA first depending on your situation. You can call the telephone number provided in your CRA correspondence or discuss your concerns with the employee you have been dealing with. If you do not have a contact number, go to [Contact the Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+- You can ask to discuss the matter with the employee’s supervisor if you have not been able to resolve your service issue.
+
+- You can submit your feedback by filling out [Form RC193, *Service Feedback*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html) if the issue remains unresolved. For more information, go to [Submit service feedback](https://www.canada.ca/en/revenue-agency/services/make-a-service-complaint.html).
+
+- You may contact the Office of the Taxpayers' Ombudsperson if you are not satisfied with the response you have received. The Ombudsperson will only respond to complaints that the CRA has already tried to address.
+
+For more information, see the [*Taxpayer Bill of Rights*](https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/taxpayer-bill-rights.html).
+
+### Reprisal complaints
+
+If you received a response about a previously submitted service complaint or formal review of a CRA decision and felt that you were not treated fairly by a CRA employee, you can submit a reprisal complaint by filling out [Form RC459, *Reprisal Complaint*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc459.html).
+
+For more information about complaints and disputes, go to [Reprisal Complaints](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/reprisal-complaints.html).
+
+### Due dates
+
+When a due date falls on a Saturday, Sunday, or public holiday recognized by the CRA, your payment is considered on time if the CRA receives it on or before the next business day.
+
+For more information, go to [Due dates and payment dates](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/important-dates-individuals.html).
+
+### Cancel or waive penalties and interest
+
+The CRA administers legislation, commonly called "taxpayer relief provisions," that gives the CRA discretion to cancel or waive penalties and interest when taxpayers cannot meet their tax obligations due to circumstances beyond their control.
+
+The CRA's discretion is limited to any period that ends within 10 calendar years before the year the request is made.
+
+#### Penalties
+
+The CRA will consider your request only if it relates to a tax year or fiscal period ending in any of the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to a penalty for a tax year or fiscal period ending in 2015 or later.
+
+#### Interest on a balance owing
+
+The CRA will consider only the amounts that accrued during the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to interest that accrued in 2015 or later.
+
+Taxpayer relief requests can be made online using the CRA's My Account, My Business Account, or Represent a Client digital services.
+
+You can also fill out [Form RC4288, *Request for Taxpayer Relief – Cancel or Waive Penalties and Interest*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4288.html), and send it:
+
+- online using My Account, My Business Account, or Represent a Client
+
+- by mail or courier to the designated office, as shown on the last page of the form, based on your place of residence
+
+For information about submitting documents online, go to [Submit documents online](https://www.canada.ca/en/revenue-agency/services/e-services/submit-documents-online.html).
+
+For more information about cancelling or waiving penalties and interest, go to [Cancel or waive penalties and interest at the CRA](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/cancel-waive-penalties-interest.html).

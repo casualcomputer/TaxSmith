@@ -1,0 +1,65 @@
+Title: ARCHIVED - Taxation of Elected Officers of Incorporated Municipalities, School Boards, Municipal Commissions and Similar Bodies
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it292/archived-taxation-elected-officers-incorporated-municipalities-school-boards-municipal-commissions-similar-bodies.html
+Corpus path: corpus/cra/forms-publications/publications/it292/archived-taxation-elected-officers-incorporated-municipalities-school-boards-municipal-commissions-similar-bodies.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Taxation of Elected Officers of Incorporated Municipalities, School Boards, Municipal Commissions and Similar Bodies
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO.: **IT-292**
+
+DATE: February 23, 1976
+
+SUBJECT: INCOME TAX ACT**Taxation of Elected Officers of Incorporated Municipalities, School Boards, Municipal Commissions and Similar Bodies**
+
+REFERENCE: Subsection 81(3) (also subsections 5(1), 8(1) and 8(3))
+
+**Notice to the reader:**
+
+- [Bulletins do not have the force of law](https://www.canada.ca/formspubs/pbs/tntc-eng.html).
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it292.html).
+
+1. This bulletin outlines the Department's long-existing policy in respect of the interpretation and application of subsection 81(3) which provides for the portion of an elected municipal officer's expense allowance to be excluded in computing his income.
+
+2. Subsection 81(3) also applies to an elected officer of a school board or district, a municipal utilities board, a municipal commission or corporation, or any other similar body and for 1974 and subsequent years, a member of a public or separate school board or similar body governing a school district.
+
+## Total Amounts Received
+
+3. To determine the amounts to be excluded from the income of one of these officers or members, the first step is to compute the total of the amounts received from the municipal corporation or body that employed him in respect of his position, such as
+
+(a) salary, fees, indemnities and honoraria,
+
+(b) a general expense allowance, and
+
+(c) a mileage or other travelling allowance.
+
+4. The allowance referred to in item (b) is restricted to the nonaccountable payment an employer is authorized to make to an officer or member which is received by him because of his position and not for any specific duties he may perform, such as attending a convention or travelling on municipal business, for which he is usually reimbursed for part or all of his expenses. Those reimbursements are not taxable and are not regarded as "allowances' within the meaning of paragraph 6(1)(b) or subsection 81(3).
+
+5. The "mileage or other travelling allowance' referred to in item (c) above is again a nonaccountable allowance received on account of his position, such as an allowance a municipality is authorized to pay to an elected officer for travelling to and from council meetings. It does not refer to a reimbursement the officer or member may receive for the performance of specific duties.
+
+## Expense Allowance
+
+6. The second step is to arrive at the amount of the expense allowance which need not be included in income. Subsection 81(3) restricts this to half the amount paid as salary or other remuneration. However, the Municipal Acts of some provinces deem that a proportion of the total amount paid (as arrived at in paragraph 3) to an elected member of a municipal council is an allowance for expenses; where this is so, it is the Department's policy that the proportion so deemed to be an expense allowance (up to one third of the total paid) will be accepted as an expense allowance notwithstanding that local bylaws may specifically allocate portions of the total to salary, indemnity, allowance or other remuneration.
+
+7. Where there is no deeming provision in the Municipal Act of a province, the Department will consider one third of the total arrived at in paragraph 3 above to be expense allowance and two thirds to be salary or other remuneration, except that where the expense allowance actually paid is less than one third of the total received this actual amount will be used, or where no expense allowance is actually paid none will be allowed.
+
+## Limitation on Employment Expense Deduction
+
+8. By virtue of subsection 8(3), taxpayers to whom subsection 81(3) applies are not entitled to claim the employment expense deduction authorized by paragraph 8(1)(a), except to the extent that the amount otherwise deductible under paragraph 8(1)(a) exceeds the amount excluded from income by subsection 81(3).
+
+## Reporting - T4 Supplementary and T1 Individual Tax Returns
+
+9. The expense allowance or portion of it which need not be included in income by virtue of subsection 81(3) should not be included in "Total Earnings Before Deductions' or in "Taxable Allowances and Benefits' on the T4 Supplementary. However, a notation at the bottom of the T4 Supplementary should give the amount of the allowance which has not been included. This notation is necessary to determine the limitation of the employment expense deductions.
+
+10. This procedure eliminates the necessity for the individual officer to deduct the non-taxable portion under subsection 81(3) when completing his T1 return. However, if this procedure is not followed and the T1 Supplementary includes the expense allowance in "Total Earnings Before Deductions' the individual who makes the claim for deduction must be able to establish that it was so included.

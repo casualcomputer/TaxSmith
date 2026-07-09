@@ -1,0 +1,212 @@
+---
+title: "Taxable and non-taxable automobile benefits, allowances or reimbursement"
+gallery_title: "Taxable and Non-taxable Automobile Benefit, Allowance or Reimbursement"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/businesses-video-gallery/taxable-non-taxable-automobile-benefit-allowance-reimbursement.html
+video_source: https://youtu.be/5ZK1IIb2NDc
+last_modified: 2026-02-20
+---
+
+# Taxable and non-taxable automobile benefits, allowances or reimbursement
+
+## Transcript
+Hello, I’m Anthony, your host for today.
+Let’s begin by acknowledging that the land on which I am located is the traditional unceded territory of the Algonquin Anishnaabeg People. The Algonquin peoples have lived on this land since time immemorial. We are grateful to have the opportunity to be present in this territory. Given that we are meeting virtually, I also want to acknowledge the lands on which you are gathered from coast to coast and invite you to take a moment to acknowledge the territory in which you find yourself.
+Welcome to the CRA webinar on Taxable and Non-taxable Automobile Benefits, Allowances and Reimbursements.
+For today, please click on the question icon in the tool bar at the top of the screen to ask a question related to Taxable and Non-taxable Automobile Benefits, Allowances or Reimbursements. We’ll answer as many as we can during the webinar. For any other tax related questions, please call the business enquiries line.
+This webinar will be of interest to you if you’re:
+An employer who provides allowances or reimbursements to an employee for the use of their own vehicle An employer who wants to learn about their reporting and compliance requirements
+Let’s get started.
+Today, we’ll talk about:
+- Definitions and Key Terms
+- Allowances or reimbursements provided to an employee for the use of their own vehicle
+- Reporting and compliance requirements
+Let’s look at some definitions:
+An automobile is a motor vehicle that is designed or adapted mainly to carry individuals on highways and streets and has a seating capacity of not more than the driver and eight passengers. A zero-emission passenger vehicle (ZEPV) is also considered an automobile.
+A motor vehicle is an automotive vehicle designed or adapted for use on highways and streets. It does not include a trolley bus or a vehicle designed or adapted for use only on rails.
+An allowance is any payment that employees receive from an employer for using their own vehicle in connection with or in the course of their office or employment without having to account for its use. This payment is in addition to their salary or wages.
+A reimbursement is a payment you make to your employees as a repayment for amounts they spent, such as gas and meals, while conducting your business. Generally, the employee completes a claim or expense report detailing the amounts spent.
+An accountable advance is an amount that you give to an employee for expenses they will incur on your business. The employee must account for these expenses by producing vouchers and returning any amount they did not spend.
+A standby charge is for the benefit for the year your employee gets when your owned or leased automobile is made available for personal use. Any reimbursements you receive from your employee, other than expenses relating to the operation of the automobile, will decrease the standby charge.
+An operating expense benefit for the year is when you, or a person related to you, provide an automobile to an employee and pay for the operating expenses related to personal use, including the GST/HST and PST, this payment is a taxable benefit to the employee.
+Now let’s discuss employer-provided vehicle benefits:
+You may provide an automobile to your employee to use in performing their duties of office of employment. Generally, the benefit from personal driving of the employer-provided automobile is a taxable benefit. Depending on the situation, you may need to calculate the operating expense part of the taxable benefit using the fixed rate calculation at the per-kilometre rate.
+Step 1: Determine if the vehicle is an automobile If the vehicle is an automobile and is not a motor vehicle, continue to step 2
+Step 2: Determine if you made the automobile available
+An automobile is available to your employee if your employee has access to or control over the automobile. This includes if your employee used the automobile in the following situations: Any part of a day, weekends, and holidays during the calendar year and The whole day, part of the day, or even if it just stays unused in your employee’s garage, driveway, or parking spot If you made an automobile available to your employee, your employee must keep a logbook or daily record of the trips made with the automobile. If you made the automobile available to your employee, continue to Step 3.
+Step 3: Determine if the automobile was used for personal driving
+Personal driving is any driving of an automobile that is done for purposes not related to the employee’s employment. This includes driving between home to a regular place of employment. If your employee does not use the automobile for any personal driving, there is no taxable benefit, even if the automobile is available to your employee for the entire year. This applies as long as the kilometres driven by your employee were in the course of the employee’s employment duties and the automobile is returned to your premises at the end of the employee’s workday.
+Personal driving examples
+- Vacation trips
+- Driving to conduct personal activities
+- Travel between home and a regular place of employment, other than a point of call
+- Travel between home and a regular place of employment even if you insist your employee drives the vehicle home, such as when your employee is on call
+Business, employment-related, driving examples
+- Travel between your employee’s regular place of employment and a client’s workplace (a point of call)
+- Travel for business purpose errands
+- Travel between your employee’s home and a point of call, such as: visiting customers going to a client’s premises for a meeting making a repair call
+A regular place of employment is any location where your employee regularly reports for work or performs employment duties. "Regularly" means there is some degree of frequency or repetition in your employee’s reporting to that particular work location in a period (weekly, monthly, or yearly). This does not need to be your establishment. An employee can have multiple regular places of employment.
+Generally, any travel by your employee between home and a regular place of employment is considered personal driving.
+Point of call is any location other than a regular place of employment where your employee goes to perform employment duties. Generally, the CRA considers any travel by your employee between home and a point of call as business (employment-related) driving.
+Note: For occasional work-from-home arrangements, travel between home and the office is typically considered personal driving. Employers and employees should review their specific circumstances before claiming business kilometres. If there is personal driving, the use of the employer-provided automobile is a taxable benefit.
+Continue to Step 4
+Step 4: Determine if the automobile benefit is taxable
+If you make an automobile available to your employee because of current, previous, or intended office or employment, the benefit is not taxable if all of the following apply:
+- There is no personal driving
+- The automobile is used only in the course of the employee’s employment duties
+- The automobile is returned to the premises of the employer at the end of the workday.
+If you make an automobile available to your employee and the employee uses the automobile for both business, that is employment-related, and personal driving, the personal driving is taxable.
+Generally, the taxable benefit for an automobile you provide is:
+- Standby charge benefit for the year related to the availability and personal driving for an automobile you own or lease
+- Plus, operating expense benefit for the year when you pay the operating costs of an automobile subject to a standby charge
+- Minus any amounts your employee reimbursed you for the standby charge or the operating expenses
+- Which equals the value of the automobile benefit to be included on the T4 slip.
+If the benefit is taxable, continue to Step 5
+Step 5: Review the records (logbook) to determine the number of personal and business, that is employment-related, kilometers driven.
+If you make an automobile available to your employee, the employee must keep a logbook or daily record of the trips made with the automobile. The logbook or daily record will support your calculation of the vehicle benefit and any expenses your employee will claim. The employee must give you a copy.
+In a situation where no record is kept or is no longer available, you must be able to reasonably account for the number of personal and business, employment-related, kilometers driven to use the reduced standby charge calculation.
+If no record is kept or is no longer available, your employee may be eligible to use the simplified standby charge calculation: Continue to Step 7 – Determine if your employee is eligible for the simplified standby charge calculation. We will cover this step later on in the webinar.
+or
+If your employee kept the detailed records and you received a copy, your employee may be eligible for the reduced standby charge: Continue to Step 6
+Step 6: Determine if your employee is eligible for the reduced standby charge
+Using the information from the records you received from your employee, you need to determine if you can use the reduced standby charge calculation. Your employee is eligible for the reduced standby charge if all of the following conditions apply:
+Condition 1:
+You required your employee to use the automobile in connection with or in the course of an office or employment
+Condition 2:
+Your employee used the automobile more than 50% of the distance driven for business, that is employment-related, driving
+Condition 3:
+Determine if the number of kilometres of personal driving is within the limit for the reduced standby charge
+If your employee does not meet all of the conditions, your employee is not eligible for the reduced standby charge calculation.
+Then continue to Step 7 Determine if your employee is eligible for the simplified standby charge calculation.
+or
+If your employee meets all conditions, your employee is eligible for the reduced standby charge calculation. Then continue to Step 8 to determine which method to use to calculate the benefit.
+Step 7: Determine if your employee is eligible for the simplified standby charge calculation
+You can use the simplified calculation for the standby charge if all of the following apply:
+- You own the automobile provided to your employee
+and
+- Your employee uses the same automobile throughout the year
+and
+- Your employee’s principal source of employment is not selling or leasing automobiles
+and
+- Your employee is not eligible for the reduced standby charge
+If your employee does not meet all conditions, do not use the simplified standby charge calculation. You must use the detailed standby charge calculation.
+or
+If your employee meets all conditions, calculate the standby charge using the simplified standby charge calculation.
+Step 8: Determine which method to use to calculate the benefit
+Use any of the following methods to calculate the automobile standby charge benefit and the operating expenses benefit:
+Automobile Benefits Online Calculator14 to easily calculate
+or
+Continue to Steps 9 to 11 to manually calculate the taxable benefit
+or
+Use Form RC18, Calculating Automobile Benefits15 to manually calculate
+Step 9: Calculate the standby charge benefit
+If you make an automobile available to your employee, you must calculate the value of the standby charge. You need to calculate the standby charge benefit differently depending if you own or lease the automobile. More details on how to calculate the standby charge benefit can be found in Step 9 on Canada.ca – Automobile provided by the employer.
+Step 10: Determine if you need to calculate the operating expense benefit
+You need to determine if you have to calculate the operating expense benefit depending on your employee's situation.
+To Calculate
+You have to calculate the operating expense benefit if one of the following apply:
+- You provide an automobile to your employee and pay for the operating expenses related to personal driving of the automobile, including the GST/HST and PST.
+OR
+- Your employee does not reimburse you
+OR
+- Your employee reimburses you for part of the automobile’s operating expenses in the year or no later than 45 days after the end of the year. You do not have to calculate the operating expenses benefit if your employee reimburses you for all operating expenses related to personal driving no later than 45 days after the end of the year.
+Step 11: Determine if your employee is eligible for the optional operating expense benefit calculation
+You can use the optional calculation for the operating expense benefit if all of the following apply:
+- You include a standby charge in your employee’s income
+and
+- Your employee uses the automobile primarily, more than 50%, in the course of their office or employment
+and
+- Your employee informed you in writing, before the end of the year, of the intention to use the optional method
+If your employee does not meet all conditions, your employee is not eligible for the optional operating expense benefit calculation. You must use the fixed rate operating expense benefit calculation.
+OR
+If your employee meets all conditions, your employee is eligible for the optional operating expense benefit calculation.
+Step 12: Calculate the operating expense benefit
+If you make an automobile available to your employee, you must also calculate the value of the operating expense benefit related to the personal driving of the automobile. Your employee must keep the records of this benefit even if you are using the fixed rate calculation.
+Operating expenses paid by the employee to a third party:
+Under the CRA administrative policy, if you made an automobile available to your employee who pays a third party for part or all of the operating expenses, you can deduct the portion of expenses paid by your employee that apply to personal use from the operating expense benefit that you calculated.
+Your records have to show that your employee paid the expenses directly to the third party.
+The portion of the operating expenses that relate to personal-use portion is the percentage obtained by dividing the number of personal kilometres driven by the total number of kilometres driven by the employee during the year while the automobile was available to the employee.
+Excess amounts cannot be deducted from the employee’s standby charge that you calculated. Depending on your situation, the optional calculation may result in a higher benefit amount than the fixed rate calculation.
+Optional Calculation Method
+If your employee qualifies for the optional method under Step 11, here’s how to calculate the operating expense benefit. Start with the value of the standby charge before reimbursements from Step 9 – Calculate the standby charge benefit, multiply by fifty percent to calculate the operating expense benefit using the optional calculation
+Next, subtract any amounts your employee reimbursed you for operating expenses no later than 45 days after the end of the year. This is the total value of the operating expense benefit
+Fixed Rate Calculation Method
+Use the prescribed rate per kilometre of personal driving to calculate the operating expense benefit using the fixed rate calculation. Start with the total of all kilometres driven for personal use and multiply by the fixed rate, which is the prescribed per kilometer rate Then, subtract any amounts your employee reimbursed you within 45 days after year-end. The result is the total value of the operating expense benefit to include on the T4.
+This table shows the prescribed rates per kilometre for 2025 for personal use of employer provided vehicle. These rates are used to determine how much someone can be reimbursed, or can claim, when they use their personal vehicle for work. For 2025, the rates are: $0.34 per kilometre for an employee who does not sell or lease automobiles $0.31 per kilometre for an employee whose source of employment is selling or leasing automobiles.
+You may provide an allowance or a reimbursement to your employee to compensate for the use of their automobile in connection with or in the course of their office or employment duties.
+The allowance may not be taxable if the per-kilometre rate is reasonable and all other conditions are met.
+This table shows the prescribed per-kilometre rates for 2025 for the reasonable rate. These rates are used to determine how much someone can be reimbursed, or claim, when they use their personal vehicle for work. For 2025, the rates are: $0.76 per kilometre for the first 5,000 kilometres in a territory $0.70 per kilometre for additional kilometres in a territory $0.72 per kilometre for the first 5,000 kilometres in a province $0.66 per kilometre for additional kilometres in a province23
+If you provide an allowance to your employee to compensate for using their own vehicle, the allowance is not taxable if all of the following apply:
+- The allowance is based only on business (employment-related) kilometres driven in the course of their employment duties
+- The per-kilometre rate is reasonable
+- You did not reimburse your employee for expenses related to the same use of the vehicle (does not apply to situations where you reimburse your employee for supplementary business insurance, or tolls and ferry charges, if you determined the allowance without including these reimbursements)
+If you reimburse your employee for amounts they spent for expenses for using their own vehicle, the reimbursement is not taxable if all of the following apply:
+- The reimbursement is for expenses they spent for using their own vehicle in the course of or in connection with their office or employment
+- The amounts reimbursed are reasonable and you can justify your position
+- The reimbursement is supported by your employee records, such as receipts, expense reports, vouchers, logbooks, and other documentation.
+If you provide an accountable advance to cover the expenses your employee will incur for using their own vehicle in the course of or in connection with their employment, the advance is not taxable if all of the following apply:
+- The amount is reasonable and you can justify your position
+- The advance is supported by your employee records such as receipts, expense reports, vouchers, logbooks, and other documentation
+- You received from your employee any amount that they did not spend from the advance
+Depending on your situation, the amounts you pay to your employee for the use of a vehicle they own and use in the course of their employment duties may not be taxable under the Income Tax Act or the CRA's administrative policy.
+Step 13: Calculate the total taxable automobile benefit to be included on the T4 slip
+Use the following calculation to determine the total value of your employee’s benefit:
+- Take the standby charge benefit
+- Add the operating expense benefit
+- From the result, deduct any amounts your employee paid to a third party for personal driving.
+- This gives the value of the automobile benefit to be included on the T4 slip under code 34
+At the end of the year, your employee must also account for the business, that is employment-related, kilometres they travelled and any advances they received.
+They have to do this on the date their employment ends in the year or by December 31, whichever is earlier.
+- Take the kilometres driven for business driving in the year multiplied by pre-established per kilometre rate
+- Giving result A
+- Minus the total of allowances or advances you paid to your employee in the year
+- Giving result B
+- If result B is positive, you must pay your employee the difference at that time.
+- OR If result B is negative, your employee must repay you the difference at that time.
+You cannot simply report the excess advance on the employee’s T4 slip.
+If the allowance or reimbursement is not taxable, you do not need to do any calculations.
+OR
+If the allowance or reimbursement paid to your employee for the use of their own vehicle is taxable, the value of the benefit is equal to the amount paid to your employee in the year. This amount must be included on the T4 slip of your employee.
+Step 14: Withhold payroll deductions and calculate the GST/HST to remit
+The benefit for personal driving of an automobile is a non-cash benefit. If the benefit is taxable, you must withhold the following deductions:
+Withhold: Option 1
+- Income tax
+- Canada Pension Plan
+- Employment insurance (do not withhold)
+Or
+Remit: Option 2
+- GST/HST in certain situations
+The amounts must be included in the pay period they were received or enjoyed.
+It’s important to distinguish between an employer-provided automobile and an employee-provided vehicle used for work-related purposes. The reporting and payroll obligations differ.
+When the employer provides the automobile, the personal-use benefit is a non-cash benefit reported under Code 34. If the benefit is taxable, income tax and CPP apply, but EI is not withheld, and GST/HST may need to be remitted.
+When the employee uses their own vehicle and receives a benefit that is determined to be taxable, report under Code 40 and deduct income tax, CPP, and EI. Do not remit GST/HST.
+Step 15: Report the benefit on a slip
+If the benefit is taxable, you must report the following on a T4 or T4A slip.
+T4 – Employee: Option 1
+Report on:
+- Box 14 – Employment Income
+- Boxes 16A and 17A – Employees’ second CPP/QPP contributions
+- Box 24 – Employment Insurance insurable earnings for cash benefit only
+- Box 26 – Canada Pension Plan/Quebec Pension Plan pensionable earnings
+- Code 34 – Personal use of an employer’s automobile or motor vehicle
+- Code 40 – Other taxable allowances and benefits
+or
+T4A – Person or partnership that was a shareholder
+Report in:
+- Code 028 – Other income29
+or
+T4A - Fees or other amounts paid for services.
+Report in:
+- Box 048 – Fees for services
+Today we talked about:
+- Definitions and Key Terms
+- Allowances or reimbursements provided to an employee for the use of their own vehicle
+- Reporting and compliance requirements
+Tax administration is as complex as life itself. If the content today doesn’t quite fit your situation, please:
+- Visit our web site
+- Call CRA’s business enquiries line at 1-800-959-5525
+- Subscribe to a Canada Revenue Agency mailing list for webinar alerts.
+- You can also go to canada.ca/cra-videos where you’ll find all our business webinars.
+We’ve come to the end of our webinar.
+Please click on the survey icon in the tool bar at the top of the screen to fill out the evaluation form for this webinar.
+Thanks for joining me today. I hope it’s been helpful. Stay tuned for more webinars in the coming months!
+Goodbye.

@@ -1,0 +1,193 @@
+Title: ARCHIVED - Death of a Partner or of a Retired Partner
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it278r2/archived-death-a-partner-a-retired-partner.html
+Corpus path: corpus/cra/forms-publications/publications/it278r2/archived-death-a-partner-a-retired-partner.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Death of a Partner or of a Retired Partner
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-278R2**
+
+DATE: September 26, 1994
+
+SUBJECT: INCOME TAX ACT**Death of a Partner or of a Retired Partner**
+
+REFERENCE: Section 98.1 (also sections 34, 43, 98.2, 110.6, subsections 40(3), 53(1), 53(2), 70(2), 70(3), 70(5), 70(6), 96(1), 96(1.1), 96(1.3), 96(1.5), 96(3), 100(2), 100(3, 150(4), 159(5), 159(5.1) and paragraph 12(1)(l) of the Income Tax Act, and subsections 23(3) and 23(4) of the Income Tax Application Rules (ITAR)))
+
+Application
+
+This bulletin replaces and cancels Interpretation Bulletin IT-278R dated May 1, 1978.
+
+Summary
+
+This bulletin explains the tax consequences of the death of a partner or of a retired partner in relation to income from the partnership (either before or after death), disposition of the interest in the partnership and any unfulfilled rights the partner or retired partner may have from the partnership. Also discussed are the types of income tax returns that may be filed.
+
+Discussion and Interpretation
+
+DEATH OF A PARTNER
+
+Income or Loss to Date of Death
+
+1. Whether or not a partnership ceases to exist upon the death of a partner depends on the partnership agreement and provincial partnership law. If the death of a partner causes the fiscal period of the partnership to end, the deceased partner's share of the partnership income for that fiscal period is included in the regular return of income for the year of death by virtue of paragraphs 12(1)(l) and 96(1)(f). If the partnership had a previous fiscal year-end in the calendar year in which death occurred, the deceased partner's legal representative may elect to file a separate return of income for the deceased's share of the partnership income for the period after the previous fiscal year-end to the time of death, as provided in subsection 150(4). Subparagraph 53(1)(e)(i) increases the adjusted cost base of the partnership interest by the deceased's share of partnership income, regardless of whether it is included in the deceased's income under paragraphs 12(1)(l) and 96(1)(f) or in a separate return under subsection 150(4). Any such amount is, of course, taken into account in computing the fair market value of the deceased partner's partnership interest for purposes of subsection 70(5).
+
+2. If there is no actual or deemed fiscal year-end of the partnership when the partner dies, the deceased partner's right to a share of the partnership income from the end of the last fiscal period to the date of death is a right or thing. By virtue of subsection 70(2), the value of rights or things is included in the regular return of income for the year of death, but it may be included in a separate return if the deceased partner's legal representative so elects. The election to file a separate return under subsection 150(4) is not available in respect of such an amount, since the amount is the deceased partner's right to a share of partnership income; not his or her income as a member of the partnership calculated under subsection 96(1). As in 1 above, the value of this right is relevant in computing the fair market value of deceased partner's partnership interest for purposes of subsection 70(5). For a discussion on rights or things, see the current version of Interpretation Bulletin IT-212, Income of Deceased Persons - Rights or Things.
+
+3. Where an amount included in a deceased partner's income under subsection 70(2) is capitalized (i.e., is allocated to the deceased partner's capital account and, therefore, becomes part of his or her partnership interest) and the deceased partner's partnership interest is subsequently transferred or distributed to a beneficiary or beneficiaries, subsection 70(3) (rights or things transferred to beneficiaries) cannot apply to that amount. However, where the right to an amount, to which subsection 70(2) would have otherwise applied, is transferred or distributed to a beneficiary or beneficiaries before the amount is capitalized, subsection 70(3) will apply if the time for making an election under subsection 70(2) has not expired before the transfer or distribution. If subsection 70(3) applies, the amount received by the beneficiary on the realization or disposition of the right is included in computing the beneficiary's income for the taxation year in which it is received. Subparagraph 53(1)(e)(v) increases the adjusted cost base of the deceased partner's partnership interest by the value of such a right, regardless of whether it is included in the deceased partner's income under subsection 70(2) or in the beneficiary's income under subsection 70(3).
+
+4. Where a share of a partnership loss arising prior to death is allocated to a deceased partner, the following comments apply:
+
+(a) If the partnership has a fiscal year-end when the partner dies, the deceased partner's share of the partnership loss is included in computing income in the regular return of income for the year of death pursuant to paragraphs 12(1)(1) and 96(1)(g). Subparagraph 53(2)(c)(i) reduces the adjusted cost base of the partnership interest by the share of the loss.
+
+(b) If there is no actual or deemed fiscal year-end of the partnership when the partner dies, the deceased partner's share of the partnership loss from the end of the last fiscal period to the date of death may be included in the regular return of income for the year of death provided the adjusted cost base of his or her partnership interest is reduced by the same amount. Otherwise, such a loss is not deductible in computing the deceased partner's income and does not reduce the adjusted cost base of the partnership interest.
+
+Income or Loss After Date of Death
+
+5. Where, on the death of a partner, a share of the income or loss of the partnership arising after the death is to be allocated to the deceased partner's spouse, estate or heirs, and the other conditions of subsection 96(1.1) are met, then that subsection applies (see 14 below). Where such a right only comes into effect on the death of the partner in respect of income or loss arising after death, subsection 96(1.5) does not apply to bring any amount in respect of such a right into the deceased partner's income. In addition, the fair market value of the partnership interest, for purposes of subsection 70(5), does not include any value for such a right.
+
+Deemed Disposition of Partnership Interest
+
+6. Under the general rules of subsection 70(5), the partnership interest of a deceased person, who was a partner at the time of death, is deemed to be disposed of for proceeds equal to fair market value immediately before death. The estate, trust or beneficiary (the recipient) who acquires the asset:
+
+(a) acquires a partnership interest, if the recipient is a member of the partnership or becomes a member of the partnership by reason of the acquisition; or
+
+(b) is deemed, under subsection 100(3), to have acquired a right to receive partnership property and not to have acquired a partnership interest, if not as described in (a) above,
+
+at a cost equal to such proceeds.
+
+7. Where a deceased's partnership interest is transferred or distributed to his or her spouse or to a spouse trust, as described in subsection 70(6), paragraph 70(6)(d.1) will apply if situation 6(a) above exists. Under that paragraph, the deceased partner is deemed, except for purposes of paragraph 98(5)(g), not to have disposed of the partnership interest. The spouse or spouse trust, on the other hand, is deemed to have acquired the partnership interest for an amount equal to its cost to the deceased, adjusted by the same amounts as were required to be added or deducted under subsection 53(1) or (2) in determining the deceased's adjusted cost base of the interest. Consequently, if the partnership interest is transferred to a spouse or spouse trust who is a member of the partnership or becomes a member by reason of the transfer, the transfer can be made on a tax- deferred basis.
+
+8. If situation 6(b) above exists and subsection 70(6) applies, the proceeds of disposition to the deceased partner and the cost to the spouse or spouse trust are deemed, under paragraph 70(6)(d), to be an amount equal to the adjusted cost base of the partnership interest to the deceased immediately before death. This paragraph ordinarily allows for a tax-deferred transfer to the spouse or spouse trust. However, if the adjusted cost base of the partnership interest is negative at the time of the transfer, it will be set to "nil" by virtue of paragraph (d) of the definition of "adjusted cost base" in section 54. The deceased partner will then have a deemed capital gain equal to the negative adjusted cost base by virtue of subsection 100(2).
+
+Work in Progress
+
+9. Where an election under paragraph 34(a) is in force in respect of the work in progress of a professional partnership of accountants, dentists, lawyers (including notaries in the province of Quebec), medical doctors, veterinarians or chiropractors, the partnership may allocate an amount to a deceased partner based on the value of the partnership's work in progress at the date of death. The treatment of an amount so allocated depends on the applicable provisions of the Act and the agreement between the deceased partner and the other members of the partnership. The amount may be treated as:
+
+(a) income to the recipient (10 below),
+
+(b) income to the deceased (11 below), or
+
+(c) capital (12 below).
+
+10. If subsection 96(1.1) applies (see 14 below), it is income to the recipient (i.e., the deceased partner's spouse, estate or heirs) when allocated. If the recipient is or becomes a partner (6(a) above), the amount may be allocated to the recipient as income in the normal manner.
+
+11. If the partnership agreement so provides, the deceased partner's share of the partnership income or loss to be allocated for tax purposes (and to which the comments in 1 to 4 above apply) for the last fiscal period during which the deceased partner was a member of the partnership may include that partner's share of the partnership's work in progress at death. This treatment will apply where all the partners (including the deceased partner) had previously agreed in writing that this method of allocation for tax purposes would apply to the last fiscal period of the partnership during which a deceased partner was a member. In the absence of such a written agreement, this treatment will apply only where all the surviving partners, the deceased partner's legal representative and any beneficiaries concerned agree to the treatment. This could apply where allocation of the partnership's profits or losses, for accounting purposes, is:
+
+(a) on the full accrual basis, or
+
+(b) on the modified accrual basis (i.e., excluding work in progress).
+
+Example:
+
+Three professionals enter into a partnership agreement which provides that, for accounting purposes, partnership profits and losses calculated on the full accrual basis will be allocated equally among the three partners. A valid election under paragraph 34(a) is made under subsection 96(3). One of the partners dies during the second fiscal period of the partnership. Partnership income for tax purposes from the end of the preceding fiscal period to the date of death is $120,000 and partnership work in progress at the date of the partner's death is $30,000. In this situation, the Department will accept an allocation of $50,000 (1/3 of $120,000 plus 1/3 of $30,000) to the deceased partner as that partner's share of income for purposes of paragraph 96(1)(f) (see 1 above) or subsection 70(2) (see 2 above), and the allocation of the remaining $70,000 ($120,000 - 50,000) equally between the two remaining partners provided that there is unanimous agreement to this treatment, as noted above. If there is no provision for the fiscal period to end when a partner dies, the above allocation to the two remaining partners would be made at the end of the second fiscal period, and the amount shown as being allocated ($70,000) would be increased (or decreased) by partnership income (or loss) arising after the partner's death to the end of the fiscal period.
+
+12. If 10 and 11 above do not apply, any amount allocated to the deceased partner which is based on the value of the partnership's work in progress at death:
+
+(a) reduces, under paragraph 53(2)(o), the adjusted cost base of the recipient's (i.e., the estate, trust or beneficiary's) right to receive partnership property (which was the deceased partner's partnership interest) when the amount is received from the partnership, where 6(b) above applies (see also 17 below), or
+
+(b) reduces, under subparagraph 53(2)(c)(v), the adjusted cost base of the recipient's partnership interest in the usual way when the amount is withdrawn from the partnership, where 6(a) above applies.
+
+Of course, the amount allocated to the deceased partner cannot be deducted from the partnership profits required to be allocated for tax purposes. In addition, any portion of such amount, for work in progress at death, should be taken into account in computing the fair market value of the deceased partner's partnership interest for purposes of subsection 70(5).
+
+General
+
+13. Where a deceased partner's estate or heirs, who do not acquire a partnership interest (see 6(b) above), are required to make a payment to the partnership of which the deceased was a member and the amount, if it had been paid by the partner while alive, would have increased the adjusted cost base of the partnership interest under subparagraph 53(1)(e)(iv), then the Department allows the adjusted cost base of the deceased partner's partnership interest immediately before death to be increased by the amount so paid.
+
+DEATH OF A RETIRED PARTNER
+
+Rights to Income from a Partnership
+
+14. Subsection 96(1.1) applies where the partners of a partnership, whose principal activity is carrying on business in Canada, enter into an agreement to allocate a share of the income or loss of the partnership to a person who has ceased to be a partner, or to that person's spouse, estate, heirs or to any other person to whom the right to such income or loss is transferred. Under this provision, the holder of the right is deemed to be a member of the partnership for the purposes of subsection 96(1) and sections 101 and 103. Any amount allocated as a result of the agreement is included in the income of the person to whom it is allocated for the taxation year in which the fiscal period of the partnership ends, regardless of when received. A right to share in the income or loss of a partnership under subsection 96(1.1) is deemed not to be capital property by virtue of subsection 96(1.4), and is not dependent on whether the taxpayer also has a capital interest in the partnership.
+
+15. Where a taxpayer who died possessed a right to partnership income under subsection 96(1.1), by virtue of subsection 96(1.5) the taxpayer's share of the partnership income from the end of the last fiscal period of the partnership to the date of death is a right or thing to be included in income in accordance with the provisions of subsections 70(2) to (4). If an amount is included:
+
+(a) in the income of the deceased under subsection 70(2), or
+
+(b) in the income of a beneficiary under subsection 70(3),
+
+and that amount is allocated to the beneficiary or the estate (the recipient) by the partnership, it must also be included in the recipient's income under subsection 96(1.1). However, in order to prevent the same amount from being taxed twice, such an amount is considered to be the cost of the income interest to the recipient and may be deducted from the amount allocated to the recipient as provided in subsection 96(1.3).
+
+Example I:
+
+A retired partner, who was entitled to $1,000 per month (payable in a lump sum of $12,000 on March 31 each year, which is the end of the partnership's fiscal period) as a share of the partnership income under an agreement described in subsection 96(1.1), dies on August 1, 1992. On death, the $12,000 per year becomes payable to the deceased's spouse. On March 31, 1993, $12,000 is allocated and paid to the spouse by the partnership. This amount is included in the spouse's income for the 1993 taxation year; $4,000 is included by virtue of subsections 96(1.5) and 70(3) and $8,000 by virtue of subsections 96(1.1) and 96(1.3) ($8,000 is included since the $12,000 that is required to be included under subsection 96(1.1) is reduced by a cost of $4,000 under subsection 96(1.3)).
+
+Example II:
+
+The same as Example I except that $1,000 is paid to the retired partner at the end of each month prior to death, and the $4,000 received in the fiscal period before death is allocated to the estate by the partnership for purposes of subsection 96(1.1). The partnership allocates and pays the remaining $8,000 to the spouse. In this example, $4,000 is included in the deceased partner's income under subsections 96(1.5) and 70(2). No amount is included in the estate's income since the $4,000 that is required to be included under section 96(1.1) is considered to be reduced by a cost of $4,000 under subsection 96(1.3). Pursuant to subsection 96(1.1), $8,000 is included in the spouse's income.
+
+Residual Interest in Partnership
+
+16. Until such time as a retired partner's rights to partnership property are satisfied, the retired partner is deemed to have a residual interest in the partnership, under section 98.1. This is separate from any income interest (discussed in 14 and 15 above). Any amount received in full or partial satisfaction of such rights is a deduction in computing the adjusted cost base of the partnership interest under subparagraph 53(2)(c)(v). If the adjusted cost base is negative at the end of any fiscal period of the partnership, the negative amount is deemed to be a capital gain by virtue of paragraph 98.1(1)(c). Also, the adjusted cost base is adjusted to zero pursuant to subparagraph 53(1)(e)(vii). Pursuant to paragraph 98.1(1)(c), such a gain is treated as a gain of the retired partner for the taxation year that includes the end of the partnership's fiscal period and is eligible for the capital gains deduction under section 110.6.
+
+Note: The Federal Budget released by the Minister of Finance on February 22, 1994 proposes to eliminate the $100,000 capital gains deduction for gains realized on dispositions of property occurring after February 22, 1994 and for gains brought into income after 1994 by the capital gains reserve mechanism. The Budget further proposes that individuals (other than trusts) and certain personal trusts and partnerships could elect to crystallize accrued gains in order to use any portion of the $100,000 capital gains deduction available under the law. For more information on these proposed changes, reference should be made to budget documents.
+
+17. A residual interest is a capital property. Therefore, on the death of the retired partner there is a deemed disposition of it for proceeds equal to fair market value immediately before death, unless it is transferred to a spouse or a spouse trust under the conditions of subsection 70(6), in which case the proceeds are the adjusted cost base of the residual interest immediately before death. For purposes of subsection 70(5), the fair market value of the residual interest does not include any amount for income arising after death which is subject to an arrangement under subsection 96(1.1). Pursuant to section 98.2, the recipient of the retired partner's residual interest is deemed to have acquired a right to receive partnership property and not an interest in a partnership and at a cost equal to the proceeds of disposition to the deceased, pursuant to subsection 70(5) or (6). Under paragraph 53(2)(o), any amount received by a taxpayer in full or partial satisfaction of a right to receive partnership property reduces the adjusted cost base of the right. Where at any time in a taxation year the adjusted cost base becomes negative, the negative amount is deemed to be a capital gain (subsection 40(3)) and the adjusted cost base is adjusted to zero under paragraph 53(1)(a). In that case, for purposes of the capital gains deduction under section 110.6, the right is deemed by subsection 40(3) to have been disposed of in the year (see also the note in 16 above). Otherwise, the right to receive partnership property is disposed of only when the final payment in respect of such a right is received.
+
+PARTNER OR RETIRED PARTNER
+
+Deduction - 1971 Receivables
+
+18. A deduction for 1971 accounts receivable may not be claimed in the year a partner (or a retired partner with a residual interest) dies, under paragraph 23(4)(a) of the ITAR. Therefore, the full amount of the previous year's deduction must be included in income for that year. It is not considered to be a right or thing under subsection 70(2). The additional tax resulting from this amount being included in income may be paid in up to ten equal consecutive annual instalments, plus interest, if the conditions of subsections 159(5) and (5.1) are met. See Form T2075, Election to Defer Payment of Income Tax, under Subsection 159(5) of the Income Tax Act by a Deceased Taxpayer's Legal Representative or Trustee. Any amount to be included in income in respect of 1971 accounts receivable may not be included in a "separate return" permitted to be filed on behalf of a deceased partner by virtue of subsection 150(4), since the income to be included by virtue of paragraph 23(3)(c) of the ITAR is not contemplated by subsection 150(4).
+
+If you have any comments regarding the matters discussed in this bulletin, please send them to:
+
+Director, Technical Publications Division Policy and Legislation Branch Revenue Canada 875 Heron Road Ottawa, Ontario K1A 0L8
+
+--------------------------------
+
+## Explanation of Changes for Interpretation Bulletin IT-278R2 Death of a Partner or of a Retired Partner
+
+Introduction
+
+The purpose of the Explanation of Changes is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+Overview
+
+The bulletin explains the tax consequences of the death of a partner or of a retired partner in relation to income from the partnership, disposition of the interest in the partnership and any unfulfilled rights the partner or retired partner may have from the partnership. Also discussed are the types of income tax returns that may be filed.
+
+We revised the bulletin to reflect amendments to the Income Tax Act resulting from Bill C-18 (Royal Assent on December 17, 1991) and other changes resulting from various other Bills which have become law since the bulletin was last revised. The proposed changes in the February 22, 1994 Federal Budget which affect the bulletin have been reflected in an italicized note.
+
+The bulletin refers to the Income Tax Act and Income Tax Application Rules as revised by the 5th Supplement to the Revised Statutes of Canada, 1985, and by S.C. 1994, c. 7 (formerly Bill C-15), both of which came into force on March 1, 1994.
+
+Legislative and other changes
+
+Throughout the bulletin we have made minor changes for clarification or readability purposes.
+
+The first sentence of new number 1 (former number 1) lists the factors which determine whether or not a partnership ceases to exist upon the death of a partner.
+
+New number 2 (former number 2) reflects the election available under subsection 70(2) with respect to rights or things.
+
+New number 3 contains the same information as former numbers 3 and 4, except that the information which applied to years which are now statute-barred has been deleted.
+
+New number 4(b) restates the Department's administrative position expressed in former number 5(b).
+
+New number 6 replaces former number 7. The last sentence of the former paragraph which discussed the transfer of a deceased's partnership interest to a spouse or spouse trust, has been deleted and replaced with new numbers 7 and 8 explained below.
+
+New number 7 explains paragraph 70(6)(d.1) which became law under Bill C-18. This new provision applies to the transfer or distribution of a deceased's partnership interest to his or her spouse, or to a spouse trust, under specific circumstances. Where paragraph 70(6)(d.1) applies, such a transfer or distribution will be made on a tax-deferred basis.
+
+New number 8 explains the situation where a deceased's partnership interest is transferred or distributed to his or her spouse, or to a spouse trust, and paragraph 70(6)(d) applies. This provision was essentially explained in the last sentence of former number 7. This explanation has, however, been expanded in new number 8 to deal with the circumstances under which paragraph 70(6)(d) will not result in a complete tax-deferred transfer to a spouse or spouse trust.
+
+New numbers 9 and 11 replace former numbers 8 and 10, respectively.
+
+New number 9 reflects the amendments to subsection 34(1) under Bill C-139 (Royal Assent on March 30, 1983) and Bill C-72 (Royal Assent on October 29, 1985). Under Bill C-139, the professional practices which qualify for the section 34 election were defined and, under Bill C-72, paragraph 34(1)(d) was renumbered to 34(a). The example in new number 11 also reflects the Bill C-72 change to subsection 34(1).
+
+New number 12 (former number 11) clarifies the implications of paragraph 53(2)(o) to the adjusted cost base of a recipient's right to receive partnership property. In addition, the implications to the fair market value of the deceased's partnership interest have been explained.
+
+New number 16 (former number 15) reflects an amendment to paragraph 98.1(1)(c), under Bill C-18, with respect to the capital gains deduction.
+
+New number 16 also reflects the implications, under subparagraph 53(1)(e)(vii), to the adjusted cost base of the partnership interest where an amount is deemed to be a capital gain by virtue of paragraph 98.1(1)(c).
+
+The note at the end of new number 16 reflects the proposed elimination of the $100,000 capital gains deduction in the February 22, 1994 Federal Budget.
+
+New number 17 (former number 16) reflects an amendment to subsection 40(3), resulting from Bill C-139 (Royal Assent on September 13, 1988), regarding the capital gains deduction. In addition, the comment with respect to section 43 has been removed, since the last sentence of the new paragraph essentially confirms that this section does not apply.
+
+New number 18 (former number 17) reflects a 1978 amendment to subsection 159(5) regarding the number of annual instalments which may be made under that subsection. In addition, new number 18 includes a reference to the applicable form for the subsection 159(5) election and clarifies that "1971 receivables" are not considered to be rights or things.

@@ -1,0 +1,153 @@
+Title: Ontario Enhanced New Housing Rebate
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice346/ontario-enhanced-new-housing-rebate.html
+Corpus path: corpus/cra/forms-publications/publications/notice346/ontario-enhanced-new-housing-rebate.md
+Document type: publication
+Last modified: 2026-06-22
+
+# Ontario Enhanced New Housing Rebate
+
+GST/HST Notices - Notice 346 June 2026
+
+This notice provides information about the Ontario enhanced new housing rebate. The information in this publication is not meant to address all scenarios and is focused on when a buyer buys a home from a builder.
+
+For more information, go to:
+
+- [First-time home buyers’ (FTHB) GST/HST rebate](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates/first-time-home-buyers-gst-hst-rebate.html)
+
+- [GST/HST new housing rebate](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates/new-housing-rebate.html)
+
+- [Ontario Temporary Enhanced New Housing Rebate: Situations that involve purchasing a home from a builder](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates/new-housing-rebate/ontario-new-housing-rebate-situation-purchasing-from-builder.html)
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the *Excise Tax Act* (ETA). The information in this publication does not replace the law found in the ETA and its regulations. Although correct at the time of issue, this publication may not have been updated to reflect subsequent legislative changes.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1‑800‑959‑8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Requesting a GST/HST Ruling or Interpretation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1‑855‑666‑5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The GST/HST rates are those that were in effect at the time of publishing. For the list of all applicable GST/HST rates (current and historic), go to [GST/HST calculator (and rates)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html).
+
+If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [Overview](#toc0)
+
+- [Additional 5% Ontario top-up](#toc1)
+
+- [How to claim – Home purchased from a builder](#toc2)
+
+- [Interaction with the first-time home buyers' rebates](#toc3)
+
+- [How to claim – Owner-built homes](#toc4)
+
+- [Related links](#toc5)
+
+- [Documents that will be updated](#toc6)
+
+- [Next steps](#toc7)
+
+- [Contact us](#toc8)
+
+## Overview
+
+Enhanced housing rebates were introduced to provide relief of the 8% provincial part of the HST on certain new homes and new residential rental units situated in Ontario.
+
+The Ontario enhanced new housing rebate (Ontario ENHR) allows eligible individuals to recover up to $80,000 of the provincial part of the HST paid on a new or substantially renovated home. The Ontario ENHR follows the eligibility conditions of the existing Ontario new housing rebate. The Ontario ENHR is generally available where the agreement of purchase and sale for the home is entered into between the individual and the builder on or after April 1, 2026, and on or before March 31, 2027.
+
+The Ontario ENHR provides:
+
+- a full rebate (100%) of the 8% provincial part of the HST paid on a new home valued up to $1 million
+
+- a flat rebate of $80,000 for the provincial part of the HST paid on a new home valued between $1 million and $1.5 million
+
+- a partial rebate for the provincial part of the HST paid on a new home valued between $1.5 million and $1.85 million
+
+For a new home valued at $1.85 million and above, the existing Ontario new housing rebate is available at a flat rate of $24,000.
+
+## Additional 5% Ontario top-up
+
+In addition to the Ontario ENHR, the province is providing additional relief equivalent to a maximum of the 5% federal part of the HST (5% Ontario top-up). To be eligible for the 5% Ontario top-up, individuals must be eligible for and have received the Ontario ENHR, either directly or through crediting by a builder.
+
+The updated Canada Revenue Agency form will include consent to share relevant contact, banking, and rebate information with the province of Ontario. A separate form is not required to claim the 5% Ontario top-up.
+
+## How to claim – Home purchased from a builder
+
+Builders will be able to:
+
+- credit buyers the Ontario ENHR (8% provincial part of the HST) and the 5% Ontario top-up at closing once the forms are available (by mid-July 2026)
+
+- complete their GST/HST return reporting the HST collected on the sale of the home and claiming a deduction for the 8% HST rebate credited to the buyer (builders cannot deduct the 5% Ontario top-up, which is provided separately by the province of Ontario)
+
+- submit a completed [Form GST190, GST/HST New Housing Rebate Application for Houses Purchased from a Builder](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst190.html), which includes consent to share relevant contact, banking, and rebate information with the province of Ontario, and the associated [Form RC7190-ON, GST190 Ontario Rebate Schedule](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7190-on.html)
+
+- receive a separate payment from the province for the 5% Ontario top-up after the Ontario ENHR is assessed
+
+## Interaction with the first-time home buyers' rebates
+
+Where an individual is eligible for the federal first-time home buyers' (FTHB) GST rebate, the individual should claim that rebate before claiming the Ontario ENHR. If there is any amount related to the 5% part of the HST that could not be rebated through the FTHB GST rebate, the individual could then claim that amount through the Ontario ENHR.
+
+Where an individual is eligible for both the Ontario ENHR and the Ontario FTHB rebate, the individual is permitted to claim either or both Ontario rebates.
+
+However, the total amount of all rebates for the 8% provincial part of the HST cannot exceed the lesser of $80,000 and the 8% provincial part of the HST payable in respect of the purchase or construction of the home.
+
+This means the rebate cannot exceed the tax paid or payable, including any amount credited by a builder at the time of sale.
+
+## How to claim – Owner-built homes
+
+More information on how to apply for the Ontario ENHR for owner-built homes will be provided when available.
+
+## Related links
+
+For related information, go to the following:
+
+- Legislation:
+
+    - [Regulations Amending the New Harmonized Value-Added Tax System Regulations, No. 2 (Ontario) (made on June 12, 2026, P.C. 2026-610)](https://www.canada.ca/en/department-finance/programs/tax-policy/regulations-amending-new-harmonized-value-added-tax-system-regulations-2026-610.html)
+
+    - [Ontario regulation 196/26 made under the Retail Sales Tax Act - Residential Property Rebates Under Section 51.2 of the Act](https://www.ontario.ca/laws/regulation/r26196?highlight=true&lang=en&option=%7B%22year%22%3A%222026%22%2C%22selection%22%3A%5B%22regulation%22%5D%7D&paging=%7B%22page%22%3A1%2C%22pageSize%22%3A50%2C%22sort%22%3A%22Newest%22%7D&searchMode=search&searchWithin=%5B%22title%22%2C%22body%22%5D&searchWithinResult=false&selection=source+law&text=regulation&trigger=1&useExact=false&withinResultSearch=)
+
+- [First-time home buyers' (FTHB) GST/HST rebate](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates/first-time-home-buyers-gst-hst-rebate.html)
+
+- [GST/HST new housing rebate](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates/new-housing-rebate.html)
+
+## Documents that will be updated
+
+The following documents will be updated:
+
+- [Form GST190, GST/HST New Housing Rebate Application for Houses Purchased from a Builder](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst190.html)
+
+- [Form RC7190-ON, GST190 Ontario Rebate Schedule](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7190-on.html) (expected to be available by mid-July)
+
+- [Guide RC4028, GST/HST New Housing Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4028.html)
+
+## Next steps
+
+More information will be provided as it becomes available. The forms are expected to be available by mid-July 2026. Web content will also provide some additional information.
+
+## Contact us
+
+For technical enquiries about the Ontario ENHR, contact GST/HST Rulings at 1‑800‑959‑8287.
+
+For technical enquiries about the 5% Ontario top-up, contact Service Ontario at 1‑800‑267‑8097.
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries**, call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1-800-567-4692** or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution** (whether or not you are located in Quebec) and require information on the **GST/HST** or the **QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for **general GST/HST** or **QST enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **technical GST/HST** or **QST enquiries**, call **GST/HST Rulings SLFI** at **1-855-666-5166**

@@ -1,0 +1,69 @@
+Title: ARCHIVED - Corporations - Involuntary Dissolutions
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it444r/archived-corporations-involuntary-dissolutions.html
+Corpus path: corpus/cra/forms-publications/publications/it444r/archived-corporations-involuntary-dissolutions.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Corporations - Involuntary Dissolutions
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-444R**
+
+DATE: March 26, 1993
+
+SUBJECT: INCOME TAX ACT**Corporations - Involuntary Dissolutions**
+
+REFERENCE: Paragraph 54(c) (also subsections 69(5), 84(2) and 84(9), paragraph 39(1)(c) and subparagraph 54(h)(x))
+
+Application
+
+This bulletin cancels and replaces Interpretation Bulletin IT-444 dated March 17, 1980. Current revisions are indicated by vertical lines.
+
+Summary
+
+This bulletin provides general comments on the tax implications to a corporation and its shareholders where the corporation has been involuntarily dissolved. Specifically, this bulletin discusses the circumstances that may give rise to a disposition of shares of a dissolved corporation by the shareholders. It also discusses the tax consequences resulting from the distribution of corporate property to the shareholders, as well as the tax treatment of income earned after involuntary dissolution.
+
+Discussion and Interpretation
+
+1. The term "involuntary dissolution" describes a manner in which the existence of a corporation may be terminated. The common characteristic of an involuntary dissolution is that the dissolution does not result from any positive action taken by the corporation. The dissolution typically results from the failure of the corporation to fulfil requirements of the statutes of the incorporating jurisdiction, such as the filing of periodic reports or the payment of certain fees.
+
+2. After an involuntary dissolution has occurred, it may be possible to restore the dissolved corporation, depending on the statutes of the incorporating jurisdiction. The procedure may vary from the submission of an application and the payment of a fee to the arrangement for a private act of a legislature.
+
+3. The Income Tax Act does not contain any provision which deals specifically with the involuntary dissolution of a corporation. Therefore, how the general provisions of the Act apply to a corporation being dissolved involuntarily will depend on the facts of the particular situation.
+
+Distribution of property to shareholders
+
+4. Neither the corporate statutes nor the Income Tax Act provide for a deemed distribution of property to shareholders when a corporation has been involuntarily dissolved. It is a question of fact in each case as to who acquired corporate property upon dissolution.
+
+5. The provisions of subsection 69(5) would generally apply where, on the winding-up of a corporation, property of the corporation has been appropriated in any manner whatever to or for the benefit of the shareholders. Where subsection 69(5) applies, the corporation is deemed by paragraph (a) to have sold each such property at its fair market value. Depending on the nature of the property disposed of (i.e., depreciable property, eligible capital property or capital property), this may give rise to recaptured depreciation or terminal loss, section 14 income or a capital gain or loss. Also, the shareholder is deemed by paragraph 69(5)(b) to have acquired the property at a cost equal to its fair market value.
+
+Disposition of shares of the corporation
+
+6. Generally, the dissolution of a corporation will cause a disposition, within the meaning of paragraph 54(c), of shares by the shareholders. To establish whether or not there is a disposition of shares in a particular case at a particular time, all the facts of the case and the applicable statutes of the incorporating jurisdiction must be examined.
+
+7. Where a corporation has been dissolved and it is reasonable to expect that it will never be restored, the shareholders will be considered to have disposed of their shares when the corporation was dissolved. This is usually the case for a corporation that had no property at the time.
+
+8. Where the corporation had property at the time it was dissolved, the corporate statutes usually provide for the property to be forfeited to the Crown. However, the various Escheats Acts may provide for the subsequent return of the forfeited property to any person, such as a creditor or shareholder, who has a legal or moral claim upon the corporation. If property is distributed to a shareholder pursuant to the applicable Escheats Act, the shares of the corporation will be considered to have been disposed of at that time.
+
+9. The corporate statutes also usually provide for the return of any forfeited property to the corporation if the corporation is restored. In situations where it is reasonable to expect that the corporation will be restored because it had property that was forfeited to the Crown, the shares are not considered to be cancelled at the time of the dissolution and, therefore, there is no disposition of them. Subject to 8 above, if it later becomes impossible to restore the corporation under the appropriate incorporating jurisdiction, the shares will be considered to be cancelled and disposed of at that later time.
+
+10. Where it is determined that there has been a disposition of shares, the shareholder's proceeds of disposition will equal the fair market value of the property distributed to the shareholder. If subsection 84(2) applies to deem the shareholder to have received a dividend, the proceeds of disposition of the shares will be reduced by the amount of the deemed dividend by virtue of subparagraph 54(h)(x).
+
+11. A capital loss incurred on the disposition of shares on an involuntary dissolution could qualify as a business investment loss under paragraph 39(1)(c). Subsection 84(9) deems a shareholder who has disposed of a share as a result of the redemption, acquisition or cancellation of the share by the corporation to have disposed of the share to the corporation. Since shares of an involuntarily dissolved corporation are considered to have been cancelled by the corporation, subsection 84(9) would apply. Therefore, a shareholder dealing at arm's length with the corporation would meet the requirement in subparagraph 39(1)(c)(ii) and would be allowed to treat the capital loss as a business investment loss if the other requirements set out in paragraph 39(1)(c) are met. For more information on business investment losses, see the current version of IT-484, Business Investment Losses.
+
+Taxation of income after dissolution
+
+12. A corporation may receive income from a business or property after it has been involuntarily dissolved. For instance, the shareholders may continue to carry on the business formerly carried on by the dissolved corporation. Any income earned from that business will usually be taxed as income of a proprietorship, partnership, joint venture or trust, depending on the facts of the particular situation. If the corporation is later restored, the shareholders will remain liable for income tax on any income earned between the time the corporation was dissolved and the time it was restored. However, in situations where the lapse of the corporate charter is clearly unintentional and the corporation is restored within a short period of time, the Department may consider the income to be that of the corporation's.
+
+If you have any comments regarding the matters discussed in this bulletin, please send them to:
+
+Director, Technical Publications Division Legislative and Intergovernmental Affairs Branch Revenue Canada, Taxation 875 Heron Road Ottawa, Ontario K1A 0L8

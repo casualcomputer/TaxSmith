@@ -1,0 +1,610 @@
+---
+title: "Determining Whether a Financial Institution is a Qualifying Institution for Purposes of Section 141.02"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-11/determining-whether-financial-institution-qualifying-institution-purposes-section-141-02.html
+last_modified: 2021-11-01
+---
+# Determining Whether a Financial Institution is a Qualifying Institution for Purposes of Section 141.02
+
+GST/HST Memorandum 17-11 July 2021
+
+This memorandum cancels and replaces GST/HST Technical Information Bulletin B‑097, Determining Whether a Financial Institution is a Qualifying Institution for Purposes of Section 141.02 and B-099, Application of Section 141.02 to Financial Institutions That Are Not Qualifying Institutions.
+
+This memorandum explains the criteria for determining whether a financial institution is a qualifying institution for purposes of section 141.02, which provides specific input tax credit (ITC) allocation rules to be used by financial institutions, including both listed and de minimis financial institutions as described in subsection 149(1), when calculating ITCs for the GST/HST paid on their inputs. It also provides information about the application under subsection 141.02(24) for a non-qualifying institution to be designated as a qualifying institution and the election under subsection 141.02(9) for a non-qualifying institution to use a prescribed percentage for residual inputs.
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the Excise Tax Act (ETA), and all references to the Regulations are to the Input Tax Credit Allocation Methods (GST/HST) Regulations. The information in this publication does not replace the law found in the ETA and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1-800-959-8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1-855-666-5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia, and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [Introduction](#_Toc67303989)
+
+- [Definition of qualifying institution](#_Toc67303990)
+
+    - [Prescribed classes](#_Toc67303991)
+
+          - [Banks](#_Toc67303992)
+
+          - [Insurers](#_Toc67303993)
+
+          - [Securities dealers](#_Toc67303994)
+
+          - [Financial Institutions not of a prescribed class](#_Toc67303995)
+
+    - [Adjusted tax credit amount – equals or exceeds prescribed amount](#_Toc67303996)
+
+          - [Tax credit amount](#_Toc67303997)
+
+          - [Residual input tax amount](#_Toc67303998)
+
+          - [Prescribed amounts for prescribed classes](#_Toc67303999)
+
+    - [Tax credit rate – equals or exceeds prescribed percentage](#_Toc67304000)
+
+          - [Tax credit rate](#_Toc67304001)
+
+          - [Prescribed percentages for prescribed classes](#_Toc67304002)
+
+    - [Summary of prescribed classes, amounts and percentages](#_Toc67304003)
+
+- [Non-qualifying institution electing to use a prescribed percentage for residual inputs](#_Toc67304004)
+
+    - [Revocation](#_Toc67304005)
+
+- [Designated qualifying institutions](#_Toc67304006)
+
+    - [Approval](#_Toc67304007)
+
+    - [Revocation](#_Toc67304008)
+
+- [Mergers, amalgamations and windings-up](#_Toc67304009)
+
+    - [Mergers and amalgamations](#_Toc67304010)
+
+          - [Tax credit amount](#_Toc67304011)
+
+          - [Tax credit rate](#_Toc67304012)
+
+    - [Windings-up](#_Toc67304013)
+
+          - [Tax credit amount](#_Toc67304014)
+
+          - [Tax credit rate](#_Toc67304015)
+
+## Introduction
+
+1. Financial institutions are required to follow specific rules for apportioning the use of their inputs in order to determine their input tax credit (ITC) eligibility with respect to those inputs. Section 141.02 sets out these rules, which, in conjunction with section 169 and subsections 141.01(2) and 141.01(3), apply in determining the extent to which property or a service is consumed or used, or acquired, imported or brought into a participating province for consumption or use for the purpose of making taxable supplies for consideration or otherwise (for example, for making exempt supplies). These specific rules apply to all financial institutions, which include both listed financial institutions described in paragraph 149(1)(a) and de minimis financial institutions described in paragraph 149(1)(b) or (c). For further information on determining if a person is a listed financial institution, refer to [GST/HST Memorandum 17-6 , Definition of Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6.html), and for further information on determining if a person is a de minimis financial institution, refer to [GST/HST Memorandum 17-7, De Minimis Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-7.html).
+
+2. Section 141.02 includes provisions that apply to financial institutions that are qualifying institutions, provisions that apply to financial institutions that are not qualifying institutions and provisions that may apply to both of these types of financial institutions. If a financial institution is a qualifying institution, refer to [GST/HST Memorandum 17-13, Application of Section 141.02 to Financial Institutions That Are Qualifying Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-13.html). If a financial institution is not a qualifying institution, refer to [GST/HST Memorandum 17-12, Input Tax Credit Allocation Methods for Financial Institutions for Purposes of Section 141.02](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-12.html).
+
+## Definition of qualifying institution
+
+3. A **qualifying institution** for a particular fiscal year is defined in subsection 141.02(1) to mean a person that meets all the following conditions:
+
+1. it is a financial institution of a **prescribed class** throughout the particular fiscal year of the person
+
+2. it has two fiscal years immediately preceding the particular fiscal year and for each of those two fiscal years:
+
+    1. the **adjusted tax credit amount** of the person equals or exceeds the prescribed amount for that prescribed class for the particular fiscal year
+
+    2. the **tax credit rate** of the person equals or exceeds the prescribed percentage for that prescribed class for the particular fiscal year
+
+### Prescribed classes
+
+4. Paragraph (a) of the definition of qualifying institution requires that a person be a financial institution of a prescribed class throughout the particular fiscal year of the person. Subsection 141.02(3) provides that a person is a financial institution of a prescribed class for purposes of section 141.02 throughout a particular fiscal year if the person is a financial institution of that class at any time in the particular fiscal year.
+
+5. Section 2 of the Regulations provides that the following classes of financial institutions are prescribed for purposes of the definition of qualifying institution:
+
+- banks
+
+- insurers
+
+- securities dealers
+
+6. The prescribed classes are also relevant for certain other purposes including for purposes of subsection 141.02(3), an application under subsection 141.02(24) for a non-qualifying institution to be designated as a qualifying institution (which is discussed in paragraphs 35 to 40 of this memorandum), and an election under subsection 141.02(9) for a non-qualifying institution to use a prescribed percentage for residual inputs (which is discussed in paragraphs 27 to 34 of this memorandum).
+
+#### Banks
+
+7. A **bank** is defined in subsection 123(1) to mean “a bank or an authorized foreign bank within the meaning of section 2 of the Bank Act”. Under section 1 of the Regulations, a bank is defined for purposes of the Regulations in respect of a fiscal year to not include an insurer. Therefore, if a person is a bank as defined in subsection 123(1) at any time in a fiscal year and is also an insurer as defined in section 1 of the Regulations, then that person will be an insurer and not a bank throughout that fiscal year for purposes of the Regulations (that is, for purposes of determining the prescribed classes, prescribed amounts and prescribed percentages that may apply).
+
+Bank A is a bank within the meaning of section 2 of the Bank Act during its fiscal year ending October 31, 2020, and does not carry on an insurance business. As a result, Bank A is a financial institution of a prescribed class (that is, banks) throughout its fiscal year ending October 31, 2020.
+
+#### Insurers
+
+8. An **insurer** is defined in subsection 123(1) to mean “a person who is licensed or otherwise authorized under the laws of Canada or a province to carry on in Canada an insurance business or under the laws of another jurisdiction to carry on in that other jurisdiction an insurance business”. Under section 1 of the Regulations, an insurer is defined for purposes of the Regulations in respect of a fiscal year to mean an insurer as defined in subsection 123(1) that also carries on at any time in the fiscal year an insurance business as the person’s principal business in Canada. As a result, a person, such as a foreign bank, that is authorized to carry on an insurance business in its home jurisdiction but does not carry on an insurance business in Canada will not be an insurer for purposes of the Regulations although it might be an insurer as defined in subsection 123(1).
+
+Insurer B is licensed under the laws of Canada to carry on an insurance business in Canada. Insurer B carries on an insurance business as its principal business in Canada during its fiscal year ending December 31, 2019. As a result, Insurer B is a financial institution of a prescribed class (that is, insurers) throughout its fiscal year ending December 31, 2019.
+
+#### Securities dealers
+
+9. A securities dealer is not defined in subsection 123(1). However, for purposes of the Regulations, a **securities dealer** is defined under section 1 of the Regulations in respect of a fiscal year to mean a person that:
+
+- carries on at any time in the fiscal year a business as a trader or dealer in, or as a broker or salesperson of, securities as the person’s principal business in Canada
+
+- is registered under the laws of Canada or a province to carry on in Canada at any time in the fiscal year a business as a trader or dealer in, or as a broker or salesperson of, securities
+
+- is not a bank or an insurer (as these terms are defined in the Regulations and described above) at any time in the fiscal year
+
+Securities Dealer C’s principal business in Canada during its fiscal year ending December 31, 2020, is as a trader and dealer in various debt and equity securities. Securities Dealer C is registered under provincial legislation to carry on in that fiscal year in Canada a business as a securities trader. It is not a bank or an insurer at any time in the fiscal year. As a result, Securities Dealer C is a financial institution of a prescribed class (that is, securities dealers) throughout its fiscal year ending 2020.
+
+#### Financial Institutions not of a prescribed class
+
+10. If a financial institution is not of a prescribed class at any time in a particular fiscal year, it does not meet the requirements of paragraph (a) of the definition of qualifying institution and is not a qualifying institution for that particular fiscal year. Refer to [GST/HST Memorandum 17-12](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-12.html) for information on the rules that apply to financial institutions that are not qualifying institutions.
+
+Insurance Broker D is an insurance broker during its fiscal year ending December 31, 2019. In that year, it is not a bank or an authorized foreign bank within the meaning of section 2 of the Bank Act. Insurance Broker D is not licensed or otherwise authorized under the laws of Canada or a province to carry on in Canada an insurance business during its fiscal year ending December 31, 2019. Further, Insurance Broker D is not a trader or a dealer in, or a broker or salesperson of, securities in that fiscal year (insurance policies are not securities). As a result, Insurance Broker D is not a financial institution of a prescribed class and is not a qualifying institution for its fiscal year ending December 31, 2019.
+
+### Adjusted tax credit amount – equals or exceeds prescribed amount
+
+11. Subparagraph (b)(i) of the definition of qualifying institution in subsection 141.02(1) requires a financial institution to have two fiscal years immediately preceding the particular fiscal year and for each of these preceding fiscal years to have an adjusted tax credit amount equal to or exceeding the prescribed amount for the prescribed class of financial institution for that particular fiscal year. As a result, if a financial institution (other than certain new corporations formed as the result of a merger or amalgamation) did not exist for two years prior to the particular fiscal year, the financial institution would not be a qualifying institution for that particular fiscal year. Specific provisions apply to determine the tax credit amounts of a new corporation formed from two corporations that are merged or amalgamated and of a corporation that winds up another corporation. These specific provisions are discussed in paragraphs 45 to 47 and paragraphs 53 to 56 of this memorandum.
+
+12. The **adjusted tax credit amount** of a financial institution for a fiscal year is computed by multiplying the **tax credit amount** of the financial institution for the fiscal year by the fraction 365/number of days in the fiscal year.
+
+#### Tax credit amount
+
+13. The **tax credit amount** of a financial institution for a fiscal year is defined in subsection 141.02(1) to mean:
+
+1. if the financial institution has made an election under subsection 141.02(9) in respect of the fiscal year, the total of all amounts each of which is an ITC for the fiscal year in respect of a residual input tax amount (as explained below) of the financial institution for the fiscal year that the financial institution would, in the absence of that subsection, be entitled to claim for GST/HST purposes
+
+2. if the financial institution is a qualifying institution for the fiscal year, has not made an election under subsection 141.02(27) in respect of the fiscal year and has not received an authorization from the Minister to use for the fiscal year the particular methods set out in an application made under subsection 141.02(18), the total of all amounts each of which is an ITC for the fiscal year in respect of a residual input tax amount of the financial institution for the fiscal year that the financial institution would, if the financial institution were not a qualifying institution for the fiscal year and did not make an election under subsection 141.02(9) in respect of the fiscal year, be entitled to claim for GST/HST purposes
+
+3. in any other case, the total of all amounts each of which is an ITC for the fiscal year in respect of a residual input tax amount of the financial institution for the fiscal year that the financial institution is entitled to claim for GST/HST purposes
+
+14. Paragraphs (a) and (b) of the definition of tax credit amount generally apply when a financial institution is determining its ITC entitlement for residual inputs using the prescribed percentage for the prescribed class of financial institution. Where these paragraphs apply, a financial institution’s tax credit amount is the amount that would be a tax credit amount of the financial institution if it was required to determine its ITC entitlement in respect of residual input tax amounts for that year using the provisions of subsections 141.02(10) to (13), (16) and (17). These provisions are explained in [GST/HST Memorandum 17-12](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-12.html) and include the use of direct attribution methods for direct inputs and specified methods for non-attributable inputs that meet the criteria, rules, terms and conditions specified by the Minister.
+
+15. Paragraph (c) of the definition of tax credit amount applies in cases where paragraphs (a) and (b) do not apply. Paragraph (c) provides that the financial institution’s tax credit amount for the fiscal year is the total of all amounts each of which is an ITC in respect of a residual input tax amount that the financial institution would have been entitled to claim in the fiscal year. This would apply to a financial institution that is not a qualifying institution that used subsections 141.02(10) to (13), subsection 141.02(32) or subsection 141.02(21) (if it is a designated qualifying institution) to determine its ITCs or to a qualifying institution that has made an election under subsection 141.02(27) or has been authorized under subsection 141.02(21) to use particular methods.
+
+#### Residual input tax amount
+
+16. A **residual input tax amount** of a financial institution for a fiscal year means:
+
+1. if the financial institution is a selected listed financial institution at any time in the fiscal year, an amount of tax under any of subsection 165(1) and sections 212, 218 and 218.01 in respect of a supply or importation of a residual input (as explained below) that became payable by the financial institution during the fiscal year without having been paid before the fiscal year or was paid by the financial institution during the fiscal year without having become payable (these provisions include the federal, but not the provincial, part of the HST)
+
+2. in any other case, an amount of tax in respect of a supply, importation or bringing into a participating province of a residual input that became payable by the financial institution during the fiscal year without having been paid before the fiscal year or was paid by the financial institution during the fiscal year without having become payable
+
+17. A **residual input** is a direct input or a non-attributable input. A direct input is property or a service that is not an excluded input or an exclusive input and is attributable to the making of a particular supply or supplies. A non-attributable input is property or a service that is not an excluded input or an exclusive input and is not attributable to the making of any particular supply. Generally, an excluded input is capital property or an improvement to capital property, and an exclusive input is a property or service acquired by the financial institution directly and exclusively for the purpose of making taxable supplies for consideration, or directly and exclusively for purposes other than making taxable supplies for consideration. For further information on direct and non-attributable inputs, refer to [GST/HST Memorandum 17-12](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-12.html).
+
+#### Prescribed amounts for prescribed classes
+
+18. Section 3 of the Regulations prescribes the following amounts for purposes of the definition of qualifying institution:
+
+| Prescribed class | Prescribed amount |
+
+| --- | --- |
+
+| Bank | $500,000 |
+
+| Insurer | $500,000 |
+
+| Securities dealer | $500,000 |
+
+19. If a financial institution does not have an adjusted tax credit amount (refer to paragraph 11 of this memorandum) equal to or exceeding the prescribed amount for the prescribed class of the financial institution for each of the two fiscal years immediately preceding the fiscal year for which qualifying institution status is being determined, the financial institution does not meet the conditions in subparagraph (b)(i) of the definition of qualifying institution and is not a qualifying institution. Refer to [GST/HST Memorandum 17-12](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-12.html) for information on the rules that apply to financial institutions that are not qualifying institutions.
+
+Insurer E is an insurer for purposes of the definition of qualifying institution. It has always had a fiscal year of January 1 to December 31. To determine whether it is a qualifying institution for the fiscal year ending December 31, 2021, Insurer E must calculate its adjusted tax credit amount for its fiscal years ending December 31, 2019, and December 31, 2020. Insurer E was not a qualifying institution for its fiscal years ending December 31, 2019, and December 31, 2020, and used the ITC allocation methods in subsections 141.02(10) to (13) to calculate the operative extent and procurative extent of its residual inputs for those fiscal years. Using a direct attribution method for each direct input and a specified method for each non-attributable input, Insurer E was eligible to claim ITCs on its residual inputs as shown below:
+
+|  | Year ending October 31, 2019 | Year ending October 31, 2020 |
+
+| --- | --- | --- |
+
+| ITCs – direct inputs | $214,050 | $508,200 |
+
+| ITCs – non-attributable inputs | $950 | $2,800 |
+
+| **Tax credit amount** | $215,000 | $511,000 |
+
+| **Adjusted tax credit amount** (tax credit amount × 365/365) | $215,000 | $511,000 |
+
+As its adjusted tax credit amount for at least one of these years is less than $500,000, Insurer E does not meet the conditions of subparagraph (b)(i) of the definition of qualifying institution for the fiscal year ending December 31, 2021, and it is not a qualifying institution for that year.
+
+Bank F is a bank for purposes of the definition of qualifying institution and has always had a fiscal year of November 1 to October 31. To determine whether it is a qualifying institution for its fiscal year ending October 31, 2021, Bank F must calculate its adjusted tax credit amount for its fiscal years ending October 31, 2019, and October 31, 2020. Bank F was a qualifying institution for its fiscal years ending October 31, 2019 and October 31, 2020, and used particular authorized methods (pursuant to subsection 141.02(21)) to calculate the operative extent and procurative extent of its residual inputs for those years. Bank F was eligible to claim ITCs on its residual inputs as shown below:
+
+|  | Year ending October 31, 2019 | Year ending October 31, 2020 |
+
+| --- | --- | --- |
+
+| ITCs – direct inputs | $1,085,000 | $1,090,000 |
+
+| ITCs – non-attributable inputs | $20,000 | $5,000 |
+
+| **Tax credit amount** | $1,105,000 | $1,095,000 |
+
+| **Adjusted tax credit amount** (tax credit amount × 365/365) | $1,105,000 | $1,095,000 |
+
+As its adjusted tax credit amount for each of these years is greater than $500,000, Bank F meets the conditions of subparagraph (b)(i) of the definition of qualifying institution for the fiscal year ending October 31, 2021.
+
+### Tax credit rate – equals or exceeds prescribed percentage
+
+20. Subparagraph (b)(ii) of the definition of qualifying institution requires that, for each of the two fiscal years immediately preceding the particular fiscal year, the financial institution have a tax credit rate equal to or exceeding the prescribed percentage for the prescribed class of the financial institution. Specific provisions apply to determine the tax credit rate of a new corporation formed from two corporations that are merged or amalgamated and of a corporation that winds up another corporation. These specific provisions are set out in paragraphs 48 to 50 and paragraphs 57 to 60 of this memorandum.
+
+#### Tax credit rate
+
+21. A financial institution’s tax credit rate for a fiscal year of the financial institution is determined according to the following formula:
+
+| Where |  |
+
+| --- | --- |
+
+| **A** | is the tax credit amount of the financial institution for the fiscal year (determined as described in paragraphs 13 to 15 of this memorandum) |
+
+| **B** | is its total tax amount of the financial institution for the fiscal year |
+
+22. The **total tax amount** of a financial institution for a fiscal year is the total of all amounts each of which is a residual input tax amount (as described in paragraph 16 of this memorandum) of the financial institution for the fiscal year.
+
+#### Prescribed percentages for prescribed classes
+
+23. Section 4 of the Regulations prescribes the following percentages for purposes of the definition of qualifying institution:
+
+| Prescribed class | Prescribed percentage |
+
+| --- | --- |
+
+| Bank | 12% |
+
+| Insurer | 10% |
+
+| Securities dealer | 15% |
+
+24. If a financial institution does not have a tax credit rate equal to or exceeding the prescribed percentage for the prescribed class of the financial institution for each of the two fiscal years immediately preceding the particular fiscal year, the financial institution does not meet the conditions in subparagraph (b)(ii) of the definition of qualifying institution and is not a qualifying institution. Refer to [GST/HST Memorandum 17-12](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-12.html) for information on the rules that apply to financial institutions that are not qualifying institutions.
+
+Bank F is a bank for purposes of the definition of qualifying institution and has always had a fiscal year of November 1 to October 31. In addition to calculating its adjusted tax credit amount (refer to Example 6), it must calculate its tax credit rate to determine whether it is a qualifying institution for its fiscal year ending October 31, 2021. Bank F was a qualifying institution and used particular authorized methods (pursuant to subsection 141.02(21)) to calculate the operative extent and procurative extent of its residual inputs for its fiscal years ending October 31, 2019, and October 31, 2020. Bank F’s tax credit rates for its fiscal years ending October 31, 2019, and October 31, 2020, are:
+
+| Year ending | Tax credit amount (A) | Total tax amount (B) | Tax credit rate (A ÷ B) |
+
+| --- | --- | --- | --- |
+
+| October 31, 2019 | $1,105,000 | $7,950,000 | 13.9% |
+
+| October 31, 2020 | $1,095,000 | $8,050,000 | 13.6% |
+
+As its tax credit rate for each of these years is greater than 12% (the prescribed percentage for banks), Bank F meets the conditions of subparagraph (b)(ii) of the definition of qualifying institution for its fiscal year ending October 31, 2021.
+
+Bank F meets the conditions in paragraph (a) of the definition of qualifying institution in its fiscal year ending October 31, 2021, because it is a bank for purposes of the definition of qualifying institution. Bank F also meets the conditions of subparagraph (b)(i) of the definition of qualifying institution in the fiscal year ending October 31, 2021, because its adjusted tax credit amount for each of the previous two fiscal years is greater than $500,000. As Bank F meets all of the conditions of paragraph (a) and subparagraphs (b)(i) and (b)(ii) of the definition of qualifying institution, it is a qualifying institution for its fiscal year ending October 31, 2021.
+
+### Summary of prescribed classes, amounts and percentages
+
+25. The following is a summary of the prescribed amount and prescribed percentage applicable to each of the prescribed classes of financial institutions:
+
+| Prescribed class | Prescribed amount | Prescribed percentage |
+
+| --- | --- | --- |
+
+| Bank | $500,000 | 12% |
+
+| Insurer | $500,000 | 10% |
+
+| Securities dealer | $500,000 | 15% |
+
+26. If a financial institution of a prescribed class has an adjusted tax credit amount for each of the two fiscal years immediately preceding the particular fiscal year of $500,000 or more, and a tax credit rate for each of the two fiscal years immediately preceding the particular fiscal year that equals or exceeds the prescribed percentage for the prescribed class of the financial institution, the financial institution is a qualifying institution. If a financial institution is a qualifying institution, refer to [GST/HST Memorandum 17-13](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-13.html).
+
+## Non-qualifying institution electing to use a prescribed percentage for residual inputs
+
+27. A financial institution that is not a qualifying institution may be eligible to make an election under subsection 141.02(9) to use a prescribed percentage for its residual inputs (that is, direct inputs and non-attributable inputs) for a particular fiscal year. A financial institution may make this election where both of these conditions are met:
+
+- the financial institution is, at any time in that particular fiscal year, a financial institution of a **prescribed class** (that is a bank, an insurer, or a security dealer as defined in the Regulations)
+
+- its **tax credit rate** for each of its two fiscal years immediately preceding the particular fiscal year equals or exceeds the prescribed percentage for the prescribed class of the financial institution (that is, 12% for banks, 10% for insurers and 15% for security dealers) for the particular fiscal year
+
+28. A financial institution eligible to make this election is one that would meet the definition of qualifying institution except that the financial institution does not meet the condition in paragraph (b) of that definition relating to its adjusted tax credit amount (as described in paragraphs 11 and 12 of this memorandum).
+
+29. Where an election under subsection 141.02(9) is in effect for a particular fiscal year for a financial institution, the extent to which a residual input of the financial institution is acquired or consumed or used for the purpose of making taxable supplies for consideration is deemed to be the particular prescribed percentage for the prescribed class of the financial institution (that is, 12% for banks, 10% for insurers and 15% for securities dealers).
+
+30. Where an eligible financial institution makes the election under subsection 141.02(9) in respect of a particular fiscal year of the financial institution, subsections 141.02(10), (11), (12) and (13) do not apply to the financial institution in respect of that fiscal year (that is, generally the requirement to use a direct attribution method for a direct input and a specified method for a non-attributable input). As well, if the election is in effect, the following rules apply in respect of each residual input of the financial institution:
+
+- the extent to which the residual input is acquired by the financial institution or is consumed or used for purposes other than making taxable supplies for consideration is deemed to be equal to the difference between 100% and the prescribed percentage for the prescribed class of financial institution (that difference being 88% for banks, 90% for insurers and 85% for securities dealers)
+
+- for the purpose of determining an ITC in respect of the residual input, the description of B in the formula in subsection 169(1) is deemed to be equal to the prescribed percentage for the prescribed class of financial institution
+
+31. An election under subsection 141.02(9) in respect of a fiscal year of a financial institution must be made in prescribed form and contain prescribed information. The form must be filed by the financial institution with the Minister in prescribed manner not later than the day by which the financial institution must file its GST/HST return for the first reporting period of that fiscal year, or any later day that the Minister may allow on application by the financial institution.
+
+32. To make an election under subsection 141.02(9), use [Form GST118, Election or Revocation of an Election for a Financial Institution to Use the Prescribed Percentage](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst118.html).
+
+Securities Dealer G is a securities dealer for the purposes of section 141.02. Securities Dealer G is a monthly filer and its tax credit rate for each of its fiscal years ending December 31, 2019, and December 31, 2020, exceeds 15% (the prescribed percentage for securities dealers), but its adjusted tax credit amount is below the prescribed amount of $500,000 for at least one of those years. As a result, Securities Dealer G is not a qualifying institution.
+
+Securities Dealer G makes an election under subsection 141.02(9) for its fiscal year ending December 31, 2021, by completing and filing Form GST118 on February 15, 2021, (before the date on which it must file its return for the first reporting period in its fiscal year ending December 31, 2021). As a result, for its fiscal year ending December 31, 2021, the extent to which each of Securities Dealer G’s residual inputs is acquired, imported or brought into a participating province or consumed or used for the purpose of making taxable supplies for consideration is deemed to be 15% and the extent to which each of Securities Dealer G’s residual inputs is acquired, imported or brought into a participating province or consumed or used for purposes other than making taxable supplies for consideration is deemed to be 85%. Additionally, for the purpose of determining an ITC in respect of each residual input, the description of B in the formula in subsection 169(1) is deemed to be 15%.
+
+### Revocation
+
+33. The election under subsection 141.02(9) in respect of a fiscal year of the financial institution ceases to have effect on the first day of the fiscal year and is deemed never to have been made if one of the following applies:
+
+- a notice of revocation of the election in prescribed form is filed in prescribed manner with the Minister not later than the day by which the financial institution’s GST/HST return for the first reporting period of the fiscal year is required to be filed
+
+- the financial institution is not of a prescribed class at any time in the fiscal year
+
+- the tax credit rate of the financial institution for each of the two fiscal years immediately preceding the fiscal year does not equal or exceed the prescribed percentage for the financial institution’s prescribed class for the fiscal year
+
+34. To revoke an election under subsection 141.02(9), use [Form GST118](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst118.html).
+
+Insurer H is an insurer for the purposes of section 141.02 but is not a qualifying institution. Insurer H is an annual filer with a fiscal year ending December 31. Insurer H made an election under subsection 141.02(9) for its fiscal year ending December 31, 2020. Insurer H later decided to revoke the election and filed Form GST118, including all required information, on January 12, 2021, (before June 30, 2021, which is the due date of its return for its January 1 to December 31, 2020, fiscal year). The revocation is effective January 1, 2020.
+
+## Designated qualifying institutions
+
+35. Under subsection 141.02(24), a financial institution may apply to the Minister, in prescribed form containing prescribed information, to be designated as a qualifying institution for a particular fiscal year of the financial institution if:
+
+- the financial institution is, or is reasonably expected to be, a financial institution of a prescribed class at any time in the particular fiscal year; and
+
+- it is the case that:
+
+    - the financial institution has two fiscal years immediately preceding the particular fiscal year and, for each of those two fiscal years, the **adjusted tax credit amount** of the financial institution equals or exceeds, or is reasonably expected to equal or exceed, the prescribed amount for that class for the particular fiscal year; or
+
+    - an authorization under subsection 141.02(20) to use particular ITC allocation methods for the particular fiscal year has ceased to have effect only because of the application of paragraph 141.02(23)(c) (that is, because the financial institution is not a qualifying institution for the particular fiscal year).
+
+36. This allows a financial institution that is not a qualifying institution that meets the above requirements to apply under subsection 141.02(18) to be authorized to use particular ITC allocation methods. For more information, refer to [GST/HST Memorandum 17-13](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-13.html).
+
+37. To make an application to be designated as a qualifying institution, use one of the following:
+
+- [Form RC4521, Application for a Financial Institution of a Prescribed Class to be Designated as a Qualifying Institution or Revocation of a Previously Granted Designation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4521.html)
+
+- [Form RC7221, Application for a Selected Listed financial Institution of a Prescribed Class to be Designated as a Qualifying Institution or Revocation of a Previously Granted Designation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7221.html)
+
+### Approval
+
+38. On receipt of an application to be designated as a qualifying institution in respect of a fiscal year, the Minister must, with all due dispatch, consider the application and notify the financial institution in writing of the decision. If the Minister makes the designation, the financial institution is deemed for the purposes of subsection 141.02(18) and paragraph 141.02(23)(c) to be a qualifying institution for the fiscal year.
+
+### Revocation
+
+39. The designation to be a qualifying institution for a fiscal year of a financial institution ceases to have effect on the first day of the fiscal year and is deemed for GST/HST purposes to have never been granted if, on or before the day that is 60 days before the first day of the fiscal year, one of the following occurs:
+
+- the Minister revokes the designation and sends a notice of revocation to the financial institution
+
+- the financial institution files in prescribed manner with the Minister a notice of revocation of the designation in prescribed form containing prescribed information
+
+40. To revoke an application to be designated as a qualifying institution, use [Form RC4521](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4521.html) or [Form RC7221](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7221.html) as applicable.
+
+## Mergers, amalgamations and windings-up
+
+41. Subsections 141.02(4) and (5) apply for the purpose of determining the **tax credit amount** and the **tax credit rate** of a corporation that is formed by the merger or amalgamation of two or more predecessor corporations, or a corporation (the parent corporation) that has wound up another corporation where the parent corporation had owned 90% or more of the issued shares of each class of the capital stock of the other corporation. These provisions are used in determining whether the new corporation or the parent corporation, as the case may be, may be a qualifying institution or may be eligible to make an election under subsection 141.02(9).
+
+### Mergers and amalgamations
+
+42. Subsection 141.02(4) applies for the purpose of determining the tax credit amount and the tax credit rate of a corporation that is formed when two or more corporations (the predecessor corporations) are merged or amalgamated to form one corporation (the new corporation), otherwise than as the result of the acquisition of property of one corporation by another corporation pursuant to the purchase of the property by the other corporation or as a result of the distribution of the property to the other corporation on the winding-up of the corporation.
+
+43. These rules apply despite any deeming rules in section 271. However, these provisions apply only for the purpose of determining the tax credit amount and the tax credit rate of the new corporation and do not affect the ITC entitlement of any corporation in respect of any period prior to the merger or amalgamation.
+
+44. For the purpose of determining the tax credit amount and the tax credit rate of the new corporation for a fiscal year of the new corporation, the new corporation is deemed to have had two fiscal years, each of 365 days, immediately preceding the first fiscal year of the new corporation (that is, the fiscal year of the new corporation that begins on the day of the merger or amalgamation).
+
+#### Tax credit amount
+
+45. The tax credit amount of the new corporation for the fiscal year immediately preceding the first fiscal year of the new corporation (the **prior year of the new corporation**) is deemed to be equal to the total of all amounts each of which is the adjusted tax credit amount of a predecessor corporation for the prior year of the predecessor corporation. The **prior year of a predecessor corporation** means the last full fiscal year that is generally a 365-day year ending before the merger or amalgamation and not any stub fiscal year of the predecessor that was less than a full year and that ended at the time of the merger or amalgamation.
+
+46. Similarly, the tax credit amount of the new corporation for the fiscal year of the new corporation immediately preceding the prior year of the new corporation (the **second prior year of the new corporation)** is deemed to be equal to the total of all amounts each of which is the adjusted tax credit amount of a predecessor corporation for the fiscal year, if any, of the predecessor immediately preceding the prior year of the predecessor (the second prior year of the predecessor).
+
+47. The **adjusted tax credit amount** of a corporation for a fiscal year is computed by multiplying the tax credit amount of the corporation for the fiscal year by the fraction 365/number of days in the fiscal year.
+
+Insurer I and Insurer J amalgamate on April 1, 2021, to form Insurer IJ, which is an insurer for purposes of the definition of qualifying institution. Insurer I had a fiscal year from January 1 to December 31 and Insurer J had a fiscal year from January 1 to December 31. The adjusted tax credit amounts of Insurer I and Insurer J are as provided in the chart below. For the purpose of determining whether it is a qualifying institution for its fiscal year beginning April 1, 2021, Insurer IJ must calculate its adjusted tax credit amount for both its prior year and its second prior year.
+
+| Adjusted Tax Credit Amount | Year ending December 31, 2020 (Prior year) | Year ending December 31, 2019 (Second prior year) |
+
+| --- | --- | --- |
+
+| Insurer I Adjusted tax credit amount | $752,000 | $788,000 |
+
+| Insurer J Adjusted tax credit amount | $253,000 | $230,000 |
+
+| Total of adjusted tax credit amounts of the predecessor corporations | $1,005,000 | $1,018,000 |
+
+|  | Prior year | Second prior year |
+
+| --- | --- | --- |
+
+| Insurer IJ’s **tax credit amount**(total of adjusted tax credit amounts of the predecessor corporations) | $1,005,000 | $1,018,000 |
+
+| Insurer IJ’s **adjusted tax credit amount**(tax credit amount × 365/365) | $1,005,000 | $1,018,000 |
+
+For purposes of determining whether it is a qualifying institution for its fiscal year beginning April 1, 2021, Insurer IJ’s adjusted tax credit amount for its prior year is $1,005,000 and for its second prior year is $1,018,000.
+
+#### Tax credit rate
+
+48. Specific rules apply to determine the tax credit rate for the prior year of the new corporation and for the second prior year of the new corporation.
+
+49. The tax credit rate of the new corporation for the prior year or second prior year of the new corporation is determined according to the following formula:
+
+| Where |  |
+
+| --- | --- |
+
+| A | is the tax credit amount for the prior year or second prior year of the new corporation, as the case may be, determined as described above |
+
+| B | is the total tax amount for the prior year or second prior year of the new corporation, as the case may be |
+
+50. The **total tax amount** of the new corporation for the **prior year** of the new corporation or for the **second prior year** of the new corporation is deemed to be the total of all amounts each of which is the adjusted total tax amount of a predecessor for the prior year (or the second prior year, as the case may be) of the predecessor, if any. The **adjusted total tax amount** of a corporation for a fiscal year is computed by multiplying the total tax amount of the corporation by the fraction 365/number of days in the fiscal year.
+
+Based on the information in Example 10 and the adjusted total tax amounts for Insurer I and Insurer J, as provided in the charts below, Insurer IJ must calculate its tax credit rate for its prior year and its second prior year to determine whether it is a qualifying institution for its fiscal year beginning April 1, 2021.
+
+| Insurer | Tax credit amount (A) for prior year (ending December 31, 2020) | Tax credit amount (A) for second prior year (ending December 31, 2019) |
+
+| --- | --- | --- |
+
+| Insurer IJ (from Example 10) | $1,005,000 | $1,018,000 |
+
+| Insurer | Adjusted total tax amount (B) for prior year (ending December 31, 2020) | Adjusted total tax amount (B) for second prior year (ending December 31, 2019) |
+
+| --- | --- | --- |
+
+| Insurer I | $7,150,000 | $7,750,000 |
+
+| Insurer J | $2,585,000 | $2,400,000 |
+
+Insurer IJ calculates its tax credit rate for the prior year using the formula **A ÷ B**where:
+
+**A** is $1,005,000**B** is $9,735,000 ($7,150,000 + $2,585,000)
+
+Insurer IJ’s tax credit rate for the prior year is 10.3% [$1,005,000 ÷ ($7,150,000 + $2,585,000)].
+
+Insurer IJ calculates its tax credit rate for its second prior year using the formula **A ÷ B**where:
+
+**A** is $1,018,000**B** is $10,150,000 ($7,750,000 + $2,400,000)
+
+Insurer IJ’s tax credit rate for its second prior year is 10% [$1,018,000 ÷ ($7,750,000 + $2,400,000)].
+
+For purposes of determining whether it is a qualifying institution for its fiscal year beginning April 1, 2021, Insurer IJ’s tax credit rate for its prior year is 10.3% and for its second prior year is 10%.
+
+### Windings-up
+
+51. Subsection 141.02(5) applies for the purpose of determining the tax credit amount and the tax credit rate of a corporation (the parent corporation) that has wound up another corporation (the subsidiary corporation) where the parent corporation had owned 90% or more of the issued shares of each class of the capital stock of the subsidiary corporation.
+
+52. These rules apply despite any deeming rules in section 272. However, these provisions apply only for the purpose of determining the tax credit amount and the tax credit rate of the parent corporation, and the subsection in no way affects the ITC entitlement of either the parent or the subsidiary in respect of any period prior to the winding-up.
+
+#### Tax credit amount
+
+53. Specific rules apply to determine the tax credit amount for the **specified year** of the parent corporation (that is, the fiscal year of the parent corporation that includes the day on which the subsidiary corporation is wound up) and the **prior year** of the parent corporation (that is, the fiscal year of the parent corporation immediately preceding the specified year of the parent corporation).
+
+54. The adjusted tax credit amount of a corporation for a fiscal year is computed by multiplying the tax credit amount of the corporation for the fiscal year by the fraction 365/number of days in the fiscal year.
+
+##### Specified year of the parent corporation
+
+55. The **tax credit amount** of the parent corporation for the specified year of the parent corporation is determined according to the following formula:
+
+| Where |  |
+
+| --- | --- |
+
+| TParent (specified) | is the amount that would, in the absence of subsection 141.02(5), be the adjusted tax credit amount of the parent corporation for the specified year of the parent corporation |
+
+| TSubsidiary (prior) | is the amount that is the adjusted tax credit amount of the subsidiary corporation for the prior year of the subsidiary corporation (that is, the last fiscal year, if any, of the subsidiary corporation ending before the day on which the subsidiary corporation is wound up that is not the stub fiscal year that ended on the winding-up) |
+
+Parent Corporation K is a securities dealer for purposes of the definition of qualifying institution and owned 100% of all of the issued shares of each class of the capital stock of Subsidiary Corporation L (also a securities dealer for purposes of the definition of qualifying institution). Parent Corporation K has a fiscal year of January 1 to December 31 and Subsidiary Corporation L also had a fiscal year of January 1 to December 31. On July 1, 2020, Parent Corporation K wound up Subsidiary Corporation L. Parent Corporation K calculates its adjusted tax credit amount for its specified year that includes July 1, 2020 (January 1 to December 31, 2020) using the adjusted tax credit amounts of Parent Corporation K and Subsidiary Corporation L as provided in the chart below:
+
+|  | Amount |
+
+| --- | --- |
+
+| TParent (specified) (Parent Corporation K adjusted tax credit amount for year ending December 31, 2020) | $356,000 |
+
+| TSubsidiary (prior) (Subsidiary Corporation L adjusted tax credit amount for year ending December 31, 2019) | $379,000 |
+
+| **Parent Corporation K tax credit amount for the specified year** (year ending December 31, 2020) | **$735,000** |
+
+| **Parent Corporation K adjusted tax credit amount for the specified year** (year ending December 31, 2020) | **$735,000** |
+
+Parent Corporation K calculates its tax credit amount for its specified year using the formula **TParent (specified) + Tsubsidiary (prior)**where:
+
+**TParent (specified)** is $356,000**TSubsidiary (prior)** is $379,000
+
+Parent Corporation K’s tax credit amount for its specified year is $735,000 ($356,000 + $379,000).
+
+Its adjusted tax credit amount for its specified year is $735,000 ($735,000 × 365/365).
+
+##### Prior year of the parent corporation
+
+56. The tax credit amount of the parent corporation for the prior year of the parent corporation (that is, the fiscal year, if any, of the parent corporation immediately preceding the specified year of the parent corporation) is determined according to the following formula:
+
+| Where |  |
+
+| --- | --- |
+
+| TParent (prior) | is the amount that would, in the absence of subsection 141.02(5), be the adjusted tax credit amount of the parent corporation for the prior year of the parent corporation |
+
+| TSubsidiary (second prior) | is the amount that is the adjusted tax credit amount of the subsidiary corporation for the second prior year of the subsidiary corporation (that is, the fiscal year, if any, of the subsidiary corporation immediately preceding the prior year of the subsidiary corporation) |
+
+Parent Corporation K from Example 12 calculates the adjusted tax credit amount for its prior year (January 1 to December 31, 2019) using the adjusted tax credit amounts of Parent Corporation K and Subsidiary Corporation L as provided in the chart below:
+
+|  | Amount |
+
+| --- | --- |
+
+| TParent (prior) (Parent Corporation K adjusted tax credit amount for year ending December 31, 2019) | $294,000 |
+
+| TSubsidiary (second prior) (Subsidiary Corporation L adjusted tax credit amount for year ending December 31, 2018) | $368,000 |
+
+| **Parent Corporation K tax credit amount for prior year** (year ending December 31, 2019) | **$662,000** |
+
+| **Parent Corporation K adjusted tax credit amount for prior year** (year ending December 31, 2019) | **$662,000** |
+
+Parent Corporation K calculates its tax credit amount for its prior year using the formula **TParent (prior) + TSubsidiary (second prior)**where:
+
+**TParent** **(prior)** is $294,000**TSubsidiary (second prior)** is $368,000
+
+Parent Corporation K’s tax credit amount for its prior year is $662,000 ($294,000 + $368,000).
+
+Its adjusted tax credit amount for its prior year is $662,000 ($662,000 × 365/365).
+
+#### Tax credit rate
+
+57. Specific rules apply to determine the tax credit rate for the **specified year** of the parent corporation and the **prior year** of the parent corporation.
+
+##### Specified year of the parent corporation
+
+58. The tax credit rate for the specified year of the parent corporation is determined according to the following formula:
+
+| **Where** |  |
+
+| --- | --- |
+
+| **A** | is the tax credit amount of the parent corporation for the specified year of the parent corporation (as determined and described in paragraph 55 of this memorandum) |
+
+| **B** | is the amount that would, in the absence of subsection 141.02(5), be the adjusted total tax amount of the parent corporation for the specified year of the parent corporation |
+
+| **C** | Is the amount that is the adjusted total tax amount of the subsidiary corporation for the prior year of the subsidiary corporation, if any |
+
+59. As mentioned in paragraph 22 of this memorandum, the **total tax amount** of a corporation for a fiscal year is the total of all amounts each of which is a residual input tax amount of the corporation for the fiscal year. The **adjusted total tax amount** of a corporation for a fiscal year is computed by multiplying the total tax amount of the corporation by the fraction 365/number of days in the fiscal year.
+
+Parent Corporation K from Example 12 must calculate its tax credit rate for its specified year (January 1, to December 31, 2020). To do so, Parent Corporation K calculates the relevant adjusted total tax for itself and its subsidiary using the total tax amounts of Parent Corporation K and Subsidiary Corporation L as provided in the chart below.
+
+| Corporation | Total tax amount | Adjusted total tax amount |
+
+| --- | --- | --- |
+
+| Parent Corporation K (year ending December 31, 2020) (B) | $2,253,000 | $2,253,000 × 365/365 = $2,253,000 |
+
+| Subsidiary Corporation L (year ending December 31, 2019) (C) | $2,603,000 | $2,603,000 × 365/365 = $2,603,000 |
+
+Using the amount of $735,000 that it calculated as its tax credit amount for its specified year from Example 12 as element A, Parent Corporation K calculates its tax credit rate for its specified year using the formula **A ÷ (B + C)** where:
+
+**A** is $735,000**B** is $2,253,000**C** is $2,603,000
+
+Parent Corporation K’s tax credit rate is 15.1% [$735,000 ÷($2,253,000 + $2,603,000)].
+
+##### Prior year of the parent corporation
+
+60. The tax credit rate of the parent for the prior year of the parent is determined according to the following formula:
+
+| **Where** |  |
+
+| --- | --- |
+
+| A | is the tax credit amount of the parent corporation for the prior year of the parent corporation (as determined and described in paragraph 56 of this memorandum) |
+
+| B | is the amount that would, in the absence of subsection 141.02(5), be the adjusted total tax amount of the parent corporation for the prior year of the parent corporation |
+
+| C | is the amount that is the adjusted total tax amount of the subsidiary corporation for the second prior year of the subsidiary corporation, if any |
+
+Parent Corporation K from Example 12 must also calculate its tax credit rate for its prior year (January 1, to December 31, 2019). To do so, Parent Corporation K calculates the relevant adjusted total tax for itself and its subsidiary using the total tax amounts of Parent Corporation K and Subsidiary Corporation L as provided in the chart below:
+
+| Corporation | Total tax amount | Adjusted total tax amount |
+
+| --- | --- | --- |
+
+| Parent Corporation K (year ending December 31, 2019) (B) | $1,874,000 | $1,874,000 × 365/365 = $1,874,000 |
+
+| Subsidiary Corporation L (year ending December 31, 2018) (C) | $2,566,000 | $2,566,000 × 365/365 = $2,566,000 |
+
+Using the amount of $662,000 that it calculated as its tax credit amount for its prior year from Example 13 as element A, Parent Corporation K calculates its tax credit rate for its prior year using the formula **A ÷ (B + C)** where:
+
+**A** is $662,000**B** is $1,874,000**C** is $2,566,000
+
+Parent Corporation K’s tax credit rate for its prior year is 14.9% [$662,000 ÷ ($1,874,000 + $2,566,000)].
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries,**call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries,**call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in**Quebec**, call**Revenu Québec**at **1-800-567-4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST - Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for**general GST/HST**or**QST enquiries**, call**Business Enquiries**at**1-800-959-5525**
+
+- for**technical GST/HST**or**QST enquiries**, call**GST/HST Rulings SLFI**at**1-855-666-5166**

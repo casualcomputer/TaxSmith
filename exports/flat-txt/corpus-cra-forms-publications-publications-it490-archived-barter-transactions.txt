@@ -1,0 +1,43 @@
+Title: ARCHIVED - Barter Transactions
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it490/archived-barter-transactions.html
+Corpus path: corpus/cra/forms-publications/publications/it490/archived-barter-transactions.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Barter Transactions
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-490**
+
+DATE: July 5, 1982
+
+SUBJECT: INCOME TAX ACT**Barter Transactions**
+
+REFERENCE: Section 3 (also sections 9 and 69)
+
+1. The purpose of this bulletin is to outline the Department's views on the income tax implications arising from bartering.
+
+2. In its simplest form, bartering consists of trading by exchanging one commodity for another. Recently, however, the practice of bartering for goods and services has evolved into a sophisticated computer-controlled system of commerce proliferated by franchised, member-only barter clubs, where credit units possessing a notional monetary unit value have become a medium of exchange.
+
+3. A barter transaction is effected when any two persons agree to a reciprocal exchange of goods or services and carry out that exchange usually without using money. In a barter transaction between persons who are dealing with each other at arm's length, it is a fundamental principle that each of those persons considers that the value of whatever is received is at least equal to the value of whatever is given up in exchange therefor.
+
+INCOME TAX IMPLICATIONS
+
+4. The Department takes the view that barter transactions are within the purview of the Income Tax Act. Such transactions can therefore result in income or expense as contemplated by sections 3 and 9 thereof or can result in the acquisition or disposition of capital property, eligible capital property, personal-use property or inventory, depending upon the circumstances of the persons who are bartering and the nature of that which is bartered, on the same basis as if cash was the consideration.
+
+5. In the case of services bartered by a taxpayer for either goods or services, the value of those services must be brought into the taxpayer's income where they are of the kind generally provided by him in the course of earning income from, or are related to, a business or a profession carried on by him. Examples are a dentist or the owner of a plumbing business who agrees to fix someone's teeth or drains (respectively) in return for services or property provided by the other party. Where the taxpayer is an employee, e.g. a mechanic, occasional help given to a friend or neighbour in exchange for something would not be taxable unless the taxpayer made a regular habit of providing such services for cash or barter.
+
+6. In the case of goods bartered by a taxpayer for either goods or services, the value of those goods must similarly be brought into the taxpayer's income if they are business-related. For example, the value of groceries given by a grocer to someone in exchange for something else must be brought into the grocer's income. In addition, other goods bartered may give rise to a capital gain. Such would be the case if capital property in the form of a valuable painting, a sailboat or land is bartered for goods or services.
+
+7. In arm's length transactions, where an amount must be brought into income or treated as proceeds of disposition of capital property, that amount is the price which the taxpayer would normally have charged a stranger for his services or would normally have sold his goods or property to a stranger. The cost of the services, goods or property received by him is the same amount as the total value of the goods, property or services given up, plus any cash given as part of the barter, and minus any cash received as part of the barter. The same rules would apply in non-arm's length transactions, subject to the provisions of section 69 which would override them where appropriate, e.g. by restricting the cost of goods received to their fair market value.
+
+8. Where the goods or services given up cannot readily be valued but the goods or services received can, the Department will normally accept the value of the latter as being the price at which the transaction took place if the parties were dealing at arm's length.

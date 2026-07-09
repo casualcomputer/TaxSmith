@@ -1,0 +1,77 @@
+Title: ARCHIVED - Management or administration fees paid to non-residents
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it468r/archived-management-administration-fees-paid-non-residents.html
+Corpus path: corpus/cra/forms-publications/publications/it468r/archived-management-administration-fees-paid-non-residents.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Management or administration fees paid to non-residents
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-468R**
+
+DATE: December 29, 1989
+
+SUBJECT: INCOME TAX ACT**Management or administration fees paid to non-residents**
+
+REFERENCE:PARAGRAPH 212(1)(A) (ALSO SECTION 67, SUBSECTIONS 69(2), 212(2) AND 212(4) AND PARAGRAPH 214(3)(A))
+
+APPLICATION
+
+This bulletin replaces and cancels IT-468 dated February 2, 1981. Current revisions are designated by vertical lines.
+
+SUMMARY
+
+This bulletin deals with the tax treatment of "management or administration fees or charges" paid by Canadian payers to non- residents. It discusses the application of withholding tax under Part XIII of the Act to such payments as well as the circumstances under which tax treaties may result in such payments being treated as income under Part I of the Act rather than being subject to Part XIII tax.
+
+DISCUSSION AND INTERPRETATION
+
+1. Paragraph 212(1)(a) requires an income tax of 25 percent to be paid on every amount that is a management or administration fee or charge paid or credited (or deemed to have been paid or credited) to a non-resident by a resident of Canada. However, the rate of tax may be subject to reduction pursuant to subsection 10(6) of the Income Tax Application Rules, 1971 and a tax treaty between Canada and the country in which the payee resides. Subsection 212(4) excludes certain payments, discussed in 7 below, from the application of paragraph 212(1)(a).
+
+2. Management or administration fees are not specifically covered in most of the tax treaties negotiated between Canada and other countries. Where Canada has a treaty with another country but it contains no specific article on management or administration fees, any such fees paid to a resident of that country will, to the extent they are reasonable, be considered to be covered by the treaty article dealing with business (industrial or commercial) profits. (As noted in 11 below, the unreasonable portion of a payment of a management or administration fee may be subject to tax under Part XIII). Under such articles, business profits of a non-resident enterprise are exempt from Canadian tax unless they are attributable to a permanent establishment in Canada through which the non-resident carries on business in Canada. Any profits so attributable are taxable under Part I of the Act. Where a tax treaty does contain an article on management or administration fees, such fees will be taxed under either Part I or Part XIII, depending on the circumstances as discussed below.
+
+3. Based on the comments in 2 above, paragraph 212(1)(a) of the Act does not apply to payments made to a resident of a treaty country where the particular treaty with Canada
+
+(a) does not contain a specific article on management or administration fees; or
+
+(b) does contain such an article but the fees are effectively connected with a permanent establishment in Canada of the non-resident.
+
+Where a treaty does contain a specific article on management or administration fees and the fees paid to a resident of the treaty country are not effectively connected with a permanent establishment or fixed base in Canada of the non-resident, the fees are taxed under paragraph 212(1)(a) and the 25 percent rate of tax is reduced to any lower rate specified for such fees in the treaty article. (In the case of Jamaica, reference should be made to Article XIII of the agreement and paragraphs 2 and 7 thereof). Additionally, management or administration fees (not excluded by subsection 212(4) as outlined in 7 below) paid to residents of non-treaty countries are subject to Part XIII tax under paragraph 212(1)(a) unless the amounts may reasonably be attributed to a business carried on by such a non-resident through a permanent establishment in Canada. The foregoing comments refer, in both treaty and non-treaty circumstances, to reasonable management or administration fees. As regards an unreasonable portion, see 11 and 12 below. The remainder of this bulletin is in two parts; 1) Part XIII Tax Considerations and 2) Part I Tax Considerations (payments considered business profits).
+
+For additional information on the subject of management or administration fees or charges see paragraphs 24 to 33 of Information Circular 87-2.
+
+PART XIII TAX CONSIDERATIONS
+
+4. Refer to Information Circular 76-12R4 for applicable non-resident tax rates on amounts paid or credited to residents in treaty countries containing a specific article on management or administration fees or charges. For non-treaty countries the rate is 25 percent. The meaning of the word "credited" is discussed in paragraph 5 of Information Circular 77-16R3.
+
+5. A management or administration fee or charge is not defined in the Act. For the purposes of paragraph 212(1)(a) the Department considers that the term "management or administration" generally includes the functions of planning, direction, control, co-ordination, systems or other functions at a managerial level. These functions may involve services for various departments of a business such as accounting financial, legal, electronic data processing, employee relations, management consultation, labour negotiations, taxation, etc. relating to the management or administration. It is not possible to provide an all-inclusive definition of management fees in an interpretation bulletin, and it is suggested that the above comments be read together with the comments below in order to determine whether an amount paid or credited to a non-resident in a particular set of circumstances constitutes a management fee that is subject to a non-resident tax under paragraph 212(1)(a).
+
+6. The determination of whether a particular amount paid or credited to a non-resident for services performed constitutes a management or administration fee or charge should be made on the basis of the nature of the services performed. If no identifiable services have been performed for amounts billed as management or administration fees or charges, see 11 below. Amounts paid for services actually performed, which may casually be described as management fees but in substance are for something else which can be identified, will not be subject to non- resident tax under paragraph 212(1)(a) nor will they be excluded from it by subsection 212(4). Such amounts may, however, be subject to non- resident tax under provisions of Part XIII other than paragraph 212(1)(a), or the amounts may be taxable under Part I. For example, a payment to a non-resident for the use of a right or invention, or for information concerning commercial or scientific knowledge may be subject to non-resident tax under paragraph 212(1)(d). Where the ordinary course of the business of a non-resident includes the service of providing management advice in Canada, a fee for such services may be subject to tax as income earned in Canada under Part I. A salary paid or credited to a non-resident person is not considered a management or administration fee or charge but it may, nevertheless, be subject to Part I tax.
+
+7. Subsection 212(4) excludes from "management or administration fee or charge", for purposes of paragraph 212(1)(a), the following amounts to the extent that they are reasonable in the circumstances:
+
+(a) an amount paid or credited to a non-resident for a service performed provided that the service was performed in the ordinary course of a business carried on by the non-resident and the non- resident and the payer were dealing with each other at arm's length at the time of the performance of such service, or
+
+(b) an amount paid or credited to a non-resident provided that the amount was a reimbursement of a specific expense incurred for the performance of a service and the service performed by the non-resident was for the benefit of the payer.
+
+8. The Department considers that the term "a specific expense" in 7(b) above applies to a particular expense item or a portion thereof, a sum of several expense items or a portion of a composite of various distinct expenses such as overhead expense including rent, power, heat, salaries, fringe benefits and other business expenses. A specific expense does not include depreciation, capital costs, reserves or unvouchered amounts. A specific expense is net, after all applicable credits or refunds have been deducted, and is without any mark-up or profit element to the non-resident. While only amounts deductible under the Act will be allowed as deductions to the Canadian payer in computing income, this factor is immaterial in determining whether an amount represents a reimbursement to the non-resident of a specific expense for purposes of 7(b) above.
+
+9. For purposes of 7(b) above, a service performed by a non-resident would not be considered beneficial to the payer if it was a duplication of services already provided by the payer's own personnel.
+
+10. It is a question of fact whether an amount paid or credited to a non-resident is reasonable in the circumstances for purposes of 7 above. In making such a determination consideration should primarily be given to the quantum or amount of the exclusion sought in relation to the service performed and the benefit derived by the payer. Where an amount paid or credited to a non-resident is based on an allocation or distribution of certain charges or costs among various departments, branches or subsidiary corporations (including the Canadian payer), it is important not only that the expenses themselves are reasonable but that the method or basis of allocation or distribution is appropriate to the Canadian payer and reasonable in the circumstances.
+
+11. If some portion of a management or administration fee or charge cannot be considered reasonable or if, as noted in 6 above, no identifiable services have been performed for amounts billed, the unreasonable portion and amounts for unidentifiable services may be taxed as deemed dividends. (This is pursuant to subsections 15(1) or 56(2) and 212(2) and paragraph 214(3)(a) of the Act.)
+
+PART I TAX CONSIDERATIONS
+
+12. Where reasonable management or administration fees are considered to be covered by a treaty article dealing with business (industrial or commercial) profits and such profits are not attributable to a permanent establishment in Canada through which the non-resident carries on business in Canada, there are no Canadian tax consequences to the non-resident. Where such profits are attributable to or effectively connected with a permanent establishment in Canada, however, the non-resident carrying on business in Canada is treated in the same manner as any other taxpayer, i.e., Part I tax is exigible on business profits. Any management or administration fees or charges, or portions thereof, considered unreasonable will be disallowed as an expense of the Canadian payer under section 67 or subsection 69(2). In considering t he reasonableness of the fee or charge for purposes of section 67 and subsection 69(2) the Department is prepared to accept an allocation of the costs, direct and indirect, reasonably attributable to providing the relevant services to the Canadian taxpayer. Any mark-up or profit element would be appropriate only in certain circumstances (see Information Circular 87-2).
+
+13. The current version of Interpretation Bulletin IT-177 outlines the general principles for determination of whether there is a permanent establishment in Canada. However, since the definition of "permanent establishment" may vary from treaty to treaty, taxpayers should refer to the specific provisions of the relevant income tax treaty.

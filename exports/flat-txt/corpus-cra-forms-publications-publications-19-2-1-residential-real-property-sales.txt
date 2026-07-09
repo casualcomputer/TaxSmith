@@ -1,0 +1,411 @@
+Title: Residential Real Property-Sales
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-1/residential-real-property-sales.html
+Corpus path: corpus/cra/forms-publications/publications/19-2-1/residential-real-property-sales.md
+Document type: publication
+Last modified: 2023-09-19
+
+# Residential Real Property-Sales
+
+GST/HST memorandum 19.2.1 February 1998
+
+Overview
+
+This section of Chapter 19 examines the tax status of most types of residential real property sales. Leases of residential real property are dealt with in Section 19.2.2, *Residential Real Property-Rentals,* and deemed supplies are discussed in Section 19.2.3, *Residential Real Property-Deemed Supplies*. Sales of raw land, even if it is zoned for residential use, are examined in Section 19.5, *Land*.
+
+- [Taxable sales](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-1/residential-real-property-sales.html)
+
+    - [Deemed taxable sales](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-1/residential-real-property-sales.html)
+
+    - [Sale by a builder of a new residential complex](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-1/residential-real-property-sales.html)
+
+          - [Who is the "builder" of the residential complex?](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-1/residential-real-property-sales.html)
+
+          - [Is the land part of a residential complex?](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-1/residential-real-property-sales.html)
+
+    - [Application of "residential complex" to mixed-use properties](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-1/residential-real-property-sales.html)
+
+    - [Taxable sales of previously occupied residential complexes](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-1/residential-real-property-sales.html)
+
+- [Exempt sales](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-1/residential-real-property-sales.html)
+
+    - [Sale by someone other than a builder of previously occupied residential housing](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-1/residential-real-property-sales.html)
+
+    - [Sale of a builder's personal residence](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-1/residential-real-property-sales.html)
+
+    - [Sales of self-supplied housing](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-1/residential-real-property-sales.html)
+
+          - [Sale of a single unit residential complex or a residential condominium unit which previously formed part of a multiple unit residential complex](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-1/residential-real-property-sales.html)
+
+          - [Sale of a previously occupied condominium unit or single unit residential complex by a builder subsequent to a self-supply](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-1/residential-real-property-sales.html)
+
+          - [Sale of a previously occupied multiple unit residential complex or an addition thereto subsequent to a self-supply](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-1/residential-real-property-sales.html)
+
+          - [Sale of building and lease of land](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-1/residential-real-property-sales.html)
+
+    - [Sale of previously leased land](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-1/residential-real-property-sales.html)
+
+    - [Sale of residential trailer park](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-1/residential-real-property-sales.html)
+
+    - [Sale of parking space in a condominium complex](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-1/residential-real-property-sales.html)
+
+Disclaimer
+
+The information in this memorandum does not replace the law found in the *Excise Tax Act* and its Regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation, or contact a Canada Revenue Agency (CRA) GST/HST Rulings Centre for more information. These centres are listed in GST/HST Memorandum 1.2, [Canada Revenue Agency GST/HST Rulings Centres](https://www.canada.ca/E/pub/gm/1-2/README.html). If you wish to make a technical enquiry on the GST/HST by telephone, please call the toll-free number 1-800-959-8287.
+
+If you are located in the Province of Quebec, please contact Revenu Québec by calling the toll-free number 1-800-567-4692 for additional information.
+
+This section of Chapter 19 supersedes the discussion of exempt residential sales in GST memorandum 300-4-1, *Exempt Supplies: Real Property*.
+
+## Taxable sales
+
+1. As a general rule, a supply of real property situated in Canada, including residential property, is taxable unless the transaction is specifically exempted. (The small supplier provisions do not apply to sales of real property.) Most exemptions that affect residential real property are listed in Part 1 of Schedule V and are discussed in the latter half of this section. See the heading, *Exempt Sales* at paragraph 23 of this Section. The following paragraphs discuss the most common examples of taxable sales of residential real property.
+
+### Deemed taxable sales
+
+Deemed sales s 190, s 191, s 207, s 208
+
+2. Several sections of the Act provide for deemed sales, e.g., a deemed self-supply by a builder of a residential complex, a deemed sale resulting from a change-in-use. For a discussion of deemed sales, see Section 19.2.3, *Residential Real Property-Deemed Supplies*.
+
+### Sale by a builder of a new residential complex
+
+General rule
+
+3. In most cases, the sale by a builder of a newly constructed or substantially renovated residential complex is a taxable supply. Accordingly, it is important to determine:
+
+- if a sale actually occurred (as opposed to a lease, licence or similar arrangement),
+
+- if the property is a residential complex, and
+
+- if the supplier is a "builder" of the residential complex.
+
+Sale or not?
+
+4. For a discussion of the conditions which indicate whether a sale has actually occurred, see Section 19.1, *Real Property and the GST/HST.* Note that a sale may occur in a rent-to-own situation, where the lessee agrees to purchase a residential complex at the end of a specified rental term under a binding agreement of purchase and sale. If no such agreement exists, the transaction is generally considered to be a lease that includes an option to purchase the complex. See the discussion of rent-to-own agreements in Section 19.2.3, *Residential Real Property-Deemed Supplies.*
+
+#### Who is the "builder" of the residential complex?
+
+Definition ss 123(1)
+
+5. The definition of "builder" is discussed in Section 19.2, *Residential Real Property* of this chapter and is set out in Section 1.5, *Definitions.* Issues that relate to who is and who is not a builder are discussed in the following paragraphs.
+
+Issue: more than one?
+
+6. There may be more than one builder of a residential complex. For example, a person who has an interest in the land and constructs a house on the land for resale in the course of a business is a builder. If that person should fail to complete the construction of the complex (e.g., bankruptcy), then the person who obtains an interest in the complex and completes the construction is also a builder of the complex.
+
+Issue: exclusion from definition
+
+7. An individual who constructs, substantially renovates or acquires a residential complex "otherwise than in the course of a business or an adventure or concern in the nature of trade" is not considered a builder of the complex. Generally, this term refers to individuals who have homes constructed for their own personal use or that of their family, and not for purposes of supply by way of sale or lease, licence or similar arrangement.
+
+Mr. Jones purchases a home in Vancouver with the intention of using it as his primary place of residence. However, prior to his moving into the home, Mr. Jones is transferred from his current job in Vancouver to a posting in Halifax. Mr. Jones decides to sell the Vancouver house and purchase a new house in Halifax. In this case, Mr. Jones is not viewed as a builder because he is selling the yet-to-be occupied house otherwise than in the course of a business or in the course of an adventure or concern in the nature of trade.
+
+##### Example 2
+
+Mr. Ray is a building contractor by profession. Mr. Ray's pattern of activity is to build a new house for his own use with the intention of building another house which he will move into as soon as he finds a purchaser for the house he currently occupies. In this case, Mr. Ray is considered a builder because he is selling these houses in the course of a business or an adventure or concern in the nature of trade.
+
+#### Is the land part of a residential complex?
+
+Land allowance for residential complexes Policy statement P-069
+
+8. Land of up to a half hectare that is subjacent and immediately contiguous to a residential building is generally accepted by the Department to be the amount of land qualifying as part of the residential complex. This is the amount of land that is usually considered to be reasonably necessary for the use and enjoyment of the building as a place of residence. Land in excess of a half hectare is generally not considered to form part of the residential complex, unless it can be shown that such land is reasonably necessary for the use and enjoyment of the building as a place of residence for individuals. This "half-hectare rule" follows the treatment of land in connection with the definition of "principal residence" under paragraph 54(e) of the *Income Tax Act*.
+
+9. The portion of a parcel of land that forms part of a residential complex is treated differently for purposes of the GST/HST from the portion that does not. For example, self-supply rules relating to residential complexes do not apply to this excess land. In addition, any part of the GST/HST paid on the value of the excess land would not be included in calculating the housing rebate for the residential complex. When a supply of the property occurs, the provisions of subsection 136(2) may apply to deem that the residential complex and the excess land are separate supplies. The effect of deeming the excess land to be a separate supply may be such that, while the supply of the used residential complex is an exempt supply, the supply of the excess land could be taxable. See paragraph 14. The application of subsection 136(2) is discussed in paragraph 19 and in Section 19.1, *Real Property and the GST/HST*.
+
+Land used in commercial activities
+
+10. Proof that the land forms part of a residential complex is generally not required where the subjacent and immediately contiguous land is not in excess of a half hectare. However, if a portion of the half hectare that is subjacent and immediately contiguous to a residential complex is used in commercial activities, that portion is not considered to contribute to the use and enjoyment of the building as a place of residence. Further, where a registrant claims input tax credits (ITCs) related to that portion, the claim indicates that the registrant considers the land to be used in commercial activities.
+
+Demonstrable factors
+
+11. In cases where a person claims that land in excess of a half hectare forms part of the residential complex, it must be clearly demonstrated that the excess land is reasonably necessary for the building to fulfil its function as a residence; simple desirability is not enough. For example, such excess land could be considered reasonably necessary if the location of the building on the lot requires land in excess of a half hectare to permit access to public roads.
+
+Minimum lot size
+
+12. In some cases, restrictions exist that impose minimum lot sizes, e.g., severance or subdivision restrictions. If a legally imposed minimum lot size exists, and this minimum was in effect on the date the property was acquired, this minimum is generally considered to be the amount of land reasonably necessary for the use and enjoyment of the building as a place of residence, even if this minimum exceeds a half hectare.
+
+Question of fact
+
+13. In all cases, it is a question of fact as to how much, if any, of the excess land is reasonably necessary for the use and enjoyment of the building as a place of residence. Where the residential complex is being claimed as a principal residence for income tax purposes, the amount of land that qualifies as part of the principal residence for income tax purposes will also qualify usually as part of the residential complex for GST/HST purposes.
+
+Exemption for land sales by individuals or personal trusts
+
+14. Although land being sold with a residential complex may not form part of the residential complex and, therefore, not be exempt under the provisions relating to sales of residential complexes, the sale of the land or an interest in the land by an individual or personal trust may still be exempt if section 9 of Part I of Schedule V applies. (For further information about exempt sales of land by individuals or trusts, see Section 19.5, *Land*.)
+
+Fair and reasonable allocation
+
+15. In cases where value must be apportioned between the portion of the land that is considered part of the residential complex and the portion that is not part of the residential complex, the apportionment must be fair and reasonable, e.g., based on the fair market value of each portion. Severance laws, regulations or restrictions on lot sizes in effect on the date of acquisition of any part of the property, including the portion that does not qualify as the residential complex may affect this apportionment.
+
+Condominium common areas
+
+16. Each owner of a unit in a condominium complex or strata lot plan usually has an undivided interest as a tenant-in-common in the common areas of the condominium complex or strata lot plan with the other members of the condominium corporation or other owners of the land under the strata lot plan. At the time of sale of the residential condominium unit or strata lot, the vendor's undivided interest in the common areas is assumed by the purchaser. The ownership of the common areas is not normally divided on sale and, therefore, the land associated with the common areas may be supplied as part of the ownership of the residential condominium unit or strata lot, with the supply of the associated lands taking on the same tax status as the supply of the unit or lot itself.
+
+Land allocated to residential complex
+
+17. The following examples illustrate situations where land qualifies or does not qualify, as part of a residential complex:
+
+A property with a residential building on it consists of 15 hectares. Most of the land is scrub land. At all times relevant for this example, the legal minimum lot size for a residential complex in the area is 10 hectares. Accordingly, 10 hectares is the amount of land considered to be reasonably necessary for the use and enjoyment of this particular building as a place of residence for individuals. The remaining five hectares would generally be considered to be excess land.
+
+When apportioning the total value of the property between the 10-hectare residential complex and the excess portion of five hectares, the value given to the five hectares may be relatively low compared to the portion forming part of the residential complex. The apportionment must be fair and reasonable, e.g., based on fair market value of each portion. In this case, the excess land would have little value of its own. Without a change in the requirement for minimum lot size, it cannot be severed and sold separately.
+
+##### Example 2
+
+A parcel of land containing an individual's personal residence has an area of five hectares. Two hectares of the parcel are leased to a third party for a dog kennel. The municipality requires the house to be built on a lot with a minimum size of five hectares. In this situation, the three hectares that is made up of the land upon which the building is situated and the immediately contiguous land not being used in commercial activities qualify as part of the residential complex. The two hectares that are leased to the kennel operators do not. The use of the land in commercial activities demonstrates that the land is not reasonably necessary for the use and enjoyment of the house as a place of residence.
+
+##### Example 3
+
+A corporation is selling a cottage property that was used by the majority shareholder for her personal use and enjoyment. The cottage is located on a five-hectare lot. At the time of sale, the lot in question is subject to a municipal by-law which imposes a minimum lot size of no less than two hectares. In this case, because of the minimum lot size imposed by the municipality, the two hectares of land that consists of the land upon which the cottage is situated and the immediately contiguous land are considered reasonably necessary for the use and enjoyment of the building as a place of residence.
+
+##### Example 4
+
+John Doe owns a house in an expensive development. His house is situated on a one hectare lot (the large lots add to the prestige image of the development). There are no legally imposed minimum lot sizes. Mr. Doe does not carry on any commercial activities on the property. Because the lot size results only from a desire to enhance the image of the development, and not from a legal requirement or any other reasonable necessity for a large lot, the land in excess of a half hectare is not considered to form part of the residential complex.
+
+##### Example 5
+
+Rose Heng owns a 10-storey, residential apartment building that she wants to sell. The subjacent and immediately contiguous land consists of two hectares that contains recreational facilities and parking for tenants. The supply of parking is for the exclusive use of the tenants and is exempt from GST/HST under section 8.1 of Part I of Schedule V. The recreational facilities, a swimming pool and two tennis courts are also for the exclusive use of the tenants and are supplied at no extra charge. Because the immediately contiguous land is used for parking and recreational facilities that are supplied exclusively to the tenants of the apartment building on an exempt basis, and because these are reasonably necessary for the use and enjoyment of the building as a place of residence, the two hectares of land are considered part of the residential complex.
+
+##### Example 6
+
+An individual who owns a two-bedroom residential condominium unit in a high-rise condominium complex has listed the unit for sale. The complex contains a swimming pool, tennis court and a lawn bowling facility. At the time of sale, the individual's undivided interest in the land and common areas which are held in co-tenancy with the other owners of units in the condominium complex is assumed by the purchaser. This interest is supplied as part of the ownership of the residential condominium unit and forms part of the residential complex.
+
+Condominium parking space
+
+18. A parking space that is situated in a condominium complex and sold together with a residential condominium unit forms part of the residential condominium unit if the parking space is reasonably necessary for the use and enjoyment of the residential condominium unit as a place of residence for individuals. To be considered part of the residential condominium unit, the parking space would normally not be for commercial use or rented to others if the unit's owner has more spaces than vehicles. (See paragraphs 47 and 48.)
+
+An individual purchases a newly constructed residential condominium unit with five parking spaces in a residential condominium complex. The individual also operates a hair salon in the condominium complex. The individual, and the individual's spouse each have a car. The remaining three spaces are used by clients of the hair salon.
+
+In this case, the three parking spaces that are in excess of the personal requirements of the individual and the individual's spouse do not form part of the residential condominium unit. If the individual were to rent the parking spaces for a month or more to people living in the complex instead of using them in commercial activity, the spaces would still not be considered to form part of the individual's residential condominium unit.
+
+### Application of "residential complex" to mixed-use properties
+
+Treated as separate supplies ss 136(2)
+
+19. Where a supply of real property, either by way of sale or lease, licence or similar arrangement, includes a residential complex and other real property, subsection 136(2) deems the supply of real property that forms part of a residential complex and that part that does not form part of a residential complex to be the supply of two different properties. Similarly, where a supply of real property includes the provision of a residential trailer park and other real property, e.g., land in addition to the land that forms part of the residential trailer park, the supply is deemed to be two separate supplies: the residential trailer park and the other part.
+
+For example, in the case of a supply by way of sale of a parcel of land upon which is situated an apartment building with a first-floor shopping mall, the first floor along with the portion of land that is used in the commercial activities of the shopping mall and the remaining floors along with the portion of land that is reasonably necessary for the use and enjoyment of the residential units as a place of residence for individuals are considered to be separate supplies for GST/HST purposes.
+
+### Taxable sales of previously occupied residential complexes
+
+General rule: exempt Sch. V, Part I, s 2
+
+20. Generally, a sale of a previously occupied residential complex is exempt from the tax. However, there are instances when such sales are taxable.
+
+Improvement ss 123(1)*Income Tax Act* s 54
+
+21. One instance where the sale of a previously occupied residential complex is taxable is where the vendor has claimed ITCs in respect of the acquisition of or an "improvement" to the complex and the sale is not made subsequent to a change-in-use. Note that the definition of "improvement" provides that an "improvement" constitutes any goods or services used in improving capital real property to the extent that the expenditure therein would be included in determining the "adjusted cost base" of the complex for income tax purposes. For example, central air conditioning added to a residential complex would normally constitute an improvement. (For additional information on adjusted cost base and capital real property, see Income Tax Interpretation Bulletins 218R and 456R.)
+
+Taxable sale of "used" residential complex
+
+22. Another instance where the sale of a previously occupied residential complex is taxable is the sale of a residential complex used as short-term accommodation. For example, an individual may be supplying residential condominium units by way of lease on a short-term basis, with a view to selling for long-term residential use. Each unit in this case is taxable when eventually sold.
+
+## Exempt sales
+
+Exempting provisions
+
+23. Most exemptions for supplies of residential real property are listed in Part I of Schedule V to the Act. In addition, under the general provisions of section 1 of Part V.1 of Schedule V, section 25 of Part VI of Schedule V and section 28 of Part VI of Schedule V, most supplies of real property by public service bodies (PSBs) that are not financial institutions or a government are listed as exempt supplies.
+
+Examples of exempt sales
+
+24. The following list contains examples of supplies by way of sale of residential real property that are generally exempt. Most of these involve supplies by way of sale of previously occupied residential housing. While there are some instances when such supplies may be taxable, (see paragraphs 20 to 22), the supply of previously occupied housing is generally exempt because tax has previously been applied to the housing through the self-supply or change-in-use provisions or was payable on the acquisition. (Acquisitions prior to 1991 are discussed in paragraph 33.)
+
+Exempt supplies by way of sale of real property include:
+
+Sch V, Part I, s 2
+
+- the sale, by someone other than the builder, of residential housing;
+
+Sch V, Part I, para 3(a)
+
+- the sale by the builder of residential housing where the residential housing is used primarily as a place of residence by the builder;
+
+Sch V, Part I, s 4 and 5
+
+- the sale by the builder of residential housing where the builder has previously paid GST/HST due to the self-supply rules;
+
+Sch V, Part I, para 4(a)
+
+- the sale by the builder of an apartment building which was previously subject to tax (actual or deemed) that has been converted into a condominium complex without any substantial renovation;
+
+Sch V, Part I, para 4(b)
+
+- the sale by the builder of a residential complex which was previously subject to tax (actual or deemed) that has been repossessed by the builder (i.e., acquired by way of exempt sale);
+
+Sch V, Part I, s 5.1
+
+- the sale by anyone of a building containing one or more residential units (without the land) on leased land;
+
+Sch V, Part I, s 5.2
+
+- the sale of leased land that forms part of a residential complex;
+
+Sch V, Part I, s 5.3
+
+- the sale of a residential trailer park where the residential trailer park was previously subject to tax;
+
+Sch V, Part I, s 8
+
+- the sale of a parking space in a condominium complex provided certain conditions are met;
+
+Sch V, Part I, s 9
+
+- the sale of real property other than a residential complex, when it is personal-use real property sold by an individual or a personal trust. (See Section 19.5, *Land* for a discussion of this provision.)
+
+Sch V, Part VII, s 1 ss 123(1)
+
+25. The sale of a co-operative housing corporation share is an exempt supply since the sale of a cooperative housing corporation share is the sale of an equity security. An equity security is a financial instrument and the transfer of ownership of a financial instrument is a financial service. As listed in section 1 of Part VII of Schedule V, the supply of a financial service is an exempt supply.
+
+(Exempt supplies by way of lease, licence or similar arrangement are discussed in Section 19.2.2, *Residential Real Property-Rentals*.)
+
+### Sale by someone other than a builder of previously occupied residential housing
+
+General rule Sch V, Part I, s 2
+
+26. Generally, the sale of a previously occupied residential complex (other than one that is "substantially renovated") is exempt. In particular, section 2 of Part I of Schedule V lists the sale of a residential complex as exempt from GST/HST if the sale is by a person who is not a builder or, in the case of an addition to a multiple unit residential complex, by a person who is not the builder of the addition.
+
+Application of exemption
+
+27. This exemption applies in most cases where previously occupied housing is sold. In particular, it applies to:
+
+- a resale of an individual's personal residence; and
+
+- a resale of rental housing (residential complexes held for the purpose of earning rental income) by a person other than a builder (see meaning of builder in Section 19.2, *Residential Real Property* of this chapter, as well as paragraphs 5 to 7). Note, however, this exemption from tax does not apply if the vendor has claimed ITCs with respect to the last acquisition of the residential complex or improvements thereto.
+
+Land not included Policy statement P-121 ss 123(1) Sch V, Part I, s 2 and 5.2
+
+28. A portion of land that once formed part of a "residential complex" does not fall within the definition of "residential complex" if such land is not part of the complex immediately prior to the sale. (For information about land that cannot be classed as part of a residential complex, see paragraphs 8 to 18 in this section.) As a result, sections 2 and 5.2 of Part I of Schedule V do not apply to exempt the sale of such land. For a discussion of the tax treatment of the severed portion of land, see Section 19.5, *Land*.
+
+### Sale of a builder's personal residence
+
+General rule Sch V, Part I, s 3
+
+29. Most sales by a builder of a residential complex are taxable. However, the sale of a residential complex (or addition to a residential complex) by a builder is an exempt supply if:
+
+- the builder is an individual who uses the residential complex primarily (i.e., more than 50%) as his or her place of residence (or primarily as the place of residence of an individual who is related to or a former spouse of the builder throughout the period of ownership); and
+
+- the residential complex is not used primarily (more than 50%) for any other purpose after the construction or substantial renovation of the residential complex, or addition, is substantially completed. Note that the self-supply rules do not apply in this situation by virtue of subsection 191(5). (For a discussion of the application of subsection 191(5), see Section 19.2.3, *Residential Real Property-Deemed Supplies*.)
+
+No exemption if ITCs
+
+30. The foregoing exemption from tax does not apply if the builder has claimed ITCs with respect to the last acquisition of the residential complex or improvements thereto.
+
+31. Since this exemption only applies to builders who are individuals, its use is limited. It may be used where the individual is a builder because of his or her intention to sell or rent the residential complex but subsequently decides to use the complex primarily for personal use.
+
+### Sales of self-supplied housing
+
+General rule Sch V, Part I, s 4 and s 5
+
+32. Where a supply of a residential complex was previously acquired by way of an exempt supply or where the self-supply rules have previously applied with respect to a residential complex or an addition to a residential complex, section 4 and section 5 of Part I of Schedule V generally provide that the subsequent sale of the residential complex is an exempt supply provided that:
+
+- ITCs were not claimed with respect to improvements made to the residential complex after the complex was last acquired by the builder (as a deemed acquisition by virtue of the self-supply rules), unless such ITCs were effectively repaid through the application of change-in-use rules; and
+
+- after the complex was last acquired by the builder, there was not a substantial renovation of the complex after 1990.
+
+These exemptions are discussed further in paragraphs 35 to 39.
+
+Self-supply rules s 191 and Sch V, Part I, s 14
+
+33. The self-supply rules in section 191 are deemed to have been in effect before 1991 by virtue of section 14 of Part I of Schedule V. As a result, the sale of a residential complex constructed and occupied as rental housing prior to 1991 would generally be an exempt supply even in situations where no GST was previously paid. The conditions cited in paragraph 32 also apply to these supplies.
+
+Sch V, Part I, s 5.1
+
+34. In the case of a sale of a building on leased land, the sale may be exempt pursuant to section 5.1 of Part I of Schedule V. This exemption is discussed further at paragraph 40.
+
+#### Sale of a single unit residential complex or a residential condominium unit which previously formed part of a multiple unit residential complex
+
+Application of Sch V, Part I, para 4(a)
+
+35. Paragraph 4(a) of Part I of Schedule V deals with the situation where a builder converts a multiple unit residential complex (e.g., an apartment building), on which tax was previously paid, into a condominium complex.
+
+36. The sale of a residential condominium unit in that condominium complex by the builder is exempt provided that:
+
+- the builder received an exempt supply of the premises by way of sale or the builder was deemed to have made a taxable sale of the complex (i.e., the apartment building) under subsection 191(3);
+
+- the last sale of the complex (i.e., the apartment building) to the builder was exempt;
+
+- the complex or condominium unit has not been substantially renovated; and
+
+- no ITCs were claimed by the builder in respect of the last acquisition of or improvement to the residential complex.
+
+The builder, after completing the construction of a multiple unit residential complex, made an exempt supply by way of lease of a unit in the complex which triggered the self-supply rules under subsection 191(3). Some time later, the builder converted the residential complex into a condominium complex. The subsequent sales of the residential condominium units are exempt provided that ITCs relating to any improvements after the last acquisition have not been claimed, and provided that the complex or units have not been substantially renovated since the last acquisition.
+
+#### Sale of a previously occupied condominium unit or single unit residential complex by a builder subsequent to a self-supply
+
+Application Sch V, Part I, para 4(b)
+
+37. Paragraph 4(b) of Part I of Schedule V deals with the subsequent sale of a single unit residential complex (e.g., a house) or a residential condominium unit that a builder has re-acquired by way of exempt sale or was deemed under subsection 191(1) or 191(2) to have received as a taxable supply by way of sale. If the last acquisition is by way of an exempt supply or a deemed sale under subsection 191(1) or 191(2) (i.e., self-supply), the subsequent sale is exempt provided that:
+
+Sch V, Part I, para 4(c)
+
+- there has not been a substantial renovation since the last acquisition of the single unit residential complex or condominium unit; and
+
+Sch V, Part I, para 4(d)
+
+- an ITC has not been claimed by the builder in respect of the last acquisition of the single unit residential complex or condominium unit, or in respect of an improvement since the last acquisition of the single unit residential complex or condominium unit.
+
+#### Sale of a previously occupied multiple unit residential complex or an addition thereto subsequent to a self-supply
+
+Application Sch V, Part I, s 5
+
+38. Section 5 of Part I of Schedule V exempts the sale by a builder of a multiple unit residential complex or an addition thereto, where the builder last acquired the complex or addition by way of an exempt supply or a deemed sale under the self-supply rules found in subsections 191(3) or 191(4).
+
+Conditions
+
+39. This sale is exempt if:
+
+- the builder has not claimed an ITC in respect of the last acquisition of the complex (or addition), or in respect of an improvement to the complex (or addition) since the last acquisition; or
+
+- the builder has not substantially renovated the complex (or addition), or engaged another person to substantially renovate the complex (or addition) after the last acquisition of the complex (or addition) by the builder.
+
+#### Sale of building and lease of land
+
+Application Sch V, Part I, s 5.1
+
+40. Section 5.1 of Part I of Schedule V addresses the situation where a builder sells a residential complex that sits on leased land. The recipient of the land supplied by way of lease is the owner, lessee or person in occupation or possession of the residential unit that is affixed (or will be affixed) to the land for the purpose of its use and enjoyment as a place of residence for individuals. This exemption may apply, for example, with houses built on Crown Land where the land cannot be sold, or where the builder wishes to retain ownership of the underlying land.
+
+Requirement to self-assess
+
+41. This exemption recognizes that the self-supply rules under subparagraph 191(1)(b)(ii) apply to the building and land. Under the provisions of subparagraph 191(1)(b)(ii), builders must self-assess GST/HST if they give possession of a single unit residential complex or residential condominium unit under an arrangement whereby the single unit residential complex or residential condominium unit is sold, but the related land is subject to a lease. Where subparagraph 191(1)(b)(ii) applies, builders must self-assess GST/HST on the fair market value of the single unit residential complex or residential condominium unit and associated land at the later of the time construction or substantial renovation is substantially completed and the time possession of the complex is given to the purchaser. Because the builder has already paid tax on the supply of the complex (i.e., the self-supply), the sale of the complex to the individual is exempt to prevent double taxation. The corresponding lease of the land to an individual is exempt under paragraph 7(a) of Part I of Schedule V or the assignment of the leasehold interest in the land by the builder is exempt under paragraph 7(c) of Part I of Schedule V.
+
+42. Note that the subsequent sale of the underlying land may be exempt under section 5.2 of Part I of Schedule V. See paragraph 44.
+
+Sch V, Part I, s 5.1
+
+43. The exemption under section 5.1 of Part I of Schedule V does not apply to the sale of a building or part of a building in which one or more residential units are located where the building is located on a site leased in a residential trailer park or where the purchaser of the building does not use the building as a place of residence. This has been removed from the exemption under section 5.1 by the preamble to subparagraph 7(a)(i) of Part I of Schedule V.
+
+### Sale of previously leased land
+
+Application Sch V, Part I, s 5.2
+
+44. Section 5.2 of Part I of Schedule V exempts the sale of land that forms part of a residential complex where the land is sold separate from the house that is situated on the land. (For further discussion, see section 19.5, *Land* in this chapter.)
+
+### Sale of residential trailer park
+
+Application Sch V, Part I, s 5.3
+
+45. Section 5.3 of Part I of Schedule V exempts the supply of land that is a residential trailer park or of an interest therein. This exemption applies where the supplier acquired the park by way of an exempt supply under this section or, when the sites in the residential trailer park were first leased, the supplier was deemed to have received a taxable supply by way of sale and was required to pay tax upon the deemed acquisition and that supply was the last supply of the park by way of sale to the person under one of the following provisions:
+
+- subsection 190(4) - first supply of a site in a residential trailer part by way of lease, licence or similar arrangement;
+
+- subsection 190(5) - first supply by way of lease, licence or similar arrangement of a site in an additional area of a residential trailer park;
+
+- subsection 200(2) - registrant that is a PSB ceasing use of capital real property in a commercial activity;
+
+- subsection 206(4) - registrant ceasing use of capital real property in a commercial activity;
+
+- subsection 207(1) - individual ceasing use of capital real property in commercial activities.
+
+46. Where one of these provisions has applied, the sale of the residential trailer park is exempt. (For further discussion, see section 19.5, *Land* in this chapter.)
+
+### Sale of parking space in a condominium complex
+
+Condominiums Sch V, Part I, s 8
+
+47. Section 8 of Part I of Schedule V applies to sales of parking spaces in a condominium complex where the parking space is sold together with the exempt sale of a residential condominium unit and the parking space is in the condominium complex.
+
+Conditions
+
+48. The sale of the parking space is exempt provided:
+
+- the parking space is located in the condominium complex,
+
+- the parking space is supplied as part of, or at the same time, as an exempt sale of a residential condominium unit, and
+
+- the supplier of the parking acquired the space by way of sale (including a deemed sale under the self-supply rules) and did not subsequently claim an ITC with respect to the acquisition of or improvement to the space.

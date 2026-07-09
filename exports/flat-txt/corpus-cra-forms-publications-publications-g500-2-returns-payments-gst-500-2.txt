@@ -1,0 +1,7 @@
+Title: Returns and Payments (GST 500-2)
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/g500-2/returns-payments-gst-500-2.html
+Corpus path: corpus/cra/forms-publications/publications/g500-2/returns-payments-gst-500-2.md
+Document type: publication
+Last modified: 2017-11-07
+
+# Returns and Payments (GST 500-2)

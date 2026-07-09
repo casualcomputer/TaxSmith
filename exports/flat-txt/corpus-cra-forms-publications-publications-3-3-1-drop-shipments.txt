@@ -1,0 +1,1489 @@
+Title: Drop Shipments
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-1/drop-shipments.html
+Corpus path: corpus/cra/forms-publications/publications/3-3-1/drop-shipments.md
+Document type: publication
+Last modified: 2021-09-22
+
+# Drop Shipments
+
+GST/HST memorandum 3.3.1 June 2008
+
+Overview
+
+This memorandum explains the “drop-shipment” rules under the *Excise Tax Act* governing transactions involving the transfer of goods by a registrant in Canada to another person in Canada on behalf of an unregistered non-resident for purposes of the GST/HST. It also explains the mechanism of the flow-through of input tax credits for the tax paid by an unregistered non-resident on the importation of goods by the non-resident, and the non-resident rebate for installation services supplied in Canada to a non-resident.
+
+Disclaimer
+
+The information in this memorandum does not replace the law found in the *Excise Tax Act* and its Regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation, or contact a Canada Revenue Agency (CRA) GST/HST Rulings Centre for more information. These centres are listed in [GST/HST Memorandum 1.4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html). If you wish to make a technical enquiry on the GST/HST by telephone, please call 1‑800‑959‑8287.
+
+If you are located in the Province of Quebec, please contact Revenu Québec by calling the toll-free number 1-800-567-4692 for additional information.
+
+This memorandum replaces the version dated February 2001.
+
+## Note 2 – Tax status of supplies and importations
+
+Unless otherwise indicated, all references in this publication to taxable supplies are to taxable (other than zero-rated) supplies and all references to importations are to taxable importations.
+
+## Note 3
+
+This memorandum sets out examples illustrating how the drop-shipment rules apply to each of the various drop shipment situations discussed. Appendix A provides a reference list of all of the examples included in the memorandum along with the applicable legislative references.
+
+## Table of Contents
+
+- [Introduction](#_Toc202154973)
+
+- [General conditions](#_Toc202154974)
+
+- [General rule](#_Toc202154975)
+
+- [Exceptions to the general drop-shipment rule](#_Toc202154976)
+
+    - [Drop shipment to registered consignee of unregistered non-resident and requirement to self-assess](#_Toc202154977)
+
+    - [Drop-shipped goods subsequently exported](#_Toc202154978)
+
+- [Retention of physical possession](#_Toc202154979)
+
+- [Transfer of goods to a bailee by a registrant](#_Toc202154980)
+
+- [Transfer of goods to a bailee by an unregistered non-resident](#_Toc202154981)
+
+- [ITCs in respect of drop-shipped goods](#_Toc202154982)
+
+- [Non-resident rebate respecting installation services](#_Toc202154983)
+
+- [Appendix A – Summary table of examples](#_Toc202154984)
+
+- [Appendix B – Drop-shipment certificate](#_Toc202154985)
+
+## Introduction
+
+Imposition of tax on supplies 165
+
+1. As a tax on the consumption of goods and services in Canada, the GST/HST applies to most supplies of goods and services made in Canada. Taxable (other than zero-rated) supplies made in Canada are subject to GST at a rate of 5%, or HST at a rate of 13% if they are made in the participating provinces of Nova Scotia, New Brunswick, and Newfoundland and Labrador. ). If a person is uncertain as to whether the supply is made in a participating province, the person may refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+Place of supply rules 142 and 143
+
+2. Generally, a supply of goods is deemed to be made in Canada if the goods are delivered or made available in Canada to the recipient of the supply. Also, a supply of a service is generally deemed to be made in Canada if it is performed in whole or in part in Canada. Notwithstanding these general rules, a supply of goods or services made in Canada by an unregistered non-resident supplier who does not carry on business in Canada is deemed to be made outside Canada. The place of supply rules are discussed in GST/HST Memorandum 3.3, [Place of Supply](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3.html).
+
+Imposition of tax on imported goods 212
+
+3. To further ensure that tax applies to the final consumption of goods in Canada and that non-resident suppliers do not have a competitive advantage compared to resident suppliers, most importations of goods are also subject to tax on the duty-paid value of the goods.
+
+Drop shipments of goods
+
+4. Unregistered non-resident suppliers may make supplies of tangible personal property (for simplicity, referred to throughout the remainder of this memorandum as goods) that originate in Canada. In such cases, the non-resident will typically make arrangements with a person in Canada (such as a registrant who sold the goods to the non-resident or supplied a service in respect of the goods), to have the goods “drop-shipped” in Canada to another person on behalf of the non-resident. Generally, for GST/HST purposes, a drop shipment of goods occurs where a registrant makes a supply to an unregistered non-resident of either goods by way of sale in Canada or a commercial service in respect of goods and then transfers physical possession of the goods in Canada either to another person on behalf of the non-resident or to the non-resident.
+
+Main purpose of the drop-shipment rules 179
+
+5. Subject to the exceptions mentioned in the following paragraph, the drop-shipment rules are mainly intended to ensure that tax applies to the fair market value of goods that are drop-shipped in Canada and supplied by unregistered non-residents for final consumption in Canada in the same way that tax would apply to goods acquired from the non-resident outside Canada and imported for that purpose. As a general rule, the drop-shipment rules address this issue by deeming the registrant in a drop-shipment situation to have made a supply of the goods to the non-resident recipient for consideration equal to their fair market value when the registrant transfers physical possession of the goods in Canada to another person on behalf of the non-resident or to the non-resident. The application of the general rule is explained beginning at paragraph 14.
+
+Exceptions to the general rules 179(2), (3)
+
+6. There are several provisions that provide for exceptions to the general drop-shipment rule to ensure that the supply made by the registrant to the non-resident is relieved of tax in certain circumstances. These provisions are essentially additional place of supply rules that deem supplies to unregistered non-residents in drop-shipment situations to be made outside Canada. Generally, these provisions apply where the registrant obtains a drop-shipment certificate from a registered person to whom the goods are physically transferred or where the goods are exported. The relieving provisions are explained beginning at paragraph 19.
+
+## General conditions
+
+Status of non-resident recipient
+
+7. There are several conditions that must be met with respect to the status of the non-resident recipient in a drop-shipment situation for the drop-shipment rules to apply.
+
+Registration status 240(1)
+
+8. The drop-shipment rules do not apply if the non-resident recipient is registered for GST/HST purposes. Every non-resident person who makes a taxable supply in Canada in the course of carrying on business in Canada, other than a small supplier, must register for purposes of the GST/HST. It is important to note that in certain circumstances, non-residents involved in drop-shipment situations can be considered to be carrying on business in Canada for GST/HST purposes and consequently be required to register and collect tax on their taxable supplies made in Canada. For guidance on the factors and principles to be used in determining if a non-resident person is carrying on business in Canada for GST/HST purposes, refer to GST/HST Policy Statement P-051R2, [Carrying on Business in Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-051r2.html). Unless otherwise indicated, it is assumed that the non-residents referred to in the examples throughout the remainder of this memorandum are not carrying on business in Canada for GST/HST purposes and are not required to be registered for GST/HST purposes.
+
+Residency status 123(1), s 132
+
+9. The drop-shipment rules do not apply if the non-resident recipient is considered a resident for GST/HST purposes. A non-resident may be considered a resident for GST/HST purposes based on general legal principles or may be deemed to be a resident in certain circumstances, including where the non-resident has a permanent establishment in Canada through which the non-resident carries on activities. For guidance in determining the residence status of a person for GST/HST purposes, refer to GST/HST Memorandum 3.4, [Residence](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-4.html) and GST/HST Memorandum 4.5.1, [Exports-Determining Residence Status](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-5-1.html). For guidance on the principles to be used in determining whether a non-resident has a permanent establishment in Canada for GST/HST purposes, refer to GST/HST Policy Statement P-208R, [Meaning of “Permanent Establishment” in Subsection 123(1) of the Excise Tax Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-208r.html).
+
+Suppliers’ responsibility
+
+10. Suppliers involved in drop-shipment transactions who are registrants are responsible for determining the residence and registration status of their customers. For this purpose, satisfactory evidence should be retained by suppliers, indicating that their customers are non-residents and not registered for GST/HST purposes.
+
+Documentation
+
+11. The CRA will accept written certification as evidence that the customer is both a non-resident and is not registered. This documentation should be dated and signed by the non-resident and be effective on the date the supply is made. The CRA will also consider other forms of documentation as proof of non-residence and the non-registered status of the customer. For examples of satisfactory evidence of residence status for GST/HST purposes, refer to GST/HST Memorandum 3.4, [Residence](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-4.html).
+
+Non-resident recipient requirement
+
+12. To determine if a supply is made to a non-resident person, the CRA will look at the facts of the particular situation. This will generally involve determining the contracting parties to a supply. In a typical arm's-length situation, the CRA will consider that a supply has been made to a non-resident person if the supplier has contracted for the supply with the non-resident person.
+
+Consumers 123(1)
+
+13. The drop-shipment rules do not apply where the non-resident recipient is a consumer of the goods or service supplied by the registrant. A "consumer" of goods or a service means a particular individual who acquires or imports the goods or service for the particular individual's personal consumption, use or enjoyment or the personal consumption, use or enjoyment of any other individual at the particular individual's expense. A consumer does not include an individual who acquires or imports the goods or service for consumption, use or supply in the course of commercial activities of the individual or other activities in the course of which the individual makes exempt supplies.
+
+## General rule
+
+Conditions para 179(1)(a), (b)
+
+14. The general drop-shipment rule applies where, under an agreement with an unregistered non-resident (other than a consumer), a registrant
+
+- makes a taxable supply in Canada of goods by way of sale to the non-resident,
+
+- makes a taxable supply in Canada to the non-resident of a service of manufacturing or producing goods, or
+
+- acquires physical possession of goods (other than goods of a person who is resident in Canada or is registered) for the purpose of making a taxable supply of a commercial service [Footnote1](#fn1) in respect of the goods to the non-resident person, and
+
+at any time, causes physical possession of the goods to be transferred in Canada to another person (referred to as a “consignee”) on behalf of the non-resident or to the non-resident.
+
+Transfer of physical possession para 179(1)(a)(ii)
+
+15. The transfer of the physical possession of the goods to another person at a place in Canada triggers the application of the general drop-shipment rule. In certain circumstances, there are deeming rules that apply with respect to the transfer of physical possession of goods. These rules are discussed beginning at paragraph 46 of this memorandum.
+
+Deemed supply of goods para 179(1)(c)
+
+16. Under the general rule, where the conditions described above are met, when the registrant transfers physical possession of the goods:
+
+- the registrant is deemed to have made to the non-resident person, and the non-resident person is deemed to have received from the registrant, a taxable supply of the goods;
+
+Deemed value of consideration para 179(1)(c.2)
+
+- the supply of goods is deemed to have been made for consideration that becomes due and is paid when physical possession of the goods transfers, equal to:
+
+    1. where the registrant has caused physical possession of the goods to be transferred to a consignee to whom the non-resident person has supplied the goods for no consideration, nil, and
+
+    2. in any other case, the fair market value of the goods at that time; and
+
+Supply in a participating province para 179(1)(c.1)
+
+- where physical possession of the goods is transferred at a place in a participating province, the supply is deemed to be made in the participating province;
+
+Service deemed not to be made para 179(1)(d)
+
+- where the registrant made a supply of a commercial service in respect of the goods to the non-resident person (except in the case of a supply of a service of storing or shipping the goods), the registrant is deemed not to have made that supply of the service.
+
+Consequences para 179(1)(c)
+
+17. The consequences of the application of the general rule are as follows:
+
+- Deeming the registrant to have made a taxable supply of the goods results in the registrant becoming liable to collect tax from the unregistered non-resident in respect of that supply.
+
+para 179(1)(c.2)
+
+- The value of the consideration for the deemed supply of the goods by the registrant to the non-resident is based on the fair market value of the goods (or is nil, in certain cases), rather than on the actual amount of consideration charged by the registrant for the supply. Although the non-resident may not be registered and its supply of the goods to a customer in Canada may be deemed to be made outside Canada, the registrant is effectively required to collect tax on a value for the goods that would have been subject to tax had the goods instead been acquired outside Canada from the non-resident and imported for final consumption. Subject to the application of certain relieving provisions (explained beginning at paragraph 19), the amount of unrecoverable tax charged by the registrant on the fair market value will likely be passed on by the non-resident in the form of a higher price to the customer in Canada. If so, the customer will generally end up paying a total amount to the non-resident for the goods that is equal to the total tax-included price that the customer would have otherwise had to pay had the non-resident been registered.
+
+para 179(1)(c.1)
+
+- The deeming of the supply of goods to be made in a participating province in certain cases results in the supplier being required to collect HST in respect of the supply.
+
+para 179(1)(d)
+
+- Deeming the registrant not to have supplied a commercial service in respect of the goods means that the registrant is not required to collect tax from the non-resident in respect of the supply of the service. The exclusion of a service of storing or shipping the goods from this deeming rule ensures that these services are still considered to have been supplied and generally subject to tax based on the normal GST/HST rules. It is important to note that a service of shipping the goods supplied by a carrier is already excluded from the application of the general rule since it is excluded from the definition of a commercial service. As previously indicated, the drop-shipment rules are triggered by the transfer of physical possession of the goods. As explained beginning at paragraph 55, a person who acquires physical possession of the goods for the sole purpose of supplying a service of storing or shipping the goods may be deemed in certain circumstances not to have acquired physical possession of the goods for purposes of the drop-shipment rules.
+
+Exceptions to the general rule s 179
+
+18. Again, it is important to note that there are several drop-shipment provisions that may override the general rule and deem the supply made by the registrant to be made outside Canada and consequently relieved of tax. These provisions are explained beginning at paragraph 19.
+
+ss 179(1)
+
+- An unregistered non-resident agrees to sell a good to a consumer in a non-participating province for its fair market value of $2,000[Footnote2](#fn2).
+
+- Pursuant to the agreement, delivery of the good to the consumer is to occur at the consumer’s premises in the non-participating province.
+
+- A registrant in a non-participating province agrees to sell the good to the non-resident for $1,500 and to deliver it to the consumer’s premises.
+
+The registrant has made a taxable supply of the good to the non-resident and caused physical possession of the good to be transferred to the consumer in Canada. Under the general drop-shipment rule, the registrant is deemed to have made a taxable supply of the good to the non-resident for consideration equal to the fair market value of the good of $2,000. As a result, the registrant is required to collect GST from the non-resident in respect of that supply of $100 (5% × $2,000).
+
+The non-resident is not required to collect tax in respect of its supply of the good to the consumer as it is a supply made outside Canada[Footnote3](#fn3). However, the $100 in GST that the non-resident was required to pay to the registrant is unrecoverable by the non-resident who may reflect it in the amount charged to the consumer for the good.
+
+### Example 2 — Sale of goods drop-shipped to a registrant
+
+ss 179(1)
+
+- An unregistered non-resident agrees to sell goods to a registered customer in a participating province for their fair market value of $100,000. The customer will resell the goods in the course of its business.
+
+- Pursuant to the agreement, delivery of the goods to the customer is to occur at the customer’s premises in the participating province.
+
+- The registered manufacturer of the goods who is located in a non-participating province agrees to sell the goods to the non-resident for $90,000 and to deliver them to the customer’s premises
+
+The manufacturer has made a taxable supply of the goods to the non-resident and caused physical possession of the goods to be transferred to the customer in Canada. Under the general drop-shipment rule, the manufacturer is deemed to have made a taxable supply of the goods to the non-resident for consideration equal to the fair market value of the goods of $100,000. The supply of the goods to the non-resident is deemed to be made in a participating province because physical possession of the goods is transferred to the customer at its premises in a participating province. As a result, the manufacturer is required to collect HST from the non-resident in respect of the supply of the goods of $13,000 (13% × $100,000).
+
+The non-resident is not required to collect tax in respect of its supply of the goods to the customer as it is a supply made outside Canada[Footnote4](#fn4). However, the $13,000 in HST that the non-resident was required to pay to the registrant is unrecoverable by the non-resident who may reflect it in the amount charged to the registered customer for the goods.
+
+Based on an input tax credit (ITC) flow-through mechanism[Footnote5](#fn5), the $13,000 in HST that the non-resident pays to the manufacturer may be recovered by the registered customer in the form of an ITC in certain circumstances. The application of the relief mechanism in this case is explained in example 38.
+
+It would have been possible in this example to have avoided the application of tax to the supply made to the non-resident had the registered customer issued a drop-shipment certificate to the manufacturer with respect to the goods. The conditions for issuing a drop-shipment certificate and their effect are explained in the following section beginning at paragraph 19. The application of the drop-shipment rules in this case where a drop-shipment certificate is issued by the customer is explained in example 8.
+
+### Example 3 — Sale of a good drop-shipped to a consumer
+
+ss 179(1)
+
+- A non-resident individual wishes to send a good as a gift to a resident consumer.
+
+- The non-resident individual places an order for the good with a non-resident retailer. The good is to be delivered to the resident consumer’s premises in a non-participating province.
+
+- The non-resident retailer agrees to sell the good to the non-resident individual for its fair market value of $100.
+
+- The non-resident retailer places an order for the good with a retailer that is located in the same city in Canada as the resident consumer.
+
+- The resident retailer charges the non-resident retailer $80 for the supply of the delivered good.
+
+- The resident consumer is not required to pay any consideration to anyone for the good.
+
+The registered retailer has made a taxable supply of the good to the non-resident retailer and has caused physical possession of the good to be transferred to another person (the resident consumer) in Canada. Therefore, under the general drop-shipment rule, the resident retailer is deemed to have made a taxable supply of the good to the non-resident retailer for consideration equal to its fair market value of $100. As a result, the resident retailer is required to collect GST from the non-resident retailer in respect of the supply of the good of $5 (5% × $100).
+
+### Example 4 — Supply of catalogues drop-shipped to residents for nil consideration
+
+ss 179(1)
+
+- An unregistered non-resident manufacturer supplies goods by way of sale on a worldwide basis.
+
+- The non-resident solicits orders in Canada for the supply of goods through direct marketing catalogues.
+
+- The non-resident enters into an agreement with a registrant for the supply of bilingual catalogues for the Canadian market to be delivered by mail directly to residents in Canada on behalf of the non-resident.
+
+- The registrant charges the non-resident $75,000 for its supply.
+
+Under the general drop-shipment rule, the registrant is deemed to have made a taxable supply of the catalogues to the non-resident for nil consideration. This is because the non-resident is supplying the catalogues to the residents for no consideration. As a result, the registrant is not required to collect tax from the non-resident in respect of that supply.
+
+### Example 5 — Supply of mailing house services on drop-shipped magazines
+
+ss 179(1) not applicable
+
+- A registered non-resident publisher contracts with an unregistered non-resident mailing house to provide mailing house services (e.g., packaging, labelling and mailing) for magazines to be shipped directly to the publisher’s customers.
+
+- The non-resident mailing house subcontracts the Canadian portion of the contract to a registered resident mailing house that will ship the magazines directly to the publisher’s customers in Canada.
+
+Although the resident mailing house is supplying a commercial service to the non-resident mailing house which is an unregistered non-resident, the general drop-shipment rule does not apply to that supply because it is in respect of goods that belong to a non-resident who is registered (i.e. the publisher).
+
+The unregistered non-resident mailing house is not required to collect tax on the supply of its service because it is deemed to be made outside Canada[Footnote6](#fn6).
+
+The registered mailing house is required to collect tax on the supply of the service provided to the unregistered non-resident mailing house calculated on the value of the consideration for the supply of the service.
+
+The registered non-resident publisher is required to collect tax on the supply of the magazines to its resident customers.
+
+### Example 6 — Supply of a commercial service on a good drop-shipped to a registrant
+
+ss 179(1)
+
+- An unregistered non-resident manufacturer agrees to sell a good to a registered customer in a non-participating province for its fair market value of $25,000.
+
+- The customer will use the good exclusively in the course of its commercial activities.
+
+- Pursuant to the agreement, delivery of the good to the customer is to occur at the customer’s premises in the non-participating province.
+
+- A commercial service must first be performed in respect of the good in order to satisfy the specifications of the customer pursuant to the sales agreement.
+
+- For consideration of $5,000, a registrant in a non-participating province agrees to perform the commercial service in respect of the good belonging to the non-resident and to deliver the good to the customer at its premises in the non-participating province.
+
+- The non-resident ships the good to the registrant at its premises in Canada.
+
+- The non-resident imports the good and pays tax on the importation.
+
+The registrant acquires physical possession of the unregistered non-resident’s good to perform a commercial service and causes physical possession of the good to be transferred to the registered customer in Canada. Under the general drop-shipment rule, the registrant is deemed to have made a taxable supply of the good to the non-resident for consideration equal to its fair market value of $25,000 and is deemed not to have supplied the commercial service to the non-resident. As a result, the registrant is required to collect tax from the non-resident in respect of the supply of the good of $1,250 (5% × $25,000).
+
+The non-resident is not required to collect tax in respect of its supply of the good to the customer as it is deemed to be made outside Canada[Footnote7](#fn7). However, the $1,250 in tax that the non-resident was required to pay to the registrant is unrecoverable by the non-resident who may reflect it in the amount charged to the customer for the good.
+
+Based on an input tax credit flow-through mechanism[Footnote8](#fn8), the $1,250 in tax that the non-resident pays to the registrant may be recovered by the registered customer in the form of an ITC in certain circumstances. This relief mechanism is explained beginning at paragraph 70.
+
+It would have been possible in this example to have avoided the application of tax to the supply made by the non-resident had the registered customer issued a drop-shipment certificate to the registrant with respect to the good. The conditions for issuing a drop-shipment certificate are explained in the following section beginning at paragraph 19. The application of the drop-shipment rules in this example where a drop-shipment certificate is issued by the registered customer is explained in example 12.
+
+### Example 7 — Supply of a commercial service on a zero-rated good drop-shipped to a registrant
+
+ss 179(1)
+
+- An unregistered non-resident supplier agrees to sell an unconditionally zero-rated good[Footnote9](#fn9) to a registered customer in a non-participating province at its fair market value of $50,000. The customer will use the good exclusively in the course of its commercial activities.
+
+- Pursuant to the agreement, delivery of the good to the customer is to occur at the customer’s premises in the non-participating province.
+
+- A commercial service must first be performed in respect of the good in order to satisfy the specifications of the customer pursuant to the sales agreement.
+
+- For consideration of $2,500, a registrant in a non-participating province agrees to perform the commercial service in respect of the good belonging to the non-resident and to deliver the good to the customer at its premises in the non-participating province.
+
+- The non-resident ships the good to the registrant at its premises in Canada.
+
+- The importation of the good by the non-resident is a non-taxable importation[Footnote10](#fn10).
+
+The registrant acquires physical possession of the good to make a taxable supply of a commercial service in respect of the good to the non-resident and causes physical possession of the good to be transferred to the registered customer in Canada. As a result, the registrant is deemed under the general drop-shipment rule to have made a taxable[Footnote11](#fn11) supply of the good to the non-resident for its fair market value of $50,000 and is deemed not to have made a supply of a commercial service to the non-resident. However, because the good that is supplied is zero-rated, the registrant is not required to collect tax in respect of that supply. Also, because the registrant is deemed not to have supplied the commercial service to the non-resident, the registrant is not required to collect tax in respect of the commercial service.
+
+## Exceptions to the general drop-shipment rule
+
+19. There are several provisions that provide exceptions to the general drop-shipment rule to relieve certain supplies made by a registrant to a non-resident from tax in drop-shipment situations. These provisions are essentially additional place of supply rules that deem supplies to unregistered non-residents to be made outside Canada, if certain conditions are met.
+
+### Drop shipment to registered consignee of unregistered non-resident and requirement to self-assess
+
+Exception where delivery to registered consignee ss 179(2)
+
+20. This exception to the general rule applies where the registered supplier in a drop-shipment situation transfers physical possession of goods to another registered person (the “consignee”) who has a potential tax obligation under the drop-shipment rules as a result of that transfer and provides the registrant with a drop-shipment certificate acknowledging that obligation.
+
+Conditions ss 179(2)
+
+21. Specifically, the exception applies where, under an agreement with an unregistered non-resident person (other than a consumer), a registrant:
+
+- makes a taxable supply in Canada of goods by way of sale to the non-resident, or
+
+- makes a taxable supply in Canada of a service of manufacturing or producing goods to the non-resident, or
+
+- acquires physical possession of goods (other than goods of a person who is resident in Canada) for the purpose of making a taxable supply of a commercial service in respect of the goods to the non-resident person, and
+
+- causes physical possession of the goods to be transferred, at a place in Canada, to a third person who is registered (referred to as a “consignee”) on behalf of the non-resident, and
+
+- the consignee gives to the registrant, and the registrant retains, a drop-shipment certificate (for information regarding drop-shipment certificates, refer to paragraph 24) that states the consignee’s name and Business Number and acknowledges that the consignee, on taking physical possession of the goods, is assuming liability to pay or remit any amount that is or may become payable by the consignee under the general rule or in respect of an imported taxable supply of the goods (explained beginning at paragraph 29).
+
+Supply deemed to be made outside Canada ss 179(2)
+
+22. Where the above conditions are met, the general rule does not apply and the supply made by the registrant (other than a supply of a service of shipping the goods) is deemed to be made outside Canada.
+
+Consequences ss 179(2)
+
+23. The consequences of this exception to the general rule are as follows:
+
+- The registrant is not required to collect tax on the supply that it makes to the unregistered non-resident (other than a supply of shipping the goods) as it is deemed to be made outside Canada.
+
+- The consignee who issues the drop-shipment certificate to the registrant acknowledges its potential tax obligation as a result of acquiring physical possession of the goods. This tax obligation may occur as a result of the general drop-shipment rule where the consignee is acquiring physical possession of the goods to supply a commercial service to the unregistered non-resident in respect of the goods or a service of manufacturing or producing goods for an unregistered non-resident. It may also occur as a result of an obligation to self-assess tax in respect of the goods where the consignee is a recipient of an imported taxable supply of the goods (explained beginning at paragraph 29).
+
+There are several examples of the application of this exception to the general rule beginning at paragraph 36.
+
+Drop-shipment certificates ss 179(2)
+
+24. Drop-shipment certificates ensure that a consignee acquiring physical possession of drop-shipped goods acknowledges and understands their potential tax liability with respect to the goods. A sample of a drop-shipment certificate acceptable to the CRA is provided in Appendix B.
+
+Acknowledgment of potential liability ss 179(2)
+
+25. It is important to note that the issuance of a drop-shipment certificate does not, on its own, impose a tax obligation with respect to the goods on a person who would not already have such a potential obligation. In order to issue a drop-shipment certificate that will result in the application of the exception to the general rule, a registered consignee must have a potential obligation to collect tax in relation to the goods based on the general drop-shipment rule or a potential tax obligation based on the fact that the consignee may be a recipient of an imported taxable supply. A registered person that does not have such a potential tax obligation and is acquiring physical possession of the goods may not issue a drop-shipment certificate to the registrant. A drop-shipment certificate that is issued to a registrant in this case will not result in the application of the exception to the general rule to the supply made by the registrant. The registrant will therefore generally continue to be liable to collect tax on the fair market value of the goods.
+
+Single/multiple drop-shipments ss 179(2)
+
+26. A drop-shipment certificate may be restricted to a single drop shipment or it may be a blanket certificate covering multiple drop shipments. The certificate must be sufficiently detailed to easily identify the drop shipments to which it relates.
+
+27. Drop-shipment certificates can be issued consecutively with respect to multiple physical transfers of drop-shipped goods that are processed in Canada by one or more registrants, provided the physical possession of the goods continues to be transferred to registered persons who acknowledge their potential tax obligation in respect of the goods by issuing drop-shipment certificates.
+
+Retroactive issuance of drop-shipment certificate ss 179(2), ss 232(1)
+
+28. A drop-shipment certificate may be issued to a registrant by a consignee at any time where the conditions outlined in paragraph 21 have been met, including after physical possession of the goods has transferred to the consignee. Where this is the case, the issuance of the drop-shipment certificate will have retroactive effect for GST/HST purposes. The exception to the general rule will apply retroactively. As a result, the general rule will not apply and the supply made by the registrant will be deemed to be made outside Canada. This includes where the registrant has collected an amount as tax on the supply to the unregistered non-resident based on the general rule having applied in the absence of a drop-shipment certificate. Where the registrant previously collected an amount as tax from the non-resident in such a case, the registrant may refund or credit the amount to the non-resident within two years of having collected the amount. If so, the registrant must within a reasonable time issue a credit note to, or obtain a debit note from, the non-resident for the amount containing prescribed information. The registrant may then claim a corresponding deduction in its net tax for the reporting period during which the credit note is issued.
+
+Tax on imported taxable supply Division IV
+
+29. Division IV imposes tax on an “imported taxable supply”. Generally, these are supplies that are made outside Canada and acquired by the recipient for consumption, use or supply in Canada otherwise than exclusively in the course of a commercial activity. The recipient, as opposed to the supplier, is required to account for tax on an imported taxable supply.
+
+Imported taxable supply of drop-shipped goods para 217(b)
+
+30. A registered consignee who issues a drop-shipment certificate triggering the application of the exception to the general rule is considered to be the recipient of an imported taxable supply where:
+
+- the consignee is a recipient of a taxable (other than zero-rated) supply of goods made by an unregistered non-resident person,
+
+- physical possession of the goods is transferred to the consignee in Canada by a registrant who either made a supply in Canada of the goods by way of sale, or a supply in Canada of a service of manufacturing or producing the goods, to a non-resident person, or acquired physical possession of the goods for the purpose of making a supply of a commercial service in respect of the goods to a non-resident person, and
+
+- the consignee is not acquiring the goods for consumption, use or supply exclusively in the course of its commercial activities or the good is a passenger vehicle that the consignee is acquiring for use in Canada as capital property in its commercial activities and that has a capital cost to the consignee exceeding the amount deemed[Footnote12](#fn12) to be the capital cost of the vehicle to the consignee for income tax purposes[Footnote13](#fn13).
+
+31. Deeming the consignee to be a recipient of an imported taxable supply of the drop-shipped goods in this case ensures that tax is paid on the goods where they are not acquired by the consignee exclusively for consumption, use or supply in the course of commercial activities and the consignee has issued a drop-shipment certificate that relieved the registrant of the obligation to collect tax on its supply of the goods to the non-resident.
+
+32. It is important to note that a consignee may be a recipient of an imported taxable supply of drop-shipped goods even if the unregistered non-resident who supplied the goods to the consignee is not the same non-resident who purchased the goods from the registrant to whom the consignee issued a drop-shipment certificate. Therefore, a drop-shipment certificate can be issued in certain circumstances where multiple unregistered non-residents are involved with a drop-shipment of goods.
+
+Imposition of tax s 218, ss 218.1(1)
+
+33. Where the consignee is a recipient of an imported taxable supply of the drop-shipped goods, the consignee must self-assess tax on the value of the consideration for the supply of the goods made by the unregistered non-resident to the consignee. The consignee is required to self-assess GST on the value of the consideration for the imported taxable supply or, HST on the value of the consideration for the imported taxable supply where physical possession of the drop-shipped goods is transferred to the registrant in a participating province[Footnote14](#fn14).
+
+When tax payable s 218.2
+
+34. The tax imposed on an imported taxable supply becomes payable on any amount of consideration for the supply at the time it is paid or becomes due, whichever is earlier.
+
+Time of payment/ filing for tax on imported taxable supplies s 219
+
+35. Registrants who are required to self-assess tax on imported taxable supplies are required to report that amount on their regular return and pay the tax payable on or before the due date for that return.
+
+ITCs ss 169(1)
+
+36. A registrant who must self-assess tax in respect of an imported taxable supply may be entitled to claim an ITC for the tax to the extent that the supply is for consumption, use, or supply in a commercial activity. Further information on ITCs is available in Chapter 8, [Input Tax Credits: Eligible ITCs](https://www.canada.ca/en/revenue-agency/services/forms-publications/gst-hst-memoranda-series-chapters-18.html) of the GST/HST Memoranda Series.
+
+ss 179(2)
+
+This example is identical to example 2 except that the registered customer issues a drop-shipment certificate to the manufacturer with respect to the goods.
+
+The manufacturer has made a taxable supply of goods to the non-resident and has caused physical possession of the goods to be transferred to another person (i.e. the customer) in Canada. The manufacturer is therefore potentially liable to collect tax on that supply based on the application of the general drop-shipment rule. However, the issuance of the drop-shipment certificate by the customer results in the general drop-shipment rule not applying to the supply of the goods made by the manufacturer and that supply being deemed to be made outside Canada. Therefore, the manufacturer is not required to collect tax from the non-resident in respect of the supply of the goods to the non-resident.
+
+The customer does not have an obligation to self-assess tax on the goods as a result of issuing the drop-shipment certificate since the customer is acquiring the goods for supply exclusively in the course of its commercial activities.
+
+The non-resident is not required to collect tax in respect of its supply of the goods to the customer as it is a supply made outside Canada[Footnote15](#fn15).
+
+#### Example 9 — Sale of goods drop-shipped to a registrant involved in non-commercial activities
+
+ss 179(2)
+
+- An unregistered non-resident agrees to sell goods at their fair market value of $50,000 to a registered company (that is not a financial institution) in a participating province. The registrant will use the goods 25% in the course of commercial activities and the remainder in the course of exempt activities.
+
+- The registered manufacturer of the goods who is located in a participating province agrees to sell them to the non-resident for $40,000.
+
+- Pursuant to the agreements, delivery of the goods to the registrant is to occur, and the manufacturer is to transfer physical possession of the goods to the registrant, at the manufacturer’s premises in the participating province.
+
+- The registrant issues a drop-shipment certificate to the manufacturer with respect to the goods.
+
+The manufacturer makes a taxable supply of goods to the non-resident and has caused physical possession of the goods to be transferred to another person in Canada. The manufacturer is therefore potentially liable to collect tax on the fair market value of that supply based on the application of the general drop-shipment rule. However, the issuance of the drop-shipment certificate by the registrant to the manufacturer results in the general drop shipment rule not applying to the supply of the goods made by the manufacturer and that supply being deemed to be made outside Canada. Therefore, the manufacturer is not required to collect tax from the non-resident in respect of the supply of the goods to the non resident.
+
+The registrant that issued the drop-shipment certificate and is acquiring the goods otherwise than for use exclusively in commercial activities is the recipient of an imported taxable supply. The registrant must self-assess HST in respect of the imported taxable supply at the rate of 13% on the value of the consideration for the supply of $50,000.
+
+The registrant may be eligible to claim an ITC for the portion of the tax that relates to its use of the goods in commercial activities as long as all the other ITC criteria are satisfied. This apportionment is based on the extent to which the goods are used to make taxable supplies for consideration.
+
+The non-resident is not required to collect tax in respect of its supply of the goods to the registrant since it is a supply made outside Canada[Footnote16](#fn16).
+
+#### Example 10 — Sale of goods drop-shipped to a registrant (four parties)
+
+ss 179(2)
+
+- An unregistered non-resident (unregistered non-resident supplier 1) agrees to purchase goods from a registrant and to resell the goods to a second unregistered non-resident (unregistered non-resident supplier 2).
+
+- Unregistered non-resident supplier 2 agrees to resell the goods to a registered manufacturer who will use them exclusively in its manufacturing activities.
+
+- The registrant agrees to deliver the goods to the premises of the manufacturer in Canada.
+
+- The manufacturer issues a drop-shipment certificate to the registrant with respect to the goods.
+
+The registrant has made a taxable supply of the goods to unregistered non-resident supplier 1 and caused physical possession of the goods to be transferred to another person in Canada. The registrant is therefore potentially liable to collect tax on the fair market value of the goods based on the application of the general drop-shipment rule. However, the issuance of the drop-shipment certificate by the manufacturer results in the general drop-shipment rule not applying to the supply of the goods made by the registrant and that supply being deemed to be made outside Canada. Therefore, the registrant is not required to collect tax from unregistered supplier 1 in respect of the supply of the goods.
+
+The manufacturer is a recipient of a supply of the goods made outside Canada by unregistered non-resident supplier 2. The unregistered non-residents are not required to collect tax in respect of their supplies of the goods since those supplies are made outside Canada[Footnote17](#fn17). The manufacturer does not have an obligation to self-assess tax in respect of the goods as a result of issuing the drop-shipment certificate since it is acquiring them for use exclusively in the course of its commercial activities.
+
+#### Example 11 — Sale of goods drop-shipped to a registrant (four parties)
+
+ss 179(2) not applicable
+
+- An unregistered non-resident agrees to purchase goods from a registered manufacturer and to resell the goods to a registered resident supplier.
+
+- The registered supplier agrees to resell the goods to a registered purchaser who will use them exclusively in its commercial activities.
+
+- The manufacturer agrees to deliver the goods to the premises of the registered purchaser in Canada.
+
+- Delivery of the goods supplied by the unregistered non-resident and the supplier occurs at the premises of the purchaser.
+
+The manufacturer has made a taxable supply of the goods to the unregistered non-resident and caused physical possession of the goods to be transferred to another person (the registered purchaser) in Canada. The manufacturer is therefore liable to collect tax on the fair market value of the goods based on the application of the general drop-shipment rule. The supply of the goods by the manufacturer may not be relieved of tax in this case by the issuance of a drop-shipment certificate.
+
+The registered purchaser is the recipient of a taxable supply of goods made in Canada by a registered supplier and is required to pay tax[Footnote18](#fn18) to the supplier in respect of that supply. As a result, the purchaser does not have a potential obligation to self-assess tax as a recipient of an imported taxable supply of the goods and may not issue a drop-shipment certificate to the manufacturer. The registered purchaser would be entitled to an ITC for the tax paid to the registered supplier since the goods are for use exclusively in the course of its commercial activities.
+
+The registered supplier is a recipient of a taxable supply of the goods made outside Canada by the non-resident. However, the registered supplier does not have a potential obligation to self-assess tax as a recipient of an imported taxable supply of the goods because the supplier does not acquire physical possession of the goods. Therefore, the registered supplier may not issue a drop-shipment certificate to the manufacturer. The registered supplier is required to collect tax on the supply of the goods made in Canada to the registered purchaser.
+
+Based on an input tax credit flow-through mechanism[Footnote19](#fn19), the amount of tax that the unregistered non-resident pays to the manufacturer may be recovered by the registered supplier in the form of an ITC in certain circumstances. This relief mechanism is explained beginning at paragraph 70.
+
+#### Example 12 — Supply of a commercial service on a good drop-shipped to a registrant
+
+ss 179(2)
+
+The facts in this case are the same as in example 6 except that the customer issues a drop-shipment certificate to the registrant.
+
+The registrant acquires physical possession of a good of the non-resident to make a taxable supply of a commercial service in respect of the good. Also, the registrant causes physical possession to be transferred to another person in Canada (the registered customer). The registrant is therefore potentially liable to collect tax on the fair market value of the good based on the application of the general drop-shipment rule. However, the issuance of the drop-shipment certificate by the customer results in the general drop-shipment rule not applying to the supply made by the registrant and that supply being deemed to be made outside Canada. Therefore, the registrant is not required to collect tax from the non-resident in respect of this supply of the good.
+
+The customer is a recipient of a supply of the good made outside Canada by the non-resident. The non-resident is not required to collect tax in respect of their supply of the good since it is made outside Canada[Footnote20](#fn20). The customer does not have an obligation to self-assess tax in respect of the good as a result of issuing the drop-shipment certificate since the customer is acquiring it for use exclusively in the course of its commercial activities.
+
+#### Example 13 — Supply of a commercial service on a good drop-shipped to a registrant (four parties)
+
+ss 179(2)
+
+- An unregistered non-resident supplier agrees to make a taxable supply of a good to a registered customer who will use the good exclusively in the course of its commercial activities.
+
+- Delivery of the good is to occur at the premises of the customer in a non-participating province.
+
+- The non-resident agrees to purchase the good from a registered manufacturer and to deliver it to the premises of the registered customer.
+
+- The good belonging to the non-resident must be inspected once it arrives at the premises of the customer. Since the non-resident does not normally supply goods in Canada, it hires a registrant to test the good at the premises of the customer. The registrant charges the non-resident $2,000 for this service.
+
+- The customer issues a drop-shipment certificate to the manufacturer.
+
+The manufacturer makes a taxable supply of the good to the non-resident and causes physical possession of the good to be transferred to another person in Canada (the registered customer). The manufacturer is therefore potentially liable to collect tax on the fair market value of the good based on the application of the general drop-shipment rule. However, the issuance of the drop-shipment certificate by the customer results in the general drop-shipment rule not applying to the supply made by the manufacturer and that supply being deemed to be made outside Canada. Therefore, the manufacturer is not required to collect tax from the non-resident in respect of the supply of the good.
+
+Although the registrant performing the testing service is making a taxable supply of a commercial service in respect of the good to the non-resident, the drop-shipment rules do not apply to that supply. This is because the registrant is performing its service at the premises of the customer and is therefore not considered to have acquired physical possession of the good. As a result, the registrant is not liable to collect tax on a deemed supply of the good to the non-resident based on the general drop-shipment rule. Furthermore, the customer may not issue a drop-shipment certificate to the registrant with respect to the good. The registrant is required to collect tax of $100 on the consideration of $2,000 for its supply of the testing service to the non-resident.
+
+The customer is a recipient of a supply of the good made outside Canada by the non-resident. The non-resident is not required to collect tax in respect of their supply of the good since it is made outside Canada[Footnote21](#fn21). The customer does not have an obligation to self-assess tax in respect of the good as a result of issuing the drop-shipment certificate since the customer is acquiring it for use exclusively in the course of its commercial activities
+
+#### Example 14 — Supply of a commercial service on a good drop-shipped to a registrant (four parties)
+
+ss 179(2)
+
+The facts in this example are the same as in the previous example, except that:
+
+- The good is delivered by the manufacturer to the premises of the registrant so that the testing service can be performed at that location.
+
+- Once the testing service is performed in respect of the good belonging to the non-resident, the registrant is to deliver the good to the premises of the customer.
+
+- The registrant issues a drop-shipment certificate to the manufacturer and the customer issues a drop-shipment certificate to the registrant.
+
+The manufacturer has made a taxable supply of the good to the non-resident and has caused physical possession of the good to be transferred to another person (i.e. the registrant) in Canada. The manufacturer is therefore potentially liable to collect tax on that supply based on the application of the general drop-shipment rule. However, the issuance of the drop-shipment certificate by the registrant results in the general drop-shipment rule not applying to the supply of the good made by the manufacturer and that supply being deemed to be made outside Canada. Therefore, the manufacturer is not required to collect tax from the unregistered non-resident in respect of the supply of the good to the unregistered non-resident.
+
+The registrant is considered in this case to have acquired physical possession of the good of the unregistered non-resident in order to supply a taxable commercial service to the unregistered non-resident and causes physical possession of the good to be transferred to another person (i.e. the customer) in Canada. The registrant is therefore potentially liable to collect tax based on the application of the general drop-shipment rule. However, the issuance of the drop-shipment certificate by the customer results in the general drop-shipment rule not applying to the supply made by the registrant and that supply being deemed to be made outside Canada. Therefore, the registrant is not required to collect tax from the unregistered non-resident in respect of the supply of the testing service to the unregistered non-resident.
+
+The customer is a recipient of a supply of the good made outside Canada by the unregistered non-resident. The unregistered non-resident is not required to collect tax in respect of their supply of the good since it is made outside Canada[Footnote22](#fn22). The customer does not have an obligation to self-assess tax in respect of the good as a result of issuing the drop-shipment certificate since the customer is acquiring it for use exclusively in the course of its commercial activities.
+
+#### Example 15 — Supply of an installed good and installation service (four parties)
+
+ss 179(2) not applicable
+
+- An unregistered non-resident manufacturer agrees to supply a good on an installed basis to a registered customer at its fair market value of $100,000.
+
+- The customer will use the good exclusively in the course of its commercial activities.
+
+- The good is to be installed in real property at the customer’s premises in a non-participating province.
+
+- Delivery of the good is to occur at the premises of the customer. The customer obtains ownership of the good once it is installed.
+
+- A registrant (registrant 1) agrees to supply an inspection service to the unregistered non-resident in respect of the good after it arrives at the premises of the registered customer. The consideration for the supply of the inspection services is $1,000.
+
+- A second registrant (registrant 2) enters into an agreement with the unregistered non-resident to install the good at the premises of the customer for $5,000.
+
+- The non-resident imports the good, pays the tax on the importation of the good and delivers it to the customer.
+
+- Registrants 1 and 2 each perform their respective service relating to the good at the premises of the customer.
+
+Although registrant 1 and registrant 2 are each making a taxable supply of a commercial service in respect of the good to the unregistered non-resident, the drop-shipment rules do not apply in this case. This is because neither registrant is considered to have acquired physical possession of the good. As a result, registrant 1 and registrant 2 are not liable to collect tax on a deemed supply of the good to the unregistered non-resident based on the general drop-shipment rule. Furthermore, the customer may not issue a drop-shipment certificate to registrant 1 and registrant 2 with respect to the good.
+
+Registrant 1 is required to collect tax of $50 on the consideration of $1,000 for its supply of the inspection service to the unregistered non-resident.
+
+Registrant 2 is required to collect tax of $250 on the consideration of $5,000 for its supply of the installation service to the unregistered non-resident. A rebate of this tax would be available to the unregistered non-resident as explained in example 46.
+
+If the unregistered non-resident provides the customer with a copy of the import documentation, the customer will be entitled to an ITC equal to the tax paid by the unregistered non-resident on the importation based on the ITC flow-through mechanism as explained beginning at paragraph 70.
+
+### Drop-shipped goods subsequently exported
+
+Exported goods ss 179(3)
+
+37. Another exception to the general rule occurs where drop-shipped goods are directly exported or transferred to a third person who intends to export the goods.
+
+Conditions para 179(3)(a)
+
+38. Specifically, the exception applies where a registrant, under an agreement with an unregistered non-resident (other than a consumer),
+
+- makes a taxable supply in Canada of goods by way of sale to the non-resident person, or
+
+- makes a taxable supply in Canada of a service of manufacturing or producing goods, to the non-resident person, or
+
+- acquires physical possession of the goods (other than goods of a person who is resident in Canada) for the purpose of making a taxable supply of a commercial service in respect of the goods to the non-resident person,
+
+and the goods are exported as described in the following paragraph.
+
+39. For the exception to apply, the registrant must either:
+
+subpara 179(3)(c)(i)
+
+- cause physical possession of the goods to be transferred to a person at a place outside Canada, or
+
+- cause physical possession to be transferred to a carrier, or mail the goods, for export and delivery to a person at a place outside Canada, or
+
+subpara 179(3)(c)(ii)
+
+- cause physical possession of the goods to be transferred at a place in Canada to the non-resident person or any other person (each referred to as an “exporter”) for export in the following circumstances:
+
+    - after physical possession of the goods is transferred to the exporter, the exporter exports the goods as soon as is reasonable given the circumstances surrounding the exportation and, if applicable, in accordance with the normal business practices of the exporter and the owner of the goods,
+
+    - the goods have not been acquired by the non-resident person or any owner for consumption, use or supply in Canada at any time after physical possession of the goods is transferred to the exporter and before it is exported (there is an exception to this condition with respect to railway rolling stock as explained in paragraph 45),
+
+    - after physical possession of the goods is transferred to the exporter and before the goods are exported, they are not further processed, transformed or altered, except to the extent reasonably necessary or incidental to its transportation, and
+
+    - the registrant maintains satisfactory evidence that the goods have been exported, or, in the case of an exporter authorized to use the Export Trading House Program, will be exported. The evidence of exportation must enable the entire shipment of goods to be traced from its origin in Canada to its destination outside Canada. Detailed information on what constitutes satisfactory evidence of exportation is available in GST/HST Memorandum 4.5.2, [Exports – Tangible Personal Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-5-2.html).
+
+Requirement to export as soon as is reasonable subpara 179(3)(c)(ii)
+
+40. Whether goods are exported as soon after physical possession of the goods is transferred to the exporter as is reasonable will depend on the facts of each situation, including the type of goods involved and the general business practices of the exporter. The following factors will be considered where the supplier can provide documentary evidence why the goods were not exported either immediately after the supply was made, or in the time frame originally anticipated:
+
+- a late shipment from a subcontractor delays the shipment of the whole consignment;
+
+- transportation obstacles have been encountered;
+
+- some goods are held in inventory while awaiting delivery of other goods before exporting all of the goods at once;
+
+- the delay is attributable to the owner’s and exporter's normal business practice; or
+
+- other circumstances have resulted in unexpected delays.
+
+Exception ss 179(3)
+
+41. Where the above conditions are met, the general rule does not apply and the supply made by the registrant (other than a supply of a service of shipping the goods) is deemed to be made outside Canada.
+
+Consequences ss 179(3)
+
+42. The consequence of the exception to the general rule is that the registrant is not required to collect tax on the supply that it makes to the unregistered non-resident as it is deemed to be made outside Canada.
+
+43. By deeming the supply made by the registrant to be a supply made outside Canada, this exception is effectively a place of supply rule that overrides the general place of supply rules[Footnote23](#fn23) and the zero-rating export rules[Footnote24](#fn24) for goods and services where such supplies are made to unregistered non-residents. The application of the exception results in a sale of exported goods made to an unregistered non-resident being relieved of tax in circumstances similar to those in which a sale of goods could be zero-rated as a result of being exported[Footnote25](#fn25). However, it is important to note that with respect to supplies made to unregistered non-residents, the exception provides broader relief than that provided under the general zero-rating rules for exported goods. For instance, the provision does not require that the goods be exported by the recipient of the supply made by the registrant as the zero-rating provision[Footnote26](#fn26) does. The supply of goods by the registrant may also be relieved of tax as a result of the exception if the goods are given by the registrant to a subsequent purchaser for export. The application of the exception also results in certain supplies of services in respect of the goods being relieved of tax where they would not otherwise qualify for zero-rating as an export.
+
+44. There are several examples of the application of this exception to the general rule beginning at example 16.
+
+Railway rolling stock ss 179(7)
+
+45. As indicated in paragraph 39, one of the conditions of this exception to the general drop-shipment rule is that the goods not be used in Canada after physical possession is transferred to the exporter and before the goods are exported. However, there is an exception to this requirement in the case of exported railway rolling stock. Specifically, the use of railway rolling stock to transport goods or passengers in the course of its exportation will not disqualify it from tax-free treatment under the drop-shipment rules, provided that it is exported within 60 days after physical possession transfers to the exporter.
+
+subpara 179(3)(c)(i), ss 179(2)
+
+- An unregistered non-resident agrees to purchase goods from a registrant for use in its commercial activities outside Canada.
+
+- Pursuant to the agreement, delivery of the goods to the non-resident is to occur in Canada at the premises of a registered service provider.
+
+- The service provider has been hired by the non-resident to test the non-resident’s goods at its testing facilities and to then transport and deliver them to the non-resident’s premises outside Canada.
+
+- The service provider gives a drop-shipment certificate to the registrant upon receiving physical possession of the goods from the registrant.
+
+The issuance of the drop-shipment certificate by the registered service provider to the registrant results in the general drop-shipment rule not applying to the supply of the goods made by the registrant and that supply being deemed to be made outside Canada. Therefore, the registrant is not required to collect tax from the non-resident in respect of the supply of the goods to the non-resident.
+
+The service provider causes physical possession of the goods to be transferred to a person outside Canada (i.e. the non-resident) resulting in the exception applying to the supply of the commercial service made by the service provider. The general drop-shipment rule therefore does not apply to the supply of the commercial service and the commercial service is deemed to have been supplied outside Canada. The service provider is not required to collect tax in respect of its supply of the commercial service to the non-resident.
+
+Because the service provider causes physical possession of the goods to be transferred to a person outside Canada, the general drop-shipment rule would not have applied in this case. However, in the absence of the application of the exception in this case, the commercial service would not have otherwise been relieved of tax.
+
+#### Example 17 — Transfer of goods to a person other than a non-resident recipient outside Canada
+
+subpara 179(3)(c)(i), ss 179(2)
+
+The facts in this example are the same as in the previous example except that:
+
+- the non-resident has hired a second unregistered non-resident service provider to perform a further commercial service in respect of its goods outside Canada;
+
+- pursuant to the agreement with the non-resident, the registered service provider is to transport and deliver the goods to the non-resident service provider at its premises outside Canada;
+
+- after it performs a commercial service, the non-resident service provider is to deliver the goods to the non-resident at its premises outside Canada.
+
+The issuance of the drop-shipment certificate by the registered service provider to the registrant results in the general drop-shipment rule not applying to the supply of the goods made by the registrant and that supply being deemed to be made outside Canada. Therefore, the registrant is not required to collect tax from the non-resident in respect of the supply of the goods to the non-resident.
+
+The registered service provider causes physical possession of the goods to be transferred to a person outside Canada (i.e. the non-resident service provider) resulting in the exception applying to the supply of the commercial service made by the service provider. The general drop-shipment rule is therefore deemed not to apply to that supply of the commercial service and it is deemed to have been supplied outside Canada. The service provider is not required to collect tax in respect of its supply of the commercial service to the non-resident.
+
+Because the service provider causes physical possession of the goods to be transferred to a person outside Canada, the general drop-shipment rule would not have applied in this case. However, in the absence of the application of the exception in this case, the commercial service would not have otherwise been relieved of tax.
+
+The commercial service performed by the non-resident service provider outside Canada is a supply made outside Canada[Footnote27](#fn27).
+
+#### Example 18 — Transfer of goods to a carrier for export (four parties)
+
+subpara 179(3)(c)(i), ss 179(2)
+
+- An unregistered non-resident supplier supplies goods by way of sale on a worldwide basis.
+
+- The non-resident supplier hires a registered manufacturer in Canada to manufacture the goods.
+
+- The goods are manufactured in Canada for the non-resident supplier to satisfy existing orders received by the non-resident supplier from its non-resident customers.
+
+- The non-resident supplier purchases the raw materials necessary to manufacture the goods from a registrant who agrees to deliver the raw materials to the manufacturer as required for use in the manufacturing process.
+
+- Pursuant to the agreement, delivery of the raw materials to the non-resident is to occur in Canada at the premises of the manufacturer.
+
+- The manufacturer gives a drop-shipment certificate to the registrant upon receiving physical possession of the raw materials from the registrant.
+
+- The non-resident owns both the raw materials throughout the manufacturing process and the resulting finished goods.
+
+- The manufacturer agrees to deliver the finished goods to the non-resident’s customers outside Canada.
+
+- The manufacturer hires a carrier to transport the goods to the non-resident’s customers’ premises outside Canada.
+
+The registrant has supplied raw materials to the non-resident and caused physical possession of the raw materials to be transferred to another person in Canada. The registrant is therefore potentially liable to collect tax on its supply of raw materials to the non-resident based on the general drop-shipment rule. However, the issuance of the drop-shipment certificate by the manufacturer to the registrant results in the general drop-shipment rule not applying to the supply of the raw materials made by the registrant to the non-resident and that supply being deemed to be made outside Canada. Therefore, the registrant is not required to collect tax from the non-resident in respect of that supply.
+
+The manufacturer has supplied a manufacturing service to the non-resident and caused physical possession of the finished goods to be transferred to another person in Canada. The manufacturer is therefore potentially liable to collect tax on the fair market value of a deemed supply of the finished goods to the non-resident based on the general drop-shipment rule. However, the manufacturer causes physical possession of the finished goods to be transferred to the carrier for export and delivery to persons at a place outside Canada (i.e. the unregistered non-resident customers) resulting in the exception applying to the supply of the manufacturing service made by the manufacturer. The general drop-shipment rule therefore does not apply to that supply of the manufacturing service. The manufacturer is consequently not required to collect tax in respect of its supply of the manufacturing service to the non-resident.
+
+#### Example 19 — Transfer of a good to a non-resident recipient for export
+
+subpara 179(3)(c)(ii)
+
+- An unregistered non-resident enters into an agreement with a registrant to purchase a good for use in its activities outside Canada.
+
+- The non-resident takes delivery of the good at the registrant’s premises in Canada and exports the good the same day.
+
+The registrant causes physical possession of the good to be transferred to the non-resident in Canada for export. Provided the registrant maintains satisfactory evidence of the exportation of the good, the general drop-shipment rule will not apply and the supply of the good will be deemed to be made outside Canada. As a result, the registrant is not required to collect tax from the non-resident in respect of the supply of the good to the non-resident.
+
+#### Example 20 — Transfer of goods to a person other than a non-resident recipient for export (five parties)
+
+subpara 179(3)(c)(ii), ss 179(2)
+
+- An unregistered non-resident supplier agrees to sell goods to an unregistered non-resident customer that will use the goods at its facilities outside Canada.
+
+- The non-resident supplier purchases unfinished goods from a registered manufacturer. Pursuant to the agreement, the manufacturer is to deliver the goods to the non-resident supplier at the premises of a registered service provider (registrant 1) in Canada that has been hired by the non-resident supplier to perform a commercial service in respect of the non-resident supplier’s goods. Registrant 1 issues a drop-shipment certificate to the manufacturer with respect to the goods.
+
+- Pursuant to the agreement with the non-resident, registrant 1 is to then deliver the goods to a second registered service provider (registrant 2) in Canada that has been hired by the non-resident supplier to conduct a quality control service in respect of the non-resident supplier’s goods that involves inspecting and testing them. Registrant 2 issues a drop-shipment certificate to registrant 1 with respect to the goods.
+
+- Delivery of the finished goods to the non-resident customer is to occur at the premises of registrant 2.
+
+- The non-resident customer picks up the goods at the premises of registrant 2 for immediate exportation and provides registrant 2 with evidence that the goods were exported.
+
+The issuance of the drop-shipment certificate by registrant 1 results in the general drop-shipment rule not applying to the supply of the goods made by the manufacturer and that supply being deemed to be made outside Canada. Therefore, the manufacturer is not required to collect tax in respect of the supply of the goods to the non-resident.
+
+The issuance of the drop-shipment certificate by registrant 2 results in the general drop-shipment rule not applying to the supply of the service made by registrant 1 and that supply being deemed to be made outside Canada. Therefore, registrant 1 is not required to collect tax in respect of the supply of the commercial service to the non-resident.
+
+Registrant 2 causes physical possession of the goods to be transferred to the non-resident customer in Canada for export. Provided registrant 2 maintains satisfactory evidence of the exportation of the goods, the general drop-shipment rule will not apply and the supply of the commercial service will be deemed to be made outside Canada. As a result, registrant 2 will not be required to collect tax in respect of the supply of the testing service to the non-resident supplier.
+
+## Retention of physical possession
+
+ss 179(4)
+
+46. The drop-shipment rules also apply where a registrant sells goods to an unregistered non-resident, but physical possession of the goods is retained after that time by the registrant or another registrant[Footnote28](#fn28).
+
+Conditions para 179(4)(b)
+
+47. Specifically, the rules apply where a registrant transfers ownership of goods to an unregistered non-resident and the registrant, or another registrant who has physical possession of the goods at that time and gives a registrant a drop-shipment certificate, retains physical possession of the goods for the purpose of:
+
+- (a) transferring physical possession of the goods to the non-resident person, a subsequent purchaser or another person designated by the non-resident person or a subsequent purchaser;
+
+- (b) supplying a commercial service in respect of the goods to the non-resident person or a subsequent purchaser; or
+
+- (c) consumption, use or supply by that registrant, pursuant to an agreement for a supply of the goods made by way of sale or lease to that registrant by the non-resident person, by a subsequent purchaser or by a lessee or sub-lessee of the non-resident person or of the subsequent purchaser.
+
+Sale-leaseback and requirement to register
+
+48. With respect to the third circumstance described in (c) above, it is important to note that a non-resident who enters into a sale-leaseback agreement with a registrant with respect to goods will be considered to be carrying on business in Canada for GST/HST purposes where delivery of the goods pursuant to the agreement occurs in Canada. As a result, the non-resident lessor will be required to register for GST/HST and to collect tax in respect of the supplies of the goods by way of lease to the registrant. For additional information, refer to GST/HST Policy Statement P-051R2, [Carrying on Business in Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-051r2.html).
+
+Deeming rule where registrant retains physical possession para 179(4)(c)
+
+49. Where the conditions in paragraph 47 are met and the registrant retaining physical possession of the goods is the same registrant who sells the goods to the non-resident, the registrant is deemed at the time ownership of the goods transfers:
+
+- to have transferred physical possession of the goods to another registrant and to have obtained a drop-shipment certificate from that other registrant, and
+
+- to have acquired physical possession of the goods for the purpose for which physical possession of the goods is being retained.
+
+Consequences
+
+50. Deeming the registrant to have transferred physical possession of the goods to another registrant and to have obtained a drop-shipment certificate results in the supply of the goods made by the registrant to the non-resident being deemed to be made outside Canada under the exception to the general rule explained beginning at paragraph 20[Footnote29](#fn29). The registrant is therefore not required to collect tax in respect of the supply of the goods when ownership transfers to the non-resident.
+
+51. However, deeming the registrant to have subsequently acquired physical possession of the goods for the purpose for which they are retained will result in the general drop-shipment rule applying when the registrant subsequently transfers physical possession of the goods to another person. The conditions for the previously explained exceptions to the general drop-shipment rule would then have to be met for the registrant to be relieved of the obligation to collect tax on the deemed supply of the goods. As a result, the overall effect of the deeming rule is to defer the application of the general drop-shipment rule until there is an actual transfer of physical possession of the goods.
+
+Where another registrant retains physical possession para 179(4)(d)
+
+52. Where the conditions in paragraph 47 are met and a registrant, other than the registrant who sells the goods to the non-resident, retains physical possession of the good after they are sold to the non-resident, at the time ownership of the goods transfers:
+
+- the registrant who sells the goods to the non-resident is deemed to have transferred physical possession of the goods to the other registrant at that time, and
+
+- the other registrant is deemed to have acquired physical possession of the goods at that time for the purpose for which physical possession of the goods is being retained.
+
+Consequences
+
+53. Deeming physical possession of the goods to have been transferred to the other registrant who retains physical possession of the goods and issues a drop-shipment certificate to the registrant results in the supply of the goods by the registrant to the non-resident being deemed to be made outside Canada. As a result, the registrant is not required to collect tax in respect of the supply of the goods to the non-resident.
+
+54. However, the deeming rule also results in the other registrant becoming potentially liable to collect tax based on the general drop-shipment rule or having to self-assess tax in respect of the goods. Therefore, the overall effect of the deeming rule is that the drop-shipment rules will apply as if the other registrant had only acquired physical possession of the goods after ownership of the goods transferred to the non-resident.
+
+para 179(4)(c), ss 179(3)
+
+- A registered manufacturer agrees to sell a good to an unregistered non-resident supplier.
+
+- The manufacturer also agrees to subsequently retain physical possession of the good for the purpose of making a supply of a commercial service to the non-resident.
+
+- Delivery of the processed good is to occur at the manufacturer’s premises in Canada.
+
+- After the commercial service is performed, the non-resident picks up the processed good at the manufacturer’s premises and exports it as soon as possible.
+
+The manufacturer retains physical possession of the good after ownership of the good transfers to the non-resident supplier for the purpose of supplying a commercial service to the non-resident in respect of the good. The manufacturer is therefore deemed to have transferred physical possession of the good to another registrant and to have obtained a drop-shipment certificate resulting in the supply of the good to the non-resident being deemed to be made outside Canada. The manufacturer is therefore not required to collect tax in respect of the supply of the good when ownership transfers to the non-resident.
+
+The manufacturer is also deemed to have subsequently acquired physical possession of the good for the purpose of making a supply of a commercial service to the non-resident in respect of the good. The manufacturer is therefore potentially liable based on the general drop-shipment rule to collect tax on a deemed supply of the good to the non-resident when physical possession of the good transfers to the non-resident. However, the registrant causes physical possession of the goods to be transferred to the non-resident in Canada for export. Provided the registrant maintains satisfactory evidence of the exportation of the good, the general drop-shipment rule will not apply and the supply will be deemed to be made outside Canada[Footnote30](#fn30). As a result, the registrant is not required to collect tax from the non-resident supplier in respect of this supply.
+
+### Example 22 — Good retained by a registrant to transfer to a subsequent purchaser who issues drop-shipment certificate
+
+para 179(4)(c), ss 179(2)
+
+- An unregistered non-resident supplier receives an order from a registered customer in a non-participating province for the purchase of a good and agrees to sell the good to the customer. The customer will use the good exclusively in the course of its commercial activities.
+
+- A registered manufacturer of the good agrees to sell the good to the non-resident supplier.
+
+- Ownership of the good transfers to the non-resident supplier when the agreement is entered into with the manufacturer.
+
+- Delivery of the good and transfer of ownership of the good to the customer are to occur at the manufacturer’s premises when the customer picks up the good.
+
+- Further to the customer’s request, the manufacturer agrees to retain physical possession of the good at its premises in Canada for a period of two weeks until the customer is ready to pick up the good at the manufacturer’s premises.
+
+- The customer issues a drop-shipment certificate to the manufacturer when it picks up the good at the manufacturer’s premises.
+
+The manufacturer retains physical possession of the good after ownership of the good transfers to the non-resident supplier for the purpose of transferring physical possession of the good to a subsequent purchaser. Therefore, the manufacturer is deemed to have transferred physical possession of the good to another registrant and to have obtained a drop-shipment certificate resulting in the supply of the good to the non-resident being deemed to be made outside Canada. The manufacturer is therefore not required to collect tax in respect of the supply of the good when ownership transfers to the non-resident.
+
+The manufacturer is also deemed to have subsequently acquired physical possession of the good for the purpose of transferring the good to a subsequent purchaser. The manufacturer is therefore potentially liable based on the general drop-shipment rule to collect tax on the deemed supply of the good to the non-resident when physical possession of the good transfers to the customer. However, the issuance of the drop-shipment shipment certificate by the customer results in the general drop-shipment rule not applying to the supply of the good made by the manufacturer and that supply being deemed to be made outside Canada[Footnote31](#fn31). Therefore, the manufacturer is not required to collect tax from the non-resident in respect of the supply of the good to the non-resident.
+
+The registered customer does not have an obligation to self-assess tax on the good as a result of issuing the drop-shipment certificate since it is acquiring the good for supply exclusively in the course of its commercial activities.
+
+The non-resident is not required to collect tax in respect of its supply of the good to the registered customer, as it is a supply made outside Canada[Footnote32](#fn32).
+
+### Example 23 — Goods retained by a registrant until purchaser found, and then exported
+
+para 179(4)(c) ss 179(3)
+
+- A registrant agrees to sell goods to an unregistered non-resident supplier and agrees to retain physical possession of the goods for the purpose of transferring physical possession of them to a subsequent purchaser.
+
+- A few weeks later, the non-resident agrees to sell the goods to an unregistered non-resident customer.
+
+- Delivery of the goods to the non-resident customer occurs at the registrant’s premises in Canada.
+
+- The non-resident customer picks up the goods at the registrant’s premises and exports them as soon as is possible.
+
+The registrant retains physical possession of the goods after ownership of the goods transfers to the non-resident supplier for the purpose of transferring physical possession of the goods to a subsequent purchaser. Therefore, the registrant is deemed to have transferred physical possession of the goods to another registrant and to have obtained a drop-shipment certificate resulting in the supply of the goods to the non-resident being deemed to be made outside Canada. The registrant is therefore not required to collect tax in respect of the supply of the goods when ownership transfers to the non-resident supplier.
+
+The registrant is also deemed to have subsequently acquired physical possession of the goods for the purpose of transferring them to a subsequent purchaser. The registrant is therefore potentially liable based on the general drop-shipment rule to collect tax on the supply of the goods to the non-resident supplier when physical possession of the goods transfers to the non-resident customer. However, the registrant causes physical possession of the goods to be transferred to the non-resident customer in Canada for export. Provided the registrant maintains satisfactory evidence of the exportation of the goods, the general drop-shipment rule will not apply and the supply will be deemed to be made outside Canada[Footnote33](#fn33). As a result, the registrant is not required to collect tax from the non-resident supplier in respect of its supply to the non-resident supplier.
+
+### Example 24 — Goods retained by a registrant to supply a commercial service to a subsequent purchaser, and exported
+
+para 179(4)(c) ss 179(3)
+
+- A registrant agrees to sell goods to an unregistered non-resident supplier.
+
+- The registrant also agrees to subsequently retain physical possession of the goods after ownership of the goods has been transferred to the non-resident for the purpose of making a supply of a commercial service to the non-resident supplier’s customer in respect of the goods. The customer is an unregistered non-resident.
+
+- The processed goods are to then be delivered at the registrant’s premises in Canada to the non-resident’s customer who will subsequently export the goods.
+
+- Once the service is completed, the non-resident takes physical possession of the processed goods and exports them as soon as possible.
+
+The registrant retains physical possession of the goods after ownership of the goods transfers to the non-resident supplier for the purpose of supplying a commercial service to the non-resident’s customer in respect of the goods. The registrant is therefore deemed to have transferred physical possession of the goods to another registrant and to have obtained a drop-shipment certificate resulting in the supply of the goods to the non-resident supplier being deemed to be made outside Canada. The registrant is therefore not required to collect tax in respect of the supply of the goods when ownership transfers to the non-resident supplier.
+
+The registrant is also deemed to have subsequently acquired physical possession of the goods for the purpose of making a supply of a commercial service to the non-resident’s customer in respect of the goods. The registrant is therefore potentially liable based on the general drop-shipment rule to collect tax on a deemed supply of the processed goods to the non-resident supplier’s customer when physical possession of the goods transfers to the customer. However, the registrant causes physical possession of the processed goods to be transferred to the non-resident in Canada for export. Provided the registrant maintains satisfactory evidence of the exportation of the processed goods, the general drop-shipment rule will not apply and the supply will be deemed to be made outside Canada[Footnote34](#fn34). As a result, the registrant is not required to collect tax from the non-resident in respect of this supply.
+
+### Example 25 — Goods retained by a registrant for subsequent transfer to a manufacturer, and exported (four parties)
+
+para 179(4)(c), ss 179(2), (3)
+
+- An unregistered non-resident supplier agrees to purchase raw materials from a registrant.
+
+- The registrant agrees to retain possession of the raw materials until they are required by the registered manufacturer that has been hired by the non-resident to manufacture goods using the raw materials.
+
+- The registrant ships the raw materials to the manufacturer at its premises in Canada when directed by the non-resident and the manufacturer provides the registrant with a drop-shipment certificate with respect to the raw materials.
+
+- The goods are manufactured in Canada for the non-resident supplier to satisfy orders received by the non-resident supplier from its non-resident customers.
+
+- The manufactured goods are to be delivered to the non-resident customers at the manufacturer’s premises in Canada.
+
+- Once the goods are manufactured, the non-resident customers take possession of the goods at the manufacturer’s premises and export them as soon as possible.
+
+The registrant retains physical possession of the raw materials after ownership transfers to the non-resident supplier for the purpose of subsequently transferring physical possession of the goods to the manufacturer. Therefore, the registrant is deemed to have transferred physical possession of the raw materials to another registrant and to have obtained a drop-shipment certificate resulting in the supply of the raw materials to the non-resident being deemed to be made outside Canada. The registrant is therefore not required to collect tax in respect of the supply of the raw materials when ownership transfers to the non-resident supplier.
+
+The registrant is also deemed to have subsequently acquired physical possession of the raw materials for the purpose of transferring them to the manufacturer. The registrant is therefore potentially liable based on the general drop-shipment rule to collect tax on the deemed supply of the raw materials to the non-resident supplier when physical possession of the raw materials transfers to the manufacturer. However, the manufacturer provides the registrant with a drop-shipment certificate that results in the supply made by the registrant being deemed to be made outside Canada[Footnote35](#fn35). As a result, the registrant is not required to collect tax on its supply to the non-resident supplier.
+
+The manufacturer has agreed to supply a manufacturing service to the non-resident and is therefore potentially liable under the general drop-shipment rule to collect tax on the fair market value of a deemed supply of the goods to the non-resident when physical possession of the manufactured goods transfers to the non-resident customers at its premises. However, the manufacturer causes physical possession of the goods to be transferred to the non-resident customers in Canada for export. Provided the registrant maintains satisfactory evidence of the exportation of the goods, the general drop-shipment rule will not apply and the supply will be deemed to be made outside Canada[Footnote36](#fn36). As a result, the manufacturer is not required to collect tax in respect of its supply to the non-resident supplier.
+
+### Example 26 — Goods retained by a registrant to supply a commercial service to a subsequent purchaser, and exported
+
+para 179(4)(d), ss 179(2), (3)
+
+- A registered supplier purchases goods from a registered manufacturer who will retain physical possession of the goods at its premises until the registered supplier finds a buyer for the goods.
+
+- The registered supplier subsequently agrees to sell the goods to an unregistered non-resident.
+
+- Once the goods are sold by the registered supplier, the manufacturer will supply a commercial service to the non-resident in respect of the goods.
+
+- The manufacturer issues a drop-shipment certificate to the registered supplier in respect of the goods.
+
+- The processed goods are to then be delivered at the manufacturer’s premises in Canada to the non-resident who will subsequently export the goods.
+
+- Once the service is performed, the non-resident takes physical possession of the goods and exports them as soon as possible.
+
+The manufacturer retains physical possession of the goods after ownership of them transfers to the non-resident for the purpose of supplying a commercial service to the non-resident in respect of the goods.
+
+The registered supplier is deemed to have transferred physical possession of the goods to the registered manufacturer when ownership of the goods transfers to the non-resident. The issuance of the drop-shipment certificate by the manufacturer results in the supply of the goods made by the registered supplier being deemed to be made outside Canada[Footnote37](#fn37). The registered supplier is therefore not required to collect tax on the supply of the goods to the non-resident.
+
+The manufacturer is deemed to have acquired physical possession of the goods at the time ownership transfers to the non-resident for the purpose for which physical possession of the goods is being retained. The manufacturer is therefore potentially liable based on the general drop-shipment rule to collect tax on its supply to the non-resident when physical possession of the goods transfers to the non-resident. However, the manufacturer causes physical possession of the goods to be transferred to the non-resident in Canada for export. Provided the manufacturer maintains satisfactory evidence of the exportation of the goods, the general drop-shipment rule will not apply and the supply will be deemed to be made outside Canada[Footnote38](#fn38). As a result, the manufacturer is not required to collect tax from the non-resident.
+
+### Example 27 — Goods retained by another registrant to transfer to a subsequent purchaser, and exported (four parties)
+
+para 179(4)(d), ss 179(2), (3)
+
+- A registrant hires a registered service provider to supply a commercial service in respect of its goods.
+
+- The registrant ships the goods to the service provider to perform the commercial service.
+
+- Once the service is performed, the service provider will retain physical possession of the goods at its premises until the registrant finds a buyer for the goods.
+
+- The registrant subsequently agrees to sell the goods to an unregistered non-resident supplier. The non-resident supplier agrees a few weeks later to sell the goods to an unregistered non-resident customer, while the goods are still in the physical possession of the service provider.
+
+- The service provider issues a drop-shipment certificate to the registrant in respect of the goods.
+
+- The goods are to be delivered at the service provider’s premises in Canada to the non-resident customer who will subsequently export the goods.
+
+- The customer takes physical possession of the goods and exports them as soon as possible.
+
+The service provider retains physical possession of the goods after ownership of the goods transfers to the non-resident supplier for the purpose of transferring physical possession of the goods to a subsequent purchaser.
+
+The registrant is deemed to have transferred physical possession of the goods to the service provider when ownership of the goods transfers to the non-resident. The issuance of the drop-shipment certificate by the service provider results in the supply of the goods made by the registrant being deemed to be made outside Canada[Footnote39](#fn39). As a result, the registrant is not required to collect tax on its supply to the non-resident supplier.
+
+The service provider is deemed to have acquired physical possession of the goods at the time ownership transfers to the non-resident supplier for the purpose for which physical possession of the goods is being retained. The service provider is therefore potentially liable based on the general drop-shipment rule to collect tax on a deemed supply of the goods to the non-resident when physical possession of the goods transfers to the non-resident. However, the service provider causes physical possession of the goods to transfer to the non-resident in Canada for export. Provided the service provider maintains satisfactory evidence of the exportation of the goods, the general drop-shipment rule will not apply[Footnote40](#fn40) and tax will not be required to be collected from the non-resident customer.
+
+## Transfer of goods to a bailee by a registrant
+
+para 179(5)(a) and (b)
+
+55. Specific rules apply to ensure that storage and shipping services are generally excluded from the drop-shipment rules and therefore generally subject to tax based on the normal GST/HST rules. These rules apply[Footnote41](#fn41) where a registrant at any time transfers physical possession of an unregistered non-resident’s goods to a bailee solely for the purpose of storing or shipping the goods and the bailee either:
+
+- is a carrier[Footnote42](#fn42) to whom physical possession of the goods has been transferred solely for the purpose of shipping the goods, or
+
+- has not, at or before that time, given the registrant a drop-shipment certificate.
+
+Different deeming rules apply based on the person to whom the bailee is to transfer physical possession of the goods.
+
+Transfer by bailee to named person para 179(5)(c)
+
+56. If under the agreement with the bailee for storing or shipping the goods, the bailee is required to transfer physical possession of the goods to a person who is named in the agreement when the bailee acquires physical possession of the goods,
+
+- the registrant is deemed to have transferred physical possession of the goods to that person at that time and the person is deemed to have acquired physical possession of the goods at that time, and
+
+- the registrant is deemed not to have transferred physical possession of the goods to the bailee and the bailee is deemed not to have acquired physical possession of the goods.
+
+Consequences para 179(5)(c)
+
+57. The deemed transfer of physical possession of the goods by the registrant to the named person will result in the general drop-shipment rule applying with respect to the supply made by the registrant unless the previously discussed exceptions to the general rule[Footnote43](#fn43) apply.
+
+58. Deeming physical possession of the goods not to have been transferred to the bailee results in the bailee not being subject to the general drop-shipment rule as a result of acquiring physical possession of the goods. Generally, this only affects a bailee who is supplying a service of storing the goods since that supply is a commercial service that may be subject to the general drop-shipment rule. However, this bailee can opt into the drop-shipment rules by issuing a drop-shipment certificate. If so, the bailee becomes potentially liable to collect tax on the fair market value of the goods, subject to the exceptions to the general rule.
+
+59. A carrier who is merely acquiring physical possession of the goods for the purpose of shipping them is not subject to the general drop-shipment rule given that a service of shipping goods supplied by a carrier is excluded from the definition of a commercial service.
+
+Transfer by bailee to registrant or unidentified person para 179(5)(d)
+
+60. A different set of deeming rules apply if under the agreement with the bailee for storing or shipping the goods, the bailee is required to transfer physical possession of the goods to the registrant or to another person who is unidentified (referred to as the “consignee) when the bailee acquires physical possession of the goods.
+
+61. In this case, the registrant is deemed to retain physical possession of the goods, and the bailee is deemed not to have acquired physical possession of the goods, throughout the period beginning at the time the bailee acquires physical possession of the goods and ending at the earliest of:
+
+- the time the consignee becomes identified (as explained below),
+
+- the time the bailee transfers physical possession of the goods to the registrant, and
+
+- if the bailee is not a carrier to whom physical possession of the goods has been transferred for the sole purpose of shipping the goods, the time the bailee gives the registrant a drop-shipment certificate.
+
+Consignee identified
+
+62. The consignee becomes identified at the earliest of the following:
+
+- the time the registrant gives the consignee sufficient documents (i.e. a warehouse receipt[Footnote44](#fn44)) to require the bailee to transfer physical possession of the goods to the consignee,
+
+- the time the registrant directs the bailee in writing to transfer physical possession of the goods to the consignee, and
+
+- the time the bailee transfers physical possession of the goods to the consignee.
+
+Consequences para 179(5)(d)
+
+63. Deeming the registrant to retain physical possession of the goods during the period described above means that the general drop-shipment rule will not be triggered during that period. Deeming physical possession of the goods not to have been transferred to the bailee results in the bailee not being subject to the general drop-shipment rule as a result of actually acquiring physical possession of the goods.
+
+64. If the bailee (other than a carrier to whom physical possession of the goods has been transferred for the sole purpose of shipping the goods) gives the registrant a drop-shipment certificate before the consignee becomes identified, the registrant is deemed to have transferred physical possession of the goods to the bailee and the bailee is deemed to have acquired physical possession of the goods for the purpose of making a supply of a commercial service in respect of the goods to the owner of the goods under an agreement with the owner. As a result, a subsequent transfer of physical possession of the goods by the bailee to another person will result in the general drop-shipment rule applying with respect to the supply made by the bailee unless the previously discussed exceptions to the general rule[Footnote45](#fn45) apply.
+
+65. If, on the other hand, the consignee becomes identified before the bailee gives the registrant a drop-shipment certificate, the registrant is deemed to have transferred physical possession of the goods to the consignee and the consignee is deemed to have acquired physical possession of the goods. The deemed transfer of physical possession of the goods by the registrant to the identified person will result in the general drop-shipment rule applying with respect to the supply made by the registrant unless the previously discussed exceptions to the general rule apply.
+
+para 179(5)(d), ss 179(3)
+
+- A registrant agrees to supply various processing services to an unregistered non-resident in respect of the non-resident’s goods.
+
+- The registrant acquires physical possession of the goods at one of its processing plants (Plant A) in Canada.
+
+- The registrant performs the first processing service at Plant A and then gives physical possession of the goods to a carrier the registrant hired to deliver the goods to its other plant (Plant B) for further processing.
+
+- The registrant performs the second processing service at Plant B. The registrant then transfers physical possession of the processed goods to the non-resident at Plant B and the non-resident then exports the goods as soon as possible.
+
+The registrant first transfers physical possession of the goods to the carrier at Plant A solely for the purpose of shipping the goods. When this occurs, the registrant is deemed to retain physical possession of the goods while they are in the carrier’s physical possession and the general drop-shipment rule is consequently not triggered.
+
+The registrant acquired physical possession of the non-resident’s goods to supply a commercial service with respect to those goods. The registrant is therefore potentially liable to collect tax on a deemed supply of the goods to the non-resident when the registrant causes physical possession of the goods to be transferred to the non-resident. However, the registrant subsequently causes physical possession of the goods to be transferred to the non-resident at Plant B for export. Provided the registrant maintains satisfactory evidence of the exportation of the goods, the general drop-shipment rule will not apply and its supply to the non-resident is deemed to be made outside Canada. As a result, the registrant is not required to collect tax from the non-resident in respect of its supply to the non-resident.
+
+### Example 29 — Transfer of goods to a carrier for subsequent transfer to a named person
+
+para 179(5)(c), ss 179(2)
+
+- A registered manufacturer agrees to sell goods to an unregistered non-resident.
+
+- The non-resident also agrees to sell the goods to a registered person who will use the goods exclusively in the course of its commercial activities.
+
+- Delivery of the goods to the non-resident and to the registrant is to occur at the registrant’s premises in Canada.
+
+- The manufacturer hires a carrier to pick up the goods at the manufacturer’s premises and to deliver them to the registrant’s premises. The registrant is named as the consignee in the agreement with the carrier for the shipment of the goods.
+
+- The registrant issues a drop-shipment certificate to the manufacturer with respect to the goods.
+
+When the manufacturer transfers physical possession of the goods to the carrier to ship them to the named registrant, the manufacturer is deemed to have instead transferred physical possession of the goods to the registrant.
+
+The deemed transfer of physical possession of the goods by the manufacturer would normally result in the general drop-shipment rule applying with respect to the supply made by the manufacturer. However, the issuance of the drop-shipment certificate by the registrant results in the general drop-shipment rule not applying to the supply of the goods made by the manufacturer and that supply being deemed to be made outside Canada. Therefore, the manufacturer is not required to collect tax from the non-resident in respect of the supply of the goods to the non-resident.
+
+The registrant is not required to self-assess tax on the goods as a result of issuing the drop-shipment certificate since the registrant is acquiring the goods for use exclusively in the course of its commercial activities.
+
+The non-resident is not required to collect tax in respect of its supply of the goods to the registrant since it is a supply made outside Canada[Footnote46](#fn46).
+
+### Example 30 — Transfer of goods to a bailee for subsequent transfer to a named person and export
+
+para 179(5)(c), ss 179(3)
+
+- A registrant agrees to sell goods to an unregistered non-resident.
+
+- Delivery of the goods to the non-resident is to occur at a registered bailee’s warehouse in Canada.
+
+- The non-resident has hired the bailee in Canada to store its goods at the warehouse for a period of one month until it is ready to pick up the goods at the warehouse. Other goods have been purchased in Canada by the non-resident and are to be delivered to the warehouse within a month so that all of the goods can be exported at once.
+
+- The bailee does not issue a drop-shipment certificate to the registrant.
+
+- The non-resident takes physical possession of the goods at the warehouse at the end of the storage period and immediately exports them together with the other goods.
+
+The registrant transfers physical possession of the goods to the bailee solely for the purpose of storing the goods. The non-resident to whom the bailee is to transfer physical possession of the goods is named in the agreement to store the goods. As a result, the registrant is deemed to have transferred physical possession of the goods to the non-resident, rather than to the bailee, when the goods are transferred to the bailee.
+
+Since the bailee is deemed not to have acquired physical possession of the goods, the general drop-shipment rule does not apply to the supply made by the bailee to the non-resident. However, the bailee must collect tax in respect of its supply of the storage service to the non-resident supplier since it is a taxable supply made in Canada.
+
+The registrant is potentially liable based on the general drop-shipment rule to collect tax on the supply of the goods to the non-resident supplier when the registrant transfers physical possession of the goods to the bailee. However, the registrant is considered to have transferred physical possession of the goods to the non-resident for export. Provided the registrant maintains satisfactory evidence of the exportation of the goods by the non-resident, the general drop-shipment rule will not apply and its supply to the non-resident is deemed to be made outside Canada. As a result, the registrant is not required to collect tax from the non-resident in respect of its supply to the non-resident.
+
+### Example 31 — Transfer of goods to a bailee for subsequent transfer to a named person and export (four parties)
+
+para 179(5)(c), ss 179(3)
+
+- A registrant agrees to sell goods to an unregistered non-resident. The non-resident subsequently sells the goods to a named non-resident customer.
+
+- The non-resident has hired a registered bailee in Canada to store its goods at its warehouse in Canada for a period of one month until the non-resident customer is ready to pick up the goods at the warehouse and to subsequently transfer physical possession of the goods to the non-resident customer. Other goods have been purchased in Canada by the non-resident customer and are to be delivered to the bailee within a month so that all of the goods can be exported at once.
+
+- Delivery of the goods to the non-resident customer is to occur at the warehouse.
+
+- The bailee does not issue a drop-shipment certificate to the registrant.
+
+- The non-resident customer takes physical possession of the goods at the warehouse at the end of the storage period and immediately exports them together with the other goods.
+
+The registrant transfers physical possession of the goods to the bailee solely for the purpose of storing the goods. The non-resident customer to whom the bailee is to transfer physical possession of the goods is named in the agreement to store the goods. As a result, the registrant is deemed to have transferred physical possession of the goods to the customer, rather than to the bailee, when the goods are transferred to the bailee.
+
+Since the bailee is deemed not to have acquired physical possession of the goods, the general drop-shipment rule does not apply to the supply made by the bailee to the non-resident. However, the bailee must collect tax in respect of its supply of the storage service to the non-resident since it is a taxable supply made in Canada.
+
+The registrant is potentially liable based on the general drop-shipment rule to collect tax on the supply of the goods to the non-resident when the registrant transfers physical possession of the goods to the warehouse. However, the registrant is considered to have transferred physical possession of the goods to the non-resident customer for export. Provided the registrant maintains satisfactory evidence of the exportation of the goods by the named non-resident customer, the general drop-shipment rule will not apply and its supply to the non-resident is deemed to be made outside Canada. As a result, the registrant is not required to collect tax from the non-resident in respect of its supply to the non-resident.
+
+### Example 32 — Transfer of goods to a bailee that issues drop-shipment certificate for subsequent transfer to a named person and export
+
+ss 179(5) not applicable, ss 179(2) and (3)
+
+The facts in this example are the same as in the previous example except that the registered bailee issues a drop-shipment certificate to the registrant with respect to the goods when it acquires physical possession of the non-resident’s goods.
+
+The registrant transfers physical possession of the goods to the bailee solely for the purpose of storing the goods. However, because the bailee issues a drop-shipment certificate to the registrant with respect to the goods, the deeming rule does not apply. As a result, the registrant is considered to have transferred physical possession to the bailee.
+
+The issuance of the drop-shipment certificate by the bailee results in the general drop-shipment rule not applying to the supply of the goods made by the registrant and that supply being deemed to be made outside Canada. Therefore, the registrant is not required to collect tax in respect of the supply of the goods to the non-resident.
+
+The bailee that has acquired physical possession of the goods is potentially liable to collect tax on a deemed supply of the goods to the non-resident based on the general drop-shipment rule. However, the bailee causes physical possession of the goods to transfer to the named non-resident customer in Canada for export. Provided the bailee maintains satisfactory evidence of the exportation of the goods, the general drop-shipment rule will not apply and the supply by the bailee will be deemed to be made outside Canada[Footnote47](#fn47). As a result, the bailee is not required to collect tax from the non-resident in respect of its supply to the non-resident.
+
+### Example 33 — Transfer of a good to a bailee for subsequent transfer to a named person (four parties)
+
+para 179(5)(c)
+
+- An unregistered non-resident supplier receives an order from a named registered customer in a non-participating province for the purchase of a good and agrees to sell the good to the customer for its fair market value of $50,000. The customer will use the good exclusively in the course of its commercial activities.
+
+- A registered manufacturer (the registrant) of the good agrees to sell the good to the non-resident supplier for $40,000.
+
+- Delivery of the good to the non-resident supplier and the customer is to occur at a registered bailee’s warehouse in a non-participating province.
+
+- The bailee has been hired by the non-resident supplier to store the good for a period of one month until the customer is ready to pick up the good at the warehouse. The good belongs to the non-resident supplier while it is at the warehouse.
+
+- Neither the bailee nor the customer issues drop-shipment certificates.
+
+The registrant transfers physical possession of the good to the bailee solely for the purpose of storing the good. The customer to whom the bailee is to transfer physical possession of the good is named in the agreement to store the good. As a result, the registrant is deemed to have transferred physical possession of the good to the customer rather than to the bailee when the good is transferred to the bailee. The registrant is deemed under the general drop-shipment rule to have made a taxable supply of the good to the non-resident for consideration equal to its fair market value of $50,000. The registrant is required to collect GST from the non-resident in respect of the supply of $2,500 (5% × $50,000).
+
+The non-resident is not required to collect tax in respect of its supply of the good to the customer, as it is deemed to be made outside Canada[Footnote48](#fn48). However, the $2,500 in GST that the non-resident was required to pay to the registrant is unrecoverable by the non-resident supplier who may reflect it in the amount charged to the customer for the good.
+
+Based on the input tax credit flow-through mechanism[Footnote49](#fn49), the $2,500 in GST that the non-resident supplier pays to the registrant may be recovered by the customer in the form of an ITC in certain circumstances. The application of the relief mechanism in this example is explained in example 39.
+
+The bailee is required to collect tax on the consideration for the taxable supply of the storage service made to the non-resident supplier since it is a taxable supply made in Canada.
+
+As explained in the following example, it would have been possible to issue drop-shipment certificates in this case that would have resulted in the supplies being relieved of tax.
+
+### Example 34 — Transfer of a good to a bailee that issues a drop-shipment certificate for subsequent transfer to a named person
+
+ss 179(5) not applicable, ss 179(2)
+
+The facts in this example are the same as in the previous example except that the registered bailee and the customer each issue drop-shipment certificates when they acquire physical possession of the good.
+
+The registrant transfers physical possession of the good to the bailee solely for the purpose of storing the good. However, because the bailee issues a drop-shipment certificate to the registrant with respect to the good, the deeming rule does not apply. As a result, the registrant is considered to have transferred physical possession to the bailee, which is considered to have acquired physical possession of the good.
+
+The issuance of the drop-shipment certificate by the bailee results in the general drop-shipment rule not applying to the supply of the good made by the registrant and that supply being deemed to be made outside Canada. Therefore, the registrant is not required to collect tax in respect of the supply of the good to the non-resident.
+
+Because the bailee has acquired physical possession of the good, it is potentially liable to collect tax on a deemed supply of the good to the non-resident based on the general drop-shipment rule. However, the issuance of the drop-shipment certificate by the customer results in the general drop-shipment rule not applying to the supply made by the warehouse and that supply being deemed to be made outside Canada. Therefore, the bailee is not required to collect tax in respect of its supply to the non-resident supplier.
+
+### Example 35 — Transfer of goods to a bailee for subsequent transfer to an unidentified person and export (four parties)
+
+para 179(5)(d), ss 179(3)
+
+- A registrant agrees to sell goods to an unregistered non-resident supplier.
+
+- The non-resident supplier has hired a registered bailee to store the goods at its warehouse in Canada until it can find a non-resident customer (the “consignee”) and to transfer physical possession of them to the eventual purchaser.
+
+- Delivery of the goods to the non-resident supplier is to occur at the warehouse.
+
+- The registrant transfers physical possession of the goods to the bailee.
+
+- A month later, the non-resident supplier finds a non-resident purchaser who agrees to purchase the goods. The goods are to be delivered at the warehouse to the non-resident customer who will subsequently export the goods.
+
+- The bailee does not issue a drop-shipment certificate to the registrant.
+
+- The non-resident customer takes physical possession of the goods at the warehouse at the end of the storage period and immediately exports them.
+
+The registrant has transferred physical possession of the goods to the bailee solely for the purpose of storing the goods. When the registrant transfers physical possession of the goods to the bailee, the bailee will store the goods until it is required to transfer physical possession of the goods to another person who is yet to be identified (i.e. the eventual non-resident customer).
+
+In this case, the registrant is deemed to retain physical possession of the goods, and the bailee is deemed not to have acquired physical possession of the goods, until the non-resident customer becomes identified. In this case, the customer is considered to become identified when the bailee transfers physical possession of the goods to the non-resident customer.
+
+Since the bailee is deemed not to have acquired physical possession of the goods, the general drop-shipment rule does not apply to the supply made by the bailee to the non-resident. However, the bailee must collect tax in respect of its supply of the storage service to the non-resident supplier since it is a taxable supply made in Canada.
+
+The registrant is potentially liable based on the general drop-shipment rule to collect tax on the supply of the goods to the non-resident supplier when the bailee transfers physical possession of the goods to the non-resident customer. However, the registrant is considered to have transferred physical possession of the goods to the non-resident customer for export. Provided the registrant maintains satisfactory evidence of the exportation of the goods by the non-resident customer, the general drop-shipment rule will not apply and the supply of the goods by the registrant to the non-resident supplier is deemed to be made outside Canada. As a result, the registrant is not required to collect tax from the non-resident supplier in respect of its supply to the non-resident.
+
+### Example 36 — Transfer of goods to a bailee that issues a drop-shipment certificate for subsequent transfer to an unidentified person and export
+
+para 179(5)(d), ss 179(2), (3)
+
+The facts in this example are the same as in the previous example except that the registered bailee issues a drop-shipment certificate to the registrant after it acquires physical possession of the goods but before the consignee becomes identified.
+
+The registrant transfers physical possession of the goods to the bailee solely for the purpose of storing the goods. The bailee does not issue a drop-shipment certificate at or before the time it acquires physical possession of the goods. However, because the bailee issues a drop-shipment certificate to the registrant with respect to the goods before the non-resident customer becomes identified, the registrant is considered to have transferred physical possession of the goods to the bailee when the drop-shipment certificate is issued.
+
+The issuance of the drop-shipment certificate by the bailee results in the general drop-shipment rule not applying to the supply of the goods made by the registrant and that supply being deemed to be made outside Canada. Therefore, the registrant is not required to collect tax in respect of the supply of the goods to the non-resident.
+
+The bailee that has acquired physical possession of the goods for the purpose of supplying a commercial service to the non-resident is potentially liable to collect tax on a deemed supply of the goods to the non-resident based on the general drop-shipment rule. However, the bailee causes physical possession of the goods to be transferred to the non-resident customer in Canada for export. Provided the bailee maintains satisfactory evidence of the exportation of the goods, the general drop-shipment rule will not apply and the supply by the bailee will be deemed to be made outside Canada[Footnote50](#fn50). As a result, the bailee is not required to collect tax from the non-resident supplier in respect of its supply to the non-resident customer.
+
+## Transfer of goods to a bailee by an unregistered non-resident
+
+ss 179(6)
+
+66. There is an additional exceptional rule that applies[Footnote51](#fn51) where an unregistered non-resident (rather than a registrant as under the previously explained rule), transfers physical possession of goods to a bailee who is a registrant for the sole purpose of storing or shipping the goods, and the bailee is either
+
+- a carrier who is acquiring physical possession of the goods for the sole purpose of shipping the goods, or
+
+- does not claim an ITC in respect of the goods.
+
+In this case, the bailee is deemed not to have acquired physical possession of the goods.
+
+Consequences
+
+67. Deeming physical possession of the goods not to have transferred to the bailee results in the bailee not being subject to the general drop-shipment rule as a result of acquiring physical possession of the goods. Generally, this only affects a bailee who is supplying a service of storing the goods since that supply is a commercial service that may be subject to the general drop-shipment rule. However, this bailee may opt into the drop-shipment rules by claiming an ITC[Footnote52](#fn52) in respect of the goods.
+
+68. If the bailee claims the ITC, the bailee is considered to have taken physical possession of the goods for purposes of the drop-shipment rules and becomes potentially liable to collect tax on the fair market value of the goods, subject to the exceptions to the general rule[Footnote53](#fn53).
+
+69. A carrier who is merely acquiring physical possession of the goods for the purpose of shipping them is not subject to the general drop-shipment rule, nor can the carrier claim an ITC in respect of the goods, given that a service of shipping goods supplied by a carrier is excluded from the definition of a commercial service.
+
+ss 179(6), ss 179(3)
+
+- An unregistered non-resident supplier hires a registered bailee in Canada to store its goods at its warehouse in Canada until they are required to be processed by a registered person (the registrant) in Canada.
+
+- The non-resident supplier sells the processed goods to its non-resident customers.
+
+- The non-resident supplier periodically ships the goods to the bailee for storage.
+
+- The non-resident supplier is the importer of record of the goods and pays the tax on the importation of the goods.
+
+- The bailee does not claim an ITC in respect of the goods.
+
+- The registrant periodically picks up the required amount of goods at the warehouse in order to meet orders for the processed goods received by the non-resident supplier.
+
+- The processed goods are shipped by the registrant to the non-resident customers.
+
+The bailee is deemed not to have acquired physical possession of the goods and is therefore not subject to the general drop-shipment rule as a result of acquiring physical possession of the goods. However, the bailee is required to collect tax on its taxable supply of the storage service to the non-resident since it is a taxable supply made in Canada.
+
+The bailee could have opted into the drop-shipment rules had it claimed an ITC in respect of the tax on the importation of the goods, as explained in example 40.
+
+The registrant that has acquired physical possession of the goods for the purpose of supplying a commercial service to the non-resident is potentially liable to collect tax on a deemed supply of the goods to the non-resident based on the general drop-shipment rule. However, the registrant ships the processed goods to the non-resident customer outside Canada. As a result, the general drop-shipment rule will not apply and the supply by the registrant will be deemed to be made outside Canada[Footnote54](#fn54). The registrant is not required to collect tax from the non-resident supplier in respect of its supply to the non-resident supplier.
+
+## ITCs in respect of drop-shipped goods
+
+General s 180 and ss 169(2)
+
+70. There are two provisions that specifically provide for entitlement to an ITC to persons involved in drop-shipment situations where an ITC would not otherwise be available under the normal ITC rules. This can include a person who acquires physical possession of drop-shipped goods to supply a commercial service to an unregistered non-resident. It is important to note that a bailee who supplies a storage service to the unregistered non-resident and claims the ITC in this case is no longer deemed not to have acquired physical possession of the goods[Footnote55](#fn55). The bailee consequently becomes liable to collect tax on a deemed supply of the goods based on the general drop-shipment rule, unless one of the exceptions[Footnote56](#fn56) applies.
+
+ITC flow-through mechanism s 180
+
+71. There is a mechanism that allows for the flow-through of an ITC[Footnote57](#fn57) to a registrant for unrecoverable tax that is paid by an unregistered non-resident on a supply of goods deemed to be made under the general drop-shipment rule or on the importation of goods. This provision applies where an unregistered non-resident pays the tax on the importation or the supply of the goods:
+
+- that the non-resident supplies to the registrant and delivers, or makes available, in Canada to the registrant before they are used in Canada by or on behalf of the non-resident, or
+
+- the physical possession of which the non-resident causes to be transferred in Canada to the registrant for the registrant to make a taxable supply of a commercial service in respect of the goods to the non-resident.
+
+72. Once the non-resident provides the registrant in the circumstances described above with satisfactory evidence that the tax has been paid on the goods, the registrant is deemed at the time the non-resident paid the tax, to have paid tax[Footnote58](#fn58) in respect of a supply of the goods to the registrant equal to the tax paid by the non-resident.
+
+Satisfactory evidence
+
+73. Satisfactory evidence includes a copy of Form B3, [Canada Customs Coding Form](http://www.cbsa-asfc.gc.ca/E/pbg/cf/b3-3/b3-3-fill-04b.pdf) showing that the tax was paid on the importation of the goods, or any supporting documentation issued by the supplier to the non-resident showing the tax paid in respect of the supply. To claim an ITC, the registrant will be required to maintain this evidence that tax was paid by the non-resident as well as other relevant documents, such as a contract for the provision of processing services to the non-resident, clearly establishing the relationship between the two parties and the goods involved.
+
+74. The registrant described above who acquires physical possession of the goods to perform a commercial service in respect of the goods is also deemed to have acquired the goods for use exclusively in its commercial activities, resulting in the registrant satisfying all of the conditions to become entitled to an ITC for the tax that the registrant is deemed to have paid.
+
+75. The registrant described above who is a recipient of a supply of the goods made by the non-resident must in fact have acquired the goods for consumption, use or supply in the course of its commercial activities to become entitled to an ITC for the tax that the registrant is deemed to have paid.
+
+ITC for tax on goods imported for commercial service ss 169(2)
+
+76. The tax paid on goods imported to have a commercial service performed on them can also be recovered in the form of an ITC where the registrant supplying the commercial service, rather than the unregistered non-resident, is the importer of record. Specifically, where a registrant imports goods of an unregistered non-resident[Footnote59](#fn59) for the purpose of making a taxable supply of a commercial service in respect of the goods to the non-resident and tax in respect of the importation becomes payable or is paid by the registrant during a reporting period of the registrant, the ITC of the registrant in respect of the goods for the reporting period is deemed to be an amount equal to the tax on the importation.
+
+s 180, ss 179(1)
+
+The facts in this example are the same as in example 2.
+
+As explained in example 2, based on the application of the general drop-shipment rule, the manufacturer is required to collect HST from the non-resident in respect of the supply of the goods of $13,000.
+
+The non-resident is not required to collect tax in respect of its supply of the goods to the customer as it is a supply made outside Canada[Footnote60](#fn60). However, the $13,000 in HST that the non-resident was required to pay to the registrant is unrecoverable by the non-resident.
+
+The non-resident has made a supply of goods to the customer that have been delivered or made available to the customer in Canada. The non-resident has also paid tax to the manufacturer of $13,000 on a deemed supply of the goods based on the general drop-shipment rule. Therefore, if the non-resident provides the customer with satisfactory evidence that it paid the tax to the manufacturer, the customer is deemed to have paid tax in respect of a supply of the goods equal to the tax paid when the non-resident paid the tax[Footnote61](#fn61). The customer is consequently entitled to an ITC for the tax.
+
+### Example 39 — Transfer of good to a bailee for subsequent transfer to a named person
+
+s 180, ss 179(5)
+
+The facts in this example are the same as in example 33**.**
+
+As explained in example 33, based on the application of the general drop-shipment rule, the registrant is required to collect tax from the non-resident supplier in respect of the supply of $2,500.
+
+The non-resident is not required to collect tax in respect of its supply of the good to the customer as it is a supply made outside Canada[Footnote62](#fn62). However, the $2,500 in tax that the non-resident supplier was required to pay to the registrant is unrecoverable by the non-resident supplier.
+
+The non-resident has made a supply of good to the customer that has been delivered or made available to the customer in Canada. The non-resident has also paid tax to the registrant of $2,500 on a deemed supply of the good based on the general drop-shipment rule. Therefore, if the non-resident provides the customer with satisfactory evidence that it paid the tax to the registrant, the customer is deemed to have paid tax in respect of a supply of the good equal to the tax paid when the non-resident paid the tax[Footnote63](#fn63). The customer is consequently entitled to an ITC for the tax.
+
+### Example 40 — Transfer of imported goods to a bailee by a non-resident and exported after commercial service is performed (four parties)
+
+s 180, ss 179(2); ss179(6) not applicable
+
+The facts in this example are the same as in example 37, except that the registered bailee opts to claim an ITC for the tax on the importation of the goods and the registrant issues a drop-shipment certificate to the bailee in respect of the goods.
+
+The non-resident supplier has caused physical possession of the goods to be transferred to the bailee in Canada for the bailee to make a taxable supply of a commercial service in respect of the goods to the non-resident supplier.
+
+If the non-resident supplier provides the bailee with satisfactory evidence[Footnote64](#fn64) that the tax has been paid on the importation of the goods, the bailee is deemed[Footnote65](#fn65) to have paid tax in respect of a supply of the goods to the bailee equal to the tax paid on the importation when the non-resident paid the tax. The bailee is also deemed to have acquired the goods for use exclusively in its commercial activities. The bailee is therefore entitled to an ITC for the tax that is deemed to have been paid.
+
+Because the bailee claims an ITC in respect of the goods, the bailee is considered to have taken physical possession of the goods for purposes of the drop-shipment rules and is potentially liable to collect tax on the fair market value of the goods. However, because the registrant issues a drop-shipment certificate to the bailee with respect to the goods, the general drop-shipment rule does not apply to the supply made by the bailee and that supply is deemed to be made outside Canada. Therefore, the bailee is not required to collect tax in respect of the supply of the goods to the non-resident supplier.
+
+As explained in example 37, the registrant who ships the goods to the non-resident supplier customer outside Canada is not required to collect tax in respect of its supply of the goods to the non-resident supplier[Footnote66](#fn66).
+
+### Example 41 — Transfer of goods to a bailee for importation by a bailee and exported after commercial service is performed
+
+ss 169(2), ss 179(2) and (3)
+
+The facts in this example are the same as in the previous example except that the bailee is the importer of record with respect to the importation of the goods.
+
+The bailee imports the goods of the non-resident supplier for the purpose of making a taxable supply of a commercial service in respect of the goods to the non-resident supplier. As a result, the ITC to which the bailee is deemed to be entitled in respect of the goods is equal to the tax paid on the importation[Footnote67](#fn67).
+
+Because the bailee claims an ITC in respect of the goods, the bailee is considered to have taken physical possession of the goods for purposes of the drop-shipment rules and is potentially liable to collect tax on the fair market value of the goods. However, because the registrant issues a drop-shipment certificate to the bailee with respect to the goods, the general drop-shipment rule does not apply to the supply made by the bailee and that supply is deemed to be made outside Canada[Footnote68](#fn68). Therefore, the bailee is not required to collect tax in respect of this supply.
+
+As explained in example 37, the registrant who ships the goods to the non-resident supplier customer outside Canada is not required to collect tax in respect of its supply of the goods to the non-resident supplier[Footnote69](#fn69).
+
+### Example 42Footnote 70 — Commercial service in respect of goods temporarily imported by a non-resident
+
+s 180, ss 179(3)
+
+- An unregistered non-resident manufacturer hires a registered service provider to perform a commercial service in respect of its goods.
+
+- The non-resident ships the goods to the registrant’s premises in Canada.
+
+- The non-resident is the importer of record of the goods and pays the tax on the importation of the goods.
+
+- Once the service is performed, the service provider transfers physical possession of the goods to a carrier for export to the non-resident outside Canada.
+
+The non-resident has caused physical possession of the goods to be transferred to the registrant in Canada for the registrant to make a taxable supply of a commercial service in respect of the goods to the non-resident.
+
+If the non-resident provides the registrant with satisfactory evidence that the tax has been paid on the importation of the goods[Footnote71](#fn71), the registrant is deemed[Footnote72](#fn72) to have paid tax in respect of a supply of the goods to the registrant equal to the tax paid on the importation when the non-resident paid the tax, and to have acquired the goods for use exclusively in its commercial activities. As a result, the registrant is entitled to an ITC for the tax.
+
+The registrant has acquired physical possession of the goods to perform a commercial service in respect of the goods and is therefore potentially liable to collect tax on the fair market value of the goods. However, the registrant transfers the goods to a carrier for export to the non-resident. As a result, the general drop-shipment rule will not apply and the supply made by the registrant will be deemed to be made outside Canada[Footnote73](#fn73). The registrant is not required to collect tax from the non-resident in respect of this supply.
+
+### Example 43Footnote 74 — Commercial service in respect of goods temporarily imported by a registrant
+
+ss 169(2), ss 179(3)
+
+The facts in this example are the same as in the previous example except that the registered service provider is the importer of record of the goods.
+
+The registrant imports the goods of the unregistered non-resident for the purpose of making a taxable supply of a commercial service in respect of the goods to the non-resident. As a result, the registrant is entitled to an ITC in respect of the goods. The ITC to which the registrant is entitled in respect of the goods is equal to the tax paid on the importation[Footnote75](#fn75).
+
+The registrant has acquired physical possession of the goods to perform a commercial service in respect of the goods and is therefore potentially liable to collect tax on the fair market value of the goods. However, the registrant transfers the goods to a carrier for export to the non-resident. As a result, the general drop-shipment rule will not apply and the supply made by the registrant will be deemed to be made outside Canada[Footnote76](#fn76). As a result, the registrant is not required to collect tax from the non-resident in respect of its supply to the non-resident.
+
+### Example 44Footnote 77 — Commercial service in respect of temporarily imported goods
+
+ss 169(2), ss 179(3)
+
+- A registered service provider agrees to make a taxable supply of a commercial service to an unregistered non-resident wholesaler in respect of goods belonging to the wholesaler.
+
+- The wholesaler purchases the goods from an unregistered non-resident manufacturer.
+
+- Delivery of the goods to the wholesaler occurs at the premises of the manufacturer outside Canada.
+
+- When the agreement for the supply of the goods to the wholesaler is entered into, the manufacturer agrees to arrange for the shipment of the wholesaler’s goods to the premises of the service provider in Canada.
+
+- The service provider is the importer of record with respect to the importation of the wholesaler’s goods and pays the tax on the importation of the goods.
+
+- Once the service is performed, the service provider transfers physical possession of the goods to a carrier for export to the wholesaler outside Canada.
+
+The registrant imports the goods of the unregistered non-resident wholesaler for the purpose of making a taxable supply of a commercial service in respect of the goods to the non-resident. As a result, the registrant is entitled to an ITC in respect of the goods. The ITC to which the registrant is deemed to be entitled in respect of the goods is equal to the tax paid on the importation[Footnote78](#fn78).
+
+The registrant has acquired physical possession of the goods to perform a commercial service in respect of the goods and is therefore potentially liable to collect tax on the fair market value of the goods. However, the registrant transfers the goods to a carrier for export to the non-resident. As a result, the general drop-shipment rule will not apply and the supply made by the registrant will be deemed to be made outside Canada[Footnote79](#fn79). As a result, the registrant is not required to collect tax from the non-resident in respect of this supply.
+
+### Example 45 — Commercial service in respect of temporarily imported goods
+
+ss 169(2), ss 179(2) and (3)
+
+- An unregistered non-resident hires a registered service provider (registrant 1) to perform a commercial service in respect of its goods.
+
+- The non-resident ships the goods to the registrant 1’s premises in Canada.
+
+- Registrant 1 is the importer of record of the goods and pays the tax on the importation of the goods.
+
+- The non-resident hires another registered service provider (registrant 2) to supply a further commercial service in respect of the goods before they are to be exported by the non-resident.
+
+- Registrant 1 delivers the processed goods to registrant 2 and registrant 2 issues a drop-shipment certificate to registrant 1.
+
+- Once registrant 2 performs its commercial service, the non-resident picks up the goods and exports them as soon as possible.
+
+Registrant 1 imports the goods of the unregistered non-resident for the purpose of making a taxable supply of a commercial service in respect of the goods to the non-resident. As a result, registrant 1 is entitled to an ITC in respect of the goods. The ITC to which registrant 1 is deemed to be entitled in respect of the goods is equal to the tax paid on the importation[Footnote80](#fn80).
+
+Registrant 1 has acquired physical possession of the goods to perform a commercial service in respect of the goods and is therefore potentially liable to collect tax on the fair market value of the goods. However, because registrant 2 issues a drop-shipment certificate to registrant 1 with respect to the goods, the general drop-shipment rule does not apply to the supply made by registrant 1 and that supply is deemed to be made outside Canada[Footnote81](#fn81). Therefore, registrant 1 is not required to collect tax in respect of the supply of the goods to the non-resident.
+
+Registrant 2 has acquired physical possession of the goods for the purpose of supplying a commercial service to the non-resident and is therefore potentially liable to collect tax on a deemed supply of the goods to the non-resident based on the general drop-shipment rule. However, registrant 2 causes physical possession of the goods to be transferred to the non-resident in Canada for export. Provided registrant 2 maintains satisfactory evidence of the exportation of the goods, the general drop-shipment rule will not apply and the supply by registrant 2 will be deemed to be made outside Canada[Footnote82](#fn82). As a result, registrant 2 is not required to collect tax from the non-resident in respect of this supply.
+
+## Non-resident rebate respecting installation services
+
+Rebate ss 252.41(1)
+
+77. In some instances the drop-shipment rules do not apply where an unregistered non-resident is the recipient of a taxable supply made in Canada of a service in respect of a good. Such a situation can occur when an unregistered non-resident supplier supplies a good on an installed basis to a registered person and the supplier, or another unregistered non-resident, pays tax on the service of installing the good in real property situated in Canada. In this situation, the unregistered non-resident may apply for a rebate in respect of the tax paid on the service of installing the good.
+
+78. The registered recipient of the supply of the installed good is deemed to have received from the unregistered non-resident supplier of the good a separate supply of the installation service that is not incidental to the supply of the good. Further, the supply of the installation service is deemed to be for consideration equal to that part of the total consideration paid or payable by the registered recipient for the good and its installation that can reasonably be attributed to the installation. This ensures that the registered recipient of the good is required to self-assess tax[Footnote83](#fn83) on that portion of the consideration paid to the unregistered non-resident supplier that can be reasonably attributed to the installation service where the good is for use otherwise than exclusively in a commercial activity.
+
+Filing of rebate application ss 252.41(1)
+
+79. The application for the rebate by the unregistered non-resident recipient of the installation service must be filed within one year after the installation service is completed using form GST189, [General Application for Rebate of GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html). Detailed information on the rebate is available in GST/HST guide RC4033, [General Application for GST/HST Rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4033.html) or from any CRA tax services office.
+
+Crediting of rebate by supplier ss 252.41(2)
+
+80. The unregistered non-resident recipient of the installation service may submit the rebate application to the registered installer, rather than to the CRA. In these circumstances, the installer may pay to or credit in favour of the non-resident the amount of the rebate. The installer in this case is required to submit the rebate application to the CRA with its GST/HST return for the reporting period in which the rebate was paid or credited to the non-resident. The installer may then deduct the amount of tax paid or credited to the non-resident on account of the rebate in determining its net tax for the reporting period in which the amount is paid or credited[Footnote84](#fn84).
+
+Joint and several liability ss 252.41(3)
+
+81. Where an installer pays or credits the rebate to the non-resident recipient of the service and the installer knew or ought to have known that the non-resident was not entitled to the amount paid or credited as a rebate, the installer and the non-resident are jointly and severally liable to repay, to the CRA, the amount paid or credited in error to the non-resident.
+
+s 252.41, ss 179(1)
+
+The facts in this example are the same as those in example 15.
+
+As previously indicated in example 15, the drop-shipment rules do not apply in this case. As a result, registrant 1 is required to collect tax of $50 in respect of the supply of the inspection service, while registrant 2 is required to collect tax of $250 in respect of its supply of the installation service.
+
+However, the non-resident has supplied a good on an installed basis to the registered customer and has paid tax on the service of installing the good in real property situated in Canada. The non-resident may therefore apply for a rebate of the $250 of tax paid on the installation service[Footnote85](#fn85).
+
+The customer is deemed to have received from the non-resident a separate taxable supply of the installation service for consideration equal to that part of the total consideration paid by the customer for the good and its installation that can reasonably be attributed to the installation. However, the customer is not required to self-assess tax in respect of this deemed separate supply of a service because it was acquired for use exclusively in the course of its commercial activities.
+
+## Enquiries by telephone
+
+**Technical enquiries on the GST/HST:** 1-800-959-8287**General enquiries on the GST/HST:** 1-800-959-5525 (Business Enquiries)**If you are located in Quebec:** 1-800-567-4692 (Revenu Québec)
+
+All technical publications on GST/HST are available on the CRA Web site at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+## Appendix A – Summary table of examples
+
+| Example | Description | *Excise Tax Act* |
+
+| --- | --- | --- |
+
+| 1 | Sale of a good drop-shipped to a consumer | 179(1) |
+
+| 2 | Sale of goods drop-shipped to a registrant | 179(1) |
+
+| 3 | Sale of a good drop-shipped to a consumer | 179(1) |
+
+| 4 | Supply of catalogues drop-shipped to residents for nil consideration | 179(1) |
+
+| 5 | Supply of mailing house services on drop-shipped magazines | 179(1) N/A |
+
+| 6 | Supply of a commercial service on a good drop-shipped to a registrant | 179(1) |
+
+| 7 | Supply of a commercial service on a zero-rated good drop-shipped to a registrant | 179(1) |
+
+| Example | Description | *Excise Tax Act* |
+
+| --- | --- | --- |
+
+| 8 | Sale of goods drop-shipped to a registrant | 179(2) |
+
+| 9 | Sale of goods drop-shipped to a registrant involved in non-commercial activities | 179(2) |
+
+| 10 | Sale of goods drop-shipped to a registrant (four parties) | 179(2) |
+
+| 11 | Sale of goods drop-shipped to a registrant (four parties) | 179(2)N/A |
+
+| 12 | Supply of a commercial service on a good drop-shipped to a registrant | 179(2) |
+
+| 13 | Supply of a commercial service on a good drop-shipped to a registrant (four parties) | 179(2) |
+
+| 14 | Supply of a commercial service on a good drop-shipped to a registrant (four parties) | 179(2) |
+
+| 15 | Supply of an installed good and installation service (four parties) | 179(2)N/A |
+
+| Example | Description | *Excise Tax Act* |
+
+| --- | --- | --- |
+
+| 16 | Transfer of goods to a non-resident recipient outside Canada | 179(3)(c)(i), 179(2) |
+
+| 17 | Transfer of goods to a person other than a non-resident recipient outside Canada | 179(3)(c)(i), 179(2) |
+
+| 18 | Transfer of goods to a carrier for export (four parties) | 179(3)(c)(i), 179(2) |
+
+| 19 | Transfer of a good to a non-resident recipient for export | 179(3)(c)(ii) |
+
+| 20 | Transfer of goods to a person other than a non-resident recipient for export (five parties) | 179(3)(c)(ii), 179(2) |
+
+| Example | Description | *Excise Tax Act* |
+
+| --- | --- | --- |
+
+| 21 | Good retained by a registrant to supply commercial services, and then exported | 179(4)(c), 179(3) |
+
+| 22 | Good retained by a registrant to transfer to a subsequent purchaser who issues drop-shipment certificate | 179(4)(c), 179(2) |
+
+| 23 | Goods retained by a registrant until purchaser found, and then exported | 179(4)(c), 179(3) |
+
+| 24 | Goods retained by a registrant to supply a commercial service to a subsequent purchaser, and exported | 179(4)(c), 179(3) |
+
+| 25 | Goods retained by a registrant for subsequent transfer to a manufacturer, and exported (four parties) | 179(4)(c), 179(2), (3) |
+
+| 26 | Goods retained by a registrant to supply a commercial service to a subsequent purchaser, and exported | 179(4)(d), 179(2), (3) |
+
+| 27 | Goods retained by another registrant to transfer to a subsequent purchaser, and exported (four parties) | 179(4)(d), 179(2), (3) |
+
+| Example | Description | *Excise Tax Act* |
+
+| --- | --- | --- |
+
+| 28 | Transfer of goods to a carrier for subsequent transfer to registrant and export | 179(5)(d), 179(3) |
+
+| 29 | Transfer of goods to a carrier for subsequent transfer to a named person | 179(5)(c), 179(2) |
+
+| 30 | Transfer of goods to a bailee for subsequent transfer to a named person and export | 179(5)(c), 179(3) |
+
+| 31 | Transfer of goods to a bailee for subsequent transfer to a named person and export (four parties) | 179(5)(c), 179(3) |
+
+| 32 | Transfer of goods to a bailee that issues drop-shipment certificate for subsequent transfer to a named person and export | 179(5) N/A, 179(2), (3) |
+
+| 33 | Transfer of a good to a bailee for subsequent transfer to a named person (four parties) | 179(5)(c) |
+
+| 34 | Transfer of a good to a bailee that issues drop-shipment certificate for subsequent transfer to a named person | 179(5) N/A, 179(2) |
+
+| 35 | Transfer of goods to a bailee for subsequent transfer to an unidentified person and export (four parties) | 179(5)(d),179(3) |
+
+| 36 | Transfer of goods to a bailee that issues a drop-shipment certificate for subsequent transfer to an unidentified person and export | 179(5)(d), 179(2), (3) |
+
+| Example | Description | *Excise Tax Act* |
+
+| --- | --- | --- |
+
+| 37 | Transfer of imported goods to a bailee by a non-resident and exported after commercial service is performed (four parties) | 179(6), 179(3) |
+
+| Example | Description | *Excise Tax Act* |
+
+| --- | --- | --- |
+
+| 38 | Sale of goods drop-shipped to a registrant | 180, 179(1) |
+
+| 39 | Transfer of good to a bailee for subsequent transfer to a named person | 180, 179(5) |
+
+| 40 | Transfer of imported goods to a bailee by a non-resident and exported after commercial service is performed (four parties) | 180, 179(2); 179(6) N/A |
+
+| 41 | Transfer of goods to a bailee for importation by bailee and exported after commercial service is performed | 169(2), 179(2), (3) |
+
+| 42 | Commercial service in respect of goods temporarily imported by a non-resident | 180, 179(3) |
+
+| 43 | Commercial service in respect of goods temporarily imported by a registrant | 169(2), 179(3) |
+
+| 44 | Commercial service in respect of temporarily imported goods | 169(2), 179(3) |
+
+| 45 | Commercial service in respect of temporarily imported goods | 169(2), 179(2), (3) |
+
+| Example | Description | *Excise Tax Act* |
+
+| --- | --- | --- |
+
+| 46 | Supply of installed goods and installation service (four parties) | 252.41, 179(1) |
+
+## Appendix B – Drop-shipment certificate
+
+**1. Registrant to whom the drop-shipment certificate is issued (the “registrant”)** Legal name:
+
+**2. Registrant who is issuing the drop-shipment certificate (the “registered consignee”)**
+
+Legal name:
+
+Business Number:
+
+**3. Description of drop-shipped goods** Provide sufficient detail to clearly identify the good(s). If more space is required, attach a separate sheet.
+
+**4. Scope of certificate** A) Indicate the scope of the certificate **(check one only)**:
+
+**___** A drop shipment of good(s) described above made on: Y - M - D
+
+**___** Multiple drop shipments of goods described above made on: Y - M - D
+
+**___** Ongoing drop shipments of goods described above made beginning: Y - M - D
+
+**___** Drop shipments of goods described above made during specified period: From Y - M - D to Y - M - D
+
+B) The registered consignee has or will receive physical possession of the goods described above in Canada from the registrant who has either **(check one only)**:
+
+**___** made a taxable supply in Canada of the goods by way of sale, to an unregistered non-resident named:
+
+**___** made a taxable supply in Canada of a service of manufacturing or producing the goods, to an unregistered non-resident named: , or
+
+**___** acquired physical possession of the goods belonging to an unregistered non-resident for the purpose of making a taxable supply of a commercial service in respect of the goods to an unregistered non-resident named: ,
+
+**and** the consignee is either **(check one only)**:
+
+**___** a recipient of a taxable (other than zero-rated) supply of the goods made by an unregistered non-resident named: .
+
+The consignee in this case will be required to self-assess tax in respect of an imported taxable supply of the goods if the consignee is not acquiring the goods for consumption, use or supply exclusively in the course of its commercial activities, or the good is a passenger vehicle that the consignee is acquiring for use in Canada as capital property in its commercial activities and that has a capital cost to the consignee exceeding the amount deemed to be the capital cost of the vehicle to the consignee for income tax purposes.
+
+**___** acquiring physical possession of the goods belonging to an unregistered non-resident named: , for the purpose of either making a taxable supply of a commercial service to an unregistered non-resident named: in respect of the goods or making a taxable supply in Canada to an unregistered non‑resident named: , of a service of manufacturing or producing goods (also referred to below as “the goods”). The consignee in this case will be required to collect tax with respect to a supply of the goods based on subsection 179(1) if the consignee transfers physical possession of the goods to another person in Canada, unless the goods are exported in accordance with subsection 179(3), or the other person is a registered person who provides a drop-shipment certificate to the consignee with respect to a supply of the goods and either has a potential obligation to collect tax with respect to a supply of the goods based on subsection 179(1) or a potential obligation to self-assess tax under Division IV with respect to an imported taxable supply of the goods.
+
+**5. Certification**
+
+I, (your name) , hereby certify and acknowledge that the information given on this form is, to the best of my knowledge, true, correct, and complete in every respect, and that I am the consignee or I am authorized to sign on behalf of the consignee.
+
+Signature of consignee or authorized person Y - M - D

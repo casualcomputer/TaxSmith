@@ -1,0 +1,81 @@
+Title: ARCHIVED - Commodity Futures and Certain Commodities
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it346r/archived-commodity-futures-certain-commodities.html
+Corpus path: corpus/cra/forms-publications/publications/it346r/archived-commodity-futures-certain-commodities.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Commodity Futures and Certain Commodities
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-346R**
+
+DATE: November 20, 1978
+
+SUBJECT: INCOME TAX ACT**Commodity Futures and Certain Commodities**
+
+REFERENCE: Section 9 (also subsection 39(1) and 96(1))
+
+This bulletin cancels and replaces Interpretation Bulletin IT-346 dated September 13, 1976. Current revisions are designated by vertical lines and deletions are designated by an asterisk(*).
+
+1. This bulletin discusses the tax treatment of transactions in commodity futures, debt obligation futures (for example, GNMA 8 % Futures) and actual commodities for which a futures market exists. For a discussion of the treatment of a partnership having such transactions, see 16 to 18 below.
+
+2. A resident of Canada is subject to tax on profits from commodity futures transactions whether they are conducted through a Canadian or a foreign exchange.
+
+INCOME TRANSACTIONS
+
+3. For taxpayers who take futures positions in, or who have transactions in, commodities connected with their business as part of their business operations, the trading in such futures or commodities creates fully taxable profits or fully allowable losses on account of income (hereinafter called "income treatment'). For example, this includes distillers who use certain grains in their business and also take futures positions in those grains.
+
+4. Also accorded income treatment for tax purposes are transactions in commodity futures or commodities by taxpayers who, while not carrying on a business that utilizes a particular commodity, have access to special (insider) information about the commodity which they use to their benefit in one or more such transactions. For example, a senior officer of a sugar refinery who personally enters into transactions in sugar futures or sugar is included in this category.
+
+5. Corporate taxpayers whose prime or only business activity is trading in items to which the comments in this bulletin apply are subject to the income treatment.
+
+SPECULATORS
+
+6. In this bulletin, a "speculator" is a taxpayer who takes one or more futures positions or acquires a commodity other than in the circumstances described in 3, 4 and 5 above.
+
+7. As a general rule, it is acceptable for speculators to report all their gains and losses from transactions in commodity futures or in commodities as capital gains and losses with the result that only one- half the gain is taxable, and one-half the loss is allowable subject to certain restrictions, (hereinafter called "capital treatment") provided such reporting is followed consistently from year to year.*
+
+8. If a speculator prefers to use the income treatment in reporting gains and losses in commodity futures or commodities, it may be done provided this reporting practice is followed consistently from year to year. If income treatment has been used by a speculator in 1976 or a subsequent taxation year, the Department will not permit a change in the basis of reporting. *Interpretation Bulletin CPP-3 discusses the effect of the income treatment and capital treatment on self-employed earnings for the purposes of the Canada Pension Plan.
+
+9. It is possible that a taxpayer described in 3 or 4 above, in addition to the transactions described therein to which income treatment is applicable, may have other transactions in respect of which that taxpayer may be treated as a speculator. For example, in the circumstances outlined below, the Department will accept the contention that the taxpayer should be treated as a speculator (and the comments in 7 and 8 above apply) with respect to the following transactions:
+
+(a) Commodity or futures trading in a commodity not connected with the taxpayer's business. For example, a wheat farmer who does not grow corn may report gains or losses with respect to any transaction in corn futures as a speculator.
+
+(b) Commodity or futures trading by a taxpayer described in 4 above in a commodity in respect of which the taxpayer has no special information.
+
+10. As a general rule, a taxpayer who takes commodity futures positions in, or who has transactions in, a commodity connected with a business, is considered to be trading as part of the business operations and the comments in 3 above apply. However, there may also be some cases where a taxpayer who produces or uses a commodity in a particular business operation has transactions in that commodity or in futures of that commodity that are, in fact, not part of that particular operation. Whether or not a transaction would fall within this category depends on the facts in each case. As an example, a jeweller who buys 100 ounces of gold for a business (a normal amount for that business) and also makes additional purchases of 1600 ounces of gold, or of futures contracts representing 1600 ounces of gold, as a speculation for his or her own account, may be viewed as a speculator with respect to the additional purchases when all the facts of the situation are considered.
+
+NON-RESIDENTS
+
+11. A non-resident who enters into a commodity futures contract transaction on a Canadian commodity exchange or who trades in commodities in Canada is subject to tax in Canada on the income from such transactions, pursuant to subparagraph 115(1)(a)(ii) and the definition of "business' in subsection 248(1), if the transaction is as described in 3 or 4 above or if the non-resident is a speculator who has chosen income treatment (see 6 to 10 above). If the non- resident is a resident of a country that has a tax convention or agreement with Canada, exemption may be afforded under its provisions. A non-resident speculator accepting capital treatment (see 7 above) will not be taxed in Canada on profits from the futures or commodity transactions.
+
+INTEREST
+
+12. If a taxpayer finances transactions in futures or commodities through borrowings and such transactions are given income treatment, the interest on the borrowed funds is a deductible expense provided the normal tests of reasonableness, legal liability, etc. are met.
+
+13. To the extent that a taxpayer' s borrowings are used to finance futures or commodity transactions that are given capital treatment, interest in respect thereof is not included in computing the taxpayer's adjusted cost base for the purposes of Subdivision c of the Act and is also not deductible under Subdivision b in computing the taxpayer's income.
+
+FOREIGN EXCHANGE
+
+14. The general principles relating to the determination of whether a foreign exchange gain or loss is on account of income or capital, as outlined in IT-95, "Foreign Exchange Gains and Losses", also apply to gains or losses resulting from futures transactions in foreign currency where such transactions are part of a taxpayer's business operations.
+
+15. A taxpayer who has transactions in foreign currency futures, or in foreign currency, that do not form part of a business operation will be treated in the same way as a speculator, as outlined in 7 and 8 above, with respect to such transactions. However, such a taxpayer who has special "inside" information will be accorded income treatment for tax purposes.
+
+PARTNERSHIPS
+
+16. Where a partnership, including one with limited partners, has transactions to which the comments of this bulletin apply, the determination of the treatment of such transactions for tax purposes is made at the partnership level in accordance with paragraph 96(1)(a). If the facts support the proposition (a) that the income treatment is required, then the gain or loss on such transactions is income or loss from a business for the purposes of subparagraph 96(1)(c)(ii) and each partner's share flows through to each partner by paragraph 96(1)(f) or 96(1)(g), or (b) that the partnership qualifies as a speculator, then each partner's share of the gain or loss must be given the same treatment. Where all the partners choose to have the income treatment apply, the gain or loss is treated as in (a) above. Where all the partners choose to have the capital treatment apply, the gain or loss on such transactions is a taxable capital gain or allowable capital loss from the disposition of partnership property for the purposes of subparagraph 96(1)(c)(i) and each partner's share flows through to each partner by paragraphs 96(1)(f) or 96(1)(g).
+
+Whichever reporting practice is initially chosen must be followed consistently from year to year in respect of a particular partnership's gains or losses on such transactions. Where a partner has transactions on his or her own account and qualifies as a speculator in respect thereof regarding these transactions, that partner is not committed to the treatment chosen by the partnership. Similarly, a partnership is not committed to the treatment which one of the partners may have chosen previously in respect of transactions on his or her own account.
+
+17. In determining the proper treatment to be afforded a partnership, the comments in 3 above apply to the partnership as if it were the taxpayer. However, the comments in 4 above must be applied in respect of each member of the partnership and if one member can be considered an insider then the income treatment is required for the partnership.
+
+18. Where a partnership's prime activity is trading in items to which the comments in this bulletin apply and the facts support the proposition that the partnership is carrying on a business of trading in such items, the income treatment is required for the partnership. An example might be where a general partner is engaged full time in researching the market and managing a limited partnership which was formed for the sole purpose of trading in such items.

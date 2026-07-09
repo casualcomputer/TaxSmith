@@ -1,0 +1,219 @@
+Title: Filing a Return and Paying the Underused Housing Tax
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn3/filing-return-paying-underused-housing-tax.html
+Corpus path: corpus/cra/forms-publications/publications/uhtn3/filing-return-paying-underused-housing-tax.md
+Document type: publication
+Last modified: 2023-01-17
+
+# Filing a Return and Paying the Underused Housing Tax
+
+### Update on underused housing tax filing requirements
+
+On March 26, 2026, [Budget 2025 Implementation Act, No. 1](https://www.parl.ca/DocumentViewer/en/45-1/bill/C-15/royal-assent), which proposed changes to the *Underused Housing Tax Act*, [received royal assent](https://www.canada.ca/en/department-finance/news/2026/03/legislation-passes-to-implement-budget-2025-canada-strong.html).
+
+**Affected owners do not need to file a return or pay the underused housing tax (UHT) for 2025 and subsequent calendar years.**
+
+Please note the requirement to file a UHT return and pay the tax still applies to the 2022, 2023, and 2024 calendar years.
+
+Underused Housing Tax Notice UHTN3
+
+April 2025
+
+This version replaces the one dated January 2023. This notice has been updated to reflect amendments to the *Underused Housing Tax Act* and its regulations, including information about the ownership of residential property in multiple capacities. These amendments received royal assent on June 20, 2024.
+
+The purpose of this notice is to provide you with information about filing an underused housing tax return and paying the underused housing tax for your residential property for a calendar year. Please note that if you are an excluded owner, this publication does not apply to you. For more information on who is an excluded owner, refer to [Underused Housing Tax Notice UHTN1, Introduction to the Underused Housing Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn1.html).
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the *Underused Housing Tax Act* (UHTA) and its regulations. The information in this publication does not replace the law found in the UHTA and its regulations.
+
+## Table of Contents
+
+- [Overview](#toc0)
+
+- [Reminders](#toc1)
+
+- [Filing a return](#toc2)
+
+    - [Multiple residential properties](#toc3)
+
+    - [Multiple owners](#toc4)
+
+    - [Ownership in multiple capacities (retroactive to January 1, 2022)](#toc5)
+
+    - [When is the return due](#toc6)
+
+- [Failing to file a return](#toc7)
+
+    - [Penalties](#toc8)
+
+          - [Failure to file your return by April 30 of the following calendar year](#toc9)
+
+          - [Failure to file your return by December 31 of the following calendar year](#toc10)
+
+          - [Examples of penalties for failing to file your return](#toc11)
+
+- [Paying the underused housing tax](#toc12)
+
+    - [When is the payment due](#toc13)
+
+- [Keeping records](#toc14)
+
+## Overview
+
+The Government of Canada introduced an underused housing tax (UHT) on the ownership of vacant or underused housing in Canada. The [Underused Housing Tax Act](https://laws.justice.gc.ca/eng/acts/u-0.5/index.html) (UHTA), which governs the UHT, received royal assent on June 9, 2022. The UHT took effect on January 1, 2022.
+
+## Reminders
+
+If you are an affected owner of a residential property on December 31 of a calendar year, you have to pay the UHT for the residential property for the calendar year, unless your ownership of the residential property is exempt from the UHT for the calendar year. For general information on the UHT, including an explanation of the terms affected owner, excluded owner, owner, and residential property, and to determine whether the UHT applies to you, refer to [Underused Housing Tax Notice UHTN1, Introduction to the Underused Housing Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn1.html).
+
+Even if your ownership of a residential property is exempt from the UHT for a calendar year, as an affected owner of a residential property on December 31 of a calendar year, you still have to file a return for the residential property using [Form UHT-2900, Underused Housing Tax Return and Election Form](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/uht-2900.html).
+
+There are penalties if you fail to file an annual return when it is due. Affected owners who are individuals are subject to a minimum penalty of $1,000. Affected owners that are corporations are subject to a minimum penalty of $2,000.
+
+To help you determine if your ownership of a residential property is exempt from the UHT for a calendar year, refer to the various [Underused housing tax notices](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/underused-housing-tax/underused-housing-tax-technical-information/underused-housing-tax-notices.html).
+
+## Filing a return
+
+### Multiple residential properties
+
+If you are an affected owner of two or more residential properties on December 31 of a calendar year, you have to file a separate return, [Form UHT-2900](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/uht-2900.html), for each residential property for the calendar year. You have to file a return for a residential property even if your ownership of it is exempt from the UHT.
+
+### Multiple owners
+
+If there are two or more affected owners of a residential property on December 31 of a calendar year, each of them has to file a separate return, [Form UHT-2900](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/uht-2900.html), for the residential property for the calendar year even if their respective ownership of it is exempt from the UHT.
+
+### Ownership in multiple capacities (retroactive to January 1, 2022)
+
+Starting with the 2022 calendar year, if you are an owner of a residential property in more than one capacity on December 31 of a calendar year, and one of those multiple capacities is as a partner of a partnership or as a trustee of a trust, you are treated as a separate person in respect of each of those multiple capacities. You have to file a separate return, [Form UHT-2900](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/uht-2900.html), for each capacity in which you are an affected owner of the residential property.
+
+On December 31, 2024, an individual is the only person identified in the applicable provincial land registration system as an owner of a residential property. According to a written trust document, the individual owns 60% of the property in the capacity as a trustee of a trust. The individual owns the remaining 40% of the property in their individual capacity (that is, neither in the capacity as a trustee of a trust nor as a partner of a partnership).
+
+Given the individual owns the property in two capacities, and one of those capacities is as a trustee of a trust, the individual is treated as a separate person with respect to their ownership of the residential property in each of their capacities (that is, in their capacity as a trustee of a trust and in their individual capacity). The individual has to determine whether they are an affected or excluded owner for each of their ownership capacities. The individual has to file an annual UHT return for the property for each capacity under which they are an affected owner for the 2024 calendar year.
+
+For more information about ownership in multiple capacities, refer to [Underused Housing Tax Notice UHTN1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn1.html).
+
+### When is the return due
+
+Your return, [Form UHT-2900](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/uht-2900.html), for a residential property for a calendar year is due by April 30 of the following calendar year.
+
+When the due date for a return falls on a Saturday, Sunday, or a public holiday recognized by the Canada Revenue Agency (CRA), your return is on time if the CRA receives it, or if it is postmarked, on or before the next business day.
+
+To file your return, you need a valid CRA tax identifier number, such as a social insurance number (SIN), an individual tax number (ITN), temporary taxation number (TTN), or a Canadian business number (BN) with a UHT program account identifier code (RU). For more information about these tax identifier numbers, go to "Part 1 – information about the owner" section of [How to complete the return and calculate the tax](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/underused-housing-tax/complete-return.html).
+
+## Failing to file a return
+
+If you are an affected owner of a residential property, there are penalties if you fail to file your return when it is due. In addition to the penalties, you will also have to pay any UHT and interest due.
+
+If you fail to file your return for a residential property for a calendar year when required, there is no time limit for the CRA to assess you the UHT, penalties, and interest in respect of the property for the calendar year.
+
+### Penalties
+
+#### Failure to file your return by April 30 of the following calendar year
+
+If you fail to file your return for a residential property for a calendar year by April 30 of the following calendar year, you have to pay a penalty that is the greater of the two following amounts:
+
+- $1,000 for affected owners who are individuals or $2,000 for affected owners that are not individuals (such as corporations)
+
+- the amount that is the total of the following:
+
+    - 5% of your UHT payable for the residential property for the calendar year
+
+    - 3% of your UHT payable for the residential property for the calendar year multiplied by the number of complete calendar months that the return is past due
+
+#### Failure to file your return by December 31 of the following calendar year
+
+If you fail to file your return for a residential property for a calendar year by December 31 of the following calendar year, there is an adjustment to the penalty calculation that could result in even higher penalties. The adjustment is applicable only to affected owners that claimed one of the following exemptions for the calendar year:
+
+- exemption for properties that cannot be used throughout the year (that is, the residential property is not suitable for year-round use as a place of residence or is seasonally inaccessible because public access is not maintained year-round)
+
+- exemption for uninhabitable properties (that is, the residential property is uninhabitable due to a disaster, hazardous condition, or renovation)
+
+- exemption for primary place of residence
+
+- exemption for qualifying occupancy
+
+- exemption for vacation properties (starting with the 2023 calendar year)
+
+If you fail to file your return for a residential property for a calendar year by December 31 of the following calendar year, the second amount in the penalty calculation (that is, the total of the two percentages applied to the UHT payable, as described in the "Failure to file your return by April 30 of the following calendar year" section of this notice) is calculated as if the above exemptions do not apply.
+
+Therefore, while you may not be liable for an amount of UHT in respect of a residential property for a calendar year because you have qualified for one of the above exemptions, the penalty for failing to file a return by December 31 of the following calendar year is calculated based on the amount of UHT that would have been payable in the absence of the exemption.
+
+#### Examples of penalties for failing to file your return
+
+An individual is not a citizen or permanent resident of Canada. The individual is the only person identified in the land registration system as an owner of a property in Canada (a detached house) that they purchased in 2020. The taxable value of the property for the 2024 calendar year is $2,000,000.
+
+The individual filed annual UHT returns for the 2022 and 2023 calendar years on time.
+
+Due to a severe rainstorm in early October 2024, a river near the property overflows its banks and the property is flooded and uninhabitable until repairs are completed in late March 2025.
+
+The individual has to file a return for the property for the 2024 calendar year by April 30, 2025. The individual does not have to pay the UHT for their 100% ownership percentage of the property for the 2024 calendar year because it was uninhabitable for at least 60 consecutive days in that calendar year as a result of a disaster caused by circumstances beyond their reasonable control and this exemption did not apply to the property for the same disaster in any previous calendar year. Therefore, the individual's UHT payable for the residential property for the 2024 calendar year is $0 because the exemption for uninhabitable properties applies.
+
+The individual fails to file their return for the property for the 2024 calendar year by April 30, 2025, however, they file the return by December 31, 2025 and claim the exemption for uninhabitable properties. The penalty for failing to file their return when required is calculated taking into account that the exemption for uninhabitable properties applies for that calendar year.
+
+As a result, the penalty amount that the individual has to pay is equal to the greater of:
+
+- $1,000 (they are an affected owner who is an individual)
+
+- $0, which is the total of the following:
+
+    - $0 (5% of $0 [the UHT payable because the exemption for uninhabitable properties applies])
+
+    - $0 (3% of $0 [the UHT payable because the exemption for uninhabitable properties applies])
+
+Therefore, the penalty amount that the individual has to pay is $1,000.
+
+If, in Example 2, the individual files their return for the property for the 2024 calendar year on January 10, 2026, and claims the exemption for uninhabitable properties, the return is past due by eight complete calendar months (that is, May to December 2025). The penalty for failing to file their return when required is calculated as if the exemption for uninhabitable properties did not apply for that calendar year.
+
+The individual's UHT payable would have been $20,000 (1% × $2,000,000 taxable value × 100% ownership percentage) if the exemption for uninhabitable properties did not apply for the 2024 calendar year.
+
+As a result, the penalty amount that the individual has to pay is equal to the greater of:
+
+- $1,000 (they are an affected owner who is an individual)
+
+- $5,800, which is the total of the following:
+
+    - $1,000 (5% of $20,000 [the UHT payable if the exemption did not apply])
+
+    - $4,800 (3% of $20,000 [the UHT payable if the exemption did not apply] multiplied by 8 complete calendar months past due)
+
+Therefore, the penalty amount that the individual has to pay is $5,800.
+
+## Paying the underused housing tax
+
+### When is the payment due
+
+If your ownership of a residential property is not exempt from the UHT for a calendar year, your payment for the calendar year is due by April 30 of the following calendar year.
+
+When the due date for a payment falls on a Saturday, Sunday, or a public holiday recognized by the CRA, your payment is on time if the CRA receives it on the next business day.
+
+If you do not pay your UHT for a calendar year by April 30 of the following calendar year, the CRA will begin charging you interest on the outstanding amount. To find out more, go to [Prescribed interest rates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+For information on how to make a payment with the CRA, refer to the "Payments" section in the "Additional Information" of [Form UHT-2900](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/uht-2900.html), and go to [Payments to the CRA](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html).
+
+## Keeping records
+
+Every affected owner of a residential property must keep records to enable the determination of their obligations and liabilities under the UHTA. Generally, you must keep the records for six years from the end of the year to which they relate.
+
+## Further information
+
+For all technical publications related to the UHTA, go to [Underused housing tax technical information](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/underused-housing-tax/underused-housing-tax-technical-information.html).
+
+For general enquiries about the underused housing tax, call the applicable telephone number:
+
+- if you are calling about a residential property that is owned by an individual and you are calling from:
+
+    - within Canada or the United States, call **1‑800‑959‑8281**
+
+    - outside Canada and the United States, call **613‑940‑8495** (collect calls accepted)
+
+- if you are calling about a residential property that is owned by a corporation and you are calling from:
+
+    - within Canada or the United States, call **1‑800‑959‑5525**
+
+    - outside Canada and the United States, call **613‑940‑8497** (collect calls accepted)
+
+To request a ruling or an interpretation related to the application of the underused housing tax, write to:
+
+GST/HST Rulings Directorate Canada Revenue Agency Place de Ville Tower A 5th floor 320 Queen St Ottawa ON K1A 0L5 Canada
+
+Fax: **1‑418‑566‑0319**
+
+Refer to [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), which explains the rulings and interpretations service offered by the Canada Revenue Agency.

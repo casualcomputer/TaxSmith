@@ -1,0 +1,384 @@
+---
+title: "Ferries, Toll Roads and Toll Bridges"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/28-1/ferries-toll-roads-toll-bridges.html
+last_modified: 2018-05-29
+---
+# Ferries, Toll Roads and Toll Bridges
+
+GST/HST memorandum 28.1 June 2009
+
+Note: This memorandum of Chapter 28 supersedes GST/HST Memorandum 28.1, Ferry, Road and Bridge Tolls, dated May 1998.
+
+This memorandum explains how the goods and services tax/harmonized sales tax (GST/HST) applies to supplies of ferry services and to supplies made on board ferries. It also explains how the GST/HST applies to supplies of a right to use a road or a bridge where a toll is charged for that right.
+
+- [Ferries](#P1)
+
+- [What is a ferry service?](#P2)
+
+- [Principal purpose of a ferry service](#P3)
+
+    - [First condition: the ferrying is to transport motor vehicles and passengers](#P3.1)
+
+          - [Other factors to consider](#P3.1.1)
+
+          - [All supplies of TPP and services must be considered](#P3.1.2)
+
+          - [Evaluation and re-evaluation](#P3.1.3)
+
+    - [Second condition: transportation must be between parts of a road or highway system](#P3.2)
+
+    - [Third condition: the parts of the road or highway system are separated by a stretch of water](#P3.3)
+
+- [Place of supply rules with respect to supplies made on board a ferry](#P4)
+
+- [Tax status of other supplies related to ferry services](#P5)
+
+- [Toll roads and toll bridges](#P6)
+
+- [Registration and input tax credits](#P7)
+
+Disclaimer
+
+The information in this memorandum does not replace the law found in the Excise Tax Act (the Act) and its regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate regulation, or contact a Canada Revenue Agency (CRA) GST/HST Rulings Centre for more information. These centres are listed in pamphlet RC4405, [GST/HST Rulings – Experts in GST/HST Legislation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4405.html). If you wish to make a technical enquiry on the GST/HST by telephone, please call 1 800 959 8287.
+
+If you are located in Quebec and wish to make a technical enquiry on the GST or obtain a ruling, please call Revenu Québec at 1 800-567 4692. For general information, please visit their Web site at [www.revenu.gouv.qc.ca](http://www.revenuquebec.ca/en/default.aspx).
+
+Note  HST
+
+Reference in this publication is made to supplies taxable at 5% (the rate of the GST) or 13% (the rate of the HST). The HST applies to supplies made in Nova Scotia, New Brunswick, and Newfoundland and Labrador (the participating provinces). If you are uncertain as to whether a supply is made in a participating province, you may refer to GST/HST Technical Information Bulletin B-078, *Place of Supply Rules Under the HST*.
+
+## Ferries
+
+Domestic ferry service Sch. V, Part VIII, s 1
+
+1. A supply, other than a zero rated supply, of a service of ferrying by watercraft passengers or property is exempt where the principal purpose of the ferrying is to transport motor vehicles and passengers between parts of a road or highway system that are separated by a stretch of water.
+
+International ferry service Sch. VI, Part VII, s 14
+
+2. A supply of a service of ferrying by watercraft passengers or property to or from a place outside Canada is zero-rated where the principal purpose of the ferrying is to transport motor vehicles and passengers between parts of a road or highway system that are separated by a stretch of water.
+
+Characterizing the supply
+
+3. When a transaction consists of two or more elements one of which is ferrying, one must determine whether the ferrying is a supply, an input into a supply, or an element that forms part of a supply. Such a determination is a determination of fact. GST/HST Policy Statement P 077R2, [Single and Multiple Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-077r2.html), provides guidelines to help make this determination.
+
+Supply of ferry service
+
+4. If ferrying is a supply and the legislative requirements described in paragraphs 1 or 2 are met, the supply of the ferry service is either exempt or zero rated, as the case may be.
+
+Transporting freight or passengers only
+
+5. If ferrying is a supply and the conditions described in paragraphs 1 or 2 are met for a particular route, and if the operator of the ferry service makes a particular supply of transporting freight or passengers without their motor vehicles, the supply of ferrying freight or passengers is also exempt or zero rated, as the case may be.
+
+Ferry services are transportation services
+
+6. If ferrying is a supply, but the legislative requirements described in paragraphs 1 or 2 are not met, the supply of the ferry service could be a supply of a passenger transportation service or a freight transportation service. A supply of transportation services may be taxable at 5% or 13%, or it may be zero-rated if it meets the criteria in any section of Part VII of Schedule VI. Detailed information on zero-rated transportation services is available in GST/HST Memoranda 28.2, [Freight Transportation Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/28-2.html), and 28.3, [Passenger Transportation Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/28-3.html).
+
+Supplies that are not supplies of ferry services
+
+7. In some cases, ferrying passengers or property is not a supply but an input into, or part of, a supply. This could be the case when revenues generated from supplies made on board a ferry by a bar/lounge, a restaurant or through video game terminals are greater than the revenues generated from ferrying passengers or property. In this case, the supply may be entertainment and recreation, and ferrying may be an input into this supply. As the supply would not be a supply of ferry services, the provisions of section 1 of Part VIII of Schedule V to the Act or section 14 of Part VII of Schedule VI to the Act would not apply.
+
+Meaning of freight
+
+8. The term "freight" is not defined in the Act. For purposes of this memorandum, it generally means tangible personal property (TPP) that is being transported. Motor vehicles, in this memorandum, are freight only when there are no accompanying passengers.
+
+Meaning of motor vehicle
+
+9. The term "motor vehicle" is not defined in the Act. It generally means a vehicle that is a self-propelled conveyance powered by an engine for use on roads.
+
+Meaning of watercraft, and ferrying by watercraft
+
+10. The term "watercraft" is not defined in the Act. It generally means a boat, barge, hovercraft, or similar vessel designed to transport passengers, vehicles or TPP across a stretch of water. This type of watercraft is typically called "a ferry".
+
+Ferrying by watercraft is considered to be a transportation service over a navigable stretch of water by boat or vessel, usually over short distances, with some regularity of service over a particular route.
+
+## What is a ferry service?
+
+Ferry service
+
+11. For GST/HST purposes, a ferry service refers to a particular ferry route that always has the same origin and the same destination (i.e., the furthest point the ferry travels to) even if there are several stops on the particular route. Therefore, when ferry routes have the same origin but different destinations, each route is a separate ferry service.
+
+A person operates a ferry from a central departure point to three different destinations. Each route is a separate ferry service regardless of whether one vessel is used or three different vessels are used.
+
+Types of ferry services
+
+12. A ferry service might connect opposite shores of a river, a lake or a bay, or it might connect with parts of a road or highway system that run along the shore of a river, a lake, a bay, or the seashore. The service might take only minutes to complete, or it could take hours. More than one ferry could be involved.
+
+Regular service
+
+13. A basic characteristic of a ferry service is regular service. However, a particular ferry service does not have to be a service that is provided on a routine basis, follow a regular schedule, or be provided year-round. For example, a ferry that operates only in a remote location or over very short distances may have no schedule and may depart only when enough traffic accumulates to make it economical to provide the service. It may also only operate on a seasonal basis.
+
+## Principal purpose of a ferry service
+
+The three conditions of the principal purpose test
+
+14. The principal purpose of the ferry service must be to transport motor vehicles and passengers between parts of a road or highway system that are separated by a stretch of water.
+
+Therefore, the principal purpose test is met if the following three conditions are met:
+
+- the ferrying is to transport motor vehicles and passengers;
+
+- the transportation must be between parts of a road or highway system; and
+
+- the parts of the road or highway system are separated by a stretch of water.
+
+Meaning of principal
+
+15. The term "principal" is not defined in the Act. The common meaning of the term "principal" generally refers to that which is first or highest in rank or degree, most important, foremost, or greatest. In certain situations, principal may mean more than 50%.
+
+### First condition: the ferrying is to transport motor vehicles and passengers
+
+16. The first condition of the principal purpose test requires the ferrying to be to transport motor vehicles and passengers. To determine if this condition is met, the following factors are taken into account:
+
+- the main object of the ferry service is to transport both motor vehicles and passengers;
+
+- services such as freight transportation or activities performed or carried on at the time of the ferry service other than the transportation of motor vehicles and passengers are incidental or ancillary to the transportation of motor vehicles and passengers;
+
+- the volume of space occupied by motor vehicles and passengers accounts for the greatest portion of the total revenue generating space;
+
+- the greatest portion of the inputs acquired to operate the ferry is attributable to the transportation of motor vehicles and passengers;
+
+- the overall revenues generated by the supplies of the ferry service are directly related or attributable to the transportation of motor vehicles and passengers, and must be the highest in importance of the total revenues.
+
+XYZ Ferry operates a ferry that usually transports passengers and their motor vehicles. The passengers and their motor vehicles account for 80% of the ferry's total capacity. In addition, the greatest portion of the inputs acquired to operate the ferry is attributable to the transportation of motor vehicles and passengers. Furthermore, the overall revenues generated by the supplies of the ferry service are directly attributable to the transportation of motor vehicles and passengers, and are the highest in importance of the ferry's total revenues. In this example, the first condition of the principal purpose test has been met.
+
+#### Other factors to consider
+
+Design of vessel
+
+17. The design of the vessel used on a particular route may be a good indicator for determining if the first condition of the principal purpose test (i.e., the ferrying is to transport motor vehicles and passengers) has been met. In some cases, the design of the vessel could be the determining factor.
+
+Ferrying only passengers or freight
+
+18. If a ferry is clearly designed to carry only passengers, the supplier is providing a passenger transportation service. Alternatively, if a ferry is clearly designed to carry only freight, then the supplier is providing a freight transportation service.
+
+A coastal freighter takes on passengers and their motor vehicles, lifting the vehicles by crane and setting them crosswise on the deck. There is no space reserved specifically for motor vehicles or passengers. These facts are a good indicator that the principal purpose of the service is freight transportation even though some service of ferrying motor vehicles and passengers is provided.
+
+Marine permits, licences or certificates
+
+19. The nature of a transportation permit received through government authorities to operate a vessel may not be a conclusive factor in determining whether the first condition of the principal purpose test has been met. There is no reference in section 1 of Part VIII of Schedule V or section 14 of Part VII of Schedule VI to permits, licences or certificates.
+
+20. Certificates may be issued under the Canada Shipping Act, 2001, (S.C. 2001, c. 26), or under its Hull Construction Regulations (C.R.C., c. 1431) or Life Saving Equipment Regulations (C.R.C., c. 1436). Such certificates may be used as evidence as to the limits of what a vessel is permitted to carry.
+
+A certificate issued to the operator of a vessel does not allow for carrying passengers or motor vehicles. In this case, the first condition of the principal purpose test is not met.
+
+Other factors
+
+21. The number of stops, the volume of traffic at the various stops, and the proximity of stops that serve only passengers to stops that serve both passengers and motor vehicles are other factors that might have to be considered when determining whether the first condition has been met.
+
+1. A ferry route has several stops at which passengers and motor vehicles can embark or disembark. However, at the ferry route's destination, only passengers can embark or disembark. In this case, the first condition of the principal purpose test is met because most of the stops serve passengers and motor vehicles.
+
+2. The destination of a ferry service is the main reason for its existence, but the wharves suitable for loading and unloading motor vehicles are at the origin of the route and at a stop that is very close to the origin. The ferry is capable of carrying small motor vehicles between the origin of the route and the first stop at the expense of having fewer passengers on the ferry. In this case, the principal purpose of the ferry service is to transport passengers and not to transport both motor vehicles and passengers. Therefore, the first condition of the principal test is not met.
+
+#### All supplies of TPP and services must be considered
+
+22. To determine whether the first condition of the principal purpose test (i.e., the ferrying is to transport motor vehicles and passengers) has been met, all supplies made by the operator must be considered.
+
+Consider elements that form part of a ferry service
+
+23. Certain elements such as access to a lounge or to sleeping quarters (i.e., berths or staterooms) are considered to be part of a single supply of a ferry service provided to passengers. Therefore, access to these facilities would not be considered a separate supply even if the operator charges a separate fee for their access.
+
+Consider all services, including freight transportation
+
+24. All supplies of services provided on a particular route should be considered together to determine which service is in the greatest proportion when compared to the sum of the other services. All the supplies of ferry services on a particular route, including the transportation of freight, must be evaluated together. If the transportation of freight outweighs the transportation of passengers and motor vehicles, then the first condition of the principal purpose test would not be met.
+
+Consider all supplies of TPP
+
+25. All supplies of TPP made by an operator on board a ferry must also be considered when determining whether the first condition has been met. These include supplies such as TPP supplied by a cafeteria, vending machines or a gift shop.
+
+Ancillary supplies
+
+26. For purposes of determining whether the first condition of the principal purpose test has been met, the rental of commercial space on board a ferry to vendors who may make available to onboard passengers vending machines, a tuck shop, video game terminals or arcade machines may be an ancillary supply. The revenues from rentals or leases must not be more than what would be considered ancillary to the overall revenues derived from the ferrying of motor vehicles and passengers.
+
+#### Evaluation and re-evaluation
+
+Fair and reasonable method
+
+27. The method used to determine whether the first condition of the principal purpose test (i.e., the ferrying is to transport motor vehicles and passengers) has been met must be fair and reasonable, and must be used on a consistent basis.
+
+An operator considers the total space on board a ferry as a basis for determining whether it meets the first condition of the principal purpose test. In total space, the operator includes the space used for the engines and the bridge which together account for a significant portion of the total space. This method could be considered unreasonable because the total space used in the calculation does not reflect the total space available for transporting motor vehicles and passengers.
+
+Method should be used consistently
+
+28. The method must be used consistently from period to period. It is expected that for most suppliers the period used will be a year, but any reasonable basis such as a seasonal basis would be acceptable.
+
+Re-evaluation
+
+29. A supplier of a ferry service should evaluate the ferry service on a regular basis to determine if its principal purpose remains the same.
+
+30. When a re-evaluation indicates a possible change in the principal purpose, the supplier should examine the reason for this change. Certain situations (e.g., a temporary change in demand that affects a route) may affect a ferry service; however, these situations may not necessarily change its principal purpose of transporting motor vehicles and passengers.
+
+Using a particular method to determine if the first condition of the principal purpose test has been met, a ferry operator determines that 60% of the supplies relate to transporting motor vehicles and passengers. The following year, one of the wharfs used on the ferry route is closed for renovation. When re evaluating the situation for that year, the operator determines that 40% of the supplies relate to transporting motor vehicles and passengers. However, because the 20% difference is due to the temporary closing of a wharf, this ferry service would still meet the first condition for that particular year.
+
+New routes
+
+31. If a supplier of a ferry service is planning a new route, then the financial and operational projections could be used to determine if the first condition is met. In this case, the same method used for evaluating the financial and operational projections should be used to evaluate actual results on that route.
+
+### Second condition: transportation must be between parts of a road or highway system
+
+32. The second condition of the principal purpose test requires the transportation of motor vehicles and passengers to be between parts of a road or highway system. To meet the second condition, a ferry must connect to a road or highway system in some way.
+
+1. A road follows a river valley that, for several kilometres, has sides that are too steep for a road. To travel this distance, traffic passes between the two parts of the road by means of a ferry service. In this example, the second condition of the principal purpose test is met because the ferry service is between parts of a road.
+
+2. A road connects the same points along a river that a ferry service does. The second condition of the principal purpose test is met because there is no legislative requirement that there be no alternative land route to the ferry route.
+
+Ferrying between mainland and island or between two islands
+
+33. Although a large island may have a road or highway system, smaller islands may not have any roads at all. The second condition of the principal purpose test has not been met when a ferry operates between the mainland and an island that does not have a road or highway system, or when the ferry operates between two islands neither of which, or only one of which, has a road or highway system.
+
+Ferrying between two points on the same island
+
+34. The second condition is met when a ferry service operates between two points on the same island and both the origin and the destination of the ferry service are connected to a road.
+
+Public or private wharf
+
+35. The land on which parts of a road or highway system are situated may be privately or publicly owned. If a wharf is privately owned and separates a stretch of water from a part of a road or highway system, this does not make any difference in determining whether the second condition has been met as long as the wharf is part of the road or highway system or part of the ferry service.
+
+### Third condition: the parts of the road or highway system are separated by a stretch of water
+
+36. The third condition of the principal purpose test requires that the parts of a road or highway system be separated by a stretch of water.
+
+Any navigable stretch of water
+
+37. A stretch of water is any body of navigable water that is generally bordered by land and that allows watercraft to travel either between or along its shores.
+
+A road/highway can join across or along a stretch of water
+
+38. A stretch of water may separate parts of a road or highway system that either joins across or along the shores of the stretch of water.
+
+A ferry travels along a river. Even though the origin and the destination of the ferry service are the same shore, the ferry has traversed a stretch of water.
+
+Any body of water
+
+39. A stretch of water can be any distance and can be a sea, a river or a lake. The water can be fresh water, salt water or a marsh.
+
+## Place of supply rules with respect to supplies made on board a ferry
+
+40. Suppliers of ferry services often sell TPP or provide services on board a ferry. The usual place of supply rules of section 142 of the Act apply to determine whether a supply is deemed to be made in Canada or outside Canada. For more information on the place of supply rules, refer to GST/HST Memorandum 3.3, [Place of Supply](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3.html).
+
+Supplies made in Canada ss 142(1)
+
+41. Generally, a supply by way of sale of TPP or a supply of a service is deemed to be made in Canada if the TPP is delivered or made available in Canada to the recipient of the supply or if the service is, or is to be, performed in whole or in part in Canada.
+
+Participating or non participating province
+
+42. If a supply is deemed to be made in Canada, it must then be determined whether it is made in a participating or a non-participating province. For more information on the place of supply rules, refer to GST/HST Technical Information Bulletin B-078, *Place of Supply Rules Under the HST*.
+
+Supplies made outside Canada ss 142(2)
+
+43. Generally, a supply by way of sale of TPP or a supply of a service is deemed to be made outside Canada if the TPP is delivered or made available outside Canada to the recipient of the supply or if the service is, or is to be, performed wholly outside Canada.
+
+Supplies on board a ferry while on an international voyage ss 180.1(2)
+
+44. When a ferry is on an international voyage, the TPP or services supplied on board to an individual (other than a passenger transportation service) are deemed to have been made outside Canada. Physical possession of the TPP must be transferred to the individual on board the vessel. In the case of a service, the service must be wholly performed on board the vessel.
+
+Meaning of international voyage ss 180.1(1)
+
+45. The term "international voyage" means any voyage (other than a voyage originating and terminating in Canada) of a vessel that is operated by a person in the course of a business of supplying passenger transportation services.
+
+A ferry operates between a port in Canada (its origin) and a port in the USA (its destination). Passengers can purchase souvenirs and food during the journey. Because the ferry is on an international voyage, if the conditions in paragraph 44 are met, the supplies to passengers on board the ferry are deemed to be made outside Canada, and are not subject to tax.
+
+Voyage through international waters between two Canadian ports
+
+46. A ferry, while travelling between two Canadian ports, may travel partly through international waters. This is not an international voyage.
+
+47. A supplier has to determine the place of supply for each supply of TPP or service made on board a ferry by applying the general rules in section 142 as described in paragraphs 41 and 42. A supplier must be able to provide reasonable proof that supplies made on board are made either inside or outside Canada.
+
+## Tax status of other supplies related to ferry services
+
+Taxable lease payments
+
+48. Leases of commercial space on board a vessel to vendors of property or services are taxable at 5% or 13%. Supplies by way of lease of commercial space are not part of a supply of a ferry service and the tax status of the leases must be determined separately.
+
+Vending machines
+
+49. When a ferry company (the lessor) and an operator (the lessee) of vending machines on board a ferry agree to split the proceeds from vending machines, then usually two supplies have been made. The first supply (the rental of space on board the ferry) is made by the ferry company to the operator of the vending machines for consideration equal to the proceeds given to the ferry company. The second supply (sales made through vending machines) is made by the operator of the vending machines to its customers for the full amount of the consideration (i.e., all the proceeds) from the machines.
+
+Upgrading accommodation
+
+50. Ferry companies may offer passengers the choice of upgrading their accommodations while travelling on a ferry by paying an additional amount. The upgraded accommodation forms part of a single supply of a ferry service even if the amount for the upgrade is itemized separately from the ferry charge. If the supply of the ferry service is exempt or zero-rated, no tax will be paid on the additional consideration for the ferry service.
+
+Service of maintaining or operating a ferry service
+
+51. A ferry owner such as a provincial or municipal government may contract with an operator to maintain and/or operate a ferry service. The service of maintaining and/or operating a ferry service provided by an operator to an owner is a taxable supply. When, in addition to the service of maintaining and/or operating the ferry service, the operator also supplies ferry services to passengers on the owner's behalf, two supplies have been made:
+
+- a taxable supply of a service of maintaining and/or operating a ferry service made by the operator to the owner; and
+
+- a supply of ferry services to passengers made by the owner. This supply may be exempt if the conditions set out in section 1 of Part VIII of Schedule V are met or may be zero rated if the conditions set out in section 14 of Part VII of Schedule VI are met.
+
+An organization is required by legislation to provide ferry services between two counties separated by a river. The principal purpose of the ferry is to transport both motor vehicles and passengers across the river and both the origin and the destination of the ferry service connect to roads. The organization acquires the services of FerryCo to carry on the activity of operating the ferry service and to supply, on its behalf, ferry services. In this situation,
+
+- FerryCo has made a taxable supply to the organization of a service of operating the ferry service; and
+
+- the organization has made an exempt supply of ferry services.
+
+52. For more information on acting on behalf of another person, please refer to Info Sheet GI 12, [Agents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-012.html).
+
+## Toll roads and toll bridges
+
+Rights to use a toll road or a toll bridge Sch. V, Part VIII, s 2
+
+53. A supply of a right to use a road or bridge where a toll is charged for that right is exempt.
+
+Meaning of bridge
+
+54. "Bridge" is not defined in the Act. Generally, it means a structure carrying a road, path or railway across a stream, river, ravine or road, and includes contiguous land and buildings that are used exclusively for the operation of the bridge.
+
+Meaning of road
+
+55. "Road" is not defined in the Act. It generally means a path or way between different places, usually wide enough for vehicles and pedestrians, and with a specially prepared surface. It is also understood to be part of such a way intended for vehicles, the roadway.
+
+Meaning of toll
+
+56. "Toll" is not defined in the Act. It generally means a sum of money that is paid to use a public road, highway or bridge that may be used by pedestrians and/or motor vehicles. For purposes of the Act, a toll does not have to be imposed under a federal or provincial statute.
+
+Right to use a road
+
+57. If a portion of a road or highway passes through a tunnel and a toll is charged to use this portion of the road or highway system, the supply for which the toll is consideration is a supply of a right to use that road or highway. This is an exempt supply pursuant to section 2 of Part VIII of Schedule V.
+
+Service of maintaining or operating a bridge or road
+
+58. An owner or lessee of a bridge or road may contract with an operator to maintain and/or operate the bridge or road. The service of maintaining and/or operating the bridge or road provided by an operator to an owner/lessee is a taxable supply. When, in addition to the service of maintaining and/or operating the bridge or road, the operator also charges, on behalf of the owner/lessee, a toll for a right to use the bridge or road, two supplies have been made:
+
+- a taxable supply of a service of maintaining and/or operating a bridge or road made by the operator to the owner/lessee; and
+
+- an exempt supply of a right to use a road or bridge made by the owner/lessee.
+
+59. For more information on acting on behalf of another person, please refer to Info Sheet GI 12, [Agents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-012.html).
+
+Using transponders for toll billing
+
+60. Certain highway or bridge authorities provide transponders (radar detecting devices) to users of the highway or bridge to facilitate the toll-billing cycle. These transponders track when, and sometimes where, users enter and exit a highway or bridge.
+
+Supply of transponders for consideration
+
+61. Where a transponder is provided, otherwise than by way of lease, to an end-user for consideration, the transponder will be considered part of the exempt supply of a right to use a highway or a bridge. Therefore, any consideration relating to the provision of the transponder is not subject to tax.
+
+Supply of transponders by way of lease
+
+62. Where a transponder is supplied by way of lease to end-users, the supply is considered a separate supply from the exempt supply of the right to use a road or bridge and is a taxable supply of TPP.
+
+Other charges
+
+63. Highway and bridge authorities or operators may charge additional amounts, some of which may form part of the consideration for a right to use a road or bridge while others may be consideration for separate supplies that are usually taxable at 5% or 13%.
+
+A highway authority charges an administrative fee to a user for tolls that remain unpaid when reminder notices have been sent. This fee is consideration for a separate taxable supply of an administrative service in respect of the unpaid tolls.
+
+Zero rated supply Sch. VI, Part VIII, s 2
+
+64. A supply of property or a service to an international bridge or tunnel authority, for use in the construction of a bridge or tunnel that crosses the boundary between Canada and the United States, is zero-rated.
+
+## Registration and input tax credits
+
+65. Suppliers of ferry services that make taxable supplies may be required to register for GST/HST purposes. More information is available in GST/HST Memorandum 2.1, [Required Registration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/2-1.html).
+
+66. Registrant suppliers making taxable supplies may be eligible to claim input tax credits in respect of the GST/HST paid or payable on purchases relating to these supplies. For more information on input tax credit eligibility, refer to GST/HST Memorandum 8.1, [General Eligibility Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1.html).
+
+## Enquiries by telephone
+
+**Technical enquiries on the GST/HST:** 1-800-959-8287
+
+**General enquiries on the GST/HST:** 1-800-959-5525 (Business Enquiries)
+
+**If you are located in Quebec:** 1-800-567-4692 (Revenu Québec)
+
+All technical publications on GST/HST are available on the CRA Web site at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).

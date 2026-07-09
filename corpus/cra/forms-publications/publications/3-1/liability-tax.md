@@ -1,0 +1,766 @@
+---
+title: "Liability for Tax"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html
+last_modified: 2018-05-29
+---
+# Liability for Tax
+
+GST/HST memorandum 3.1 August 1999[Modified September 1, 2000](#BULLETIN_BOARD_ANNOUNCEMENT)
+
+Overview
+
+This memorandum explains the concepts of a supply, the different types of taxable supplies and the liability for the payment, collection and remittance of the Goods and Services Tax (GST)/ Harmonized Sales Tax (HST) as required under the *Excise Tax Act.*
+
+Disclaimer
+
+The information in this memorandum does not replace the law found in the *Excise Tax Act* and its Regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation, or contact a Canada Revenue Agency (CRA) GST/HST Rulings Centre for more information. These centres are listed in GST/HST Memorandum 1.2, [Canada Revenue Agency GST/HST Rulings Centres](https://www.canada.ca/E/pub/gm/1-2/README.html). If you wish to make a technical enquiry on the GST/HST by telephone, please call the toll-free number 1-800-959-8287.
+
+If you are located in the Province of Quebec, please contact Revenu Québec by calling the toll-free number 1-800-567-4692 for additional information.
+
+This publication supersedes GST Memorandum 300-1, *Liability for Tax,* GST Memorandum 300-2, *Taxable Supplies*of and GST Memorandum 300-3, *Zero-rated Supplies*. Due to the number of significant changes, the revisions have not been side-barred.
+
+Reference in this publication is made to supplies taxable at 7% or 15% (the rate of the HST). The 15% HST applies to supplies made in Nova Scotia, New Brunswick and Newfoundland (the "participating provinces"). If a person is uncertain as to whether the supply is made in a participating province, the person may refer to Technical Information Bulletin B-078, *Place of Supply Rules under the HST*, available from any Revenue Canada tax services office.
+
+## Table of contents
+
+- [General overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+- [Liability to pay](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+- [Other information for recipient](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+- [Imports](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+- [Liability to collect](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+    - [Real property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+    - [Small supplier](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+- [Entitlements and obligations of registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+- [Supply of goods and services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+    - [Determining the nature of a supply](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+    - [Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+    - [Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+    - [Money](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+- [Taxable supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+    - [Zero-rated supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+- [Supply in Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+- [Supply in a province](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+- [Deemed suppliers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+    - [Agents and auctioneers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+    - [Direct sellers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+    - [Supplies for non-residents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+    - [Trusts](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+    - [Employee and shareholder benefits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+    - [Appropriation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+- [Deemed recipients](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+    - [Ceasing to be a registrant](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+- [Deemed self-supply](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+    - [Property acquired by insurers on the settlement of a claim](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+    - [Change-in-use rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+    - [Self-supply of real property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+- [Joint liability](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-1/liability-tax.html)
+
+[Proposed amendments]
+
+[Where information reflects proposed amendments, the information is enclosed in square brackets.] In this publication, the proposed amendments that are indicated through the use of square brackets arise from the Notice of Ways and Means Motion tabled on June 4, 1999. Any commentary in this publication should not be taken as a statement by the Department that such amendments will be enacted in their current form.
+
+## General overview
+
+Taxable and exempt supplies
+
+1. Under the Act, all supplies are either taxable supplies or exempt supplies. Exempt supplies are supplies that are not subject to the GST/HST and are listed in Schedule V to the Act. Taxable supplies are all supplies made in the course of a commercial activity and may be taxable at 7%, 15% or 0% (zero-rated supplies). Zero-rated supplies are those supplies specifically listed in Schedule VI to the Act. Certain taxable supplies may also be deemed to be made outside Canada, and therefore are not subject to the GST/HST (two examples are supplies by non-residents (see subsection 143(1)) and goods delivered or services performed aboard international flights (see subsection 180.1(2)).
+
+Participating provinces ss 165(1), 165(2)
+
+2. The HST generally only applies to taxable supplies made in the participating provinces. Schedule VIII to the Act sets out the participating provinces under the HST and the tax rate for each of them. The participating provinces are Nova Scotia, New Brunswick and Newfoundland, and the Nova Scotia and Newfoundland offshore areas to the extent that offshore activities are carried out in these areas. The rate of the provincial component of the HST in each of the current participating provinces is 8%. Therefore, if a taxable supply (other than a zero-rated supply) is made in a participating province, tax will apply at a total rate of 15% (7% federal component, plus 8% provincial component).
+
+Additional information
+
+3. For information on taxable supplies, including zero-rated supplies, refer to paragraphs 67 to 69 and to Chapter 4, *Zero-Rated Supplies.* Information on exempt supplies will be available in Chapter 5, *Exempt Supplies.* Information on when supplies are considered to be made in a participating province is available in paragraphs 73 to 80.
+
+## Liability to pay
+
+Who is required to pay ss 165(1)
+
+4. Every recipient of a taxable supply (other than a zero-rated supply) made in Canada is required to pay tax in respect of the supply calculated at the rate of 7% on the value of the consideration for the supply.
+
+Who is required to pay in participating province ss 165(2)
+
+5. Every recipient of a taxable supply (other than a zero-rated supply) made in a participating province is required to pay, in addition to the tax imposed by subsection 165(1), tax in respect of the supply calculated at the tax rate for that province (8% which is the provincial component of the HST) on the value of the consideration for the supply.
+
+Recipient not required to pay GST/HST
+
+6. A recipient of a taxable supply (other than a sale of real property) made by a small supplier who is not registered for GST/HST is not required to pay the GST/HST on the supply. Refer to paragraphs 30 to 34 for information on small suppliers.
+
+Meaning of recipient ss 123(1)
+
+- Person liable under an agreement
+
+- Person liable to pay
+
+- Person liable where no consideration is payable
+
+7. A recipient of a supply of property or a service means:
+
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration,
+
+(b) where paragraph (a) does not apply and consideration is payable for the supply, the person who is liable to pay that consideration, and
+
+(c) where no consideration is payable for the supply,
+
+(i) in the case of a supply of property by way of sale, the person to whom the property is delivered or made available,
+
+(ii) in the case of a supply of property otherwise than by way of sale, the person to whom possession or use of the property is given or made available, and
+
+(iii) in the case of a supply of a service, the person to whom the service is rendered,
+
+and any reference to a person to whom a supply is made shall be read as a reference to the recipient of the supply.
+
+8. Contrary to the ordinary use of the word, a recipient need not receive anything. It does not matter who actually uses or receives the benefit of a supply (unless no consideration is payable for the supply), it is generally the person who pays or agrees to pay who bears the liability for the tax.
+
+## Other information for recipient
+
+Liability for tax
+
+9. The only way for the recipient to discharge the liability for the tax payable on a supply is for the recipient to pay the tax to the supplier (i.e., a registrant) or to pay the tax to the Receiver General in those specific cases where self-assessment is required (refer to paragraphs 18 to 20, 28 and 76).
+
+No tax payable for certain provincial governments
+
+10. Certain provincial government departments, Crown corporations, boards, commissions and agencies are eligible to make purchases without paying the GST/HST. The Department maintains lists of the organizations that are part of a provincial government entity. However, provincial governments from participating provinces do pay the GST/ HST on their purchases. More information on provincial governments will be available in Chapter 18, *Special Sectors: Government.*
+
+Purchases made by Indians and Indian bands
+
+11. In all of Canada except the Yukon, the GST/HST does not apply to on-reserve purchases of goods by Indians and Indian bands or to off-reserve purchases by Indians and Indian bands of goods delivered to the reserve by vendors or their agents. The GST/HST will also not apply to services purchased on reserves by Indians where the service is performed totally on a reserve.
+
+Supplies to Indians in the Yukon
+
+12. As a result of certain land claims and self-government agreements, effective February 15, 1998, suppliers of taxable goods and services to Indians, Indian bands and band-empowered entities in the Yukon must charge and collect the GST on these supplies.
+
+More information
+
+13. Detailed information on purchases by Indians and Indian bands is available in Technical Information Bulletin B-039R, *GST Administrative Policy: Application of the GST to Indians*, or from the nearest Revenue Canada tax services office.
+
+## Imports
+
+Imposition of tax on imported goods s 212
+
+14. Every person who is liable under the *Customs Act* to pay duty on imported goods, or who would be so liable if the goods were subject to duty, is required to pay tax on the goods calculated at the GST rate of 7% on the value of the goods. No tax is payable for goods listed in Schedule VII, *Non-Taxable Importations*, to the *Excise Tax Act*. More information on imported goods is available in GST/HST Memorandum 6.1*, Imported Goods*, of Chapter 6, *Imports*.
+
+Imposition of tax on imported goods in participating provinces ss 212.1(2)
+
+15. Every person who is resident in a participating province and is liable under the *Customs Act* to pay duty on imported goods, or who would be so liable if the goods were subject to duty, is required to pay, in addition to the tax imposed by section 212, a tax on the goods calculated at the tax rate for that province (8% which is the provincial component of the HST) on the value of the goods.
+
+Exceptions s 213 and ss 212.1(3)
+
+16. The provincial component of the HST does not apply to imported goods that are accounted for as commercial goods, specified motor vehicles or a mobile or floating home that has been used or occupied in Canada as a place of residence by an individual. Furthermore, the provincial component is not payable on goods included in Schedule VII, *Non-Taxable Importations*. For information on these goods and other information pertaining to the HST on imports, refer to GST/HST Memorandum 6.1, *Imported Goods*, of Chapter 6, *Imports*.
+
+Offshore areas ss 212.1(4)
+
+17. The provincial component of the HST does not apply to goods imported by or on behalf of persons who are resident in the Nova Scotia offshore area or the Newfoundland offshore area unless the goods are imported for consumption, use or supply in the course of an offshore activity or the persons are also resident in a participating province that is not an offshore area.
+
+Imported taxable supply s 217 and 218
+
+18. Every recipient of an imported taxable supply is required to pay tax calculated at the GST rate of 7% on the value of the consideration for the imported taxable supply. An imported taxable supply includes intangible personal property, services and certain tangible personal property, but does not include supplies acquired exclusively (i.e., 90% or more) for use in commercial activities. More information on imported taxable supplies will be available in GST/HST Memorandum 6.2, *Imported Services and Intangible Property*, of Chapter 6, *Imports*.
+
+Tax in a participating province s 218.1
+
+19. Residents of a participating province will also be required to self-assess the 8% provincial component of the HST on an imported taxable supply of intangible personal property or a service that is for consumption, use or supply primarily (i.e., more than 50%) in the participating province. The tax imposed under section 218.1 applies in addition to the tax imposed under section 218. Self-assessment is not required if the intangible personal property or service is for use exclusively in a commercial activity.
+
+20. In addition, in the case of an imported taxable supply of tangible personal property as described in paragraph 217(b) (i.e., drop-shipped property), every registrant who is the recipient of such a supply must self-assess the 8% provincial component where physical possession of the property is transferred to the registrant in a participating province. Finally, a recipient of a taxable supply of tangible personal property described in paragraph 217(b.1) will be required to self-assess tax on the supply if the property is delivered or made available in a participating province, provided the person is either a registrant or a resident of the participating province. In both cases, the tax is payable regardless of the extent to which the supply was acquired for consumption, use or supply in a participating province.
+
+Selected listed financial institutions ss 218.1(2)
+
+21. Tax (other than a prescribed amount) is not imposed under subsection 218.1(1) on an imported taxable supply if the recipient is a selected listed financial institution. These institutions account for the provincial portion of the HST on their purchases through adjustments to their net tax calculation under subsection 225.2(2). More information on selected listed financial institutions is available in Technical Information Bulletin B-083R, *Financial Services under the HST*.
+
+Additional information
+
+22. For more information on imported taxable supplies and the HST, refer to GST/HST Memorandum 6.2, *Imported Services and Intangible Property*, of Chapter 6, *Imports,* and to Technical Information Bulletin B-079, *Self Assessment of the HST on Supplies Brought into a Participating Province.*
+
+## Liability to collect
+
+Meaning of supplier ss 123(1)
+
+23. A supplier in respect of a supply means the person making the supply. In most cases, the supplier of property is the legal owner of the property and the supplier of the services is the person who will perform the services.
+
+24. Suppliers who make zero-rated supplies and exempt supplies are not required to collect and account for tax on those supplies since the tax rate for zero-rated supplies is 0% and exempt supplies are not subject to tax. In addition, suppliers who make supplies that are deemed to be made outside Canada are not required to collect and account for GST/HST.
+
+Collection of tax ss 221(1)
+
+25. Generally, every person who makes a taxable supply is required to collect from the recipient of the supply the tax imposed on the recipient under section 165.
+
+### Real property
+
+Collection of tax ss 221(1)
+
+26. As a general rule, a person making a taxable supply of real property is required to collect the GST/HST payable by the recipient in respect of the supply.
+
+Exceptions
+
+27. There are exceptions to the obligation for suppliers to collect tax in the case of some taxable supplies of real property by way of sale. These include, for example:
+
+- where the supplier is a non-resident person or is only deemed to be a resident for certain purposes; or
+
+- where the recipient is registered for the GST/HST (other than a recipient who is an individual buying a residential complex).
+
+Tax on purchase of real property ss 228(4)
+
+28. Where tax is payable by the recipient on the purchase of real property from a supplier who is not required to collect the tax and is not deemed to have collected the tax, the recipient is required to self-assess the tax payable on the purchase and remit it directly to the Receiver General.
+
+More information
+
+29. Detailed information on all aspects of the application of the GST/HST to real property is available in Chapter 19, *Special Sectors: Real Property*.
+
+### Small supplier
+
+Definition of small supplier ss 148(1)
+
+30. All persons making taxable supplies in Canada are required to collect the tax payable on those supplies unless they are small suppliers not registered for purposes of the GST/HST. A person is a small supplier during any particular calendar quarter and the following month if the total worldwide value of the consideration for taxable supplies, including zero-rated supplies, made by the person (or an associate of the person who was an associate at the beginning of the calendar quarter in which the calculation is being made) that became due, or was paid without having become due, in the previous four calendar quarters does not exceed $30,000. The calculation should not include consideration attributable to the sale of goodwill of a business or certain taxable supplies such as zero-rated supplies of financial services and supplies by way of sale of capital property.
+
+Non-resident performers ss 148(3)
+
+31. A non-resident person whose only business carried on in Canada is supplying admissions in respect of a place of amusement, a seminar, an activity, or an event is excluded from being a small supplier.
+
+Voluntary registration ss 240(3)
+
+32. A person who is a small supplier is not required to be registered for purposes of the GST/HST unless the person is engaged in a taxi business, and then only in respect of that business. A small supplier engaged in a commercial activity in Canada can, however, voluntarily apply to be registered. More information on voluntary registration is available in GST/HST Memorandum 2.2, *Small Suppliers*, of Chapter 2, *Registration*.
+
+Supply by small supplier not a registrant s 166
+
+33. If, at the time the consideration is paid or becomes due for a taxable supply (other than a sale of real property), the person who made the supply was at that time a small supplier and was neither registered nor required to be registered, no tax is payable in respect of that supply.
+
+Public service bodies, charities and public institutions ss 148(2) and s 148.1
+
+34. A special small supplier test applies to public service bodies. In addition, a gross revenue test could also apply to determine whether charities and public institutions qualify as small suppliers. For more information on the special small supplier test and gross revenue test, refer to GST/HST Memorandum 2.2, *Small Suppliers,* of Chapter 2, *Registration*.
+
+## Entitlements and obligations of registrants
+
+Meaning of registrant ss 123(1) and 240(1)
+
+35. A registrant is a person who is registered or who is required to be registered for purposes of the GST/HST. Every person who makes a taxable supply in Canada in the course of a commercial activity engaged in by the person in Canada must register for the GST/HST, except where:
+
+- the person is a small supplier;
+
+- the only commercial activity of the person is the making of supplies of real property by way of sale otherwise than in the course of a business; or
+
+- the person is a non-resident person who does not carry on any business in Canada.
+
+Taxi operators and non-resident performers ss 240(1.1) and (2)
+
+36. Registration for the GST/HST is mandatory for all persons who carry on a taxi business even if they are small suppliers. This is also the case for non-resident performers who enter Canada for the purpose of making taxable supplies of admissions to a place of amusement, a seminar, an activity or an event.
+
+Additional information
+
+37. For further information on who is required to be registered for purposes of the GST/HST, refer to GST/HST Memorandum 2.1, *Required Registration*, of Chapter 2, *Registration*.
+
+Amounts collected held in trust ss 222(1)
+
+38. All amounts collected as or on account of tax by a person, whether or not the amounts were in fact collectible, are deemed to be held in trust by the person until they are remitted or withdrawn from the trust in accordance with the Act (i.e., by claiming the amount of any available input tax credit (ITC) or other deductions).
+
+Net tax ss 228(1)
+
+39. Persons who are required to file a GST/HST return for a reporting period must calculate in that return the net tax for the reporting period for which the return is required to be filed. Special rules apply to selected listed financial institutions. See Technical Information Bulletin B-083R, *Financial Services under the HST*, for further information.
+
+Calculation and remittance of tax s 225, 225.1 and 227
+
+40. The net tax for a reporting period is generally the difference between the tax collectible or collected during the reporting period (and all other amounts that must be added to the net tax for the reporting period) and any ITCs that are claimed in the return for the reporting period as well as any other amounts that may be deducted from that net tax and are deducted in the return. However, some registrants use a special net tax calculation. For example, there is a special net tax calculation for charities and the Quick Method of Accounting for small businesses. Detailed information on these methods is available in the Revenue Canada Guides, *GST/HST* *Information for Charities* and *General Information for GST/HST Registrants*.
+
+ITCs ss 169(1)
+
+41. All registrants who make taxable supplies (including zero-rated supplies and supplies deemed to be made outside Canada) are entitled to claim ITCs in respect of the GST/HST that becomes payable or is paid without becoming payable during a reporting period in which they are registrants, on purchases, importations or other acquisitions relating to the making of taxable supplies. A full or partial ITC can be claimed depending on the extent to which the purchases relate to the making of taxable supplies.
+
+No ITCs for exempt supplies
+
+42. Exempt supplies are not subject to the GST/HST. Persons making only exempt supplies are not entitled to claim ITCs for the GST/HST paid or payable on purchases, importations or other acquisitions relating to the making of exempt supplies. More information on ITCs will be available in Chapter 8, *Input Tax Credits: Eligible ITCs.*
+
+Disclosure of tax s 223
+
+43. The Act imposes certain requirements with respect to the disclosure of tax on invoices, receipts or in other ways to provide recipients with sufficient information to enable them to ascertain whether they have satisfied their liability to pay tax on taxable supplies. A person who makes a taxable supply must furnish, upon request, sufficient information, in writing, to substantiate a claim for an ITC or rebate.
+
+Three ways to disclose tax
+
+44. Registrants making taxable supplies (other than zero-rated supplies) of goods and services are required to disclose to purchasers, in one of the following three ways, that the tax has been charged on the supply:
+
+- by indicating on receipts, invoices or in a written agreement the consideration paid or payable and the actual amount of tax payable on the supply in a manner that clearly indicates the amount of tax;
+
+- by indicating on receipts, invoices or in a written agreement that the amount paid or payable includes the tax payable on the supply; or
+
+- in a manner prescribed by regulation (*Disclosure of Goods and Services Tax Regulations*), such as by giving clearly visible notice to the recipient of a taxable supply at the place where the supply is made that the price includes the tax.
+
+[ss 223(1)]
+
+[ss 223(1.1)]
+
+[If a registrant chooses to indicate the amount of GST/HST on invoices, receipts or written agreements, whether or not in conjunction with the use of signs, the total amount of tax payable or the total of the rates (i.e., 7% or 15%) at which tax is payable must be indicated on the invoices, receipts or agreements. This proposed amendment comes into force on April 7, 1997.]
+
+[Point of sale rebate on books ss 223(1.2)]
+
+45. [If a supplier has credited or rebated a recipient the 8% provincial component of the HST at point of sale in relation to the supply of qualifying printed books or other eligible property, the supplier is not required to indicate the provincial component of the HST that has been credited or rebated in disclosing the tax for the supply. This proposed amendment comes into force on April 7, 1997.]
+
+Information for ITC purposes ss 169(4)
+
+46. There are also requirements for documentation that a registrant must obtain and maintain to support a claim for an ITC. While these requirements do not impose any restrictions on the form of the documents issued or maintained, they do require that certain information be contained in or on those documents or records. Details concerning the information that registrants are required to furnish to their customers on request in order that those customers may substantiate their ITC claims will be available in Chapter 8, *Input Tax Credits*: *Eligible Input Tax Credits.*
+
+Right of supplier to sue for tax remitted s 224
+
+47. A supplier who makes a taxable supply and is required to collect tax in respect of that supply has the right to initiate legal action against the recipient of the supply for the recovery of tax that has not been paid by the recipient where:
+
+- the supplier has accounted for or remitted the tax payable by the recipient in respect of the supply to the Receiver General; and
+
+- the supplier has complied with the disclosure requirements of subsection 223(1).
+
+## Supply of goods and services
+
+Meaning of supply ss 123(1)
+
+48. For purposes of the GST/HST, the term "supply" generally means the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition.
+
+Agreement as supply s 133
+
+49. The entering into of any agreement to supply any property or any service is deemed to be a supply of the property or service made at the time the agreement is entered into. The provision of the property or service under the agreement is treated as being a part of the same supply and not as a separate supply. As a result, the tax applies to any prepayment or part payment of the consideration for a supply even if, at the time payment is made, property has not in fact been transferred or the service has not yet been rendered.
+
+Transfer of security interest s 134
+
+50. Where there is an agreement relating to any indebtedness or other obligation, the transfer of property or an interest in property pursuant to a security arrangement to secure payment of the debt or performance of the obligation is not treated as a supply. Furthermore, where, upon payment or forgiveness of the debt or performance of the obligation, the property, or interest in it, is restored to the original owner such transfer is also not considered to be a supply.
+
+### Determining the nature of a supply
+
+Determining the nature of a supply
+
+51. Determining the nature of a supply (e.g., real property, tangible personal property) is important because different treatment under the GST/HST is accorded to different types of supplies. For example, for the purposes of the rules of timing of liability for the tax, the general rule in respect of a taxable supply is that the tax is payable by the recipient on the earlier of the day on which the consideration for the supply is paid and the day on which the consideration for the supply becomes due. However, in the case of a taxable supply by way of sale of real property (other than a residential condominium unit), the tax is payable on the earlier of the day on which ownership of the property is transferred to the recipient and the day on which possession of the property is transferred to the recipient under the agreement for the supply.
+
+Deemed supplies
+
+52. The provision of a supply generally involves a transaction between two or more persons. There are exceptions to this principle for certain cases where the Act deems a supply to have been made. Refer to paragraphs 81 to 103 for information on deemed suppliers.
+
+Various types of property and services
+
+53. Although the tax applies to all taxable supplies of property and services, special rules for both GST and HST often apply to supplies of different categories and particular kinds of property and services. Therefore, it is necessary to distinguish between the various types of property and services.
+
+Classes of property
+
+54. There are three classes of property: real property, tangible personal property and intangible personal property.
+
+### Property
+
+Meaning of property ss 123(1)
+
+55. "Property" means any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money.
+
+Real property ss 123(1)
+
+56. Real property consists of land, buildings, leasehold interests in such property, and, in the Province of Quebec, immovable property and every lease thereof. The definition of real property also includes a mobile home, a floating home and any leasehold or proprietary interest therein. The term is also defined to include all other rights and interests in real property such as easements, the right under a lease or licence to use or take possession of land, and a right or option to purchase land under a contract. Therefore, the leasing of real property and the granting of a licence to use it are deemed to be supplies of real property. For purposes of Schedule IX (supply in a province) and Division IV.1 (tax on property and services brought into a participating province) only, a floating home and a mobile home that is not affixed to land are deemed to be tangible personal property and not real property. Complete information on real property is available in Chapter 19, *Special Sectors: Real Property.*
+
+Tangible personal property
+
+57. Any property that is not real property is either tangible or intangible personal property. While these terms are not defined by the Act, tangible personal property may be viewed as including all objects or things that may be touched or seen, and that are movable at the time the supply is made, other than money.
+
+Intangible personal property
+
+58. Intangible personal property includes contractual rights, options, shares in the common stock of a corporation, the right to recover a debt, intellectual property (patents, trade-marks, trade-names), and rights in relation to goods that are not in possession and other rights which may be enforced by the courts, but does not include money.
+
+Lease, etc., of property ss 136(1)
+
+59. A supply by way of lease, licence or similar arrangement of the use or right to use real property or tangible personal property is deemed to be a supply of the real property or tangible personal property.
+
+Combined supply ss 168(8)
+
+60. Where a supply of any combination of real property, personal property and/or a service is made, and the consideration for each element of the supply is not separately identified, the supply will be treated, for purposes of the timing of liability rules, as a supply of the element of the supply that can reasonably be regarded as exceeding the value of each of the other elements. If the value of one element of the supply cannot reasonably be regarded as exceeding the value of each of the other elements, and one element of the supply is real property, the whole supply will be treated as a supply of real property for purposes of the timing of liability for the GST/HST. Where one element is not real property, the whole supply will be treated as a supply of a service.
+
+Additional information
+
+61. More information on combined supplies and information on the timing of liability for payment of the tax will be available in GST/HST Memorandum 3.5, *Time of Liability*.
+
+### Service
+
+Meaning of service ss 123(1)
+
+62. The term "service" has a broad meaning covering anything other than property, money and a supply of services rendered by a person who is or agrees to become an employee or an officer to an employer in the course of, or in relation to, the employee's office of employment.
+
+### Money
+
+Meaning of money ss 123(1)
+
+63. Money is excluded from the definitions of both property and services. Consequently, the act of paying money as consideration for a supply does not itself attract tax because it does not constitute a supply. However, if currency is sold as a collector's piece, the supply is treated in the same manner as any other supply of tangible personal property. Money is defined as including not only Canadian and foreign currency, but also cheques, promissory notes, money orders, letters of credit and other similar instruments.
+
+## Taxable supplies
+
+General
+
+64. A taxable supply is a supply made in the course of a commercial activity. Schedule VI lists the zero-rated supplies that are subject to tax at a rate of 0%. All taxable supplies made in Canada that are not listed in Schedule VI are taxable at 7% or 15%.
+
+Meaning of commercial activity ss 123(1)
+
+65. Commercial activity of a person means:
+
+1. a business carried on by the person (other than a business carried on by an individual, a personal trust or a partnership, all of the members of which are individuals, without a reasonable expectation of profit), except to the extent to which the business involves the making of exempt supplies by the person,
+
+2. an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in by an individual, a personal trust or a partnership, all of the members of which are individuals, without a reasonable expectation of profit), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+
+3. the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of, or in connection with, the making of the supply.
+
+Additional information
+
+66. Additional information on the determination of supplies made in the course of commercial activities is available in GST/HST Memorandum 2.1, *Required Registration*, of Chapter 2, *Registration*.
+
+### Zero-rated supplies
+
+Zero-rated supplies
+
+67. Schedule VI contains nine Parts listing supplies of property and services that are zero-rated under the GST/HST. These Parts and sources for additional information are listed below:
+
+- Prescription drugs and biologicals - refer to GST/HST Memorandum 4.1 of Chapter 4
+
+- Medical and assistive devices - refer to GST/HST Memorandum 4.2 of Chapter 4
+
+- Basic groceries - refer to GST/HST Memorandum 4.3 of Chapter 4
+
+- Agriculture and fishing - refer to GST/HST Memorandum 4.4 of Chapter 4
+
+- Exports - refer to GST/HST Memoranda 4.5.1, 4.5.2 and 4.5.3 of Chapter 4
+
+- Travel services - refer to GST/HST Memorandum 27.1 of Chapter 27
+
+- Transportation services - refer to Chapter 28 of the GST/HST Memoranda Series
+
+- International organizations and officials - refer to GST Memorandum 300-3-8
+
+- Financial services - refer to GST Memorandum 300-3-9 of the GST Memoranda Series
+
+Further supply to another person
+
+68. Where the recipient of a zero-rated supply makes a further supply to another person, that new supply may also continue to be zero-rated depending on the circumstances (e.g., furniture exported may be zero-rated but the importation of that furniture would be subject to tax). There are some exceptions where the new supply would be subject to tax. For example, the purchase of a dozen apples in a supermarket is zero-rated; however, if the recipient sells those apples in a vending machine, they will be subject to tax.
+
+Small supplier calculation
+
+69. For purposes of calculating the small supplier threshold to determine the registration requirements for the GST/HST, the consideration from taxable supplies (including zero-rated supplies) must be included. Further information on small suppliers is available in paragraphs 30 to 34.
+
+## Supply in Canada
+
+General rule
+
+70. As a general rule, tax is payable only in respect of supplies made or deemed to be made in Canada. However, reference must be made to Schedules V (exempt supplies) and VI (zero-rated supplies). For example, for certain supplies made in Canada, Part V (exports) of Schedule VI provides zero-rated status where the goods or services are exported. With respect to a person making exempt supplies, there is no requirement to collect tax on the supply made in Canada.
+
+Place of supply s 142
+
+71. The legislation contains rules which, in most cases, indicate whether or not a supply has been made in Canada. Separate rules will apply depending on the nature of the supply. For example, a sale of real property or a service relating to real property is deemed to be made generally where the real property is situated. In the case of a supply of a service, where the service is rendered as opposed to where the person rendering the service is situated would determine the place of supply.
+
+Additional information
+
+72. Detailed information on whether a supply is made or not made in Canada will be available in GST/HST Memorandum 3.3, *Place of Supply*.Information on exports from Canada is available in GST/HST Memorandum 4.5, *Exports* of Chapter 4, *Zero-Rated Supplies*.
+
+## Supply in a province
+
+Determining rate of tax Sch. VIII
+
+73. Once it has been determined that a given supply is made in Canada and that it is a taxable supply that is not a zero-rated supply, the next question is to determine whether the 7% GST or the 15% HST applies. Effective April 1, 1997, all registrants who make taxable (other than zero-rated) supplies to customers in a participating province, including supplies shipped or mailed from outside a participating province to recipients in a participating province, are required to collect and remit the 15% HST. A taxable (other than a zero-rated) supply made in a non-participating province is subject to the 7% GST, including supplies shipped or mailed from a participating province to recipients in a non-participating province.
+
+Supply in a province s 144.1
+
+74. A supply is deemed to be made in a province if it is made in Canada and is, under the rules of Schedule IX to the Act, made in that province. If the supply is not made in Canada or the rules in Schedule IX do not apply to deem the supply to be made in a participating province, the supply is deemed to be made outside that province. Further, a supply made in Canada that is not made in a participating province is deemed to be made in a non-participating province.
+
+Additional information
+
+75. More information on the place of supply rules under the HST is available in Technical Information Bulletin B-078, *Place of Supply Rules under the HST.*
+
+Self-assessing the provincial component of the HST Division IV.1
+
+76. Self-assessment of the provincial component of the HST is provided in certain circumstances where taxable property or services are either imported from outside Canada into a participating province or are supplied in Canada in a non-participating province and then brought into a participating province by a person for consumption, use or supply other than exclusively in commercial activities.
+
+Special rules
+
+77. Special rules provide for the treatment of property brought into a participating province by someone other than the person on whose behalf it was acquired or by certain selected listed financial institutions and for property brought into a participating province en route to a destination outside the participating provinces.
+
+Self-assessment
+
+78. The Act imposes the provincial component of the HST on a self-assessment basis on certain supplies in respect of which the suppliers are not required to collect that provincial component (i.e., supplies made by an unregistered non-resident) and in respect of certain importations and property brought into a participating province from a non-participating province.
+
+Exceptions
+
+79. Refer to Schedule X to the Act for lists of property and services that are not taxable under Division IV.1.
+
+Additional information
+
+80. More information on the self-assessment rules under the HST is available in Technical Information Bulletin B-079, *Self-Assessment of the HST on Supplies Brought into a Participating Province.*
+
+## Deemed suppliers
+
+Deemed supplier accountable for tax
+
+81. In certain situations the Act deems a supply to be made by a particular person. The effect of this is that the person who is deemed to have made the supply is liable to account for any tax on the supply. The following explains some situations where persons are deemed to be suppliers.
+
+### Agents and auctioneers
+
+Supply on behalf of registrant ss 177(1)
+
+82. Where an agent makes a taxable supply (otherwise than by auction) on behalf of a principal who is required to collect tax (generally a registrant), the general rules will apply and tax will be accounted for by the principal (i.e., the principal will account for that tax on the supply made through the agent). The agent will be responsible for collecting tax on his or her services provided to the principal in relation to such sales.
+
+Agent acting on behalf of a principal not required to collect tax para 177(1)(e)
+
+83. In cases where a registrant, in the course of its commercial activity, acts as agent in making a supply (except by auction) of tangible personal property (excluding exempt or zero-rated supplies) on behalf of a principal who is not required to collect tax in respect of the supply, the supply will be deemed to be a taxable supply made by the agent. Furthermore, the agent is deemed not to have made a supply to the principal of services relating to the supply of the property to the recipient. The effect is that the agent must report the tax payable on the consideration for the supply of the property to the recipient in its GST/HST return, and remit any positive amount of net tax but will not collect the tax from the principal for its services relating to the supply of the property.
+
+Election to deem a supply to be taxable para 177(1)(d)
+
+84. If the principal in the circumstances described in the previous paragraph is a registrant, and the property supplied was last used or acquired for consumption or use by the principal in a business, adventure or concern in the nature of trade of the principal, or in the making of a supply by the principal of real property, the principal and the agent can jointly elect in writing to deem the supply of the property to the recipient to be a taxable supply. The election would be available, for example, where a dentist (who is a registrant) is selling his computer through an agent and the computer was used principally for use in the business of making exempt supplies of dental services.
+
+Effect of the election under para 177(1)(d)
+
+85. The effect of the election is that the principal is treated as being the supplier of the tangible personal property at issue and the supply made by the principal is deemed to be a taxable supply. As a result, the principal accounts for the tax on the supply of the property. An input tax credit cannot be claimed for tax on an input acquired for use or consumption in supplying the property. However, the principal may claim an input tax credit for the tax on the services of the agent relating to the supply of the property to the recipient.
+
+Where a valid election has been made and applies to the sale of a computer which was used by a dentist principally in the business of making exempt supplies of dental services, and where the computer is sold through an agent, the sale of the computer will be taxable at 7% or 15% and the dentist will have the obligation to account for that tax. No ITC will be claimable by the dentist for the tax paid on acquiring the computer, but an ITC will be claimable by the dentist for the tax charged by the agent for the services relating to the supply of the computer.
+
+Election for agent to account for tax ss 177(1.1)
+
+86. A registrant agent who makes a supply (otherwise than by auction) in the course of its commercial activity on behalf of a principal who is required to collect tax in respect of the supply (otherwise than as a consequence of the application of paragraph (1)(d)) may elect jointly with the principal to account for the tax collectible on the supply as if the tax were collectible by the agent rather than the principal. The agent is, therefore, responsible for collecting, reporting and remitting the tax on the supply.
+
+Supply by auctioneer ss 177(1.2)
+
+87. A supply of tangible personal property made by a registrant auctioneer on behalf of a principal in the course of the auctioneer's commercial activities is deemed to be made by the auctioneer and not the principal. This means that the auctioneer will be responsible for collecting and remitting tax on all taxable supplies (other than zero-rated supplies) of tangible personal property made by auction, even if the principal would not have been required to collect tax on the supply, and the auctioneer's commission will not be taxable.
+
+Unregistered non-resident importing goods to be sold by auction
+
+88. The auctioneer in the circumstances described above is deemed not to have made a supply of services to the principal except in situations where a non-resident unregistered principal brings goods into Canada to be sold by auction, pays the 7% GST on importation, and provides evidence to the auctioneer that tax has been paid at the border. This allows the auctioneer to claim an ITC equal to the tax paid by the non-resident.
+
+Joint election between auctioneer and principal ss 177(1.3)
+
+89. However, an auctioneer may make an election with a principal to have the rule described in paragraph 87 not apply to a supply made on a particular day, in which case the principal is responsible to account for tax on the supply to the recipient. To make the election, at least 90% of the consideration for the goods sold at auction on behalf of the principal must be for certain prescribed goods. These goods are set out in the [draft *Property Supplied by Auction (GST/HST) Regulations* (prescribed goods include motor vehicles designed for highway use, horses, certain heavy equipment and cut flowers)]. As well, the principal must have been required to collect tax, if the goods were not sold at auction. When the election is made, the auctioneer's commission will be taxable.
+
+Acting as an agent a question of fact Policy statement P-182
+
+90. Whether a person is acting as an agent on behalf of a principal is a question of fact and law. Refer to Policy Statement P-182, *Determining the Meaning of "Agent" and "Agency",* for additional information on agents. Further information on agents and auctioneers will be available in Chapter 29, *Special Sectors: Agents and Auctioneers.*
+
+### Direct sellers
+
+Alternate collection method (ACM)
+
+91. A special GST/HST collection method called the alternate collection method (ACM) has been designed to simplify the operation of the tax for direct sellers that market their exclusive products (e.g., beauty care products) directly to consumers through their independent sales contractors (ISCs) at a suggested retail price.
+
+ACM for direct sellers ss 178.3(1) and (2)
+
+92. Under the ACM for direct selling organizations, tax on the direct seller's exclusive products is accounted for at the direct seller or distributor level, based on the suggested retail price of the products. Accordingly, where such a method is in use (approval to use the method must have been received from the Minister), ISCs of the direct seller who are not distributors who have elected to do this accounting are not responsible for remitting tax on their sales of the products to consumers. The direct seller must account for tax calculated on the suggested retail price of the product in the net tax for the reporting period in which the consideration for the supply to the ISC is paid or becomes due, whichever is the earlier.
+
+Additional information
+
+93. More detailed information on the ACM is available in GST/HST Memorandum 14.1, *Direct Sellers*, of Chapter 14, *Special Provisions*.
+
+Special provisions pertaining to buying groups s 178.6
+
+94. The Act sets out special rules that apply when a buyer designation is in effect. In this instance, the supply by the original supplier to the buyer is deemed to be a supply from the original supplier to the ultimate recipient. Accordingly, the buyer is deemed not to have received the supply of property or service from the original supplier and the buyer is deemed not to have supplied the property or service to the ultimate recipient.
+
+Buying group method
+
+95. The consideration paid or payable for the supply to the buyer is deemed to be paid or payable by the ultimate recipient. The tax paid or payable in respect of the supply is also deemed to be paid or payable by the ulitmate recipient. However, both the buyer and the ultimate recipient are jointly and severally liable for the payment of that tax. In addition, any credit or debit note in resepct of the supply by the original supplier to the buyer is deemed to be received or issued by the buyer on behalf of the ultimate recipient.
+
+More information
+
+96. Detailed information on the special provisions that pertain to buying groups as well as any definitions of terms will be available in GST/HST Memorandum 14.2, *Buying Groups*, of Chapter 14, *Special Provisions*.
+
+### Supplies for non-residents
+
+Drop-shipments ss 179(1)
+
+97. Where a registrant transfers physical possession of goods to another person in Canada on behalf of an unregistered non-resident person, the registrant is deemed to have made a supply of the property in Canada to the non-resident. The registrant is liable to collect tax from the non-resident, generally calculated on the fair market value of the property at that time. Registrants may avoid having to account for tax on the goods as long as they are transferring the goods to registrants in Canada through a system of drop-shipment certificates. More information on drop-shipment rules will be available in GST/HST Memorandum 3.3.1, *Drop Shipments*.
+
+### Trusts
+
+Inter vivos trusts s 268
+
+98. Where a person settles property on an *inter vivos trust,* the person is deemed to have made a supply of that property by way of sale to the trust for consideration equal to the proceeds of disposition of the property as determined under the *Income Tax Act*.
+
+Distribution by trust s 269
+
+99. Where a trustee distributes property of a trust to one or more persons, the distribution of the property is deemed to be a supply made by the trust for consideration equal to the proceeds of the disposition under the *Income Tax Act*. If the disposition is a taxable supply, this deemed supply will be subject to tax.
+
+### Employee and shareholder benefits
+
+Employee and shareholder taxable benefits ss 173(1)
+
+100. Benefits which employers/corporations provide to employees/shareholders or to a person related to the employee/shareholder may be subject to GST/HST. The taxable status of employee/shareholder benefits is dependent on the treatment those benefits receive under the *Income Tax Act*. Where a supply gives rise to a taxable benefit under paragraphs 6(1)(a), (e), (k) or (l) or subsection 15(1) of the *Income Tax Act* and is in respect of a taxable supply (other than a zero-rated supply), the employer/corporation is deemed to have made a taxable supply of the benefit to the employee/shareholder and is required, with certain exceptions, to remit tax on that amount. More information on employee and shareholder benefits will be available in Chapter 9, *ITCs: Taxable Benefits, Allowances and Reimbursements.*
+
+### Appropriation
+
+Use by registrant ss 172(1)
+
+101. Where a registrant is an individual who, in the course of commercial activities acquires, manufactures or produces any property (other than capital property) or acquires or performs any service, appropriates the property or service, at any time, for the personal use, consumption or enjoyment, of the registrant or another individual related to the registrant, the registrant is deemed at that time to have made a supply of that service or property and to have collected tax in respect of the supply (except where the supply is an exempt supply) for consideration equal to its fair market value.
+
+Benefits to shareholders, etc. ss 172(2)
+
+102. Where at any time a registrant that is a corporation, partnership, trust, charity, public institution or non-profit organization appropriates any property (other than capital property) that was acquired, manufactured or produced, or any service acquired or performed, in the course of commercial activities of the registrant to or for the benefit of a shareholder, partner, beneficiary or member (and/or relations of these), the registrant is deemed at that time to have made a supply of that property or service and to have collected tax in respect of the supply (except where the supply is an exempt supply) for consideration equal to its fair market value.
+
+Exceptions s 172(3)
+
+103. Section 172 does not apply to property or a service appropriated by a registrant for the benefit of a person where:
+
+- the registrant was not entitled to claim an ITC because of section 170 in respect of the last acquisition or importation of the property or service appropriated, or
+
+- section 173 applies to the property or service appropriated for the purpose of making it available to the person. Refer to paragraph 100 for more information.
+
+## Deemed recipients
+
+Persons deemed to be recipients
+
+104. In certain situations the Act deems a person to have received a supply and to have paid tax. The following are examples of situations in which persons are deemed to be recipients.
+
+Travel and other allowances s 174
+
+105. Where a person (employer, partnership, charity or public institution) pays a reasonable allowance to an employee, partner or volunteer for all or substantially all taxable supplies (other than zero-rated supplies) of property or services acquired in Canada, or for the use in Canada of a motor vehicle, and the supply is used in relation to the person's activities, the person is deemed to have received a supply of the property or service and to have paid tax in respect of the supply at the time the allowance is paid.
+
+Allowance deductible for income tax purposes
+
+106. A person's entitlement to claim an ITC or rebate in respect of such an allowance is based on whether the amount is deductible by the person for income tax purposes, or would be deductible if that person were a taxpayer under the *Income Tax Act* (i.e., the allowance must be reasonable in the circumstances). Therefore, where the allowance is not deductible for a taxation year of the person under the *Income Tax Act*, no ITC is available to the person in respect of the supply of the property or service.
+
+Amount of tax claimable for an allowance para 174(f)
+
+107. Where all or substantially all of the supplies for which the allowance is paid were made in participating provinces or the allowance is paid for the use of a motor vehicle in participating provinces, the amount of tax deemed to have been paid by the person is equal to the amount of the allowance multiplied by the fraction 15/115. In any other case, the amount of tax deemed to have been paid is equal to the amount of the allowance multiplied by the fraction 7/107.
+
+If a registered Canadian corporation pays its employee $107 as an allowance for tools to be acquired in a non-participating province in relation to the activities engaged in by the corporation, and the corporation is allowed to deduct that amount as an expense for income tax purposes, the corporation will be deemed to have received a supply of the property and to have paid GST equal to $107 x 7/107= $7. The corporation will, therefore, be entitled to claim an ITC of $7, provided that all other conditions under the Act are satisfied.
+
+Reimbursement ss 175(1)
+
+108. Where a person (employer, partnership, charity or public institution) reimburses an employee, partner or volunteer for property or services incurred on behalf of the person, the person is deemed to have received a supply of the property or service and any GST/HST included in the amount of the supply, which is reimbursed, is deemed to have been paid at the time the reimbursement is paid by that person.
+
+Amount of ITC or rebate claimable for reimbursement
+
+109. The amount of the ITC or rebate in respect of a reimbursement can be claimed on the actual tax paid (i.e., 7% GST or 15% HST) or on a factor of deemed tax paid (i.e., 6/106 GST or 14/114 HST) for the property or services reimbursed. The factor 14/114 can only apply if 90% or more of the supplies for which the reimbursement is paid were subject to the 15% HST. The method chosen must be used consistently within each category of expenses.
+
+Exception ss 175(2)
+
+110. A partnership is entitled to claim an ITC in respect of an expense incurred by a member of that partnership only if the reimbursement is made before the member files a return in which the member claims an ITC for the expense. If the partner already claimed an ITC in respect of the same supply, the partnership will not be entitled to an ITC.
+
+Additional information
+
+111. Detailed information on allowances and reimbursements will be available in Chapter 9, *ITCs:* *Taxable Benefits, Allowances and Reimbursements.*
+
+### Ceasing to be a registrant
+
+Ceasing to be a registrant ss 171(3)
+
+112. Where at any time a person ceases to be a registrant, that person is deemed immediately before that time to have made a supply of each property (except capital property) consumed, used or supplied in the commercial activity of the person and to have collected tax in respect of the supply based on the fair market value of that property. The person is also deemed to have received that supply. As a result, the person will be required to account for tax on the deemed supply in the person's last GST/HST return as a registrant.
+
+Capital property deemed non-commercial when ceasing to be a registrant
+
+113. Where at any time a person ceases to be a registrant and that person was using capital property in its commercial activities, that person is deemed immediately before that time to have ceased using the capital property in commercial activities and to have collected tax equal to the basic tax content of the property.
+
+Additional information
+
+114. More information on the responsibilities and obligations of a registrant regarding the treatment of its property upon cancellation will be available in Chapter 8, *Input Tax Credits: Eligible ITCs.*
+
+## Deemed self-supply
+
+Supplier and recipient of a supply
+
+115. In certain situations the Act deems a person to be both the supplier and the recipient of a supply. That person is deemed to have collected any tax on the supply and is, therefore, required to account for that tax on the supply. The following are examples of these situations.
+
+### Seizures and repossessions
+
+116. Section 183 of the Act provides the rules for the tax treatment of seizures and repossessions.
+
+Use of real property ss 183(4)
+
+117. Where a creditor who has seized or repossessed real property begins to use that property, the creditor will be deemed to have made a supply of the property and to have collected tax (except where the supply is an exempt supply) on the fair market value of the property. However, if the creditor is a registrant and uses the real property exclusively in commercial activities, the creditor will be able to claim a full ITC for the tax the creditor is deemed to have collected. More information on real property is available in GST/HST Memorandum 19.1, *Real Property and the GST/HST*, of Chapter 19, *Special Sectors: Real Property*.
+
+Personal property seized ss 183(5) and (6)
+
+118. Where a creditor who has seized or repossessed personal property begins to use that property, the creditor is deemed to have made a supply of the property and to have collected and paid tax on the fair market value of the property. However, tax would be deemed paid or collected only if the personal property was seized or repossessed in Canada from a person who would have had to charge tax if the property had instead been supplied by the person to the creditor. More information on seizures and repossessions will be available in GST/HST Memorandum 17.15, *Seizures and Repossessions*, of Chapter 17, *Special Sectors: Financial Institutions.*
+
+### Property acquired by insurers on the settlement of a claim
+
+Transfer to insurers s 184
+
+119. An insurer who makes a supply of property that has been transferred to the insurer in the course of settling an insurance claim is considered, except where the supply is an exempt supply, to have made, at that time, a supply in the course of commercial activities. If the insurer to whom property has been so transferred begins to use the property, the insurer is deemed to have made a supply and to have collected tax (except in the case of an exempt or zero-rated supply) equal to the GST/HST on the fair market value of the property.
+
+### Change-in-use rules
+
+General
+
+120. Generally, where a registrant holds capital property and the use of that property changes, in whole or in part, from commercial to non-commercial use, the registrant is deemed to have made a taxable supply by way of sale and will be required to remit tax on that supply. The following provides examples of deemed supplies under the change-in-use rules.
+
+Capital personal property primarily for other purposes ss 200(2)
+
+121. Where a registrant last acquired or imported personal property for use as capital property primarily in commercial activities of the registrant and the registrant, at a particular time on or after April 1, 1997, begins to use the property primarily for other purposes, the registrant is deemed to have made immediately before that time a supply by way of sale of the property to him/herself and to have collected at that time tax in respect of the supply equal to the basic tax content of the property, which will have to be remitted with the registrant's next GST/HST return. The registrant is also deemed to have received the same supply and paid the tax, which enables the registrant to claim the applicable ITC.
+
+Prior to April 1, 1997
+
+122. Note that for any change of use of capital property made prior to April 1, 997, the deemed tax collected is calculated on the fair market value of the property.
+
+Ceasing use in commercial activities ss 206(4)
+
+123. Where a registrant last acquired real property for use as capital property in commercial activities of the registrant and the registrant begins, at a particular time to use the property exclusively for other purposes, the registrant is deemed to have made a supply by way of sale of that property immediately before that time; to have acquired the property at that time for use otherwise than in commercial activities of the registrant; and, except where the supply is an exempt supply, to have collected, at that time, tax in respect of the supply equal to the basic tax content of the property pursuant to subsection 206(4). The registrant is also deemed to have received the supply and paid the tax, which enables the registrant to claim the applicable ITC.
+
+Additional information
+
+124. Information on the change-in-use rules for capital personal property and on the basic tax content calculation will be available in Chapter 11, *Capital Personal* *Property*. Information on the change-in-use rules for capital real property will be available in Chapter 19, *Special Sectors: Real Property.*
+
+### Self-supply of real property
+
+Self-supply of a residential complex s 191
+
+125. In the context of real property, self-supply means that the builder of a residential complex is deemed to have sold and repurchased the complex. The deemed sale (which occurs when the premises are first rented or otherwise occupied before being sold) triggers a liability for tax. The result is that the builder is required to account for and remit the GST/HST on the fair market value of the complex on a GST/HST return. A builder who is registered for the GST/HST will generally be entitled to claim full ITCs on costs incurred relating to the construction of the complex. If the builder is not a registrant, a rebate of the GST or HST related to the acquisition of the land and improvements to the land (e.g., construction services and building materials) may be available once the self-supply has occurred. Detailed information on the self-supply rules for builders is available in GST/HST Memorandum 19.2.3, *Residential Real Property - Deemed Supplies*, of Chapter 19, *Special Sectors: Real Property*
+
+## Joint liability
+
+Receivership rules ss 266(2)
+
+126. Where a receiver is appointed to manage or operate a business or a property, liquidate or wind-up a corporation, or manage the affairs of a person, the receiver is deemed to be the agent of the person. The receiver is jointly and severally liable with the person for the payment and remittance of all amounts that become payable or remittable under Part IX of the Act by the person during the course of the receivership. The receiver is also responsible for all amounts (subject to creditors' claims that ranked in priority to the Crown's claim) that became payable or remittable prior to the receivership. However, the receiver's liability is limited to the property and money over which the receiver has authority and that are in the receiver's possession or under the control or management of the receiver.
+
+Joint and several liability ss 267.1(3) and para 177(1.1)(b)
+
+127. A trustee (or personal representative) of a trust (or estate) is jointly and severally liable with the trust and each of the other trustees, if any, for the payment or remittance of all amounts that became payable or remittable by the trust under Part IX of the Act while the trustee acts as a trustee of the trust. The liability extends to periods before the trustee began acting as a trustee of the trust, but only to the extent of the property and money under the control of the trustee. The agent and the principal are jointly and severally liable for all obligations that arise upon or as a consequence of the tax becoming collectible or any failure to account for or remit the tax. More information on trustees and receivers will be available in GST/HST Memorandum 3.1.3, *Trustees and Receivers*.
+
+Liability for amount paid or credited by registrant s 252.5
+
+128. Where a registrant has paid or credited an amount to a person in respect of a non-resident rebate and the person was not entitled to the rebate or was paid or credited an amount in excess of the rebate, the registrant and the person are jointly and severally liable to pay to the Receiver General that amount or excess if, at the time the amount was paid or credited, the registrant knew or ought to have known that the person was not entitled to the amount of the rebate so paid or credited.
+
+New housing rebate - joint and several liability ss 254(6)
+
+129. Where a builder pays or credits a new housing rebate to an individual directly, and the builder knew or should have known either that the individual was not entitled to the rebate or the amount paid or credited exceeded the amount to which the individual was entitled, the builder and the individual are jointly and severally liable to pay the amount of the rebate or excess to the Receiver General.
+
+Partnership - joint and several liability ss 272.1(5)
+
+130. Partners and former partners (other than a member who is a limited partner and not a general partner) are jointly and severally liable with the partnership for the payment or remittance of all amounts that become payable or remittable by the partnership before or during the period in which the person is a member of the partnership. Where the person was a member of the partnership at the time the partnership was dissolved, the joint and several liability also applies to amounts that become payable or remittable after the dissolution of the partnership. However, the liability of a partner or former partner for amounts that became payable or remittable before the person became a partner is limited to the property and money of the partnership. More information on partnerships will be available in GST/HST Memorandum 3.1.1, *Partnerships*.
+
+Joint venture - joint and several liability ss 273(5)
+
+131. Where a registrant and another person make, or purport to make, a joint venture election under subsection 273(1), the registrant and the other person are jointly and severally liable for all GST/HST obligations arising from activities covered by the agreement. More information on joint ventures will be available in GST/HST Memoranda 3.1.2, *Joint Ventures.*
+
+All GST/HST memoranda and other Revenue Canada publications are available on Internet at the Revenue Canada site http://www.rc.gc.ca/ under the heading "Technical Information" in "General Information".
+
+## BULLETIN_BOARD_ANNOUNCEMENT
+
+Date: September 1, 2000
+
+NOTICE OF CHANGE: In GST/HST Memorandum 3.1, Liability for Tax, dated August 1999.
+
+The following change is to be made to the above-mentioned publication to clarify the meaning of "endeavour" found in subsection 141.01(1), which is referred to in paragraph 177(1)(d).
+
+In paragraph 84, line 4:
+
+delete the words " in making a taxable supply of real property"; and
+
+add the following in their place, "in the making of a supply by the principal of real property"
+
+Please note that the database version of GST/HST Memorandum 3.1 is being revised to reflect this change.

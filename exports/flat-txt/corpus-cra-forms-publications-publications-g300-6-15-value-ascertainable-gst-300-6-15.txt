@@ -1,0 +1,163 @@
+Title: Value not Ascertainable (GST 300-6-15)
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/g300-6-15/value-ascertainable-gst-300-6-15.html
+Corpus path: corpus/cra/forms-publications/publications/g300-6-15/value-ascertainable-gst-300-6-15.md
+Document type: publication
+Last modified: 2017-06-22
+
+# Value not Ascertainable (GST 300-6-15)
+
+**Notice to the reader:**
+
+Please note that the following GST Memorandum, although correct at the time of issue, has not been updated to reflect any subsequent legislative changes since the date of issue. As a result, some of the technical information this memorandum contains may no longer be valid. Please contact your GST/HST Rulings Centre for assistance.
+
+GST memoranda 300-6-15
+
+**Ottawa, January 23, 1992 TAX ON SUPPLIES TIME OF LIABILITY VALUE NOT ASCERTAINABLE**
+
+This memorandum does not replace the law found in the *Excise Tax Act* and its Regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation or contact any Revenue Canada Excise/GST office for additional information.
+
+This memorandum may reflect amendments proposed to the *Excise Tax Act* by Notices of Ways and Means Motion tabled on December 18, 1990, March 27, 1991 and November 5, 1991. The federal government announced its intention to introduce certain amendments to the *Excise Tax Act* to effect these changes which were outlined by the Minister of Finance in press releases on the mentioned dates. [Where proposed changes affect information contained in this memorandum, the information is enclosed in square brackets.] At the time of publication, Parliament has not enacted these proposed amendments. Any commentary in this memorandum should not be taken as a statement by the Department that such amendments will in fact be enacted into law in their current form.
+
+This memorandum explains the timing of liability for payment of the Goods and Services Tax (GST) when the value of the taxable supply is not ascertainable.
+
+**LEGISLATIVE AND OTHER REFERENCES**
+
+*Excise Tax Act* - subsections 123(1), 168(1), 168(3), 168(5) and 168(6)
+
+**DEFINITIONS AND INTERPRETATIONS**
+
+The following are either definitions which have been taken from the *Excise Tax Act* as amended by S.C. 1990, c. 45 (Bill C-62) or departmental interpretations of terms relevant to the administration of that Act.
+
+"**Act**" means the *Excise Tax Act;*
+
+"**ascertainable**" means capable of being known;
+
+"**consideration**" may be money, a thing, a service, forbearance in the exercise of a right or anything else which induces the supplier to make the supply. Where consideration is monetary, the amount of the money will be used to calculate the tax. Where the consideration is non-monetary, the fair market value of the consideration at the time the supply was made will be used to calculate the tax;
+
+"**invoice**" includes a statement of account, a bill and any other similar record, regardless of its form or characteristics, and a cash register slip or receipt;
+
+"**person**" means an individual, partnership, corporation, trust or estate, or a body that is a society, union, club, association, commission or other organization of any kind;
+
+"**personal property**" means property that is not real property;
+
+"**property**" means any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money;
+
+"**real property**" includes
+
+(a) in respect of property in the province of Quebec, immovable property and every lease thereof,
+
+(b) in respect of property in any other place in Canada, messuages, lands and tenements of every nature and description and every estate or interest in real property, whether legal or equitable, and
+
+(c) a mobile home;
+
+"**recipient**", in respect of a supply, means the person who pays or agrees to pay consideration for the supply or, if no consideration is or is to be paid for the supply, the person to whom the supply is made;
+
+"**registrant**" means a person who is registered under section 241 or who is required to apply to be registered under section 240 of the Act;
+
+"**sale**", in respect of property, includes any transfer of the ownership of the property and a transfer of the possession of the property under an agreement to transfer ownership of the property;
+
+"**service**" means anything other than:
+
+(a) property,
+
+(b) money, and
+
+(c) anything that is supplied to an employer by a person who is or agrees to become an officer or employee of the employer in the course of or in relation to the office or employment of that person;
+
+"**supplier**" in respect of a supply, means the person making the supply;
+
+"**supply**" means, subject to sections 133 and 134 of the Act, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition;
+
+"**tangible personal property**" includes all objects or things that may be touched, felt or possessed, and that are movable at the time the supply is made, other than money and real property;
+
+"**tax**" means the Goods and Services Tax payable under Part IX of the Act;
+
+"**taxable supply**" means a supply that is made in the course of a commercial activity, but does not include an exempt supply.
+
+**GENERAL RULE**
+
+1. The general timing of liability rule under subsection 168(1) of the Act is that tax is payable by the recipient of a taxable supply on the earlier of the day the consideration for the supply is paid and the day the consideration for the supply becomes due. Tax is generally collectible by the supplier at the same time that it is payable by the recipient.
+
+2. Registrants are required to account for any tax collectible, in the return for the reporting period in which the tax became collectible, regardless of whether it was actually collected.
+
+**Consideration Paid**
+
+3. Consideration is paid when it is received by the supplier.
+
+*Consideration Becomes Due*
+
+4. Under subsection 152(1) of the Act, consideration, or a part thereof, for a taxable supply, is deemed to become due on the earliest of the following days:
+
+(a) the day that the supplier first issues an invoice in respect of the supply for that consideration or part and the date of that invoice;
+
+(b) the day the supplier would have, but for an undue delay, issued an invoice in respect of the supply for that consideration or part; and
+
+(c) the day that the recipient is required to pay that consideration or part pursuant to an agreement in writing.
+
+**VALUE NOT ASCERTAINABLE Override Rule**
+
+5. Pursuant to subsection 168(3) of the Act, under certain circumstances, when all or part of the consideration for certain taxable supplies has neither been paid nor become due on the last day of the calendar month following the month in which the supply was completed, then the tax is payable on that day.
+
+6. Additional information on the override rule may be found in GST MEMORANDUM 300-6-11, **OVERRIDE RULE.**
+
+**Sale of Real Property**
+
+7. Pursuant to subsection 168(5) of the Act, the tax on the sale of real property becomes payable
+
+(a) where possession of a residential condominium unit is transferred to the recipient after 1990 and before the condominium complex in which the unit is situated is registered, on the earlier of the day that ownership of the unit transfers to the recipient and the day that is sixty days after the complex is registered as a condominium, and
+
+(b) in any other case, on the day ownership is transferred or the day on which possession is transferred to the recipient under the agreement for the supply, whichever is earlier.
+
+8. For additional information on the time of liability regarding real property, please refer to GST MEMORANDUM 300-6-5, **REAL PROPERTY.**
+
+9. If it is not possible to determine the value of all or part of the consideration for the taxable supply on the day that subsection 168(3) or 168(5) of the Act requires tax to be paid, then according to subsection 168(6) of the Act, tax will be payable on any part of the consideration that is ascertainable at that time, and tax on any part of the consideration that is not ascertainable at that time will be payable on the day the amount becomes ascertainable.
+
+10. Examples of the potential application of subsection 168(6) of the Act follow.
+
+**Sale of Tangible Personal Property**
+
+11. For sales of tangible personal property (other than on approval, consignment, sale-or-return or other similar terms which are discussed in paragraph 13 of this memorandum), paragraph 168(3)(a) of the Act provides that tax will be payable on any consideration which has not been paid or become due on the last day of the month following the month in which ownership or possession of the property is transferred to the recipient. Tax on any part of the consideration which is not ascertainable at that time will become payable on th day that consideration becomes ascertainable.
+
+12. For example, a person makes quilts and sells them to a store for consideration of $50 per quilt plus 10 per cent of the amount for which the store sells the quilt. Under the written agreement between the parties, both amounts will be payable when the store sells the quilt. If a quilt is sold and delivered to the store on March 1 but remains unsold by the store at the end of April, tax will be payable on $50 at that time. However, the tax on the value of the consideration which is the percentage of the sale made by the store cannot be ascertained until the quilt has been sold by the store. Therefore, by virtue of subsection 168(6) of the Act, tax on this amount would be payable when the quilt is sold.
+
+Sale of Tangible Personal Property on Consignment, Approval or Other Similar Arrangements
+
+13. Pursuant to paragraph 168(3)(b) of the Act, where there is a sale of tangible personal property on approval, consignment, sale- or-return or other similar terms, tax on the consideration or any part which has not been paid or become due on the last day of the calendar month immediately following the month in which the recipient takes ownership of the property or resupplies it to someone other than the supplier, will be payable at that time. Tax on any consideration or part not ascertainable at that time would become payable on the day that consideration becomes ascertainable.
+
+14. For example, a person sells quilts to a distributor on consignment. Consideration for the quilts is agreed to be a percentage of whatever the distributor receives for the quilts payable when the distributor receives payment for the quilts. The distributor sells the quilts to a store on October 15 under an agreement that the distributor will receive a percentage of the store's sale price of the quilts. Consequently, by virtue of paragraph 168(3)(b) of the Act, the tax should be payable on November 30 on the consignment from the quilt maker to the distributor. If, however, the store has not sold the quilts by then, the consideration for the supply from the quilt maker to the distributor is not ascertainable and according to subsection 168(6) of the Act, the tax will not be payable until the consideration is ascertainable which is when the store sells the quilts.
+
+**Construction, Renovation, Alteration or Repair Under Written Agreement**
+
+15. Pursuant to paragraph 168(3)(c) of the Act, where there is a supply under a written agreement for the construction, renovation, alteration or repair of real property or any ship or marine vessel (in the case of a ship or a marine vessel where the work will exceed three months), tax on the consideration or any part which has not been paid or become due on the last day of the month immediately following the month in which the work was substantially completed (90 per cent or more) will be payable at that time.
+
+16. For example, a building contractor is working on a cost-plus arrangement wherein he is reimbursed for expenses plus 10 per cent. The total consideration for the supply, therefore, will not be known until all of the contractor's expenses are known. If the construction is substantially (90 per cent or more) complete on June 3, the tax is payable on any consideration which has not been paid or become due for the construction on July 31. If the contractor does not know all of the expenses with respect to the construction, then tax would be payable on that day on any ascertainable consideration (that is, known expenses plus 10 per cent). The tax would be payable on the balance of the consideration when it became ascertainable (that is, when the contractor's expenses are ascertainable).
+
+**Sale of Real Property**
+
+17. There may be situations where the value of the consideration regarding real property cannot be ascertained at the time the property is sold pursuant to subsection 168(5) of the Act.
+
+18. For example, where the consideration for a commercial building is a fixed amount plus a percentage of the rental income generated by the building over the six months following the transfer of title and ownership is transferred to the recipient on June 11, tax would be payable on the ascertainable amount (the fixed price) on that day. Tax on the balance of the consideration (the rental income) would become payable when the amount became ascertainable.
+
+**REFERENCES**
+
+OFFICE OF RESPONSIBILITY:
+
+Policy and Legislation
+
+**LEGISLATIVE REFERENCES:**
+
+*Excise Tax Act* **HEADQUARTERS FILE:**
+
+N/A
+
+**SUPERSEDES GST MEMORANDUM:**
+
+GST 300-6-15, dated December 17, 1990
+
+**OTHER REFERENCES:**
+
+N/A
+
+SERVICES PROVIDED BY THE DEPARTMENT ARE AVAILABLE IN BOTH OFFICIAL LANGUAGES.
+
+THIS MEMORANDUM IS ISSUED BY TECHNICAL INFORMATION, EXCISE/GST BRANCH UNDER THE AUTHORITY OF THE DEPUTY MINISTER OF NATIONAL REVENUE, CUSTOMS AND EXCISE.

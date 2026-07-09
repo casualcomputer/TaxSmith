@@ -1,0 +1,13 @@
+Title: EDM10-3-1 CANCELLED Refunds
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edm10-3-1.html
+Corpus path: corpus/cra/forms-publications/publications/edm10-3-1.md
+Document type: publication
+Last modified: 2012-10-18
+
+# EDM10-3-1 CANCELLED Refunds
+
+## This publication was cancelled
+
+This publication was cancelled as of 2026-04-15 and replaced with [EDM10-3-1 Refunds](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm10-3-1-refunds.html).
+
+This memorandum explains the process and legislative requirements for obtaining a refund under the Excise Act, 2001

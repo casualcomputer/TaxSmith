@@ -1,0 +1,337 @@
+Title: ARCHIVED - Excise and GST/HST News - No. 75 (Winter 2010)
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news75/excise-gst-hst-news-no-75-winter-2010.html
+Corpus path: corpus/cra/forms-publications/publications/news75/excise-gst-hst-news-no-75-winter-2010.md
+Document type: publication
+Last modified: 2009-11-14
+
+# ARCHIVED - Excise and GST/HST News - No. 75 (Winter 2010)
+
+## Table of Contents
+
+- [Ontario and British Columbia HST](#_Toc254849215)
+
+- [New electronic filing requirements for GST/HST registrants](#_Toc254849216)
+
+- [Definition of “financial service”](#_Toc254849217)
+
+- [Reminder for large business GST/HST registrants to account for the First Nations goods and services tax (FNGST)](#_Toc254849218)
+
+- [Enhanced filing options for GST/HST rebate filers](#_Toc254849219)
+
+- [Prescribed rates of interest](#_Toc254849220)
+
+- [What's new in publications](#_Toc254849221)
+
+- [Enquiries](#_Toc254849222)
+
+## Ontario and British Columbia HST
+
+Since the previous edition of the *Excise and GST/HST News* (Fall No. 74), Bill C-62, An Act to amend the Excise Tax Act (Provincial Choice Tax Framework Act) received Royal Assent on December 15, 2009, and is now referred to as Statutes of Canada, 2009, c. 32. Bill C-62 amends the *Excise Tax Act* (the Act) to provide the legislative basis for the implementation of the harmonized sales tax (HST) in Ontario and British Columbia. It also provides a framework to accommodate any other province's potential future decision to have the HST apply in that province.
+
+Bill C-62 provides for regulations to be made prescribing rules for HST implementation. These will include transitional rules for the administration and enforcement of the HST in Ontario and British Columbia and among other things, rules relating to new housing rebates, input tax credit recapture, electronic reporting requirements and penalties. These regulations are expected to be announced in the near future.
+
+The Ontario HST legislation, Bill 218, Ontario Tax Plan for More Jobs and Growth Act, 2009, received Royal Assent on December 15, 2009. Bill 218 provides the provincial legislative basis for the implementation of the HST in Ontario effective July 1, 2010.
+
+The British Columbia HST legislation has not yet been introduced.
+
+## Publications on Ontario and British Columbia HST
+
+Two GST/HST Notices have been amended and re-issued to include information in provincial announcements made subsequent to the original publication date of these notices. Please see Notice244, [Harmonized Sales Tax for Ontario – Questions and Answers on Housing Rebates and Transitional Rules for Housing and Other Real Property Situated in Ontario](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice244.html), and Notice246, [Harmonized Sales Tax for British Columbia – Questions and Answers on Housing Rebates and Transitional Rules for Housing and Other Real Property Situated in British Columbia](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice246.html), which are available on the CRA Web site.
+
+The following Info sheets about the Ontario and British Columbia HST have also been published:
+
+- GI-053, [Ontario and British Columbia: Transition to the Harmonized Sales Tax – Freight Transportation Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-053.html)
+
+- GI-054, [Ontario and British Columbia: Transition to the Harmonized Sales Tax – Passenger Transportation Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-054.html)
+
+- GI-055, [Ontario and British Columbia: Transition to the Harmonized Sales Tax – Transportation Passes](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-055.html)
+
+- GI-056, [Ontario and British Columbia: Transition to the Harmonized Sales Tax – Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-056.html)
+
+- GI-057, [Ontario and British Columbia: Transition to the Harmonized Sales Tax – Memberships](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-057.html)
+
+- GI-058, [Ontario and British Columbia: Transition to the Harmonized Sales Tax – Admissions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-058.html)
+
+- GI-059, [Ontario and British Columbia: Transition to the Harmonized Sales Tax – Intangible Personal Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-059.html)
+
+On February 1, 2010, the Ontario Ministry of Revenue released a new Information Notice, Harmonized Sales Tax Information Notice 5, Temporary Recapture of Input Tax Credits Requirement, and on February 19, 2010, the British Columbia Ministry of Finance released a new Tax Information Notice, HST Notice #4 – Temporary Recapture of Input Tax Credits. Both publications provide a general description of the proposed temporary restriction on certain input tax credits for large businesses (referred to as the recapture of input tax credits (RITC) requirement or recaptured ITCs).
+
+The Ontario Ministry of Revenue, and the [Government of British Columbia](http://www.gov.bc.ca/hst) have Web sites dedicated to the HST.
+
+## New electronic filing requirements for GST/HST registrants
+
+On January 4, 2010, the CRA announced proposed changes to electronic filing requirements for most GST/HST registrants beginning July 1, 2010.
+
+Currently, only GST/HST registrants who meet the criteria set by the CRA have the option to use electronic filing. As a result of the proposed changes, restrictions will be removed so that all registrants will be able to file electronically.
+
+### Required to file electronically
+
+Under the new proposed measures, for all reporting periods ending on or after July 1, 2010, the following persons will be required to file their GST/HST returns electronically:
+
+- GST/HST registrants (except for charities) with greater than $1.5 million in annual taxable supplies, including the annual taxable supplies of all of their associates;
+
+- GST/HST registrants required to recapture input tax credits for the provincial portion of the HST on certain inputs in Ontario or British Columbia; and
+
+- builders affected by the HST transitional housing measures announced by Ontario or British Columbia.
+
+Regulations specifying the persons who will be required to file an electronic return are expected to be announced in the near future.
+
+### Not required to file electronically
+
+In general, charities and most GST/HST registrants with annual taxable supplies of $1.5 million or less will not be affected by these changes, although the CRA encourages all GST/HST registrants, regardless of their filing frequency and reporting requirements, to use electronic services.
+
+### New home builders
+
+New home builders affected by the HST transitional rules for housing in Ontario or British Columbia will have to file their GST/HST return using GST/HST NETFILE if they have any of the following information to report on their return for a particular reporting period:
+
+- the number of grandparented housing units sold during the reporting period where the purchaser was not entitled to claim a GST/HST new housing rebate or new residential rental property rebate and the total of the sale prices of those units;
+
+- the number of newly constructed or substantially renovated housing units sold during the reporting period that are subject to the HST where those units were previously purchased by the builder as grandparented housing and the total of the purchase prices of those units;
+
+- the transitional tax adjustment that is required to be included in the builder's net tax calculation in respect of grandparented housing that was less than 90% complete as of July 1, 2010; and
+
+- the amount of all provincial transitional new housing rebates claimed for the reporting period (including those assigned to the builder by purchasers).
+
+### Recapture of input tax credits
+
+Also effective July 1, 2010, large businesses and certain financial institutions will be required to use a GST/HST NETFILE return to report the recaptured portion of input tax credits attributable to the provincial component of the HST payable in respect of certain property and services acquired in Ontario or British Columbia.
+
+### More information
+
+The CRA has recently published a series of questions and answers on the new reporting requirements in GST/HST Notice 249, [Questions and Answers on the New Reporting Requirements for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice249.html)*,*which can be found on the CRA Web site.
+
+## Definition of “financial service”
+
+On December 14, 2009 the Minister of Finance released a backgrounder containing legislative proposals addressing recent court decisions which may have created uncertainty respecting the scope of the definition of "financial service" in the *Excise Tax Act*.
+
+The legislative proposals reaffirm the longstanding policy intent and clarify that investment management services, facilitatory services and credit management services are not considered financial services under the *Excise Tax Act*, and are therefore generally taxable for GST/HST purposes.
+
+These services, according to the proposed amendments, include the following:
+
+- investment management services comprising the management by one person of the assets or liabilities of another with or without discretionary authority including activities such as
+
+    - research, analysis and advice;
+
+    - determining and directing which assets or liabilities of an investment portfolio are to be acquired or disposed of; and
+
+    - acting to realize performance targets in respect of an investment portfolio;
+
+- facilitatory services that are preparatory to an actual or intended financial service comprising the performance of or the provision of one or more of the following services:
+
+    - market research, product design, document preparation or processing, customer assistance, advertising, promotional or similar activities; and
+
+    - the collection, collation or provision of information;
+
+- credit management services in respect of a credit or charge card or similar payment card, or a credit, charge or loan account or an account in respect of any advance, where the service is supplied by one person to another person that is granting or prospectively granting credit, including activities such as
+
+    - credit checking, authorization, valuation;
+
+    - making decisions relating to a grant or an application for a grant of credit;
+
+    - creating and maintaining records relating to a grant or an application for a grant of credit on behalf of the credit provider; and
+
+    - monitoring payment record or dealing with payments.
+
+The proposed amendments would apply to an investment management service, a facilitatory service or a service of managing credit, rendered under an agreement for a supply, if any consideration for the supply becomes due or is paid without becoming due after December 14, 2009. They would also apply to any such service rendered under an agreement for a supply if all the consideration for the supply became due or was paid on or before December 14, 2009, unless the supplier did not, on or before that day, charge, collect or remit any amount as or on account of tax in respect of the supply or in respect of any other supply that includes an investment management service, facilitatory service or a service of managing credit.
+
+GST/HST Notice250, Proposed Changes to the Definition of Financial Service, provides more information on these legislative proposals.
+
+## Reminder for large business GST/HST registrants to account for the First Nations goods and services tax (FNGST)
+
+The CRA administers the **First Nations goods and services tax**([FNGST](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-indigenous-peoples/first-nations-goods-services-tax.html)) on behalf of certain Aboriginal governments. As part of the CRA's continuing outreach strategy, all GST/HST registrants (including utility companies providing electricity, natural gas, telephone or cable services) who make taxable supplies of goods and services on lands where an FNGST applies are reminded that they must collect the FNGST from all customers, including [Indians](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-indigenous-peoples.html). All GST/HST registrants must account for the FNGST in the calculation of net tax when completing their GST/HST returns.
+
+The FNGST is a 5% tax on supplies of goods and services on First Nations lands where the FNGST applies. The FNGST applies to supplies of goods and services to all customers, including Indians, on these lands in the same manner that the GST/HST applies to supplies of goods and services within the rest of Canada. When an FNGST applies to a supply, then the GST does not. If a person is already registered for GST/HST, the person is automatically registered for the FNGST.
+
+The following webpage provides a list of First Nations that have implemented an FNGST and the dates on which those agreements came into effect: [First Nations Goods and Services Tax.](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-indigenous-peoples/first-nations-goods-services-tax.html) If there are circumstances where large business GST/HST registrants have not properly accounted for the FNGST, contact should be made with the registrant's Large File Case Manager to address the matter.
+
+For more information about the FNGST please see CRA Guide RC4365, [First Nations Goods and Services Tax (FNGST)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-indigenous-peoples/first-nations-goods-services-tax.html).
+
+## Enhanced filing options for GST/HST rebate filers
+
+The CRA has recently published new PDF fillable forms for GST/HST rebates.
+
+The PDF fillable forms allow you to enter required information by either selecting options from drop-down menus or typing directly into the fields. These forms will save time and effort by performing complex calculations and automatically filling the calculated amounts into the required fields. As a result, the information received by CRA will be more accurate, allowing for a quicker processing turnaround.
+
+All fillable fields are highlighted in blue and all mandatory fields are outlined in red. Many fields also have information icons that provide useful information for that specific field as well as a “Help” button at the top of each form that provides additional instructions.
+
+Once you have completed your form you may “Validate and Print” to ensure that the form is filled out accurately. Once all the necessary information is validated, a print dialogue box will open automatically where you can select your preferences and print out your completed form.
+
+At present, the following 19 rebate forms are available as PDF fillable downloads:
+
+- GST66, [Application for GST/HST Public Service Bodies' Rebate and GST Self-government Refund](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst66.html)
+
+- GST115, GST/HST Refund Application for Tour Packages
+
+- GST189, [General Application for Rebate of GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html)
+
+- GST190, [GST/HST New Housing Rebate Application](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst190.html)
+
+- GST190A, [GST/HST New Housing Rebate – Appendix A](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst190a.html)
+
+- GST191, [GST/HST New Housing Rebate Application for Owner-Built Houses](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst191.html)
+
+- GST191-WS, [Construction Summary Worksheet](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst191-ws.html)
+
+- GST192, GST/HST Transitional Rebate Application for Builders of New Housing on Leased Land
+
+- GST193, GST/HST Transitional Rebate Application for Purchasers of New Housing
+
+- GST288, [Supplement to Form GST189, Form GST386 and Form GST498](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst288.html)
+
+- GST386, [Rebate Application for Foreign Conventions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst386.html)
+
+- GST495, [Rebate Application for Provincial Part of Harmonized Sales Tax (HST)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst495.html)
+
+- GST498, [GST/HST Rebate Application for Foreign Representatives, Diplomatic Missions, Consular Posts, International Organizations, or Visiting Forces Units](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst498.html)
+
+- GST507, [Third Party Authorization and Cancellation of Authorization for GST/HST Rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst507.html)
+
+- GST518, [GST/HST Specially Equipped Motor Vehicle Rebate Application](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst518.html)
+
+- GST521, GST/HST Multi-Employer Pension Plan Trust Rebate Application
+
+- GST523-1, [Non-profit Organizations – Government Funding](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst523-1.html)
+
+- GST524, [GST/HST New Residential Rental Property Rebate Application](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst524.html)
+
+- GST525, [Supplement to the New Residential Rental Property Rebate Application – Multiple Units](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst525.html)
+
+The CRA is continuously updating and adding new GST/HST forms, so we encourage you to visit the forms site at [www.cra.gc.ca/forms](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from January 1, 2010 to March 31, 2010, on overdue amounts payable to the Minister is 5%. The prescribed annual rate of interest on amounts owed by the Minister (i.e., rebates or refunds) is 3%. These rates are applicable to income tax, excise tax, the softwood lumber products export charge, GST/HST and the air travellers security charge (ATSC) and excise duty on wine, spirits and tobacco.
+
+The prescribed annual rate of interest respecting excise duty on beer, on overdue amounts payable for the indicated period, is set at 3%. Refund interest rates are not applicable for amounts owed by the Minister (i.e., rebates or refunds) for excise duty that is in relation to beer.
+
+|  | Income Tax, Excise Tax, Softwood Lumber Products Export Charge, GST/HST and ATSC, Excise Duty (wine, spirits, tobacco) | Excise Duty (beer) |  |
+
+| --- | --- | --- | --- |
+
+| Period | **Refund Interest** | **Arrears and Instalment Interest** | **Arrears Interest** |
+
+| January 1 to March 31, 2010 | 3% | 5% | 3% |
+
+| October 1 to December 31, 2009 | 3% | 5% | 3% |
+
+| July 1 to September 30, 2009 | 3% | 5% | 3% |
+
+| April 1 to June 30, 2009 | 3% | 5% | 3% |
+
+| January 1 to March 31, 2009 | 4% | 6% | 4% |
+
+[Prescribed interest rates for previous years](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html) are available on the CRA Web site at [www.cra.gc.ca/interestrates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## What's new in publications
+
+The following is a list of new or revised excise and GST/HST forms and publications.
+
+### GST/HST forms
+
+- GST498 [GST/HST Rebate Application for Foreign Representatives, Diplomatic Missions, Consular Posts, International Organizations, or Visiting Forces Units](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst498.html)
+
+- RC1A Business Number (BN) - GST/HST Account Information
+
+- RC1C Business Number (BN) - Import/Export Account Information
+
+### GST/HST guides
+
+- RC4034 [GST/HST Public Service Bodies Rebate - Includes Form GST66](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html)
+
+### GST/HST info sheets
+
+- GI-052 [Direct Selling Industry - The Network Sellers Method for Network Sellers and Sales Representatives](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-052.html)
+
+- GI-053 [Ontario and British Columbia: Transition to the Harmonized Sales Tax – Freight Transportation Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-053.html)
+
+- GI-054 [Ontario and British Columbia: Transition to the Harmonized Sales Tax – Passenger Transportation Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-054.html)
+
+- GI-055 [Ontario and British Columbia: Transition to the Harmonized Sales Tax – Transportation Passes](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-055.html)
+
+- GI-056 [Ontario and British Columbia: Transition to the Harmonized Sales Tax – Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-056.html)
+
+- GI-057 [Ontario and British Columbia: Transition to the Harmonized Sales Tax – Memberships](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-057.html)
+
+- GI-058 [Ontario and British Columbia: Transition to the Harmonized Sales Tax – Admissions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-058.html)
+
+- GI-059 [Ontario and British Columbia: Transition to the Harmonized Sales Tax – Intangible Personal Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-059.html)
+
+### GST/HST memoranda
+
+- 27-3 [Foreign Convention and Tour Incentive Program – Rebate for Eligible Tour Packages and Accommodation Supplied as Part of Eligible Tour Packages](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/27-3.html)
+
+### GST/HST notices
+
+- Notice244 [Harmonized Sales Tax for Ontario - Questions and Answers on Housing Rebates and Transitional Rules for Housing and Other Real Property Situated in Ontario](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice244.html) (revised)
+
+- Notice246 [Harmonized Sales Tax for British Columbia - Questions and Answers on Housing Rebates and Transitional Rules for Housing and Other Real Property Situated in British Columbia](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice246.html)(revised)
+
+- Notice248 [Application of the GST/HST to Supplies of In Vitro Diagnostic Test Kits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice248.html)
+
+- Notice249 [Questions and Answers on the New Reporting Requirements for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice249.html)
+
+- Notice250 Proposed Changes to the Definition of Financial Service
+
+### GST/HST policy statements
+
+- P-119 Trailer Commission Servicing Fees (note added)
+
+- P-239 ***Meaning of the term 'arranging for' as provided in the definition of 'financial service'*** **(note added)**
+
+### Excise rates
+
+- Listing of Vehicles and Associated Tax Rates for 2010 (ETSL64, Imposition of Excise Tax on Fuel-Inefficient Vehicles)
+
+### Excise tax and special levies forms
+
+- N15 [Application for Refund/Deduction of Excise Taxes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/n15.html)
+
+### Excise duty forms
+
+- E681 [Excise Act 2001 Refund Claim on Exported Tobacco Products](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/e681.html)
+
+### Excise duty memoranda
+
+- EDM2-2-4 Approved Financial Institutions and Acceptable Bonding Companies
+
+### Excise duty notices
+
+- EDBN14 K50B Filing and Payment Schedules for Brewers (2010-2011)
+
+### Softwood lumber products export charge notices
+
+- SWLN17 Surge Charge - Alberta Region (October 2009)
+
+- SWLN18 Surge Charge­ - Alberta Region (November 2009)
+
+- SWLN19 Notice to Independent Remanufacturers - Calculation of Export Price
+
+- SWLN20 Surge Charge­ - Alberta Region (December 2009)
+
+- SWLN21 Surge Charge - Alberta Region (January 2010)
+
+All GST/HST, Excise Duty, and Excise Taxes and Special Levies publications can be found on the CRA Web site at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+## Enquiries
+
+**For online access to account balances, transactions and more** for your GST/HST, softwood lumber products export charge, air travellers security charge as well as excise taxes and duty accounts, visit [www.cra.gc.ca/mybusinessaccount](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html).
+
+**For general information and to make enquiries regarding your account** (except for softwood lumber products export charge accounts), call Business Enquiries at 1-800-959-5525.
+
+**For enquiries regarding your softwood lumber products export charge account,** call 1-800-935-0313.
+
+**To make enquiries regarding the status of specific GST/HST domestic rebate claims,** call 1-800-959-5525.
+
+**For GST/HST technical enquiries**call GST/HST Rulings at 1-800-959-8287.
+
+**Forms and publications**
+
+To access forms and publications online visit [www.cra.gc.ca/orderforms](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications.html). To order forms and publications by telephone call 1-800-959-2221.
+
+**Are you a GST/HST registrant located in Quebec?**
+
+To make an enquiry or obtain information on the GST/HST, contact Revenu Québec at 1-800-567-4692 or visit their Web site at [https://www.revenuquebec.ca](https://www.revenuquebec.ca/en).
+
+The *Excise and* *GST/HST News* is published quarterly and highlights recent developments in the administration of the goods and services tax (GST) and harmonized sales tax (HST), First Nations goods and services tax (FNGST) and First Nations tax (FNT), softwood lumber products export charge, air travellers security charge (ATSC) as well as excise taxes and duties. If you would like to receive a link to each new edition of the*Excise and GST/HST News*as it is published, [subscribe](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/subscribe-a-canada-revenue-agency-electronic-mailing-list.html) to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-excise-gst-hst-news.html).
+
+This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into the law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, *Excise and* *GST/HST News*, Legislative Policy and Regulatory Affairs Branch, CRA, Ottawa, ON K1A 0L5.

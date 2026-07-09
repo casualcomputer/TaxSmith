@@ -1,0 +1,38 @@
+---
+title: "T4008-QC Payroll Deductions Supplementary Tables - Quebec - Effective January 1, 2026"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/payroll/t4008-payroll-deductions-supplementary-tables/t4008qc-jan.html
+last_modified: 2025-12-24
+---
+# T4008-QC Payroll Deductions Supplementary Tables - Quebec - Effective January 1, 2026
+
+## Notice to the reader
+
+Publication T4008, *Payroll Deductions Supplementary Tables*, is available in sections for each province and territory. Section A (available in both HTML and PDF formats) contains general information. Sections B and C (available in PDF format only) contain the payroll deductions supplementary tables for federal tax deductions, and the payroll deductions tables for Employment Insurance premiums. Please note that you can also use the [Payroll Deductions Online Calculator (PDOC)](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/payroll-deductions-online-calculator.html) to calculate federal tax deductions and employment insurance premiums.
+
+### Section A
+
+- [t4008qc-january-general-information.html [HTML]](https://www.canada.ca/en/revenue-agency/services/forms-publications/payroll/t4008-payroll-deductions-supplementary-tables/t4008qc-jan/t4008qc-january-general-information.html)
+
+- [t4008-qc-1-26-e.pdf [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008-qc-1-26-e.pdf)
+
+### Section B - Employment Insurance premiums tables
+
+- When the [province of employment is Quebec [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008ei-ae-qc-26eng.pdf)
+
+### Section C - Federal tax deductions supplementary tables for Quebec
+
+- [10 pay periods a year [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008-qc-10pp-26-eng.pdf)
+
+- [13 pay periods a year [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008-qc-13pp-26-eng.pdf)
+
+- [22 pay periods a year [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008-qc-22pp-26-eng.pdf)
+
+- [27 pay periods a year (Biweekly) [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008-qc-27pp-26-eng.pdf)
+
+- [53 pay periods a year (Weekly) [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008-qc-53pp-26-eng.pdf)
+
+- [240 pay periods a year (Daily) [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008-qc-240pp-26-eng.pdf)
+
+**Last update:** 2025-12-18
+
+**Related document:**[T4008 Payroll Deductions Supplementary Tables](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/t4008-payroll-deductions-supplementary-tables.html)

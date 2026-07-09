@@ -1,0 +1,34 @@
+Title: NETFILE - Myths and facts
+Source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/individuals-video-gallery/transcript-netfile-myths-facts.html
+Corpus path: corpus/cra/multimedia/individuals-video-gallery/transcript-netfile-myths-facts.md
+Document type: video_transcript
+Last modified: 2018-01-25
+
+# NETFILE - Myths and facts
+
+## Transcript
+**The video opens with the graphic text: April 30. A man (Dave) sitting in his home office. Dave pensively looks at his laptop screen. The laptop's cursor wavers over the file online prompt where it asks if he wants to file online or not.**
+**Dave miniature 1:** Hey! You don't want to be doin' that Dave!
+**Dave, surprised, sees a miniature version of himself pop up on the computer screen like one of those auto-helpers.**
+**Dave:** Doing what?
+**Dave miniature 1:** Netfiling your tax return online. It's not safe.
+You know the government. They're still in the stone age when it comes to technology. Your tax return will probably be hacked, all your information stolen...
+...talk about a nightmare.
+**Dave miniature 2:** Ha. Ha. Ha! NETFILE not safe? Com'on! Now that's funny.
+**Dave Miniature 2 appears on the other side of the computer screen.**
+**Dave miniature 2:** CRA uses the highest level of encryption available on the Internet-the same one banks use to protect the financial information of millions of Canadians.
+So there's no security worries with Netfiling, my misinformed friend.
+**Dave:** He's got you there.
+**Dave miniature 1:** Well, it's a mathematical fact if you use NETFILE your chances of being audited increases by 1000 times!
+**Dave:** I, ah, don't like the sounds of that.
+**Dave miniature 2:** Just because you don't send in your receipts when you NETFILE, it doesn't mean your likelihood of getting audited will be increased.
+CRA might want to see some of your receipts later on, but only for verification.
+**Dave miniature 1:**But ah, what about the fact, that ah, the fact...The Fact! Oh that um, ah, ah, ah...Yeah what about the fact that you need a super, super secret code to login, huh. What about that?
+**Dave miniature 2:** You can simply provide your social insurance number and date of birth.
+**Dave miniature 1:** Oh Yeah? But, but...
+**Dave:** He's lost it.
+**Dave miniature 1:** but, but, but... ahhhhhhhhhhhhhhh!
+**Sound effects: Whoosh of a file being sent.**
+**Dave miniature 2:** Attaboy Dave.
+**Dave:** Find out for yourself how easy it is to NETFILE.
+Go to www.netfile.gc.ca

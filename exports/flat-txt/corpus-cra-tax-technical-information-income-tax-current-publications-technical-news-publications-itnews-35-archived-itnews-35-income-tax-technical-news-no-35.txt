@@ -1,0 +1,49 @@
+Title: ARCHIVED - Income Tax - Technical News
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-35/archived-itnews-35-income-tax-technical-news-no-35.html
+Corpus path: corpus/cra/tax/technical-information/income-tax/current-publications/technical-news/publications/itnews-35/archived-itnews-35-income-tax-technical-news-no-35.md
+Document type: technical_publication
+Last modified: 2017-06-22
+
+# ARCHIVED - Income Tax - Technical News
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for income tax technical news](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/what-archived-content-notice-means-income-tax-technical-news.html)
+
+**February 26, 2007**
+
+**Notice to the reader:**
+
+- This version is only available electronically.
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-35.html), including PDF (which is an exact rendition of the original).
+
+**In This Issue**
+
+- [Treaty Residence – Resident of Convenience](#P21_604)
+
+The *Income Tax Technical News* is produced by the Legislative Policy and Regulatory Affairs Branch. It is provided for information purposes only and does not replace the law. If you have any comments or suggestions about the matters discussed in this publication, please send them to:
+
+Income Tax Rulings Directorate Legislative Policy and Regulatory Affairs Branch Canada Revenue Agency Ottawa ON K1A 0L5
+
+The *Income Tax Technical News* can be found on the Canada Revenue Agency Internet site at **[www.cra.gc.ca](http://www.cra.gc.ca)**
+
+## Treaty Residence – Resident of Convenience
+
+In order to qualify for the benefits under Canada's tax treaties, a person must be considered a resident of a contracting state for the purposes of the relevant treaty. Treaty residence is also a prerequisite for certain dividend deductions under Canada's domestic foreign affiliate rules and regulations. To be a resident of a contracting state, a person must be “liable to tax” in that state by virtue of a criterion referred to in the residence article of the relevant tax treaty.
+
+It has been the long-standing position of the Canada Revenue Agency (“CRA”) that, to be considered “liable to tax” for the purposes of the residence article of our treaties, a person must be subject to the most comprehensive form of taxation as exists in the relevant country. For Canada, this generally means full tax liability on worldwide income. This is supported by the comments found in the Supreme Court decision *The Queen v. Crown Forest Industries Ltd et al* (95 DTC 5389) as well as the Commentary to the OECD Model.
+
+We were recently asked to clarify the meaning of the term “liable to tax”. This request arises because of the fact that, in certain countries, the tax system generally taxes entities that have a particular attachment to that country on a worldwide income basis at a rate comparable to Canadian tax rates, but some of these entities are, according to special rules, either exempted from taxation or taxed at a very low rate. CRA's position has previously been that entities benefiting from such special regimes may not be subject to the most comprehensive form of taxation and therefore, would not be “liable to tax”.
+
+Tax professionals have suggested that the same rationale should adversely affect charities and pensions, but we nonetheless consider such entities as “residents” under our treaties and grant them treaty benefits. To clarify any ambiguity and as announced at the 2005 Canadian Tax Foundation conference, CRA agreed to undertake a review of its position regarding the level of taxation a jurisdiction must levy on a person's income before that person would be considered “liable to tax” under a tax treaty. The CRA has recently completed the review.
+
+It remains CRA's position that, to be considered “liable to tax” for the purposes of the residence article of Canada's tax treaties, a person must generally be subject to the most comprehensive form of taxation as exists in the relevant country. This, however, does not necessarily mean that a person must pay tax to a particular jurisdiction. There may be situations where a person's worldwide income is subject to a contracting state's full taxing jurisdiction but that state's domestic law does not levy tax on a person's taxable income or taxes it at low rates. In these cases, the CRA will generally accept that the person is a resident of the other Contracting State unless the arrangement is abusive (e.g. treaty shopping where the person is in fact only a “resident of convenience”). Such could be the case, for example, where a person is placed within the taxing jurisdiction of a Contracting State in order to gain treaty benefits in a manner that does not create any material economic nexus to that State.
+
+As confirmed by the Supreme Court in *The Queen v. Crown Forest Industries Ltd et al* (95 DTC 5389), reviewing the intention of the parties of a tax treaty is a very important element in delineating the scope of the application of the treaty. Accordingly, the determination of residency for the purposes of a tax treaty remains a question of fact, and each case will be decided on its own facts with an eye to the intention of the parties of the particular convention and the purpose of international tax treaties.

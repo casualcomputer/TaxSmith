@@ -1,0 +1,198 @@
+Title: Webinar – Books and records
+Source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/charities-video-gallery/webinar-books-records.html
+Corpus path: corpus/cra/multimedia/charities-video-gallery/webinar-books-records.md
+Document type: video_transcript
+Last modified: 2024-07-09
+
+# Webinar – Books and records
+
+## Transcript
+### Slide 3 – Books and records
+Renee: Let me welcome you to the Canada Revenue Agency’s webinar on books and records.
+Thank you for taking the time to join us today.
+My name is Renee Gray and I’ll be your host for today’s talk.
+### Slide 4 - Objective
+Renee: The purpose of today’s presentation is to familiarize you with how to manage your charity’s books and records, along with other important considerations.
+If you have any questions after the presentation about how to keep adequate books and records, you can contact our client service representatives at 1-800-267-2384.
+[Open notebook with pencil.]
+### Slide 5 - Overview
+Renee: The presentation will start out with a brief overview of what it means to keep adequate books and records.
+We’ll also do an overview of financial records, written agreements with non-qualified donees, donation receipts, and retention periods for books and records.
+### Slide 6 - Adequate books and records (1/2)
+Renee: So, what does it mean to keep adequate books and records?
+The first point to note is that books and records must be kept in Canada.
+They must be kept at the Canadian address that the charity has on file with the CRA. This cannot be a PO BOX. This includes all books and records related to activities carried on outside Canada. The books and records of the Canadian charity cannot be kept at a foreign address, so you should ensure that any overseas records are sent to and maintained in Canada.
+These rules apply to electronic records and electronic records kept in cloud storage[Footnote1](#fn1) as well, which we’ll touch on briefly a little bit later.
+In the case of adverse weather events, we also recommend that copies of books and records be kept in a separate location, preferably off-site, for back-up purposes.
+[Map of Canada with pinned Canadian flag.]
+### Slide 7 - Adequate books and records (2/2)
+Renee: In order to be considered adequate, books and records need to allow the CRA to verify:
+- the charity’s revenue, including all charitable donations received;
+- that the resources are spent on charitable programs; and
+- that the activities themselves continue to be charitable
+We recommend that you keep all supporting documentation that relates to your revenue and expenses, and charitable activities. These supporting documents will help the CRA verify what we just mentioned.
+It is also important to note that your books and records must be maintained in one of Canada’s official languages. They can be written in French, English, or in both languages. If they are not, you must have them translated into either official language.
+### Slide 8 – Understanding books and records (1/2)
+Renee: Now we’ll have a look at what constitutes books and records, and look at a few examples.
+Generally speaking, books and records include all written documentation of your charity’s activities, financial transactions, and any other related correspondence.
+If you are in doubt about any items, we recommend you keep them as part of your records.
+[Stacked documents.]
+### Slide 9 – Understanding books and records (2/2)
+Renee: Books and records can include many different things. This is not necessarily an exhaustive list, but these are the types of documents you will often see in books and records. Of course, every charity is different, so there are a few examples that may not apply to your charity:
+- Governing documents, which includes letters patent, articles of incorporation, bylaws, constitution, and trust documents
+- Financial records, source documents, and written agreements - we’ll expand a little upon those in a moment
+- Copies of donation receipts
+- Board meeting minutes - these can help us determine that the board is directing the charity’s activities and financial decisions
+- Invoices
+- Contracts
+- Electronic records
+- Annual reports
+- Inventory lists
+### Slide 10 – Financial records (1/2)
+Renee: So now we’ll look specifically at some examples of financial records. These can include:
+- Financial statements
+- General ledger
+- Expense accounts
+- Bank reconciliation statements
+- Accounts receivable and accounts payable lists
+- Payroll journals
+- Provincial sales tax, goods and services tax, and harmonized sales tax
+- As well as copies of your T3010, Annual Information Returns
+### Slide 11 – Financial records (2/2)
+Renee: Keep in mind financial records can also include any prepared notes, such as:
+- Accounting policies - for example, depreciation rates
+- Details of investments - like maturity dates and interest rates
+- Sources of revenue - such as government grants, plus the type of grant
+- Transactions with non-arm's length parties
+- Information about funds that a donor has directed you to hold for 10 years or more
+- And any future obligations
+In addition to keeping these with your books and records, prepared notes also need to be submitted with the T3010.
+### Slide 12 – Source documents
+Renee: Now, we mentioned source documents earlier. These are just a few examples. Again, these include any documents that the CRA can use to help verify the contents of your other books and records. These include documents such as:
+- Sales invoices
+- Purchase invoices
+- Cash register receipts
+- Formal contracts
+- Donation envelopes - which you see most often with religious charities
+- Delivery slips
+- Deposit slips
+- Cheques
+- Bank statements
+- and correspondence that supports these transactions – and this includes written or any other form of general correspondence.
+### Slide 13 – Witten agreements with non-qualified donees (1/5)
+Renee: Written agreements.
+These are recommended for charities working with non-qualified donees within or outside of Canada, as intermediaries, or, under the new option, as grantee organizations.
+In both cases, written agreements are not legally required, but are highly recommended. A written agreement outlines the nature of the relationship between the charity and the non-qualified donee.
+[Fountain pen drawing lines.]
+### Slide 14 – Witten agreements with non-qualified donees (2/5)
+Renee: In the case of intermediaries, written agreements help to ensure direction and control over your activities, and they are a great way to prove to the CRA that you have that very important direction and control. It also helps to demonstrate that the intermediary is carrying out the charity’s own activity and using funds appropriately.
+In the case of grantee organizations, written agreements help to satisfy the legislative requirements to maintain grant documentation, and ensure that the resources are exclusively applied to charitable activities in furtherance of the charity’s charitable purposes.
+### Slide 15 – Witten agreements with non-qualified donees (3/5)
+Renee: For one-time, stand-alone activities, where the amount of resources involved is minor, a written agreement may not be as useful or necessary. But for ongoing relationships with repeat activities, they are an important tool.
+We also recommend that you review and update your written agreements periodically to ensure they stay current.
+### Slide 16 – Witten agreements with non-qualified donees (4/5)
+Renee: And here are a few of the details you’ll see on a good written agreement. This is just to give you an idea of what it could look like:
+- Description of activities and how they further the charity’s purpose
+- Location of the activity
+- All time frames and deadlines
+- Financial and progress report requirements
+For intermediary relationships in particular:
+- A statement of the right to inspect the activity and related books and records
+- And a provision for issuing ongoing instructions
+More details on written agreements can be found in our guidance products on working with intermediaries.
+### Slide 17 – Witten agreements with non-qualified donees (5/5)
+Renee: For more information on working with intermediaries, you can follow the links here. One is for working with intermediaries within Canada, and the other is for working with intermediaries outside Canada.
+We’ve also provided the link for our guidance on making grants to non-qualified donees.
+(link summary on slide:
+[Using an intermediary to carry out a charity's activities within Canada](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/using-intermediary-carry-a-charitys-activities-within-canada.html)
+[Canadian registered charities carrying on activities outside Canada](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/guidance-002-canadian-registered-charities-carrying-activities-outside-canada.html)
+[Registered charities making grants to non-qualified donees](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/charities-making-grants-non-qualified-donees.html))
+### Slide 18 – Donation receipts (1/2)
+Renee: And one final example of items you need in your books and records: the donation receipts, which of course are very important to hang on to. Even though your charity has the choice whether or not to issue them, whenever you do issue receipts they must be kept as part of your books and records.
+For cash donations, you do have the option to issue one cumulative receipt at the end of the year, or you can issue individual receipts for each cash donation. This is your choice, as long as you don’t do both. For non-cash gifts, like when someone donates an item to your charity, a separate receipt must be issued for each individual gift.
+Because most donors have certain expectations when it comes to issuing receipts, it is a best practice for you to make sure your donors are aware of your receipting policies. For example, if you will only issue tax receipts for donations over a certain minimum amount, you should make sure that is advertised to your potential donors.
+[Donation receipt.]
+### Slide 19 – Donation receipts (2/2)
+Renee: And for those who are unfamiliar, this is an example of a donation receipt issued for a cash gift.
+These receipts must have the following items:
+- a statement that it is an official receipt for income tax purposes
+- the name and address of the charity as on file with the Canada Revenue Agency
+- a unique serial number
+- the registration number issued by the CRA
+- the location where the receipt was issued — city, town, or municipality
+- the date or year the gift was received
+- the date the receipt was issued
+- the full name, including middle initial, and address of the donor
+- the amount of the gift
+- the amount and description of any [advantage](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/charities-giving-glossary.html) received by the donor
+- the [eligible amount of the gift](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/charities-giving-glossary.html)
+- the signature of an individual authorized by the charity to acknowledge gifts
+- the name and website address of the CRA
+Receipts for non-cash gifts must also include:
+- the date the gift was received, if not already included
+- a brief description of the gift received by the charity
+- the name and address of the appraiser, if the gift was appraised
+Sample official donation receipts are available on the Charities and Giving webpages on Canada.ca.
+You should note that effective on Royal Assent, Budget 2024 proposed changes to simplify the issuance of official donation receipts and to align the process for issuing receipts with the modern practices of charities. The changes would be communicated on our website once they are implemented. The best way to stay up to date is to register for our electronic mailing list.
+(link on slide to [Sample official donation receipts](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/sample-official-donation-receipts.html))
+[Donation receipt.]
+### Slide 20 – Electronic books and records
+Renee: Electronic records
+Electronic records are subject to the same rules and retention periods that we’ll be discussing shortly.
+Books and records that are created and maintained in electronic format must be kept in an electronically readable format, even if the charity also has paper printouts of those records.
+What do we mean by electronically readable? An electronically readable format is information supported by a system capable of producing an accessible and useable copy that would allow auditors to process and analyze the electronic records on CRA equipment – in other words, it has to be a format that you could reasonably expect the CRA to be able to open and read.
+If any source documents are initially created, transmitted, or received electronically, they must be kept in an electronically readable format.
+Scanned images of paper documents, records, and books of account that are maintained in electronic format are acceptable if proper imaging practices are followed and documented.
+Now, cloud storage. We know that cloud storage is useful, but it also comes with its fair share of risks. Our current position is as long as the records are stored and accessible through a cloud server located in Canada, cloud storage is allowable, on an interim basis. Books and records that are kept outside Canada, but are available electronically in Canada are not considered to be kept in Canada.
+For more information on electronic record keeping, you can refer to Publication IC05-1R1 Electronic Record Keeping.
+(link on slide to [IC05-1R1 Electronic Record Keeping](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic05-1.html))
+[Electronic records.]
+### Slide 21 – Retention of books and records (1/3)
+Renee: And our final topic for today: Retention periods. How long do you have to keep your books and records.
+There are three retention periods for books and records, all depending on the type of record.
+It should be noted that these are the CRA’s retention requirements, and charities that are incorporated should verify with their incorporating bodies to ensure they also meet their requirements.
+The first of the three types of retention period is “Life of the charity and 2 years after revocation.”
+This period applies to:
+- governing documents and bylaws
+- meetings minutes of the directors, trustees, or executives
+- in the case of a corporation, those minutes are kept for two years after the day the corporation is dissolved.
+- meeting minutes of the membership
+- records of 10-year gifts
+So, all of these documents have to be kept for the entire time the charity is registered, and should the charity ever be revoked, for 2 years afterwards.
+In case you are wondering what a 10-year gift is: It is a specific kind of donation made to a registered charity that is subject to a donor's written trust or direction that the gift, or any property substituted for it, be held by the recipient charity, or another registered charity, if the gift is transferred, for 10 years or more from the date the gift was made.
+[Opened file cabinet showing index cards.]
+### Slide 22 – Retention of books and records (2/3)
+Renee: The second type of period is “for 6 years from the end of the year the records relate to, and 2 years after revocation”
+This applies to:
+- general ledgers or other books of final entry, containing summaries of year-to-year transactions and the accounts necessary to verify transactions
+- financial statements, source documents, and copies of annual information returns also fall under this retention period
+Again, in the case of a dissolved corporation, records must only be kept two years after the day of its dissolution, instead of 6 years.
+### Slide 23 – Retention of books and records (3/3)
+Renee: The final period applies specifically to donation receipts. Those must be kept “for at least 2 years from the end of the calendar year the donations were made in.”
+This applies to copies of official donation receipts, except receipts for 10-year gifts, which falls under a different retention period, as we saw two slides ago.
+This period also applies to donation envelopes, which as we mentioned earlier, are considered source documents. Those also need to be kept for 2 years.
+### Slide 24 – Other considerations
+Renee: And to close out the presentation, here are a few other points to consider with regards to books and records.
+Your charity is still responsible for records kept by third parties. These need to be readily accessible along with the rest of your books and records.
+We recommend that all your books and records be kept in one area, in one location for easy access. We also recommend that you keep backup copies at a separate location to guard against the possibility of lost or damaged records.
+It is very important that you’re able to make records available to CRA officials should we ever request them.
+### Slide 25 – Where to find this information (1/2)
+Renee: In case you’ve missed something, or if you’d like to do some additional reading, or you’d like to revisit this information later, here’s how you can find it on our website.
+Our Charities and Giving - A to Z index is accessible right off our main landing page [www.canada.ca/charities-giving](https://www.canada.ca/en/services/taxes/charities.html). You can search for any charity related topic, with even just a keyword, there are over 400 topics you can find here. Once you are on the A to Z index page, you simply type in what you’re looking for. You’ll notice here we typed in “Books” and it populated four different possibilities.
+(link on slide to [www.canada.ca/charities-giving](https://www.canada.ca/en/services/taxes/charities.html))
+### Slide 26 – Where to find this information (2/2)
+Renee: Search engines are another quick way you can search topics. Here’s how you can do that.
+Start by typing “CRA charities”, then enter whatever topic you’re looking for.
+The books and records page is where you’ll find most of what we talked about today along with a helpful infographic that summarizes the Books and Records information.
+### Slide 27 – Contact us
+Renee: And lastly, here is the number to reach our client service representatives, dedicated for Charities: 1-800-267-2384. There, you can speak directly to one of our representatives. They are available to help you Monday through Friday, from 9 am to 5 pm local time.
+Thank you so much for attending today’s webinar. We hope we were able to answer your questions.
+We will be sending you a link to an online survey about today’s webinar. Please take a few minutes to complete the survey.
+Your feedback is really important to us. It helps us evaluate the effectiveness of our webinars and plan for our future outreach activities.
+If you would like to receive recent news and updates from the CRA, we recommend you sign up for our electronic mailing list at [canada.ca/charities-whats-new](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-charities-giving-whats-new.html).
+And if you haven't already, make sure you sign up for the CRA's My Business Account using the link provided. My Business Account is a fast, secure, and easy way for you to access your CRA account information and file your annual return.
+Thank you.
+(link summary on slide:
+[Charities and giving](https://www.canada.ca/en/services/taxes/charities.html)
+[Sign up for our electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-charities-giving-whats-new.html)
+[Access our online services for charities](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/toolbox-directors-officers-volunteers/business-account.html))

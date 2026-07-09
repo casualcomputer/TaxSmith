@@ -1,0 +1,98 @@
+---
+title: "Changes affecting your GST/HST return"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc542/changes-affecting-your-gst-hst-return.html
+last_modified: 2020-01-17
+---
+# Changes affecting your GST/HST return
+
+## File additional goods and services tax / harmonized sales tax (GST/HST) elections in My Business Account.
+
+As part of its ongoing efforts to better serve businesses, starting October 2019, the CRA will be giving you more options to submit your GST/HST elections electronically in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html). In addition to the GST/HST elections currently available to file in My Business Account, this new service will let registrants submit 35 additional GST/HST elections electronically, saving you postage costs and speeding up processing time.
+
+### How it will work
+
+- Instead of mailing in your GST/HST elections, you will be able to upload and submit your completed and scanned election forms directly to the CRA in My Business Account.
+
+- Download and print PDF versions of the GST/HST election forms on the [Canada Revenue Agency forms listed by number](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms.html) web page to complete, sign, and scan to your computer.
+
+- In My Business Account, when you select “File an election,” you can choose the new “Other” option that will provide a drop-down list of all GST/HST elections available using this service.
+
+- Select your election from the list and follow the prompts to upload and submit the election for processing.
+
+- After you successfully submit the election, you will be given a confirmation page with a reference number.
+
+- Once the CRA processes the election, you will be able to view it in the “View election” option in the My Business Account portal.
+
+### Helpful reminder
+
+To help you keep track of your CRA due dates for instalment payments, returns, and remittances, use our secure online services. For more information, go to [CRA sign-in services](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+## Delivery of the Goods and Services Tax/Harmonized Sales Tax (GST/HST) return for paper filers
+
+Starting in spring 2018, **how often** you receive your GST34-2, Goods and Services Tax/Harmonized Sales Tax (GST/HST) Return for Registrants, and **what you get with it** will change.
+
+- All GST/HST registrants that now receive a quarterly or monthly GST34-2 each time they have to file in the fiscal year will receive **one** GST34-2 package for the entire fiscal year.
+
+- The package will be sent before your first return is due and will contain: If you currently do not receive remittance vouchers, you will continue to not receive them.
+
+    - a cover letter with your reporting periods and filing due dates;
+
+    - all returns you are required to file;
+
+    - remittance vouchers for each period; and
+
+    - your access code.
+
+- We have also made some changes to the layout of the return. There will now be two returns on each piece of paper; one on the bottom and another one inverted at the top.
+
+- Working copies will not be sent with your GST34-2 package but you can download and print them at [canada.ca/gst-hst-working-copy](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/complete-file-instructions.html).
+
+- There is no change for annual filers. You will continue to receive your package once per year.
+
+**For example:** As a monthly filer, you currently receive a GST34-2 every month throughout the year. After May 14, 2018, you will receive **one** GST34-2 package that has the documents you need to file your 12 monthly returns. Your filing and payment/remittance due dates remain the same.
+
+### Helpful reminder
+
+To help you keep track of your due dates, we encourage you to use our secure online services. For more information, go to [CRA sign-in services](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+## New reporting lines on Form GST34-3, Goods and Services Tax/Harmonized Sales Tax (GST/HST) Electronic Filing Information
+
+As part of its ongoing effort to better serve businesses and simplify its electronic services, starting May 16, 2016, the Canada Revenue Agency (CRA) changed the way your business can report different types of income on line 101 of the GST34-3, Goods and Services Tax/Harmonized Sales Tax (GST/HST) electronic return.
+
+If your business reports sales that include zero-rated supplies made in Canada, exempt supplies and zero-rated exports, you can now report these items separately on your electronic GST/HST return. Before May 16, 2016, you included such sales as one amount on line 101 of the return. This change will let the CRA properly determine your filing frequency and any mandatory electronic filing requirements that apply.
+
+In the past, if your business had to file electronically or report more frequently due to the inclusion of non-taxable or zero-rated exports on line 101, you would have had to contact the CRA to get your account corrected. With the introduction of lines 90, 91, and 102, you will no longer need to do this.
+
+### What changed for businesses that report zero rated supplies made in Canada, exempt supplies and zero-rated exports
+
+Three new lines are available for reporting:
+
+- Line 90 is for reporting taxable sales (including zero-rated supplies) made in Canada.
+
+- Line 91 is for reporting exempt supplies, zero-rated exports, and other sales and revenue.
+
+- Line 102 is for reporting, when applicable, an associate’s taxable sales (including zero-rated supplies) made in Canada.
+
+You or an authorized representative must select a box on the first page of the GST/HST NETFILE service to indicate that you want to report these types of sales.
+
+Help text will be available by selecting the corresponding blue “?” button for each new line. The help text will describe what is to be reported.
+
+## Unique access code
+
+As part of its ongoing efforts to reduce red tape for businesses and simplify its electronic services, starting October 19, 2015, the Canada Revenue Agency (CRA) will provide all GST/HST registrants with a new and unique access code on their GST34-2, *Goods and Services Tax/Harmonized Sales Tax (GST/HST) Return for Registrants*, or GST34-3, *Goods and Services Tax/Harmonized Sales Tax (GST/HST) Electronic Filing Information*.
+
+As of October 19, 2015, you will also be able to change your access code to one of your choice by going to [www.cra.gc.ca/gsthst-accesscode](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/gst-hst-netfile/need-access-code.html). You can use this access code to file all your future GST34-2s or GST34-3s.
+
+## Delivery of the GST34-3, Goods and Services Tax/Harmonized Sales Tax (GST/HST) Electronic Filing Information
+
+Also starting October 19, 2015, **how often** you receive your GST34-3, and **what you get with it** will change.
+
+- All GST/HST registrants that now receive a GST34-3 each time they have to file in the fiscal year will receive **one** GST34-3 package for the entire fiscal year.
+
+- The package will contain your access code, a list of your reporting periods and filing due dates for that fiscal year, and the remittance vouchers for each period in the fiscal year.
+
+**For example:** As a monthly filer, you now receive a GST34-3 every month throughout the year. After October 19, 2015, you will receive **one** GST34-3 package that has everything you need to file your 12 monthly returns. Your filing and payment/remittance due dates remain the same.
+
+## Helpful reminder
+
+To help you keep track of your due dates, we encourage you to use our secure online services. For more information, go to [CRA sign-in services](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).

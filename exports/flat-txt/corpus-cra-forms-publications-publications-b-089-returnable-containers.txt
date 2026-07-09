@@ -1,0 +1,829 @@
+Title: Returnable Containers
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-089/returnable-containers.html
+Corpus path: corpus/cra/forms-publications/publications/b-089/returnable-containers.md
+Document type: publication
+Last modified: 2026-06-23
+
+# Returnable Containers
+
+GST/HST Technical Information Bulletin B-089 June 2026
+
+This version replaces the one dated April 2002. This technical information bulletin has been updated to reflect changes in the legislation regarding tax rates and the prescribed provincial Acts under the *Returnable Beverage Container (GST/HST) Regulations*.
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the *Excise Tax Act* (ETA). The information in this publication does not replace the law found in the ETA and its regulations. Although correct at the time of issue, this publication may not have been updated to reflect subsequent legislative changes.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1‑800‑959‑8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Requesting a GST/HST Ruling or Interpretation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1‑855‑666‑5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The GST/HST rates are those that were in effect at the time of publishing. For the list of all applicable GST/HST rates (current and historic), go to [GST/HST calculator (and rates)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html).
+
+If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [Introduction](#toc0)
+
+- [Taxable supply of a beverage in a returnable container](#toc1)
+
+- [Supply of a zero-rated beverage in a returnable container](#toc2)
+
+- [Deemed supply of a service where the returnable container charge exceeds the refund](#toc3)
+
+    - [Consideration for a deemed supply of a service in a province without prescribed legislation](#toc4)
+
+    - [Consideration for a deemed supply of a service in a province with prescribed legislation](#toc5)
+
+    - [Deemed supply of a service acquired by a recipient](#toc6)
+
+- [Supply of used and empty containers](#toc7)
+
+    - [Exceptions](#toc8)
+
+- [Recycling services](#toc9)
+
+    - [Supply of a recycling service to a distributor](#toc10)
+
+    - [Supply of a recycling service between recyclers](#toc11)
+
+- [Specified beverage retailers](#toc12)
+
+    - [Addition to net tax](#toc13)
+
+    - [Exception for a specified beverage retailer](#toc14)
+
+- [Special rules in the provinces with prescribed legislation (for retailers in Nova Scotia and Newfoundland and Labrador)](#toc15)
+
+    - [Application of the special rules](#toc16)
+
+    - [Non-application of the special rules](#toc17)
+
+    - [Change in practice – beginning to apply the special rules](#toc18)
+
+    - [Change in practice – ceasing to apply the special rules](#toc19)
+
+    - [Ceasing to be a registrant while the special rules apply](#toc20)
+
+- [Elections under sections 156 and 167](#toc21)
+
+    - [Application of section 167 to a deemed supply of a service](#toc22)
+
+    - [Recipient is subject to the special rules where section 156 or 167 applies](#toc23)
+
+    - [Supplier is subject to the special rules where section 156 or 167 applies](#toc24)
+
+- [Other deeming provisions for returnable containers](#toc25)
+
+    - [Rebates in respect of beverages in returnable containers](#toc26)
+
+- [Fair market value of beverages in filled and sealed containers](#toc27)
+
+    - [Basic tax content of beverages in filled and sealed containers](#toc28)
+
+- [Appendix A – Definitions and explanations of significant terms used in this publication](#toc29)
+
+- [Appendix B – Examples of the application of section 226](#toc30)
+
+## Introduction
+
+Definitions for bolded terms throughout this publication may be found in Appendix A. Refer to Appendix A for more information.
+
+The GST/HST legislative provisions simplify the reporting requirements with respect to the deposits and refunds on returnable beverage containers.
+
+Since most of the suppliers in the beverage supply chain charge the same amount for a deposit or a refund that they pay, there is no GST/HST reporting requirement associated with the supply of a **returnable container** by these suppliers. The GST/HST reporting is only required by one registrant, the initial supplier of the beverage, such as the bottler, manufacturer, or importer of the beverage, who is usually the last person to pay the refunds for the empty containers. The provisions also ensure that when, in the chain, an amount higher than the refund is charged for the supply of a filled and sealed container, tax is to be charged and reported in respect of the amount by which the amount charged exceeds the refund.
+
+## Taxable supply of a beverage in a returnable container
+
+Generally, a **returnable container charge** includes all non-refundable environmental levies and a refundable deposit. Deposits that are refundable to the consumer are excluded from the value of consideration of a supply when determining the GST/HST applicable to the supply of a beverage in a returnable container. All non-refundable levies or handling charges have the same tax status as the beverage being sold. For example, a non-refundable levy that applies to a returnable container for a zero-rated bottle of milk will also be zero-rated.
+
+Under section 226, a retailer making a supply of a taxable soft drink in a returnable container would charge tax on any non-refundable environmental levy, but not on the refundable deposit.
+
+Underparagraph 226(2)(a), if a supplier makes a taxable supply (other than a zero-rated supply) in a province of a beverage in a filled and sealed returnable container in circumstances in which the supplier typically does not unseal the container, and the supplier charges the recipient a returnable container charge in respect of the container, the consideration for this supply is deemed to be equal to the amount determined by the formula:
+
+**A – B**
+
+where:
+
+Section 137 states that "where tangible personal property of a particular class is supplied in a covering or container that is usual for that class of property, the covering or container shall be deemed to form part of the property so supplied."
+
+Section 137 deems the container to form part of the beverage. Therefore, the consideration for the supply as otherwise determined for purposes of the GST/HST is the total of the consideration for the beverage and the returnable container charge. Paragraph 226(2)(a) deems the consideration for the supply to be this total consideration less the returnable container charge.
+
+| Details | Amount |
+
+| --- | --- |
+
+| Taxable beverage sold in a returnable container | $1.00 |
+
+| Returnable container charge | $0.15 |
+
+| Total consideration | $1.15 |
+
+| Deemed consideration for the beverage [$1.15 − $0.15] | $1.00 |
+
+## Supply of a zero-rated beverage in a returnable container
+
+Subsection 226(2) does not apply to a zero-rated supply of a beverage in a filled and sealed returnable container.
+
+Zero-rated products are subject to section 137 which as previously stated deems the container or covering that is the usual container for the beverage to form part of the property supplied. Therefore, any amount charged in respect of the container is treated as part of the consideration for the beverage. The returnable container charge is deemed to be part of the consideration for the supply of the zero-rated beverage and is therefore zero-rated.
+
+## Deemed supply of a service where the returnable container charge exceeds the refund
+
+Under paragraph 226(2)(b), if the returnable container charge of a beverage in a filled and sealed returnable container exceeds the refund for the container, the supplier is deemed to have made to the recipient, at the time at which the consideration for the particular supply becomes due or would, in the absence of section 156, have become due, a taxable supply in the province of a service in respect of the container. The consideration for this deemed supply is deemed to be separate from the consideration for the beverage, and to become due at that time.
+
+The calculation used to determine the value of the consideration for the deemed supply of a service in respect of the container depends on whether a provincial Act that imposes the returnable container charge has been prescribed for this purpose.
+
+### Consideration for a deemed supply of a service in a province without prescribed legislation
+
+In provinces where a provincial Act has not been prescribed, subparagraph 226(2)(b)(i) applies and the consideration for the deemed supply of a service in respect of the container is equal to the amount by which the returnable container charge exceeds the refund for the container.
+
+Where the refund for a returnable container of a particular class in a province is equal to the returnable container charge, no part of the returnable container charge will be taxable. The GST/HST only applies to the part of the returnable container charge that exceeds the refund.
+
+| Details | Amount |
+
+| --- | --- |
+
+| Taxable beverage sold in a returnable container in a province without a prescribed legislation | $1.00 |
+
+| Returnable container charge | $0.15 |
+
+| Total consideration | $1.15 |
+
+| Refund | $0.10 |
+
+| Deemed consideration for the beverage [$1.15 − $0.15] | $1.00 |
+
+| Consideration for the deemed supply of a service [$0.15 − $0.10] | $0.05 |
+
+| Total taxable consideration [$1.00 + $0.05] | $1.05 |
+
+| Total GST payable [$1.05 × 5%] | $0.05 |
+
+### Consideration for a deemed supply of a service in a province with prescribed legislation
+
+Nova Scotia and Newfoundland and Labrador are the only provinces whose legislation is prescribed under the *Returnable Beverage Container (GST/HST) Regulations* (Regulations). Although New Brunswick and Prince Edward Island each have legislation listed in the Regulations, these jurisdictions have repealed their legislation as of April 1, 2024, and April 1, 2026, respectively.
+
+A separate calculation under clause 226(2)(b)(ii)(A) applies in a participating province where a provincial Act has been prescribed and imposes a tax-included charge for a returnable container that is not fully refunded. That is, the amount by which the returnable container charge exceeds the refund for the container includes the GST/HST. To determine the value of the consideration for the deemed supply of a service in respect of the container, the tax component of this tax-included charge must be removed as well as the refund.
+
+Where the conditions described in clause 226(2)(b)(ii)(A) are met, the consideration for a deemed supply of a service in respect of the container is determined using the formula:
+
+**A × [100 ÷ (100 + B)]**
+
+where:
+
+| Details | Amount |
+
+| --- | --- |
+
+| Taxable beverage sold in a returnable container in a participating province with prescribed legislation and a 15% tax rate | $1.00 |
+
+| Tax-included charge under prescribed provincial Act | $0.10 |
+
+| Total consideration | $1.10 |
+
+| Refund | $0.05 |
+
+| Deemed consideration for beverage [$1.10 - $0.10] | $1.00 |
+
+| Deemed consideration for deemed supply of a service [tax included charge − refund] × 100/115 [$0.10-$0.05]×100/115 | $0.04 |
+
+| Total taxable consideration [$1.00+$0.04] | $1.04 |
+
+| Total HST payable [$1.04×15%] | $0.16 |
+
+Only Nova Scotia and Newfoundland and Labrador impose a tax-included charge for a returnable container that is not fully refunded. Regulations may be prescribed in the future to determine the value of the consideration for the deemed service in the case of a non-participating province if, under an Act of that province, a tax-included charge that is not fully refunded is imposed in respect of returnable containers.
+
+### Deemed supply of a service acquired by a recipient
+
+Where the supplier of a beverage in a filled and sealed returnable container is deemed to have made a taxable supply of a service in respect of the container, paragraph 226(2)(c) states "the recipient is deemed to have acquired that service for the same purpose as that for which the recipient acquired the beverage."
+
+This provision affects the determination of the extent to which the recipient may be eligible to claim an input tax credit (ITC) for the tax calculated on the non-refundable portion of the returnable container charge.
+
+## Supply of used and empty containers
+
+If a person supplies a used and empty returnable container (or the material resulting from its compaction), the value of the consideration for the supply is deemed to be nil under subsection 226(4). If the consideration for the supply, as determined without reference to this subsection, exceeds the refund for the container, the supplier is deemed to have made to the recipient, at the time the consideration for the supply becomes due or would, but for section 156, have become due, a separate taxable supply in the province of a service in respect of the container for consideration equal to that excess amount.
+
+A supplier such as a retailer who accepts used and empty returnable containers, and who supplies a used and empty returnable container (or the material resulting from its compaction) to another person such as a recycler, can deduct the amount of the refund for the container in determining the consideration for the supply for GST/HST purposes.
+
+A recycler contracts with a retailer for the supply of 1000 returnable containers that the retailer supplies used and empty. The consideration paid by the recycler to the retailer is the same amount the retailer has paid to the consumer. A handling charge is not charged on the supply of the containers.
+
+| Details | Amount |
+
+| --- | --- |
+
+| Refund for container | $0.05 |
+
+| Consideration for used and empty returnable container | $0.05 |
+
+| Deemed consideration for the used and empty returnable container [Actual consideration−refund]×number of returnable containers [$0.05−$0.05]×1000 | $0.00 |
+
+| Total GST payable ($0.00×5%) | $0.00 |
+
+If two separate supplies are made of the used container (or the material resulting from its compaction) and of a service in respect of the container, subsection 226(4) applies only to the supply of the service in respect of the container (or the material).
+
+A recycler contracts with a retailer for a service in respect of the recycling of 1000 returnable containers that the retailer supplies used and empty. The consideration paid by the recycler to the retailer includes the refund the retailer has paid to the consumer and a handling charge.
+
+| Details | Amount |
+
+| --- | --- |
+
+| Refund for container | $0.05 |
+
+| Consideration for used and empty returnable container and service (equal to the refund plus $0.02 handling charge) | $0.07 |
+
+| Deemed consideration for service [Actual consideration–refund]×number of returnable containers [$0.07−$0.05]×1000 | $20.00 |
+
+| Total GST payable [$20.00×5%] | $1.00 |
+
+### Exceptions
+
+Subsection 226(5) provides that subsection 226(4) does not apply:
+
+- for purposes of section 5 of Part V.1 or section 10 of Part VI of Schedule V, that is, it does not apply for purposes of determining if a supply falls into the exempting provision for certain supplies of a property or service by a charity or a public sector body, where all or substantially all (90% or more) of the supplies are made for no consideration
+
+- where the recipient's usual business practice is to pay consideration for supplies of used and empty returnable containers (or for the material resulting from their compaction) that is determined based on the value of the material from which the containers are made, or on any basis other than the amount of the refund or the returnable container charge for the filled and sealed containers of that class
+
+An aluminum producer located in Newfoundland and Labrador regularly buys material resulting from the compaction of used and empty returnable containers. The cost of the aluminum is $1.00 per kilogram of compacted aluminum. The company acquires 1000 kilograms.
+
+| Details | Amount |
+
+| --- | --- |
+
+| Taxable supply of aluminum compacted material from used and empty returnable containers (per kilogram) | $1.00 |
+
+| Total consideration of supply of 1000 kilograms [1000×$1.00] | $1000.00 |
+
+| Total HST payable [$1000×15%] | $150.00 |
+
+## Recycling services
+
+### Supply of a recycling service to a distributor
+
+Subsection 226(6) applies in certain circumstances where a recycler of returnable containers makes a taxable supply in a province of a service in respect of the **recycling** of returnable containers of a particular class to a **distributor**, but does not supply the containers to the distributor. If the distributor is not a recycler who supplies such services to other distributors of returnable containers of that class, and the consideration for the supply is based in whole or in part on the amount in that province of the returnable container charge, or on an amount that a consumer could reasonably expect to receive for a used and empty returnable container of that class, the value of the consideration for the supply is deemed to be equal to the amount determined by the formula:
+
+**A – B**
+
+where:
+
+A distributor contracts with a recycler for a service in respect of the recycling of 1000 returnable containers that the distributor supplies filled and sealed in a province. The consideration paid by the distributor to the recycler is the same as the returned container charge. The recycler does not charge a handling charge on the supply made to the distributor.
+
+| Details | Amount |
+
+| --- | --- |
+
+| Returnable container charge for a filled and sealed container | $0.10 |
+
+| Actual consideration for service in respect of container | $0.10 |
+
+| Deemed consideration for the service [actual consideration−returnable container charge]×number of returnable containers [$0.10−$0.10]×1000 | $0.00 |
+
+| Total GST payable [$0.00×5%] | $0.00 |
+
+A distributor contracts with a recycler for a service in respect of the recycling of 1000 returnable containers that the distributor supplies filled and sealed in a province. The consideration paid by the distributor to the recycler includes a returnable container charge and a handling charge.
+
+| Details | Amount |
+
+| --- | --- |
+
+| Returnable container charge for a filled and sealed container | $0.10 |
+
+| Actual consideration for service (equal to returnable container charge plus $0.02 handling charge) | $0.12 |
+
+| Deemed consideration for service [actual consideration−returnable container charge]×number of returnable containers [$0.12−$0.10]×1000 | $20.00 |
+
+| Total GST payable [$20.00×5%] | $1.00 |
+
+Subsection 226(6) does not apply for purposes of section 5 of Part V.1 or section 10 of Part VI of Schedule V, that is, it does not apply for purposes of determining if a supply falls into the exempting provision for certain supplies of a property or service by a charity or a public sector body, where all or substantially all (90% or more) of the supplies are made for no consideration. If the distributor is also receiving a supply of the used and empty containers from the recycler, subsection 226(4) would apply.
+
+When services are provided for the recycling of used and empty containers, fees are subject to the GST/HST even when the empty containers being recycled contained zero-rated beverages.
+
+### Supply of a recycling service between recyclers
+
+Under subsection 226(7), where a recycler of returnable containers makes a taxable supply in a province of a service in respect of the recycling of returnable containers of a particular class to another recycler of returnable containers without supplying the containers to the other recycler and the consideration for the supply is based in whole or in part on the amount in that province of the refund, or the returnable container charge, for a returnable container of that class, the value of the consideration for the supply is deemed to be equal to the amount determined by the formula:
+
+**A – B**
+
+where:
+
+A recycler contracts with another recycler for a service in respect of the recycling of 1000 returnable containers.
+
+| Details | Amount |
+
+| --- | --- |
+
+| Refund for container | $0.05 |
+
+| Actual consideration for service (equal to the refund plus $0.02 handling charge) | $0.07 |
+
+| Deemed consideration for service [actual consideration−refund]×number of returnable containers [$0.07−$0.05]×1000 | $20.00 |
+
+| Total GST payable [$20.00×5%] | $1.00 |
+
+If the recycler who is the recipient of the recycling service is also acquiring the used and empty returnable containers, subsection 226(4) would apply.
+
+## Specified beverage retailers
+
+### Addition to net tax
+
+Under subsection 226(18), a registrant who makes a supply of a beverage in a returnable container of a particular class in respect of which the registrant is a **specified beverage retailer** where paragraph 226(2)(a) applies in determining the consideration for that supply, and at any time supplies that container used and empty for consideration without having acquired it used and empty for consideration, is required to add an amount in determining its net tax for the reporting period that includes that time calculated by the formula:
+
+**A × B**
+
+where:
+
+Under paragraph 226(2)(a), a specified beverage retailer can deduct the returnable container charge from the consideration for the sale of the beverage. This gives the appropriate result where the purchaser of the beverage retains the container to obtain the refund. This is not the case, however, where the specified beverage retailer retains the container for the refund. In this situation, a specified beverage retailer is required under subsection 226(18) to add to its net tax an amount of tax calculated on the refund it receives for the container.
+
+A retailer operates a grocery store and sells food and pop cans in a non-participating province in which a provincial Act is not prescribed for the purposes of paragraph 226(2)(b). The returnable container charge for a returnable container in the province is $0.20 and the refund for the returnable container in the province is $0.10. The retailer charges the returnable container charge when it sells beverages in filled and sealed returnable containers to consumers.
+
+Most customers take their food and beverages to consume elsewhere, but a small number choose to eat on the premises. The only containers that the retailer collects and returns are those left behind by customers who consumed their beverages on site. In this situation, the retailer would be considered a specified beverage retailer in relation to returnable containers of that type, as not all or substantially all of the containers collected were acquired for consideration.
+
+When the specified beverage retailer returns the used and empty returnable containers and receives $100.00 ($0.10 per container), subsection 226(4) applies and the consideration for the returnable containers is deemed to be nil since the consideration paid for the returnable containers does not exceed the refunds. Since the specified beverage retailer supplied the used and empty returnable containers that it had previously sold to consumers filled and sealed, and did not acquire the used containers for consideration, subsection 226(18) applies. The specified beverage retailer must add an amount to its net tax equal to the applicable tax rate multiplied by the refunds for the returnable containers.
+
+In this case, the specified beverage retailer would add $5.00 (5% of $100.00) when calculating its net tax.
+
+### Exception for a specified beverage retailer
+
+Subsection 226(3) allows specified beverage retailers to elect not to deduct the amount of the returnable container charge when determining the consideration for the supply of beverages in returnable containers. A specified beverage retailer may choose this election to avoid having to later add an amount to its net tax under subsection 226(18) in respect of any supplies of the used and empty containers that are left with the specified beverage retailer by the consumers of the beverages.
+
+## Special rules in the provinces with prescribed legislation (for retailers in Nova Scotia and Newfoundland and Labrador)
+
+### Application of the special rules
+
+Special rules apply in a province where a provincial Act is prescribed for purposes of paragraph 226(2)(b) to determine the value of the consideration for a deemed supply of a service in respect of a returnable container.
+
+Subsection 226(8) states "subject to subsection (9), if a registrant acquires, in a province in which an Act prescribed for the purposes of paragraph (2)(b) applies, a beverage in a returnable container for the purpose of making in that province a taxable supply of the beverage in the container in circumstances in which the registrant will charge a returnable container charge in respect of the container and be required to collect tax in respect of the supply,
+
+- (a) if a supply of a service in respect of the container is deemed under that paragraph to have been made to the registrant, the tax in respect of the supply of the service shall not be included in determining an ITC of the registrant; and
+
+- (b) if the registrant makes a supply in that province of the beverage in circumstances in which the registrant is deemed under that paragraph to have made a supply of a service in respect of the container, neither the consideration for the supply of that service nor any tax in respect of that supply shall be included in determining the net tax of the registrant."
+
+A supply of a service in respect of the container is deemed under paragraph 226(2)(b) to have been made to a registrant when the returnable container charge exceeds the refund. Where a provincial Act is prescribed, the returnable container charge is a tax-included amount, and the consideration for the deemed supply is the amount by which the non-taxable portion of this tax-included charge exceeds the refund.
+
+A registrant subject to the special rules is not eligible to claim an ITC in respect of the tax in the non-refundable portion of the tax-included charge it paid to acquire the beverage. This is balanced by the fact that the registrant is concurrently relieved of having to include, in determining its net tax, any amount of tax in respect of the non-refundable portion of the tax-included charge the registrant collects when the registrant supplies the beverage in the returnable container.
+
+A retailer in Nova Scotia is subject to the special rules. The retailer charges a tax-included charge of $0.10 and the non-refundable amount is $0.05. The non-taxable portion of the $0.05 will be the consideration for the deemed supply of a service in respect of the container under paragraph 226(2)(b). The retailer will not have to add the HST included in the $0.05 charged to the consumer to its HST remittances, but will include the HST charged on the value of the beverage. The retailer will not be entitled to add the HST included in the $0.05 paid to the retailer's supplier in determining its ITC, but will be eligible to claim an ITC in respect of the HST paid on the beverage.
+
+For registrants using a streamlined accounting method, it is the amount determined under paragraph 226(2)(b) to be the consideration for the deemed service that is excluded in determining the net tax, as opposed to the tax component of the non-refundable portion of the tax-included charge.
+
+The special rules do not apply to a taxable supply of a beverage in a returnable container by a registrant normally subject to these rules if the registrant is not required to collect tax on the supply, such as in the case of a supply to an individual registered under the *Indian Act*. This allows the registrant to claim an ITC for the tax in respect of the supply of a service deemed to have been made to the registrant when the registrant acquired the beverage in the returnable container.
+
+For more information on how the GST/HST applies to supplies made to an individual registered under the *Indian Act*, an Indian band, and a band-empowered entity, refer to [GST/HST Technical Information Bulletin B-039, GST/HST Administrative Policy - Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html).
+
+### Non-application of the special rules
+
+Under subsection 226(9), there are two circumstances in which the special rules in subsection 226(8) do not apply to a deemed supply of a service in respect of a returnable container of a particular class containing a particular beverage made to or by a registrant:
+
+- where the registrant's usual business practice is to charge, when making taxable supplies in the province of the particular beverage in a returnable container of that class, a returnable container charge that is not equal to the returnable container charge that the registrant pays for returnable containers of that class containing the particular beverage when supplies of the beverage are made to the registrant in that province
+
+- where the registrant is a specified beverage retailer in respect of the container who has elected under subsection 226(3) not to deduct the amount of the returnable container charge in determining the consideration for the supply of the beverage in the returnable container
+
+This subsection is applied on a per-product basis. Therefore, registrants may be subject to the special rules on some returnable containers of a particular class and not others, depending on their business practices for each beverage supplied.
+
+If a registrant normally charges a returnable container charge that is different from the returnable container charge paid by the registrant, the amount of tax collected by the registrant for the deemed service in respect of a returnable container will not equal the tax the registrant was required to pay for a deemed service in respect of the container. In this case, the registrant is not subject to the special rules. This ensures that the special rules are only used when the registrant's ITCs for non-refundable deposits match the tax component of the deposits charged to their customers.
+
+Paragraph 226(2)(b) does not apply to supplies made by a specified beverage retailer who has elected not to deduct the amount of the returnable container charge from the consideration for the beverage. However, paragraph 226(2)(b) does apply to supplies made to the specified beverage retailer. The specified beverage retailer is required to charge tax on the entire consideration for a supply of the beverage and the container, and to include the full amount of this tax in determining its net tax. In this case, the specified beverage retailer is not subject to the special rules, and may claim an ITC for the tax paid on the deemed supply of a service in respect of the returnable container.
+
+### Change in practice – beginning to apply the special rules
+
+Subsection 226(10) applies at the time of the first supply of a particular beverage in a returnable container of a particular class made by a registrant who has changed its usual business practice with respect to supplies of that beverage in returnable containers of that class from a practice not subject to the special rules. In other words, this subsection applies when the registrant starts to charge a returnable container charge that is equal to the returnable container charge the registrant pays when acquiring the beverage.
+
+Since the special rules did not apply to the registrant prior to the change in practice, the registrant was entitled to claim an ITC in respect of a supply of a service deemed under paragraph 226(2)(b) to have been made to the registrant when the registrant acquired the beverages in the returnable containers, or would have been so entitled if tax would, except for section 156 or 167, have been payable in respect of that supply.
+
+Since the special rules will apply to the registrant after the change in practice, the registrant will not be required to include tax in respect of a deemed supply of a service in respect of a returnable container made by the registrant in determining its net tax. The registrant is deemed to have made a taxable supply of a service in respect of each filled and sealed returnable container of that class containing the particular beverage that was, immediately before that time, held by the registrant, and to have collected, at that time, tax in respect of each supply equal to the tax paid by the registrant in respect of a service deemed under paragraph 226(2)(b) to have been made to the registrant when the registrant acquired the beverages in the returnable containers.
+
+The deeming provision applies to beverages held by the registrant for the purpose of making a taxable supply of the beverage in the province in circumstances in which the registrant would be deemed under paragraph 226(2)(b) to have made a supply of a service in respect of the returnable container.
+
+### Change in practice – ceasing to apply the special rules
+
+Subsection 226(11) applies at the time of the first supply of a particular beverage in a returnable container of a particular class made by a registrant who has changed its usual business practice with respect to supplies of that beverage in returnable containers of that class to a practice not subject to the special rules. In other words, this subsection applies when the registrant starts to charge a returnable container charge that is not equal to the returnable container charge the registrant pays when acquiring the beverage.
+
+Since the special rules applied to the registrant prior to the change in practice, the registrant was not entitled to claim an ITC in respect of a deemed supply of a service deemed under paragraph 226(2)(b) to have been made to the registrant when the registrant acquired the beverages in the returnable containers, or would not have been so entitled if tax would, except for section 156 or 167, have been payable in respect of that supply.
+
+Since the special rules will not apply to the registrant after the change in practice, the registrant will be required to include tax in respect of a deemed supply of a service in respect of the returnable container in determining its net tax. The registrant is deemed to have received for use exclusively in a commercial activity a taxable supply of a service in respect of each filled and sealed returnable container of that class containing the particular beverage that was, immediately before that time, held by the registrant, and to have paid, at that time, tax in respect of each supply equal to the tax paid by the registrant in respect of a service deemed under paragraph 226(2)(b) to have been made to the registrant when the registrant acquired the beverages in the returnable containers.
+
+The deeming provision applies to beverages held by the registrant for the purpose of making a taxable supply of the beverage in the province in circumstances in which the registrant would be deemed under paragraph 226(2)(b) to have made a supply of a service in respect of the returnable container.
+
+### Ceasing to be a registrant while the special rules apply
+
+Subsection 226(12) applies at the time a person who makes supplies of a particular beverage in filled and sealed returnable containers of a particular class in a province in which an Act is prescribed for the purposes of paragraph 226(2)(b), and who is subject to the special rules in subsection 226(8), ceases to be a registrant. Immediately before that time, the person is deemed to have received a supply of a service in respect of each filled and sealed returnable container of that class containing the particular beverage held by the person, and to have paid tax in respect of each supply equal to the tax that was payable or would, but for section 156 or 167, have been payable by the person in respect of the supply of a service deemed under paragraph 226(2)(b) to have been made to the person when the person acquired the beverage.
+
+Under subsection 171(3), where a person ceases at any time to be a registrant, the person is required to account for tax on all items of inventory then held for sale in the course of a commercial activity. This presumes that the person would have been eligible to claim ITCs for these items. However, in the case of a person's inventory of beverages in returnable containers, the person would not have been eligible to claim ITCs for the tax in the non‑refundable portion of the tax-included charge if the person had been subject to the special rules under subsection 226(8) immediately before ceasing to be a registrant.
+
+In this situation, the person is deemed to have received, immediately before ceasing to be a registrant, a supply of a service in respect of each item of that inventory and is deemed to have paid tax on each item. This tax is equal to the tax that was, or would, but for section 156 or 167, have been included in the non-refundable portion of the returnable container charge. Consequently, the registrant is eligible to claim ITCs for that tax, assuming all other conditions for claiming the ITCs are met.
+
+## Elections under sections 156 and 167
+
+### Application of section 167 to a deemed supply of a service
+
+Subsection 226(13) applies in a case where filled and sealed returnable containers are held in the inventory of a business at the time it is sold. If a registrant makes a taxable supply of a beverage in a filled and sealed returnable container under an agreement for the supply of a business or part of a business in circumstances in which subsection 167(1.1) applies to the supply and the registrant is deemed under subsection 226(2) to have made a supply of a service in respect of the container, the supply of the service is deemed to have been made under the agreement and not to be a service referred to in subparagraph 167(1.1)(a)(i).
+
+Subsection 167(1.1) sets out the rules that apply when, under an agreement to supply a business or part of a business, the supplier and recipient jointly elect under subsection 167(1) to treat certain supplies made under the agreement as non-taxable. Generally, under subparagraph 167(1.1)(a)(i), the election would not apply to a taxable supply of a service that is to be rendered by the supplier.
+
+Subsection 226(13) ensures that subparagraph 167(1.1)(a)(i) will not apply to a deemed supply of a service in respect of a returnable container under subsection 226(2). Therefore, where subsection 167(1.1) applies, the inventory of filled and sealed returnable containers will be treated in the same manner as other inventory under the agreement for the supply of a business or part of a business.
+
+### Recipient is subject to the special rules where section 156 or 167 applies
+
+Subsection 226(14) applies when a supplier who is not subject to the special rules in subsection 226(8) makes a supply in a province of a beverage in a filled and sealed returnable container to a registrant who is subject to the special rules in circumstances in which a supply of a service is deemed under paragraph 226(2)(b) to have been made by the supplier to the registrant, and because of section 156 or 167, no tax is payable in respect of the supplies. The registrant is deemed to have made at that time a taxable supply in the province of a service in respect of the container for consideration equal to the amount that would, without reference to section 156, be the value of the consideration for the supply of the service that is deemed under paragraph 226(2)(b) to have been made to the registrant, and to have collected at that time tax in respect of the supply calculated on that consideration.
+
+Under section 156, certain closely related persons may jointly elect to have most taxable supplies between them deemed to have been made for no consideration. Where section 156 or 167 applies to a supply of a beverage in a filled and sealed returnable container, the supply is not subject to tax. The supplier, who is not subject to the special rules in subsection 226(8), would have been eligible to claim an ITC in respect of the tax component of the non-refundable portion of the returnable container charge paid when acquiring the beverages but the recipient will not have to account for tax in respect of the non-refundable portion of the returnable container charge when re-supplying the beverage because the recipient is subject to the special rules under subsection 226(8). Subsection 226(14) requires that the recipient include tax calculated on the non-refundable portion of the returnable container charge in determining its net tax for the reporting period in which the beverages are acquired.
+
+### Supplier is subject to the special rules where section 156 or 167 applies
+
+Subsection 226(15) applies when a supplier who is subject to the special rules in subsection 226(8) makes a supply of a beverage in a filled and sealed returnable container to a registrant who is not subject to the special rules in circumstances in which a supply of a service is deemed under paragraph 226(2)(b) to have been made by the supplier to the registrant, and because of section 156 or 167, no tax is payable in respect of the supplies. The registrant is deemed to have received at that time a taxable supply in the province of a service in respect of the container for consideration equal to the amount that would, without reference to section 156, be the value of the consideration for the supply of the service that is deemed under paragraph 226(2)(b) to have been made to the registrant, to have paid at that time tax in respect of the supply calculated on that consideration, and to have acquired that service for the same purpose as that for which the registrant acquired the beverage.
+
+Where section 156 or 167 applies to a supply of a beverage in a filled and sealed returnable container, the supply is not subject to tax. The supplier, who is subject to the special rules in subsection 226(8), would not have been eligible to claim an ITC in respect of the tax component of the non-refundable portion of the returnable container charge paid when acquiring the beverages, but the recipient will account for tax in respect of the non‑refundable portion of the returnable container charge when re-supplying the beverage because the recipient is not subject to the special rules in subsection 226(8). Under subsection 226(15), the recipient is entitled to claim an ITC in respect of the tax component in the non-refundable portion of the returnable container charge.
+
+## Other deeming provisions for returnable containers
+
+### Rebates in respect of beverages in returnable containers
+
+Section 263.2 states, "for the purposes of sections 252, 260 and 261.1, if a person is the recipient of a supply of a beverage in a filled and sealed returnable container or of a used and empty returnable container (or the material resulting from its compaction) and the supplier is deemed under paragraph 226(2)(b) or (4)(b) to have made to the person a taxable supply of a service in respect of the returnable container, tax paid in respect of the supply of the service is deemed to have been paid in respect of the supply of the beverage, empty returnable container or material, as the case may be."
+
+A person entitled to a rebate in respect of the supply of a beverage or of an empty returnable container (or the material resulting from its compaction) would not be entitled to a rebate for the tax paid in respect of the deemed service under sections 252, 260, and 261.1. Section 263.2 ensures that the tax paid in respect of the deemed supply of a service is treated as tax paid in respect of the supply of the beverage or of the empty returnable container (or the material resulting from its compaction) to allow for the rebate of this tax.
+
+## Fair market value of beverages in filled and sealed containers
+
+Under subsection 226(16), if a beverage in a filled and sealed returnable container in respect of which there is a returnable container charge is held at any time by a person for consumption, use, or supply in a province in the course of commercial activities of the person, the fair market value of the beverage at that time is deemed not to include the amount that would be determined as the refund for the container if the beverage were supplied in the province by the person at that time in the filled and sealed container.
+
+Subsection 226(16) is relevant for the application of section 171, when a person ceases to be a registrant and must account for tax based on the fair market value of inventory held at that time.
+
+### Basic tax content of beverages in filled and sealed containers
+
+Under subsection 226(17), the basic tax content at any time of a beverage in a filled and sealed returnable container that is held at that time by a person is determined as if the tax payable, if any, in respect of the last supply of a service in respect of the container that was deemed under subsection 226(2) or 226(15) to have been made to the person, and the tax payable, if any, in respect of the last supply of a service in respect of the container that was deemed under subsection 226(14) to have been made by the person, were additional tax payable by the person in respect of the last acquisition of the beverage by the person.
+
+Subsection 226(17) is relevant for the application of section 171, when a person becomes at any time a registrant and is eligible to claim ITCs determined based on the basic tax content of property held at that time.
+
+The basic tax content of a beverage in a filled and sealed returnable container is determined by:
+
+- totalling all amounts of tax payable at the time the property was last acquired or imported (as noted above, this would include the tax payable on the non-refundable portion of the returnable container charge paid when initially acquiring the containers or when the person was deemed to have made a supply under subsection 226(14) or to have received a supply under subsection 226(15))
+
+- deducting all amounts of tax recoverable by way of rebate, refund, or remission (other than ITCs)
+
+## Appendix A – Definitions and explanations of significant terms used in this publication
+
+The following definitions are listed under subsection 226(1).
+
+**Applicable legislated amount** in a province for a returnable container of a particular class "means
+
+- (a) except if paragraph (b) applies, the legislated consumers' refund in the province for a returnable container of that class; or
+
+- (b) if, under an Act of the legislature of the province in respect of recycling, a legislated consumers' refund for a returnable container of that class is specified and another amount (in this paragraph referred to as the "recycler's reimbursement") is specified as the amount to be paid, otherwise than specifically in respect of the handling of the container, for a used and empty returnable container of that class when supplied by a person who, on acquiring it used and empty, paid an amount as the legislated consumers' refund for the container, but no amount is specified as the amount, or the minimum amount, to be charged by a distributor in respect of the supply of a filled and sealed returnable container of that class, the recycler's reimbursement."
+
+In most cases, the applicable legislated amount in a province for a returnable container is the legislated consumers' refund that is provided for under provincial legislation in respect of the recycling of returnable containers.
+
+Paragraph (b) of the definition of applicable legislated amount applies where the provincial legislation specifies the refund that must be paid to a consumer returning a returnable container of a particular class but does not specify a returnable container charge that must be charged on the sale of a beverage in a container of that class. If the provincial legislation also specifies an amount that must be paid to the person who accepted the container from a consumer, otherwise than as any kind of handling charge, that amount would be the applicable legislated amount.
+
+In a province, the legislation stipulates that the refund for a returnable beverage container of a particular class must be at least $0.17, but it does not specify any amount of deposit that must be charged in relation to the supply of a beverage in a returnable container of that class. If that provincial Act stipulates that beverage distributors in the province must pay (aside from any handling charge) $0.20 per container to bottle depots in the province for each returnable container of that class they collect, then the applicable legislated amount is $0.20.
+
+The term applicable legislated amount is used in the definition of refund.
+
+**Consumers' recycler**, in respect of a returnable container of a particular class in a province, means "a person who, in the ordinary course of their business, acquires in the province used and empty returnable containers of that class from consumers for consideration."
+
+Some examples of consumers' recyclers are bottle depots and retailers who accept returns of beverage containers.
+
+The term consumers' recycler is used in the definition of refund.
+
+**Distributor** of a returnable container of a particular class in a province means "a person who supplies beverages in filled and sealed returnable containers of that class in the province and charges a returnable container charge in respect of the returnable containers."
+
+Some examples of distributors are bottlers, wholesalers, and retailers.
+
+The term distributor is used in the definition of applicable legislated amount and returnable container charge and is also used in subsection 226(6).
+
+**Legislated consumers' refund** in a province for a returnable container of a particular class means "the amount, or the minimum amount, that, under an Act of the legislature of the province in respect of recycling, must be paid in certain circumstances for a used and empty returnable container of that class to a person of a class that includes consumers."
+
+The legislated consumers' refund is the amount that, under a provincial Act, must be paid to a consumer as a refund for a used and empty returnable container.
+
+The term legislated consumers' refund is used in the definition of applicable legislated amount.
+
+**Recycler** of returnable containers of a particular class in a province "means
+
+- (a) a person who, in the ordinary course of their business, acquires used and empty returnable containers of that class (or the material resulting from their compaction) in the province for consideration; or
+
+- (b) a person who, in the ordinary course of their business, pays consideration to a person referred to in paragraph (a) in compensation for that person acquiring used and empty returnable containers of that class and paying consideration for those containers."
+
+A recycler can be a retailer or a redemption centre operator who accepts used and empty returnable containers from consumers and pays refunds. A recycler also includes a bottler who buys back used and empty refillable beverage containers. An example of a recycler included in paragraph (b) of the definition is a corporation or provincial board that pays amounts to redemption centres or retailers in compensation for those centres or retailers accepting used and empty returnable containers and paying refunds.
+
+The term recycler is used in the definition of returnable container charge and in subsections 226(6) and (7).
+
+**Recycling**, in respect of a province, "means
+
+- (a) the return, redemption, reuse, destruction or disposal of
+
+    - (i) returnable containers in the province, or
+
+    - (ii) returnable containers in the province and other goods; or
+
+- (b) the control or prevention of waste or the protection of the environment."
+
+The term recycling is used in the definitions of applicable legislated amount, legislated consumers' refund, and returnable container charge, as well as in subsections 226(6) and (7).
+
+**Refund**, at any time in a province, "means
+
+- (a) in relation to a returnable container of a particular class that is supplied used and empty, or that is filled with a beverage that is supplied, at that time in the province,
+
+    - (i) the greatest of
+
+          - (A) if there is an applicable legislated amount in the province for returnable containers of that class, that amount,
+
+          - (B) if the supplier is a consumers' recycler who, in the ordinary course of their business, sells the beverage in returnable containers of that class in the province and the usual returnable container charge that is charged by the supplier when so selling the beverage is not less than the amount (in this clause referred to as the "usual refund") that is, at that time, the usual consideration that the supplier pays for supplies in the province of used and empty returnable containers of that class from consumers, the usual refund,
+
+          - (C) if the supplier is a consumers' recycler who does not, in the ordinary course of their business, sell the beverage in returnable containers of that class in the province, the amount that is, at that time, the usual consideration that the supplier pays for supplies in the province of used and empty returnable containers of that class from consumers, and
+
+          - (D) if, at that time,
+
+                  - (I) in accordance with established industry practice, suppliers charge a common amount as the usual returnable container charge when selling the beverage in returnable containers of that class in the province, and
+
+                  - (II) it is not exceptional for the usual amount paid to consumers by consumers' recyclers as consideration for supplies in the province of used and empty returnable containers of that class to vary among the consumers' recyclers,
+
+          - the greatest of those usual amounts paid to consumers not exceeding the usual returnable container charge, and
+
+    - (ii) if none of clauses (i)(A) to (D) applies, the portion of the amount that is, at that time, the consideration paid, in the greatest number of cases, by consumers' recyclers for supplies in the province of used and empty returnable containers of that class from consumers that does not exceed the amount that is, at that time, the returnable container charge charged in the greatest number of cases by suppliers when selling the beverage in returnable containers of that class in the province; and
+
+- (b) in relation to a returnable container of a particular class in respect of which a supply is made at that time in the province of a service to which subsection (7) applies,
+
+    - (i) if the supplier is a consumers' recycler, the amount that is, at that time, the usual consideration that the supplier pays for supplies in the province of used and empty returnable containers of that class from consumers, and
+
+    - (ii) in any other case, the amount that is, at that time, the consideration paid, in the greatest number of cases, by consumers' recyclers for supplies in the province of used and empty returnable containers of that class from consumers."
+
+Under section 226, the refundable portion of a returnable container charge on a returnable container is excluded from the GST/HST base. The refund for a returnable container is defined with reference to a province and to a particular time, since this amount may vary from province to province and over time. This term is also defined in relation to a container of a particular class. For example, the refund for an aluminum can may not be the same as the refund for a plastic bottle.
+
+The term refund is also defined for purposes of its application in three different contexts. Under paragraph (a) of the definition of refund, the term refund is defined in relation to a returnable container of a particular class that is being supplied used and empty, and in relation to a returnable container of a particular class that contains a beverage that is being supplied. Under paragraph (b) of the definition, the term is defined in relation to a returnable container of a particular class in respect of which a supply of a service in respect of recycling is being made by a recycler to another recycler.
+
+Under subparagraph (a)(i) of the definition of refund, the refund for a returnable container that is being supplied used and empty, or that contains a beverage that is being supplied, is the greatest of the amounts described in clauses (a)(i)(A) to (D). The refund is defined as the greatest of these amounts because consumers may receive varying amounts depending on where they return the containers.
+
+In most cases, the refund for a returnable container that is being supplied used and empty, or that contains a beverage that is being supplied, is the provincially-mandated amount that is paid in the province to a consumer who returns the used container to a retailer or other redemption centre. This amount is referred to in clause (a)(i)(A) of the definition of refund as the applicable legislated amount and, in most cases, it will be the amount defined in subsection 226(1) as the legislated consumers' refund.
+
+Clause (a)(i)(B) of the definition of refund deals with a case of a supply of the beverage in a returnable container of a particular class where the supplier acquires used containers of that class from consumers and pays refunds. The amount under this clause is the usual refund paid to consumers by this supplier for containers of that class, provided it does not exceed the usual returnable container charge that the supplier charges for containers of that class.
+
+Clause (a)(i)(C) of the definition of refund deals with a case of a supply of a used and empty returnable container by a supplier, such as a bottle depot, who accepts used containers of that class from consumers for refunds, but who does not sell the beverage in those containers. The amount under this clause is the usual refund that the supplier pays consumers for the used containers.
+
+Clause (a)(i)(D) of the definition of refund would apply in the context of a supply of the beverage in a returnable container or in the context of a supply of the used and empty container. Clause (D) deals with the situation where there is an established industry practice of suppliers charging a common amount as a returnable container charge, but consumers can typically obtain varying amounts of refunds for the used and empty containers depending on where they return them. The amount under clause (D) is the greatest of those amounts paid to consumers, not exceeding the usual returnable container charge.
+
+A regulation under a provincial Act stipulates that the refund for a returnable container must be at least $0.05 and retailers commonly charge $0.10 as a returnable container charge. The bottle depots in the province pay a refund of $0.05 per container, but retailers pay $0.10 per container. The refund for all such containers in that province would be considered to be $0.10 for the purposes of section 226.
+
+The refund for a returnable container that is being supplied used and empty, or that contains a beverage that is being supplied, is the amount described in subparagraph (a)(ii) if none of the clauses (a)(i)(A) to (D) applies, that is:
+
+- there is no applicable legislated amount in the province for the returnable container
+
+- the supplier does not accept used and empty containers of that class from consumers
+
+- there is no established industry practice as described in clause (a)(i)(D) with respect to returnable containers of that class
+
+In this case, the refund is the portion of the consideration paid by most consumers' recyclers in the province that does not exceed the returnable container charge that most beverage suppliers in the province charge for containers of that class.
+
+A retailer who does not accept used and empty returnable containers sells beverages in filled and sealed returnable containers of a particular class in a province in which there is no applicable legislated amount for a returnable container of that class. In this province, most consumers' recyclers pay $0.05 as consideration for used and empty containers of that class and most suppliers charge a deposit of $0.05 when selling the beverage in the containers. The refund in relation to that retailer's supply of the beverage in the container is $0.05 since it is the amount paid to consumers in most cases and it does not exceed the returnable container charge that is charged by most suppliers in the province.
+
+The term refund is also defined, under paragraph (b) of the definition, specifically for purposes of applying subsection 226(7). This subsection applies when a recycler is making a supply of a service in respect of recycling to another recycler. Tax applies to the portion of the consideration for the supply that exceeds the refund. For example, subsection 226(7) applies where a recycling corporation pays a depot consideration for accepting used and empty returnable containers and paying consideration to consumers, but the corporation does not acquire those containers from the depot. In determining the consideration for the depot's services on which tax applies, the depot can deduct the amount of the refund for the containers where the refund is defined as the usual consideration paid by the depot to consumers.
+
+Subsection 226(7) also applies to a recycler who does not accept used and empty returnable containers from consumers but who provides services in respect of recycling to another recycler. In this case, the refund amount that is deducted in determining the consideration for the service is taken to be the usual consideration paid in the greatest number of cases by persons in the province who accept used and empty returnable containers from consumers.
+
+The term refund is used throughout section 226.
+
+**Returnable container** in a province means "a beverage container of a class of containers that
+
+(a) are ordinarily acquired by consumers;
+
+(b) when acquired by consumers, are ordinarily filled and sealed; and
+
+(c) are ordinarily supplied in the province used and empty by consumers for consideration."
+
+The term returnable container is used throughout section 226.
+
+This definition applies to any type of beverage container, whether refillable or recyclable, including aluminum or other metal cans, glass or plastic bottles, paper-based polycoat containers, and aseptic boxes. The definition of returnable container includes containers for beverages that are supplied on a zero-rated basis, such as milk or juice. It is not necessary to return the beverage container to the same person who supplied the beverage container to be eligible for a refund.
+
+The phrase **class of containers** describes the distinguishing characteristics of a group of containers, such as, the type of material with which the containers are made, the size of the containers, and the content of the containers. For example, a 341 ml glass beer bottle and a 2‑litre plastic pop bottle are different classes.
+
+The definition of returnable container specifies that it applies in a province. Therefore, a certain class of container may be a returnable container in one province where a refund is imposed and not in another province where a refund is not imposed.
+
+**Returnable container charge** at any time, "means
+
+- (a) in relation to a returnable container of a particular class containing a beverage that is supplied at that time in a province, the total of all amounts, each of which is charged by the supplier
+
+    - (i) as an amount in respect of recycling in the province,
+
+    - (ii) for the purpose of recovering an amount equivalent to the amount referred to in subparagraph (i) that was charged to the supplier, or
+
+    - (iii) for the purpose of recovering an amount equivalent to the amount that was charged to the supplier by another supplier for the purpose referred to in subparagraph (ii) or for the purpose referred to in this subparagraph;
+
+- (b) in relation to a filled and sealed returnable container containing a beverage that is held by a person at that time for consumption, use or supply in a province,
+
+    - (i) if the beverage is held at that time by the person for the purpose of making a supply in the province of the beverage in the container, the amount that the person can reasonably expect will be determined under paragraph (a) in respect of the container when the beverage is so supplied, and
+
+    - (ii) in any other case, the amount in respect of the container that would reasonably be expected to be determined under paragraph (a) if the beverage were supplied at that time to the person in the province; and
+
+- (c) in relation to a returnable container of a particular class in respect of which a recycler of returnable containers of that class makes at that time a supply in a province of a service in respect of recycling to a distributor, or a recycler, of returnable containers of that class,
+
+    - (i) if an Act of the legislature of the province in respect of recycling specifies an amount, or a minimum amount, that must be collected from, or paid by, a recipient in certain circumstances for the supply of a beverage in a returnable container of that class, that amount, and
+
+    - (ii) in any other case, the amount in respect of the container that would reasonably be expected to be determined under paragraph (a) if the container were filled and sealed and contained a beverage that was being supplied at that time in the province."
+
+The term returnable container charge is defined in relation to a returnable container containing a beverage that is being supplied or held as inventory by a person. The term is also defined in relation to a returnable container in respect of which a recycler is making a supply of a recycling service to a distributor or to another recycler.
+
+With respect to a returnable container of a particular class that contains a beverage that is being supplied in a province, the returnable container charge is the total of all amounts charged by the supplier in respect of the recycling of returnable containers of that class, or to recover an equivalent amount charged to the supplier for the same purpose. Accordingly, the returnable container charge would include any provincially mandated amount such as a refundable deposit, a non-refundable portion of a deposit, or an environmental levy or handling charge. If there is no provincially mandated amount, the returnable container charge includes any amount in respect of the recycling of the containers that is charged in a particular industry or by a particular supplier (including both refundable and non-refundable amounts).
+
+The returnable container charge would also include any amounts charged by a supplier to recover amounts previously charged to that supplier in respect of the containers, such as a provincially mandated amount in respect of recycling that is required to be charged only on supplies of a beverage by bottlers who are the first vendors of the beverage in the province. Subsequently, a wholesaler will charge the equivalent amount to a retailer to recover the amount paid by the wholesaler to a bottler. This latter amount is referred to in subparagraph (a)(ii) of the definition of returnable container charge. In turn, the retailer will charge the equivalent amount to a consumer to recover the amount paid by the retailer to the wholesaler. This latter amount is referred to in subparagraph (a)(iii) of the definition of returnable container charge.
+
+With respect to a filled and sealed returnable container containing a beverage that is held by a person in inventory at any time in a province for the purpose of making a supply of the beverage in that province, the term returnable container charge refers to the amount that the person can reasonably expect will be determined to be the returnable container charge in respect of the container when the beverage is supplied (the total amount in respect of recycling that will be charged by the supplier).
+
+With respect to a filled and sealed returnable container containing a beverage that is held by a person at any time in a province for a purpose other than the sale of the beverage in the container, the term returnable container charge means the amount in respect of the container that could reasonably be expected to be paid by the person if they were acquiring the beverage in the container at that time in the province.
+
+Finally, paragraph (c) of the definition of returnable container charge defines this term in relation to a returnable container of a particular class in respect of which a recycler of returnable containers of that class is supplying a service in respect of recycling in a province to a distributor or to another recycler of returnable containers of that class. These are the situations dealt with in subsections 226(6) and (7).
+
+In this case, the returnable container charge is the amount, or minimum amount, that is required, under an Act of the legislature of the province in respect of recycling, to be paid in respect of the supply of a beverage in a returnable container of that class. In some provinces, there is no such legislated amount for particular classes of containers but there is instead an industry-established container charge for those containers. In this case, the returnable container charge is that amount in respect of the container that would reasonably be expected to be charged by a supplier in the province when selling a beverage in a container of that class.
+
+The term returnable container charge is used throughout section 226.
+
+**Specified beverage retailer**, in respect of a returnable container of a particular class, means "a registrant
+
+- (a) who, in the ordinary course of the registrant's business, makes supplies (in this definition referred to as "specified supplies") of beverages in returnable containers of that class to consumers in circumstances in which the registrant typically does not unseal the containers; and
+
+- (b) whose circumstance is not that all or substantially all of the supplies of used and empty returnable containers of that class that are gathered by the registrant at establishments at which the registrant makes specified supplies are of containers that the registrant acquired used and empty for consideration."
+
+An operator of a restaurant that is a combination eat-in, take-out establishment sells beverages in filled and sealed returnable containers of a particular class but the only containers of that class that the operator gathers at the restaurant are those that are left behind by customers who have chosen to consume the beverages on the premises. The operator would be a specified beverage retailer in relation to returnable containers of that class.
+
+In contrast, the operator of a grocery store at which the operator sells beverages in filled and sealed returnable containers of a particular class and also pays refunds for used containers of that class from consumers would not be a specified beverage retailer in respect of those containers, if all or substantially all of the used containers that the operator gathers at the grocery store have been acquired from consumers for consideration.
+
+The term specified beverage retailer is used in subsections 226(3), (9), and (18).
+
+## Appendix B – Examples of the application of section 226
+
+The following examples illustrate how section 226 applies to the supplies in respect of a returnable container from the initial supply of a beverage in a returnable container by a distributor to the final supply of the used and empty returnable container back to the distributor, or the material resulting from its compaction to a recycler who will recycle the material.
+
+**Scenario**
+
+All transactions occur in a non-participating province (5% GST) in which a provincial Act is not prescribed for the purposes of paragraph 226(2)(b). The returnable container charge for a returnable container in the province is $0.10, and the refund for a returnable container in the province is also $0.10. The distributor charges the returnable container charge when it sells beverages in filled and sealed returnable containers to retailers. The retailer charges the returnable container charge when it sells beverages in filled and sealed returnable containers to consumers. The consumer takes the used and empty returnable container to a depot for the refund. The distributor collects the returnable containers from the depot and pays the depot the refunds.
+
+**Transaction 1 – Supply of 100 beverages in returnable containers from distributor to retailer**
+
+The distributor charges the returnable container charge of $0.10 for each returnable container, for a total of $10.00. Subsection 226(2) applies to this supply of beverages in filled and sealed returnable containers. Under paragraph 226(2)(a), the consideration for the beverages is deemed to be equal to the total consideration less the returnable container charges. Since the returnable container charges equal the refunds for the returnable containers, the distributor is not deemed under paragraph 226(2)(b) to have made a supply of a service in respect of the returnable containers to the retailer.
+
+The distributor collects from the retailer the GST on the consideration for the beverages only and includes this amount in determining its net tax. The distributor does not collect the GST on the returnable container charges. The retailer may claim an ITC for the GST on the consideration for the beverages.
+
+**Transaction 2 – Supply of a beverage in a returnable container from retailer to consumer**
+
+The retailer charges the returnable container charge of $0.10 for the returnable container. Subsection 226(2) also applies to this supply of a beverage in a filled and sealed returnable container. Under paragraph 226(2)(a), the consideration for the beverage is deemed to be equal to the total consideration less the returnable container charge. Since the returnable container charge equals the refund for the returnable container, the retailer is not deemed under paragraph 226(2)(b) to have made a supply of a service in respect of the returnable container to the consumer.
+
+The retailer collects from the consumer the GST on the consideration for the beverage only and includes this amount in determining its net tax. The retailer does not collect the GST on the returnable container charge.
+
+**Transaction 3 – Supply of a used and empty returnable container from consumer to depot**
+
+The depot pays the consumer the refund amount for the returnable container. Subsection 226(4) applies to this supply of the used and empty returnable container. The consideration for the returnable container is deemed to be nil. Since the consideration paid for the returnable container does not exceed the refund, there is no deemed service in respect of the returnable container.
+
+The depot does not pay, and is not deemed to have paid, the GST on the supply of the used and empty container.
+
+**Transaction 4 – Supply of 100 used and empty returnable containers from depot to distributor**
+
+The distributor pays the depot the refund for each returnable container, for a total of $10.00. Subsection 226(4) also applies to this supply of used and empty returnable containers. The consideration for the returnable containers is deemed to be nil. Since the consideration paid for the returnable containers does not exceed the refunds, there is no deemed service in respect of the returnable containers.
+
+**Scenario**
+
+All transactions occur in a non-participating province (5% GST) in which a provincial Act is not prescribed for the purposes of paragraph 226(2)(b). The returnable container charge for a returnable container in the province is $0.20, and the refund for a returnable container in the province is $0.10. The distributor charges the returnable container charge when it sells beverages in filled and sealed returnable containers to retailers. The retailer charges the returnable container charge when it sells beverages in filled and sealed returnable containers to consumers. The consumer takes the used and empty returnable container to a depot for the refund. The distributor is required to recycle the returnable containers it uses to supply beverages in the province, and it has contracted with a recycler to recycle the returnable containers for the distributor. The distributor agrees to forward the returnable container charges it collects each month to the recycler as consideration for its recycling services. The recycler collects the returnable containers from the depot and pays the depot the refund plus $0.02 per container. The recycler compacts the returnable containers and sells the material resulting from the compaction to a processor, who uses the material to make new returnable containers or other products. The usual business practice of the processor is to pay consideration based on the value of the material from which the containers are made.
+
+**Transaction 1 – Supply of 100 beverages in returnable containers from distributor to retailer**
+
+The distributor charges the returnable container charge of $0.20 for each returnable container, for a total of $20.00. Subsection 226(2) applies to this supply of beverages in filled and sealed returnable containers. Under paragraph 226(2)(a), the consideration for the beverages is deemed to be equal to the total consideration less the returnable container charges. Since the returnable container charges exceed the refunds for the returnable containers, the distributor is deemed under paragraph 226(2)(b) to have made a supply of a service in respect of the returnable containers to the retailer. The consideration for this service is deemed to be equal to the amount by which the returnable container charges exceed the refunds, $0.10 for each container, or $10.00 in total.
+
+The distributor collects from the retailer the GST on the consideration for the beverages, and the GST of $0.50 (5% of $10.00) on the non-refundable portion of the returnable container charges, and includes both amounts in determining its net tax. The retailer may claim ITCs for the GST on the consideration for the beverages, and the $0.50 GST on the non-refundable portion of the returnable container charges.
+
+**Transaction 2 – Supply of a beverage in a returnable container from retailer to consumer**
+
+The retailer charges the returnable container charge of $0.20 for the returnable container. Subsection 226(2) also applies to this supply of a beverage in a filled and sealed returnable container. Under paragraph 226(2)(a), the consideration for the beverage is deemed to be equal to the total consideration less the returnable container charge. Since the returnable container charge exceeds the refund for the returnable container, the retailer is deemed under paragraph 226(2)(b) to have made a supply of a service in respect of the returnable container to the consumer. The consideration for this service is deemed to be equal to the amount by which the returnable container charge exceeds the refund, or $0.10.
+
+The retailer collects from the consumer the GST on the consideration for the beverage, and the GST of $0.01 (5% of $0.10 equals $0.005, rounded) on the non-refundable portion of the returnable container charge, and includes both amounts in determining its net tax.
+
+**Transaction 3 – Supply of recycling services from recycler to distributor**
+
+The distributor forwards the returnable container charges collected in respect of its returnable containers to the recycler as consideration for the supply of recycling services. Subsection 226(6) applies to this supply of recycling services from the recycler to the distributor. When the consideration for the supply of recycling services is based on the returnable container charges, the value of the consideration for the supply is deemed to be equal to the difference between the consideration and the sum of returnable container charges. The consideration for the recycling services is equal to the total returnable container charges in respect of those returnable containers. The value of the consideration on which the GST is calculated, equal to the difference, is zero.
+
+The recycler does not charge the distributor the GST on this recycling service.
+
+**Transaction 4 – Supply of a used and empty returnable container from consumer to depot**
+
+The depot pays the consumer the refund amount for the returnable container. Subsection 226(4) applies to this supply of the used and empty returnable container. The consideration for the returnable container is deemed to be nil. Since the consideration paid for the returnable container does not exceed the refund, there is no deemed service in respect of the returnable container.
+
+The depot does not pay, and is not deemed to have paid, the GST on the supply of the used and empty container.
+
+**Transaction 5 – Supply of 100 used and empty returnable containers from depot to recycler**
+
+The recycler pays the depot the refund plus $0.02 for each returnable container, for a total of $12.00. Subsection 226(4) also applies to this supply of used and empty returnable containers. The consideration for the returnable containers is deemed to be nil. Since the consideration paid for the returnable containers exceeds the refunds, the depot is deemed under paragraph 226(4)(b) to have made a supply of a service in respect of the returnable containers to the recycler. The consideration for this service is deemed to be equal to the amount by which the consideration exceeds the refunds, or $2.00.
+
+The depot collects from the recycler the GST of $0.10 (5% of $2.00) on the portion of the consideration that exceeds the refunds and includes this amount in determining its net tax. The recycler may claim an ITC for the GST paid.
+
+**Transaction 6 – Supply of material resulting from the compaction of returnable containers from recycler to processor**
+
+The processor pays consideration to the recycler based on the value of the material from which the containers are made. Subsection 226(5) states that subsection 226(4) does not apply to a supply of a returnable container or the material resulting from its compaction when the usual business practice of the recipient is to pay consideration for such supplies that is based on the value of the material from which the containers are made, or when the consideration is not based on the refund or returnable container charge for the returnable container. Therefore, subsection 226(4) does not apply to deem the consideration for the supply to be nil.
+
+The recycler collects from the processor the GST on the consideration for the supply of material resulting from the compaction of the returnable containers and includes this amount in determining its net tax. The processor may claim an ITC for the GST on the consideration for the material resulting from the compaction of the returnable containers.
+
+**Scenario**:
+
+All transactions occur in a participating province (with a 15% HST rate) in which a provincial Act is prescribed for the purposes of paragraph 226(2)(b). The returnable container charge for a returnable container in the province is $0.10 and is a tax-included amount. The refund for the returnable container in the province is $0.05. The distributor charges the returnable container charge when it sells beverages in filled and sealed returnable containers to retailers. The retailer charges the returnable container charge when it sells beverages in filled and sealed returnable containers to consumers. The consumer takes the used and empty returnable container to a depot for the refund. The distributor is required to recycle the returnable containers it uses to supply beverages in the province, and it has contracted with a recycler to recycle the returnable containers for the distributor. The distributor agrees to forward the returnable container charges it collects each month to the recycler as consideration for the recycler's services. The recycler collects the returnable containers from the depot and pays the depot the refund plus $0.02 per container. The recycler compacts the returnable containers and sells the material resulting from the compaction to a processor, who uses the material to make new returnable containers or other products. The usual business practice of the processor is to pay consideration based on the value of the material from which the containers are made.
+
+**Transaction 1 – Supply of 100 beverages in returnable containers from distributor to retailer**
+
+The distributor charges the returnable container charge of $0.10 for each returnable container, for a total of $10.00. Subsection 226(2) applies to this supply of beverages in filled and sealed returnable containers. Under paragraph 226(2)(a), the consideration for the beverage is deemed to be equal to the total consideration less the returnable container charges. Since the returnable container charges exceed the refunds ($0.05 per container) for the returnable containers, the distributor is deemed under paragraph 226(2)(b) to have made a supply of a service in respect of the returnable container to the retailer. An Act of the legislature of the province is prescribed for purposes of paragraph 226(2)(b). Therefore, the consideration for this service is deemed to be equal to the tax-excluded amount by which the returnable container charges exceed the refunds, 100/115 of $0.05 for each container, 100/115 of $5.00, or $4.35.
+
+The distributor collects from the retailer the HST on the consideration for the beverages, and the HST of $0.65 ($5.00−$4.35) included in the non-refundable portion of the returnable container charges. The retailer usually charges a returnable container charge equal to the returnable container charge the retailer pays, and the special rules in subsection 226(8) apply to the retailer. The retailer does not include the tax paid in respect of the deemed service in respect of the returnable containers when determining its ITCs. The retailer claims an ITC for the HST paid on the consideration for the beverages, but the retailer does not claim the HST of $0.65 included in the non-refundable portion of the returnable container charges.
+
+**Transaction 2 – Supply of a beverage in returnable container from retailer to consumer**
+
+The retailer charges the returnable container charge of $0.10 for each returnable container. Subsection 226(2) also applies to this supply of a beverage in a returnable container. Under paragraph 226(2)(a), the consideration for the beverage is deemed to be equal to the total consideration less the returnable container charge. Since the returnable container charge exceeds the refund of $0.05 for the returnable container, the retailer is deemed under paragraph 226(2)(b) to have made a supply of a service in respect of the returnable container to the consumer. Since an Act of the legislature of the province is prescribed for purposes of paragraph 226(2)(b), the consideration for this service is deemed to be equal to the tax-excluded amount by which the returnable container charge exceeds the refund, 100/115 of $0.05, or $0.0435.
+
+The retailer collects from the consumer the HST on the consideration for the beverage, and the HST of $0.0065 ($0.05−$0.0435) included in the non-refundable portion of the returnable container charge. Since the retailer usually charges a returnable container charge equal to the returnable container charge the retailer pays, the special rules in subsection 226(8) apply to the retailer. The retailer does not include the tax charged in respect of the deemed service in respect of the returnable container when determining its net tax. The retailer includes the HST paid on the consideration for the beverage in its net tax, but the retailer does not include the HST of $0.0065 included in the non-refundable portion of the returnable container charge.
+
+**Transaction 3 – Supply of recycling services from recycler to distributor**
+
+The distributor forwards the returnable container charges collected in respect of its returnable containers to the recycler as consideration for the supply of recycling services. Subsection 226(6) applies to this supply of recycling services from the recycler to the distributor. When the consideration for the supply of recycling services is based on the returnable container charge, the value of the consideration for the supply is deemed to be equal to the difference between the consideration and the sum of returnable container charges. The consideration for the recycling services is equal to the total returnable container charges in respect of those returnable containers. The value of the consideration on which the HST is calculated, equal to the difference, is zero.
+
+The recycler does not charge the distributor the HST on this recycling service.
+
+**Transaction 4 – Supply of a used and empty returnable container from consumer to depot**
+
+The depot pays the consumer the refund amount for the returnable container. Subsection 226(4) applies to this supply of a used and empty returnable container. The consideration for the returnable container is deemed to be nil. Since the consideration paid for the returnable container does not exceed the refund, there is no deemed service in respect of the returnable container.
+
+The depot does not pay, and is not deemed to have paid, the HST on the supply of the used and empty container.
+
+**Transaction 5 – Supply of 100 used and empty returnable containers from depot to recycler**
+
+The recycler pays the depot the refund plus $0.02 for each returnable container, for a total of $7.00. Subsection 226(4) also applies to this supply of used and empty returnable containers. The consideration for the returnable containers is deemed to be nil. Since the consideration paid for the returnable containers exceeds the refunds, the depot is deemed under paragraph 226(4)(b) to have made a supply of a service in respect of the returnable container to the recycler. The consideration for this service is deemed to be equal to the amount by which the total consideration exceeds the refunds, or $2.00.
+
+The depot collects from the recycler the HST of $0.30 (15% of $2.00) on the portion of the consideration that exceeds the refunds and includes this amount in determining its net tax. The recycler may claim an ITC for the HST paid.
+
+**Transaction 6 – Supply of material resulting from the compaction of returnable containers from a recycler**
+
+The processor pays consideration to the recycler based on the value of the material from which the containers are made. Subsection 226(5) states that subsection 226(4) does not apply to a supply of a returnable container or the material resulting from its compaction when the usual business practice of the recipient is to pay consideration for such supplies that is based on the value of the material from which the containers are made, or when the consideration is not based on the refund or returnable container charge for the returnable container. Therefore, subsection 226(4) does not apply to deem the consideration for the supply to be nil.
+
+The recycler collects from the processor the HST on the consideration for the supply of material resulting from the compaction of the returnable containers.
+
+NOTE: A specified beverage retailer can elect under subsection 226(3) not to deduct the returnable container charge from the consideration for the beverage. This example does not apply to a specified beverage retailer who has elected under subsection 226(3).
+
+**Scenario**:
+
+All transactions occur in a non-participating province (5% GST) in which a provincial Act is not prescribed for the purposes of paragraph 226(2)(b). The returnable container charge for a returnable container in the province is $0.20 and the refund for the returnable container in the province is $0.10. A distributor sells beverages in filled and sealed returnable containers to a specified beverage retailer and charges the returnable container charge for the container. The specified beverage retailer charges the returnable container charge when it sells beverages in filled and sealed returnable containers to consumers who leave the used and empty containers at the specified beverage retailer's establishment. The specified beverage retailer sells the used and empty returnable containers to a depot for the refund. The distributor is required to recycle the returnable containers it uses to supply beverages in the province, and it has contracted with a recycler to recycle the returnable containers for the distributor. The distributor agrees to forward the returnable container charges it collects each month as consideration for the recycler's services. The recycler collects the returnable containers from the depot and pays the depot the refund plus $0.02 per container. The recycler compacts the returnable containers and sells the material resulting from the compaction to a processor, who uses the material to make new returnable containers or other products. The usual business practice of the processor is to pay consideration based on the value of the material from which the containers are made.
+
+**Transaction 1 – Supply of 100 beverages in returnable containers from distributor to specified beverage retailer**
+
+The distributor charges the returnable container charge of $0.20 for each returnable container, for a total of $20.00. Subsection 226(2) applies to this supply of beverages in filled and sealed returnable containers. Under paragraph 226(2)(a), the consideration for the beverages is deemed to be equal to the total consideration less the returnable container charges. Since the returnable container charges exceed the refunds ($0.10 per container) for the returnable containers, the distributor is deemed under paragraph 226(2)(b) to have made a supply of a service in respect of the returnable containers to the specified beverage retailer. The consideration for this service is deemed to be equal to the amount by which the returnable container charges exceed the refunds, $0.10 for each container, or $10.00 in total.
+
+The distributor collects from the specified beverage retailer the GST on the consideration for the beverage, and the GST of $0.50 (5% of $10.00) on the non-refundable portion of the returnable container charge and includes both amounts in determining its net tax. The specified beverage retailer may claim ITCs for the GST on the consideration for the beverages, and for the $0.50 GST on the non-refundable portion of the returnable container charges.
+
+**Transaction 2 – Supply of a beverage in a returnable container from specified beverage retailer to consumer**
+
+The specified beverage retailer supplies the beverage in the filled and sealed returnable container and typically does not unseal the container. The specified beverage retailer charges the returnable container charge of $0.20 for each returnable container. Subsection 226(2) also applies to this supply of a beverage in a returnable container. Under paragraph 226(2)(a), the consideration for the beverage is deemed to be equal to the total consideration less the returnable container charge. Since the returnable container charge exceeds the refund of $0.10 for the returnable container, the specified beverage retailer is deemed under paragraph 226(2)(b) to have made a supply of a service in respect of the returnable container to the consumer. The consideration for this service is deemed to be equal to the amount by which the returnable container charge exceeds the refund, or $0.10.
+
+The specified beverage retailer collects from the consumer the GST on the consideration for the beverage, and the GST of $0.01 (5% of $0.10 equals $0.005, rounded) on the non-refundable portion of the returnable container charge, and includes both amounts in determining its net tax.
+
+**Transaction 3 – Supply of recycling services from recycler to distributor**
+
+The distributor forwards the returnable container charges collected in respect of its returnable containers to the recycler as consideration for its supply of recycling services. Subsection 226(6) applies to supplies of recycling services from recyclers to distributors. When the consideration for the supply of recycling services is based on the returnable container charge, the value of the consideration is deemed to be equal to the difference between the consideration and the sum of returnable container charges. The consideration for the recycling services is equal to the total returnable container charges in respect of those returnable containers. The value of the consideration on which the GST is calculated, equal to the difference, is zero.
+
+The recycler does not charge the distributor the GST on this recycling service.
+
+**Transaction 4 – Used and empty returnable container left by consumer at specified beverage retailer's establishment**
+
+The consumer consumes the beverage and leaves the used and empty container at the specified beverage retailer's establishment. The consumer has not collected a refund from the specified beverage retailer for the returnable container.
+
+The specified beverage retailer does not pay, and is not deemed to have paid, the GST in respect of the used and empty returnable container.
+
+**Transaction 5 – Supply of 100 used and empty returnable containers from specified beverage retailer to depot**
+
+The depot pays the specified beverage retailer the refund amount for each returnable container, or $10.00 in total. Subsection 226(4) applies to supplies of used and empty returnable containers. The consideration for the returnable containers is deemed to be nil. Since the consideration paid for the returnable containers does not exceed the refunds, there is no deemed service in respect of the returnable containers.
+
+The specified beverage retailer does not charge the depot the GST on the supply of the used and empty containers.
+
+Subsection 226(18) applies to the specified beverage retailer at the time of this supply. The specified beverage retailer supplied used and empty returnable containers that it previously supplied to consumers filled and sealed and did not acquire used and empty for consideration. The specified beverage retailer must therefore add an amount to its net tax. The amount is equal to the applicable tax rate multiplied by the refunds for the returnable containers.
+
+The specified beverage retailer would add the GST of $0.50 (5% of $10.00) when determining its net tax.
+
+**Transaction 6 – Supply of 100 used and empty returnable containers from depot to recycler**
+
+The recycler pays the depot the refund plus $0.02 for each returnable container, for a total of $12.00. Subsection 226(4) also applies to this supply of used and empty returnable containers. The consideration for the returnable containers is deemed to be nil. Since the consideration paid for the returnable containers exceeds the refund, the depot is deemed under paragraph 226(4)(b) to have made a supply of a service in respect of the returnable containers to the recycler. The consideration for this service is deemed to be equal to the amount by which the total consideration exceeds the refunds, or $2.00.
+
+The depot collects from the recycler the GST of $0.10 (5% of $2.00) on the portion of the consideration that exceeds the refunds and includes this amount in determining its net tax. The recycler may claim an ITC for the GST paid.
+
+**Transaction 7 – Supply of material resulting from the compaction of returnable containers from recycler to processor**
+
+The processor pays consideration to the recycler based on the value of the material from which the containers are made. Subsection 226(5) states that subsection 226(4) does not apply to a supply of a returnable container or the material resulting from its compaction when the usual business practice of the recipient is to pay consideration for such supplies that is based on the value of the material from which the containers are made, or when the consideration is not based on the refund or returnable container charge for the returnable container. Therefore, subsection 226(4) does not apply to deem the consideration for the supply to be nil.
+
+The recycler collects from the processor the GST on the consideration for the supply of material resulting from the compaction of the returnable containers.
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries**, call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1-800-567-4692** or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution** (whether or not you are located in Quebec) and require information on the **GST/HST** or the **QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for **general GST/HST** or **QST enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **technical GST/HST** or **QST enquiries**, call **GST/HST Rulings SLFI** at **1-855-666-5166**

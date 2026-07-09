@@ -1,0 +1,22 @@
+---
+title: "IT210R2 ARCHIVED - Income of Deceased Persons - Periodic Payments and Investment Tax Credit"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it210r2.html
+last_modified: 2025-08-26
+---
+# IT210R2 ARCHIVED - Income of Deceased Persons - Periodic Payments and Investment Tax Credit
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+This bulletin discusses the tax treatment of certain amounts payable periodically that has accrued but were not received at the time of death.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [it210r2-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it210r2/archived-income-deceased-persons-periodic-payments-investment-tax-credit.html)

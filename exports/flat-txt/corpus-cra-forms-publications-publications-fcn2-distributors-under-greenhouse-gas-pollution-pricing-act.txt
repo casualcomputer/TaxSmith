@@ -1,0 +1,545 @@
+Title: FCN2 Distributors Under the Greenhouse Gas Pollution Pricing Act
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn2/distributors-under-greenhouse-gas-pollution-pricing-act.html
+Corpus path: corpus/cra/forms-publications/publications/fcn2/distributors-under-greenhouse-gas-pollution-pricing-act.md
+Document type: publication
+Last modified: 2019-03-08
+
+# FCN2 Distributors Under the Greenhouse Gas Pollution Pricing Act
+
+March 2019
+
+The purpose of this notice is to provide information on registration, filing and reporting requirements to persons that are either required to register, or that choose to register, as distributors under Part 1 of the [Greenhouse Gas Pollution Pricing Act](https://laws-lois.justice.gc.ca/eng/acts/G-11.55/index.html).
+
+Producers, distributors or wholesalers that are required or permitted to register as distributors should carefully review the information contained in this notice since a clear understanding of the legislative provisions is key to remaining compliant with the Act.
+
+For more information on the other types of registration under the Act and the registration process, refer to [Fuel Charge Notice FCN1, Registration Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn1.html).
+
+The information in this notice is for reference purposes only and does not replace the *Greenhouse Gas Pollution Pricing Act* or its regulations. The information described in this notice is also based, in part, on the *Draft Regulations Amending Part 1 of Schedule 1 and Schedule 2 to the Greenhouse Gas Pollution Pricing Act*(“Draft Regulations”) and the *Backgrounder: Targeted Relief for Farmers and Fishers, and Residents of Rural and Remote Communities* (“Backgrounder”). The Draft Regulations and the Backgrounder were included as attachments to the news release entitled [Department of Finance Announcing Climate Action Incentive Payments and Launch of Fuel Charge Consultations](https://www.canada.ca/en/department-finance/news/2018/10/department-of-finance-announcing-climate-action-incentive-payments-and-launch-of-fuel-charge-consultations.html), that was issued on October 23, 2018. Any reference that is made in this notice to April 1, 2019 or July 1, 2019 is as proposed in the Draft Regulations. Any reference that is made in this notice to a particular listed province refers to Manitoba, New Brunswick, Nunavut, Ontario, Saskatchewan and Yukon, as proposed in the Draft Regulations. As well, the Backgrounder only reflects the intentions of the Government of Canada. Any commentary contained in this notice should not be taken as a representation by the Canada Revenue Agency (CRA) that the Draft Regulations will eventually be made in their current form.
+
+Should there be any discrepancy between the information in this notice and the legislative provisions in the Act or its regulations, the legislative provisions apply. For more information about the Act and its regulations, including all related technical publications, go to [Fuel charge technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge.html).
+
+All legislative references in this publication are to the Act, unless otherwise specified.
+
+## Table of Contents
+
+- [Overview](#_Toc1997508)
+
+- [Information on registration](#_Toc1997509)
+
+    - [Mandatory registration](#_Toc1997510)
+
+    - [Voluntary registration](#_Toc1997511)
+
+    - [Exception](#_Toc1997512)
+
+    - [Timing of registration](#_Toc1997513)
+
+    - [Applying for registration](#_Toc1997514)
+
+    - [Authority for separate returns](#_Toc1997515)
+
+    - [Applying for more than one type of registration](#_Toc1997516)
+
+    - [Cancelling a registration](#_Toc1997517)
+
+- [Information on the fuel charge](#_Toc1997518)
+
+    - [Registered distributor](#_Toc1997519)
+
+    - [Registered distributor that is also a registered emitter](#_Toc1997520)
+
+    - [Registered distributor that is also a registered user of combustible waste](#_Toc1997521)
+
+    - [Exemption certificates](#_Toc1997522)
+
+    - [Filing and reporting](#_Toc1997523)
+
+    - [Calculating the charge payable by a registered distributor in respect of fuel and a listed province](#_Toc1997524)
+
+    - [Calculating the net charge](#_Toc1997525)
+
+- [Special rules](#_Toc1997526)
+
+    - [Fuel brought into a listed province on behalf of a registered distributor](#_Toc1997527)
+
+    - [Marketable natural gas delivered by means of a distribution system](#_Toc1997528)
+
+    - [Fuel in transit through a listed province](#_Toc1997529)
+
+    - [Fuels in a mixture](#_Toc1997530)
+
+    - [Biogasoline, biodiesel and biomethane](#_Toc2783595)
+
+- [Claiming a rebate](#_Toc1997531)
+
+## Overview
+
+As part of the Government of Canada’s initiative to implement a federal carbon pollution pricing system, and taking into consideration provincial carbon pollution pricing systems, the Government of Canada has developed a federal carbon pollution pricing system composed of a fuel charge that applies to fossil fuels and an output-based pricing system (OBPS) for industrial facilities.[Footnote1](#fn1)
+
+The federal system applies in provinces and territories where a provincial or territorial carbon pollution pricing system has not been put into place or the system does not meet the federal standard. The Canada Revenue Agency (CRA) will be responsible for administering and enforcing the fuel charge component of the federal system beginning April 1, 2019, as proposed, for the proposed listed provinces of Manitoba, New Brunswick, Ontario and Saskatchewan and beginning July 1, 2019, as proposed, for the proposed listed provinces of Nunavut and Yukon (the listed provinces). For the applicable [rates](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) of the charge on the various [fuel](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) types and[combustible waste](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html), go to [Fuel Charge Rates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcrates.html).
+
+This notice provides information on the requirements to register as a distributor, as well as on reporting and filing obligations. [Persons](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) that are involved in the supply chain of fuels, including [natural gas](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html), in a listed province, such as producers, distributors and wholesalers, should carefully review the information included in this notice and should also familiarize themselves with the Act, its regulations and other related notices. They may also [contact the CRA](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/contacts.html) for additional information and clarification.
+
+## Information on registration
+
+Registration as a distributor can be either mandatory or voluntary depending on the nature of a person’s business activities in a listed province.
+
+### Mandatory registration
+
+Under subsection 55(1), a person is required to be registered as a distributor in respect of both [marketable natural gas](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) (MNG) and [non-marketable natural gas](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) (NMNG) if the person:
+
+- [produces](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) MNG or NMNG in a listed province;
+
+- [imports](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) MNG or NMNG into Canada at a location in a listed province otherwise than in a [supply tank](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) of a [vehicle](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html);
+
+- brings MNG or NMNG into a listed province from elsewhere in Canada otherwise than in a supply tank of a vehicle;
+
+- [delivers](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) MNG or NMNG to another person in a listed province; or
+
+- measures another person’s consumption or usage of MNG in a listed province and:
+
+    - the measurement is done on a regular basis and for the purpose of billing the other person or providing the other person’s billing information to a third party; or
+
+    - MNG is delivered by way of a [distribution system](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html).
+
+A person is also required to be registered as a distributor if the person produces any of the other fuels covered by the Act in a listed province.
+
+Under section 126, a person that is required to be registered as a distributor but does not apply for registration as and when required is liable to pay a penalty of $2,000.
+
+### Voluntary registration
+
+Subsection 55(3) provides that a person that is not required under subsection 55(1) to be registered as a distributor in respect of a type of fuel (other than MNG or NMNG) may apply to be registered as a distributor in respect of that type of fuel if:
+
+- the person carries on the business of selling, delivering or distributing fuel of that type and, in the ordinary course of that business, delivers fuel of that type in a listed province to:
+
+    - another person for the purpose of resale, in the ordinary course of business, by the other person;
+
+    - a [registered distributor](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) in respect of that type of fuel;
+
+    - a [farmer](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) at a farm if the fuel is [qualifying farming fuel](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html);
+
+    - a [fisher](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) if the fuel is [qualifying fishing fuel](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html);
+
+    - a [registered specified air carrier](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) in respect of that type of fuel if the fuel is [qualifying aviation fuel](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html);
+
+    - a [registered specified marine carrier](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) in respect of that type of fuel if the fuel is [qualifying marine fuel](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html);
+
+    - a [registered specified rail carrier](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) in respect of that type of fuel if the fuel is [qualifying rail fuel](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html);
+
+    - a [registered emitter](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html)at its [covered facility](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html);
+
+    - a [registered user](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) in respect of that type of fuel;
+
+    - another person if the fuel is, in accordance with the *Ships’ Stores Regulations*, designated as ships’ stores for use on board a conveyance of a class prescribed under those regulations;
+
+    - a greenhouse operator, as proposed in the Backgrounder, if the fuel is qualifying greenhouse fuel; or
+
+    - a remote power plant operator that generates electricity for remote communities[Footnote2](#fn2) if the fuel is [light fuel oil](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html), as proposed in the Backgrounder; or
+
+- the person carries on the business of selling, delivering or distributing fuel of that type and, in the ordinary course of that business, removes fuel of that type from a listed province.
+
+### Exception
+
+Section 55 does not apply to a person in respect of a type of fuel if the person is, or is required to be, registered as a specified air carrier, an air carrier, a specified marine carrier, a marine carrier, a specified rail carrier or a rail carrier, in respect of that type of fuel.
+
+### Timing of registration
+
+A person that is required under subsection 55(1) to be registered as a distributor in respect of a type of fuel must apply for registration before the later of:
+
+- April 1, 2019, for Manitoba, New Brunswick, Ontario and Saskatchewan or July 1, 2019, for Nunavut and Yukon; and,
+
+- if the type of fuel
+
+    - **is** MNG or NMNG, the day that is the earliest of:
+
+          - the day on which the person first produces MNG or NMNG in a listed province;
+
+          - the day on which the person first imports MNG or NMNG in a listed province otherwise than in a supply tank of a vehicle;
+
+          - the day on which the person first brings MNG or NMNG into a listed province from a place in Canada otherwise than in a supply tank of a vehicle;
+
+          - the day on which the person first delivers MNG or NMNG to another person in a listed province; and
+
+          - the day on which the person first measures another person’s consumption or usage of MNG in a listed province if:
+
+                  - the measurement is for the purpose of billing the other person or providing the other person’s billing information to a third party, and
+
+                  - MNG is delivered by way of a distribution system;
+
+    - **is not** MNG or NMNG, the day on which the person first produces fuel of that type in a listed province.
+
+If a person qualifies to voluntarily register as a distributor, the person may apply for registration at any time.
+
+### Applying for registration
+
+To apply for registration as a distributor, a person must complete [Form L400, Fuel Charge Registration](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400.html).Even where the person applies for more than one type of registration, only one registration form is required, unless an application for authority to file separate returns under subsection 88(1) is submitted. The person must also complete [Form L400-1, Fuel Charge Registration Schedule](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400-1.html).Information on other registration types can be found in [Fuel Charge Notice FCN1, Registration Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn1.html).
+
+Registration forms can be submitted electronically using the “Submit documents” function in [My](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) Business Account. If the person submits a registration application electronically, that person will be provided with a confirmation number. This confirmation number should be retained for follow-up on the status of the application.
+
+The person can also send the completed registration forms by mail to the following address:
+
+Sudbury Tax Centre Fuel Charge Program Post Office Box 20000, Station A Sudbury ON P3A 5C1
+
+The processing of the fuel charge registration may be delayed in the case of missing or incomplete information.
+
+If the application for registration is approved, the CRA will inform the person in writing of its registration number and the effective date of registration.
+
+### Authority for separate returns
+
+Under subsection 88(1), a person that engages in one or more activities in separate branches or divisions may apply to the CRA for authority to file separate returns and rebate applications under Part 1 of the Act for a branch or division. The application to file separate returns must be submitted in the form of a letter at the time of registration.
+
+The person must complete the application and, for each branch or division, confirm that the following requirements are met:
+
+- the branch or division indicated in the application can be separately identified by reference to its location or the nature of the activities in which it is engaged; and
+
+- separate [records](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html), books of account and accounting systems are maintained for the branch or division.
+
+A separate [Form L400](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400.html) should be used for each branch or division, along with [Form L400-1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400-1.html).
+
+The application and forms can be submitted electronically using the “Submit documents” function in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) or by mail to the Sudbury Tax Centre at the address listed above.
+
+If the application to file separate returns is approved, the CRA will inform the person in writing and the authorization will remain in effect until:
+
+- the person requests the revocation of the authorization in writing;
+
+- the person fails to comply with any condition of the authorization or any provision of Part 1 of the Act;
+
+- the CRA is no longer satisfied that the requirements of the authorization are met; or
+
+- the CRA considers that the authorization is no longer required.
+
+Under these conditions, the CRA will revoke the authorization and send a notice in writing to the person, specifying the effective date of the revocation.
+
+### Applying for more than one type of registration
+
+In addition to applying for registration as a distributor, a person may also apply for registration as an emitter if the person is responsible for a covered facility under the OBPS and Environment and Climate Change Canada has registered the covered facility and has issued a covered facility certificate to the person.
+
+A registered distributor is also required to register as a user of combustible waste if it burns combustible waste, such as tires or asphalt shingles, in a listed province for the purposes of producing heat or energy.
+
+For additional information on these types of registration, refer to [Fuel Charge Notice FCN5, Emitters Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn5.html), and [Fuel Charge Notice FCN7, Users Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn7.html).
+
+### Cancelling a registration
+
+Under subsection 65(5), if a person is registered as a distributor in respect of a type of fuel, the CRA must cancel that registration when registering that person as a specified air carrier, an air carrier, a specified marine carrier, a marine carrier, a specified rail carrier, or a rail carrier, in respect of that type of fuel.
+
+Also, a registered distributor that believes it is no longer required to be registered (for example, if ownership changes or business activity ceases) may request that the CRA cancel its registration. The registered distributor must notify the CRA in writing when this occurs, noting the reason for requesting the cancellation and the effective date. The CRA must cancel the registration if satisfied that the registration is not required.
+
+The registered distributor can submit the request electronically using the “Submit documents” function in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) or by mail to the Sudbury Tax Centre at the address listed in the section “Applying for registration” above. Filing and reporting requirements remain in effect until the effective date of cancellation.
+
+Finally, the CRA may also cancel a registration if it is satisfied that the registration is not required, after giving the person reasonable notice. In this case, the CRA will notify the person of the cancellation and the effective date of the cancellation.
+
+## Information on the fuel charge
+
+Generally, a charge applies to 21 types of fuel delivered, transferred, [used](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html), produced, imported or brought into Manitoba, New Brunswick, Ontario or Saskatchewan beginning April 1, 2019, and Nunavut or Yukon beginning July 1, 2019. A charge also applies on combustible waste when it is burned in a listed province for the purposes of producing heat or energy.
+
+### Registered distributor
+
+In the case of a registered distributor, fuel is generally held without the charge being payable until the fuel is either used by the registered distributor in a listed province, transferred into a supply tank of a vehicle of the registered distributor or delivered by the registered distributor to a person that does not provide an exemption certificate.
+
+#### Fuel delivered
+
+Under subsection 17(1), a registered distributor in respect of a type of fuel that delivers fuel of that type to another person in a listed province must pay a charge in respect of the fuel and the listed province. The charge generally becomes payable at the time of delivery.
+
+Under subsection 17(2), the charge is not payable upon delivery when a registered distributor delivers the fuel to one of the following persons and an exemption certificate applies in respect of the delivery:
+
+- another registered distributor in respect of that type of fuel;
+
+- a registered specified air carrier in respect of qualifying aviation fuel;
+
+- a registered specified marine carrier in respect of qualifying marine fuel;
+
+- a registered specified rail carrier in respect of qualifying rail fuel;
+
+- a registered user in respect of that type of fuel;
+
+- a registered emitter;
+
+- a farmer, if the fuel is a qualifying farming fuel; or
+
+- a fisher, if the fuel is a qualifying fishing fuel and the listed province is prescribed.
+
+As mentioned at the beginning of this publication, the Government of Canada announced additional relief in the Backgrounder, which will be provided through the use of an exemption certificate.
+
+Specifically, the relief is extended when a registered distributor delivers light fuel oil to a remote power plant operator that generates electricity for remote communities.[Footnote3](#fn3) In addition, partial relief (80%) is extended when a registered distributor delivers qualifying greenhouse fuel to a greenhouse operator that provides an exemption certificate.
+
+Also, under subsection 17(3), the charge is not payable if the fuel is, in accordance with the *Ships’ Stores Regulations*, designated as ships’ stores for use on board a conveyance of a class prescribed under those regulations.
+
+#### Fuel used or transferred
+
+A registered distributor that uses a type of fuel in a listed province at a particular time must pay a charge under subsection 18(1) in respect of the fuel and the listed province. The charge is payable at the particular time.
+
+For the purposes of this charge, subsection 18(2) requires that when a registered distributor transfers fuel into a supply tank of a vehicle (other than a specified commercial vehicle) at a location in a listed province, the registered distributor is deemed to use the fuel in the listed province at that time.
+
+However, under subsection 18(5), a charge is not payable on fuel used in a listed province if the fuel is used in a [non-covered activity](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html). For example, a charge is not payable if ethane is used to produce plastics in a listed province and the ethane is not put into a fuel system that produces heat or energy and is not burned or flared.
+
+### Registered distributor that is also a registered emitter
+
+A registered distributor that is also a registered emitter is required to comply with all the rules and obligations that apply to registered emitters. A registered distributor that is also a registered emitter is exempt from the charge that would otherwise be payable under subsection 18(1) on fuel used in a listed province to the extent that the fuel is used at its covered facility, including fuel transferred into the supply tank of its vehicle.
+
+### Registered distributor that is also a registered user of combustible waste
+
+A registered distributor that is also a registered user of combustible waste is required to comply with all the rules and obligations that apply to registered users of combustible waste. A registered distributor that is also a registered user of combustible waste and that, at a particular time, burns combustible waste in a listed province for the purpose of producing heat or energy must pay a charge under section 25. The charge becomes payable at the particular time.
+
+For more information on registered users of combustible waste, refer to [Fuel Charge Notice FCN7](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn7.html).
+
+### Exemption certificates
+
+An exemption certificate is a document that applies to the delivery of fuel and is provided by certain persons to a registered distributor to enable the registered distributor to deliver fuel in a listed province without the application of the charge at that time of delivery.
+
+Specifically, when a registered distributor delivers fuel to another person, an exemption certificate applies in respect of the delivery only if the certificate includes a declaration by the person that the person is:
+
+- registered as a distributor, a specified air carrier, a specified marine carrier or a specified rail carrier in respect of that type of fuel;
+
+- registered as an emitter and that fuel is for use at its covered facility;
+
+- registered as a user in respect of that type of fuel and that the fuel is for use in a non‑covered activity;
+
+- a farmer and:
+
+    - the location to which the fuel is delivered is a farm;
+
+    - the fuel is for use exclusively in the operation of [eligible farming machinery](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) or an auxiliary component of eligible farming machinery; and
+
+    - all or substantially all of the fuel is for use in the course of [eligible farming activities](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html); or
+
+- a fisher and:
+
+    - the fuel is for use exclusively in the operation of an [eligible fishing vessel](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html); and
+
+    - all or substantially all of the fuel is for use in the course of [eligible fishing activities](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html).
+
+As outlined above, the Government of Canada has also proposed to extend additional relief through the use of an exemption certificate when a registered distributor delivers light fuel oil to a remote power plant operator that generates electricity for remote communities.[Footnote4](#fn4) In addition, partial relief (80%) is extended when a registered distributor delivers qualifying greenhouse fuel to a greenhouse operator that provides an exemption certificate.
+
+Registered distributors that wish to use an exemption certificate may obtain and complete [Form L401, Fuel Charge Exemption Certificate](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l401.html), in accordance with section 36. Farmers that provide an exemption certificate must complete [Form L402, Fuel Charge Exemption Certificate for Farmers](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l402.html). Fishers that provide an exemption certificate must complete [Form L403, Fuel Charge Exemption Certificate for Fishers](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l403.html). Greenhouse operators that provide an exemption certificate would be required to complete [Form L404, Fuel Charge Exemption Certificate for Greenhouse Operators](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l404.html). Remote power plant operators that generate electricity for remote communities that provide an exemption certificate would be required to complete [Form L405, Fuel Charge Exemption Certificate for Remote Power Plant Operators](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l405.html). For the purposes of the fuel charge, an exemption certificate does not have an expiry date.
+
+The exemption certificate must be signed and provided to the registered distributor that delivers the fuel, and it can be used for subsequent deliveries made by the same registered distributor to the same person as long as the conditions for the exemption continue to be met. The registered distributor to whom the exemption certificate is provided must retain a copy of the exemption certificate.
+
+Section 37 sets out the consequences of making a false declaration on an exemption certificate. Where a particular person delivers fuel in a listed province to another person that provides an exemption certificate and makes a false declaration, the other person becomes liable to pay the charge otherwise payable, a penalty of 25% of the amount of the charge and any other additional penalties and interest that may be applicable. Paragraph 37(1)(c) further provides that if the particular person knows, or ought to know, that the declaration is, at that particular time, false, both the particular person and the other person are jointly and severally, or solidarily, liable for the payment of the charge in respect of the fuel and the listed province, the penalty mentioned above and any related interest and penalties.
+
+### Filing and reporting
+
+The [reporting period](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) of a registered distributor is a calendar month. A registered distributor must file a return monthly with the CRA, even if there is no amount owing. The return must be filed by the end of the month following the reporting period.
+
+#### Forms to complete
+
+The quantity of fuel subject to a charge must be reported by type of fuel and listed province. A registered distributor must file [Form B400, Fuel Charge Return – Registrant](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400.html), for each reporting period, for each registration type, as well as [Form B400-1, Fuel Charge Return Schedule – Registered Distributor](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-1.html).
+
+#### More than one type of registration
+
+If the registered distributor holds more than one type of registration, it must report fuel by type and listed province for each registration type. This means that the registered distributor must file [Form B400](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400.html) each registration type and once for each reporting period, as well as
+
+- [Form B400-3, Fuel Charge Return Schedule – Registered Emitter](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-3.html), if it is also a registered emitter;
+
+- [Form B400-5, Fuel Charge Return Schedule – Registered User of Combustible Waste](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-5.html), if it is also a registered user.
+
+Section 104 provides that a registered distributor must keep its records for 6 years after the end of the year to which they relate.
+
+A registered distributor must determine the [net charge](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) for each listed province for the reporting period for which the return and accompanying return schedule(s) must be filed.
+
+### Calculating the charge payable by a registered distributor in respect of fuel and a listed province
+
+A registered distributor in respect of a type of fuel and a listed province that delivers, at a particular time, fuel of that type must pay a charge under subsection 17(1) on the quantity of fuel delivered to non-registrants or to registrants that do not provide an exemption certificate. The charge becomes payable at the particular time. As mentioned in the section “Fuel used or transferred” above, a registered distributor also pays a charge under subsection 18(1) when it uses fuel or transfers fuel into the supply tank of a vehicle in certain circumstances.
+
+In this case, the charge payable is generally calculated using the following formula, which is set out in subsection 40(1):
+
+| **Where** |  |
+
+| --- | --- |
+
+| **A** | is the quantity of fuel in respect of which the charge becomes payable |
+
+| **B** | is the rate in respect of fuel of that type for the listed province applicable at the time the charge becomes payable |
+
+### Calculating the net charge
+
+Under section 71, every person that is required to file a return must, in the return, determine the net charge for a reporting period of the person for which the return is required to be filed.
+
+After calculating the charge(s) payable in respect of fuel and the listed province(s), the registered distributor must determine the net charge for a particular reporting period.
+
+The net charge is calculated using the following formula, which is set out in section 71:
+
+| **Where** |  |
+
+| --- | --- |
+
+| **A** | is the total of all amounts, each of which is the amount determined for a listed province by the formula **C – D** where **C** is the total of all amounts, each of which is a charge in respect of fuel, other than a charge under subsection 20(3), or combustible waste and the listed province that becomes payable by the person in the particular reporting period **D** is the total of all amounts, each of which is an amount of a rebate, other than a rebate for a payment in error under section 49 or a net charge rebate under subsection 71(4), in respect of the listed province payable by the CRA for a reporting period and that is claimed by the person in the return that is required to be filed under section 69 for a particular reporting period |
+
+| **B** | is 0 at this time[Footnote5](#fn5) |
+
+If the net charge for a reporting period of a registered distributor is a positive amount, the registered distributor must pay that amount to the Receiver General no later than the day on or before which the return for the reporting period is required to be filed (that is, by the end of the month following the reporting period for which the net charge becomes payable). For example, a charge that becomes payable in the month of August must be reported and paid by the end of September.
+
+Interest and/or penalties may apply to late payments. For information on payment methods, go to [Payments to the Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/services/payments-cra.html).
+
+If the net charge for a reporting period of a registered distributor is a negative amount, the registered distributor may claim the amount of that net charge as a net charge rebate in the return filed under section 69 for that reporting period. The rebate is payable to the registered distributor by the CRA.
+
+A registered distributor in respect of light fuel oil and [gasoline](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) has operations in a listed province, other than Yukon or Nunavut.
+
+In April 2019, the registered distributor:
+
+- delivered 100,000 litres of light fuel oil to another registered distributor that provided an exemption certificate;
+
+- delivered 30,000 litres of light fuel oil to a non-registrant;
+
+- used 1,000 litres of light fuel oil in its trucks; and
+
+- imported 5,000 litres of gasoline from the United States to be inventoried.
+
+For the 100,000 litres of light fuel oil delivered to another registered distributor, there is no charge payable because that registered distributor provided an exemption certificate and was also registered for light fuel oil.
+
+For the 30,000 litres of light fuel oil the registered distributor delivered to a non-registrant and the 1,000 litres of light fuel oil that it used in its trucks, for a total of 31,000 litres of light fuel oil, the registered distributor must calculate the net chargeto pay but must first calculate the **charge payable** using the formula **A × B**
+
+where
+
+**A** is 31,000 litres (the quantity of fuel)**B** is $0.0537 per litre (the rate for light fuel oil in the listed province on April 1, 2019)
+
+The charge payable is **$1,664.70** (31,000 litres × $0.0537 per litre).
+
+The resulting amount is then used to calculate the **net charge** using the formula**A + B**
+
+where
+
+**A** is **C – D**
+
+where
+
+**C** is $1,664.70 (the charge payable)**D** is 0 litres (there are no rebates in this situation)
+
+**B** is $0
+
+Therefore,
+
+**A** is $1,664.70 ($1,664.70 – $0)**B** is $0
+
+The net charge is **$1,664.70** ($1,664.70 + $0). Since the transaction occurred in April 2019, the amount must be paid no later than May 31, 2019 on the 30,000 litres of light fuel oil delivered to the non-registrant and the 1,000 litres of light fuel oil used in the registered distributor trucks in a listed province.
+
+For the 5,000 litres of gasoline imported from the United States, no charge is payable at the time of importation because the person is a registered distributor.
+
+## Special rules
+
+### Fuel brought into a listed province on behalf of a registered distributor
+
+Under section 10, when another person transports fuel into a listed province on behalf of a registered distributor, the registered distributor, and not the person transporting the fuel, is considered to have brought the fuel into the listed province.
+
+Similar rules apply when fuel is removed from a listed province.
+
+### Marketable natural gas delivered by means of a distribution system
+
+Under section 14, when MNG is delivered to a person by means of a distribution system, the person that is considered to deliver the MNG is the registered distributor that measures, on a regular basis and for the purpose of billing the person or providing the person’s billing information to a third party, the person’s consumption or usage of MNG that is delivered by means of the distribution system.
+
+### Fuel in transit through a listed province
+
+Under section 11, fuel in transit through a listed province is deemed not to have been brought into the listed province if the following conditions are met:
+
+- a quantity of fuel is brought into a listed province from a place in Canada in the course of the transportation of the fuel to a place outside the listed province;
+
+- the fuel is transported without being stored in the listed province (otherwise than in a manner that is solely incidental to the transportation); and
+
+- the person bringing the fuel into the listed province is a registered emitter or is registered otherwise than only as a road carrier in respect of that type of fuel.
+
+Similar rules apply under section 12 for imported fuel that is in transit through a listed province.
+
+### Fuels in a mixture
+
+Under section 16, a [mixture](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) of 2 or more fuels is deemed to be fuel of the type that is present in the highest proportion in the mixture. Therefore, the rate to be used when calculating the amount of the charge payable in respect of a mixture is the rate for the type of fuel present in the highest proportion in the mixture.
+
+### Biogasoline, biodiesel and biomethane
+
+When [biogasoline](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) contained in gasoline, [biodiesel](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) contained in light fuel oil, or [biomethane](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html)contained in natural gasexceeds a certain threshold, the number of litres in the case of gasoline or light fuel oil, or cubic metres in the case of MNG or NMNG, is adjusted through the following formulas.
+
+#### Gasoline that contains more than 10% biogasoline
+
+Under subsection 8(5), the quantity of gasoline is calculated using the following formula:
+
+| **Where** |  |
+
+| --- | --- |
+
+| **A** | is the number of litres that the gasoline occupies at 15°C |
+
+| **B** | is the proportion of biogasoline in the product |
+
+A registered distributor has 100 litres of gasoline that contains 12% biogasoline.
+
+The quantity of gasoline that is subject to the charge is calculated using the formula **A × (100% – B) ÷ 95%**
+
+where
+
+**A** is 100 litres (the number of litres that the gasoline occupies at 15°C)**B** is 12% (the proportion of biogasoline)
+
+Therefore, 100 litres × (100% – 12%) ÷ 95% equals 93 litres of gasoline.
+
+Because the gasoline contains 12% biogasoline, only 93 of the 100 litres are subject to the charge.
+
+#### Light fuel oil that contains more than 5% biodiesel
+
+Under subsection 8(6), the quantity of light fuel oil is calculated using the formula
+
+| **Where** |  |
+
+| --- | --- |
+
+| **A** | is the number of litres that the light fuel oil occupies at 15°C |
+
+| **B** | is the proportion of biodiesel in the product |
+
+A registered distributor has 100 litres of light fuel oil that contains 2% biodiesel.
+
+The formula does not apply because the proportion of biodiesel contained in the quantity of light fuel oil does not exceed 5%. Therefore, the full quantity of 100 litres will be used in the calculation of the charge payable.
+
+### Example 2 – Biodiesel
+
+A registered distributor has 100 litres of light fuel oil that contains 6% biodiesel.
+
+The quantity of light fuel oil that is subject to the charge is calculated using the formula **A × (100% – B) ÷ 98%**
+
+where
+
+**A** is 100 litres (the number of litres that the light fuel oil occupies at 15°C)**B** is 6% (the proportion of biodiesel)
+
+Therefore, 100 litres × (100% – 6%) ÷ 98% equals 96 litres of light fuel oil.
+
+Because the light fuel oil contains 6% biodiesel, only 96 of the 100 litres are subject to the charge.
+
+#### Natural gas that contains biomethane
+
+Under subsection 8(7), the quantity of MNG or NMNG is calculated using the formula
+
+| **Where** |  |
+
+| --- | --- |
+
+| **A** | is the number of cubic metres that the MNG or NMNG occupies at 15°C and 101.325 kPa |
+
+| **B** | is the proportion of biomethane in the product |
+
+A registered distributor has 100 cubic metres of MNG that contains 2% biomethane.
+
+The quantity of MNG that is subject to the charge is calculated using the formula **A × (100% – B)**
+
+where
+
+**A** is 100 cubic metres (the number of cubic metres that the MNG or NMNG occupies at 15°C and 101.325 kPa)**B** is 2% (the proportion of biomethane)
+
+Therefore, 100 cubic metres × (100% – 2%) equals 98 cubic metres of MNG.
+
+Because the MNG contains 2% biomethane, only 98 of the 100 cubic metres are subject to the charge.
+
+## Claiming a rebate
+
+Under section 49, a person may claim a rebate if it paid an amount in excess of the amount of the charge that was payable. The rebate is available whether the amount was paid by mistake or otherwise. The amount of the rebate is equal to the amount of the excess.
+
+The rebate payable under section 49 for an amount paid in excess of the amount payable is not to be paid to a person to the extent that
+
+- the amount was assessed; or
+
+- the amount was taken into account as an amount required to be paid for a reporting period for which the CRA had assessed the person.
+
+This rebate is not to be included in the calculation of the net charge. Instead, a registered distributor that intends to claim this rebate must submit an amended [Form B400](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400.html) and any related schedule to the CRA.
+
+Under section 51, a rebate will not be paid to a person at any time unless the person has filed all returns of which the CRA has knowledge and that are required to be filed on or before that time by the person under the *Excise Tax Act*, the *Income Tax Act*, the *Excise Act, 2001*, and the *Air Travellers Security Charge Act*.
+
+## Further information
+
+For all technical publications related to the *Greenhouse Gas Pollution Pricing Act* and its regulations, go to [Fuel charge technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge.html).
+
+To make a technical enquiry on the fuel charge or for additional information on the application of the fuel charge for each type of registrant, go to [Contact Information – Excise and Specialty Tax Directorate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/contacts/excise-taxes-contacts.html).

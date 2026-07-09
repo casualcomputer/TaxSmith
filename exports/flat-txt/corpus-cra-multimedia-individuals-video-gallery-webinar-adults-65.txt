@@ -1,0 +1,182 @@
+Title: Webinar - Adults 65+
+Source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/individuals-video-gallery/webinar-adults-65.html
+Corpus path: corpus/cra/multimedia/individuals-video-gallery/webinar-adults-65.md
+Document type: video_transcript
+Last modified: 2026-02-11
+
+# Webinar - Adults 65+
+
+## Transcript
+### Slide 1 - Adults 65 years and older. Doing your taxes has its benefits!
+[Speaker]: Hello and welcome to today's webinar on benefits and credits for adults 65 years and older presented by the Canada Revenue Agency, or CRA for short.
+[Visual]: Two adults sitting close together outdoors.
+### Slide 2 - Land acknowledgement
+[Speaker]: The Canada Revenue Agency would like to acknowledge the prosperous lands across the nation that sustain us and enrich our lives. We recognize and extend our gratitude to the Indigenous peoples who have cared for these lands and who continue to guide us in building respectful relationships rooted in the spirit of reconciliation.
+We invite you to take a moment to reflect on your own connection to the land from which you are joining us today, and to honour the Indigenous caretakers who have shaped, and continue to shape, its ongoing story.
+[Visual]: An eagle, narwhal and fiddle icon.
+### Slide 3 - Overview
+[Speaker]: Today, we will cover:
+- common types of income for adults 65 years and older, and the various benefit and credit payments you could be eligible for
+- some common tax credits and deductions and why it's important to do your taxes on time
+- and CRA's digital services, like My Account
+I will conclude today's presentation by providing tools to protect yourself from scams.
+[Visual]: Two individuals sitting together at a table, looking at a laptop.
+### Slide 4 - Common types of income for adults 65+
+[Speaker]: There are many types of income for adults 65 years and older. Some income can come from government programs designed to help older Canadians stay financially independent.
+In most cases, you must apply for income or benefits from a government program.
+If you are eligible, the amount you receive may depend on the income you already receive from other sources.
+Most programs start at age 65, but some can start earlier.
+The most important thing to know is that almost all government programs need you to do your taxes to be eligible.
+The most common types of income you may receive are from:
+- Old Age Security, or OAS
+- the Canada Pension Plan, or CPP
+- the Quebec Pension Plan, or QPP
+- a pension plan, long-term investment, or a retirement allowance that you have gotten from work, and
+- personal savings and investments, which include registered retirement savings plans and tax-free savings accounts
+[Visual]: Two individuals sitting at a table with a laptop and a cup, engaged in discussion.
+### Slide 5 - Old Age Security (OAS) and Guaranteed Income Supplement (GIS)
+[Speaker]: Old Age Security, which is commonly called the OAS pension, is a monthly payment you may get if you are 65 and older.
+Service Canada will let you know if you have been automatically enrolled. If you have not been automatically enrolled, you will need to contact Service Canada.
+The amount you receive depends on your age, your income, and how long you have lived in Canada since the age of 18.
+If your income is higher than $93,454 for 2025, you will have to repay part of or your entire OAS pension. If you have to repay, an amount may also be withheld from your next year's OAS monthly payments.
+OAS is a taxable pension. However, taxes aren't automatically deducted. You can contact Service Canada to get the federal income tax deducted from your monthly payment.
+Lower-income seniors who are living in Canada may also be entitled to a non-taxable supplement known as the Guaranteed Income Supplement, or the GIS. You apply for both the GIS and the OAS pension at the same time.
+### Slide 6 - Canada Pension Plan (CPP)
+[Speaker]: The Canada Pension Plan, or CPP, is a monthly taxable benefit. If you qualify, you'll receive the CPP retirement pension for the rest of your life.
+The standard age to start the pension is 65. However, you can start receiving it as early as 60 or as late as 70.
+You must apply online or by mail to receive the CPP.
+For more information on OAS and CPP, go to [canada.ca/public-pensions](https://www.canada.ca/en/services/benefits/publicpensions.html) or call Service Canada at **1-800-277-9914**.
+### Slide 7 - Registered retirement savings plan (RRSP)
+[Speaker]: A [registered retirement savings plan](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/registered-retirement-savings-plan-rrsp.html), or RRSP, is a form of investment where contributions can be used to reduce the taxes you may have to pay.
+The last day that you can contribute to your RRSP is December 31 of the year you turn 71.
+You can contribute to your spouse's or common-law partner's RRSP until December 31 of the year they turn 71.
+[Visual]: Calendar block showing December 31.
+### Slide 8 - RRSP options when you turn 71
+[Speaker]: In the year you turn 71, you must convert your RRSP in one of three ways:
+Option 1: You can withdraw the funds from your RRSPs.
+Any income you earned while you had the RRSP is usually exempt from tax if the funds remain in the plan. However, you generally will pay tax on the total amount when you start making withdrawals from that plan.
+Option 2: You can transfer your funds to a [registered retirement income fund](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/registered-retirement-income-fund-rrif.html), or RRIF.
+A RRIF is an arrangement between you and a carrier that is registered by the CRA, like an insurance company, trust company, or financial institution. Earnings in a RRIF are tax-free, but amounts paid out of a RRIF are taxable.
+Option 3: You can use your RRSPs to buy an annuity. An annuity is a plan that makes regular payments to you for life or for a specified period. These payments are part of your total income, and you must report them on your taxes.
+### Slide 9 - Report or not?
+[Speaker]: Other common income sources for adults 65 years and older include:
+- superannuation and other pensions, which are mostly part of your total income and must be reported on your return.
+- retiring allowances, or severance pay, is paid on or after retirement. It is taxable income and must also be reported on your taxes.
+- lump-sum payments include a one-time total or partial payment from a pension plan that is received when you leave a plan. These are taxable and must be reported on your return.
+- and [tax-free savings accounts](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account.html), or TFSAs, are accounts that earn income. The earnings are generally not taxable and don't affect your eligibility for benefit and credit payments.
+Next, we'll talk about one of the most common payments for adults 65 years and older: [the goods and services tax/harmonized sales tax credit](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/gst-hst-credit.html), commonly called the GST/HST credit.
+### Slide 10 - Goods and services tax/harmonized sales tax (GST/HST) credit
+[Speaker]: The GST/HST credit is a quarterly tax-free payment for people with low and modest incomes. It helps offset the GST or HST they pay on goods and services.
+To get it, do your taxes every year, even if you have no income to report. The CRA will confirm if you are eligible and for how much.
+[Visual]: An individual sitting at a desk, holding eyeglasses while using a laptop.
+### Slide 11 - Canada child benefit
+[Speaker]: The [Canada child benefit](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit.html), or CCB, is a tax-free monthly payment made to eligible families to help with the cost of raising children under the age of 18. A grandparent can also apply if they are the primary caregiver for a child.
+To receive the CCB, you must apply for all children in your household. If you haven't applied before and no one else is receiving the benefit for the children, apply as soon as possible.
+[Visual]: A grandparent in a wheelchair sitting close to a child in a room with bookshelves and a lamp.
+### Slide 12 - Canada workers benefit
+[Speaker]: The Canada workers benefit, or CWB, is a refundable tax credit designed to help with the rising cost of living.
+It has two parts: a basic amount, available to eligible individuals and families, and a disability supplement for those approved for the disability tax credit, or DTC.
+You can claim the CWB when you file your taxes. If eligible, you may also receive advance payments throughout the year.
+For more information on the CWB, go to [canada.ca/canada-workers-benefit](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45300-canada-workers-benefit-cwb.html)
+[Visual]: An individual wearing an apron holding a cup of coffee.
+### Slide 13 - Age amount
+[Speaker]: The [age amount](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-30100-amount.html) is a non-refundable tax credit that can lower the amount of tax owed if you're 65 or older and your net income is below the yearly threshold.
+For the 2025 tax year, your net income needs to be less than $105,709 to qualify. The amount you're eligible to claim depends on your net income.
+You may also be eligible to claim the corresponding provincial or territorial tax credit. These amounts will be calculated automatically when you do your taxes using certified tax software.
+[Visual]: An individual sitting indoors, holding a tablet and talking on a mobile phone.
+### Slide 14 - Pension income amount
+[Speaker]: If you reported eligible pension, superannuation, or annuity payments on your tax return, you may be able to claim the [pension income amount](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-31400-pension-income-amount.html).
+[Visual]: An individual sitting at a desk with a laptop, writing in a notebook while talking on the phone.
+### Slide 15 - Pension income splitting
+[Speaker]: There are other ways you can help lower your tax bill.
+For example, you may be able to split your pension income with your spouse or common-law partner if you meet certain conditions. You can transfer up to half of your eligible pension income to them, regardless of their age.
+When you split your pension income, you deduct the amount that you transfer on your tax return. Your spouse or common-law partner must then report this same amount as income on their tax return.
+To split eligible pension income, you and your spouse or common-law partner must each fill out [*Form T1032, Joint Election to Split Pension Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1032.html). You must fill this out for every year you want to split pension income.
+When you do your taxes electronically, most tax software will calculate the most beneficial way to split your pension.
+Keep in mind that you cannot split your income from the Canada Pension Plan, Quebec Pension Plan, or Old Age Security.
+For more information on pension income splitting, go to [canada.ca/pension-splitting](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/pension-income-splitting.html)
+### Slide 16 - Amounts transferred to or from your spouse or common-law partner
+[Speaker]: When doing your taxes, you may realize there is no need for you to claim all your tax credits to reduce your federal tax to zero. But don't let them go to waste!
+You may be able to transfer unused amounts to your spouse or common-law partner to reduce their federal taxes.
+Some of the credits that can be transferred include the age amount, the pension income amount, and the disability amount for self.
+By including both spouses' or common-law partners' information, most tax software will calculate the most beneficial way to claim the amounts.
+[Visual]: Two individuals standing in a kitchen holding mugs, with one kissing the other on the cheek.
+### Slide 17 - Disability tax credit (DTC)
+[Speaker]: The [disability tax credit](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html), or DTC, is a non-refundable tax credit that helps people with disabilities, or their supporting family members, reduce the amount of income tax they may have to pay.
+Even if you do not have taxable income, there are other benefits to applying for the DTC. Being approved can help you access other federal programs such as the child disability benefit, the Canada workers benefit disability supplement, the registered disability savings plan, or RDSP for short, and the new Canada Disability Benefit.
+[Visual]: An individual is sitting on a couch in a living room, using a smartphone, with a visible prosthetic leg.
+### Slide 18 - Multigenerational home renovation tax credit
+[Speaker]: The [multigenerational home renovation tax credit](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45355-mhrtc.html) is a refundable tax credit that you can claim on your tax return.
+If you are eligible, claim this credit for certain renovation expenses spent to create a self-contained secondary unit. The secondary unit must allow an adult 65 years of age or older, or an adult who is eligible for the DTC, to live with a qualifying relative.
+The tax credit for 2025 is 14.5% of your costs, up to a maximum of $7,250, for each claim you are eligible to make.
+[Visual]: Four individuals, including two children, cooking and interacting in a kitchen.
+### Slide 19 - Canada caregiver credit
+[Speaker]: The [Canada caregiver credit](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/canada-caregiver-amount.html) is a non-refundable tax credit for those who support a spouse or common-law partner, or a dependant, with a physical or mental impairment.
+An individual is considered to depend on you for support if they rely on you to regularly and consistently provide some or all of the basic necessities of life, such as food, shelter, and clothing.
+[Visual]: Two individuals in a living room having coffee; one is seated in a wheelchair.
+### Slide 20 - Home accessibility tax credit
+[Speaker]: The [home accessibility tax credit](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-31285-home-accessibility-expenses.html) is a non-refundable tax credit. You may be able to claim it if you own a home in Canada and you paid for eligible renovations to improve the safety or accessibility of the home for yourself or for another eligible individual.
+You can claim up to $20,000 each year in eligible expenses, which can result in a tax credit of up to $2,900.
+You may be eligible for this credit if you're 65 or older or if you qualify for the DTC. Or, you may claim for a dependant, if certain criteria are met.
+### Slide 21 - Medical expenses
+[Speaker]: Another non-refundable tax credit you may be able to claim are [medical expenses](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/lines-33099-33199-eligible-medical-expenses-you-claim-on-your-tax-return.html). You can claim eligible medical expenses that you or your spouse or common-law partner paid for yourselves, your children under 18, or certain dependent family members who were residents of Canada at any time during the year.
+You can claim a wide range of products, procedures, and services, such as medical supplies, dental care, and travel expenses.
+You can only claim the portion of an eligible expense that has not been or will not be reimbursed. Most claims don't require you to be eligible for the DTC.
+### Slide 22 - Ways to do your taxes
+[Speaker]: There are a few ways to do your taxes.
+The fastest and easiest way is to do them online. If you are eligible, you can use certified software, some of which are even free on Canada.ca. The software guides you through the process, calculates everything, and helps make sure you don't miss out on any benefits and credits. Depending on the software, you can also use the “Auto-fill my return” feature, which can automatically retrieve your slip information from the CRA and populate the tax return for you.
+If you have a modest income and a simple tax situation, a volunteer may be able to do your taxes for you at a free tax clinic.
+You can also get help from a family member, a friend, or a tax preparer.
+Finally, you can do them on paper by downloading a tax package for your province or territory, filling out the forms on a computer or by hand and mailing them to the CRA.
+To find out more, visit [canada.ca/taxes-get-ready](https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/get-ready-taxes.html)
+### Slide 23 - Free tax help
+[Speaker]: You may be able to get your taxes done by a volunteer for free!
+The program is called the Community Volunteer Income Tax Program, or CVITP. In Quebec, it's known as the Income Tax Assistance - Volunteer Program, or ITAVP. ​
+You may be eligible for help at a free tax clinic if you have a modest income and a simple tax situation. Generally, a modest income is less than $40,000 for a single person and less than $55,000 for a couple. Your tax situation is simple if, for example, you don't have a small business or income from a rental property. ​
+Tax clinics are held all year. However, most clinics are offered in March and April. ​
+In Quebec, community organizations that partner with the ITAVP offer free tax return preparation sessions and do not accept any payment for the preparation of federal returns. For Quebec provincial returns, minimal fees may be charged, provided that they comply with Revenu Québec guidelines.​
+For more information on free tax clinics or to find a clinic, go to [canada.ca/taxes-help](https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/get-ready-taxes.html)
+[Visual]: The logo for the Community Volunteer Income Tax Program.
+### Slide 24 - Need help?
+[Speaker]: The CRA needs your permission to deal with another person, such as a family member, friend or an accountant, who may act as your representative for income tax and benefit matters.
+You can give permission to another person in your My Account, or on paper by filling out *[Form AUT-01, Authorize a Representative for Offline Access](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/aut-01.html)*, and sending it to the CRA. Note that if you use the paper form option, you can only authorize a representative to communicate on your behalf with the CRA by phone, fax or mail, or in-person, with no online access.
+### Slide 25 - My Account for individuals
+[Speaker]: My Account is an online portal in your CRA account that lets you manage your tax and benefit information quickly, conveniently, and securely.
+Along with doing your taxes every year, you must keep your personal information up to date with the CRA to keep getting benefit and credit payments.
+This includes your address, marital status, and the number of children in your care. You can update all this information in My Account.
+You can also do the following:
+- track your refund, view, or change your tax return
+- view mail, such as your notice of assessment, online
+- check your benefit and credit payments and statements
+- apply for the disability tax credit and track the status of your application
+- and much more!
+For more information, or to register for a CRA account to access My Account, go to [canada.ca/cra-sign-in-services](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html)
+[Visual]: A screenshot of the CRA account overview page in My Account.
+### Slide 26 - Doing taxes for someone who died
+[Speaker]: We recognize how difficult it can be to cope with the death of a loved one.
+When someone dies, the family or the legal representative settles their tax and benefit affairs. They should notify the CRA to report the deceased individual's date of death as soon as possible.
+Arrangements must also be made to stop any payments from the CRA or to transfer them to a survivor, such as a spouse or common-law partner. If the CRA is not aware of the death in time to stop payments, they may still be sent out. If this happens, the legal representative must return the payments to the CRA.
+For more information on what to do following a death, go to [canada.ca/guide-taxes-deceased-person](https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died.html) and refer to the printable [Brochure: Doing taxes for someone who died](https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died/taxes-brochure.html).
+### Slide 27 - SimpleFile
+[Speaker]: If you have a lower income and a simple tax situation, you may be eligible to file using SimpleFile services in as little as 10 minutes!
+If you received an invitation letter from the CRA, it contains the information you need to use SimpleFile to file your return. To use the SimpleFile services, you will need to confirm your identity and answer a few short questions.
+If you live in Quebec, you will need to do your provincial tax return separately.
+SimpleFile services open on March 9, 2026, which is a little later than previous years. Check your CRA account or your mail in early March to see if you're invited.
+If you don't receive an invitation but have a lower income and a simple tax situation, you may still be able to use SimpleFile.
+To find out more, visit the SimpleFile services webpage at [canada.ca/simplefile](https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/how-file/simplefile.html) and try the new questionnaire which will be available starting on February 23, 2026.
+[Visual]: An individual working on a laptop at a table while two children draw nearby.
+### Slide 28 - Be scam smart!
+[Speaker]: You should always be cautious if you receive correspondence or calls claiming to be from the CRA. Scammers imitate the CRA to try to steal your personal information by targeting you by telephone, text, instant messaging, email, or mail. They may demand payment right away, threaten you, and try to get your personal and financial information.
+The CRA may legitimately contact you by phone, automated message, letter, or email to ask you about your account or clarify something you've shared. So how do you tell the difference between a real and scam call from the CRA? The CRA will not ask you for personal or financial information in a voicemail, email or text message.
+When in doubt, check My Account to see if you have an amount owing.
+Learn about recognizing and reporting scams at [canada.ca/be-scam-smart](https://www.canada.ca/en/revenue-agency/campaigns/fraud-scams.html)
+[Visual]: Screenshot of the Be Scam Smart webinar slide with the yellow triangle with exclamation point inside that reads: “Some scams are easy to spot. Some are not. canada.ca/be-scam-smart”
+### Slide 29 - Thank you!
+[Speaker]: For more information on any of the topics discussed today, visit [canada.ca/taxes](https://www.canada.ca/en/services/taxes.html)
+We also encourage you to visit our Upcoming Events page at [canada.ca/cra-outreach-events](https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/help-others/outreach/upcoming-events-products.html) to view past recordings and register for upcoming webinars.
+Did you know that you can find answers to most of your questions in minutes by using the tools found at [canada.ca/cra-skip-the-line](https://www.canada.ca/en/revenue-agency/get-faster-help-cra.html)? You can use the new GenAI chatbot, access your CRA account, and find answers to your most frequently asked questions. Best of all? There is no waiting!
+If you still can't find what you're looking for online, and you live in the territories and have an 867-area code, call **1-866-426-1527**.
+If you are deaf, hard of hearing, or have a speech impairment and are registered with the Canada Video Relay Service, dial **272-877** within the application to get help from an agent.
+Stay connected with the CRA on Facebook, X, YouTube, LinkedIn, and Instagram.
+We hope this webinar was helpful! Thank you for joining us and enjoy your day!
+[Visual]: Icons for social media platforms: Facebook, X (formerly Twitter), YouTube, LinkedIn, and Instagram.

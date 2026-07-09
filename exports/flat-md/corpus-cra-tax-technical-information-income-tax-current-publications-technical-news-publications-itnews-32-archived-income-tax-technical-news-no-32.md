@@ -1,0 +1,302 @@
+---
+title: "ARCHIVED - Income Tax – Technical News No. 32"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-32/archived-income-tax-technical-news-no-32.html
+last_modified: 2005-07-15
+---
+# ARCHIVED - Income Tax – Technical News No. 32
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for income tax technical news](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/what-archived-content-notice-means-income-tax-technical-news.html)
+
+**No. 32** July 29, 2005
+
+**This version is only available electronically.**
+
+## In This Issue
+
+- [Revocation of Previously Issued Rulings](#P31_1443)
+
+- [Application of Penalties](#P40_3329)
+
+- [Taxpayer's Opportunities to Respond to Assessments](#P56_5382)
+
+- [Control in Fact: Impact of Recent Jurisprudence](#P66_6779)
+
+- [Subsection 95(6): Scope of Application](#P81_10387)
+
+- [CRA Access to Accountants' or Auditors' Working Papers](#P88_11233)
+
+- [New Administrative Policy on Single-Purpose Corporations](#P93_11833)
+
+- [Notice of Objection of Large Corporation: Impact of the Potash Corporation Case](#P109_14895)
+
+- [Joint International Tax Shelter Information Centre](#P117_16255)
+
+- [Reserve for Prepaid Amount: Impact of the Ellis Vision Case](#P127_17830)
+
+- [Update on GAAR Reviews](#P134_18889)
+
+The *Income Tax Technical News* is produced by the Policy and Planning Branch. It is provided for information purposes only and does not replace the law. If you have any comments or suggestions about the matters discussed in this publication, please send them to:
+
+Income Tax Rulings Directorate Policy and Planning Branch Canada Revenue Agency Ottawa ON K1A 0L5
+
+The *Income Tax Technical News* can be found on the Canada Revenue Agency Internet site at [http://www.cra.gc.ca/](http://www.cra.gc.ca/).
+
+This issue contains topics of current interest that were discussed at the annual **Canadian Tax Foundation** conference held in Toronto from September 26 to 28, 2004, by Wayne Adams, Director General, Income Tax Rulings Directorate, Policy and Planning Branch and Bruce Allen, BA, CMA, Director, Toronto Centre Tax Services Office, Canada Revenue Agency (CRA).
+
+## Revocation of Previously Issued Rulings
+
+### Question
+
+Under what circumstances will the CRA choose to revoke or not to abide by the terms of a ruling previously issued to a taxpayer?
+
+### Response
+
+Invalidation of rulings is infrequent, but it may occur in cases where there is a material omission or misrepresentation in the statement of relevant facts or proposed transactions submitted by the taxpayer or the taxpayer's authorized representative. In these cases, the advance income tax ruling will be considered invalid and the CRA will not be bound by it. The facts and transactions in the ruling are, of course, subject to verification at the time of the audit.
+
+Where an advance income tax ruling is issued covering a continuing action or series of actions, or where the transactions are not yet completed and it is subsequently determined that the ruling is in error, it may be revoked. The revocation will not be made retroactively but will apply only to those actions or transactions which take place after the date of revocation.
+
+The Directorate will give the taxpayer written notice of an intention to revoke an advance income tax ruling and the opportunity to make representations before a decision is made. A revocation is effected by written notice from the Directorate to the taxpayer to whom the ruling was issued.
+
+The Directorate will consider harmonizing its policies with those of the Excise and GST/HST Rulings Directorate and is also working more closely with the Audit function. Our current policies are outlined in Information Circular 70-6R5 [Footnote 1](#P39_2992). Any revision to the policies will be reflected in a revised circular. Meanwhile, practitioners may bring matters of concern in this regard directly to the attention of the Directorate or to any CRA official, who will relay the information to the appropriate area.
+
+## Application of Penalties
+
+### Question 1
+
+Has the CRA proposed to levy, or has it levied any third-party civil penalties under section 163.2 of the *Income Tax Act*?
+
+### Response 1
+
+On one occasion so far, the CRA has levied a “penalty for participating in a misrepresentation” under subsection 163.2(4). Other third-party penalty situations are currently under review, but no proposals to apply civil penalties in these cases have been issued as of the date of this conference.
+
+### Question 2
+
+What guidelines do field auditors follow in applying these penalties?
+
+### Response 2
+
+Information Circular 01-1 [Footnote 2](#P49_3904) outlines the CRA's guidelines and processes for applying the third-party civil penalties. In addition, the CRA has issued Communiqué AD-03-1 to provide further guidance for CRA personnel.
+
+The auditor must complete a penalty report in every case where the penalty is proposed. The report sets out the criteria being considered in each case recommending a penalty, including any information or explanations from the third party that may mitigate or counter the imposition of the penalty. The penalty report will be available on request at the objection stage.
+
+The CRA intends to strictly control the application of the penalties. To this end, the CRA established a Headquarters review committee. The committee is composed of senior representatives from the CRA and from the departments of Finance and Justice.
+
+### Question 3
+
+Please provide an update on the activities of the Transfer Pricing Review Committee.
+
+### Response 3
+
+To date, there have been seventeen referrals considered by the Committee. Six of those referrals recommended a recharacterization of income under paragraph 247(2)(*b*) of the *Income Tax Act*. These files have been sent back to the field for discussion, and the cases are still ongoing. Penalties have been recommended in five other cases; two of those have already been reassessed, and the other three have just been referred back to the field. There was no action taken on the other six cases.
+
+## Taxpayer's Opportunities to Respond to Assessments
+
+### Question 1
+
+What is the CRA's policy to ensure that taxpayers have an adequate opportunity to respond to and to dispute a proposed assessment?
+
+### Response 1
+
+When an audit is completed, the auditor may propose to adjust the tax payable by reassessing the taxpayer's return. Initially the proposal will be discussed with the taxpayer and/or the taxpayer's representative. The auditor will confirm the proposal in writing, allowing a reasonable period in which to make representations.
+
+The proposal letter should contain a full summary of facts, an analysis, and a citation of the authority for the proposed reassessment. Detailed and well-explained adjustments are essential, not only for taxpayers and their advisers but also for the CRA's internal control and review.
+
+### Question 2
+
+Apart from the CRA appeals process, what avenues of redress are available to taxpayers and their advisers to ensure that their positions are fully considered?
+
+### Response 2
+
+Most issues are resolved through meetings and correspondence between the taxpayer's adviser, the auditor, and the team leader. You may also raise an issue with the section manager, with the Assistant Director – Verification and Enforcement, and finally with the Director of the Tax Services Office. The same process applies to scientific research and experimental development claims and to collections cases.
+
+## Control in Fact: Impact of Recent Jurisprudence
+
+### Question
+
+To what extent is the CRA abiding by the principles set out by the Federal Court of Appeal and the Tax Court of Canada in *Lenester Sales* [Footnote 3](#P69_6970) and *9044-9807 Québec Inc*. [Footnote 4](#P70_7129) in determining the scope of the rule in subsection 256(5.1) of the *Income Tax Act* and the concept of “control in fact”?
+
+### Response
+
+The *Lenester Sales* case involved a franchise operator. The franchisor exercised extensive control over the corporation that operated the local franchise. In our view, the Federal Court of Appeal's decision in *Lenester Sales* acknowledges that there are two tests for determining whether control in fact exists for the purposes of subsection 256(5.1). The first is the narrower test enunciated in *Silicon Graphics* [Footnote 5](#P73_7726) requiring that a person or a group of persons must have the clear right and ability to effect a significant change in the board of directors or their powers or to directly influence the shareholders who would otherwise have the ability to elect the board. The second is the broader test applied in another series of cases referred to by the Tax Court of Canada in its decision and cited in our previous response with respect to the impact of *Silicon Graphics* at the 2002 Canadian Tax Foundation annual conference. [Footnote 6](#P74_8283) Since 2002, the Tax Court of Canada's decision in *Mimetix Pharmaceuticals Inc.* has been upheld, [Footnote 7](#P75_8445) and the appellant in *Rosario Poirier* [Footnote 8](#P76_8762) withdrew its appeal of the Tax Court of Canada's decision following the release of the Federal Court of Appeal's decision in *9044-2807 Québec Inc.* in January 2004.
+
+In *9044-2807 Québec Inc.*, the Federal Court of Appeal considered a situation involving three corporations owned by members of a family. The Minister denied two claims for the small business deduction on the basis that all three corporations were associated by virtue of *de facto* control. The Federal Court of Appeal upheld the Tax Court of Canada's decision denying the appeal. In arriving at its decision, the Court indicated that it is impossible to list all of the factors that might be taken into consideration in determining whether a corporation might be subject to *de facto* control and, after restating the test in *Silicon Graphics* without explicitly applying it, concluded that the evidence must demonstrate that the decision-making powers of the corporation rest with persons other than those with *de jure* control. [Footnote 9](#P78_9806) In this instance, the Court was of the view that operational control, economic dependency, and the close familial relationship between the various shareholders were sufficient factors establishing factual control within the meaning of subsection 256(5.1) of the *Income Tax Act*.
+
+We believe that the criteria contained in paragraphs 21 and 23 of IT-64R4 [Footnote 10](#P80_10189) remain valid criteria for determining whether *de facto* control exists for the purposes of the *Income Tax Act*.
+
+## Subsection 95(6): Scope of Application
+
+### Question
+
+When does subsection 95(6) of the *Income Tax Act* apply in respect of financing arrangements involving foreign affiliates?
+
+### Response
+
+Subsection 95(6) is a broadly worded anti-avoidance rule. In the CRA's view, the Department of Finance's technical notes do not suggest a restrictive application of the provision. [Footnote 11](#P86_10742)
+
+It is not possible to offer general comments on the scope of application of the provision to corporate structures involving foreign affiliates. However, the CRA could consider identifying examples of structures that do not offend subsection 95(6). In the meantime, the Directorate will continue to rule on the application of the provision in proposed structures.
+
+## CRA Access to Accountants' or Auditors' Working Papers
+
+### Question
+
+We understand that the CRA is reviewing its existing policy regarding access to the working papers of a taxpayer's accountants and/or auditors. Will the CRA ensure that any new policy in this area is developed through consultations with the tax, accounting, and business communities?
+
+### Response
+
+The CRA recognizes the importance of this issue to the tax, accounting, and business communities. Accordingly, the CRA will conduct broad-based consultations in partnership with these communities before any new draft policy in this area is issued.
+
+## New Administrative Policy on Single-Purpose Corporations
+
+### Question 1
+
+Effective June 23, 2004, the CRA revised its administrative position relating to the assessment of taxable benefits where a single-purpose corporation holds U.S real estate.
+
+Will the CRA provide any grandfathering of its old administrative position? Consider the following situations:
+
+1) The property of the single-purpose corporation was under construction on June 23, 2004;
+
+2) The property of the single-purpose corporation was land, and construction had not commenced as of June 23, 2004; or
+
+3) The property of the single-purpose corporation undergoes a significant renovation.
+
+### Response 1
+
+The effective date for the implementation of the change in position announced in *Income Tax Technical News No. 31* [Footnote 12](#P102_12597) has been deferred to January 1, 2005 in order to facilitate the administration of the new position. Additional transitional relief will be provided for a renovation or addition to a dwelling that was acquired before January 1, 2005, and to a dwelling that was under construction on December 31, 2004. For greater certainty, a dwelling will be considered to be under construction where the foundation or other support has been put in place before January 1, 2005. Transitional relief will not be provided where vacant land has been acquired but the foundation or other support has not been put in place before January 1, 2005. Similarly, transitional relief will not be provided where land with an existing building has been acquired before January 1, 2005 but it is the intention of the taxpayer to demolish the existing building and construct a new dwelling on the land.
+
+### Question 2
+
+Will the CRA take the shareholder loans and expenses paid personally by the shareholder into account in determining the value, if any, of the benefit?
+
+### Response 2
+
+The CRA's position concerning the amount or value of any benefit derived from the personal use of corporate property by a shareholder is described in paragraph 11 of Interpretation Bulletin IT-432R2 [Footnote 13](#P107_13955). As noted therein, in circumstances where the fair market value rent for the property is not appropriate or cannot be determined, the amount or value of the benefit will generally be determined by multiplying a normal rate of return times the greater of the cost and fair market value of the property and then adding any operating costs paid by the corporation. In applying this formula, any outstanding interest-free loans or advances made to the corporation by the shareholder to enable the corporation to acquire the property will only be relevant where the circumstances are essentially the same as in the case of *Lloyd Youngman*. [Footnote 14](#P108_14679) Following this formula, any operating expenses paid directly by the shareholder would not be included in determining the amount or value of the benefit.
+
+## Notice of Objection of Large Corporation: Impact of the Potash Corporation Case
+
+### Question
+
+In light of the Federal Court of Appeal's decision in *Potash Corporation*, [Footnote 15](#P112_15055) will the CRA still follow its 1994 guidelines issued on the release of the rules governing objections of large corporations?
+
+### Response
+
+The 1994 guidelines, though general in nature, continue to be valid.
+
+The decision in *Potash Corporation* supports the CRA's view of the application and intent of the restrictions on large corporations in filing notices of objection. Under these guidelines, each issue under objection must be reasonably described with enough specificity for the Minister to know each issue to be decided.
+
+However, the *Income Tax Act* provides for the exercise of discretion by the Minister with respect to the quantum of relief sought. While under no obligation to do so, the Minister will, when the amount is known, use the discretionary provision to permit the corporation to make a correction to the quantum of relief, provided that the corporation made a reasonable effort to estimate the amounts when it filed the notice of objection. However, the Minister will not accept new issues. Large corporations have an obligation to be as specific and inclusive as possible in preparing their notices of objection.
+
+## Joint International Tax Shelter Information Centre
+
+### Question 1
+
+What is Canada's role in the task force on the Joint International Tax Shelter Information Centre (JITSIC)?
+
+### Response 1
+
+The joint task force was established by tax authorities of Canada, Australia, the United States and the United Kingdom.
+
+JITSIC is an initiative to increase collaboration and coordinate information on abusive tax transactions or arrangements among the four countries as stipulated in the Memorandum of Understanding signed April 23, 2004. Canada's role is common with the other three countries; it includes sharing expertise, best practices, and experiences in the field of tax administration to identify and better understand abusive tax transactions and emerging schemes, as well as those who promote them, and to exchange information about specific abusive transactions and their promoters and investors within the framework of the countries' existing bilateral tax treaties.
+
+### Question 2
+
+What types of transactions are being targeted by the joint task force?
+
+### Response 2
+
+Many abusive tax transactions employ strategies that cross borders, and many of the promoters of these transactions operate globally. JITSIC is focusing on sharing information between the revenue authorities from each country to identify abusive products and arrangements and those marketing them. The initial focus was on the ways in which financial products are used in abusive tax schemes by corporations and individuals to reduce their tax liabilities, and the identification of promoters that develop and market those products.
+
+## Reserve for Prepaid Amount: Impact of the Ellis Vision Case
+
+### Question
+
+In light of the Tax Court of Canada decision in *Ellis Vision*, [Footnote 16](#P130_17958) is the CRA reconsidering its position on whether amounts included in income under subsection 9(1) are eligible for a reserve under paragraph 20(1)(*m*)?
+
+### Response
+
+When making a determination as to whether an amount is eligible for a reserve under paragraph 20(1)(*m*), the CRA examines the nature of the prepaid income and when it is realized. Even if a taxpayer is entitled to a reserve under paragraph 20(1)(*m*) for an amount included in income under section 9 (i.e., the amount could also have been included under paragraph 12(1)(*a*)), the amount of the reserve must be reasonable.
+
+Per *Ellis Vision*, the amount of the reserve must be based on the taxpayer's previous experience and the services that the taxpayer reasonably expects to render after the end of the year. To the extent that the taxpayer's obligations are contingent, the amount of the reserve should be reduced.
+
+## Update on GAAR Reviews
+
+### Question
+
+How many files have been referred to the GAAR Committee to date, and what is their status?
+
+### Response
+
+As of July 31, 2004, the GAAR Committee reviewed 620 cases:
+
+|  |  |
+
+| --- | --- |
+
+| Capital gains | 21 |
+
+| Charitable donations | 16 |
+
+| Cross-border leases | 10 |
+
+| Debt forgiveness | 36 |
+
+| Debt parking | 25 |
+
+| Interest deductibility | 27 |
+
+| Kiwi loans | 22 |
+
+| Losses | 66 |
+
+| Part I.3 tax | 53 |
+
+| Part XIII tax | 11 |
+
+| Surplus strips | 114 |
+
+| Miscellaneous | 219 |
+
+Of the cases that were reviewed by the GAAR committee, GAAR was found to be applicable as a primary reassessing position in 171 cases and as a secondary position in 214 cases. GAAR was found not to be applicable in 235 cases.
+
+In addition, the GAAR Committee reviewed and considered GAAR to be applicable in 870 cases of registered retirement savings plan stripping and 75 cases of Barbados spousal trusts. These are listed separately to avoid skewing the above statistics.
+
+**Footnotes**
+
+1 Information Circular 70-6R5, *[Advance Income Tax Rulings](https://www.canada.ca/E/pub/tp/ic70-6r5/README.html)*, May 17, 2002.
+
+2 Information Circular 01-1, *[Third Party Civil Penalties](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic01-1.html)*, September 18, 2001.
+
+3 *The Queen v. Lenester Sales Ltd. et al*, 2004 DTC 6461 (FCA); affirming *Lenester Sales Ltd. et al v. The Queen*, 2003 DTC 997 (TCC).
+
+4 *9044-2807* *Québec Inc. v. The Queen*, 2004 DTC 6141 (FCA).
+
+5 *Silicon Graphics Limited* at paragraph 67.
+
+6 [Income Tax Technical News No. 25](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-25.html) (October 30, 2002), Question 4.
+
+7 *Mimetix Pharmaceuticals Inc. v. The Queen*, 2003 DTC 5194 (FCA); affirming 2003 DTC 1026 (TCC). In that case, the Tax Court cited paragraphs 21 and 23 of IT-64R4 and considered a number of factors, including day-to-day operational control and the existence of a substantial debt.
+
+8 *Rosario Poirier Inc. v.* *The Queen*, 2002 DTC 1940 (TCC).
+
+9 Supra note 4, at paragraph 24.
+
+10 Interpretation Bulletin IT-64R4 (Consolidated), *[Corporations: Association and Control](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it64r4-consolid.html)*.
+
+11 Canada, Department of Finance, *Explanatory Notes Relating to Income Tax* (Ottawa: Department of Finance, March 2001), clause 73.
+
+12 Income Tax Technical News No. 31, June 23, 2004, as updated by [Income Tax Technical News No. 31R](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-31r2.html), November 24, 2004.
+
+13 Interpretation Bulletin IT-432R2, *[Benefits Conferred on Shareholders](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it432r2.html)*, February 10, 1995.
+
+14 *Lloyd Youngman v. The Queen*, 90 DTC 6322, (1990) 2 C.T.C. 10.
+
+15 *The Queen v. Potash Corporation of Saskatchewan Inc.*, 2004 DTC 6002 (FCA).
+
+16 *Ellis Vision Incorporated v. The Queen*, 2004 DTC 2024 (TCC).

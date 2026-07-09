@@ -1,0 +1,249 @@
+Title: ARCHIVED - Capital Cost Allowance – Leasehold Interests
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it464r/archived-capital-cost-allowance-leasehold-interests.html
+Corpus path: corpus/cra/forms-publications/publications/it464r/archived-capital-cost-allowance-leasehold-interests.md
+Document type: publication
+Last modified: 2019-04-26
+
+# ARCHIVED - Capital Cost Allowance – Leasehold Interests
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-464R**
+
+DATE: October 25, 1985
+
+SUBJECT: INCOME TAX ACT**Capital Cost Allowance  Leasehold Interests**
+
+REFERENCE: Paragraph 20(1)(*a*) and subsections 13(5.1) and 20(16) (also subsections 1100(2.1), 1102(4) and (5) and paragraph 1100(1)(*b*) and Schedule III of the *Income Tax Regulations*)
+
+### NoticeBulletins do not have the force of law
+
+This document is also available for [download in other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it464r.html).
+
+## Contents
+
+- [*Application*](#P14_566)
+
+- [*Discussion and Interpretation*](#P16_695)
+
+    - [General](#P17_724) (¶s 1-2)
+
+    - [Acquisition of a Leasehold Interest](#P31_3012) (¶s 3-4)
+
+    - [Capital Cost of a Leasehold Interest](#P38_4003) (¶s 5-8)
+
+    - [Disposition of a Leasehold Interest](#P49_5586) (¶s 9-11)
+
+    - [CCA Computed Under Schedule III](#P61_7641) (¶s 12-19)
+
+    - [Buildings or Structures](#P76_14618) (¶s 20-22)
+
+    - [Appendix I](#P92_17066)
+
+## Application
+
+This bulletins replaces and cancels IT-464 dated December 8, 1980.
+
+## Discussion and Interpretation
+
+## General
+
+**¶ 1.** Subject to paragraphs 1100(2.1)(*f*) (see 2 below) and 1100(2.2)(*i*) (see the [current version of IT-285](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plans-folio-4-capital-cost-allowance/income-tax-folio-s3-f4-c1-general-discussion-capital-cost-allowance.html) [1](#P19_835)), paragraph 1100(1)(*b*) of the Regulations provides that a taxpayer may claim in a taxation year an amount of capital cost allowance in respect of properties in Class 13 of Schedule II that does not exceed the aggregate of
+
+(a) 50% of the amount calculated in accordance with Schedule III where the capital costs of the properties were incurred in the particular taxation year and after November 12, 1981, and
+
+(b) the amount calculated in accordance with Schedule III (see [12](#12) below) in all other cases.
+
+The property included in class 13 is property that is a leasehold interest except
+
+(c) an interest in minerals, petroleum, natural gas, other related hydrocarbons or timber and property relating thereto or in respect of a right to explore for, drill for, take or remove minerals, petroleum, natural gas, other related hydrocarbons or timber,
+
+(d) that part of the leasehold interest that is included in another class by reason of subsection 1102(5) of the Regulations (see [20](#20) below), or
+
+(e) a property that is included in class 23.
+
+**¶ 2.** The 50% rule in 1(a) above is not applicable to a leasehold interest the capital cost of which was acquired or incurred after November 12, 1981 and before 1983 if any of the following conditions apply:
+
+(a) The taxpayer was obligated to acquire the leasehold interest under terms of an agreement in writing entered into before November 13, 1981.
+
+(b) The taxpayer or a non-arm's length person commenced the construction, manufacture or production of leasehold improvements before November 13, 1981.
+
+(c) The taxpayer or a non-arm's length person had made arrangements evidenced in writing for the construction, manufacture or production of leasehold improvements that were substantially advanced before November 13, 1981 and the construction, manufacture or production commenced before June 1, 1982.
+
+(d) The taxpayer was obligated to acquire the leasehold interest under the terms of an agreement in writing entered into before June 1, 1982 where arrangements, evidenced in writing, for leasing the property or the acquisition of leasehold improvements (as the case may be) were substantially advanced before November 13, 1981.
+
+## Acquisition of a Leasehold Interest
+
+**¶ 3.** A leasehold interest is the interest of a tenant in any leased tangible property. A tenant who leases property acquires a leasehold interest in that property regardless of whether or not any capital cost is incurred in respect of that interest. However, a depreciable property is not considered to have been acquired until a capital cost has been incurred in respect of that property. It is necessary to determine with regard to certain apparent leasing agreements, whether these agreements are in substance leasing agreements or agreements either for the purchase of the property or for loans. [2](#P33_3645)
+
+**¶ 4.** A tenant who has acquired
+
+(a) an assignment of a leased property or a part of a leased property, or
+
+(b) a sublease on a leased property,
+
+is considered to have acquired a leasehold interest.
+
+## Capital Cost of a Leasehold Interest
+
+**¶ 5.** The capital cost of a leasehold interest of class 13 property includes
+
+(a) an amount that a tenant expends in respect of improvements or alterations to a leased property that are capital in nature, other than improvements or alterations that are included as a building or structure pursuant to subsection 1102(5) (see [20](#20) below), and
+
+(b) an amount that a tenant expends to obtain or extend a lease or sublease or pays to the landlord to permit the sublease of the property.
+
+**¶ 6.** Certain amounts paid by a tenant in respect of a lease are not considered to form part of the capital cost of a leasehold interest. Examples of these are as follows:
+
+(a) an amount paid by a tenant to cancel a lease (see the [current version of IT-359](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it359r2.html) [3](#P44_4763)), and
+
+(b) an amount paid by a tenant in lieu of rent or as a prepayment of rent (see the [current version of IT-261](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it261r.html) [4](#P46_4911)).
+
+**¶ 7.** A leasehold interest does not include the cost of alterations or improvements made by the landlord of a property at the request of the tenant. Such costs are either expenses of the landlord or subject to capital cost allowance depending on whether they constitute a current expense or a capital expenditure.
+
+**¶ 8.** When a tenant makes improvements and alterations to leased property and subsequently abandons them, they are not considered to have been acquired by the landlord as a gift, bequest or inheritance under paragraph 69(1)(*c*). The landlord is, therefore, not entitled to claim capital cost allowance in respect of such property.
+
+## Disposition of a Leasehold Interest
+
+**¶ 9.** The time of disposition of a leasehold interest by a tenant includes
+
+(a) the time of expiration of a lease if it is not renewed, except where the taxpayer continues to occupy the premises on a periodic tenancy or other continuing basis,
+
+(b) the time of cancellation of a lease if it is prior to the expiration date,
+
+(c) the time of an assignment by the tenant of a lease but not including the subletting of a leased property (the subletting of a leased property is considered to be a partial disposition of a lease), and
+
+(d) the time of a conversion of a leasehold interest to a freehold interest.
+
+**¶ 10.** Where a leasehold interest is disposed of and proceeds of disposition, if any, are less than the undepreciated capital cost at the end of the year in class 13, a terminal loss under subsection 20(16) is deductible provided the lessee disposes of all leasehold interests in class 13 by the end of that year and does not acquire depreciable property that is a leasehold interest before the end of the year. [5](#P56_6623)
+
+**¶ 11.** Where a tenant, who has a leasehold interest in a property, acquires ownership of that property after March 31, 1977, subsection 13(5.1) provides that
+
+(a) the leasehold interest is deemed to have been disposed of by the taxpayer at the time of the acquisition of the property for proceeds equal to the capital cost of the leasehold interest minus the capital cost allowance allowed in respect thereof before that time,
+
+(b) the property acquired is deemed to be depreciable property of a prescribed class of the taxpayer acquired at that time, and to the cost of that property is to be added the capital cost of the leasehold interest immediately before the deemed disposition of it, and
+
+(c) the aggregate capital cost allowance allowed to the taxpayer before that disposition in respect of the leasehold interest is to be added to the capital cost allowance allowed to the taxpayer before that time in respect of the class to which the acquired property belongs.
+
+## CCA Computed Under Schedule III
+
+**¶ 12.** Section 2 of Schedule III requires that a calculation of one or more "prorated portions" be made (see 13 below) in respect of each leasehold interest of a taxpayer. Section 1 of Schedule III limits the capital cost allowance for a taxation year to the lessor of
+
+(a) the sum of the prorated portions calculated in accordance with the rules and limitations described in 13 to 17 below, and
+
+(b) the undepreciated capital cost of the whole of class 13 before any allowance for that year is deducted.
+
+To reflect the limitation imposed by subparagraph 1100(1)(*b*)(i), (a) above should be read as 50% of the amount otherwise calculated with respect to an expenditure incurred after November 12, 1981 (if not subject to the transitional rules described in 2 above nor the rule contained in paragraph 1100(2.2)(*i*) of the Regulations) for the year in which the expenditure is incurred.
+
+**¶ 13.** Section 2 of Schedule III provides that for purposes of determining the "prorated portion", the capital cost incurred by the taxpayer in a particular taxation year in respect of any particular leasehold interest owned by the taxpayer is treated separately and each such segment of capital cost is referred to in this bulletin as a "unit of capital cost". A "prorated portion" in respect of a unit of capital cost is determined as the lessor of
+
+(a) one-fifth of the unit of capital cost, and
+
+(b) the amount determined by dividing the unit of capital cost by the number of 12-month periods (not exceeding 40 such periods) falling within the period commencing with the beginning of the particular taxation year in which the capital cost was incurred and ending with the day the lease is to terminate.
+
+Although section 3 sets out further rules affecting the computation of prorated portions as discussed in 14 to 17 below, the actual computation of the prorated portion of a particular unit of capital cost is made only once. Capital costs incurred in a subsequent taxation year in respect of the same leasehold interest will constitute another unit of capital cost requiring computation of another prorated portion. Similarly, a separate computation is required for capital costs incurred in the same taxation year for each leasehold interest.
+
+**¶ 14.** By reason of paragraph 3(*a*) of Schedule III and for the purposes of section 2 only, capital costs incurred in respect of a particular leasehold interest in a taxation year preceding the one in which the interest was acquired are deemed to have been incurred in the latter year and will be included in the same unit of capital cost as any costs actually incurred in that latter year in respect of that interest. "The taxation year in which the interest was acquired" should be read as referring to the taxation year in which the taxpayer entered into possession of the property in accordance with the terms of the lease but not, for example, to a preceding year in which the taxpayer acquired an option to lease the property or was allowed to do work on it prior to commencement of the actual leasehold period. The tenant of a property rented and occupied without the benefit of a written lease who makes capital expenditures on the property is regarded as having a leasehold interest in that property on an oral basis; proration of those expenditures therefore will be made over 5 years.
+
+**¶ 15.** For the purpose of computing the number of 12-month periods referred to in paragraph 2(*b*) of Schedule III, it is provided in paragraph 3(*b*) of Schedule III that where the tenant has under the lease a right to renew the lease, there shall be taken into account not only the term of the lease itself but also the term of the first possible renewal thereof. Paragraph 2(*b*), however, limits the total number of 12-month periods that will be used to 40. In the application of paragraph 3(*b*), it is necessary to determine that the terms for the possible renewal period are established in the lease and that the tenant does not have merely the right to negotiate the lease. If the latter is the case, it is considered that a new lease is to be negotiated rather than that the existing lease is to be renewed, and any period specified therein will not be taken into account for the purposes of paragraph 2(*b*). Uncertainty as to the precise dollar amount of future rentals is not in itself cause to ignore the initial lease renewal term providing the lease contains a firm commitment by the landlord to renew at a future "fair market value" rent which is to be established between the parties.
+
+**¶ 16.** Paragraph 3(*c*) of Schedule III assures that the total deductions allowable in respect of a unit of capital cost will never exceed the total capital cost of that unit. Paragraph 3(*d*) contains a similar limitation regarding the capital costs incurred in respect of an entire leasehold interest, which makes it unnecessary to attempt to allocate the proceeds of disposition of part or all of a leasehold interest between two or more units of capital cost. In the case of paragraph 3(*d*), where at the end of a taxation year the aggregate of the allowances claimed in previous taxation years in respect of a particular leasehold interest and any proceeds of disposition from that interest equals or exceeds the capital cost as of that time of that interest, the prorated portion is for all subsequent years deemed to be nil. This does not prohibit allowances for capital costs incurred in a subsequent taxation year in respect of that same interest. It should be noted that neither paragraph contains a provision to deny claims in respect of a leasehold interest that has expired or has been otherwise disposed of. Thus, if the rules of paragraph (*d*) or (*e*) (see 17 below) are not applicable, the 50% that a taxpayer was unable to claim in the first year in respect of a unit of capital cost (see 12 above) may be claimed in the year following the end of the amortization period determined under 13 above, even though the related leasehold interest does not exist at that time.
+
+**¶ 17.** Paragraph 3(*e*) of Schedule III provides that where the undepreciated capital cost of the whole of class 13 is nil at the end of a taxation year, no further allowances will be given for capital costs incurred up to that time. Reduction of the undepreciated capital cost to nil during a taxation year will not have this effect, however, if capital cost in respect of either an existing or a new leasehold interest are incurred after that time before the end of the year in an amount sufficient to re-establish a debit balance in the class.
+
+**¶ 18.** Except when separate capital cost allowance classes are prescribed pursuant to section 1101 of the Regulations, all leasehold interests of a taxpayer that fall within class 13 form a single class of property, despite the separate calculations required by Schedule III in respect of each leasehold interest.
+
+**¶ 19.** [Appendix I](#P92_17066) provides an example of the computation of capital cost allowance of class 13 property under Schedule III.
+
+## Buildings or Structures
+
+**¶ 20.** The capital cost of a leasehold interest that qualifies for inclusion in class 13 does not include that part of a leasehold interest that is included in another class by reason of subsection 1102(5). This subsection provides that a reference to a property that is a "building or structure" in Schedule II of the Regulations includes a leasehold interest to the extent that the interest
+
+(a) was acquired by reason of the fact that the taxpayer
+
+(i) erected a building or structure on leased land,
+
+(ii) made an addition to a leased building or structure, or
+
+(iii) made alterations to a leased building or structure that substantially changed the nature of the property, or
+
+(b) was acquired after 1975 or, in the case of any property of class 31 or 32, after November 18, 1974, from a former lessee and that lessee or a predecessor lessee had acquired the interest by
+
+(i) erecting a building or structure on leased land,
+
+(ii) making an addition to a leased building or structure, or
+
+(iii) making alterations to a leased building or structure that substantially changed the nature of the property.
+
+The net effect of this requirement is that property described in subsection 1102(5) is included in another class of Schedule II, usually class 3.
+
+**¶ 21.** It is difficult to provide general rules as to what alterations to a leased building or structure have "substantially changed the nature of the property" and this is really a question of fact that depends on the degree and the extent of the alterations. The following may serve as a guide:
+
+(a) the conversion by a tenant of one room into an office, or of one room into two rooms, is not such a change;
+
+(b) a new store front, in itself, is not such a change; but
+
+(c) the conversion by a tenant of a house into a duplex, apartment, offices or stores is such a change.
+
+**¶ 22.** As a result of the requirements of subsection 1102(5) of the Regulations, it may be necessary in some situations to divide the capital cost of a leasehold interest into more than one prescribed class. For example, where a taxpayer expends an amount to obtain a leasehold interest in land and constructs a building that falls into class 3, the capital cost of acquiring the lease will be included in class 13 and the capital cost of the building will be included in class 3. An allocation of the proceeds of disposition, if any, of such a leasehold interest will also be necessary and this should be done on a reasonable basis.
+
+## Appendix I
+
+### Illustration of the Application of Schedule III
+
+As an illustration of the application of Schedule III, assume that a taxpayer, whose business taxation year is the calendar year, has had no leasehold interests, but in 1978 agrees to rent two adjoining vacant stores (X and Y) for use in the business, this being leasehold interest "A". The lease runs for 5 years from January 1, 1979 and contains rights to renew, on stated terms, for two further 5-year terms. In December 1978, the taxpayer is allowed to make certain alterations, costing $4,000, to store X, and immediately after getting possession on January 1, 1979, makes additional alterations to it at a cost of $11,000. In 1979, also another store is rented (leasehold interest "B") for a term of 4 years from October 1 and at once alterations costing $6,000 are made. In 1980, the taxpayer expends $3,600 on alterations to store Y. In 1981, the taxpayer no longer needs store Y and is able to sell the part of leasehold interest "A" relating to it for $2,900. In 1983 the taxpayer rents another store (leasehold interest "C") for a 5-year term and makes alterations in that year costing $10,000. Also, in 1983, the taxpayer disposes of the remainder of leasehold interest "A" for $9,400. Again in 1983, the taxpayer pays $1,800 to extend lease B for a further 6 years and in 1984 makes alterations costing $7,500.
+
+## (See Printed Copy for C.S. 22 on Leasehold Interest A, B, and C)
+
+### Footnotes:
+
+(A) By reason of paragraph 3(*a*) of Schedule III, the 1978 expenditure is deemed to have been made in 1979 and the 1979 unit of capital cost for leasehold interest "A" therefore is $15,000.
+
+(B) Because of paragraph 3(*b*), the number of 12-month periods to be used for the purposes of section 2 is 10 (original lease plus first succeeding renewal) and the prorated portion for each year will be $1,500.
+
+(C) The 1980 unit of capital cost for store Y ($3,600) must be apportioned over only 9 years, since this is the number of 12-month periods still remaining in the lease and first renewal when those costs were incurred; and the prorated portion thus will be $400.
+
+(D) Since there is an undepreciated capital cost for leasehold interest "A", the taxpayer remains entitled to an annual allowance of $400 in respect of the unit of capital cost relating to store Y.
+
+(E) The allowance for leasehold interest "C" " is restricted to $1,000 and the extension to leasehold interest "B" to $150 by virtue of Regulation 1100(1)(b)(i), being 1/2 of the $2,000 and $300 otherwise deductible under Schedule III.
+
+(F) Paragraph 3(*d*) prohibits any allowances in respect of this interest in the 1984 and subsequent taxation years since no balance remains for the interest.
+
+(G) The 1984 allowance for the improvements to leasehold interest "B" is restricted to 50% of the prorated amount of $1,500.
+
+(H) Although leasehold interest "C" as expired by the end of 1988 an additional $1,000 is available in 1988 being the amount denied by the application of the 50% rule in 1983.
+
+(I) In 1988 the balance in the class before taking CCA for that year is less than the CCA amounts available for leasehold interests "B" and "C". In these circumstances, paragraph 1(*b*) of Schedule III restricts the allowance for the year to the balance in the class. Finally, as that allowance reduces the undepreciated capital cost of the class to nil, no further allowances can be made in subsequent years, by reasons of paragraph 3(*e*), in respect of any of the capital expenditures referred to in the foregoing.
+
+### Notice—Bulletins do not have the force of law
+
+At the Canada Customs and Revenue Agency (CCRA), we issue income tax interpretation bulletins (ITs) in order to provide technical interpretations and positions regarding certain provisions contained in income tax law. Due to their technical nature, ITs are used primarily by our staff, tax specialists, and other individuals who have an interest in tax matters. For those readers who prefer a less technical explanation of the law, we offer other publications, such as tax guides and pamphlets.
+
+While the comments in a particular paragraph in an IT may relate to provisions of the law in force at the time they were made, such comments are not a substitute for the law. The reader should, therefore, consider such comments in light of the relevant provisions of the law in force for the particular taxation year being considered, taking into account the effect of any relevant amendments to those provisions or relevant court decisions occurring after the date on which the comments were made.
+
+Subject to the above, an interpretation or position contained in an IT generally applies as of the date on which it was published, unless otherwise specified. If there is a subsequent change in that interpretation or position and the change is beneficial to taxpayers, it is usually effective for future assessments and reassessments. If, on the other hand, the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date on which the change is published.
+
+Most of our publications are available on our [Web site](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+***If you have any comments regarding matters discussed in an IT, please send them to:***
+
+***Manager, Technical Publications and Projects Section Income Tax Rulings Directorate Policy and Legislation Branch Canada Customs and Revenue Agency Ottawa ON K1A 0L5***
+
+***or by email at the following address: [bulletins@ccra.gc.ca](mailto:bulletins@cra-arc.gc.ca)***
+
+**1** Corrected on June 9, 2003[Back](#P7_248)
+
+**2** Reference to IT-233R has been deleted since this bulletin was cancelled by the *Index to Income Tax Interpretation Bulletins and Technical News* dated December 31, 2001.[Back](#P7_246)
+
+**3** Corrected on June 9, 2003[Back](#P7_244)
+
+**4** Corrected on June 9, 2003[Back](#P7_242)
+
+**5** Modified by Correction Sheet CS 24 dated April 20, 2001[Back](#P7_240)

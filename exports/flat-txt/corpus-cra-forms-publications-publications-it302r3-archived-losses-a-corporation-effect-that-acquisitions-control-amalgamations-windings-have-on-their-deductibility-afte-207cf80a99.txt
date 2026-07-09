@@ -1,0 +1,439 @@
+Title: ARCHIVED - Losses of a Corporation . The Effect that Acquisitions of Control, Amalgamations, and Windings-up have on Their Deductibility . After January 15, 1987
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it302r3/archived-losses-a-corporation-effect-that-acquisitions-control-amalgamations-windings-have-on-their-deductibility-after-january-15-1987.html
+Corpus path: corpus/cra/forms-publications/publications/it302r3/archived-losses-a-corporation-effect-that-acquisitions-control-amalgamations-windings-have-on-their-deductibility-after-january-15-1987.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Losses of a Corporation . The Effect that Acquisitions of Control, Amalgamations, and Windings-up have on Their Deductibility . After January 15, 1987
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-302R3**
+
+DATE: February 28, 1994
+
+SUBJECT: INCOME TAX ACT**Losses of a Corporation . The Effect that Acquisitions of Control, Amalgamations, and Windings-up have on Their Deductibility . After January 15, 1987**
+
+REFERENCE: Subsections 87(2.1), 88(1.1) and (1.2), 111(4) to (5.5) and 249(4) (also section 110.5, subsections 13(24), 31(1), 87(1), 88(1.3), 96(2.1), 111(1) and (3), 149(10) and 256(7), paragraphs 12(1)(i), 13(7)(f), 20(1)(b), (l) and (p), 110(1)(k), 111(8)(a), (b) and (b.1) and 251(5)(b) and Part IV of the Act and subsection 1100(2.2) of the Regulations)
+
+**APPLICATION**
+
+This bulletin applies for amalgamations, windings-up and acquisitions of control occurring after January 15, 1987, other than acquisitions of control occurring at a date before 1988 where the persons acquiring the control were obliged on January 15, 1987 to acquire the control under the terms of a written agreement entered into on or before that date. For acquisitions of control, amalgamations or windings-up that occurred before January 16, 1987, see IT-302R2 dated May 23, 1986 and the Special Release to that bulletin dated February 28, 1994.
+
+**SUMMARY**
+
+This bulletin discusses the effect that an acquisition of control has on the ability of a corporation to utilize various losses that had accrued or been realized by the corporation up to the point of the acquisition of control. When control of a corporation has been acquired, the corporation is deemed to have an immediate taxation year end. Generally, losses incurred (or accrued) before an acquisition of control cannot be deducted for taxation years ending after the acquisition of control. Similarly, losses incurred after an acquisition of control cannot be carried back and deducted in a taxation year ending before control was acquired. However, in certain circumstances, non-capital losses or farm losses incurred before an acquisition of control may be deducted in taxation years ending after the acquisition of control and such losses incurred after an acquisition of control may be deducted in taxation years ending before an acquisition of control.
+
+The conditions under which these losses may be deducted are discussed. The bulletin also discusses the flow-through of losses from predecessor corporations to the new corporation in an amalgamation and from a subsidiary to a parent in a winding-up. The effect of an acquisition of control on the losses of a predecessor corporation or subsidiary corporation is similar to the rules discussed above.
+
+The examples used in this bulletin are intended to illustrate the relevant provisions referred to in the Reference section above and do not preclude the application of the General Anti-Avoidance Rule in section 245. Reference should be made to Information Circular 88-2 dated October 21, 1988 and any supplements thereto.
+
+The subject matter of this bulletin is arranged under the following headings:
+
+- [ACQUISITION OF CONTROL](#1)
+
+    - [Introduction](#2)
+
+    - [Meaning of Control of a Corporation](#3)
+
+    - [Control by a Group of Persons](#4)
+
+    - [Acting in Concert](#5)
+
+    - [Acquisitions and Disposals of a Minority Interest](#6)
+
+    - [Where Control of a Corporation is Deemed Not to Have Been Acquired](#7)
+
+    - [Acquisitions of Control Related to Changes in Executors, Trustees, etc. of Estates](#8)
+
+    - [Taxation Year End Before Acquisition of Control](#9)
+
+- [RESTRICTIONS ON LOSS UTILIZATION BY A CORPORATION FOLLOWING AN ACQUISITION OF CONTROL](#10)
+
+    - [Net Capital Losses](#11)
+
+    - [Non-Capital Losses and Farm Losses - Streaming Rules](#12)
+
+    - [Accrued Losses on Capital Property](#13)
+
+    - [Accrued Terminal Losses](#14)
+
+    - [Accrued Losses With Respect to Cumulative Eligible Capital](#15)
+
+    - [Reserves For Doubtful Accounts](#16)
+
+    - [Change in Tax Status](#17)
+
+    - [Accrued Losses in Inventory](#18)
+
+    - [Anti-avoidance Rules](#19)
+
+- [LOSS UTILIZATION FOLLOWING AN AMALGAMATION](#20)
+
+    - [LOSS UTILIZATION FOLLOWING THE WINDING-UP OF A 90% OWNED SUBSIDIARY - Non-Capital Losses, Restricted Farm Losses, Farm Losses and Limited Partnership Losses](#21)
+
+    - [Acquisition of Control](#22)
+
+    - [Net Capital Losses](#23)
+
+    - [Acquisition of Control](#24)
+
+    - [Where Parent Formed After Subsidiary's Loss Year](#25)
+
+- [EXAMPLES - Appendix](#26)
+
+    - [Discussion and Interpretation](#27)
+
+### ACQUISITION OF CONTROL
+
+**INTRODUCTION**
+
+1. A corporation's ability to deduct previously unutilized losses is restricted when control of the corporation has been acquired by a person or group of persons. Usually, it is clear when an acquisition of control has taken place. However, there are situations when it is not clear. Paragraphs 2 to 8 below explain the concept of control and acquisitions of control and examples are provided in the appendix.
+
+**MEANING OF CONTROL OF A CORPORATION** 2. The word control is not defined in the Act. In MNR v. Dworkin Furs (Pembroke) Ltd., 67 DTC 5035. (1967) CTC 50, the Supreme Court of Canada adopted the definition of control set out by the Exchequer Court in Buckerfield's Ltd. v. MNR, 64 DTC 5301, (1964) CTC 504. In Buckerfield's, the Exchequer Court stated that the word control contemplates the right of control that rests in ownership of such a number of shares as carries with it the right to a majority of the votes in the election of the board of directors. In Vineland Quarries and Crushed Stone Ltd. v. MNR, 66 DTC 5092, (1966) CTC 69, it was established that where a person controls one corporation, that person is considered to control any corporation that is controlled by the first corporation (indirect control).
+
+**CONTROL BY A GROUP OF PERSONS**
+
+3. The notion of group control has different meanings in different areas of the Act. For the purpose of the associated corporation rules in section 256, a group of persons is interpreted in its broadest sense in that it is simply two or more persons who own shares in the same corporation (paragraph 256(1.2)(a)). The meaning of group of persons is more limited in the context of the acquisition of control rules discussed in this bulletin. A group of persons who own the majority of the voting shares of a corporation will be considered as having collectively acquired control of the corporation where there is an agreement amongst them to vote their shares jointly, when there is evidence that they act in concert to control the corporation, or when there is evidence of their intention to act in concert to control the corporation (see 4-6 below). When dealing with groups it is always a question of fact as to whether any group of persons who own the majority of the voting power in a corporation is in control of the corporation. However, where a corporation is controlled by a single person, this precludes a group from also controlling the corporation (Southside Car Market Ltd. v. The Queen, 82 DTC 6179, (1982) CTC 214 (FCTD)).
+
+**ACTING IN CONCERT**
+
+4. A group of persons could be regarded as acting in concert when the group acts with considerable interdependence in transactions involving a common purpose. A predetermined agreement which sets out how the group is to act in certain situations would normally constitute acting in concert. In widely held corporations, the fact that a majority of shareholders vote collectively to take some action does not by itself indicate that the group of shareholders is acting in concert. However, in closely held corporations the fact that shareholders jointly adopt specific mutually advantageous measures is an important indicator of actions in concert.
+
+5. In Vina Rug (Canada) Ltd. v. MNR, 68 DTC 5021, (1968) CTC 1 (SCC), some persons in a group of persons were related and others had been business associates for many years. This represented a common link which was sufficient to enable them to exercise control. Similarly, in Express Cable T.V. v. MNR 82 DTC 1431, (1982) CTC 2447, the Tax Review Board stated that the existence of voting trusts, community of interest and other common links between shareholders were important in determining which group controlled two corporations.
+
+6. The purpose of seeking a link or common interest within a group of persons is to ensure that the acquisition of control by a given group of persons is not fortuitous or coincidental, but the outcome of an action or an event organized by the group. Seeking a tax advantage arising from the accumulated losses of a corporation may well provide a link or a common interest among the members of a given group. For a further discussion of acting in concert see the current version of IT-419, Meaning of Arm's Length.
+
+**ACQUISITIONS AND DISPOSALS OF A MINORITY INTEREST**
+
+7. A person may acquire a minority interest in a loss corporation by purchasing shares from one or more shareholders of the corporation and, usually, an acquisition of control will not occur. However, in cases involving the acquisition of a minority interest, all the circumstances must be examined. For example, the type of corporation (private, public, closely held), who previously controlled the corporation, the number or percentage of shares acquired, the method of acquisition (purchase of existing shares, transfer upon death, the issuing of treasury shares, purchase pursuant to a purchase/sale agreement, etc.), communities of interest, actions in concert and so on would be examined to determine whether control has been acquired. When shares are acquired, even by a minority shareholder, following negotiations involving the controlling shareholder or shareholders, it may sometimes be in order to presume that a group or a new group has acquired control of the corporation. For example, in the case of a small, private corporation with substantial losses, it would be unusual for a person to acquire a minority interest without obtaining certain guarantees from the majority shareholders and without acting pursuant to a prearranged plan (which suggests a common interest and action in concert). It is therefore natural to assume that the arrival of this new shareholder will trigger an acquisition of control by a new group of which he or she is part.
+
+Similarly, in the case of public corporations or when the group of shareholders is large, it may be in order to presume that control has not been acquired unless the new shareholder and the former controlling group clearly act in concert.
+
+8. The same situation prevails when several shareholders act in concert to control a corporation and one of them sells his or her shares to the others. However, before concluding that a group acted in concert and that control has been acquired by the new smaller group, all the circumstances will be examined, including the number and the percentage of shares traded. The objective of the acquisition of control rules is to limit the transfer of losses in an acquisition of control situation. When the group of shareholders diminishes and includes only members of an initially larger group, there generally should be no acquisition of control for the purposes of the rules governing transfer of losses.
+
+**WHERE CONTROL OF A CORPORATION IS DEEMED NOT TO HAVE BEEN ACQUIRED**
+
+9. By virtue of paragraph 256(7)(a), a person (or persons) shall be deemed not to have acquired control of a particular corporation (including after 1989, any corporation controlled by the particular corporation) by reason of the acquisition of shares (or after 1989, the redemption or cancellation of shares of the particular corporation - see below), if that person (or persons):
+
+(a) was, immediately before the share redemption, acquisition, or cancellation, related to the particular corporation otherwise than by reason of a right referred to in paragraph 251(5)(b),
+
+(b) was an executor, administrator or trustee of an estate who acquired the shares by virtue of the death of any other person,
+
+(c) was related to a deceased person and acquired the shares by way of a distribution from an estate arising on the death of that person, or
+
+(d) was a corporation arising from the amalgamation of two or more predecessor corporations each of which was, immediately before the amalgamation, related (otherwise than by virtue of a right referred to in paragraph 251(5)(b)) to the particular corporation.
+
+As discussed above, the provisions of paragraph 256(7)(a) could apply when there is an acquisition of control of a particular corporation by reason of the redemption or cancellation of its shares. This generally applies to redemptions or cancellations occurring after 1989, however, if a person has elected by notifying the Minister in writing on or before December 10, 1993, it would apply to redemptions or cancellations after July 13, 1990, in respect of that person.
+
+Consider the following example:
+
+Mr. B Mr. A | | | 50% 50% | -------------------------------- | OPCO | | --------------------------------
+
+Mr. A and Mr. B are brothers and each owns 50% of the voting shares of Opco. Opco then redeems Mr. B's shares. Since Mr. A now controls Opco by himself, he has acquired control of the corporation. If the redemption of Mr. B's shares occurs before 1990, paragraph 256(7)(a) will not apply to deem Mr. A not to have acquired control of Opco because Mr. A has not acquired any additional shares in the corporation. If the redemption occurs after 1989, subparagraph 256(7)(a)(i) will apply to deem control of Opco not to have been acquired. This is because Mr. A has acquired control of Opco by reason of the redemption of shares and immediately before the share redemption Mr. A was related to Opco by virtue of subparagraph 251(2)(b)(ii).
+
+The effect on control of some changes in the shareholdings within corporate groups is illustrated by several examples in the appendix.
+
+Note: Draft legislation contained in the Amendments to the Income Tax Act and Related Statutes released by the Minister of Finance on August 30, 1993, proposes to amend paragraph 256(7)(a). Proposed subparagraph 256(7)(a)(i) provides that, in certain circumstances, the acquisition of a particular corporation's shares will not, by itself, result in an acquisition of control of that or any other corporation. Those circumstances include the acquisition of shares by any person from a related person, the acquisition of shares, from any person, by a person related to the particular corporation, the acquisition of shares by an estate and the acquisition of shares by any person from the estate of a related person. Proposed subparagraph 256(7)(a)(ii) provides that control of a particular corporation will not be considered to have been acquired because of the redemption or cancellation of shares of that corporation or another corporation controlling it, provided the corporation is controlled, after the redemption or cancellation, by a person or group related to the corporation before that event. If enacted as proposed, these amendments will apply to acquisitions, redemptions and cancellations occurring after 1992.
+
+**ACQUISITIONS OF CONTROL RELATED TO CHANGES IN EXECUTORS, TRUSTEES, ETC. OF ESTATES**
+
+10. Where an executor, administrator or trustee of an estate controls a corporation, it is a question of fact as to whether there is an acquisition of control of the corporation when there is a change of the executor, administrator or trustee. For purposes of paragraph 256(7)(a), where the executor, administrator or trustee is replaced as a result of that person's death or inability to fulfil his or her functions, the control of the corporation will be regarded as remaining unchanged. However, a change in executor, administrator or trustee together with a substantial change in the ownership of the beneficial interest in the estate will be considered an acquisition of control of the corporation.
+
+**TAXATION YEAR END BEFORE ACQUISITION OF CONTROL**
+
+11. Generally, the rules in subsection 249(4) apply where control of a corporation is acquired by a person or a group of persons. However, these rules do not apply if the corporation is a foreign affiliate that does not carry on business in Canada and control was acquired after July 13, 1990.
+
+Subsection 249(4) provides that the taxation year of the corporation is deemed to end immediately before the time that control is acquired and a new taxation year is deemed to begin at that time. This will give rise to the normal consequences of a taxation year-end including the filing of the corporation's tax return and payment of taxes due. Starting with the new taxation year, the corporation may adopt a new fiscal period without seeking the concurrence of the Minister. Where the acquisition of control occurs not more than 7 days after the end of the corporation's immediately preceding taxation year, however, and that taxation year did not end as a consequence of the acquisition of control of the corporation or of the emigration, bankruptcy or change in the tax-exempt status of the corporation, the corporation may elect in its tax return for that year to extend that preceding taxation year to end immediately before the acquisition of control.
+
+### RESTRICTIONS ON LOSS UTILIZATION BY A CORPORATION FOLLOWING AN ACQUISITION OF CONTROL
+
+**NET CAPITAL LOSSES**
+
+12. Where control of a corporation is acquired by a person or group of persons, the corporation's net capital losses for taxation years ending before control was acquired cannot, by virtue of paragraph 111(4)(a), be carried forward under paragraph 111(1)(b) to any taxation year ending after control was acquired. Similarly, a corporation's net capital losses incurred in a taxation year ending after control was acquired, cannot by virtue of paragraph 111(4)(b) be carried back under paragraph 111(1)(b) to a taxation year ending before control was acquired.
+
+**NON-CAPITAL LOSSES AND FARM LOSSES - STREAMING RULES**
+
+13. Where control of a corporation is acquired by a person or group of persons, the general rule in subsection 111(5) is that no amount in respect of the corporation's non-capital loss or farm loss for a taxation year ending before the acquisition of control is deductible for a taxation year ending after the acquisition of control.
+
+Non-capital losses and farm losses can no longer be carried forward for deduction against taxable capital gains which arise after an acquisition of control. However, paragraph 111(5)(a) permits a corporation, in computing its taxable income for a particular taxation year ending after an acquisition of control, to deduct a non-capital loss or farm loss incurred before the acquisition of control if the particular business which gave rise to the loss ("that business", see 14 below) is carried on by the corporation for profit or with a reasonable expectation of profit throughout the particular year. The amount that may be deducted is the lesser of:
+
+(a) the aggregate of
+
+(i) that portion of its non-capital loss or farm loss for a taxation year ending before the acquisition of control that was incurred in carrying on a business (losses attributed to property and allowable business investment losses expire), and
+
+(ii) where the loss was incurred after the 1987 taxation year and the business was carried on in that year, that portion of the loss that represents the amount that would otherwise have been deductible in computing the corporation's taxable income for the loss year under paragraph 110(1)(k), and
+
+(b) the aggregate of the corporation's income for the particular year from that business and where properties were sold, leased, rented or developed or services rendered in the course of carrying on that business before that time, from any other business substantially all the income of which was derived from the sale, leasing, rental or development, as the case may be, of similar properties or the rendering of similar services (see 14 below for a discussion of "similar").
+
+Paragraph 111(5)(b) provides similar restrictions for the carryback to pre-acquisition years of non-capital losses and farm losses incurred in post-acquisition years.
+
+14. As noted in 13 above, non-capital losses and farm losses may not be carried forward to a post-acquisition of control year, if the loss corporation was not, throughout that post-acquisition year, carrying on "that business". Whether the corporation carried on "that business" is a question of fact. Factors to be considered in determining whether "that business" was being carried on include the following:
+
+(a) location of the business carried on before and after the acquisition of control,
+
+(b) nature of the business,
+
+(c) name of the business,
+
+(d) nature of income-producing assets,
+
+(e) existence of a period or periods of dormancy,
+
+(f) extent to which the original business constituted a substantial portion of the activities of the corporation in the allocation of time and financial resources.
+
+The word similar in the context of subsection 111(5) is generally interpreted as "of the same general nature or character". However, a determination of the similarity of properties sold, leased, rented or developed and services rendered in two or more different businesses for the purposes of paragraph 111(5)(a) or (b) is primarily a question of fact that can only be determined having regard to all the relevant facts and circumstances in each case. For additional comments on determining whether a corporation was carrying on the same business (i.e., "that business"), see the current version of IT-206, Separate Businesses.
+
+15. To illustrate the application of paragraph 111(5)(a), consider the following example:
+
+Corporation B, a manufacturer of electrical appliances, has a December 31 taxation year end and has accumulated non-capital losses of $100,000 to December 31, 19-3. Corporation B sustains losses of $20,000 from business operations for the six months ended June 30, 19-4. On July 1, 19-4 Corporation A acquires control of Corporation B.
+
+**SITUATION X**
+
+Corporation A is a successful and profitable manufacturer of electrical appliances and causes Corporation B to continue the manufacture of its electrical appliances under the efficient and dynamic management of Corporation A. Corporation B realizes a profit of $35,000 for the last six months of 19-4. No part of Corporation B's business is discontinued in the 19-4 and subsequent taxation years.
+
+**SITUATION Y**
+
+Corporation A is also a manufacturer of electrical appliances and on July 1, 19-4 causes Corporation B to commence the manufacture and sale of Corporation A's profitable line of electrical appliances in addition to its own line. Corporation B makes a profit of $25,000 for the last six months of 19-4 and continues that same business throughout its 19-5 and subsequent taxation years.
+
+**SITUATION Z**
+
+Corporation A is a manufacturer of wheeled goods (tricycles, bicycles, wagons, baby carriages, etc.) and in 19-4 causes Corporation B to discontinue the manufacture of electrical appliances, to retool and to commence the manufacture of baby carriages. Corporation B makes a profit of $25,000 in 19-4 from the sale of baby carriages. In each of the three situations Corporation B will have accumulated a non-capital loss of $120,000 in respect of taxation years ending before its control was acquired on July 1, 19-4. In situation X, the income of Corporation B for its taxation years ending after control was acquired on July 1, 19-4 was derived from a business carried on for profit which was the same business which gave rise to the non-capital losses of $120,000 accumulated at June 30, 19-4. In situation Y, the income of Corporation B for those same taxation years was derived from a business carried on for profit, this business was comprised of the same business which was carried on before the time at which control changed and another business which derived all its income from the sale of properties similar to those sold by the same business. Accordingly, paragraph 111(5)(a) applies in either situation X or Y to permit the application, within the limits otherwise provided in subsection 111(1), of Corporation B's non-capital losses of $120,000 to the extent of the profit, if any, realized by it in a taxation year ending after July 1, 19-4. In situation Z, the business which gave rise to Corporation B's losses was discontinued. Accordingly, no part of Corporation B's $120,000 of non-capital losses may be deducted in any taxation year ending after July 1, 19-4.
+
+**ACCRUED LOSSES ON CAPITAL PROPERTY**
+
+16. Where the adjusted cost base of non-depreciable capital property of a corporation exceeds the fair market value of such property immediately before the time that control of the corporation is acquired, such excess is required to be deducted from the adjusted cost base of that property by virtue of paragraph 111(4)(c). The excess is deemed to be a capital loss of the corporation by virtue of paragraph 111(4)(d) for its taxation year deemed to end immediately before the acquisition of control.
+
+17. Paragraph 111(4)(e) allows the corporation, immediately before the acquisition of control, to designate a deemed disposition of any other capital property, including a depreciable property (other than one to which paragraph 111(4)(c), see 16 above, or subsection 111(5.1), see 21 below, would apply). This designation could, for example, be made to generate a capital gain to offset capital losses that cannot be carried forward into the post-acquisition period or to generate a capital dividend to be paid before control of the corporation is acquired by another person or group of persons. The proceeds from the deemed disposition of the property may be any amount designated by the corporation that is neither less than the adjusted cost base of the property nor greater than its fair market value immediately before its deemed disposition.
+
+18. A corporation may designate, in its return of income for the taxation year ending immediately before control was acquired, the particular properties to which the provisions of paragraph 111(4)(e) are to be applied and their proceeds of disposition. The designation may also be made, or an earlier one revised, by prescribed form filed with the Department not more than 90 days after the date of mailing a notice of assessment of tax payable for that year or a notification that no tax is payable for that year.
+
+19. The corporation is generally deemed to reacquire the property (other than certain depreciable property - discussed later in this paragraph) designated for the purposes of paragraph 111(4)(e) at the time control of the corporation was acquired at a cost equal to the designated proceeds of disposition. For purposes of the non-arm's length exception to the half-year capital cost allowance convention in subsection 1100(2.2) of the Regulations, the corporation is considered not to be dealing with itself at arm's length.
+
+If the property designated under paragraph 111(4)(e) was a depreciable property with a capital cost which is less than the designated proceeds of disposition, the capital cost to the corporation of the property (other than a timber resource property) at the time of the reacquisition is limited to the previous capital cost plus 3/4 (refer to the law for the relevant fraction for taxation years commencing prior to 1990) of the excess of the designated proceeds of disposition over that capital cost by virtue of paragraph 13(7)(f).
+
+For acquisitions of control occurring after July 13, 1990, where the designated property is depreciable property with a capital cost in excess of the designated proceeds of disposition, the original cost is to be maintained and the difference between that cost and the proceeds of disposition is to be treated as having been previously allowed as capital cost allowance.
+
+20. A debt obligation (payable) of a corporation (i.e. a debtor) is not property within the meaning of subsection 248(1). Consequently, paragraph 111(4)(d) would not apply to an unrealized foreign exchange loss on a debt obligation of a corporation when there has been an acquisition of control of the corporation. Similarly, a designation under paragraph 111(4)(e) would not be available for an unrealized foreign exchange gain on such a debt obligation.
+
+**ACCRUED TERMINAL LOSSES**
+
+21. Where control of a corporation is acquired by a person or group of persons, subsection 111(5.1) generally provides that there shall be deducted in computing the corporation's income for the taxation year ending immediately before the acquisition of control the amount, if any, by which
+
+(a) the undepreciated capital cost of property of a prescribed class immediately before the acquisition of control (determined without regard to subsection 13(24) which, in some cases postpones, until after the acquisition of control, the addition of the cost of recently acquired property to the undepreciated capital cost of the class),
+
+exceeds the total of
+
+(b) the fair market value of all the property of the class immediately before the acquisition of control, and
+
+(c) the amount of capital cost allowance or terminal loss otherwise allowed in respect of that class, for the taxation year that ended, pursuant to subsection 249(4), immediately before the acquisition of control.
+
+The amount deducted is deemed to have been allowed as capital cost allowance. To the extent that the deduction creates or increases the corporation's non-capital loss or farm loss for that taxation year, the loss may be deducted in computing the corporation's taxable income for previous taxation years, but it may only be deducted in later taxation years subject to the streaming rules explained in 13 above.
+
+**ACCRUED LOSSES WITH RESPECT TO CUMULATIVE ELIGIBLE CAPITAL**
+
+22. Where control of a corporation is acquired by a person or group of persons, subsection 111(5.2) provides that there shall be deducted in computing the corporation's income for the taxation year ending immediately before the acquisition of control the amount, if any, by which:
+
+(a) the cumulative eligible capital in respect of a business immediately before the acquisition of control
+
+exceeds the total of
+
+(b) a fraction* of the fair market value of the eligible capital property in respect of the business, and
+
+(c) the amount otherwise deducted under paragraph 20(1)(b) in computing its income for the taxation year that ended, pursuant to subsection 249(4), immediately before the acquisition of control.
+
+To the extent that this deduction creates or increases a non-capital loss or farm loss for that taxation year, the comments in 13 above regarding the streaming rules will apply.
+
+* The fraction referred to in (b) above is 3/4 where control of the corporation was acquired after the commencement of its first taxation year commencing after June 1988; otherwise it is 1/2.
+
+**RESERVES FOR DOUBTFUL ACCOUNTS**
+
+23. Where control of a corporation is acquired by a person or group of persons, subsection 111(5.3) provides that no amount may be deducted under paragraph 20(1)(l) as a reserve for doubtful debts in computing the corporation's income for the taxation year that ended immediately before the acquisition of control. Instead, any amount that would have been deductible as a doubtful debt is deemed to be a separate debt and is required to be deducted under paragraph 20(1)(p) as a bad debt in computing the corporation's income for that taxation year. To the extent that this deduction creates or increases a non-capital loss or farm loss for that taxation year, the comments in 13 above regarding the streaming rules will apply. Any amount received by the corporation in subsequent years in respect of this separate debt will be included in the corporation's income in the year of receipt pursuant to paragraph 12(1)(i). The excess of the amount of the original debt over the amount of the separate debt (i.e. the portion of the original debt which was not of doubtful collectability at the time of the acquisition of control) is itself considered to be a separate debt that was incurred at the same time and under the same circumstances as the original debt was incurred.
+
+**CHANGE IN TAX STATUS**
+
+24. The rules in paragraphs 111(4)(c) to (e) and subsections 111(5.1) to (5.3) discussed in 16 to 23 above, do not apply, if at the time of the acquisition of control, the corporation becomes or ceases to be exempt from tax under Part I of the Act.
+
+**ACCRUED LOSSES IN INVENTORY**
+
+25. Subsection 10(1) requires that inventory be valued at the lower of its cost or fair market value. Alternatively, section 1801 of the Regulations allows all inventory to be valued at fair market value. Therefore, where there are accrued inventory losses due to a decline in market value relative to original cost, the inventory must be written- down to reflect such losses in the taxation year that is deemed to end immediately before the acquisition of control. To the extent that this write-down creates or increases a non-capital loss or farm loss for that taxation year, the comments in 13 above regarding the streaming rules will apply.
+
+**ANTI-AVOIDANCE RULES**
+
+26. Subsection 111(5.5) is an anti-avoidance rule which will apply where control of a corporation is acquired and the main reason for the acquisition of control may reasonably be considered to be to recognize accrued losses under paragraph 111(4)(d) or deductions under subsections 111(5.1), (5.2) or (5.3) (see 16, 21, 22 and 23 respectively, above). Where subsection 111(5.5) applies, the provision that is attempted to be triggered does not apply and the election under paragraph 111(4)(e) is not available. If the provision attempted to be triggered is paragraph 111(4)(d), paragraph 111(4)(c) does not apply.
+
+Subsection 256(8) may apply to determine whether control of a corporation has been acquired for the purpose of section 111 and other sections of the Act. This subsection is an anti-avoidance rule which will deem shares to have been acquired at the time a taxpayer has acquired a right to shares referred to in paragraph 251(5)(b), where it can reasonably be concluded that one of the main purposes of the acquisition of the right was to avoid, among other items, any limitation of the deductibility of any non-capital loss, net capital loss or farm loss.
+
+**LOSS UTILIZATION FOLLOWING AN AMALGAMATION**
+
+27. Subsection 87(2.1) allows a new corporation formed as a result of an amalgamation to utilize the non-capital losses, net capital losses, restricted farm losses, farm losses and limited partnership losses of the predecessor corporations. The utilization of these losses by the new corporation is subject to the restrictions in subsections 111(3) to (5.4) and paragraph 149(10)(d) as to the order and extent to which the losses are used and the effect of an acquisition of control. Paragraph 87(2.1)(e) generally does not allow the losses incurred by the new corporation to be carried back for deduction to any predecessor corporation. However, for amalgamations of a parent corporation and one or more of its wholly-owned subsidiaries occurring after 1989, and subject to the provisions of section 111, subsection 87(2.11) will allow the amalgamated corporation to carry back to the predecessor parent corporation losses it has incurred after the amalgamation.
+
+28. Paragraph 256(7)(b) provides that where a person or group of persons controlled the new corporation after the amalgamation but that person or group of persons did not control a particular predecessor corporation, that person or group of persons is deemed to have acquired control of that predecessor corporation immediately before the amalgamation. Accordingly, the restrictions in subsections 111(4) to (5.4) (see 12 to 23 above) will apply to the losses of that predecessor corporation. Paragraph 256(7)(b) does not apply, however, if the person or group of persons who control the amalgamated corporation would not have been considered to have acquired control of the particular predecessor corporation if that person or group of persons had acquired all the shares of the predecessor corporation immediately before the amalgamation. Therefore, on the amalgamation of two or more predecessor corporations which were controlled by related persons prior to the amalgamation, paragraph 256(7)(a) will apply (see 9 above) so that control of the particular predecessor corporation will not be treated as having changed. (See examples 5 and 6 in the appendix).
+
+### LOSS UTILIZATION FOLLOWING THE WINDING-UP OF A 90% OWNED SUBSIDIARY
+
+**NON-CAPITAL LOSSES, RESTRICTED FARM LOSSES, FARM LOSSES AND LIMITED PARTNERSHIP LOSSES**
+
+29. Where a subsidiary corporation (a Canadian corporation) has been wound up into its parent corporation (a Canadian corporation) under the provisions of subsection 88(1), the parent's utilization of the subsidiary's non-capital losses, restricted farm losses, farm losses and limited partnership losses is provided for in subsection 88(1.1).
+
+Any such loss of the subsidiary corporation is generally deemed to be a loss of the same type to the parent for the taxation year of the parent in which the subsidiary's loss year ended, provided such loss:
+
+(a) was not previously deducted in computing the taxable income of the subsidiary, and
+
+(b) would have been deductible in computing the taxable income of the subsidiary for any taxation year beginning after the commencement of the winding-up on the assumption that it had such a taxation year, and sufficient income to utilize the loss.
+
+However, such losses are available to the parent in computing its taxable income only for taxation years that began after the commencement of the winding-up (generally, the commencement of winding- up is evidenced by a resolution of shareholders authorizing or requiring that the corporation be wound up). For example,
+
+---------------- |Parent Co. | |(Y/E Dec. 31/90) --------------- | | 100% | ---------------- | Sub Co. | (Y/E June 30/90) ----------------
+
+If Sub Co. commences to wind-up into Parent Co. on August 31, 1990, any losses of Sub Co. will only be available to Parent Co. commencing in Parent Co.'s taxation year ending December 31, 1991.
+
+30. Where, under paragraphs 88(1.1)(c), (d) or (d.1), a subsidiary's non-capital loss, restricted farm loss, farm loss, or limited partnership loss is deemed to be a loss of the same type of the parent for a particular taxation year of the parent beginning after the commencement of the winding-up, the parent may elect under paragraph 88(1.1)(f) to treat the particular loss as having arisen in its preceding taxation year. This election, which can be made for 1985 and subsequent taxation years, may accelerate the parent's access to particular losses of the subsidiary incurred in the year of the winding-up. This can be illustrated in the following example:
+
+---------------- | Parent Co. | (Y/E Oct. 31/90) ---------------- | | 100% | v -------------- | Sub Co. | (Y/E Dec. 31/90) --------------
+
+Assume Sub Co. commences to wind-up into Parent Co. on October 31, 1990 and Sub Co. incurs a non-capital loss of $1,000,000 for the year ended December 31, 1990. The $1,000,000 loss is deemed under paragraph 88(1.1)(c) to be a non-capital loss of Parent Co. for its taxation year ending October 31, 1991 (i.e. the taxation year of the parent in which the subsidiary's loss year ended). However, the parent's taxation year beginning after the commencement of the winding-up is also October 31, 1991. Since paragraph 111(1)(a) only permits a deduction for non- capital losses in the immediately preceding 3 years and the immediately following 7 years (i.e. not the current year), the non-capital loss will not be available to Parent Co. until its October 31, 1992 taxation year. However, if Parent Co. elects under paragraph 88(1.1)(f), the non-capital loss will be deemed to have arisen in its immediately preceding taxation year (October 31, 1990). Therefore, if the election is made, Parent Co. will be able to deduct the $1,000,000 non-capital loss in its taxation year ending October 31, 1991.
+
+**ACQUISITION OF CONTROL**
+
+31. The general rule, when there has been an acquisition of control of the parent or subsidiary, is that no amount of the subsidiary's non- capital loss or farm loss for a taxation year ending before the acquisition of control is deductible by the parent for a taxation year ending after the acquisition of control. However, any portion of the subsidiary's non-capital loss or farm loss as may reasonably regarded as
+
+(a) its loss from carrying on a business, and
+
+(b) (where the loss was incurred after the 1987 taxation year) being in respect of an amount deductible under paragraph 110(1)(k), where the business was carried on by the subsidiary in that year,
+
+is deductible by the parent if that business is carried on for profit or a reasonable expectation of profit throughout the particular year. The amount deductible is limited to income for the particular year from that business or a similar business pursuant to subparagraph 88(1.1)(e)(ii) (see 13 and 14 above).
+
+Where, following a winding-up, the losses of a subsidiary become available to its parent, those losses will again be flowed through on a subsequent winding-up of the parent into its parent. However, to the extent that the deductibility of those losses was limited by paragraph 88(1.1)(e) following the first winding-up, the same limitations will apply following the subsequent winding-up.
+
+32. Prior to November 13, 1981, the provisions of subsection 88(1.1) did not identify the losses, which were transferred to the parent, with any particular business. The provisions of subsection 111(5), applicable after November 12, 1981, require that non-capital losses be attributed to a particular business in order to be eligible for carryover. Subsection 111(5.4) provides the identification of non-capital losses necessary for the application of subsection 111(5).
+
+**NET CAPITAL LOSSES**
+
+33. Where a subsidiary corporation (a Canadian corporation) has been wound up into its parent corporation (a Canadian corporation) under the provisions of subsection 88(1), the parent's utilization of the subsidiary's net capital losses is provided for in subsection 88(1.2).
+
+Any net capital loss of the subsidiary for a particular taxation year is deemed to be a net capital loss of the parent for the taxation year of the parent in which the subsidiary's particular taxation year ended, provided such loss:
+
+(a) was not previously deducted in computing taxable income of the subsidiary, and
+
+(b) would have been deductible in computing the taxable income of the subsidiary for any taxation year of the subsidiary beginning after the commencement of the winding-up on the assumption that it had such a taxation year and that it had sufficient income and taxable capital gains for that year.
+
+As with the non-capital losses, etc., in subsection 88(1.1), the net capital losses of the subsidiary are available to the parent in computing its taxable income only for taxation years that began after the commencement of the winding-up.
+
+An election under paragraph 88(1.2)(d) is available to the parent which could accelerate access to a particular net capital loss of the subsidiary. The election is very similar to the paragraph 88(1.1)(f) election described in 30 above.
+
+**ACQUISITION OF CONTROL**
+
+34. Subsection 88(1.2) does not apply to permit the parent to deduct, in a particular taxation year, any amount in respect of the subsidiary's net capital loss if, before the end of that particular year, control of the parent or the subsidiary has been acquired by a person or persons who did not control the parent or the subsidiary, as the case may be, at the end of the subsidiary's taxation year which gave rise to the net capital loss.
+
+**WHERE PARENT FORMED AFTER SUBSIDIARY'S LOSS YEAR**
+
+35. It may be that a parent corporation was incorporated or otherwise formed after the end of a taxation year in which its subsidiary incurred a loss (loss year). In these circumstances, subsection 88(1.3) deems the parent:
+
+(a) to have been in existence throughout the period commencing immediately before the end of the subsidiary's first loss year and ending immediately after the parent's actual incorporation or formation,
+
+(b) to have had fiscal periods throughout that period ending on the day of the year on which its first fiscal period ended, and
+
+(c) to have been controlled throughout that period by the person or persons who controlled it immediately after its incorporation or formation.
+
+36. Where a subsidiary's net capital losses have been carried forward to the parent company, the provisions of subsections 88(1.1) to (1.3) can be equally applicable to the subsidiary's net capital losses (which are deemed to be losses of the parent) in the event that the parent is wound-up into its parent pursuant to subsection 88(1).
+
+If you have any comments regarding the matters discussed in this bulletin, please send them to:
+
+Director, Technical Publications Division Legislative and Intergovernmental Affairs Branch Revenue Canada . Customs, Excise and Taxation 875 Heron Road Ottawa, Ontario K1A 0L8
+
+### APPENDIX
+
+**Example 1 (see printed copy for graphics)**
+
+Corporation A originally had direct control of Corporations B and C. Corporation A then transferred its controlling shares of Corporation C to Corporation B. Since Corporations B and C were related by virtue of subparagraph 251(2)(c)(i) immediately before the acquisition of Corporation C's shares by Corporation B, Corporation B is deemed not to have acquired control of Corporation C by virtue of subparagraph 256(7)(a)(i). Also, since Corporation A has retained control of Corporation C (although indirect), there is not considered to be an acquisition of control.
+
+**Example 2 (see printed copy for graphics)**
+
+Corporation A originally had direct control of Corporation B and indirect control of Corporation C. Corporation B then transferred its controlling shares of Corporation C to Corporation A. Since Corporation A has acquired direct control of a corporation which it previously controlled indirectly, there is no acquisition of control of Corporation C. Subparagraph 256(7)(a)(i) also applies.
+
+**Example 3 (see printed copy for graphics)**
+
+Corporation A originally had direct control of Corporations B and D, and indirect control of Corporation C. Corporation A then transferred its controlling shares of Corporation B to Corporation D. Since Corporation D was related to Corporation B, by virtue of subparagraph 251(2)(c)(i), immediately prior to the acquisition of Corporation B's shares by Corporation D, Corporation D is deemed not to have acquired control of Corporation B by virtue of subparagraph 256(7)(a)(i). Also, for acquisitions after 1989, Corporation D is deemed not to have acquired control of any corporation controlled by Corporation B by virtue of paragraph 256(7)(a). Therefore, there is no acquisition of control of Corporation C. If the acquisition took place before 1990 there would also be no acquisition of Corporation C since Corporation A controlled Corporation C (indirectly) before the transaction and maintains control of Corporation C (indirectly) after the transaction.
+
+**Example 4 (see printed copy for graphics)**
+
+Corporation A previously had direct control of Corporation B and indirect control of Corporation C. X, a person who is not related to any of the three corporations, acquires the controlling shares of Corporation A. In the case of Corporation A, B and C, control of all three has been acquired by X, a person who did not previously control the three corporations. Subparagraph 256(7)(a)(i) does not apply because X was not related to Corporation A and X did not acquire shares of Corporation B and C, nor was X related to them. Subsections 111(4) to (5.5) and 249(4) will therefore apply.
+
+**Example 5 (see printed copy for graphics)**
+
+Corporation A previously controlled Corporations C and D and continues to control them in the form of Corporation CD, a corporation arising from the amalgamation of Corporations C and D. Accordingly, since there was no acquisition of control, subsections 111(4) to (5.4) will not apply. Paragraph 256(7)(b) would not apply because the person (A) who controlled the new corporation (CD) immediately after the amalgamation controlled both of the predecessor corporations, C (directly) and D (indirectly) immediately before the amalgamation.
+
+**Example 6 (see printed copy for graphics)**
+
+Corporation A transfers the shares of Corporation C to Corporation B before Corporations C and D amalgamate.
+
+Since Corporation B was related to Corporation C, by virtue of subparagraph 251(2)(c)(i), immediately prior to the acquisition of Corporation C's shares by Corporation B, Corporation B is deemed not to have acquired control of Corporation C by virtue of subparagraph 256(7)(a)(i). When Corporations C and D amalgamate, the amalgamated corporation is controlled by Corporation B, which controlled both predecessor corporations, therefore paragraph 256(7)(b) does not apply. The fact that subparagraph 256(7)(a)(i) deemed Corporation B not to have acquired control of Corporation C does not impair B's control of predecessor corporations C and D before the amalgamation nor B's control of Corporation CD after the amalgamation.
+
+Explanation of Changes for Interpretation Bulletin IT-302R3:
+
+Losses of a Corporation . The Effect that Acquisitions of Control, Amalgamations, and Windings-up have on Their Deductibility . After January 15, 1987
+
+**INTRODUCTION**
+
+The purpose of the Explanation of Changes is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+**OVERVIEW**
+
+Interpretation Bulletin IT-302R3 outlines the deductibility of losses by a corporation when there has been an acquisition of control, amalgamation or winding-up after January 15, 1987. It explains the meaning of control, control by a group of persons, and the special rules for losses in such circumstances.
+
+We have revised this bulletin to incorporate the amendments enacted in 1987 by Bill C-64, which significantly changed the loss utilization rules. It also reflects a number of changes made to these rules in 1988 by Bill C-139, in 1991 by Bill C-18, and in 1993 by Bill C-92. The rules concerning the deductibility of losses when there has been an acquisition of control, amalgamation or winding-up before January 16, 1987 are discussed in IT-302R2, Losses of a Corporation . The Effect on Their Deductibility of Changes in Control, Amalgamation and Winding-up, and its Special Release.
+
+Draft legislation contained in the Amendments to the Income Tax Act and Related Statutes released by the Minister of Finance on August 30, 1993, that affects this bulletin is noted in No. 9.
+
+**LEGISLATIVE AND OTHER CHANGES**
+
+New Nos 1 to 8 explain the concepts of control and acquisition of control. New No. 1 indicates that an acquisition of control is the critical event with respect to utilizing the losses of a corporation. New No. 2 discusses the meaning of control of a corporation. New No. 3 describes the concept of control by a group of persons, and new Nos 4, 5 and 6 discuss actions in concert, which is an important part of group control. New Nos 7 and 8 outline the possibility of an acquisition of control upon acquisitions and dispositions of a minority interest in a corporation.
+
+No. 9 (former No. 4) reflects a Bill C-18 amendment to paragraph 256(7)(a). After 1989, paragraph 256(7)(a) will apply to acquisitions of control resulting from redemptions and cancellations of shares in addition to acquisitions of control as a result of share acquisitions.
+
+New No. 11 discusses new subsection 249(4) that was enacted by Bill C- 64 and amended by Bill C-18. This provision deems the taxation year of a corporation to end immediately before there is an acquisition of control.
+
+No. 13 (former No. 8) discusses the carryforward and carryback provisions of non-capital losses and farm losses under paragraphs 111(5)(a) and (b) when there has been an acquisition of control. Pre- acquisition losses can be carried forward to post-acquisition years, and post-acquisition losses may be carried back to pre-acquisition years, if they arose from the carrying on of a business, and if that business is carried on after the acquisition of control. Non-capital losses and farm losses can no longer be carried forward for deduction against taxable capital gains which arise after an acquisition of control.
+
+New No. 14 discusses the interpretation of the terms "that business" and "similar" which are used in subsection 111(5).
+
+New Nos 16 to 19 explain the provisions of paragraphs 111(4)(c), (d) and (e). New No. 16 explains that paragraphs 111(4)(c) and (d) require accrued losses on non-depreciable capital property to be recognized in the taxation year that ends immediately before an acquisition of control. New No. 17 reflects the Bill C-64 introduction of (and Bill C- 18 amendment to) paragraph 111(4)(e). This provision provides a form of relief since it allows the taxpayer to recognize any accrued gains on other capital property (including depreciable property) to offset the losses recognized under paragraph 111(4)(d). New No. 18 deals with the administrative aspects of paragraph 111(4)(e), and new No. 19 discusses the reacquisition cost of property for which a designation under paragraph 111(4)(e) has been made.
+
+New No. 20 discusses the Department's position that a "debt obligation" is not property and is therefore not subject to the accrued loss rule in paragraph 111(4)(d), and the designation rules in paragraph 111(4)(e).
+
+No. 21 (former No. 15) discusses accrued terminal losses under subsection 111(5.1) that must be recognized in the taxation year that ends immediately before an acquisition of control. In general terms, the accrued terminal loss is the amount of UCC in excess of the total of the fair market value of the property in the class, and the CCA or terminal loss otherwise allowed for that class for the year ending immediately before the acquisition of control.
+
+No. 22 (former No. 16) discusses accrued losses with respect to cumulative eligible capital under subsection 111(5.2) which must be recognized in the taxation year that ends immediately before an acquisition of control.
+
+New No. 23 reflects the Bill C-64 introduction of subsection 111(5.3), which requires a corporation to deduct the maximum amount of its doubtful debts as a bad debt under paragraph 20(1)(p) in the taxation year that ends immediately before the acquisition of control.
+
+New No. 24 reflects the Bill C-64 amendments to paragraphs 111(4)(c) to (e) and subsections 111(5.1) to (5.3). After January 15, 1987 these provisions will not apply on an acquisition of control if, at the time of the acquisition of control, the corporation becomes or ceases to be exempt from tax under Part I.
+
+New No. 25 clarifies that accrued losses in inventory have to be recognized in the taxation year that ends immediately before an acquisition of control. These losses will therefore be restricted by the provisions in subsection 111(5).
+
+New No. 26 discusses subsection 111(5.5), an anti-avoidance rule introduced in Bill C-64, which will prevent the application of the accrued loss rules if one of the main reasons for acquiring control was to trigger these accrued loss rules. New subsection 256(8) is also discussed in No. 26, and is another anti-avoidance provision. This subsection deems shares to have been acquired (and possibly an acquisition of control to occur) when a taxpayer has acquired a right to shares, and one of the main purposes of the acquisition of the right was to avoid the acquisition of control rules.
+
+No. 27 (former No. 19) reflects a Bill C-64 amendment to subsection 87(2.1) to include limited partnership losses in the losses that can flow through on an amalgamation. No. 27 also discusses the Bill C-92 addition of subsection 87(2.11), which will allow an amalgamated corporation to carry losses back to offset a predecessor's income in certain circumstances.
+
+New No. 28 describes the provisions of paragraph 256(7)(b), which deems an acquisition of control of a predecessor corporation to occur in certain amalgamations.
+
+No. 29 (former Nos 20 and 21) discusses the parent company's utilization of the subsidiary's losses when there is a winding-up. It also reflects a Bill C-18 amendment to paragraph 88(1.1)(b), which allows the parent company to deduct losses of a subsidiary that arise before completing the winding-up but during the subsidiary's first taxation year beginning after the winding-up commences. These losses were not deductible before this amendment.
+
+New No. 30 discusses the paragraph 88(1.1)(f) election introduced in Bill C-18. In certain circumstances, this election allows the parent company to access the subsidiary company's losses a year earlier than would otherwise be the case.
+
+No. 31 (former No. 22) discusses a Bill C-139 amendment to paragraph 88(1.1)(e), which ensures that when a subsidiary company's losses become available to the parent company on an acquisition of control, the losses will again be available on a subsequent acquisition of control. However, if the restrictions in paragraph 88(1.1)(e) applied on the first acquisition of control in respect of the losses, the same restrictions will apply to these losses on the subsequent acquisition of control.
+
+No. 33 (part of former No. 24) discusses the parent company's utilization of the subsidiary company's net capital losses when there is a wind-up. Subsection 88(1.2) has been amended in the same manner as subsection 88(1.1). An election is also available in paragraph 88(1.2)(d) to allow the parent company to access certain non-capital losses of the subsidiary company one year earlier than otherwise would have been possible.
+
+The discussions in former Nos 2, 3, 7, 9, 10, 12, 14, 17, 18 and 23 do not apply to this bulletin, and have not been carried forward.
+
+Nos 10, 12, 15, 32, 34, 35, 36 and the Appendix (former Nos 5, 6, 13, 26, 24, 25, 27 and 28 respectively) may include wording changes to improve clarity or reflect minor legislative amendments.

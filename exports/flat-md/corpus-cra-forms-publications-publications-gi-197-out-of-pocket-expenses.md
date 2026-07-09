@@ -1,0 +1,516 @@
+---
+title: "Out-of-Pocket Expenses"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-197/out-of-pocket-expenses.html
+last_modified: 2021-12-16
+---
+# Out-of-Pocket Expenses
+
+GST/HST Info Sheet GI-197 December 2021
+
+This info sheet explains how the GST/HST applies when out-of-pocket expenses are incurred by a supplier, such as a consultant, and subsequently charged to a client.
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the Excise Tax Act (ETA). The information in this publication does not replace the law found in the ETA and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1-800-959-8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1‑855‑666‑5166.
+
+## GST/HST rates
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia, and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, see [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Meaning of significant terms
+
+**Property** includes goods, real property and intangible personal property (such as trademarks, rights to use a patent, and admissions to a place of amusement), but does not include money.
+
+**Recipient** of a supply of property or a service generally means, where consideration for the supply is payable under an agreement for the supply, the person who is liable to pay that consideration, and where there is no such agreement and consideration is payable for the supply, the person who is liable to pay that consideration.
+
+**Registrant** means a person who is registered, or who is required to be registered, for GST/HST purposes.
+
+**Service** means anything other than property, money, and generally anything that is supplied to an employer by an employee in the course of employment.
+
+**Taxable supply** means a supply subject to the GST/HST.
+
+**Zero-rated** means subject to the GST/HST at 0%.
+
+## Introduction
+
+In this info sheet, the term **out-of-pocket expenses** refers to expenses that a supplier may incur when providing a taxable (other than zero-rated) supply of services to a client. Generally, the client may agree to reimburse the supplier for some or all of these out-of-pocket expenses, in addition to paying a fee for the services. Any reimbursement is an issue to be determined by the parties; in other words, the client and the supplier are responsible for agreeing which of the supplier’s expenses will be reimbursed by the client, and to what extent.
+
+How the GST/HST will apply to out-of-pocket expenses charged by a supplier and reimbursed by the client generally depends on who is the recipient of the supply to which the out-of-pocket expense relates and the place-of-supply rules. Information on the place-of-supply rules may be found in [GST/HST Memorandum 3-3-6, Place of Supply in a Province – General Rules for Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6.html).
+
+Generally, a supplier is the recipient of many supplies of property and services that it acquires in the course of supplying a service to a client. However, it is possible that the supplier incurs some out-of-pocket expenses as an agent of its client. Whether a supplier is acting as the agent of its client in a particular transaction is a question of fact and law. For more information on agents, refer to [GST/HST Info Sheet GI-012 Agents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-012.html).
+
+In this info sheet, the phrase **incurred as agent** indicates that an out-of-pocket expense is incurred in a supplier’s capacity as agent for a particular client. Refer to the section entitled “Expenses incurred as agent” later in this info sheet for more information. The phrase **not incurred as agent** in this info sheet indicates that an out-of-pocket expense is incurred otherwise than in a supplier’s capacity as agent for a particular client.
+
+## Expenses not incurred as agent
+
+When a supplier is the recipient of a taxable supply giving rise to an out-of-pocket expense, the supplier is liable for paying the GST/HST on that supply.
+
+When a supplier, in the course of supplying a service to a client, pays an out-of-pocket expense that is not incurred as agent and the client has agreed to reimburse either all or a portion of the expense, the amount invoiced to the client is treated as additional consideration payable for the supplier’s supply of the service. The GST/HST therefore applies to the additional invoiced amount in the same manner and rate as it applies to the supply of the service.
+
+Generally, as a registrant, a supplier can claim an input tax credit (ITC) for the GST/HST paid or payable by the supplier in respect of the supply that gave rise to the out-of-pocket expense to the extent that the supply was acquired for consumption, use or supply in the supplier’s commercial activities. As a result, the supplier should not include the amount of the GST/HST that was paid or payable by the supplier in respect of the out-of-pocket expense on the invoice to the client.
+
+However, a supplier may also pay other taxes and levies that are unrecoverable, such as provincial sales taxes, in respect of an out-of-pocket expense incurred by the supplier that the client has agreed to reimburse. Depending on the circumstances and whether the unrecoverable tax or levy is prescribed, the supplier may be required to include the other tax or levy as part of the out-of-pocket expense included on the supplier’s invoice. In other words, when the GST/HST is calculated on the consideration for the supplier’s services, the supplier may include on an invoice, as additional consideration, the amount of the unrecoverable tax or levy that was payable by the supplier in respect of the out-of-pocket expense. The GST/HST will then apply on the total amount of the consideration on the client’s invoice. For further information, refer to [GST/HST Memorandum 3-5, Application of GST/HST to Other Taxes, Duties, and Fees.](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-5.html)
+
+In addition, a supplier who is a GST/HST registrant may, in certain circumstances, be unable to recover all the GST/HST paid or payable by the supplier in respect of property or services acquired for consumption, use or supply in the supplier’s commercial activities. For instance, a registrant may, for administrative simplicity, use a factor for calculating ITCs in respect of taxable purchases for which employees are reimbursed. Under the temporary recapture rules for ITCs, certain large businesses may also be required to recapture ITCs in respect of the provincial part of the HST paid or payable on certain property or services acquired or brought into Ontario or Prince Edward Island as a result of those provinces adopting the HST. For further information, refer to [Guide RC4022, General Information for GST/HST Registrants.](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html)
+
+In such cases, where the parties have agreed, the supplier may include in the invoice to its client the unrecoverable GST/HST as additional consideration for the service to the client upon which the GST/HST will be calculated.
+
+## Typical out-of-pocket expenses not incurred as agent
+
+Typical out-of-pocket expenses not generally incurred as agent that a registered supplier may charge a client include any of the following:
+
+- office supplies, if they are associated with the service being performed by the supplier for the client
+
+- air travel
+
+- local transportation, such as a taxi
+
+- parking
+
+- hotel or other accommodation
+
+- per diem amounts, such as meals
+
+- car rentals and gasoline
+
+- an automobile allowance, where the supplier’s personal vehicle is used in the performance of the service
+
+Certain restrictions may apply to the claiming of ITCs with respect to some of these out-of-pocket expenses. Refer to the section entitled “ITCs for taxes on food, beverage and entertainment expenses” later in this info sheet for more information.
+
+In the following examples, it is assumed that all of the conditions for claiming an ITC in respect of the expense incurred by the supplier have been met.
+
+A registrant supplies taxable consulting services to a client in Ontario. The place of supply of the consulting services is Ontario, and the HST at the rate of 13% applies to the supply. The client agrees to reimburse the supplier for their out-of-pocket expenses.
+
+As part of the services, the supplier pays $100 for office supplies, an out-of-pocket expense not incurred as agent. Because they buy the supplies in Ontario, the HST of 13% applies on their purchase, and they pay a total of $113.
+
+The supplier issues the following invoice to the client:
+
+Consulting services
+
+$1,000
+
+Office supplies
+
+100
+
+**Subtotal**
+
+**1,100**
+
+HST 13% of $1,100.00
+
+143
+
+**Total**
+
+**$1,243**
+
+Because the supplier can claim an ITC in respect of the office supplies that they purchased, their invoice only includes, as additional consideration, the $100 that they paid for that supply, without the $13 HST that was paid in respect of the supplies. The supplier charges their client the HST of 13% on the total consideration payable for the consulting services, which includes the out-of-pocket expenses for the office supplies.
+
+A registrant supplies taxable consulting services to a client in Alberta. The place of supply of the consulting services is Alberta, and the GST of 5% applies to the supply. The client agrees to reimburse the supplier for their out-of-pocket expenses.
+
+To perform the service, the supplier acquires photocopies of certain documents, an out-of-pocket expense not incurred as agent. They acquire the photocopies for $100 from an unregistered small supplier in Alberta and do not pay any GST.
+
+The supplier issues the following invoice to the client:
+
+Consulting services
+
+$1,000
+
+Photocopies
+
+100
+
+**Subtotal**
+
+**1,100**
+
+GST 5% of $1,100.00
+
+55
+
+**Total**
+
+**$1,155**
+
+The $100 that the supplier paid for the photocopies is additional consideration for their service. Although no GST was payable by the supplier because they purchased the supplies from an unregistered small supplier, the amount included as additional consideration on their invoice to the client is subject to the GST of 5%.
+
+A registered consulting firm based in Nova Scotia supplies taxable consulting services to a client in Nova Scotia. The place of supply of the consulting services is Nova Scotia, and the HST at the rate of 15% applies to the supply. The client agrees to reimburse the firm for its out-of-pocket expenses.
+
+To perform the service, the firm is required to purchase software for $200 plus 15% HST from a supplier in Nova Scotia and pays a total of $230. In addition, an employee of the firm spends $35 plus 15% HST, for a total of $40.25, on cab fare in Nova Scotia in the course of performing the service.
+
+The firm issues the following invoice to the client:
+
+Consulting services
+
+$2,000.00
+
+Software
+
+200.00
+
+Cab fare
+
+35.00
+
+**Subtotal**
+
+**2,235.00**
+
+HST 15% of $2,235.00
+
+325.25
+
+**Total**
+
+**$2,570.25**
+
+Because the consulting firm can claim an ITC in respect of the software and the cab fare, the firm’s invoice only includes, as additional consideration, the $200 and $35 for the supplies the firm acquired in the performance of the service, without including the HST that was paid in respect of either supply. The firm charges its client the HST of 15% on the total consideration payable for the consulting services, which includes the out-of-pocket expenses for the software and cab that are not incurred by the supplier as an agent.
+
+A registrant supplies taxable consulting services to a client in Quebec. The place of supply of the consulting services is Quebec, and the GST of 5% applies to the supply. The client agrees to reimburse the supplier for any mileage incurred by the supplier at a rate of $0.60 per kilometre.
+
+In the course of performing the services, the supplier uses their personal vehicle and determines that they drove their vehicle 100 kilometres in the performance of the services.
+
+The supplier issues the following invoice to the client:
+
+Consulting services
+
+$5,000
+
+Vehicle use (100 kilometres at $0.60 kilometre)
+
+60
+
+**Subtotal**
+
+**5,060**
+
+GST 5% of $5,060.00
+
+253
+
+**Total**
+
+**$5,313**
+
+The $60 is an out-of-pocket expense that is added to the client’s invoice by the supplier as additional consideration. The supplier charges their client the GST of 5% on the total consideration payable for the consulting services, which includes the out-of-pocket expense for the use of a personal vehicle that is not incurred by the supplier as an agent.
+
+A registrant supplies taxable consulting services to a client in Ontario. The place of supply of the consulting services is Ontario, and the HST at the rate of 13% applies to the supply. The client agrees to reimburse the supplier for their out-of-pocket expenses. The supplier is not a large business subject to the temporary recapture rules for ITCs.
+
+To perform the service, the supplier rents a car in Ontario for $50 plus 13% HST, for a total of $56.50, and refills its gas tank with $25 worth of gas, of which $2.88 represents 13% HST. In addition, the supplier pays a highway toll of $15 and spends $15 parking in a commercial parking lot operated by the city, of which $1.73 represents 13% HST. The out-of-pocket expenses are not incurred by the supplier as an agent.
+
+The supplier issues the following invoice to the client:
+
+Consulting services
+
+$1,000.00
+
+Car rental
+
+50.00
+
+Gas
+
+22.12
+
+Highway tolls
+
+15.00
+
+Parking
+
+13.27
+
+**Subtotal**
+
+**1,100.39**
+
+HST 13% of $1,100.39
+
+143.05
+
+**Total**
+
+**$1,243.44**
+
+Because the supplier can claim an ITC in respect of the HST paid for the rental car, gas and municipal parking, their invoice only includes, as additional consideration, the amount that they paid for those supplies ($85.39 = $50.00 + $22.12 + $13.27), without including the HST that was paid in respect of those supplies.
+
+Note that the HST does not apply in respect of the supply of the highway toll because it is an exempt supply. However, the exempt status of the highway toll does not affect the application of the HST to this out-of-pocket expense when it is charged to the client. In other words, the reimbursement of the highway toll is subject to the same tax treatment as the consideration payable for the consulting services when the supplier invoices their client.
+
+The supplier charges their client the HST of 13% on the total consideration payable for the consulting services, which includes the out-of-pocket expenses for the car rental, gas, highway tolls and parking ($100.39 = $50.00 + $22.12 + $15.00 + $13.27).
+
+A registered consulting firm in Nova Scotia supplies taxable consulting services to a client in New Brunswick. The place of supply of the consulting services is New Brunswick, and the HST at the rate of 15% applies to the supply. The client agrees to reimburse the supplier for out-of-pocket expenses.
+
+Each of the firm’s employees is given a credit card issued to the firm. While each employee must agree in writing that the employee is solely liable for any charges made on the card, employees will be reimbursed for employment-related expenses. The firm uses the factor method to determine its ITCs in respect of purchases made by its employees who use the firm’s credit cards.
+
+In the course of providing the service, an employee of the firm requires two nights of accommodation in New Brunswick. The total cost of the accommodation is $400 plus 15% HST, for a total of $460. The employee charges this amount to the firm’s credit card, and the firm reimburses the employee by paying the employee’s credit card bill. The out-of-pocket expense related to the accommodation is not incurred by the firm as an agent of the client.
+
+When it uses the factor method, the firm may only claim an ITC of $56.49 of the $60 HST paid by the employee in respect of the accommodation using a factor of 14/114. The firm therefore issues the following invoice to the client:
+
+Consulting services
+
+$2,000.00
+
+Accommodation
+
+403.51
+
+**Subtotal**
+
+**2,403.51**
+
+HST 15% of $2,403.51
+
+360.53
+
+**Total**
+
+**$2,764.04**
+
+Because the factor method is used by the firm to determine the ITC it may claim in respect of the GST/HST paid by its employee, $3.51 of the $60 HST remains unrecoverable by the firm. As a result, the firm adds $3.51 to its invoice by including it in the amount charged for the accommodation to be reimbursed by the client. The firm then charges its client the HST of 15% on the total consideration payable for the consulting services, which includes the accommodation and unrecoverable HST paid by the firm.
+
+A registered consulting firm supplies taxable consulting services to a client in Prince Edward Island. The place of supply of the consulting services is Prince Edward Island, and the HST at the rate of 15% applies to the supply. The client agrees to reimburse the firm for out-of-pocket expenses.
+
+Although the firm does not use the factor method for determining its ITCs in respect of purchases made by its employees who use the firm’s credit cards, the firm is a large business subject to the temporary recapture rules for ITCs in respect of the provincial part of the HST paid or payable on specified property and services that are acquired or brought into Prince Edward Island for use there.
+
+In the course of providing the service, an employee of the firm acquires a telecommunication service in Prince Edward Island in September 2018 for $50 plus $7.50 in HST, of which $2.50 represents the federal part of the HST ($50 × 5%) and $5 represents the provincial part of the HST ($50 × 10%). The firm reimburses the employee by paying the employee’s bill. The out-of-pocket expense related to the telecommunication service is not incurred by the firm as an agent of the client.
+
+As a result of a temporary recapture rate of 75% for Prince Edward Island being in effect in respect of the provincial part of the HST, the firm may only claim an ITC of $3.75 of the $7.50 HST that was paid ($2.50 federal part of the HST plus $5 provincial part of the HST × 25%). The firm therefore issues the following invoice to the client:
+
+Consulting services
+
+$5,000.00
+
+Telecommunications service
+
+53.75
+
+**Subtotal**
+
+**5,053.75**
+
+HST 15% of $5,053.75
+
+758.06
+
+**Total**
+
+**$5,811.81**
+
+Because the firm is subject to the temporary recapture rules for ITCs, $3.75 of the $7.50 HST that was paid in respect of the telecommunication service remains unrecoverable by the firm. Although the firm may claim a full ITC (that is, $2.50) in respect of the federal part of the HST it paid for the telecommunication service, the firm is required to recapture $3.75 of the $5 it paid in respect of the provincial part of the HST for Prince Edward Island. As a result, the firm adds $3.75 to its invoice by including it in the amount charged for the telecommunication expense to be reimbursed by the client. The firm then charges its client the HST of 15% on the total consideration for the consulting services, which includes the telecommunication expense and unrecoverable HST paid by the firm.
+
+A registrant based in Alberta supplies taxable consulting services to a non-resident client. Although the place of supply of the consulting services is Alberta, the supply is zero-rated and therefore the GST at the rate of 0% applies to the supply. The non-resident client agrees to reimburse the supplier for out-of-pocket expenses, as well as for any mileage incurred by the supplier at a rate of $0.50 per kilometre.
+
+As part of the services, the supplier pays $100 for office supplies, an out-of-pocket expense not incurred as agent. Because they bought the supplies in Alberta, the GST of 5% applies on their purchase, and they pay a total of $105. In addition, the supplier uses their personal vehicle to drive 300 kilometres in the performance of the services.
+
+The supplier issues the following invoice to the non-resident client:
+
+Consulting services
+
+$1,500
+
+Office supplies
+
+100
+
+Vehicle use (300 kilometres at $0.50 kilometre)
+
+150
+
+**Subtotal**
+
+**1,750**
+
+GST 0% of $1,750.00
+
+0
+
+**Total**
+
+**$1,750**
+
+Because the supplier can claim ITCs in respect of the office supplies they purchased, their invoice to the non-resident client only includes, as additional consideration, the $100 that they paid for that supply, without the $5 GST that was paid in respect of the supply. The supplier also includes, as additional consideration, $150 as an out-of-pocket expense relating to the use of their vehicle. Because the supply is zero-rated, the supplier does not charge their non-resident client the GST on the total consideration payable for the consulting services, which includes the out-of-pocket expenses for the office supplies and the use of a personal vehicle that are not incurred by the supplier as an agent.
+
+## ITCs for taxes on food, beverage and entertainment expenses
+
+Generally, a registrant who is liable for the GST/HST paid or payable on its food, beverage and entertainment expenses may recover the GST/HST paid or payable on those expenses as an ITC. However, the ITC claimed is subject to a 50% recapture, which effectively restricts the ITC to 50% of the GST/HST paid or payable on these expenses. This recapture applies when the registrant is subject to the limitation rules for deducting the expenses under the Income Tax Act (ITA), or would be subject to those rules if the registrant were a taxpayer under the ITA.
+
+The limitation rules under the ITA do not apply when the expenses are reasonably reimbursed by another person, and where they are specifically identified to the person in writing as food, beverages, or entertainment expenses. However, the limitation rules then apply to that other person.
+
+For further information on the recapture rules, refer to [GST/HST Memorandum 8-2, General Restrictions and Limitations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-2.html).
+
+A registrant based in Saskatchewan supplies taxable consulting services to a client in Saskatchewan. The place of supply of the consulting services is Saskatchewan, and the GST of 5% applies to the supply. The client agrees to reimburse the supplier’s out-of-pocket expenses, some of which are incurred in Saskatchewan and subject to Saskatchewan’s provincial sales tax (PST) of 6%.
+
+The supplier is required to recapture 50% of the ITC claimed for the GST paid or payable in respect of food, beverage or entertainment expenses. In the course of providing the service, the supplier purchases restaurant meals for $80 plus $4 GST ($80 × 5%) and $4.80 PST ($80 × 6%) for a total of $88.80. Because the supplier is subject to the recapture rules in respect of food, beverage or entertainment expenses, the supplier may only claim an ITC of $2 of the $4 GST that the supplier paid for the meals.
+
+When the supplier issues the invoice to the client, the out-of-pocket expenses (which include the restaurant meals, PST and unrecoverable GST) are only identified as “disbursements”:
+
+Consulting services
+
+$1,500.00
+
+Disbursements
+
+86.80
+
+**Subtotal**
+
+**1,586.80**
+
+GST 5% of $1,586.80
+
+79.34
+
+**Total**
+
+**$1,666.14**
+
+Since the supplier is subject to the recapture rules, $2 of the GST paid by the supplier remains unrecoverable by the supplier. As a result, the supplier adds $2 to its invoice by including it in the amount charged for the disbursements to be reimbursed by the client. The supplier then charges its client the GST of 5% on the total consideration payable for the consulting services, which includes the disbursements.
+
+A registrant based in Ontario supplies taxable consulting services to a client in Manitoba. The place of supply of the consulting services is Manitoba, and the GST of 5% applies to the supply. The client agrees to reimburse the supplier’s out-of-pocket expenses, some of which are incurred in Manitoba and subject to Manitoba’s retail sales tax (RST) of 7%.
+
+The supplier pays $500 plus 13% HST, for a total of $565, in respect of roundtrip airfare from Ontario to Manitoba. While in Manitoba, the supplier purchases hotel accommodation for $200 plus $10 GST ($200 × 5%) and $14 RST ($200 × 7%), for a total cost of $224, and restaurant meals for $100 plus $5 GST ($100 × 5%) and $7 RST ($100 × 7%), for a total cost of $112.
+
+The supplier issues the client the following invoice:
+
+Consulting services
+
+$2,500.00
+
+Roundtrip airfare
+
+500.00
+
+Hotel accommodation (incl. RST)
+
+214.00
+
+Restaurant meals (incl. RST)
+
+107.00
+
+**Subtotal**
+
+**3,321.00**
+
+GST 5% of $3,321.00
+
+166.05
+
+**Total**
+
+**$3,487.05**
+
+Because the supplier can claim ITCs in respect of the GST and the HST it paid on the supplies for which the supplier incurred out-of-pocket expenses, the supplier only includes, as additional consideration, the $500 paid for the supply of the airfare, as well as the RST-included amounts of $214 and $107 paid for the supplies of the accommodation and meals.
+
+In this example, the supplier is not subject to the 50% recapture of the ITCs claimed for the GST/HST on the meals because the supplier is reasonably compensated by the client, and specifically identifies to the client in writing that the expenses are for meals. However, the client is subject to the 50% recapture of the ITCs the client claims on these meal expenses.
+
+In addition, the hotel accommodation and restaurant meals purchased in Manitoba by the supplier are subject to both the GST and the RST. However, because ITCs may be claimed in respect of the GST/HST that was imposed in respect of a supply, the supplier may include on its invoice only the RST paid in respect of the accommodation and meals.
+
+The supplier therefore charges the client 5% GST on the total consideration payable for the consulting services, which includes the out-of-pocket expenses for air travel, as well as the RST-included accommodation and meals, that are not incurred by the supplier as an agent.
+
+## Expenses incurred as agent
+
+When a supplier incurs an out-of-pocket expense as a client’s agent (that is, the expense is incurred as agent), the client is considered to be the recipient of the supply. The reimbursement of the supplier’s out-of-pocket expenses by the client is not treated as additional consideration for the supplier’s services. As a result, the expense identified in the supplier’s invoice to the client would not be subject to the GST/HST.
+
+It is important to note that when a supplier is an agent of the client, the supplier does not necessarily incur all out-of-pocket expenses as agent.
+
+Where the GST/HST is payable on an expense incurred as agent, the supplier is not eligible to claim an ITC in respect of the GST/HST that was paid or payable on the supply. Instead, the supplier should be reimbursed by the client for the expense, along with the GST/HST and any other taxes and levies paid by the supplier.
+
+Generally, a client who is a registrant can claim an ITC for the GST/HST paid or payable on the out-of-pocket expenses incurred by a supplier as agent of the client, in addition to the GST/HST paid or payable in respect of the supply of the supplier’s services, to the extent that the supplier’s services and the supply acquired by the supplier are consumed, used or supplied in the course of the client’s commercial activities. However, if the reimbursement is for food, beverages or entertainment expenses incurred by the supplier as the client’s agent, the client is required to recapture 50% of the ITCs claimed for the GST/HST on these expenses.
+
+If a supply that did not attract the GST/HST (for instance, the expense was for a zero-rated or an exempt supply) was incurred by the supplier as agent, the expense of the supply should flow through to the client for reimbursement without the GST/HST. In this case, the client could not claim an ITC in respect of the supply acquired by the supplier.
+
+A registrant supplies a taxable service to a client in British Columbia. The place of supply of the service is British Columbia, and the GST at the rate of 5% applies to the supply. The client agrees to reimburse the supplier for the supplier’s out-of-pocket expenses.
+
+In the course of providing the service, the supplier finds blueprints that could be useful to the client. The owner of the blueprints is willing to sell them for $400. The supplier obtains the client’s permission to purchase the blueprints, which the supplier does as the client’s agent, and pays $20 GST ($400 × 5%) for a total cost of $420.
+
+The supplier issues the following invoice to the client:
+
+Consulting services
+
+$2,000
+
+Subtotal
+
+2,000
+
+GST 5% of $2,000.00
+
+100
+
+**Total for services**
+
+**2,100**
+
+Blueprints (incl. GST)
+
+420
+
+**Total**
+
+**$2,520**
+
+The amount paid for the blueprints, including the GST, flows through to the client since it is incurred by the supplier as an agent of the client. As a result, the amount is not included in the consideration on which the GST for the supplier’s service is calculated. In other words, the 5% GST charged by the supplier is calculated only in respect of the supply of the service, and not on the amount paid by the supplier for the blueprints.
+
+A registrant supplies a taxable service to a registered client in Alberta. The place of supply of the service is Alberta, and the GST at the rate of 5% applies to the supply. The client agrees to reimburse the supplier for their out-of-pocket expenses.
+
+As part of their service, the supplier pays a fee to a foreign patent office for the registration of a patent. The foreign patent office collects $400 from the supplier for the registration service. In addition, the supplier will act as the client’s agent when registering for the patent.
+
+In the performance of the service, the supplier also acquires photocopies of certain documents for $100 from a registered supplier in Alberta and pays the GST of 5%.
+
+The supplier issues the following invoice to the client:
+
+Consulting services
+
+$2,000
+
+Photocopies
+
+100
+
+**Subtotal**
+
+**2,100**
+
+GST 5% of $2,100.00
+
+105
+
+**Total for fees**
+
+**2,205**
+
+Patent registration fee
+
+400
+
+**Total**
+
+**$2,605**
+
+The $100 that the supplier paid for the photocopies is an out-of-pocket expense not incurred as agent. However, because the supplier can claim an ITC in respect of the photocopies that they purchased, their invoice only includes, as additional consideration, the $100 that they paid for the supply, without the $5 GST that was paid. The supplier charges their client the GST of 5% on the total consideration payable for the consulting services, which includes the out-of-pocket expenses for the office supplies.
+
+The amount paid for the patent registration flows through to the client since it is incurred by the supplier as an agent of the client. As a result, the amount is not included in the consideration on which the GST for the supplier’s service is calculated. In other words, the 5% GST charged by the supplier is calculated only in respect of the supply of the service and the out-of-pocket expenses not incurred as agent, and does not include the amount paid by the supplier for the registration of the patent.
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a GST/HST enquiry by telephone:
+
+- for **GST/HST general enquiries,**call Business Enquiries at 1‑800‑959‑5525
+
+- for **GST/HST technical enquiries,**call GST/HST Rulings at 1‑800‑959‑8287
+
+If you are located in**Quebec**, call**Revenu Québec**at **1‑800‑567‑4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST - Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for **general GST/HST** or **QST enquiries**, call Business Enquiries at 1‑800‑959‑5525
+
+- for **technical GST/HST** or **QST enquiries**, call GST/HST Rulings SLFI at 1‑855‑666‑5166

@@ -1,0 +1,616 @@
+---
+title: "Definition of “Selected Listed Financial Institution”"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6-1/definition-selected-listed-financial-institution.html
+last_modified: 2021-09-22
+---
+# Definition of “Selected Listed Financial Institution”
+
+GST/HST memorandum 17.6.1 July 2014
+
+This memorandum explains the meaning of the term “selected listed financial institution” (SLFI) under the *Excise Tax Act* (the Act) and provides information on how to determine whether or not a person is an SLFI for GST/HST purposes.
+
+**Disclaimer** The information in this memorandum does not replace the law found in the Act and its regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate regulation, or contact any Canada Revenue Agency (CRA) GST/HST rulings centre for additional information. A ruling should be requested for certainty in respect of any particular GST/HST matter. [GST/HST Memorandum 1.4*,*Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling and lists the GST/HST rulings centres.
+
+Since January 1, 2013, the CRA has been administering the GST/HST and the Quebec sales tax (QST) for listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST and/or QST purposes whether or not they are located in Quebec. If you wish to make a technical enquiry on the GST/HST related to SLFIs by telephone, please call 1-855-666-5166.
+
+Reference in this publication is made to the GST or the HST. The HST applies to taxable supplies made in the participating provinces at the following rates: 13% in Ontario, New Brunswick and Newfoundland and Labrador, 14% in Prince Edward Island and 15% in Nova Scotia. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, you may refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+Please refer to Appendix A for definitions of the following terms used in this memorandum: defined benefits pension plan, defined contribution pension plan, distributed investment plan, individual, investment plan, loan corporation, non-stratified investment plan, participating province, pension entity, pension plan, plan member, private investment plan, province, qualifying small investment plan, series, stratified investment plan and unit.
+
+## Table of Contents
+
+- [Financial institutions](#_Toc393284104)
+
+    - [De minimis financial institutions](#_Toc393284105)
+
+    - [Listed financial institutions](#_Toc393284106)
+
+- [Selected listed financial institution](#_Toc393284107)
+
+- [Prescribed financial institution](#_Toc393284108)
+
+    - [Permanent establishment](#_Toc393284109)
+
+    - [Province of residence of a person](#_Toc393284110)
+
+- [Qualifying partnership](#_Toc393284111)
+
+- [Investment plans that are not selected listed financial institutions](#_Toc393284112)
+
+    - [Provincial investment plans](#_Toc393284113)
+
+    - [Stratified investment plans with provincial series](#_Toc393284114)
+
+    - [Private investment plans or pension entities](#_Toc393284115)
+
+    - [Qualifying small investment plans](#_Toc393284116)
+
+- [Tips for determining whether a particular investment plan is an SLFI](#_Toc393284117)
+
+- [Appendix A – Definitions](#_Toc393284118)
+
+    - [Definition of investment plan](#_Toc393284119)
+
+    - [Definitions of types of investment plans](#_Toc393284120)
+
+    - [Definitions of other terms used in this memorandum](#_Toc393284121)
+
+- [Appendix B – Tips for determining whether a particular investment plan is an SLFI](#_Toc393284122)
+
+    - [Distributed investment plans](#_Toc393284123)
+
+    - [Private investment plans and pension entities](#_Toc393284124)
+
+## Financial institutions
+
+1. A “financial institution” is defined in subsection 123(1) to mean a person that is a financial institution under section 149. Subsection 149(1) identifies two categories of financial institutions for GST/HST purposes: listed financial institutions as described in paragraph 149(1)(a) and persons who are determined to be financial institutions based on the *de minimis* threshold tests set out in paragraphs 149(1)(b) and (c). The latter are referred to as *de minimis* financial institutions.
+
+### De minimis financial institutions
+
+2. There are two *de minimis* threshold tests, found under paragraphs 149(1)(b) and (c). A person may be a financial institution for GST/HST purposes under either of these two paragraphs. For more information on *de minimis* financial institutions, refer to [GST/HST Memorandum 17.7, De Minimis Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-7/minimis-financial-institutions.html). It is important to note that a *de minimis* financial institution cannot be an SLFI.
+
+### Listed financial institutions
+
+3. A “listed financial institution” is defined in subsection 123(1) to mean “a person referred to in paragraph 149(1)(a)”. Specifically, a listed financial institution is a person who is described in one of the categories set out in subparagraphs 149(1)(a)(i) through (xi). Refer to [GST/HST Memorandum 17.6, Definition of “Listed Financial Institution”](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6.html) for more information about listed financial institutions. If you are a listed financial institution, you may also be an SLFI, unless you are a listed financial institution described in subparagraph 149(1)(a)(xi).
+
+## Selected listed financial institution
+
+4. A “selected listed financial institution” is defined in subsection 123(1) to mean, “at any time, a listed financial institution who is at that time a selected listed financial institution under subsection 225.2(1)”.
+
+5. Determining whether a listed financial institution is an SLFI is necessary because SLFIs are subject to a particular treatment under various provisions of the Act. For example, an SLFI must generally use the special attribution method (SAM) formula under subsection 225.2(2) or the adapted SAM formula under section 48 of the *Selected Listed Financial Institutions Attribution Method (GST/HST) Regulations* (SLFI Regulations) to calculate its liability for the provincial part of the HST for each participating province.
+
+6. Under subsection 225.2(1), a financial institution is an SLFI throughout a reporting period in a fiscal year that ends in a taxation year of the financial institution if the financial institution is:
+
+1. a listed financial institution described in any of subparagraphs 149(1)(a)(i) to (x) at any time in the taxation year; and
+
+2. a prescribed financial institution throughout the reporting period.
+
+7. Subparagraphs 149(1)(a)(i) to (x) include the following categories of listed financial institutions:
+
+1. a bank;
+
+2. a corporation that is licensed or otherwise authorized under the laws of Canada or a province to carry on in Canada the business of offering to the public its services as a trustee;
+
+3. a person whose principal business is as a trader or dealer in, or as a broker or salesperson of, financial instruments or money;
+
+4. a credit union;
+
+5. an insurer or any other person whose principal business is providing insurance under insurance policies;
+
+6. a segregated fund of an insurer (Refer to the definition of investment plan in Appendix A for more information.);
+
+7. the Canada Deposit Insurance Corporation;
+
+8. a person whose principal business is the lending of money or the purchasing of debt securities or a combination thereof;
+
+9. an investment plan (Refer to the definition of investment plan in Appendix A for more information.); and
+
+10. a person providing services referred to in section 158 (tax discounter).
+
+## Prescribed financial institution
+
+8. Under section 9 of the SLFI Regulations, a listed financial institution is a prescribed financial institution throughout a reporting period in a particular fiscal year that ends in a taxation year of the financial institution if the financial institution:
+
+1. has, at any time in the taxation year, a permanent establishment in a participating province and has, at any time in the taxation year, a permanent establishment in any other province (Refer to paragraphs 10 to 13 below for more information.); or
+
+2. is a qualifying partnership during the taxation year. (Refer to paragraph 16 below for more information.)
+
+9. Certain investment plans and segregated funds of an insurer are excluded from being a prescribed financial institution when certain conditions are met. (Refer to paragraphs 17 to 26 below for more information.)
+
+### Permanent establishment
+
+10. For purposes of the SLFI Regulations, including determining whether or not a listed financial institution is a prescribed financial institution, the term “permanent establishment” is defined in subsection 1(1) of the SLFI Regulations to mean any permanent establishment that the person is deemed to have under section 3 of the SLFI Regulations and:
+
+1. **for a corporation** **other than an investment plan**, any permanent establishment of the corporation as determined under subsection 400(2) of the *Income Tax Regulations*;
+
+2. **for an individual or trust** **other than an investment plan**, any permanent establishment of the individual or trust as determined under subsection 2600(2) of the *Income Tax Regulations*;
+
+3. **for a partnership all the members of which are individuals or trusts**, any permanent establishment that would be a permanent establishment of the partnership under subsection 2600(2) of the *Income Tax Regulations* if the partnership were an individual; and
+
+4. **for a partnership to which paragraph (c) does not apply**, any permanent establishment that would be a permanent establishment of the partnership under subsection 400(2) of the *Income Tax Regulations* if the partnership were a corporation.
+
+For purposes of determining if a listed financial institution is a prescribed financial institution throughout a reporting period in a fiscal year that ends in a taxation year of the listed financial institution that begins before May 8, 2013, paragraphs (a) and (b) should be read without reference to the words “other than an investment plan” and no reference should be made to paragraph (c).
+
+11. Under section 3 of the SLFI Regulations, certain listed financial institutions are also deemed to have a permanent establishment in a province as indicated below:
+
+1. **if a financial institution is a bank**, and if, at any time in a taxation year of the financial institution, the financial institution maintains a deposit or other similar account that is in the name of the person resident in a province or, at any time in that year, a loan that was made by the financial institution is outstanding and is either secured by land situated in a province or, if not secured by land, is owing by a person resident in a province, the following rules apply:
+
+    1. the financial institution is deemed to have a permanent establishment in the province throughout the taxation year; and
+
+    2. the following loans made by the financial institution and deposit and other similar accounts maintained by the financial institution are deemed to be loans and deposits of the permanent establishment referred to in subparagraph (i) above and not of any other permanent establishment of the financial institution:
+
+          1. outstanding loans secured by land situated in the province;
+
+          2. outstanding loans, not secured by land, owing by persons resident in the province; and
+
+          3. deposit and other similar accounts in the name of a person resident in the province;
+
+2. **if a financial institution is an insurer** that, at any time in a taxation year of the financial institution, is insuring a risk in respect of property ordinarily situated in a province or in respect of a person resident in a province, the financial institution is deemed to have a permanent establishment in the province throughout the taxation year;
+
+3. **if a financial institution is a trust and loan corporation, a trust corporation, or a loan corporation** and if, at any time in the taxation year of the financial institution, it conducts business (other than business in respect of loans) in a province or, at any time in that year, a loan that was made by the financial institution is outstanding and is either secured by land situated in a province or, if not secured by land, is owing by a person resident in a province, the financial institution is deemed to have a permanent establishment in the province throughout the taxation year;
+
+4. **if a financial institution is a segregated fund of an insurer**, the financial institution is deemed to have a permanent establishment in a province throughout a taxation year of the financial institution if, at any time in the taxation year:
+
+    1. the insurer is qualified, under the laws of Canada or a province, to sell units of the financial institution in the particular province; or
+
+    2. a person resident in the particular province holds one or more units of the financial institution;
+
+5. **if a financial institution is a distributed investment plan (other than a segregated fund of an insurer)**, the financial institution is deemed to have a permanent establishment in a province throughout a taxation year of the financial institution if, at any time in the taxation year:
+
+    1. the financial institution is qualified under the laws of Canada or a province, to sell or distribute units of the financial institution in the particular province; or
+
+    2. a person resident in the particular province holds one or more units of the financial institution; and
+
+6. **if a financial institution is a private investment plan or an investment plan that is a pension entity of a pension plan** and, at any time in a taxation year of the financial institution, a plan member of the financial institution is resident in a province, the financial institution is deemed to have a permanent establishment in the province throughout the taxation year.
+
+12. Under section 4 of the SLFI Regulations, if the listed financial institution has a permanent establishment in a province at any time in a taxation year, it is considered to have a permanent establishment in the province throughout the taxation year of the financial institution.
+
+13. A listed financial institution that does not have a permanent establishment in a participating province and a permanent establishment in any other province at any time in a taxation year cannot be an SLFI. For example, a trust governed by a registered retirement savings plan, a registered retirement income fund, or a registered education savings plan administered on an individual basis is generally not an SLFI because it would not have a permanent establishment in more than one province.
+
+### Province of residence of a person
+
+14. For purposes of the SLFI Regulations, including determining whether a listed financial institution has a permanent establishment in a particular province and is a prescribed financial institution, it may be necessary to determine whether a particular person, for example a unit holder or a plan member of an investment plan, is resident in a particular province.
+
+15. Under section 5 of the SLFI Regulations, for the purposes of these Regulations and despite subsection 132.1(1), a person resident in Canada is resident in the province:
+
+1. **if the person is an individual**, where the person’s principal mailing address in Canada is located;
+
+2. **if the person is a corporation or a partnership**, where the person’s principal business in Canada is located;
+
+3. **if the person is a trust governed by a registered retirement savings plan (RRSP), a registered retirement income fund (RRIF), a registered education savings plan (RESP), a registered disability savings plan (RDSP), or a tax free savings account (TFSA)**, where the principal mailing address in Canada of the annuitant of the RRSP or RRIF, of the subscriber of the RESP, or of the holder of the RDSP or the TFSA is located;
+
+4. **if the person is a trust (other than a trust described in paragraph (c) above)**, where the trustee’s principal business in Canada is located or, if the trustee is not carrying on a business, where the trustee’s principal mailing address in Canada is located; and
+
+5. **in any other case**, where the person’s principal business in Canada is located or, if the person is not carrying on a business, where the person’s principal mailing address in Canada is located.
+
+## Qualifying partnership
+
+16. As discussed in paragraph 8, a qualifying partnership is a prescribed financial institution. Under section 2 of the SLFI Regulations, for the purposes of these Regulations, a partnership is a qualifying partnership during a taxation year of the partnership if, at any time in the taxation year, the partnership has:
+
+1. a member that has, at any time in the taxation year of the member in which the taxation year of the partnership ends, a permanent establishment in a particular participating province through which a business of the partnership is carried on or that is deemed to be a permanent establishment of the member (Refer to paragraph 11 for more information.); and
+
+2. a member (including a member referred to in paragraph (a)) that has, at any time in the taxation year of the member in which the taxation year of the partnership ends, a permanent establishment in a province other than the particular participating province through which a business of the partnership is carried on or that is deemed to be a permanent establishment of the member. (Refer to paragraph 11 for more information.)
+
+## Investment plans that are not selected listed financial institutions
+
+17. Certain investment plans, which for purposes of the SLFI Regulations include segregated funds of an insurer, are not SLFIs because they are excluded from being prescribed financial institutions for purposes of paragraph 225.2(1)(b). These exclusions apply where certain conditions are met and the investment plan is:
+
+- a provincial investment plan;
+
+- an investment plan with provincial series;
+
+- a private investment plan or a pension entity of a pension plan; or
+
+- a qualifying small investment plan.
+
+Each of the above listed categories of investment plans will be discussed in more detail in the following paragraphs.
+
+### Provincial investment plans
+
+18. Under section 11 of the SLFI Regulations, a non-stratified investment plan will be a provincial investment plan in respect of a reporting period in a fiscal year that ends in a taxation year of the plan where it meets all of the following conditions throughout the particular fiscal year in respect of a particular province:
+
+1. under the laws of Canada or a province, units of the non-stratified investment plan are permitted to be sold or distributed in the particular province, but are not permitted to be sold or distributed in any other province;
+
+2. under the terms of the prospectus, registration statement, or other similar document for the non-stratified investment plan, or under the laws of Canada or a province, the conditions for a person owning or acquiring units of the plan include:
+
+    1. that the person be resident in the particular province when the units are acquired, and
+
+    2. that the units are required to be sold, transferred or redeemed within a reasonable time after the person ceases to be resident in the particular province; and
+
+3. the non-stratified investment plan’s provincial attribution percentage (calculated using the applicable formula in Part 2 of the SLFI Regulations) for the particular province and for the taxation year in which the preceding fiscal year ends, or the percentage that would be the non-stratified investment plan’s percentage for the particular province and for that taxation year if the particular province were a participating province, is 90% or more.
+
+19. A non-stratified investment plan that is a provincial investment plan is not a prescribed financial institution and therefore is not an SLFI in respect of a reporting period in a fiscal year that ends in its taxation year. For the definition of non-stratified investment plan, refer to Appendix A. For more information on calculating an investment plan’s provincial attribution percentage for a particular province, refer to [GST/HST Technical Information Bulletin B–107, Investment Plans (Including Segregated Funds of an Insurer) and the HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-107.html).
+
+### Stratified investment plans with provincial series
+
+20. Under section 12 of the SLFI Regulations, a stratified investment plan with provincial series will not be a prescribed financial institution in respect of a reporting period if each series of the stratified investment plan is a provincial series for the fiscal year. This provision is similar to section 11 of the SLFI Regulations that applies to non-stratified investment plans that are provincial investment plans and that is discussed in paragraphs 18 and 19.
+
+21. A “provincial series” for a fiscal year of a stratified investment plan is defined in subsection 1(1) of the SLFI Regulations as a series of the stratified investment plan that meets all of the following conditions throughout the fiscal year in respect of a particular province:
+
+1. under the laws of Canada or a province, units of the series are permitted to be sold or distributed only in the particular province and are not permitted to be sold or distributed in any other province;
+
+2. under the terms of the prospectus, registration statement, or other similar document for the series, or under the laws of Canada or a province, the conditions for a person owning or acquiring units of the series include the following:
+
+    1. that the person be resident in the particular province when the units are acquired, and
+
+    2. that the units are required to be sold, transferred, or redeemed within a reasonable time after the person ceases to be resident in the particular province; and
+
+3. the stratified investment plan’s provincial attribution percentage for the series (calculated using the applicable formula in Part 2 of the SLFI Regulations) for the particular province and for the taxation year in which the preceding fiscal year ends, or the percentage that would be the stratified investment plan’s percentage for the series, for the particular province and for that taxation year if the particular province were a participating province, is 90% or more.
+
+22. A stratified investment plan that only has provincial series for a fiscal year is not a prescribed financial institution and therefore is not an SLFI in respect of a reporting period in the fiscal year. For the definition of stratified investment plan, refer to Appendix A. For more information on calculating an investment plan’s provincial attribution percentage for a particular province, refer to [GST/HST Technical Information Bulletin B-107, Investment Plans (Including Segregated Funds of an Insurer) and the HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-107.html).
+
+### Private investment plans or pension entities
+
+23. Under section 13 of the SLFI Regulations, a private investment plan or a pension entity of a pension plan is not a prescribed financial institution in respect of a reporting period in a fiscal year that ends in its taxation year if:
+
+1. throughout the preceding taxation year, less than 10% of the total number of plan members of the private investment plan or pension entity of a pension plan are resident in the participating provinces; and
+
+2. throughout the preceding fiscal year, the following amount is less than $100 million:
+
+    1. in the case of a pension entity of a pension plan, part of which is a defined contribution pension plan and the remaining part of which is a defined benefits pension plan, the amount determined by the formulaA + B where A is the total value of the assets of the defined contribution pension plan that are reasonably attributable to the plan members of the financial institution resident in the participating provinces, and B is the total value of the actuarial liabilities of the defined benefits pension plan that are reasonably attributable to the plan members of the financial institution resident in the participating provinces,
+
+    2. in the case of a pension entity of a defined benefits pension plan, other than the pension entity described in subparagraph (i) above, the amount that is the total value of the actuarial liabilities of the pension plan that are reasonably attributable to the plan members resident in the participating provinces; and
+
+    3. in any other case, the amount that is the total value of the assets of the private investment plan or pension plan that are reasonably attributable to the plan’s members resident in the participating provinces.
+
+For ease of reference, a private investment plan or a pension entity that meets the conditions outlined above, will be referred to as a “provincial private investment plan” or a “provincial pension entity of a pension plan”.
+
+24. For a reporting period that begins before May 8, 2013, the investment plan may choose to read the reference to “preceding taxation year” in paragraph 23(a) above as a reference to “taxation year”.
+
+25. A provincial private investment plan or provincial pension entity of a pension plan is not a prescribed financial institution and therefore is not an SLFI in respect of a reporting period in a fiscal year that ends in its taxation year. For the definition of private investment plan, pension entity, and plan member and other related definitions, refer to Appendix A.
+
+### Qualifying small investment plans
+
+26. Under section 10 of the SLFI Regulations, a qualifying small investment plan (QSIP) is not a prescribed financial institution in respect of a reporting period in a fiscal year if:
+
+1. the investment plan was a QSIP for the fiscal year that precedes the particular fiscal year and was not an SLFI throughout that preceding fiscal year;
+
+2. the QSIP was an SLFI throughout the three fiscal years of the investment plan that precede the particular fiscal year; or
+
+3. the particular fiscal year is the first fiscal year of the QSIP.
+
+For the definition of QSIP, refer to Appendix A.
+
+27. Under section 15 of the SLFI Regulations, a QSIP that is a prescribed financial institution, and therefore an SLFI, can apply to the Minister to not be considered an SLFI for the particular fiscal year and the immediately following fiscal year.
+
+28. The investment plan would apply to the Minister by filing[Form RC4612, Application to Not Be Considered a Selected Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4612.html)*.*For more information on that application, refer to Form RC4612.
+
+29. Under section 14 of the SLFI Regulations, if an investment plan is, or reasonably expects to be, a QSIP for a fiscal year and is not a prescribed financial institution, the investment plan may make an election to be a prescribed financial institution for the purpose of paragraph 225.2(1)(b) and, therefore, be treated as an SLFI, unless paragraph 30 applies. The election is effective from the first day of the fiscal year. For more information on the election, refer to [GST/HST Form RC4606, Election or Revocation for a Qualifying Small Investment Plan to be Treated as a Selected Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4606.html).
+
+30. The election described in paragraph 29 cannot be made if:
+
+1. the investment plan is a provincial private investment plan or provincial pension entity of a pension plan in respect of a reporting period in the fiscal year (Refer to paragraphs 23 to 25 for more information.); and
+
+2. the investment plan has made an application in respect of the fiscal year that has been approved by the Minister, to not be considered an SLFI. (Refer to paragraphs 27 and 28 for more information.)
+
+Before May 8, 2013, the restriction in paragraph (a) did not apply.
+
+## Tips for determining whether a particular investment plan is an SLFI
+
+31. A series of tips were developed to help in the determination of whether a particular investment plan is an SLFI. These tips are found in Appendix B and are intended to provide general guidance only; more detailed information is provided in other sections of this memorandum. Before referring to these tips, it is important to first determine whether the particular investment plan is a distributed investment plan that is a stratified or non-stratified investment plan or the particular investment plan is a private investment plan or an investment plan that is a pension entity.
+
+## Further information
+
+All **GST/HST technical publications** are available on the CRA website at [www.cra.gc.ca/gsthsttech](http://www.cra.gc.ca/gsthsttech)
+
+To make an **enquiry**on the **GST/HST**by **telephone**, call one of the following numbers:
+
+- for **general enquiries,** call the **Business Enquiries** line at **1-800-959-5525**,
+
+- for **technical enquiries,**call **1-800-959-8287**.
+
+If you are located in **Quebec**, contact **Revenu Québec** at **1-800-567-4692**or visit their website at [www.revenuquebec.ca](http://www.revenuquebec.ca).
+
+If you are a**selected listed financial institution (**whether or not you are located in Quebec) and require information on the **GST/HST** or **QST**, call one of the following numbers:
+
+- for **general enquiries**, call **1-800-959-5525**,
+
+- for **technical enquiries**, call **1-855-666-5166**.
+
+## Appendix A – Definitions
+
+### Definition of investment plan
+
+For purposes of the SLFI Regulations, the term “investment plan” is defined in subsection 1(1) of the SLFI Regulations to mean a person referred to in subparagraph 149(1)(a)(vi) or (ix) (a segregated fund of an insurer or an investment plan) **other than** a trust governed by an RRSP, a RRIF, or an RESP.
+
+A “segregated fund” of an insurer is a person referred to in subparagraph 149(1)(a)(vi) and is defined in subsection 123(1) to mean a specified group of properties that is held in respect of insurance policies all or part of the reserves for which vary in amount depending on the fair market value of the properties.
+
+An “investment plan” is a person referred to in subparagraph 149(1)(a)(ix) and is defined in subsection 149(5) to mean:
+
+1. a trust governed by:
+
+    1. a registered pension plan,
+
+    2. an employees profit sharing plan,
+
+    3. a registered supplementary unemployment benefit plan,
+
+    4. a registered retirement savings plan (RRSP),
+
+    5. a deferred profit sharing plan,
+
+    6. a registered education savings plan (RESP),
+
+    7. a registered retirement income fund (RRIF),
+
+    8. an employee benefit plan,
+
+    9. an employee trust,
+
+    10. a mutual fund trust,
+
+    11. a pooled fund trust,[Footnote1](#fn1)
+
+    12. a unit trust, or
+
+    13. a retirement compensation arrangement, as each of those terms is defined for the purposes of the *Income Tax Act* (ITA) or the *Income Tax Regulations*;
+
+2. an investment corporation, as defined in the ITA;
+
+3. a mortgage investment corporation, as defined in the ITA;
+
+4. a mutual fund corporation, as defined in the ITA;
+
+5. a non-resident owned investment corporation, as defined in the ITA;
+
+6. a corporation exempt from tax under the ITA by reason of paragraph 149(1)(o.1) or (o.2) of the ITA; and
+
+7. a prescribed person, or a person of a prescribed class, but only where the person would be a selected listed financial institution for a reporting period in a fiscal year that ends in a taxation year of the person if the person were a listed financial institution included in subparagraph 149(1)(a)(ix) during the taxation year. Section 8 of the SLFI Regulations provides that an employee life and health trust is a prescribed person for purposes of paragraph 149(5)(g).
+
+### Definitions of types of investment plans
+
+#### Distributed investment plan
+
+A “distributed investment plan” is defined in subsection 1(1) of the SLFI Regulations and means an investment plan that is
+
+1. a corporation (other than a pension entity) exempt from tax under the ITA by reason of paragraph 149(1)(o.2) of the ITA;
+
+2. an investment corporation;
+
+3. a mortgage investment corporation;
+
+4. a mutual fund corporation;
+
+5. a mutual fund trust;
+
+6. a non-resident-owned investment corporation;
+
+7. a segregated fund of an insurer; or
+
+8. a unit trust.
+
+#### Non-stratified investment plan
+
+A “non-stratified investment plan” is defined in subsection 1(1) of the SLFI Regulations and means a distributed investment plan whose units are not issued in two or more series.
+
+#### Private investment plan
+
+A “private investment plan” is defined in subsection 1(1) of the SLFI Regulations and means an investment plan that is:
+
+- a trust governed by:
+
+    - an employees profit sharing plan;
+
+    - a registered supplementary unemployment benefit plan;
+
+    - a deferred profit sharing plan;
+
+    - an employee benefit plan;
+
+    - an employee trust;
+
+    - a retirement compensation arrangement; or
+
+- an employee life and health trust.
+
+#### Qualifying small investment plan
+
+Under subsection 7(2) of the SLFI Regulations, a private investment plan or an investment plan that is a pension entity is a qualifying small investment plan (QSIP) for a particular fiscal year where:
+
+(a) if the particular fiscal year is the first fiscal year of the investment plan, the amount determined by the following formula for each reporting period of the investment plan included in the particular fiscal year is equal to or less than $10,000:
+
+A × (365/B)
+
+where
+
+A is the unrecoverable tax amount for the reporting period, and
+
+B is the number of days in the reporting period; and
+
+(b) in any other case, the amount determined by the following formula is equal to or less than $10,000:
+
+A × (365/B)
+
+where
+
+A is the total of all amounts, each of which is an unrecoverable tax amount for a reporting period of the investment plan included in the fiscal year of the investment plan (in this paragraph referred to as the “preceding fiscal year”) that precedes the particular fiscal year, and
+
+B is the number of days in the preceding fiscal year.
+
+For the purposes of the determining whether an investment plan is a QSIP, the “unrecoverable tax amount” for a reporting period of an investment plan is the amount determined by the following formula which is in subsection 7(1) of the SLFI Regulations:
+
+A – B
+
+where
+
+A is the total of all amounts, each of which is
+
+1. an amount that would be included in the total for Element A of the SAM formula in subsection 225.2(2), read without reference to any adaptation made under Part 5 of the SLFI Regulations, for the reporting period, if the investment plan were an SLFI throughout the reporting period and no tax adjustment transfer election under subsection 55(1) were in effect throughout the reporting period,
+
+2. if the investment plan were a pension entity, an amount of tax that the pension entity would be deemed to have paid under subparagraph 172.1(5)(d)(ii) or (6)(d)(ii) or paragraph 172.1(7)(d) during the reporting period, if the pension entity were an SLFI throughout the reporting period, or
+
+3. if the investment plan were a pension entity, an amount with respect to a tax adjustment note issued to the pension entity that it would be required by paragraph 232.01(5)(b) or 232.02(4)(b) to include in its determination of net tax for the reporting period, if the pension entity were an SLFI throughout the reporting period; and
+
+B is the total of all amounts, each of which is
+
+1. an amount that would be included in the total for Element B of the SAM formula in subsection 225.2(2), read without reference to any adaptation made under Part 5 of the SLFI Regulations, for the reporting period, if the investment plan were an SLFI throughout the reporting period and no tax adjustment transfer election under subsection 55(1) were in effect throughout the reporting period,
+
+2. if the investment plan were a pension entity, the federal component amount, within the meaning of section 232.01, of a tax adjustment note issued under subsection 232.01(3) to the pension entity during the reporting period, or
+
+3. if the investment plan were a pension entity, the federal component amount, within the meaning of section 232.02, of a tax adjustment note issued under subsection 232.02(2) to the pension entity during the reporting period.
+
+In determining if an investment plan is a QSIP for a particular fiscal year of the investment plan that begins on or before January 28, 2011, the description of A is to be read without reference to paragraphs (b) and (c) and the description of B in that subsection is to be read without reference to paragraphs (b) and (c) in the above A − B formula.
+
+In determining if an investment plan is a QSIP for a particular fiscal year of the investment plan that begins after January 28, 2011 and before May 8, 2013, the investment plan may choose to read the description of A without reference to paragraph (c) and the description of B in that subsection without reference to paragraphs (b) and (c) in the above A − B formula.
+
+#### Stratified investment plan
+
+A “stratified investment plan” is defined in subsection 1(1) of the SLFI Regulations and means a distributed investment plan whose units are issued in two or more series.
+
+### Definitions of other terms used in this memorandum
+
+#### Defined benefits pension plan
+
+A “defined benefits pension plan” is defined in subsection 1(1) of the SLFI Regulations and means the part of a pension plan that is in respect of benefits under the plan that are determined in accordance with a formula set forth in the plan and under which the employer contributions are not determined in accordance with a formula set forth in the plan.
+
+#### Defined contribution pension plan
+
+A “defined contribution pension plan” is defined in subsection 1(1) of the SLFI Regulations and means the part of a pension plan that is not a defined benefits pension plan.
+
+#### Individual
+
+“Individual” is defined in subsection 1(1) of the SLFI Regulations and means a natural person and the estate or succession of a deceased individual.
+
+#### Loan corporation
+
+The term “loan corporation” is not defined in the SLFI Regulations or the Act. The CRA considers a corporation to be a loan corporation for GST/HST purposes if it is considered as such a corporation under the federal *Trust and Loan Companies Act* or an equivalent provincial statute. A corporation may also be considered a loan corporation if it is treated as such under other federal statutes. In addition, a corporation whose principal business is the lending of money or the making of loans is considered a loan corporation. Refer to [GST/HST Memorandum 17.6, Definition of “Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6.html)”, for guidance on determining a person’s principal business.
+
+#### Participating Province
+
+A participating province means the province of New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, or Prince Edward Island but does not include the Nova Scotia offshore area or the Newfoundland offshore area except to the extent offshore activities, as defined in subsection 123(1), are carried on in that area. Prior to July 1, 2010, Ontario was not a participating province. British Columbia was a participating province from July 1, 2010 to March 31, 2013. Prior to April 1, 2013, Prince Edward Island was not a participating province.
+
+#### Pension entity
+
+A “pension entity” of a pension plan is defined in subsection 123(1) and means a person in respect of the pension plan that is:
+
+1. a person referred to in paragraph (a) of the definition “pension plan”;
+
+2. a corporation referred to in paragraph (b) of that definition; or
+
+3. a prescribed person. (Currently, there are no persons prescribed.)
+
+#### Pension plan
+
+A “pension plan” is defined in subsection 123(1) and means a registered pension plan (as defined in subsection 248(1) of the ITA):
+
+1. that governs a person that is a trust or that is deemed to be a trust for purposes of the ITA;
+
+2. for which a corporation is
+
+    1. incorporated and operated either
+
+          1. solely for the administration of the registered pension plan, or
+
+          2. for the administration of the registered pension plan and for no other purpose other than acting as trustee of, or administering, a trust governed by a retirement compensation arrangement (as defined in subsection 248(1) of the ITA), where the terms of the arrangement provide for benefits only in respect of individuals who are provided with benefits under the registered pension plan, and
+
+    2. accepted by the Minister, under subparagraph 149(1)(o.1)(ii) of the ITA, as a funding medium for the purpose of the registration of the registered pension plan; or
+
+3. for which a person is prescribed for the purposes of the definition “pension entity”.
+
+#### Plan member
+
+A “plan member” of an investment plan that is a private investment plan or a pension entity of a pension plan is defined in subsection 1(1) of the SLFI Regulations and means an individual who has a right, either immediate or in the future and either absolute or contingent, to receive benefits under:
+
+1. in the case of an employee life and health trust, the investment plan;
+
+2. in the case of a pension entity of a pension plan, the pension plan; and
+
+3. in any other case, the deferred profit sharing plan, the employee benefit plan, the employee trust, the employees profit sharing plan, the registered supplementary unemployment benefit plan, or the retirement compensation arrangement, as the case may be, that governs the investment plan.
+
+#### Province
+
+A “province” is defined in subsection 123(1) to include a participating province. It would also include British Colombia, Alberta, Saskatchewan, Manitoba, Quebec, the Yukon, the Northwest Territories, or Nunavut.
+
+#### Series
+
+A “series” is defined under subsection 1(1) of the SLFI Regulations and means:
+
+1. for a trust, a class of units of the trust; and
+
+2. for a corporation,
+
+    1. a class of the capital stock of the corporation that has not been issued in one or more series, and
+
+    2. a series of a class of the capital stock of the corporation that has been issued in one or more series.
+
+#### Unit
+
+A “unit” is defined under subsection 1(1) of the SLFI Regulations and means:
+
+1. for a trust, a unit of the trust;
+
+2. for a series of a trust, a unit of the trust of that series;
+
+3. for a corporation, a share of the capital stock of the corporation;
+
+4. for a series of a corporation, a share of the capital stock of the corporation of that series; and
+
+5. for a segregated fund of an insurer, an interest of a person, other than the insurer, in the segregated fund.
+
+## Appendix B – Tips for determining whether a particular investment plan is an SLFI
+
+Before referring to the following tips, it is important to first determine whether the particular investment plan is a distributed investment plan that is a stratified or non‑stratified investment plan, a private investment plan, or an investment plan that is a pension entity.
+
+### Distributed investment plans
+
+#### Non-stratified investment plans
+
+To determine whether or not a non-stratified investment plan is an SLFI, consider the following:
+
+Step 1: Is the non-stratified investment plan qualified under the laws of Canada or a province to sell or distribute units in at least one participating province or at least one person resident in a participating province holds one or more units of the investment plan, and is the non-stratified investment plan also qualified under the laws of Canada or a province to sell or distribute units in at least one other province or at least one person resident in another province holds one or more units of the investment plan?
+
+- If no, then the non-stratified investment plan is not an SLFI.
+
+- If yes, then the non-stratified investment plan may be an SLFI. Go to Step 2.
+
+Step 2: Is it a provincial investment plan? (Refer to paragraphs 18 and 19 for more information.)
+
+- If yes, then the non-stratified investment plan is not an SLFI.
+
+- If no, then the non-stratified investment plan is an SLFI.
+
+#### Stratified investment plans
+
+To determine whether or not a stratified investment plan is an SLFI, consider the following:
+
+Step 1: Is the stratified investment plan qualified under the laws of Canada or a province to sell or distribute units in at least one participating province or at least one person resident in a participating province holds one or more units of the investment plan, and is the stratified investment plan also qualified under the laws of Canada or a province to sell or distribute units in at least one other province or at least one person resident in another province holds one or more units of the investment plan?
+
+- If no, then the stratified investment plan is not an SFLI.
+
+- If yes, then the stratified investment plan may be an SLFI. Go to step 2.
+
+Step 2: Are all of the series of the stratified investment plan provincial series? (Refer to paragraphs 20 to 22 for more information.)
+
+- If yes, then the stratified investment plan is not an SLFI.
+
+- If no, then the stratified investment plan is an SLFI.
+
+Where the distributed investment plan is a segregated fund of an insurer it is necessary to consider whether the insurer, instead of the distributed investment plan as indicated above, is qualified under the laws of Canada or a province to sell the units of the segregated fund in at least one participating province and one other province.
+
+### Private investment plans and pension entities
+
+To determine whether or not a private investment plan or a pension entity of a pension plan is an SLFI, consider the following:
+
+Step 1: Does the private investment plan or pension entity of a pension plan have at least one plan member in a participating province and at least one plan member in another province?
+
+- If no, then the private investment plan or pension entity of a pension plan is not an SLFI.
+
+- If yes, then the private investment plan or pension entity of a pension plan may be an SLFI. Go to step 2.
+
+Step 2: Is it a provincial private investment plan or provincial pension entity of a pension plan? (Refer to paragraphs 23 to 25 for more information.)
+
+- If yes, then the provincial private investment plan or provincial pension entity of a pension plan is not an SLFI.
+
+- If no, then the private investment plan or pension entity of a pension plan may be an SLFI. Go to step 3.
+
+Step 3: Is it a qualifying small investment plan? (Refer to Appendix A – Definition of types of investment plans for more information.)
+
+- If no, then the private investment plan or pension entity of a pension plan would be an SLFI.
+
+- If yes, then the private investment plan or pension entity of a pension plan may be an SLFI. Go to step 4.
+
+Step 4: Is it a qualifying small investment plan that is excluded from being a prescribed financial institution? (Refer to paragraph 26 for more information.)
+
+- If yes, then the private investment plan or pension entity of a pension plan would not be an SLFI unless it has made an election to be treated as an SLFI.
+
+- If no, then the private investment plan or pension entity of a pension plan would be an SLFI unless it has made an application and has been authorized by the Minister not to be considered an SLFI.

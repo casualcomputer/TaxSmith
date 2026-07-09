@@ -1,0 +1,22 @@
+---
+title: "IT238R2 ARCHIVED - Fees paid to investment counsel"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it238r2.html
+last_modified: 2025-08-26
+---
+# IT238R2 ARCHIVED - Fees paid to investment counsel
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+This bulletin deals with the deductibility of fees, other than commissions, a taxpayer paid to an investment counsel.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [it238r2-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it238r2/archived-fees-paid-investment-counsel.html)

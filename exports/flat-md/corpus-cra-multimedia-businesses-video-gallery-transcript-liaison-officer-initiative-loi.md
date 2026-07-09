@@ -1,0 +1,27 @@
+---
+title: "Liaison Officer Initiative (LOI)"
+gallery_title: "Liaison Officer Initiative"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/businesses-video-gallery/transcript-liaison-officer-initiative-loi.html
+video_source: /content/dam/cra-arc/migration/cra-arc/vc/bsnss/loi-ial-eng.webm
+last_modified: 2016-04-26
+---
+
+# Liaison Officer Initiative (LOI)
+
+## Transcript
+**NARRATOR (voice over):** Meet Dr. Denise.
+**DOCTOR DENISE:** Hi… I'm Dr. Denise!
+**NARRATOR:** Dr. Denise runs a thriving veterinary clinic.
+**DOCTOR DENISE:** It seems like my business has grown overnight!
+**NARRATOR:** Like most business owners, Dr. Denise is busy.
+**DOCTOR DENISE:** Busy alright…and to keep my business growing, it's important to do things right.
+**NARRATOR:** That's why the Canada Revenue Agency has created the “Liaison Officer Initiative.”
+**DOCTOR DENISE:** I wasn't sure about accepting a visit from the CRA at first but I'm glad that I did. There are a lot of tax rules and regulations to be aware of. And good advice is always welcome in my books.
+**NARRATOR:** The Liaison Officer Initiative is a voluntary program that is designed to help small businesses get their tax affairs right from the start.
+**DOCTOR DENISE:** So the Canada Revenue Agency offered to send a liaison officer out for an hour or two at my convenience to help me understand my tax obligations.
+He was friendly and helpful and showed me where I can find more information.
+I learned a lot. The liaison officer showed me some common mistakes businesses like mine make, answered all my questions, and even phoned back two weeks later to see if there was anything else they could do.
+I didn't know the CRA did that. This is a great service for small businesses like mine. I was really impressed.
+**NARRATOR:** The Liaison Officer Initiative helps you to avoid common tax problems. That reduces red tape, and saves you time and money.
+**DOCTOR DENISE:** And with one less thing to worry about, I can focus on taking care of business!
+**DOCTOR DENISE:** The Liaison Officer Initiative. Helping Canadian businesses start off on the right foot.

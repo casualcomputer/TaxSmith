@@ -1,0 +1,52 @@
+---
+title: "ARCHIVED - Prepayments of rents"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it261r/archived-prepayments-rents.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Prepayments of rents
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-261R**
+
+DATE: May 20, 1980
+
+SUBJECT: INCOME TAX ACT**Prepayments of rents**
+
+REFERENCE: Reference: 9(1), 18(1)(a) (also paragraph 18(1)(b) and subparagraph 20(1)(m)(iii))
+
+This bulletin cancels and replaces Interpretation Bulletin IT-261 dated November 3, 1975 and Special Release dated December 5, 1977.
+
+1. This bulletin deals with prepayments of rent and the treatment of the prepayments for tax purposes.
+
+2. It is sometimes difficult to distinguish between a payment of a premium and a prepayment of rent. The nature and treatment of a premium is discussed in IT-359, Premium on Leases.
+
+3. A payment is a prepayment of rent where a tenant makes a payment to his landlord and, as a result pays no rent or pays rent at a rate that is less than he would otherwise have had to pay. The payment of an amount for the right to assume, from the payee, an existing lease whose rental is below current market values is considered a premium.
+
+4. In determining whether a payment is a premium or is prepaid rent or contains an element of both, each case must be considered in the context of the factual circumstances of the transaction. It is the substance of the transaction that determines what the payment is rather than the name agreed on by the parties to describe that payment.
+
+5. As a general rule taxpayers must use the accrual method of accounting to calculate income from a business or property, unless the Income Tax Act provides otherwise in respect of specific items of income or expense.
+
+Rent Prepayments Made Prior to 1979
+
+6. While rent prepayments are generally subject to the comments in 5 above, the following comments summarize and clarify the Department's position with respect thereto. In the past, when calculating income from property some individual taxpayers deducted prepaid rent in the fiscal period in which it was paid rather than in the period that it benefitted. The Department will accept this practice for payments which were made prior to December 5, 1977. Where a prepayment of rent was made after December 5, 1977 and prior to 1979 and was deducted in the year of payment, it will be accepted only if the entire prepayment was for a period of five years or less.
+
+7. The December 5, 1977 Special Release to IT-261 required that rent prepaid by such taxpayers for a period in excess of five years be capitalized. Where such a taxpayer has adopted this treatment, it will be accepted in respect of such rent prepayments made before 1979. The Department will also accept the capitalization of prepaid rent made before 1979 by such taxpayers in respect of periods less than five years. However, where a taxpayer has made a prepayment of rent before 1979 and any part of that payment has been neither deducted nor capitalized in accordance with the preceding guidelines, as evidenced by returns filed prior to the date of this bulletin, that balance must be allocated over the remaining life of the lease plus all renewal periods unless the terms of the lease indicate that the payments relate to shorter periods.
+
+Post 1978 Prepaid Rent
+
+8. Where a taxpayer makes a rent prepayment after 1978, he must amortize it over the life of the lease plus all renewal periods unless the terms of the lease clearly indicate that the prepayment relates to a shorter period. However, in computing income from a farming or fishing business, a taxpayer may elect to use the cash method and may, therefore, deduct a rent prepayment in the year it is paid.
+
+Landlords
+
+9. Where a landlord receives a prepayment of rent which represents income from a business, he must include the full amount of the prepayment in computing his income for the year of receipt by virtue of paragraph 12(1)(a). However he may claim a reserve for a reasonable amount pursuant to subparagraph 20(1)(m)(iii). The reasonable amount for this purpose at the end of a taxation year would be that part of the rent received in advance, and included in the income of the taxpayer for that year or a prior taxation year, which relates to the period of time after the end of the year for which the possession or use of the property must be made available.
+
+10. Where a landlord receives a prepayment of rent which represents income from property (rather than income from a business) and reports his income on an accrual basis, in accordance with generally accepted accounting practice there will be included in computing income for a particular taxation year only that portion of the rent prepayment that is for the use or possession of the rented property for that year. Any balance of the prepayment and any expenses relating thereto would, of course, be reflected in computing income for the particular taxation years to which they relate.

@@ -1,0 +1,154 @@
+---
+title: "ARCHIVED - Stock dividends"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it88r2/archived-stock-dividends.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Stock dividends
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO.: **IT-88R2**
+
+DATE: May 31, 1991
+
+SUBJECT: INCOME TAX ACT**Stock Dividends**
+
+REFERENCE: The definitions of "amount", "dividend", "stock dividend" and "specified shareholder" in subsection 248(1) (also Parts VI.1 and XIII, sections 47, 112, 187.2, 187.3, and 191.1 and subsections 15(1.1), 52(3), 95(7), 258(3) and 258(5) and paragraph 89(1)(c) of the Act, and subsection 26(17) of the Income Tax Application Rules, 1971 (ITAR))
+
+**Notice to the reader:**
+
+- [Bulletins do not have the force of law](https://www.canada.ca/formspubs/pbs/tntc-eng.html).
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it88r2.html).
+
+Application
+
+This bulletin cancels and replaces Interpretation Bulletin IT-88R dated January 12, 1981. Current revisions are designated by vertical lines.
+
+Summary
+
+This bulletin discusses the tax implications of receiving a stock dividend. It discusses what constitutes a stock dividend, how to determine the amount of the stock dividend and the cost to the recipient of the shares received.
+
+A stock dividend is a dividend paid by the issuance of shares of the capital stock of the payer corporation. For stock dividends paid by Canadian resident corporations, the "amount" of a stock dividend is generally equal to the increase in the paid-up capital of the corporation by virtue of the payment of the dividend. This "amount" is included in the shareholder's income as an ordinary taxable dividend and is subject to the gross-up and dividend tax credit provisions. Shares received as a result of a stock dividend are deemed to have been acquired at a cost equal to the "amount" of the stock dividend. An exception to these general rules applied to certain stock dividends paid by public corporations between April 1, 1977 and May 23, 1985. These stock dividends did not constitute dividends and therefore were not required to be included in the shareholders' income. The shares so received were deemed to have been acquired at a cost of nil.
+
+Discussion and Interpretation
+
+Meaning of stock dividend
+
+1. In subsection 248(1), "stock dividend" is defined as including any dividend paid by a corporation to the extent that it is paid by the issuance of shares of any class of the capital stock of the payer corporation.
+
+2. A dividend which is paid in the form of shares of another corporation is a dividend "in kind" and not a stock dividend for income tax purposes. For a discussion of dividends "in kind", refer to the current version of IT-67 entitled, Taxable Dividends from Canadian Resident Corporations.
+
+3. A stock dividend must also be distinguished from a stock split. The fact that a corporation may refer to a transaction as a stock split does not prevent the Department from looking behind the language used to determine its true nature. In a stock split, there is an increase in the number of shares accompanied by a proportional decrease in the legal paid-up capital per share so that neither the total amount of legal paid-up capital nor the total amount of surplus available for distribution as a dividend is altered. In a stock dividend, there is a distribution of shares accompanied by a capitalization of retained earnings or any other surplus account available for distribution as a dividend. For a discussion of the tax implications of a stock split, refer to the current version of IT-65 entitled, Stock Splits and Consolidations.
+
+4. In certain jurisdictions it is permissible for a corporation to acquire previously issued shares in its capital stock, without cancelling them or restoring them to authorized but unissued shares, and to subsequently resell such shares. Whether or not a pro rata distribution of such shares constitutes a stock dividend depends on the corporate law to which the payer corporation is subject. In some jurisdictions, such a distribution of shares is a stock dividend only if it involves the "issuance" of shares of the corporation and a distribution of previously issued shares would not constitute an issuance.
+
+5. The rules governing the cost of shares received as a stock dividend and the amount of a stock dividend are found in subsections 52(3) and 95(7) and in paragraph (c) of the definition of "amount" in subsection 248(1). These rules have been amended several times since 1972. The definition of "amount" depends on the definition of "paid-up capital" in paragraph 89(1)(c) which has also been amended several times since 1972. Therefore, special attention should be given to the relevant definition of "paid-up capital" in the Act when computing the "amount" of a stock dividend as described in the paragraphs below. The above provisions are discussed in paragraphs 7 to 17 for stock dividends received from Canadian resident corporations, paragraphs 18 to 20 for stock dividends received from non- resident corporations and paragraph 21 for stock dividends received from foreign affiliates.
+
+The Period Prior to January 1, 1972
+
+6. Pursuant to paragraph 26(17)(b) of the ITAR, the actual cost, for purposes of section 26 of the ITAR, of any shares received as a stock dividend during this period is equal to the amount that was deemed to have been received as a dividend under subsection 81(3) of the pre-1972 Act.
+
+STOCK DIVIDENDS RECEIVED FROM CANADIAN CORPORATIONS
+
+January 1, 1972 to March 31, 1977
+
+7. A stock dividend paid during this period by a corporation resident in Canada was treated as a dividend for income tax purposes by virtue of the definition of "dividend" in subsection 248(1) and the amount of the dividend was therefore taxed in the same way as other dividends, as described in the current version of IT-67. By virtue of subsection 52(3), the cost of shares received as a stock dividend in this period is the amount of the stock dividend. The "amount" of a stock dividend was defined in subsection 248(1) to be "the amount of the increase in paid-up capital of the corporation by virtue of the payment of the dividend".
+
+April 1, 1977 to November 16, 1978
+
+8. The definition of "dividend" in subsection 248(1) relevant to this period provided that a stock dividend paid by a corporation resident in Canada constituted a dividend unless it was paid by a public corporation to
+
+(a) a person resident in Canada (other than a non-resident owned investment corporation that, either alone or together with other persons related to it, owned more than 10% of the shares of the class of the capital stock of the corporation on which the stock dividend was paid) or
+
+(b) a person not resident in Canada (other than a person who either alone or together with other persons related to him owned more than 10% of the shares of the class of the capital stock of the corporation on which the stock dividend was paid).
+
+9. If the stock dividend did not constitute a dividend, it was not included in income and the shares received by virtue thereof were deemed under subsection 52(3) to have been acquired at a cost of nil.
+
+10. If the stock dividend constituted a dividend, the amount of the dividend (that is, the amount of the increase in paid-up capital of the corporation by virtue of the payment of the dividend) would be the amount that was included in income and would also be the cost of the shares under subsection 52(3).
+
+November 17, 1978 to May 23, 1985
+
+11. The definition of "dividend" in subsection 248(1) relevant to this period provided that a stock dividend paid by a corporation resident in Canada constituted a dividend unless it was paid by a public corporation (other than one paid after December 11, 1979 by an investment corporation) to
+
+(a) a person resident in Canada other than
+
+(i) a non-resident-owned investment corporation that, either alone or together with other persons related to it, owns more than 10% of the shares of the class of the capital stock of the corporation on which the stock dividend was paid,
+
+(ii) a non-resident-owned investment corporation where the stock dividend is paid in shares of a class that is not the same as the class to which the share on which the stock dividend was paid belongs, or
+
+(iii) a corporation (other than a non-resident- owned investment corporation) to which a dividend paid on the share of the class of the capital stock of the corporation on which the stock dividend was paid would, if paid at the time the stock dividend was paid, not be deductible for the purpose of computing its taxable income, or
+
+(b) a person not resident in Canada other than a person who either alone or together with related persons owns more than 10% of the shares of the class of the capital stock of the corporation on which the stock dividend was paid.
+
+12. Relevant to stock dividends paid in this period, "amount" as defined in subsection 248(1) means
+
+(a) in the case of a dividend described in subsection 112(2.1) or (2.2), or after November 12, 1981 subsection 112(2.3), the greater of
+
+(i) the amount of the increase in the paid-up capital of the corporation by virtue of the payment of the dividend, and
+
+(ii) the fair market value of the share or shares paid as a stock dividend at the time of payment, and
+
+(b) in any other case, the amount of the increase in the paid-up capital of the corporation by virtue of the payment of the dividend.
+
+13. The definitions of "dividend" and "amount" in subsection 248(1) relevant to this period result in a stock dividend described in subsection 112(2.1) or (2.2), or after November 12, 1981 subsection 112(2.3), being a dividend for income tax purposes. The amount of the dividend (which can be as high as the fair market value of the shares received thereunder) is not deductible in computing the taxable income of the recipient corporation and constitutes the cost of the shares received thereunder.
+
+14. The comments in 9 and 10 above are otherwise equally applicable to stock dividends paid during this period.
+
+15. A stock dividend which constituted a dividend is subject to Part XIII tax if the dividend was described in subsection 212(2) as that subsection read relevant to this period. A stock dividend which did not constitute a dividend is also subject to Part XIII tax unless it was paid to the non-resident in shares of the same class of the capital stock of the payer corporation as that on which the stock dividend was paid (see 25 below for withholding requirements).
+
+After May 23, 1985
+
+16. Applicable with respect to dividends paid after May 23, 1985 (other than dividends declared on or before that day), the definition of "dividend" in subsection 248(1) simply states that a "dividend" includes a stock dividend. Thus, the amount of a stock dividend is now taxed in the same manner as an ordinary taxable dividend. In this regard, "amount" has the meaning set out in 12 above except that after June 18, 1987 paragraph (a) of 12 above applies to stock dividends described in subsection 112(2.1), (2.2) or (2.4), 258(3) or (5), or section 187.2 or 187.3. Where section 191.1 applies to the stock dividend, paragraph (a) of 12 above also applies for the purposes of Part VI.1. Paragraph (b) of 12 above continues to apply in all other cases.
+
+17. Pursuant to subsection 52(3), the recipient of a stock dividend during this period (other than such stock dividends that were declared by the corporation before May 24, 1985 and paid before 1986) is deemed to have acquired the shares at a cost equal to the aggregate of
+
+(a) the amount of the stock dividend, and
+
+(b) where an amount is included in the shareholder's income in respect of the stock dividend under subsection 15(1.1), the amount so included. See 23 below for comments on subsection 15(1.1).
+
+STOCK DIVIDENDS RECEIVED FROM NON-RESIDENT CORPORATIONS
+
+January 1, 1972 to December 31, 1976
+
+18. A stock dividend paid during this period by a corporation not resident in Canada constituted a dividend for income tax purposes. The amount of the stock dividend,which, with the exception of stock dividends from foreign affiliates, discussed in 21 below, was the amount of the increase in the paid-up capital of the corporation by virtue of the payment of the dividend, was included in income under section 90 and formed the cost of the shares received thereunder by virtue of subsection 52(3).
+
+January 1, 1977 to May 23, 1985
+
+19. A stock dividend paid during this period by a corporation not resident in Canada is not treated as a dividend by virtue of the definition of dividend in subsection 248(1). Accordingly, no amount is required to be included in the income of a Canadian resident shareholder receiving such a dividend. By virtue of paragraph 52(3)(b), the shareholder is deemed to have acquired the shares at a cost of nil.
+
+After May 23, 1985
+
+20. As mentioned in 16 above, a dividend now includes a stock dividend. Thus with respect to a stock dividend paid after May 23, 1985 by a non-resident corporation to a Canadian resident shareholder, the shareholder must include in income an amount equal to the paid-up capital of the shares received, and the comments in 17 above are relevant in determining the cost of the shares received.
+
+Note: In draft legislation released by the Minister of Finance on February 18, 1991, it is proposed that the definition of "dividend" in subsection 248(1) and the description of the "cost of a stock dividend" in subsection 52(3) be amended. The proposed definition of dividend in subsection 248(1) will exclude stock dividends received by corporations or mutual fund trusts from non-resident corporations
+
+(a) after May 23, 1985 and before 1991 where the corporation or trust so elects in writing before July 1991, and otherwise
+
+(b) after 1990. Also, the cost of the shares received as a result of such excluded stock dividends paid after May 23, 1985 will be deemed to be nil under proposed paragraph 52(3)(a.1).
+
+STOCK DIVIDENDS RECEIVED FROM FOREIGN AFFILIATES
+
+21. By virtue of subsection 95(7), the amount of a stock dividend received from a foreign affiliate in the 1972 and subsequent taxation years is, in respect of the recipient corporation, deemed to be nil for certain purposes. This includes the determination of the deemed cost of acquisition under subsection 52(3) and the amount to be included under section 90 in computing income.
+
+GENERAL COMMENTS
+
+22. Shares received as a stock dividend may be "identical" to shares which the shareholder already owns. Where such is the case, the identical property provisions of section 47 will be applicable for the purposes of computing the adjusted cost base of the shares. Thus, the cost determined under subsection 52(3) of shares received as a stock dividend will be averaged under these rules with the adjusted cost base of other identical shares.
+
+23. The provisions of subsection 69(1) are not applicable to shares distributed as a stock dividend. In addition, subsections 15(1) and 84(1) are not applicable to the payment of a stock dividend by virtue of paragraphs 15(1)(b) (paragraph 15(1)(e) prior to July 1988) and 84(1)(a) respectively. However, with respect to stock dividends paid after November 21, 1985 other than stock dividends declared on or before that day, subsection 15(1.1) requires the fair market value of a stock dividend to be included in income, except to the extent that it is otherwise included in the recipient's income under paragraph 82(1)(a), where it may reasonably be considered that one of the purposes of the payment of the stock dividend was to alter significantly the value of the interest of any specified shareholder of the payer corporation. Subject to various deeming provisions in subsection 248(1), a "specified shareholder" is a taxpayer who owns, directly or indirectly, at any time in the year, not less than 10% of the issued shares of any class of the capital stock of the corporation, or any other corporation that is related to the corporation.
+
+24. Where a dividend is paid partly in the form of shares of the payer corporation and partly in the form of cash, the stock portion constitutes a stock dividend. The cash portion, including cash paid in lieu of the issuance of a fractional share, is subject to the usual rules regarding cash dividends. If the share portion of the dividend was not considered to be a dividend at the time it was paid (see 8 and 11 above), the cash portion will constitute "the full amount of the dividend" where that term appears in the Act.
+
+25. Where a corporation resident in Canada pays a stock dividend to a non-resident shareholder, Part XIII tax must generally be withheld and remitted pursuant to section 215. However, it is not permissible to remit such tax in the form of shares. One approach to this problem is to declare the dividend partly in shares and partly in cash such that sufficient cash is available to satisfy the Part XIII tax liability.
+
+26. The tax treatment of a stock dividend in the country in which a non-resident corporate payer resides is not relevant in determining the amount of the dividend for Canadian tax purposes. Corporate law in such countries will be relevant in determining the amount by which the paid-up capital (as defined in paragraph 89(1)(c)) of such corporations increases by virtue of the stock dividend and it is the responsibility of the Canadian resident recipient of the stock dividend to obtain the relevant information in this regard.
+
+27. Some corporations have a dividend reinvestment program whereby the corporation does not pay dividends in cash to shareholders who participate in the program but, instead, invests the dividend in shares of the corporation on behalf of the shareholders. In these cases, shares of the corporation issued to shareholders pursuant to a dividend reinvestment program do not constitute stock dividends. The amount of the dividend that would have been paid in cash to or on behalf of a particular shareholder, if the shareholder had not participated in the program, grossed up where applicable, will be included in the shareholder's income for the taxation year of the shareholder in which the cash dividend would have been paid.

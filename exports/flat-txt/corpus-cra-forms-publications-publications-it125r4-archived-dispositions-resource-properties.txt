@@ -1,0 +1,217 @@
+Title: ARCHIVED - Dispositions of Resource Properties
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it125r4/archived-dispositions-resource-properties.html
+Corpus path: corpus/cra/forms-publications/publications/it125r4/archived-dispositions-resource-properties.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Dispositions of Resource Properties
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-125R4**
+
+DATE: April 21, 1995
+
+SUBJECT: INCOME TAX ACT**Dispositions of Resource Properties**
+
+REFERENCE: Section 59.1, subsections 59(1), 66.2(1), 66.2(6), 66.4(6), 70(5.2) and paragraph 59(3.2)(c) (also subsections 44(2), 59(5), 66(12.1), 66(12.2), 66(12.3), 66(12.5), 66.2(7), 66.4(5) and (7), 87(1.2), 88(1.5) and 159(5), paragraphs 69(1)(b), 70(6)(b), 115(4)(a) and (b), subparagraphs 39(1)(a)(ii) and (ii.1) and the definitions of "disposition" and "proceeds of disposition" in section 54, "Canadian resource property" and "foreign resource property" in subsection 66(15), "cumulative Canadian development expense" in subsection 66.2(5), "cumulative Canadian oil and gas property expense" in subsection 66.4(5) and "mineral resource," "mineral" and "oil or gas well" in subsection 248(1) of the Income Tax Act)
+
+Application
+
+This bulletin cancels and replaces Interpretation Bulletins IT-125R3 dated June 13, 1983, and IT-329R, Income of Deceased Persons - Resource Properties, dated September 26, 1983.
+
+Summary
+
+This bulletin discusses the tax consequences of disposing of a Canadian resource property or a foreign resource property ("resource properties"). It also discusses involuntary dispositions, dispositions under "farm-out" transactions and deemed dispositions of resource properties on the death of a taxpayer. These rules apply to dispositions of resource properties by any taxpayer other than a dealer in resource properties (under subsection 66(5)) or a prospector or grubstaker who receives a share in the capital stock of a corporation (under section 35). Dispositions of resource properties involving successor corporations are not dealt with in this bulletin.
+
+Discussion and Interpretation
+
+Definitions
+
+1. Canadian resource property is defined in subsection 66(15) as any property of the taxpayer that is:
+
+(a) any right, licence or privilege to explore for, drill for or take petroleum, natural gas or related hydrocarbons in Canada;
+
+(b) any right, licence or privilege to:
+
+(i) store underground petroleum, natural gas or related hydrocarbons in Canada; or
+
+(ii) prospect, explore, drill or mine for minerals in a mineral resource in Canada;
+
+(c) any oil or gas well in Canada or any real property in Canada the principal value of which depends upon its petroleum or natural gas content (but not including any depreciable property used or to be used in connection with the extraction or removal of petroleum or natural gas therefrom);
+
+(d) any rental or royalty computed by reference to the amount or value of production from an oil or gas well in Canada or from a natural accumulation of petroleum or natural gas in Canada;
+
+(e) any rental or royalty computed by reference to the amount or value of production from a mineral resource in Canada;
+
+(f) any real property in Canada the principal value of which depends upon its mineral resource content (but not including any depreciable property used or to be used in connection with the extraction or removal of minerals therefrom); or
+
+(g) any right to or interest in any property described in any of (a) to (f) above, other than such a right or interest that the taxpayer has by virtue of being a beneficiary of a trust.
+
+Foreign resource property is defined in subsection 66(15) as a property outside Canada that would be a Canadian resource property if it were located in Canada.
+
+Oil or gas well is defined in subsection 248(1) and means any well (other than an exploratory probe or a well drilled from below the surface of the earth) drilled for the purpose of producing petroleum or natural gas or of determining the existence, location, extent or quality of a natural accumulation of petroleum or natural gas.
+
+Mineral resource is defined in subsection 248(1) and means:
+
+(a) a base or precious metal deposit;
+
+(b) a coal deposit;
+
+(c) a bituminous sands deposit, oil sands deposit or oil shale deposit; or
+
+(d) a mineral deposit in respect of which:
+
+(i) the Minister of Energy, Mines and Resources has certified that the principal mineral extracted is an industrial mineral contained in a non-bedded deposit;
+
+(ii) the principal mineral extracted is calcium chloride, diamond, gypsum, halite, kaolin or sylvite; or
+
+(iii) the principal mineral extracted is silica that is extracted from sandstone or quartzite.
+
+Mineral, defined in subsection 248(1), includes bituminous sands, calcium chloride, coal, kaolin, oil sands, oil shale and silica, but does not include petroleum, natural gas or a related hydrocarbon not expressly referred to in this definition.
+
+Disposition and proceeds of disposition, both defined in section 54, are also used in the context of dispositions of resource properties, under subsections 59(5) and 66.4(5). These terms, therefore, have the same meaning for dispositions of resource properties as they do for capital gains purposes. However, dispositions of resource properties are specifically excluded from capital gains treatment by subparagraphs 39(1)(a)(ii) and (ii.1).
+
+Canadian resource property
+
+2. The disposition of a Canadian resource property described in (b), (e) or (f) of that definition or any right to or interest in any such property (see (g) of that definition) results in a reduction to the taxpayer's cumulative Canadian development expense (CCDE), under F of the definition of CCDE in subsection 66.2(5). The amount of the reduction to CCDE is equal to the proceeds receivable from the disposition less outlays or expenses made or incurred for the purpose of the disposition and that are not otherwise deductible for the purposes of Part I of the Act (the net proceeds of disposition).
+
+Similarly, when a taxpayer disposes of a Canadian resource property described in (a), (c) or (d) of that definition or any right to or interest in any such property (see (g) of that definition) and the proceeds from the disposition become receivable, the net proceeds of disposition reduces the taxpayer's cumulative Canadian oil and gas property expense (CCOGPE), under F of the definition of CCOGPE in subsection 66.4(5).
+
+If a credit balance occurs in the CCOGPE in respect of a taxation year, such a balance must be deducted when calculating the CCDE, under L of the definition of CCDE in subsection 66.2(5). If there is a credit balance in the CCDE in respect of a taxation year, such a balance must be included in income, under paragraph 59(3.2)(c) and subsection 66.2(1).
+
+Foreign resource property
+
+3. When a taxpayer disposes of a foreign resource property in a taxation year, and the proceeds from the disposition become receivable (see 4 below), the net proceeds of disposition (see 2 above) is included when calculating the taxpayer's income for that year, under subsection 59(1).
+
+Amount receivable
+
+4. An amount becomes receivable when a collectible right to the amount is acquired. Thus, the recipient must have a clearly legal, though not necessarily immediate, right to receive an amount. Amounts to be received under "delay rentals," for example, do not have to be accounted for until the year in which they become receivable. Delay rentals are, for example, payments made under certain petroleum and natural gas leases in order to:
+
+(a) extend the time in which drilling must begin; or
+
+(b) keep the lease in existence after drilling has begun but has been halted.
+
+General
+
+5. Generally, in a non-arm's length transfer for no proceeds, or for proceeds less than the fair market value of the transferred property, or in the case of a gift, the transferor is deemed to receive proceeds of disposition equal to the fair market value of the resource property, under paragraph 69(1)(b). This does not apply, for example, where property is transferred on a tax-deferred basis under section 85.
+
+The proceeds of disposition for a resource property are deemed to be nil when a taxable Canadian corporation is wound-up under the conditions of subsection 88(1). If subsection 88(1) applies, subsection 88(1.5) deems the parent company to be the same corporation as, and a continuation of, the subsidiary for the purposes of sections 66.2 and 66.4 (and also subsection 59(3.3), sections 66, 66.1 and 66.7 and section 29 of the Income Tax Application Rules).
+
+In an amalgamation to which section 87 applies, resource properties are considered to become property of the new corporation and no disposition occurs. Furthermore, for the purposes of sections 66.2 and 66.4 (and also subsection 59(3.3), sections 66, 66.1 and 66.7 and section 29 of the Income Tax Application Rules), subsection 87(1.2) deems the new corporation to be the same corporation as, and a continuation of, each predecessor corporation in an amalgamation of:
+
+a) a corporation and one or more of its subsidiary wholly-owned corporations (as defined in subsection 87(1.4)); or
+
+b) two or more corporations each of which is a subsidiary wholly-owned corporation of the same person.
+
+However, the deeming provisions under subsection 87(1.2) cannot affect the determination of any predecessor corporation's fiscal period, taxable income or tax payable.
+
+Partnerships
+
+6. If a resource property that is disposed of belongs to a partnership, subsections 66.2(6) and 66.4(6) provide that the proceeds of disposition, which become receivable by the partnership during a fiscal period, are deemed to be receivable by each partner to the extent of the partner's share thereof. The proceeds of disposition are deemed to be receivable for the partner's taxation year in which the partnership's fiscal period ends (except as described in 7 below).
+
+7. When a non-resident person is a member of a partnership that is deemed under paragraph 115(4)(b) to have disposed of a Canadian resource property, the partner's share of the partnership's deemed proceeds of disposition of each such property reduces that partner's CCDE (under subsection 66.2(7)) or CCOGPE (under subsection 66.4(7)), as the case may be, in the taxation year of the non-resident person that is deemed to have ended under paragraph 115(4)(a).
+
+Involuntary dispositions
+
+8. An "involuntary disposition" of a property is a disposition where the proceeds of disposition are either compensation for property taken under statutory authority, or the sale price of property sold to a person by whom notice of an intention to take it under statutory authority was given (see Interpretation Bulletin IT-271, Expropriations - Time and Proceeds of Disposition). Subsection 44(2) states the rules for determining the time at which a taxpayer is deemed to have made an involuntary disposition, and the time at which the proceeds of disposition are deemed to become receivable.
+
+9. If an involuntary disposition of a Canadian resource property occurs, a taxpayer may make an election under section 59.1. The effect of this election is to exclude from income all (or a portion) of the proceeds of disposition that would otherwise be included in income to the extent that the taxpayer makes or incurs expenditures on Canadian exploration expenses (CEE), Canadian development expenses (CDE) or Canadian oil and gas property expenses (COGPE) in the immediately following ten taxation years (and so designates these expenditures under this election).
+
+10. A taxpayer may make this election by requesting, in the taxpayer's return of income for the taxation year in which the proceeds of disposition are deemed to have become receivable, that section 59.1 apply to the proceeds of disposition to the extent allowed (see 11 below). In the subsequent ten taxation years, the taxpayer must designate the CEE, CDE or COGPE (the designated resource expenses) that are to be offset against the amount of the election. This designation must be indicated in the return of income for the taxation year in which the expense is made or incurred. If a tax return is filed electronically, the election and subsequent designations must be filed in paper form.
+
+11. The amount of the proceeds of disposition that is subject to the election is the least of:
+
+(a) all amounts that become receivable for an involuntary disposition of Canadian resource property to the extent that they have been included in the amount referred to in paragraph (a) of the description of F in the definition of CCDE in subsection 66.2(5), or paragraph (a) of the description of F in the definition of CCOGPE in subsection 66.4(5) of the taxpayer;
+
+(b) the credit balance in the CCDE that must be included in income under paragraph 59(3.2)(c); and
+
+(c) the income for the year before the application of section 59.1.
+
+12. If the amount of the proceeds of disposition under the election is more than the total of the taxpayer's designated resource expenses for the subsequent ten taxation years, the taxpayer's return of income for the year of the election will be reassessed, under paragraph 59.1(b). Under such a reassessment, an amount equal to the excess of the elected proceeds of disposition over the designated resource expenses will be added to income, and any additional tax, interest or penalty may be assessed notwithstanding that the income tax return for the year would otherwise be statute barred under subsections 152(4) and (5).
+
+13. Paragraph 59.1(c) deems the designated resource expenses not to be CEE, CDE or COGPE, as the case may be, except for the purposes of subsections 66(12.1), (12.2), (12.3) and (12.5) and for the purpose of calculating the taxpayer's earned depletion base under section 65 and Part XII of the Income Tax Regulations. Thus, the designated resource expenses cannot also be treated as CEE, CDE or COGPE for which the taxpayer could claim a deduction. The exception ensures that any recovery of the designated resource expenses will, as provided for in subsections 66(12.1), (12.2), (12.3) and (12.5), give rise to an income inclusion.
+
+Farm-out transactions
+
+14. It is possible to have a disposition under a farm-out transaction that does not give rise to proceeds of disposition. This paragraph provides three examples of farm-out transactions in the oil and gas industry that do not give rise to proceeds of disposition. The following terminology is used in these examples.
+
+"Equipping costs" refers solely to equipment acquired to be used at the wellsite primarily for the purpose of producing petroleum substances from a completed well including a pump or other artificial lift equipment, the flow lines and production tankage serving the well, a heater, dehydrator or other wellsite facility for the initial treatment of petroleum substances produced from the well to prepare such production for transportation to market. Equipping costs excludes any such equipment, installation or facility that is, or is intended, to be a production facility, or any property described in paragraphs (b), (c) or (d) of the definition of "gas or oil well equipment" in subsection 1104(2) of the Income Tax Regulations.
+
+"Production facility" generally means any facility serving or intended to serve more than one well. This includes any battery, separator, compressor station, gas processing plant, gathering system, pipeline, production storage facility or warehouse.
+
+"Unproven resource property" refers to a resource property for which proven reserves have not been attributed. Proven reserves for an oil and gas resource property are the estimated quantities of petroleum and natural gas which geological and engineering data demonstrate, with reasonable certainty, to be recoverable in the future under existing economic and operating conditions.
+
+Examples of farm-out transactions
+
+- In a simple farm-out transaction, an owner (a farmor) of an unproven resource property may transfer a part interest in the property to another person (a farmee) in exchange for exploration and development work on the transferred property. The farmee undertakes to perform (and pay for) farm-out services on the property, in the form of exploration and development expenses.
+
+- In a typical farm-out transaction, a farmor may transfer to the farmee all of the working interest in an unproven resource property in exchange for a percentage royalty in the production from the resource property comprising oil and gas rights. The farmee agrees to pay for exploration and development and equipping costs. After the farmee recovers the total of the exploration and development and equipping costs incurred on the property ("payout"), a percentage of the working interest reverts to the farmor together with a pro rata ownership interest in the depreciable property that was acquired to equip the well.
+
+To the extent that the disposition by a farmor (in a simple farm-out or a typical farm-out transaction) of an interest in an unproven resource property can be considered an exchange for farm-out services, in the form of exploration or development costs and equipping costs incurred by the farmee, the disposition does not give rise to proceeds of disposition to the farmor that are accounted for in the manner outlined in 2 above. Similarly, the payout transaction referred to in the typical farm-out transaction above does not give rise to any proceeds of disposition.
+
+- In a widespread farm-out transaction, a farmee agrees to conduct exploration and development work on a farmor's unproven resource property in exchange for an interest in some other property (another unproven resource property or other property) of the farmor.
+
+Widespread farm-outs in which the farmee receives unproven resource property of the farmor, in exchange for farm-out services in the form of exploration and development work by the farmee in another unproven property of the farmor, will not give rise to proceeds of disposition, whether or not the unproven resource property is contiguous to the property explored and developed by the farmee.
+
+Widespread farm-outs in which the farmor transfers property other than unproven resource property will be treated as a disposition by the farmor for proceeds of disposition equal to the fair market value of the property transferred as of the date the widespread farm-out was entered into. The farmee's cost of the transferred property will equal the proceeds of disposition of the farmor. Furthermore, subsection 66(12.1) will apply to reduce exploration and development expenses incurred by the farmee for the transferred property.
+
+The discussions regarding simple, typical and widespread farm-outs in the oil and gas industry generally apply to the mining industry.
+
+Deceased taxpayers
+
+15. Under subsection 70(5.2), and for the purposes of subsection 59(1), paragraph (a) of the description of F in the definition of CCDE in subsection 66.2(5) and paragraph (a) of the description of F in the definition of CCOGPE in subsection 66.4(5), resource properties are deemed to be disposed of immediately before death by the deceased for proceeds of disposition equal to their fair market value at that time, subject to the rules discussed in 17 below. The deemed proceeds of disposition receive similar tax treatment as those for proceeds of disposition previously described in this bulletin.
+
+16. If, subsequent to the reduction for the deemed proceeds of disposition to the CCDE or the CCOGPE, a debit balance remains, a deduction in an amount not exceeding 30% of the residual CCDE, or not exceeding 10% of the residual CCOGPE, may be claimed in the year of death, under subsections 66.2(2) and 66.4(2) respectively. No further deduction is allowed for any unclaimed balances.
+
+17. Paragraph 70(5.2)(b) provides that where a resource property was owned by a taxpayer resident in Canada immediately before death, and if it can be shown, within the period ending 36 months after the death of the taxpayer (or where written application therefor has been made to the Minister by the taxpayer's legal representative within that period, within such longer period as the Minister considers reasonable in the circumstances), that the property has become vested indefeasibly in the taxpayer's spouse (who was resident in Canada immediately before the taxpayer's death) or a trust described in paragraph 70(6)(b), the following rules apply:
+
+(a) The deceased taxpayer's legal representative may specify, in the deceased individual's income tax return referred to in paragraph 150(1)(b), the amount of the proceeds of disposition deemed to have been received. However, this amount may not exceed the fair market value of the property immediately before death.
+
+(b) The cost of acquisition to the spouse or trust is the portion of the amount specified by the deceased taxpayer's legal representative. This amount is included in the deceased's income under subsection 59(1) or included in the amount determined under paragraph (a) of the description of F in the definition of CCDE in subsection 66.2(5), or paragraph (a) of the description of F in the definition of CCOGPE in subsection 66.4(5), as the case may be, for the property.
+
+18. The additional tax payable where subsection 70(5.2) applies may be paid in up to ten equal consecutive annual instalments when the conditions in subsection 159(5) are met (see Form T2075, Election to Defer Payment of Income Tax, under Subsection 159(5) of the Income Tax Act, by a Deceased Taxpayer's Legal Representative or Trustee).
+
+If you have any comments about this bulletin, please send them to:
+
+Director, Technical Publications Division Policy and Legislation Branch Revenue Canada 875 Heron Road Ottawa ON K1A 0L8
+
+## Explanation of Changes for Interpretation IT-125R4 Dispositions of Resource Properties
+
+Introduction
+
+The purpose of the Explanation of Changes is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+Overview
+
+Interpretation Bulletin IT-125R4 outlines the income tax consequences for dispositions of Canadian resource properties and foreign resource properties. We have revised IT-125R3 to reflect amendments to the Income Tax Act by S.C. 1985, c. 45 (formerly Bill C-72), S.C. 1986, c. 6 (formerly Bill C-84), S.C. 1987, c. 46 (formerly Bill C-64), S.C. 1988, c. 55 (formerly Bill C-139), S.C. 1991, c. 49 (formerly Bill C-18) and S.C. 1994, c. 21 (formerly Bill C-27). In addition, the relevant contents of IT-329R, Income of Deceased Persons - Resource Properties have been added to this bulletin and IT-329R is cancelled.
+
+The contents of this bulletin are not affected by any draft legislation released prior to April 21, 1995.
+
+Legislative and other changes
+
+New number 1 contains the definitions of several terms relevant to dispositions of resource properties. Several of these definitions were contained in former numbers 3, 7 and 10 of IT-125R3. The definition of "Canadian resource property" was amended, for clarification purposes, by Bills C-72 and C-84, the definition of "oil or gas well" was added by Bill C-84 and the definition of "mineral resource" was amended by Bill C-139 (for the 1988 and subsequent taxation years) to add kaolin as a type of principal mineral which could be extracted from a mineral deposit for that deposit to qualify as a "mineral resource." The definition of "mineral resource" was also amended by Bill C-27 to include a mineral deposit in respect of which the principal mineral extracted is calcium chloride or diamond. The reference to calcium chloride applies to taxation years commencing after 1984 and the reference to diamond deposits is effective only for the 1993 and subsequent taxation years. Bill C-27 also contained an amendment to the definition of "minerals". The word "minerals" was replaced by the word "mineral" and "mineral" is defined to include bituminous sands, calcium chloride, coal, kaolin, oil sands, oil shale and silica, but not petroleum, natural gas or a related hydrocarbon not expressly referred to in the definition. This amendment applies to taxation years commencing after 1984, except that the reference to kaolin is effective only for the 1988 and subsequent taxation years.
+
+Number 2 (former number 1 of IT-125R3) has been revised to reflect amendments made by Bill C-72 and to delete transitional references which are no longer relevant. The legislative amendments repealed subsections 59(1.1) and 59(1.2) and those rules regarding dispositions of resource properties were added to the definitions of cumulative Canadian development expense (CCDE) and cumulative Canadian oil and gas property expense (CCOGPE) in subsections 66.2(5) and 66.4(5) respectively. In addition, the definitions of CCDE and CCOGPE were amended to allow a deduction in calculating the proceeds of disposition of resource property for any selling or other expenses related to the disposal. This legislative change confirmed the Department's long-standing position of recognizing these expenses.
+
+Number 4 (former number 2 of IT-125R3) has been expanded to explain the term "delay rentals" used in the example.
+
+Number 5 (portions of former numbers 10 and 12 of IT-125R3) deleted transitional information contained in the former bulletin that is no longer relevant. In addition, reference has been made to subsections 88(1.5) and 87(1.2). In general, these subsections deem the parent company (in the case of a qualifying winding-up) or the new corporation (in the case of a qualifying amalgamation) to be the same corporation as, and a continuation of, the subsidiary or predecessor corporation(s), as the case may be, for the purposes of sections 66.2 and 66.4.
+
+Number 6 (former number 22 of IT-125R3) has been rewritten to delete the discussion on section 64, which was repealed by Bill C-139.
+
+Number 14 (former number 11 of IT-125R3) outlines the Department's interpretation of certain "farm-out" transactions. In certain circumstances (three examples of which have been provided) a disposition under a farm-out transaction does not give rise to proceeds of disposition.
+
+Number 17 (former number 8 of IT-329R) has been revised to reflect amendments made by Bill C-72. These amendments increased the period allowed for vesting, upon a rollover to a spouse, from 15 months to 36 months and also provided that a longer vesting period may be allowed upon application to the Minister. In addition, the references to continual ownership from December 31, 1971 have been removed since these comments are no longer relevant with the repeal of subsections 59(3) and (3.1).
+
+Former numbers 4, 5, 8 and 13 to 21 of IT-125R3 have been deleted because they dealt with legislation which has since been repealed. Former number 23 of IT-125R3 outlined certain amounts which comprised CCDE and CCOGPE. That information is not required in the context of this bulletin and has been deleted. Former numbers 1 and 4 to 7 of IT-329R have been deleted because they dealt with transitional information or legislation which has since been repealed.
+
+Throughout the new bulletin, we have changed some of the wording and the order of some of the paragraphs to improve readability without altering the substance of what was said in the previous bulletins.

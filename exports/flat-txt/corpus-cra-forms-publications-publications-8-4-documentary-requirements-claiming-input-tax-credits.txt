@@ -1,0 +1,571 @@
+Title: Documentary Requirements for Claiming Input Tax Credits
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-4/documentary-requirements-claiming-input-tax-credits.html
+Corpus path: corpus/cra/forms-publications/publications/8-4/documentary-requirements-claiming-input-tax-credits.md
+Document type: publication
+Last modified: 2023-06-01
+
+# Documentary Requirements for Claiming Input Tax Credits
+
+GST/HST memorandum 8.4 August 2012
+
+**Notice to the reader:** This is an HTML version of the printed publication. It is also [available in other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-4.html). To view an exact rendition of the printed publication, see the .pdf version.
+
+**NOTE:** This version replaces GST Memorandum 400-1-2, *Documentary Requirements*.
+
+This memorandum explains the documentary and information requirements that registrants must provide to their customers to satisfy the disclosure provisions of the *Excise Tax Act* as well as the documentary requirements that registrants must satisfy to substantiate claims for input tax credits (ITCs). It also examines the conditions under which the Canada Revenue Agency (CRA) may grant exemptions to the documentary requirements.
+
+**Disclaimer:** The information in this memorandum does not replace the law found in the *Excise Tax Act* (the Act) and its regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate regulation, or contact any Canada Revenue Agency GST/HST rulings office for additional information. A ruling should be requested for certainty in respect of any particular GST/HST matter. [Pamphlet RC4405, GST/HST Rulings – Experts in GST/HST Legislation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4405.html) explains how to obtain a ruling and lists the GST/HST rulings offices. If you wish to make a technical enquiry on the GST/HST by telephone, please call 1-800-959-8287.
+
+If you are located in Quebec and wish to make a technical enquiry or request a ruling related to the GST/HST, please contact Revenu Québec at 1-800-567-4692. You may also visit the [Revenu Québec Web site](http://www.revenuquebec.ca/en/default.aspx) to obtain general information.
+
+**Note:** Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario, New Brunswick and Newfoundland and Labrador, 15% in Nova Scotia, and 12% in British Columbia. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, you may refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+Effective April 1, 2013, the 12% HST in British Columbia will be replaced by the 5% GST and a provincial sales tax. It is also proposed that, effective April 1, 2013, the provincial sales tax and the 5% GST currently in effect in Prince Edward Island will be replaced by a 14% HST.
+
+## Table of Contents
+
+- [General](#_Toc332092173)
+
+- [Disclosure of tax](#_Toc332092174)
+
+- [Required documentation](#_Toc332092175)
+
+    - [Prescribed information](#_Toc332092176)
+
+          - [Total amount paid or payable under $30](#_Toc332092177)
+
+          - [Total amount paid or payable is $30 or more, but less than $150](#_Toc332092178)
+
+          - [Total amount paid or payable is $150 or more](#_Toc332092179)
+
+    - [Additional information to support a claim for apportioned ITCs](#_Toc332092180)
+
+    - [Special documentary requirements when self-assessing the tax](#_Toc332092181)
+
+- [Retention of documentary evidence](#_Toc332092182)
+
+- [Exemptions from documentary requirements and conditions for exemptions](#_Toc332092183)
+
+    - [Unvouchered cash payments made to coin-operated devices](#_Toc332092184)
+
+    - [Computerized records](#_Toc332092185)
+
+    - [Contractual agreements](#_Toc332092186)
+
+    - [Reimbursements](#_Toc332092187)
+
+    - [Credit-card expenses](#_Toc332092188)
+
+    - [Allowances](#_Toc332092189)
+
+    - [Taxi fares](#_Toc332092190)
+
+- [Appendix – GST/HST prescribed information for ITC claims](#_Toc332092191)
+
+## General
+
+1. A registrant must satisfy the general rules for claiming ITCs found in subsection 169(1) before being eligible to claim the ITCs in its GST/HST return. The general eligibility rules respecting ITCs as well as the restrictions and limitations for claiming ITCs are explained in [GST/HST Memorandum 8.1, General Eligibility Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1.html), [GST/HST Memorandum 8.2, General Restrictions and Limitations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-2.html) and [GST/HST Memorandum 8.3, Calculating Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-3.html). The special rules relating to financial institutions claiming ITCs are explained in the following GST/HST Memoranda:
+
+- [17-11, Determining Whether a Financial Institution is a Qualifying Institution for Purposes of Section 141.02](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-11.html);
+
+- [17-12, Input Tax Credit Allocation Methods for Financial Institutions for Purposes of Section 141.02](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-12.html); and
+
+- [17-13, Application of Section 141.02 to Financial Institutions That Are Qualifying Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-13.html).
+
+2. In addition to meeting the conditions for claiming ITCs and before making any ITC claim, the registrant must also obtain sufficient documentary evidence to enable the amount of the ITC to be determined, including any such information that is prescribed in the *Input Tax Credit Information (GST/HST) Regulations*.
+
+## Disclosure of tax
+
+ss 223(1) and (1.1)
+
+3. A registrant who makes a taxable supply, other than a zero-rated supply, must indicate clearly to the recipient of the supply either in prescribed manner or on the invoice, receipt, or written agreement, the consideration paid or payable by the recipient and the tax payable in respect of the supply, or that the amount paid or payable by the recipient includes the GST/HST. If the registrant indicates the tax payable or the tax rate or rates on the invoice, receipt or written agreement, it must also clearly indicate:
+
+- the total tax payable in respect of the supply; or
+
+- the total of the rates at which tax is payable in respect of the supply.
+
+4. The registrant may include "GST" or "HST" on the invoice, receipt or written agreement to identify clearly the amount of tax, or that the total amount payable includes the tax payable.
+
+Tax-included amounts
+
+5. Where a registrant has clearly indicated that the total amount paid or payable by the recipient of taxable supplies includes supplies taxable at the rate of 5% or at the rate in effect in a participating province, the recipient can calculate the amount of tax by either:
+
+- multiplying the amount paid or payable for the supply by the fraction 5/105 (for supplies taxable at 5%), 12/112 (for supplies taxable at 12%), 13/113 (for supplies taxable at 13%) or 15/115 (for supplies taxable at 15%) to determine the amount of tax paid or payable; or
+
+- multiplying the total amount paid or payable for the supply (consideration + tax) by the fraction 100/105 (for supplies taxable at 5%), 100/112 (for supplies taxable at 12%), 100/113 (for supplies taxable at 13%) or 100/115 (for supplies taxable at 15%) to determine the value of the consideration for the supply, and then calculate the amount of tax paid or payable by subtracting the value of the consideration from the total amount paid or payable.
+
+Prescribed methods of disclosure of tax s 223 and ss 2(1) of *Disclosure of Tax (GST/HST) Regulations*
+
+6. Additional methods of disclosure are prescribed in the *Disclosure of Tax (GST/HST) Regulations*. One such method is to give clearly visible notice (e.g., a posted sign) to the recipient of a taxable supply at the place where the supply is made. This method would be used where, for example, an invoice or receipt issued by a registrant, or a written agreement entered into with a registrant, does not indicate either the tax payable or the tax rates applicable to supplies. To satisfy the disclosure rules, the registrant would simply need to post a sign indicating the tax rates that apply, or that tax is included in the amount charged to the recipient. However, this disclosure may not be sufficient to establish the recipient's ITC eligibility.
+
+Other prescribed methods ss 2(2) and (3) of *Disclosure of Tax (GST/HST) Regulations*
+
+7. Other prescribed methods include:
+
+- in the case of a supply of a telephone service made by means of a coin-operated telephone, either giving clearly visible notice at the place where the telephone is located, or giving notice of the tax rates in the telephone directories issued by the registrant; and
+
+- in the case of a supply of a parking space for which the consideration is paid by depositing coins in a parking meter, either giving clearly visible notice at the place where the meter is located, or giving public notice that the price for the supply includes the tax.
+
+Exception – supply made in a participating province ss 223(1.2)
+
+8. Where a registrant makes a taxable supply in a participating province and is entitled under subsection 234(3) (i.e., point-of-sale rebate under the *Deduction for Provincial Rebate (GST/HST) Regulations*) to deduct an amount in respect of the supply in determining the net tax of the registrant (i.e., the registrant pays or credits this rebate to the recipient of the supply), the registrant is not required to include under subsections 223(1) or 223(1.1) the tax under subsection 165(2) or the rate of that tax in the total tax payable or in the total of the rates of tax payable in respect of the supply. For more information on provincial point-of-sale rebates available in participating provinces, refer to the following GST/HST info sheets:
+
+- [GI-060, Harmonized Sales Tax for Ontario – Point-of-Sale Rebate on Newspapers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-060.html),
+
+- [GI-061, Harmonized Sales Tax for British Columbia – Point-of-Sale Rebate on Motor Fuels](https://www.canada.ca/E/pub/gi/gi-061/README.html),
+
+- [GI-062, Harmonized Sales Tax for Ontario, British Columbia and Nova Scotia – Point-of-Sale Rebate on Feminine Hygiene Products](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-062.html),
+
+- [GI-063, Harmonized Sales Tax for Ontario, British Columbia and Nova Scotia – Point-of-Sale Rebate on Children's Goods](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-063.html),
+
+- [GI-064, Harmonized Sales Tax for Ontario – Point-of-Sale Rebate on Prepared Food and Beverages](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-064.html),
+
+- [GI-065, Harmonized Sales Tax for Ontario and British Columbia – Point-of-Sale Rebate on Books](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-065.html).
+
+For information on the provincial point-of-sale rebate for books available in Nova Scotia, New Brunswick and Newfoundland and Labrador, consult [GST/HST Memorandum 13.4, Rebates for Printed Books, Audio Recordings of Printed Books, and Printed Versions of Religious Scriptures](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/13-4.html).
+
+Exception – not required to collect tax ss 223(1.3)
+
+9. Where a registrant is not required to collect tax in respect of a taxable supply made by the registrant, subsection 223(1) does not apply. This would occur, for instance, on the sale of real property where subsection 221(2) applies to the supply.
+
+Disclosure in writing ss 223(2)
+
+10. A registrant must provide to the recipient of the supply, forthwith on request, written evidence that is sufficient to substantiate an ITC or rebate claim by the recipient.
+
+11. If the registrant discloses the tax in a prescribed manner (e.g., uses signs to disclose that the tax is included in the total amount payable for the supply), the recipient may be required to request the additional relevant information in writing from the registrant in order to claim an ITC or rebate in respect of the taxable supply.
+
+12. The scope of subsection 223(2) is not limited to registrants who make taxable supplies. Therefore, the requirement to provide additional documentation is imposed on any person who makes a taxable supply and who is required to collect tax in a particular circumstance.
+
+A non-registrant trust makes a taxable supply of real property in circumstances where it is required to collect and account for the tax on the supply. The person acquiring the property wishes to claim an ITC with respect to the tax payable on the property. The person can request, and the trust must provide, sufficient information in writing to substantiate the claim.
+
+Penalty for failure to provide information s 284
+
+13. Every person who makes a taxable supply and fails to provide any information or document when and as required under the Act is subject to a penalty of $100 for every failure, except when the Minister waives the penalty or, in the case of information required in respect of another person, a reasonable effort was made by the person to obtain the information.
+
+## Required documentation
+
+para 169(4)(a)
+
+14. To claim an ITC, a registrant must first obtain the proper documentary evidence to support the claim. Paragraph 169(4)(a) establishes the information that is required to support the ITC claim. Specifically, the registrant must, before filing the return for the reporting period in which the ITC is to be claimed, obtain sufficient evidence in such form and containing such information as to allow the amount of the ITC to be determined, including information prescribed under the *Input Tax Credit Information (GST/HST) Regulations*. S 2 of the *Input Tax Credit Information (GST/HST) Regulations*
+
+15. Supporting documentation for claiming an ITC is prescribed by regulation and includes:
+
+1. an invoice;
+
+2. a receipt;
+
+3. a credit card receipt;
+
+4. a debit note;
+
+5. a book or ledger of account;
+
+6. a written contract or agreement;
+
+7. any record contained in a computerized or electronic retrieval or data storage system; and
+
+8. any other document validly issued or signed by a registrant in respect of a supply made by the registrant on which the GST/HST is paid or payable.
+
+Meaning of invoice ss 123(1)
+
+16. The term "invoice" includes a statement of account, a bill, and any other similar record, regardless of its form or characteristics, and a cash register slip or receipt.
+
+Meaning of record ss 123(1)
+
+17. The term "record" includes an account, an agreement, a book, a chart or table, a diagram, a form, an image, an invoice, a letter, a map, a memorandum, a plan, a return, a statement, a telegram, a voucher, and any other thing containing information, whether in writing or in any other form.
+
+### Prescribed information
+
+s 3 of the *Input Tax Credit Information (GST/HST) Regulations*
+
+18. The *Input Tax Credit Information (GST/HST) Regulations* prescribe the information that a registrant must obtain before filing a return in which an input tax credit is claimed. The Appendix to this memorandum provides a general overview in chart form of the ITC regulatory information requirements separated into three columns, with each column representing the total amounts paid or payable discussed below.
+
+#### Total amount paid or payable under $30
+
+para 3(a) *of the Input Tax Credit Information (GST/HST) Regulations*
+
+19. Where the total amount paid or payable shown on the supporting documentation in respect of the supply (or the supplies if the supporting documentation is in respect of more than one supply), , is less than $30, the supporting documentation must include:
+
+1. the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business (i.e., the trade name);
+
+2. where an invoice is issued in respect of the supply or supplies, the date of the invoice;
+
+3. where an invoice is not issued in respect of the supply or supplies, the date when the GST/HST was paid or became payable; and
+
+4. the total amount paid or payable for all of the supplies.
+
+Intermediary s 2 of *Input Tax Credit Information (GST/HST) Regulations*
+
+20. Where applicable, the condition under paragraph 19(a) above is satisfied if the supporting documentation identifies the name of the supplier's intermediary rather than the supplier's name. The term "intermediary" of a person, means, in respect of a supply, a registrant who, acting as agent of the person or under an agreement with the person, causes or facilitates the making of the supply by the person.
+
+A sales representative for a supplier (who may or may not be the agent of that supplier) makes a taxable supply of property on behalf of that supplier as its intermediary. The invoice identifies the intermediary's name and its GST/HST registration number. Accordingly, with this information, the person who acquires the property may satisfy this element of the documentary requirements to be eligible to claim an ITC.
+
+Trade names
+
+21. Where the person or its intermediary uses a trade name and this name is used by that person or that intermediary to do business, the trade name satisfies the prescribed information requirements noted in paragraph 19(a). There is no requirement that the name under which the supplier or its intermediary does business be registered with the province in which the supplier or the intermediary resides, or in which the supply is made in order to meet the ITC documentary requirements.
+
+Tax must be charged and tax must be payable
+
+22. Under subsection 169(1), no ITC may be claimed in respect of a supply where no GST/HST is payable on the supply. Despite the fact that, in circumstances where the total cost for a supply or supplies is under $30, there is no requirement for the supporting documentation to indicate the amount of GST/HST separately from the value of consideration for the supply, or for any statement to be made declaring that tax is included, the documentary evidence must nonetheless enable the person who acquires the property or service to determine the ITC amount. In situations where it is not clear from the documentary evidence either that GST/HST has been charged or what the amount of tax actually was, the documentation is not sufficient to support the ITC claim.
+
+#### Total amount paid or payable is $30 or more, but less than $150
+
+para 3(b) *of the Input Tax Credit Information (GST/HST) Regulations*
+
+23. Where the total amount paid or payable shown on the supporting documentation in respect of a supply or supplies is $30 or more, but less than $150, the minimum prescribed information that must be indicated on the supporting documentation must include all the information described in paragraph 19 as well as:
+
+1. the GST/HST registration number (the Business Number and the GST/HST account number) assigned under subsection 241(1) to the supplier or the intermediary, as the case may be;
+
+2. where the amount paid or payable for the supply or the supplies does not include the amount of GST/HST,
+
+    1. the amount of tax paid or payable in respect of each supply or all the supplies, or
+
+    2. where provincial sales tax (PST) is payable in respect of each taxable supply that is not a zero-rated supply and is not payable in respect of any exempt supply or zero-rated supply,
+
+          1. the total of the GST/HST and PST paid or payable in respect of each taxable supply, and a statement to the effect that the total in respect of each taxable supply includes the GST/HST paid or payable, or
+
+          2. the total of the GST/HST and PST paid or payable in respect of all taxable supplies, and a statement to the effect that the total includes the GST/HST paid or payable;
+
+3. where the amount paid or payable for the supply or the supplies includes GST/HST and one or more supplies are taxable supplies that are not zero-rated supplies,
+
+    1. a statement to the effect that tax is included in the amount paid or payable for each taxable supply,
+
+    2. the total tax rate at which tax was paid or payable in respect of each of the taxable supplies that is not a zero-rated supply, and
+
+    3. the amount paid or payable for each such supply or the total amount paid or payable for all such supplies to which the same total tax rate applies; and
+
+4. where the status of two or more supplies is different, an indication of the status of each taxable supply that is not a zero rated supply (the status of a supply means either "exempt", "taxable and zero-rated" or "taxable and not zero-rated".
+
+GST/HST charged – false or incorrect GST/HST registration number provided
+
+24. Where the supplier charges GST/HST where the total amount paid or payable for the supply is $30 or more, and the supplier has provided a false or incorrect GST/HST registration number, the person acquiring the supply is not entitled to claim an ITC in respect of the supply. Although there is no provision in the Act establishing an obligation for a registrant claiming an ITC to verify the supplier's GST/HST registration number, a person may check a supplier's number on [www.cra-arc.gc.ca/gsthstregistry](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/confirming-a-gst-hst-account-number.html) or, if in Quebec, [www.registreentreprises.gouv.qc.ca](http://www.registreentreprises.gouv.qc.ca/). A person may also call the CRA Business Enquiries line at 1-800-959-5525 or Revenu Québec to verify another person's number. The CRA or Revenu Québec, as the case may be, will give verbal or written GST/HST registration confirmation where there is a valid need to know that a person is a registrant. A letter of confirmation can be picked up in person by the requestor, mailed or faxed to a secure fax.
+
+Ministerial discretion ss 169(5)
+
+25. Where a GST/HST registration number is not accurate and this fact is attributable to, for example, a clerical error, ministerial discretion may apply to validate the related ITC. The ministerial discretion rules established in subsection 169(5) are discussed in detail in paragraphs 42 and 43.
+
+#### Total amount paid or payable is $150 or more
+
+para 3(c) of the *Input Tax Credit Information (GST/HST) Regulations*
+
+26. Where the total amount shown on the supporting documentation for the supply or supplies is $150 or more, the minimum prescribed information that must be obtained through the supporting documentation must first of all include all the information listed in paragraphs 19 and 23 as well as:
+
+1. the recipient's name, the name under which the recipient does business (i.e., the trade name of the business), or the name of the recipient's duly authorized agent or representative,
+
+2. the terms of payment, and
+
+3. a description of each supply sufficient to identify it.
+
+Recipient
+
+27. Generally, the recipient of a supply is the person liable to pay the consideration for the supply under an agreement for the supply. For a detailed discussion of the term "recipient", refer to [GST/HST Memorandum 8.1, General Eligibility Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1.html).
+
+Multiple claimants
+
+28. On occasion, a supplier may enter into an agreement for the making of a single taxable supply with more than one person and invoice more than one person. If multiple persons are identified in a written agreement or on an invoice for the supply as having acquired the property or service, each such person may claim an ITC in respect of the proportionate amount of tax paid or payable to the extent that it is for consumption, use or supply in the course of each person's commercial activity. Generally, this is determined by reference to other documentary evidence such as letters, written agreements, or other definitive documentation.
+
+29. When there may be a possibility that ITCs have been claimed by two persons in respect of the same supply, the CRA will review the records of both parties to ensure that the ITCs are claimed only by the person who is entitled to claim them.
+
+Agent/representative
+
+30. As an alternative to indicating the name of the recipient, it is acceptable that the sales invoice or other supporting documentation indicate the name of the recipient's duly authorized agent or representative. Where a person is acting solely in its capacity as agent or representative when it agrees to pay for a supply, the principal is the recipient of the supply and liable to pay the tax. The principal may claim an ITC, provided that the conditions for claiming the ITC are met.
+
+An invoice for the acquisition of a taxable supply is addressed to the property manager of a commercial building who is, in addition to performing the management duties, a legal agent of the property owner pursuant to an agency agreement between the two parties. Assuming that all other ITC conditions are satisfied, the property owner is considered the recipient of the supply if the property manager is acting as the agent at the time the GST/HST was paid or payable. Having acquired the property, the property owner is, therefore, entitled to claim an ITC in respect of the supply. If the supply were acquired otherwise than pursuant to the agency agreement, the general rules for claiming ITCs would apply.
+
+Further information
+
+31. More information on agents and agency relationships is available in GST/HST Memorandum 8.1 and [GST/HST Policy Statement P-182, Agency](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-182r.html) and [GST/HST Info Sheet GI-012, Agents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-012.html).
+
+Terms of payment
+
+32. The reference in paragraph 26(b) to the terms of payment refers to such items as the time payment is due, how payment is to be made (e.g., cash, cheque or credit card), whether there is a late payment penalty or early payment discount, and other conditions which may affect the tax liability or its timing.
+
+More than one document
+
+33. There is no requirement that the evidence needed to support a claim for an ITC be contained in a single document. It is not uncommon, particularly where written agreements are concerned, that primary documentation needs to be supplemented by additional material. For example, a contract for services may specify the particulars concerning the supplier, the recipient, and the terms of payment, but the consideration and the tax paid or payable may be determined only on a periodic basis and documented on separate invoices. Both the written agreement and the invoice are required to satisfy the documentary requirements needed to claim an ITC.
+
+### Additional information to support a claim for apportioned ITCs
+
+Method of determining extent of use ss 141.01(5)
+
+34. In addition to the requirements discussed above, information that would enable the amount of the ITC to be determined where a method is used to allocate the extent of use would include:
+
+- identifying the method of allocation used to apportion the ITCs;
+
+- establishing that the method used is fair and reasonable in the circumstances; and
+
+- establishing that the method is being applied consistently throughout the fiscal year.
+
+35. Further information on apportioned ITCs and the methods of allocation is available in [GST/HST Memorandum 8.3, Calculating Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-3.html).
+
+### Special documentary requirements when self-assessing the tax
+
+para 169(4)(b)
+
+36. To satisfy the documentary requirements for claiming an ITC in circumstances where a registrant is required to self-assess tax on its regular GST/HST return, the registrant must first report the tax liability in its GST/HST return before an ITC in respect of the self-assessed amount can be claimed. The return is a necessary element of the documentary requirements (i.e., the return is considered a "record") for any ITC claim in respect of the supply. A registrant that reports the self-assessed tax may claim the ITC to which it is entitled under section 169 in the same return. For example, this applies when the registrant self-assesses
+
+1. the tax on the acquisition of taxable real property (where the registrant is using or supplying the property primarily in the course of its commercial activities) under subsection 228(4), or
+
+2. the provincial part of the HST under Division IV.1 when property and services are brought into a participating province.
+
+37. More information on the self-assessment rules respecting the acquisition of real property and the claiming of ITCs is available in [GST/HST Memorandum 19.1, Real Property and the GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-1.html). Further information concerning the self-assessment of the provincial part of the HST is available in [GST/HST Notice 266, Harmonized Sales Tax – Self-assessment of the provincial part of the HST in respect of property and services brought into a participating province](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice266.html) and [GST/HST Technical Information Bulletins B-081, Application of the HST to Imports](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-081.html).
+
+## Retention of documentary evidence
+
+Keeping books and records ss 286(1)
+
+38. Every person who carries on a business or is engaged in a commercial activity in Canada, every person who is required to file a GST/HST return, and every person who makes an application for a rebate or refund is required to keep records in English or in French in Canada in such form and containing such information as will enable the determination of the person's liabilities and obligations or the amount of any rebate or refund to which the person is entitled. The person may also retain the records at another place provided they are kept under the terms and conditions specified in writing by the Minister.
+
+Period of retention ss 286(3) and (6)
+
+39. A registrant claiming ITCs is not required to submit supporting documentation with a GST/HST return. However, the documents must be maintained and retained until the expiration of six years after the end of the latest year to which they relate or for such other period as may be prescribed. To date, no other periods have been prescribed. However, a person may dispose of records at an earlier date if the Minister gives written permission for their disposal.
+
+40. The minimum retention period for books and records is generally determined by the last year when a record may be required for purposes of the Act, and not the year when the transaction occurred and the record was created. For example, records supporting the acquisition and capital cost of property should be maintained until the day that is six years from the end of the last year in which such an acquisition could enter into any calculation for GST/HST purposes, including the basic tax content of the property.
+
+41. For more information on the retention of books and records, refer to [GST/HST Memorandum 15.1, General Requirements for Books and Records](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/15-1.html) and [GST/HST Memorandum 15.2, Computerized Records](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/15-2.html).
+
+## Exemptions from documentary requirements and conditions for exemptions
+
+Exemptions ss 169(5)
+
+42. The CRA is given discretionary power in certain circumstances to exempt a specified registrant, a specified class of registrants, or registrants in general from the documentary and information requirements stated in subsection 169(4), or any provision thereof, in respect of a supply or importation, or of a supply or importation of a specified class. To make an exemption, the CRA must be satisfied that there is or will be sufficient evidence to establish the particulars of a supply or importation, or of a supply or importation of a specified class, and the tax paid or payable in respect of the supply or importation. The CRA may also specify the terms and conditions for applying these exemptions.
+
+43. Ministerial exemptions have been approved for application to all registrants in circumstances where, for example, information is not available prior to filing the return but proper records with sufficient information are maintained to support the ITC claim, or certain types of transactions for which a paper trail supporting an ITC would not typically be created or may not be available at the time the ITC is claimed in a return. In certain circumstances, general ministerial exemptions have been approved for:
+
+- unvouchered cash payments made to coin operated machines;
+
+- computerized records;
+
+- contractual agreements;
+
+- reimbursements (including reimbursements for meals and entertainment expenses) when a factor is used to calculate the ITC claim;
+
+- reimbursements for company credit card expenses when a factor is used to calculate the ITC claim;
+
+- allowances (including allowances for meals and entertainment expenses); and
+
+- taxi fares.
+
+### Unvouchered cash payments made to coin-operated devices
+
+Tax deemed payable s 160
+
+44. When a registrant acquires property or a service for consumption, use or supply in the course of its commercial activities, and such property or service is paid for using coins that are dispensed into a coin-operated machine, the tax is deemed to have been paid on the day the registrant inserts the coin or coins into the machine. However, the registrant may be unable to meet the statutory and regulatory requirements stipulated in paragraph 169(4)(a).
+
+Books and records where documentary evidence is not available
+
+45. A ministerial exemption has, therefore, been established where unvouchered cash payments made by a registrant for reasonable amounts, as determined by the particular commercial activity and other relevant characteristics of the registrant submitting the ITC claim, are documented in the registrant's proper books and records. These books and records must capture:
+
+1. sufficient information to identify the place where the taxable supply was made;
+
+2. sufficient information to identify the reporting period when the GST/HST in respect of the supply was paid or became payable;
+
+3. the consideration paid for the supply;
+
+4. the amount of GST/HST paid or payable; and
+
+5. sufficient information to identify the nature and quantity of the supply.
+
+46. Upon request by the CRA, these books and records must be made available to permit the establishment of particulars with respect to the supply and the tax paid or payable on the supply.
+
+Books and records where documentary evidence is available
+
+47. When cash payments are supported by documents that meet the statutory and regulatory documentary and information requirements, the registrant must obtain that documentation prior to claiming an ITC on the GST/HST paid in respect of the property or service provided by the coin-operated device.
+
+### Computerized records
+
+48. Many registrants rely on electronic systems to maintain their financial records. In some cases, such as electronic transfers, no traditional paper documentation may be issued in respect of a supply.
+
+Books and records where documentary evidence is not available
+
+49. Where the registrant is unable to meet the documentary requirements prior to filing the GST/HST return in a reporting period in which an ITC is claimed, or if the supporting documentation fails to satisfy the information requirements that have been prescribed by regulation, the Minister generally exempts registrants from those requirements where the registrant maintains proper computerized books and records that capture sufficient information to identify:
+
+1. the supplier's name or trading name and address, or those of the supplier's duly authorized agent or representative;
+
+2. the supplier's GST/HST registration number;
+
+3. the reporting period in which the GST/HST in respect of the supply was paid or became payable, and the amount of GST/HST paid or payable;
+
+4. the recipient's name or trading name and address, or that of the recipient's duly authorized agent or representative; and
+
+5. the nature of the supply.
+
+Nature of the supply
+
+50. Generally, information satisfactory to identify the nature of the supply is a description of each supply sufficient to distinguish it for GST/HST purposes. Specifically, the registrant (i.e., the purchaser or recipient) must capture in its computerized records the type of service performed or the kind of property acquired from the vendor (e.g., a haircut, a book) as well as the tax status of the supply (i.e., taxable, zero-rated or exempt) and the rate of tax applicable to each supply.
+
+Books and records where documentary evidence is available
+
+51. When the physical documentation issued by the supplier meets the statutory and regulatory requirements, the registrant must obtain such reporting documentation prior to filing the GST/HST return in which an ITC is claimed.
+
+52. For detailed information on computerized books and records, refer to [GST/HST Memorandum 15.2, Computerized Records](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/15-2.html).
+
+### Contractual agreements
+
+53. Given the extensive use among registrants of contractual agreements covering supplies of property or services, the particulars provided on those supplies and the applicable GST/HST paid or payable may not necessarily be available in such a manner as to permit registrants to comply with the statutory and regulatory documentary and information requirements for purposes of claiming an ITC.
+
+Books and records where documentary evidence is not available
+
+54. Where the registrant is unable to meet the documentary requirements prior to filing a GST/HST return in a reporting period in which an ITC is claimed, or if the supporting documentation fails to satisfy the information requirements as prescribed by regulation, the Minister generally exempts the registrant from those requirements when the registrant maintains proper books and records (including the contractual agreement and all related documentation) that capture sufficient information to identify:
+
+1. the supplier's name or trading name and address, or those of the supplier's duly authorized agent or representative;
+
+2. the supplier's GST/HST registration number;
+
+3. the reporting period in which the GST/HST in respect of the supply was paid or became payable, and the amount of GST/HST paid or payable;
+
+4. the recipient's name or trading name, or that of the recipient's duly authorized agent or representative; and
+
+5. the nature of the supply.
+
+Books and records where documentary evidence is available
+
+55. When the contractual agreement by itself, or combined with related supporting documentation issued pursuant to the governing contract, meets the statutory and regulatory documentary and information requirements, the registrant must obtain that documentation prior to claiming an ITC in respect of the GST/HST paid or payable on the property or service associated to the contract.
+
+### Reimbursements
+
+56. For the purposes of section 175, a reimbursement is a payment made by an employer, partnership, charity or public institution to repay an employee, partner or volunteer for amounts spent. An amount constitutes a reimbursement where the amount is:
+
+- fully accounted for by the employee, partner or volunteer (i.e., evidenced by supporting vouchers or records); and
+
+- spent by the employee, partner or volunteer for an expense incurred in the course of the activities of the employer, partnership, charity or public institution.
+
+57. Where an employee of an employer, a member of a partnership, or a volunteer who gives services to a charity or public institution acquires or imports property or a service or brings it into a participating province for consumption or use in relation to the activities of the employer, partnership, charity or public institution (each referred to as the "person") and pays the related GST/HST payable for which the employee, member or volunteer is reimbursed by the person, the person is deemed to have received a supply of the property or service and to have paid tax at the time the reimbursement is paid. Furthermore, any consumption or use of the property or service by the employee, member or volunteer in relation to the activities of the person is considered to be the consumption or use of the person.
+
+Documentary evidence – recipient of the supply
+
+58. Generally, documentation issued in respect of the expense identifies the employee, member or volunteer, and not the person, as the recipient of the supply of the property or service. For this reason, subsection 175(1) deems the person to have
+
+- received a supply of the property or services,
+
+- paid tax in respect of that supply, and
+
+- consumed or used the property or services in its activities.
+
+59. Accordingly, no additional supporting documentation is required where the provision applies since the person who acquired the property or service is considered to be the person who reimbursed the expense, and not the employee, member or volunteer. Therefore, documentation identifying the employee, member or volunteer rather than the person should satisfy the documentary requirements.
+
+60. For more information on reimbursements, refer to [GST/HST Memorandum 9.4, Reimbursements](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/9-4.html). This publication also explains the two methods for calculating ITCs on reimbursed amounts (the exact calculation method and the factor approach).
+
+Books and records – ITC calculation using the exact calculation method
+
+61. Where a person claims an ITC on reimbursements using the exact calculation method, the person is subject to the general documentary and information requirements prescribed under paragraph 169(4)(a).
+
+When documentary evidence is not satisfied
+
+62. However, a supporting document in respect of an expense does not meet the general requirements under paragraph 169(4)(a) to claim an ITC when the document consists of limited data (e.g., a restaurant receipt or a taxi chit do not identify the amount of GST/HST paid or payable). In such cases, administratively, the CRA allows an employer, partnership, a charity and a public institution to calculate the ITC in respect of a reimbursed amount using a factor of the deemed tax paid.
+
+Books and records – factor approach
+
+63. The exemption from the statutory and regulatory documentary and information requirements is conditional on the person using the factor approach in respect of the expenses reimbursed to the employee, member or volunteer. In this case, the person must maintain books and records, including all documentation required to substantiate such deductions under the *Income Tax Act*, capturing the following information:
+
+1. the name and GST/HST registration number of the employer, partnership, charity or public institution that paid the reimbursed amount;
+
+2. the name of the employee, member or volunteer who received the reimbursement;
+
+3. the total amount of the reimbursement paid to each employee, partner or volunteer;
+
+4. the total GST or HST deemed to have been paid in respect of the reimbursement;
+
+5. the reporting period in which the reimbursement was paid; and
+
+6. the nature of the expense (i.e., a description of the expense, its purpose and tax status).
+
+### Credit-card expenses
+
+Documentary evidence
+
+64. The CRA authorizes a registrant who is an employer, partnership, charity or public institution to use a factor approach for claiming ITCs on company credit card expenses charged to the company credit card if all the following conditions are satisfied:
+
+1. the card member must have made the acquisition of the property or service for consumption or use in relation to the commercial activities of the registrant;
+
+2. there must be one or more written agreements between the registrant, the card member and the credit-card issuer stating that the card member is solely or jointly and severally liable with the registrant for the payment of all charges made in connection with the company credit card issued to the card member;
+
+3. the registrant must have reimbursed the card member for property or services recorded on the credit card statement which are all or substantially (90% or more) all taxable supplies (other than zero-rated supplies); and
+
+4. the documentary evidence used in the calculation of the ITC must satisfy the following criteria:
+
+    - where a credit-card receipt is issued in conjunction with another component of supporting documentation, both components must be obtained by the registrant before the return in which the ITC is claimed is filed; and,
+
+    - where no other supporting documentation is issued in conjunction with a credit-card receipt (e.g., supplies made in the hospitality industry and by operators of gasoline service stations), the credit card receipt will constitute sufficient supporting documentation to claim an ITC.
+
+Sufficient supporting documentation
+
+65. A registrant should be aware that a monthly credit-card statement does not constitute sufficient documentary evidence to claim an ITC. Whether the registrant uses the factor approach to calculate the ITC or the actual tax paid or payable method, the credit-card statement must be supported by another document (e.g., a credit card receipt, an invoice) to entitle the registrant to claim an ITC.
+
+66. For more information on ITCs on credit card expenses, see GST/HST [GST/HST Memorandum 9.4, Reimbursements](http://www.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&i=&index=ent&__index=ent&srchtxt=mainframe).
+
+### Allowances
+
+67. For the purposes of section 174, an allowance is any periodic or other similar payment that an employee, partner or volunteer receives from an employer, partnership, charity or public institution without having to account for its use. An amount constitutes an allowance for purposes of section 174 (travel and other allowances), section 236 (food, beverages and entertainment), section 253 (employees and partners) and section 259 (municipalities and other public service bodies) where the amount meets all of the following criteria:
+
+- the amount must be predetermined;
+
+- the amount must be paid for a certain purpose;
+
+- the amount paid must be at the complete disposition of the person receiving the payment; and
+
+- there is no requirement for the person receiving the payment to repay or account for its use. That person does not have to demonstrate that the amount was actually spent (i.e., the employee is not required to provide receipts or documentation to the employer).
+
+Travel and other allowances s 174
+
+68. Section 174 enables an employer, partnership, charity or public institution to claim an ITC in respect of allowances paid for expenses (incurred in Canada for taxable supplies other than zero-rated supplies) to the same extent as would have been the case had the person incurred the expense directly. When the conditions under section 174 are met, the employer, partnership, charity or public institution who pays the allowance is deemed to have paid the GST/HST in respect of the supply acquired by employees, partners or volunteers and any consumption or use of the property or services is deemed to be consumption or use by the employer, partnership, charity or public institution and not by the employee, partner or volunteer.
+
+Books and records
+
+69. Due to the nature of allowances, they are generally not supported by documents that relate to a particular supply of property or service. A general exemption to the ITC documentary requirements is, therefore, provided administratively as long as the employer, partnership, charity or public institution maintains proper books and records, including all documentation required to substantiate such deductions under the *Income Tax Act*, capturing the following information:
+
+- the name and GST/HST registration number of the employer, partnership, charity or public institution that paid the allowance;
+
+- the name of the employee, member or volunteer who received the allowance;
+
+- the total amount of the allowance paid to each employee, member or volunteer;
+
+- the total GST/HST deemed to have been paid in respect of the allowance;
+
+- the reporting period in which the allowance was paid; and
+
+- the nature of the allowance (i.e., a description of the allowance, its purpose and tax status).
+
+70. For more information on ITCs and allowances, see GST/HST Memorandum 9.3, *Allowances*.
+
+### Taxi fares
+
+Taxi businesses and disclosure of registration numbers
+
+71. Since all taxi fares are subject to tax (i.e., all taxi businesses must register for the GST/HST and charge the tax on their fares), all taxi businesses have been exempted from the requirement to include their GST/HST registration numbers on individual receipts over $30. While taxi businesses are encouraged to disclose their GST/HST registration numbers, a recipient of a supply of a taxi service is still entitled to claim an ITC for the tax paid in respect of the supply even if the number is not disclosed, provided that all other ITC requirements are satisfied by the recipient. However, taxi drivers are nevertheless required to provide to the recipient all other supporting documentation prescribed by the *Input Tax Credit (GST/HST) Information Regulations*.
+
+72. For more information regarding the application of the GST/HST to taxi businesses, refer to GST/HST Memorandum 2.1, *Required Registration*. General eligibility rules for claiming ITCs are detailed in [GST/HST Memorandum 8.1, General Eligibility Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1.html), and [GST/HST Memorandum 8.2, General Restrictions and Limitations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-2.html).
+
+## Enquiries by telephone
+
+**Technical enquiries on the GST/HST:** 1-800-959-8287
+
+**General enquiries on the GST/HST:** 1-800-959-5525 (Business Enquiries)
+
+**If you are located in Quebec:** 1-800-567-4692 (Revenu Québec)
+
+All technical publications on GST/HST are available on the CRA Web site at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+## Appendix – GST/HST prescribed information for ITC claims
+
+| GST/HST prescribed information under the *Input Tax Credit Information (GST/HST) Regulations* | Total amount paid or payable is less than $30 | Total amount paid or payable is 30$ or more, but less than $150 | Total amount paid or payable is $150 or more |
+
+| --- | --- | --- | --- |
+
+| Supplier or intermediary's name, or the name under which it does business (i.e., trading name). | X | X | X |
+
+| Date of invoice or, where no invoice is issued, the date tax is paid or payable. | X | X | X |
+
+| Total amount paid or payable for all supplies. | X | X | X |
+
+| Supplier or intermediary's GST/HST registration number. |  | X | X |
+
+| Where the amount paid or payable for the supply or the supplies does not include the amount of GST/HST, the amount of tax paid or payable in respect of each supply or all the supplies, or (where provincial sales tax (PST) is payable in respect of each taxable supply that is not a zero-rated supply and is not payable in respect of any exempt supply or zero-rated supply, the total of the GST/HST and PST paid or payable in respect of each taxable supply, and a statement to the effect that the total in respect of each taxable supply includes the GST/HST paid or payable, or the total of the GST/HST and PST paid or payable in respect of all taxable supplies, and a statement to the effect that the total includes the GST/HST paid or payable. Where the amount paid or payable for the supply or supplies includes GST/HST and one or more supplies are taxable supplies that are not zero-rated supplies, a statement to the effect that GST/HST is included in the amount paid or payable for each taxable supply, the total tax rate and the amount paid or payable for each supply or the total amount paid or payable for all such supplies to which the same total tax rate applies. |  | X | X |
+
+| Indication of the status of each supply where the invoice includes both taxable and exempt supplies. |  | X | X |
+
+| Recipient's name or trading name, or the name of the recipient's agent or duly authorized representative. |  |  | X |
+
+| Terms of payment. |  |  | X |
+
+| Brief description of each property or service sufficient to identify it. |  |  | X |

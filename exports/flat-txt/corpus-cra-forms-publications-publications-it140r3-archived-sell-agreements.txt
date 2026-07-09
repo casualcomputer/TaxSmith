@@ -1,0 +1,43 @@
+Title: ARCHIVED - Buy-sell agreements
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it140r3/archived-sell-agreements.html
+Corpus path: corpus/cra/forms-publications/publications/it140r3/archived-sell-agreements.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Buy-sell agreements
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-140R3**
+
+DATE: APRIL 14, 1989
+
+SUBJECT: INCOME TAX ACT**Buy-sell agreements**
+
+REFERENCE: Subsection 70(5) (also subsection 164(6) and paragraph 69(1)(b))
+
+Application
+
+This bulletin replaces and cancels Interpretation Bulletin IT-140R2 dated December 29, 1980. Current revisions are designated by vertical lines.
+
+Summary
+
+Taxpayers who own similar interests in a business or property often make such a similar interest subject to a buy-sell agreement. Although the form and content of buy-sell agreements may vary, they almost always provide for either the compulsory or optional sale of capital property by one person and either the compulsory or optional acquisition by another of the capital property owned by the former. The price may be certain, or may be determined as outlined in the agreement. This bulletin discusses buy-sell agreements that are in effect at the time of death of a person.
+
+Discussion and Interpretation
+
+1. The rules in subsection 70(5) apply to property that is subject to a buy-sell agreement, unless the property can be considered to vest indefeasibly in another person pursuant to subsection 70(6), 70(9), 70(9.2) or 70(9.6) or paragraph 70(5.2)(d) or (f). Whether the property vests indefeasibly in another person depends on the terms of the buy-sell agreement and the terms of the will (see the current issue of IT-449R).
+
+2. When determining the proceeds deemed to have been received by the deceased pursuant to subsection 70(5), the fair market value of the property subject to the buy-sell agreement must be determined at the time immediately before death. The Department's view is that, where the deceased and the surviving party to the buy-sell agreement (survivor) did not deal at arm's length, it is a question of fact whether the fair market value for the purpose of subsection 70(5) will be determined with reference to the buy-sell agreement.
+
+3. Where the deceased and a survivor did not deal at arm's length at the time the agreement was made, the Department's view is that paragraph 69(1)(b) applies when the estate sells the property to the survivor pursuant to the agreement and that it is a question of fact whether fair market value under paragraph 69(1)(b) will be determined with reference to the buy-sell agreement.
+
+4. In fulfilling the obligation to sell the property to a survivor, the estate may realize a capital loss on non-depreciable capital property or may be permitted to deduct a terminal loss on depreciable property. Subsection 164(6) provides some relief where, within the first taxation year of the estate, the legal representatives of the deceased dispose of capital property of the estate and incur a net capital loss, or dispose of all the depreciable property of a prescribed class and incur a terminal loss. The legal representative may elect in accordance with the conditions prescribed in section 1000 of the Regulations to treat all or part of such losses as if they were incurred in the year of death rather than in the first taxation year OF THE ESTATE. NO PART OF SUCH LOSSES MAY BE DEDUCTED FOR A TAXATION year preceding the year in which the taxpayer died. (In the case of deaths occurring after 1984, an amended return for the year of death must be filed on behalf of the deceased to give effect to the application of such losses.) Any resulting refund would be paid or credited to the estate.

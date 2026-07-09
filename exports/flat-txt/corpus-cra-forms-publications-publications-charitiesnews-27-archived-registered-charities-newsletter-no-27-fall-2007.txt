@@ -1,0 +1,591 @@
+Title: ARCHIVED - Registered Charities Newsletter No. 27 - Fall 2007
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/charitiesnews-27/archived-registered-charities-newsletter-no-27-fall-2007.html
+Corpus path: corpus/cra/forms-publications/publications/charitiesnews-27/archived-registered-charities-newsletter-no-27-fall-2007.md
+Document type: publication
+Last modified: 2006-12-15
+
+# ARCHIVED - Registered Charities Newsletter No. 27 - Fall 2007
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## Contents
+
+- [From the Director General](#P137_2280)
+
+- [Facts and figures](#P151_3567)
+
+    - [Facts and figures about charities and the CRA in 2005](#P153_3584)
+
+    - [Number of charities as of December 2005 (designation and charity types)](#P169_4925)
+
+    - [Roadshow](#P211_5356)
+
+- [Legalese for charities – Part III](#P261_5833)
+
+- [What’s new](#P292_9047)
+
+    - [Introducing guidelines for applying the new sanctions](#P293_9057)
+
+    - [Jurisdictional collaboration](#P302_11108)
+
+- [Did you know?](#P314_12752)
+
+    - [REMINDER: Use the correct information return](#P316_12765)
+
+    - [REMINDER: Where to send your return?](#P334_13432)
+
+    - [REMINDER: Use of correct mailing address – Form T3010/T3010A Information online](#P342_13663)
+
+    - [Receipts – Who is the donor?](#P362_15552)
+
+    - [Enduring property](#P377_18589)
+
+    - [Planned giving: annuities, life insurance and charitable remainder trusts](#P428_27675)
+
+- [Issues](#P463_31565)
+
+    - [With whom do we communicate?](#P464_31571)
+
+- [Policies](#P475_33158)
+
+    - [Public benefit](#P476_33166)
+
+- [Experts corner](#P481_33359)
+
+    - [Debts incurred by charitable foundations](#P482_33373)
+
+    - [Restrictions on private foundations: Business activities, debts and non-qualified investments](#P491_35250)
+
+    - [What is a non-qualified investment?](#P503_37102)
+
+    - [Gift of residue of an estate can qualify as a “gift by the individual’s will”](#P529_39607)
+
+- [Court news](#P545_41136)
+
+    - [Promotion of amateur athletics](#P548_41237)
+
+    - [Conducting activities in foreign country](#P551_41795)
+
+    - [Donation where there is no provision in the will](#P560_43068)
+
+- [Contact information](#P575_46270)
+
+## From the Director General
+
+There continues to be a great interest and need for information related to the 2005 changes to legislation regarding charities. Of particular interest are the changes to the disbursement quota and the new sanctions. We have also received many questions with respect to the new appeals process.
+
+This newsletter is an important means for us to provide updates, address specific questions, and guide you to additional topics. In this newsletter, you will find information on sanctions and the disbursement quota, and an update on key collaborative activities in the regulation of charities with our colleagues in provincial and territorial governments. The new appeals process will be the subject of an upcoming newsletter.
+
+As discussed in *Registered Charities Newsletter* No. 25, the newsletter contents are now organized with topics of broad interest to most charities appearing first, and more specialized issues appearing in the second part. This issue’s second half includes several recent court decisions as well as a section addressing debts incurred by charitable foundations.
+
+We are always interested in your feedback. If you have any comments with respect to this newsletter, please let us know. Our contact information appears at the end of this newsletter.
+
+## Facts and figures
+
+### Facts and figures about charities and the CRA in 2005
+
+In 2005, the Charities Directorate:
+
+- received 170,432 phone inquiries on our toll free line;
+
+- 35,492 of these were dealt with at the “tier two” level, which deals with questions of a technical nature;
+
+- received 10,690 written requests for services from registered charities;
+
+- received 3,449 new applications for registration as a charity;
+
+- received 527 applications for re-registration as a charity;
+
+- sent 433 letters to applicants advising them of the CRA’s tentative view that they would not qualify for registration (charities can make further representations after receiving such a letter and may eventually be registered if they address the concerns raised in the letter);
+
+- formally denied 35 applications;
+
+- registered 3,117 charities (including both new registrations and re-registrations);
+
+- revoked the charitable status of 438 organizations at their request;
+
+- revoked 963 registered charities because they did not file their annual registered charity information return in the six-month period after their fiscal year-end;
+
+- revoked 11 registered charities for cause (*e.g.*, because they ceased to comply with the requirements of the *Income Tax Act*); and
+
+- completed 596 audits of registered charities as a result of public complaints, random selection, or based on annual information returns.
+
+### Number of charities as of December 2005 (designation and charity types)
+
+The charitable sector continued to grow in the last year, and it now comprises more than 82,200 organizations.
+
+| **Designation** | **Public foundation** | **Private foundation** | **Charitable organization** | **Total** |
+
+| --- | --- | --- | --- | --- |
+
+| Welfare | 1,692 | 2,049 | 12,770 | 16,511 |
+
+| Health | 1,018 | 265 | 4,333 | 5,616 |
+
+| Education | 755 | 757 | 11,866 | 13,378 |
+
+| Religion | 306 | 622 | 31,931 | 32,859 |
+
+| Benefits to the community | 873 | 515 | 12,491 | 13,879 |
+
+| Total | 4,644 | 4,208 | 73,391 | 82,243 |
+
+### Roadshow
+
+We delivered 69 sessions in 2005. This was a significant increase over the 42 sessions delivered in 2004 when labour disruptions curtailed the fall outreach program.
+
+**Roadshow 2005**
+
+| **Province** | **Number of sessions** | **Number of participants** |
+
+| --- | --- | --- |
+
+| British Columbia | 10 | 563 |
+
+| Alberta | 9 | 482 |
+
+| Saskatchewan | 4 | 176 |
+
+| Manitoba | 4 | 217 |
+
+| Ontario (excluding NCR) | 18 | 1,063 |
+
+| Quebec (excluding NCR) | 9 | 524 |
+
+| New Brunswick | 5 | 203 |
+
+| Prince Edward Island | 1 | 30 |
+
+| Nova Scotia | 3 | 120 |
+
+| Newfoundland & Labrador | 2 | 45 |
+
+| National Capital Region (NCR) | 4 | 195 |
+
+| **TOTAL** | **69** | **3,618** |
+
+## Legalese for charities – Part III
+
+You can read our earlier pieces on legalese for charities in *Registered Charities Newsletter* No. 22 and No. 26.
+
+In this issue, we discuss the CRA’s interpretation of the terms **substantially all** and **substantially the same**.
+
+"**Substantially all**" has been considered by the CRA to generally mean 90% or more. The ITA applies a **substantially all** test in the context of permitted political activities and related business.
+
+Under the *Income Tax Act*, a registered charity can be involved in non-partisan political activities as long as it devotes **substantially all** of its resources to charitable purposes and activities. Any permitted political activities have to help accomplish the charity's purposes and remain incidental in scope.
+
+Charitable organizations and public foundations can carry on related businesses. A related business is a commercial activity *(i.e.*, revenue-generating) that is either linked to a charity’s purpose and subordinate to that purpose, or substantially run by volunteers. Private foundations cannot carry on any business activities.
+
+Subsection 149.1(1) ***Related business** in relation to a charity, includes a business that is unrelated to the objects of the charity if **substantially all** persons employed by the charity in the carrying on of that business are not remunerated for that employment.*
+
+"**Substantially the same**" is not defined in the Act. When considering whether charities qualify to be “associated,” the Charities Directorate relies on the common usage meaning to determine if the charitable aim or activities are substantially the same *(i.e.*, largely, but not necessarily wholly related.)
+
+Registered charities whose charitable aim or activity is substantially the same can apply to be designated as associated charities. Associated charities can pass funds among themselves without being affected by the usual 50% limitation placed on gift-making by charitable organizations.
+
+In considering whether registered charities can be designated as associated for purposes of the *Income Tax Act*, the organizations must demonstrate that there is a definite relationship in existence between the organizations desiring such designation. A relationship may be in one of several forms.
+
+Examples include:
+
+- a national body with branches or chapters under its supervision is related by constitution to those branches or chapters;
+
+- two or more organizations forming a relationship by agreement to undertake a joint project (e.g., construction of an art centre);
+
+- a charitable foundation is related to a charitable organization it was established to support (e.g., promotion of health, advancement of education.)
+
+*149.1(7) **Designation of associated charities**. On application made to the Minister in prescribed form (T3011), the Minister may, in writing, designate a registered charity as a charity associated with one or more specified registered charities where the Minister is satisfied that the charitable aim or activity of each of the registered charities is **substantially the same**, and on and after a date specified in such a designation, the charities to which it relates shall, until such time, if any, as the Minister revokes the designation, be deemed to be associated.*
+
+## What’s new
+
+### Introducing guidelines for applying the new sanctions
+
+Until 2005, the only sanction (penalty) available to enforce the *Income Tax Act* rules for registered charities was revoking the charity’s registration. This was widely recognized as overly severe for many forms of non-compliance. The government and charity representatives who worked together on the Joint Regulatory Table recommended that less severe sanctions be introduced. As a result, amendments to the *Income Tax Act* created a number of alternatives to revocation.
+
+The new sanctions allow the Charities Directorate to take intermediate steps before revoking the charitable registration of a charity, when a charity is not compliant with the *Income Tax Act*. As a general rule, we intend to use educational methods to obtain compliance, and then move progressively through compliance agreements, sanctions, and ultimately to revocation, if necessary. The Charities Directorate is involved in an on-going effort to inform and educate charities of their obligations under the law. Although our first step is to educate, we are committed to using stronger measures where required.
+
+The Charities Directorate’s mission is to promote compliance with the income tax legislation and regulations relating to charities through education, quality service, and responsible enforcement, thereby contributing to the integrity of the charitable sector and the social well-being of Canadians. Registered charities that do not comply with the law are compromising the valuable work of legitimate organizations by both reducing public confidence in the charitable sector and diverting funds that would otherwise be spent to benefit Canadians. The Charities Directorate is committed to identifying such charities and revoking their registered status if they will not or are unable to comply with the law.
+
+In an effort to educate charities, the Charities Directorate is developing Guidelines for Applying the New Sanctions. The guidelines will be available on the Directorate’s Web site at: [www.cra.gc.ca/charities](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities.html).
+
+### Jurisdictional collaboration
+
+*Registered Charities Newsletter* No. 24 provided a summary of the framework for collaboration with provincial and territorial governments. In this issue, we provide a summary of the more salient activities undertaken in support of promoting greater cooperation between the federal, provincial and territorial levels of government in the regulation of charities.
+
+#### Network of regulators
+
+In January 2006, the Charities Directorate hosted a two-day meeting to further develop and strengthen the network of charities regulators and to increase jurisdictional collaboration relating to the regulation of charities. Topics of discussion included deceptive fundraising, and public education and awareness. All jurisdictions were represented at the meeting.
+
+**Joint products** – Public education products have been jointly developed with Ontario (a 2006 calendar and an educational CD-ROM for secondary school students) and Manitoba (a 2006 calendar). As well, the CRA is collaborating on public education and awareness products with New Brunswick, Nova Scotia and Prince Edward Island.
+
+**Collaboration in Roadshows** – For the 2005 Roadshows, the CRA information packages included information sheets from the Ontario and Alberta governments on their role in regulating charities. For the 2006 sessions, information sheets were included from Manitoba, Nova Scotia, Newfoundland & Labrador and Ontario.
+
+**Bilateral meetings** – In 2006, the Charities Directorate has held bilateral meetings in British Columbia (January), Alberta (March), Saskatchewan (March) and Manitoba (April) to discuss collaboration in public education and compliance.
+
+## Did you know?
+
+### REMINDER: Use the correct information return
+
+When you file your annual information return, make sure you use the correct version of the form. Charities need to use the version associated with the year for which they are filing. The correct forms are shown in the table below.
+
+| **Form** | **Used for:** |
+
+| --- | --- |
+
+| T3010A (05) | 2005 and 2006 |
+
+| T3010A (03) | 2003 and 2004 [[Footnote 1]](#P327_13100) |
+
+| T3010 (02) | 2002 and prior years |
+
+A charity that files the wrong form is not considered to have filed a complete return. Resubmitting on the correct form involves added work for the charity. Each version reflects the requirements under the law for that year.
+
+### REMINDER: Where to send your return?
+
+To avoid delays in the processing of your return, please mail your return and all required attachments to the Charities Directorate at:
+
+Charities Directorate Canada Revenue Agency Ottawa ON K1A 0L5
+
+### REMINDER: Use of correct mailing address – Form T3010/T3010A Information online
+
+To ensure transparency and accountability in the regulation of charities, the Directorate’s Web site displays non-confidential information submitted by each registered charity in its annual information returns, such as the charity’s mailing address.
+
+However, the Directorate currently takes measures to protect information such as the addresses of charities whose beneficiaries might be put at greater risk if physical locations were widely known.
+
+The *Registered Charity Information Return* currently asks for three addresses;
+
+1. mailing address (which is displayed on the Basic Information Sheet, and this can be changed simply by indicating the current mailing address of the charity in the appropriate space provided on the Basic Information Sheet, when filing the return);
+
+2. the physical address; and
+
+3. the address where the books and records are located.
+
+The physical address and address where the books and records are located can be updated by completing the confidential portion located on page 4 of the return.
+
+Only the mailing address is displayed on the CRA’s Web site. The addresses for the physical location and books and records are not displayed. Therefore, a charity with a sensitive location should use a mailing address that is different from its physical address (*e.g.*, a P.O. Box number, or the address of the organization’s lawyer or accountant).
+
+If your charity maintains a physical address of a sensitive nature, we suggest you check the address that appears on our Web site at [http://www.cra-arc.gc.ca/chrts-gvng/lstngs/menu-eng.html](https://apps.cra-arc.gc.ca/ebci/hacc/srch/pub/dsplyBscSrch?request_locale=en) to ensure that the physical address of the location is not listed. If a sensitive address does appear, please alert us by writing to the Canada Revenue Agency, Charities Directorate, Ottawa ON K1A 0L5. You can reach us by fax at: 613-954-8037.
+
+### Receipts – Who is the donor?
+
+Paragraphs 3501(1)(*g*) and 3501(1.1)(*g*) of the *Income Tax Regulations* provide that an official donation receipt must bear the name and address of the donor. Policy Commentary CPC-010, *Name on Official Donation Receipt,* explains the circumstances when someone may be considered the donor. Below are some questions we have received on the name that may be included concerning donation receipts.
+
+**Q1. Can we take up a collection and raffle the receipt? A group of 20 people from work will each contribute $20 toward a $400 donation to charity. We would like to raffle a receipt for $400. Can we do this?**
+
+**A1.** No. A charitable donation receipt can only be issued to the actual donor. In this case, each of the 20 donors has contributed $20. To issue a receipt, the charity must be able to identify the actual donor or donors. If a lump sum is donated without detailed donor information, the charity may not be able to issue any receipt.
+
+**Q2. A business bought a block of tickets for a golf tournament. Should we issue the tax receipt in the name of the golfers who use the tickets or in the name of the business?**
+
+**A2.** The charity should always issue a receipt in the name of whoever buys the tickets. However, the business could collect the amounts from the golfers and provide the charity with one cheque and the list of donors. In this case, the charity could issue a receipt in the name of each golfer. [[Footnote 2]](#P370_16973)
+
+**Q3. Can we issue a charitable donation receipt in lieu of a speaking fee for a speaker at our conference? At a recent conference, one of our speakers asked that instead of paying a fee for his services, our charity consider that fee as a donation to our organization and issue him the receipt. Can we do this?**
+
+**A3.** No. The *Income Tax Act* only permits a registered charity to issue official donation receipts for income tax purposes for gifts. To be considered a gift, there must be a transfer of property. Contributions of services (*i.e.*, time, skills or effort) are not property. Therefore, they do not qualify as gifts for purposes of issuing official donation receipts.
+
+However, a charity may issue an official donation receipt if a person provides a service to the charity, the charity pays for the service, and the person then chooses to return an amount to the charity as a gift. In such circumstances, two transactions have taken place, the first being the provision of a service and the payment flowing from it, and the second being a transfer of property. An exchange of cheques method creates a trail for the taxable income, which is necessary because the donor must account for that income, which would be realized either as remuneration or as business income.
+
+### Enduring property
+
+**Summary:** The definition of “**enduring property**” applies for the purpose of the definition “disbursement quota” and applies to fiscal periods that begin after March 22, 2004. Gifts of enduring property are generally excluded from the charity’s disbursement quota in the year they are received. However, the charity must consider these gifts when calculating the average value of property for its 3.5% disbursement quota requirement. When the charity spends or transfers some or all of the enduring property, 80% of the amount spent or 100% of the amount transferred must be included when calculating the disbursement quota requirement.
+
+Transfers from registered charities to charitable organizations were previously exempt from the recipient charitable organization’s disbursement quota. Under the new disbursement quota rules, there are three types of property transfers between charities: specified gifts, enduring property and other gifts, which are each treated differently.
+
+**Q1. What is included in enduring property?**
+
+**A1.** While there are specific exceptions, enduring property of a registered charity generally includes:
+
+- a gift received by way of bequest or inheritance (which may include direct distributions of proceeds to a registered charity that is the designated beneficiary of a life insurance policy, a registered retirement savings plan, or a registered retirement income fund);
+
+- a gift received by a charitable organization from another registered charity that is subject to a trust or direction to the effect that the property given, or property substituted for the gift,
+
+    - is to be held by the charitable organization for a period of not more than five years from the date the gift was received by the charitable organization, and
+
+    - is to be expended in its entirety over the period referred to in the trust or direction to acquire a tangible capital property to be used in charitable activities or administration; and/or in the course of a program of charitable activities of the charitable organization that could not reasonably be completed before the end of the first fiscal period following the fiscal period in which the gift was received;
+
+- a gift received by a charity that is subject to a trust or direction to the effect that the property given, or property substituted for the gift, is to be held by the charity for a period of not less than 10 years (a “10-year gift”.) The trust or direction may permit the charity to transfer the enduring property to another registered charity (the “transferee charity”), subject to the same terms and conditions of the original gift. It may also permit the charity, or the transferee charity, to expend such amount of the gift or the substituted property before the end of that period, to the extent necessary to meet the 3.5% disbursement quota requirement; and
+
+- a gift received by a charity from another charity that was a bequest or inheritance of the other charity or a ten-year gift of the other charity, and in the case of a ten-year gift, it is subject to the same terms and conditions of the original gift.
+
+**Q2. When are gifts of enduring property (excluding inter-charity transfers) included in a registered charity’s disbursement quota?**
+
+**A2.** Gifts of enduring property (e.g. bequests or 10-year gifts) are only included in the disbursement quota when a charity spends or transfers some or all of this enduring property. However, they must be considered when calculating the average value of property for a charity’s 3.5% disbursement quota requirement.
+
+**Q3. If a charity receives enduring property from a registered charity, is there a disbursement quota obligation for the recipient charity?**
+
+**A3.** Enduring property (e.g. 10-year gift) received from another charity is generally excluded from the recipient’s disbursement quota in the year it is received. When the recipient charity spends or transfers some or all of its enduring property, the amount spent or transferred must be included when calculating the disbursement quota (unless it was received as a specified gift.) The recipient charity must also consider the enduring property when calculating the average value of property for its 3.5% disbursement quota requirement.
+
+**Q4. If a charity transfers enduring property which it received as a specified gift, is there a disbursement quota obligation for that donor charity?**
+
+**A4.** No. Enduring property that was received as a specified gift is excluded from the donor charity’s disbursement quota. There are errors in the (05) version of Form T3010A regarding the reporting of enduring property and specified gifts. Since Form T3010A is not being revised this year, Guide T4033A, *Completing the Registered Charity Information Return*, will be amended to instruct charities in such circumstance to include the amount on line 4920, Other expenditures*,* and on line 5000, Total charitable programs expenditures included in line 4950.
+
+**Q5. If a charity transfers enduring property as a specified gift, is there a disbursement quota obligation for the recipient charity?**
+
+**A5.** No. Enduring property received as a specified gift is excluded from the recipient charity’s disbursement quota. The charity should include the amount on line 4510, Total amount received from other registered charities and on line 4520, Total specified gifts included in line 4510 of Form T3010A (05).
+
+The donor charity cannot use the specified gift to satisfy its own disbursement quota. Specified gifts should be identified as such in the books and records of the donor charity and recipient charity.
+
+**Q6. What is a bequest?**
+
+**A6.** A bequest is property that a registered charity receives from the will of a deceased person. Under the *Income Tax Act,* a bequest is a gift of enduring property. Bequests are generally excluded from a charity's disbursement quota in the year they are received. However, the charity must consider these gifts when calculating the average value of property for its 3.5% disbursement quota requirement. Also, bequests must be included in calculating the charity's disbursement quota in the year in which they are spent or transferred to a qualified donee.
+
+**Q7. When an individual makes a gift through his or her will, when is the gift deemed to have been made?**
+
+**A7**. Under subsection 118.1(5) of the Act “…where an individual by the individual’s will makes a gift, the gift is, for the purpose of this section, deemed to have been made by the individual immediately before the individual died.”
+
+For gifts in kind, the value of the gift is considered to be its fair market value immediately before death and not when the property is subsequently received by the charity.
+
+**Q8. Can a charity issue a receipt prior to the transfer of property by the deceased’s estate?**
+
+**A8.** No. However, a donation tax credit can still be claimed on the deceased taxpayer’s final return. Where the charity receives a letter from the estate advising of the gift and its value, the registered charity can issue a letter to the estate acknowledging the gift and stating that it will accept the gift.
+
+**Q9. If a will allows trustees to decide on the way property is disposed of, either to a charity or to another organization, can a donation receipt be issued for the property that the trustees donate to a charity?**
+
+**A9.** Yes. Where the trustees exercise their discretion to donate property to a charity, a receipt can be issued for the fair market value of the property and a donation tax credit may be claimed on the trust return filed by the estate.
+
+A donation tax credit can be claimed on the deceased taxpayer’s final return where the terms of the will provide that a donation of a specific property, a specific amount or a specific percentage or part of the residue of the individual’s estate is to be gifted to a charity. In a situation where the individual’s will directs his or her trustee to make a donation to charity without identifying a particular charity, this, in itself, would not preclude the donation from otherwise qualifying as a gift by will.
+
+**Q10. If the terms of a person’s will specify that property is to be used to establish a charitable foundation, can a donation receipt be issued if the charity is registered?**
+
+**A10.** Yes. The fact that the foundation did not exist at the time of the individual's death will not, in and of itself, preclude a donation from otherwise qualifying as a gift by will for the purposes of subsection 118.1(5) of the Act as long as the foundation is a qualified donee at the time the gift is completed. The completion of the gift should occur within a reasonable period after the date of death.
+
+**Q11. Can a deceased individual obtain an official receipt for tax purposes when a charity has been designated as a beneficiary of a RRIF?**
+
+**A11.** Yes. Under the *Income Tax Act*, a charitable donation tax credit can be claimed on a deceased individual's return for a donation of a direct distribution of proceeds to a qualified donee who is the designated beneficiary of a registered retirement savings plan (RRSP), a registered retirement income fund (RRIF), or a life insurance policy, provided certain conditions are met.
+
+### Planned giving: annuities, life insurance and charitable remainder trusts
+
+#### Charitable gift annuities
+
+**Q1. What is a charitable gift annuity?**
+
+**A1.** A charitable gift annuity is an arrangement under which a donor contributes funds to a charitable organization in exchange for guaranteed payments for life at a specified rate depending on life expectancy or for a fixed term.
+
+**Q2. Sometimes a donor/annuitant of a charitable gift annuity lives beyond the number of years they were expected to live at the time they acquired the annuity. How will annuity payments received by the annuitant after they have exceeded their life expectancy be taxed?**
+
+**A2.** Charitable annuities issued after December 20, 2002, will be taxed in the same manner as all other annuity contracts are taxed under the *Income Tax Act*. Assuming the annuity is a "prescribed annuity contract" as defined in subsection 304(1) of the *Income Tax Regulations*, annuity payments are included in the taxpayer’s income in the year the payments are received, and the taxpayer may claim a deduction in respect of the capital element of the payments.
+
+**Q3. How is the capital element determined for a life annuity?**
+
+**A3.** While specific reference should be made to section 300 of the Regulations, the calculation of the capital element of a life annuity essentially apportions the "adjusted purchase price" of the donor's interest in the annuity (generally the cost of the annuity) over the expected life of the donor. The expected life of the donor is determined by referring to the 1971 Individual Annuity Mortality Table as prescribed in Volume XXIII of the Transactions of the Society of Actuaries.
+
+More information on charitable gift annuities is discussed in *Income Tax Technical News* No. 26, which is available on-line at:[http://www.cra.gc.ca/E/pub/tp/itnews-26/README.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-26.html).
+
+#### Life insurance policy
+
+**Q4. Can a charity issue a receipt for a gift of a life insurance policy?**
+
+**A4.** Yes. Where a policyholder absolutely assigns a life insurance policy to a registered charity and makes the charity the registered beneficiary of the policy, the charity can issue an official donation receipt for the value of the policy (*i.e.*, the amount by which the cash surrender value of the policy at the time of the absolute assignment exceeds any policy loan outstanding) and any accumulated dividends and interest, which are also assigned at that time. If the policy has no value, there is no charitable gift when it is transferred. Donations of subsequent premium amounts will qualify as charitable gifts.
+
+#### Charitable remainder trust
+
+**Q5. What is a charitable remainder trust?**
+
+**A5.** Generally, a charitable remainder trust involves transferring property to a trust whereby the donor or beneficiary retains a life or income interest in the trust but an irrevocable gift of the residual interest is made to a registered charity. A registered charity can issue an official donation receipt for the fair market value of the residual interest at the time that the residual interest vests in the charity.
+
+The CRA will consider a gift of residual interest to have been made if **all** of the following requirements are met:
+
+(a) there must be a transfer of property;
+
+(b) the property must vest with the recipient charity at the time of transfer. A gift is vested if
+
+(i) the person or persons entitled to the gift are in existence and are ascertained,
+
+(ii) the size of the beneficiaries’ interests are ascertained, and
+
+(iii) any conditions attached to the gift are satisfied.
+
+(c) the transfer must be irrevocable; and
+
+(d) it must be evident that the recipient organization will eventually receive full ownership and possession of the property transferred.
+
+For more information on what needs to be considered in the valuation of these types of gifts, see IT-226, *Gift to a Charity of a Residual Interest in Real Property or an Equitable Interest in a Trust* at: [www.cra.gc.ca/E/pub/tp/it226r/it226r-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it226r/archived-gift-a-charity-a-residual-interest-real-property-equitable-interest-a-trust.html).
+
+## Issues
+
+### With whom do we communicate?
+
+A charity sometimes appoints a representative (often a lawyer or an accountant) to handle a particular matter with the Charities Directorate. Once a charity has confirmed to us in writing that it has appointed a representative, our standard practice is to communicate only with that representative on that matter. In cases involving applications for registration, we normally communicate only with the representative throughout the application process. However, in cases dealing with proposed sanctions, including revocations for cause, once we make a decision that gives the charity a right to object within a set period, we will send our letter to the representative and a copy directly to the charity.
+
+Note: In the case of system-generated mailouts (e.g., Form T2051A, Notice of Intention to Revoke), these are sent to the mailing address as recorded with the Charities Directorate. If the charity wants to receive certain mailouts directly (e.g*.*, Form T3010A), the charity should ensure that the mailing address as recorded with us is not that of its authorized representative.
+
+Our objective is to respect the charity’s wishes, to avoid the confusion that can arise when more than one person speaks for the charity, and to avoid any appearance of interfering with the work of the representative.
+
+If the representative does not reply to our communications, we may contact the charity to ask if the person still acts as its representative.
+
+We can generally accommodate other patterns of communication at the joint request of the charity and its representative.
+
+## Policies
+
+### Public benefit
+
+The Guidelines for Registering a Charity: Meeting the Public Benefit Test (CPS-024) are now available on the CRA Web site at[www.cra.gc.ca/tax/charities/policy/cps/cps-024-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/policy-statement-024-guidelines-registering-a-charity-meeting-public-benefit-test.html).
+
+## Experts corner
+
+### Debts incurred by charitable foundations
+
+Debts incurred for the purpose of acquiring investments will now be viewed as a "debt incurred in connection with the purchase and sale of investments" for purposes of paragraphs 149.1(3)(*d*) and (4)(*d*).
+
+It had been our view that the phrase "debts incurred in connection with the purchase and sale of investments" should be interpreted fairly strictly. Under this view, the type of debt contemplated by this phrase would be a miscellaneous type of debt such as brokerage fees or other incidental amounts that could be incurred on either the purchase or sale of an investment.
+
+The phrase “in connection with” has a very broad meaning. The CRA’s revised position is consistent with the policy intent of subparagraph 3702(1)(*b*)(iii) of the *Income Tax Regulations*. That regulation contemplates a debt incurred by a charitable foundation in respect of the acquisition of an interest in real property and provides relief to the foundation in computing its disbursement quota. Accordingly, the fact that a charitable foundation incurs a debt to acquire an investment will not, in and of itself, be grounds for revocation. However, there may be other issues, such as personal benefit, particularly with those debt arrangements involving non-arm's length parties that may be of concern to the CRA.
+
+Generally, loans received from the foundation's directors or members to enable the foundation to acquire investments, pay current operating expenses, or expend on charitable activities will fall under the exception in paragraphs 149.1(3)(*d*) and (4)(*d*). The borrowed money will often increase the investment capital of the charity and therefore give rise to a disbursement quota requirement. As well, charities should be aware that the lender is not entitled to a charitable donation receipt until such time as all or a portion of the debt is forgiven.
+
+### Restrictions on private foundations: Business activities, debts and non-qualified investments [Footnote 3]
+
+Registered charities that are private foundations have a number of restrictions on their activities that do not apply to other registered charities. Under the *Income Tax Act*, a private foundation cannot carry on any business activities. [[Footnote 4]](#P494_36270) A private foundation that carries on business activities is liable to a penalty, or ultimately, revocation. As well*,* the Minister may revoke the registration of both private foundations and public foundations if they incur debts [[Footnote 5]](#P495_36591) other than:
+
+- debts for current operating expenses,
+
+- debts incurred in connection with the purchase and sale of investments, and
+
+- debts incurred in the course of administering charitable activities.
+
+The restrictions concerning non-qualified investments (see below) apply to private foundations only. Non-qualified investments will give rise to tax payable by the debtor if the private foundation receives interest or dividends on them falling short of an amount based on the prescribed rate.
+
+### What is a non-qualified investment?
+
+Subsection 149.1(1) defines a "non-qualified investment" of a private foundation as:
+
+*(a)* a debt (other than a pledge or an undertaking to make a gift) owing to the foundation by:
+
+(i) a person (other than an excluded corporation)
+
+(A) who is a member, shareholder, trustee, settler, officer, official or director of the foundation;
+
+(B) who has contributed more than 50% of the foundation’s capital or who is a member of a group of persons not dealing with each other at arm’s length who have contributed more than 50% of the foundation’s capital; or
+
+(C) who does not deal at arm’s length with any person described in (A) or (B); or
+
+(ii) a corporation (other than an excluded corporation) controlled by the foundation, by any person or group of persons referred to in subparagraph (i) , by the foundation and any other private foundation with which it does not deal at arm’s length; or any combination thereof;
+
+*(b)* a share of a class of capital stock of a corporation, other than an “excluded corporation”, described in (*a*) above that the foundation holds. However, the law excludes from non-qualified investments any share listed on one of the prescribed stock exchanges named in section 3200 or 3201 of the *Income Tax Regulations* or any prescribed share [[Footnote 6]](#P515_38376) of the capital stock of a taxable Canadian corporation;
+
+*(c)* a right held by the foundation to acquire a share referred to in paragraph (*b*);
+
+and, for the purpose of this definition, an “excluded corporation” is:
+
+*(d)* a limited-dividend housing company to which paragraph 149(1)(*n*) applies;
+
+*(e)* a corporation all of the property of which is used by a registered charity in its administration or in carrying on its charitable activities; or
+
+*(f)* a corporation all the issued shares of which are held by the foundation.
+
+For example, in the case of a mortgage that a private foundation acquired from a director, it would be considered a non-qualified investment of the foundation within the meaning of subsection 149.1(1) of the *Income Tax Act*. As long as the organization is a private foundation, the status of the investment will not change.
+
+The mortgagee must complete Form T2140, *Part V Tax Return -* *Tax on Non-Qualified Investments of a Registered Charity*, every fiscal year. The tax payable can be reduced by the amount of interest paid during the tax year. Accordingly, if the mortgagee decided to voluntarily pay interest to the foundation, it would reduce the amount of tax payable.
+
+### Gift of residue of an estate can qualify as a “gift by the individual’s will”
+
+Under subsection 118.1(5) of the *Income Tax Act*, “ … where an individual by the individual’s will makes a gift, the gift is for the purpose of this section, deemed to have been made by the individual immediately before the individual died.” A charity may issue a receipt for such a gift.
+
+In some cases, rather than specifying that particular property (gifts in kind) is to be donated to a charity, people specify that the “residue” will be left to the charity.
+
+For example, consider the terms of the will that specify:
+
+- the testator’s spouse may select such of the pieces of art as he or she wished
+
+- once the spouse makes his or her selection within a reasonable timeframe, he/she releases any right to the remaining pieces of art;
+
+- the remaining pieces must be transferred to the charity; and
+
+- the executor does not have any discretion on whether the art will be donated.
+
+It is necessary in any case to consider all of the terms of a will. However, generally where the executors have no entitlement to encroach on the capital of the estate, the property required to be donated to the charity in the circumstances described above would qualify as a gift by the individual's will for purposes of subsection 118.1(5).
+
+Unlike the case in *MacDonald Estate v. The Queen* (see Court News), the deceased intended that a gift be made to a registered charity. Therefore it is possible for a registered charity to issue a charitable donation receipt for tax purposes.
+
+## Court news
+
+Decisions of the Federal Court of Appeal are available at: [www.fca-caf.gc.ca/index_e.shtml](http://www.fca-caf.gc.ca/index_e.shtml).
+
+### Promotion of amateur athletics
+
+On April 5, 2006, the Federal Court of Appeal ruled that the CRA was correct in refusing to register the A.Y.S.A. Amateur Youth Soccer Association as a charity under the *Income Tax Act*. The Court held that the scheme of the Act precluded the registration of amateur sports associations as charities, and only permitted the separate registration of Canadian amateur athletic associations where these operated on a nation-wide basis. The Association has filed for and been granted leave to appeal with the Supreme Court of Canada.
+
+### Conducting activities in foreign country
+
+A registered charity named Bayit Lepletot appealed the CRA’s intention to revoke the charity’s registered status to the Federal Court of Appeal. The Court delivered its decision from the Bench on March 28, 2006. The Court dismissed the appeal with costs.
+
+At issue was whether the appellant was carrying on its own charitable activities. The appellant purported to be carrying on activities within three institutions for orphans in Israel. The three institutions were operated by an Israeli organization of the same name since 1947. The appellant was incorporated in 1980.
+
+Through an audit, the CRA took the position that the organization was not carrying on its own charitable activities. While the organization did enter into an agency agreement with a Rabbi associated with the institutions, there was no evidence to show that the Rabbi exercised any control over the charitable activities in his capacity as the appellant’s agent.
+
+The Court found that proof of the agency relationship was not sufficient in itself to demonstrate that the appellant had control over the activities being carried out by its agent. The appellant must be able to demonstrate that the charitable activities being carried are its own charitable activities.
+
+### Donation where there is no provision in the will
+
+In *MacDonald Estate v The Queen* (2004TC333; 2004 DTC 2694), the Tax Court of Canada considered whether the deceased made a donation to a registered charity.
+
+Under the terms of her will, the residue of Audrey MacDonald’s estate was to be divided into equal shares, one of which was to be paid or transferred to her brother, Father Joseph MacDonald, if he survived her. She named no alternative recipient, so if Father Macdonald predeceased the testator, the residue of the estate was to be divided equally among the remaining three beneficiaries.
+
+The Appellant, as executrix of the estate of Audrey MacDonald argued that Father MacDonald and Poverello (a registered charity) were one and the same, that any monies going to Father MacDonald were used by him in carrying out his duties at Poverello, that the Poverello donation was made in accordance with the provision of the will, and that the donation should be included in the total charitable gifts of Audrey MacDonald for the 1999 tax year.
+
+The Minister of National Revenue argued that there was no provision in the will for the transfer or payment of any amount to the charity, and therefore any amount given to the charity was not given in accordance with the terms of the will, and that the Poverello donation was not a gift made by Audrey MacDonald by will or otherwise, and is therefore not properly included in the "total charitable gifts" or "total gifts" of Audrey MacDonald for the 1999 tax year, as those terms are defined in subsection 118.1(1) of the Act.
+
+The taxpayer’s appeal was dismissed. The court followed the reasoning in the case of George W. Lucey and Lyman J. Lucey and The Catholic Orphanage of Prince Albert. Under similar circumstances, in 1951, the Supreme Court of Canada held that the words of the will must be interpreted in their grammatical and ordinary sense and recognized that the donee of the estate was the person named rather than meant for the benefit of the charity with which he held an office. The fact that a beneficiary is described in a will as a member of an order that is vowed to poverty is not of itself sufficient to prevent him or her from benefiting personally. A person cannot simply be fixed with a trust, because by vow or otherwise, he or she is under some obligation of conscience carrying no legal sanction to deal with what he or she receives in a particular way. Even if there is no doubt that the named beneficiary would have used the funds for the orphanage, no obligation to do so was imposed upon him by the words which the testatrix used in her will, and thus the bequest cannot be said to be to the charity.
+
+The court found there was no provision in the will for the transfer or payment of any amount to Poverello and therefore any amount given to Poverello was not given in accordance with the terms of the will. As such, the Estate of Audrey MacDonald did not donate any amount to Poverello. No amount in respect of a donation to Poverello could properly be included in the total charitable gifts of Audrey MacDonald for the 1999 tax year.
+
+The complete decision is available at: [http://decision.tcc-cci.gc.ca/en/index.html](http://decision.tcc-cci.gc.ca/en/index.html)
+
+## Contact information
+
+You can call the Charities Directorate toll free at:
+
+1-800-267-2384 (for service in English) 1-888-892-5667 (bilingual)
+
+You can also write to us at:
+
+Charities Directorate Canada Revenue Agency Tower A 320 Queen Street Ottawa ON K1A 0L5
+
+### Email your comments or suggestions:
+
+- about this newsletter to:[charities-bienfaisance-bulletin@cra-arc.gc.ca](mailto:charities-bienfaisance-bulletin@cra-arc.gc.ca)
+
+- about our draft policy documents to:[consultation-policy-politique@cra-arc.gc.ca](mailto:consultation-policy-politique@cra-arc.gc.ca)
+
+- about our Roadshow to:[Information.Sessions@cra-arc.gc.ca](mailto:Information.Sessions@cra-arc.gc.ca)
+
+- about our Web site to:[Charities-Bienfaisance@cra-arc.gc.ca](mailto:Charities-Bienfaisance@cra-arc.gc.ca)
+
+You can contact the Charities Representative about service provided by the Charities Directorate toll free at 1-866-303-0316, or 613-948-8608 in the greater Ottawa area, or by email at: [charities-bienfaisance-resource@cra-arc.gc.ca](mailto:charities-bienfaisance-resource@cra-arc.gc.ca)
+
+You can find all our publications at: [www.cra.gc.ca/tax/charities/formspubs/menu-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/charities-related-forms-publications.html)
+
+Draft policies for consultation are available at:[www.cra.gc.ca/tax/charities/consultations/menu-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/consultation-feedback-on-policies-guidance.html)
+
+For information on new additions about charities, see the “What’s new” page at: [www.cra.gc.ca/tax/charities/whatsnew/menu-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/whats-new.html)
+
+For an email notification of these additions, subscribe to the free electronic mailing list at: [www.cra.gc.ca/eservices/maillist/subscribecharities-e.html](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-charities-giving-whats-new.html)
+
+## Footnotes
+
+**[Footnote 1]**
+
+Fiscal periods starting after March 22, 2004 have to use the 2005 version.
+
+**[Footnote 2]**
+
+This question was originally published in issue No. 8. More information on golf tournaments is available in issue No. 23 ( [www.cra.gc.ca/E/pub/tg/charitiesnews-23/charitiesnews-23-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/charitiesnews-23/archived-registered-charities-newsletter-no-23-summer-2005.html)) and as part of our information on split-receipting, which is available in *Income Tax Technical News* No. 26 ( [www.cra.gc.ca/E/pub/tp/itnews-26/README.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-26.html)).
+
+**[Footnote 3]**
+
+Note: The Act’s provisions relating to non-qualified investments are distinct from the provisions on non-qualifying securities (NQS). Although both deal with debts and shares, the former are intended to ensure that investments made by private foundations in non-arm’s length bodies generate an acceptable rate of return. The latter are directed at gifts to qualified donees that are used to purchase NQSs. A qualified donee can still invest in a NQS, but if it is a private foundation, the non-arm’s length person will need to be watchful that the interest paid on the debt or the dividends from the shares do not fall below the rate that triggers the non-qualified investment provisions.
+
+**[Footnote 4]**
+
+Guidelines are on the Web site at: [www.cra.gc.ca/tax/charities/policy/cps/cps-019-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/policy-statement-019-what-a-related-business.html).
+
+**[Footnote 5]**
+
+since June 1, 1950
+
+**[Footnote 6]**
+
+See susbsection 6203(1) of the *Income Tax Regulations*

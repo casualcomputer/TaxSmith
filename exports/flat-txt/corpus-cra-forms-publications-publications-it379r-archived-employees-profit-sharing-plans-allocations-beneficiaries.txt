@@ -1,0 +1,319 @@
+Title: ARCHIVED - Employees Profit Sharing Plans -- Allocations to Beneficiaries
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it379r/archived-employees-profit-sharing-plans-allocations-beneficiaries.html
+Corpus path: corpus/cra/forms-publications/publications/it379r/archived-employees-profit-sharing-plans-allocations-beneficiaries.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Employees Profit Sharing Plans -- Allocations to Beneficiaries
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-379R**
+
+DATE: September 29, 1999
+
+SUBJECT: INCOME TAX ACT**Employees Profit Sharing Plans -- Allocations to Beneficiaries**
+
+REFERENCE: Section 144 (also section 121; subsections 2(3), 83(1), 126(1), 148(1), 148(9), 153(1); the definition of "person" in subsection 248(1); paragraphs 6(1)(*d*), 8(1)(*o*.1), 82(1)(*b*), and 110.6(19)(*c*); and subparagraph 115(1)(*a*)(i) of the *Income Tax Act*; and Part XIII of the *Income Tax Regulations*)
+
+**Notice to the reader:**
+
+- [Bulletins do not have the force of law](https://www.canada.ca/formspubs/pbs/tntc-eng.html).
+
+- This is an HTML version of the printed publication. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it379r.html), including PDF (which is an exact rendition of the printed publication).
+
+## Contents
+
+- *[Application](#P75_2867)*
+
+- *[Summary](#P79_3339)*
+
+- *[Discussion and Interpretation](#P83_4506)*
+
+    - [General](#P84_4535) (¶ 1)
+
+    - [Determination of Trust Profits](#P91_5532) (¶s 2-3)
+
+    - [Allocation of Capital Gains and Capital Losses](#P103_7728) (¶s 4-6)
+
+    - [Allocation of Taxable Dividends](#P111_10940) (¶ 7)
+
+    - [Allocation of Foreign Non-Business Income and Related Foreign Tax](#P113_11344) (¶ 8)
+
+    - [Taxability of Amounts Allocated](#P115_11996) (¶ 9)
+
+    - [Distributions to Beneficiaries](#P121_13018) (¶s 10-11)
+
+    - [Distribution of Property Other Than Money](#P131_14464) (¶s 12-14)
+
+    - [Withholding Requirements](#P154_19138) (¶ 15)
+
+    - [Contingent Allocations and Forfeited Amounts](#P156_19607) (¶s 16-18)
+
+    - [Non-Resident Beneficiaries](#P161_21283) (¶ 19)
+
+- *[Appendix](#P169_22398)*
+
+- *[Explanation of Changes](#P305_24224)*
+
+## Application
+
+This bulletin cancels and replaces Interpretation Bulletin IT-379 dated May 30, 1977. The effective date of a particular legislative provision discussed in the bulletin may be indicated in the *Explanation of Changes* section (or, in some cases, in the *Discussion and Interpretation* section) of the bulletin. However, where the bulletin is silent with respect to the effective date of a particular provision, such date can be obtained from the legislation itself.
+
+## Summary
+
+An employees profit sharing plan (EPSP) is an arrangement that allows an employer to share profits with all, or a designated group of, employees. Under an EPSP, amounts are paid to a trustee to be held and invested for the benefit of the employees who are beneficiaries of the plan. Each year, the trustee is required to allocate to such beneficiaries all employer contributions, profits from trust property, capital gains and losses, and certain amounts in respect of forfeitures. These allocated amounts, with certain exceptions, are included in computing the taxable income of the beneficiaries for the year in which they are allocated and are not subject to tax when actually received by the beneficiaries.
+
+This bulletin concerns the required annual allocations (including reallocations of forfeited amounts) from an EPSP to employees who are beneficiaries of the plan. It also discusses the tax consequences of distributions of money and other properties from the EPSP to the beneficiaries.
+
+For information pertaining to contributions to an EPSP, see the current version of IT-280, *Employees Profit Sharing Plans -- Payments Computed by Reference to Profits*.
+
+## Discussion and Interpretation
+
+## General
+
+**¶ 1.** An EPSP, as defined by subsection 144(1), is an arrangement that allows an employer to share profits with all, or a designated group of, employees. Under an EPSP, amounts are paid to a trustee to be held and invested for the benefit of the employees who are beneficiaries of the plan.
+
+Paragraph (*b*) of the EPSP definition in subsection 144(1) requires that the trustee allocate each year-on either a contingent or an absolute basis-to employees who are beneficiaries of the plan:
+
+(a) all amounts received in the year by the trustee from the employer or a corporation that does not deal at arm's length with the employer;
+
+(b) all profits for the year from trust property (computed without reference to capital gains or capital losses) (see ¶s 2 and 3);
+
+(c) after 1971, all capital gains and capital losses of the trust for the year (see ¶s 4 to 6); and
+
+(d) the total of all amounts for the year each of which is an amount that an employee is entitled to deduct under subsection 144(9) (see ¶ 16).
+
+## Determination of Trust Profits
+
+**¶ 2.** In determining trust profits for the purposes of subparagraph (*b*)(ii) of the EPSP definition in subsection 144(1), a trust under an EPSP is for the most part subject to the same provisions of the Act as other trusts. As a rule, the gross income would include any interest, rentals, royalties, dividends, income from a business, and such other sources as would be income in the hands of an individual under the Act. Gross income would not include proceeds resulting from the death of the life insured under certain life insurance policies. For example, if the trust receives a payment resulting from the death of an insured person under a life insurance policy (other than an annuity contract) owned by the trust, and the policy was last acquired before December 2, 1982, or is an exempt policy, the payment is received tax-free and thus no amount would be included in income. An exempt policy is a policy which is issued mainly for insurance protection and not for investment purposes. For more information on life insurance policies, see the current version of IT-87, *Policyholders' Income From Life Insurance Policies*. The trust can deduct from gross income reasonable expenses relating to the normal operation of the trust to the extent that such expenses are not disallowed under a provision of the Act, such as paragraph 18(1)(*a*). For more information about the deduction of expenses, see ¶ 3.
+
+**¶ 3.** When a trust has incurred operating expenses (for example, expenses incurred in earning investment income and administrative expenses), they are to be charged first against **other income** (such as Canadian-sourced business income or rental income). **Other income** does not include the following amounts:
+
+(a) employer contributions,
+
+(b) interest income,
+
+(c) taxable dividends from taxable Canadian corporations,
+
+(d) foreign source income,
+
+(e) capital gains or capital losses,
+
+(f) forfeited amounts (see ¶ 16),
+
+(g) non-taxable dividends from Canadian corporations, and
+
+(h) employee contributions.
+
+Any expenses that cannot be applied against **other income** must then be charged, in a manner that is at the discretion of the trustee, against the receipts listed in (a) through (d) above.
+
+## Allocation of Capital Gains and Capital Losses
+
+**¶ 4.** Any taxable capital gains or allowable capital losses realized by a trust governed by an EPSP, on the disposition or deemed disposition (see ¶ 6) of property after 1971, must be included by the beneficiaries in computing their income for the year the capital gains or losses were allocated to them. Capital gains and capital losses realized by the trust on the disposition or deemed disposition of property before 1972, and accrued gains and accrued losses at December 31, 1971, will not be considered in computing the income of the beneficiaries of the plan when allocated to, or received by, them.
+
+**¶ 5.** Provided the terms of the trust do not specify the method of allocation, the trustee may allocate capital gains and capital losses among beneficiaries as the trustee considers reasonable. Gains and losses so allocated are deemed under subsection 144(4) to be capital gains or capital losses of the beneficiaries to whom they were allocated and thus the beneficiaries would include three-quarters of the capital gain or capital loss in computing their income for the year.
+
+**¶ 6.** Subsection 144(4.2) provides a method of allocating unrealized gains or losses of an EPSP to the beneficiaries of the plan. Under subsection 144(4.2), the trustee of a trust governed by an EPSP that was
+
+- in existence before 1972 and for which an election under subsection 144(4.1) was made (see below), or
+
+- established after 1971,
+
+can elect, in prescribed manner and form, to have a deemed disposition of any of the capital property of the trust for proceeds of disposition equal to the property's fair market value on the day of the deemed disposition, its adjusted cost base on that day or any amount between these two amounts. Such property is deemed to have been reacquired by the trust immediately thereafter at a cost equal to the proceeds of disposition. An election under subsection 144(4.2) is made by filing Form T3009, *Election for Deemed Disposition and Reacquisition of Capital Property of a Trust Governed by an Employees Profit Sharing Plan Under Subsection 144(4.2)*. The election must be filed by the trustee at the employer's tax centre on or before the last day of the taxation year of the trust in which the election is made and must be with respect to property deemed to have been disposed of in that taxation year.
+
+An election under subsection 144(4.1) was available for EPSPs in existence before 1972 and must have been filed before 1976. If this election was made, the trust was deemed to have disposed of each capital property owned by the trust on December 31, 1971 on that day, for proceeds of disposition equal to the fair market value of the property on that day, and to have reacquired the property on January 1, 1972 for the same amount. The capital gains or capital losses resulting from such deemed dispositions (i.e., the gains or losses accrued before 1972) must have been allocated to the beneficiaries by the trustee before 1976. Such capital gains and capital losses were not considered in computing the income of the beneficiaries of the plan when allocated. Nor are they considered in computing the income of the beneficiaries when received by them.
+
+## Allocation of Taxable Dividends
+
+**¶ 7.** Taxable dividends from taxable Canadian corporations (reduced, if applicable, by expenses assigned by the trustee - see ¶ 3) allocated to beneficiaries are deemed under subsection 144(8) to be amounts received directly by them. Accordingly, such dividends are subject to the **gross-up** under paragraph 82(1)(*b*), and the dividend tax credit under section 121 is available.
+
+## Allocation of Foreign Non-Business Income and Related Foreign Tax
+
+**¶ 8.** The trustee may allocate foreign non-business income to beneficiaries of the EPSP on a reasonable basis having regard to all the circumstances including the terms and conditions of the plan. Under subsection 144(8.1), any foreign tax paid by the trust on the foreign non-business income is, for the purposes of the foreign tax credit rules in subsection 126(1), treated as having been paid by the beneficiaries to whom the foreign non-business income was allocated. The tax is to be allocated in the same ratio that the foreign non-business income was allocated to the beneficiaries.
+
+## Taxability of Amounts Allocated
+
+**¶ 9.** The effect of subsections 144(3), 144(4), and 144(8) is that the beneficiaries of an EPSP must include in income for a year any amount allocated to them, either contingently or absolutely, by the trustee during the year, except for amounts allocated to the beneficiaries:
+
+(a) from their own contributions;
+
+(b) resulting from capital gains of the trust that had either been realized by the trust or had accrued to the trust property prior to 1972; and
+
+(c) resulting from non-taxable dividends received by the trust from a taxable Canadian corporation.
+
+The provisions in subsections 144(3) and (4) assume that post-1971 capital gains or losses will be allocated by the trust when realized. However, as noted in ¶ 6, subsection 144(4.2) provides a method whereby a trust can effectively allocate unrealized post-1971 capital gains or losses. If a trust allocates unrealized capital gains or losses pursuant to subsection 144(4.2), such gains or losses will not be allocated when actually realized.
+
+## Distributions to Beneficiaries
+
+**¶ 10.** Pursuant to subsections 144(6) and (7), beneficiaries are not subject to tax on payments they receive from the trustee of an EPSP provided the payments represent:
+
+(a) amounts they paid to the trustee;
+
+(b) amounts previously allocated to them;
+
+(c) capital gains made by the trust for taxation years after 1971 to the extent allocated to them;
+
+(d) capital gains either realized by the trust before 1972 or that represent appreciation before 1972 in the value of trust properties;
+
+(e) unrealized capital gains, as of December 31, 1971, inherent in the value of property received by them from the trustee; or
+
+(f) a dividend received by the trust from a taxable Canadian corporation (other than a dividend under subsection 83(1) received after May 25, 1976) to the extent allocated to them.
+
+Payments attributable to the above sources are not included in computing a beneficiary's income because they will have been taxed at an earlier time or will be of such a nature that no tax is payable at any time.
+
+**¶ 11.** In determining whether or not a receipt is taxable, the amounts identified in ¶ 10 must be reduced by capital losses of the trust for taxation years ending after 1971 that have been allocated to the beneficiary and not previously applied to reduce amounts identified in ¶ 10. This prevents beneficiaries from taking out of the trust all profits allocated to them and leaving in the trust capital losses allocated to them.
+
+## Distribution of Property Other Than Money
+
+**¶ 12.** A trust may distribute property other than money to a beneficiary in full satisfaction of the beneficiary's interests in an EPSP. In such a case, the trust is deemed by paragraph 144(7.1)(*a*) to have disposed of the property for proceeds of disposition equal to its cost amount. Except where paragraph 144(7.1)(*c*) applies (see ¶ 14), paragraph 144(7.1)(*b*) provides that the cost to the beneficiary of such property is the amount that has been allocated and included in the beneficiary's income or is otherwise exempt from inclusion in income (i.e., the total of the amounts described in paragraphs 144(7)(*a*) to (*g*)), less allocated capital losses not otherwise applied. When a beneficiary receives money and other property in full satisfaction of the beneficiary's interests in the EPSP, the cost of the property is the total of the amounts described in paragraphs 144(7)(*a*) to (*g*) (less allocated capital losses not otherwise applied), less the amount of money received by the beneficiary. If a beneficiary receives more than one property at a particular time, the cost of each property is:
+
+A = B ÷ C × D
+
+where:
+
+A = Cost to the beneficiary of a particular property
+
+B = Cost amount to the trust of the particular property (immediately before distribution)
+
+C =Cost amount to the trust all properties (other than money) being distributed to the beneficiary
+
+D = Total of amounts described in paragraphs 144(7)(*a*) to (*g*) (less allocated capital losses not otherwise applied and the amount, if any, of money received by the beneficiary)
+
+These provisions, in effect, provide for a rollover of a beneficiary's tax-exempt interest (i.e., the amount the beneficiary previously paid tax on or that was otherwise exempt from tax) in the trust into other property, thereby deferring tax on the increased value of the interest until the beneficiary disposes of the other property. For an illustration of the application of subsection 144(7.1), see the Appendix.
+
+**¶ 13.** If a beneficiary receives property (other than money) in partial satisfaction of the beneficiary's interests in an EPSP, an allocation of the total of the amounts described in paragraphs 144(7)(*a*) to (*g*) (less allocated capital losses not otherwise applied) must be made between the property received and the continuing interests of the beneficiary. The beneficiary's cost of the property is equal to the amount by which the beneficiary's account (a trust liability representing the total of the sources listed in paragraphs 144(7)(*a*) to (*g*) less allocated capital losses not otherwise applied) is reduced as a result of the transaction. That is, if the beneficiary's account has a balance of $5,500 before property is received and a balance of $5,000 immediately after, the portion of the amounts described in paragraphs 144(7)(*a*) to (*g*) (less allocated capital losses not otherwise applied) deemed to be the cost of the property is $500.
+
+**¶ 14.** A beneficiary of an EPSP may have elected, under paragraph 110.6(19)(*c*), to report a capital gain on the beneficiary's interests in the EPSP at the end of February 22, 1994. In such a case, the elected capital gain created an exempt capital gains balance (ECGB). This ECGB can be used to reduce capital gains flowed out to the beneficiary by the EPSP for taxation years ending before 2005 and capital gains realized on the disposition of the beneficiary's interests in the EPSP in those years. Under subsection 39.1(7), if the beneficiary ceases to have any interest in the EPSP, the beneficiary's ECGB will be reduced to nil. Under paragraph 53(1)(*p*), if, at the end of 2004, the beneficiary still holds an interest in the EPSP and the beneficiary has not used up the ECGB, the balance will thereafter be added to the adjusted cost base of the beneficiary's interests in the EPSP.
+
+For the 1994 and subsequent taxation years (including taxation years after 2004), paragraph 144(7.1)(*c*) provides that, where a beneficiary of an EPSP receives a distribution of property-other than money-in full or partial satisfaction of the beneficiary's interests in the EPSP, the beneficiary may elect to increase the cost of the property determined under paragraph 144(7.1)(*b*) (see ¶ 12) by a portion or the full amount of the "unused portion of the beneficiary's exempt capital gains balance" in respect of the EPSP. The "unused portion of the beneficiary's exempt capital gains balance" is defined in subsection 144(1). This election potentially allows the beneficiary to fully benefit from the unused ECGB that may otherwise have been lost as a result of the limitation in subsection 39.1(7).
+
+## Withholding Requirements
+
+**¶ 15.** Withholding under subsection 153(1) is not required when an employer contributes to an EPSP even though the employer's contributions are included in the beneficiary's income as employment income under paragraph 6(1)(*d*). Nor is withholding required when the trustee makes an allocation to the beneficiary, or when the trustee makes a payment to the beneficiary and the payment is not required to be included in the income of the beneficiary.
+
+## Contingent Allocations and Forfeited Amounts
+
+**¶ 16.** As noted in ¶ 9, amounts allocated under an EPSP to a beneficiary are required to be included in the beneficiary's income for the year of allocation whether the allocation was contingent or absolute. Thus, when an amount (for example, an employer's contribution) is allocated to a beneficiary contingent on his or her continuing in employment for a certain number of years, the beneficiary must include the amount in income in the year it is allocated even though, if employment ceases before the required number of years, he or she will not receive the amount. In this type of situation, subsection 144(9) provides that if a "person" (see ¶ 17) ceases at any time in a taxation year to be a beneficiary under an EPSP and does not become a beneficiary under the plan after that time and in the year, an amount determined by the formula in subsection 144(9) may be deducted by the person under paragraph 8(1)(*o*.1) in computing income for the year. Generally, the deduction equals the amount forfeited under the plan, less certain adjustments.
+
+**¶ 17.** The term "person" is defined in subsection 248(1) and includes not only an individual but also the estate, or heir or legal representative of that individual. As a result, if a forfeiture occurs after the death of an employee, the estate or heir would be entitled to benefit from subsection 144(9) and take into account amounts previously allocated to the employee.
+
+**¶ 18.** Unless the EPSP provides otherwise, an individual who ceases to be an employee of an employer is not required under the Act to forfeit any amount under the employer's EPSP by reason of ceasing to be an employee.
+
+## Non-Resident Beneficiaries
+
+**¶ 19.** Certain allocations to non-resident beneficiaries under an EPSP, such as the allocation of employer contributions, to the extent that they relate to duties performed in Canada are required to be included in computing the non-resident's taxable income earned in Canada under Part I by virtue of subsection 2(3), subparagraph 115(1)(*a*)(i), and paragraph 6(1)(*d*). Such allocations to the extent that they relate to duties performed outside Canada are not taxable in Canada. This would include allocations of any growth in the EPSP (i.e., interest and dividends) attributable to employer contributions that relate to duties performed outside Canada.
+
+Part XIII tax does not apply to such allocations, including the deemed receipt of dividends discussed in ¶ 7 because such deemed receipts are not considered to be a payment or crediting of dividends for the purposes of Part XIII. If the non-resident subsequently becomes a resident of Canada, payments received while resident that represent such allocations related to duties performed outside Canada are required to be included in income.
+
+## Appendix
+
+Assume that the following data summarizes all the transactions of an EPSP that has two beneficiaries:
+
+- Their employer contributed $400 out of profits to the trustee.
+
+- The trustee allocated $200 to each of the two beneficiaries, and the beneficiaries included this amount in income in the year of allocation.
+
+- The trustee purchased the following three properties:
+
+| Property A | = | $ | 200 |
+
+| --- | --- | --- | --- |
+
+| Property B | = | $ | 100 |
+
+| Property C | = | $ | 50 |
+
+- The trustee distributed the following assets to the two beneficiaries:
+
+1st beneficiary -- property A and $50 in cash
+
+2nd beneficiary -- property B and property C
+
+- Neither beneficiary filed an election, under paragraph 110.6(19)(*c*), to report a capital gain on their interests in the EPSP at the end of February 22, 1994.
+
+At the time of disposition, property A had a fair market value of $350 and properties B and C each had a fair market value of $200.
+
+The application of subsection 144(7.1) results in deemed proceeds of disposition to the trust in the amount of:
+
+| Property A | = | $ | 200 |
+
+| --- | --- | --- | --- |
+
+| Property B | = | $ | 100 |
+
+| Property C | = | $ | 50 |
+
+The cost of each property to the beneficiaries would be:
+
+1st beneficiary:
+
+| Property A | = | $200 | ÷ | $200 | × | $150* | = | $150 |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+* The $200 from amounts described in paragraphs 144(7)(*a*) to (*g*) less the $50 cash received.
+
+2nd beneficiary:
+
+| Property B | = | $100 | ÷ | $150 | × | $200* | = | $133 |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Property C | = | $ 50 | ÷ | $150 | × | $200* | = | $ 67 |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+The beneficiaries thus "roll" their tax-exempt interest (i.e., the amount they previously paid tax on or that was otherwise exempt from tax) in the trust into other property and thereby defer tax on the increased value of this interest until they dispose of the other property.
+
+## Explanation of Changes
+
+## Introduction
+
+The purpose of the *Explanation of Changes* is to give reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+## Reasons for the Revision
+
+This bulletin is being amended to reflect amendments to the *Income Tax Act* enacted by S.C. 1980-81-82-83, c. 140 (formerly Bill C-139); S.C. 1986, c. 6 (formerly Bill C-84); S.C. 1988, c. 55 (formerly Bill C-139); S.C. 1994, c. 21 (formerly Bill C-27); S.C. 1995, c. 3 (formerly Bill C-59); and S.C. 1998, c. 19 (formerly Bill C-28). The bulletin has also been expanded to provide additional useful information pertaining to EPSPs. The comments in this bulletin are not affected by any draft legislation released before July 12, 1999.
+
+## Legislative and Other Changes
+
+New [¶ 1](#P85_4542) has been added to briefly describe an EPSP and to explain what allocations must be made by the trustee on an ongoing annual basis.
+
+[¶ 2](#P92_5562) is former ¶ 1 revised to provide that only certain life insurance policy proceeds resulting from the death of the life insured are excluded in the determination of trust profits. This reflects the amendment to the definition of "disposition" in subsection 148(9) which provides that a payment on death under a non-exempt life insurance policy acquired after December 1, 1982 is considered a disposition of an interest in a life insurance policy, applicable for dispositions occurring after November 12, 1981.
+
+[¶ 3](#P93_6964) is former ¶ 2 revised to indicate that operating expenses cannot be charged against forfeited amounts. Also, the reference to life insurance proceeds has been removed because a trust's gross income may include life insurance proceeds resulting from the death of the life insured (see ¶ 2).
+
+[¶ 4](#P104_7774) is former ¶ 3 revised to reflect the repeal of paragraph 3(*e*). Before 1986, under paragraph 3(*e*), an individual could deduct up to $2,000 of net capital losses from other income.
+
+[¶ 5](#P105_8377) is former ¶ 4 revised to reflect amendments to sections 3 and 38. The amendments provide that:
+
+- after 1985, a net capital loss for the year can no longer be used to offset up to $2,000 of other income; and
+
+- 1990 and subsequent years, the capital gains inclusion rate is three-quarters.
+
+[¶ 6](#P106_8852) is former ¶ 5 expanded to provide additional information pertaining to the elections under subsections 144(4.1) and (4.2).
+
+[¶ 7](#P112_10971) is former ¶ 6 revised to reflect the amendment to section 110.1 to eliminate the $1,000 interest and dividend income deduction for 1988 and subsequent years. ¶ 7 has also been revised to delete the comment relating to subsection 144(9) since that provision is discussed in detail in new ¶ 16.
+
+¶s [9](#P116_12029) and 10 (former ¶s 10 and 11) have been revised to delete the reference to life insurance proceeds received by the trust upon the death of the life insured. Subsections 144(3) and 144(7) do not exclude such amounts from inclusion in income.
+
+New [¶ 14](#P152_17453) has been added to reflect new paragraph 144(7.1)(*c*) which is applicable to the 1994 and subsequent taxation years. Paragraph 144(7.1)(*c*) was added consequential on the elimination of the $100,000 capital gains exemption and the introduction of the election to recognize gains accrued to the end of February 22, 1994.
+
+New [¶ 15](#P155_19162) has been added to indicate that no withholding is required on employer contributions to an EPSP, on allocations to the beneficiaries or on payments to the beneficiaries if the payments are not required to be included in the income of the beneficiaries.
+
+New ¶s [16](#P157_19653) and 17 have been added to discuss the rules concerning forfeited amounts. They reflect the amendments made to subsection 144(9) applicable for the 1992 and subsequent taxation years (except that a beneficiary may elect that they not apply to the 1992 taxation year). Amended subsection 144(9) provides the person with a deductible amount rather than a tax credit as was previously available. As well, the reference to "employee" in subsection 144(9) was replaced with "person."
+
+New [¶ 18](#P159_21067) has been added to clarify that, unless the EPSP provides otherwise, an individual who ceases to be an employee of an employer is not required to forfeit any amount under the employer's EPSP by reason of ceasing to be an employee.
+
+New [¶ 19](#P162_21309) has been added to explain certain rules concerning non-resident EPSP beneficiaries.
+
+Throughout this bulletin, we have made minor changes for clarification or readability purposes.

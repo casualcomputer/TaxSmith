@@ -1,0 +1,1061 @@
+Title: IC93-3R2 - Registered Education Savings Plans
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic93-3/ic93-3r2-registered-education-savings-plans.html
+Corpus path: corpus/cra/forms-publications/publications/ic93-3/ic93-3r2-registered-education-savings-plans.md
+Document type: publication
+Last modified: 2024-06-20
+
+# IC93-3R2 - Registered Education Savings Plans
+
+**This version is only available electronically.**
+
+This circular cancels and replaces Information Circular 93-3R1 dated November 18, 2010 and helps promoters manage registered education savings plans (RESPs).
+
+**1.**Specifically it:
+
+- provides an overview of RESPs;
+
+- outlines the types of payments that are allowed into and out of an RESP;
+
+- provides some information on the Canada Education Savings Program and designated provincial programs;
+
+- explains the rules of the *Income Tax Act* (ITA) and the Canada Revenue Agency’s conditions for registering education savings plans;
+
+- explains and outlines the administrative rules and processes the Canada Revenue Agency (CRA) has for promoters; and
+
+- lists other CRA publications that contain information about RESPs.
+
+This circular reflects the law in force when it was published. The reader should consider any relevant amendments to legal provisions or relevant court decisions made after this circular was published.
+
+## Authority
+
+**2.**Sections 146.1 and 204.9 to 204.94 of the ITA contain most of the rules for RESPs. This circular does not explain sections 204.9 to 204.94 of the ITA in any detail, however, some information can be found in Information Sheet RC4092, Registered Education Savings Plans (RESPs).
+
+**3.**Subsection 146.1(1) of the ITA defines qualified investments for a trust governed by an RESP and includes the prescribed investments in section 4900 of the *Income Tax Regulations*. Information about the qualified investments for RESP purposes is in [paragraph 19](#s19) of this circular.
+
+**4.***The Canada Education Savings Act* and the *Canada Education Savings Regulations* have the rules for the Canada education savings grant and the Canada learning bond. The *Quebec Taxation Act* has the provisions for the Quebec education savings incentive. The *Alberta Centennial Education Savings Plan Act* and the *Alberta Centennial Education Savings Plan Regulations* have the provisions for the Alberta centennial education savings plan grants.
+
+The *Saskatchewan Advantage Grant for Education Savings Act* and the *Saskatchewan Advantage Grant for Education Savings Regulations* have the provisions for the Saskatchewan advantage grant for education savings. The *British Columbia Training and Education Savings Program Regulations* have the provisions for the British Columbia training and education savings grant.
+
+## Personal information
+
+**5.**Information that the CRA gathers for tax purposes is strictly confidential. Only the taxpayer or a person the taxpayer or law authorizes has access to this information. The *Privacy Act* and the *Access to Information Act* reinforce this protection.
+
+## Contents
+
+- [Part I – What is an RESP?.](#_Toc439760226)
+
+    - [Overview of an RESP](#_Toc439760227)
+
+    - [Promoter, subscriber, and beneficiary](#_Toc439760228)
+
+          - [Promoter](#_Toc439760229)
+
+          - [Subscriber](#_Toc439760230)
+
+          - [Beneficiary](#_Toc439760231)
+
+    - [Types of education savings plans](#_Toc439760232)
+
+          - [Individual plans](#_Toc439760233)
+
+                  - [Non-family plans](#_Toc439760276)
+
+                            - [Specified plans](#_Toc439760277)
+
+                  - [Family plans](#_Toc439760278)
+
+                            - [Blood relationship or Adoption](#_Toc439760279)
+
+                            - [Adding a beneficiary](#_Toc439760280)
+
+                            - [Contributions](#_Toc439760281)
+
+                            - [Transfers](#_Toc439760282)
+
+          - [Group plans](#_Toc439760234)
+
+    - [Qualified Investments](#_Toc439760283)
+
+- [Part II – Payments into an RESP](#_Toc439760235)
+
+    - [Contributions](#_Toc439760236)
+
+    - [Grants and incentives](#_Toc439760237)
+
+          - [Canada education savings grant](#_Toc439760238)
+
+          - [Canada learning bond](#_Toc439760239)
+
+          - [Designated provincial programs](#_Toc439760240)
+
+                  - [Quebec education savings incentive](#_Toc439760284)
+
+                  - [Alberta centennial education savings plan grants](#_Toc439760285)
+
+                  - [Saskatchewan advantage grant for education savings program](#_Toc439760286)
+
+                  - [British Columbia training and education savings program](#_Toc439760287)
+
+- [Part III – Payments out of an RESP](#_Toc439760241)
+
+    - [Educational assistance payments](#_Toc439760242)
+
+          - [Extension for making educational assistance payments](#_Toc439760243)
+
+          - [Enrolment](#_Toc439760244)
+
+                  - [Qualifying educational program](#_Toc439760288)
+
+                  - [Specified educational program](#_Toc439760289)
+
+                  - [Post-secondary educational institution](#_Toc439760290)
+
+                  - [$5,000 limit for qualifying educational programs](#_Toc439760291)
+
+                  - [$2,500 limit for specified educational programs](#_Toc439760292)
+
+    - [Accumulated income payments](#_Toc439760245)
+
+          - [Conditions for payment](#_Toc439760246)
+
+          - [Waiver](#_Toc439760247)
+
+          - [Rollover to an RRSP](#_Toc439760248)
+
+          - [Education savings rollover to an RDSP](#_Toc439760249)
+
+    - [Refund of contributions](#_Toc439760250)
+
+    - [Payments to a designated educational institution](#_Toc439760251)
+
+    - [Transfers](#_Toc439760252)
+
+- [Part IV – Registration](#_Toc439760253)
+
+    - [Terms and conditions](#_Toc439760254)
+
+          - [Statutory conditions](#_Toc439760255)
+
+          - [CRA requirements](#_Toc439760256)
+
+          - [Grandfathered plans](#_Toc439760257)
+
+    - [ESP approval process](#_Toc439760258)
+
+          - [Specimen plan concept](#_Toc439760259)
+
+          - [Subscriber contract (application form)](#_Toc439760260)
+
+          - [Prospectus](#_Toc439760261)
+
+          - [Sending a list of new plans for registration](#_Toc439760262)
+
+          - [Effective date of registration](#_Toc439760263)
+
+- [Part V – RESP Administration](#_Toc439760264)
+
+    - [Amending the specimen plan.](#_Toc439760265)
+
+    - [Terminating the specimen plan](#_Toc439760266)
+
+    - [Changing or adding a beneficiary](#_Toc439760267)
+
+    - [Terminating an RESP](#_Toc439760268)
+
+    - [Revoking the registration of an RESP](#_Toc439760269)
+
+    - [Conditions for revoking registration of an RESP](#_Toc439760270)
+
+- [Part VI – Contact and additional information](#_Toc439760271)
+
+    - [Canada Revenue Agency](#_Toc439760272)
+
+    - [Employment and Social Development Canada](#_Toc439760273)
+
+    - [Forms and publications](#_Toc439760274)
+
+    - [Glossary of terms](#_Toc439760275)
+
+## Part I – What is an RESP?
+
+### Overview of an RESP
+
+**6.**An education savings plan (ESP) is a vehicle designed to help parents, family, and friends save towards a beneficiary’s post-secondary education. The ESP is set up as an arrangement between a subscriber and a promoter. An ESP becomes a registered education savings plan (RESP) when it is accepted for registration by the Minister of National Revenue. The promoter must apply for registration at the request of the subscriber.
+
+Depending on the type of plan chosen, the subscriber names one or more beneficiaries to the plan and makes contributions for them. Contributions made to an RESP for a beneficiary do not include amounts paid into the plan under the *Canada Education Savings Act* (CESA) or under a designated provincial program and may be eligible for the Canada education savings grant (CESG) or an incentive or a grant offered under a designated provincial program. An RESP beneficiary could also be eligible for the Canada learning bond (CLB)—money that the federal government may deposit into the RESP of modest-income Canadians without them having to make contributions.
+
+The RESP promoter manages and invests the contributions, the CESG, the CLB, provincial grants, and accumulated investment earnings. The promoter also arranges with a trust company licensed in Canada to hold the RESP property. Contributions are not tax deductible. Earnings on contributions are tax-exempt while they stay in the plan. When an educational assistance payment (EAP) (see [paragraph 35](#s35)) is made from the plan, it is taxable income for the beneficiary.
+
+In most cases, the recipient is a student whose annual income results in a minimal amount of tax payable.
+
+If the beneficiary reaches 21 years of age and does not pursue post-secondary education, under certain conditions the investment earnings may be paid to the subscriber as accumulated income payments (see [paragraph 47](#s47)). The subscriber must include this amount in his or her income and an additional 20% tax (12% for residents of Quebec) is charged. However, in some cases, the original subscriber can lower the tax by a rollover, up to a maximum of $50,000, to his/her own registered retirement savings plan (RRSP) or to a spousal RRSP (see [paragraph 51](#s51)).
+
+### Promoter, subscriber, and beneficiary
+
+#### Promoter
+
+**7.**A promoter is a person or organization who offers ESPs to the public. For an RESP promoter to offer ESPs, they must first send a copy of the specimen plan to the Registered Plans Directorate (RPD) for written approval. See [paragraph 83](#s83) for CRA contact information.
+
+#### Subscriber
+
+**8.**A subscriber is the individual (or individuals) who enter(s) into the ESP with the promoter. An original subscriber includes:
+
+- an individual (excluding trusts) and his or her spouse or common-law partner (**Note**: since an estate is defined as a trust under the *Income Tax Act* (ITA), an estate cannot establish an RESP); and
+
+- a public primary caregiver of a beneficiary under an RESP. A public primary caregiver is one who receives a special allowance under the *Children’s Special Allowances Act* and may be:
+
+    - the department, agency or institution that cares for the beneficiary; or
+
+    - the public trustee or public curator of the province or territory in which the beneficiary lives.
+
+An original subscriber cannot be changed or replaced, however, an individual who is not the original subscriber can become a subscriber where:
+
+- A spouse or common-law partner, or former spouse or former common-law partner, of a subscriber acquires the subscriber’s rights under the plan pursuant to a court order or written agreement relating to the division of property between the two individuals on the breakdown of their marriage or common-law relationship (Note: in this scenario the former subscriber ceases to be a subscriber under the plan. A spouse and former spouse can continue to be joint subscribers under an RESP, however, individuals who are already divorced would not be allowed to open a contract);
+
+- Another individual or another public primary caregiver acquires the public primary caregiver’s rights under the RESP as a result of a written agreement; or
+
+- Any other person (including the estate of the deceased individual) acquires the individual’s rights as a subscriber under the plan or makes contributions into the plan for the beneficiary after the death of a subscriber under the RESP. (Note: on the death of a subscriber to an RESP, the terms of the RESP and the relevant provincial law will determine what happens to the RESP).
+
+All subscribers have to give their social insurance number (SIN) to the promoter before the RPD can register the ESP.
+
+#### Beneficiary
+
+**9.**The beneficiary of an RESP is a person to whom, or on whose behalf, a promoter agrees to make EAPs.
+
+The beneficiary has to qualify for the payments at the time they are made. A subscriber is not restricted in choosing a beneficiary for an RESP, except in the case of family plans where beneficiaries are required to be connected to each original subscriber by blood relationship or adoption (see [paragraph 13](#s13)). An individual cannot be named as a beneficiary unless the individual’s SIN has been given to the promoter of the plan and the beneficiary is a resident of Canada at the time. If an individual is named as a beneficiary under an RESP in conjunction with the transfer of property into the plan from another RESP under which the individual was a beneficiary immediately before the transfer, the requirement that the individual be resident in Canada in order to be designated as a beneficiary does not apply.
+
+There are no limits on the number of RESPs a beneficiary may have, however, the lifetime contribution limits are per beneficiary, and cannot be circumvented by establishing multiple plans for the same beneficiary.
+
+A subscriber can be a beneficiary under an individual non-family plan; however, the requirement that each beneficiary be connected by blood relationship or adoption to each subscriber prevents a subscriber from being a beneficiary under a family plan.
+
+### Types of education savings plans
+
+**10.**Promoters generally offer three types of plans: individual non-family plans, individual family plans, and group plans. The term **individual** is used to differentiate non-group plans from group plans.
+
+#### Individual plans
+
+**11.**When an individual plan is entered into, a separate trust is established.
+
+The subscriber decides when he or she will make contributions to the promoter and the amount of the contributions. The promoter can set a minimum amount. Contributions have to be made for a beneficiary under the plan and may continue as long as there is a beneficiary under the plan. However, they are subject to a lifetime limit (see [paragraph 20](#s20)). Contributions cannot be made after the 31st year that follows the year in which the plan was entered into or an earlier date if amounts have been transferred to the plan from an existing RESP (see [paragraph 56](#s56)).
+
+The promoter credits the contributions the subscriber makes and related investment earnings to the plan. The promoter may let the subscriber decide how to invest the property in the plan or the promoter may give investment options to the subscriber. Amounts paid into the plan under the CESA and under a designated provincial program and investment earnings that accumulate in the plan are paid out as EAPs to the beneficiary. The subscriber may be allowed to decide the timing and the amount of EAPs after the beneficiary qualifies to receive these payments (see [paragraph 36](#s36)).
+
+##### Non-family plans
+
+**12.**An individual non-family plan has only one beneficiary. There are no restrictions on the age of the beneficiary. A subscriber could be the beneficiary of his or her own plan. Contributions are allowed under the conditions mentioned above.
+
+###### Specified plans
+
+**12.1**A specified plan is an individual non-family plan where the beneficiary is entitled to claim the disability amount for the tax year that ends in the 31st year following the year in which the plan was opened.
+
+A specified plan cannot permit another individual to be designated as a beneficiary under the plan after the 35th year following the year the plan was opened.
+
+No contributions (other than a transfer from another RESP) may be made to a specified plan after the 35th year following the year the plan was opened. The plan must be closed by the end of the 40th year after the year the plan was opened.
+
+##### Family plans
+
+**13.**A family plan can have one or more beneficiaries who are related to the subscriber by blood relationship or adoption (see [paragraph 14](#s14)). Contributions to family plans must be made for a specified beneficiary who meets the requirement of [paragraph 58(*f*)](#s58f).The subscriber can pay up to the maximum amount allowed for each beneficiary into the plan.
+
+###### Blood relationship or adoption
+
+**14.**Each beneficiary of a family plan must be connected by blood relationship or adoption to each living subscriber under the plan, or have been so connected to a deceased original subscriber. Under the ITA, connected by blood relationship refers to a parent, brother, sister, child, or grandchild of the subscriber. A child is connected to his or her parents and grandparents by adoption if the child is adopted legally or in fact. Stepchildren are considered to be connected to their stepparents because they are the children of their stepparent's spouse or common-law partner. The subscriber's nieces, nephews, aunts, uncles, or cousins are not considered to be connected by blood relationship. We do not consider individuals to be connected to themselves. (For more information, refer to Income Tax Folio [S1-F5-C1, Related persons and dealing at arm’s length](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html).)
+
+###### Adding a beneficiary
+
+**15.**Subject to [paragraph 58(*f*)](#s58f), the subscriber can add a connected beneficiary to a family plan at any time, provided the beneficiary has not turned 21 years of age or was, just before being added to the new plan, a beneficiary under another family RESP.
+
+###### Contributions
+
+**16.**Contributions to a family plan are subject to the conditions described in [paragraph 13](#s13) and [paragraph 58(*f*)](#s58f) and to the following conditions. A contribution is only allowed if a beneficiary is under the age of 31 at the time of the contribution, or if the contribution is made by way of a transfer (see [paragraph 55](#s55)) from another family plan. This means that contributions into the plan would have to stop at the earliest of these three dates:
+
+- the date the beneficiary turns 31 years of age;
+
+- the 31st year that follows the year the subscriber opened the plan (see [paragraph 58(*g*)](#s58g)) or
+
+- if property was transferred to the plan from another RESP, the 31st year that follows either the year in which the transferring plan was opened or the year in which the receiving plan was opened, whichever came first.
+
+###### Transfers
+
+**17.**Contributions by way of transfer can still be made for a family plan beneficiary who has turned 31, if that beneficiary was a beneficiary of another family plan just before becoming a beneficiary under the new plan. Any new contributions, other than by way of transfer, would be subject to the dates mentioned above.
+
+#### Group plans
+
+**18.**Group plans are a collection of individual non-family plans that are administered on the basis of age-determined groups. The promoter must establish a separate specimen plan (see [ESP approval process](#_Toc439760258)) for each type of ESP, as well as one trust for each specimen plan he or she administers. Under a group plan, the subscriber makes deposits to the plan for a stated period of time, according to a savings program that the subscriber selects. The promoter credits the contributions paid into the plan to a separate deposit account in each subscriber's name within the trust. The promoter credits investment earnings to that account, both on deposits and on accumulated interest. When the plan matures, contributions are returned to the subscribers and an amount equal to the total of all the investment earnings the plan has earned is transferred to another account set up for all the plans that have matured in that year. An equal part of the funds transferred from the matured plans is reserved for each of the years of post-secondary education covered by the plan. These equal parts are divided among the beneficiaries who qualify to receive EAPs in each of their post-secondary years of education. The amount of the payments is not specified in the agreement because it will depend on the number of beneficiaries who can take advantage of the plan in any year.
+
+### Qualified investments
+
+**19.**Since October 28, 1998, all investments held by a trust governed by an RESP must be qualified investments. Any property acquired by the trust before that date will be considered a qualified investment as long as the RESP trust continues to hold the property. Qualified investments include the following:
+
+- money and deposits;
+
+- guaranteed investment certificates issued by a trust company;
+
+- bonds and other debt obligations of the Government of Canada, a province, a municipality, or a Crown corporation;
+
+- shares listed on designated stock exchanges in Canada or in a foreign country;
+
+- segregated fund policies;
+
+- bonds and other debt obligations of a corporation whose shares are listed on a designated stock exchange in Canada or in a foreign country;
+
+- bonds or other debt obligations of an authorized foreign bank payable at a branch of the bank in Canada;
+
+- prescribed investments; and
+
+- certain mortgages, units, or shares of a mutual fund, and certain shares of small business corporations could also be qualified investments. With the exception of certain annuity contracts, the types of investments that qualify for RESPs are similar to those investments that qualify for RRSPs. Holding non-qualified investments under an RESP could put the plan into a revocable position (see [paragraph 80](#s80)) and subject the trust to a tax.
+
+## Part II – Payments into an RESP
+
+The only amounts that can be paid into a registered education savings plan (RESP) are contributions made by or on behalf of a subscriber and grants and incentives offered by the federal government and some provinces.
+
+### Contributions
+
+**20.**A contribution to an RESP is an amount made to an RESP by or on behalf of a subscriber under an RESP or made by way of transfer from another RESP.
+
+For 2007 and later years, there is no annual limit for contributions to RESPs. The lifetime limit on the amounts that can be contributed to all RESPs for a beneficiary is $50,000.
+
+Contributions to RESPs are not deductible from the subscriber’s income. Generally, control of the subscriber’s contributions remains with the subscriber, however, this does not prevent the payment of these amounts to the beneficiary by or on behalf of the subscriber.
+
+A plan can only accept a contribution for a beneficiary under the plan if the beneficiary is resident in Canada and the beneficiary’s social insurance number (SIN) has been provided to the promoter of the plan or the contribution is made by way of a transfer from another RESP under which the individual was a beneficiary immediately before the transfer.
+
+An individual’s SIN is not required for contributions made to an RESP opened before 1999, provided the contributions are made for existing beneficiaries under the plan. Such contributions, however, will not be eligible for the Canada education savings grant (CESG).
+
+A contribution to an RESP has to stop at the earlier of these two dates:
+
+- the 31st year (35th year for a specified plan) that follows the year the subscriber entered into the plan (see [paragraph 58(*g*)](#s58g)); or
+
+- if property was transferred to the plan from another RESP, the 31st year (35th year for a specified plan) that follows either the year in which the transferring plan was opened or the year in which the receiving plan was opened, whichever came first.
+
+Under a family plan, contributions into the plan have to stop at the earliest of these three dates:
+
+- the date the beneficiary turns 31 years of age;
+
+- the 31st year that follows the year the subscriber opened the plan (see [paragraph 58(*g*)](#s58g)); or
+
+- if property was transferred to the plan from another RESP, the 31st year that follows either the year in which the transferring plan was opened or the year in which the receiving plan was opened, whichever came first.
+
+A contribution to an RESP does not include an amount paid into the plan under:
+
+- the *Canada Education Savings Act*;
+
+- a designated provincial/territorial program; or
+
+- a program similar to a designated provincial/territorial program and funded directly or indirectly by a province (except amounts paid into the plan by a public primary caregiver such as children’s aid or child welfare agencies).
+
+- Therefore, the payments listed above do not apply to the lifetime contribution limit.
+
+### Grants and incentives
+
+**21.**Employment and Social Development Canada (ESDC) administers the Canada education savings program (CESP) which offers the payment of the CESG and the Canada learning bond (CLB). ESDC also works with some provincial governments (designated provincial programs) to deliver provincial incentives.
+
+The following designated provincial programs are currently administered by ESDC:
+
+- Alberta centennial education savings (ACES) plan grants
+
+- Saskatchewan advantage grant for education savings (SAGES)
+
+- British Columbia training and education savings (BCTES) grant
+
+The Quebec education savings incentive (QESI) is a provincial incentive paid under a designated provincial program established under Quebec legislation. ESDC does not administer this provincial incentive.
+
+#### Canada education savings grant
+
+**22.**ESDC pays a CESG on contributions made to all eligible RESPs in respect of each qualifying beneficiary.
+
+The basic CESG payable to an RESP is 20% of contributions made to the RESP in respect of a beneficiary, up to a maximum of $500 on an annual contribution of $2,500.
+
+A child who is a Canadian resident accumulates grant room at a rate of $500 per year up to and including the year the child turns 17. Grant room accumulates whether or not a child is an RESP beneficiary. If all RESP contributions made for a beneficiary in one year do not attract the full $500 of CESG, the unused part of the CESG will be added to the beneficiary's grant room and will be available for use in another year. The maximum CESG payable in any particular year is $1,000.
+
+Basic CESG (20%)
+
+- $500 annual limit (20% x $2,500 = $500).
+
+Basic CESG (20%) with carry forward
+
+- $1,000 annual limit (20% x $5,000).
+
+- There is also an additional CESG payable to an RESP based on family income. Additional CESG payable to an RESP is 10% or 20% on the first $500 (or less) of annual contributions made to an RESP in respect of a beneficiary.
+
+Additional CESG (20%)
+
+- $100 annual limit (20% x $500) per beneficiary per year when the adjusted family net income of the individual primary caregiver is $44,701 or less or the beneficiary is in care of a public primary caregiver.
+
+Additional CESG (10%)
+
+- $50 annual limit (10% x $500) per beneficiary per year when the adjusted family net income of the individual primary caregiver is more than $44,701 but less than $89,401.
+
+The maximum annual CESG (basic and additional combined) is $1,100 per beneficiary if there is grant room; the maximum lifetime CESG is $7,200.
+
+Net family income limits are updated every year. This example is based on 2015 income levels.
+
+**23.**If the beneficiary does not pursue post-secondary education, the CESG is returned to the government.
+
+**24.**For RESP beneficiaries to be eligible for the CESG, the following four conditions have to be met:
+
+- the beneficiary's SIN must be provided to ESDC;
+
+- the beneficiary has to be a resident of Canada at the time of a contribution;
+
+- contributions must be made before the end of the calendar year in which the beneficiary turns 17 years of age; and
+
+- contributions for beneficiaries aged 16 or 17 will attract the CESG only where $2,000 of RESP contributions were made before the year in which the beneficiary turned 16 years of age, or where annual RESP contributions of at least $100 were made in any four years before the year in which the beneficiary turned 16 years of age and have not been withdrawn.
+
+**25.**The trustee may have to repay CESG money to ESDC if:
+
+- the RESP is closed or its registration revoked;
+
+- an accumulated income payment (AIP) is made to the subscriber or a payment is made to a designated educational institution;
+
+- an educational assistance payment (EAP) is made to someone who is not a beneficiary;
+
+- the transfer of property from one RESP to another is not an eligible transfer;
+
+- a beneficiary is replaced, unless the conditions for replacement are met; or
+
+- contributions are withdrawn from the RESP when no beneficiary under the RESP is eligible to receive an EAP.
+
+**26.**CESG money and the investment earnings it generates will form part of an EAP, along with the investment earnings accumulated on contributions made to the RESP. The EAP will be paid to the beneficiary when he or she enrolls in a qualifying educational program at a post-secondary educational institution.
+
+**27.**Investment earnings accumulated on CESG money can be included in an AIP made from the plan.
+
+#### Canada learning bond
+
+**28.**The CLB helps modest-income families save for their children's education. If a child was born after December 31, 2003, and the family receives the National child benefit supplement (NCBS), the Government of Canada will pay $500 into the child's RESP for the first year of eligibility, and an additional $100 for each subsequent year that the family qualifies for the NCBS until the child reaches 15 years of age or until the $2,000 maximum is reached.
+
+If the beneficiary does not pursue post-secondary education, the CLB is returned to the government.
+
+**29.**For more information on the CESG and the CLB, contact ESDC. See [paragraph 84](#s84) for ESDC contact information.
+
+#### Designated provincial programs
+
+**30.**An RESP can include provincial incentives paid from designated provincial programs. A designated provincial program is a provincial program whose purpose is to provide financial assistance for post-secondary education and is either:
+
+- managed by ESDC through an agreement entered into with a province (that is, the ACES Plan grants introduced by the Government of Alberta in 2005, the SAGES introduced by the Government of Saskatchewan in 2013 or the BCTES grant introduced by the Government of British Columbia in 2013; or
+
+- set up under the laws of a province and managed by that province (that is, the QESI introduced by the Government of Quebec in 2007).
+
+Payments made into an RESP through a designated provincial program are treated the same way as federal grants or bonds and do not attract federal grants or bonds themselves. These payments are not considered to be contributions to an RESP.
+
+##### Quebec education savings incentive
+
+**31.**The QESI is a tax measure that encourages Quebec families to start saving early for the education of their children and grandchildren.
+
+The QESI came into effect on February 21, 2007, and consists of a refundable tax credit that is paid directly into an RESP opened with a financial institution or with another RESP promoter that offers the QESI.
+
+For the credit to be paid to a subscriber’s account, the trustee designated by the RESP promoter must apply for it with Revenue Quebec.
+
+If a subscriber wishes to open an RESP, he or she may contact an RESP promoter that offers the QESI, such as:
+
+- a financial institution;
+
+- a group plan dealer; or
+
+- a financial service provider.
+
+For more information, go to [Revenue Quebec](https://www.revenuquebec.ca/en/) or call Service Quebec at **1-877-644-4545**.
+
+##### Alberta centennial education savings plan grants
+
+**32.**The Alberta centennial education savings (ACES) plan grants were introduced by the Government of Alberta in 2005. RESP promoters should be aware that on March 26, 2015, the Government of Alberta announced the closure of the ACES plan. Information and updates on the closure of the ACES Plan can be found on the ACES PLAN website.
+
+The closure does not impact other RESP savings incentives administered by the Government of Canada. For information relating to key dates, as well as questions and answers, call ESDC, the administrator of ACES Plan grants, at **1-888-276-3624** or visit ESDC’s webpage at the following link:
+
+[Closure of the Alberta Centennial Education Savings (ACES) Plan](http://www.esdc.gc.ca/en/reports/resp_promoters/bulletin/2015_619.page)
+
+##### Saskatchewan advantage grant for education savings program
+
+**33.**The Saskatchewan advantage grant for education savings (SAGES) grant is a provincial incentive designed to help Saskatchewan families save for their children’s post-secondary education.
+
+The Government of Saskatchewan will provide a grant of 10% on contributions made since January 1, 2013, into an RESP to a maximum of $250 per child per year.
+
+The maximum lifetime SAGES is $4,500 per child.
+
+If you have any questions or need more information about SAGES, contact ESDC, the administrator of SAGES, at**1-888-276-3624**.
+
+##### British Columbia training and education savings program
+
+**34.**The Government of British Columbia announced the British Columbia training and education savings (BCTES) grant in 2013. Application for the BCTES grant began August 15, 2015.
+
+The BCTES grant is a $1,200 one-time grant to eligible children born on or after January 1, 2007. When an eligible child turns six years old, the subscriber may apply for the grant. Children are eligible for the BCTES grant on their sixth birthday up until the day before their ninth birthday.
+
+For more information on the BCTES grant, go to [British Columbia Training and Education Savings Grant](https://www2.gov.bc.ca/gov/content/education-training/k-12/support/scholarships/bc-training-and-education-savings-grant) or call **1-250-356-7270**.
+
+## Part III – Payments out of an RESP
+
+The only permissible payments out of a registered education savings plan (RESP) are:
+
+- educational assistance payments;
+
+- after 1997, accumulated income payments;
+
+- refund of contributions made into the plan;
+
+- repayment of amounts under the *Canada Education Savings Act* (CESA) or under a designated provincial program;
+
+- payments to a designated educational institution in Canada as described in the first bullet in [paragraph 43](#s43), or payments to a trust for such an institution; and
+
+- payments to a trust to accommodate transfers of property between RESPs.
+
+### Educational assistance payments
+
+**35.**An educational assistance payment (EAP) is any payment made to a beneficiary or in respect of a beneficiary out of an RESP to further his or her post-secondary education. An EAP includes the RESP's accumulated investment earnings, Canada education savings grant (CESG), Canada learning bond (CLB) and amounts received from a designated provincial program. An EAP does not include a refund of contributions (see [paragraph 53](#s53)).
+
+**36.**An EAP can only be paid to a beneficiary who is enrolled as a student in a qualifying educational program or who is at least 16 years old and enrolled in a specified educational program at a post-secondary educational institution. The promoter should make sure the requirements applying to these terms are met before making an EAP. This means the promoter must obtain proof that the beneficiary is enrolled in a qualifying educational program, or a specified educational program, at a post secondary educational institution before making an EAP to or for the beneficiary.
+
+#### Extension for making educational assistance payments
+
+**37.**For 2008 and subsequent years, a plan may provide for the payment of an EAP to an individual for up to six months after the individual ceased to be enrolled as a student in a qualifying educational program or a specified educational program, as the case may be. This additional flexibility will apply only where the payment would have qualified under the normal rules for EAPs if it had been made immediately before the individual's enrolment ceased. For example, a student who had received a $2,000 EAP while enrolled in a ten-week specified educational program would be entitled to receive up to $500 of additional EAPs during the six-month period following the end of the program (without having to enroll in another program).
+
+**38.**The promoter does not have to get receipts from a beneficiary as proof of expenses before making an EAP. The promoter determines whether the EAP helps further the beneficiary's education and whether it is paid according to the *Income Tax Act* and the terms of the plan.
+
+#### Enrolment
+
+**39.**Generally, we consider a beneficiary to be enrolled as a student at a post-secondary educational institution when that institution considers him or her to be enrolled. Similarly, a student enrolled in a regular academic year, regularly participating in post-graduate studies, or spending much of the time in research elsewhere than at a university qualifies as a student. A beneficiary taking distance education courses qualifies to receive an EAP as long as he or she meets two separate conditions: enrolment in a qualifying educational program or a specified education program ; and enrolment as a student at a post-secondary educational institution.
+
+##### Qualifying educational program
+
+**40.**A qualifying educational program is a program that lasts at least three consecutive weeks and requires at least 10 hours of instruction or work each week for the duration of the program (and not simply for a minimum three-week period). Instruction or work might include all forms of direct instruction, such as lectures, practical training, or laboratory work. It could also include time spent on research for a thesis.
+
+**41.**To be considered a qualifying educational program, the program must also be at a post-secondary school level. In Canada, a post-secondary course usually provides credit towards a degree, diploma, or certificate. It is generally assumed that a course is at the post-secondary level if the ministry of education for the province or territory in which the course is given considers it to be at that level.
+
+A post-secondary level course also includes a technical or vocational program designed to provide a person with skills for, or improve a person's skills in, an occupation at an educational institution certified by Employment and Social Development Canada.
+
+##### Specified educational program
+
+**42.**A specified educational program is a program at a post-secondary school level that is at least three consecutive weeks duration and requires each student to spend not less than 12 hours per month on courses in the program.
+
+##### Post-secondary educational institution
+
+**43.**A post-secondary educational institution for the purposes of an EAP includes:
+
+- a university, college, or other educational institution in Canada that has been designated by the lieutenant governor in council of a province as a specified educational institution under the *Canada Student Loans Act*, designated by an appropriate authority under the *Canada Student Financial Assistance Act*, or designated, for the purposes of *An Act respecting financial assistance for education expenses*, by the minister of the province of Quebec responsible for the administration of that Act ;
+
+- an educational institution in Canada certified by Employment and Social Development Canada as offering non-credit courses that develop or improve a person’s skills in an occupation;
+
+- a university, college, or other educational institution outside Canada that provides courses at a post-secondary school level at which the beneficiary was enrolled in a course of not less than 13 consecutive weeks; and
+
+- a university outside Canada that provides courses at a post-secondary school level, at which the beneficiary was enrolled on a full-time basis in a course of not less than three consecutive weeks.
+
+You can get more information about our interpretation of the meaning of the terms **enrolled as a student** and **post-secondary educational institutions** in our publications [S1-F2-C1, Education and Textbook Tax Credits](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-2-students/income-tax-folio-s1-f2-c1-education-textbook-tax-credits.html), and, [S1-F2-C2, Tuition Tax Credit](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-2-students/income-tax-folio-s1-f2-c2-tuition-tax-credit.html).
+
+To verify if a particular educational institution in Canada is designated under the *Canada Student Loans Act* or the *Canada Student Financial Assistance Act*, please contact your provincial or territorial student financial assistance office. To obtain the contact information for the student financial assistance office in your area, please contact Service Canada at **1-800-O-CANADA** (**1-800-622-6232**) or visit Employment and Social Development Canada (ESDC)'s webpage at the following link:
+
+[Provincial and territorial student financial assistance offices](http://www.esdc.gc.ca/en/student_financial_aid/provincial_offices.page)
+
+The Canada Student Loans Program of ESDC produces the Master List of Designated Educational Institutions. The Yukon and all provinces, except Quebec, participate in the Canada Student Loans Program. For more information regarding this list, please visit ESDC's webpage at the following link:
+
+[List of designated educational institutions](http://www.esdc.gc.ca/en/post_secondary/designated_schools.page)
+
+For information regarding eligible post-secondary educational institutions in the province of Quebec, please contact Quebec's Loans and Bursaries Program at **1-877-643-3750** or visit their webpage at the following link:
+
+[Aide financière aux études](http://www.mesrs.gouv.qc.ca/en/aide-financiere-aux-etudes/)
+
+To verify if a particular educational institution in Canada has been certified by Employment and Social Development Canada, please contact ESDC's Certification Program at
+
+**1-866-517-5650** or visit their webpage at the following link:
+
+[List of Certified Institutions](http://certification.esdc.gc.ca/lea-mcl/h.4m.2@-eng.jsp?fbc=Y)
+
+The CRA individual income tax enquiries line can provide information regarding eligible educational institutions within Canada as well. Please contact one of the following numbers:
+
+- **1-800-959-8281** (English)
+
+- **1-800-959-7383**(French)
+
+Eligible educational institutions outside of Canada do not have to be on a list for EAP purposes. In order for an EAP to be paid out, the educational institution must provide courses at a post-secondary school level and the beneficiary must have been enrolled in a course of not less than 13 consecutive weeks. After 2010, an EAP can be paid to a beneficiary enrolled at a university outside Canada on a full-time basis in a course of not less than three consecutive weeks.
+
+##### $5,000 limit for qualifying educational programs
+
+**44.**For plans entered into after 1998, the maximum amount of EAPs that can be made to a beneficiary during the first 13 consecutive weeks of enrolment is $5,000. After the beneficiary has completed 13 consecutive weeks in the previous 12-month period at the qualifying educational program and as long as the amounts are justifiable, there is no limit on the amount of EAPs that can be paid if the beneficiary continues to qualify to receive EAPs. If there is a 12-month period in which the beneficiary is not enrolled in a qualifying educational program for 13 consecutive weeks, the $5,000 maximum applies again.
+
+##### $2,500 limit for specified educational programs
+
+**45.**For 2007 and subsequent years, EAPs may be made to a beneficiary who is at least 16 years of age at the time of the payment and is enrolled as a student in a specified educational program at a post-secondary educational institution. The total amount of EAPs that can be made to the beneficiary under the RESP and other RESPs of the same promoter in the preceding 13-week period cannot exceed $2,500.
+
+**46.**Employment and Social Development Canada may, on a case-by-case basis, approve an EAP amount of more than the above limits if the cost of tuition plus related expenses for a particular program is substantially higher than average. For information on requesting a waiver, promoters should call the CESP at **1-888-276-3624**.
+
+On August 12, 2008, an annual threshold limit of $20,000, indexed by the consumer price index, was introduced. On an administrative basis, all legitimate EAP requests below the threshold will be considered acceptable (subject to the limits outlined in [paragraph 44](#s44) and [paragraph 45](#s45)). Promoters are not expected to assess the reasonableness of each expense item up to this threshold, as long as the conditions permitting an EAP are met. Refer to [RESP Bulletin No.1R1](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/bulletins/resp-bulletin-1.html) to obtain the current annual EAP threshold limits.
+
+### Accumulated income payments
+
+#### Conditions for payment
+
+**47.**Accumulated income payments (AIPs) are amounts, usually paid to the subscriber, of the income earned from an RESP. Investment earnings that accumulate on contributions made to the plan and on amounts paid under the CESA and under a designated provincial program can be paid out as an AIP under certain circumstances. The plan has to provide for this kind of payment and the conditions described in [paragraph 58(*c*)](#s58c) have to be met. This means that the payment will only be allowed if, among other things, the recipient of the AIP is resident in Canada, each beneficiary (past and present) has attained 21 years of age and is not then eligible to receive an EAP, and the RESP has existed for at least 10 years.
+
+**48.**AIPs are payable only to a subscriber. Under an RESP with joint subscribers, AIPs are paid to each subscriber separately.
+
+**49.**As specified in [paragraph 58(*i*)](#s58i) and [paragraph 58(*j*)](#s58j), when AIPs are made from an RESP, the plan must be terminated before March of the year after the year in which the first payment is made; and, an RESP cannot accept a transfer from another RESP if an AIP has been made from that other plan.
+
+#### Waiver
+
+**50.**If it is reasonable to expect that a beneficiary will be unable to pursue post-secondary education because of a severe and prolonged mental impairment, the Minister of National Revenue may waive the conditions requiring that each beneficiary be 21 years of age and be ineligible to receive an EAP, and that the plan has existed for at least 10 years. To be considered prolonged, the impairment should have lasted or be reasonably expected to last a period of at least 12 months and should be certified in writing by a medical doctor or psychologist. The medical doctor or psychologist must also certify that, because of the impairment, it is reasonable to expect that the beneficiary will not be able to pursue post-secondary education. In this situation, the promoter will have to apply for a waiver by writing to the address provided at [paragraph 83](#s83). The promoter must send a request in writing and include a copy of the signed certification from the medical doctor or psychologist stating the above.
+
+#### Rollover to an RRSP
+
+**51.**AIPs have to be included in the subscriber's income for the year the payments are received. The payments are subject to a 20% (12% for residents of Quebec) additional tax on top of the regular tax rate payable on the subscriber's income. The subscriber can reduce or eliminate this additional tax by contributing the AIPs to his or her registered retirement savings plan (RRSP) or to a spousal RRSP, up to a maximum of $50,000. A spousal RRSP is an RRSP where the subscriber makes a contribution based on his or her RRSP contribution limit but the RRSP is owned by the subscriber’s spouse. This offset is only available to the subscribers who entered into the plan with the promoter, to the spouse or common-law partner of a deceased subscriber, or to the individual who acquired the subscriber's rights under a decree, order, or judgment of a tribunal, or under a written agreement after a separation or divorce. The individual must have enough RRSP deduction room and must claim the deduction for the year in which the AIPs were made. We give more information on the tax treatment of AIPs in our publications [RC4092, Registered Education Savings Plans](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4092.html) (RESPs), and [RC4157, Deducting Income Tax on Pension and Other Income, and Filing the T4A Slip and Summary Form](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4157.html).
+
+#### Education savings rollover to an RDSP
+
+**52.**For 2014 and later years, a subscriber of an RESP that allows AIPs and a holder of a registered disability saving plan (RDSP) may jointly elect, in prescribed form, to transfer an AIP under the RESP to the RDSP if, at the time of the election, the RESP beneficiary is also the beneficiary under the RDSP.
+
+To qualify for an education savings rollover, the beneficiary must meet the existing age and residency requirements in relation to RDSP contributions. The maximum transfer amount is $200,000; this amount will be reduced by all contributions and rollover transfers that have previously been made to any RDSP. As well, **one** of the following conditions must be met:
+
+- the beneficiary of the RESP has a severe and prolonged mental impairment that prevents him or her from enrolling in a qualifying educational program at a post-secondary educational institution;
+
+- the RESP has been open for at least 35 years; or
+
+- the RESP has been open for at least 10 years and each beneficiary under the RESP is at least 21 years old and is not eligible to receive EAPs at the time the rollover is made.
+
+The education savings rollover to an RDSP will not be subject to regular income tax or the additional 20% tax. The RESP promoter must send [Form RC435, Rollover From a Registered Education Savings Plan to a Registered Disability Savings Plan](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc435.html) (or similar form containing the prescribed information listed on [Form RC435](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc435.html)), to the RDSP issuer and keep a copy of the form on file. This will satisfy the RESP promoter’s requirement to file the election with the Canada Revenue Agency.
+
+When an education savings rollover occurs, contributions in the RESP will be returned to the RESP subscriber on a tax-free basis. As well, CESG and CLB and some provincial grants or incentives in the RESP will have to be repaid to Employment and Social Development Canada.
+
+Where an AIP under the RESP is transferred to the RDSP, the RESP must, as specified in [paragraph 58(*i*)](#s58i) and [paragraph 58(*j*)](#s58j), be terminated before March of the year after the year in which the first payment is made; and, the RESP cannot accept a transfer from another RESP if an AIP has been made from that other plan.
+
+### Refund of contributions
+
+**53.**Subject to the terms and conditions of the RESP, a subscriber can receive a refund of contributions (which is the return of all or part of the contributions made by or for a subscriber under a plan) at any time before the RESP ends. A refund of contributions also includes the return of an amount transferred from another plan in cases where the amount would have qualified as a refund of contributions if it had been paid to a subscriber under the other plan. Since RESP contributions are not deductible from income, they can be returned to the subscriber at any time without tax consequences. The subscriber can direct that the refund of contributions be paid to the beneficiary with the EAPs.
+
+A refund of contributions could, in some cases, result in the repayment of federal (CESG and CLB) and provincial incentives. Contact ESDC for information on repayment of incentives from an RESP due to a withdrawal of RESP contributions.
+
+### Payments to a designated educational institution
+
+**54.**An RESP may also provide for payments to be made to a Canadian designated educational institution at any time. For example, payments could occur when the plan is left with only a small amount of cash after the subscriber withdraws the contributions as a refund of contributions and one or more of the requirements for AIPs are not met. In general, the terms of a plan should provide that, if an amount is left in the plan and the conditions for an EAP or AIP are not met, that amount will be paid to a designated educational institution in Canada as described in the first bullet of [paragraph 43](#s43) or to a trust for such an institution.
+
+There is no requirement to track and report these transactions. No T4A is issued in these situations, as the donation is made by the trust and not the subscriber. Also, no donation receipt is issued, as it is not considered a donation from the subscriber.
+
+### Transfers
+
+**55.**An RESP can allow property to be transferred to or from another RESP. The earlier effective date of the two RESPs is applied to the continuing plan after the transfer has occurred. The trustee must transfer the property from the RESP directly to the trustee of the RESP receiving the property. The promoter of the RESP transferring the property has to give the promoter of the RESP receiving the property enough information to continue to administer the transferred property under an RESP.
+
+The information the transferring promoter should provide about the beneficiaries to the receiving promoter includes:
+
+- names, dates of birth, and SINs (see [paragraph 58(*f*)](#s58f)) of all previous beneficiaries;
+
+- the address of each beneficiary;
+
+- the parental address, if different from a beneficiary's; and
+
+- each beneficiary's relationship to the subscriber(s).
+
+The information should also include the dates and amounts of the following transactions previously made under the transferring plan, as applicable:
+
+- contributions;
+
+- refunds of payments;
+
+- administrative charges and fees;
+
+- EAPs;
+
+- AIPs;
+
+- payments to a designated educational institution;
+
+- transfers to another RESP;
+
+- repayments under the CESA;
+
+- investment transactions (gains and losses); and
+
+- investment income.
+
+**56.**When a transfer occurs, the receiving plan is deemed to have been opened on the earlier of:
+
+- the date the receiving plan was opened; and
+
+- the date the transferring plan was opened.
+
+This rule is used to establish the date contributions to and transfers in and out of the plan must stop (see [paragraph 58(*g*)](#s58g)), and the date the plan must be terminated (see [paragraph 58(*h*)](#s58h)). It is also used to determine whether the plan meets the 10-year existence requirement (see [paragraph 58(*c*)](#s58c)) for AIPs.
+
+**57.**When property is transferred from one RESP to another, contributions previously made to the transferring plan will be deemed to have been made to the receiving plan on their original date. This could result in excess contributions (and applicable taxes) for beneficiaries of the receiving plan. However, the taxes will not apply if:
+
+- an individual was a beneficiary under the transferring plan and the receiving plan just before the transfer date; or
+
+- a beneficiary under the transferring plan is a sibling of a beneficiary under the receiving plan, provided that the beneficiary under the receiving plan was under 21 years of age at the time the receiving plan was entered into, or the receiving plan is a family plan.
+
+For more information on taxes on over-contributions, refer to our Publication [RC4092, Registered Education Savings Plans (RESPs)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4092.html).
+
+## Part IV – Registration
+
+### Terms and conditions
+
+#### Statutory conditions
+
+**58.**The text of a registered education savings plan (RESP) has to comply with subsection 146.1(2) of the *Income Tax Act* (ITA). The plan must therefore provide for the conditions described in (*a*) to (*l*) below.
+
+*(a)* A corporation that is licensed or authorized under federal or provincial law to offer trustee services in Canada must hold the plan's property (after paying trustee and administrative charges) irrevocably. The plan must also specify that its funds will only be used to:
+
+- make educational assistance payments (EAPs);
+
+- make accumulated income payments (AIPs) after 1997;
+
+- refund contributions made into the plan;
+
+- refund amounts under the *Canada Education Savings Act* or under a designated provincial program;
+
+- make payments to a designated educational institution in Canada, as described in the first bullet in [paragraph 43](#s43), or make payments to a trust for such an institution; and
+
+- make payments to a trust that holds property irrevocably under an RESP for any of the five purposes listed just above.
+
+*(b)* Payments before 1998 to a subscriber are not allowed, other than a refund of contributions, unless the subscriber is also a beneficiary under the plan.
+
+*(c)* AIPs are allowed only if the following conditions are met:
+
+- the recipient is a resident of Canada;
+
+- the payment is made to or for a person and not jointly to or for more than one person;
+
+- the recipient is either:
+
+    - a subscriber of the plan at the time; or
+
+    - entitled to the payment because the subscriber has died (in this case, the subscriber must have been a subscriber under the plan just before his or her death); and
+
+- any one of the following three conditions apply
+
+    - the plan has been in existence for at least 10 years and each individual (other than a deceased individual) who is or was a beneficiary has reached 21 years of age and is not currently eligible to receive an EAP;
+
+    - the payment is made in the 35th year following the year the plan was entered into (since the plan must be terminated by the end of that year), unless the RESP is a specified plan in which case the payment is made in the 40th year following the year the plan was entered into; or
+
+    - all the beneficiaries under the RESP are deceased when the payment is made.
+
+*(d)* After 1996, an EAP will only be made if the following conditions are met:
+
+- at the time of payment the beneficiary must be either:
+
+    - enrolled as a student in a qualifying educational program at a post-secondary educational institution; or
+
+    - 16 years of age or older and enrolled as a student in a specified educational program at a post-secondary educational institution; and
+
+- either:
+
+    - the first condition above has been met throughout at least 13 consecutive weeks in the 12-month period ending at the time of the payment; or
+
+    - the total of the payment and all other EAPs made under all RESPs of the promoter to or for the beneficiary in the 12-month period ending at the time of the payment is limited to $5,000 or such greater amount as is allowed in writing by Employment and Social Development Canada; or
+
+    - the second condition has been met, and the total of the payment and all other EAPs made under all RESPs of the promoter to or for the beneficiary in the preceding 13-week period ending at the time of the payment is limited to $2,500 or such greater amount as is allowed in writing by Employment and Social Development Canada.
+
+*(e)* The only contributions to the plan that are allowed are those made by or for a subscriber under the plan for a beneficiary under the plan, or contributions made by way of a transfer from another RESP.
+
+*(f)* Effective January 1, 2004, a plan may not allow an individual to be named as a beneficiary under the plan and contributions cannot be made in respect of that individual, unless the individual's social insurance number (SIN) has been provided to the promoter of the plan and the individual is resident in Canada. Paragraph 146.1(2)(g.3) of the ITA prohibits non-residents and individuals who have not yet been assigned a SIN from becoming a beneficiary under an RESP or from benefiting from RESP contributions. In some circumstances, a SIN may not be required and the ITA contains further information on this.
+
+*(g)* No contribution (other than a transfer from another RESP) may be made into the plan by or for a subscriber after the 31st year (35th year for a specified plan) following the year in which the plan is opened.
+
+*(h)* A plan must be closed on or before the last day of the 35th year (40th year for a specified plan) after the year in which the plan is opened.
+
+*(i)* If the plan allows for AIPs as provided in (*c*), the plan must close before March of the year after the year in which the first such payment is made out of the plan.
+
+*(j)* The plan must not accept a direct transfer from another RESP after the other plan has made an AIP.
+
+*(k)* If the plan is a family plan:
+
+- each beneficiary under the plan must be connected by blood relationship or adoption to each living subscriber or have been so connected to a deceased original subscriber under the plan;
+
+- a contribution is only allowed if the beneficiary has not turned 31 years of age at the time of the contribution or the contribution is made by way of a transfer from another family plan; and
+
+- an individual can become a beneficiary of the plan only if that individual has not yet turned 21 years of age or if the individual was, just before joining the plan, a beneficiary under another family plan.
+
+*(l)* The promoter must write to the individual under the plan within 90 days of the individual becoming a beneficiary, to advise of the existence of the plan and to give the name and address of the subscriber of the plan. If the beneficiary is under 19 years of age and usually lives with a parent or is maintained by a public primary caregiver, the promoter must write to the parent or public primary caregiver instead.
+
+**59.**Subsection 146.1(2) of the ITA also requires that the following conditions be met:
+
+*(a)*if applicable, the plan must be very similar to the type of plan described in, or annexed to, a prospectus the promoter filed with a securities commission in Canada or a body performing a similar function in a province;
+
+*(b)*when a promoter applies to register a plan, the promoter must have sold at least 150 plans under approved specimen plans;
+
+*(c)*the promoter and all trusts governed by the plan must be resident in Canada;
+
+*(d)*if a trust governed by the plan is terminated, the property held by the trust can be used only for the purposes described in [paragraph 58(*a*)](#s58a);
+
+*(e)*the promoter must take reasonable measures to make sure that the plan complies with the conditions described in [paragraph 58](#s58) and in [paragraph 59(*c*)](#s59c) and [paragraph 59(*d*)](#s59d); and
+
+*(f)*the Minister of National Revenue must have no reasonable basis to believe the plan will become revocable.
+
+#### CRA requirements
+
+**60.**If the promoter and trustee are not the same person or if the plan allows the promoter to delegate any administrative duties to another person, the plan must clearly state that the promoter has ultimate responsibility for the plan. This includes responsibility for obtaining our approval of the specimen plan.
+
+**61.**Insurance premiums paid to protect future contributions to an RESP may not be included in the total amount of contributions. However, amounts paid under the plan to cover trustee and administrative charges that are payable under the terms of the plan may be part of the contributions and subject to the contribution limits that apply.
+
+**62.**The plan terms should also include a reference to the lifetime contribution limit ($50,000 for 2007 and later years).
+
+#### Grandfathered plans
+
+**63.**A grandfathered plan contains one or more grandfathered provisions. Such provisions do not comply with current legislative requirements but have been allowed to remain in effect. The following provisions are grandfathered:
+
+- Pre-1990 plans:
+
+    - multiple beneficiaries under one family plan are allowed without the requirement that they be connected to the subscriber by blood relationship or adoption;
+
+    - part-time studies qualify for EAPs, as approved in the related specimen plan;
+
+- Pre-1997 plans:
+
+    - Joint subscribers are not required to be spouses of each other.
+
+- Pre-1999 plans:
+
+    - EAPs are not limited to $5,000 in the first 13 consecutive weeks following enrolment in a qualifying educational program at a post-secondary educational institution. **Note:**New contracts cannot be entered into under a grandfathered plan.
+
+          - When a plan is transferred into a non-grandfathered plan, the grandfathered provisions no longer apply.
+
+          - Grandfathered plans are not eligible to receive incentives offered under the CESA or from a designated educational program.
+
+### ESP approval process
+
+#### Specimen plan concept
+
+**64.**The specimen plan makes it easier to register a large number of education savings plans (ESPs). A separate specimen is required for each type of ESP the promoter intends to sell. The promoter must send to the Registered Plans Directorate (RPD) a draft copy of the specimen plan documents. These documents are reviewed by the RPD to make sure that they comply with the rules of the *Income Tax Act* and other related administrative rules. The promoter may enter into ESPs with subscribers only after receiving the RPD’s approval of the specimen plan. To register contracts sold under the specimen plan, the promoter must have sold at least 150 contracts from one or more of the promoter's approved ESP specimen plans.
+
+See [paragraph 83](#s83) for the address where you can send the specimen ESP for approval by the RPD.
+
+In addition, the RESP promoter and their trustee must enroll with Employment and Social Development Canada (ESDC). This requires the RESP promoter and their trustee to:
+
+- enter into a formal agreement with ESDC in order to offer the applicable education savings incentives; and
+
+- undergo and pass industry systems testing to ensure compliance with CESP system requirements.
+
+For more information about the enrollment process, contact CESP.
+
+**65.**The documents that typically make up the specimen plan are:
+
+- the subscriber's application form for the ESP, plus any addendum that forms part of the application;
+
+- the declaration of trust, contract document, or agreement that sets out the terms and conditions of the ESP, including any schedules and riders that pertain to the contract;
+
+- the prospectus, if applicable (see [paragraph 68](#s68));
+
+- a letter of authorization from the promoter if a third party is filing the specimen plan documents for approval; and
+
+- the trust agreement between the promoter and the trustee if the contract is a two party agreement between the subscriber and the promoter.
+
+**66.**When the RPD receives the specimen plan documents, it assigns an identification number to them and informs the promoter. This is not a registration number. The specimen plan is not registered. Only the actual plans the promoter enters into with each subscriber are registered when the promoter applies to register them (see [paragraph 69](#s69)). For faster service, the promoter should use the assigned identification number when corresponding with the RPD about the specimen plan or an RESP conforming to the specimen plan.
+
+#### Subscriber contract (application form)
+
+**67.**The subscriber's contract (application form) for an ESP should be addressed to the promoter (that is, the promoter's name should appear somewhere on the application form). When developing the application form, the promoter should do the following:
+
+- Include a space for the number assigned to the plan (contract). If the promoter uses the term **account number** or other such wording, please tell the RPD when submitting the documents for approval.
+
+- Identify the type of application. A single application contains the required information for one type of plan only (family or non-family). A combined application contains the required information for both family and non-family plans. However, on a combined form, the terms and conditions of the plans may not be combined into one document.
+
+- Include a space to record the name, address, and SIN of each subscriber and joint subscriber under the plan.
+
+- Include a space to record the name, address, date of birth, and SIN of each beneficiary under the plan. If this is a combined application form, information for the family plan and information for the non-family plan must be recorded in separate sections.
+
+- In a family plan, include a space to give the relationship of each beneficiary to the subscribers.
+
+- If a beneficiary is less than 19 years of age, include a space to record the name and address of the parent/guardian with whom the beneficiary ordinarily resides or of the public primary caregiver if different from subscriber.
+
+- Include a statement from the subscribers asking that the promoter apply to have the ESP registered under the ITA.
+
+- Include a space for the date that contributions and transfers into the plan must end (after the 31st year that follows the year the plan was opened; for specified plans, after the 35th year following the year the plan was opened).
+
+- Include a space for the date the plan must end (December 31 of the 35th year after the year the plan was opened; for specified plans, December 31 of the 40th year after the year the plan was opened).
+
+- Include a warning to subscribers that an over-contribution for a beneficiary under this plan or any other plan may result in a tax being charged on all the subscribers.
+
+The word **registered** cannot be used to refer to the name of the plan on the application form or other specimen plan documents since the specimen plan is not registered. Only individual contracts entered into using the approved application form can be registered once the Minister of National Revenue has confirmed their registration for the purposes of the *Income Tax Act*.
+
+#### Prospectus
+
+**68.**If federal or provincial laws do not require a promoter to file a prospectus for the ESP, the promoter must tell the RPD this in writing when sending the specimen plan documents. In this case, the promoter does not have to satisfy the statutory condition in [paragraph 59(*a*)](#s59a).
+
+If a prospectus is required, as per [paragraph 59(*a*)](#s59a), the RPD must ensure that the terms and conditions of the plan(s) outlined in the draft prospectus are similar to the terms and conditions of the specimen plan(s) of the promoter and reflect all approved amendments made to the specimen plan(s) throughout the year. Any discrepancies are reported to the promoter and changes to the prospectus must be made prior to RPD’s approval of the specimen plan.
+
+#### Sending a list of new plans for registration
+
+**69.**The promoter must regularly submit a list of new plans sold under each specimen plan. For plans sold in 2001 and later years, promoters submit the lists electronically to the Canada Education Savings Program (CESP). The CESP *Interface Transaction Standards* document and related bulletins outline the procedures for formatting and submitting transactions electronically to the CESP. Promoters can submit lists electronically during any CESP monthly processing period.
+
+Each list sent after 1998 must include the following information:
+
+- the specimen plan number;
+
+- the contract number;
+
+- the date the plan was entered into;
+
+- the name, address, and SIN of the subscriber or the joint subscribers, if applicable; and
+
+- the name, address, and SIN of the beneficiary or beneficiaries (see [paragraph 58*(f)*)](#s58f).
+
+#### Effective date of registration
+
+**70.**The effective date of registration of an ESP will be the date the plan was opened if all required plan information is sent electronically to the CESP system no later than 60 days after the end of the calendar year the plan was opened.
+
+**71.**If a plan cannot be registered because the promoter does not meet the 150-subscriber requirement, it can be registered retroactively. The earliest it can be registered would be January 1 of the year before the year in which the promoter meets the 150-subscriber requirement. The trust governing the plan will be deemed to be an inter vivos trust for the period the trust was not governed by a registered plan and will be subject to taxes in the same way as a revoked plan.
+
+## Part V – RESP Administration
+
+### Amending the specimen plan
+
+**72.**When a specimen plan is amended, all registered education savings plans (RESPs) conforming to that specimen plan must also be amended and a copy of the new plan or a letter outlining the changes must be sent to all subscribers. From time to time, the *Income Tax Act* (ITA) is amended in such a way as to allow grandfathering of a provision. The promoter may choose to grandfather the provision, and, therefore, not to amend the specimen plan. When the promoter decides to grandfather a provision, marketing of that specimen must stop. However, existing RESPs may continue until they terminate. If the promoter wants to continue to offer a similar product to new clients, he or she must set up a new specimen plan reflecting the new rules and submit it to the Registered Plans Directorate (RPD) for approval.
+
+All amendments or revisions to an approved specimen plan, including amendments required by legislative changes, must be sent to the RPD for approval (see [paragraph 83](#s83)) before the amendments are put into effect. The RPD must also be informed if the promoter or trustee changes. The submission must show the date the amendment goes into effect and whether existing plans will be amended. The RPD will let the promoter know when the amendment is approved under section 146.1 of the ITA. Although the promoter is not required to send a final printed copy at this time, the RPD may ask for it in the future.
+
+### Terminating the specimen plan
+
+**73.**The promoter must let the RPD know when there are no outstanding RESPs that conform to the specimen plan and the specimen plan is no longer being marketed. The RPD will then terminate the specimen plan and close all related files.
+
+### Changing or adding a beneficiary
+
+**74.**The subscriber of the plan can change the named beneficiary under an RESP if the terms of the plan allow this. If the original beneficiary stops being a beneficiary under the plan and is replaced by a new beneficiary, the contributions previously made to the plan are deemed to have been made at their original date for the new beneficiary. This could result in excess contributions if the new beneficiary is a beneficiary under another RESP. However, this deeming rule and the taxes will not apply if:
+
+- the new beneficiary is under 21 years of age when joining the plan and has a common parent with the former beneficiary; or
+
+- both beneficiaries are under 21 years of age and connected by blood relationship or adoption to an original subscriber.
+
+**75.**A beneficiary can also be added to a family plan, as long as the rules stated in [paragraph 58*(f)*](#s58f) and [paragraph 58*(k)*](#s58k) are met.
+
+### Terminating an RESP
+
+**76.**An RESP has to be terminated on or before the last day of the 35th year after the year in which the plan was opened, or on or before the last day of the 40th year after the year the plan was opened for specified plans.
+
+### Revoking the registration of an RESP
+
+**77.**The Minister of National Revenue can revoke the registration of an RESP in certain situations (see [paragraph 80](#s80) and [paragraph 81](#s81)). Revocation generally becomes effective on or after the date of the infraction.
+
+**78.**The Minister of National Revenue will send the promoter a notice of intent to revoke registration of a plan. The notice will set out the reasons for the intended revocation and the date when the revocation may take place. Thirty days after the promoter has received the notice of intent, the Minister may send a notice of revocation stating that the revocation will take place on the date specified in the notice. The promoter may file an appeal within 30 days (or other time limit established by the Federal Court of Appeal) of the date the minister sent the notice of intent to revoke.
+
+**79.**In any year that a trust is governed by a revoked plan, the income from the trust is taxable and is deemed to be income for the subscriber.
+
+### Conditions for revoking registration of an RESP
+
+**80.**The Minister of National Revenue can revoke the registration of an RESP if:
+
+*(a)* the plan does not comply with the rules for registration (see [paragraph 58](#s58) and [paragraph 59](#s59));
+
+*(b)* the plan does not comply with any of its provisions;
+
+*(c)* excess contributions were made to the plan;
+
+*(d)*the plan is in a revocable position (see [paragraph 81](#s81)); or
+
+*(e)*a condition or obligation imposed by the *Canada Education Savings Act*, or by a provincial program administered by the CESP through an agreement with a province, has not been met.
+
+**81.**For the purposes of [paragraph 80(*d*)](#s80d), the plan could be in a revocable position if:
+
+*(a)*an RESP trust holds property that is not a qualified investment;
+
+*(b)*property already held by an RESP trust stops being a qualified investment (the plan does not become revocable if the trust disposes of the non-qualified investment within 60 days);
+
+*(c)*an RESP trust starts carrying on a business; or
+
+*(d)*a trustee of the RESP trust borrows money for the purposes of the plan (unless the term of the loan is 90 days or less, the borrowing is not part of a series of loans and repayments, and no property of the trust is pledged as security for the loan).
+
+## Part VI – Contact and additional information
+
+### Canada Revenue Agency
+
+**82.**You can find more information at [Savings and pension plan administration](https://www.canada.ca/en/services/taxes/savings-and-pension-plans/savings-and-pension-plan-administration.html).
+
+**By telephone**
+
+Toll-free in Canada and the United States: **1-800-267-3100**
+
+If you are calling from outside of Canada or the United States, call us collect at **613-221-3105**. The Registered Plans Directorate accepts collect calls.
+
+**83**. Send a specimen education savings plan for approval to the RPD at one of these addresses:
+
+**Mail**:
+
+Registered Plans Directorate Canada Revenue Agency Ottawa ON K1A 0L5
+
+**Courier:** Information Holdings Operation Section – Registered Plans Registered Plans Directorate Canada Revenue Agency 875 Heron Road, B70 Ottawa ON K1A 1A2
+
+We welcome feedback on this bulletin. Send comments by email to RPD.LPRA2@cra-arc.gc.ca.
+
+### Employment and Social Development Canada
+
+**84.**For more information about the Canada Education Savings Program contact Employment and Social Development Canada.
+
+**Telephone (toll free):**
+
+General enquiries: **1-888-276-3624**
+
+**Mailing address:**
+
+The Canada Education Savings Program Employment and Social Development Canada 140 Promenade du Portage, Phase IV Mailstop: Bag 4 Gatineau QC K1A 0J9
+
+**Website:**
+
+[Contact: Canada Education Savings Program](http://www.hrsdc.gc.ca/cgi-bin/edsc-esdc/contact/contact_us.asp?section=cesp)
+
+### Forms and publications
+
+**85.**These forms and publications give information about RESPs and related subject matter. They are available at any of our tax services offices and on the CRA website at [www.cra.gc.ca](https://www.canada.ca/en/revenue-agency.html).
+
+#### Forms
+
+- [T550 - Application for Registration of Retirement Savings Plans (RSPs), Education Savings Plans (ESPs), Retirement Income Funds (RIFs)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t550.html)
+
+- [T1171 - Tax Withholding Waiver on Accumulated Income Payments from RESPs](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1171.html)
+
+- [T1172 - Additional Tax on Accumulated Income Payments from RESPs](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1172.html)
+
+- [T1E-OVP - Individual Income Tax Return for RESP Over-contributions for 1996 and Future Years](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1e-ovp.html)
+
+- [T3GR - Group Income Tax and Information Return for RRSP, RRIF, or RESP Trusts](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3gr.html)
+
+#### Publications
+
+- [RC4092 - Registered Education Savings Plans (RESPs)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4092.html)
+
+- [RC4157 - Deducting Income Tax on Pension and Other Income, and Filing the T4A Slip and Summary Form](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4157.html)
+
+- [S1-F2-C1 - Education and Textbook Tax Credits](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-2-students/income-tax-folio-s1-f2-c1-education-textbook-tax-credits.html)
+
+- [S1-F2-C2 - Tuition Tax Credit](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-2-students/income-tax-folio-s1-f2-c2-tuition-tax-credit.html)
+
+- [S1-F5-C1 - Related persons and dealing at arm’s length](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html)
+
+- [T4013 - T3 Trust Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013.html)
+
+- [IC 78-14 - Guidelines for Trust Companies and Other Persons Responsible for Filing T3GR, T3D, T3P, T3S, T3R1, and T3F Returns](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-14.html)
+
+### Glossary of terms
+
+**86.**You will find below a list of initialisms and acronyms used in this document.
+
+| Initialisms/Acronyms | Expansion |
+
+| --- | --- |
+
+| ACES | Alberta centennial education savings |
+
+| AIP | accumulated income payment |
+
+| CESA | *Canada Education Savings Act* |
+
+| CESG | Canada education savings grant |
+
+| CESP | Canada Education Savings Program |
+
+| CLB | Canada learning bond |
+
+| CRA | Canada Revenue Agency |
+
+| EAP | educational assistance payment |
+
+| ESDC | Employment and Social Development Canada |
+
+| ESP | education savings plan |
+
+| ITA | *Income Tax Act* |
+
+| NCBS | National child benefit supplement |
+
+| QESI | Quebec education savings incentive |
+
+| RDSP | registered disability savings plan |
+
+| RESP | registered education savings plan |
+
+| RPD | Registered Plans Directorate |
+
+| RRSP | registered retirement savings plan |
+
+| SAGES | Saskatchewan advantage grant for education savings |
+
+| SIN | social insurance number |

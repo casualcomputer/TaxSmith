@@ -1,0 +1,412 @@
+---
+title: "Excise and GST/HST News - No. 112"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news112/news112-excise-gst-hst-news-no-112.html
+last_modified: 2022-11-08
+---
+# Excise and GST/HST News - No. 112
+
+November 2022
+
+## Table of Contents
+
+- [Input tax credit entitlement of a GST/HST registrant that supplies property and services to Indians, Indian bands, or band-empowered entities](#_Toc118293433)
+
+- [Underused housing tax program](#_Toc118293434)
+
+- [Proposed GST/HST amendments](#_Toc118293435)
+
+- [Recent change to the excise duty exemption on 100% Canadian wine](#_Toc118293436)
+
+- [Luxury tax program](#_Toc118293437)
+
+    - [GST/HST and the new luxury tax](#_Toc118293438)
+
+- [Excise duty on vaping products](#_Toc118293439)
+
+    - [Rates of vaping duty](#_Toc118293440)
+
+    - [Transitional rules](#_Toc118293441)
+
+    - [Reporting requirements](#_Toc118293442)
+
+    - [More information](#_Toc118293443)
+
+- [Prescribed rates of interest](#_Toc118293444)
+
+- [What’s new in publications](#_Toc118293445)
+
+- [Contact us](#_Toc118293446)
+
+Please note that this edition of the Excise and GST/HST News also highlights recent developments relevant to the administration of the new federal programs for the underused housing tax and the luxury tax.
+
+## Input tax credit entitlement of a GST/HST registrant that supplies property and services to Indians, Indian bands, or band-empowered entities
+
+A taxable supply to an Indian[Footnote1](#fn1), Indian band, or band-empowered entity may be relieved of GST/HST as described in the [Technical Information Bulletin B-039, GST/HST Administrative Policy – Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html)
+
+Generally, a GST/HST registrant can claim an input tax credit (ITC) to recover the GST/HST paid or payable in respect of the supply of property or a service acquired for consumption, use or supply in the course of their commercial activities.
+
+For GST/HST purposes, **commercial activities** includes making a taxable supply to an Indian, Indian band, or band-empowered entity. Therefore, even though the supply may be relieved of GST/HST as described in B-039, it is considered a taxable supply when determining eligibility for ITCs.
+
+A vendor that is registered for GST/HST purposes purchases materials on which the vendor pays the GST. The vendor makes a taxable supply of office furniture to an Indian where all the conditions for tax relief under B-039 are met and does not collect any GST. Although no tax was collected, the supply of the office furniture to the Indian is a taxable supply made in the course of the vendor’s commercial activities.
+
+Therefore, where all other conditions for claiming an ITC are met, the vendor can claim an ITC for the GST paid or payable on the inputs used to make the supply of the office furniture to the Indian.
+
+For more information about ITCs, refer to [Guide RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html) and [GST/HST Memorandum 8.1, General Eligibility Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1.html).
+
+## Underused housing tax program
+
+The Underused Housing Tax Act (UHTA) was enacted under Bill C-8 (the Economic and Fiscal Update Implementation Act, 2021), which received royal assent on June 9, 2022. The UHTA imposes an annual 1% underused housing tax, effective January 1, 2022, on the value of vacant or underused residential property in Canada generally owned directly or indirectly by non-resident non-Canadians.
+
+On August 9, 2022, the Department of Finance issued a [news release](https://www.canada.ca/en/department-finance/news/2022/08/government-delivering-on-budget-2022-commitments-to-canadians.html), which included a number of proposed [draft legislative](https://fin.canada.ca/drleg-apl/2022/ita-lir-0822-l-3-eng.html) amendments to the UHTA and proposed draft regulations under the UHTA. The following is a brief list of the proposed draft UHTA amendments and draft regulations announced on August 9, 2022:
+
+- Amendments to the definition of **specified Canadian partnership** in section 2 of the UHTA.
+
+- Amendments to paragraph 6(7)(l) of the UHTA relating to the date of substantial completion of a residential property held as inventory.
+
+- Amendments to subsection 47(1) of the UHTA relating to failure to file penalties.
+
+- Underused Housing Tax Regulations, which include prescribed areas and conditions under paragraph 6(7)(m) of the UHTA for purposes of implementing an exemption for vacation properties.
+
+- Underused Housing Tax Regulations, under which the Minister may require an individual to provide their Social Insurance Number in a return filed under the UHTA.
+
+The news release also included a related amendment to section 116 of the Income Tax Act (ITA). Section 116 of the ITA provides for the issuance of a certificate of compliance by the Minister to a non-resident of Canada in connection with the disposition of property by the non-resident that is taxable Canadian property under the ITA. The amendment provides conditions under which the Minister may decline to issue a certificate under that section if they are not compliant with their UHTA obligations.
+
+Detailed information concerning obligations under the UHTA, including these amendments, will soon be available on Canada.ca.
+
+## Proposed GST/HST amendments
+
+On August 9, 2022, the Department of Finance issued a [news release](https://www.canada.ca/en/department-finance/news/2022/08/government-delivering-on-budget-2022-commitments-to-canadians.html) which included a number of proposed [draft legislative](https://fin.canada.ca/drleg-apl/2022/ita-lir-0822-l-3-eng.html) and regulatory amendments for public comment. The proposed draft legislation, included with the announcement, provides details on these proposed amendments and when they are proposed to come into force.
+
+The following is a brief summary of some of the proposed amendments to the Excise Tax Act (ETA) announced on August 9, 2022:
+
+- Amendments to the definition of **financial instrument** in subsection 123(1) to include certain rights conferred by corporations without share capital.
+
+- Amendment to broaden the application of subsection 149(4) to allow partnerships to exclude interest and dividends from certain corporations when determining if the partnership is a de minimis financial institution.
+
+- Amendments to specifically address the application of GST/HST rules to a **Lloyd’s association** as newly defined in subsection 123(1), including adding new section 149.1 and new subsections 217.1(9) through (12).
+
+- Amendments to section 150 to specify procedures for revoking an election under subsection 150(1) including adding new subsection 150(4.1).
+
+- Amendments to section 156 to
+
+    - address the situation where two Canadian-resident corporations would otherwise be unable to make a section 156 election simply because they are connected through a non-resident partnership; and
+
+    - broaden the definition of **temporary member** by removing the requirement that the member receive a supply of property in contemplation of a specific type of reorganization described in subparagraph 55(3)(b)(i) of the Income Tax Act and replacing that requirement with a more general description of a reorganization and conditions relating to the property being supplied.
+
+- Amendments to the pension plan rules such as sections 232.01, 232.02, 261.01, including adding new subsection 261.01(3.2) as well as adding new subsection 172.1(8.01) and section 172.11, to allow a pension entity to claim an input tax credit or a section 261.01 rebate, or to make an election under section 261.01, in respect of an amount of tax beyond the normal two-year limitation period in cases where a delayed assessment makes it impossible for the pension entity to meet the two-year limitation period in respect of the amount.
+
+- Amendment to the definition of **permitted deduction** in section 217 regarding certain supplies that are deemed to be supplies of financial services as a result of a section 150 election.
+
+- Amendment to section 273.2 to raise the income threshold for the reporting institution test from $1 million to $2 million related to filing an annual information return for financial institutions.
+
+The following is a brief summary of some of the proposed draft amendments to the **Selected Listed Financial Institutions Attribution Method (GST/HST) Regulations** announced on August 9, 2022:
+
+- Amendments to section 3 related to permanent establishments including adding new paragraph 3(g) for master pension entities.
+
+- Amendments to section 7 (and consequential amendments to sections 10, 13, 14 and 15) related to **qualifying private investment plans**, as newly defined in section 7, so as to allow these plans to elect to be selected listed financial institutions.
+
+- Amendments related to plan mergers including adding new definitions for **continuing plan** and **predecessor** in subsection 16(1).
+
+- Amendments to add section 27.1 related to financial institutions that change from being a certain category of financial institution during a reporting period where any one of subsections 24(2), 25(1) and 26(1) applies to the selected listed financial institution to calculate its provincial attribution percentage for a participating province.
+
+The proposed amendments to the **Joint Venture (GST/HST) Regulations** announced on August 9, 2022, will include the operation of a pipeline, rail terminal or truck terminal used for the transportation of oil, natural gas or related or ancillary products in subsection 3(1).
+
+Please note that this is not an exhaustive list of the proposed amendments to the ETA and its related regulations. For further details on the proposed amendments to other Acts such as the Underused Housing Act, refer to the [Legislative and Regulatory Proposals Relating to the Excise Tax Act, the Air Travellers Security Charge Act, the Excise Act, 2001, the Greenhouse Gas Pollution Pricing Act, the Underused Housing Tax Act and Related Legislation](https://fin.canada.ca/drleg-apl/2022/ita-lir-0822-l-3-eng.html).
+
+## Recent change to the excise duty exemption on 100% Canadian wine
+
+Budget Implementation Act, 2022, No. 1 amended the Excise Act, 2001. Effective June 30, 2022, the excise duty exemption on 100% Canadian wine applies exclusively to honey wine, mead and cider.
+
+More information is available in Excise Duty Notice EDN75, Repeal of Excise Duty Exemption for 100% Canadian Wine and Excise Duty Notice EDN77, Excise Duty Exemption on 100% Canadian Wine Made from Honey or Apples.
+
+## Luxury tax program
+
+The Government of Canada has introduced a luxury tax on the sale or importation of certain vehicles and aircraft priced above $100,000 (subject vehicles and subject aircraft) and certain vessels priced above $250,000 (subject vessels).
+
+The Select Luxury Items Tax Act was included in [Bill C-19, Budget Implementation Act, 2022, No. 1](https://www.parl.ca/legisinfo/en/bill/44-1/c-19), which received royal assent on June 23, 2022 and came into effect on September 1, 2022.
+
+The luxury tax is generally calculated as the lesser of:
+
+- 10% of the total price of the subject vehicle, aircraft, or vessel
+
+- 20% of the amount above the relevant price threshold ($100,000 for vehicles and aircraft; $250,000 for vessels)
+
+Certain persons are required to register with the CRA as registered vendors under the Select Luxury Items Tax Act. For more information about the luxury tax and applying for registration, go to [Luxury tax](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax.html).
+
+### GST/HST and the new luxury tax
+
+Section 154 of the ETA provides, in part, that taxes, duties, and fees imposed by a federal, provincial, or territorial government and payable or collectible by a supplier of the property or services are generally included in the value of the consideration for a supply, with certain exceptions. None of the exceptions in section 154 apply with respect to the imposition of the luxury tax. Therefore, effective September 1, 2022, the GST/HST applies to the value of the consideration paid for subject items, inclusive of the luxury tax.
+
+On September 23, 2022, a Manitoba resident purchases a passenger automobile from a dealership for the purchase price of $135,000. As the price of the passenger automobile exceeds the threshold amount of $100,000, the luxury tax is payable by the dealership (that is, a registered vendor) of the passenger automobile. Other provincial sales taxes normally charged on the purchase of passenger automobiles are ignored for the purposes of this example. The luxury tax is calculated as follows:
+
+The luxury tax equals the lesser of 10% of the total price of the subject vehicle (A) or 20% of the amount above the relevant price threshold of the subject vehicle (B):
+
+(A) $13,500 ($135,000 × 10%) (B) $7,000 [($135,000 – $100,000) × 20%]
+
+Therefore, the luxury tax on the passenger automobile is $7,000.
+
+Under section 154, the GST is calculated on the consideration payable for the passenger automobile, inclusive of the luxury tax, as follows:
+
+1. Cost of the passenger automobile: Luxury tax as calculated above: Total consideration for the passenger automobile: GST ($142,000 × 5%)
+
+2. $135,000 $7,000 $142,000 $7,100
+
+For more information regarding the application of GST/HST to federal, provincial and territorial taxes, duties and fees, refer to [GST/HST Memorandum 3-5, Application of GST/HST to Other Taxes, Duties, and Fees](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-5.html).
+
+## Excise duty on vaping products
+
+The Budget Implementation Act, 2022, No. 1, received royal assent on June 23, 2022. This Act implemented amendments to the Excise Act, 2001 that provide for a new federal excise duty framework on vaping products.
+
+As of October 1, 2022 the following provisions came into effect:
+
+- A vaping product licence is required to manufacture vaping products in Canada.
+
+- If an importer of vaping products does not possess a vaping product licence (because they do not manufacture in Canada), they are required to become a vaping prescribed person in order to obtain vaping excise stamps to be affixed to imported vaping products.
+
+- Vaping products manufactured in Canada must be stamped if they are intended for the duty-paid market, and duty becomes payable at the time of packaging.
+
+- All packaged vaping products imported into Canada must be stamped and duty-paid prior to importation. The vaping duty on imported vaping products is paid to the Canada Border Services Agency.
+
+In order to be compliant with the Excise Act, 2001, manufacturers and importers of vaping products must have applied for and obtained either a vaping product licence or vaping prescribed person registration before October 1, 2022.
+
+### Rates of vaping duty
+
+The rates of vaping duty imposed on **vaping liquids** are:
+
+- $1 per 2 millilitres (mL), or fraction thereof, for the first 10 mL of vaping substance in the vaping device or immediate container
+
+- $1 per 10 mL, or fraction thereof, for amounts over the first 10 mL
+
+The same rates of vaping duty are imposed on **vaping solids** on a per-gram basis.
+
+### Transitional rules
+
+To facilitate the implementation of the excise duty framework for vaping products, the following transitional provisions apply:
+
+For a vaping product that was manufactured in Canada **and packaged before October 1, 2022:**
+
+- If the vaping product was **stamped before October 1, 2022**, the duty is imposed on the vaping product and is payable on October 1, 2022.
+
+- If the vaping product is **stamped on or after October 1, 2022**, the duty is imposed on the vaping product and is payable at the time that the vaping product is stamped.
+
+For **packaged and stamped** vaping products **imported into Canada before October 1, 2022**, duty is payable at the time of importation.
+
+Possession and sale of unstamped vaping products that were manufactured in Canada and **packaged before****October 1, 2022**, is permitted up to and including December 31, 2022.
+
+Possession and sale of unstamped packaged vaping products that were **imported into Canada before October 1, 2022**, is permitted up to and including December 31, 2022.
+
+As of January 1, 2023, no person is permitted to possess or sell unstamped packaged vaping products unless explicitly permitted under the Excise Act, 2001.
+
+### Reporting requirements
+
+Vaping product licensees must file a return by completing [Form B600, Vaping Duty and Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b600.html) for each calendar month. The monthly return and any applicable vaping duty payable are due no later than the last day of the month following the reporting period.
+
+Vaping prescribed persons must file a return by completing [Form B601, Vaping Information Return – Prescribed Person](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b601.html) for each calendar month. The monthly return is due no later than the last day of the month following the reporting period.
+
+If there are no activities to report for a specific reporting period, both vaping product licensees and vaping prescribed persons must send a completed NIL return by the deadline.
+
+### More information
+
+For more information on the new federal excise duty framework for vaping products refer to the following webpages:
+
+- [Excise duty on vaping products](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/excise-duty-vaping-products.html), for general information;
+
+- [Excise duty notices under the Excise Act, 2001](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-notices.html), for technical information;
+
+- [Excise duty forms under the Excise Act, 2001](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-forms.html) , for forms the CRA has recently published.
+
+To make a general enquiry on the application of the excise duty framework on vaping products call 1-866-330-3304 or send an email to [LPVAPINGG@cra-arc.gc.ca](mailto:LPVAPINGG@cra-arc.gc.ca). Please do not include any confidential information in your email.
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from July 1, 2022, to September 30, 2022, on overdue amounts payable to the Minister is 6%. The prescribed annual rate of interest on amounts owed by the Minister (such as, rebates or refunds) is 2% for corporate taxpayers and 4% for non-corporate taxpayers. These rates are applicable to income tax, excise tax, GST/HST, the air travellers security charge (ATSC), the fuel charge (under the Greenhouse Gas Pollution Pricing Act) and excise duty on wine, spirits, tobacco and cannabis.
+
+The prescribed annual rate of interest respecting excise duty on beer, on overdue amounts payable for the indicated period, is set at 4%. Refund interest rates are not applicable for amounts owed by the Minister (such as, rebates or refunds) for excise duty that is in relation to beer.
+
+| PERIOD | July 1, 2022 to September 30, 2022 | April 1, 2022 to June 30, 2022 | January 1, 2022 to March 31, 2022 | October 1, 2021 to December 31, 2021 |
+
+| --- | --- | --- | --- | --- |
+
+| Refund Interest Corporate Taxpayers | 2% | 1% | 1% | 1% |
+
+| Refund Interest Non-Corporate Taxpayers | 4% | 3% | 3% | 3% |
+
+| Arrears and Instalment Interest | 6% | 5% | 5% | 5% |
+
+| PERIOD | July 1, 2022 to September 30, 2022 | April 1, 2022 to June 30, 2022 | January 1, 2022 to March 31, 2022 | October 1, 2021 to December 31, 2021 |
+
+| --- | --- | --- | --- | --- |
+
+| Arrears Interest Excise duty –beer | 4% | 3% | 3% | 3% |
+
+Prescribed interest rates for previous years are available on Canada.ca at [Prescribed interest rates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## What’s new in publications
+
+The following is a list of new or revised excise, luxury tax and GST/HST forms and publications:
+
+**GST/HST memoranda**
+
+- [18-4, Determining Whether a Transfer Payment is Consideration For a Supply](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/18-4.html)
+
+**Excise forms**
+
+- [B262, Excise Duty Return - Excise Warehouse Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b262.html)
+
+- [B600, Vaping Duty and Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b600.html)
+
+- [B601, Vaping Information Return – Prescribed Person](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b601.html)
+
+- [B602, Application for a Refund of Vaping Duty](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b602.html)
+
+- [L600, Vaping Product Licence Application](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l600.html)
+
+- [L600-A, Schedule A, Other Business Locations](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l600-a.html)
+
+- [L600-B, Schedule B, Information Relating to Individuals, Partners, Directors, Officers or Shareholders](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l600-b.html)
+
+- [L601, Registration for Vaping Stamping Regime](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l601.html)
+
+- [L602, Surety Bond for Vaping Product Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l602.html)
+
+- [L603, Vaping Prescribed Person Application](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l603.html)
+
+- [L604, Surety Bond for Vaping - Prescribed Person](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l604.html)
+
+**Excise duty notices**
+
+- EDBN31, Elimination of Excise Duty on Non-alcoholic Beer
+
+- EDN75, Repeal of Excise Duty Exemption for 100% Canadian Wine (revised)
+
+- EDN77, Excise Duty Exemption for 100% Canadian Wine Made from Honey or Apples
+
+- EDN78, General Information – Vaping Products
+
+- EDN79, Obtaining and Renewing a Vaping Products Licence
+
+- EDN80, Overview of the Vaping Excise Stamps
+
+- EDN81, Becoming a Vaping Prescribed Person
+
+- EDN82, Calculation of Vaping Duty
+
+- EDN83, Vaping Product Marking Requirements
+
+**Excise memorandums**
+
+- EDM3-1-1, Producers and Packagers of Spirits (revised)
+
+- EDM4-1-1, Producers and Packagers of Wine (revised)
+
+- EDM4-1-2, Small Producers of Wine (revised)
+
+- EDM4-4-1, Losses of Wine (revised)
+
+- EDM10-1-3, Completing an Excise Duty Return - Excise Warehouse Licensee (revised)
+
+- EDM10-1-6, Completing an Excise Duty Return - Wine Licensee - Canada.ca (revised)
+
+**Excise duty circular**
+
+- ED212-11, Application of Rates of Excise Duty on the First 75,000 Hectolitres of Beer Brewed in Canada - Canada.ca (revised)
+
+**Luxury tax forms**
+
+- [B500, Luxury Tax and Information Return for Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b500.html)
+
+- [B501, Luxury Tax and Information Return for Non-Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b501.html)
+
+- [B502, Luxury Tax - Information Return for Non-Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b502.html)
+
+- [B503, Luxury Tax Rebate Application for Foreign Representatives](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b503.html)
+
+- [L100-1, Luxury Tax Exemption Certificate for Subject Vehicles](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l100-1.html)
+
+- L100-2, Luxury Tax Exemption Certificate for Subject Vessels
+
+- L100-3, Luxury Tax Exemption Certificate for Subject Aircraft
+
+- [L500, Luxury Tax Registration Application](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l500.html)
+
+- [L500-1, Non-Resident – Records Kept Outside Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l500-1.html)
+
+- [L500-2, Application or Revocation of the Authorization to File Separate Luxury Tax Returns for Branches and Divisions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l500-2.html)
+
+- [L501, Tax Certificate Application](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l501.html)
+
+- [L502, Special Import Certificate Application](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l502.html)
+
+**Luxury tax notices**
+
+- [LTN1, Registration Under the Select Luxury Items Tax Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ltn1.html)
+
+- [LTN2, Subject Vehicles Under the Select Luxury Items Tax Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ltn2.html)
+
+- [LTN3, Subject Vessels Under the Select Luxury Items Tax Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ltn3.html)
+
+- [LTN4, Subject Aircraft Under the Select Luxury Items Tax Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ltn4.html)
+
+All GST/HST, luxury tax, excise duty, and excise taxes and other levies publications can be found on the Canada.ca website. Go to the [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html), [Luxury tax technical information](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax/technical-information.html), [Excise duties technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty.html) and [Excise taxes and other levies technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies.html).
+
+To receive email notification as soon as a document is published on the CRA website, go to [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribe to the RSS feed for all new CRA publications and forms, or subscribe to any number of mailing lists for different types of publications.
+
+## Contact us
+
+**More information**
+
+**Forms and publications**
+
+- All **GST/HST technical publications** and **GST/HST related forms** are available on the Canada.ca website. Go to [GST/HST related forms and publications](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/forms-publications.html).
+
+- To access **all other**forms and publications on the Canada.ca website go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+- To order forms and publications**by telephone**, call 1‑800‑959‑5525.
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries,**call Business Enquiries at 1‑800‑959‑5525;
+
+- for **GST/HST technical enquiries,**call GST/HST Rulings at 1‑800‑959‑8287.
+
+If you are located in**Quebec**, call**Revenu Québec**at **1‑800‑567‑4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST - Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or
+
+- for**general GST/HST**or**QST enquiries**, call Business Enquiries at 1‑800‑959‑5525;
+
+- for**technical GST/HST**or**QST enquiries**, callGST/HST Rulings SLFI at 1‑855‑666‑5166.
+
+Go to the [Contact Information – Excise and Specialty Tax Directorate](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/excise-taxes-contacts.html) webpagefor technical enquiries, publications and forms, and regional office contact information.
+
+**Account enquiries**
+
+For**general information** and to make **enquiries**regarding your **account**, you can:
+
+- view answers to common enquiries, or submit an enquiry using the online “Enquiries service” on “My Business Account”;
+
+- view account information online at [E-services for Businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html); or
+
+- call Business Enquiries at 1‑800‑959‑5525.
+
+For **online access**to your **GST/HST**,**air travellers security charge**, **luxury tax**, **excise tax**and **duty accounts** (such as viewing up-to-date account balances and transactions, transferring payments and more), go to:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) if you are the business owner;
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html) if you are an authorized representative or employee; or
+
+For **enquiries**regarding the**status of specific GST/HST domestic rebate claims,** call Business Enquiries at 1‑800‑959‑5525.
+
+**Help**
+
+For **technical support using our online services**:
+
+- business accounts, call 1‑800‑959‑5525
+
+- teletypewriter users, call 1‑800‑665‑0354
+
+- calls outside of Canada and the United States, call collect at 613‑940‑8497
+
+Please have the screen number (bottom right) and, if applicable, the error number and message received on hand when calling.
+
+The Excise and GST/HST News is published quarterly and highlights recent developments in the administration of the GST/HST, the QST for SLFIs, First Nations goods and services tax (FNGST) and First Nations tax (FNT), air travellers security charge (ATSC), the Underused Housing Tax, the Select Luxury Items Tax as well as excise taxes and duties. If you would like to receive a link to each new edition of the Excise and GST/HST News as it is published, subscribe to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-excise-gst-hst-news.html). This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, Excise and GST/HST News, GST/HST Rulings Directorate, Legislative Policy and Regulatory Affairs Branch, CRA, 11th Floor, Place de Ville, 320 Queen Street, Ottawa K1A 0L5.

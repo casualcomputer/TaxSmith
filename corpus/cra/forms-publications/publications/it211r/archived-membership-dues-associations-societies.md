@@ -1,0 +1,36 @@
+---
+title: "ARCHIVED - Membership Dues - Associations and Societies"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it211r/archived-membership-dues-associations-societies.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Membership Dues - Associations and Societies
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-211R**
+
+DATE: November 15, 1982
+
+SUBJECT: INCOME TAX ACT**Membership Dues - Associations and Societies**
+
+REFERENCE: Paragraph 18(1)(a) (also subparagraph 18(1)(l)(ii) and subsection 18(9)).
+
+This bulletin replaces and cancels Interpretation Bulletin IT-211 dated May 5, 1975. Current revisions are designated by vertical lines.
+
+1. This bulletin deals with the deductibility of membership fees in certain clubs and associations from the income of a business or property.
+
+2. Subject to the limitations of subparagraph 18(1)(l)(ii), membership fees in professional associations, trade or commercial associations, learned societies, service clubs and cultural organizations will be allowable deductions from income if they can reasonably be shown to relate to the earning of income from the business or property.
+
+3. Subparagraph 18(1)(l)(ii) prohibits the deduction of any expense incurred by the taxpayer after 1971 in respect of membership dues (whether initiation fees or otherwise) that entitle the taxpayer, his employees or anyone else to use the facilities of any club the main purpose of which is to provide dining, recreational or sporting facilities for its members. (See Interpretation Bulletin IT-148R2.)
+
+4. Lump-sum "life-membership" fees paid in lieu of future annual fees or dues will be deductible if they replace annual fees that would be deductible. Although subsection 18(9), applicable to outlays made or incurred after December 11, 1979, would require that such pre-payments will not give rise to a deduction in computing income prior to the year in respect of which the expense can reasonably be considered to relate, the amounts involved would normally not be material, in which case they may be deducted in the year they are paid. See IT-417R for comments in respect of subsection 18(9) and materiality.
+
+5. Initiation or admission fees paid to an organization (e.g., for call to the bar or for membership in a professional accounting institute) are eligible capital expenditures where it can be shown that the annual membership fees of the organization are allowable deductions in computing income of a business. Otherwise they are non-deductible capital outlay.

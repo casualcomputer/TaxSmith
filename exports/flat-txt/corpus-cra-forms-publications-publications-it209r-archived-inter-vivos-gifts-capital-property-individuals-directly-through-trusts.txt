@@ -1,0 +1,427 @@
+Title: ARCHIVED - Inter-vivos gifts of capital property to individuals directly or through trusts
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it209r/archived-inter-vivos-gifts-capital-property-individuals-directly-through-trusts.html
+Corpus path: corpus/cra/forms-publications/publications/it209r/archived-inter-vivos-gifts-capital-property-individuals-directly-through-trusts.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Inter-vivos gifts of capital property to individuals directly or through trusts
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+IT INCOME TAX ACT Inter-Vivos Gifts of Capital Property to Individuals Directly or Through Trusts
+
+IT-209R May 18, 1983
+
+Section 69 (also subsections 73(1) and (2), paragraphs 107(2)(a), (b) and (d) of the Act; and subsections 20(1), (1.1) and (1.2) and 26(3), (4) and (5) of the Income Tax Application Rules, 1971 (ITAR))
+
+This bulletin replaces and cancels IT-209 dated May 5, 1975. Current revisions are designated by vertical lines.
+
+1. This bulletin discusses the income tax effects to donor and donee of various types of gift transactions. The bulletin uses examples to illustrate these effects, grouped under the following headings: A. Gift to an individual or a trust (including a spouse or a spouse trust in cases where an election is made not to have the provisions of subsection 73(1) apply - see 2 below); B. Gift to an individual or a trust (including a spouse or a spouse trust in cases where an election is made not to have the provisions of subsection 73(1) apply - see 2 below) - transitional provisions; C. Gift to a spouse or a spouse trust (where no election is made); D. Gift to a spouse or a spouse trust (where no election is made) - transitional provisions.
+
+2. For gifts of capital property by a taxpayer after 1971 and before 1980 to a spouse or a spouse trust when both the taxpayer and the donee were resident in Canada, subsection 73(1) provided for a mandatory rollover of the property at its undepreciated capital cost in the case of depreciable property and at its adjusted cost base in the case of other property. However, in respect of such gifts after 1979, the taxpayer may elect not to have the provisions of subsection 73(1) apply. (For additional discussions of this subsection see IT-258R2 and IT-325R).
+
+3. A gift is generally defined as a voluntary transfer of property without consideration. The essential requisites of a gift are: intention and capacity of the donor to make the gift; completed delivery to a donee; and acceptance of the gift by the donee.
+
+4. The example are based on the following principles and assumptions: (a) The Department considers that a settlor and the trust he creates, and a trust and its beneficiaries, operate at non-arm's length unless the facts of a particular situation indicate otherwise. The examples involving trusts assume that the parties involved are not dealing at arm's length. Those not involving trusts also assume that the donor and donee are not dealing at arm's length. (b) The capital beneficiary of a trust did not purchase his capital interest. (c) No one has made an election to use Valuation Day values pursuant to subsection 26(7) of the ITAR.
+
+5. The terms "cost amount" and "spouse trust" are explained as follows: (a) Cost amount. Pursuant to paragraphs 107(2)(a) and (b), a trust distributes property to a capital beneficiary for proceeds equal to its cost amount to the trust, and the capital beneficiary acquires the property for proceeds equal to the trust's cost amount. "Cost amount" is stated in subsection 248(1) to be the adjusted cost base for a capital property other than depreciable property, and the undepreciated capital cost for a depreciable property determined by prorating the undepreciated capital cost of all property in the class on the basis of the capital cost of each property. (b) Spouse Trust. A taxpayer creates a spouse trust for the benefit of his spouse (subsection 73(1)) where the spouse is entitled to receive all income of the trust that arises before the spouse's death, and only the spouse (prior to death) may receive or otherwise obtain the use of any of the income or capital of the trust. Both the taxpayer and the spouse must be resident in Canada at the time the trust is created. In the examples where a spouse trust distributes property to the capital beneficiary, the assumption is that it is a distribution prior to the death of the spouse who is, therefore, the capital beneficiary.
+
+6. The examples use the following abbreviations: ACB, Adjusted cost base FMV, Fair market value CCA, Capital cost allowance UCC, Undepreciated capital cost
+
+EXAMPLES A. Gift to an Individual or a Trust (including a spouse or a spouse trust in cases where an election is made not to have the provisions of subsection 73(1) apply)
+
+| Reference |  |  |  |
+
+| --- | --- | --- | --- |
+
+|  | (1) A gift of capital property (other than depreciable property) Assumptions Cost of capital property to donor | $100 |  |
+
+|  | FMV on date of gift | 150 |  |
+
+|  | Results |  |  |
+
+| 69(1)(b) | The proceeds of disposition are deemed to be $150 and therefore the donor is subject to tax on a capital gain of $50. |  |  |
+
+| 69(1)(c) | The donee acquires the capital property for a deemed cost of $150. |  |  |
+
+|  | (2) A gift of depreciable property Assumptions Capital cost of depreciable property to donor |  | $100 |
+
+|  | UCC on date of gift |  | 75 |
+
+|  | FMV on date of gift |  | 110 |
+
+|  | Results |  |  |
+
+| 69(1)(b) | The donor has deemed proceeds of disposition of $110 and therefore is subject to tax on a capital gain of $10 and recapture of CCA of $25. |  |  |
+
+| 69(1)(c) | The donee acquires the property at a deemed capital cost of $110. |  |  |
+
+| (3) | Taking the results in Example (1) and assuming that the donee of the capital property is a trust, the following occurs when the trust distributes the capital property to the capital beneficiary. |  |  |
+
+|  | Further assumption to Example (1) FMV of capital property on date of distribution |  | $200 |
+
+|  | Results |  |  |
+
+| 107(2)(a) | The trust is deemed to dispose of the capital property for proceeds of $150 (its cost amount) and therefore no capital gain or loss arises. |  |  |
+
+| 107(2)(b) | The capital beneficiary acquires the property at a deemed cost of $150 (the cost amount to the trust). |  |  |
+
+| (4) | Taking the results in Example (2) and assuming that the donee of the depreciable property is a trust, the following occurs on distribution of the property to the capital beneficiary: Further assumptions to Example (2) |  |  |
+
+| UCC on date of distribution |  |  | $ 90 |
+
+| FMV on date of distribution |  |  | 120 |
+
+|  | Results |  |  |
+
+| 107(2)(a) | The trust is deemed to dispose of the depreciable property for proceeds of $90, its cost amount, and therefore no capital gain or loss, or recapture of CCA arises. |  |  |
+
+| 107(2)(b) | The capital beneficiary acquires the depreciable property at a deemed capital cost of $110 and is deemed to have been allowed CCA of $20. |  |  |
+
+| 107(2)(d) | (UCC is $90). |  |  |
+
+B. Gift to an Individual or a Trust (including a spouse or a spouse trust in cases where an election is made not to have the provisions of subsection 73(1) apply) - Transitional Provisions
+
+|  | Reference |  |  |
+
+| --- | --- | --- | --- |
+
+| (5) | Subsection 26(5) of the ITAR provides rules for calculating the adjusted cost base after 1971 of capital property, other than depreciable property or a partnership interest, to a non-arm's length transferee where such property was owned by a taxpayer on June 18, 1971 and has, by one or more non-arm's length transactions or events, become vested in the non-arm's length transferee (and either the taxpayer or a transferee owned the property at December 31, 1971). For a detailed discussion of this topic see IT-132R2. The following example illustrates the operation of this subsection where there is a gift of capital property, other than depreciable property or a partnership interest. |  |  |
+
+|  | Assumptions |  |  |
+
+|  | Cost of capital property to donor | $100 |  |
+
+|  | FMV on Valuation Day | 110 |  |
+
+|  | FMV on date of gift |  | 150 |
+
+|  | Results |  |  |
+
+| 69(1)(b) 26(3) (ITAR) | The proceeds of disposition are deemed to be $150 and therefore the donor is subject to tax on a capital gain of $40. |  |  |
+
+| (5a) | Further assumption The donee is an individual who subsequently disposes of the capital property in an arm's length transaction for $160. |  |  |
+
+|  | Results |  |  |
+
+| 26(5) (ITAR) | The adjusted cost base of the property for the donee is computed as follows: |  |  |
+
+|  | Cost |  | $100 |
+
+|  | FMV on Valuation Day |  | 110 |
+
+|  | Proceeds | 160 |  |
+
+| 26(3) | therefore: Cost of the property (median) |  | 110 |
+
+| (ITAR) | plus: Capital gain to donor |  | 40 |
+
+| 26(5)(c)(i) | ACB to donee |  | $150 |
+
+| (ITAR) | Proceeds |  | 160 |
+
+|  | Capital gain to donee |  | 10 |
+
+| (6) | Taking the results in Example (5) and assuming that the donee of the capital property is a trust, the following occurs when the trust distributes the capital property to the capital beneficiary. Further assumptions to Example (5) FMV of capital property on date of distribution |  | $200 |
+
+|  | Beneficiary sells the property in an arm's length transaction for proceeds of |  | 210 |
+
+|  | Results |  |  |
+
+| 107(2)(a) | The capital property is distributed to the beneficiary for proceeds equal to its cost amount, i.e., its ACB. The ACB is computed as follows: |  |  |
+
+| 26(3) and (5) | Cost |  | $100 |
+
+| (ITAR) | FMV on Valuation Day |  | 110 |
+
+| 26(4) (ITAR) | Proceeds (FMV on date of distribution) |  | 200 |
+
+|  | therefore: Cost of property (median) |  | 110 |
+
+| 26(5)(c)(i) | plus: Capital gain to donor |  | 40 |
+
+| 26(5) | ACB |  | $150 |
+
+| (ITAR) | This ACB is the cost amount to the trust and hence is the deemed proceeds on distribution. No capital gain or loss to the trust results as the deemed proceeds are $150 and the ACB is $150. |  |  |
+
+|  | When the beneficiary sells the property (arm's length) for proceeds of $210, the ACB of the property to the beneficiary is calculated as follows: |  |  |
+
+| Cost |  |  | $100 |
+
+|  | FMV on Valuation Day |  | 110 |
+
+|  | Proceeds | 210 |  |
+
+| 26(3) (ITAR) | therefore: Cost (median) |  | $110 |
+
+| 26(5)(c)(i) (ITAR) | plus: Capital gain to donor |  | 40 |
+
+| 26(5)(ITAR) | ACB | $150 |  |
+
+|  | Actual proceeds | 210 |  |
+
+|  | Capital gain | $ 60 |  |
+
+|  | Since Valuation Day the capital property has appreciated by $100 ($210 - 110); the capital gain to the donor and the beneficiary totals $100 ($40 + 60). |  |  |
+
+| (7) | A gift of depreciable property where the donor or someone not at arm's length with him had acquired the property prior to 1972. |  |  |
+
+|  | Assumptions Capital cost of depreciable property to donor |  | $100 |
+
+|  | FMV on Valuation Day |  | 105 |
+
+|  | UCC on date of gift |  | 75 |
+
+|  | FMV on date of gift |  | 115 |
+
+|  | Results |  |  |
+
+| 69(1)(b) | Under paragraph 69(1)(b) the donor has deemed proceeds of disposition of $115, which is called "proceeds of disposition thereof otherwise determined" in subsection 20(1) of the ITAR. The deemed proceeds of disposition under paragraph 20(1)(a) are then calculated as follows: |  |  |
+
+| 20(1) | Capital cost |  | $100 |
+
+| (ITAR) | Proceeds of disposition as otherwise determined |  | $115 |
+
+|  | FMV on Valuation Day | 105 | 10 |
+
+|  | Deemed proceeds | $110 |  |
+
+|  | Capital cost |  | 100 |
+
+|  | Capital gain |  | 10 |
+
+|  | The donor therefore is subject to tax on a capital gain of $10 and recapture of CCA of $25. |  |  |
+
+| 20(1)(b)(i) (ITAR) | The donee is deemed to acquire the depreciable property at a capital cost of $110. |  |  |
+
+| (7a) | Further Assumptions The donee is an individual who sells the depreciable property in an arm's length transaction for $120 when the UCC is $100. |  |  |
+
+|  | Results |  |  |
+
+| 20(1)(a) (ITAR) | Proceeds calculated as follows: Capital cost for 20(1)(a) |  | $100 |
+
+|  | Proceeds of disposition as otherwise determined | $120 |  |
+
+|  | FMV on Valuation Day | 105 | 15 |
+
+|  | Deemed proceeds under 20(1)(a) |  | $115 |
+
+|  | Capital cost |  | 110 |
+
+|  | Capital gain |  | $ 5 |
+
+|  | Recapture of CCA | $ 10 |  |
+
+| (8) | Taking the results in Example (7) and assuming that the donee of the depreciable property is a trust, the following example illustrates the result of distributing the depreciable property to the capital beneficiary. |  |  |
+
+|  | Further assumptions to Example (7) FMV of the depreciable property on date of distribution |  | $120 |
+
+|  | UCC on date of distribution | 80 |  |
+
+|  | Results |  |  |
+
+| 107(2)(a) | The trust has deemed proceeds of disposition of its cost amount (UCC) of $80. Subsection 20(1) of the ITAR does not apply as the deemed proceeds of $80 are less than the capital cost of the property (which is $100, pursuant to subparagraph 20(1)(b)(ii) of the ITAR). Thus, no capital gain or loss or recapture of CCA arises to the trust. |  |  |
+
+| 107(2)(d) | The beneficiary acquires the depreciable property at a deemed capital cost of $110 and is deemed to have been allowed CCA of $30 (UCC is $80). |  |  |
+
+| (8a) | Further assumptions The beneficiary sells the property in an arm's length transaction for proceeds of $125, at a time when the UCC is $70. |  |  |
+
+|  | Results |  |  |
+
+| 20(1.2) and 20(1)(b)(ii) | Subsection 20(1) of the ITAR is applicable to calculate the deemed proceeds of the ITAR |  |  |
+
+|  | Capital cost |  | $100 |
+
+|  | Proceeds of disposition as otherwise determined | $125 |  |
+
+|  | FMV on Valuation Day | 105 | 20 |
+
+|  | Deemed proceeds under 20(1)(a) | $120 |  |
+
+|  | Therefore the beneficiary has a capital gain of $10 ($120 - 110), and a recapture of CCA of $40. |  |  |
+
+|  |  |  |  |
+
+C. Gift to a Spouse or a Spouse Trust (where no election is made)
+
+| Reference |  |  |  |
+
+| --- | --- | --- | --- |
+
+| (9) | A gift of capital property (other than depreciable property) Assumptions Cost of capital property to donor |  | $100 |
+
+|  | FMV on date of gift | 150 |  |
+
+|  | Results |  |  |
+
+| 73(1)(f) | The proceeds of disposition are deemed to be $100 (the ACB to the donor) and therefore no capital gain or loss to the donor arises. |  |  |
+
+| 73(1) | The spouse or the spouse trust acquires the capital property at a deemed cost of $100. |  |  |
+
+| (10) | A gift of depreciable property Assumptions Cost of depreciable property to donor |  | $100 |
+
+|  | UCC on date of gift |  | 75 |
+
+|  | FMV on date of gift |  | 110 |
+
+|  | Results |  |  |
+
+| 73(1)(e) | The donor has deemed proceeds of disposition of $75 (the UCC to the donor) and therefore no capital gain or recapture of CCA arises. |  |  |
+
+| 73(2) | The spouse or spouse trust acquires the depreciable property at a deemed capital cost of $100 and is deemed to have been allowed CCA of $25 (UCC is $75). |  |  |
+
+| (11) | Taking the results in Example (9) and assuming that the donee of the capital property is a spouse trust, the following occurs when the spouse trust distributes the capital property to the capital beneficiary (the spouse). |  |  |
+
+|  | Further assumptions to Example (9) FMV of capital property on date of distribution |  | $200 |
+
+|  | Results |  |  |
+
+| 107(2)(a) | The spouse trust is deemed to dispose of the capital property for proceeds of $100 (its "cost amount") and therefore no capital gain or loss to the trust arises. |  |  |
+
+| 107(2)(b) | The capital beneficiary (the spouse) acquires the property at the trust's cost amount of $100. |  |  |
+
+| (12) | Taking the results in Example (10) and assuming that the donee of the depreciable property is a spouse trust, the following occurs on distribution of the depreciable property to the capital beneficiary (the spouse). |  |  |
+
+|  | Further assumptions to example (10) UCC at date of distribution |  | 60 |
+
+|  | FMV at date of distribution |  | 120 |
+
+|  | Results |  |  |
+
+| 107(2)(a) | The spouse trust is deemed to dispose of the depreciable property for proceeds equal to $60 (its cost amount) and therefore there are no tax consequences for the trust. |  |  |
+
+| 107(2)(b) | The capital beneficiary (the spouse) acquires the depreciable property at a deemed capital cost of $100 and is deemed to have been allowed CCA of $40 (UCC is $60). |  |  |
+
+D. Gift to a Spouse or a Spouse Trust (where no election is made) - Transitional Provisions
+
+| Reference |  |  |  |
+
+| --- | --- | --- | --- |
+
+| (13) | A gift of capital property (other than depreciable property or a parntership interest). (The comments on subsection 26(5) of the ITAR at Example (5) are applicable here.) |  |  |
+
+|  | Assumptions Cost of capital property to donor | $100 |  |
+
+|  | FMV on Valuation Day |  | 110 |
+
+|  | FMV on date of gift |  | 150 |
+
+|  | Results |  |  |
+
+| 73(1) 26(3) and (4) (ITAR) | The donor is deemed to dispose of the capital property for proceeds equal to $110, his ACB. Therefore a capital gain or loss does not arise to the donor. |  |  |
+
+| (13a) | Further assumptions The donee is the spouse, who subsequently disposes of the property in an arm's length transaction for $160. |  |  |
+
+|  | Results |  |  |
+
+|  | The adjusted cost base of the property for the spouse (the donee) is computed pursuant to subsection 26(5) of the ITAR as follow: |  |  |
+
+|  | Cost |  | $100 |
+
+|  | FMV on Valuation Day |  | 110 |
+
+|  | Proceeds | 160 |  |
+
+| 26(3) (ITAR) | therefore: Cost of the property (median) (ACB) |  | 110 |
+
+|  | As the proceeds are $160 the capital gain is $50. The result is that the "tax-free zone" carries to the subsequent owner. |  |  |
+
+| (14) | Taking the results in Example (13) and assuming that the donee of the capital property is a spouse trust, the following occurs when the trust distributes the capital property to the capital beneficiary. The capital beneficiary in the example is the spouse and the distribution of the capital is prior to the death of the spouse. |  |  |
+
+|  | Further assumptions to Example (13) FMV of capital property on date of distribution |  | $200 |
+
+|  | Beneficiary sells the property in an arm's length transaction for proceeds of |  | 210 |
+
+|  | Results |  |  |
+
+| 107(2)(a) | The capital property is distributed to the beneficiary for proceeds equal to the trust's "cost amount" (ACB). The ACB is computed pursuant to subsection 26(5) of the ITAR: |  |  |
+
+|  | Cost |  | $100 |
+
+|  | FMV on Valuation Day |  | 110 |
+
+|  | Proceeds (FMV on date of distribution, subsection 26(4) of the ITAR) |  | 200 |
+
+| 26(3)(ITAR) | therefore: Cost of the property (median, which is also the ACB, subsection 26(5) of the ITAR) |  | 110 |
+
+|  | The cost amount to the spouse trust and hence the deemed proceeds of distribution is $110. No capital gain or loss to the spouse trust results as the deemed proceeds are $110 and the ACB is also $110. When the beneficiary sells the property (arm's length) for proceeds of $210, the ACB of the property to the beneficiary is calculated as follows: |  |  |
+
+|  | Cost |  | $100 |
+
+|  | FMV on Valuation Day |  | 110 |
+
+|  | Proceeds | 210 |  |
+
+| 26(3) and (5) (ITAR) | therefore: Cost (median, also the ACB) |  | $110 |
+
+|  | As the actual proceeds are $210, the capital gain to the beneficiary is $100 ($210 less $110). |  |  |
+
+| (15) | A gift of depreciable property to a spouse or a spouse trust, where the donor or someone not at arm's length with him had acquired the property prior to 1972. |  |  |
+
+|  | Assumptions Cost of depreciable property to donor |  | $100 |
+
+|  | FMV on Valuation Day |  | 105 |
+
+|  | UCC on date of gift |  | 75 |
+
+|  | FMV on date of gift |  | 110 |
+
+|  | Results |  |  |
+
+| 73(1)(e) | The donor has deemed proceeds of disposition of $75 (UCC) which results in no capital gain or loss or recapture of CCA to the donor. |  |  |
+
+| 73(1) and (2) | The spouse or spouse trust is deemed to acquire the depreciable property at a capital cost of $100 and is deemed to have been allowed CCA of $25 (UCC is $75). |  |  |
+
+| 20(1.1) (ITAR) | Subsection 20(1) of the ITAR is not applicable to the donor. |  |  |
+
+| (15a) | Further assumptions The donee is the spouse who sells the depreciable property is an arm's length transaction for $120, when the UCC is $60. |  |  |
+
+|  | Results |  |  |
+
+|  | As the capital of the depreciable property ($100) is less than the FMV on Valuation Day ($105) and the proceeds of disposition otherwise determined ($120) and, because of subsection 20(1.1) of the ITAR, subsection 20(1) of the ITAR is applicable. The deemed proceeds are then determined as follows: |  |  |
+
+|  | Capital cost |  | $100 |
+
+|  | Proceeds of dispositions as otherwise determined | $120 |  |
+
+|  | FMV on Valuation Day | 105 | 15 |
+
+|  | Deemed proceeds | $115 |  |
+
+|  | Therefore the spouse is subject to tax on a capital gain of $15 ($115 - 100) and the recapture of CCA is $40 ($100 - 60). |  |  |
+
+| (16) | Taking the results in Example (15) and assuming that the donee of the depreciable property is a spouse trust, the following example illustrates the result of distributing the property to the capital beneficiary (the spouse). |  |  |
+
+|  | Further assumptions to Example (15) FMV of the depreciable property on date of distribution by the trust |  | $120 |
+
+|  | UCC on date of distribution |  | 60 |
+
+|  | Results |  |  |
+
+| 107(2)(a) | The spouse trust has deemed proceeds of disposition equal to its cost amount of $60 (UCC). Subsection 20(1) of the ITAR does not apply as the deemed proceeds of $60 are less than the capital cost of the property (which is $100, pursuant to subparagraph 20(1)(b)(ii) of the ITAR). Therefore a capital gain or loss or a recapture of CCA to the trust does not arise. |  |  |
+
+| 107(2)(b) | The spouse (capital beneficiary) acquires the depreciable property for a capital cost of $100 and is deemed to have been allowed CCA of $40 (UCC is $60). |  |  |
+
+| (16a) | Further assumptions The spouse sells the depreciable property in an arm's length transaction, for proceeds of $125, when the UCC is $60. |  |  |
+
+|  | Results |  |  |
+
+|  | Subsection 20(1) of the ITAR is applicable, pursuant to subsection 20(1.2) of the ITAR. The deemed proceeds are: |  |  |
+
+|  | Capital cost |  | $100 |
+
+|  | Proceeds of disposition as otherwise determined | $125 |  |
+
+|  | FMV on Valuation Day | 105 | 20 |
+
+|  | Deemed proceeds |  | $120 |
+
+|  | Therefore the spouse has a capital gain of $20 ($120 - 100), and a recapture of CCA of $40. |  |  |

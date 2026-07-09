@@ -1,0 +1,118 @@
+---
+title: "FCN15 Temporary relief of the fuel charge – Light fuel oil for use exclusively in eligible heating activities"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn15/temporary-relief-fuel-charge.html
+last_modified: 2025-03-23
+---
+# FCN15 Temporary relief of the fuel charge – Light fuel oil for use exclusively in eligible heating activities
+
+Fuel Charge Notice
+
+January 2025
+
+This version replaces the one dated November 2023. This notice has been updated because the amendments to the *Fuel Charge Regulations* to implement the temporary relief were published in the *Canada Gazette*, Part II on January 1, 2025. They are deemed to have come into force on October 26, 2023.
+
+The purpose of this notice is to inform stakeholders of the temporary relief of the fuel charge for light fuel oil used exclusively for providing heat to a home, building, or similar structure.
+
+Persons that are registered as distributors of light fuel oil under the current legislative framework and distributors of light fuel oil for heating purposes that may register under the new rules could be affected by this relief. Affected persons should carefully review this notice as a clear understanding of the legislative and regulatory provisions is necessary to remain compliant with the *Greenhouse Gas Pollution Pricing Act* and its regulations.
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the *Greenhouse Gas Pollution Pricing Act*. In addition, all references to the "Regulations" are to the *Fuel Charge Regulations*. The information in this publication does not replace the law found in the Act and its regulations.
+
+If this information does not completely address your particular situation, you may refer to the Act or relevant regulation, or contact your CRA regional excise office for additional information. The offices are listed at [Contact information – Excise and Specialty Tax Directorate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/contacts/excise-taxes-contacts.html).
+
+**Application of the fuel charge**
+
+The federal fuel charge applies on 21 types of fuel and combustible waste. For a list of the products that are subject to the fuel charge and the applicable rates, go to [Fuel charge rates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcrates/fuel-charge-rates.html).
+
+The federal fuel charge applies to certain fuel-related business activities in Alberta, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Nunavut, Ontario, Prince Edward Island, Saskatchewan, and Yukon. Provinces and territories where the fuel charge applies are known as listed provinces.
+
+## On this page
+
+- [Overview](#overview)
+
+- [Eligible heating activity](#eligibleheating)
+
+- [Relief](#relief)
+
+- [Diversion from eligible heating activities](#diversionfromeligible)
+
+- [Fuel held on an adjustment day](#fuelheldonanadjustmentday)
+
+- [Registration](#registration)
+
+## Overview
+
+On October 26, 2023, the Government announced a temporary pause of the fuel charge on deliveries of light fuel oil for use exclusively in eligible heating activities. This relief applies to deliveries after November 8, 2023, and before April 1, 2027.
+
+## Eligible heating activity
+
+Section 1 of the Regulations defines **eligible heating activity** to mean "the use of light fuel oil exclusively for providing heat to a home, building or similar structure but not for generating heat in an industrial process, including a commercial process that involves removing moisture from a good."
+
+The term **exclusively** is interpreted to mean **solely** or **100%**.
+
+Some examples of **homes** and **buildings** are apartments, condominiums, mobile homes, office buildings, and warehouses.
+
+## Relief
+
+Under section 29 of the Regulations, no fuel charge is payable by a registered distributor of light fuel oil when it delivers fuel of that type in a listed province to a person and the following conditions apply:
+
+- the light fuel oil is for use exclusively in eligible heating activities
+
+- the person receiving delivery is not a registered distributor in respect of light fuel oil
+
+- the light fuel oil is delivered after November 8, 2023, but before April 2027
+
+## Diversion from eligible heating activities
+
+If a person took delivery of light fuel oil in a listed province from a registered distributor for use in eligible heating activities, section 30 of the Regulations requires that the person pay a fuel charge on that light fuel oil at a later time if either of the following applies:
+
+1. the person used the light fuel oil in the listed province otherwise than in eligible heating activities
+
+2. the person delivered the light fuel oil to another person unless the other person is the registered distributor and an exemption certificate applies in respect of the delivery
+
+The person must use [Form B401, Fuel Charge Return for Non-registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b401.html), and related [Form B401-1, Fuel Charge Return Schedule for Non-registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b401-1.html), to report the fuel charge on a monthly basis where applicable. The return and related payment must be received by the end of the month following the month in which the light fuel oil was used otherwise than in eligible heating activities or delivered to another person.
+
+## Fuel held on an adjustment day
+
+Under section 31 of the Regulations, a person that held light fuel oil in a listed province at the beginning of an adjustment day that is after November 8, 2023, and up to and including April 1, 2027, must report and pay a fuel charge in respect of the light fuel oil at the beginning of an adjustment day in each listed province using the following formula:
+
+| Where |  |
+
+| --- | --- |
+
+| **A** | is the quantity of the fuel |
+
+| **B** | is the quantity of the fuel that is held by the person for use exclusively in eligible heating activities |
+
+| **C** | is: if the person is a remote power plant operator, the quantity of the fuel that bothwas delivered to the person by a registered distributor in respect of that type of fuel and in respect of which an exemption certificate applied in respect of the delivery in accordance with section 36 of the Act is not included in the determination of B in any other case, zero |
+
+| **D** | is the rate in respect of fuel of that type for the listed province applicable on the adjustment day |
+
+| **E** | is the rate in respect of fuel of that type for the listed province applicable on the day before the adjustment day |
+
+Every person that is liable to pay a charge on fuel held at the beginning of an adjustment day must file [Form B402, Fuel Charge Return for Fuel Held in a Listed Province on Adjustment Day](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b402.html), as well as one [Form B402-1, Fuel Charge Return Schedule for Fuel Held in a Listed Province on Adjustment Day](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b402-1.html), for each applicable listed province. The return and related payment must be received by the end of the following month.
+
+For more information on reporting and paying the charge on fuel held at the beginning of an adjustment day, refer to [Notice FCN3, Annual charge on fuel held in a listed province on adjustment day](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn3/annual-charge-fuel-held-listed-province-adjustment-day.html).
+
+## Registration
+
+For the purposes of paragraph 55(3)(c) of the Act, section 32 of the Regulations allows a person to apply before April 2027 to be registered as a distributor of light fuel oil if the person carries on the business of selling, delivering, or distributing light fuel oil and, in the ordinary course of that business, delivers in a listed province light fuel oil that is for use in eligible heating activities.
+
+To apply for registration as a distributor, a person must complete [Form L400, Fuel Charge Registration](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400.html). The person must also complete [Form L400-1, Fuel Charge Registration Schedule](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400-1.html).
+
+The person can submit these registration forms electronically using "Submit documents" in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html). If the person submits their application for registration electronically, they will be provided with a confirmation number that they should keep to follow up on the status of the application.
+
+The person can also send the completed registration forms by mail to the following address:
+
+Sudbury Tax Centre Fuel Charge Program PO Box 20000 Station A Sudbury ON P3A 5C1
+
+The processing of the fuel charge registration could be delayed in the case of missing or incomplete information.
+
+If the application for registration is approved, the Canada Revenue Agency will inform the person in writing of their registration number and the effective date of registration.
+
+## Further information
+
+For all **technical publications** related to the *Greenhouse Gas Pollution Pricing Act* and its regulations, go to [Fuel charge technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge.html).
+
+For information on how to makean**enquiry** on the fuel charge or to request **additional information** on the application of the fuel charge for **each type of registration**, go to [Contact information – Excise and Specialty Tax Directorate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/contacts/excise-taxes-contacts.html).
+
+For information on how to request a **ruling** or **interpretation** related to the fuel charge, go to [Requesting an excise and specialty tax ruling or interpretation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/estrulings/requesting-excise-specialty-tax-ruling-interpretation.html).

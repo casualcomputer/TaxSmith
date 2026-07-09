@@ -1,0 +1,217 @@
+Title: Amounts Eligible for Section 256 GST New Housing Rebate
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-085/amounts-eligible-section-256-gst-new-housing-rebate.html
+Corpus path: corpus/cra/forms-publications/publications/p-085/amounts-eligible-section-256-gst-new-housing-rebate.md
+Document type: publication
+Last modified: 2017-11-07
+
+# Amounts Eligible for Section 256 GST New Housing Rebate
+
+**Please note that the following Policy Statement, although correct at the time of issue, may not have been updated to reflect any subsequent legislative changes.**
+
+GST/HST Policy Statement P-085
+
+**Date of Issue**
+
+June 30, 1993
+
+**Subject**
+
+Amounts Eligible for Section 256 GST New Housing Rebate.
+
+**Legislative Reference(s)**
+
+Paragraph 256(2)(c), subsections 256(3), and 123(1) - definition of "improvement" of the *Excise Tax Act*.
+
+**National Coding System File Number(s)**
+
+11870-4-2
+
+**Effective Date**
+
+January 1, 1991
+
+**Text**
+
+This policy statement will discuss the amounts eligible for GST New Housing Rebate for owner built or substantially renovated homes under section 256 of the Act.
+
+For purposes of the section 256 GST New Housing Rebate, an eligible claimant may include in his or her claim, any tax paid with respect to the sale of the land that forms part of a single unit residential complex or an interest therein or in respect of the supply of any improvement thereto.
+
+Given the definition of residential complex, the qualifying land includes the proportion of land subjacent to the residential building and the land immediately contiguous to the building that is reasonably necessary for the use and enjoyment of the building as a place of residence. The immediately contiguous land ( including for example, a driveway, garden and an in-ground swimming pool) would, therefore, qualify as forming part of the residential complex provided the land is reasonably necessary for the use and enjoyment of the building as a place of residence. The amount of land that is reasonably necessary for the use and enjoyment of the building as a place of residence is discussed in Policy Statement P-069 entitled "*Land allowance for Residential Complex".*
+
+An "interest" in the land that forms part of a single unit residential complex may include a legal or equitable interest. Any tax paid in respect of the acquisition of an interest in the qualifying land (for example, the purchase of an option to acquire qualifying land) may be eligible for the rebate. Amounts paid for the supply of the ongoing rights to use the land without legal ownership of the underlying land (for example, a lease of land) are not eligible for the rebate since the supply does not involve the sale of the land or the sale of an interest therein.
+
+An "improvement" in respect of capital property is defined in section 123(1) of the Act as any property or service to the extent that the consideration for the property or service would be included in determining the adjusted cost base of the capital property for income tax purposes. Where the capital property in question is a residential complex, the improvement must relate to a property or service the consideration for which is included in the adjusted cost base of the residential complex. Given the definition of "residential complex" in subsection 123(1) of the Act, a qualifying improvement in respect of a residential complex would comprise the property and services relating to the qualifying land, the residential building itself, and any appurtenances to such building. These normally include the building materials, construction services, and anything affixed to the inside or outside of the qualifying building or appurtenance (such as, cabinets, built-in appliances, central air conditioning , window shutters, etc.) that are included in the adjusted cost base of the complex for income tax purposes. (An appurtenance to the qualifying building would be something that is adapted to or belongs to the building and is intended to be a permanent accession or a fixture to the land upon which it is located such as a permanently affixed detached garage, tool shed, above-ground swimming pool, etc.).
+
+Other property and services that are supplied in respect of the land, interest, building or appurtenance that form part of the single unit residential complex may also be eligible for rebate as an improvement provided the consideration paid or payable for such property or service would be included in determining the adjusted cost base of the complex for income tax purposes. For example, professional services (such as legal fees, real estate agent fees and architectural fees) directly related to the acquisition of the qualifying land or interest and construction of the qualifying building and appurtenances may be eligible for the rebate where they form part of the adjusted cost base of the residential complex. An improvement does not, however, include items that are not included in the adjusted cost base of the complex for income tax purposes (for example, furnishings, free-standing appliances, professional fees relating to financing, tools purchased for construction, and services related to maintenance of the complex). Such property or services are either considered current expenses or included in a separate class of property from that of the residential complex for income tax purposes and, therefore, are not considered qualifying improvements and are not eligible for the rebate.
+
+The rebate is available as of the earlier of the day that is:
+
+- the day the home is first occupied by the individual or a qualifying relation after construction or substantial renovation has begun;
+
+- the day the construction or substantial renovation of the home is substantially completed; and
+
+- the date ownership is transfered to another person if the home is sold before anyone occupied it.
+
+An individual has up to two years from the earlier of these dates to claim the rebate. Only one rebate application may be filed for a particular complex. The rebate claim may include amounts in respect of qualifying property and services incurred within the two years provided the application is filed on time and no previous rebate claim in respect of the same residential complex has been filed.
+
+Unlike rebate claims under section 254 which apply only in respect of the tax paid for the complex or an interest in the complex purchased from the builder of the complex, the rebate claim under section 256 may relate to any qualifying improvement paid to any supplier.
+
+### SAMPLE RULING
+
+**Statement of facts**
+
+1. An individual acquires an option to purchase 1/4 hectare of land on February 1, 1991.
+
+2. The individual purchased the land on March 1, 1991 and began construction of a single unit residential complex on March 15, 1991.
+
+3. The individual is constructing the complex for use as the individual's primary place of residence.
+
+4. All the land is reasonably necessary for the use and enjoyment of the building as a place of residence.
+
+5. The individual first occupied the home on July 1, 1991 and he/she filed the GST new housing rebate claim for owner-built homes on July 10, 1992.
+
+6. The fair market value of the complex at substantial completion is $250,000.
+
+7. The individual is claiming a GST new housing rebate for owner built homes with respect to the GST costs incurred in respect of the supply of property and services that were paid for on the following dates in respect of the home.
+
+| **Property/Service** | **Date** |
+
+| --- | --- |
+
+| Option | 91/02/01 |
+
+| Architectural fees | 91/02/15 |
+
+| Land | 91/03/01 |
+
+| Rentals of equipment directly related to the construction of the home | 91/03/15 |
+
+| Purchase of power tools to be used in the construction of the home | 91/03/15 |
+
+| Legal fees related to the purchase of the land and the construction of the home | 91/03/15 |
+
+| Legal fees related to obtaining financing | 91/03/15 |
+
+| Building materials | 91/03/15 |
+
+| Contractors and Subcontractors'services for constructing the home | 91/04/01 |
+
+| Drilling of water well | 91/05/01 |
+
+| Connection and installation of electrical power | 91/05/01 |
+
+| Installation and supply of a septic system | 91/05/15 |
+
+| Hook-up of natural gas | 91/05/15 |
+
+| Purchase and installation of a built-in air conditioner and built-in water-purifier | 91/06/01 |
+
+| Leveling, sodding and landscaping | 91/06/15 |
+
+| Moving expenses | 91/07/01 |
+
+| Purchase and installation of free standing appliances and furniture | 91/07/01 |
+
+| Purchase and installation of wall to wall carpeting | 91/07/15 |
+
+| Purchase of area rugs | 91/07/15 |
+
+| Construction of a patio and an open deck | 91/08/01 |
+
+| Pesticide and weed spraying | 91/08/01 |
+
+| Purchase and installation of drapery hardware | 91/08/15 |
+
+| Purchase of custom made draperies and blinds | 91/08/30 |
+
+| Construction of a detached garage | 91/09/01 |
+
+| Purchase and installation of light and bathroom fixtures | 91/09/15 |
+
+| Pavement of the driveway | 91/10/01 |
+
+| Purchase of a television and a sound system | 91/10/15 |
+
+| Purchase and installation of a pre-wired security system | 91/11/01 |
+
+| Purchase and installation of a built-in vacuum cleaner | 91/11/15 |
+
+| Purchase of art work and home decoratings which are not fixtures | 92/02/15 |
+
+| Purchase of Linen | 92/03/01 |
+
+| Purchase and installation of an in-ground swimming pool | 92/06/01 |
+
+**Ruling requested**
+
+Which property and services outlined above can be included in the "total tax paid by the particular individual" for purposes of the GST new housing rebate for owner-built homes?
+
+**Ruling given**
+
+Since the rebate claim was filed within two years of the earlier of substantial completion and occupancy of the home, the following property and services would be considered eligible costs in respect of the qualifying land, interest and improvements that may be included in determining the total tax paid by the particular individual for purposes of the GST new housing rebate for owner-built homes:
+
+- Option
+
+- Architectural fees
+
+- Land
+
+- Rentals of equipment directly related to the construction of the home
+
+- Legal fees related to the purchase of the land and the construction of the home
+
+- Building materials and building permits
+
+- Contractor's and Subcontractor's services for constructing the home
+
+- Drilling of water well
+
+- Connection and installation of electrical power
+
+- Installation and supply of a septic system
+
+- Hook-up of natural gas
+
+- Purchase and installation of a built-in air conditioner and a built-in water-purifier
+
+- Leveling, sodding and landscaping
+
+- Purchase and installation of wall to wall carpeting (not area carpeting)
+
+- Construction of a patio and an open deck
+
+- Purchase and installation of drapery hardware affixed to the complex
+
+- Construction of a detached garage
+
+- Purchase and installation of light and bathroom fixtures
+
+- Pavement of the driveway
+
+- Purchase and installation of a pre-wired security system
+
+- Purchase and installation of a built-in vacuum cleaner
+
+- Purchase and installation of an in-ground swimming pool
+
+The following property and services are not included in the total tax paid by the particular individual for purposes of the GST new housing rebate for owner-built homes because they are not considered improvements within the meaning of the Act:
+
+- Purchase of power tools to be used in the construction of the home;
+
+- Legal fees related to financing;
+
+- Purchase of area rugs;
+
+- Purchase of custom made draperies and blinds;
+
+- Moving expenses;
+
+- Pesticides and weed spraying ;
+
+- Purchase and installation of free standing appliances and furniture;
+
+- Purchase of a television and a sound system;
+
+- Purchase of art work and home decorations which are not fixtures;
+
+- Purchase of linen.

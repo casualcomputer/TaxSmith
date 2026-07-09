@@ -1,0 +1,276 @@
+---
+title: "Harmonized Sales Tax for Ontario - Point-of-Sale Rebate on Prepared Food and Beverages"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-064/harmonized-sales-tax-ontario-point-sale-rebate-on-prepared-food-beverages.html
+last_modified: 2024-12-18
+---
+# Harmonized Sales Tax for Ontario - Point-of-Sale Rebate on Prepared Food and Beverages
+
+GST/HST Info Sheet GI-064 July 2010
+
+**Note:**This GST/HST Info Sheet replaces the version dated February 2010.
+
+The Government of Ontario has introduced a harmonized sales tax (HST) which came into effect on July 1, 2010. The HST rate is 13% of which 5% represents the federal part and 8% the provincial part.
+
+This information sheet reflects tax changes included in Part 4 of the [Regulations Amending Various GST/HST Regulations](http://canadagazette.gc.ca/rp-pr/p2/2010/2010-06-30-x4/pdf/g2-144x4.pdf#page=2) (SOR/2010-152).
+
+The Government of Ontario provides a point-of-sale rebate of the provincial part of the HST payable on qualifying prepared food and beverages. The Canada Revenue Agency (CRA) administers the rebate on behalf of the Government of Ontario.
+
+Please refer to the following GST/HST Info Sheets for information on point-of-sale rebates on other qualifying goods in Ontario:
+
+- [GI-060, Harmonized Sales Tax for Ontario – Point-of-Sale Rebate on Newspapers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-060.html);
+
+- [GI-062, Harmonized Sales Tax for Ontario, British Columbia and Nova Scotia – Point-of-Sale Rebate on Feminine Hygiene Products](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-062.html);
+
+- [GI-063, Harmonized Sales Tax for Ontario, British Columbia and Nova Scotia – Point-of-Sale Rebate on Children's Goods](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-063.html);
+
+- [GI-065, Harmonized Sales Tax for Ontario and British Columbia – Point-of-Sale Rebate on Books](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-065.html).
+
+In this publication:
+
+"Consumer" means an individual who acquires qualifying prepared food or beverages for the individual's personal consumption or use, or for the personal consumption or use of another individual.
+
+"Provincial part of the HST" means the 8% Ontario part of the HST.
+
+"Qualifying prepared food and beverages" means goods designated by the Government of Ontario as qualifying prepared food and beverages and satisfying prescribed conditions. More information is available under the heading "Goods qualifying for the rebate".
+
+"Rebate" means the point-of-sale rebate of the provincial part of the HST payable on qualifying prepared food and beverages, which is provided by the Government of Ontario.
+
+"Recipient" of qualifying prepared food and beverages means the person who is liable to pay for the prepared food and beverages. When no amount is due, it means the person to whom the prepared food and beverages are delivered or made available.
+
+"Registrant" means a person who is registered, or is required to be registered, for GST/HST purposes.
+
+"Single serving" of beverages means a serving in any amount that is less than 600 mL in volume.
+
+"Single serving" of ice cream, ice milk, sherbet, frozen yoghurt or frozen pudding, non-dairy substitutes for any of the foregoing, or any product that contains any of the foregoing means a serving in any amount that is less than 500 mL in volume or 500 grams in weight.
+
+"Single serving" of cakes, muffins, pies, pastries, tarts, cookies, doughnuts, brownies, croissants with sweetened filling or coating, or similar products means a serving weighing less than 230 grams or a portion or part of any of these goods when offered for sale as a single serving.
+
+"Zero-rated" means subject to the GST/HST at the rate of 0%.
+
+## Who is eligible for the rebate
+
+The rebate is available to all recipients of qualifying prepared food and beverages sold in Ontario.
+
+If you are not sure whether you are eligible for a rebate, you may ask for a written ruling or interpretation, or call a GST/HST rulings centre at 1-800-959-8287. See GST/HST [Memorandum 1.4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-3.html), for more information.
+
+### Goods qualifying for the rebate
+
+The rebate is available on qualifying prepared food and beverages sold in Ontario that are ready for immediate consumption. The total price, excluding HST, must not be more than $4 for all qualifying prepared food and beverages sold to a person at a particular time. Goods that are not qualifying prepared food and beverages sold in a single transaction together with qualifying prepared food and beverages, are ignored for purposes of calculating the $4 limit.
+
+The rebate is available regardless of whether the qualifying prepared food and beverages are consumed on or off the premises of the establishment where sold.
+
+The following goods are qualifying prepared food and beverages for purposes of the rebate:
+
+- food or beverages heated for consumption;
+
+- salads not canned or vacuum sealed;
+
+- sandwiches and similar products other than when frozen;
+
+- platters of cheese, cold cuts, fruit or vegetables, and other arrangements of prepared food;
+
+- cakes, muffins, pies, pastries, tarts, cookies, doughnuts, brownies, croissants with sweetened filling or coating, or similar products where they are not prepackaged for sale to consumers and are sold as single servings in quantities of less than six;
+
+- ice cream, ice milk, sherbet, frozen yoghurt or frozen pudding, non-dairy substitutes for any of the foregoing, or any product that contains any of the foregoing, sold in single servings and not prepackaged;
+
+- other food items excluded from zero-rated GST/HST treatment as basic groceries solely by virtue of the types of sales made at the establishment where they are sold (e.g., a sale of a bagel or a plain croissant in a restaurant);
+
+- non-carbonated beverages when dispensed at the place where they are sold; or
+
+- any of the following beverages, the supply of which is not a zero-rated supply
+
+- milk (flavoured or unflavoured),
+
+- soy, rice or almond-based beverages or other similar non-dairy substitutes for milk, or
+
+- non-carbonated fruit juice beverages or fruit flavoured beverages, other than milk-based beverages, that contain 25% or more by volume of a natural fruit juice or combination of natural fruit juices or of a natural fruit juice or combination of natural fruit juices that have been reconstituted into the original state.
+
+- the following when sold with a qualifying food or beverage item above
+
+- carbonated beverages dispensed at the place where they are sold,
+
+- other beverages (including carbonated beverages not dispensed) except if the cans, bottles or other primary containers in which they are sold contain a quantity exceeding a single serving or they are packaged in multiples of single servings;
+
+- the following when sold with a qualifying food or beverage item above for a single consideration
+
+- cakes, muffins, pies, pastries, tarts, cookies, doughnuts, brownies, croissants with sweetened filling or coating, or similar products where they are prepackaged for sale to consumers in quantities of less than six items each of which is a single serving,
+
+- ice cream, ice milk, sherbet, frozen yoghurt or frozen pudding, non-dairy substitutes for any of the foregoing, or any product that contains any of the foregoing, when packaged and sold in single servings, or
+
+- other snack foods such as chips, salted nuts, popcorn, candies, fruit bars, granola bars. [Footnote1](#fn1)
+
+For information on food items that are excluded from zero-rated GST/HST treatment as basic groceries and the meaning of establishment, see GST/HST [Memorandum 4.3, Basic Groceries](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-3.html).
+
+The goods listed below are **not** qualifying beverages for purposes of the rebate. Therefore, no rebate is available in respect of the provincial part of the HST payable on these goods:
+
+- wine;
+
+- spirits;
+
+- beer;
+
+- malt liquor; or
+
+- other alcoholic beverages.
+
+### How to claim the rebate
+
+Recipients of qualifying prepared food and beverages sold in Ontario receive their rebate by:
+
+- being paid or credited the rebate amount by the registrant supplier (e.g., a retailer) at the point of sale; or
+
+- filing a rebate claim with the CRA.
+
+#### Rebate amount paid or credited by registrant suppliers
+
+Generally, recipients of qualifying prepared food and beverages sold in Ontario automatically have their rebate paid or credited to them at the point of sale by the registrant supplier that sold the prepared food and beverages to them.
+
+The rebate amount that a registrant supplier pays or credits to the recipient is equal to the amount of the provincial part of the HST payable by the recipient on the sale of the qualifying prepared food and beverages.
+
+A registrant supplier that pays or credits the rebate amount at the point of sale collects only the 5% federal part of the HST on the sale of the qualifying prepared food and beverages. Information on how a registrant supplier discloses the rebate amount paid or credited is available under the heading "How registrant suppliers show the rebate on their invoices".
+
+The owner of a lunch counter in Ontario sells a prepared salad to a consumer for $3.50. The prepared salad is not canned or vacuum sealed.
+
+The prepared salad sold for a total of $4.00 or less is a qualifying prepared food for purposes of the rebate. As a result, the owner of the lunch counter collects only the 5% federal part of the HST and pay or credit the rebate of the 8% provincial part of the HST to the consumer at the point of sale.
+
+The owner of a dairy bar in Ontario sells a 325 gram single serving of machine-dispensed ice cream to a consumer for $1.99.
+
+The single-serving machine-dispensed ice cream sold for a total of $4.00 or less is a qualifying prepared food for purposes of the rebate. As a result, the owner of the dairy bar collects only the 5% federal part of the HST and pay or credit the rebate of the 8% provincial part of the HST to the consumer at the point of sale.
+
+The owner of a restaurant in Ontario sells a cheeseburger for $2.99 and a 355 mL can of diet soda for $0.99 to a consumer. The total price is $3.98.
+
+The cheeseburger is a qualifying prepared food for purposes of the rebate. Because the diet soda is sold together with a qualifying prepared food, it is a qualifying beverage for purposes of the rebate. As the total price for the two items is not more than $4.00, the restaurant collects only the 5% federal part of the HST and pay or credit the rebate of the 8% provincial part of the HST to the consumer at the point of sale.
+
+A vendor in an Ontario shopping mall sells a 591 mL bottle of soda and a bag of potato chips to a consumer for $3.00.
+
+The soda and potato chips are not a qualifying beverage or a qualifying prepared food for purposes of the rebate. As a result, the vendor collects the 13% HST and does not pay or credit the 8% provincial part of the HST to the consumer.
+
+A grocery store in Ontario sells a sandwich and drink combo consisting of a roast beef sandwich and a 350 mL bottle of apple juice for $3.50, a loaf of bread for $3.00, and a box of cat litter for $9.95 to a consumer.
+
+The sandwich and drink combo are a qualifying prepared food and a qualifying beverage for purposes of the rebate. As the total price for the combo is not more than $4.00, the grocery store collects only the 5% federal part of the HST and pay or credit the rebate of the 8% provincial part of the HST to the consumer at the point of sale. The sale of the bread and cat litter is ignored for purposes of the rebate.
+
+### Filing rebate claims with the CRA
+
+If the registrant supplier does not pay or credit the rebate amount at the point of sale, then the recipient of the qualifying prepared food and beverages sold in Ontario can file a rebate claim with the CRA using [Form GST189, General Application for Rebate of GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html).
+
+The rebate amount that the CRA pays to the recipient will equal the amount of the provincial part of the HST that the recipient paid on the sale of the qualifying prepared food and beverages. The recipient has to file Form GST189 within four years after the day the provincial part of the HST became payable.
+
+If the registrant supplier does not pay or credit the rebate amount at the point of sale and the recipient of the qualifying prepared food and beverages sold in Ontario is a registrant acquiring the prepared food and beverages for use or supply in the course of a commercial activity, then the recipient can claim an input tax credit (ITC) to recover the 5% federal part of the HST paid. The recipient has to file a rebate claim, using Form GST189, to recover the 8% provincial part of the HST paid. The recipient has to file this form within four years after the day the provincial part of the HST became payable.
+
+On December 15, 2010, a restaurant owner in Ontario sells a slice of pizza for $2.50 and a 355 mL size cup of coffee to a consumer for $1.50. The total price is $4.00.
+
+The slice of pizza is a qualifying prepared food for purposes of the rebate. Because the coffee is heated for consumption, it is a qualifying beverage for purposes of the rebate.
+
+The restaurant owner collects the 13% HST and does not pay or credit the rebate of the 8% provincial part of the HST at the point of sale. The consumer can file a rebate claim with the CRA for the 8% provincial part of the HST paid to the restaurant. The consumer has until December 15, 2014, to file this rebate claim.
+
+On August 1, 2010, a grocery store owner in Ontario sells a ham sandwich to a customer for $3.75. Both the grocery store owner and the customer are registrants. The customer buys the sandwich for consumption in the course of the person's commercial activities. The ham sandwich is a qualifying prepared food for purposes of the rebate.
+
+The grocery store owner collects the 13% HST and does not pay or credit the rebate of the 8% provincial part of the HST at the point of sale. The customer can claim an ITC to recover the 5% federal part of the HST paid to the grocery store owner. The customer can also file a rebate claim with the CRA for the 8% provincial part of the HST paid to the grocery store owner. The customer has until August 1, 2014, to file this rebate claim.
+
+Under existing GST/HST rules, a registrant recipient may be required to recapture a portion of the amount claimed as an ITC on food and beverages. Refer to GST/HST [Memorandum 8.2, General Restrictions and Limitations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-2.html), for more information.
+
+### How registrant suppliers show the rebate on their invoices
+
+When disclosing the HST on an invoice or receipt issued in respect of a sale of qualifying prepared food and beverages to which the registrant supplier has paid or credited the rebate amount at the point of sale, the registrant supplier may show:
+
+- the total amount of the HST payable (or the total HST rate) with the rebate amount paid or credited shown separately;
+
+- the total HST payable as an amount net of the rebate amount paid or credited; or
+
+- the total price of the qualifying prepared food and beverages that includes HST at a net rate of 5%.
+
+A retailer in Ontario sells a meal consisting of qualifying prepared food and a qualifying beverage for $4.00 and pays or credits the rebate amount of $0.32 ($4.00 × 8% = $0.32) at the point of sale. The retailer has the following three options for disclosing the total HST payable and the rebate amount paid or credited:
+
+| Price of meal | $4.00 |
+
+| --- | --- |
+
+| HST @ 13% | $0.52 |
+
+| Subtotal | $4.52 |
+
+| Rebate @ 8% | $0.32 |
+
+| Amount due | $4.20 |
+
+or
+
+| Price of meal | $4.00 |
+
+| --- | --- |
+
+| HST | $0.20 |
+
+| Amount due | $4.20 |
+
+or
+
+| Price of meal | $4.20 |
+
+| --- | --- |
+
+| 5% HST included |  |
+
+If the recipient in the above example were a registrant that would be eligible to claim an ITC to recover the tax paid or payable on the purchase of the meal, the maximum ITC available would be $0.20 (i.e., the 5% federal part of the HST). This amount appears only on the second invoice. In the case of the first and third invoices, the recipient has to calculate 5% of $4.00 (i.e., $4.00 × 5% = $0.20) or 5/105 of $4.20 (i.e., $4.20 × 5/105 = $0.20), respectively, to determine the amount that may be claimed as an ITC.
+
+Under existing GST/HST rules, a registrant recipient may be required to recapture a portion of the amount claimed as an ITC on food and beverages. Refer to GST/HST [Memorandum 8.2, General Restrictions and Limitations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-2.html), for more information.
+
+For information on invoicing requirements for registrants, see [Guide RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+### How registrant suppliers account for the rebate on their GST/HST returns
+
+A registrant supplier that pays or credits the rebate amount at the point of sale has two options for accounting for the rebate amount on its GST/HST return.
+
+First, the registrant supplier may account for the total HST collected or collectible (i.e., 13% for Ontario) on line 103 of the return, and claim an adjustment for the rebate amount paid or credited on line 107.
+
+Second, the registrant supplier may show the net amount as the HST collected or collectible (i.e., 5%) on line 103, and not claim an adjustment for the rebate amount paid or credited on line 107.
+
+A restaurant owner in Ontario sells a qualifying prepared food and a qualifying beverage for $4.00 and credits the rebate amount of $0.32 ($4.00 × 8% = $0.32) at the point of sale. The restaurant owner collects the 5% federal part of the HST of $0.20 ($4.00 × 5% = $0.20) payable on the sale.
+
+With respect to accounting for this particular sale on its GST/HST return, the restaurant owner may show the 13% HST collectible of $0.52 ($4.00 × 13% = $0.52) on line 103, and claim an adjustment for the rebate amount credited ($0.32) on line 107, as follows:
+
+| Sales and other revenue (line 101): | $4.00 |  |
+
+| --- | --- | --- |
+
+| GST/HST collected or collectible (line 103) | $0.52 |  |
+
+| Adjustments (line 104) | 0 |  |
+
+| Total GST/HST/adjustments (line 105) |  | $0.52 |
+
+| ITCs (line 106) | 0 |  |
+
+| Adjustment (line 107) | $0.32 |  |
+
+| Total ITCs /adjustments (line 108) |  | $0.32 |
+
+| Net tax (line 109) |  | $0.20 |
+
+Or, the restaurant owner may show the net amount collectible ($0.52 – $0.32 = $0.20) on line 103, and not claim an adjustment for the rebate amount credited on line 107, as follows:
+
+| Sales and other revenue (line 101): | $4.00 |  |
+
+| --- | --- | --- |
+
+| GST/HST collected or collectible (line 103) | $0.20 |  |
+
+| Adjustments (line 104) | 0 |  |
+
+| Total GST/HST/adjustments (line 105) |  | $0.20 |
+
+| ITCs (line 106) | 0 |  |
+
+| Adjustment (line 107) | 0 |  |
+
+| Total ITCs /adjustments (line 108) |  | 0 |
+
+| Net tax (line 109) |  | $0.20 |
+
+For information on completing a GST/HST return, see [Guide RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+This info sheet does not replace the law found in *the Excise Tax Act* (the Act) and its regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate regulation, or contact any CRA GST/HST rulings office for additional information. A ruling should be requested for certainty in respect of any particular GST/HST matter. [Pamphlet RC4405, GST/HST Rulings – Experts in GST/HST Legislation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4405.html), explains how to obtain a ruling and lists the GST/HST rulings offices. If you wish to make a technical enquiry on the GST/HST by telephone, please call 1-800-959-8287.
+
+If you are located in Quebec and wish to make a technical enquiry or request a ruling related to the GST/HST, please contact Revenu Québec by calling 1-800-567-4692. You may also visit their Web site at [www.revenu.gouv.qc.ca](http://www.revenuquebec.ca/en/) to obtain general information.
+
+All technical publications related to GST/HST are available on the CRA Web site at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).

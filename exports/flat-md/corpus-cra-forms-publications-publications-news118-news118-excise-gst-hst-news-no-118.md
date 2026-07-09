@@ -1,0 +1,312 @@
+---
+title: "Excise and GST/HST News – No. 118"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news118/news118-excise-gst-hst-news-no-118.html
+last_modified: 2025-01-14
+---
+# Excise and GST/HST News – No. 118
+
+January 2025
+
+## Table of Contents
+
+- [Tla'amin Nation: End of a First Nations tax - Sliammon Community Improvement Fee](#toc0)
+
+- [Employer ITCs and Pension Plans Funded by Variable Insurance Contracts](#toc1)
+
+- [Changes to the documentary requirements for claiming input tax credits](#toc2)
+
+- [Change to threshold amount for financial institutions](#toc3)
+
+- [Refund of Excise Tax for Provinces Without a Reciprocal Taxation Agreement with the Government of Canada](#toc4)
+
+- [Mandatory electronic filing](#toc5)
+
+    - [How to file electronically](#toc6)
+
+- [Your business mail is going online](#toc7)
+
+    - [How to prepare for this change](#toc8)
+
+    - [Business correspondence](#toc9)
+
+    - [Exceptions](#toc10)
+
+    - [Benefits of going digital](#toc11)
+
+    - [Improvements to My Business Account's digital mail feature](#toc12)
+
+    - [Requesting paper mail](#toc13)
+
+- [Prescribed rates of interest](#toc14)
+
+- [Forms and publications](#toc15)
+
+- [Contact us](#toc16)
+
+## Tla'amin Nation: End of a First Nations tax - Sliammon Community Improvement Fee
+
+On September 1, 1999, the [First Nations tax](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-indigenous-peoples/first-nations-tax.html) (FNT) known as the Sliammon Community Improvement Fee took effect on Sliammon First Nation's reserves. The FNT was imposed on sales of fuel and tobacco products.
+
+The Tla'amin Nation, formerly known as the Sliammon First Nation, entered into the Tla'amin Final Agreement which came into effect on April 5, 2016. Under the Agreement, the FNT continued to apply on Former Sliammon Indian Reserves[Footnote1](#fn1)as if the Tla'amin Nation were still an Indian band. Per the Agreement, the FNT would cease to apply on May 1, 2024, unless the FNT was terminated beforehand.
+
+Effective May 1, 2024, the FNT is no longer imposed on Former Sliammon Indian Reserves. Instead, as of that date, the GST applies to taxable supplies of fuel and tobacco products.
+
+Individuals registered under the [Indian Act](https://laws-lois.justice.gc.ca/eng/acts/i-5/) are eligible for the relief of the GST on purchases of fuel and tobacco products made on Former Sliammon Indian Reserves when the requirements described in [GST/HST Technical Information Bulletin B-039, GST/HST Administrative Policy – Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html) are met.
+
+For more information, refer to [GST/HST Notice 328, The Continuation of GST/HST Relief for Tla'amin Citizens](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice328.html).
+
+## Employer ITCs and Pension Plans Funded by Variable Insurance Contracts
+
+Employers often act as sponsors and/or legal administrators of pension plans that they establish for the benefit of their employees. Sometimes employers will satisfy their plan administration obligations by acquiring variable insurance contracts (Policies) from insurers to fund their pension plans. This article discusses Canada Revenue Agency's position on whether employers are eligible to claim an input tax credit (ITC) in relation to a fee that may be applied under those Policies.
+
+Subsection 169(1) of the *Excise Tax Act* (ETA) generally provides that a GST/HST registrant is eligible to claim an ITC for the GST/HST paid or payable on property and services based on the extent to which the property or service is acquired for consumption, use or supply in the course of the registrant's commercial activities. The GST/HST in respect of the supply must also have been paid or become payable by the registrant.
+
+Accordingly, in order to be eligible to claim an ITC in respect of a particular supply, an employer must generally be able to demonstrate that it acquired the particular supply, that it did so for consumption, use or supply in the course of its commercial activities, and that it was the recipient that was liable to pay the consideration (and related GST/HST) for the supply. Certain other conditions for claiming an ITC, such as documentary requirements, must also be satisfied.
+
+In the course of administering a pension plan, an employer will typically acquire services from various third parties, and such acquisitions may be evidenced by written contracts. For example, an employer may enter into a Policy with an insurer for purposes of funding the employer's pension plan. Generally, under a Policy, the employer pays premiums to the insurer, often referred to as "contributions", and in return the insurer pays claims, often referred to as "benefits", when plan members satisfy certain requirements. The Policy also typically provides that the premiums paid to the insurer by the employer may be invested in various segregated investment funds, which are owned by the insurer. The insurer's liabilities under the Policy generally fluctuate with the market value of the segregated fund assets.
+
+Where this is the case, the Policy itself will fall within subparagraph (a)(iii) of the definition of an **insurance policy** found in subsection 123(1) of the ETA. This subparagraph applies to a contract issued by an insurer where all or part of the insurer's reserves for such contract vary depending on the value of segregated fund assets. Generally, the issuance of the Policy by an insurer is an exempt supply of a financial service, and as such the premiums payable by the employer are exempt from the GST/HST.
+
+It is a question of fact whether, under the Policy (or another agreement), the insurer supplies additional services to the employer other than those considered to form part of the supply of insurance, and whether the employer is liable to pay separate consideration for such services.
+
+In the case of a Policy, certain investment management fees may be deducted from the insurer's segregated funds, and both the funds and the fees may be referenced in the Policy. The fees are deducted from funds which are owned by the insurer. Where the investment management fees are deducted from the segregated funds, and the employer is not liable under the Policy (or another agreement) to pay the investment management fees, the employer generally is not the recipient of the services, and has not received a supply from the insurer. As such, the employer would not be eligible to claim ITCs in respect of the investment management fees. However, the application of the GST/HST may vary depending on the specific facts and circumstances of a particular arrangement.
+
+## Changes to the documentary requirements for claiming input tax credits
+
+GST/HST registrants must provide specific information on invoices, receipts, contracts, or other documentation when supplying taxable property and services to purchasers who wish to claim an input tax credit for the tax they pay or owe on their business purchases. Without the required information, the Canada Revenue Agency may deny the purchasers' claims.
+
+The following table outlines the information that a purchaser needs to support a claim for an input tax credit.
+
+Previously, the specific information required to support a claim in respect of a particular purchase depended on whether the amount payable on the purchase (before tax) was under $30, between $30 and $149.99, or $150 or more. Due to legislative changes that have become law, the thresholds of $30 and $150 have been replaced by $100 and $500, effective April 20, 2021.
+
+| Information required | Total sale under $100 (previously $30) | Total sale of $100 to $499.99 (previously $30 to $149.99) | Total sale of $500 or more (previously $150) |
+
+| --- | --- | --- | --- |
+
+| Supplier's business or trading name, or its **intermediary's*** name | yes | yes | yes |
+
+| The invoice date or, if **no** invoice is issued, the date on which the GST/HST is paid or payable | yes | yes | yes |
+
+| The total amount paid or payable | yes | yes | yes |
+
+| An indication of the total amount of the GST/HST charged or that the amount paid or payable for each taxable supply (other than a zero-rated supply) includes the GST/HST at the applicable rate | no | yes | yes |
+
+| An indication of the status of each supply where the invoice includes **both** taxable and exempt supplies | no | yes | yes |
+
+| The supplier or intermediary's GST/HST registration number | no | yes | yes |
+
+| The buyer's name or trading name or the name of the buyer's authorized agent or representative | no | no | yes |
+
+| A brief description of the property or services | no | no | yes |
+
+| The terms of payment | no | no | yes |
+
+* An **intermediary** is a registrant who, acting as a supplier's agent or under an agreement with the supplier, causes or facilitates the making of a supply by the supplier, or a billing agent that is deemed to have acted as the supplier's agent in making a supply.
+
+## Change to threshold amount for financial institutions
+
+The proposed amendment to paragraph 273.2(2)(c) of the *Excise Tax Act* to increase the income threshold from $1 million to $2 million for a person to be a reporting institution was announced on August 9, 2022. This amendment was contained in [Bill C-59, Fall Economic Statement Act, 2023](https://www.parl.ca/LegisInfo/en/bill/44-1/c-59) which received royal assent on June 20, 2024 and is now law. The increased income threshold applies to fiscal years ending after August 9, 2022. The Government of Quebec has proposed that a corresponding amendment to increase the income threshold be made to section 350.0.2 of the [Act respecting the Québec sales tax](https://www.legisquebec.gouv.qc.ca/en/document/cs/T-0.1?&target=) for fiscal years ending after August 9, 2022.
+
+A financial institution that is a GST/HST registrant and has annual income of over $2 million will generally be a reporting institution and be required to file [Form GST111, Financial Institution GST/HST Annual Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst111.html). A financial institution that is a registrant for both GST/HST and QST purposes, that is a selected listed financial institution for GST/HST or QST purposes or both and that has annual income over $2 million will generally be required to file [Form RC7291, GST/HST and QST Annual Information Return for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7291.html). Financial institutions that are reporting institutions are required to file Form GST111 or Form RC7291 in addition to their regular returns.
+
+## Refund of Excise Tax for Provinces Without a Reciprocal Taxation Agreement with the Government of Canada
+
+Section 68.19 of the *Excise Tax Act* provides relief from the federal excise tax on motive fuels, fuel inefficient vehicles, and automotive air conditioners purchased or imported by a province that does not have a reciprocal taxation agreement with the Government of Canada. If excise tax has been paid on these goods, a refund equal to the amount of the tax may be available to either the province that purchased or imported the goods or its dealer.
+
+[Bill C-59, Fall Economic Statement Act, 2023](https://www.parl.ca/legisinfo/en/bill/44-1/c-59), which received royal assent on June 20, 2024, includes amendments clarifying that only the province may claim such refunds of excise tax unless the province and the dealer jointly make an election designating that only the dealer of the goods be entitled to claim the refunds. This measure applies to goods purchased or imported by a province on or after January 1, 2022.
+
+For more information, refer to [Excise Taxes and Other Levies Notice ETSL80, Refund of Federal Excise Tax for Goods Purchased or Imported by a Province Without a Reciprocal Taxation Agreement With the Government of Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/etsl80.html).
+
+## Mandatory electronic filing
+
+The mandatory electronic filing threshold for GST/HST returns was eliminated for reporting periods that begin on or after January 1, 2024. That means that most GST/HST registrants, other than selected listed financial institutions and most charities, must file their GST/HST returns electronically.
+
+For GST/HST registrants that file annually, this will apply to their 2024 returns that are due in 2025.
+
+GST/HST registrants who are required to file electronically and fail to do so are liable for a penalty for each failure and the penalty will apply even if the GST/HST return is a nil or credit return.
+
+For more information on penalties, go to [GST/HST – Penalties and interest](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/file-gst-hst-return/reporting-requirements-deadlines/gst-hst-filing-penalties.html).
+
+### How to file electronically
+
+The Canada Revenue Agency offers many digital services, such as [GST/HST NETFILE, My Business Account](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/file-gst-hst-return/how-file/using-online-netfile-form.html), mobile apps, and additional services for businesses to easily manage their tax affairs.
+
+For more information on how to electronically file a GST/HST return, go to [File a GST/HST return, rebate or election electronically](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/file-a-gst-hst-return-rebate-election-electronically.html).
+
+## Your business mail is going online
+
+Starting as early as spring 2025, the Canada Revenue Agency (CRA) will transition to online mail as the default method of delivering most business correspondence. This means you'll start receiving most of your business notices and other correspondence through CRA's secure online portal, [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), instead of by paper mail.
+
+This change applies to:
+
+- All new business number and program account registrations.
+
+- All existing businesses registered for My Business Account.
+
+- All businesses who have given access to a representative to access these services on their behalf via Represent a Client.
+
+This change is part of the CRA's ongoing efforts to improve service delivery by making it faster, easier, and more secure for businesses to manage their tax obligations online. Going online means businesses will need to sign in to My Business Account to receive important pieces of correspondence, such as notices of assessment.
+
+### How to prepare for this change
+
+To prepare for the switch to online mail, the CRA recommends signing into My Business Account and making sure your email address is up to date. This allows the CRA to notify you when important changes are made on your account and when you have online mail to view in My Business Account. Without an updated email address, you may miss important notifications about updates and correspondence.
+
+Owners of new businesses should register for My Business Account and provide a valid email address so they do not miss notifications about updates and correspondence.
+
+### Business correspondence
+
+Business correspondence refers to notices, letters, forms, statements, and other documents that the CRA sends to communicate important information about your business tax accounts or returns.
+
+With the change to online mail, your business correspondence will be considered as received on the date that it is posted to your My Business Account.
+
+### Exceptions
+
+Existing businesses not registered for My Business Account through the business owner or an authorized representative (via Represent a Client) will continue to receive their CRA correspondence by paper mail.
+
+Charities will continue to receive their CRA correspondence by paper mail unless they sign up to receive their CRA mail online.
+
+Non-resident businesses that do not have access to My Business Account through their representative or an owner that is a Canadian resident will continue to receive their correspondence by paper mail.
+
+### Benefits of going digital
+
+The CRA's digital services make handling your business tax matters faster and easier. You and your authorized representatives can file, pay, and access detailed information about your tax accounts. Switching to digital correspondence ensures a more efficient, secure, and eco-friendly approach to handling your businesses tax obligations. By using the CRA's digital services, businesses can:
+
+- enable quicker communication with the CRA, making it easier to get updates and support
+
+- receive earlier confirmation for tax information
+
+- manage business taxes quickly and easily from a computer or mobile device
+
+- help reduce paper use, contributing to a cleaner and greener future by cutting down on waste
+
+To learn more about the CRA's digital services, go to [Digital services](https://www.canada.ca/en/revenue-agency/services/e-services.html) and the tax tip: [Looking for the fastest and easiest way to view and manage your business taxes online? Use our digital services!](https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2024/looking-fastest-easiest-way-view-manage-business-taxes-online-use-our-digital-services.html)
+
+### Improvements to My Business Account's digital mail feature
+
+My Business Account is a secure online portal that gives you access to a range of tools to help manage your business' tax affairs. You can register using a CRA user ID and password or through a sign-in partner. To make managing your business tax correspondence even easier, the CRA has enhanced the "Mail" service in My Business Account with the following new features:
+
+- Improved message filtering and sorting, allowing you to quickly find and organize important correspondence
+
+- A new **Access services** button for easy navigation to other communication services
+
+- A new **Reply** feature for audit enquiries, simplifying the process of responding to the CRA
+
+- A new **Switch business account** button for managing multiple business accounts
+
+- A new **Proceed to pay** button for direct access to the payment process
+
+- A new **Submit document** button for easily submitting required documents
+
+For more information on new improvements to My Business Account and the registration process, go to [About My Business Account - What's new](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account/about-business-account.html) and [Registration process to access the CRA sign-in services](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/register-cra-sign-in-services.html).
+
+### Requesting paper mail
+
+If a business wants to receive correspondence by paper mail, they have to make a request to activate paper mail using one of the following options:
+
+- Complete form RC681 (Form will be available in May 2025) – Request to Activate Paper Mail for Business and send it to the CRA.
+
+- Through My Business Account.
+
+For more information, go to [Online mail for business](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account/about-business-account/online-mail-for-business.html).
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from October 1, 2024, to December 31, 2024 on overdue amounts payable to the Minister is 9%. The prescribed annual rate of interest on amounts owed by the Minister (such as, rebates or refunds) is 5% for corporate taxpayers and 7% for non-corporate taxpayers. These rates are applicable to income tax, excise taxes, GST/HST, underused housing tax (UHT), air travellers security charge (ATSC), luxury tax, fuel charge (under the *Greenhouse Gas Pollution Pricing Act*) and excise duties on wine, spirits, tobacco, cannabis and vaping products.
+
+The prescribed annual rate of interest respecting excise duty on beer products, on overdue amounts payable for the indicated period, is set at 7%. Refund interest rates are not applicable for amounts owed by the Minister (such as, rebates or refunds) for excise duty that is in relation to beer products.
+
+| PERIOD | October 1, 2024 to December 31, 2024 | July 1, 2024 to September 30, 2024 | April 1, 2024 to June 30, 2024 | January 1, 2024 to March 31, 2024 |
+
+| --- | --- | --- | --- | --- |
+
+| Refund Interest Corporate Taxpayers | 5% | 5% | 6% | 6% |
+
+| Refund Interest Non-Corporate Taxpayers | 7% | 7% | 8% | 8% |
+
+| Arrears and Instalment Interest | 9% | 9% | 10% | 10% |
+
+| PERIOD | October 1, 2024 to December 31, 2024 | July 1, 2024 to September 30, 2024 | April 1, 2024 to June 30, 2024 | January 1, 2024 to March 31, 2024 |
+
+| --- | --- | --- | --- | --- |
+
+| Arrears Interest Excise duty - beer products | 7% | 7% | 8% | 8% |
+
+Prescribed interest rates for previous years are available on Canada.ca at [Prescribed interest rates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## Forms and publications
+
+All GST/HST, underused housing tax, luxury tax, fuel charge, excise duties, and excise taxes and other levies technical publications can be found on the [Technical tax information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information.html) webpage on Canada.ca. To access all forms and publications, go to [Forms and publications - CRA](https://www.canada.ca/en/revenue-agency/services/forms-publications.html), and for a list of new and revised publications, go to the [Canada Revenue Agency publications listed by number](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications.html) webpage. To access guides, returns and elections relating to the GST/ HST, go to [GST/HST-related forms and publications](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/forms-publications.html).
+
+To receive email notification as soon as a document is published on the Canada.ca website, go to [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribe to the RSS feed for all new CRA publications and forms, or subscribe to any number of mailing lists for different types of publications.
+
+## Contact us
+
+**Enquiries regarding programs administered by the Excise and Specialty Tax Directorate**
+
+For information about how to make a general or technical enquiry relating to excise duties, excise taxes and other levies (including the air travellers security charge), the fuel charge or the luxury tax or to enquire about your account or the processing status of a return or related refund or rebate application, refer to [Contact Information – Excise and Specialty Tax Directorate](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/excise-taxes-contacts.html).
+
+### Telephone enquiries
+
+**GST/HST**
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- call Business Enquiries at 1‑800‑959‑5525 for **general enquiries**
+
+- call GST/HST Rulings at 1‑800‑959‑8287 for **technical enquiries**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1‑800‑567‑4692** or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution** (whether or not you are located in Quebec) and require information on the GST/HST or the QST, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- call Business Enquiries at 1‑800‑959‑5525 for **general GST/HST** or **QST enquiries**
+
+- call GST/HST Rulings SLFI at 1‑855‑666‑5166 for technical **GST/HST or QST enquiries**
+
+**Underused housing tax**
+
+For general enquiries about a residential property that is owned by an individual:
+
+- Calls from the U.S. or Canada: 1‑800‑959‑8281
+
+- Calls from elsewhere: 613‑940‑8495 (collect calls accepted)
+
+For general enquiries about a residential property that is owned by a corporation:
+
+- Calls from the U.S. or Canada: 1‑800‑959‑5525
+
+- Calls from elsewhere: 613‑940‑8497 (collect calls accepted)
+
+### Account enquiries
+
+For **general information** about the GST/HST and the underused housing tax and to make **enquiries**regarding your **account**, you can:
+
+- view answers to common enquiries, or submit an enquiry using the online "Enquiries service" on [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html);
+
+- view account information online at [Digital services for businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html)
+
+- call Business Enquiries at 1‑800‑959‑5525.
+
+For **enquiries**regarding the **status of specific GST/HST domestic rebate claims**, call Business Enquiries at 1‑800‑959‑5525.
+
+### Access your account online
+
+For **online access** to your **GST/HST**, **air travellers security charge**, **luxury tax**, **fuel charge**, and **excise tax and duty accounts** (such as viewing up-to-date account balances and transactions, transferring payments and more), go to:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) if you are the business owner
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html) if you are an authorized representative or employee
+
+### Help
+
+For **technical support using our online services**:
+
+- business accounts, call 1‑800‑959‑5525
+
+- teletypewriter users, call 1‑800‑665‑0354
+
+- callers outside of Canada and the United States, call collect at 613‑940‑8497
+
+Please have the screen number (bottom right) and, if applicable, the error number and message received on hand when calling.
+
+The Excise and GST/HST News is published quarterly and highlights recent developments in the administration of the GST/HST, the QST for SLFIs, the First Nations goods and services tax (FNGST) and the First Nations tax (FNT), the air travellers security charge (ATSC), the underused housing tax, the fuel charge, and the luxury tax as well as excise taxes and duties. If you would like to receive a link to each new edition of the Excise and GST/HST News as it is published, subscribe to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-excise-gst-hst-news.html). This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, Excise and GST/HST News, GST/HST Rulings Directorate, Legislative Policy and Regulatory Affairs Branch, CRA, 5th Floor, Place de Ville, 320 Queen Street, Ottawa K1A 0L5.

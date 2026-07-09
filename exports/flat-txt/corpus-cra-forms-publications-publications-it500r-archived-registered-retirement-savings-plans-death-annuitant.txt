@@ -1,0 +1,619 @@
+Title: ARCHIVED - Registered Retirement Savings Plans - Death of an Annuitant
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it500r/archived-registered-retirement-savings-plans-death-annuitant.html
+Corpus path: corpus/cra/forms-publications/publications/it500r/archived-registered-retirement-savings-plans-death-annuitant.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Registered Retirement Savings Plans - Death of an Annuitant
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+|  |  |  |  |  |
+
+| --- | --- | --- | --- | --- |
+
+| NO.: | **IT-500R** |  | DATE: | December 18, 1996 |
+
+| SUBJECT: | INCOME TAX ACT **Registered Retirement Savings Plans -- Death of an Annuitant** |  |  |  |
+
+| REFERENCE: | Section 146 (also section 160.2, subsections 104(6), (12), (13) and (14), 118(3) and (7), 214(3), 248(8) and 252(4), and paragraphs 60(*l*), 118(1)(*c*), 212(1)(*c*) and (*l*) of the *Income Tax Act*) |  |  |  |
+
+### Notice -- Bulletins do not have the force of law
+
+***This document is also available for [download in PDF format](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it500r.html).***
+
+## Application
+
+This bulletin replaces and cancels Interpretation Bulletin IT-500 dated December 7, 1983. The comments in this bulletin generally apply to deaths occurring after 1992.
+
+## Summary
+
+This bulletin discusses the income tax treatment of payments out of a registered retirement savings plan (RRSP) made on or after the death of an annuitant.
+
+Generally, if the annuitant of a matured RRSP dies, the deceased annuitant must include in income an amount equal to the fair market value of all property of the RRSP at death. However, this general rule will not apply if the annuitant's spouse becomes entitled to the annuity. In situations where the spouse is not the beneficiary, the annuity payments must be commuted and the general rule above will apply, unless the payments are made to a financially dependent child or grandchild and qualify as a **refund of premiums**.
+
+Similar to the general rule for matured RRSPs, if the RRSP did not mature before the annuitant's death, the deceased annuitant must include in income an amount equal to the fair market value of all property of the RRSP at death. However, any amount paid as a **refund of premiums** to the deceased's spouse or financially dependent children or grandchildren may be deducted to offset part or all of this income inclusion.
+
+A refund of premiums will generally be taxable in the hands of the recipient but may, in certain circumstances, be rolled over to a beneficiary's RRSP or other tax deferred plan. However, any portion of the refund of premiums included in the deceased's income is not taxable as a benefit to the beneficiary and cannot be transferred to another such plan.
+
+The bulletin also discusses the rollover provisions available to those taxpayers who receive a refund of premiums, whether or not RRSP payments received after the death of the annuitant qualify for the non-refundable tax credit for eligible pension income, and payments and deemed payments from an RRSP to non-residents.
+
+## Discussion and Interpretation
+
+## General
+
+**¶ 1.** The subject matter of this bulletin is arranged under the following headings:
+
+- [Meaning of annuitant](#P80_5221)(¶ 2)
+
+- [Meaning of maturity of an RRSP](#P82_6089) (¶ 3)
+
+- [Meaning of spouse](#P85_7114) (¶ 4)
+
+- [General rule for benefit at death](#P88_7399) (¶ 5)
+
+- [Reduction of benefit at death -- RRSP property receivable by spouse](#P91_7945) (¶s 6-8)
+
+- [Reduction of benefit at death -- Refund of premiums](#P111_12211) (¶ 9)
+
+- [Reduction of benefit at death -- Designated refund of premiums](#P156_16029) (¶s 10-11)
+
+- [Payments out of an RRSP following the annuitant's death](#P160_18952) (¶s 12-13)
+
+- [Joint and several liability for amounts received out of an RRSP](#P170_20685) (¶s 14-16)
+
+- [Refund of premiums -- General comments](#P175_22491) (¶s 17-18)
+
+- [Refund of premiums out of an unmatured RRSP](#P184_24852) (¶s 19-25)
+
+- [Refund of premiums out of a matured RRSP](#P492_37063) (¶ 26)
+
+- [Rollover provisions](#P494_37528) (¶s 27-28)
+
+- [Refund of premiums or commutation payment -- Whether "qualified pension income" or "pension income"](#P509_41293) (¶ 29)
+
+- [Payments and deemed payments to non-residents](#P512_43167) (¶s 30-34)
+
+## Meaning of annuitant
+
+**¶ 2. Annuitant** is defined in subsection 146(1) and basically means the individual for whom a retirement savings plan provides a retirement income. The definition provides that after maturity of an RRSP and following an individual's death, the individual's spouse qualifies as the annuitant when, as a consequence of the individual's death, the spouse becomes entitled to receive benefits out of or under the RRSP. The expression "becomes entitled to" in the definition is considered to apply only to cases where benefits become receivable as a result of the spouse being designated under the RRSP as a beneficiary. This is because, in the absence of such a designation, the spouse cannot enforce payment from the RRSP and the trustees of the estate of the deceased individual do not have the power to effect a valid payment to the spouse personally.
+
+## Meaning of maturity of an RRSP
+
+**¶ 3.** Under subsection 146(1), the maturity of an RRSP occurs at the date fixed under the plan for the commencement of any retirement income, the payment of which is provided for by the plan. Retirement income is usually in the form of monthly annuity payments. Paragraph 146(2)(*b*.4) provides that maturity must occur before the year in which the annuitant becomes 72 years of age.
+
+***Note:** As announced in the March 6, 1996 Federal Budget by the Minister of Finance, it is proposed that the latest time at which an RRSP can mature, or retirement benefits under an RRSP can generally commence, will be the end of the year in which the annuitant become 69 years of age. The proposed change will be deferred for one year for individuals who are 69 years old at December 31, 1996. In addition, the proposed change will not apply to an individual who is 70 years old at December 31, 1996, or to an individual whose RRSP annuity contract has a fixed commencement date and was acquired before March 6, 1996.*
+
+## Meaning of spouse
+
+**¶ 4.** Subsection 252(4) expands the meaning of **spouse** to include certain common-law couples.
+
+The term "spouse" does not include a former spouse. For example, at the time of death, the annuitant may be divorced or the annuitant's spouse may have predeceased the annuitant.
+
+## General rule for benefit at death
+
+**¶ 5.** When the annuitant under an RRSP dies (whether before or after its maturity), subsection 146(8.8) deems the annuitant to have received, immediately before death, a benefit under the RRSP. Subject to the comments in ¶s [6](#P92_8013) to 11 below, the amount of the benefit is equal to the fair market value of all property of the RRSP at death and is included in the annuitant's income under subsection 146(8).
+
+In a situation where an annuitant under an RRSP dies and the RRSP matured before June 30, 1978, refer to the law.
+
+## Reduction of benefit at death -- RRSP property receivable by spouse
+
+**¶ 6.** If the annuitant of a matured RRSP had a spouse at the time of the annuitant's death who was designated as a beneficiary under the RRSP, and a portion of the property in the RRSP becomes receivable by the spouse (or would become receivable by the spouse if the spouse survives throughout all guaranteed terms contained in the plan) as a consequence of the annuitant's death, subsection 146(8.8) deems the annuitant to have received a benefit under the plan only to the extent of the excess of the amount referred to in ¶ [5](#P5) above over the fair market value at the time of death of the portion receivable by the spouse.
+
+**¶ 7.** When:
+
+(a) the annuitant dies after the maturity of an RRSP;
+
+(b) the legal representative of the annuitant becomes entitled, as a consequence of the death, to receive amounts under the matured RRSP for the benefit of the annuitant's spouse; and
+
+(c) the legal representative and the spouse file a joint election in prescribed form under subsection 146(8.91) with the Minister of National Revenue,
+
+the spouse is deemed to have become the annuitant under the RRSP and the amounts that the legal representative is entitled to receive are deemed receivable by the spouse. When paid, such amounts are deemed to be received directly by the spouse, and not by any other person, as a benefit under the RRSP. The amounts deemed to be received by the spouse are to be included in the spouse's income under subsection 146(8) and the rule in [¶ 6](#P92_8013) above applies. It is not necessary that amounts received by the legal representative be in fact paid to the spouse. If no election is made, subsection 146(8.8) will apply to the deceased (see [¶ 5](#P5) above) and the actual payment out of the RRSP will then be received by the estate tax-free to the extent set out in [¶ 12](#P161_19009) below. Concerning the portion of the amount received by the estate as income, the estate could avail itself of the provisions of subsection 104(6) or 104(12), if applicable, and the spouse, as beneficiary, would include that amount in income as an RRSP benefit under subsection 104(13) or 104(14).
+
+**¶ 8.** For purposes of subsection 146(8.91), the legal representative is considered to receive amounts for the benefit of the spouse if:
+
+- the will of the deceased refers specifically to the entitlement of the spouse to amounts paid under the RRSP; or
+
+- under the will of the deceased or the law governing intestate succession, the spouse is the sole beneficiary of the estate.
+
+Subject to the exceptions below, similar treatment will apply even when the spouse is not the sole beneficiary if the spouse's beneficial interest is at least large enough that all such payments can reasonably be allocated to the spouse. This also includes cases where, under the will, the legal representative has the power to encroach on capital in favour of the spouse and, consequently, proceeds received from the RRSP are paid to the spouse.
+
+The expression **for the benefit of the spouse** also covers situations where, as a result of a disclaimer by another beneficiary of an interest in the estate, the residue including the funds derived from the RRSP can then be distributed to the spouse. It also covers situations where, as a result of a court order in relation to the estate made pursuant to any law of a province providing for the relief or support of dependants, the spouse becomes entitled to receive either the entire estate or the estate's interest in the RRSP.
+
+Subsection 146(8.91) cannot be applied if only a portion of such payments can be allocated to the spouse, as when debts of the estate have to be paid with the funds from the RRSP. Also, subsection 146(8.91) does not apply if:
+
+(a) there is a specific bequest of RRSP proceeds to someone other than the spouse;
+
+(b) the spouse receives only specific bequests of assets other than RRSP proceeds;
+
+(c) the total bequest to the spouse is less than the RRSP proceeds; or
+
+(d) in cases of intestacy, the distribution of assets of the deceased annuitant is made on any of the following basis:
+
+(i) the spouse receives only specific assets other than the RRSP proceeds;
+
+(ii) someone other than the spouse receives the RRSP proceeds; or
+
+(iii) the total amount distributed to the spouse is less than the RRSP proceeds.
+
+## Reduction of benefit at death -- Refund of premiums
+
+**¶ 9.** Subsection 146(8.9) permits a deduction from the amount referred to in [¶ 5](#P5) above if:
+
+- the annuitant of an unmatured RRSP had a spouse at the time of death and the spouse is paid an amount under the plan that qualifies as a refund of premiums under paragraph (a) of the definition of that term in subsection 146(1); or
+
+- an annuitant had no spouse at the time of death and the annuitant's financially dependent child or grandchild is paid an amount under the plan (whether matured or unmatured) that qualifies as a refund of premiums under paragraph (b) of the definition of that term in subsection 146(1).
+
+The deduction allowed under subsection 146(8.9) for a deceased annuitant in respect of an RRSP is determined according to the formula below. A calculation is only required when the circumstances fall outside two situations. The first situation is that no refunds of premiums are distributed from an RRSP, in which case no deduction would be permitted under subsection 146(8.9). The second situation occurs when the only beneficiaries under an RRSP receive only refunds of premiums, in which case the subsection 146(8.9) deduction permitted would equal the fair market value of the RRSP at the time of the annuitant's death. See ¶s [17](#P176_22530) through 26 below for a discussion on **refund of premiums**.
+
+The deductible amount is an amount not exceeding that determined by the following formula in subsection 146(8.9):
+
+|  | (B + C - D) |
+
+| --- | --- |
+
+| A × [ 1 - | -------------- ] |
+
+|  | (B + C) |
+
+where
+
+| **A** | is the total of all refunds of premiums in respect of the RRSP; |  |
+
+| --- | --- | --- |
+
+| **B** | is the fair market value of the property of the RRSP at the particular time that is the later of |  |
+
+|  | (a) | the end of the first calendar year commencing after the death of the annuitant, and |
+
+|  | (b) | the time immediately after the last time that any refund of premiums in respect of the RRSP is paid out of or under it; |
+
+| **C** | is the total of all amounts paid out of or under the RRSP after the death of the annuitant and before the particular time; and |  |
+
+| **D** | is the lesser of |  |
+
+|  | (a) | the fair market value of the property of the RRSP at the time of the annuitant's death, and |
+
+|  | (b) | the total of the amounts for B and C in respect of the RRSP. |
+
+The amount deducted under subsection 146(8.9) cannot be more than but can be less than that determined by the above formula. A deduction of a lesser amount would, by reason of the application of paragraph (*a*) of the definition of "benefit" in subsection 146(1), increase the amount that can be distributed tax free to the beneficiaries (see [¶ 12](#P161_19009) below).
+
+A deduction under subsection 146(8.9) may only be applied to income reported in accordance with subsection 146(8.8) in the deceased's return for the year of death, subject to any limitations on its reassessment as set out in subsection 152(4.2).
+
+***Note:** The Notice of Ways and Means Motion of June 20, 1996, proposes to amend the definition of refund of premiums in subsection 146(1) to exclude tax-paid amounts. It is also proposed that a new definition for the term tax-paid amount be added to subsection 146(1). A tax-paid amount from a trusteed or depositary RRSP is generally an amount paid to a person in respect of RRSP income that is not exempt from tax under Part I because of the death of the RRSP annuitant. For a depositary RRSP, this is an amount paid to a person in respect of RRSP income that accrued or was credited after December 31 of the year after the year of the annuitant's death. For a trusteed RRSP, this is an amount in respect of trust income which ceases to be exempt after December 31 of the year after the year of the annuitant's death pursuant to paragraph 146(4)(c). These changes, if enacted as proposed, will apply to deaths occurring after 1992.*
+
+## Reduction of benefit at death -- Designated refund of premiums
+
+**¶ 10.** When an amount is paid from the unmatured RRSP of a deceased annuitant to the annuitant's legal representative, the annuitant's spouse can, if the spouse is a beneficiary of the annuitant's estate (though not necessarily of the RRSP benefit), elect jointly with the legal representative under subsection 146(8.1) to include in the spouse's income such portion of the payment designated as a refund of premiums. It is not necessary that the estate actually pay the designated amounts to the spouse. The election must be made and filed with the Minister of National Revenue in prescribed form (Form T2019, *Death of an RRSP Annuitant -- Refund of Premiums*). An amount not exceeding that determined by the formula in [¶ 9](#P112_12263) above can then be deducted under subsection 146(8.9) from the amount deemed to have been received by the deceased (see [¶ 5](#P5) above). An amount designated as a refund of premiums is limited to the amount deducted under subsection 146(8.9) plus any income of the RRSP for the period ending on December 31 of the year following the annuitant's death.
+
+If the deceased annuitant of an RRSP (whether matured or unmatured) had no spouse at death, a financially dependent child or grandchild of the annuitant (see ¶s [17](#P176_22530) and [18](#P183_24369) below) who is a beneficiary of the annuitant's estate can make a similar election. The designated amount on form T2019 is deemed to be received by the dependent child or grandchild as a benefit that is a refund of premiums under an RRSP and is included in the child's or grandchild's income under subsection 146(8). It is not necessary that the estate actually pay the designated amounts to the child or grandchild. An amount not exceeding that determined by the formula in [¶ 9](#P112_12263) above may then be deducted under subsection 146(8.9) from the amount deemed to have been received by the deceased (see [¶ 5](#P5) above). An amount designated as a refund of premiums is limited to the amount deducted under subsection 146(8.9) plus any income of the RRSP for the period ending on December 31 of the year following the annuitant's death.
+
+**¶ 11.** It is a question of fact whether or not the legal representative of the deceased will be able to designate all or part of the amount received as a refund of premiums. The representative is therefore required to consider all the circumstances, including the terms and conditions of the trust arrangement, in order to determine whether the amount received can be designated as a refund of premiums. Some of the criteria that apply in making such a determination are set out in [¶ 8](#P8) above. Whenever an amount has been designated as a refund of premiums which is then deemed to have been received by the beneficiary of the estate, the legal representative should ask the Department to reduce the amount of the deemed receipt on death under subsection 146(8.8) that is included in the deceased's income.
+
+## Payments out of an RRSP following the annuitant's death
+
+**¶ 12.** Whenever an amount:
+
+(a) is deemed to have been received by the annuitant immediately before death as a benefit under an RRSP pursuant to subsection 146(8.8), and
+
+(b) has been included in the annuitant's income under subsection 146(8),
+
+an actual payment out of the RRSP, to the extent that it can reasonably be regarded as part of the amount included in computing the income of the deceased annuitant, is (subject to [¶ 13](#P166_19941) below) not a **benefit** under the definition of that term in subsection 146(1) to the person who receives it. Accordingly, such an amount is not included in that person's income under subsection 146(8).
+
+In addition, paragraph 146(2)(*c*.2) requires the commutation of each annuity that becomes payable to a person other than the annuitant (see [¶ 2](#P2) above) under the plan. The payment to that other person must therefore be a lump sum equal to the fair market value of the annuity at the date of death of the annuitant.
+
+**¶ 13.** The comments in [¶ 12](#P161_19009) above generally do not apply to an amount that is:
+
+(a) an annuity payment received by the spouse of the deceased since such payments would be excluded from the deceased's income under paragraph 146(8.8)(*b*); or
+
+(b) a refund of premiums received or deemed to have been received by a financially dependent child or grandchild (see [¶ 17](#P176_22530) below) or the spouse of the deceased, to the extent the legal representative of the deceased annuitant has elected to deduct them under subsection 146(8.9) (see ¶s [6](#P92_8013) to 10 above).
+
+Consequently, the taxation of all or part of such amounts would be shifted to the beneficiary and included in the beneficiary's income under subsection 146(8) as and when received or deemed to have been received.
+
+## Joint and several liability for amounts received out of an RRSP
+
+**¶ 14.** Where an annuitant dies, subsection 160.2(1) provides that the recipient (including the estate of the deceased) of a tax-free amount out of or under an RRSP (see [¶ 12](#P161_19009) above) is jointly and severally liable with the deceased annuitant for a portion of the deceased's additional tax payable that arose because the amount was included in the deceased's income under subsection 146(8.8). This joint and several liability is equal to the proportion of such additional tax to the deceased that the recipient's tax-free share of the RRSP amount is of the total of the RRSP amounts included in the deceased's income for the year of death under subsection 146(8.8).
+
+**¶ 15.** Subsection 160.2(1) will apply only to the recipient (including the estate of the deceased annuitant) who, under the terms of the RRSP, receives tax-free funds directly from the RRSP upon the death of the annuitant (see [¶ 12](#P161_19009) above). Therefore, in a case where tax-free RRSP funds are paid to the estate as beneficiary of the RRSP, the estate is jointly and severally liable under section 160.2 and there is no such liability on any beneficiary of that estate who may ultimately receive any of these funds.
+
+**¶ 16.** Subsection 160.2(4) provides that a payment by the recipient (other than the estate of the deceased annuitant), on account of the recipient's joint and several liability directly reduces that liability to the extent of the payment. However, a payment by the estate on account of the deceased's tax liability reduces the joint and several liability of the recipient only to the extent that the payment reduces the total liability of the deceased for the year of death to an amount that is less than the joint and several liability determined under subsection 160.2(1).
+
+## Refund of premiums -- General comments
+
+**¶ 17.** The definition of **refund of premiums** in subsection 146(1) specifies that any amount out of or under an RRSP will qualify as a refund of premiums if paid to:
+
+- the spouse of the annuitant, or,
+
+- if the annuitant had no spouse at the time of death, a child or grandchild of the annuitant who was at that time financially dependent (see [¶ 18](#P183_24369) below) on the deceased for support ("financially dependent child or grandchild").
+
+In the case of an amount paid to the spouse, only an amount paid out of an RRSP **before its maturity** and as a consequence of the death of the annuitant qualifies as a refund of premiums. (An amount paid as a consequence of the annuitant's death includes payments made by way of transfers or distributions of property.)
+
+In the case of an amount paid to a financially dependent child or grandchild, however, an amount paid out of an RRSP **either before or after its maturity** qualifies as a refund of premiums. An example of an amount paid out of a matured RRSP to a financially dependent child or grandchild who is named the beneficiary in the RRSP that may qualify as a refund of premiums is, for instance, the lump-sum commuted value of any annuity payments remaining under the guaranteed term of the deceased's life annuity.
+
+Refunds of premiums must be paid in a lump sum. Any plan providing for a refund of premiums in the form of an annuity or instalments will not be accepted for registration.
+
+***Note:** The Notice of Ways and Means Motion of June 20, 1996, proposes to amend the definition of refund of premiums in subsection 146(1) to exclude tax-paid amounts. It is also proposed that a new definition for the term tax-paid amount be added to subsection 146(1). See the Note at the end of [¶ 9](#P112_12263) for an explanation of this new proposed term. These changes, if enacted as proposed, will apply to deaths occurring after 1992.*
+
+**¶ 18.** Under the definition of **refund of premiums**, it is assumed, unless the contrary is established, that a child or grandchild is not financially dependent on the annuitant for support at the time of the annuitant's death if the income of the child or grandchild for the year preceding the year of death exceeded the basic personal amount under paragraph (*c*) of the description of B in subsection 118(1) for that preceding year. (The basic personal amount for 1994 and 1995 is $6,456).
+
+## Refund of premiums out of an unmatured RRSP
+
+**¶ 19.** When the lump sum payment of a refund of premiums out of an **insured RRSP** to the beneficiary of a deceased annuitant is delayed, interest accrued on the amount of the refund (determined as of the date of the annuitant's death) from the date of death to the date of actual payment is to be treated as part of the refund of premiums. An "insured RRSP" is generally one issued by a person referred to in paragraph (*a*) of the definition of "retirement savings plan" in subsection 146(1).
+
+**¶ 20.** When an amount qualifies as a refund of premiums out of a **depositary RRSP** after the death of the annuitant, interest or income eventually paid that accrued up to the end of the year following the year of death qualifies as a refund of premiums if paid to either the spouse or a financially dependent child or grandchild, provided such amounts otherwise qualify as refunds of premiums. Interest or income eventually paid that accrued after that time will be included in the income of the person entitled to the deposit (i.e., the estate of the deceased annuitant or the beneficiaries) and does not qualify as a refund of premiums. Any interest or income credited or added after the date of death that accrued to the date of death will be included in the amount determined under paragraph 146(8.8)(*a*) and qualifies as a refund of premiums if paid to either the spouse or a financially dependent child or grandchild, provided the amount otherwise qualifies as a refund of premiums. A "depositary RRSP" is generally one issued by a person referred to in subparagraph (*b*)(iii) of the definition of retirement savings plan in subsection 146(1).
+
+**¶ 21.** The entire amount in an unmatured **trusteed RRSP** on or before December 31 of the year following the year of the annuitant's death, representing the value of the RRSP at the date of payment, will be considered a refund of premiums if the recipient is either the spouse or a financially dependent child or grandchild of the annuitant, and provided the amount otherwise qualifies as a refund of premiums. The value of the RRSP at the date of payment may be greater or less than its value at the time of the annuitant's death, depending on the increase or decrease (including actual capital gains or losses) in the value of the assets in the RRSP and on the amount of the income of the RRSP trust between the date of death and the date of payment. A "trusteed RRSP" is generally one issued by a person referred to in subparagraph (*b*)(i) of the definition of retirement savings plan in subsection 146(1).
+
+**¶ 22.** An amount accrued after December 31 of the year following the year of the last annuitant's death that is paid to either the spouse or child or grandchild of the annuitant, does not qualify as a refund of premiums and only the portion thereof that is the excess of the payment over the income of the **RRSP trust** after December 31 of that following year can qualify as a subsection 146(8) benefit. The income of the RRSP trust, including the taxable portion of any capital gains and losses that accrued after December 31 of the year following the year of death, is subject to tax under normal trust rules by reason of paragraph 146(4)(*c*), and is not a benefit by reason of paragraph (*c*) of the definition of that term in subsection 146(1) to the extent the amount was not deducted under paragraph 104(6)(*b*) by the RRSP trust. Paragraph 104(6)(*b*) permits a trust to deduct an amount in computing the income of the trust if, among other things, the amount is payable in the year to a beneficiary of the trust. Income of the trust does not include amounts that would otherwise be income but for the deduction under paragraph 104(6)(*b*). The amount representing the non-taxable portion of capital gains or losses accrued in the trust after December 31 of the year following the year of the annuitant's death is not excluded under paragraph (*c*) of the definition of benefit in subsection 146(1) and consequently is included in (gain), or reduces (loss), the amount of the subsection 146(8) benefit.
+
+***Note:** The Notice of Ways and Means Motion of June 20, 1996, proposes to amend subsection 104(6) for 1996 and subsequent taxation years. It is proposed that an RRSP trust will be able to deduct an amount in computing the income of the trust only if the amount is **paid** (not **payable**) in the year to a beneficiary of the trust. The effect of this proposed change means that when an amount is **paid** to either the spouse or child or grandchild of the annuitant after December 31 of the year following the year of the annuitant's death, the amount qualifies as an RRSP benefit under the proposed definition of that term in subsection 146(1), to the extent that the RRSP trust has deducted that amount under proposed paragraph 104(6)(a.2) for the year in computing its income.*
+
+*The Notice of Ways and Means Motion of June 20, 1996, proposes to add the definition of tax-paid amount (see the Note at the end of [**¶**9](#P112_12263) for an explanation of this new proposed term) to subsection 146(1) and to amend the definition of refund of premiums in that subsection to exclude a tax-paid amount. The effect of these changes is that, in the case of a trusteed RRSP, an amount paid to a person in respect of an RRSP trust's income that is not exempt from tax under Part I because of paragraph 146(4)(c) will not qualify as a refund of premiums. Under paragraph 146(4)(c), RRSP trust income ceases to be exempt after December 31 of the year after the year of death of the RRSP annuitant. If enacted as proposed, these changes will apply to deaths occurring after 1992.*
+
+**¶ 23.** When an amount is paid out of or under the deceased's unmatured RRSP to the estate and the beneficiary of that estate is either the spouse or a financially dependent child or grandchild, the amount of the payment that would qualify, if designated under subsection 146(8.1) as a refund of premiums in the hands of the beneficiary (see ¶s [10](#P157_16092) and [11](#P11) above), is determined in the same manner as described in ¶s [19](#P185_24897) through 22 above.
+
+**¶ 24.** The following example reflects the application of the comments in [¶ 22](#P188_27430) above as well as the proposed amendments in the Notice of Ways and Means Motion of June 20, 1996, to the definitions of benefit and refund of premiums in subsection 146(1), the proposed addition of the term tax-paid amount to subsection 146(1), and the proposed amendments to subsections 146(8.9) and 104(6). These proposed changes were discussed in the notes to ¶s [9](#P112_12263), [17](#P176_22530) and [22](#P188_27430) above.
+
+***Example 1:***
+
+**Facts**: Mr. X died in 1994. The fair market value of his unmatured trusteed RRSP at the time of his death was $10,000. It was worth $12,000 on December 31, 1995, and $12,500 was paid out on May 1, 1996. Mr. X's surviving spouse, Mrs. X, is the beneficiary of his RRSP.
+
+| FMV of RRSP assets on death in 1994 | $ | 10,000 |
+
+| --- | --- | --- |
+
+| 1994 and 1995 income of plan | $ | 2,000 |
+
+|  |  | -------- |
+
+| FMV of RRSP assets on Dec. 31, 1995 | $ | 12,000 |
+
+| 1996 income of plan: |  |  |
+
+| Interest income | $ | 500 |
+
+| FMV of plan assets on payout, May 1, 1996 | $ | 12,500 |
+
+|  |  | ===== |
+
+(a) Tax effects for the deceased for 1994:
+
+| Amount included under subsection 146(8.8) and 146(8) | $ | 10,000 |
+
+| --- | --- | --- |
+
+| Minus: amount deducted under subsection 146(8.9) | **$ | 10,000 |
+
+|  |  | -------- |
+
+| Net income inclusion for the deceased | $ | nil |
+
+|  |  | ===== |
+
+(b) Tax effects for the RRSP trust for 1996:
+
+| Income inclusion for RRSP trust | $ | 500 |
+
+| --- | --- | --- |
+
+| Deduction claimed by RRSP trust under proposed paragraph 104(6)(*a*.2) for amount paid to beneficiary, Mrs. X, in respect of 1996 income from plan trust | $ | 500 |
+
+|  |  | -------- |
+
+| Net income inclusion for RRSP trust | $ | nil |
+
+|  |  | ===== |
+
+(c) Tax effects for Mrs. X for 1996:
+
+| (i) | Income of Mrs. X: |  |  |
+
+| --- | --- | --- | --- |
+
+|  | RRSP benefits received -- subsection 146(8) | *$ | 12,000 |
+
+|  | RRSP benefits received -- subsection 146(8) |  | 500 |
+
+|  |  |  | -------- |
+
+|  | Total income inclusion for Mrs. X | $ | 12,500 |
+
+|  |  |  | ===== |
+
+|  |  |  |  |
+
+| --- | --- | --- | --- |
+
+| (ii) | Mrs. X's refund of premiums: |  |  |
+
+|  | *The amount of $12,000 qualifies as a refund of premiums. The RRSP benefits received are $12,500, which is $12,000 plus the $500 non-exempt income paid by the RRSP trust to Mrs. X. The $12,000 qualifies for purposes of the rollover provisions under paragraph 60(l), as explained in ¶s [27](#P495_37549) and [28](#P508_40772) below. |  |  |
+
+(d) Calculation of proposed subsection 146(8.9) deduction:
+
+As noted in [¶ 9](#P112_12263) above, because there is only one beneficiary under the RRSP who only received a refund of premiums, the deduction allowed under subsection 146(8.9) for 1994 is $10,000, which is the fair market value of the RRSP at the time of the annuitant's death.
+
+**The amount of $10,000 was determined by applying the formula in [¶ 9](#P112_12263) of this bulletin except for the following proposed change to "A" in the formula as follows:
+
+|  | (B + C - D) |
+
+| --- | --- |
+
+| A × [ 1 - | -------------- ] |
+
+|  | (B + C) |
+
+where
+
+| **A** | is the total of: |  |
+
+| --- | --- | --- |
+
+|  | (a) | all refunds of premiums in respect of the RRSP; |
+
+|  | (b) | all tax-paid amounts in respect of the plan paid to individuals who received refunds of premiums (other than amounts paid because of subsection 146(8.1)); and |
+
+|  | (c) | all tax-paid amounts paid to the legal representative. |
+
+|  | ($0 + $12,500 - $10,000) |
+
+| --- | --- |
+
+| = $12,500 × [1 - | ----------------------------------- ] |
+
+|  | ($0 + $12,500) |
+
+|  |  |
+
+| = $10,000 |  |
+
+**¶ 25.** When an amount is paid after December 31 of the year following the year of the annuitant's death from a trusteed RRSP, and the amount is paid to one or more qualifying beneficiaries (surviving spouse, or if there is no spouse at the time of death, a financially dependent child or grandchild), and to one or more non-qualifying beneficiaries, the comments in [¶ 22](#P188_27430) above apply to the calculation of the refund of premiums and other tax effects. The following example reflects the application of the comments in [¶ 22](#P188_27430) above as well as the proposed amendments in the Notice of Ways and Means Motion of June 20, 1996, to the definitions of benefit and refund of premiums in subsection 146(1), the proposed addition of the term tax-paid amount to subsection 146(1), and the proposed amendments to subsections 146(8.9) and 104(6). These proposed changes were discussed in the notes to ¶s [9](#P112_12263), [17](#P176_22530) and [22](#P188_27430) above.
+
+***Example 2:***
+
+**Facts**: Same as in Example 1 except that of the $12,500 paid out, $7,500 (60%) is distributed to Mrs. X, the surviving spouse (a qualifying beneficiary), and $5,000 (40%) is distributed to Miss X, the child of Mr. and Mrs. X. Miss X is a non-qualifying beneficiary and therefore the rollover provisions under paragraph 60(l) are not available to her in respect of any amounts paid from the RRSP.
+
+(a) Tax effects for the deceased for 1994:
+
+| Amount included under subsection 146(8.8) and 146(8) | $ | 10,000 |
+
+| --- | --- | --- |
+
+| Minus: amount deducted under subsection 146(8.9) | **$ | 6,000 |
+
+|  |  | --------- |
+
+| Net income inclusion for the deceased | $ | 4,000 |
+
+|  |  | ===== |
+
+(b) Tax effects for the RRSP trust for 1996:
+
+| Income inclusion for RRSP trust | $ | 500 |
+
+| --- | --- | --- |
+
+| Deduction claimed by RRSP trust under proposed paragraph 104(6)(*a*.2) for amounts paid to beneficiaries, Mrs. X and Miss X in respect of 1996 income from plan trust | $ | 500 |
+
+|  |  | --------- |
+
+| Net income inclusion for the RRSP trust | $ | nil |
+
+|  |  | ===== |
+
+(c) Tax effects for Mrs. X for 1996:
+
+| (i) | Income of Mrs. X: |  |  |
+
+| --- | --- | --- | --- |
+
+|  | RRSP benefits received -- subsection 146(8) | *$ | 7,200 |
+
+|  | RRSP benefits received -- subsection 146(8) |  | 300 |
+
+|  |  |  | -------- |
+
+|  |  | $ | 7,500 |
+
+|  |  |  | ===== |
+
+|  |  |  |  |
+
+| --- | --- | --- | --- |
+
+| (ii) | Mrs. X's refund of premiums: |  |  |
+
+|  | *The amount of $7,200 ($12,000 × 60%) qualifies as a refund of premiums. The RRSP benefits received are $7,500, which is $7,200 plus the $300 non-exempt income paid by the RRSP trust to Mrs. X. The $7,200 qualifies for purposes of the rollover provisions under paragraph 60(l), as explained in ¶s [27](#P495_37549) and [28](#P508_40772) below. |  |  |
+
+(d) Tax effects for Miss X for 1996:
+
+| (i) | Payout from RRSP received tax-free | $ | 4,000 |
+
+| --- | --- | --- | --- |
+
+|  | ($10,000 - $6,000 = $4,000 income inclusion for the deceased. Miss X receives $4,000 out of her $5,000 tax-free because the $4,000 she receives is not an RRSP benefit in the proposed definition of that term in subsection 146(1)). |  |  |
+
+|  |  |  |  |
+
+| --- | --- | --- | --- |
+
+| (ii) | Income of Miss X: RRSP benefit -- subsection 146(8) |  | 1,000 |
+
+|  |  |  | -------- |
+
+|  | Total Payout to Miss X | $ | 5,000 |
+
+|  |  |  | ===== |
+
+(e) Calculation of proposed subsection 146(8.9) deduction:
+
+**The amount of $6,000 was determined by applying the formula in proposed subsection 146(8.9) as follows:
+
+|  | (B + C - D) |
+
+| --- | --- |
+
+| A × [ 1 - | ---------------- ] |
+
+|  | (B + C) |
+
+|  |  |
+
+| --- | --- |
+
+|  | ($0 + $12,500 - $10,000) |
+
+| = $7,500 × [ 1 - | ------------------------------------ ] |
+
+|  | ($0 + $12,500) |
+
+|  |  |
+
+| = $6,000 |  |
+
+## Refund of premiums out of a matured RRSP
+
+**¶ 26.** As previously indicated, an amount paid out of a matured RRSP on or after the annuitant's death will qualify as a refund of premiums if the deceased had no spouse at the time of death and the amount is paid to a financially dependent (see [¶ 18](#P183_24369) above) child or grandchild. The amount can be paid either directly under the RRSP (see [¶ 17](#P176_22530) above) or indirectly through a trust or the estate of the deceased (see [¶ 10](#P157_16092) above).
+
+## Rollover provisions
+
+**¶ 27.** Paragraph 60(l) permits a qualifying beneficiary who receives a refund of premiums from an RRSP to defer the payment of tax (rollover) on all or part of the receipt. A qualifying beneficiary is either the spouse of the deceased annuitant, or a child or grandchild of the deceased annuitant who was financially dependent (see [¶ 18](#P183_24369) above) at the time of death on the deceased annuitant:
+
+(a) by reason of physical or mental infirmity; or
+
+(b) if not by reason of physical or mental infirmity, if the acquisition of an annuity discussed in (f) below of this paragraph is involved.
+
+Paragraph 60(l) also permits the spouse who becomes the successor annuitant under the deceased annuitant's RRSP to directly rollover all or part of any payment in full or partial commutation of the RRSP annuity. (Under the definition of annuitant in subsection 146(1), a spouse becomes a successor annuitant if the spouse becomes entitled, as a consequence of the annuitant's death, to receive benefits to be paid out of or under the matured RRSP.)
+
+An individual may obtain a deduction under paragraph 60(l) in respect of all or part of amounts for the year they are included in the individual's income under subsection 146(8) to the extent they are paid (or in the case of a commutation payment received by a spouse as successor annuitant, to the extent it is directly transferred by the issuer of the RRSP) in the year or within 60 days after the end of the year:
+
+(c) as a premium under an RRSP under which the beneficiary is the annuitant;
+
+(d) to acquire a life annuity for the beneficiary or for the lives jointly of the beneficiary and the beneficiary's spouse, either with a guaranteed period that is not greater than 90 years minus the beneficiary's age or that of the beneficiary's spouse, at the time of its acquisition, or without a guaranteed period;
+
+(e) to acquire an annuity for the beneficiary for a term of years equal to 90 minus the beneficiary's age or, alternatively, 90 minus the age of the beneficiary's spouse, at the time of its acquisition;
+
+(f) to acquire an annuity under which a beneficiary child or grandchild (whether resident or non-resident), or a trust under which the child or grandchild is the sole person beneficially interested in all amounts payable under the annuity, is the annuitant for a term of years not exceeding 18 minus the age of the beneficiary at the time of its acquisition; or
+
+(g) to a carrier as consideration for a registered retirement income fund under which the beneficiary is the annuitant.
+
+Payments under the qualified annuities mentioned in (d), (e), and (f) above may be received only
+
+(h) in annual or more frequent periodic payments beginning not later than one year after the date the annuity was acquired, each of which is equal except where the payments are cost-of-living adjusted or otherwise fluctuate in any of the ways permitted under subparagraphs 146(3)(*b*)(iii) to (v); and
+
+(i) in full or partial commutation payments and, where the commutation is partial, in annual or more frequent periodic payments thereafter each of which is equal except where the payments are cost-of-living adjusted or otherwise fluctuate in any of the ways permitted under subparagraphs 146(3)(*b*)(iii) to 146(3)(*b*)(v).
+
+**¶ 28.** The rules in [¶ 27](#P495_37549) above apply to a beneficiary of an estate when amounts are received by the estate, provided the amount is designated in accordance with subsection 146(8.1) (see [¶ 10](#P157_16092) above) and the legal representative receives the amount from an RRSP under which the deceased was the annuitant immediately prior to death. They also apply if a joint election under subsection 146(8.91) is made and a commutation payment is transferred on behalf of the spouse as successor annuitant directly by the issuer of the RRSP.
+
+## Refund of premiums or commutation payment -- Whether "qualified pension income" or "pension income"
+
+**¶ 29.** A single or lump-sum payment out of an RRSP is not an annuity payment and does not fall within the definition of "pension income," whether the RRSP is registered or deregistered (refer to the current version of Interpretation Bulletin IT-415, *Deregistration of Registered Retirement Savings Plans*, for the meaning of deregistered RRSP). Consequently, a refund of premiums or a commutation payment, which is a lump sum, received by the beneficiary of the deceased (directly under the RRSP or indirectly through a trust or the estate) is neither "qualified pension income" nor "pension income" as defined in subsection 118(7) for purposes of the non-refundable tax credit for eligible pension income under subsection 118(3).
+
+If the beneficiary transfers the lump-sum refund of premiums or the issuer of the RRSP directly transfers the commutation payment to an RRSP, a registered retirement income fund or to acquire an annuity pursuant to paragraph 60(l) (see [¶ 27](#P495_37549) above), annuity payments received by that beneficiary under the latter plan, fund or annuity may, depending on the age of the beneficiary, qualify for the non-refundable tax credit for eligible pension income. For example, if the beneficiary is the spouse of the annuitant and receives annuity payments under the latter plan, fund or annuity before reaching age 65, those payments are not **qualified pension income** since they are not received as a consequence of the death of the annuitant. However, annuity payments received by the spouse under the latter plan, fund or annuity in any year in which the individual is 65 years or older will constitute **pension income**. The current version of Interpretation Bulletin T-517, *Pension Tax Credit*, explains the non-refundable tax credit for eligible pension income.
+
+## Payments and deemed payments to non-residents
+
+**¶ 30.** Under paragraph 212(1)(*l*), a non-resident person is required to pay an income tax of 25% (or a lesser tax treaty rate) on amounts that a resident of Canada pays or credits or is deemed to pay or credit to the non-resident as a payment out of or under an RRSP, or a deregistered RRSP (see [¶ 29](#P508_40772) above), to the extent that section 146 would have required the amount to be included in computing income if the non-resident had been resident in Canada. (See the current version of Information Circulars 77-16, *Non-Resident Income Tax*, and 72-22, *Registered Retirement Savings Plans*.)
+
+These comments apply also to amounts deemed under paragraph 214(3)(*c*) to have been paid to a non-resident taxpayer if such amounts would be required to be included in the income of a resident taxpayer because of either subsection 146(8.1), 146(8.8) or 146(8.91).
+
+**¶ 31.** The rollovers available under paragraph 60(l), as described above in [¶ 27](#P495_37549) and the last sentence of [¶ 28](#P508_40772), are available to a non-resident beneficiary who is either the spouse or a financially dependent child or grandchild (see ¶s [17](#P176_22530) and [18](#P183_24369) above), without Part XIII tax being applicable, if all the requirements of paragraph 212(1)(*l*) are met. However, the transfer of the refund of premiums or commutation payment must be made by the payer thereof on behalf of the non-resident beneficiary pursuant to an authorization in prescribed form (Form NRTA1, *Authorization for Non-Resident Tax Exemption*). The rollover, without Part XIII tax being applicable, is permitted only if the payment to the RRSP or registered retirement income fund, or for the annuity, would be deductible under paragraph 60(l) if the non-resident had been resident in Canada throughout the year.
+
+**¶ 32.** When an amount is, by reason of subsection 146(8.1), deemed to be received by a non-resident spouse as a refund of premiums, the amount is subject to non-resident tax under paragraph 212(1)(*l*) by reason of paragraph 214(3)(*c*) as noted in [¶ 30](#P30) above. However, the amount is not subject to the rollover provisions of paragraph 212(1)(*l*) because it has been paid to the annuitant's legal representative and thus cannot be directly transferred to the spouse's RRSP as required under paragraph 212(1)(*l*).
+
+**¶ 33.** When a non-resident annuitant dies before a trusteed RRSP matures and the trustee does not pay the amount in the RRSP until after the end of the year following the year of death, a portion of the amount equal to the amount of total payments out of the RRSP less the income of the RRSP after December 31 of that following year, will be subject to non-resident tax under paragraph 212(1)(*1*). The income of the plan trust for the period beginning after the end of the year following the year of the annuitant's death and ending on the date of payment is subject to non-resident tax under paragraph 212(1)(*l*). This topic is discussed in the current version of Interpretation Bulletin IT-465, *Non-Resident Beneficiaries of Trusts*.
+
+**¶ 34.** If a non-resident spouse of a deceased annuitant, as beneficiary under the RRSP, becomes entitled to annuity payments for the unexpired guaranteed term of the deceased's life annuity contract, the payments receivable by the beneficiary may be transferred, before they are paid, to the beneficiary's RRSP in Canada without Part XIII tax being applicable, provided the RRSP of the deceased was amended before 1990 to permit a direct transfer of funds under subsection 46(16).
+
+## Explanation of Changes
+
+## Introduction
+
+The purpose of the *Explanation of Changes* is to give reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+## Overview
+
+The purpose of this bulletin is to consider the income tax treatment of payments out of a registered retirement savings plan (RRSP) made on or after the death of an annuitant. The payments discussed are those received or deemed to be received by the deceased annuitant, the estate of the deceased, the surviving spouse, a child or grandchild of the deceased and other beneficiaries. Also dealt with are the rollover provisions and payments to non-residents. The bulletin reflects amendments to the *Income Tax Act* since the publication of IT-500, including those resulting from S.C. 1994, c. 21 (former Bill C-27), and makes numerous incidental changes to improve clarity.
+
+This bulletin also reflects the proposed amendments contained in the Notice of Ways and Means Motion of June 20, 1996 and the March 6, 1996 Federal Budget.
+
+The contents of this bulletin are not affected by any other draft legislation released before July 9, 1996.
+
+## Legislative and Other Changes
+
+¶ [3](#P83_6121) discusses the meaning of maturity of an RRSP. The Note to ¶ [3](#P83_6121) reflects the March 6, 1996 Federal Budget proposal to change the latest time by which an RRSP can mature.
+
+¶ [4](#P86_7133) is former ¶ 7 rewritten to reflect the expanded definition of spouse in subsection 252(4).
+
+¶ [6](#P92_8013) is former ¶ 4 revised to explain that for deaths occurring after 1992, the comments apply only to matured RRSPs, and to clarify what portion is excluded from the amount deemed to have been received by the deceased annuitant.
+
+¶ [7](#P93_8634) is former ¶ 5 expanded to clarify that the election is made by the legal representative and the spouse. Also, the last sentence has been expanded to clarify that the deduction by the estate is allowed under subsection 104(6) or (12), and the beneficiary includes the amount in income as an RRSP benefit.
+
+¶ [9](#P112_12263) revises former ¶ 8 to explain that for deaths occurring after 1992, a deduction is available when the spouse receives an amount out of an unmatured RRSP, and the amount deductible is determined by the formula in subsection 146(8.9) and may be less than the designated amount. The last sentence of former ¶ 8 concerning the need to file a waiver has not been repeated because subsection 152(4.2) may allow the Department to reassess the deceased's return in appropriate circumstances. Information Circular 92-3, *Guidelines for Refunds Beyond the Normal Three-Year Period*, dated March 18, 1992, contains information on this subject. The note to ¶ [9](#P112_12263) reflects the proposed change to the definition of refund of premiums in subsection 146(1) in the Notice of Ways and Means Motion of June 20, 1996, to exclude tax-paid amounts from that definition and the proposed addition of the term "tax-paid amount" in subsection 146(1).
+
+¶ [10](#P157_16092) is an updated former ¶ 9 and explains that when death occurs after 1992, the amount deductible is determined by the formula in subsection 146(8.9).
+
+¶ [12](#P161_19009) is former ¶ 11 expanded to explain that under paragraph 146(2)(*c*.2), the amount paid to the recipient must be a lump-sum equal to the fair market value of the annuity at the date of the annuitant's death. Former ¶ 12 has not been repeated for this reason.
+
+¶ [13](#P166_19941) is former ¶ 13 expanded to provide more details on the taxation of the refund of premiums paid to a beneficiary, as indicated in the example in ¶ [24](#P192_30894).
+
+¶ [17](#P176_22530) is former ¶ 17 rewritten to delete the old effective date, to refer to subsection 248(8), and to indicate that only lump-sum payments qualify as a refund of premiums. The last sentence is the last sentence of former ¶ 21 except that the old effective date has been removed. The note to ¶ [17](#P176_22530) reflects the proposed change to the definition of refund of premiums in subsection 146(1) in the Notice of Ways and Means Motion of June 20, 1996, to exclude tax-paid amounts from that definition.
+
+¶ [18](#P183_24369) is former ¶ 18 rewritten to reflect the change from a dependent deduction to a non-refundable tax credit, to change the $5,000 amount to the basic personal amount, and to remove the limitation on the amount that qualifies as a refund of premiums when a financially dependent child or grandchild is not dependent by reason of physical or mental infirmity. Also, the last sentence has not been repeated because only lump-sum payments qualify.
+
+¶ [19](#P185_24897) is the first part of former ¶ 19 concerning insured RRSPs. ¶ [19](#P185_24897) has been revised to reflect the deletion of the departmental position regarding the treatment of interest accrued in an insured RRSP from the date of death of an RRSP annuitant to a date no later than approximately 8 months thereafter.
+
+¶ [20](#P186_25384) is the second part of former ¶ 19 concerning depositary RRSPs. It is revised to explain that when a death occurs after 1992, it is the Department's position that interest earned only up to the end of the year following the year of death qualifies as a refund of premiums. This position will be codified if the draft amendments in the June 20, 1996 Notice of Ways and Means Motion, which introduce the term "tax-paid amount" in subsection 146(1), are passed into law as currently proposed.
+
+Former ¶s 20 and 21 have not been repeated because a refund of premiums must be paid in a lump-sum.
+
+¶ [21](#P187_26527) is former ¶ 22 revised to explain that when deaths occur after 1992, an additional year's income can qualify as a refund of premiums. Also, the last sentence has not been repeated and a reference to a financially dependent child or grandchild has been included at the end of the first sentence because, as explained above for ¶ [18](#P183_24369), the limitation has been removed.
+
+Former ¶ 23 has not been repeated because the examples are based on outdated law.
+
+¶ [22](#P188_27430) revises former ¶ 24 to reflect the change in the law allowing an additional year's income to be taxed as a refund of premiums, whether the beneficiary is the spouse or a financially dependent child or grandchild. ¶ [22](#P188_27430) also reflects the change in law relating to the greater inclusion rate for capital gains and losses by deleting the reference to "one half." The note to ¶ [22](#P188_27430) explains the proposed change to amend subsection 104(6) in the June 20, 1996 Notice of Ways and Means Motion. It is proposed that an RRSP trust will be able to deduct an amount in computing its income for the year only if the amount is paid (not payable) to one of its beneficiaries.
+
+The examples in ¶s [24](#P192_30894) and [25](#P346_33910) (former ¶s 26 and 27, respectively) reflect the application of the proposed amendments in the Notice of Ways and Means Motion of June 20, 1996, to the definitions of benefit and refund of premiums in subsection 146(1), the proposed addition of the term tax-paid amount in subsection 146(1), and the proposed amendments to subsections 146(8.9) and 104(6).
+
+¶ [27](#P495_37549) is former ¶ 29 rewritten to remove old effective dates and the attendant tax consequences, and to comment that an annuity can be acquired for the lives jointly of the beneficiary and the beneficiary's spouse or for a term of years equal to 90 minus the age of the beneficiary's spouse.
+
+It also comments that in addition to the rollovers available to a financially dependent child or grandchild who is mentally or physically infirm, a financially dependent child or grandchild who receives a refund of premiums can rollover the refund of premiums to acquire an annuity for a term of years not exceeding 18 minus the child or grandchild's age at the time acquired, even if the child or grandchild is not mentally or physically infirm. Also, ¶ [27](#P495_37549) indicates that annuity payments can be adjusted to (for example) take into consideration increases in the cost of living, and comments that a rollover to a registered retirement income fund is available.
+
+¶ [28](#P508_40772) is former ¶ 30 expanded to explain that a rollover is available when a subsection 146(8.91) election has been made.
+
+¶ [29](#P510_41393) is a general update of former ¶s 31 through 34 to reflect changes in the law discussed elsewhere in the bulletin and to reflect the change from a deduction to a non-refundable tax credit.
+
+Former ¶s 35 through 38 have not been repeated as they are discussed elsewhere in the bulletin.
+
+¶ [31](#P515_44058) is former ¶ 41 revised to remove old effective dates and the attendant tax consequences, and to reflect changes in the law referred to in ¶s [27](#P495_37549) and [28](#P508_40772).
+
+¶ [32](#P516_44928) is former ¶ 45 revised to delete the comments on subsection 146(8.91) because the availability of a rollover under paragraph 60(l) exists when the spouse is deemed under subsection 146(8.91) to be the successor annuitant and the RRSP issuer directly transfers a commutation payment. The reference in ¶ [31](#P515_44058) to the last sentence of ¶ [28](#P508_40772) reflects this rollover availability.
+
+¶ [33](#P517_45432) is former ¶ 42 revised to reflect the change in the law allowing an additional year's income to qualify as a refund of premiums.
+
+Former ¶ 43 has not been repeated as the subject matter was considered more appropriate for a different bulletin.
+
+¶ [34](#P518_46163) is former ¶ 44 expanded to reflect the Bill C-52 amendment to subsection 146(16).
+
+Throughout the new bulletin, we have made changes or additions to the text solely to clarify or elaborate on the information given, without changing the substance of what was said in the old bulletin.
+
+### Notice -- Bulletins do not have the force of law
+
+Interpretation bulletins (ITs) provide Revenue Canada's technical interpretations of income tax law. Due to their technical nature, ITs are used primarily by departmental staff, tax specialists, and other individuals who have an interest in tax matters. For those readers who prefer a less technical explanation of the law, the Department offers other publications, such as tax guides and pamphlets.
+
+While the ITs do not have the force of law, they can generally be relied upon as reflecting the Department's interpretation of the law to be applied on a consistent basis by departmental staff. In cases where an IT has not yet been revised to reflect legislative changes, readers should refer to the amended legislation and its effective date. Similarly, court decisions subsequent to the date of the IT should be considered when determining the relevancy of the comments in the IT.
+
+An interpretation described in an IT applies as of the date the IT is published, unless otherwise specified. When there is a change in a previous interpretation and the change is beneficial to taxpayers, it is usually effective for all future assessments and reassessments. If the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date of the IT.
+
+A change in a departmental interpretation may also be announced in the *Income Tax Technical News*.
+
+***If you have any comments regarding matters discussed in this IT, please send them to:***
+
+***Director, Business and Publications Division Income Tax Rulings Directorate Policy and Legislation Branch Revenue Canada Ottawa ON K1A 0L5***

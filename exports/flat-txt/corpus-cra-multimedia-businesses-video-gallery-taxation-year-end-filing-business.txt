@@ -1,0 +1,235 @@
+Title: Taxation Year-End Filing for Businesses
+Source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/businesses-video-gallery/taxation-year-end-filing-business.html
+Corpus path: corpus/cra/multimedia/businesses-video-gallery/taxation-year-end-filing-business.md
+Document type: video_transcript
+Last modified: 2021-02-26
+
+# Taxation Year-End Filing for Businesses
+
+## Transcript
+### Taxation year-end filing for business
+**January 27, 2021**
+**Slide 1 (Year End Filing – Executive Summary)**
+Hello, and welcome to Taxation Year End Filing for Businesses.
+I'm Maurice, your host.
+**Slide 2 (Introduction – Year-End)**
+For today, please use the question box to post any questions related to year-end filing. We'll answer as many as we can throughout the webinar. For any other tax related questions, call the business enquiries line.
+Let's get started.
+**Slide 3 (Introduction – Year End Filing)**
+Today, we'll talk about:
+- what is the taxation year end;
+- remittances and year-end filing;
+- who is subject to year-end filing;
+- how to ensure proper year-end filing;
+- implications from various Covid-19 measures for businesses announced by the Government of Canada;
+- and forms and slips including the T4, T4A, and others.
+**Slide 4 (What is the taxation year-end)**
+For businesses, there are two type of year ends
+For payroll, the year end is December 31.
+For corporate tax, the year end is the end of the fiscal period for the business. That could be the calendar year or any other period.
+**Slide 5 (Employers due dates for filing)**
+The due date for filing information summaries and slips is the last day of February that follows the calendar year in question.
+However, T5018 summaries and slips are due six months after the end of the reporting period chosen.
+**Slide 6 (Purpose of the year-end)**
+The year end is a time to do three things:
+- reconcile your company's payroll information;
+- prepare tax slips and summaries, and;
+- file your slips and information returns.
+**Slide 7 (Remitting and year ends)**
+While remittances are made throughout the year, the final remittance must be made by its due date.
+**Slide 8 (Remitting and year ends (Con't)**
+For some businesses, there is an option for businesses to make a reconciliation payment by the last day of February without penalty or interest on three conditions:
+- the payment is less than 1% of the total annual remittances;
+- they have perfect payroll compliance; and
+- one or more of these conditions pertain: employees are paid based on stock value; relying on 3rd party information for insurance and other items; or having employees living in other tax jurisdictions.
+**Slide 9 (Who is subject to year-end filing)**
+Employers or corporations who must file include:
+- those who pay salaries, wages including advances, bonuses, vacation pay, or tips to employees;
+- those who provide certain taxable benefits to employees, such as an automobile or allowances.
+As well, all resident corporations, including non-profit organizations, tax-exempt or inactive corporations, save for Crown corporations, Hutterite colonies and registered charities, have to file a T2 return, even if there is no tax payable.
+A non-resident corporation must file if:
+- it carried on business in Canada, or;
+- had a taxable capital gain, or;
+- disposed of taxable Canadian property, regardless of gain or profit exempt from income tax due to tax treaties;
+- some exemptions apply.
+**Slide 10 (Employers are required to submit information returns)**
+These are some of the forms and slips required to be submitted at year end.
+Most forms and slips have repeating but crucial boxes, such as:
+- company business number; and
+- employee or contractor business number or social insurance number.
+Others mostly share the same box number, such as total remuneration paid, but not always, so it is important to read closely.
+We will look at many of the forms and slips, specific boxes and some Covid-19 related boxes a little later.
+**Slide 11 (Employer responsibilities for payroll)**
+In aid of year-end filing, employers with payrolls must:
+- open and maintain a payroll program account;
+- note contents of employee TD1s, including accurate employee social insurance numbers, names and addresses;
+- deduct, report and remit Canada Pension Plan or CPP, Employment Insurance or EI and income tax amounts to the CRA; and
+- keep records.
+**Slide 12 (Keeping records for year end)**
+The contents of your records depend on several factors including:
+- your business type;
+- the format you use to keep your records, so, paper, electronic or a combination of the two;
+- if you have converted any paper records or supporting documents into an electronic version;
+- if you are involved in e-commerce;
+- if you are an employer.
+**Slide 13 (Keeping records - responsibilities)**
+According to the law, you are responsible for:
+- protecting your records, even if a third party holds them for you;
+- making sure that you are represented when CRA officials examine your records at the address where you keep them;
+- making sure that your representative is cooperating with the examination by providing reasonable assistance and answering questions about your business;
+- and, allowing CRA officials to make copies, or giving them copies, of any records they need.
+**Slide 14 (Keeping proper records)**
+Your records must:
+- be reliable and complete;
+- include the information needed to meet your tax obligations and to calculate your credits;
+- be supported by documents;
+For electronic records, also make sure:
+- they are supported and maintained by a system capable of producing records that are accessible to CRA officials and;
+- readable by CRA software, even if you have paper copies of them or if you transferred them to another medium, such as microfilm or scanned image;
+- you always store proper backup copies, preferably at a site in Canada other than your business location;
+- you keep them in English, French, or a combination of these two languages.
+**Slide 15 (Ensuring proper year-end filing)**
+To prepare for year-end filing, as well as referring to your records, you should:
+- review and reconcile tax account remittances and payroll deductions by December 31 or your year-end.
+**Slide 16 (Review and reconcile payroll deductions)**
+There are three actions to take for review and reconciliation of payroll deductions:
+- first, review payroll deductions at source, that is the CPP and EI contributions and income tax deducted;
+- ensure that all amounts have been remitted;
+- ensure that all amounts are reported correctly on the information returns, the slips and summaries.
+**Slide 17 (T4 and T4A reporting)**
+To help with T4 and related reporting, there are guides:
+For help with filling in boxes on a T4, use guide RC4120. Taxable benefits help is in guide T4130.
+Other guides include:
+- RC4157 for use with a T4A;
+- T4049 for T4RSP and T4RIF;
+- and, RC4445 for the T4A-NR.
+**Slide 18 (Implications from Covid-19 Measures)**
+Covid-19 measures put in place in 2020 have implications for year end reporting.
+These include:
+- the 10% Temporary Wage Subsidy, which must be reported for payroll account reconciliation;
+- additional other information boxes for reporting payments during CEWS periods.
+**Slide 19 (Implications from Covid-19 Measures – T4)**
+Eligibility criteria for the Canada Emergency Response Benefit, the Canada Emergency Wage Subsidy or CEWS and the Canada Emergency Student Benefit
+are based on employment income for a defined period.
+The new requirement put in place in 2020 means employers should report income
+and any retroactive payments made during these periods.
+**Slide 20 (Implications from Covid-19 Measures – CEWS)**
+CEWS is claimable on an accrual basis or on a cash basis when calculating revenue changes when applying for CEWS.
+Regardless of which method is used for calculating changes in revenue, the requirements for T4 reporting are the same.
+New to the T4, put in place in 2020 are four other information codes, numbers 57 to 60, that reflect the four reporting periods for CEWS, from March 15 through to September 26, and include:
+- bonuses;
+- vacation pay;
+- tips and gratuities;
+- honorariums and;
+- other examples available online.
+**Slide 21 (Implications from Covid-19 Measures - TWS)**
+There are four essential elements to report if you have taken advantage of the 10% Temporary Wage Subsidy:
+- the total eligible remuneration paid;
+- from march 18 to June 19, 2020;
+- income tax deducted;
+- CPP and EI contributions;
+- and, the total number of eligible employees for the same period.
+**Slide 22 (Working from home – the home workspace -T2200/T2200S)**
+As announced in December 2020, employees who worked from home more than 50% of the time over a period of a least four consecutive weeks in 2020 due to COVID-19 are eligible to claim the home office expenses deduction for 2020.
+The use of a shorter qualifying period ensures that more employees can claim the deduction than would otherwise have been possible under longstanding practice.
+The temporary flat rate method allows eligible employees to claim a deduction of
+$2 for each day they worked at home in that period, plus any other days they worked from home in 2020 due to COVID-19 up to a maximum of $400, where certain conditions are met.
+Under this method, employees do not have to get Form T2200 or Form T2200S,
+completed and signed by their employer.
+To simplify the process for employees choosing the detailed method, the CRA launched, in December 2020, simplified forms, Form T2200S and Form T777S,
+and a calculator designed specifically to assist with the calculation of eligible home office expenses.
+**Slide 23 (Filing procedures)**
+To file information returns with the CRA, one must submit on or before the last day of February, save for T5018s, by electronic means, especially if you have over 50 slips, or on paper, through the mail or a CRA office mailbox.
+**Slide 24 (Forms and slips)**
+We'll take a look now at the T4 family of slips as well as a few others.
+**Slide 25 (Forms and slips – T4)**
+On the T4 slip, note box 54 (Employer's account number), box 12 (social insurance number of the employee).
+Then, at the bottom, there are six other information boxes, where you can find the new codes 57-60.
+**Slide 26 (Forms and slips – T4A)**
+For the T4A, note that the Payer's program account number is box 61, and the recipient's program account number is box 13.
+Some of the payments made that fall under T4A reporting include:
+- fees for service (box 48);
+- pensions or superannuation (box 16);
+- self-employed commissions (box 20);
+- annuities (box 24);
+- lump sum payments (box 18);
+- research grants (other);
+- death benefits (other), among others.
+You must fill out the T4A if payments exceeded $500 to a recipient, and/or you deducted income taxes from any payment.
+Send a copy of each T4A slip along with the completed T4A summary to the CRA at the end of each calendar year, and send a completed income tax return to the CRA based on your chosen fiscal period.
+**Slide 27 (Forms and slips – T4RSP)**
+You must file a T4RSP using Canadian dollars as currency and ensure the following is reported:
+- the recipient's name and address - note one recipient only per slip;
+- the recipient's social insurance number;
+- the RRSP contract number;
+- and the name and account number of the issuer of the plan.
+The amounts entered in boxes 16 to 24 are gross amounts before tax deducted.
+Note Box 30 for income tax deducted.
+**Slide 28 (Forms and slips – T4RIF)**
+Similar to the T4RSP, for the T4RIF. Note:
+- the social insurance number;
+- the RRIF contract number;
+- And account name and number of the payer.
+**Slide 29 (Forms and slips - T4RIF (con't)**
+The amounts here from box 16 to 24 are gross amounts, before any tax deducted.
+In box 28, note income tax deducted.
+**Slide 30 (Forms and slips - T4-NR)**
+In the T4-NR, a non resident corporation that had a taxable capital gain or disposed of taxable Canadian property does not have to file a return if the disposition meets all the following criteria:
+- no tax is payable under Part I of the Income Tax Act for the tax year;
+- the corporation is not liable to pay any amount under the Act for any previous tax year other than an amount covered by adequate security under section 116 or 220;
+- each taxable Canadian property disposed of in the tax year is: excluded property under section 116, or property for which a certificate was issued under section 116.
+**Slide 31 (Forms and slips – T5018)**
+If your income mainly comes from construction and you've paid subcontractors, you must fill out T5018.
+You may file on December 31 or at the end of your fiscal year end.
+Note the recipient's program account number and social insurance number is box 24.
+The payer's program account number has no box number.
+**Slide 32 (Forms and slips – T2200/T2200S)**
+For the T2200 or T2200S, note that the employer must complete and sign this declaration of conditions of employment form, which should be kept by the employee as a record.
+This form provides the basis for expense claims that may be made by the employee.
+**Slide 33 (Forms and slips - PD27)**
+For the PD27, the amounts to be claimed on other accounts, noted by the multiple payroll check box in part C, and the amount claimed on the account being reported in this form will add up to the total amount of all accounts.
+A separate PD27 must be filled out for each payroll account.
+**Slide 34 (Forms and slips - PD27 (con't)**
+In Part D, report up to 12 pay periods.
+**Slide 35 (Forms and slips - PD27 (con't)**
+Use the additional comments box to note:
+- the dates that remuneration was paid;
+- to request a refund; or
+- to clarify other matters.
+**Slide 36 (TD1)**
+Regarding TD1 forms, employers should note of employee TD1s, including accurate:
+- employee social insurance numbers;
+- names and addresses.
+**Slide 37 (Forms – TD1)**
+Remember that the TD1 is filled out by the employee and sent to the employer, who uses it as a record to determine deductions.
+This form becomes part of your records.
+**Slide 38 (Employers and GST/HST)**
+A few notes regarding GST/HST year ends.
+Those charging and/or collecting GST/HST must file year end information, even if they have no business transactions or tax to remit for the filing period.
+For corporate tax and GST/HST, the year end is the end of the fiscal period for the business. That could be the calendar year or any other period.
+**Slide 39 (Business and GST/HST)**
+For year-end GST/HST filing, businesses with GST/HST accounts, who file annually, have two options:
+If the year end is December 31, then they must file by April 30 of the following year.
+If the year end is different, then they must file within three months after the fiscal year end.
+**Slide 40 (GST/HST - Year end elections)**
+There are two elections for the GST/HST year end:
+- first, one can use the calendar year end of December 31;
+- or, one can use a different year end that matches the year end for income tax purposes.
+**Slide 41 (Recap of pertinent information)**
+Today, we covered these issues relating to year ends:
+We defined year end and noted filing dates and the reason for year ends.
+We saw who had to file year end information.
+We discussed remitting and year end requirements, as well as responsibilities for filing.
+We looked at keeping records and preparing for year end filing.
+We had a look at some of the most used forms and slips.
+Lastly, we noted some GST/HST.
+**Slide 42 (Thank You!)**
+Tax administration is as complex as life itself. If the content today doesn't quite
+fit your situation, please:
+- visit our web site;
+- call CRA's business enquiries line at 1-800-959-5525;
+- you can also go to canada.ca/cra-videos where you'll find all our business webinars.
+We've come to the end of our webinar.
+Thanks for joining me today. I hope it's been helpful. Stay tuned for more webinars
+in the coming months!
+Good bye.

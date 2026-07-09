@@ -1,0 +1,20 @@
+---
+title: "NEWS110 ARCHIVED - Excise and GST/HST News - No. 110"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news110.html
+last_modified: 2022-04-19
+---
+# NEWS110 ARCHIVED - Excise and GST/HST News - No. 110
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [news110-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news110/news110-excise-gst-hst-news-no-110.html)

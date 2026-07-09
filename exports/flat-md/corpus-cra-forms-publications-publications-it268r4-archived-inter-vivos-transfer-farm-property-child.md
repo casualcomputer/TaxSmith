@@ -1,0 +1,400 @@
+---
+title: "ARCHIVED - Inter Vivos Transfer of Farm Property to Child"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it268r4/archived-inter-vivos-transfer-farm-property-child.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Inter Vivos Transfer of Farm Property to Child
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-268R4**
+
+DATE: April 15, 1996
+
+SUBJECT: INCOME TAX ACT**Inter Vivos Transfer of Farm Property to Child**
+
+REFERENCE: Subsections 73(3) and 73(4) (also sections 69, 75.1 and 110.6, and subsections 40(1), 40(1.1), 70(9.6), 70(9.8), 70(10), 73(6), 74.1(2), 100(2), and 252(1) of the *Income Tax Act*; subsections 20(1), 21(1), 21(2), 26(3), 26(5) and 26(19) of the *Income Tax Application Rules* (ITAR); and Part XVII of the *Income Tax Regulations*)
+
+### Notice -- Bulletins do not have the force of law
+
+***This document is also available for [download in PDF format.](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it268r4.html)***
+
+## Inter Vivos Transfer of Farm Property to Child
+
+## Contents
+
+- *[Application](#P75_3203)*
+
+- *[Summary](#P77_3431)*
+
+- *[Discussion and Interpretation](#P82_4415)*
+
+    - [General](#P83_4444) (¶ 1)
+
+    - [Farm Property Transferred](#P102_6476) (¶s 2-10)
+
+    - [Situations in which Subsection 73(3) Applies](#P188_15432) (¶ 11)
+
+    - [Situations in which Subsection 73(3) Does Not Apply](#P198_17759) (¶ 12)
+
+    - [Trusts for Minors](#P202_18539) (¶ 13)
+
+    - [Family Farm Corporations and Partnerships](#P207_19413) (¶s 14-19)
+
+    - [Transfers to Parent](#P234_25866) (¶ 20)
+
+    - [Used Principally in the Business of Farming by a Parent, or by his or her Spouse or Child](#P236_26362) (¶s 21-26)
+
+    - [Actively Engaged on a Regular and Continuous Basis](#P243_31597) (¶ 27)
+
+    - [Reserves](#P245_32893) (¶ 28)
+
+    - [Attribution](#P247_34056) (¶s 29-30)
+
+    - [ITAR Provisions -- Land](#P254_35503) (¶ 31)
+
+    - [ITAR Provisions -- Depreciable Property of a Prescribed Class](#P256_36067) (¶ 32)
+
+    - [ITAR Provisions -- Eligible Capital Property](#P258_36465) (¶ 33)
+
+    - [ITAR Provisions -- Family Farm Corporations](#P260_37393) (¶ 34)
+
+    - [Property Depreciable Pursuant to Part XVII](#P262_38576) (¶s 35-37)
+
+- *[Explanation of Changes](#P279_40125)*
+
+## Application
+
+This bulletin discusses the law as it applies to transfers occurring after 1992. For transfers before 1993, please refer to IT-268R3, its Special Release and changes to the law after September 6, 1991 and before 1993.
+
+## Summary
+
+Except as expressly provided for by the Act, when anything is disposed of by a taxpayer to a person with whom the taxpayer does not deal at arm's length for no proceeds or for proceeds less than its fair market value, under paragraph 69(1)(b) the taxpayer is deemed to have received proceeds of disposition equal to its fair market value. This bulletin discusses an exception to paragraph 69(1)(b) that applies when a parent, while living, transfers farm property, shares of the capital stock of a family farm corporation or an interest in a family farm partnership to his or her child. "Farm property" is property used in the business of farming and includes land in Canada, depreciable property in Canada of a prescribed class and eligible capital property of a business carried on in Canada. The exception permits the deferral of tax on any capital gains and recapture of capital cost allowance on the transfer of the above described properties from the parent to the child.
+
+## Discussion and Interpretation
+
+### General
+
+**¶ 1.** In this bulletin, the terms listed below have the following meanings:
+
+**Child:** The definition of "child" in subsection 70(10) (which also applies to section 73 by virtue of subsection 73(6)) and the description in subsection 252(1) expand the usual meaning of child to include:
+
+(a) a child of the taxpayer whether born within or outside marriage;
+
+(b) a spouse of a child;
+
+(c) a step-child;
+
+(d) an adopted child;
+
+(e) a grandchild;
+
+(f) a great-grandchild; and
+
+(g) a person adopted-in-fact.
+
+To be adopted-in-fact for the purposes of (g) above, paragraph 252(1)(b) provides that an unrelated person will be deemed to be a taxpayer's child if that person is wholly dependent on the taxpayer for support and if the taxpayer has, in law or in fact, custody and control of the person (or had such custody and control immediately before that person turned 19 years old).
+
+**Eligible capital property** includes agricultural quotas.
+
+**Land of a taxpayer** includes, for purposes of subsection 73(3), an interest in a parcel of land held jointly or in common with one or more other persons.
+
+**Parent:** Subsection 252(2) extends the normal meaning of "parent." A parent of a child includes an individual:
+
+(a) who is a natural parent, a stepparent or an adoptive parent of the child;
+
+(b) who is a natural parent, a stepparent or an adoptive parent of the child's spouse; or
+
+(c) of whom the child is or was considered to be a child.
+
+If a person who has not attained 19 years of age is under the custody and control of an individual and the individual is receiving support payments from an agency responsible for the person's care, the individual is not the parent of the person since the person is not wholly dependent on the individual. The definition of spouse is relevant to an understanding of who is a parent.
+
+**Spouse:** A person can become an individual's spouse either as a result of their marriage or as a consequence of the operation of subsection 252(4). The subsection expands the meaning of "spouse" to include what is generally referred to as a "common-law" spouse.
+
+### Farm Property Transferred
+
+**¶ 2.** Subsection 73(3) applies when a parent while living transfers, to his or her child, property used in a farming business by the parent, the parent's spouse or child. (See ¶ [6](#P179_11202) below for further details.) The property may be land in Canada, depreciable property in Canada of a prescribed class, or eligible capital property of a business carried on in Canada. The transfer may be by way of sale or gift. If the parent transfers a particular piece of farm property for an amount of actual proceeds of disposition (consideration) within the relevant limits set out in (a) to (c) below, that amount is deemed to be the parent's proceeds of disposition and the cost of acquisition of that property to the child. Such a transfer is commonly referred to as a "rollover." If the consideration is in excess of the greater of the applicable limits described in (a) to (c) below, then the greater of those limits is deemed to be the parent's proceeds of disposition and the child's cost of acquisition. On the other hand, if the consideration is less than the lesser of the applicable limits in (a) to (c) below, then the lesser of those limits is deemed to be the parent's proceeds of disposition and the child's cost of acquisition. Under the rules in paragraphs 73(3)(a) (for depreciable property of a prescribed class), 73(3)(b) (for land) or 73(3)(b.1) (for eligible capital property), a parent's deemed proceeds of disposition may be:
+
+(a) in the case of depreciable property of a prescribed class, any amount between the fair market value of the property and its undepreciated capital cost as determined pursuant to clause 73(3)(a)(ii)(B) (see below);
+
+(b) in the case of land, any amount between the fair market value of the property and its adjusted cost base; and
+
+(c) in the case of eligible capital property of a business of the parent, any amount between the fair market value of the property and the amount determined in the formula in clause 73(3)(b.1)(ii)(B) (see below).
+
+Clause 73(3)(a)(ii)(B) provides that the undepreciated capital cost of a depreciable property is the proportionate share of the undepreciated capital cost of the class that the fair market value of the property is of the fair market value of all the property in that class.
+
+The amount in clause 73(3)(b.1)(ii)(B) is equal to 4/3 times the proportionate share of the cumulative eligible capital of the business that the fair market value of the eligible capital property is of the fair market value of all the eligible capital property of the business. "4/3" is required, in view of the 3/4 inclusion rate for eligible capital property, to place the child in the same tax position as the parent concerning the property.
+
+In applying these rules, the fair market value, adjusted cost base, undepreciated capital cost of property and the cumulative eligible capital, as the case may be, are computed immediately before the time of transfer.
+
+**¶ 3.** The following are examples of the application of paragraph 73(3)(b):
+
+(a) Farm land with an adjusted cost base of $8,000 and a fair market value of $14,500 is transferred to a farmer's child.
+
+|  | Case 1 |  | Case 2 |  | Case 3 |  | Case 4 |  | Case 5 |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| If the agreed selling price is | $7,000 |  | $8,000 |  | $13,500 |  | $16,000 |  | NIL |
+
+| The deemed proceeds will be | $8,000 |  | $8,000 |  | $13,500 |  | $14,500 |  | $8,000 |
+
+(b) Farm land with an adjusted cost base of $8,000 and a fair market value of $6,500 is transferred to a farmer's child.
+
+|  | Case 1 |  | Case 2 |  | Case 3 |  | Case 4 |  | Case 5 |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| If the agreed selling price is | $6,000 |  | $6,500 |  | $8,000 |  | $9,500 |  | NIL |
+
+| The deemed proceeds will be | $6,500 |  | $6,500 |  | $8,000 |  | $8,000 |  | $6,500 |
+
+**¶ 4.** Pursuant to paragraph 73(3)(c), section 69 does not apply in determining the proceeds of disposition of depreciable property, land or eligible capital property under subsection 73(3).
+
+**¶ 5.** The application of the rules in paragraphs 73(3)(a), (b) and (b.1) requires the determination of an amount described in those paragraphs as "the proceeds of disposition otherwise determined." For purposes of those provisions, the term "proceeds of disposition otherwise determined" generally means the amount of consideration paid or payable by a child on a transfer of farm property. In the case of a gift, there is no consideration paid or payable and, because of paragraph 73(3)(c), section 69 does not apply to otherwise determine the proceeds of disposition on such a transfer. In addition, subsection 20(1) of the ITAR has no application in determining "proceeds of disposition otherwise determined" for purposes of paragraph 73(3)(a). Similarly, subsection 21(1) of the ITAR does not apply in determining "proceeds of disposition otherwise determined" for purposes of paragraph 73(3)(b.1).
+
+**¶ 6.** The provisions of subsection 73(3) apply only if:
+
+(a) the child was resident in Canada immediately before the transfer;
+
+(b) the property was, before the transfer, used principally in the business of farming (see ¶s [21](#P237_26453) to 26 below); and
+
+(c) the parent, the parent's spouse or any of their children was actively engaged on a regular and continuous basis in that business (see ¶ [27](#P244_31649) below).
+
+The parent is not required to be resident in Canada at any time. In addition, subsection 73(3) applies only to property owned by the parent immediately before the transfer to a child and thus is not applicable to property owned at that time by a partnership or corporation. With regard to the property transferred, the land must be capital property of the parent. There are no requirements as to the use of the land, depreciable property or eligible capital property after its transfer.
+
+**¶ 7.** In certain circumstances, the Department will regard a remainder interest in land as "land" for the purposes of subsection 73(3). If all of the parties to the transaction agree in writing that the remainder interest transferred to the child is "land" to which subsection 73(3) applies and that its fair market value immediately before the time of transfer for the purposes of that subsection is the full value of the land not discounted by any life interest not transferred to the child, the Department will view the transaction accordingly.
+
+**¶ 8.** Subject to the comments in ¶s [31](#P255_35527) and [32](#parag32) below, the parent's deemed proceeds of disposition under subsection 73(3) is, in the case of land and depreciable property of a prescribed class, deemed by paragraph 73(3)(d) to be the child's cost of acquisition. In the case of eligible capital property, the child is deemed by paragraph 73(3)(d.1) to have acquired a capital property at a cost equal to the parent's deemed proceeds of disposition, except in cases where the child continues to carry on the business previously carried on by the parent or the parent's spouse or any of their children. In such cases, the child is deemed to have acquired an eligible capital property and to have made an eligible capital expenditure at a cost equal to the aggregate of the parent's deemed proceeds of disposition and 4/3 of the unrecaptured portion of any deduction taken by the parent under paragraph 20(1)(b) prior to the transfer. Pursuant to paragraph 73(3)(d.2), if the transfer to a child occurs after February 22, 1994, and if the child subsequently disposes of eligible capital property acquired in circumstances to which subsection 73(3) applied, an amount may be added to Q in the definition of "cumulative eligible capital" in subsection 14(5) for the purposes of determining the amount deemed by subparagraph 14(1)(a)(v) to be the child's taxable capital gain and the amount to be included under subparagraph 14(1)(a)(v) or paragraph 14(1)(b) in calculating the child's income. (If the transfer to the child occurred before February 23, 1994, an amount may be added to Q for the purposes of determining the amount to be included under paragraph 14(1)(b) in calculating the child's income.) The amount is determined as the amount, if any, determined for Q for the parent's business times the proportionate share of the fair market value of the property transferred to the fair market value of all the eligible capital property of the parent's business. The amount determined for Q and the fair market values are determined immediately before the time the property is transferred.
+
+**¶ 9.** When the amount that is the deemed cost to the child of depreciable property of a prescribed class under paragraph 73(3)(d) is less than the parent's capital cost thereof, the capital cost of the property to the child is deemed to be the amount that was its capital cost to the parent. The difference between these two amounts is deemed by paragraph 73(3)(e) to have been allowed to the child as capital cost allowance and thus may be subject to recapture in the event of a subsequent disposition by the child.
+
+**¶ 10.** A taxpayer who disposes of qualified farm property, as defined in subsection 110.6(1), may be eligible for the capital gains deduction under subsection 110.6(2) on taxable capital gains arising from the disposition.
+
+### Situations in which Subsection 73(3) Applies:
+
+**¶ 11.** The following are some examples of situations in which subsection 73(3) would apply, assuming all conditions of that provision are otherwise met:
+
+(a) a taxpayer may transfer farm property in stages or piecemeal (partial dispositions) over any number of years. The onus is on the taxpayer to establish that a legal transfer is made on each occasion;
+
+(b) the transfer of a part of a farm property to the taxpayer's spouse under subsection 73(1) does not preclude a transfer of the remainder to a child under subsection 73(3);
+
+(c) a taxpayer may sever and transfer to a child farm land upon which the child may construct a residence;
+
+(d) a taxpayer may transfer a farm property to several children in undivided shares;
+
+(e) a taxpayer who is a sole owner of farm property may arrange for transfer of ownership of that property to a child in such a manner that the child becomes a joint tenant or tenant in common with the taxpayer in that property;
+
+(f) provided the substance of a transaction is to effect the immediate transfer of the beneficial ownership (that is, all the incidents of title such as possession, use and risk) of a farm property from a taxpayer to a child, such taxpayer may in certain instances (subject to departmental approval on an individual basis) transfer farm property under subsection 73(3) notwithstanding that legal title in the property so transferred continues to be held by the taxpayer, or some third party as security against payment of the sale price of that property or against payment of a loan taken by the child to purchase that property. For example, the Department has agreed that subsection 73(3) could apply when a child borrowed money from a Farm Loan Board to purchase a farm at less than fair market value from a parent, and the Board required that the parent first sell that property to them and they, in turn, would resell it to the child under an Agreement for Sale, thus retaining title to that real estate as security against the loan;
+
+(g) a taxpayer may transfer a farm property to a partnership if all the partners are the taxpayer's children; and
+
+(h) a taxpayer may transfer farm land to a child and retain a life interest in the land for the taxpayer, for the spouse of the taxpayer or for the taxpayer and the spouse jointly (see ¶ [7](#P184_12072) above).
+
+### Situations in which Subsection 73(3) Does Not Apply:
+
+**¶ 12.** The following are some situations in which subsection 73(3) would not apply:
+
+(a) a taxpayer cannot transfer farm property to a corporation and have subsection 73(3) apply even though all the shareholders are the taxpayer's children; and
+
+(b) a taxpayer cannot use subsection 73(3) to defer a capital gain attributable to a principal residence located on, and transferred with, farm land being transferred to a child under that subsection because a principal residence is not a depreciable property of a prescribed class. However, paragraphs 40(2)(b) or 40(2)(c) could apply to such gain if the conditions in the definition of "principal residence" in section 54 are met, (see the current version of IT-120, *Principal Residence*).
+
+### Trusts for Minors
+
+**¶ 13.** A parent may transfer property described in subsection 73(3) (see ¶ [2](#P103_6503) above) or 73(4) (see ¶ [14](#P208_19456) below) to a trust solely for the benefit of his or her minor child. However, for property transferred to such a trust to qualify for a rollover under either of those subsections the following additional conditions must be met:
+
+(a) the trust must be irrevocable;
+
+(b) the terms of the trust must provide for the property to be held in trust for the exclusive benefit of the child and there must not be any trust provision which could have the effect of depriving the child of any rights as the beneficial owner of the property; and
+
+(c) the terms of the trust must provide for the distribution of the property to the child absolutely upon reaching a certain age and for the distribution of that property to the child's estate upon the child's death before that age.
+
+### Family Farm Corporations and Partnerships
+
+**¶ 14.** Subsection 73(4) applies when a parent while living transfers, to his or her child, property that was immediately before the transfer a share of the capital stock of a family farm corporation owned by the parent or an interest in a family farm partnership owned by the parent. (See ¶s [17](#P211_22003) and [18](#P224_24299) below for a discussion of "share of the capital stock of a family farm corporation" and "interest in a family farm partnership" respectively.) The child must be resident in Canada immediately before the transfer. If the amount of the proceeds of disposition otherwise determined is either equal to or falls between the fair market value and the adjusted cost base of the property, then that amount is deemed to be the parent's proceeds of disposition. In any other case, if the proceeds of disposition otherwise determined (see ¶ [15](#P209_20718) below) are greater than both the fair market value and the adjusted cost base of the transferred property, the greater of those amounts is deemed to be the proceeds of disposition and, if less than both of those amounts, the lesser of those amounts is deemed to be the proceeds of disposition. The child is deemed to have acquired the shares or partnership interest at a cost equal to the parent's deemed proceeds of disposition.
+
+**¶ 15.** Consistent with ¶ [5](#P178_10302) above, for purposes of subsection 73(4) the term "proceeds of disposition otherwise determined" generally means the amount of consideration paid or payable by a child on a transfer of the above-mentioned shares or partnership interests. In addition, pursuant to paragraph 73(4)(b), section 69 does not apply in determining the proceeds of disposition of such property.
+
+**¶ 16.** Even though a partnership interest in a family farm partnership may have a negative adjusted cost base at the time it is transferred under subsection 73(4), that negative amount must not be included in the computation of the deemed proceeds of disposition of that partnership interest under subsection 73(4). In such a case, the deemed proceeds of disposition under subsection 73(4) and the resultant gain under subsection 40(1) on disposition of the partnership interest are computed as if the adjusted cost base were nil. However, subsection 100(2) would apply in this situation to require that, in computing the amount of the transferor's gain on the disposition of the partnership interest, there be included, in addition to the amount of the gain normally computed under subsection 40(1), the amount of the aforementioned negative adjusted cost base immediately before the transfer.
+
+**¶ 17.** A "share of the capital stock of a family farm corporation" of a person at a particular time is defined in subsection 70(10) to mean a share of the capital stock of a corporation owned by the person at that time where, at that time, all or substantially all of the fair market value of the property owned by the corporation was attributable to:
+
+(a) property that has been used by
+
+(i) the corporation,
+
+(ii) another family farm corporation in which the person or a related family member of the person was a shareholder,
+
+(iii) the person,
+
+(iv) a related family member of the person, or
+
+(v) a partnership, an interest in which was an interest in a family farm partnership of the person or of a related family member of the person,
+
+principally in the course of carrying on the business of farming in Canada in which the person or a related family member of the person was actively engaged on a regular and continuous basis;
+
+(b) shares of the capital stock or indebtedness of one or more corporations all or substantially all of the fair market value of the property of which was attributable to property described in ¶ 17(c) below; or
+
+(c) properties described in ¶ 17(a) and (b) above.
+
+In determining the fair market value of a share of the capital stock of a family farm corporation, subsection 70(12) deems the fair market value of a net income stabilization account to be nil.
+
+For the purposes of this paragraph and ¶ [18](#P224_24299) below, a related family member of the person is a spouse, child or parent of the person.
+
+***Note:** In April, 1995 the Minister of Finance issued* Amendments to the Income Tax Act and Related Statutes. *The proposed amendments include one to subparagraph (a)(i) of the definition "share of the capital stock of a family farm corporation" in subsection 70(10). If the subparagraph is amended as proposed, for 1994 and subsequent taxation years, it will read: "the corporation or a corporation related to it," The proposed amendment affects (a)(i) and (ii) above. Explanatory notes were issued which elaborate on the proposed amendment. The Explanatory notes describe that the amendment will allow the property used in the qualifying farming business of one corporation to be held not only by that corporation or a sister corporation but also by a subsidiary or parent corporation of that corporation.*
+
+**¶ 18.** An "interest in a family farm partnership" of a person at a particular time is defined in subsection 70(10) to mean an interest owned by the person at that time in a partnership where, at that time, all or substantially all of the fair market value of the property of the partnership was attributable to:
+
+(a) property that has been used by
+
+(i) the partnership,
+
+(ii) the person,
+
+(iii) a related family member of the person, or
+
+(iv) a family farm corporation in which the person or a related family member of the person was a shareholder,
+
+principally in the course of carrying on the business of farming in Canada in which the person or a related family member of the person was actively engaged on a regular and continuous basis;
+
+(b) shares of the capital stock or indebtedness of one or more corporations all or substantially all of the fair market value of the property of which was attributable to property described in ¶ 18(c) below; or
+
+(c) properties described in ¶ 18(a) and (b) above.
+
+**¶ 19.** It is a question of fact to be determined on an individual basis whether, for purposes of the definitions of "interest in a family farm partnership" and "share of the capital stock of a family farm corporation" in subsection 70(10), "all or substantially all" of the property of a corporation or partnership is attributable to qualifying use. However, if 90% in terms of fair market value of the property of a family farm corporation or family farm partnership is used principally in qualifying use, then the "all or substantially all" requirement will be considered to have been met.
+
+### Transfers to Parent
+
+**¶ 20.** If property which was acquired by a child under subsection 73(3) or 73(4) has been transferred or distributed to his or her parent as a consequence of the child's death, the child's legal representative may elect under subsection 70(9.6) in the final return to have the rollover provisions of subsection 70(9) or 70(9.2) apply. See the current version of IT-349, *Intergenerational Transfers of Farm Property on Death* for a discussion of subsections 70(9), (9.2) and (9.6).
+
+### Used Principally in the Business of Farming by a Parent, or by his or her Spouse or Child
+
+**¶ 21.** With regard to ¶s [6](#P179_11202) and [19](#P233_25279) above, for purposes of subsection 73(3) and the definitions of "share of the capital stock of a family farm corporation" and "interest in a family farm partnership" in subsection 70(10), it is always a question of fact whether a particular property (for example, land or depreciable property of a prescribed class) is used principally in a farming business. In resolving this question the use of the property as a whole must be considered.
+
+**¶ 22.** Generally, for purposes of subsection 73(3) and the definitions of "share of the capital stock of a family farm corporation" and "interest in a family farm partnership" in subsection 70(10), a property is used principally in a farming business if its primary use (that is, more than 50% of its use) is in respect of the farming business operation as opposed to use in concurrent corporate or partnership operations that may even be ancillary or related to the farming operation such as, for example, storage or trucking of farm products for others or contract harvesting. In this context a residence owned by a corporation will be regarded as used principally in the course of carrying on the business of farming if more than 50% of its use is as accommodation for persons who are actively employed in the farming business or their dependants. Furthermore, the residence must be provided to the persons in their capacity as employees rather than as shareholders and the residence must be part of the business operation in that it provides accommodation for employees whose services may be required at virtually any time by virtue of the nature of the farming operations. If the 50% farming business usage test is not met by a particular property then it will be included in the group of property acquired for investment or non-qualified uses.
+
+**¶ 23.** It is also a question of fact whether a particular farming operation constitutes a farming business at any particular time. Some of the criteria which should be considered in making this determination are set out in the current version of IT-322, *Farm Losses*. An additional criterion exists in cases where farming operations have not been undertaken previously, or at least in recent years, on property owned by an individual, a family farm corporation or a family farm partnership (see ¶s [17](#P211_22003) and [18](#P224_24299) above). In such cases, before the rollover provisions of subsection 73(3) or 73(4) can apply, if a new farming operation has been initiated, whether specifically in anticipation of a rollover under one of those provisions or not, in order to establish that a farming business is being carried on all of the work associated with and required to initiate a viable farming business should be instituted and completed to the extent it is reasonably possible to do so in a given fact situation.
+
+**¶ 24.** Assuming that a farming business is being carried on and that the property is in fact used in that farming business, it also must be determined on a fact basis whether a particular taxpayer, or the spouse or child of the taxpayer, is carrying on that particular farming business. In this regard, a taxpayer, a spouse or a child is considered to be carrying on a particular farming business when that person, to the extent that the circumstances of the particular farming operation allow, determines, for example, which fields will be planted, the type of crops to be seeded and the times for spraying and harvesting. The fact that the services of another person may be engaged for a negotiated sum of money to undertake all or part of the work associated with the farming activity (a relationship commonly referred to as "custom working") would not disqualify a taxpayer (farm owner) from rolling farm property to a child under subsection 73(3). Subsection 73(3) states, in part, that "... the property was, before the transfer, used principally in the business of farming ... ." There is no requirement that the property be used immediately before the transfer in the business of farming. However, if the property is used for some purpose other than farming for some period of time, a question may arise as to whether the property was used primarily for that other purpose rather than in the business of farming.
+
+**¶ 25.** A lessor of farm property is not considered to be using the property in the business of farming. Thus, the property which immediately before the transfer was leased to another person (including a sharecropper) is not eligible for transfer under subsection 73(3) unless it was used principally in the business of farming by a lessee who is the spouse or child of the lessor and the lessee was actively engaged in the business on a regular and continuous basis.
+
+**¶ 26.** In the preceding paragraph "sharecropper" means a farmer who is a tenant and gives a share of the crop to the landlord in lieu of rent. There may be other types of arrangements, for example, when an individual is actually an employee of the owner of the farm and not a tenant and receives a share of the crop as a remuneration for services rendered. Under such an arrangement, the farm property may be eligible for transfer under subsection 73(3).
+
+### Actively Engaged on a Regular and Continuous Basis
+
+**¶ 27.** Subsection 73(3) and the definitions in subsection 70(10) of "shares of the capital stock of a family farm corporation" and "interest in a family farm partnership" require that a person be "actively engaged on a regular and continuous basis" in the business of farming. Whether a person is "actively engaged on a regular and continuous basis" is a question of fact. However, the requirement is considered to have been met when the person is "actively engaged" in the management and/or day to day activities of the farming business. Ordinarily the person would be expected to contribute time, labour and attention to the business to a sufficient extent that such contributions would be determinant in the successful operation of the business. Whether an activity is engaged on a "regular and continuous basis" is also a question of fact but an activity that is infrequent or activities that are frequent but undertaken at irregular intervals would not meet the requirement. If farming is not the chief source of income, that is, subsection 31(1) applies, it may be more difficult to demonstrate that the taxpayer, the taxpayer's spouse or the taxpayer's child was actively engaged on a regular and continuous basis in the business of farming.
+
+### Reserves
+
+**¶ 28.** If a taxpayer transfers property to a child at an amount in excess of its adjusted cost base and subsection 73(3) or 73(4) applies, a reserve may be claimed under subparagraph 40(1)(a)(iii) for the uncollected proceeds computed as described in the current version of IT-236, *Reserves -- Disposition of Capital Property*. Pursuant to subsection 40(1.1), in its application to transfers of farm property (as described in ¶ [2](#P103_6503) above) and a share of a family farm corporation or an interest in a family farm partnership to a child who was resident in Canada immediately before the transfer, this reserve is limited to a maximum period of 9 years. In computing the taxpayer's capital gains over this period at least 1/10 of the capital gain on disposition must be included in the year of disposition, and at least 1/10 of that gain must be included in computing the taxpayer's capital gains for each of the 9 subsequent taxation years subject, of course, to any overriding effect of the application of clause 40(1)(a)(iii)(A) for the calculation of the reasonable reserve, as described in the current version of IT-236, which might accelerate this reporting.
+
+### Attribution
+
+**¶ 29.** Subsection 75.1(1) provides that when a taxpayer's property has been transferred to a child in circumstances such that subsection 73(3) or 73(4) applied, taxable capital gains and allowable capital losses from dispositions of the transferred property by the child are deemed to be those of the taxpayer. Subsection 75.1(1) does not apply, if:
+
+(a) the taxpayer is dead or no longer resident in Canada at the time of the disposition by the child;
+
+(b) the child attains the age of 18 years before the end of the taxation year in which the disposition takes place; or
+
+(c) the transfer to the child was made at not less than the fair market value of the property immediately before that transfer.
+
+Property that is land in Canada, depreciable property in Canada of a prescribed class, a share of the capital stock of a family farm corporation, or an interest in a family farm partnership is subject to subsection 75.1(1).
+
+**¶ 30.** For transfers and loans of property the rules in subsection 74.1(2) apply to attribute to a taxpayer income (but not business income) from farm property (as described in ¶ [2](#P103_6503) above), an interest in a family farm partnership or a share in a family farm corporation, or property substituted therefor, transferred to and owned by a related minor. The current version of IT-510, *Transfers and Loans of Property made after May 22, 1985 to a Related Minor* discusses the income attribution rules as they affect related minors.
+
+### ITAR Provisions -- Land
+
+**¶ 31.** If the farm land transferred, which is subject to the provisions of subsection 73(3), was owned by the taxpayer on December 31, 1971 (or if a person who did not deal at arm's length with the taxpayer owned the property on June 18, 1971 and no arm's length owners intervened to the date of such transfer), subsections 26(3) and 26(5) of the ITAR preserve the tax-free zone in the usual way (see the current version of IT-132, *Capital Property Owned on December 31, 1971 -- Non-Arm's Length Transactions,* and subsection 26(19) of the ITAR).
+
+### ITAR Provisions -- Depreciable Property of a Prescribed Class
+
+**¶ 32.** Subsection 20(1) of the ITAR may preserve the tax-free zone for depreciable property of a prescribed class transferred under subsection 73(3), when the taxpayer's deemed proceeds of disposition exceed the property's capital cost (see the current version of IT-217, *Capital Property Owned on December 31, 1971 -- Depreciable Property*).
+
+### ITAR Provisions -- Eligible Capital Property
+
+**¶ 33.** Subsection 21(1) of the ITAR has no application in determining the amount of a parent-transferor's deemed proceeds of disposition of eligible capital property under paragraph 73(3)(b.1) of the Act. However, once such an amount is computed under paragraph 73(3)(b.1), that amount represents an amount payable for purposes of section 14 of the Act (in particular E of the definition of "cumulative eligible capital" in subsection 14(5)) and can be reduced by the provisions of subsection 21(1) of the ITAR if the conditions of that subsection are otherwise met. When subsection 21(1) of ITAR applies to reduce the amount payable, the child-transferee's cost of acquisition of the eligible capital property (see paragraph 73(3)(d.1) of the Act) is subject to a similar reduction under subsection 21(2) of ITAR since the child acquires that property in a non-arm's length transaction.
+
+### ITAR Provisions -- Family Farm Corporations
+
+**¶ 34.** If a taxpayer owned shares of the capital stock of a family farm corporation on June 18, 1971 and continuously thereafter until the time of transfer to a child after 1971, then subsection 26(5) of the ITAR would apply to preserve that taxpayer's tax-free zone to the child if the other provisions of that subsection are met. However, if the taxpayer acquired such shares between June 19, 1971 and December 31, 1971 and transfers them after 1971 in a non-arm's length transaction to which subsection 73(4) of the Act applies (see ¶ [14](#P208_19456) above), subsection 26(5) of the ITAR is technically not applicable and there is no provision similar to subsection 26(19) of the ITAR (see ¶ [31](#P255_35527) above) to preserve the tax-free zone on those shares. Nevertheless, it is the Department's practice not to deprive the child in such a situation of the benefit of the tax-free zone. Consequently, the Department will permit such a transferee (child) to use subsections 26(5) and related subsection 26(3) of the ITAR instead of paragraph 73(4)(c) of the Act to establish the adjusted cost base of such shares transferred whether by gift or in any other manner.
+
+### Property Depreciable Pursuant to Part XVII
+
+**¶ 35.** Property on which a parent is claiming, or has claimed, capital cost allowance only under Part XVII of the *Income Tax Regulations* before making an *inter vivos* transfer thereof to his or her child does not qualify for a rollover under subsection 73(3) of the Act. Instead, the parent's proceeds of disposition of such property must be computed either under subsection 20(1) of the ITAR or, if the conditions of that subsection are not met, under section 69 of the Act. In any case where subsection 20(1) of ITAR applies to determine a parent's deemed proceeds of disposition of Part XVII property that subsection will also preserve the parent's tax-free zone for such property to his or her child. (See the current version of IT-217.)
+
+**¶ 36.** Once Part XVII property is transferred by a parent to his or her child after 1971, if it is depreciable property of the child, it is required to be included in a prescribed class under Part XI of the Regulations, since property acquired after 1971 may not be depreciated pursuant to Part XVII of the Regulations.
+
+**¶ 37.** Notwithstanding that a leasehold interest in land used in a farming business (when that leasehold interest was acquired prior to 1972 and capital cost allowance was claimed thereon only under Part XVII of the Regulations) is technically not depreciable property of a prescribed class, the Department will nevertheless accept it as qualifying for a rollover under subsection 73(3) of the Act if the taxpayers involved so request in writing.
+
+## Explanation of Changes
+
+### Introduction
+
+The purpose of the *Explanation of Changes* is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+### Overview
+
+When a taxpayer disposes of anything to a person with whom the taxpayer does not deal at arm's length for proceeds of disposition that are less than the fair market value, the general rule is the taxpayer is deemed to receive proceeds of disposition equal to that fair market value. The bulletin describes exceptions to the general rule that may apply when a parent, while living, transfers farm property, shares of the capital stock of a family farm corporation or an interest in a family farm partnership to his or her child.
+
+The bulletin reflects amendments to the *Income Tax Act* resulting from S.C. 1994, c.7, Schedule VIII (S.C. 1993, c.24 -- formerly Bill C-92) and S.C. 1995, c.3 (formerly Bill C-59) and makes incidental changes. A Note has been added following ¶ [17](#P211_22003) to describe a proposed amendment to the definition of a "share of the capital stock of a family farm corporation" contained in the *Amendments to the Income Tax Act and Related Statutes* of April 1995.
+
+### Legislative and Other Changes
+
+A *Summary* has been added to briefly describe the purpose of the bulletin. The comments in the ¶ 1 of IT-268R3 have been transferred to the *Summary*.
+
+¶ [1](#P84_4453) (¶ 2 of IT-268R3) has been expanded to describe the meaning of "parent" and "spouse" -- which includes what is generally referred to as a "common-law" spouse.
+
+¶ [2](#P103_6503) (¶ 3 of IT-268R3) reflects a Bill C-92 amendment to paragraph 73(3)(b.1) -- eligible capital property. A description of clauses 73(3)(a)(ii)(B) and 73(3)(b.1)(ii)(B) has been added.
+
+¶ [6](#P179_11202) (¶ 7 of IT-268R3) reflects two Bill C-92 amendments to subsection 73(3). The amendments require that before the *inter vivos* transfer from a parent to the child the property must be used principally in the business of farming and that one or more of the parent, the parent's spouse or any of their children be actively engaged on a regular and continuous basis in that business.
+
+¶ [8](#P185_12617) (¶ 10 of IT-268R3) reflects a Bill C-92 amendment to paragraph 73(3)(d.1) and the addition of a discussion of paragraph 73(3)(d.2), as added to the Act by Bill C-92 and amended by Bill C-59.
+
+¶ [10](#P187_15214) (¶ 14 of IT-268R3) has been revised to delete commentary which is no longer relevant.
+
+¶ [17](#P211_22003) (¶ 26 of IT-268R3) reflects an amendment in Bill C-92 to the definition of "share of the capital stock of a family farm corporation." A Note has been added following the paragraph to reflect a proposed amendment to that definition that is contained in the *Amendments to the Income Tax Act and Related Statutes* of April, 1995.
+
+¶ [18](#P224_24299) (¶ 27 of IT-268R3) reflects Bill C-92 amendments to the definition of "interest in a family farm partnership."
+
+¶ [19](#P233_25279) (part of ¶ 29 of IT-268R3) reflects amendments to the definitions of "interest in a family farm partnership" and "share of the capital stock of a family farm corporation" in subsection 70(10) so that in determining whether an entity fits the definition, the property of the entity will be valued at fair market value rather than cost.
+
+¶ [20](#P235_25887) (¶ 8 of IT-268R3) has been expanded to include references to subsections 70(9.2) and 73(4).
+
+¶ [21](#P237_26453) (part of ¶ 15 of IT-268R3) has been revised to note that in subsection 73(3) and in the definitions of "interest in a family farm partnership" and "share of the capital stock of a family farm corporation" in subsection 70(10), the property must be used principally in the business of farming. A comment has also been added to the paragraph noting that the whole property must be considered in determining whether it is used principally in a farming business.
+
+¶ [22](#P238_26924) (part of ¶ 29 of IT-268R3) has been expanded to add further comments on a residence owned by a family farm corporation.
+
+¶ [24](#P240_29265) (part of ¶ 15 of IT-268R3) has been expanded to note that while there is no longer a requirement in subsection 73(3) that the property be used in farming immediately before a transfer, if the property has been used for some other purpose between the time the farming business ceased and the transfer was made, a question may arise as to whether the subsection applies.
+
+¶ [25](#P241_30683) (¶ 16 of IT-268R3) has been revised to reflect that subsection 70(9.8) is no longer relevant to subsection 73(3) because of amendments to the latter subsection in Bill C-92.
+
+New ¶ [27](#P244_31649) contains some observations on the expression "actively engaged on a regular and continuous basis."
+
+¶ [29](#P248_34069) (¶ 32 of IT-268R3) consolidates the paragraph and the Note which followed the paragraph concerning the Bill C-18 amendment to subsection 75.1(1).
+
+¶s 12, 13 and 30 of IT-268R3 were not carried forward as the law which they describe was repealed by S.C. 1986, c.6. (formerly Bill C-84). ¶ 31 of IT-268R3 was not carried forward pending the review of the amendments to section 80 in S.C. 1995, c.21 (formerly Bill C-70).
+
+Throughout the bulletin we have revised some of the wording in order to improve readability without altering the substance and reorganized the order of the paragraphs to improve cohesiveness.
+
+### Notice -- Bulletins do not have the force of law
+
+Interpretation bulletins (ITs) provide Revenue Canada's technical interpretations of income tax law. Due to their technical nature, ITs are used primarily by departmental staff, tax specialists, and other individuals who have an interest in tax matters. For those readers who prefer a less technical explanation of the law, the Department offers other publications, such as tax guides and pamphlets.
+
+While the ITs do not have the force of law, they can generally be relied upon as reflecting the Department's interpretation of the law to be applied on a consistent basis by departmental staff. In cases where an IT has not yet been revised to reflect legislative changes, readers should refer to the amended legislation and its effective date. Similarly, court decisions subsequent to the date of the IT should be considered when determining the relevancy of the comments in the IT.
+
+An interpretation described in an IT applies as of the date the IT is published, unless otherwise specified. When there is a change in a previous interpretation and the change is beneficial to taxpayers, it is usually effective for all future assessments and reassessments. If the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date of the IT.
+
+A change in a departmental interpretation may also be announced in the *Income Tax Technical News*.
+
+***If you have any comments regarding matters discussed in this IT, please send them to:***
+
+***Director, Business and Publications Division Income Tax Rulings Directorate Policy and Legislation Branch Revenue Canada Ottawa ON K1A 0L5***

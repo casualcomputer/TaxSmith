@@ -1,0 +1,111 @@
+Title: Non-Resident Registration
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/2-5/non-resident-registration.html
+Corpus path: corpus/cra/forms-publications/publications/2-5/non-resident-registration.md
+Document type: publication
+Last modified: 2017-11-30
+
+# Non-Resident Registration
+
+GST/HST memorandum 2.5 May 1999
+
+Overview
+
+This memorandum outlines which non-resident persons must register for purposes of the Goods and Services Tax (GST)/Harmonized Sales Tax (HST). It explains the terms "business" and "carrying on business in Canada" as well as other factors that must be taken into consideration when deciding if a non-resident must register for purposes of the GST/HST. All references to dollar values are in Canadian currency.
+
+Disclaimer
+
+The information in this memorandum does not replace the law found in the *Excise Tax Act* and its Regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation, or contact a Canada Revenue Agency (CRA) GST/HST Rulings Centre for more information. These centres are listed in GST/HST Memorandum 1.2, [Canada Revenue Agency GST/HST Rulings Centres](https://www.canada.ca/E/pub/gm/1-2/README.html). If you wish to make a technical enquiry on the GST/HST by telephone, please call the toll-free number 1-800-959-8287.
+
+If you are located in the Province of Quebec, please contact Revenu Québec by calling the toll-free number 1-800-567-4692 for additional information.
+
+This memorandum replaces GST/HST Memorandum 2.5, *Non-Resident Registration,* dated June 1995. Significant changes have been side-barred.
+
+Reference in this memorandum is made to supplies taxable at 7% or 15% (the rate of the Harmonized Sales Tax (HST). The 15% HST applies to supplies made in Nova Scotia, New Brunswick and Newfoundland (the “participating provinces”). If a person is uncertain as to whether the supply is made in a participating province, the person may refer to Technical Information Bulletin B-078, *Place of Supply Rules Under the HST*, available from any Revenue Canada tax services office.
+
+[Proposed amendments]
+
+[Where information reflects proposed amendments, the information is enclosed in square brackets.] In this publication, the proposed amendments that are reflected through the use of square brackets arise from the Notice of Ways and Means Motion dated November 26, 1997. Any commentary in this publication should not be taken as a statement by the Department that such amendments will in fact be enacted into law in their current form.
+
+## Non-residents who must register for the GST/HST
+
+Required registration ss 240(1)
+
+1. Every person who makes taxable supplies in Canada in the course of a commercial activity in Canada must register for the GST/HST, other than:
+
+- a small supplier;
+
+- a person whose only commercial activity is the making of supplies of real property by way of sale otherwise than in the course of a business; or
+
+- a non-resident person who does not carry on any business in Canada.
+
+2. Non-resident persons not carrying on business in Canada may register voluntarily for the GST/HST under certain circumstances. Refer to GST/HST Memorandum 2.2, *Small Suppliers*, for detailed information on small suppliers, and GST/HST Memorandum 2.3, *Voluntary Registration*, for information on when a non-resident may register voluntarily for the GST/HST.
+
+Non-resident suppliers of admissions ss 240(2) and 148(3)
+
+3. Every non-resident person who enters Canada for the purpose of making taxable supplies of admissions in respect of a place of amusement, a seminar, an activity or an event in Canada is required to register for the GST/HST before making any such supply. These persons, whose only business carried on in Canada is the making of such supplies, are not eligible for small supplier status, even if the total value of the taxable supplies they make does not exceed the small supplier threshold of $30,000 ($50,000 in the case of a public service body).
+
+Suppliers of prescribed property ss 240(4) and >s 143.1
+
+4. Every person who, in Canada, whether through an employee or agent or by means of advertising directed at the Canadian market, solicits orders for, or offers for sale, prescribed property that is to be sent by mail or courier to the recipient at an address in Canada is deemed to be carrying on business in Canada and is required to register for the GST/HST, unless the person is a small supplier. Prescribed property is:
+
+[*Publications Supplied by a Registrant (GST/HST) Regulations]*
+
+1. [a book, newspaper, periodical, magazine, and any similar printed publication, other than a publication included in section 1 of Schedule VII to the Act ;and
+
+2. an audio recording that relates to a publication included in paragraph (a) and that accompanies the publication when it is submitted to the Canada Post Corporation or a customs officer.] (This proposed change is effective November 26, 1997.)
+
+Sponsors of conventions s 189.2
+
+5. Where no more than 25% of convention admissions may reasonably be expected to be supplied to Canadian delegates, a non-resident sponsor of a convention will not be required to register for the GST/HST. Where there is a reasonable expectation that more than 25% of convention admissions will be supplied to Canadian delegates, the non-resident sponsor of the convention will be required to register for the GST/HST. Supporting documentation must be maintained with the non-resident sponsor's books and records.
+
+Organizers of conventions
+
+6. Organizers of conventions must register for the GST/HST if they carry on business in Canada and if they are not small suppliers.
+
+Exhibitors at conventions
+
+7. Non-resident exhibitors who are in Canada only to promote their products or services at a convention do not have to register for the GST/HST, or charge the tax on any orders taken from delegates during the convention. Non-resident exhibitors who bring products to the convention to sell to delegates should contact the nearest Revenue Canada tax services office to find out whether they must register for the GST/HST. More detailed information on conventions is contained in GST/HST Memorandum 27.2, *Conventions*, of Chapter 27, *Special Sectors: Tourism*.
+
+## Meaning of "carrying on business in Canada"
+
+General rule
+
+8. To decide if a non-resident person is carrying on business in Canada, it is first necessary to establish whether that non-resident person is engaged in a business and, if so, whether that business is carried on in Canada.
+
+Policy Statement P-051R2
+
+9. For a comprehensive discussion on the criteria for carrying on business in Canada as it relates to non-resident registration, please refer to GST/HST Policy Statement P-051R2, [Carrying on business in Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-051r2.html).
+
+## Non-resident not carrying on business in Canada
+
+Deemed supplies outside Canada ss 143(1)
+
+10. A supply of personal property or a service made in Canada by a non-resident person is deemed to be made outside Canada and is not subject to the tax under Division II except where:
+
+1. a) the supply is made in the course of a business carried on in Canada;
+
+2. b) the non-resident person is registered for GST/HST purposes (see GST/HST Memorandum 2.3, *Voluntary Registration*); or
+
+3. c) the supply is of an admission in respect of a place of amusement, a seminar, an activity or an event and the non-resident person did not acquire the admission from another person.
+
+### Situations where a non-resident is not considered to be carrying on business in Canada
+
+11. The following are examples of situations where a non-resident is **not** considered to be carrying on business in Canada.
+
+A US aircraft lessor has no employees in Canada, no facilities of any kind in Canada, (neither management, sales nor service), no bank accounts in Canada, and is not registered for the GST/HST. The lessor is approached by a Canadian company who wishes to lease an aircraft from the non-resident. The lease is accepted by the lessor in the US, the aircraft is delivered by the lessor in the US, and the aircraft is serviced in Canada by the lessee at its own expense. In such a case, the lessor would not be considered to be carrying on business in Canada.
+
+#### Example 2
+
+A US direct mailer sells goods (not prescribed property pursuant to section 143.1) to Canadian consumers through a catalogue. The non-resident person has no office in Canada, no employees or agents in Canada, and no bank accounts in Canada. The Canadian customers call a 1-800 number in the US or send an order form with payment to the US. The non-resident person fills the order by shipping the goods to the Canadian customers. In this case, the majority of facts suggest that the non-resident person is not carrying on business in Canada. The contracts are concluded in the US, the payments are made in the US, the inventory of goods is maintained in the US and the place where profits arise is in the US.
+
+#### Example 3
+
+A non-resident business located outside Canada supplies goods by way of sale to customers in Canada. The non-resident person accepts the offers to purchase outside Canada, imports the goods into Canada, and delivers them to the customers. Payments are made in Canada. Applying the guidelines to this example, it is determined that, other than delivery and payment being made in Canada, none of the other criteria for carrying on business in Canada applies. This would indicate that, in the absence of other factors, the non-resident person would not be considered to be carrying on business in Canada.
+
+## When non-residents must register for the GST/HST
+
+ss 240(2.1)
+
+12. A non-resident person carrying on business in Canada (with the exception of a non-resident person who makes taxable supplies of admissions in Canada in respect of a place of amusement, a seminar, an activity or an event) who makes world-wide taxable supplies valued at more than $30,000 ($50,000 where the person is a public service body), including supplies made by associated persons, in any four consecutive calendar quarters or in any one particular quarter, must apply to be registered before the thirtieth day after the day on which the non-resident person first makes a taxable supply in Canada in the course of a commercial activity, other than as a small supplier. In addition, the non-resident person must charge and collect tax on the first taxable supply made in Canada, other than as a small supplier.
+
+All GST/HST memoranda and other CRA publications are available on the CRA Web site at **www.cra-arc.gc.ca**

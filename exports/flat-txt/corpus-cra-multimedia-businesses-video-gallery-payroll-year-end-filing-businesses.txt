@@ -1,0 +1,147 @@
+Title: Payroll Year-End Filing for Businesses
+Source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/businesses-video-gallery/payroll-year-end-filing-businesses.html
+Corpus path: corpus/cra/multimedia/businesses-video-gallery/payroll-year-end-filing-businesses.md
+Document type: video_transcript
+Last modified: 2025-12-09
+
+# Payroll Year-End Filing for Businesses
+
+## Transcript
+Hello,
+I’m Anthony, your host for today.
+Let’s begin by acknowledging that the land on which I am located is the traditional unceded territory of the Algonquin Anishinaabeg People.
+The Algonquin peoples have lived on this land since time immemorial. We are grateful to have the opportunity to be present in this territory.
+Given that we are meeting virtually, I also want to acknowledge the lands on which you are gathered from coast to coast and invite you to take a moment to acknowledge the territory in which you find yourself.
+Welcome to Payroll Year-End Filing for Businesses.
+For today, please click on the question icon in the tool bar at the top of the screen to ask a question related to year-end filing. We’ll answer as many as we can during the webinar. For any other tax related questions, call the business enquiries line.
+Let’s get started.
+Today, we’ll talk about:
+- Filling out the slips and summaries
+- When to file information returns
+- How to file information returns
+- Distributing the slips
+- Receiving payroll correspondence from the CRA
+- Making corrections after filing
+Payroll information returns contain slips and a summary. Depending on the types of income you pay to employees and recipients, you may have to fill out and file more than one type of return in a calendar year.
+T4 and T4A are two necessary tax forms that detail employment and other income.
+A T4 slip identifies all of the remuneration paid by an employer to an employee during a calendar year.
+If you are an employer (resident or non-resident) and you paid your employees employment income, commissions, taxable allowances and benefits, fishing income, or any other remuneration, you must issue a T4 slip if any of the following apply:
+You deducted CPP/QPP, EI, PIP, or income tax from remuneration paid to your employee
+Or, if the total remuneration paid to your employee in the calendar year was more than $500.
+If you provide current employees with taxable group term life insurance benefits, you always have to issue a T4 slip, even if the total of all remuneration paid in the calendar year is $500 or less.
+On your T4 slips, report:
+- Salary or wages
+- Tips or gratuities
+- Bonuses
+- Vacation pay
+- Employment commissions
+- Gross and insurable earnings of self-employed fishers, barbers, hairdressers and taxi drivers
+- Taxable benefits or allowances
+- Retiring allowances
+- Deductions withheld during the year
+- Pension adjustment amounts for employees who accrued a benefit for the year under your registered pension plan or deferred profit sharing plan
+- Union dues or charitable donations
+- Security options benefits provided to an employee, former employee or non-resident employee
+Here are the guidelines for filling out the T4:
+- If you have multiple payroll accounts, file a T4 return for each payroll account
+- Income is reported on a T4 slip for the year in which it is paid, regardless of when it was earned
+- If your employee worked in more than one province or territory during the year, fill out a T4 slip for each province or territory
+- Report, in dollars and cents, all amounts you paid during the year, except pension adjustment amounts, which are reported in dollars only
+- A maximum of 10 digits, including cents, can be reported using box 14
+- Report all amounts in Canadian dollars, even if they were paid in another currency.
+The "Other information" area at the bottom of the T4 slip has boxes for you to enter codes and amounts that relate to employment commissions, taxable allowances and benefits, deductible amounts, fishers' income, and other entries if they apply.
+The boxes are not pre-numbered. Enter the codes and amounts that apply to the employee.
+Before you fill out the T4 slip, make sure to review the list of special situations, that can be found at the T4 Slip – Information for employers site.
+If your situation is listed there, how you complete this slip will be somewhat different from T4 slips in standard situations.
+Then, fill in the boxes with information requested, such as year, employers name, employee’s name and address, and complete Box 45, a mandatory box disclosing access to any dental care insurance or coverage that you had offered to your employees.
+Remember for box 54, you need to enter your 15-character payroll account number on your copy and the copy you send to the CRA only. Do not enter your account number on the copies you give to the employees.
+If you provided security options benefits to your employees, report the total value of the security options taxable benefit you provided to your employee on or after June 25, 2024, using code 90 and box 14 and the applicable security options deduction using either code 91 or 92.
+If you provided security options benefits between June 25, 2024 and December 31, 2024, visit T4 slip – Information for employers - Canada.ca for details on how to report.
+There are a series of 11 boxes that cover income, contributions, premiums , pensionable and insurable earnings, as well as registered pension plans, union dues and charitable donations.
+There are additional boxes at the bottom of the slip for entering other information codes to report codes and amounts that relate to employment commissions, taxable allowances and benefits, deductible amounts, fishers' income, and other entries if they apply.
+The T4 Summary represents the total of the information reported on all of the T4 slips you prepared for each employee for the calendar year.
+Information reported on the T4 Summary includes the totals for all employment income, CPP contributions, EI premiums, and income tax deducted, for all employees.
+Report all amounts in Canadian dollars, even if they were paid in another currency.
+Fill out a separate T4 Summary for each of your payroll accounts.
+The totals you report on your T4 Summary have to agree with the totals of all amounts you reported on your T4 slips for that payroll account.
+A T4A slip identifies amounts paid during the calendar year for certain types of income from many different sources including self-employed commissions and RESP educational assistance payments.
+If you are a payer, you must issue a T4A slip if any of the following apply:
+- You deducted tax from any amount paid to a recipient
+- If the amount paid to a recipient is not included on the exceptions list, found at T4A slip – Information for payers,
+- The total of all payments in the calendar year was more than $500 under the CRA administrative policy.
+What to report on a T4A:
+- Pension or superannuation
+- Lump-sum payments
+- Self-employed commissions
+- Annuities
+- Patronage allocations
+- Registered education savings plan accumulated income payments
+- Registered education savings plan educational assistance payments
+- Fees or other amounts for services
+- Income replacement payments made under the Veterans Well-being Act
+- Research grants
+- Payments from a registered disability savings plan
+- Wage loss replacement plan payments if you were not required to withhold CPP contributions and EI premiums
+- Death benefits
+- Certain benefits paid to partnerships or shareholders
+The T4A summary represents the total of the information reported on all of the T4A slips you prepared for each recipient for the calendar year. Report all amounts in Canadian dollars, even if they were paid in another currency.
+Fill out a separate T4A Summary for each one of your payroll accounts. The totals you report on your T4A Summary have to agree with the total of all amounts you reported on your T4A slips for that payroll account.
+For the T4 and T4A returns the filing due date is the last day of February after the preceding calendar year. In certain situations where there has been a change in your business, the filing dates may be different. You can learn more about these situations at:
+When to file information returns on Canada.ca
+The CRA considers the information return to be filed on time if it meets one of the following conditions:
+- It is received on or before the due date.
+- It is postmarked on or before the due date.
+When a due date falls on a Saturday, Sunday, or public holiday recognized by the CRA, your information return is considered on time if the CRA receives it on or it is processed at a Canadian financial institution on or before the next business day.
+You may be charged a penalty if you file your information return late and it is part of the list of information returns that applies to the legislated penalties. listed on Canada.ca at:
+When to file information returns.
+For T4 and T4A returns, you must file electronically if you have more than five slips of the same type for a calendar year.
+Where possible, you should file returns electronically to avoid the delays that may occur in processing paper returns.
+If you have more than one payroll account, you have to file a separate return for each account.
+If you are required to file electronically and you do not file the returns by Internet file transfer or Web Forms, you may have to pay a penalty.
+If you have a place of business in Quebec, in addition to filing with the CRA, you may have to file RL-1 slips with Revenu Québec in addition to your T4 and T4A slips.
+When filing your T4 information return, you may be eligible to use the new remittance method to make a reconciliation payment on or before the last day of February without being subject to a penalty or interest.
+You are eligible to use Payment on Filing if you meet all of the following three conditions:
+1. The reconciliation payment is less than 1% of the total annual remittances
+2. Payroll compliance is perfect which means all of the following apply:no late or outstanding remittances no assessments in the filing year all T4 information returns are filed on time
+3. One or more of the following must apply:you have employees who chose to be paid stock-based remuneration you relied on third-party information for insurance, health benefits, broker information, taxable benefits and/or automobile fleet mileage you have employees who live in other tax jurisdictions.
+For T4 and T4A slips, you must provide your employees or recipients with their slips by the last day of February of the following calendar year to which the slips apply.
+You can distribute T4 and T4A slips using an employer or payer's secure portal without obtaining written or electronic consent from the employees or recipients before distributing the slips, unless any of the following apply:
+- The employee or recipient requested for the slips to be provided in paper copy
+- The employee or recipient cannot reasonably be expected to have access to the slips in electronic format at the time the slips are issued
+- If you distribute T4 slips, the employee is on extended leave or is a former employee at the time they are issued
+If you distribute using an employer or payer's electronic portal, you must:
+- Make the slips accessible to your employees or recipients on a secure portal from which they can print the slips in a secure manner
+- Provide your employee or the recipient the option for paper copies
+If you cannot distribute using these methods, you will need to provide two copies of the slip, in paper format, to the recipient in person or by mail.
+You can distribute T4 and T4A slips by email. If you distribute by email, you must receive consent from employees or recipients, in writing or in electronic format, before sending the slips by email.
+If you distribute the slips late or you do not distribute, you may be assessed a penalty of $25 per day per slip with a minimum penalty of $100 and a maximum of $2,500.
+If the slips are returned as undeliverable, you should keep the copies with the employee or the recipient's file.
+If an employee or the recipient's address is known to be incorrect, the slips must not be sent to that address. You must do all of the following:
+- Document why the copies were not sent and the actions taken to obtain the current ad dress, and
+- Keep this information with the slip copies in the employee or the recipient's file, and
+- Include the slip with the information return when filing.
+Once the CRA receives your T4 returns, they will send you correspondence if either:
+- The CRA owes you a refund or rebate
+- Your amount owing is more than the payment you made
+The CRA may also send you other types of correspondence, for example, a Pensionable and Insurable Earnings Review notice, depending on the situation.
+It is the obligation of the taxpayer, the employer and the payee to report the income accurately.
+The employer can correct a reporting error. The employer cannot change the nature of the income paid. The employer can:
+- Correct deduction errors, if you over or under deducted income tax, CPP or EI
+- Amend, cancel, add, or replace slips and returns
+Today we talked about:
+- Filling out the slips and summaries
+- When to file information returns
+- How to file information returns
+- Distributing the slips
+- Receiving payroll correspondence from the CRA
+- Making corrections after filing
+Tax administration is as complex as life itself. If the content today doesn’t quite fit your situation, please:
+- Visit our web site
+- Visit What's New and updated for Payroll
+- Visit Canada.ca/cra-liaison-officer to get free tax help from a liaison officer
+- Call CRA’s business enquiries line at 1-800-959-5525
+- Subscribe to a Canada Revenue Agency mailing list for webinar alerts.
+You can also go to canada.ca/cra-videos where you’ll find all our business webinars.
+We’ve come to the end of our webinar. Please click on the survey icon in the tool bar at the top of the screen to fill out the evaluation form for this webinar.
+Thanks for joining me today. I hope it’s been helpful. Stay tuned for more webinars in the coming months!
+Good bye.

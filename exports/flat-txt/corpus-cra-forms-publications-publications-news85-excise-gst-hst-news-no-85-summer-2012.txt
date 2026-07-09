@@ -1,0 +1,355 @@
+Title: ARCHIVED - Excise and GST/HST News - No. 85 (Summer 2012)
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news85/excise-gst-hst-news-no-85-summer-2012.html
+Corpus path: corpus/cra/forms-publications/publications/news85/excise-gst-hst-news-no-85-summer-2012.md
+Document type: publication
+Last modified: 2012-07-31
+
+# ARCHIVED - Excise and GST/HST News - No. 85 (Summer 2012)
+
+## Table of Contents
+
+- [Elimination of the harmonized sales tax in British Columbia – transitional rules](#_Toc331145706)
+
+- [Bill C-38 receives Royal Assent](#_Toc331145707)
+
+- [The Supreme Court of Canada supports CRA's position](#_Toc331145708)
+
+- [Background](#_Toc331145709)
+
+- [SCC Decision](#_Toc331145710)
+
+- [HST place of supply rules for determining whether a supply is made in a province](#_Toc331145711)
+
+- [Research Activities Undertaken by Hospital Authorities – Entitlement to Rebates and Tax Status of Services](#_Toc331145712)
+
+- [Acceptable proof – expired Certificate of Indian Status card and Temporary Confirmation of Registration Document](#_Toc331145713)
+
+- [GST/HST rebate/refund holds and outstanding corporate income tax returns (T2s) for corporations exempt from paying tax under the *Income Tax Act*](#_Toc331145714)
+
+- [Interprovincial movement of wine](#_Toc331145715)
+
+- [Keeping businesses informed](#_Toc331145716)
+
+- [Online services built for businesses](#_Toc331145717)
+
+- [Online services built for individuals](#_Toc331145718)
+
+- [Prescribed rates of interest](#_Toc331145719)
+
+- [What's new in publications](#_Toc331145720)
+
+- [Enquiries](#_Toc331145721)
+
+## Elimination of the harmonized sales tax in British Columbia – transitional rules
+
+On May 31, 2012, the Government of British Columbia (B.C.) passed Bill 56 - 2012, New Housing Transition Tax and Rebate Act, giving effect to the B.C. transition tax and the B.C. transition rebate, which were proposed by B.C. on February 17, 2012. The B.C. transition tax and rebate will apply to certain supplies of residential real property made in B.C. where a transaction straddles the April 1, 2013 effective date for B.C.'s return to the provincial sales tax. More information will be made available on the CRA Web site in the coming months.
+
+## Bill C-38 receives Royal Assent
+
+[Bill C-38](https://www.parl.ca/LegisInfo/en/bill/41-1/c-38), the Jobs, Growth and Long-term Prosperity Act, received Royal Assent on June 29, 2012 and is now referred to as Statutes of Canada, 2012, c. 19. Bill C-38 includes several measures relating to the GST/HST and excise tax and also various GST/HST regulations. The Spring 2012 edition of the [Excise and GST/HST News, No. 84](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news84.html) discusses these measures.
+
+## The Supreme Court of Canada supports CRA's position
+
+The recent decision of the Supreme Court of Canada (SCC) in [Calgary (City) v. Canada, 2012 SCC 20](http://scc.lexum.org/en/2012/2012scc20/2012scc20.html) supports the Canada Revenue Agency's (CRA) position relating to the application of the GST/HST to grants and subsidies. It is consistent with the guidance provided in CRA's GST/HST Technical Information Bulletin B-067, GST/HST Treatment of Grants and Subsidies (TIB-067).
+
+### Background
+
+Governments and other bodies often provide transfer payments, including grants, subsidies and other types of financial assistance to grantees. Where these types of transfer payments are provided to fund or subsidize a grantee's activities and not to pay for a supply, they are not consideration for a supply for purposes of the [Excise Tax Act](http://laws-lois.justice.gc.ca/eng/acts/E-15/index.html) (the Act) and therefore, are not subject to the GST/HST. TIB-067 provides guidance in this regard. It clarifies that the appropriate test for determining when a transfer payment is consideration for a supply is whether there is a direct link between the payment and a supply to the grantor or to a third party specified by the grantor.
+
+On April 26, 2012, the SCC rendered its decision in *Calgary (City) v. the Queen*, dismissing the appeal by the City of Calgary and unanimously upholding the decision of the Federal Court of Appeal in favour of the CRA's position.
+
+The City of Calgary (the City) had argued successfully in the Tax Court of Canada (TCC)([2009 TCC 272](http://decision.tcc-cci.gc.ca/en/2009/2009tcc272/2009tcc272.html)) that funding it received from the Province of Alberta (the Province) was consideration for a taxable supply to the Province of a service of making available transit facilities for the citizens of Calgary. Therefore, the TCC held, the City was entitled to claim input tax credits in respect of GST paid in relation to that supply.
+
+The Federal Court of Appeal (FCA) ([2010 FCA 127](http://decisions.fca-caf.gc.ca/en/2010/2010fca127/2010fca127.html)) overturned the TCC's decision, agreeing with the CRA that there was no supply to the Province and concluding that the only supply by the City was the supply of exempt municipal transit services to the public. The FCA found that there was nothing in the authorizing legislation that required the City to construct any facilities for the Province. It found that the legislation only authorized the Province to provide the City with financial assistance. It also held that the agreements between the City and the Province, under which the financial assistance was paid, were framework funding agreements which provided a mechanism by which the financial assistance would be administered and accountability would be maintained. The City was granted leave to appeal the FCA's decision to the SCC.
+
+### SCC decision
+
+In its judgment, the SCC looked at the scheme and structure of the Act and considered the relevant jurisprudence. In particular, the SCC reviewed and accepted the test for determining whether there is a single or multiple supply(ies), as set out by the TCC in *OA Brown Ltd. v. Canada* [1995] G.S.T.C 40.
+
+The SCC then went on to consider whether or not the payments by the Province to the City were consideration for any supply. The SCC stated that “to determine whether the Province received any service or benefit from the City, the nature of the respective obligations of the City and the Province under the Agreements, having regard to the statutory context, must be analyzed.” After undertaking this analysis, the SCC concluded the following:
+
+1. there was nothing in the relevant statutes or Agreements that required the City to supply any goods, services or other benefit to the Province;
+
+2. the Province provided funding under the Agreements to assist the City in carrying out its own activities;
+
+3. the FCA was correct in finding that the Agreements were simply framework funding agreements and the conditions in the Agreements generally, related to the application of the funds, the required accounting, and other matters of an administrative nature; and
+
+4. the funding was not provided to the City to obtain a supply of accountability and the City's compliance with the accountability measures in the Agreements did not amount to the provision of any goods, services or benefit to the Province.
+
+Based on the above, the SCC agreed with the CRA's position and held that the construction and acquisition of the transit facilities were inputs into the City's supply of municipal transit services to the public and not a separate supply by the City. There was only one supply by the City – the exempt supply of municipal transit services to the public. As a result, the City was not entitled to claim input tax credits for GST/HST paid in the course of acquiring and constructing the municipal transit facilities.
+
+In conclusion, the SCC sets out a logical approach to determine when a transfer payment is consideration for a supply for purposes of the Act. First, a determination must be made as to whether or not there is a supply between the grantor and the grantee. If there is a supply, one must then determine whether the payments are consideration for the supply. In making such determinations, one must analyze the nature of any obligations of the parties both in the authorizing statutes and in the terms of any agreements under which the transfer payments are made. The judgment by the SCC reinforces the position that the CRA has consistently taken in relation to the application of GST/HST to grants and subsidies and other financial assistance and it supports the guidance, including the application of the “direct link” test, provided in TIB-067.
+
+## HST place of supply rules for determining whether a supply is made in a province
+
+GST/HST Technical Information Bulletin (TIB) [B-103, Harmonized Sales Tax – Place of supply rules for determining whether a supply is made in a province,](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-103.html) has been revised and published in draft form for public comments.
+
+TIB B-103 explains the place of supply rules (including new place of supply rules included in the [New Harmonized Value-added Tax System Regulations](http://canadagazette.gc.ca/rp-pr/p2/2010/2010-06-09/pdf/g2-14412.pdf) published on June 9, 2010) that determine whether a supply is made in a province for purposes of determining whether the supply is made in a participating province and consequently subject to the provincial part of the HST in addition to the federal part of the HST.
+
+Please send your comments by September 30, 2012 to the Manager, Border Issues Unit, General Operations and Border Issues Division, Excise and GST/HST Rulings Directorate, Canada Revenue Agency, 5th floor, Place de Ville, Tower A, 320 Queen Street, Ottawa, ON K1A 0L5.
+
+## Research activities undertaken by hospital authorities – entitlement to rebates and tax status of services
+
+GST/HST Policy Statement, *Research Activities Undertaken by Hospital Authorities - Entitlement to Rebates and Tax Status of Services*, has been published in draft form (as [GST/HST Notice274](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice274.html)) on the CRA Web site for public comments.
+
+This policy sets out the CRA's position concerning the eligibility of hospital authorities to claim an 83% rebate of the GST and the federal part of the HST as well as any corresponding rebate of the provincial part of the HST for the non-creditable tax charged that is incurred by hospital authorities in the course of carrying out research activities.
+
+Please send your comments by September 30, 2012 to the Director, Public Service Bodies and Governments Division, Excise and GST/HST Rulings Directorate, Canada Revenue Agency, 5th floor, Place de Ville, Tower A, 320 Queen Street, Ottawa, ON K1A 0L5.
+
+## Acceptable proof – expired Certificate of Indian Status card and Temporary Confirmation of Registration Document
+
+First Nation individuals entitled to claim tax relief under the CRA administrative policy explained in GST/HST Technical Information Bulletin [B-039, GST/HST Administrative Policy - Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html), need to provide vendors with proof of registration under the [Indian Act](http://laws-lois.justice.gc.ca/eng/acts/I-5/index.html).
+
+The CRA accepts as proof of registration under the *Indian Act* the Certificate of Indian Status card or the [Temporary Confirmation of Registration Document](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice264.html) (TCRD) both of which are issued by Aboriginal Affairs and Northern Development Canada (AANDC).
+
+AANDC is in the process of introducing a new Secure Certificate of Indian Status card (SCIS card) that will improve security and reliability. At present, there are various versions of the Certificate of Indian Status card in circulation which makes it difficult to enforce the renewal requirement as not all cards currently in circulation have an expiry date.
+
+In the case of the TCRD, the delays in moving to the SCIS card have meant that some newly registered First Nation individuals have not received the SCIS card prior to their TCRD expiry date.
+
+Therefore, the CRA will accept an authentic Certificate of Indian Status card or TCRD, even if expired, as supporting documentation that the purchaser is an Indian. In the case of the TCRD additional picture identification could be presented along with the expired TCRD as further authentication. The CRA will review this position after AANDC makes the new SCIS Cards available to all First Nations individuals registered under the *Indian Act*.
+
+## GST/HST rebate/refund holds and outstanding corporate income tax returns (T2s) for corporations exempt from paying tax under the Income Tax Act
+
+On April 25, 2012, the CRA published a Fact sheet [Canada Revenue Agency to ease burden on tax exempt corporations](https://www.canada.ca/en/revenue-agency/news/newsroom/fact-sheets/newsroom-fact-sheets-newsroom-fact-sheets-2012/canada-revenue-agency-ease-burden-on-tax-exempt-corporations.html) *,* which announced that the CRA has concluded its review of this issue and has determined that refunds or rebates will not be withheld from incorporated MUSH entities (municipalities, universities, schools, and hospitals), non-profit organizations, federal Crown corporations, and Indian band councils that are exempt from federal income tax under the *Income Tax Act*when they have outstanding T2 returns. This decision adopts indefinitely the administrative position on this issue which was first introduced in 2008.
+
+The Fall 2009 edition of the Excise and GST/HST News (No. 74) referred readers to the July 16, 2009 Fact sheet, Compliance refund hold impact on tax-exempt corporations, which announced an extension through to the 2010 taxation year of its administrative position to not automatically withhold refunds or rebates of the above entities. The Winter 2008 edition of the Excise and GST/HST News (No. 67) published information on the administrative position for the initial extension period.
+
+## Interprovincial movement of wine
+
+On June 28, 2012, [Bill C-311, An Act to Amend the Importation of Intoxicating Liquors Act (interprovincial importation of wine for personal use)](https://www.parl.ca/LegisInfo/en/bill/41-1/c-311) received Royal Assent. This amendment to the [Importation of Intoxicating Liquors Act](http://laws-lois.justice.gc.ca/eng/acts/I-3/index.html) (IILA), which is effective immediately, removes the federal barrier prohibiting individuals from moving wine from one province to another when it is for their personal use.
+
+The taxation and regulation of wine are the responsibility of both the federal and provincial governments. As such, it is important to note that the amendment, without appropriate provincial legislative or regulatory authorization, will not automatically permit individuals to move wine interprovincially or to place orders with wineries by telephone or the Internet.
+
+The IILA is a federal statute governing the interprovincial transportation, international importation and release of beverage alcohol. It was established in 1928 at the request of the provinces after the revocation of their liquor prohibition laws.
+
+The amendment does not remove existing provincial laws related to the importation of wine, nor does it change existing laws for importing alcohol into the territories which are governed by separate federal statutes. As well, there are no changes to either the federal taxation or regulation of wine. There will be no change to the reporting of wine transactions by federal [Excise Act, 2001](http://laws-lois.justice.gc.ca/eng/acts/E-14.1/index.html) licensees.
+
+The amendment does not affect the provincial regulation of wine, but respects the provincial jurisdiction on the possession, movement and sale of wine within a province. It also provides the provinces with the authority to introduce and regulate the personal importation of wine into their jurisdictions.
+
+For more information on this subject, see Excise Duty Notice EDN31, Amendment to the Importation of Intoxicating Liquors Act, or you can contact your nearest regional excise duty office. A list of regional excise duty offices is available in Excise Duty Memorandum EDM1-1-2, Regional Excise Duty Offices.
+
+## Keeping businesses informed
+
+The CRA uses several tools to keep individuals, businesses, and their representatives informed of the latest tax-related news and updates.
+
+If you are visiting the CRA's Web site frequently to ensure you don't miss any updates, there's an easier and faster way to stay informed. Signing up for our [Businesses – Tax information newsletter](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-businesses-tax-information-newsletter.html) is a great way for business owners and their representatives to stop searching and start receiving general updates by email as they are issued.
+
+When you sign up to receive the [Businesses – Tax information newsletter](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-businesses-tax-information-newsletter.html) by email or by RSS feed, the CRA will share information with you such as:
+
+- tax tips;
+
+- new or improved electronic services;
+
+- legislative and regulatory changes;
+
+- events and seminars; and
+
+- business-related videos that have been posted to our Web site at [CRA Multimedia library](https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library.html).
+
+To sign up for the *Business –Tax information newsletter*, go to [CRA electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) or [CRA RSS feeds](https://www.canada.ca/en/revenue-agency/services/e-services/feeds.html). If you are looking for other ways to stay connected, follow us on [Twitter](https://www.canada.ca/en/revenue-agency/corporate/stay-connected-stay-informed.html) or visit the CRA's [YouTube Channel](http://www.youtube.com/canrevagency) for tax-related videos.
+
+## Online services built for businesses
+
+**Going online makes good business sense. Take control of your business's tax accounts, and instantly access and make changes to tax information online. With CRA's online secure portals, you can:**
+
+- authorize a representative for **online access** to your business accounts
+
+- manage or view addresses
+
+- file and adjust most GST/HST returns without a Web access code
+
+- view most processed returns line-by-line along with the processing status and expected returns
+
+- file a Public Service Bodies' (PSB) rebate for registrant and non-registrant PSB filers
+
+- review and adjust previously filed PSB rebates
+
+- file certain elections
+
+- file Form GST189, *General Application for Rebate of GST/HST*for Ontario First Nations point-of-sale relief through My Business Account or NETFILE when filing a GST/HST return
+
+- view notices and statements
+
+- view up-to-date account balances and transactions
+
+- view endorsements
+
+- transfer payments within a program account and between program accounts of the same nine-digit business number and immediately view updated balances
+
+- calculate instalment payments
+
+- view representative's transactions
+
+- view banking information
+
+- view and manage operating names
+
+- manage profile to add or remove a business
+
+- submit an enquiry, or make online requests (for example, order additional remittance vouchers)
+
+- view messages in the Message Centre about new electronic services or other information as well as receive notification of responses to your submitted enquiries
+
+- submit suggestions to improve My Business Account
+
+To access our online secure portals, for:
+
+- business owners, go to [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), or
+
+- representatives (including employees), go to [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html).
+
+## Online services built for individuals
+
+Instantly access information and make changes online to your personal income tax and benefit account. You can:
+
+- change your return, address, telephone numbers, or marital status
+
+- apply for child benefits
+
+- arrange for direct deposit
+
+- authorize your representative
+
+- set up a payment plan
+
+- formally dispute your assessment or determination
+
+For more information, go to:
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), if you are an authorized representative; or
+
+- [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html), if you are the individual.
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from July 1, 2012, to September 30, 2012, on overdue amounts payable to the Minister is 5%. The prescribed annual rate of interest on amounts owed by the Minister (i.e., rebates or refunds) is 1% for corporate taxpayers and 3% for non-corporate taxpayers. These rates are applicable to income tax, excise tax, the softwood lumber products export charge, GST/HST and the air travellers security charge (ATSC) and excise duty on wine, spirits and tobacco.
+
+The prescribed annual rate of interest respecting excise duty on beer, on overdue amounts payable for the indicated period, is set at 3%. Refund interest rates are not applicable for amounts owed by the Minister (i.e., rebates or refunds) for excise duty that is in relation to beer.
+
+|  | Income Tax, Excise Tax, Softwood Lumber Products Export Charge, GST/HST and ATSC, Excise Duty (wine, spirits, tobacco) | Excise Duty (beer) |  |
+
+| --- | --- | --- | --- |
+
+| Period | **Refund Interest** | **Arrears and Instalment Interest** | **ArrearsInterest** |
+
+| July 1 to September 30, 2012 | 1% corporate taxpayers 3% non-corporate taxpayers | 5% | 3% |
+
+| April 1 to June 30, 2012 | 1% corporate taxpayers 3% non-corporate taxpayers | 5% | 3% |
+
+| January 1 to March 31, 2012 | 1% corporate taxpayers 3% non-corporate taxpayers | 5% | 3% |
+
+| October 1 to December 31, 2011 | 1% corporate taxpayers 3% non-corporate taxpayers | 5% | 3% |
+
+[Prescribed interest rates for previous years](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html) are available on the CRA Web site at [Prescribed interest rates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## What's new in publications
+
+The following is a list of new or revised excise and GST/HST forms and publications.
+
+### GST/HST forms
+
+- GST20 - [Election for GST/HST Reporting Period](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst20.html)
+
+- GST20-1 - [Notice of Revocation of an Election for GST/HST Reporting Period by a Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst20-1.html)
+
+- GST111 - [Financial Institution GST/HST Annual Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst111.html)
+
+- GST191 - [GST/HST New Housing Rebate Application for Owner-Built Houses](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst191.html)
+
+- RC79 - [Deposit Advice](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc79.html)
+
+- RC151 - [GST/HST Credit Application for Individuals Who Become Residents of Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc151.html)
+
+- RC4611 - [Application for Authorization or Revocation for an Exchange-Traded Fund to Use Particular Methods to Determine Its Provincial Attribution Percentages](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4611.html)
+
+- RC4612 - [Application to Not be Considered a Selected Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4612.html)
+
+- RC7001-BC - British Columbia Provincial Sales Tax (PST) Transitional New Housing Rebate - Residential Condominiums
+
+- RC7002-BC - British Columbia Provincial Sales Tax (PST) - Transitional New Housing Rebate - Apartment Buildings
+
+- RC7524-BC - GST524 British Columbia Rebate Schedule
+
+### GST/HST notices
+
+- Notice273 - [GST/HST Rulings Service - Eligibility of Tours under the Foreign Convention and Tour Incentive Program](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice273.html)
+
+- Notice274 - [For discussion purposes only - Draft GST/HST Policy Statement, Research Activities Undertaken by Hospital Authorities - Entitlement to Rebates and Tax Status of Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice274.html)
+
+- Notice275 - For discussion purposes only – Draft GST/HST Technical Information Bulletin B-103, Harmonized Sales Tax – Place of supply rules for determining whether a supply is made in a province
+
+### GST/HST guide
+
+- RC4210 - [GST/HST Credit Including related provincial credits and benefits For the period from July 2012 to June 2013](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4210.html)
+
+### GST/HST technical information bulletins
+
+- B-102 - [First Nations Goods and Services Tax - Place of Supply](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-102.html)(revised)
+
+- B-103 - [For discussion purposes only – Draft GST/HST Technical Information Bulletin B-103, Harmonized Sales Tax – Place of supply rules for determining whether a supply is made in a province](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-103.html)
+
+### GST/HST memoranda
+
+- 9-3 - [Allowances](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/9-3.html)
+
+- 9-4 - [Reimbursements](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/9-4.html)
+
+### Excise duty forms
+
+- B60 - Excise Duty Entry
+
+- E110 - [Description of Premises to Accompany Application for Licence](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/e110.html)
+
+### Excise duty notices
+
+- EDN31 - Amendment to the Importation of Intoxicating Liquors Act
+
+- EDN32 - Federal Excise Stamp Mandatory on Tobacco Products as of July 1, 2012
+
+### Excise duty memoranda
+
+- EDM10-1-7 - [Completing an Excise Duty Return - Spirits Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edm10-1-7.html) (revised)
+
+### Softwood lumber products export charge notices
+
+- SWLN5 - Certification of Independent Remanufacturers (revised)
+
+All GST/HST, Excise Duty, and Excise Taxes and Special Levies publications can be found on the CRA Web site at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html), at [Excise taxes and other levies technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies.html), and at [Excise duties technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty.html).
+
+To receive email notification as soon as a document is published on the CRA Web site, go to the [electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribe to the RSS feed for all new CRA publications and forms, or subscribe to any number of mailing lists for different types of publications.
+
+## Enquiries
+
+**For online access to business accounts, such as view up-to-date account balances and transactions, transfer payments, and more**for your GST/HST, softwood lumber products export charge, air travellers security charge as well as excise taxes and duty accounts, go to:
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), if you are an authorized representative or employee; or
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), if you are the business owner.
+
+**For technical help while using our online services** for:
+
+- business accounts, call 1-800-959-5525
+
+- teletypewriter users, call 1-800-665-0354
+
+- calls outside of Canada and the United States, call collect 709-772-8371
+
+Please have the screen number (bottom right); and if applicable, the error number and message received on hand when calling.
+
+**For general information and to make enquiries regarding your account** (except for softwood lumber products export charge accounts), call Business Enquiries at 1-800-959-5525.
+
+**For enquiries regarding your softwood lumber products export charge account,** call 1-800-935-0313.
+
+**To make enquiries regarding the status of specific GST/HST domestic rebate claims,** call 1-800-959-5525.
+
+**For GST/HST technical enquiries**call GST/HST Rulings at 1-800-959-8287.
+
+**For online access to your personal income tax and benefit account** where you can authorize your representative; track your refund; change your return, address, or telephone numbers; view tax information slips and your RRSP limit; or check your benefit and credit payments, go to: [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), or [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html).
+
+**Forms and publications** To access forms and publications online go to [Order forms and publications](https://apps.cra-arc.gc.ca/ebci/cjcf/fpos-scfp/pub/rdr?request_locale=en_CA). To order forms and publications by telephone call 1-800-959-2221.
+
+**Are you a GST/HST registrant located in Quebec?** To make an enquiry or obtain information on the GST/HST, contact Revenu Québec at 1-800-567-4692 or visit their Web site at [www.revenuquebec.ca](http://www.revenuquebec.ca/en/).
+
+The *Excise and* *GST/HST News* is published quarterly and highlights recent developments in the administration of the goods and services tax (GST) and harmonized sales tax (HST), First Nations goods and services tax (FNGST) and First Nations tax (FNT), softwood lumber products export charge, air travellers security charge (ATSC) as well as excise taxes and duties. If you would like to receive a link to each new edition of the*Excise and GST/HST News*as it is published, [subscribe](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/subscribe-a-canada-revenue-agency-electronic-mailing-list.html) to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-excise-gst-hst-news.html).
+
+This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into the law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, *Excise and* *GST/HST News*, Legislative Policy and Regulatory Affairs Branch, CRA, Ottawa, ON K1A 0L5.

@@ -1,0 +1,56 @@
+---
+title: "T4008-OC Payroll Deductions Supplementary Tables - In Canada Beyond the Limits of Any Province/Territory or Outside Canada - Effective January 1, 2026"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/payroll/t4008-payroll-deductions-supplementary-tables/t4008oc-jan.html
+last_modified: 2025-12-24
+---
+# T4008-OC Payroll Deductions Supplementary Tables - In Canada Beyond the Limits of Any Province/Territory or Outside Canada - Effective January 1, 2026
+
+## Notice to the reader
+
+Publication T4008, Payroll Deductions Supplementary Tables, is available in sections for each province and territory. Section A (available in both HTML and PDF formats) contains general information. Sections B to D (available in PDF format only) contain the payroll deductions supplementary tables for Canada Pension Plan contributions, federal tax deductions (In Canada beyond the limits of any province/territory or outside Canada), and the payroll deductions tables for Employment Insurance premiums. Please note that you can also use the Payroll Deductions Online Calculator (PDOC) to quickly calculate federal and provincial payroll deductions.
+
+### Section A
+
+- [t4008oc-january-general-information.html [HTML]](https://www.canada.ca/en/revenue-agency/services/forms-publications/payroll/t4008-payroll-deductions-supplementary-tables/t4008oc-jan/t4008oc-january-general-information.html)
+
+- [t4008-oc-1-26-e.pdf [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008-oc-1-26-e.pdf)
+
+### Section B(i) – CPP contributions tables
+
+- [10 pay periods a year [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008cpp-10pp-26eng.pdf)
+
+- [13 pay periods a year [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008cpp-13pp-26eng.pdf)
+
+- [22 pay periods a year [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008cpp-22pp-26eng.pdf)
+
+- [27 pay periods a year (Biweekly) [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008cpp-27pp-26eng.pdf)
+
+- [53 pay periods a year (Weekly) [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008cpp-53pp-26eng.pdf)
+
+- [240 pay periods a year (Daily) [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008cpp-240pp-26eng.pdf)
+
+### Section B(ii) – Second additional CPP contributions table
+
+- When the [province or territory of employment is other than the province of Quebec [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008cpp2-rpc2-26eng.pdf)
+
+### Section C - Employment Insurance premiums tables
+
+- When the [province or territory of employment is other than the province of Quebec [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008einoqc-26eng.pdf)
+
+### Section D - Federal tax deductions supplementary tables - In Canada beyond the limits of any province/territory or outside Canada
+
+- [10 pay periods a year [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008-oc-10pp-26-eng.pdf)
+
+- [13 pay periods a year [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008-oc-13pp-26-eng.pdf)
+
+- [22 pay periods a year [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008-oc-22pp-26-eng.pdf)
+
+- [27 pay periods a year (Biweekly) [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008-oc-27pp-26-eng.pdf)
+
+- [53 pay periods a year (Weekly) [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008-oc-53pp-26-eng.pdf)
+
+- [240 pay periods a year (Daily) [PDF]](/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4008/2026/t4008-oc-240pp-26-eng.pdf)
+
+**Last update:** 2025-12-18
+
+**Related document:**[T4008 Payroll Deductions Supplementary Tables](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/t4008-payroll-deductions-supplementary-tables.html)

@@ -1,0 +1,439 @@
+Title: Webinar – Completing your T3010 online: A walkthrough for charities
+Source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/charities-video-gallery/webinar-completing-t3010-online-walkthrough-charities.html
+Corpus path: corpus/cra/multimedia/charities-video-gallery/webinar-completing-t3010-online-walkthrough-charities.md
+Document type: video_transcript
+Last modified: 2025-08-13
+
+# Webinar – Completing your T3010 online: A walkthrough for charities
+
+## Transcript
+### Slide 3 – Completing your T3010 online: A walkthrough for charities
+RENEE: “Let me welcome you to the Canada Revenue Agency’s webinar on Completing your T3010 online.
+Thank you for taking the time to join us today.
+My name is Renee and I’ll be your host for today’s talk.”
+### Slide 4 – Objective
+RENEE: “The purpose of today’s presentation is to familiarize you with the online T3010 and highlight its various features, along with other important considerations. It’s also important to note that while we discuss almost all of the schedules and forms, this presentation does not contain line by line explanations.
+If you have any questions about individual line items while you’re completing the T3010, you can contact our client service representatives at 1-800-267-2384.”
+### Slide 5 – Overview
+RENEE: “The presentation will start out with a brief overview of the advantages of completing your T3010 online with My Business Account.
+Then we’ll discuss a few things to consider before you begin.
+We’ll also do an overview of how to log in to My Business Account, or MyBA for short, and how to find the digital return. But, we will not be going over how to register for MyBA. If you need help registering for MyBA, you can consult our web pages or call our client service representatives.
+In the meantime, this presentation should be informative for you.
+Next, we’ll go through the sections and schedules of the T3010 and talk about the various features and important considerations.
+Then, we’ll briefly look at a new option to file your T3010.
+And lastly, we’ll highlight the top mistakes to avoid when completing your T3010, to help you avoid them.”
+### Slide 6 – Part 1 - Advantages of completing your T3010 online
+RENEE: “Let’s get started with the advantages.”
+### Slide 7 – Advantages of completing your T3010 using online services
+RENEE: “Here are some of the advantages of completing your T3010 annual information return using our online services.
+- Submitting online allows for faster processing. The moment you click submit, the CRA receives your return. And your charity’s information will show the next day on our list of charities webpage. No more postage or mail delivery issues!
+- The form allows for more accurate data. A CRA employee no longer has to decipher whether that number written out by hand is a 3 or an 8, while entering the paper copy into the CRA’s system. And, you’ll only be asked for more information on certain items, depending on whether you say yes or no to questions or check certain items on a list.
+- The form is broken down into sections you complete at your leisure.
+- You can start and stop the return at any time. Clicking “next” saves the information up to that point. You can also review and change a section at any time.
+- Progress bars and a status column help you navigate the form by showing which sections you’ve completed, started, or haven’t started yet.
+- Any authorized individual on the account with access to MyBA can work on the return and look at it once it’s been completed. So it might be a good idea to get a few authorized individuals from your organization to sign up for MyBA!
+- You can also print a copy of the return once you’ve submitted it.”
+### Slide 8 – Part 2 - Before you begin
+RENEE: “Now, here's what you need to do before you start.”
+### Slide 9 – Information to have on hand
+RENEE: “First, you’ll need to have your MyBA sign-in information.
+Then you’ll need to make sure you have the following information on hand:
+- Annual reports, project reports, and books and records to help you answer questions about your charity’s activities, beneficiaries, employees and volunteers
+- A copy of the charity’s own financial statements, including a list of qualified donees your charity transferred funds to, a list of non-qualified donees (grantees) your charity made grants to, and notes for the financial statements (if the charity has income over $250,000, the CRA’s Charities Directorate recommends the financial statements be professionally audited; otherwise, the treasurer for the charity should sign them)
+- remember that you must provide financial statements even if your charity was not active
+- Information on your directors, trustees, and like officials for that fiscal period
+- A list of qualified donees your charity provided funds to, if this applies
+- Information on any intermediaries you worked with outside of Canada
+- Your information on excess corporate holdings, if you had any. These are only for private foundations that held more than 2% of any class of shares of a corporation at any time during the fiscal period. If you’re not sure whether your charity is a private foundation, you can look up your charity’s designation on the List of [Charities on Charities and giving - Canada.ca](https://www.canada.ca/en/services/taxes/charities.html).”
+### Slide 10 – Do not include
+RENEE: “Please do not include any of the following:
+- Amended governing documents
+- Requests to change your fiscal period end, or
+- Other correspondence
+You should submit these items separately.”
+### Slide 11 – Other considerations
+RENEE: “Inactive charities must still file a return. A charity is inactive if it did not use any of its resources during the entire fiscal period to carry out its charitable activities or to further its charitable purposes.
+If your charity goes through an inactive period, you must still file a complete return and explain in the “Ongoing programs” section why it was not active.
+If your charity is no longer in operation, send us a letter asking for voluntary revocation of its registration. The letter must be signed by a representative the Charities Directorate has on file. Before you ask for [voluntary revocation](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/revoking-registered-status/types-revocation.html), go to the webpage [Consequences of revocation](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/revoking-registered-status/consequences-revocation.html).
+If you have received approval to change your fiscal period year-end, you will have to file a separate return for the months between the old fiscal period year-end and the beginning of the new fiscal period.
+If you have received approval to reduce your disbursement quota, you must file [Form T1240, Registered Charity Adjustment Request](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1240.html), to correct the return for the fiscal period the shortfall occurred in.”
+### Slide 12 – Part 3 – Getting started
+RENEE: “Once you have everything you need, it’s time to log in to MyBA.”
+### Slide 13 – Access your organization’s account through MyBA
+RENEE: “Once again, if you have not yet registered for MyBA and do not have an account, please consult our webpages on [how to register for MyBA](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/business-account.html). We have provided the link here.
+Or you can call our client service representatives for support. You can find the number at the end of the presentation.
+If you have not yet signed up, we encourage you to stay, as you can still benefit from this presentation.
+If you are ready to log in, here’s the link for [CRA sign-in services](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).”
+### Slide 14 – My Business Account (1/6)
+RENEE: “The CRA has created a unique portal for all its online services so that people have the same experience whether they are an individual, a business (including charities), or a representative.
+Directors, trustees, and like officials of a charity or their representative will log in using their CRA account; that is the interface we will be starting from today.”
+### Slide 15 – My Business Account (2/6)
+RENEE: “Once you are logged in, you will be presented with all the accounts you have access to. From here, you can select your charity account.”
+[Arrow pointing to your charity account]
+RENEE: “If you are an employee, a volunteer, a lawyer, an accountant, or a bookkeeper who is an authorized representative, you would log in using Represent a Client. The Represent a Client interface is slightly different from MyBA, but the process for completing the T3010 is the same.”
+### Slide 16 – My Business Account (3/6)
+RENEE: “You will then see the Overview page. On the menu on the left side of the page, click “Registered Charity.”
+[Arrow pointing to Registered charity]
+RENEE: “Your charity may have just one RR charity account, or it may have multiple RR accounts. Select the RR account you’d like to file a return for. For most charities, this will be RR 0001.”
+### Slide 17 – My Business Account (4/6)
+RENEE: “That will take you to this page – your charity’s account overview page. Click here to file a return.”
+[Arrow pointing to File a return]
+RENEE: “This page is also where you can file an adjustment to your return if you need to make any changes after you’ve submitted it.”
+You can also view and manage your charity’s information using the various links on this page.”
+### Slide 18 – My Business Account (5/6)
+RENEE: “The first page you’ll see once you click “File a return” is a list of all expected and overdue returns, if your charity has any.”
+[Arrow pointing to first column where the status is indicated as Expected]
+RENEE: “Select the one you’d like to complete and click “Fill out the return.””
+[Arrow pointing to Fill out the return]
+RENEE: “Please ensure you complete all expected and overdue returns.”
+### Slide 19 – My Business Account (6/6)
+RENEE: “Before you start, you’ll be asked to review and accept this privacy statement.”
+[Arrow pointing to I confirm that I have read the Privacy notice above]
+RENEE: “Because you’ll be giving the names and contact information for your directors, we strongly recommend you voluntarily inform all your directors, trustees, and like officials that their personal information will be disclosed to the CRA. Keep in mind that contact information and date of birth will NOT be made public. Only names are available to the public.
+Check the box to confirm, then click Next.”
+[Arrow pointing to Next]
+### Slide 20 – T3010 return – Overview
+RENEE: “Now you’ve arrived at the T3010 Overview page. On this page, there is a link to our guide for completing the T3010 that you can refer to if you have questions as you progress.”
+[Arrow pointing to the link to our guide for completing the T3010]
+RENEE: “Clicking the link will open the guide in a new tab, so you can click back and forth between it and the T3010.”
+### Slide 21 – Your progress
+RENEE: “As you complete the various sections and forms, the overview page will show you your progress, your status and the action you have to take for each section and form. Your progress is saved automatically as you move along.”
+### Slide 22 – Part 4 – Completing sections
+RENEE: “Now, we’ll go through each of the sections, schedules, and forms one at a time, starting with the sections.”
+### Slide 23 – Basic information sheet
+RENEE: “The first section is the Basic information sheet.”
+[Arrow pointing to the Basic information sheet]
+RENEE: “Once you click “Start”, the following screen will appear.”
+[Circle around the Start button]
+RENEE: “Since the Basic information sheet is no longer being sent out, just click “no.” If the information is incorrect, you can update it by using the “Change this” button on the next page.”
+[Circle around the No button]
+### Slide 24 – Section A – Identification (1/3)
+RENEE: “After the Basic Information Sheet is Section A – Identification.”
+[Arrow pointing to Section A - Identification]
+RENEE: “Click on “Start” in the Action column.”
+### Slide 25 – Section A – Identification (2/3)
+RENEE: “The identification section has only a few questions for you to answer. It will first ask you to enter your charity’s website, if you have one.
+When you scroll down from here, you’ll see three questions.”
+### Slide 26 – Section A – Identification (3/3)
+RENEE: “You’ll be asked:
+- whether your charity is subordinate to a head body
+- if your charity has wound-up, dissolved, or terminated operations, and
+- whether your charity is designated as a foundation
+Like the other sections, you’ll be prompted to give more information depending on how you answer the questions.”
+[Arrow pointing to Yes at Question A1]
+RENEE: “As you can see here, answering yes to the first question means you’ll have to provide the name and business number of your head body.”
+If for question A3, you say you are designated as a foundation, you’ll see a note that explains what other sections will apply to you. The relevant forms will automatically be added to your return and will show up on the Overview page.”
+[Arrow pointing to Public foundations and private foundation must complete Schedule 1, Foundations. Schedule 1 is now available to you on the Overview page]
+### Slide 27 – Section B – Directors/Trustees and Like Officials (1/8)
+RENEE: “Section B is for information on directors, trustees, and like officials.”
+[Arrow pointing to Section B – Directors/Trustees and Like Officials]
+RENEE: “Please note that when you fill out this section, it will not update authorizations in the CRA’s systems. This section is meant simply to provide a record of who was a director during that particular fiscal period. Whenever your charity has a change in directors, you must notify the CRA through a separate process. MyBA allows you to do that online.
+For instructions on [how to change your directors](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/making-changes/changing-a-charitys-director-trustee-like-official-information.html), click the link at the bottom of this slide.”
+### Slide 28 – Section B – Directors/Trustees and Like Officials (2/8)
+RENEE: “When you first get to section B, you’ll be asked to enter the number of directors, trustees, and like officials that you’ll be including. You can enter up to five digits, although I can’t imagine any charity having tens of thousands of directors. But it’s there if you need it.
+Enter the number and then click “Next.””
+### Slide 29 – Section B – Directors/Trustees and Like Officials (3/8)
+RENEE: “When you click next, you’ll see this page.
+You’ll see a table (the one with the blue headers). If you filed a previous return, some sections will already be pre-populated. The system will automatically fill in this table with all the names and information for all your directors as you fill out the form.”
+### Slide 30 – Section B – Directors/Trustees and Like Officials (4/8)
+RENEE: “Scroll just below the table and you’ll see the fields you need to complete. Notice that each field that will be publicly available is clearly indicated.
+You must provide complete information for each director, trustee, or like official who was a member of the charity's board of directors at any time during the fiscal period of this return.
+For each director, give the following information:
+- Last name, first name, and initial
+- The start date and end date of their term as a director. If they are still currently in their position, please leave the end date blank
+- Their position title”
+### Slide 31 – Section B – Directors/Trustees and Like Officials (5/8)
+RENEE:
+- “Whether or not they’re at arm’s length with other directors
+- Their home address
+- Phone number
+- And their date of birth
+As you can see, the address, phone number, and date of birth are confidential. This is not available to the public.”
+[Arrow pointing to Residential address (confidential)]
+RENEE: “I’d like to take a moment to go back to the term “arm’s length.” If you’re going through these items for the first time, you might have questions like, “what does arm’s length mean?” Many of these questions can be answered by clicking on the dark blue and white question mark circles.”
+### Slide 32 – Section B – Directors/Trustees and Like Officials (6/8)
+RENEE: “For example, if you click on the question mark beside the arm’s length question, you will get this fantastic explanation pop-up.”
+[Arrow pointing to the question mark]
+RENEE: “At arm's length is a concept that describes a relationship in which two persons act independently of each other and are not related.
+If you need more information, there’s a link in the help box.”
+### Slide 33 – Section B – Directors/Trustees and Like Officials (7/8)
+RENEE: “Once you’ve filled in the details for a director, their information will appear in the table at the top of the page. You can go back and change or delete a director’s information if you need to. That far left column lets you choose an individual director and then click “modify selection.””
+[Arrows pointing to List of directors/trustees and like officials and Modify selection or Delete selection]
+RENEE: “Once you’re done adding all your directors, click “Next” to move on.
+And a quick reminder–every time you click next, the information you’ve inputted and the progress you’ve made to this point will be saved.”
+### Slide 34 – Section B – Directors/Trustees and Like Officials (8/8)
+RENEE: “At the end of Section B, you’ll see a summary of the information you’ve provided. Once everything looks good, you can go ahead and click “Done with this section.””
+[Arrow pointing to Done with this section]
+### Slide 35 – Section C - Programs and general information (1/6)
+RENEE: “Section C is for your charity’s programs and general information.”
+[Arrow pointing to Section C – Programs and general information]
+### Slide 36 – Section C - Programs and general information (2/6)
+RENEE: “This section contains a list of about 16 questions regarding your charitable programs. Most of the questions are “yes” or “no” questions. However, question two will involve some writing.
+Once you answer the first question, which is “was your charity active or not, yes or no”, then you’ll be asked to describe your charitable programs. This includes all of the charitable activities your charity carries out on its own through employees or volunteers, as well as through qualified donees and intermediaries. There’s a space for ongoing programs and a space for new programs that began in that fiscal period.
+You do not have to describe fundraising activities here, and you don’t have to upload any supporting documents.
+This is also not the space to describe changes you wish to make to your charity’s activities in the future. This is strictly about what your charity did in the past fiscal period. If you are considering new activities that we have not yet approved, you should consult us outside of this process by calling our client service representatives.”
+### Slide 37 – Section C - Programs and general information (3/6)
+RENEE: “And don’t worry, question 2 is also not the place to write an essay. Just give enough for the reader to understand what your charity does. Here are some examples from our guide on completing the T3010 to help you answer this question:
+- We operate a recycling service, or
+- We hold worship services weekly, or
+- We financially support overseas missionary activities by gifting funds to our denomination headquarters, which is a registered charity
+We included a few other examples for you to see.”
+### Slide 38 – Section C - Programs and general information (4/6)
+RENEE: “Now, I won’t go through every single question in this section. Like I mentioned, they’re mostly all “yes” or “no” questions. But you will be asked for more information, depending on how you answer some of the questions.
+So here are a few examples. This question asks which fundraising methods your charity used, if it did any fundraising. If you select “other” at the bottom of the list, you will be prompted to specify.”
+[Arrow pointing to Other]
+### Slide 39 – Section C - Programs and general information (5/6)
+RENEE: “If you indicate that your charity paid external fundraisers, these additional questions will appear. As well, a new form, Schedule 4, will be added to your return and show on the overview page.”
+[Arrow pointing to Yes on Question C7]
+### Slide 40 – Section C - Programs and general information (6/6)
+RENEE: “There are a few other questions that will indicate that a new form has been added to the overview page. Like this one asking if your charity received any non-cash gifts it issued a tax receipt for. If you say “yes,” a message will appear indicating that Schedule 5 is now available on the Overview page.
+So be aware of these messages as you go along, and be sure to answer these yes or no questions correctly. You want to make sure that all required forms are available to you on the Overview page. You also want to avoid having to fill out a form unnecessarily.”
+### Slide 41 – Section D - Financial information (1/9)
+RENEE: “Next up is Section D, Financial Information – the last section before we move on to the various schedules.”
+[Arrow pointing to Section D – Financial information]
+### Slide 42 – Section D - Financial information (2/9)
+RENEE: “Section D is meant for smaller charities with lower revenue, fewer investments, and no permission to accumulate funds.
+So, if any of the following statements apply to your charity, you’ll complete Schedule 6 instead of Section D:
+- If the charity’s gross revenue is more than $100,000
+- If the amount of all property (for example, investments or rental properties) not used in charitable activities or administration was more than $25,000
+- If the charity had permission from the CRA’s Charities Directorate to accumulate property during this fiscal period
+If none of those statements apply, then you’ll continue with Section D.”
+### Slide 43 – Section D - Financial information (3/9)
+RENEE: “It’s important to indicate whether you’re reporting on an accrual or cash basis.
+Financial information prepared on an accrual basis records revenue in the fiscal period the charity earned it in, even if the charity receives the revenue after the end of the fiscal period. Similarly, this method records an expenditure in the fiscal period that the charity incurred it in, even if the charity doesn’t actually pay this bill until the next period.
+Financial information prepared on a cash basis records only revenue or expenditures the charity received or paid during the fiscal period.”
+### Slide 44 – Section D - Financial information (4/9)
+RENEE: “Here are a few other things to keep in mind when filling out your financial information:
+- Read each line carefully as you go, and remember to click the question marks to view the help text if you’re unsure of something
+- Line 4500 is the total amount of all gifts your charity issued tax receipts for. So, if you take all the donation receipts it issued in the fiscal period and add up the amounts, that’s the number you should put here.”
+### Slide 45 – Section D - Financial information (5/9)
+RENEE: “You’ll be asked further down about revenue your charity received but didn’t issue receipts for.”
+[Arrow pointing to line 4530]
+RENEE: “For example, line 4530 is gifts your charity did not issue a tax receipt for. And here’s where it’s important to watch the details on each line. This question for this line says to exclude line 4575 and line 4630.”
+[Arrows pointing to lines 4575 and 4630]
+RENEE: “So be sure to read each line carefully.
+Another item I’d like to highlight is revenue from fundraising at line 4630.”
+### Slide 46 – Section D - Financial information (6/9)
+RENEE: “There are two important points to note here:
+First, only include revenue your charity did not issue an official donation receipt for. For example, you would include any money from collection boxes here. Any donation from a fundraiser that your charity gave an official donation receipt for should be included in line 4500, which we talked about earlier.
+Second, enter the gross amount. Do not subtract expenditures on fundraising as part of your calculation.”
+### Slide 47 – Section D - Financial information (7/9)
+RENEE: “For expenditures, note that there is a difference between expenses on charitable activities and expenses for management and administration and these need to be reported separately.”
+### Slide 48 – Section D - Financial information (8/9)
+RENEE: “Expenditures on charitable activities include costs related to:
+- running the charity's day-to-day programs
+- occupancy costs such as rent, mortgage payments, hydro, repairs, and insurance for buildings used to carry out charitable activities
+- most salaries
+- and education and training for staff and volunteers
+Do not include expenditures for management, administration, or fundraising on line 5000.”
+### Slide 49 – Section D - Financial information (9/9)
+RENEE: “Expenditures on management and administration include costs related to:
+- holding meetings of the board of directors
+- accounting, auditing, personnel, and other administrative services
+- buying supplies and equipment, and paying occupancy costs for administrative offices
+- and applying for grants or other types of funding
+Some expenditures can be considered partly charitable and partly management and administration costs, such as salaries and occupancy costs. In these cases, you can divide the amounts accordingly between lines 5000 and 5010. It’s important that you allocate expenditures consistently and reasonably.”
+### Slide 50 – Part 5 – Completing schedules
+RENEE: “That concludes our discussion of sections A through D.
+There are two more sections, E and F, but we’ll go over those later in the presentation.
+Next, we’ll have a quick look at the various schedules and forms you may have to complete.”
+### Slide 51 – Schedules
+RENEE: “Which schedules you’ll have to complete depends on how you’ve answered certain questions in sections A through D.
+For example, if you said your charity did not conduct activities outside of Canada, the status column for Schedule 2 will show that the schedule is not required.”
+[Arrow pointing Not required for Schedule 2 – Activities outside Canada]
+RENEE: “For other schedules and forms you will have to complete, the status will read “not started”.”
+[Arrow pointing Not started for Form T1236 – Qualified donees worksheet / Amounts provided to other organizations]
+RENEE: “Let’s have a look now at Schedule 1, Foundations.””
+[Arrow pointing to Schedule 1 - Foundations]
+### Slide 52 – Schedule 1 – Foundations
+RENEE: “Schedule 1 is very short and has three to five questions, depending on whether your charity is a public or private foundation. They are all “yes” or “no” questions.
+If the charity is a private foundation, you’ll have to answer this question about owning more than 2% of any class of shares of a corporation. If you select yes, you’ll see the message appear that says you have to complete Form T2081, Excess Corporate Holdings Worksheet, which will appear on your overview page.”
+### Slide 53 – Schedule 2 – Activities outside Canada (1/4)
+RENEE: “Schedule 2 is for Activities Outside Canada. It contains two initial questions:
+First, enter how much your charity spent on activities outside Canada at line 200.
+Then, at line 210 you’ll indicate whether your charity gave any of its resources to an intermediary.”
+### Slide 54 – Schedule 2 – Activities outside Canada (2/4)
+RENEE: “If your charity did not transfer funds to an intermediary during its activities outside Canada, the next page will look like this.
+Simply use the drop-down menu to select the countries where your charity carried on programs or devoted resources. The system will automatically add them, one country at a time, to the table.”
+### Slide 55 – Schedule 2 – Activities outside Canada (3/4)
+RENEE: “If your charity did transfer funds to an intermediary outside Canada, the next page will look like this.
+You’ll have to enter:
+- the name of the organization or individual your charity worked with
+- the country where your charity carried out the activities, and
+- the amount your charity transferred to that organization or individual”
+### Slide 56 – Schedule 2 – Activities outside Canada (4/4)
+RENEE: “Once you’ve finished adding your countries and intermediaries, there are just a few more questions for this schedule.
+Note: If your charity received funding from Global Affairs Canada for any projects outside Canada, you’ll be prompted to enter the amount at line 230.”
+### Slide 57 – Schedule 3 – Compensation
+RENEE: “Schedule 3 is for charities that compensated employees (so, if it paid its staff). In this table, you’ll enter the number of positions that are in each of the compensation categories.
+In the example on the slide, your charity paid two employees between $1 and $39,999 and paid 4 employees between $40,000 and $79,999.
+You’ll also be asked a couple of questions about compensation for part-time employees. Be prepared to have the total amount spent on all compensation.”
+### Slide 58 – Schedule 4 – Confidential data (1/2)
+RENEE: “Schedule 4 is for charities that paid external fundraisers and for charities that received donations or gifts valued at $10,000 or more from a donor who does not reside in Canada.
+If your charity paid external fundraisers, you’ll have to provide this information:
+- the name of the external fundraiser, and
+- whether they’re at arm’s length”
+### Slide 59 – Schedule 4 – Confidential data (2/2)
+RENEE: “If your charity received gifts from donors who do not reside in Canada, you’ll have to provide this information:
+- the name of the donor
+- whether they’re an organization, a government, or an individual, and
+- the value of the gift your charity received”
+### Slide 60 – Schedule 5 – Non-cash gifts
+RENEE: “Schedule 5 is for a charity that received non-cash gifts that it issued tax receipts for. Select the types of gifts that apply and then enter the total amount of tax-receipted non-cash gifts at the bottom.
+And as we’ve seen before, if you select “other” you’ll be provided with a space to enter further details.”
+[Arrow pointing to Other]
+### Slide 61 – Schedule 6 – Detailed financial information (1/3)
+RENEE: “Schedule 6 is for detailed financial information.
+Although Section D was also for financial information, it was only for smaller charities with lower revenue, fewer assets, and no permission to accumulate. So, if any of the following apply to your charity, you’ll be completing Schedule 6 instead:
+- If your charity’s gross revenue is more than $100,000
+- If the amount of all property not used in charitable activities or administration was more than $25,000.If your charity has more than $25,000 in assets it wasn’t using during the period (for example, an unused building or investments), this applies to you
+- And finally, if your charity had permission from the CRA’s Charities Directorate to accumulate property during this fiscal period”
+### Slide 62 – Schedule 6 – Detailed financial information (2/3)
+RENEE: “Schedule 6 is quite detailed, so you’ll need a fair amount of time if you have to complete it.
+What’s nice about the online T3010 is that you can still start and stop as you please. You can take a break, come back to it another day, or have another director or representative log in and work on it.
+That also means you have the chance to look at what’s in the schedule and prepare the numbers ahead of time. Whatever approach you take, there’s no pressure to finish it in one take.
+And you can always fix any mistakes you might find before you submit the T3010.
+We won’t be going over Schedule 6 in full detail, but be prepared to provide the following information:
+- Details on your charity’s assets and liabilities
+- A breakdown of all its sources of revenue
+- All types of expenditures – be sure to fill in lines 5000 to 5040, which is a breakdown of the expenses from line 4950
+- The amount of funds your charity accumulated if it has permission to accumulate
+- The amount of your charity’s reduced disbursement quota, if you have permission for that fiscal period, and
+- The value of property not used in charitable activities
+Once again, remember that while working through the form, use the help buttons or call our client service representatives if you need any additional clarification.”
+(link on the slide to the [T4033 Completing the Registered Charity Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4033.html))
+### Slide 63 – Schedule 6 – Detailed financial information (3/3)
+RENEE: “One nice feature I’d like to point out is this calculate button.”
+[Arrow pointing to the calculate button]
+RENEE: “You’ll see that you have a calculate button in a few spots on the form that will produce a total for you based on the numbers you input at other lines.
+So save some of that brain power and use the calculator button.”
+### Slide 64 – Schedule 8 – Disbursement quota (1/2)
+RENEE: “Schedule 8 is for calculating the disbursement quota.
+This schedule is triggered when you respond “yes” to question C17 (or Line 5850) about property not used in charitable activities or administration. And it is based on the value of this property.
+The disbursement quota or “DQ” is the minimum amount that your registered charity is required to spend each year on:
+- its own charitable activities; and/or
+- qualifying disbursements through gifts to qualified donees or grants to non-qualified donees”
+### Slide 65 – Schedule 8 – Disbursement quota (2/2)
+RENEE: “We won’t be going over Schedule 8 in full detail, but you should know that it is divided into three main sections:
+- Disbursement quota requirements for the current fiscal period
+- Disbursement quota excess or shortfall for the current fiscal period
+- Disbursement quota requirement for next fiscal period
+You'll notice as you go through the questions that some of the values in this schedule have been pre-populated based on the amounts you've entered in other parts of the return. Always make sure to double-check these amounts.
+This schedule is very important because it allows you to calculate your charity’s disbursement quota (also known as the spending requirement) and to know if your charity has a disbursement shortfall or excess.”
+### Slide 66 – Form T1236 – Qualified donees (1/2)
+RENEE: “Next is Form T1236, the qualified donees worksheet. You need to complete this form if your charity made gifts to qualified donees or other organizations.
+You’ll have the option to either enter the names on the digital form or upload a document.”
+### Slide 67 – Form T1236 – Qualified donees (2/2)
+RENEE: “The preferred method is for charities to fill out the online form. And as you can see here, all required fields are identified.
+However, if you choose to upload a document instead of filling in the online form, be sure to include the following information for each organization:
+- The name of the organization
+- Whether it’s an associated charity
+- Its business number (if it has one)
+- The city and province where it is located
+- The value of any non-cash gifts your charity made to that organization (for example, if your charity donated a vehicle or a building), and
+- The total value of all gifts your charity made to that organization”
+### Slide 68 – Form T1441 – Qualifying disbursements: grants to non-qualified donees (grantees) – How to report grants
+RENEE: “There are new reporting requirements for the way charities can operate, which is making qualifying disbursements by way of grants to non-qualified donees (or grantees).
+The Income Tax Act allows a registered charity to operate in the following ways:
+- carrying on its own charitable activities through, either:its staff and volunteers or an intermediary (over which a charity must exercise direction and control)
+- or making qualifying disbursements through, either:gifts to qualified donees or grants to non-qualified donees (in which case a charity must meet accountability requirements)
+As of May 2023, changes were made to the T3010 to allow charities to report the required grant information. A new form was also added. When charities make grants to a grantee that total more than $5,000, whether in a single grant or multiple grants, the charity reports grant information on the new Form T1441, Qualifying disbursements: grants to non-qualified donees. Granting and the related reporting requirements came into effect onJune 23, 2022. Any charities making grants from June 23, 2022 onwards should report these grants in their T3010.
+You’ll have the option to either enter the reporting information on the digital form or upload a document listing all of the required information.”
+### Slide 69 – Form T1441 – Qualifying disbursements: grants to non-qualified donees (grantees) – Total number of grantees
+RENEE: “On the “Total number of grantees” page, you’ll need to enter the number of grantees that received grants totalling more than $5,000 during the fiscal period.”
+### Slide 70 – Form T1441 – Qualifying disbursements: grants to non-qualified donees (grantees) – Report each grant (1/2)
+RENEE: “You’ll then be asked to enter the required information about each of these grants.”
+### Slide 71 – Form T1441 – Qualifying disbursements: grants to non-qualified donees (grantees) – Report each grant (2/2)
+RENEE: “On this form, you’ll need to fill in the information for each individual grant made by the charity for the fiscal period.
+If your charity made several grants to the same grantee, repeat the name of the grantee as many times as needed and report each grant individually.
+Include all grant resources that your charity disbursed during this fiscal period, even if the grant activities are not yet completed.
+Under “Name of grantee,” enter the full name of the non-qualified donee (grantee) that received a grant.
+Under “Purpose of grant,” describe concisely the purpose of each grant.
+Here are a few examples of how to fill out this portion of the form in a way that reflects your charitable purpose:
+- to provide disaster relief following Hurricane Matilda
+- to pay for teachers' salaries
+- to purchase equipment and material for a new medical centre or
+- to provide funds for refugee aid
+Under “Amount of cash disbursements,” enter the amount of all cash disbursements made to the grantee. Report all amounts in Canadian dollars valued at the time of the expenditure.
+Under “Amount of non-cash disbursements,” enter the amount of all non-cash disbursements made to the grantee. Amounts must be the fair market value of the resources in Canadian dollars. Examples of non-cash resources include property, such as land, artwork, equipment, and pharmaceuticals.
+Under “If outside Canada, each country code and country where the activities were carried on,” enter each country code and country where the grant activities are carried on using the list of country codes in the T4033, Completing the Registered Charity Information Return. If the grant activities for a single grant take place in more than one country, enter the country codes and countries in alphabetical order, separated by a comma.”
+### Slide 72 – Form T2081 – Excess corporate holdings
+RENEE: “The next form, Form T2081, is only for private foundations that held more than 2% of any class of shares of a corporation at any time during the fiscal period.
+If you have to complete this form, you’ll have to answer the questions for each class of shares your charity held.
+This form is somewhat lengthy compared to some of the other sections. So again, we recommend you allow a fair amount of time to complete this form.
+Note that when you get to section “D” of this form, you’ll complete either D or D.1 according to the instructions, not both.”
+### Slide 73 – Sections E and F – Certification and confidential data
+RENEE: “And the very last sections of the T3010 are E and F, which are required to finalize the form. These sections are for certification, confidential data, and attachments.”
+[Arrow pointing to Section E and F – Certification, confidential data, attachments, and submit]
+RENEE: “If you are unable to click “start” or the word is greyed out, this indicates that there are previous areas you did not complete. You will need to go back and make sure you completed each required section in order for sections E and F to become available.”
+### Slide 74 – Section E – Certification (1/2)
+RENEE: “In Section E, you’ll provide a few simple details: your name, position with the charity, and phone number, as well as that day’s date.
+The purpose of this is so you can certify that the information on the return and any attachments is correct, complete, and current.
+In Section F, you’ll be asked to verify the physical address of your charity, and the address for your books and records. Then you’ll provide the name and address of the individual who completed the return. Keep in mind that you can’t enter only a post office box number or a rural route number.
+Note that the mailing address of a charity can’t be updated on a T3010. If this address has changed, you can change it by selecting “Manage address” from the main page of your charity’s profile in MyBA.
+The bottom of Section F is where you’ll be able to upload your financial statements, as well as other optional attachments like the qualified donees worksheet.
+The notices you see here are reminders that your annual return is not considered complete unless you provide the financial statements.”
+### Slide 75 – Section E – Certification (2/2)
+RENEE: “We also ask that you do not include attachments other than the charity's financial statements or a list of qualified donees or grantees to which gifts were made. All correspondence and requests for changes to the charity's records must be submitted separately from this annual information return.”
+### Slide 76 – Submit the charity’s annual return
+RENEE: “Once you’ve uploaded your documents, you’re ready to hit this beautiful button here.
+Just make sure you check the box confirming you are ready to submit.”
+[Rectangle box circling the I confirm that the return is ready to be submitted button]
+RENEE: “Please don’t forget to click that submit button! The CRA will not receive your T3010 until you do.
+Once you submit the return, you’ll see a confirmation page.”
+### Slide 77 – T3010 Registered Charity Information Return – Confirmation
+RENEE: “If you do not get to this page, you likely did not click the submit button.
+This page shows you your CRA case number.
+You can print a copy of the confirmation page and view and print a complete summary of your return by clicking “Summary Overview page.””
+[Arrows pointing to Print confirmation page button and Summary Overview page link]
+RENEE: “Once you’ve received this confirmation, the CRA will automatically post the public information from your return to the Canada.ca List of Charities the next day.”
+Slide 78 – Part 6 – New option to file your T3010
+RENEE: “In this part of the presentation, we want to give you more information about a new way to file your T3010.”
+### Slide 79 – Upload your charity’s T3010 information return prepared with CRA-certified software
+RENEE: “Since May, a new online filing option for your charity’s T3010 information returns is now available.
+Registered charities and their authorized representatives can now use CRA-certified software to fill out and upload their registered charity information return directly through their CRA account.
+To get started, begin by checking the list. Use our [list of CRA-certified software](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/filing-t3010-charity-return/how-to-file/software-certified-produce-form-t3010.html) to find which software works for you. These vendors are certified to generate all the forms contained in a registered charity information return.
+Then, access your CRA account. You, your employee, or your authorized representative can use your CRA account to access all our online services: My Business Account, Represent a client and My Account.
+Once your return is completed, anyone in your charity who is authorized to submit an information return can log into their CRA account and use our new “Upload a return” service. You will find it in the Registered Charities section of My Business Account or Represent a Client.”
+### Slide 80 – Part 7 – Top mistakes to avoid when completing your T3010
+RENEE: “Before we wrap up, let’s have a look at the top mistakes to avoid when completing your T3010 online. These are the issues we most often see with T3010 returns, and we want to help you avoid them.”
+### Slide 81 – Top mistakes to avoid
+RENEE: “Sending in a paper return: Using paper increases your chances of making mistakes when filling your T3010. Filling online also ensures that there are no mail delays, and your return is processed instantly.
+Using the wrong version of the paper form: Make sure you complete the correct version of the form, depending on your fiscal period ending. If you use the wrong version of Form T3010, we will not accept the return for filing. The good news is that if you file online, you will always be presented with the correct version of the form.
+Failing to update your charity’s information with CRA: To ensure your charity account is managed effectively, make sure to authorize the relevant people and keep the list up to date. Only the following people can discuss, access or make changes to your charity account:
+- Members of the board of directors with voting rights (for example, directors, trustees and like officials)
+- Other authorized representatives (for example, accountants, lawyers, bookkeepers, or other volunteers for the charity)
+Directors must be listed with CRA. Their SIN must also be present to tie and verify their identify to the business number for them to access our online services.
+As your organization’s leaders change, it is important to properly manage these changes in the charity. Adding new directors as owners of the business number account (with a SIN) will ensure that your charity will be able to continue using our online services.
+Not being set up on MyBA: To use MyBA, your organization must have a:
+- business number (BN): A nine-digit federal taxpayer registration number that identifies your organization. This number is unique to your organization and stays the same no matter how many or what type of CRA accounts you have.
+- charity account (RR): This is the program identifier for registered charities. The RR identifier, which is followed by a four-digit reference number, is attached to your nine-digit BN.For help on how to access our online services, we have a newly updated page that will walk you through the process: [Access our online services for charities](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/business-account.html)
+Struggling alone: Don’t hesitate to contact us if you require assistance, whether to help you get set up online or to file your T3010. We’re here to help you! We strongly encourage you to use our online services, as they will help you avoid delays, possibilities of errors, and the risk of the information return getting lost.”
+### Slide 82 – Where to find this information
+RENEE: “In case you missed something, want to do some more reading, or want to revisit this information later, here’s how you can find it.
+This link is to our guide on [completing the T3010](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4033.html). This guide has information for pretty much every single line item all the way through Schedule 8.”
+### Slide 83 – Links Summary
+RENEE: “All the links you've seen throughout the presentation have been compiled here for easy reference, so you won't have to go searching through the presentation to find them.”
+(link summary on slide:
+[T4033 Completing the Registered Charity Information Return - Canada.ca](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4033.html)
+[Consequences of Revocation](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/revoking-registered-status/consequences-revocation.html)
+[Voluntary Revocation](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/revoking-registered-status/types-revocation.html)
+[Form T1240, Registered Charity Adjustment Request](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1240.html)
+[My Business Account for charities - Canada.ca](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/toolbox-directors-officers-volunteers/business-account.html)
+[CRA sign-in services - Canada.ca](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html)
+[Instruction on Changing director - Canada.ca](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/making-changes/changing-a-charitys-director-trustee-like-official-information.html))
+### Slide 84 – Where to find this information
+RENEE: “You can also go to our [Charities and Giving - A to Z index](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/charities-giving-a-index.html), which you can access off our main landing page at [canada.ca/charities-giving](https://www.canada.ca/en/services/taxes/charities.html).
+On the index page, you can search for any charity-related topic with just a keyword. There are over 400 topics!
+You simply type in what you’re looking for. You’ll notice here that we typed in “Books,” and it came up with 4 different possibilities.”
+### Slide 85 – Contact us
+RENEE: “And lastly, here is the number to reach our client service representatives, dedicated for Charities: 1-800-267-2384. There, you can speak directly to one of our representatives. They are available to help you Monday through Friday, from 8 a.m. to 5 p.m. Eastern time.
+Thank you so much for attending today’s webinar. We hope we were able to answer your questions.
+We will be sending you a link to an online survey about today’s webinar. Please take a few minutes to complete the survey.
+Your feedback is really important to us. It helps us evaluate the effectiveness of our webinars and plan for our future outreach activities.
+If you would like to receive recent news and updates from the CRA, we recommend you sign up for our electronic mailing list at [canada.ca/charities-whats-new](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-charities-giving-whats-new.html). And if you haven’t already, make sure you sign up for the CRA’s My Business Account so you can file your annual information return online.
+Thank you.”
+(link summary on slide:
+[Charities and giving](https://www.canada.ca/en/services/taxes/charities.html)
+[Sign up for our electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-charities-giving-whats-new.html)
+[Access our online services for charities](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/business-account.html))

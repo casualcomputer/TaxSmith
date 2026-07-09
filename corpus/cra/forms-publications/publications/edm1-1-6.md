@@ -1,0 +1,18 @@
+---
+title: "EDM1-1-6 CANCELLED Formulation Approval Process"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edm1-1-6.html
+last_modified: 2018-02-22
+---
+# EDM1-1-6 CANCELLED Formulation Approval Process
+
+## This publication was cancelled
+
+This publication was cancelled as of 2026-04-15 and replaced with [EDM1-1-6 Formulation approval process](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm1-1-6-formulation-approval-process.html).
+
+This memorandum explains how a licensed user seeking approval of a formulation for a product made with alcohol must submit a sample of the formula and a full listing of the ingredients as a requirement under the Excise Act, 2001
+
+## Related documents
+
+- [Y15D Request for Formula Approval](http://www.cbsa-asfc.gc.ca/publications/forms-formulaires/y15d-eng.html)
+
+- [L63A Application for an Alcohol Licence or Registration](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l63a.html)

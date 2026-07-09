@@ -1,0 +1,56 @@
+---
+title: "ARCHIVED - Registered Charities Newsletter - No. 5 - Winter 1995-96"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/charitiesnews-05/archived-registered-charities-newsletter-no-5-winter-1995-96.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Registered Charities Newsletter - No. 5 - Winter 1995-96
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+For information on the income tax issues discussed below, or if you have other comments, call us at 954-0410 for local Ottawa calls, or at 1-800-267-2384 for toll-free long distance calls. You can also write to us at our mailing address: Charities Division, Revenue Canada, Ottawa, ON K1A 0L8.
+
+We often get the same questions from clients who call on our public information line. Therefore, we thought we could better assist our clients by addressing these topics in a question-and-answer format in our newsletter.
+
+## Where can you visit us?
+
+If you want to visit us, our physical address is 400 Cumberland Street, 5th Floor, Ottawa. Please call for an appointment first.
+
+## When does your charity have to file its T3010 return?
+
+Each registered charity has to file a completed annual return (Form T3010, *Registered Charity Information Return and Public Information Return*) with the applicable schedules and financial statements, no later than six months after the end of each fiscal year. A charity can lose its registration for failing to file this return on time. Although we send notices to remind charities to file, we do not grant extensions.
+
+To ensure that we promptly handle any correspondence you send us, do not enclose it inside your charity's annual return. Instead, put any correspondence on top of the return, or send it in a separate envelope.
+
+## How can your charity maintain the public's confidence in the charitable sector and in itself when you complete the T3010 return?
+
+Supporters of charities want to know that their donations will be used for charitable activities. They occasionally express concern that charities spend unreasonable amounts on fund-raising, fees paid to fund-raising consultants, and administrative and management activities that do not directly support charitable activities. Since you have to include this information on Form T3010, you can provide a more accurate picture of your charity by striving to enter as much correct financial data as possible when you complete your charity's return. You can refer to the return's companion guide for help.
+
+## Where and why does the Department require your registered charity to keep books and records?
+
+Your charity has to keep adequate books and records in either English or French (located at a Canadian address we have on file) so that we can verify official donation receipts issued, as well as income received and expenses made.
+
+Also, a recent amendment to the *Income Tax Act* requires charities to keep information in addition to their books and records so that we can determine whether their activities continue to be charitable. This additional information will vary from charity to charity but should include, for example, copies of minutes of meetings, correspondence, publicity brochures, or advertisements.
+
+## What should you do if your charity wants to change its name, address, or telephone number?
+
+If your charity changes its name, you should send us documents showing that the name has been legally changed. Some examples of such documents are:
+
+- in the case of a **corporate** entity, a copy of supplementary letters patent or a certificate of amendment bearing the seal, stamp, or signature of the federal or provincial authority approving the new name; or
+
+- in the case of an **unincorporated** entity (such as an entity established by a constitution or trust deed,) a copy of a written agreement or resolution signed by two directing officers of your charity, indicating the new name and showing the effective date of the name change.
+
+Advise us promptly, in writing, if your charity's address or telephone number changes. This allows us to communicate with you, and provide services such as mailing out copies of the annual return, reminders, and publications.
+
+You should ensure that you issue official donation receipts with your charity's name and address as they appear in our records.
+
+## How can you get the Department's permission to change your charity's fiscal period?
+
+If your charity wants to change its fiscal period, please request such a change in advance by writing to us. You should state the reason for the change in your letter. Your charity may initially have to file two annual returns as a result of the change.
+
+**This newsletter forms part of a series. Keep it for future reference**.

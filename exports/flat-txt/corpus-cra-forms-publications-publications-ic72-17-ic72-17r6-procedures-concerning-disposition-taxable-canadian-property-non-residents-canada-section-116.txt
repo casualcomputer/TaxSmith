@@ -1,0 +1,465 @@
+Title: Procedures concerning the disposition of taxable Canadian property by non‑residents of Canada – Section 116
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic72-17/ic72-17r6-procedures-concerning-disposition-taxable-canadian-property-non-residents-canada-section-116.html
+Corpus path: corpus/cra/forms-publications/publications/ic72-17/ic72-17r6-procedures-concerning-disposition-taxable-canadian-property-non-residents-canada-section-116.md
+Document type: publication
+Last modified: 2025-04-02
+
+# Procedures concerning the disposition of taxable Canadian property by non‑residents of Canada – Section 116
+
+No. : **IC72-17R6**
+
+Date :**September 29, 2011**
+
+Subject :**Procedures concerning the disposition of taxable Canadian property by non‑residents of Canada – Section 116**
+
+**This version is only available electronically.**
+
+*This circular cancels and replaces Information Circular 72‑17R5, dated March 15,2005. Unless otherwise stated all references to a statute herein are to the Income Tax Act (the "Act").*
+
+## Table of Contents
+
+- [General Information](#_Toc305070257)
+
+- [Vendor Notification Process](#_Toc305070258)
+
+- [Authorized Forms](#_Toc305070259)
+
+- [Technical Applications](#_Toc305070260)
+
+- [Real Estate Appraisals or Business Equity Valuations](#_Toc305070261)
+
+- [Treaty-Protected and Treaty-Exempt Property](#_Toc305070262)
+
+- [Tax Treaty Exemptions](#_Toc305070263)
+
+- [Inventory of Land](#_Toc305070264)
+
+- [Section 85 Elections](#_Toc305070265)
+
+- [Corporate Reorganizations](#_Toc305070266)
+
+- [Security or Payments on Account of Tax](#_Toc305070267)
+
+- [Certificate of Compliance](#_Toc305070268)
+
+- [Purchaser's Liability](#_Toc305070269)
+
+- [Filing a Tax Return – Refund of Excess Payment](#_Toc305070270)
+
+- [Misallocated or Lost Payments](#_Toc305070271)
+
+- [General Comments](#_Toc305070272)
+
+## General Information
+
+1. Under section 116, non‑resident vendors (from now on referred to as vendors) who dispose of certain taxable Canadian property (see paragraph 2 below) have to notify the Canada Revenue Agency (CRA) about the disposition either before they dispose of the property or within ten days after the disposition. When the CRA has received either an amount to cover the tax on any gain the vendor may realize upon the disposition of property, or appropriate security for the tax, the CRA will issue a certificate of compliance to the vendor. A copy of the certificate is also sent to the purchaser. If the purchaser does not receive such certificate, the purchaser is required to remit a specified amount to the Receiver General for Canada and is entitled to deduct the amount from the purchase price. Any payments or security provided by the vendor and/or purchaser will be credited to the vendor's account. A final settlement of tax will be made when the vendor's income tax return for the year is assessed.
+
+2. For dispositions after March 4, 2010, taxable Canadian property (referred to in paragraph 1 above) is described in subsection 248(1). While this is not a complete list, taxable Canadian property includes:
+
+1. real or immovable property situated in Canada;
+
+2. property used or held in, or eligible capital property in respect of, a business carried on in Canada;
+
+3. designated insurance property of an insurer;
+
+4. a share of the capital stock of a corporation (other than a mutual fund corporation) that is not listed on a designated stock exchange, if, at any time in the last 60 months more than 50% of the fair market value of the share was derived directly or indirectly from one or any combination of,
+
+    1. real or immovable property situated in Canada;
+
+    2. Canadian resource properties;
+
+    3. timber resource properties, and;
+
+    4. options in respect of, or interests in, or for civil law, rights in a property described in i), ii) or iii) above, whether or not the property exists.
+
+5. an interest in a partnership if, at any time in the last 60 months, more than 50% of the fair market value of the interest, was derived directly or indirectly from one or any combination of the properties listed in (d)(i) to (d)(iv) above;
+
+6. an interest in a trust (other than a unit of a mutual fund trust or an income interest in a trust resident in Canada) if, at any time in the last 60 months, more than 50% of the fair market value of the interest was derived directly or indirectly from one or any combination of the properties listed in (d)(i) to (d)(iv) above;
+
+7. a share of the capital stock of a corporation that is listed on a designated stock exchange if at any time in the last 60 months,
+
+    1. 25% or more of the issued shares of any class of capital stock of the corporation were owned or belonged to one or a combination of,
+
+          1. the taxpayer; and
+
+          2. persons with whom the taxpayer did not deal with at arm's length and
+
+    2. more than 50% of the fair market value of the share was derived directly or indirectly from one or any combination of properties described in (d)(i) to (d)(iv) above.
+
+8. a share of the capital stock of a mutual fund corporation if at any time in the last 60 months,
+
+    1. 25% or more of the issued shares of any class of capital stock of the corporation were owned by or belonged to one or a combination of,
+
+          1. the taxpayer; and
+
+          2. persons with whom the taxpayer did not deal with at arm's length and
+
+    2. more than 50% of the fair market value of the share was derived directly or indirectly from one or any combination of properties described in (d)(i) to (d)(iv) above.
+
+9. a unit of a mutual fund trust if at any time in the last 60 months,
+
+    1. 25% or more of the issued units of the trust were owned by or belonged to one or a combination of,
+
+          1. the taxpayer; and
+
+          2. persons with whom the taxpayer did not deal with at arm's length and
+
+    2. more than 50% of the fair market value of the unit was derived directly or indirectly from one or any combination of properties described in (d)(i) to (d)(iv) above.
+
+10. an option in respect of, or an interest in, or for civil law a right in, a property described in any of paragraphs (a) to (i) above.
+
+3. Certain types of taxable Canadian property fall into the category of excluded property as defined in subsection 116(6) and, as such, are not subject to the requirements of section 116. The disposition of excluded properties by a non‑resident person may result in tax payable under subsections 2(3) and 115(1). Excluded property consists of:
+
+1. a property that is a taxable Canadian property solely because a provision of the Act deems it to be a taxable Canadian property;
+
+2. a property that is inventory of a business carried on in Canada (other than real or immovable property situated in Canada, a Canadian resource property or a timber resource property);
+
+3. shares of capital stock of a corporation that are listed on a recognized stock exchange;
+
+4. a unit of a mutual fund trust;
+
+5. a bond, debenture, bill, note, mortgage, hypothecary claim or similar obligation;
+
+6. property of a non‑resident insurer that is licensed to carry on an insurance business in Canada and does so;
+
+7. property of an authorized foreign bank that is used or held in the bank's Canadian banking business;
+
+8. an option in respect of property (whether or not such property is in existence) referred to in any of items (a) to (g);
+
+9. an interest in, or for civil law any right in property referred to in any of items (a) to (h); and
+
+10. a treaty-exempt property (see paragraph 27).
+
+4. Subsection 116(5.2) specifies that where a non‑resident disposes or proposes to dispose of a life insurance policy in Canada, a Canadian resource property, a property (other than capital property) that is real property situated in Canada, a timber resource property, a depreciable property that is a taxable Canadian property, or any interest in or option in respect of these properties, and the non‑resident has paid the tax or provided acceptable security, the Minister will issue a certificate stating the proceeds or proposed proceeds of disposition.
+
+5. Section 116 applies when the vendor is a non‑resident or considered to be a non‑resident under the Act (e.g., subsection 250(5) *Deemed non‑resident*). If a vendor is contemplating selling the property to which section 116 applies, and the vendor is a Canadian resident before the property is disposed of, but will be a non‑resident when the property is finally disposed of, section 116 will apply. The purchaser's domicile or country of residence is not relevant in determining if section 116 applies. The purchaser may be either a Canadian resident or a non‑resident.
+
+## Vendor Notification Process
+
+6. Under subsection 116(1), a vendor may submit a notice to the CRA for a proposed disposition. The vendor should send this notice at least 30 days before the property is actually disposed of to permit sufficient time to review the transaction and verify that the vendor's payment or security is adequate. If possible, the CRA will issue a T2064, *Certificate – Proposed Disposition of Property by a Non‑Resident of Canada* before the actual date the vendor disposes of the property. Where notification of a proposed disposition was not made or if the transaction was completed in a manner different from the proposed disposition, the vendor must send the CRA a notice of the actual disposition, as required by subsection 116(3), by registered mail, not later than 10 days after the date the property was disposed of.
+
+There are three principal reasons for differences between the proposed and actual transaction:
+
+1. The actual purchaser is different from the one originally reported. This may occur, for example, if the purchaser assigns the purchase and sale agreement to a related party or takes title in joint tenancy with another person.
+
+2. The actual proceeds of disposition to the non‑resident are higher than the estimated amount reported.
+
+3. Prior to the disposition, there is a decrease to the vendor's adjusted cost base. In view of the diverse events which may reduce the adjusted cost base, as described in subsection 53(2), careful attention must be given to this situation.
+
+However, where the actual proceeds of disposition are lower than the stated amount on the notice of proposed disposition or where the adjusted cost base is higher than previously reported on the notice of proposed disposition, the vendor does not have to send a notice regarding the actual disposition.
+
+7. A vendor should use the appropriate authorized form to notify the CRA about a section 116 disposition. The forms outline the procedures to follow for reporting the transaction, calculating the gain or loss, income, recapture or terminal loss, and making the required payment on account of tax. The vendor must also provide all required information and documentation as described in the "Supporting Document List" attached to the authorized form. This information is essential to the issuance of the certificate in a timely manner. The notification form must be signed by the vendor. However, a notification signed by the vendor's representative will be accepted if a letter authorizing the CRA to deal with the representative is provided. For information regarding our forms, visit the CRA website [www.cra.gc.ca/forms](https://www.canada.ca/en/revenue-agency/services/forms-publications.html). Refer to the section on [Authorized Forms](#_Toc305070259) below for the form numbers.
+
+8. The vendor may also notify the CRA by a letter stating that it is a notification of a disposition for section 116 purposes. In this case, the vendor must report the transaction, calculate the capital gain or loss, income, recapture or terminal loss, make the required payment on account of tax or provide security for it, and provide all required information and documentation as described in the "Supporting Document List" (available on the authorized form), along with the following information:
+
+1. the vendor's complete name and address, including country of residence;
+
+2. if an individual, date of birth, and departure date from Canada if applicable;
+
+3. identification number (social insurance number, business number, trust account number or individual tax number);
+
+4. the complete name and address of the proposed or actual purchaser;
+
+5. a description that will enable the Minister to identify the property;
+
+6. the estimated or actual amount of the proceeds of disposition (if applicable, an appraisal or valuation report); and
+
+7. the vendor's adjusted cost base at the time the notice was filed.
+
+9. The vendor's identification number is required to ensure that any payment the vendor makes is credited to the proper account. These payments are then matched with the information filed on the vendor's income tax return for the year. The identification number is also required as it is entered on the certificate of compliance issued by the CRA. An identification number is required in order for a certificate of compliance to be issued.
+
+If an individual does not have an identification number, they should complete Form T1261, *Application for a Canada Revenue Agency Individual Tax Number (ITN) for Non‑Residents* and submit it with the notification.
+
+If a non-resident corporation does not have an identification number, Form RC1, *Request for a Business Number (BN)* should be completed and submitted with a copy of the certification of incorporation. The RC1 should be sent to the Tax Services Office (TSO) where the notification is sent.
+
+A non-resident trust should provide the account number issued by CRA from a previous year tax assessment. If a tax return was not filed in a previous year, an account number will be assigned to the trust when the notification is submitted.
+
+10. When there is more than one vendor, each vendor must file a separate notification indicating his or her interest in the property. For partnership dispositions, it is CRA policy to accept one notification of disposition filed on behalf of all partners. However, along with the notice, a complete listing of the non‑resident partners who are disposing of the property along with their Canadian and foreign addresses, identification numbers, percentage of ownership, and their portion of the payment or security is required. If no account information is available for a non‑resident partner, the CRA will assign an identification number. Generally, each partner is required to file a tax return and, as such, each partner's final tax liability will be determined when the tax returns are filed and assessed.
+
+11. The vendor should complete the applicable notification and send it with the required payment on account of tax or acceptable security to the TSO serving the area in which the property is located. If the properties are located in several areas and more than one TSO is affected, the vendor should send the notice to the TSO that serves the area where the majority of the properties are located.
+
+If the property is real property, the TSO is based on the property's legal or municipal address.
+
+If the property is shares or assets in a business, the TSO is determined based on the head office address of the corporation whose shares are being disposed of, or where the business is located.
+
+If a property is a capital interest in an estate or trust (pursuant to the distribution of capital), the TSO is determined by the location of the trustee.
+
+12. A vendor who fails to report a disposition under subsection 116(3) may be assessed a penalty pursuant to subsection 162(7) plus any applicable interest. Subsection 162(7) provides that every person or partnership that fails to comply with a duty or obligation imposed by the Act or its regulations is liable to a penalty equal to the greater of $100 and $25 per day up to a maximum of $2,500.
+
+## Authorized Forms
+
+13. Vendors should use Form T2062, *Request by a Non‑Resident of Canada for a Certificate of Compliance Related to the Disposition of Taxable Canadian Property* to notify the CRA of an actual or proposed disposition of taxable Canadian property as described in paragraph 2 above. Except as otherwise noted below, the notification process for Form T2062 is as outlined in paragraphs 6 to 12 above.
+
+14. Form T2062A, *Request by a Non‑Resident of Canada for a Certificate of Compliance Related to the Disposition of Canadian Resource or Timber Resource Property, Canadian Real Property (Other than Capital Property), or Depreciable Taxable Canadian Property*, is to be used for reporting the proposed or actual dispositions of properties identified in paragraph 4 above. Except as otherwise noted below, the notification process for Form T2062A is the same as the process outlined for Form T2062 in paragraphs 6 to 12 above.
+
+15. In some cases, vendors may have to file both Form T2062 and Form T2062A for one disposition. When vendors dispose of depreciable taxable Canadian property, they should use Form T2062 to declare the gain or loss. The recapture of capital cost allowance or terminal loss should be reported on Form T2062A. Depreciable property is property for which a taxpayer is entitled to claim capital cost allowance, which is deductible when calculating income from business or property. Form T2062A should be filed even if capital cost allowance has not been claimed on a depreciable property. In these instances two certificates of compliance will be issued.
+
+16. Vendors should use Form T2062A Schedule 1, *Disposition of Canadian Resource Property by Non‑Residents* to determine the balances in the various "pools" and the payment on account of tax (if any) when they dispose of Canadian resource properties. To support the amounts reported, vendors should also submit Form T2062A along with any other supporting documents. Vendors cannot use unrelated outlays and expenses and losses carried forward from previous years to reduce the balance in the "pools" and thus lower the amount subject to payment on account of tax under section 116.
+
+17. Life insurance companies should use Form T2062B, *Notice of Disposition of a Life Insurance Policy in Canada by a Non‑Resident of Canada* and Form T2062B Schedule 1, *Certification and Remittance Notice* to report the disposition of life insurance policies in Canada on behalf of a vendor. In these instances, the insurer requests a letter of authorization from the vendor in order to establish an agency relationship. The insurer then submits a copy of this letter with Form T2062B and the appropriate payment on account of tax to the CRA.
+
+18. Form T2062C, *Notification of an Acquisition of Treaty-Protected Property from a Non-Resident Vendor*may be used by a purchaser of taxable Canadian property,where the vendor is a non-resident and the property is treaty‑protected property.
+
+## Technical Applications
+
+19. A "disposition" is defined in subsection 248(1) as including "any transaction or event entitling a taxpayer to proceeds of disposition of the property." Therefore, the disposition of real property normally occurs at the time the deed, in properly executed form, is delivered to the purchaser. This is usually the closing date. If the disposition is in the form of a vendor's agreement for sale, then the disposition normally occurs when the properly executed agreement for sale is delivered to the person acquiring the property.
+
+20. The definition of "proceeds of disposition" in section 54 is used for calculating the proceeds amount for section 116 reporting. If the disposition is not at arm's length and the consideration is less than fair market value, proceeds will be considered to be equal to fair market value, in accordance with subsection 116(5.1).
+
+21. The adjusted cost base reported on Form T2062, T2062A, or T2062B must be calculated in accordance with the relevant sections of the Act and the *Income Tax Application Rules*. If the CRA determines that the adjusted cost base differs from the amount reported by the vendor, the CRA will take the position that the vendor has not provided the required information, and will then withhold the certificate until the vendor provides the correct information.
+
+22. When a foreign currency is involved, the adjusted cost base is converted into Canadian dollars at its historical rate while the proceeds of disposition are converted at the exchange rate in effect at the date of disposition.
+
+23. The rules for determining whether a disposition of a life insurance policy in Canada has occurred, as well as the amount of the proceeds and the adjusted cost base are set out in section 148. For more information, refer to the current version of IT‑87, *Policy holders' Income from Life Insurance Policies*.
+
+## Real Estate Appraisals or Business Equity Valuations
+
+24. To reduce delays, the CRA may request copies of the vendor's financial statements for the previous year, as these are usually not readily available in the TSOs. These statements may be used by the CRA's Business Equity Valuation or Real Estate Appraisal Sections to review the vendor's reported values.
+
+25. If the CRA determines that a detailed real estate appraisal or business equity valuation is required, an attempt will be made to establish an "estimated value" on which a required payment on account of tax may be based. If the vendor wishes to make a payment based on this "estimated value," the CRA will issue the certificate of compliance to enable the vendor to complete the transaction without having to wait for the results of the appraisal or valuation, which may take several months.
+
+Once the business equity valuation or real estate appraisal has been completed, any changes in the values will be discussed with the vendor or the vendor's representative. The values established as a result of the appraisal or equity valuation should be used when the vendor files a return of income for the year in which the disposition occurs.
+
+If the valuation or appraisal is finalized in the vendor's favour before the income tax return for the year in which the disposition occurs may be filed, the vendor may request a refund of any excess payment on account of tax. The request must be made in writing to the TSO that processed the section 116 notification and an amended Certificate of Compliance will be issued.
+
+## Treaty-Protected and Treaty-Exempt Property
+
+26. A property is considered a treaty-protected property of the vendor, if all of the income or gain derived from the disposition of that property is exempt from tax under Part I of the Act, due to a provision in a tax treaty that Canada has with the country of residence of the vendor.
+
+27. Where the vendor and purchaser are related, a treaty‑protected property of the vendor is considered a treaty‑exempt property only if the purchaser submits Form T2062C or a similar notification to the CRA within 30 days after the date of the acquisition of the property. A treaty-exempt property is an excluded property for the purposes of section 116, (see paragraph 3).
+
+28. A late-filed notification submitted by the purchaser will not be accepted by the CRA as a valid notification.
+
+Where the purchaser and vendor are related, and the purchaser notification is late-filed, the property will not be considered a treaty-exempt property and is not an excluded property. In this situation, the regular vendor notification requirements will apply.
+
+Where the purchaser and vendor are not related, there is no requirement for the purchaser to file a notification in order to qualify the property as a treaty-exempt property and thus an excluded property. However, the purchaser may want to reduce the potential for purchaser's liability by sending Form T2062C or a similar notification to the CRA within 30 days after the acquisition date of the property.
+
+For further information on purchaser's liability, refer to paragraphs 50 to 58.
+
+## Tax Treaty Exemptions
+
+29. If Form T2062 and/or T2062A is submitted by the vendor and there is a claim under a tax treaty, the vendor must provide the applicable provision of the tax treaty that Canada has with their country of residence and submit the necessary documentation to support the claim. The documentation must be based on the particular tax treaty under which the exemption is claimed, and would include items such as proof of residency, or proof that the gain has been or will be reported in the vendor's country of residence. Tax officials in some countries may supply the necessary certification of residency required to claim the exemption. The vendor has to provide sufficient information to establish that they meet the requirements of the provision and that they are eligible for tax treaty benefits under the tax treaty. In this regard, the vendor should complete and submit Form NR301, *Declaration of Eligibility for Benefits Under a Tax Treaty for a Non-Resident Taxpayer*, Form NR302, *Declaration of Eligibility for Benefits Under a Tax Treaty for a Partnership with Non-Resident Partners*, or Form NR303, *Declaration of* *Eligibility for Benefits Under a Tax Treaty for a Hybrid Entity,*or equivalent information. Refer to the Supporting Document List in the instructions to Forms T2062 and T2062A for a complete list of the required documentation and forms.
+
+30. The United States Department of the Treasury, Internal Revenue Service will provide certification of residency for corporations, exempt organizations and individuals. Requests for certification of residency should be sent to the appropriate service centre. The IRS provides residency certification on Form 6166. Please contact the the IRS or visit their website for further information on the certification process.
+
+31. If the CRA and the vendor cannot agree as to whether the exemption of a particular tax convention applies, the vendor must provide the required payment or security before a certificate of compliance is issued. A letter of undertaking is not considered acceptable security. Once the matter is resolved, the vendor may request a refund or release of security based on the final decision and an amended certificate of compliance will be issued.
+
+32. The vendor must provide documents to support the proceeds of disposition and the adjusted cost base of the property. The certificate of compliance will indicate that the disposition is treaty exempt.
+
+33. For the purpose of Article XIII, paragraph 9 of the Canada – United States Tax Convention, the reduction of the capital gain for properties owned on September 26, 1980 and disposed of after December 31, 1984, is normally calculated by using the following ratio:
+
+A ÷ B = ratio
+
+Where, A equals the number of months between the date of acquisition or January 1, 1972 (whichever is later), and December 31, 1984;
+
+and, B equals the number of months between the date of acquisition or January 1, 1972 (whichever is later), and the date of disposition.
+
+This is so because capital gains in Canada became taxable after 1971, and under the Canada's – United States Tax Convention the gains derived in Canada were exempt in Canada until December 31, 1984, provided the property was owned on September 26, 1980. It is reasonable to view the gain as accruing evenly over the total period of ownership. The gain may be allocated unevenly over the period if the vendor satisfies the Canadian Competent Authority that such an allocation is appropriate. If the vendor wants to use this method, a valuation of the property at December 31, 1984 must be submitted with the notification.
+
+For more information, refer to the current version of IT‑173, *Capital Gains Derived in Canada by Residents of the United States*.
+
+34. If a partnership has disposed of taxable Canadian property, and is claiming a tax treaty exemption based on its partners' entitlements to tax treaty benefits, the partnership should complete and submit Form NR302 along with Worksheet B, or equivalent information. The partnership should have on file Forms NR301, NR302, or NR303 (or equivalent information), whichever is applicable, for each partner resident in a treaty country regarding their eligibility for tax treaty benefits, or a declaration from each Canadian resident partner regarding their residency. A partnership that has elected to be taxed as a corporation on its world income in a treaty country can claim a tax treaty exemption on its own entitlement to tax treaty benefits or that of its partners, whichever is more beneficial. For exemptions to which the partnership is entitled due to its election to be taxed as a corporation, proof of the election is required.
+
+35. If a hybrid entity has disposed of taxable Canadian property, and is claiming a tax treaty exemption based on the entitlement to tax treaty benefits of U.S. residents who derive income from the entity in accordance with paragraphs 6 and 7 of Article IV of the Canada's – United States Tax Convention, the hybrid entity should complete and submit Form NR303 along with Worksheet B, or equivalent information. The hybrid entity should have on file Forms NR301 or NR303 (or equivalent information), whichever is applicable, for each person (other than a partnership) regarding their eligibility for tax treaty benefits. In the case of a partnership that derives income through the hybrid entity, the hybrid entity should have on file a statement from each partnership listed in Worksheet B of what information the partnership would have certified on their Form NR302 had all of its partners, other than those that reside in the U.S., resided in a country that Canada does not have a tax treaty with.
+
+A hybrid entity that has elected to be taxed as a corporation on its world income in a treaty country claims a tax treaty exemption based on its own entitlement to tax treaty benefits, and not that of its members/shareholders. Proof of the election will be required.
+
+## Inventory of Land
+
+36. Before February 20, 1990, inventory of land was excluded from section 116 requirements. For dispositions after February 20, 1990, the CRA has a discretionary exemption policy for certain vendors who operate a business involving inventory of land. To qualify, the vendor must satisfy the CRA that:
+
+1. property transactions of this kind have been previously reported on income account; and/or
+
+2. the vendor is making regular instalment payments.
+
+If at the time of filing the notification of disposition, the vendor and the CRA disagree as to the nature of the transaction, i.e. whether proceeds are on account of income or capital, the request for exemption will be referred to the International Audit Section in the applicable TSO. The vendor has to supply any necessary supporting documentation or representation as to why the nature of the transaction should be considered as in respect of income rather than capital. If the International Audit Section is satisfied that the vendor meets the established criteria, and has no outstanding tax liabilities, a certificate of compliance stating "qualified business exemption" will be issued. Refer to the Supporting Document List in the instructions to forms T2062 and T2062A for a complete list of the required documentation.
+
+## Section 85 Elections
+
+37. For a disposition that is subject to an election under section 85, the vendor must submit the prescribed section 85 election Form T2057, *Election on Disposition of Property by a Taxpayer to a Taxable Canadian Corporation* or Form T2058, *Election on Disposition of Property by a Partnership to a Taxable Canadian Corporation* along with Form T2062 or Form T2062A.
+
+38. The vendor must provide supporting documentation, such as business equity valuations, real estate appraisals or calculations showing how the reported values were determined. Refer to the Supporting Document List attached to forms T2062 and T2062A for a list of the required documentation.
+
+## Corporate Reorganizations
+
+39. In a corporate reorganization, where multiple taxpayers are involved in a share for share exchange and/or an exchange of stock options, and there is no gain on the exchange, one notification for a disposition may be filed. The transactions must not result in any gains or any benefit conferred on any person and there must be absolutely no non‑share consideration involved. Along with the notification, a complete listing of the non‑resident shareholders and/or option holders who are disposing of the property, together with their Canadian and foreign addresses, identification number, adjusted cost base and the valuation of shares or options must be provided. The CRA will review the group of transactions as one transaction and may issue one or more certificates of compliance.
+
+40. Where a share of the capital stock of a corporation that is taxable Canadian property is exchanged for another share of the corporation and paragraph 51(1)(c) applies so as to deem the exchange not to be a disposition, the holder of the share has no obligation under subsections 116(1) and 116(3). However, the corporation has an acquisition and therefore may have obligations as a purchaser under subsection 116(5). Therefore, to prevent a purchaser's liability assessment under subsection 116(5), a certificate of compliance may be requested for the exchange. The cost to the corporation would be the stated capital of the shares issued. The TSO may, at its discretion, require nominal security in order to issue a certificate of compliance. For more information on purchaser's liability, refer to paragraphs 50 to 58 below.
+
+## Security or Payments on Account of Tax
+
+41. For a certificate of compliance to be issued under subsection 116(2) or 116(4), the required payment on account of tax or security acceptable to the Minister on the disposition or proposed disposition of property, is a flat rate of 25% of the excess of the proceeds of disposition over the adjusted cost base of the property. Outlays and expenses incurred for the purpose of making the disposition are not taken into account in this calculation. These amounts are deductible in calculating the gain on the disposition, which should be reported on the income tax return for the year in which the disposition occurred.
+
+42. For a certificate of compliance to be issued under subsection 116(5.2), for either an actual or a proposed disposition, a payment on account of tax or security acceptable to the Minister must be provided. The amount subject to a payment on account of tax from the disposition of property described in paragraph 4 above recognizes the fact that those amounts are fully included in income. Therefore individual, trust or corporate tax rates will be used in calculating the amount of payment on account of tax or security.
+
+43. The CRA's policy is as follows regarding payments on account of tax or security for the disposition of depreciable taxable Canadian property, and any resulting gains and recapture of capital cost allowance.
+
+1. Where no capital cost allowance has ever been claimed or a correct amount subject to recapture of capital cost allowance can be determined, the required payment on account of tax is determined as follows:
+
+    1. 25% of the gain on the land and building (the amount determined should be reported on Form T2062); and
+
+    2. the applicable individual, trust or corporate federal tax rate applied to the amount of recapture, because this amount will be fully taxable when the vendor files a return of income for the year in which the disposition occurred. Recapture of capital cost allowance should be reported on Form T2062A.
+
+2. When the amount of recapture of capital cost allowance or terminal loss cannot be determined at the time of disposition or proposed disposition, the required payment on account of tax is determined as follows:
+
+    1. 25% of the gain on the land and building (the amount determined should be reported on Form T2062); and
+
+    2. the applicable federal tax rate applied to the estimated recapture based on the assumption that the full capital cost allowance was claimed from the time of purchase to the date of disposition. This procedure ensures that a sufficient payment is provided to cover any amount subject to recapture. The final settlement of tax will be made when the return of income, for the year in which the disposition occurs, is assessed. Form T2062A should be used for the notification.
+
+This procedure will only be used after all efforts to determine the correct amount subject to recapture of capital cost allowance have been exhausted and an agreement for the amount subject to recapture of capital cost allowance cannot be reached with the CRA, and it is imperative that the certificate of compliance be issued. Income tax returns for previous years should be made available to support the recapture reported or the terminal loss claimed.
+
+44. Payment of tax should be made by a certified cheque, a cheque drawn on a lawyer's trust account, a bank draft or money order. Where a personal cheque is submitted, the certificate will be issued once the cheque has cleared the bank account. As an alternative to immediate payment of the tax, the CRA may accept security for the tax as an interim arrangement. In such a case, the vendor should contact the Revenue Collections Division at the TSO processing the notification to negotiate the security that the CRA is prepared to accept.
+
+## Certificate of Compliance
+
+45. The CRA will issue the certificate of compliance at the earliest possible date once the necessary information and supporting documentation have been received and validated, and acceptable payment or security has been received.
+
+46. A copy of the certificate of compliance will be issued to both the vendor and the purchaser. The certificate protects the purchaser from any further tax liability in respect of the particular notice filed for that particular disposition. The vendor's final tax liability in respect of the particular notice will be determined when the vendor files a tax return, as is required under the Act, for the year the disposition took place.
+
+47. Form T2064, *Certificate – Proposed Disposition of Property by a Non‑Resident of Canada* will be issued in accordance with subsection 116(2) if the conditions of subsection 116(1) are met, and the required payment on account of tax or acceptable security is provided.
+
+Form T2068, *Certificate – The Disposition of Property by a Non‑Resident of Canada* will be issued in accordance with subsection 116(4) if the conditions of subsection 116(3) are met, and the required payment on account of tax or acceptable security is provided.
+
+48. Form T2064, *Certificate – Proposed Disposition of Property by a Non‑Resident of Canada* or Form T2068, *Certificate – The Disposition of Property by a Non‑Resident of Canada*, will be issued for proposed or actual dispositions respectively, in accordance with subsection 116(5.2), provided that the vendor has paid any required amount on account of tax or provided acceptable security for the properties described in paragraph 4 above.
+
+49. A certificate is not issued when Form T2062C, *Notification of an Acquisition of Treaty-Protected Property from a Non-Resident Vendor* is submitted by a purchaser.
+
+## Purchaser's Liability
+
+50. If the vendor does not comply with the requirements of subsection 116(3), and the CRA has not issued a certificate of compliance, the purchaser may become liable under subsection 116(5) to pay a specified amount of tax on behalf of the vendor. The purchaser is then entitled to withhold that amount from the purchase price.
+
+The purchaser is liable to pay and remit 25% of either:
+
+1. the cost of the property acquired by the purchaser; or
+
+2. if a certificate of compliance has been issued under subsection 116(2), the amount by which the cost of the property acquired by the purchaser exceeds the certificate limit fixed by a proposed disposition.
+
+Purchaser liability assessments are not subject to any time restrictions. Therefore, an assessment may be issued at any time the CRA becomes aware that a vendor or purchaser has not adhered to the requirements of section 116.
+
+51. For dispositions of properties described in paragraph 4 above, the purchaser may become liable under the provisions of subsection 116(5.3) to pay to the CRA, on behalf of the vendor, an amount equal to 50% of either:
+
+1. where a certificate of compliance under subsection 116(5.2) has not been issued, the purchase amount, or
+
+2. where a certificate of compliance has been issued, the amount by which the purchase price of the property exceeds the amount fixed in the certificate.
+
+The purchaser is then entitled to withhold that amount from the purchase price.
+
+52. Since the purchaser's liability under subsection 116(5) does not apply to the disposition of excluded property, there is no purchaser's liability in respect of such property. An excluded property includes a treaty-exempt property. To qualify as a treaty-exempt property, the property must be a treaty-protected property and if the vendor and purchaser are related, Form T2062C must be submitted by the purchaser. If Form T2062C is not submitted by a purchaser who is related to the vendor, a treaty-protected property will not be considered an excluded property and the regular purchaser's liability and vendor notification requirements will apply.
+
+In addition, the purchaser's liability does not apply if all of the following conditions are met:
+
+1. after reasonable inquiry, the purchaser has determined the vendor's country of residence;
+
+2. the property is treaty‑protected under the tax treaty that Canada has with the vendor's declared country of residence; and
+
+3. where the vendor and purchaser are related, a T2062C is submitted by the purchaser within 30 days after the date of acquisition.
+
+If Form T2062C is not used, the purchaser must provide the following information with the notice of acquisition of treaty-protected property:
+
+1. the date of the acquisition;
+
+2. the name and address of the non-resident person;
+
+3. a description of the property;
+
+4. the amount paid or payable by the purchaser of the property; and
+
+5. the name of the country with which Canada has a tax treaty under which the property is a treaty‑protected property for the purposes of subsection 116(5.01) or 116(6.1).
+
+53. The purchaser's liability for tax under subsection 116(5) or 116(5.3) does not extend to a mortgagee who acquired a property by an Order of Foreclosure, unless the transactions of mortgage and foreclosure were used as a device to sell the property to a mortgagee or a third party. Where the purchaser is the mortgagee, the amount paid will be the amount of the mortgage that is set‑off because of the purchase. When the mortgagee is not liable under section 116 to pay tax, and requests that the CRA issue a certificate of compliance, the CRA may issue a letter to that effect.
+
+54. If a mortgagee exercises a power of sale pursuant to the terms of the mortgage, a court order or the provisions of the relevant Mortgage Act, rather than foreclosing, title to the property passes directly from the mortgagor to a third party purchaser. Thus the provisions of subsections 116(5) or (5.3) apply if the vendor/mortgagor was a non‑resident. Where title to the property has passed from a Canadian resident vendor/mortgagor to a Canadian resident purchaser, albeit through a power of sale by a non‑resident mortgagee, the provisions of section 116 will not apply to any of the three parties.
+
+55. Any tax remittances payable by the purchaser must be remitted to the Receiver General for Canada within 30 days from the end of the month in which the property was acquired. The purchaser should give particulars of the transaction, identify the remittances, and specify that the payment concerned pertains to subsection 116(5) or 116(5.3). The full name and address of the vendor and the purchaser should be indicated.
+
+56. Any purchaser who fails to remit or pay an amount required under subsection 116(5) or 116(5.3) may be assessed a penalty under the authority of subsection 227(10.1), calculated under the provisions of subsection 227(9). Paragraph 227(9)(a) provides for a penalty for the failure to pay or remit an amount required to be deducted or withheld. The penalty is calculated as a percentage of the tax payment required under Section 116. The penalty is 3% if it is one to three days late, 5% if it is four or five days late, 7% if it is six or seven days late, and 10% if it is more than seven days late. For second and subsequent failures during the same year, if the failure to remit or pay was made knowingly or under circumstances amounting to gross negligence, the penalty under paragraph 227(9)(b) will be 20% of the amount required to be deducted or withheld. Subsection 227(9.3) provides for levying interest on the payment or remittance required by subsections 116(5) and 116(5.3).
+
+57. For penalties and interest, the Minister has the discretion under subsection 220(3.1) to waive or cancel all or any portion of any penalty or interest if it is found that the penalty or interest resulted from circumstances beyond the control of the purchaser. For more information, refer to the current version of IC07-1, *Taxpayer Relief Provisions*.
+
+58. The purchaser incurs no obligation to pay tax if, after reasonable inquiry, there was no reason to believe the vendor was a non‑resident of Canada. There is a question as to what constitutes "reasonable inquiry." The purchaser must take prudent measures to confirm the vendor's residence status. The CRA will review each case on an individual basis whenever a purchaser assessment is being considered. The purchaser may become liable if, for any reason, the CRA believes that the purchaser could have or should have known that the vendor was a non‑resident or did not take reasonable steps to find out the vendor's residence status. The CRA will not make inquiries on behalf of a purchaser in this regard.
+
+## Filing a Tax Return – Refund of Excess Payment
+
+59. A vendor is not required to file a Canadian tax return in respect of the disposition if all of the following apply:
+
+1. the vendor is a non-resident at the time of the disposition;
+
+2. the vendor has no Part I tax payable for the year;
+
+3. the vendor does not owe any amounts under the Act for any prior year (other than amounts for which the CRA has accepted and holds adequate security); and
+
+4. all of the taxable Canadian property disposed of by the vendor is either excluded property as defined in subsection 116(6) of the Act, or property for which the CRA has issued a certificate of compliance in accordance with subsection 116(2), 116(4) or 116(5.2) of the Act.
+
+60. If all of the criteria in paragraph 59 are not met, a tax return is required to be filed by the vendor for the taxation year in which the disposition took place. After the return is assessed, any excess payment is refunded or provision is made for the release of security once the established debt has been satisfied. Income tax returns filed before the end of the taxation year will be processed only after the end of the taxation year.
+
+61. Generally, for individuals, the income tax return is due on April 30th of the year following the year in which the disposition occurred. For corporations, the return is due six months after the end of the taxation year in which the disposition took place. Trust returns are due 90 days after the end of the trust's taxation year in which the disposition took place. Returns that are filed late are subject to interest and applicable penalties. Copies of the income tax returns and the related guides can be obtained from any TSO or from the CRA website, **www.cra.gc.ca**. Individuals should request guide 5013‑G,*General Income Tax and Benefit Guide* *for Non‑Residents and Deemed Residents of Canada*.
+
+62. These returns must be sent to the:
+
+International Tax Services Office Canada Revenue Agency Post Office Box 9769, Station T Ottawa ON K1G 3Y4 Canada
+
+Any questions concerning the assessment of the return should also be forwarded to this office.
+
+63. Delays in processing a vendor's income tax return occur for many reasons. However, if the proper information is provided at the time of filing, the return will be processed as quickly as possible.
+
+Vendors should ensure that:
+
+1. the information area is completed in detail;
+
+2. their identification number is entered as requested;
+
+3. Copy 2 of the certificate of compliance (form T2064 or T2068) is enclosed. This information slip is invaluable in tracing payments, security or exemptions in respect of the disposition, and
+
+4. if, for any reason, circumstances have changed and the amount reported on the vendor's income tax return differs substantially from the amount reported for the disposition on the certificate of compliance, a note should be attached to the income tax return along with the appropriate documentation.
+
+64. The Minister has the discretion to assess returns of individuals and testamentary trusts that are filed more than three years after the end of the taxation year in which the disposition occurred in order to issue refunds or to reduce taxes payable. This discretion may be exercised where the request is in writing and the Minister is satisfied that the refund would have been issued or tax payable reduced had the returns been filed on time.
+
+## Misallocated or Lost Payments
+
+65. The CRA makes every effort to ensure that a payment made for a section 116 disposition is matched to the income tax return filed. If vendors follow the instructions for filing income tax returns in paragraphs 59 to 64 above, the problem of misallocated or lost payments will be alleviated.
+
+66. If the payment is not properly credited on the Notice of Assessment, the vendor should contact:
+
+International Tax Services Office Canada Revenue Agency Post Office Box 9769, Station T Ottawa ON K1G 3Y4 Canada
+
+Vendors should also provide the following information:
+
+1. a brief description of the disposition;
+
+2. the date of the payment;
+
+3. the TSO that processed the certificate of compliance; and
+
+4. a photocopy of the front and back of the cancelled cheque, if applicable.
+
+## General Comments
+
+67. Section 116 does not apply to a deemed disposition on death under subsection 70(5). However, the executor acting on behalf of a non‑resident decedent must file an income tax return for the year of death and pay any tax that may be necessary on the deemed disposition.
+
+68. Section 116 does not apply to property that is transferred or distributed on or after death and as a consequence thereof.
+
+69. If compensation is received for damages to property, consideration must be given as to whether any part of the compensation involves a transfer of title or an interest therein to which section 116 would apply. It is unlikely that a transfer of title or an interest therein has taken place when compensation has been paid to the owner of property for damages claimed in a tort action. However, when such a payment is made according to a contractual arrangement between the parties, the terms of the contract should be examined to determine whether title or an interest in the property has been received in exchange for the compensation.
+
+70. A deemed dividend is triggered under section 212.1 in cases when a non‑resident disposes of shares of a corporation resident in Canada to another corporation resident in Canada in a non‑arm's length transaction; this deemed dividend is subject to Part XIII withholding tax under subsection 212(2). The CRA will accept a calculation of proceeds of disposition of the shares, for purposes of section 116, which includes a reduction for the section 212.1 deemed dividend. Vendors should submit a letter of explanation and a copy of the section 212.1 calculation along with Form T2062 when requesting a certificate of compliance in these cases. The CRA may request payment of Part XIII tax before a certificate of compliance is issued.
+
+71. Under the Doctrine of Sovereign Immunity, the Government of Canada may grant exemption from tax on certain Canadian‑source investment income paid or credited to the government of a foreign country. Capital gains on the disposition of taxable Canadian property may be eligible for this exemption, subject to the conditions described in the current version of IC77‑16, *Non‑Resident Income Tax*.When the vendor of taxable Canadian property is a foreign government, the CRA will issue a certificate of compliance once it is substantiated that the property is, in fact, wholly‑owned by that government. The request should be sent to:
+
+Canada Revenue Agency 22nd floor, Tower A, 320 Queen Street Ottawa ON K1A 0L5 Canada Attention: International Legislative Affairs Legislative Policy Directorate
+
+72. The disposition of mineral rights in Canada is considered to be a disposition of a Canadian resource property, and as such, is subject to the requirements of subsection 116(5.2). In the case of a Petroleum and Natural Gas Lease, the bonus portion (bonus consideration) is subject to the provisions of subsection 116(5.2). The annual rental payment is subject to withholding tax under paragraph 212(1)(d).
+
+73. When a non-resident disposes of a principal residence, the non-resident may qualify for an exemption in accordance with paragraph 40(2)(b) or (c) of the Act. However, pursuant to paragraph 40(2)(b), the exemption is limited by the number of years ending after the acquisition date during which the taxpayer was resident in Canada. If a property owned in Canada by a non-resident qualifies as the non-resident's principal residence, the period of non‑residence may reduce or eliminate the availability of the principal residence exemption.
+
+Paragraph 40(2)(b) provides the formula for computing the taxable portion of a gain from the disposition of a principal residence in a year. A – [A × (B/C) – D] where:
+
+A is the calculated gain
+
+B is one plus the number of taxation years ending after the acquisition date for which the property was the taxpayer's principal residence and during which the taxpayer was resident in Canada (both the year of acquisition [if after 1971] and the year of disposition can be included if the property qualified as a principal residence in the year).
+
+C is the number of taxation years ending after the acquisition date. The acquisition date is defined as the later of December 31, 1971, the date on which the taxpayer last acquired or reacquired the property during which the taxpayer owned the property, whether jointly with another person or otherwise (both the year of acquisition [if after 1971] and theyear of disposition will be included).
+
+D is the "capital gains reduction amount" (this only occurs if the taxpayer's acquisition date is before February 23, 1994 and the taxpayer, or his or her spouse, made a subsection 110.6(19) capital gains election for the property).
+
+When a non-resident disposes of a principal residence, a T2062 or similar notification must be submitted to report the disposition. The tax or security required may be reduced accordingly where the gain is reduced by the principal residence exemption. For the purposes of Section 116, the request for a principal residence exemption can be made by completing and submitting Form T2091 (IND), *Designation of a Property as a Principal Residence by an Individual (other than a Personal Trust)*or by a letter signed by the taxpayer attached to the notification. When completing Form T2091 to calculate the exemption at line 22, ensure that lines 1 to 3 do not include any tax years during which the taxpayer was not resident in Canada. If a letter is sent with the notification, the letter should contain a calculation of the portion of the gain otherwise determined that is or will be eliminated by the principal residence exemption.
+
+74. Many of Canada's income tax conventions contain provisions dealing with cross border reorganizations that allow, through its interaction with section 115.1 of the Act, for the Canadian Competent Authority and the person who is acquiring the taxable Canadian property to agree to defer the recognition of the vendor's profit, gain or income on what would otherwise be a taxable disposition under the Act (e.g. paragraph 8 of Article XIII of the Canada – U.S. Income Tax Convention). These dispositions may be subject to the provisions of section 116. The vendor must file the appropriate form to report a disposition along with a copy of the request made to the Canadian Competent Authority. The requirement for payment or secuirity on account of tax may be waived when the Canadian Competent Authority accepts the non-resident's request for relief. For more information, refer to the current version of IC71-17, *Guidance on Competent Authority Assistance under Canada's Tax Conventions*.

@@ -1,0 +1,10 @@
+---
+title: "EDN77 CANCELLED Excise Duty Exemption for 100% Canadian Wine Made from Honey or Apples"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edn77.html
+last_modified: 2025-06-18
+---
+# EDN77 CANCELLED Excise Duty Exemption for 100% Canadian Wine Made from Honey or Apples
+
+## This publication was cancelled
+
+This publication was cancelled as of 2025-06-18. Refer to [Memorandum EDM4-1-1, Producers and packagers of wine](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edm4-1-1/producers-packagers-wine.html), for information on the excise duty exemption for 100% Canadian wine made from honey or apples.

@@ -1,0 +1,13 @@
+Title: EDM1-1-2 CANCELLED - Regional Excise Duty Offices
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edm1-1-2.html
+Corpus path: corpus/cra/forms-publications/publications/edm1-1-2.md
+Document type: publication
+Last modified: 2025-10-20
+
+# EDM1-1-2 CANCELLED - Regional Excise Duty Offices
+
+## Notice to the reader
+
+This publication was cancelled as of January 11, 2019 and replaced with [Contact information – Excise and Specialty Tax Directorate](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/excise-taxes-contacts.html).
+
+**Last update:** 2019-01-11

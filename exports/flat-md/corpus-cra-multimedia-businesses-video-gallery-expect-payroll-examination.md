@@ -1,0 +1,75 @@
+---
+title: "Webinar: What to expect during a Payroll Examination"
+gallery_title: "Webinar: What to expect during a Payroll Examination"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/businesses-video-gallery/expect-payroll-examination.html
+video_source: https://www.youtube.com/watch?v=M-AtOpgCkdE
+last_modified: 2025-12-09
+---
+
+# Webinar: What to expect during a Payroll Examination
+
+## Transcript
+**Slide 1:** Hello and welcome to our webinar on "What to expect during a Payroll examination." My name is Ashley and I am your presenter.
+I would like to mention that today's webinar will be recorded and posted on the Canada Revenue Agency (CRA) website at a later date.
+**Slide 2:**
+Generally, you're an employer if you pay salaries, wages, bonuses, vacation pay, or tips to your employees. Some employees may be provided with certain taxable benefits, such as automobile or other types of allowances.
+You may have some questions about meeting your payroll obligations and if you're "doing it right?" We are here to help you, therefore, do not hesitate to ask questions when our officers are communicating or meeting with you.
+In the event you decide to hire someone to handle your payroll obligations, they will need to be designated as an authorized representative for us to discuss your file with them.
+Today's webinar will focus on some components of payroll compliance. Examinations is just one of the ways CRA ensures employers are applying the tax laws correctly and meeting their obligations. Compliance action helps to keep the tax system fair for everyone.
+Let's face it, sometimes people find it overwhelming to interact with the CRA. Having the right information, and knowing what to expect, can help. This webinar will explain the payroll examination processes and will cover:
+- Your obligations
+- Why we conduct examinations
+- What is a payroll examination?
+- How to prepare for a payroll examination?
+- What happens during and after a payroll examination?
+At the end of this webinar we will provide some reference material that is also available to help you meet your obligations as an employer.
+**Slide 3:**
+At times, the evidence needed to determine the status of your workers as employees or self-employed individuals may not be clear. You can make a request to the CRA for a Canada Pension Plan (CPP) and/or an Employment Insurance (EI) ruling and they will make the determination to ascertain the status of the employee. Otherwise, we will make the request, as part of our payroll examination process.
+As an employer and, in some circumstances, a trustee or payer, you are responsible for calculating your employees' CPP contributions, EI premiums and income tax from remuneration. The deductions must be remitted along with your share of the CPP contributions and EI premiums by the due date identified by your remittance threshold, which is determined by your average monthly withholding amount.
+If you provide certain taxable benefits to your employees, workers or shareholders such as an automobile or an allowance, the taxable benefits must be reported on the appropriate T4/T4A slip. Every year, you must file an information return on or before the last day of February of the following calendar year. You are required to report the employees' and workers' income, taxable benefits and deductions on the appropriate T4 or T4A slip.
+If your business stops operating, you need to remit all CPP contributions, EI premiums, and income tax deductions withheld for the former employees **within seven days** of the day your business ends. You will also need to fill out and file all T4 or T4A slips and summaries using **electronic filing**methods within **30 days** from the date your business ends or 90 days from the date a partner or the sole proprietor dies.
+It is important that you keep records up to date and accessible for a period of up to six years because our officers can ask to see them. All your records, whether they are kept on paper or electronically, must have the capacity to capture, produce, and retain sufficient details to determine your tax obligations and entitlements.
+**Slide 4:**
+At the CRA, we administer tax, benefits, and related programs, and ensure compliance by applying the law fairly on behalf of governments across Canada, thereby contributing to the ongoing economic and social well-being of Canadians.
+As you know, the Canadian tax system is based on self-assessment. As employers, you are required to:
+- calculate your payroll source deductions,
+- remit and pay your remittances as per your remittance threshold deadline, as well as,
+- file an information return along with any payments required at the end of the reporting period.
+To make sure employers do fulfill their obligations and are applying the tax laws correctly, the CRA will assign payroll examinations following a referral for perceived non-compliance or randomly select files.
+This helps keep the tax system fair for everyone.
+As a business, you may also have the obligation to calculate, collect and remit Goods and Service Tax (GST) or the Harmonized Sales Tax (HST) plus file your GST/HST returns, which means that the officer attending your business to complete the examination might cover both subjects. However, since a GST/HST webinar will be offered later on this year, this webinar will focus solely on payroll examination.
+That can be a lot for an employer to cover!
+**Slide 5:**
+A payroll examination is an examination of your books and records to ensure the proper deducting, remitting and reporting of federal and provincial taxes, CPP, EI, employer-provided benefits, and for any income that may have been unreported.
+At the time of the payroll examination, you can ask the examination officer any questions you may have regarding the withholding requirements under the Income Tax Act, the CPP, the Employment Insurance Act or the GST/HST under the Excise Tax Act.
+The examination officer will also take the time to explain how to remit correctly and on time to avoid penalties of up to 20%.
+They are there to help!
+**Slide 6:**
+First, it is important that you maintain your books and records in an orderly fashion. Good bookkeeping helps you stay organized and it helps you get ready for any review of your records like a payroll examination. Whether your books and records are in paper or in electronic format, you should have them easily accessible and well organized.
+You must have the capacity to easily capture, produce, and retain sufficient details to determine your tax obligations and entitlements. It will ease the examination process as you will have all the information needed to support all the deductions and benefits entitlements calculation for your employees.
+**Slide 7:**
+The examination officer will call or send a letter to set up an appointment with you or your authorized representative. At that time the officer will explain what books and records will be needed for the examination.
+In some cases, you will be requested to forward your books and records to an officer electronically through the CRA secure portals (My Business Account and Represent a Client). The officer will examine your records and conduct the examination without the need to set up an appointment to meet with you face-to-face. The officer may contact you by telephone to ask you for additional information or clarification on the information you submitted.
+The examination officer will examine the books and records to ensure proper deducting, remitting, and reporting of the required withholdings.
+During the examination, the examination officer can also request a CPP/EI Ruling for determination as to whether a worker is an employee or self-employed.
+**Slide 8:**
+To finalize the examination, the examination officer will provide you with a statement of account (PD 83-1) with the findings of the examination. The examination officer will explain the statement of account including assessed penalties and interest if applicable.
+If the examination was conducted as a non face-to-face examination, the officer will contact you to discuss the findings and a statement of account will be mailed to you.
+In both situations, feel free to contact the examination officer for further explanation of the statement of account if needed.
+**Slide 9:**
+If the examination officer finds any discrepancies in what was deducted and remitted, these changes may result in assessments on the employer account as well as the need for new or amended T4/T4A slips. As a courtesy, the examination officer may amend the T4/T4As with the necessary information, however, it is still the **employer's responsibility**to provide their employees with the amended T4/T4A slips. The new or amended T4/T4As may result in assessments or reassessments to the affected individual's personal tax accounts.
+Any amounts owing at the completion of the payroll examination are due and payable immediately to the Receiver General of Canada.
+Once the payroll examination is processed internally by the CRA, a Notice of Assessment (or a NOA) will be sent to you.
+**Slide 10:**
+Once you receive your NOA, feel free to contact the examination officer for further explanation, if needed.
+If you do not agree with the NOA, you can file an objection with the CRA. Remember that this notice of objection, the T400A – Objection – Income Tax Act, must be filed within **90 days**of the date of assessment. You must ensure to include all relevant facts along with an explanation of why you disagree.
+**Slide 11:**
+If you are looking for more information about your obligations, here are a few recommended publications that can help. The publications are available on the Canada.ca website.
+I would like to draw your attention to the:
+- T4130, Employers' Guide –Taxable Benefits and Allowances, as it provides in depth information about the numerous types of taxable benefits that employers must report.
+- RC4110, Employee or Self-employed? The guide explains the purpose for a CPP and/or EI ruling and how to request a CPP and/or EI ruling from the CRA.
+- RC4157 Deducting Income Tax on Pension and Other Income, and Filing the T4A Slip and Summary, which provides information about T4A slips, and
+- RC4409 Keeping records, which provides information about keeping adequate books and records.
+In addition to the publications just listed, the CRA also has an A to Z index which includes "Topics for payroll." Please go to Canada.ca to view the "Topics for payroll" under Taxes and to view many other helpful topics.
+And with that, we've reached the end of this webinar. I hope that this webinar has provided you with a better understanding with what is involved in an employer examination and what to expect during an examination.
+If you have questions on what we have covered today, you can reach the CRA by calling Business enquiries at **1-800-959-5525**. Thank you for watching.

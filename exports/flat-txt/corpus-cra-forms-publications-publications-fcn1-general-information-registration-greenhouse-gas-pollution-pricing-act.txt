@@ -1,0 +1,779 @@
+Title: FCN1 Registration Under the Greenhouse Gas Pollution Pricing Act
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn1/general-information-registration-greenhouse-gas-pollution-pricing-act.html
+Corpus path: corpus/cra/forms-publications/publications/fcn1/general-information-registration-greenhouse-gas-pollution-pricing-act.md
+Document type: publication
+Last modified: 2018-12-05
+
+# FCN1 Registration Under the Greenhouse Gas Pollution Pricing Act
+
+January 2019
+
+The purpose of this notice is to provide information on registration to persons who may be required or permitted to register under Part 1 of the [Greenhouse Gas Pollution Pricing Act](https://laws-lois.justice.gc.ca/eng/acts/G-11.55/index.html). Such persons include fuel producers, fuel wholesalers, emitters and fuel distributors, as well as air, marine, rail and road carriers, and certain users.
+
+The Act received Royal Assent on June 21, 2018 and is composed of 2 key parts. Part 1, administered by the Canada Revenue Agency (CRA), applies a charge on 21 types of fuel and combustible waste starting in April 2019. Part 2, administered by Environment and Climate Change Canada (ECCC), introduces an output-based pricing system (OBPS) for industrial facilities starting in January 2019. The fuel charge and the OBPS form the federal carbon pollution pricing system.
+
+The federal system applies in provinces and territories where a provincial or territorial carbon pricing mechanism has not been put into place or the mechanism does not meet the national criteria. Information on the national criteria can be found on the [ECCC website](https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/output-based-pricing-system/registering-facility.html). On October 23, 2018, the Government of Canada proposed a list of provinces and territories that will be subject to the federal system. The federal fuel charge is proposed to apply in Manitoba, New Brunswick, Ontario and Saskatchewan beginning April 1, 2019 and in Nunavut and the Yukon beginning July 1, 2019. These proposed provinces and territories are known as **listed provinces** for the purposes of the fuel charge. Other jurisdictions in Canada are not subject to the federal fuel charge at this time.
+
+The information in this notice is for reference purposes only and does not replace the *Greenhouse Gas Pollution Pricing Act* or its regulations. The information described in this notice is also based, in part, on the *Draft Regulations Amending Part 1 of Schedule 1 and Schedule 2 to the Greenhouse Gas Pollution Pricing Act* (“Draft Regulations”) and the *Backgrounder: Targeted Relief for Farmers and Fishers, and Residents of Rural and Remote Communities* (“Backgrounder”). The Draft Regulations and the Backgrounder were included as attachments to the news release entitled [Department of Finance Announcing Climate Action Incentive Payments and Launch of Fuel Charge Consultations](https://www.canada.ca/en/department-finance/news/2018/10/department-of-finance-announcing-climate-action-incentive-payments-and-launch-of-fuel-charge-consultations.html) that was issued on October 23, 2018. Any reference that is made in this notice to April 1, 2019 or July 1, 2019 is as proposed in the Draft Regulations. Any reference that is made in this notice to a listed province refers to Manitoba, New Brunswick, Nunavut, Ontario, Saskatchewan and Yukon, as proposed in the Draft Regulations. As well, the Backgrounder only reflects the intentions of the Government of Canada. Any commentary contained in this notice should not be taken as a representation by the CRA that the Draft Regulations will eventually be made or adopted in their current form.
+
+Should there be any discrepancy between the information in this notice and that contained in the Act or its regulations, the legislative provisions apply. For more information about the Act and its regulations, including all related technical publications, go to [Fuel charge technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge.html).
+
+All legislative references in this publication are to the Act, unless otherwise stated.
+
+## Table of Contents
+
+- [Overview](#_Toc531266848)
+
+- [Registration](#_Toc531266849)
+
+- [Types of registration](#_Toc531266850)
+
+    - [Registered distributor](#_Toc531266851)
+
+    - [Registered importer](#_Toc531266852)
+
+    - [Registered emitter](#_Toc531266853)
+
+    - [Registered user of fuel](#_Toc531266854)
+
+    - [Registered user of combustible waste](#_Toc531266855)
+
+    - [Registered air carrier and registered specified air carrier](#_Toc531266856)
+
+    - [Registered marine carrier and registered specified marine carrier](#_Toc531266857)
+
+    - [Registered rail carrier and registered specified rail carrier](#_Toc531266858)
+
+    - [Registered road carrier](#_Toc531266859)
+
+- [Applying for registration](#_Toc531266860)
+
+    - [Authority for separate returns](#_Toc531266861)
+
+    - [Cancelling a registration](#_Toc531266862)
+
+- [Appendix – Definitions](#_Toc531266863)
+
+## Overview
+
+As part of the Government of Canada’s initiative to implement a federal greenhouse gas emissions pricing structure, and taking into consideration provincial greenhouse gas emissions pricing systems, the Government of Canada has developed a federal carbon pollution pricing system composed of a fuel charge that applies to fossil fuels and an output-based pricing system for industrial facilities.
+
+The federal system applies in provinces and territories where a provincial or territorial carbon pricing mechanism has not been put into place or the mechanism does not meet the national criteria. As proposed, the CRA will be responsible for administering and enforcing the fuel charge component of the federal system beginning, April 1, 2019 in Manitoba, New Brunswick, Ontario and Saskatchewan and July 1, 2019 in Nunavut and Yukon (the listed provinces).
+
+This notice provides information on registration requirements with respect to the fuel charge, including a description of the different types of registration. Persons that have business activities in a listed province, such as producers, distributors, emitters, importers or certain users of fuel and combustible waste, as well as persons that are air, marine, rail or road carriers, should carefully review the information included in this notice as they may have to apply for registration with the CRA for the purposes of the fuel charge. Unless otherwise specified, the CRA recommends that applications for registration be submitted prior to the proposed implementation of the fuel charge on April 1, 2019 for the listed provinces of Manitoba, New Brunswick, Ontario and Saskatchewan and July 1, 2019 for the listed provinces of Nunavut and Yukon.
+
+Persons should also familiarize themselves with the *Greenhouse Gas Pollution Pricing Act*, its regulations and any other related notice(s) for additional information. They may also contact the CRA for additional information and clarification. Contact information can be found at the end of this notice.
+
+Many terms used in this notice are defined in section 3. A list of these definitions is available in the Appendix.
+
+## Registration
+
+The Act provides for the following 12 types of registration:
+
+- registered distributor
+
+- registered importer
+
+- registered emitter
+
+- registered user of fuel
+
+- registered user of combustible waste
+
+- registered air carrier
+
+- registered specified air carrier
+
+- registered marine carrier
+
+- registered specified marine carrier
+
+- registered rail carrier
+
+- registered specified rail carrier
+
+- registered road carrier
+
+Depending on its business activities, a person may be required or permitted to register for one or more types of registration. Except when registering as an emitter, a person is required to select the type of fuel or combustible waste in respect of which it is applying for registration. Registered persons or persons that are required to be registered have charge reporting and, where applicable, payment requirements.
+
+Although certain categories of persons are eligible to maintain more than one type of registration, there are instances where the Act does not permit certain combinations of registrations and requires cancellation of one registration type if the person applies for a second type.
+
+## Types of registration
+
+### Registered distributor
+
+#### Mandatory registration
+
+Under subsection 55(1), a person is required to be registered as a distributor in respect of both marketable natural gas (MNG) and non-marketable natural gas (NMNG) if the person:
+
+- produces MNG or NMNG in a listed province;
+
+- imports MNG or NMNG into a listed province from outside of Canada otherwise than in a supply tank of a vehicle;
+
+- brings MNG or NMNG into a listed province from elsewhere in Canada otherwise than in a supply tank of a vehicle;
+
+- delivers MNG or NMNG to another person in a listed province; or
+
+- measures another person’s consumption or usage of MNG in a listed province and:
+
+    - the measurement is done on a regular basis and for the purpose of billing the other person or providing the other person’s billing information to a third party; and
+
+    - the MNG is delivered by way of a distribution system.
+
+A person is also required to be registered as a distributor if the person produces any other type of fuel in a listed province.
+
+#### Voluntary registration
+
+Subsection 55(3) provides that a person that is not required under subsection 55(1) to be registered as a distributor in respect of a type of fuel (other than MNG or NMNG) may apply to be registered as a distributor in respect of that type of fuel if:
+
+- the person carries on the business of selling, delivering or distributing fuel of that type and, in the ordinary course of that business, delivers fuel of that type in a listed province to:
+
+    - another person for the purpose of resale, in the ordinary course of business, by the other person;
+
+    - a registered distributor in respect of that type of fuel;
+
+    - a farmer at a farm if the fuel is qualifying farm fuel;
+
+    - a fisher if the fuel is qualifying fishing fuel;
+
+    - a greenhouse operator, as proposed in the Backgrounder, if the fuel is qualifying greenhouse fuel;
+
+    - a remote power plant operator that generates electricity for remote communities, as the term “remote communities” is proposed to be defined in the Backgrounder if the fuel is light fuel oil as also proposed in the Backgrounder;
+
+    - a registered specified air carrier in respect of that type of fuel if the fuel is qualifying aviation fuel;
+
+    - a registered specified marine carrier in respect of that type of fuel if the fuel is qualifying marine fuel;
+
+    - a registered specified rail carrier in respect of that type of fuel if the fuel is qualifying rail fuel;
+
+    - a registered emitter at its covered facility;
+
+    - a registered user of fuel in respect of that type of fuel; or
+
+    - another person if the fuel is, in accordance with the *Ships’ Stores Regulations*, designated as ships’ stores for use on board a conveyance of a class prescribed under those regulations; and
+
+- the person carries on the business of selling, delivering or distributing fuel of that type and, in the ordinary course of that business, removes fuel of that type from a listed province.
+
+#### Timing of registration
+
+A person that is required under subsection 55(1) to be registered as a distributor in respect of a type of fuel must apply for registration before the later of:
+
+- April 1, 2019 for the listed provinces of Manitoba, New Brunswick, Ontario and Saskatchewan or July 1, 2019 for the listed provinces of Nunavut and Yukon, and:
+
+- if the type of fuel is MNG or NMNG, the day that is the earliest of:
+
+    - the day on which the person first produces MNG or NMNG in a listed province;
+
+    - the day on which the person first imports MNG or NMNG in a listed province from outside of Canada otherwise than in a supply tank of a vehicle;
+
+    - the day on which the person first brings MNG or NMNG into a listed province from elsewhere in Canada otherwise than in a supply tank of a vehicle;
+
+    - the day on which the person first delivers MNG or NMNG to another person in a listed province; and
+
+    - the day on which the person first measures another person’s consumption or usage of MNG in a listed province if:
+
+          - the measurement is for the purpose of billing the other person or providing the other person’s billing information to a third party, and
+
+          - the MNG is delivered by way of a distribution system, or
+
+- if the fuel is not MNG or NMNG, the day on which the person first produces fuel of that type in a listed province.
+
+If a person qualifies to voluntarily register as a distributor, the person may apply for registration at any time.
+
+#### Non-application
+
+Section 55 does not apply to a person in respect of a type of fuel if the person is, or is required to be, registered as a specified air carrier, an air carrier, a specified marine carrier, a marine carrier, a specified rail carrier or a rail carrier, in respect of that type of fuel.
+
+### Registered importer
+
+#### Mandatory registration
+
+Under subsection 56(1), a person that imports a type of fuel into a listed province from outside of Canada, or brings a type of fuel into a listed province from elsewhere in Canada, is required to be registered as an importer in respect of that type of fuel. There are 2 exceptions:
+
+- if fuel of that type is in a supply tank of a vehicle; or
+
+- if fuel of that type is gasoline, light fuel oil, kerosene or propane in a quantity that does not exceed 200 litres.
+
+#### Voluntary registration
+
+Under subsection 56(3), a person that is not required under subsection 56(1) to be registered as an importer in respect of a type of fuel may apply to be registered as an importer in respect of that type of fuel if:
+
+- the person is an interjurisdictional rail carrier in respect of that type of fuel;
+
+- the person, in the ordinary course of a business:
+
+    - imports fuel of that type into a listed province, in a supply tank of a locomotive, from outside Canada;
+
+    - brings fuel of that type into a listed province, in a supply tank of a locomotive, from elsewhere in Canada; or
+
+    - removes fuel of that type, in a supply tank of a locomotive, from a listed province; and
+
+- the person is not required to be registered in respect of that type of fuel, as a specified air carrier, an air carrier, a specified marine carrier, a marine carrier, a specified rail carrier or a rail carrier.
+
+#### Timing of registration
+
+A person that is required under subsection 56(1) to be registered as an importer in respect of a type of fuel must apply for registration before the later of:
+
+- April 1, 2019 for the listed provinces of Manitoba, New Brunswick, Ontario and Saskatchewan, or July 1, 2019 for the listed provinces of Nunavut and Yukon, and
+
+- the earlier of:
+
+    - the day on which the person first imports fuel of that type — other than fuel that is imported in a supply tank of a vehicle or fuel that is gasoline, kerosene, light fuel oil or propane in a quantity that does not exceed 200 L — at a location in a listed province; and
+
+    - the day on which the person first brings fuel of that type — other than fuel that is brought in a supply tank of a vehicle or fuel that is gasoline, kerosene, light fuel oil or propane in a quantity that does not exceed 200 L — into a listed province from a place in Canada.
+
+If a person qualifies to voluntarily register as an importer, the person may apply for registration at any time.
+
+#### Non-application
+
+Section 56 does not apply to a person in respect of a type of fuel if the person is, or is required to be, registered as a distributor, a specified air carrier, an air carrier, a specified marine carrier, a marine carrier, a specified rail carrier or a rail carrier, in respect of that type of fuel.
+
+### Registered emitter
+
+#### Voluntary registration
+
+Under subsection 57(1), a person may apply to be registered as an emitter if the person is, for the purposes of the OBPS, a person responsible for one or more covered facilities and the person has been issued a covered facility certificate in respect of each covered facility by the Minister of the Environment under section 171.
+
+#### Timing of registration
+
+If a person qualifies to voluntarily register as an emitter, the person may apply for registration at any time.
+
+### Registered user of fuel
+
+#### Voluntary registration
+
+Under subsection 58(1), a person that is not registered as a distributor in respect of a type of fuel and that is not required to be registered as a distributor may apply to be registered as a user in respect of that type of fuel if the person uses, in the ordinary course of its business, fuel of that type in a non-covered activity in a listed province.
+
+#### Timing of registration
+
+If a person qualifies to voluntarily register as a user, the person may apply for registration at any time.
+
+A company that uses ethane to manufacture plastics is located in a listed province.
+
+It can register as a user of fuel for ethane.
+
+The production of plastics is a non-covered activity when they are produced by mixing ethane with other products, and the ethane is not put into a fuel system that produces heat or energy and is not burned or flared.
+
+### Registered user of combustible waste
+
+#### Mandatory registration
+
+Under subsection 59(1), a person is required to be registered as a user in respect of combustible waste (for example, tires and asphalt shingles) if the person burns combustible waste in a listed province for the purpose of producing heat or energy.
+
+#### Timing of registration
+
+A person that is required under subsection 59(1) to be registered as a user in respect of combustible waste must apply for registration before the later of:
+
+- April 1, 2019 for the listed provinces of Manitoba, New Brunswick, Ontario and Saskatchewan, or July 1, 2019 for the listed provinces of Nunavut and Yukon, and
+
+- the day on which the person first burns combustible waste in a listed province for the purpose of producing heat or energy.
+
+### Registered air carrier and registered specified air carrier
+
+#### Mandatory registration
+
+Subsection 60(1) states that a person (other than a registered emitter) that is an interjurisdictional air carrier in respect of a type of fuel that is a qualifying aviation fuel is required to be registered at a particular time:
+
+- unless paragraph (b) applies, as an air carrier in respect of that type of fuel if it can reasonably be expected that, during the calendar year that includes the particular time, all or substantially all of the fuel of that type used by the person will be used in vehicles and the greatest proportion of the fuel used in vehicles will be used in aircraft; or
+
+- as either a specified air carrier or an air carrier in respect of that type of fuel if:
+
+    - during the calendar year that includes the particular time, all or substantially all of the fuel of that type used by the person is used in vehicles and the greatest proportion of the fuel used in vehicles is used in aircraft; and
+
+    - the person is a qualifying interjurisdictional air carrier in respect of that type of fuel throughout the calendar year that includes the particular time.
+
+#### Qualifying interjurisdictional air carrier
+
+**Previous year journeys**
+
+An interjurisdictional air carrier in respect of a type of fuel that is a qualifying aviation fuel is a qualifying interjurisdictional air carrier in respect of fuel of that type throughout a particular calendar year if the interjurisdictional air carrier completed journeys by aircraft in the calendar year that preceded the particular calendar year and the amount determined by the following formula is greater than, or equal to, 0.5:
+
+A ÷ B
+
+where
+
+A is the total of all quantities, each of which is a quantity of fuel of that type that was used by the interjurisdictional air carrier in an excluded air journey during the preceding calendar year; and
+
+B is the total of all quantities, each of which is a quantity of fuel of that type that was used by the interjurisdictional air carrier in a covered air journey or an excluded air journey during the preceding calendar year
+
+A Canadian air carrier provides an air transportation service in Canada and a transborder service to the United States. It is required to register as an air carrier.
+
+In 2018, this air carrier used 10,000 litres of aviation turbo fuel, of which 3,000 litres were used in covered air journeys and 7,000 were used in excluded air journeys.
+
+In order to determine if it is a qualifying interjurisdictional air carrier, the formula A ÷ B is used, where:
+
+A is 7,000 litres (the quantity of aviation turbo fuel used in excluded air journeys)
+
+B is 10,000 litres (the quantity of aviation turbo fuel used in covered air journeys and excluded air journeys)
+
+7,000 ÷ 10,000 = 0.7
+
+This air carrier can register as a specified air carrier because 0.7 exceeds the 0.5 it requires to be a qualifying interjurisdictional air carrier.
+
+**No previous year journeys**
+
+A person that is, or that can reasonably be expected to be, an interjurisdictional air carrier in respect of a type of fuel that is a qualifying aviation fuel is a qualifying interjurisdictional air carrier in respect of fuel of that type throughout a particular calendar year if the person did not complete journeys by aircraft in the calendar year that preceded the particular calendar year and the amount determined by the formula described above is greater than, or equal to, 0.5.
+
+The amount is determined using the formula, except the values of A and B are based on the projected use of fuel of that type in excluded and covered air journeys during the particular calendar year.
+
+#### Timing of registration
+
+A person that is required under section 60 to be registered as an air carrier or a specified air carrier in respect of a type of fuel must apply for registration before the later of:
+
+- April 1, 2019 for the listed provinces of Manitoba, New Brunswick, Ontario and Saskatchewan, or July 1, 2019 for the listed provinces of Nunavut and Yukon, and
+
+- the day that the carrier first meets the conditions stated above.
+
+### Registered marine carrier and registered specified marine carrier
+
+#### Mandatory registration
+
+Subsection 61(1) states that a person (other than a registered emitter) that is an interjurisdictional marine carrier in respect of a type of fuel that is a qualifying marine fuel is required to be registered at a particular time:
+
+- unless paragraph (b) applies, as a marine carrier in respect of the type of fuel if it can reasonably be expected that, during the calendar year that includes the particular time, all or substantially all of the fuel of that type used by the person will be used in vehicles and the greatest proportion of the fuel used in vehicles will be used in vessels; or
+
+- as either a specified marine carrier or a marine carrier in respect of that type of fuel if:
+
+    - during the calendar year that includes the particular time, all or substantially all of the fuel of that type used by the person is used in vehicles and the greatest proportion of the fuel used in vehicles is used in vessels; and
+
+    - the person is a qualifying interjurisdictional marine carrier in respect of that type of fuel throughout that calendar year that includes the particular time.
+
+#### Qualifying interjurisdictional marine carrier
+
+**Previous year journeys**
+
+An interjurisdictional marine carrier in respect of a type of fuel that is a qualifying marine fuel is a qualifying interjurisdictional marine carrier in respect of fuel of that type throughout a particular calendar year if the interjurisdictional marine carrier completed journeys by vessel in the calendar year that preceded the particular calendar and the amount determined by the following formula is greater than, or equal to, 0.5:
+
+A ÷ B
+
+where
+
+A is the total of all quantities, each of which is a quantity of fuel of that type that is used by the interjurisdictional marine carrier in an excluded marine journey during the preceding calendar year; and
+
+B is the total of all quantities, each of which is a quantity of fuel of that type that is used by the interjurisdictional marine carrier in a covered marine journey or an excluded marine journey during the preceding calendar year
+
+**No previous year journeys**
+
+A person that is, or that can reasonably be expected to be, an interjurisdictional marine carrier in respect of a type of fuel that is a qualifying marine fuel is a qualifying interjurisdictional marine carrier in respect of fuel of that type throughout a particular calendar year if the person did not complete journeys by vessel in the calendar year that preceded the particular calendar year and the amount determined by the formula described above is greater than, or equal to, 0.5.
+
+The amount is determined using the formula, except the values of A and B are based on the projected use of fuel of that type in excluded and covered marine journeys during the particular calendar year.
+
+#### Timing of registration
+
+A person that is required under section 61 to be registered as a marine carrier or a specified marine carrier in respect of a type of fuel must apply for registration before the later of:
+
+- April 1, 2019 for the listed provinces of Manitoba, New Brunswick, Ontario and Saskatchewan, or July 1, 2019 for the listed provinces of Nunavut and Yukon, and
+
+- the day on which the carrier first meets the conditions outlined above.
+
+### Registered rail carrier and registered specified rail carrier
+
+#### Mandatory registration
+
+Subsection 62(1) states that a person (other than a registered emitter) that is an interjurisdictional rail carrier in respect of a type of fuel that is a qualifying rail fuel is required to be registered at a particular time if it can reasonably be expected that, during the calendar year that includes the particular time, all or substantially all of the fuel of that type used by the person will be used in vehicles and the greatest proportion of the fuel used in vehicles will be used in locomotives:
+
+- unless paragraph (b) applies, as a rail carrier in respect of that type of fuel; or
+
+- as either a specified rail carrier or rail carrier in respect of that type of fuel if the interjurisdictional rail carrier has been prescribed in the *Fuel Charge Regulations*.
+
+At present, there are 3 prescribed interjurisdictional rail carriers:
+
+- Canadian National Railway Company
+
+- Canadian Pacific Railway Company
+
+- VIA Rail Canada
+
+#### Timing of registration
+
+A person that is required under section 62 to be registered as a rail carrier or a specified rail carrier in respect of a type of fuel must apply for registration before the later of:
+
+- April 1, 2019 for the listed provinces of Manitoba, New Brunswick, Ontario and Saskatchewan, or July 1, 2019 for the listed provinces of Nunavut and Yukon, and
+
+- the day on which the person first meets the conditions outlined above.
+
+### Registered road carrier
+
+#### Mandatory registration
+
+Subsection 63(1) states that a person is required to be registered as a road carrier in respect of a type of fuel that is a qualifying motive fuel if the person uses fuel of that type in a specified commercial vehicle in a listed province unless the person is, or is required to be, registered as a distributor, a specified air carrier, an air carrier, a specified marine carrier, a marine carrier, a specified rail carrier or a rail carrier, in respect of that type of fuel.
+
+#### Timing of registration
+
+A person that is required under section 63 to be registered as a road carrier in respect of a type of fuel must apply for registration before the later of:
+
+- April 1, 2019 for the listed provinces of Manitoba, New Brunswick, Ontario and Saskatchewan, or July 1, 2019 for the listed provinces of Nunavut and Yukon, and
+
+- the day on which the person first uses fuel of that type in a specified commercial vehicle in a listed province.
+
+A company is registered as a road carrier for light fuel oil. This company buys light fuel oil from a supplier in a listed province and transports the light fuel oil across Canada.
+
+It finds a supplier of light fuel oil in the United States at a more competitive price. The company intends to import 1,000 litres of light fuel oil into a listed province by truck, starting in May 5, 2019.
+
+In addition to the road carrier registration, the company will be required to register as an importer for light fuel oil on or before May 5, 2019.
+
+#### Example 4 – Type of fuel
+
+An energy distribution company located in a listed province is a major supplier of natural gas and propane in the listed province. Customers include residential, manufacturing and other resellers. The company is required to register as a distributor in respect of natural gas and propane.
+
+It begins supplying gasoline to a new client that operates gas stations in both a listed province and another province.
+
+The energy distribution company will therefore also need to add gasoline to the list of fuel types for which it is registering, but will not be required to register for operations in the other province.
+
+## Applying for registration
+
+To apply for registration, a person must complete [Form L400, Fuel Charge Registration](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400.html).Even where a person applies for more than one type of registration, only one registration form is required, unless an application for authority for separate returns under subsection 88(1) is submitted. All applicants must also complete [Form L400-1, Fuel Charge Registration Schedule](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400-1.html), or [Form L400-2, Fuel Charge Registration Schedule – Road Carrier](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400-2.html), or both, depending on the type of registration for which they are applying.
+
+Registration forms can be submitted electronically using the “Submit documents” function in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html). If the person submits a registration application electronically, that person will be provided with the confirmation number. This confirmation number should be retained for follow up on the status of the application, if required.
+
+The applicant can also send the completed registration forms by mail to the following address:
+
+Sudbury Tax Centre Fuel Charge Program Post Office Box 20000, Station A Sudbury ON P3A 5C1
+
+The processing of the fuel charge registration may be delayed in the case of missing or incomplete information. The processing of an application may take up to 30 calendar days from the date the CRA receives it.
+
+The applicant will be informed by the CRA in writing of its approved application, including its registration number and the effective date of its registration.
+
+### Authority for separate returns
+
+Subsection 88(1) states that a person that engages in one or more activities in separate branches or divisions may file an application with the Minister, in the prescribed form and manner, for authority to file separate returns and applications for rebates in respect of a branch or division specified in the application.
+
+The application must be completed in writing by the person to confirm that
+
+- the branch or division identified in the application can be separately identified by reference to its location or the nature of activities engaged in by it; and
+
+- separate records, books of account and accounting systems are maintained in respect of the branch or division.
+
+A separate [Form L400, Fuel Charge Registration](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400.html), should be used to identify each branch or division along with [Form L400-1, Fuel Charge Registration Schedule](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400-1.html), or [Form L400-2, Fuel Charge Registration Schedule – Road Carrier](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400-2.html), or both, depending on the type of registration for which the person is applying.
+
+The application to file separate returns should be submitted at the time of registration. The application and forms should be submitted electronically using the "Submit documents" function in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) or by mail to the Sudbury Tax Centre at the address listed above.
+
+If approved, the applicant will be informed in writing by the CRA, and the authorization will remain in effect until the applicant requests the revocation of authorization or the Minister is no longer satisfied that the requirements of the applicant are met.
+
+### Cancelling a registration
+
+The CRA must cancel the registration of a person in respect of a type of fuel in certain instances when an application for multiple types of registration is received from the same person. For example, the CRA must cancel the registration of a distributor in respect of a type of fuel when registering this person as a specified air carrier, an air carrier, a specified marine carrier, a marine carrier, a specified rail carrier, or a rail carrier in respect of that type of fuel.
+
+A registrant may apply to cancel its registration if the registrant believes that it is no longer required to be registered (for example, if ownership of the business changes or business activity ceases). The registrant must notify the CRA in writing when this occurs, noting the date as of which it no longer needs to be registered. The registrant should submit a request electronically using the “Submit documents” function in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) or to the Sudbury Tax Centre at the address listed above.
+
+The CRA may also cancel a registration if the CRA is satisfied that the registration is no longer required.
+
+The CRA must notify the person of the cancellation and the effective date of the cancellation.
+
+## Appendix – Definitions
+
+**Excerpt from section 3 of the Act**
+
+**aircraft** means any conveyance that is suitable for the transportation of individuals or goods by air.
+
+**aviation gasoline** means a substance suitable for generating power by means of an aircraft engine other than a turbine.
+
+**aviation turbo fuel** means a substance suitable for generating power by means of an aircraft engine that is a turbine.
+
+**biodiesel** means
+
+- a particular substance
+
+    - that is
+
+          - made up of mono-alkyl esters of long chain fatty acids derived entirely from biological matter available on a renewable or recurring basis, or
+
+          - made from plant or animal matter using a hydrogenation process,
+
+    - that may contain other substances, materials or things, that are not described in subparagraph (i) if the combined proportion of those other substances, materials or things does not exceed 1.5% of the particular substance, and
+
+    - that is suitable for generating power by means of a diesel engine or for use in a furnace, boiler or open flame burner when used
+
+          - on its own,
+
+          - after being blended with light fuel oil, or
+
+          - after being blended with a light fuel oil-like blendstock to produce light fuel oil; or
+
+- a prescribed substance, material or thing.
+
+**biogasoline** means
+
+- a particular substance
+
+    - that is derived entirely from biological matter available on a renewable or recurring basis,
+
+    - that may contain water if the proportion of the water does not exceed 1% of the particular substance,
+
+    - that may contain other substances, materials or things that are not described in subparagraph (i) or (ii) if the combined proportion of those other substances, materials or things does not exceed 6% of the particular substance, and
+
+    - that is suitable for generating power by means of an internal combustion engine other than a diesel engine when used
+
+          - on its own,
+
+          - after being blended with gasoline, or
+
+          - after being blended with a gasoline-like blendstock to produce gasoline; or
+
+- a prescribed substance, material or thing.
+
+**biomethane** means
+
+- a substance that is derived entirely from biological matter available on a renewable or recurring basis and that is primarily methane; or
+
+- a prescribed substance, material or thing.
+
+**coke** means a solid carbonaceous residue that
+
+- is derived from low-ash, low-sulfur bituminous coal from which the volatile constituents are driven off by baking in an oven with the result that the fixed carbon and residual ash are fused together; and
+
+- is suitable as a source of energy.
+
+**combustible waste** means
+
+- tires or asphalt shingles whether in whole or in part; or
+
+- a prescribed substance, material or thing.
+
+**confirmed delivery service** means certified or registered mail or any other delivery service that provides a record that a notice or document has been sent or delivered.
+
+**covered air journey** in respect of a listed province means a journey by aircraft that is
+
+- from a particular location to another location, both of which are in the listed province; or
+
+- a prescribed journey or a journey meeting prescribed conditions.
+
+**covered facility** means a facility or property that is
+
+- a covered facility within the meaning of section 169 that is registered by the Minister of the Environment under section 171 other than a prescribed facility or property, a facility or property of a prescribed class or a facility or property meeting prescribed conditions; or
+
+- a prescribed facility or property, a facility or property of a prescribed class or a facility or property meeting prescribed conditions.
+
+**covered marine journey** in respect of a listed province means a journey by vessel that is
+
+- from a particular location to another location, both of which are in the listed province; or
+
+- a prescribed journey or a journey meeting prescribed conditions.
+
+**delivery** in respect of fuel or in respect of a substance, material or thing includes, except in the definition confirmed delivery service and in Division 6 of Part 1, making the fuel, substance, material or thing available.
+
+**distribution system** means a pipe or any system or arrangement of pipes for the delivery or distribution of marketable natural gas to ultimate consumers or users.
+
+**excluded air journey** means a journey by aircraft that
+
+- begins or ends in a listed province other than
+
+    - a covered air journey, or
+
+    - a prescribed journey or a journey meeting prescribed conditions; or
+
+- is a prescribed journey or a journey meeting prescribed conditions.
+
+**excluded marine journey** means a journey by vessel that
+
+- begins or ends in a listed province other than
+
+    - a covered marine journey, or
+
+    - a prescribed journey or a journey meeting prescribed conditions; or
+
+- is a prescribed journey or a journey meeting prescribed conditions.
+
+**farmer** means a person that carries on a farming business with a reasonable expectation of profit.
+
+**farming** includes tillage of the soil, livestock raising or exhibiting, maintaining of horses for racing, raising of poultry, fur farming, dairy farming, fruit growing and the keeping of bees, but does not include an office or employment under a person engaged in the business of farming.
+
+**fisher** means a person that carries on a fishing business with a reasonable expectation of profit.
+
+**fishing** includes fishing for or catching shellfish, crustaceans and marine animals but does not include an office or employment under a person engaged in the business of fishing.
+
+**fuel** means
+
+- a substance, material or thing set out in column 2 of any table in Schedule 2, other than
+
+    - combustible waste,
+
+    - a substance, material or thing that is prepackaged in a factory sealed container of 10 L or less, or
+
+    - a prescribed substance, material or thing; and
+
+- a prescribed substance, material or thing.
+
+**gas liquids** means a mixture in gaseous or liquid form that consists of two or more of ethane, propane, butane or pentanes plus and that
+
+- is separated, as a result of processing, from natural gas or crude oil for the first time;
+
+- has not been
+
+    - analyzed to assess composition, or
+
+    - processed into separate identifiable fuels; and
+
+- is not a mixture of ethane, propane, butane or pentanes plus created after the ethane, propane, butane or pentanes plus have been processed into separate identifiable fuels and subsequently remixed into a blend of one or more of the fuels.
+
+**gasoline**means a substance, including biogasoline, that is suitable for generating power by means of an internal combustion engine other than a diesel engine and that is not any other type of fuel.
+
+**heavy fuel oil** means a substance that is not petroleum coke and that is made up of a distillate or a residual of crude oil and that has a viscosity greater than 14 centistokes at 50°C.
+
+**import** means import into Canada.
+
+**interjurisdictional air carrier** in respect of a type of fuel means a person that, in the course of providing a commercial service of transporting individuals or goods by aircraft, uses fuel of that type, in the ordinary course of business, in excluded air journeys.
+
+**interjurisdictional marine carrier** in respect of a type of fuel means a person that, in the course of providing a commercial service of transporting individuals or goods by vessel, uses fuel of that type, in the ordinary course of business, in excluded marine journeys.
+
+**interjurisdictional rail carrier** in respect of a type of fuel means a person that uses fuel of that type, in the ordinary course of business, in a listed province in the course of providing a commercial service of transporting individuals or goods by rail
+
+- from one province to another province; or
+
+- between a place in Canada and a place outside Canada.
+
+**journey** means the transportation of individuals or goods by aircraft or vessel from a particular location to another location where the aircraft or vessel is next stopped if any of the following activities occurs at the particular location and if any of the following activities occurs at the other location:
+
+- individuals embark or disembark the aircraft or vessel;
+
+- goods are loaded onto or removed from the aircraft or vessel; or
+
+- the aircraft or vessel is stopped to allow for its servicing or refuelling or for emergency or safety purposes.
+
+**kerosene**means a light petroleum distillate that meets the requirements of the National Standard of Canada CAN/CGSB-3.3, Kerosene, as amended from time to time, but does not include aviation turbo fuel.
+
+**light fuel oil** means a substance that
+
+- is made up of
+
+    - a distillate or a residual of crude oil that has a viscosity not greater than 14 centistokes at 50°C, or
+
+    - biodiesel;
+
+- is suitable for generating power by means of a diesel engine or is suitable for use in a furnace, boiler or open flame burner; and
+
+- is not butane, ethane, gas liquids, aviation turbo fuel, kerosene, naphtha, propane, pentanes plus or still gas.
+
+**listed province** means a province or area listed in Part 1 of Schedule 1. The proposed listed provinces in the Draft Regulations are Manitoba, New Brunswick, Ontario, Saskatchewan, Nunavut and Yukon.
+
+**locomotive** includes self-propelled on-track railway equipment but does not include vehicles that are suitable for movement both on and off lines of railway.
+
+**marketable natural gas**means natural gas that consists of at least 90% methane and that meets the specifications for pipeline transport and sale for general distribution to the public.
+
+**mixture** means a substance, material or thing that is a combination of two or more types of fuel.
+
+**naphtha**means a refined or partially refined petroleum fraction with an approximate boiling temperature between 50°C and 204°C other than aviation gasoline, aviation turbo fuel, gasoline, heavy fuel oil, kerosene, light fuel oil or petroleum coke.
+
+**natural gas** includes a combination of natural gas and biomethane but does not include still gas.
+
+**non-covered activity** means an activity in respect of which fuel
+
+- is used
+
+    - as a raw material in an industrial process that produces another fuel or another substance, material or thing,
+
+    - as a solvent or diluent in the production or transport of crude bitumen or another substance, material or thing, or
+
+    - in prescribed circumstances; and
+
+- is not put into a fuel system that produces heat or energy and is not burned or flared.
+
+**non-marketable natural gas** means natural gas other than marketable natural gas.
+
+**pentanes plus** means a substance that is obtained from the production or processing of raw gas, condensate or crude oil, that is not any other type of fuel and that is
+
+- pentane;
+
+- hydrocarbons heavier than pentane; or
+
+- a combination of pentane and heavier hydrocarbons.
+
+**person** means an individual, a partnership, a corporation, the estate or succession of a deceased individual, a trust, a joint venture, a government or a body that is a society, a union, a club, an association, a commission or another organization of any kind.
+
+**petroleum coke** includes
+
+- a carbonaceous solid produced from an oil refinery coke unit or an oil or bitumen upgrader coker unit;
+
+- a carbonaceous solid produced from a cracking process, including coking, fluid coking, flexicoking and delayed coking; or
+
+- any substance commonly referred to as “green coke” or “fuel grade coke”.
+
+**prescribed**means
+
+- in the case of a form or the manner of filing a form, authorized by the Minister;
+
+- in the case of the information to be given on or with a form, specified by the Minister;
+
+- in the case of the manner of making or filing an election, authorized by the Minister; and
+
+- in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation.
+
+**produce** means, in respect of fuel, to obtain fuel or bring fuel into existence by any method or process including
+
+- mining, extracting, removing or otherwise obtaining from the earth;
+
+- manufacturing, synthesizing, refining or blending; or
+
+- using any means of altering the chemical or physical properties of a substance, material or thing.
+
+**qualifying aviation fuel** means a type of fuel that is aviation gasoline, aviation turbo fuel or a prescribed type of fuel.
+
+**qualifying marine fuel** means a type of fuel that is heavy fuel oil, light fuel oil, marketable natural gas or a prescribed type of fuel.
+
+**qualifying motive fuel** means a type of fuel that is gasoline, light fuel oil, marketable natural gas, propane or a prescribed type of fuel.
+
+**qualifying rail fuel** means a type of fuel that is light fuel oil, marketable natural gas or a prescribed type of fuel.
+
+**record** means any material on which representations, in any form, of information or concepts are recorded or marked and that is capable of being read or understood by a person or a computer system or other device.
+
+**registered air carrier** in respect of a type of fuel means a person that is registered under Division 4 of Part 1 as an air carrier in respect of that type of fuel.
+
+**registered distributor** in respect of a type of fuel means a person that is registered under Division 4 of Part 1 as a distributor in respect of that type of fuel.
+
+**registered emitter** means a person that is registered under Division 4 of Part 1 as an emitter.
+
+**registered importer** in respect of a type of fuel means a person that is registered under Division 4 of Part 1 as an importer in respect of that type of fuel.
+
+**registered marine carrier** in respect of a type of fuel means a person that is registered under Division 4 of Part 1 as a marine carrier in respect of that type of fuel.
+
+**registered rail carrier** in respect of a type of fuel means a person that is registered under Division 4 of Part 1 as a rail carrier in respect of that type of fuel.
+
+**registered road carrier** in respect of a type of fuel means a person that is registered under Division 4 of Part 1 as a road carrier in respect of that type of fuel.
+
+**registered specified air carrier** in respect of a type of fuel means a person that is registered under Division 4 of Part 1 as a specified air carrier in respect of that type of fuel.
+
+**registered specified marine carrier** in respect of a type of fuel means a person that is registered under Division 4 of Part 1 as a specified marine carrier in respect of that type of fuel.
+
+**registered specified rail carrier** in respect of a type of fuel means a person that is registered under Division 4 of Part 1 as a specified rail carrier in respect of that type of fuel.
+
+**registered user** in respect of a type of fuel or in respect of combustible waste means a person that is registered under Division 4 of Part 1 as a user in respect of that type of fuel or in respect of combustible waste.
+
+**specified commercial vehicle** means a vehicle
+
+- that is used to provide commercial transportation of individuals or goods by road
+
+    - from one province to another province, or
+
+    - from a particular location to another location if one location is in Canada and one location is outside Canada;
+
+- that
+
+    - has two axles and a gross vehicle weight exceeding 11,797 kg,
+
+    - has three or more axles regardless of weight, or
+
+    - when combined with the trailer with which it is used, has a gross vehicle weight exceeding 11,797 kg; and
+
+- that is not a recreational vehicle, including a motor home, bus or pickup truck with attached camper, if used solely for a particular individual's personal use or enjoyment or the personal use or enjoyment of any other individual at the particular individual's expense.
+
+**still gas**means gas suitable for use in an oil refinery that is produced as a result of distillation, cracking, reforming or other oil refining processes.
+
+**supply tank** means a receptacle of a vehicle in which fuel is held for use in the operation of
+
+- the vehicle;
+
+- an auxiliary component of the vehicle; or
+
+- an auxiliary component of another vehicle, if the other vehicle is attached to the vehicle.
+
+**use** includes flaring but does not include venting.
+
+**vehicle** means any conveyance that is suitable for the transportation of individuals or goods by water, land or air.
+
+**vessel** means any conveyance that is suitable for the transportation of individuals or goods by water.
+
+## Further information
+
+For all technical publications related to the *Greenhouse Gas Pollution Pricing Act* and its regulations, go to [Fuel charge technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge.html).
+
+To make a technical enquiry on the fuel charge or for additional information on the application of the fuel charge for each type of registrant, go to [Contact Information – Excise Duties, Excise Taxes, Fuel Charge and Air Travellers Security Charge](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/contacts.html).

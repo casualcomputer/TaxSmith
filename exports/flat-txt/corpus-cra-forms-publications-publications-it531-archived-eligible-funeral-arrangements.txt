@@ -1,0 +1,475 @@
+Title: ARCHIVED - Eligible Funeral Arrangements
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it531/archived-eligible-funeral-arrangements.html
+Corpus path: corpus/cra/forms-publications/publications/it531/archived-eligible-funeral-arrangements.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Eligible Funeral Arrangements
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+|  |  |  |  |  |
+
+| --- | --- | --- | --- | --- |
+
+| NO.: | **IT-531** |  | DATE: | January 29, 1999 |
+
+| SUBJECT: | INCOME TAX ACT **Eligible Funeral Arrangements** |  |  |  |
+
+| REFERENCE: | Section 148.1, and paragraphs 149(1)(*s*.1) and 149(1)(*s*.2) (also section 74.2, subsections 74.1(1), 74.1(2), 75(2) and 104(13), the definition of "trust" in subsection 108(1), the definitions of "cemetery care trust" and "eligible funeral arrangement" in subsection 248(1), and paragraphs 12(1)(*a*), 12(1)(*z*.4), 20(1)(*m*), 212(1)(*c*) and 212(1)(*v*) of the *Income Tax Act*; and subsections 204(1) and 204(2), and paragraphs 201(1)(*b*), 201(1)(*f*) and 204(3)(*d*) of the *Income Tax Regulations*). |  |  |  |
+
+### Notice -- Bulletins do not have the force of law
+
+***This document is also available for [download in PDF format](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it531.html).***
+
+## Contents
+
+- *[Application](#P80_3862)*
+
+- *[Summary](#P82_4242)*
+
+- *[Discussion and Interpretation](#P94_7819)*
+
+    - [General Description of an Eligible Funeral Arrangement (EFA)](#P95_7848) (¶ 1)
+
+    - [Who Are Qualifying Persons?](#P97_8242) (¶ 2)
+
+    - [What Are Funeral Services and Cemetery Services?](#P101_8841) (¶ 3)
+
+    - [Who Are Custodians?](#P109_10492) (¶ 4)
+
+    - [Types of Contributions That Can Be Made Under an EFA](#P113_10990) (¶ 5)
+
+    - [An Immediate Acquisition of a Right to Burial Is Not Part of an EFA](#P120_12514) (¶ 6)
+
+    - [Tax Treatment of Contributions](#P124_13204) (¶ 7)
+
+    - [Relevant Contribution Limits for EFAs](#P126_14114) (¶ 8)
+
+    - [What Is a "Relevant Contribution"?](#P133_15284) (¶ 9)
+
+    - [Income Earned in an Arrangement Is Not Included in Relevant Contributions](#P138_16550) (¶ 10)
+
+    - [An Arrangement Does Not Qualify as an EFA When Relevant Contributions Exceed Their Limit](#P179_19344) (¶ 11)
+
+    - [Tax Treatment of Income Held in an EFA](#P186_20466) (¶ 12)
+
+    - [Tax Exemption for a Trust Governed by an EFA or a Cemetery Care Trust](#P192_21240) (¶ 13)
+
+    - [Receiving Funeral or Cemetery Services Under an EFA Is Not Taxable](#P197_21806) (¶ 14)
+
+    - [An Income Inclusion Occurs When Funds Are Distributed From an EFA](#P202_22412) (¶ 15)
+
+    - [Part XIII Tax Is Payable When Funds Are Distributed From an EFA to a Non.Resident](#P291_29603) (¶ 16)
+
+    - [Transfer of Funds in an EFA to Another Arrangement](#P293_30134) (¶ 17)
+
+    - [Disposition of an Interest or Right Under an EFA](#P306_33337) (¶ 18)
+
+    - [Tax Consequences if an Arrangement Does Not Qualify as an EFA](#P318_34794) (¶ 19)
+
+    - [Income From an EFA To Be Reported by a Qualifying Person](#P339_42127) (¶ 20)
+
+## Application
+
+This new bulletin discusses the income tax implications of the use of pre-paid funeral and cemetery arrangements. It explains the provisions of section 148.1 of the *Income Tax Act*, which are applicable to the 1993 and subsequent taxation years. Paragraph 20 of this bulletin replaces and cancels IT-246, *Funeral Directors -- Prepaid Funeral Costs*, dated August 25, 1975*.*
+
+## Summary
+
+An eligible funeral arrangement (EFA) is an arrangement established and maintained by a qualifying person (e.g., a funeral director or cemetery operator) for the sole purpose of funding funeral or cemetery services for one or more individuals. An EFA must have one or more custodians, each of whom was resident in Canada when the arrangement was established. A custodian could be either a trustee of a trust governed by the arrangement or, if no trust is involved, a qualifying person.
+
+Contributions under an arrangement may go into a cemetery care trust, which is a trust established for the care and maintenance of a cemetery.
+
+Contributions under an EFA are generally not deductible in computing income. For purposes of determining whether an arrangement qualifies as an EFA, there is a limit on the amount of contributions (including contributions to a cemetery care trust) that can be made for an individual for whom services are to be provided under the arrangement. This limit (the relevant contribution limit for the individual) is $15,000 if the arrangement covers only funeral services for the individual, $20,000 if it covers only cemetery services for the individual, and $35,000 if it covers both. No part of any arrangement under which contributions have been made for an individual qualifies as an EFA from the point in time when the individual's relevant contribution limit is exceeded.
+
+Income (e.g., interest on contributions) that accumulates in an EFA is not included in the income of the contributor while it so accumulates. If the income accumulates in a trust governed by the EFA or in a cemetery care trust, the trust's taxable income is exempt from Part I income tax.
+
+If funds are distributed from an individual's balance under an EFA otherwise than as payment for the provision of funeral or cemetery services for the individual -- for example, because the arrangement is cancelled or because not all the funds held under the arrangement are needed to pay for the funeral or cemetery services -- an amount is usually required to be included in the income of the recipient, equal to the lesser of two amounts:
+
+- the amount actually received, and
+
+- an amount (calculated by a formula) which essentially represents the income (e.g., interest) that has accumulated in the EFA (other than in a cemetery care trust).
+
+If the amount actually received is greater than the amount included in the recipient's income, the excess essentially represents a non-taxable refund of relevant contributions.
+
+The funds held in an EFA for an individual can generally be transferred to another arrangement for the individual without incurring any adverse tax consequences, as long as the transfer is made directly by the custodian of the first arrangement to the custodian of the second arrangement. Adverse tax consequences can occur if there is no direct custodian-to-custodian transfer.
+
+If an arrangement does not qualify or ceases to qualify as an EFA, income (e.g., interest on contributions) that accumulates under the arrangement could be included, for example, in the income of a contributor or a trust governed by the arrangement, depending on the facts of the case, as it so accumulates. However, income earned in a cemetery care trust is still exempt from Part I tax, even if the arrangement (under which contributions are made to the cemetery care trust) is not an EFA.
+
+A qualifying person (e.g., funeral director or cemetery operator) essentially reports income from an arrangement when and to the extent that funds are earned by the qualifying person under the arrangement.
+
+## Discussion and Interpretation
+
+## General Description of an Eligible Funeral Arrangement (EFA)
+
+**¶ 1.** An eligible funeral arrangement (EFA) is an arrangement established and maintained by a qualifying person (see ¶ 2 below) solely to fund funeral or cemetery services (see ¶ 3 below) for one or more individuals. Other requirements for an EFA, as provided for in section 148.1 of the *Income Tax Act*, are discussed in ¶s 2 to 8 below.
+
+## Who Are Qualifying Persons?
+
+**¶ 2.** A "qualifying person," as defined in subsection 148.1(1) of the Act, is a person licensed or otherwise authorized under the laws of a province (according to subsection 35(1) of the *Interpretation Act*, a "province" can be a province or territory of Canada) to provide funeral or cemetery services for individuals. A "qualifying person" would include, for example,
+
+- a funeral director so licensed, or
+
+- an operator or owner of a cemetery, mausoleum, crematorium or columbarium, so licensed (any one of which is referred to in this bulletin simply as a "cemetery operator").
+
+## What Are Funeral Services and Cemetery Services?
+
+**¶ 3.** "Funeral services" for an individual, as defined in subsection 148.1(1), mean property and services -- other than cemetery services -- directly related to funeral arrangements in Canada in consequence of the individual's death. The following are examples of property or services that can come within the definition of "funeral services":
+
+- services or supplies provided by a funeral director for the care and embalming of the deceased;
+
+- a casket for the deceased;
+
+- services or supplies provided by a funeral director in connection with the funeral rite for the deceased; and
+
+- the transportation of the deceased. This would include, for example, transportation of the deceased from a place outside Canada to a place in Canada where the funeral ceremony is to be held, assuming that such transportation is provided under an arrangement made in Canada with a qualifying person.
+
+"Cemetery services" for an individual, as defined in subsection 148.1(1), mean property (including interment vaults, markers, flowers, liners, urns, shrubs and wreaths) and services directly related to cemetery arrangements in Canada in consequence of the individual's death, including property and services to be funded out of a cemetery care trust (see ¶ 5(c) below). Thus, property or services provided by a cemetery operator would generally fall within the definition of "cemetery services" (see, however, ¶ 6 below).
+
+The expression "funeral or cemetery services" for an individual is defined in subsection 148.1(1) to mean either funeral services for the individual or cemetery services for the individual, or a combination of both.
+
+## Who Are Custodians?
+
+**¶ 4.** In order to qualify as an EFA, an arrangement must have one or more custodians each of whom was resident in Canada at the time the arrangement was established. A "custodian" is defined in subsection 148.1(1) to be either of the following:
+
+- where a trust is governed by the arrangement -- a trustee of the trust; or
+
+- in any other case -- a qualifying person in receipt of a contribution as a deposit under the arrangement made in return for providing funeral or cemetery services.
+
+## Types of Contributions That Can Be Made Under an EFA
+
+**¶ 5.** For an arrangement to qualify as an EFA, all contributions made under the arrangement must be solely for the purpose of funding funeral or cemetery services for one or more individuals, and such services are to be provided by the qualifying person mentioned in ¶s 1 and 2 above.
+
+There is no requirement in the Act that contributions to an EFA to fund funeral or cemetery services for an individual have to be made by that individual. Therefore, such a contribution for an individual may be made by the individual or by some other person.
+
+One or more of the following types of contributions can be made under an EFA:
+
+(a) contributions for the pre-payment of the cost of funeral services (the name given to such an arrangement, or part of an arrangement, can vary -- e.g., "prearranged funeral plan," or "prepaid funeral contract");
+
+(b) contributions for the pre-payment of the cost of cemetery services (the name given to such an arrangement, or part of an arrangement, can vary -- e.g., "pre-need services and supplies contract" or "pre-need assurance fund"); and
+
+(c) contributions to a "cemetery care trust," which is defined in subsection 148.1(1) as a trust established pursuant to an Act of a province for the care and maintenance of a cemetery (services funded out of a cemetery care trust fall within the definition of "cemetery services" as described in ¶ 3 above) -- the name given to a cemetery care trust can vary (e.g., "care and maintenance fund" or "perpetual care fund").
+
+## An Immediate Acquisition of a Right to Burial Is Not Part of an EFA
+
+**¶ 6.** The subsection 148.1(1) definition of "eligible funeral arrangement" provides that the following payments (other than any portion of those payments that are contributed to a cemetery care trust -- see ¶ 5(c) above) are considered to be made under a separate arrangement that is not an EFA:
+
+(a) any payment made as consideration for the **immediate** acquisition of a right to burial in or on property that is set apart or used as a place for the burial of human remains; or
+
+(b) any payment made as consideration for the **immediate** acquisition of any interest in a building or structure for the permanent placement of human remains.
+
+## Tax Treatment of Contributions
+
+**¶ 7.** Regardless of whether or not an arrangement to fund funeral or cemetery services is an EFA, contributions to the arrangement are generally not deductible in computing the income of either the contributor or another person (e.g., the individual for whom the funeral or cemetery services are to be provided). However, if an employer makes contributions to the arrangement on behalf of an employee, the employer's contributions are generally an employee benefit the amount of which is deductible by the employer and included in the income of the employee under paragraph 6(1)(*a*) of the Act. If, on the other hand, a corporation makes contributions on behalf of a shareholder, the amount of the contributions is generally included in the shareholder's income as a shareholder benefit under subsection 15(1), but such amount is not deductible in computing the corporation's income.
+
+## Relevant Contribution Limits for EFAs
+
+**¶ 8.** For an arrangement to qualify or remain qualified as an EFA, the total "relevant contributions" (see ¶s 9 and 10 below) for each individual for whom funeral or cemetery services are to be provided under the arrangement, cannot be more than
+
+- $15,000, if the arrangement covers only funeral services for the individual;
+
+- $20,000, if the arrangement covers only cemetery services for the individual; or
+
+- $35,000, if the arrangement covers both funeral services and cemetery services for the individual.
+
+Contributions to a cemetery care trust (see ¶ 5(c) above) on behalf of an individual must be counted (subject to the comments in ¶s 9 and 10 below) as relevant contributions for the individual for purposes of determining whether the arrangement under which those contributions are made (with a cemetery operator for cemetery services) qualifies as an EFA.
+
+Payments referred to in ¶s 6(a) and 6(b) above (other than any portion of those payments that are contributed to a cemetery care trust) are not taken into account for purposes of determining whether the applicable relevant contribution limit for an individual has been exceeded.
+
+## What Is a "Relevant Contribution"?
+
+**¶ 9.** In accordance with its definition in subsection 148.1(1), a "relevant contribution" for an individual under a particular arrangement can be either of two types:
+
+(a) a contribution made under the particular arrangement (other than a contribution made by way of a transfer from an EFA) to fund funeral or cemetery services for the individual; or
+
+(b) any part of a contribution made under another arrangement that was an EFA (other than any such contribution made by means of a transfer from any EFA) that can reasonably be considered to have been subsequently used to make a contribution under the particular arrangement by way of a transfer from an EFA, to fund funeral or cemetery services for the individual.
+
+In other words, a type (a) relevant contribution under a particular arrangement is a contribution made directly to the arrangement. A type (b) relevant contribution under a particular arrangement is a contribution made to it by means of a transfer, from another arrangement that was an EFA (see ¶ 17 below), of an amount that was contributed directly to that other arrangement. The calculation of the total relevant contributions for an individual under a particular arrangement is illustrated in the example in ¶ 10 below.
+
+## Income Earned in an Arrangement Is Not Included in Relevant Contributions
+
+**¶ 10.** Since income earned under an arrangement -- that is, income (e.g., interest) that is earned on contributions under the arrangement or income earned on that income (e.g., compound interest) -- is not an amount contributed under the arrangement, such income is not included in relevant contributions under ¶ 9(a) above. It is only the total amount of relevant contributions for an individual -- and not the total amount held in an arrangement including accumulated income -- that is used to determine whether the applicable relevant contribution limit for the individual has been exceeded. Similarly, when an amount held in an EFA is transferred to another arrangement (see ¶ 17 below) as a contribution under that other arrangement, any accumulated income included in the amount transferred is not included in the amount determined under ¶ 9(b) above, i.e., such accumulated income is not counted as a relevant contribution under the other arrangement.
+
+***Example***
+
+Mr. A contributes $8,000 to arrangement 1 to fund funeral services for himself. Arrangement 1 qualifies as an EFA. Interest of $2,000 accumulates in the arrangement over time, so that the total amount held in the arrangement is $10,000. The total relevant contributions for Mr. A under arrangement 1 are as follows:
+
+| Amount determined under ¶ 9(a) above | $ | 8,000 |
+
+| --- | --- | --- |
+
+| Amount determined under ¶ 9(b) above |  | 0 ------- |
+
+| Total relevant contributions | $ | 8,000 ==== |
+
+Mr. A moves to another city and he has the $10,000 in arrangement 1 transferred directly (see ¶ 17 below) to arrangement 2 as a contribution to that arrangement to fund funeral services for himself. Arrangement 2 qualifies as an EFA. Immediately after the transfer, the total relevant contributions for Mr. A under arrangement 2 are as follows:
+
+| Amount determined under ¶ 9(a) above | $ | 0 |
+
+| --- | --- | --- |
+
+| Amount determined under ¶ 9(b) above = amount of contributions to arrangement 1 that were subsequently contributed to arrangement 2 by way of transfer from arrangement 1 to arrangement 2 |  | 8,000 -------- |
+
+| Total relevant contributions | $ | 8,000 ===== |
+
+Mr. A then contributes an additional $4,000 under arrangement 2, and interest of $3,000 accumulates in the arrangement over time. At this point, $17,000 is held in arrangement 2 (i.e., the $10,000 transferred from arrangement 1 plus the $4,000 in additional contributions and the $3,000 interest). The total relevant contributions for Mr. A under arrangement 2 are as follows:
+
+| Amount determined under ¶ 9(a) above | $ | 4,000 |
+
+| --- | --- | --- |
+
+| Amount determined under ¶ 9(b) above = amount of contributions to arrangement 1 that were subsequently contributed to arrangement 2 by way of transfer from arrangement 1 to arrangement 2 |  | 8,000 -------- |
+
+| Total relevant contributions | $ | 12,000 ===== |
+
+## An Arrangement Does Not Qualify as an EFA When Relevant Contributions Exceed Their Limit
+
+**¶ 11.** If the applicable relevant contribution limit for an individual (see ¶ 8 above) has been exceeded, no part of any arrangement under which contributions have been made for that individual qualifies as an EFA, from the point in time when the limit was exceeded.
+
+***Example***
+
+Mr. and Mrs. B enter into an arrangement (i.e., a single contract) with a cemetery operator to fund cemetery services for themselves. Originally, the relevant contributions for each of them are $15,000 -- within the applicable relevant contribution limit of $20,000 each (see ¶ 8 above) -- and the arrangement qualifies as an EFA. However, additional relevant contributions of $12,000 are then made for Mr. B. As a result, his total relevant contributions -- now $27,000 -- exceed his limit of $20,000. From the time when Mr. B's limit is exceeded, the entire arrangement -- including the portion that pertains to Mrs. B -- ceases to qualify as an EFA.
+
+Tax consequences that can result when an arrangement does not qualify or ceases to qualify as an EFA are discussed in ¶ 19 below.
+
+## Tax Treatment of Income Held in an EFA
+
+**¶ 12.** Paragraph 148.1(2)(*a*) of the Act provides that "no amount that has accrued, is credited or is added to an eligible funeral arrangement shall be included in computing the income of any person solely because of such accrual, crediting or adding." Thus, as long as it is not distributed as described in ¶ 15 below, income earned under an EFA -- such as income (e.g., interest) earned on contributions under the EFA or income earned on that income (e.g., compound interest) -- is not included in the income of, for example,
+
+- a contributor under the EFA,
+
+- an individual for whom funeral or cemetery services are to be performed under the EFA, or
+
+- the estate of such an individual.
+
+If the income mentioned above is earned in a trust, see ¶ 13 below.
+
+## Tax Exemption for a Trust Governed by an EFA or a Cemetery Care Trust
+
+**¶ 13.** No tax under Part I of the *Income Tax Act* is payable on the taxable income of a trust for the period throughout which it is
+
+- a trust governed by an EFA -- this is by virtue of paragraph 149(1)(*s*.1); or
+
+- a cemetery care trust (see ¶ 5(c) above) -- this is by virtue of paragraph 149(1)(*s*.2).
+
+Accordingly, a T3 *Trust Income Tax and Information Return* does not need to be filed for a trust governed by an EFA or for a cemetery care trust (unless Revenue Canada requires such a trust to file this return).
+
+## Receiving Funeral or Cemetery Services Under an EFA Is Not Taxable
+
+**¶ 14.** Subparagraph 148.1(2)(*b*)(i) provides that no amount shall be "included in computing a person's income solely because of the provision by another person of funeral services under an eligible funeral arrangement." Thus, the fact that funeral or cemetery services have been performed by a qualifying person under an EFA does not, by itself, result in any amount being included in the income of, for example,
+
+- a contributor to the EFA,
+
+- the individual or individuals for whom the services were performed, or
+
+- the estate of such an individual.
+
+## An Income Inclusion Occurs When Funds Are Distributed From an EFA
+
+**¶ 15.** If an amount is distributed from an EFA otherwise than as payment for the provision of funeral or cemetery services for an individual -- a distribution would typically occur because the arrangement is cancelled or because not all the funds held under the arrangement are needed to pay for the funeral or cemetery services -- the person who receives the amount (referred to in this paragraph as the "recipient") is generally required by subsection 148.1(3) to include an amount in income. For subsection 148.1(3) to apply, the amount must be paid from the balance held under the arrangement for an individual (referred to in this paragraph simply as the "individual"). The amount to be included in the recipient's income is the lesser of the following two amounts:
+
+(a) the amount actually distributed to the recipient out of the balance held for the individual under the arrangement; and
+
+(b) the amount determined by the formula
+
+|  | A + B - C. |  |
+
+| --- | --- | --- |
+
+|  | The variables in this formula are as follows: |  |
+
+|  | A | is the balance held for the individual under the arrangement (not counting the value of property held in a cemetery care trust -- see ¶ 5(c) above) immediately before the distribution to the recipient. |
+
+|  | B | is the total of all amounts paid out of the arrangement (before the distribution to the recipient) for the provision of funeral or cemetery services for the individual (not counting cemetery services funded by property held in a cemetery care trust). |
+
+|  | C | is the total of the relevant contributions (see ¶s 9 and 10 above) (except contributions to a cemetery care trust) for the individual under the arrangement immediately before the distribution to the recipient. |
+
+The amount determined in (b) above essentially represents income, such as interest, that has been earned in the arrangement (other than in a cemetery care trust) for the individual. In other words, no more than the amount of such income can be included in the income of the recipient. If any amount in excess of such income is distributed, it essentially represents a non-taxable refund of relevant contributions.
+
+***Example 1***
+
+Mr. C contributed $10,000 to an EFA to provide for funeral services for himself. Interest of $2,000 accumulated in the arrangement over time. Mr. C then decided to terminate the arrangement. In accordance with the terms of the arrangement, Mr. C was charged a $100 cancellation fee, so that $11,900 was distributed to him from the arrangement (i.e., $10,000 + $2,000 - $100). The amount that Mr. C must include in his income, for the year of receipt of this distribution, is equal to the lesser of the following two amounts:
+
+- $11,900, the amount of the distribution; and
+
+- the amount calculated by the formula
+
+|  | A + B - C, where |  |
+
+| --- | --- | --- |
+
+|  | A | is the $11,900 balance held for Mr. C under the arrangement immediately before he received his distribution (the funeral director subtracted the $100 cancellation fee when determining this balance); |
+
+|  | B | is nil, because no funeral or cemetery services were provided under the arrangement; and |
+
+|  | C | is the $10,000 total relevant contributions for Mr. C immediately before he terminated the arrangement; |
+
+|  | = | $11,900 + nil - $10,000 |
+
+|  | = | $1,900. |
+
+Mr. C therefore includes $1,900 in his income. This amount represents the $2,000 interest income that accumulated in the arrangement less the $100 cancellation fee he was charged. The other $10,000 distributed to him represents a refund of his $10,000 relevant contributions.
+
+***Example 2***
+
+Mr. D contributed funds to an arrangement with a cemetery operator for the provision of cemetery services for himself. The arrangement was at all relevant times an EFA. Of the total amount he contributed, $4,000 went into a pre-need assurance fund (this term is mentioned in ¶ 5(b) above) and the remainder went into a care and maintenance fund, i.e., a cemetery care trust (see ¶ 5(c) above). At the time of Mr. D's death, the balance held for him under the pre-need assurance fund was $6,000:
+
+| Relevant Contributions | $ | 4,000 |
+
+| --- | --- | --- |
+
+| Accumulated interest income |  | 2,000 ------- |
+
+| Total amount held | $ | 6,000 ==== |
+
+Cemetery services were provided for Mr. D at the time of his burial at a cost of $5,000. This amount was paid for out of the $6,000 amount held in the pre-need assurance fund, and the $1,000 balance in that fund was then paid out to Mr. D's estate. Under subsection 148.1(3), the amount that must be included in the estate's income for the year it received this money is equal to $1,000. This amount was arrived at by taking the lesser of the following two amounts:
+
+- $1,000, the amount received by the estate; and
+
+- the amount calculated by the formula
+
+|  | A + B - C, where |  |
+
+| --- | --- | --- |
+
+|  | A | is the $1,000 balance still held for Mr. D under the pre-need assurance fund immediately before the payment to the estate; |
+
+|  | B | is the $5,000 paid out of the pre-need assurance fund for the cemetery services for Mr. D; and |
+
+|  | C | is the $4,000 in relevant contributions for Mr. D that went into the pre-need assurance fund before the payment to the estate; |
+
+|  | = | $1,000 + $5,000 - $4,000 |
+
+|  | = | $2,000. |
+
+The $2,000 calculated under the above formula represents the total accumulated interest held in the pre-need assurance fund for Mr. D. Since the estate received only $1,000 of that amount, only $1,000 is included in the estate's income (the other $1,000 of interest formed part of the $5,000 used under the arrangement to pay for the cemetery services for Mr. D). Note that none of the above calculations include any amounts pertaining to the care and maintenance fund (i.e., cemetery care trust).
+
+If the recipient of an amount to be included in income under subsection 148.1(3) is not a contributor under the arrangement, the amount might still be deemed to be the income of a contributor because of an income attribution rule in the Act -- such as, for example, the rule found in subsection 74.1(1) or subsection 74.1(2) -- depending on the facts of the case. For information on attribution rules, see the current version of IT-511, *Interspousal and Certain Other Transfers and Loans of Property*; IT-510, *Transfers and Loans of Property Made After May 22, 1985 to Related Minor*; and IT-369, *Attribution of Trust Income to Settlor*.
+
+Paragraph 201(1)(*f*) of the *Income Tax Regulations* (which took effect for payments made after 1995) requires that an information return be made in prescribed form -- i.e., a T5 Summary and the related T5 slips (or on magnetic media) -- by a person (e.g., a custodian) paying an amount that must be included in the income of the recipient under subsection 148.1(3). By virtue of subsection 205(1) of the Regulations, this information return must be filed (without notice or demand) on or before the last day of February of the year following the calendar year for which the amount is paid. See the *T5 Guide -- Return of Investment Income* for more information on T5 reporting requirements for EFAs.
+
+An amount included in income under subsection 148.1(3) is categorized as income from property.
+
+## Part XIII Tax Is Payable When Funds Are Distributed From an EFA to a Non-Resident
+
+**¶ 16.** If a custodian under an EFA pays an amount to a non-resident person, the custodian must withhold and remit Part XIII tax. This tax is payable by virtue of paragraph 212(1)(*v*), which took effect for amounts paid after October 21, 1994. The amount on which the Part XIII tax is payable is the amount that would be included in the non-resident person's income pursuant to subsection 148.1(3) if that person were resident in Canada (see ¶ 15 above).
+
+## Transfer of Funds in an EFA to Another Arrangement
+
+**¶ 17.** If an amount held in an EFA for the provision of funeral or cemetery services for an individual (referred to in this paragraph as the "first arrangement") is transferred directly by the custodian of that arrangement to the custodian of another arrangement (the "second arrangement") as a contribution under the second arrangement for the provision of funeral or cemetery services for the individual, the following results occur:
+
+- Such transfer does not result in a subsection 148.1(3) income inclusion in respect of a distribution out of the first arrangement.
+
+- The amount so transferred from the first arrangement -- other than the portion of that amount that represents income (e.g., interest) that accumulated in the first arrangement -- becomes a relevant contribution for the individual under the second arrangement. For further particulars, see ¶s 9(b) and 10 above.
+
+If, however, instead of a direct custodian-to-custodian transfer as described above, the amount held in the first arrangement is distributed to a recipient (e.g., a contributor under the first arrangement) and the recipient then contributes the amount to the second arrangement, the following should be noted:
+
+- The distribution from the first arrangement generally results in an amount being included in the recipient's income under subsection 148.1(3). This is the case even if the recipient contributes the entire amount received from the first arrangement to the second arrangement. For the calculation of the amount to be included in income under subsection 148.1(3), see the rules discussed in ¶ 15 above.
+
+- The entire amount contributed to the second arrangement, including the portion of that amount that represents income that accumulated in the first arrangement, becomes a relevant contribution under the second arrangement. This is because the amount contributed to the second arrangement was not by means of a transfer from an EFA (see ¶ 9 above).
+
+***Example***
+
+Mr. E contributed $12,000 to arrangement 1 to provide for funeral services for himself. Arrangement 1 qualified as an EFA. Over the years, interest of $4,000 accumulated in the arrangement. Mr. E then moved to another city and he decided to enter into arrangement 2 in that city to provide for his funeral services. Instead of having the custodian of arrangement 1 transfer the $16,000 held for him under that arrangement directly to the custodian of arrangement 2, he received the $16,000 himself from the custodian of arrangement 1 (assume no administration fees were charged) and he then contributed $16,000 to arrangement 2. Mr. E is required by subsection 148.1(3) to include $4,000 in his income for the year in which he received the $16,000 from arrangement 1. This amount, which is calculated by following the rules discussed in 15 above, represents the accumulated interest in arrangement 1. Furthermore, the entire $16,000 which Mr. E contributed to arrangement 2 falls into the amount described in 9(a) above as a relevant contribution for him under arrangement 2. Therefore, arrangement 2 does not qualify as an EFA because Mr. E's $15,000 relevant contribution limit has been exceeded (see ¶s 8 and 11 above).
+
+## Disposition of an Interest or Right Under an EFA
+
+**¶ 18.** By virtue of subparagraph 148.1(2)(*b*)(ii), no amount needs to be included in the income of a person as a result of the disposition of
+
+- an interest under an EFA; or
+
+- an interest in a trust governed by an EFA.
+
+The income exemption rule in subparagraph 148.1(2)(*b*)(ii) does not, however, prevent an income inclusion under subsection 148.1(3) resulting from a disposition of funds from an arrangement (see ¶ 15 above).
+
+Also, by virtue of paragraph 148.1(2)(*c*), the income exemption rule in subparagraph 148.1(2)(*b*)(ii) does not prevent an income inclusion for a qualifying person resulting from that person's disposition of any right, under an EFA, to payment for the provision of funeral or cemetery services.
+
+***Example***
+
+Mr. F sold his funeral home business at arm's length to Ms G. At the time of the sale, Mr. F had rights to receive certain amounts from funds held under various EFAs. If Mr. F had not sold his business, the amounts to which he was entitled under these rights would have been included in his business income earned for the year, as amounts received or receivable for funeral services that he provided during the year (see ¶ 20 below). Therefore, the proceeds that Mr. F received from Ms G for these rights must be included in his income for the year. Because of paragraph 148.1(2)(*c*), this income inclusion is not prevented by the income exemption rule contained in subparagraph 148.1(2)(*b*)(ii).
+
+## Tax Consequences if an Arrangement Does Not Qualify as an EFA
+
+**¶ 19.** An arrangement for the provision of funeral or cemetery services will not qualify as an EFA unless it meets all the requirements for an EFA contained in subsection 148.1. These requirements are discussed in ¶s 1 to 8 above. For the period throughout which an arrangement is not an EFA -- either because it has never qualified or because it has ceased to qualify as such -- the following are income tax results that can occur:
+
+(a) *In a situation where there is no trust governed by the arrangement:*
+
+Paragraph 148.1(2)(*a*) (see ¶ 12 above) cannot apply with respect to the income (e.g., interest) earned under the arrangement. Therefore, such income generally must be included -- in accordance with the applicable provision in the Act (e.g., paragraph 12(1)(*c*)) -- in the income of the person (or persons) to whom it would be paid if the arrangement were cancelled. This is usually the contributor (or contributors) under the arrangement, although it could be another person, such as the person (or persons) for whom the services are to be provided under the arrangement. (In the latter case, the income might still be deemed to be the income of a contributor because of the income attribution rule found in subsection 74.1(1) or subsection 74.1(2) of the Act, depending on the facts of the case. For information on these attribution rules, see the current version of IT-511, *Interspousal and Certain Other Transfers and Loans of Property* and IT-510, *Transfers and Loans of Property Made After May 22, 1985 to Related Minor*.)
+
+If the person discussed above is a non-resident, the income earned under the arrangement is subject to Part XIII tax by virtue of the applicable provision under that part of the Act (e.g., paragraph 212(1)(*b*) in the case of interest).
+
+To the extent, however, that the qualifying person is entitled to receive the income earned under the arrangement regardless of whether or not the funeral or cemetery services will in fact ever be provided, the income will instead be included in the income of the qualifying person for the taxation year or years in which it accrues.
+
+If the arrangement has ceased to qualify as an EFA and an amount is then distributed from the arrangement in circumstances as otherwise described in ¶ 15 above, this could result in an amount being included in income under subsection 148.1(3) (an attribution rule might also apply -- such as, for example, the rule found in subsection 74.1(1) or subsection 74.1(2) -- depending on the facts of the case). This is because subsection 148.1(3) applies to amounts distributed "from an arrangement that was, at the time it was established, an eligible funeral arrangement." In such a case, however, the amount to be included in the taxpayer's income, as calculated under subsection 148.1(3), would be reduced -- by virtue of paragraph 248(28)(*a*) -- by any amount or amounts already included in the taxpayer's income because of the non-application of paragraph 148.1(2)(*a*) as discussed above. If the amount distributed from the arrangement is to a non-resident taxpayer, any net subsection 148.1(3) amount so determined (i.e., after the paragraph 248(28)(*a*) reduction) that would have been included in the taxpayer's income had the taxpayer been a resident is instead subject to Part XIII tax by virtue of paragraph 212(1)(*v*).
+
+(b) *In a situation where there is a trust governed by the arrangement:*
+
+Paragraph 149(1)(*s*.1) (see ¶ 13 above) will not exempt the trust's taxable income from Part I tax and the trust will be required, in accordance with subsections 204(1) and (2) of the Regulations, to file a T3 *Trust Income Tax and Information Return* and the applicable related T3 forms for such a year. Furthermore, paragraph 148.1(2)(*a*) (see ¶ 12 above) cannot apply to prevent the income (e.g., interest) earned in the trust from being included in the income (for tax purposes) of the trust. Also, the exemption from certain provisions pertaining to trusts (such as, for example, the exemption from the subsection 104(4) 21-year deemed disposition rule) that is given to a trust governed by an EFA, will not apply (see the definition of "trust" in subsection 108(1)).
+
+If an amount is distributed from the trust (other than for the provision of funeral or cemetery services), this could result in an amount being required to be included in the income of the recipient of the distribution or, in the case of a non-resident recipient, Part XIII tax being payable. The provisions under which these results would occur are as follows:
+
+- If the arrangement governing the trust was an EFA when the arrangement was established:
+
+    - The income inclusion would occur under subsection 148.1(3). Note that paragraph 248(28)(*a*) would not operate to reduce the amount determined under subsection 148.1(3) (see ¶ 15 above) by any amounts previously included in computing the trust's income. This is because the recipient and the trust are different taxpayers.
+
+    - In the case of a non-resident recipient, the Part XIII tax would occur under paragraph 212(1)(*v*). The amount subject to this tax would be the amount that would be determined under subsection 148.1(3) if the recipient were a resident (see ¶ 16 above) and, again, paragraph 248(28)(*a*) would not operate to reduce this amount by any amounts previously included in computing the trust's income.
+
+- If the arrangement governing the trust never qualified as an EFA:
+
+    - The income inclusion would occur under subsection 104(13).
+
+    - In the case of a non-resident recipient, the Part XIII tax would occur under paragraph 212(1)(*c*).
+
+Note, however, that if the recipient of the amount distributed from the trust is not a contributor under the arrangement (i.e., in the situation where the recipient is a resident), the amount mentioned above may nevertheless be included in a contributor's income. That is, an attribution rule -- such as that in, for example, subsection 74.1(1), subsection 74.1(2) or subsection 75(2) of the Act -- could apply, depending on the facts of the particular case. For information on these attribution rules, see the current version of IT-369, *Attribution of Trust Income to Settlor*; IT-511, *Interspousal and Certain Other Transfers and Loans of Property*; and IT-510, *Transfers and Loans of Property Made After May 22, 1985 to Related Minor*.
+
+(c) Notwithstanding all of the rules discussed above, if contributions have been made under an arrangement to a cemetery care trust (see ¶ 5(c) above), the taxable income of that trust (including, for example, interest earned in the trust) will still be exempt from Part I tax for the period throughout which it is a cemetery care trust. This rule applies, regardless of whether or not the arrangement under which the contributions have been made is an EFA, by virtue of paragraph 149(1)(*s*.2) (see ¶ 13 above). If the taxable income of a trust for a particular taxation year is exempt for this reason, the trust will not be required to file a T3 *Trust Income Tax and Information Return* or related T3 forms for that year (unless Revenue Canada requires the trust to file them).
+
+(d) The income exemption rule provided for in subparagraph 148.1(2)(*b*)(ii) (see ¶ 18 above) cannot apply with respect to the disposition of
+
+- an interest in an arrangement that is not an EFA; or
+
+- an interest in a trust governed by an arrangement that is not an EFA.
+
+## Income From an EFA To Be Reported by a Qualifying Person
+
+**¶ 20.** When a qualifying person (e.g., a funeral director or cemetery operator) receives contributions under an EFA, the contributions may be required by the applicable provincial legislation or by the terms of the arrangement itself
+
+(a) to be held in a trust governed by the arrangement (the trust would be a separate person for income tax purposes and the trustee of the trust would be a custodian under the arrangement -- see ¶ 4 above); or
+
+(b) to be held in an account with a financial institution or other authorized person (in this case, the qualifying person would be a custodian under the arrangement -- see ¶ 4 above).
+
+A requirement that contributions under an EFA be held in the manner described in (a) or (b) above and not withdrawn (except to pay certain amounts allowed by the applicable provincial legislation or the terms of the arrangement) usually exists until the qualifying person has provided the agreed-upon funeral or cemetery services or until the arrangement is cancelled. Any amount of a contribution that must be so held:
+
+- does not have to be included in the qualifying person's income under paragraph 12(1)(*a*) at the time the amount is received from the contributor -- even if the qualifying person has initially received the amount for a relatively short period of time before it is held in the manner described in (a) or (b) above (provided, of course, that the qualifying person does not have the use of the funds during this period); and
+
+- does not have to be included in the qualifying person's income for the period throughout which the amount must be -- and to the extent that such amount actually is -- held in the manner described in (a) or (b) above; but
+
+- should be included in the qualifying person's business income for the taxation year in which it is no longer required to be held in the manner described in (a) or (b) above -- and thus is received or becomes receivable by the qualifying person under the arrangement -- because services have been rendered or in payment of any cancellation fee or other administration fee (note, however, that any amount that is received by the qualifying person and then distributed to a recipient in the circumstances described in ¶ 15 above is not income of the qualifying person).
+
+Any amount of contributions under an EFA that is not required in the first place by the applicable provincial legislation or the terms of the arrangement to be held in the manner described in (a) or (b) above must be included, by virtue of paragraph 12(1)(*a*) of the Act, in the business income of the qualifying person for the taxation year in which it is received from the contributor (even if the amount is in fact held in the manner described in (a) or (b) above). However, the qualifying person may deduct a reasonable amount as a reserve, under paragraph 20(1)(*m*), for the related funeral or cemetery services to be provided after the end of the year. A paragraph 20(1)(*m*) reserve cannot be claimed, however, with respect to an amount which the qualifying person would not be required to pay back regardless of whether or not the funeral or cemetery services will in fact ever be provided.
+
+If income (e.g., interest) earned under an EFA is required by the applicable provincial legislation or the terms of the arrangement to be held in the manner described in (a) or (b) above until the agreed-upon services are provided, the amount of such income is included in the business income of the qualifying person for the year in which the services are provided (to the extent that the amount represents payment to the qualifying person for the provision of the services). If the applicable provincial legislation or the terms of the arrangement require contributions to be held in the manner described in (a) or (b) above until the agreed-upon services are provided but neither the applicable provincial legislation nor the terms of the arrangement state how the income earned under the arrangement is to be dealt with, it is assumed that the parties intend such income to held in the same manner as the contributions and the tax treatment in the preceding sentence applies. However, if in such circumstances the income is paid or credited to the qualifying person, or if the terms of the arrangement provide that the qualifying person is entitled to the income regardless of whether or not the agreed-upon services will in fact ever be provided, the income must be included in the qualifying person's business income for the taxation year or years in which it accrues.
+
+For purposes of section 125, income earned under an EFA that is included in the income of a qualifying person that is a corporation is considered to be income from an "active business carried on by a corporation" within the meaning of that term as defined in subsection 125(7).
+
+### Notice -- Bulletins do not have the force of law
+
+Interpretation bulletins (ITs) provide Revenue Canada's technical interpretations of income tax law. Due to their technical nature, ITs are used primarily by departmental staff, tax specialists, and other individuals who have an interest in tax matters. For those readers who prefer a less technical explanation of the law, the Department offers other publications, such as tax guides and pamphlets.
+
+While the ITs do not have the force of law, they can generally be relied upon as reflecting the Department's interpretation of the law to be applied on a consistent basis by departmental staff. In cases where an IT has not yet been revised to reflect legislative changes, readers should refer to the amended legislation and its effective date. Similarly, court decisions subsequent to the date of the IT should be considered when determining the relevancy of the comments in the IT.
+
+An interpretation described in an IT applies as of the date the IT is published, unless otherwise specified. When there is a change in a previous interpretation and the change is beneficial to taxpayers, it is usually effective for all future assessments and reassessments. If the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date of the IT.
+
+A change in a departmental interpretation may also be announced in the *Income Tax Technical News*.
+
+***If you have any comments regarding matters discussed in this IT, please send them to:***
+
+***Director, Business and Publications Division Income Tax Rulings and Interpretations Directorate Policy and Legislation Branch Revenue Canada Ottawa ON K1A 0L5***

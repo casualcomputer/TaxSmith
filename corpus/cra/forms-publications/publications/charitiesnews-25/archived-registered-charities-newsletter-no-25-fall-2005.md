@@ -1,0 +1,276 @@
+---
+title: "ARCHIVED - Registered Charities Newsletter No. 25 - Fall 2005"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/charitiesnews-25/archived-registered-charities-newsletter-no-25-fall-2005.html
+last_modified: 2005-11-10
+---
+# ARCHIVED - Registered Charities Newsletter No. 25 - Fall 2005
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## Contents
+
+- [From the Director General](#FromDirector)
+
+- [What's new](#WhatsNew)
+
+    - [Information sessions - the RoadShow](#WhatsNew_1)
+
+    - [Reform of application process](#WhatsNew_2)
+
+    - [REMINDER: Where can we contact you?](#WhatsNew_3)
+
+    - [REMINDER: Fiscal period end changes](#WhatsNew_4)
+
+- [Policies](#Policies)
+
+    - [New and upcoming policies from the Charities Directorate](#Policies_1)
+
+- [Did you know?](#DidYouKnow)
+
+    - [Volunteers](#DidYouKnow_1)
+
+- [Court news](#CourtNews)
+
+    - [Split-receipting guidelines upheld](#CourtNews_1)
+
+- [Contact information](#ContactInfo)
+
+## From the Director General
+
+The last issue of the newsletter included the Charities Advisory Committee's (CAC) annual report [1](#Footnote_1). As part of their discussion during the June meeting, the CAC provided feedback on the format and content of the newsletter. In response to comments received both through the CAC and through the e-mail address for the *Registered Charities Newsletter* we have decided to implement some changes to the publication.
+
+Some of the comments we received related to formatting and readability. Beginning with Issue 24 the PDF newsletter utilizes a single column format and increased font size to make it easier to read. We would appreciate comments from readers on whether this improves the readability of the newsletter.
+
+With this issue we are making additional changes to the format. We are working to increase the number of links to other Charities Directorate documents in the HTML (text) version. We have also added a brief summary of the longer articles, which will help readers decide whether the article is applicable to them.
+
+The CAC made note of the fact that the newsletter has a two-part audience: charities and charities experts (e.g., the lawyers and accountants that work with charities). In recognition of this fact, we have reorganized the newsletter, so that the more technical articles, which are primarily of interest to charities experts are in the second half of the newsletter.
+
+The sections designed for charities in general are listed first. These are:
+
+- From the Director General
+
+- Facts and figures
+
+- What's new
+
+- Policies
+
+These are followed by the *Did you know?* section, which varies in the level of technical information
+
+The sections that are generally for a more expert audience are included last. These are:
+
+- Issues
+
+- Court news
+
+Beginning with the first issue in 2006, we will increase the amount of information aimed at charities within the *Did you know?* section. This will be accomplished in part by revisiting and updating some of the topics covered in archived newsletters. We are also developing more articles on "legalese for charities" aimed at those that work in charities that do not have a legal background.
+
+In addition, we are also in the process of developing a new "experts" section, which will focus on the particular interests of professional lawyers and accountants that serve the needs of the charitable sector. This section will focus particularly on operational policy issues as these issues arise. We expect to first introduce this section in 2006.
+
+Based on the CAC's suggestions, the CRA will develop fact sheets or on-line question and answer guides from the information in the newsletter. This will have the advantage of allowing us to expand and update the information more easily, and remove information as it becomes out of date.
+
+## What's new?
+
+### Information sessions (the RoadShow) - 2005
+
+The Roadshow information sessions for 2005 focus on the revised Registered Charity Information Return (form T3010A) including changes announced in the 2004 Federal Budget.
+
+This year we are including an insert from GST/HST Rulings, which includes contact information and a list of publications concerning GST that are useful for charities. A copy of this handout is available at: [www.cra.gc.ca/E/pub/tg/charitiesnews-25/insert-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/charitiesnews-25/archived-publications-interest-charities.html). More information on GST/HST and registered charities is available in *Registered Charities Newsletter* No. 18. Contact information for GST questions can also be found on our related links page at: [www.cra.gc.ca/tax/charities/related_links/federal-e.html](https://www.canada.ca/chrts-gvng/chrts/fdrl-eng.html).
+
+### Reform of application process
+
+One of the areas for reform recommended by the Joint Regulatory Table (JRT) [2](#Footnote_2) was the application process through which organizations are considered for registered charity status. These changes are based on three recommendations the JRT made concerning this process:
+
+- The identity of applicant organizations should remain confidential until the regulator either accepts or denies the application.
+
+- The regulator should publish on its Web site reasons for all its decisions on applications.
+
+- The regulator should establish a policy of denying applications where applicants do not respond within 90 days to communications from the regulator.
+
+The intent behind these recommendations is to ensure accessibility, transparency, consistency, and timeliness in the decisions being rendered by the Charities Directorate.
+
+As a result of these recommendations, the Charities Directorate has instituted a new internal recourse process for all new applications [3](#Footnote_3) that have been refused registration. The new process is described below.
+
+#### The Process
+
+**When an application is received with** **insufficient information** to allow a determination, the officer will contact the applicant by phone or letter to request the additional information. The applicant will then have 90 calendar days to respond. If the applicant does not respond within 90 days, it will be sent a tentative denial, known as an *Administrative Fairness Letter* (AFL), because the information provided is not sufficient to show that it meets all the requirements for registration. If the applicant does not provide the additional information requested within 90 days of the AFL being sent, a refusal of registration letter, known as a Final Turn Down (FTD), will be issued.
+
+**Where an application** **does not meet all of the requirements for registration**, an AFL will be sent to the applicant explaining the reasons for tentative denial and allowing the applicant to provide additional information and/or clarification before a final decision is made. The applicant will have 90 calendar days to respond to the AFL. Applicants have the right to formally withdraw their application at this point. If the applicant does not respond to the AFL within 90 days, an FTD will be issued.
+
+**What is the difference between an Administrative Fairness Letter (AFL) and a Final Turn Down (FTD)?**
+
+An AFL is a letter sent to applicants that have a file that contains information that indicates that the organization may not be eligible for charitable registration. An AFL is a tentative denial. It is sent to applicants to give them the opportunity to respond to the CRA's concerns.
+
+An FTD is a denial of registration letter. It is sent to an applicant when the Charities Directorate has decided that it cannot register the organization as a charity. An FTD is only issued after the charity has been sent an AFL.
+
+**If we receive a response** within 90 days, we will either deny the application or register the applicant. If the applicant responds to the AFL and addresses all of the issues raised in the AFL to the satisfaction of the regulator, the applicant will be granted registered status. However, if the applicant responds to the AFL but does not cover all of the issues raised in the AFL, or if the response is otherwise unsatisfactory, the applicant will be denied registered status. Sometimes an applicant responds to an AFL and addresses some of the issues raised in the AFL but also includes new information that was not part of the original submission. In these cases, the new information will be considered. If, after we have considered all representations made by an applicant, we still find that the applicant has not met the requirements for registration, we will formally deny the application by sending an FTD.
+
+Once an FTD has been sent, the applicant has 90 days to file a notice of objection with the Appeals Branch of the CRA. If no notice is filed within this period, the file will be closed. If a notice is filed, the file will be sent to the Appeals Branch for review. The Appeals Branch may either uphold the decision to deny registration or not. In either case, the reasons for its decisions will be publicly available.
+
+For your information, a diagram giving an overview of this new approach to charities applications is available on-line at: [www.cra.gc.ca/E/pub/tg/charitiesnews-25/pdf/chart-e.pdf](/content/dam/cra-arc/migration/cra-arc/E/pub/tg/charitiesnews-25/pdf/chart-e.pdf). More information on what will be published on our Web site and on the appeals process will be available in a future newsletter.
+
+### REMINDER: Where can we contact you?
+
+To ensure your charity receives our correspondence, such as annual returns, please notify us of any change to your mailing address. Contact us, by fax at 613-954-8037, or in writing:
+
+Client Assistance Charities Directorate Canada Revenue Agency Ottawa ON K1A 0L5
+
+In either case, we require the signature of an authorized representative to make this change. If you have questions about making such a change, you can call our toll-free client assistance number at 1-800-267-2384.
+
+As well, we strongly advise charity representatives to sign up for the Charities Directorate electronic mailing list at:
+
+Through this service, subscribers are provided with an automatic notification when the *Registered Charities Newsletter* and other publications are posted on the Web site, and when notices or other information are posted to the *What's New* page.
+
+### REMINDER: Fiscal period end changes
+
+Under the *Income Tax Act* , a registered charity has to obtain the CRA's permission **before** it changes its fiscal period because such changes affect the registered charity's obligations under the Act. If you wish to change your fiscal period, please send us a letter giving the reason for the change and the effective date of the change, and make sure it is signed by an authorized representative of the registered charity.
+
+## Policies
+
+### New and upcoming policies from the Charities Directorate
+
+The CRA is pleased to have made its new policy, *Guidelines for Registering a Charity: Meeting the Public Benefit Requirement*, available. This policy is the result of consultations on the draft guidance on public benefit (discussed in Newsletter No. 20).
+
+The Charities Directorate's draft policies on umbrella groups is now available on the "Consultation on proposed policy" page for charities on the CRA Web site at: [www.cra.gc.ca/tax/charities/consultations/menu-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/consultation-feedback-on-policies-guidance.html). You can also order a copy by calling our toll-free Client Assistance number. Policies are available for consultation for three months after they are first posted. We look forward to your input on this draft policies.
+
+We expect new draft guidance on *Research as a Charitable Activity* and the new Guide for registering a charity - decision-making process to be available by the end of this year. More information on these will be included in an upcoming newsletter.
+
+## Did you know?
+
+### Volunteers
+
+This section includes tax information, for example concerning when a person is considered to have been remunerated by a charity, and when such remuneration constitutes a taxable benefit. The area responsible for most such questions is the Business Windows area of the CRA. To contact the Business Windows area, call 1-800-959-5525 (English) or 1-800-959-7775 (French).
+
+#### Charitable purpose
+
+**Q 1. Is promoting volunteerism a charitable activity?**
+
+**A 1.** The Charities Directorate will register a charity that promotes volunteerism as long as the volunteerism is promoted in the community-at-large and the charity only provides its services to organizations that are "qualified donees" and "non-profit organizations" as defined in the *Income Tax Act* . The charity cannot provide services to "political parties" and their affiliates. The promotion of volunteerism in the community-at-large can be considered a charitable purpose because it is analogous to previously recognized charitable purposes, such as fostering good citizenship.
+
+More information on the promotion of volunteerism and what is required for such activities to be considered charitable is available in *Registered Charities Newsletter* No. 12, in the article entitled "Promoting volunteerism: Grand Forks Volunteer Society v. M.N.R.".
+
+**Q 2. Does it matter what kinds of activities our volunteers are engaged in?**
+
+**A 2.** Yes. Under the *Income Tax Act* , a registered charity must devote its resources to charitable activities or charitable purposes. Resources include financial, material and human resources. The work of volunteers is part of a charity's human resources. Therefore, the restrictions on the use of these resources apply to a charity's volunteer resources as well as its financial ones.
+
+For example, a charity cannot engage in non-charitable purposes, even if these are accomplished through the work of the charity's volunteers rather than paid staff.
+
+**Q 3. Does it make a difference if a charity's business activities are carried on by volunteers?**
+
+**A 3.** Yes. A charity cannot engage in a business unless it is a "related business". This generally means a commercial activity (i.e., revenue-generating) that is related to a charity's purposes. However, a business that is unrelated to the objects of the charity will also be considered a related business if substantially all (i.e. 90%) of the individuals involved in the operation of such activities are **unpaid** volunteers.
+
+**Note -** A *private foundation cannot carry on any business activity* regardless of whether it is carried out by volunteers or paid staff *.*
+
+For more information on related business see *What is a Related Business?* CPS - 019.
+
+**Q 4. When is a person considered to have been remunerated?**
+
+**A 4.** A person is considered to have been remunerated for employment when he or she receives a salary, wage, allowance, or benefit because of an office or employment.
+
+**Q 5. Does supplying volunteers with room and board make them paid volunteers?**
+
+**A 5.** . In general, yes, but there are some exceptions. For example, if the person is travelling on activities related to his or her work for the charity, provision of reasonable room and board for the volunteer would not make that person a paid volunteer.
+
+**Q 6. What is an allowance?**
+
+**A 6.** An allowance is any periodic or other payment that an employee receives from a registered charity, in addition to salary or wages, without having to account for its use (e.g., allowance for personal or living expenses). Under the *Income Tax Act*, an allowance is generally a taxable benefit. However, for example, there are exemptions in paragraph 6(1)(b) of the Act for certain personal or living expenses, which are related to employment duties.
+
+An employer must report taxable benefits and allowances, on a T4 slip in box 14, "Employment income," and under code 40 in the "Other information" area.
+
+A benefits chart, which describes situations in which you should deduct CPP contributions and EI premiums on the taxable amounts, and which codes to use to report the taxable amounts on the employee's T4 slip, is available on the CRA Web site at: [www.cra.gc.ca/E/pub/tg/t4130/t4130-07-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4130.html). The chart shows whether to include GST/HST in the value of the benefit for income tax purposes, whether particular taxable allowances and benefits are subject to CPP and EI withholdings, and which codes you should use to report them on the employee's T4 slip.
+
+**Q 7. Can a charity remunerate people for their work on businesses that are otherwise related to its purposes?**
+
+**A 7.** Yes. For charitable organizations and public foundations, if the activity is related to the charity's purpose, people working on the activity can be reasonably compensated.
+
+**Q 8. Can a charity remunerate people for their work on its businesses that are not related to its purpose?**
+
+**A 8.** A business that is not otherwise related to the charity's purposes will only be a related business if substantially all of the individuals involved are unpaid volunteers. Therefore, at least 90% of those involved in the business must be unpaid for such an activity to be permissible.
+
+#### Income Tax Deductions
+
+**Q 9. Can the costs incurred by volunteers in the course of volunteering (e.g., operating cost of a car), be deducted by them for income tax purposes?**
+
+**A 9.** No. There are no provisions in the *Income Tax Act*, which would allow a volunteer to deduct the cost incurred in the course of volunteering directly from his or her income tax. Therefore, volunteers cannot simply deduct the cost of their automobile insurance premiums or an amount based on mileage for their volunteer work.
+
+Our policy statement on *Expenses Incurred by Volunteers* , CPC-025 is available at: [www.cra.gc.ca/tax/charities/policy/cpc/cpc-025-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/policy-commentary-025-expenses-incurred-volunteers.html).
+
+**Q 10. Can a donation receipt be issued to volunteers for expenses incurred on behalf of a charity?**
+
+**A 10.** In general, the CRA will accept that a gift for which a donation tax credit can be issued will have been made where:
+
+a) the volunteer has incurred the expenditures on behalf of the charity;
+
+b) the volunteer has a right to be reimbursed for such expenditures by the charity under an agreement between the volunteer and the charity;
+
+c) the charity issues the volunteer a cheque for the amount of the expenses claimed by the volunteer and which are supported by receipts; and
+
+d) the volunteer freely chooses to give some or all of the reimbursement monies back to the charity (i.e., there can be no agreement or understanding, written or oral, that the volunteer will return the reimbursement to the charity).
+
+***Reimbursing funds to volunteers: importance of having two distinct transactions***
+
+In *Beaulieu v. The Queen* [4](#Footnote_4) the Tax Court of Canada upheld a charitable donation in which the donor was never out of pocket for the donation because he simply endorsed over to the charity a cheque that the charity had given to him in reimbursement for expenses incurred during volunteer services. The Court regarded the transactions as distinct.
+
+**Q 11. How does reimbursement of and allowances for volunteers affect a charity in terms of GST**
+
+**A 11.** *Registered Charities Newsletter* No. 18 discussed charities and registering for the GST. Some charities qualify as "small suppliers" and are, therefore, not required to register for the GST/HST. However, charities may choose to register.
+
+Those that register can claim a rebate of 50 percent of the GST/HST paid or owing on eligible expenses, including most allowances and reimbursements paid to both employees and volunteers engaged in activities for the charity.
+
+## Court news
+
+### Split-receipting guidelines upheld 5
+
+The Stewards' Charitable Foundation (the foundation) had a fundraising luncheon with speakers. In its invitation to this event, the foundation stated that in return for a $1,000 gift, donors would receive admission to the luncheon and a coffee table book, and an official donation receipt in compliance with the *Income Tax Act.* Mr. Richert gave a $1,000 gift to the foundation. Mr. Richert was not himself interested in either the luncheon or the book. His accountant attended the luncheon on his behalf, and received a voucher for the coffee table book. The receipt issued to Mr. Richert used the split-receipting rules to determine the eligible amount of the gift ($855).
+
+Mr. Richert objected to a receipt being issued for less than the full amount. He argued, unsuccessfully, that the $1,000 should be returned because the amount was a payment pursuant to a contract between him and the foundation.
+
+The court upheld the use of the split-receipting guidelines described in the CRA's *Technical News No. 26* . Although the court upheld these guidelines, the case illustrates the importance of communicating effectively with donors to avoid similar misunderstandings.
+
+In such cases, charities may be well advised to inform their potential donors about the CRA's guidelines on split-receipting, and how these guidelines will affect any receipt issued. Information on these guidelines is available on the CRA Web site, and we encourage both charities and the public to make use of this information. Charities may also wish to make donors aware that they can make a gift to the charity without taking part in such fundraising events, and thereby receive a receipt for the full amount of their donation.
+
+## Contact information
+
+**You can call us at the Charities Directorate toll free:** 1-800-267-2384 (for service in English) 1-888-892-5667 (bilingual).
+
+**You can also write to us at:**
+
+Charities Directorate Canada Revenue Agency Tower A 320 Queen Street Ottawa ON K1A 0L5
+
+**E-mail your comments or suggestions:**
+
+- about this newsletter to:[charities-bienfaisance-bulletin@ccra-adrc.gc.ca](mailto:charities-bienfaisance-bulletin@ccra-adrc.gc.ca%20)
+
+- about our draft publications to:[consultation-policy-politique@ccra-adrc.gc.ca](mailto:consultation-policy-politique@ccra-adrc.gc.ca)
+
+- about our RoadShow to:[information.sessions@ccra-adrc.gc.ca](mailto:information.sessions@ccra-adrc.gc.ca%20)
+
+- about our Web site to:[charities-bienfaisance@ccra-adrc.gc.ca](mailto:charities-bienfaisance@ccra-adrc.gc.ca%20)
+
+You can contact the Charities Representative about service provided by the Directorate at 1 866 303-0316 (toll free), or 613 948-8608 in the National Capital Region, or by email at: [charities-bienfaisance-resource@ccra-adrc.gc.ca](mailto:charities-bienfaisance@ccra-adrc.gc.ca%20)
+
+You can find all of our publications at: [http://www.cra-arc.gc.ca/chrts-gvng/chrts/formspubs/menu-eng.html](https://www.canada.ca/en/revenue-agency/services/forms-publications.html)
+
+Draft publications for consultation are available at: [www.cra.gc.ca/tax/charities/consultations/menu-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/consultation-feedback-on-policies-guidance.html)
+
+For information on new additions about charities, see the “What’s new” page at: [www.cra.gc.ca/tax/charities/whatsnew/menu-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/whats-new.html)
+
+For an e-mail notification of these additions, subscribe to the free electronic mailing list at: [www.cra-arc.gc.ca/eservices/maillist/subscribecharities-e.html](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-charities-giving-whats-new.html)
+
+**Footnotes**
+
+1 The CAC is a vehicle through which charities and charity experts can provide advice, assistance, and feedback to Canada Revenue Agency (CRA) on matters related to CRA's responsibility for the regulation of charities. More information on the CAC is available at: www.cra.gc.ca/tax/charities/cac/menu-e.html.
+
+2 More information on the JRT and charities regulatory reform is available in Registered Charities Newsletter, No. 19. The JRT's final report, entitled "Strengthening Canada's Charitable Sector: Regulatory Reform", examines how charities are regulated federally and looks at options for change. It is available at: [http://www.vsi-isbc.org/eng/regulations/reports.cfm](http://www.vsi-isbc.org/eng/regulations/reports.cfm).
+
+3 It applies to new applications that have not already received a written request for more information from the Charities Directorate by June 1, 2005.
+
+4 Beaulieu v. The Queen, 98 DTC 3369.
+
+5 Richert v. Stewards' Charitable Foundation, 2005 BCSC 211.

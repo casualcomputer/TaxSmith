@@ -1,0 +1,1271 @@
+Title: Completing Form T3010 Registered Charity Information Return
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4033/t4033-completing-registered-charity-information-return.html
+Corpus path: corpus/cra/forms-publications/publications/t4033/t4033-completing-registered-charity-information-return.md
+Document type: publication
+Last modified: 2024-01-08
+
+# Completing Form T3010 Registered Charity Information Return
+
+## Important notice
+
+On June 23, 2022, Budget Implementation Act, 2022, No. 1, received Royal Assent. This change in legislation includes new rules that allow charities to make grants to non-qualified donees. As a result, some of the information on this page could change.
+
+On December 19, 2023, following a public feedback period, the Canada Revenue Agency (CRA) posted the guidance document [CG-032, Registered charities making grants to non-qualified donees](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/charities-making-grants-non-qualified-donees.html). This document explains how the CRA will administer the recent changes to the Income Tax Act.
+
+The CRA is in the process of reviewing and updating all related guidance products and web pages to ensure they are consistent with the new rules.
+
+## Filing requirements for charities administering internal trusts
+
+On December 15, 2022, Bill C-32, the Fall Economic Statement Implementation Act, 2022, received Royal Assent. This bill amended the Income Tax Act to expand the filing requirements for trusts.
+
+The Canada Revenue Agency (CRA) understands that registered charities are seeking clarification on how these new requirements apply to internal trusts.
+
+The CRA will **not** require registered charities to file the T3, Trust Income Tax and Information Return, for internal trusts.
+
+Internal trusts are those created when a charity:
+
+- receives property as a gift that is subject to certain legally enforceable terms and conditions; and,
+
+- holds that property as the trustee of the trust.
+
+Registered charities report on their finances and activities annually by filing the T3010, Registered Charity Information Return. These returns include aggregate information about all the property a charity holds, including internal trusts. Registered charities should ensure these annual returns are complete and accurate, as they serve important public information and compliance purposes.
+
+T4033(E) Rev 24
+
+Our publications and personalized correspondence are available in braille, large print, e-text, or MP3 for those who have a visual impairment. For more information, go to [canada.ca/cra-multiple-formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html) or call 1-800-959-8281.
+
+## Is this guide for you?
+
+This guide is for Canadian charities and national arts service organizations that are registered under the Income Tax Act and are eligible to issue official donation receipts. The guide will help you fill out [Form T3010, Registered Charity Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3010.html).
+
+All references to a charity, on all forms and in this guide, include registered national arts service organizations (RNASO). The term **charitable programs** should be interpreted as the work the charity carries on to fulfill its purpose(s), which are listed in the copy of the charity’s governing documents currently on file with the Canada Revenue Agency (CRA).
+
+You or an authorized representative can file your charity’s return online using My Business Account.
+
+You can also file a paper return. To find Form T3010 and other forms and publications, go to [CRA forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html). You can also call Client Service at 1-800-267-2384.
+
+## Glossary
+
+For definitions of key terms in this guide, go to [Charities and giving glossary](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/charities-giving-glossary.html). The terms in this glossary do not replace enacted or proposed law.
+
+## Copying our information
+
+The information in this publication can be copied, for personal or public non-commercial purposes, without charge. You are asked to:
+
+- copy the information accurately
+
+- give the title of this publication and name the CRA as the author
+
+- state that your material is a copy of an official work published by the Government of Canada and that your copy has not been endorsed by, or produced in affiliation with, the Government of Canada
+
+Commercial reproduction and distribution are not allowed, except with written permission from the CRA’s copyright administrator. For more information, contact [pacrownco_g@cra.gc.ca](mailto:pacrownco_g@cra.gc.ca).
+
+## What’s new
+
+### Make sure you are using the correct version of the return
+
+As a result of Bill C-19, Budget Implementation Act, 2022, No 1, and Bill C-32, Fall Economic Statement Implementation Act, 2022, we revised Form T3010, Registered Charity Information Return. Registered charities will be required to adhere to the following reporting requirements:
+
+- Charities with a **fiscal periods ending on or after December 31, 2023**, must file their T3010 using version 24. If the charity completes an earlier version of the T3010, we will not accept it.
+
+- Charities with a **fiscal periods ending on or before December 30, 2023**, should file their T3010 using version 23.
+
+To download the correct version of the return, go to [T3010 Registered Charity Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3010.html).
+
+### Qualifying disbursements: grants to non-qualified donees (grantees)
+
+As of June 23, 2022, the Government of Canada passed legislation to allow Canadian registered charities to make grants to non-qualified donees (grantees). For more information, see [Guidance CG-032, Registered charities making grants to non-qualified donees](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/charities-making-grants-non-qualified-donees.html).
+
+### Changes to the disbursement quota rules for charities
+
+The disbursement quota (DQ) is the minimum amount that a registered charity is required to spend each year on its own charitable activities or on qualifying disbursements through gifts to qualified donees or grants to non-qualified donees (grantees).
+
+On **January 1, 2023**, the following amendments came into effect:
+
+- For property equal to or less than $1 million, the DQ rate remains at 3.5%. On the portion of property exceeding $1 million, the DQ rate increases to 5%.
+
+- The CRA has discretion to grant a reduction in a charity’s DQ obligation for any particular tax year. The CRA can also publicly disclose information related to such a decision.
+
+- The CRA is no longer accepting requests to accumulate property. Previously approved property accumulations are still valid until the expiry of the approved period.
+
+### Electronic Mailing List
+
+Stay notified when important new information is added to the Charities and giving webpages (for example, a new guidance product or video or upcoming events) by going to [canada.ca/cra-email-lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribing to the "Charities and giving – What’s new" mailing list. Your email address will remain confidential and will not be disclosed or used for any purpose other than the delivery of the CRA information that you have requested.
+
+### Save time by using our digital services!
+
+Digital services for charities offered through My Business Account (MyBA) make it faster and easier to handle your charity's tax matters. You, your employee, or your representative can apply for registration as a charity, file a return, receive CRA correspondence, and view and update your account information.
+
+To access our digital services for charities, go to [Access our online services for charities](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/business-account.html).
+
+## Before you start
+
+### What is a complete information return?
+
+A complete information return includes:
+
+- Form T3010, Registered Charity Information Return
+
+    - if applicable—Schedule 1, Foundations
+
+    - if applicable—Schedule 2, Activities outside Canada
+
+    - if applicable—Schedule 3, Compensation
+
+    - if applicable—Schedule 4, Confidential data
+
+    - if applicable—Schedule 5, Non-cash gifts
+
+    - if applicable—Schedule 6, Detailed financial information
+
+    - if applicable—Schedule 8, Disbursement Quota
+
+- a copy of the charity’s own financial statements, including notes to the financial statements (if the charity has income over $250,000, the Charities Directorate of the CRA recommends the financial statements be professionally audited; otherwise, the treasurer for the charity should sign them)
+
+- Form T1235, Directors/Trustees and Like Officials Worksheet, with all the required information
+
+- if applicable—Form T1236, Qualified donees worksheet / Amounts provided to other organizations
+
+- if applicable—Form T2081, Excess Corporate Holdings Worksheet for Private Foundations
+
+- if applicable—Form T1441, Qualifying Disbursements: Grants to Non-Qualified Donees (Grantees)
+
+As of May 15, 2021, the CRA no longer collects Ontario annual information returns on behalf of the Ontario Ministry of Government and Consumer Services. For more information on filing an Ontario annual information return, visit [ontario.ca/businessregistry](https://www.ontario.ca/page/ontario-business-registry).
+
+We recognize that completing the information return requires an understanding of some complex provisions. We recommend that, if necessary, registered charities get advice from legal or accounting experts.
+
+### File your T3010 return online
+
+Filing your T3010 through My Business Account is easy. It helps you identify all necessary forms, sections, schedules and appendices. It also reminds you to attach required documentation.
+
+For more information on accessing our online services, go to [Access our online services for charities](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/business-account.html).
+
+### If you are filing your T3010 return on paper, mail the complete information return to:
+
+Charities Directorate Canada Revenue Agency 105 – 275 Pope Road Summerside PE C1N 6E8
+
+Some sections of the paper version of Form T3010, Registered Charity Information Return, contain tables that have to be filled out if they apply to the charity. If there is not enough space in these tables for the information requested, attach a separate sheet with the information. Each attached sheet has to include the charity’s identification information, such as its name and business number (BN).
+
+### Do not attach correspondence or copies of governing documents to the charity’s information return.
+
+These should be mailed separately to:
+
+Charities Directorate Canada Revenue Agency Ottawa ON K1A 0L5
+
+### When does a registered charity have to file its information return?
+
+Under the Income Tax Act, every registered charity must file an information return each year. The return must be filed **no later than six months after the end of the charity’s fiscal period**. For example, if the charity’s fiscal period-end is March 31, its return is due by September 30.
+
+If the charity is a corporation, it **does not have** to file a T2 Corporation Income Tax Return during the period it has charitable status. If the charity loses its charitable status, it must resume filing the T2 return. For more information about T2 filing requirements, call Business Enquiries at 1-800-959-5525
+
+The CRA will **not** require registered charities to file a T3, Trust Income Tax and Information Return, for internal trusts. Registered charities report on their finances and activities annually by filing a complete T3010 return, which includes aggregate information about all the property they hold, including internal trusts.
+
+A registered charity can also be subject to other federal, provincial, or territorial filing requirements under its incorporating statute or other statutes that govern its operations. For more information on federal incorporation, visit the [Corporations Canada](http://corporationscanada.ic.gc.ca/eic/site/cd-dgc.nsf/Intro) website. For more information on provincial or territorial incorporation, go to [Provincial and territorial government](https://www.canada.ca/en/revenue-agency/services/charities-giving/giving-charity-information-donors/other-government-resources-donors.html).
+
+Registered charities in the province of Quebec also have to file a provincial annual return. For more information about the province’s filing requirements, call Revenu Québec at 1-800-567-4692.
+
+### What happens if a registered charity does not file its information return?
+
+If a charity does not file its information return, its registered status will be revoked and as a result, it will:
+
+- no longer be exempt from tax, unless another exemption applies
+
+- not be able to issue official donation receipts
+
+- have to transfer its property to an eligible donee or be subject to a revocation tax equivalent to the full value of its remaining assets (under Part V of the Income Tax Act)
+
+For more information, go to [Revocation for failure to file](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/revoking-registered-status/types-revocation.html).
+
+### What information is confidential?
+
+Most sections of the information return, and all of the financial statements filed with it, are available to the public. The public parts of the return are posted and available at [canada.ca/charities-list](https://apps.cra-arc.gc.ca/ebci/hacc/srch/pub/dsplyBscSrch?request_locale=en).
+
+Confidential data is marked as such and includes information given in the following areas:
+
+- Section F and Schedule 4 of Form T3010
+
+- the right-hand side of Form T1235, Directors/Trustees and Like Officials Worksheet
+
+- Part II, Section B, of Form T2081, Excess Corporate Holdings Worksheet for Private Foundations
+
+According to the Income Tax Act, we are required or permitted by law to disclose certain records when requests are made under the authority of:
+
+- a court order, warrant, or subpoena issued for criminal proceedings started under:
+
+    - any act of Parliament
+
+    - any legal proceedings relating to the administration or enforcement of the Income Tax Act, the Canada Pension Plan, the Unemployment Insurance Act, or the Employment Insurance Act
+
+    - any other act of Parliament or law of a province that allows for the imposition or collection of a tax or duty
+
+- the Auditor General Act
+
+- warrants issued under the Canadian Security Intelligence Service Act
+
+- enquiries from the Department of Finance Canada for information to form or evaluate fiscal policy
+
+Section E: Certification is not confidential. Although this information is not posted on our webpages, it is available to the public on request.
+
+### Notes on filling out the information return
+
+Answer all questions on Form T3010, including all yes/no questions, **that apply to the charity**. If a question does not apply to the charity, leave it blank.
+
+Report all amounts to the nearest Canadian dollar in the proper spaces. Do **not** show cents (for example, report $125,754,**not** $125,753.53). Do not enter more than one amount in a space.
+
+Report financial information in **either** Section D **or**Schedule 6 of Form T3010. Do not fill out both, or parts of both.
+
+Section E: Certification must be signed by a person who has authority to sign on behalf of the charity.
+
+Mail all the required, completed forms to us with applicable attachments. Keep a copy for the charity’s records.
+
+Certain religious organizations may be exempt from completing some questions on Form T3010 if they meet the following three conditions:
+
+- existed on December 31, 1977
+
+- have never issued any official donation receipts for tax purposes
+
+- have never, directly or indirectly, received gifts from another registered charity that issues official donation receipts
+
+Written confirmation is required from the Charities Directorate for organizations to qualify for this exemption/status.
+
+If the charity meets the criteria for [exemption](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/policy-commentary-016-religious-charities-exemption.html), you do **not** have to include information for the following areas on:
+
+- Form T3010:
+
+    - Section C, lines 5450, 5460, and 5843
+
+    - Schedule 2, line 200, amounts in the table, and line 230
+
+    - Schedule 3, 1(b), lines 380 and 390
+
+    - Schedule 4, amounts in the table in Section 2
+
+    - Section D (except lines 4050, 4400, 4490, and 4565)
+
+    - Schedule 6
+
+    - Schedule 8
+
+- Form T1236, Qualified donees worksheet / Amounts provided to other organizations, you do not have to fill out the amounts of gifts to qualified donees
+
+- Form T1441, Qualifying Disbursements: Grants to Non-Qualified Donees (Grantees), you do not have to fill out the amounts of grants to non-qualified donees
+
+## Completing Form T3010, Registered Charity Information Return
+
+### Section A – Identification
+
+**A1 – Line 1510** – If the charity is subordinate to a parent organization or head body (that is, an internal branch, section, or division of another registered charity), select **yes**. Internal divisions do not have their own governing documents to establish them as separate entities. The divisions abide by the governing documents of the charity that is their head body.
+
+If the charity has its own governing documents and its activities are determined by another organization, select **yes**.
+
+Record the name and the BN/registration number of the other organization in the proper spaces.
+
+**A2 – Line 1570** – If the charity is no longer operating, or no longer wants to be registered, select **yes**.
+
+**If you are filing your return online**, log into My Business Account, go to "Update registered charity or RCAAA information" and select "Request voluntary revocation."
+
+**If you are filing a paper return**, also send us a letter separate from the return.
+
+Once revoked, the charity will have to file a final Form T3010, Registered Charity Information Return, **as well as**Form T2046, Tax Return Where Registration of a Charity is Revoked.
+
+For more information, go to [Guide RC4424, Completing the Tax Return Where Registration of a Charity is Revoked](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4424.html).
+
+If the charity is no longer operating because it merged, amalgamated, or consolidated with another organization, go to [Amalgamations, mergers, and consolidations](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/making-changes/amalgamations-mergers-consolidations.html) or call Client Service at 1-800-267-2384.
+
+**A3 – Line 1600** – If the charity is designated as either a public foundation or a private foundation, select **yes**. This information is on the notice we sent you when the charity was registered. If you select **yes**, you **must** fill out Schedule 1, Foundations.
+
+### Section B – Directors/trustees and like officials
+
+It is **mandatory** for directors/trustees and like officials to give information such as their date of birth and home address so that the CRA is able to identify the individuals who are responsible for managing the charity.
+
+**If you are filing your return online**, enter the total number of directors, trustees and like officials in your organization. After you have entered the details of the first individual, select “Add another” to continue adding other directors, trustees or like officials.
+
+**If you are filing a paper return**, you **must** complete Form T1235, Directors/Trustees and Like Officials Worksheet.
+
+If you would like these individuals to have the authority to communicate with the CRA on behalf of your charity, their name must also appear as an owner for your BN. For more information, go to [Change director](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/making-changes/changing-a-charitys-director-trustee-like-official-information.html).
+
+If you prefer, instead of using Form T1235, you can fill out a separate sheet which must contain the same information in the same format as Form T1235. It must be signed by an authorized representative and attached to the return.
+
+As of May 15, 2021, the CRA no longer collects Ontario annual information returns on behalf of the Ontario Ministry of Government and Consumer Services. For more information on filing an Ontario annual information return, visit [ontario.ca/businessregistry](https://www.ontario.ca/page/ontario-business-registry).
+
+Registered charities that are represented by an institutional trustee, such as a bank or financial institution, should fill in this information under the “Last name” field.
+
+### Section C – Programs and general information
+
+**C1 – Line 1800** – If the charity was active during the fiscal period, select **yes**.
+
+If the charity was not active, select **no**. This means that during the **entire**fiscal period, the charity did not use any of its resources to carry out its charitable programs. To keep its registered status, **the charity must file its information return** and explain why it was not active in the “Ongoing programs” space at C2.
+
+**C2** – Describe any ongoing and new programs that began this fiscal period.
+
+The term **program** covers (1) all the charitable activities the charity carries on through its employees, volunteers, and intermediaries, as well as (2) when it makes qualifying disbursements through gifts to qualified donees and grants to non-qualified donees (grantees). Charities making qualifying disbursements should describe the types of organizations they support.
+
+**Do not** report information on fundraising activities here.
+
+**Do not** send or upload documents such as annual reports in place of describing the charity’s activities in question C2.
+
+If the charity is considering new activities that we have not yet approved, contact us before starting them to make sure that the proposed activities are charitable and fall within the charity’s approved purposes.
+
+Use **active** verbs such as “do,” “offer,” “operate,” “conduct,” “perform,” “educate,” “feed,” “give,” or “house” to describe the activities.
+
+You must give enough detail for a reader to understand what the activities are. Do not repeat the charity’s purposes. For example, saying “we advance religion,” or “we relieve poverty,” is not enough. See the examples below.
+
+**Examples — programs**
+
+We operate a recycling service.
+
+We give free meals to the homeless on a weekly basis.
+
+We conduct research aimed at developing less harmful industrial processes.
+
+We hold worship services weekly.
+
+We offer dental services for poor people in a specific country.
+
+We offer pastoral care.
+
+We clean up garbage along the waterfront in our community.
+
+We operate an elementary school.
+
+We operate a summer camp for religious programs.
+
+We operate a food bank and a clothing give-away program.
+
+We financially support overseas missionary activities by gifting funds to our denomination headquarters, which is a registered charity.
+
+We operate a senior-care program two times a week.
+
+**C3 – Line 2000**– If the charity made qualifying disbursements through gifts to qualified donees or other organizations, including designated gifts, select **yes**. Do not include grants to non-qualified donees (grantees).
+
+If you are submitting [Form T1236, Qualified donees worksheet / Amounts provided to other organizations](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1236.html), you **must** answer **yes** to this question.
+
+**If you are filing your return online**, you can access Form T1236 through the “T3010 Registered Charity Information Return – Overview” page in MyBA. You have the option to either enter the information online or upload a document containing the information. Your uploaded document must include the same information found on Form T1236, Qualified donees worksheet / Amounts provided to other organizations.
+
+**If you are filing a paper return**, instructions on completing Form T1236 can be found on the back of the form. If you prefer, instead of using Form T1236, you can fill out a separate sheet with the same information using the same format and attach it to the information return.
+
+For more information on gifting, go to [P113, Gifts and Income Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html).
+
+For more information about charities that make designated gifts, go to [Anti-avoidance rules and designated gifts](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/receiving-gifts/anti-avoidance-rules-designated-gifts.html).
+
+Activities carried on abroad by the charity or intermediary must be reported on Schedule 2, Activities outside Canada.
+
+**C4**–**Line 2100**– If the charity carried on activities outside Canada directly, through employees or volunteers or both, or by giving funds or other resources to individuals, entities, or intermediaries, select **yes**. These intermediaries include agents, joint ventures, and contractors, but **not** qualified donees or non-qualified donees (grantees).
+
+If you select **yes**, you **must** complete Schedule 2, Activities outside Canada.
+
+Registered charities can also make gifts to other qualified donees that conduct charitable activities outside Canada. These gifts should be recorded on line 5050 and in Form T1236.
+
+Registered charities can also make grants to non-qualified donees (grantees) that conduct charitable activities outside Canada. These grants should be recorded on lines 5045, 5840, 5841, 5842, 5843, and in Form T1441.
+
+For more information about carrying on activities outside Canada, see [Guidance CG-002, Canadian registered charities carrying on activities outside Canada](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/guidance-002-canadian-registered-charities-carrying-activities-outside-canada.html).
+
+**C6 – Lines 2500 – 2660**– Select **all**applicable fundraising methods used by the charity during the fiscal period. For more information, see [Guidance CG-013, Fundraising by registered charities](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/fundraising-registered-charities-guidance.html).
+
+**C7 – Line 2700**– If any third party fundraisers were paid during the fiscal period, select **yes**. A third party fundraiser is a company or individual, not employed by the charity, that solicits funds for the charity. If you select **yes**, you **must** answer questions (a) to (d), and complete Table 1 – Information about fundraisers, in Schedule 4, Confidential data.
+
+**C7(a) – Line 5450**– Enter the amount of gross revenue that the fundraiser(s) collected for the charity. Gross revenue means the amount collected **before**taking into account the cost of goods sold, or other expenses such as fees paid to fundraisers.
+
+**C7(b) – Line 5460**– Enter the amount paid directly to third party fundraisers, plus any amounts that the fundraisers kept before giving the balance of the funds to the charity.
+
+**C7(c) – Lines 2730–2790**– Select **all**the methods that show how you pay your fundraisers.
+
+**C7(d) – Line 2800**– If fundraisers issued official donation receipts for the charity, select **yes**.
+
+**C8 – Line 3200**– The charity may have made a payment to one or more of its directors/trustees or like officials, or persons not at arm’s length, which was not a reimbursement or an allowance, and was for an amount spent to carry on their duties (for example, an out-of-town director’s accommodation and travel expenses while attending a board meeting). If so, select **yes**.
+
+The term **not at arm’s length**means persons acting jointly without separate interests or who are related. For a definition of **arm’s length**, see our [online glossary](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/charities-giving-glossary.html).
+
+**C9 – Line 3400**– If the charity had expenses for compensation of employees during the fiscal period, select **yes**.
+
+If you select **yes**, you **must** complete Schedule 3, Compensation.
+
+**C10 – Line 3900**– Select **yes**if the charity received donations or gifts of any kind valued at $10,000 or more from a donor, individual or otherwise, that was not resident in Canada and was not any of the following:
+
+- a Canadian citizen, employed in Canada
+
+- a person carrying on business in Canada
+
+- a person that disposed of taxable Canadian property
+
+If the charity received multiple donations or gifts from the **same**donor throughout the fiscal period, and the cumulative value of these gifts is $10,000 or more, the value has to be reported.
+
+If you select **yes**, for each donation or series of donations that total(s) $10,000 or more, you **must** complete Table 2 – Information about donors not resident in Canada, in Schedule 4, Confidential data.
+
+**C11 – Line 4000**– If the charity received non-cash gifts for which it issued official donation receipts, select **yes**.
+
+If you select **yes**, you **must** complete Schedule 5, Non-cash gifts.
+
+**C12 – Line 5800**– If the charity acquired a non-qualifying security during the fiscal period, select **yes**. For a definition of **non-qualifying security**, see [Guidance CG-012, Non-qualifying security](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/non-qualifying-security.html).
+
+**C13 – Line 5810**– If the charity allowed a donor to use any of its property (a loanback) during the fiscal period, select **yes**. For a definition of **loanbacks**, see our [online glossary](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/charities-giving-glossary.html).
+
+**C14 – Line 5820**– If the charity issued official donation receipts for donations on behalf of another organization, select **yes**.
+
+**C15 – Line 5830**- If the charity has **direct**partnership holdings either as a limited partner or a general partner, select **yes**.
+
+If the charity does not have partnership holdings, or if all such holdings are **indirect**, select **no**.
+
+The following are examples of when a charity does not have to report holdings either as a limited partner or a general partner:
+
+- it has holdings in mutual fund trusts, mutual fund corporations, or unit trusts which in turn have partnership holdings
+
+- it has entered into formal or informal arrangements with other parties which do not result in partnership holdings (for example, joint venture, or agency agreement)
+
+**C16 – Line 5840 –** If the charity made a qualifying disbursement by granting to a non-qualified donee (grantee) in the fiscal period, select **yes and complete lines** **5841, 5842, and 5843**. This includes grants made for activities inside and outside Canada.
+
+Making a grant to a non-qualified donee (grantee) differs from carrying on your own activities through an intermediary. For more information about making grants, see [Guidance CG-032, Registered charities making grants to non-qualified donees](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/charities-making-grants-non-qualified-donees.html).
+
+**Line 5841 –** During the fiscal period, if the sum of the grants made to any non-qualified donee (grantee) totalled more than $5,000, select **yes**. Include cash and non-cash grants. Amounts must be the fair market value of the resources in Canadian dollars. Examples of non-cash resources include property, such as land, artwork, equipment, and pharmaceuticals. For more information on fair market value, go to [Determining fair market value of non-cash gifts](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/issuing-receipts/determining-fair-market-value-gifts-kind-non-cash-gifts.html).
+
+If you select **yes**, you **must** complete Form T1441, Qualifying Disbursements: Grants to Non-Qualified Donees (Grantees).
+
+**If you are filing your return online**, you can access Form T1441 through the “T3010 Registered Charity Information Return – Overview” page in MyBA and follow the instructions in section “Completing Form T1441, Qualifying Disbursements: Grants to Non-Qualified Donees (Grantees)” at the end of this guide. You can enter the information online or upload a document containing the information. Your uploaded document must include the same information found on Form T1441, Qualifying Disbursements: Grants to Non-Qualified Donees (Grantees).
+
+**If you are filing a paper return**, download Form T1441 and follow the instructions on the back of the form. You can use this form, or you can fill out a separate sheet containing the same information and attach it to your T3010 information return. Your attached document must include the same information found on Form T1441, Qualifying Disbursements: Grants to Non-Qualified Donees (Grantees).
+
+**Line 5842**– Enter the **number** of non-qualified donees (grantees) who received a total amount of $5,000 or less in grants during the fiscal period. Include cash and non-cash grants in your calculation. **Do not** enter a dollar amount.
+
+**Line 5843** – Enter the total amount of all grants made to non-qualified donees (grantees) who received a total of $5,000 or less during the fiscal period. Include cash and non-cash grants.
+
+**Example – reporting on grants**
+
+Your charity provided the following grants during the fiscal period:
+
+- Grantee ABC – two grants:
+
+    - $1,000
+
+    - $2,000
+
+- Grantee DEF – two grants:
+
+    - $2,000
+
+    - $4,000
+
+- Grantee GHI – one grant of $1,000
+
+- Grantee JKL – one grant of $2,000
+
+**Use Form T1441 to report grants made to a grantee that total more than $5,000 during the fiscal period**
+
+Together, the $2,000 and $4,000 grants made to grantee DEF totalled more than $5,000 during the fiscal period. Use a new line for each grant.
+
+**Use Form T3010 to report grants totalling $5,000 or less during the fiscal period**
+
+ABC, GHI and JKL each received $5,000 or less in total grants. Report these grants in Form T3010, Question C16 on lines 5842 and 5843:
+
+- On line 5842, enter 3 for the number of grantees (ABC, GHI and JKL)
+
+- On line 5843, enter $6,000 for the sum of the amounts made to grantees that each received a total of $5,000 or less during the fiscal period (ABC, GHI and JKL)
+
+**C17 – Line 5850** – If the value of the charity's property not used directly in charitable activities or administration exceeds the thresholds ($100,000 or $25,000) identified in this question, select **yes**, and complete schedule 8.
+
+**C18 – Line 5860**– If the charity held any Donor Advised Fund (DAF) during its fiscal period, select **yes**. For the purposes of this guide, a DAF is a fund segregated into donor accounts, owned and controlled by a registered charity. Each account is comprised of contributions made by individual donors. Donors may provide ongoing non-binding suggestions on payouts from DAFs, but it is the charity's sole responsibility to make such decisions.
+
+**C18(a) – Line 5861**– Enter the total number of DAF accounts held by the charity at the end of its fiscal period.
+
+**C18(b) – Line 5862** – Enter the total value of all DAF accounts held by the charity at the end of its fiscal period.
+
+**C18(c) – Line 5863** – Enter the value of all donations the charity received to its DAF accounts during the fiscal period.
+
+**C18(d) – Line 5864** – Enter the total value of gifts to qualified donees and grants to non-qualified donees made from DAF accounts during the fiscal period.
+
+### Section D – Financial information
+
+Complete**either** Section D – Financial information, **or** Schedule 6, Detailed financial information.
+
+If **any** of the following applies to the charity, complete Schedule 6 **instead**of Section D:
+
+- The charity’s gross revenue is **more** than $100,000.
+
+- The amount of all property (for example, investments or rental properties) not used in charitable activities or administration was **more** than $25,000.
+
+- The charity had permission to accumulate property during this fiscal period.
+
+When you fill out **either**Section D **or** Schedule 6, make sure that you round all amounts to the nearest single Canadian dollar.
+
+#### D1 – Accounting method
+
+**Line 4020** – Select the box that identifies the accounting method the charity uses.
+
+Financial information prepared on an accrual basis records revenue in the fiscal period in which the charity earned it, even if the charity receives the revenue after the end of the fiscal period. Similarly, the charity records an expenditure in the fiscal period that the charity incurred it, even if the charity pays this bill in the next period.
+
+Financial information prepared on a cash basis records only revenue or expenditures the charity received or paid during the fiscal period.
+
+#### D2 – Summary of financial position
+
+**Line 4050** – If the charity owns land, buildings, or both, select **yes**.
+
+**Line 4200** – Enter the total amount of **all** of the charity’s assets (including land and buildings) at their cost to the charity, or, if an asset was donated, at fair market value when the gift was made.
+
+Line 4200 does not have to balance with line 4350. A charity’s accounting system will usually have a balancing account such as net assets, surplus, or deficit.
+
+**Line 4350** – Enter the total amount of the charity’s liabilities.
+
+**Line 4400** – If the charity borrowed from, loaned to, or invested with any non-arm’s length persons in the fiscal period, select **yes**.
+
+For a definition of **arm’s length**, see our [online glossary](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/charities-giving-glossary.html).
+
+#### D3 – Revenue
+
+**Line 4490** – If the charity issued official donation receipts for donations in the fiscal period, select **yes**.
+
+**Line 4500** – Enter the total eligible amount of all gifts received by the charity in the fiscal period for which official donation receipts have been or will be issued. Amounts received through payroll deductions from employee charity trusts should also be reported on this line.
+
+Do not include gifts received from other Canadian registered charities. Report those amounts on line 4510.
+
+**Line 4510** – Enter the total amount of funds and value of property received from other registered charities.
+
+Official donation receipts for income tax purposes should **not**be issued for amounts received from other registered charities.
+
+**Line 4530**– Enter the total amount of all other gifts for which official donation receipts were **not** issued. This amount should exclude:
+
+- revenue from fundraising activities should be reported on line 4630
+
+- revenue from any level of government in Canada should be reported on 4570
+
+- revenue from sources outside Canada should be reported on line 4575
+
+**Line 4565** – The charity may have received revenue from any level of government in Canada, including revenue received from government grants, contributions, and contracts for goods and services supplied directly to government. If so, select **yes**. If you select **yes**, you **must** enter an amount on line 4570.
+
+**Line 4570** – Enter the total amount received.
+
+**Line 4571** – Enter the charity’s total amounts from all sources outside Canada (both government and non-government) included on line 4500, for which official donation receipts have been or will be issued.
+
+**Line 4575** – Enter the charity’s total amounts from all sources outside Canada (both government and non-government), for which official donation receipts were **not** issued.
+
+**Line 4630** – Enter the total gross amount of all revenue from fundraising activities, including the gross amounts from activities carried on by the charity (for example, collection boxes and loose collections) and by third party fundraisers, for which official donation receipts were **not** issued. Revenue for which official donation receipts have been or will be issued should be reported as gifts on line 4500.
+
+**Line 4640** – Enter the gross revenue received from the sale of all goods and services to individuals or organizations (except amounts reported on lines 4570 and 4630). Revenue from the sale of goods and services to governments should be reported on line 4570. Revenue from the sale of goods and services for fundraising purposes should be reported on line 4630.
+
+**Line 4650** – Enter the total of all other revenue received by the charity that is not already included in the amounts above. If applicable, include any goods and services tax/harmonized sales tax (GST/HST) and provincial sales tax (PST) rebates on this line, as well as income from the rental or leasing of any equipment or other resources.
+
+Government rebates such as GST/HST and PST rebates should not be included if the amount to be rebated has not been included as an expense.
+
+**Line 4700** – Enter the total of lines 4500, 4510, 4530, 4570, 4575, 4630, 4640, and 4650.
+
+#### D4 – Expenditures
+
+**Line 4860** – Enter the total amount paid or incurred for professional or consulting services, such as legal, accounting, or fundraising services.
+
+**Line 4810** – Enter the total amount paid or incurred for travel and vehicle expenses. Include travel and accommodation costs, and vehicle costs such as gas, repairs, upkeep, and lease payments.
+
+**Line 4920** – Enter the total of all other expenditures not included on lines 4860 and 4810 (excluding qualifying disbursements through gifts to qualified donees and grants to non-qualified donees). This line should include expenditures on charitable programs, and, if reporting on an accrual basis, funding received by the charity that the charity must return. For example, a charity may need to return funds when the funded project was not completed or there were funds left over at the end of the project.
+
+**Line 4950** – Enter the total of lines 4860, 4810, and 4920.
+
+**Line 5000**– Enter the part reported on line 4950 that represents all expenditures on charitable programs, except for qualifying disbursements through gifts to qualified donees and grants to non-qualified donees. Examples include:
+
+- running the charity’s day-to-day programs
+
+- occupancy costs (such as rent, mortgage payments, hydro, repairs, and insurance) for buildings used to carry on charitable activities
+
+- most salaries
+
+- education and training for staff and volunteers
+
+**Do not include** expenditures for management, administration, or fundraising on this line.
+
+**Line 5010** – Enter the part reported on line 4950 that represents management and administrative expenditures. These may include expenses for:
+
+- holding meetings of the board of directors
+
+- accounting, auditing, personnel, and other administrative services
+
+- buying supplies and equipment, and paying occupancy costs for administrative offices
+
+- applying for grants or other types of government funding, and gifts from other qualified donees (usually foundations)
+
+Some expenditures can be considered partly charitable and partly management and administration, such as salaries and occupancy costs. In these cases, divide the amounts accordingly between lines 5000 and 5010. Expenditures must be allocated consistently and on a reasonable basis.
+
+**Line 5045**– Enter the total amount of all grants to non-qualified donees (grantees) during the fiscal period. Include all cash and non-cash grants reported in Section C and Form T1441.
+
+**Line 5050**– Enter the total expenditures for all gifts to qualified donees.
+
+**Line 5100** – Enter the total of lines 4950, 5045 and 5050.
+
+### Section E – Certification
+
+The information return **must** be certified by a person who has the authority to sign for the charity. By signing the return, or by completing this section online, the individual certifies “to the best of their knowledge” that it is correct, complete, and current. This person is responsible for getting the most accurate information possible to be reported on the return.
+
+Certification applies to all parts of the charity’s return:
+
+- the completed Form T3010, Registered Charity Information Return, including all applicable schedules
+
+- the charity’s financial statements (the charity’s treasurer should sign any financial statements that have not been professionally prepared)
+
+- the completed Form T1235, Directors/Trustees and Like Officials Worksheet, or a list of directors/trustees or like officials, with all required information
+
+- if applicable—the completed Form T1236, Qualified donees worksheet / Amounts provided to other organizations
+
+- if applicable—the completed Form T2081, Excess Corporate Holdings Worksheet for Private Foundations
+
+- if applicable—the completed Form T1441, Qualifying Disbursements: Grants to Non-Qualified Donees (Grantees)
+
+- all other attachments containing required information
+
+### Section F – Confidential data
+
+The information you enter in this section is confidential and will not be available to the public.
+
+**If you are filing your return online**, verify the physical address of the charity and the address in Canada for the charity’s books and records. Updates to the addresses can be made in “Manage addresses” on My Business Account. Post office box numbers and rural routes for these addresses are not sufficient.
+
+**If you are filing a paper return**:
+
+**F1** – In the first column, enter the physical address of the charity. This means the address where the charity is located, including the street number; street name; apartment, suite, or lot and concession number; city; province or territory; and postal code. A post office box or a rural route number alone is not enough.
+
+In the second column, enter the address in Canada where the charity’s books and records are kept. This address has to be complete and include the street number; street name; apartment, suite, or lot and concession number; city; province or territory; and postal code. A post office box or a rural route number alone is not enough.
+
+If the area does not have street names or numbers, enter a description that will easily allow a person to locate the office (for example, the first red house eastbound on Highway 4 from Oldtown).
+
+For more information, go to [Books and records](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/books-records.html).
+
+**F2** – Enter the requested information about the individual who completed the charity’s information return.
+
+### Schedule 1, Foundations
+
+**1 – Line 100** – If the foundation acquired control of a corporation in the fiscal period, select **yes**.
+
+**“Control”** usually means that the foundation owns, or the foundation plus persons not dealing with it at arm’s length, own more than 50% of a corporation’s issued share capital with full voting rights. However, the foundation will not be considered to have acquired control, if it has not bought or otherwise acquired for consideration, more than 5% of any class (voting or otherwise) of shares of the corporation.
+
+A foundation that receives a **gift** of shares in the year that results in the foundation having control of a corporation will only be considered to have acquired control if, in the current or any previous year, it bought or otherwise acquired shares for consideration that total more than 5% of the issued shares of any class of the capital stock of the corporation.
+
+If the same foundation were to **buy** or otherwise acquire shares of the same corporation for consideration that, when added to any shares previously bought or otherwise acquired for consideration, are more than 5% of the issued shares of any class of the capital stock of the corporation, the foundation will be considered to have acquired control of the corporation.
+
+By acquiring control of a corporation, a public or private foundation risks the revocation of its charitable status.
+
+A private foundation that has a divestment obligation percentage at the end of the year for a class of shares of the capital stock of a corporation also runs the risk of revocation. For more information, go to [Guide T2082, Excess Corporate Holdings Regime for Private Foundations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t2082.html).
+
+For more information about control of a corporation, go to [IT64R4-CONSOLID Corporations: Association and Control](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it64r4-consolid.html).
+
+**2 – Line 110** – If the foundation incurred debts (other than for current operating expenses) related to the buying and selling of investments or in administering charitable activities during the fiscal period, select **yes**.
+
+Public and private foundations are not allowed to incur debts other than in the situations described below.
+
+Debts incurred for **current operating expenses** are usually short-term debts. This allows a foundation to have accounts payable, such as salaries payable, rent payable, or an amount due on account with their office supplies distributor.
+
+Debts incurred in connection with the **buying and selling of investments**includes debts such as brokerage fees and other incidental amounts related to the buying or selling of investments. Debts to acquire investments such as shares or other securities are also acceptable.
+
+Debts for **administering charitable activities** must be directly linked to the charitable activities of the foundation. The debts can include short-term debts, such as for current operating expenses, and debts of larger amounts and longer terms incurred in buying an asset used directly in charitable activities, such as a loan to buy a vehicle used to deliver meals to the poor.
+
+**3(a) – Line 111** – Enter the total value of all restricted funds held at the end of the foundation’s fiscal period. For the purposes of this guide, restricted funds are generally those where a funder (including a donor, grantor, lender, or payer) limits how the funds can be spent. This means the funds are not available for the foundation to use at its sole discretion. For example, a foundation is given government funding to provide relief after a catastrophic earthquake, and can only spend the funds for that relief.
+
+**3(b) – Line 112** – Of the amount in 3(a) provide the total value of funds a foundation is not legally permitted to spend due to a funder’s written trust or direction. This means where a funder requires the foundation to preserve the capital (principal), and the foundation is only permitted to spend the income.
+
+Questions 4 and 5 apply to private foundations only.
+
+**4 – Line 120** – If the private foundation held any shares, rights to acquire shares, or debts owing to it that could be defined as a non-qualified investment during the fiscal period, select **yes**.
+
+Non-qualified investments (debts, shares, or rights to a share) may result in a tax payable by the debtor or corporation if the private foundation receives interest or dividends on these investments, falling short of an amount based on the prescribed rate (section 4301 of the Income Tax Regulations).
+
+For more information, go to [Form T2140, Part V Tax Return - Tax on Non-Qualified Investments of a Registered Charity](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2140.html).
+
+**5 – Line 130** – If the foundation owned more than 2% of any class of shares of a corporation at any time during the fiscal period, select **yes**. If you select **yes**, you **must** complete [Form T2081, Excess Corporate Holdings Worksheet for Private Foundations](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2081.html).
+
+**If you are filing your return online**, you can access Form T2081 through the "T3010 Registered Charity Information Return – Overview" page.
+
+**If you are filing a paper return**, attach the completed Form T2081 to your information return.
+
+For more information, go to [Guide T2082, Excess Corporate Holdings Regime for Private Foundations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t2082.html).
+
+### Schedule 2, Activities outside Canada
+
+If you complete this section, you **must** answer**yes** to question C4.
+
+**1 – Line 200** – Enter the total expenditures for activities carried on outside Canada during the fiscal period. Include expenditures made directly by the charity to carry on these activities and payments made to other individuals or organizations to carry on the activities. **Do not** include qualifying disbursements through gifts to qualified donees or grants to non-qualified donees in the amount reported on line 200. Report all amounts in Canadian dollars valued at the time of the expenditure.
+
+**2 – Line 210** – If any of the charity’s financial resources were used for activities outside Canada under any kind of an arrangement, including a contract, agency agreement, or joint venture with any other individual or entity (excluding qualifying disbursements through gifts to qualified donees or grants to non-qualified donees), select **yes**.
+
+If you select **yes**, enter in the table the total reported on line 200 that was transferred to individuals and organizations, as well as the countries in which the activities were carried out. Use the country codes listed in the schedule.
+
+**3** – Using the country codes, identify the countries where the charity carried on activities or gave any of its resources.
+
+**4 – Line 220 and Line 230** – If any of the charity’s activities undertaken outside Canada were funded by Global Affairs Canada, select **yes**. If you select **yes**, enter the total amount of funds spent under this arrangement. Report all amounts in Canadian dollars valued at the time of the expenditure.
+
+**5 – Line 240** – If the charity’s activities outside Canada were carried out by its own employees, select **yes**. A charity’s employees are those who perform duties under an employment contract directly funded by the charity itself.
+
+**6 – Line 250** – If the charity’s activities outside Canada were carried out by its own volunteers, select **yes**. The volunteers of a charity are under the direct supervision of the charity.
+
+**7 – Line 260** – If the charity’s activities include exporting goods outside Canada, select **yes**. If you select **yes**, you **must** report the items being exported, their value, their destination (specify the city/region), and the country codes.
+
+For more information, see [Guidance CG-002, Canadian registered charities carrying on activities outside Canada](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/guidance-002-canadian-registered-charities-carrying-activities-outside-canada.html).
+
+### Schedule 3, Compensation
+
+If you complete this section, you **must** answer**yes** to question C9.
+
+Compensation includes all forms of salaries, wages, commissions, bonuses, fees, and honoraria, plus the value of taxable and non-taxable benefits paid by a charity to its employees. Compensation generally includes all amounts that form part of an employee’s gross income from employment, plus the charity’s contributions to the employee’s pension, medical or insurance plan, employer Canada Pension Plan/Quebec Pension Plan and employment insurance contributions, and workers’ compensation premiums.
+
+**Do not** include reimbursements for expenses incurred while working for the charity, such as travel claims.
+
+**1(a) – Line 300** – Enter the number of permanent, full-time, directly compensated positions the charity had in the fiscal period. The number should represent the usual number of positions the charity compensated during the fiscal period, including managerial positions.
+
+**1(b) – Lines 305 – 345** – For the ten highest directly compensated positions during the fiscal period, enter the number of positions falling within each compensation category, regardless of the type of work done.
+
+**2(a) – Line 370** – Enter the number of part-time or part-year (for example, seasonal) employees the charity directly compensated during the fiscal period.
+
+**2(b) – Line 380** – If applicable, enter the charity’s total expenditure on compensation for part-time and part-year employees in the fiscal period.
+
+**3 – Line 390** – Enter the charity’s total expenditure for all compensation in the fiscal period. Enter this amount on line 4880 of Schedule 6, if applicable.
+
+### Schedule 4, Confidential data
+
+If you complete this section, you**must** answer**yes** to question C10.
+
+The information reported in Schedule 4 is for our use, but may be shared as permitted by law (for example, with certain other government agencies and departments).
+
+#### Part 1 – Information about fundraisers
+
+Enter in the table the name and arm’s length status of each external (third party) fundraiser.
+
+For more information on third party fundraisers, see [Guidance CG-013, Fundraising by registered charities](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/fundraising-registered-charities-guidance.html).
+
+For a definition of **arm’s length**, see our [online glossary](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/charities-giving-glossary.html).
+
+#### Part 2 – Information about donors not resident in Canada
+
+For gifts of $10,000 or more, within the fiscal period, that the charity received from a donor who is not resident in Canada, report the identity of the donor, the amount of the gift, and whether the donor is an individual, organization, or government body, **unless** the donor is any of the following:
+
+- a Canadian citizen
+
+- employed in Canada
+
+- carrying on business in Canada
+
+- a person that has disposed of taxable Canadian property
+
+Donations from non-resident donors who meet **any** of these criteria should **not**be reported on Schedule 4.
+
+### Schedule 5, Non-cash gifts
+
+If you complete this section, you**must** answer**yes** to question C11.
+
+**1 – Lines 500 – 565** – If the charity received non-cash gifts for which it issued official donation receipts, select **all** the types the charity received during the fiscal period. Two uncommon terms are explained below.
+
+**Cultural properties (line 520)** are objects that the Canadian Cultural Property Export Review Board certifies as being of outstanding significance and national importance to Canada.
+
+For more information on gifts of cultural properties, go to [P113, Gifts and Income Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html).
+
+**Ecological properties (line 525)** are ecologically sensitive lands (including covenants, easements, or in the case of land in Quebec, real servitudes), that a federal minister of the environment, or a person designated by that minister, has certified as ecologically sensitive and whose conservation and protection is, in the minister’s opinion, important to the preservation of Canada’s environmental heritage.
+
+Under the Income Tax Act, if qualified recipients of ecological property dispose of it or change its use without authorization from the federal Minister of the Environment, they are subject to a tax equal to 50% of the ecological property’s fair market value on the day they disposed of it or changed its use. A charity subject to this tax has to fill out Form T913, Part XI.2 Tax Return – Tax for the Disposition of Certain Properties, and pay the tax within 90 days of the end of its fiscal period.
+
+To get this form, go to [canada.ca/cra-forms-publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html). You can also get a copy by calling 1-800-267-2384.
+
+**2** **– Line 580** – Report the total eligible amount of non-cash gifts for which official donation receipts were issued.
+
+### Schedule 6, Detailed financial information
+
+Fill out this schedule, instead of Section D, if **any** of the following applies to the charity:
+
+1. The charity’s gross revenue is **more** than $100,000.
+
+2. The amount of all property (for example, investments or rental properties) not used in charitable programs or administration is **more** than $25,000.
+
+3. The charity has permission to accumulate property during this fiscal period.
+
+**Line 4020** – Select the box that identifies the accounting method the charity uses.
+
+Financial information prepared on an accrual basis records revenue in the fiscal period in which the charity earned it, even if the charity receives the revenue after the end of the fiscal period. Similarly, the charity records an expenditure in the fiscal period that the charity incurred it, even if the charity pays this bill in the next period.
+
+Financial information prepared on a cash basis records only revenue or expenditures the charity received or paid during the fiscal period.
+
+#### Statement of financial position
+
+##### Assets
+
+**Line 4100** – Enter the total amount of cash the charity had at the end of the fiscal period. Include amounts on hand and in bank accounts. Include the value of all short-term investments with an original term to maturity not greater than one year, such as guaranteed term investment certificates, treasury bills, bonds, notes, and all other current investments. Also include the value of long-term investments that will mature within one year—for example, a five-year bond that is in its last year of being held. On this line, do **not** include investments with non-arm’s length persons.
+
+**Line 4101** – Enter the total amounts in cash and bank accounts included on line 4100.
+
+**Line 4102**– Enter the value of all short-term investments included on line 4100 with an original term to maturity not greater than one year.
+
+**Line 4110** – Enter the value of amounts owed to the charity by its founders, directors/trustees and like officials, employees, or members, or by any person or organization **not at arm’s length** to these individuals or to the charity. This includes loans, mortgages, or advances and interest receivable on these amounts. It also includes amounts receivable for goods and services bought or rented by persons that are not at arm’s length.
+
+For a definition of **arm’s length**, see our [online](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/charities-giving-glossary.html) glossary.
+
+**Line 4120** – Enter the value of amounts receivable from individuals or other organizations. Amounts receivable include funds owing from the sale of goods or services, and the current portion (the amount due during the fiscal period) of long-term investments such as loans and mortgages. Long-term investments are investments issued for a term greater than one year. Do not include any amounts already reported on line 4100 or amounts receivable from non-arm’s length persons or organizations.
+
+**Line 4130** – Enter the total amounts that the charity has invested with founders, directors/trustees and like officials, non-arm’s length employees or members, or any person or organization not at arm’s length to these individuals or to the charity. These amounts could include limited partnership investments, shares, and investments in related corporations that are Canadian or foreign. Do not include amounts already reported on line 4110.
+
+**Line 4140** – Enter the value of all long-term investments. Include the value of all investments that will mature in more than one year, such as the cash-surrender value of life insurance policies, stocks, bonds, notes, shares, debt, loans, mortgages, reserves of gold, diamonds and other precious metals and stones, and all other long-term investments.
+
+Do not include amounts receivable from non-arm’s length persons or organizations, or any amounts reported on lines 4120, 4130, or 4170. Restricted funds have to be reported on line 4170.
+
+**Line 4150** – Enter the value of inventories on hand at the end of the fiscal period and available for use in the charity’s activities or held for sale (for example, articles made by workers in a sheltered workshop, religious books or artifacts for sale, educational materials such as books in print or electronic form, or medication in a hospital dispensary). Include the fair market value of any donated items held as inventory. Do not include amounts reported on lines 4120 or 4170.
+
+For lines 4155, 4157, 4158, 4160, and 4165, a charity has to report its capital assets at their cost to the charity. However, if the charity receives a gift in kind, it has to use the fair market value **when the gift was made**. A charity has to also report its capital assets outside Canada at their cost to the charity or, if an asset was donated, at fair market value **when the gift was made**. Include the cost of major improvements needed for the charity to use the asset for its intended purpose.
+
+**Line 4155** – Enter the cost or fair market value (see note above) of all land and buildings in Canada.
+
+**Line 4157** – Enter the cost or fair market value of all land and buildings in Canada used for the charity’s charitable programs or administration.
+
+**Line 4158**– Enter the cost or fair market value of all land and buildings in Canada **not used**for the charity’s charitable programs or administration.
+
+**Line 4160** – Enter the cost or fair market value (see note above) of all other capital assets in Canada. These can include equipment, vehicles, furniture, and fixtures.
+
+**Line 4165** – Enter the cost or fair market value (see note above) of all capital assets outside Canada. These can include land, buildings, equipment, vehicles, furniture, and fixtures.
+
+**Line 4166** – Enter the accumulated amortization of capital assets. Accumulated amortization is the total amount of amortization expense that has been claimed against an asset or group of assets for the entire time of ownership. This amount offsets the value of the assets, and it should be negative.
+
+**If you are filing online**, enter a minus sign before a negative amount.
+
+**If you are filing a paper return**, use brackets to indicate a negative amount.
+
+If you are using the **fillable/saveable version of Form T3010** found on our website, enter a minus sign before a negative amount. The form will automatically show the negative amount in brackets.
+
+**Line 4170** – Enter the value of assets the charity has that do not fall under the previous categories. Include works of art and other valuables not considered inventory. On this line, include prepaid expenses (accrual basis only) and restricted funds.
+
+**Line 4190** – Enter the value of all impact investments including those reported in any other line. For the purposes of this guide, impact investments are investments in companies or projects with the **intention** of having a measurable positive environmental or social impact and generating a positive financial return.
+
+**Line 4200** – Enter the total of lines 4100 to 4170.
+
+**Line 4250** – Enter the total of any part of the amounts on lines 4150, 4155, 4160, 4165, and 4170 that the charity did not use in its charitable activities.
+
+##### Liabilities
+
+**Line 4300** – Enter the value of salaries and other amounts owing; the current (short-term) portion of long-term debt obligations such as loans, mortgages, and notes; and payments due for goods and services received. Also include any contributions, gifts, and grants payable for charitable activities. Do **not** include any amounts payable to non-arm’s length persons.
+
+For a definition of **arm’s length**, see our [online glossary](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/charities-giving-glossary.html).
+
+**Line 4310** – Enter the total of amounts received by the charity to pay for goods or services not yet supplied (accrual basis only).
+
+**Line 4320** – Enter the total of amounts (including advances, loans, notes, or mortgages) owing to non-arm’s length persons (including founders, directors/trustees, like officials, non-arm’s length employees or members, or to any person or organization not at arm’s length to these individuals). These also include amounts owing to such persons for goods and services received, any rent due for the use of property, and salaries payable.
+
+For a definition of **arm’s length**, see our [online glossary](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/charities-giving-glossary.html).
+
+**Line 4330** – Enter the total amount of all other liabilities not included above, such as an unused part of a government grant that the charity has to return, and long-term debt obligations such as loans, mortgages, and promissory notes.
+
+**Line 4350** – Enter the total of lines 4300 to 4330.
+
+Line 4200 does not have to balance with line 4350. A charity’s financial statements will often have a balancing account such as net assets, surplus, or deficit.
+
+#### Statement of operations
+
+Government rebates such as goods and services tax/harmonized sales tax (GST/HST) and provincial sales tax (PST) rebates should not be included in income if the related taxes have not been included as an expense.
+
+If the expenditures reported on lines 4800 through 4920 include GST/HST and PST, a charity has to report rebates received on line 4650.
+
+Pledges are considered revenue only in the fiscal period in which they are honoured.
+
+Except for line 4600, enter gross amounts the charity received. Do **not** deduct expenditures involved in earning the revenue.
+
+**Line 4500** – Enter the total eligible amount of gifts received by the charity during the fiscal period for which official donation receipts have been or will be issued. Amounts received through payroll deductions from employee charity trusts should also be reported on this line.
+
+Do not include gifts received from other Canadian registered charities on this line. Report those amounts on line 4510.
+
+**Line 5610** – Enter the total eligible amount of tuition fees included on line 4500 for which official donation receipts were issued. This amount represents tuition fees (or part of tuition fees) that the charity can acknowledge with an official donation receipt.
+
+For more information, go to [IC75-23, Tuition Fees and Charitable Donations Paid to Privately Supported Secular and Religious Schools](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic75-23.html).
+
+**Line 4510** – Enter the total amount received from other registered charities.
+
+Official donation receipts for income tax purposes should not be issued for amounts received from other registered charities.
+
+**Line 4530** – Enter the total amount of all other gifts for which official donation receipts were**not** issued. This amount should include gifts for which the charity did not issue official donation receipts because it could not identify the donor, such as anonymous gifts.
+
+This amount should exclude:
+
+- revenue from fundraising activities should be reported on line 4630
+
+- revenue from any level of government in Canada should be reported on 4570
+
+- revenue from sources outside Canada should be reported on line 4575
+
+**Line 4540** – Enter the total revenue received or earned from the federal government. This amount should include all revenue received from federal government grants, contributions, and contracts for goods and services supplied directly to the federal government or on its behalf.
+
+**Line 4550** – Enter the total revenue received or earned from provincial/territorial governments. This amount should include all revenue received from provincial or territorial government grants, contributions, and contracts for goods and services supplied directly to those governments or for their benefit.
+
+**Line 4560** – Enter the total revenue received or earned from municipal/regional governments. This amount should include all revenue received from municipal or regional government grants, contributions, and contracts for goods and services supplied directly to those governments or for their benefit.
+
+**Line 4571** – Enter the charity’s total amounts received from all sources outside Canada (both government and non-government) included on line 4500, for which official donation receipts have been or will be issued.
+
+**Line 4575** – Enter the charity’s total amounts received from all sources outside Canada (both government and non-government) for which official donation receipts were **not** issued.
+
+**Line 4576** – Enter the amount from line 4580 that represents the total interest and other income the charity received or earned from impact investments. For the definition of impact investments, see our online glossary.
+
+**Line 4577**– Enter the total amount from Line 4580 that represents the total amount of interest and investment income received from persons who do not deal at arm’s length with the charity. For the definition of arm’s length, see our online glossary.
+
+**Line 4580** – Enter the total interest and other investment income the charity received or earned during the fiscal period (for example, interest from bank accounts, mortgages, bonds, and loans; and dividends from shares). Include all investment income, whether or not the charity received an information slip for the amount, and whether or not the charity received the income from a non-arm’s length person or organization. Do **not** include capital gains or losses.
+
+Report all foreign investment income in Canadian dollars. Convert the amount at the exchange rate in effect on the day the charity received the income **or** the rate of exchange in effect at the end of the fiscal period (accrual basis only). Call your tax services office or your financial institution for the applicable exchange rates.
+
+You can also get exchange rates on the [Bank of Canada](http://www.bankofcanada.ca/) website.
+
+**Line 4590** – Enter the gross amount received or earned on disposition of assets.
+
+**Line 4600** – Enter the net gain or loss on disposition of assets, after removing any costs associated with the sale.
+
+Donated property used for a purpose other than a charitable purpose (for example, items gifted to a charity for auction) should be reported on this line.
+
+**If you are filing online**, enter a minus sign before a negative amount.
+
+**If you are filing a paper return**, use brackets to indicate a negative amount.
+
+**If you are using the** **fillable/saveable version of Form T3010** found on our website, enter a minus sign before a negative amount. The form will automatically show the negative amount in brackets.
+
+**Line 4610** – Enter the gross income received or earned by the charity from renting its land and buildings. Add all such rents, including those derived from property that the charity used for its charitable activities. For example, include:
+
+- rents from a seniors home the charity operated
+
+- income from leasing out surplus space such as in a church parking lot or a university residence
+
+When a charity earns rental income on property it does not use for charitable activities, it should give details on the property in the notes to its financial statements.
+
+Report any income the charity earned from leasing out equipment or other resources on line 4650, “Other revenue.”
+
+**Line 4620** – Enter the total revenue received or earned from memberships, dues, and association fees for which the charity did **not**issue official donation receipts.
+
+**Line 4630** – Enter the total gross amount of all revenue received or earned from fundraising activities for which official donation receipts were **not** issued, including the gross amounts from activities carried on by the charity (for example, collection boxes and loose collections) and by third party fundraisers. Revenue for which official donation receipts have been or will be issued should be reported as gifts on line 4500.
+
+**Line 4640** – Enter the gross revenue received or earned from the sale of all goods and services to individuals or organizations (except amounts reported on lines 4540, 4550, 4560, and 4630). This includes revenue from the sale of goods and services as part of the charity’s activities. Report revenue from the sale of goods and services to governments on lines 4540, 4550, and 4560. Report revenue from the sale of goods and services for fundraising on line 4630.
+
+**Line 4650** – Enter the total of all other revenue received or earned by the charity that is not already included in the amounts above. Include any goods and services tax/harmonized sales tax (GST/HST) and provincial sales tax (PST) rebates on this line, as well as income from the rental or leasing of any equipment or other resources.
+
+Government rebates such as GST/HST and PST rebates should not be included if the amount to be rebated has not been included as an expense.
+
+**Line 4655** – Specify the type(s) of revenue included in the amount reported on line 4650.
+
+**Line 4700** – Enter the total of lines 4500, 4510 to 4580, and 4600 to 4650.
+
+##### Expenditures
+
+The categories on Form T3010 may not correspond exactly to the categories used by a charity to record its expenditures. However, we need to know how much the charity spent per category on Form T3010 to determine if the charity meets its requirements under the Income Tax Act.
+
+The account categories on lines 4800 to 4920 represent common expenditure categories used in accounting systems to record expenditures. The total on line 4950 should represent all expenditures recorded by the charity, except qualifying disbursements through gifts to qualified donees or grants to non-qualified donees.
+
+**Line 4800** – Enter the total amount paid or incurred for advertising and promotion. Include on this line all amounts spent to draw attention to the charity and its activities, including advertising and promotion costs related to fundraising activities. Examples include meals and entertainment, seminars, presentation booths, publications, and postage for promotion or advertising of the charity. Report professional and consulting fees on line 4860.
+
+**Line 4810** – Enter the total amount paid or incurred for travel and vehicle expenses. Include travel and accommodation costs, vehicle costs such as gas, repairs, and upkeep; and lease payments.
+
+**Line 4820** – Enter the total amount paid or incurred in interest and bank charges such as the interest portion of mortgage payments.
+
+**Line 4830** – Enter the total amount paid or incurred for licences, memberships, and dues.
+
+**Line 4840** – Enter the total amount paid or incurred for office supplies and expenses. This includes, for example, postage, minor equipment purchases, meeting expenses (not including accommodation), and the cost of preparing and distributing annual reports. Do not include any amounts reported on line 4800.
+
+**Line 4850** – Enter the total amount paid or incurred for occupancy costs. This includes rent, mortgage payments (excluding interest, which is reported on line 4820), maintenance, repairs, utilities, taxes, and all other costs related to maintaining premises used by the charity. Report expenditures for investment assets on line 4920.
+
+**Line 4860** – Enter the total amount paid or incurred for professional and consulting services (for example, legal, accounting, or fundraising services).
+
+**Line 4870** – Enter the total amount paid or incurred for education and training of staff and volunteers. This includes the cost of courses, seminars, and conferences.
+
+**Line 4880** – Enter the total amount paid or incurred for all compensation to the charity’s employees. Transfer the amount reported on line 390 of Schedule 3, on line 4880.
+
+**Line 4890** – Enter the fair market value of all goods the charity received as donations and used in the charity's own activities (excluding qualifying disbursements through gifts to qualified donees or grants to non-qualified donees). This amount must also be reported on line 5000.
+
+Do not include assets that have been capitalized and for which you intend to report amortization on line 4900.
+
+**Line 4891** – Enter the cost of all supplies and assets bought in the fiscal period. Do not include assets that have been capitalized.
+
+**Line 4900** – Enter the amortization expense for the fiscal period for capitalized assets. Amortization is often referred to as depreciation. A charity that is amortizing assets used in charitable activities should also report this amount on line 5000. If the asset was donated and included on line 4890 at full value, do not include annual amortization on line 4900.
+
+**Line 4910** – Enter the amount the charity paid for research grants and scholarships, which were part of its own activities (excluding qualifying disbursements through gifts to qualified donees or grants to non-qualified donees).
+
+**Line 4920** – Enter the total of all other expenditures**not** included on lines 4800 to 4910 (excluding qualifying disbursements through gifts to qualified donees or grants to non-qualified donees). This line can include:
+
+- the costs of producing and selling goods and services the charity does not use, produce, or sell in its charitable work. Depending on the reason the goods and services are produced, also report this amount on line 5010 (administration), or 5020 (fundraising)
+
+- the premiums the charity paid to maintain life insurance policies that donors have given to the charity—also report this amount on line 5040
+
+- grants disbursed to the charity that have to be returned by the charity (accrual basis)—also report this amount on line 5040
+
+- the costs of rental property the charity does not use to carry out its charitable activities or administration—also report this amount on line 5020
+
+**Line 4930** – Specify the type(s) of expenditures included in the amount reported on line 4920, such as charitable expenditures not included above.
+
+**Line 4950** – Enter the total of lines 4800 to 4920.
+
+Lines 5000 to 5040 represent a breakdown of the expenditures on lines 4800 to 4920. Most expenditures should be entered on lines 5000 through 5020.
+
+**Line 5000** – Enter the part reported on line 4950 that represents all expenditures on charitable activities (excluding qualifying disbursements through gifts to qualified donees or grants to non-qualified donees). Examples include:
+
+- running the charity’s day-to-day programs
+
+- occupancy costs (such as rent, mortgage payments, hydro, repairs, and insurance) for buildings used to carry out charitable activities
+
+- most salaries
+
+- education and training for staff and volunteers
+
+**Line 5010** – Enter the part reported on line 4950 that represents management and administrative expenditures. These may include expenses related to:
+
+- holding meetings of the board of directors
+
+- accounting, auditing, personnel, and other administrative services
+
+- buying supplies and equipment, and paying occupancy costs for administrative offices
+
+- applying for grants or other types of government funding
+
+- applying for gifts from other qualified donees (usually foundations)
+
+Some expenditures can be considered partly charitable and partly management and administration, such as salaries and occupancy costs. In these cases, divide the amounts accordingly between lines 5000 and 5010.
+
+Also, some expenditures may be considered partly charitable and partly fundraising. In these cases, divide the amounts accordingly between lines 5000 and 5020. Allocate the expenditures reasonably and report them consistently on the return.
+
+**Line 5020** – Enter the part of the amount on line 4950 that represents fundraising expenditures. Enter the total expenses the charity paid out for fundraising activities, whether carried out by the charity or by third party fundraisers. Examples of fundraising expenditures are:
+
+- expenditures for fundraising activities, including salaries and overhead costs, promotional materials, campaign supplies, electronic data processing, and year-round office expenses directly related to fundraising
+
+- expenditures for promoting the charity and its activities to the community mainly for fundraising purposes
+
+- fees the charity paid to third party fundraising consultants or agencies (or amounts retained by them)
+
+- postage costs for direct mail canvassing
+
+For more information on acceptable fundraising expenditures, see [Guidance CG-013, Fundraising by registered charities](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/fundraising-registered-charities-guidance.html).
+
+**Line 5040** – Enter the part of the amount on line 4950 that represents expenditures for other activities (for example, a grant that has to be returned by the charity or premiums the charity paid to maintain life insurance policies that donors have given to the charity).
+
+If you do not know which line to use for an expenditure, call Client Service at 1-800-267-2384.
+
+**Line 5045**– Enter the total amount of all grants made to non-qualified donees (grantees) during the fiscal period. Include all cash and non-cash grants reported in Section C and Form T1441.
+
+**Line 5050** – Enter the total expenditures for all gifts to qualified donees, including designated gifts.
+
+**Line 5100** – Enter the total of lines 4950, 5045 and 5050.
+
+#### Other financial information
+
+##### Permission to accumulate property
+
+Only registered charities that have received written permission from us to accumulate property should fill in lines 5500 and 5510.
+
+For more information, go to [Accumulation of property](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/annual-spending-requirement-disbursement-quota/accumulation-property.html).
+
+**Line 5500** – Enter the amount accumulated this fiscal period, including income earned on accumulated funds.
+
+**Line 5510** – Enter the amount spent this fiscal period for the purpose for which we have given permission to accumulate property.
+
+##### Permission to reduce disbursement quota
+
+**Line 5750** – Enter the amount for which the charity has received our written approval to make a reduction to its disbursement quota for this fiscal period.
+
+For more information about the disbursement quota, including information about asking for permission for a disbursement quota reduction, go to[Annual spending requirement (disbursement quota)](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/annual-spending-requirement-disbursement-quota.html).
+
+#### Calculating the disbursement quota
+
+The disbursement quota is the minimum amount that a registered charity has to spend each year on charitable activities or on qualifying disbursements through gifts to qualified donees or grants to non-qualified donees (grantees).
+
+For more information on how to fill out line 5900 and line 5910 and calculate the disbursement quota, go to [Annual spending requirement (disbursement quota)](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/annual-spending-requirement-disbursement-quota.html).
+
+**Line 5900** – Enter the average value of property not used directly in charitable activities or administration during the 24 months before the **beginning**of the fiscal period. Base the value on the number of periods chosen by the charity.
+
+**Line 5910** – Enter the average value of property not used directly in charitable activities or administration during the 24 months before the **end** of the fiscal period. Base the value on the number of periods chosen by the charity.
+
+### Schedule 8, Disbursement Quota
+
+If you complete this section, you**must** answer **yes** to question C17.
+
+The disbursement quota is the minimum amount that a registered charity is required to spend each year on
+
+- its own charitable activities
+
+- qualifying disbursements through gifts to qualified donees or grants to non-qualified donees
+
+For property equal to or less than $1 million, the disbursement quota rate is 3.5%. On the portion of property exceeding $1 million, the disbursement quota rate is 5%.
+
+For the purposes of calculating the disbursement quota, property includes any capital property, investments, or other assets that were not used directly in charitable activities or administration. This may include cash in bank accounts, inventory, stocks, bonds, mutual funds, GICs, land, and buildings.
+
+For more information, go to [Annual spending requirement (disbursement quota)](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/annual-spending-requirement-disbursement-quota.html).
+
+**Step 1. Calculate the disbursement quota requirement for the current fiscal period**
+
+**Line 805**– Enter the amount reported on line 5900 in Schedule 6. Line 5900 is the average value of property not used directly in charitable activities or administration during the 24 months before the beginning of the fiscal period.
+
+**Line 810**– If the charity received the CRA’s permission to accumulate property **and** the approved period has not expired, enter the total amount accumulated minus the total amount spent. This is the total of all amounts reported on line 5500 minus the total of all amounts reported on line 5510 **for all the returns** to date covered by the permission to accumulate property period.
+
+**Line 815**– Enter the amount reported on line 805 minus the amount reported on line 810. If the difference is negative, enter 0.
+
+If the amount reported on line 815 is $1 million or less, **complete line 820**.
+
+**Line 820** – Enter the amount reported on line 815 multiplied by 3.5%.
+
+If the amount reported on line 815 is more than $1 million, **complete lines 825, 830, and 835**.
+
+**Line 825**– Enter the amount reported on line 815 minus $1 million.
+
+**Line 830**– Enter the amount reported on line 825 multiplied by 5%.
+
+**Line 835**– Enter the amount reported on line 830 plus $35,000.
+
+**Line 840** – Enter the amount reported on line 820 or line 835. This is your charity’s disbursement quota for the current fiscal period.
+
+**Line 845** – Enter the amount reported on line 5000 in Section D or Schedule 6. Line 5000 is the total expenditures on charitable activities.
+
+**Line 850** – Enter the amount reported on line 5045 in Section D or Schedule 6. Line 5045 is the total amount of grants made to all non-qualified donees.
+
+**Line 855**– Enter the amount reported on line 5050 in section D or Schedule 6. Line 5050 is the total amount of gifts made to all qualified donees.
+
+**Line 860** – Enter the total of lines 845, 850, and 855.
+
+**Line 865**– Enter the amount reported on line 860 minus the amount reported on line 840. This is your charity’s disbursement quota excess or shortfall for the current fiscal period.
+
+If a shortfall exists (line 865 is a negative amount), your charity can draw on disbursement excesses from the five previous fiscal periods to help it meet its shortfall. If no excesses are available to draw on, your charity can try to spend enough the following year to create an excess that it can carry back to cover the shortfall. For more information, go to [Annual spending requirement (disbursement quota)](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/annual-spending-requirement-disbursement-quota.html).
+
+**Step 2. Estimate the disbursement quota requirement for the next fiscal period**
+
+**Line 870** – Enter the amount reported on line 5910 in Schedule 6. Line 5910 is the average value of property not used directly in charitable activities or administration during the 24 months before the end of the fiscal period.
+
+If the amount reported on line 870 is $1 million or less, **complete line 875**.
+
+**Line 875** – Enter the amount reported on line 870 multiplied by 3.5%.
+
+If the amount reported on line 870 is more than $1 million, **complete lines 880, 885, and 890**.
+
+**Line 880** – Enter the amount reported on line 870 minus $1 million.
+
+**Line 885** – Enter the amount reported on line 880 multiplied by 5%.
+
+**Line 890** – Enter the amount reported on line 885 plus $35,000.
+
+The amount shown on line 875 or line 890 is your charity’s estimated disbursement quota requirement for the next fiscal period.
+
+## Completing Form T1441, Qualifying Disbursements: Grants to Non-Qualified Donees (Grantees)
+
+If you complete this section, you **must** answer **yes**on line 5841 of question C16 of your Form T3010, Registered Charity Information Return.
+
+At the top of the form, enter the number of grantees that received grants totalling more than $5,000 during the fiscal period.
+
+Fill in the information on the form for each individual grant made by the charity for the fiscal period.
+
+If your charity made several grants to the same grantee, repeat the name of the grantee as many times as needed and **report each grant individually**.
+
+Include all grant resources that your charity disbursed during this fiscal period, even if the grant activities are not yet completed.
+
+**Name of grantee:** Enter the full name of the non-qualified donee (grantee) that received a grant.
+
+**Purpose of grant:** Describe concisely the purpose of each grant.
+
+Examples of how to fill out this portion of the form in a way that reflects your charitable purpose:
+
+- To provide disaster relief following Hurricane Matilda
+
+- To pay for teachers' salaries
+
+- To purchase equipment and material for a new medical centre
+
+- To provide funds for refugee aid
+
+**Amount of non-cash disbursements:**Enter the amount of all non-cash disbursements made to the grantee. Amounts must be the fair market value of the resources in Canadian dollars. Examples of non-cash resources include property, such as land, artwork, equipment, and pharmaceuticals. For more information on fair market value, go to [Determining fair market value of non-cash gifts](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/issuing-receipts/determining-fair-market-value-gifts-kind-non-cash-gifts.html).
+
+**Amount of cash disbursements:** Enter the amount of all cash disbursements made to the grantee. Report all amounts in Canadian dollars valued at the time of the expenditure.
+
+**Country where grant activities are carried on:** If outside Canada, enter each country code and country where the grant activities are carried on. See the list of country codes below. For example, for grant activities carried on in Spain, enter “ES-Spain.” If the grant activities for a single grant take place in more than one country, enter the country codes and countries in alphabetical order, separated by a comma. For example, for grant activities carried on in both Syria and Turkey, enter: "SY-Syrian Arab Republic, TR-Turkey."
+
+| AF-Afghanistan | AL-Albania | DZ-Algeria | AO-Angola |
+
+| --- | --- | --- | --- |
+
+| AR-Argentina | AM-Armenia | AZ-Azerbaijan | BD-Bangladesh |
+
+| BY-Belarus | BT-Bhutan | BO-Bolivia | BA-Bosnia and Herzegovina |
+
+| BW-Botswana | BR-Brazil | BN-Brunei Darussalam | BG-Bulgaria |
+
+| BI-Burundi | KH-Cambodia | CM-Cameroon | CF-Central African Republic |
+
+| TD-Chad | CL-Chile | CN-China | CO-Colombia |
+
+| KM-Comoros | CD-Democratic Republic of Congo | CG-Republic of Congo | CR-Costa Rica |
+
+| CI-Côte d’Ivoire | HR-Croatia | CU-Cuba | CY-Cyprus |
+
+| DK-Denmark | DO-Dominican Republic | EC-Ecuador | EG-Egypt |
+
+| SV-El Salvador | ET-Ethiopia | FR-France | GA-Gabon |
+
+| GM-Gambia | GE-Georgia | DE-Germany | GH-Ghana |
+
+| GT-Guatemala | GY-Guyana | HT-Haiti | HN-Honduras |
+
+| IN-India | ID-Indonesia | IR-Iran | IQ-Iraq |
+
+| IL-Israel | PS-Israeli Occupied Territories | IT-Italy | JM-Jamaica |
+
+| JP-Japan | JO-Jordan | KZ-Kazakhstan | KE-Kenya |
+
+| KP-North Korea | KR-South Korea | KW-Kuwait | KG-Kyrgyzstan |
+
+| LA-Laos | LB-Lebanon | LR-Liberia | MK-Macedonia |
+
+| MG-Madagascar | MY-Malaysia | ML-Mali | MU-Mauritius |
+
+| MX-Mexico | MN-Mongolia | ME-Montenegro | MZ-Mozambique |
+
+| MM-Myanmar (Burma) | NA-Namibia | NL-Netherlands | NI-Nicaragua |
+
+| NE-Niger | NG-Nigeria | OM-Oman | PK-Pakistan |
+
+| PA-Panama | PE-Peru | PH-Philippines | PL-Poland |
+
+| QA-Qatar | RE-Réunion | RO-Romania | RU-Russia |
+
+| RW-Rwanda | SA-Saudi Arabia | RS-Serbia | SL-Sierra Leone |
+
+| SG-Singapore | SO-Somalia | ES-Spain | LK-Sri Lanka |
+
+| SD-Sudan | SY-Syrian Arab Republic | TJ-Tajikistan | TZ-United Republic of Tanzania |
+
+| TH-Thailand | TL-Timor-Leste | TR-Turkey | UG-Uganda |
+
+| UA-Ukraine | GB-United Kingdom | US-United States of America | UY-Uruguay |
+
+| UZ-Uzbekistan | VE-Venezuela | VN-Vietnam | YE-Yemen |
+
+| ZM-Zambia | ZW-Zimbabwe |  |  |
+
+Use the following codes for countries not listed above:
+
+QS-Other countries in Africa
+
+QR-Other countries in Asia and Oceania
+
+QM-Other countries in Central and South America
+
+QP-Other countries in Europe
+
+QO-Other countries in the Middle East
+
+QN-Other countries in North America
+
+## After you send your completed information return
+
+### Confirmation of Annual Information Return Filing
+
+You will receive a Confirmation of Annual Information Return Filing either through the My Business Account portal or by mail.
+
+To confirm that we have posted the correct information, go to [canada.ca/charities-list](https://apps.cra-arc.gc.ca/ebci/hacc/srch/pub/dsplyBscSrch?request_locale=en).
+
+### How do I adjust an information return?
+
+If you need to change information in your charity’s information return after you have filed it, complete Form T1240, Registered Charity Adjustment Request, then log in to My Business Account and submit the form through “Adjust a return.” Alternatively, you can mail it to the address on the form, or fax it to us at 613-957-8925.
+
+**Keep a copy for the charity’s records.**
+
+## Need more information?
+
+### Website
+
+For more information about registered charities and their obligations under the Act, go to [canada.ca/charities-giving](https://www.canada.ca/en/services/taxes/charities.html).
+
+### Phone numbers
+
+If you need more information on a topic, you can reach the Charities Directorate by calling:
+
+- 1-800-267-2384
+
+- 1-800-665-0354 (TTY service for persons with a hearing or speech impairment)
+
+## Your opinion counts!
+
+We review our publications every year. If you have any comments or suggestions that would help us improve this guide, we would like to hear from you. You can email your comments and suggestions to:
+
+[charities-bienfaisance@cra.gc.ca](mailto:charities-bienfaisance@cra.gc.ca).
+
+You can also send your comments and suggestions to:
+
+Charities Directorate Canada Revenue Agency Ottawa ON K1A 0L5

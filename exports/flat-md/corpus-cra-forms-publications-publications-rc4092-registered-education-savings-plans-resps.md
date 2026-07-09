@@ -1,0 +1,1036 @@
+---
+title: "Registered Education Savings Plans (RESPs)"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4092/registered-education-savings-plans-resps.html
+last_modified: 2026-02-03
+---
+# Registered Education Savings Plans (RESPs)
+
+RC4092(E) Rev. 25
+
+The CRA's publications and personalized correspondence are available in braille, large print, e-text, and MP3. For more information, go to [Order alternate formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html).
+
+## Find out if this guide is for you
+
+Use this guide if you want information about the registered education savings plans (RESPs). This guide has information which is not in the income tax and benefit package and which you may need to fill out your income tax and benefit return. We have included definitions for some of the terms used in this guide in the [Definitions](#dfntns) sections. You may want to read this section before you start.
+
+La version française de ce guide est intitulée Les régimes enregistrés d’épargne–études (REEE).
+
+Unless otherwise stated, all legislative references are to the *[Income Tax Act](https://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html)*or, where appropriate, the *[Income Tax Regulations](https://laws.justice.gc.ca/eng/regulations/C.R.C.,_c._945/index.html)*.
+
+## Table of content
+
+- [Definitions](#dfntns)
+
+- [What is a Registered Education Savings Plan](#P9_59)
+
+- [Specified plan](#P121_5412547)
+
+- [Government Grants](#Gov_grants)
+
+    - [Canada Education Savings Grant (CESG)](#cnd_grant)
+
+    - [Canada Learning Bond](#cnd_bond)
+
+    - [Quebec Education Savings Incentive (QESI)](#qesi)
+
+    - [B.C. Training and Education Savings Grant Program (BCTESG)](#bctesg)
+
+- [Who can be a subscriber](#P14_1109)
+
+- [Designating a beneficiary](#P22_2654)
+
+- [RESP contributions](#P36_4823)
+
+    - [RESP contribution limits](#P52_7449)
+
+    - [Tax on RESP excess contributions](#P55_7886)
+
+    - [Waiver or cancellation of liability](#wvr_lblt)
+
+- [Payments from an RESP](#P212_12714)
+
+- [Refund of contributions to the subscriber or the beneficiary](#P218_13069)
+
+- [Educational Assistance Payments](#P221_13631)
+
+    - [Limit on EAPs](#limit_eaps)
+
+- [Accumulated income payments](#P233_16720)
+
+    - [How AIPs are taxed](#aip_taxed)
+
+- [Special rules](#P204_11005)
+
+    - [Changing the beneficiary](#changing_bene)
+
+- [Transferring RESP property to another RESP](#Transfer_RESP)
+
+- [Rolling over RESP property on a tax deferred basis to an RDSP](#transferRESPTaxDeferred)
+
+- [Anti-Avoidance Rules for RESP](#nti-avoidances)
+
+    - [Tax payable on prohibited investments](#tax_prohibited)
+
+    - [Tax payable on non-qualified investments](#tax_prohibited_nonqualified)
+
+    - [Refund of taxes paid on non–qualified or prohibited investments](#refund_prohibited_nonqualified)
+
+- [How to claim a refund](#how_refund)
+
+- [Obligations of the RESP promoter](#obligations_promoter)
+
+- [Tax treatment of RESPs](#changes_tax_treatment)
+
+- [Tax payable on an advantage](#tax_advantage)
+
+    - [Waiver or cancellation of tax](#waiver_cancellation)
+
+- [Digital services](#nln_srvcs)
+
+    - [Digital services for individuals](#individuals)
+
+    - [My Account](#myaccount)
+
+          - [Profile](#Profile)
+
+          - [Tax returns](#Tax_return)
+
+          - [Accounts and payments](#Account_Payment)
+
+          - [Benefits and credits](#Benefits)
+
+          - [Savings and pension plans](#Regis_Plans)
+
+          - [Correspondence](#Correspondence)
+
+          - [Additional digital services](#Add_Services)
+
+          - [Receive your CRA mail online](#receiving_mail_online)
+
+          - [Access My Account](#Access_My_Acc)
+
+    - [Electronic payments](#epayments)
+
+- [Related forms and publications](#r_forms)
+
+    - [Forms](#forms)
+
+    - [Information Circular](#information_circ)
+
+    - [Income Tax Folios](#income_tax_folio)
+
+- [For more information](#appendix)
+
+    - [If you need help](#needhelp)
+
+    - [Direct deposit](#Direct_deposit)
+
+    - [Forms and publications](#formspub)
+
+    - [Electronic mailing lists](#ltncs_mailists)
+
+    - [Teletypewriter (TTY) and Video relay Services (VRS) users](#tty)
+
+    - [CRA Service Feedback Program](#feedback)
+
+          - [Service complaints](#complaints)
+
+          - [Reprisal complaints](#reprisal_comp)
+
+    - [Due dates](#due_dates)
+
+    - [Cancel or waive penalties and interest](#cancel_penalties_interest)
+
+          - [Penalties](#Penalties)
+
+          - [Interest on a balance owing](#Interest_Bal)
+
+## Definitions
+
+This section provides a general definition of the technical terms that we use in this guide.
+
+**Advantage** – any benefit, or debt that is conditional on the existence of the RESP, subject to certain exceptions for normal investment activities and conventional incentive programs.
+
+An advantage also includes any benefit that is an increase in the total fair market value (FMV) of the property of the RESP that is reasonably attributable to **any one** of the following:
+
+- a transaction or event (or series) that would not have occurred in a normal commercial or investment context between arm's length parties acting prudently, knowledgeably, and willingly, and one of the main purposes of which is to benefit from the tax-exempt status of the RESP
+
+- a payment received in substitution for a payment for services rendered by the subscriber (or non-arm’s length person) or for a return on investment on non-registered property
+
+- **a swap transaction**
+
+- specified non-qualified investment income that has not been paid from the RESP within 90 days of the subscriber receiving a notice from CRA requiring removal
+
+An advantage also includes a registered plan strip or any benefit that is income or a capital gain that is reasonably attributable to **one** of the following:
+
+- a prohibited investment
+
+- an artificial diversion of an amount away from the RESP
+
+For more information on advantages, refer to [Income Tax Folio S3–F10–C3, *Advantages-RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html).
+
+**Adjusted family net income**– this is your family net income minus any Canada child benefit and registered education savings plan (RESP) income received plus any Canada child benefit and RESP amounts repaid.
+
+**Arm’s length** – refers to a relationship or a transaction between unrelated persons who act in their separate interests. An arm’s length transaction is generally a transaction that reflects ordinary commercial dealings between parties acting in their separate interests.
+
+For more information, refer to [Income Tax folio S1–F5–C1, *Related Person and Dealing at Arm's Length*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html).
+
+**Common law partner** – a person who is not your spouse, with whom you are living in a conjugal relationship, and to whom at least one of the following situations applies. The person:
+
+- has been living with you in a conjugal relationship, and this current relationship has lasted for at least 12 continuous months
+
+In this definition, "12 continuous months" includes any period that you were separated for less than 90 days because of a breakdown in the relationship.
+
+- is the parent of your child by birth or adoption
+
+- has custody and control of your child (or had custody and control immediately before the child turned 19 years of age) and your child is wholly dependent on that person for support
+
+**Fair market value** **(FMV)** – is generally considered to mean the highest price expressed in terms of money that can be obtained in an open and unrestricted market between informed and prudent parties, who are dealing at arm's length and under no compulsion to buy or sell. For information on the valuation of securities of closely held corporations, refer to [Information Circular IC89–3, *Policy Statement on Business Equity Valuations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic89-3.html).
+
+**Non-arm’slength**– generally refers to a relationship or transaction between persons who are related to each other. However, a non-arm’s length relationship might also exist between unrelated individuals, partnerships or corporations, depending on the circumstances.
+
+For more information, refer to the definition of [Arm's length](#arm_lenth).
+
+**Non-qualified investment**– any property that is not a qualified investment for the RESP trust. For more information on non-qualified investments, refer to [Income Tax Folio S3–F10–C1, *Qualified Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*.](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html)
+
+**Prohibited investments**– this is property to which the RESP subscriber is closely connected. It includes any of the following:
+
+- a debt of the subscriber
+
+- debt or share of, or an interest in, a corporation, trust, or partnership in which the subscriber has a significant interest (generally a 10% or greater interest, taking into account non-arm's length holdings)
+
+- a debt or share of, or an interest in, a corporation, trust, or partnership with which the subscriber, does not deal at arm's length
+
+A prohibited investment does not include a mortgage loan that is insured by the [Canada Mortgage and Housing Corporation](https://www.cmhc-schl.gc.ca/) or by an approved private insurer. It also does not include certain investment funds and certain widely held investments which reflect a low risk of self-dealing.
+
+For more information on prohibited investments, refer to [Income Tax Folio S3–F10–C2, *Prohibited Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html).
+
+**Qualified investment** – an investment in properties (except real property), including money, guaranteed investment certificates, Canada savings bonds and provincial savings bonds, mutual funds, and most securities listed on a designated stock exchange. The types of investments that qualify for RESPs are generally similar to those that qualify for RRSPs.
+
+For more information on qualified investments, refer to [Income Tax Folio S3-F10-C1, *Qualified Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html).
+
+**Registered education savings plan** **(RESP)** – a registered contract between an individual (the subscriber), the Minister designated for the purposes off the *Canada Educational Savings Grant Act*, and a person (the promoter). The subscriber generally makes contributions to the RESP, which earns income, paid in the form of educational assistance payments to one or more identified beneficiaries.
+
+**Registered disability savings plan (RDSP)** – a trust arrangement between an individual or entity and a trust company in Canada (the issuer) that the CRA registers and that provides for the long-term financial security of a beneficiary who has a prolonged and severe mental or physical impairment.
+
+**Registered plan strip** – the amount of a reduction in the FMV of property of the RESP, if the value is reduced as part of a transaction or event (or series) for which one of the main purposes is to enable the subscriber (or non-arm’s length person) to obtain a benefit in respect of the property of the RESP or to obtain a benefit as a result of the reduction. Exceptions are provided for plan distributions that are included in income, or specifically excluded from income (such as a tax-deferred transfer between plans).
+
+For more information on a registered plan strip, refer to [Income Tax Folio S3–F10–C3, *Advantages – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html).
+
+**Related persons** – are not considered to deal with each other at arm's length. Related persons include individuals connected by blood relationship, marriage, common-law partnership, or adoption (legal or in fact). A corporation and another person or two corporations may also be related persons.
+
+For more information, refer to [Income Tax Folio S1-F5-C1, *Related Persons and Dealing at Arm's Length*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html).
+
+**Specified non-qualified investment income** – any income (excluding the dividend gross-up), or a capital gain that is reasonably attributable, directly or indirectly, to an amount that is taxable for any RESP of the subscriber (for example, subsequent generation income earned on non-qualified investment income).
+
+**Spouse** – a person to whom you are legally married.
+
+**Swap transaction** – any transfer of property between the RESP and its subscriber (or non-arm's length person). Exceptions are provided for contributions to and distributions from the RESP, purchase and sale transactions between the RESP and another RESP of the subscriber, and transactions relating to insured mortgages.
+
+For more information on swap transactions and applicable transitional rules, refer to [Income Tax Folio S3–F10–C3, *Advantages – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html).
+
+**Unrelated persons** – may not be dealing with each other at arm's length at a particular time. Each case will depend upon its own facts. The following criteria will generally be used to determine if the parties to a transaction are not dealing at arm's length:
+
+- whether there is a common mind that directs the bargaining for the parties to a transaction
+
+- whether the parties to a transaction act in concert without separate interests; ("acting in concert" means, for example, that parties act with considerable interdependence on a transaction of common interest)
+
+- whether there is de facto control of one party by the other because of, for example, advantage, authority, or influence
+
+For more information, refer to [Income Tax Folio S1-F5-C1, *Related Persons and Dealing at Arm's Length*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html).
+
+## What is a Registered Education Savings Plan
+
+A registered education savings plan (RESP) is a contract between an individual (the **subscriber**) and a person (the **promoter**).
+
+Under the contract, the subscriber names one or more **beneficiaries** (the future student(s)) and agrees to make contributions for them, and the promoter agrees to pay educational assistance payments (EAPs) to the beneficiaries.
+
+**Family plans** are the only RESP that allow subscribers to name more than one beneficiary. Each beneficiary must be connected by blood relationship or adoption to each living subscriber or have been so tied to a deceased original subscriber.
+
+The Canada Revenue Agency (CRA) registers the education savings plan contract as an RESP, and lifetime limits are set by the *[Income Tax Act](https://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html)*on the amount that can be contributed for each beneficiary (refer to [RESP contribution limits](#P52_7449)). Unless the RESP is a specified plan, the RESP must provide that no contributions (except transfers from another RESP) may be made to the plan at any time after the end of the year that includes the **31st** anniversary of the opening of the plan. Furthermore, the plan has to be completed by the end of the year that includes the **35th** anniversary of the opening of the plan.
+
+The **subscriber** (a person acting for the subscriber or the Minister designated for the purposes of the *Canada Educational Savings Act*, if that Minister entered into the plan with a promoter) generally makes contributions to the RESP. Subscribers cannot deduct their contributions from their income on their income tax and benefit return.
+
+The **promoter** usually pays the contributions, and the income earned on those contributions, to the beneficiaries. The income earned is paid as EAPs.
+
+For more information on EAPs, refer to [Educational assistance payments](#P221_13631).
+
+If the contributions are not paid out to the beneficiary, the promoter usually pays them to the subscriber at the end of the contract. Subscribers do not have to include the contributions in their income when they get them back.
+
+**Beneficiaries** generally receive the contributions and the EAPs from the promoter. They have to include the EAPs in their income for the year in which they receive them. However, they do not have to include the contributions they receive in their income.
+
+## Specified plan
+
+A specified plan is essentially a single beneficiary RESP (non-family plan) under which the beneficiary is entitled to the disability tax credit for the beneficiary's tax year that includes the **31st**anniversary of the plan. Furthermore, a specified plan cannot permit another individual to be designated as a beneficiary under the RESP at any time after the end of the year that includes the **35th** anniversary of the plan.
+
+In addition, no contributions (except transfers from another RESP) may be made to the plan at any time after the end of the year that includes the **35th** anniversary of the plan, and the plan must be completed by the end of the year that includes the **40th** anniversary of the plan.
+
+## Government Grants
+
+### Canada Education Savings Grant
+
+The Government of Canada encourages the use of registered education savings plans (RESPs) to save for a child’s post-secondary education, which includes full or part-time studies at a trade school, CEGEP, college, university, or in an apprenticeship program.
+
+[Employment and Social Development Canada (ESDC)](https://www.canada.ca/en/employment-social-development.html) administers two education savings incentives linked to RESPs, the Canada Education Savings Grant and the Canada Learning Bond.
+
+The Canada Education Savings Grant (CESG) consists of a basic grant of 20% on the first $2,500 in annual personal contributions to an RESP (this grant is available to all eligible children regardless of their adjusted family net income), as well as the additional amount of CESG, which is:
+
+- 10% on the first $500 of annual personal contributions for children from families with an adjusted family net income between $57,375 and $114,750
+
+- 20% on the first $500 of annual personal contributions for children from families with an adjusted family net income of $57,375 or less
+
+The adjusted family net income levels are subject to annual indexing for inflation.
+
+The CESG is available until the calendar year in which the beneficiary turns 17, and the maximum lifetime amount, including the additional amount of CESG, is $7,200.
+
+The following chart gives you a brief overview of how the CESG is calculated depending on the adjusted family net income:
+
+| Adjusted family net income for 2025 | less than $57,375 | between $57,375 and $114,750 | more than $114,750 |
+
+| --- | --- | --- | --- |
+
+| Additional amount of CESG on the first $500 of annual RESP contributions | 20% = $100 | 10% = $50 | Beneficiary is not eligible |
+
+| Basic CESG on the first $2,500 of annual RESP contributions | 20% = $500 | 20% = $500 | 20% = $500 |
+
+| Maximum yearly CESG depending on income and contributions | $600 | $550 | $500 |
+
+| Lifetime maximum CESG for which you may qualify | $7,200 | $7,200 | $7,200 |
+
+Every child under age 18 who is a resident of Canada will accumulate $400 (for 1998 to 2006) and $500 (from 2007 and subsequent years) of unused CESG room. Unused CESG room is carried forward and used when RESP personal contributions are made in future years provided that the specific contribution requirements for beneficiaries who attain 16 or 17 years of age are met.
+
+Beneficiaries qualify for a grant on the contributions made on their behalf up to the end of the calendar year in which they turn 17 years of age.
+
+However, since the CESG has been designed to encourage long term savings for post-secondary education, there are specific contribution requirements for beneficiaries who attain 16 or 17 years of age. Beneficiaries who are 16 or 17 years old may be eligible to receive the CESG if at least **one** of the following two conditions is met:
+
+- a minimum of $2,000 was contributed to (and not withdrawn from) the RESP of the child before the end of the calendar year the beneficiary turned 15
+
+- a minimum annual contribution of $100 was made to (and not withdrawn from) the RESP in at least four of the years before the end of the calendar year the beneficiary turned 15
+
+This means that you must start to save in RESPs for your child before the end of the calendar year in which your child turns 15 years of age in order for your child to be eligible to receive the CESG.
+
+The CESG and accumulated earnings will be part of the EAPs paid out of the RESP to the beneficiary.
+
+If the beneficiary does not pursue post-secondary education, the CESG is returned to the government.
+
+### Canada Learning Bond
+
+[Employment and Social Development Canada (ESDC)](https://www.canada.ca/en/employment-social-development.html) provides an additional incentive of up to $2,000 to help low-income families start saving early for their child's education after high school (post-secondary education).
+
+The Canada Learning Bond (CLB) money will be deposited directly into the child's RESP.
+
+The CLB is available for eligible children from low-income families born in 2004 or later and provides an initial payment of $500 for the first year the child is eligible, plus $100 for each additional year of eligibility, up to age 15, for a maximum of $2,000. Personal contributions are not required to receive the CLB. To help cover the cost of opening an RESP, ESDC will pay $25 into the RESP to which the initial CLB of $500 is deposited in recognition of a one-time incidental expense that may be associated with opening the RESP account.
+
+Children who are in care of a public primary caregiver for whom a special allowance under the *[Children's Special Allowance Act](https://laws-lois.justice.gc.ca/eng/acts/C-28.5/)*is paid, are also entitled to the CLB.
+
+Youth who meet the minimum age requirement to open an RESP in their province of residence can be their own subscriber of an RESP and request the CLB for themselves.
+
+The beneficiary must be under the age of 21 at the time of application.
+
+If the beneficiary does not pursue post-secondary education, the CLB is returned to the government.
+
+For more information on the CLB, call **1-800-O-CANADA (1-800-622-6232)**.
+
+### Quebec Education Savings Incentive (QESI)
+
+The Quebec education savings incentive (QESI) is a tax measure that encourages Quebec families to start saving early for the education of their children and grandchildren.
+
+The incentive, which came into effect on February 21, 2007, consists of a refundable tax credit that is paid directly into an RESP opened with an RESP promoter that offers the QESI.
+
+For the credit to be paid to your account, the trustee designated by your RESP promoter must apply for it with [Revenu Quebec](https://www.revenuquebec.ca/en/).
+
+If you wish to open an RESP, you may contact an RESP promoter that offers the QESI, such as any of the following:
+
+- a financial institution
+
+- a group plan dealer
+
+- a financial service provider
+
+For more information, refer to[Revenu Quebec](https://www.revenuquebec.ca/en/) or call Service Quebec at **1-800-267-6299**.
+
+### B.C. Training and Education Savings Grant Program (BCTESG)
+
+Families in British Columbia are encouraged to start planning and saving early for their children's post-secondary education or training program. To help, the B.C. Government will contribute a grant of $1,200 to eligible children through the BCTESG.
+
+To be eligible for the BCTESG, a child must meet the following three criteria:
+
+- the child was born in 2006 or later
+
+- at the time of application, the child and a parent/guardian of the child are residents of British Columbia
+
+- at the time of application, the child is the beneficiary of an RESP with a participating financial institution
+
+Children are eligible for the BCTESG on their sixth birthday up until the day before their ninth birthday.
+
+For more information, refer to [Province of British Columbia](https://www2.gov.bc.ca/gov/content/home) or call the Canada Education Savings Program at **1-888-276-3624**.
+
+## Who can be a subscriber
+
+Except for family plans, generally, there are no restrictions on who can be the **original subscriber** under an RESP:
+
+- divorced or separated individuals who are both legal parents can jointly open RESPs for one or more of their children, or move an existing joint RESP to another promoter
+
+- if you are both legal parents of the beneficiary, you and your former spouse or common-law partner can be joint subscribers under an RESP
+
+- you and your spouse or common-law partner, as defined in our guides, can be joint original subscribers under an RESP
+
+- a public primary caregiver of a beneficiary under an RESP may also be an original subscriber. A public primary caregiver is one who receives a special allowance under the *[Children's Special Allowances Act](http://laws-lois.justice.gc.ca/eng/acts/C-28.5/)*and may be either of the following:
+
+    - the department, agency, or institution that cares for the beneficiary
+
+    - the public trustee or public curator of the province in which the beneficiary resides
+
+If you are not the original subscriber, you can become a subscriber only if one of the following situations applies:
+
+- you are a spouse or common-law partner, or ex-spouse or former common-law partner, of a subscriber and you get the subscriber's rights under the RESP as a result of a court order or written agreement for dividing property after a breakdown of the relationship
+
+- you are another individual or another public primary caregiver who has, under a written agreement, acquired a public primary caregiver's rights as a subscriber under the RESP
+
+- you acquired the subscriber's rights under the RESP, or you continue to make contributions into the RESP for the beneficiary, after the death of a subscriber under the RESP
+
+- you are the deceased subscriber's estate that acquired the subscriber's rights under the RESP, or that continues to make contributions into the RESP for the beneficiary, after the death of a subscriber under the RESP
+
+- you are a subscriber who has, under a written agreement, acquired a public primary caregiver's rights as a subscriber under the plan
+
+All subscribers under an RESP have to give their social insurance number (SIN) to the promoter before CRA can register the RESP. Where the subscriber is a public primary caregiver, we request that they provide the promoter with their business number.
+
+## Designating a beneficiary
+
+You can designate an individual as a beneficiary under the RESP only if both of the following conditions are met:
+
+- the individual's SIN is given to the promoter before the designation is made
+
+- the individual is a resident of Canada when the designation is made
+
+An education savings plan may permit a non-resident individual who does not have a SIN to be designated as a beneficiary under the plan provided that the designation is being made in conjunction with a transfer of property into the plan from another RESP that was entered into before 1999 and under which the individual was a beneficiary immediately before the transfer.
+
+A beneficiary under a family plan entered into after 1998, must be less than **21**years of age at the time they are named as a beneficiary. When one family plan is transferred to another, a beneficiary who is **21**years of age or older can still be named a beneficiary to the new RESP.
+
+## RESP contributions
+
+You will be able to make contributions for a beneficiary only if one of the following two conditions is met:
+
+- the beneficiary's SIN is given to the promoter before the contribution is made and the beneficiary is a resident of Canada
+
+- the contribution is made by way of a transfer from another RESP under which the individual was a beneficiary immediately before the transfer
+
+If the plan was entered into before 1999, the beneficiary's SIN will not be required. However, such contributions will continue to be ineligible for the CESG.
+
+Generally, you can contribute to family plans for beneficiaries who are under **31** years of age at the time of the contribution. However, transfers can be made from another family plan even if one or more of the beneficiaries are **31** years of age or older at the time of the transfer.
+
+RESP contracts can take advantage of the new age limit as long as the specimen plan under which the contract is held is amended. The amendment must be applicable for 2008 and subsequent taxation years.
+
+RESP contributions **cannot** be deducted from your income. In addition, you **cannot** deduct the interest you paid on money you borrowed to contribute to an RESP.
+
+## RESP contribution limits
+
+**For 2007 and later years**, there is no annual limit for contributions to RESPs, however, the lifetime limit on the amounts that can be contributed to all RESPs for a beneficiary is $50,000.
+
+Payments made to an RESP under the *[Canada Education Savings Act](http://laws-lois.justice.gc.ca/eng/acts/C-3.6/)*or under a designated provincial program are not included when determining if the lifetime limit has been exceeded.
+
+## Tax on RESP excess contributions
+
+An excess contribution occurs at the end of a month when the total of all contributions made by **all** subscribers to all RESPs for a beneficiary is more than the lifetime limit for that beneficiary. We do not include payments made to an RESP under the *[Canada Education Savings Act](https://laws-lois.justice.gc.ca/eng/acts/C-3.6/)*or any designated provincial program when determining whether a beneficiary has an excess contribution.
+
+**Each subscriber** for that beneficiary is liable to pay a tax of 1% per month on their share of the excess contribution that is not withdrawn by the end of the month. The tax is payable within 90 days after the end of the year in which there is an excess contribution. An excess contribution exists until it is withdrawn.
+
+You have to inform the CRA of your share of the excess contribution to all RESPs for a beneficiary. To calculate the amount of tax you have to pay on your share of the excess contribution for a year, fill out [Form T1E–OVP, *Individual Tax Return for RESP Excess Contributions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1e-ovp.html).
+
+You can get this form on our web site by going to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+Send your completed T1E-OVP return to the following address:
+
+Canada Revenue Agency Registered Plans Directorate 2215 Gladwin Cres. Ottawa ON K1B 4K9
+
+There are limits on the amounts that can be contributed to RESPs for a beneficiary.
+
+For each beneficiary, the **annual limit** for contributions to all RESPs is the following:
+
+- for 1996 is $2,000
+
+- for 1997 to 2006 is $4,000
+
+- for 2007 and subsequent years, there is no limit
+
+For each beneficiary, the**lifetime limit** for contributions to all RESPs is the following:
+
+- for 1996 to 2006 is $42,000
+
+- for 2007 and subsequent years is $50,000
+
+You can reduce the amount subject to tax by withdrawing the excess contributions. However, in determining whether the lifetime limit has been exceeded, we include the withdrawn amounts as contributions for the beneficiary even though they have been withdrawn.
+
+In 2014, Hugh established an RESP for his son Allan and contributed a total of $32,000 to it prior to 2025. Allan’s grandmother, Cathy, also opened an RESP for Allan in 2014, and prior to 2025, contributed $16,000 to it. None of the prior year contributions made by Hugh and Cathy exceeded the annual or lifetime limits that were applicable in those prior years.
+
+In January 2025, Hugh contributed $1,000 and Cathy contributed $500 to their respective RESPs and in July, both Hugh and Cathy contributed an additional $500. Hugh subsequently withdrew $500 in December.
+
+The lifetime limit on all contributions that can be made to all RESPs for Allan is $50,000. Together Hugh and Cathy had contributed $48,000 to RESPs for Allan before 2025 and at the end of January 2025, the total contributions were $49,500 which was still within the lifetime limit for contributions to RESPs for Allan. However, at the end of July the total contributions were $50,500 and the lifetime limit was exceeded by $500.
+
+| RESP contribution | Hugh | Cathy |
+
+| --- | --- | --- |
+
+| Before 2025 | $32,000 | $16,000 |
+
+| January 2025 | $1,000 | $500 |
+
+| July 2025 | $500 | $500 |
+
+| December 2025 (withdrawal) | ($500) | 0 |
+
+| Share of the lifetime contributions | $33,500 | $17,000 |
+
+| Description | Amount |
+
+| --- | --- |
+
+| Hugh's lifetime contributions for Allan before 2025 | $32,000 |
+
+| Cathy's lifetime contributions for Allan before 2025 | $16,000 |
+
+| Total contributions for Allan before 2025 | $48,000 |
+
+| Maximum lifetime limit remaining (50,000 − 48,000) | $2,000 |
+
+| Total of contributions made in 2025 for Allan | $2,500 |
+
+| Excess contributions | $500 |
+
+Hugh's share of the lifetime excess contributions for 2025 was $300. This was determined by multiplying his proportion of the total contributions made to both RESPs in 2025 ($1,500 ÷ $2,500) by the excess ($500) or ($1,500 ÷ $2,500 × $500). Similarly, Cathy's share was $200 ($1,000 ÷ $2,500 × $500).
+
+**Hugh's tax payable for 2025 is calculated as follows**: Hugh's tax on his share of the excess contribution is calculated for each month the excess contribution remains in the RESP. For July to November, Hugh's tax is $300 × 1% × 5 months or $15.00.
+
+**Cathy's tax payable for 2025 is calculated as follows**: Cathy's tax on her share of the excess contribution is calculated for each month the excess contribution remains in the RESP. For July to November, Cathy's tax is $200 × 1% × 5 months or $10.00. Because Hugh withdrew the excess amount in December 2025, neither Cathy nor Hugh must pay any tax on the excess contribution in December.
+
+## Waiver or cancellation of liability
+
+We may waive or cancel all or part of the taxes if we determine it is fair to do so after reviewing all factors, including whether the tax arose because of a reasonable error and whether the tax also gave rise to more than one tax under the [*Income Tax Act*](https://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html). To consider your request, we need a letter that explains why the tax liability arose, why this is a reasonable error, and why it would be fair to cancel or waive all or part of the tax.
+
+A **waiver**refers to the tax that is otherwise payable by a taxpayer for which relief is granted by the CRA before this amount is assessed or charged to the taxpayer. A **cancellation**refers to the amount of tax that was assessed or charged to the taxpayer for which relief is granted by the CRA.
+
+Send your letter to the following address:
+
+Canada Revenue Agency Registered Plans Directorate 2215 Gladwin Cres. Ottawa ON K1B 4K9
+
+## Payments from an RESP
+
+The promoter can make the following types of payments:
+
+- refund of contributions to the subscriber or to the beneficiary
+
+- educational assistance payments (EAPs)
+
+- accumulated income payments (AIPs)
+
+- payment to a designated educational institution in Canada (for more information, refer to [Information Circular IC93-*3R, Registered Education Savings Plans*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic93-3.html))
+
+- repayment of amounts under the *[Canada Education Savings Act](http://laws-lois.justice.gc.ca/eng/acts/C-3.6/)*or under a designated provincial program
+
+- transfers to another RESP
+
+## Refund of contributions to the subscriber or the beneficiary
+
+Subject to the terms and conditions of the RESP, the promoter can return your contributions to you tax-free when the contract ends or at any time before.
+
+Promoters do not issue a [T4A slip, *Statement of Pension, Retirement, Annuity and Other Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4a.html), to report these payments. **Do not** include these payments as income on your income tax and benefit return.
+
+The promoter can also pay the contributions tax-free to the beneficiary. This is in addition to any taxable educational assistance payments. Refer to the next section for more details.
+
+## Educational Assistance Payments
+
+An educational assistance payment (EAP) is the amount paid to a beneficiary (a student) from an RESP to help finance the cost of post-secondary education. An EAP consists of the [CESG](#CESG), the [CLB](#P29_3670), amounts paid under a designated provincial program and the earnings on the money saved in the RESP. The promoter reports EAPs in box 042 on a [T4A slip](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4a.html) and sends a copy to the student. The student includes the EAPs as income on their income tax and benefit return for the year the student receives them.
+
+A beneficiary must be a resident of Canada in order to receive the CESG or CLB as part of the EAP. Contact the appropriate provincial authorities to determine residency requirements for the eligibility conditions for provincial grants and incentives.
+
+The promoter can only pay EAPs to or for a student if **one** of the following situations applies:
+
+- the student is enrolled in a **qualifying educational program**. This includes students attending a post-secondary educational institution and those enrolled in distance education courses, such as correspondence courses, provided by such institutions
+
+- the student has attained the age of 16 years and is enrolled in a **specified educational program**
+
+A beneficiary is entitled to receive EAPs for up to six months after ceasing enrolment, provided that the payments would have qualified as EAPs if the payments had been made immediately before the student's enrolment ceased.
+
+A **qualifying educational program** is an educational program at post-secondary school level, that lasts at least three consecutive weeks, and that requires a student to spend no less than 10 hours per week on courses or work in the program.
+
+A **specified educational program**is a program at post-secondary school level that lasts at least three consecutive weeks, and that requires a student to spend not less than 12 hours per month on courses in the program.
+
+A **post-secondary educational institution** includes all the following:
+
+- a university, college, or other designated educational institution in Canada
+
+- an educational institution in Canada certified by ESDC offering non-credit courses that develop or improve skills in an occupation
+
+- a university outside Canada that has courses at the post-secondary school level at which a beneficiary was enrolled on a full-time basis in a course of not less than three consecutive weeks
+
+- a university, college, or other educational institution outside Canada that has courses at the post-secondary school level at which a beneficiary was enrolled in a course of not less than 13 consecutive weeks
+
+### Limit on EAPs
+
+The maximum amount of EAPs that can be made to a student as soon as they qualify to receive them is one of the following:
+
+- **for studies in a qualifying educational program** – $8,000, for the first 13 consecutive weeks in such a program. After the student has completed the 13 consecutive weeks, there is no limit on the amount of EAPs that can be paid if the student continues to qualify to receive them. If there is a 12 month period in which the student is not enrolled in a qualifying educational program for 13 consecutive weeks, the $8,000maximum applies again
+
+- **for studies in a specified educational program** – $4,000, for the 13 week period ending at the time of payment whether or not the student is enrolled in such a program throughout that 13 week period
+
+Subject to the terms and conditions of the RESP, the promoter can supplement the $8,000 or $4,000 EAP by paying a portion of the contributions tax-free to the beneficiary.
+
+ESDC may, on a case-by-case basis, approve an EAP amount of more than the above limit if the cost of tuition **plus** related expenses for a particular program is substantially higher than the average. For more information on how to request approval of an EAP of more than $8,000 or $4,000, promoters should call the Canada Education Savings Program at **1-888-276-3624**.
+
+## Accumulated income payments
+
+Accumulated income payments (AIPs) are amounts, usually paid to the subscriber, of the income earned from an RESP. An AIP does**not**include any of the following:
+
+- the payment of EAPs
+
+- payments to a designated educational institution in Canada
+
+- the refund of contributions to the subscriber or to the beneficiary
+
+- transfers to another RESP
+
+- repayments under the *[Canada Education Savings Act](http://laws-lois.justice.gc.ca/eng/acts/C-3.6/)*or under a designated provincial program
+
+AIPs cannot be made as a single joint payment to separate subscribers.
+
+An RESP may allow for AIPs when both of the following conditions are met:
+
+- the payment is made to, or for, a subscriber under the RESP who is resident in Canada
+
+- the payment is made to, or for, only one subscriber of the RESP
+
+When more than one individual is entitled to receive AIPs from the plan, the payments must be made separately to each person. No joint payments are allowed.
+
+Also,**any one** of the following three conditions must apply:
+
+- the payment is made after the year that includes the 9th anniversary of the RESP and each individual (other than a deceased individual) who is or was a beneficiary has reached 21 years of age and is not currently eligible to receive an EAP (refer to [Note](#nt_1) below)
+
+- the payment is made in the year that includes the 35th anniversary of the RESP, unless the RESP is a [specified plan](#P121_5412547) (refer to the [Definitions](#dfntns)) in which case the payment is made in the year that includes the 40th anniversary of the RESP
+
+- all the beneficiaries under the RESP are deceased when the payment is made
+
+We may waive the conditions in the first bullet if it is reasonable to expect that a beneficiary under the RESP will not be able to pursuepost-secondaryeducation because they suffer from a severe and prolonged mental impairment. Such requests have to be made by the RESP promoter in writing to the following address:
+
+Canada Revenue Agency Registered Plans Directorate 2215 Gladwin Cres. Ottawa ON K1B 4K9
+
+An RESP must be terminated by the end of February of the year after the year in which the first AIP is paid.
+
+### How AIPs are taxed
+
+Promoters report AIPs in box 040 of a [T4A slip, *Statement of Pension, Retirement, Annuity and Other Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4a.html), and send a copy to the recipient of the AIP. The recipient has to include the AIP as income on their income tax and benefit return for the year they receive it. An AIP is subject to two different taxes: the **regular income tax** and an **additional tax** of 20% (12% for residents of Quebec).
+
+**Regular tax** – This is the tax you calculate when you fill out your income tax and benefit return. It is based on your total taxable income.
+
+**Additional tax** – You calculate this tax separately, using [Form T1172, *Additional Tax on Accumulated Income Payments from RESPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1172.html). Include a filled out copy of Form T1172 with your income tax and benefit return for the year you receive the AIP. You have to pay the additional tax by the balance due date for your regular tax, usually April 30 of the year that follows the year in which you received the AIP.
+
+**Reducing the amount of AIPs subject to tax** – You can reduce the amount of AIPs subject to tax up to a lifetime maximum of $50,000, if you are the original subscriber, you are a subscriber who has, under a written agreement, acquired a public primary caregiver's rights as a subscriber under the plan, you acquired the former subscribers’ rights as a consequence of marriage breakdown, or, where there is no subscriber of the plan anymore, you are or were the spouse or common-law partner of a deceased subscriber and you meet **both** of the following conditions:
+
+- You contribute the amount to your registered retirement savings plan (RRSP), pooled registered pension plan (PRPP), or specified pension plan (SPP), or the RRSP or SPP of your spouse or common-law partner, in the year the AIPs are received or in the first 60 days of the following year.
+
+- Your RRSP deduction limit allows you to deduct the amount contributed to your RRSP, PRPP, or SPP or the RRSP or SPP of your spouse or common-law partner on line 20800 of your income tax and benefit return and you claim the deduction for the year in which any payments are made.
+
+You cannot reduce the AIPs subject to tax if you became a subscriber under the plan after the death of the original subscriber.
+
+By claiming a deduction for a contribution to your RRSP, PRPP, or SPP, you reduce your taxable income, which reduces your regular tax. The deduction for the contribution also reduces the amount of additional tax payable by reducing the amount of AIPs subject to tax (refer to [Form T1172](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1172.html)). If the amount of the deduction for the contribution equals the amount of the AIPs, the taxes on the AIPs are zero.
+
+Promoters usually have to withhold regular and additional taxes on AIPs. However, they do not have to withhold tax if **both** of the following apply:
+
+- the AIPs are transferred directly to your RRSP, PRPP, or SPP or the RRSP or SPP of your spouse or common-law partner
+
+- your RRSP deduction limit allows you to deduct the contribution in the year it is made
+
+Fill out [Form T1171, *Tax Withholding Waiver on Accumulated Income Payments from RESPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1171.html)*,* and ask the promoter to transfer the payment directly to your RRSP, PRPP or SPP or the RRSP or SPP of your spouse or common-law partner without withholding tax.
+
+For more information, refer to [Example - How AIPs are taxed](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/registered-education-savings-plans-resps/payments-resp.html).
+
+## Special rules
+
+### Changing the beneficiary
+
+Generally, where an individual becomes a beneficiary "a new beneficiary" in place of another beneficiary "a former beneficiary" the CRA treats the contributions for the former beneficiary as if they had been made for the new beneficiary on the date they were originally made. If the new beneficiary already has an RESP, this may create an excess contribution.
+
+An exception to the general rule applies in certain limited situations. The exception ensures that the contribution history of the former beneficiary is not added to the contribution history of the new beneficiary in the determination of whether the new beneficiary's lifetime contribution limit has been exceeded.
+
+Either of the following situations are exceptions:
+
+- the new beneficiary is under 21 years of age and the parent of the new beneficiary was a parent of the former beneficiary
+
+- both beneficiaries are connected by a blood relationship or adoption to an original subscriber under the RESP and both beneficiaries are under 21 years of age
+
+## Transferring RESP property to another RESP
+
+Most transfers from one RESP to another RESP will have no tax implications. This is the case when the transferring RESP and the receiving RESP have a common beneficiary. There are also no tax implications when a beneficiary under the transferring RESP has a brother or sister under 21 years of age at the time the receiving plan was entered into, unless the receiving plan is a family plan, who is a beneficiary under the receiving RESP.
+
+In any other case, transfers can result in an excess contribution. This is because the RESP contribution history for each beneficiary under the transferring RESP is assumed by each beneficiary under the receiving RESP. The CRA treats each contribution as if it had been made into the receiving RESP. In addition, the CRA treats each subscriber under the transferring RESP as a subscriber under the receiving RESP. This means that they are liable for any tax on excess contribution.
+
+A transfer of assets between individual RESPs may result in the repayment of the Canada Education Savings Grants and Canada Learning Bonds when the transfer occurs between plans held by siblings and the plan receiving the transfer amount is held by a sibling whose age exceeds 20.
+
+## Rolling over RESP property on a tax deferred basis to an RDSP
+
+Rollovers can be made after 2013 from an RESP to a registered disability savings plan (RDSP). In general terms, a subscriber of an RESP that allows accumulated income payments and a holder of an RDSP may jointly elect in prescribed form to rollover an accumulated income payment under the RESP to the RDSP if, at the time of the election, the RESPbeneficiary is also the beneficiary under the RDSP.
+
+To qualify for an education savings rollover, the beneficiary must meet the existing age and residency requirements in relation to RDSP contributions. As well, **one** of the following conditions must be met:
+
+- the beneficiary is, or will be, unable to pursue post-secondary education because they have a severe and prolonged mental impairment
+
+- the RESP has been in existence for at least 35 years
+
+- the RESP has been in existence for at least 10 years and each beneficiary under the RESP has attained 21 years of age and is not eligible to receive educational assistance payments
+
+The education savings rollover to an RDSP will not be subject to regular income tax or the additional 20% tax. The RESPpromoter must send [Form RC435, *Rollover from a Registered Education Savings Plan to a Registered Disability Savings Plan*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc435.html)to the RDSP issuer and keep a copy of it on file. This will satisfy the RESP promoter’s requirement to file the election with the CRA.
+
+When an education savings rollover occurs, contributions in the RESP will be returned to the RESP subscriber on a tax-free basis. As well, CESGs and CLBs in the RESP will be required to be repaid to ESDC and the RESP terminated by the end of February of the year after the year during which the rollover is made.
+
+An education savings rollover to an RDSP:
+
+- will be considered a private contribution for the purpose of determining whether the RDSP is a primarily government-assisted plan (PGAP), but will not attract Canada disability savings grants (CDSGs)
+
+- will be included in the taxable portion of RDSP withdrawals made to the beneficiary
+
+- may not exceed, and will reduce the RDSP contribution lifetime limit of $200,000
+
+An education savings rollover cannot be made if the beneficiary meets one of the following:
+
+- is not eligible for the disability tax credit (DTC)
+
+- has died
+
+- is over 59 years of age in the year of the contribution
+
+- is not a resident of Canada
+
+An education savings rollover cannot be made if the RDSP holder has not provided their consent to the rollover.
+
+## Anti-Avoidance Rules for RESP
+
+The anti-avoidance rules provide for a special tax on certain advantages that unduly exploit the tax attributes of an RESP, as well as special taxes on prohibited investments and on non-qualified investments.
+
+Each person who is a subscriber of an RESP is jointly liable for the taxes on prohibited investments, non-qualified investments and advantages described below. Where two or more subscribers of an RESP are jointly liable to pay such a tax only one return needs to be filed on behalf of all the subscribers that are liable for the tax.
+
+### Tax payable on prohibited investments
+
+If the RESP trust acquires a prohibited investment or if previously acquired property becomes prohibited, the subscriber will be subject to a special tax equal to 50% of the fair market value (FMV) of the investment, and the subscriber must file [Form RC339, *Individual Return for Certain Taxes for RRSPs, RRIFs, RESPs or RDSPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc339.html).
+
+The tax is refundable in certain circumstances. For more information, refer to [Refund](#refund_prohibited_nonqualified)[of taxes paid on non-qualified or prohibited investments](#refund_prohibited_nonqualified).
+
+When the prohibited investment ceases to be a prohibited investment while it is held by the RESP trust, the RESP trust is considered to have disposed of the property at its FMV right before that time and to have re-acquired the property for the same amount at the same time.
+
+The subscriber is also liable for the 100% advantage tax on income earned and capital gains realized on prohibited investments.
+
+The 100% advantage tax applies to income earned, and the portion of any realized capital gain that accrued, after March 22, 2017, regardless of when the prohibited investment generating the income or gain was acquired.
+
+If an investment is both anon-qualified investment and a prohibited investment, it is treated as a prohibited investment only.
+
+For more information, refer to [Income Tax Folio S3–F10–C2, *Prohibited Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html).
+
+### Tax payable on non-qualified investments
+
+If the RESP trust acquires property that is a non-qualified investment or if previously acquired property becomes non-qualified, the investment will be subject to a special tax equal to 50% of the FMV of the investment, and the subscriber must file [Form RC339, *Individual Return for Certain Taxes for RRSPs, RRIFs, RESPs or RDSPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc339.html), with a payment for any balance due, no later than June 30 following the end of the calendar year.
+
+Any increase in the value of a non-qualified investment at the time of disposition is not reported on the individual’s [RC339, *Individual Return for Certain Taxes for RRSPs, RRIFs, RESPs or RDSPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc339.html). Income earned and capital gains realized by an RESP trust onnon-qualified investments will continue to be taxable to the trust, regardless of when the investment was acquired. The Trust must file [Form T3RET, *T3 Trust Income Tax and Information Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ret.html)and is liable to pay any tax owing.
+
+Any charges or fees that the financial institution has passed on to the annuitant as a result of the T3 Return having been filed is a matter between the annuitant and the financial institution.
+
+If an investment is both a non-qualified investment and a prohibited investment, it is treated as a prohibited investment only and the trust is not subject to tax on the investment earnings.
+
+The tax payable on non-qualified investments is refundable in certain circumstances. For more information, refer to[Refund of taxes paid on non-qualified or prohibited investments](#refund_prohibited_nonqualified) below.
+
+The subscriber is also liable for the 100% advantage tax on non-qualified investment income if this income is not withdrawn promptly.
+
+For more information, refer to [Income Tax Folio S3–F10–C1, *Qualified Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html).
+
+### Refund of taxes paid on non-qualified or prohibited investments
+
+You may be entitled to a refund of the 50% tax on non‑qualified or prohibited investments if the investment was disposed of, or ceases to be a non-qualified or prohibited investment, before the end of the calendar year after the year in which the tax arose (or such later time as is permitted by the Minister of National Revenue).
+
+However, no refund will be issued if it is reasonable to expect that the subscriber knew, or should have known, that the investment was or would become a non-qualified or a prohibited investment.
+
+The refund applies to the 50% tax on non-qualified or prohibited investments but not to the 100% tax on advantages.
+
+If the 50% tax on non-qualified or prohibited investments, and the entitlement to the refund of that tax, arose in the same calendar year then a remittance of the tax is not required. For example, no remittance of tax would be required if an RESP trust acquired and disposed of anon-qualified investment in the same calendar year.
+
+## How to claim a refund
+
+To claim a refund, you must:
+
+- send your request in writing (you can attach it to your RC339 return)
+
+- attach the appropriate documents detailing the information relating to the acquisition and disposition of the non-qualified or prohibited property (you can attach the written request and supporting documents to your RC339 return)
+
+The documents must contain the following:
+
+- name and description of the property
+
+- number of shares or units
+
+- date the property was acquired or became non-qualified or prohibited property
+
+- date of the disposition or the date that the property became qualified or ceased to be prohibited
+
+## Obligations of the RESP promoter
+
+The promoter of an RESP must exercise the care, diligence and skill of a reasonably prudent person to minimize the possibility that a trust governed by the plan holds a non-qualified investment.
+
+If the promoter fails to comply with this obligation, the promoter is liable to a penalty under the *Income Tax Act*.
+
+The promoter will also be required to notify the subscriber of the RESP, in prescribed form and manner before March of a calendar year, if at any time in the preceding year the RESP trust acquired or disposed of a non-qualified investment, if a qualified investment became a non-qualified investment, or if a non-qualified investment became a qualified investment.
+
+## Tax treatment of RESPs
+
+For non-qualified investments acquired after March 22, 2017 (or investments acquired before March 23, 2017, that cease to be qualified investments after March 22, 2017), the RESP trust will be subject to Part I tax on its income (including capital gains) from the investment.
+
+In addition, an RESP’s registration would no longer become revocable as a result of the RESP trust’s acquisition after March 22, 2017, of a non-qualified investment.
+
+## Tax payable on an advantage
+
+If the subscriber or a person not dealing at arm’s length with the subscriber (including the RESP itself) was provided with an advantage in relation to their RESP during the year, a 100% tax is payable which is:
+
+- in the case of a benefit, the FMV of the benefit
+
+- in the case of a loan or a debt, the amount of the loan or debt
+
+- in the case of a registered plan strip, the amount of the registered plan strip
+
+For taxes payable on an advantage, you must file using [Form RC339, *Individual Return for Certain Taxes for RRSPs, RRIFs, RESPs or RDSPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc339.html).
+
+When an advantage is extended by the promoter of an RESP, the promoter, and not the subscriber, is liable for the tax. The promoter must file [Form RC298, *Advantage Tax Return for RRSP, TFSA, FHSA or RDSP Issuers, RESP promoters or RRIF Carriers*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc298.html).
+
+For more information, refer to [Income Tax Folio S3–F10–C3, *Advantages – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html).
+
+## Waiver or cancellation of tax
+
+We may waive or cancel all or part of the taxes if we determine it is fair to do so after reviewing all factors, including whether:
+
+- the tax arose because of a reasonable error
+
+- the extent to which the transaction or series of transactions that gave rise to the tax also gave rise to another tax under the [*Income Tax Act*](https://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html)
+
+- the extent to which payments have been made from the RESP
+
+The waiver is limited to tax paid under the anti-avoidance rules and not taxes paid under any other part of the [*Income Tax Act*](https://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html).
+
+A **waiver** refers to the tax that is otherwise payable by a taxpayer for which relief is granted by the CRA before this amount is assessed or charged to the taxpayer. A **cancellation** refers to the amount of tax that was assessed or charged to the taxpayer for which relief is granted by the CRA.
+
+To consider your request, we need a letter that explains why the tax liability arose, why this is a reasonable error, and why it would be fair to cancel or waive all or part of the tax. Send your letter to one of the following addresses:
+
+If your residential address is based in Ontario, Prince Edward Island, Newfoundland and Labrador, Yukon, Nunavut, Northwest Territories as well as the following cities in the province of Quebec (Montréal, Québec City, Laval, Sherbrooke, Gatineau and Longueuil); send your request to:
+
+Canada Revenue Agency Sudbury Tax Centre Pension Workflow Team Post Office Box 20000, Station A Sudbury ON P3A 5C1
+
+If your residential address is based in Manitoba, Saskatchewan, Alberta, British Columbia, Nova Scotia, New Brunswick and the remaining areas in the province of Quebec not listed under the Sudbury Tax Centre; send your request to:
+
+Canada Revenue Agency Winnipeg Tax Centre Pension Workflow Team Post Office Box 14000, Station Main Winnipeg MB R3C 3M2
+
+## Digital services
+
+### Digital services for individuals
+
+The CRA's digital services are fast, easy, and secure!
+
+### My Account
+
+My Account lets you access your personal income tax and benefit information, and interact with the CRA online throughout the year.
+
+### Profile
+
+- Change your address, phone numbers, direct deposit information, marital status, information about children in your care, and language preference
+
+- Edit your notification preferences and receive email notifications when important changes are made to your account
+
+- Manage your authorized representatives and authorization requests
+
+- Manage your multi-factor authentication settings, security options, and personal identification number (PIN)
+
+### Tax return
+
+- View your notice of assessment or reassessment, special elections and returns, carryover amounts, and tax information slips (T4 and more)
+
+### Accounts and payments
+
+- View your account balance and statement of account
+
+- Make a payment online to the CRA with the My Payment service, create a pre-authorized debit (PAD) agreement, or create a QR code to pay in person at Canada Post for a fee
+
+- Transfer a payment
+
+### Benefits and credits
+
+- View your benefit and credit information, and apply for certain benefits
+
+### Savings and pension plans
+
+- View information about your Registered Retirement Savings Plan (RRSP), Tax-Free Savings Account (TFSA), Home Buyers’ Plan (HBP), First Home Savings Account (FHSA), and Lifelong Learning Plan (LLP)
+
+### Correspondence
+
+- View mail from the CRA
+
+- Submit documents to the CRA
+
+- Submit an audit enquiry
+
+- File a formal dispute
+
+- Request a CPP/EI ruling
+
+### Additional digital services
+
+■ Track the progress of certain files and enquiries you have submitted to the CRA
+
+■ View and print your proof of income statement
+
+### Receive your CRA mail online
+
+Set your correspondence preference to “Electronic mail” to receive email notifications when CRA mail, like your notice of assessment, is available in your account. You will no longer receive your CRA mail by paper.
+
+For more information, refer to [Email notifications from the CRA – Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/online-mail-helping-you-organize-your-canada-revenue-agency-mail.html).
+
+### Access My Account
+
+To access My Account, refer to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) and sign in to or register for a CRA account.
+
+### Electronic payments
+
+Make your payment using:
+
+- your Canadian bank or credit union's online banking, mobile app, or telephone service
+
+- the CRA’s My Payment service at [My Payment](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html) with your activated debit card from a participating Canadian bank or credit union with a Visa Debit or Debit Mastercard logo (does not include credit cards)
+
+- pre-authorized debit (PAD) at [My Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html) which lets you:
+
+    - set up payments to the CRA from a Canadian chequing account on pre-set dates starting in five or more business days
+
+    - pay an amount due, repay overpaid amounts or make instalment payments
+
+    - view your account history and modify, cancel, or skip a payment (for more information on PAD, refer to [Pay by scheduled pre-authorized debit (PAD) through CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html))
+
+- the “**Proceed to pay” button**through My Account in the “Accounts and Payments” panel on the “Overview” page, or directly through “Accounts and Payments” side navigation menu item and under the “Account balance and statement of account” and “Instalments” panels
+
+- your credit card, *Interac* e-Transfer, or PayPal through one of the third-party service providers **for** **a fee**
+
+For more information, refer to [Payments to the CRA](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html).
+
+## Related forms and publications
+
+### Forms
+
+- [RC193 – *Service Feedback*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html)
+
+- [RC298 – *Advantage Tax Return for RRSP, TFSA, FHSA, or RDSP issuers, RESP promoters or RRIF carriers*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc298.html)
+
+- [RC339 – *Individual Return for Certain Taxes for RRSPs, RRIFs, RESPs or RDSPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc339.html)
+
+- [RC435*– Rollover from a Registered Education Savings Plan to a Registered Disability Savings Pla*n](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc435.html)
+
+- [RC459*– Reprisal Complaint*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc459.html)
+
+- [RC4288*– Request for Taxpayer Relief - Cancel or Waive Penalties and Interes*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4288.html)*t*
+
+- [T1E-OVP – *Individual Tax Return for RESP Excess Contributions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1e-ovp.html)
+
+- [T1171 – *Tax Withholding Waiver on Accumulated Income Payments from RESPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1171.html)
+
+- [T1172 – *Additional Tax on Accumulated Income Payments from RESPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1172.html)
+
+- [T3RET*– T3 Trust Income Tax and Information return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ret.html)
+
+- [T4A – *Statement of Pension, Retirement, Annuity, and Other Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4a.html)
+
+### Information Circular
+
+- [IC89-3 – *Policy Statement on Business Equity Valuations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic89-3.html)
+
+- [IC93-3R2 – *Registered Educational Savings Plans*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic93-3.html)
+
+### Income Tax Folios
+
+- [S1–F5–C1, *Related Persons and Dealing at Arm's Length*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html)
+
+- [S3–F10–C1, *Qualified Investments- RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html)
+
+- [S3–F10–C2, *Prohibited Investments - RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html)
+
+- [S3–F10–C3, *Advantages - RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html)
+
+## For more information
+
+### If you need help
+
+For help with common topics, current contact center wait time, and links to online self-serve options go to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+### Direct deposit
+
+Direct deposit is a fast, convenient, and secure way to receive your CRA payments directly in your account at a financial institution in Canada. For more information, refer to [Direct deposit – Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html) or contact your financial institution.
+
+### Forms and publications
+
+The CRA encourages you to file your return electronically. If you need a paper version of the CRA's forms and publications, refer to [Forms and publications - CRA](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+### Electronic mailing lists
+
+The CRA can send you an email when new information on a subject of interest is available on its website. To subscribe, refer to; [Electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+### Teletypewriter (TTY) and Video Relay Service (VRS) users
+
+If you use a use TTY for a hearing or speech impairment call **1-800-665-0354**.
+
+Register with Canada VRS to download the app, by going to [Canada VRS](https://srvcanadavrs.ca/en/get-the-app/), and call the VRS line.
+
+If you use another**operator-assisted-relay service**, call the CRA's regular telephone numbers instead of the TTY or Canada VRS numbers.
+
+## CRA service feedback program
+
+### Service complaints
+
+You can expect to be treated fairly and to receive a high level of service every time you interact with the CRA.
+
+You can provide compliments or suggestions; however, if you are not satisfied with the service you received:
+
+- You may save time by calling the CRA first depending on your situation. You can call the telephone number provided in your CRA correspondence or discuss your concerns with the employee you have been dealing with. If you do not have a contact number, contact the [Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html)
+
+- You can ask to discuss the matter with the employee's supervisor if you have not been able to resolve your service issue
+
+- You can submit feedback by filling out [Form RC193, *Service Feedbac*k](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html), if the issue remains unresolved. For more information, refer to [Send feedback about CRA service](https://www.canada.ca/en/revenue-agency/services/make-a-service-complaint.html)
+
+- You may contact the Office of the Taxpayers' Ombudsperson if you are not satisfied with the response you have received. The Ombudsperson will only respond to complaints that the CRA has already tried to address
+
+For more information about the *Taxpayer Bill of Rights*, refer; [Taxpayer Bill of Rights](https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/taxpayer-bill-rights.html).
+
+### Reprisal complaints
+
+If you received a response about a previously submitted service complaint or formal review of a CRA decision and felt that you were not treated fairly by a CRA employee, you can submit a reprisal complaint by filling out [Form RC459, *Reprisal Complaint*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc459.html).
+
+For more information, refer to [Reprisal Complaints](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/reprisal-complaints.html).
+
+### Due dates
+
+When a due date falls on a Saturday, Sunday, or public holiday recognized by the CRA, your return is considered on time if the CRA receives it or if it is postmarked on or before the next business day.
+
+For more information, refer to; [Due dates and payment dates](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/important-dates-individuals.html).
+
+## Cancel or waive penalties and interest
+
+The CRA administers legislation, commonly called "taxpayer relief provisions," that gives the CRA discretion to cancel or waive penalties and interest when taxpayers cannot meet their tax obligations due to circumstances beyond their control.
+
+The CRA's discretion is limited to any period that ends within 10 calendar years before the year the request is made.
+
+### Penalties
+
+The CRA will consider your request only if it relates to a tax year or fiscal period ending in any of the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to a penalty for a tax year or fiscal period ending in 2015 or later.
+
+### Interest on a balance owing
+
+The CRA will consider only the amounts that accrued during the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to interest that accrued in 2015 or later.
+
+Taxpayer relief requests can be made online using the CRA's [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html), [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) (MyBA), or [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html) digital services.
+
+You can also fill out [Form RC4288, *Request for Taxpayer Relief – Cancel or Waive Penalties and Interest*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4288.html), and send it:
+
+- online using [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html), My Business Account, or Represent a Client
+
+- by mail or courier to the designated office, as shown on the last page of the form, based on your place of residence.
+
+For information about submitting documents online, refer to [Submit documents online](https://www.canada.ca/en/revenue-agency/services/e-services/submit-documents-online.html).
+
+For more information about cancelling or waiving penalties and interest, refer to [Cancel or waive penalties and interest](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/cancel-waive-penalties-interest.html).

@@ -1,0 +1,70 @@
+---
+title: "ARCHIVED - Partnerships - Income of non-resident partners"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it81r/archived-partnerships-income-non-resident-partners.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Partnerships - Income of non-resident partners
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO.: **IT-81R**
+
+DATE: May 6, 1976
+
+SUBJECT: INCOME TAX ACT Partnerships**Income of Non-Resident Partners**
+
+REFERENCE: Section 96 (also sections 115 and 216 and paragraph 212(13.1)(b))
+
+This bulletin replaces and cancels Interpretation Bulletin IT-81, dated November 30, 1972.
+
+**Notice to the reader:**
+
+- [Bulletins do not have the force of law](https://www.canada.ca/formspubs/pbs/tntc-eng.html).
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it81r.html).
+
+1. Paragraph 96(1)(a) of the Income Tax Act provides that where a taxpayer is a member of a partnership, his income or his taxable income earned in Canada for a taxation year shall be computed as if the partnership were a separate person resident in Canada.
+
+2. The effect of the assumption made by paragraph 96(1)(a) is to pool the world income of the partnership at the partnership level. In the case of a taxpayer not resident in Canada who is a member of a partnership operating in Canada, the pooling of the world income of the partnership at the partnership level does not affect the rules governing the computation of the non-resident taxpayer's taxable income earned in Canada.
+
+3. Firstly, the world income of the partnership will be determined at the partnership level and that income will be considered to retain its identity when flowing through to the partners under paragraph 96(1)(f). Secondly, section 115 will be applicable for the purpose of computing the taxable income earned in Canada by the non-resident partner; if a source of income included in income at the partnership level is not taxable under section 115, it will not be taxable in Canada to the non-resident partner. Thus, only the non-resident partner's proportionate share of the income earned by the partnership in Canada, to the exclusion of the income from sources outside Canada, will be included in the taxable income earned in Canada by the non-resident partner.
+
+Gains from Disposition of Taxable Canadian Property
+
+4. Where a partnership of which there are one or more non-resident members makes a taxable capital gain on the disposition by it of taxable Canadian property, the gain retains its identity in the hands of the individual partners by virtue of paragraph 96(1)(f) and each non-resident partner is required to include in his taxable income earned in Canada his respective share of the taxable capital gain pursuant to subparagraph 115(1)(a)(iii).
+
+Withholding Tax on Investment Income
+
+5. Paragraph 212(13.1)(b) provides that, where a person resident in Canada pays or credits an amount after November 28, 1974 to a partnership of which one or more persons are not residents of Canada, the partnership shall be deemed to be a non-resident person for purposes of Part XIII of the Act, other than section 216 thereof. Accordingly, if an amount paid or credited to such a partnership comes within the purview of any of the express provisions of Part XIII of the Act, the resident payer must withhold and remit tax in accordance with the rules in that Part of the Act. (See, however, paragraph 8 below).
+
+6. As an illustration of the application of paragraph 212(13.1)(b) and subsection 214(15), which also applies to amounts paid or credited after November 18, 1974, an amount paid by a resident of Canada as a standby charge or a guarantee fee, within the meaning of those terms in subsection 214(15) is deemed to be a payment of interest for purposes of paragraph 212(1)(b). If such a payment is made to a partnership consisting of one or more non-resident members, it is deemed to be a payment to a non-resident and thus requires a withholding of tax by the resident to the same extent as would a payment of interest by him to a non-resident individual.
+
+7. Where tax is to be withheld under Part XIII because a partnership is deemed by paragraph 212(13.1)(b) to be a non-resident person, the withholding applies to the full amount of the payment even though some members of the partnership are residents of Canada. The portion of such tax withheld that is attributable to a resident member of the partnership may be claimed by him as a credit against the tax otherwise payable under Part I of the Act.
+
+8. Regulation 805(1) provides than an amount received by a non-resident person that would otherwise be subject to Part XIII of the Act is exempt from tax under that Part if the amount can reasonably be attributed to a business carried on by him in Canada and thus subject to tax under Part I of the Act. In these circumstances, the resident payer need not withhold tax from an amount paid if he has obtained assurance from the Department that the rule in Regulation 805(1) is applicable to that amount. It is always a question of fact whether any part of a particular partnership business is actually carried on in Canada, but if it is then each member of the partnership is considered to be carrying on business in Canada. In an ordinary partnership, each partner is the agent of the other partners and hence, although a partner may not himself actively participate in the business through his agents, i.e. the "active" partners. A person who is deemed by subsection 96(1.1) to be a member of a partnership, and who may have only a remote connection with the partnership, is nevertheless to be viewed as carrying on the business by virtue of subsection 96(1.6).
+
+Alternative re Rents and Timber Royalties
+
+9. For taxation years ending after May 6, 1974, a non-resident member of a partnership may elect to file a return as if he were a resident of Canada and pay tax under Part I of the Act, in lieu of the tax that would otherwise be payable by him under Part XIII, on his share of all amounts received by the partnership, and all amounts received himself, in the way of rents on real property in Canada or timber royalties which are not associated with a business carried on in Canada. All the rules in section 216 governing the filing of a separate return and the payment of tax under Part I apply to a non-resident partner in these circumstances.
+
+10. Where an election is made as described in paragraph 9 above, the income that becomes subject to Part I of the Act is not considered to be earned in any particular province of Canada. Consequently, the addition to tax provided in section 120 is applicable. The general averaging provisions of section 118 are not applicable to a non-resident in respect of income reported on the separate return filed pursuant to an election under section 216 since that section does not deem such a non-resident to have been a resident of Canada or to have carried on business in Canada as a non-resident in respect of that income.
+
+Partners Ceasing to be a Member of a Partnership
+
+11. Subsection 96(1.1) provides that, under certain circumstances specified therein, where a partner, including a non-resident partner, ceases to be a member of a partnership the principal activity of which is the carrying on of business in Canada he is deemed to continue to be a member of the partnership or, in the alternative, his spouse, estate, heir or a person acquiring the interest of any of them is deemed to be a member of the partnership. If such a person is a non-resident, all the rules in the Act relating to non-resident partners and to partnerships consisting of one or more non-resident partners are applicable. It is provided further in subsection 96(1.6) that such a person is deemed to carry on business in Canada if the partnership carries on business in Canada. It is to be noted that the rules in subsections 96(1.1) and 96(1.6) are not applicable where the principal activity of the partnership is the carrying on of business outside Canada.
+
+Application of Part XIV ("Branch Tax")
+
+12. A non-resident corporation or a resident corporation that is not a Canadian corporation which carries on business in Canada as a member of a partnership is subject to the additional tax specified in Part XIV of the Act. The rules for determining the allowance for the investment in property in Canada for such a corporate partner are set out in subsections 4 to 6 of Regulation 808.
+
+Reciprocal Tax Treaties
+
+13. As in the case of any non-resident, the rules in the Act relating to a non-resident member of a partnership carrying on business in Canada may be subject to overriding provisions in a reciprocal tax treaty between Canada and the country of which the non-resident member of the partnership is a resident.

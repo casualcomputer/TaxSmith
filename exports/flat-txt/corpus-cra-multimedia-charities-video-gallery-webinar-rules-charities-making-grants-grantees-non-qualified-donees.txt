@@ -1,0 +1,199 @@
+Title: Webinar – Rules for charities making grants to grantees (non-qualified donees)
+Source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/charities-video-gallery/webinar-rules-charities-making-grants-grantees-non-qualified-donees.html
+Corpus path: corpus/cra/multimedia/charities-video-gallery/webinar-rules-charities-making-grants-grantees-non-qualified-donees.md
+Document type: video_transcript
+Last modified: 2025-03-13
+
+# Webinar – Rules for charities making grants to grantees (non-qualified donees)
+
+## Transcript
+### Slide 3 – Rules for charities making grants to grantees (non-qualified donees)
+Dylan: Let me welcome you to the Canada Revenue Agency’s webinar on the rules for charities making grants to grantees (non-qualified donees).
+Thank you for taking the time to join us today.
+My name is Dylan and I’ll be your host for today’s talk.
+### Slide 4 - Objective
+Dylan: The purpose of today’s presentation is to provide charities information and resources on recent changes to the *Income Tax Act* in the ways a charity can operate, and the CRA’s corresponding guidance product, CG-032, Registered charities making grants to non-qualified donees.
+[Person writing on a tablet with a stylus.]
+### Slide 5 - Overview
+Dylan: Here’s an outline for our time together today.
+- First, we’ll take a brief look at the background behind working with non-qualified donees.
+- Second, we’ll go into the CRA’s development of the granting guidance and some key points.
+- Third, we’ll cover some special topics that relate to granting.
+- And finally, we’ll provide you with a few resources.
+### Slide 6 – Part 1 – Background
+Dylan: First, we’ll briefly discuss some background.
+### Slide 7 – Background - terminology
+Dylan: This terminology may be familiar to many, but here’s a quick refresher on some key terms for this portion of the presentation.
+- The term **“qualified donees”** is a term from the *Income Tax Act*, and it refers to organizations that can issue official donation receipts for gifts they receive from individuals and corporations.Canadian charities are probably the best-known category of qualified donee, but there are a few other types of organizations as well.
+- The term **“non-qualified donees”** refers to those that **do not meet** the definition of a qualified donee.Intermediaries and grantees are both types of non-qualified donees. We will talk more about these in a moment.
+### Slide 8 – Background – legislative reform
+Dylan: As you may be familiar, there are many organizations that are doing good work, that are **not** qualified donees.
+The charitable sector has been advocating for a long time for more reasonable and flexible ways for charities to work with non-qualified donees.
+Budget 2022 announced changes to the ways a charity can work with non-qualified donees.
+### Slide 9 – Direction and control
+Dylan: Previously, a charity could operate in two ways only:
+1. First, by carrying on its own charitable activities through its staff and volunteers, or through a non-qualified donee called an “intermediary”.This meant that if a charity wanted to work with a non-qualified donee it could only do this if it exercised what is called “direction and control” over the intermediary, as though it is the charity’s own activity. There was long-standing criticism of direction and control in the charitable sector, with commenters saying it forced Canadian charities to micro-manage their international partners, for example, and hindered collaborative working relationships.
+2. The second way a charity could operate is by making gifts to qualified donees, which is a relatively simple process under the *Income Tax Act*.As the name “gift” implies in this context, a charity can simply transfer money or other resources to another qualified donee without needing to monitor or follow up on how that gift is used.
+### Slide 10 – Grants to grantees
+Dylan: Now, as a result of the changes brought about from Budget 2022, this slide shows the ways a charity can now operate. This is a relatively significant change.
+It introduces a new term – qualifying disbursements, which comes from the *Income Tax Act*. And a new way to operate – qualifying disbursements to grantee organizations – put simply, we at the CRA refer to this as grants to grantees, or grants to non-qualified donees.
+As you can see, charities can still continue to work with intermediaries – this remains as a separate option for charities.
+- However, now charities can make transfers to non-qualified donees without maintaining direction and control over the use of the charity’s money or other resources.
+The rules are intended to provide charities with more flexibility to work with non-qualified donees.
+That being said, charities cannot simply make a “gift” to non-qualified donees the same way they can to **qualified** donees.
+To make grants to grantees, charities still have to meet specific requirements of the *Income Tax Act*, which we will talk about in just a moment.
+### Slide 11 – Granting vs direction and control
+Dylan: Just a final note about direction and control before we move into granting only.
+While there are similarities between grants and direction and control, this slide shows some of the distinctions.
+For granting
+- Charity must meet accountability requirements
+- Reported as “qualifying disbursement”
+- Charity can support existing work of non‑qualified done
+- Accountability tools focus on:mitigating risk collaboration providing autonomy to non-qualified done
+On the other hand, for direction and control
+- Charity must exercise direction and control
+- Reported as the charity’s “own activity”
+- Activity must be the charity’s own caved-out initiative
+- Measures focus on the charity directing and controlling the activities, such that they could be considered the charity’s own
+For more information about the similarities and differences, you can read more in the granting guidance.
+Under both arrangements, the charity must meet the requirements of the *Income Tax Act*.
+### Slide 12 – Part 2 – Granting guidance, CG-032, Registered charities making grants to non-qualified donees
+Dylan: Now with some of that background in mind, let’s take a closer look at the granting rules and the granting guidance.
+#### Link summary on slide:
+[CG-032, Registered charities making grants to non-qualified donees](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/charities-making-grants-non-qualified-donees.html)
+### Slide 13 – Grants to grantees (cont’d)
+Dylan: Here are the rules – these are the musts – here’s what a charity is required to, or must do.
+On this slide, we’ve included the *Income Tax Act* requirements for grants, and this is a direct quote from the *Income Tax Act*.
+The Act refers to this as a “qualifying disbursement” to a “grantee organization.” So, recall that a grantee organization is a type of non-qualified donee. And recall that at the CRA we call this a “grant to a grantee.”
+We recognize that many in the sector already use the term “grant” to refer to gifts to qualified donees. You’ll see a note about this in the definition of “grant” in the guidance. But what we’re talking about here are rules that are specific to when a charity wants to make a qualifying disbursement to a grantee organization, as defined in the *Income Tax Act*.
+I’m going to read out these requirements, as these are the foundation of everything we’ll be talking about today.
+- **149.1 (1) qualifying disbursement**means a disbursement by a charity, by way of a gift or by otherwise making resources available,
+- **(paragraph a)** … to a qualified donee, or
+- **(paragraph b)** to a grantee organization, if**(i) [subparagraph 1]** the disbursement is in furtherance of a charitable purpose (determined without reference to the definition charitable purposes in [subsection 149.1(1) of the *Income Tax Act*]) of the charity, **(ii) [subparagraph 2]** the charity ensures that the disbursement is exclusively applied to charitable activities in furtherance of a charitable purpose of the charity, and **(iii) [subparagraph 3]** the charity maintains documentation sufficient to demonstrate**(clause A)** the purpose for which the disbursement is made, and **(clause B)** that the disbursement is exclusively applied by the grantee organization to charitable activities in furtherance of a charitable purpose of the charity…
+You can see on the slide that there’s a lot of technical terminology here – words like “ensure”, “exclusively applied”, and “documentation sufficient to demonstrate”.
+So, what does all of this mean to a charity? How is a charity to apply these requirements?
+### Slide 14 – New guidance product: CG-032, Registered charities making grants to non-qualified donees
+Dylan: As regulator of the charitable sector, the CRA has developed guidance to explain how we interpret and apply these requirements.
+The guidance provides our recommendations only for ways a charity can meet these requirements.
+We sought a lot of sector feedback on the guidance. We took the feedback very seriously and reviewed every submission.
+We revised the guidance based on feedback, and published a final version in December 2023.
+We took an approach that focused on charitable purposes, due diligence, accountability, and documentation.
+We tried to be as reasonable and flexible as we could, within the limits of the legislation.
+### Slide 15 – Overview of CG-032, Registered charities making grants to non-qualified donees
+Dylan: Here is a brief overview of the granting guidance:
+There are 4 main sections.
+1. In section 1, we provide a summary of our interpretation and application of the ITA requirements for grants.
+2. In section 2, we outline the different ways a charity can operate. We also compare granting with direction and control.
+3. In section 3, we provide our recommendations for ways a charity can meet the ITA requirements. This is a five-step process focused on due diligence, accountability, and documentation, all intended to ensure the grant is used to further the charitable purposes of the charity.
+4. Finally, in section 4, we discuss some special topics, such as new reporting requirements, as well as different types of grants, like real property grants.
+### Slide 16 – Accountability tools
+Dylan: Returning to section 3, the guidance outlines some measures we recommend a charity could use to show it meets the ITA requirements. We call these “accountability tools”. They are intended to help a charity show that a grant is being used for the charitable purposes of the charity.
+The guidance addresses that other tools might work for the charity, and the degree to which the charity uses these tools depends on the circumstances of the grant. The guidance uses the term risk here – and by this we mean the risk to the charity that the grant resources would be used for non-charitable purposes. This is defined in the guidance.
+The guidance discusses the accountability tools in more detail, but in summary the charity could:
+- Research and review the grantee before entering into the grant
+- Collaborate with the grantee to develop a description of the grant activity
+- Create a written agreement to document the grant activity, including the charitable purpose it furthers
+- Establish a reporting plan, including a final report documenting how the charity used the grant resources
+- Create a transfer schedule, if suitable (as in, send the grant in periodic instalments)
+- And ask the grantee to separately track the grant resources, such as with a separate ledger – and just a note that this is not the same as accessing the grantee’s books and records.
+You can learn more about the CRA’s recommended accountability tools in the guidance.
+### Slide 17 – High-level takeaways of granting guidance (1/5)
+Dylan: And this leads us into some high-level takeaways of the granting guidance. We encourage you to read the guidance as well, which is quite comprehensive.
+Note that the granting guidance provides the CRA’s recommendations only. It’s a helpful tool, but it is not law. If your situation does not appear to be covered in the guidance, you can always reach out to our Client Service representatives for further support. Their contact detail will be shared at the end of the presentation.
+### Slide 18 – High-level takeaways of granting guidance (2/5)
+Dylan: Second, direction and control remains as a separate option for charities, as I talked about earlier. Which way a charity decides to operate is the charity’s decision. There’s more about this in the guidance.
+### Slide 19 – High-level takeaways of granting guidance (3/5)
+Dylan: You may be questioning whether charities need to amend their charitable purposes to make grants. The ITA requirements are very specific regarding charitable purposes.
+What is explained in the guidance is the following:
+#### Charitable purposes:
+- Charities can only make grants that further the charity’s stated charitable purposes (the purposes in its governing documents, such as its articles of incorporation).
+- Many charities will be able to expand their operations to include making grants to grantees using their existing purposes.
+- However, a charity would need to amend its purposes if it:wants to make a grant for a purpose that is not stated in its governing document does not have a stated common law charitable purpose within one of the four categories of charity. This includes a foundation that only has a purpose to make gifts to other qualified donees
+### Slide 20 – High-level takeaways of granting guidance (4/5)
+Dylan:
+- A charity could not make a grant with only a “making qualifying disbursements” or “making grants” purpose. A “grant-making” purpose in and of itself would not fall within one of the four categories of charity.
+- When drafting a charitable purpose, it is not necessary for the charity to specify that the organization will be making grants.
+- Here is an example of a purpose that would be suitable for a grant that advances education:To advance education by providing books, equipment, and educational aids to students.
+- Here is an example of a purpose that would be suitable for a grant that relieves poverty:To relieve poverty by providing necessities of life, including food, clean water, medical supplies, clothing, or shelter to victims of disasters.
+For more information, you can look at the granting guidance, more specifically paragraph 13, and paragraphs 25 through 34, and, or reach out to our Client Service for more support.
+### Slide 21 – High-level takeaways of granting guidance (5/5)
+Dylan: And a final high-level takeaway: there are new reporting requirements for grants. These are prescribed by the ITA.
+We’ve updated the [T3010, the Registered Charity Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3010.html), the [related Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4033.html), and created a new worksheet for reporting grants.
+Please make sure you are referring to the most recent version of these documents on our web pages. We encourage you to use online services as much as possible, as you will always be presented with the right version of the T3010.
+You’ll note that you can make both cash and non-cash grants. For non-cash grants, for them to be counted towards a charity’s disbursement quota, you’ll need to be able to provide the fair market value. This is consistent with the approach we take for gifts to qualified donees. And as a refresher, the disbursement quota is the minimum amount a charity must spend each year on its charitable activities, gifts to qualified donees, and grants to grantees.
+You can always reach out to our Client Service with reporting questions.
+### Slide 22 – Part 3 – Special topics
+Dylan: Now let’s discuss a few special topics that come up in the guidance. These are found in section 4 of the granting guidance.
+### Slide 23 – Pooled grants
+Dylan: There is a special section in the guidance on accountability tools applied specifically to pooled grants.
+- For the due diligence review, we recommend the charity review the recipient grantee, but also the other grantors that it is establishing this relationship with.
+- For the description of the grant activity, we recommend the charity document its involvement in the pooled funding, including the resources granted.
+- For grant documentation, ideally, the charity would sign onto a grant agreement with all parties in the pooled funding, though we recognize that may not be feasible.
+- For the reporting plan, we understand that pooled grants are complex. So we recommend a charity show it has made reasonable efforts to keep track of the grant activity. We also recommend a charity only enter into this type of arrangement when the grantee agrees to provide written final or interim reports. This can be a report to all grantors, not just the specific charity.
+- We also recommend the charity contribute to the pooled grant on a periodic basis, particularly when the grant is high risk.
+- And for separately tracked funds, ideally the grantee would separately track the charity’s contribution to the pooled grant. Depending on the pooled grant, we recognize this may not always be feasible, so in that case, we recommend the charity maintains records of its own contributions to the pooled grant.
+The guidance provides more details on pooled grants, as well as other granting arrangements for real property, and charitable goods.
+Ultimately, a charity is always responsible for meeting the requirements of the *Income Tax Act*, no matter what type of arrangement the grant is.
+### Slide 24 – Disaster or emergency relief
+Dylan: The guidance also has a section on organizations who wish to provide disaster or emergency relief.
+A few things to note are that registered charities may need to change their purposes to make grants for disaster relief if they only have a gifting to qualified donees purpose.
+And we typically assign priority to files about organizations wanting to do this kind of work.
+### Slide 25 – Anti-terrorism considerations
+Dylan: Like all activities that a charity enters into, a charity is responsible for making sure that it does not support terrorist activities, including by making a grant to an individual or group that is engaged in or supports terrorist activities.
+While terrorism may affect only a small number of charities, the risk is real. Terrorism can damage a charity’s reputation and affect its registered status. This is especially true for organizations that work in high-risk areas such as conflict zones.
+In Canada and abroad, terrorists have abused charities by involving them without their knowledge in supporting terrorist activities.
+Although many best practices that can help a charity manage risk generally are already included in the guidance, here are a few additional best practices:
+- Understanding how terrorists can abuse your charity’s good work;
+- Identifying risks that relate to your specific charity; and
+- Taking steps to reduce your charity’s risks.
+We encourage you to visit our [web pages](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/educating-charities-terrorist-abuse/checklist-protect-charity-against-terrorist.html) for more information.
+### Slide 26 – Directed giving
+Dylan: The final topic we’ll close on today is directed giving.
+This provision was recently amended in the *Income Tax Act* with the introduction of the granting rules. We wanted to highlight a few things together today.
+In summary, these rules provide that a charity that accepts a gift that is expressly or implicitly conditional on the charity then making a gift (or what we call a grant) to a grantee organization could be subject to revocation.
+But how to determine whether a gift is expressly or implicitly conditional can be difficult.
+### Slide 27 – Charitable giving
+Dylan: This provision is intended to prevent organizations from acting as conduits in the making of a directed gift to a grantee.
+This prevents situations such as where a charity, with donor knowledge, solely exists as a fundraising arm of an affiliate organization. In these circumstances, the charity would not be in a position to make decisions around the use of its resources, or act independently of the affiliate.
+Let’s look into these rules in a bit more detail.
+1. At its core, and as many know, a Canadian charity, including foundations, can be established to make donations to another particular Canadian charity. That is the first image on this slide.
+2. We also have organizations that carry out their own activities, including through intermediaries, and sometimes this takes the format where the organization even has the same name as the intermediary. These are sometimes referred to as “Friends of” organizations. Under these rules, this continues to be acceptable for charities exercising direction and control over their intermediaries. This is the second line on the screen.
+3. However, with these rules, this cannot be the case for an organization that wants to be established solely for making grants to a particular non-qualified donees. This is the third line on the screen.
+There are other arrangements that might amount to directed giving. Let’s take a look at the example of an expressly conditional gift. This could happen where a donor indicates that he or she is making a gift, provided that the charity makes it to a specific non-qualified donee, and that if the charity does not, the funds must be returned to the donor. A charity that accepts such a gift could be putting itself in a position where it does not have the authority to decide how its funds are used.
+### Slide 28 – Directed giving
+Dylan: As you are likely very familiar, CRA cannot make law, but rather, it interprets and applies the provisions of the *Income Tax Act* that are drafted by the Department of Finance Canada, and passed into law by Parliament.
+The granting guidance is how we interpret and apply the law, where we have tried to be reasonable and flexible to the rules.
+Ultimately, what we say in the guidance is that if a charity can show it retains authority over the use of its resources, we will consider the charity to not be engaged in directed giving.
+### Slide 29 – Charity holding authority over the use of its resources
+Dylan: So, how can an organization show it retains authority over those decisions?
+This image attempts to represent the concept of the charity maintaining authority over the use of its resources, both in terms of the gifts it receives and how it distributes its resources.
+(1) So when the charity receives gifts, it must be able to communicate and show that it retains authority over the use of its resources.
+For example, it can have information on its website:
+- Donors can indicate their program preference for how a charity will apply their donation, but ultimate authority on the use of resources must rest with the charity.
+- If the charity does not use the donation the way the donors prefer, the charity will not return the donation to the donors.
+Put another way, the charity should not accept gifts with conditions such that the charity has no choice but to make grants to a non-qualified donee. It should not put itself in a situation where it cannot decide how it will use its own resources and have to grant them to a specific non-qualified donee.
+(2) On the other side of the arrow, the charity must ensure that it holds authority over how its resources are applied. It does this by meeting the requirements of the law relating to grants - for example, by applying accountability tools. Or other reasonable measures that are suitable to the charity.
+In any case, the application of these rules is a case-by-case analysis.
+As much as the goal is to facilitate collaboration with non-qualified donees, there are also requirements to be met under the *Income Tax Act*.
+### Slide 30 – Directed giving
+Dylan: To summarize, whether a charity is engaged in directed giving is fact specific and unique to the circumstances of the charity.
+Generally speaking, this provision does not apply to:
+- A gift to a qualified donee
+- A charity carrying on its own activities through its own staff or volunteers
+- A charity carrying on its own activities through an intermediary if it exercises direction and control
+- A charity accepting a donor’s gift for a grant when the donor indicates a program preference (as opposed to specifying a non-qualified donee)
+- A charity that can show that it retains authority over the use of its resources.
+### Slide 31 – Part 4 - Resources
+Dylan: And finally, we’ll provide you with a few resources.
+### Slide 32 –Resources
+Dylan: Thank you for attending today’s webinar. We hope we were able to answer your questions.
+As mentioned earlier, you can find the granting guidance on our web page.
+Our Client Service is available Monday to Friday, 8 a.m. to 5 p.m., Eastern time, to receive questions related to your specific situation.
+Also, although published as a final version, if you have further feedback or suggestions about the granting guidance, or any other guidance product, we would like to hear from you. There’s a specific email address for feedback provided on the slide.
+We will be sending you a link to an online survey about today’s webinar. Please take a few minutes to complete the survey.
+Your feedback is really important to us. It helps us evaluate the effectiveness of our webinars and plan for our future outreach activities.
+If you would like to receive recent news and updates from the CRA, we recommend you sign up for our electronic mailing list at [canada.ca/charities-whats-new](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-charities-giving-whats-new.html).
+Thank you.
+#### Link summary on slide:
+[Charities and giving](https://www.canada.ca/en/services/taxes/charities.html)
+Feedback or suggestions about the granting guidance, email [guidancefeedback-retroactionsurleslignesdirectrices@cra-arc.gc.ca](mailto:guidancefeedback-retroactionsurleslignesdirectrices@cra-arc.gc.ca)

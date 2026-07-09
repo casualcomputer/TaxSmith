@@ -1,0 +1,479 @@
+Title: Place of Supply in a Province – Overview
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2/place-supply-province-overview.html
+Corpus path: corpus/cra/forms-publications/publications/3-3-2/place-supply-province-overview.md
+Document type: publication
+Last modified: 2026-04-09
+
+# Place of Supply in a Province – Overview
+
+GST/HST Memorandum 3-3-2 April 2026
+
+This version replaces the one dated August 2024. This memorandum has been updated to reflect the HST rate change in Nova Scotia, as well as for consistency with the rest of the place of supply memoranda series. It also cancels and replaces Draft GST/HST Technical Information Bulletin B-103, *Harmonized Sales Tax – Place of supply rules for determining whether a supply is made in a province*.
+
+This memorandum provides an overview of the place of supply rules included in Schedule IX of the *Excise Tax Act* (ETA) and in the *New Harmonized Value-added Tax System Regulations* that determine whether a supply made in Canada is made in a participating province and consequently subject to the provincial part of the HST in addition to the federal part of the HST.
+
+This memorandum does not provide detailed information about the new digital economy measures applicable to digital economy businesses including businesses that are registered or required to be registered under the simplified GST/HST registration regime of Subdivision E of Division II of Part IX of the ETA, and to platform operators and non-resident digital economy businesses that are registered or required to be registered under the regular GST/HST registration regime. For more information, you may visit [GST/HST for digital economy businesses: Overview](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/digital-economy.html) or call the Canada Revenue Agency (CRA) at 1‑833‑585‑1463 (from Canada and the U.S.) or 613‑221‑3154 (from elsewhere – collect calls are accepted).
+
+The following memoranda in this series describe in detail the provincial place of supply rules for specific taxable supplies:
+
+- [GST/HST Memorandum 3-3-3, Place of Supply in a Province – Tangible Personal Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-3.html)
+
+- [GST/HST Memorandum 3-3-4, Place of Supply in a Province – Real Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-4.html)
+
+- [GST/HST Memorandum 3-3-5, Place of Supply in a Province – General Rules for Intangible Personal Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-5.html)
+
+- [GST/HST Memorandum 3-3-5-1, Place of Supply in a Province – Specific Rules for Intangible Personal Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-5-1.html)
+
+- [GST/HST Memorandum 3-3-6, Place of Supply in a Province – General Rules for Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6.html)
+
+- [GST/HST Memorandum 3-3-6-1, Place of Supply in a Province – Personal Services, Services in Relation to Property and Telecommunication Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6-1.html)
+
+- [GST/HST Memorandum 3-3-6-2, Place of Supply in a Province – Specific Rules for Services – Special Cases](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-6-2.html)
+
+- [GST/HST Memorandum 3-3-7, Place of Supply in a Province – Transportation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-7.html)
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the *Excise Tax Act* (ETA). The information in this publication does not replace the law found in the ETA and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1‑800‑959‑8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Requesting a GST/HST Ruling or Interpretation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1‑855‑666‑5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The GST/HST rates are those that were in effect at the time of publishing. For the list of all applicable GST/HST rates (current and historic), go to [GST/HST calculator (and rates)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html).
+
+## Table of Contents
+
+- [General](#h_1)
+
+    - [Application of the GST or the HST](#h_1_1)
+
+    - [Deemed supplies](#h_1_2)
+
+          - [Deemed supplies of property](#h_1_2_1)
+
+          - [Supplies deemed to be made in a province](#h_1_2_2)
+
+    - [Self-assessment](#h_1_3)
+
+    - [Rebates](#h_1_4)
+
+- [Factors to consider before applying the place of supply rules](#h_2)
+
+    - [Factor 1 – Single and multiple supplies](#h_2_1)
+
+          - [Conducting a single or multiple supply analysis](#h_2_1_1)
+
+          - [Incidental supplies](#h_2_1_2)
+
+    - [Factor 2 – Characterization of supplies](#h_2_2)
+
+          - [Definitions and terms](#h_2_2_1)
+
+          - [Intangible personal property versus a service](#h_2_2_2)
+
+          - [Specific types of supplies](#h_2_2_3)
+
+    - [Factor 3 – Place of supply rules for inside or outside Canada](#h_2_3)
+
+    - [Factor 4 – Tax status of supplies](#h_2_4)
+
+- [First Nations goods and services tax – place of supply](#h_3)
+
+    - [Supply is deemed to be made on FNGST lands in a non-participating province](#h_3_1)
+
+    - [Supply is deemed to be made on FNGST lands in a participating province](#h_3_2)
+
+    - [Supply is deemed to be made in Canada, but not on FNGST lands](#h_3_3)
+
+## General
+
+1. Taxable supplies of property or services that are made in Canada are generally subject to the GST (the federal part of the HST) under subsection 165(1) at the rate of 5%. In addition, taxable supplies that are made in a participating province are subject to the provincial part of the HST under subsection 165(2) at the provincial rate for that province, which results in the application of the HST at the relevant harmonized rate.
+
+2. In the case of a taxable supply that is made in Canada, it is necessary to determine the province where the supply is made in order to apply the applicable tax and rate. Provincial place of supply rules exist for GST/HST purposes to determine the province in which a supply is deemed to be made.
+
+3. Generally, the place of supply rules described in Chapter 3 of the GST/HST Memoranda Series are also used to determine if the First Nations goods and services tax (FNGST) applies to supplies where a First Nation or an Indigenous government has imposed the FNGST. For more information, refer to paragraphs 62 to 68 of this memorandum.
+
+4. Unless otherwise indicated, all references in this memorandum to supplies, are to taxable (other than zero-rated) supplies made in Canada.
+
+5. References in this memorandum to terms, concepts and examples are made in the context of the provincial place of supply rules for persons registered under Subdivision D of Division V of Part IX of the ETA (the regular GST/HST regime).
+
+6. The rules explained in this memorandum do not apply to supplies of digital property or services made or facilitated by persons registered under the digital economy provisions of Subdivision E of Division II of Part IX of the ETA (simplified GST/HST registration). Subdivision E contains separate registration and place of supply rules for distribution platform operators and non-resident suppliers of digital property and services. For additional information on the digital economy provisions, go to [GST/HST for digital economy businesses: Overview](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/digital-economy.html).
+
+7. A **participating province** means a province that has harmonized its provincial sales tax with the GST to implement the HST. Participating provinces include New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario and Prince Edward Island, but do not include the Nova Scotia offshore area or the Newfoundland offshore area except to the extent that offshore activities, as defined in subsection 123(1), are carried on in that area.
+
+8. A **non-participating province** means a province that is not a participating province, or another area in Canada that is outside the participating provinces. Although the Canada Revenue Agency (CRA) administers the GST/HST and the QST for selected listed financial institutions (SLFIs) located in Quebec, Quebec is a non-participating province for GST/HST purposes.
+
+9. Listed below are the current GST/HST rates for each province. For the list of all applicable GST/HST rates (current and historic), go to [GST/HST calculator (and rates)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html).
+
+| Province | Rate |
+
+| --- | --- |
+
+| Alberta | 5% |
+
+| British Columbia | 5% |
+
+| Manitoba | 5% |
+
+| Northwest Territories | 5% |
+
+| Nunavut | 5% |
+
+| Quebec | 5% |
+
+| Saskatchewan | 5% |
+
+| Yukon | 5% |
+
+| Province | Rate |
+
+| --- | --- |
+
+| New Brunswick | 15% |
+
+| Newfoundland and Labrador | 15% |
+
+| Nova Scotia | 14% |
+
+| Ontario | 13% |
+
+| Prince Edward Island | 15% |
+
+10. The CRA generally does not administer provincial taxes, duties or fees imposed by provincial legislation, other than the QST for persons that are SLFIs for GST/HST or QST purposes or both. To determine whether any provincial taxes, duties or fees are applicable in respect of a supply (for example, the QST in Quebec for persons that are not SLFIs), contact the appropriate provincial taxation authority.
+
+### Application of the GST or the HST
+
+11. The GST/HST place of supply rules that determine the province where a supply is deemed to be made are set out under the ETA as follows:
+
+- A supply made in Canada is deemed to be made in a province under section 144.1 if it is deemed to be made in the province under the place of supply rules in Schedule IX but is deemed to be made outside the province in any other case. Further, a supply that is made in Canada that is not made in any participating province is deemed to be made in a non-participating province.
+
+- Schedule IX contains a number of place of supply rules for specific types of supplies. However, provisions under Part IX of Schedule IX override the other place of supply rules in Schedule IX. Pursuant to section 3 of Part IX of Schedule IX, a supply made in Canada is made in a province if it is prescribed to be made in the province by Part 1 of the *New Harmonized Value-added Tax System Regulations*.
+
+- In addition, Part IX of Schedule IX sets out a number of rules that override the provincial place of supply rules in Schedule IX in circumstances where supplies are deemed to be made pursuant to various provisions of Part IX of the ETA, as outlined in paragraphs 12 and 13 of this memorandum.
+
+### Deemed supplies
+
+#### Deemed supplies of property
+
+12. Under section 1 of Part IX of Schedule IX, notwithstanding the provincial place of supply rules, a supply of property that is deemed under the following sections and subsections to have been made or received at any time is made where the property is situated at that time:
+
+- 129 – small supplier division of a public service body
+
+- 129.1 – supply by small supplier division
+
+- 171 – becoming and ceasing to be a registrant
+
+- 171.1 – taxi businesses
+
+- 172 – appropriation of property
+
+- 183(1) – seizure and repossession
+
+- 183(4) – use of real property seized by creditor
+
+- 184(1) – supply to insurer on settlement of claim
+
+- 184(3) – use of real property transferred to insurer
+
+- 196.1 – appropriation for use as capital property
+
+- 268 – inter vivos trusts
+
+#### Supplies deemed to be made in a province
+
+13. Under section 2 of Part IX of Schedule IX, notwithstanding the provincial place of supply rules in Schedule IX, a supply of property or a service is made in a province if the supply is deemed to be made in the province under Part IX of the ETA or regulations made under that Part. Some examples are:
+
+- Subsection 163(2.1) which deems the provincially taxable portion of a tour package in respect of a participating province to be a supply made in that province (for more information, refer to [GST/HST Memorandum 27-1, Calculating the GST/HST on Tour Packages](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/27-1.html)).
+
+- Subsection 178.8(4) which applies where a specified supply of imported goods is made outside Canada and the supplier and recipient of the goods enter into an agreement to have the supplier, rather than the recipient, be the person entitled to an input tax credit for the tax on the importation of the goods (for more information, refer to [GST/HST Policy Statement P-125R, Input Tax Credit Entitlement for Tax on Imported Goods](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-125.html)).
+
+- Subsection 179(1) which provides that in the case of a drop shipment, the supply of tangible personal property made to a non-resident person who is not registered is deemed to be made in the participating province where the physical possession of the tangible personal property is transferred (for more information, refer to [GST/HST Memorandum 3-3-1, Drop-Shipments](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-1.html)).
+
+### Self-assessment
+
+14. The provincial part of the HST does not always apply at the same rate to supplies made in the participating provinces, nor does it apply to supplies made outside the participating provinces. Consequently, the place of supply rules are complemented by rules requiring self-assessment of the provincial part of the HST where personal property and services are brought into a participating province from a non-participating province, or from another participating province with a lower tax rate or from outside Canada for consumption, use or supply in the participating province. These rules are set out under the following parts of the ETA and its regulations:
+
+- Division IV.1, Tax on Property and Services Brought into a Participating Province
+
+- Schedule X, Non-Taxable Property and Services for Purposes of Division IV.1 of Part IX
+
+- Part 5 of the *New Harmonized Value-added Tax System Regulations, No. 2*, Property and Services Brought into a Province
+
+15. For further information on self-assessment of the provincial part of the HST, refer to [GST/HST NOTICE266 - Draft GST/HST Technical Information Bulletin, Harmonized Sales Tax – Self-assessment of the provincial part of the HST in respect of property and services brought into a participating province](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice266.html).
+
+16. In addition, the imported taxable supply rules set out in Division IV ensure that the provincial part of the HST applies consistently regardless of whether a supply is made in or outside Canada.
+
+### Rebates
+
+17. Rebates of the provincial part of the HST paid on supplies of property or services made in the participating provinces may also be available if the property or services are removed from a participating province for consumption, use or supply outside the participating province. These rules are set out under the following parts of the ETA and its regulations:
+
+- Division VI, Rebates
+
+- Part 5 of the *New Harmonized Value-added Tax System Regulations, No. 2*, Property and Services Brought into a Province
+
+18. Generally, SLFIs, as defined in subsection 225.2(1), are not required to self-assess the provincial part of the HST under Division IV.1 and are not entitled to claim any rebates in respect of the provincial part of the HST. Also, SLFIs are not generally required to self-assess the provincial part of the HST under Division IV. Instead, SLFIs generally account for the provincial part of the HST through adjustments to their net tax calculation under subsection 225.2(2), and related regulations. For further information, refer to [Guide RC4050, GST/HST Information for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4050.html).
+
+## Factors to consider before applying the place of supply rules
+
+19. The provincial place of supply rules apply to determine whether a supply made in Canada is made in a participating province and is consequently subject to the provincial part of the HST in addition to the federal part of the HST. Before determining the place of supply in a province, the following issues must be considered:
+
+- determine if there is a single supply or if there are multiple supplies being made
+
+- characterize the nature of the supply or supplies
+
+- determine if the supply or supplies are made inside or outside of Canada
+
+- determine the tax status of the supply or supplies
+
+### Factor 1 – Single and multiple supplies
+
+20. When a transaction consists of several elements, it is first necessary to determine whether the transaction is a supply and if it is a single supply of all of the elements of the transaction or multiple supplies of separate elements. The application of certain place of supply rules can provide a different result depending on whether single or multiple supplies are involved, which can in turn result in the application of different tax rates.
+
+21. Where it is determined that a single supply consisting of several elements is made, the place of supply would generally be determined using the relevant place of supply rule that applies to the predominant element of that supply. However, where multiple supplies are made, the place of supply rules would generally be applied to each of the supplies separately.
+
+22. A single supply consisting of several elements may be subject to the relevant general place of supply rule for that supply rather than a specific place of supply rule that may have applied to the predominant element if supplied separately, as the conditions of the specific place of supply rule may not be met.
+
+23. For GST/HST purposes, the determination of whether a transaction consisting of several elements is to be regarded as a single supply or multiple supplies is based on a determination of fact.
+
+24. The following principles are used to determine whether a transaction consisting of several elements is to be regarded as a single supply or multiple supplies:
+
+- every supply should be regarded as distinct and independent
+
+- a supply that is a single supply from an economic point of view should not be artificially split
+
+- there is a single supply where one or more elements constitute the supply and any remaining elements serve only to enhance the supply
+
+#### Conducting a single or multiple supply analysis
+
+25. It is necessary to identify the various elements of a supply. An element of a supply is any property or service that could reasonably be supplied on its own. In identifying and analyzing the various elements of a transaction consisting of property, services or both, a distinction must be made between elements that are actually supplied to the recipient and those that are simply inputs consumed or used in making a supply.
+
+26. Consideration of the following issues can help to determine whether a transaction consists of a single supply or multiple supplies:
+
+- whether the property or services are provided by two or more suppliers
+
+- whether there is more than one recipient
+
+- what the supplier is providing for the consideration received
+
+- whether the recipient is made aware of the elements (in detail) that are part of the transaction
+
+- whether, in the context of the particular transaction, the recipient has the option to acquire the elements separately or to substitute elements
+
+27. The determination of whether a single supply or multiple supplies are made requires consideration of the relevant facts of each case. The examples throughout the provincial place of supply memoranda are based on an assumption of fact that single or multiple supplies are being made in those examples based on a single or multiple supply analysis.
+
+28. For further information regarding single or multiple supplies, refer to [GST/HST Policy Statement P-077R2, Single and Multiple Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-077r2.html).
+
+#### Incidental supplies
+
+29. There are also several legislative provisions in the ETA that deem single or multiple supplies to be made. An example of one such legislative provision concerns incidental supplies, which can deem a single supply to be made.
+
+30. Pursuant to section 138, if a single or multiple supply analysis concludes that there are multiple supplies, it is then necessary to determine whether one of those supplies is incidental to another and whether it may consequently be deemed to form part of a single supply. To be considered incidental, a supply generally plays only a minor or subordinate role in relation to the provision of another supply.
+
+31. Section 138 deems a supply to form part of another supply provided that they are supplied together for a single consideration. For this provision to apply, it must be reasonably regarded that the provision of one property or service is incidental to the supply of the other.
+
+32. For more information on the conditions that must be met for section 138 to apply, refer to [GST/HST Policy Statement P-159R1, Meaning of the Phrase Reasonably Regarded as Incidental](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-159r-1.html) and [GST/HST Policy Statement P-160R, Meaning of the Phrase - Where a Particular Property or Service is Supplied Together with any Other Property or Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-160r.html).
+
+### Factor 2 – Characterization of supplies
+
+33. The determination of the nature of a supply is relevant for various GST/HST purposes as there are different place of supply rules that apply to different types of supplies.
+
+#### Definitions and terms
+
+34. Paragraphs 35 to 41 of this memorandum list the terms that are relevant to the determination of the nature of a supply.
+
+35. **Property** as defined in subsection 123(1) means “any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money”.
+
+36. **Personal property** as defined in subsection 123(1) means “property that is not real property”.
+
+37. **Real property** as defined in subsection 123(1) “includes
+
+(a) in respect of property in the Province of Quebec, immovable property and every lease thereof,
+
+(b) in respect of property in any other place in Canada, messuages, lands and tenements of every nature and description and every estate or interest in real property, whether legal or equitable, and
+
+(c) a mobile home, a floating home and any leasehold or proprietary interest therein”.
+
+38. **Tangible personal property** is generally understood to mean personal property that may be seen and touched, and that is movable at the time the supply is made, but does not include money other than for purposes of Part VII of Schedule VI.
+
+39.**Intangible personal property** is not defined in the ETA, but is generally understood to mean property other than tangible personal property and real property, and includes contractual rights, options, shares in the common stock of a corporation, the right to recover a debt, intellectual property (patents, trade-marks, trade-names), and rights in relation to goods that are not in possession and other rights which may be enforced by the courts, but does not include money.
+
+40. The manner in which a supply of real property or tangible personal property is made can affect its characterization and the place of supply rules that consequently apply. For example, a supply by way of lease, licence or similar arrangement of the use or right to use real property or tangible personal property is deemed under subsection 136(1) to be a supply of real property or tangible personal property, as the case may be. There are also different place of supply rules that apply to sales and leases of tangible personal property.
+
+41.**Service** as defined in subsection 123(1) means “anything other than
+
+(a) property,
+
+(b) money, and
+
+(c) anything that is supplied to an employer by a person who is or agrees to become an employee of the employer in the course of or in relation to the office or employment of that person”.
+
+#### Intangible personal property versus a service
+
+42. It is important to determine whether a supply is one of intangible personal property or a service for purposes of the place of supply rules. The definition of property includes a right or interest of any kind and can therefore include a wide range of rights. A service generally includes anything other than property.
+
+43. In determining whether a particular supply is a supply of intangible personal property or a supply of a service, a number of factors must be considered such as:
+
+- the nature of the agreement between the supplier and the recipient
+
+- whether the agreement is in substance for work (or work and materials), or for property (including a right or interest of any kind)
+
+44. A key factor in making the distinction between a supply of intangible personal property and a service is whether the supply includes the provision of any rights and if so, whether those rights are the predominant element of the supply.
+
+45. If the supply includes the provision of rights and the rights are the predominant element of the supply, the supply is likely a supply of intangible personal property. If the rights are merely incidental, the supply is likely a supply of a service.
+
+46. The following are factors that generally indicate that a supply is one of intangible personal property:
+
+- a right in a product, a right to use a product for personal or commercial purposes or a right of access is provided, such as:
+
+    - intellectual property or a right to use intellectual property (for example, a copyright)
+
+    - rights of a temporary nature (for example, a right to view, access or use a digitized product while online)
+
+    - a membership in a club or association
+
+    - an admission to a workshop, seminar or event
+
+    - a transportation pass that entitles an individual to one or more passenger transportation services
+
+- a digitized product (for example, online music or online movies) is provided that has already been created or developed, or is already in existence
+
+- a digitized product (for example, a logo) is created or developed for a specific customer, but the supplier retains ownership of the product
+
+- a right to make a copy of a digitized product is provided
+
+47. The following are factors that generally indicate that a supply is a service:
+
+- the supply does not include the provision of rights (for example, technical know-how), or if there is a provision of rights, the rights are incidental to the supply
+
+- the supply involves specific work that is performed by a person for a specific customer, such as:
+
+    - a consulting service
+
+    - a training service or service of instruction
+
+    - a web design service
+
+- there is human involvement in making the supply
+
+#### Specific types of supplies
+
+48. There are specific place of supply rules that apply to supplies of specific types of property and services. Therefore, once a supply has been characterized as a supply of property or a service, it must also be determined whether it is a supply of a specific type of property or service. For example, a supply may be characterized as a service, but a determination must then be made to determine whether it is a specific type of service, such as a service in relation to tangible personal property and thus subject to the specific place of supply rules for that type of service.
+
+49. If a supply has been made for which a specific place of supply rule could apply, but not all of the conditions in that rule have been met, then the supply will be subject to the general place of supply rule for that type of supply.
+
+50. For supplies of property, it must be determined whether the supplies are one of the following:
+
+- tangible personal property
+
+- real property
+
+- intangible personal property
+
+51. For supplies of intangible personal property, it must be determined if the supplies are subject to the general place of supply rules for intangible personal property or if they relate to any of the following:
+
+- passenger transportation services
+
+- tangible personal property
+
+- real property
+
+52. For supplies of services, consideration must be given as to whether the supplies are subject to the general place of supply rules for services, or if the supplies are any of the following:
+
+- personal services
+
+- services in relation to tangible personal property
+
+- services in relation to real property
+
+- services in relation to a location-specific event
+
+- services rendered in connection with litigation
+
+- customs brokerage services
+
+- repairs, maintenance, cleaning, adjustments, or alterations to tangible personal property that the supplier has received from the recipient
+
+- production of negatives, transparencies, photographic prints, or other photographic-related goods
+
+- services of a trustee in respect of a trust governed by an RRSP, an RRIF, an RESP, an RDSP, or a TFSA
+
+- 1-900 or 976 services
+
+- computer-related services and Internet access
+
+- air navigation services
+
+- airport screening services
+
+- passenger transportation services
+
+- freight transportation services
+
+- postage and mail delivery services
+
+- telecommunication services
+
+53. In these cases, there is a specific place of supply rule that may apply and that should be considered first.
+
+### Factor 3 – Place of supply rules for inside or outside Canada
+
+54. The provincial place of supply rules only apply to determine whether a supply that is made in Canada is made in a province. Therefore, before considering the application of the provincial place of supply rules, it is necessary to determine whether the supply is made in Canada.
+
+55. Different place of supply rules determine whether a supply is made in or outside Canada for purposes of determining whether the GST or the federal part of the HST applies to the supply. These rules, which are also based on the nature of the supply that is made, are explained in [GST/HST Memorandum 3-3, Place of Supply](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3.html).
+
+56. In some cases, supplies made to non-registered non-residents involving drop shipments may be deemed to be made outside Canada as explained in [GST/HST Memorandum 3-3-1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-1.html).
+
+57. In other cases, a supply of personal property or a service (other than a qualifying tangible personal property supply as defined in subsection 211.1(1) made by a person required to be registered under section 211.22) made in Canada by a non-resident who is not registered and is not carrying on business in Canada, may be deemed to be made outside Canada. Whether a non-resident is carrying on business in Canada for GST/HST purposes is a question of fact requiring consideration of all relevant circumstances. The factors that the CRA considers in determining whether a non-resident person is carrying on business in Canada for GST/HST purposes are set out in [GST/HST Policy Statement P-051R2, Carrying on business in Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-051r2.html).
+
+58. For further information regarding the requirement to register for a person making or facilitating qualifying tangible personal property supplies, go to [GST/HST for digital economy businesses - Supply of qualifying goods threshold amounts](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/digital-economy-gsthst/find-out-need-register/sales-goods-threshold-amounts.html).
+
+59. If a supply is made outside Canada based on the place of supply rules, it is not necessary to consider the application of the provincial place of supply rules.
+
+### Factor 4 – Tax status of supplies
+
+60. The provincial place of supply rules are only relevant when determining if a supply is made in a province for purposes of determining whether the provincial part of the HST is payable in respect of taxable supplies that are made in Canada.
+
+61. Such a determination is not necessary with respect to supplies for which no tax is payable, such as exempt supplies (supplies included in Schedule V) and zero-rated supplies (supplies included in Schedule VI) in respect of which the rate of tax is 0%. For more information on zero-rated and exempt supplies, refer to Chapters 4 and 5 of the GST/HST Memoranda Series.
+
+## First Nations goods and services tax – place of supply
+
+62. The FNGST is a tax that may be imposed by a band council, other governing body of a First Nation or an Indigenous government on the lands that it governs. The FNGST at the rate of 5% applies to most supplies of property and services made on these lands.
+
+63. Everyone has to pay the FNGST on the supply of property and services made on lands where the FNGST applies including Indians, Indian bands, or band-empowered entities. However, certain provincial and territorial governments do not pay the FNGST. The CRA uses the term **Indian** in this memorandum because it has legal meaning under the *Indian Act*.
+
+64. For more information on the FNGST and the First Nations and Indigenous governments that impose the FNGST, go to [First Nations Goods and Services Tax](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-indigenous-peoples/first-nations-goods-services-tax.html). You may also refer to [Technical Information Bulletin B-102, First Nations Goods and Services Tax – Place of Supply](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-102.html).
+
+### Supply is deemed to be made on FNGST lands in a non-participating province
+
+65. The FNGST replaces the GST where the provincial place of supply rules deem the supply to be made on the lands where an FNGST is imposed and where those lands are located in a non-participating province. The supply is subject to the FNGST at the rate of 5%.
+
+### Supply is deemed to be made on FNGST lands in a participating province
+
+66. The FNGST replaces the federal part of the HST where the provincial place of supply rules deem the supply to be made on the lands where an FNGST is imposed and where those lands are located in a participating province. The supply is subject to the FNGST at the rate of 5%.
+
+67. Provided the purchaser meets the criteria set out in [GST/HST Technical Information Bulletin B-039, GST/HST Administrative Policy – Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html), the provincial part of the HST would be relieved. Where the purchaser does not qualify for relief of the provincial part of the HST under Technical Information Bulletin B-039, registered vendors are required to collect the provincial part of the HST in participating provinces unless relief of that part is provided by some other legislation or policy.
+
+### Supply is deemed to be made in Canada, but not on FNGST lands
+
+68. Where the provincial place of supply rules deem the supply to not have been made on FNGST lands, and the supply is made in Canada, then either the GST or the HST will apply depending on whether or not the supply is deemed to be made in a participating province.
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries**, call **Business Enquiries** at **1‑800‑959‑5525**
+
+- for **GST/HST technical enquiries**, call **GST/HST Ruling**s at **1‑800‑959‑8287**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1‑800‑567‑4692** or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution** (whether or not you are located in Quebec) and require information on the **GST/HST** or the **QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for **general GST/HST** or **QST enquiries**, call **Business Enquiries** at **1‑800‑959‑5525**
+
+- for **technical GST/HST** or **QST enquiries**, call **GST/HST Rulings SLFI** at **1‑855‑666‑5166**

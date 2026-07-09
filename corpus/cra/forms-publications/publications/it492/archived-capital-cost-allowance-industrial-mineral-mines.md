@@ -1,0 +1,112 @@
+---
+title: "ARCHIVED - Capital Cost Allowance - Industrial Mineral Mines"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it492/archived-capital-cost-allowance-industrial-mineral-mines.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Capital Cost Allowance - Industrial Mineral Mines
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-492**
+
+DATE: November 8, 1982
+
+SUBJECT: INCOME TAX ACT**Capital Cost Allowance - Industrial Mineral Mines**
+
+REFERENCE: Paragraph 20(1)(a) (also Regulations 1100(1)(g), 1101(4) and 1104, Schedule V to the Regulations).
+
+1. This bulletin discusses the type of industrial mineral mine in respect of which capital cost allowance under Part XI of the Regulations is available, and the method of calculating the amount of capital cost allowance that may be claimed.
+
+2. Capital cost allowance is available to a taxpayer pursuant to paragraph 20(1)(a), Regulation 1100(1)(g) and Schedule V to the Regulations, in respect of the capital cost to him of
+
+(a) an industrial mineral mine, or
+
+(b) a right to remove industrial minerals from an industrial mineral mine,
+
+except where, in either case, the industrial mineral mine is a "mineral resource" defined in subsection 248(1). Provision is made in Part XII of the Regulation for an allowance in respect of a mineral resource.
+
+3. The term "industrial mineral" means a non-metallic mineral capable of being used in industry, and the word mineral has its ordinary meaning of any chemical or compound occurring naturally as a product of inorganic processes. Some of the most common industrial minerals are:
+
+| Asbestos | Talc |
+
+| --- | --- |
+
+| Barite | Sulphur |
+
+| Gypsum | Sand |
+
+| Potash (sylvite) | Silica |
+
+| Salt (halite) | Phosphate |
+
+| Gravel | Quartz |
+
+| Clay | Feldspar |
+
+| Stone | Flourspar |
+
+| Limestone | Graphite |
+
+| Bentonite | Mica |
+
+|  | Nepheline Syenite |
+
+However, their classification as minerals from an "industrial mineral mine may be altered as a result of the definition of a "mineral resource" in subsection 248(1) which includes a mineral deposit in respect of which
+
+(a) the Minister of Energy, Mines and Resources has certified that the principal mineral extracted is an industrial mineral contained in a non-bedded deposit,
+
+(b) the principal mineral extracted is sylvite, halite or gypsum or
+
+(c) the principal mineral extracted is silica extracted from sandstone or quartzite.
+
+As a result, only minerals contained in bedded deposits will qualify as minerals from an industrial mineral mine unless the taxpayer has failed to obtain certification from the Minister of Energy, Mines and Resources in respect of a non-bedded deposit. Gravel, clay, stone, limestone, sand and feldspar usually occur in bedded deposits. On the other hand, asbestos, barite, flourspar, graphite, mica, nepheline syenite and talc usually occur in non-bedded deposits.
+
+4. Although peat is not a mineral, for purposes of Part XI of the Regulations and Schedules II and V to the Regulations an industrial mineral mine includes a peat bog or deposit of peat, a mineral includes peat, and mining includes the harvesting of peat, by virtue of Regulation 1104(3).
+
+5. Where the taxpayer has not been granted an allowance for a previous taxation year, the rate of the allowance in accordance with Schedule V to the Regulations is determined by dividing the capital cost of the mine or right to the taxpayer minus the residual value thereof, if any, by
+
+(a) in any case where the taxpayer acquired a right to remove only a specified number of units, the specified number of units that he acquired a right to remove, and
+
+(b) in any other case, the number of units of commercially mineable material estimated as being in the mine when the mine or right was acquired.
+
+Residual value refers to the estimated value of the property if all commercially mineable material were removed. Once established, the above rate continues to apply from year to year unless a recalculation is required to be made in circumstances set out in 6 below.
+
+6. The rate established in accordance with 5 above is required to be recalculated in any year that it is determined that
+
+(a) the capital cost of the mine or right is in fact substantially different from the previous capital cost amount used, or
+
+(b) the number of units of commercially mineable material contained in the mine was, at the commencement of the year in which the last recalculation of the rate occurred or at the date of acquisition of the mine or right where no recalculation has occurred, different from the number of units used in the last recalculation or the initial calculation where no recalculation has yet occurred.
+
+The new rate is then recalculated by dividing the undepreciated capital cost of the mine or right as of the commencement of the year, determined in accordance with paragraph 13(21)(f) using the corrected capital cost where appropriate, less any residual value, by
+
+(a) in any case where the taxpayer had acquired a right only to remove a specified number of units, the number of units of commercially mineable material at the commencement of the year that he had a right to remove, and
+
+(b) in any other case, the number of units of commercially mineable material estimated as remaining in the mine at the commencement of that year.
+
+7. The maximum capital cost allowance that may be claimed in respect of a particular mine or right is the lesser of
+
+(a) the amount computed by applying the rate established in accordance with 5 or 6 above to the number of units actually mined during the fiscal period under consideration, and
+
+(b) the undepreciated capital cost of the mine or right
+
+A taxpayer may, in lieu of claiming capital cost allowance as determined above for all his industrial mineral mines or rights, claim an amount not exceeding the lesser of
+
+(a) $100, or
+
+(b) the amount received by him in the taxation year from the sale of mineral
+
+In such case, the taxpayer, if he has more than one mine or right, may allocate the amount deducted among his mines and rights. It should be noted that no adjustment of the rate is provided for when a taxpayer fails to claim the maximum capital cost allowance in any year.
+
+8. Capital cost allowance under Part XI is limited to the capital cost of the mine or right and a disposition of the mine or right may give rise to a capital gain, recapture or terminal allowance. It should be noted in this regard that Regulation 1101(4) deems each mine or right in respect of which capital cost allowance may be claimed pursuant to Regulation 1100(1)(g) to be a separate prescribed class.
+
+9. Where land acquired as an industrial mineral mine is disposed of, the entire consideration received therefore is proceeds of disposition of depreciable property, namely, the industrial mineral mine, and is included in the calculation of the undepreciated capital cost of the class in which the mine is included under paragraph 13(21)(f). This is so even if the mine is exhausted prior to such disposition, or the taxpayer reserves the right to remove the industrial minerals, or has already, in a separate transaction, disposed of that right. A terminal allowance cannot arise as long as any part of the land or the right to remove the minerals therefrom is retained by the taxpayer.
+
+10. Expenditures made for surveying, testing or developing an industrial mineral mine or right for the purpose of determining whether it should be acquired are current operating expenses provided the taxpayer is in the mining business; otherwise, they are not deductible. As to whether a taxpayer is carrying on a business at the time, see IT-364. Such expenditures made after the decision to acquire the property but prior to actual acquisition will be included in the capital cost of the industrial mineral mine or right unless the property is not in fact acquired, in which case these costs would be eligible capital property provided the taxpayer is in the mining business or a related business. If is not carrying on such business at the time of incurrence, the expenditures will not be deductible. Where, however, the property in respect of which the expenditures were incurred is acquired, the expenditures form part of the capital cost of that property. If such costs are incurred after the acquisition of the property or right, they are deductible as expenses of the year in which they were incurred, unless they are classed as a "designated overburden removal cost" as defined in Regulation 1104(2), in which case they will be included in class 12. However, by virtue of Regulation 1104(7), a mine for purposes of class 12 does not include a sand pit, gravel pit, clay pit, shale pit, peat bog, deposit of peat or a stone quarry, thus eliminating most industrial mineral mines from receiving class 12 application.

@@ -1,0 +1,181 @@
+Title: Real Property Rebates
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3/new-housing-rebates-hst.html
+Corpus path: corpus/cra/forms-publications/publications/19-3/new-housing-rebates-hst.md
+Document type: publication
+Last modified: 2017-11-07
+
+# Real Property Rebates
+
+GST/HST memorandum 19.3 July 1998
+
+Overview
+
+This section of Chapter 19, *Special Sectors: Real Property* examines the provisions that allow for a full or partial rebate of GST/HST paid or payable in respect of real property. While eligibility for rebates under the HST generally follows the rules for rebates under the GST, there are particular considerations that are specific to rebates in the participating provinces. These topics are addressed in the following sections:
+
+19.3.1 Rebate for Builder-Built Unit (Land Purchased) 19.3.1.1 Rebate Forms Part of the Value of Consideration 19.3.2 Rebate for Builder-Built Unit (Land Leased) 19.3.3 Rebate for Cooperative Housing 19.3.4 Rebate for Owner-Built Homes 19.3.5 Rebate to Owner of Land Leased for Residential Use 19.3.6 Non-Registrant's Rebate 19.3.7 Real Property Rebates—Special Issues 19.3.8 New Housing Rebates and the HST
+
+Disclaimer
+
+The information in this memorandum does not replace the law found in the *Excise Tax Act* and its Regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation, or contact a Canada Revenue Agency (CRA) GST/HST Rulings Centre for more information. These centres are listed in GST/HST Memorandum 1.2, *Canada Revenue Agency GST/HST Rulings Centres*. If you wish to make a technical enquiry on the GST/HST by telephone, please call the toll-free number 1-800-959-8287. If you are located in the Province of Quebec, please contact Revenu Québec by calling the toll-free number 1-800-567-4692 for additional information.
+
+Note
+
+Section 19.3 supersedes GST Memorandum 500-4-5, *Housing and Other Real Property Rebates* as well as GST Memorandum 500-4-5-1, *GST New Housing Rebates Transferred to Builders*.
+
+## Properties eligible for housing and other real property rebates
+
+New housing rebates
+
+1. A rebate of part of the GST or federal component of the HST is available under particular conditions for individuals who:
+
+s 254 and 254.1
+
+- buy a new or substantially renovated residential complex from a builder;
+
+s 255
+
+- buy a share of the capital stock of a cooperative housing corporation for the purpose of inhabiting a new or substantially renovated residential unit in the co-op;
+
+s 256
+
+- build or substantially renovate their own residential complex, or who hire another person to do the construction or substantial renovation for them;
+
+s 190 and 256
+
+- convert non-residential real property to residential housing for use as their own primary place of residence; or
+
+s 254 and 256
+
+- acquire a single unit residential complex which has been relocated to a new site for use as their own primary place of residence.
+
+ss 254(2.1), 254.1(2.1), 255(2.1) and 256(2.1)
+
+2. In addition, individuals in Nova Scotia who qualify for a rebate listed in paragraph 1, with two exceptions, also qualify for a rebate of part of the provincial component of the HST. The Nova Scotia rebate is not available in cases where an individual has substantially renovated the individual's own housing or contracted another person to do so. It is also not available in cases where an individual has converted non-residential real property to residential housing.
+
+3. The Act provides rebates in two areas that do not involve housing construction:
+
+Land leased for exempt use
+
+s 256.1
+
+- A landowner, lessor, or sublessor of land may qualify for a rebate of tax paid on the acquisition of or improvements to land that is supplied by way of lease, licence or similar arrangement or by way of assignment to another person who in turn uses this land for certain exempt residential purposes.
+
+Non-registrant's rebate
+
+s 257
+
+- A person who is not a registrant for the GST/HST may qualify for a rebate of tax paid, subject to certain limitations, on the acquisition of or improvements to real property when that person makes a taxable sale of the property.
+
+## Key terms
+
+4. Some of the terms that are key to understanding the operation of real property rebates are discussed in Section 19.2, *Residential Real Property*. This introductory section to 19.3, *Real Property Rebates* contains more key terms and adds to the discussion in Section 19.2.
+
+|  | Paragraph |
+
+| --- | --- |
+
+| Builder | 6 |
+
+| Duplex | 7 |
+
+| Major Additions | 8 |
+
+| Place of residence | 10 |
+
+| Primary place of residence | 11 |
+
+| Qualifying unit | 5 |
+
+| Relation | 13 |
+
+| Residential condominium unit | 14 |
+
+| Substanital renovation | 15 |
+
+Qualifying unit
+
+5. Throughout these sections of the GST/HST Memoranda Series that discuss housing rebates, “unit” is used as a general term for a single unit residential complex or a residential condominium unit, which are the types of residential complexes that qualify for a GST/HST new housing rebate. For GST/HST new housing rebate purposes, “unit” applies to a detached house, a semi-detached house, a duplex, a townhouse, a residential condominium unit, a floating home, a mobile home, or a residential unit in a cooperative housing corporation. Effective June 1, 1997, certain bed and breakfast establishments (see paragraph 7.1) are treated as qualifying units for purposes of new housing rebates under sections 254, 254.1 and 256. The term “unit” also encompasses appurtenances and common areas to the unit and, except where the land is leased, the subjacent and immediately contiguous land to the extent that is reasonably necessary for the use and enjoyment of the unit as a place of residence. “Unit” does not include a multiple-unit residential complex other than a duplex or a bed and breakfast establishment. For a discussion of the amount of land that forms part of a residential complex, see GST/HST Memorandum 19.2.1, *Residential Real Property — Sales*. For information on rebates and mobile homes, see GST/HST Memorandum 19.3.7, *Real Property Rebates — Special Issues*.
+
+Builder
+
+ss 123(1)
+
+6. It is important to understand the meaning of the term “builder”, particularly for determining if a rebate may be claimed as a rebate for a builder-built unit (under sections 254 or 254.1) or as a rebate for an owner-built unit (under section 256). For purposes of GST/HST new housing rebates, a qualifying “builder” of a unit is a person who constructs or substantially renovates a residential complex on land owned or leased by that builder. For purposes of the GST/HST, a contractor is not a builder unless the contractor owns or leases the land on which the residential complex is situated. A qualifying builder may also be a manufacturer or vendor of a mobile home or floating home, a person who buys unoccupied new units for resale, or a person who acquires an interest in a unit while the unit is under construction or substantial renovation. For a complete discussion of the meaning of “builder”, see Section 19.2, *Residential Real Property*.
+
+Duplex
+
+7. A duplex is a residential complex consisting of not more than two separate residential units under one legal description, (i.e., separate legal title does not exist for the individual units). The effect is that the rebate provisions may apply to duplexes and to a single family home that includes a basement apartment that has been, or is intended to be, rented. For additional comments on duplexes, see Section 19.3.7, *Real Property Rebates—Special Issues*.
+
+Bed and breakfast establishment
+
+7.1 Effective June 1, 1997, a residential complex that contains one or more residential units that are for supply as rooms in a hotel, motel, inn, boarding house, lodging house or similar premises are treated as a single unit residential complex for the purposes of a new housing rebate under sections 254, 254.1 or 256 if the residential complex is owned by an individual or supplied by way of sale to an individual and is for use primarily (more than 50%) as the primary place of residence of the owner, a related individual, the owner's former spouse or former common-law partner. Such a residential complex, commonly known as a bed and breakfast establishment, is included in the definition of a single unit residential complex under these sections if the ownership of the complex is transferred to the person after May 1997.
+
+Major additions Technical Information Bulletin B-092
+
+8. For GST/HST rebate purposes, a major addition results in the creation of what is in effect a new residential complex. To be considered a major addition, the addition must change the character of the previous complex to such a fundamental extent that the original building and the addition together essentially form a newly constructed residential complex.
+
+Examples
+
+9. For further information and guidelines for determining if a major addition qualifies as a new residential complex please see Technical Information Bulletin B-092, [Substantial Renovations and the GST/HST New Housing Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-092.html).
+
+Place of residence Policy statement P-130
+
+10. “Place of residence” is an important term for determining eligibility for a GST/HST new housing rebate. One of the conditions for a new housing rebate is that the individual is acquiring or building the qualifying unit as a primary place of residence of the individual, or a relation. Similarly, an individual who has purchased a share in the capital stock of a cooperative housing corporation may apply for a new housing rebate only if the share is purchased for the purpose of using a particular unit as the primary place of residence of the individual or a relation of the individual. A place of residence has distinct characteristics from a temporary lodging. These characteristics are evident by the purpose of the stay, the amount of time of the stay, and the physical presence of the inhabitant. For a complete discussion on the meaning of “place of residence”, see the discussion in Section 19.2, *Residential Real Property.*
+
+Primary place of residence s 254, 254.1, 255 and 256
+
+11. A purchaser qualifies for a GST/HST new housing rebate only if he or she is purchasing the qualifying unit as a “primary place of residence” for either the purchaser or a relation of the purchaser (see paragraph 13). The “primary place of residence” of an individual is generally the residence that the individual inhabits on a permanent basis. Only one residence may be a person's primary place of residence at any one time. If a person has more than one place of residence, the following are some of the factors that are taken into consideration when determining if the residence qualifies as the primary one: whether the individual intends to use the home as his or her primary place of residence, the length of time the individual inhabits the premises, and the designation of that address on personal records.
+
+12. An individual's intention to use a residence as the individual's primary place of residence must be evident at the outset of acquiring, constructing or substantially renovating the residence. The intention to use the residence as a primary place of residence upon some more distant occasion such as retirement does not qualify that residence as the primary place of residence. Note that “primary place of residence” does not necessarily have the same meaning as a person's “principal place of residence” under the *Income Tax Act*.
+
+Relation, see related persons ss 126(2)
+
+13. “Relation” of a particular individual for purposes of a GST/HST new housing rebate means another individual related by blood, marriage or adoption within the meaning of subsection 251(6) of the *Income Tax Act* and includes a former spouse of the particular individual. Blood relationship is limited to parents, children or other descendants and siblings. Relations by marriage are the spouse of the individual and individuals who are connected to the spouse by blood relationship. Effective January 1, 2001, a “relation” also includes another person who is related by common-law partnership and includes a former common-law partner. A person is related by common-law partnership if one is in a common-law partnership with the other or with a person who is connected by blood relationship to the other..
+
+Residential condominium unit ss 123(1)
+
+14. For purposes of a GST/HST new housing rebate, a residential condominium unit means a separate single unit within a building along with applicable common areas. This unit is, or is intended to be, registered or described on a condominium or strata lot plan (or similar plan or description registered under provincial law).
+
+Substantial renovations Technical Information Bulletin B-092
+
+15. A GST/HST new housing rebate may be available where a unit has been substantially renovated. Generally, for rebate purposes, a unit that has been substantially renovated is treated the same as a unit that has been newly constructed. For example, if the renovation of a unit is sufficiently extensive to be considered a “substantial renovation”, the GST/HST new housing rebate will be available either to the qualifying purchaser of such a home from the “builder” or to a qualified individual if the individual carried out the renovation for his or her use as a primary place of residence or engaged a contractor to do the renovation. However, the Nova Scotia rebate (a rebate of part of the provincial component of the HST for units in Nova Scotia) is not available for units where the individual carried out the renovation or engaged a contractor to do so. For guidelines for determining if a renovation qualifies as a substantial renovation, see Techncial Information Bulletin B-092, [Substantial Renovations and the GST/HST New Housing Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-092.html).
+
+## Claiming a housing rebate
+
+All must be eligible, one applies ss 262(3)
+
+16. If two or more individuals purchase, construct or substantially renovate a unit, or engage another person to do so, each of the individuals must meet all of the eligibility requirements of the particular housing rebate being claimed. However, only one of the individuals may apply for the rebate, i.e., only one may be the claimant.
+
+Form GST190
+
+17. The publication *GST/HST New Housing Rebate* contains the application form, GST190, for the GST/HST new housing rebate. The guide accompanying the form provides step-by-step instructions on how to apply.
+
+Filing the application ss 254(5)
+
+18. In those cases where the builder pays or credits the rebate directly to the individual, the builder files the application with the Department. The builder fills out the builder-identification section of the form, ensures that the purchaser has properly certified the application, and mails the completed application with the builder's GST/HST return for the reporting period in which the GST/HST new housing rebate was paid or credited to the individual.
+
+Rebate transferred to builder
+
+19. In most cases where the builder pays or credits the rebate, the rebate becomes part of the consideration for the unit that the builder is selling to the purchaser. In such cases, the rebate calculation must take into account that the value of consideration includes the rebate amount.
+
+- For information on how to calculate the GST rebate for a qualifying property that is not subject to the HST when the GST rebate forms part of the value of consideration of the unit, see Section 19.3.1.1, *Rebate Forms Part Of The Value Of Consideration.*
+
+- For information on how to calculate the rebate for a qualifying property that is subject to the HST when the rebate forms part of the value of consideration of the unit, see Section 19.3.8, *New Housing Rebates and the HST*.
+
+Direct claims
+
+20. Where the builder does not pay or credit the rebate to the individual, or where the individual constructs or substantially renovates his or her own unit or purchases a qualifying share in a cooperative housing corporation, the individual files the application directly with the Department. The Department then pays the rebate directly to the individual.
+
+Interest
+
+21. The Department does not pay interest to the purchaser on the amount of the GST/HST new housing rebate paid or credited by a builder. If the purchaser files the rebate application, the Department will pay interest if the rebate is not issued within 60 days from the date the form is received.
+
+Other real property rebates
+
+22. Sections 19.3.1 to 19.3.5 and Section 19.3.8 deal with GST new housing rebates and new housing rebates of the federal component of the HST. The rebate of part of the provincial component of the HST for units in Nova Scotia is covered in Section 19.3.8, *New Housing Rebates and the HST.* For information on how to claim other real property rebates, see the Sections 19.3.5, *Rebate to Owner of Land Leased for Residential Use*, and 19.3.6, *Rebate on Non-Registrant's Sale of Real Property*.
+
+## Joint and several liability
+
+Incorrect amount to be repaid ss 254(6) and 254.1(6)
+
+23. A builder is jointly and severally liable with the purchaser if the builder pays or credits a housing rebate directly to a purchaser who is not entitled to the rebate. A builder is also jointly and severally liable with the purchaser if the builder pays or credits an amount that exceeds the rebate amount to which the individual is entitled. Where the Department has credited the builder with an incorrect rebate, the incorrect amount must be repaid to the Department.

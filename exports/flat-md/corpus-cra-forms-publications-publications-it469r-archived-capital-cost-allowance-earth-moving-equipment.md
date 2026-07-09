@@ -1,0 +1,128 @@
+---
+title: "ARCHIVED - Capital cost allowance - Earth-moving equipment"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it469r/archived-capital-cost-allowance-earth-moving-equipment.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Capital cost allowance - Earth-moving equipment
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-469R**
+
+DATE: September 28,1990
+
+SUBJECT: INCOME TAX ACT**Capital cost allowance - Earth-moving equipment**
+
+REFERENCE: Paragraph 20(1)(a) (also subsections 1100(2), 1101(3) and (5l), 1103(2d) and 1104(5) and (6) of the Regulations and classes 22 and 38 of Schedule II of the Regulations)
+
+APPLICATION
+
+This bulletin replaces and cancels Interpretation Bulletin IT-469 dated February 16, 1981. Current revisions are designated by vertical lines.
+
+SUMMARY
+
+This bulletin outlines the criteria in determining whether or not certain equipment qualifies to be included in class 22 or 38 of Schedule II of the Income Tax Regulations as "power-operated movable equipment designed for the purpose of excavating, moving, placing or compacting earth, rock, concrete or asphalt" (referred to in this bulletin as "qualifying equipment"). It also deals with the rates applicable to the two classes and the elections available to create a separate class for class 38 property and to transfer property from class 22 to 38.
+
+DISCUSSION AND INTERPRETATION
+
+1. Subject to 7 below, class 22 applies to qualifying equipment acquired after March 16, 1964 and before 1988, or before 1990 if it was
+
+(a) acquired pursuant to an obligation in writing entered into by the taxpayer before June 18, 1987, or
+
+(b) under construction by or on behalf of the taxpayer on June 18, 1987.
+
+The maximum capital cost allowance in a taxation year for property included in class 22 is 50% of the undepreciated capital cost of the class at the end of the taxation year.
+
+2. Subject to 7 below, class 38 applies to qualifying equipment acquired after 1987 unless acquired in 1988 or 1989 and 1(a) or (b) above applies. The maximum capital cost allowance in a taxation year for property included in class 38 is 40%, 35% and 30% of the undepreciated capital cost of the class at the end of the taxation year for the 1988, 1989 and 1990 and subsequent calendar years, respectively. For taxation years which include a part of two calendar years with different rates, the rate applicable to the class for a calendar year is prorated based on the number of days of the taxation year in each applicable calendar year. The aggregate of the resulting rates determines the maximum rate of capital cost allowance for the taxation year. For example, the maximum rate for a taxpayer with a taxation year commencing on October 1, 1988 and ending on September 30, 1989 is established as follows:
+
+A × B ÷ C = D
+
+E × F ÷ C = G
+
+D + G = Maximum rate for the taxation year
+
+where
+
+A = 40% (rate for 1988)
+
+B = 92 (days of taxation year in 1988)
+
+C = 365 (days in the taxation year)
+
+D = 10.08%
+
+E = 35% (rate for 1989)
+
+F = 273 (days of taxation year in 1989)
+
+G = 26.17%
+
+Maximum rate for the taxation year = 36.25%
+
+3. Subsection 1101(5l) of the Regulations provides for an election to classify a property described in class 38 in a separate class. The election must be made by letter in the tax return for the taxation year in which the taxpayer acquired the property. The election must be made no later than the last day on which the taxpayer may file a tax return for the taxation year in accordance with section 150 of the Act. The separate class election would allow a terminal loss to be realized if the property in the separate class is disposed of by abandonment or otherwise and there is an undepreciated capital cost for that separate class at the end of the taxation year.
+
+4. Subsection 1100(2) of the Regulations limits capital cost allowance claims in the taxation year of acquisition of class 22 or 38 property to the amount otherwise available less one-half of the capital cost allowance attributable to "net acquisitions" in the year, determined on a class by class basis. The term "net acquisitions" generally refers to the cost of acquisitions in the year in excess of the net proceeds of dispositions in that year. Where a taxpayer has disposed of a class 22 property in a particular taxation year and has acquired a class 38 property before the end of the particular taxation year that is not included in a separate class (see 3 above), subsection 1103(2d) of the Regulations provides for an election to transfer the class 22 property, before its disposition, to class 38. This will have the effect of reducing or eliminating the capital cost allowance attributable to "net acquisitions" in a year. The use of this election also allows a taxpayer, in certain circumstances, to defer recapture of capital cost allowance by treating the class 22 property as if it were included in class 38. The election must be made by letter in the tax return for the taxation year in which the class 22 property was disposed of. The election must be made no later than the last day on which the taxpayer may file a tax return for the taxation year in accordance with section 150 of the Act.
+
+5. The phrase "power-operated" in class 22 means a piece of equipment that is driven or handled either by its own motor or by a separate but closely associated source of power, such as a tractor in the case of earth-moving equipment or an air-compressor in the case of a rock drill.
+
+Where the separate source of power is portable and is designed to be particularly suitable for the operation of equipment described in class 22 or 38 it may be included in that same class if it is used primarily for the operation of such equipment. Horse-powered or hand -operated equipment does not come within the scope of class 22 or 38.
+
+6. "Movable" equipment includes a machine that is designed to be moved, as the work requires, on its own wheels, treads or skids, or to be carried (e.g. certain compressed air drills). Immovable or semi- portable equipment is excluded from class 22 or 38. For example, a machine for manufacturing cement blocks, which is used for the purpose of compacting concrete but is not movable, is excluded.
+
+7. The following properties are not included in class 22 or 38, even though they may fit the description of qualifying equipment:
+
+(a) Vessels (including dredges), equipment forming part of a marine railway, and any other property included in class 7,
+
+(b) Property forming part of a railway, included in class 4,
+
+(c) Logging equipment included in class 10 by virtue of paragraphs (n) or (o) of that class,
+
+(d) Mining equipment and other property used in connection with a mine included in class 28 or 41 or in class 10 by virtue of paragraphs (k),(l), (m) or (r) of that class.
+
+(e) Power-operated movable equipment designed principally for natural resource exploration and included in class 10 by virtue of paragraph (t) of that class or class 41 by virtue of subparagraph (b)(i) of that class.
+
+8. For equipment to qualify under class 22 or 38, the key requirement is that it be designed to be used for one or more of the purposes of excavating, moving, placing or compacting earth, rock, concrete or asphalt. Generally, the actual use by a taxpayer of a property that meets the foregoing qualifications is not a factor in determining whether or not it qualifies for inclusion in class 22 or 38 unless its use is such that it would bring the asset into another class which would override class 22 or 38. For example, if an asset is used in mining or logging, that use would indicate that it was acquired for such purpose and therefore is required to be included in class 10, 28 or 41 rather than class 22 or 38. Class 22 or 38 may also apply to equipment acquired after March, 16, 1964 which has been leased to other persons for use by them.
+
+9. Automotive equipment described in paragraph (a) of class 10 may qualify for inclusion in class 22 or 38, because the provisions of class 22 or 38 override that paragraph of class 10. However, where the automotive equipment is also described in one of paragraphs (k) to (o), (r) or (t) of class 10 or in class 41, as well as class 22 or 38, it is included in class 10 or 41 since those paragraphs override class 22 or 38.
+
+LOGGING ROAD EQUIPMENT
+
+10. The phrase "mechanical equipment acquired for logging operations" in paragraph (o) of class 10 is considered to include power-operated, movable, road-building equipment acquired to construct roads to or within a timber limit. In accordance with by the Federal Court of Appeal Decision in the case of Lor-Wes Contracting Ltd. v. The Queen, 1985 2 CTC 79 - 85 DTC 5310, the phrase applies to mechanical equipment acquired by a subcontractor of such roads. Such equipment is not included in class 22 or 38.
+
+MINING AND PROCESSING EQUIPMENT
+
+11. Whether or not such equipment is owned by the owner of a mineral resource, the extended definition of "income from a mine" provided by subsections 1104(5) and (6) of the Regulations prevents the inclusion in class 22 or 38 of equipment used in any stage of mineral production to the prime metal, pellet or crude oil stage or its equivalent. For example, trucks owned and operated by a processor of ore to the prime metal stage and used to haul ore from a mine to the refinery may not be included in class 22 or 38.
+
+INDUSTRIAL MINERAL MINING EQUIPMENT
+
+12. An industrial mineral mine is a "mine" for purposes of Part Xl of the Regulations. Subsections 1104(5) and (6) of the Regulations only extend the meaning of the term "mine" for the purposes stated. Accordingly, equipment acquired in relation to an industrial mineral mine that would otherwise qualify for inclusion in class 22 or 38 is included in class 10 by virtue of paragraphs (k), (l) or (m) of that class or in class 41 by virtue of paragraph (b) of that class. Examples of such equipment are shovels and loaders used in and around a gravel pit prior to processing activities and trucks used to transport the gravel to a processing plant.
+
+CONTRACTOR'S MOVABLE EQUIPMENT
+
+13. Property which is contractor's movable equipment except property qualified for inclusion in paragraph (t) of class 10, in paragraph (b) of class 41 or in a separate class prescribed by subsection 1101(2b) of the Regulations, is to be included in class 10 by virtue of paragraph (h) of that class. However if such property would also qualify for inclusion in class 22 or 38, it is included in class 22 or 38 and not class 10 because of the specific exclusion in subparagraph (h)(iii) of class 10.
+
+14. Generally cranes or hoists used in lifting or placing objects or material do not qualify for inclusion in class 22 or 38. If such equipment is designed, modified or acquired with special accessories to enable it to be used for the purposes of excavating, moving, placing or compacting earth, rock, concrete or asphalt, such equipment may be included in class 22 or 38.
+
+15. Equipment that handles one or more of the items specified in class 22 (i. e., earth, rock, concrete or asphalt) but does so for some purpose other than excavating, moving, placing or compacting as referred to in that class would not qualify for inclusion in that class or in class 38. Examples of such equipment are
+
+(a) an asphalt batching plant,
+
+(b) crushing, washing and screening equipment, and
+
+(c) a cement mixer not designed for the direct placing of concrete. On the other hand, a truck-mounted cement mixer is included in class 22 or 38 because it is designed to allow its contents to be put directly into place.
+
+16. The following are items, frequently used by contractors and others, that do not meet the requirements for inclusion in class 22 or 38:
+
+(a) pile drivers and related equipment,
+
+(b) truck weigh scales, and
+
+(c) equipment transporters.

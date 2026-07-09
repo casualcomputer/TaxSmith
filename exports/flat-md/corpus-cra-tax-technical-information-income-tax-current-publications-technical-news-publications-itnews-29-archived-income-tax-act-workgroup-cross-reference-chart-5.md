@@ -1,0 +1,246 @@
+---
+title: "Income Tax Act – Workgroup Cross-Reference Chart"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29/archived-income-tax-act-workgroup-cross-reference-chart-5.html
+last_modified: 2019-10-08
+---
+# Income Tax Act – Workgroup Cross-Reference Chart
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for income tax technical news](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/what-archived-content-notice-means-income-tax-technical-news.html)
+
+This document is also available [in other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29.html).
+
+## Table 6
+
+| *Income Tax Act* Reference | English Workgroup Number | Bilingual Workgroup Number |
+
+| --- | --- | --- |
+
+| 50(1) | 24 | 22 |
+
+| 50(1.1) | 24 | 22 |
+
+| 50(2) | 24 | 22 |
+
+| 50(3) | 43 | 44 |
+
+| 51(1) | 12 | 14 |
+
+| 51(2) | 12 | 14 |
+
+| 51(3) | 12 | 14 |
+
+| 51(4) | 12 | 14 |
+
+| 51.1 | 42 | 44 |
+
+| 52(1) | 24 | 22 |
+
+| 52(1.1) | 31 | 32 |
+
+| 52(2) | 15 | 14 |
+
+| 52(3) | 15 | 14 |
+
+| 52(4) | 24 | 22 |
+
+| 52(5) | 43 | 44 |
+
+| 52(7) | 31 | 32 |
+
+| 52(8) | 15 | 14 |
+
+| 53(1) | 25 | 22 |
+
+| 53(1.1) | 23 | 22 |
+
+| 53(2) | 25 | 22 |
+
+| 53(2.1) | 23 | 22 |
+
+| 53(3) | 23 | 22 |
+
+| 53(4) | 23 | 22 |
+
+| 53(5) | 23 | 22 |
+
+| 53(6) | 12 | 14 |
+
+| 54 | 15 | 14 |
+
+| 54.1(1) | 24 | 22 |
+
+| 54.1(2) | 24 | 22 |
+
+| 54.2 | 12 | 14 |
+
+| 55(1) | 12 | 14 |
+
+| 55(2) | 12 | 14 |
+
+| 55(3) | 12 | 14 |
+
+| 55(3.01) | 12 | 14 |
+
+| 55(3.02) | 12 | 14 |
+
+| 55(3.1) | 12 | 14 |
+
+| 55(3.2) | 12 | 14 |
+
+| 55(3.3) | 12 | 14 |
+
+| 55(4) | 12 | 14 |
+
+| 55(5) | 12 | 14 |
+
+| 56(1)(a) | 43 | 44 |
+
+| 56(1)(a.1) | 24 | 22 |
+
+| 56(1)(b) | 24 | 22 |
+
+| 56(1)I | 24 | 22 |
+
+| 56(1)(c.2) | 24 | 22 |
+
+| 56(1)(d) | 41 | 44 |
+
+| 56(1)(d.2) | 43 | 44 |
+
+| 56(1)(e) | 25 | 22 |
+
+| 56(1)(f) | 25 | 22 |
+
+| 56(1)(g) | 43 | 44 |
+
+| 56(1)(h) | 43 | 44 |
+
+| 56(1)(h.1) | 43 | 44 |
+
+| 56(1)(h.2) | 43 | 44 |
+
+| 56(1)(i) | 43 | 44 |
+
+| 56(1)(j) | 41 | 44 |
+
+| 56(1)(l) | 24 | 22 |
+
+| 56(1)(l.1) | 43 | 44 |
+
+| 56(1)(m) | 23 | 22 |
+
+| 56(1)(n) | 23 | 22 |
+
+| 56(1)(o) | 23 | 22 |
+
+| 56(1)(p) | 23 | 22 |
+
+| 56(1)(q) | 43 | 44 |
+
+| 56(1)® | 23 | 22 |
+
+| 56(1)(s) | 24 | 22 |
+
+| 56(1)(t) | 43 | 44 |
+
+| 56(1)(u) | 25 | 22 |
+
+| 56(1)(v) | 25 | 22 |
+
+| 56(1)(w) | 43 | 44 |
+
+| 56(1)(x) | 43 | 44 |
+
+| 56(1)(y) | 43 | 44 |
+
+| 56(1)(z) | 43 | 44 |
+
+| 56(1)(aa) | 25 | 22 |
+
+| 56(1.1) | 41 | 44 |
+
+| 56(2) | 15 | 14 |
+
+| 56(3) | 23 | 22 |
+
+| 56(4) | 23 | 22 |
+
+| 56(4.1) | 23 | 22 |
+
+| 56(4.2) | 23 | 22 |
+
+| 56(4.3) | 23 | 22 |
+
+| 56(5) | 24 | 22 |
+
+| 56(8) | 24 | 22 |
+
+| 56(9) | 24 | 22 |
+
+| 56(10) | 43 | 44 |
+
+| 56(11) | 43 | 44 |
+
+| 56.1(1) | 24 | 22 |
+
+| 56.1(2) | 24 | 22 |
+
+| 56.1(3) | 24 | 22 |
+
+| 56.1(4) | 24 | 22 |
+
+| 56.2 | 42 | 44 |
+
+| 56.3 | 42 | 44 |
+
+| 57(1) | 43 | 44 |
+
+| 57(2) | 43 | 44 |
+
+| 57(3) | 43 | 44 |
+
+| 57(4) | 43 | 44 |
+
+| 57(5) | 43 | 44 |
+
+| 58(1) | 24 | 22 |
+
+| 58(2) | 24 | 22 |
+
+| 58(3) | 24 | 22 |
+
+| 58(4) | 24 | 22 |
+
+| 58(5) | 24 | 22 |
+
+| 58(6) | 24 | 22 |
+
+| 58(7) | 24 | 22 |
+
+| 59(1) | 13 | 14 |
+
+| 59(2) | 13 | 14 |
+
+| 59(3.2) | 13 | 14 |
+
+| 59(3.3) | 13 | 14 |
+
+| 59(3.4) | 13 | 14 |
+
+| 59(3.5) | 13 | 14 |
+
+| 59(5) | 13 | 14 |
+
+| 59(6) | 13 | 14 |
+
+| 59.1 | 13 | 14 |
+
+[ [Income Tax  Technical News No. 29](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29/archived-income-tax-technical-news-no-29.html) ] [ [Table of Contents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29/archived-income-tax-act-workgroup-cross-reference-chart-26.html) ] [ [Next](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29/archived-income-tax-act-workgroup-cross-reference-chart-6.html) ]

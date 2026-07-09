@@ -1,0 +1,78 @@
+---
+title: "University outside Canada: applying for qualified donee status"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc191/qualified-donee-becoming-a-prescribed-university-outside-canada.html
+last_modified: 2020-02-27
+---
+# University outside Canada: applying for qualified donee status
+
+## Summary
+
+This information sheet explains the Canada Revenue Agency’s (CRA) criteria and process for foreign educational institutions applying for qualified donee status as a university outside Canada under the Canadian Income Tax Act.
+
+As a qualified donee, a registered university outside Canada can issue official donation receipts for gifts it receives. These receipts allow donors with taxable income in Canada to claim a credit on their Canadian income tax and benefit return or a deduction on their Canadian corporation income tax return. Qualified donees are also the only entities that Canadian registered charities are allowed to make gifts to.
+
+A university outside Canada that is registered as a qualified donee will have its name, location, and registration status included on the CRA’s publicly available list of qualified donees. To see the list, go to [List of universities outside Canada registered as qualified donees](https://www.canada.ca/en/revenue-agency/services/charities-giving/other-organizations-that-issue-donation-receipts-qualified-donees/other-qualified-donees-listings/list-prescribed-universities-outside-canada.html).
+
+## Registration criteria
+
+To be eligible for qualified donee status as a university outside Canada, a foreign educational institution must do **all** of the following:
+
+- maintain an academic entrance requirement of at least secondary school matriculation standing
+
+- be organized for teaching, study, and research in the higher branches of learning
+
+- ordinarily include Canadian students in its student body
+
+- have the authority to grant degrees of at least the baccalaureate level (bachelor or equivalent) according to the academic standards and statutory definitions of the country the institution is located in. This means that an institution will not qualify if it either:
+
+    - grants only associate degrees, diplomas, certificates, or other degrees at a level lower than a bachelor degree or equivalent
+
+    - is affiliated to a university but does not have the authority to grant degrees at the baccalaureate level or higher
+
+## Application process
+
+To apply for qualified donee status as a university outside Canada, an official or authorized representative of the foreign educational institution should send a letter to the CRA’s Charities Directorate. The letter should state that the institution is asking for qualified donee status and must include, or be accompanied by, all of the following information and supporting documents:
+
+- the institution’s identifying information, such as its legal name, mailing address, physical address, and phone number(s)
+
+- the institution’s fiscal period-end
+
+- a list of all the institution’s current officials, for example, its directors, trustees, and like officials
+
+- a copy of the institution’s complete governing documents, for example, incorporating documents and any amendments as well as current bylaws
+
+- the institution’s general admission requirements
+
+- a copy of documents issued by the appropriate educational authority in the institution’s country of residence that confirm the institution is one of higher learning and has the authority to grant degrees of at least the bachelor level
+
+- a list of the Canadian students who have attended the institution during the last five years and identification information for each student. The list should include each student’s full name (first, last, and middle initial (if available)), Canadian address, date of birth, and Canadian social insurance number (if available), as well as each year or semester they attended. The institution may need to contact the Canadian students to get their approval to release this information.
+
+- the institution’s website address, if available
+
+The CRA cannot register an institution as a qualified donee without a complete submission. All the information above is needed for the institution’s request to be considered complete and must be in English or French. Any documents in other languages must be accompanied by a certified English or French translation.
+
+Under the confidentiality provisions of the Income Tax Act, the CRA can only communicate with the institution’s officials (director, trustee, or like official) or individuals the institution has authorized the CRA to deal with. To authorize a representative who is handling the application for the foreign educational institution, go to [Representative authorization](https://www.canada.ca/en/revenue-agency/services/tax/representative-authorization.html).
+
+Send the application letter and all supporting documents to:
+
+Assessment, Determinations, and Monitoring Division Charities Directorate Canada Revenue Agency Ottawa ON K1A 0L5 Canada
+
+The CRA will review the application. If an institution meets the criteria, the CRA will send it a letter confirming its qualified donee registration as a university outside Canada. The CRA will also add the institution’s name, location, and effective date of registration to the publicly available list of qualified donees on the [Canada.ca](http://www.canada.ca) website. If the institution does not meet the requirements, the CRA will send it a letter explaining why the CRA denied its application.
+
+The effective date of registration as a qualified donee will be the date the CRA received the complete application. While it is registered as a qualified donee, the university outside Canada can issue official donation receipts for gifts it receives and registered charities can make gifts to it.
+
+## Requirements for maintaining qualified donee registration
+
+To keep its qualified donee status, a registered university outside Canada must meet certain requirements under the Act. These include making sure it issues official donation receipts properly and keeping books and records supporting any official donation receipts it issues. For more information, go to [Registered universities outside Canada](https://www.canada.ca/en/revenue-agency/services/charities-giving/other-organizations-that-issue-donation-receipts-qualified-donees/prescribed-universities-outside-canada.html).
+
+## Name or address changes after applying
+
+A registered university outside Canada should inform the CRA of any changes to its legal name or address so that its information on the qualified donees list is correct. To provide this information, the university outside Canada can write a letter to the above address. The letter needs to include the name and signature of a current official or authorized representative. For the CRA to process the change, the institution must also send in the legal document effecting the name change, such as an amended incorporation document.
+
+## Certifying amounts for Canadian students
+
+Students from Canada may need the university to certify information to support their eligibility for a tax credit for qualifying education. For more information, see [Information for Educational Institutions Outside Canada](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-32300-your-tuition-education-textbook-amounts/recognized-educational-institutions-outside-canada/info-educational-institutions-outside-canada.html).
+
+## Contact the Charities Directorate
+
+If you have any questions on how to apply for qualified donee status as a university outside Canada, [contact the Charities Directorate](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/contact-charities-directorate.html).

@@ -1,0 +1,37 @@
+Title: We are the Canada Revenue Agency
+Source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/individuals-video-gallery/transcript-we-canada-revenue-agency.html
+Corpus path: corpus/cra/multimedia/individuals-video-gallery/transcript-we-canada-revenue-agency.md
+Document type: video_transcript
+Last modified: 2016-07-04
+
+# We are the Canada Revenue Agency
+
+## Transcript
+**NARRATOR:** **The Canada Revenue Agency**
+We are Canada's tax and benefits administrator.
+Every day, we contribute to the quality of life in Canada by delivering world-class tax and benefit services. We work hard to earn the confidence of Canadians and to make sure our services meet their needs.
+**We are one of the largest government departments,**with employees in every region—more than 40,000 across Canada.
+We handle over $1 billion a day…every day of the year.
+Our information technology systems process over 18 million tax returns that are filed electronically during the tax filing season.
+On April 30th alone, our systems successfully handle over 1 million returns.
+**We are an important part of the engine that helps Canada operate.**
+We collect all federal and most provincial and territorial taxes. These taxes finance public programs and services across the country.
+Our partnerships with the provinces and territories help us achieve our mission while minimizing the burden on Canadians.
+Each year, we process over $400 billion in taxes and duties to support Canada's public services and to process and distribute social benefits.
+And each year we deliver about $22 billion in benefits and credits to Canadians. Those payments include the GST/HST credit and the disability tax credit.
+**We support Canada's economic growth, helping Canadian businesses to innovate.**
+We administer the largest federal program supporting business research and development in Canada, providing over $3 billion in tax assistance to Canadian businesses every year.
+**We are responsible for registering charities in Canada and for making sure they use their resources for charitable purposes.**
+There are over 85,000 charities registered with the Canada Revenue Agency.
+We keep a list of all registered charities that Canadians can search to learn about how each charity spends its resources.
+**One of our priorities is to continually improve our services to businesses and individuals.**
+We meet with small businesses across the country to find ways to reduce red tape.
+With our community partners, we train volunteers to prepare income tax returns for people who need help.
+Each year, through our community volunteer income tax program, over 18,000 volunteers file over half a million returns.
+We offer many secure online services that make it easy for Canadians to manage their tax affairs 24/7 - from filing and paying, to keeping track of their interactions with the CRA.
+We strive to make it easier for Canadians to ask for, and to get, tax and benefit information through our telephone call centre, answering over 23 million calls a year.
+And through our website, which is one of the most visited government websites, with over 100 million visits every year.
+**Our efforts bring results.**
+Canada is consistently rated as one of the top 10 countries for tax administration.
+**We are a diverse workforce, dedicated to integrity, professionalism, respect, and cooperation, and committed to the highest level of service.**
+**We are the Canada Revenue Agency.**

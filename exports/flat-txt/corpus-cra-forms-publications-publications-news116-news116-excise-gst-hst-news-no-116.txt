@@ -1,0 +1,367 @@
+Title: Excise and GST/HST News - No. 116
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news116/news116-excise-gst-hst-news-no-116.html
+Corpus path: corpus/cra/forms-publications/publications/news116/news116-excise-gst-hst-news-no-116.md
+Document type: publication
+Last modified: 2024-05-15
+
+# Excise and GST/HST News - No. 116
+
+May 2024
+
+## Table of contents
+
+- [Federal Budget 2024](#tc1)
+
+- [GST rebate for purpose-built rental housing](#tc2)
+
+    - [Background](#tc21)
+
+    - [What's New](#tc22)
+
+    - [CRA Publications to Update](#tc23)
+
+- [Proposed new joint venture election rules](#tc3)
+
+- [Proposed Amendment – GST/HST Exemption for Psychotherapy and Counselling Therapy Services](#tc4)
+
+- [Reinstatement of the GST/HST Relief for Nisg̱a'a Citizens](#tc5)
+
+    - [Background](#tc51)
+
+    - [GST/HST Implications of the Amendments](#tc52)
+
+    - [CRA Publications to Update](#tc53)
+
+- [Nisg̱a'a Nation: End of the First Nations goods and services tax on their Lands](#tc6)
+
+- [The Continuation of GST/HST Relief for Tla'amin Citizens](#tc7)
+
+- [Temporary Relief of the Fuel Charge – Light Fuel Oil For Use Exclusively in Eligible Heating Activities](#tc8)
+
+- [Fuel Charge rate adjustments](#tc9)
+
+- [Changes to mandatory electronic filing for GST/HST returns](#tc10)
+
+    - [Electronic filing thresholds](#tc101)
+
+    - [Benefits to filing online](#tc102)
+
+    - [How to file electronically](#tc103)
+
+- [Prescribed rates of interest](#tc11)
+
+- [Forms and publications](#tc12)
+
+- [Contact us](#tc13)
+
+## Federal Budget 2024
+
+On April 16, 2024, the Minister of Finance tabled [Budget 2024](https://budget.canada.ca/2024/home-accueil-en.html) which proposed to amend the *Excise Tax Act* and the *Excise Act, 2001*, and also confirmed the Government's intention to proceed with certain previously announced measures relating to the GST/HST, Excise duty and the Underused Housing Tax.
+
+Proposed GST/HST and excise duty measures include:
+
+**GST/HST measures**
+
+- Extending the purpose-built rental housing rebate to new student residences
+
+- GST/HST on face masks and face shields
+
+    - Budget 2024 proposes to eliminate the temporary zero-rating of certain face masks and face shields that was implemented during the COVID-19 pandemic. The removal of zero‑rated treatment would be effective for supplies made on or after May 1, 2024.
+
+**Excise duty measures**
+
+- Tobacco and vaping product taxation
+
+    - For information on the excise duty on tobacco, refer to EDN93 Budget 2024 – Changes to Excise Duty Rates on Tobacco Products and EDN94 Budget 2024 – Cigarette Inventory Tax on April 17, 2024.
+
+**Other Tax measures**
+
+- An opt-in fuel, alcohol, cannabis, tobacco and vaping sales tax framework for Indigenous governments
+
+For additional information on proposed measures contained in Budget 2024 and the Notices of Ways and Means Motions, go to [Tax Measures: Supplementary Information](https://budget.canada.ca/2024/report-rapport/tm-mf-en.html).
+
+## GST rebate for purpose-built rental housing
+
+Proposed amendments to Part IX of the *Excise Tax Act* contained in [Bill C-56](https://www.parl.ca/documentviewer/en/44-1/bill/C-56/royal-assent) and [Bill C-59](https://www.parl.ca/LegisInfo/en/bill/44-1/c-59) were tabled in Parliament on September 21, 2023, and November 30, 2023, respectively. *Bill C-56* received royal assent on December 15, 2023. Additional amendments in *Bill C-59* are currently before Parliament. Draft *Real Property (GST/HST) Regulations* were released by the Department of Finance on December 20, 2023.
+
+This article provides information regarding the proposed new measures. Any commentary in this article should not be taken as a statement by the Canada Revenue Agency (CRA) that the amendments in *Bill C-59* or the draft *Real Property (GST/HST) Regulations* will become law in their current form.
+
+### Background
+
+A person may be entitled to claim a GST/HST New Residential Rental Property (NRRP) rebate in respect of a qualifying residential unit where the person purchases, constructs or substantially renovates a residential complex or converts non‑residential real property into a residential complex for lease, licence or similar arrangement.
+
+The GST/HST NRRP rebate is generally 36% of the GST or federal part of the HST paid, or deemed paid, on the acquisition, or deemed acquisition, of a qualifying residential unit. The maximum GST/HST NRRP rebate amount for each qualifying residential unit is $6,300.
+
+For qualifying residential units with a fair market value (FMV) between $350,000 and $450,000, the GST/HST NRRP rebate for some of the GST or federal part of the HST is gradually reduced. No rebate is available for the GST or federal part of the HST if a unit has a FMV of $450,000 or more.
+
+A person may also be entitled to claim an Ontario New Residential Rental Property rebate for a portion of the provincial part of the HST that was paid for newly constructed or substantially renovated rental property that is situated in Ontario. Subject to a maximum amount of $24,000 per unit, the Ontario New Residential Rental Property rebate may be available regardless of the FMV of the unit.
+
+For more information on these rebates, refer to [RC4231, GST/HST New Residential Rental Property Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4231.html).
+
+The GST/HST NRRP rebate and the Ontario New Residential Rental Property rebate continue to be available for qualifying residential units. However, because of recent amendments, certain purpose-built rental housing may instead qualify for a temporary Purpose-built Rental Housing (PBRH) rebate.
+
+### What's New
+
+The recent amendments will increase the GST/HST NRRP rebate from 36% to 100% of the GST or federal part of the HST paid, or deemed paid, on the acquisition, or deemed acquisition, of certain purpose-built rental housing, with no reduction where the FMV of a unit exceeds $350,000. This PBRH rebate may apply where the construction of a residential complex begins after September 13, 2023, but before 2031, and is substantially completed before 2036. Generally, construction is considered to begin at the time the excavation work related to the residential complex begins.
+
+Generally, the PBRH rebate may be available for each qualifying residential unit (that is, a unit that would qualify for purposes of the GST/HST NRRP rebate), including a unit whose FMV is $450,000 or over, where the unit is part of a multiple unit residential complex (including those owned by a public service body or cooperative housing corporation) and where:
+
+- The multiple unit residential complex includes 4 or more residential units and at least 4 of those units each contains private kitchen facilities, a private bath and a private living area or at least 10 residential units; and
+
+- 90% or more of the residential units that form part of the multiple unit residential complex are qualifying residential units held for the purpose of making an exempt lease of the unit or making exempt supplies that include giving possession or use of the unit to a person for occupancy of the unit as an individual's place of residence.
+
+The PBRH rebate may be available for such qualifying residential units where a person converts existing non-residential real estate, such as an office building, into a multiple unit residential complex. The construction or alteration necessary to effect the conversion must begin after September 13, 2023, but before 2031, and be substantially completed before 2036 provided, on September 13, 2023, the property that is converted was:
+
+1. in existence,
+
+2. not in the process of being constructed, and
+
+3. not being used as a residential complex.
+
+The PBRH rebate may also be available for each qualifying residential unit that is part of the construction of an addition to a multiple unit residential complex if the construction of the addition begins after September 13, 2023, but before 2031, and is substantially completed before 2036 where:
+
+- The addition includes 4 or more residential units and at least 4 of those units each contains private kitchen facilities, a private bath and a private living area or at least 10 residential units;
+
+- 90% or more of the residential units that form part of the addition are qualifying residential units held for the purpose of making an exempt lease of the unit or making exempt supplies that include giving possession or use of the unit to a person for occupancy of the unit as an individual's place of residence; and
+
+- 90% or more of the residential units that form part of the multiple unit residential complex and the addition combined are held for the purpose of making an exempt lease of the unit or making exempt supplies that include giving possession or use of the unit to a person for occupancy of the unit as an individual's place of residence.
+
+The PBRH rebate is not available for the construction, substantial renovation or purchase of a condominium unit, single‑unit housing, duplex, triplex, or an owned house situated on leased land or a site in a residential trailer park. The PBRH rebate is also not available for a substantial renovation of an existing multiple unit residential complex. The GST/HST NRRP rebate or a GST/HST New Housing rebate may be available for a portion of the tax payable on the purchase or tax deemed paid on the construction or substantial renovation of such housing.
+
+For more information on eligibility and how to apply for the PBRH rebate, go to [GST/HST rebate for purpose-built rental housing (PBRH)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates/purpose-built-rental-housing.html).
+
+### CRA Publications to Update
+
+The CRA will be making changes to [Guide RC4231, GST/HST New Residential Rental Property Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4231.html) and [GST/HST Technical Information Bulletin B-087, GST/HST New Residential Rental Property Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-087.html) that are required as a result of these new measures. The CRA will also publish a new GST/HST Notice to further explain this enhanced rebate. In the meantime, you may call GST/HST Rulings at 1‑800‑959‑8287 for technical enquiries.
+
+## Proposed new joint venture election rules
+
+A joint venture is a commercial arrangement in which participants work together on a project or venture. Under the GST/HST, a joint venture is not a person and therefore cannot register and account for the GST/HST. Instead, each participant accounts separately for their proportionate share of the GST/HST that is collectible, payable or recoverable in the course of their joint venture activities. To simplify tax accounting, a joint venture participant that is a registrant (the operator) can make an election (a joint venture election) with another participant (the co-venturer) if the activities under their joint venture agreement are eligible activities set out in the GST/HST legislation or prescribed activities set out in the *Joint Venture (GST/HST) Regulations*.
+
+To allow more participants in commercial joint ventures access to the benefits of the joint venture election, the [2023 Fall Economic Statement](https://www.budget.canada.ca/fes-eea/2023/home-accueil-en.html) released on November 21, 2023 announced proposed new joint venture election rules. It is proposed that the new rules come into force on the day on which the Act enacting the new rules receives royal assent. Key elements of the proposed new rules include:
+
+- replacing the condition that the joint venture activities must be eligible activities set out in the legislation or regulations with an all or substantially all commercial activities condition (within the meaning of the GST/HST legislation);
+
+- requiring all electing participants to be registered for GST/HST purposes; and,
+
+- replacing existing deeming measures with revised deeming measures that are more precisely focused on tax accounting.
+
+For additional details related to the proposed rules, refer to the full text regarding the proposed new commercial joint venture rules on the Government of Canada website under the [Tax Measures: Supplementary Information](https://www.budget.canada.ca/fes-eea/2023/report-rapport/tm-mf-en.html#a25) section of the 2023 Fall Economic Statement.
+
+## Proposed Amendment – GST/HST Exemption for Psychotherapy and Counselling Therapy Services
+
+On November 21, 2023 the Minister of Finance tabled the [2023 Fall Economic Statement](https://www.budget.canada.ca/fes-eea/2023/home-accueil-en.html) which proposed an amendment to Part II of Schedule V to the *Excise Tax Act*, that would add the supply of psychotherapy and counselling therapy services to the list of services that are exempt for purposes of the GST/HST.
+
+This amendment is included in [Bill C-59, An Act to implement certain provisions of the fall economic statement tabled in Parliament on November 21, 2023 and certain provisions of the budget tabled in Parliament on March 28, 2023](https://www.parl.ca/DocumentViewer/en/44-1/bill/C-59/first-reading). The amendment will come into effect only once *Bill C-59* receives royal assent.
+
+For more information on the GST/HST impact of these new exemptions refer to [GST/HST Notice 334, Proposed Amendment – Exemption for Psychotherapy Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice334.html) and [GST/HST Notice 335, Proposed Amendment - Exemption for Counselling Therapy Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice335.html).
+
+## Reinstatement of the GST/HST Relief for Nisg̱a'a Citizens
+
+The Nisg̱a'a Nation, Canada and British Columbia each consented to amendments to the Nisg̱a'a Final Agreement, which took effect on January 1, 2024. Under the amendments, section 87 of the *Indian Act* now applies to provide relief from the GST/HST imposed under Part IX of the *Excise Tax Act*, to a Nisg̱a'a citizen[Footnote1](#fn1) who is registered under the *Indian Act*. For purposes of the amendments, section 87 of the *Indian Act* applies on the Nisg̱a'a Lands and Category A Lands[Footnote2](#fn2) that were Indian reserves on the day before May 11, 2000, as if those lands were reserves.
+
+The Canada Revenue Agency (CRA) uses the term **Indian** because it has legal meaning under the *Indian Act*.
+
+### Background
+
+The Nisg̱a'a Nation entered into the Nisg̱a'a Final Agreement with Her Majesty the Queen in right of Canada and Her Majesty the Queen in right of British Columbia (the Agreement), which took effect on May 11, 2000. Under the Agreement, as of June 1, 2008, section 87 of the *Indian Act* no longer applied in respect of the GST/HST to a Nisg̱a'a citizen. However, the Agreement did not change the fact that a Nisg̱a'a citizen could still register and be registered under the *Indian Act*, obtain a [Secure Certificate of Indian Status or Certificate of Indian Status](https://www.sac-isc.gc.ca/eng/1100100032380/1572461388012), and access certain rights and benefits available to First Nations people.
+
+As a result, effective June 1, 2008, a Nisg̱a'a citizen was no longer entitled to the GST/HST relief described in [GST/HST Technical Information Bulletin B-039, GST/HST Administrative Policy – Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html) (TIB B-039).
+
+### GST/HST Implications of the Amendments
+
+Effective January 1, 2024, a Nisg̱a'a citizen who is registered under the *Indian Act* is eligible for GST/HST relief on purchases of property and services when the requirements described in TIB B‑039 are met. For example, a Nisg̱a'a citizen is entitled to relief from the GST/HST on property and services acquired on a reserve provided that the requirements described in TIB B‑039 are met. For more information refer to [GST/HST Notice 329, The Application of Section 87 of the Indian Act to Citizens of the Nisg̱a'a Nation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice329.html).
+
+### CRA Publications to Update
+
+The CRA will be making changes to [GST/HST Notice 238, First Nations with a Self-Government Agreement Ending Indian Act Tax Relief - Determining Tax Relief for Indian Members](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice238.html) and [TIB B‑039](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html) that are required as a result of the amendments to the Nisg̱a'a Final Agreement.
+
+## Nisg̱a'a Nation: End of the First Nations goods and services tax on their Lands
+
+On July 30, 2008, the Nisg̱a'a Lisims Government imposed a First Nations goods and services tax (FNGST) on Nisg̱a'a Lands.[Footnote3](#fn3) On December 11, 2023, they signed an Agreement to Terminate the First Nations Goods and Services Tax Administration Agreement with the Government of Canada.
+
+Effective January 1, 2024, the FNGST is no longer imposed on the Nisg̱a'a Lands. Instead, as of that date, the GST applies to taxable supplies of property or services made on these lands.
+
+For more information refer to [GST/HST Notice 330, Nisg̱a'a Nation: End of the First Nations Goods and Services Tax (FNGST) on Their Lands](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice330.html).
+
+## The Continuation of GST/HST Relief for Tla'amin Citizens
+
+The Tla'amin Nation, Canada and British Columbia each consented to amendments to the Tla'amin Final Agreement, which took effect on June 23, 2023. Under the amendments, section 87 of the *Indian Act* continues to apply to provide relief from the GST/HST imposed under Part IX of the *Excise Tax Act*, to a Tla'amin Citizen[Footnote4](#fn4) who is registered under the *Indian Act*.[Footnote5](#fn5) For purposes of the amendments, section 87 of the *Indian Act* applies on the Tla'amin Lands[Footnote4](#fn4) that were an Indian Reserve or Surrendered Lands4 on the day before April 5, 2016, as if those lands were a reserve.
+
+The Canada Revenue Agency uses the term **Indian** because it has a legal meaning under the *Indian Act*.
+
+Given that section 87 of the *Indian Act* continues to apply, a Tla'amin Citizen who is registered under the *Indian Act* is entitled to GST/HST relief on purchases of property and services when the requirements described in [GST/HST Technical Information Bulletin B-039, GST/HST Administrative Policy – Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html) are met.
+
+For more information refer to [GST/HST Notice 328, The Continuation of GST/HST Relief for Tla'amin Citizens](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice328.html).
+
+## Temporary Relief of the Fuel Charge – Light Fuel Oil For Use Exclusively in Eligible Heating Activities
+
+On October 26, 2023, the Government announced a proposed temporary pause of the fuel charge on deliveries of light fuel oil in a listed province for use exclusively in eligible heating activities. This proposed relief would apply to deliveries on or after November 9, 2023, and before April 1, 2027. The relief can be provided by a registered distributor upfront without the use of an exemption certificate by the customer.
+
+**Eligible heating activity** is proposed to mean “the use of light fuel oil exclusively for providing heat to a home, building or similar structure but not for generating heat in an industrial process, including a commercial process that involves removing moisture from a good.”
+
+In order to provide the relief to customers, a person may register as a distributor of light fuel oil if the person carries on the business of selling, delivering or distributing light fuel oil and, in the ordinary course of that business, delivers in a listed province light fuel oil that is for use in eligible heating activities.
+
+For more information on registered distributors, including how to register, refer to [FCN2, Distributors Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn2.html).
+
+For more information on the temporary pause, refer to [FCN15, Temporary Relief of the Fuel Charge – Light Fuel Oil For Use Exclusively in Eligible Heating Activities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn15.html).
+
+## Fuel Charge rate adjustments
+
+Under the *Greenhouse Gas Pollution Pricing Act*, fuel charge rates increase each year. The fuel charge rates will continue to rise annually on April 1 of each year to reflect the stringency of the carbon price per ton increasing by $15/ton until the year 2030. The increased rates take effect on April 1 of 2024 (refer to the note below). Refer to the web page for the rates schedule, [Fuel Charge Rates for Listed Provinces and Territories for 2023 to 2030](https://www.canada.ca/en/department-finance/news/2021/12/fuel-charge-rates-for-listed-provinces-and-territories-for-2023-to-2030.html).
+
+**Note**: the rates for aviation gasoline and aviation turbo fuel in Yukon and Nunavut continues to be $0.
+
+## Changes to mandatory electronic filing for GST/HST returns
+
+### Electronic filing thresholds
+
+The mandatory electronic filing threshold for GST/HST returns has been eliminated for reporting periods that begin on or after January 1, 2024. That means that GST/HST registrants other than charities and selected listed financial institutions must file their GST/HST returns electronically.
+
+GST/HST registrants who are required to file electronically and fail to do so are liable for a penalty for each failure, and the penalty will apply even if the GST/HST return is a nil or credit return. For GST/HST registrants that file annually, this will only apply to their 2024 returns that are due in 2025.
+
+To help GST/HST registrants that file monthly or quarterly and that were not previously required to file electronically, the Canada Revenue Agency (CRA) will be waiving penalties for failure to file GST/HST returns electronically for filing periods beginning on or after January 1, 2024 and before April 1, 2024 as per the following table:
+
+| Filing frequency | Period | Due Date | Required to file electronically | Penalties if filed by paper |
+
+| --- | --- | --- | --- | --- |
+
+| Monthly | January 1, 2024 to January 31, 2024 | February 29, 2024 | Yes | Waived |
+
+| Monthly | March 15, 2024 to April 14, 2024 | May 14, 2024 | Yes | Waived |
+
+| Monthly | April 1, 2024 to April 30, 2024 | May 31, 2024 | Yes | Yes |
+
+| Quarterly | January 1, 2024 to March 31, 2024 | April 30, 2024 | Yes | Waived |
+
+| Quarterly | March 1, 2024 to May 31, 2024 | June 30, 2024 | Yes | Waived |
+
+| Quarterly | April 1, 2024 to June 30, 2024 | July 31, 2024 | Yes | Yes |
+
+| Annual | January 1, 2024 to December 31, 2024 | March 31, 2025 | Yes | Yes |
+
+### Benefits to filing online
+
+Electronic filing has many benefits over paper processing. It saves businesses time and money because recipients can confirm their tax information earlier and receive refunds and credits much faster. It's also safer and more reliable because data flows seamlessly over secure networks. Paper processing, on the other hand, is vulnerable to human error and disruptions.
+
+For both business and individual accounts, electronic filing offers:
+
+- convenience and ease
+
+- faster processing times
+
+- quicker communication for errors and discrepancies
+
+- earlier confirmations for tax information
+
+- faster refunds and credits
+
+### How to file electronically
+
+The CRA offers many digital services, such as My Business Account, mobile apps, and additional services for businesses to easily manage their tax affairs.
+
+For more information on how to electronically file a GST/HST return, refer to the [File a GST/HST return, rebate or election electronically](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/file-a-gst-hst-return-rebate-election-electronically.html) web page.
+
+As you make any kind of changes to your business, you might have questions and need information and guidance from the CRA. We can help. The [CRA resources for small and medium businesses](As%20you%20make%20any%20kind%20of%20changes%20to%20your%20business,%20you%20might%20have%20questions%20and%20need%20information%20and%20guidance%20from%20the%20CRA.%20We%20can%20help.%20The%20CRA%20resources%20for%20small%20and%20medium%20businesses%20webpage%20gives%20direct%20access%20to%20tax-related%20services%20and%20information%20for%20businesses.) webpage gives direct access to tax-related services and information for businesses.
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from January 1, 2024 to March 31, 2024 on overdue amounts payable to the Minister is 10%. The prescribed annual rate of interest on amounts owed by the Minister (such as, rebates or refunds) is 6% for corporate taxpayers and 8% for non-corporate taxpayers. These rates are applicable to income tax, excise taxes, GST/HST, underused housing tax (UHT), air travellers security charge (ATSC), luxury tax, fuel charge (under the *Greenhouse Gas Pollution Pricing Act*) and excise duties on wine, spirits, tobacco, cannabis and vaping products.
+
+The prescribed annual rate of interest respecting excise duty on beer products, on overdue amounts payable for the indicated period, is set at 8%. Refund interest rates are not applicable for amounts owed by the Minister (such as, rebates or refunds) for excise duty that is in relation to beer products.
+
+| Period | January 1, 2024 to March 31, 2024 | October 1, 2023 to December 31, 2023 | July 1, 2023 to September 30, 2023 | April 1, 2023 to June 30, 2023 |
+
+| --- | --- | --- | --- | --- |
+
+| Refund Interest Corporate Taxpayers | 6% | 5% | 5% | 5% |
+
+| Refund Interest Non-Corporate Taxpayers | 8% | 7% | 7% | 7% |
+
+| Arrears and Instalment Interest | 10% | 9% | 9% | 9% |
+
+| PERIOD | January 1, 2024 to March 31, 2024 | October 1, 2023 to December 31, 2023 | July 1, 2023 to September 30, 2023 | April 1, 2023 to June 30, 2023 |
+
+| --- | --- | --- | --- | --- |
+
+| Arrears Interest Excise duty - beer products | 8% | 7% | 7% | 7% |
+
+Prescribed interest rates for previous years are available on Canada.ca at [Prescribed interest rates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## Forms and publications
+
+All GST/HST, underused housing tax, luxury tax, fuel charge, excise duties, and excise taxes and other levies technical publications can be found on the [Technical tax information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information.html) webpage on Canada.ca. To access all forms and publications go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html), and for a list of new and revised publications go to the [Canada Revenue Agency publications listed by number](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications.html) webpage. To access guides, returns and elections relating to the GST/HST go to [GST/HST-related forms and publications](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/forms-publications.html).
+
+To receive email notification as soon as a document is published on the Canada.ca website, go to [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribe to the RSS feed for all new CRA publications and forms, or subscribe to any number of mailing lists for different types of publications.
+
+## Contact us
+
+**Enquiries regarding programs administered by the Excise and Specialty Tax Directorate**
+
+For information about how to make a general or technical enquiry relating to excise duties, excise taxes and other levies (including the air travellers security charge), the fuel charge or the luxury tax or to enquire about your account or the processing status of a return or related refund or rebate application, refer to [Contact Information – Excise and Specialty Tax Directorate](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/excise-taxes-contacts.html).
+
+**Telephone enquiries**
+
+**GST/HST**
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- call Business Enquiries at 1-800-959-5525 for **general enquiries**
+
+- call GST/HST Rulings at 1-800-959-8287 for **technical enquiries**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1-800-567-4692** or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution** (whether or not you are located in Quebec) and require information on the **GST/HST** or the **QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- call Business Enquiries at 1-800-959-5525 for **general GST/HST** or **QST enquiries**
+
+- call GST/HST Rulings SLFI at 1-855-666-5166 for **technical GST/HST** or **QST enquiries**
+
+**Underused housing tax**
+
+For general enquiries about a residential property that is owned by an individual:
+
+- Calls from the U.S. or Canada: 1-800-959-8281
+
+- Calls from elsewhere: 613-940-8495 (collect calls accepted)
+
+For general enquiries about a residential property that is owned by a corporation:
+
+- Calls from the U.S. or Canada: 1-800-959-5525
+
+- Calls from elsewhere: 613-940-8497 (collect calls accepted)
+
+**Account enquiries**
+
+For **general information** about the GST/HST and the underused housing tax and to make **enquiries** regarding your **account**, you can:
+
+- view answers to common enquiries, or submit an enquiry using the online “Enquiries service” on [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html);
+
+- view account information online at [Digital services for businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html)
+
+- call Business Enquiries at 1-800-959-5525.
+
+For **enquiries** regarding the **status of specific GST/HST domestic rebate claims**, call Business Enquiries at 1-800-959-5525.
+
+**Access your account online**
+
+For **online access** to your **GST/HST**, **air travellers security charge**, **luxury tax**, **fuel charge**, and **excise tax** and **duty accounts** (such as viewing up-to-date account balances and transactions, transferring payments and more), go to:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) if you are the business owner
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html) if you are an authorized representative or employee
+
+**Help**
+
+For **technical support using our online services**:
+
+- business accounts, call 1-800-959-5525
+
+- teletypewriter users, call 1-800-665-0354
+
+- callers outside of Canada and the United States, call collect at 613-940-8497
+
+Please have the screen number (bottom right) and, if applicable, the error number and message received on hand when calling.
+
+The Excise and GST/HST News is published quarterly and highlights recent developments in the administration of the GST/HST, the QST for SLFIs, the First Nations goods and services tax (FNGST) and the First Nations tax (FNT), the air travellers security charge (ATSC), the underused housing tax, the fuel charge, and the luxury tax as well as excise taxes and duties. If you would like to receive a link to each new edition of the Excise and GST/HST News as it is published, subscribe to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-excise-gst-hst-news.html). This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, Excise and GST/HST News, GST/HST Rulings Directorate, Legislative Policy and Regulatory Affairs Branch, CRA, 5th Floor, Place de Ville, 320 Queen Street, Ottawa K1A 0L5.

@@ -1,0 +1,87 @@
+Title: Special Release - Investment Tax Credit Rates
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-4r3sr/special-release-investment-tax-credit-rates.html
+Corpus path: corpus/cra/forms-publications/publications/ic78-4r3sr/special-release-investment-tax-credit-rates.md
+Document type: publication
+Last modified: 2017-11-07
+
+# Special Release - Investment Tax Credit Rates
+
+IC
+
+SPECIAL RELEASE Investment Tax Credit Rates
+
+78-4R3 November 13, 1987
+
+This Special Release applies to 1986 and subsequent years. Information Circular 78-4R3 remains applicable to 1985 and previous taxation years. References are made throughout this release to portions of the earlier Circular that remain valid for 1986 and subsequent taxation years. The information contained in this release does not include the tax reform proposals announced by the Minister of Finance on June 18, 1987.
+
+1. The Circular is intended to inform taxpayers of Investment Tax Credit rates that vary according to the type of creditable investment made, the date that the property is acquired or the expenditure is made, and the locality in Canada where the property is to be used or the expenditure is made.
+
+Qualified Property
+
+2. The possible rates of credit for acquisitions of qualified property are as follows:
+
+(a) A 20% investment tax credit is available for qualified property acquired
+
+(i) primarily for use in Newfoundland, Prince Edward Island, Nova Scotia, New Brunswick or the Gaspe Peninsula, or
+
+(ii) after February 25, 1986 primarily for use in a prescribed offshore region.
+
+(b) For qualified property acquired after November 16, 1978 and before 1987 primarily for use in a prescribed designated region, the rate is 10%. This means regions in Canada which are designated under the Regional Development Incentives Act (RDIA) other than a region described in (a) above. The rate will be reduced to 7% for such property acquired in 1987, lowered to 3% in 1988, and will be phased out by 1989.
+
+(c) For qualified property acquired after November 16, 1978 and before February 26, 1986 primarily for use in a prescribed offshore region, the rate is 7%.
+
+(d) For qualified property acquired after November 16, 1978 and before 1987 primarily for use in any location in Canada other than those described in (a) to (c), the investment tax credit rate is 7%. However, this will be reduced to 5%
+
+PAGE 2
+
+for property acquired in 1987, 3% for property acquired in 1988, and nil for property acquired after 1988.
+
+Qualified Transportation Equipment and Qualified Construction Equipment
+
+3. (a) For acquisitions of either qualified transportation equipment or qualified construction equipment, the investment tax credit rate is 7%. This credit coverage will be reduced to 5% for acquisitions of such property in 1987, 3% in 1988, and will be phased out by 1989.
+
+(b) The rates allowed on acquisitions of qualified transportation equipment and qualified construction equipment are constant throughout Canada.
+
+Certified Property
+
+4. For certified property acquired before 1987 primarily for use in a prescribed area, a special investment tax credit rate of 50% is in effect. However, for certified property acquired after 1986, the rate is reduced to 40% unless the property is acquired in 1987 and is
+
+(a) a building under construction before January 1, 1987, or
+
+(b) machinery and equipment ordered in writing before January 1, 1987.
+
+5. (a) The special investment tax credit for certified property is allowable for all acquisitions that are part of a "facility" which is defined in section 2 of the RDIA as follows:
+
+"facility" means the structures, machinery and equipment that constitute the necessary components of a manufacturing or processing operation, other than an initial processing operation in a resource-based industry. The terms "manufacturing or processing operation," "initial processing operation" and "resource-based industry" are defined in subsection 2(2) of the Regional Development Incentives Regulations.
+
+(b) See paragraph 18 and Appendix C of Information Circular 78-4R3 for descriptions and illustrations of prescribed areas to which the special investment tax credit for certified property acquisitions is in effect.
+
+Qualified Expenditures
+
+6. For qualified expenditures in respect of scientific research and experimental development to be carried out in Newfoundland, Prince Edward Island, Nova Scotia, New Brunswick or in the Gaspe Peninsula, the rate is 30%. For qualified expenditures made in respect of scientific research and experimental development to be carried out in any other area of Canada, the investment tax credit rate is 20%. However, if a deduction is taken by a corporate taxpayer under section 37.1 of the Income Tax Act, the applicable rates are 20% and 10% respectively.
+
+PAGE 3
+
+7. A special rate of 35% is allowed to certain Canadian-controlled private corporations for qualified expenditures up to an annual expenditure limit of $2,000,000. The $2,000,000 annual limit must be allocated among all associated corporations, if the taxpayer is associated in the year with one or more other Canadian-controlled private corporations. The total of the taxable income of the corporation and the taxable incomes of any associated corporations for the immediately preceding taxation year must not exceed $200,000. For qualified expenditures made by a Canadian-controlled private corporation qualifying for the small business deduction but taking a deduction under section 37.1, the special rate is reduced to 25%.
+
+Approved Project Property
+
+8. An investment tax credit rate of 60% is in effect for approved project property. This is property that is certified by the Minister of Regional Industrial Expansion to be property that has not been used or acquired for use or lease before it was acquired by the taxpayer and also to be property that has been acquired for use primarily for an approved purpose in an approved project in Cape Breton. The property must be acquired before 1993, and application for approval of the project must be made in writing to the Minister of Regional Industrial Expansion before July, 1988. See paragraph 19 of Information Circular 78-4R3 for a description of the area to which the rate applies.
+
+Qualified Canadian Exploration Expenditures
+
+9. For prescribed "qualified Canadian exploration expenditures" made after November 30, 1985 and before 1991, the investment tax credit rate is 25%. The rate for such expenditures is constant throughout Canada.
+
+Schedule of Rates
+
+10. When a location becomes a prescribed designated region or a prescribed area, the higher rate applies only to acquisitions and expenditures made after the date it became a prescribed designated region or a prescribed area.
+
+11. The Schedule of Investment Tax Credit Rates (Appendix A) takes into account the time of acquisition or expenditure, the type of acquisition or expenditure, and the region or area where the property is primarily used or the research carried out.
+
+12. The areas of each province that are prescribed designated regions for the purposes of qualified property acquisitions are described in paragraphs 12 to 17 in Information Circular 78-4R3. For general reference purposes, Appendix B of the Circular contains maps showing the prescribed designated regions of the provinces of Quebec, Ontario, Alberta and British Columbia.
+
+13. The areas of each province that are prescribed areas for purposes of certified property acquisitions are described in paragraph 18 of Information Circular 78-4R3 and are illustrated on maps contained in Appendix C of the Circular.
+
+PAGE 4
+
+SEE PRINTED COPY FOR TABLES ON PAGE 4, 5, 6, 7.

@@ -1,0 +1,133 @@
+Title: ARCHIVED - Dues paid to a union or to a parity or advisory committee
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it103r/archived-dues-paid-a-union-a-parity-advisory-committee.html
+Corpus path: corpus/cra/forms-publications/publications/it103r/archived-dues-paid-a-union-a-parity-advisory-committee.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Dues paid to a union or to a parity or advisory committee
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-103R**
+
+DATE: November 4, 1988
+
+SUBJECT: INCOME TAX ACT**Dues Paid to a Union or to a Parity or Advisory Committee**
+
+REFERENCE: Subparagraphs 8(1)(i)(iv) and (vi) (also subsection 8(5)).
+
+Application
+
+This bulletin replaces and cancels Interpretation Bulletin IT-103, dated May 29, 1973. Current revisions are designated by vertical lines.
+
+Summary
+
+This bulletin deals with the deduction an employee is entitled to claim in respect of dues paid to a union or to a parity or advisory committee. The restrictions on the amount that may be claimed are outlined and discussed. The bulletin also describes an acceptable form of receipt required to be filed with an employee's income tax return to substantiate a claim or, where the dues are reported on the employees' T4 slips, the certifications to be filed with the employer's T4-T4A return.
+
+Discussion and Interpretation
+
+1. In this bulletin,
+
+"trade union" or "union" means any organization of employees formed for the purpose of regulating relations between employers and employees;
+
+"annual dues" means annual dues paid by a member to maintain membership in a trade union, and does not include initiation fees or special assessments made during a year on some or all members of the trade union. The Department has accepted the Federal Court - Trial Division's conclusion in the Darrel H. Lucas case of 1987 that amounts only need to be capable of recurring in order to be considered "annual" for purposes of subparagraph 8(1)(i)(iv) and that the additional amount paid by Mr. Lucas was not a special assessment but an increase in annual dues;
+
+"parity or advisory committee" means a body, usually consisting of representatives of employers and employees, set up under provincial laws to oversee collective agreements.
+
+2. The Act provides that a member of a trade union, in computing income from office or employment, may deduct annual dues to the extent that the member has not been reimbursed and is not entitled to be reimbursed in respect thereof. Annual dues of a member of a trade union are not deductible, however, to the extent that they are, in effect, levied
+
+(a) for or under a superannuation fund or plan,
+
+(b) for or under a fund or plan for annuities, insurance or similar benefits, or
+
+(c) for any other purpose not directly related to the ordinary operating expenses of the trade union to which they were paid.
+
+3. The Act also provides that, for 1985 and subsequent taxation years, dues which are required by provincial law to be paid by an employee to a parity or advisory committee or similar body, may be deducted in computing the employee's income from an office or employment to the extent the employee has not been reimbursed and is not entitled to be reimbursed in respect thereof. Such dues are not deductible to the extent they are levied for the purposes described in 2(a) or (b) above or any other purpose not directly related to the ordinary operating expenses of the committee or similar body to which they were paid.
+
+4. Amounts coming under 2(a) above that are paid into an employee's superannuation fund or plan that has been accepted for registration by this Department may still be deductible under other provisions of the Act.
+
+5. Dues levied specifically for purposes such as the creation and maintenance of a building fund or for a fund for the payment of funeral expenses are not considered directly related to the ordinary operating expenses of a parity or advisory committee or similar body or a trade union to which they were paid.
+
+6. Where a trade union incurs reasonable costs in prosecuting a legal strike (such as rental of strike headquarters, telephone expenses, publicity and advertising expenses and travelling expenses) and, during such strike provides relief payments to members in need but to which they are not entitled as a contractual right, such costs will be viewed as being related to the ordinary operating expenses of the trade union. For this reason, the part of the annual dues of a member that is levied for the purpose of providing for the current or anticipated costs of prosecuting legal strikes of the union is, if reasonable in the circumstances, deductible for tax purposes and not excluded under 2(c) above. Levies made during a year on some or all members of a trade union to provide funds for the prosecution of a legal strike of the union will be considered to be annual dues provided that such levies are capable of recurring and have not been designated by the union as special assessments. On the other hand any such levies designated as special assessments are not annual dues and are, therefore, not deductible.
+
+7. A receipt from a union member's trade union showing the amount of annual dues paid that is deductible under the Act must be filed with the member's T1 return. The receipt should be substantially in the following form:
+
+Name of Union ______________________________________________________
+
+Local Number _______________________________________________________
+
+It is hereby certified that:
+
+_______________________ was a member of this Union in 19__, and that out of the annual dues (not including initiation fees or any special assessments made during the year) paid by the member for the calendar year, the sum of is the amount considered deductible by the member for income tax purposes.
+
+No part of the above amount was levied for or under a superannuation fund or plan, a fund or plan for annuities, insurance or similar benefits or for any purpose not directly related to the ordinary operating expenses of the Union.
+
+_____________________________________ Secretary or other Authorized Officer.
+
+8. It would be preferable if these receipts either are printed on the letterhead of, or bear the seal of, the issuing union or local thereof.
+
+9. A receipt for dues which are required under the laws of a province to be paid to a parity or advisory committee or similar body must be filed with the employee's T1 return. The receipt should identify the committee or similar body receiving the dues, the employee's name, the taxation year, the nature and amount of the payment, and the position of the responsible officer who has been authorized by the committee or similar body to sign the receipt. The receipt should also include a certificate stating that no part of the dues are levied for or under a superannuation fund or plan, a fund or plan for annuities, insurance or similar benefits or for any purpose not directly related to the ordinary operating expenses of the committee or similar body.
+
+10. Where, by an arrangement between an employer and a union, the employer is willing to report the deductible amounts of the annual dues paid by the employees on the employees' T4 slips, such a procedure will be accepted by this Department provided the following conditions are met:
+
+(a) the amounts are reported in the designated box for union dues of the T4 slips;
+
+(b) a "certification", in the form set out in Appendix I, is to be completed and duly signed by authorized officers of the employer and the union, and filed with the employer's T4-T4A return; and
+
+(c) the union does not issue receipts for the deductible annual dues.
+
+11. In lieu of a receipt, and if the employer agrees, dues paid by an employee to a parity or advisory committee or similar body may be reported on the employees' T4 slips in the designated box for union dues. If such a procedure is used, a "certification" in the form set out in Appendix II is to be completed and duly signed by authorized officers of the employer and the recipient of the dues, and filed with the employer's T4-T4A return. The parity or advisory committee must not issue receipts for the deductible dues where this procedure is used.
+
+Appendix I
+
+CERTIFICATION
+
+Re: Forms T4 Supplementary issued by ______________________ for 19__. (Name of Employer)
+
+CERTIFICATION BY EMPLOYER I hereby certify that the total of the amounts reported on forms T4 Supplementary for 19__ as "Union Dues" is $________ and that $__________ of this amount has been remitted to _____________, Local__________ (Name of Union)
+
+Date_________ 19__ ______________________________ Signature of Authorized Officer
+
+______________________________ Position or Office
+
+CERTIFICATION BY UNION I hereby certify that: The amount shown above as having been remitted to _______________, Local ________________is the aggregate (,Name of Union) of the annual dues for each employee's membership in the Union that were paid in 19__ and that are considered deductible for income tax purposes.
+
+No part of the above amount was levied for or under a superannuation fund or plan, a fund or plan for annuities, insurance or similar benefits or for any other purpose not directly related to the ordinary operating expenses of the Union.
+
+No receipt will be issued by this Union in respect of the annual dues covered by this certification.
+
+Date ________________ 19__ _______________________________ Signature of Authorized Officer
+
+_______________________________ Position or Office
+
+Appendix II
+
+CERTIFICATION
+
+Re: Forms T4 Supplementary issued by ________________________ for 19__. (Name of Employer)
+
+CERTIFICATION BY EMPLOYER I hereby certify that the total of the amounts reported on forms T4 Supplementary for 19__ as "Union Dues" is $________________ and that $_______________ of this amount has been remitted to _____________________________________ (Name of Parity or Advisory Committee)
+
+Date_________________ 19__ _______________________________ Signature of Authorized Officer
+
+_______________________________ Position or Office
+
+CERTIFICATION BY PARITY OR ADVISORY COMMITTEE
+
+I hereby certify that: The amount shown above as having been remitted to ____________________________________ is the aggregate (Name of Parity or Advisory Committee) of the dues paid to the committee in 19__ on behalf of each employee and that are considered deductible for income tax purposes.
+
+No part of the above amount was levied for or under a superannuation fund or plan, a fund or plan for annuities, insurance or similar benefits or for any other purpose not directly related to the ordinary operating expenses of the Parity or Advisory Committee.
+
+No receipt will be issued by this Parity or Advisory Committee in respect of the dues covered by this certification.
+
+Date______________ 19__ _______________________________ Signature of Authorized Officer
+
+_______________________________ Position or Office

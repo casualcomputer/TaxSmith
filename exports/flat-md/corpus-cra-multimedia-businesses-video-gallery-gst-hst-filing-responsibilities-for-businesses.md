@@ -1,0 +1,115 @@
+---
+title: "GST/HST Filing responsibilities for businesses"
+gallery_title: "GST/HST Filing responsibilities for businesses"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/businesses-video-gallery/gst-hst-filing-responsibilities-for-businesses.html
+video_source: https://youtu.be/C6d5M8bb114
+last_modified: 2023-05-15
+---
+
+# GST/HST Filing responsibilities for businesses
+
+## Transcript
+For general tax questions, call CRA business enquiries line at 1-800-959-5525. 1-800-959-7775 (FR)
+### 1. GST/HST filing responsibilities for businesses – Title
+Hello and welcome to our GST/HST Filing responsibilities for businesses.
+I’m First Name Only, your host for today.
+### 2. Introduction – GST/HST Filing responsibilities for businesses
+For today, please use the question icon in the tool bar at the top of the screen to ask a question related to GST/HST Filing responsibilities for businesses.
+We’ll answer as many as we can during the webinar.
+For any other tax related questions, please call the business enquiries line at 1-800-959-5525.
+Let’s get started.
+### 3. Contents – GST/HST Filing responsibilities for businesses
+Today, we’ll talk about:
+- What are a business’s GST/HST filing responsibilities?
+- What happens when a business has outstanding returns for their GST/HST account?
+- What should businesses do to resolve overdue GST/HST returns
+- What CRA services are available to help businesses to complete their returns?
+### 4. A Registrants Responsibilities
+All registrants are required to file their GST/HST returns and remit any amount owning on or before the due date of the applicable period even if there were no business transactions or no amount owing.
+Registrants are also required to remit any trust funds owing.
+Registrants with monthly or quarterly reporting requirements have to file their GST/HST return and remit any amount owing no later than one month after the end of their reporting period.
+Registrants that have an annual reporting period usually have to file their GST/HST return and remit any amounts owing no later than three months after the end of the fiscal year.
+Individuals with business income for income tax purposes that are also annual filers with a December 31 fiscal year-end (annual extended filers) have to file their GST/HST return by June 15. However, they still have to remit their net GST/HST amount owing by April 30 to avoid penalties and interest.
+Registrants who are late meeting or fail to meet their filing and/or payment requirements within prescribed timeframes are non-compliant accounts.
+Registrants must also ensure that their contact information remains current.
+It is also the registrants responsibility to notify the CRA when their business has ceased operating or is winding down and the account may no longer be required. Returns must continue to be submitted until the CRA is notified that the GST/HST account is closed.
+### 5. Definition
+Let’s start by defining what a GST/HST account with overdue returns is.
+An account with overdue returns is a business that sells goods and services in Canada with a GST/HST account and has failed to meet their GST/HST filing obligations.
+An outstanding return means that the business has not filed their GST/HST returns by the due date and it may owe GST/HST and must remit the amount.
+### 6. GST/HST Filing responsibilities for businesses
+Now, let’s find out about how the CRA can help businesses with overdue GST/HST filers to get back on track.
+The GST/HST program helps GST/HST registrants with outstanding returns to meet their filing obligations. The program works with registrants with overdue filing obligations to obtain the outstanding GST/HST returns to resolve any consequences related to the situation.
+GST/HST registrants are responsible for collecting GST/HST on their supplies and keeping the GST/HST amount separate from business operations. When the registrant later files their return, they must remit the amount held in trust to the CRA.
+Program officers also encourage future voluntary compliance and provide registrants with information on their options for filing GST/HST returns, such as using My Business Account, Netfile or filing a paper return.
+### 7. When an account has outstanding returns
+When a business’s account has outstanding returns, the business may first receive a letter reminding them to file. The letter will list the outstanding reporting periods, and it will tell you what to do if the return was recently filed, what to do if you filed more than 40 days agoand that otherwise, the outstanding returns must be filed within 15 days of the letter’s date.
+If the business still does not file, the CRA will then attempt to contact the registrant or their representative by either a letter or a phone call. The CRA may also send an assessment. Attempts at contact are to establish an arrangement to have the outstanding returns filed, as well as educate the registrants on their obligations on filing and remitting GST/HST amounts on time.
+If returns cannot be obtained after a variety of attempts, the CRA officer will review the account to see if an assessment, penalties or trust account exam is warranted.
+### 8. When an account has outstanding returns (cont’d)
+Effects of an account being non-compliant can include:
+- An assessment that does not remove the requirement to file factual returns
+- Penalties and interest continue to accrue until the account is compliant and all trust funds are remitted
+- A GST/HST Trust Account Exam referral, which can entail an officer visiting the business to review: bank statements accounts receivable and payable lists financial statements invoices and corporate records
+- A refund hold, which will prevent any refunds or rebates from being issued until all outstanding returns have been filed.
+### 9. Example 1
+Now, let’s go through an example.
+Aliyah recently started an asphalt and turf care company called Snow Blowing and Lawn Mowing.
+She quickly had enough income through contracts that she had to open up a GST/HST account. However, Aliyah forgot she did this and missed her first remittance deadline.
+One snowy day, Aliyah received a reminder letter from the CRA in the mail, but it ended up in a stack of paper on the kitchen table that likely won’t be sorted until the spring thaw is over. A few weeks later, Aliyah received an assessment in the mail, which she did not read as well. After a few more missed monthly filing periods, Aliyah received a phone call from the CRA. Aliyah panicked at first, but was relieved once the officer reminded her that all she has to do was to file her GST/HST returns and remit held trust funds. The officer asked her some questions to confirm that the business was running. The officer also let Aliyah know what date she had to file by, described the options available for filing, and advised that she remit all GST/HST amounts owing.
+### 10. Example 2
+We’ll revisit Aliyah once we examine how one can navigate having overdue GST/HST returns. But let’s look at another person with a similar situation.
+Originally a finish carpenter by trade, Shiloh started Bowls and Chairs For You, a few years ago, hand carving specialty chairs and dog bowls to sell to local shops.
+One day, Shiloh received a letter from the CRA reminding them to file their missed GST/HST return but since they did not have any sales during the last filing period, they didn’t think they needed to file anything. They also received an assessment a while later, estimating what is owed, but they didn’t do anything because they thought they’d just file properly come the next GST/HST filing period.
+A few months after the assessment arrived, Shiloh received a phone call from a GST/HST Program Officer about their missed returns and remittance. Shiloh was mad at first and stated that they hadn’t worked then so they should not have to file or remit anything. The officer then informed them that filing is still an obligation, whether or not there is anything to remit, and talked about the steps involved in filing without any GST/HST amount to remit. The officer noted that the assessment can be corrected, but that the return still has to be filed. The officer explained the various ways a return can be filed, and set a date at which the return was due.
+### 11. Example 3
+We’ll also touch on Shilo in a moment. Let’s examine another business.
+Ren ran an IT consulting business called 123 AB Computers. One month he was short-staffed and was so busy juggling jobs for clients that he forgot to file his GST/HST return.
+One day, Ren received a reminder letter about filing, but he told himself he would file when he had time. A few weeks later, an assessment arrived in the mail, but again, Ren was busy and thought it would be better to file the return and remittance when he had more time on his plate.
+A few months later, Ren hit his next quarterly filing period, and did not file. He then received a phone call from the CRA, but he let it go to voicemail. The message left was about his missing returns and remittances and that Ren is to call the officer back to discuss them.
+Ren did not call back, so he received a letter in the mail from a GST/HST Program Officer detailing a deadline to file, an explanation of the penalties if returns remain outstanding, and an advisement to remit all owed amounts.
+### 12. Example 4
+We’ll also be revisiting Ren’s situation in a moment. Let’s look at Jim, who made specialty handmade violins for clients. He had been running a sole proprietorship for years and had a calendar reminder set up to remind him to file for each quarter.
+Jim would sit down for an hour each Saturday of the quarter to calculate and report how much HST he was to remit.
+One quarter, he received a letter from the CRA stating that he had not filed.
+Jim thought there was a mistake, as he always made sure to file on time. He reread the letter. It still said he did not file. He rechecked his files. But he could not find a confirmation of filing.
+He booted up his accounting software. And there Jim found he had not actually done any calculations for the quarter. Jim had forgotten to file.
+### 13. How to rectify outstanding returns
+Now, let’s step back from Jim’s situation.
+There are a few ways for a business to resolve overdue returns in their GST/HST account. The primary method is to have all the outstanding returns filed and the amount remitted on time by the account registrant, or by the registrant’s representative. Alternatively, if the business is no longer operating, inform the CRA through My Business Account or by sending in an RC145 Request to Close Business Number Program Accounts form as soon as possible to have the account closed.
+### 14. How to rectify outstanding returns (con’t)
+However, if a return is not filed for the GST/HST account, the following may occur:
+An assessment can be raised. This action may include a penalty and interest.
+As mentioned earlier, there could also be a refund hold, an impact on T1 personal income taxes, T2 Corporation income taxes, and GST/HST refunds, as well as a GST/HST Trust Account Exam mandated.
+### 15. Example 1 Conclusion
+We talked a moment ago about Aliyah from Snow Blowing and Lawn Mowing. After receiving the call from a GST/HST Program Officer, Aliyah apologized and immediately filed the missing return, as well as paid the owed remittance after hanging up. Afterwards, Aliyah didn’t receive additional calls or letters because she no longer had outstanding returns as she made sure to file her return and pay owed remittances on time.
+As well, since this was Aliyah’s first time not meeting her GST/HST remittance obligations, a Trust Exam Accounts Officer was not sent to analyse her business records.
+### 16. Example 2 Conclusion
+Shiloh, however, had a different situation. After further talking with a GST/HST program Officer, Shiloh stated that they were working towards closing their business, and would have periods where they don’t have any income, and questioned why they needed to file.
+The officer advised that if they were to close their account and if their sales remained below the $30,000 small supplier threshold, they would not actually have to be registered for GST/HST and would not have to worry about filing and remitting GST/HST. Shiloh was pleased to hear this and asked the officer to close the account.
+The officer then told Shiloh that they would close the account, but that the missing returns up until the date the account was closed needed to be filed, and that any outstanding remittances were still owed.
+Shiloh then filed their returns, and they did not hear anything further from the CRA about the account because the GST/HST overdue filing was resolved.
+### 17. Example 3 Conclusion
+Ren had also a differing outcome.
+Ren, as we talked about, did not talk to an officer, or respond to the letters.
+The officer assessed the outstanding returns. Any applicable penalties and interest may be applied to the account.
+A refund hold was also put on the account, which meant Ren would have to file and remit all missed filing periods before any refunds or rebates could be issued on his T1 personal income taxes, T2 Corporation income taxes, and GST/HST.
+Ren then was contacted by a CRA officer about the missing returns. Ren still did not file, and his business was referred for a GST/HST trust account exam.
+### 18. Example 4 Conclusion
+Jim sat down immediately after he realized he had forgotten to file. He ran the calculations for his return. He logged on to Netfile, filled out the form, submitted his return, and paid the owed remittance.
+From then on, Jim vowed to be relentless on making sure he filed on the first Saturday of each quarter, and to complete that task before anything else could distract him.
+Jim did not hear from the CRA again about his GST/HST account, as he resolved the issue and was diligent in preventing it from reoccurring.
+### 19. Recap of Pertinent Information
+Today, we covered the following items:
+- What are a business’s GST/HST filing responsibilities?
+- What happens when a business has outstanding returns for their GST/HST account?
+- What should businesses do to resolve overdue GST/HST returns
+- What CRA services are available to help businesses to complete their returns?
+### 20. Thank You!
+Tax administration is as complex as life itself. If the content today doesn’t quite fit your situation, please:
+- Visit our web site
+- Visit Canada.ca/cra-liaison-officer to get free tax help from a liaison officer
+- Call CRA’s business enquiries line at 1-800-959-5525
+- You can also go to canada.ca/cra-videos where you’ll find all our business webinars.
+We’ve come to the end of our webinar. Please click on the survey icon in the toolbar at the top of the screen to fill out the evaluation form for this webinar.
+Thanks for joining me today. I hope it’s been helpful. Stay tuned for more webinars in the coming months! Goodbye.

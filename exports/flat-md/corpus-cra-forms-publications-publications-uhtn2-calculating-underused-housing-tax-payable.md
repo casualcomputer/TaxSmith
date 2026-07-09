@@ -1,0 +1,206 @@
+---
+title: "Calculating the Underused Housing Tax Payable"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn2/calculating-underused-housing-tax-payable.html
+last_modified: 2023-01-17
+---
+# Calculating the Underused Housing Tax Payable
+
+### Update on underused housing tax filing requirements
+
+On March 26, 2026, [Budget 2025 Implementation Act, No. 1](https://www.parl.ca/DocumentViewer/en/45-1/bill/C-15/royal-assent), which proposed changes to the *Underused Housing Tax Act*, [received royal assent](https://www.canada.ca/en/department-finance/news/2026/03/legislation-passes-to-implement-budget-2025-canada-strong.html).
+
+**Affected owners do not need to file a return or pay the underused housing tax (UHT) for 2025 and subsequent calendar years.**
+
+Please note the requirement to file a UHT return and pay the tax still applies to the 2022, 2023, and 2024 calendar years.
+
+Underused Housing Tax Notice UHTN2
+
+April 2025
+
+This version replaces the one dated January 2023. This notice has been updated to reflect amendments to the *Underused Housing Tax Act* and its regulations, including changes to the definition of ownership percentage and information about the ownership of residential property in multiple capacities. These amendments received royal assent on June 20, 2024.
+
+The purpose of this notice is to help you determine how to calculate the underused housing tax payable for your residential property for a calendar year. Please note that if you are an excluded owner, this publication does not apply to you. For more information on who is an excluded owner, refer to [Underused Housing Tax Notice UHTN1, Introduction to the Underused Housing Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn1.html).
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the *Underused Housing Tax Act* (UHTA) and its regulations. The information in this publication does not replace the law found in the UHTA and its regulations.
+
+## Table of Contents
+
+- [Overview](#toc0)
+
+- [Reminder](#toc1)
+
+- [How to calculate the underused housing tax payable](#toc2)
+
+    - [What is your ownership percentage](#toc3)
+
+          - [Alternative rule for owners in multiple capacities](#toc4)
+
+    - [Calculating the underused housing tax payable using the taxable value – the general rule](#toc5)
+
+          - [Assessed value established by an authority](#toc6)
+
+    - [Calculating the underused housing tax payable using the fair market value – election required](#toc7)
+
+          - [What is fair market value](#toc8)
+
+          - [Electing to use fair market value](#toc9)
+
+          - [How to file the election](#toc10)
+
+- [Keeping records](#toc11)
+
+## Overview
+
+The Government of Canada introduced an underused housing tax (UHT) on the ownership of vacant or underused housing in Canada. The [Underused Housing Tax Act](https://laws-lois.justice.gc.ca/eng/acts/u-0.5/index.html) (UHTA), which governs the UHT, received royal assent on June 9, 2022. The UHT took effect on January 1, 2022.
+
+## Reminder
+
+If you are an affected owner of a residential property on December 31 of a calendar year, you have to file a return, [Form UHT-2900, Underused Housing Tax Return and Election Form](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/uht-2900.html), for the residential property for the calendar year. You also have to pay the UHT for the residential property for the calendar year, unless your ownership of the residential property is exempt from the UHT for the calendar year.
+
+It is possible for an owner to own a property in multiple capacities. For example, a person could own a property as an individual in their own right and as a trustee of a trust. Each of those is a separate capacity potentially requiring the filing of separate UHT returns.
+
+For general information on the UHT, including an explanation of affected owner, excluded owner, owner, ownership in multiple capacities, and residential property, and to determine whether the UHT applies to you, refer to [Underused Housing Tax Notice UHTN1, Introduction to the Underused Housing Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn1.html).
+
+For more information on filing a return, refer to [Underused Housing Tax Notice UHTN3, Filing a Return and Paying the Underused Housing Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn3.html).
+
+To help you determine if your ownership of a residential property is exempt from the UHT for a calendar year, refer to the various [Underused housing tax notices](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/underused-housing-tax/underused-housing-tax-technical-information/underused-housing-tax-notices.html).
+
+There are penalties if you fail to file an annual UHT return when it is due. Affected owners who are individuals are subject to a minimum penalty of $1,000. Affected owners that are corporations are subject to a minimum penalty of $2,000. For more information, refer to Underused Housing Tax Notice UHTN3.
+
+## How to calculate the underused housing tax payable
+
+If your ownership of a residential property does not qualify for an exemption, you have to calculate and pay the UHT for your ownership of the property.
+
+The tax rate of the UHT is 1%. Generally, to calculate the UHT payable, each affected owner of a residential property has to apply the 1% tax rate to the **value** of the residential property and then apply their respective ownership percentage of the residential property. The **value** of the residential property is either the taxable value or the fair market value.
+
+As noted above, it is possible for an owner to own a property in multiple capacities. When calculating the UHT payable, such an owner has to factor in the ownership percentage for each capacity.
+
+### What is your ownership percentage
+
+If you are an affected owner of a residential property on December 31 of a calendar year, your **ownership percentage** of the residential property for the calendar year is determined as follows:
+
+- If you are an owner of the residential property in a single capacity and the land registration system indicates you hold a particular percentage of ownership of the residential property, use that percentage.
+
+- If you are an owner of the residential property in more than one capacity and the land registration system separately indicates a percentage of ownership for each of your ownership capacities, use the percentage indicated for the applicable ownership capacity.
+
+- If the land registration system indicates a group of persons that holds a percentage of ownership of the residential property, and you are part of that group, divide that percentage by the number of persons in the group.
+
+- If none of the above apply, use the percentage obtained by the following formula:
+
+**(100% – A) ÷ B**
+
+| Where |  |
+
+| --- | --- |
+
+| A | is the sum of all percentages of ownership held by another person or group of persons as indicated in the land registration system |
+
+| B | is the total number of persons (without taking their ownership in multiple capacities into account) with no percentage of ownership indicated in the land registration system |
+
+#### Alternative rule for owners in multiple capacities
+
+If you are an owner of a residential property in multiple capacities and the land registration system does not separately indicate a percentage of ownership for each of your ownership capacities, you may also determine and use a percentage that reasonably reflects your percentage of ownership for the applicable ownership capacity.
+
+It is your responsibility to maintain adequate records to support your determination. If you do not have adequate records to support your determination, the Canada Revenue Agency (CRA) may determine your ownership percentage using one of the aforementioned rules applicable to the situation. For more information on ownership in multiple capacities, refer to [Underused Housing Tax Notice UHTN1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn1.html).
+
+On December 31, 2024, the applicable land registration system identifies a group of persons, which is composed of four individuals, as together holding 100% of the ownership of a residential property. The land registration system does not identify a particular ownership percentage for each individual in the group.
+
+Based on the information provided, the ownership percentage for each individual in the group is 25% (100% [the percentage held by the group as indicated in the land registration system] ÷ 4 [the number of owners in the group]).
+
+On December 31, 2024, a land registration system identifies Individual A as owning 40% of a residential property and Individual B as owning 20% of the same property. In addition, there are five other persons identified in the land registration system as owners but with no percentage of ownership indicated. All the persons identified in the land registration system own the property in their own right.
+
+Based on the information provided, the ownership percentage of each of the other five persons with no percentage indicated in the land registration system is 8% ((100% – 60%) [the sum of all the percentage of ownership indicated in the land registration system held by another person or group of persons] ÷ 5 [the total number of persons with no percentage of ownership indicated in the land registration system]).
+
+On December 31, 2024, an individual owner is identified in the land registration system as owning 100% of a residential property. According to a written trust document, the individual owns 60% of the property in the capacity as a trustee of a trust.
+
+For their capacity as a trustee of a trust, the individual knows that their ownership percentage is 60% based on the trust document. For the remaining percentage that the individual owns in their own right, they determine that their ownership percentage is 40% (100% – 60%).
+
+### Calculating the underused housing tax payable using the taxable value – the general rule
+
+If you are an affected owner of a residential property on December 31 of a calendar year, the general rule for calculating your UHT payable for the residential property for the calendar year is to multiply 1% by the taxable value of the property and then multiply that result by your ownership percentage of the property for each applicable capacity in which you own the property.
+
+The **taxable value** of the residential property for a calendar year is the greater of the following amounts:
+
+- the value of the residential property established by an authority that has the power to establish the assessed value of property for purposes of calculating a property tax
+
+- the residential property's most recent sale price on or before December 31 of the calendar year
+
+#### Assessed value established by an authority
+
+Provincial or territorial assessment and property tax regimes vary across Canada. Under a typical assessment and property tax regime, an authority establishes the assessed value of residential properties in its jurisdiction and sends property assessment notices (or similar documents) to the owners. The authority also sends the assessed value of the residential properties to the applicable municipality. The municipality calculates the property tax for residential properties by applying municipal tax rates to all (or part of) the assessed value of the residential properties and then sends property tax bills to the owners.
+
+A property assessment notice (or similar document) and a property tax bill are generally two separate and distinct documents. However, in some parts of Canada, the property assessment notice and the property tax bill may form one single document.
+
+The assessed value of a residential property, as established by the authority, may not necessarily be the same as the value used by the municipality to calculate the property tax. In some parts of Canada, the property tax may be calculated on only part of the assessed value established by the authority.
+
+To determine the taxable value of the residential property for a calendar year for purposes of the UHT, use the full assessed value as established by an authority and as stated in the property assessment notice (or similar document).
+
+An individual is not a citizen or permanent resident of Canada. The individual is the only person identified in the land registration system as an owner of a property in Canada (a detached house) that they purchased for $500,000 in 2019. The individual owns the property in their individual capacity (that is, neither in the capacity as a trustee of a trust nor as a partner of a partnership). It is the only property that the individual owns in Canada and their ownership of the property is not exempt from the UHT.
+
+In 2022, the individual receives a property assessment notice from an authority that establishes the assessed value of property for purposes of calculating the municipal property tax. The notice states that the assessed value of the property for 2022 is $600,000.
+
+As an affected owner of the property, the individual has to file a return for the property for the 2022 calendar year. They also have to pay the UHT for their ownership percentage of the property for the 2022 calendar year because their ownership of the property is not exempt from the UHT for the calendar year.
+
+To calculate the UHT payable, the individual determines that the taxable value of the property is $600,000 (which is the greater of the assessed value of $600,000 and the property's most recent sale price of $500,000). Also, the individual determines that their ownership percentage is 100% because they are the only owner of the property.
+
+The UHT payable by the individual for the 2022 calendar year is $6,000 (1% × $600,000 [the taxable value] × 100% [the ownership percentage]).
+
+### Calculating the underused housing tax payable using the fair market value – election required
+
+If you are an affected owner of a residential property on December 31 of a calendar year, you may elect to use the fair market value of the residential property instead of its taxable value to calculate your UHT payable for the residential property for the calendar year.
+
+#### What is fair market value
+
+The CRA has guidelines and criteria under the goods and services tax/harmonized sales tax (GST/HST) to determine the fair market value of real property. Similar guidelines and criteria may be used for purposes of the election to calculate the UHT payable using the fair market value of a residential property.
+
+Generally, fair market value is the highest price, expressed in terms of money or money's worth, obtainable in an open and unrestricted market between knowledgeable, informed, and prudent parties that are acting at arm's length, neither party being under any compulsion to transact.
+
+#### Electing to use fair market value
+
+If you want to use the fair market value of a residential property to calculate your UHT payable for the residential property for a calendar year, you have to do both of the following by April 30 of the following calendar year:
+
+- file an election with the CRA
+
+- obtain a written appraisal determined by an accredited, professional real estate appraiser operating at arm's length (the intended use of the written appraisal must be to help in the administration of the UHTA)
+
+You may determine the fair market value of the residential property at any time on or after January 1 of the calendar year and on or before April 30 of the following calendar year. For more information on the Acceptable Professional Associations and Designations for purposes of the fair market value election, and for more information on how to file the election, refer to "Part 7 - Fair market value (FMV) election" of [How to complete the return and calculate the tax](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/underused-housing-tax/complete-return.html).
+
+Generally, the election cannot be revoked or amended during a calendar year once it is validly made for the calendar year.
+
+When the due date for an election falls on a Saturday, Sunday, or a public holiday recognized by the CRA, the election is on time if the CRA receives it, or if it is postmarked, on or before the next business day.
+
+If you are an affected owner of a residential property on December 31 of a calendar year and you file an election with the CRA to use the fair market value of the residential property, your UHT payable for the residential property for the calendar year is calculated by multiplying 1% by the fair market value of the property and then multiplying that result by your ownership percentage of the property for each applicable capacity in which you own the property.
+
+#### How to file the election
+
+You may make the election for a residential property in your return filed for the residential property using [Form UHT-2900](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/uht-2900.html).
+
+## Keeping records
+
+Every affected owner of a residential property must keep records to enable the determination of their obligations and liabilities under the UHTA. Generally, you must keep the records for six years from the end of the year to which they relate.
+
+## Further information
+
+For all technical publications related to the UHTA, go to [Underused housing tax technical information](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/underused-housing-tax/underused-housing-tax-technical-information.html).
+
+For general enquiries about the underused housing tax, call the applicable telephone number:
+
+- if you are calling about a residential property that is owned by an individual and you are calling from:
+
+    - within Canada or the United States, call **1‑800‑959‑8281**
+
+    - outside Canada and the United States, call **613‑940‑8495** (collect calls accepted)
+
+- if you are calling about a residential property that is owned by a corporation and you are calling from:
+
+    - within Canada or the United States, call **1‑800‑959‑5525**
+
+    - outside Canada and the United States, call **613‑940‑8497** (collect calls accepted)
+
+To request a ruling or an interpretation related to the application of the underused housing tax, write to:
+
+GST/HST Rulings Directorate Canada Revenue Agency Place de Ville Tower A 5th floor 320 Queen St Ottawa ON K1A 0L5 Canada
+
+Fax: **1‑418‑566‑0319**
+
+Refer to [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), which explains the rulings and interpretations service offered by the Canada Revenue Agency.

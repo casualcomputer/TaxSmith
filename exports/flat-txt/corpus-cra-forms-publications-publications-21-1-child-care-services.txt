@@ -1,0 +1,269 @@
+Title: Child Care Services
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/21-1/child-care-services.html
+Corpus path: corpus/cra/forms-publications/publications/21-1/child-care-services.md
+Document type: publication
+Last modified: 2024-02-26
+
+# Child Care Services
+
+GST/HST Memorandum 21-1 December 2019
+
+This memorandum explains the GST/HST exemption for supplies of child care services under section 1 of Part IV of Schedule V.
+
+In this publication, all legislative references to the “Act” are to the Excise Tax Act, unless otherwise specified. The information in this publication does not replace the law found in the Act and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the Act or relevant regulation, or call GST/HST Rulings at 1-800-959-8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1-800-567-4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1-855-666-5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia, and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, see [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Child care services
+
+1. A supply of child care services, the primary purpose of which is to provide care and supervision to children 14 years of age or under for periods normally less than 24 hours per day is generally exempt under section 1 of Part IV of Schedule V.
+
+An individual arrives at 6:45 pm to babysit toddlers until midnight while their parents are away from the home.
+
+The individual is making an exempt supply under section 1 of Part IV of Schedule V because the individual is providing a child care service, the primary purpose of which is to provide care and supervision to children 14 years of age or under for a period of less than 24 hours per day.
+
+2. The term **child care services** is not defined in the Act. Where a term is not defined, the ordinary meaning of the term applies. Therefore, a child care service is generally a service of looking after or providing for a child or children.
+
+3. Child care services could include services provided by:
+
+- a babysitter
+
+- a day care centre
+
+- a pre-school or nursery school
+
+- a day camp
+
+- an educational institution for the purpose of providing before and after school care
+
+The above is not an exhaustive list of child care service providers. Section 1 of Part IV of Schedule V does not specify who the supplier must be. Therefore, anyone can supply child care services.
+
+A for-profit company is licenced by the province to provide day care. It offers child care services for children aged 2 to 6. The for-profit company provides care and supervision to the children 5 days a week from 7 am to 6 pm.
+
+The for-profit company is making exempt supplies under section 1 of Part IV of Schedule V.
+
+### Example 3
+
+An individual provides a child care service in their home. The individual is not licenced by the province. The individual offers child care services for 3 children aged 2 to 4 for up to 8 hours per weekday from 9 am to 5 pm.
+
+The individual is making exempt supplies under section 1 of Part IV of Schedule V.
+
+### Example 4
+
+A corporation that operates a martial arts centre offers an after-school program for children 10 years of age or less. At the end of each school day, an employee of the corporation picks up a number of children at their school in the corporation’s van and brings them to the centre. Once at the centre, the children receive homework help (if necessary), a healthy snack, and participate in martial arts classes and other activities to keep them engaged and occupied until their parents arrive. The parents are expected to pick up their children by 6 pm.
+
+The corporation is supplying child care services. Although the after school program includes martial arts training and other recreational activities, the primary purpose of the supply is to provide care and supervision to children 14 years of age and under for periods normally less than 24 hours per day. Therefore, the corporation is making an exempt supply under section 1 of Part IV of Schedule V.
+
+### Example 5
+
+A for-profit company offers a pre-school program for children aged 2 to 4. The program is designed to provide care and supervision to the children 5 days a week from 9 am to 3 pm. The program is not part of the provincial school curriculum.
+
+The for-profit company is supplying child care services. While there are some structured learning activities throughout the day, the primary purpose of the program is not education or instruction. The for-profit company is making exempt supplies under section 1 of Part IV of Schedule V.
+
+### Example 6
+
+A 7-year old boy participates in a 5 day summer dance camp for children aged 7 to 10 provided by a for-profit company. The camp runs from 8 am to 4 pm Monday to Friday. During the camp, the child is introduced to a number of different dance styles, has scheduled time for outdoor free-play and other activities each day, and is provided with a boxed lunch. The company’s staff supervises the campers and also provides the dance instruction.
+
+The company is supplying child care services. Although the day camp involves dance instruction and other recreational activities, the primary purpose of the supply is to provide care and supervision to children 14 years of age and under for periods normally less than 24 hours per day. Therefore, the company is making an exempt supply under section 1 of Part IV of Schedule V.
+
+4. Where a child participates in a particular program that includes athletic, educational, or recreational activities, there can be an element of education and perhaps training as well as an element of child care. However, in any particular case, it is a question of fact as to whether child care services are provided or whether a program of instruction or education is provided. With respect to any particular program, a degree of basic care and supervision is normally provided although the program may also involve activities and instruction which enrich the program. In determining whether a particular program is child care, some factors that would be considered are the age of the participating children, the qualifications of the individuals operating the program, the extent that progress is measured and goal-orientation is involved, and the time devoted to the program. For example, sports day camps for young children are generally not of an ongoing nature and it is generally recognized that there is a sufficient degree of child care even though the program is enriched by sporting activities with instruction. On the other hand, children, particularly those who are older, may participate in a sports program that is ongoing for a lengthy period of time, the instructors have qualifications or experience in a particular field, progress is regularly monitored and is goal-oriented, and sophisticated training methods are used. In this type of scenario, it is the CRA’s general view that the service provided is one of instruction as opposed to child care.
+
+5. A service of instruction in an athletic or recreational activity is not a child care service and is not exempt under section 1 of Part IV of Schedule V. Examples include tennis lessons, language lessons, painting classes, and martial arts classes.
+
+A 13-year old girl is enrolled in a 1 week hockey school operated by a for-profit corporation. Her parents drop her off on their way to work and pick her up on their way home. The instructors are professional coaches. The entire day is devoted to hockey knowledge and skills development including:
+
+- classroom instruction
+
+- on-ice instruction
+
+- video film analysis of each child’s performance
+
+The hockey school is supplying a service of instruction. The purpose of the supply is to teach hockey skills. The purpose of the supply is not care and supervision although there may be a small degree of basic care and supervision involved. Therefore, the hockey school is not making an exempt supply under section 1 of Part IV of Schedule V.
+
+6. Supplies of educational or training services are also not exempt under section 1 of Part IV of Schedule V.
+
+A 12-year old child attends a program at a learning centre operated by a for-profit corporation that specializes in speed reading skills. At the centre, the child’s instructor reviews her progress and helps her with any difficulties she may be having. The instructor completes a learning plan that the child follows, which is used in grading her progress.
+
+The corporation is supplying an instructional service. Therefore, the corporation is not making an exempt supply under section 1 of Part IV of Schedule V.
+
+### Example 9
+
+A non-profit organization offers training to children aged 6 to 10 diagnosed with autism using scientifically proven methods to help them cope with their disability. The training helps build a useful repertoire of behaviours and reduce problematic ones. The instructors monitor the children closely and the behaviours to be changed are clearly defined and recorded.
+
+The non-profit organization is supplying a training service. Therefore, the non-profit organization is not making an exempt supply under section 1 of Part IV of Schedule V.
+
+7. Although a supply may involve an element of care and supervision for children, the supplier may not be providing child care services. When examining a supply consisting of multiple elements, it is important to look for the predominant element to determine the fundamental nature of the supply. For example, an individual teaching gymnastics lessons supervises their 7-year old students, however, the fundamental nature of the supply is instruction in gymnastics.
+
+A company is hired to transport children 14 years of age and under in a foster care setting to and from school. The company’s employee is required to ensure the children have booster seats, if necessary, and ensure their safety while in the vehicle.
+
+The company is supplying a transportation service, not a child care service. Although the company’s employee provides some care and supervision while the children are in the vehicle, the fundamental nature of the supply is to transport the children. Therefore, the company is not making an exempt supply under section 1 of Part IV of Schedule V.
+
+### Example 11
+
+An individual is hired to provide postpartum doula services for the parents of a newborn baby. Per the signed 3 month contract, the services include providing information about parenting, doing light housework, laundry, providing care for the newborn baby, and feeding the newborn baby. The contract also provides that the doula will stay overnight on occasion if requested a day in advance.
+
+The individual is supplying support services to the parents. Although the individual provides some care and supervision to the newborn baby in the course of the contract, the fundamental nature of the supply is to support the parents. Therefore, the individual is not making an exempt supply under section 1 of Part IV of Schedule V.
+
+8. A supplier may provide supervised visitation where it has been determined that a child 14 years of age or under should only spend time with a particular person while under supervision. The person providing the supervision is providing a supply of child care services, the primary purpose of which is to provide care and supervision to children 14 years of age or under. As long as the periods of supervision are normally less than 24 hours per day, the supply will be exempt under section 1 of Part IV of Schedule V.
+
+A court ordered that a parent should only be allowed access to their 2 children, aged 6 and 9, when a non-related person is present. A corporation provides a service where its employee supervises the children during their 4 hour visit with their parent. The employee’s role is to ensure the safety of the children during the visit. Where necessary, the employee can end the visit if it becomes uncomfortable or distressing to the children.
+
+The corporation is making supplies of child care services. The primary purpose of the supply is to provide care and supervision to children 14 years of age or under for periods normally less than 24 hours per day. Therefore, the corporation is making exempt supplies under section 1 of Part IV of Schedule V.
+
+### Children 14 years of age or under
+
+9. To be exempt under section 1 of Part IV of Schedule V, the primary purpose of the supply of child care services must be to provide care and supervision to children 14 years of age or under. A supplier must determine on a supply-by-supply basis whether the conditions of the exemption are met.
+
+An individual arrives at 6:45 pm to babysit children aged 7, 10, and 15 until midnight while their parents are away from the home.
+
+Although one of the children is not 14 years of age or under, the individual is making a single supply of child care services, the primary purpose of which is to provide care and supervision to children 14 years of age or under for a period of less than 24 hours per day. Therefore, the babysitter is making an exempt supply under section 1 of Part IV of Schedule V.
+
+### Example 14
+
+A for-profit company offers an after school program in which it provides child care services. The parents of a 7-year old, the parents of a 10-year old, and the parents of a 15-year old each enrol their child in the program.
+
+The supply to the parents of each child is a separate supply. The supplies of child care services to the parents of the 7-year old and the 10-year old are exempt under section 1 of Part IV of Schedule V because the company is making a supply of child care services, the primary purpose of which is to provide care and supervision to children 14 years of age or under to each of the parents. The supply of child care services to the parents of the 15-year old is not exempt under section 1 of Part IV of Schedule V because the primary purpose of that supply is not to provide care and supervision to children 14 years of age or under.
+
+### Periods normally less than 24 hours per day
+
+10. To be exempt under section 1 of Part IV of Schedule V, the supply of child care services must be to provide care and supervision for periods normally less than 24 hours per day. If child care services are normally provided for less than 24 hours per day and are only provided for 24 hours per day on occasion, the supply of the child care services will be exempt if all the other conditions in section 1 of Part IV of Schedule V are met. Each supply must be examined to determine whether all of the conditions of the exemption are met.
+
+A company that provides child care services has a 1 year contract to provide child care services the primary purpose of which is to provide care and supervision to 3 children (all 14 years of age or under) from 7 am to 5 pm Monday through Friday. The contract allows for 2 weeks of 24 hour care.
+
+Even though the care and supervision provided during the 2 week period is for 24 hours per day, the supply under the contract for child care services is exempt under section 1 of Part IV of Schedule V because the services are normally provided for less than 24 hours per day.
+
+### Example 16
+
+Parents of 2 children under 15 years of age hire a company that supplies child care services to provide care and supervision to their children for 10 days while the parents are away from home.
+
+The supply of child care services by the company is not exempt under section 1 of Part IV of Schedule V because the services are provided for 24 hours per day.
+
+### Transportation exclusion
+
+11. Section 1 of Part IV of Schedule V does not exempt the supply of a service of supervising an unaccompanied child when the service is supplied by a carrier in connection with a taxable supply of a passenger transportation service.
+
+A 10-year old boy is taking a bus alone from Brandon to Winnipeg to visit his grandparents. The bus company ensures that the boy has adult supervision during the bus ride until he is met by his grandparents at the Winnipeg terminal.
+
+The bus company’s supply is not exempt under section 1 of Part IV of Schedule V.
+
+### Example 18
+
+A court determines that a 9-year old child should live with their grandparents. The child is located in Halifax. The grandparents live in Calgary. The court orders that the child be transported to Calgary while in the custody of an employee of a corporation that provides family services. In exchange for the fare, the airline supplies 2 seats, 1 for the child and 1 for the employee. The services provided by the employee are a separate supply from the passenger transportation service provided by the airline. The total time the child is in the care of the employee is 12 hours.
+
+The corporation is making a supply of child care services, the primary purpose of which is to provide care and supervision to children 14 years of age or under for periods normally less than 24 hours per day. Therefore, this supply is exempt under section 1 of Part IV of Schedule V.
+
+### Child care provided by an employee
+
+12. Under subsection 123(1), a **supply** means, in part, the provision of property or a service in any manner. A **service** does not include anything provided to an employer by a person who is or agrees to become an employee of the employer in the course of or in relation to the office or employment of that person. Therefore, salaries, wages, commissions, and other monetary remuneration payable by an employer to an employee are not subject to the GST/HST.
+
+A nanny, who is an employee of a household, provides care and supervision to 3 toddlers 5 days a week from 7 am to 6 pm. The nanny is paid a weekly salary in exchange for this work.
+
+The work performed by the nanny for the employer is not a supply for GST/HST purposes and therefore, tax will not apply to the salary received from the employer.
+
+13. If a nanny is self-employed, the services they provide are supplies which may be exempt supplies of child care services if all the conditions of section 1 of Part IV of Schedule V are met. To determine if a person is an employee or self-employed, go to [Employment status: Employee or self-employed](https://www.canada.ca/en/revenue-agency/services/tax/canada-pension-plan-cpp-employment-insurance-ei-rulings/employee-self-employed.html).
+
+### Placement services
+
+14. A supply of a service to parents of finding suitable child care is not exempt under section 1 of Part IV of Schedule V.
+
+A couple want to send their 5-year old child to a day care where the caregivers will speak to their child in Japanese for part of the day. The parents sign a contract with a for-profit company to find child care that will match their needs.
+
+The supply of the service of finding suitable child care is not exempt under section 1 of Part IV of Schedule V.
+
+15. Where a person resupplies a supply of child care services, the primary purpose of which is to provide care and supervision to children 14 years of age or under for periods normally less than 24 hours per day, the supply of child care services will be exempt under section 1 of Part IV of Schedule V.
+
+Parents have a contract with a for-profit company to provide day care for their 3 children all under the age of 5 for less than 24 hours per day. Due to unforeseen circumstances, the company cannot provide the child care services. The company sub-contracts with another day care provider in the area to provide the child care services.
+
+The supply of child care services from the sub-contracted day care provider to the for-profit company is exempt under section 1 of Part IV of Schedule V. The supply of child care services from the for-profit company to the parents is also exempt under section 1 of Part IV of Schedule V.
+
+### Example 22
+
+A non-profit organization is a liaison between parents and in-home child care providers. The organization contracts with child care providers who provide child care services. The organization provides various administrative services to the child care providers in exchange for a commission. There is no employment or agency relationship between the organization and the child care providers.
+
+A parent needing child care contacts the organization who finds an appropriate spot with a child care provider. The parent and the organization enter into a separate agreement for the supply of child care services which will be rendered by one of the in-home child care providers. The parents pay all child care services fees to the organization. From the fees paid to it, the organization keeps a 5% commission for the administrative services it provides and pays the remaining amount to the child care provider as consideration for the child care services that the organization acquires.
+
+The supply of child care services from the in-home child care provider to the organization is exempt under section 1 of Part IV of Schedule V. The supply of child care services from the organization to the parents is also exempt under section 1 of Part IV of Schedule V. The supply of the administrative services from the organization to the child care providers provided for the 5% commission is taxable as no exempting provision applies.
+
+## Other exempting provisions
+
+16. A supply of child care services that is not exempt under section 1 of Part IV of Schedule V may be exempt under another provision in the Act.
+
+A charity provides summer day camps for children aged 15 to 18 who are coping with a disability. The children spend part of the day learning techniques to better manage their health. The rest of the day is spent in a variety of activities designed specifically for the children.
+
+Although the supply made by the charity is not exempt under section 1 of Part IV of Schedule V because the children are over 14 years of age, the supply will be exempt under section 1 of Part V.1 of Schedule V if all requirements of that exemption are met. Refer to [Guide RC4082, GST/HST Information for Charities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4082.html), for more information.
+
+### Example 24
+
+A non-profit organization offers a flag football program for children aged 8 to 14 years every Tuesday night during July and August. During the program, children learn the rules of flag football and learn to throw, catch, and play with a team. Coaches are present to supervise the children during practices and games.
+
+The supply made by the non-profit organization is not exempt under section 1 of Part IV of Schedule V because it is a service of instruction. Since the supplier is a non-profit organization, the supply of the flag football program will be exempt under section 12 of Part VI of Schedule V if all requirements of that exemption are met. Refer to [Guide RC4081, GST/HST Information for Non-Profit Organizations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4081.html), for more information.
+
+### Example 25
+
+A municipality offers a hockey skating camp for children aged 7 to 9 years for 2 hours a week for 3 months. Children are taught skating skills, practice skating, and participate in drills. The camps are taught and supervised by skating coaches employed by the municipality.
+
+The supply made by the municipality is not exempt under section 1 of Part IV of Schedule V because it is a service of instruction. Since the supplier is a municipality, the supply of the hockey skating camp will be exempt under section 12 of Part VI of Schedule V if all requirements of that exemption are met. Refer to [Guide RC4049, GST/HST Information for Municipalities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4049.html), for more information.
+
+### Example 26
+
+A music teacher offers recorder lessons for children aged 5 to 7 years old. The lessons involve learning to read music, as well as learning to play to a rhythm. A lesson plan is followed and the children’s progress is measured and graded.
+
+Although the teacher supervises the children, the purpose of the lessons is to teach the children music. The supply of the recorder lessons is not exempt under section 1 of Part IV of Schedule V because it is a service of instruction. The supply of the recorder lessons will be exempt under section 9 of Part III of Schedule V if all requirements of that exemption are met. For more information, refer to [GST/HST Memorandum 20-6, Tutoring and Equivalent Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-6.html).
+
+### Example 27
+
+A for-profit company operates a group home that is a place of residence for children with disabilities. The monthly fee is consideration for a supply of a service that includes accommodation and assistance with personal hygiene, grooming, and dressing.
+
+The supply of the service of providing care, supervision, and a place of residence provided by the company is not exempt under section 1 of Part IV of Schedule V. The supply of the service of providing care, supervision, and a place of residence provided by the company is exempt under section 2 of Part IV of Schedule V. For more information, refer to [GST/HST Memorandum 21-2, Residential Care Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/21-2.html).
+
+### Example 28
+
+A 14 year old child with limited mental capacity for self-supervision and self-care stays at a supplier’s establishment for 2 days a month while the child’s parents are away. The child is provided care and supervised activities during their stay at the establishment.
+
+The supply of the care and supervision at the establishment is not exempt under section 1 of Part IV of Schedule V because of the overnight supervision. The supply of care and supervision at the establishment is an exempt supply under section 3 of Part IV of Schedule V. For more information, refer to [GST/HST Memorandum 21-3, Respite Care Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/21-3.html).
+
+### Example 29
+
+A doctor diagnoses a child with autism. The doctor, who is acting in the course of a professional-client relationship with the child, certifies in writing that a specially designed training program is an appropriate means to assist the child in alleviating or eliminating the effects of the autism. The child’s parents subsequently enter into an agreement with a non-profit organization for the child to receive this specially designed training.
+
+Although the supply of the training is not an exempt supply of child care services under section 1 of Part IV of Schedule V, the supply of the training program by the non-profit organization will be exempt under section 14 of Part II of Schedule V if all requirements of that exemption are met. For more information, refer to [GST/HST Info Sheets GI-112, Specially Designed Training to Assist Individuals with a Disorder or Disability](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-112.html), and [GI-113, Specially Designed Training to Assist Individuals with Autism](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-113.html).
+
+## Single supply or multiple supplies
+
+17. When a service is supplied together in combination with other property and/or services, a determination must first be made as to whether the transaction is a single supply or multiple supplies. For information on whether a transaction consisting of several elements constitutes a single supply or multiple supplies, refer to [GST/HST Policy Statement P–077R2, Single and Multiple Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-077r2.html).
+
+18. If a transaction consists of multiple supplies, it is necessary to determine whether one of those supplies is incidental to another and whether it may consequently be deemed to form part of a single supply pursuant to other provisions of the Act (such as section 138, which applies where the main and the incidental supplies are made for a single consideration). For information on whether one supply is incidental to another, refer to [GST/HST Policy Statement P-159R-1, Meaning of the Phrase “Reasonably Regarded as Incidental”](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-159r-1.html), and [GST/HST Policy Statement P-160R, Meaning of the Phrase “Where a Particular Property or Service is Supplied Together with any other Property or Service”](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-160r.html). For each supply identified, it must then be determined whether the supply is taxable or exempt.
+
+An 8-year old girl participates in a 5 day summer science camp provided by a for-profit company. The camp runs from 8:30 am to 4 pm on Monday to Friday. During the camp, the child is introduced to various science disciplines, and has time for outdoor free-play and other activities each day. The company’s staff supervises the campers and also provides the science instruction. For an optional fee, the company provides the child with a catered lunch.
+
+The company is making multiple supplies of a child care service and a meal. The supply of the child care service, the primary purpose of which is to provide care and supervision to children 14 years of age or under for periods normally less than 24 hours per day, is exempt under section 1 of Part IV of Schedule V. The supply of the meal is taxable as no exempting provision applies.
+
+### GST/HST registration
+
+19. Although a supply made by a supplier may be taxable, the supplier generally does not have to register for GST/HST purposes and collect tax if it is a small supplier. For information on the requirement to register for GST/HST purposes, refer to [GST/HST Memorandum 2-1, Required Registration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/2-1.html), and [GST/HST Memorandum 2-2, Small Suppliers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/2-2.html).
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries,**call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries,**call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in**Quebec**, call**Revenu Québec**at **1-800-567-4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST - Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for**general GST/HST**or**QST enquiries**, call**Business Enquiries**at**1-800-959-5525**
+
+- for**technical GST/HST**or**QST enquiries**, call**GST/HST Rulings SLFI**at**1-855-666-5166**

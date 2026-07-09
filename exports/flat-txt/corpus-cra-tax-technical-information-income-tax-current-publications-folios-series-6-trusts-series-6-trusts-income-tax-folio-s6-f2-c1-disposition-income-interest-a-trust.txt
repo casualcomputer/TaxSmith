@@ -1,0 +1,235 @@
+Title: Income Tax Folio S6-F2-C1, Disposition of an Income Interest in a Trust
+Source: https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-6-trusts/series-6-trusts/income-tax-folio-s6-f2-c1-disposition-income-interest-a-trust.html
+Corpus path: corpus/cra/tax/technical-information/income-tax/current-publications/folios/series-6-trusts/series-6-trusts/income-tax-folio-s6-f2-c1-disposition-income-interest-a-trust.md
+Document type: technical_publication
+Last modified: 2015-11-24
+
+# Income Tax Folio S6-F2-C1, Disposition of an Income Interest in a Trust
+
+**Series 6: Trusts**
+
+**Folio 2: Beneficiaries**
+
+**Chapter 1: Disposition of an Income Interest in a Trust**
+
+## Summary
+
+This Chapter discusses the disposition of an income interest in a trust and the circumstances under which the proceeds are required to be included in the transferor's income pursuant to subsection 106(2). The Chapter also considers the amount to be attributed to proceeds of disposition and the costs of the income interest that may be deducted.
+
+The Canada Revenue Agency (CRA) issues income tax folios to provide technical interpretations and positions regarding certain provisions contained in income tax law. Due to their technical nature, folios are used primarily by tax specialists and other individuals who have an interest in tax matters. While the comments in a particular paragraph in a folio may relate to provisions of the law in force at the time they were made, such comments are not a substitute for the law. The reader should, therefore, consider such comments in light of the relevant provisions of the law in force for the particular tax year being considered.
+
+## Table of contents
+
+- [Discussion and interpretation](#toc0)
+
+    - [Income interest of a taxpayer in a trust](#toc1)
+
+          - [Definition](#toc2)
+
+          - [Personal trust](#toc3)
+
+          - [Capital interest in a trust](#toc4)
+
+    - [Assignments and other dispositions of an income interest](#toc5)
+
+          - [Non-arm’s length disposition and inter vivos gift](#toc6)
+
+          - [Distribution of property by the trust](#toc7)
+
+          - [Disclaimer](#toc8)
+
+          - [Release or surrender](#toc9)
+
+          - [Qualifying disposition between trusts](#toc10)
+
+          - [Disposition by a non-resident](#toc11)
+
+    - [Cost of an income interest in a trust](#toc12)
+
+          - [Allowable deduction](#toc13)
+
+          - [Cost to the beneficiary](#toc14)
+
+- [Application](#toc15)
+
+- [Reference](#toc16)
+
+## Discussion and interpretation
+
+### Income interest of a taxpayer in a trust
+
+#### Definition
+
+**1.1** Subsection 108(1) defines an **income interest** in a trust as a right (whether immediate or future and whether absolute or contingent), as a beneficiary under a **personal trust** to, or to receive, all or any part of the income of the trust. After 1999, an income interest in a trust includes a right to enforce payment of an amount by the trust that arises as a result of any such right. **Trust** for this purpose is defined in subsection 108(1). **Income** for this purpose means income computed for trust accounting purposes and not for income tax purposes, and as further modified by subsection 108(3).
+
+#### Personal trust
+
+**1.2** A personal trust, as defined in subsection 248(1), is either:
+
+- a testamentary trust; or
+
+- an inter vivos trust in which no beneficial interest was acquired for consideration payable directly or indirectly to the trust or to a person or partnership that has made a contribution to the trust.
+
+For the purposes of the definition of a personal trust, love and affection are not regarded as consideration. After 1999, a personal trust does not include a trust that is a unit trust, within the meaning assigned by subsection 108(2) or that was a unit trust at any time after 1999.
+
+For the 2016 and subsequent tax years, the reference in ¶1.2 to “testamentary trust” will be replaced with “graduated rate estate”, and the reference to “an inter vivos trust” will be replaced with “a trust."
+
+**1.3** Sometimes a person who contributes property to a personal trust, is also a beneficiary of the trust. In such situations, subsection 108(7) provides that the person will be deemed not to have acquired their interest in the trust for consideration provided that all other beneficial interests in the trust that were acquired by way of a transfer, assignment, or other disposition of property to the trust, were acquired by persons related to that person. For example, where a husband and wife contribute property to a trust of which the husband, wife and their children are beneficiaries, their interests are deemed not to have been acquired for consideration. However, if a trust is established by contributions from two or more unrelated persons and those unrelated persons are beneficiaries of the trust, their respective interests in the trust would be considered to have been acquired for consideration.
+
+#### Capital interest in a trust
+
+**1.4** A **capital interest** in a trust is defined in subsection 108(1) to mean all rights of a taxpayer as a beneficiary under the trust other than an income interest in the trust. Section 107 contains rules applicable to the disposition of a capital interest in a trust . A discussion of these rules falls outside of the scope of this Chapter.
+
+### Assignments and other dispositions of an income interest
+
+**1.5** An assignment of an income interest occurs when a taxpayer having an income interest, transfers or directs it to another person. A taxpayer who disposes of, by assignment or otherwise, an income interest in a trust in favour of another person will be subject to the provisions of subsection 106(2) and must include the proceeds of disposition in income.
+
+**1.6** Pursuant to paragraph 106(2)(*a*), where a taxpayer disposes of an income interest in a trust that includes a right to enforce payment of an amount by the trust, the proceeds of disposition of the income interest are offset by the amount that has been included in the taxpayer's income under subsection 104(13) in respect of that right. However, where property of the trust is distributed in satisfaction of an income interest of the beneficiary, paragraph 106(2)(*a*) does not apply. As a result, there will be no proceeds of disposition in respect of that taxpayer and therefore no income inclusion (refer to ¶[1.9](#para1.9)).
+
+**1.7** Where an amount is included in a taxpayer’s income pursuant to subsection 106(2), a deduction may be available under subsection 106(1) for the cost of the income interest, if any. This is discussed in ¶[1.18](#para1.18) - 1.21. Further, paragraph 106(2)(*b*) deems any taxable capital gain or allowable capital loss from the disposition of the income interest to be nil. Paragraph 106(2)(*c*) provides that the cost to the taxpayer of any property received as consideration for the disposition of an income interest is the fair market value (FMV) of the property at the time of the disposition.
+
+#### Non-arm’s length disposition and inter vivos gift
+
+**1.8** If the transaction is not at arm's length and the proceeds of disposition are less than FMV, subparagraph 69(1)(*b*)(i) will deem the taxpayer to have received proceeds equal to the FMV of the income interest disposed of. Where the disposition is by inter vivos gift, subparagraph 69(1)(*b*)(ii) applies to deem the proceeds of disposition to be the FMV of the income interest.
+
+For the 2016 and subsequent tax years, subparagraph 69(1)(*b*)(ii) will be applicable to any disposition by way of a gift.
+
+#### Distribution of property by the trust
+
+**1.9** When a trust distributes property to a beneficiary in satisfaction of the beneficiary’s income interest in the trust, subsection 106(3) deems the trust to have disposed of the property at FMV. As such, distribution of trust property may cause the trust to realize accrued gains, losses or recapture in this situation. However, where a trust distributes trust property (such as cash) to which gains, losses and recapture do not apply, there is no tax consequence to the trust even though subsection 106(3) applies.
+
+#### Disclaimer
+
+**1.10** Generally, a **disclaimer** is an outright refusal to accept a gift or interest. A taxpayer who executes a valid disclaimer (not in favour of any person) of an income interest in a trust will be considered not to have acquired that income interest. Therefore, in such a situation, subsection 106(2) will have no application. To be a valid disclaimer the refusal must occur:
+
+- within a reasonable time after the recipient becomes aware of the gift or interest; and
+
+- before the acceptance of any funds or benefits in respect of the gift or interest.
+
+**1.11** When subsection 248(8) applies (occurrences as a consequence of death) a disclaimer must meet the requirements of the definition of a disclaimer found in subsection 248(9). In such a situation, a disclaimer is valid if:
+
+- it is made within 36 months after the death of the taxpayer; or
+
+- the taxpayer’s legal representative applies in writing to the Minister within the 36 months after the death of the taxpayer for an extension of time and the Minister considers the additional period of time reasonable in the given circumstances.
+
+Furthermore for subsection 248(8), a disclaimer includes a renunciation of a succession made under the laws of the Province of Quebec that is not made in favour of any person.
+
+**1.12** A person who has accepted any funds from the trust in respect of an income interest in the trust, or who has executed a disclaimer in respect of an income interest in the trust in favour of another person, would be considered to have acquired the income interest and therefore would be unable to execute a valid disclaimer. Where a disclaimer is not a valid disclaimer, it may amount to a release, surrender or assignment; depending on the facts of the situation. Releases and surrenders are discussed in ¶1.13 -1.15.
+
+#### Release or surrender
+
+**For consideration or deemed consideration**
+
+**1.13** A **release** or **surrender** is either an extinguishment or discharge of a legal right or claim, or a transfer of a legal right or claim to another person. Where a taxpayer formally releases or surrenders all or any part of an income interest in a particular trust in respect of future payments (amounts not due and payable at the time of the release or surrender) in favour of one or more other persons, paragraph 69(1)(*b*) will deem the taxpayer to have received proceeds of disposition equal to the FMV of the income interest at the time of the release or surrender. The taxpayer must include that amount in income pursuant to subsection 106(2). (Refer to ¶[1.8](#para1.8).)
+
+**1.14** When subsection 248(8) applies, the more restrictive requirements of the definition of **release** or **surrender** found in subsection 248(9) must be met. Pursuant to paragraph 248(8)(*c*), a release or surrender by a beneficiary with respect to any property that was property of a deceased individual immediately before death, is not considered to be a disposition of the property by the beneficiary. However, paragraph 248(8)(*c*) does not apply to an income interest that arises upon the death of the deceased, as such an interest could not have been property of the deceased immediately before death.
+
+**For no consideration**
+
+**1.15** A taxpayer who, for no consideration, validly releases or surrenders, in accordance with the terms of the trust and the relevant provincial law, an income interest in a trust in respect of future payments (amounts not due and payable at the time of the release or surrender) and does not in any manner direct who is entitled to receive the benefits, will not be considered to have received any proceeds of disposition for the purposes of subsection 106(2). The result will be the same where the taxpayer designates or otherwise agrees which person or persons will benefit by reason of the release or surrender, if the same person or persons would be entitled to benefit in the same way under the trust without the taxpayer's designation or agreement. However, the attribution rules in subsections 74.1(1) and (2) will apply if the person or persons who benefit under the terms of the trust as a consequence of the release or surrender, are persons described in those subsections.
+
+Consider a non-discretionary trust under which Mr. A is the income beneficiary. The trust agreement states that on the death of Mr. A, his two adult children will become income beneficiaries in equal shares. On a later date, and for no consideration, Mr. A releases or surrenders his income interest in the trust in favour of his two adult children to be shared equally. Mr. A is not considered to have received any proceeds of disposition for purposes of paragraph 106(2)(*a*). However, in the above example if the two beneficiaries instead were Mr. A’s spouse and a minor child, subsections 74.1(1) and (2) respectively, would be applicable to the future payments.
+
+#### Qualifying disposition between trusts
+
+**1.16** Generally, a **qualifying disposition** is a disposition of property which does not result in any change in the beneficial ownership of the property and satisfies certain conditions set out in subsection 107.4(1). Where a qualifying disposition occurs between two personal trusts, and it results in the disposition of a taxpayer’s income interest in the transferor trust, and acquisition of an income interest in the transferee trust, paragraph 107.4(3)(*n*) will apply. As a result, the taxpayer is deemed not to have disposed of any part of the income interest in the transferor trust for purposes of subsection 106(2).
+
+#### Disposition by a non-resident
+
+**1.17** By virtue of subparagraph 115(1)(*a*)(iv), the provisions of subsection 106(2) are applicable to a non-resident beneficiary who disposes of an income interest in a trust resident in Canada. Specifically, the non-resident beneficiary’s taxable income in Canada will include the amount, if any, by which:
+
+- the proceeds of disposition of the income interest to be included in income under subsection 106(2)
+
+exceeds
+
+- the amount that would be deductible under subsection 106(1) in respect of the income interest, had the taxpayer been resident in Canada throughout the year.
+
+### Cost of an income interest in a trust
+
+#### Allowable deduction
+
+**1.18** In the following situations, in computing a taxpayer’s income for the year, subsection 106(1) permits the taxpayer to deduct an amount in respect of the cost of an income interest in a trust:
+
+- where amounts have been included in income on the disposition of such interest pursuant to subsection 106(2), as described in ¶[1.5](#para1.5); or
+
+- where the taxpayer has income from the interest under subsection 104(13).
+
+In either situation, the deduction is limited to the extent the taxpayer has claimed a deduction pursuant to subsection 112(1) (inter-corporate dividends) or 138(6) (dividends received by a life insurer) in respect of the income in that year.
+
+To the extent that the full amount of cost is not deductible in the first year in which the taxpayer has an income inclusion either under subsection 106(2) or 104(13), the non-deductible portion may be carried forward to a later year to offset the income included under subsection 106(2) or 104(13) in the subsequent years.
+
+**1.19** The amount that can be deducted in any year cannot exceed the lesser of:
+
+(a) the amount included in computing the taxpayer's income for the year under subsection 106(2) or 104(13); and
+
+(b) the cost to the taxpayer of the income interest less all amounts that were deductible under subsection 106(1) in any previous tax years in respect of the interest.
+
+Example 2, Scenario 3 demonstrates the calculation of this deduction.
+
+#### Cost to the beneficiary
+
+**1.20** For the purpose of determining the deduction available under subsection 106(1), the cost to a beneficiary of the income interest is generally nil, pursuant to subsection 106(1.1). This will be the case except where any part of the interest was acquired from a person who was the beneficiary in respect of the interest immediately before that acquisition or where part of the interest was at any time determined not to be nil under the taxpayer migration rules in section 128.1.
+
+**1.21** Therefore, for the purposes of subsection 106(1), the cost to a taxpayer of an income interest in a trust acquired directly from a person who was the prior beneficiary of the income interest will generally be the amount paid for it. However, if the income interest was acquired from a prior beneficiary in a non-arm's length transaction for an amount that exceeded its FMV, paragraph 69(1)(*a*) will deem its cost to be its FMV. If the income interest was acquired from the beneficiary by way of gift, paragraph 69(1)(*c*) will deem its cost to be its FMV.
+
+The following example illustrates the tax consequences when a taxpayer disposes of an income interest in a trust.
+
+**Facts applicable to each scenario**
+
+Mr. X establishes a personal trust (the **Trust**) in favour of his son, Mr. A, and grandson, Mr. B. He settles the Trust by transferring to the Trust, property consisting of 100 shares of XCorp and a parcel of land. Mr. A is the income beneficiary and Mr. B is the capital beneficiary. Mr. X is now deceased.
+
+**Scenario 1**
+
+Assume that the FMV of the 100 shares of XCorp is $200,000 and the FMV of Mr. A’s income interest is also $200,000. The Trust distributes the 100 shares of XCorp in satisfaction of Mr. A’s income interest.
+
+The tax implications in Scenario 1 are as follows:
+
+Paragraph 106(2)(*a*) will not apply in this situation because subsection 106(3) will apply. Mr. A will have no income to include from the disposition of his income interest. However, the Trust will be deemed to have disposed of the shares at their FMV of $200,000. Mr. A’s cost of the shares acquired will be their FMV.
+
+**Scenario 2**
+
+In a particular tax year, the Trust had income of $25,000 that it allocated to Mr. A. The Trust did not have enough funds to pay that amount in that year. However, Mr. A was entitled to enforce a payment of $25,000 by the Trust. Pursuant to subsection 104(13), Mr. A included the amount of $25,000 in computing his income from the Trust for that year.
+
+In the following year, Mr. A decides to gift his income interest to the other beneficiary, his adult son, Mr. B. This gift constitutes a disposition of Mr. A’s income interest in the Trust. The FMV of Mr. A’s income interest is determined to be $200,000. If the income interest disposed of includes the right to enforce payment of the $25,000 by the Trust, then the following are the tax implications on the disposition of Mr. A’s income interest:
+
+- The disposition of Mr. A’s income interest triggers the application of subsection 106(2). Since it is a non-arm’s length transaction, Mr. A’s proceeds of disposition will be the FMV of his income interest in the trust pursuant to paragraph 69(1)(*b*). The income interest disposed of includes a right to enforce payment of $25,000, which was already included in Mr. A’s income under subsection 104(13) in the previous year. This means that the income inclusion under subparagraph 106(2)(*a*)(i) will be reduced by $25,000 under subparagraph 106(2)(*a*)(ii). Therefore, pursuant to subsection 106(2), Mr. A will include $175,000 [$200,000-$25,000] in computing his income from the disposition of the income interest in the Trust. Any taxable capital gain or allowable capital loss for Mr. A will be deemed to be nil.
+
+- Pursuant to subsection 106(1.1), the cost of the income interest to Mr. A is deemed to be nil.
+
+- Pursuant to paragraph 69(1)(*c*), the cost of acquisition of the income interest to Mr. B is its FMV of $200,000.
+
+**Scenario 3**
+
+Adopt the same additional facts as outlined in Scenario 2. Assume further that the Trust distributes $100,000 of income to Mr. B in the first tax year (Year 1) after he has acquired the income interest from Mr. A, and $150,000 in the second year (Year 2).
+
+| Description | Year 1 | Year 2 |
+
+| --- | --- | --- |
+
+| Mr. B’s income under subsection 104(13) | **$100,000** | **$150,000** |
+
+| Less: Deduction for cost, calculated as the lesser of: (i) Income for the year; and (ii) Cost of income interest minus any amount previously deducted under subsection 106(1) | **Less:** The lesser of: i) $100,000; and ii) $200,000 ($200,000 - $NIL) Lesser amount is $100,000 | **Less:** The lesser of: i) $150,000; and ii) $100,000 ($200,000 - $100,000) Lesser amount is $100,000 |
+
+| Mr. B’s income from the Trust | **NIL** ($100,000 - $100,000) | **$50,000** ($150,000 - $100,000) |
+
+Therefore, at the end of Year 2, Mr. B would have fully offset the cost of acquisition of his income interest in the Trust.
+
+Thus, where the beneficiary has a cost for the income interest, the beneficiary can deduct the cost from any trust income that is included in calculating the beneficiary’s income pursuant to subsection 104(13) or subsection 106(2).
+
+## Application
+
+This updated Chapter, which may be referenced as S6-F2-C1, is effective November 25, 2015.
+
+When it was first published on September 19, 2014, this Chapter replaced and cancelled Interpretation Bulletin IT-385R2, *Disposition of an Income Interest in a Trust*.
+
+The history of updates to this Chapter as well as any technical updates from the cancelled interpretation bulletin can be viewed in the [Chapter History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-6-trusts/series-6-trusts/income-tax-folio-s6-f2-c1-disposition-income-interest-a-trust/chapter-history-s6-f2-c1-disposition-income-interest-a-trust.html) page.
+
+Except as otherwise noted, all statutory references herein are references to the provisions of the *Income Tax Act*, R.S.C.,1985, c.1 (5th Supp.), as amended and all references to a Regulation are to the *Income Tax Regulations*, C.R.C. 1978, c. 945, as amended.
+
+Links to jurisprudence are provided through CanLII.
+
+Income tax folios are available in electronic format only.
+
+## Reference
+
+Subsection 106(2) (also subsections 69(1), 74.1(1) and (2), 104(13), 106(1), (1.1) and (3), 108(1), (2) and (3), 112(1) and 138(6), paragraph 248(8)(*c*) and the definition of **personal trust** in subsection 248(1)).

@@ -1,0 +1,662 @@
+---
+title: "Automobile Benefits"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/9-2/automobile-benefits.html
+last_modified: 2021-12-22
+---
+# Automobile Benefits
+
+GST/HST memorandum 9.2 November 2011
+
+This memorandum explains how the goods and services tax/harmonized sales tax (GST/HST) applies to automobile benefits available to employees and shareholders under the *Income Tax Act* (the ITA). The rules explaining how the GST/HST applies to taxable benefits (other than automobile benefits) are discussed in GST/HST Memorandum 9.1, *Taxable Benefits (Other than Automobile Benefits)*.
+
+All legislative references in this publication refer to the *Excise Tax Act* unless otherwise indicated.
+
+Disclaimer
+
+The information in this memorandum does not replace the law found in the *Excise Tax Act* (the Act) and its regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate regulation, or contact any CRA GST/HST rulings office for additional information. A ruling should be requested for certainty in respect of any particular GST/HST matter. [Pamphlet RC4405, GST/HST Rulings – Experts in GST/HST Legislation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4405.html) explains how to obtain a ruling and lists the GST/HST rulings offices. If you wish to make a technical enquiry on the GST/HST by telephone, please call 1-800-959-8287.
+
+If you are located in Quebec and wish to make a technical enquiry or obtain a ruling related to the GST/HST, please contact Revenu Québec at 1-800-567-4692. You may also visit their Web site at [www.revenu.gouv.qc.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+Note
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario, New Brunswick and Newfoundland and Labrador, 15% in Nova Scotia, and 12% in British Columbia. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, you may refer to [GST/HST Technical Information Bulletin B-103, Harmonized Sales Tax – Place of Supply Rules for Determining Whether a Supply is Made in a Province](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-103.html).
+
+## Table of Contents
+
+- [Meanings of significant terms used in this memorandum](#_Toc306189889)
+
+- [Treatment of employee and shareholder benefits](#_Toc306189890)
+
+- [Overview – taxable benefits](#_Toc306189891)
+
+- [Overview – Automobile benefits](#_Toc306189892)
+
+- [Treatment of automobile benefits under the ITA](#_Toc306189893)
+
+- [Deemed use in commercial activities](#_Toc306189894)
+
+- [Exclusions from liability to remit the GST/HST on automobile taxable benefits](#_Toc306189895)
+
+- [Interaction of the restrictions under section 170, the taxable benefits under the ITA, and section 173](#_Toc306189896)
+
+- [Election deeming a passenger vehicle to be used exclusively in non-commercial activities](#_Toc306189897)
+
+- [Requirement to remit the GST/HST on automobile benefits](#_Toc306189898)
+
+- [Time of liability to remit the GST/HST on taxable benefits](#_Toc306189899)
+
+- [Appendix A – Requirement to remit the GST/HST on automobile benefits](#_Toc306189900)
+
+- [Appendix B – Automobile operating cost benefits](#_Toc306189901)
+
+- [Appendix C – Standby charge benefits](#_Toc306189902)
+
+## Meanings of significant terms used in this memorandum
+
+Automobile ss 248(1) of the ITA
+
+1. For income tax purposes, "automobile" means a motor vehicle that is designed or adapted primarily to carry individuals on highways and streets and that has a seating capacity for not more than the driver and eight passengers, but does not include
+
+- an ambulance;
+
+- a clearly marked emergency-response vehicle that is used in connection with or in the course of an individual's office or employment with a fire department or the police;
+
+- a clearly marked emergency medical response vehicle that is used, in connection with or in the course of an individual's office or employment with an emergency medical response or ambulance service, to carry emergency medical equipment together with one or more emergency medical attendants or paramedics;
+
+- a motor vehicle acquired primarily for use as a taxi, a bus used in a business of transporting passengers or a hearse used in the course of a business of arranging or managing funerals;
+
+- except for the purposes of section 6 of the ITA (amounts to be included as income from office or employment), a motor vehicle acquired to be sold, rented or leased in the course of carrying on a business of selling, renting or leasing motor vehicles or a motor vehicle used for the purpose of transporting passengers in the course of carrying on a business of arranging or managing funerals; and
+
+- a motor vehicle
+
+    - of a type commonly called a van or pick-up truck, or a similar vehicle, that has a seating capacity for not more than the driver and two passengers and that, in the taxation year in which it is acquired or leased, is used primarily for the transportation of goods or equipment in the course of gaining or producing income,
+
+    - of a type commonly called a van or pick-up truck, or a similar vehicle, the use of which, in the taxation year in which it is acquired or leased, is all or substantially all for the transportation of goods, equipment or passengers in the course of gaining or producing income, or
+
+    - of a type commonly called a pick-up truck that is used in the taxation year in which it is acquired or leased primarily for the transportation of goods, equipment or passengers in the course of earning or producing income at one or more locations in Canada that are
+
+          - described, in respect of any of the occupants of the vehicle, in subparagraph 6(6)(a)(i) or (ii) of the ITA, and
+
+          - at least 30 kilometres outside the nearest point on the boundary of the nearest urban area, as defined by the last census dictionary published by Statistics Canada before the year, that has a population of at least 40,000 individuals as determined in the last census published by Statistics Canada before the year.
+
+Employee and employer ss 123(1)
+
+2. "Employee" includes an officer. "Employer", in relation to an officer, means the person from whom the officer receives remuneration.
+
+Motor vehicle ss 248(1) of the ITA
+
+3. For income tax purposes, "motor vehicle" means an automotive vehicle designed or adapted to be used on highways and streets but does not include a trolley bus or a vehicle designed or adapted to be operated exclusively on rails.
+
+Passenger vehicle ss 123(1) of the Act and ss 248(1) of the ITA
+
+4. For GST/HST purposes, "passenger vehicle" has the same meaning as in the ITA. For income tax purposes, a passenger vehicle means an automobile acquired after June 17, 1987 (other than an automobile acquired after that date pursuant to an obligation in writing entered into before June 18, 1987) and an automobile leased under a lease entered into, extended or renewed, after June 17, 1987.
+
+Related persons ss 126(2)
+
+5. For GST/HST purposes, persons are related to each other if, by reason of subsections 251(2) to (6) of the ITA, they are related to each other for purposes of that Act.
+
+Related individuals Paras 251(2)(a) and 251(6)(a) and (b), and s 252 of the ITA
+
+6. Pursuant to paragraph 251(2)(a) of the ITA, individuals connected by blood relationship, marriage, common-law partnership, or adoption are related persons. Paragraph 251(6)(a) of the ITA refers to a blood relationship as being that of a parent and a child (or other descendant such as a grandchild or a great-grandchild) or that of a brother and a sister. Section 252 of the ITA extends the meaning of these terms to encompass other individuals who might otherwise not be considered to fit the normal use of the term. Pursuant to paragraph 251(6)(b) of the ITA, two persons are connected by marriage if one person is married to the other person or to an individual who is connected by blood relationship to that other person.
+
+7. An individual is connected by marriage to the parents and any siblings of the individual's spouse. However, where an individual's marriage is dissolved by either divorce or the death of the individual's spouse, the individual ceases to be connected by marriage or to be connected by blood relationship to the parents and any siblings of the individual's former spouse. Paragraph 251(6)(b.1) of the ITA provides that two individuals are connected by common-law partnership if one individual is in a common-law partnership with the other or with a person who is connected by blood relationship to that other person. [Interpretation Bulletin IT-419R2, Meaning of Arm's Length](https://www.canada.ca/E/pub/tp/it419r2/README.html), provides more details.
+
+Shareholder ss 248(1) of the ITA
+
+8. For income tax purposes, "shareholder" includes a member or other person entitled to receive payment of a dividend.
+
+## Treatment of employee and shareholder benefits
+
+Link to the ITA
+
+9. The treatment of employee and shareholder benefits under the GST/HST is linked to the provisions relating to taxable benefits under the ITA. An example of a taxable benefit is the use of a passenger vehicle.
+
+More information on taxable benefits for income tax purposes
+
+10. Interpretation Bulletin IT-470R (Consolidated), Employees' Fringe Benefits, provides information on the treatment of employee benefits under the ITA. [Interpretation Bulletin IT-432R2, Benefits Conferred on Shareholders](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it432r2.html), provides information on the treatment of shareholder benefits under the ITA.
+
+## Overview – taxable benefits
+
+Liability to include tax deemed collectible in net tax calculation s 173
+
+11. Generally, section 173 applies when a registrant makes a supply of property or a service to an individual who is an employee or a shareholder, or a person related to the employee or shareholder, which gives rise to a taxable benefit under certain sections of the ITA. Section 173 also applies in the case of automobiles where the supply would have given rise to a taxable benefit if the registrant had not been reimbursed. The effect of section 173 is that, subject to certain exceptions (which are discussed in paragraph 37), the registrant must include the tax deemed collectible on the total value of the taxable benefit and any reimbursements (in the case of automobile benefits) in the registrant's net tax calculation. The rules explaining how the GST/HST applies to taxable benefits (other than automobile benefits) are discussed in GST/HST Memorandum 9.1, *Taxable Benefits (Other than Automobile Benefits).*
+
+Determine the ITA application first
+
+12. To determine whether section 173 applies to a particular supply of property or service to an individual and which provisions within that section apply, it is necessary to first determine the following for income tax purposes:
+
+- whether there is a taxable benefit;
+
+- what provision of the ITA applies to that benefit;
+
+- the value of the taxable benefit;
+
+- in the case of automobile benefits, the value of any reimbursement that reduced the amount of the taxable benefit that otherwise would have been required to be included in the individual's income;
+
+- in the case of automobile benefits conferred on shareholders, the provision of the ITA that would have applied if the shareholder had received the taxable benefit as an employee.
+
+13. For information on determining automobile taxable benefits under the ITA, refer to the [Interpretation Bulletin IT63R5, Benefits, Including Standby Charge for an Automobile, from the Personal Use of a Motor Vehicle Supplied by an Employer – After 1992](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it63r5.html), and [Guide T4130, Employer's Guide – Taxable Benefits and Allowances](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4130.html), which includes worksheets for the calculation of automobile benefit amounts and which is updated annually.
+
+Determining the GST/HST collectible
+
+14. Once it has been determined that there is a taxable benefit under the ITA, then the following steps must be taken to determine if the GST/HST is required to be remitted on this taxable benefit:
+
+- For each taxable benefit, establish if any of the exclusions listed in paragraph 37 apply. If so, then the person is not required to remit the GST/HST on the taxable benefit.
+
+- If no exclusions apply to the taxable benefit, calculate the amount of the GST/HST due on the taxable benefit (see paragraphs 56 and 57).
+
+- Include the amount of the GST/HST deemed collectible on the return for the reporting period in which the tax is deemed to have become collectible and collected (see paragraphs 58 to 60).
+
+15. Section 173 applies only to persons who are registrants. It also only applies to taxable supplies of property or services made in Canada (other than zero-rated supplies).
+
+Single and multiple supplies
+
+16. When property and/or services are supplied together in any combination, a determination must first be made as to whether multiple supplies were made and, if there were multiple supplies, whether one supply was incidental to that of another. Once the supply or supplies have been identified, then it can be determined whether the supply (or supplies) was exempt or zero-rated. For further information on determining whether a single supply or multiple supplies have been made, see [GST/HST Policy Statement P-077R, Single and Multiple Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-077r2.html). For more information on incidental supplies, refer to the [GST/HST Policy Statements P-159R-1, Meaning of the Phrase "Reasonably Regarded as Incidental"](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-159r-1.html), and [P-160R, Meaning of the Phrase "Where a Particular Property or Service is Supplied Together with any other Property or Service"](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-160r.html).
+
+## Overview – Automobile benefits
+
+Automobile benefits
+
+17. With respect to automobile benefits, section 173 applies where the supply would have given rise to a taxable benefit if the registrant had not been reimbursed. The effect is that, subject to certain exceptions (see paragraph 37), the registrant must include the GST/HST deemed collectible and collected on the total value of the taxable benefit and any reimbursements in its net tax calculation.
+
+Election in respect of a passenger vehicle ss 173(2)
+
+18. Subsection 173(2) provides for an election in respect of
+
+- a passenger vehicle purchased, leased, or used after purchase or lease by a financial institution, and
+
+- a leased passenger vehicle acquired for use or used otherwise than primarily in the commercial activities of a registrant that is not a financial institution.
+
+No ITC when election is made
+
+19. Where a registrant has made an election under section 173, the registrant is not entitled to claim input tax credits (ITCs) with respect to the tax paid or payable on the consideration relating to the purchase or lease of a passenger vehicle and its operating costs. This election relieves the registrant from including in its net tax calculation tax deemed collected under subsection 173(1) that resulted from an individual's personal use of the passenger vehicle. See paragraphs 45 to 53 for more information on this election.
+
+Reimbursements and allowances
+
+20. If a registrant provides a cash reimbursement or an allowance to an individual, the registrant has not made a supply of property or service to this individual. More information on allowances and reimbursements will be available in GST/HST Memorandum 9.3, *Allowances*, and 9.4, *Reimbursements*.
+
+Persons related to the employer
+
+21. A registrant who makes a supply of property or a service could be a person other than the employer or corporation. For example, this person could be a person related to the employer. The application of section 173 is not restricted to supplies made by the employers and corporations of the individuals who received the taxable benefit.
+
+Individuals and persons related to individuals
+
+22. The registrant must have supplied the property or the service to an individual or a person related to the individual. This individual could be an employee, an officer or a shareholder.
+
+## Treatment of automobile benefits under the ITA
+
+Taxable benefits under paras 6(1)(e), (k) or (l), or ss 15(1) of the ITA
+
+23. With respect to automobile benefits, the provisions in section 173 apply only where an amount in respect of the supply is a taxable benefit to an individual under paragraphs 6(1)(e), (k) or (l), or subsection 15(1) of the ITA.
+
+Reimbursements for the use or operation of an automobile paras 173(1)(a) and (b)
+
+24. With respect to a supply that relates to the use or operation of an automobile, the rules in section 173 apply when the individual, or a person related to the individual, has paid a reimbursement in respect of the supply that reduces the amount of the taxable benefit that would otherwise have been included in income by virtue of paragraph 6(1)(e) (standby charge benefit) or (k) or (l) (operating cost benefit) or subsection 15(1) (shareholder benefit) of the ITA.
+
+Automobiles supplied by partnerships para 12(1)(y) of the ITA
+
+25. Individuals who are members of a partnership or employees of a member of a partnership are required to include in their income the equivalent of the automobile standby charge when the partnership makes an automobile available in the year to the individual or a person related to the individual. However, since this inclusion in income is under paragraph 12(1)(y) of the ITA and not under paragraph 6(1)(e) or subsection 15(1) of the ITA, the provisions of section 173 do not apply. See paragraph 29 for an explanation of automobile standby charges.
+
+Included in income paras 6(1)(e), (k) and (l) and ss 15(1) of the ITA
+
+26. Under the ITA, when an individual (i.e., an employee or shareholder), or a person related to the individual, receives a benefit in a taxation year that derives from the personal use and availability of an automobile that has been provided in relation to employment or an office of the individual, the value of that benefit is to be included in computing the individual's income for that taxation year.
+
+Taxable benefits for motor vehicles other than automobiles para 6(1)(a) of the ITA
+
+27. Motor vehicles such as trucks, buses and motor homes that are not included in the definition of "automobile" for purposes of paragraph 6(1)(e), (k) or (l) of the ITA may be subject to personal use. As a result, a taxable benefit from their use may arise under paragraph 6(1)(a) of the ITA. More information on the application of the GST/HST to taxable benefits to which paragraph 6(1)(a) of the ITA applies is available in GST/HST Memorandum 9.1, *Taxable Benefits (Other than Automobile Benefits)*.
+
+Automobile benefits – two components
+
+28. Automobile benefits for income tax purposes consist of two types:
+
+- a standby charge benefit, and
+
+- an operating cost benefit.
+
+Standby charge benefit para 6(1)(e) and ss 6(2) and 15(1) of the ITA
+
+29. A standby charge benefit is generally the cost (capital or lease) for the personal use of an automobile made available by an employer or a corporation, or by a person related to the employer or corporation, to an employee or shareholder, or to a person related to the employee or shareholder.
+
+Operating cost benefit para 6(1)(k) and ss 6(1.1) and 15(1) of the ITA
+
+30. An operating cost benefit is an expense incurred by an employer or a corporation, or a person related to the employer or shareholder, for the operation of an automobile used by the employee or shareholder, or a person related to the employee or shareholder, if there is, or would be, a standby charge benefit to the individual under paragraph 6(1)(e) of the ITA. Operating costs include gasoline and oil, maintenance charges and repair expenses net of insurance proceeds, and licences and insurance. Operating costs do not include interest, capital cost allowance for an automobile owned by the employer, lease costs for a leased automobile, or parking costs.
+
+Operating costs paid on employee's own vehicle para 6(1)(i) of the ITA
+
+31. An operating cost benefit for income tax purposes may also arise where an employer pays the operating costs of an employee's own automobile.
+
+Parking costs para 6(1)(a) of the ITA
+
+32. Parking costs for a motor vehicle could be included in income under paragraph 6(1)(a) of the ITA. More information will be available in GST/HST Memorandum 9.3, *Allowances*, if the individual is given an allowance and GST/HST Memorandum 9.4, *Reimbursements*, if the individual is given a cash reimbursement for parking costs.
+
+Standby charge and operating costs benefits conferred on shareholders
+
+33. Both the standby charge and the operating costs pertaining to automobile benefits conferred on shareholders are required to be included in income under subsection 15(1) of the ITA. For example, where shareholders use corporate property such as an automobile for their personal benefit or enjoyment, the value of the use of the property is a taxable benefit under subsection 15(1) of the ITA.
+
+Shareholders in their capacity as employees
+
+34. Where a shareholder is also an employee and an automobile is made available to the shareholder (or a person related to the shareholder) in the shareholder's capacity as an employee, the benefit is included in income under section 6 of the ITA as income from employment rather than under section 15 of the ITA as a benefit conferred on a shareholder. As a result, any reference for GST/HST purposes to taxable benefits to employees would include taxable benefits to shareholders in their capacity as employees. Similarly, a reference for GST/HST purposes to a person related to an employee would include a person related to a shareholder when a taxable benefit to the shareholder arises in the shareholder's capacity as an employee.
+
+More information
+
+35. For detailed information on the standby charge benefit and the operating cost benefit, refer to [Interpretation Bulletin IT-63R5, Benefits, Including Standby Charge for an Automobile, from the Personal Use of a Motor Vehicle Supplied by an Employer – After 1992](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it63r5.html), and [Guide T4130, Employers Guide – Taxable Benefits and Allowances](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4130.html). For information relating to shareholder taxable benefits, refer to [Interpretation Bulletin IT-432R2, Benefits Conferred on Shareholders](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it432r2.html).
+
+## Deemed use in commercial activities
+
+Supply of property otherwise than by way of sale para 173(1)(c)
+
+36. Where property is supplied otherwise than by way of sale, the use made by the registrant in providing the property to the individual, or a person related to the individual, is deemed, for GST/HST purposes, to be use in the registrant's commercial activities. To the extent that the registrant acquired or imported the property or brought it into a participating province for the purpose of making the supply of the taxable benefit, the registrant is deemed, for GST/HST purposes, to have acquired or imported the property or brought it into a participating province for use in the registrant's commercial activities.
+
+A registrant corporation that is not a financial institution owns a passenger vehicle and assigns it to an employee. The vehicle is used 25% in exempt activities, 45% in the registrant's other business activities, and 30% by the employee for the employee's personal use. The vehicle is used 75% in the registrant's commercial activities.
+
+## Exclusions from liability to remit the GST/HST on automobile taxable benefits
+
+Exclusions para 173(1)(d)
+
+37. Registrants must calculate and include in their net tax calculation the GST/HST collectible and collected on the supply of passenger vehicle to an individual, or a person related to the individual, that gives rise to a taxable benefit **except** in the following situations:
+
+No ITCs
+
+- the registrant was not entitled to claim an ITC on the last acquisition, importation or bringing into a participating province of the passenger vehicle because of the provisions of section 170 (see paragraphs 38 to 41 for further details);
+
+Election in effect to forego ITCs ss 173(2)
+
+- the registrant has filed an election to forgo ITCs on a passenger vehicle, which is in effect at the beginning of the taxation year (see paragraphs 45 to 53 for more information on this election);
+
+Not used exclusively in commercial activities
+
+- the registrant is an individual or a partnership and the property is a passenger vehicle of the registrant that is not used by the registrant exclusively (90% or more) in its commercial activities; or
+
+Not used primarily in commercial activities
+
+- the registrant is not an individual, a partnership or a financial institution and the property is a passenger vehicle of the registrant that is not used by the registrant primarily (more than 50%) in its commercial activities.
+
+## Interaction of the restrictions under section 170, the taxable benefits under the ITA, and section 173
+
+ITC restrictions under section 170 subpara 173(1)(d)(i)
+
+38. If a registrant is not entitled to claim an ITC with respect to the tax paid or payable on the acquisition, importation or bringing into a province of a property or service because of the restrictions in section 170, then the registrant is not required to remit the GST/HST on the taxable benefit. Paragraphs 39 to 41 discuss the impact of section 170 to the acquisition of automobiles.
+
+ITC restrictions – property or services exclusively for the personal use, consumption or enjoyment of an individual para 170(1)(b)
+
+39. A registrant is not eligible to claim an ITC with respect to the GST/HST paid or payable when a property or service is acquired, imported or brought into a participating province by the registrant exclusively (90% or more) for the personal use, consumption or enjoyment of a particular individual who was, is or agrees to become an officer or employee of the registrant, or of an individual related to the particular individual. This restriction does not apply if the registrant supplies the property or service to the individual for consideration equal to its fair market value that becomes due in the reporting period that the property or service is made available to the individual. The restriction also does not apply when, if no amount were payable for the property or service, no taxable benefit would arise under section 6 of the ITA.
+
+A registrant purchases an automobile for $29,000, plus taxes, for the exclusive personal use of an employee. The employee's personal use of the automobile results in a taxable benefit to be included in the employee's income. The registrant is not entitled to claim an ITC for the tax paid on the purchase of the automobile. Consequently, the registrant is relieved from remitting tax on the taxable benefit.
+
+### Example 2
+
+A registrant in the business of selling automobiles provides one of its automobiles from its inventory to an employee for the employee's exclusive personal use. The automobile's fair market value is $29,000. The employee's personal use of the automobile results in a taxable benefit to be included in the employee's income. Since the registrant's intention when it acquired the automobile was to sell it and not to provide it to the employee, the registrant is entitled to claim an ITC with respect to the tax paid on the purchase of the automobile. As a result, section 173 applies to deem the registrant has collected tax on the taxable benefit unless another exclusion in paragraph 173(1)(d) applies.
+
+### Example 3
+
+A registrant purchased an automobile for $29,000, plus taxes, for the exclusive personal use of an employee. In the reporting period in which the employee received the automobile, the registrant invoiced the employee $29,000 as consideration for the automobile. In this situation, the registrant is entitled to claim an ITC for the tax paid on the acquisition of the automobile.
+
+Restricting ITCs para 170(1)(c)
+
+40. Except where the property is supplied at its fair market value by the registrant to such an individual and the consideration becomes due in that period, no amount may be claimed by a registrant as an ITC in respect of the GST/HST payable on a supply of property that is made in or before a reporting period of the registrant by way of lease, licence or similar arrangement, primarily (i.e., more than 50%) for the personal consumption, use or enjoyment in that period of
+
+- where the registrant is an individual, the registrant or an individual related to the registrant;
+
+- where the registrant is a partnership, an individual who is a member of the partnership or another individual who is an employee, officer, or shareholder of, or related to, a member of the partnership;
+
+- where the registrant is a corporation, an individual who is a shareholder of the corporation or another individual related to the shareholder; and
+
+- where the registrant is a trust, an individual who is a beneficiary of the trust or another individual related to the beneficiary.
+
+A corporation that is a registrant leases a passenger vehicle for $600, plus taxes, per month with the intent of giving the vehicle to a shareholder who will use it primarily for personal use. The personal use of this vehicle results in a taxable benefit to the shareholder. The registrant is not entitled to claim an ITC with respect to the tax paid on the monthly lease payments.
+
+Reasonableness ss 170(2)
+
+41. A registrant is not entitled to claim an ITC in respect of the tax paid or payable on a property or service that is acquired, imported or brought into a participating province except to the extent that the consumption or use of property or service of such quality, nature or cost is reasonable in the circumstances, taking into account the nature of the registrant's commercial activities. Furthermore, the GST/HST in respect of which the ITC is claimed must be calculated on consideration for the property or service, or on a value of the property, that is reasonable in the circumstances.
+
+Interaction of s 170 and para 173(1)(c)
+
+42. When a supply of property is made otherwise than by way of sale, the use made by a registrant in providing the property to an individual, or a person related to the individual, is deemed under paragraph 173(1)(c) to be use in the registrant's commercial activities. However, the restrictions in section 170 for claiming an ITC on the tax paid or payable on the supply of the property may still apply.
+
+A corporation that is a registrant leases an automobile that it intends to use 40% in commercial activities and 60% for the personal use of its shareholder. The personal use of the automobile results in a taxable benefit to the shareholder under subsection 15(1) of the ITA. Paragraph 173(1)(c) deems the shareholder's personal use of the automobile to be for use in the commercial activities of the registrant. As a result, the registrant's use of the automobile is deemed to be 100% in commercial activities (40% + 60% = 100%).
+
+Even though the automobile's use in commercial activities is deemed to be 100%, the registrant is not entitled to claim an ITC for the tax paid or payable on the lease payments because the registrant leased the automobile with the intent of providing it primarily for the shareholder's personal use. The shareholder's personal use of the automobile results in a taxable benefit to the shareholder under subsection 15(1) of the ITA. However, pursuant to subparagraph 173(1)(d)(i), the registrant does not have to remit GST/HST on the taxable benefit, since the registrant was not entitled to claim an ITC under section 170 for the tax paid or payable on the supply of the automobile.
+
+Property or service where no tax is payable on the acquisition
+
+43. If a registrant acquires property or a service in circumstances where the GST/HST is not payable, the restrictions in section 170 do not apply. Therefore, unless another exclusion applies, the rules in section 173 apply to any taxable benefit conferred on individuals with respect to a supply of property or service.
+
+A registrant purchases a passenger vehicle from a small supplier who is not a registrant, with the intention of giving its employee exclusive personal use of the vehicle. In this situation, section 170 does not apply to deny an ITC on the purchase of the vehicle because the registrant did not pay the GST/HST when the vehicle was purchased. Consequently, unless another exclusion applies, subsection 173(1) will deem the registrant to have collected the GST/HST where the employee's personal use of the vehicle confers a taxable benefit on the employee.
+
+More information
+
+44. For more information on the application of section 170, refer to [GST/HST Memorandum 8.2, General Restrictions and Limitations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-2.html).
+
+## Election deeming a passenger vehicle to be used exclusively in non-commercial activities
+
+Subpara 173(1)(d)(ii) and ss 173(2)
+
+45. In certain circumstances, a registrant may elect to deem the use of a passenger vehicle to be use exclusively in non-commercial activities. As a result, the personal use of the passenger vehicle by an employee or shareholder, or a person related to the employee or shareholder, is not considered to be use in the registrant's commercial activities. Accordingly, the registrant is not entitled to claim an ITC for the GST/HST paid or payable on the acquisition or lease, or the operation of the passenger vehicle, and the registrant is not required to calculate and include in its net tax calculation the GST/HST deemed to have become collectible and collected on the standby charge benefit and/or operating cost benefit.
+
+Effect of the election on taxable benefits under the ITA
+
+46. The election applies only for purposes of the GST/HST. It does not affect any calculations for income tax purposes.
+
+Non-financial institution para 173(2)(a)
+
+47. A registrant that is not a financial institution may make this election only if the passenger vehicle is leased and the registrant either acquired it for use other than primarily (more than 50%) in its commercial activities or the registrant uses it other than primarily in its commercial activities in a reporting period.
+
+Effect of the election ss 173(3)
+
+48. When a registrant makes the election to have an eligible passenger vehicle deemed to be used exclusively in non-commercial activities, the registrant is
+
+- deemed to use the passenger vehicle exclusively in activities other than commercial activities (i.e., non-commercial activities) beginning on the date the election becomes effective until the registrant disposes of, or ceases to lease, the vehicle;
+
+- relieved from including in its net tax calculation the GST/HST deemed to have become collectible and collected on the standby charge benefit;
+
+- relieved from including in its net tax calculation the GST/HST deemed to have become collectible and collected on the operating cost benefit;
+
+- not entitled to an ITC for the GST/HST paid or payable in respect of that lease that is reasonably attributable to a period after the effective date of the election, where the passenger vehicle was supplied by way of lease (where such an ITC was claimed in a previous reporting period, the registrant must add back the amount of the ITC to the amount of net tax remittable for the period in which the election takes effect);
+
+- not entitled to an ITC on the GST/HST paid or payable on the consideration for the passenger vehicle or on an improvement to the passenger vehicle, where the passenger vehicle is acquired by way of sale, the registrant is a financial institution, and the cost of the passenger vehicle to the registrant is $50,000 or less (where such an ITC was claimed in a previous reporting period, the registrant must add back the amount of the ITC to the amount of net tax remittable for the period in which the election takes effect);
+
+- not entitled to an ITC on the GST/HST paid or payable on the consideration for any property acquired, imported, or brought into a participating province for consumption or use in operating a passenger vehicle, or a service relating to the operation of that passenger vehicle after the effective date of the election; and
+
+- where an ITC was claimed in a previous reporting period for the GST/HST paid or payable on the consideration for any property acquired, imported, or brought into a participating province for consumption or use in operating a passenger vehicle, or a service relating to the operation of that passenger vehicle after the effective date of the election, the registrant must add back the amount of the ITC to the amount of net tax remittable for the period in which the election takes effect.
+
+Effective date – other than a financial institution ss 173(2)
+
+49. For a registrant other than a financial institution, the election is effective at the beginning of a reporting period in which the registrant leases the passenger vehicle for use otherwise than primarily in commercial activities or, where it was not initially acquired for such purpose, a reporting period in which the registrant actually uses the passenger vehicle otherwise than primarily in commercial activities. The election cannot apply retroactively to a reporting period in which neither of these conditions was met.
+
+Financial institutions para 173(2)(b)
+
+50. A registrant that is a financial institution may make this election in a reporting period in which a passenger vehicle is acquired either through purchase or lease, or in which a passenger vehicle so acquired is used.
+
+Effective date – financial institutions ss 173(2)
+
+51. For a registrant that is a financial institution, the election is effective at the beginning of the reporting period in which the vehicle is purchased, leased or used.
+
+Form GST30
+
+52. To make this election, registrants must complete [Form GST30, Election for Passenger Vehicles or Aircraft to be Deemed to be Used Exclusively in Non-Commercial Activities](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst30.html). Registrants are not required to file this form with the CRA, but are required to retain it with their books and records for audit purposes. More than one passenger vehicle may be identified on this form.
+
+Subparas 173(1)(d)(ii), (v) and (vi)
+
+53. If the election is not in effect at the beginning of the calendar year, then the registrant is deemed to have collected the GST/HST collectible on any taxable benefit arising from the personal use of the passenger vehicle by an individual, and must remit this amount unless another of the exceptions applies which provides that the registrant does not have to calculate and remit the GST/HST.
+
+## Requirement to remit the GST/HST on automobile benefits
+
+54. Where a registrant makes an automobile available to an individual, which results in a taxable benefit to this individual under paragraphs 6(1)(e), (k) or (l) or subsection 15(1) of the ITA, the registrant is required to calculate and remit the GST/HST on this benefit, unless one of the exclusions applies. See paragraph 37 for more information.
+
+Property or service made available over more than one year
+
+55. Where property or a service is made available to an individual over two or more taxation years, each of the taxable benefit amounts and reimbursements for these years is treated as part of the consideration for the supply of the property or service and is subject to tax in the year it arises. In determining the GST/HST remittance in respect of a particular year's taxable benefit or reimbursement, it is only necessary to refer to the total consideration for the particular year's use of the property or service.
+
+Calculating the tax for automobile operating cost benefit clause 173(1)(d)(vi)(A)
+
+56. The GST/HST deemed collectible by a registrant for an automobile operating cost benefit that arises by virtue of paragraph 6(1)(k) or (l) or subsection 15(1) of the ITA is equal to a prescribed percentage of the total consideration for the benefit. See Appendix B for the prescribed percentages that apply to each province.
+
+Calculating the tax for standby charge benefit clause 173(1)(d)(vi)(B)
+
+57. The GST/HST deemed collectible by a registrant for an automobile standby charges benefit that arises by virtue of paragraph 6(1)(e) or subsection 15(1) of the ITA is equal to a tax fraction of the total consideration for the benefit. See Appendix C for the tax fractions that apply to each province.
+
+An employee has received taxable benefits under the ITA as a result of using an employer-provided automobile for personal driving during the 2010 calendar year. The employee was ordinarily employed in Saskatchewan. The taxable benefits under the ITA are as follows:
+
+The GST calculated on the standby charge benefit is equal to:
+
+4/104 × $5,520 = $212.31 [i.e., the applicable tax fraction × standby charge (see Appendix C)]
+
+The GST calculated on the operating cost benefit is equal to:
+
+3% × $3,024 ($1,224 + $1,800) = $90.72 [i.e., the prescribed % × actual operating cost taxable benefit, plus the reimbursement (see Appendix B)]
+
+The GST deemed to have become collectible and to have been collected by the registrant is:
+
+### Example 2 – shareholder taxable benefit where the shareholder resides in Nova Scotia
+
+Assume the same facts as above, but, in this example, the individual who received the taxable benefit was a shareholder who was resident in Nova Scotia at the end of 2010.
+
+The HST calculated on the standby charge benefit is equal to:
+
+13/113 × $5,520 = $ 635.04 [i.e., the applicable fraction × standby charge (see Appendix C)]
+
+The HST calculated on the operating cost benefit is equal to:
+
+10% × $3,024 ($1,224 + $1,800) = $302.40 [i.e., the prescribed percentage × actual operating cost taxable benefit, plus the reimbursement (see Appendix B)]
+
+The total HST deemed to have become collectible and to have been collected by the registrant is equal to:
+
+## Time of liability to remit the GST/HST on taxable benefits
+
+Tax collectible or collected
+
+58. The tax is deemed to become collectible and to have been collected on:
+
+Employees cl. 173(1)(d)(vii)(A)
+
+- the last day of February of the year immediately following the calendar year in which the benefit was conferred for amounts that relate to automobile benefits included in income under paragraphs 6(1)(e), (k) or (l) of the ITA. This timing coincides with the time at which employers must give T4 slips for their employees. For example, the tax on a taxable benefit received by an employee in the 2011 calendar year is deemed to become due to the registrant on February 29, 2012;
+
+Shareholders cl. 173(1)(d)(vii)(B)
+
+- the last day of the registrant's taxation year in which the benefit was made available to the shareholder for amounts that relate to a benefit that is, or would be, included, if there were no reimbursements, in income under subsection 15(1) of the ITA. For example, where the corporation's taxation year ends on June 30, 2012, the GST/HST on a taxable benefit received by a shareholder in that taxation year is deemed to become collectible and to have been collected by the registrant on June 30, 2012.
+
+Individual not liable to pay the tax deemed collectible
+
+59. There is no liability for the individual enjoying the taxable benefit to pay the GST/HST to the registrant providing the benefit.
+
+Tax deemed collected included in net tax calculation ss 225(1), s 228 and ss 238(1)
+
+60. The registrant is required to include the GST/HST deemed collectible and collected in its net tax calculation for the reporting period in which the amount was deemed collectible. For example, for an employee's taxable benefits conferred in the employee's 2011 taxation year, a registrant will include the GST/HST deemed collected in its net tax calculation for the period that includes February 29, 2012. For shareholder's taxable benefits conferred in the registrant's taxation year ending June 30, 2012, the registrant will include the GST/HST deemed collected in its net tax calculation for the period that includes June 30, 2012.
+
+Registrant using streamlined accounting methods
+
+61. A registrant that uses the quick method of accounting, the special quick method of accounting for public service bodies or the net tax calculation for charities is required to remit 100% of any tax that is deemed to have become collectible, and to have been collected under subsection 173(1). A registrant that uses those methods to calculate its net tax generally only remits part of the tax that was collected or collectible.
+
+Supplies of taxable benefits not included in small supplier threshold s 148
+
+62. Supplies of taxable benefits are not included in determining whether a person is a small supplier or otherwise required to register for GST/HST purposes. Although subsection 173(1) deems the registrant to have collected tax in respect of the supply of a taxable benefit, it does not deem the value of consideration to become due. Therefore, when applying the small supplier threshold in section 148, no amount in respect of the supply of taxable benefits is included in determining the threshold amount.
+
+## Enquiries by telephone
+
+**Technical enquiries on the GST/HST:** 1-800-959-8287
+
+**General enquiries on the GST/HST:** 1-800-959-5525 (Business Enquiries)
+
+**If you are located in Quebec:** 1-800-567-4692 (Revenu Québec)
+
+All technical publications on GST/HST are available on the CRA Web site at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+## Appendix A – Requirement to remit the GST/HST on automobile benefits
+
+The following tables outline where there is a requirement for a registrant to remit the GST/HST deemed to have become collectible and collected on the automobile benefits under the ITA. These tables refer to taxable benefits relating to passenger vehicles as this term is defined in subsection 123(1).
+
+| ***Chart 1*** | Purchased passenger vehicle – registrant is an individual or a partnership |
+
+| --- | --- |
+
+| ***Chart 2*** | Purchased passenger vehicle – registrant is other than an individual, a partnership or a financial institution |
+
+| ***Chart 3*** | Leased passenger vehicle – registrant is other than a financial institution |
+
+| ***Chart 4*** | Leased or purchased passenger vehicle – registrant is a financial institution |
+
+| *If* | *And* | *Refer to* |
+
+| --- | --- | --- |
+
+| the registrant is an individual or a partnership, | the passenger vehicle is purchased, | Chart 1. |
+
+| the registrant is not an individual, a partnership or a financial institution, | the passenger vehicle is purchased, | Chart 2. |
+
+| the registrant is not a financial institution, | the passenger vehicle is leased, | Chart 3. |
+
+| the registrant is a financial institution, | the passenger vehicle is leased or purchased, | Chart 4. |
+
+**CHART 1 Registrant is an individual or a partnership – Requirement to remit tax on automobile benefits for a purchased passenger vehicle**
+
+**NOTES:**
+
+1. Commercial use includes deemed commercial use under paragraph 173(1)(c) for making the vehicle available for the employee's personal use.
+
+2. No tax is to be remitted where the passenger vehicle is used less than exclusively in the registrant individual or partnership's commercial activities (subparagraph 173(1)(d)(iii)).
+
+3. No tax is to be remitted where the registrant was denied an ITC under section 170 with respect to the purchase of the vehicle (subparagraph 173(1)(d)(i)). The restrictions in section 170 apply only when tax was payable on the acquisition of the passenger vehicle. Where no other restrictions in paragraph 173(1)(d) apply, tax is to be remitted.
+
+**CHART 2 Registrant is other than an individual, partnership or financial institution – Requirement to remit tax on automobile benefits for a purchased passenger vehicle**
+
+**NOTES:**
+
+1. Commercial use includes deemed commercial use under paragraph 173(1)(c) for making the vehicle available for the employee's personal use.
+
+2. No tax is to be remitted where the passenger vehicle is not used primarily in the registrant's commercial activities (subparagraph 173(1)(d)(iv)).
+
+3. No tax is to be remitted where the registrant was denied an ITC under section 170 with respect to the purchase of the vehicle (subparagraph 173(1)(d)(i)). The restrictions in section 170 apply only when tax was payable on the acquisition of the passenger vehicle. Where no other restrictions in paragraph 173(1)(d) apply, tax is to be remitted.
+
+**CHART 3 Registrant is not a financial institution – Requirement to remit tax on automobile benefits for a leased passenger vehicle**
+
+**NOTES:**
+
+1. Commercial use includes deemed commercial use under paragraph 173(1)(c) for making the vehicle available for the employee/officer or shareholder's personal use.
+
+2. No tax is to be remitted where the registrant has made an election under subsection 173(2) (subparagraph 173(1)(d)(ii)).
+
+3. No tax is to be remitted where the registrant was denied an ITC under section 170 with respect to the lease of the vehicle (subparagraph 173(1)(d)(i)). The restrictions in section 170 apply only when tax was payable on the lease of the passenger vehicle. Where no other restrictions in paragraph 173(1)(d) apply, tax is to be remitted.
+
+**CHART 4 Registrant is a financial institution – Requirement to remit tax on automobile benefits for a leased or purchased passenger vehicle**
+
+**NOTES:**
+
+1. For financial institutions, "exclusively" refers to 100%.
+
+2. No tax is to be remitted where the registrant has made an election under subsection 173(2) (subparagraph 173(1)(d)(ii)).
+
+3. No tax is to be remitted where the registrant was denied an ITC under section 170 with respect to the lease of the vehicle (subparagraph 173(1)(d)(i)). The restrictions in section 170 apply only when tax was payable on the acquisition or the lease of the passenger vehicle. Where no other restrictions in paragraph 173(1)(d) apply, tax is to be remitted.
+
+## Appendix B – Automobile operating cost benefits
+
+For each taxation year of the individual, the following charts provide the percentage used to calculate the GST/HST deemed collectible by a registrant for an automobile operating cost benefit that arises by virtue of paragraph 6(1)(k) or (l) or subsection 15(1) of the ITA. For the purposes of this chart, "location" means
+
+- where the last establishment of the registrant at which the employee ordinarily worked or to which the employee ordinarily reported in the taxation year (if that location is in Nova Scotia, it also includes the Nova Scotia offshore area);
+
+- where the shareholder resides at the end of the taxation year.
+
+**Exception when the location is in Ontario and the registrant is a large business** When the location is in Ontario, the percentage may also depend on whether the registrant is or is not a large business. As a general rule, a person is considered a large business if the person is a registrant and
+
+- the person has a threshold amount for the recapture of input tax credits (RITCs) of more than $10 million in their last fiscal year that ended before the recapture period, or
+
+- the person is one of the following financial institutions, or a person that is related to one of the following financial institutions: a bank; a credit union; a corporation that is licensed or otherwise authorized under the laws of Canada or a province to carry on in Canada the business of offering to the public its services as a trustee; an insurer or any other person whose principal business is providing insurance under insurance policies; a segregated fund of an insurer, an investment plan or the person is the Canada Deposit Insurance Corporation.
+
+For more information on what is a large business, see [GST/HST Technical Information Bulletin B-104, Harmonized Sales Tax – Temporary Recapture of Input Tax Credits in Ontario and British Columbia](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-104.html).
+
+Chart 1 includes the percentages when the location is in Ontario and the registrant is not a large business. See Chart 2 for percentages when the location is in Ontario and the registrant is a large business.
+
+***Chart 1***
+
+| Taxation year(s) | Location | Percentage of the total consideration |
+
+| --- | --- | --- |
+
+| 2006 | Nova Scotia New Brunswick Newfoundland and Labrador | 10.5% |
+
+| in non-participating provinces | 4.5% |  |
+
+| 2007 | Nova Scotia New Brunswick Newfoundland and Labrador | 10% |
+
+| in non-participating provinces | 4% |  |
+
+| 2008 and 2009 | Nova Scotia New Brunswick Newfoundland and Labrador | 9% |
+
+| in non-participating provinces | 3% |  |
+
+| 2010 | Nova Scotia | 10% |
+
+| New Brunswick Newfoundland and Labrador | 9% |  |
+
+| Ontario | 6% if the registrant is not a large business on December 31, 2010 (see chart 2 if the registrant is a large business on December 31, 2010) |  |
+
+| British Columbia | 4% |  |
+
+| in non-participating provinces | 3% |  |
+
+| 2011 to subsequent years | Nova Scotia | 11% |
+
+| New Brunswick Newfoundland and Labrador | 9% |  |
+
+| Ontario | 9% if the registrant is not a large business on December 31 of the taxation year (see chart 2 if the registrant is a large business on December 31 of the taxation year) |  |
+
+| British Columbia | 5% |  |
+
+| in non-participating provinces | 3% |  |
+
+***Chart 2***
+
+The following chart provides the percentage used to calculate the GST/HST deemed collectible by a registrant that **is a large business** on December 31 of the taxation year for an automobile benefit that arises by virtue of paragraph 6(1)(k) or (l) or subsection 15(1) of the ITA, and
+
+- the last establishment of the registrant at which the employee ordinarily worked or to which the employee ordinarily reported in the taxation year is located in **Ontario**; or
+
+- the shareholder resides in **Ontario** at the end of the taxation year.
+
+| Taxation year(s) | Percentage of the total consideration |
+
+| --- | --- |
+
+| 2010 | 4.5% |
+
+| 2011 to 2014 | 6% |
+
+| 2015 | 6.6% |
+
+| 2016 | 7.2% |
+
+| 2017 | 7.8% |
+
+| 2018 | 8.4% |
+
+| 2019 and subsequent years | 9% |
+
+## Appendix C – Standby charge benefits
+
+For each taxation year of the individual, the following chart provides the tax fractions used to calculate the GST/HST deemed collectible by a registrant for a standby charge benefit that arises by virtue of paragraph 6(1)(e) or subsection 15(1) of the ITA. For the purposes of this chart, "location" means
+
+- where the last establishment of the registrant at which the employee ordinarily worked or to which the employee ordinarily reported in the taxation year is located;
+
+- where the shareholder resides at the end of the taxation year.
+
+The GST/HST deemed collectible by the registrant on a standby charge benefit is equal to the tax fraction of the total consideration for the benefit.
+
+| Taxation year(s) | Location | Tax fraction of the total consideration |
+
+| --- | --- | --- |
+
+| 2006 | Nova Scotia New Brunswick Newfoundland and Labrador | 13.5/113.5 |
+
+| in non-participating provinces | 5.5/105.5 |  |
+
+| 2007 | Nova Scotia New Brunswick Newfoundland and Labrador | 13/113 |
+
+| in non-participating provinces | 5/105 |  |
+
+| 2008 and 2009 | Nova Scotia New Brunswick Newfoundland and Labrador | 12/112 |
+
+| in non-participating provinces | 4/104 |  |
+
+| 2010 | Nova Scotia | 13/113 |
+
+| New Brunswick Newfoundland and Labrador | 12/112 |  |
+
+| Ontario | 8/108* * 4/104 if the registrant is a **large business** on December 31, 2010 and the benefit relates to a qualifying motor vehicle that is subject to ITC recapture for the provincial part of HST |  |
+
+| British Columbia | 7.5/107.5* * 4/104 if the registrant is a **large business** on December 31, 2010 and the benefit relates to a qualifying motor vehicle that is subject to ITC recapture for the provincial part of HST |  |
+
+| in non-participating provinces | 4/104 |  |
+
+| 2011 and subsequent years | Nova Scotia | 14/114 |
+
+| New Brunswick Newfoundland and Labrador | 12/112 |  |
+
+| Ontario | 12/112* * If the registrant is a **large business** on December 31 of the following taxation years and the benefit relates to a qualifying motor vehicle that is subject to ITC recapture for the provincial part of HST: 2011 to 2014: 4/104 2015: 6/106 2016: 8/108 2017: 10/110 2018: 12/112 |  |
+
+| British Columbia | 11/111* *If the registrant is a **large business** on December 31 of the following taxation years and the benefit relates to a qualifying motor vehicle that is subject to ITC recapture for the provincial part of HST: 2011 to 2014: 4/104 2015: 5.75/105.75 2016: 7.5/107.5 2017: 9.25/109.25 2018: 11/111 |  |
+
+| in non-participating provinces | 4/104 |  |
+
+**Exception for large businesses** A registrant that is a large business on December 31 of the taxation year must use the other tax fractions shown above to calculate the GST/HST deemed collectible for a standby charge benefit when the benefit relates to a qualifying motor vehicle that is subject to ITC recapture for the provincial part of HST. A "qualifying motor vehicle" is a motor vehicle acquired in, or brought into Ontario or British Columbia that is licensed, or required to be licensed, for use on a public highway under the laws of the province relating to the licensing of motor vehicles and that weighs, while carrying its maximum capacity of fuel, lubricant and coolant, less than 3,000 kilograms at the time when the vehicle is first licensed, or first required to be licensed, under those laws.
+
+An employee of a GST/HST registrant that is large business has received a taxable benefit of a stand-by charge under the ITA as a result of using an employer-provided automobile for personal driving in the 2015 calendar year. The automobile is a qualifying motor vehicle that was subject to the ITC recapture for the provincial part of the HST. The employee was ordinarily employed in Ontario. The standby charge benefit under the ITA for the employee's 2015 taxation year is $5,424.
+
+The HST calculated on the stand-by charge, which is deemed collectible and collected by the registrant, is equal to 6/106 × $5,424 = $307.02.

@@ -1,0 +1,225 @@
+Title: Designation of Hospital Authorities
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/25-2/designation-hospital-authorities.html
+Corpus path: corpus/cra/forms-publications/publications/25-2/designation-hospital-authorities.md
+Document type: publication
+Last modified: 2017-11-07
+
+# Designation of Hospital Authorities
+
+GST/HST memorandum 25.2 March 2009
+
+**Note:**This version replaces the one dated July 1996.
+
+This memorandum explains what a hospital authority is for purposes of the goods and services tax (GST) and the harmonized sales tax (HST) and sets out the administrative guidelines and eligibility criteria that must be met in order for an organization to be designated as a hospital authority.
+
+Disclaimer
+
+The information in this memorandum does not replace the law found in the *Excise Tax Act* (the Act) and its regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate regulation, or contact a Canada Revenue Agency (CRA) GST/HST Rulings Centre for more information. These centres are listed in GST/HST Memorandum 1.2, [Canada Revenue Agency GST/HST Rulings Centres](https://www.canada.ca/E/pub/gm/1-2/README.html). If you wish to make a technical enquiry on the GST/HST by telephone, please call 1-800-959-8287.
+
+If you are located in Quebec and wish to make a technical enquiry on the GST or obtain a ruling, please call Revenu Québec at 1-800-567-4692. For general information, please visit their Web site at [www.revenu.gouv.qc.ca](/eng/ministere/index.asp).
+
+Note - HST
+
+Reference in this publication is made to supplies taxable at 5% (the rate of the GST) or 13% (the rate of the HST). The HST applies to supplies made in Nova Scotia, New Brunswick, and Newfoundland and Labrador (the "participating provinces"). If you are uncertain as to whether a supply is made in a participating province, you may refer to GST/HST Technical Information Bulletin B-078, [Place of Supply Rules Under the HST](https://www.canada.ca/E/pub/gm/b-078/README.html).
+
+## Table of Contents
+
+- [Designated hospital authorities](#_Toc220745477)
+
+- [Administrative guidelines](#_Toc220745478)
+
+    - [Recognized as a public hospital by provincial/territorial government](#_Toc220745479)
+
+    - [Established and operated otherwise than for profit](#_Toc220745480)
+
+    - [Medical or surgical treatment of the sick or injured](#_Toc220745481)
+
+    - [In-patient beds and services](#_Toc220745482)
+
+- [Applying for designation](#_Toc220745483)
+
+- [Acceptable evidence](#_Toc220745484)
+
+- [GST/HST Rebates](#_Toc220745485)
+
+- [Changes in organizational structure or activities](#_Toc220745486)
+
+## Designated hospital authorities
+
+**Definition of "hospital authority" ss 123(1)**
+
+1. "Hospital authority" means an organization that operates a public hospital **and** that is designated by the Minister of National Revenue as a hospital authority for purposes of the GST/HST. The Canada Revenue Agency (CRA) has the delegated authority to make this designation.
+
+**Public hospital**
+
+2. The *Excise Tax Act* (the Act) does not define "public hospital" nor does it set out legislative criteria for the hospital authority designation. Rather, the hospital authority designation is an exercise of the CRA's discretion to grant a tax benefit to an organization that operates a public hospital. The exercise of this discretion is guided by administrative guidelines and eligibility criteria.
+
+**Entitlements as hospital authority ss 259(1) and ss 259(3)**
+
+3. If an organization is designated as a hospital authority, it will be entitled to claim a rebate of its non-creditable tax charged in the course of operating a public hospital and in carrying on certain other activities. The rebate for hospital authorities is 83% pursuant to subsection 259(1) of the Act.
+
+**Non-creditable tax charged ss 259(1)**
+
+4. In general terms, non-creditable tax charged refers to amounts of GST/HST paid on purchases for which no input tax credit may be claimed, such as purchases used to provide tax exempt goods and services.
+
+## Administrative guidelines
+
+**Criteria necessary for designation**
+
+5. To be designated by the CRA as a hospital authority an organization must operate a facility that meets **all** of the following criteria:
+
+- it is recognized as a public hospital by the government of the province or territory where it is located;
+
+- it is established and operated solely for a purpose other than profit;
+
+- it is operated for the purposes of providing medical or surgical treatment of the sick or injured; and
+
+- it provides and maintains in-patient beds and services.
+
+### Recognized as a public hospital by provincial/territorial government
+
+6. An organization must operate a facility that is recognized as a public hospital under the laws of a province or territory respecting hospitals. "Public hospital" does not necessarily have the same meaning across all provincial and territorial jurisdictions; however each province and territory does recognize certain facilities or sites as public hospitals. Provinces and territories generally publish lists of facilities recognized as public hospitals within their jurisdictions. These lists may be found in Orders in Council, regulations, or in annual reports of the province or territory.
+
+**Medical or surgical treatment**
+
+7. The facility must be operated as a single legal entity to provide medical or surgical treatment for the sick or injured, including acute, chronic or rehabilitative care in a building or group of buildings.
+
+**Public funding**
+
+8. The organization operating the facility must receive operational and capital funding from provincial or territorial governments for the provision of publicly insured in-patient and out-patient hospital services.
+
+**Services of physicians, nursing staff, health practitioners**
+
+9. The services of physicians, nursing staff and allied health professionals must be available at the facility at all times to carry out the examination and diagnosis of patients and the provision of medical or surgical treatment and care.
+
+**Services of health care professionals and equipment**
+
+10. The services of health care personnel and health care equipment at the facility must be used to provide health care services to the general public. This includes laboratory, radiological and other diagnostic services, the administration of drugs, the use of operating rooms, case rooms (i.e., obstetrical delivery rooms) and medical or surgical supplies and equipment.
+
+### Established and operated otherwise than for profit
+
+**Registered charity or non-profit organization**
+
+11. To qualify for designation by the CRA, an organization must be a registered charity for income tax purposes or a non-profit organization. A non-profit organization means a person (other than an individual, estate, trust, charity, public institution, municipality, or government) that meets the following conditions:
+
+- it is organized and operated solely for a purpose other than profit; and
+
+- it does not distribute or make available any of its income for the personal benefit of any proprietor, member, or shareholder, unless the proprietor, member, or shareholder is a club, a society, or an association that has, as its primary purpose and function, the promotion of amateur athletics in Canada.
+
+### Medical or surgical treatment of the sick or injured
+
+**Physicians' services**
+
+12. Physicians must provide medical or surgical treatment to patients and physicians' services must be available at all times at the facility. This includes physicians that are employed by the facility and those who have admitting privileges at the facility.
+
+**Medical or surgical treatment**
+
+13. Medical and surgical treatment refers to treatment provided by physicians for the management and care of a patient to address a disease, disorder or injury and the exercise of professional skill in examining the patient, making a diagnosis, performing surgical procedures and alleviating the disease, disorder or injury. Medical and surgical treatment does not refer to services provided by nursing staff, physiotherapists or other health care professionals, or to services related to providing comfort or the necessities of life.
+
+14. A facility does **not** meet the eligibility criteria if its operations only involve:
+
+- physicians who periodically visit their patients at the facility,
+
+- physicians who are employed for the purpose of examining residents of the facility on a periodic basis to determine if medical treatment is required at another facility, or
+
+- physicians who provide administrative services only.
+
+### In-patient beds and services
+
+**Patient**
+
+15. To qualify for designation by the CRA, an organization must operate a facility that provides and maintains in-patient beds and services. A patient is an individual who receives medical or surgical treatment in the facility, including diagnostic and therapeutic services, and who appears in the facility's registry or other official record as a patient.
+
+**In-patient bed**
+
+16. An in-patient bed is a bed occupied by a patient who is admitted for treatment that requires at least one overnight stay. Patients are assigned a bed to receive diagnostic services, medical or surgical treatment and care. Long-term residential care beds are not in-patient beds.
+
+**In-patient services**
+
+17. In-patient services are provided in the facility to support medical or surgical treatment such as laboratory and other diagnostic services and the administration of drugs, and to ensure the patient's necessities of life and comfort, including nursing services on a 24-hour basis, accommodation and related services and meals.
+
+**Day clinic**
+
+18. A facility operated by an organization that provides diagnosis and treatment of injuries or disease and has a physician and nursing staff present but does not have in-patient beds (e.g., a day clinic that only provides ambulatory care) would not qualify as a public hospital.
+
+**Long term care**
+
+19. A facility that provides 24-hour nursing care and supervision for individuals who can no longer be cared for in their own homes, including assistance with daily activities, medication assistance and social and recreational activities but that does not provide diagnosis and treatment of injuries and disease, that does not have physicians present at all times and does not provide in-patient beds and services is not a public hospital for purposes of designation.
+
+#### Example
+
+A residential care facility that provides a room or suite with property and services including meals, nursing care services, housekeeping, laundry, security monitoring, scheduled transportation, social, recreational, educational and religious services, personal supervision, and assistance with the activities of daily living (e.g., bathing, dressing, grooming, eating) would not qualify as a public hospital.
+
+## Applying for designation
+
+**How to apply for designation**
+
+20. The organization must apply in writing to the CRA for designation as a hospital authority and provide acceptable evidence to support that it meets each of the eligibility criteria. Applications should be sent to:
+
+Director, Public Service Bodies and Governments Excise and GST/HST Rulings Directorate Canada Revenue Agency Place de Ville, Tower A 320 Queen Street, 14th floor Ottawa, ON K1A 0L5
+
+## Acceptable evidence
+
+21. Acceptable evidence includes copies of:
+
+- letters patent or articles of incorporation of the organization;
+
+- Orders in Council or private Acts of provincial legislature as evidence of creation;
+
+- Constitution/Memorandum of Association (if applicable);
+
+- the by-laws of the organization;
+
+- documentation to support that the facility operated by the organization is recognized as a public hospital by the government of the province or territory where the facility is located;
+
+- the operating licence issued to the organization by the province or territory where the facility is located;
+
+- documentation to support that the organization is organized and operated solely for a purpose other than profit; and
+
+- documentation to support that the facility is operated for the medical or surgical treatment of the sick or injured and that it provides and maintains in-patient beds and services.
+
+**Other types of acceptable evidence**
+
+22. Other types of documentation that provide evidence that the criteria are met may include: government funding agreements, written policies and guidelines, operating manuals, financial statements, annual reports, organizational charts, medical staff by-laws and employee job descriptions.
+
+**Web pages**
+
+23. If any documents are available on a Web site, the direct link (the URL) to the applicable Web page or document may be provided.
+
+## GST/HST Rebates
+
+**83% rebate**
+
+24. A person that is designated to be hospital authority will be entitled to claim a rebate of the GST or federal portion of the HST it pays at the rate of 83% to the extent that the purchases are acquired or expenses are incurred for use in the organization's activities of operating a public hospital. Hospital authorities resident in Nova Scotia also qualify for an 83% rebate of the provincial portion of the HST for activities of operating a public hospital.
+
+**Exceptions Policy Statement P-245**
+
+25. Having the status of a designated hospital authority does not automatically entitle an organization to a rebate of 83% on all of its purchases. The rebate applies to the extent that the purchases are acquired or expenses are incurred for use in the organization's activities of operating a public hospital. For further information, refer to GST/HST Policy Statement P-245, [Determination of "…activities engaged in by the person in the course of operating a public hospital" for Purposes of the 83% Public Service Body Rebate for Hospital Authorities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-245.html).
+
+**Health care rebate**
+
+26. For claim periods ending on or after January 1, 2005, a hospital authority may also claim a health care rebate of 83% of the GST and the federal part of the HST it pays in the course of certain activities other than the operation of a public hospital. The hospital authority is entitled to apply for this rebate for the tax paid in the course of operating a qualifying facility for use in making facility supplies or in making facility supplies at another qualifying facility or public hospital, ancillary supplies and home medical supplies. GST/HST Rulings can provide additional information concerning these rebates. Refer to GST/HST Memorandum 1.4, [Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html).
+
+**259(4.1)**
+
+27. Where the 83% rebates are not available, a hospital authority may be able to claim a rebate of 50% of the GST and the federal part of the HST paid or payable on eligible purchases and expenses. Additional information can be found in GST/HST guide RC4034, [GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+## Changes in organizational structure or activities
+
+**Hospital authority change in status**
+
+28. Once an organization has been designated as a hospital authority by the CRA, it is responsible for informing the CRA of any changes that may affect its status as a hospital authority under the Act. This may include: a change in the facility's status as a recognized public hospital; a change in the activities undertaken at the facility; an amalgamation or merger with another organization including another hospital authority; or the organization ceasing to be a non-profit organization or registered charity.
+
+**CRA designation revoked**
+
+29. When an organization no longer qualifies as a hospital authority under the Act, it will no longer be entitled to the 83% rebate for the operation of a public hospital, regardless of whether its designation as a hospital authority has been revoked by the CRA. Its entitlement to the 83% health care rebate or other rebates may also be affected.
+
+## Enquiries by telephone
+
+**Technical enquiries on the GST/HST:**1-800-959-8287
+
+**General enquiries on the GST/HST:**1-800-959-5525 (Business Enquiries)
+
+**If you are located in Quebec:**1-800-567-4692 (Revenu Québec)
+
+All technical publications on GST/HST are available on the CRA Web site at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).

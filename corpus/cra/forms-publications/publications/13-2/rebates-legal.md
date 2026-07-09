@@ -1,0 +1,142 @@
+---
+title: "Rebates: Legal Aid"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/13-2/rebates-legal.html
+last_modified: 2018-05-28
+---
+# Rebates: Legal Aid
+
+GST/HST Memorandum 13.2 May 2016
+
+This version replaces the one dated November 1995.
+
+This memorandum provides information for the administrator of a legal aid plan regarding entitlement to a rebate of the GST/HST paid or payable on legal services. This memorandum also outlines how the administrator of a legal aid plan can apply for a rebate of the GST/HST paid or payable on purchases of taxable supplies of services and property.
+
+All legislative references in this publication are to the *Excise Tax Act* (the Act) unless otherwise specified. The information in this publication does not replace the law found in the Act and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the Act or relevant regulation, or call GST/HST Rulings at 1-800-959-8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1.4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1-800-567-4692. You may also visit the Revenu Québec website at [www.revenuquebec.ca](http://www.revenuquebec.ca) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1-855-666-5166.
+
+**GST/HST Rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in participating provinces at the following rates: 13% in Ontario, New Brunswick and Newfoundland and Labrador; 14% in Prince Edward Island; and 15% in Nova Scotia. The Governments of New Brunswick and Newfoundland and Labrador have proposed to increase the rate of the HST in those provinces from 13% to 15%, effective July 1, 2016. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, see [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [General](#_Toc448837282)
+
+- [Legal aid plan administrators that are part of a provincial/territorial government for purposes of the GST/HST](#_Toc448837283)
+
+- [Legal aid plan administrators that are not part of a provincial/territorial government for purposes of the GST/HST](#_Toc448837284)
+
+    - [Rebate of tax paid on legal services](#_Toc448837285)
+
+    - [Application for legal aid plan rebate](#_Toc448837286)
+
+    - [Rebate for expenses other than legal services](#_Toc448837287)
+
+## General
+
+1. Each province and territory has its own distinct legal aid structure whose purpose is to provide certain legal services to persons who could not otherwise afford the services of a lawyer. 2. A "legal aid plan" is defined under subsection 258(1) to mean a legal aid plan administered under the authority of the government of a province. In that subsection, the term "province" includes a territory.
+
+3. In this memorandum, the term "legal aid plan administrator" refers to the person responsible for administering a provincial or territorial legal aid plan.
+
+4. For the purposes of this memorandum a "legal service" is a service rendered by a lawyer engaged in the practice of law. Legal services could also include services rendered by articling students or other students and support staff, to the extent that their services are intended to assist the lawyer in the provision of the lawyer’s service and are undertaken under the supervision of the lawyer.
+
+An individual acquires legal services from a lawyer to assist with the purchase of a business. Some of the documents regarding the purchase will be reviewed by an articling student who is supervised by the lawyer. The services provided by the lawyer and the articling student are considered legal services.
+
+5. A supply of legal services provided under a legal aid plan administered by or under the authority of a government of a province or a territory is exempt when the supply is made by the person responsible for administering the plan. For more information, refer to [GST/HST Memorandum 5.3, Exempt Legal Services.](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/5-3/exempt-legal-services.html)
+
+6. Supplies of legal services by private practitioners to legal aid plan administrators are taxable for GST/HST purposes.
+
+## Legal aid plan administrators that are part of a provincial/territorial government for purposes of the GST/HST
+
+7. Some legal aid plan administrators are part of a provincial or territorial government for purposes of the GST/HST.
+
+8. For purposes of this publication, the phrase "part of a provincial or territorial government for purposes of the GST/HST" means "part of a provincial or territorial government that is entitled to claim point of purchase relief or a government rebate of GST/HST paid in accordance with agreements negotiated between the province or territory and Canada".
+
+9. Generally, provincial governments are not required to pay the GST/HST. Purchases of taxable supplies of legal services by legal aid plan administrators that are, for GST/HST purposes, part of the governments of Alberta, Saskatchewan, Manitoba, Yukon, and the Northwest Territories are not subject to the GST/HST. To receive relief from the GST/HST at the time of purchase, these legal aid plan administrators use an exemption certificate or a certification clause in a contract, which provides evidence to the supplier that the supply is being purchased by a provincial or territorial government.
+
+10. The governments of Nova Scotia, New Brunswick, Prince Edward Island, Newfoundland and Labrador, Quebec, Ontario, British Columbia, and Nunavut have agreed to pay the GST/HST on their purchases of taxable supplies of property and services and subsequently claim a government rebate of the tax paid. As such, legal aid plan administrators in these jurisdictions, that are part of a provincial or territorial government for purposes of the GST/HST, will pay the GST/HST on purchases of taxable supplies of property and services, including taxable supplies of legal services, and subsequently claim a government rebate of the tax paid.
+
+11. For more information on the application of the GST/HST to sales and purchases made by provincial/territorial governments and government entities, refer to [GST/HST Memorandum 18.2, Provincial Governments](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/18-2.html).
+
+## Legal aid plan administrators that are not part of a provincial/territorial government for purposes of the GST/HST
+
+12. Legal aid plan administrators that are not part of a provincial or territorial government for purposes of the GST/HST are required to pay the GST/HST on their purchases. However, a legal aid plan administrator may be entitled to claim a rebate (other than a government rebate) of the GST/HST it pays.
+
+### Rebate of tax paid on legal services
+
+13. Under paragraph 258(2)(a), a legal aid plan administrator is eligible for a rebate of 100% of the GST/HST it pays on taxable supplies of legal services under a legal aid plan.
+
+14. Typically, fees charged by private sector practitioners for legal services may include out-of-pocket expenses incurred by a lawyer in the ordinary course of their practice in addition to fees for professional services. Such expenses or "disbursements" are treated as part of the fees for legal services for purposes of the GST/HST unless the expense was incurred by the lawyer as the client’s agent. For more information, refer to [GST/HST Policy Statement P-209R, Lawyers’ disbursements](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-209r.html).
+
+A lawyer in private practice supplies legal services to a legal aid plan administrator that is not a part of a provincial or territorial government for purposes of the GST/HST. On the invoice, in addition to the lawyer’s fees, the lawyer requests a reimbursement for expenses incurred by the lawyer in their own name rather than as agent for a client under the plan. Charges for long-distance telephone service or photocopying services paid by the lawyer and pertaining to the legal aid case are examples of such expenses. The lawyer charges the tax on the total amount invoiced. The legal aid plan administrator may claim a 100% rebate of the GST/HST paid on the supply of legal services provided by the lawyer, including the expenses that form part of the consideration for the supply of the legal services.
+
+15. No rebate under subsection 258(2) is available for the GST/HST a legal aid plan administrator pays on supplies of property (for example, office supplies). Additionally, there is no rebate available to a legal aid plan administrator under subsection 258(2) for the GST/HST it pays on supplies of services that are not legal services (for example, advertising services, web-hosting services, and transcription services).
+
+A lawyer in private practice supplies legal services to a legal aid plan administrator that is not part of a provincial or territorial government for purposes of the GST/HST and charges the legal aid plan administrator GST/HST. In addition, the lawyer requests medical assessments and reports in their capacity as agent of the legal aid plan administrator. The supply of the medical assessments and reports is taxable.
+
+The legal aid plan administrator is eligible to claim a rebate under subsection 258(2) of the GST/HST it pays on the taxable supply of legal services made by the lawyer. The legal aid plan administrator is not eligible to claim a rebate under subsection 258(2) of any tax it pays on the purchase of the medical assessments and reports, as this is not a supply of legal services.
+
+### Example 4
+
+A legal aid plan administrator that is not part of a provincial or territorial government for purposes of the GST/HST leases office space and the rental payments are subject to GST/HST. The legal aid plan administrator is not eligible to claim a rebate under subsection 258(2) of the GST/HST it pays on the supply of the office space by way of lease as this is not a supply of legal services.
+
+16. An employee of a legal aid plan administrator that is not part of a provincial or territorial government for purposes of the GST/HST may incur expenses for which the legal aid plan administrator reimburses the employee. When the conditions under section 175 are met, the legal aid plan administrator is deemed to have received a supply of the property or service for which it reimbursed the employee and to have paid the GST/HST in respect of the supply at the time the reimbursement is paid. The legal aid plan administrator cannot claim a rebate under subsection 258(2) of the tax deemed paid under section 175 where the supply it is deemed to have received is not a taxable supply of legal services. For more information, refer to [GST/HST Memorandum 9.4, Reimbursements](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/9-4.html).
+
+A lawyer, who is an employee of a legal aid plan administrator that is not part of a provincial or territorial government for purposes of the GST/HST, personally pays the fee (including the GST/HST) for a taxable supply of a title search for property, which will be used in relation to the activities of the legal aid plan administrator. The legal aid plan reimburses the lawyer for this fee and the associated GST/HST.
+
+Section 175 deems the legal aid plan administrator to have received a supply of the title search and to have paid the GST/HST in respect of the supply. The legal aid plan administrator cannot claim a rebate under subsection 258(2) of the GST/HST deemed paid under section 175 because the supply the legal aid plan administrator is deemed to have received (that is, the title search) is not a supply of legal services.
+
+17. Where a legal aid plan administrator that is not part of a provincial or territorial government for purposes of the GST/HST is entitled to claim a rebate of the GST/HST it pays on taxable supplies of legal services, the legal aid plan administrator is not entitled to any other rebate in respect of the same supply by virtue of paragraph 258(2)(b).
+
+### Application for legal aid plan rebate
+
+18. A legal aid plan administrator that is not part of a provincial or territorial government for purposes of the GST/HST may apply for a rebate of the GST/HST paid on taxable supplies of legal services as frequently as desired. However, under subsection 258(3), each application must be filed within four years after the end of the reporting period in which the tax became payable.
+
+19. The reporting period for a non-registrant is a calendar month. The reporting period for a registrant is either monthly, quarterly, or annually. For more information on reporting periods, refer to [Guide RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+20. The prescribed form used to claim the legal aid plan rebate of the GST/HST paid on taxable supplies of legal services is [Form GST189*,*General Application for Rebate of GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html).
+
+21. For help completing the rebate application Form GST189, refer to [Guide RC4033*,*General Application for GST/HST Rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4033.html).
+
+### Rebate for expenses other than legal services
+
+22. A legal aid plan administrator that is not part of a provincial or territorial government for purposes of the GST/HST and is a charity, a qualifying non-profit organization, or a selected public service body may also be able to claim a public service bodies’ rebate of a percentage of the GST and the federal part of the HST paid or payable on eligible purchases and expenses other than legal services. In addition, certain entities resident in a participating province may be eligible for a public service bodies’ rebate of a percentage of the provincial part of the HST. The rate at which a public service bodies’ rebate may be claimed depends on the status of the legal aid plan administrator and the province(s) in which it is resident.
+
+A lawyer in private practice supplies legal services to a legal aid plan administrator that is not part of a provincial or territorial government for purposes of the GST/HST and charges the plan the GST/HST. In addition, the lawyer acquires a taxable supply of a medical assessment and report in their capacity as agent of the legal aid plan administrator. The legal aid plan administrator is a qualifying non-profit organization.
+
+The legal aid plan administrator is eligible to claim a rebate under subsection 258(2) of the GST/HST paid on the taxable supply of legal services made by the lawyer. The legal aid plan administrator is not eligible to claim a rebate under subsection 258(2) of the tax paid on the purchase of the medical assessment and report, as this is not a supply of legal services.
+
+Since the legal aid plan administrator is a qualifying non-profit organization, it may claim a public service bodies’ rebate of a percentage of the tax paid or payable on the purchase of the medical assessment and report.
+
+### Example 7
+
+A lawyer, who is an employee of a legal aid plan administrator that is not part of a provincial or territorial government for purposes of the GST/HST, personally pays the fee (including the GST/HST) for a taxable supply of a title search for property, which will be used in relation to the activities of the legal aid plan administrator. The legal aid plan administrator reimburses the lawyer for this fee and the associated GST/HST. The legal aid plan administrator is a qualifying non-profit organization.
+
+Section 175 deems the legal aid plan administrator to have received a supply of the title search and to have paid GST/HST in respect of the supply. The legal aid plan administrator cannot claim a rebate under subsection 258(2) of the GST/HST deemed paid under section 175 because the supply the legal aid plan administrator is deemed to have received (that is, the title search) is not a supply of legal services.
+
+Since the legal aid plan administrator is a qualifying non-profit organization, it may claim a public service bodies’ rebate of a percentage of the tax deemed to have been paid under section 175 in respect of the title search.
+
+23. The public service bodies’ rebate is claimed on [Form GST66, Application for GST/HST Public Service Bodies’ Rebate and GST Self-Government Refund](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst66.html) and, if applicable, on [Form RC7066 SCH, Provincial Schedule - GST/HST Public Service Bodies’ Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7066-sch.html). [Guide RC4034, GST/HST Public Service Bodies’ Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html)*,* provides further information on the public service bodies’ rebate including instructions on how to complete the application.
+
+## Further information
+
+All **GST/HST technical publications** are available on the CRA website at [www.cra.gc.ca/gsthsttech](http://www.cra.gc.ca/gsthsttech).
+
+To make a **GST/HST** **enquiry**by **telephone**:
+
+- for **general GST/HST enquiries,** call **Business Enquiries** at **1-800-959-5525**
+
+- for **technical GST/HST enquiries,**call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1-800-567-4692** or visit their website at [www.revenuquebec.ca](http://www.revenuquebec.ca).
+
+If you are a **selected listed financial institution**(whether or not you are located in Quebec) and require information on the **GST/HST**or the**QST**, go to [www.cra.gc.ca/slfi](http://www.cra.gc.ca/slfi) or
+
+- for **general GST/HST or QST enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **technical GST/HST or QST enquiries**, call **GST/HST Rulings** **SLFI** at **1-855-666-5166**

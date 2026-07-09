@@ -1,0 +1,98 @@
+---
+title: "ARCHIVED - Cash method inventory adjustments"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it526/archived-cash-method-inventory-adjustments.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Cash method inventory adjustments
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+IT
+
+SUBJECT: INCOME TAX ACT Farming - Cash Method Inventory Adjustments
+
+NO: IT-526 DATE: May 28, 1993
+
+REFERENCE: Section 28
+
+Application
+
+The comments in this bulletin apply to fiscal periods commencing after 1988.
+
+Summary
+
+This bulletin deals with the two inventory adjustments relating to farmers who have chosen to determine their farming income in accordance with the cash method. The first adjustment, which may be used to average income, is optional and applies to a farmer's inventory on hand at the end of the year. The second is a mandatory adjustment to inventory designed to decrease or eliminate cash method losses resulting from purchased inventory. The mandatory adjustment applies if a farmer has a cash loss and purchased farming business inventory on hand at the end of the year. The bulletin also deals with the transitional relief provisions that reduce the impact of the mandatory adjustment for inventory purchased prior to a certain period. Examples relating to the calculation of the mandatory inventory adjustment are provided.
+
+Discussion and Interpretation
+
+1. The reference in this bulletin to "taxation year" or "year" should be read as "fiscal period" where an individual is reporting income from a farming business and the fiscal period of the farming business does not coincide with the calendar year. The bulletin's reference to a farmer is a reference to an individual, corporation, partnership or trust in the farming business.
+
+2. Subsection 28(1) provides for a method of accounting, known as the cash method (see the current version of Interpretation Bulletin IT- 433), that may be used for computing the income or loss of farmers and fishermen. Basically, the cash method income or loss is calculated as the difference between the cash revenue received in the year and the cash revenue expenditures paid in the year with appropriate adjustments
+
+page 2
+
+for non-cash items such as capital cost allowance and the recapture of capital cost allowance. The cash method also provides a farmer who has inventory at the end of the year with the opportunity to average income by making the optional inventory adjustment described in 3 below. Furthermore, the mandatory inventory adjustment described in 4 and 5 below must be taken into account in determining a farmer's cash method loss. A farmer's cash method loss may also be restricted by application of section 31 (see the current version of IT-322). The optional inventory adjustment and the mandatory inventory adjustment do not apply in a year in which a farmer has died.
+
+Optional Inventory Adjustment
+
+3. Paragraph 28(1)(b) permits farmers who have elected to compute their income in accordance with the cash method to add to their income for a taxation year an optional inventory adjustment. This adjustment may be used to reduce a farmer's loss. The adjustment cannot exceed the fair market value of the inventory owned in connection with the farming business at the end of the year less any mandatory inventory adjustment determined under paragraph 28(1)(c) (see 4 below). Paragraph 28(1)(f) provides that the amount added to income in a year under paragraph 28(1)(b) must be deducted in computing income for the following year. Inventory owned in connection with a farming business means a description of property the cost or value of which would have been relevant in computing a farmer's income from the farming business for a year if the income from the business had not been computed in accordance with the cash method. Such inventory includes all the
+
+page 3
+
+livestock held in the course of carrying on the farming business.
+
+Mandatory Inventory Adjustment
+
+4. A farmer using the cash method who has income (profit) from a farming business for a taxation year (after deducting the prior year's optional or mandatory inventory adjustments, if any) will not be subject to the mandatory inventory adjustment for the year and, therefore, will not need to make the computations explained below. However, a mandatory inventory adjustment pursuant to paragraph 28(1)(c) must be included in computing income for a taxation year where both of the following conditions exist: (a) there is a loss from the farming business in the year computed in accordance with the cash method but without the optional inventory adjustment referred to in 3 above, and (b) there is inventory owned in connection with the farming business at the end of the year that had been purchased by the farmer (e.g. purchased supplies and livestock on hand). The addition to income is equal to the lesser of the loss described in (a) above and the value (see 5 below) of the inventory described in (b) above. Any amount so included in income in a year must be deducted in the following year under paragraph 28(1)(f). A farmer who carried on a farming business before 1989 will be subject to transitional relief over seven years for that farming business in respect of the mandatory inventory adjustment (see 6 to 13 below).
+
+5. Generally, inventory for purposes of the mandatory inventory adjustment will be valued in accordance with subsection 28(1.2) at the lesser of (a) the total amount paid by the farmer to acquire the inventory (hereafter referred to as the "cash cost"), and (b) its fair market value. However, in the year of acquisition, subsection 28(1.2) also provides that a farmer may choose to value a "specified animal" at 70% of its cash cost or at a greater amount not exceeding its cash cost. For a year subsequent to its acquisition, the specified animal may be valued at 70% of the total of its value determined under subsection 28(1.2) at the end of the preceding year and any increase in the cash cost of the animal in the year or at a greater amount not exceeding its cash cost. Please refer to 13 below for an example on how to value specified animals. Subsection 28(1.3) provides a formula for prorating the 70% in taxation years which are less than 51 weeks. For example, where the taxation year is six months, the value of a specified animal acquired and totally paid for in a previous taxation year could not be reduced below 85% (determined by the formula 100 minus (30 x 183/365)) of the value at the end of the preceding year. All horses are to be regarded as specified animals while a bovine animal registered under the Animal Pedigree Act may be treated as a specified animal if the farmer so elects. An election, valid for the year and subsequent years, is made by stating in the farmer's tax return that a particular bovine is to be treated as a specified animal.
+
+page 4
+
+Transitional Relief
+
+6. In computing the mandatory inventory adjustment, farmers who carried on a farming business before 1989 are entitled to transitional relief that will reduce the impact of including the value of inventory on hand which was purchased in taxation years commencing before 1989. Farmers may choose between two alternative methods of transitional relief in each taxation year of their business which commences after 1988 and before 1995 (hereafter referred to as a "transition year)". Generally, by the seventh year, the mandatory inventory adjustment will be fully phased in under either method.
+
+Fixed-Dollar Method
+
+7. In any particular transition year where a farmer does not make an election, described in 9 below, the mandatory inventory adjustment, determined with the valuation rule in 12 below for specified animals, is reduced by a fixed dollar amount each year (hereafter referred to as the "fixed-dollar method"). The fixed-dollar amount is $15,000 for a transition year commencing in 1989, declining by $2,500 for each subsequent year ($12,500, $10,000, $7,500, $5,000 and $2,500 for a transitional year commencing in 1990, 1991, 1992, 1993 and 1994 respectively). Where a transition year is less than 51 weeks, the fixed dollar amount applicable for that year is reduced to that proportion of the fixed dollar amount that the number of days in the year is to 365.
+
+page 5 is blank
+
+page 6
+
+8. The following example illustrates the mechanics of the fixed-dollar method:
+
+9. Where a farmer elects in a particular year, only a portion of the farmer's inventory which was on hand at the beginning of the first transition year, determined with the valuation rule in 12 below for specified animals, is taken into account for the purposes of the mandatory inventory adjustment (hereafter referred to as the "elective method"). The portion will be 1/7th of the value of that inventory which is still on hand at the end of the first transition year, 2/7th of the value of that inventory which is still on hand at the end of the second transition year, and so on. In the event there are more than 6
+
+page 7 is french
+
+page 8
+
+taxation years commencing after 1988 and before 1995 the portion will be 6/7th for the 6th and subsequent taxation years. The amount to be included in the mandatory inventory adjustment will generally reflect the decline in value of the inventory over the transitional years as a result of dispositions, a decline in the fair market value of the inventory below the cash cost, or the 30% declining balance valuation method applicable to specified animals.
+
+10. The calculation of the elective method is illustrated by the following example
+
+1990 - A Ltd., a corporation, owns cattle which A Ltd. had purchased for $140,000 (cash cost) before its taxation year commencing on July 1, 1989. None of the cattle is a specified animal. A Ltd. chooses to use the elective method of transitional relief, has a cash-basis loss of $45,000 in its taxation year ended June 30, 1990, neither purchases nor sells any cattle in the year and the cattle do not decline in value below their cash cost.
+
+11. A farmer must make an election each transition year the farmer chooses to use the elective method. An election to use the elective method for a particular transition year is made by filing the tax return for the particular year with a clear statement to the effect that the elective method in respect of the transitional relief of the mandatory inventory adjustment has been chosen. A partnership is considered to have made an election to use the elective method if each partner of the partnership files an income tax return for a particular transition year with a clear statement to the effect that the elective method has been chosen.
+
+12. For the purpose of the fixed-dollar method and the elective method, a special valuation rule applies to a specified animal that is still on hand at the end of the current year and that was purchased in a taxation year commencing before 1989. A specified animal purchased in the taxation year preceding the first transition year (see 6 above) will be valued in accordance with 5 above as if it had been acquired in the first transition year for its cash cost. A specified animal purchased in the second and third taxation years preceding the first transition year is valued in accordance with 5 above as if it had been acquired in the first transition year for one-half of its cash cost. A specified animal purchased before those years is valued in accordance with 5 above as if it had been acquired in the first transition year for one-quarter of its cash cost. For purposes of this special valuation rule, where an animal is acquired from a person with whom the farmer does not deal at arm's length, the farmer is deemed to have acquired the animal at the time it was acquired by that person.
+
+13. Examples illustrating the mechanics of the two transitional methods follow.
+
+The maximum farm loss Ms. Y could claim for 1989 is $15,000
+
+1990 - Ms. Y has a loss of $17,000 prior to the adjustment for the 1989 MIA and sells Horse A. The lowest allowable value of the remaining horse is the value used in 1989 ($28,000) x 70% = $19,600.
+
+The maximum farm loss Ms. Y could claim for 1990 is $16,400.
+
+If you have any comments regarding the matters discussed in this bulletin, please send them to: Director, Technical Publications Division Legislative and Intergovernmental Affairs Branch Revenue Canada, Taxation 875 Heron Road Ottawa, Ontario K1A 0L8

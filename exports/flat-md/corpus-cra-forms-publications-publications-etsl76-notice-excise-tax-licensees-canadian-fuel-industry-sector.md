@@ -1,0 +1,68 @@
+---
+title: "ETSL76 Notice to excise tax licensees in the Canadian fuel industry sector"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/etsl76/notice-excise-tax-licensees-canadian-fuel-industry-sector.html
+last_modified: 2026-06-08
+---
+# ETSL76 Notice to excise tax licensees in the Canadian fuel industry sector
+
+Excise Taxes and Other Levies Notice
+
+December 2011
+
+The purpose of this notice is to ensure that excise tax licensees under the [Excise Tax Act](http://laws-lois.justice.gc.ca/eng/acts/E-15/index.html) within the Canadian petroleum industry are fully aware of the provisions relating to fuel purchased on an excise tax exempt basis. The legislative references for this notice are Part III, section 23 of the Act and sections 48, 49 and 64 of the Act.
+
+Except as otherwise noted, all statutory references in this notice are to the provisions of the *Excise Tax Act*. The information in this notice does not replace the law found in the Act and its regulations.
+
+If this information does not completely address your situation, refer to the Act or regulations or call 1-866-330-3304 for additional information.
+
+## Background
+
+Part III of the *Excise Tax Act* imposes excise tax on petroleum fuel products whether imported or manufactured in Canada.
+
+Persons who manufacture or produce excise taxable goods are required to be licensed under the Act and must apply to the Canada Revenue Agency (CRA) for an excise manufacturer's licence, as well as account for and remit excise tax on sales of goods made under taxable conditions. Excise tax is payable on petroleum products at the time of sale, deemed to be upon delivery by or on behalf of the licensee.
+
+Holders of manufacturer's licences may purchase petroleum fuel products excise tax exempt if the goods are for further manufacture. In instances where excise taxable goods are purchased for resale and not further manufacture, the purchases must be made on an excise tax paid basis with no further excise tax under Part III of the Act applicable at time of resale.
+
+## Section 48
+
+Section 48 of the Act allows licensed manufacturers to apply to the CRA to be considered as manufacturers of "similar goods" sold in conjunction with goods of their manufacture, thereby permitting the similar goods to be purchased tax exempt.
+
+This authorization is granted only when sales of goods obtained for resale are small in relation to the total sales of goods of the licensee's manufacture and the goods were either identical to, or intended to fill out, product lines.
+
+The following guidelines were established to maintain uniformity and equity in the administration of applications made under this provision of the Act:
+
+- The conditions set out in section 48 must be met; that is, the goods must be of the same class, and must be sold in conjunction with goods manufactured by the taxpayer.
+
+- The sales value of similar goods sold by the applicant must be no more than 25% of the sales value of taxable goods of the licensee's manufacture or production in Canada.
+
+- The applicant must have a good compliance record, that is,
+
+    - have a history of properly accounting for tax and of maintaining proper books and records; and
+
+    - have no declared tax balance outstanding.
+
+- The applicant must not hold a wholesaler's licence under the Act.
+
+- The value on which the similar goods are taxed must not be less than their cost price or duty-paid value.
+
+These rules, originally published in 1990, are administrative in nature and are considered to be prudent, reasonable and in keeping with the intent of the legislation.
+
+## Issue and notice
+
+Essentially, the manufacturer's licence and section 48 authorization allow a company to maintain excise tax-free inventory, thereby simplifying accounting and creating a cash flow advantage due to the deferred excise tax payment until the time the product is sold under taxable conditions.
+
+It has become increasingly apparent that situations involving the manufacturer's licence where goods are purchased tax exempt and not for further manufacture, but for resale, are not well understood. Similarly, goods purchased tax exempt under a section 48 authorization are not meeting the conditions listed above, especially that the annual dollar sales value of similar goods must be 25% or less of the annual sales value of goods of the licensee's manufacture or production in Canada that are subject to excise tax.
+
+This notice is designed to ensure the consistent application of the provisions relating to fuel purchases for subsequent resale by licensees within the petroleum industry. Any tax-exempt purchases of fuel for resale that are being made contrary to the manufacturing licence provisions or section 48 authorizations will no longer be permitted. Licensees that have not received a section 48 authorization or that no longer meet the administrative guidelines required for the application of this provision must purchase fully manufactured fuel on a tax-paid basis.
+
+In order to rectify the apparent confusion within the industry about the correct method of accounting for the excise tax on fuel, the CRA is establishing a grace period until March 1, 2012, to permit all licensees to ensure that any fuel inventory on hand is accounted for appropriately. Consequently, any fuel purchased after February 29, 2012, strictly for resale, and in the absence of an appropriate section 48 authorization, must be purchased on a tax-paid basis. In addition, licensees in possession of a section 48 authorization that no longer meet the administrative conditions outlined above after that date, must purchase fuel, strictly for resale, on a tax-paid basis.
+
+The CRA will begin conducting audits of excise tax fuel licensees within the coming fiscal year to ensure that the excise tax is being accounted for in keeping with the provisions of the Act as noted above. At that time, assessments will be levied in any cases where tax-exempt inventory is maintained incorrectly, that is, where tax-exempt purchases have been made incorrectly after February 29, 2012.
+
+## Further information
+
+For all technical publications related to the *Excise Tax Act* and its regulations, go to [Excise taxes and other levies technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies.html).
+
+For information on how to make a general or technical enquiry on excise taxes, go to [Contact information – Excise and Specialty Tax Directorate](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/excise-taxes-contacts.html).
+
+For information on how to request a ruling or interpretation related to excise taxes, go to [Requesting an excise and specialty tax ruling or interpretation](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/requesting-excise-specialty-tax-ruling-interpretation.html).

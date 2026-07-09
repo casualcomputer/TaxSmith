@@ -1,0 +1,455 @@
+Title: Applicable rate of part XIII tax on amounts paid or credited to persons in countries with which Canada has a tax convention
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic76-12/applicable-rate-part-xiii-tax-on-amounts-paid-credited-persons-countries-which-canada-a-tax-convention.html
+Corpus path: corpus/cra/forms-publications/publications/ic76-12/applicable-rate-part-xiii-tax-on-amounts-paid-credited-persons-countries-which-canada-a-tax-convention.md
+Document type: publication
+Last modified: 2022-10-26
+
+# Applicable rate of part XIII tax on amounts paid or credited to persons in countries with which Canada has a tax convention
+
+January 12, 2022
+
+## Applicable rate of part XIII tax on amounts paid or credited to persons in countries with which Canada has a tax convention
+
+### Contents
+
+- [Introduction](#_Toc68696084)
+
+- [Rate of tax to be withheld](#_Toc68696085)
+
+- [Tax conventions](#_Toc68696086)
+
+- [Beneficial ownership and application of a reduced treaty rate](#_Toc68696087)
+
+- [Exceptions](#_Toc68696088)
+
+    - [Individuals resident in the United States and estates of residents of the United States](#_Toc68696089)
+
+    - [Letters of exemption or written authorization](#_Toc68696091)
+
+    - [Pensions](#_Toc68696092)
+
+    - [Agents or nominees residing in Switzerland](#_Toc68696093)
+
+    - [Elective dividend service](#_Toc68696094)
+
+- [Amounts (other than pensions and annuities) subject to Part XIII tax](#_Toc68696095)
+
+    - [Interest](#_Toc68696096)
+
+    - [Dividends](#_Toc68696097)
+
+    - [Trust distributions](#_Toc68696098)
+
+    - [Rents, royalties or similar payments](#_Toc68696099)
+
+    - [Payments for acting services](#_Toc68696100)
+
+    - [Management fees](#_Toc68696101)
+
+    - [Interest, dividends and trust distributions payable to a non resident agent or nominee](#_Toc68696102)
+
+          - [Dividends](#_Toc68696103)
+
+          - [Trust distributions](#_Toc68696104)
+
+    - [Certifications by agents or nominees](#_Toc68696105)
+
+    - [Limitation of relief](#_Toc68696106)
+
+- [Pensions and annuities subject to Part XIII tax](#_Toc68696107)
+
+    - [Pensions and annuities](#_Toc68696108)
+
+    - [Election to file an income tax return: pensions and annuities](#_Toc68696109)
+
+- [Need more information?](#_Toc68696110)
+
+## Introduction
+
+**¶ 1.** This circular cancels and replaces Information Circular 76‑12R7 dated June 21, 2021. The information in this circular relates to existing legislation and to conventions that are in force or signed but not yet in force, as of January 1, 2022.
+
+**¶ 2.** This circular is intended for persons who pay or credit amounts subject to tax under Part XIII and Part XIII.2 of the Income Tax Act (the Act) of Canada to non-resident persons, their agents or nominees. It also provides information for agents, nominees and financial intermediaries.
+
+The Canada Revenue Agency (CRA) forms and publications listed in this circular can be found at [canada.ca/cra‑forms-publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html), and CRA web pages are located at [canada.ca/taxes](https://www.canada.ca/taxes).
+
+**¶ 3.** A tax convention is often referred to as a tax treaty, and the terms ‘tax convention’ and ‘tax treaty’ can be used interchangeably.
+
+## Rate of tax to be withheld
+
+**¶ 4.** It is the responsibility of the payer (resident or deemed resident in Canada) to withhold and remit Part XIII and Part XIII.2 tax at the appropriate rate. The payer is liable to the Canadian government for the full amount. The non‑resident withholding tax payable under the Act generally represents the final Canadian tax obligation on the related income. To determine the appropriate withholding tax rates, refer to Part XIII and Part XIII.2 of the Act [available at [Income Tax Act (justice.gc.ca)](https://lois-laws.justice.gc.ca/eng/acts/I-3.3/)], the appropriate articles of any relevant tax conventions (available at [Tax treaties - Canada.ca](https://www.canada.ca/en/department-finance/programs/tax-policy/tax-treaties.html)) and the CRA publications referred to in this information circular.
+
+**¶ 5.** Taxable amounts paid or credited to payees in countries with which Canada does not have a tax convention in force are subject to the withholding tax rates set out in Part XIII and Part XIII.2 of the Act.
+
+**¶ 6.** Although Part XIII generally specifies a withholding tax rate of 25%, there are some exceptions. For example, there is a 23% withholding tax rate on payments for film or video acting services and a 15% withholding tax rate on assessable distributions from mutual funds under Part XIII.2 (as defined in that part), if the amounts are not subject to Part I or Part XIII tax. In addition, not all income payments to non-residents are subject to withholding under Part XIII or Part XIII.2. As a result, to determine whether a particular payment is subject to Canadian withholding tax, you should refer to Part XIII and Part XIII.2 of the Act and the appropriate articles of relevant tax conventions.
+
+**¶ 7.** If an amount is taxable under Part XIII of the Act, the withholding tax rate may be reduced or eliminated by a relevant tax convention.
+
+A tax convention may also contain a provision to reduce a withholding tax rate to below what the countries agreed on when they signed the tax convention. This provision would be triggered if Canada later agrees to a lower withholding tax rate in a convention it signs with another country. When this ‘most favoured nations’ provision is present and the other convention enters into force, the CRA will announce the lower rate and its effective date by posting a notice on its web page, [Competent Authority Agreements and Notices - Canada.ca](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/competent-authority-agreements-notices.html).
+
+**¶ 8.** A tax convention may contain a provision that specifies a lower rate or an exemption in circumstances agreed on from time to time between the competent authorities of the two countries. When this occurs, the CRA will announce the change and its effective date by posting a notice on [Competent Authority Agreements and Notices - Canada.ca](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/competent-authority-agreements-notices.html).
+
+**¶ 9.** For information on how and when to remit and report Part XIII and Part XIII.2 withholding taxes and how to obtain refunds of these taxes, go to [NR4 and Part XIII tax - Canada.ca](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/payments-non-residents/nr4-part-xiii-tax.html). Also see paragraph 70 of this information circular for more information and resources.
+
+## Tax conventions
+
+**¶ 10.** Negotiating new tax conventions between Canada and other countries and renegotiating existing conventions is an ongoing process. After the negotiations or renegotiations are completed, the tax convention (or protocol to amend a tax convention) requires royal assent by Parliament before it enters into force. The effective date of a particular provision will be specified in the tax convention or protocol. In some cases, the provisions of a tax convention may be effective retroactively.
+
+The Department of Finance Canada announces the coming‑into-force of any new withholding rates through news releases or notices posted at [Tax treaties - Canada.ca](https://www.canada.ca/en/department-finance/programs/tax-policy/tax-treaties.html). You can find a CRA Part XIII tax calculator at [Non-Resident Tax Calculator - Canada.ca](https://www.canada.ca/en/revenue-agency/services/e-services/non-resident-tax-calculator-disclaimer.html).
+
+As this information circular is a guide to withholding the correct amount of Part XIII tax from payments made to non‑residents of Canada, it does not reflect all the possible rates or specific exemptions provided by the various tax conventions. The Act also provides an exemption from non‑resident withholding tax on certain payments.
+
+**¶ 11.** If an amount is taxable under Part XIII of the Act, then refer to the applicable tax convention, if any, to determine if a reduced tax rate is available. For a reduced rate to apply, the beneficial owner of the payment (see paragraph 14) must meet both these requirements:
+
+- be resident in a country with which Canada has a tax convention
+
+- be eligible for treaty benefits under that tax convention for the taxable amounts being paid
+
+To verify the correct rates, refer to Part XIII of the Act and the appropriate tax convention articles.
+
+**¶ 12.** To support withholding at a reduced rate, the payer must have enough recent information to show all of the following:
+
+- the identity of the beneficial owner
+
+- that the beneficial owner is resident in a country with which Canada has a tax convention
+
+- that the beneficial owner is eligible for treaty benefits under the tax convention with respect to the payment being made
+
+**¶ 13.** If the Act provides an exemption from withholding tax on certain amounts paid or credited to a non-resident, there is no need to obtain a declaration or equivalent information from the non-resident about their residency, beneficial ownership or eligibility for treaty benefits.
+
+## Beneficial ownership and application of a reduced treaty rate
+
+**¶ 14.** An essential requirement for the reduced withholding rate is determining who the beneficial owner is.
+
+**¶ 15.** Generally, the payer can accept the payee as the beneficial owner of the income unless there is reasonable cause to suspect that this is not correct. Although the following list does not cover all situations, the payer should question whether the payee is the beneficial owner if any of these criteria are met:
+
+- the payee is known to act, even occasionally, as an agent or nominee (except agents or nominees residing in Switzerland)
+
+- the payee is reported to be “in care of” another person or “in trust”
+
+- the mailing address for the payment is different from the registered address of the owner
+
+**¶ 16.** The non-resident payee has to complete a declaration (see paragraph 19) and send it to the payer in the following three situations:
+
+- if there is doubt about whether the payee is the beneficial owner
+
+- when the payment is made to a partnership with non‑resident partners
+
+- when the payment is made to a hybrid entity with members resident in the United States
+
+**¶ 17.** For the purposes of Part XIII of the Act [other than section 216 (rental income)], when a Canadian resident makes a payment to a partnership in which one or more of the members are non-resident, paragraph 212(13.1)(b) of the Act deems the partnership to be a non-resident person. However, some of the non-resident partners may be entitled to treaty benefits under a tax convention between their country of residence and Canada. In this case, the payer can apply a reduced withholding tax rate on the partner’s part of the payment to take into account the treaty benefits that the partner is entitled to.
+
+**¶ 18.** If the payee is an insurance corporation or pension trust, the payee may be accepted as the beneficial owner. However, that corporation or trust has to invest solely on its own behalf and include the invested amounts when it calculates its revenue.
+
+**¶ 19.** The following forms can used by non-residents to declare beneficial ownership, residence and eligibility for treaty benefits and by partnerships (or other flow-through entities with non-resident partners or members) to certify they have obtained such information from their partners or members:
+
+- Form NR301, Declaration of eligibility for benefits (reduced tax) under a tax treaty for a non-resident person
+
+- Form NR302, Declaration of eligibility for benefits (reduced tax) under a tax treaty for a partnership with non-resident partners
+
+- Form NR303, Declaration of eligibility for benefits (reduced tax) under a tax treaty for a hybrid entity
+
+These three forms represent a change in the CRA’s previous position that generally accepted the payee’s name and address as enough to determine whether treaty benefits applied to them.
+
+While forms NR301, NR302 and NR303 are not prescribed forms, the CRA can use the information provided on them to determine whether a tax treaty rate can be applied, subject to comments in paragraph 22 below.
+
+Whether or not the non-resident completes one of these forms, they are still required to provide the Canadian payer with enough information to establish the facts listed in paragraph 12 above and support a lower rate of withholding tax. If a non-resident refuses to provide certification of beneficial ownership, residency, and/or eligibility for treaty benefits after a payer asks them to do so, the payer should assume that treaty benefits do not apply and withhold the full statutory rate.
+
+**¶ 20.** If a payer withholds Part XIII tax based on the information the non-resident payee provided on forms NR301, NR302 and NR303 or in another declaration, but the CRA later determines that insufficient tax was withheld on the payment, the payer or their agent may be held liable for the deficiency, as well as for interest and penalties.
+
+The payer can ask for relief on penalties and interest by writing to their tax services office or by submitting a completed Form RC4288, Request for Taxpayer Relief – Cancel or Waive Penalties or Interest. One of the factors that the CRA considers in deciding whether to grant this relief is whether the payer used a reasonable amount of care and due diligence in getting the necessary information from the non‑resident. Collecting the appropriate forms or equivalent information will help show the payer tried to apply the correct tax rate.
+
+**¶ 21.** If a payer has reason to believe that a limiting provision in the relevant tax convention will restrict the application of treaty benefits, the payer must either withhold the full 25% tax or obtain certification from the recipient stating that they are eligible for treaty benefits.
+
+**¶ 22.** If there is reasonable cause to doubt the declarations received, the payer must ask for more information or investigate further before applying a treaty withholding rate. For more information, see “Instructions for payers” on forms NR301, NR302 and NR303. Examples of where a payer needs to carry out additional verification include:
+
+- a non-resident payee notifies the payer about a change in address that shows a different country than the country of residence listed on the forms already on file
+
+- a non-resident payee is a flow-through entity whose membership is likely to have changed since they provided their Form NR302 or Form NR303
+
+- the form on file is expired
+
+**¶ 23.** Form NR302 provides guidance on how to calculate a composite withholding tax rate for a payment to a partnership. Canadian resident partners of the non-resident partnership must provide a statement of Canadian residency, otherwise the withholding rate of 25% will apply to them as well. This statement is a signed and dated certification by the Canadian resident partner that they are resident in Canada for tax purposes. It must include their name, Canadian tax number and their Canadian address. The statement expires when the partner’s residency changes or three years from the end of the calendar year in which the statement is signed and dated, whichever is earlier. Canadian residents have to report their income on a Canadian tax return and pay tax accordingly.
+
+## Exceptions
+
+### Individuals resident in the United States and estates of residents of the United States
+
+**¶ 24.** The payer may choose to apply a reduced withholding tax without obtaining the forms or equivalent information about beneficial ownership, country of residence and eligibility for treaty benefits if **all** of the following conditions are met. The payer must:
+
+- know that the individual payee is a resident of the United States or is an estate of a United States resident that is managed and controlled from the United States
+
+- have a complete permanent address on file that is not a post office box or care-of address
+
+- have no contradictory information or reason to suspect the information is inaccurate or misleading
+
+- have procedures in place to review the withholding tax rate when there are changes in the payee’s information (such as returned mail or a change of address or contact information that includes a change in country)
+
+### Letters of exemption or written authorization
+
+**¶ 25.** The CRA may issue a letter of exemption or written authorization in certain situations to confirm that a treaty exemption or rate reduction can be applied. In these cases, the payer may rely on the CRA letter. Certain amounts paid to foreign governments might not be subject to the Part XIII withholding tax due to a provision in a tax convention or according to the Doctrine of Sovereign Immunity.
+
+Under the Doctrine of Sovereign Immunity, the Government of Canada may grant exemption from tax on certain Canadian-source investment income paid or credited to the government or central bank of a foreign country. Written authorization not to withhold tax is given to the Canadian resident payer upon request after substantiation that such investment income (other than that already exempt under the Act and Regulations) is the property of the government or central bank of the foreign country. The written authorization will have an expiry date at which time the Canadian payer would be required to re-apply for further authorization not to withhold. A request for uthorization not to withhold should be forwarded to: Canada Revenue Agency, 6th Floor, Tower A, Place de Ville, 320 Queen Street, Ottawa, Ontario K1A 0L5 Attention: International Relations and Treaties Office.
+
+Investment income of a foreign government or its agency is exempt only if (a) the other country would provide a reciprocal exemption to the Canadian Government or its agencies; (b) the income is derived by the foreign government or agency in the course of exercising a function of a governmental nature and is not income arising in the course of an industrial or commercial activity carried on by the foreign government or agency; and (c) it is portfolio dividends on listed company shares. Income such as rentals, royalties or direct dividends from a company in which the foreign government has a substantial or controlling equity interest does not qualify for exemption.
+
+### Pensions
+
+**¶ 26.** Several of Canada’s tax conventions allow an exemption from withholding tax for some pensions and similar payments received in the year from Canada if the total amount received from all payers is less than a certain threshold amount. For more information on pension exemptions, consult [Guide T4061, NR4 - Non Resident Tax Withholding, Remitting, and Reporting](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4061.html). Also see paragraph 65 in this circular.
+
+**¶ 27.** If a non-resident elects to file an income tax and benefit return to report and pay tax on their “Canadian benefits,” under section 216 or 217 of the Act, they can ask the CRA to send the payer a letter authorizing a lower rate of tax. See paragraph 69 in this circular for more detail on filing Form NR5. [Form T1159 Income Tax Return for Electing Under Section 216](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1159.html).
+
+**¶ 28.** Article XXI of the Canada–United States Tax Convention may exempt some income earned by religious, scientific, literary, educational or charitable organizations or by organizations operated exclusively to provide pension, retirement or employee benefits.
+
+**¶ 29.** United States organizations listed in [Guide T4016, Exempt U.S. Organizations - Under Article XXI of the Canada–United States Tax Convention](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4016.html), are approved for the exemption from withholding tax under Article XXI of the Canada–U.S. Tax Convention.
+
+### Agents or nominees residing in Switzerland
+
+**¶ 30.** The withholding tax rates in the Canada–Switzerland Tax Convention apply to all amounts that are subject to Part XIII tax and that are paid or credited to a non-resident of Canada who has a Swiss address. However, additional Canadian Part XIII tax may be payable if the beneficial owner of the amount is not a resident of Switzerland. If an agent or nominee is required to withhold any additional amount, they must remit it to the Federal Tax Administration of Switzerland, which will send the remittance to the Canadian tax authorities.
+
+### Elective dividend service
+
+**¶ 31.** Tax is not withheld on interest, dividend or trust income payments made to CDS Clearing and Depository Services Inc. (CDS) on securities registered in the name of Cede & Co. Tax on these payments is withheld by CDS based on information it receives from the Depository Trust Company (DTC) and collected by DTC participants. The supporting information required is the same as outlined in paragraph 20 of this circular.
+
+## Amounts (other than pensions and annuities) subject to Part XIII tax
+
+The following paragraphs do not discuss all income types that are subject to Part XIII tax. To determine whether Part XIII of the Act (available at [Income Tax Act - justice.gc.ca](https://lois-laws.justice.gc.ca/eng/acts/I-3.3/)) applies to a payment, please refer to the relevant provisions of the Act and the appropriate articles of any relevant tax convention (available at [Tax treaties – canada.ca](https://www.canada.ca/en/department-finance/programs/tax-policy/tax-treaties.html)).
+
+### Interest
+
+**¶ 32.** Withholding is not required on interest payments to non-residents, with the exception of participating debt interest and interest paid to non-arm’s length persons that is not fully exempt [see paragraph 212(1)(b) of the Act]. Fully exempt interest and participating debt interest are defined in subsection 212(3) of the Act. Fully exempt interest generally includes interest paid:
+
+- on debt of or guaranteed by the Government of Canada or the government of a province, territory or municipality
+
+- on debt secured by real property situated outside of Canada
+
+- to a prescribed international organization (see regulation 806 of the Act)
+
+- under a securities lending agreement to which the provisions of subparagraph 260(8)(c)(i) of the Act apply and entered into by a borrower carrying on business outside of Canada
+
+**¶ 33.** Participating debt interest is interest that is contingent upon or calculated with reference to revenue, profit, cash flow, commodity price or any other similar criterion.
+
+**¶ 34.** Although the payer may not be required to withhold tax on certain interest payments, they must still follow the reporting requirements. See paragraph 9 above for more information.
+
+### Dividends
+
+**¶ 35.** Under subsection 212(2) of the Act, Canadian resident corporations must withhold 25% on payments to non-residents for taxable dividends (except for capital gains dividends) and capital dividends. However, the withholding rates on dividend payments to non-residents are commonly reduced by tax conventions. A further reduction is often available when the beneficial owner of the shares is a company that owns or controls a certain equity percentage of the payer company (for example, when the beneficial owner is a parent company). For information about these reductions, see the appropriate article governing dividends in the relevant tax convention.
+
+### Trust distributions
+
+**¶ 36.** Under subsection 212(11) of the Act, when a trust or estate pays or credits an amount to a non-resident beneficiary, that amount is deemed, for the purpose of paragraph 212(1)(c), to be paid or credited as trust income, regardless of the source from which the trust or estate derived it. For example, interest income that may be tax‑exempt under paragraph 212(1)(b) but is paid to a trust and then paid out to a non-resident will be taxable as trust income, which has a 25% withholding tax rate. Similarly, dividends paid to a trust and then distributed to a non‑resident beneficiary will be taxable as trust income. A lower withholding tax rate may apply to amounts that a trust or estate paid or credited to a non-resident beneficiary **only** if a tax convention specifically provides for this reduction.
+
+**¶ 37.** However, if a non-resident payee is deemed to have received a taxable dividend from a specified investment flow-through (SIFT) trust (under subsection 104(16) of the Act), the amount is considered to be dividend income of the payee for the purposes of withholding tax. An applicable tax treaty may provide for a lower withholding tax rate on this dividend income.
+
+**¶ 38.** Estate or trust income identified in paragraph 212(1)(c) of the Act does not apply to certain amounts deemed under subsection 104(21) to be a taxable capital gain.
+
+**¶ 39.** Under Part XIII.2 of the Act, a 15% withholding tax applies to assessable distributions paid or credited to a non‑resident investor of a Canadian property mutual fund investment (as defined in section 218.3 of the Act), which are not subject to tax under Part I or Part XIII. Because this 15% withholding tax is provided for in the Act rather than in a tax convention, there is no need to obtain Form NR301 for such a payment.
+
+### Rents, royalties or similar payments
+
+**¶ 40.** Payments for rents, royalties or similar amounts are subject to withholding tax under the Act. A withholding tax applies to payments made for the use of, or the right to use, the following in Canada: any property, invention, trade‑name, patent, trade‑mark, design or model, plan, secret formula, process or other thing whatever. A withholding tax also applies to certain payments for information concerning industrial, commercial or scientific experience. These withholding taxes apply whether or not the payments are rents, royalties or similar payments. In addition, certain payments for services of an industrial, commercial or scientific character are subject to withholding tax under the Act.
+
+Subsection 212(13) of the Act imposes withholding tax on payments made by non-residents to non-residents for property located in Canada, by deeming the payer to be resident in Canada.
+
+**¶ 41.** Under subparagraph 212(1)(d)(vi) of the Act, paragraph 212(1)(d) does not apply to payments for a copyright for any literary, dramatic, musical or artistic work. However, subsection 212(5) of the Act provides that the following is subject to withholding: any amount paid or credited to a non‑resident person as, on account or in lieu of payment of, or in satisfaction of, payment for a right in or to the use of a motion picture film or a film, videotape or other means of reproduction for use in connection with television (other than in connection with and part of a news program produced in Canada) that has been or is to be used or reproduced in Canada.
+
+As a result, the use of the copyright in the works described in subsection 212(5) of the Act, is subject to withholding tax.
+
+**¶ 42.** Some tax conventions further expand the scope of subsection 212(5) by removing one or more conditions mentioned above. For example, the convention with Belgium does not require the production/reproduction to be used or produced in Canada for the taxpayer to benefit from this subsection.
+
+**¶ 43.** If the 25% tax in Part XIII of the Act applies to a payment to a non-resident for the use of, or right to use, computer software in Canada, and the payment is made to a resident of a country with which Canada has an income tax convention, the 25% tax may be reduced based on the royalty article of the particular convention.
+
+Generally, such a payment to a non-resident of Canada is considered a “royalty” by a particular income tax convention only if the definition of the term ‘royalty’ meets at least one of these conditions:
+
+- it specifically includes payments for the use of computer software
+
+- it includes payments for the use of or the right to use “other intangible property,” “other like property,” or a similar phrase
+
+A reduced withholding rate specified in a royalty article will apply if the payment for the use of or the right to use computer software is a “royalty” and there is no specific computer software exception stated elsewhere in the particular convention or protocol. If the payment is not a “royalty,” then the payment may be tax-exempt in Canada if it falls within the business profits article of the particular income tax convention and was not earned through a “permanent establishment” situated in Canada.
+
+See [Interpretation Bulletin IT303, Know-How and Similar Payments to Non-Residents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it303.html), for more information.
+
+**¶ 44.** Refer to the royalty article of the applicable tax convention, as a variety of reductions and exemptions may apply to royalties.
+
+**¶ 45.** Immoveable property: Any payment for the use of or the right to use real or immovable property, including natural resources in Canada and timber royalties, is subject to the full 25% withholding tax. As of the date of this information circular, there were no tax conventions that reduce the withholding tax on such a payment. However, similar to section 217 of the Act (see paragraph 70 in this circular), a non-resident may elect to file a Canadian income tax return under section 216 and pay tax on the net income from certain rent and timber royalties at the same rates as residents of Canada. For more information, see [Interpretation Bulletin IT393, Election re Tax on Rents and Timber Royalties Non‑Residents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it393r2/archived-election-tax-on-rents-timber-royalties-non-residents.html).
+
+### Payments for acting services
+
+**¶ 46.** Payments for acting services (including residuals or contingent compensation paid to the actor) are not included in payments in respect of motion pictures and works on film, videotape or other means of reproduction for use in connection with television. Payments for acting services fall under the “Artistes and Athletes” or similarly named article of the tax convention.
+
+**¶ 47.** Under Part XIII of the Act, every person who is a non-resident individual who is an actor or that is a corporation related to such an individual (for example, a “star corporation”) shall pay an income tax of 23% on amounts paid, credited or provided as a benefit to or on behalf of the individual for providing in Canada the acting services of the actor in a film or video production.
+
+However, the non-resident may be able to reduce their final taxes paid by electing under section 216.1 to file a Canadian income tax return and be taxed on net acting services income. If the non‑resident makes this election, they may also request a reduction of the withholding tax by using one of these forms:
+
+- [Form T1287, Application by a Non-Resident of Canada (Individual) for a Reduction in the Amount of Non-Resident Tax Required to be Withheld on Income Earned From Acting in a Film or Video Production](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1287.html)
+
+- [Form T1288, Application by a Non-Resident of Canada (Corporation) for a Reduction in the Amount of Non-Resident Tax Required to be Withheld on Income Earned From Acting in a Film or Video Production](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1288.html)
+
+**¶ 48.** For details, see subsections 212(5.1) to (5.3) and section 216.1 of the Act or go to [Film and media tax credits - Canada.ca](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/film-media-tax-credits.html).
+
+### Management fees
+
+**¶ 49.** Under Part XIII of the Act, management or administration fees or charges are subject to a 25% withholding tax. Subsection 212(4) lists the amounts that are not included as management or administration fees or charges under this Part. However, under most conventions, the business profits provisions are considered to encompass reasonable management fees and exempt them from Part XIII withholding tax, unless a specific article or provision provides otherwise. See the current version of [Interpretation Bulletin IT468, Management or Administration Fees Paid to Non‑Residents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it468r.html), for the CRA’s views on what constitutes a management or administration fee or charge.
+
+**¶ 50.** For information on transfer pricing rules with respect to transactions between related parties, go to [Transfer pricing - Canada.ca](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/transfer-pricing.html).
+
+### Interest, dividends and trust distributions payable to a non‑resident agent or nominee
+
+**¶ 51.** Canadian payers and disbursing or withholding agents are required to withhold 25% tax on taxable payments that are subject to Part XIII tax and made to non-resident agents or nominees/financial intermediaries located in foreign countries. A reduced tax rate under an applicable tax convention between Canada and the beneficial owner’s country of residence should be applied only if, before making payments, the Canadian payer or withholding agent has received documents from the non-resident agent or nominee that certifies beneficial ownership, country of residence and eligibility for treaty benefits.
+
+When:
+
+- (a) a taxable amount of interest, a dividend or a trust distribution is paid to a person in a country with which Canada has a tax convention, and
+
+- (b) a non-resident agent or nominee of the beneficial owner of the amount provides financial intermediary services as part of their business,
+
+the payer will use information they receive from the agent or nominee to determine whether to apply the withholding rates indicated in Part XIII or the rates given in the appropriate tax convention. Refer to the Act to check whether an interest amount or trust distribution paid or credited to a non-resident is taxable. It is understood that only the entity who directly pays the beneficial owner will have the address and identification information of the beneficial owner. The Canadian intermediary will receive pooled information only, in the form of an agent or nominee certificate as described in paragraph 56 of this circular.
+
+**¶ 52.** If an agent or nominee receives interest, dividends or distributions from a trust subject to Part XIII tax for more than one beneficial owner in respect of a particular debt issue of a resident of Canada, the tax rate has to be determined. If any of the beneficial owners are residents of a country with which Canada has a tax convention, and they are eligible for treaty rights, it is acceptable to calculate the tax by determining the payment portion that they beneficially own.
+
+The payment portion that is beneficially owned by residents of countries with which Canada does not have a tax convention or by residents who are not eligible for treaty benefits will be subject to the statutory Part XIII withholding rates. It is recommended that the beneficial owner or payee use the applicable form NR301, NR302 or NR303 or provide the information requested in these forms (see above for exceptions, beginning paragraph 26) to the agent or nominee, who will then prepare its own certification as outlined below to give the payer. See paragraph 58 below.
+
+#### Dividends
+
+**¶ 53.** If an agent or nominee receives dividends subject to Part XIII tax for more than one beneficial owner for a particular class of shares of a corporation resident in Canada, the dividends may be segregated into groups. One or more of the groups will consist of dividends beneficially owned by residents of countries with which Canada has a tax convention and who are eligible for treaty benefits that reduce the Canadian tax rate. The statutory Part XIII withholding rates will apply to the remainder of the dividends beneficially owned by residents of countries with which Canada does not have a tax convention or who are not eligible for treaty benefits. It is recommended that the beneficial owner or payee use the applicable form NR301, NR302 or NR303, or provide the information requested in these forms (see above for exceptions, beginning paragraph 26) to the agent or nominee, who will then provide its own certification to the payer, as outlined below.
+
+#### Trust distributions
+
+**¶ 54.** If an agent or nominee receives a trust distribution subject to Part XIII tax for more than one beneficial owner, the withholding tax rate has to be determined. It will be acceptable to calculate the tax by determining the portion of the distribution beneficially owned by residents of the countries with which Canada has a tax convention and who are eligible for treaty benefits. The statutory Part XIII withholding rates will apply to the portion of the distribution that is beneficially owned by residents of the countries with which Canada does not have a tax convention or who are not eligible for treaty benefits. It is recommended that the beneficial owner or payee use the applicable form NR301, NR302 or NR303 or provide the information requested in these forms (see above for exceptions) to the agent or nominee, who will then prepare its own certification as outlined below to provide to the payer. See paragraph 38 about income type.
+
+**¶ 55.** These procedures should let the non-resident agent or nominee advise the payer, on a timely basis, about the payment portion subject to preferential tax rates. This will allow the payer to determine the correct amount of tax to withhold from a particular payment. The agent or nominee must initially give this information to the payer in the form of a certification (see paragraph 58) for each payment. However, for subsequent payments, a replacement certificate is required only when there has been a change, except for the amount to be paid or credited, that would affect the amount of Canadian tax to be withheld.
+
+### Certifications by agents or nominees
+
+**¶ 56.** Agents or nominees should send certifications to the payer to permit the withholding of tax at the lower treaty rate.
+
+They can use this format, which shows the basic information that must be provided:
+
+. CERTIFICATION WITH RESPECT TO CANADIAN NON-RESIDENT WITHHOLDING TAX, BY A PERSON WHO IS AN AGENT OR NOMINEE PROVIDING FINANCIAL INTERMEDIARY SERVICE AS PART OF A BUSINESS
+
+. TO: _________(payer)
+
+. ABOUT: ______________(description of property)
+
+. I/We ___________________ (name of agent, nominee or registered holder) hereby certify that the income from all of the property described above, which is registered or to be registered in my/our name, is and will continue to be held solely on behalf of beneficial owners entitled to claim tax treaty benefits under a tax convention that provides for a Canadian withholding tax rate of __% on amounts paid or credited in respect of such property.
+
+. I/We will replace this certificate if there is a change in the country of residence or holdings that affect the withholding requirements for a subsequent payment.
+
+. I/We also undertake to give the Canada Revenue Agency, upon request, any information they need to verify the accuracy of the information contained in this certificate.
+
+. Dated _______, 20___ .
+
+. _____________________________________________ (Authorized signature of agent, nominee or registered holder)
+
+Documents that the CRA may require include, among others:
+
+- form NR301, NR302 or NR303
+
+- the information requested on these forms received from the beneficial owners or payees
+
+- a letter of exemption or exemption number issued by the CRA
+
+- other supporting information for beneficial owners who are individuals for which the CRA provides guidance at [canada.ca/en/revenue-agency/services/tax/international-non-residents/payments-non-residents/nr4-part-xiii-tax/part-xiii-withholding-tax/beneficial-ownership-tax-treaty-benefits](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/payments-non-residents/nr4-part-xiii-tax/part-xiii-withholding-tax/beneficial-ownership-tax-treaty-benefits.html)
+
+- agent/nominee certifications from a payee who is an agent or nominee providing financial intermediary services as part of a business (for clients who are financial intermediaries)
+
+### Limitation of relief
+
+**¶ 57.** Some tax conventions contain an overriding provision that limits the reduction or elimination of tax provided for elsewhere in the convention. If a convention includes a limitation of relief provision, the payer must apply that provision before reducing the withholding tax on any payment made to the non-resident person.
+
+**¶ 58.** For example, if the laws of another country require that income is taxed based on the amount remitted to or received in that country, rather than the full amount of the income, then any exemption or reduction of tax in Canada under a tax convention with a limitation of relief provision, will generally apply only to the income that is remitted to or received in that other country.
+
+**¶ 59.** For example, CanCo pays a $10,000 dividend to Mr. U. K., a resident of the United Kingdom. Mr. U. K. asks for the dividend to be deposited into his Canadian bank account. The tax convention with the UK normally allows for a withholding rate of 15% of the dividend paid. However, because the dividend is not remitted to the UK, CanCo must withhold 25% of the dividend amount.
+
+**¶ 60.** In tax conventions with a limitation of relief provision, the provision is normally found under an article on miscellaneous rules or an article entitled “Limitation of Relief” or “Limitation on Benefits.”
+
+## Pensions and annuities subject to Part XIII tax
+
+**See the Part XIII tax calculator or the tax treaty for withholding rates on pensions and annuities (see paragraph 70 for links).**
+
+### Pensions and annuities
+
+**¶ 61.** The Act provides for a withholding tax of 25% on Canadian pension benefits paid to non‑residents of Canada. Specific exceptions are noted in paragraph 212(1)(h) of the Act. The rate of withholding tax may be reduced or eliminated by a tax convention between Canada and the individual’s country of residence.
+
+**¶ 62.** The following information may help you to determine if a tax convention includes a provision for a reduced tax rate or exemption:
+
+(a) **Pension:** Pursuant to section 5 of the Income Tax Conventions Interpretation Act (ITCIA),
+
+1. If a tax convention does not include a definition of pension, pension means any payment under any plan, arrangement or contract that is any of the following:
+
+    - (a) a registered pension plan
+
+    - (b) a registered retirement savings plan (RRSP)
+
+    - (c) a registered retirement income fund (RRIF)
+
+    - (d) a registered compensation arrangement
+
+    - (e) a deferred profit sharing plan
+
+    - (f) a plan that is deemed by subsection 147(15) of the Act not to be a deferred profit sharing plan
+
+    - (g) an annuity contract purchased under a plan referred to in (e) or (f) above
+
+    - (h) an annuity contract where the amount paid by or on behalf of an individual to acquire the contract was deductible under paragraph 60(l) of the Act in calculating the individual’s income for any tax year (or would have been so deductible if the individual had been resident in Canada)
+
+    - (i) a superannuation, pension or retirement plan not otherwise referred to above
+
+    - According to this definition, pension includes payments under a RRIF, RRSP, etc., and payments under an annuity described in subparagraph 60(l)(ii) of the Act (that is, RRSP annuity payments as referred to in (h) above). Item (i) above refers to payments made under “a superannuation, pension or retirement plan not otherwise referred to,” and would include such social security benefits as a pension, supplement or spouse’s allowance paid under the Old Age Security Act (OAS) or any benefit paid under the Canada Pension Plan Act (CPP) as described in clause 56(1)(a)(i)(A) and (B) of the Act, respectively, or in a comparable provision of the Quebec Pension Plan Act (QPP).
+
+2. For tax conventions that include a definition of pension, a pension payment is any payment that qualifies as a pension in accordance with the definition in the convention, in addition to all periodic pension payments listed above in paragraph 62(a)(1) [other than social security benefits, that is, CPP, QPP and OAS payments].
+
+(b) **Periodic pension payments:** This expression is also defined in section 5 of the ITCIA to mean any pension payment under a plan, arrangement or contract listed above in paragraph 62(a)(1), other than the following payments:
+
+- a lump-sum payment or payment that can reasonably be considered to be an instalment of a lump sum amount under a registered pension plan
+
+- RRSP payments before maturity, or full or partial commutation payments
+
+- certain RRIF payments as determined under (c) of the definition of “periodic pension payment” in section 5 of the ITCIA
+
+- certain payments from other plans as determined under (d) of the definition of “periodic pension payment” in section 5 of the ITCIA
+
+(c) **Annuity:** Under section 5 of the ITCIA, this term excludes any pension payment or a payment under a plan, arrangement or contract described above in paragraph 62(a)(1) arising in Canada.
+
+(d) **Canada Pension Plan (CPP) or Quebec Pension Plan (QPP):** For the purpose of tax conventions, CPP or QPP payments (that is, social security payments) are considered to be pensions. However, CPP or QPP death benefits are considered to be lump-sum payments for purposes of the conventions.
+
+(e) **Old Age Security Act (OAS):** This refers to the pension, supplement and spouse’s allowance payments covered under the OAS Act. For purposes of tax conventions, OAS payments (that is, social security payments) are considered as pensions, but not as pensions that are payments for past service or past employment.
+
+There is no withholding tax on “net federal supplements” (such as guaranteed income supplement and spouse’s allowance), because these amounts are tax-exempt in Canada.
+
+**¶ 63.** If a tax convention contains a pension article that exempts part of periodic pension payments from a withholding tax, the exemption is generally described as a fixed amount in Canadian dollars and its equivalent in the relevant non-resident payee’s currency. Canadian payers shall withhold Part XIII tax from the periodic pension amounts paid in excess of the Canadian dollar threshold.
+
+**¶ 64.** The amount of an annuity or an IAAC payment subject to Part XIII tax is determined under paragraph 212(1)(n) or 212(1)(o) of the Act.
+
+**¶ 65.** In some tax conventions, the specified tax rate for pension (including CPP, QPP and OAS) payments may be reduced to the tax rate that would be payable under Part I of the Act for these payments in a particular year if the recipient had been a resident of Canada for the year. In most cases, this reduced tax will be the same as the tax calculated under the section 217 election (see paragraph 70 of this circular). However, in limited circumstances, this reduced tax may lessen the tax liability. To benefit from this reduced tax or to claim a tax refund, the non‑resident taxpayer must file a Part I income tax return.
+
+**¶ 66.** Generally, war pensions and allowances (including pensions and allowances paid to war veterans or paid as a consequence of damages or injuries suffered as the result of a war) are exempt from non-resident tax in Canada to the extent that both countries exempt them for their own residents. Some conventions expand the scope of this exemption by removing one or more conditions mentioned above. For example, the convention with Croatia does not require the pension to be exempt from tax if received by a resident of Canada. See the applicable convention for full details of any exemptions.
+
+**¶ 67.** No Part XIII tax has be withheld on certain pension amounts that payers transfer directly to a registered pension plan, registered retirement savings plan or registered retirement income fund of a non‑resident (Form NRTA1, Authorization for Non-Resident Tax Exemption). For more information about this provision, see the information provided on the current version of the form.
+
+### Election to file an income tax return: pensions and annuities
+
+**¶ 68.** Under section 217 of the Act, a non‑resident may elect to file a Canadian income tax return to report pension benefits and similar types of income from Canada. If they elect to do this, they must file within six months of the end of the year in which they receive Canadian benefits.
+
+This lets the non‑resident claim certain non‑refundable tax credits and pay tax on that income at the same rates that apply to residents of Canada. The non‑resident can claim the tax withheld from the elective income as a tax credit on their Canadian income tax return. If an individual makes an election under section 217, and the tax calculated on the return is less than the tax withheld, the CRA will refund the excess. For more information, see Pamphlet [T4145, Electing Under Section 217 of the Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4145.html).
+
+**¶ 69.** A non‑resident may also apply to reduce the amount of tax withheld on pension and similar types of income they receive from Canada. To make this application, they must submit Form NR5, Application by a Non-Resident of Canada for a Reduction in the Amount of Non-Resident Tax Required to be Withheld for Tax Year.
+
+The information on Form NR5 lets the CRA determine if the non-resident will benefit from making an election under section 217 of the Act. If the CRA approves the NR5 application, it will advise the payer to reduce the withholding rate for the next five years (see paragraph 27 of this circular). If non‑resident tax is reduced based on Form NR5, the non‑resident must file a Canadian income tax return for each applicable year or period, within six months of the end of the tax year in which they received the income. For more information, go to [Form NR5 - 5-year Administrative Policy - Canada.ca](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/competent-authority-agreements-notices/form-nr5-5-year-administrative-policy.html).
+
+## Need more information?
+
+**¶ 70.** The Income Tax Act is available on the Department of Justice website at [http://lois-laws.justice.gc.ca/eng/acts/I-3.3/](http://lois-laws.justice.gc.ca/eng/acts/I-3.3/).
+
+The CRA Part XIII Tax Calculator provides current withholding tax information. Go to [canada.ca/en/revenue-agency/services/e-services/non-resident-tax-calculator-disclaimer](https://www.canada.ca/en/revenue-agency/services/e-services/non-resident-tax-calculator-disclaimer.html).
+
+To read specific tax treaties or to find historical information, the current status of a convention or the effective date, refer to the Department of Finance Canada tax convention information at [canada.ca/en/department-finance/programs/tax-policy/tax-treaties](https://www.canada.ca/en/department-finance/programs/tax-policy/tax-treaties.html).
+
+Important notices about tax treaties are posted under Competent Authority Agreements and Notices at [canada.ca/en/revenue-agency/services/tax/international-non-residents/competent-authority-agreements-notices](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/competent-authority-agreements-notices.html)
+
+For information on remitting, reporting and other Part XIII tax topics, refer to:
+
+- “NR4 and Part XIII tax” at [canada.ca/en/revenue-agency/services/tax/international-non-residents/payments-non-residents/nr4-part-xiii-tax](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/payments-non-residents/nr4-part-xiii-tax.html)
+
+- Non‑Resident Income Tax, and Guide T4061, NR4 - Non-Resident Tax Withholding, Remitting, and Reporting at: [canada.ca/en/revenue-agency/services/forms-publications/publications/t4061](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4061.html)
+
+For more information on withholding tax rates, contact the CRA’s International tax and non-resident enquiries at [canada.ca/en/revenue-agency/corporate/contact-information/international-tax-non-resident-enquiries](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html)

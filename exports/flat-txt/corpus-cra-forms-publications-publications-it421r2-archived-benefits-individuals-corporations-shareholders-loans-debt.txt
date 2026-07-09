@@ -1,0 +1,271 @@
+Title: ARCHIVED - Benefits to individuals, corporations and shareholders from loans or debt
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it421r2/archived-benefits-individuals-corporations-shareholders-loans-debt.html
+Corpus path: corpus/cra/forms-publications/publications/it421r2/archived-benefits-individuals-corporations-shareholders-loans-debt.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Benefits to individuals, corporations and shareholders from loans or debt
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO.: **IT-421R2**
+
+DATE: September 9, 1992
+
+SUBJECT: INCOME TAX ACT**Benefits to individuals, corporations and shareholders from loans or debt**
+
+REFERENCE: Sections 80.4 and 80.5 (also subsections 2(3), 4(4), 6(9), 6(15), 15(1), 15(1.2), 15(2), 15(9), 110(1.4), 115(1), 212(2), the definitions of "home relocation loan" and "specified shareholder" in subsection 248(1), paragraphs 6(1)(a), 8(1)(f), 8(1)(h), 8(1)(h.1), 12(1)(w), 20(1)(c), 110(1)(j), 125(7)(d), 214(3)(a), subparagraph 8(1)(j)(i) of the Act, and sections 4300 and 4301 and subsection 200(2) of the Regulations).
+
+**Notice to the reader:**
+
+- [Bulletins do not have the force of law](https://www.canada.ca/formspubs/pbs/tntc-eng.html).
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it421r2.html), including PDF (which is an exact rendition of the original).
+
+## APPLICATION
+
+This bulletin cancels and replaces Interpretation Bulletin IT-421R dated July 9, 1984.
+
+## SUMMARY
+
+This bulletin discusses the taxation of benefits arising from certain interest-free or low-interest loans or debts. The Act sets out a formula and various other rules for the calculation and inclusion in income of taxable benefits that may be deemed to have been received as a result of receiving loans or incurring debts that effectively bear less than a prescribed rate of interest. Subject to certain exceptions, these deemed benefit provisions are applicable if the loan or debt is received by virtue of an office or employment of an individual, by virtue of the services provided by the personal services business of a corporation or by virtue of shareholdings in a corporation. The bulletin explains the characteristics of various types of loans and debts and the differences in tax treatment, such as the manner and circumstances in which the benefits under these provisions may be deductible as interest expenses, and the distinction between loans received by virtue of shareholdings and those received by virtue of employment. It also explains the special rules that apply to loans or debts for the purpose of relocating or purchasing a home.
+
+## DISCUSSION AND INTERPRETATION
+
+### BENEFITS TO EMPLOYEES
+
+1. Subsection 80.4(1) applies in certain circumstances to deem a benefit to have been received by an individual if, by virtue of the office or employment or the future office or employment of that individual, any person or partnership receives a loan or otherwise incurs a debt. Subsection 80.4(1) can similarly apply to deem a benefit to have been received by a corporation carrying on a "personal services business", as defined in paragraph 125(7)(d), if any person or partnership receives a loan or otherwise incurs a debt by virtue of the services performed or to be performed by that corporation. (In this bulletin, both such an individual and such a corporation are referred to as an "employee".) Subsection 80.4(1) is also considered to apply if a retired employee receives a loan from a former employer pursuant to an agreement entered into while the retired employee was still employed by that former employer. Since subsection 80.4(1) applies to a loan received or debt incurred by any person or partnership, the debtor could include not only the employee but any other individual, corporation or partnership, for example, an employee's spouse. Similarly, the loan or indebtedness may be provided by any person or partnership and does not necessarily have to be provided by the employer or intended employer of the individual or by the party for whom the corporation performed or will perform the personal services (all of the above are referred to in this bulletin as the "employer"). For example, as discussed in 4 below, subsection 80.4(1) may apply if the employer arranges to guarantee or pay some portion of the interest payable on a loan made by a bank or other commercial lender to or on behalf of the employee or some other person. It is, however, essential that the loan or indebtedness be attributable to the employment or intended employment of the individual, or the performance or future performance of services by the corporation, in order for subsection 80.4(1) to apply.
+
+Note: The draft Amendments to the Income Tax Act and Related Statutes issued by Minister of Finance on December 20, 1991 contain an amendment to subsection 80.4(1). If this amendment is enacted as proposed, it will clarify for taxation years commencing after 1991 that subsection 80.4(1) also applies if a loan is received or a debt is incurred by reason of or as a consequence of a previous office or employment, as well as the current or an intended office or employment.
+
+### 80.4(1) CALCULATION
+
+2. Except where subsection 80.4(4) applies (see 17 below regarding home purchase loans and home relocation loans), the benefit in respect of a loan or debt described in subsection 80.4(1) is the amount by which the aggregate of
+
+(a) interest calculated at the prescribed rate(s) (see 12 below) for the year, on the total of all such loans and debts outstanding during the year, and
+
+(b) the aggregate of all interest paid or payable in respect of the year on the loans or debts by any of the following persons:
+
+(i) the employer or intended employer of the individual,
+
+(ii) any person (except the debtor) related to the employer,
+
+(iii) a person or partnership which is, or will be, the recipient of services performed or to be performed by a corporation carrying on a personal services business, or
+
+(iv) a person (except the debtor) that does not deal at arm's length with the person or any member of the partnership referred to in (iii) above, exceeds the aggregate of
+
+(c) any interest for the year paid by any person or partnership in the year or within 30 days thereafter on any such loans or debts, and
+
+(d) any portion of an amount described in (b) above in respect of the year that is reimbursed in the year or within 30 days thereafter by the debtor to a person or entity described in (b) above who made the payment.
+
+EXAMPLE
+
+3. The following example illustrates the calculation of a benefit under subsection 80.4(1) in 1990 for an employee on a $100,000 loan from his or her employer. The prescribed rate is 13% for the first two quarters in the year and 14% for the last two quarters. Assume that within the year or 30 days thereafter $5,000 of interest was paid on the loan by the employee and that a company related to the employer paid $3,000 of interest on the loan on behalf of the employee in that period. Also, within the year the employee repaid $2,000 to the company that paid the $3,000.
+
+(a) Prescribed rate multiplied by the loan amount for the period in the year
+
+(i) 13% multiplied by $100,000 multiplied by 2 divided by 4 = 6,500
+
+(ii) 14% multiplied by $100,000 multiplied by 2 divided by 4 = 7,000 (6,500 + 7,000)
+
+= $13,500
+
+PLUS
+
+(b) Amounts paid by related company 3,000
+
+Subtotal = 16,500
+
+Less
+
+(c) Amounts of interest paid ($5,000 + $3,000) = 8,000
+
+(d) Amount repaid by employee 2,000 (8,000 + 2,000) = 10,000
+
+Benefit to Employee ($16,500 minus 10,000) = $6,500
+
+### LOANS FROM THIRD PARTIES
+
+4. It is always a question of fact whether a loan received or a debt otherwise incurred by an employee from someone other than the employer is received "by virtue of the office or employment" for purposes of subsection 80.4(1). Where a loan is being negotiated and the employer provides documentation to the lender to support the employee's loan application, such loans will generally be considered to have been received "by virtue of the office or employment". Under these circumstances, if an amount is paid to the lender by the employer in order to subsidize interest costs or by the employer to the employee as a reimbursement of interest paid, such arrangements will not exclude the loan from the provisions of section 80.4. On the other hand, if an employee negotiates with the third party without any involvement in the loan agreement by the employer or a person related to the employer, the fact that the employer or a related party may at some subsequent date directly or indirectly subsidize the employee's interest cost will not cause the loan to be considered to be received "by virtue of the office or employment". In such a situation, any benefit enjoyed by the employee as a result of the subsidization of the interest costs would be included in income by virtue of paragraph 6(1)(a). Once it is established under which section the benefit is to be included in income, subsection 4(4) precludes its inclusion in income under another section.
+
+### LOANS TO TRANSFERRED EMPLOYEES
+
+5. Employees may receive low interest or interest-free loans when they are transferred by their employer to a new location. The transfer may have been initiated due to matters of labour relations or because the employee accepted the transfer in order to retain his or her position of employment. If a loan is received by virtue of an office or employment of a transferred employee, the taxable benefit arising from the loan would be calculated pursuant to subsection 80.4(1).
+
+### BENEFITS ARISING BY VIRTUE OF SHAREHOLDINGS
+
+6. Subsection 80.4(2) deals with benefits arising from loans received or debts incurred by virtue of shareholdings. Specifically, that subsection deems a benefit to have been received in the following circumstances:
+
+(a) a loan is received or a debt is incurred by a person or a partnership (other than by a corporation resident in Canada or by a partnership of which each partner is a corporation resident in Canada);
+
+(b) the person or partnership described above is
+
+(i) a shareholder of a corporation,
+
+(ii) connected with a shareholder of a corporation, or
+
+(iii) a member of a partnership, or a beneficiary of a trust, that was a shareholder of a corporation, and
+
+(c) by virtue of the shareholdings described in (b) above, the person or partnership received a loan from or otherwise incurred a debt to the corporation, or to a related corporation, or to a partnership of which that corporation or any related corporation was a member.
+
+Where these conditions are met, the person or partnership is considered to have received a benefit in the taxation year equal to the amount, if any, by which
+
+(d) interest on each loan and debt computed at the prescribed rate for the period in the year during which it was outstanding exceeds (e) the interest for the year paid by any party on each such loan and debt in the year or within 30 days thereafter.
+
+The following example illustrates the calculation of a benefit under subsection 80.4(2) in 1990 for a shareholder who borrows $100,000 from the corporation and receives the loan by virtue of his shareholding. The prescribed rate is 13% for the first two quarters in the year and 14% for the last two quarters. The loan was made on January 1, 1990, and there were no loan repayments. The shareholder paid interest of $3,000 during 1990 and $2,500 on January 10, 1991.
+
+The benefit under subsection 80.4(2) is:
+
+$100,000 multiplied by 13% multiplied by 2 divided by 4 = 6,500
+
+$100,000 multiplied by 14% multiplied by 2 divided by 4 = 7,000 (6,500 + 7,000)
+
+= $13,500
+
+less interest paid $5,500
+
+Taxable benefit $8,000
+
+7. Subsection 80.4(8) provides that a person is "connected with a shareholder" of a corporation if that person does not deal at arm's length with the shareholder. The preceding statement does not apply if the person who does not deal at arm's length with the shareholder of the corporation is:
+
+(a) a foreign affiliate of the corporation or
+
+(b) a foreign affiliate of a resident of Canada with which the corporation does not deal at arm's length.
+
+Where, by virtue of shareholdings in a particular corporation, a shareholder of that corporation receives a loan from or otherwise becomes indebted to a related corporation and the particular corporation pays interest at the prescribed rate to the related corporation, no taxable benefit arises under subsection 80.4(2). However, in such cases, a benefit arises under subsection 15(1) because the particular corporation has paid a debt on behalf of the shareholder.
+
+### SUBSEQUENT CHANGES IN RELATIONSHIPS OR CONDITIONS
+
+8. Once a loan or other indebtedness becomes subject to the provisions of section 80.4, as described above, it remains subject to those provisions for all taxation years as long as any part of it remains unpaid. Thus, where the initial indebtedness arose by virtue of the employment of an individual, the performance of service by a corporation carrying on a personal services business or the shareholdings of a shareholder, or a person connected with a shareholder, section 80.4 will continue to apply even if the relationships or conditions described above subsequently change. For instance, if a loan was received by reason of employment, section 80.4 would continue to apply to the outstanding balance of the loan even after the resignation, dismissal or retirement of the employee. A loan received by reason of shareholdings can continue to be subject to section 80.4 even if the recipient of the loan is no longer a shareholder.
+
+### INCLUSION IN INCOME OF BENEFITS CALCULATED UNDER SECTION 80.4
+
+9. A benefit calculated under the provisions of section 80.4 is brought into the income of an individual, partnership, corporation or shareholder, as the case may be, pursuant to the following provisions:
+
+(a) Subsection 80.4(1) benefits:
+
+(i) under subsection 6(9) in the case of an individual,
+
+(ii) under paragraph 12(1)(w) in the case of a corporation that carries on a personal services business as described in paragraph 125(7)(d), and
+
+(iii) under subsection 15(9) in the case of a person or partnership, where subsection 6(9) or paragraph 12(1)(w) does not require the amount to be included in income.
+
+(b) Subsection 80.4(2) benefits, under subsection 15(9).
+
+### EXCEPTIONS TO APPLICATION OF SUBSECTIONS 80.4(1) AND (2)
+
+10. General exceptions to the application of subsections 80.4(1) and (2) are provided by subsection 80.4(3). First, paragraph 80.4(3)(a) provides that neither subsection 80.4(1) nor (2) applies if, having regard to all the circumstances (including the terms and conditions of the loan or debt), the interest rate on the loan or debt is equal to or greater than the rate that would have been agreed upon at the time the indebtedness arose between hypothetical parties dealing with each other at arm's length if
+
+(a) none of the hypothetical parties received the loan or incurred the debt by virtue of an office or employment or the shareholding of a person or partnership, and
+
+(b) the ordinary business of the hypothetical creditor included the lending of money.
+
+The above exception does not apply if any party, other than the debtor, made or was required to make any interest payments on the indebtedness.
+
+Second, paragraph 80.4(3)(b) provides that neither subsection 80.4(1) nor (2) applies if another provision of Part I of the Act brings the loan or debt into the income of the debtor. For example, neither subsection 80.4(1) nor (2) applies if subsection 15(2) has already brought the loan or debt into the taxpayer's income. However, an assessment under subsection 15(2) is not precluded even if the taxpayer has voluntarily declared a benefit under section 80.4. Subsection 15(2) has priority over section 80.4.
+
+### FORGIVEN LOANS
+
+11. Where a loan to an employee is partially or fully forgiven after February 17, 1987, the amount forgiven is income in the hands of the employee in accordance with subsection 6(15). However, paragraph 80.4(3)(b) would not apply so as to reduce any benefit included in the employee's income pursuant to subsection 80.4(1) in a prior year in respect of such a loan. In such prior year or years, no part of the loan would have been included in income and the employee would have enjoyed the use of the funds in those years. As an example, assume Mr. X, an employee of ABC Limited, receives an interest-free loan from his employer of $25,000 on January 1, 1987 by virtue of his employment. No principal repayments were made and the loan was settled in June, 1988 by a payment of $5,000. A benefit, calculated pursuant to subsection 80.4(1) on the full amount of the loan, would be included in Mr. X's 1987 income. Mr. X's 1988 income will include the amount forgiven of $20,000 pursuant to subsection 6(15), and a benefit computed under subsection 80.4(1) in respect of the $5,000 actually repaid, for the period this latter amount was outstanding in 1988. No benefit would be computed under section 80.4 for 1988 in respect of the amount forgiven, as a result of the application of paragraph 80.4(3)(b). However, this paragraph would not serve to reduce the 1987 benefit, as no part of the loan was included in Mr. X's income in 1987. Similarly, where a loan to a shareholder is forgiven, the forgiven amount is income in the shareholder's hands under subsection 15(1.2) in the year of forgiveness, but this would not reduce a benefit included in income for a previous year pursuant to subsection 80.4(2). (The foregoing assumes that subsection 15(2) did not earlier apply to the same loan.)
+
+### PRESCRIBED RATE OF INTEREST
+
+12. The "prescribed rate" for the purposes of section 80.4 is defined by paragraph 80.4(7)(b) and is determined in accordance with sections 4300 and 4301 of the Regulations. After 1983, the rate is determined quarterly by reference to the rate of interest on 90 day Government of Canada Treasury Bills.
+
+### LOANS TO SHAREHOLDER-EMPLOYEES
+
+13. The capacity in which a person or partnership receives a loan or otherwise incurs a debt is significant because that capacity determines whether any benefit is to be computed under subsection 80.4(1) as a result of an office or employment (see 1 above) or under subsection 80.4(2) as a result of shareholdings (see 6 above). If a person is both an employee and a shareholder, it is always a question of fact whether a particular indebtedness arose as a result of the person's shareholdings or as a result of the office or employment. Where subsection 80.4(1) applies, the benefit is always taxed in the hands of the employee even if some third party, such as the employee's spouse, is the actual debtor or recipient of the loan. On the other hand, benefits arising pursuant to subsection 80.4(2) are taxed in the hands of the actual debtor.
+
+### PERSONS FROM WHOM ACCOUNTS ARE OWING AND TO WHOM ACCOUNTS ARE DUE
+
+14. Where a shareholder or employee owes money to a corporation, a benefit may be calculated during the time the debt is outstanding. Generally, no netting or offsetting of any accounts "due to" or "due from" the shareholder or employee will be deemed or considered to have taken place so as to eliminate the calculation of a benefit during a particular period. It will only be after the actual cancellation of the liability by a payment or by an adjustment in the accounting records that such amount will no longer be subject to the calculation of a benefit under section 80.4.
+
+### LOANS REPAID BEFORE BORROWER'S YEAR-END
+
+15. There is no requirement that a loan be outstanding at the end of a borrower's taxation year before a deemed benefit under section 80.4 can arise in respect of that year. Loans or debts that are outstanding during only part of a taxpayer's taxation year can give rise to a benefit pursuant to section 80.4 for that portion of the year that the loan or debt is outstanding.
+
+### TRAVEL ADVANCES AND MERCHANDISE ACCOUNT BALANCES
+
+16. Reasonable travel advances to an employee (for travel on behalf of the employer) will not result in an interest benefit to the employee. Similarly, merchandise account balances that an employee has with the employer will not give rise to any interest benefit provided they are paid within the time limits normally allowed by the employer to customers in respect of interest- free accounts.
+
+### LIMIT ON TAXABLE BENEFIT FROM HOME PURCHASE LOANS AND HOME RELOCATION LOANS
+
+17. Subsection 80.4(4) establishes a ceiling on the amount of the benefit applicable to a "home purchase loan", or to a "home relocation loan". This subsection provides that the interest calculated on such a loan under paragraph 80.4(1)(a) must not exceed the amount determined by using the prescribed rate of interest in effect at the time the loan was received or the debt incurred. Subject to 18 below, this gives the taxpayer a guarantee that the benefit calculated under subsection 80.4(1) will not increase because the prescribed rate for a subsequent period increases. The taxpayer is also allowed the benefit of any lower rate if the prescribed rate later decreases below the prescribed rate in effect at the time the loan was received or the debt incurred. A person or partnership is considered to have received a loan or incurred a debt when the funds are advanced or the relevant documents are executed and the person or partnership becomes legally obligated to repay the loan or discharge the debt.
+
+18. For the purposes of calculating the benefit on a home purchase loan, or a home relocation loan, the interest rate ceiling described in 17 above is fixed for periods of up to five years. If the loan has a repayment term exceeding five years, subsection 80.4(6) provides that any balance outstanding on such a loan is deemed to be a new home purchase loan received on the date that is five years from the day on which the loan was received and on each five-year anniversary thereafter while the loan is outstanding. It should be noted, however, that the provisions of subsection 80.4(6) do not apply to either a home purchase loan or a home relocation loan which meets the conditions in paragraph 80.4(3)(a) (see 10 above). As an example, if a 25-year mortgage loan was granted to an employee at the market rate prevailing for 25-year mortgages with similar conditions at the time of receipt, this loan will not be subject to the five-year deeming rule because of the exemption contained in subsection 80.4(6) for loans described in paragraph 80.4(3)(a). In this situation the loan will continue to be excluded from any benefit calculation under section 80.4 until the expiration of its 25-year term. A demand loan in respect of which a demand for full payment has not been made within five years of its commencement is considered to have a term for repayment exceeding five years.
+
+### MEANING OF "HOME PURCHASE LOAN"
+
+19. The term "home purchase loan" is defined in paragraph 80.4(7)(a). An individual is considered to have received a home purchase loan if he or she received a loan or incurred a debt in the circumstances described in subsection 80.4(1) and any portion of that loan or debt was used to acquire, or to repay a loan or debt that had been incurred to acquire, a dwelling for the habitation of one of the people described below:
+
+(a) the individual by virtue of whose office or employment the loan was made or the indebtedness was incurred,
+
+(b) a specified shareholder, as defined in subsection 248(1), of the corporation whose services were the reason for the loan being made or the debt being incurred, or
+
+(c) a person related to a person described in (a) or (b) above.
+
+This definition of home purchase loan includes a loan used to repay a home purchase loan, and the assumption of an existing mortgage where the underlying debt would have qualified as a home purchase loan if it had been obtained directly rather than by assumption. The word "dwelling" includes a house, an apartment in a duplex or apartment building, a condominium, a cottage, a mobile home, a trailer or a houseboat. For 1985 and later years, the definition of "home purchase loan" also includes loans to acquire a share of the capital stock of a cooperative housing corporation. To qualify, the share must be acquired for the sole purpose of entitling the purchaser of the share or a related person to inhabit a dwelling owned by the cooperative housing corporation.
+
+### MEANING OF "HOME RELOCATION LOAN"
+
+20. The term "home relocation loan" is defined in subsection 248(1) and is a loan that satisfies the following conditions:
+
+(a) the loan is received by an individual or by the individual's spouse, in the circumstances described in subsection 80.4(1), (see 1 above),
+
+(b) the individual has commenced employment at a new work location in Canada after May 23, 1985 and, for that reason, has moved from a former residence (old residence) to another residence in Canada which thereafter will be the individual's ordinary place of residence (new residence),
+
+(c) the loan described in (a) is used to acquire the new residence,
+
+(d) the new residence is at least 40 kilometres closer to the new work location than the old residence is, and
+
+(e) the individual designates that loan, but no other, as a home relocation loan in respect of that move. (An individual may not have more than one home relocation loan at a particular time.)
+
+For 1985 and later years, a "new residence" for the purposes of the definition of "home relocation loan" also includes a share of the capital stock of a cooperative housing corporation, if that share is acquired for the sole purpose of entitling the individual to inhabit a dwelling owned by the cooperative housing corporation.
+
+### DEDUCTION OF BENEFIT WITH RESPECT TO HOME RELOCATION LOAN
+
+21. For the 1985 and subsequent taxation years, an individual who has received a home relocation loan may deduct an amount determined under paragraph 110(1)(j) in computing taxable income. The amount which may be deducted is the least of
+
+(a) the amount that would have been included in income under section 80.4 in the year if that section had applied only in respect of the home relocation loan,
+
+(b) the amount of interest for the year that would have been computed under paragraph 80.4(1)(a) (see 2(a) above) if the home relocation loan had been $25,000 and expired on the earlier of
+
+(i) the date on which the home relocation loan expired, and
+
+(ii) the fifth anniversary of the day on which the home relocation loan was made, and
+
+(c) the amount included in income under section 80.4 in the year.
+
+As a result, a deduction may be made under paragraph 110(1)(j) for a taxation year in which a taxpayer includes an amount in income pursuant to section 80.4 as it applied in respect of a home relocation loan during the first five years or such shorter period that the loan was outstanding. For the purposes of computing the deduction under paragraph 110(1)(j), subsection 110(1.4) provides that a loan used to repay a home relocation loan is deemed to be the same loan as the home relocation loan and to have been made on the same day that the home relocation loan itself was made. If a home relocation loan has a term longer than five years, the balance outstanding on the first day of the sixth year is deemed to be a new home purchase loan for the purposes of section 80.4. Consequently, the benefit from such a loan will be included in the income in the sixth and succeeding years in the same way as a benefit arising in connection with a home purchase loan, with no off-setting deduction under paragraph 110(1)(j), but subject to the ceiling described in 17 and 18 above.
+
+### REPLACEMENT OF HOME RELOCATION LOANS
+
+22. If, within five years of relocation, the employee sells the residence and acquires a new one, and the home relocation loan financing is carried over to the new property or replaced by the employer, the employee would be permitted the deduction under paragraph 110(1)(j) for the balance of the five year period. The same result would follow if the employee changes employment and acquires a new loan to replace the existing home relocation loan. The replacement loan is considered by subsection 110(1.4) to be the same loan as the original loan. Accordingly, the deduction from income each year would be the least of the three amounts in paragraph 110(1)(j), described in 21 above, based on the amount of the replacement loan to the extent that the replacement loan does not exceed the amount of the original loan at time of replacement.
+
+### INTEREST REBATES
+
+23. An individual may become entitled to an interest rebate upon the fulfilment of certain conditions or if that individual meets certain criteria such as a specified salary level or length of service or as the result of some other agreement between an employee and an employer or a shareholder and a corporation. In these circumstances, any interest rebate received by the individual will be brought into the recipient's income in the year received under either paragraph 6(1)(a) or subsection 15(1) depending upon the capacity in which the amount was received.
+
+### 80.4 BENEFIT AMOUNT AS INTEREST EXPENSE
+
+24. By virtue of section 80.5 any benefit deemed to have been received pursuant to section 80.4 in a taxation year by
+
+(a) an individual or corporation pursuant to subsection 80.4(1), or
+
+(b) a person or partnership in accordance with subsection 80.4(2), will be deemed to be interest paid in the year by the debtor pursuant to paragraph 20(1)(c) and subparagraph 8(1)(j)(i). Accordingly, the amount may be deducted by the debtor if the borrowed money is used by the debtor to produce income from business or property. For example, assume that an employee receives a loan from an employer which results in a benefit under the provisions of subsection 80.4(1) and the loan proceeds are used to acquire shares in a corporation. The amount of interest required to be included in income as a benefit calculated under subsection 80.4(1) is deductible as interest expense pursuant to paragraph 20(1)(c). Where the debtor is entitled to deduct expenses under either paragraph 8(1)(f), (h) or (h.1), the deemed benefit under section 80.4 may be deducted by the debtor if the borrowed money is used by the debtor to acquire a motor vehicle that is used, or an aircraft that is required to be used, in carrying out the duties of an office or employment.
+
+### INFORMATION RETURNS
+
+25. Every person or partnership that confers a section 80.4 benefit on an individual is required by paragraphs 200(2)(g) and (i) of the Regulations to file an information return on the authorized form (form T4-T4A). The amounts to be reported on these forms are described in the "Employers' Guide to Payroll Deductions" which may be obtained from any district taxation office. Where an employer grants a loan to two employees jointly, normally the deemed benefit is to be reported on a 50-50 basis.
+
+### NON-RESIDENTS
+
+26. Non-resident tax under subsection 212(2) may be applicable where a corporation resident in Canada grants a loan to a shareholder, or to any other person or partnership described in subsection 80.4(2). In such cases, any benefit deemed to have been received under subsection 80.4(2) which would ordinarily be included in the recipient's income for the year under subsection 15(9) if the recipient were resident in Canada, will, by virtue of paragraph 214(3)(a), be subject to non-resident tax under subsection 212(2) for any taxation year in which the recipient is a non-resident. Where a non-resident of Canada is employed in Canada, or was previously employed in Canada, and any person or partnership received a loan or otherwise incurred a debt by virtue of that employment, any benefit deemed received pursuant to subsection 80.4(1) is included in computing the non-resident's taxable income earned in Canada by virtue of subsections 2(3), 6(9) and 115(1).

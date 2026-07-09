@@ -1,0 +1,66 @@
+---
+title: "ARCHIVED - Employees Profit Sharing Plans - Payments Computed by Reference to Profits"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it280rsr/archived-employees-profit-sharing-plans-payments-computed-reference-profits.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Employees Profit Sharing Plans - Payments Computed by Reference to Profits
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-280RSR**
+
+DATE: October 23, 1996
+
+SUBJECT: INCOME TAX ACT**Employees Profit Sharing Plans -- Payments Computed by Reference to Profits**
+
+REFERENCE: SPECIAL RELEASE
+
+### Notice -- Bulletins do not have the force of law
+
+***This document is also available for [download in PDF format](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it280rsr.html).***
+
+## Application
+
+This Special Release revises Interpretation Bulletin IT-280R dated June 26, 1995.
+
+## Bulletin Revisions
+
+Paragraph 5 of the bulletin indicates that profits, for the purpose of subsection 144(1), mean net income after taxes of a business for a given year arrived at by following generally accepted accounting principles. For the purpose of subsection 144(1), our interpretation of the meaning of "profit" has been expanded to include net income before or after taxes of a business and may also include other profits and sources of income. This change will allow greater flexibility for employees profit sharing plans.
+
+The following changes are required to the bulletin:
+
+**1.** The following sentence is added to the end of **paragraph 2** of the bulletin:
+
+Profits as defined in the plan must include profits from business (see ¶ 4 below) but may also include other profits and sources of income.
+
+**2. Paragraph 4** of the bulletin is deleted and replaced with the following:
+
+Subsection 144(1) allows for considerable flexibility in determining the method and level of employer contributions to an EPSP. Subject to the comments in ¶ 2 above, contributions determined by reference to profits may be based on the employer's own profits for the year, the profits for the year of a corporation with which the employer does not deal at arm's length, or any combination of these profits for the year. While the contributions must be computed by reference to profits, there is no such restriction on the actual source of the funds contributed, which may be paid out of profits, retained earnings, capital surplus, or borrowings by the employer.
+
+**3. Paragraph 5** of the bulletin is deleted.
+
+**4.** The last sentence of **Paragraph 11** is deleted and revised to indicate that a subsection 144(10) election is to be made by sending the required documents to the Revenue Canada tax centre serving the employer, rather than the taxation service office:
+
+An election is made by sending these documents by registered mail to the Revenue Canada tax centre serving the employer.
+
+## Notice -- Bulletins do not have the force of law
+
+Interpretation bulletins (ITs) provide Revenue Canada's technical interpretations of income tax law. Due to their technical nature, ITs are used primarily by departmental staff, tax specialists, and other individuals who have an interest in tax matters. For those readers who prefer a less technical explanation of the law, the Department offers other publications, such as tax guides and pamphlets.
+
+While the ITs do not have the force of law, they can generally be relied upon as reflecting the Department's interpretation of the law to be applied on a consistent basis by departmental staff. In cases where an IT has not yet been revised to reflect legislative changes, readers should refer to the amended legislation and its effective date. Similarly, court decisions subsequent to the date of the IT should be considered when determining the relevancy of the comments in the IT.
+
+An interpretation described in an IT applies as of the date the IT is published, unless otherwise specified. When there is a change in a previous interpretation and the change is beneficial to taxpayers, it is usually effective for all future assessments and reassessments. If the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date of the IT.
+
+A change in a departmental interpretation may also be announced in the *Income Tax Technical News*.
+
+If you have any comments regarding matters discussed in this IT, please send them to:
+
+***Director, Business and Publications Division Income Tax Rulings Directorate Policy and Legislation Branch Revenue Canada Ottawa ON K1A 0L5***

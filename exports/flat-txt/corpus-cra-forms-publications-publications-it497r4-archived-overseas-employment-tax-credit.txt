@@ -1,0 +1,369 @@
+Title: ARCHIVED - Overseas Employment Tax Credit
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it497r4/archived-overseas-employment-tax-credit.html
+Corpus path: corpus/cra/forms-publications/publications/it497r4/archived-overseas-employment-tax-credit.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Overseas Employment Tax Credit
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-497R4**
+
+DATE: May 14, 2004
+
+SUBJECT: INCOME TAX ACT**Overseas Employment Tax Credit**
+
+REFERENCE: Section 122.3 of the *Income Tax Act* (the "Act") (also sections 114 and 126 of the Act and sections 3400 and 6000 of the *Income Tax Regulations* (the "Regulations"))
+
+**Notice to the reader:**
+
+- [Bulletins do not have the force of law](https://www.canada.ca/formspubs/pbs/tntc-eng.html).
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it497r4.html), including PDF (which is an exact rendition of the original).
+
+- This version is only available electronically.
+
+## Overseas Employment Tax Credit
+
+## Contents
+
+- *[Application](#P35_737)*
+
+- *[Summary](#P37_1248)*
+
+- *[Discussion and Interpretation](#P49_2734)*
+
+    - [General](#P50_2763) (¶s 1-2)
+
+    - [Qualifying Income](#P56_3695) (¶s 3-5)
+
+    - [Qualifying Activity](#P79_9396) (¶s 6-8)
+
+    - [Qualifying Period](#P89_11896) (¶s 9-12)
+
+    - [Specified Employer](#P94_14522) (¶s 13-16)
+
+    - [Option to Claim Foreign Tax Credit Under Subsection 126(1)](#P108_18119) (¶ 17)
+
+    - [Authorized Form and Reduced Withholding of Tax at Source](#P110_18795) (¶ 18)
+
+    - [OETC Calculation](#P116_20276) (¶ 19)
+
+    - [Adjusted Income for the Taxation Year](#P186_21976) (¶ 20)
+
+    - [Tax Otherwise Payable for the Year](#P202_24818) (¶ 21)
+
+    - [Example of an OETC Calculation](#P219_25647) (¶ 22)
+
+- *[Explanation of Changes](#P457_27813)*
+
+## Application
+
+This bulletin cancels and replaces Interpretation Bulletin IT-497R3, dated February 12, 1996. The effective date of a particular legislative provision discussed in the bulletin may be indicated in the *Discussion and Interpretation* section of the bulletin. However, where the bulletin is silent with respect to the effective date of a particular provision, such date can be obtained from the legislation itself. Unless otherwise noted, all statutory references throughout the bulletin are to the Act.
+
+## Summary
+
+This bulletin deals with the overseas employment tax credit (OETC). An individual who is resident in Canada may be entitled to claim this credit for qualifying income from overseas employment. The OETC effectively eliminates 80% of the Canadian income tax on the first $100,000 of salary, wages and other remuneration earned from such employment. To qualify for the OETC, an individual must:
+
+(a) be employed by a specified employer (generally, a resident of Canada), other than for the performance of services under a prescribed international development assistance program of the Government of Canada;
+
+(b) be employed in connection with a contract under which the specified employer carried on business outside Canada on a resource, construction, installation, agricultural, engineering or prescribed activity (or for the purpose of obtaining such a contract); and
+
+(c) have performed all or substantially all the employment duties (done in connection with a contract described in (b) above) outside Canada.
+
+The conditions described in (a) to (c) above must exist for a period of more than six consecutive months
+
+- within the year,
+
+- beginning in the year and ending in a subsequent year, or
+
+- ending in the year and that began in a previous year.
+
+This period is referred to as the qualifying period.
+
+The bulletin explains various terms and conditions relating to the OETC. It also provides details of the calculation required to determine the OETC and gives an example of this calculation.
+
+## Discussion and Interpretation
+
+## General
+
+**¶ 1.** The OETC is available to individuals who are resident or deemed resident in Canada for any part of a taxation year. The current version of IT-221, *Determination of an Individual's Residence Status,* describes circumstances in which an individual is considered to continue to be resident in Canada after having physically departed from Canada. That bulletin also discusses deemed residents of Canada.
+
+**¶ 2.** An individual described in ¶ 1 who has
+
+- earned qualifying income in a taxation year throughout a qualifying period while employed by a specified employer; and
+
+- performed all or substantially all the duties of employment outside Canada with respect to a qualifying activity of the employer
+
+may, under section 122.3, deduct an OETC from the tax otherwise payable for the year. The terms qualifying income, qualifying activity, qualifying period and specified employer, as well as the OETC calculation, are explained below.
+
+## Qualifying Income
+
+**¶ 3.** Qualifying income of an individual for OETC purposes is the employment income (see ¶s 4-5) earned in a qualifying period (see ¶s 9-12) while the individual was employed throughout that period by a specified employer (see ¶s 13-16). Furthermore, all or substantially all of the individual's employment duties must be performed outside Canada:
+
+- in connection with a contract under which the employer carried on business outside Canada (see ¶ 15) with respect to a qualifying activity as discussed in ¶s 6-8, or
+
+- for the purpose of obtaining a contract for the specified employer to undertake a qualifying activity.
+
+The fact that the employment is performed by an employee in connection with two or more separate contracts of the specified employer does not, in itself, affect eligibility to claim the OETC.
+
+The "all or substantially all" test referred to above is considered to be met if 90% of the employment duties are performed outside Canada. The duties performed by an individual outside Canada during a qualifying period in connection with a qualifying activity of a specified employer (qualifying duties) are compared to all of the duties that the individual performed for that employer during that same period. The determination as to whether the "all or substantially all" test has been met is a question of fact that can only be determined after reviewing all the circumstances of a particular situation. However, generally, it will be made by comparing the actual time an individual spent performing the qualifying duties to the total time spent performing all duties during that same period. When the aggregate of the employment duties performed outside Canada in connection with ineligible activities and those performed in Canada in connection with any activity represent more than 10% of all the employment duties, the individual will not meet the "all or substantially all" test.
+
+**¶ 4.** For the purpose of section 122.3, qualifying income earned by an individual employee during a qualifying period includes salary, wages and other remuneration, including gratuities, received from that employment for the qualifying period. It also includes all or a reasonable proportion of any taxable benefit or other amount required under section 6 to be included in income that can be considered to be received or enjoyed by the individual for that same period from, or as a consequence of, that same employment. Benefits under section 7 are similarly included. This type of income is reduced by all or a reasonable proportion of any applicable amount described in subsections 8(1) to (13) inclusive that can reasonably be considered to be deductible in calculating income during that same period from that same employment.
+
+**¶ 5.** Individuals are not eligible for a deduction from tax under section 122.3 in respect of self-employed income. In addition, as per subsection 122.3(1.1), the OETC is not available in respect of an individual's employment income if all of the following conditions apply:
+
+(a) the employer carries on a business of providing services that does not employ throughout the year more than 5 full-time employees;
+
+(b) the individual
+
+(i) does not deal at arm's length with the employer;
+
+(ii) is a specified shareholder (as defined in subsection 248(1)) of the employer; or
+
+(iii) where the employer is a partnership, does not deal at arm's length with a member of the partnership, or is a specified shareholder of a member of the partnership; and
+
+(c) but for the existence of the employer, the individual would reasonably be regarded as being an employee of a person or partnership that is not a specified employer.
+
+Generally, a specified shareholder of a corporation in a taxation year is a person who owns, directly or indirectly, at any time in the year, 10% or more of the issued shares of any class of the capital stock of the corporation or of a related corporation. For a discussion of when a corporation is related to another corporation and the meaning of the term "arm's length," please see the current version of IT-419, *Meaning of Arm's Length.*
+
+***Example***
+
+Mr. X is about to receive an offer to work overseas from a corporation (NRco) that does not meet the definition of specified employer because it is not resident in Canada. As a result, Mr. X incorporates a small service corporation resident in Canada (Canco) of which he is both an employee and a specified shareholder. Canco will be carrying on business outside Canada in a qualifying activity and will do so by providing the services of Mr. X to NRco. However, even if Mr. X were to perform all or substantially all of the employment duties outside Canada for more than six consecutive months, he would not be eligible to claim the OETC if it would have been reasonable to regard him as an employee of NRco but for the existence of Canco.
+
+*Note: Finance Canada's News Release 2004-014 dated February 27, 2004 announced certain draft technical amendments to the Act. It is proposed that subsection 122.3(1.1) be amended to provide that an individual will be denied the OETC if, any time in the qualifying period,*
+
+- *the services of the individual are provided to a corporation, partnership or trust with which the employer does not deal at arm's length, and*
+
+- *less than 10% of the fair market value of all the issued shares of the corporation or all interests in the partnership or trust, as the case may be, are held by persons resident in Canada.*
+
+*In addition, subsection 122.3(1) will be revised to indicate that the term "qualifying period" in that subsection also applies to subsection 122.3(1.1). These amendments, if passed as proposed, will apply to taxation years that begin after these changes are enacted into law.*
+
+## Qualifying Activity
+
+**¶ 6.** For OETC purposes, a qualifying activity refers to the qualifying activity of the specified employer and not that of the employee. A qualifying activity includes:
+
+(a) the exploration for or the exploitation of petroleum, natural gas, minerals or similar resources;
+
+(b) a construction, installation, agricultural or engineering activity; or
+
+(c) any prescribed activity. As per section 6000 of the Regulations, an activity performed under contract with the United Nations is a prescribed activity.
+
+**¶ 7.** As long as all or substantially all of the duties performed by the employee are in connection with a contract under which the specified employer carries on a business outside Canada with respect to a qualifying activity, the employee would qualify for the OETC provided that the other conditions referred to in section 122.3 are met. For example, if all of these conditions are met, the following employees of a specified employer carrying on a qualifying activity would qualify for the OETC:
+
+(a) instructors or administrative staff providing supporting services to fellow employees;
+
+(b) staff who train the personnel of the foreign customer; and
+
+(c) staff providing computer hardware and software services.
+
+**¶ 8.** Ordinarily, the specified employer will itself directly carry on the qualifying activities described in ¶ 6(a) to (c), that entitle employees to claim the OETC. However, assuming all of the other requirements of section 122.3 are met, the OETC is also available to employees of a specified employer that carries on business outside Canada in other than a qualifying activity. Often referred to as a sub-contractor, such a specified employer would be one who has a contract or subcontract to provide its services through its employees to another person in respect of a qualifying activity carried on by that person outside Canada, or in respect of such a qualifying activity which that person has subcontracted to a third party. For example, assume that a specified employer (A Ltd.) has contracted to carry on business outside Canada by providing data processing services to a non-resident company (B Ltd.) whose only business is the exploration for natural gas. Assuming the other requirements of section 122.3 are met, the employees of A Ltd. providing the data processing services would qualify for the OETC, since their employment is in connection with a contract under which the specified employer carried on business outside Canada with respect to qualifying activities.
+
+## Qualifying Period
+
+**¶ 9.** A qualifying period, for OETC purposes, means a period of more than six consecutive months that began in the year or a previous year. The qualifying period must include part of the taxation year for which the OETC claim is made. In this context, six consecutive months means either six entire months named on a calendar or a period starting from a given day in one month and ending on the day before the corresponding day of the sixth month. For example, if the starting date for the six consecutive months was December 14, 2002, the minimum qualifying period of more than six consecutive months, would run from December 14, 2002 to June 14, 2003 (i.e., six months plus one day).
+
+**¶ 10.** As previously stated, all or substantially all of an employee's duties throughout a qualifying period must be performed outside Canada. This may consist of different periods of time spent by an individual in one or more locations anywhere outside Canada, including the land and territorial waters of a foreign country, in international waters or Antarctica. See section 255 for a definition of "Canada" and the current version of IT-494, *Hire of Ships and Aircraft From Non-Residents*, for a discussion of this definition.
+
+**¶ 11.** An individual's entitlement to the OETC will not be denied simply because the person was not a resident or deemed resident of Canada throughout the qualifying period. As noted in ¶ 1 above, it is sufficient that the individual be a resident or deemed resident for any part of the taxation year. In addition, an individual's entitlement will not necessarily be denied because the individual was not actually outside Canada or at the work location(s) outside Canada for the entire qualifying period. During a period of absence from a work location outside Canada, an employee may take vacation time, consult with the specified employer in Canada or perform duties of employment in Canada and still remain eligible for the OETC, provided that throughout the qualifying period substantially all of the employment duties, as referred to in ¶ 3, are performed outside Canada.
+
+**¶ 12.** However, if an individual is employed on an "on demand" basis for only certain periods in the year with no commitment for indeterminate employment and is paid only for those periods, that individual would usually be considered to commence and cease employment at the beginning and end of each such period. Accordingly, such an employee would not qualify for the OETC unless one of the periods of employment that commenced in the year or a previous year, and ended in the particular year, exceeded six consecutive months.
+
+## Specified Employer
+
+**¶ 13.** A specified employer, for OETC purposes, is described in subsection 122.3(2) as:
+
+(a) a person resident in Canada (see ¶ 14);
+
+(b) a partnership in which persons resident in Canada or corporations controlled by persons resident in Canada own more than 10% of the aggregate fair market value of all interests in the partnership; or
+
+(c) a corporation that is a foreign affiliate (as defined in subsection 95(1)) of a person resident in Canada.
+
+See ¶ 16 regarding certain services an individual performs for which no OETC may be claimed on the employment income received.
+
+**¶ 14.** Subject to subsection 250(5), a specified employer that is a corporation is generally considered to be a resident of Canada if:
+
+(a) its central management and control are located in Canada; or
+
+(b) it falls within the criteria set out in subsection 250(4) which deems a corporation to be resident in Canada throughout a taxation year.
+
+For further information on the residency of a corporation, see the current version of IT-391, *Status of Corporations*.
+
+**¶ 15.** As indicated in ¶s 3 and 7, one of the requirements that must be met is that the specified employer carries on business outside Canada with respect to a qualifying activity (see ¶s 6-8). While the determination of the place where a particular business is carried on necessarily depends upon all of the relevant facts of a situation, such place is generally where the operations in substance take place. See the current version of IT-270, *Foreign Tax Credit*, for factors that may be considered in the determination of where particular types of businesses are carried on.
+
+Paragraph 13 of the Federal Court of Appeal case *Timmins v. The Queen*, 99 DTC 5494, [1999] 2 C.T.C. 133, states that "Although the word 'business' when used in the Act must envisage an activity capable of giving rise to profits, it does not require that this activity be undertaken or carried on for the 'predominant' purpose of earning a profit." Therefore, even where an entity's overall purpose is not for profit, the entity may still carry out certain activities that can be said to be business activities. If these activities are carried out regularly over a period of time, then the entity may be considered to carry on business with respect to those activities. Consequently, in situations where some of the activities carried out by a specified employer are considered to be business activities while others are not, it is possible for a specified employer to carry on business with respect to the former type of activities depending on the facts of the situation.
+
+Although the Government of Canada or a provincial or municipal government is considered to be a specified employer, employment income from that source generally does not qualify for the purposes of section 122.3, because a body politic or government would not usually carry on business outside Canada under a contract.
+
+**¶ 16.** A person who is employed for the performance of services under a prescribed international development assistance program of the Government of Canada may not claim the OETC on the employment income received from that source. Such programs are prescribed in section 3400 of the Regulations to be international development assistance programs of the Canadian International Development Agency (CIDA) that are financed with funds (other than loan assistance funds) which are provided under External Affairs Vote 30a, *Appropriation Act No. 3, 1977-78*, or another vote providing for such financing. Section 3400 of the Regulations applies even if CIDA provides only partial funding for the project.
+
+## Option to Claim Foreign Tax Credit Under Subsection 126(1)
+
+**¶ 17.** The tax credits provided under section 122.3 (OETC) and subsection 126(1) (foreign tax credit for foreign non-business income) are optional. A taxpayer may claim one or the other, or both. However, to the extent that a portion of an employee's qualifying foreign employment income is used to calculate an OETC, it may not be used to determine a foreign tax credit (see the current version of IT-270, *Foreign Tax Credit*). An employee may choose to claim a foreign tax credit, for example, where the OETC would be rendered ineffective by virtue of the application of the alternative minimum tax under section 127.5.
+
+## Authorized Form and Reduced Withholding of Tax at Source
+
+**¶ 18.** Form T626, *Overseas Employment Tax Credit,* should be completed and filed with the T1 return of the employee claiming the OETC. The employer is also required to complete a portion of this form. An application may be made for reduced withholding of income tax at source if a taxpayer will be eligible for the OETC. To apply, a letter indicating that the employee and the specified employer will be able to meet all the qualifying criteria in section 122.3, along with supporting documentation (such as a copy of the contract for overseas employment), should be forwarded to the International Tax Section of your local tax services office (TSO). If your local TSO does not have such a section, to [find out where to send your request](https://www.canada.ca/en/revenue-agency/corporate/contact-information/information-moved.html) please visit our Web page at**www.cra-arc.gc.ca/contact/international-e.html** or contact the International Tax Services Office at:
+
+952-3741 (Ottawa area); 1-800-267-5177 (Canada and the United States); and (613) 952-3741 (outside Canada and the United States - collect calls are accepted).
+
+When an employer has numerous employees on international assignment who will qualify for the OETC, the CRA will consider granting a blanket waiver to cover the reduction in withholdings at source. Even though such a waiver may be granted to an employer, it does not mean that the CRA will automatically accept the validity of a claim for an OETC filed with an employee's T1 return on form T626.
+
+## OETC Calculation
+
+**¶ 19.** Expressed as a formula, the amount that can be deducted under section 122.3 as an OETC is:
+
+OETC = C ÷ D × E
+
+where limitation:
+
+A = the number of days in that portion of the qualifying period that is in the year and on which the individual was resident in Canada × $80,000 ÷ 365
+
+B = 80% of the individual's qualifying income (see ¶ 3) that is reasonably attributable to duties performed on the days referred to in A above
+
+and:
+
+C = The lesser of limitation A and B
+
+D = Adjusted income for the taxation year (see ¶ 20)]
+
+E = Tax otherwise payable for the year (see ¶ 21)
+
+Therefore, the OETC provides an annual tax reduction for a maximum of $100,000 of overseas employment income (i.e., qualifying income) earned in a full year (i.e., a qualifying period of 12 months) of overseas employment (see ¶s 10-12). The $80,000 base amount in "A" above represents a ceiling for a one-year period which is prorated if the employee is overseas for less than the full year or is not a resident or deemed resident of Canada throughout the entire qualifying period. An analysis of the formula components and an example of the OETC calculation is found in ¶s 20 to 22.
+
+## Adjusted Income for the Taxation Year
+
+**¶ 20.** For the purposes of the OETC calculation, as described in ¶ 19, the adjusted income for the taxation year for an individual who is resident in Canada throughout the year is the amount, if any, by which the individual's income for the year exceeds the total of:
+
+(a) the amounts deducted in computing the individual's taxable income for the year under:
+
+- paragraph 111(1)(*b*) in respect of net capital losses of other years that are being claimed in the current year; and
+
+- section 110.6 in respect of the capital gains deduction; and
+
+(b) the amounts deductible (see note 1 below) in computing the individual's taxable income for the year under:
+
+- paragraph 110(1)(*d*.2) equal to 1/2 (see note 2 below) of the amount included in income under paragraph 35(1)(*d*) in respect of a prospector's or grubstaker's shares, unless the amount included in income is exempt from tax in Canada by reason of one of Canada's tax treaties;
+
+- paragraph 110(1)(*d*.3) equal to 1/2 (see note 2 below) of the amount included in calculating income under subsection 147(10.4) with respect to employer shares received as part of a withdrawal from a deferred profit sharing plan;
+
+- paragraph 110(1)(*f*) which provides a deduction for, among other things, amounts included in income for social assistance payments and workers' compensation benefits, as well as for amounts that are required to be included in income but are exempt from tax in Canada because of a tax convention or treaty;
+
+- paragraph 110(1)(*g*) for adult basic education tuition assistance received under certain programs, and
+
+- paragraph 110(1)(*j*) for the amount of a benefit included in income as a result of an individual receiving a home relocation loan (as defined in subsection 248(1)) because of an employment relocation (also known as an employee home relocation loan).
+
+**Note 1**: Amounts referred to in (b) above include amounts that are eligible for deduction in the year to reduce a taxpayer's taxable income, even if the deduction is not actually taken or claimed in the year.
+
+**Note 2**: The rate is:
+
+- 1/3 after February 27, 2000 and before October 18, 2000, and
+
+- 1/4 before February 28, 2000.
+
+The adjusted income of an individual who is resident in Canada throughout only part of a taxation year and is non-resident for the rest of the year will include the amount determined under paragraph 114(*a*) for the individual for that year. Generally, this amount equals the individual's total income for the year calculated on the basis that for the part of the year that the individual was not resident in Canada, only amounts of income or loss included in computing taxable income earned in Canada under paragraphs 115(1)(*a*) to (*c*) are included in calculating the individual's income for the year. This amount is then reduced by the total of the amounts listed in (a) and (b) above.
+
+## Tax Otherwise Payable for the Year
+
+**¶ 21.** As defined in subsection 122.3(2), tax otherwise payable under this Part for the year is the amount that would be the tax payable under Part I of the Act for the year before
+
+(a) adding the amount of tax on:
+
+- income not earned in a province (under subsection 120(1)); or
+
+- split income (under subsection 120.4(2)); or
+
+(b) deducting the amount:
+
+- deemed to have been paid on account of an individual's Part I tax (under subsections 120(2) and 120(2.2));
+
+- for OETC (under subsection 122.3(1));
+
+- for minimum tax carryover (under section 120.2);
+
+- for dividend tax credit (under section 121);
+
+- for foreign tax credit (under section 126);
+
+- for logging tax deduction, political contribution tax credit or investment tax credit (under section 127); or
+
+- for labour-sponsored funds tax credit (under section 127.4).
+
+## Example of an OETC Calculation
+
+**¶ 22.** Assume an individual resident in Canada during 2002:
+
+(a) is employed in the year for 73 days, beginning on October 20, 2002, by a specified employer who carries on business outside Canada in a qualifying activity. Substantially all of the individual's employment duties in connection with the employer's qualifying activity are performed outside Canada;
+
+(b) continues to be so employed until April 30, 2003;
+
+(c) earns qualifying income of $22,000 in 2002 that is reasonably attributable to the 73 days referred to in (a);
+
+(d) calculates adjusted income for 2002 to be $64,000 under ¶ 20; and
+
+(e) calculates tax otherwise payable for 2002 to be $14,000 under ¶ 21 .
+
+Using the formula described in ¶ 19, the individual's OETC is determined as follows:
+
+**(1) Determine the lesser of limitation A and B:**
+
+A = (a) ÷ 365 × $80,000 = 73 ÷ 365 × $80,000 = $16,000
+
+B = 80% of (c) = 80 ÷ 100 × $22,000 = $17,600
+
+**(2) The OETC is:**
+
+$16,000÷ (d) × (e) = $16,000 ÷ $64,000 × $14,000 = $3,500
+
+In this example, because the individual's qualifying period exceeded six months at the time the individual's 2002 tax return was required to be filed, the tax credit of $3,500 may be deducted in calculating 2002 Part I tax payable. However, when an individual begins the performance of employment duties described in (a) above after October 31 in a particular year, the necessary qualifying period of more than six months would not be satisfied when, as is the case for most individuals, the individual's return of income for that year is required to be filed by April 30 of the immediately following year. As a result, a tax credit under section 122.3 for qualifying income earned during the period of that year after October 31 cannot be claimed at the time such return is required to be filed unless it can be established that the individual will be performing the employment duties for a period of more than six consecutive months. The individual can establish this fact by, for example, filing with the return a letter from the employer certifying that the individual will be performing those duties for a period of more than six consecutive months (see ¶s 9-12).
+
+## Explanation of Changes
+
+**Introduction**
+
+The purpose of the *Explanation of Changes* is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised interpretation.
+
+**Reasons for Revisions**
+
+This bulletin has been revised to reflect the decisions of the Federal Court of Appeal in *Rooke v. The Queen*, 2002 DTC 7442, 2002 CarswellNat 2776, and *Timmins v. The Queen,* 99 DTC 5494, [1999] 2 C.T.C. 133. It has also been changed to include amendments to subsection 122.3 enacted by S.C. 1997, c. 25, s. 31; S.C. 2000, c. 19, s. 31; S.C. 2001, c.17, s. 106; and S.C. 2002, c. 9, s. 37. References to the prescribed activity in section 6000 of the Regulations enacted by P.C. 1995-1723, SOR/95-498 have also been added to the bulletin.
+
+**Legislative Changes and Others**
+
+The Summary and ¶s 2, 3, 10-12 and 22 have been revised to reflect the decision of the Federal Court of Appeals in *Rooke v. The Queen* (citation as indicated above).
+
+In ¶ 3, comments concerning the "all or substantially" test have been added.
+
+¶ 5 has been modified to reflect the introduction of subsection 122.3(1.1) which provides that the OETC is not available for overseas employment income received from certain employers. Proposed legislative changes to that provision announced on December 20, 2002 by the Department of Finance are indicated in italics at the end of the paragraph.
+
+¶ 6(c) was revised to include a description of the prescribed activity.
+
+The calendar years referred to in ¶s 9 and 22 have been updated to reflect a more current year.
+
+A reference to the source of the definition of Canada and to an interpretation bulletin that discusses this definition has been added to ¶ 10.
+
+In ¶ 13(c), the reference to the provision in the Act defining the term foreign affiliate has been modified to reflect the restructuring of definitions in subsection 95(1). A reference to ¶ 16 was added to the end of ¶ 13.
+
+In ¶ 14, a reference to subsection 250(5) was added in order to be more technically precise.
+
+Comments in ¶ 15 on carrying on business outside Canada have been revised in order to be more consistent with those found in the current version of IT-270, *Foreign Tax Credit*, and to reflect the decision of the Federal Court of Appeal in *Timmins v. The Queen* (citation as indicated above).
+
+Former ¶s 17 and 18 were deleted as they contained outdated information.
+
+Former ¶s 19 to 24 have been renumbered as ¶s 17 to 22, respectively. Cross-referencing in other paragraphs has been revised to reflect this renumbering.
+
+¶ 18 (former ¶ 20) has been changed to indicate the current procedure for submitting a request for reduced withholding of tax at source.
+
+¶ 20 (former ¶ 22) has been revised to reflect recent amendments to paragraph 122.3(1)(*e*) and to section 114 (referred to in paragraph 122.3(1)(*e*)), as well as to delete outdated information.
+
+¶ 21 (former ¶ 23) has been modified to remove various taxes and tax credits that are no longer included in the calculation and to add those that affect the calculation due to recent amendments in the law.
+
+Throughout the bulletin, we have made minor changes for clarification and readability purposes.

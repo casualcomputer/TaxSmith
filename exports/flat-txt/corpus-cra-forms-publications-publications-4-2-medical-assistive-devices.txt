@@ -1,0 +1,281 @@
+Title: Medical and Assistive Devices
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-2/medical-assistive-devices.html
+Corpus path: corpus/cra/forms-publications/publications/4-2/medical-assistive-devices.md
+Document type: publication
+Last modified: 2024-12-10
+
+# Medical and Assistive Devices
+
+GST/HST memorandum 4.2 Notice of Change re 4.2, Medical and Assistive Devices, paragraphs 15 and 16, January 2, 2002
+
+Overview
+
+This section provides detailed information on zero-rated medical and assistive devices and the corresponding services for purposes of the Goods and Services Tax (GST) and Harmonized Sales Tax (HST) provisions of the *Excise Tax Act* (the Act). The legislative reference for this section is Part II of Schedule VI to the *Excise Tax Act* (the Act), unless otherwise indicated.
+
+Disclaimer
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1-800-959-8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in the Province of Quebec, please contact Revenu Québec by calling the toll-free number 1‑800‑567‑4692 for additional information.
+
+This section of Chapter 4 supersedes Section 4.2, *Medical Devices*, issued in February 1995. Due to the number of revisions, the changes have not been side-barred. If you are unable to determine the GST/HST status of a certain supply of a medical or assistive device, contact the nearest Revenue Canada tax services office for assistance.
+
+Reference in this publication is made to supplies taxable at 7% or 15% (the rate of the HST). The 15% HST applies to supplies made in Nova Scotia, New Brunswick and Newfoundland (the "participating provinces"). If a person is uncertain as to whether the supply is made in a participating province, the person may refer to Technical Information Bulletin B-078, *Place of Supply Rules under the HST*, available from any Revenue Canada tax services office.
+
+## Alphabetical index of medical and assistive devices
+
+Aids to locomotion Articles for blind individuals Artificial eye Artificial limb Artificial teeth Asthmatic devices Auxiliary driving control Blood-glucose monitor or meter Breathing apparatus Canes or crutches Catheters Colostomy appliance Commode chairs Communication device Compressors, respiratory monitors etc Dialysis machines Eyeglasses/contact lenses Feeding utensils Footwear appliances Gastro-intestinal tubes Guide dogs for blind individuals Hearing aid Hearing ear dogs Heart-monitoring device Hospital beds Ileostomy appliance Incontinence products Insulin infusion pump or syringe Intravenous apparatus Lancets Laryngeal speaking aid Lymphedema devices Mechanical percussor Modifying motor vehicles Nebulizers Orthodontic appliances Orthotic and orthopaedic devices Patient lifter Patterning device Portable wheelchair ramp Prone boards Prosthesis Reaching aids Selector device Sound/light conversion device Specially designed clothing Specially designed footwear Stockings Testing strips Toilet-, bath- or shower-seat Tracheostomy supplies Urinary appliance Wheelchairs Wheelchair ramp Walkers
+
+## Zero-rated supplies of medical and assistive devices
+
+Communication device Sch. VI, Part II, s 2
+
+1. A supply of a communication device (other than a device described in section 7 of Part II of Schedule VI) is zero-rated only where it is specially designed for use by an individual with a hearing, speech or vision impairment. General use devices are not zero-rated under this provision. Section 2 was amended as of April 24, 1996, to amalgamate the previous section 2 of Part II of Schedule VI and subparagraph 2(d)(iv) of the *Medical Devices (GST) Regulations* (the Regulations). Prior to April 24, 1996, communication devices were zero-rated under those two provisions. The amendment to section 2 is effective for supplies for which consideration becomes due after April 23, 1996, or is paid after that day without having become due.
+
+Heart-monitoring device Sch. VI, Part II, s
+
+2. A supply of a heart-monitoring device is zero-rated when the device is supplied on the written order of a medical practitioner for use by a consumer with heart disease who is named in the order. This provision has been amended to ensure that the device when supplied under a prescription issued to a consumer is zero-rated regardless of who initially receives the supply. This amendment applies to supplies for which consideration becomes due after April 23, 1996, or is paid after that day without having become due.
+
+3. Prior to this amendment, the supply of a heart-monitoring device was zero-rated only when the device was supplied to a consumer on the written order of a practitioner for use by an individual with heart disease.
+
+Note: Effective April 23, 1996, the term "practitioner" in Part II of Schedule VI is repealed and replaced with the term "medical practitioner" for consistency with the term used in Part II (health care services) of Schedule V. However, the new definition of medical practitioner remains the same as the repealed definition of practitioner, that is, a person who is entitled under the laws of a province to practise the profession of medicine.
+
+Hospital beds Sch. VI, Part II, s
+
+4. A supply of a hospital bed is zero-rated when the bed is supplied to the operator of a health care facility (within the meaning of section 1 of Part II of Schedule V) or on the written order of a medical practitioner for use by an incapacitated individual named in the order. This provision has been amended to extend the zero-rating of hospital beds to supplies made to operators of any health care facility. This amendment is effective for supplies for which consideration becomes due after April 23, 1996, or is paid after that day without having become due.
+
+5. This provision does not apply to beds with adjustable mattresses designed primarily to provide increased comfort that can be purchased by individuals through non-medical suppliers (e.g., retail establishments). This kind of bed is taxable at 7% or 15%.
+
+6. Prior to April 24, 1996, a supply of a hospital bed was zero-rated only when the bed was supplied to a hospital authority or on the written order of a practitioner for use by an incapacitated individual.
+
+Breathing apparatus Sch. VI, Part II, s
+
+7. A supply of an artificial breathing apparatus that is specially designed for use by an individual with a respiratory disorder is zero-rated (e.g., an oxygen tent).
+
+Asthmatic devices Sch. VI, Part II, s 5.1
+
+8. Effective April 24, 1996, a supply of an aerosol chamber or a metered dose inhaler used by persons with asthma is zero-rated when supplied on the written order of a medical practitioner for use by a consumer named in the order. This amended provision ensures that the devices supplied under a prescription for use by a consumer named in that prescription are zero-rated regardless of who initially receives the supply.
+
+9. Prior to April 24, 1996, a supply of an aerosol chamber or a metered dose inhaler used by persons with asthma was zero-rated only when the supply was made to a consumer on the written order of a practitioner.
+
+Compressors, respiratory monitors, etc. Sch. VI, Part II, s 5.2
+
+10. New section 5.2 zero-rates a supply of a respiratory monitor, nebulizer, tracheostomy supply, gastro-intestinal tube, dialysis machine, infusion pump or intravenous apparatus, that can be used in the residence of an individual. The new subsection incorporates items listed in paragraph 2(a) of the Regulations, and applies to supplies made after April 23, 1996. As a result of this change, the supply of compressors is no longer zero-rated, effective for supplies made after April 23, 1996.
+
+Mechanical percussor Sch. VI, Part II, s
+
+11. A supply of a mechanical percussor for postural drainage treatment is zero-rated.
+
+Sound/light conversion device Sch. VI, Part II, s
+
+12. Effective April 24, 1996, a supply of a device that is designed to convert sound to light signals is zero-rated when the device is supplied on the written order of a medical practitioner for use by a consumer with a hearing impairment who is named in the order. This amended provision ensures that the device supplied under a prescription issued to a consumer is zero-rated regardless of who initially receives the supply.
+
+13. Prior to April 24, 1996, section 7 of Part II of Schedule VI allowed for zero-rating only when a device that was designed to convert sound to light signals was supplied on the written order of a practitioner for use by an individual with a hearing impairment.
+
+Selector device Sch. VI, Part II, s
+
+14. A supply of a selector control device that is specially designed to enable an individual with a disability to select, energize or control household, industrial or office equipment (e.g., a computer pointing device (mouse) designed to be activated by the tongue and mouth for use by persons who are paralyzed) is zero-rated.
+
+Eyeglasses/contact lenses Sch. VI, Part II, s
+
+15. Effective for supplies made after October 8, 1999, a supply of eyeglasses (e.g., spectacles, goggles, sunglasses, bifocals, safety glasses, etc.) or contact lenses is zero-rated when the eyeglasses or contact lenses are, or are to be, supplied on the written order of an eye care professional for the treatment or correction of a defect of vision of a consumer named on the order where the eye care professional is entitled under the laws of the province in which the professional practises to prescribe eyeglasses or contact lenses for such purposes. This ensures that eyeglasses and contact lenses that are intended to be sold under prescription at the retail level are zero-rated at the pre-retail level as well.
+
+16. Deleted
+
+Artificial eye Sch. VI, Part II, s
+
+17. A supply of an artificial eye is zero-rated.
+
+Artificial teeth Sch. VI, Part II, s 11
+
+18. A supply of artificial teeth (e.g., dentures, crowns and bridges) is zero-rated. Generally, a crown that is fabricated to replace 50% or more of the anatomical surface of a natural tooth will qualify for zero-rating as an artificial tooth.
+
+Orthodontic appliances Sch. VI, Part II, s 11.1
+
+19. A supply of an orthodontic appliance is zero-rated. This applies to supplies for which all of the consideration becomes due after April 23, 1996, or is paid after that day without having become due. Orthodontic appliances have been removed from section 23 of Part II of Schedule VI, where they were previously zero-rated as orthopaedic braces.
+
+Hearing aid Sch. VI, Part II, s 12
+
+20. A supply of a hearing aid is zero-rated.
+
+Laryngeal speaking aid Sch. VI, Part II, s 13
+
+21. A supply of a laryngeal speaking aid is zero-rated.
+
+Aids to locomotion Sch. VI, Part II, s 14
+
+22. A supply of a chair, commode chair, walker, wheelchair lift or similar aid to locomotion, with or without wheels, including motive power and wheel assemblies therefor, that is specially designed for use by an individual with a disability is zero-rated.
+
+Patient lifter Sch. VI, Part II, s 15
+
+23. A supply of a patient lifter that is specially designed to move an individual with a disability is zero-rated.
+
+Wheelchair ramp Sch. VI, Part II, s 16
+
+24. A supply of a wheelchair ramp that is specially designed for access to a motor vehicle is zero-rated.
+
+Portable wheelchair ramp Sch. VI, Part II, s 17
+
+25. A supply of a portable wheelchair ramp is zero-rated.
+
+Auxiliary driving control Sch. VI, Part II, s 18
+
+26. A supply of an auxiliary driving control that is designed for attachment to a motor vehicle (e.g., a car or mini-van) to facilitate the operation of the vehicle by an individual with a disability is zero-rated.
+
+Modifying motor vehicles Sch. VI, Part II, s 18.1
+
+27. A supply of a service of modifying a motor vehicle to adapt the vehicle for the transportation of an individual using a wheelchair and a supply of property (other than the vehicle) made in conjunction with, and because of, the supply of the service are zero-rated. This amended provision applies whether the motor vehicle is owned by an individual or by non-individuals such as corporations, associations or municipal or governmental organizations. The amendment applies to supplies for which any consideration becomes due after April 23, 1996, or is paid after that day without having become due.
+
+28. Prior to April 24, 1996, a supply of a service of modifying a motor vehicle to adapt the vehicle for the transportation of an individual using a wheelchair and a supply of property (other than the vehicle) made in conjunction with, and because of, the supply of the service was zero-rated only where the vehicle was owned by the individual.
+
+Patterning device Sch. VI, Part II, s 19
+
+29. A supply of a patterning device (e.g., a machine that repetitively moves a patient's limbs) that is specially designed for use by an individual with a disability is zero-rated.
+
+Toilet-, bath- or shower-seat Sch. VI, Part II, s 20
+
+30. A supply of a toilet-, bath- or shower-seat that is specially designed for use by an individual with a disability is zero-rated.
+
+Insulin infusion pump or syringe Sch. VI, Part II, s 21
+
+31. A supply of an insulin infusion pump or an insulin syringe is zero-rated.
+
+Lymphedema devices Sch. VI, Part II, s 21.1
+
+32. Effective April 24, 1996, a supply of an extremity pump, intermittent pressure pump or similar device for use in the treatment of lymphedema is zero-rated when the pump or device is supplied on the written order of a medical practitioner for use by a consumer named in the order. This amended provision ensures that the devices supplied under a prescription issued to a consumer are zero-rated regardless of who initially receives the supply.
+
+33. Prior to April 24, 1996, the supply of an extremity pump, intermittent pressure pump or similar device used in the treatment of lymphedema was zero-rated only when the supply was made to a consumer.
+
+Catheters Sch. VI, Part II, s 21.2
+
+34. Effective April 24, 1996, a supply of a catheter for sub-cutaneous injections is zero-rated when the catheter is supplied on the written order of a medical practitioner for use by a consumer named in the order. This amended provision ensures that the device supplied under a prescription issued to a consumer is zero-rated regardless of who initially receives the supply.
+
+35. Prior to April 24, 1996, a catheter for sub-cutaneous injections was zero-rated only when the supply was made to a consumer.
+
+Lancets Sch. VI, Part II, s 21.3 and former s 21.2
+
+36. The supply of a lancet is zero-rated. This amendment applies to supplies made after April 23, 1996, except that, in respect of supplies for which all of the consideration becomes due or is paid before 1997, section 21.3 does not apply (because lancets were zero-rated under former section 21.2 of Part II of Schedule VI).
+
+37. Prior to April 24, 1996, the supply of a lancet was zero-rated when the supply was made to a consumer on the written order of a practitioner.
+
+Artificial limb Sch. VI, Part II, s 22
+
+38. A supply of an artificial limb is zero-rated.
+
+Orthotic and orthopaedic devices Sch. VI, Part II, s 23
+
+39. As a result of amendments to section 23, a supply of orthotic and orthopaedic devices is zero-rated when the device is custom-made for an individual or when supplied on the written order of a medical practitioner for use by a consumer named in the order. The supply of a spinal or other orthopaedic brace is zero-rated under this provision. As a result of these amendments, all custom made orthopaedic and orthotic devices are zero-rated without the need of a medical practitioner's written order. However, other orthotic and orthopaedic devices are zero-rated only when they are supplied under a prescription by a medical practitioner for use by a consumer named in the order. Therefore, items such as cradle arm slings, cervical collars and knee braces are taxable at 7% or 15% unless purchased on the written order of a medical practitioner for use by a consumer named in the order or made to order for an individual. The amendments apply to supplies for which all of the consideration becomes due or is paid without having become due on or after May 14, 1996.
+
+Amended subsection 23 combines previous sections 23 and 23.1 to simplify the treatment of orthotic and orthopaedic devices. Orthodontic appliances that were previously provided for in section 23 are now zero-rated under section 11.1 of Part II of Schedule VI. (See paragraph 19 of this section.)
+
+Footwear appliances Sch. VI, Part II, s 24
+
+40. A supply of a specially constructed appliance that is made to order for an individual who has a crippled or deformed foot or ankle (e.g., a specially constructed footwear insert) is zero-rated.
+
+Specially designed footwear Sch. VI, Part II, s 24.1
+
+41. As a result of the addition of section 24.1, a supply of footwear that is specially designed for use by an individual with a crippled or deformed foot or other similar disability is zero-rated when supplied on the written order of a medical practitioner. This new provision incorporates the reference to specially designed footwear contained in paragraph 2(c) of the Regulations. This amendment applies to supplies for which all of the consideration becomes due after 1996, or is paid after 1996 without having become due.
+
+42. Footwear specially designed for an individual with a crippled or deformed foot or other similar disability encompasses a wide variety of footwear and includes shoes, boots, sneakers and loafers. However, to qualify for zero-rating under this provision, they must be specially designed for defects of the foot such as a physical defect characterized by a form or position which is not normal.
+
+Prosthesis/devices Sch. VI, Part II, s 25
+
+43. A supply of a medical or surgical prosthesis, or an ileostomy, colostomy or urinary appliance or similar article that is designed to be worn by an individual (e.g., intraocular lenses, a hip prosthesis, catheters designed to be worn as a urinary appliance, etc.) is zero-rated.
+
+Articles or materials for use with prosthesis/devices Sch. VI, Part II, s 26
+
+44. A supply of an article or material, not including a cosmetic, for use by a user of, and necessary for the proper application and maintenance of, a prosthesis, appliance or similar article described in paragraph 43 of this section (e.g., special connectors, tubes, bags or other containers for ostomy devices) is zero-rated.
+
+Canes or crutches Sch. VI, Part II, s 27
+
+45. Supplies of crutches and canes that are specially designed for use by an individual with a disability are zero-rated. Specially designed canes include quad canes and forearm canes. Crutches are zero-rated since they are by nature specially designed for use by individuals with a disability. A supply of a cane (including walking sticks) that cannot be identified as specially designed for use by an individual with a disability is taxable at 7% or 15%.
+
+Blood-glucose monitor or meter Sch. VI, Part II, s 28
+
+46. A supply of a blood-glucose monitor or meter is zero-rated.
+
+Testing strips Sch. VI, Part II, s 29
+
+47. A supply of blood-sugar testing strips, blood-ketone testing strips, urinary-sugar testing strips, reagents or tablets, or urinary-ketone testing strips, reagents or tablets is zero-rated. These articles are typically used by persons with diabetes for self-testing.
+
+Articles for blind individuals Sch. VI, Part II, s 30
+
+48. Effective April 24, 1996, a supply of any article that is specially designed for the use of blind individuals is zero-rated when the article is supplied for use by a blind individual to or by the Canadian National Institute for the Blind or any other *bona fide* institution or association for blind individuals, or on the order or certificate of a medical practitioner.
+
+Guide dogs for blind individuals Sch. VI, Part II, s 33
+
+49. A supply of a dog that is or is to be trained as a guide dog for the use of a blind individual, including the service of training the individual to use the dog is zero-rated where the supply is made to or by an organization that is operated for the purpose of supplying guide dogs to blind individuals.
+
+Hearing ear dogs Sch. VI, Part II, s 33.1
+
+50. A supply of a dog that is or is to be trained to assist an individual with a hearing impairment in respect of problems arising from the impairment, or a service of training the individual to use such a dog is zero-rated where the supply is made to or by an organization that is operated for the purpose of supplying such dogs to individuals with hearing impairments.
+
+Stockings Sch. VI, Part II, s 35
+
+51. Effective April 24, 1996, a supply of graduated compression stockings, anti-embolic stockings or similar articles is zero-rated when the stockings or articles are supplied on the written order of a medical practitioner for use by a consumer named in the order. This amended provision ensures that the articles supplied under a prescription issued to a consumer are zero-rated regardless of who initially receives the supply.
+
+Specially designed clothing Sch. VI, Part II, s 36
+
+52. Effective April 24, 1996, a supply of clothing that is specially designed for use by an individual with a disability is zero-rated when the clothing is supplied on the written order of a medical practitioner for use by a consumer named in the order. This amended provision ensures that the articles supplied under a prescription issued to a consumer are zero-rated regardless of who initially receives the supply.
+
+53. Prior to April 24, 1996, section 36 only zero-rated a supply of clothing specially designed for use by a disabled person (e.g., burn garments) when the supply was made to a consumer. Sch. VI, Part II, s 37 to 40
+
+54. Sections 37 to 40, which follow, deal with assistive devices previously prescribed (and therefore zero-rated) under the Regulations. They have been added to Part II of Schedule VI so that all provisions that zero-rate medical and assistive devices are found in the Act.
+
+Incontinence products Sch. VI, Part II, s 37
+
+55. A supply of an incontinence product that is specially designed for use by an individual with a disability is zero-rated. Section 37 incorporates the reference to incontinence products contained in subparagraph 2(d)(i) of the Regulations. This applies to supplies made after April 23, 1996.
+
+Feeding utensils Sch. VI, Part II, s 38
+
+56. A supply of a feeding utensil or other gripping device that is specially designed for use by an individual with impaired use of hands or other similar disability is zero-rated. Section 38 incorporates the reference to feeding utensils contained in paragraph 2(b) of the Regulations. This applies to supplies made after April 23, 1996.
+
+57. Generally, feeding utensils or other gripping devices for use by an individual with impaired use of hands or other similar disability refer to a variety of eating and home accessories. The "other gripping devices" category is very broad and includes a wide variety of goods including
+
+1. knives designed for use by one-handed individuals;
+
+2. specially designed fork and knife combinations,
+
+3. kitchen utensils where the handle is bent 90 degrees to allow the hand in mid-position to function in a table-to-mouth pattern,
+
+4. specially designed devices that a one-handed individual can use to open plastic paper and foil pouches quickly, easily, and safely, and
+
+5. one-handed beaters which are used to beat eggs, creams and sauces with the action of just one hand.
+
+Reaching aids Sch. VI, Part II, s 39
+
+58. A supply of a reaching aid that is specially designed for use by an individual with a disability is zero-rated. Section 39 incorporates the reference to reaching aids contained in subparagraph 2(d)(ii) of the Regulations. This applies to supplies made after April 23, 1996.
+
+Prone boards Sch. VI, Part II, s 40
+
+59. A supply of a prone board that is specially designed for use by an individual with a disability is zero-rated. Section 40 incorporates the reference to prone boards contained in subparagraph 2(d)(iii) of the Regulations. This applies to supplies made after April 23, 1996.
+
+### Supply of prescribed property or service
+
+Sch. VI, Part II, s 31
+
+60. The Governor-in-Council may prescribe by regulation other supplies of property or services relating to medical and assistive devices that would be zero-rated. Currently, no supplies of property or services are prescribed by regulations since all of those previously prescribed are now found in the Act.
+
+### Supplies related to medical and assistive devices
+
+Parts, accessories or attachments Sch. VI, Part II, s 32
+
+61. A supply of a part, accessory or attachment that is specially designed for medical and assistive devices listed in Part II of Schedule VI is zero-rated. Two examples are outlined below:
+
+Example - dialysis machine supplies
+
+(a) Dialysis machine supplies: Dialysis machines that can be used in an individual's residence are zero-rated under section 5.2 of Part II of Schedule VI. Certain parts, accessories and attachments are specially designed for these machines, including a cartridge or cassette type membrane to permit the blood cleaning process.
+
+Example - intravenous supplies
+
+(b) Intravenous supplies: An intravenous apparatus that can be used in an individual's residence is also zero-ratedunder section 5.2 of Part II of Schedule VI . Certain parts, accessories and attachments are specially designed for such apparatus which is essentially a mix of reusable and single use components that, if sold together, form an intravenous apparatus. However, in many cases, they are sold separately. Separate parts of an apparatus, such as a stand, are used repeatedly and are not usually supplied separately. Other components of the apparatus such as the bag, set and start kit are disposable, and therefore supplied more frequently. However, in either case, if the supply of a part, accessory or attachment meets the specially designed criterion of section 32 of Part II of Schedule VI, it is also zero-rated.
+
+## Services related to medical and assistive devices
+
+Supply of service Sch. VI, Part II, s 34
+
+62. A supply of a service of installing, maintaining, restoring, repairing or modifying zero-ratedmedical and assistive devices described in sections 2 to 32 and 38 to 40 of Part II of Schedule VI is zero-rated, as are any parts that are supplied in conjunction with these services. This relates to services performed on medical and assistive devices that are zero-rated as a result of being specifically listed in sections 2 to 32 and 38 to 40 of Part II of Schedule VI and the parts used when the services are rendered. Zero-rating of a service and related parts under section 34 does not apply in either of the following conditions:
+
+- if the service is an exempt supply under any provision of Part II (health care services) of Schedule V other than section 9; or
+
+- if the service is related to the provision of a surgical or dental service that is performed for cosmetic purposes and not for medical or reconstructive purposes.

@@ -1,0 +1,308 @@
+---
+title: "Point-of-Sale Rebate on Books"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-065/point-sale-rebate-on-books.html
+last_modified: 2014-08-27
+---
+# Point-of-Sale Rebate on Books
+
+GST/HST Info Sheet GI-065 August 2014
+
+This version replaces the one dated May 2010.
+
+This info sheet explains the point-of-sale rebate (rebate) available for the provincial part of the harmonized sales tax (HST) payable on qualifying books.
+
+The participating provinces of Ontario, Nova Scotia, New Brunswick, Newfoundland and Labrador, and Prince Edward Island provide a point-of-sale rebate for the rate of the provincial part of the HST payable on qualifying books sold, imported, or brought into these provinces. The following table lists the provincial part of the HST for each of these participating provinces:
+
+| Participating Province | Provincial Part of HST |
+
+| --- | --- |
+
+| Ontario | 8% |
+
+| Nova Scotia | 10% |
+
+| New Brunswick | 8% |
+
+| Newfoundland and Labrador | 8% |
+
+| Prince Edward Island | 9% |
+
+The Canada Revenue Agency (CRA) and the Canada Border Services Agency (CBSA) administer the rebate on behalf of these provinces.
+
+Certain public service bodies can claim a 100% rebate of the GST, or the federal part of the HST, paid or payable on most printed books, audio recordings of printed books, and printed versions of religious scriptures. For more information, please refer to [GST/HST Memorandum 13.4, Rebates for Printed Books, Audio Recordings of Printed Books, and Printed Versions of Religious Scriptures](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/13-4.html) and [Guide RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+## Qualifying books
+
+The following goods are books that qualify for the rebate:
+
+- a printed book or an update of a printed book;
+
+- an audio recording where 90% or more is a spoken reading of a printed book (an “audio book”);
+
+- a bound or unbound printed version of scripture of any religion;
+
+- a printed book and a read-only medium (such as a CD-ROM) sold together as a single package, where 90% or more of the read-only medium is reasonably attributable to a reproduction of the printed book and/or makes specific reference to the printed book and its content, and that supplements and is integrated with that content;
+
+- a printed book with a read-only medium and/or a right to access a website sold together as a single package, which is specially designed for students enrolled in a qualifying course, where the read only medium or website contains material related to the subject matter of the printed book; and
+
+- a printed book and another item (such as a toy) in a package sold together for a single consideration where 90% or more of the value of the items in the package is attributable to the printed book.
+
+Read-only medium means a tangible medium designed for the read-only storage of information and other material in digital format such as a CD-ROM. A medium designed to allow removal or replacement of the information stored on it such as an MP3 player, would not be a read-only medium.
+
+A qualifying course means a course where the service of instructing in the course is an exempt educational service for GST/HST purposes or would be an exempt educational service if the supplier had not made an election to make it taxable. Most elementary, secondary and university level courses as well as certain professional accreditation and vocational courses are qualifying courses.
+
+## Non-qualifying goods
+
+The following goods do not qualify for the rebate:
+
+- a newspaper (a rebate is available on qualifying newspapers in Ontario. For more information, see [GST/HST Info Sheet GI-060, Harmonized Sales Tax for Ontario – Point-of-Sale Rebate on Newspapers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-060/harmonized-sales-tax-ontario-point-sale-rebate-on-newspapers.html));
+
+- a magazine or periodical, unless it is purchased by subscription;
+
+- a magazine or periodical where the printed space devoted to advertising is more than 5% of the total printed space;
+
+- a brochure or pamphlet;
+
+- a sales catalogue, a price list or advertising material;
+
+- a warranty booklet or an owner's manual;
+
+- a book designed primarily for writing on;
+
+- a colouring book or a book designed primarily for drawing on or affixing to, or inserting in, items such as clippings, pictures, coins, stamps, or stickers;
+
+- a cut-out book or a press-out book;
+
+- a program relating to an event or performance;
+
+- an agenda, calendar, syllabus, or timetable;
+
+- a directory, an assemblage of charts or street or road maps, but not including a guidebook or an atlas that is in whole or in part made up of maps other than street or road maps;
+
+- a rate book;
+
+- an assemblage of blueprints, patterns or stencils;
+
+- electronic and digital books; or
+
+- an assemblage or a collection of, or any item similar to, the above items.
+
+Appendices A to D of this info sheet contain examples of qualifying books and non-qualifying goods for purposes of the rebate.
+
+## Who qualifies for the rebate
+
+The rebate is available at any point in the distribution chain of the qualifying books. The rebate is available to wholesalers, retailers, or consumers who:
+
+- are recipients of qualifying books in the participating province;
+
+- are residents in the participating province and that import qualifying books where the provincial part of the HST will be payable on the importation; or
+
+- receive delivery or possession of qualifying books in, or bring qualifying books into, the participating province in circumstances where the provincial part of the HST will be payable on the books.
+
+In this case, a “recipient” of qualifying books means the person who is liable to pay for the books. A recipient could be a wholesaler, retailer, or consumer.
+
+If you are unsure whether you are eligible for a rebate or whether a particular good is a qualifying book, you may call a GST/HST rulings centre at 1-800-959-8287 or request a written ruling or interpretation. See [GST/HST Memorandum 1.4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4/excise-gst-hst-rulings-interpretations-service.html), for more information.
+
+## How to claim the rebate
+
+Wholesalers, retailers and consumers who purchase qualifying books will receive the rebate by:
+
+- being paid or credited the rebate amount by the supplier (e.g., a manufacturer, publisher, wholesaler or retailer) at the point of sale;
+
+- in the case of an importation having the rebate amount deducted by the CBSA from the HST payable; or
+
+- filing a rebate claim with the CRA using [Form GST 189, General Application for Rebate of GST/HST](/E/pbg/gf/gst189/gst189-12e.pdf).
+
+### Rebate amount paid or credited by a registrant supplier
+
+Wholesalers, retailers or consumers should automatically have their rebate amount paid or credited to them at the point of sale by the supplier.
+
+The rebate amount paid or credited is equal to the amount of the provincial part of the HST payable on the qualifying book.
+
+A supplier that pays or credits the rebate amount will collect only the 5% federal part of the HST.
+
+Information on how a supplier shows the rebate amount paid or credited is provided under the heading “How suppliers show the rebate on their invoices”.
+
+A bookstore in Ontario sells a hardcover novel to a consumer.
+
+As a printed book, the novel is a qualifying book for purposes of the rebate. As a result, the bookstore collects only the 5% federal part of the HST and pays or credits the rebate equal to the 8% provincial part of the HST to the consumer at the point of sale.
+
+#### Example 2
+
+A retailer in Nova Scotia sells a colouring book to a consumer.
+
+A colouring book is not a printed book for purposes of the rebate and therefore, is not a qualifying book. As a result, the retailer collects the 15% HST. In this case, there is no point-of-sale rebate.
+
+#### Example 3
+
+A publisher in Ontario sells an order of historical fiction novels to a wholesaler in Ontario.
+
+As printed books, the novels are qualifying books for purposes of the rebate. Because the rebate applies to sales at any point in the distribution chain, the publisher collects only the 5% federal part of the HST and pays or credits the rebate equal to the 8% provincial part of the HST to the wholesaler at the point of sale.
+
+#### Example 4
+
+A book publisher in Newfoundland and Labrador sells a textbook on biology to a wholesaler in the same province. The textbook includes a CD-ROM with chapter summaries and interactive quizzes based on the subject material in the book. The textbook is designed for use by students in secondary level biology courses and is sold as a single product.
+
+The single product consisting of the printed book and CD-ROM is a qualifying book for purposes of the rebate. As a result, the publisher collects only the 5% federal part of the HST and pays or credits the rebate equal to the 8% provincial part of the HST to the wholesaler at the point of sale.
+
+### Filing rebate claims with the CRA
+
+If the supplier does not pay or credit the rebate amount at the point of sale and the recipient pays the HST to the supplier, the recipient of the qualifying books can file a rebate claim with the CRA using [Form GST 189, General Application for Rebate of GST/HST](/E/pbg/gf/gst189/gst189-12e.pdf) and using Reason Code 16.
+
+The claim must be made within four years after the day the provincial part of the HST became payable.
+
+The rebate amount that the CRA will pay is equal to the amount of the provincial part of the HST that was paid on the sale of the qualifying books. However, the CRA will not pay a rebate where the total amount of the rebate is $2 or less.
+
+On June 15, 2013, a bookstore in Ontario sells a classic novel that includes a reproduction of the full text of the novel on CD-ROM to a consumer. The single product consisting of the printed book and CD ROM is a qualifying book for purposes of the rebate.
+
+The bookstore collects 13% HST and does not pay or credit the rebate equal to the 8% provincial part of the HST at the point of sale. The consumer can file a rebate claim with the CRA for an amount equal to the 8% provincial part of the HST paid to the bookstore.
+
+The consumer has until June 15, 2017, to file this rebate claim. Where the rebate application is filed on time, the CRA will pay the rebate amount to the consumer provided that the total rebate amount claimed is more than $2.
+
+#### Example 6
+
+On August 1, 2013, a wholesaler in New Brunswick sells two dozen cookbooks to a bookstore in New Brunswick. Both the wholesaler and bookstore are registrants for GST/HST purposes. The cookbooks do not promote a manufacturer's food products. As printed books, the cookbooks qualify for the rebate.
+
+The wholesaler collects the 13% HST and does not pay or credit the rebate equal to the 8% provincial part of the HST at the point of sale. The bookstore can file a rebate claim with the CRA for an amount equal to the 8% provincial part of the HST paid to the wholesaler.
+
+The bookstore has until August 1, 2017, to file this rebate claim. The bookstore can claim an input tax credit (ITC) to recover the 5% federal part of the HST paid to the wholesaler to the extent that the cookbooks are for use or supply in the course of the bookstore's commercial activities.
+
+## Persons importing qualifying books
+
+Persons that are residents in a participating province and who import qualifying books where the provincial part of the HST is payable on the importation should automatically have their rebate deducted by the CBSA from the HST payable.
+
+The rebate amount that the CBSA deducts equals the amount of the provincial part of the HST that would be payable by the person on the imported qualifying book. As a result, the CBSA collects only the 5 % federal part of the HST on the imported qualifying book.
+
+Where a non-resident supplier (e.g., a non-resident publisher, wholesaler, or retailer) who is not registered for GST/HST purposes sends qualifying books by mail or courier to an address in a participating province, the CBSA automatically deducts the rebate amount from the HST payable on the importation and collects only the 5% federal part of the HST.
+
+An Internet-based company located in Oregon (USA) sells and ships two hardcover novels to a consumer that is resident in Ontario. The company is not registered for GST/HST purposes. The novels are qualifying books for purposes of the rebate.
+
+The CBSA automatically deducts the rebate amount, equal to the 8% provincial part of the HST, on the imported books, and will only collect the 5% federal part of the HST on the importation of the books.
+
+## How suppliers show the rebate on their invoices
+
+On the invoices or receipts issued for the sale of qualifying books, a supplier may choose the following options to show the rebate amount paid or credited at the point of sale.
+
+The following examples show HST at the rate of 13%.
+
+**Option 1** The supplier can show the total amount of the HST payable (or the total HST rate) and the amount of the rebate separately.
+
+**Option 2** The supplier can show only the federal part of the HST payable.
+
+**Option 3** The supplier can show the total price of the qualifying books including only the federal 5% part of the HST.
+
+For sales to GST/HST registrants, additional information may be required to support claims for input tax credits. For more information on these invoicing requirements, see [Guide RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022/general-information-gst-hst-registrants.html).
+
+## How suppliers account for the rebate on their GST/HST returns
+
+A supplier that pays or credits the rebate amount at the point of sale has two options to account for the rebate on its GST/HST return.
+
+The following examples show HST at the rate of 13%.
+
+**Option 1** The supplier can account for the total amount of HST collected or collectible on line 103 of the return and claim an adjustment for the rebate amount paid or credited on line 107.
+
+**Option 2** The supplier can show the net amount as the HST collected or collectible on line 103 and not claim an adjustment for the rebate amount paid or credited on line 107.
+
+For information on completing a GST/HST return, see [Guide RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022/general-information-gst-hst-registrants.html).
+
+## Additional information
+
+Please refer to the following publications for additional information on other point-of-sale rebates:
+
+- [Info Sheet GI-060, Harmonized Sales Tax for Ontario – Point-of-Sale Rebate on Newspapers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-060/harmonized-sales-tax-ontario-point-sale-rebate-on-newspapers.html);
+
+- [Info Sheet GI-062, Point-of-Sale Rebate on Feminine Hygiene Products](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-062.html);
+
+- [Info Sheet GI-063, Point-of-Sale Rebate on Children's Goods](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-063.html);
+
+- [Info Sheet GI-064, Harmonized Sales Tax for Ontario – Point-of-Sale Rebate on Prepared Food and Beverages](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-064/harmonized-sales-tax-ontario-point-sale-rebate-on-prepared-food-beverages.html);
+
+- [Info Sheet GI-169, Point-of-Sale Rebate on Heating Oil](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-169.html);
+
+- [GST/HST Memorandum 13.4, Rebates for Printed Books, Audio Recordings of Printed Books, and Printed Versions of Religious Scriptures](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/13-4/rebates-printed-books-audio-recordings-printed-books-printed-versions-religious-scriptures.html).
+
+## Further information
+
+All **GST/HST technical publications** are available on the CRA website at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst/gst-hst-memoranda-series.html).
+
+To make an **enquiry**on the **GST/HST**by **telephone**, call one of the following numbers:
+
+- for **general enquiries,** call the **Business Enquiries** line at **1-800-959-5525**;
+
+- for **technical enquiries,**call **1-800-959-8287**.
+
+If you are located in **Quebec**, contact **Revenu Québec** at **1-800-567-4692** or visit their website at [www.revenuquebec.ca](http://www.revenuquebec.ca).
+
+The information in this publication does not replace the law found in *the Excise Tax Act* (the Act) and its regulations; it is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate regulation, or contact any GST/HST rulings centre for additional information. A ruling should be requested for certainty in respect of any particular GST/HST matter. [Pamphlet RC4405, GST/HST Rulings – Experts in GST/HST Legislation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4405.html), explains how to obtain a ruling and lists the GST/HST rulings centres.
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario, New Brunswick and Newfoundland and Labrador, 14% in Prince Edward Island and 15% in Nova Scotia. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, see [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Appendix A – Printed books and non-qualifying goods
+
+A printed book or an update of a printed book qualifies for the point-of-sale rebate. As discussed in the section “Qualifying Books” of this info sheet, a printed book does not include a number of items such as newspapers, certain magazines and periodicals, and brochures and pamphlets.
+
+The following table provides examples of items that do, and do not, qualify as printed books for the point-of-sale rebate.
+
+| Items | Qualifying Books | Non-qualifying Goods |
+
+| --- | --- | --- |
+
+| Newspapers |  | all newspapers Note: A point-of-sale rebate is available on qualifying newspapers in Ontario. See [GST/HST Info Sheet GI-060, Harmonized Sales Tax for Ontario – Point-of-Sale Rebate on Newspapers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-060.html). |
+
+| Magazines and other periodicals | magazines, comic books and other periodicals purchased by subscription where 5% or less of the total printed space is devoted to advertising | comic books, magazines and other periodicals purchased on a per copy basis purchased by subscription where more than 5% of the total printed space is devoted to advertising |
+
+| Brochures and pamphlets |  | library pamphlet that describes how to use its reference service free brochures issued monthly containing financial information such as current lending rates |
+
+| Sales catalogues, price lists and advertising materials | catalogues with a reference function such as art exhibition catalogues, coin catalogues, stamp catalogues, and antique catalogues reprints of historical catalogues | catalogues published by manufacturers to promote their own products for sale mail-order catalogues |
+
+| Warranty booklets and owner's manuals | mechanic's guide for car repairs sold separately by a publisher books and manuals on computer software purchased in bookstores separately from the software | additional copies of a manual that accompanied an appliance |
+
+| Books for writing on and drawing on | crossword puzzle and find-a-word magazines purchased by subscription where 5% or less of the total space is devoted to advertising exercise books consisting of practice tests with explanatory answers exam preparatory books | address books diaries journals notebooks |
+
+| Colouring books, scrapbooks and albums |  | scrapbooks for clippings sticker books sketchbooks albums for photographs, stamps or coins |
+
+| Programs |  | sports events concerts plays assemblies |
+
+| Agendas, calendars, syllabuses, or timetables | school yearbooks | university or college calendars |
+
+| Directories |  | telephone books postal-code books fax directories service directories such as municipal service directories books that are primarily listings of national or local goods and services providers manufacturing, industrial or trade directories |
+
+| Road and street maps, charts, patterns, and blueprints | books of maps other than street or road maps such as contemporary and historical atlases guidebooks that may include some maps that are secondary to the descriptive information on the geographic location | navigational charts |
+
+| Rate books |  | insurance rate books |
+
+## Appendix B – Audio recordings of printed books
+
+An audio recording where 90% or more is a spoken reading of a printed book (an “audio book”) qualifies for the point-of-sale rebate.
+
+The following table provides examples of audio recordings that do, and do not, qualify for purposes of the rebate.
+
+| Item | Qualifying Audio Recordings | Non-qualifying Audio Recordings |
+
+| --- | --- | --- |
+
+| Audio recordings of printed books | recordings that reproduce the text of a book in audio form, including summary or abridged form recordings that also include minimal commentary, analysis or interpretation recordings of excerpts from a published book recordings of performances of published plays | recordings based on unpublished manuscripts recordings of performances of musical scores CD-ROMs |
+
+## Appendix C – Religious scriptures
+
+A bound or unbound printed version of scripture of any religion qualifies for the point-of-sale rebate.
+
+The following table provides examples of items that are religious scriptures/qualifying books for purposes of the rebate.
+
+| Item | Qualifying Religious Scriptures |
+
+| --- | --- |
+
+| Printed version of scripture of any religion | bound and unbound versions of scripture the Koran the Bible prayer books missals hymn books Torah scrolls illustrated versions of scripture, e.g., comic book versions |
+
+## Appendix D – Composite books
+
+A composite book consists of a printed book and a read-only medium (and/or a right to access a website under certain conditions as discussed in the section “Qualifying Books” of this info sheet) that is sold together as a single product. The following table provides examples of items that will **not** be composite books/qualifying books for the point-of-sale rebate.
+
+| Items | Non-qualifying Composite Books |
+
+| --- | --- |
+
+| Printed books with read-only medium sold together as a single product | composite books where the material on the read-only medium does not make specific reference to the printed book and its content printed book and a read-only medium purchased by a recipient at the same time but prepared for sale by the publisher as separate products |
+
+| Printed books with read-only medium or a right to access a website (or both) sold together as a single product specially designed for students | printed book and a read-only medium or access to a website purchased by a recipient at the same time but prepared for sale by the publisher as separate products |

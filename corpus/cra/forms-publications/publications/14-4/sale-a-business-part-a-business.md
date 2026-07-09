@@ -1,0 +1,300 @@
+---
+title: "Sale of a Business or Part of a Business"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-4/sale-a-business-part-a-business.html
+last_modified: 2024-12-23
+---
+# Sale of a Business or Part of a Business
+
+GST/HST memorandum 14-4 December 2010
+
+**Note:** This version replaces the publications listed below under "Cancelled policy statements".
+
+Section 167 of the *Excise Tax Act* (the Act) contains provisions for two elections that apply to the sale of a business and its assets. The election under subsection 167(1) applies to the sale of a business or part of a business. The election under subsection 167(2) applies to the supply of the business assets of a deceased individual. This memorandum examines each of these elections as well as the provisions that could apply where there is a sale of a business that has no commercial activity. It also covers the provisions of section 167.1, which apply to the supply of goodwill.
+
+Disclaimer
+
+The information in this memorandum does not replace the law found in the *Excise Tax Act* and its regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate regulation, or contact any CRA GST/HST rulings office for additional information. A ruling should be requested for certainty in respect of any particular GST/HST matter. [Pamphlet RC4405, GST/HST Rulings – Experts in GST/HST Legislation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4405.html) explains how to obtain a ruling and lists the GST/HST rulings offices. If you wish to make a technical enquiry on the GST/HST by telephone, please call 1-800-959-8287.
+
+If you are located in Quebec and wish to make a technical enquiry or obtain a ruling related to the GST/HST, please contact Revenu Québec at 1-800-567-4692. You may also visit their Web site at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+Note: Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario, New Brunswick and Newfoundland and Labrador, 15% in Nova Scotia, and 12% in British Columbia. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, you may refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+Cancelled policy statements
+
+This memorandum replaces the following GST/HST Policy Statements: P-103R, *Transfer of an Undivided Interest in a Joint Venture*; P-117, *Supply of a Single Store by a Person Owning a Chain of Stores*; P-166, *Sale of Medical or Dental Practice between Two Non-Registrants*; P-179, *Interpretation of Business that was Established for Purposes of SS 167(1) of the ETA*; P-181, *Amounts for Certain Services and Licences and the SS 167(1) Election of the ETA*; and P-188, *Supply of a Business or Part of a Business for the Purpose of the Election under Subsection 167(1*).
+
+## Table of Contents
+
+- [Sale of a business or part of a business – the election under subsection 167(1)](#_Toc280771715)
+
+    - [Conditions for the election under subsection 167(1)](#_Toc280771716)
+
+    - [Effects of subsection 167(1)](#_Toc280771717)
+
+    - [Filing the election](#_Toc280771718)
+
+    - [Exceptions where GST/HST is payable](#_Toc280771719)
+
+    - [Capital property and changes in use](#_Toc280771720)
+
+    - [Special cases](#_Toc280771721)
+
+    - [Goodwill](#_Toc280771722)
+
+- [Sale of a business by a non-registrant that has no commercial activity](#_Toc280771723)
+
+- [Supply of the business assets of a deceased person](#_Toc280771724)
+
+## Sale of a business or part of a business – the election under subsection 167(1)
+
+Election ss 167(1)
+
+1. In general, a person may sell a business or part of a business to a recipient with no GST/HST payable on property or services supplied under the agreement with some exceptions (see paragraph 13), if certain conditions (see paragraphs 2 to 9) are met and if the supplier and the recipient make a joint election.
+
+### Conditions for the election under subsection 167(1)
+
+Supplying a business or part of a business ss 167(1)
+
+2. To qualify for the election under subsection 167(1), the supplier must be selling a business or part of a business that was established or carried on by the supplier, or that was established or carried on by another person and acquired by the supplier.
+
+Acquiring a business ss 167(1)
+
+3. Moreover, under the agreement for the supply of the business or part of the business, the recipient must be acquiring ownership, possession or use of all or substantially all of the property (generally 90% or more) that can reasonably be regarded as being necessary for the recipient to be capable of carrying on the business or part as a business.
+
+Registration status para 167(1)(*b)*
+
+4. Also, to qualify for the election under subsection 167(1), if the supplier is a GST/HST registrant, the recipient must also be a registrant.
+
+5. When determining whether or not a supply of property meets the requirements described in paragraphs 2 and 3, the following tests and guidelines should be applied to the facts of a particular situation.
+
+#### First test – Is the supplier selling and is the recipient acquiring "a business"?
+
+Is the business being supplied?
+
+6. A business is an activity that includes a profession, calling, trade, manufacture or undertaking of any kind pursuant to the definition of business in subsection 123(1). The assets of a business generally include real property, equipment, inventory, and intangibles such as goodwill. In general, the supply of one or more individual assets will not be considered a supply of a business. The nature of a business will generally determine the package of assets that would constitute the supply of a business or part of a business. Generally, there is no one type of property, regardless of its value, that alone would determine that there is a supply of a business. Further discussion on the meaning of business is contained in [GST/HST Policy Statement P-167R, Meaning of the First Part of the Definition of Business](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-167r.html).
+
+#### Second test – Is the recipient acquiring ownership, possession or use of all or substantially all of the property that can reasonably be regarded as being necessary for the recipient to be capable of carrying on the business or part of a business?
+
+Is the recipient acquiring sufficient property?
+
+7. The value of any property that is not acquired under the agreement for the supply, but that the recipient requires to carry on the business must generally be not more than 10% of the fair market value of all the property necessary to carry on the business. The recipient must be capable of carrying on the same kind of business that was established or carried on, or acquired, by the supplier, with the property that the recipient has acquired under the agreement.
+
+Paul is a registrant. He enters into an agreement to buy a pizza business from the owner who is also a registrant. Under the agreement for the supply, Paul is acquiring the building and adjacent parking lot, the restaurant equipment (ovens, dough maker, meat slicer, cooking equipment, etc.), office equipment, a car with the business name painted on the side that is used for deliveries, the name of the business, and goodwill. Since Paul is planning on redecorating and, since most of the tables and chairs are old and worn, he will acquire under the agreement only a few of them from the previous owner. The value of the tables and chairs that he will need to buy from another source is less than 10% of the fair market value of all the property necessary to carry on the business.
+
+Paul is acquiring the business and he is acquiring under the agreement for the supply of the business all or substantially all of the property that can reasonably be regarded as being necessary for him to operate the business. Therefore, Paul meets the conditions of the two tests for eligibility for the election.
+
+Acquiring a business and adding it to an existing business
+
+8. The acquisition of a business or part of a business that the recipient intends to combine with an existing business of the recipient could qualify for the election under subsection 167(1), if the supply meets the first test and the recipient of the business is acquiring, under the agreement, all or substantially all of the property reasonably necessary for the recipient to be capable of carrying on the same kind of business as the one that was carried on by the supplier (the second test).
+
+Part of a business
+
+9. In general, a "part of a business" is an activity that may be a functionally and physically discrete operating unit, or it may be an activity that supports or is related to the broader business, but is organized as a separate activity that is capable of operating on its own. The guidelines that apply when determining if there is a supply and acquisition of a business also apply when determining if there has been a supply and acquisition of "part of a business".
+
+Pulp & Paper Co. is a registrant. It is primarily engaged in operating a pulp and paper mill in Anycity, Canada. Pulp & Paper Co. also has a printing division that has a separate location from the mill. Pulp & Paper Co.’s printing division is organized to operate independently from the mill (e.g., it has its own employees, its own customers and its own printing equipment). Printers Co., also a registrant, reaches an agreement with Pulp & Paper Co. to acquire the printing operations. The agreement provides among other things that Printers Co. will acquire ownership of the following property related to Pulp & Paper Co.’s printing division: inventory, machinery, production equipment, and goodwill. Pulp & Paper Co. will lease the real property to Printers Co.
+
+Printers Co. and Pulp & Paper Co. are entitled to make the election under subsection 167(1). The supply to Printers Co. of the various elements related to Pulp & Paper Co.’s printing division constitutes a sale of part of a business. The package of assets acquired by Printers Co. under the agreement with Pulp & Paper Co. represents a supply of all or substantially all of the property required by Printers Co. to carry on the printing operation as a business. No GST/HST is payable on the transfer of ownership of these assets if the parties file the joint election under subsection 167(1). However, the lease of the real property is a taxable supply and subject to GST/HST (see paragraph 13).
+
+TrucksCo and CarryingCo are residents and registrants for GST/HST purposes. CarryingCo, a long-distance carrier, operates a transportation business in south-western Ontario. CarryingCo needs to expand its truck fleet. It acquires a tractor-trailer from TrucksCo that is also engaged in the transportation business. The tractor-trailer is the only property supplied under the agreement.
+
+The supply of the tractor-trailer made by TrucksCo to CarryingCo does not constitute a sale of a business or part of a business for the purpose of subsection 167(1). It is only a sale of a particular asset used in TrucksCo’s business. TrucksCo and CarryingCo are not entitled to make the election under subsection 167(1). Therefore, the supply of the tractor-trailer will be subject to GST/HST.
+
+### Effects of subsection 167(1)
+
+Consideration attributed reasonably among separate supplies para 167(1)(*a*)
+
+10. If the conditions set out in the preamble to subsection 167(1) are met, paragraph 167(1)(*a*) deems the supplier to have made a separate supply of each property and service that is supplied under the agreement for the supply. The consideration for each property and service is equal to that portion of the consideration for the supply of the business or part that can reasonably be attributed to that property or service. This deeming that each supply is a separate supply made for the portion of the consideration that can reasonably be attributed to that supply is in effect for all of the GST/HST provisions of the Act. Therefore, it applies where the supply of a business or part meets the conditions specified in subsection 167(1) regardless of whether or not the supplier of the business and the recipient proceed to make the election and regardless of the registration status of the supplier and the recipient.
+
+### Filing the election
+
+Form GST44
+
+11. To make the election under subsection 167(1), the supplier and the recipient must jointly complete [Form GST44, Election Concerning the Acquisition of a Business or Part of a Business](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst44.html). This form is available on the CRA Web site.
+
+Time of filing ss 167(1.1)
+
+12. The form must be filed by the recipient (if a registrant) on or before the day that the recipient would have been required to file a return for the first reporting period in which GST/HST would have become payable if the supply had been made without the election being made. In some cases, upon application by the recipient, the CRA may determine a later date.
+
+### Exceptions where GST/HST is payable
+
+para 167(1.1)(*a*)
+
+13. Where an election under subsection 167(1) is in effect, no GST/HST is payable in respect of a supply of any property or service made under the agreement for the supply of the business or part of the business with the following three exceptions:
+
+- the GST/HST applies to a taxable supply of a service that is to be rendered by the supplier;
+
+- the GST/HST applies to a taxable supply of property by way of lease, licence or similar arrangement; and
+
+- the GST/HST applies to a taxable sale of real property where the recipient is not a registrant.
+
+### Capital property and changes in use
+
+Deemed exclusively for use in commercial activities subpara 167(1.1)(*b*)(i)
+
+14. Where capital property of the supplier is being transferred under an election pursuant to subsection 167(1) and if
+
+- in the absence of this election, GST/HST would have been payable by the recipient on the transfer of the capital property, and
+
+- the recipient is acquiring the property for use as capital property of the recipient,
+
+the recipient is deemed to have acquired the property exclusively (i.e., 100% for financial institutions and generally 90% or more for other persons) in the course of its commercial activities.
+
+15. If the ensuing use of the capital property is not exclusively in commercial activities, the change-in-use provisions could apply. The provisions under the GST/HST that apply to changes in use of capital personalproperty are different from the provisions that apply to changes in use of capital realproperty. Moreover, there are particular provisions that apply to the capital property of financial institutions. For more information on changes in use and capital personal property, refer to [GST/HST Memorandum 8.1, General Eligibility Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1.html), and [GST Memorandum G400-3-9, Capital Personal Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/g400-3-9.html). For more information on the change-in-use rules and capital real property, refer to [GST/HST Memorandum 19.4.2, Commercial Real Property – Deemed Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-4-2.html) *.* Financial institutions and changes in use of capital property are discussed further at paragraph 17.
+
+Real property credit for vendor
+
+16. Where a vendor who is a registrant is supplying a business that includes real property and the real property was not used exclusively in the vendor’s commercial activities, the vendor may be entitled to claim an input tax credit (ITC) under the provisions of subsection 193(1). The application of subsection 193(1) is discussed in [GST/HST Memorandum 19.4.2, Commercial Real Property – Deemed Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-4-2.html). Detailed information on the calculation of this ITC is included in the appendix of [GST/HST Memorandum 19.2.3, Residential Real Property – Deemed Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-3.html). Where the vendor is not a registrant, a real property rebate may be available. See [GST/HST Memorandum 19.3.6, Rebate on Non-Registrant’s Sale of Real Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3-6.html), for more information.
+
+An optometrist who is a registrant sells his business to an individual who is also a registrant. The conditions of the sale are such that the vendor and purchaser make a valid election under subsection 167(1). The optometrist had used both the capital personal property and the capital real property of the business 60% in commercial activities (the sale of lenses and frames) and 40% in exempt activities (the service of providing eye examinations).
+
+Since the optometrist used the capital personal property in commercial activities, the supply of the capital personal property is deemed, under the provisions of subsection 141.1(1), to be in the course of activities that are commercial activities and, in the absence of the election under subsection 167(1), GST/HST would have applied to the supply of the capital personal property. Consequently, the recipient is deemed under the provisions of subparagraph 167(1.1)(*b*)(i) to acquire the capital personal property exclusively in the course of commercial activities of the recipient. If the recipient begins to use the capital personal property less than primarily in commercial activities of the recipient (i.e., it is used 50% or less in commercial activities), the recipient is deemed, under the provisions of subsection 200(2), to have collected and paid GST/HST equal to the basic tax content of the capital personal property.
+
+The real property was used as capital property of the optometrist and, in the absence of the election under subsection 167(1), GST/HST would apply to the supply of the capital real property. As a result, subparagraph 167(1.1)(*b*)(i) provides that the capital real property is deemed to have been acquired by the recipient for use exclusively in the course of commercial activities of the recipient. If the supplier (the optometrist) meets the requirements of subsection 193(1), the supplier is able to claim an ITC for the previously non-recoverable GST/HST. If the recipient (the individual) reduces (i.e., uses the real property less than 90% in commercial activities) or ceases to use the real property in commercial activities, the change-in-use provisions contained in section 207 will apply. For more information on section 207, see [GST/HST Memorandum 19.2.3, Residential Real Property – Deemed Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-3.html).
+
+FI change-in-use rules apply to all capital property ss 205(4)
+
+17. If a business is supplied to a financial institution under a valid subsection 167(1) election and the capital property is deemed under subparagraph 167(1.1)(*b*)(i) to have been acquired exclusively for use in commercial activities, where the property is not then used exclusively in commercial activities, subsection 205(4) provides, in part, that the change-in-use rules in subsections 206(4) or (5) apply. Under these provisions, the financial institution is required to self-assess GST/HST on a deemed self-supply of the property to the extent of the reduced use in commercial activities. The change-in-use rules under subsections 206(4) and (5) apply to capital personal property of any value acquired under a subsection 167(1) election. Moreover, the change-in-use is calculated for any extent of change (i.e., the general rule under section 197 to disregard changes in use of less than 10% does not apply). As with capital personal property, the change-in-use rules in subsections 206(4) and (5) will apply to capital real property, and the purchaser (the financial institution) will be deemed to have collected GST/HST on all or part of the real property if it is actually used less than exclusively (i.e., less than 100%) in commercial activities. For further information on the application of subsections 206(4) and (5), see the discussion of the change-in-use rules in [GST/HST Memorandum 19.4.2, Commercial Real Property – Deemed Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-4-2.html).
+
+Insurance Company A, a listed financial institution, buys the business of Insurance Company B. Both insurance companies are registrants and they make a valid election under subsection 167(1). Insurance Company B had used its capital property 85% in exempt activities and 15% in commercial activities. In the absence of an election under subsection 167(1), GST/HST would have applied to the supply of this capital property from Insurance Company B to Insurance Company A. Consequently, under the provisions of subparagraph 167(1.1)(*b*)(i), the supply of the capital property is deemed to have been acquired by Insurance Company A for use exclusively (i.e., 100%) in its commercial activities. However, Insurance Company A’s actual use of the capital property is 85% in exempt activities and 15% in commercial activities. As a result, Insurance Company A has reduced its use of the capital property in commercial activities by 85% ( i.e., from the deemed 100% to 15%). Subsection 205(4) provides that the change-in-use provision set out in subsection 206(5) will apply to the reduced use in commercial activity of the capital property that was acquired by Insurance Company A. If Insurance Company B satisfies the conditions of subsection 193(1), it would be able to claim an ITC for the previously non-recoverable GST/HST on the capital property. (Note: As a result of the application of subsection 205(4), the ITC is available under subsection 193(1) even if the capital property is not real property.)
+
+Deemed exclusively for use in non-commercial activities subpara 167(1.1)(*b*)(ii)
+
+18. Where capital property of the supplier is being transferred under an election pursuant to subsection 167(1) and if
+
+- in the absence of this election, GST/HST would not have been payable by the recipient on the transfer of the capital property, and
+
+- the recipient is acquiring the property for use as capital property of the recipient,
+
+the recipient is deemed to have acquired the property for use exclusively in the course of its activities that are not commercial activities.
+
+Increased use in commercial activities ss 199(3)
+
+19. If, under the provisions of subparagraph 167(1.1)(*b*)(ii), the recipient is deemed to have acquired the capital property for use exclusively in the course of its activities that are not commercial activities and the capital property is actually for use in activities that are commercial activities, ITCs may be available under the change-in-use rules when it begins to use the property in commercial activities. Generally, however, where capital personal property is not for use primarily in the course of a registrant’s (other than a financial institution’s) commercial activities (i.e., it is used 50% or less in commercial activities), there is no ITC eligibility in respect of that property.
+
+NumberedCo is a registered profit-oriented corporation that is neither a school authority nor a vocational school. It operates as Kate’s Tutoring. NumberedCo sells its business to Company Z, which is also a registrant. NumberedCo used both the capital personal property and the capital real property of the business 35% in commercial activities (taxable supplies of training in presentation skills) and 65% in exempt activities (exempt supplies of services of tutoring individuals in courses approved for credit by a school authority). Under the agreement for the supply of the business, NumberedCo sells various assets, including both the capital personal property and the capital real property of the business. NumberedCo and Company Z make a valid election under subsection 167(1).
+
+Since NumberedCo used the capital personal property otherwise than primarily in commercial activities, the supply of the capital personal property to Company Z is deemed, under subsection 200(3), not to have been made in the course of NumberedCo’s commercial activities. As a result, under the provisions of subparagraph 167(1.1)(*b*)(ii), Company Z is deemed to acquire the capital personal property exclusively in the course of activities that are not commercial activities. If Company Z begins to use the capital personal property primarily in commercial activities, the change-in-use rules under subsection 199(3) apply. Company Z would be eligible to claim ITCs if the conditions of subsection 169(1) are met.
+
+The real property is capital property and, in the absence of the election under subsection 167(1), GST/HST would apply to the supply of the capital real property. As a result, subparagraph 167(1.1)(*b*)(i) provides that the capital real property is deemed to have been acquired by Company Z for use exclusively in the course of commercial activities. If NumberedCo meets the requirements of subsection 193(1), Numbered Co will be eligible to claim an ITC for the previously non-recoverable GST/HST. If Company Z reduces (i.e., uses the real property less than 90% in commercial activities), or ceases to use the real property in commercial activities, the change-in-use provisions contained in subsections 206(4) or (5) will apply.
+
+FI increased use in commercial activities ss 205(5)
+
+20. If the recipient is a financial institution that is a registrant, subsection 205(5) provides that, where capital property is obtained under a subsection 167(1) election and the capital property is deemed to have been acquired for use but not in commercial activities of the institution, the change-in-use rules under subsection 206(2) apply to any beginning use of the capital property in commercial activities. This could permit the financial institution to claim an ITC for its use of the property in commercial activities. Capital personal property with a cost of less than $50,000 to the financial institution is included when calculating change-in-use in these circumstances. Moreover, the change-in-use is calculated for any extent of change; the general rule under section 197 to disregard changes-in-use of less than 10% does not apply.
+
+### Special cases
+
+Franchises
+
+21. In the case of a supply by a franchisor to a franchisee of a new business, the franchisor must make a supply of a business that was established (i.e., a turn-key operation and not just certain individual assets) in order to qualify for the election under subsection 167(1). In general, for the supply of a franchised business to constitute a business that was established for purposes of the election under subsection 167(1), the following property and services should be included by a franchisor under the agreement for the supply to the franchisee: right to use a trade name/trademark, land and building, equipment necessary to operate the business, initial inventory, training of principals and staff, and operating manuals.
+
+22. What will constitute a supply of a turn-key business is a question of fact and the determination may depend on the nature of the business. For example, with respect to some service businesses, the nature of business is such that the land and building are not significant to the business operations (e.g., the office space required is minimal and the service is provided at the customer’s location). In this case, a supply that does not include the land and building may still qualify as the supply of an established business, if the other elements that are supplied under the agreement are sufficient to demonstrate that the supply was of a business capable of operating, and not just a supply of one or more assets.
+
+CJ Services and Len’s Cleaning are registrants. CJ Services operates "With-a-Smile!", a residential cleaning business. CJ Services and Len’s Cleaning enter into an agreement under which CJ Services will provide Len’s Cleaning with the right to use the trade name, trademark and logo of "With-a-Smile!", and to operate the "With-a-Smile!" residential cleaning business in a specific territory. CJ Services will also provide a procedures manual to Len’s Cleaning and will require Len’s Cleaning, as its franchisee, to comply with the method and standards of conducting business that CJ Services demands. The agreement stipulates that Len’s Cleaning will be responsible for acquiring its own equipment and materials, and for developing its own clientele.
+
+The supply to Len’s Cleaning of the right to use the trademark, trade name, logo and the procedures manual relating to the "With-a-Smile!" residential cleaning business represents a supply of intangible property only, and thus does not constitute a sale of a business or part of a business that was established for purposes of subsection 167(1). Therefore, the supply does not meet the conditions for the election under subsection 167(1).
+
+Amounts for certain services and licences, and the election under s 167(1)
+
+23. Amounts payable in respect of taxable supplies of services to be rendered by the vendor and property by way of lease, licence or similar arrangement are excluded from the election under subsection 167(1) by virtue of subparagraphs 167(1.1)(*a*)(i) and (ii). Therefore, where under an agreement for the supply of a business such as a franchise business, the recipient is required to pay an initial lump sum amount at the time of acquisition of the business in respect of certain vendor services or licences for intangible property, amounts in respect of these supplies will not be covered by the election in subsection 167(1). Consequently, GST/HST will be payable on any amounts paid or payable in respect of the taxable supplies of services to be rendered by the vendor and taxable supplies of property by way of lease, licence or similar arrangement.
+
+Hot Foods Co., a franchisor, operates nine restaurants and has established a tenth restaurant. It plans to sell that tenth location to a purchaser who will operate that location as a franchise. Hot Foods Co. and Claire’s Co. propose to enter into an agreement under which Hot Foods Co. will sell the restaurant to Claire’s Co. (the franchisee). Both companies are registrants. Under the agreement, Claire’s Co. will acquire all of the property (i.e., the land, building, equipment and inventory) that is reasonably regarded as being necessary to carry on the restaurant business. Pursuant to the agreement, Claire’s Co. is required to operate the restaurant as a franchise of Hot Foods Co., and to pay a lump sum (referred to as a franchise fee) upon acquiring the business for initial training to be provided by Hot Foods Co. and for the licence granting the right to use Hot Foods Co.’s trade name. Hot Foods Co. and Claire’s Co. propose to make a joint election under subsection 167(1) to have no GST/HST payable on the supply of the business assets.
+
+Pursuant to the election under subsection 167(1), no GST/HST is payable on the consideration for the supply of the land, building, equipment and inventory. However, GST/HST is payable on the lump sum amount to be paid by Claire’s Co. for the initial training services to be rendered by Hot Foods Co. and for the licence to use Hot Foods Co.’s trade name since these supplies are excluded from the election by virtue of subparagraphs 167(1.1)(*a*)(i) and (ii).
+
+Transfer of an undivided interest in a joint venture
+
+24. The transfer of an undivided interest in a joint venture could qualify for the election under subsection 167(1) if particular conditions are met. For the purpose of determining the eligibility to use the election, the supply of the undivided interest made by one of the co-venturers must constitute a business or part of a business. Therefore, the parties to the transaction must meet certain conditions, including the two tests in subsection 167(1): first, the supplier must sell a business or part of a business that was established or carried on; and second, the recipient is acquiring, under the agreement, ownership, possession or use of all or substantially all of the property that can reasonably be regarded as being necessary for the recipient to be capable of carrying on the business or part as a business.
+
+25. Where an arrangement described as a joint venture has the following characteristics:
+
+- it is a group of persons engaged in a specific business for a limited period;
+
+- the business is not structured as a corporation, a partnership or a trust;
+
+- each co-venturer or participant in the joint venture has a direct, undivided interest in the joint venture property and in the commodity produced by the joint venture;
+
+- each participant is a party to all the joint venture agreements such as the operating agreement and the ownership agreement;
+
+- there is a right of mutual control and management of the business; and
+
+- the participants contribute money, property, effort, knowledge, skill, and other assets to the joint venture;
+
+the recipient generally will, to the extent the recipient purchases all of the supplier’s undivided interest in all the joint venture property and the rights and obligations attached to this interest, qualify as having acquired a business or part of a business. Where all these requirements are met, subsections 167(1) and (1.1) will apply where the supply is made by one of the co-venturers. Consequently, the parties are entitled to make the election under subsection 167(1).
+
+Oil Co., Propane Co. and Butane Co. form an unincorporated joint venture that is engaged in the exploration and exploitation of mineral deposits for the production of oil and gas. Oil Co., Propane Co. and Butane Co. are registrants. The ownership and operating agreements state that each co-venturer holds a one-third undivided interest in the joint venture property, and that the mineral produced and expenses incurred by the joint venture are to be allocated equally to the three parties. The agreements also specify that the parties do not intend to form a partnership. Furthermore, each co-venturer has the right of mutual control and management of the joint venture. Co-venturer Butane Co. proposes to sell its undivided interest in the producing property (i.e., interest in and to the leases, lands and petroleum substances, and tangible property for the production and processing of petroleum substances) to a third party, Methane Co., who is also a registrant.
+
+The transfer of the undivided interest in the producing property made by Butane Co. to Methane Co. constitutes a supply of a business or part of a business. Methane Co. and Butane Co. are entitled to file the election under subsection 167(1) to have the supply of the undivided interest in the joint venture not be subject to GST/HST.
+
+#### Example 2
+
+A-Co, B-Co and C-Co, who are all Canadian residents and registrants, form a joint venture to develop an oil well in a particular area of northern Canada. Each co-venturer holds a one-third interest in the joint venture. The set-up of the joint venture is such that it has all the characteristics set out above in paragraph 25. C-Co decides to sell part of its one-third interest in the joint venture to Z-Co, so that C-Co now holds a 25% undivided interest in the joint venture and Z-Co holds 8% undivided interest.
+
+C-Co and Z-Co are not eligible to elect under subsection 167(1) in respect of the supply of the 8% of C-Co’s undivided interest in the joint venture to Z-Co since the supply of only a portion of the supplier’s undivided interest is not the supply of part of a business (see paragraph 9 above).
+
+### Goodwill
+
+s 167.1
+
+26. Where a valid election under subsection 167(1) is made and a business is transferred, GST/HST is not applied to that portion of the consideration that is reasonably attributed to goodwill. Moreover, if the conditions of subsection 167(1) are met but the election is not made, section 167.1 provides that GST/HST is still not applied to that portion of the consideration that is reasonably attributed to goodwill.
+
+Company A and Company B are registrants. Company B makes a supply of a business to Company A that meets the requirements of the election under subsection 167(1). Company A and Company B are eligible to jointly elect to have subsection 167(1.1) apply, but do not do so.
+
+Although an election under subsection 167(1) has not been made, since the conditions of the election under subsection 167(1) are met, paragraph 167(1)(*a*) deems the supplier to have made a separate supply of each property and service that is supplied under the sale agreement for consideration equal to that part of the consideration that can reasonably be attributed to that property or service.
+
+Section 167.1 will apply if part of the consideration for the supply of the business by Company B can reasonably be attributed to goodwill. That part of the consideration is not included in calculating GST/HST payable in respect of the supply.
+
+## Sale of a business by a non-registrant that has no commercial activity
+
+27. It is possible for a sale of a business to take place where the personal property is not subject to GST/HST, even without an election under subsection 167(1), if the requirements of paragraph 141.1(1)(*b*) are met. Under the provisions of that paragraph, the sale of personal property is not subject to GST/HST where the property was last acquired by the vendor exclusively (90% or more for a person that is not a financial institution, 100% for a financial institution) for use in activities that were not commercial activities and was not in fact used in commercial activities.
+
+28. Paragraph 141.1(1)(*b*) applies only to personal property. The sale of real property used in a business will generally be a taxable supply. Where a vendor, who is engaged exclusively in exempt activities, makes a taxable supply of real property such as leasehold improvements to a non-registered recipient, the vendor must collect and remit GST/HST on that particular supply. This would also be the case if they elected under subsection 167(1). However, the vendor may be eligible for a rebate under section 257 for the GST/HST paid on the vendor’s acquisition of, and improvements to, the real property.
+
+Dentist A, who is a non-registrant, has agreed to sell her dental practice to Dentist B who is also not registered for GST/HST purposes. The business assets sold by Dentist A are dental supplies, including various articles like crowns and caps, equipment and furniture, leasehold improvements and goodwill. Dentist A previously acquired these assets for use exclusively in the provision of exempt dental services and, in fact, did not make any taxable supplies.
+
+In this situation, the sale of dental supplies as well as equipment and furniture will not be subject to GST/HST. Furthermore, since the requirements for an election under subsection 167(1) are satisfied, under section 167.1, the consideration allocated to goodwill will not be included in calculating GST/HST payable. However, Dentist A must collect and remit GST/HST on the sale of the leasehold improvements since it is a taxable supply of real property. Dentist A will be eligible to apply for a rebate under section 257 equal to the lesser of the basic tax content of the leasehold improvements and the GST/HST payable on the sale of the leasehold improvements to Dentist B. Detailed information regarding the calculation of this rebate is included in [GST/HST Memorandum 19.3.6, Rebate on Non-Registrant’s Sale of Real Property.](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3-6.html)
+
+## Supply of the business assets of a deceased person
+
+Joint election ss 167(2)
+
+29. Under subsection 167(2), an election may be made that allows, in certain circumstances, the business assets of a deceased individual to be distributed, without the payment of GST/HST, to an individual registrant who is a beneficiary of the deceased’s estate. The conditions for the election under subsection 167(2) are different from those of the election under subsection 167(1), and do not require a business to be supplied.
+
+30. Subsection 167(2) permits a beneficiary of a deceased individual and the deceased individual’s estate to elect to have no GST/HST payable in respect of the supply of business property if:
+
+- immediately before death, the individual held the property for consumption, use or supply in the course of a business carried on by the individual;
+
+- the supplier of the property is the estate of the deceased individual;
+
+- the supply by the estate to the beneficiary is in accordance with
+
+    - the deceased individual’s will, or
+
+    - the prevailing laws relating to the succession of property on death;
+
+- the recipient of the supply by the estate is an individual who is a beneficiary of the estate and a registrant;
+
+- the property is received for consumption, use or supply in the course of commercial activities of the beneficiary; and
+
+- the estate and the beneficiary make the election.
+
+Form and manner of filing
+
+31. The estate and the beneficiary must jointly elect to have subsection 167(2) apply. There is no prescribed form for this election and nothing needs to be filed to notify the CRA that the election is being used.
+
+Effect of the election
+
+32. If the conditions listed inparagraph 30 are met and the election is made, the beneficiary is deemed to have acquired the property for use exclusively in commercial activities of the beneficiary, and no GST/HST is payable on the supply from the estate to the beneficiary.
+
+An individual operates a home decorating business as a sole proprietorship. This individual dies. The estate of the individual, in accordance with the individual’s will, transfers property of the business to another individual who is a registrant. This registrant will use the assets in the registrant’s own commercial activity. The estate of the deceased individual and the inheriting registrant jointly elect to not have GST/HST apply to the transfer of assets.
+
+GST/HST is not payable on the transfer of the assets of the business from the deceased individual’s estate to the registrant inheritor. In addition, the registrant inheritor is deemed to have acquired the property for use exclusively in its commercial activities.
+
+## Enquiries by telephone
+
+**Technical enquiries on the GST/HST:** 1-800-959-8287
+
+**General enquiries on the GST/HST:** 1-800-959-5525 (Business Enquiries)
+
+**If you are located in Quebec:** 1-800-567-4692 (Revenu Québec)
+
+All technical publications on GST/HST are available on the CRA Web site at [https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).

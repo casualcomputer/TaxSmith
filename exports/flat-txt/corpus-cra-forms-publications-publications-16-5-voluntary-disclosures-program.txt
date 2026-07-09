@@ -1,0 +1,497 @@
+Title: ARCHIVED - Voluntary Disclosures Program (Application Received from March 1, 2018, Through September 30, 2025)
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/16-5/voluntary-disclosures-program.html
+Corpus path: corpus/cra/forms-publications/publications/16-5/voluntary-disclosures-program.md
+Document type: publication
+Last modified: 2017-12-15
+
+# ARCHIVED - Voluntary Disclosures Program (Application Received from March 1, 2018, Through September 30, 2025)
+
+## Notice to the reader:
+
+This memorandum applies to Voluntary Disclosures Program applications received on or after March 1, 2018 and prior to October 1, 2025. For applications received on or after October 1, 2025, refer to [GST/HST Memorandum 16-5-1, Voluntary Disclosures Program (Applications Received On or After October 1, 2025)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/16-5-1.html).
+
+GST/HST Memorandum 16-5 December 15, 2017
+
+This memorandum applies to Voluntary Disclosures Program applications received on or after March 1, 2018 and supersedes Information Circular IC00-1R5, Voluntary Disclosures Program, and dated January 2017. In order for a registrant to qualify for the Voluntary Disclosure Program relief outlined in IC00-1R5, the CRA must have received the registrant’s application, including their name, on or before February 28, 2018.
+
+The purpose of this memorandum is to provide information about the Canada Revenue Agency's Voluntary Disclosures Program as it applies to the goods and services tax and the harmonized sales tax, excise tax, excise duty, the softwood lumber products export charge and the air travellers security charge. The information in this memorandum is a guideline as to how the Canada Revenue Agency administers the Voluntary Disclosures Program. It is not intended to be exhaustive, and is not meant to restrict the spirit or intent of the legislation, or to unduly limit the discretion of the Minister of National Revenue.
+
+For information regarding the Canada Revenue Agency's Voluntary Disclosures Program as it applies to income tax disclosures, please refer to [Income Tax Information Circular IC00-1R6, Voluntary Disclosures Program](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic00-1/ic00-1r6-voluntary-disclosures-program.html).
+
+The information in this publication does not replace the law found in the Excise Tax Act, the Excise Act, 2001, the Air Travellers Security Charge Act, the Softwood Lumber Products Export Charge Act, 2006 and their regulations.
+
+## Table of Contents
+
+- [General](#_Toc500830664)
+
+    - [Definition](#_Toc500830665)
+
+    - [Ministerial discretion](#_Toc500830666)
+
+    - [Principles of the VDP](#_Toc500830667)
+
+- [VDP categories](#_Toc500830668)
+
+    - [Category 1 – GST/HST wash transactions](#_Toc500830669)
+
+    - [Category 2 – General program](#_Toc500830670)
+
+    - [Category 3 – Limited program](#_Toc500830671)
+
+- [Relief provided under the VDP](#_Toc500830672)
+
+    - [Penalty relief](#_Toc500830673)
+
+    - [Interest relief](#_Toc500830674)
+
+    - [Limitation period on discretion for relief of penalties and interest](#_Toc500830675)
+
+    - [Prosecution relief](#_Toc500830676)
+
+- [Circumstances where relief may be considered](#_Toc500830677)
+
+- [Circumstances where relief will typically not be considered](#_Toc500830678)
+
+- [Conditions of a valid application](#_Toc500830701)
+
+    - [Application must be voluntary](#_Toc500830679)
+
+    - [Application must be complete](#_Toc500830680)
+
+    - [Application involves a penalty or interest](#_Toc500830681)
+
+    - [One reporting period past due](#_Toc500830682)
+
+    - [Payment](#_Toc500830683)
+
+- [Making a VDP application](#_Toc500830684)
+
+    - [Pre-disclosure discussion](#_Toc500830685)
+
+    - [Information/documentation required](#_Toc500830686)
+
+    - [Authorization of registrant’s representative](#_Toc500830687)
+
+    - [The effective date of a disclosure (EDD)](#_Toc500830688)
+
+    - [Where to make an application](#_Toc500830689)
+
+- [Acceptance of a VDP application](#_Toc500830690)
+
+- [Denial of a VDP application](#_Toc500830691)
+
+- [Second VDP application by the same registrant](#_Toc500830692)
+
+- [Registrant’s right of redress](#_Toc500830693)
+
+    - [Second administrative review](#_Toc500830694)
+
+    - [Judicial review](#_Toc500830695)
+
+    - [Objection rights](#_Toc500830696)
+
+- [Related CRA policy](#_Toc500830702)
+
+    - [Waiver of penalty and interest](#_Toc500830697)
+
+    - [Wash transaction](#_Toc500830698)
+
+    - [Income tax](#_Toc500830699)
+
+- [More information](#_Toc500830700)
+
+- [Comments](#_Toc500830703)
+
+## General
+
+### Definition
+
+1. In this memorandum, the term **registrant** includes a goods and services tax/harmonized sales tax (GST/HST) registrant/claimant, an excise duty licensee/registrant, an excise tax licensee, an excise tax refund claimant, an air travellers security charge registrant, a designated air carrier, a registered exporter of softwood lumber products and any other person who is required to report or remit an amount as or on account of tax.
+
+### Ministerial discretion
+
+2. The Minister of National Revenue (Minister) has discretionary authority to provide relief under the following provisions:
+
+- sections 88, 281.1 and 284 and subsection 284.1(3) of the Excise Tax Act;
+
+- section 4 of the Credit for Provincial Relief (HST) Regulations SOR/2011-57;
+
+- sections 173 and 255.1 of the Excise Act, 2001;
+
+- sections 30 and 55 of the Air Travellers Security Charge Act; and
+
+- section 37 of the Softwood Lumber Products Export Charge Act, 2006.
+
+3. Through the Voluntary Disclosures Program (VDP), a registrant can make an application to correct inaccurate or incomplete information, or to disclose information not previously reported. For example, the application may relate to undisclosed tax liabilities, improperly claimed input tax credits, refunds or rebates, unpaid tax or net tax from a previous reporting period, or any other amount not previously reported to the Canada Revenue Agency (CRA). It may also relate to incomplete information on a return for a reporting period or a failure to file information returns as and when required under the relevant legislation.
+
+4. This memorandum explains how a registrant may make an application, including the proper information and documentation needed to support such an application. This memorandum also outlines the administrative guidelines the CRA will follow in deciding whether to accept the application under the VDP.
+
+### Principles of the VDP
+
+5. The VDP promotes compliance with Canada’s tax laws by encouraging registrants to voluntarily come forward and correct any previous errors or omissions in their tax affairs. If a VDP application is accepted by the CRA, the registrant will have to pay the taxes, duties or charges owing, plus interest in part or in full, but would be eligible for relief from prosecution and, in some cases, from penalties that they would otherwise be subject to under the legislation.
+
+6. The majority of registrants comply with their obligations and an important principle of the VDP is that the relief be fair and not be considered to reward non-compliance. In other words, it is important to ensure that registrants who are fully compliant are not worse off economically than those seeking to correct their affairs through this program. The VDP is not intended to serve as a vehicle for registrants to intentionally avoid their legal obligations under legislation administered by the CRA.
+
+7. The Minister is not required to grant relief in respect of all applications made to the VDP. Each request will be reviewed and decided on its own merits. In exercising discretion, the Minister is guided by principles of procedural fairness which require decisions to be made in good faith, in a manner that promotes the objects of the relevant legislation. This memorandum provides general guidelines on some of the relevant considerations in the exercise of this discretion. If relief is denied, the CRA will provide the registrant with an explanation of the reasons for the decision. In such cases, relief of arrears interest and any penalties payable may be requested and considered in accordance with the taxpayer relief provisions as described in [GST/HST Memorandum 16-3, Cancellation or Waiver of Penalties and Interest](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/16-3.html).
+
+8. The CRA reserves the right to audit or verify any information provided in a VDP application whether it is accepted under the VDP or not. If the CRA finds there is any misrepresentation due to neglect, carelessness, wilful default, or fraud, a reassessment can be issued at any time for any tax year or fiscal or reporting period to which the misrepresentation relates, not just those included in the VDP application. Furthermore, any relief that may have been granted under the VDP will be cancelled as a result of the misrepresentation.
+
+## VDP categories
+
+9. Effective March 1, 2018, VDP applications relating to GST/HST, excise tax, excise duty, softwood lumber products export charge and air travellers security charge may fall under three separate categories:
+
+- Category 1 (Wash Transactions),
+
+- Category 2 (General Program), and
+
+- Category 3 (Limited Program).
+
+10. The determination of whether an application should be processed under Category 1, 2 or 3 will be made on a case-by-case basis, using the factors set out in paragraphs 12 to 19 below.
+
+11. Details of the relief provided under the VDP for the three Categories are described in paragraphs 20 to 26 below.
+
+### Category 1 – GST/HST wash transactions
+
+12. Category 1 specifically provides relief for applications involving GST/HST **wash transactions** that are eligible for a reduction of penalty and interest under the policy set out in [GST/HST Memorandum 16-3-1, Reduction of Penalty and Interest in Wash Transaction Situations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/16-3-1.html). For examples of eligible wash transactions, please see this memorandum.
+
+### Category 2 – General program
+
+13. In general terms, Category 2 provides relief for applications disclosing non-compliance or errors including, but not limited to, situations involving:
+
+- GST/HST wash transactions that are not eligible for a reduction of penalty and interest under the policy set out in GST/HST Memorandum 16-3-1 (for examples of non-eligible wash transactions, please see the memorandum);
+
+- reasonable errors;
+
+- failure to file information returns;
+
+- no gross negligence or deliberate avoidance of tax; or
+
+- over-claimed rebates.
+
+14. For example, in January 2017, while preparing its financial statements for the year ended December 31, 2016 a registrant discovers that due to an accounting error, its GST/HST return for the quarterly reporting period ending June 30, 2016, overstated its input tax credits. The registrant had claimed input tax credits that it had already claimed in the previous reporting period. This would normally qualify under the General Program.
+
+### Category 3 – Limited program
+
+15. In general terms, Category 3 provides limited relief for applications that disclose non-compliance where there is an element of intentional conduct on the part of the registrant or a closely related party including, but not limited to, situations where:
+
+- GST/HST was charged or collected but not remitted;
+
+- efforts were made to avoid detection (for example, participation in underground economy);
+
+- the disclosure is made after an official CRA statement regarding its intended specific focus of compliance (for example, the launch of a compliance project or campaign) or following broad-based CRA correspondence (for example, a letter issued to registrants involved in a particular sector about a compliance issue);
+
+- there had been deliberate or wilful default or carelessness amounting to gross negligence.
+
+16. For example, a person making supplies of consulting services which are taxable at the rate of 13% charged and collected GST/HST on the taxable supplies, and although the person was aware of their obligations regarding the GST/HST, the person chose not to register for GST/HST and never remitted the GST/HST collected. This would normally qualify under the Limited Program.
+
+17. Generally, applications by corporations with gross revenue in excess of $250 million in at least two of their last five taxation years, and any related entities, will be considered under the Limited Program.
+
+18. Additionally, in all cases, the following factors may be considered when determining under which category a VDP application should be processed:
+
+- the dollar amounts involved;
+
+- the number of years of non-compliance;
+
+- the sophistication of the registrant; and
+
+- how quickly the registrant took corrective measures to address their non-compliance upon its discovery.
+
+19. The existence of a situation or a single factor will not necessarily mean that a registrant is eligible only for the Limited Program. For example, a sophisticated registrant may still correct a reasonable error under the General Program.
+
+## Relief provided under the VDP
+
+### Penalty relief
+
+20. If a VDP application is accepted as having met the conditions set out in paragraph 29, it will be considered a valid disclosure. The registrant may be eligible for relief from penalties as follows:
+
+- for Categories 1 and 2, 100% penalty relief; and
+
+- for Category 3, no gross negligence penalty will be applied even where the facts establish that the registrant is liable for such a penalty; however, other applicable penalties will still be applied.
+
+21. Relief from penalties is subject to the limitation period explained in paragraph 24 below.
+
+### Interest relief
+
+22. In addition to penalty relief, if a VDP application is accepted by the CRA, the registrant may be eligible for relief from the application of interest in respect of assessments resulting from the application as follows:
+
+- for Category 1, 100% interest relief;
+
+- for Category 2, 50% of the applicable interest will be relieved;
+
+- for Category 3, none of the applicable interest will be relieved.
+
+23. Relief from interest is subject to the limitation period explained in paragraph 25 below.
+
+### Limitation period on discretion for relief of penalties and interest
+
+24. The Minister’s ability to grant penalty relief is limited to any penalty that could apply to any tax year (or fiscal or reporting period, as applicable) that ended within the previous 10 calendar years before the end of the reporting period in which the application is filed.
+
+25. The Minister’s ability to grant interest relief is limited to the interest that accrued during the previous 10 calendar years before the end of the reporting period in which the application is filed. This is the case regardless of the tax year (or fiscal or reporting period, as applicable) in which the tax debt arose*.*For more information, see the [Revised 10-year limitation period for interest relief](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/revised-10-year-limitation-period-interest-relief.html).
+
+### Prosecution relief
+
+26. In addition to penalty and interest relief, if a VDP application is accepted by the CRA, the registrant will not be referred for criminal prosecution with respect to the disclosure (i.e., for tax offences).
+
+## Circumstances where relief may be considered
+
+27. Relief under the VDP may be considered if a registrant:
+
+- failed to fulfil their obligations under the legislation noted in this memorandum;
+
+- failed to charge, collect or report GST/HST for any reporting period;
+
+- improperly claimed input tax credits, refunds or rebates;
+
+- provided incomplete information on a return for a reporting period; or
+
+- failed to file information returns.
+
+## Circumstances where relief will typically not be considered
+
+28. While special situations will be considered on a case-by-case basis, the following applications will generally not be considered under the VDP:
+
+- applications where a registrant is attempting to increase the amount of input tax credits, other credit adjustments or rebates without any corresponding increase in tax liability in the application period;
+
+- applications relating to an election — there are provisions in the various acts administered by the CRA which entitle a registrant to choose or **elect** a specific tax treatment of certain transactions, for example, elections for nil consideration between closely related persons (under section 156 of the Excise Tax Act) should be completed using [Form RC4616, Election or Revocation of an Election for a Qualifying Group to Treat Certain Taxable Supplies as Having Been Made for Nil Consideration for GST/HST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html);
+
+- applications where a person is in receivership or has become bankrupt; and
+
+- post-assessment requests for penalty and interest relief; these requests will be considered to be retroactive tax planning.
+
+## Conditions of a valid application
+
+29. A VDP application must meet the following five conditions to be valid and to qualify for relief. The application must:
+
+- be voluntary;
+
+- be complete;
+
+- involve the application or potential application of a penalty or interest;
+
+- include information that is at least one reporting period past due; and
+
+- include payment of the estimated tax owing.
+
+### Application must be voluntary
+
+30. Subject to the exceptions in paragraph 32, an application will not be voluntary if:
+
+- the registrant was aware of, or had knowledge of an enforcement action (see paragraph 31) with respect to the information being disclosed to the CRA;
+
+- enforcement action (see paragraph 31) relating to the subject matter of the VDP application has been initiated against the registrant or a person associated with, or related to, the registrant (this includes, but is not restricted to, corporations, shareholders, spouses and partners) or against a third party, where the purpose and impact of the enforcement action against the third party are sufficiently related to the present application; or
+
+- the CRA has already received information regarding the specific registrant’s (or a related registrant’s) potential involvement in tax non-compliance (for example, a clear lead that the registrant is participating in the underground economy or other information).
+
+31. For purposes of the VDP, an **enforcement action** may include, but is not limited to:
+
+- an audit, examination, investigation or other enforcement action by the CRA or any other authority or administration, such as, but not limited to, a law enforcement agency, securities commission, or federal or provincial authorities;
+
+- requests, demands or requirements issued by the CRA, relating to unfiled returns, unremitted taxes/instalments or non-registrants (although these actions may only pertain to one specific year or fiscal or reporting period, the procedure will be considered to be an enforcement action, for purposes of the VDP, for all tax years or fiscal or reporting periods);
+
+- requests, demands or requirements that have been issued with reference to other tax affairs of the registrant, partners of the registrant, trusts in which the registrant is a settlor, trustee or beneficiary, or corporations associated with, or related to, the registrant; and/or
+
+- direct contact by a CRA employee for any reason relating to non-compliance (for example, unfiled returns, audit, refund integrity examination, collection issues).
+
+32. Not all CRA-initiated enforcement action may be cause for a VDP application to be denied by the CRA. Examples of this include:
+
+- a letter from the CRA inviting the registrant to use the VDP to correct their tax affairs; however, this letter would be a factor that could result in the application being considered for Category 3 (Limited Program) treatment;
+
+- an audit of a registrant’s files related to a source deductions (payroll) issue at the same time as the registrant is submitting a VDP application for an amount of GST/HST which was collected but not remitted to the CRA. There may be no correlation between these two tax matters. As such, the enforcement action on the payroll account may not be a reason to deny the registrant’s GST/HST VDP application; or
+
+- a registrant may be under audit by the CRA at the same time as the registrant is submitting a VDP application that is not related to the audit. For example, the registrant may be undergoing a GST/HST refund integrity examination for a current period, but may wish to disclose an unrelated GST/HST omission from a previous period not related to the current examination.
+
+### Application must be complete
+
+33. A registrant’s VDP application must be made for tax years or fiscal or reporting periods where there was previously inaccurate, incomplete or unreported information regarding their tax affairs (including any non-arm’s length transactions and circumstances) as follows:
+
+- for Categories 1 and 2, for the four calendar years before the date the application is filed; and
+
+- for Category 3, for all relevant years.
+
+34. Registrants are responsible for making a complete application. For more information on requirements for keeping books and records:
+
+- for GST/HST, see [GST/HST Memorandum 15-1, General Requirements for Books and Records](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/15-1.html);
+
+- for excise duties, see [Excise Duty Memorandum EDM9-1-1, General requirements for records;](https://www.canada.ca/content/canadasite/en/revenue-agency/services/forms-publications/publications/edm9-1-1/general-requirements-books-records.html)
+
+- for excise taxes, see [Excise Taxes and Special Levies Memorandum X6-1, Books and Records](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/x6-1/books-records.html).
+
+35. There may be extraordinary circumstances where the registrant cannot submit all of the information or documentation with their VDP application. In these circumstances a request for an additional specified period of time must be made in writing at the time the application is submitted. Upon review of the request, the CRA may allow the registrant a period of time to submit such information in order to complete the application. Normally this period of time is no more than 90 days from the effective date of disclosure (EDD) (see paragraphs 54 to 59). In cases where books and records no longer exist, the registrant should make all reasonable efforts to estimate the relevant amounts for those tax years or fiscal or reporting periods.
+
+36. While the information provided in an application must be complete, the application may not be disqualified simply because it contains minor errors or omissions. As well, if the CRA is satisfied that a registrant has provided all available information and legitimately cannot locate or obtain certain documents (for example, records were destroyed due to natural or human-made disasters such as a flood or fire) or has made reasonable efforts to estimate revenue amounts, the application may be considered to be complete. Each application will be reviewed on its own merits.
+
+### Application involves a penalty or interest
+
+37. A request for VDP relief must involve the application or potential application of a penalty or interest. The penalty type that could normally be imposed may be a late-filing penalty, a failure-to-remit penalty, an instalment penalty, a failure to provide information on a return penalty, an omission penalty or a gross negligence penalty.
+
+38. If neither a penalty nor interest applies, then a registrant cannot seek relief through the VDP. However, the information should still be submitted and it will be handled through the CRA’s normal processing procedures.
+
+### One reporting period past due
+
+39. A VDP application must include information that relates to a reporting period that is at least one reporting period past due. The program is not meant to be used as a de facto filing extension. However, an application that includes information that relates to a reporting period that is more than one reporting period past due and information that is more recent may be considered.
+
+40. For example, a registrant, who is a quarterly calendar filer, had not filed their GST/HST returns for the period January 1, 2016 to June 30, 2018. On July 20, 2018, the registrant submitted all of the GST/HST returns requesting that they be considered under the VDP. Although the GST/HST return for the period ending June 30, 2018 would be less than one reporting period past due (filing due date of July 31, 2018), the CRA would consider the return for the period ending June 30, 2018 as part of the VDP application, provided that all other conditions have been met.
+
+41. In contrast, the GST/HST return for the period ending June 30, 2018 would not be considered for VDP treatment if is the only return being filed. In that case, this return would be handled through the CRA’s normal processing procedures.
+
+### Payment
+
+42. Subject to paragraph 43, a registrant must include payment of the estimated tax owing with their VDP application.
+
+43. When the registrant does not have the ability to make payment of the estimated tax owing at the time of the VDP application, they may request to be considered for a payment arrangement subject to approval from CRA Collections officials. The registrant will have to make full disclosure and provide evidence of income, expenses, assets and liabilities supporting the inability to make payment in full. In some cases, the payment arrangement will need to be supported by adequate security.
+
+## Making a VDP application
+
+### Pre-disclosure discussion
+
+44. Registrants who are unsure if they want to proceed with an application are given an opportunity to participate in preliminary discussions about their situation on an anonymous basis to get insight into the VDP process, a better understanding of the risks involved in remaining non-compliant, and the relief available under the VDP. These discussions with a CRA official are for the benefit of the registrant; they are informal, non-binding and may occur before the identity of the registrant is revealed. For complex technical reporting issues or questions, registrants will be referred to a CRA official in a specialized audit area to discuss their situation on an anonymous basis.
+
+45. These discussions do not constitute acceptance into the VDP and have no impact on CRA’s ability to audit, penalize or refer a case for criminal prosecution.
+
+### Information/documentation required
+
+46. Registrants should use [Form RC199, Voluntary Disclosures Program (VDP) Application](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc199.html) to apply for VDP. If a registrant is not using Form RC199, the VDP application should include all of the information requested on that form. All CRA returns, forms and schedules needed to correct the non-compliance must be included with the application.
+
+47. Where a registrant received assistance from an advisor in respect of the subject matter of the VDP application, the name of that advisor should generally be included in the application.
+
+48. It is expected that registrants and/or their representatives will cooperate in the voluntary disclosure process. While the VDP application is being evaluated, the CRA official may request documents, records, books of account, as well as other additional specific documentation, for example information relating to revenue amounts being disclosed or input tax credits or expenses being claimed. Registrants must comply with such requests within the stipulated timeframes, and provide sufficient detail to allow the facts of the case to be verified. If a registrant refuses to provide complete documentation or if the CRA is not satisfied that the application is complete, then the registrant will in most cases not be eligible for relief.
+
+49. Due to the nature of a particular application, referrals to other programs within the CRA may be necessary in order to fully analyze the application. Furthermore, applications involving complex issues or large dollar amounts will be reviewed for completeness by a specialist area prior to the VDP application being accepted.
+
+### Authorization of registrant’s representative
+
+50. A registrant’s authorized representative can submit the application for relief under VDP. In this case, both the registrant and the authorized representative must sign the VDP application (paragraph 46).
+
+51. The registrant must grant proper authorization to the representative by submitting a signed copy of the appropriate authorization form.
+
+- For individuals—through the online services in [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), in writing, or go to [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html);
+
+- For businesses—through the online services in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), in writing, or go to [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+52. A copy of the authorization should be attached to the VDP application.
+
+53. The CRA cannot discuss any confidential information with a registrant’s representative before receiving the appropriate authorization from the registrant.
+
+### The effective date of a disclosure (EDD)
+
+54. The EDD is the date the CRA receives a completed and signed VDP application (paragraph 46).
+
+55. From this date, provided that the application meets the five validity conditions set out in paragraph 29 of this memorandum, the registrant is granted protection from the initiation of prosecution action related to the disclosure and penalty and/or interest relief, where applicable regarding the amounts included in the disclosure.
+
+56. If the application does not otherwise meet the five conditions to qualify for relief, the application will not be accepted into the VDP and therefore there is no EDD.
+
+57. If necessary, the registrant may have up to 90 days from the EDD for the submission of additional CRA requested information and/or documentation to complete the application.
+
+58. If this time frame is not sufficient due to the complexity of the application or other extraordinary circumstances, CRA officials may authorize an extension of this period, upon receipt of a written request from the registrant or an authorized representative. The additional information must be provided within the stipulated time frame.
+
+59. If the additional information and/or documentation is not received within the stipulated time frame, the CRA may commence enforcement action wherein penalties and interest may be imposed and an investigation and subsequent prosecution action may be initiated.
+
+### Where to make an application
+
+60. The completed VDP application must be sent either:
+
+**Electronically**
+
+Through [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), or [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) (for more information go to [Submit documents online](https://www.canada.ca/en/revenue-agency/services/e-services/submit-documents-online.html))
+
+**By mail**
+
+Voluntary Disclosures Program Shawinigan National Verification and Collections Centre 4695 Shawinigan-Sud Boulevard Shawinigan QC G9P 5H9
+
+**By fax**
+
+1-888-452-8994
+
+## Acceptance of a VDP application
+
+61. If it is determined that the five conditions to qualify for relief (paragraph 29) have been met, the registrant will be advised in writing of the following:
+
+- acceptance of the application into VDP (and, for applications received on or after March 1, 2018, under which category – see paragraphs 12 to 19);
+
+- the periods eligible for VDP relief;
+
+- the EDD;
+
+- the disclosed information may be referred to another CRA program area; and
+
+- the disclosed information will be sent to the appropriate area for processing the assessment or reassessment.
+
+## Denial of a VDP application
+
+62. If it is determined that any of the five conditions to qualify for relief (paragraph 29) have not been met or it is a circumstance where the VDP application will typically not be considered (paragraph 28), the registrant will be advised in writing that:
+
+- the application has been denied;
+
+- the disclosed information may be referred to another CRA program area;
+
+- the disclosed information may result in an assessment or reassessment;
+
+- penalties and interest may be levied; and
+
+- in certain circumstances, an investigation and prosecution may be initiated.
+
+## Second VDP application by the same registrant
+
+63. Registrants are expected to remain compliant after being granted relief under the VDP. A registrant is generally entitled to obtain the benefits of the VDP only once. A second application from the same registrant will normally only be considered by the CRA if the circumstances surrounding the second application are both beyond the registrant’s control and related to a different matter from the first application.
+
+64. The CRA will verify if a registrant has made a previous application. If it is discovered during the course of the review that the registrant had previously made an application, the CRA may refuse to give the second application further consideration under the VDP.
+
+65. If an attempted second application is made for the same issue that was previously denied as incomplete due to information not being received by the stipulated date, then the second application will be denied.
+
+## Registrant’s right of redress
+
+### Second administrative review
+
+66. There is no statutory right of objection under the legislation for a registrant to dispute a discretionary decision that denied relief or allowed only partial relief.
+
+67. However, if the registrant believes that the Minister has not exercised discretion in a fair and reasonable manner, the registrant may request in writing that the Assistant Director of the Shawinigan National Verification and Collections Centre review and reconsider the original decision. The registrant has the opportunity at that time to make additional representations for the CRA to consider. The CRA will not consider a request for a second review if an application was denied because the information was not previously submitted within the stipulated time frame.
+
+68. The Assistant Director may designate a delegated authority, not involved in the previous review and decision, to carry out the second administrative review on their behalf.
+
+### Judicial review
+
+69. Where a registrant believes that the Minister has not exercised discretion in a fair and reasonable manner, the registrant may make an application to the Federal Court for a judicial review of the Minister’s discretionary decision, pursuant to section 18.1 of the Federal Courts Act, within 30 days from the date the notification of the decision was communicated to the registrant.
+
+70. To request a judicial review, a registrant must send a completed Form 301, Notice of Application, with the appropriate filing fee, to the registrar of the Federal Court. For more information on how to file an application for judicial review or other general enquiries, call the Courts Administration Service at 1‑800‑663‑2096 or visit their website at [Courts Administration Service](https://www.cas-satj.gc.ca/en/home).
+
+71. If the Federal Court is of the view that the Minister’s discretion was not properly exercised, the Court may set aside the Minister’s decision and refer the request back to the CRA for reconsideration by another delegated official.
+
+72. As a general rule, registrants should request a second administrative review from the CRA before filing an application for a judicial review with the Federal Court.
+
+### Objection rights
+
+73. If a registrant’s VDP application is accepted under Category 3 (the Limited Program), in consideration of the relief being provided, the registrant will be required to waive their rights to object and appeal in relation to the specific matter disclosed in the VDP application and any specifically related assessment of taxes. However, this waiver will not prevent the registrant from filing a Notice of Objection in circumstances where the assessment includes a calculation error, relates to a characterization issue (such as whether a supply is a taxable or exempt supply), or relates to an issue other than the matter disclosed in the VDP application.
+
+## Related CRA policy
+
+### Waiver of penalty and interest
+
+74. The VDP provides registrants with relief from penalties and interest when the conditions noted in this document are met. A separate CRA policy exists to provide relief from both interest and penalties in circumstances beyond a person's control. Details of this policy are available in [GST/HST Memorandum 16-3, Cancellation or Waiver of Penalties and Interest](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/16-3.html). The administrative guidelines also apply to requests made under the taxpayer relief provisions of the Air Travellers Security Charge Act, the Softwood Lumber Products Export Charge Act, 2006 and the non-GST/HST portion of the Excise Tax Act.
+
+### Wash transaction
+
+75. For requests that deal with a wash transaction that does not qualify under the VDP set out in this memorandum, GST/HST registrants may still be eligible for some interest relief, as described in [GST/HST Memorandum 16-3-1, Reduction of Penalty and Interest in Wash Transaction Situations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/16-3-1.html).
+
+### Income tax
+
+76. For information regarding the Voluntary Disclosures Program as it applies to Income Tax disclosures, please refer to [Income Tax Information Circular IC00-1R6, Voluntary Disclosures Program](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic00-1.html)*.*
+
+## More information
+
+77. For more information, go to [Voluntary Disclosures Program (VDP)](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/voluntary-disclosures-program-overview.html).
+
+## Comments
+
+78. To provide comments about this memorandum, please write to us at:
+
+Voluntary Disclosures Program Compliance Programs Branch Canada Revenue Agency Ottawa ON K1A 0L5
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make **general GST/HST enquiries,** call **Business Enquiries** at **1-800-959-5525**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1-800-567-4692** or visit their website at [revenuquebec.ca](http://www.revenuquebec.ca).
+
+If you are a **selected listed financial institution**(whether or not you are located in Quebec) and require information on the **GST/HST**or the**QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or for **general GST/HST or QST enquiries**, call **Business Enquiries** at **1-800-959-5525**

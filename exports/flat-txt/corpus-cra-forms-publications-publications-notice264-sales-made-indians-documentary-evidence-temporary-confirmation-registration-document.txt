@@ -1,0 +1,45 @@
+Title: Sales Made to Indians and Documentary Evidence – Temporary Confirmation of Registration Document
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice264/sales-made-indians-documentary-evidence-temporary-confirmation-registration-document.html
+Corpus path: corpus/cra/forms-publications/publications/notice264/sales-made-indians-documentary-evidence-temporary-confirmation-registration-document.md
+Document type: publication
+Last modified: 2017-11-07
+
+# Sales Made to Indians and Documentary Evidence – Temporary Confirmation of Registration Document
+
+GST/HST Notices - Notice 264 August 2012
+
+This version replaces the one dated May 2011.
+
+The *Gender Equity in Indian Registration Act*(Bill C-3) came into force on January 31, 2011. Individuals registered as Indians[Footnote1](#fn1) because of that Act, as well as other newly registered Indians, receive a Temporary Confirmation of Registration Document (TCRD) from Aboriginal Affairs and Northern Development Canada (AANDC), formerly Indian and Northern Affairs Canada (INAC). The TCRD shows the name of the individual, a registration number, the effective date of registration and the expiration date of the TCRD. Information on the registration process can be found on AANDC's Web site at [www.aadnc-aandc.gc.ca/eng/1308148127861](http://www.aadnc-aandc.gc.ca/eng/1308148127861).
+
+### Tax relief available to Indians
+
+In part, section 87 of the *Indian Act* provides exemption from taxation on personal property of an Indian situated on a reserve.
+
+The Canada Revenue Agency's (CRA) general policy with respect to GST/HST relief on supplies of property and services made to Indians is provided in [GST/HST Technical Information Bulletin B-039, GST/HST Administrative Policy – Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html). The conditions in TIB B-039 must be met in order for a vendor to provide tax relief when making supplies of property or services to an Indian.
+
+One of those conditions is that the vendor keep adequate evidence that the supply for which no GST/HST was payable was made to an Indian. The Indian would generally show their *Certificate of Indian Status* card to the vendor, and the vendor would make a notation on the invoice or other sales document that is retained by the vendor of the registry number or the band name and family number found on the card.
+
+The CRA also accepts the TCRD issued to Indians by AANDC as sufficient documentary evidence when making sales to Indians. The Indian should show their original TCRD to the vendor. The original TCRD has a raised seal of the Indian Registrar on the bottom right-hand corner. Photocopies of the TCRD presented by an Indian do not qualify as sufficient documentary evidence. The vendor should make a notation on the invoice or other sales document that is retained by the vendor of the registration number and the expiration date of the TCRD.
+
+#### Expired TCRDs
+
+AANDC is in the process of introducing a new Secure Certificate of Indian Status card (SCIS card) that will improve security and reliability. However, in some instances delays in issuing the new SCIS cards will mean that newly registered Indians will not always receive their SCIS cards prior to the expiry date on their TCRDs.
+
+Therefore, the CRA will accept a TCRD, even if expired, as supporting documentation that the purchaser is an Indian. Additional picture identification could be presented along with the expired TCRD as further authentication. The CRA will review this position after AANDC makes the new SCIS card available to all Indians registered under the *Indian Act*. For more information on the SCIS, please visit [www.aadnc-aandc.gc.ca/eng/1100100032383/1100100032385](http://www.aadnc-aandc.gc.ca/eng/1100100032383/1100100032385).
+
+#### Photocopied TCRDs in special circumstances
+
+Because of the nature of sales by telephone, Internet or other electronic means, suppliers making tax relieved sales to Indian customers are required to ask for a copy of the TCRD to be sent to them by mail or electronically. For such sales made to Indians, a copy of the TCRD is acceptable as sufficient documentary evidence. See [GST/HST Info Sheet GI-127, Documentary Evidence when Making Tax-Relieved Sales to Indians and Indian Bands over the Telephone, Internet or Other Electronic Means](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-127.html) for more information. Similarly, because of the nature of rebate claims mailed to the CRA, an Indian who claims a rebate for "tax paid in error" (code 1) on [Form GST189, General Application for Rebate of GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html) may attach a photocopy of the TCRD to the form.
+
+However, except for sales by telephone, Internet or other electronic means and code 1 rebate claims, an **original** TCRD must be shown to the vendor.
+
+### Enquiries by telephone
+
+**Technical enquiries on the GST/HST:** 1-800-959-8287
+
+**General enquiries on the GST/HST:** 1-800-959-5525 (Business Enquiries)
+
+**If you are located in Quebec:** 1-800-567-4692 (Revenu Québec)
+
+All technical publications on GST/HST are available on the CRA Web site at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).

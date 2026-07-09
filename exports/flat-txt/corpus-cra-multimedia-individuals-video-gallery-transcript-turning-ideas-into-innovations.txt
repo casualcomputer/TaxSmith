@@ -1,0 +1,28 @@
+Title: Turning ideas into innovations
+Source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/individuals-video-gallery/transcript-turning-ideas-into-innovations.html
+Corpus path: corpus/cra/multimedia/individuals-video-gallery/transcript-turning-ideas-into-innovations.md
+Document type: video_transcript
+Last modified: 2018-01-25
+
+# Turning ideas into innovations
+
+## Transcript
+**NARRATOR (Annick):** The CRA is always thinking of new ways to offer better services to Canadians… and this means staying innovative.
+Recently, three teams were given the challenge of creating real change to improve our services.
+You could say...
+...they were sent on a mission.
+**SEBASTIEN:** My team’s mission was to make a mobile version of the CRA’s existing online service, MyAccount. It needed to work for smartphones and tablets because those are what Canadians are using.
+Integrating all of those services into one app meant collaborating with CRA employees from across the country.
+**ANNICK:** My team’s mission was to redesign the notice of assessment that everyone receives when they file their income tax and benefit return.
+We wanted to make the notice of assessment easy to read, with the key information on the first page.
+**ELISE:** My team’s mission was to make it even easier to file online for Canadians who don’t want to fill out paper tax forms.
+The CRA already has much of the information on file, so why not create a way to transfer it automatically to the forms?
+**NARRATOR (Annick):** Our missions were definitely challenging… but with so much teamwork and creativity, never impossible!
+**ANNICK:** We used a development methodology called “Agile”, that’s popular among tech start-ups.
+Agile is a more fluid workflow that fosters collaboration. The increased pace and creativity allowed us to make bigger changes that benefit Canadians.
+The results speak for themselves—now, the notice of assessment really meets the needs of Canadians!
+**ELISE:** With our partners in the information technology field, and with input from external stakeholders, we created a way to automatically fill out tax returns.
+This is a very secure way to fill in parts of your return.
+**SEBASTIEN:** We improved our online services by creating a mobile app called myCRA. Now you can do simple tasks, like check on the status of your tax refund, check your RRSP room, or even change your address – anytime, anywhere...
+**NARRATOR (Annick):** It’s satisfying to know that our innovations are helping to improve our service to Canadians.
+And this is just the beginning...

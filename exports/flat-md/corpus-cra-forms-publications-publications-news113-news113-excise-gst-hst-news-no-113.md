@@ -1,0 +1,364 @@
+---
+title: "Excise and GST/HST News - No. 113"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news113/news113-excise-gst-hst-news-no-113.html
+last_modified: 2023-03-27
+---
+# Excise and GST/HST News - No. 113
+
+March 2023
+
+## Table of contents
+
+- [The supply of prescription eyeglasses and contact lenses – Contact Lens King Inc. v. The King](#toc0)
+
+- [Application of the HST to the Newfoundland and Labrador sugar sweetened beverage tax](#toc1)
+
+- [Instruments considered to be an emission allowance](#toc2)
+
+- [Proposed GST/HST amendments related to pension entity rebate](#toc3)
+
+- [Application of the GST/HST to Credit Card Surcharges](#toc4)
+
+    - [What is a Credit Card Surcharge](#toc5)
+
+    - [How the GST/HST applies to a credit card surcharge](#toc6)
+
+- [Progress Tracker](#toc7)
+
+- [Fuel Charge rate adjustments](#toc8)
+
+- [Application of the fuel charge in Nova Scotia, Prince Edward Island and Newfoundland and Labrador](#toc9)
+
+- [Prescribed rates of interest](#toc10)
+
+- [What’s new in publications](#toc11)
+
+- [Contact us](#toc12)
+
+## The supply of prescription eyeglasses and contact lenses – Contact Lens King Inc. v. The King
+
+The Federal Court of Appeal (FCA) delivered its decision in Contact Lens King Inc. v. The King 2022 CAF 154 on September 15, 2022. The issue in the decision under appeal was whether the supplies by the appellant, Contact Lens King Inc., of contact lenses sold online and delivered in Canada were zero-rated under section 9 of Part II of Schedule VI to the Excise Tax Act (ETA).
+
+The Tax Court of Canada (TCC) had found in 2020 that the lenses sold online by the appellant were not zero-rated supplies of prescription contact lenses. It reasoned that in order for the supply of contact lenses to be zero-rated, the appellant had to be in a position to conclude with reasonable certainty that each condition under section 9 of Part II of Schedule VI to the ETA had been met; a presumption of the presence of the required information was not sufficient. A supply of contact lenses is zero-rated only if there is a valid prescription or assessment record that is not outdated. Without asking for a copy of the prescription or assessment record, the appellant could not confirm its validity. The appellant appealed the 2020 decision of the TCC to the FCA.
+
+On appeal, the FCA agreed with the TCC that the appellant’s supplies of contact lenses were not zero-rated as there was insufficient information collected to validate the presence of a prescription or assessment record. However, the FCA disagreed with the TCC with respect to whether a requirement exists under the ETA that a supplier must obtain and retain a copy of a purchaser’s prescription or assessment record. Instead, the FCA further indicated that obtaining and retaining a copy of a prescription or assessment record from an eye care professional is not a condition for zero-rating under section 9 of Part II of Schedule VI to the ETA, but that sufficient and credible evidence demonstrating the existence of a valid prescription or assessment record must be available. Accordingly, the FCA dismissed the appeal and upheld the decision of the TCC, holding that the supplies of contact lenses made by the appellant were not zero-rated.
+
+The burden is on a supplier or retailer to demonstrate that each of the conditions under section 9 has been met in order to establish that a supply of contact lenses or eyeglasses is zero-rated. This burden includes the obligation to maintain all necessary information and documentation to support such a conclusion, and applies equally to supplies made online and in establishments in Canada.
+
+It should be noted that the jurisdiction in which the supplier operates may require that certain information be obtained to make the supply of contact lenses or eyeglasses to its clients. Such legislative requirements may include an obligation to collect and maintain specific information from consumers, or to obtain a declaration or affirmation that the consumer holds a valid prescription or assessment record for the contact lenses or eyeglasses they wish to purchase.
+
+The simplest way for a supplier to demonstrate that a supply of contact lenses or eyeglasses was made to a consumer pursuant to a valid prescription or assessment record would be to retain a copy of those documents. That information may meet the requirements to be sufficient and credible evidence under section 9. However, a purchaser’s declaration or affirmation that a valid prescription or assessment record exists would not alone amount to sufficient and credible evidence for purposes of section 9.
+
+Alternatively, a supplier must obtain and retain the following details in order to demonstrate, sufficiently and credibly, that a valid prescription or assessment record existed at the time the supply was made:
+
+- the issue date and expiration date of the prescription or assessment record;
+
+- the name, licence number and business address of the eye care professional who issued the prescription or assessment record to the consumer; and
+
+- the details of the prescription or assessment record, such as the sphere, cylinder, axis, base curve, or pupillary distance values and any additional lens recommendations provided by the eye care professional and included on the document.
+
+These documentary requirements can be relied upon as an accurate summary of the Canada Revenue Agency’s interpretation of the law.
+
+## Application of the HST to the Newfoundland and Labrador sugar sweetened beverage tax
+
+Effective September 1, 2022, the Government of Newfoundland and Labrador is imposing a tax on sugar sweetened beverages under the Newfoundland and Labrador’s Revenue Administration Act (RAA). The sugar sweetened beverage tax will be payable by a person who, as a consumer, acquires a sugar sweetened beverage at a retail sale in the province or brings/receives delivery of a sugar sweetened beverage into the province.
+
+Generally, under the Excise Tax Act (ETA), every recipient of a taxable supply (other than a zero-rated supply) made in Canada is required to pay GST/HST on the value of the consideration for the supply. **Consideration** is defined in the ETA to include any amount payable for a supply by operation of law.
+
+Section 154 of the ETA provides, in part, that taxes, duties, and fees imposed by a provincial government (referred to as provincial levies) and payable by a recipient of a supply, or by the supplier in respect of a supply, are generally included in the value of the consideration for the supply unless they are prescribed under the Taxes, Duties and Fees (GST/HST) Regulations (the Regulations).
+
+The sugar sweetened beverage tax levied by Newfoundland and Labrador under the RAA is considered a provincial levy and is payable by the recipient (that is, the retail purchaser) of the supply of a sugar sweetened beverage. As the sugar sweetened beverage tax is not a prescribed provincial levy under the Regulations, it is included in the consideration for the supply on which the HST is calculated.
+
+As a result, effective September 1, 2022, where a sugar sweetened beverage is subject to the 15% HST, the HST is calculated on the total consideration paid for the sugar sweetened beverage, including the sugar sweetened beverage tax. Where a sugar sweetened beverage is zero-rated under the ETA, the value of the consideration, including the sugar sweetened beverage tax, is subject to HST at the rate of 0%.
+
+For more information, refer to [GST/HST Memorandum 3-5, Application of GST/HST to Other Taxes, Duties, and Fees](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-5.html).
+
+## Instruments considered to be an emission allowance
+
+Generally, a supplier is required to collect from the purchaser the GST/HST payable on taxable supplies it makes and remit the tax to the Canada Revenue Agency (CRA). However, the purchaser of an emission allowance is responsible for self-assessing the tax in respect of its purchase of an emission allowance.
+
+**Emission allowance** is defined in subsection 123(1) of the Excise Tax Act (ETA) to mean:
+
+- (a) an allowance, credit or similar instrument (other than a prescribed allowance, credit or instrument) that
+
+    - (i) is issued or created by, or on behalf of,
+
+          - (A) a government, a government of a foreign country, a government of a political subdivision of a country, a supranational organization or an international organization (each of which is in this definition referred to as a “regulator”),
+
+          - (B) a board, commission or other body established by a regulator, or
+
+          - (C) an agency of a regulator,
+
+    - (ii) can be used to satisfy a requirement under
+
+          - (A) a scheme or arrangement implemented by, or on behalf of, a regulator to regulate greenhouse gas emissions, or
+
+          - (B) a prescribed scheme or arrangement, and
+
+    - (iii) represents a specific quantity of greenhouse gas emissions expressed as carbon dioxide equivalent.
+
+The definition also includes property that is prescribed by regulations. Currently, no property is, or is proposed to be, prescribed.
+
+The CRA wishes to clarify when instruments (for example, credits and offsets) are **issued or created by, or on behalf of, a government or an international organization (a “regulator”) or by a body established by, or an agency of, a regulator**, as required under subparagraph (a)(i) of the definition of emission allowance. Generally, the CRA does not consider instruments that are created by a person and simply validated by an employee of a regulator (or a body established by, or an agency of, a regulator) to be an emission allowance.
+
+For an instrument to meet the criterion in subparagraph (a)(i) of the definition of emission allowance, the instrument must be issued or created by, or on behalf of, a regulator or by a body established by, or an agency of, a regulator. For example, where the applicable legislation governing these instruments states that the instrument is issued or created by a designated or appointed employee (such as a director) of a regulator.
+
+It is the CRA’s view that credits, offsets and similar instruments that are validated by a regulator, or serialized or registered in a regulated carbon registry, but not issued or created by a regulator or by a body established by, or an agency of, a regulator, do not meet the criterion in subparagraph (a)(i) of the definition of emission allowance. Generally these credits, offsets and similar instruments are generated by a person who performs certain actions or engages in projects that voluntarily reduce greenhouse gas emission.
+
+Where a supplier makes a taxable supply of a credit, offset or similar instrument that is validated or serialized in a regulated carbon registry, but that does not meet the definition of emission allowance, subsection 221(1) of the ETA requires the supplier to collect from the purchaser the GST/HST payable on the supply. A GST/HST registrant purchaser will generally be entitled to claim an input tax credit (ITC) to recover the GST/HST paid or payable on its taxable purchase, provided the conditions for claiming ITCs are met.
+
+For additional information on the GST/HST treatment of emission allowances, refer to the article on Carbon emission allowances in the [Excise GST/HST News - No. 104](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news104/news104-excise-gst-hst-news-no-104-june-2018.html).
+
+## Proposed GST/HST amendments related to pension entity rebate
+
+As discussed in the [Excise and GST/HST News No. 112](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news112.html), the Department of Finance issued a [news release](https://www.canada.ca/en/department-finance/news/2022/08/government-delivering-on-budget-2022-commitments-to-canadians.html) on August 9, 2022, which included a number of proposed draft legislative and regulatory amendments. The proposed amendments to the Excise Tax Act (ETA) that were announced in the news release included proposed amendments that would permit a pension entity of a pension plan to claim an input tax credit, or to claim a rebate or make a related joint election under section 261.01 of the ETA, in respect of an amount of tax beyond the normal two-year limitation period in cases where a delayed assessment of an employer or a supplier makes it impossible for the pension entity to meet the two-year limitation period in respect of the amount.
+
+In respect of an amount of tax deemed to have been paid by the pension entity during the claim period under proposed new subparagraph 172.1(8.01)(b)(i) of the ETA or in respect of an amount of tax deemed to have become payable by the pension entity during the claim period under proposed new section 172.11 of the ETA, the proposed amendments to section 261.01 of the ETA would permit:
+
+- a pension entity of a pension plan to make a separate rebate application; and
+
+- the pension entity and the qualifying employers of the pension plan to make a separate related joint election.
+
+The Canada Revenue Agency cannot issue a rebate based on proposed amendments. If these proposed amendments become law, the pension entity rebate application and related election forms will be revised to address these changes and a prescribed form for the purposes of the prescribed information requirements of proposed subsection 172.1(8.01) of the ETA would be developed.
+
+For more information on these proposed measures, refer to the [proposed draft legislative amendments](https://fin.canada.ca/drleg-apl/2022/ita-lir-0822-l-3-eng.html) and related [explanatory notes](https://fin.canada.ca/drleg-apl/2022/ita-lir-0822-n-3-eng.html) issued by the Department of Finance Canada.
+
+## Application of the GST/HST to Credit Card Surcharges
+
+Historically, the Visa and MasterCard credit card network rules did not permit merchants in Canada to add a surcharge to a credit card transaction. Those rules have now been amended to allow for such surcharging (except in Quebec where the Consumer Protection Act of Quebec applies).
+
+This article explains how the GST/HST applies to a Credit Card Surcharge (as defined below) that is levied by a merchant at the point of sale when a customer chooses to use their credit card to pay for a purchase from a merchant.
+
+### What is a Credit Card Surcharge
+
+For purposes of this article, a **credit card surcharge** is a fee that meets all of the following conditions:
+
+- it is charged to the cardholder solely for the acceptance of the use of the credit card as a payment method and is not charged if another payment method is used
+
+- it is imposed by the merchant who provides, to the cardholder, the property or service that is purchased with the use of the credit card
+
+- it is subject to the relevant payment card network rules relating to surcharging, including rules regarding the calculation and level of the fee
+
+A credit card surcharge is consideration strictly for the merchant’s acceptance of the use of a credit card as a payment method. Therefore, if a fee is, in whole or in part, consideration for some other service (such as a web or telephone service) or for the use of property (such as an online payment platform), the fee is not a credit card surcharge.
+
+A credit card surcharge is a fee that is imposed by (and is thus the revenue of) the merchant who provides the property or service that is purchased with the use of the credit card. Therefore, if a fee that is tied to a credit card transaction is the revenue of a billing agent or payment service provider that only facilitates the payment transaction, the fee is not a credit card surcharge.
+
+### How the GST/HST applies to a credit card surcharge
+
+Generally, a credit card surcharge will not be subject to the GST/HST where it is shown and charged separately from the consideration for the property or service purchased with the use of the credit card and from all other fees or charges that may be payable by the customer. In that circumstance, the credit card surcharge will be treated as consideration for a separate supply of a financial service that falls within paragraph (i) of the definition of a financial service in subsection 123(1) of the Excise Tax Act, which pertains to certain services relating to credit card transactions. For more information, refer to [Info Sheet GI-200, Application of the GST/HST to Credit Card Surcharges](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-200.html).
+
+## Progress Tracker
+
+In May 2022, the Progress Tracker service was added to [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), allowing business owners and their representatives to track the progress of applications for registrations as a charity or registered Canadian amateur athletic association (RCAA), as well as track the progress of [Registered Charity Information Returns (T3010)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3010.html).
+
+As of October 2022, the Progress Tracker expanded its services in My Business Account to allow users to view the status of files and requests sent to the Canada Revenue Agency for formal disputes and objections, and taxpayer relief of penalties and interest. In January 2023, T2 Returns and Reassessments were added.
+
+The Progress Tracker service will further the Agency’s goal to grow as a user-centric organization by making its client interactions more transparent and accessible.
+
+More services will be added to the Progress Tracker over time. GST/HST Returns and Reassessments are planned to be added in late 2023.
+
+## Fuel Charge rate adjustments
+
+Under the Greenhouse Gas Pollution Pricing Act, fuel charge rates increased on April 1 of each year until April 1, 2022. The Department of Finance announced in December 2021 that fuel charge rates would continue to rise annually on April 1 of each year after 2022 to reflect the stringency of the carbon price per ton increasing by $15/ton until the year 2030. The announcement and the increased rates take effect on April 1 of 2023 (refer to the note below). Refer to the web page for the rates schedule, [Fuel Charge Rates for Listed Provinces and Territories for 2023 to 2030](https://www.canada.ca/en/department-finance/news/2021/12/fuel-charge-rates-for-listed-provinces-and-territories-for-2023-to-2030.html).
+
+The rates for aviation gasoline and aviation turbo fuel in Yukon and Nunavut continue to be $0.
+
+## Application of the fuel charge in Nova Scotia, Prince Edward Island and Newfoundland and Labrador
+
+The Minister of Environment and Climate Change Canada announced the fuel charge will apply in Nova Scotia, Prince Edward Island as well as Newfoundland and Labrador beginning July 1, 2023. For more information on the announcement, refer to news release, [The Government of Canada strengthens pollution pricing across the country](https://www.canada.ca/en/environment-climate-change/news/2022/11/the-government-of-canada-strengthens-pollution-pricing-across-the-country.html). For information related to the fuel charge and its application, refer to the [Fuel charge](https://www.canada.ca/en/revenue-agency/services/tax/excise-taxes-duties-levies/fuel-charge.html) web page.
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from January 1, 2023, to March 31, 2023, on overdue amounts payable to the Minister is 8%. The prescribed annual rate of interest on amounts owed by the Minister (such as, rebates or refunds) is 4% for corporate taxpayers and 6% for non-corporate taxpayers. These rates are applicable to income tax, excise taxes, GST/HST, air travellers security charge (ATSC), luxury tax, fuel charge (under the Greenhouse Gas Pollution Pricing Act) and excise duties on wine, spirits, tobacco, cannabis and vaping products.
+
+The prescribed annual rate of interest respecting excise duty on beer products, on overdue amounts payable for the indicated period, is set at 6%. Refund interest rates are not applicable for amounts owed by the Minister (such as, rebates or refunds) for excise duty that is in relation to beer products.
+
+| **PERIOD** | January 1, 2023 to March 31, 2023 | October 1, 2022 to December 31, 2022 | July 1, 2022 to September 30, 2022 | April 1, 2022 to June 30, 2022 |
+
+| --- | --- | --- | --- | --- |
+
+| **Refund Interest Corporate Taxpayers** | 4% | 3% | 2% | 1% |
+
+| **Refund Interest Non-Corporate Taxpayers** | 6% | 5% | 4% | 3% |
+
+| **Arrears and Instalment Interest** | 8% | 7% | 6% | 5% |
+
+| **PERIOD** | January 1, 2023 to March 31, 2023 | October 1, 2022 to December 31, 2022 | July 1, 2022 to September 30, 2022 | April 1, 2022 to June 30, 2022 |
+
+| --- | --- | --- | --- | --- |
+
+| **Arrears Interest Excise duty – beer products** | 6% | 5% | 4% | 3% |
+
+Prescribed interest rates for previous years are available on Canada.ca at [Prescribed interest rates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## What’s new in publications
+
+The following is a list of new or revised forms and technical publications:
+
+**GST/HST info sheets**
+
+- [GI-196, GST/HST and Commercial Ride-sharing Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-196.html) (revised)
+
+- [GI-200, Application of the GST/HST to Credit Card Surcharges](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-200.html)
+
+**GST/HST notices**
+
+- [NOTICE324, Proposed Amendment Addressing Mining Activities in respect of Cryptoassets](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice324.html)
+
+**Underused housing tax forms**
+
+- [UHT-2900, Underused Housing Tax Return and Election Form](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/uht-2900.html)
+
+**Underused housing tax notices**
+
+- [UHTN1, Introduction to the Underused Housing Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn1.html)
+
+- [UHTN2, Calculating the Underused Housing Tax payable](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn2.html)
+
+- [UHTN3, Filing a return and paying the Underused Housing Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn3.html)
+
+- [UHTN4, Exemptions for specified canadian partnerships, trusts and corporations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn4.html)
+
+- [UHTN5, Exemption for vacation properties](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn5.html)
+
+- [UHTN6, Exemption for primary place of residence](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn6.html)
+
+- [UHTN7, Exemption for qualifying occupancy](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn7.html)
+
+- [UHTN8, Special rule and elections for individual owners of multiple residential properties](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn8.html)
+
+- [UHTN9, Exemptions for residential properties that cannot be used year-round](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn9.html)
+
+- [UHTN10, Exemptions for uninhabitable residential properties](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn10.html)
+
+- [UHTN11, Exemption for new owners](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn11.html)
+
+- [UHTN12, Exemptions for deceased individuals and their personal representatives or co-owners](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn12.html)
+
+- [UHTN13, Exemptions for new residential properties](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn13.html)
+
+- [UHTN14, Exemption for vacation properties: manual place-search instructions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn14.html)
+
+- [UHTN15, Questions and answers about the Underused Housing Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn15.html)
+
+**Excise duty notices**
+
+- EDBN32, Adjusted Rates of Excise Duty on Beer Effective April 1, 2023
+
+- EDN85, Adjusted Rates of Excise Duty on Spirits and Wine Effective April 1, 2023
+
+- EDN86, Adjusted Rates of Excise Duty on Tobacco Products Effective April 1, 2023
+
+- EDN87 Cigarette Inventory Tax on April 1, 2023
+
+**Excise memorandums**
+
+- EDM1-6-1, Administrative Penalties Under the Excise Act, 2001
+
+- EDM10-1-2, Completing an Excise Duty Return – Duty Free Shop (revised)
+
+- EDM10-1-3, Completing an Excise Duty Return – Excise Warehouse Licensee (revised)
+
+- EDM10-1-4, Completing an Excise Duty Return – Licensed User (revised)
+
+- EDM10-1-5, Completing an Excise Duty Return – Special Excise Warehouse Licensee (revised)
+
+- EDM10-1-6, Completing an Excise Duty Return – Wine Licensee (revised)
+
+- EDM10-1-7, Completing an Excise Duty Return – Spirits Licensee (revised)
+
+- EDM10-1-8, Completing an Excise Duty Return – Tobacco Licensee (revised)
+
+- EDM10-1-9, Completing an Excise Duty Return – Tobacco Dealer (revised)
+
+**Luxury tax notices**
+
+- [LTN1, Registration Under the Select Luxury Items Tax Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ltn1.html) (revised)
+
+All GST/HST, underused housing tax, luxury tax, excise duties, and excise taxes and other levies publications can be found on the Canada.ca website. Go to the [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html), [Underused housing tax technical information](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/underused-housing-tax/underused-housing-tax-technical-information.html), [Luxury tax technical information](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax/technical-information.html), [Excise duties technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty.html) and [Excise taxes and other levies technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies.html).
+
+To receive email notification as soon as a document is published on the Canada.ca website, go to [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribe to the RSS feed for all new CRA publications and forms, or subscribe to any number of mailing lists for different types of publications.
+
+## Contact us
+
+**More information**
+
+**Forms and publications**
+
+- To access all forms and technical publications relating to the **GST/HST** go to [GST/HST related forms and publications](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/forms-publications.html).
+
+- To access all forms and technical publications relating to **excise duties**, **excise taxes and other levies (including the air travellers security charge)**, the **fuel charge**, the **luxury tax** and the **underused housing tax**, go to [Technical tax information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information.html) and click on the appropriate technical information page.
+
+- To access **all other**forms and publications on the Canada.ca website go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+- To order forms and publications**by telephone**, call 1-800-959-5525.
+
+**Enquiries regarding programs administered by the Excise and Specialty Tax Directorate**
+
+For information about how to make a general or technical enquiry relating to excise duties, excise taxes and other levies (including the air travellers security charge), the fuel charge or the luxury tax or to enquire about your account or the processing status of a return or related refund or rebate application, refer to [Contact Information – Excise and Specialty Tax Directorate](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/excise-taxes-contacts.html).
+
+**Telephone enquiries**
+
+**GST/HST**
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- call Business Enquiries at 1-800-959-5525 for **general enquiries**
+
+- call GST/HST Rulings at 1-800-959-8287 for **technical enquiries**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1-800-567-4692** or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution** (whether or not you are located in Quebec) and require information on the **GST/HST** or the **QST**, go to [GST/HST and QST - Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or
+
+- call Business Enquiries at 1-800-959-5525 for **general GST/HST** or **QST enquiries**
+
+- call GST/HST Rulings SLFI at 1-855-666-5166 for **technical GST/HST** or **QST enquiries**
+
+**Underused housing tax**
+
+For general enquiries about a residential property that is owned by an individual:
+
+- Calls from the U.S. or Canada: 1-800-959-8281
+
+- Calls from elsewhere: 613-940-8495 (collect calls accepted)
+
+For general enquiries about a residential property that is owned by a corporation:
+
+- Calls from the U.S. or Canada: 1-800-959-5525
+
+- Calls from elsewhere: 613-940-8497 (collect calls accepted)
+
+**Account enquiries**
+
+For **general information** about the GST/HST and the underused housing tax and to make **enquiries** regarding your **account**, you can:
+
+- view answers to common enquiries, or submit an enquiry using the online “Enquiries service” on “[My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html)”;
+
+- view account information online at [E-services for Businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html)
+
+- call Business Enquiries at 1-800-959-5525.
+
+For **enquiries** regarding the **status of specific GST/HST domestic rebate claims,** call Business Enquiries at 1-800-959-5525.
+
+**Access your account online**
+
+For **online access** to your **GST/HST**, **air travellers security charge**, **luxury tax**, **fuel charge**, and **excise tax** and **duty accounts** (such as viewing up-to-date account balances and transactions, transferring payments and more), go to:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) if you are the business owner
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html) if you are an authorized representative or employee
+
+**Help**
+
+For **technical support using our online services**:
+
+- business accounts, call 1-800-959-5525
+
+- teletypewriter users, call 1-800-665-0354
+
+- callers outside of Canada and the United States, call collect at 613-940-8497
+
+Please have the screen number (bottom right) and, if applicable, the error number and message received on hand when calling.
+
+The Excise and GST/HST News is published quarterly and highlights recent developments in the administration of the GST/HST, the QST for SLFIs, the First Nations goods and services tax (FNGST) and the First Nations tax (FNT), the air travellers security charge (ATSC), the underused housing tax, and the luxury tax as well as excise taxes and duties. If you would like to receive a link to each new edition of the Excise and GST/HST News as it is published, subscribe to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-excise-gst-hst-news.html). This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, Excise and GST/HST News, GST/HST Rulings Directorate, Legislative Policy and Regulatory Affairs Branch, CRA, 5th Floor, Place de Ville, 320 Queen Street, Ottawa K1A 0L5.

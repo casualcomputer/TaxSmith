@@ -1,0 +1,525 @@
+Title: Vocational Schools and Courses
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-4/vocational-schools-courses.html
+Corpus path: corpus/cra/forms-publications/publications/20-4/vocational-schools-courses.md
+Document type: publication
+Last modified: 2022-05-05
+
+# Vocational Schools and Courses
+
+GST/HST Memorandum 20-4 May 2022
+
+This version replaces the one dated December 2019. This publication was updated to remove paragraph 4 of the previous version since that paragraph does not reflect the definition of a vocational school under the Excise Tax Act.
+
+This memorandum explains which organizations qualify as vocational schools for GST/HST purposes. It also examines the provisions of the Excise Tax Act that pertain to vocational schools.
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the Excise Tax Act (ETA). The information in this publication does not replace the law found in the ETA and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1-800-959-8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1-800-567-4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1-855-666-5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [General](#_Toc6388257)
+
+- [Definition of vocational school](#_Toc6388258)
+
+    - [Established primarily](#_Toc6388259)
+
+    - [Operated primarily](#_Toc6388260)
+
+    - [Provides courses that develop or enhance students’ occupational skills](#_Toc6388261)
+
+    - [Supplies made by sole proprietors](#_Toc6388262)
+
+- [Supplies made by vocational schools](#_Toc6388263)
+
+    - [Courses in respect of professional or trade accreditations or designations.](#_Toc6388264)
+
+          - [Exception – election to make exempt supplies taxable](#_Toc6388265)
+
+    - [Vocational courses](#_Toc6388266)
+
+          - [Part of a program](#_Toc6388267)
+
+          - [Upgrade courses](#_Toc6388268)
+
+          - [Preparatory courses](#_Toc6388269)
+
+          - [Supplies of flight training](#_Toc6388270)
+
+          - [Vocational courses supplied to non-residents](#_Toc6388271)
+
+    - [Second-language instruction](#_Toc6388272)
+
+    - [Course materials](#_Toc6388273)
+
+- [Service of instruction vs. admission to a seminar, activity or event](#_Toc6388274)
+
+    - [Supply of a service of instruction](#_Toc6388275)
+
+    - [Supply of an admission to a seminar, activity or event](#_Toc6388276)
+
+    - [Online supplies of vocational courses](#_Toc6388277)
+
+- [Input tax credits](#_Toc6388278)
+
+- [Public service bodies’ rebate](#_Toc6388279)
+
+## General
+
+1. Supplies of many educational services, as well as certain specific supplies of related property and services, made by vocational schools are exempt from the GST/HST. These exemptions are listed in Part III of Schedule V.
+
+## Definition of vocational school
+
+2. Section 1 of Part III of Schedule V defines **vocational school** to mean “an organization that is established and operated primarily to provide students with correspondence courses, or instruction in courses, that develop or enhance students’ occupational skills”.
+
+3. The term **organization** is not defined in the ETA. However, the CRA recognizes that an individual carrying on a business as a sole proprietor may be an organization for purposes of the definition of vocational school. 4. The definition of vocational school establishes 3 requirements that an organization must meet to qualify as a vocational school for GST/HST purposes.
+
+### Established primarily
+
+5. The first requirement is that the organization must be established primarily to provide students with correspondence courses, or instruction in courses, that develop or enhance students’ occupational skills.
+
+6. The CRA will consider an organization to be established primarily to provide correspondence courses, or instruction in courses, that develop or enhance students’ occupational skills if the organization provides documentation showing that the primary purpose (that is, the chief or most important purpose) for the establishment of the organization is to provide correspondence courses, or instruction in courses, that develop or enhance students’ occupational skills.
+
+7. In the case of a corporation, the CRA will examine the organization’s governing documents, which may include letters patent, articles of incorporation, articles of amendment, memoranda of agreement and by-laws. These documents may illustrate the purpose for which the organization was established.
+
+8. If such documents are not available or are not determinative, (for example, if the organization was established as a sole proprietor), the CRA will also consider and weigh other evidence. During the period that an initial business idea is developed into a successful launch, a variety of supporting documentation is typically generated that may provide evidence of the purpose for which an organization was established. Such documentation may include, but is not limited to:
+
+- registration under, and compliance with, provincial legislation respecting vocational schools
+
+- municipal licences or permits
+
+- business name registration with the province
+
+- regulations with which the organization must comply
+
+- pre-launch business plan, which may set out the organization’s mission and vision, resources required, sales forecasts, a roadmap and/or timetable, etc.
+
+- information available on the organization’s website
+
+9. It is a question of fact whether an organization is established primarily to provide correspondence courses, or instruction in courses, that develop or enhance students’ occupational skills. If the organization cannot provide evidence for the CRA to consider and weigh, the CRA will not be able to determine whether the organization is a vocational school.
+
+10. For the purposes of the ETA, the term **province** is interpreted to include a territory of Canada.
+
+### Operated primarily
+
+11. The second requirement is that the organization be operated primarily to provide correspondence courses, or instruction in courses, that develop or enhance students’ occupational skills. The CRA will consider this requirement to be met if more than 50% of the organization’s total annual revenues are attributable to the provision of courses that enhance occupational skills. All of the organization’s business revenue streams must be included when calculating the percentage attributable to the provision of courses that enhance occupational skills.
+
+12. The following are examples of sources of revenue that are attributable to the provision of courses that enhance occupational skills:
+
+- tuition fees charged for courses that enhance occupational skills
+
+- grants and contributions received from government bodies to provide instruction to individuals taking courses that enhance occupational skills
+
+- revenues from related property or services, such as:
+
+    - fees charged for textbooks related to courses that enhance occupational skills
+
+    - fees charged for student residential accommodation for students taking courses that enhance occupational skills
+
+    - fees charged for locker rentals for students taking courses that enhance occupational skills
+
+    - photocopying fees charged for courses that enhance occupational skills
+
+    - library or lab fees for courses that enhance occupational skills
+
+    - parking fees for students taking courses that enhance occupational skills
+
+    - fees charged for the issuance of official transcripts and documents for courses that enhance occupational skills
+
+- revenues from the supplies of services performed, or goods created, by students in courses that enhance occupational skills
+
+13. An organization that is commencing operations, or is considering commencing operations, will be considered to be operated primarily for the purposes of meeting the “operated primarily” requirement if its intent is to primarily offer correspondence courses, or instruction in courses, that develop or enhance students’ occupational skills. Documents such as an organization’s business plan may help to determine the organization’s intent.
+
+14. Organizations must review their operations on an annual basis to determine whether they continue to meet the “operated primarily” requirement of the definition of vocational school.
+
+15. For example, if an organization met the “operated primarily” requirement in a fiscal year and its intent is to primarily offer courses that enhance occupational skills, it will continue to be a vocational school in the following fiscal year. However, if the portion of the organization’s total annual revenues attributable to the provision of courses that enhance occupational skills falls to 50% or less during the following year, it may cease to be a vocational school for supplies made after that year.
+
+16. Although an organization that provides vocational training may be required to register under relevant provincial legislation, registration with a province is not conclusive evidence that an organization is established and operated primarily as a vocational school for purposes of the ETA.
+
+### Provides courses that develop or enhance students’ occupational skills
+
+17. Finally, to qualify as a vocational school, an organization must provide correspondence courses, or instruction in courses, that develop or enhance students’ occupational skills. These courses must meet at least one of the following requirements:
+
+- they must have a direct link to skills that are essential for an individual to become employed in a particular field (that is, to gain employment in that field)
+
+- they must directly build upon and/or enhance an individual’s skills in their chosen field, such that they can continue to work in that field (that is, to retain employment in that field)
+
+18. Courses that are designed for personal interest or that focus on subjects such as sports, games, hobbies and other recreational or cultural pursuits are not considered to be courses that enhance occupational skills.
+
+19. To determine whether the courses provided by an organization are courses that enhance occupational skills, the CRA considers a variety of factors, including:
+
+- the organization’s curriculum and the manner in which the organization promotes its activities in promotional materials, such as brochures, advertisements, course guides or calendars, and telephone listings
+
+- the manner in which courses are marketed in the course literature (for example, as providing skills needed for employment rather than for personal interest or recreational purposes)
+
+- the course outcome (that is, whether the courses lead to a certificate, diploma or similar document)
+
+20. It is important to distinguish between courses that are taken to develop or enhance students’ occupational skills and those that are taken for workplace health and safety reasons, such as courses in first aid, working at heights or the Workplace Hazardous Materials Information System (WHMIS).
+
+21. Stand-alone courses that are provided over 1 or 2 days to meet provincial health and safety legislation do not, on their own, qualify as courses that enhance occupational skills. Offering courses that satisfy health and safety legislation, such as courses that meet a workers’ compensation board requirement that workers maintain first aid certification, is not sufficient to qualify an organization as a vocational school and to exempt stand-alone first aid courses. Where these courses are part of a greater program (for example, paramedic training), the direct link to essential skills may be met.
+
+Company A is an organization that is registered as a vocational school under a provincial act governing private vocational schools. Company A provides computer training courses leading to certificates and diplomas, as well as selling textbooks to students and providing computer consulting services independent of the provision of computer courses.
+
+In its previous fiscal year, Company A’s total revenues were $300,000. Tuition accounted for approximately 45% of the revenues, while the revenues from consulting contracts accounted for 30%. The sale of textbooks to students accounted for the other 25% of revenues. Company A’s governing documents indicate that it was established to provide training for individuals pursuing employment in the field of information technology. Further, in its promotional literature, Company A is marketed as a registered vocational school that provides the aforementioned training.
+
+Company A’s governing documents and its registration under the provincial act governing private vocational schools are indicative of the purpose for which it was established but are not conclusive proof that it qualifies as a vocational school. In addition, the manner in which Company A operates is considered to be further evidence of its purpose.
+
+The courses offered by Company A are intended to develop or enhance students’ occupational skills by providing them with the skills and knowledge required for employment in the field of information technology. With respect to the requirement that Company A be operated primarily to provide students with correspondence courses, or instruction in courses, that enhance occupational skills, more than 50% of Company A’s annual revenues are generated from the provision of courses that enhance occupational skills and revenues from the sale of textbooks related to those courses. Finally, Company A is primarily marketed as a registered training school that provides vocational training.
+
+Based on these factors, Company A is a vocational school for GST/HST purposes because it was established and is operated primarily to provide students with correspondence courses, or instruction in courses, that develop or enhance their occupational skills.
+
+22. Where a supplier fails to establish that it meets the 3 requirements noted above, it is not a vocational school for GST/HST purposes. Therefore, supplies of correspondence courses or instruction in courses that develop or enhance students’ occupational skills would not fall under the exempting provisions found in Part III of Schedule V that pertain to vocational schools.
+
+### Supplies made by sole proprietors
+
+23. As mentioned previously, the CRA acknowledges that a sole proprietorship may be an organization for purposes of the definition of vocational school. However, supplies of instructional services made by a self-employed coach, instructor, teacher or other type of individual educator are normally taxable unless they are a supply of music lessons or of tutoring or instructing an individual in a course that is approved for credit, or that follows a curriculum designated, by a school authority. For additional information, refer to [GST/HST Memorandum 20-6, Tutoring and Equivalent Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-6.html).
+
+24. A sole proprietor who provides instruction during private, one-on-one lessons with students while using programs customized for each student is normally not regarded as a vocational school. An individual may create an organization to establish and operate a school, in which case that organization may qualify as a vocational school; however, it would be unusual for a vocational school to be established and operated by only one individual without the use of other personnel.
+
+25. A sole proprietor, such as a teacher or a coach, who has a contract with a vocational school to provide a service of instruction as one of the sole proprietor’s business revenue streams is not considered a vocational school for purposes of that contract. This is because the self-employed person supplies the service to the vocational school, which is the recipient of the instructor’s supplies, and does not directly make supplies to the students. The self-employed person’s supplies are merely an input into the vocational school’s activities.
+
+## Supplies made by vocational schools
+
+### Courses in respect of professional or trade accreditations or designations
+
+26. Section 6 of Part III of Schedule V exempts “a supply of
+
+1. a service of instructing individuals in courses leading to, or for the purpose of maintaining or upgrading, a professional or trade accreditation or designation recognized by a regulatory body, or
+
+2. a certificate, or a service of administering an examination, in respect of a course, or in respect of an accreditation or designation described in paragraph (a),
+
+where the supply is made by a professional or trade association, government, vocational school, university or public college or by the regulatory body, except where the supplier has made an election under this section in prescribed form containing prescribed information”.
+
+27. **Regulatory body** is defined under section 1 of Part III of Schedule V to mean “a body that is constituted or empowered by an Act of Parliament or of the legislature of a province to regulate the practice of a profession or trade by setting standards of knowledge and proficiency for practitioners of the profession or trade”.
+
+28. An accreditation or designation is an official authorization that attests to the fact that an individual has met certain pre-determined standards set forth by a regulatory body. Examples include trade accreditations, such as welding tickets, and professional designations, such as P. Eng. (Professional Engineer).
+
+29. The supply of a certificate or of a service of instruction or of administering an examination that is exempt under section 6 of Part III of Schedule V is exempt for all students in the course, including those who are not taking the course to obtain, maintain or upgrade an accreditation or designation.
+
+30. Section 6 of Part III of Schedule V does not exempt the supply of a service of instruction or of administering an examination in a course that is not required for accreditation or designation but simply broadens one’s knowledge in a field. In addition, section 6 does not exempt the supply of a service of instruction or of administering an examination in a course that may be occupationally related and required for accreditation or designation by a professional association if there is no regulatory body.
+
+An organization was established to develop and administer a national examination for emergency responders. Although the organization is supplying a service of administering an examination in respect of an accreditation or designation, section 6 of Part III of Schedule V does not apply to the organization because the organization is not a professional or trade association, government, vocational school, university, public college or regulatory body. Therefore, the supply made by the organization of the service of administering the examination is not exempt under section 6 of Part III of Schedule V.
+
+#### Exception – election to make exempt supplies taxable
+
+31. Under section 6 of Part III of Schedule V, a supplier may elect to have an exempt supply of a service of instructing individuals in courses in respect of a professional or trade accreditation or designation, or of a certificate, or a service of administering an examination, in respect of a course, or in respect of a professional or trade accreditation or designation made taxable. For additional information about this election, refer to [GST/HST Memorandum 20-9, Election to Make Exempt Supplies of Educational Services Taxable](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-9.html), and [Form GST29, Educational Services – Election and Revocation of the Election to Make Certain Supplies Taxable](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst29.html).
+
+### Vocational courses
+
+32. Section 8 of Part III of Schedule V exempts, in part, a supply, other than a zero-rated supply, made by a vocational school of a service of instructing individuals in, or administering examinations in respect of, courses leading to certificates, diplomas, licences or similar documents, or classes or ratings in respect of licences, that attest to the competence of individuals to practise or perform a trade or vocation, except where the supplier has made an election under this section in prescribed form containing prescribed information.
+
+33. Additional information about the election under section 8 of Part III of Schedule V to have the supply of vocational courses and/or examinations made taxable is available in [GST/HST Memorandum 20-9](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-9.html).
+
+34. For additional information about the zero-rated supply of vocational courses, refer to the “Vocational courses supplied to non-residents” section of this memorandum. 35. In paragraphs 36 to 81 of this memorandum, the term **educational institution** is used to refer collectively to vocational schools, school authorities, public colleges and universities.
+
+36. The courses referred to in section 8 of Part III of Schedule V must have a direct link to skills that relate to an individual’s ability to gain or retain employment. In determining whether a course provides such skills, a number of factors will be considered, including the curriculum, promotional materials (brochures, advertisements, course calendars, etc.) and course literature of the educational institution or government.
+
+37. The intention of the person enrolling in a course is not taken into account in determining whether the course relates to a trade or vocation. Courses that are designed for personal interest or that focus on subjects such as sports, games, hobbies and other recreational or cultural pursuits generally are not considered to relate to an individual’s ability to gain or retain employment.
+
+38. In addition, section 8 of Part III of Schedule V requires that documentation be issued by the educational institution or government to the individual upon completion of the course of study that attests to the competence of that individual. Any document that demonstrates that the individual has successfully completed a trade- or vocation-related course of study and attests to the competence of the individual to practise or perform that trade or vocation would satisfy this documentary requirement. In general, courses for which individuals are not issued some form of documentation at their conclusion do not satisfy this criterion and are, therefore, not exempt under section 8 of Part III of Schedule V.
+
+A for-profit dance school that is a vocational school offers courses in all 6 levels of the Royal Academy of Dance Vocational Syllabus. Students must pass an exam at each level in order to continue to the next level, and certificates are awarded only upon successful completion of the level being examined. The certificate attests to a student’s ability to audition for entrance into a higher level of dance instruction or to pursue a non-performing career in dance. The supply of instruction in these courses is exempt under section 8 of Part III of Schedule V.
+
+The dance school, which is a GST/HST registrant, also offers a number of other courses, such as drop-in and adult social-event dance classes. While participants in these recreational courses receive a certificate from the dance school that attests to their successful participation in a particular course, the courses are not considered to be vocational courses. As such, the supply of instruction in the recreational courses does not fall under section 8 of Part III of Schedule V, regardless of the fact that documentation is issued to participants upon completion of these courses.
+
+39. Finally, in order to qualify as a course that attests to the competence of individuals to practise or perform a trade or vocation, the course must fit into one of the following categories:
+
+- courses that are part of a program (refer to paragraphs 40 to 43 of this memorandum)
+
+- upgrade courses that are not part of a program (refer to paragraphs 44 to 46 of this memorandum)
+
+- preparatory courses for federally or provincially administered licences (refer to paragraph 47 of this memorandum)
+
+#### Part of a program
+
+40. Whether a series of courses constitutes a program is a question of fact that is evaluated based on a number of factors, including the length of the program, the cost of the program, its curriculum and the description of the program and its courses, as noted in the promotional material of the educational institution or government. It should be noted that in some instances, a single course could constitute a program if it satisfies the requirements of section 8 of Part III of Schedule V.
+
+41. In order for the supply to qualify as an exempt supply under section 8 of Part III of Schedule V, the entire program must be administered on a pass/fail basis, based on the evaluation of an individual’s performance on one or more tests, graded materials and/or projects. The pass/fail element is considered to be met where there is real potential for individuals to be held back if they are not competent in the course material.
+
+42. A series of courses that are offered on a credit system that requires students to obtain a certain number of credits to qualify for a diploma suggests the existence of a program. However, in the absence of such a credit system, the series of courses may still qualify as being part of a program if the individual’s performance is evaluated on a pass/fail basis for the program as a whole.
+
+43. The supply of instruction in single courses that are components of a program is exempt, even if the individual taking the single course(s) is not enrolled in the program. The fact that the single course may be applied towards the requirements of the program is sufficient for the supply of instruction in the course to be exempt under section 8 of Part III of Schedule V.
+
+A particular province has set mandatory minimum training for security guards. A vocational school offers a security guard program that consists of a single course over a 7-week period. The course is administered on a pass/fail basis. Upon successful completion of the course, a certificate is issued that attests to the competence of the individual to practise or perform the profession of security guard.
+
+In this case, the course is exempt as it meets the provisions of section 8 of Part III of Schedule V.
+
+A vocational school offers 4 stand-alone courses related to floral design. An individual could take one or all of the courses. The courses are administered on a pass/fail basis and a certificate is provided upon successful completion of each course. However, the individual courses do not qualify as a program nor are they offered by the school as part of a program. As structured, a single course would not result in a progression of learning sufficient to attest to the competence of the individual to practise or perform a trade or vocation. As a result, the certificate provided upon successful completion of each individual course cannot attest to the competence of individuals to practise or perform a trade or vocation and the supply is not exempt under section 8 of Part III of Schedule V.
+
+#### Upgrade courses
+
+44. The supply of instruction in an upgrade course that is not otherwise offered as part of a program may be exempt if both of the following apply:
+
+- the competence of a student is evaluated on a pass/fail basis, determined by the student’s performance on one or more tests, graded materials and/or projects
+
+- upon course completion, the educational institution or government provides documentation that attests that an individual has successfully completed that particular course and is competent to practise a trade or vocation.
+
+45. The pass/fail element is considered to be met where there is real potential for students to be held back in the event that they are not competent in the course material.
+
+46. Courses whose successful completion is based solely on attendance and/or class participation do not meet this criterion.
+
+A vocational school offers a diploma program in computer programming, which is offered on a pass/fail basis, determined by the students’ performance on tests, quizzes, assignments and projects. The program leads to a diploma that attests to the competence of individuals to practise or perform the trade or vocation of software developer. The supply of instruction in courses that form part of this diploma program is exempt under section 8 of Part III of Schedule V.
+
+In addition to the diploma program, the school offers 3 courses:
+
+- “Enhancing Your Webpage with Java”, which is also a credit course in the diploma program
+
+- “Programming in C++”, which is offered as an upgrade program and for which students are graded on a mid term assignment and final exam
+
+- “Supporting and Implementing Windows”, which is not offered as part of the diploma program and for which students are evaluated based on class attendance and participation
+
+Certificates are issued to students upon completion of each of the courses.
+
+The supply of instruction in “Enhancing Your Webpage with Java” is exempt under section 8 of Part III of Schedule V since the course provides students with skills that are recognized as relating to their ability to gain or retain employment, and it is otherwise offered as a credit course in a diploma program that attests to the competence of an individual to practise or perform a trade or vocation.
+
+The supply of instruction in “Programming in C++” is also exempt under section 8 of Part III of Schedule V since the course teaches students a new programming language that will enhance (or upgrade) their existing skills in computer programming, the competence of the students is evaluated on a pass/fail basis using a combination of graded material and an examination, and a certificate that attests to the competence of the individual to practise or perform a trade or vocation is issued upon successful completion of the course.
+
+By contrast, the supply of instruction in “Supporting and Implementing Windows” is not exempt under section 8 of Part III of Schedule V, regardless of the fact that a certificate is issued upon successful completion of the course. This course is not offered as a credit in a diploma program nor is it evaluated on a pass/fail basis, based on the students’ performance on tests, graded materials or projects. As the successful completion of this course is based solely on attendance and class participation, the certificate issued at the end does not attest to the competence of individuals to practise a trade or vocation.
+
+#### Preparatory courses
+
+47. The supply of instruction in a course that is designed to prepare students to take federally or provincially administered licensing exams is exempt if the course meets one of the following conditions:
+
+- it is required by federal or provincial legislation
+
+- it is not required by federal or provincial legislation, but the certificate issued by the educational institution or government is accepted by the federal or provincial licensing body in lieu of its own licensing examination
+
+- it is not required by federal or provincial legislation but is a course that is the equivalent of the courses discussed in paragraphs 44 to 46 of this memorandum
+
+A vocational school operates a commercial truck driving training school. One of the courses offered by the vocational school is a provincially approved air brake endorsement preparatory course. Under the province’s Highway Traffic Act, which is administered by the province’s Ministry of Transportation, individuals wanting to drive tractor trailers are required to obtain a specific class of licence with an air brake endorsement. The Ministry administers the licence and air brake endorsement examinations, which typically require applicants to complete a written knowledge test and a practical road test.
+
+The Ministry will issue an air brake endorsement to any individual who presents to the Ministry a certificate issued by an approved education institution that attests to the individual’s successful completion of the air brake endorsement course. The Ministry does not require these individuals to also complete the Ministry’s licence examinations.
+
+In this case, the certificates issued by the vocational school for successful completion of the air brake endorsement preparatory courses are those that are accepted by the Ministry for purposes of issuing an air brake endorsement. The service of instruction in these courses is therefore exempt under section 8 of Part III of Schedule V.
+
+#### Supplies of flight training
+
+48. Under certain circumstances, the supply of flight training by an educational institution or government is exempt under section 8 of Part III of Schedule V.
+
+49. The Aeronautics Act, the Canadian Aviation Regulations, and their relevant standards (hereafter collectively referred to as **federal legislation**) set out the requirements that an individual must meet and the qualifications that the individual must have in order to obtain a pilot licence, a rating in respect of that licence, or a flight instructor rating or associated class. These requirements include ground school instruction time and minimum flight time.
+
+50. The CRA has classified the federally required flight time into the following categories:
+
+- dual flight time
+
+- solo flight time
+
+- build-up flight time
+
+51. The CRA considers an individual to be under instruction and direct supervision while amassing dual and solo flight time hours.
+
+52. **Build-up flight time** refers to additional flight time that must be completed by an individual, over and above dual and solo flight time, in order to obtain a pilot licence, a rating in respect of that licence, or a flight instructor rating or associated class. The CRA does not consider an individual to be under instruction and direct supervision while amassing build-up flight time hours.
+
+53. The following supplies of flight training by an educational institution or government constitute supplies of instruction in vocational courses and are exempt under section 8 of Part III of Schedule V:
+
+- ground school instruction relating to one or more of the following:
+
+    - the Commercial Pilot Licence–Aeroplane
+
+    - the Commercial Pilot Licence–Aeroplane (CPL(A)) Integrated Course
+
+    - the Commercial Pilot Licence–Aeroplane/Instrument Rating (CPL(A)/IR) Integrated Course
+
+    - the Commercial Pilot Licence–Helicopter
+
+    - the Airline Transport Pilot Licence–Aeroplane
+
+    - the Airline Transport Pilot Licence–ATP(A) Integrated Course
+
+    - the Airline Transport Pilot Licence–Helicopter
+
+    - a rating in respect of those licences
+
+    - a flight instructor rating or associated class
+
+- dual and solo flight time, up to and including the minimum flight time set by federal legislation, relating to the licences, ratings and classes listed above
+
+54. Where a student purchases hours of dual or solo flight time over and above the minimum time requirements in the federal legislation, the supply of the additional hours is not exempt under section 8 of Part III of Schedule V.
+
+55. The supply of build-up flight time relating to any of the above licences or ratings is also not an exempt supply for purposes of section 8 of Part III of Schedule V because students are not under instruction or direct supervision during this time.
+
+56. In addition, while flight time amassed during completion of a Private Pilot Licence–Aeroplane or Private Pilot Licence–Helicopter may count toward the flight time requirements of other licences or ratings, private licence instruction is considered to have been taken for personal interest. As such, the supply of instruction and flight time relating to a Private Pilot Licence is not vocational training and is not exempt under section 8 of Part III of Schedule V.
+
+A flight school that is a GST/HST registrant and a vocational school offers a program designed to prepare students to write their examinations and take their flight tests for the Commercial Pilot Licence–Aeroplane. The school’s curriculum and promotional materials indicate that the program provides skills related to the ability to gain or retain employment in the transportation industry.
+
+As part of this program, the vocational school supplies ground school preparatory courses, flight test preparatory courses and an aeroplane to its students for a single fee. Its flight test preparatory course is based on the flight time requirements set out in the federal legislation and consists of 35 hours of dual flight time and 30 hours of solo flight time. In some instances, the flight test preparatory course also includes the option of 90 hours of build-up flight time for an additional charge. As such, there could be 2 separate supplies made by the flight school.
+
+The first supply is the provision of ground school instruction, dual flight time, solo flight time and an aeroplane for the purposes of the flight instruction, which constitutes a single supply of instruction that is exempt under section 8 of Part III of Schedule V.
+
+The supply of build-up flight time constitutes a separate supply of an aeroplane by way of lease, license or similar arrangement that is not incidental to the supply of the ground school and dual and solo flight instruction. Since there is no element of instruction involved in build-up flight time, the supply is not exempt under section 8 of Part III of Schedule V. Unless another exempting provision applies, the GST/HST will apply to the portion of the fee that corresponds to the supply of build-up flight time.
+
+##### Ratings
+
+57. A rating is an authorization that is associated with, and forms part of, a licence and that sets out special conditions, privileges or limitations attached to the licence.
+
+58. The supply made by an educational institution or government of any instruction or flight time, up to and including the minimum flight time required by the federal legislation, for the following ratings in respect of a Commercial Pilot Licence and an Airline Transport Pilot Licence is exempt under section 8 of Part III of Schedule V:
+
+- aeroplane class ratings (sea plane, land plane, multi-engine class, multi-engine centre line thrust class)
+
+- visual flight rules (VFR) over-the-top rating
+
+- instrument ratings
+
+59. The supply of flight time required by the federal legislation for ratings in respect of a Private Pilot Licence, including the night rating, is not exempt under section 8 of Part III of Schedule V as such flight time is considered to be taken for personal interest and not as vocational training. However, the supply of night flight training is exempt where the supply is made to satisfy the night flight time requirements of a Commercial Pilot Licence or an Airline Transport Pilot Licence.
+
+##### Flight instructor ratings and classes
+
+60. The federal legislation sets out several flight instructor ratings, some of which have associated classes. For example, there are 4 different classes of the flight instructor rating for aeroplanes and helicopters. Depending on the rating/class being sought, an individual may have to complete a minimum amount of dual and/or solo flight time in addition to ground school instruction. Build-up flight time may also be required under the federal legislation.
+
+61. The supply made by an educational institution or government of dual and solo flight time, up to and including the minimum flight time set by federal legislation, as well as ground school instruction relating to a flight instructor rating/class constitutes vocational training and is exempt under section 8 of Part III of Schedule V.
+
+62. The supply of build-up flight time with respect to a flight instructor rating/class is not an exempt supply for purposes of section 8 of Part III of Schedule V because students are not under instruction or direct supervision during this time.
+
+#### Vocational courses supplied to non-residents
+
+63. The exempting provision of section 8 of Part III of Schedule V does not apply to zero-rated supplies. An example of a zero-rated supply that would otherwise be exempt under section 8 of Part III of Schedule V is a supply made under section 18 of Part V of Schedule VI.
+
+64. Section 18 of Part V of Schedule VI zero-rates a supply made to a non-resident person, other than an individual, who is not registered for GST/HST purposes of “a service of instructing non-resident individuals in, or administering examinations in respect of, courses leading to certificates, diplomas, licences or similar documents, or classes or ratings in respect of licences, that attest to the competence of the individuals to whom the service is rendered or the examination is administered to practise or perform a trade or vocation”.
+
+65. Although section 18 of Part V of Schedule VI is similar to section 8 of Part III of Schedule V, there is no requirement under section 18 of Part V of Schedule VI that the supplier be a vocational school or any other specified type of entity. Where all of the conditions outlined in section 18 of Part V of Schedule VI are satisfied, the supply will be zero-rated regardless of who is providing the service.
+
+66. Under section 18 of Part V of Schedule VI, an otherwise exempt supply under section 8 of Part III of Schedule V is zero-rated when made to a non-resident person who is not an individual and is not registered for GST/HST purposes.
+
+67. For additional information, refer to [GST/HST Memorandum 20-8, Educational Services Made to a Non-resident](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-8.html).
+
+### Second-language instruction
+
+68. Under section 11 of Part III of Schedule V, a supply by a vocational school of a service of instructing individuals in, or administering examinations in respect of, language courses that form part of a program of second-language instruction in either English or French is exempt.
+
+69. For additional information on the application of the GST/HST to second-language instruction, refer to [GST/HST Memorandum 20-7, Second-language Instruction](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-7.html).
+
+### Course materials
+
+70. Students often purchase course materials that relate to a service of instruction, such as textbooks, dictionaries, notes and compact discs, from the person supplying the service of instruction. The course materials may either be part of a single supply of a service of instruction that consists of several elements or be supplied separately from the supply of a service of instruction. The tax status of the course materials that relate to a service of instruction must therefore be determined on a case-by-case basis.
+
+71. If the service of instruction and course materials form part of a single supply of a service of instruction and the supply of the service of instruction is an exempt supply, the course materials included in the single supply will not be subject to the GST/HST.
+
+72. If the supply of course materials is a separate supply from the exempt supply of a service of instruction, the supply of the course materials would not be exempt under Part III of Schedule V and would be taxable unless another exempting provision of the ETA applies to the supply.
+
+73. [GST/HST Policy Statement, P-077R2, Single and Multiple Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-077r2.html), provides guidance for determining whether a transaction consisting of several elements is a single supply or 2 or more supplies.
+
+## Service of instruction vs. admission to a seminar, activity or event
+
+74. A vocational school may offer seminars, activities or other events to its students or members of the general public; however, such events are generally not considered to be a supply of instruction in courses for GST/HST purposes.
+
+75. The supply of instruction in courses is a service for GST/HST purposes and is exempt from the GST/HST if it meets the requirements set out in Part III of Schedule V or zero-rated if it meets the requirements set out in section 18 of Part V of Schedule VI.
+
+76. By contrast, the supply of an admission to a seminar, activity or event is a supply of intangible personal property for GST/HST purposes and may be subject to the GST/HST.
+
+77. Subsection 123(1) defines **admission** in respect of a place of amusement or a seminar, activity or event to mean “a right of entry or access to, or attendance at, the place of amusement or the seminar, activity or event”.
+
+78. The factors listed below are intended to assist a supplier in establishing whether a particular supply is the supply of a service of instruction or the supply of an admission to a seminar, activity or event. These factors are not all-inclusive, and the order in which they appear is not intended to assign a priority or weighting to any one factor.
+
+79. For ease of reading, the word **activity** is used below to refer to activities carried out for purposes of making the supply of a service of instruction (in-class instruction, etc.) or of an admission (to seminar-based learning programs, conferences, workshops, etc.).
+
+### Supply of a service of instruction
+
+80. The following are some of the factors that generally indicate that a given supply is a supply of a service of instruction:
+
+- The activity involves the provision of systematic instruction.
+
+- The supplier monitors or supervises the participant’s progress or learning.
+
+- The supplier assesses the participant’s progress during the course of the activity and provides ongoing support, feedback and guidance to the participant.
+
+- The supplier may be available to assist the participant with the subject matter at a time and location different from the time and place in which the activity occurs.
+
+- The supplier assesses the participant’s competency upon completion of the activity by requiring the participant to formally demonstrate the knowledge acquired. If the competency is not achieved, the activity may have to be repeated.
+
+- The participant is required to invest time and effort outside of the activity in order to complete assignments, read course material, etc.
+
+- The participant may be required to successfully complete verified prerequisites before taking part in the activity.
+
+- The participant may be required to successfully complete the activity before being permitted to participate in another activity.
+
+- The activity is part of a series of activities leading to a formal recognition of skills, such as a degree, diploma or licence.
+
+- The activity may be part of a program that consists of a series of 2 or more related activities.
+
+- The activity occurs at set intervals over an extended period of time (for example, weeks or months).
+
+- The activity does not include the provision of rights or, if there is a provision of rights, they are incidental to or part of the single supply of a service (for example, the right to use a laboratory or a darkroom facility).
+
+- The subject of the activity is broad (for example, writing).
+
+- The supplier advertises or promotes the activity as being intended to instruct participants.
+
+- The activity is promoted together with other activities in a prospectus or calendar prepared by an educational institution.
+
+- The promotional material indicates that the activity is part of a broader program that may lead to a formal recognition of skills, such as a diploma, degree or licence.
+
+- The promotional material is aimed at persons who have the prerequisites required to participate in the activity.
+
+### Supply of an admission to a seminar, activity or event
+
+81. The following are some of the factors that generally indicate that a given supply is a supply of an admission to a seminar, activity or event:
+
+- The supplier and the participant engage in minimal individualized interaction.
+
+- The participant need only attend the activity to receive evidence of successful or satisfactory completion of the activity.
+
+- The supplier’s purpose with respect to the activity is principally to provide information to, or to facilitate the exchange of information among, participants.
+
+- The subject of the activity is narrowly focused (for example, study skills for first-year students or money management techniques).
+
+- The activity is discrete from other activities offered by the supplier, with no formal prerequisites for attendance.
+
+- The participant is not required to take part in the activity as a prerequisite for participating in another activity.
+
+- The activity is promoted as a stand-alone activity.
+
+- The activity is promoted to the general public.
+
+- The activity is promoted as a seminar, workshop or similar event.
+
+- The activity occurs during a brief, concentrated period of time (for example, a number of hours, a day or several consecutive days).
+
+### Online supplies of vocational courses
+
+82. The exempt supplies described under sections 6, 8 and 11 of Part III of Schedule V may also be made where a vocational school makes an online supply of a service of instructing individuals in courses via the Internet as opposed to a traditional classroom setting where the conditions of the respective sections are met. As well, section 18 of Part V of Schedule VI may apply to zero-rate an online supply of a service of instructing non-resident individuals.
+
+83. It can, however, be difficult to determine whether a supply made online is the supply of a service (and thus possibly exempt under section 6, 8 or 11 of Part III of Schedule V or zero-rated under section 18 of Part V of Schedule VI) or of intangible personal property as this determination is based on a number of factors, as well as the specific facts of the particular case. Refer to [GST/HST Technical Information Bulletin B-090, GST/HST and Electronic Commerce](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-090.html), for information on determining whether a supply made online is a supply of a service or of intangible personal property.
+
+84. The CRA has also developed a set of factors to assist in determining whether a particular supply is a supply of a service of instruction, which could qualify for exemption under section 6, 8 or 11 of Part III of Schedule V or be zero-rated under section 18 of Part V of Schedule VI where the requirements of the respective sections are met, or a supply of intangible personal property. These factors are listed in the “Service of instruction vs. admission to a seminar, activity, or event” section of this memorandum (paragraph 74 to 81). Note that these factors apply whether the supply is made online or in person.
+
+## Input tax credits
+
+85. Under subsection 169(1), a GST/HST registrant is generally eligible to claim an input tax credit (ITC) for the GST/HST paid or payable by the registrant on property or a service based on the extent to which the property or service is acquired by the registrant for consumption, use or supply in the course of the registrant’s commercial activities, where all of the conditions for claiming an ITC are met.
+
+86. A **commercial activity** of a person is defined in subsection 123(1) to include “a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person”.
+
+87. For information on ITCs, refer to [GST/HST Memorandum 8-1, General Eligibility Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1.html), and [GST/HST Memorandum 8-3, Calculating Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-3.html).
+
+## Public service bodies’ rebate
+
+88. Where a vocational school cannot claim ITCs (for example, where it makes an exempt supply), a public service bodies’ rebate may be available.
+
+89. A vocational school that is also a charity or a qualifying non-profit organization may be able to claim a rebate of the GST or the federal part of the HST paid or payable on eligible purchases and expenses. A vocational school that is also a charity or a qualifying non-profit organization and that is resident in a participating province may also be eligible to claim a rebate of the provincial part of the HST paid or payable on eligible purchases and expenses.
+
+90. For information about charities, qualifying non-profit organizations, and the public service bodies’ rebate, refer to [Guide RC4034, GST/HST Public Service Bodies’ Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html); [Guide RC4081, GST/HST Information for Non-Profit Organizations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4081.html); and [Guide RC4082, GST/HST Information for Charities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4082.html).
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries,**call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries,**call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in**Quebec**, call**Revenu Québec**at **1-800-567-4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST - Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for**general GST/HST**or**QST enquiries**, call**Business Enquiries**at**1-800-959-5525**
+
+- for**technical GST/HST**or**QST enquiries**, call**GST/HST Rulings SLFI**at**1-855-666-5166**

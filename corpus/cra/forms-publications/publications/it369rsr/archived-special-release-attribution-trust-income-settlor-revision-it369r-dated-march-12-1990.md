@@ -1,0 +1,54 @@
+---
+title: "ARCHIVED - Special release: Attribution of Trust Income to Settlor (Revision to it369r dated March 12, 1990)"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it369rsr/archived-special-release-attribution-trust-income-settlor-revision-it369r-dated-march-12-1990.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Special release: Attribution of Trust Income to Settlor (Revision to it369r dated March 12, 1990)
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-369RSR**
+
+DATE: June 24, 1994
+
+SUBJECT: INCOME TAX ACT**S.R. Attribution of Trust Income to Settlor (Revision to it369r dated March 12, 1990)**
+
+REFERENCE: SPECIAL RELEASE
+
+APPLICATION
+
+The purpose of this Special Release is to revise Interpretation Bulletin IT-369R dated March 12, 1990, to reflect the amendments to the Income Tax Act resulting from S.C. 1991, c. 49 (formerly Bill C-18). Other changes have also been made for clarification purposes. The comments in the bulletin are not affected by proposed amendments to the Income Tax Act contained in Bill C-27, which received first reading in the House of Commons on May 5, 1994.
+
+The changes to the bulletin given below reflect the stylistic and structural changes contained in the Income Tax Act as revised by the 5th Supplement to the Revised Statutes of Canada, 1985, which came into force on March 1, 1994. This Special Release does not, however, change other paragraphs of the bulletin that may be affected solely by the 5th supplement revisions. All such changes will be incorporated into the next full revision of the bulletin.
+
+BULLETIN REVISIONS
+
+1. Paragraph 1 of the bulletin is cancelled and replaced by the following new paragraph. A discussion has been added on the implications, in relation to subsection 75(2), of a genuine loan made to a trust under certain circumstances.
+
+1. The provisions of subsection 75(2) may apply where property is held under any trust established since 1934, other than those trusts referred to in 2 below. Unlike (for example) section 74.3, the application of subsection 75(2) does not depend upon a "loan" or "transfer" of property, but upon the fact that property is "held" by the trust under one or more of the conditions described in 3(a), (b) and (c) below. A genuine loan to a trust would not by itself be considered to result in property being "held" by the trust under one or more of these conditions (i.e., would not by itself result in the application of subsection 75(2)), if the loan is outside and independent of the terms of the trust. For a discussion on when a loan can be considered genuine, see the current version of IT-258, Transfer of Property to a Spouse and IT-260, Transfer of Property to a Minor.
+
+Where subsection 75(2) applies, certain amounts derived from property held by the trust are attributed to the person from whom the property was directly or indirectly received. Subsection 75(2) ceases to apply if the person dies or ceases to be resident in Canada.
+
+2. The last sentence of paragraph 3 of the bulletin is cancelled because it has no current relevance.
+
+3. Paragraph 8 of the bulletin is cancelled and replaced by the following, in order to reflect the amendment to subsection 74.2(2) in S.C. 1991, c. 49. This amendment was effective for the 1987 and subsequent taxation years.
+
+8. For purposes of the capital gains deduction under section 110.6, any taxable capital gain or allowable capital loss attributed to a person in a taxation year pursuant to subsection 75(2) is deemed, by virtue of subsection 74.2(2), to have arisen from the disposition by that person, in that year, of the property on which the gain or loss was realized. Consequently, a taxable capital gain attributed to a person under subsection 75(2) is eligible for the capital gains deduction to the same extent and in the same manner as if the gain had been realized directly by that person.
+
+Note: The Federal Budget released by the Minister of Finance on February 22, 1994 proposes to eliminate the $100,000 capital gains deduction for gains realized on dispositions of property occurring after February 22, 1994 and for gains brought into income after 1994 by the capital gains reserve mechanism. The Budget further proposes that individuals (other than trusts) and certain personal trusts and partnerships could elect to crystallize accrued gains in order to use any portion of the $100,000 capital gains deduction available under the law. For more information on these proposed changes, reference should be made to budget documents.
+
+4. Part (ii) of paragraph 12(b) of the bulletin is cancelled and replaced by the following. This revision clarifies that the fair market values referred to are the ones at the time the property is transferred (as indicated in subparagraph 160(1)(e)(i)).
+
+(ii) the amount by which the fair market value of the property, at the time it was transferred, exceeds the fair market value, at that time, of the consideration given for the property.
+
+If you have any comments regarding the matters discussed in this release, please send them to:
+
+Director, Technical Publications Division Legislative and Intergovernmental Affairs Branch Revenue Canada - Customs, Excise and Taxation 875 Heron Road Ottawa, Ontario, K1A 0L8

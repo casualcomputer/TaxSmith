@@ -1,0 +1,665 @@
+Title: Exports – Services and Intangible Personal Property
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-5-3/exports-services-intangible-personal-property.html
+Corpus path: corpus/cra/forms-publications/publications/4-5-3/exports-services-intangible-personal-property.md
+Document type: publication
+Last modified: 2023-12-07
+
+# Exports – Services and Intangible Personal Property
+
+GST/HST memorandum 4-5-3 December 2023
+
+This version replaces the one dated June 1998. This memorandum has been updated to reflect legislative amendments including zero-rated call centre services provided to non-resident non-registrants and the impact of the registration requirement for non-resident digital economy businesses.
+
+This memorandum provides information about supplies of services (Part I) and intangible personal property (Part II) that are listed in Part V of Schedule VI to the Excise Tax Act as zero-rated exports for GST/HST purposes. Information about supplies of tangible personal property is provided in [GST/HST Memorandum 4-5-2, Exports – Tangible Personal Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-5-2.html). Information about the criteria for determining the residence status of recipients to whom supplies are made in order to determine whether those supplies may be zero-rated as exports is provided in [GST/HST Memorandum 4-5-1, Exports – Determining Residence Status](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-5-1.html).
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the Excise Tax Act (ETA). The information in this publication does not replace the law found in the ETA and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1‑800‑959‑8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1‑855‑666‑5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of contents
+
+- [General](#h_1)
+
+- [Part I – Exported services](#h_2)
+
+    - [General provision for zero-rating](#h_2_1)
+
+          - [Exclusions from the general provision](#h_2_1_1)
+
+    - [Specific provisions for zero-rating](#h_2_2)
+
+          - [Services supplied to operators of ships, aircraft, or railways](#h_2_2_1)
+
+          - [Air navigation services](#h_2_2_2)
+
+          - [Services performed on temporarily imported tangible personal property](#h_2_2_3)
+
+          - [Services of agents or representatives](#h_2_2_4)
+
+          - [Emergency repair services](#h_2_2_5)
+
+          - [Refining services](#h_2_2_6)
+
+          - [Advertising services](#h_2_2_7)
+
+          - [Advisory, consulting, or research services supplied to a person moving to or establishing a business in Canada](#h_2_2_8)
+
+          - [Services supplied under a non-resident's warranty](#h_2_2_9)
+
+          - [Services in respect of continuous transmission commodities](#h_2_2_10)
+
+          - [Custodial or nominee services](#h_2_2_11)
+
+          - [Instructing or administering examinations](#h_2_2_12)
+
+          - [Destroying or discarding tangible personal property](#h_2_2_13)
+
+          - [Dismantling property for export](#h_2_2_14)
+
+          - [Testing or inspecting tangible personal property](#h_2_2_15)
+
+          - [Postal services](#h_2_2_16)
+
+          - [Telecommunication services](#h_2_2_17)
+
+          - [Advisory, consulting, or professional services](#h_2_2_18)
+
+          - [Exported call centre services](#h_2_2_19)
+
+- [Part II – Exported intangible personal property](#h_3)
+
+    - [General provision for zero-rating](#h_3_3)
+
+          - [Exclusions from the general provision](#h_3_3_1)
+
+    - [Determining when a supply of intangible personal property is made](#h_3_4)
+
+    - [Supplier responsibilities](#h_3_5)
+
+          - [Verification of registration](#h_3_5_1)
+
+          - [Verification of residency](#h_3_5_2)
+
+          - [Verification of physical location](#h_3_5_3)
+
+    - [Intellectual property](#h_3_6)
+
+## General
+
+1. Generally, taxable supplies of property and services made in Canada are subject to the GST at the rate of 5% if they are made in a non-participating province and subject to HST at the applicable harmonized rate if they are made in a participating province. Certain supplies of property and services made in Canada where the goods are exported or the services are for consumption, use or supply outside Canada, are zero-rated (taxable at 0%) under Part V of Schedule VI.
+
+2. For information on the place of supply rules for determining whether supplies are made in or outside Canada, refer to [GST/HST Memorandum 3-3, Place of Supply](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3.html).
+
+3. Several zero-rating provisions for the export of services or intangible personal property apply to non-resident recipients that are or are not registered under Subdivision D of Division V. Non-resident persons may be registered under Subdivision D of Division V (referred to as the regular GST/HST registration provisions) or under Subdivision E of Division II (referred to as the simplified GST/HST registration provisions). Registration under the simplified GST/HST registration provisions is generally for non-resident digital economy businesses which are not otherwise registered or required to be registered under the regular GST/HST registration provisions. A person can only be registered for GST/HST purposes under one of these subdivisions, not both at the same time.
+
+4. For further information regarding simplified GST/HST registration provisions for digital economy businesses that are non-residents of Canada, go to [GST/HST for digital economy businesses](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/digital-economy-gsthst/register-gst-hst.html). To confirm if a person is registered under the simplified GST/HST registration provisions, go to [Confirming a simplified GST/HST account number](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/digital-economy-gsthst/confirming-simplified-gst-hst-account-number.html) to search the registry.
+
+## Part I – Exported services
+
+### General provision for zero-rating
+
+5. Section 7 of Part V of Schedule VI is a general zero-rating provision for exported services. A supply of a service made to a non-resident person is zero-rated under the general provision provided the supply is not specifically excluded under paragraphs 7(a) to (h) of Part V of Schedule VI. Although a service may be excluded from zero-rating under this provision, the service may still qualify for zero-rating under one of the other provisions in Part V of Schedule VI, which are described in paragraphs 27 to 92 of this memorandum.
+
+#### Exclusions from the general provision
+
+##### Individual in Canada
+
+6. Under paragraphs 7(a) and (a.1) of Part V of Schedule VI, a supply of a service made to a non-resident person is excluded from the general zero-rating provision for exported services if either of the following conditions is met:
+
+- the person is an individual who is in Canada at any time when the individual has contact with the supplier in relation to the supply
+
+- the service is rendered to an individual while that individual is in Canada
+
+A non-resident corporation sends its employees to Canada for management training. The resident firm providing the training invoices the non-resident corporation for the training service. The training service supplied to the non-resident corporation is not zero-rated under the general zero-rating provision because the service is rendered to individuals while they are in Canada.
+
+Refer to paragraphs 73 to 77 of this memorandum for information regarding certain services of instructing non-resident individuals or administering examinations that may be zero-rated under section 18 of Part V of Schedule VI.
+
+##### Advisory, consulting, or professional services
+
+7. Under paragraph 7(b) of Part V of Schedule VI, a supply of an advisory, consulting, or professional service made to a non-resident person is excluded from the general zero-rating provision. However, supplies of advisory, consulting, or professional services made to non-residents may be zero-rated under sections 9 or 23 of Part V of Schedule VI subject to certain exclusions. These supplies are described in paragraphs 51 to 54 and 87 to 90 of this memorandum.
+
+8. The term **advisory service**is not defined in the ETA, but generally refers to a service of giving an opinion, counsel, or recommending a plan or course of action.
+
+9. The term **consulting service**is not defined in the ETA, but generally refers to a service of providing information, instruction, or expert advice. A consultant generally provides services relating to a field of specialized knowledge or training.
+
+10. An advisory or consulting service may address business, management, marketing, data processing, public relations or other issues or problems faced by the client. However, an advisory or consulting service is not considered to include any work that might be undertaken or performed as a result of the plans or recommendations accepted by the client or the advice provided to the client.
+
+11. The term **professional service**is not defined in the ETA, but is generally understood in terms of the individual providing the service. If the person making the supply of the service is other than an individual, such as a partnership or company, the Canada Revenue Agency (CRA) will consider the status of the individual professional or professionals who render the service in determining whether the service is a professional service.
+
+12. A professional service refers to a service provided by an individual whose vocation or occupation requires special, usually advanced, education and skills. For the purposes of the exported service zero-rating provisions, the individual providing the service may be a member of a professional association, a professional corporation, or a similar body, which is recognized by a statute in at least one province or territory or by one federal body, and which enforces standards of professional practice as well as a code of ethics. However, a professional service is considered to include the services provided by articling or other students and support staff, to the extent that their services are intended to assist the professional in the provision of the service and are undertaken under the supervision of the professional. The duties and labour performed in the provision of the professional service must be related to the vocation or occupation of the individual.
+
+##### Postal services
+
+13. Under paragraph 7(c) of Part V of Schedule VI, a supply of a postal service made to a non-resident person is excluded from the general zero-rating provision for exported services. However, certain supplies of postal services are zero-rated under section 22 of Part V of Schedule VI. These supplies are described in paragraph 82 of this memorandum.
+
+##### Services in respect of real property or tangible personal property
+
+14. Under paragraphs 7(d) and (e) of Part V of Schedule VI, a supply of a service made to a non-resident person in respect of real property situated in Canada, or a service in respect of tangible personal property that is situated in Canada at the time the service is performed, is excluded from the general zero-rating provision for exported services. However, certain supplies of services in respect of tangible personal property may be zero-rated under a different provision in Part V of Schedule VI.
+
+15. For purposes of the exclusions from zero-rating for exported services described in paragraphs 7(d) and (e) and paragraphs 23(b) and (c) of Part V of Schedule VI, there must be a direct connection between a service and the underlying real property or tangible personal property before the supply of the service is **in respect of**property and excluded from zero-rating under those paragraphs. Whether the relationship between the service and the property is sufficiently direct to be in respect of property will depend on the particular circumstances of each case.
+
+16. Paragraphs 23(b) and (c) of Part V of Schedule VI are further addressed in paragraph 89 of this memorandum.
+
+17. The following guidelines should be applied in determining whether the connection between the service and the real property or tangible personal property is sufficiently direct for the service to be **in respect of**the property for purposes of paragraphs 7(d) and (e) and paragraphs 23(b) and (c) of Part V of Schedule VI:
+
+- Is the service designed, developed, or undertaken to fulfil or serve a particular need or requirement arising from or relating to the property? This guideline involves determining the purpose or objective of the service.
+
+- The purpose or objective of the service may often be determined by examining a written agreement for the supply between the supplier and the recipient of the service. If there is no formal written agreement, other documentation such as purchase orders, correspondence between the parties or invoices or receipts may be useful in establishing the purpose or objective of the service. It is the supplier's responsibility to determine whether the supply of the service is zero-rated and to maintain sufficient evidence to support that determination. The CRA may assess a supplier for uncollected GST/HST (whichever is applicable) if the supply was zero-rated in error.
+
+- If some object comes between the service and the property, the connection becomes more remote and therefore the relationship between purpose or objective of the service and the property is not sufficiently direct.
+
+18. A service would generally be regarded as being in respect of property under the guidelines listed in the previous paragraph if the purpose of the service is to do any of the following:
+
+- physically count the property
+
+- appraise or value the property
+
+- physically protect or secure the property
+
+- enhance the value of the property
+
+19. Similarly, if the service is aimed at effecting or dealing with the transfer of ownership of, claims on or rights to real property or tangible personal property, or determining title to the property, the service will generally be regarded as being in respect of property and will therefore be excluded from the zero-rating provisions.
+
+20. The following are examples of services that are considered to be in respect of real property:
+
+- services physically performed on the real property, such as construction and maintenance
+
+- services that enhance the value of the real property, affect the nature of the real property, relate to preparing the real property for development or redevelopment, affect the management of the real property, or affect the environment within the limits of the real property, such as engineering, architectural services, surveying and subdividing, management services, security services
+
+- services related to any of the following:
+
+    - the transfer or conveyance of the real property or the proposed transfer or conveyance of the real property, such as real estate services in relation to the actual or proposed acquisition, lease or rental of the real property, legal services rendered to the owner or beneficiary or potential owner or beneficiary of real property as a result of a will or testament
+
+    - a mortgage interest or other security interest in the real property
+
+    - the determination of the title to the real property
+
+21. The following are examples of services that are considered to be in respect of tangible personal property:
+
+- services physically performed on the tangible personal property, such as repair, restoration and maintenance
+
+- services that enhance the value of the property or affect the nature of the property, or protect or secure the property, such as the docking or storage of a boat, the safekeeping of jewels in a safety deposit box
+
+- services related to any of the following:
+
+    - the transfer or proposed transfer of the tangible personal property, such as acquiring or proposing to acquire the property, legal services rendered to the owner or beneficiary of property as a result of a will or testament
+
+    - a chattel mortgage interest or other security interest in the tangible personal property
+
+    - the determination of the title to the tangible personal property
+
+22. For more information, refer to [GST/HST Policy Statement P-169R, Meaning of in Respect of Real Property Situated in Canada and in Respect of Tangible Personal Property that is Situated in Canada at the Time the Service is Performed, for Purposes of Schedule VI, Part V, Sections 7 and 23 to the Excise Tax Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-169r.html).
+
+##### Acting as agent
+
+23. Under paragraph 7(f) of Part V of Schedule VI, a supply of a service made to a non-resident person of acting as an agent of the non-resident person, or of arranging for, procuring, or soliciting orders for supplies by or to the person, is excluded from the general provision for zero-rating exported services. However, section 5 of Part V of Schedule VI zero-rates certain supplies of a service of acting as an agent or representative for non-residents. These supplies are described in paragraphs 37 and 38 of this memorandum.
+
+##### Transportation services
+
+24. Under paragraph 7(g) of Part V of Schedule VI, a supply of a transportation service made to a non-resident person is excluded from the general provision for zero-rating exported services. However, certain supplies of transportation services are zero-rated under Part VII of Schedule VI. For more information about zero-rated transportation services, refer to [GST/HST Memoranda Series Chapter 28, Transportation](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst/gst-hst-memoranda-series.html).
+
+##### Telecommunication services
+
+25. Under paragraph 7(h) of Part V of Schedule VI, a supply of a telecommunication service made to a non-resident person is excluded from the general provision for zero-rating exported services. However, certain supplies of telecommunication services are zero-rated under section 22.1 of Part V of Schedule VI. These supplies are described in paragraphs 83 to 86 of this memorandum.
+
+### Specific provisions for zero-rating
+
+26. As mentioned in paragraph 5 of this memorandum, where a service is excluded from the general provision for zero-rating, another provision of Part V of Schedule VI may apply. These other provisions are described below.
+
+#### Services supplied to operators of ships, aircraft, or railways
+
+27. Under section 2 of Part V of Schedule VI, a supply of property or a service (other than a sale of real property) made to a non-resident person that is not registered under the regular GST/HST registration provisions at the time the supply is made is zero-rated where the property or service is acquired by the person for consumption, use or supply in any of the following situations:
+
+- where the person carries on a business of transporting passengers or property to or from Canada or between places outside Canada by ship, aircraft, or railway, in the course of so transporting passengers or property
+
+- in the course of operating a ship or aircraft by or on behalf of a government of a country other than Canada
+
+- in the course of operating a ship for the purpose of obtaining scientific data outside Canada or for the laying or repairing of oceanic telegraph cables
+
+28. The phrase **between places outside Canada**referred to in the previous paragraph means that the transportation of property or passengers does not originate or terminate in Canada, but the conveyance does travel through Canada.
+
+29. Supplies that are zero-rated under section 2 of Part V of Schedule VI, provided the conditions of the provision are met, include:
+
+- aircraft landing rights, railway right-of-ways, warehousing services
+
+- repair and maintenance services
+
+- railway junction and switching services
+
+- pilotage services
+
+- air navigation services
+
+30. A supply of property or a service made to a non-resident person that is not registered under the regular GST/HST registration provisions, and that operates a ship, an aircraft, or a railway, where the supplies are not for consumption, use or supply in the course of transporting passengers or property, is not zero-rated. For the supply to be zero-rated, the ship, aircraft, or train must be in service (on its way to a destination).
+
+31. For more information about supplies of property that may be zero-rated under section 2 of Part V of Schedule VI, refer to [GST/HST Memorandum 4-5-2, Exports – Tangible Personal Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-5-2.html).
+
+#### Air navigation services
+
+32. Under section 2.2 of Part V of Schedule VI, a supply of an air navigation service (as defined in subsection 2(1) of the Civil Air Navigation Services Commercialization Act) made to a person that is registered under the regular GST/HST registration provisions at the time the supply is made, is zero-rated if both of the following requirements are met:
+
+- the person carries on a business of transporting passengers or property by aircraft to or from Canada, or between places outside Canada
+
+- the service is acquired by the person for use in the course of so transporting passengers or property
+
+33. A supply of an air navigation service made to a non-resident person that is not in the business of transporting passengers or property may be zero-rated under section 7 of Part V of Schedule VI provided none of the exclusions in section 7 apply.
+
+#### Services performed on temporarily imported tangible personal property
+
+34. Under section 4 of Part V of Schedule VI, a supply of a service (other than a transportation service) in respect of tangible personal property, and a supply of any tangible personal property supplied in conjunction with the service, is zero-rated if the property to which the service relates meets all of the following requirements:
+
+- it is ordinarily situated outside Canada
+
+- it is temporarily imported into Canada for the sole purpose of having the service performed
+
+- it is exported as soon as is practicable after the service is performed
+
+A GST/HST registered Canadian firm supplies maintenance and repair services in respect of trailers owned by a non-resident client registered under the regular GST/HST registration provisions. The trailers are imported for the purpose of maintenance and repair and exported once these services have been performed.
+
+The maintenance and repair services, supplied with parts to repair the trailers, are zero-rated. The supply would be zero-rated whether or not the recipient is registered for the GST/HST or is a resident of Canada.
+
+35. Whether the tangible personal property is exported **as soon as is practicable after the service is performed**depends on the type of property involved and the general business practices of the person. The CRA will consider the property to be exported as soon as is practicable after the service is performed where the supplier can provide documentary evidence that the property was not exported either immediately after the service was performed or in the time frame originally anticipated, because of any of the following:
+
+- a late shipment from a subcontractor delays the shipment of the whole consignment
+
+- transportation obstacles have been encountered
+
+- some tangible personal property is held in inventory while awaiting delivery of other property before exporting all of the property at once
+
+- other situations have resulted in unexpected delays
+
+36. For more information about the zero-rating of tangible personal property supplied under section 4 of Part V of Schedule VI, refer to [GST/HST Memorandum 4-5-2](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-5-2.html).
+
+#### Services of agents or representatives
+
+37. Under section 5 of Part V of Schedule VI, a supply made to a non-resident person of a service of acting as an agent of the person or of arranging for, procuring, or soliciting orders for supplies by or to the person is zero-rated where the service is in respect of either of the following:
+
+- a supply to the person that is zero-rated by any other section of Part V of Schedule VI
+
+- a supply made outside Canada by or to the person
+
+A financial institution provides corporate trust services to a non-resident person. This service includes maintaining a register of Canadian share/bond holders, printing and disbursing of dividend/interest cheques, and communicating with share/bond holders. The services provided by the financial institution include the safekeeping of the non-resident client's securities and the duties that relate to the custody of the securities. The service, therefore, qualifies for zero-rating.
+
+38. Whether a person will be considered an agent of another person is a question of fact. The onus is on the parties involved in a transaction to determine whether an agency relationship exists and to ensure that the agreement between the principal and agent reflects their intentions in this regard. For more information about what constitutes an agency relationship, refer to [GST/HST Policy Statement P-182R, Agency](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-182r.html).
+
+#### Emergency repair services
+
+39. The term **emergency**is not defined in the ETA, but generally refers to an unforeseen event or combination of events that calls for immediate action. The repairs must be of an urgent nature such that, if not immediately undertaken, the existing conditions could seriously affect the safety of the conveyance, the property or passengers being transported, or the people working on or about the conveyance. The application of sections 6, 6.1 and 6.2 of Part V of Schedule VI depends on the facts associated with each situation.
+
+##### Emergency repairs to conveyances or cargo containers
+
+40. Under section 6 of Part V of Schedule VI, a supply made by a person to a non-resident recipient of an emergency repair service, and of any tangible personal property supplied in conjunction with the service, in respect of a conveyance or cargo container that is being used or transported by the person in the course of a business of transporting passengers or property, is zero-rated.
+
+41. The terms conveyance and cargo container are not defined in the ETA but are understood to mean the following:
+
+- A **conveyance**is a means of transporting or carrying that includes a vehicle such as a bus, ship, airplane, truck, train, or automobile.
+
+- A **cargo container**is anything that contains or can contain the lading or freight of a ship, airplane, train, or other vehicle, and is generally a portable metal compartment in which freight is placed for convenience of movement.
+
+42. The person receiving the emergency repair service does not necessarily have to be using the conveyance or cargo container in order for the supply to be zero-rated. The conveyance or cargo container may be in the process of being transported by the person. However, the purpose of the conveyance or cargo container must be to transport passengers or property by any mode of transportation, including road, rail, air, and sea.
+
+A domestic transport company transporting property in Canada using cargo containers that are owned by a non-resident person supplies an emergency repair service in respect of one of the containers to the non-resident owner. The supply of the emergency repair service to the non-resident owner of the cargo container is zero-rated.
+
+##### Emergency repairs to railway rolling stock
+
+43. Under section 6.1 of Part V of Schedule VI, a supply made to a non-resident person that is not registered under the regular GST/HST registration provisions of an emergency repair service, and of any tangible personal property supplied in conjunction with the service, in respect of railway rolling stock that is being used in the course of a business to transport passengers or property is zero-rated.
+
+While transporting an empty tank car from Montréal to Québec City, a domestic carrier notices that one of the wheels of the tank car is damaged. The carrier delivers the empty tank car to a repair facility operated by a firm specializing in repairing railway rolling stock. The repair firm contacts the non-resident owner of the tank car, that is not registered under the regular GST/HST registration provisions, and obtains authorization to repair the tank car. Following the repairs, the tank car is returned to the carrier for transportation to Québec City. The repair service supplied to the non-resident, along with parts needed to repair the tank car, is zero-rated.
+
+##### Emergency repairs to or storage of empty cargo containers
+
+44. Under section 6.2 of Part V of Schedule VI, a supply made to a non-resident person that is not registered under the regular GST/HST registration provisions of an emergency repair or storage service in respect of an empty cargo container, and of any tangible personal property supplied in conjunction with the repair service, is zero-rated if all of the following requirements are met:
+
+- the cargo container is used in transporting property to or from Canada
+
+- the cargo container is classified under heading No. 98.01 or subheading No. 9823.90 of Schedule I to the Customs Tariff (note that while these provisions of the Customs Tariff were repealed effective January 1, 1998, they are still relevant for purposes of the GST/HST, and that cargo containers of the type classified under those provisions may now generally be classified under subheading No. 9801.10 in the List of Tariff Provisions to the Customs Tariff)
+
+- the container is at least 6.1 metres in length or has an internal capacity of at least 14 cubic metres
+
+Goods packed in a cargo container are imported into Canada. After clearance by the Canada Border Services Agency, the goods are unloaded and the empty container, measuring 6.4 metres in length, is transferred to a cargo container storage depot located in Canada to be stored. The owner of the container is a non-resident person that is not registered under the regular GST/HST registration provisions. The container remains in storage until the container owner directs the depot to turn the container over to a carrier. The container storage service supplied by the depot to the non-resident owner of the container is zero-rated.
+
+45. For more information about the zero-rating of tangible personal property supplied under sections 6, 6.1, and 6.2 of Part V of Schedule VI, refer to [GST/HST Memorandum 4-5-2](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-5-2.html).
+
+#### Refining services
+
+46. Under section 6.3 of Part V of Schedule VI, a supply of a service made to a non-resident person that is not registered under the regular GST/HST registration provisions is zero-rated if it is either of the following:
+
+- a service of refining a metal to produce a precious metal
+
+- an assaying, gem removal or similar service supplied in conjunction with the service of refining
+
+47. **Precious metal**is defined in subsection 123(1) to mean "a bar, ingot, coin or wafer that is composed of gold, silver or platinum and that is refined to a purity level of at least
+
+1. 99.5% in the case of gold and platinum, and
+
+2. 99.9% in the case of silver".
+
+#### Advertising services
+
+48. Under section 8 of Part V of Schedule VI, a supply of an advertising service made to a non-resident person that is not registered under the regular GST/HST registration provisions at the time the service is performed is zero-rated. This supply may also be zero-rated under section 7 of Part V of Schedule VI provided none of the exclusions apply.
+
+49. An **advertising service**is not defined in the ETA but is generally considered by the CRA to be the following:
+
+- a service of creating a message oriented towards soliciting business, attracting donations, or calling public attention in the form of an information notice, a political announcement or other similar communication by any means including oral, written, or graphic statements and representations disseminated by any means, including:
+
+    - in a newspaper or other publication
+
+    - on radio or television
+
+    - in a notice, handbill, sign, catalogue, or letter
+
+    - on a billboard or on real property
+
+    - on a website
+
+- a service directly related to the communication of such a message (such as air time on a broadcasting service, or space in a publication) where either of the following conditions is met:
+
+    - the communication service is supplied as part of the supply of a message as defined above
+
+    - the person providing the communication service can demonstrate that, at the time the supply is made, the service is in relation to the supply of a message as defined above
+
+50. There are occasions where the person broadcasting or communicating a message will not be the same person supplying the message (creating the message). Generally, the person supplying the broadcast or communication service will be in possession of the message or will have received sufficient information as to the content of the message prior to the supply of the service to know that the message is in the nature of advertising. In these situations, the supply of the broadcast or communication service will be considered to be a supply of an advertising service.
+
+#### Advisory, consulting, or research services supplied to a person moving to or establishing a business in Canada
+
+51. Under section 9 of Part V of Schedule VI, a supply of an advisory, consulting, or research service made to a non-resident person is zero-rated where the service is intended to assist the person in either of the following situations:
+
+- taking up residence in Canada
+
+- establishing a business venture in Canada
+
+52. Refer to paragraphs 8 to 10 of this memorandum for an explanation of what the CRA considers to be advisory or consulting services.
+
+53. The service may continue to be zero-rated up to the moment when the non-resident becomes a resident of Canada or establishes the business venture in Canada.
+
+A Canadian law firm advises a non-resident corporation about the various laws and regulations with which the corporation is required to comply in establishing a business venture in Canada, such as opening a branch in Canada where none existed before. This supply of the service is zero-rated under section 9 of Part V of Schedule VI.
+
+The law firm prepares a purchase agreement for real property in Canada to be used for a plant that is being built by the non-resident. This service is not zero-rated under section 9 of Part V of Schedule VI because it is more than advisory or consulting in nature. The service would also not be zero-rated under section 23 of Part V of Schedule VI because it is a service in respect of real property situated in Canada.
+
+54. For more information about the supply of advisory, consulting, and research services intended to assist non-residents in establishing a business venture in Canada, refer to [GST/HST Policy Statement P-173, Meaning of the Phrase "Establishing a Business Venture in Canada"](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-173.html).
+
+#### Services supplied under a non-resident's warranty
+
+55. Under section 13 of Part V of Schedule VI, a supply to a non-resident person that is not registered under the regular GST/HST registration provisions of tangible personal property, or a service performed in respect of tangible personal property or real property, is zero-rated if the property or service is acquired by the non-resident for the purpose of fulfilling an obligation of the non-resident under a warranty.
+
+56. The warranty referred to in section 13 of Part V of Schedule VI must be in writing and may be issued by a non-resident such as a dealer or a manufacturer.
+
+A Canadian subsidiary charges its non-resident parent company, which is not registered under the regular GST/HST registration provisions, for the supply of car repair services that the parent is required to provide under a warranty. The supply of the repair service, including any parts, is zero-rated.
+
+57. For more information about the zero-rating of tangible personal property under section 13 of Part V of Schedule VI, refer to [GST/HST Memorandum 4-5-2](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-5-2.html).
+
+#### Services in respect of continuous transmission commodities
+
+58. Subsection 123(1) defines a **continuous transmission commodity**to mean "electricity, crude oil, natural gas, or any tangible personal property that is transportable by means of a wire, pipeline, or other conduit".
+
+##### Exchanges
+
+59. Continuous transmission commodities situated in Canada are frequently exchanged for similar commodities situated outside Canada. For example, natural gas acquired in Canada on a zero-rated basis by a non-resident person that is not registered under the regular GST/HST registration provisions, and that intends to export the gas, may instead be sold and delivered in Canada, without having been exported, to a registrant in exchange for the registrant's gas of the same class and kind already situated outside Canada. Persons may enter into such exchange agreements to minimize transportation costs and reduce shipping time without changing the zero-rated status of the transaction.
+
+60. Generally, section 15.1 of Part V of Schedule VI ensures that specified cross border exchanges of continuous transmission commodities qualify for zero-rating on a transaction basis rather than on the basis of physical flows.
+
+61. Under paragraph 15.1(b) of Part V of Schedule VI, the supply of a service of arranging for or effecting an exchange of continuous transmission commodities provided by a registrant to a non-resident person that is not registered under the regular GST/HST registration provisions is zero-rated where the registrant is the recipient of a supply of a continuous transmission commodity of the same class or kind made by the non-resident.
+
+62. For more information about the zero-rating supply of a continuous transmission commodity under sections 15, 15.1, and 15.2 of Part V of Schedule VI, refer to [GST/HST Memorandum 4-5-2](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-5-2.html).
+
+##### Storing or taking up natural gas
+
+63. Section 15.3 of Part V of Schedule VI zero-rates "a supply made by a person to a non-resident recipient who is not registered under Subdivision D of Division V of [Part IX] of a service of storing natural gas for a period, or of taking up surplus natural gas of the recipient for a period, and returning the gas to the recipient at the end of the period, if
+
+1. at the end of the period, the gas is to be delivered to the recipient for export;
+
+2. at the end of the period, the recipient holds a valid licence or order for the export of the natural gas issued under the Canadian Energy Regulator Act; and
+
+3. it is not the case that, at or before the latest time at which tax in respect of the supply would have become payable if the supply were not a zero-rated supply, the person knew or could reasonably be expected to have known either that
+
+    1. the recipient would not export the gas as soon after the end of the period as is reasonable having regard to the circumstances surrounding the exportation and, if applicable, to the normal business practice of the recipient, or
+
+    2. the gas would not be exported
+
+          1. in the same measure as was stored or taken up except for any loss due to its use by a carrier as fuel or compressor gas for transporting the gas by pipeline, and
+
+          2. in the same state except to the extent of any processing or alteration reasonably necessary or incidental to its transportation or necessary to recover natural gas liquids or ethane from the gas at a straddle plant."
+
+64. Natural gas acquired in Canada may be stored prior to export for a number of reasons, including transportation constraints and security of supply concerns. Section 15.3 of Part V of Schedule VI zero-rates the service of storing natural gas for a period and returning equivalent gas at the end of the period where the recipient of the supply is a non-resident that is not registered under the regular GST/HST registration provisions.
+
+65. Where title to the natural gas is transferred to a GST/HST registrant to facilitate storage of the gas, or to facilitate taking up the surplus gas until such time as the non-resident can take back the gas, it is a question of fact as to whether the consideration payable to the registrant by the non-resident is in respect of a service or of a supply of gas. Generally, a supply of storage services or of taking up surplus gas is zero-rated as a supply of a service included in section 15.3 of Part V of Schedule VI where the consideration attributable to the transfer of title to the gas is nil or nominal.
+
+66. For section 15.3 of Part V of Schedule VI to apply, it is not necessary that the gas be physically maintained in storage. The critical factor is that the service provider returns to the non-resident at the end of the period natural gas that is equivalent to that which was owned by the non-resident at the beginning of the period. Due to the fungible nature of the commodity, it is not necessarily the same molecules of gas that are returned to the non-resident at the end of the period. The natural gas that is returned must be in the same measure (usually marked in terms of energy content) and state (extent of processing) as was stored or taken up. However, the consumption or use of some of the gas as fuel or compressor gas for its transportation purposes, or processing of the gas at a straddle plant to recover natural gas liquids or ethane from the gas, does not disqualify the supply of the service from being zero-rated.
+
+##### Taking up surplus electricity
+
+67. Section 15.4 of Part V of Schedule VI zero-rates "a supply made by a supplier to a non-resident recipient who is not registered under Subdivision D of Division V of [Part IX] of a service of taking up surplus electricity of the recipient for a period and returning the electricity to the recipient at the end of the period or of deferring delivery of electricity supplied to the recipient at the beginning of a period until the end of the period, if
+
+1. the electricity is exported by the supplier or recipient
+
+    1. in the same measure and state except for any consumption or alteration reasonably necessary or incidental to its transportation, and
+
+    2. as soon after the end of the period as is reasonable having regard to the circumstances surrounding the exportation and, if applicable, to the normal business practice of the exporter; and
+
+2. at the end of the period, the requirement under the Canadian Energy Regulator Act with respect to the holding of a valid licence, order or permit for the export of the electricity issued under that Act is met."
+
+68. In the electricity industry, these transactions are equivalent to storage services since it is not possible to physically store electricity. As such, section 15.4 of Part V of Schedule VI provides similar treatment as that afforded to natural gas under section 15.3 of Part V of Schedule VI.
+
+69. The conditions for zero-rating under section 15.4 of Part V of Schedule VI include the requirement that the electricity that is delivered at the end of the period be in the same measure and state as that which was taken up or supplied at the beginning of the period.
+
+#### Custodial or nominee services
+
+70. Under section 17 of Part V of Schedule VI, a supply made to a non-resident person of a custodial or nominee service in respect of securities or precious metals of the person is zero-rated.
+
+71. The term custodial service is not defined in the ETA. In the investment community, the term custodial service in respect of securities or precious metals generally refers to the service of safekeeping and other administrative responsibilities relating to their custody. The CRA's position is that, where a separate fee or charge is made, **custodial services**in respect of securities and precious metals mean either of the following:
+
+- the service of safekeeping
+
+- the service of safekeeping together with any of the following related activities that normally pertain to the safekeeping of securities and precious metals:
+
+    - the administrative activities involved with the settlement of trades in securities or precious metals
+
+    - the collection or disbursement of income (dividends/interest) for the client
+
+    - account maintenance and reporting of transactions in securities or precious metals
+
+A financial institution provides corporate trust services to a non-resident person, which includes the safekeeping of the non-resident client’s securities and the duties that relate to the custody of the securities. This service also includes maintaining a register of Canadian share/bond holders, printing and disbursing of dividend/interest cheques, and communicating with share/bond holders. The supply of the custodial service is zero-rated.
+
+72. For more information about custodial services in respect of securities, refer to [GST/HST Policy Statement P-189, Meaning of the term "Custodial Service"](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-189.html).
+
+#### Instructing or administering examinations
+
+73. Under section 18 of Part V of Schedule VI, a supply made to a non-resident person, other than an individual, that is not registered under the regular GST/HST registration provisions, of a service of instructing non-resident individuals in, or administering examinations in respect of, courses leading to certificates, diplomas, licences or similar documents, or classes or ratings in respect of licences, that attest to the competence of the individuals to whom the service is rendered or the examination is administered, to practise or perform a trade or vocation is zero-rated.
+
+74. To be zero-rated under section 18 of Part V of Schedule VI, a supply must be made to a non-resident person that is not an individual and that is not registered under the regular GST/HST registration provisions. This may include, but is not limited to, certain non-resident corporations or foreign governments. The supply must consist of a service of instructing non-resident individuals in, or administering examinations in respect of, courses leading to certificates, diplomas, licences, or similar documents, or classes or ratings in respect of licences, that attest to the competence of the individual who received the instruction or took the examination to practise or perform a trade or vocation.
+
+75. The CRA will consider a course to provide individuals with the competence to practise or perform a trade or vocation if the course has a direct link to skills that are recognized by the CRA as relating to an individual's ability to gain or retain employment. Generally, the CRA does not consider as relating to a trade or vocation, courses that are designed for personal interest or that focus on subjects such as sports, games, hobbies, and other recreational or cultural pursuits. It is a question of fact whether a course provides skills that are recognized as relating to the ability to gain or retain employment. In making this determination, the CRA will consider, among other factors, the curriculum and promotional material of the supplier. The intention of the person enrolling in the course is not taken into account in determining whether a course relates to a trade or vocation.
+
+76. Generally, courses for which students are not issued some form of documentation at their conclusion do not satisfy the **certificate, diploma, licence, or similar document**criterion and are therefore not zero-rated under section 18 of Part V of Schedule VI. The CRA accepts, as meeting the documentary requirements, any document that demonstrates that the student has successfully completed a course of study and attests to the competence of the individual to practise or perform a trade or vocation.
+
+77. To qualify under section 18 of Part V of Schedule VI, the course or courses leading to the certificate, diploma, licence, or similar document must have a pass/fail element based on the evaluation of an individual's performance on one or more tests, graded materials, and/or projects. If a course is part of a series of courses making up a program, the individual's performance may be evaluated on the program as a whole. Where, upon completion of a course, documentation is provided that does not attest to the competence of an individual to practise or perform a trade or vocation, but merely states that the individual has taken and passed the course, the course will not qualify for zero-rating under section 18 of Part V of Schedule VI. Further, courses whose successful completion is based solely on the individual's attendance, class participation, or a combination of the two are not considered to attest to the individual's competence to perform a trade or vocation and do not qualify for zero-rating under section 18 of Part V of Schedule VI.
+
+A vocational school supplies flight training to non-resident employees of a non-resident corporation which is registered under the simplified GST/HST registration provisions, but not under the regular GST/HST registration provisions. At the end of the training, an examination is given and successful candidates receive a commercial pilot’s licence. The supply of the flight training to the non-resident corporation is zero-rated.
+
+78. For more information, refer to [GST/HST Memorandum 20-8, Educational Services Made to a Non-resident](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-8.html).
+
+#### Destroying or discarding tangible personal property
+
+79. Under section 19 of Part V of Schedule VI, a supply made to a non-resident person that is not registered under the regular GST/HST registration provisions of a service of destroying or discarding tangible personal property is zero-rated.
+
+#### Dismantling property for export
+
+80. Under section 20 of Part V of Schedule VI, a supply made to a non-resident person that is not registered under the regular GST/HST registration provisions of a service of dismantling property for the purpose of exporting the property is zero-rated.
+
+A non-resident trust that is not registered under the regular GST/HST registration provisions leased plant equipment and machinery to a Canadian firm that went into receivership. To facilitate the repossession of the equipment and machinery, the trust has contracted with another Canadian corporation to dismantle the leased equipment and machinery for export. The supply of the service of dismantling the property by the Canadian corporation to the trust is zero-rated.
+
+#### Testing or inspecting tangible personal property
+
+81. Under section 21 of Part V of Schedule VI, a supply made to a non-resident person that is not registered under the regular GST/HST registration provisions, of a service of testing or inspecting tangible personal property that is imported or acquired in Canada for the sole purpose of having the service performed and that is to be destroyed or discarded in the course of providing the service, or upon completion of the service, is zero-rated.
+
+#### Postal services
+
+82. Under section 22 of Part V of Schedule VI, a supply of a postal service by a GST/HST registrant that carries on the business of supplying postal services, where the supply is made to a non-resident person that is not registered, or required to be registered, under the regular GST/HST registration provisions and that also carries on such a business, is zero-rated.
+
+#### Telecommunication services
+
+83. A supply made by electronic means is generally characterized as either a supply of intangible personal property or a supply of a service. For more information, refer to [GST/HST Technical Information Bulletin B-090, GST/HST and Electronic Commerce](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-090.html).
+
+84. Under section 22.1 of Part V of Schedule VI, a supply of a telecommunication service made by a person that is registered, or required to be registered under the regular GST/HST registration provisions, that carries on the business of supplying telecommunication services to a non-resident person that is not registered, or required to be registered under the regular GST/HST registration provisions, and that also carries on such a business, is zero-rated. However, the supply of a telecommunication service where the telecommunication is emitted and received in Canada is not zero-rated.
+
+85. Under subsection 123(1), **telecommunication service**"means:
+
+1. the service of emitting, transmitting or receiving signs, signals, writing, images or sounds or intelligence of any nature by wire, cable, radio, optical or other electromagnetic system, or by any similar technical system, or
+
+2. making available for such emission, transmission or reception telecommunications facilities of a person that carries on the business of supplying services referred to in paragraph (a)".
+
+86. **Telecommunications facility**is defined in subsection 123(1) to mean "any facility, apparatus or other thing (including any wire, cable, radio, optical or other electromagnetic system, or any similar technical system, or any part thereof) that is used or is capable of being used for telecommunications".
+
+A non-resident is on holiday in Canada. They place a long distance call from Cambridge, Ontario, to New York, United States, and pay for the call with their calling card issued by a non-resident telephone company (NRTelco) that is not registered, or required to be registered, under the regular GST/HST registration provisions. NRTelco is billed by a Canadian telephone company for the portion of the call that uses its transmission towers in Canada. The supply of the telecommunication service made to NRTelco is zero-rated.
+
+#### Advisory, consulting, or professional services
+
+87. Section 23 of Part V of Schedule VI zero-rates a supply of an advisory, consulting, or professional service made to a non-resident person provided the supply is not specifically excluded in paragraphs 23(a) to (d). Paragraphs 8 to 12 of this memorandum outline what is considered an advisory, consulting or professional service. The excluded services are described in the following paragraphs.
+
+##### Exclusions from advisory, consulting, or professional services
+
+###### Litigation service
+
+88. Under paragraph 23(a) of Part V of Schedule VI, a supply of a service rendered to an individual in connection with criminal, civil or administrative litigation in Canada, other than a service rendered before the commencement of such litigation, is excluded from the provision for zero-rating an advisory, consulting, or professional service.
+
+A non-resident individual residing in Chicago, Illinois, wishes to manufacture and sell a new product in Canada that they recently developed. The individual retains the services of a Canadian lawyer in Canada to obtain a Canadian patent for the product. The individual subsequently discovers that someone has copied his product and is supplying it in the Canadian market. Instructions are given to the lawyer to commence legal action against the person violating the patent. All of the services supplied by the lawyer prior to the commencement of legal action are zero-rated.
+
+###### Service in respect of real property or tangible personal property
+
+89. Under paragraphs 23(b) and (c) of Part V of Schedule VI, a supply of a service in respect of real property situated in Canada or in respect of tangible personal property that is situated in Canada at the time the service is performed is excluded from the provision for zero-rating an advisory, consulting, or professional service. Refer to paragraphs 14 to 22 of this memorandum for a discussion of services in respect of real property or tangible personal property.
+
+A non-resident retains a Canadian lawyer to recover payment for a debt incurred by a Canadian resident. The debt arose as a result of the sale of tangible personal property situated in Canada. The debt is recovered as a result of a series of telephone calls and demand letters sent by the lawyer to the debtor. The professional service is zero-rated under section 23 of Part V of Schedule VI since the purpose or object of the service is considered to be related to the debt and not in respect of the tangible personal property.
+
+###### Acting as an agent
+
+90. Under paragraph 23(d) of Part V of Schedule VI, a supply of a service of acting as an agent of the non-resident person or of arranging for, procuring or soliciting orders for supplies by or to the person is excluded from the provision for zero-rating advisory, consulting, or professional services. This supply may be zero-rated under section 5 of Part V of Schedule VI if all the conditions are met. Refer to paragraphs 37 and 38 of this memorandum for further information on the zero-rating under section 5 of Part V of Schedule VI.
+
+#### Exported call centre services
+
+91. Under section 23.1 of Part V of Schedule VI, a supply of a service of rendering technical or customer support to individuals by means of telecommunications (such as telephone, email or web chat) is zero-rated if the supply is made to a non-resident person that is not registered under the regular GST/HST registration provisions, and that is not a consumer of the service.
+
+92. Excluded from zero-rating under this provision is a supply of either of the following services:
+
+- an advisory, consulting or professional service
+
+- a service of acting as an agent of the non-resident person or of arranging for, procuring or soliciting orders for supplies by or to the non-resident person
+
+A non-resident IT company that is registered under the simplified GST/HST registration provisions, and that supplies software applications worldwide, hires a GST/HST registered Canadian corporation that operates a call centre to render technical support services to users of its software. The users of the software are situated worldwide, including Canada. The supply of the technical support services under the agreement is zero-rated.
+
+## Part II – Exported intangible personal property
+
+### General provision for zero-rating
+
+93. Section 10.1 of Part V of Schedule VI is a general zero-rating provision for the exportation of intangible personal property. Under this section, a supply of intangible personal property made to a non-resident person that is not registered under the regular GST/HST registration provisions at the time the supply is made is zero-rated provided the supply is not specifically excluded under paragraphs 10.1(a) to (e) of Part V of Schedule VI.
+
+94. Supplies of intangible personal property that may be eligible for zero-rating include the following:
+
+- subscriptions to websites that provide subscribers with a right to access and use digitized content on the site, such as information in a database or images, and that may also include a right to download a copy of the digitized content
+
+- subscriptions to interactive websites that provide subscribers with a right to access and use digitized content, such as games, music and videos, on the sites while they are online
+
+- digitized information, such as news items or stock market data, that is delivered electronically on a periodic basis to subscribers based on their personal preferences
+
+- digitized products, such as music, images, and books that are downloaded from websites and paid for individually
+
+#### Exclusions from the general provision
+
+##### Individual in Canada
+
+95. Under paragraph 10.1(a) of Part V of Schedule VI, a supply of intangible personal property made to an individual who is in Canada at the time the supply is made is excluded from being zero-rated.
+
+##### Relates to property or a service in Canada
+
+96. Under paragraph 10.1(b) of Part V of Schedule VI, a supply of intangible personal property is excluded from zero-rating if it relates to any of the following:
+
+- real property situated in Canada
+
+- tangible personal property ordinarily situated in Canada
+
+- a service supplied in Canada that is not zero-rated as an export, a transportation service, or a financial service
+
+A Canadian exploration company acquires property and rights in Canada to carry out exploration for minerals. The company sells the right of first refusal to purchase its land and mining equipment to a non-resident company that is not registered under the regular GST/HST registration provisions. The supply of the right of first refusal is not zero-rated under section 10.1 of Part V of Schedule VI as the property to which it relates is situated in Canada.
+
+A non-resident individual purchases a membership in a fitness club while vacationing in Canada. The membership gives the individual access to the services of the club’s instructors while they are in Canada. The individual is not registered under the regular GST/HST registration provisions.
+
+Since the membership relates to services supplied in Canada, the supply of the membership is not zero-rated under section 10.1 of Part V of Schedule VI.
+
+##### Telecommunications facility
+
+97. Under paragraph 10.1(c) of Part V of Schedule VI, a supply of making a telecommunications facility that is intangible personal property available for use in providing a service described in paragraph (a) of the definition of telecommunication service in subsection 123(1) is excluded from being zero-rated. Refer to paragraphs 85 and 86 of this memorandum for the definitions of **telecommunication service**and **telecommunications facility**.
+
+A Canadian telecommunications company supplies bandwidth to a non-resident company that is not registered under the regular GST/HST registration provisions. The non-resident intends to use the bandwidth to communicate with its subsidiaries in Canada. The supply of the bandwidth is not zero-rated under section 10.1 of Part V of Schedule VI.
+
+##### Property for use in Canada
+
+98. Under paragraph 10.1(d) of Part V of Schedule VI, a supply of intangible personal property that may only be used in Canada is excluded from zero-rating.
+
+A restaurant chain supplies franchise rights to a non-resident person that is not registered under the regular GST/HST registration provisions. The franchise rights allow operation of the business solely in Canada. The supply is not zero-rated under section 10.1 of Part V of Schedule VI.
+
+##### Prescribed property
+
+99. Paragraph 10.1(e) of Part V of Schedule VI allows the Minister to exclude supplies that are prescribed by regulation from zero-rating, although no supply is currently prescribed.
+
+100. For more information regarding the zero-rating of exported intangible personal property under section 10.1 of Part V of Schedule VI, refer to [GST/HST Info Sheet GI-034, Exports of Intangible Personal Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-034.html). You may also wish to review [GST/HST Technical Information Bulletin B-090](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-090.html).
+
+### Determining when a supply of intangible personal property is made
+
+101. For GST/HST purposes, a supply is generally deemed to be made when the agreement for the supply is entered into. However, in the case of a supply of intangible personal property made by way of licence for which a payment is attributable to a period during which use of the intangible personal property is provided, such as a monthly subscription to a website, a separate supply of intangible personal property is deemed to be made for each period. Each supply of the property for which a payment is attributable to a period is deemed to be made on the earliest of the following days:
+
+- the first day of the period
+
+- the day on which the payment becomes due
+
+- the day on which the payment is made
+
+### Supplier responsibilities
+
+102. For supplies of intangible personal property to qualify for zero-rating under the general provision for zero-rating, suppliers must verify and maintain satisfactory evidence that the supplies are made to persons that meet the registration, residency, and physical location criteria at the time the supply is made.
+
+#### Verification of registration
+
+103. For purposes of zero-rating supplies of intangible personal property made over the Internet, the CRA will generally accept an online self-declaration by non-resident customers that they are not registered under the regular GST/HST registration provisions.
+
+#### Verification of residency
+
+104. The CRA will generally accept an online self-declaration by non-resident customers that they are not residents of Canada along with their complete home address as proof of residency, provided it is supported by another satisfactory verification method of residency such as either of the following:
+
+- a comparison of the customer's declared home address with the billing address, or where the customer pays for the supplies of intangible personal property by credit card or debit card, a comparison of the customer's declared home address with the location of the financial institution that issued the card
+
+- the use of geo-location software
+
+#### Verification of physical location
+
+105. A supply of intangible personal property made to a non-resident individual will not qualify for zero-rating if the individual is physically present in Canada when the supply is made. For purposes of zero-rating supplies of intangible personal property made over the Internet to non-resident individuals, the CRA will accept the use of geo-location software as a method of verifying that the individual is physically outside Canada when the supply is made.
+
+### Intellectual property
+
+106. Section 10 of Part V of Schedule VI is a zero-rating provision for the exportation of intangible personal property that is intellectual property. Under section 10 of Part V of Schedule VI, a supply of an invention, patent, trade secret, trade-mark, trade-name, copyright, industrial design, or other intellectual property, or any right, licence, or privilege to use any such property made to a non-resident recipient that is not registered under the regular GST/HST registration provisions at the time the supply is made is zero-rated.
+
+A Canadian company sells the international copyrights for a novel to a non-resident company that is registered under the simplified GST/HST registration provisions. The non-resident company pays royalties to the Canadian company. The supply of the rights is zero-rated.
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries**, call **Business Enquiries** at **1‑800‑959‑5525**
+
+- for **GST/HST technical enquiries**, call **GST/HST Rulings** at **1‑800‑959‑8287**
+
+If you are located in**Quebec**, call**Revenu Québec**at **1‑800‑567‑4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for **general GST/HST** or **QST enquiries**, call **Business Enquiries** at **1‑800‑959‑5525**
+
+- for **technical GST/HST** or **QST enquiries**, call **GST/HST Rulings SLFI** at **1‑855‑666‑5166**

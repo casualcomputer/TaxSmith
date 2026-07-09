@@ -1,0 +1,427 @@
+Title: ARCHIVED - Excise and GST/HST News - No. 103
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news103/news103-excise-gst-hst-news-no-103-december-2017.html
+Corpus path: corpus/cra/forms-publications/publications/news103/news103-excise-gst-hst-news-no-103-december-2017.md
+Document type: publication
+Last modified: 2019-04-15
+
+# ARCHIVED - Excise and GST/HST News - No. 103
+
+## Table of contents
+
+- [Proposed excise duty framework for cannabis products](#_Toc498505284)
+
+- [Bill C-63](#_Toc498505285)
+
+- [Changes to non-registrant public service bodies personalized rebate forms](#_Toc498505286)
+
+- [Exemption for services by social workers](#_Toc498505287)
+
+- [Reminder for organizations that have been designated as hospital authorities that subsequently amalgamate, merge or consolidate](#_Toc498505288)
+
+    - [Public service body rebates and changes to your GST/HST accounts](#_Toc498505289)
+
+    - [No automatic transfer of hospital authority status](#_Toc498505290)
+
+    - [More information and mailing address](#_Toc499216345)
+
+- [Distinguishing between a joint venture and a partnership](#_Toc498505291)
+
+    - [Determining whether there is a joint venture or a partnership](#_Toc498505292)
+
+    - [Guidelines](#_Toc498505293)
+
+    - [Election](#_Toc498505294)
+
+    - [Further information](#_Toc498505295)
+
+- [Prescribed rates of interest](#_Toc498505296)
+
+- [What’s new in publications](#_Toc498505297)
+
+- [Contact us](#_Toc498505298)
+
+## Proposed excise duty framework for cannabis products
+
+On November 10, 2017, the Department of Finance announced Consultation on the Proposed Excise Duty Framework for Cannabis Products including proposed amendments to the Excise Act, 2001, the Excise Tax Act and to related regulations. The proposed duty would apply to all cannabis products available for legal sale, including fresh and dried cannabis, cannabis oils, and seeds and seedlings for home cultivation.
+
+Interested individuals or organizations are invited to review the consultation document, the draft legislative and regulatory proposals, and the related explanatory notes at the link above.
+
+## Bill C-63
+
+On December 14, 2017, Bill C-63, referred to as the Budget Implementation Act, 2017, No. 2, received Royal Assent.
+
+The Budget Implementation Act, 2017, No. 2, (Statutes of Canada: 2017, c. 33) contains amendments to the Excise Tax Act and the Excise Act announced in the federal budget which was tabled in Parliament on March 22, 2017. Also included are new and previously released proposals relating to the GST/HST and excise duty announced by the Department of Finance on September 8, 2017.
+
+Amendments include:
+
+- Revising the timing requirements for GST/HST rebate applications by public service bodies to provide them with improved flexibility and administrative simplicity.
+
+- Revising the federal excise framework to ensure that beer made from concentrate is taxed in a manner that is consistent with other beer products.
+
+- Revising the GST/HST rules for pension plans to ensure that they apply fairly and effectively to pension plans that use master trusts (or master corporations). Under these amendments, an election may be made to designate a pension entity for each pension plan in a master trust arrangement that has more than one pension entity to be the designated pension entity of the plan in respect of the master trust. A designated pension entity of a pension plan may claim a rebate in respect of tax actually paid by the master trust. The election may be made using [Form RC4618, Election or Revocation of an Election for GST/HST Purposes to Designate a Pension Entity in Respect of a Master Pension Entity](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4618.html), or [Form RC7218, Elections or Revocation of Elections for GST/HST and/or QST Purposes to Designate a Pension Entity that is a Selected Listed Financial Institution in Respect of a Master Pension Entity](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7218.html). Based on the September 8, 2017 announcement, there is no filing requirement for this election. The above forms are currently under revision to reflect this change.
+
+- Improving the clarity and effectiveness of the GST/HST rules for certain pension plans and financial institutions by introducing clarifications and technical improvements to those rules.
+
+- Extending the application of the GST/HST rules for selected listed financial institutions to include trusts governed by a group registered education savings plan.
+
+- Revising, modernizing, and introducing technical improvements to the GST/HST drop shipment rules to enhance the effectiveness of these rules.
+
+- Clarifying the application of the GST/HST to supplies of municipal transit services to accommodate the modern ways in which those services are provided and paid for. These amendments were discussed in detail in [Excise and GST/HST News No. 100](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news100/news100-excise-gst-hst-news-no-100.html).
+
+## Changes to non-registrant public service bodies personalized rebate forms
+
+As part of the continued efforts to promote electronic services and further reduce paper waste and postage costs, the CRA will no longer print and send personalized paper rebate application, Form GST284, Application for GST/HST Public Service Bodies' Rebate and GST Self-Government Refund to non-registrant public service bodies (PSBs).
+
+A PSB rebate may be filed electronically using the [PSB rebate web form](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/gst-hst-netfile/file-public-service-body-rebate-forms-electronically.html). For information on how to file electronically or to obtain a non-personalized paper versions of these forms, go to the [GST/HST public service bodies’ rebates](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates/public-service-bodies.html) webpage at [Canada.ca/gst-hst-rebate-psb](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates/public-service-bodies.html).
+
+## Exemption for services by social workers
+
+In accordance with section 7.2 of Part II of Schedule V to the Excise Tax Act, a supply of a service rendered in the practice of the profession of social work is exempt from GST/HST where:
+
+- the service is rendered to an individual within a professional-client relationship between the social worker and the individual; and
+
+- the service is provided for the prevention, assessment or remediation of a physical, emotional, behavioural, or mental disorder or disability of that individual or to assist that individual in coping with such a disorder or disability.
+
+The exemption applies not only to services rendered to the individual who is afflicted with a physical, emotional, behavioural or mental disorder or disability, but also to any other individual who is related to or a caregiver of, the individual afflicted with the disorder or disability. The exemption does not, however, apply to services rendered by a social worker to an individual who provides care or supervision to the individual with a disorder or disability in a professional capacity, such as another social worker, a teacher or a personal care aide.
+
+For the exemption to apply, section 7.2 also requires that if a supply is made in a province which requires a person to be licensed or otherwise certified to practise the profession of social work, the person rendering the services must be so licensed or certified. Alternatively, if the supply is made in a province where the person rendering the services is not required to be licensed or otherwise certified to practise the profession of social work, the person must have qualifications equivalent to those required for licensing or certification in another province where such a requirement exists.
+
+In addition, even if a supply meets the requirements of section 7.2 of Part II of Schedule V, it is necessary to determine if the supply is excluded from the exemption by section 1.1 of Part II of Schedule V because the supply is a cosmetic service supply or by section 1.2 of Part II of Schedule V because the supply is not a qualifying health care supply.
+
+Section 1.1 provides that for purposes of Part II of Schedule V, other than section 9, a supply that is a cosmetic service supply or a supply in respect of a cosmetic service supply, that is not made for medical or reconstructive purposes, is deemed not to be included in Part II of Schedule V. The expression **cosmetic service supply** is defined in section 1 of Part II of Schedule V to mean “a supply of property or a service that is made for cosmetic purposes and not for medical or reconstructive purposes”.
+
+Section 1.2 provides that for the purposes of Part II of Schedule V, other than sections 9 and 11 to 14, a supply that is not a qualifying health care supply is deemed not to be included in Part II of Schedule V. The term **qualifying health care supply** is defined in section 1 of Part II of Schedule V to mean: “a supply of property or a service that is made for the purpose of
+
+1. maintaining health,
+
+2. preventing disease,
+
+3. treating, relieving or remediating an injury, illness, disorder or disability,
+
+4. assisting (other than financially) an individual in coping with an injury, illness, disorder or disability, or
+
+5. providing palliative health care.”
+
+Generally, supplies deemed not to be included in Part II of Schedule V would be subject to GST/HST at the applicable rate (5%, 13% or 15% depending upon the province in which the supply is made), unless an exemption in another Part of Schedule V applies.
+
+### Example 1
+
+A registered social worker who is in good standing with their provincial regulatory body has been hired by an insurer to provide counselling services to an individual who has been injured in an accident (workplace or motor vehicle accident) to provide assistance with coping with the injury so the individual can return to work.
+
+The social worker’s supply of counselling services to the insurer is exempt pursuant to section 7.2 of Part II of Schedule V. The supply is rendered to an individual by a registered social worker within a professional-client relationship and the supply is for remediation of a physical, emotional, behavioural or mental disorder or disability of the individual. The supply is not excluded from the exempting provision by sections 1.1 and 1.2 of Part II of Schedule V as the supply is not a cosmetic service supply and the supply is a qualifying health care supply made for the purpose of assisting an individual in coping with a disorder or disability.
+
+### Example 2
+
+A registered social worker who is in good standing with their provincial regulatory body is hired by a hospice to give a presentation to its personal support workers on providing assistance to palliative care patients in coping with their illnesses.
+
+The supply made by the social worker is excluded from the exemption in section 7.2 of Part II of Schedule V. The personal support workers provide care to others as part of their profession and the exemption in section 7.2 excludes supplies rendered to individuals who render care to others in a professional capacity.
+
+## Reminder for organizations that have been designated as hospital authorities that subsequently amalgamate, merge or consolidate
+
+### Public service body rebates and changes to your GST/HST accounts
+
+The Canadian health care system has undergone numerous hospital amalgamations and provincial restructurings and reorganizations. In order to ensure the continued payment of their public service body rebates, organizations that have been designated to be hospital authorities for GST/HST purposes must notify the CRA’s Excise and GST/HST Rulings Directorate by mail when there are changes to their organizational structure. Failure to do so could result in delayed rebate payments and in some cases, reassessments of rebates.
+
+These types of organizations include hospitals, health authorities and health boards that have been designated to be hospital authorities because they operate public hospitals.
+
+Organizational changes that involve the creation of a new organization, such as an amalgamation, merger or consolidation of two or more organizations, or an unincorporated organization becoming incorporated, have consequences for various CRA accounts. In such cases, the newly formed organization is generally treated for GST/HST purposes as a separate person from any of the former organizations, subject to certain exceptions.
+
+### No automatic transfer of hospital authority status
+
+Regardless of whether the hospital authority designation granted to a former organization is officially revoked, this status will no longer be effective as of the date the former organization ceases to exist. Therefore, a new organization must apply for a hospital authority designation in order to claim public service body rebates at the rebate rates available to hospital authorities.
+
+Furthermore, the GST/HST exemptions for certain supplies made by public institutions (which, in this context, would mean a charity that is also a hospital authority) will generally not apply to the new organization unless it has been designated as a hospital authority. It is also important to note that in cases where the new organization has been permitted to continue using the business number of one of the former organizations, the designation as a hospital authority does not transfer to the new organization.
+
+### More information and mailing address
+
+For more information on requesting designation as a hospital authority, see [GST/HST Memorandum 25-2, Designation of Hospital Authorities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/25-2.html).
+
+To inform the CRA of changes to your organization’s structure or to request designation as a hospital authority for a new organization, mail your information and/or request, with supporting documents, to:
+
+Director Public Service Bodies and Governments Division Excise and GST/HST Rulings Directorate Canada Revenue Agency 5th Floor, Tower A, Place de Ville 320 Queen Street Ottawa ON K1A 0L5
+
+For more information, please call GST/HST Rulings at 1-800-959-8287, or write to your local GST/HST rulings centre. A list of addresses for these centres can be found in Pamphlet RC4405, GST/HST Rulings - Experts in GST/HST Legislation.
+
+If you are in the province of Quebec, send your information and request for designation as a hospital authority to Revenu Québec at:
+
+Directeur des Taxes à la consommation Direction générale de la législation Revenu Québec 3800, rue de Marly, secteur 5-2-2 Québec QC G1X 4A5
+
+For more information, please call Revenu Québec at 1-800-567-4692.
+
+## Distinguishing between a joint venture and a partnership
+
+Only persons may register for the GST/HST under the Excise Tax Act (the Act).
+
+The Act’s definition of a **person** includes a partnership, but not a joint venture. For this reason, it is important to determine whether an arrangement is a joint venture or a partnership.
+
+Generally, and provided all of the other conditions for GST/HST registration have been met,
+
+- a partnership may register for the GST/HST in respect of partnership activities ([GST/HST Policy Statement P-216, Registration of a Partner](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-216.html), provides information concerning the eligibility of partners other than individuals, whose only commercial activities are those of the partnership to register for the GST/HST in respect of partnership activities); and
+
+- the participants in a joint venture may register for the GST/HST in respect of joint venture activities, but the joint venture itself may not register.
+
+### Determining whether there is a joint venture or a partnership
+
+As set out in [GST/HST Policy Statement P-171R, Distinguishing Between a Joint Venture and a Partnership for the Purposes of the Section 273 Joint Venture Election](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-171r.html), to determine whether a particular relationship is a joint venture or a partnership, the circumstances of the relationship should be reviewed in detail to ascertain whether it is either:
+
+- an arrangement in which two or more persons work together in a limited and defined business undertaking, which does not constitute a partnership, a trust or a corporation, the expenses and revenues of which will be distributed in mutually agreed portions (that is, the CRA's administrative definition of **joint venture**); or
+
+- a relationship that subsists between persons carrying on business in common with a view to a profit (that is, the CRA's administrative definition of **partnership**).
+
+The relevant provincial Partnership Act or the Civil Code of Québec may not, in itself, resolve the question of whether the arrangement is a joint venture or a partnership. In such cases, the relevant legislation should be applied together with the guidelines set out in P-171R.
+
+### Guidelines
+
+The guidelines set out in P-171R may be used to help determine the existence of either a joint venture or a partnership arrangement. However, they are not individually decisive and have no legal force. Also, they should be applied and weighed on a case-by-case basis having regard to the substance of the relationship.
+
+The guidelines relate to the following factors:
+
+- Are there two or more parties?
+
+- What is the intention of the parties?
+
+- Is the arrangement limited to a single undertaking or ad hoc undertaking?
+
+- Is there a right of mutual control or management?
+
+- What is the contribution by each participant?
+
+- Is there joint ownership in the subject matter of the arrangement?
+
+- Is there freedom to dispose of interests in the property?
+
+- Is there the expectation of benefits or the presence of an “adventure”?
+
+- Is there a right to participate in the benefits?
+
+- Is there a limitation of liabilities?
+
+- What is the income tax treatment?
+
+- What is the format of the agreement?
+
+The joint venture relationship is not recognized in Quebec civil law. Nevertheless, Quebec civil law does not prohibit the formation of a joint venture. Therefore, where an arrangement in Quebec is, according to the common law guidelines outlined above a joint venture and not a partnership, it will generally be regarded as a joint venture for GST/HST purposes.
+
+### Election
+
+The participants of a qualifying joint venture can jointly elect to designate one of them as the operator of the joint venture, in which case the operator is responsible for accounting for GST/HST on behalf of the participants with respect to their purchases and sales made in the course of the activities of the joint venture.
+
+This election is made using [Form GST21, Election or Revocation of an Election to Have the Joint Venture Operator Account for GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst21.html). This form must be completed by the operator for each co-venturer that wishes to jointly elect.
+
+A **participant** of a joint venture, for purposes of that election, means:
+
+1. a person who, under a joint venture agreement evidenced in writing, makes an investment by contributing resources and takes a proportionate share of any revenue or incurs a proportionate share of the losses from the joint venture activities; or
+
+2. a person, without a financial interest, who is designated as the operator of the joint venture under an agreement in writing and is responsible for the managerial or operational control of the joint venture.
+
+Also, to make the election in respect of a joint venture, the joint venture must be for the exploration or exploitation of mineral deposits or for a prescribed activity.
+
+### Further information
+
+A detailed discussion of the guidelines and how they may apply, and how to distinguish between a joint venture and a partnership, is provided in [GST/HST Policy Statement P-171R, Distinguishing Between a Joint Venture and a Partnership for the Purposes of the Section 273 Joint Venture Election](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-171r.html). In cases where participants in a joint venture have made use of the election in subsection 273(1), please also refer to [GST/HST Policy Statements P-106, Administrative Definition of a "Participant" in a Joint Venture](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-106.html), [P-138R, The Effect of Making a Joint Venture Election on a Participant's Eligibility to Register and Claim Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-138r.html), and [P-139R, Tax Liability and Input Tax Credit Entitlement of a Non-Electing Joint Venture Participant](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-139r.html). Please call GST/HST Rulings at 1-800-959-8287 to ascertain whether a relationship is a joint venture or a partnership for GST/HST purposes, whether a person is a joint venture participant for GST/HST purposes, or whether the activity of the joint venture permits the parties to make the election.
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from October 1, 2017 to December 31, 2017, and from October 1, 2017 to December 31, 2017, on overdue amounts payable to the Minister is 5%. The prescribed annual rate of interest on amounts owed by the Minister (that is, rebates or refunds) is 1% for corporate taxpayers and 3% for non-corporate taxpayers. These rates are applicable to income tax, excise tax, the softwood lumber products export charge, GST/HST, the air travellers security charge (ATSC) and excise duty on wine, spirits and tobacco.
+
+The prescribed annual rate of interest respecting excise duty on beer, on overdue amounts payable for the indicated period, is set at 3%. Refund interest rates are not applicable for amounts owed by the Minister (that is, rebates or refunds) for excise duty that is in relation to beer.
+
+| - | GST/HST, Excise Tax, Softwood Lumber Products Export Charge, Excise Duty (wine, spirits, tobacco), ATSC, Income Tax | Excise Duty (beer) |  |  |
+
+| --- | --- | --- | --- | --- |
+
+| Period | Refund Interest Corporate Taxpayers | Refund Interest Non-Corporate Taxpayers | Arrears and Instalment Interest | Arrears Interest |
+
+| October 1 to December 31, 2017 | 1% | 3% | 5% | 3% |
+
+| July 1 to September 30, 2017 | 1% | 3% | 5% | 3% |
+
+| April 1 to June 30, 2017 | 1% | 3% | 5% | 3% |
+
+| January 1 to March 31, 2017 | 1% | 3% | 5% | 3% |
+
+Prescribed interest rates for previous years are available on the [Prescribed interest rates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html) webpage.
+
+## What’s new in publications
+
+The following is a list of new or revised excise and GST/HST forms and publications.
+
+**GST/HST forms**
+
+- [GST26, Election or Revocation of an Election by a Public Service Body to Have an Exempt Supply of Real Property Treated as a Taxable Supply](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst26.html)
+
+- [GST74, Election and Revocation of an Election to Use the Quick Method of Accounting](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst74.html)
+
+- GST115, GST/HST Rebate Application for Tour Packages
+
+- [GST190, GST/HST New Housing Rebate Application for Houses Purchased from a Builder](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst190.html)
+
+- [GST386, Rebate Application for Conventions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst386.html)
+
+- [GST488, Election or Revocation of an Election Not to Use the Net Tax Calculation for Charities](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst488.html)
+
+- RC59, Business Consent for Access by Telephone and Mail
+
+- [RC79, Deposit Advice](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc79.html)
+
+- [RC151, GST/HST Credit Application for Individuals Who Become Residents of Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc151.html)
+
+- [RC325, Address change request](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc325.html)
+
+- RC366, Direct Deposit Request for Businesses
+
+- [RC4521, Application for a Financial Institution of a Prescribed Class to be Designated as a Qualifying Institution or Revocation of a Previously Granted Designation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4521.html)
+
+- [RC4600, Election or Revocation of an Election Under Subsection 217.2(1)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4600.html)
+
+- [RC4607, GST/HST Pension Entity Rebate Application and Election](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4607.html)
+
+- [RC4618, Election or Revocation of an Election for GST/HST Purposes to have a Pension Entity be the Designated Pension Entity in Respect of a Master Pension Entity](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4618.html)
+
+- RC7003-ON, Ontario Retail Sales Tax (RST) Transitional New Housing Rebate for Non-registrant First Resellers
+
+- RC7004-BC, British Columbia Transition Rebate
+
+- RC7190-NS, GST190 Nova Scotia Rebate Schedule
+
+- [RC7191-ON, GST191 Ontario Rebate Schedule](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7191-on.html)
+
+- [RC7207, GST/HST Rebate Application and Election for GST/HST and QST Purposes for Pension Entities that are Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7207.html)
+
+- [RC7207-1, QST Rebate Application and Election for Pension Entities that are Selected Listed Financial Institutions for GST/HST Purposes Only](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7207-1.html)
+
+- [RC7216, Application, Renewal, or Revocation of the Authorization for a Qualifying Institution that is an SLFI to Use Particular Input Tax Credit Allocation Methods](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7216.html)
+
+- [RC7218, Elections or Revocation of Elections for GST/HST and QST Purposes to have a Pension Entity be the Designated Pension Entity in Respect of a Master Pension Entity](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7218.html)
+
+- [RC7221, Application for a Selected Listed Financial Institution of a Prescribed Class to be Designated as a Qualifying Institution or Revocation of a Previously Granted Designation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7221.html)
+
+- [RC7222, Election or Revocation for a Qualifying Institution that is a Selected Listed Financial Institution to Use Particular Methods Specified in an Application Under Subsection 141.02(18) of the ETA for GST/HST and QST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7222.html)
+
+- [RC7244, Elections Concerning the Acquisition of a Business or Part of a Business by a Recipient that is a Selected Listed Financial Institution for QST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7244.html)
+
+- [RC7288, Selected Listed Financial Institution - Request for Taxpayer Relief - Cancel or Waive Penalties or Interest Related to the GST/HST or the QST, or Charges Related to the QST](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7288.html)
+
+- [RC7524-ON, GST524 Ontario Rebate Schedule](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7524-on.html)
+
+**GST/HST guides**
+
+- RC4070, Information for Canadian Small Businesses
+
+**GST/HST info sheets**
+
+- [GI-121, Determining Whether a Public Service Body is Resident in a Province for Purposes of the Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-121.html)
+
+**GST/HST memoranda**
+
+- [1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html) (revised)
+
+- [16-5, Voluntary Disclosures Program](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/16-5.html)
+
+- [28-2, Freight Transportation Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/28-2.html) (revised)
+
+**Excise duty forms**
+
+- [B200, Excise Tax Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b200.html)
+
+- [B241, Excise Tax Return - Broker](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b241.html)
+
+- [B243, Excise Tax Return - Insured](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b243.html)
+
+- [B248, Registration Form Under the Provisions of the Air Travellers Security Charge Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b248.html)
+
+- [B254, Air Travellers Security Charge Act Application for Refund](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b254.html)
+
+- [B249, Air Travellers Security Charge Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b249.html)
+
+- [B264, Excise Duty Return - Special Excise Warehouse Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b264.html)
+
+- [B265, Excise Duty Return - Wine Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b265.html)
+
+- [B266, Excise Duty Return - Spirits Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b266.html)
+
+- [B267, Excise Duty Return - Tobacco Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b267.html)
+
+- [B269, Application or Revocation of the Authorization to File Separate Excise Duty Returns and Refund Applications for Branches or Divisions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b269.html)
+
+- [B270, Excise Act 2001 - Excise Duty Return - Non-Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b270.html)
+
+- [B271, Excise Duty Return - Tobacco Dealer](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b271.html)
+
+- [B273, Excise Return - Cigarette Inventory Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b273.html)
+
+- [RC616, Registration for the Tobacco Stamping Regime](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc616.html)
+
+**Excise duty notices**
+
+- EDBN23, K50B Filing and Payment Schedules for Brewers (from July 2017 to December 2019) EDN26, New Excise Stamp Security Features EDN32, Federal Excise Stamp Mandatory on Tobacco Products as of July 1, 2012 (revised)
+
+**Excise duty memoranda**
+
+- EDM1-1-2, Regional Excise Duty Offices (revised Quebec telephone number)
+
+All GST/HST, excise duty and excise taxes and special levies publications can be found under the Taxes menu of the Canada.ca website. Go to the [Technical information – GST/HST](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html), [Excise taxes and other levies](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies.html) and [Excise duty](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty.html) webpages.
+
+To receive email notification as soon as a document is published, go to [electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) under the Taxes menu of the Canada.ca website and subscribe to the RSS feed for all new CRA publications and forms, or subscribe to any number of mailing lists for different types of publications.
+
+## Contact us
+
+### More information
+
+**Forms and publications**
+
+- All **GST/HST technical publications** and **GST/HST related forms** are available under the Taxes menu on the Canada.ca website. Go to [GST/HST related forms and publications](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/forms-publications.html).
+
+- To access **all other**forms and publications under the Taxes menu on the Canada.ca website go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+- To order forms and publications**by telephone**, call 1-800-959-5525.
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries,**call Business Enquiries at 1-800-959-5525;
+
+- for **GST/HST technical enquiries,**call GST/HST Rulings at 1-800-959-8287.
+
+If you are located in**Quebec**, call**Revenu Québec**at **1-800-567-4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST - Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or
+
+- for**general GST/HST**or**QST enquiries**, call**Business Enquiries**at**1-800-959-5525;**
+
+- for**technical GST/HST**or**QST enquiries**, call**GST/HST Rulings SLFI**at**1-855-666-5166.**
+
+**Account enquiries**
+
+For**general information** and to make **enquiries**regarding your **account** (except for softwood lumber products export charge accounts), you can:
+
+- view answers to common enquiries, or submit an enquiry using the online Enquiries service on [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html);
+
+- view account information online at [E-services for Businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html); or
+
+- call Business Enquiries at 1-800-959-5525.
+
+For **online access**to your **GST/HST**,**air travellers security charge**, **excise tax**and **duty accounts** (such as viewing up-to-date account balances and transactions, transferring payments and more), go to:
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html) if you are an authorized representative or employee; or
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) if you are the business owner.
+
+For **enquiries**regarding your **softwood lumber products export charge account**, you can call 1-866-330-3304.
+
+For **enquiries**regarding the**status of specific GST/HST domestic rebate claims,** call Business Enquiries at 1-800-959-5525.
+
+### Help
+
+For **technical support using our online services**:
+
+- business accounts, call 1-800-­959-­5525
+
+- teletypewriter users, call 1-800-665-0354
+
+- calls outside of Canada and the United States, call collect at 1-613-940-8497
+
+Please have the screen number (bottom right) and, if applicable, the error number and message received on hand when calling.
+
+The Excise and GST/HST News is published quarterly and highlights recent developments in the administration of the GST/HST, First Nations goods and services tax (FNGST) and First Nations tax (FNT), softwood lumber products export charge, air travellers security charge (ATSC) as well as excise taxes and duties. If you would like to receive a link to each new edition of the Excise and GST/HST News as it is published, subscribe to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, Excise and GST/HST News, Legislative Policy and Regulatory Affairs Branch, CRA, Ottawa, ON K1A 0L5.

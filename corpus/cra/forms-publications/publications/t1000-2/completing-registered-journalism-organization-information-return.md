@@ -1,0 +1,506 @@
+---
+title: "Completing Form T1000-1, Registered Journalism Organization Information Return"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t1000-2/completing-registered-journalism-organization-information-return.html
+last_modified: 2021-12-09
+---
+# Completing Form T1000-1, Registered Journalism Organization Information Return
+
+T1000-2 (E) Rev 21
+
+If you are blind or partially sighted, you can get our publications in braille, large print, etext, or MP3 by going to [canada.ca/cra-multiple-formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html). You can also get our publications and your personalized correspondence in these formats by calling 1-800-959-5525.
+
+## Is this guide for you?
+
+This guide is for registered journalism organizations (RJO). RJOs are registered as qualified donees by the Canada Revenue Agency (CRA) under the Income Tax Act and are eligible to issue official donation receipts.
+
+This guide will help you fill out Form T1000-1, Registered Journalism Organization Information Return.
+
+All legislative references are to the Income Tax Act and the Income Tax Regulations of Canada, unless stated otherwise. This guide does not replace the Income Tax Act or its regulations.
+
+To find Form T1000-1 and other forms and publications, go to [canada.ca/cra-forms-publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html). You can also call Client Service at 1-800-267-2384.
+
+## Copying our information
+
+You can copy the information in this publication for personal or public non-commercial purposes without charge. We ask you to:
+
+- copy the information accurately
+
+- give the title of this publication and name the CRA as the author
+
+- state that your material is a copy of an official work published by the Government of Canada and that your copy has not been endorsed by or produced in affiliation with the Government of Canada
+
+- not commercially reproduce and distribute the information in this guide without written permission from the CRA’s copyright administrator. For more information, contact [pacrownco_g@cra.gc.ca](mailto:pacrownco_g@cra.gc.ca).
+
+## What’s new
+
+### Electronic mailing list
+
+Stay notified when important new information is added to the charities and giving web pages (for example, a new guidance product or video) by going to [canada.ca/cra-email-lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribing to the "Charities and giving – What’s new" mailing list. Your email address will stay confidential, and we will not disclose or use it for any purpose other than to deliver the CRA information you request.
+
+### Version of return
+
+There is only one version of the T1000-1, Registered Journalism Organization Information Return, for each calendar year.
+
+## Before you start
+
+### What is a complete information return?
+
+To be considered complete, your information return must include the following with the relevant fields filled in:
+
+- Form T1000-1, Registered Journalism Organization Information Return
+
+    - if it applies, Schedule 1 – Compensation
+
+- a copy of your RJO’s financial statements, including notes to the financial statements. If your RJO has income over $250,000, we recommend you get the financial statements professionally audited; otherwise, your RJO’s treasurer should sign them
+
+- Form T1000-3, Directors/Trustees Worksheet, with all the required information
+
+### When do you have to file your information return?
+
+Under the Income Tax Act, an RJO must file an information return each year (Form T1000-1). You must file your return **no later than six months after the end of your RJO’s fiscal period**. For example, if your RJO’s fiscal period end is March 31, the return is due by September 30.
+
+**In addition to** filing the T1000-1, you may have other filing requirements under the Income Tax Act. For example, if your RJO is a corporation, you may have to file a T2 Corporation Income Tax Return. If your RJO is a trust, you may have to file a T3 Trust Income Tax and Information Return. For more information about filing requirements for corporations or trusts, visit **Canada.ca** or call Business Enquiries at 1-800-959-5525.
+
+An RJO can also be subject to other federal, provincial, or territorial filing requirements under its incorporating statute or other statutes that govern its operations. For more information on federal incorporation, visit the [Corporations Canada](http://corporationscanada.ic.gc.ca/eic/site/cd-dgc.nsf/Intro) website. For more information on provincial or territorial incorporation, go to [Other government resources for donors](https://www.canada.ca/en/revenue-agency/services/charities-giving/giving-charity-information-donors/other-government-resources-donors.html).
+
+RJOs in the province of Quebec may also have to file a provincial annual return. For more information about the province’s filing requirements, call Revenu Québec at 1-800-567-4692 or visit the [Revenu Québec](https://www.revenuquebec.ca/en) website.
+
+### Where do you file the information return?
+
+You or an authorized representative can file your RJO’s return by mail or by fax to:
+
+Charities Directorate Canada Revenue Agency Ottawa ON K1A 0L5 Fax: 613-957-8925
+
+**Do not attach** correspondence or copies of governing documents to the return. Submit them separately to the fax number or mailing address shown above. Make sure to include your RJO’s name and business number (BN) on the correspondence you submit to the CRA.
+
+### What happens if you do not file your information return?
+
+If you do not file your completed information return, your RJO’s registration as a qualified donee may be revoked. If this happens, your RJO will **no longer be:**
+
+- exempt from income tax under Part 1 of the Income Tax Act, unless another exemption applies
+
+- able to issue official donation receipts
+
+- eligible to receive gifts from registered charities
+
+For more information, go to [Compliance for registered journalism organizations](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/compliance-audits-and-sanctions/compliance-other-qualified-donees/compliance-registered-journalism-organizations.html).
+
+### What information is public and what is confidential?
+
+Form T1000-1 is both an information return and a public information return.
+
+The information in most sections of Form T1000-1 is available to the public. This includes sections A through D4, section E, the financial statements filed with the return, and most of the information on the Directors/Trustees Worksheet. To request public information filed by an RJO, go to [Request publicly available data from the List of charities (Charities Listings)](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/guidance-videos-forms/request-charities-listings.html). You can also call Client Service at 1-800-267-2384.
+
+Confidential information is marked as such on the return and includes information you entered in the following areas:
+
+- Section D5 of Form T1000-1
+
+- Section F of Form T1000-1
+
+- the right-hand side of Form T1000-3, Directors/Trustees Worksheet for Registered Journalism Organizations
+
+- Schedule 1 – Compensation
+
+According to the Income Tax Act, we may disclose confidential information that is relevant to:
+
+- criminal proceedings under an Act of Parliament
+
+- any legal proceedings relating to administering or enforcing:
+
+    - the Income Tax Act, the Canada Pension Plan, the Unemployment Insurance Act, or the Employment Insurance Act
+
+    - any other act of Parliament or law of a province that allows for the imposition or collection of a tax or duty
+
+We may also disclose confidential information if authorized by any other provision in the Income Tax Act that includes an exception to the general prohibition that taxpayer information is confidential and may not be disclosed.
+
+### Notes on filling out the information return
+
+- Answer all questions on Form T1000-1 **that apply to your RJO**, including all yes or no questions. If a question does not apply, leave it blank.
+
+- Report all amounts to the nearest Canadian dollar in the proper spaces. Do not show cents (for example, report $123,754, **not** $123,754.53). Do not enter more than one amount in a space.
+
+- Submit all the completed forms along with the applicable attachments. Keep a copy for your records.
+
+- Some sections of Form T1000-1 contain **tables** you may need to fill out. If you need more space in these tables for the information requested, attach a separate sheet with the information. The sheet must contain the same information in the same format as the table. Make sure to include your RJO’s name and BN.
+
+- We recognize that you may have to understand some complex provisions to complete your information return. We recommend that, if necessary, you get advice from legal or accounting experts.
+
+- For more information about key terms on the return and in this guide, go to [Charities and giving glossary](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/charities-giving-glossary.html).
+
+## Completing Form T1000-1, Registered Journalism Organization Information Return
+
+### Section A – Identification
+
+Enter the identification information as instructed on the return. Include your BN/registration number and qualified Canadian journalism organization (QCJO) designation number in the proper fields. The legal name is your RJO’s name as stated in its governing documents.
+
+**A1** – If the organization is no longer operating, for example, it has wound up, dissolved, or terminated operations, select **yes** and provide details. You must also send us a letter separate from the return to request voluntary revocation.
+
+If your RJO is no longer operating because it merged, amalgamated, or consolidated with another organization, call Client Service at 1-800-267-2384.
+
+### Section B – Directors/trustees
+
+**B1** – You must fill out all the required fields in Form T1000-3, Directors/Trustees Worksheet for Registered Journalism Organizations.
+
+If you prefer, instead of using Form T1000-3, you can fill out a separate sheet with the same information in the same format as Form T1000-3. A director, trustee, like official, or authorized representative of the RJO must sign the sheet, and you must attach the sheet to the return.
+
+### Section C – Programs and general information
+
+**C1** – If the RJO was active during the fiscal period, select **yes**.
+
+If your RJO was not active, select **no**. This means that during the **entire** fiscal period, the RJO did not use any of its resources to carry out its programs. Even if your RJO was inactive, you must still file a return to maintain its registered status. Explain why it was not active in the “Description of activities” space at C2.
+
+**C2** – Include any ongoing and new program activities your RJO carried out. New program activities are those that your RJO began in the current fiscal period.
+
+This includes all the program activities the RJO carries out on its own through employees or volunteers as well as through intermediaries. You must include enough detail for a reader to understand what your RJO does. Do not repeat your RJO’s purposes. For example, saying “we promote journalism” is not enough.
+
+If your RJO is considering new program activities the CRA did not previously review, you can contact us before starting them to make sure that the proposed activities are related to journalism and fall within the RJO’s approved purposes.
+
+You can also use this space to give details about the contributions of volunteers in carrying out your RJO’s activities, including the number of volunteers and their hours. Since this section is public information, **do not** include the names of volunteers.
+
+**Do not** report information on fundraising activities here. **Do not** send or upload documents such as annual reports to describe the RJO’s activities in question C2.
+
+**C3** – If your RJO made a gift or transferred property for less than the fair market value (FMV) to another organization or entity during the fiscal period, in the table provided, enter the name of the recipient organization or entity. Also include the FMV of the gift or property and explain how the gift or transfer furthers your RJO’s purposes.
+
+If you need more space for the information requested, attach a separate sheet with the information. The sheet must contain the same information in the same format as the table and include your RJO’s name and BN.
+
+Tick the box if you provided information for this question on a separate sheet.
+
+**C4** – Tell us whether your RJO is primarily engaged in producing original news content by selecting yes or no. Primarily generally means that an organization’s primary focus and activity must be the production of original news content. Choose an edition or episode produced during the fiscal period and list the titles of original news content in it. For more information, go to [Primarily producing original news content](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/business-tax-credits/qualified-canadian-journalism-organization/guidance.html).
+
+**C5** – If your RJO carried on, funded, or provided any resources during the fiscal period for any activity, program, or project outside Canada, select **yes**. Those resources may include employees, volunteers, agents, joint ventures, contractors, or any other individuals, intermediaries, entities, or means.
+
+You must also fill in the table with the name of the country where the activity, program, or project took place; a description of each activity or transaction; and the total amount spent in Canadian dollars.
+
+Tick the box if you are providing information for this question on a separate sheet.
+
+**C6** – Other than subscriptions and advertising, if your RJO charged fees or received regular income from the sale of goods and services or from the use of its assets, select **yes**. In the table, describe these activities in detail and explain how they relate to the RJO’s purposes.
+
+If you need more space for the information requested, attach a separate sheet. The sheet must contain the same information in the same format as the table and include your RJO’s name and BN.
+
+Tick the box if you are providing information for this question on a separate sheet.
+
+**C7** – If your RJO carried on fundraising activities during the fiscal period, select **yes**. List those fundraising activities in the table. Some examples of fundraising activities include mail or internet campaigns; auctions; door-to-door solicitation; cause-related marketing; draws or lotteries; and fundraising dinners, galas, or concerts.
+
+If you need more space, attach a separate sheet with the requested information. The sheet must contain the same information in the same format as the table and include your RJO’s name and BN.
+
+Tick the box if you are providing information for this question on a separate sheet.
+
+**C8** – If your RJO paid external fundraisers to conduct its fundraising activities during the fiscal period, select **yes**. An external fundraiser is an individual or organization your RJO retained to carry out fundraising activities on its behalf.
+
+If you select **yes**, you must answer questions (a) to (d) and question F1 in Section F – Confidential data.
+
+**C9** – If your RJO is controlled directly or indirectly in any way whatever by one person or a group of persons that do not deal with each other at arm’s length, select **yes**. The term "at arm's length" describes a relationship in which persons act independently of each other or are not related. "Not dealing at arm's length" or non-arm’s length means persons acting in concert without separate interests or who are related.
+
+Related persons are individuals who are related to each other by blood, marriage or common law partnership, or adoption. Related persons also include individuals or groups and the corporations in which they have a controlling interest. Persons related to these individuals or groups are also considered related to those corporations. For more information on arm's length and related persons, go to [Guidance on the income tax measures to support journalism](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/business-tax-credits/qualified-canadian-journalism-organization/guidance.html) and see paragraphs 2.45 to 2.48. Also, go to [Related persons and dealing at arm’s length, Income Tax Folio S1-F5-C1](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html).
+
+**C10a** – If your RJO paid any of its directors, trustees, or persons it does not deal with at arm's length for services provided during the fiscal period (other than reimbursement for expenses), select **yes**.
+
+**C10b** – If your RJO had expenses for compensating employees during the fiscal period, select **yes**. If you select **yes**, you must also fill out Schedule 1 – Compensation.
+
+**C11** – If your RJO received non-cash gifts it issued official donation receipts for, select **yes**.
+
+Non-cash gifts are gifts of property. A contribution of service (that is, contributing time, skills, or efforts) is not property so it does not qualify as a gift or a non-cash gift.
+
+On the list, select each type of non-cash gift received for which an official donation receipt was issued. For each category of non-cash gift, enter the total amount your RJO issued official donation receipts for during the fiscal period.
+
+For more information on non-cash gifts and receipting, go to [P113, Gifts and Income Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html) and [Split receipting and deemed fair market value (Income Tax Folio S7-F1-C1)](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-7-charities-non-profit-organizations/series/income-tax-folio-s7-f1-c1-split-receipting-deemed-fair-market-value.html).
+
+**C12** – If your RJO acquired any non-qualifying securities during the fiscal period, select **yes**. When a non-qualifying security is gifted to a qualified donee, the donee can issue an official donation receipt only under specific circumstances. For more information, go to [Non-qualifying security, CG-012](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/non-qualifying-security.html).
+
+**C13** – If your RJO had direct partnership holdings, either as a limited partner or a general partner, at any time during the fiscal period, select **yes**.
+
+Give details about the partnerships, including the percentage of interests held so that the CRA can determine if it is a limited partnership or a business.
+
+If your RJO does not have partnership holdings or if all those holdings are **indirect**, select **no**. The following are examples of when an RJO does **not** have to report holdings either as a limited partner or a general partner:
+
+- It has holdings in mutual fund trusts, mutual fund corporations, or unit trusts, which in turn have partnership holdings.
+
+- It entered into formal or informal arrangements with other parties that do not result in partnership holdings (for example, a joint venture or an agency agreement).
+
+**C14** – If your RJO issued official donation receipts for donations on behalf of another organization at any time during the fiscal period, select **yes**.
+
+### Section D – Financial information
+
+**D1** – Under the Income Tax Act, an RJO **cannot** receive from any one source gifts that represent **more than 20%** of its total revenue (including donations) unless the gift is:
+
+- made by bequest
+
+- made within 12 months after the RJO is first registered
+
+- approved by the Minister of National Revenue
+
+A source includes a person, such as an individual, a corporation, or a trust. It can also be a group of persons that do not deal with each other at arm’s length. If your RJO received gifts from any one source that represents more than 20% of its total revenue for the fiscal period, select **yes** and provide the amount and type of gift in the table. If none of the gift types listed above apply, enter “other.” Since this section is public information, **do not** include the source’s name.
+
+If you need more space for the information requested, attach a separate sheet. The sheet must contain the same information in the same format as the table and include your RJO’s name and BN.
+
+Tick the box if you are providing information for this question on a separate sheet.
+
+**D2** – If your RJO received a gift or multiple gifts from the **same** donor during the fiscal period, and the cumulative value of the gifts is more than $5,000, select **yes**. This applies whether or not a receipt was issued for the gift. Enter the name of each donor and the total amount of the gift(s) in the table. The information you include in this table will be available to the public.
+
+If you need more space for the information requested, attach a separate sheet. The sheet must contain the same information in the same format as the table and include your RJO’s name and BN.
+
+Tick the box if you are providing information for this question on a separate sheet.
+
+### Summary of gifts received
+
+**Line 4500 –** Enter the total eligible amount of gifts your RJO received during the fiscal period that it issued or will issue official donation receipts for. Do not include gifts received from Canadian registered charities on this line. Report those amounts on line 4510.
+
+**Line 4510 –** Enter the total amount your RJO received from Canadian registered charities. To see a complete list of registered charities, go to [List of Charities](https://apps.cra-arc.gc.ca/ebci/hacc/srch/pub/dsplyBscSrch?request_locale=en).
+
+RJOs should not issue official donation receipts for income tax purposes for amounts received from registered charities.
+
+**Line 4530 –** Enter the total amount of all other gifts the RJO did not issue official donation receipts for. Do not include:
+
+- revenue from fundraising activities (report that on line 4630)
+
+- revenue from sources outside Canada (report that on line 4575)
+
+**Line 4531 –** Enter the total of lines 4500 to 4530.
+
+**Summary of revenue from sources outside Canada**
+
+**Line 4571 –** Enter the total amounts included on line 4500 from all sources outside Canada (both government and non-government) that your RJO has or will issue official donation receipts for.
+
+**Line 4575 –** Enter the total non tax-receipted revenue from all sources outside Canada (both government and non-government).
+
+**Line 4576 –** Enter the total of lines 4571 and 4575.
+
+**D3** – Select the box that identifies the accounting method your RJO uses: accrual or cash.
+
+Financial information prepared on an accrual basis records revenue in the fiscal period it was earned in, even if the RJO received the revenue after the end of the fiscal period. Similarly, an expenditure is recorded in the fiscal period the RJO incurred it, even if the RJO paid the bill in the next period.
+
+Financial information prepared on a cash basis records revenue or expenditures the RJO received or paid during the fiscal period only.
+
+**D4 – Summary of financial position:** Using the financial statements your RJO will file with the return, enter the relevant amounts on the lines that apply in this section:
+
+### Assets
+
+**Line 4100** – Enter the total amount of cash your RJO had at the end of the fiscal period. Include:
+
+- amounts on hand
+
+- amounts in bank accounts
+
+- the value of all short-term investments with an original term to maturity not greater than one year, such as guaranteed term investment certificates, treasury bills, bonds, and notes
+
+- the value of long-term investments that will mature within one year—for example, a five-year bond that is in its last year of being held
+
+- all other current investments
+
+Do **not** include investments with persons that are not at arm’s length.
+
+**Line 4110** – Enter the value of amounts owed to your RJO by its founders, directors, trustees, employees, or members, or by any person or organization not at arm’s length to these individuals or to your organization. These amounts include loans, mortgages, or advances and interest receivable on these amounts. They also include amounts receivable for goods and services bought or rented by persons that are not at arm’s length.
+
+**Line 4120** – Enter the value of amounts receivable from individuals or other organizations. Amounts receivable include amounts owing from the sale of goods or services, as well as the current portion (the amount due during the fiscal period) of long-term investments such as loans and mortgages. Long-term investments are investments issued for a term greater than one year. **Do not** include any amounts you already reported on line 4100 or amounts receivable from non-arm’s length persons or organizations.
+
+**Line 4130** – Enter the total amounts that your RJO has invested with founders, directors, trustees, and non-arm’s length employees or members, or any person or organization not at arm’s length to these individuals or to your organization. These amounts could include limited partnership investments, shares, and investments in related corporations that are Canadian or foreign. Do not include amounts already reported on line 4110.
+
+**Line 4140** – Enter the value of all long-term investments. Include the value of all investments that will mature in more than one year, such as the cash-surrender value of life insurance policies, stocks, bonds, notes, shares, debt, loans, mortgages, reserves of gold, diamonds and other precious metals and stones, and all other long-term investments.
+
+**Do not** include on line 4140, amounts receivable from **non-arm’s length** persons or organizations, or any amounts you reported on lines 4120, 4130, or 4170. You must report restricted funds on line 4170.
+
+**For lines 4155, 4160, and 4165**, report all capital assets (including capital assets outside Canada) at their cost to your RJO. If your RJO receives a non-cash gift, the cost of the gift would be its FMV at the time the gift was made. Include the cost of major improvements needed for your RJO to use the asset for its intended purpose.
+
+**Line 4155** – Enter the cost or FMV (see note above) of all land and buildings in Canada.
+
+**Line 4160** – Enter the cost or FMV (see note above) of all other capital assets in Canada. These can include equipment, vehicles, furniture, and fixtures.
+
+**Line 4165** – Enter the cost or FMV (see note above) of all capital assets outside Canada. These can include land, buildings, equipment, vehicles, furniture, and fixtures.
+
+**Line 4166** – Enter the accumulated amortization of capital assets. Accumulated amortization is the total amount of amortization expense that has been claimed against an asset or group of assets for the entire time of ownership. This amount offsets the value of the assets, and it should be negative.
+
+**If you are filing a paper return**, use brackets to show a negative amount.
+
+If you are using the **fillable and saveable version of Form T1000-1** on our website, enter a minus sign before a negative amount. The return will automatically show the negative amount in brackets.
+
+**Line 4170** – Enter the FMV of assets your RJO has that do not fall under the previous categories. Include works of art and other valuables not considered inventory. On this line, include prepaid expenses (accrual basis only) and restricted funds.
+
+**Line 4200** – Enter the total of lines 4100 to 4170.
+
+### Liabilities
+
+**Line 4300** – Enter the value of salaries and other amounts owing; the current (short-term) portion of long-term debt obligations such as loans, mortgages, and notes, as well as payments due for goods and services received. Also include any contributions, gifts, and grants payable for journalism-related activities. Do **not** include any amounts payable to non-arm’s length persons.
+
+**Line 4310** – Enter the total of amounts your RJO received to pay for goods or services your RJO has not yet supplied (accrual basis only).
+
+**Line 4320** – Enter the total of amounts (including advances, loans, notes, or mortgages) owing to non-arm’s length persons (including founders, directors, trustees, non-arm’s length employees or members, or to any person or organization not at arm’s length to these individuals). These also include amounts owing to these persons for goods and services received, any rent due for the use of property, and salaries payable.
+
+**Line 4330** – Enter the total amount of all other liabilities not included above, such as an unused part of a government grant that your RJO has to return, and long-term debt obligations such as loans, mortgages, and promissory notes.
+
+**Line 4350** – Enter the total of lines 4300 to 4330.
+
+**D5 – Financial information – confidential data**
+
+The information entered in Section D5 is confidential and will not be available to the public.
+
+### Statement of operations
+
+### Revenue
+
+Do not include government rebates such as goods and services tax / harmonized sales tax (GST/HST) and provincial sales tax (PST) rebates in income if you did not include the related taxes as an expense.
+
+If the expenditures on lines 4800 through 4920 include GST/HST and PST, your RJO has to report the rebates it received on line 4650.
+
+Enter gross amounts your RJO received. **Do not** deduct expenditures involved in earning the revenue.
+
+**Line 4520 –**Enter the total amount from line 4531.
+
+**Lines 4540 to 4560** – Enter the total revenue received or earned from the federal government, provincial or territorial governments, and municipal or regional governments. This amount should include all revenue received from grants, contributions, and contracts for goods and services supplied directly to the various levels of government or on their behalf.
+
+**Line 4580** – Enter the total interest and other investment income your RJO received or earned during the fiscal period (for example, interest from bank accounts, mortgages, bonds, and loans, as well as dividends from shares). Include all investment income, whether or not your RJO received an information slip for the amount, and whether or not your RJO received the income from a non-arm’s length person or organization. Do not include capital gains or losses.
+
+Report all foreign investment income in **Canadian dollars**. Convert the amount at the exchange rate in effect on the day your RJO received the income or the rate of exchange in effect at the end of the fiscal period (accrual basis only). You can call your tax services office or your financial institution for the proper exchange rates. You can also get the exchange rates on the [Bank of Canada](https://www.bankofcanada.ca/) website.
+
+**Line 4610** – Enter the gross income your RJO received or earned from renting its land and buildings. Add all these rents, including those derived from property your RJO used for its journalism-related activities.
+
+If your RJO earns rental income on property it does not use for journalism-related activities, give details on the property in the notes to its financial statements.
+
+Report any income your RJO earned from leasing out equipment or other resources on line 4650, “Other revenue.”
+
+**Line 4620** – Enter the total revenue your RJO received or earned from memberships, dues, and association fees and did not issue official donation receipts for.
+
+**Line 4630** – Enter the gross amount of all revenue from fundraising activities that your RJO did not issue official donation receipts for, including the gross amount from activities your RJO carried on (for example, collection boxes and loose collections) and from third party fundraisers. Report revenue that your RJO has or will issue official donation receipts for on line 4500.
+
+**Line 4640** – Enter the gross revenue received from the sale of all goods and services to individuals or organizations (do not include amounts reported on lines 4540 to 4560 and 4630). Report revenue from the sale of goods and services for fundraising purposes on line 4630.
+
+**Line 4641** – Enter the amount included on line 4640 that is revenue from advertising and classifieds.
+
+**Line 4642** – Enter the amount included on line 4640 that is revenue from subscriptions.
+
+**Line 4643** – Enter the amount included on line 4640 that is revenue from the sale of news content.
+
+**Line 4644** – Enter any remaining amount included on line 4640 and specify the types of goods and services that generated the revenue.
+
+Do not include lines 4641 to 4644 in the total revenue on line 4700. These lines should add up to the amount reported on line 4640.
+
+**Line 4650** – Enter the total of all other revenue your RJO received that you did not already include in any of the amounts above. If it applies, include any goods and services tax / harmonized sales tax (GST/HST) and provincial sales tax (PST) rebates on this line. Also include any income from the rental of any equipment or other resources. Do not include government rebates such as GST/HST and PST rebates if you did not include the amount to be rebated as an expense.
+
+**Line 4655** – Specify the types of revenue included in the amount on line 4650.
+
+**Line 4700** – Add lines 4520 to 4560, 4580 to 4640, and 4650 and enter the total.
+
+### Expenditures
+
+The categories on Form T1000-1 may not match the categories your RJO used to record its expenditures in its financial statements. The total on line 4950 has to represent all expenditures your RJO recorded.
+
+**Line 4800** – Enter the total amount your RJO paid or incurred for advertising and promoting itself and its activities. Include advertising and promotion costs related to fundraising activities.
+
+**Line 4810** – Enter the total amount paid or incurred for travel and vehicle expenses. Include travel and accommodation costs, and vehicle costs such as gas, repairs, upkeep, and lease payments.
+
+**Line 4820** – Enter the total amount paid or incurred for interest and bank charges.
+
+**Line 4830** – Enter the total amount paid or incurred for licences, memberships, and dues.
+
+**Line 4840** – Enter the total amount paid or incurred for supplies and expenses (for example, newsprint, and minor equipment purchases). Do not include any amounts reported on line 4800.
+
+**Line 4850** – Enter the total amount paid or incurred for occupancy costs. This includes rent, mortgage, maintenance, repairs, utilities, taxes, and all other costs your RJO had to maintain its premises. If these types of expenditures relate to investment assets, report them on line 4920.
+
+**Line 4860** – Enter the total amount paid or incurred for professional and consulting services (for example, freelance content producers, legal, accounting, or fundraising services).
+
+**Line 4870** – Enter the total amount paid or incurred for educating and training staff and volunteers. This includes the cost of courses, seminars, and conferences.
+
+**Line 4880** – Enter the RJO's total expenditure on all compensation during the fiscal period. This includes expenditures on compensation for permanent full-time employees as well as part-time and part-year employees.
+
+Compensation includes all forms of salaries, wages, commissions, bonuses, fees, and honoraria, plus the value of taxable and non-taxable benefits an RJO pays its employees. Compensation generally includes all amounts that form part of an employee's gross income from employment, plus the RJO's contributions to the employee's pension, medical or insurance plan, employer Canada Pension Plan / Quebec Pension Plan and employment insurance contributions, and workers' compensation premiums.
+
+**Do not** include contract or freelance positions, or reimbursements for expenses incurred while working for the RJO, such as travel claims. Include these amounts on the applicable expenditure line in Section D5.
+
+**Line 4900** – Enter the amortization expense for the fiscal period for capitalized assets. Amortization is often referred to as depreciation.
+
+**Line 4920** – Enter the total of all other expenditures **you did not** include on lines 4800 to 4900.
+
+**Line 4930** – Specify the types of expenditures included in the amount on line 4920, for example, journalism-related expenditures not included above.
+
+**Line 4950** – Enter the total of lines 4800 to 4920.
+
+### Section E – Certification
+
+This information return must be signed by a director, trustee, like official, or authorized representative of the RJO. Authorization must be on file with the Canada Revenue Agency. **It is a serious offence under the Income Tax Act to provide false or deceptive information.** By signing the return, the individual certifies “to the best of their knowledge” that it is correct, complete, and current. This person is responsible for the accuracy of the information reported on the return.
+
+Certification applies to all parts of the RJO’s return, including:
+
+- the completed Form T1000-1, Registered Journalism Organization Information Return, and all the schedules that apply
+
+- the RJO’s financial statements (the treasurer should sign any financial statements that have not been professionally prepared)
+
+- the completed Form T1000-3, Directors/Trustees Worksheet for Registered Journalism Organizations, or a list of directors and trustees with all required information
+
+- all other attachments containing required information
+
+### Section F – Confidential data
+
+The information entered in Section F is confidential and will not be available to the public.
+
+**F1** – Using the information in question C8, enter the name(s) and arm’s length status of each external fundraiser in the table.
+
+If you need more space for the information requested, attach a separate sheet. The sheet must contain the same information in the same format as the table. Make sure to include your RJO’s name and BN.
+
+Tick the box if you are providing information for this question on a separate sheet.
+
+**F2** – If your RJO allowed a donor to use any of its property during the fiscal period, select **yes** and enter the name of the donor and the FMV of the property in the table provided.
+
+If you need more space for the information requested, attach a separate sheet. The sheet must contain the same information in the same format as the table. Make sure to include your RJO’s name and BN.
+
+Tick the box if you are providing information for this question on a separate sheet.
+
+**F3** – Complete the question as instructed on the return. For more information on the limitation on income distribution for RJOs, go to [Guidance on the income tax measures to support journalism](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/business-tax-credits/qualified-canadian-journalism-organization/guidance.html) and see paragraphs 5.22 and 5.23.
+
+**F4** – Enter the requested information about the individual who completed the information return.
+
+**F5** – The physical address is the address where the RJO is located, including the street number; street name; apartment, suite, or lot and concession number; city; province or territory; and postal code. A post office box or a rural route number alone is not enough.
+
+The address where the RJO’s books and records are kept must be in Canada. This address has to be complete and include the street number; street name; apartment, suite, or lot and concession number; city; province or territory; and postal code. A post office box or a rural route number alone is not enough.
+
+If the area does not have street names or numbers, enter a description that will easily allow a person to locate the office (for example, the first red house eastbound on Highway 4 from Oldtown).
+
+For more information, go to [Registered journalism organizations](https://www.canada.ca/en/revenue-agency/services/charities-giving/other-organizations-that-issue-donation-receipts-qualified-donees/registered-journalism-organizations.html).
+
+### Schedule 1 – Compensation
+
+Compensation includes all forms of salaries, wages, commissions, bonuses, fees, and honoraria, plus the value of taxable and non-taxable benefits an RJO pays its employees. Compensation generally includes all amounts that form part of an employee’s gross income from employment, plus the RJO’s contributions to the employee’s pension, medical or insurance plan, employer Canada Pension Plan / Quebec Pension Plan and employment insurance contributions, and workers’ compensation premiums.
+
+**Do not** include reimbursements for expenses incurred while working for the RJO, such as travel claims. Include these amounts on the applicable expenditure line in Section D5.
+
+**1(a)** – Enter the number of permanent, full-time, directly compensated positions your RJO had in the fiscal period. The number represents the usual number of positions your RJO compensated during the fiscal period, including managerial positions. Do not include contract or freelance positions.
+
+**1(b)** – For the ten highest directly compensated positions during the fiscal period, enter the number of positions falling within each compensation category during the fiscal period, regardless of the type of work done.
+
+**1(c)** – Enter the number of part-time or part-year (for example, seasonal) employees your RJO directly compensated during the fiscal period.
+
+**1(d)**– If it applies, enter your RJO’s total expenditure on compensation for part time and part-year employees during the fiscal period.
+
+**1(e)** – Enter the RJO’s total expenditure for all compensation in the fiscal period. This should be the same as the amount on line 4880 of Section D5.
+
+## After you send your completed information return
+
+### Confirmation of Annual Information Return Filing
+
+We will send you a Confirmation of Annual Information Return Filing to let you know we received your return.
+
+### How do I adjust an information return?
+
+If you need to change information on your annual information return after you have filed it, complete Form T1000-4 Registered Journalism Organization Adjustment Request. You can mail it to the address on the return or fax it to us at 613-957-8925. **Keep a copy of the form for your RJO’s records.**
+
+## Need more information?
+
+### Website
+
+For more information about RJOs and their obligations under the Income Tax Act, go to [Registered journalism organizations](https://www.canada.ca/en/revenue-agency/services/charities-giving/other-organizations-that-issue-donation-receipts-qualified-donees/registered-journalism-organizations.html).
+
+### Phone numbers
+
+If you need more information on a topic, you can call the Charities Directorate at:
+
+- 1-800-267-2384
+
+- 1-800-665-0354 (TTY service for persons with a hearing or speech impairment)
+
+## Your opinion counts!
+
+We review our publications every year. If you have any comments or suggestions that would help us improve this guide, we would like to hear from you. You can email your comments and suggestions to:
+
+[charities-bienfaisance@cra.gc.ca](mailto:charities-bienfaisance@cra.gc.ca)
+
+Or you can mail them to:
+
+Charities Directorate Canada Revenue Agency Ottawa ON K1A 0L5

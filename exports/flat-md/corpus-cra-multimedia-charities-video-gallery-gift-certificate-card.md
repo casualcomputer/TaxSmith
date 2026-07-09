@@ -1,0 +1,32 @@
+---
+title: "Gift certificates and gift cards"
+gallery_title: "Gift certificates and gift cards"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/charities-video-gallery/gift-certificate-card.html
+video_source: https://www.youtube.com/watch?v=nK-I4_x4HWg
+last_modified: 2018-02-28
+---
+
+# Gift certificates and gift cards
+
+## Transcript
+Knowing when to issue an official receipt for the donation of a gift card or gift certificate can be complicated. This video will make it easier for you to understand what to do when these types of gifts are donated to your charity.
+In this video, we will use the term "gift card" to mean both gift certificate and gift card.
+**The gift card issuer** is the individual or business, such as a retail store, that donates a gift card that can be exchanged for goods or services. If the issuer donates a gift card to your charity, you cannot issue a donation receipt until your charity uses the gift card to buy something. Only then can you issue a donation receipt for the amount that you redeemed from the card. This is because a gift card is only a promise to issue a gift, and a transfer of property has not yet taken place. Once your charity uses the gift card to buy something, that promise is fulfilled, and the property is transferred.
+**The gift card holder** is the person who has the gift card, and is not the issuer of the card. If the gift card holder decides to donate the gift card to your charity, you can issue a donation receipt to the holder for the amount of the gift card, this is because it has a monetary value, since it was purchased by the gift card holder.
+An important rule to remember is this: The issuer of a gift card can never be the holder of that card.
+**Example 1**
+Claire buys a $100 gift card from Hank's Drugstore and donates it to your charity.
+**Q1:**Can you issue an official donation receipt to Claire for the gift card?
+**A1:**Yes. Claire bought the gift card for $100. It has a recognized value of $100 and is considered her property. Claire is the gift card holder. She voluntarily gave you the gift card and a transfer of property occurred. You can issue a donation receipt to Claire for the amount it cost her ($100) to buy the gift card.
+**Example 2**
+Your charity approaches Hank's Drugstore for a donation. The store decides to donate a $500 gift card to help your charity buy what it needs to carry out its charitable activities.
+**Q2:**Can you issue an official donation receipt to Hank's Drugstore for the gift card at the time of the donation?
+**A2:**No. Hank's Drugstore is the issuer of the gift card, meaning that the card is a promise from the store to issue goods in an amount equal to the dollar value of the card. Since the drugstore has not yet transferred any property to your charity, you cannot issue an official donation receipt at the time of the gift card donation.
+However, when your charity buys items with the full amount of the card, you can issue a donation receipt to Hank's drugstore as there has been a transfer of property and the obligations of the card have been fulfilled.
+In summary, you need to know whether the person who gave you the gift card is the issuer or the holder of the gift card. Remember that you can only issue a receipt for a gift card when property has been transferred to you.
+**(Icons appear on the screen with the following words beside each related icons: "What's New" electronic list, Twitter account: @CanRevAgency and the YouTube Channel CanRevAgency)**
+**(The Charities and giving website address appears on the screen: Canada.ca/charities-giving)**
+**(Hashtag CRA charities appears on the screen)**
+**(A Canadian Flag emblem, the Canada Revenue Agency and Agence du revenu du Canada appear on the screen)**
+**(Screen shows a copyright emblem and the wording Her Majesty, the Queen in Right of Canada, as represented by the Canada Revenue Agency, 2017)**
+**(The last screen shows the wording CANADA and an emblem of the Canadian flag)**

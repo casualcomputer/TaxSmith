@@ -1,0 +1,277 @@
+Title: ARCHIVED - Excise and GST/HST News - No. 92
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news92/news92-excise-gst-hst-news-no-92.html
+Corpus path: corpus/cra/forms-publications/publications/news92/news92-excise-gst-hst-news-no-92.md
+Document type: publication
+Last modified: 2014-07-29
+
+# ARCHIVED - Excise and GST/HST News - No. 92
+
+## Table of Contents
+
+- [Bill C-31 receives Royal Assent](#_Toc391385663)
+
+- [Draft legislative proposals released for public comment](#_Toc391385664)
+
+- [Tax status of stevia-based products](#_Toc391385665)
+
+- [Sales made to Yukon First Nations and their members](#_Toc391385666)
+
+- [Application of the GST/HST to core charges](#_Toc391385668)
+
+- [Amendment to the Importation of Intoxicating Liquors Act](#_Toc391385669)
+
+- [What’s new for online services](#_Toc391385670)
+
+- [Prescribed rates of interest](#_Toc391385672)
+
+- [What’s new in publications](#_Toc391385673)
+
+- [Enquiries](#_Toc391385674)
+
+## Bill C-31 receives Royal Assent
+
+[Bill C-31, the Economic Action Plan 2014 Act, No. 1](http://www.parl.gc.ca/LegisInfo/BillDetails.aspx?Language=E&Mode=1&billId=6483626), received Royal Assent on June 19, 2014. Bill C-31, now referred to as Statutes of Canada 2014, c. 20, includes GST/HST measures announced in the Budget of February 11, 2014. Among other things, Bill C-31 measures relate to GST/HST registration; elections for closely related persons; the tax treatment of training for individuals with a disorder or disability, of acupuncturists’ and naturopathic doctors’ services and of specially designed eyewear; as well as previously announced measures such as electronic funds transfers, input tax credit claims and GST/HST exemption for hospital parking. Bill C-31 also includes excise measures related to increasing the excise duty rates on tobacco products, standardizing sanctions related to false statements in excise tax returns, and removing the federal impediment for the interprovincial movement of beer and spirits for personal use. The [Excise and GST/HST News edition No. 91](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news91.html) discusses these measures.
+
+## Draft legislative proposals released for public comment
+
+On April 8, 2014, the Department of Finance released for public comment draft legislative proposals relating to technical changes to the [Excise Tax Act](http://laws-lois.justice.gc.ca/eng/acts/E-15/index.html) (the Act), [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html) and related regulations.
+
+The proposals relating to the GST/HST include amendments to:
+
+- relieve the GST/HST on services of refining metals to produce precious metals supplied to a non-resident person that is not registered for GST/HST purposes;
+
+- codify longstanding relieving provisions related to the tax treatment upon re-entry into Canada of Canadian goods on which GST/HST has already been paid;
+
+- simplify the tax treatment of the temporary importation of certain railcars;
+
+- implement real property technical amendments that provide for the consistent GST/HST treatment of different types of housing and ensure that the special valuation rule for subsidized housing works properly with the GST/HST place of supply rules and in the context of a GST/HST rate change; and
+
+- clarify the application of GST/HST public service body rebates in relation to non-profit organizations that operate certain health care facilities.
+
+For more information, please see the Department of Finance News Release 2014-051 and related explanatory notes to these draft legislative proposals. Please note that the closing date for comments was May 8, 2014.
+
+## Tax status of stevia-based products
+
+The CRA has recently conducted a review of its policy regarding the tax status of stevia­-based products after [Health Canada](http://www.hc-sc.gc.ca/index-eng.php) approved and added steviol glycosides to its [List of Permitted Sweeteners](http://www.hc-sc.gc.ca/fn-an/securit/addit/list/9-sweetener-edulcorant-eng.php).
+
+Section 1 of Part III of Schedule VI to the *Excise Tax Act* (the Act) zero-rates supplies of food or beverages for human consumption, including sweetening agents, seasonings and other ingredients mixed with or used in the preparation of such food or beverages, other than supplies included in paragraphs (a) to (r) of that section.
+
+The terms “food” and “beverage” are not defined in the Act. The CRA considers a product to be a food or beverage if an average consumer would recognize and purchase the product as such in the ordinary course of buying basic groceries.
+
+The term “ingredient” is also not defined in the Act. Generally, it is the CRA’s view that an average consumer would consider a product to be an ingredient if the product adds to the flavour, texture or appearance of the final product, that is, if it is integral to the final product. Moreover, in order to be regarded as an ingredient to a food or beverage, the final product, in and of itself, must be a food or beverage.
+
+Prior to Health Canada allowing the inclusion of steviol glycosides as a permitted sweetener, the CRA did not consider stevia-based products to be ingredients to food or beverages within the meaning of section 1 of Part III of Schedule VI to the Act because, in Canada, the products could only be used in natural health products. Factors supporting this position included the fact that stevia was not listed in the Food and Drug Regulations of the [Food and Drugs Act](http://laws-lois.justice.gc.ca/eng/acts/F-27) as a permitted sweetener and the fact that Health Canada had issued specific guidelines regarding stevia and its use, including limits on its consumption. Given the previous regulatory restriction on the sale of stevia, taxable supplies of stevia products were subject to GST/HST at the applicable rate (5%, 13%, 14% or 15% depending on the place of supply).
+
+As Health Canada now considers steviol glycosides a permitted sweetener, our policy on the tax status of stevia-based products has been expanded. A stevia-based product may be considered an ingredient and thus qualify as a zero-rated product under the Act provided it meets all the following conditions:
+
+1. the product is advertised as a sweetener;
+
+2. the product is not marketed or labelled as a dietary supplement;
+
+3. the product is marketed as an alternative to sugar and artificial sweeteners;
+
+4. the product labelling does not make any reference to risk and/or dosage information; and
+
+5. the product is used, recognized, and commonly sold as an ingredient to food and/or beverages, where the primary use of the product is to impart a sweet taste to the food and/or beverages to which it is added.
+
+If you need assistance in determining the tax status of a stevia-based product, please contact GST/HST Rulings at 1-800-959-8287.
+
+## Sales made to Yukon First Nations and their members
+
+Yukon First Nations with a final land claims agreement, as well as Indians resident in Yukon who are members of those First Nations, are no longer entitled to tax relief under the [Indian Act](http://laws-lois.justice.gc.ca/eng/acts/I-5). Therefore, tax relief described in [GST/HST Technical Information Bulletin, B-039, GST/HST Administrative Policy - Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html), does not apply to those Yukon First Nations and Indians who are both members of those First Nations and residents of Yukon.
+
+### Tax relief entitlement for Indian members who are not resident in Yukon
+
+Section 87 of the *Indian Act* is still available for Indian members of Yukon First Nations with a final land claims agreement if they are not residents of Yukon. Relief of tax will apply where the conditions of B-039 are met. The vendor should maintain documentary evidence when making sales relieved of tax that the Yukon First Nation member is an Indian who is not a resident of Yukon.
+
+In addition, three remaining Yukon First Nations, Liard First Nation, Ross River Dena Council and White River First Nation, have not completed final agreements so they and their members are still entitled to relief of tax where the conditions in B-039 are met.
+
+## Application of the GST/HST to core charges
+
+The CRA has released [GST/HST Info Sheet GI-167, Application of the GST/HST to Core Charges](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-167.html). A core charge is an additional amount that may be charged by some vendors who are GST/HST registrants when selling certain automotive parts that are subject to the GST/HST. The core charge is imposed to encourage the consumer to bring the used part to the vendor for rebuilding or remanufacturing. The core charge forms part of the consideration payable for the new part.
+
+When a non-registrant such as a consumer or a small supplier provides the used part to a vendor, it is considered a supply under the *Excise Tax Act*. Where the non-registrant supplies the used part to the vendor at the time the new automotive part is purchased, the GST/HST trade-in rules apply and the GST/HST is calculated on the difference between the consideration payable, including the core charge, for the new part being sold and the amount credited for the trade-in.
+
+However, when the non-registrant supplies the used part to the vendor at any point in time after the purchase of the new automotive part, the trade-in rules do not apply. The vendor is required to collect GST/HST on the total consideration payable for the new part, including the core charge. The non-registrant is not required to collect GST/HST on the supply of the used part. As a result, the vendor is not required to pay GST/HST to the non-registrant when it acquires the used part.
+
+See [GST/HST Info Sheet GI-167, Application of the GST/HST to Core Charges](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-167.html), for examples of this type of transaction and a more detailed discussion on how GST/HST applies to core charges for automotive parts.
+
+## Amendment to the Importation of Intoxicating Liquors Act
+
+The [Importation of Intoxicating Liquors Act](http://laws-lois.justice.gc.ca/eng/acts/I-3) (IILA) is a federal statute governing the interprovincial transportation and international importation of intoxicating liquors. This legislation controls and restricts the movement of liquor from one province to another, as well as its importation into Canada.
+
+[Bill C-31, the Economic Action Plan 2014 Act, No. 1](http://www.parl.gc.ca/LegisInfo/BillDetails.aspx?Language=E&Mode=1&billId=6483626), amended the IILA to remove the federal barrier prohibiting individuals from moving spirits and beer from one province to another when they are for their personal use. While the federal impediment has been removed, there is no change to a province’s authority to set limits on personal importations of spirits or beer.
+
+For more information on this subject, see Excise Duty Notices EDN38, Budget 2014 – Spirits Amendment to the Importation of Intoxicating Liquors Act, and EDBN20, Budget 2014 – Beer Amendment to the Importation of Intoxicating Liquors Act, or contact a regional excise duty office. A list of regional excise duty offices is available in Excise Duty Memorandum EDM1-1-2, Regional Excise Duty Offices.
+
+This amendment aligns with the June 2012 amendment to the IILA for the interprovincial movement of wine for personal use. More information is available in Excise Duty Notice EDN31, Amendment to the Importation of Intoxicating Liquors Act.
+
+## What’s new for online services
+
+### View answers to common enquiries
+
+You can now view answers to common enquiries using the “Enquiries Service”. Here are a few examples of common questions and answers:
+
+**1. How can I correct a payment that was allocated to the wrong period?**
+
+You can transfer an interim payment from one reporting period to another or to an amount owing on any of your accounts in My Business Account. Under GST/HST, select "View and pay account balance," and then select "Transfer Payment" from the sidebar menu on the left.
+
+**2. Can I file my Excise Duty return electronically?**
+
+Not at this time. We will offer electronic filing for Excise Duty returns in the future.
+
+Try this new option, as it may save you time in finding an answer. Go to:
+
+- [www.cra.gc.ca/mybusinessaccount](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), if you are a business owner; or
+
+- [www.cra.gc.ca/representatives](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), if you are an authorized representative or employee.
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from July 1, 2014 to September 30, 2014, on overdue amounts payable to the Minister is 5%. The prescribed annual rate of interest on amounts owed by the Minister (i.e., rebates or refunds) is 1% for corporate taxpayers and 3% for non-corporate taxpayers. These rates are applicable to income tax, excise tax, the softwood lumber products export charge, GST/HST and the air travellers security charge (ATSC) and excise duty on wine, spirits and tobacco.
+
+The prescribed annual rate of interest respecting excise duty on beer, on overdue amounts payable for the indicated period, is set at 3%. Refund interest rates are not applicable for amounts owed by the Minister (i.e., rebates or refunds) for excise duty that is in relation to beer.
+
+|  | GST/HST, Excise Tax, Softwood Lumber Products Export Charge, Excise Duty (wine, spirits, tobacco), ATSC, Income Tax | Excise Duty(beer) |  |  |
+
+| --- | --- | --- | --- | --- |
+
+| Period | **Refund Interest Corporate Taxpayers** | **Refund Interest Non-Corporate Taxpayers** | **Arrears and Instalment Interest** | **ArrearsInterest** |
+
+| July 1 to September 30, 2014 | 1% | 3% | 5% | 3% |
+
+| April 1 to June 30, 2014 | 1% | 3% | 5% | 3% |
+
+| January 1 to March 31, 2014 | 1% | 3% | 5% | 3% |
+
+| October 1 to December 31, 2013 | 2% | 4% | 6% | 4% |
+
+Prescribed interest rates for previous years are available on the CRA website at [www.cra.gc.ca/interestrates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## What’s new in publications
+
+The following is a list of new or revised excise and GST/HST forms and publications.
+
+### GST/HST forms
+
+- [GST189, General Application for Rebate of GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html)
+
+- [GST507, Third Party Authorization and Cancellation of Authorization for GST/HST Rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst507.html)
+
+- [RC1, Request for a Business Number (BN)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc1.html)
+
+- [RC1A, Business Number - GST/HST Account Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc1.html)
+
+- [RC1B, Business Number - Payroll Account Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc1.html)
+
+- [RC1C, Business Number - Import/Export Account Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc1.html)
+
+- [RC59, Business Consent](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc59.html)
+
+- [RC199, Voluntary Disclosures Program (VDP) Taxpayer Agreement](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc199.html)
+
+- [RC4607, GST/HST Pension Entity Rebate Application and Election](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4607.html)
+
+- [RC7207, GST/HST Rebate Application and Election for GST/HST and QST Purposes for Pension Entities that are Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7207.html)
+
+- [RC7257, Third Party Authorization and Cancellation of Authorization for GST/HST and QST Rebates for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7257.html)
+
+- [RC7289, General Application for Rebate of Goods and Services Tax/Harmonized Sales Tax (GST/HST) and Québec Sales Tax (QST) for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7289.html)
+
+### GST/HST pamphlets and guides
+
+- [RC4028, GST/HST New Housing Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4028.html)
+
+- [RC4052, GST/HST Information for the Home Construction Industry](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4052.html)
+
+- [RC4210, GST/HST Credit Including related provincial credits and benefits for the period from July 2014 to June 2015](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4210.html)
+
+- [RC4405, GST/HST Rulings - Experts in GST/HST Legislation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4405.html) (revised)
+
+### GST/HST info sheets
+
+- [GI-167, Application of the GST/HST to Core Charges](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-167.html)
+
+- [GI-168, The GST/HST Implications of the Construction of Secondary Housing Units (Laneway Housing)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-168.html)
+
+### Excise duty forms
+
+- [B270, Excise Act 2001 - Excise Duty Return - Non-Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b270.html)
+
+### Excise duty memoranda
+
+- [EDM4-1-1, Producers and Packagers of Wine](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edm4-1-1.html) (revised)
+
+### Excise duty notices
+
+- EDBN20, Budget 2014 – Amendment to the Importation of Intoxicating Liquors Act for the Movement of Beer between Provinces
+
+- EDN38, Budget 2014 – Amendment to the Importation of Intoxicating Liquors Act for the Movement of Spirits between Provinces
+
+### Excise taxes and special levies notice
+
+- ETSL64, List of Vehicles and Associated Tax Rates for 2014
+
+All GST/HST, excise duty and excise taxes and special levies publications can be found on the CRA website at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html), at [www.cra.gc.ca/etsl](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies.html) and at [www.cra.gc.ca/exciseduty](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty.html).
+
+To receive email notification as soon as a document is published on the CRA website, go to the [electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) page at [www.cra.gc.ca/lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribe to the RSS feed for all new CRA publications and forms, or subscribe to any number of mailing lists for different types of publications.
+
+## Enquiries
+
+**For online access to your GST/HST, softwood lumber products export charge, air travellers security charge, excise tax and duty accounts** (such as viewing up-to-date account balances and transactions, transferring payments, and more), go to:
+
+- [www.cra.gc.ca/representatives](http://www.cra.gc.ca/representatives), if you are an authorized representative or employee; or
+
+- [www.cra.gc.ca/mybusinessaccount](http://www.cra.gc.ca/mybusinessaccount), if you are the business owner.
+
+**For technical help while using our online services:**
+
+- business accounts, call 1-800-959-5525
+
+- teletypewriter users, call 1-800-665-0354
+
+- calls outside of Canada and the United States, call collect at 1-613-940-8528
+
+Please have the screen number (bottom right) and, if applicable, the error number and message received on hand when calling..
+
+**For general information and to make enquiries regarding your account** (except for softwood lumber products export charge accounts), you can:
+
+- view answers to common enquiries, or submit an enquiry using the online “Enquiries service” on “My Business Account”;
+
+- view account information online at [www.cra.gc.ca/businessonline](http://www.cra.gc.ca/businessonline) ; or
+
+- call Business Enquiries at 1-800-959-5525
+
+**For specific account-related enquiries**, use the online “Enquiries service” on My Business Account. Select the “Submit an enquiry” option to send us your question and receive a response electronically.
+
+**For enquiries regarding your softwood lumber products export charge account**, you can:
+
+- view answers to common enquiries, or submit an enquiry using the online “Enquiries service” on “My Business Account”;
+
+- view account information online at [www.cra.gc.ca/businessonline](http://www.cra.gc.ca/businessonline) ; or
+
+- call 1-800-935-0313
+
+**To make enquiries regarding the status of specific GST/HST domestic rebate claims**, call the Business Enquiries line at 1-800-959-5525.
+
+**For GST/HST technical enquiries**, call GST/HST Rulings at 1-800-959-8287.
+
+**Forms and publications**
+
+- To access forms and publications **online**, go to [www.cra.gc.ca/forms](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+- To order forms and publications by **telephone**, call 1-800-959-5525.
+
+**Are you a GST/HST registrant located in Quebec?**
+
+To make an enquiry or obtain information on the GST/HST, contact Revenu Québec at 1-800-567-4692 or visit their website at [www.revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+**Are you a selected listed financial institution (including the ones located in Quebec)?**
+
+- For **GST/HST** account-related enquiries or for registration for a CRA business number, call Business Enquiries at 1-800-959-5525. For GST/HST technical enquiries, call GST/HST Rulings at 1-855-666-5166.
+
+- For **QST** account-related enquiries for reporting periods ending on or after January 1, 2013 or for registration for a CRA business number effective on or after January 1, 2013, call Business Enquiries at 1-800-959-5525. For technical enquiries related to the amended QST, call GST/HST Rulings at 1-855-666-5166.
+
+The Excise and GST/HST News is published quarterly and highlights recent developments in the administration of the goods and services tax (GST) and harmonized sales tax (HST), First Nations goods and services tax (FNGST) and First Nations tax (FNT), softwood lumber products export charge, air travellers security charge (ATSC) as well as excise taxes and duties. If you would like to receive a link to each new edition of the Excise and GST/HST News as it is published, [subscribe](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/subscribe-a-canada-revenue-agency-electronic-mailing-list.html) to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-excise-gst-hst-news.html).
+
+This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, Excise and GST/HST News, Legislative Policy and Regulatory Affairs Branch, CRA, Ottawa, ON K1A 0L5.

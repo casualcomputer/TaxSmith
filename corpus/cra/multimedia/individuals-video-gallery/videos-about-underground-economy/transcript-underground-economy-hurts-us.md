@@ -1,0 +1,31 @@
+---
+title: "The underground economy hurts us all"
+gallery_title: "The underground economy hurts us all"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/videos-about-underground-economy/transcript-underground-economy-hurts-us.html
+series: "Videos about the underground economy"
+video_source: /content/dam/cra-arc/migration/cra-arc/vc/gncy/lrt/ndgrcnm-eng.mp4
+last_modified: 2018-01-26
+---
+
+# The underground economy hurts us all
+
+## Transcript
+**NARRATOR:** So, you just had your roof re-shingled. It sure looks great!
+And you saved some money by paying cash under the table. Who’s it going to hurt, right?
+Well, with no paperwork, if someone had been injured on the job site, you could have been sued.
+Are you really ahead?
+Especially when your roof ends up leaking,
+and you have no written warranty.
+Ask yourself, if your contractor is cheating the government, does he really care about building codes? Good chance he’s cheating you too.
+**Voice on phone:** The number you are trying to reach is no longer in service.
+**NARRATOR:** So, what would you choose? Paying thousands when things go wrong,
+or hiring responsible contractors who follow the rules and pay their taxes?
+You don’t want to get burned,
+and become one of those unlucky Canadians who are living every day with the consequences of participating in the Underground Economy.
+Even worse, when any business activity goes unreported, or under-reported, it hurts us all.
+That honest local business down the street can’t make a go of it against competitors who skirt the rules.
+The shady dealings of the Underground Economy also mean that taxpayers who don’t cheat, end up paying more to support the tax-funded programs we all rely on.
+What’s the big deal about working under the table or off the books? Well, it’s costing Canadians billions of dollars, including you.
+When nobody cheats, everybody wins.
+Do the Right Thing.
+Don’t Participate in the Underground Economy.

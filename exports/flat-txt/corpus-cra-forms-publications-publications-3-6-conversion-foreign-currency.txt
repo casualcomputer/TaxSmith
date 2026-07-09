@@ -1,0 +1,183 @@
+Title: Conversion of Foreign Currency
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-6/conversion-foreign-currency.html
+Corpus path: corpus/cra/forms-publications/publications/3-6/conversion-foreign-currency.md
+Document type: publication
+Last modified: 2019-04-15
+
+# Conversion of Foreign Currency
+
+GST/HST Memorandum 3-6 July 2018
+
+This publication cancels and replaces the following publications: GST Memorandum 300-7-10, Foreign Currency, dated March 15, 1994, and GST/HST Policy Statement P-222, Acceptable Exchange Rate Sources for Converting the Value of Consideration Expressed in Foreign Currency to a Value in Canadian Currency for Purposes of Section 159 of the Excise Tax Act.
+
+This memorandum explains how the value of consideration for a supply is to be converted into Canadian currency for GST/HST purposes where the consideration is expressed in foreign currency.
+
+All legislative references in this publication are to the Excise Tax Act unless otherwise specified. The information in this publication does not replace the law found in the Act and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the Act or relevant regulation, or call GST/HST Rulings at 1-800-959-8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html) explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1-800-567-4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1-855-666-5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia, and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, see [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [General rule](#_Toc501373028)
+
+- [When GST/HST is Payable](#_Toc501373029)
+
+- [Alternative days for conversion of foreign currency](#_Toc501373030)
+
+    - [Day consideration is paid](#_Toc501373031)
+
+    - [Day foreign currency acquired](#_Toc501373032)
+
+    - [Average exchange rate for the month in which the tax becomes payable in respect of the supply](#_Toc501373033)
+
+- [Acceptable exchange rate sources](#_Toc501373034)
+
+- [Administration](#_Toc501373035)
+
+## General rule
+
+1. Under section 159, where the consideration for a supply is expressed in a foreign currency, the value of the consideration shall, for GST/HST purposes, be calculated based on the value of that foreign currency in Canadian currency on:
+
+- the day the GST/HST is payable; or
+
+- such other day as is acceptable to the Minister.
+
+## When GST/HST is Payable
+
+2. Generally, under subsection168(1), the GST/HST is payable by the recipient of a taxable supply on the earlier of the day the consideration for the supply is paid and the day the consideration for the supply becomes due.
+
+3. Under subsection 152(1), the consideration, or a part thereof, for a taxable supply is deemed to become due on the earliest of:
+
+- the earlier of the day the supplier first issues an invoice in respect of the supply for that consideration or part and the date of that invoice;
+
+- the day the supplier would have, but for an undue delay, issued an invoice in respect of the supply for that consideration or part; and
+
+- the day the recipient is required to pay that consideration or part pursuant to an agreement in writing.
+
+4. For additional information about when the GST/HST becomes due, refer to [GST Memorandum 300-6, Time of Liability](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/g300-6.html).
+
+## Alternative days for conversion of foreign currency
+
+5. The following days are acceptable to the Minister for converting the value of the consideration for a supply into Canadian currency from a foreign currency:
+
+- the day the consideration for the supply is paid
+
+- the day the foreign currency is acquired
+
+6. An average rate of exchange for the month in which the tax becomes payable can also be used.
+
+7. Where a registrant uses a particular day for the conversion of foreign currency, as per paragraph 5 above, the registrant is to use the particular day consistently and for a reasonable period of time, such as one year.
+
+8. A registrant with separate business lines may use different days for the conversion of foreign currency for the different business lines where circumstances merit such treatment with the approval of the Minister.
+
+9. If the method chosen to convert foreign currency into Canadian currency results in the date of conversion occurring on a weekend or a holiday, the rate of exchange for the previous business day should be used.
+
+### Day consideration is paid
+
+10. The value of the consideration in equivalent Canadian currency may be calculated on the day the payment in respect of a supply is paid to the supplier.
+
+A registrant made a taxable supply in Ontario that was subject to the HST at a rate of 13% and issued an invoice for $1,000 US on September 11, 2017. The payment of the amount invoiced was made in US dollars and received by the registrant on October 19, 2017. On the invoice date of September 11, 2017, the exchange rate was: $1 US dollar = $1.2478 Canadian dollars. On October 19, 2017, which was the payment date, the exchange rate was: $1 US dollar = $1.2128 Canadian dollars.
+
+For GST/HST purposes, the consideration for the supply may be converted from US dollars into Canadian dollars using the exchange rate in effect on October 19, 2017, the day that the consideration for the supply was paid.
+
+Consideration for the supply in Canadian dollars is $1212.80 (applying the October 19, 2017 exchange rate of 1.2128). HST for the transaction equals $157.66 ($1212.80 × 13%).
+
+The registrant is required to account for HST of $157.66 Canadian dollars as HST collectible/collected in its net tax for this transaction. This method of foreign currency conversion must be used consistently by the registrant for a reasonable period of time, such as one year.
+
+### Day foreign currency acquired
+
+11. The value of the consideration may be converted from foreign currency to the equivalent Canadian currency using the exchange rate in effect on the day the foreign currency was acquired.
+
+On April 12, 2017, a non-resident GST/HST registrant based in the United States invoiced a Canadian GST/HST registered recipient of a supply for $1,000 US, for a taxable supply made in Alberta that was subject to the GST at a rate of 5%. The recipient received the invoice and purchased a money order for $1,000 US on June 16, 2017.
+
+For the purpose of calculating the tax payable in respect of the supply, the recipient used the exchange rate in effect on June 16, 2017 ($1 US dollar = $1.3232 Canadian dollars) to determine the value of the consideration in Canadian dollars and calculated the GST payable as $66.16 Canadian dollars ([$1,000 US × 1.3232] × 5%). This method of foreign currency conversion must be used consistently by the recipient for a reasonable period of time, such as one year.
+
+### Average exchange rate for the month in which the tax becomes payable in respect of the supply
+
+12. The value of the consideration in equivalent Canadian currency may be calculated using the average rate of exchange for the month in which the tax becomes payable.
+
+In June 2017, two taxable supplies were made in Nova Scotia to one GST/HST registered recipient. The supplies were subject to the HST at a rate of 15%. The consideration for one supply was $50 and the other $100. A single invoice was issued on July 20, 2017 for both supplies. The invoice was in US dollars.
+
+The recipient used the average exchange rate for the month of July obtained from the Bank of Canada ($1 US dollar = $1.2605 Canadian dollars) to determine the value of consideration in Canadian dollars for purposes of determining the tax payable in respect of the supply and calculated the HST payable as $28.36 Canadian dollars ([$150.00 × 1.2605] × 15%). This method of foreign currency conversion must be used consistently by the recipient for a reasonable period of time, such as one year.
+
+## Acceptable exchange rate sources
+
+13. To convert foreign currency into Canadian currency for GST/HST purposes, a person may use the exchange rate from:
+
+- the source used for an actual conversion (that is, the source where the foreign currency was exchanged for Canadian dollars)
+
+- the source the person typically uses for actual conversions
+
+- a Canadian chartered bank
+
+- the Bank of Canada
+
+- the rate provided by the Canada Border Service Agency (CBSA) for purposes of converting the value for duty of imported goods (for additional information, refer to CBSA [Memorandum D13-2-3, Exchange Rate for the Calculation of the Value for Duty under the Customs Act](http://www.cbsa-asfc.gc.ca/publications/dm-md/d13/d13-2-3-eng.html))
+
+14. The use of a particular exchange rate source must be supported with appropriate documentation.
+
+15. When an exchange rate source other than the source used for an actual transaction is selected, that source must be used consistently and for a reasonable period of time, such as one year.
+
+A non-resident company situated in the United States is registered for the GST/HST. The company operates internationally and sometimes does business in foreign currencies (non-US currencies), including Canadian currency. The company regularly uses the services of a local American bank to exchange US currency for foreign currencies and vice versa.
+
+Since the company regularly uses the local bank to exchange currencies, the local bank is an acceptable exchange rate source for converting foreign currency into Canadian currency for GST/HST purposes. This method of foreign currency conversion must be used consistently by the registrant for a reasonable period of time, such as one year.
+
+### Example 5
+
+A Canadian company is registered for the GST/HST. The company operates internationally and sometimes does business in foreign currency.
+
+The company converts foreign currency with a Canadian chartered bank. The company also subscribes to a database service that tracks and reports currency exchange rates, including rates on the interbank market, rates set by the Bank of Canada, and average rates offered by Canadian chartered banks. The database service does not actually buy and sell currency.
+
+The database service is not an acceptable source of exchange rates for GST/HST purposes. The rates provided do not reflect the actual exchange rate used by the company and are not one of the acceptable sources to be used when an actual rate is not chosen.
+
+## Administration
+
+16. If a premium is paid to obtain foreign currency for a particular foreign-currency‑denominated transaction, any additional costs associated with obtaining the foreign currency must be included when converting the foreign currency into Canadian currency.
+
+A Canadian company is registered for the GST/HST. The company entered into a contract to purchase equipment from a foreign supplier for delivery in Canada in six months. The terms of payment were expressed in foreign currency, and payment was due upon delivery.
+
+To minimize exposure to currency fluctuations, the company signed a foreign exchange contract with a local financial institution that is not a Canadian chartered bank. The contract enabled the company to buy the relevant foreign currency at a guaranteed exchange rate plus a premium.
+
+Since the company actually used the financial institution to convert Canadian currency into foreign currency to pay for the equipment purchase, the financial institution is an acceptable exchange rate source for this particular transaction.
+
+Note that, any premium charged by a financial institution for the conversion of a foreign currency into Canadian currency must be included for GST/HST purposes.
+
+17. Any method used to convert the value of consideration in foreign currency into Canadian currency, other than the use of the exchange rate in effect on the day the tax becomes payable and the methods listed in this memorandum, must be approved by the Minister prior to its application. Requests can be addressed to:
+
+Excise and GST/HST Rulings Directorate Canada Revenue Agency 320 Queen Street, Tower A, 11th floor Ottawa ON K1A 0L5
+
+18. Suppliers may invoice in foreign currency and recipients may make payments to suppliers in foreign currency. However, foreign currency must be converted into Canadian currency using an approved method in order to determine the amount of tax for GST/HST reporting purposes.
+
+19. The supplier and the recipient of the supply are not required to use the same method of conversion to determine the value of the consideration in Canadian currency.
+
+20. Although the examples in this memorandum use US dollars, these methods are applicable for converting any foreign currency for GST/HST purposes.
+
+21. Whatever method of conversion is used, sufficient documentary evidence must be maintained with respect to the exchange rate in effect on the date of conversion. Suppliers must also maintain sufficient documentation and books and records to support whatever method is used. The books and records are required to be in an appropriate form and must contain sufficient information to allow for the determination of the amount of GST/HST to be paid, collected, deducted, or refunded.
+
+22. For further information on the requirements to retain books and records, refer to [GST/HST Memorandum 15-1, General Requirements for Books and Records](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/15-1.html), and [GST/HST Memorandum 15-2, Computerized Records](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/15-2.html).
+
+## Further information
+
+All **GST/HST technical publications** are available at [Technical information – GST/HST](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries,**call Business Enquiries at 1-800-959-5525;
+
+- for **GST/HST technical enquiries,**call GST/HST Rulings at 1-800-959-8287.
+
+If you are located in**Quebec**, call**Revenu Québec**at **1-800-567-4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST - Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or
+
+- for**general GST/HST**or**QST enquiries**, call**Business Enquiries**at**1-800-959-5525;**
+
+- for**technical GST/HST**or**QST enquiries**, call**GST/HST Rulings SLFI**at**1-855-666-5166.**

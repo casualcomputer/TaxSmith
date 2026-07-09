@@ -1,0 +1,328 @@
+---
+title: "ARCHIVED - Benefits to Employees - Stock Options"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it113r4/archived-benefits-employees-stock-options.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Benefits to Employees - Stock Options
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-113R4**
+
+DATE: August 7, 1996
+
+SUBJECT: INCOME TAX ACT**Benefits to Employees - Stock Options**
+
+REFERENCE: Section 7 (also subsections 2(3), 5(1), 8(12), 110(1.5), 115(1) and the definition of "Canadian-controlled private corporation" in subsection 125(7), paragraphs 6(1)(a), 53(1)(j) and 110(1)(d) and (d.1), and subparagraph 128.1(4)(b)(vi) of the Income Tax Act; and section 6204 of the Income Tax Regulations.)
+
+INTERPRETATION BULLETIN
+
+Application This bulletin cancels and replaces Interpretation Bulletin IT-113R3, dated November 30, 1987.
+
+Summary This bulletin discusses the rules in the Act relating to the taxation of employment-related stock options (stock options). Stock options, as discussed in this bulletin, refer to certain rights that a corporation may grant to its employees or to the employees of a non-arm's length corporation that allows the employee to acquire shares of either of those corporations. The rules in the Act relating to stock options are intended to encourage greater employee involvement in the granting corporation and to allow corporations to offer their employees financial incentives in lieu of higher salaries.
+
+Benefits from a stock option are generally included in the individual's employment income in the year in which he or she sells or exercises the option. However, where the corporation that issued the stock option is a Canadian-controlled private corporation, the individual does not have to include the benefit in income until he or she disposes of the shares which were acquired with the stock option.
+
+In certain circumstances, the individual is permitted a deduction, in the year that the stock option benefit is included in income, equal to 1/4 of the stock option benefit.
+
+The subject matter of this bulletin is arranged under the following headings:
+
+Taxable benefit under subsection 7(1) paragraphs 1, 2 Individual ceases to be employee paragraph 3 When section 7 does not apply paragraph 4 Paragraphs 7(1)(c), (d), and (e) paragraph 5 Agreement to sell or issue shares paragraphs 6 - 12 Employee stock options of a Canadian-controlled private corporation paragraphs 13, 14 Exchange of options or shares paragraphs 15 - 17 Deduction under paragraph 110(1)(d) paragraph 18 Deduction under paragraph 110(1)(d.1) paragraph 19 General comments paragraphs 20, 21 Non-residents paragraph 22 Shares held by trustee paragraph 23 Convertible preferred shares paragraph 24
+
+Discussion and Interpretation
+
+Taxable benefit under subsection 7(1)
+
+1. Subject to subsection 7(1.1) (see 13 below), subsection 7(1) applies when a particular corporation, or a trustee acting under its direction, has agreed to sell or issue shares of that corporation or shares of another corporation with which it does not deal at arm's length to an employee of either the particular corporation or of any corporation with which it does not deal at arm's length.
+
+Except where subsection 7(1.1) applies (see 13 below), an employee who exercises a stock option and acquires shares is generally required to include in employment income, in the taxation year in which the shares are acquired, a benefit equal to:
+
+- the fair market value of the shares at the time the shares are acquired by the employee
+
+- any amount paid or payable by the employee to the corporation for the shares, and
+
+- any amount paid by the employee to acquire the right to acquire the shares.
+
+An employee who transfers or otherwise disposes of rights under a stock option agreement will usually be required to include the proceeds from the disposition minus any amount paid by the employee to acquire those rights, in employment income in the year of disposition.
+
+2. Receipt by an employee of a stock option does not, in itself, give rise to income in the hands of the employee. Having obtained such a right, the employee will be considered to receive income from employment only when one of the events described in paragraphs 7(1)(a), (b), (c), (d), or (e) occurs. Paragraphs 7(1)(c) and (d) will only apply to include an amount in the income of the employee when the employee is alive. Otherwise the income will be included in the income of the person to whom the option was transferred.
+
+Individual ceases to be employee
+
+3. Pursuant to subsection 7(4), if a person was an employee at the time of receiving a right to acquire shares but subsequently ceased to be an employee at a time prior to the exercise or transfer of that right when the value of any benefit is determined, section 7 will nevertheless apply in determining the benefit to that person.
+
+When section 7 does not apply
+
+4. Section 7 is not applicable if:
+
+- the benefit conferred by the stock option agreement was not received by reason of the employee's employment; or
+
+- an individual (other than a trustee acting under the direction of a corporation) who owns shares of a corporation agrees to sell those shares to an employee of that corporation, even if that individual is an officer or employee of that corporation (referred to as "the employer corporation" in this bulletin) or of another corporation with which the employer corporation does not deal at arm's length.
+
+However, if an employee profit sharing plan is structured as a profit sharing plan but its purpose is the purchase or sale of treasury shares of the employer or of a corporation with which the employer does not deal at arm's length, section 7 will apply to any of the employer's contributions to the plan that can reasonably be considered to have been used to purchase the treasury shares.
+
+Paragraphs 7(1)(c), (d) and (e)
+
+5. Paragraph 7(1)(c) applies when rights of an employee under a stock option agreement become vested in a non-arm's length transferee who has acquired shares under the agreement. The amount of the benefit, if any, is the difference between the fair market value of the shares at the time they are acquired by the non-arm's length transferee and the total of the amount paid or payable by that person to the corporation for the shares plus any amount paid by the employee to acquire those rights. However, if the employee was deceased at the time the shares are acquired by the non-arm's length transferee, any benefit is deemed to be employment income of the non-arm's length transferee for the year the shares are acquired by the non-arm's length transferee. Paragraph 7(1)(c) applies to a non-resident transferee if the employee had performed his or her duties primarily in Canada.
+
+A similar deemed benefit rule applies under paragraph 7(1)(d). If rights of an employee under a stock option agreement become vested in a person with whom the employee is not dealing at arm's length, and that person (the non-arm's length transferee) subsequently transfers or disposes of the rights to another person (the arm's-length transferee) in an arm's length transaction, paragraph 7(1)(d) may require an amount to be included in the employee's employment income in the year of the disposition. The amount of the benefit, if any, is:
+
+- the fair market value of the consideration received by the non- arm's length transferee for the rights
+
+Minus:
+
+- any amount paid by the employee for those rights. However, if the employee was deceased at the time the rights are acquired by the arm's length transferee, any benefit is deemed to be employment income of the non-arm's length transferee for the year the rights were disposed of by the non-arm's length transferee. This rule also applies to a non-resident where he or she is the non-arm's length transferee if the employee had performed his or her duties primarily in Canada.
+
+If an employee owns unexercised rights under a stock option agreement immediately before death, paragraph 7(1)(e) provides that a benefit, equal to the fair market value of the rights immediately after death less any amount paid by the employee to acquire the rights, is deemed to be received as employment income by the employee for the taxation year in which the employee died. Paragraphs 7(1)(b), (c), and (d) do not apply if paragraph 7(1)(e) applies.
+
+Agreement to sell or issue shares
+
+6. An agreement to sell or issue shares of the capital stock of an employer corporation or of a corporation with which it does not deal at arm's length, as contemplated by subsection 7(1), is referred to in this bulletin as a "stock option agreement." The word "issue" means to deliver unissued shares of a corporation, including to deliver unissued shares for no monetary consideration. Therefore, section 7 applies when an employer corporation agrees to sell or issue, to an employee of the corporation or of a corporation with which it does not deal at arm's length, its own shares, or to sell or have issued those of a corporation with which it does not deal at arm's length, at less than fair market value or for no monetary consideration.
+
+If, under the terms of the agreement, the employer and employee have not contemplated the issuance of shares and the cash payment by the employer is a means of compensating the employee through a "phantom" stock plan, section 7 would not apply since the employer has not "agreed to sell or issue shares" as stipulated in that provision. In general, a phantom stock plan is a deferred bonus arrangement in which units (which may correspond to the value of shares of the employer corporation's shares) are created and given to employees. The units vest in the employees after a certain period and payment is made at or after the time of vesting based on the employee's number of accumulated units; however, there is no actual share ownership by the employee.
+
+7. Section 7 applies where a corporate employer issues shares to an employee as a salary bonus or under a stock bonus plan. Section 7 could also apply to a stock bonus plan where shares are not "issued" by a corporation but the plan still constitutes an agreement to sell or issue shares, as contemplated by section 7.
+
+8. When a benefit is deemed by subsection 7(1) to have been conferred on an employee by the sale or issue of shares, paragraph 7(3)(b) provides that no corporation is entitled to claim the amount of the benefit as a deduction in computing its income. However, a corporation may be able to claim a deduction in certain circumstances described in paragraph 11 below.
+
+9. If an employee acquires shares pursuant to a stock option agreement, the provisions of which prohibit transfer of the shares for a period of time, the employee is considered to have "acquired" the shares within the meaning of section 7. The value of the shares is considered to be the fair market value of identical shares at the time of acquisition that have no trading restriction less an appropriate discount in respect of the restriction.
+
+10. An employee who exercises a stock option and enters into an agreement to pay for the shares over an extended period may or may not acquire the shares within the meaning of paragraph 7(1)(a) at the time the option is exercised. The date of acquisition of the shares in these circumstances is a question of fact. Generally, acquisition will be considered to have taken place when title passes or, if title remains with the vendor as security for the unpaid balance, when all the incidents of title (such as possession, use, and risk) pass (see the current version of IT-170, Sale of Property - When Included in Income Computation).
+
+11. A key factor in determining which provision in the Act applies to a benefit received by an employee under a stock option agreement is whether the employee or employer elects to make or receive a cash payment in lieu of shares under the agreement.
+
+Where, under a stock option agreement, an employer elects to pay cash in lieu of issuing shares, subsection 7(1) does not apply and the amount of cash received by the employee is taxable under either subsection 5(1) or paragraph 6(1)(a) in the year the payment is received. In such cases, the employee is not entitled to a deduction under paragraph 110(1)(d) and paragraph 7(3)(b) does not apply to deny the employer a deduction for the payment because no shares would have been sold or issued under the stock option agreement to the employee or to a person in whom the employee's rights under the agreement have become vested.
+
+Where it is the employee who has the right to choose cash instead of shares, paragraph 7(1)(b) will apply, in respect of the cash received by the employee in satisfaction of the employee's rights under the plan. The employee may be entitled to a deduction under paragraph 110(1)(d), provided the conditions in that provision are met. In this case, paragraph 7(3)(b) does not apply to deny the employer a deduction.
+
+12. Section 7 applies only if the right to acquire shares, as conferred by the agreement, is received in respect of, in the course of or by virtue of employment. Pursuant to the definitions of "employee" and "office" in subsection 248(1), corporate directors are considered to be employees.
+
+When stock options are received by an employee who is also a shareholder, it is necessary to determine if the stock option was granted to the individual in his or her capacity as shareholder or employee. It is a question of fact whether a shareholder/employee receives a benefit by reason of employment or in the capacity of shareholder. The acquisition of shares of the employer corporation or those of a corporation with which the corporation does not deal at arm's length, by the employee at less than the fair market value of the shares pursuant to a stock option agreement would not normally be subject to section 7 if the employee was already an existing shareholder and the stock option was granted to all shareholders, including those who are not employees.
+
+Employee stock options of a Canadian-controlled private corporation
+
+13. Subsection 7(1.1) modifies the timing of the income inclusion under paragraph 7(1)(a) where a "Canadian-controlled private corporation (CCPC)," as defined in subsection 125(7), agrees to sell or issue shares of the capital stock of either:
+
+- the corporation; or
+
+- a CCPC with which it does not deal at arm's length,
+
+to an employee of the corporation or of a CCPC with which it does not deal at arm's length and, at the time that is immediately after the agreement was made, the employee was dealing at arm's length with:
+
+- the corporation;
+
+- the CCPC, the share of the capital stock of which was agreed to be sold by the corporation; and
+
+- the CCPC by which the employee is employed.
+
+If a share is acquired after May 22, 1985, by an employee and subsection 7(1.1) is applicable, the benefit, if any, under paragraph 7(1)(a) will not be included in the employee's income until the year in which the employee disposes of or exchanges the share. Any gain accruing on the share after it is acquired by the employee is subject to the capital gains rules.
+
+However, as explained in 19 below, the employee may then be entitled to a deduction in computing taxable income. Also, see 21 below for an addition to the adjusted cost base of the share to determine the capital gain or loss on the share.
+
+If an employee acquired a share before May 23, 1985, and subsection 7(1.1) is applicable, the benefit under paragraph 7(1)(a) is not required to be included in the employee's income at all unless the employee disposed of the share within two years from the date of its acquisition, and the disposal occurred otherwise than as a consequence of the employee's death.
+
+14. If a corporation is a CCPC at the time of its agreement to sell or issue shares, as described in 13 above, subsection 7(1.1) will apply even though the corporation has ceased to be a CCPC prior to the issuance of the shares pursuant to the agreement. Subsection 7(1.1) will also apply where the employer CCPC had agreed to issue shares of a CCPC with which it does not deal at arm's length but that non-arm's length CCPC ceases to be a CCPC before the issuance of the shares to the employee.
+
+Exchange of options or shares
+
+15. Under paragraph 7(1)(b), an employee is deemed to have received a benefit from employment in the taxation year if he or she has transferred or disposed of rights under a stock option agreement to a person with whom the employee was dealing at arm's length and if the proceeds from the disposition exceed the amount paid by the employee for those rights. However, subsection 7(1.4) provides an exception to this rule if there is an exchange of options by the taxpayer (for example, by reason of a corporate reorganization or capital restructuring) and no economic advantage is derived by the taxpayer as a result of the exchange. In order for subsection 7(1.4) to apply, all of the following conditions have to be met:
+
+(a) the taxpayer disposes of rights under a stock option agreement, described in subsection 7(1) or (1.1), to acquire shares of the employer corporation or of a corporation with which the employer corporation does not deal with at arm's length;
+
+(b) the taxpayer receives no consideration in exchange for the old rights other than new rights under the new stock option agreement with one of the following corporations to acquire shares of one of the following corporations:
+
+(i) the employer corporation,
+
+(ii) a corporation with which the employer corporation does not deal at arm's length immediately after the disposition of the old rights,
+
+(iii) the newly amalgamated or merged corporation formed by the employer corporation and one or more other corporations, or
+
+(iv) a corporation with which the newly amalgamated or merged corporation does not deal at arm's length immediately after the disposition of the old rights; and
+
+(c) the fair market value of the new shares immediately after the disposition of the old rights minus the amount payable by the taxpayer under the new stock option agreement to acquire the new shares does not exceed the fair market value of the old shares immediately before the disposition minus any amount payable by the taxpayer to acquire the old shares under the old stock option agreement.
+
+If the conditions described above are met:
+
+- the taxpayer is deemed not to have disposed of the old stock option and not to have acquired the new stock option;
+
+- the new stock option is deemed to be the same as and a continuation of the old stock option; and
+
+- the corporation, referred to in (b)(ii), (iii), or (iv) above, is deemed to be the same corporation as and a continuation of the employer corporation.
+
+Subsection 7(1.4) applies for the purposes of the paragraph 110(1)(d) deduction.
+
+16. Subject to the comments in 15 above, any fundamental change in an employee stock option agreement is considered to constitute the creation of a new stock option agreement and thus causes a disposition of the employee's rights under the old stock option. This may result in a benefit to be included in the employee's employment income pursuant to paragraph 7(1)(b).
+
+17. Subsection 7(1.5) provides that the provisions of paragraph 7(1)(a) and 110(1)(d) will not apply to the disposition of shares of a CCPC to which the provisions of subsection 7(1.1) apply where the shares are exchanged for new shares. Subsection 7(1.5) applies when the following conditions are met:
+
+(a) the taxpayer disposes of or exchanges shares of a Canadian corporation that were acquired under a stock option agreement described in subsection 7(1.1);
+
+(b) the taxpayer receives no consideration for the disposition or exchange of the old shares other than new shares from:
+
+(i) the employer corporation,
+
+(ii) a corporation with which the employer corporation does not deal at arm's length immediately after the disposition or exchange of the old shares,
+
+(iii) the newly amalgamated or merged corporation, or
+
+(iv) a corporation with which the newly amalgamated or merged corporation does not deal at arm's length immediately after the disposition or exchange of the old shares; and
+
+(c) the fair market value of the new shares immediately after the disposition or exchange is not more than the fair market value of the old shares immediately before the disposition or exchange.
+
+If the conditions described above are met:
+
+- the taxpayer is deemed not to have disposed of or exchanged the old shares and not to have acquired the new shares;
+
+- the new shares are deemed to be the same as and a continuation of the old shares, and the new shares are deemed to have been issued under the same stock option agreement, if any, as the old shares; and
+
+- the corporation that issued the new shares is deemed to be the same corporation as and a continuation of the corporation that issued the old shares.
+
+Deduction under paragraph 110(1)(d)
+
+18. If an employee has been granted a stock option by a corporation and has acquired shares thereunder, the benefit, if any, which the employee is, by virtue of subsection 7(1), deemed to have received must be included in the employee's income for the taxation year in which the shares were acquired, or in the taxation year in which they are disposed of if subsection 7(1.1) applies.
+
+Under paragraph 110(1)(d), the taxpayer may, in computing taxable income for that taxation year, deduct one-quarter of the amount of the subsection 7(1) benefit if the following conditions are met:
+
+(a) the employer corporation or a corporation not dealing at arm's length with the employer corporation is the corporation agreeing to sell or issue the shares;
+
+(b) the shares issued or sold are prescribed shares, as described in section 6204 of the Regulations, at the time of their issue or sale;
+
+(c) the amount payable by the taxpayer to acquire the shares under the stock option agreement is not less than the excess of the fair market value of the shares at the time the stock option agreement was made over any amount paid by the taxpayer to acquire the rights, and
+
+(d) immediately after the stock option is granted, and where the option was acquired by the taxpayer as a result of one or more dispositions to which subsection 7(1.4) applied, the taxpayer is dealing at arm's length with the corporations involved, (i.e. the corporation that agreed to sell or issue the shares, the corporation in respect of whose shares the agreement was made and the employer corporation).
+
+With respect to (c) above, the amount payable by the employee to acquire the shares under the stock option agreement is determined without taking into account any foreign currency exchange gains or losses occurring in the period between the time the option is granted and the time the option is exercised so that fluctuations in foreign currency do not affect an employee's eligibility for the paragraph 110(1)(d) deduction. However, in determining the fair market value of shares for the purpose of applying paragraph 110(1)(d), certain changes in share structures, such as stock splits and stock dividends that occur after the stock option is granted, are taken into account, pursuant to subsection 110(1.5).
+
+If subsection 7(1.4) applies (see 15 above) in respect of a new option acquired on an exchange, the fair market value test in (c) above is considered to be met for that option where the exercise price under the original option was no less than the fair market value of the shares when the original option was granted minus any amount paid by the employee to acquire the rights under the original option. In other words, a taxpayer would not be precluded from a deduction under paragraph 110(1)(d) solely because there was an increase in the fair market value of the shares between the time at which the original option was granted and the time of the capital restructuring or corporate reorganization. In addition, if subsection 7(1.4) applies to an exchange under which rights are acquired, the taxpayer has to be dealing at arm's length with the corporations involved (see (d) above) when the original stock option was granted and at the time immediately after each exchange. Paragraph 110(1)(d) will apply on the disposition of a stock option itself provided that:
+
+- the stock option meets the requirements set out in (a), (c), and (d) above; and
+
+- the shares would have been prescribed shares, as described in section 6204 of the Regulations, if they had been issued or sold to the taxpayer at the time of the disposition of the stock option.
+
+Deduction under paragraph 110(1)(d.1)
+
+19. If a taxpayer:
+
+(a) has been granted a stock option by a CCPC in circumstances such that subsection 7(1.1) applies (see 13 above),
+
+(b) has acquired a share pursuant to that stock option,
+
+(c) has disposed of or exchanged that share, and
+
+(d) is, by virtue of subsection 7(1.1), deemed under subsection 7(1), to have received a benefit which was included in the taxpayer's income for the taxation year in which the share was disposed of or exchanged,
+
+the taxpayer may, in computing taxable income for the taxation year referred to in (d) above, deduct an amount under paragraph 110(1)(d.1) equal to one-quarter of the benefit provided that:
+
+(e) the share was not disposed of or exchanged, other than as a consequence of the taxpayer's death, within two years after the date that the taxpayer acquired it, and
+
+(f) no amount has been deducted under paragraph 110(1)(d) in respect of the benefit in computing the taxpayer's taxable income for the year.
+
+If the shares are disposed of within the two-year period referred to in (e) above, a deduction under paragraph 110(1)(d.1) is not available to the taxpayer. For the purpose of the paragraph 110(1)(d.1) deduction, the shares do not have to be prescribed shares as set out in section 6204 of the Regulations.
+
+If a deduction is not available under paragraph 110(1)(d.1), a deduction may still be available under paragraph 110(1)(d), if the conditions of the latter provision are met (see 18 above).
+
+General comments
+
+20. In determining the adjusted cost base of shares acquired under a stock option agreement, the amount of any benefit included in computing income under section 7 in respect of the acquisition of the shares is added, under paragraph 53(1)(j), to the price actually paid by the employee for the shares to determine their adjusted cost base for the purpose of computing any capital gain or loss on the disposition of the shares. This addition to the adjusted cost base of the shares is made even where a deduction is taken by the employee pursuant to the provisions of paragraph 110(1)(d) or (d.1).
+
+21. Commissions, brokerage fees or transfer taxes that would be payable on a disposition of shares are not taken into account in measuring the amount of any benefit under section 7 but they do, of course, enter into the calculation of the capital gain or loss, as the case may be, on the actual disposition of the shares by the employee.
+
+Non-residents
+
+22. In the situation where an individual who is a Canadian resident is granted a stock option by virtue of his or her employment in Canada with the employer corporation, and then the individual ceases to be a resident of Canada, the following applies:
+
+(a) Pursuant to subparagraph 128.1(4)(b)(vi), the individual is not deemed to have disposed of his or her rights under a stock option at the time the individual becomes a non-resident and therefore section 7 does not apply to any unexercised options at that time.
+
+(b) As a non-resident, the individual is taxable in Canada under subsection 2(3) as determined under subparagraph 115(1)(a)(i) (income from employment) in respect of any benefit received when the stock option is exercised, because the employment for which the stock option was granted was performed in Canada.
+
+With respect to (b) above, the non-resident individual may be entitled to relief from Canadian income taxation under a relevant tax convention between Canada and the individual's country of residence at the time the stock option is exercised. In addition, a non-resident filing a return under subsection 115(1) may be entitled to a deduction under paragraph 110(1)(d) or (d.1) in computing taxable income.
+
+Shares held by trustee
+
+23. A stock option agreement may provide for shares to be held in trust, whether absolutely, conditionally, or contingently, for an employee until certain conditions are met by the employee. The employee is deemed by subsection 7(2), for the purposes of that provision and paragraphs 110(1)(d) and (d.1), to acquire the shares at the time the trust commences to hold the shares for the employee, and accordingly, a benefit to the employee may arise under subsection 7(1) at that time. If the employee does not meet the conditions under the agreement and the shares held by the trust do not vest in the employee, the stock option agreement may require that the shares be returned to the corporation by the trustee and subsection 8(12) may apply. If all the requirements of subsection 8(12) are met, the employee may be entitled to deduct, for the taxation year, from his or her employment income, an amount equal to:
+
+- the subsection 7(1) deemed benefit for the employee for the taxation year or a prior taxation year in respect of those shares
+
+Minus
+
+- any amounts deducted by the employee under paragraphs 110(1)(d) or (d.1) for the taxation year or a prior taxation year in respect of those shares.
+
+Any of the employee's gain or loss from the disposition of the shares is deemed to be nil. Section 84 does not apply to deem a dividend to have been received in respect of the disposition of the shares.
+
+Convertible preferred shares
+
+24. Convertible preferred shares are preferred shares of a corporation that are convertible to common shares of the corporation. Convertible preferred shares include forward participating shares. Forward participating shares are generally those shares of a separate class of a corporation that are purchased by the individual for fair market value consideration. The forward participating shares derive most of their value from their convertibility into common shares of the corporation.
+
+If an employee has acquired, under an employee compensation plan, convertible preferred shares of the employer corporation or of a corporation with which the employer corporation does not deal at arm's length, section 7 applies when the preferred shares are sold or converted to common shares. An employment benefit may arise under subsection 7(1) if the employee exercises the conversion option of the preferred shares to acquire the common shares and the fair market value of the common shares on that date exceeds any amount paid by the employee to acquire the preferred shares. Subsection 7(1) would also apply if the employee sells the preferred shares and the proceeds from the disposition of the preferred shares exceed any amount paid by the employee for the shares. Subsection 7(1) does not apply to the conversion or sale of convertible preferred shares, other than forward
+
+participating shares, if the shares were issued before December 1, 1994, as part of an employee compensation package that was in place by August 31, 1994.
+
+If you have any comments about matters discussed in this bulletin, please send them to:
+
+Director, Business and Publications Division Income Tax Rulings and Interpretations Directorate Policy and Legislation Branch Revenue Canada 25 Nicholas Street Ottawa ON K1A 0L8
+
+------------------------------------------
+
+## EXPLANATION OF CHANGES FOR INTERPRETATION BULLETIN IT-113R4 BENEFITS TO EMPLOYEES - STOCK OPTION
+
+Introduction
+
+The purpose of the Explanation of Changes is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+Overview Interpretation bulletin IT-113R4 deals with the rules for determining the benefit derived from exercising or disposing of an employment- related stock option agreement and the deduction allowed under paragraph 110(1)(d), in computing taxable income, if certain conditions are met, of one-quarter of the stock option benefit included in calculating income from employment if an employee exercises or disposes of a prescribed share or related stock option. The deduction allowed under paragraph 110(1)(d.1) with respect to employee stock options of an employer Canadian-controlled private corporation, or of a Canadian- controlled private corporation with which it does not deal at arm's length, is also discussed.
+
+The revisions to IT-113R3 dated November 30, 1987, were undertaken to reflect amendments to the Income Tax Act by S.C. 1994, c. 7, Sch. II (1991, c. 49 - formerly Bill C-18), by S.C. 1994, c. 21 (formerly Bill C-27), and by S.C. 1988, c.55 (formerly Bill C-139).
+
+The contents of this bulletin are not affected by any draft legislation released before July 4, 1996.
+
+Legislative and Other Changes
+
+No. 1 (replaces former No. 1) provides general comments on the taxable benefit under section 7 to an employee under an employment-related stock option plan and incorporates some of the comments from the former Summary area. No. 1 reflects the amendment to paragraph 7(1)(a), after 1987, which recognizes that the amount of the benefit otherwise calculated under this provision is to be reduced by any amount paid by the employee to acquire the right to acquire the shares under the stock option agreement in addition to any amount paid or payable by the employee for the shares.
+
+No. 2 (replaces former No. 4), which deals with the taxable benefit to an employee arising under an employment-related stock option, is changed to reflect the addition of paragraph 7(1)(e), applicable to deaths occurring after July 13, 1990.
+
+No.'s 3 and 4 incorporate comments from former No. 1.
+
+No. 5 provides a brief explanation of paragraphs 7(1)(c), (d), and (e). The discussion of paragraphs 7(1)(c), (d), and (e) reflect the amendments to those provisions, after 1987, which recognizes that the amount of the benefit otherwise calculated under those respective provisions is to be reduced by any amount paid or payable by the employee for the shares or the right to acquire the shares, as the case may be. In addition, No. 5 reflects the addition of paragraph 7(1)(e), relating to the taxable benefit to an employee who holds unexercised stock options under an employment-related stock option plan at the time of death, applicable to deaths occurring after July 13, 1990.
+
+No. 6 (replaces former No. 2), which discusses the meaning of "agreement to sell or issue shares," is expanded to briefly explain whether section 7 applies to benefits paid to an employee under an employment-related "phantom" stock plan.
+
+No. 7 (replaces former No. 3) clarifies the Department's position regarding a stock bonus plan where shares are not issued by the employer corporation.
+
+No. 11 (replaces former No. 8) is expanded to explain the taxation of benefits where the employee has the option to choose a cash payment in lieu of shares under a stock option agreement.
+
+No. 12 (replaces former No. 9) clarifies whether section 7 applies if the employee is also a shareholder of the employer corporation.
+
+No. 13 (replaces former No. 12), relating to employee stock options of a Canadian-controlled private corporation (CCPC), reflects a change to the reference to the definition of a "Canadian-controlled private corporation" in subsection 125(7), formerly contained in paragraph 125(7)(b).
+
+No. 14 (replaces former No. 13) is revised to clarify that subsection 7(1.1) also applies where the employer corporation has agreed to issue the shares of a CCPC with which it does not deal at arm's length but the non-arm's length corporation ceases to be a CCPC before the shares are issued.
+
+No. 15 (replaces former No. 10) reflects the amendment to paragraph 7(1.4) for 1988 and subsequent taxation years, which extends the rollover treatment for exchanges of options occurring as a result of mergers and amalgamations to any type of corporate reorganization or capital restructuring as long as certain conditions are met. The discussion regarding the Department's position before 1985 has been deleted.
+
+No. 16 (replaces former No. 11) has been updated to reflect the decision of the courts in Ronald J. Wiebe and Ray Bastien v. The Queen, 87 DTC 5068, (1987) 1 C.T.C. 145. This decision pertains to the creation of a new stock option agreement when there have been fundamental changes made to the existing stock option agreement. As a result of this decision, the position in No. 16 is effective for 1987 and subsequent taxation years.
+
+No. 17 (replaces former No. 14) is changed to reflect two amendments to subsection 7(1.5). For 1992 and subsequent taxation years, this provision was revised to apply to all of section 7 and thus, to multiple share exchanges. In addition, for 1988 and subsequent taxation years, subsection 7(1.5) was amended so that the rules which treat an employee as not having disposed of shares under certain circumstances are extended to any exchange of shares resulting from a corporate reorganization or capital restructuring provided that the fair market value of the new shares does not exceed that of the old shares. Previously, subsection 7(1.5) only applied to exchanges of shares in circumstances to which subsection 85.1(1) or 87(4) applied. The comments relating to the Department's position before 1985 have been deleted.
+
+No. 18 (replaces former No. 15) is revised to show the amendment to subparagraph 110(1)(d)(iii), applicable for 1992 and subsequent years, whereby the effect of foreign currency exchange gains and losses is eliminated in the determination of whether an employee qualifies for the deduction under paragraph 110(1)(d). No. 18 also reflects the amendment, applicable for 1988 and subsequent years, which was made as a consequence of amendments to subsection 7(1.4) (see No. 12 above). Under the amendment to paragraph 110(1)(d), a deduction under this provision is not precluded solely because of an increase in the fair market value of the shares between the time the option is granted and the time of the corporate reorganization or capital restructuring. In addition, because of changes to the inclusion rates for capital gains, the paragraph 110(1)(d) deduction was reduced from one-half of the subsection 7(1) benefit to one-quarter of the benefit for shares disposed of or exchanged after 1987. A brief explanation of subsection 110(1.5) has also been added to No. 18.
+
+No. 19 (replaces former No. 16) is updated to reflect the amendment to paragraph 110(1)(d.1) in which the deduction under that provision was reduced from one-half of the subsection 7(1.1) benefit to one-quarter of the benefit for shares disposed of or exchanged after 1987.
+
+Former No. 19, which dealt with subsection 26(16) of the Income Tax Application Rules, 1971, for shares owned by an individual on December 31, 1971, was removed.
+
+Former No. 20, regarding whether an employee stock option is capital property, has been deleted, as this determination depends on the facts of the particular situation.
+
+No. 22 (replaces former No. 21), which discusses non-residents, reflects the repeal of subsection 48(1) after 1992 and the addition of paragraph 128.1(4)(b) after 1992.
+
+New No. 23 deals with shares held by a trustee in trust for employees under an employment-related stock option agreement and the deduction available to an employee under subsection 8(12).
+
+New No. 24 concerns the application of subsection 7(1) if an employee has acquired and later converted or sold convertible preferred shares of the employer corporation under an employee compensation plan.
+
+No. 24 reflects the Department's position with regard to the conversion or sale of convertible preferred shares issued before December 1,1994, in plans in place by August 31, 1994. The Department's position regarding forward participating shares is effective January 1992.

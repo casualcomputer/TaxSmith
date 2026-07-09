@@ -1,0 +1,156 @@
+---
+title: "ARCHIVED - Rental Property - Capital Cost Allowance Restrictions"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it195r4/archived-rental-property-capital-cost-allowance-restrictions.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Rental Property - Capital Cost Allowance Restrictions
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-195R4**
+
+DATE: September 6, 1991
+
+SUBJECT: INCOME TAX ACT**Rental Property - Capital Cost Allowance Restrictions**
+
+REFERENCE: Subsections 1100(11) through (14.2) of the Income Tax Regulations (also subsections 1100(15), 1100(17), 1101(1ae) and 1102(5) of the Regulations, classes 1, 3, 6, 13, 31 and 32 of Schedule II of the Regulations and subsection 20(16) and paragraph 20(1)(a) of the Act)
+
+Application
+
+This bulletin cancels and replaces IT-195R3 dated April 27, 1981. Note that CCA claims in respect of rental or leasing property may also be restricted by the proposed "available for use" and "specified leasing property" rules. Other bulletins will discuss the latter rules in more detail.
+
+Summary
+
+This bulletin discusses the restriction on claims for capital cost allowance (CCA) that would otherwise be deductible in respect of rental properties. With certain exceptions, this restriction prevents a taxpayer or partnership from creating or increasing the amount of a loss for income tax purposes by claiming CCA on rental properties. It thereby prevents the taxpayer from using such losses to shelter or reduce other income subject to tax. In this bulletin, references to subsections and paragraphs are to subsections and paragraphs of the Regulations, except where indicated.
+
+Discussion and Interpretation
+
+General - Operation of the CCA Restriction
+
+1. Subsection 1100(11) restricts the amount of CCA that may be claimed on rental properties of a taxpayer, or of a partnership of which the taxpayer is a member. This restriction is referred to in this bulletin as the "CCA restriction." Subsection 1100(11) applies where a taxpayer owns property of a class prescribed for CCA purposes and that class includes rental property owned by the taxpayer. With respect to all such classes of properties owned by the taxpayer, the taxpayer's total claim for CCA that would otherwise be allowed in
+
+computing income for a taxation year may not exceed the amount, if any, by which
+
+(a) the taxpayer's income for the year from renting or leasing rental property which the taxpayer owns (computed before any claims for CCA that would otherwise be deductible under paragraph 20(1)(a) of the Act)
+
+and
+
+(b) the income of a partnership for the year from renting or leasing rental property of the partnership, to the extent of the taxpayer's share of such income
+
+exceeds
+
+(c) the taxpayer's loss for the year from renting or leasing rental property owned by the taxpayer (computed before any claims for CCA that would otherwise be deductible under paragraph 20(1)(a) of the Act)
+
+and
+
+(d) the loss of a partnership for the year from renting or leasing rental property of the partnership, to the extent of the taxpayer's share of such loss.
+
+2. Accordingly, if a taxpayer has more than one class of rental properties, the CCA restriction is not applied to the individual classes of rental properties but rather to the total CCA that may be claimed against all the taxpayer's rental properties. The entire CCA claim for all the properties must not exceed the total of the rental income from all properties less the total of the rental losses from the properties. Any recapture of CCA is included in computing these totals. In computing the amount of CCA allowable where a terminal loss has occurred, it will be necessary to deduct the terminal loss first and then to claim ordinary CCA to the extent, if any, of the remaining net rental income from all properties.
+
+Definition of Rental Property
+
+3. For the purposes of the CCA restriction, a "rental property" of a taxpayer or partnership is defined in subsection 1100(14) to mean
+
+(a) a building (other than a MURB as noted in 14 below) owned by the taxpayer or partnership, whether jointly with another person or otherwise,
+
+or
+
+(b) a leasehold interest in real property if the leasehold interest is property of class 1, 3, 6 or 13 (or, for taxation years before 1988, class 3, 6 or 13) and is owned by the taxpayer or partnership.
+
+To be a rental property, the property must be used in the year by the taxpayer or partnership principally for the purposes of gaining or producing gross revenue that is rent. Rental property does not include a property leased by a taxpayer or partnership (the lessor) in the ordinary course of the lessor's business of selling goods or rendering services, where this is done under an agreement by which the lessee undertakes to use the property to carry on the sale or promotion of the sale of the lessor's goods or services. For example, a building leased by an oil company to a dealer for the operation of a service station in order to display and sell the oil company's goods is not a rental property of the oil company.
+
+Meaning of "Principally"
+
+4. As used in the definition of rental property in subsection 1100(14), the word "principally" means "primarily" or "chiefly." In establishing whether a property is used principally for a given purpose, one of the main factors to be considered is the proportion of time that the property is used for that purpose. If the property is used more than 50 percent of the time for the purposes of gaining or producing gross revenue that is rent, that pattern of use is a good indication that the property is used principally for that purpose. Another important factor to be considered is the proportion of the amount of space rented in relation to the total area of the building. Again, if more than 50 percent of the total area is rented, that is an indication that the property is being used principally for producing rental revenue. See the current version of IT-331, Investment Tax Credit, for additional comments on the meaning of the word "principally."
+
+Taxpayers Not Subject to the CCA Restriction
+
+5. Subsection 1100(12) provides that the CCA restriction does not apply to a taxpayer if that taxpayer was throughout the year
+
+(a) a life insurance corporation,
+
+(b) a corporation whose principal business was the leasing, rental, development or sale (or any combination thereof) of real property owned by it,
+
+or
+
+(c) a partnership each member of which was a corporation described in (a) or (b) above.
+
+However, subsection 1100(13) limits the application of subsection 1100(12). As a result, the CCA restriction will remain applicable to most situations (specifically, those described in subsection 1102(5)) in which any of the entities in (a) to (c) above has a leasehold interest in a building on leased land and the building is leased back to the owner of the land, or to a person who owns an interest in or option on the land. See the current version of IT-371, Rental Property - Meaning of Principal Business, for comments concerning subsection 1100(12).
+
+Meaning of "Rent"
+
+6. For the purposes of the definition of rental property in subsection 1100(14), (see 3 above), in determining whether a property was used principally for gaining or producing gross revenue that is rent, subsection 1100(14.1) is applicable. The latter subsection provides that for 1986 and subsequent years, gross revenue derived in a taxation year from
+
+(a) the right of a person or partnership, other than the owner of a property, to use or occupy the property or a part thereof, and
+
+(b) services offered to a person or partnership that are ancillary to (i.e. subordinate to or dependant upon) the use or occupation by the person or partnership of the property or the part thereof,
+
+shall be considered to be rent derived in that year from the property. The coming-into-force provisions with respect to subsection 1100(14.1) are very extensive, with variations that depend upon the nature of the property acquired and the timing of the acquisition. Reference should be made to these provisions for more precise details. Thus, unless one of the exceptions set out in the coming-into-force provisions or 7 below applies, gross revenue that is rent will include revenue derived from a property such as a hotel, motel or nursing home operation, where it is established that such revenue is ancillary to the use or occupation of the property. On the other hand, if the services offered (for example, medical care in a nursing home) are such that they go beyond being merely ancillary to the use and occupation of the property, gross revenue derived from such services is not considered to be rent derived from the property.
+
+Exceptions
+
+7. Subsection 1100(14.2) sets out certain exceptions to the application of subsection 1100(14.1). As a result, the comments in 6 above do not apply in any particular taxation year to a property owned by
+
+(a) a corporation, where the property is used in a business carried on in the year by the corporation,
+
+(b) an individual, where the property is used in a business carried on in the year by the individual and the individual is personally active in that business on a continuous basis throughout that portion of the year during which the business is ordinarily carried on, or
+
+(c) a partnership, where the property is used in a business carried on in the year by the partnership if at least 2/3 of the income or loss, as the case may be, of the partnership for the year is included in the determination of the income of
+
+(i) members of the partnership who are individuals that are personally active in the business of the partnership on a continuous basis throughout that portion of the year during which the business is ordinarily carried on, and
+
+(ii) members of the partnership that are corporations.
+
+Whether or not an individual is "personally active on a continuous basis throughout that portion of the year during which the business is ordinarily carried on" is a question of fact. In making such a determination, consideration will be given to the nature of the business and the individual's involvement in the day-to-day operation of that business. For example, if the business consists of operating a nursing home, the simple periodic review of operating results or the occasional recommendation of the home to potential clientele by the individual will not be sufficient to establish that the individual is "personally active on a continuous basis". On the other hand, the CCA restriction will not normally apply if the individual participates on a full-time basis in management decisions, occupant services, staffing and locating clientele.
+
+Separate Classes for Rental and Non-Rental Properties
+
+8. Subsection 1101(1ae) provides that rental properties of a taxpayer which would otherwise be placed in the same class as other non-rental properties of the taxpayer are required to be placed in a separate class. However, this requirement does not apply to a rental property of a taxpayer exempted under subsection 1100(12) from the CCA restriction (see 5 above). Where the conditions of subsection 1100(12) are met throughout one year but not throughout another year, it will be necessary to transfer the rental property into or out of the separate class prescribed by subsection 1101(1ae).
+
+Property Converted from Business to Rental Use During the Year
+
+9. CCA may be restricted in the following circumstances:
+
+(a) a taxpayer or partnership ceases to carry on business activities part way through the taxation year,
+
+(b) at that time, the taxpayer or partnership commences to use depreciable property that is a building or leasehold interest described in 3(a) or (b) above to generate gross revenue that is rent or leasing revenue, and
+
+(c) this property is used principally for rental purposes as determined in 4 above.
+
+The CCA claim for a taxation year with respect to such properties which then qualify as rental property is restricted to the net rental or leasing income generated for that year from the property after its conversion from business use.
+
+Rental Property of Members of Partnerships
+
+10. A partnership that is subject to the CCA restriction calculates the amount of CCA it can claim and allocates the resulting net rental income or loss among the members of the partnership. Where such a member also holds rental property as a proprietor, the comments in 1 and 2 above will apply in a similar manner to the member's own rental properties. The share of partnership rental income or loss allocated to the member will be combined with the total rental income or loss after expenses, but before CCA, from the member's own rental properties. CCA may be claimed on the member's rental properties (subject to prescribed rates) only to the extent of that combined rental income, if any.
+
+Furniture, Fixtures and Appliances
+
+11. Furniture, fixtures and appliances acquired for a rental building represent "leasing properties" as defined in subsection 1100(17). The CCA on such assets is restricted under subsection 1100(15) in a manner that generally parallels the rules for rental real estate previously discussed. Where a landlord charges a flat rental fee for an apartment inclusive of furniture, fixtures and appliances, the guidelines outlined in the current version of IT-443, Leasing Property - Capital Cost Allowance Restrictions, should be referred to in order to determine if an allocation of income between the rental and leasing properties is necessary.
+
+Allocation of Income and Expenses Between Leasing and Rental Properties
+
+12. Where an allocation of income between leasing and rental properties is necessary (see 11 above), the CCA is treated separately for each type of property and cannot be aggregated and claimed against total rental income. Also, for the purposes of subsections 1100(11) and (15), rental fees and expenses must be apportioned on a reasonable basis between the rental and leasing properties.
+
+13. Where an allocation of income between rental and leasing properties is not necessary, the restrictions in 12 above do not apply. However, the total CCA claimed in respect of both properties cannot exceed the combined income from both properties.
+
+Multiple-Unit Residential Buildings
+
+14. As it applies to taxation years before 1994, paragraph 1100(14)(a) provides that multiple-unit residential buildings (MURBs) which qualify as property of class 31 or 32 are excluded from the definition of rental property. This exclusion will cease for the 1994 and subsequent taxation years. Likewise, paragraph 1100(17)(b) provides that for taxation years prior to 1994 only, such MURBs and the furniture, fixtures or equipment located within and ancillary thereto are excluded from the definition of leasing property. Where parking, recreation, service and storage facilities are not located within the qualified MURB, an allocation of revenue and deductions to rental as opposed to leasing activities will be necessary only if such facilities are used in a rental operation separate and unrelated to the rental of the units contained in the MURB.
+
+15. Notwithstanding the comments in 14 above, if a MURB is acquired after June 17, 1987 it will be considered a rental property and will be subject to the CCA restriction. However, should such a MURB be acquired pursuant to
+
+(a) an obligation in writing entered into by the taxpayer before June 18, 1987, or
+
+(b) the terms of a prospectus, preliminary prospectus, registration statement, offering memorandum or notice required to be filed with a public authority in Canada and filed before June 18, 1987 with such public authority,
+
+it will not be considered a rental property and will not be subject to the CCA restriction.
+
+For additional comments on MURBs which qualify as property of class 31 or 32, see the current version of IT-367, Capital Cost Allowance - Multiple-Unit Residential Buildings.

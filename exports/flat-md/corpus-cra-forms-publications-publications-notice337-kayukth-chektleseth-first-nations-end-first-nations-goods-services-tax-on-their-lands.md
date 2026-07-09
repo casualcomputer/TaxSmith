@@ -1,0 +1,58 @@
+---
+title: "Ka:'yu:'k't'h'/Che:k'tles7et'h' First Nations: End of the First Nations Goods and Services Tax (FNGST) on Their Lands"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice337/kayukth-chektleseth-first-nations-end-first-nations-goods-services-tax-on-their-lands.html
+last_modified: 2024-06-19
+---
+# Ka:'yu:'k't'h'/Che:k'tles7et'h' First Nations: End of the First Nations Goods and Services Tax (FNGST) on Their Lands
+
+GST/HST Notices – Notice 337 June 2024
+
+This notice explains that the First Nations goods and services tax (FNGST) is no longer imposed on Maanulth Lands of the Ka:'yu:'k't'h'/Che:k'tles7et'h' First Nations effective June 11, 2024. The FNGST was imposed on Maanulth Lands of the Ka:'yu:'k't'h'/Che:k'tles7et'h' First Nations from March 17, 2020, to June 10, 2024.
+
+The Canada Revenue Agency uses the term **Indian** because it has legal meaning under the [Indian Act](https://laws-lois.justice.gc.ca/eng/acts/i-5/).
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the *Excise Tax Act* (ETA). The information in this publication does not replace the law found in the ETA and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1‑800‑959‑8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1‑855‑666‑5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [Overview](#toc0)
+
+- [GST/HST relief](#toc1)
+
+## Overview
+
+On March 17, 2020, the Ka:'yu:'k't'h'/Che:k'tles7et'h' First Nations Government imposed a First Nations goods and services tax (FNGST) on the Maanulth Lands of the Ka:'yu:'k't'h'/Che:k'tles7et'h' First Nations.[Footnote1](#fn1) On January 26, 2024, they signed an Agreement to Terminate the First Nations Goods and Services Tax Administration Agreement with the Government of Canada.
+
+Effective June 11, 2024, the FNGST is no longer imposed on the Maanulth Lands of the Ka:'yu:'k't'h'/Che:k'tles7et'h' First Nations. Instead, as of that date, the GST applies to taxable supplies of property or services made on these lands.
+
+## GST/HST relief
+
+Individuals registered under the [Indian Act](https://laws-lois.justice.gc.ca/eng/acts/i-5/) are eligible for the GST/HST relief on purchases of property and services when the requirements described in [GST/HST Technical Information Bulletin B-039, GST/HST Administrative Policy – Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html) are met. For more information, refer to [GST/HST Notice 327, The Application of Section 87 of the Indian Act to a Maa-nulth-aht](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice327.html).
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST** **enquiry**by **telephone**:
+
+- for **GST/HST general enquiries,** call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries,**call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1-800-567-4692** or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution**(whether or not you are located in Quebec) and require information on the **GST/HST**or the**QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for **general GST/HST**or**QST enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **technical GST/HST**or**QST enquiries**, call **GST/HST Rulings SLFI** at **1-855-666-5166**

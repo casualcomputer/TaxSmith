@@ -1,0 +1,412 @@
+---
+title: "Public Service Bodies' Rebate for Charities Resident in Two or More Provinces, at Least One of Which Is a Participating Province"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-179/public-service-bodies-rebate-charities-resident-two-provinces-least-which-a-participating-province.html
+last_modified: 2024-05-24
+---
+# Public Service Bodies' Rebate for Charities Resident in Two or More Provinces, at Least One of Which Is a Participating Province
+
+GST/HST Info Sheet GI-179 July 2024
+
+This version replaces the one dated July 2020. This info sheet has been updated to reflect amendments made to the *Public Service Body Rebate (GST/HST) Regulations* that affect charities resident in Prince Edward Island. Effective January 1, 2023, the rebate factor of the provincial part of the HST increased from 35% to 50%.
+
+This info sheet will help you calculate your public service bodies' rebate (PSB rebate) if you are a charity that uses the **regular method** of calculating the PSB rebate and you meet all of the following conditions:
+
+- you are resident in two or more provinces, at least one of which is a participating province
+
+- you are not a selected public service body (selected PSB)
+
+If you are a charity and you use the **simplified method** to calculate your PSB rebate, you should follow the instructions set out in [Guide RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+You may be able to claim a PSB rebate for the GST/HST paid or payable in respect of eligible purchases or expenses for a particular claim period, in a rebate application for a later claim period ending after September 8, 2017. For more information, refer to the “Carrying forward a rebate” section in Guide RC4034.
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the *Excise Tax Act* (ETA). The information in this publication does not replace the law found in the ETA and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1‑800‑959‑8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1‑855‑666‑5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## General
+
+A charity may be able to recover a percentage of the GST and the federal part of the HST paid or payable[Footnote1](#fn1) on its eligible purchases and expenses by claiming a public service bodies' rebate (PSB rebate). In addition, a charity resident in a participating province may also be able to claim a PSB rebate to recover a percentage of the provincial part of the HST paid or payable on its eligible purchases and expenses.
+
+A charity resident only in a non-participating province is not entitled to a PSB rebate of the provincial part of the HST.
+
+The PSB rebate is calculated based on your non-creditable tax charged in a given claim period. Your non-creditable tax charged is generally the GST/HST paid or payable on eligible purchases and expenses that cannot be recovered in any way (for example, input tax credits (ITCs), refunds, rebates) other than by claiming a PSB rebate. For more information on how to calculate your non-creditable tax charged, refer to [Guide RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html). More detailed information on the non-creditable tax charged is available in [GST/HST Memorandum 13-5, Non-creditable Tax Charged](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/13-5.html).
+
+To file your rebate application, use [Form GST66, Application for GST/HST Public Service Bodies' Rebate and GST Self-Government Refund](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst66.html), and, if applicable, [Form RC7066-SCH, Provincial Schedule – GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7066-sch.html).
+
+Definitions for terms such as **public institution**, **non-creditable tax charged**, **claim period**, **facility operator** and **external supplier** are found in Guide RC4034.
+
+**Participating province** means a province that has harmonized its provincial sales tax with the GST to implement the HST. Participating provinces include New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario and Prince Edward Island, but do not include the Nova Scotia offshore area or the Newfoundland offshore area except to the extent that offshore activities, as defined in subsection 123(1), are carried on in that area.
+
+## How to use this info sheet
+
+This info sheet sets out 8 steps to work through to help you calculate your PSB rebate:
+
+- The first 2 steps help you determine whether this info sheet can be used in your situation to calculate your PSB rebate.
+
+- Steps 3 to 5 help you calculate the PSB rebate of the GST and the federal part of the HST, which is entered on line 305 of [Form GST66](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst66.html).
+
+- Steps 6 to 8 help you calculate the PSB rebate of the provincial part of the HST, which is entered on the applicable line 305 for each participating province in which you are resident on [Form RC7066-SCH](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7066-sch.html).
+
+## How to determine if this info sheet applies to your charity
+
+### Step 1 – Determine if you are a charity that is not a selected public service body
+
+To use this info sheet, you must be a charity that is **not** a selected public service body (selected PSB).
+
+A **charity** means a registered charity or registered Canadian amateur athletic association for income tax purposes, but does not include a public institution. A charity can issue official donation receipts for income tax purposes.
+
+For the purposes of the PSB rebate, a charity also includes a non-profit organization that operates, otherwise than for profit, a health care facility.
+
+A **selected public service body** means:
+
+- a school authority, a university or a public college that is established and operated otherwise than for profit
+
+- a hospital authority
+
+- a municipality
+
+- a facility operator
+
+- an external supplier
+
+If you are any of the bodies listed above, you are a selected PSB and cannot use this info sheet to calculate your PSB rebate. If you are a selected PSB, refer to [Guide RC4034](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html) for information on calculating your PSB rebate.
+
+If you are a charity that is not a selected PSB, go to Step 2.
+
+### Step 2 – Determine if you are resident in two or more provinces, at least one of which is a participating province
+
+You must know in which provinces you are resident for purposes of the PSB rebate. This info sheet only applies to charities that are resident in two or more provinces, at least one of which is a participating province.
+
+For example, you may be one of the following:
+
+- a charity that is resident only in New Brunswick and Nova Scotia
+
+- a charity that is resident only in Manitoba, Ontario and Quebec
+
+- a charity that is resident in every province and territory
+
+To determine in which provinces you are resident, refer to [GST/HST Info Sheet GI-121, Determining Whether a Public Service Body is Resident in a Province for Purposes of the Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-121.html).
+
+This information is used in Step 7 and Step 8.
+
+If you are a charity that is **not** a selected PSB and you are resident in two or more provinces, at least one of which is a participating province, go to Step 3.
+
+## How to calculate your PSB rebate amount for line 305 on Form GST66
+
+### Step 3 – Calculate your non-creditable GST charged
+
+To calculate your non-creditable GST charged in a particular claim period, do all of the following:
+
+- list all the eligible purchases and expenses on which you paid the GST (5%) during that claim period and determine the amount of the GST paid or payable on each eligible purchase or expense
+
+- if you received a provincial point-of-sale rebate of the provincial part of the HST payable during that claim period on eligible purchases of qualifying items[Footnote2](#fn2) (for example, printed books), you must also list such eligible purchases in this step and determine the amount of the federal part of the HST paid or payable on each qualifying item
+
+- from the amount of the GST paid or payable on each eligible purchase or expense or, if applicable, the federal part of the HST paid or payable on the qualifying items, subtract any ITC, other rebate, refund or remission that you received or are entitled to receive for any of that amount (the result is the non-creditable GST charged for each purchase or expense)
+
+- add all the amounts of the non-creditable GST charged for the particular claim period (the total non-creditable GST charged is used in Step 5 to calculate the PSB rebate of the GST and/or the federal part of the HST)
+
+### Step 4 – Calculate your federal non-creditable HST charged
+
+To calculate your federal non-creditable HST charged in a particular claim period, do all of the following:
+
+- List all the eligible purchases and expenses on which you paid the HST during that claim period at the rate of 13%, determine the amount of the HST paid or payable on each eligible purchase or expense, and multiply this amount by the fraction 5/13.
+
+- List all the eligible purchases and expenses on which you paid the HST during that claim period at the rate of 14%, determine the amount of the HST paid or payable on each eligible purchase or expense, and multiply this amount by the fraction 5/14.
+
+- List all the eligible purchases and expenses on which you paid the HST during that claim period at the rate of 15%, determine the amount of the HST paid or payable on each eligible purchase or expense, and multiply this amount by the fraction 5/15.
+
+New Brunswick and Newfoundland and Labrador increased their HST rates from 13% to 15% effective July 1, 2016. Prince Edward Island also increased its HST rate from 14% to 15% effective October 1, 2016. You have to determine which tax rate was paid on your eligible purchases and expenses in the particular claim period to calculate your federal non-creditable HST charged.
+
+If you received a provincial point-of-sale rebate of the provincial part of the HST payable on qualifying items (for example, printed books), do **not** list these purchases in this step. List them in Step 3.
+
+The result of each of the above calculations is the federal part of the HST paid or payable on each eligible purchase or expense.
+
+- From the amount of the federal part of the HST paid or payable on each eligible purchase or expense subtract any ITC, other rebate, refund or remission that you received or are entitled to receive for any of that amount. The result is the federal non-creditable HST charged for each purchase or expense.
+
+- Add all the amounts of the federal non-creditable HST charged for the particular claim period. The total federal non-creditable HST charged is used in Step 5 to calculate the PSB rebate of the GST and/or the federal part of the HST.
+
+### Step 5 – Calculate your PSB rebate of the GST and/or the federal part of the HST
+
+To calculate your PSB rebate of the GST and/or the federal part of the HST, do all of the following:
+
+- add the total non-creditable GST charged that was calculated in Step 3 and the total federal non-creditable HST charged that was calculated in Step 4
+
+- multiply the total by 50% (the federal PSB rebate factor for charities)
+
+- enter the result on line 305 of [Form GST66](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst66.html), under the header "Federal"
+
+For a full explanation of how to complete the rest of Form GST66, refer to [Guide RC4034](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+When certain conditions are met, you may be able to claim a PSB rebate for the GST/HST paid or payable on an eligible purchase or expense for a particular claim period in a rebate application for a later claim period ending after September 8, 2017. For more information, refer to the “Carrying forward a rebate” section in Guide RC4034.
+
+Carrying forward a PSB rebate is only permitted where the applicable PSB rebate factor did not change at any time from the beginning of the claim period in which the GST/HST was paid or payable to the end of the later period where the charity would be claiming the rebate. Therefore, charities resident in Prince Edward Island are not permitted to carry forward a PSB rebate for a claim period beginning before January 1, 2023, to the rebate application for a subsequent claim period ending on or after January 1, 2023.
+
+## How to calculate your PSB rebate amount for the applicable line 305 on Form RC7066-SCH
+
+### Step 6 – Calculate your provincial non-creditable HST charged
+
+To calculate your provincial non-creditable HST charged in a particular claim period, do all of the following:
+
+- List all the eligible purchases and expenses on which you paid the HST during that claim period at the rate of 13%, determine the amount of the HST paid or payable on each eligible purchase or expense, and multiply this amount by the fraction 8/13.
+
+- List all the eligible purchases and expenses on which you paid the HST during that claim period at the rate of 14%, determine the amount of the HST paid or payable on each eligible purchase or expense, and multiply this amount by the fraction 9/14.
+
+- List all the eligible purchases and expenses on which you paid the HST during that claim period at the rate of 15%, determine the amount of the HST paid or payable on each eligible purchase or expense, and multiply this amount by the fraction 10/15.
+
+New Brunswick and Newfoundland and Labrador increased their HST rates from 13% to 15% effective July 1, 2016. Prince Edward Island also increased its HST rate from 14% to 15% effective October 1, 2016. You have to determine which tax rate was paid on your eligible purchases and expenses in the particular claim period to calculate your provincial non-creditable HST charged.
+
+Prince Edward Island increased its PSB rebate factor for charities for claim periods ending on or after January 1, 2023. If you are resident in Prince Edward Island, you have to calculate your provincial non-creditable HST charged separately for eligible purchases and expenses on which tax became payable before January 1, 2023, and for eligible purchases and expenses on which tax became payable after December 31, 2022, for a claim period that straddles January 1, 2023.
+
+If you received a provincial point-of-sale rebate of the provincial part of the HST payable on qualifying items (for example, printed books), do **not** list these purchases in this step. List them in Step 3.
+
+The result of each of the above calculations is the provincial part of the HST paid or payable on each eligible purchase or expense.
+
+- From the amount of the provincial part of the HST paid or payable on each eligible purchase or expense subtract any ITC, other rebate, refund or remission that you received or are entitled to receive for any of that amount. The result is the provincial non-creditable HST charged for each purchase or expense.
+
+Each of these amounts is used in Step 8 to calculate the PSB rebate of the provincial part of the HST.
+
+Only a charity resident in a participating province is eligible for a PSB rebate of the provincial part of the HST. However, a charity resident in any province may be eligible for other rebates of the provincial part of the HST for property or services removed from a participating province using, [Form GST189, General Application for GST/HST Rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html) or [Form GST495, Rebate Application for Provincial Part of Harmonized Sales Tax (HST)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst495.html). For more information, refer to [Guide RC4033, General Application for GST/HST Rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4033.html).
+
+### Step 7 – Determine the extent to which you intended to consume, use or supply each eligible purchase and expense in each province in which you are resident
+
+Unlike the calculation of the PSB rebate of the GST and/or the federal part of the HST, you must calculate your PSB rebate of the provincial part of the HST based on the extent you intended to use[Footnote3](#fn3) each eligible purchase and expense in the course of your activities in each participating province in which you are resident.
+
+To determine the extent to which you intended to use each eligible purchase and expense in each province in which you are resident, do both of the following:
+
+- list your eligible purchases and expenses on which you paid the HST
+
+- record the extent (expressed as a percentage) to which you intended, at the relevant time[Footnote4](#fn4), to use each eligible purchase or expense in the course of your activities in each province in which you are resident and outside the provinces in which you are resident
+
+The total of the percentages recorded for each eligible purchase or expense must equal 100%.
+
+A charity that is resident in Nova Scotia, New Brunswick and Quebec purchases consulting services. The charity must determine, at the relevant time (that is, at the time of purchase), the extent to which it intends to use the consulting services in the course of its activities in Nova Scotia, New Brunswick and Quebec, and outside those three provinces. The charity determines that it intends to use the consulting services 85% in Nova Scotia, 5% in New Brunswick, 5% in Quebec and 5% outside the provinces in which it is resident.
+
+#### Example 2
+
+A charity that is resident in Manitoba and Ontario purchases a computer. The charity must determine, at the relevant time (that is, at the time of purchase), the extent to which it intends to use the computer in the course of its activities in Manitoba and Ontario and outside those two provinces. The charity determines that it intends to use the computer 100% in Ontario, 0% in Manitoba and 0% outside the provinces in which it is resident.
+
+You cannot claim a PSB rebate of the provincial part of the HST paid or payable on eligible purchases and expenses to the extent that you intend to use the purchase or expense in the course of your activities in a non-participating province or in a province in which you are not resident.
+
+### Step 8 – Calculate your PSB rebate of the provincial part of the HST
+
+In this step, you calculate your PSB rebate of the provincial part of the HST for each participating province in which you are resident (as determined in Step 2). To do this calculation, you first need the applicable provincial PSB rebate factor for each participating province in which you are resident. The PSB rebate factors are indicated in the following table.
+
+| Province | PSB rebate factor |
+
+| --- | --- |
+
+| Ontario | 82% |
+
+| Nova Scotia | 50% |
+
+| New Brunswick | 50% |
+
+| Newfoundland and Labrador | 50% |
+
+| Prince Edward Island | 50% |
+
+Please note that the PSB rebate factor has changed for Prince Edward Island. The following table shows what rebate factor to use based on your claim period.
+
+| Claim period | PSB rebate factor |
+
+| --- | --- |
+
+| Claim periods ending before January 1, 2023 | 35% |
+
+| Claim periods beginning on or after January 1, 2023 | 50% |
+
+| Claim periods beginning before and ending after January 1, 2023 (for example, October 1, 2022, to March 31, 2023) | 35% for tax that became payable before January 1, 2023; and 50% for tax that became payable after December 31, 2022 |
+
+Then, do both of the following calculations **for each participating province in which you are resident**:
+
+- multiply the applicable PSB rebate factor for the participating province in which you are resident by the provincial non-creditable HST charged for each eligible purchase and expense (determined in Step 6)
+
+- then multiply that amount by the extent (expressed as a percentage) that you intended to use that eligible purchase or expense in the course of your activities in that participating province (determined in Step 7)
+
+If you have any purchases and expenses that you did not intend to use in the participating province in which you are resident (that is, where the percentage determined in Step 7 was 0%), do not include these purchases and expenses in the above calculations.
+
+If you have any purchases and expenses where the extent of use is the same (for example, several purchases and expenses that you intended to use 100% in the participating province), you may combine the provincial non-creditable HST charged for these expenses. Do **not** combine purchases and expenses that have different percentages recorded in Step 7.
+
+The result of this calculation is your PSB rebate of the provincial part of the HST paid or payable on each eligible purchase and expense.
+
+Then, do both of the following:
+
+- add the amounts of the PSB rebate of the provincial part of the HST paid or payable on all of the eligible purchases and expenses (this is your total PSB rebate of the provincial part of the HST for that participating province)
+
+- enter the total PSB rebate amount for that participating province on the applicable line 305 of [Form RC7066-SCH](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7066-sch.html), as shown in the table below
+
+| Province | Line |
+
+| --- | --- |
+
+| Ontario | 305-ON |
+
+| Nova Scotia | 305-NS |
+
+| New Brunswick | 305-NB |
+
+| Newfoundland and Labrador | 305-NL |
+
+| Prince Edward Island | 305-PE |
+
+Repeat the above instructions in Step 8 for each participating province in which you are resident.
+
+For a full explanation of how to complete the rest of [Form RC7066-SCH](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7066-sch.html) and [Form GST66](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst66.html) refer to [Guide RC4034](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+When certain conditions are met, you may be able to claim a PSB rebate for the GST/HST paid or payable on an eligible purchase or expense for a particular claim period in a rebate application for a later claim period ending after September 8, 2017. For more information, refer to the “Carrying forward a rebate” section in Guide RC4034.
+
+Carrying-forward a PSB rebate is only permitted where the applicable PSB rebate factor did not change at any time from the beginning of the claim period in which the GST/HST was paid or payable to the end of the later period where the charity would be claiming the rebate. Therefore, charities resident in Prince Edward Island are not permitted to carry forward a PSB rebate for a claim period beginning before January 1, 2023, to the rebate application for a subsequent claim period ending on or after January 1, 2023.
+
+A non-registrant charity that is not a selected PSB is resident in Prince Edward Island, Nova Scotia and Alberta. It has eligible purchases and expenses in various provinces on which tax was paid or payable during the claim period of January 1, 2023, to June 30, 2023.
+
+The following table contains detailed information on these purchases and expenses that the charity uses to calculate its PSB rebate, including the province in which the supply is made, the applicable GST/HST rate, the amount of tax paid, the provinces where the charity intended to use the purchase or expense and the percentage of intended use in each province.
+
+| Eligible purchases or expenses | Province in which the supply is made | Amount paid multiplied by applicable GST/HST rate | Tax paid | Province and percentage of intended use |
+
+| --- | --- | --- | --- | --- |
+
+| Hotel | Ontario | $400 × 13% | $52 HST | Ontario – 100% |
+
+| Rent | Prince Edward Island | $5,000 × 15% | $750 HST | Prince Edward Island – 100% |
+
+| Computer | Alberta | $1,000 × 5% | $50 GST | Alberta – 100% |
+
+| Paper | Prince Edward Island | $60 × 15% | $9 HST | Prince Edward Island – 100% |
+
+| Software supplied electronically | Prince Edward Island | $200 × 15% | $30 HST | Prince Edward Island – 60% Alberta – 20% Nova Scotia – 20% |
+
+| Accounting services | Nova Scotia | $1,200 × 15% | $180 HST | Prince Edward Island – 50% Nova Scotia – 50% |
+
+The charity is not eligible to claim any ITCs or any other rebate, refund or remission for these GST/HST amounts.
+
+**Step 3 – Calculate your non-creditable GST charged**
+
+The following table shows how the charity calculates its non-creditable GST charged using the calculation described in Step 3.
+
+| Eligible purchases or expenses | GST paid | Subtract ITCs, other rebates, refunds or remissions | Non-creditable GST charged |
+
+| --- | --- | --- | --- |
+
+| Computer | $50 | − $0 | $50 |
+
+The total non-creditable GST charged is $50.
+
+**Step 4 – Calculate your federal non-creditable HST charged**
+
+The following table shows how the charity calculates its federal non-creditable HST charged using the calculation described in Step 4.
+
+| Eligible purchases or expenses | HST Rate | Multiply HST paid by appropriate fraction | Federal part of HST | Subtract ITCs, other rebates, refunds, or remissions | Federal non-creditable HST charged |
+
+| --- | --- | --- | --- | --- | --- |
+
+| Hotel | 13% | $52 × 5/13 | $20 | − $0 | $20 |
+
+| Rent | 15% | $750 × 5/15 | $250 | − $0 | $250 |
+
+| Paper | 15% | $9 × 5/15 | $3 | − $0 | $3 |
+
+| Software | 15% | $30 × 5/15 | $10 | − $0 | $10 |
+
+| Accounting services | 15% | $180 × 5/15 | $60 | − $0 | $60 |
+
+The total federal non-creditable HST charged is $343, which is the total of all amounts entered in the last column ($20 + $250 + $3 + $10 + $60).
+
+**Step 5 – Calculate your PSB rebate of the GST and/or the federal part of the HST**
+
+The charity calculates the PSB rebate of the GST and the federal part of the HST by adding the total non-creditable GST charged (from Step 3) and the total federal non-creditable HST charged (from Step 4), and then multiplying the result by the federal PSB rebate factor for charities (50%), as follows:
+
+($50 + $343) × 50% = $196.50
+
+The total federal amount to be entered on line 305 of [Form GST66](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst66.html) is $196.50.
+
+**Step 6 – Calculate your provincial non-creditable HST charged**
+
+The following table shows how the charity calculates its provincial non-creditable HST charged using the calculation described in Step 6.
+
+| Eligible purchases or expenses | HST Rate | Multiply HST paid by appropriate fraction | Provincial part of HST | Subtract ITCs, other rebates, refunds, or remissions | Provincial non-creditable HST charged |
+
+| --- | --- | --- | --- | --- | --- |
+
+| Hotel | 13% | $52 × 8/13 | $32 | − $0 | $32 |
+
+| Rent | 15% | $750 × 10/15 | $500 | − $0 | $500 |
+
+| Paper | 15% | $9 × 10/15 | $6 | − $0 | $6 |
+
+| Software | 15% | $30 × 10/15 | $20 | − $0 | $20 |
+
+| Accounting services | 15% | $180 × 10/15 | $120 | − $0 | $120 |
+
+The total provincial non-creditable HST charged is $678, which is the total of all amounts entered in the last column ($32 + $500 + $6 + $20 + $120).
+
+**Step 7 – Determine the extent to which you intended to use each eligible purchase and expense in each province in which you are resident**
+
+The following table shows how the charity determines the extent of use for each eligible purchase and expense in each province using the information in Step 7. The total of the percentages recorded for each eligible purchase or expense must equal 100%.
+
+| Eligible purchases or expenses | Extent of use in Prince Edward Island | Add extent of use in Nova Scotia | Add extent of use in Alberta | Add extent of use outside the provinces in which you are resident | Total |
+
+| --- | --- | --- | --- | --- | --- |
+
+| Hotel | 0% | + 0% | + 0% | + 100% | = 100% |
+
+| Rent | 100% | + 0% | + 0% | + 0% | = 100% |
+
+| Paper | 100% | + 0% | + 0% | + 0% | = 100% |
+
+| Software | 60% | + 20% | + 20% | + 0% | = 100% |
+
+| Accounting services | 50% | + 50% | + 0% | + 0% | = 100% |
+
+**Step 8 – Calculate your PSB rebate of the provincial part of the HST**
+
+Using the information in the tables in Steps 6 and 7, the following tables show how the charity calculates its PSB rebate of the provincial part of the HST using the calculation described in Step 8. The charity must calculate its PSB rebate of the provincial part of the HST for each participating province in which it is resident. The charity is resident in the participating provinces of Prince Edward Island and Nova Scotia. Therefore, it must complete the calculation described in Step 8 for Prince Edward Island and Nova Scotia.
+
+| Eligible purchases or expenses | Multiply PSB rebate factor for a charity resident in the participating province | Provincial non-creditable HST charged | Multiply extent of use in the participating province in which you are resident | Total PSB rebate amount |
+
+| --- | --- | --- | --- | --- |
+
+| Rent/paper | 50% × | $506 | × 100% | $253 |
+
+| Software | 50% × | $20 | × 60% | $6 |
+
+| Accounting services | 50% × | $120 | × 50% | $30 |
+
+The total provincial amount to be entered on line 305-PE of [Form RC7066-SCH](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7066-sch.html) is $289, which is the total of all amounts entered in the last column ($253 + $6 + $30).
+
+| Eligible purchases or expenses | Multiply PSB rebate factor for a charity resident in the participating province | Provincial non-creditable HST charged | Multiply extent of use in the participating province in which you are resident | Total PSB rebate amount |
+
+| --- | --- | --- | --- | --- |
+
+| Software | 50% × | $20 | × 20% | $2 |
+
+| Accounting services | 50% × | $120 | × 50% | $30 |
+
+The total provincial amount to be entered on line 305-NS of [Form RC7066-SCH](https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/formulaires/rc7066-sch.html) is $32, which is the total of all amounts entered in the last column ($2 + $30).
+
+As the charity is not resident in Ontario, it is not entitled to a PSB rebate of the provincial part of the HST paid on the purchase of the hotel accommodation that it used in Ontario.
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST** **enquiry**by **telephone**:
+
+- for **GST/HST general enquiries,** call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries,**call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1-800-567-4692** or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution**(whether or not you are located in Quebec) and require information on the **GST/HST**or the**QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for **general GST/HST**or**QST enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **technical GST/HST**or**QST enquiries**, call **GST/HST Rulings SLFI** at **1-855-666-5166**

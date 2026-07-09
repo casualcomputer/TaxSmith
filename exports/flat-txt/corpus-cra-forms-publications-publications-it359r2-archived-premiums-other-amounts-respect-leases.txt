@@ -1,0 +1,127 @@
+Title: ARCHIVED - Premiums and Other Amounts With Respect to Leases
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it359r2/archived-premiums-other-amounts-respect-leases.html
+Corpus path: corpus/cra/forms-publications/publications/it359r2/archived-premiums-other-amounts-respect-leases.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Premiums and Other Amounts With Respect to Leases
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-359R2**
+
+DATE: December 20, 1983
+
+SUBJECT: INCOME TAX ACT**Premiums and Other Amounts With Respect to Leases**
+
+REFERENCE: Subsection 9(1) (also section 43, subsection 39(1), and paragraphs 18(1)(q), 20(1)(z) and z.1))
+
+This bulletin replaces and cancels Interpretation Bulletin IT-359R dated July 30, 1982. Current revisions are designated by vertical lines.
+
+Amounts Received
+
+Landlord or Tenant
+
+1. A premium or other amount received by a landlord or tenant, as the case may be, as consideration for granting or extending a lease or sublease, permitting a sublease, or cancelling a lease or sublease is business income to the recipient if renting property forms part or all of a business being carried on.
+
+Landlord
+
+2. Where a landlord, not in the business of renting property, receives a premium for granting or extending a lease and the rent charged is less than fair market value, the premium is included in income to the extent that it can reasonably be regarded as being in the nature of rent (e.g., "key money").
+
+3. Occasionally, a lease may provide for the payment of a "premium" but its terms indicate that what is called a premium is really a prepayment of rent. Such an amount is, in fact, additional rent and is income of the recipient. For comments on the tax treatment of such amounts and of amounts described in 2 above, see IT-261R, "Prepayments of Rents".
+
+4. Amounts a landlord receives from a tenant for cancelling a lease or sublease always constitute income to the landlord.
+
+5. In cases where 1 to 3 above do not apply, a premium or other amount received by a landlord as consideration for
+
+(a) granting or extending a lease, or
+
+(b) permitting a sublease
+
+represents proceeds of disposition of rights which are capital property. Usually such a premium is received in a lump sum but the above comment is also applicable where it is not so received. The Department will normally agree to the application of section 43 and will accept an amount equal to the proceeds from such disposition as being the reasonable portion of the adjusted cost base of the whole property attributable to the part disposed of in this situation. Therefore, this would normally result in the adjusted cost base of the property to the landlord being reduced by the amount of such proceeds. No capital loss may be claimed on the granting or extending of a lease or the permitting of a sublease. If no amount is received by the landlord in such a situation, the amount of the adjusted cost base considered to be the reasonable portion attributable to the part disposition is nil.
+
+6. Where a landlord receives an amount from a tenant or prospective tenant towards the cost of increasing, altering, improving, etc. the landlord's property, the contribution does not reduce the capital cost of the property to the landlord. Where a contribution is made by a tenant to a landlord to defray the cost of alterations, improvements, etc. which are current expenses of the landlord or which result in the acquisition of property by the tenant, the amounts received by the landlord will reduce the expenditures made by the landlord.
+
+Tenant
+
+7. Subject to 1 above, a premium or other amount received by a tenant as consideration for
+
+(a) assigning a lease,
+
+(b) granting or extending a sublease, or
+
+(c) in the case of an amount received from a landlord, permitting the cancellation of a lease
+
+is a capital rather than an income receipt to the recipient. The tenant is considered to have relinquished a right or rights in respect of a leasehold interest, and thus such an amount represents proceeds of disposition of part or all of the leasehold interest. Such dispositions are treated in the usual manner, which depends on whether the leasehold interest is
+
+(d) a depreciable property (i.e., one which was used for gaining or producing income and which has a capital cost), or
+
+(e) a capital property, other than a depreciable property
+
+(i) that was used for gaining or producing income but which has no capital cost, or
+
+(ii) that was used primarily for personal use or enjoyment (in which case, it would be a personal-use property and may also be a principal residence).
+
+The comments in this paragraph do not apply to an amount received on granting or extending a sublease that is in lieu of rent or is a prepayment of rent from the subtenant (see comments in 2 and 3 above). Such amount is treated as rent received to the extent that it can reasonably be regarded as such.
+
+8. All amounts received by a tenant as consideration for the disposition of part or all of a leasehold interest are considered to be proceeds of the disposition even where such amounts are calculated with reference to factors such as business losses resulting from relocation, moving costs, etc. Of course, where other assets, such as inventory or goodwill, are disposed of in addition to the leasehold interest, amounts received for such assets are proceeds of disposition of those assets.
+
+9. A payment received by a tenant from a landlord as an inducement to enter into a lease will be considered in the hands of the tenant as
+
+(a) a non-taxable capital receipt where the payment is a reimbursement of part or all of the tenant's capital cost of leasehold improvements within the meaning of Regulation 1102(4);
+
+(b) a reduction of those expenses where the payment is a reimbursement of other expenses incurred by the tenant;
+
+(c) income where the negotiation of leases is a regular part of the tenant's business operations (e.g. a chain store);
+
+(d) a reduction of what would otherwise be the rental expense of the tenant where the payment is a rebate of rent for a period of the lease;
+
+(e) a non-taxable capital receipt in other cases.
+
+Amounts Paid
+
+Landlord
+
+10. An amount paid or payable by an owner of property to a tenant to obtain cancellation of a lease before December 2, 1982 or in respect of a cancellation of a lease pursuant to an agreement in writing entered into before December 2, 1982 was considered deductible under the ordinary rules of computing income from a business or property provided that it was paid for the purpose of producing the income, except where
+
+(a) the owner wished to obtain vacant possession so that the property could be sold or used for a purpose that does not earn income, and
+
+(b) the profit or loss on disposition or deemed disposition of the property would properly be on capital account.
+
+11. A payment with respect to a lease cancellation occurring before November 13, 1981 or pursuant to an agreement in writing entered into before that date, that was not deductible under the ordinary rules of computing income, either because both conditions in 10(a) and (b) above applied, or because it was not made for the purpose of producing income, was deductible under paragraph 20(1)(z), provided that the owner and the tenant were dealing at arm's length. Where the owner and tenant were not dealing at arm's length, such a payment made in connection with a disposition, or a deemed disposition under subsection 45(1), of the property was considered to be an outlay or expense made or incurred for the purpose of making the disposition or deemed disposition and entered into the calculation of the capital gain or loss under subsection 40(1), provided the payment was reasonable in the circumstances.
+
+12. Where a lease is cancelled after December 1, 1982 and the cancellation was not pursuant to an agreement in writing entered into before December 2, 1982, a payment by a landlord to a tenant for the cancellation of the lease is deductible only in the following manner:
+
+(a) If at the end of a particular taxation year the property remains in the ownership of the landlord who agreed to make the payment or was owned by a person with whom the landlord did not deal at arm's length, a deduction is permitted for that particular year, under paragraph 20(1)(z), of the pro rata portion of the amount paid or payable in respect of the cancellation, amortized over the number of days that remained in the term of the lease (including all renewal periods), not exceeding 40 years, immediately before its cancellation.
+
+(b) When the property is disposed of in a taxation year so that neither the landlord who agreed to make the payment nor a person with whom the landlord did not deal at arm's length owned it at the end of the year, a deduction is permitted under paragraph 20(1)(z.1) for the amount paid or payable before the end of that year to the extent of the amount thereof (or in the case of capital property, 1/2 of the amount thereof) that was not deductible by the landlord under (a) above in computing income for any preceding year.
+
+(c) If an amount paid or payable for cancellation of a lease qualified for a deduction in accordance with (b) above, no further deduction may be claimed in respect of that cancellation under either (a) or (b) above in any subsequent year.
+
+These rules also apply where a lease is cancelled after November 12, 1981 and the cancellation was not pursuant to an agreement in writing entered into before November 13, 1981 and the payment was not deductible under 10 above).
+
+13. The words "leased by him" in paragraphs 20(1)(z) and (z.1) do not limit the application of these paragraphs to a lessor who was a party to the original lease of the property. The Department considers that these words also apply to a subsequent owner (landlord) who takes assignment of a lease and remainder interest upon purchase of the leased property.
+
+14. The granting of a rebate of rent for a period of the lease will represent a reduction in what would otherwise have been the rental income of the landlord. An amount paid by a landlord to a tenant to induce the tenant to enter into a lease agreement is usually considered to be a capital expenditure. This is so whether the amount is a contribution towards expenditures by the tenant for or in respect of leasehold improvements or the amount may be used at the tenant's discretion. If the rental of the property is incidental to or constitutes a business operation carried on by the landlord, the amount would be an eligible capital expenditure (see IT-143R2, Meaning of Eligible Capital Expenditure) for which an allowance is permitted by virtue of paragraph 20(1)(b). However, an amount may be paid to the tenant as a funding or reimbursement of payments made by the tenant while acting as a supervisor or agent of the landlord. Where the landlord is responsible for expenditures for or in respect of the cost of repairs, alterations or improvements to the leased property, the expenditures paid through the tenant may qualify either as an expense of the landlord or as an amount to be added to the capital cost of the property of the landlord. Such expenditures of the landlord may not also be classified as expenses or property of a prescribed class of the tenant.
+
+Tenant
+
+15. An amount a tenant pays to cancel a lease or sublease is deductible by the tenant in computing income from a business or property provided the rent is so deductible.
+
+16. Where a tenant pays an amount in lieu of rent (see 2 above) or as a prepayment of rent (see 3 above), such amount is deductible to the tenant in computing income from a business or property provided the rent is so deductible. For the appropriate tax treatment of prepaid rent see IT-261R.
+
+17. Subject to 16 above, an amount that a tenant pays to obtain or extend a lease or sublease or to permit a sublease is a capital expenditure to acquire property that is a leasehold interest. Consequently, the tenant may be entitled to claim capital cost allowance on the payments either under Class 13 of Schedule II of the Regulations, or if applicable, under Class 3, 6, 31, or 32 where the conditions f subsection 1102(5) of the Regulations are met, provided the leasehold interest was acquired for the purpose of gaining or producing income.
+
+18. Where a tenant or prospective tenant reimburses a landlord for some or all amounts spent by the landlord to increase, alter, improve etc. the leased premises, the reimbursement may qualify as an eligible capital expenditure unless ownership of the new property vests in the tenant in which case the reimbursement is the cost of acquiring a capital property on which capital cost allowance may be allowable.
+
+General
+
+19. Amounts paid that are unreasonable in the circumstances are not deductible by virtue of section 67.

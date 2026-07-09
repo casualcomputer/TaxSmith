@@ -1,0 +1,612 @@
+---
+title: "Substantial Renovations and the GST/HST New Housing Rebate"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-092/substantial-renovations-gst-hst-new-housing-rebate.html
+last_modified: 2018-05-29
+---
+# Substantial Renovations and the GST/HST New Housing Rebate
+
+GST/HST Technical Information Bulletin B-092 January 2005
+
+This bulletin does not replace the law found in the *Excise Tax Act* (the “Act”) and its Regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation or contact any Canada Revenue Agency (CRA) tax services office for additional information. If you are located in the Province of Quebec, please contact Revenu Québec for additional information.
+
+Reference in this publication is made to supplies taxable at 7% or 15% (the rate of the harmonized sales tax/HST). The HST applies to supplies made in Nova Scotia, New Brunswick, and Newfoundland and Labrador (the “participating provinces”). If you are uncertain as to whether a supply is made in a participating province, you may refer to GST/HST Technical Information Bulletin B-078, *Place of Supply Rules Under the HST*, available from any CRA tax services office.
+
+## Table of Contents
+
+- [Introduction](#PP32D1402)
+
+- [Substantial renovation](#PP37D3297)
+
+    - [1. General](#PP38D3319)
+
+    - [2. Determining whether a building has been substantially renovated](#PP48D6095)
+
+    - [3. Examples](#PP103E20821)
+
+- [Multiple unit and mixed-use buildings](#PP220E29626)
+
+    - [1. Multiple unit buildings](#PP221E29663)
+
+    - [2. Mixed-use buildings](#PP228E32184)
+
+    - [3. Examples](#PP233E33483)
+
+- [Condominium units](#PP244E36202)
+
+- [Guest and granny suites](#PP249E37749)
+
+    - [Examples](#PP258E39648)
+
+- [Conversions](#PP265E41304)
+
+    - [Examples](#PP271E43560)
+
+- [Major additions](#PP284E46376)
+
+    - [Examples](#PP302E51104)
+
+- [Time frames and extended renovation projects](#PP345E60624)
+
+    - [Example](#PP350E61910)
+
+## Introduction
+
+This bulletin sets out the Canada Revenue Agency’s (CRA) interpretation of the term “substantial renovation” as it relates to the GST/HST new housing rebate. It examines the meaning of the terms “substantial renovation” and “major addition” as they relate to the eligibility of individuals to claim the GST/HST new housing rebate. It also reviews how the concept of substantial renovation applies to various types of residential complexes, how the CRA views a building that is converted to a residential complex, and how to treat a major addition to a residential complex. Finally, this publication sets out the time limitations for claiming the GST/HST new housing rebate.
+
+Even though the rebate is called the “new” housing rebate, individuals who substantially renovate their existing homes may be eligible to claim it (in addition to individuals who construct new homes or purchase them from builders).
+
+It is the individual who owns the housing who is eligible to claim the rebate, whether this individual carries out the renovation him or herself, or engages a contractor to do the work. Further information on who qualifies for the new housing rebate, how to calculate the rebate amount, and how to apply for it is available in the guide (RC4028), [GST/HST New Housing Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4028.html).
+
+While this bulletin deals with individuals who substantially renovate or add a major addition to their existing home, or convert a non-residential property into a personal residence, the meaning of the terms “substantial renovation” and “major addition” is also significant to others who are involved in house construction and renovation such as builders and landlords. Detailed information for builders and landlords is available in GST/HST Memorandum 19.2, [Residential Real Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2.html) , GST/HST Memorandum 19.3, [Real Property Rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3.html) , and the guide (RC4231), [GST/HST New Residential Rental Property Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4231.html) .
+
+## Substantial renovation
+
+### 1. General
+
+The new housing rebate applies to the purchase, construction or substantial renovation of a residential complex. A residential complex is a building or part of a building that includes one or more residential units. Examples include a detached or semi-detached house, a multi-unit apartment building, a residential condominium unit, and a bed and breakfast establishment where it is used primarily (generally meaning more than 50%) as the individual owner’s place of residence or that of a relation [Footnote1](#fn1). A residential complex does not include a hotel or motel room, a boarding house, an inn or any similar premises if all or substantially all (90% or more) of the rentals is for fewer than 60 days.
+
+A residential complex that has been substantially renovated is generally afforded the same GST/HST treatment as a newly constructed residential complex, including eligibility for the new housing rebate. Extensive modifications must be made to meet the definition of substantial renovation.
+
+Pursuant to subsection 123(1) of the *Excise Tax Act* (the Act), the term “substantial renovation” of a residential complex means:
+
+the renovation or alteration of a building to such an extent that all or substantially all of the building that existed immediately before the renovation or alteration was begun, other than the foundation, external walls, interior supporting walls, floors, roof and staircases, has been removed or replaced where, after completion of the renovation or alteration, the building is, or forms part of, a residential complex.
+
+In other words, a substantial renovation is considered to have taken place where all or substantially all of the interior of a building, with the exception of certain structural components (the foundation, external walls, interior supporting walls, roof, floors and staircases), has been removed or replaced.
+
+Only certain renovations are taken into account when determining whether a building has been substantially renovated. Once this determination is made, certain other costs may be included in the rebate claim. To qualify for the rebate, such expenditures:
+
+- must relate to the renovation project that resulted in the substantial renovation of the building; and
+
+- must relate to an improvement to the building. An improvement to a residential complex is generally anything that is affixed to the land or the building. An improvement would include, for example, a door, shelving or an attached deck, but would not include furniture, freestanding appliances or throw rugs.
+
+### 2. Determining whether a building has been substantially renovated
+
+The definition of substantial renovation sets out the following requirements that must be met before a residential complex is considered to be substantially renovated (these requirements are explained in detail below):
+
+(i) all or substantially all,
+
+(ii) of the existing building,
+
+(iii) must be removed or replaced.
+
+This definition also lists certain structural elements (foundation, external walls, etc.) that are not required to be removed or replaced. These structural elements are discussed under the subheading “excluded elements”.
+
+**(i) all or substantially all**
+
+This requirement addresses how much of the building has to be renovated. The definition of substantial renovation describes this as “all or substantially all of the building that existed immediately before the renovation or alteration was begun”.
+
+Generally, all or substantially all is interpreted as meaning 90% or more. To meet this requirement, at least 90% of the building that existed before the renovations began must be renovated to some minimum degree. This determination applies to the interior area of the building.
+
+Any fair and reasonable method is acceptable for determining whether all or substantially all of a building has been renovated. The following are typical methods:
+
+- *Square footage of floor space of the areas renovated compared to the total floor space of the building* For example, a house has 2000 square feet of floor space and renovations took place in all areas except for one 200 square foot room. Since the renovated area of 1800 square feet is 90% of the total area, the “all or substantially all” requirement has been met.
+
+- *Square footage of floor and wall space of the areas renovated compared to the total floor and wall space of the building* For example, a house has 2000 square feet of floor space and 5000 square feet of interior wall space, for a total of 7000 square feet. Renovations took place throughout the building except for one room that has 300 square feet of floor space and 800 square feet of wall space for a total of 1100 square feet. Therefore, 5900 square feet (7000 – 1100), or 84% of the 7000 square foot house, was renovated. This does not meet the “all or substantially all” requirement.
+
+- *Number of rooms renovated compared to the total number of rooms in the building* For example, a house has 10 rooms of which nine have been renovated. Since nine of the 10 rooms, or 90%, were renovated, the “all or substantially all” requirement has been met.
+
+The method used must be fair and reasonable in the circumstances. For instance, if one room represented half the area of the building and it was not renovated, it would not be fair and reasonable to use the number of rooms as a method. This does not mean that the rooms have to be the same size, but the size of any one room should not distort the result.
+
+Neither the cost of the renovations nor the fair market value of the improvements made is an acceptable basis for determining whether the “all or substantially all” requirement is met. This requirement is based on the actual physical renovations to the building rather than the cost or value of such renovations.
+
+**(ii) of the existing building**
+
+As the definition of substantial renovation stipulates, it is the “building that existed immediately before the renovation or alteration was begun” that must be substantially renovated. This means that additions to the existing building are generally not taken into account in determining whether there is substantial renovation. More detailed information on this topic is found under the heading *Major additions*.
+
+For example, a 2000 square foot bungalow is being renovated and part of the project involves adding an attached 300 square foot bedroom. In determining whether all or substantially all of the building has been renovated, the addition is ignored. The test is whether 90% of the existing 2000 square foot bungalow has been substantially renovated. If it is determined that the existing building has been substantially renovated, any tax related to the costs of the addition will be eligible for the new housing rebate.
+
+Only habitable areas of a building should be taken into account when determining whether the building has been substantially renovated. In addition to the main floor(s) living areas, habitable areas include finished basements and finished attics. A guest bedroom over a detached garage is also an example of a habitable area.
+
+Habitable areas do not include garages, parking areas, crawl spaces, or any areas set aside for the placement of equipment for the heating of, or the supply of water, gas, or electricity to, the complex. Such areas are ignored in determining whether the minimum requirements of the definition of substantial renovation are met.
+
+The CRA would not consider a partially completed basement that has, for example, roughed-in plumbing and partially completed walls to be habitable. While it may be used for some purposes, the CRA would not consider it to be habitable, and therefore, it would not be included in determining whether the building has been substantially renovated.
+
+While a basement would not necessarily require the same standard of comfort and amenities as the main floor of a house, to be considered habitable, it should at least have finished walls, a ceiling, flooring and electrical wiring. Similarly, to be considered habitable, an attic should have a permanent means of access such as a staircase or ramp as well as finished walls, a ceiling, flooring, and electrical wiring.
+
+Work done in the above-noted areas so that they are partially complete (but not yet habitable) should be ignored in determining whether the minimum requirements of the definition of substantial renovation are met. For example, the main floor of a house measures 1000 square feet and 90% of this space is sufficiently renovated. In addition, this house has a 1000 square foot partially finished basement. In this situation the CRA would accept that all or substantially all of the building has been renovated. The 1000 square foot basement may be ignored since it is not yet habitable.
+
+If, as part of a renovation project, a section of an unfinished basement were enclosed with finished walls and used, for example, as a family room, this area could be treated as a habitable area and taken into account in determining whether a sufficient area of the house has been substantially renovated.
+
+#### Example
+
+The area of the main floor of a house measures 1000 square feet, which is the same area as that of the unfinished basement. For the renovation project, 850 square feet of the main floor are completely replaced. As well, 700 square feet of the basement are completely renovated (finished walls, ceiling, flooring, electrical outlets) for use as a family room. In this example, the finished part of the basement may be used in determining whether all or substantially all of the house has been renovated as follows:
+
+Area renovated : 850 + 700 = 1550 sq. ft. Total area considered : 1000 + 700 = 1700 sq. ft. Percentage renovated : 1550 ÷ 1700 = 91%
+
+In summary in this example, whereas only 85% of the main floor was renovated, substantially all of the house has been renovated when the finished area of the basement is taken into account.
+
+**(iii) must be removed or replaced**
+
+This requirement addresses the type or nature of the renovations required to satisfy the definition of substantial renovation. According to this definition, at least 90% of the existing building must be removed or replaced with the exception of the foundation, external walls, interior supporting walls, floors, roof and staircases (referred to as the excluded elements).
+
+Although the excluded elements may be ignored in determining whether there is a substantial renovation, under some circumstances removing or replacing excluded elements may be taken into account in determining that a substantial renovation has taken place. For example, it is not necessary to replace the floors since the floors are an excluded element. However, if the floors are replaced, this may be taken into account in determining that a building has been substantially renovated.
+
+In a major renovation project, the interior of a building is essentially gutted. For example, the interior walls (other than supporting walls) are completely removed and the ceilings and floors are replaced; the heating, electrical and plumbing systems are replaced, including the ductwork; and the wiring and plumbing connections and all fixtures (e.g., plumbing and lighting fixtures and fixed appliances) are replaced as are the kitchen counters and cabinets. This type of renovation project constitutes a substantial renovation.
+
+The following addresses what, at a minimum, must be removed or replaced to meet the requirements of the definition of substantial renovation. Generally, all interior walls (e.g., drywall) throughout the subject area (at least 90% of the building) would have to be removed or replaced (i.e., the walls stripped to the studs and refinished and replaced with drywall). In the case of older homes with plaster walls, covering the walls with new drywall would suffice. However, it would not be sufficient to remove or replace **only** the walls. The removal or replacement of the walls together with the removal or replacement of either the ceiling or floors throughout the subject area would be sufficient to meet the minimum requirement. It would not be necessary to replace the entire heating, electrical or plumbing systems to meet the minimum requirements for a substantial renovation.
+
+“Removing or replacing” does not include repairing. For instance, patching drywall, painting surface areas, sanding a hardwood floor, or adding varnish or a plastic coating would not qualify as removing or replacing. Repairs are not taken into consideration in determining whether a substantial renovation has taken place and may not be included in a new housing rebate claim.
+
+The renovations required to meet the minimum requirements of the definition of substantial renovation may vary depending on the type of room being renovated. As noted above, removing or replacing the walls together with either the ceilings or floors would qualify, regardless of the room being considered. For particular rooms, however, other possibilities may lead to a determination that a room has been substantially renovated. For example:
+
+- In a typical kitchen, a large part of the wall area may be covered by cupboards and cabinets (i.e. cabinetry). The removal or replacement of the cabinetry (without removing the walls behind it) as well as the ceiling or floor and remaining wall area would generally be sufficient.
+
+- In a typical bathroom, removing or replacing the walls and the fixtures (the toilet, tub, vanity) would be sufficient. Since the requirement is to remove **or** replace, it may be sufficient to remove and then reinstall the same fixtures in the bathroom in addition to removing or replacing the walls.
+
+- In a typical bedroom or hallway, removing or replacing the drywall (or covering the plaster with drywall) and either the floor or the ceiling would usually be sufficient.
+
+In determining whether substantially all of the building has been removed or replaced, much may depend on the method used in making the “all or substantially all” determination.
+
+#### Example
+
+A house has 10 rooms. Eight of the rooms are completely gutted and rebuilt. Of the remaining two rooms, the flooring in Bedroom A is replaced and the flooring and one wall are replaced in Bedroom B. Including these two bedrooms, over 90% of the total wall and floor space in the house is removed or replaced.
+
+In this example, if the method used in determining the “all or substantially all” requirement is based on the number of rooms renovated, neither bedroom would have met the “removed or replaced” requirement (i.e., only eight of the 10 rooms would have met this requirement, short of the 90% requirement). However, if the method used is based on the percentage of the total floor and wall area of the house that is removed or replaced, the renovations to the floors in both bedrooms and the one wall in Bedroom B would be included in the area that is removed or replaced. Taking these areas into account, over 90% of the total wall plus floor space in the house is removed and replaced. Therefore, it is now reasonable to determine that the house has been substantially renovated.
+
+If the amount of work done in a particular area is less than the minimum requirement described above, then the area may be treated as falling outside the “all or substantially all” subject area described above. Again, a building may be substantially renovated even though up to 10% of the building may undergo little or no renovation.
+
+#### Example
+
+A 5000 square foot house is undergoing renovations. In one room measuring 250 square feet, there are no renovations. In another room measuring 200 square feet, the renovations carried out do not meet the “removed or replaced” test. The remaining 4550 square feet of the house do, however, meet this test.
+
+As a result, the house in this example is substantially renovated because at least 90% of it (i.e., at least 4500 square feet) is removed or replaced. This example illustrates that little or no renovation is required in these two rooms since they make up 10% or less of the area of the house.
+
+**(iv) excluded elements**
+
+The term “substantial renovation” means the renovation of a building to such an extent that all or substantially all of the building is removed or replaced, other than the foundation, external walls, interior supporting walls, floors, roof and staircases, which are referred to as the excluded elements.
+
+The excluded elements include the basic structural elements of the building. Since these elements are excluded from the definition of substantial renovation, it is possible to renovate a building substantially without modifying these elements (i.e., the parts or areas of the building that must be removed or replaced do not include these elements).
+
+Although the excluded elements may be ignored when determining whether there is substantial renovation, the removal or replacement of these elements may sometimes be taken into account in determining that a substantial renovation has taken place. For instance, although the floors are an excluded element, replacing the floors may be taken into account in determining that a building has been substantially renovated. For example, if the walls and floors of a room are removed or replaced, this would be sufficient to consider that this area has met the minimum requirement. Similarly, the removal or replacement of the supporting walls and interior staircase areas may be taken into account.
+
+### 3. Examples
+
+***Gordon T.***
+
+Mr. T.’s bungalow has a 2000 square foot main floor together with a 2000 square foot unfinished basement. Recently, Mr. T. carried out renovation work. He completely gutted and replaced three of the five rooms on the main floor as well as the hallways. The hallways are about the area of an average room. This renovated area totals 1400 square feet. The main floor had total wall space of 5500 square feet of which 3600 square feet were replaced. He also constructed a 900 square foot finished addition to the main floor, which included a 400 square foot dining room and a 500 square foot attached garage.
+
+In the basement, he installed studs and drywall along the exterior walls, and added wiring and roughed-in plumbing. He framed in one 600 square foot room that had 800 square feet of wall area, and in this room, he finished the walls and ceiling, and added carpet so that it could be used as a family room. The rest of the basement is unfinished.
+
+Gordon T. may use any fair and reasonable method in determining whether all or substantially all of the building that existed at the time the renovations began was removed or replaced. Generally, it would not be necessary to use more than one method. Here are examples of three different methods.
+
+- *Square footage of floor space of the areas renovated compared to the total floor space of the building*
+
+**Area renovated:**
+
+Main floor + basement: 1400 sq. ft. + 600 sq. ft. = 2000 sq. ft.
+
+**Total floor space:**
+
+Main floor + basement: 2000 sq. ft. + 600 sq. ft. = 2600 sq. ft.
+
+% of the building removed or replaced : 2000 ÷ 2600, which equals 77%
+
+- *Square footage of floor and wall space of the areas renovated compared to the total floor and wall space of the building*
+
+| **Main floor:** |  |
+
+| --- | --- |
+
+| floor area | 1400 sq. ft |
+
+| wall area | 3600 |
+
+| **Basement:** |  |
+
+| floor area | 600 |
+
+| wall area | 800 |
+
+| **Total** | 6400 sq. ft |
+
+| **Main floor:** |  |
+
+| --- | --- |
+
+| floor area | 2000 sq. ft. |
+
+| wall area | 5500 |
+
+| **Basement:** |  |
+
+| floor area | 600 |
+
+| wall area | 800 |
+
+| **Total:** | 8900 sq. ft. |
+
+% of the building removed or replaced: 6400 ÷ 8900, which equals 72 %
+
+- *Number of rooms renovated compared to the total number of rooms in the building*
+
+| Main floor | 3 |
+
+| --- | --- |
+
+| Hallways | 1 |
+
+| Basement | 1 |
+
+| **Total** | 5 |
+
+| Main floor | 5 |
+
+| --- | --- |
+
+| Hallways | 1 |
+
+| Basement | 1 |
+
+| **Total** | 7 |
+
+% of building removed or replaced: 5 ÷ 7 = 71%
+
+In each of these methods, the 900 square foot addition is ignored for purposes of the determination. In addition, where the basement is concerned, only the finished family room is taken into account.
+
+An individual may use any fair and reasonable method in making a determination. In this example, none of the methods described above indicate that all or substantially all of the building has been removed or replaced. On this basis, the work done by Gordon T. does not meet the definition of substantial renovation.
+
+***Shirley K.***
+
+Shirley K. has a six-room bungalow that consists of a kitchen/dining room, living room, two bedrooms, a den and a bathroom. The den makes up about 10% of the floor area. The basement remains unfinished. She hires a renovator who does the following:
+
+- In the bedrooms and living room, he replaces the drywall and flooring.
+
+- In the kitchen/dining room, he replaces the cupboards and cabinets, exposed drywall, and flooring.
+
+- In the bathroom, he removes the plumbing fixtures, upgrades the plumbing connections (and removes drywall in the process), replaces the drywall, and installs new fixtures.
+
+- In the den, he patches cracks in the drywall and replaces the flooring.
+
+In this example, all of the building has been renovated to some extent (the unfinished basement may be ignored) so that the “all or substantially all” requirement has been met. All areas of the building, except the den, have been sufficiently removed or replaced. The walls in the den have been repaired, but the repairs are not sufficient to be considered as removal or replacement. However, since the den is only 10% of the building’s area, it may be treated as falling outside the 90% area that requires removing or replacing. In summary, at least 90% of the building was removed or replaced, resulting in a substantial renovation.
+
+***Ira G.***
+
+Ira G. acquires a Victorian mansion. The ground floor consists of a large kitchen, a living room, library and bathroom. There are four bedrooms and a bathroom on the second floor which has the same area as the ground floor. He carries out significant renovations in 2002 and 2003.
+
+In 2002, the following renovation work took place:
+
+- A new furnace was installed and changes were made to the ductwork throughout the house. New plumbing and fixtures were added to the kitchen and bathrooms.
+
+- In the kitchen, new cupboards and counters were added. The walls and ceiling were repainted and new linoleum replaced the existing floor.
+
+- A bathroom off the kitchen was removed and a new bathroom was constructed in one of the upstairs bedrooms. No other changes were made to the upstairs other than adding new ductwork for the heating system and new plumbing and fixtures in the new bathroom.
+
+- The wall between the kitchen and the old bathroom was removed and a dining area was created.
+
+- A new entrance and window were added to the back of the house.
+
+- The floorboards, joists and beams in all of the ground floor rooms were replaced.
+
+- 90% of the ceiling on the ground floor was replaced.
+
+Although the renovation work done in 2002 was significant, the CRA would not consider it to be a substantial renovation since less than all or substantially all of the building had been removed or replaced. The upstairs has the same area as the ground floor, and while some renovations were carried out upstairs, they would not, except for the bathroom, be considered removal or replacement of that area. At this point, the renovation work would not be considered to be substantial.
+
+In 2003 Ira G. continued the renovation project as follows:
+
+- A larger living room was created by removing a wall between the existing room and the library.
+
+- All the upstairs bedrooms were modernized by replacing the existing plaster on the walls and ceilings with drywall, by repainting, by installing parquet flooring and new shelving in all closets. Skylights were added in three of the bedrooms.
+
+- A new roof was put on and a new interlocking brick sidewalk was laid.
+
+In this example, the work done in 2003 combined with that carried out in 2002 would be considered to be a substantial renovation since all or substantially all of the interior of the house has been removed or replaced.
+
+While the new roof and new interlocking brick sidewalk are not taken into account in determining whether there has been substantial renovation, the tax paid on these projects would also be eligible for the new housing rebate since they are improvements to the residential complex. The same holds true of other improvements such as the new furnace and the plumbing fixtures.
+
+***Bob S.***
+
+Bob S. lives in a bungalow that consists of a kitchen, bathroom, living room, family room and three bedrooms. In 2001, the following renovation work was undertaken:
+
+- Some wall area in two of the bedrooms was patched.
+
+- The interior and exterior of the house was repainted.
+
+- The kitchen was completely renovated by replacing the counters, cupboards, floors and appliances.
+
+- The roof and the exterior siding were replaced.
+
+In this example, the renovation work is not considered to be a substantial renovation since the interior of the house has not been sufficiently removed or replaced. While it is true that some work has been done to all or substantially all of the building, the nature of. the work done to the areas other than the kitchen cannot be said to be removal or replacement of those parts of the building.
+
+***Douglas J.***
+
+Douglas J.’s house consists of a living room, kitchen, family room, four bedrooms and an unfinished basement. The renovation work on this house consisted of replacing the drywall throughout the house, installing laminate flooring in the kitchen and bathroom, laying new carpet over the old tile flooring in the other rooms, and replacing the kitchen counters and cabinets.
+
+In this example, since the entire habitable area of the house has been renovated to some extent, Douglas J. has met the “all or substantially all” requirement. Furthermore, since he has replaced all of the interior walls, installed new kitchen counters and cabinets, and replaced the old flooring with carpets and laminate, he has met the requirement that all or substantially all of the building has been removed or replaced.
+
+It is not necessary to replace the floors, since they are among the elements excluded in determining whether there has been a substantial renovation. However, if they are removed or replaced, as in this example, such work may be taken into account in determining that the building has been sufficiently renovated.
+
+In summary, Douglas J. has met the requirements for substantially renovating his house.
+
+## Multiple unit and mixed-use buildings
+
+### 1. Multiple unit buildings
+
+A multiple unit building is a building that contains two or more residential units (e.g., apartment buildings and condominium complexes).
+
+For purposes of the new housing rebate, a single unit residential complex means a residential complex containing no more than two residential units under a single title. It includes a detached house or a duplex held under a single title, but does not include a triplex held under a single title.
+
+The new housing rebate applies only to the purchase, construction or substantial renovation of a single unit residential complex (including a duplex held under a single title) or a residential condominium unit.
+
+The substantial renovation of a residential complex requires that all or substantially all of the building be removed or replaced (other than the excluded elements). Where a single unit residential complex consists of two units under a single title, it is the building containing the two units that must be substantially renovated in order to qualify for the rebate. For example, an individual would not be eligible to claim the new housing rebate if just one of the units was renovated (unless that one unit was 90% or more of the building).
+
+The substantial renovation of a building containing more than two residential units would not qualify for the rebate because such a building would not be a single unit residential complex. The exception is certain homes used partially to provide short-term accommodation and used primarily as the owner’s place of residence (e.g., certain bed and breakfast establishments)[Footnote2](#fn2). The substantial renovation of a particular unit in such a building would qualify for the rebate if that unit were owned under its own separate title. That is, where each residential unit in a multiple unit building is owned under separate title, the individual may be eligible to claim the new housing rebate for his/her particular unit that is substantially renovated. It would not be necessary for the entire building to be substantially renovated. Eligibility for the new housing rebate is determined on a unit-by-unit basis, depending on whether the particular unit being held under separate title is substantially renovated.
+
+### 2. Mixed-use buildings
+
+A mixed-use building is a building that is used for both residential and non-residential (e.g., commercial) purposes.
+
+Where a mixed-use building contains a number of residential units, the provisions described above for multiple unit buildings apply. That is, if a particular residential unit is owned under its own separate title, the individual owner may be eligible to claim the new housing rebate if his/her particular residential unit is substantially renovated. If the building contains more than two residential units and the units are all held under one single title, the new housing rebate will not be available because the building would not be a single unit residential complex. [Footnote3](#fn3)
+
+In a mixed-use building, it would be necessary to substantially renovate only that part of the building containing the residential unit(s) to qualify for the rebate. It would not be necessary to substantially renovate the whole building (the non-residential part). The new housing rebate would be available only in respect of the residential portion of the building.
+
+### 3. Examples
+
+***Robert V.***
+
+Robert V. lives with his family in a large heritage house that he owns. The top level of the house is a self-contained apartment with a separate entrance that is used by his daughter. This apartment takes up about 30% of the area of the house. In 2001, Robert V. completely renovated the apartment. He also made some minor renovations to the rest of the house.
+
+It is not sufficient that all or substantially all of the apartment was renovated. Since the entire building is one residential complex, it is the entire building that must be substantially renovated. Therefore, Robert V. is not eligible to claim the new housing rebate for the tax paid on renovating the apartment and the rest of the house.
+
+***William R. and Walter K.***
+
+William R. and Walter K. live in a building that consists of two residential units and each of them owns one unit under separate legal title. In a renovation project, Walter K. replaces substantially all of the interior of his unit (other than the excluded elements). William R. does not renovate his unit.
+
+Because the units are each owned under separate title, each unit is a residential complex. Accordingly, it is possible to renovate substantially one unit and qualify for the new housing rebate without substantially renovating all of the units in building. In this example, Walter K. is eligible to claim the new housing rebate for the tax paid on renovating his residential unit because he has substantially renovated his residential unit.
+
+***Dr. Sandra T.***
+
+Dr. Sandra T. operates a dental practice out of her house. The area of the dental office is about 60% of the area of the house, and her residence is about 40%. Dr. Sandra T. carries out substantial renovations to the residential portion—the interior of the residential portion is completely gutted and replaced. She also makes minor improvements to the dental office.
+
+The requirement for the rebate is that all or substantially all of the interior of the building, or that part of the building that forms part of a residential complex, must be removed or replaced. Only part of the building in this example is a residential complex, and so it is just that part that must be substantially renovated.
+
+Dr. Sandra T. is eligible to claim the rebate with respect to the costs incurred in substantially renovating the residential portion of the building. However, she will not be entitled to a rebate with respect to the renovations to the dental office. This would be the case even if the changes made to that portion were substantial renovations. The reason for this is that only tax that is paid on improvements to a residential complex, or that part of a building that is a residential complex, qualifies for the rebate.
+
+## Condominium units
+
+A residential condominium unit means a residential complex that is a bounded space described as a separate unit on a provincially registered condominium or strata lot plan and includes any interest in land pertaining to the ownership of the unit.
+
+Where a residential unit is owned [Footnote4](#fn4) under separate title from the rest of the units in a complex, it is itself viewed as a separate residential complex as referred to in the definition of substantial renovation. As such, it can be substantially renovated. So, if the interior (i.e., the bounded space referred to above) of a residential condominium unit is substantially renovated, the individual owner of this unit will be eligible to claim the new housing rebate with respect to the tax paid on the renovation costs.
+
+The determination of whether a residential condominium unit has been substantially renovated (i.e., whether the 90% threshold has been met) does not have to take into account the areas (hallways, reception area, etc.) that are owned in common by all of the residents.
+
+## Guest and granny suites
+
+Sometimes individuals modify the interior of their homes or construct an addition to create a self-contained suite to serve as accommodation for their friends or relatives. Examples include a guest suite over a garage or in a basement, and an ensuite or detached suite for a relative (e.g., a granny suite).
+
+Modifying an existing area of a house to construct a self-contained suite (e.g., part of the house is partitioned off as a suite) would not be considered to be a substantial renovation of the house or the suite unless all or substantially all of the interior of the house, other than the excluded elements, is removed or replaced.
+
+The exception is if the suite is, or is intended to be, owned under separate title from the rest of the house. In this case, the suite itself would be considered to be a residential complex, and if all or substantially all of the area of the suite were removed or replaced, the suite would be viewed as being substantially renovated.
+
+In some situations, the guest or granny suite is constructed as an addition to the existing residence. Since substantial renovation requires removal or replacement of all or substantially all of the existing building, an addition to the existing building would not qualify as substantial renovation.
+
+The construction of a guest or granny suite may be eligible for the new housing rebate where:
+
+- the suite is constructed as an addition to the existing building and the existing building is substantially renovated;
+
+- the suite is constructed as an addition to the existing building and the addition is, or is intended to be, owned under separate title; or
+
+- where a self-contained suite is detached from the house so that it is its own building. In this situation, the rebate would be based on the fact that there is a newly constructed residential complex rather than a substantial renovation of an existing one.
+
+### Examples
+
+***Bill M.***
+
+Bill M. owns the house that he lives in. He constructs a separate building that will be a self-contained granny suite be used as his mother’s primary place of residence but will not be held under separate title. The fair market value of the granny suite is $150,000. He is also constructing an enclosed walkway between the granny suite and his house, which provides access from one structure to the other – it is not used for any other purpose. Bill M.’s mother is the first individual to occupy the granny suite after construction has begun.
+
+In this example, Bill M. has essentially constructed a new residential complex (i.e., he has constructed a single unit residential complex since it is in a separate building). Since it is intended to be the primary place of residence for a relation (his mother), he is eligible to claim the new housing rebate.
+
+***Wanda B.***
+
+Wanda B.’s residence has a detached garage. Wanda B. had a second level added to the garage, consisting of a bedroom and a bathroom. It is not a self-contained suite because it does not have any kitchen facilities. The addition is used as a guest suite for visits by friends and relatives.
+
+In this example, Wanda B. is not eligible to claim the new housing rebate because she has not constructed a separate residential complex. The definition of residential complex states that a residential complex includes common areas and other appurtenances that are reasonably necessary for the use and enjoyment of the building as a place of residence. As a result, the guest suite would be considered an appurtenance to Wanda’s residential complex not a residential complex in and of itself.
+
+## Conversions
+
+Where a building is converted from non-residential to residential use, the residential complex is deemed [Footnote5](#fn5) to have been substantially renovated regardless of how much work, if any, is actually done.
+
+This deeming provision applies where an individual begins to use real property such as a building as a residential complex, and immediately before that time, it was not held or used as a residential complex. For example, it may have been used, or held for use, as capital property in a business or commercial activity of the individual and then been converted to residential use. This deeming provision would not apply if, for instance, a building (or any portion) were used as a residential complex both before and after non-substantial modifications.
+
+If an individual converts a building that was used for a purpose other than as a residential complex into a residential complex (i.e., it is intended to be used as a place of residence), the individual will be eligible to claim the new housing rebate.
+
+The deeming provision may also apply where a building that was used by another person for non-residential purposes is sold to an individual for use as a personal residence. In this situation, the CRA would view the individual as purchasing a non-residential property and converting it to residential use. The purchaser would then be deemed to have substantially renovated the building, and would be eligible to claim the new housing rebate with respect to any tax paid on the acquisition.
+
+## Examples
+
+***John and Melissa H.***
+
+John and Melissa H. convert their large single home to two side-by-side residential units. They remained in one half and sold the other half, including the subjacent and contiguous land, to a young couple. Some modifications were made, but there was no actual substantial renovation of the premises.
+
+In this example, there has been no conversion resulting in a deemed substantial renovation because there was no non-residential use of the property. John and Melissa H. are not entitled to claim the new housing rebate in respect of the tax paid on their renovations.
+
+***Dr. Rex X.***
+
+Dr. Rex X. has his dental practice on the ground floor of a two-storey building that he owns. The ground floor makes up 60% of the building’s area. He uses the second level, consisting of 40% of the building, as his primary place of residence. In 2003, he retired and carried out some modifications (but not substantial) to the ground floor, converting the entire building into his personal residence.
+
+Because the building was used as a residential complex both before and after the modifications, there was no conversion of the building from non-residential to residential use. Therefore, there is no deemed substantial renovation. Because there has not been any deemed or actual substantial renovation, Dr. Rex X. is not eligible to claim the new housing rebate.
+
+***Zeona Z.***
+
+In July 2003, the owners of Mary Doe Florists went out of business and, on October 1 of that year, they sold the building that housed their shop to Zeona Z. The building stood vacant between July and October 2003. Zeona Z. purchased the building intending to use it as her primary place of residence. Zeona Z. hired a contractor to renovate the building during the months of October and November so that it would be suitable as a personal residence. On December 1, 2003, she moved in to her new personal residence.
+
+On the basis that Zeona Z. began to use the building in question as a residential complex and, immediately prior to that, it was not used as a residential complex, she is deemed to have substantially renovated the complex. Therefore, she is eligible to claim the new housing rebate in respect of the tax paid on the acquisition and renovations.
+
+***Nora L.***
+
+Nora L. owns a duplex and rents both units. Last year, after both tenants moved out, she decided to convert the duplex into a single unit residential complex for her own use as a residence. She had to make some renovations, but they were not substantial.
+
+The property remains a residential complex before and after the renovation. Therefore, this is not a conversion to which the deeming provision applies. Since the renovations made were not substantial renovations, and are not deemed to be substantial renovations, Nora L. will not be entitled to claim the new housing rebate.
+
+## Major additions
+
+There are circumstances where an addition to an existing residential complex together with renovation of that complex will result in eligibility for the new housing rebate.
+
+An addition will not qualify for the rebate on the basis that it is, or is part of, the substantial renovation of a residential complex. This is because the definition of substantial renovation stipulates that it is the existing structure that must be substantially renovated. If the existing structure is substantially renovated, then the new housing rebate is available for any additions made to it. However, since the focus is entirely on the existing structure, additions to an existing residence are generally not taken into account in determining whether the residential complex has been substantially renovated.
+
+The new housing rebate is available if it is determined that the renovations and addition to the existing residence are so significant that the resulting structure may be viewed as a newly constructed residential complex.
+
+This is a test of more than just size. Even if the addition is as large or larger than the existing residence, it would not be viewed as creating a newly constructed residential complex if the existing residence remains largely intact. Rather, the existing residence must become a minor part of, and be incorporated into, the newly constructed residential complex.
+
+The following guidelines may be used to determine whether a major addition to an existing residential complex results in a newly constructed residential complex:
+
+1. The addition should at least double the size (in terms of floor space, for example) of the habitable areas of the existing residence to be considered a newly constructed residential complex. However, the relative size of the addition alone is not sufficient to make this determination.
+
+2. The existing residence must cease to exist both physically and in the manner in which it had functioned as a residential unit, and must become integrated, along with the addition, into what is essentially a new residential complex. This will require, at a minimum, the following physical and functional changes to the existing residence:
+
+(a) *Physical changes required*
+
+Where a particular room or area is concerned, the physical changes required would include the addition and/or removal of the interior wall(s) of the existing structure and the removal of at least some of the adjoining wall(s), where applicable [Footnote6](#fn6) between the existing residence and the addition. In the kitchen and bathroom areas, removing or replacing plumbing fixtures, cabinetry, or kitchen counters would suffice. Physical changes of this nature would be required in at least 50% of the area (or most of the rooms) of the existing residence.
+
+On the basis of the above, it is evident that merely adding or rearranging the furniture in a room or area, or making minor renovations, would not be viewed as a sufficient physical change.
+
+(b) *Functional changes required*
+
+Functional changes refer to changes in how the rooms of the existing residence are used as a result of constructing the major addition. To view the original residence as ceasing to exist as a residential complex, there must be a fundamental change in how most of the rooms or floor space in the existing residence are used.
+
+Furthermore, the fundamental changes in how the existing residence is used must be a result of its integration with the addition in forming a new residential complex. Accordingly, it would not be sufficient just to reconfigure the interior of the existing residence if it could continue to be used by its residents as a self-contained residential unit. There must be interdependency between the existing residence and the addition in order to view the resulting structure as functioning as a new residential complex.
+
+While functional changes are distinct from physical changes, a fundamental change in how a room or area is used would require material physical changes. It would be necessary to do more than change how an area of the pre-existing residence is used without making physical changes to it and, as described under (a) above, the physical changes must be significant.
+
+These requirements do not necessarily mean that a room such as a kitchen must cease to be used as a kitchen. However, to meet these requirements, there would have to be material modifications to the existing kitchen in its integration into the new complex.
+
+As in the case of substantial renovation, the cost or fair market value of a major addition is not to be used in determining whether a new residential complex has been constructed.
+
+### Examples
+
+***Lynn M.***
+
+Lynn M. hires a contractor to renovate her 2000 square foot house that consists of a kitchen, living room, two bedrooms and a bathroom. The contractor adds a 2100 square foot addition that has two extra bedrooms, a bathroom and a large recreation room. About 70% of the interior of the existing house is completely gutted and redone. The exterior wall between the existing house and the new addition is removed with the result that the area of the two existing bedrooms is significantly expanded. While significant modifications are made to the other rooms in the existing 2000 square foot space, their function remains unchanged (i.e., there is still a kitchen, living room, two bedrooms and a bathroom).
+
+Since only 70% of the existing area is removed or replaced, this falls short of the all or substantially all requirement in the definition of substantial renovation. Accordingly, since the existing residential complex has not been substantially renovated, Lynn M. is not entitled to claim the new housing rebate.
+
+The question then arises as to whether the addition to the existing residence is so significant that the integration of the addition with the existing residence would be viewed as a new residential complex. While the addition is significant in size, and significant physical changes have been made to the interior of the existing residence, it cannot be said that the existing residence has ceased to function as a residential unit.
+
+There has not been a fundamental change in how most of the rooms or floor space in the existing residence are used. Furthermore, there is insufficient integration or interdependency between the existing residence and the addition. The original residential unit continues to have all of its pre-existing components and the addition only enhances that unit. The original premises have remained largely intact and continue to form a significant part of the post-construction premises.
+
+Accordingly, Lynn M. is not entitled to claim the new housing rebate since she has neither substantially renovated the existing residence nor constructed a new residential complex.
+
+***Mary K.***
+
+Mary K. owns a 1500 square foot house consisting of a kitchen, living room, bathroom and two bedrooms. Recently, she constructed a 1600 square foot addition to the house. The following generally describes the modifications made:
+
+- The addition was made to the rear of the house and the rear wall of the original house was removed.
+
+- A new kitchen area was created which more than doubled the size of the original kitchen. Most of the expanded area is in the new addition. The original kitchen area was maintained and is incorporated into the new kitchen. The old cupboards and counters were replaced in the expanded kitchen.
+
+- An L-shaped family and dining room was created in the addition and it incorporates much of the original living room. As well, a partition was constructed in the original living room, creating a breakfast nook annexed to the new kitchen.
+
+- One of the two bedrooms and the bathroom in the original structure were maintained. The other bedroom was converted to an office/library with built-in shelves. Two bedrooms were constructed in the addition. An additional bathroom was also added.
+
+The fair market value of the modified residential complex is below $450,000 and Mary K. is the first individual to occupy the complex as her primary place of residence once the work is completed.
+
+To be considered a new residential complex, the addition must at least equal the size of the existing premises. This condition has been met.
+
+It is also necessary to determine whether, in terms of design and function, the original premises have ceased to exist and are incorporated into a newly constructed residence. The addition and the modifications made in this example meet this test. Most of the rooms in the original residence have been significantly modified in terms of their function and design, and are now incorporated into a new residence. For instance, the construction of the built-in shelves in the office/library that was formerly a bedroom has changed this room both physically and functionally.
+
+While the work done by Mary K. may not qualify as substantial renovation of the existing premises, the construction of the addition and the changes made to the original premises have changed its function and design to such a fundamental extent that the resulting structure is essentially a new residential complex. On this basis, Mary K. would be entitled to claim the new housing rebate.
+
+***Eric L.***
+
+Eric L. owns a 1000 square foot bungalow consisting of a kitchen, living room, bathroom and two bedrooms. Recently, he constructed an attached 350 square foot garage and another 900 square foot addition containing two bedrooms and a recreation room. As a result, the original premises have more than doubled in size. The following modifications were made to the existing structure:
+
+- The original front door, steps and porch were removed and because of this change, the entry from the dining room to the living room was enlarged to accommodate the change in traffic flow.
+
+- About 10% of the existing floor space was recarpeted.
+
+- The former back bedroom was integrated into the kitchen by removing a wall and doorway. As a result, the kitchen was extended and new cupboards and cabinetry were added. The kitchen fan ducting was re-routed.
+
+- On the side of the house where the addition was added, the stucco, buffalo board and insulation were removed, new drywall was installed and a double doorway was added. As well, access holes were drilled into the foundation to provide for the electrical, plumbing, heating and other systems.
+
+- A new gas heating system was installed along with a gas line and chimney. Some new wiring was added to the original house as well as a new sub-panel and wiring leading to the addition. A new central vacuum system was installed.
+
+- Landscaping changes were made to accommodate the new entrance.
+
+- Exterior roofing modifications were made.
+
+- New siding was installed on the front of the original house.
+
+No other changes were made to the rooms of the existing premises.
+
+To be considered a newly constructed residential complex, the addition(s) must at least double the size of the habitable area of the existing residence. Since the new garage is not considered a habitable area, this requirement has not been met (the existing premises are 1000 sq. ft. and the additional habitable area is 900 sq. ft). Furthermore, the physical changes to the existing residence and the level of integration with the addition are insufficient to conclude that a new residential complex has been created. Most of the former rooms have not been materially altered, and even with those that have been, there is little integration with the addition. For example, while the kitchen has been significantly renovated, it has not been integrated with the addition. Rather than the existing residence being incorporated into a new residential complex, the additions made by Eric L. are incorporated as an “add on” to the pre-existing residence.
+
+The renovation work in this example does not constitute substantial renovation of the existing home or the construction of a new home. Thus, there is no entitlement to the new housing rebate.
+
+***Marty B.***
+
+Marty B. owns a 1200 square foot bungalow consisting of a kitchen, living room, three bedrooms and a bathroom. Recently, a second storey was added to the existing bungalow. The addition measures 1200 square feet. The following renovation work was carried out:
+
+- The wall was removed between the existing living room and two of the bedrooms to create one large room that will be used as a family room. This work involved some other renovations (e.g., removing soffits and adding new windows).
+
+- The living room is now in the second storey addition.
+
+- There remains only one bedroom on the main floor. Three bedrooms are included in the second storey addition.
+
+- The existing bathroom was partitioned to create a half-bathroom (sink and toilet) off the remaining bedroom and a linen closet. The main bathroom is in the second storey addition.
+
+- The kitchen remained unchanged.
+
+The renovations to the existing house do not constitute a substantial renovation as this term is defined. The areas affected by renovations (the existing living room, two bedrooms and bathroom) represent about 60% of the existing floor space.
+
+Marty B. is the first individual to occupy the modified residential complex as his primary place of residence once the work is completed. The modified residential complex has a fair market value of less than $450,000.
+
+This is an example of a newly constructed residential complex. The addition doubled the size of the existing residence that ceased to exist as a result of its integration with the new addition.
+
+The physical changes to the existing building involved the removal of the living room wall and the addition of a wall in the bathroom, the removal of the bathroom tub/shower and other renovations required to create the new the family room. These changes affected at least 50% of the existing area.
+
+The existing structure now no longer functions in the same manner as it had – there are changes in how most of the existing rooms or floor space are used.
+
+Based on the facts in this example and because the physical and functional changes outlined above affect at least 50% of the existing area or most of the rooms in the existing residence, Marty B. has constructed a new residential complex and is eligible to claim the new housing rebate.
+
+## Time frames and extended renovation projects
+
+If an individual begins a substantial renovation of his/her house while living in the house, the individual will have two years from the date the renovations are begun to substantially complete the renovations and another two years after that date to claim the rebate.
+
+If the individual does not occupy the house when the renovations are begun, but then begins to occupy it before the renovations are substantially completed, the individual will have two years after the date of occupancy to substantially complete the renovations, and another two years after that date to claim the rebate for the tax paid on these renovations. If the house is not substantially renovated within two years after occupancy, the time limit for filing a rebate application is still a maximum of four years from the date of occupancy, but only tax that has been paid and which became payable up to two years after the date of occupancy may be included in the rebate application.
+
+If the individual does not live in the house until after the renovations are completed, the rebate claim must be made within two years after the substantial renovation is completed.
+
+Further information concerning time frames is set out in the guide (RC4028), [GST/HST New Housing Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4028.html) .
+
+## Example
+
+***Cathy G.***
+
+Cathy G. has lived in her house for over 30 years. In February 2001 she hired a contractor to renovate the house. The contractor began work on March 1, 2001, and continued off and on over the next two years. The work constituted substantial renovation and was completed on July 1, 2003. Cathy moved back into the house on August 1, 2003.
+
+Cathy G. can file a claim for the new housing rebate once the house has been substantially renovated. She has two years after the earliest of the following dates to file the claim:
+
+- the day that is two years after she occupies the house; that is, two years after August 1, 2003, and
+
+- the day substantial renovation is substantially completed; that is, July 1, 2003.
+
+The earlier of the two dates is July 1, 2003, so Cathy has two years after that date to file her claim. In other words, she may file her claim any time during the period between July 1, 2003 and July 1, 2005.
+
+She may claim the rebate, following the calculation outlined in the guide (RC4028) [GST/HST New Housing Rebate for tax paid on renovation costs dating back to the beginning of the project in March 2001.](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4028.html)
+
+If you wish to make a technical enquiry on the GST/HST by telephone, please call one of the following toll-free numbers: 1-800-959-8287 (English service) 1-800-959-8296 (French service) General enquiries about the GST/HST should be directed to Business Enquiries at one of the following toll-free numbers: 1-800-959-5525 (English service) 1-800-959-7775 (French service) If you are in Quebec, please call the following toll-free number: 1-800-567-4692 (Revenu Québec)
+
+All GST/HST Technical Information Bulletins as well as other publications are available on the CRA web site at [www.cra-arc.gc.ca](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+**Date modified:**
+
+2005-01-06

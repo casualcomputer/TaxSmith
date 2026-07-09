@@ -1,0 +1,721 @@
+Title: T4144: Income Tax Guide for Electing under Section 216
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4144/income-tax-guide-electing-under-section-216.html
+Corpus path: corpus/cra/forms-publications/publications/t4144/income-tax-guide-electing-under-section-216.md
+Document type: publication
+Last modified: 2026-01-20
+
+# T4144: Income Tax Guide for Electing under Section 216
+
+T4144(E) Rev. 25
+
+## Ask for an alternate format
+
+The CRA's publications and personalized correspondence are available in braille, large print, e-text, and MP3. For more information, go to [Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html) or call **1-800-959-8281**. If you are outside Canada and the United States, call **613-940-8495**. The CRA only accepts collect calls made through a telephone operator. After your call is accepted by an automated response, you may hear a beep and notice a normal connection delay. This service operates in Eastern time.
+
+## Find out if this guide is for you
+
+This guide contains information needed to elect under section 216 of the Income Tax Act as well as general information for non-residents receiving Canadian-source rental income.
+
+This guide is for you if you were a [non-resident of Canada](#non_resident)for all or part of 2025 and, while a non-resident, one of the following situations applied to you:
+
+- You or a partnership which you were a member of received rental income from real or immovable property in Canada
+
+- You or a partnership which you were a member of received timber royalties on a timber resource property or timber limit in Canada
+
+- You or a partnership which you were a member of disposed of rental property (Canadian real or immovable property, timber resource property, or timber limit) that you had previously claimed capital cost allowance (CCA) for on a Section 216 return and, as a result of the disposition, you have a recapture of that CCA
+
+Do **not**use this guide if your rental income from real or immovable property in Canada is from carrying on a business in Canada. For more information about the filing requirements for this or any other type of income, see [Find out which tax package you should use](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4058/non-residents-income-tax.html).
+
+Although the CRA uses the term **rental income** in this guide, the information also applies to **timber royalties**.
+
+Generally, you are a **non-residentof Canada** for tax purposes if you permanently live outside Canada and do **not**have significant residential ties with Canada. For more information, see [Income Tax Folio S5-F1-C1, *Determining an Individual’s Residence Status*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/folio-1-residency/income-tax-folio-s5-f1-c1-determining-individual-s-residence-status.html), or [Income Tax Folio S6-F1-C1, *Residence of a Trust or Estate*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-6-trusts/series-6/income-tax-folio-s6-f1-c1-residence-a-trust-estate.html).
+
+## Table of contents
+
+- [Rental income and non-resident tax](#rentalincome)
+
+    - [Disposing of your rental property](#dspsng)
+
+    - [Other Canadian-source income](#thrcndn)
+
+- [Electing under section 216 of the Income Tax Act](#P115_7305)
+
+    - [What is a section 216 election?](#P117_7353)
+
+          - [More than one Canadian rental property](#DV_C50)
+
+    - [Why elect under section 216?](#whlct)
+
+    - [Withholding on net rental income (Form NR6)](#P137_9596)
+
+          - [When to send Form NR6 to the CRA](#P144_10295)
+
+          - [After the CRA approves Form NR6](#P146_10559)
+
+          - [Do you have to file a Section 216 return if you sent the CRA Form NR6?](#P151_11625)
+
+- [Before you file](#bfrfl)
+
+    - [Section 216 return due date](#P153_11899)
+
+          - [If you do not file your Section 216 return by the due date](#P158_12622)
+
+    - [Section 216 payment due date](#sctnpmnt)
+
+    - [Gather your documents](#P174_14103)
+
+          - [Missing slips or receipts](#P181_15431)
+
+    - [Where to send your return](#P183_15762)
+
+- [Completing your Section 216 return](#P204_18666)
+
+    - [Identification](#P206_18699)
+
+    - [Income](#P214_19913)
+
+    - [Deductions](#P230_22541)
+
+    - [Federal tax](#fdrltx)
+
+    - [Refund or balance owing](#P246_24376)
+
+- [Definitions](#dfntns)
+
+- [Supporting documents](#spprtngdcmnts)
+
+- [After you file your return](#ftrflrtrn)
+
+    - [Notice of assessment](#ntcssssmnt)
+
+    - [How to change a return](#hwchngrtnr)
+
+    - [If you move](#fmv)
+
+- [Digital services for individuals](#nln_srvcs)
+
+    - [My Account](#myccnt)
+
+    - [Receive your CRA mail online](#ReceivingMailOnline)
+
+    - [Electronic payments](#lctrnc_pmnts)
+
+- [For more information](#P83_2767)
+
+    - [If you need help](#P89_3487)
+
+    - [Direct deposit](#directdepo)
+
+    - [Forms and publications](#P87_3116)
+
+    - [Electronic mailing lists](#lctrnc)
+
+    - [Teletypewriter (TTY) and video Relay Service (Canada VRS) users](#TTY)
+
+    - [Formal disputes (objections and appeals)](#formaldisputes)
+
+    - [CRA Service Feedback program](#crsrvcfdbck)
+
+    - [Cancel or waive penalties and interest](#cancelorwaive)
+
+## Rental income and non-resident tax
+
+If you receive rental income from real or immovable property in Canada, the payer or agent (such as the property manager) must withhold non-resident tax of 25% on the gross rental income paid or credited to you.
+
+In this guide, the term "agent" refers to a property manager or any other person who acts on your behalf regarding your Canadian-source rental income. The agent must be a resident of Canada.
+
+The payer must pay the tax on or before the 15th day of the month after the month the rental income is paid or credited to you. You should discuss this with your payer to make sure they withhold and remit the correct amount of non-resident tax to the CRA on your behalf.
+
+If the payer does not withhold and remit this non-resident tax, the CRA will charge compound daily interest on the amount not withheld and remitted. The CRA may also charge a penalty.
+
+The payer has to give you two copies of [slip NR4, *Statement of Amounts Paid or Credited to Non-Residents of Canada*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr4.html), showing the gross amount of rental income paid or credited to you during the year and the amount of non-resident tax withheld. The payer must also send the CRA a completed NR4 information return as explained in [Guide T4061, *NR4 Non-Resident Tax Withholding, Remitting, and Reporting*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4061.html).
+
+Generally, the non-resident tax withheld is considered your final tax obligation to Canada on the rental income. However, if you [elect under section 216 of the Income Tax Act](#P115_7305), you may pay less tax. You may also receive a refund for all or part of the non-resident tax withheld.
+
+You may want to have non-resident tax withheld on the **net** rental income instead of on the gross amount. For more information, see [Withholding on net rental income (Form NR6)](#P137_9596).
+
+### Disposing of your rental property
+
+If you have disposed of or are planning to dispose of your Canadian rental property, go to [Disposing of or acquiring certain Canadian property](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/disposing-acquiring-certain-canadian-property.html) or see [Information Circular IC72-17R6, *Procedures Concerning the Disposition of Taxable Canadian Property by Non-Residents of Canada – Section 116*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic72-17.html), for the special rules that apply.
+
+If you owned or held a rental property in Canada for **less than 365 consecutive days**before its disposition, it is generally considered to be a flipped property. The resulting profit on the disposition is taxable as business income and **not** as a capital gain, unless the disposition occurred due to, or in anticipation of, certain life events. For more information about flipped property and the life-event exceptions, see [Guide T4037, *Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html).
+
+### Other Canadian-source income
+
+If you have other Canadian-source income for 2025, you may have to send the CRA a separate Canadian return to report it.
+
+If you received Canadian-source employment or business income or you realized a taxable capital gain from disposing of taxable Canadian property in 2025, see [Guide T4058, *Non-Residents and Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4058.html).
+
+## Electing under section 216 of the Income Tax Act
+
+### What is a section 216 election?
+
+As a non-resident of Canada, you can choose to send the CRA a separate Canadian tax return to report your rental income from real or immovable property in Canada. Choosing to send the CRA this return is called electing under section 216 of the Income Tax Act.
+
+A Section 216 return is separate from any other return you have to send the CRA for the year. You will find two copies of [Form T1159, *Income Tax Return for Electing under Section 216*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1159.html), (Section 216 return) in the paper version of this guide.
+
+#### More than one Canadian rental property
+
+If you have rental income from **more than one** rental property in Canada and make an election under section 216, you must report **all**of your Canadian rental income and expenses together in one Section 216 return.
+
+### Why elect under section 216?
+
+Electing under section 216 allows you to pay tax on your **net**Canadian-source rental income instead of the **gross**amount. If the non-resident tax that the payer withheld is more than the amount of tax payable on your Section 216 return, the CRA will refund the difference to you.
+
+For more information about electing under section 216 and non-resident tax, see [Archived Interpretation Bulletin IT-393R2, *Election Re: Tax on Rents and Timber Royalties Non-Residents*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it393r2/archived-election-tax-on-rents-timber-royalties-non-residents.html).
+
+You emigrated from Canada in 2023and became a resident of Peru. You did not sell your house when you left Canada and decided to rent it out for a few years. In 2025, your property manager in Canada withheld and remitted non-resident tax of $3,000(25% of the gross rental income of $12,000) to the CRA.
+
+You had the following income and expenses from the property in 2025:
+
+Gross rental income
+
+Minus expenses
+
+$12,000
+
+Allowable expenses
+
+-$6,000
+
+Capital cost allowance
+
+-$1,000
+
+Net rental income
+
+$5,000
+
+To recover all or part of the non-resident tax withheld, you can choose to file a Section 216return. If you file, you will report the gross amount and pay tax only on the net rental income of $5,000. On the return, you will also claim the $3,000 non-resident tax (which your property manager withheld and remitted to the CRA) on line 43700 of the return to offset the tax payable.
+
+You will receive a refund for the excess tax withheld as long as you send the CRA your 2025 Section 216return by December 31, 2027.
+
+### Withholding on net rental income (Form NR6)
+
+If you elect under section 216, you can elect to have tax withheld on your **net** rental income instead of the **gross** amount.
+
+To have non-resident tax withheld on your **net** rental income, you (or each non-resident who is a member of a partnership) and your agent have to complete [Form NR6, *Undertaking to File an Income Tax Return by a Non-Resident Receiving Rent from Real or Immovable Property or Receiving a Timber Royalty*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr6.html), and send it to the CRA for approval.
+
+#### When to send Form NR6 to the CRA
+
+You should send the CRA [Form NR6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr6.html)on or before January 1 of **each year** or before the first rental payment is due. Your agent must continue to withhold non-resident tax on the **gross**rental income until the CRA approves your Form NR6 in writing.
+
+#### After the CRA approves Form NR6
+
+After the CRA approves your [Form NR6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr6.html), your agent can withhold non-resident tax of 25% on your net rental income (that is the amount of rental income available after the rental expenses have been paid). Your agent must pay the tax on or before the 15th day of the month after the month the rental income is paid or credited to you. You should discuss this with your agent to make sure they withhold and remit the correct amount of non-resident tax to the CRA on your behalf.
+
+If your agent does not withhold and remit this non-resident tax, the CRA will charge compound daily interest on the amount not withheld and remitted. The CRA may also charge a penalty.
+
+The agent has to give you two copies of an NR4 slip showing the gross amount of rental income paid or credited to you during the year and the amount of non-resident tax withheld. The agent also has to send the CRA a completed NR4 information return as explained in Guide T4061, NR4 – *Non-Resident Tax Withholding, Remitting, and Reporting*.
+
+#### Do you have to file a Section 216 return if you sent the CRA Form NR6?
+
+If you sent[Form NR6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr6.html) and the CRA approved it, you must file a Section 216 return for that year. You have to file a return even if you have no tax payable or are not expecting a refund.
+
+## Before you file
+
+### Section 216 return due date
+
+Generally, you have to send the CRA your Section 216 return within **two years** from the end of the year that the rental income was paid or credited to you.
+
+If you sent the CRA [Form NR6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr6.html) for 2025 and the CRA approved it, you have to file your 2025 Section 216 return **on or before June 30, 2026**, and include the income and expenses from **all**of your Canadian rental properties.
+
+Whether or not you completed Form NR6, you **must**file a Section 216return for 2025 by April 30, 2026, if both of the following conditions apply:
+
+- You disposed of rental property in 2025 that you had previously claimed capital cost allowance (CCA) for
+
+- You are including the recapture of CCA on your 2025 return
+
+If you have a net rental loss, you still have to file your Section 216return by the due date.
+
+The CRA can extend the due date for filing your return in certain circumstances. For more information, [contact the Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+When a due date falls on a Saturday, Sunday, or public holiday recognized by the CRA, your return is considered on time if the CRA receives it or if it is postmarked on or before the next business day. For more information, go to [Due dates and payment dates](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/important-dates-individuals.html).
+
+#### If you do not file your Section 216 return by the due date
+
+If you do **not**send the CRA your Section 216 return by the due date, your election will be invalid. If the payer did **not**withhold the correct amount of non-resident tax from your rental income, the CRA will issue a non-resident tax assessment to you.
+
+If the CRA approved your [Form NR6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr6.html) for the year **and**you do not file your Section 216 return by the due date, you will be subject to non-resident tax on your **gross** rental income. If the correct amount of this tax was not withheld at source, the CRA will issue a non-resident tax assessment to your agent.
+
+You are a resident of Australia who rents out a property that you own in Canada. You and your agent completed Form NR6 and sent it to the CRA before January 1, 2025, and the CRA approved it.
+
+For 2025, you received rental income and had rental expenses as follows:
+
+Gross rental income
+
+$20,000
+
+Allowable expenses
+
+-$15,000
+
+Net rental income
+
+$5,000
+
+Because the CRA approved Form NR6, your agent was able to withhold and remit non-resident tax for 2025on the net rental income (25% of $5,000) rather than on the gross rental income (25% of $20,000).
+
+You **must** file a Section 216return on or before June 30, 2026. If you did **not**send the return by the due date, your agent will have to pay an additional $3,750 plus interest on your account. This $3,750 is the difference between the amount withheld on your net rental income (25% of $5,000 = $1,250) and the amount you would have to pay on your gross rental income (25% of $20,000 = $5,000) if you had not filed Form NR6.
+
+### Section 216 payment due date
+
+If you have a balance owing for 2025, you must pay it **on or before** **April 30, 2026**. If your payment is late, the CRA will charge interest on the balance owing starting on the day after the balance is due. This includes any balance owing if the CRA reassesses your return.
+
+If you have disposed of the rental property and have to include a recapture of capital cost allowance (CCA) on your 2025 Section 216 return, any balance owing is due by April 30, 2026.
+
+### Gather your documents
+
+Gather any [NR4 slips](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr4.html) that have information about your rental income and supporting documents for any rental expenses or deductions you plan to claim.
+
+#### Missing slips or receipts
+
+You must send the CRA your Section 216return on time even if you are missing slips or receipts. If you know that you will not be able to get a missing slip by the due date, include the rental income and attach a note to your return saying which slips are missing and what you are doing to get them.
+
+### Where to send your return
+
+Use the envelope included in the paper version of this guide to mail your Section 216return to your tax centre shown at the [Contact the Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+## Completing your Section 216 return
+
+### Identification
+
+Incomplete or incorrect information may delay the processing of your return and any refund you may be entitled to.
+
+#### Email address
+
+Enter your email address on your return if you would like to receive email notifications from the CRA and you agree to the **terms of use for email notifications** below. You can also register for email notifications by signing in to [My Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) and selecting "Notification preferences" service.
+
+##### Terms of use for email notifications
+
+- The CRA will use the email address provided to notify you about any CRA mail available in your CRA account at My Account, and certain changes to your account information and other important account information
+
+- Any mail that is eligible for electronic delivery will no longer be printed and mailed
+
+- The notifications that are eligible for this service may change. You may not always be notified when new types of notifications are added or removed from this service
+
+- To view CRA mail online, you must be registered for a CRA account at My Account, and/or your representative must be registered for [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) and be authorized on your account
+
+- All CRA mail available in your CRA account at My Account is presumed to have been received on the date that the email notification is sent
+
+- It is your responsibility to make sure that the email address provided to the CRA is up-to-date
+
+- CRA email notifications are subject to the terms of any agreement with your mobile carrier or Internet service provider. You are responsible for any fees imposed by them
+
+- Email notifications are sent unencrypted and unsecured. They could be lost, intercepted, viewed, or altered by others who have access to your email account. You accept this risk and acknowledge that the CRA will not be liable if you are unable to access or receive the email notifications, nor for any delay or inability to deliver notifications
+
+- These terms of use may change from time to time. The CRA will provide advance notice of the effective date of any new terms. You agree that the CRA may notify you of these changes by emailing the new terms, or notice of where to find them, to the email address that you provided. You agree that your use of the service after the effective date of any change to these terms constitutes your agreement to the new terms. If you do **not**agree to the new terms, you must remove your email address from your CRA account at My Account and no longer use the service
+
+#### Social insurance number (SIN), temporary tax number (TTN) or individual tax number (ITN)
+
+If you requested a SIN but did not yet receive it, attach a note to your return and file it without your SIN. The CRA will assign you a TTN.
+
+If you are **not**eligible for a SIN, complete [Form T1261, *Application for a Canada Revenue Agency Individual Tax Number (ITN) for Non-Residents*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1261.html), and send it to the CRA as soon as possible. Do **not**complete Form T1261 if you already have a SIN, ITN, or TTN.
+
+### Income
+
+#### Lines 12599 and 12600 – Rental income and timber royalties
+
+Report your Canadian-source rental income from all of your Canadian rental properties for the 2025 calendar year. Enter your gross rental income on line 12599 of your return and net rental income or loss on line 12600 of your return. Also include any amount that a partnership allocated to you in its financial statements on line 12600 of your return.
+
+Include a statement showing your rental income and expenses for the year with your return. Complete [Form T776, *Statement of Real Estate Rentals*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t776.html), to help you calculate your net rental income. [Guide T4036, *Rental Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4036.html), has detailed rental information and instructions on how to complete Form T776. For information on how to get these publications, see [Forms and publications](#P87_3116).
+
+Do not complete Form T776 if you are reporting only income from timber royalties on a timber resource property or a timber limit in Canada.
+
+If you immigrated to Canada or emigrated from Canada in 2025, include only your Canadian-source rental income for the part of the year you were a non-resident of Canada.
+
+If you own, at any time, a non-compliant short-term rental (a residential property that is rented or offered for rent for a period of less than 90 consecutive days), you cannot deduct expenses that relate to your short-term rental income on your Form T776. For more information, see Guide T4036, *Rental Income*.
+
+##### Rental losses
+
+If you have a rental loss, show the amount in brackets.
+
+You cannot use a loss reported on your Section 216 return to reduce your income on another Canadian return for 2025 or any previous or future tax year. You also cannot apply this loss to a Section 216 return for any previous or future year. Finally, you cannot use a loss reported on any other Canadian return to reduce your income reported on your Section 216 return.
+
+If you disposed of a rental property in 2025 that you had previously claimed capital cost allowance (CCA) for on a Section 216 return, you have to include any recapture of that CCA on line 12600 of your return. If a terminal loss occurs because of the disposition, include the loss when you calculate the amount to report on line 12600.
+
+##### Interest income
+
+If you deposited your rental income into an account at a Canadian financial institution in 2025 and received interest income, do **not**include the interest income on your Section 216return.
+
+Generally, the interest that you receive, or that is credited to you, is exempt from Canadian withholding tax if the payer is an **unrelated person**(at**arm's length**).
+
+For more information, [contact the CRA](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html). If you are in Canada or the United States, call **1-855-284-5946**. If you are outside Canada and the United States, call **613-940-8499**. The CRA only accepts collect calls made through telephone operators. After your call is accepted by an automated response, you may hear a beep and notice a normal connection delay.
+
+### Deductions
+
+#### Line 20800 – RRSP deduction
+
+You can claim a deduction for contributions that you made to a registered retirement savings plan (RRSP), pooled registered pension plan (PRPP), and specified pension plan (SPP) in Canada from March 4, 2025, to March 2, 2026, as well as any unused RRSPcontributions made in 1991 or later.
+
+The maximum amount that you can deduct cannot be more than your RRSP deduction limit. This limit is based on your earned income on Canadian tax returns from 1990 to 2024.
+
+The RRSP deduction claimed on a Section 216 return will not reduce your RRSP deduction limit for the following year. To correct your RRSP deduction limit, the CRA will have to process an administrative Form T215.
+
+Similar to exempt and certifiable past service pension adjustments (PSPA), an administrative Form T215 will reduce your RRSP deduction limit for the current calendar year. Once the administrative Form T215 is processed on your account, the amount of RRSP deduction claimed on your Section 216 return will show as a net PSPA on your Form T1028.
+
+Generally the CRA will send Form T1028 with a new RRSP deduction limit if your RRSP deduction limit has changed for reasons other than a reassessment of a previous year's income tax return.
+
+If you do not receive Form T1028 and you want to confirm your RRSP deduction limit:
+
+● call **1-800-959-8281**
+
+● go to your CRA account to access [My Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html)
+
+You cannot claim an RRSP contribution deduction on a Section 216 return and again on a return reporting other Canadian-source income.
+
+For more information about RRSPs, see [Guide T4040, *RRSPs and Other Registered Plans for Retirement*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4040.html).
+
+#### Line 20805 – FHSA deduction
+
+If you opened a first home savings account (FHSA) while you were a resident of Canada, contributions to your FHSA are generally deductible. However, any withdrawals made from your FHSA while you were not a resident of Canada are subject to non-resident withholding tax. You cannot make a qualifying withdrawal while not a resident of Canada. Complete [Schedule 15, *FHSA Contributions, Transfers and Activities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s15.html), to calculate your FHSA deduction and enter the result on line 20805 of your return.
+
+For more information, go to [Tax deductions for FHSA contributions](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/tax-deductions-fhsa-contributions.html).
+
+#### Line 22000 – Support payments made
+
+In certain circumstances, you can claim a deduction for support payments you made in 2025. However, you cannot claim a deduction for support payments on a Section 216 return and again on a return reporting other Canadian-source income. For more information, go to [support payments](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/support-payments.html), and see [Income Tax Folio S1-F3-C3, *Support Payments*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-3-family-unit-issues/income-tax-folio-s1-f3-c3-support-payments.html).
+
+#### Line 23200 – Other deductions
+
+In certain circumstances, you can claim other deductions, such as legal fees that you paid in 2025 for advice or help in objecting to, or appealing, an assessment or decision under the Income Tax Act, as well as scholarships and research grants you repaid in 2025 that you previously reported as income on a Canadian return.
+
+You cannot claim any of these deductions on a Section 216 return and again on a return reporting other Canadian-source income. For more information about these deductions, [contact the CRA](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+You cannot use a loss reported on any other return to reduce your income on your Section 216 return.
+
+### Federal tax
+
+Complete this part to calculate your federal tax, including the surtax for non-residents of Canada, on line 18 of your return.
+
+#### Line 40427 – Minimum tax carryover
+
+If you paid minimum tax on any of your 2018 to 2024 Canadian returns but you do not have to pay minimum tax for 2025, you may be able to claim credits against your taxes for 2025 for all or part of the minimum tax you paid in those years.
+
+To calculate your claim, complete [Form T691, *Alternative Minimum Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t691.html), and attach it to your return.
+
+You cannot claim a credit for a minimum tax carryover on a Section 216 return and again on a return reporting other Canadian-source income.
+
+### Refund or balance owing
+
+#### Line 43700 – Total non-resident tax withheld
+
+Enter the total amount of non-resident tax withheld on the rental income and timber royalties that you received in 2025 from box 17 of your NR4 slips.
+
+Do not include tax withheld on other types of Canadian-source income.
+
+Attach a copy of your [NR4 slips](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr4.html) to your return to support the amount of non-resident tax withheld on rental income and timber royalties.
+
+#### Line 47600 – Total tax remitted for the recapture of capital cost allowance (CCA)
+
+You may have a recapture of CCA if you disposed of rental property that you claimed a CCA deduction for on your Section 216 return.
+
+Enter your share of the total amount of tax remitted for the recapture of CCA from Form T2064, Certificate – Proposed Disposition of Property by a Non-Resident of Canada, or Form T2068, Certificate – *The Disposition of Property by a Non-Resident of Canada*.
+
+Attach copy 2 of Form T2064 or Form T2068 to your return to support the amount of tax remitted for the recapture of CCA.
+
+For more information about the disposition of rental property, see [Guide T4058, *Non-Residents and Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4058.html).
+
+#### Line 48400 – Refund
+
+Generally, the CRA does not refund a difference of $2 or less.
+
+Although you may be entitled to a refund for 2025, the CRA may keep all or part of it to apply against any amount you owe or are about to owe.
+
+#### Line 48500 – Balance owing
+
+Your balance owing is due **no later than April 30, 2026**. Generally, the CRA does not charge a difference of **$2 or less**.
+
+Do **not** mail cash or include cash with your return.
+
+The CRA will charge daily compound interest on any outstanding balance from the day after the balance is due until your balance is paid in full.
+
+You or your representative can make a payment using:
+
+- your or your representative's Canadian bank or credit union's online banking, mobile banking app, telephone banking services or in person with a remittance voucher (from your CRA account at [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) or by contacting the CRA)
+
+- the CRA's [My Payment](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html) service at your [CRA Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) with your activated debit card from a participating Canadian bank or credit union with a Visa Debit, or Debit Mastercard logo (does **not** include credit cards)
+
+- pre-authorized debit (PAD) at your [CRA Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) which lets you:
+
+    - set up payments to the CRA from a Canadian chequing account on preset dates starting in five or more business days
+
+    - pay an amount due, repay overpaid amounts or make instalment payments
+
+    - view your account history and modify, cancel or skip a payment (for more information on PAD, go to [Pay by pre-authorized debit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html))
+
+You or your representative can make a payment without an account at a Canadian bank or credit union using:
+
+- a wire transfer in Canadian dollars
+
+- an international money order in Canadian dollars
+
+- a bank draft in Canadian funds on a Canadian bank
+
+- an internationally issued credit card through a third party service provider **for a fee**
+
+For more information, go to [Payments to the Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html).
+
+If you want to mail your payment to the CRA, attach it to the front of your return. Make sure that you make out the payment to the Receiver General. Write your SIN, ITN, or TTN and "Section 216" on the payment to help the CRA process it correctly.
+
+Your payment will be considered paid on one of the following dates:
+
+- Payments you or your representative make through a Canadian bank or credit union's online or telephone banking services are considered paid when your financial institution credits the CRA with your payment
+
+- Payments you or your representative make in person at a Canadian bank or credit union are considered paid on the date stamped on your remittance voucher
+
+- Post-dated payments you or your representative make by pre-authorized debit are considered paid on the negotiable date
+
+- Payments you or your representative send by mail are considered paid on the day of the postmark
+
+When a due date falls on a Saturday, Sunday, or public holiday recognized by the CRA, your payment is considered on time if the CRA receives it or if it is postmarked on the next business day. For more information, go to [Due dates and payment dates](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/important-dates-individuals.html).
+
+You can file your return early and make a post-dated payment. If the CRA processes your return before the date of the payment, your payment will appear on your notice of assessment but it will not reduce your balance owing. The CRA will credit your account on the date of the payment.
+
+The CRA will charge you a fee for any payment that your financial institution does not honour.
+
+##### Making a payment arrangement
+
+If you cannot pay your balance owing **on or before April 30, 2026**, the CRA may accept a payment arrangement only after you have made a reasonable effort to get the necessary funds by borrowing or rearranging your finances. If you cannot pay the balance in full, [contact the CRA](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html) to discuss a mutually acceptable payment arrangement based on your ability to pay. The CRA will still charge daily compound interest on any outstanding balance.
+
+## Definitions
+
+**Arm's length** refers to a relationship or a transaction between unrelated persons who act in their own separate interests. An arm's length transaction is generally a transaction that reflects ordinary commercial dealings between unrelated parties acting in their own separate interests. For more information, see [Income Tax Folio S1-F5-C1, *Related Persons and Dealing at Arm's Length*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html).
+
+**Related persons** are not considered dealing with each other at arm's length. Related persons include individuals connected by blood relationship, marriage, common-law partnership, or adoption (legal or in fact). A corporation and another person or two corporations may also be related persons. For more information, see [Income Tax Folio S1-F5-C1, *Related Persons and Dealing at Arm's Length*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html)**.**
+
+**Unrelated persons** may not be dealing with each other at arm's length at a particular time. Each case will depend upon its own facts. The following criteria will generally be used to determine if the parties to a transaction are not dealing at arm's length:
+
+- whether there is a common mind that directs the bargaining for the parties to a transaction
+
+- whether the parties to a transaction act in concert without separate interests ("acting in concert" means, for example, that parties act with considerable interdependence on a transaction of common interest)
+
+- whether there is "de facto control" of one party by the other because of, for example, advantage, authority, or influence
+
+For more information, see [Income Tax Folio S1-F5-C1, *Related Persons and Dealing at Arm's Length*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html).
+
+**Non-arm's length** generally refers to a relationship or transaction between persons who are related to each other.
+
+However, a non-arm's length relationship might also exist between unrelated individuals, partnerships or corporations, depending on the circumstances. For more information, see the definition of **Arm's length**.
+
+## Supporting documents
+
+Attach to your return one copy of your [NR4 slips](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr4.html) that show the amount of rental income and non-resident tax withheld. If you claim a credit for the non-resident tax withheld without including the NR4 slips, the CRA may disallow your claim. This could delay the processing of your return.
+
+The instructions in this guide tell you when to attach other supporting documents such as certificates, forms, schedules, or official receipts. Even if you do not have to attach supporting documents to your return, keep them for six years from the end of the taxation year to which they relate in case the CRA asks you to see them later. Keep one copy of the return for your records.
+
+## After you file your return
+
+### Notice of assessment
+
+When the CRA receives your return, it is usually reviewed based on the information you provided and a notice of assessment is sent to you. However, the CRA may select your return for a more detailed review **before**the CRA assesses it. If so, your assessment may be delayed while the CRA asks you to send documents to support the deductions and credits you claimed.
+
+The CRA may also carry out a more detailed review **after**your return has been assessed to verify the income reported and the deductions or credits claimed.
+
+### How to change a return
+
+Do **not**send the CRA another Section 216 return for the year that you want to change. Instead, send the following documents to your tax centre:
+
+- a completed [Form T1-ADJ, *T1 Adjustment Request*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1-adj.html), or a signed letter providing the details of your request, including the following:
+
+    - the year of the return to be changed
+
+    - your SIN, ITN, TTN
+
+    - your address
+
+    - your telephone number where the CRA can reach you during the day
+
+- supporting documents for the changes you are requesting and, if you have not sent them to the CRA before, supporting documents for your original claim
+
+It usually takes eight weeks for the CRA to complete the adjustment and mail you a notice of reassessment.
+
+### If you move
+
+If you move, let the CRA know your new address **as soon as possible**. Keeping the CRA informed will ensure that the CRA mails your section 216tax package to the correct address next year.
+
+If you registered for a CRA account and have access to My
+
+Account, you can change your address by going to [your CRA Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html). If not, you must tell the CRA your new address by phone or in writing.
+
+If you are writing to the CRA, send your letter to the applicable tax centre shown under [Mail your return](#mailyour). Include your SIN, ITN, or TTN, your new address, the date of your move, and your signature.
+
+If you are writing on behalf of someone else such as your spouse or common-law partner, include their SIN, ITN, or TTN and if you are not already registered as an authorized representative, have them sign the letter authorizing you to change their records.
+
+## Digital services for individuals
+
+The CRA's digital services are fast, easy, and secure!
+
+## My Account
+
+My Account lets you access your personal income tax and benefit information and interact with the CRA online throughout the year.
+
+### Profile
+
+- Change your address, phone numbers, direct deposit information, marital status, information about children in your care, and language preference
+
+- Edit your notification preferences and receive email notifications when important changes are made to your account
+
+- Manage your authorized representatives and authorization requests
+
+- Manage your multi-factor authentication settings, security options, and personal identification number (PIN)
+
+### Tax returns
+
+- View your notice of assessment or reassessment, special elections and returns, carryover amounts, and tax information slips (T4 and more)
+
+### Accounts and payments
+
+- View your account balance and statement of account
+
+- Make a payment online to the CRA with the My Payment service, create a pre-authorized debit (PAD) agreement, or create a QR code to pay in person at Canada Post for a fee.
+
+- Transfer a payment
+
+### Benefits and credits
+
+- View your benefit and credit information and apply for certain benefits
+
+### Savings and pension plans
+
+- View information about your Registered Retirement Savings Plan (RRSP), Tax-Free Savings Account (TFSA) contribution room, deduction limit and your first home savings account (FHSA), Home Buyers' Plan (HBP), First Home Savings Account (FHSA), and Lifelong Learning Plan (LLP)
+
+### Correspondence
+
+- View mail from the CRA
+
+- Submit documents to the CRA
+
+- Submit an audit enquiry
+
+- File a formal dispute
+
+- Request a CPP/EI ruling
+
+### Additional digital services
+
+- Track the progress of certain files and enquiries you have submitted to the CRA
+
+- View and print your proof of income statement
+
+### Receive your CRA mail online
+
+Set your correspondence preference to "Electronic mail" to receive email notifications when CRA mail, like your notice of assessment, is available in your account.
+
+For more information, go to [Email notifications from the CRA](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/online-mail-helping-you-organize-your-canada-revenue-agency-mail.html).
+
+### Access My Account
+
+To access My Account, go to [your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) and sign in to or register for a CRA account.
+
+### Electronic payments
+
+Make your payment using:
+
+- your Canadian bank or credit union's online banking, mobile app, or telephone service
+
+- the CRA's [My Payment](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html) service with your activated debit card from a participating Canadian bank or credit union with a Visa Debit or Debit Mastercard logo (does not include credit cards)
+
+- pre-authorized debit (PAD) at [My Account for Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) which lets you:
+
+    - set up payments to the CRA from a Canadian chequing account on preset dates starting in five or more business days
+
+    - pay an amount due, repay overpaid amounts, or make instalment payments
+
+    - view your account history and modify, cancel, or skip a payment. For more information on PAD, go to [PAD through CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html)
+
+- the "Proceed to pay" button through My Account in the "Accounts and payments "panel on the "Overview" page, or directly through "Accounts and Payments" side navigation menu item and under the "Account balance and statement of account" and "Instalments" panels
+
+- your credit card, Interac e-transfer, or PayPal through one of the third-party service providers **for a fee**
+
+For more information, go to [Payments to the Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html).
+
+## For more information
+
+### If you need help
+
+For help with common topics, current contact centre wait times, and links to online self-serve options, go to [contact the CRA](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+### Direct deposit
+
+Direct deposit is a fast, convenient, and secure way to receive your CRA payments directly in your account at a financial institution in Canada. For more information and ways to enrol, go to [Direct deposit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html) or contact your financial institution.
+
+### Forms and publications
+
+The CRA encourages you to file your return electronically. If you need a paper version of the CRA's forms and publications, go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+### Electronic mailing lists
+
+The CRA can send you an email when new information on a subject of interest to you is available on its website.
+
+To subscribe, go to [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+### Teletypewriter (TTY) and Video Relay Service (VRS) users
+
+If you use a TTY for a hearing or speech impairment, call **1-800-665-0354**.
+
+Register with Canada VRS to [download the app](https://srvcanadavrs.ca/en/get-the-app/), or download the app and call the VRS line.
+
+If you use another **operator-assisted relay service**, call the CRA's regular telephone numbers instead of the TTY or Canada VRS numbers.
+
+### Formal disputes (objections and appeals)
+
+You have the right to file an objection or an appeal, if you disagree with an assessment, determination or a decision.
+
+For more information, go to [File an objection](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/file-objection-cppei-appeal-minister.html).
+
+### CRA Service Feedback Program
+
+#### Service complaints
+
+You can expect to be treated fairly and to receive a high level of service every time you interact with the CRA.
+
+You can provide compliments or suggestions; however, if you are not satisfied with the service you received:
+
+- You may save time by calling the CRA first depending on your situation. You can call the telephone number provided in your CRA correspondence or discuss your concerns with the employee you have been dealing with. If you do not have contact information for the CRA, go to [Contact the Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+- You can ask to discuss the matter with the employee's supervisor if you have not been able to resolve your service issue
+
+- You can submit feedback by filling out [Form RC193, *Service Feedback*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html), if the issue remains unresolved. For more information, go to [Send feedback about CRA service](https://www.canada.ca/en/revenue-agency/services/make-a-service-complaint.html).
+
+- You may contact the Office of the Taxpayers' Ombudsperson if you are not satisfied with the response you have received. The Ombudsperson will only respond to complaints that the CRA has already tried to address
+
+For more information about the Taxpayer Bill of Rights, go to [Taxpayer Bill of Rights](https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/taxpayer-bill-rights.html).
+
+#### Reprisal complaints
+
+If you received a response about a previously submitted service complaint or formal review of a CRA decision and felt that you were not treated fairly by a CRA employee, you can submit a reprisal complaint by filling out [Form RC459, *Reprisal Complaint*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc459.html).
+
+For more information about complaints and disputes, go to [Reprisal Complaints.](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/reprisal-complaints.html)
+
+#### Cancel or waive penalties and interest
+
+The CRA administers legislation, commonly called "taxpayer relief provisions," that gives the CRA discretion to cancel or waive penalties and interest when taxpayers cannot meet their tax obligations due to circumstances beyond their control. The CRA's discretion is limited to any period that ends within 10 calendar years before the year the request is made.
+
+##### Penalties
+
+The CRA will consider your request only if it relates to a tax year or fiscal period ending in any of the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to a penalty for a tax year or fiscal period ending in 2015 or later.
+
+##### Interest on a balance owing
+
+The CRA will consider only the amounts that accrued during the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to interest that accrued in 2015 or later. Taxpayer relief requests can be made online using the CRA's My Account, My Business Account, or Represent a Client digital services. You can also fill out Form RC4288, *Request for Taxpayer Relief – Cancel or Waive Penalties and Interest*, and send it:
+
+● online using My Account, My Business Account, or Represent a Client
+
+● by mail or courier to the designated office, as shown on the last page of the form, based on your place of residence
+
+For information about submitting documents online, go to [submit documents online](https://www.canada.ca/en/revenue-agency/services/e-services/submit-documents-online.html).
+
+For more information about cancelling or waiving penalties and interest, go to [cancel or waive penalties and interest](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/cancel-waive-penalties-interest.html).
+
+## Mail your return
+
+Where to mail your Section 216 return and related documents
+
+| If your country of residence is: | Send your return and documents to: |
+
+| --- | --- |
+
+| Denmark France NetherlandsUnited KingdomUnited States | Winnipeg Tax Centre PO Box 14001, Station Main Winnipeg MB R3C 3M3 CANADA |
+
+| Any other country | Sudbury Tax Centre 1050 Notre Dame Ave Sudbury ON P3A 5C2 CANADA |

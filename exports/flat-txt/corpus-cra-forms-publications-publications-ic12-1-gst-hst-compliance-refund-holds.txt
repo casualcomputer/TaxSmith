@@ -1,0 +1,143 @@
+Title: Income Tax Information Circular
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic12-1/gst-hst-compliance-refund-holds.html
+Corpus path: corpus/cra/forms-publications/publications/ic12-1/gst-hst-compliance-refund-holds.md
+Document type: publication
+Last modified: 2017-11-07
+
+# Income Tax Information Circular
+
+## GST/HST Compliance Refund Holds
+
+**This version is only available electronically.**
+
+### Application
+
+**1.** In this information circular, the following terms apply:
+
+- **Insolvency practitioner** refers to a trustee in bankruptcy, a receiver, or a liquidator, and every agent or other person administering, managing, winding up, controlling, or otherwise dealing with the property, business, estate, or income of a corporation, other than a shareholder, director, officer or employee of the corporation.
+
+- **Minister** refers to the Minister of National Revenue.
+
+- **Taxpayer** refers to an insolvent corporation for which relief can be requested.
+
+### Introduction
+
+**2.** This information circular provides information on the discretionary authority the Minister has under the *Income Tax Act* to waive the requirement to file a corporate income tax return under the legislative provisions described in paragraph 8 below. It also explains how an insolvency practitioner can make a request for relief, including what information and documentation is needed to support such a request, and outlines the administrative guidelines the Canada Revenue Agency (CRA) will follow in making a discretionary decision to grant or deny a request.
+
+**3.** This information circular is intended to apply only in situations where the release of post-insolvency goods and services tax/harmonized sales tax refunds has been held under the legislative provisions described in paragraph 8 below because of outstanding pre-insolvency corporate income tax returns.
+
+**4.** This information circular does not apply to situations where an insolvency practitioner controls only part and not all of the personal property of an insolvent company. For those situations, the insolvency practitioner should contact their Regional Intake Centre for Insolvency (RICI) (or in the province of Quebec, the Centre de perception fiscale et des biens non réclamés de l'Agence du revenu du Québec (Tax collection and unclaimed property centre at Quebec Revenue Agency)) to discuss the appropriate process for releasing a refund or rebate.
+
+**5.** These guidelines are not intended to be exhaustive nor are they meant to restrict the spirit or intent of the legislation.
+
+**6.**This information circular is divided into three parts:
+
+- Part I – Legislation
+
+- Part II – Guidelines for waiving an insolvency practitioner's requirement to file a corporate income tax return
+
+- Part III – Redress
+
+### Part I
+
+#### Legislation
+
+**7.** The legislation gives the CRA the ability to administer the income tax system fairly and reasonably and allows for a common-sense approach to dealing with situations that prevent compliance with a statutory income tax requirement.
+
+**8.** Under subsections 229(2), 230(2), and 296(7) and section 77 of the *Excise Tax Act*, the CRA cannot release a refund or rebate to a taxpayer if the taxpayer has not filed all tax returns required to be filed under the *Income Tax Act* (as well as certain other tax related statutes).
+
+#### Waiver to file provisions
+
+**9.** An insolvency practitioner (as a representative of a taxpayer) can request a waiver under the provisions of the *Income Tax Act* listed below. After considering the relevant facts and circumstances, a delegated official of the CRA (see paragraph 12 below) will decide whether it is appropriate to:
+
+1. waive the requirement to file a corporate income tax return under subsection 150(3) of the *Income Tax Act*; and
+
+2. authorize a refund or rebate under the *Excise Tax Act* to a taxpayer (c/o the insolvency practitioner) even though a corporate income tax return has not been filed.
+
+**10.** Any refund or rebate authorized under paragraph 9b. above will not be released if it is being held for a reason other than an outstanding corporate income tax return.
+
+**11.** The Minister has the discretion to grant or refuse a request under the waiver to file provisions in subsection 220(2.1) of the *Income Tax Act*. Each request is reviewed and decided on its own merits. If a request is denied, the CRA will explain to the insolvency practitioner the reasons for and the factors in making the decision.
+
+#### Who is authorized to make the decision?
+
+**12.** Subsection 220(2.01) of the *Income Tax Act* authorizes the Minister to delegate his or her powers and duties set out in various provisions of the Act to designated officials within the CRA. The officials delegated to exercise the Minister's discretionary authority under the waiver to file provisions described in paragraph 9 above are authorized through administrative delegation instruments. These instruments can be found at [http://www.cra.gc.ca/tx/tchncl/dlgtnfpwrs/menu-eng.html](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/delegation-powers-duties-functions.html).
+
+**13.** These designated officials are authorized to review an insolvency practitioner's request for a waiver and to decide whether to grant or deny the request. It is a general administrative practice of the CRA to authorize another CRA official to prepare a decision report for the delegated official's consideration, including a recommendation on whether granting relief is justified. The final decision and the task of notifying the insolvency practitioner of the decision rest with the delegated official.
+
+### Part II
+
+#### Guidelines for waiving an insolvency practitioner's requirement to file a corporate income tax return
+
+**14.** The information in Part II of this information circular deals with the Minister's discretion to allow relief from the requirement to file corporate income tax returns under the provisions of the *Income Tax Act*. The Minister may provide relief if he or she is satisfied that an insolvency practitioner cannot file a corporate income tax return because of the taxpayer's circumstances.
+
+#### General
+
+**15.** Subsection 220(2.1) of the *Income Tax Act* gives the Minister the discretionary authority to waive the requirement to file a prescribed form, receipt, or other document otherwise required from a taxpayer under the Act.
+
+**16.** The CRA's ability to waive the requirement to file a corporate income tax return is not to be used by insolvency practitioners as a way to avoid their compliance responsibilities under the Act.
+
+#### Circumstances where relief from the filing requirement may be warranted
+
+**17.** For the purpose of providing an insolvency practitioner relief from the application of the withholding of refund provisions, under the *Excise Tax Act*, the Minister may grant an insolvency practitioner a waiver of the requirement to file a corporate income tax return on behalf of a taxpayer.
+
+**18.** Generally, a request for a waiver will be approved when, because of circumstances beyond the insolvency practitioner's control, insufficient books and records are available to prepare the corporate income tax return(s) that are required from the taxpayer.
+
+#### Making a request
+
+**19.** To make a request, insolvency practitioners should fill out Form RC342, *Request by an Insolvency Practitioner for a Waiver of the Requirement to File a T2 Corporation Income Tax Return*, and send it to the RICI serving their area. The form is available on the CRA Web site at [http://www.cra.gc.ca/formspubs/menu-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+**20.** Form RC342 is not to be used by insolvency practitioners that control only part and not all of the personal property of an insolvent company.
+
+**21.** The addresses of the RICI offices can be found on Form RC342.
+
+**22.** Insolvency practitioners should include in their initial request the circumstances (as noted in paragraph 18 above) on which they are basing their request. It is important that insolvency practitioners give the CRA a complete and accurate description of the taxpayer's circumstances and explain why the situation merits relief. To support a request, insolvency practitioners should provide all relevant information, including the following, where applicable:
+
+1. their name, address, and license number;
+
+2. the name, business number, or any other tax identification number assigned by the CRA to the taxpayer;
+
+3. the date they were appointed;
+
+4. their relationship to the taxpayer;
+
+5. the tax year or fiscal period for which they are seeking a waiver;
+
+6. the facts and reasons for not being able to file the corporation income tax return, including any relevant documentation to:
+
+    1. demonstrate that the corporate income tax return was not filed because of factors beyond their control;
+
+    2. explain how the taxpayer's circumstances affected their ability to meet their obligation to file the outstanding corporate income tax return;
+
+    3. provide a complete history of events and measures taken to resolve the matter of not filing the outstanding corporate income tax return on the part of the taxpayer; and,
+
+    4. support the facts and reasons outlined within the request.
+
+#### Factors used to arrive at the decision
+
+**23.** In addition to the information described in paragraph 22 above, the CRA will consider the following factors when it determines whether to waive the requirement to file a corporate income tax return:
+
+1. the taxpayer's history of compliance with tax obligations;
+
+2. whether the taxpayer knowingly continued to not file corporate income tax returns despite being contacted by the CRA;
+
+3. information available to the CRA supporting that there was enough financial information to file the outstanding corporate income tax return; and
+
+4. other such issues that may emerge from the insolvency practitioner's submission or during the review that might be relevant to the request to waive the requirement to file.
+
+### Part III
+
+#### Redress
+
+#### Redress – Second administrative review
+
+**24.** If a request is denied, the insolvency practitioner does not have the right to file an objection to dispute the decision under the waiver to file provisions. However, if the insolvency practitioner believes that the Minister's discretion has not been properly exercised, they can write to the director of the tax services office to ask to have the original decision reconsidered and the situation looked at again. During the second review, the insolvency practitioner will be able to make further representations to the CRA.
+
+**25.** CRA officials not involved in the first administrative review and decision will carry out the second administrative review. They will prepare a decision report for the consideration of the director or another delegated official, including a recommendation on whether granting relief is justified. The final decision and the task of notifying the insolvency practitioner of the decision rest with the director or other delegated official (for example, an assistant director).
+
+#### Redress – Judicial review
+
+**26.** If an insolvency practitioner believes that the Minister's discretion was not properly exercised, the insolvency practitioner can apply for judicial review of that decision to the Federal Court under section 18.1 of the *Federal Courts Act* within 30 days of the date the decision was first received by the insolvency practitioner.
+
+**27.** To ask for judicial review, the insolvency practitioner must send a completed Form 301, *Notice of Application*, with the appropriate filing fee to the registrar of the Federal Court. For more information on how to file an application for judicial review and other general enquiries, contact the Courts Administration Service or visit their Web site at [http://www.cas-satj.gc.ca](http://www.cas-satj.gc.ca).
+
+**28.** If it is determined that the Minister's discretion was not properly exercised, the Federal Court cannot substitute its decision for a decision of the CRA. Instead, it will refer the decision back to the CRA to be reconsidered by another delegated official.

@@ -1,0 +1,267 @@
+Title: GST/HST and Commercial Ride-sharing Services
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-196/gst-hst-commercial-ride-sharing-services.html
+Corpus path: corpus/cra/forms-publications/publications/gi-196/gst-hst-commercial-ride-sharing-services.md
+Document type: publication
+Last modified: 2025-04-24
+
+# GST/HST and Commercial Ride-sharing Services
+
+GST/HST Info Sheet GI-196 February 2023
+
+This version replaces the one dated June 2017. This info sheet has been updated to reflect the amendment to the GST/HST definition of taxi business and the registration process for non-residents.
+
+This info sheet provides the GST/HST requirements for self-employed commercial ride-sharing drivers along with the simplified GST/HST measures available to them based on the amendment to the GST/HST definition of taxi business which received Royal Assent on June 22, 2017.
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the Excise Tax Act (ETA). The information in this publication does not replace the law found in the ETA and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1‑800‑959‑8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1‑855‑666‑5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## General
+
+Effective July 1, 2017, self-employed commercial ride-sharing drivers who provide taxable supplies of ride-sharing services, are required to:
+
+- [register for the GST/HST](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/account-register.html), regardless of total annual revenues from taxable supplies
+
+- [charge and collect the GST/HST](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html) on the ride-sharing services
+
+- [report the GST/HST](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/complete-file-return-business/when-file.html)
+
+- [remit the GST/HST](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/pay-when.html)
+
+In certain circumstances a ride-sharing company that has been duly authorized by a self-employed commercial ride-sharing driver, may agree to carry out some of these requirements on behalf of the driver.
+
+This publication explains the requirements and various simplified GST/HST measures that are available to self-employed commercial ride-sharing drivers including:
+
+- registering online
+
+- filing and remitting annually and online
+
+- using the Quick Method to calculate net tax if relevant conditions are met
+
+- authorizing a representative to undertake GST/HST obligations on their behalf
+
+Although these measures are optional, ride-sharing companies may require self-employed commercial ride-sharing drivers who work with them to consent to using these measures.
+
+## Definition of taxi business
+
+For GST/HST purposes, prior to July 1, 2017, a **taxi business** was defined as “a business carried on in Canada of transporting passengers by taxi for fares that are regulated under the laws of Canada or a province”.
+
+All taxi operators are required to register for the GST/HST and to charge and collect tax on their fares, regardless of whether their total annual revenues from taxable supplies exceed the $30,000 small supplier threshold as the small supplier threshold does not apply to taxi businesses.
+
+To ensure that the GST/HST applies consistently to taxi services and commercial ride-sharing services, the definition of a taxi business was amended effective July 1, 2017, to also include persons carrying on a business of transporting passengers for fares by motor vehicle within a municipality and its environs if the transportation is arranged or coordinated through an electronic platform or system, such as a mobile application or website.
+
+The amended definition only applies to taxable supplies of passenger transportation services that are made in the course of a commercial activity. Self-employed commercial ride-sharing drivers are considered to be making such supplies once they start providing commercial ride-sharing services, including commercial carpool services.
+
+A **commercial activity** generally means a business carried on by a person (and in the case of an individual, carried on with a reasonable expectation of profit), except to the extent to which the business involves the making of exempt supplies by the person. Exempt supplies are supplies that are not subject to the GST/HST.
+
+The amended definition does not apply to:
+
+- the part of a business that is the operation of a sightseeing service or the school transportation of elementary or secondary students
+
+- a business or activity of a business that is prescribed by regulation (to date no businesses or activities have been prescribed)
+
+- an exempt supply of a passenger transportation service such as a supply of a municipal transit service by a transit authority
+
+- non-commercial ride-sharing, including non-commercial carpooling, that does not involve the making of taxable supplies
+
+For purposes of the amended definition, a **motor vehicle** means a motor vehicle that is designed or adapted primarily to carry individuals on highways and streets and that has a seating capacity for not more than the driver and eight passengers, and includes a motor vehicle that is either:
+
+- acquired primarily for use as a taxi
+
+- of a type commonly called a van or pick-up truck, or a similar vehicle
+
+## Registering for the GST/HST
+
+A self-employed driver making taxable supplies of commercial ride-sharing services is required to be [registered for the GST/HST](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/account-register.html) since July 1, 2017, in respect of those services. This is regardless of whether or not they are a small supplier. Generally, a **small supplier** refers to a person whose total revenue (along with the revenue of all persons associated with that person) from worldwide taxable supplies is equal to or less than $30,000 ($50,000 for public service bodies) in a calendar quarter and over the four previous calendar quarters.
+
+Although the effective date of registration will be the particular day on which the self-employed commercial ride-sharing driver starts to make taxable supplies, they are only required to apply to the CRA for registration before the thirtieth day after that particular day.
+
+A self-employed commercial ride-sharing driver makes a taxable supply of a commercial ride-sharing service on September 1, 2022. The commercial ride-sharing driver is required to apply for registration by September 30, 2022, and the effective date of registration would be September 1, 2022.
+
+A small supplier who makes taxable supplies of commercial ride-sharing services and other taxable supplies, generally will have a registration that only applies in respect of their commercial ride-sharing services unless they request otherwise. This means that self-employed commercial ride-sharing drivers are not required to charge the GST/HST in respect of other taxable supplies, nor are they entitled to claim input tax credits (ITCs) in relation to those supplies (ITCs are explained later in this publication). If the combined total annual revenue from taxable supplies of commercial ride-sharing services and other taxable supplies exceeds $30,000 (for example, $20,000 for commercial ride-sharing services and $15,000 for other taxable supplies), the self-employed commercial ride-sharing driver is not considered a small supplier and is required to charge and collect tax on all revenues from their taxable supplies (the combined taxable supplies of $35,000).
+
+If a self-employed commercial ride-sharing driver is already registered for the GST/HST, including with respect to another commercial activity, they are automatically considered to be registered with respect to their commercial ride-sharing services and are not required to apply for registration again.
+
+For further information regarding small suppliers, refer to [GST/HST Memorandum 2-2, Small suppliers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/2-2/small-suppliers.html).
+
+## How to register
+
+### Business Registration Online
+
+As a self-employed commercial ride-sharing driver, the simplest way to register for the GST/HST is to register electronically using [Business Registration Online](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/registering-your-business/business-registration-online-overview.html) (BRO).
+
+Online registration eligibility conditions that need to be met are on the [Business Registration Online – Register now](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/registering-your-business/bro-register.html) webpage. Self-employed commercial ride-sharing drivers are eligible to register online for the GST/HST if they have:
+
+- a social insurance number (SIN)
+
+- filed an income tax return with the CRA
+
+- not previously obtained a Business Number (BN)
+
+For further information, go to the [Business number](https://www.canada.ca/en/services/taxes/business-number.html) registration webpage.
+
+Online registration for the GST/HST is not permitted by self-employed commercial ride-sharing drivers if they have:
+
+- an invalid SIN
+
+- never filed an income tax return with the CRA
+
+- already obtained a BN
+
+Once registered online, a BRO summary providing a nine‑digit BN and a 15‑character GST/HST registration number will be issued, in addition to a GST/HST registration confirmation letter that includes the effective date of registration and the GST/HST reporting requirements.
+
+#### Non-Resident Business Number and Account Registration Web Form
+
+A commercial ride-sharing driver that is a non-resident cannot use BRO, however they can register for the GST/HST using the [Non‑Resident Business Number and Account Registration Web Form](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/registering-your-business/register.html).
+
+#### Other ways to register
+
+Registration by **mail or fax** is available by using [Form RC1, Request for a Business Number and Certain Program Accounts](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc1.html) and mailing or faxing it to the nearest [tax service office](https://www.canada.ca/en/revenue-agency/corporate/contact-information/office-locations.html).
+
+Registration by **phone** is available by calling the Business Enquiries line at 1‑800‑959‑5525. To find out the hours of telephone service go to [Contact The Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html) and follow step 2, numbers for business. Before calling, be prepared to answer the questions in Part A of Form RC1.
+
+Before registering for the GST/HST by mail, fax or phone, some basic information, and the following specific information will be required:
+
+- total annual revenue from taxable supplies
+
+- fiscal year end
+
+- effective date of registration
+
+- reporting periods
+
+## Charging and collecting the GST/HST
+
+As a GST/HST registrant (a person who is registered for the GST/HST or is required to be registered for the GST/HST), self-employed commercial ride-sharing drivers must [charge and collect the GST/HST](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html) on fares for taxable supplies of commercial ride-sharing services. The rate of the GST/HST that must be charged and collected in respect of a commercial ride-sharing service depends on the province in which the supply is made, which is the province in which the ride-sharing service begins.
+
+The GST/HST is typically included in the amount of the fare charged for the commercial ride-sharing service. The following figures are used to calculate the amount of the GST/HST included in the fare:
+
+- for 5% GST, multiply the total fare by 5 and divide the result by 105
+
+- for 13% HST, multiply the total fare by 13 and divide the result by 113
+
+- for 15% HST, multiply the total fare by 15 and divide the result by 115
+
+As a GST/HST registrant, self-employed commercial ride-sharing drivers must let customers know that the GST/HST is being applied to the commercial ride-sharing services. This can be done in various ways such as using receipts, or by posting signs to inform customers whether the GST/HST is included in the fare or added separately. If issuing a receipt, the receipt must show the total GST/HST rate or total tax payable that applies to the fare for the commercial ride-sharing services and either of the following:
+
+- that the total amount paid or payable for the service includes the GST/HST
+
+- the amount of the GST/HST payable on the service separately from the amount paid or payable for the service
+
+## Reporting the GST/HST
+
+### Filing GST/HST returns
+
+As a GST/HST registrant, self-employed commercial ride-sharing drivers are required to [file a GST/HST return](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/complete-file-return-business/when-file.html) for each reporting period to report net tax for that reporting period (and to remit net tax by the due date of the return). The reporting period generally determines the frequency with which GST/HST returns are required to be filed.
+
+For further information on the meaning of net tax, refer to the section entitled **How to calculate net tax** in this publication.
+
+Upon registering, the CRA will assign a reporting periodbased on total annual revenue from taxable supplies. Based on estimated annual taxable revenues, commercial ride-sharing service drivers will be assigned an annual reporting period. However, they may choose at that time to have a monthly or quarterly reporting period.
+
+Self-employed commercial ride-sharing drivers are required to file their GST/HST return by the due date which is also the date by which they are required to remit net tax for the reporting period. The filing deadline for a GST/HST return depends on the reporting period. If filing:
+
+- **monthly or quarterly,** the return is due one month after the end of the reporting period
+
+- **annually** and they are an individual with both a December 31 year end and business income for income tax purposes, the return is due by June 15
+
+- **annually** except for an individual with a December 31 year end and business income for income tax purposes, the return is due three months after the fiscal year-end
+
+#### How to file GST/HST returns
+
+There are several methods that can be used to file GST/HST returns.
+
+The fastest, easiest and most secure way to file GST/HST returns are to file online directly to the CRA using [GST/HST NETFILE](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/gst-hst-netfile.html).
+
+GST/HST returns can also be filed online through [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account/about-business-account.html), which is a secure online portal that allows electronic interaction with CRA on various business accounts.
+
+GST/HST returns can also be filed:
+
+- in person at a participating financial institution along with payment
+
+- by mail to the address on the return
+
+For further information regarding the filing of returns, go to [Complete and file a return – When to file.](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/complete-file-return-business/when-file.html)
+
+## How to calculate net tax
+
+There are two ways to calculate net tax for the reporting period in the GST/HST return, the regular method or the quick method.
+
+### Regular method
+
+If using the **regular method**, total the GST/HST collectible or collected during the reporting period and then deduct the eligible GST/HST as ITCs and other deductions for the reporting period from this total amount. The difference between these two amounts, including any adjustments, is the net tax for the reporting period. If the GST/HST collectible or collected is more than the eligible deductible GST/HST paid or payable (eligible ITCs and other deductions), the difference must be remitted to the CRA.
+
+As a GST/HST registrant, self-employed commercial ride-sharing drivers are generally eligible to claim ITCs to recover the GST/HST paid or payable on taxable property and services. These taxable property and services must have been acquired for consumption, use or supply for the purpose of making taxable supplies for consideration (for example, taxable supplies of commercial ride-sharing services for which an amount is charged) where all other conditions for claiming an ITCs are met. These inputs may include:
+
+- gasoline, diesel fuel, and propane
+
+- vehicle repairs, maintenance, and cleaning
+
+- vehicle leases and purchases
+
+An ITC cannot be claimed for the GST/HST paid or payable on property or services acquired for purposes other than making taxable supplies for consideration (for example, for personal use). If self-employed commercial ride-sharing drivers acquire an input for the purpose of making taxable supplies for consideration and for other purposes, they are required to allocate the use of the input between these purposes in order to claim an ITC on the input.
+
+Different ITC rules apply to services and non-capital property and to capital personal property. The appropriate rules must be used to calculate the ITC available on the acquisition of each property or service.
+
+For further information regarding ITCs, go to [Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/complete-file-input-tax-credit.html).
+
+### Quick method
+
+The **quick method** is a method of calculating net tax that self-employed commercial ride-sharing drivers may be eligible to elect to use if the relevant conditions are met. The quick method can help to reduce paperwork and bookkeeping costs.
+
+Generally, to calculate net tax using this method, multiply taxable GST/HST-included supplies made during a reporting period by a quick method remittance rate. This rate is less than the GST/HST rate that is charged to reflect the fact that ITCs cannot be claimed on most business purchases if using the quick method.
+
+Generally self-employed commercial ride-sharing drivers can elect to use this method if total annual revenues from taxable supplies, including those of associates, are no more than $400,000 (including the GST/HST and zero-rated supplies) in any four consecutive fiscal quarters over the last five fiscal quarters.
+
+Self-employed commercial ride-sharing drivers can elect to use the quick method by using CRA’s online services at [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) or [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), or by completing and sending [Form GST74, Election and Revocation of an Election to Use the Quick Method of Accounting](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst74.html) to the nearest tax service office. You can find the address at [Office locations](https://www.canada.ca/en/revenue-agency/corporate/contact-information/office-locations.html) or call 1-800-959-5525.
+
+For further information, go to [Guide RC4058, Quick Method of Accounting for GST/HST.](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4058.html) For more information on the net tax calculation, go to the **Most Businesses**section of the [Calculate the net tax to complete a GST/HST return](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/complete-file-return-business/calculate-net-tax.html).
+
+## Remitting the GST/HST
+
+Net tax is generally [required to be remitted](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/pay-when.html) by the due date of the GST/HST return.
+
+If filing the GST/HST return monthly or quarterly, remittance is due within one month after the end of the reporting period.
+
+If filing the GST/HST return annually with a December 31 year‑end and business income for income tax purposes, remittance is due by April 30. In any other case as an annual filer, remittance is due within three months after the end of the reporting period.
+
+If filing annually and the net tax for the previous fiscal year was $3,000 or more, and the net tax for the current fiscal year is $3,000 or more, self-employed commercial ride-sharing drivers have to make quarterly instalment payments during the current fiscal year, even if there is a rebate that reduces the amount owing to less than $3,000. Penalties and interest may be incurred if installment payments are not remitted. To calculate instalment payments and view the related due dates, go to [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html).
+
+These quarterly payments are due within one month after the end of each fiscal quarter and are usually equal to one quarter of the net tax from the previous year. Self-employed commercial ride-sharing drivers may also choose to base their quarterly instalment payments on an estimate of their net tax for the current year if it is expected that the net tax for the current year will be less than it was for the previous year.
+
+There are several methods that can be used to remit the GST/HST. The simplest way is to remit electronically, which can be done in the following ways:
+
+- remit electronically using the financial institution’s online or telephone banking services
+
+- pay electronically using the CRA’s [My Payment](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html) option, which allows individuals and businesses to make payments online from an account at a participating financial institution using the CRA website
+
+- authorize the CRA to withdraw a pre-determined payment from a bank account to pay tax on a specific date or dates, which can be set up at [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html)
+
+## Authorizing a representative
+
+Self-employed commercial ride-sharing drivers may authorize a representative to register, file, and remit on their behalf. For further information, go to [Authorize a representative](https://www.canada.ca/en/revenue-agency/services/tax/representative-authorization/overview.html).
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries,**call **Business Enquiries** at **1‑800‑959‑5525**
+
+- for **GST/HST technical enquiries,**call **GST/HST Rulings** at **1‑800‑959‑8287**
+
+If you are located in**Quebec**, call**Revenu Québec**at **1‑800‑567‑4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST - Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for**general GST/HST**or**QST enquiries**, call**Business Enquiries**at**1‑800‑959‑5525**
+
+- for**technical GST/HST**or**QST enquiries**, call**GST/HST Rulings SLFI**at**1‑855‑666‑5166**

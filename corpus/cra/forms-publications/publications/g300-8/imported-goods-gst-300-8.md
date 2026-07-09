@@ -1,0 +1,518 @@
+---
+title: "Imported Goods (GST 300-8)"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/g300-8/imported-goods-gst-300-8.html
+last_modified: 2017-11-07
+---
+# Imported Goods (GST 300-8)
+
+**Notice to the reader:**
+
+Please note that the following GST Memorandum, although correct at the time of issue, has not been updated to reflect any subsequent legislative changes since the date of issue. As a result, some of the technical information this memorandum contains may no longer be valid. Please contact your GST/HST Rulings Centre for assistance.
+
+GST memoranda 300-8
+
+**TAX ON SUPPLIES IMPORTED GOODS Ottawa, February 6, 1991**
+
+This memorandum in the **TAX ON SUPPLIES** series explains, for purposes of the Goods and Services Tax (GST), what imported goods are and provides detailed information on the application of the GST to goods imported into Canada, as required under the *Excise Tax Act.*
+
+**LEGISLATIVE REFERENCES**
+
+*Excise Tax Act -* sections 123, 142, 143, 144, 212, 213, 214, 215, 216, 261, 301 to 312, subsections 148(3), 165(1), 240(2), 240(3), 240(4), 252(1) and 337(4), and Schedule VII, Non-taxable Importations
+
+*Customs Act* - sections 2, 32, 44 to 55, and 58 to 69
+
+*Customs Tariff -* Temporary Importations Regulations
+
+- Schedules I and II
+
+Draft Value of Imported Goods (GST) Regulations Draft Non-taxable Imported Goods (GST) Regulations Draft Postal and Courier Imports (GST) Regulations
+
+TABLE OF CONTENTS Definitions 3 Imported Goods 6 General 6 Imposition of the GST 6 Value of Imported Goods for GST Purposes 7 Value for Duty 8 Duties and Taxes 9 Special Valuation Cases 9 Application of Provisions of the Customs Act 10 Supply before Release 11 Payment of Duties and Taxes (including the GST) 12 Penalty and Interest Provisions 13 Refund Procedures 13 Registrants 13 Non-registrants 13 Input Tax Credits 14 Non-taxable Importations 14 Section 1, Schedule VII 14 Canadian Goods Returned 17 Section 2, Schedule VII 17 Section 3, Schedule VII 18 Section 4, Schedule VII 18 Section 5, Schedule VII 18 Section 6, Schedule VII 19 Section 7, Schedule VII 20 Section 8, Schedule VII 20 Documentation 23 Notification 24 Direct Mail Imports of Books and Periodicals 25
+
+**DEFINITIONS**
+
+The following definitions have either been taken from the *Excise Tax Act* (as amended by Bill C-62) or represent departmental interpretations of terms relevant to the administration of that Act.
+
+"**Act**" means the *Excise Tax Act* as amended by Bill C-62;
+
+"**business**" includes a profession, calling, trade, manufacture or undertaking of any kind whatever, whether the activity or undertaking is engaged in for profit, and any activity engaged in on a regular or continuous basis that involves the supply of property by way of lease, licence or similar arrangement, but does not include an office or employment;
+
+"**Canada**"
+
+i) "Canada" includes
+
+(a) the sea bed and subsoil of the submarine areas adjacent to the coasts of Canada in respect of which the government of Canada or of a province may grant a right, licence or privilege to explore for or exploit any minerals; and
+
+(b) the seas and airspace above the submarine areas referred to in paragraph (i) in respect of any activities carried on in connection with the exploration for or exploitation of minerals.
+
+ii) In respect of imports, "Canada" has the meaning assigned by the *Customs Act*;
+
+"**commercial activity**" means:
+
+(a) any business carried on by a person;
+
+(b) any adventure or concern of a person in the nature of trade; and
+
+(c) any activity engaged in by a person that involves the supply of real property or of a right or interest in respect of real property by that person;
+
+but does not include:
+
+(d) any activity engaged in by a person to the extent that it involves the making of an exempt supply by the person;
+
+(e) any activity engaged in by an individual without a reasonable expectation of profit; or
+
+(f) the performance of any duty or activity in relation to an office or employment;
+
+"**Department**" means the Department of National Revenue, Customs and Excise;
+
+"**Deputy Minister**" means the Deputy Minister of National Revenue for Customs and Excise;
+
+"**excisable goods**" means any goods on which a duty of excise is imposed under the *Excise Act* or would be imposed under that Act if the goods were manufactured or produced in Canada;
+
+"**goods**" has the same meaning as in the *Customs Act*;
+
+"**import**" means import into Canada;
+
+"**input tax credit**" means a credit claimed by a registrant for the Goods and Services Tax paid or payable on any property or service consumed, used or supplied in the course of a commercial activity;
+
+"**Minister**" means the Minister of National Revenue;
+
+"**non-resident**" means not resident in Canada;
+
+"**officer**", for purposes of section 216 of the Act and any provision of the *Customs Act* applicable by reason of section 216 in respect of the administration of Division III of Part IX of the Act, means an officer within the meaning of section 2 of the *Customs Act* and includes an officer employed in the administration of Part IX of the Act;
+
+"**person**" means an individual, partnership, corporation, trust or estate, or a body that is a society, union, club, association, commission or other organization of any kind;
+
+"**personal property**" means property that is not real property;
+
+"**prescribed**" means (a) in the case of a form, the information to be given on a form or the manner of filing a form, prescribed by the Minister, and
+
+(b) in any other case, prescribed by regulation or determined in accordance with the rules prescribed by regulation;
+
+"**property**" means any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money;
+
+"**recipient**", in respect of a supply, means the person who pays or agrees to pay consideration for the supply or, if no consideration is or is to be paid for the supply, the person to whom the supply is made;
+
+"*registrant*" means a person who is registered, or who is required to apply to be registered, under sections 240 and 241 of the *Excise Tax Act;*
+
+"**release**" has the same meaning as in the *Customs Act*;
+
+"**service**" means anything other than
+
+(a) property,
+
+(b) money, and
+
+(c) anything that is supplied to an employer by a person who is or agrees to become an officer or employee of the employer in the course of or in relation to the office or employment of that person;
+
+"**small supplier**", at any time, means a person who is at that time a small supplier under section 148 of the Excise Tax Act;
+
+"**supplier**", in respect of a supply, means the person making the supply;
+
+"**supply**" means, subject to sections 133 and 134 of the *Excise Tax Ac*t, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition;
+
+"**tax**" means the Goods and Services Tax payable under Part IX of the *Excise Tax Act*;
+
+"**taxable supply**" means a supply that is made in the course of a commercial activity but does not include an exempt supply;
+
+"**zero-rated supply**" means a supply included in Schedule VI to the *Excise Tax Act.*
+
+**IMPORTED GOODS**
+
+**General**
+
+1. This memorandum deals with imported goods that are subject to the GST under Division III of Part IX of the Act. For information on imported services and intangible property taxable under Division IV of Part IX of the Act, refer to GST MEMORANDUM 300-9, "**IMPORTED SERVICES AND INTANGIBLE PROPERTY"**.
+
+2. Information respecting the imposition of tax under Division II of Part IX of the Act on recipients of taxable supplies made in Canada is available in GST MEMORANDUM 300, "**TAX ON SUPPLIES**".
+
+3. Importers of goods should refer to the following Customs publications:
+
+(a) Customs Notice N-478 as amended by Customs Notice N-498, Proposed GST Exemption Codes
+
+(b) Customs Notice N-485, GST Effects on Temporary Imports and Remission Orders
+
+(c) Customs Memoranda D17 Series, Accounting and Release Procedures
+
+**Imposition of the GST**
+
+4. Section 212 of the Act provides that every person who is liable under the *Customs Act* to pay duty on goods imported, or who would be so liable if the goods were liable to duty, is required to pay the GST on the goods imported. The rate of tax is seven per cent calculated on the value for tax of the imported goods.
+
+5. Section 213 of the Act provides that no tax is payable in respect of goods included in Schedule VII to the Act. For example, the tax imposed under Division III of Part IX of the Act is not payable on goods that are zero-rated under Schedule VI to the Act, such as prescription drugs and groceries, and goods which qualify under the tourist exemptions for returning residents. Further details respecting Schedule VII to the Act are provided later in this memorandum.
+
+**Value of Imported Goods for GST Purposes**
+
+6. Section 215 of the Act outlines the legislative provisions with respect to the value of imported goods for GST purposes (the "value for tax"). The value of imported goods for GST purposes is deemed to be equal to the total of:
+
+(a) the value of the goods as it would be determined for the purpose of calculating a duty, expressed as a percentage of the value, on the importation of the goods under the laws relating to Customs and the *Customs Tariff*, whether the goods are in fact subject to a duty; and
+
+(b) the amount of all duties and taxes, if any, payable thereon under the *Customs Tariff*, the *Special Import Measures Act*, the *Excise Tax Act* (but not including Part IX - the GST) and any other law relating to Customs.
+
+7. Division III of Part IX of the Act requires the application of Customs legislation for purposes of determining the value of goods imported, whether or not the goods are actually subject to customs duty.
+
+8. The GST is calculated on the aggregate value of the goods for the purposes of customs duties plus all duties (which include assessments made under the *Special Import Measures Act)* and taxes (including excise taxes but excluding the GST) payable on those goods imported into Canada.
+
+9. Subsection 215(2) of the Act provides that, notwithstanding the general rule set out in paragraph 6 of this Memorandum, for purposes of Division III of Part IX of the Act, the value of the goods imported in prescribed circumstances shall be determined in a manner prescribed in regulations. In other words, subsection 215(2) of the Act authorizes the Governor in Council to prescribe by regulation an alternative value for the application of the GST to goods imported in prescribed circumstances. Further information on these value regulations is contained in paragraph 16 of this memorandum.
+
+10. The next three sections of this memorandum expand on paragraphs 6 to 9, outlining in greater detail the determination of the value on which the GST will be applied on imported goods under Division III of Part IX of the Act.
+
+**Value For Duty**
+
+11. The following paragraphs discuss Customs valuation procedures that are applicable to determining the value on which the GST is to be calculated pursuant to Division III of Part IX of the Act.
+
+12. The provisions under the *Customs Act* which determine the value of imported goods on which duty is calculated have not been changed by the GST legislation. That is, the value for duty will continue in most cases to be based on the transaction value, i.e., the price paid or payable for the goods in a sale for export to Canada. In determining value for duty under the transaction value method, certain adjustments to the price paid or payable are allowed and/or required. The value for duty that results from the application of the valuation provisions of the *Customs Act* (sections 46 to 55) will, after the addition of the appropriate taxes referred to in paragraph 215(1)(a) of the Act, form the value for tax.
+
+13. The value for duty provisions of the *Customs Act* are explained in the Customs memoranda dealing with the valuation of imported goods. For further details, refer to the Customs D13 Memoranda Series on valuation.
+
+**Duties and Taxes**
+
+14. Customs duties include duties imposed under the *Customs Tariff* as well as duties imposed under the *Special Import Measures Act,* i.e., anti-dumping and countervail duties. Parts III and IV of the *Excise Tax Act* impose excise taxes on certain goods. For example, imported jewellery is subject to an excise tax of 10 per cent on the duty-paid value.
+
+15. As noted above, these other duties and excise taxes form part of the base used to calculate the GST payable. That is, these charges, including any customs duty applicable to the imported goods, will be added to the value of the imported goods determined for duty calculation purposes before the GST calculation is made.
+
+**SPECIAL VALUATION CASES**
+
+16. Regulations made under subsection 215(2) of the Act will provide for the following special valuation circumstances in connection with the imposition of the GST:
+
+(a) Temporary importations of goods enumerated in the following items contained in the Schedule to the Temporary Importations Regulations under the *Customs Tariff* (for a description of these items, refer to the Temporary Importations Regulations found in Customs Memorandum D8-1-1, Temporary Importations Regulations) will be subject to the GST on 1/60th of the value for duty for each month or part thereof that the item remains in Canada, plus any unremitted customs duty payable:
+
+(i) Items 4, 10, 13, 19, 28, 29, 34, 45 and 48 when imported by a non-resident; and
+
+(ii) Items 19, 22, 25, 37, 50, 51, 55 and 56 when imported by a resident or non-resident.
+
+(b) Railway rolling stock and vessels temporarily imported for domestic use and subject to partial customs duty relief will be subject to the GST in a manner paralleling the current duty treatment. That is, where the customs duty is payable on a reduced value of 1/50th, 1/60th, 1/100th or 1/120th of the value of the goods, the GST will be payable on that reduced value plus the customs duty as calculated on that reduced value.
+
+(c) The value of carrier media on which software is stored and that is imported in circumstances where, after the importation, tax will be paid or become payable by the importer on the supply in Canada of the right to use that software will be determined as being the value for duty of the carrier media excluding the value of the software, but including the cost of storing the software on it.
+
+(d) Locomotives and miscellaneous railway equipment described in Order in Council P.C. 1953-18/894, June 9, 1953 (see Customs Memorandum D3-6-5, Foreign Railway Locomotives and Miscellaneous Railway Equipment) temporarily imported for domestic use will be subject to the GST on 1/120th of the value for duty for each month in Canada, plus any applicable unremitted duty.
+
+(e) In respect of imported goods where the amount of any otherwise applicable customs duty or excise tax (other than the GST) is relieved by way of an Order in Council or an Act of Parliament (e.g., the Customs Tariff or the Customs Act), the value for GST purposes is to be reduced by the same amount unless the GST is otherwise reduced in the order or act. In other words, the value for GST purposes will be the value for duty plus any remaining customs duty, excise duty or excise tax not relieved or reduced.
+
+**Application of Provisions of the *Customs Act***
+
+17. Subsection 216(1) of the Act states that, for purposes of section 216 of the Act and any provision of the *Customs Act* applicable by reason of section 216 in respect of the administration of Division III of Part IX of the Act, the word "officer" means an officer within the meaning of section 2 of the *Customs Act* and includes an officer employed in the administration of Part IX of the Act.
+
+18. Subsection 216(2) of the Act provides that, where an officer determines the value of imported goods for purposes of Division III of Part IX of the Act and a person disagrees with the determination, sections 58 to 66 of the *Customs Act* (which deal with appraisals and determinations) apply, with such modifications as the circumstances require, as if the determination were a determination made under subsection 58(1) of the *Customs Act.*
+
+19. Subsection 216(3) of the Act provides that where a person disagrees with a decision of the Deputy Minister respecting the value of imported goods, made for purposes of Division III of Part IX of the Act, under section 63 or 64 of the *Customs Act* (which deal with re-determination and re-appraisal), the person may appeal the decision. In that event, sections 67 to 69 (which deal with appeals and references) of the *Customs Act* apply, with such modifications as the circumstances require.
+
+20. Any questions concerning the valuation of imported goods or the appeal procedures for valuation should be directed to the nearest regional office of Revenue Canada Customs, Customs Assessment Division, for response.
+
+21. Subsection 216(4) of the Act stipulates that, where the issue of disagreement relates to any matter other than a determination of value for purposes of Division III of Part IX of the Act, a person may apply for a rebate of the GST in accordance with section 261 of the Act. The appeal procedures relating to the GST (sections 301 to 312) apply to any dispute as to the amount of the rebate.
+
+22. GST MEMORANDUM 500-4, "**REBATES",** and GST MEMORANDUM 500-5,
+
+"**OBJECTIONS AND APPEALS"**, contain more information on rebates and appeals.
+
+**Supply before Release**
+
+23. Under section 144 of the Act, for purposes of Part IX of the Act, a supply of goods that have been imported in compliance with the Customs Act or any other Act of Parliament that prohibits, controls or regulates the importation of goods, but that have not been released before the goods are delivered or made available in Canada to the recipient of the supply, is deemed to be a supply made outside Canada.
+
+24. The effect of this provision is that, where goods are sold and have not been released from Canada Customs before they are delivered or made available to the purchaser (for example, goods stored in a bonded warehouse), the sale is deemed to take place outside Canada, and therefore would not be subject to the GST. The GST will become payable by the importer of record when the goods are released and accounted for. The importer of record is the person who presents an accounting document to Canada Customs to have the imported goods released, and is responsible for the payment of the GST on those imported goods. This person could be a resident or a non-resident of Canada.
+
+**Payment of Duties and Taxes (including the GST)**
+
+25. Section 214 of the Act provides that the GST imposed on imported goods under Division III of Part IX of the Act is to be paid and collected under the *Customs Act.* In addition, interest, fees, charges and penalties will be imposed, paid and collected under the *Customs Act* as if the tax were customs duty levied under the *Customs Tariff* on the importation of goods and, for that purpose, the *Customs Act,* with such modifications as the circumstances require, applies except as provided in subsection 216(4) of the Act.
+
+26. Pursuant to the *Customs Act* and Regulations, the general rule is that duties and taxes (including the GST) are to be paid to and collected by Canada Customs at the time the Customs accounting (or entry) documents are processed. Further information on the processing of Customs entry documents may be obtained from the nearest regional office of Revenue Canada Customs.
+
+27. The Customs Regulations, The Accounting for Imported Goods and Payment of Duties Regulations, under the *Customs Act*, relating to the payment of levies on imported goods were modified as a result of the implementation of the GST. Effective January 1, 1991, the time of payment of all levies on imported goods, including the GST, was extended by five business days from the time of accounting. As a result, commercial importers who have posted security for the release of their imports prior to payment will be able to delay payment of the duties and taxes until 10 business days after release. Details of these deferred payment procedures are contained in Customs Memorandum D17-1-5, Release of Imported Goods.
+
+**Penalty and Interest Provisions**
+
+28. The penalty and interest provisions contained in the *Customs Act* apply, where appropriate, to delinquent payments of the GST payable on imported goods. Further details on the application of these penalty and interest provisions may be obtained from the nearest regional office of Revenue Canada Customs.
+
+**REFUND PROCEDURES**
+
+Importers, whether or not registered for purposes of the GST, who did not overpay customs duties and excise taxes but paid an excess amount of GST only, should claim that amount on the **General Application for Rebate of Goods and Services Tax** (Form GST 189E). A person may only file one general rebate application form per month and must include on that application all amounts claimed during that month as amounts paid in error, including amounts paid as tax on domestic purchases and on importations.
+
+**Registrants**
+
+29. A registrant paying an amount on account of tax on imported goods, which was not and will not become later an amount of tax payable, may not claim an input tax credit, but should claim a rebate for that amount. Importers who are registered for purposes of the GST should use the Canada Customs Adjustment Request (FormB-2) to recover overpaid customs duties and excise taxes. They may not use this form to recover overpaid GST, but should file instead a **General Application for Rebate of Goods and Services Tax** (Form GST 189E).
+
+**Non-registrants**
+
+30. Importers who are not registered and who have overpaid their duty and GST liability on imported goods, will be able to file for a refund of both duty and the GST on a Customs refund application. They will not be required to file two separate claims, one for customs duties and one for the GST.
+
+31. Canada Customs will forward the refund application for the GST from such importers to Revenue Canada Excise for final processing once Canada Customs has approved the Customs portion of the application. That is, two separate cheques will be issued for the refund.
+
+32. If the overpayment is for the GST only, the non-registered importer will be required to file for the refund on an excise refund application form (form GST 189, **General Application for Rebate of the Goods and Services Tax).**
+
+**INPUT TAX CREDITS**
+
+33. Registrants who import goods for consumption, use or supply in the course of their commercial activities are entitled to claim input tax credits in respect of the GST paid or payable on the imported goods. Some examples of these imported goods include raw materials, capital property and goods acquired for resale.
+
+34. GST MEMORANDUM 400,"**INPUT TAX CREDITS**", contains detailed information on input tax credits.
+
+**NON-TAXABLE IMPORTATIONS**
+
+35. Section 213 of the Act provides that no GST is payable under Division III in respect of goods included in Schedule VII (Non- Taxable Importations) to the Act.
+
+36. The following paragraphs list goods of different classes that, upon importation into Canada, do not attract the GST levied under section 212 of Part IX of the Act. The relevant sections of Schedule VII to the Act have been quoted below followed by a brief description of the section.
+
+**Section 1, Schedule VII**
+
+37. "Goods that are classified under heading No. 98.01, 98.02, 98.03, 98.04, 98.05, 98.06, 98.07, 98.10, 98.11, 98.12, 98.13, 98.14, 98.15, 98.16, 98.19 or 98.21, of Schedule I to the *Customs Tariff*, to the extent that the goods are not subject to duty under that Act, but not including goods that are classified under tariff item No. 9804.30.00."
+
+38. The goods listed under the tariff classification numbers specified in this section are relieved from the GST upon importation to the same extent that they are relieved from customs duties under the *Customs Act*. That is, if the goods are relieved from customs duties, then the GST is automatically relieved as well. Explanations of each tariff heading follow:
+
+(a) 98.01- Foreign-based conveyances engaged in transporting passengers or goods to and from Canada, that is, internationally registered aircraft, ships, trains, etc. This provision allows for these conveyances to enter Canada without incurring a duty or tax liability.
+
+(b) 98.02- Conveyances temporarily imported by Canadian residents for the personal use of the resident. This allows residents of Canada who work in the U.S., for example, to use a car which has not been Canadian duty or tax-paid for commuting back and forth to their job.
+
+(c) 98.03- Tourists' conveyances and baggage. This item allows tourists visiting Canada to bring their personal effects and vehicle or boat into Canada for their personal use without incurring a duty or tax liability.
+
+(d) 98.04- Tourist exemptions for returning residents. This item includes the tourist exemptions allowed to Canadian residents who are returning from a trip outside the country; for example, the $20, $100 and $300 exemptions for goods purchased abroad by Canadian residents.
+
+(e) 98.05- Former residents' effects. This item provides for the personal effects (where owned and used abroad for at least six months prior to that person's return to Canada) of a Canadian resident who lived abroad for a period of not less than one year to be re-imported without incurring a tax liability. There are certain restrictions that may apply to some personal effects and, as a result, there may be some duty and tax liability for those goods. For example, any article valued at more than $10,000 would be subject to the usual duties and taxes on the value in excess of $10,000. If the article were an automobile, the excise taxes payable on the automobile's weight would also be applied.
+
+(f) 98.06- Estates and bequests. Provision is made for the personal effects to be left as a bequest to a Canadian resident free of duties and taxes.
+
+(g) 98.07- Settlers' effects. Provision is made for the importation free of duties and taxes of the personal effects of persons immigrating to Canada.
+
+(h) 98.10/11- Military arms and stores. Provision is made for certain countries to be able to bring these goods in Canada free of duties and taxes under specified circumstances.
+
+(i) 98.12 Certain publications of the UN and NATO may enter without the payment of duties and taxes. There is also provision for books borrowed from foreign lending libraries to be imported for a specified period of time without the payment of duty.
+
+(j) 98.13/14- Canadian goods returned, including containers used in international service, which meet the requirements of the regulations prescribed by the Minister. This item allows Canadian goods (by domestic manufacture or by being duty and tax paid), which have been exported from Canada, to be returned to Canada without incurring a further duty and tax liability under certain conditions. The goods being returned must meet the criteria set out in the Customs regulations made pursuant to these tariff items to qualify for duty-free status. To qualify for non-taxable (GST) status, the goods must meet the conditions outlined in **paragraph 39** of this memorandum.
+
+(k) 98.15- Donations of clothing and books for charitable purposes may be imported free of duty and taxes.
+
+(l) 98.16- Gifts. Provision is made for gifts from friends and relatives abroad to be imported free of duty if their value is less than $40. Certain restrictions apply. This provision is similar to section 7 of the Schedule VII to the Act. However, this tariff item is restricted to casual gifts only and may not be used for commercial goods.
+
+(m) 98.19/21- Convention displays and commercial samples admitted temporarily may enter free of duty for a specified period of time subject to certain restrictions.
+
+**Canadian Goods Returned**
+
+39. Goods that are classified under the heading 98.13 or 98.14 of Schedule I to the *Customs Tariff*, to the extent that the goods are not subject to duty under that Act, but not including:
+
+(a) goods that, prior to importation, were supplied outside Canada by way of sale and are being imported for the first time after that supply;
+
+(b) goods that, prior to importation, were supplied outside Canada by way of lease and are being imported for the first time after the agreement was entered into;
+
+(c) goods that, prior to importation, were supplied in Canada by way of sale on a zero-rated basis pursuant to Part V of Schedule VI to the Act and are being imported for the first time after that supply; and
+
+(d) goods that, prior to the importation, were supplied in Canada to a recipient who was entitled to the rebate under subsection 252(1) of the Act and are being imported for the first time after that supply.
+
+40. Further details of what goods qualify under these *Customs tariff* numbers are available from the nearest regional office of Revenue Canada Customs, Customs Assessment Division. In addition, further information on the tax status of goods classified under these tariff items is available from the nearest Revenue Canada Excise office.
+
+**Section 2, Schedule VII**
+
+41. "Medals, trophies and other prizes, not including usual merchantable goods, that are won outside Canada in competition, that are bestowed, received or accepted outside Canada or that are donated by persons outside Canada, for heroic deeds, valour or distinction."
+
+42. This section allows someone who is awarded or wins a medal, trophy or other prize (other than merchantable goods such as an automobile) outside Canada to import the prize free of the GST.
+
+**Section 3, Schedule VII**
+
+43. "Printed matter that is to be made available to the general public, without charge, for the promotion of tourism, where the printed matter is
+
+(a) imported by or on the order of a foreign government or an agency or representative of a foreign government; or
+
+(b) imported by a board of trade, chamber of commerce, municipal or automobile association or similar organization to which it was supplied for no consideration, other than shipping and handling charges."
+
+44. This section permits tourist literature of governments or other described bodies to be imported free of the GST when such literature is for distribution without charge.
+
+**Section 4, Schedule VII**
+
+45. "Goods that are imported by a charity in Canada and that have been donated to the charity."
+
+46. This section allows goods that have been donated outside Canada and subsequently imported by a charity to be imported free of the GST.
+
+**Section 5, Schedule VII**
+
+47. "Goods that are imported by a particular person where the goods are supplied to the particular person by a non-resident person for no consideration, other than shipping and handling charges, as replacement parts under a warranty in respect of tangible personal property."
+
+48. This section relieves from the GST warranty replacement parts sent to an individual in Canada -- this, on the premise that the individual will previously have paid the GST on the original parts purchased or imported into Canada, along with any implicit warranty costs. Taxing the replacement parts provided free under a warranty would effectively result in double taxation.
+
+49. It should be noted that this provision is restricted to warranty replacement parts provided free. If, during the course of a warranty repair, other modifications or improvements are made to the goods, these modifications and improvements will be subject to the GST. For example, if a computer is shipped for repair under warranty and in addition to repairing the item, the manufacturer replaces a computer part for an improved part, the extra costs incurred in doing this improvement would be taxable. If the manufacturer no longer stocks the necessary part to fix the original repair, and as a result is forced to upgrade the item, only the difference in value would be subject to the GST.
+
+**Section 6, Schedule VII**
+
+50. "Goods, the supply of which is included in Section 2 of Part I or in Part II, III, IV or VIII of Schedule VI."
+
+51. Schedule VI to the Act contains nine parts listing supplies of property and services that are zero-rated under the GST. These include:
+
+(a) Part I Prescription Drugs,
+
+(b) Part II Medical Devices,
+
+(c) Part III Basic Groceries,
+
+(d) Part IV Agriculture and Fishing,
+
+(e) Part V Exports,
+
+(f) Part VI Travel Services,
+
+(g) Part VII Transportation Services,
+
+(h) Part VIII International Organizations and Officials,
+
+(i) Part IX Financial Services.
+
+52. This section extends effectively the same treatment as zero- rating to the goods specified when imported. GST MEMORANDUM 300-3, "**ZERO-RATED SUPPLIES**", provides more information on these zero- rated supplies.
+
+**Section 7, Schedule VII**
+
+53. "Goods (other than prescribed goods) that are sent to the recipient of the supply of the goods at an address in Canada by mail or courier and the value of which, determined under subsection 215(1) of the Act, is not more than $40."
+
+54. This section relieves from the GST any goods which are valued in accordance with subsection 215(1) of the Act at no more than $40 which are sent either by mail or by courier to an address in Canada. For the purposes of this section, the following imported goods are prescribed goods:
+
+(a) alcoholic beverages, cigars, cigarettes and manufactured tobacco;
+
+(b) books, periodicals or magazines and any similar printed publications where the supplier is required to register for the GST and is not so registered;
+
+(c) goods for which the value for duty is reduced by the application of note 12 of chapter 98 of Schedule I to the *Customs Tariff;*
+
+(d) goods that are purchased from a retailer in Canada and mailed or transported from outside Canada directly to the purchaser; and
+
+(e) goods that are purchased or ordered through or from a person in Canada who is acting for or on behalf of a person outside Canada who is selling the goods.
+
+**Section 8, Schedule VII**
+
+55. "Prescribed goods imported in prescribed circumstances."
+
+56. Where an extraordinary need arises for GST relief to be granted to a particular importation of goods because of circumstances peculiar to that particular importation, this section provides for the granting of the relief by way of regulation made by the Governor in Council. While the regulations made under section 8 of Schedule VII to the Act have not yet been finalized, the following is a draft of these regulations as issued by the Department of Finance:
+
+(a) precious metals imported under any circumstances;
+
+(b) unwrought silver, gold or platinum, waste and scrap of precious metal or of metal clad with precious metal, and concentrates of silver, gold or platinum where imported for the purpose of being refined into precious metals;
+
+(c) tangible personal property where,
+
+(i) imported for the sole purpose of public exhibit by a public sector body,
+
+(ii) title to the property is not intended to pass and does not pass to a person in Canada during the period of time that the property is in Canada, and
+
+(iii) beneficial use of the property is not intended to pass and does not pass to a person in Canada other than a public sector body during the time that the property is in Canada;
+
+(d) crude oil where,
+
+(i) imported for the sole purpose of being refined in Canada,
+
+(ii) title to, or beneficial use of, the crude oil or the refined product is not held by a person in Canada at the time of importation and is not intended to pass and does not pass to a person in Canada during the time the property is in Canada, and
+
+(iii) the refined product is exported as soon as practicable after the refining is completed;
+
+(e) foreign-based conveyances where,
+
+(i) the conveyance is non-taxable by reason of the reference to heading 98.01 of Schedule I to the *Customs Tariff* in section 1 of Schedule VII to the Act and the conveyance is diverted for maintenance, overhaul or repair in Canada,
+
+(ii) title to, or beneficial use of, the conveyance is not intended to pass and does not pass to a person in Canada during the time the conveyance is in Canada, and
+
+(iii) the conveyance is exported as soon as practicable after the maintenance, overhaul or repair is completed;
+
+(f) a print, an etching, a drawing, a painting, a sculpture or other similar work of art where,
+
+(i) the work is part of a shipment of imported art on consignment and the total value of the shipment, determined in accordance with section 215 of the Act, is at least $250,000,
+
+(ii) at the time of importation, having regard to previous experience, if any, of the importer in importing works of art, it is reasonable to expect that at least 75 per cent, in value, will be exported within one year of the importation, and
+
+(iii) the importer provides a declaration (refer to **paragraph 57** of this Memorandum);
+
+(g) locomotives, railway rolling stock and vessels imported in circumstances where customs duties have been remitted or removed under
+
+(i) Railway Rolling Stock (International Service) Remission Order No. 3,
+
+(ii) code 2338 of Schedule II to the *Customs Tariff,*
+
+(iii) Railway Rolling Stock (International Service) Remission Order No. 4,
+
+(iv) Railway Rolling Stock (Canadian Domestic Use) Remission Order No. 2, or
+
+(v) sections 5, 6, 7, 15, 16, or 17 of the *Vessel Duties Reduction or Removal Regulations*;
+
+(h) goods described in the following items of the Schedule to the *Temporary Importation Regulations* under the *Customs Tariff* (for a description of these items, refer to Customs Memorandum D8-1-1) imported in circumstances where the terms and conditions of those Regulations are met:
+
+(i) items 3, 16, 17, 18, 27, 32, 33, 36, 39, 40, 41, 42, 43, 44, 49, 52, 53, 54 and 57;
+
+(ii) items 38 and 47 when by a non-resident; and
+
+(iii) item 46, other than usual merchantable products;
+
+(i) goods imported after having been exported for warranty repair work where the importer complies with certain requirements (refer to **paragraphs 58 and 59** of this Memorandum);
+
+(j) goods enumerated in tariff code 1910 of Schedule II to the *Customs Tariff* where imported in circumstances that meet the requirements of that code. (This tariff code is for certain machinery, equipment and vehicles imported by international bridge authorities to be employed in the maintenance or operation of international bridges or their approaches.)
+
+**Documentation**
+
+57. An importer of goods referred to in sub-paragraph 56(f) of this memorandum is required, at the time of accounting of the goods in accordance with section 32 of the Customs Act, to attach to or endorse on the accounting document the following declaration duly signed and dated:
+
+"I hereby declare that it is my expectation that at least 75 per cent, in value, of the works of art in this shipment will be exported within one year from this date.
+
+(signed)
+
+(dated)
+
+58. An importer of goods referred to in **sub-paragraph 56(i)** of this memorandum is required, at the time of accounting for the goods under section 32 of the Customs Act, to attach to the accounting document:
+
+(a) except where subsection 32(2) of the Customs Act applies, a copy of the export report for the goods; and
+
+(b) an invoice or written statement from the supplier of the goods showing that, excluding shipping charges, communication expenses and other non-repair expenses, the cost of the warranty repair to the goods was borne by the supplier under the terms of the warranty.
+
+59. Where the export report is unavailable due to circumstances beyond the control of the importer, the importer is required to provide:
+
+(a) a Canada Customs document (usually the form E15, Identification of Goods Exported or Destroyed) proving the exportation of the goods in accordance with the *Customs Act;*
+
+(b) a transportation company document respecting the exportation of the goods;
+
+(c) a customs accounting document respecting the importation of the goods into the country where the warranty repair work was performed;
+
+(d) a declaration made by the exporter that the goods exported to Canada are the goods that were imported for warranty repair; or
+
+(e) other evidence satisfactory to the Minister showing that the goods had been exported from Canada.
+
+**NOTIFICATION**
+
+60. Where an importer imports works of art and less than 75 per cent, in value, of the shipment is exported within one year of the importation, the importer is required to notify an officer of a Customs office indicating the percentage, in value, of the work of art in the shipment that was ultimately exported.
+
+**DIRECT MAIL IMPORTS OF BOOKS AND PERIODICALS**
+
+61. Under subsection 143(2) of the Act, sales of foreign books and magazines and other prescribed property that meet the following conditions will be deemed to be a supply made in Canada and accordingly will be subject to the GST under the authority of subsection 165(1) of the Act:
+
+(a) the property is prescribed property or is supplied by a prescribed person;
+
+(b) the property is sent to the recipient of the supply at an address in Canada by mail or courier;
+
+(c) the value of the property, determined in accordance with subsection 215(1) of the Act, is not more than $40; and
+
+(d) the person making the supply is a registrant.
+
+62. For the purposes of paragraph 143(2)(a) of the Act, the following property is prescribed property: a book, magazine, newspaper, periodical and any similar printed publication.
+
+63. At the time of importation, no GST is payable in respect of the property by virtue of section 7 of Schedule VII to the Act. Refer to **paragraph 53** of this memorandum which provides further detail regarding this provision.
+
+64. Subsection 240(4) of the Act stipulates that a non-resident person who in Canada solicits orders to supply prescribed goods (as provided in the regulations made pursuant to subsection 143(2) of the Act) sent by mail or courier to persons in Canada is deemed to be engaged in carrying on a business in Canada.
+
+65. The combined effect of subsections 143(2) and 240(4) of the Act is to require non-residents to register (if over the small supplier threshold of $30,000) for the GST as required by the Act, and to collect and remit the GST on their sales of prescribed goods made in Canada at the time they file their GST return.
+
+66. Subsection 337(4) of the Act provides that the GST does not apply to payments for newspaper, magazine or other periodical subscriptions that are made before 1991. Payments made after 1990 for subscriptions and renewals paid after 1990 are subject to the GST. Therefore, if a three-year subscription was purchased and paid for prior to 1991, even if the subscription is for a period after 1990, no GST applies to the consideration.
+
+67. GST MEMORANDUM 500-6-6, "**STRADDLING TRANSACTIONS**", contains more information on transitional issues.
+
+**NOTE:** This memorandum is not a legal document. It contains general information and is provided for convenience and guidance in applying the *Excise Tax Act* and Regulations. If interpretation problems occur, please refer to the legislation or contact the nearest Revenue Canada Excise office.
+
+**REFERENCES**
+
+*OFFICE OF RESPONSIBILITY:*
+
+Policy and Legislation
+
+**LEGISLATIVE REFERENCES:**
+
+*Excise Tax Act* as amended by Bill C-62
+
+**HEADQUARTERS FILE**:
+
+N/A
+
+**SUPERSEDES GST MEMORANDUM:**
+
+N/A
+
+**OTHER REFERENCES:**
+
+N/A
+
+SERVICES PROVIDED BY THE DEPARTMENT ARE AVAILABLE IN BOTH OFFICIAL LANGUAGES.
+
+THIS MEMORANDUM IS ISSUED BY TECHNICAL INFORMATION, EXCISE BRANCH UNDER THE AUTHORITY OF THE DEPUTY MINISTER OF NATIONAL REVENUE, CUSTOMS AND EXCISE.

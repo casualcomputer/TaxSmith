@@ -1,0 +1,226 @@
+---
+title: "Refund, Adjustment, or Credit of the GST/HST under Section 232 of the Excise Tax Act"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/12-2/refund-adjustment-credit-gst-hst-under-section-232-excise-tax-act.html
+last_modified: 2008-04-11
+---
+# Refund, Adjustment, or Credit of the GST/HST under Section 232 of the Excise Tax Act
+
+GST/HST memorandum 12.2 April 2008
+
+This memorandum outlines circumstances where an adjustment, refund or credit of the GST/HST may occur pursuant to section 232 of the *Excise Tax Act* (the Act).
+
+**Note**
+
+This memorandum updates and replaces GST/HST Technical Information Bulletin B-042, *Refund, Adjustment or Credit of the GST* and incorporates policy statement P-030R, *Credit/Debit Notes and Net Tax Adjustments.*
+
+**Disclaimer**
+
+The information in this memorandum does not replace the law found in the *Excise Tax Act* and its Regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation, or contact a Canada Revenue Agency (CRA) GST/HST Rulings Centre for more information. These centres are listed in [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html). If you wish to make a technical enquiry on the GST/HST by telephone, please call the toll-free number 1-800-959-8287.
+
+If you are located in Quebec, please contact Revenu Québec by calling the toll-free number 1-800-567-4692 or visit their Web site at [www.revenu.gouv.qc.ca](http://www.revenuquebec.ca/en/default.aspx).
+
+**Note – HST**
+
+Reference in this publication is made to supplies taxable at 5% (the rate of the GST) or 13% (the rate of the HST). The HST applies to supplies made in Nova Scotia, New Brunswick, and Newfoundland and Labrador (the “participating provinces”). If you are uncertain as to whether a supply is made in a participating province, you may refer to GST/HST Technical Information Bulletin B-078, *Place of Supply Rules Under the HST*.
+
+## Table of contents
+
+- [Refund, adjustment or credit](#P34_1874)
+
+    - [Excess tax charged or collected](#P37_2153)
+
+    - [Reduction in consideration](#P54_3368)
+
+- [Refund, adjustment, or credit optional](#P82_5364)
+
+- [Credit or debit note](#P90_6704)
+
+- [Adjustment to net tax](#P128_10701)
+
+- [Rebate of tax](#P139_12107)
+
+    - [Restrictions on rebates](#P146_12930)
+
+    - [Requirement to pay excess](#P151_14087)
+
+## Refund, adjustment or credit
+
+General
+
+1. A supplier is permitted to adjust, refund or credit GST/HST in two situations: where an excess amount of tax has been charged or collected; or where consideration for a supply is reduced some time after the tax has been charged or collected.
+
+### Excess tax charged or collected
+
+ss 232(1)
+
+2. Where a supplier has charged to, or collected from, another person an amount as or on account of tax in excess of the amount of tax collectible (referred to in this memorandum as an “excess amount”), the supplier may
+
+1. adjust the amount of tax charged, where the excess amount was charged but not collected; or
+
+2. refund or credit the excess amount of tax collected, where the excess amount was charged and collected.
+
+Two-year limit
+
+3. The supplier has up to two years after the day on which the excess amount was charged but not collected to adjust the amount of tax charged, or if the excess amount was collected, two years after the day on which it was collected to refund or credit the excess tax.
+
+4. Circumstances where the GST/HST paid or payable would exceed the tax properly collectible include:
+
+- if there is an error in calculating the tax payable due to a miscalculation;
+
+- where tax is collected in error in respect of a supply that is either zero-rated or not subject to tax (e.g. an exempt supply or a supply relieved of tax under another section of the Act or other federal legislation); or
+
+- where tax was charged at the wrong rate (e.g., charged at 6% instead of 5%).
+
+### Reduction in consideration
+
+ss 232(2)
+
+5. Where a supplier has charged to, or collected from, another person tax and there has been a reduction in the consideration after the GST/HST has been charged or collected, the supplier may
+
+1. adjust the amount of tax charged but not collected by subtracting the portion of tax that was calculated on the amount by which the consideration was reduced, where tax calculated on the consideration or part was charged but not collected; and
+
+2. credit or refund the tax collected on the portion of the consideration or part that was reduced, where tax calculated on the consideration or part was collected.
+
+6. A reduction in consideration may occur under the following circumstances:
+
+- when some or all of the consideration is returned;
+
+- as a result of surpassing a certain volume of purchases, i.e., a volume rebate;
+
+- where goods delivered are found to be substandard; or
+
+- where goods are returned to the supplier for a full or partial refund of the consideration.
+
+7. The reduction in consideration must be given to the original recipient of the supply, or that person's agent, and must relate to an amount that has been collected or charged.
+
+8. The reduction in consideration must also relate to the original supply and may be made for any reason but must not depend on any action undertaken by the recipient or any supply made by the recipient.
+
+ss 232(4)
+
+9. An early payment discount to which section 161 applies is not considered to be a reduction of consideration.
+
+10. A reduction in consideration is not considered to have occurred if the goods are sold back to the original supplier. To be considered a reduction of consideration, it must be evident that the goods are being returned to the supplier rather than being sold to the supplier.
+
+Four-year time limit
+
+ss 232(2)
+
+11. The supplier has up to four years after the end of the reporting period in which the consideration was reduced to adjust the amount of tax charged or to refund or credit the tax collected to the recipient.
+
+## Refund, adjustment, or credit optional
+
+12. There is no requirement for the supplier to refund, adjust, or credit the GST/HST charged or collected under either circumstance. It is at the discretion of the supplier whether the tax is refunded, adjusted or credited. However, it is expected that a refund, adjustment, or credit of the tax will usually be given in instances where the customer is a non-registrant.
+
+13. Where the customer is a registrant, the supplier may choose not to refund, adjust or credit the GST/HST previously charged or collected. This may be desirable where the person making the refund, adjustment, or credit has already accounted for the tax and the recipient has already claimed or is entitled to claim a corresponding input tax credit.
+
+Rebate may be available s 261
+
+14. Where a supplier chooses not to issue a refund, adjustment or credit of the tax where the tax has been collected in error or the consideration for the supply has been reduced after the GST/HST has been charged or collected, relief may be obtained by filing a rebate for tax paid in error. For example, a consumer who has paid GST/HST on a zero-rated supply and has been unable to obtain a refund of the tax from the supplier may file a general application for rebate. Refer to paragraphs 27 to 31 of this memorandum for more information on this rebate.
+
+## Credit or debit note
+
+para 232(3)(a)
+
+15. When a supplier refunds, adjusts, or credits an excess amount, or tax on consideration that has subsequently been reduced, to another person (i.e., the recipient), the supplier is required to issue a credit note including prescribed information within a reasonable time to the other person, unless the other person first issues a debit note to the supplier.
+
+Prescribed information
+
+*Credit Note and Debit Note Information (GST/HST) Regulations* s 3
+
+16. A credit or debit note must contain prescribed information pursuant to the *Credit Note and Debit Note Information (GST/HST) Regulations*. The following prescribed information must be included on all credit and debit notes:
+
+1. a statement or other indication that the document is a credit or debit note;
+
+2. the name of the supplier or an intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number of the supplier or the intermediary;
+
+3. the name of the recipient or name of the recipient's business or the name of the recipient's duly authorized agent or representative;
+
+4. the date on which the note is issued; and
+
+5. unless the note is issued in respect of a patronage dividend or for a total amount that includes both the consideration and the tax for more than one supply, the amount of the adjustment, refund or credit of tax for which the note is issued.
+
+Meaning of intermediary*Credit Note and Debit Note Information (GST/HST) Regulations* s 2
+
+17. The term “intermediary” of a person means, in respect of a supply, a registrant who, acting as agent of the person or under an agreement with the person, causes or facilitates the making of the supply by the person.
+
+Patronage dividends para 3(e)
+
+18. If the note is issued in respect of a patronage dividend in circumstances in which subsection 233(2) applies, the note must indicate the amount of the adjustment, refund or credit of tax that the issuer of the dividend is deemed to have made in respect of the supplies to which the dividend relates.
+
+Note issued for one or more taxable supplies subpara 3(f)(i)
+
+19. If the note is issued for a total amount that includes both the consideration and the tax for more than one supply, the amount of tax included in the refund, adjustment, or credit must be clearly identified or the note should include all of the following in addition to the information listed in paragraph 16:
+
+- a statement to the effect that the total includes the adjustment, refund or credit of the tax,
+
+- the tax rate that was paid or payable in respect of each of the taxable supplies that is not a zero-rated supply and for which there is a reduction in tax, and
+
+- either the total reduction of consideration and tax in respect of each supply or the total reduction of consideration and tax in respect of all such supplies to which the same tax rate applies.
+
+Supplementary information
+
+20. The note should also include the date of the invoice or agreement in writing in respect of the supply. If the refund, adjustment, or credit of the tax relates to more than one invoice, the note should indicate the dates of the first and last invoices issued. If the supplier did not issue an invoice or enter into a written agreement with the recipient, the date the tax was charged should be indicated.
+
+21. If the original invoice or written agreement specified the purchase price and the GST/HST payable, the price and the GST/HST that was adjusted, refunded, or credited should be shown separately on the credit or debit note. If the invoice or written agreement specified that the amount payable included the tax, it should be stated on the note that the refund, adjustment, or credit includes the tax.
+
+No adjustment if note is not issued
+
+22. There is no requirement to issue a credit note or debit note unless a refund, adjustment or credit of the tax is made by the supplier to the recipient. However, no corresponding adjustment to net tax is permitted unless a credit note or debit is issued.
+
+## Adjustment to net tax
+
+Supplier may deduct para 232(3)(b)
+
+23. Provided the supplier has issued a credit note to the recipient or has received a debit note issued by the recipient, the supplier is allowed to deduct the amount of the tax refund, adjustment, or credit when determining its net tax for the reporting period in which the credit note is issued or the debit note is received, to the extent the amount has been included in determining the net tax for that reporting period or a preceding reporting period of the supplier.
+
+24. Where a person deducts an amount under section 232 in determining its net tax, that amount should be recorded as an adjustment on line 107 of the person's GST/HST return for the appropriate period.
+
+Recipient must add amount credited para 232(3)(c)
+
+25. The recipient, if a registrant, is required to add the amount of the tax adjusted, refunded, or credited when determining its net tax for the reporting period in which the credit note is received or the debit note is issued by the recipient, to the extent the amount has been included in determining an input tax credit claimed by the recipient in a return filed for the reporting period or a preceding reporting period of the recipient.
+
+26. An amount that a person is required to add in determining the net tax of the person should be recorded as an adjustment on line 104 of the person's GST/HST return in the appropriate period.
+
+## Rebate of tax
+
+s 261
+
+27. Should a supplier choose not to refund, adjust or credit amounts of tax collected in error or in respect of consideration that has subsequently been reduced, relief is available to the person, e.g. a consumer, through filing a general application for rebate.
+
+28. The application for the rebate must be filed by the person who paid the tax using form GST189, [General Application for Rebate of Goods and Services Tax (GST)/Harmonized Sales Tax (HST)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html) within two years after the day the amount was paid or remitted by the person.
+
+s 263
+
+29. A person is not entitled to both a refund, adjustment or credit of tax from a supplier and a rebate from CRA in respect of the same amount. A person is entitled to a rebate only if the supplier has not refunded, credited or adjusted the tax in respect of the same supply.
+
+### Restrictions on rebates
+
+para 263(d)
+
+30. A rebate of an amount under Division VI of the Act shall not be paid or granted to a person to the extent that a credit note has been received by the person (or a debit note has been issued by the person) for a refund, adjustment, or credit that includes the amount. Consequently, if the person has received a refund, adjustment or credit of tax from the supplier for which the person has received a credit note or issued a debit note to the supplier, that amount cannot be included in a claim for a rebate under any of sections 252 to 261.31.
+
+ss 259(1)
+
+31. For purposes of the rebate for selected public service bodies under section 259, the definition of “non-creditable tax charged” excludes any amount of tax that has been adjusted, refunded or credited and for which the person has received a credit note or issued a debit note for tax paid in error or in respect of reduced consideration. Therefore, if the public service body has received a refund, adjustment, or credit of tax, that amount cannot be included in its calculation of non-creditable tax charged for purposes of calculating a public service body rebate.
+
+### Requirement to pay excess
+
+para 232(3)(d)
+
+32. Where a supplier refunds, adjusts, or credits an amount of tax to a recipient after a rebate under Division VI has been paid to, or applied to a liability of, the recipient, the recipient is required to pay the excess back to the Receiver General.
+
+33. The excess is equal to the difference between the rebate received and the amount of the rebate, if any, to which the recipient would have been entitled if the amount of tax that was refunded, adjusted or credited by the supplier had never been charged or collected from the recipient in the first place. In other words, the recipient must repay the amount of tax refunded, adjusted or credited that was included in the rebate calculation.
+
+Repayment by a registrant
+
+34. The repayment of the rebate or a part of the rebate by a registrant is due on the due date of the person's return for the reporting period in which the person receives the credit note or issues the debit note.
+
+Repayment by a non-registrant
+
+35. The repayment of the rebate or part of the rebate by a person who is a non-registrant is due on the last day of the calendar month immediately following the calendar month in which the credit note is received or the debit note is issued. A repayment of a rebate or part of a rebate by a person who is a non-registrant is made using form RC159, [Amount Owing Remittance Voucher](https://www.canada.ca/en/revenue-agency/services/forms-publications/request-payment-forms-remittance-vouchers.html).
+
+## Enquiries by telephone
+
+**Technical enquiries on the GST/HST:** 1-800-959-8287**General enquiries on the GST/HST:** 1-800-959-5525 (Business Enquiries)**If you are located in Quebec:** 1-800-567-4692 (Revenu Québec)
+
+All technical publications on GST/HST are available on the CRA Web site at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).

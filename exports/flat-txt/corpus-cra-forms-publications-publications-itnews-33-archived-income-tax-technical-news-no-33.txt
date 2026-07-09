@@ -1,0 +1,159 @@
+Title: ARCHIVED - Income Tax Technical News No. 33
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-33/archived-income-tax-technical-news-no-33.html
+Corpus path: corpus/cra/forms-publications/publications/itnews-33/archived-income-tax-technical-news-no-33.md
+Document type: publication
+Last modified: 2005-09-16
+
+# ARCHIVED - Income Tax Technical News No. 33
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for income tax technical news](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/what-archived-content-notice-means-income-tax-technical-news.html)
+
+**No. 33** September 16, 2005
+
+**This version is only available electronically.**
+
+## In This Issue
+
+- [Income Earned or Realized – The *Kruco* Case](#P29_891)
+
+- [Permanent Establishment – The *Dudney* Case Update](#P45_8173)
+
+The *Income Tax Technical News* is produced by the Policy and Planning Branch. It is provided for information purposes only and does not replace the law. If you have any comments or suggestions about the matters discussed in this publication, please send them to:
+
+Income Tax Rulings Directorate Policy and Planning Branch Canada Revenue Agency Ottawa ON K1A 0L5
+
+The *Income Tax Technical News* can be found on the Canada Revenue Agency Internet site at [http://www.cra.gc.ca/](http://www.cra.gc.ca/).
+
+## Income Earned or Realized – The Kruco Case
+
+Subsection 55(2) of the *Income Tax Act* (the “Act”) is an anti-avoidance provision directed against arrangements designed to use the inter-corporate dividend exemption to reduce a capital gain on the sale of a share. Subsection 55(2) will generally apply where the purpose of the dividend (or the result in the case of a deemed dividend under subsection 84(3)) is to significantly reduce the amount of the capital gain that would otherwise have been realized on a fair market value sale of the share. However, subsection 55(2) does not apply to the extent that the gain that has been reduced can reasonably be attributed to the share's portion of the income earned or realized by any corporation after 1971.
+
+The expression “income earned or realized by any corporation after 1971” (generally referred to as “safe income”) means a corporation's net income for income tax purposes, as adjusted by paragraphs 55(5)(*b*), (*c*) or (*d*), as the case may be. Consequently, the starting point is the corporation's net income for tax purposes as determined under section 3 of the Act. (See *454538 Ontario Ltd. v. MNR*, 93 DTC 427, [1993] TCJ No. 107.) To this amount are added the specific adjustments set out in paragraph 55(5)(*b*), (*c*) or (*d*) of the Act.
+
+It has been the long-standing position of the Canada Revenue Agency (“CRA”) that safe income can only contribute to a gain on shares if it is on hand and available for distribution to shareholders as a dividend (i.e. what is commonly referred to as “safe income on hand”). Consequently, in computing the amount of safe income on hand that was attributable to a particular share during the relevant holding period, it had been the CRA's position that the safe income of a corporation should be reduced by the amount of any actual or potential disbursement or outlay arising in the relevant holding period that had not otherwise been deducted in the calculation of the corporation's net income and which would reduce the gain inherent in the particular shares of the corporation. In addition, it was the CRA's position that safe income on hand should be reduced by the amount of any phantom income (i.e. income not represented by any actual receipt of funds). These guidelines for determining the amount of a corporation's safe income on hand are described in various papers [Footnote 1](#P33_3244) presented by senior CRA officials at conferences of the Canadian Tax Foundation and have been supplemented by numerous technical interpretations that have been issued since subsection 55(2) was enacted.
+
+The decision of the Federal Court of Appeal in the case of *The Queen v. Kruco* *Inc.*, 2003 DTC 5506, [2003] 4 CTC 185, has overturned a number of the CRA's published guidelines for determining the safe income on hand attributable to a share of a corporation. In this regard, Noël J. made the following comments at the end of paragraph 42 of this decision with respect to a phantom income adjustment that had been made in the computation of safe income on hand as described in the CRA guidelines:
+
+“In short, it is not open to the Minister to modify the amount which Parliament has deemed to be a “corporation's income earned or realized” for purposes of subsection 55(2).”
+
+Noël, J. did, however, acknowledge at paragraph 41 of the decision that cash outflows which occur after the determination of a corporation's income earned or realized, but before the dividend is paid (such as taxes and dividends) and that reduce the income to which the capital gain may be attributable can also be deducted in computing safe income on hand.
+
+Although the decision in the *Kruco* case involved the computation of income earned or realized of a private corporation under paragraph 55(5)(*c*), the CRA acknowledges that this reasoning is also applicable to the computation of income earned or realized of a corporation resident in Canada that is not a private corporation under paragraph 55(5)(*b*).
+
+The Federal Court of Appeal has indicated in the *Kruco* case that an amount will generally only be included in a corporation's safe income to the extent that it has been included in the determination of its net income for tax purposes or is an adjustment specifically set out in paragraph 55(5)(*b*) or (*c*). Similarly, an amount that has been deducted in computing a corporation's net income for tax purposes will reduce the corporation's safe income. Otherwise, safe income will generally only be reduced by those cash outflows that occur after the determination of net income, but before the dividend is paid (such as taxes and dividends) to the extent that such disbursements reduce the income to which the capital gain may be attributable. The CRA will follow the approach mandated by the Federal Court of Appeal in the *Kruco* case.
+
+Where the corporation owns shares of a foreign affiliate, the CRA believes that the decision of the Federal Court of Appeal in the case of *Canada v. Brelco Drilling Ltd*, [1999] 4 F.C. 35, 99 DTC 5253, [1999] 3 CTC 95, should still be followed.
+
+While the *Kruco* case was decided in favour of the taxpayer, we recognize that some taxpayers may be adversely affected by the CRA's change in interpretation resulting from this case; consequently for taxable dividends received prior to January 1, 2007 the CRA will allow the dividend recipient to choose either:
+
+(a) to determine the safe income on hand attributable to the particular share in accordance with the CRA's historical positions as described in the publications and technical interpretations referred to above; or
+
+(b) to determine the safe income attributable to the particular share in accordance with the approach mandated by the Federal Court of Appeal in the *Kruco* case also as outlined above.
+
+The determination of safe income on hand in accordance with the CRA's historical positions as set out in option (a) above will only be available where the taxpayer is willing to accept the CRA's guidelines as a package, in other words, both those adjustments set out in the CRA's published guidelines which are advantageous to it along with any adjustments that will reduce its safe income on hand. For example, an amount that the CRA has previously accepted as an addition to safe income on hand and which is not specifically included in safe income pursuant to either of paragraphs 55(5)(*b*) or (*c*) of the Act (such as the amount deducted by the corporation as a resource allowance) can no longer be included in safe income unless the taxpayer is also willing to reduce safe income on hand by any downward adjustments stipulated in the CRA guidelines (including non-deductible expenses, such as crown royalties).
+
+For any taxable dividend received after 2006, the safe income attributable to the particular share will need to be determined in accordance with the approach mandated by the Federal Court of Appeal in the *Kruco* case.
+
+## Permanent Establishment – The Dudney Case Update
+
+## Background
+
+In 2000, the Federal Court of Appeal rendered its decision in *The Queen v. William A. Dudney* (2000 DTC 6169) and the Supreme Court rejected the Crown's request for leave to appeal. The issue in that decision was whether Mr. Dudney, an engineer resident in the US, was taxable in Canada on his income earned in Canada. Mr. Dudney was an independent contractor hired by a company (OSG) (that was at that time a Canadian company) to train PanCanadian Petroleum Limited (PanCan) personnel in a high-tech discipline. According to Article XIV of the Canada-US Convention, Mr. Dudney would only be taxable in Canada if his training income was attributable to a fixed base regularly available to him in Canada. (The Court held that a fixed base was conceptually the equivalent of a permanent establishment (“PE”) for the purposes of Article V and Article VII dealing with Business Profits.)
+
+Mr. Dudney was carrying on his activities in connection with his contract at PanCan premises for about a year. He was performing his services through the offices of the personnel being trained, from a conference room, or from a room shared with other consultants. Mr. Dudney could not conduct any other business from there, he could use the telephone only for business related to the PanCan contract and his access to the building was restricted to normal business hours and to weekdays only. Mr. Dudney had no letterhead or business cards identifying him as working at PanCan and he was not identified as working in the PanCan premises, either in the directory in the lobby of the PanCan premises or otherwise. His invoices were prepared by him at home (in Canada) and sent by fax to OSG.
+
+The Court concluded that the PanCan premises were not a PE (or rather, a fixed base regularly available) to Mr. Dudney and, consequently, his income was exempt from tax in Canada under the Convention. The Federal Court of Appeal stated:
+
+“Thus, where a person is denied the benefit of Article XIV on the basis that he has a fixed base regularly available to him in Canada, the question to be asked is whether the person carried on his business at that location during the relevant period. The factors to be taken into account would include [1] the actual use made of the premises that are alleged to be his fixed base, [2] whether and by what legal right the person exercised or could exercise control over the premises [“legal control”], and [3] the degree to which the premises were objectively identified with the person's business. **This is not intended to be an exhaustive list that would apply in all cases, but it is sufficient for this case.**” [Emphasis added]
+
+## CRA's Position on Control
+
+In the *[Income Tax Technical News No. 22](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-22.html)* released on January 11, 2002, we were asked whether CRA accepted the *Dudney* decision for purposes of determining whether there was a “fixed base”. We provided the following answer:
+
+“The CCRA will apply Dudney in cases where it can be concluded that, based on the facts, the taxpayer does not have sufficient physical control of space to be carrying on his or her business in a particular place. We do not propose to litigate another case based on the taxpayer's use of space within the premises of another person unless we can reasonably maintain, based on the particular facts, that the taxpayer in fact had sufficient physical control of the space to carry on those aspects of his or her business that are appropriate to the space.”
+
+We were recently asked to provide more guidelines on PEs in the context of non-resident service providers, partly because of the ambiguity of the notion of “physical control” in the *Income Tax Technical News* cited above, and partly because the focus on control can sometimes be misleading.
+
+To clarify, it is CRA's position that the analysis in making a PE determination should not stop simply because it is concluded that there is no legal control. The factor of legal control as described in the *Dudney* decision was only one of the three factors listed by the Judge to support her decision and those factors were not intended to form an exhaustive list. Therefore, having a legal right to exercise control over a place of business is not a requirement in order for a person to be found to have a PE in Canada, but a factor amongst others.
+
+In making a determination of whether or not a PE exists, there are numerous factors to be considered that are outlined in the OECD Model Commentary and derived from jurisprudence. Which factors are most relevant in any particular case will be largely dependent on the nature of the taxpayer's business. Under a different set of facts, other factors could supersede those listed by the Judge in the *Dudney* decision.
+
+## Carrying on the Business
+
+It appears to have been important to the Judge in the *Dudney* decision that Mr. Dudney did not carry on at PanCan premises other aspects of his business besides the performance of services. Since the PE definition itself clearly states that the non-resident must carry on his business wholly ***or partly*** through the fixed place of business, we are of the view that it is not necessary for the non-resident to carry on all aspects of his business in Canada in order to have a PE in Canada. Taking a different view could result in only the headquarters of a business ever being considered a PE and this would generally defeat the purpose of Article 5 (Permanent Establishment) and Article 7 (Business Profits) of our treaties since the headquarters of a business are generally located in the state of residence of the person carrying on the business.
+
+## Provincial Jurisprudence
+
+One should be careful in importing jurisprudence regarding provincial tax legislation (such as the *Toronto Blue Jays Baseball Club v. Ontario*, 2005 O.J. No. 485) to the analysis of tax treaties. The decision of a court of another jurisdiction only acts as persuasive authority. The degree of persuasiveness is largely dependent upon the similarity between the two pieces of legislation and the interpretative principles applicable to each (the principles of interpretation applicable to treaties are more liberal than those applicable to domestic statutes [Footnote 2](#P61_14369)). The PE definition under provincial tax legislation differs from the PE definition under Canada's tax treaties. Such departures from the treaty PE concept necessarily lead to a different analysis, if not to a different conclusion. For example, Ontario's *Employer Health Tax Act* states that a PE “includes any fixed place of business” while Article 5 of our treaties states that a “PE means a fixed place of business *through which the business of an enterprise is wholly **or partly** carried on*”. As we mentioned in the above paragraph, it is clear from the definition of PE under our treaties that only part of the business must be carried on at the place of business in Canada in order for it to be a PE. Also, the *Quebec Taxation Act* and the *Act respecting the* *Régie de l'assurance-maladie du Québec* refer to “establishment” as opposed to “permanent establishment”, and have significant distinctions and particularities within the definition.
+
+## PE Analysis Framework
+
+In *The Queen v. Crown Forest Industries* (95 DTC 5389), the Supreme Court stated that the OECD Model Tax Convention on Income and Capital (the “OECD Model”) is of high persuasive value in interpreting income tax treaties and accordingly relied heavily on the OECD Model Commentary in its decision.
+
+Therefore, CRA looks at the issue whether a PE exists in Canada by examining the specific facts of the situation in light of the particular words of a treaty, the jurisprudence, and the OECD Model Commentary.
+
+PE is generally defined under our treaties as “a fixed place of business, through which the business of an enterprise is wholly or partly carried on.” According to the OECD Model Commentary on Article 5, this definition therefore contains the following conditions:
+
+(1) There must be a place of business.
+
+(2) The place of business must be fixed.
+
+(3) The non-resident must be carrying on his business wholly or partly through this fixed place of business.
+
+The CRA believes that these three conditions form an appropriate framework for a PE analysis and any relevant factor to a PE determination has to revolve around one of those three conditions.
+
+## Example of Factors
+
+The following factors may assist in determining if these conditions exist:
+
+(1) **Is there a place of business?**
+
+Examples
+
+- **Space at disposal**. If the non-resident doesn't own or rent the premises, is there any amount of space at the disposal of the non-resident? (See paragraphs 4 to 4.5 of the OECD Commentary on Article 5.); or
+
+- **Employee's presence**. Is an employee of the non-resident allowed to use an office in the place of business of another company for a long period of time? (See paragraph 4.3 of the OECD Commentary on Article 5.)
+
+(2) **Is the place of business fixed?**
+
+Examples
+
+- **Duration**. What is the duration of the activities of the non-resident at the particular place in Canada? (See paragraph 6 of the OECD Commentary on Article 5.);
+
+- **Coherent** **whole**. If the nature of the business activities is such that the activities are often moved between neighbouring locations, do those locations constitute a single geographical and commercial whole and, therefore, one single place of business to which the duration test can be applied? (See paragraphs 5 to 5.4 of the OECD Commentary on Article 5.)
+
+- **Recurrence**. Is the presence of the non-resident at the place in Canada recurrent? (See paragraph 6 of the OECD Commentary on Article 5 and *Fowler v MNR*, 90 DTC 1834.)
+
+(3) **Is the business of the non-resident wholly or partly carried on through this fixed place of business?**
+
+Examples
+
+- **Regularity of the activities**. Are the non-resident's operations carried out on a regular basis? (See paragraph 7 of the OECD Commentary on Article 5.);
+
+- **Scale of the activities**. What is the scale of the activities carried on in Canada in terms of investment, employees or equipment involved and deployed at the place of business in Canada? For example, were there persons with authority to carry on some part of the non-resident's moneymaking activities present at the particular place in Canada? (See *Tara Exploration and Development Company Ltd* *v*. *MNR*, 70 DTC 6370.);
+
+- **Functions**. Is the location in Canada a place where the non-resident is performing the most important functions of its business? (See paragraph 4.5 of the OECD Commentary on Article 5.)
+
+## Other Examples
+
+- **Actual use of the location**. What is the actual use made by the non-resident of a location in Canada that is alleged to be his fixed place of business? (See *The Queen v. William A. Dudney,* 2000 DTC 6169.);
+
+- **Legal control**. By what legal right the non-resident exercised or could exercise control over the location in Canada? (See *The Queen v. William A. Dudney*, 2000 DTC 6169.); or
+
+- **Degree of identification**. To which degree the location in Canada is objectively identified with the non-resident's business? (See *The Queen v. William A. Dudney*, 2000 DTC 6169.)
+
+Different factors could be relevant in different cases. Not all the factors would necessarily be applicable in all cases. The discussion above is only intended to provide some examples of factors that could be considered.
+
+**Footnotes**
+
+1 *Capital Gains Strips: A Revenue Canada Perspective On the Provisions of Section 55*, presented by J.R. Robertson at the 1981 annual conference of the Canadian Tax Foundation; *Section 55: A Review of Current Issues*, presented by Robert J.L. Read at the 1988 annual conference of the Canadian Tax Foundation and *Income Earned or Realized: Some Reflections*, presented by Michael Hiltz at the 1991 annual conference of the Canadian Tax Foundation.
+
+2 *Gladden Estate v. The Queen*, 85 DTC 5188 (FCTD), *Crown Forest Industries Limited v. The Queen,* [1995] 2 SCR 802 and the Vienna Convention on the Law of Treaties).

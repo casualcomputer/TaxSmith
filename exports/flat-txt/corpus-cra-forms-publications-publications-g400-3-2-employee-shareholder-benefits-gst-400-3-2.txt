@@ -1,0 +1,381 @@
+Title: Employee and Shareholder Benefits (GST 400-3-2)
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/g400-3-2/employee-shareholder-benefits-gst-400-3-2.html
+Corpus path: corpus/cra/forms-publications/publications/g400-3-2/employee-shareholder-benefits-gst-400-3-2.md
+Document type: publication
+Last modified: 2017-11-07
+
+# Employee and Shareholder Benefits (GST 400-3-2)
+
+**Notice to the reader:**
+
+Please note that the following GST Memorandum, although correct at the time of issue, has not been updated to reflect any subsequent legislative changes since the date of issue. As a result, some of the technical information this memorandum contains may no longer be valid. Please contact your GST/HST Rulings Centre for assistance.
+
+GST memoranda 400-3-2
+
+**INPUT TAX CREDITS SPECIAL CASES EMPLOYEE AND SHAREHOLDER BENEFITS Ottawa, February 19, 1992**
+
+This memorandum does not replace the law found in the *Excise Tax Act* and its Regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation or contact any Revenue Canada Excise/GST office for additional information.
+
+This memorandum may reflect amendments proposed to the *Excise Tax Act* by Notices of Ways and Means Motion tabled on December 18, 1990, March 27, 1991, and November 5, 1991. The federal government announced its intention to introduce certain amendments to the *Excise Tax Act* to effect these changes which were outlined by the Minister of Finance in press releases on the mentioned dates. [Where proposed changes affect information contained in this memorandum, the information is enclosed in square brackets.] At the time of publication, Parliament has not enacted these proposed amendments. Any commentary in this memorandum should not be taken as a statement by the Department that such amendments will in fact be enacted into law in their current form. Any questions regarding the interpretation of the *Income Tax Act* should be directed to your nearest Revenue Canada, Taxation office.
+
+This memorandum explains the Goods and Services Tax (GST) treatment and input tax credit (ITC) eligibility of taxable employee and shareholder benefits.
+
+The following memorandum provides detailed information on the GST treatment and ITC eligibility of taxable automobile benefits:
+
+GST 400-3-2-1 Automobile Benefits
+
+**LEGISLATIVE AND OTHER REFERENCES**
+
+*Excise Tax Act* - sections 154, 169, 170, 173, subsection 123(1)
+
+*Income Tax Act* - sections 5, 6, 15, subsection 248(1)
+
+Notice of Ways and Means Motion tabled on March 27, 1991
+
+TABLE OF CONTENTS
+
+Definitions and Interpretations. . . . . . . . . . . . . . 3 General. . . . . . . . . . . . . . . . . . . . . . . . . . 7 Employee and Shareholder Benefits. . . . . . . . . . . . . 8 GST Deemed Collected. . . . . . . . . . . . . . . . . 9 Time Consideration Due. . . . . . . . . . . . . . . . 9 Non-registrants . . . . . . . . . . . . . . . . . . .10 Small Suppliers . . . . . . . . . . . . . . . . . . .10 GST Treatment of Employee and Shareholder Benefits . . . .11 Restrictions . . . . . . . . . . . . . . . . . . . .11 Taxable Benefits Subject to the GST. . . . . . . . . . . .13 Aircraft. . . . . . . . . . . . . . . . . . . . . . .13 Passenger Vehicles. . . . . . . . . . . . . . . . . .14 Board and Lodging . . . . . . . . . . . . . . . . . .14 Remote Work Sites . . . . . . . . . . . . . . . . . .15 Rent-free and Low-rent Housing. . . . . . . . . . . .15 Travel Benefits . . . . . . . . . . . . . . . . . . .15 Gifts . . . . . . . . . . . . . . . . . . . . . . . .15 Holiday Trips . . . . . . . . . . . . . . . . . . . .16 Prizes and Incentive Awards . . . . . . . . . . . . .16 Frequent Flyer Program. . . . . . . . . . . . . . . .17 Travelling Expenses of Employee's Spouse. . . . . . .17 Tuition Fees. . . . . . . . . . . . . . . . . . . . .17 Cost of Tools - Reimbursement . . . . . . . . . . . .17 Transportation Passes . . . . . . . . . . . . . . . .17 Discounts on Employer's Merchandise . . . . . . . . .18 Subsidized Meals. . . . . . . . . . . . . . . . . . .18 Reimbursements. . . . . . . . . . . . . . . . . . . .19 Income Tax Consequences. . . . . . . . . . . . . . . . . .19 Subsection 6(7) . . . . . . . . . . . . . . . . . . .19 New Paragraph 6(1)(e.1) . . . . . . . . . . . . . . .20 Subsection 15(1.3). . . . . . . . . . . . . . . . . .20 Subsection 15(1.4). . . . . . . . . . . . . . . . . .20
+
+**DEFINITIONS AND INTERPRETATIONS**
+
+The following are either definitions which have been taken from the *Excise Tax Act* as amended by S.C. 1990, c. 45 (Bill C-62) or departmental interpretations of terms relevant to the administration of that Act.
+
+"**Act**" means the *Excise Tax Act;*
+
+"**amount**" means money, property or a service, expressed in terms of the amount of money or the value in terms of money of the property or service;
+
+"**automobile**", as defined by the *Income Tax Act*, means
+
+(a) a motor vehicle that is designed or adapted primarily to carry individuals on highways and streets and that has a seating capacity for not more than the driver and 8 passengers,
+
+but does not include
+
+(b) an ambulance,
+
+(c) a motor vehicle acquired primarily for use as a taxi, a bus used in a business of transporting passengers or a hearse used in the course of a business of arranging or managing funerals,
+
+(d) except for the purposes of section 6 of the Income Tax Act, a motor vehicle acquired to be sold, rented or leased in the course of carrying on a business of selling, renting or leasing motor vehicles or a motor vehicle used for the purpose of transporting passengers in the course of carrying on a business of arranging or managing funerals, and
+
+(e) a motor vehicle of a type commonly called a van or pick- up truck or a similar vehicle
+
+(i) that has a seating capacity for not more than the driver and 2 passengers and that, in the taxation year in which it is acquired, is used primarily for the transportation of goods or equipment in the course of gaining or producing income, or
+
+(ii) the use of which, in the taxation year in which it is acquired, is all or substantially all for the transportation of goods, equipment or passengers in the course of gaining or producing income;
+
+"**commercial activity**" means
+
+(a) any business carried on by a person,
+
+(b) any adventure or concern of a person in the nature of trade, and
+
+(c) any activity engaged in by a person that involves the supply of real property or of a right or interest in respect of real property by that person,
+
+but does not include
+
+(d) any activity engaged in by a person to the extent that it involves the making of an exempt supply by the person,
+
+(e) any activity engaged in by an individual without a reasonable expectation of profit, or
+
+(f) the performance of any duty or activity in relation to an office or employment;
+
+"**consideration**" may be money, a thing, a service, forbearance in the exercise of a right or anything else which induces the supplier to make the supply. Where consideration is monetary, the amount of the money will be used to calculate the tax. Where the consideration is non-monetary, the fair market value of the consideration at the time the supply was made will be used to calculate the tax;
+
+"**employee**", as defined in the *Income Tax Act,* includes an "officer";
+
+"**employer**", as defined in the *Income Tax Act*, in relation to an officer, means the person from whom the officer receives his remuneration;
+
+"**employment**", as defined in the *Income Tax Act*, means the position of an individual in the service of some other person (including Her Majesty or a foreign state or sovereign) and "servant" or "employee" means a person holding such a position;
+
+"**exclusive**", in respect of the consumption, use or supply of property or a service, means all or substantially all of the consumption, use or supply of the property or service, and "all or substantially all", in respect of the consumption, use or supply of property or a service by a financial institution, means all of the consumption, use or supply of the property or service;
+
+"**exempt supply**" means a supply included in Schedule V to the Act;
+
+"**individual**" means a natural person; (version anglaise seulement)
+
+"**input tax credit**" means a credit claimable by a registrant for the Goods and Services Tax paid or payable by the registrant in respect of the acquisition or importation of any property or service for consumption, use or supply in the course of commercial activities of the registrant;
+
+"**officer**" includes
+
+(a) a member of the board of directors, board of management or other governing board of a corporation, society, union, club, association, organization or any other body of any kind whatever,
+
+(b) a judicial officer or a member of a judicial, quasi- judicial or administrative board, tribunal or body,
+
+(c) a Minister of the Crown in right of Canada or a province,
+
+(d) a member of the Senate or House of Commons of Canada,
+
+(e) a member of a legislature of a province, and
+
+(f) the incumbent of any other office who is elected or appointed to act as a representative of a group of persons;
+
+"**passenger vehicle**" has the same meaning assigned by subsection 248(1) of the *Income Tax Act*. Subsection 248(1) of the Income Tax Act states that a "passenger vehicle" means an automobile acquired after June 17, 1987, (other than an automobile acquired after that date pursuant to an obligation in writing entered into before June 18, 1987) and an automobile leased under a lease entered into, extended or renewed after June 17, 1987;
+
+"**property**" means any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money;
+
+"**registrant**" means a person who is registered under section 241 or who is required to apply to be registered under section 240 of the Act;
+
+"**reporting period**" of a person means the reporting period of the person as determined under sections 245 to 251 of the Act;
+
+"**service**" means anything other than
+
+(a) property,
+
+(b) money, and
+
+(c) anything that is supplied to an employer by a person who is or agrees to become an officer or employee of the employer in the course of or in relation to the office or employment of that person;
+
+"**shareholder**", as defined in the *Income Tax Act,* includes a member or other person entitled to receive payment of a dividend;
+
+"**small supplier**", at any time, means a person who is at that time a small supplier under section 148 of the Act;
+
+"**supply**" means, subject to sections 133 and 134 of the Act, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition;
+
+"**taxable supply**" means a supply that is made in the course of a commercial activity, but does not include an exempt supply;
+
+"**zero-rated supply**" means a supply included in Schedule VI to the Act.
+
+**GENERAL**
+
+1. An ITC may be claimed by a registrant for the GST paid or payable on property or a service acquired or imported for consumption, use or supply in the registrant's commercial activities. Section 169 of the Act governs the claiming of an ITC which, depending on the circumstances, may be full or apportioned.
+
+2. Subsection 169(1) of the Act provides that, subject to Part IX of the Act, a registrant is eligible to claim a full ITC (100 per cent of GST payable) where property or a service is acquired or imported **exclusively** for consumption, use or supply in the registrant's commercial activities.
+
+3. More information on full ITCs is available in GST MEMORANDUM 400-1-1, **FULL INPUT TAX CREDITS**.
+
+4. Subsection 169(2) of the Act provides for an apportioned ITC when property or a service is acquired or imported by a registrant for consumption, use or supply (in this subsection referred to as "intended use") partly in the registrant's commercial activities. The registrant may be eligible to claim an apportioned ITC for part of the GST paid or payable based on the intended use of the acquired or imported property or service.
+
+5. More information on apportioned ITCs is available in GST MEMORANDUM 400-1-3, **APPORTIONED INPUT TAX CREDITS.**
+
+6. Although salaries, wages, commissions and other remuneration, including gratuities paid to employees, are not subject to the GST, non-monetary means of compensating employees (commonly referred to as fringe benefits) and non-monetary means of compensating shareholders may be subject to the GST.
+
+7. For the most part, the GST treatment of employee and shareholder benefits is linked to the treatment of taxable benefits under the *Income Tax Act*. No GST is payable where the goods and services generating the benefit amount are in respect of exempt or zero-rated supplies.
+
+8. The Act and the *Income Tax Act* interact closely for the calculation of both the GST and ITCs. The Act makes extensive reference to the *Income Tax Act;* while the *Income Tax Act* has been amended to accommodate the GST and the various provisions of the Act.
+
+9. Special rules apply to claims for ITCs on certain employee and shareholder benefits, for example, gifts and subsidized meals. The purpose of this memorandum is to explain the interaction of the *Income Tax Act* and the GST legislation on these particular benefits that are available to employees and shareholders; in particular, emphasis is placed on GST liability and ITC entitlement. For information on automobile benefits, refer to GST MEMORANDUM 400-3-2-1, **AUTOMOBILE BENEFITS**.
+
+**EMPLOYEE AND SHAREHOLDER BENEFITS**
+
+10. Pursuant to subsection 173(1) of the Act, where, at any time, a registrant makes available to a person property or a service (other than property or a service in respect of which the registrant is, by reason of subsection 170(1) or 170(2) of the Act, not entitled to claim an ITC), and an amount (in this subsection referred to as a "benefit amount") in respect of the property or service is required by paragraph 6(1)(a) or (e) or subsection 15(1) of the *Income Tax Act* to be included in computing the person's income for a taxation year of the person, the registrant shall be deemed to have made a supply of property or service for consideration equal to the amount by which the benefit amount exceeds the amount, if any, included in the benefit amount that may reasonably be attributed to tax imposed under an Act of the legislature of a province that is a prescribed tax for the purposes of section 154 of the Act.
+
+11. Section 173 of the Act applies only to employee and shareholder benefits that are required to be included in an individual's income by reason of paragraph 6(1)(a) or (e) or subsection 15(1) of the *Income Tax Act*, which are in respect of taxable supplies (other than zero-rated supplies). Amounts which are required to be included in an individual's income, other than by reason of paragraph 6(1)(a) or (e) or subsection 15(1) of the *Income Tax Act*, are not subject to the provisions under section 173 of the Act. For example, taxable allowances which are required to be included in the individual's income by reason of paragraph 6(1)(b) of the *Income Tax Act* are not subject to the GST.
+
+12. Where an employee or shareholder benefit is required to be included in income by reason of paragraph 6(1)(a) or (e) or subsection 15(1) of the *Income Tax Act* and where the benefit amount is in respect of property or a service that is an exempt (e.g., provincial hospital premiums, medical care plans, interest free and low interest loans) or zero-rated supply (e.g., basic groceries), there are no GST consequences. In addition, where the property or service received by an individual outside Canada gives rise to a taxable benefit, this benefit amount will not be subject to the GST.
+
+**GST Deemed Collected**
+
+13. The registrant is deemed, except where the benefit amount is in respect of an exempt or zero-rated supply or where the registrant was denied an ITC by reason of section 170 of the Act, to have collected the GST in respect of the benefit amount. There is no liability under the Act for the individual to pay the GST to the registrant providing the benefit. Rather, an amount equal to the GST will be included in the individual's income under paragraph 6(1)(e.1) of the *Income Tax Act* for income tax purposes.
+
+**Time Consideration Due**
+
+14. The consideration for **employee** taxable benefits is deemed to become due to the registrant on the last day of February of the year immediately following the calendar year in which the benefit was conferred. This timing coincides with the time at which employers must prepare T-4 slips for their employees. For example, the GST on a taxable benefit received by an employee in the 1991 calendar year is deemed to become due to the registrant on February 29, 1992.
+
+15. The registrant is required to remit the GST in respect of the **employee's** taxable benefit in the reporting period following the period in which the consideration became due. For example, a registrant who remits monthly would remit the GST on the employee's taxable benefits conferred in the 1991 taxation year in March 1992.
+
+16. The consideration for **shareholder** taxable benefits is deemed to become due to the registrant on the last day of the registrant's taxation year in which the benefit was made available to the shareholder. For example, where the corporation's taxation year ends on June 30, 1991, the GST on a taxable benefit received by a shareholder in the 1991 taxation year is deemed to become due to the registrant on June 30, 1991.
+
+17. The registrant is required to remit the GST in respect of the **shareholder's** taxable benefit in the reporting period following the period in which the consideration became due. For example, a registrant who remits monthly would remit the GST on the shareholder's taxable benefits conferred in the registrant's 1991 taxation year ending June 30, 1991, in July 1991.
+
+**Non-registrants**
+
+18. Non-registrants are not deemed as having made a supply for consideration when they provide taxable benefits. As a result, they are not required to remit GST on taxable benefits provided for GST purposes.
+
+**Small Suppliers**
+
+19. [Pursuant to the Notice of Ways and Means Motion tabled on March 27, 1991, supplies of taxable benefits will not be included in determining whether a person is a small supplier or otherwise required to register for purposes of the GST. This amendment will be effective as of January 1, 1991.]
+
+**GST TREATMENT OF EMPLOYEE AND SHAREHOLDER BENEFITS**
+
+20. [Pursuant to the Notice of Ways and Means Motion tabled on March 27, 1991, when a registrant makes available at any time to an employee or shareholder property or a service and an amount in respect of the property or service is required to be included by reason of paragraph 6(1)(a) or (e) or subsection 15(1) of the *Income Tax Act*, and the supply of the benefit is in respect of a taxable supply, the supply of the benefit is considered to be part of the registrant's commercial activities and the registrant is considered to have collected the GST in respect of the supply.]
+
+21. For the purposes of determining whether a registrant is entitled to claim an ITC in respect of the GST paid on the acquisition of property or a service, which is supplied to an individual as a taxable benefit that is required to be included in income by reason of paragraph 6(1)(a) or (e) or subsection 15(1) of the *Income Tax Act,* and for the purposes of determining whether there has been a change in use, the portion of the total intended use of the property or service which gives rise to a taxable benefit is considered to be used in the registrant's commercial activities. For example, a registrant leases a passenger vehicle to be used 70 per cent in making taxable supplies and 30 per cent for an employee's personal use. The total use of the leased vehicle in commercial activities would be equal to 100 per cent (70 per cent plus 30 per cent).
+
+**Restrictions**
+
+22. When the registrant is not entitled to an ITC by reason of subsection 170(1) or (2) of the Act, the benefit amount, if any, required to be included in the income of the individual by reason of paragraph 6(1)(a) or (e) or subsection 15(1) of the *Income Tax Act*, is not subject to the GST under section 173 of the Act.
+
+23. Section 170 of the Act sets out the restrictions on the ITCs that may be claimed by a registrant in respect of the GST payable by the registrant for the acquisition or importation of property and/or service for the significant personal consumption of the registrant, an employee or relative of the registrant, a shareholder, or other officers.
+
+24. Pursuant to section 170 of the Act, a registrant may not claim ITCs for the GST payable for
+
+(a) a supply of a membership in a club the main purpose of which is to provide dining, recreational or sporting facilities;
+
+(b) a supply or an importation of property or a service that is acquired or imported by a registrant at any time in or before a reporting period of the registrant exclusively for the personal consumption, use or enjoyment in that period of a particular individual who was, is or agrees to become an officer or employee of the registrant, or of an another individual related to the particular individual, except where
+
+(i) the registrant makes a taxable supply of the property or service to the particular individual or the other individual for consideration that becomes due in that period and that is equal to the fair market value of the property or service at the time the consideration becomes due, or
+
+(ii) if no amount were payable by the particular individual for the benefit, no amount would be included under section 6 of the *Income Tax Act* in respect of the benefit in computing the income of the particular individual for the purposes of the *Income Tax Act;* and
+
+(c) a supply made in or before a reporting period of the registrant of property by way of lease, licence or similar arrangement, primarily for the personal consumption, use or enjoyment in that period of
+
+(i) where the registrant is an **individual**, the registrant or another individual related to the registrant,
+
+(ii) where the registrant is a **partnership**, an individual who is a member of the partnership or another individual who is an employee, officer or shareholder of, or related to, a member of the partnership,
+
+(iii) where the registrant is a **corporation,** an individual who is a shareholder of the corporation or another individual related to the shareholder, and
+
+(iv) where the registrant is a **trust,** an individual who is a beneficiary of the trust or another individual related to the beneficiary,
+
+except where the registrant makes a taxable supply of the property in that period to such an individual for consideration that becomes due in that period and that is equal to the fair market value of the supply at the time the consideration becomes due.
+
+25. Subsection 170(2) of the Act provides that a registrant may not claim ITCs in respect of the particular supply except to the extent that both the nature of the supply and the consideration therefor are reasonable in the circumstances having regard to the registrant's commercial activities.
+
+26. Detailed information on ITC limitations is available in GST MEMORANDUM 400-2, **RESTRICTIONS - GENERAL.**
+
+**TAXABLE BENEFITS SUBJECT TO THE GST**
+
+27. The following paragraphs discuss various common types of benefits which are required to be included in an individual's income by reason of paragraph 6(1)(a) or (e) or subsection 15(1) of the *Income Tax Act* and which are also taxable under the GST, and where the registrant was not denied an ITC by reason of section 170 of the Act.
+
+**Aircraft**
+
+28. Where a registrant provides an aircraft, either owned or leased, for personal use by an employee or shareholder, at less than reasonable charge and the employee or shareholder is considered to have derived a benefit pursuant to paragraph 6(1)(a) or subsection 15(1) of the Income Tax Act, this benefit amount is subject to the GST under section 173 of the Act.
+
+29. The Act provides several exemptions where the GST does not apply to the benefit of having a registrant-provided aircraft made available to an individual by virtue of the person's employment or their position as a shareholder that is included in income by reason of paragraph 6(1)(a) or 15(1) of the *Income Tax Act* respectively where:
+
+(a) the aircraft is purchased by an individual or a partnership and the property is not used exclusively in commercial activities,
+
+(b) the aircraft is purchased by a registrant other than an individual, partnership or financial institution and is not used primarily in commercial activities,
+
+(c) an election is made by a registrant to have the aircraft deemed to be used exclusively in non- commercial activities, or
+
+(d) the registrant was denied an input tax credit by reason of section 170 of the Act.
+
+**Passenger Vehicles**
+
+30. One of the most common types of employee benefits subject to the GST is the use of an employer-owned or employer-leased automobile. Full information on the treatment of passenger vehicles is contained in GST MEMORANDUM 400-3-2-1, **AUTOMOBILE BENEFITS.**
+
+**Board and Lodging**
+
+31. Paragraph 6(1)(a) of the *Income Tax Act* specifically refers to board and lodging as a benefit derived from employment. This includes board and lodging regularly furnished as a requirement of the employment, as is common for hotel employees and domestic farm help. For income tax purposes, the value placed on this benefit should approximate its fair market value. Where the supply of the subsidized board and lodging is taxable for GST purposes (e.g., temporary hotel accommodation), the benefit amount is subject to the GST under section 173 of the Act. The amount of the benefit subject to the GST will be reduced by any amounts that the individual is charged for accommodation. It is to be noted that the supply of some residential accommodation is exempt. GST MEMORANDUM 300-4-1, **REAL PROPERTY**, provides detailed information on the exempt supply of residential accommodation.
+
+**Remote Work Sites**
+
+32. Paragraph 6(1)(a) of the *Income Tax Act* provides for an exception to the benefit in respect of board and lodging for an employee whose duties are performed at a special work-site. Where subsection 6(6) of the *Income Tax Act* excludes from employment income the benefits of board and lodging, this benefit amount is not subject to the GST.
+
+**Rent-free and Low-rent Housing**
+
+33. Where a registrant provides a house, apartment or similar accommodation to an employee rent-free or for a lower rent than the employee would have to pay someone, the benefit is taxable for income tax purposes. The benefit amount is not subject to the GST since the accommodation is in respect of an exempt supply (e.g., residential rents). However, where the accommodation is in respect of a taxable supply (e.g., temporary hotel accommodation), the benefit amount is subject to the GST under section 173 of the Act.
+
+**Travel Benefits**
+
+34. Where an amount received, or the value of a benefit received or enjoyed, by virtue of employment in respect of travelling expenses for supplies which are taxable (other than zero-rated supplies) incurred by an employee, the employee's family or both, and where the taxable benefit is required to be included in income by reason of paragraph 6(1)(a) of the *Income Tax Act,* this amount is subject to the GST under section 173 of the Act.
+
+**Gifts**
+
+Under $100
+
+35. Where a registrant provides an employee with a non-cash gift (other than an exempt or zero-rated supply) that is not required to be included in the employee's income for income tax purposes, there is no benefit for GST purposes. Pursuant to subparagraph 170(1)(b)(ii) of the Act, a registrant is entitled to claim an ITC in respect of the GST paid or payable in respect of the gift where no amount was payable by the individual receiving the benefit and where no amount is required to be included in the individual's income under section 6 of the *Income Tax Act.* For example, where a registrant pays the GST on the purchase of a gift under $100 for the particular benefit of an employee, the registrant is entitled to claim a full ITC for the GST paid. In addition, where the property or service received by an individual outside Canada gives rise to a taxable benefit, this benefit amount will not be subject to the GST.
+
+**Over $100**
+
+36. Where a registrant provides an employee with a non-cash gift that is required to be included in the employee's income for income tax purposes by reason of paragraph 6(1)(a) of the *Income Tax Act,* the registrant is not entitled to claim an ITC by reason of section 170 of the Act, and no amount in respect of the benefit is subject to the GST. However, where section 170 of the Act does not apply and where the registrant claims an ITC for a gift, which gives rise to a benefit amount, this benefit amount is subject to the GST. In addition, where the property or service received by an individual outside Canada gives rise to a taxable benefit, this benefit amount will not be subject to the GST.
+
+**Holiday Trips**
+
+37. Where an employer pays for a vacation for an employee, the employee's family or both, and where the cost thereof to the employer constitutes a taxable benefit to the employee under paragraph 6(1)(a) of the *Income Tax Act*, this benefit amount is subject to the GST under section 173 of the Act where the goods and services giving rise to this benefit amount are subject to the GST.
+
+38. Similarly, where a vacation property owned by an employer is used for vacation purposes by an employee, the employee's family or both, and where there is a taxable benefit under paragraph 6(1)(a) of the *Income Tax Act*, this benefit amount is subject to the GST under section 173 of the Act where the goods and services giving rise to this benefit amount are subject to the GST.
+
+**Prizes and Incentive Awards**
+
+39. Where an employee receives a prize or other award related to sales or other work performance from an employer, and the fair market value of such an incentive is regarded as a taxable benefit under paragraph 6(1)(a) of the *Income Tax Act,* and where that award is in respect of a GST taxable supply (other than a zero-rated supply), this amount is subject to the GST under section 173 of the Act.
+
+**Frequent Flyer Program**
+
+40. Where an employee accumulates credits from an airline which may be exchanged for additional travel or other benefits on employer-paid business trips and uses them to obtain GST taxable travel or other taxable supplies (other than zero-rated supplies) for the personal use of the employee, the benefit is subject to the GST under section 173 of the Act.
+
+**Travelling Expenses of Employee's Spouse**
+
+41. Where a spouse accompanies an employee on a business trip, and the payment or reimbursement by the employer of the spouse's travelling expenses is a taxable benefit under the *Income Tax Act,* this benefit amount is subject to the GST under section 173 of the Act where the goods and services giving rise to this benefit amount are subject to the GST.
+
+**Tuition Fees**
+
+42. Where tuition fees paid for, or on behalf of, an employee are in respect of a GST taxable supply and where that amount of the benefit is required to be included in the employee's income by reason of paragraph 6(1)(a) of the *Income Tax Act,* the benefit amount is subject to the GST under section 173 of the Act.
+
+**Cost of Tools - Reimbursement**
+
+43. If a benefit arises under paragraph 6(1)(a) of the *Income Tax Act* where an employer reimburses its employees to offset the cost of tools that the employees are required to have to perform their work, the benefit amount is subject to the GST under section 173 of the Act.
+
+**Transportation Passes**
+
+44. When an airline employee receives a taxable benefit arising from the use of an airline pass, which must be included in computing income, the registrant is deemed to have made a supply. When the transportation pass is for a taxable supply (e.g., travel originating and terminating within the taxation area as defined in Part VII of Schedule VI to the Act), the benefit is subject to the GST under section 173 of the Act.
+
+45. Where employees of bus and rail companies are not taxed for the use of passes for income tax purposes, there are no GST consequences.
+
+46. Where retired employees of transportation companies are not taxed on the use of transportation passes for income tax purposes, there is no benefit amount for GST purposes.
+
+**Discounts on Employer's Merchandise**
+
+47. When an employer sells merchandise to employees at a discount, the benefits that an employee may derive from this privilege are not normally regarded as taxable benefits. However, a taxable benefit arises where
+
+(a) there is an extraordinary arrangement with a particular employee or a select group of employees,
+
+(b) there is an arrangement by which an employee is allowed to buy merchandise (other than old or soiled merchandise) for less than the employer's cost, or
+
+(c) there is a reciprocal arrangement between two or more employers where the employees of one can exercise such a privilege with another by whom the employees are not employed.
+
+48. When the employee receives a discount on taxable merchandise, which must be included in computing income, the registrant is deemed to have made a taxable supply to the employee. As a result, the taxable benefit is subject to the GST.
+
+**Subsidized Meals**
+
+49. If an employee receives a subsidized meal and pays less than a reasonable charge (a reasonable charge is generally defined as one that covers the cost of food, its preparation and service), which gives rise to a taxable benefit under paragraph 6(1)(a) of the *Income Tax Act,* the benefit is subject to the GST. The value of the benefit subject to the GST is that cost less the amount paid by the employee.
+
+50. **REVENUE CANADA, TAXATION INTERPRETATION BULLETIN IT-470R EMPLOYEE FRINGE BENEFITS** provides additional information on the income tax treatment of employee benefits.
+
+**Reimbursements**
+
+51. Where an individual reimburses a registrant in respect of a taxable supply of a benefit, the reimbursement is deemed as consideration in respect of the taxable supply of the benefit amount and is subject to the GST. Accordingly, the reimbursed amount is deemed to include an amount of GST equal to 7/107ths of the reimbursed amount. The registrant is required to remit, for that reporting period, that amount of GST in respect of the reimbursement.
+
+52. The withholding of an amount of an individual's income to reimburse a registrant for the personal use of an automobile constitutes a reimbursement and is deemed to include an amount of GST equal to 7/107ths of the amount. The registrant is required to remit, for that reporting period, that amount of GST in respect of the withheld amount.
+
+**INCOME TAX CONSEQUENCES**
+
+53. The Department of Finance announced on January 24, 1992, that in computing the GST component of taxable benefits, the amount of any reimbursement by the employee or shareholder to the employer or corporation is not to be taken into account. This amendment as indicated in the draft amendments to the *Income Tax Act* issued on December 20, 1991, is to be effective only in 1992.
+
+54. The introduction of the GST legislation brought several consequential amendments to the *Income Tax Act,* which are as follows.
+
+**Subsection 6(7)**
+
+55. New subsection 6(7) has been added to the *Income Tax Act.* This provision provides that, where an amount of the benefit is required under paragraph 6(1)(a) or (e) of the *Income Tax Act* to be included in computing the income of an individual from an office or employment, the cost of the property or services for the purposes of those paragraphs is determined without reference to the GST payable by that person in respect of the property or service.
+
+**New Paragraph 6(1)(e.1)**
+
+56. Pursuant to new paragraph 6(1)(e.1) of the *Income Tax Act,* where the property or service is a GST taxable supply, an additional amount equal to 7 per cent of the value of the taxable benefit, net of any amount that may reasonably be attributed to a tax imposed under an Act of the legislature of a province that is prescribed for the purposes of section 154 of the Act, is to be included in the computation of the employee's income.
+
+57. This treatment does not apply to a zero-rated or exempt supply within the meanings assigned by Part IX of the Act. In addition, where the property or service received by an individual outside Canada gives rise to a taxable benefit, this benefit amount will not be subject to the GST.
+
+**Subsection 15(1.3)**
+
+58. For the purposes of determining the value of any benefit required by subsection 15(1) of the *Income Tax Act* to be included in computing the shareholder's income for a year, to the extent that the benefit is determined by reference to the cost to a corporation of a property or a service, the cost is to be determined without reference to any GST payable by the corporation in respect of the property or service.
+
+**Subsection 15(1.4)**
+
+59. Where subsection 15(1) of the *Income Tax Act* requires the amount or value of the benefit to be included in computing the income of a shareholder in respect of a supply (other than a zero-rated or exempt supply) of a property or service that is taxable under the GST, the taxpayer must also include an amount equal to 7 per cent of the amount or value of the benefit which is required by subsection 15(1) of the *Income Tax Act* to be included in computing the taxpayer's income net of any provincial tax, such as provincial sales tax, prescribed under section 154 of the Act. In addition, where the property or service received by an individual outside Canada gives rise to a taxable benefit, this benefit amount will not be subject to the GST.
+
+60. [Pursuant to the Notice of Ways and Means Motion tabled on March 27, 1991, sections 6 and 15 of the *Income Tax Act* will be amended to provide that where an amount in respect of a supply of a property or service (a taxable benefit), which is not a zero- rated or exempt supply, is required to be included in a taxpayer's income under paragraph 6(1)(a) or (e), or section 15, an amount for tax must in all cases be included in the taxpayer's income. This amendment will be effective beginning in the 1991 taxation year.]
+
+61. Any questions regarding the interpretation of the *Income Tax Act* should be directed to your nearest Revenue Canada, Taxation office.
+
+. **REFERENCES OFFICE OF RESPONSIBILITY:**
+
+Policy and Legislation
+
+**LEGISLATIVE REFERENCES:**
+
+*Excise Tax Act*
+
+HEADQUARTERS FILE:
+
+N/A
+
+**SUPERSEDES GST MEMORANDUM:**
+
+N/A
+
+**OTHER REFERENCES:**
+
+Revenue Canada Taxation Interpretation Bulletin IT-470R EMPLOYEE FRINGE BENEFITS Department of Finance Press Release issued on January 24, 1992
+
+SERVICES PROVIDED BY THE DEPARTMENT ARE AVAILABLE IN BOTH OFFICIAL LANGUAGES.
+
+THIS MEMORANDUM IS ISSUED BY TECHNICAL INFORMATION, EXCISE/GST BRANCH UNDER THE AUTHORITY OF THE DEPUTY MINISTER OF NATIONAL REVENUE, CUSTOMS AND EXCISE.

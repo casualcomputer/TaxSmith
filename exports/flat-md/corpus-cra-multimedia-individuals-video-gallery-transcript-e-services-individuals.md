@@ -1,0 +1,25 @@
+---
+title: "E-services for Individuals"
+gallery_title: "E-services for Individuals"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/individuals-video-gallery/transcript-e-services-individuals.html
+video_source: /content/dam/cra-arc/migration/cra-arc/vc/ndvdls/srvcsndvdls-eng.webm
+last_modified: 2018-01-25
+---
+
+# E-services for Individuals
+
+## Transcript
+Welcome to The Canada Revenue Agency's E-services for Individuals.
+"Why manage your tax affairs during your hectic business hours?"
+Take advantage of the CRA's e-services for individuals, and take care of your tax affairs at *your* convenience.
+Here you can:
+- file;
+- get and manage your personal information;
+- or get refunds or make payments.
+Try My Account.
+- where you can track your refund;
+- view or change your return;
+- check your benefit and credit payments;
+- and so much more.
+Or try My Payment, a fast and secure online service that lets you pay your taxes using Interac® Online.
+To learn more about these e-services and many more, go to: [www.cra.gc.ca/electronicservices](https://www.canada.ca/en/revenue-agency/services/e-services.html).

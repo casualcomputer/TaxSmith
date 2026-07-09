@@ -1,0 +1,54 @@
+---
+title: "ARCHIVED - Payments based on production or use"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it462/archived-payments-based-on-production-use.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Payments based on production or use
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-462**
+
+DATE: OCTOBER 27, 1980
+
+SUBJECT: INCOME TAX ACT**Payments based on production or use**
+
+REFERENCE: Paragraph 12(1)(g)
+
+1. This bulletin outlines the Department's interpretation of paragraph 12(1)(g) in circumstances where a taxpayer has sold property and the selling price is based on the production or use of the property.
+
+2. Subject to the remarks in 8 and 9 below, paragraph 12(1)(g) applies to any amount received that is dependent on the production from or use of property, whether or not the amount is an instalment of the sale price of the property. It does not apply to an instalment of the sale price of agricultural land (however, see 4 below). The fact that a vendor of a property is required to include the amount received as income under paragraph 12(1)(g) does not necessarily mean that the purchaser can deduct his payments in computing his income. In ordinary circumstances, the purchaser's payments constitute his cost of capital property.
+
+3. In the situation where paragraph 12(1)(a) or 12(1)(b) can be applied in addition to paragraph 12(1)(g), the Department will normally apply only paragraph 12(1)(a) or (b) to include receipts from the sale of trading property in income and will not normally apply paragraph 12(1)(g), as double taxation is not intended.
+
+4. The exception made in paragraph 12(1)(g) in respect of agricultural land does not include assets associated with the land, such as buildings, machinery, livestock and crops. When an agreement based on production or use includes the sale of such assets with the land, a reasonable portion of the production or use payment that relates to such assets is included in computing income under paragraph 12(1)(g). Furthermore, this exception does not apply when mineral and petroleum rights of agricultural land, or land itself in addition to these rights, is either sold or leased and payments made to a vendor or lessor are based on production of a mine, or of an oil or gas well. The Department considers that such a method of payment is prima facie evidence that the consideration is in respect of the sale of mineral or petroleum rights.
+
+5. When paragraph 12(1)(g) requires proceeds of dispositions of property to be included wholly or partly as income, subject to 3 above, the following rules apply when calculating what is income and what is on account of capital:
+
+(a) Where the payments under the agreement for sale are all based on production or use, all amounts received by the taxpayer are brought into income under paragraph 12(1)(g).
+
+(b) Where the agreement for sale provides for payments based on production or use plus a fixed sum, the former are brought into income under paragraph 12(1)(g) and the latter is treated as proceeds of disposition.
+
+(c) Where the agreement for sale provides for a fixed sum, with an additional amount being payable in the event that production or use exceeds a stipulated figure, the fixed sum is treated as proceeds of disposition and the additional amount, if any, is brought into income under paragraph 12(1)(g).
+
+(d) Where the agreement for sale provides for payments based on production or use but also stipulates that there is to be a minimum sale price (or minimum annual payments), the payments based on production or use are brought into income under paragraph 12(1)(g) regardless of whether they are less than, or in excess of, the minimum. However any other payments which must be made to meet the minimum requirements are treated as proceeds of disposition.
+
+6. Unless the taxpayer can show that the terms of the agreement are similar to those that would be made in an arm's length transaction, the Department will employ the anti-avoidance sections of the Act to disallow losses that arise in non-arm's length transactions and that are not otherwise specifically disallowed under other provisions of the Act.
+
+7. Paragraph 12(1)(g) applies whether the sale price of the property depends on gross income or net income derived from the property, or depends on some other element based on production or use of the property.
+
+8. Where a contract calls for a fixed price which cannot be varied in any event, but the timing of instalments of that fixed price is to vary depending on production or use, paragraph 12(1)(g) does not apply since it is only the timing of payments which is dependent on production or use and not the price itself.
+
+9. Paragraph 12(1)(g) does not apply where the sale price of property is originally set at a maximum which is equivalent to the fair market value of the property at the time of the sale and which can be subsequently decreased if certain conditions related to production or use are not met in the future. In such a situation the proceeds will be on account of capital and if there is a reasonable expectation at the time of disposition of the property that the conditions will be met, then the disposition is treated in the ordinary manner, and the original maximum amount is considered to be the sale price of the property. If, subsequently, the conditions are not met then an appropriate adjustment will be made in the year in which the amount of the reduction in the sale price is known with certainty and will not vary in the future. Whether there is a reasonable expectation that conditions will be met is a question that is determined on the facts of the particular situation.
+
+10. If a maximum sale price is not stipulated or if it is stipulated but is not reasonable, paragraph 12(1)(g) applies to all payments in respect of the sale.
+
+11. IT-426, "Shares Sold Subject to an Earnout Agreement", will be considered appropriate only in the circumstances referred to therein.

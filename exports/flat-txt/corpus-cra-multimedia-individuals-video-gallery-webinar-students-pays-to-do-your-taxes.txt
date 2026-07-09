@@ -1,0 +1,282 @@
+Title: Webinar - Students, it pays to do your taxes!
+Source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/individuals-video-gallery/webinar-students-pays-to-do-your-taxes.html
+Corpus path: corpus/cra/multimedia/individuals-video-gallery/webinar-students-pays-to-do-your-taxes.md
+Document type: video_transcript
+Last modified: 2024-12-12
+
+# Webinar - Students, it pays to do your taxes!
+
+## Transcript
+### Slide 1 – Students, it pays to do your taxes!
+[James]: Hello, and welcome. My name is James.
+I have short black hair, I’m wearing a black sweater and collared shirt. I’m with the Canada Revenue Agency, or CRA for short. I’m very happy to be here today.
+Today, I’ll talk about the benefits of doing your taxes and what you need to get them done.
+[Visual]: Three individuals smiling at each other outside a school.
+### Slide 2 – Land acknowledgement
+[James]: I would like to begin by acknowledging that the land on which we gather is the unceded territory of the Haudenosaunee and Anishnaabeg.
+This territory is covered by the Upper Canada Treaties, is within the lands protected by the “Dish With One Spoon” wampum agreement and is directly adjacent to Haldimand Treaty territory. Brantford, in Ontario region, is situated on the Haldimand Tract, land promised to Six Nations, which includes six miles on each side of the Grand River.
+Since we are meeting virtually, I would also like to acknowledge the land that you are located on and take a moment of silence and respect.
+[Visual]: An eagle, narwhal and fiddle icon
+### Slide 3 – Outline
+[James]: Throughout this presentation, I will tell you about Sacha, an 18-year-old, in their last year of high school. I will take you through Sacha’s journey from starting their first job to doing their taxes for the first time. We will talk about:
+- taxes and why we pay them
+- what you need to know when starting your first job
+- the underground economy
+- what to expect when you do your taxes for the first time and what happens after
+- the GST/HST credit and other tax credits you may be eligible for
+- the Canada Revenue Agency’s online services, and
+- tips to protect yourself from scams
+For the rest of this presentation, I’ll refer to the Canada Revenue Agency as the CRA.
+[Visual]: An individual wearing glasses and holding a book smiles at someone using a computer.
+### Slide 4 – Why do we pay taxes?
+[James]: If you’re like Sacha, you might find taxes a bit intimidating at first. After today’s presentation, I hope you’ll feel more confident about taxes and see the benefits of filing.
+In Canada, we pay municipal, provincial or territorial, and federal taxes. Today, we’ll be focusing on federal income tax.
+Did you know that many public services, programs, and benefits are funded by taxes? The government collects tax to support essential services like airports, education, emergency services, health care, libraries, roads, and social programs.
+The tax we pay also puts money into the pockets of students, families, newcomers, seniors, and persons with disabilities. This money is distributed through benefit and credit payments.
+Taxes also fund social programs, such as income support and old age security, to assist members of our community.
+Now, let’s look at Sacha and their tax journey.
+[Visual]: Three individuals holding a book in their hands and a backpack on their shoulder smiling.
+### Slide 5 – Starting to work
+[James]: Summer’s over and Sacha is starting their last year of high school. Like many of you, they’re starting to think about their future. Sacha wants to get a job so they can save money for university and possibly buy a car.
+The burrito shop close to Sacha’s home was hiring for after school and weekend work. Sacha dropped off a resume, and lucky for them, they got the job!
+Little did they know that getting their first job was their first step in contributing to Canada’s tax system.
+[Visual]: An individual wearing glasses is in front of a computer.
+### Slide 6 –Social insurance number (SIN)
+[James]: Sacha has to fill out some paperwork before they can start their new job. Some forms ask for their social insurance number, also called a SIN for short.
+A SIN is a 9-digit identification number that you need to work in Canada and to get any benefits or services from the government. You get your SIN from Service Canada.
+It’s unique to you. You are the only person who is supposed to use it, and you are responsible for keeping it safe. If your SIN gets into the wrong hands, it could lead to fraud or even identity theft.
+When starting a job, you will need to give your SIN to your employer and your bank when you open an account. They are responsible for protecting your personal information. They use your SIN to send information about your income to the CRA. You also need to provide your SIN to government agencies or departments to get benefits or services.
+For example, you’ll give your SIN to the CRA when you do your taxes. Here, it will help identify you in the CRA’s system. If you’re considering post-secondary education, you will also need to provide your SIN to your school so they can issue the tax slips you need to do your taxes.
+You may already have a SIN. Often, parents and legal guardians will apply for one for their child when they are born.
+If you don’t have one, you can apply online, by mail, or in person through Service Canada. You will have to provide or send in a document that proves your identity.
+Visit a Service Canada office if you’re not sure whether you have a SIN or if have forgotten or lost it.
+For more information, go to [canada.ca/social-insurance-number](https://www.canada.ca/en/employment-social-development/services/sin.html) or call **1-866-274-6627**.
+### Slide 7 – Form TD1, Personal Tax Credits Return
+[James]: The first form Sacha must fill out for their job is the [TD1 Personal Tax Credits Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns/td1-forms-pay-received-on-january-1-later/td1.html) form, which your employer should provide to you. Many of us fill them out when we start a new job but don’t really understand why. So, let’s explore what it means.
+Income tax is one of the most common taxes you pay in Canada. Your employer deducts this tax from your pay based on the information you provide on your TD1 form.
+You will be asked to fill out a TD1 form every time you start a job.
+If you work for the same employer from year to year, you usually do not have to complete a TD1 form every year.
+There is a two-part video available that covers how to fill out a TD1 form. Check it out on [canada.ca/learn-about-taxes](https://www.canada.ca/en/revenue-agency/services/tax/individuals/educational-programs.html).
+[Visual]: Screenshot of Form TD1, 2024 Personal Tax Credits Return.
+### Slide 8 – Pay stub
+[James]: Sacha receives their first pay cheque from the burrito shop. They got less money than they were expecting.
+Instead of getting their hourly wage for the hours they worked, Sacha noticed that some money was taken off in the form of deductions. They’re not sure what these are for.
+Let’s watch a video that explains what you need to know about a pay stub.
+[Visual]: Image of a paycheque.
+[Narrator]: Do you understand everything on your paycheque? Whether you’re a student working your first job, or you’ve been working for years, every payday, you get a statement of earnings, or a pay stub. Depending on your employer, it’ll either come online, or you’ll get a paper one on pay day. Either way, It should look something like this.
+So, what’s in a typical pay stub? Why is money being taken off every time? Where does that money go?
+We’re here to help!
+The biggest number you’ll see is your Gross Income or Gross Pay, which is the total amount you earned during the pay period, before any deductions.
+Wait, so if this is how much I earned, why is the amount in my bank account less than that?
+Everyone who works in Canada will have amounts deducted from their paycheque. These deductions help pay for services across the country, and help those who are unemployed, retired, or persons with disabilities.
+So once you take your Gross Pay, and subtract all the deductions, the amount you see in your bank account is your Net Pay.
+Now, let’s walk through the deductions.
+The first deduction you’ll most likely see is Income Tax. Just like paying for items at the store, your pay is also taxed.
+Your taxes help pay for many things in Canada including, roads, health care, public safety, and so much more. It’s how we all contribute!
+Next up – EI – Employment Insurance. A percentage of your gross pay goes to help workers who lose their jobs, and need Employment Insurance to help pay their bills and provide for their family until they find another job. EI may help you if you lose your job too. EI also helps people who are no longer working because they’ve given birth, or adopted a child.
+The last deduction you’ll see is CPP/QPP which stands for the Canada Pension Plan or Quebec Pension Plan. This protects your future. A percentage of your pay also helps provide income for Canadians who retire, people who are unable to work because of a disability, or for spouses and families when someone dies. You will also get this when you are older.
+For some jobs, you may see other deductions from your gross pay, like union dues, health insurance plans, or private pension plans.
+Last thing - You’ll also see a section called YTD, which stands for Year to Date, which is the total amount of all your pay stubs from January 1st until now.
+I hope this helps you understand your pay, and how your money helps you and the community!
+Don’t forget to check us out on social media, and go to [canada.ca](https://www.canada.ca/) for more info.
+### Slide 9 – T4 slip, Statement of Remuneration Paid
+[James]: Sacha has been working hard every weekend and is proud to have saved some money. University is only a few months away!
+In mid-February, Sacha receives a T4 slip from their employer, but they are unsure what to do with it. A T4, Statement of Remuneration Paid, is usually referred to as a T4 slip.
+Your T4 is an important document that your employer gives you. It shows information about your employment income and deductions for the entire calendar year.
+The slip provides a history of your employment earnings for the calendar year which covers January 1 to December 31. You will use the information found on your T4 slips for different calculations when doing your taxes.
+Your employer must send you a T4 slip before March 1 following the year in which you worked for them. You may receive a digital or physical copy, but both will show the same information.
+If you had multiple jobs, you will receive a T4 slip from each of your employers. You must remember who you have worked for so that you do not forget to report even a small income.
+The employer must also send a copy of your T4 to the CRA.
+You may also receive other slips to report things like employment insurance, interest earned from the bank, and income support.
+[Visual]: Screenshot of a T4 slip, Statement of Remuneration Paid.
+### Slide 10 – Other income?
+[James]: Not all income will be reported on an information slip, but you are still responsible for reporting it on your tax return.
+Income in these categories could include tips or occasional earnings, such as payments received through a food delivery service or tutoring.
+It’s good to track this money throughout the year. You may need to gather documents such as financial statements, invoices, or other records.
+At the burrito shop, Sacha and their coworkers empty the tip jar weekly and split the tips based on each person’s job. If Sacha’s employer splits the tips, they would be responsible for including that information on Sacha’s T4 slip at the end of the tax year.
+However, since Sacha and their coworkers split them up, it is up to Sacha to report their own share on their tax return. Sacha will also have to report income for the occasional tutoring they do throughout the year.
+Sacha tracks all the money they make and will report the total received between January 1 and December 31 on their tax return.
+Reporting this income also has some benefits. The additional income you report can be an advantage when applying for a loan. You will qualify for more money and may even get a better interest rate because of your higher income. That extra income could get you closer to your first car or home!
+### Slide 11 – Underground economy
+[James]: At work, Sacha has heard a lot about working under the table. They’re not sure what it means, so let’s investigate.
+Moonlighting, working for cash, and working under the table are all terms used to describe the underground economy. These terms mean not reporting income for tax purposes.
+It can include not reported or under-reported income from:
+- tips and gratuities
+- employment
+- money earned from renting out a room of your home, ride sharing, babysitting, mowing lawns, washing cars, and other jobs
+- gift cards received for work done
+- cash payments for goods or services
+- exchange of goods or services for other goods or services (bartering) without using money
+Generally, any income you earn is taxable and you must report it on your tax return even when you don’t receive a T4 slip.
+A few dollars of unreported income may not seem like a big deal, but collectively they amount to billions of dollars lost that are needed to fund public services in your community.
+So be part of the solution! Know how to avoid the underground economy.
+When you are employed, ask for your T4 slip and make sure you are on your employer’s payroll so that you can benefit from a workers’ compensation program, and employment insurance when you need it.
+Always get a written contract or receipt when you buy goods or services, so that you are protected if something goes wrong, and you want a refund.
+[Visual]: An individual in a yellow shirt writes on paper with a pen.
+### Slide 12 – Do you have to do your taxes?
+[James]: Sacha is not quite sure if they need to do their taxes, and you may be asking yourself the same question.
+Remember, completing a tax return and reporting your income lets you calculate whether you owe taxes or if you will get a refund.
+In some situations, doing your taxes is mandatory. For example, if you owe tax or if the CRA sent you a request to do so.
+But even if you don’t have to do your taxes, it can be a good idea.
+For instance, you’ll need to do your taxes to claim a tax refund or get benefit and credit payments like the GST/HST credit. You could be eligible for payments even if you didn’t earn any income, or your income is tax exempt.
+[Visual]: An individual sitting at a table with several documents, a calculator and a laptop.
+### Slide 13 – Get ready to do your taxes
+[James]: For a complete list of when you need to do your taxes, you can refer to the section “Who should file a tax return?” on [canada.ca/taxes-get-ready](https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/get-ready-taxes.html).
+While looking at their T4 slip, Sacha sees that there was income tax deducted from their pay throughout the year. They wonder if they could get any of that back, so Sacha decides to do a tax return, report all their income, and see the result.
+Let’s check out a video that covers common documents you need to start your taxes.
+[Visual]: An individual holding a tablet in their hand, wearing headphones, writes in a notebook.
+[Narrator]: Welcome to your favourite yearly event! No, not your birthday or the start of hockey season – but doing your own taxes!
+Wait! Don’t leave! It may seem a little scary, but we promise it’s easier than you think. In this video, we’ll show you what information you need on hand to get started.
+Let’s start with some things to know:
+- April 30th is the deadline for most Canadians to do their taxes and pay any amount they owe.
+- When you see **balance owing**, that means that you owe the Canada Revenue Agency money.
+- And a **refund** means that you will receive money back!
+Next up – what you need before you start:
+First, the easy stuff:
+- your full name
+- your address
+- your marital status
+Also, you need to have your social insurance number, so you may want to find that now. We use this information to help identify you and accurately calculate your benefits and credits.
+The next thing you should have is your tax slips. You should receive these slips in February.
+If you worked over the year, you’ll get a T4 slip from each of your employers.
+If you pay tuition to a university or college, you’ll get a T2202 slip.
+If you received employment insurance or parental leave payments, you’ll get a T4E slip.
+And if you’ve accessed certain other taxable benefits, you will get a T4A slip. You may also get this slip for other types of income like scholarships, bursaries or grants.
+You might get slips in the mail, your employer or your school might also provide them online. They may also be available through My Account.
+If you work and live in the province of Quebec, you will also receive Relevé slips.
+If you received income in cash that isn’t reported on a slip, like tips or gratuities, you also have to report these on your taxes, so make sure to grab any info you have.
+You may be able to claim deductions and credits to reduce the amount of tax you owe. You’ll need to have documents for this. These could be receipts, statements, or other records that support what you’ll be claiming on your taxes.
+For some of these, you might receive an official receipt. If you made contributions to a plan like your Registered Retirement Savings Plan or RRSP, your financial institution will send you a receipt as proof to claim on your taxes.
+If you donated money to that dog rescue organization you like, you probably got a receipt from them and any other registered charities you donated to. You’ll be able to claim those receipts on your taxes.
+Other common deductions and credits would include child care expenses, moving expenses, paid tuition fees, or medical expenses, to name a few.
+If you worked from home during the year, you may also be able to claim some home office expenses.
+Each province or territory will have their own deductions and credits as well.
+But don't take out your wallet just yet! Some credits will not only lower your balance owing but may also increase your refund amount!
+Make sure you keep the receipts or records in case the CRA asks for them later.
+And there you go, the basic things you’ll need before doing your taxes! If you’re ready to start – check out part 2 on how to actually fill out your tax return.
+We’re always here to help.
+For more information, follow us on social media or visit [Canada.ca](https://www.canada.ca/).
+### Slide 14 – Ways to do your taxes
+[James]: Sacha is finally ready to file a tax return and looks at the different ways they can be done.
+There are a few ways to do your taxes:
+You can do it **online**, which is the fastest way. Tax returns filed electronically are typically processed within two weeks.
+Certified tax software is available to make online filing easy, and some software products are free. The software guides you through the process and does the calculations.
+Volunteers may be able to help you do your taxes for free through the Community Volunteer Income Tax Program. Tax clinics are hosted by community organizations across Canada for those with a modest income and a simple tax situation.
+You can also get help from a family member, a friend, or a tax preparer.
+Finally, you can do them on paper by downloading a tax package for your province or territory. Fill out the forms on computer or by hand and mail them to the CRA.
+To find out more, visit [canada.ca/taxes-get-ready](https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/get-ready-taxes.html).
+### Slide 15 – Free tax help
+[James]: Sacha decides they need help doing their taxes. They are curious about the CRA’s free tax clinics and want to see if they can get their taxes done by a volunteer, for free!
+The program is called the Community Volunteer Income Tax Program. In Quebec, it is known as the Income Tax Assistance – Volunteer Program.
+You’re eligible if you have a modest income and a simple tax situation.
+Generally, a modest income is less than $35,000 for a single person and less than $45,000 for a couple.
+Your tax situation is simple if, for example, you don’t have a small business or income from a rental property.
+To find a clinic, go to [canada.ca/get-tax-help](https://www.canada.ca/en/revenue-agency/services/tax/individuals/community-volunteer-income-tax-program.html).
+Most tax clinics are offered between March and April, but some clinics operate year-round.
+Sacha is eligible and has found a free tax clinic in their community to complete their tax return!
+[Visual]: Icon for the Community Volunteer Income Tax Program. Three icons of people all in different colors arranged inside a circle with their arms touching. Off to the right of the circle it is written: “People helping people.”
+### Slide 16 – What happens after you do your taxes?
+[James]: Sacha’s taxes are done, so now what?
+Soon, they will receive a notice of assessment. A notice of assessment is an evaluation of your tax return. The CRA sends it to you every year after you file.
+It includes the date your return was checked and details about your refund or how much you owe. It’s an important document that should be kept with your tax records.
+When you file your first tax return, you will receive your notice of assessment by mail. Then, you can register for the CRA’s My Account and sign up to receive online mail. I’ll speak more about the benefits of My Account later in the presentation.
+If you are expecting a refund, you will either receive a cheque attached to your notice of assessment. Or, if you signed up for direct deposit, it will be deposited into your bank account.
+If you owe money and are unable to pay, contact the CRA to discuss your options. The CRA has some flexibility when it comes to owing money. You can make a payment arrangement that lets you make smaller payments over time.
+If you realize you made a mistake after filing your return, you can make changes once you receive your notice of assessment. If you forgot to include employment income or to request a tax credit, send a [T1 Adjustment Request](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1-adj.html) form to the CRA.
+If you did your taxes electronically, you can use the online service ReFile via your tax software to do so. If you did not file your return online, you can use Change my return, which is a secure My Account service, or mail an adjustment request form to the CRA.
+Sacha also wonders what to do with their documents after they file. When filing electronically, keep all receipts and documents. For a paper return, the instructions will tell you what documents need to be attached, such as receipts and tax slips.
+Keep all receipts and documents for at least six years after you file your return, as the CRA may ask to see them.
+[Visual]: An individual wearing a yellow hat and sweater holds a computer and carries a backpack on one shoulder while standing outside in front of a building.
+### Slide 17 – Need help?
+[James]: Sacha has some questions about their return but is a bit intimidated to call the CRA, so they asked their mom to help.
+When Sacha’s mom phoned the CRA, Sacha had to answer some confidentiality questions over the phone about themself first.
+Sacha then gave the agent on the phone permission to discuss their file with their mom. This permission is only applicable to this phone call.
+If Sacha would like their mom to continue having access to their file, they can give their mom permission. There are two options to do so.
+The [Form AUT-01, Authorize a Representative for Offline Access](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/aut-01.html), allows you to authorize a representative to have access to information regarding your accounts **only by phone, by mail, by fax, and in person**.
+You can also add a representative to your account under "Authorized representative(s)" from the "Profile" section in My Account. This **does** provide **online** access. This is especially useful when your representative wants to submit documents **electronically** for you.
+You don’t need to authorize someone as a representative if that person is only doing your taxes.
+Taxpayer information is confidential. The CRA needs your permission to share your tax information with another person, such as a family member, a friend, or an accountant. So, choose someone you can trust!
+### Slide 18 – GST/HST credit
+[James]: Sacha is very excited about their upcoming 19th birthday. They heard that once they turn 19, they may be eligible to receive the GST/HST credit.
+The GST/HST credit is a quarterly tax-free payment for people with low and modest incomes. It helps offset the GST or HST they pay on goods and services.
+To get it, do your taxes every year, even if you have no income to report. The CRA will confirm whether you are eligible and for how much.
+For more information, visit [canada.ca/gst-hst-credit](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/goods-services-tax-harmonized-sales-tax-gst-hst-credit.html).
+[Visual]: An individual wearing glasses is sitting outside and using a laptop.
+### Slide 19 – Canada Carbon Rebate (CCR)
+[James]: Just like the GST/HST credit, when you turn 19, you may be eligible for the Canada Carbon Rebate, or CCR for short.
+The CCR is a tax-free payment issued four times a year to help individuals and families offset the cost of the federal pollution pricing.
+It is available to residents of Alberta, Saskatchewan, Manitoba, Ontario, New Brunswick, Nova Scotia, Newfoundland and Labrador, and Prince Edward Island.
+The rebate consists of a basic amount and a supplement for residents of small and rural communities.
+The amount you get depends on your family situation and the province you live in. For example, based on the 2023 tax year, a couple with one child living in Alberta could be eligible to receive an annual credit of up to $1,575.
+To get the CCR, do your taxes every year, even if you have no income to report.
+[Visual]: An individual is at a table and is filling out a paper form.
+### Slide 20 – Refundable vs. non-refundable
+[James]: As Sacha is getting ready for university, they become interested in learning more about taxes and the benefits, credits, and deductions that are available to students.
+There are two different types of tax credits: refundable and non-refundable.
+If you’re eligible, you may receive refundable tax credits. These credits are paid to you in the form of a tax refund.
+For example, if you owe $200 in taxes and you are entitled to $500 in refundable tax credits, the credits will reduce what you owe to $0, and you get a refund of $300.
+Non-refundable tax credits can help reduce or eliminate the tax you have to pay. They cannot create a refund.
+In the same scenario, if you owe $200, $500 in non-refundable tax credits will reduce the taxes you owe to $0, but you will not receive a refund for the difference.
+### Slide 21 – Common deductions and credits for students
+[James]: Sacha is starting university soon and learns about the many tax deductions and credits that are available.
+They plan to move away to attend university and have heard that moving expenses can be deducted when doing taxes.
+Some of Sacha’s new friends have children and mention that they can deduct child-care expenses on their taxes.
+Apart from these deductions, there are other non-refundable tax credits available, including the Canada employment amount, interest paid on your student loan, and the tuition tax credit.
+These tax credits reduce the income tax you owe.
+If you don’t need the tuition tax credit to reduce your income tax to zero, you may be able to transfer it to an eligible family member or keep it to use in a future year.
+For more information on deductions, credits, and expenses you may be able to claim as a student, go to [canada.ca/taxes-students](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/students.html).
+[Visual]: An individual carrying a shoulder bag and a notebook stands in a sunny schoolyard and smiles.
+### Slide 22 – Disability tax credit (DTC)
+[James]: Another tax credit that we want to tell you about is the disability tax credit, or DTC for short.
+The DTC is a non-refundable tax credit that helps people with severe and prolonged impairments, or their supporting family members, reduce the income tax they may have to pay.
+Being eligible for the DTC can also open the door to other federal programs, such as the registered disability savings plan and the Canada workers’ benefit disability supplement.
+Also, certain education-related benefits that require an individual to be a full-time student, such as the scholarship exemption, can be claimed by a part-time student.
+They can claim if they are eligible for the DTC for the year or have an impairment in physical or mental functions and a medical practitioner has certified in a letter that the impairment would not reasonably allow the student to be enrolled full time.
+For more information, visit [canada.ca/disability-tax-credit](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html).
+After learning about the DTC, Sacha shares the information with a relative who has Type 1 diabetes because they may be eligible.
+[Visual]: An individual with a prosthetic leg is sitting on a sofa and using a cell phone.
+### Slide 23 – My Account for individuals
+[James]: You can register for the CRA’s My Account after doing your taxes for the first time, and you’ve received your notice of assessment.
+My Account is a secure, online portal that lets you view your personal income tax and benefit information and manage your individual tax affairs.
+Along with doing your taxes every year, you must keep your personal information up to date to keep getting benefit and credit payments.
+You can instantly update all of this information through My Account.
+You can also:
+- Track your refund.
+- View, or change your return.
+- View your mail online, such as your notices of assessment.
+- Check your benefit and credit payments and statements.
+- Submit and track your DTC application, and more.
+To register, go to [canada.ca/my-cra-account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html).
+Sacha registers for My Account as soon as they receive their notice of assessment. And now they’re set! Sacha has learned a lot about the importance of doing taxes and the benefits and credits available to them. Now, they have all the tools they need to file a tax return on time, every year!
+[Visual]: Screenshot of the My Account Overview homepage.
+### Slide 24 – Digital services
+[James]: In addition to My Account, there are many digital services available from the CRA. Here are a few that I’ll tell you about.
+**Auto-fill my return** is a secure CRA service that automatically fills in parts of your tax return with information the CRA has available at the time of your request, making it easier to do your taxes and helping to prevent mistakes.
+**Direct deposit** is a fast, reliable, and secure way for individuals to get payments on time from the CRA in the event of unforeseen circumstances, such as a natural disaster, or an emergency.
+**Email notifications** help prevent fraud. Email notifications from the CRA let you know when changes are made to your personal information in My Account or there is CRA mail to view online.
+For more information, go to [canada.ca/cra-digital-services](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals.html).
+### Slide 25 – Want to learn more about taxes?
+[James]: Want to learn more about taxes in Canada?
+Try out our free online interactive learning tool called Learn about your taxes.
+This self-directed learning tool takes you through starting your first job, doing a basic tax return, the purpose of taxes, and more.
+Throughout the lessons, you will find videos, definitions, links to resources, examples, and quizzes to test your knowledge.
+Check it out at [canada.ca/learn-about-taxes](https://www.canada.ca/en/revenue-agency/services/tax/individuals/educational-programs.html).
+[Visual]: Screenshot of the Learn about your taxes webpage.
+### Slide 26 – Be scam smart!
+[James]: To protect yourself from scams, it’s important to know when and how the CRA might contact you.
+Here’s what you can do to be scam smart:
+- Take a minute and question why the CRA needs your personal information.
+- When in doubt, check My Account to see if you have mail or an amount owing: if you don’t, then make sure to delete the **fraudulent communication** you received.
+You can also call the CRA to verify whether they are actually trying to reach you.
+For more information, go to [canada.ca/be-scam-smart](https://www.canada.ca/en/revenue-agency/campaigns/fraud-scams.html).
+You can also watch the webinar recording on our web page. I’ll provide more information on this shortly.
+[Visual]: Black exclamation mark in a yellow triangle and text saying “Some scams are easy to spot. Some are not.”
+### Slide 27 – Thank you!
+[James]: And this is the end of our webinar.
+For more information on any of the topics discussed today, visit [canada.ca/taxes-students](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/students.html)
+We also encourage you to visit our Upcoming Events page at [canada.ca/cra-outreach-events](https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/help-others/outreach/upcoming-events-products.html) to view past recordings and register for upcoming webinars.
+If you can’t find what you’re looking for online, you can call the CRA at **1-800-959-8281**.
+If you are deaf, hard of hearing, or have a speech impairment and are registered with Canada Video Relay Service, you can call the CRA at **1-800-561-6393**.
+Stay connected by following us on social media: we are on X, Facebook, YouTube, LinkedIn, and Instagram.
+Thank you for joining us today and for following along on Sacha’s journey! We hope it was helpful!
+[Visual]: Social media logo: X, Facebook, YouTube, LinkedIn, Instagram.

@@ -1,0 +1,375 @@
+Title: Value of Supply (GST 300-7)
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/g300-7/value-supply-gst-300-7.html
+Corpus path: corpus/cra/forms-publications/publications/g300-7/value-supply-gst-300-7.md
+Document type: publication
+Last modified: 2017-11-07
+
+# Value of Supply (GST 300-7)
+
+**Notice to the reader:**
+
+Please note that the following GST Memorandum, although correct at the time of issue, has not been updated to reflect any subsequent legislative changes since the date of issue. As a result, some of the technical information this memorandum contains may no longer be valid. Please contact your GST/HST Rulings Centre for assistance.
+
+GST memoranda 300-7
+
+**TAX ON SUPPLIES VALUE OF SUPPLY Ottawa, September 14, 1990**
+
+**Bill C-62, the proposed legislation on the Goods and Services Tax, received third reading and was passed by the House of Commons on April 10, 1990. Although this Bill has not yet received Royal Assent, Revenue Canada would like to help businesses and organizations prepare for the tax. Accordingly, the information contained in this memorandum, although subject to change, is being provided at this time for your convenience.**
+
+This general memorandum in the TAX ON SUPPLIES series explains for purposes of the proposed Goods and Services Tax (GST) what the value of a supply is in order to calculate the GST payable, as required under the Excise Tax Act.
+
+The following sub-series of memoranda will provide detailed information on the procedures and requirements for determining and calculating the GST on supplies:
+
+GST 300-7-1 Agents and Auctioneers GST 300-7-2 Combined Consideration GST 300-7-3 Other Taxes GST 300-7-4 Coupons GST 300-7-5 Adjustments, Refunds and Credit of Tax GST 300-7-6 Manufacturers' Rebates GST 300-7-7 Co-operative Advertising GST 300-7-8 Early/Late Payments GST 300-7-9 Disbursements GST 300-7-10 Foreign Currency GST 300-7-11 Barter Transactions GST 300-7-12 Natural Resource Royalties GST 300-7-13 Intra-Group Transactions
+
+**LEGISLATIVE REFERENCES**
+
+*Excise Tax Act* - subsection 177(1),
+
+- sections 123, 126, 128, 157, 158, 159, 161, 162, 164, 165, 172, 178, 181 and 221
+
+I*ncome Tax Act* - subsections 251(2) to 251(6)
+
+**DEFINITIONS**
+
+The following definitions have either been taken from the *Excise Tax Act* (as amended by Bill C-62) or represent departmental interpretations of terms relevant to the administration of that Act.
+
+"**Act**" means the proposed *Excise Tax Act* as amended by Bill C-62;
+
+"**Canada**"
+
+(a) "Canada" includes:
+
+(i) the sea bed and subsoil of the submarine areas adjacent to the coasts of Canada in respect of which the government of Canada or of a province may grant a right, licence or a privilege to explore for or exploit any minerals; and
+
+(ii) the seas and airspace above the submarine areas referred to in paragraph (i) in respect of any activities carried on in connection with the exploration for or exploitation of minerals;
+
+(b) in or in respect of imports, "Canada" has the same meaning as in the Customs Act;
+
+"**capital property**", in respect of a person, means property that is, or that would be if the person were a taxpayer under the Income Tax Act, capital property of the person within the meaning of that Act, other than property described in Class 12 or 14 of Schedule II to the Income Tax Regulations;
+
+"**charity**" means a registered charity or registered Canadian amateur athletic association, within the meaning of the Income Tax Act;
+
+"**commercial activity**" means:
+
+(a) any business carried on by a person;
+
+(b) any adventure or concern of a person in the nature of trade; and
+
+(c) any activity engaged in by a person that involves the supply of real property or of a right or interest in respect of real property by that person;
+
+but does not include:
+
+(d) any activity engaged in by a person to the extent that it involves the making of an exempt supply by the person;
+
+(e) any activity engaged in by an individual without a reasonable expectation of profit; or
+
+(f) the performance of any duty or activity in relation to an office or employment;
+
+"**consideration**" means money, property, a service, or anything else which induces a supplier to make the supply;
+
+"**exclusive**" in respect of the consumption, use or supply of property or a service, means all or substantially all of the consumption, use or supply of the property or service, and "all or substantially all", in respect of the consumption, use or supply of property or a service by a financial institution, means all of the consumption, use or supply of the property or service; "exempt supply" means a supply included in Schedule V to the *Excise Tax Act;*
+
+"**fair market value**" of property or a service supplied to a person means the fair market value of the property or service without reference to any tax excluded by section 154 of the Excise Tax Act from the consideration for the supply;
+
+"**input tax credit**" means a credit claimed by a registrant for the Goods and Services Tax paid or payable on any property or services consumed, used or supplied in the course of a commercial activity;
+
+"**money**" will have its ordinary meaning but does not include:
+
+(a) currency with a fair market value which exceeds its stated value as legal tender in the country it was issued; and
+
+(b) currency that is supplied or held for its numismatic value.
+
+"**person**" means an individual, partnership, corporation, trust or estate, or a body that is a society, union, club, association, commission or other organization of any kind;
+
+"**personal property**" means property that is not real property;
+
+"**prescribed**" means prescribed by regulation;
+
+"**property**" means any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money;
+
+"**real property**" includes:
+
+(a) in respect of property in the province of Quebec, immovable property and every lease thereof;
+
+(b) in respect of property in any other place in Canada, messuages, lands and tenements of every nature and description and every estate or interest in real property, whether legal or equitable; and
+
+(c) a mobile home;
+
+"**recipient**" in respect of a supply, means the person who pays or agrees to pay consideration for the supply or, if no consideration is or is to be paid for the supply, the person to whom the supply is made;
+
+"**registered political party**" has the meaning assigned to it under section 2 of the *Canada Elections Act*;
+
+"**registrant**" means a person who is registered, or who is required to apply to be registered, under sections 240 and 241 of the Excise Tax Act;
+
+"**service**" means anything other than:
+
+(a) property;
+
+(b) money; and
+
+(c) anything that is supplied to an employer by a person who is or agrees to become an officer or employee of the employer in the course of or in relation to the office or employment of that person;
+
+"**supplier**" in respect of a supply, means the person making the supply;
+
+"**supply**" means, subject to sections 133 and 134 of the *Excise Tax Act,* the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition;
+
+"**tangible personal property**" includes all objects or things that may be touched, felt or possessed, and that are movable at the time the supply is made, other than money and real property;
+
+"**tax**" means the Goods and Services Tax payable under Part IX of the *Excise Tax Act*;
+
+"**taxable supply**" means a supply that is made in the course of a commercial activity but does not include an exempt supply;
+
+"**zero-rated supply**" means a supply included in Schedule VI to the
+
+*Excise Tax Act*.
+
+**VALUE OF SUPPLY**
+
+**General**
+
+1. In accordance with subsection 165(1) of the Act, every recipient of a taxable supply made in Canada is required to pay tax in respect of the supply equal to 7 per cent of the value of the consideration for the supply.
+
+2. Under the Act, all supplies are either taxable supplies or exempt supplies. Exempt supplies are those supplies listed in Schedule V to the Act. Taxable supplies are subject to tax at either 7 per cent or zero per cent (zero-rated). Zero- rated supplies are those supplies listed in Schedule VI to the Act.
+
+3. Generally, the supplier of a supply (other than a small supplier) is required to collect as agent of Her Majesty in right of Canada, the tax payable by the recipient in respect of the supply. There are some cases, however, where the supplier is not required to collect the tax payable in respect of a supply (e.g. in respect of a sale of real property to a recipient who is registered and the supply is not a supply of a residential complex made to an individual).
+
+4. The tax payable or collectible in respect of a supply will be calculated on the value of the consideration for the supply.
+
+5. Generally, consideration is the amount, net of GST or any other tax prescribed under section 154, that is paid or payable to a supplier in respect of the supply. Where GST is included in the amount that is paid or payable in respect of a supply, the consideration fraction of 100/107 is used to calculate the value of the consideration for the supply.
+
+**Monetary and Non-monetary Consideration**
+
+6. Generally, the value of the consideration for a supply will be expressed in money. Paragraph (a) of subsection 153(1) provides that where the consideration, or any part of the consideration for a supply, is expressed in money, the value of the consideration, or that part of the consideration, is deemed to be equal to the amount of money.
+
+7. Money, whether Canadian or foreign, can take the form of one of the following:
+
+(a) currency, (b) cheque, (c) promissory note, (d) letter of credit, (e) draft, (f) traveller's cheque, (g) bill of exchange, (h) postal note, (i) money order, (j) postal remittance, and (k) other similar instruments.
+
+8. Where the consideration, or part of the consideration for a supply is not money (i.e. it is property or a service), the value of the consideration, or that part, is the fair market value of the property or service determined at the time of supply.
+
+9. For example, where the consideration for a supply consists of money and a "trade-in", the trade-in will be characterized as partial non-monetary consideration for the supply. Thus, the consideration for the supply will be the total of the fair market value of the trade-in at the time of supply, plus the amount of monetary consideration for the supply.
+
+**Barter Transactions**
+
+10. In a barter transaction, where property or a service is provided in exchange for another property or service, the value of the consideration for the supply will be the fair market value of the property or service at the time the supply was made. However, certain barter transactions are not subject to this provision and are dealt with in subsection 153(3).
+
+11. Subsection 153(3) provides that, where the consideration or a part of the consideration for a supply of property of a particular class or kind is property of that class or kind, the value of the consideration or that part is deemed to be nil where:
+
+(a) both the supplier and the recipient are registrants; and
+
+(b) the property that is exchanged is acquired as inventory for use exclusively in commercial activities of the recipient and the supplier.
+
+**Combined Consideration**
+
+12. Pursuant to subsection 153(2), where consideration is paid for a supply and other consideration is paid for one or more other supplies or matters (either in the form of a single amount on an invoice or separate amounts on an invoice), and the consideration for one of the supplies or matters exceeds the consideration that would be reasonable if the other supply or matter were not provided, the following rule applies:
+
+the consideration for each of the supplies and matters is deemed to be that part of the total of all amounts, each of which is consideration for one of those supplies or matters, that may reasonably be attributed to each of those supplies and matters.
+
+13. The attribution may be based on a ratio established by the fair market value of the supplies and matters.
+
+**Nil Consideration**
+
+14. Where a taxable supply is made in Canada by a supplier to a recipient for no consideration, the GST payable by the recipient and collectible by the supplier is nil, provided the supplier and the recipient are dealing at arm's length. In this case, customers who receive goods or services from a registrant for "free", pay no GST. For example, if a department store gives away flowers for no charge on Mother's Day, no GST is payable in respect of the supply of the flowers.
+
+15. The Act also deems certain supplies to have been made for nil consideration, as is the case under subsection 153(3) with respect to certain barters between registrants. The effect of deeming a supply to be made for nil consideration is that no GST is payable by the recipient or collectible by the supplier in respect of the supply. However, deeming the supply to be made for nil consideration does not alter the status of the supply as a taxable supply for other purposes of the Act, (e.g. for purposes of Subdivision b of Division II - input tax credits).
+
+16. Section 156 provides that a taxable supply (other than a supply by way of sale of real property or a supply of property or service that is not for use, consumption or supply exclusively in commercial activities of the recipient) made between a specified member of a closely related group and a corporation that is also a specified member of the group, is deemed as having been made for nil consideration, if the supply is made while an election for nil consideration is in effect.
+
+17. A "specified member" of a closely related group means a corporation where all or substantially all of the supplies made by the corporation are taxable supplies and the corporation is a member of the group.
+
+18. Generally, two corporations will be said to be closely related where both are registrants and resident in Canada and one corporation has ownership of at least 90 per cent of the value and number of the issued and outstanding shares of the capital stock of the other corporation, having full voting rights under all circumstances, as set out in section 128 of the Act.
+
+19. More information on intra-group transactions is available in GST MEMORANDUM 300-7-13, "I**NTRA-GROUP TRANSACTIONS**".
+
+**Fair Market Value**
+
+20. In certain cases, for example, where consideration or a part of the consideration for a supply is not money, or where a supply is made between persons not dealing with each other at arm's length, or where a person is deemed to have made a supply, the Act deems the consideration in respect of the supply to be the fair market value of the property or service that is supplied. The following outlines some of these provisions in detail:
+
+(a) Non-Arm's Length Supplies
+
+21. Section 155 of the Act provides that where a supply of property or a service is made, between persons not dealing with each other at arm's length for consideration that is less than the fair market value of the property or service at the time the supply is made or for no consideration and the recipient of the supply is not a registrant who is acquiring the property or service for consumption, use or supply exclusively in the course of commercial activities, then:
+
+(a) if no consideration is paid for the supply, the supply is deemed to be made for consideration, equal to the fair market value of the property or service at that time; and
+
+(b) if consideration is paid for the supply, the value of the consideration is deemed to be equal to the fair market value of the property or service at that time.
+
+22. The above rule does not apply where the recipient of the supply is a registrant who is acquiring the property or service for use, consumption, or supply exclusively in the course of the registrant's commercial activities.
+
+23. Section 126 of the Act provides that related persons as defined by subsections 251(2) to 251(6) of the *Income Tax Act* are deemed to be persons not dealing at arm's length. It is a question of fact whether other persons who are not related, were at any particular time, dealing at arm's length. In addition, pursuant to subsection 126(3), a member of a partnership is deemed to be related to the partnership.
+
+(b) Appropriation of Property
+
+24. Subsection 172(1) provides that where a registrant who is an individual and who has, in the course of commercial activities, acquired, manufactured or produced any property (other than capital property) or acquired or performed any service, appropriates the property or service, at any time, for the personal use, consumption or enjoyment
+
+(a) of the registrant, or
+
+(b) an individual related to the registrant,
+
+the registrant is deemed to have made a supply of the property or service for consideration paid at that time equal to the fair market value of the property or service at that time. The registrant is also deemed, except where the supply is an exempt supply, to have collected tax, at that time, in respect of the supply, calculated on that consideration.
+
+25. Subsection 172(2) provides that where a registrant that is a corporation, partnership, trust, charity or non-profit organization, that has in the course of commercial activities, acquired, manufactured or produced any property (other than capital property), or acquired or performed any service, appropriates the property or service, at any time, to or for the benefit
+
+(a) of a shareholder, partner, beneficiary or member of the corporation, partnership, trust, charity or non- profit organization, or
+
+(b) any individual related thereto,
+
+the registrant is deemed to have made a supply of the property or service, for consideration paid at that time equal to the fair market value of the property or service at that time. The registrant is also deemed, except where the supply is an exempt supply, to have collected tax, at that time, in respect of the supply, calculated on that consideration.
+
+26. These provisions are not applicable where the registrant was not entitled to claim an input tax credit in respect of the property or service by virtue of section 170.
+
+**Other Taxes**
+
+27. Section 154 of the Act provides that the value of the consideration for a supply includes any tax, duty or fee (other than the GST or a prescribed tax, duty or fee) imposed on the supplier or recipient of the supply under any other Act of Parliament or the legislature of a province, in respect of the supply, production, importation, consumption or use of the property or service supplied.
+
+28. For example, customs duties imposed by the *Customs Act*, excise duties imposed by the *Excise Act* and the air transportation tax and excise taxes imposed by the *Excise Tax Act*, will be included in the value of the consideration for a supply.
+
+29. The taxes to be prescribed and which will not form part of the value of the consideration for a supply include the general provincial retail sales tax imposed by a province and special retail sales taxes which replace the general provincial retail sales tax and do not exceed either 12 per cent or the general provincial retail sales tax plus 4 per cent.
+
+30. For additional information, refer to GST MEMORANDUM 300-7-3, "**OTHER TAXES"**.
+
+**Foreign Currency**
+
+31. Section 159 of the Act provides that where the consideration for a supply is expressed in foreign currency, the value of the consideration is determined by reference to the Canadian dollar value equivalent of that currency on the day the tax is payable, or on such other day as is acceptable to the Minister.
+
+**Special Rules for Calculating the Value of the Consideration**
+
+(a) Coupons
+
+32. The treatment of coupons at the point-of-sale will depend on the type of coupon offered by the consumer.
+
+33. More information on coupons is available in GST MEMORANDUM 300-7-4, "**COUPONS**".
+
+34. Subsection 181(1) provides that the amount of any reimbursement paid to the supplier in respect of the redemption of a coupon that is issued by a third party is not to be treated as consideration for a supply and, as such, the reimbursement is not subject to the GST. The payment or receipt of the reimbursement is deemed not to be a financial service and, therefore, will not affect the third party's eligibility to claim input tax credits with respect to any GST paid on supplies used to provide the reimbursement.
+
+35. The sale of coupon books, such as "Entertainment Books", is a taxable supply subject to the GST.
+
+(b) Manufacturers' Rebates
+
+36. Pursuant to subsection 181(2), where a supplier (e.g. a manufacturer) who is a registrant offers a rebate to a recipient in respect of a particular supply made by the supplier or another person to the recipient, the supplier is treated as having received from the recipient a taxable supply of a service for use exclusively in its commercial activities and as having paid tax in respect of the supply equal to the tax fraction (i.e., 7/107ths) of the rebate. This provision applies only to taxable supplies other than zero-rated supplies, and where a credit note has not been issued pursuant to subsection 232(3).
+
+37. If the person receiving the rebate is also a registrant, who is entitled to claim an input tax credit or a "rebate" in respect of the GST paid by that person, that person must account for the GST in respect of the rebate based on the following formula:
+
+A x B/C x D
+
+where
+
+A is the tax fraction,
+
+B is the input tax credit of, or the rebate of tax to, the particular person in respect of the acquisition of the property or service,
+
+C is the total tax payable by the particular person in respect of the acquisition of the property or service by the particular person, and
+
+D is the amount of the rebate paid to the particular person by the supplier.
+
+(or Tax = 7/107ths x Manufacturer's Rebate x % of ITC or Tax Rebate)
+
+38. More information is available in GST MEMORANDUM 300-7-6, "**MANUFACTURER'S REBATES**".
+
+(c) Co-operative Advertising
+
+39. Generally, a co-operative advertising payment is an amount paid by a manufacturer to a retailer once the retailer provides evidence that the manufacturer's goods were displayed in prime space or that the retailer has paid for local advertising. In this case, the retailer is considered to have made a taxable supply of a service for consideration equal to the amount paid by the manufacturer. Co-operative advertising is not regarded as a reduction in the consideration for a supply. Consequently, GST will apply to such transactions in the normal manner.
+
+(d) Early/Late Payments
+
+40. Tangible personal property (e.g. goods) and services may be supplied on terms which offer discounts for early payment or impose a penalty for late payment. Pursuant to section 161, where the consideration for a supply shown in an invoice is subject to a discount for prompt payment or a penalty for late payment, the value of the consideration for tax purposes is not affected by the discount or penalty. In both cases, the GST applies to the amount of consideration shown on the invoice without regard to the discount or penalty.
+
+41. For example, where the amount shown on an invoice is $100 and terms are written on the invoice which provide the customer with a 2 per cent discount off the invoiced amount if payment is made within 30 days, tax will be payable on $100 without regard to the discount. Similarly, if there was a $5 penalty for late payment of an invoiced amount for $100, tax would be payable only on the $100.
+
+**Gift Certificates**
+
+42. Pursuant to subsection 157(2) the issue or sale of a gift certificate for consideration is not treated as a taxable supply and no GST is payable. However, when the gift certificate is applied to the purchase price of the property or a service, it is deemed to be consideration for a supply of that property or service.
+
+**Pay Telephones**
+
+43. Pursuant to subsection 165(3), where the consideration for a supply of a telephone service is paid by depositing coins in a coin-operated telephone, the tax payable in respect of the supply is equal to
+
+(a) nil where the amount deposited for the supply is less than $0.70; and
+
+(b) in any other case, $0.05 for each $0.70 deposited for the supply.
+
+44. The value of the consideration for the supply of a telephone service from a coin-operated telephone that is not paid by depositing coins in the telephone (e.g. calling card), is subject to the GST in the normal manner.
+
+**Donations to Charities and Political Parties**
+
+45. Pursuant to section 164, where part of the consideration for the supply made by a charity or registered political party can reasonably be regarded as a gift to the charity or an amount contributed to the registered political party, for which a receipt could be issued for income tax purposes, that part of the consideration is deemed not to be consideration for the supply. Therefore, the GST does not apply to that portion of the consideration that is a gift or contribution.
+
+46. Thus, where a charity conducts a fund-raising dinner, that part of the consideration paid for the dinner for which the recipient, if an individual, could receive a receipt for income tax purposes, would not be subject to GST.
+
+**Income Tax Discounting Services**
+
+47. In providing the service of preparing a person's income tax return, tax discounters (within the meaning of the Tax Rebate Discounting Act) are supplying a taxable service of preparing a tax return, as well as an exempt financial service of acquiring rights to income tax refunds of other persons (in return for an immediate payment to those persons).
+
+48. As provided in section 158, the consideration for the taxable supply of the service of preparing a tax return equals the lesser of 2/3 of the difference between the amount of the income tax refund and the amount paid by the discounter to the client, and $30. The remainder of the fee charged by the discounter to the client is treated as consideration for an exempt supply (i.e., the financial service). No GST is payable on the making of an exempt supply.
+
+49. For additional information, refer to GST MEMORANDUM 300-7- 16, "**INCOME TAX DISCOUNTING SERVICES**".
+
+**Natural Resource Royalties**
+
+50. Under subsection 162(1) of the Act, the supply of:
+
+(a) any right to explore for or exploit any mineral deposits or any forestry, water or fishery resources;
+
+(b) any right of entry or user relating thereto; or
+
+(c) any right to an amount computed by reference to the production (including profit) from, or to the value of production from, any such deposit or resource;
+
+is deemed not to be a supply and any consideration paid or due, or any fee or royalty charged or reserved, in respect of such a right, is deemed not to be consideration for the right. Consequently, such supplies are not subject to GST.
+
+51. The exceptions to this rule are where the payment is in respect of a right that is supplied to:
+
+(a) a consumer of the minerals, forestry products, water or fishery products (such as a licence to fish); or
+
+(b) a person who is not a registrant and who acquires the right in the course of a business of making supplies of the minerals, forestry products, water or fishery products to consumers (for example, a right to cut trees by a small supplier who, in turn, produces firewood for sale to customers).
+
+GST is payable in respect of these supplies.
+
+**Supply by Agents**
+
+52. Subsection 177(1) provides a special valuation rule where a registrant who is an agent acting in the course of commercial activities, makes a supply on behalf of an undisclosed principal. This provision applies where:
+
+(a) the agent makes a supply of personal property on behalf of a person who is not a registrant (i.e. the vendor) to a recipient and does not disclose to the recipient in writing that the agent is making the supply on behalf of a person who is not a registrant, or
+
+(b) the agent makes a taxable supply of property or a service on behalf of another registrant (i.e. the vendor) to a recipient and does not enter into a written agreement with the recipient, or issue an invoice or receipt for the supply, in the name of the vendor.
+
+53. Where the agent makes a supply on behalf of the vendor in these circumstances, the vendor is deemed not to have made the supply to the recipient, instead, the agent is deemed to have made the supply to the recipient. Tax will be payable (except where the supply is zero-rated) by the recipient of the supply, and collectible by the agent, calculated on the consideration for the supply.
+
+54. The agent is deemed not to have made a supply of services to the vendor relating to the supply made to the recipient. The vendor is deemed to have made a supply of the property or service to the agent and the agent is deemed to have received that supply from the vendor for consideration paid at that time equal to the amount that the consideration for the supply to the recipient exceeds the consideration for the supply of services that would have been made by the agent to the vendor in relation to the supply made to the recipient.
+
+55. Additional information on agents is available in GST MEMORANDUM 300-7-17, "*AGENTS*".
+
+**Disbursements**
+
+56. Pursuant to section 178, where a supplier, not acting as an agent for the recipient, incurs an expense while supplying a service to the recipient and the supplier is reimbursed for that expense by the recipient, the reimbursement is treated as part of the consideration for the supply of the service. Consequently, the reimbursement will have the same tax status (i.e., taxable at 7 per cent, zero-rated, or exempt) as the service supplied. Therefore, if the service supplied is a taxable supply (other than a zero-rated supply), the amount reimbursed will also be subject to tax. If the service supplied is zero-rated or tax exempt, no tax will be payable in respect of the amount reimbursed.
+
+57. To the extent that the supplier of a service is acting as an agent for a recipient in respect of an expense incurred by the supplier on behalf of the recipient, and the supplier is reimbursed by the recipient for that expense, that reimbursement is not deemed to be part of the consideration for the supplier's service(s).
+
+58. For the purposes of this section, a supplier is said to be acting as an agent for a recipient where the supplier is authorized by the recipient to act on the recipient's behalf. Furthermore, "reimbursement" means consideration paid to the supplier by the recipient, equal to the value of the consideration paid by the supplier to a third party on behalf of the recipient.
+
+**NOTE**: This memorandum contains general information and is provided for convenience and guidance in applying the *Excise Tax Act* and Regulations. Readers should refer to the legislation and/or contact the nearest Revenue Canada Excise office if interpretation problems occur.
+
+**REFERENCES**
+
+**OFFICE OF RESPONSIBILITY:**
+
+Policy and Legislation
+
+**LEGISLATIVE REFERENCES:**
+
+*Excise Tax Act* as amended by Bill C-62
+
+**HEADQUARTERS FILE:**
+
+N/A
+
+**SUPERSEDES GST MEMORANDUM:**
+
+N/A
+
+**OTHER REFERENCES:**
+
+N/A
+
+SERVICES PROVIDED BY THE DEPARTMENT ARE AVAILABLE IN BOTH OFFICIAL LANGUAGES.
+
+THIS MEMORANDUM IS ISSUED BY TECHNICAL INFORMATION, EXCISE BRANCH UNDER THE AUTHORITY OF THE DEPUTY MINISTER OF NATIONAL REVENUE, CUSTOMS AND EXCISE.

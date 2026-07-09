@@ -1,0 +1,114 @@
+---
+title: "Rebate to Owner of Land Leased for Residential Use"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3-5/rebate-owner-land-leased-residential-use.html
+last_modified: 2023-09-19
+---
+# Rebate to Owner of Land Leased for Residential Use
+
+GST/HST memorandum 19.3.5 August 1998
+
+Overview
+
+A person who supplies residential land by way of lease, licence or similar arrangement may apply, under certain conditions, for a rebate of GST/HST payable by the person in purchasing or improving the land. Generally, the rebate is available where the land has been supplied by way of lease, licence or similar arrangement under exempt conditions to a person who will be required to self-assess tax if the use of the land is for residential purposes. The rebate is also available where a lessor of the land who is required to self-assess tax supplies the land by assigning the lease. The rebate prevents double taxation of the property.
+
+Disclaimer
+
+The information in this memorandum does not replace the law found in the *Excise Tax Act* and its Regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation, or contact a Canada Revenue Agency (CRA) GST/HST Rulings Centre for more information. These centres are listed in GST/HST Memorandum 1.2, [Canada Revenue Agency GST/HST Rulings Centres](https://www.canada.ca/E/pub/gm/1-2/README.html). If you wish to make a technical enquiry on the GST/HST by telephone, please call the toll-free number 1-800-959-8287.
+
+If you are located in the Province of Quebec, please contact Revenu Québec by calling the toll-free number 1-800-567-4692 for additional information.
+
+**Note** This section of Chapter 19, *Special Sectors: Real Property* supersedes paragraphs 57 to 61 of GST Memorandum 500-4-5, *Housing and Other Real Property Rebates*. Side-barring indicates significant changes.
+
+## Eligibility requirements
+
+Rebate to lessor s 256.1
+
+1. The rebate provided under section 256.1 applies to situations where a person supplies land by way of lease, licence or similar arrangement or by assignment to a person who is acquiring the land:
+
+Lease for one month or more Sch. V, Part I, para 6(a)
+
+- to make supplies of residential accommodation by way of lease, licence or similar arrangement that are exempt under paragraph 6(a) of Part I of Schedule V, i.e., a supply by way of lease, licence or similar arrangement of a residential complex (such as a house) or a residential unit (such as an apartment) in a residential complex for a period throughout which continuous occupancy is given to the same individual for a term of one month or more;
+
+Residential use Sch. V, Part I, subpara 7(a)(i)
+
+- to make a supply by way of lease, licence or similar arrangement of the land where the supply is exempt under subparagraph 7(a)(i), i.e., the land is supplied for a period of at least one month and the recipient of the supply of the land is the owner, lessee, or person in occupation or possession of a residential unit that is or is to be affixed to the land for the purpose of its use and enjoyment as a place of residence for individuals; or
+
+Residential use Sch. V, Part I, para 7(b)
+
+- to make a supply by way of lease, licence or similar arrangement of the land where the supply is exempt under paragraph 7(b) of Part I of Schedule V, i.e., a supply by way of by way of lease, licence or similar arrangement for a period of at least one month of one or more sites in a residential trailer park to the owner, lessee, or occupant of a mobile home, travel trailer, motor home, or similar vehicle or trailer that is, or is intended to be situated on a site and is for the use and enjoyment as a place of residence for individuals.
+
+No ITCs
+
+2. Because the supply of the land by way of lease, licence or similar arrangement is exempt in these circumstances, the owner and any other supplier of the land who makes an exempt supply described by section 6.1 of Part I of Schedule V[Footnote1](#fn1) are generally not entitled to claim input tax credits (ITCs) in respect of the acquisition of the land and/or improvements to the land. However, the recipient of the supply will be required at some point to self-assess tax on a subsequent supply of the land (either an actual supply or a deemed supply[Footnote2](#fn2)) under :
+
+Self-supply
+
+- subsection 190(3) - lease of land for residential use,
+
+- subsection 190(4) - first use of residential trailer park,
+
+- subsection 190(5) - first use of additional area, or
+
+- section 191 - first rental of a residential building or part thereof.
+
+Tax in base cost
+
+3. Since the supply is not a taxable sale, the supplier is not able to recover GST/HST either under section 193 (credits for sale of real property) or section 257 (rebate to a non-registrant for sale of real property). Thus when the recipient of the supply is required to self-assess tax at the time of the subsequent supply, the base cost of the land upon which the tax is assessed may contain an amount of GST/HST.
+
+To remove tax
+
+4. Accordingly, this rebate is provided to the person who supplies the land by way of lease, licence or similar arrangement on an exempt basis as described by section 6.1 of Part I of Schedule V and who was previously unable to recover GST/HST payable on the land and/or improvements to the land.
+
+A landowner leases land to a developer. The developer builds two single unit residential complexes. The developer supplies one of the homes by way of lease and, under the provisions of subsection 191(1), must self-assess tax on the fair market value of the single unit residential complex, i.e., the building and the land that forms part of the residential complex. The landowner who supplied the land to the developer may apply for a rebate of tax paid or payable by the owner on the acquisition of, or improvements to, the land that forms part of the leased single unit residential complex. (For information on land forming part of a residential complex, see paragraph 6.)
+
+### Example 2
+
+A municipality acquires a parcel of land and leases this land to a non-profit housing corporation. The corporation constructs a multi-storey building that has commercial properties on the ground floor and residential units above. There is more land in this parcel than is considered reasonably necessary for the use or enjoyment of the residential complex as a place of residence for individuals. In this situation:
+
+s 259
+
+- the municipality may claim a public service body (PSB) rebate of 57.14% of the GST/HST on the acquisition costs of the land when it acquires the land (provided an election under section 211[Footnote3](#fn3) has not been filed), and
+
+s 256.1
+
+- once the non-profit housing corporation has supplied the first residential unit by way of lease, licence or similar arrangement and thus triggered the requirement for the non-profit housing corporation to self-assess tax in respect of the complex, the municipality may apply for a rebate of tax in respect of its acquisition costs for the land that is used for residential purposes less any amount it claimed previously as a PSB rebate.
+
+## Calculating the rebate
+
+Formula ss 256.1(1)
+
+5. Effective December 10, 1998, an eligible claimant (herein called "the landlord") is entitled to recover the tax according to the formula:
+
+**A** - **B**
+
+where
+
+**A** = the total of all tax that was payable by the landlord before the time at which the deemed supply of the land is made and the lessee's or sub-lessee's requirement to self-supply arises. Total tax includes:
+
+- tax that was payable by the landlord in respect of the last acquisition of the land, including tax that would have become payable but for section 167[Footnote4](#fn4), and
+
+- tax that was payable by the landlord in respect of improvements to the land that were acquired, imported or brought into a participating province[Footnote5](#fn5) by the landlord after that last acquisition of the land and that were used in the course of improving the property that includes the land before the time of the lessee's or sub-lessee's deemed supply.
+
+**B** = the total of all other rebates and ITCs that the landlord was entitled to claim in respect of any amount included in the total for A.
+
+Prior to December 10, 1998, an eligible claimant is entitled to recover the tax according to the formula:
+
+**A** - **B**
+
+where
+
+**A** = the "total tax charged" for the land (for example, the total tax payable by the person who supplies the land on the last acquisition of the land and the tax payable on improvements to the land since that last acquisition), and
+
+**B** = the sum of all other rebates and ITCs which the person was entitled to claim in respect of **A**.
+
+6. Note that the self-assessment of GST/HST at the time of self-supply of a residential complex is in respect of the amount of land that is reasonably necessary for the use or enjoyment of the residential complex as a place of residence for individuals. A rebate is not available for tax payable for land in excess of that amount. For a discussion of the amount of land to include with the residential complex, see section 19.3.1, *Rebate for Builder-Built Unit (Land Purchased).* Similarly, where the self-assessment is triggered by the first supply of the first site in a residential trailer park or in an additional area to a residential trailer park, the self-assessment is in respect of the amount of land that is composed of the sites in the residential trailer park, the land that is reasonably necessary for the use and enjoyment of the sites by the occupants plus the land that is reasonably necessary for the operation of the park.
+
+## Claiming the rebate
+
+General rebate application
+
+7. The publication, *GST/HST General Rebate Application* contains the application form, GST189, and instructions on how to apply for the rebate.
+
+Time limit ss 256.1(2)
+
+8. A claimant has two years to file the rebate claim from the day on which the recipient of the supply is deemed to have self-supplied under any of subsections 190(3) to (5) or section 191. This two-year limit applies to any rebate in respect of land that is deemed to have been supplied after June 1996, under any of subsections 190(3) to (5) or section 191. If the deemed supply is before July 1996, the claimant has four years to file the rebate claim from the day on which the recipient of the supply is deemed to have self-supplied under these provisions. For more information about self-supply of real property, see Section 19.2.3, *Residential Real Property-Deemed Supplies*.

@@ -1,0 +1,22 @@
+---
+title: "IT268R3SR ARCHIVED - S.R.-Inter Vivos Transfer of Farm Property to child (before 1993)"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it268r3sr.html
+last_modified: 2025-08-26
+---
+# IT268R3SR ARCHIVED - S.R.-Inter Vivos Transfer of Farm Property to child (before 1993)
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+This Special Release constitute an update to IT-268R3 dealing with the provisions that permit the inter vivos rollover to a child of a taxpayer of farm assets, shares of a family farm corporation or an interest in a family farm partnership before 1993.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [it268r3sr-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it268r3sr/archived-inter-vivos-transfer-farm-property-child.html)

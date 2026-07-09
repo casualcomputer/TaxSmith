@@ -1,0 +1,763 @@
+Title: GST/HST Treatment of Insurance Claims
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-16/gst-hst-treatment-insurance-claims.html
+Corpus path: corpus/cra/forms-publications/publications/17-16/gst-hst-treatment-insurance-claims.md
+Document type: publication
+Last modified: 2014-08-16
+
+# GST/HST Treatment of Insurance Claims
+
+GST/HST Memorandum 17.16 August 2014
+
+**This version replaces the one dated March 2001. It also cancels and replaces the following GST/HST Policy Statements: P-210R, Settlement of a Claim under a Performance Bond Issued in Respect of a Construction Contract, and P-56R2, Insurance Adjustment Services (formerly Licensing of Insurance Adjusters).**
+
+This memorandum explains, for purposes of the GST/HST, certain provisions of the *Excise Tax Act* (the Act) that relate to the treatment of insurance claims. It discusses the GST/HST status of supplies made in the settlement of an insurance claim. It also discusses the net-of-GST/HST method used in settling property insurance claims, the GST/HST treatment of property transferred to an insurer upon settlement of a claim and how the GST/HST applies when a default occurs under a construction performance bond.
+
+**Disclaimer**The information in this memorandum does not replace the law found in the **Excise Tax Act** (the Act) and their regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate regulation or contact any Canada Revenue Agency GST/HST rulings centre for additional information. A ruling should be requested for certainty in respect of any particular GST/HST matter. [GST/HST Memorandum 1.4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling and lists the GST/HST rulings centres.
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario, New Brunswick and Newfoundland and Labrador, 14% in Prince Edward Island and 15% in Nova Scotia. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, you may refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please contact Revenu Québec at 1-800-567-4692. You may also visit the Revenu Québec website at [www.revenuquebec.ca](http://www.revenuquebec.ca/en/) to obtain general information.
+
+**Exception**: Since January 1, 2013, the CRA has been administering the GST/HST and the Québec sales tax (QST) for listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST and/or QST purposes whether or not they are located in Quebec. If you wish to make a technical enquiry on the GST/HST related to SLFIs by telephone, please call 1-855-666-5166.
+
+## Table of Contents
+
+- [Insurance policy](#_Toc393700963)
+
+- [Financial instrument and financial services](#_Toc393700964)
+
+- [Insurance agents and brokers](#_Toc393700965)
+
+- [Life and health insurance claims](#_Toc393700966)
+
+- [Property insurance claims](#_Toc393700967)
+
+    - [Services of insurance adjusters and appraisal services](#_Toc393700968)
+
+- [Settling a property insurance claim](#_Toc393700969)
+
+    - [Cash settlements](#_Toc393700970)
+
+    - [Repairs and replacements](#_Toc393700971)
+
+- [Property acquired by insurers on settlement of claim](#_Toc393700972)
+
+    - [Supply of property by insurer](#_Toc393700973)
+
+    - [Personal property appropriated for insurer’s own use](#_Toc393700974)
+
+    - [Sale of personal property by insurer](#_Toc393700975)
+
+    - [Lease of personal property by insurer](#_Toc393700976)
+
+    - [Real property](#_Toc393700977)
+
+- [Treatment of legal costs](#_Toc393700978)
+
+- [Performance bonds in respect of a construction contract](#_Toc393700979)
+
+    - [Carrying on construction by a surety](#_Toc393700980)
+
+    - [Taxable supply of construction by a surety](#_Toc393700981)
+
+    - [Limit on ITCs related to direct inputs](#_Toc393700982)
+
+- [Appendix – Meaning of “financial service”](#_Toc393700983)
+
+## Insurance policy
+
+1. Insurance claims arise under insurance policies, such as accident and sickness, life or property and casualty policies. For GST/HST purposes, an “insurance policy” is defined in subsection 123(1)[Footnote1](#fn1) as:
+
+1. a policy or contract of insurance (other than certain warranties – see the box below) that is issued by an insurer, including
+
+    1. a policy of reinsurance issued by an insurer,
+
+    2. an annuity contract issued by an insurer or a contract issued by an insurer that would be an annuity contract except that the payments under the contract
+
+          1. are payable on a periodic basis at intervals that are longer or shorter than one year, or
+
+          2. vary in amount depending on the value of a specified group of assets or on changes in interest rates, and
+
+    3. a contract issued by an insurer all or part of the insurer’s reserves for which vary in amount depending on the value of a specified group of assets,
+
+2. a policy or contract in the nature of accident and sickness insurance, whether the policy is issued, or the contract is entered into, by an insurer, and
+
+3. a bid, performance, maintenance or payment bond issued in respect of a construction contract.
+
+Under the GST/HST, “insurance policy” excludes a warranty in respect of the quality, fitness or performance of tangible property where the warranty is supplied to a person who acquires the property otherwise than for resale (e.g., for personal use) whether or not it is provided by an insurer.
+
+2. Additional information about insurance policies is available in [GST/HST Memorandum 17.1, Definition of “Financial Instrument”](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-1.html). More information about performance bonds in respect of a construction contract is provided starting at paragraph 57 of this memorandum.
+
+3. An “insurer” is defined in subsection 123(1) to mean a person who is licensed or otherwise authorized under the laws of Canada or a province to carry on in Canada an insurance business or under the laws of another jurisdiction to carry on in that other jurisdiction an insurance business. An insurer or any other person whose principal business is providing insurance under insurance policies is a financial institution under subparagraph 149(1)(a)(v).
+
+## Financial instrument and financial services
+
+4. An “insurance policy” is included in paragraph (c) of the definition of financial instrument in subsection 123(1). As a result, certain paragraphs under the definition of financial service that refer to financial instruments apply in respect of insurance policies.
+
+5. A “financial service” as defined in subsection 123(1) means anything that is described in any of paragraphs (a) to (m) and that is not excluded by any of paragraphs (n) to (t) of that definition. The appendix to this memorandum provides the complete definition of financial service.
+
+6. Paragraphs (f.1), (j) and (j.1) of the definition of financial service are particularly relevant to the application of the GST/HST to claims under insurance policies:
+
+- paragraph (f.1) refers to the payment or receipt of an amount in full or partial satisfaction of a claim arising under an insurance policy;
+
+- paragraphs (j) and (j.1) refer to certain services relating to the settlement of claims arising from property damage or property loss. Paragraphs (j) and (j.1) are explained in paragraphs 13 and 14 of this memorandum.
+
+Even if an activity related to an insurance claim is described by any of paragraphs (f.1), (j) or (j.1), it is not a financial service if it is described by any of paragraphs (n) to (t) of the definition of financial service. For example, the activity may be excluded from that definition by paragraphs (r), (r.4) or (t), which are described in the appendix to this memorandum.
+
+7. Supplies of financial services are exempt under section 1 of Part VII of Schedule V, unless they are zero-rated under Part IX of Schedule VI. Certain financial services related to an insurance policy provided by an insurer are zero-rated under section 2 of Part IX of Schedule VI. This section generally deals with insurance related to non-resident individuals or to real property or risks situated outside Canada. This memorandum deals with the settlement of insurance claims related to insurance policies covering individuals resident in Canada or real property or risks situated in Canada. In other words, this memorandum deals with exempt rather than zero-rated supplies of insurance.
+
+## Insurance agents and brokers
+
+8. Insurance agents and brokers may be involved in the settlement of insurance claims. For information on the application of the GST/HST to insurance agents and brokers, refer to [GST/HST Memorandum 17.9, Insurance Agents and Brokers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-9.html).
+
+## Life and health insurance claims
+
+9. Under life and health insurance policies, the settlement of a claim is usually limited to the payment of financial benefits such as death benefits, annuity benefits, accident and sickness benefits and disability and income replacement payments. These payments that are made by the insurer in full or partial satisfaction of an insurance claim arising under an insurance policy are included in paragraph (f.1) of the definition of financial service and are not excluded from that definition by any of paragraphs (n) to (t). These payments are exempt supplies of financial services.
+
+10. There may also be taxable services involved in settling an insurance claim. For example, adjustment services related to a claim under an accident and sickness or a life insurance policy are not included in paragraph (j) of the definition of financial service. [Refer to paragraph 13 of this memorandum for information on paragraph (j) of the definition of financial service].
+
+## Property insurance claims
+
+11. Contracts or policies of insurance covering property damage or property loss contain provisions under which the insurer agrees to indemnify the insured person for damage to or loss of property. Generally, insurers can settle claims arising under insurance policies covering property damage or property loss by:
+
+- making a cash settlement with the insured person,
+
+- paying the cost of repairing the property, or
+
+- paying the cost of replacing the property.
+
+### Services of insurance adjusters and appraisal services
+
+12. The insurer must determine the amount of loss that has occurred in order to settle a claim under a property insurance policy. Some services related to determining the amount of loss under a property insurance policy may be exempt, if they are included in any of paragraphs (a) to (m) of the definition of financial service and are not excluded from that definition by any of paragraphs (n) to (t). The particular paragraphs of that definition that may apply to exempt the services that relate to determining the amount of the loss are paragraphs (j) and (j.1).
+
+#### Services of insurance adjusters
+
+13. Paragraph (j) of the definition of financial service refers to the service of investigating and recommending the compensation in satisfaction of a claim where:
+
+1. the claim is made under a marine insurance policy, or
+
+2. the claim is made under an insurance policy that is not in the nature of accident and sickness or life insurance and
+
+    1. the service is supplied by an insurer or by a person who is licensed under the laws of a province to provide such a service, or
+
+    2. the service is supplied to an insurer or a group of insurers by a person who would be required to be so licensed but for the fact that the person is relieved from that requirement under the laws of a province.
+
+#### Appraisal services
+
+14. Paragraph (j.1) of the definition of financial service refers to the service of providing an insurer or a person who supplies a service referred to in paragraph (j) with an appraisal of the damage caused to property, or in the case of a loss of property, the value of the property, where the supplier of the appraisal inspects the property, or in the case of a loss of the property, the last-known place where the property was situated before the loss. Where the appraisal service meets these conditions and is not excluded from the definition of financial service by any of paragraphs (n) to (t), the appraisal service is an exempt financial service. For example, if the service is a professional service provided by an accountant, actuary, lawyer or notary in the course of a professional practice, it is excluded from the definition of financial service by paragraph (r) and, therefore, would be subject to tax.
+
+The insurance company Insurer Co entered into a contract with an insurance adjuster (Adjuster Co). Under the terms of the contract, Adjuster Co investigated and recommended to Insurer Co the compensation in respect of a property damage claim under a property insurance policy resulting from a fire at an Ontario business location. Adjuster Co is licensed by the province of Ontario to provide this service. Adjuster Co entered into a contract with an appraisal firm (Appraiser Co). Under that contract, Appraiser Co agreed to provide an appraisal of the damage caused to the property. To provide the appraisal, Appraiser Co inspected the damaged property and prepared an estimate of the damage to the building, equipment and inventory.
+
+The service supplied by Adjuster Co to Insurer Co is included in paragraph (j) of the definition of financial service and is not excluded from that definition by any of paragraphs (n) to (t). Therefore, the service supplied by Adjuster Co is exempt since:
+
+- the service Adjuster Co provided is the service of investigating and recommending the compensation in satisfaction of a claim under an insurance policy that is not in the nature of accident and sickness or life insurance, and
+
+- the service is provided by a person who is licensed under the laws of a province to provide that service.
+
+The service supplied by Appraiser Co to Adjuster Co is included in paragraph (j.1) of the definition of financial service and is not excluded from that definition by any of paragraphs (n) to (t). Therefore, the supply of Appraiser Co’s service is exempt since Appraiser Co inspected the damaged property and provided an appraisal of the damage to the property to a provincially licensed adjuster who acquired the appraisal as part of the process of investigating and recommending the compensation in satisfying a property insurance claim.
+
+##### Example 2
+
+An airplane is insured under a property insurance policy issued by Insurer Co, located in Ontario. The airplane was damaged while it was in the Yukon Territory and a claim was made under the insurance policy. In determining the compensation to settle the claim, Insurer Co entered into a contract with Appraiser Co, a GST/HST-registered appraisal company that is located in Ontario for an appraisal of the damage to the property. Appraiser Co subcontracted with another GST/HST-registered appraisal company (Appraiser2 Co) that is closer to the physical location of the airplane to inspect the property and appraise the damage.
+
+The appraisal service provided by Appraiser2 Co to Appraiser Co is not included in paragraph (j.1) of the definition of financial service since Appraiser2 Co did not supply the appraisal service to an insurer or to a provincially licensed insurance adjuster. Consequently, the supply of the appraisal service by Appraiser2 Co to Appraiser Co is taxable.
+
+The appraisal service provided by Appraiser Co to Insurer Co is not included in paragraph (j.1) of the definition of financial service since Appraiser Co (which is the supplier of the appraisal services to Insurer Co) did not itself inspect the damaged property. Consequently, the supply of the appraisal service from Appraiser Co to Insurer Co is taxable.
+
+##### Example 3
+
+An insured residential property suffered damage in a wind storm. The property owner made a claim under the insurance policy issued by her insurer, Insurer Co, that contracted with a restoration company (Restore Co) to obtain an estimate to repair the property. Employees from Restore Co visited the property and prepared a detailed estimate of how much it would cost to repair the property. The estimate set out the work to be undertaken to repair the property and included related costs for materials and labour. Restore Co charged a fee for the service of providing the estimate.
+
+Restore Co’s service of providing the estimate to Insurer Co is included in the definition of financial service under paragraph (j.1) and is not excluded from that definition by any of paragraphs (n) to (t). Therefore, the service provided by Restore Co to Insurer Co is exempt since Restore Co inspected the property and provided the appraisal to an insurer.
+
+##### Example 4
+
+The insurance company Insurer Co contracted with GST/HST-registered company X Co to appraise the value of business property situated in Canada. Insurer Co was seeking the appraisal to determine how much insurance would be required to insure the property adequately.
+
+The service supplied by X Co to Insurer Co is not included in paragraph (j.1) of the definition of financial service since it is not an appraisal of damage or loss. Consequently, the supply by X Co to Insurer Co is taxable.
+
+##### Example 5
+
+A damaged vehicle was towed to Car Repair Co. The insurer of the vehicle, Insurer Co, asked Car Repair Co to inspect the vehicle, itemize the damage and estimate the cost of repairing the vehicle. Insurer Co used the estimate to determine if the vehicle was repairable or if it was a total loss. Car Repair Co charged Insurer Co a fee for the service of providing the estimate.
+
+Car Repair Co’s service of providing the estimate to Insurer Co is included in the definition of financial service in paragraph (j.1) and is not excluded from that definition by any of paragraphs (n) to (t). Therefore, the supply of the appraisal service by Car Repair Co to Insurer Co is exempt since Car Repair Co inspected the property and provided the appraisal to an insurer.
+
+##### Example 6
+
+Adjuster Co, an insurance adjuster that is licenced under the laws of a province to investigate and recommend the compensation in satisfaction of insurance claims, asked GST/HST-registered professional accounting firm Accountants LLP to appraise the value of the remaining inventory in a vehicle-parts business located in Canada that had been damaged by fire. Adjuster Co required this information to recommend the compensation in satisfaction of a property insurance claim. Accountants LLP visited the site of the damaged property and prepared an appraisal of the remaining inventory in the course of their professional practice.
+
+Adjuster Co acquired this inventory appraisal to recommend the compensation in satisfaction of a property insurance claim, and the damaged property was inspected. Although the service provided by Accountants LLP is included in paragraph (j.1) of the definition of financial service, it is excluded from the definition of financial service by paragraph (r) because it was provided by an accountant in the course of a professional practice. Therefore, the supply by Accountants LLP to Adjuster Co is taxable.
+
+## Settling a property insurance claim
+
+15. As noted in paragraph 11 of this memorandum, insurers can settle claims arising under insurance policies covering property damage or property loss by:
+
+- making a cash settlement with the insured person,
+
+- paying the cost of repairing the property, or
+
+- paying the cost of replacing the property.
+
+### Cash settlements
+
+16. If an insurer makes a cash settlement to an insured under the terms of an insurance policy, the payment is included in paragraph (f.1) of the definition of financial service and is not excluded from that definition by any of paragraphs (n) to (t). This payment is an exempt supply of a financial service.
+
+### Repairs and replacements
+
+17. An insurer may settle a property insurance claim under the terms of a policy by repairing or replacing the damaged property. Where the insurer acquires repair services or replacement property directly, the insurer is legally liable to pay the consideration and GST/HST for these services or property. The insurer is not entitled to claim an input tax credit (ITC) for the GST/HST paid or payable in these circumstances since the insurer is not acquiring the services or property for consumption, use or supply in the course of a commercial activity. For more information on ITCs for insurers, refer to the following GST/HST Memoranda: [8-1, General Eligibility Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1.html), [17-11, Determining Whether a Financial Institution is a Qualifying Institution for Purposes of Section 141.02](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-11.html), [17-12, Input Tax Credit Allocation Methods for Financial Institutions for Purposes of Section 141.02](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-12.html), and [17-13, Application of Section 141.02 to Financial Institutions That Are Qualifying Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-13.html).
+
+18. If the insured person, instead of the insurer, acquires the repair services or replacement property directly, then the insured person is legally liable to pay the consideration and GST/HST for the services or property. The insured person, if a GST/HST registrant, may be eligible to claim an ITC provided it is acquiring the services or property for consumption, use or supply in their commercial activities and all other conditions for claiming an ITC are met. Some insured persons, such as public service bodies, may be eligible to claim a rebate in respect of the GST/HST paid or payable on the acquisition of the services or property. Where the insured person can claim an ITC or a rebate, the insurer may use the net-of-GST/HST method to compensate the insured person for the cost of repairing or replacing the property.
+
+#### Net-of-GST/HST method
+
+19. Under the principle of indemnity, an insurer is required to pay an insurance claim to the extent of the actual loss suffered by the insured person in accordance with the terms of the insurance policy. The net-of-GST/HST method adheres to the principle of indemnity in the settlement of insurance claims under the GST/HST. If the insurer uses the net-of-GST/HST method, the amount paid by the insurer to settle the insurance claim generally does not include that part of the GST/HST that the insured person is entitled to claim as an ITC or rebate, i.e., the settlement amount is net-of-GST/HST.
+
+20. To the extent that an insured person is not eligible to claim an ITC or a rebate, the amount paid by the insurer to the insured person to settle the claim according to the terms of the insurance policy generally includes the amount of GST/HST that the insured person was not entitled to claim as an ITC or rebate.
+
+In this memorandum, including all the examples, it is assumed that the settlement of the claim is carried out in accordance with the terms of the respective insurance policy.
+
+##### Insured eligible for ITCs and rebates
+
+21. For the insured person to be entitled to claim an ITC in respect of the GST/HST paid or payable on the acquisition of services or property, all requirements for claiming an ITC must be met, including the requirements that the insured person be a GST/HST registrant, that the property be for consumption, use or supply in the course of the insured person’s commercial activities and that it is the insured person who is required to pay the GST/HST on the acquisition (i.e., the invoice names the insured person as the purchaser who is legally liable to pay the consideration and GST/HST for the supply). For further information on eligibility for ITCs, refer to [Chapter 8 of the Memoranda Series](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst/gst-hst-memoranda-series.html).
+
+22. Where an ITC is not available, the insured person may be entitled to claim a rebate of the GST/HST paid in respect of the acquisition of services or property. For example, an insured person that is a public service body may be entitled, under section 259, to claim a public service bodies’ rebate (PSB rebate) of a percentage of the GST or the federal part of the HST. Certain public service bodies who are resident in a participating province may also be eligible for a PSB rebate of the provincial part of the HST. A public service body does not need to be a GST/HST registrant to claim a PSB rebate. This rebate is not available if the repair service or replacement property relates to a prescribed service or property. For more information on the PSB rebate, refer to [Guide RC4034, GST/HST Public Service Bodies’ Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+Corporation A is a GST/HST registrant located in Ontario. It has an auto insurance policy with Insurer Co, which includes a deductible clause of $1,000. In a recent fire, Corporation A’s passenger vehicle, which it used exclusively in its commercial activities, was severely damaged. Upon the approval of Insurer Co, Corporation A purchased a replacement vehicle from a car dealership (Y Co). The invoice made out by Y Co contained all the information required to permit Corporation A to claim an ITC. The invoice indicated the price of the new vehicle as follows:
+
+Y Co sent the invoice to Corporation A. Corporation A forwarded a copy of the invoice to Insurer Co.
+
+Insurer Co paid Y Co $20,000 based on the following calculation:
+
+The payment by Insurer Co made in satisfaction of a claim arising under an insurance policy is included in paragraph (f.1) of the definition of financial service and it is not excluded from that definition by any of paragraphs (n) to (t). Consequently, the payment is an exempt supply of a financial service.
+
+As the purchaser who was legally liable to pay the consideration and the HST for the replacement vehicle, Corporation A paid Y Co $3,730 ($2,730 + $1,000) and claimed an ITC of $2,730.
+
+###### Example 8
+
+Company A is a GST/HST registrant located in Saskatchewan that uses its real property, an office building, 50% in commercial activity and 50% in exempt activities. Company A has a property insurance policy with an insurer (Insurer Co), which includes a deductible clause of $1,000. The building was damaged in a storm. Pursuant to instructions provided by Insurer Co, Company A hired a general contractor to carry out repairs to the property. Repairs to the building, which were not improvements to the real property, totalled $10,000. As the purchaser who was legally liable to pay the consideration and GST/HST for the repair services, Company A was entitled to claim an ITC for the repair services based on the percentage of the repair cost attributable to its commercial activities, which was determined to be 50%. The general contractor’s invoice, which contained all the information required to permit Company A to claim an ITC, showed the following information about the repair costs:
+
+The general contractor sent the invoice to Company A, who sent a copy of the invoice to Insurer Co.
+
+Insurer Co paid the general contractor $9,250 based on the following calculation:
+
+The payment by Insurer Co made in satisfaction of a claim arising under an insurance policy is included in paragraph (f.1) of the definition of financial service and it is not excluded from that definition by any of paragraphs (n) to (t). Consequently, the payment is an exempt supply of a financial service.
+
+As the purchaser who was legally liable to pay the consideration and the GST for the repair services, Company A paid the general contractor $1,250 ($250 + $1,000) and claimed an ITC of $250.
+
+###### Example 9
+
+A municipality located in Alberta is a GST/HST registrant. The municipality’s equipment is insured with Insurer Co, and the insurance policy includes a deductible clause of $1,000. A dump truck that the municipality uses 30% in commercial activities and 70% in exempt activities was damaged in an accident. Pursuant to instructions provided by Insurer Co, the municipality hired a repair company to carry out repairs. The invoice from the repair company named the municipality as the purchaser who was legally liable to pay the consideration and the GST for the repair services. The invoice contained all the information required to allow the municipality to claim an ITC. As a municipality, the insured person is entitled to claim a 100% PSB rebate of the GST payable by the insured person on the repair services for which it cannot claim an ITC. The invoice included the following information about costs for the repair services:
+
+The repair company sent the invoice to the municipality, who forwarded a copy of the invoice to Insurer Co.
+
+Insurer Co paid the repair company $19,000 based on the following calculation:
+
+The payment by Insurer Co is made in satisfaction of a claim arising under an insurance policy and is included in paragraph (f.1) of the definition of financial service and it is not excluded from that definition by any of paragraphs (n) to (t). Consequently, the payment is an exempt supply of a financial service.
+
+As the purchaser who was legally liable to pay the consideration and the GST for the repair services, the municipality paid the repair company $2,000 ($1,000 + $1,000) and claimed an ITC of $300 and a PSB rebate of $700.
+
+##### Insured not eligible for ITCs or rebate
+
+23. Where an insured person is not eligible to claim an ITC or a rebate, the amount paid by the insurer to settle the insurance claim under the terms of the insurance policy generally includes an amount in respect of the GST/HST portion of the repair service or replacement property.
+
+Mrs. K, who resides in Nova Scotia, has a shed in her backyard which is 100% for her personal use. She is not a GST/HST registrant. It was damaged recently. The premises are insured with Insurer Co, and the policy includes a deductible clause of $500. Pursuant to instructions provided by Insurer Co, Mrs. K hired a repair company to carry out repairs to the shed. The invoice from the repair company showed Mrs. K as the purchaser who was legally liable to pay the consideration and the HST for the repair services, and included the following information about costs:
+
+The repair company sent the invoice to Mrs. K, and a copy to Insurer Co.
+
+Insurer Co paid the repair company $5,250 based on the following calculation:
+
+The payment by Insurer Co made in satisfaction of a claim arising under an insurance policy is included in paragraph (f.1) of the definition of financial service and it is not excluded from that definition by any of paragraphs (n) to (t). Consequently, the payment is an exempt supply of a financial service.
+
+As the purchaser of the supply of the repair services, Mrs. K paid the repair company $500.
+
+#### Property repairs made by an insured
+
+24. Where an insured person performs their own repairs related to a claim under a property insurance policy and, under the terms of the policy, the insurer settles the claim by paying the insured person for the cost of the repairs, the payment is included in paragraph (f.1) of the definition of financial service and it is not excluded from that definition by any of paragraphs (n) to (t). Consequently, the payment is an exempt supply of a financial service.
+
+A municipality located in Prince Edward Island is a GST/HST registrant. It assigned one of its own work crews to repair storm damage to a garage that is used exclusively in an exempt activity (i.e., the maintenance of the municipality’s police vehicles). The municipality’s garage is insured by Insurer Co, and the policy includes a deductible clause of $2,000. Since municipal employees repaired the garage, the municipality did not pay HST on its labour costs. The municipality is able to claim a 100% PSB rebate for the federal part of the HST paid or payable by the municipality on materials used in the repairs. As it is resident only in Prince Edward Island, the municipality cannot claim a PSB rebate of the provincial part of the HST.
+
+The municipality totalled its costs of repairing the garage as follows:
+
+The municipality submitted its claim to Insurer Co, who paid the municipality $16,080 based on the following calculation:
+
+The payment by Insurer Co made in satisfaction of a claim arising under an insurance policy is included in paragraph (f.1) of the definition of financial service and it is not excluded from that definition by any of paragraphs (n) to (t). Consequently, the payment is an exempt supply of a financial service.
+
+As the purchaser who was legally liable to pay the consideration and the HST for the materials, the municipality paid $13,680 for the materials and claimed a PSB rebate of $600 in respect of the federal part of the GST/HST on the materials.
+
+#### Leased vehicles and net-of-GST/HST method
+
+25. The concept of net-of-GST/HST applies in a similar manner to lease situations. Where the lease involves a vehicle, the lease document usually indicates whether the lessor or the lessee is responsible for repairs to the leased vehicle. If the lessee is responsible for repairs and contracts with the repair company for the repair services, the lessee is the person liable to pay the consideration for the repair services under the agreement for these services.
+
+26. A lessee who is a GST/HST registrant is eligible to claim an ITC for the GST/HST paid or payable on repair services for a leased vehicle covered by an insurance policy if
+
+- the lessee is the purchaser who is legally liable to pay the consideration and the GST/HST for the repairs,
+
+- the vehicle is used in their commercial activities, and
+
+- all other conditions for claiming an ITC are met.
+
+27. A lessor is not eligible to claim an ITC for the GST/HST paid or payable on repair services for a leased vehicle covered by an insurance policy if the lessor is not the person who is liable to pay the consideration for the repair services. In this case, the lessor cannot claim an ITC in respect of these repair services even if the supplier of the repair services includes the lessor’s name on the invoice and even if the lessor pays the GST/HST in respect of the repair services. Furthermore, the fact that the lessor is included as a named/additional insured under the insurance policy acquired by the lessee is not relevant to determining the liability for the payment of the repair services.
+
+28. A lessor who is a GST/HST registrant is eligible to claim an ITC for the GST/HST paid or payable on repair services for a leased vehicle covered by an insurance policy if the lessor is liable to pay the consideration for the repair services, the vehicle is used in their commercial activities and all other conditions for claiming an ITC are met.
+
+Restaurant Co is a GST/HST registrant that operates a restaurant located in Ontario. It leases a vehicle that it uses exclusively to deliver food to its customers. The lease agreement between the lessor and Restaurant Co (the lessee) requires Restaurant Co to acquire an insurance policy for the vehicle that identifies the lessor as the named/additional insured. Under the terms of the lease agreement, Restaurant Co is responsible for all vehicle maintenance and body damage beyond normal wear and tear. The agreement also shows that the title to the vehicle and any parts replaced during repairs remain vested with the lessor. Restaurant Co obtained the required insurance for the vehicle from Insurer Co, and the policy includes a deductible clause of $1,000.
+
+While being used to deliver food for Restaurant Co, the vehicle slid on a slippery road and crashed into a post. Pursuant to instructions from Insurer Co, Restaurant Co contracted with a repair company for repair services. The invoice issued for the repair services identified Restaurant Co as the purchaser who is legally liable to pay the consideration and the HST for the repair services. The invoice also contained all the information required to permit Restaurant Co to claim an ITC for the repair services. The invoice included the following information about costs:
+
+The repair company sent the invoice to Restaurant Co, who forwarded a copy to Insurer Co.
+
+Insurer Co paid the repair company $4,000 based on the following calculation:
+
+The payment by Insurer Co made in satisfaction of a claim arising under an insurance policy is included in paragraph (f.1) of the definition of financial service and it is not excluded from that definition by any of paragraphs (n) to (t). Consequently, the payment is an exempt supply of a financial service.
+
+As the purchaser who was legally liable to pay the consideration and the HST for the repair services, Restaurant Co paid the repair company $1,650 ($650 + $1,000) and claimed an ITC of $650.
+
+## Property acquired by insurers on settlement of claim
+
+29. Property may be transferred from an insured to an insurer in the course of settling a claim arising under a property insurance policy. Such a situation can occur, for example, where a vehicle has been so damaged that it is considered a write-off. The insurer pays an amount to the insured person to settle the claim in accordance with the terms of the insurance policy, and ownership of the damaged vehicle is transferred to the insurer. Proceeds from disposing of the damaged vehicle that is now owned by the insurer are paid to the insurer.
+
+30. Under subsection 184(1), where property of a person is transferred to an insurer in the course of settling an insurance claim, the person is deemed to have made, and the insurer is deemed to have received, at that time, a supply by way of sale of the property. Where the property is personal property, the supply is generally deemed to have been made for no consideration. Where the property is real property, subsection 184(1) has specific provisions that relate to the tax status of the supply and the calculation of the GST/HST payable. This is further explained in paragraph 50 of this memorandum.
+
+A repair company made repairs to the motor of a truck that is owned by Mr. J. However, the motor seized the second time Mr. J tried to start it. He returned it to the repair company, who investigated the issue. It determined that it had been negligent in its repairs and that the truck was a write-off. Insurer Co, the repair company’s insurer, negotiated a settlement with Mr. J. As part of settling the insurance claim, the truck was transferred by Mr. J to Insurer Co for salvage. Under subsection 184(1), the supply of the truck by Mr. J to Insurer Co in the course of settling the insurance claim is deemed to be a supply by way of sale of the truck, which is deemed to have been made for no consideration.
+
+31. Under the provisions of section 1 of Part IX of Schedule IX, where a supply of property is deemed at a particular time to have been made under subsection 184(1), the supply is deemed to have been made where the property is situated at that time (i.e., where the property is situated in a particular province at the time it is transferred to the insurer, the supply to the insurer is deemed to be made in that province).
+
+### Supply of property by insurer
+
+32. Subsection 184(2) provides that if an insurer makes a supply of property (other than an exempt supply) that had been transferred to it in the course of settling an insurance claim, the insurer is deemed to have made the supply in the course of its commercial activities, unless the insurer had previously appropriated the property for its own use. The deeming rules that apply when an insurer appropriates personal property for its own use are explained in paragraph 33 of this memorandum. The deeming rules that apply when an insurer appropriates real property for its own use are explained in paragraph 52 of this memorandum. Subsection 184(2) also provides that anything done by the insurer in the course of, or in connection with, the making of the supply and not in connection with the transfer of the property to the insurer is deemed to have been done in the course of the insurer’s commercial activity. Further, the insurer is required to account for the GST/HST on its taxable sale of the property in its net tax calculation.
+
+A vehicle insured by Insurer Co was in an accident in Manitoba, and Insurer Co had the vehicle towed from the accident site to a garage. The vehicle was declared to be a write-off by Insurer Co and is transferred to Insurer Co in the course of settling the insurance claim. This transfer of the vehicle from the owner to Insurer Co is deemed under the provisions of subsection 184(1) to be a sale made for no consideration. The towing service acquired by Insurer Co is in relation to the transfer of the vehicle from the owner to Insurer Co. As a result, subsection 184(2) does not apply to the acquisition of the towing service and no ITC is available to Insurer Co for the GST paid for the towing service.
+
+Insurer Co also incurred some expenses in relation to selling the vehicle. Under the provisions of subsection 184(2), Insurer Co’s sale of the vehicle is deemed to be done in the course of Insurer Co’s commercial activity. Therefore, Insurer Co is required to account for the GST on the taxable sale of the vehicle in its net tax calculation and may be eligible to claim ITCs on the expenses it incurred in relation to selling the vehicle.
+
+### Personal property appropriated for insurer’s own use
+
+33. Where personal property is transferred to an insurer in the course of settling an insurance claim, and the insurer appropriates the property for its own use, the insurer is generally required to self-assess the GST/HST on the property. Different rules apply depending on whether the property is real property or personal property. (For the deeming rules that apply to appropriations of real property, refer to paragraph 53 of this memorandum.)
+
+34. Where personal property has been transferred to an insurer after 1993 in the course of settling an insurance claim [i.e., in circumstances in which subsection 184(1) applies], and the insurer begins to use the property otherwise than in making a supply of the property, the insurer is deemed under paragraph 184(5)(a) to have received a supply by way of sale of the property immediately after that time. The insurer is also deemed to have paid the GST/HST payable in respect of that supply with certain exceptions (refer to paragraph 36 of this memorandum for the exceptions) and that deemed GST/HST payable is based on the fair market value of the property at the time the property was transferred to the insurer (refer to paragraph 38 for the formula used to calculate the amount of the deemed GST/HST). (For the treatment of personal property transferred to an insurer before 1994, please refer to the Act or contact any GST/HST rulings centre for additional information.)
+
+35. Where the GST/HST would have been payable had the property been purchased by the insurer from the transferor in Canada at the time it was transferred (e.g., the transferor was a GST/HST registrant and had used the property in commercial activity), the insurer is also deemed under paragraph 184(5)(b) to have made a taxable supply of the property at that time and to have collected the GST/HST equal to an amount determined by a formula (refer to paragraph 39 for the formula). The effect of subsection 184(5) for an insurer who is deemed to have paid the GST/HST in respect of the supply and is deemed to have made a taxable supply and collected the GST/HST is to allow the insurer to claim an ITC to the extent that the insurer uses the property in its commercial activity and to require the insurer to remit the GST/HST on the deemed supply.
+
+#### Exclusions
+
+36. As noted above, where an insurer appropriates personal property for its own use that had been transferred to it in the course of settling an insurance claim, the insurer is generally deemed to have received a supply by way of sale of the property at that time and to have paid GST/HST on the deemed supply. However, under the provisions of subparagraph 184(5)(a)(ii), the insurer is not deemed to have paid GST/HST on the deemed supply where the supply is
+
+1. a zero-rated supply, or
+
+2. a supply of property that was, at the time it was transferred, specified tangible personal property having a fair market value in excess of the prescribed amount for the property (see the paragraph that follows) and the GST/HST would not have been payable had the property been purchased in Canada from the transferor at that time.
+
+37. The types of property that are classed as specified tangible personal property under the *Specified Tangible Personal Property (GST/HST) Regulations* and the prescribed amounts that apply to determine if the insurer is deemed to have paid the GST/HST on a supply of the property are:
+
+- where the property is a print, an etching, a drawing, a painting, a sculpture or other similar work of art, $2,000;
+
+- where the property is jewellery, $2,000;
+
+- where the property is a rare folio, a rare manuscript or a rare book, $2,000;
+
+- where the property is a stamp, the face value of the stamp; and
+
+- where the property is a coin, zero.
+
+This means that the insurer is not deemed under the provisions of subsection 184(5) to have paid the GST/HST in respect of the deemed self-supply where:
+
+- the property appropriated by the insurer is one of these specified types of property;
+
+- its fair market value at the time it was transferred exceeds the prescribed amount for the property; and
+
+- no GST/HST would have been payable by the insurer had it purchased the property from the transferor in Canada at the time it was transferred (i.e., generally if the transferor was not a GST/HST registrant).
+
+38. For properties that are not excluded under subparagraph 184(5)(a)(ii), that is, any property appropriated by the insurer that is not a zero-rated supply or certain specified tangible personal property as discussed above, the GST/HST deemed to be paid is equal to:
+
+(A/B) × C
+
+where
+
+A is
+
+- the GST rate if the property is situated in a non-participating province at the time the insurer begins to use the property (the particular time);**Note**: *This GST rate is also used if the property is situated in a participating province at the particular time if the property was transferred to the insurer before the day that is three years after the harmonization date for that province and the GST/HST would not have been payable had the property been purchased in Canada from the person at the time it was transferred.*and
+
+- in any other case, the HST rate that applies for the participating province in which the property is situated at the particular time;
+
+B is the total of 100% and the percentage determined for A; and
+
+C is the fair market value of the property at the time it was transferred.
+
+39. As noted in paragraph 35 of this memorandum, under the provisions of paragraph 184(5)(b), if the GST/HST would have been payable had the property been purchased in Canada from the transferor at the time it was transferred, the insurer is also deemed to have made a taxable supply of the property and to have collected the GST/HST payable in respect of the supply at the particular time, which is equal to the amount determined by the following formula:
+
+(A/B) × C
+
+where
+
+A is
+
+- the HST rate that applies for the participating province if the property is situated in a participating province at the time the insurer begins to use the property;and
+
+- in any other case, the GST rate that applies for non-participating provinces;
+
+B is the total of 100% and the percentage determined for A; and
+
+C is the fair market value of the property at the time it was transferred.
+
+### Sale of personal property by insurer
+
+40. In general terms, subsection 184(6) indicates that if an insurer sells personal property that has been transferred to the insurer in the course of settling an insurance claim, the insurer is deemed under certain circumstances (see the paragraph that follows) to have received a supply of the property and to have paid the GST/HST immediately before the insurer sells it (see paragraph 44 of this memorandum for the formula). This generally allows the insurer to claim an ITC. Further, the insurer is required to account for the GST/HST on its taxable sale of the property in its net tax calculation.
+
+41. Subsection 184(6) applies where an insurer sells personal property that was previously transferred to the insurer in the course of settling an insurance claim (i.e., in circumstances in which subsection 184(1) applies) and the following conditions are satisfied:
+
+- the supply by the insurer is a taxable supply made by way of sale (other than a deemed supply for GST/HST purposes),
+
+- the insurer has not previously appropriated the personal property for its own use,
+
+- the insurer has not previously supplied the property by way of lease, licence or similar arrangement,
+
+- no GST/HST would have been payable by the insurer had the insurer purchased the property from the transferor in Canada at the time it was transferred (i.e., the transferor was not a GST/HST registrant), and
+
+- the exclusions in paragraph 184(6)(a) and (b) do not apply (see the next paragraph).
+
+#### Exclusions
+
+42. A sale of personal property is excluded from the deeming provisions under paragraphs 184(6)(a) and (b) if
+
+1. the sale is made outside Canada or is a zero-rated sale; and
+
+2. the property was transferred to the insurer before 1994 or, at the time of the transfer, it was specified tangible personal property having a fair market value in excess of the prescribed amount for the property (specified tangible personal property is explained at paragraph 37 of this memorandum). (For the treatment of personal property transferred to an insurer before 1994, please refer to the Act or contact any GST/HST rulings centre for more information.)
+
+43. Where the conditions set out in paragraph 41 of this memorandum are satisfied and the supply is not excluded as explained in paragraph 42, the insurer is deemed under paragraph 184(6)(c) to have received a supply by way of sale of the property immediately before the time of the sale by the insurer, for consideration equal to the consideration for which the insurer sells the property.
+
+44. In addition, unless the supply deemed under paragraph 184(6)(c) to have been received by the insurer is zero-rated, the insurer is deemed under paragraph 184(6)(d) to have paid, immediately before that time, the GST/HST payable in respect of the supply deemed to have been received, which is deemed to be equal to:
+
+A – B
+
+where
+
+A is
+
+1. the amount of GST calculated on the consideration for the taxable supply made by the insurer at the GST rate that applies for non-participating provinces if: either and
+
+    - the property was last held by the transferor in a participating province before being transferred to the insurer,
+
+    - the property was transferred to the insurer before the day that is three years after the harmonization date for that province, and
+
+    - the sale by the insurer is either made outside Canada or is a zero-rated supply; or
+
+    - the property was last held in a non-participating province before being transferred to the insurer, or
+
+    - the sale by the insurer is a supply (other than a zero-rated supply) made in a non-participating province,
+
+2. in any other case, the amount of HST calculated on the consideration for the taxable supply made by the insurer at the lesser of:
+
+    - the HST rate that applies for the participating province in which the particular taxable supply is made; and
+
+    - the HST rate that applies for the participating province in which the property was last held by the transferor before being transferred to the insurer;
+
+B is the total of all amounts each of which is an ITC or a rebate of the GST/HST that the insurer was entitled to claim in respect of the property or an improvement to the property.
+
+A high-end motor vehicle was totalled in an accident. The vehicle was the personal property of an individual who is not a GST/HST registrant and the vehicle was not used in commercial activities. The vehicle was covered by an insurance policy with Insurer Co. In the course of settling the insurance claim, the title to the vehicle was transferred to Insurer Co. The vehicle was located in Ontario at the time of the transfer to the insurer. The vehicle was immediately sold as salvage to a buyer located in Ontario for $22,600 ($20,000 + $2,600 HST). Under the provisions of subsection 184(2), the supply of the vehicle by Insurer Co is deemed to have been made in the course of its commercial activity.
+
+Since the conditions set out in paragraph 41 of this memorandum are satisfied and the exceptions explained in paragraph 42 of this memorandum do not apply, Insurer Co is deemed under paragraph 184(6)(c) to have bought the vehicle immediately before the time it actually sold it, for consideration equal to the consideration for which Insurer Co actually sold it (i.e., $20,000). The insurer is deemed under paragraph 184(6)(d) to have paid HST equal to the amount determined by the formula:
+
+A – B
+
+where
+
+A is $2,600
+
+B is $0.00
+
+Consequently, Insurer Co is able to claim an ITC in respect of this deemed acquisition in the amount of $2,600. Insurer Co is also required to account for the HST on its taxable sale of the vehicle in its net tax calculation.
+
+### Lease of personal property by insurer
+
+45. In general terms, subsection 184(7) indicates that if an insurer supplies personal property by way of lease, license or similar arrangement where the property has been transferred to the insurer in the course of settling an insurance claim, the insurer is deemed under certain circumstances (see paragraph 47 of this memorandum) to have received a supply of the property by way of sale and to have paid GST/HST immediately before the insurer supplies the property for the first lease interval. This generally allows the insurer to claim an ITC when it makes a taxable supply of the property.
+
+46. Subsection 184(7) applies where an insurer makes a taxable supply of personal property by way of lease, licence or similar arrangement for the first lease interval, within the meaning of subsection 136.1(1), where the property was previously transferred to the insurer in the course of settling an insurance claim [i.e., in circumstances in which subsection 184(1) applies] and the following conditions are satisfied:
+
+- the insurer has not previously appropriated the property for its own use;
+
+- no GST/HST would have been payable by the insurer had the insurer purchased the property from the transferor in Canada at the time it was transferred (i.e., generally, the transferor was not a GST/HST registrant); and
+
+- the exclusions in paragraph 184(7)(a) and (b) do not apply (refer to the next paragraph).
+
+#### Exclusions
+
+47. A supply of personal property is excluded from the deeming provisions under paragraphs 184(7)(a) and (b) if:
+
+1. the supply by way of lease, licence or similar arrangement for the first lease interval is made outside Canada or is a zero-rated supply; and
+
+2. the property was transferred to the insurer before 1994 or was, at the time of the transfer, specified tangible personal property having a fair market value in excess of the prescribed amount for the property (specified tangible personal property is explained at paragraph 37 of this memorandum).
+
+48. Where the conditions set out in paragraph 46 of this memorandum are satisfied and the supply is not excluded as explained in the paragraph above, the insurer is deemed under paragraph 184(7)(c) to have received a supply by way of sale of the property immediately before the insurer makes the supply of the property for the first lease interval, under the lease, license or similar arrangement.
+
+49. In addition, unless the supply deemed under paragraph 184(7)(c) to have been received by the insurer is zero-rated, the insurer is deemed under paragraph 184(7)(d) to have paid, immediately before that time, the GST/HST payable in respect of the deemed supply, which is deemed to be equal to:
+
+1. the amount of GST calculated on the fair market value of the property at the time it was transferred to the insurer at the GST rate that applies for the non-participating provinces if: either and
+
+    - the property was last held by the transferor in a participating province before being transferred to the insurer,
+
+    - the property was transferred to the insurer before the day that is three years after the harmonization date for that province, and
+
+    - the supply by way of lease, license or similar arrangement made by the insurer for the first lease interval is either made outside Canada or is a zero-rated supply, or
+
+    - the property was last held by the transferor in a non-participating province before being transferred to the insurer; or
+
+    - the supply by way of lease, license or similar arrangement for the first lease interval is a supply (other than a zero-rated supply) made in a non-participating province;
+
+2. in any other case, the amount of HST calculated on the fair market value of the property at the time it was transferred to the insurer at the lesser of:
+
+    - the HST rate that applies for the participating province in which the supply by way of lease, license or similar arrangement for the first lease interval is made; and
+
+    - the HST rate that applies for the participating province in which the property was last held by the transferor before being transferred to the insurer.
+
+### Real property
+
+50. As explained in paragraph 30 of this memorandum, under the provisions of subsection 184(1), where the property of a person is transferred to an insurer in the course of settling an insurance claim, the transferor is deemed to have made, and the insurer is deemed to have received, at that time, a supply by way of sale of the property. Subsection 184(1) generally deems the sale to have been made for no consideration. However, where the deemed supply of the property is a taxable supply of real property, paragraph 184(1)(c) deems that for purposes of sections 193 and 257, the GST/HST payable in respect of the transfer of the real property is equal to the GST/HST calculated on the fair market value of the real property at the time of the transfer.
+
+51. In addition, under paragraph 184(1)(d), for the purposes of sections 193 and 257, the supply is deemed to be a taxable supply and the GST/HST payable in respect of the supply is deemed to be equal to the GST/HST calculated on the fair market value of the real property at the time the property is transferred where the deemed sale of the real property would have been a supply under any of the following provisions (i.e., if the supply would have been an exempt supply under these provisions):
+
+- section 9 of Part I of Schedule V,
+
+- section 1 of Part V.1 of Schedule V, or
+
+- section 25 of Part VI of Schedule V.
+
+This means that where real property is transferred to an insurer in the course of settling an insurance claim and the person who transferred the property would have been entitled to an ITC under section 193 or a rebate under section 257 if the transferor had instead made a taxable supply by way of sale of the property, the transferor is able to claim the ITC or rebate, as the case may be.
+
+52. Subsection 184(2) applies to real property in the same manner as to personal property. As explained in paragraph 32 of this memorandum, subsection 184(2) provides that if an insurer makes a supply of property (other than an exempt supply) that had been transferred to it in the course of settling an insurance claim, the insurer is deemed to have made the supply in the course of its commercial activities, unless the insurer had previously appropriated the property for its own use. Subsection 184(2) also provides that anything done by the insurer in the course of, or in connection with, the making of the supply and not in connection with the transfer of the property to the insurer is deemed to have been done in the course of the insurer’s commercial activity.
+
+53. Under the provisions of subsection 184(3), if an insurer appropriates real property for its own use, the insurer is generally required to self-assess the GST/HST. Specifically, if an insurer to whom real property has been transferred in the course of settling an insurance claim (i.e., in circumstances in which subsection 184(1) applies), begins at any time to use the property otherwise than in the making of a supply of the real property, the insurer is deemed to have made a supply of the property at that time and, except where the supply is an exempt supply, the insurer is deemed to have collected, at that time, GST/HST equal to the amount determined by the formula
+
+(A/B) × C
+
+where
+
+A is
+
+1. if the supply is made in a participating province, the HST rate that applies for that participating province,and
+
+2. in any other case, the GST rate that applies for the non-participating provinces.
+
+B is the total of 100% and the percentage determined for A, and
+
+C is the fair market value of the real property at that time.
+
+54. The insurer is also deemed under subsection 184(3) to have acquired the real property and paid an amount of GST/HST equal to the GST/HST deemed collected by the insurer at the time the insurer begins to use the property.
+
+55. For the purposes of determining where the supply is made, under the provisions of section 1 of Part IX of Schedule IX, a supply of property that is deemed under subsection 184(3) to have been made or received at any time is made where the property is situated at that time.
+
+## Treatment of legal costs
+
+56. In the course of settling insurance claims, an insurer may incur legal costs, plus GST/HST, related to its obligation to defend the insured person in the courts or to pursue its rights under a subrogation clause. Generally, an insurer that is the recipient of such legal services is not eligible to claim ITCs for GST/HST paid or payable in respect of those services because the legal services are acquired by the insurer for use in the course of its own exempt activities. For example, under a subrogation clause the insured person’s right to sue is transferred to the insurer after it provides compensation to the insured person under the insurance policy. The insurer may seek to recover the amount it has paid to the insured person from a third party who caused the loss. In this case, an insurer who is a GST/HST registrant would not be entitled to claim ITCs in relation to these services since the services would have been acquired for use in the course of its exempt activities.
+
+## Performance bonds in respect of a construction contract
+
+57. The definition of an insurance policy in subsection 123(1) includes a performance bond issued in respect of a construction contract.
+
+58. Generally, a performance bond is used in the construction industry to guarantee the completion of an obligation under a construction contract. It is a three-party agreement between a principal, an obligee and a surety where
+
+- the principal has the responsibility to perform the obligation (i.e., provide construction services) under the construction contract and may be a general contractor or a subcontractor;
+
+- the obligee is the person to whom the obligation is owed under the contract (for example, the owner of the project or the general contractor who has subcontracted to another contractor); and
+
+- the surety is the person who issues the bond to the principal and who has the responsibility for the obligation if the principal fails to perform.
+
+59. The performance bond is issued for a specified monetary amount and it protects the obligee against the risk of the principal defaulting on the construction contract. Generally, the surety agrees that if the principal defaults (i.e., fails to fully perform the contract), the surety mitigates the obligee’s loss according to the terms of the performance bond.
+
+60. For example, where the surety remedies the default by paying sufficient funds to the principal so that the construction contract can be completed, the surety is providing a financial service because the payment is included in paragraph (f.1) of the definition of financial service and it is not excluded from that definition by any of paragraphs (n) to (t).
+
+61. If the settlement of the claim under the performance bond is achieved by the obligee engaging a new contractor to complete the construction contract, the surety’s payment according to the terms of the performance bond is made in satisfaction of a claim arising under an insurance policy and is a financial service because it is included in paragraph (f.1) of the definition of financial service and it is not excluded from that definition by any of paragraphs (n) to (t).
+
+Contractor A is a GST/HST registrant and a general contractor for the construction of an office complex in Alberta. He entered into a contract with Subcontractor B for the completion of glass and door work on the complex in the amount of $1,000,000 plus GST. The contract required Subcontractor B to purchase a performance bond identifying Contractor A as the obligee. A surety (Surety Ltd.) issued a performance bond to Subcontractor B (the principal) in the amount of $500,000. Subcontractor B commenced the work required under the contract but became insolvent and was placed into bankruptcy before Subcontractor B had completely fulfilled its obligations under the contract. An amount of $400,000 in contract funds had not yet become payable to Subcontractor B. Contractor A called on Surety Ltd. to comply with the default provisions of the performance bond. Surety Ltd. and Contractor A agreed that Contractor A would enter into a contract with Subcontractor C for the completion of the work required under the contract. Subcontractor C invoiced Contractor A for the work done to complete the contract as follows:
+
+Surety Ltd. paid Subcontractor C $300,000 based on the following calculation:
+
+The $300,000 payment by Surety Ltd. was made in satisfaction of a claim arising under an insurance policy. The payment is a financial service because it is included in paragraph (f.1) of the definition of financial service and it is not excluded from that definition by any of paragraphs (n) to (t). The supply of the financial service by Surety Ltd. is an exempt supply.
+
+Since Contractor A acquired the services from Subcontractor C for use in Contractor A’s commercial activities, it is eligible to claim an ITC of $35,000, provided all other conditions for claiming an ITC are met.
+
+### Carrying on construction by a surety
+
+62. The surety may also fulfil its obligation under a performance bond by carrying on the construction itself or hiring someone else to do so. In this case, the actions of the surety are being carried out in the course of settling an insurance claim, which is generally an exempt financial service. Therefore, the surety is generally not entitled to claim ITCs for the GST/HST it pays to the subcontractors hired to supply work and materials. However, through the application of section 184.1, the surety may be deemed to be making taxable supplies to the obligee and be eligible to claim ITCs on certain inputs.
+
+63. Section 184.1 applies where a person acting as a surety under a performance bond in respect of a contract for a taxable supply of construction services relating to real property situated in Canada carries on the construction in full or partial satisfaction of the surety’s obligations under the bond. Section 184.1 applies to all such sureties, regardless of whether the surety is licensed as a surety.
+
+64. Subsection 184.1(1) clarifies that a reference to a surety carrying on construction includes a reference to the surety engaging another person, by way of acquiring services from the other person, to carry on construction for the surety.
+
+65. Section 184.1 ensures that the obligee, as a recipient of construction services, is in the same position of having to pay the GST/HST on any contract payments still owing after the surety steps in as would have been the case if the principal had not defaulted. The surety is generally eligible to claim ITCs on the inputs directly related to the construction carried on by the surety to the extent that the obligee must pay the GST/HST on those contract payments.
+
+### Taxable supply of construction by a surety
+
+66. Paragraph 184.1(2)(a) generally applies where a surety is entitled to receive an amount [referred to as a “contract payment” in subsection 184.1(2)] from the obligee because the surety is carrying on the particular construction in full or partial satisfaction of the surety’s obligations under the performance bond.
+
+67. The contract payment referred to in paragraph 184.1(2)(a) does not include any amount (such as a holdback) that the surety received where the GST/HST on that amount was or will be required to be included in determining the net tax of the principal under the bond. It also does not include an amount that is paid or payable as GST/HST or any tax, duty or fee that would otherwise be excluded from the GST/HST base because it is prescribed for the purposes of section 154.
+
+68. Under subparagraph 184.1(2)(a)(i), if the surety is entitled to receive a contract payment, the surety is deemed, except for the purposes described in paragraph 184.1(2)(b) (see paragraph 72 of this memorandum), to be making a taxable supply in carrying on the construction.
+
+69. The place where the surety’s deemed taxable supply under subparagraph 184.1(2)(a)(i) is considered to be made is the place where the principal’s supply under the original contract was made. For example, where the principal’s supply under the original contract was made in a particular non‑participating province, the deemed supply by the surety is considered to be made in that province.
+
+70. Subparagraph 184.1(2)(a)(ii) provides that sections 150, 156 and 166 do not apply to the supply that the surety is deemed to have made. Therefore, regardless of whether the surety is party to an election that is in effect pursuant to either section 150 or 156 or whether the surety is a small supplier who is not a GST/HST registrant, the GST/HST would be payable in respect of all contract payments made by the obligee to the surety.
+
+71. Under subparagraph 184.1(2)(a)(iii), the contract payment is deemed to be consideration for the surety’s deemed taxable supply. Therefore, the GST/HST is generally payable by the obligee in respect of the contract payments to which the surety becomes entitled and the surety is required to collect and remit the GST/HST on the amount payable by the obligee. Note that the GST/HST may not actually be collectible if the obligee is not required to pay the GST/HST, for example, under an Act of Parliament.
+
+72. For the purposes of determining the extent to which a property or service is acquired, imported or brought into a participating province by the surety for consumption, use or supply in commercial activities and the extent to which the property or service is consumed, used or supplied by the surety in the course of commercial activities, paragraph 184.1(2)(b) deems the carrying on of the particular construction by the surety not to be for the purpose of making a taxable supply and not to be a commercial activity of the surety.
+
+73. Paragraph 184.1(2)(b) has the effect of making the surety ineligible to claim ITCs in respect of inputs to the extent that they relate to the construction undertaken in satisfaction of the surety’s obligations under the bond. The surety may also be required, because of this paragraph, to self‑assess the GST/HST if the surety received an imported taxable supply of an input for use in carrying on the particular construction. However, paragraph 184.1(2)(c) overrides paragraph 184.1(2)(b) with respect to certain direct inputs where paragraph 184.1(2)(a) deems the surety to be making a taxable supply.
+
+74. Despite paragraph 184.1(2)(b), if paragraph 184.1(2)(a) deems the surety to be making a taxable supply, paragraph 184.1(2)(c) deems any property or service acquired, imported or brought into a participating province by the surety for consumption, use or supply exclusively and directly in the course of carrying on the particular construction (referred to as “direct inputs”), with certain exceptions (see the paragraph that follows), and for GST/HST purposes other than sections 155 and 156 and Divisions IV and IV.1, to have been acquired, imported or brought into a participating province by the surety for consumption, use or supply exclusively in the course of commercial activities of the surety. As a result, where the surety is a GST/HST registrant, the surety is generally able to claim ITCs in respect of the GST/HST paid or payable on the direct inputs.
+
+75. Direct inputs do not include property or services that the surety acquires, imports or brings into a participating province for use as capital property of the surety or for improving capital property of the surety.
+
+76. The deeming provision in paragraph 184.1(2)(c) applies for all purposes of the GST/HST except for purposes of sections 155 and 156 and Divisions IV and IV.1. Therefore, the surety must pay the GST/HST on the fair market value of direct inputs acquired in a non‑arm’s length transaction where the conditions in section 155 are met. In addition, when an election under section 156 is in effect, taxable direct inputs acquired by the surety from a specified member of a qualifying group are not deemed under section 156 to have been acquired by the surety for no consideration. This is because one of the conditions of this deeming provision in section 156 is not met (i.e., the supply must be acquired for consumption, use or supply exclusively in the course of commercial activities to be deemed to have been made for no consideration). Thus, the surety is required to pay tax on supplies of direct inputs from specified members of a qualifying group. The surety may also be required to self‑assess on imported taxable supplies of direct inputs in accordance with the provisions of Division IV and to self‑assess on direct inputs the surety brings into a participating province in accordance with the provisions of Division IV.1.
+
+### Limit on ITCs related to direct inputs
+
+77. In general terms, under paragraph 184.1(2)(d), the total amount that the surety is entitled to claim as ITCs in respect of direct inputs that are determined on the basis of the deeming rule in paragraph 184.1(2)(c) is capped at the amount equal to the GST/HST calculated on the total contract payments to which the surety becomes entitled from the obligee in respect of the particular construction.[Footnote2](#fn2)
+
+78. Specifically, the total amount of all ITCs in respect of direct inputs that the surety is entitled to claim is equal to the lesser of:
+
+- the total ITCs in respect of direct inputs that the surety would be eligible to claim if it were not for the application of paragraph 184.1(2)(d); and
+
+- either
+
+    - the excess amount (i.e., the amount by which X exceeds Y), if X is greater than Y, or
+
+    - zero, if X is less than or equal to Ywhere
+
+          - X is the amount determined by the formula A × B, whereA is either B is the total of all contract payments that the surety is entitled to receive from the obligee (other than the contract payments that are not in respect of the particular construction – see paragraph 80 of this memorandum for more details), and
+
+                  - the HST rate that applies for the participating province in which the deemed supply by the surety under subparagraph 184.1(2)(a)(i) is made, where it is made in a participating province, or
+
+                  - in any other case, the GST rate that applies for non-participating provinces and
+
+          - Y is the total of all amounts which would be ITCs of the surety in respect of direct inputs except for the fact that GST/HST is not payable by the surety in respect of the direct inputs because of section 150 or 167 or because of the fact that the surety was deemed to have acquired, imported or brought into a participating province the direct inputs for consumption, use or supply exclusively in the course of commercial activities.
+
+79. The calculation of this limit takes into account the GST/HST that the surety would have incurred in respect of direct inputs but for an election under section 150 or 167 or the fact that the surety was considered to have acquired the input for use exclusively in the course of commercial activities (e.g., the GST/HST that would have been payable but for the operation of section 155 or 156). In these cases, it is the total of the actual and imputed ITCs that cannot exceed the amount equal to the GST/HST calculated on the total contract payments to which the surety becomes entitled.
+
+80. In determining this limit, the surety should only include contract payments that are in respect of the construction that is carried on by the surety in satisfaction of the surety’s obligations under the bond. For example, unadvanced amounts collected by the surety in respect of construction carried on by the principal (e.g., holdbacks) should not be included in the calculation of total contract payments in element B of the formula A × B in paragraph 184.1(2)(d), which is explained in paragraph 78 above.
+
+Contractor C is the general contractor hired for the construction of a high rise apartment building in Ontario. They entered into a contract with Subcontractor D for the completion of the interior painting of the building in the amount of $2,000,000 plus HST (the contract price). The contract required Subcontractor D to purchase a performance bond identifying Contractor C as the obligee.
+
+A surety (Surety Ltd.) issued a performance bond in the amount of $1,000,000 to Subcontractor D (the principal).
+
+Subcontractor D commenced the work required under the contract, but became insolvent and was placed into bankruptcy before the contract was completed. At that time, Subcontractor D had not completely fulfilled its obligations under the contract and $1,000,000 in contract funds had not yet become payable to Subcontractor D. Contractor C called on Surety Ltd. to comply with the default provisions of the performance bond. Surety Ltd. entered into a contract with Subcontractor E for the completion of the work necessary under the contract. Subcontractor E invoiced Surety Ltd. for the construction services (i.e., the painting services) as follows:
+
+The invoice from Subcontractor E contains all the information required to allow Surety Ltd. to claim an ITC.
+
+When the work was completed, Contractor C remitted to Surety Ltd. the $1,000,000 contract payment plus HST that Contractor C had not paid to Subcontractor D. Surety Ltd. is required to collect and remit the HST in respect of the contract payment that it received from Contractor C as Surety Ltd. is deemed to be making a taxable supply in carrying on the construction under paragraph 184.1(2)(a), and the contract payment is deemed under the same paragraph to be consideration for Surety Ltd.’s taxable supply.
+
+Surety Ltd. is eligible to claim an ITC in respect of the work done by Subcontractor E because it is considered a direct input that Surety Ltd. acquired for consumption, use or supply exclusively and directly in the course of carrying on the particular construction (i.e., for the deemed taxable supply it provided to Contractor C). However, paragraph 184.1(2)(d) limits the ITCs that Surety Ltd. is eligible to claim, at the lesser of
+
+- the total of the ITCs in respect of direct inputs which Surety Ltd. would be eligible to claim if it were not for the application of paragraph 184.1(2)(d) (i.e., $156,000); and
+
+- either
+
+    - the excess amount, if X is greater than Y, or
+
+    - zero, if X is less than or equal to Y
+
+          - where X is the amount determined by the formula A × B,where A is either B is the total of all contract payments which Surety td. was entitled to receive from Contractor C (other than contract payments which are not in respect of the particular construction).In this case, the calculation of Element X done by Surety Ltd. is as follows: A = 13% (the deemed supply by Surety Ltd. is made in Ontario) B = $1,000,000 (the total of the contract payments Surety Ltd. is entitled to receive) A × B = 13% × $1,000,000 = $130,000, and
+
+                  - the HST rate that applies for the participating province in which the deemed supply by Surety Ltd. under subparagraph 184.1(2)(a)(i) is made, where it is made in a participating province, or
+
+                  - in any other case, the GST rate that applies for non-participating provinces, and
+
+          - where Y is the total of all amounts which would be ITCs of Surety Ltd. in respect of direct inputs except for the fact that GST/HST is not payable by Surety Ltd. in respect of the direct inputs because of section 150 or 167 or because of the fact that Surety Ltd. was deemed to have acquired, imported or brought into a participating province the direct inputs for consumption, use or supply exclusively in the course of commercial activities.In this case there were no amounts which would be ITCs of Surety Ltd. in respect of direct inputs which Surety Ltd. was not entitled to claim and therefore Y is 0.
+
+The excess amount is calculated as X – Y, which would be $130,000 – $0 = $130,000.
+
+The limit on Surety Ltd.’s ITCs is equal to the lesser of:
+
+- $156,000 (the ITC Surety Ltd. would normally be entitled to claim), and
+
+- $130,000 (the excess amount).
+
+Therefore, Surety Ltd.’s ITC is limited to $130,000 as the ITC cannot exceed the amount of HST that Surety Ltd. was liable to collect and remit on the contract payment it received.
+
+81. Where a surety agrees to perform additional construction work that is not part of a construction contract for which the obligee has provided a bond, and the construction is not intended to fulfil any obligation of the surety under the performance bond (e.g., adding an extra wing that was not part of the original contract for constructing a building), such activities do not relate to the surety’s obligations under the performance bond.
+
+82. In general terms, subsection 184.1(3) applies where an input is used by a surety both in the construction undertaken in satisfaction of the surety’s obligations under the bond (referred to as “the particular construction”) and in additional construction to deem the part that is for use in the construction relating to the terms of the bond and the remaining part to be separate inputs acquired by the surety.
+
+83. Subsection 184.1(3) applies for the purposes of the rules in section 184.1 and determining ITCs that may be claimed by a surety and the total amount of all ITCs that the surety is entitled to claim in respect of direct inputs. Therefore, for those purposes, where a surety acquires, imports or brings into a participating province property or service for consumption, use or supply exclusively and directly in the course of carrying on construction that includes the particular construction and other construction, subsection 184.1(3) applies to deem:
+
+1. the part of the property or service that is for consumption, use or supply in the course of carrying on the particular construction (referred to as the “particular construction input”) and the remaining part of the property or service (referred to as the “additional construction input”) to each be a separate property or service that does not form part of the other;
+
+2. the particular construction input to have been acquired, imported or brought in, as the case may be, exclusively and directly for use in the course of carrying on the particular construction [note that this ensures that the particular construction input is considered to be a direct input to which paragraphs 184.1(2)(c) and (d) apply];
+
+3. the additional construction input to not have been acquired, imported or brought in, as the case may be, for consumption, use or supply in the course of carrying on the particular construction; and
+
+4. the tax payable in respect of the supply, importation or bringing in, as the case may be, of the particular construction input to be equal to the amount C determined by the formulaA × B = C where A is the total GST/HST payable by the surety in respect of the supply, importation or bringing in, as the case may be, of the property or service, determined without reference to subsection 184.1(3); and B is the extent (expressed as a percentage) to which the property or service was acquired, imported or brought in, as the case may be, for consumption, use or supply in the course of carrying on the particular construction; and
+
+5. the GST/HST payable in respect of the additional construction input to be equal to:A – C where A is the total GST/HST payable by the surety in respect of the supply, importation or bringing in, as the case may be, of the property or service, determined without reference to subsection 184.1(3); and C is the amount calculated to be the GST/HST payable in respect of the particular construction input as determined in paragraph (d) above.
+
+84. The particular construction input and the additional construction input are deemed to be separate property or services despite the possible application of section 138. Under this section, where a particular property or service is supplied together with any other property or service for a single consideration and it may reasonably be regarded that the other property or service is incidental to the particular property or service, the other property or service is deemed to be part of the particular property or service.
+
+### Further information
+
+All **GST/HST technical publications** are available on the CRA website at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make an **enquiry**on the **GST/HST**by **telephone**, call one of the following numbers:
+
+- for **general enquiries,** call the **Business Enquiries** line at **1-800-959-5525**;
+
+- for **technical enquiries,**call **1-800-959-8287**.
+
+If you are located in **Quebec**, contact **Revenu Québec** at **1-800-567-4692** or visit their website at [www.revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution**(whether or not you are located in Quebec) and require information on the **GST/HST**or**QST**, call one of the following numbers:
+
+- for **general enquiries**, call **1-800-959-5525**;
+
+- for **technical enquiries**, call **1-855-666-5166**.
+
+## Appendix – Meaning of “financial service”
+
+A “financial service” is defined in subsection 123(1) of the **Excise Tax Act** and means
+
+(a) the exchange, payment, issue, receipt or transfer of money, whether effected by the exchange of currency, by crediting or debiting accounts or otherwise, (b) the operation or maintenance of a savings, chequing, deposit, loan, charge or other account, (c) the lending or borrowing of a financial instrument, (d) the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of a financial instrument, (e) the provision, variation, release or receipt of a guarantee, an acceptance or an indemnity in respect of a financial instrument, (f) the payment or receipt of money as dividends (other than patronage dividends), interest, principal, benefits or any similar payment or receipt of money in respect of a financial instrument, (f.1) the payment or receipt of an amount in full or partial satisfaction of a claim arising under an insurance policy, (g) the making of any advance, the granting of any credit or the lending of money, (h) the underwriting of a financial instrument, (i) any service provided pursuant to the terms and conditions of any agreement relating to payments of amounts for which a credit card voucher or charge card voucher has been issued, (j) the service of investigating and recommending the compensation in satisfaction of a claim where
+
+1. the claim is made under a marine insurance policy, or
+
+2. the claim is made under an insurance policy that is not in the nature of accident and sickness or life insurance and
+
+    1. the service is supplied by an insurer or by a person who is licensed under the laws of a province to provide such a service, or
+
+    2. the service is supplied to an insurer or a group of insurers by a person who would be required to be so licensed but for the fact that the person is relieved from that requirement under the laws of a province,
+
+(j.1) the service of providing an insurer or a person who supplies a service referred to in paragraph (j) with an appraisal of the damage caused to property, or in the case of a loss of property, the value of the property, where the supplier of the appraisal inspects the property, or in the case of a loss of the property, the last-known place where the property was situated before the loss, (k) any supply deemed by subsection 150(1) or section 158 to be a supply of a financial service, (l) the agreeing to provide, or the arranging for, a service that is
+
+1. referred to in any of paragraphs (a) to (i), and
+
+2. not referred to in any of paragraphs (n) to (t), or
+
+(m) a prescribed service [see section 3 of the Financial Services and Financial Institutions (GST/HST) Regulations],
+
+but does not include (n) the payment or receipt of money as consideration for the supply of property other than a financial instrument or of a service other than a financial service, (o) the payment or receipt of money in settlement of a claim (other than a claim under an insurance policy) under a warranty, guarantee or similar arrangement in respect of property other than a financial instrument or a service other than a financial service, (p) the service of providing advice, other than a service included in this definition because of paragraph (j) or (j.1), (q) the provision, to an investment plan (as defined in subsection 149(5)) or any corporation, partnership or trust whose principal activity is the investing of funds, of
+
+1. a management or administrative service, or
+
+2. any other service (other than a prescribed service). [see section 3.1 of the *Financial Services and Financial Institutions (GST/HST) Regulations*]
+
+if the supplier is a person who provides management or administrative services to the investment plan, corporation, partnership or trust, (q.1) an asset management service, (r) a professional service provided by an accountant, actuary, lawyer or notary in the course of a professional practice, (r.1) the arranging for the transfer of ownership of shares of a cooperative housing corporation, (r.2) a debt collection service, rendered under an agreement between a person agreeing to provide, or arranging for, the service and a particular person other than the debtor, in respect of all or part of a debt, including a service of attempting to collect, arranging for the collection of, negotiating the payment of, or realizing or attempting to realize on any security given for, the debt, but does not include a service that consists solely of accepting from a person (other than the particular person) a payment of all or part of an account unless
+
+1. under the terms of the agreement the person rendering the service may attempt to collect all or part of the account or may realize or attempt to realize on any security given for the account, or
+
+2. the principal business of the person rendering the service is the collection of debt,
+
+(r.3) a service (other than a prescribed service[Footnote*](#fn1tb2)) of managing credit that is in respect of credit cards, charge cards, credit accounts, charge accounts, loan accounts or accounts in respect of any advance and is provided to a person granting, or potentially granting, credit in respect of those cards or accounts, including a service provided to the person of
+
+1. checking, evaluating or authorizing credit,
+
+2. making decisions on behalf of the person in relation to a grant, or an application for a grant, of credit,
+
+3. creating or maintaining records for the person in relation to a grant, or an application for a grant, of credit or in relation to the cards or accounts, or
+
+4. monitoring another person’s payment record or dealing with payments made, or to be made, by the other person,
+
+(r.4) a service (other than a prescribed service[Footnote*](#fn1tb2)) that is preparatory to the provision or the potential provision of a service referred to in any of paragraphs (a) to (i) and (l), or that is provided in conjunction with a service referred to in any of those paragraphs, and that is
+
+1. a service of collecting, collating or providing information, or
+
+2. a market research, product design, document preparation, document processing, customer assistance, promotional or advertising service or a similar service,
+
+(r.5) property (other than a financial instrument or prescribed property*) that is delivered or made available to a person in conjunction with the rendering by the person of a service referred to in any of paragraphs (a) to (i) and (l), (s) any service the supply of which is deemed under this Part to be a taxable supply, or (t) a prescribed service (see section 4 of the *Financial Services and Financial Institutions (GST/HST) Regulations*).
+
+Paragraph (t) refers to a prescribed service. Section 4 of the *Financial Services and Financial Institutions (GST/HST) Regulations* provides that the transfer, collection or processing of information and any administrative service are generally prescribed for purposes of paragraph (t) unless the service is supplied with respect to an instrument (as defined by those regulations) by a person at risk, a person that is a member of the same closely related group as a person at risk (where the recipient of the service is not the person at risk or another person that is a member of the same closely related group as the person at risk), or an agent, salesperson or broker who arranges for the issuance, renewal or variation, or the transfer of ownership, of the instrument for a person at risk or a person that is a member of the same closely related group as the person at risk.

@@ -1,0 +1,570 @@
+---
+title: "ARCHIVED - Income Tax – Technical News No. 25"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-25/archived-income-tax-technical-news-no-25.html
+last_modified: 2019-10-08
+---
+# ARCHIVED - Income Tax – Technical News No. 25
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for income tax technical news](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/what-archived-content-notice-means-income-tax-technical-news.html)
+
+*No. 25 October 30, 2002*
+
+This document is also available for [download in other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-25.html).
+
+**This version is only available electronically.**
+
+## In This Issue
+
+- [E-Commerce](#S1)
+
+- [Reasonable Expectation of Profit](#S2)
+
+- [Health and Welfare Trusts](#S19)
+
+- [Refreshing Losses](#S35)
+
+- [Replacement Property Rules and Business Expansions](#S37)
+
+- [Foreign Exchange Losses](#S48)
+
+- [Dividend Reinvestment Plans](#S51)
+
+- [*Silicon Graphics Ltd. v. The Queen*](#S54)
+
+- [Partnership Issues](#S63)
+
+The *Income Tax Technical News* is produced by the Policy and Legislation Branch. It is provided for information purposes only and does not replace the law. If you have any comments or suggestions about the matters discussed in this publication, please send them to:
+
+Manager, Technical Publications and Projects Section Income Tax Rulings Directorate Policy and Legislation Branch Canada Customs and Revenue Agency Ottawa ON K1A 0L5
+
+Or by email at the following address:[bulletins@ccra.gc.ca](mailto:bulletins@cra-arc.gc.ca)
+
+This issue contains issues of current interest that were discussed at a panel at the annual conference of the **Canadian Tax Foundation** on September 30, 2002, in Toronto by Roy Shultis, Deputy Assistant Commissioner, Income Tax Ruling Directorate, Policy and Legislation Branch, Mike Hiltz, Director, Reorganizations and Resources Division, Income Tax Rulings Directorate, Policy and Legislation Branch and Marc Vanasse, Director, Business and Partnerships Division, Income Tax Rulings Directorate, Policy and Legislation Branch, Canada Customs and Revenue Agency.
+
+## E-Commerce
+
+In 1998, the Minister of National Revenue, in response to a report "*Electronic Commerce and Canada's Tax Administration*" prepared by the Minister's Advisory Committee on Electronic Commerce, established a framework for the study of electronic commerce.
+
+The CCRA's study dealt with the effect of E-Commerce on all aspects of Canada's tax administration: goods and services tax, customs duties and tariffs and income tax. The income tax matters included compliance and collection concerns as well as interpretive issues. The latter issues related to non-residents carrying on business in Canada, residents carrying on business abroad, transfer pricing and the characterization of electronic transactions for withholding tax and treaty purposes. The income tax interpretive study benefited from the advice of a group of eminent Canadian income tax specialists and took into account the continuing work of the Organization for Economic Co-operation and Development (OECD) with respect to electronic commerce and permanent establishments, attribution of income to permanent establishments and characterization of payments made in an E-Commerce context.
+
+The study considered the circumstances under which a non-resident who transacts with Canadians through a Web site may be considered to be carrying on business in Canada. The factors relating to this determination will be relevant not only to non-residents carrying on business in Canada but also to foreign affiliates of Canadian residents and residents of Canada carrying on business in other countries.
+
+It was concluded that, in some circumstances, a Web site located on a server situated in Canada can constitute a permanent establishment of a non-resident. This conclusion is consistent with the recent amendments to Article 5 of the OECD Model Convention.
+
+The attribution of income or loss to a permanent establishment in an E-Commerce context raises difficult issues. There is no consensus among the member countries of the OECD concerning the application of Article 7 to traditional forms of commerce. The current CCRA interpretation of Article 7 of the Model Convention does not always produce a result that is consistent with the arm's length principle as developed in the Transfer Pricing Guidelines. The working hypothesis developed by the OECD to apply the Transfer Pricing Guidelines by analogy to permanent establishments is under discussion at the OECD. Given this uncertainty on this difficult issue, the CCRA will continue its current interpretation of Article 7 and will apply its interpretation in the E-Commerce environment.
+
+The characterization of E-Commerce payments is difficult because the distinction between the different "things" that may be purchased will be elusive in many situations. The general principles of characterization set out in the *Report to Working Party No. 1* of the OECD Committee on Fiscal Affairs are instructive and will be of benefit to the CCRA in the determination of the character of payments.
+
+The most important aspect of the E-Commerce study concerns the purchase or licensing of digital products. The CCRA is of the opinion that the existing Canadian jurisprudence can be applied to the purchase or licensing of digital products. In the case of the purchase of a digital product, the CCRA considers that the customer makes the payment to acquire the ownership of data transmitted in the form of a digital signal. Any use of copyright involved in downloading the product is not an important part of the total consideration paid by the purchaser. For this reason, the payment for the product would not be considered a royalty as defined in Article 12 of Canada's treaties that follow the OECD Model Convention.
+
+Similarly, a payment for the use of, or right to use, a digital property would not be for the use of copyright and would not be a royalty for the purposes of Article 12. Until recently, the CCRA considered a payment for the use of, or right to use, custom computer software to be a payment for a secret formula and within the definition of royalty in Article 12. Canada had an observation on this point in respect of Article 12 of the OECD Model Convention. The Department of Finance withdrew the observation on March 28, 2002. As a result, such a payment would now be considered to be within Article 7 of Canada's treaties that follow the OECD Model Convention.
+
+It is important to appreciate that this conclusion would not apply to those of Canada's treaties that include in Article 12 a reference to a payment for the use of or right to use intangible property. In such cases, the payment for the use of or right to use a digital property would be a payment for the use of intangible property and therefore a royalty.
+
+In summary, the CCRA should, in general, be able to apply the same principles of taxation to E-Commerce transactions that it has applied to conventional commerce. The CCRA's view of the law is generally consistent with the view of the OECD as expressed in the amended Commentary to the OECD Model Convention and the *Report to Working Party No. 1* referred to above.
+
+Finally, the CCRA welcomes any queries you may have with respect to any interpretive aspect of E-Commerce. The CCRA is prepared to deal with them as interpretations or rulings, in the case of proposed transactions. In short order, the CCRA will include the results of its study in an Interpretation Bulletin.
+
+## Reasonable Expectation of Profit
+
+This year the Supreme Court of Canada rendered its decision in two cases that concerned the application of the reasonable expectation of profit (REOP) test, *Brian J. Stewart v. The Queen* [1](#P45_6957) and *The Queen v. Jack Walls and Robert Buvyer* [2](#P46_7037) *.*
+
+In the *Stewart* case:
+
+- The taxpayer acquired four condominium units as part of a syndicated real estate development for $1,000 cash each. The balance of the purchase price was financed.
+
+- Projections for rental income and expenses contemplated a negative cash flow. It turned out that actual rental losses were greater than projected.
+
+- For the taxation years 1990 to 1992, the taxpayer claimed rental losses on the properties.
+
+- These losses were disallowed on the basis that the taxpayer had no REOP and therefore, no source of income for the purpose of section 9 of the *Income Tax Act* (the "Act").
+
+- Both the Tax Court of Canada and the Federal Court of Appeal upheld the reassessments.
+
+In the *Walls* case:
+
+- The taxpayers were limited partners in a partnership that purchased a mini-warehouse for $2,200,000, payable in the form of $1 in cash and the balance in the form of an agreement for sale with interest payable at 24% per annum.
+
+- In addition to the interest on the debt obligation, the partnership also paid the vendor management fees and 50% of the net operating profit of the venture under a management and services agreement.
+
+- The taxpayers deducted their proportionate share of the partnership losses incurred in 1984 and 1985.
+
+- These losses were disallowed on the basis that the taxpayer had no REOP and therefore, no source of income for the purpose of section 9 of the Act.
+
+- It was also argued that the losses should be decreased by:
+
+    - reducing the purchase price of the mini-warehouse to reflect a fair market value of $1,180,000; and
+
+    - reducing the interest expense by decreasing the debt in excess of the fair market value and lowering the interest rate to 16%.
+
+- The taxpayers filed notices of objection, but the Minister confirmed the reassessments.
+
+- The Federal Court, Trial Division, dismissed the appeals and upheld the Minister's position with respect to REOP.
+
+- The Federal Court of Appeal set aside the judgment, holding that the trial judge erred in applying REOP since the taxpayers did not have a personal motivation. It remitted the matter to the trial judge for a determination of the outstanding issues of whether the transaction was arm's length and at fair market value.
+
+- The issue of whether the storage park operation constituted a source of income for the purpose of section 9 of the Act was appealed to the Supreme Court.
+
+In both cases, the Court ruled in favor of the taxpayers. In its decision in *Stewart* (the analysis from which also formed the basis for the decision in *Walls*), the Court stated the REOP test is not supportable by law as a basis to determine if a taxpayer's activities constitute a source of income under the Act.
+
+### Question 1
+
+Before getting into the impact of the decisions, could you briefly explain the basis for the CCRA's previous position that a business or property that had no REOP was not a source of income under the Act?
+
+### Response 1
+
+The CCRA's previous position was based mainly upon the Supreme Court decision in *William Moldowan* [3](#P70_10049). While the *Moldowan* case involved the determination of whether a taxpayer's chief source of income was farming, the court noted that in order to have a source of income under the Act, the taxpayer must have a profit or a REOP. Further, in determining if a taxpayer has a REOP, the following criteria should be considered:
+
+- the profit and loss experience in past years;
+
+- the taxpayer's training;
+
+- the taxpayer's intended course of action; and
+
+- the capability of the venture, as capitalized, to show a profit after charging capital cost allowance.
+
+### Question 2
+
+What impact will the Court's decision have on the CCRA's use of the REOP test?
+
+### Response 2
+
+The Court has stated that the REOP test should not be accepted as a basis to determine if a taxpayer's activities constitute a source of income under the Act. The courts have suggested a two-stage approach:
+
+- The first stage is to determine whether a taxpayer's activity is undertaken in pursuit of profit that results in a source of income under the Act, or is a personal endeavour. This first stage is only relevant where there is some personal or hobby element to the activity. The venture will be considered a source of income only if it is undertaken in a sufficiently commercial manner.
+
+- In the second stage, pursuit of profit has been established and the taxpayer's activity is clearly commercial in nature. It then becomes a matter of determining whether the source of the income is from business or property for purposes of the Act.
+
+### Question 3
+
+Does this mean that the REOP test is no longer applicable in determining if a taxpayer has a source of income under the Act?
+
+### Response 3
+
+- The REOP test, as it previously applied, will no longer be used to determine if there is a source of income under the Act.
+
+- The CCRA will, however, question whether a taxpayer is operating in a sufficiently commercial manner when the activity has some personal or hobby element.
+
+- At this point, a taxpayer's venture will be reviewed and criteria, including those set down in *Moldowan*, will be considered in determining if the taxpayer intends to carry on an activity for profit and the overall evidence supports that intention.
+
+### Question 4
+
+Assuming a taxpayer's activity is commercially viable, but there is a personal element, how will the CCRA account for the expenses related to the personal element?
+
+### Response 4
+
+- It is the CCRA's view that a calculation will have to be made using some reasonable basis, to determine the amount of the business expenses that may be deducted in calculating the income from the commercial activity.
+
+- Thus, where there is both a personal and business element to the expenses incurred and they are not otherwise restricted under the Act, some reasonable basis of proration will have to be used to determine the portion that relates to the business activity.
+
+### Question 5
+
+Could you comment on the part of the Court's decision in which it was stated that the realization of an eventual capital gain may be taken into account in determining whether a taxpayer's activity is commercial in nature?
+
+### Response 5
+
+- The Court has stated that the motivation of capital gains accords with the ordinary businessperson's understanding of "pursuit of profit."
+
+- Thus, the CCRA accepts that there may be situations where the realization of an eventual capital gain will be a factor in assessing the commerciality of the taxpayer's overall course of conduct.
+
+- However, it is emphasized that the mere acquisition of a property in anticipation of a capital gain does not provide a source of income.
+
+### Question 6
+
+Do you have any concerns that these comments seem to imply that a capital gain may be considered to be part of a source of income that is from a business or property?
+
+### Response 6
+
+- As noted above, the acquisition of a property in anticipation of a capital gain does not provide a source of income under the Act.
+
+- The proposition that a capital gain is now included in calculating income that is from a business or property source would be contrary to the overall scheme of the Act.
+
+### Question 7
+
+If a taxpayer's loss is not from a source of income under the Act because the activity in question is not carried on in a sufficiently commercial manner, say for example in the case of a recreational property, will the expenses that generated the loss be deductible in calculating a capital gain from the disposition of a property?
+
+### Response 7
+
+No.
+
+- Pursuant to paragraph 40(1)(*a*) of the Act, only outlays and expenses incurred for the purpose of disposing of a property will be deductible in the calculation of the gain.
+
+- The courts have stated that the phrase "for the purpose of" in subparagraph 40(1)(*a*)(i) means "for the immediate or initial purpose of" and not the eventual or final goal which the taxpayer may have in mind[4](#P109_14818).
+
+- Therefore, if a taxpayer's activity is not of a commercial nature, the annual expenses incurred in relation to that property may not be carried forward and deducted in the calculation of a capital gain or loss when it is disposed of.
+
+### Question 8
+
+If a taxpayer's involvement in a venture is motivated by tax considerations, will this be viewed as a personal element such that it could affect the determination of whether the activity has a sufficient degree of commerciality to be considered a source of income under the Act?
+
+### Response 8
+
+If a taxpayer is motivated by tax considerations when he or she enters into a business or property venture, this will not detract from the venture's commercial nature or characterization as a source of income under the Act.
+
+## Health and Welfare Trusts
+
+### Background
+
+For a number of years, the CCRA has been allowing employers to operate their health and welfare programs through a "trust" arrangement. The CCRA's position on the income tax implications for such arrangements, known as health and welfare trusts, is set out in Interpretation Bulletin IT-85R2, dated July 31, 1986, *Health and Welfare Trusts for Employees.*
+
+The types of benefits administered by an employer through health and welfare trust arrangements are restricted to:
+
+(a) group sickness or accident insurance plans
+
+(b) private health services plans
+
+(c) group term life insurance policies, or
+
+(d) any combination of a) to c).
+
+Essentially, the CCRA allows these trusts to be treated as conduits: an employee does not receive or enjoy a benefit at the time the employer makes a contribution to a health and welfare trust. Further, any income tax advantage that an employee would otherwise get is not affected because of the health and welfare trust. For example, payment by the trustees of health and welfare trusts of all or part of an employer's contribution to a private health services plan, does not give rise to a taxable employment benefit. The legislative exemption in subparagraph 6(1)(*a*)(i) flows through to the employees.
+
+Employers can deduct contributions to health and welfare trusts in the year the legal obligation to make the payment to the trust arises, to the extent they are reasonable and laid out to earn business or property income.
+
+The bulletin describes the tax implications for the trust. In general terms, none of the receipts from an employer are taxable, nor are the payments deductible in the trust. However, the trust is taxed as an inter vivos trust on any investment income generated because of investments made in the course of managing the employee benefit programs. The minimum tax rules must be considered as they could also have application.
+
+In recent months, there has been a significant issue related to the funding of health and welfare trusts and the quantum of the deductions that an employer can claim when money is invested in the trust to fund the employees' benefits.
+
+### Question 1
+
+What is the legal basis for a health and welfare trust under the *Income Tax Act*?
+
+### Response 1
+
+Health and welfare trusts are not specifically defined or described in the Act. They became recognized administratively by the CCRA in the manner set out in IT-85R2, after extensive consultations with the tax community and employee benefits consultants in the 70s.
+
+### Question 2
+
+Since the last version of the bulletin was issued in 1986, have there been any significant changes to the CCRA's position on health and welfare trusts?
+
+### Response 2
+
+No, there have been no major changes to the CCRA's overall administrative positions set out in the bulletin. There have, however, been changes to the law that make some of the explanations of the income tax rules in the bulletin outdated. For example, the bulletin still has the discussion on the former $25,000 exemption for coverage under a *group term life insurance policy*. We will update the bulletin to reflect current law.
+
+### Question 3
+
+Have any important issues arisen recently that would be of interest to administrators/trustees of health and welfare trusts?
+
+### Response 3
+
+Yes, a significant issue has been considered over the last few months in connection with the funding of the cost of long-term disability benefits under "group sickness and accident plans" that are administered by employers through a health and welfare trust.
+
+### Question 4
+
+Before getting into the issue on funding, could you briefly comment on the CCRA's general position in regard to the funding of a health and welfare trust?
+
+### Response 4
+
+Yes, the CCRA's general position on funding is described in paragraph 6 of IT-85R2, which states that an employer's contributions must not exceed the amount required to provide the health and welfare benefits, and that the payments cannot be made on a voluntary or gratuitous basis. In this regard, we would like to emphasize that this means the "current" cost of paying out the benefits for a particular year. This is usually based on an actuarial determination where the employer has engaged a carrier to provide the health and welfare benefits.
+
+### Question 5
+
+Could you now explain recent developments in regard to the cost of funding benefits in a health and welfare trust?
+
+### Response 5
+
+The main issue has been with what we have referred to as the over-funding of benefits through lump sum payments by employers to a health and welfare trust. By this, we mean that employers were proposing to fund 100% of the estimated value of all future benefits payable with respect to insured claims under the long-term disability benefits provided under a health and welfare trust. That is, the employer would contribute a lump sum amount to a health and welfare trust that would finance not only the current benefits payable under the plan, but the estimated cost of the benefits that would be payable over a number of years.
+
+### Question 6
+
+Could you describe the CCRA's position relating to the so-called over-funding of the benefits by the payment of a lump sum amount, including the effect on the deductions that may be claimed by the employer as well as any consequences for health and welfare trusts that otherwise meet the criteria outlined in IT-85R2?
+
+### Response 6
+
+The CCRA's position is that, in those situations where an employer's contributions to a health and welfare trust are for future benefits, subparagraph 18(9)(*a*)(iii) of the Act applies to the deductibility of such contributions by employers. That is, the lump sum amount will be regarded as having been made or incurred as consideration for insurance for a period after the end of a taxation year. We have also concluded that contributions of lump sum amounts to fund future benefits would not, in and by itself, disqualify a trust as a health and welfare trust. However, the contributions must still be based on actuarial determinations of amounts needed to fund the future health and welfare obligations.
+
+### Question 7
+
+In the course of considering the over-funding issue, there has been some discussion on the impact of the *Canadian Pacific Limited[5](#P153_21837)* decision and whether it would support the full deduction in a taxation year, of the lump sum amounts paid to fund future benefit obligations in a health and welfare trust. This is based on the reasoning that, since the Court supported the position that the lump sum in question in that decision was held to be a legitimate business deduction and not prohibited by paragraph 18(1)(*e*) because it was contingent, the full amount should be a legitimate business deduction in a taxation year.
+
+Could you outline the CCRA's position on the impact, if any, of the CP decision on the deduction by employers of lump sum amounts contributed to a health and welfare trust to fund current and future obligations?
+
+### Response 7
+
+The CCRA has accepted the outcome in *Canadian Pacific* that the amounts set aside for the future payment of benefits were not "contingent" in nature. For health and welfare trusts, this means that contributions for actuarially required contributions by an employer to a health and welfare trust will not be denied as a deduction under paragraph 18(1)(*e*) as noted above. However, as also noted, subparagraph 18(9)(*a*)(iii) applies. In this regard, audit officials in the tax services office have already issued reassessments applying this rule.
+
+## Refreshing losses
+
+An article in *Canadian Tax Highlights* in April of this year[6](#P159_23317) raised the question of whether the opening summary statement attached to a published CCRA advance income tax ruling (doc. no. 2001-0090213) indicates a shift in the CCRA's administrative policy concerning "in-house" loss-consolidation transactions.
+
+The article set out the concern as follows:
+
+"The ruling involves Lossco, with non-capital losses, lending at interest to its profitable sub (Profitco), which subscribes for preferred shares of a new Lossco sub, which on-lends the funds back to Lossco interest-free. Profitco reduces its taxable income via the interest paid to Lossco, which uses its non-capital losses to shelter that interest income. The CCRA summary statement says that if an affiliated group undergoes a tax-loss consolidation and a group member (Profitco) deducts interest expense and thereby incurs a non-capital loss, the newly created loss is abusive: it 'effectively allow[s] the affiliated group to refresh one of its member's [sic] existing non-capital losses, which is beyond the scope of a tax loss consolidation.'"
+
+1) Could the CCRA provide clarification as to when a loss-consolidation transaction that has the effect of "refreshing" losses might be considered to be abusive?
+
+2) Can a loss-consolidation transaction be implemented for the purpose of using non-capital losses of Lossco from a **prior** taxation year (as opposed to non-capital losses that are anticipated to arise in Lossco in the **current** or **future** taxation years)?
+
+### CCRA Position
+
+1) The summary statements attached to published CCRA rulings and interpretations are merely intended to provide a very brief synopsis as an aid to the reader in determining whether the main document is of relevance or interest. As the article indicates, it can be misleading to read the summary statement without a complete understanding of the document itself and the circumstances behind it.
+
+Loss-consolidation transactions involving a "Lossco" lending at interest to an affiliated "Profitco" that subscribes for preferred shares of Lossco (or a subsidiary of Lossco) will not necessarily be considered to result in an abuse, within the meaning of subsection 245(4), merely because the interest deduction results in a non-capital loss in Profitco. In particular, the CCRA would not ordinarily consider an abuse to result solely because the non-capital loss so created is carried back to a previous taxation year of Profitco in accordance with section 111. Futhermore, the CCRA would not ordinarily consider an abuse to result solely because the non-capital loss so created has a carryforward period that extends beyond the original carryforward period for Lossco's losses, provided that it is deducted within the original carryforward period.
+
+Losses may be considered to be "refreshed" in a loss-consolidation transaction in which Lossco transfers depreciable property, on which there is unrealized recapture, to affiliated Profitco, thereby allowing Lossco to deduct losses before they expire and Profitco to acquire the depreciables at an increased undepreciated capital cost. However, such a transaction would not ordinarily be considered to result in an abuse solely because it avoids the expiry of a non-capital loss, since the loss is deducted against income (the recapture) that arose in the original loss carryforward period.
+
+It should be noted, of course, that a loss-consolidation transaction that seeks to circumvent other loss-limitation rules, such as those in subsection 111(5), could be considered to result in a misuse or an abuse[7](#P169_26929).
+
+2) Yes.
+
+## Replacement Property Rules and Business Expansions
+
+We understand that the CCRA has received a number of inquiries on how the replacement property rules are affected by business expansions. The inquiries have arisen because of the statement in ¶ 15 of Interpretation Bulletin IT-259R3, *Exchanges of Property*, that the replacement property rules are not intended to encompass business expansions.
+
+Recently, you have been asked to consider whether a farmer could use the replacement property rules on the voluntary disposition of real property when the existing farmland is replaced with a substantially larger piece of land. Reasons for selling the existing farmland could include its proximity to an urban area where the land is very valuable compared to a more remote area. If existing farmland is replaced with a larger farm, the question arises as to whether the new farmland could be considered a replacement property, or be regarded as a business expansion and therefore, excluded by virtue of your position in the bulletin.
+
+### Question 1
+
+Could you briefly explain the basis for the concern about the use of the replacement property rules in relation to business expansions?
+
+### Response 1
+
+In general terms, the replacement property rules in the *Income Tax Act* require that it be reasonable to conclude that a new property will be acquired to replace a former property. As such, there must be a correlation or causal relationship between the acquisition of the new property and the disposition of the former property.
+
+### Question 2
+
+In light of this particular requirement in the Act, could you expand on the bulletin position as it relates to business expansions?
+
+### Response 2
+
+The statement in ¶ 15, that the replacement property rules are not intended to encompass business expansions was made in the situation where it could not be readily determined whether one particular property is actually being replaced by another. Hence, it is important to consider the example given. The comments were made in the context of a taxpayer who was in the process of expanding a retail operation by opening and closing a number of locations. The new properties acquired during this type of "business expansion" were not considered replacement properties because there was no correlation or causal relationship between their acquisition and the disposition of the existing properties.
+
+### Question 3
+
+Are there any other important considerations when a particular property is purchased under a business expansion?
+
+### Response 3
+
+Transactions surrounding these cases are often not straightforward and have peculiarities that are specific to a taxpayer's business. A determination of whether a newly acquired property can reasonably be considered a replacement property under these rules can only be made after considering all the facts and circumstances surrounding a particular situation.
+
+In conclusion, it is difficult to envision all situations where property purchased under a business expansion will not qualify as a replacement property. However, the example given in the bulletin can be a useful guide. I would therefore like to point out that the fact that a property is purchased under a business expansion will not, in and by itself, mean that the property cannot be considered a replacement property.
+
+### Question 4
+
+Will Interpretation Bulletin IT-259R3 be changed to clarify the comments on business expansion?
+
+### Response 4
+
+The bulletin will be amended to clarify that the emphasis will be placed on whether a correlation or causal relationship exists between the acquisition of the new property and the disposition of the existing property when determining if a particular property is a replacement property, and not simply on the fact that the new property is acquired because of a business expansion.
+
+### Question 5
+
+Can a taxpayer get certainty on the tax implications when contemplating the purchase of a replacement property?
+
+### Response 5
+
+As discussed in Information Circular 70-6R5, *Advance Income Tax Rulings*, the CCRA provides an advance income tax ruling service to promote voluntary compliance, uniformity and self-assessment by providing certainty with respect to the income tax implications of proposed transactions. In fact, the CCRA has issued rulings in the past involving the application of the replacement property rules to a business expansion. Therefore, provided all the facts are presented in the ruling request in accordance with the procedure outlined in the circular, the CCRA will consider a request for an advance income tax ruling on proposed transactions involving the replacement property rules in a business expansion.
+
+## Foreign Exchange Losses
+
+The following issue has to do with the recharacterization of a foreign exchange loss to an amount deductible under Paragraph 20(1)(*f*) of the *Income Tax Act* (the "Act"). The corporate taxpayer incurred foreign exchange losses on the repayment of long-term debt denominated in US currency because the US dollar appreciated against the Canadian dollar over the period between the borrowing of the money and the repayment of the debt. The corporate taxpayer issued US dollar obligations but not at a discount. The borrowed money was used for capital purposes. The taxpayer has requested that the foreign exchange losses sustained on the repayment of debt may be claimed as a deduction from income under paragraph 20(1)(*f*) of the Act.
+
+### Legislative Context
+
+Paragraph 18(1)(*f*) provides that "in computing the income of a taxpayer from a business or property no deduction shall be made in respect of an amount paid or payable as or on account of the principal amount of any obligation described in paragraph 20(1)(*f*) except as expressly permitted by that paragraph".
+
+Paragraph 20(1)(*f*) reads in part as follows:
+
+"(*f*) an amount paid in the year in satisfaction of the principal amount of any bond, debenture . . . or similar obligation . . . on which interest was stipulated to be payable, to the extent that the amount so paid does not exceed,
+
+(i) in any case where the obligation was issued for an amount not less than 97% of its principal amount, and the yield from the obligation . . . does not exceed 4/3 of the interest stipulated to be payable on the obligation, expressed in terms of an annual rate on
+
+(A) the principal amount of the obligation, if no amount is payable on account of the principal amount before the maturity of the obligation, or
+
+(B) the amount outstanding from time to time as or on account of the principal amount of the obligation, in any other case,
+
+the amount by which the lesser of the principal amount of the obligation and all amounts paid in the year or in any preceding year in satisfaction of its principal amount exceeds the amount for which the obligation was issued, and
+
+(ii) in any other case, ½ of the lesser of the amount so paid and the amount by which the lesser of the principal amount of the obligation and all amounts paid in the year or in any preceding taxation year in satisfaction of its principal amount exceeds the amount for which obligation was issued:"
+
+In subsection 248(1) of the Act, "principal amount", in relation to any obligation, means "the amount that under the terms of the obligation or any agreement relating thereto, is the maximum amount or maximum total amount, as the case may be, payable on account of the obligation by the issuer thereof [...]"
+
+### CCRA Position
+
+The issue is whether the "principal amount" of a debt denominated in a foreign currency is based on the foreign currency rate on the date of issue of the obligation, the spot rate at the time the debt is paid or the average of fluctuating rates from time to time. This is also relevant for the application of the 97% test and the yield test in paragraph 20(1)(*f*). There is no indication either in paragraph 20(1)(*f*) or the definition of "principal amount" in subsection 248(1) **when** the "principal amount" is to be determined in respect of a foreign currency obligation. If the "principal amount" is to be determined at the time of issue, there is no discount since the amount of foreign currency exchange loss would not be ascertained at that time. Since the term "principal amount" in the Act does not specify the time at which the "principal amount" has to be determined, the time of determination is dependent on the context of the wording of a particular provision and the intent and purpose of that provision.
+
+Other provisions of the Act contemplate foreign currency situations. For purposes of section 80 of the Act, paragraph 80(2)(*k*) states, "where an obligation is denominated in a currency (other than Canadian currency), the forgiven amount at any time in respect of an obligation shall be determined with reference to the relative value of that currency and Canadian currency **at the time the obligation was issued**". As such, foreign currency fluctuations after the time an obligation is issued are ignored for the purposes of section 80 of the Act. Also, paragraph 15.1(7)(*b*) refers to "the total of all amounts each of which is the principal amount outstanding immediately after that time".
+
+The CCRA has stated in Interpretation Bulletin IT-361R3, dealing with subparagraph 212(1)(*b*)(vii), that where an obligation is in foreign currency, any fluctuation in the Canadian dollar relative to the foreign currency is not a factor in determining whether at a particular time the Canadian borrower is obliged to pay more than 25% of the principal amount of the loan.
+
+It is the CCRA's position that for purposes of paragraph 20(1)(*f*) of the Act, the time at which the "principal amount" is to be determined should be at the time of issue and this is the relevant time at which the discount, if any, should also be ascertained. The "97% test" and the "yield test" should also be applied at the time of issue of the debt. Any loss should be governed by subsection 39(2) of the Act.
+
+## Dividend Reinvestment Plans
+
+A "Dividend Reinvestment Plan" or "DRIP" is an arrangement under which the common shareholders of a public corporation are entitled to direct that cash otherwise receivable by them as regular dividends be used to purchase additional common shares of the corporation, usually at a discount from their market price. DRIPs sometimes also have an "Optional Purchase" component under which participants under the DRIP are entitled to purchase a limited number of common shares, in addition to those purchased with reinvested dividends, usually at market price.
+
+### Question
+
+What is the CCRA's position with respect to whether participants under such reinvestment plans can be assessed taxable benefits?
+
+### Response
+
+In our view, a corporation that permits a shareholder to use dividends to purchase additional shares of the corporation for an amount less than their fair market value confers a benefit on the shareholder in the amount of the discount at the time that the shares are purchased. Consequently, subsection 15(1) is potentially applicable to rights under DRIPs.
+
+Paragraph 15(1)(*c*) provides that subsection 15(1) does not apply where the corporation confers on all owners of common shares identical rights to acquire additional shares of the corporation. However, the CCRA understands that the paragraph 15(1)(*c*) exception is not available with respect to most DRIPs, since foreign securities laws may prevent the corporation from permitting non-resident shareholders to participate under the plan.
+
+Nevertheless, it is the longstanding administrative practice of the CCRA that a subsection 15(1) benefit will not be assessed in respect of a benefit arising from the reinvestment of dividends in additional shares under a DRIP, provided that the amount paid for the additional shares is not less than 95% of their fair market value. However, this administrative practice will not be applied in respect of a benefit arising from the acquisition by a shareholder of additional shares of the corporation for an amount that is less than their fair market value pursuant to an Optional Purchase component of a DRIP.
+
+## Silicon Graphics Ltd. v. The Queen, 2002 DTC 7112; [2002] 3 CTC 527 (FCA)
+
+Alias Research Inc., a predecessor of the taxpayer, claimed enhanced SR&ED benefits under subsection 127(10.1) and section 127.1 in its 1992 and 1993 taxation years. During those years, the common shares of Alias were publicly traded on the NASDAQ exchange in the United States. The common shares were widely-held and more than 50% of those shares were owned by non-residents. Alias' principal place of business was in Toronto, and a majority of the board of directors and the entire management team were residents of Canada. The management team annually prepared a slate of people to be elected to the board, which was always accepted by the shareholders.
+
+In December 1991, Silicon Graphics Ltd., a U.S. public corporation, agreed to advance up to $5 million to Alias in consideration of a security interest in Alias' assets and the issuance of warrants to acquire common shares of Alias. The loan was outstanding for seven weeks, during which time Silicon Graphics Ltd. approved daily cash forecasts and determined which creditors of Alias would be paid. Silicon Graphics Ltd. also made financial contributions to Alias for software development and marketing. Certain directors and officers of Alias were formerly associated with Silicon Graphics Ltd. and Alias software only operated on hardware of Silicon Graphics Ltd.
+
+The issue before the Tax Court of Canada was whether Alias was "controlled, directly or indirectly in any manner whatever, by one or more non-resident persons" within the meaning of the "Canadian-controlled private corporation" (CCPC) definition in subsection 125(7) and the extended meaning of control in subsection 256(5.1). The Tax Court of Canada concluded that the non-resident shareholders had *de jure* control of Alias because they held the simple majority of voting shares, notwithstanding that there was no common connection between them. Because of this finding, the Tax Court of Canada found it was unnecessary to consider whether non-residents had *de facto* control of Alias.
+
+Silicon Graphics Ltd. appealed to the Federal Court of Appeal. On the issue of *de jure* control, the Federal Court of Appeal equated the phrase "control by one or more persons" in the CCPC definition with the phrase "control by a person or group of persons", and, based on prior case law, agreed with Silicon Graphics Ltd. that in order for a group of persons to be in a position to exercise *de jure* control, a common connection must exist between the shareholders. As there was no evidence of a common connection, the Federal Court of Appeal overturned the Tax Court of Canada's decision. In reaching its conclusion, the Federal Court of Appeal referred to the 1998 legislative amendment to the CCPC definition, adding paragraph (*b*) of the CCPC definition, prior positions taken by the CCRA on control by groups and the policy underlying tax advantages given to CCPCs.
+
+With respect to the second issue, the Federal Court of Appeal stated that in order for there to be finding of *de facto* control, " . . . a person or group of persons must have a clear right and ability to effect a significant change in the board of directors or the powers of the board of directors or to influence in a very direct way the shareholders who would otherwise have the ability to elect the board of directors." In the Federal Court of Appeal's view, there was no evidence to show that Silicon Graphics Ltd. satisfied those criteria. Instead, the Federal Court of Appeal found that *de facto* control remained in Canada.
+
+### Question 1
+
+In the Revenue Canada Forum at the 1994 Canadian Tax Foundation conference, the CCRA expressed the view that since the CCPC definition in subsection 125(7) did not refer to control by a "group of persons", it was meant to mean ownership of that number of shares that would constitute control[8](#P228_42883). Contrary to this position, in *Silicon Graphics Ltd.*, the Federal Court of Appeal took the position that the reference to "one or more" in the CCPC definition essentially meant "group of persons", and therefore, there must be a common connection between the non-resident shareholders in order for them to have *de jure* control.
+
+Does the CCRA accept the Federal Court of Appeal's findings, and if so, what are the implications?
+
+### Response 1
+
+Yes. We accept the findings on this issue and have not sought leave to appeal to the Supreme Court of Canada. In the context of the CCPC definition, the findings are largely of historical interest given that paragraph (*b*) of the CCPC definition would apply, for years after 1995, to deny CCPC status in widely-held situations, such as that which existed in *Silicon Graphics Ltd*.
+
+### Question 2
+
+Will the CCRA interpret control by "one or more persons", as used in other sections of the Act, to mean "group of persons" in accordance with *Silicon Graphics Ltd.*? For instance, this wording appears in paragraphs 83(2.2)(*c*) and (*d*) and paragraphs 83(2.4)(*c*) and (*d*), relating to capital dividends, and in the following definitions: "capital dividend account" and "private corporation" in subsection 89(1), "financial institution" in subsection 142.2(1), "restricted financial institution" and "term preferred share" in subsection 248(1) and "eligible corporation" in subsection 5100(1) of the *Income Tax Regulations*.
+
+### Response 2
+
+Yes. There is no basis for limiting the findings in *Silicon Graphics Ltd.* on this issue to the CCPC definition.
+
+### Question 3
+
+Have there been any other developments regarding the interpretation of the CCPC definition in subsection 125(7)?
+
+### Response 3
+
+Yes. There is one new development regarding the application of paragraph (*b*) of the CCPC definition to multi-tiered corporate structures similar to that which existed in *Parthenon* *Investments Ltd.* v. *The Queen* [9](#P240_44869). Recall that in *Parthenon*, the Federal Court of Appeal held that control meant ultimate control, with the result that CCPC status was not denied to the corporation at the bottom of the corporate chain by reason of the interposition of a non-resident corporation in the middle of the corporate chain, when ultimate control lay with a Canadian resident at the top of the corporate chain. For taxation years that begin after November 1999, subsections 256(6.1) and (6.2) apply to override the position taken by the Federal Court of Appeal in *Parthenon*.
+
+The *Parthenon* case only dealt with the application of what is now paragraph (*a*) of the CCPC definition. The CCRA is of the view, however, that paragraph (*b*) of the CCPC definition would apply to deny CCPC status in factual situations similar to that which existed in *Parthenon* for years after 1995. Paragraph (*b*) requires shares, not only of the corporation in question, but those of all corporations, owned by a non-resident person, a public corporation (other than a prescribed venture capital corporation), or a corporation described in paragraph (*c*) of the CCPC definition, to be attributed to a hypothetical person. If the hypothetical person would directly or indirectly control the corporation in question, the latter would not be a CCPC.
+
+For illustrative purposes, consider the following scenario: Canco1 is a Canadian corporation that is controlled by a Canadian resident. Canco1 owns more than 50% of the voting shares of Pubco, a Canadian public corporation, which in turn owns more than 50% of the voting shares of Canco2, a Canadian corporation. In determining Canco2's status as a CCPC, in the CCRA's view, paragraph (*b*) would apply to attribute the shares of Canco2 held by Pubco to a hypothetical person. Because this hypothetical person would then directly control Canco2, CCPC status would be denied notwithstanding the fact that ultimate control of Canco2 lay with a Canadian resident. As noted above, paragraph (*b*) will also apply if control by the hypothetical person is indirect. This would arise if, instead of owning the shares of Canco2 directly, Pubco owned 100% of the voting shares of Holdco, a Canadian corporation, which in turn owned more than 50% of the voting shares of Canco2. In this case, Canco2 would not be a CCPC because paragraph (*b*) would apply to attribute the shares of Holdco to the hypothetical person, who would then have indirect control of Canco2.
+
+### Question 4
+
+The Federal Court of Appeal set out circumstances in which a person or group of persons would be considered to have *de facto* control. These circumstances are narrower in scope than those set out by the CCRA in ¶ 21 of Interpretation Bulletin IT-64R4, *Corporations: Association and Control*, dated August 14, 2001. How does this decision affect these views?
+
+### Response 4
+
+The CCRA is not presently considering any change to the criteria contained in ¶ 21 of Interpretation Bulletin IT-64R4 as a result of the *Silicon Graphics* decision. There are two cases involving the application of subsection 256(5.1) that have been appealed to the Federal Court of Appeal: *Mimetix Pharmaceuticals Inc.* v. *The Queen* and *Rosario Poirier Inc.* v. *The Queen* [10](#P247_48097). The CCRA is of the view that the Tax Court of Canada decision in *Mimetix* [11](#P248_48239) seems to suggest that the circumstances in which *de facto* control may arise may not be as narrow as those set out in *Silicon Graphics*. For instance, it is noted that the Tax Court of Canada in *Mimetix* found that a non-resident shareholder had *de facto* control of the appellant in part because the non-resident shareholder exercised the powers of the appellant's board of directors, which is not a situation cited by the Federal Court of Appeal in *Silicon Graphics*. Given the uncertainty surrounding the scope of *de facto* control, the CCRA intends to wait for the Federal Court of Appeal's decisions in *Mimetix* and *Rosario Poirier* prior to considering whether any change is necessary to our position on *de facto* control in Interpretation Bulletin IT-64R4.
+
+## Partnership Issues
+
+### Background
+
+In broad terms, the *Income Tax Act* (the "Act") is structured to tax the income of individuals, corporations and trusts. The Act provides for definitions for each of these terms.
+
+Unlike the above-mentioned terms, a "partnership" is not defined in the Act. Moreover, in general, a partnership is not considered a "person" for purposes of the Act notwithstanding the fact that certain provisions in the Act refer to a "person" to include a partnership.
+
+It is a question of fact and law as to whether a partnership exists. The Courts[12](#P254_49591) have now established the following general criteria (which is based on the definition of partnership under the relevant provincial law) when determining whether a partnership exists:
+
+- there must be a business;
+
+- this business must be carried on by 2 or more persons;
+
+- there must be a view to profit.
+
+Once it is established that a partnership does exist, subsection 96(1) of the Act generally provides that a partnership is a "flow-through" entity, with income computed at the partnership level (as if the partnership is a separate person) and allocated to the members of the partnership. Each member of a partnership, in turn, reports and pays tax on their proportionate share of such income. The sources of income retain their character when flowed from the partnership to the members of the partnership.
+
+### Question 1
+
+The CCRA's position provides that a partnership is a contractual relation between persons and therefore not a legal entity. In recent years, legislation has been established in the US [such as the *Delaware Revised Uniform Partnership Act* (DRUPA)] to allow the creation of "partnerships" that are separate legal entities. This appears to contradict the CCRA's position. Can you provide any comments with respect to this matter?
+
+### Response 1
+
+The CCRA announced in the June 14, 2001 *Income Tax Technical News* (No. 20) that it is its view that generally the attributes of an entity formed under the DRUPA and carrying on business in common with a view to a profit more closely resemble those of a Canadian general partnership under our common law. This approach has been followed by the Courts, in particular, *Backman, Spire Freezers,* and *Continental Bank*.
+
+### Question 2
+
+Under provincial partnership laws, partnerships must have a "view to profit". Under DRUPA, legal entities may be created for non-profit purposes. Would these DRUPA entities be partnerships for Canadian purposes?
+
+### Response 2
+
+No. It is the CCRA's view that entities governed by the DRUPA that are not created to carry on business with a view to a profit under common law principles would not resemble Canadian partnerships. Consequently, such entities would not be considered partnerships for the purposes of the Act.
+
+We have received requests with respect to the determination of the Canadian tax status of foreign partnerships formed in other jurisdictions. The determination of whether a partnership exists for Canadian tax purposes is a matter of common or civil law and can only be made in the context of an advance tax ruling request.
+
+### Question 3
+
+Similarly, legislation in the U.S. allows for the creation of Limited Liability Companies (LLCs), to operate as separate legal entities and allows business profits (or losses) to be allocated and taxed in the hands of the members.
+
+What is the CCRA position with respect to these entities?
+
+### Response 3
+
+The CCRA has reviewed the provisions of the legislation with respect to LLCs in some States. Based on the review, it is generally the CCRA's position that an LLC is considered a corporation for Canadian tax purposes.
+
+### Question 4
+
+One of the criteria of a "partnership" is that the particular business is carried on with "a view to a profit". Does the CCRA consider this to mean a "reasonable expectation of profit" (REOP) as established in *Moldowan*?
+
+### Response 4
+
+No. The "view to a profit" test that determines if a partnership exists is a common or civil law issue, while the REOP test is a determination of whether there is a business or source test under the *Income Tax Act*. The Courts have established that in order for a partnership to exist, there must be a "relation between persons carrying on a business in common with a view to a profit". The Courts have established that this test is different from the more difficult REOP test. Whether there exists a "view to a profit" requires an inquiry into the intentions of the parties entering into the alleged partnership. This determination is generally a finding of fact and law for each particular case.
+
+### Question 5
+
+Now moving away from the issue of whether a partnership exists and to the computation of income for a partnership.
+
+Interpretation Bulletin IT-138R provided an example with respect to a partnership agreement that provides for the allocation of an annual salary paid to one partner, after which the partners divide the income (or loss) of the partnership.
+
+This position appears to contradict recent comments made in a recent CCRA technical interpretation.
+
+Can you clarify the CCRA's position with respect to a "salary" paid to an individual partner?
+
+### Response 5
+
+The CCRA is of the view that salaries paid to individual partners are not deductible in computing the partnership's income for income tax purposes. This concept is an extension of the general criteria established under the provincial Partnerships Acts. As an example, section 24, paragraph 6 of the *Partnership Act* of Ontario specifically states "no partner is entitled to remuneration for acting in the partnership business." Consequently, any amounts paid and deducted as such in the financial statements of the partnership as such must be added back when computing partnership income.
+
+The CCRA wishes to clarify that Interpretation Bulletin IT-138R has been withdrawn in 2000 since much of the information it contained was out of date. Information with respect to the computation of income for partnerships can be found in the *Guide for the Partnership Information Return* (T4068).
+
+### Question 6
+
+The next question deals with the "partnership interest".
+
+A limited partnership may issue different units of the partnership. Does the CCRA accept that the ACB of the different partnership units be computed separately, in the same manner that one computes the ACB of shares they hold in a corporation (preferred, common)?
+
+### Response 6
+
+No. It is the CCRA position that a taxpayer's interest in a limited partnership is considered **one capital property**. Consequently, in a disposition one would compute the ACB of the partnership interest as the aggregate of the units. In a partial disposition, the ACB of the partial interest disposed would be determined pursuant to subsection 43(1) of the Act.
+
+## Footnotes
+
+[1](#P45_6958) 2002 DTC 6969; [2002] 3 CTC 421
+
+[2](#P46_7038) 2002 DTC 6960; [2002] 3 CTC 439
+
+[3](#P70_10050) 77 DTC 5213; [1977] CTC 310
+
+[4](#P109_14819) See the Federal Court of Appeal decision in *Avis Immobilien G.M.B.H. v. The Queen* (1997 DTC 5002)
+
+[5](#P153_21838) *Canadian Pacific Limited v. The Minister of Revenue (Ontario)*, (now the Minister of Finance), 99 DTC 5286; [2000] 2 CTC 331, (Ontario Court of Appeal).
+
+[6](#P159_23318) Dean Gresdal, "Loss Refreshing Abusive?" in *Canadian Tax Highlights*, vol. 10, no. 4, April 23, 2002.
+
+[7](#P169_26930) See the Department of Finance *Technical Notes* with respect to the introduction of subsection 245(4) in Bill C-139, June 30, 1988.
+
+[8](#P228_42884) See also Issue No. 3 of the *Income Tax Technical News*, dated January 30, 1995.
+
+[9](#P240_44870) 97 DTC 5343; [1997] 3 CTC 152 (FCA).
+
+[10](#P247_48098) Court file No. A-63-02 and Court file No. A-378-02, respectively.
+
+[11](#P248_48240) 2001 DTC 1026; [2002] 1 CTC 2188 (TCC).
+
+[12](#P254_49592) See the Supreme Court of Canada decisions in *Continental Bank Leasing Corporation v. The Queen* (98 DTC 6505; [1998]4 CTC 119), *Spire Freezers Ltd v. The Queen* (2001 DTC 5158; [2001] 2 CTC 40) and *Backman v. The Queen* (201 DTC 5149; [2001] 2 CTC 11). More recently, *Stanley Witkin v. The Queen* (2002 DTC 7044; [2002] 3 CTC 184) reinforced the criteria established in the foregoing cases.

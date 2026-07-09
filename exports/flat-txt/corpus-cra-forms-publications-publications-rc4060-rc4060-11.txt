@@ -1,0 +1,159 @@
+Title: Farming Income and the AgriStability and AgriInvest Programs Guide – Program payment list A
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4060/rc4060-11.html
+Corpus path: corpus/cra/forms-publications/publications/rc4060/rc4060-11.md
+Document type: publication
+Last modified: 2026-04-16
+
+# Farming Income and the AgriStability and AgriInvest Programs Guide – Program payment list A
+
+See the following lists to determine the correct code to report the program payment on [Form T1163](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1163.html) or [Form T1164](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1164.html).
+
+Payments received from programs on the following list are marked with an "X" to show whether they are included in the calculation of your program year production margin for AgriStability, your allowable net sales (ANS) for AgriInvest, or both.
+
+| Program payment – included in AgriStability and AgriInvest calculations | AgriStability | AgriInvest | Code |
+
+| --- | --- | --- | --- |
+
+| AgriInsurance (production/crop insurance) – Edible horticulture crops | X | X | 402 |
+
+| AgriInsurance (production/crop insurance) – Grains, oilseeds, and special crops | X | X | 401 |
+
+| AgriInsurance (production/crop insurance) – Non-edible horticulture crops | X | X | 470 |
+
+| AgriInsurance (production/crop insurance) – Other commodities, including livestock | X | X | 463 |
+
+| AgriRecovery bee assistance payments (allowable portion) | X |  | 800 |
+
+| AgriRecovery drought assistance payments (allowable portion) | X |  | 774 |
+
+| AgriRecovery feed assistance payments (allowable portion) | X |  | 801 |
+
+| AgriRecovery flood assistance payments (allowable portion) | X |  | 802 |
+
+| Canadian Food Inspection Agency (CFIA) payment for allowable commodities | X | X | 663 |
+
+| Canadian Food Inspection Agency (CFIA) payment for other amounts | X |  | 665 |
+
+| Canadian Food Inspection Agency (CFIA) payment for supply managed commodities | X |  | 664 |
+
+| COVID-19 – AgriRecovery – livestock set aside programs | X | X | 699 |
+
+| COVID-19 – Other assistance payments (allowable portion) | X |  | 687 |
+
+| COVID-19 – Temporary foreign worker subsidy payments | X |  | 686 |
+
+| COVID-19 – Wage subsidy payments for arm's length salaries | X |  | 684 |
+
+| Crop cover protection program | X |  | 473 |
+
+| Cull breeding swine program (all provinces) | X |  | 582 |
+
+| Dairy direct payment program (DDPP) | X |  | 683 |
+
+| Livestock feed insurance program | X | X | 412 |
+
+| Livestock price insurance |  | X | 667 |
+
+| On farm climate action fund (allowable portion) | X |  | 804 |
+
+| Other AgriRecovery program (allowable portion)[Footnote1](#fn1) | X |  | 627 |
+
+| Polar vortex industry recovery program (allowable portion) | X |  | 795 |
+
+| Post tropical storm Dorian response program | X |  | 772 |
+
+| Prairie watershed climate program (PWCP) (allowable portion) | X |  | 798 |
+
+| Private hail insurance |  | X | 407 |
+
+| Private insurance proceeds for allowable commodities (production/price/margin insurance) |  | X | 661 |
+
+| Private insurance proceeds for the replacement of allowable commodities | X | X | 681 |
+
+| Private insurance proceeds for the replacement of allowable expense items | X |  | 406 |
+
+| Resilient agricultural landscapes program (RALP) (allowable portion) | X |  | 797 |
+
+| Waterfowl/Wildlife damage compensation – Grains, oilseeds, and special crops | X | X | 418 |
+
+| Waterfowl/Wildlife damage compensation – Horticulture | X | X | 419 |
+
+| Waterfowl/Wildlife damage compensation – Other commodities | X | X | 425 |
+
+| **Alberta** |  |  |  |
+
+| 2021 Canada – Alberta hog recovery initiative | X |  | 778 |
+
+| 2021 Canada – Alberta livestock feed assistance initiative (allowable portion) | X |  | 776 |
+
+| **British Columbia** |  |  |  |
+
+| 2021 Canada-British Columbia flood recovery program for food security | X |  | 788 |
+
+| 2021 Canada-British Columbia wildfire and drought recovery initiative (allowable portion) | X |  | 786 |
+
+| **Manitoba** |  |  |  |
+
+| Canada-Manitoba livestock feed and transportation drought assistance | X |  | 779 |
+
+| Canada-Manitoba livestock transportation drought assistance | X |  | 780 |
+
+| 2021 Canada-Manitoba herd management drought assistance program | X |  | 784 |
+
+| 2023 Canada-Manitoba bee mortality assistance program | X |  | 785 |
+
+| **Newfoundland and Labrador** |  |  |  |
+
+| Newfoundland and Labrador livestock insurance program | X | X | 771 |
+
+| **New Brunswick** |  |  |  |
+
+| New Brunswick – Livestock genetic enhancement initiative | X |  | 793 |
+
+| New Brunswick Lime Transportation Assistance Program | X |  | 782 |
+
+| **Nova Scotia** |  |  |  |
+
+| 2016 Canada – Nova Scotia fire blight initiative | X |  | 673 |
+
+| 2018 Nova Scotia frost loss program | X |  | 678 |
+
+| Nova Scotia apiculture sustainability growth and health program | X |  | 799 |
+
+| Nova Scotia genetic improvement program | X |  | 792 |
+
+| Nova Scotia season response program | X |  | 803 |
+
+| **Ontario** |  |  |  |
+
+| 2021 Canada-Ontario dry weather AgriRecovery initiative | X |  | 789 |
+
+| Canada-Ontario grapevine winter injury initiative (2021-2022) | X |  | 791 |
+
+| Canada-Ontario overwinter bee colony loss replacement initiative (2021-2022) | X |  | 790 |
+
+| Ontario special beekeepers fund | X |  | 552 |
+
+| **Prince Edward Island** |  |  |  |
+
+| 2018 Canada-PEI fall harvest recovery initiative | X |  | 680 |
+
+| 2020-PEI potato seed recovery program | X |  | 770 |
+
+| 2022 Canada-PEI surplus potato management response plan | X |  | 781 |
+
+| Fiona agriculture support program (PEI) | X |  | 783 |
+
+| **Saskatchewan** |  |  |  |
+
+| 2016 Canada-Saskatchewan bovine tuberculosis assistance initiative | X |  | 675 |
+
+| Saskatchewan cattle and hog support program | X |  | 593 |
+
+| Footnote 1 This code should only be used for AgriRecovery programs (allowable income for AgriStability) not specifically listed above. [Return to footnote1Referrer](#fn1-0-rf) |  |  |  |
+
+- [Previous page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4060/rc4060-10.html)
+
+- [Table of contents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4060/rc4060-01.html)
+
+- [Next page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4060/rc4060-12.html)

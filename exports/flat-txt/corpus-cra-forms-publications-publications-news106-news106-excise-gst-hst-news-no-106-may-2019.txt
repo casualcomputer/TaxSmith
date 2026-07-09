@@ -1,0 +1,555 @@
+Title: ARCHIVED - Excise and GST/HST News - No. 106
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news106/news106-excise-gst-hst-news-no-106-may-2019.html
+Corpus path: corpus/cra/forms-publications/publications/news106/news106-excise-gst-hst-news-no-106-may-2019.md
+Document type: publication
+Last modified: 2024-11-19
+
+# ARCHIVED - Excise and GST/HST News - No. 106
+
+June 2019
+
+## Table of Contents
+
+- [Federal Budget 2019](#_Toc9413501)
+
+- [Fuel charge update](#_Toc9413504)
+
+- [GST/HST treatment of the fuel charge](#_Toc9413505)
+
+- [Excise duty rates – April 1 reminder](#_Toc9413506)
+
+    - [Excise Act, 2001](#_Toc9413507)
+
+    - [Excise Act](#_Toc9413508)
+
+- [New contact information for regional excise offices](#_Toc9413509)
+
+- [Applewood Holdings Inc. v The Queen 2016-4498 (GST) G](#_Toc9413510)
+
+- [Supply of appraisal services](#_Toc9413511)
+
+- [End of transitional GST/HST relief for Maa-nulth-ahts](#_Toc9413512)
+
+- [Information requirements for sales invoices](#_Toc9413513)
+
+- [Prescribed rates of interest](#_Toc9413514)
+
+- [What’s new in publications](#_Toc9413515)
+
+- [Contact us](#_Toc9413516)
+
+## Federal Budget 2019
+
+On March 19, 2019, the Minister of Finance tabled [Budget 2019](https://www.budget.canada.ca/2019/home-accueil-en.html?utm_source=FIN&utm_medium=Home-e&utm_campaign=CAbdgt19) which proposed to amend the Excise Tax Act and the Excise Act, 2001, and also confirmed the Government's intention to proceed with certain previously announced measures relating to the GST/HST. See the [March 19, 2019, Department of Finance News Release](https://www.fin.gc.ca/n19/19-022-eng.asp) for related information. Many of these amendments are included in [Bill C-97, Budget Implementation Act, 2019 No. 1](https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=10404016), which received second reading on April 30, 2019.
+
+The following are proposed amendments to the Excise Act, 2001:
+
+### Proposed amendments to the Excise Tax Act:
+
+**GST/HST**
+
+**Multidisciplinary health care services**
+
+For supplies made after March 19, 2019, [Bill C-97](https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=10404016) proposes to exempt a supply of multidisciplinary health care services when rendered by a team of health professionals whose services would be exempt when supplied separately, provided all or substantially all (generally 90% or more) of the consideration for the supply is reasonably attributable to services rendered by such health care professionals acting within the scope of their profession. The CRA provides additional information on this measure in [GST/HST Notice 311, Proposed Exemption of Multidisciplinary Health Care Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice311.html).
+
+**Human ova and in vitro embryos**
+
+For supplies and imports made after March 19, 2019, [Bill C-97](https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=10404016) proposes to relieve supplies and imports of human ova and imports of in vitro embryos of the GST/HST. The CRA provides additional information on this measure in [GST/HST Notice 312, Proposed GST/HST Treatment of Supplies of Human Ova and In vitro Embryos](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice312.html).
+
+**Foot care devices supplied on the order of a podiatrist or chiropodist**
+
+For supplies made after March 19, 2019, [Bill C-97](https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=10404016) proposes to add licensed podiatrists and chiropodists to the list of specified professionals that may provide a written order for a zero-rated supply of a foot care device. The CRA provides additional information on this measure in [GST/HST Notice 313, Proposed Change for the Purpose of Zero-rating Certain Foot Care Devices](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice313.html).
+
+**Electronic delivery of requirements for information**
+
+CRA sends requirements for information to banks and credit unions in respect of third-party financial information by registered or certified mail. Budget 2019 proposed that, as of January 1, 2020, the CRA may send requirements for information electronically to the banks and credit unions. The CRA would be allowed to do so only if the bank or credit union notifies the CRA that it consents to this method of service. These proposed changes would be made to the Excise Tax Act, the Excise Act, 2001, the Air Travellers Security Charge Act, and the Greenhouse Gas Pollution Pricing Act.
+
+**Zero-emission vehicles**
+
+[Bill C-97](https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=10404016) proposes consequential amendments to the Excise Tax Act to parallel the proposed income tax amendments in respect of zero-emission passenger vehicles acquired after March 18, 2019. The proposed consequential amendments to the Excise Tax Act generally result in an increase in the amount of GST/HST that registered persons can recover through the input tax credit mechanism in respect of the purchase of zero-emission passenger vehicles, subject to limits similar to those under the income tax system.
+
+**Previously announced measures**
+
+Budget 2019 confirmed the Government’s intention to proceed with the following previously announced tax and related measures, as modified to take into account public consultations:
+
+- remaining legislative and regulatory proposals released on July 27, 2018, relating to the GST/HST; and
+
+- measures confirmed in Budget 2016 relating to the GST/HST joint venture election.
+
+### Proposed amendments to the Excise Act, 2001:
+
+**Excise duty on cannabis**
+
+Currently, excise duty applies to cannabis products (unless they are excluded) at the higher of a flat‑rate based on the quantity of cannabis in the final product or an ad valorem rate generally based on the producer’s sales price. [Bill C-97](https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=10404016) proposes amendments to the method for calculating excise duties on cannabis oil, which is currently available for legal sale, as well as three new categories (edible cannabis, cannabis extracts and cannabis topicals) which will be available for legal sale later this year.
+
+For cannabis oil products packaged after April 30, 2019, for final retail sale, [Bill C-97](https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=10404016) proposes that the excise duty on these products would be a flat-rate based on the quantity (per mg) of total THC contained in the final product. The proposed flat-rate cannabis duty will be $0.0025 per mg of total THC and the flat-rate additional cannabis duty in respect of provinces and territories that have entered into Coordinated Cannabis Taxation Agreements (CCTAs) will be $0.0075 per mg of total THC. Note that in Manitoba, only the flat-rate cannabis duty will apply as the province has not entered into a CCTA. It is also proposed that this same flat-rate cannabis duty and flat-rate additional cannabis duty will apply to cannabis edibles, cannabis extracts and cannabis topicals when they become available for legal sale.
+
+More detailed information is published in [Excise Duty Notice EDN60, Calculation of Cannabis Duty and Additional Cannabis Duty on Cannabis Oil, Cannabis Edibles, Cannabis Extracts and Cannabis Topicals](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edn60.html).
+
+## Fuel charge update
+
+The CRA is responsible for administering and enforcing the fuel charge component of the federal carbon pollution pricing system beginning April 1, 2019, in Manitoba, New Brunswick, Ontario and Saskatchewan, and July 1, 2019, in Nunavut and Yukon (known as listed provinces).
+
+On March 19, 2019, the Department of Finance released draft regulations for public consultation regarding [proposed refinements to the Federal Carbon Pollution Pricing System](https://www.fin.gc.ca/n19/19-023-eng.asp). These proposed refinements are set out in [Draft Regulations Amending the Fuel Charge Regulations](https://www.fin.gc.ca/drleg-apl/2019/fuel-charge-reg-redevance-combustibles-eng.asp) under the Greenhouse Gas Pollution Pricing Act.
+
+The proposed refinements include:
+
+- expanded relief of the fuel charge for electricity generation for remote communities;
+
+- a rebate for exports of fuel under certain conditions;
+
+- integration of the Saskatchewan output-based performance standards system with the federal fuel charge; and
+
+- expanded relief of the fuel charge for farmers to include delivery at a cardlock facility when certain conditions are met.
+
+**Technical information**
+
+The CRA has published technical information and forms regarding the fuel charge. The following fuel charge publications and forms are available now:
+
+- FCN1, Registration Under the Greenhouse Gas Pollution Pricing Act
+
+- [FCN2, Distributors Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn2.html)
+
+- [FCN3, Annual Charge on Fuel Held in a Listed Province on Adjustment Day](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn3.html)
+
+- [FCN4, Importers Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn4.html)
+
+- [FCN5, Emitters Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn5.html)
+
+- [FCN6, Road Carriers Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn6.html)
+
+- [FCN7, Users Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn7.html)
+
+- [FCN8, Air Carriers, Marine Carriers, Specified Air Carriers or Specified Marine Carriers Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn8.html)
+
+- [FCN9, Rail Carriers or Specified Rail Carriers Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn9.html)
+
+- [L400, Fuel Charge Registration under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400.html)
+
+- [L400-1, Fuel Charge Registration Schedule](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400-1.html)
+
+- [L400-2, Fuel Charge Registration Schedule – Road Carrier](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400-2.html)
+
+- [L400-3 Non-Resident - Records Kept Outside Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400-3.html)
+
+- [L401, Fuel Charge Exemption Certificate](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l401.html)
+
+- [L402, Fuel Charge Exemption Certificate for Farmers](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l402.html)
+
+- [L403, Fuel Charge Exemption Certificate for Fishers](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l403.html)
+
+- [L404, Fuel Charge Exemption Certificate for Greenhouse Operators](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l404.html)
+
+- [L405, Fuel Charge Exemption Certificate for Remote Power Plant Operators](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l405.html)
+
+For all new technical publications related to the Greenhouse Gas Pollution Pricing Act and its regulations, as well as current rates and forms, please check the [Fuel charge technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge.html) page.
+
+For information on related terms, go to the [Definitions related to the fuel charge](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/fuel-charge-definitions.html) webpage.
+
+To make a technical enquiry on the fuel charge or for additional information on the application of the fuel charge for each type of registrant, go to [Contact Information – Excise Duties, Excise Taxes, Fuel Charge and Air Travellers Security Charge](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/contacts.html).
+
+## GST/HST treatment of the fuel charge
+
+Generally, under the Excise Tax Act every recipient of a taxable supply (other than a zero-rated supply) made in Canada is required to pay GST/HST on the value of the consideration for the supply. Consideration is defined in the Act to include any amount payable by operation of law. The Act also provides that all taxes, duties or fees (other than the GST/HST) imposed under an Act of Parliament in respect of a supply of property or a service and payable by the recipient of the supply, or payable/collectible by the supplier in respect of the supply or in respect of the production, importation, consumption or use of the property or service, are included in the consideration for the supply, for GST/HST purposes.
+
+Given the preceding, supplies (for example, sales) made in Canada of fossil fuels would generally be subject to GST/HST, which would be calculated on the price paid for the supply of the fuel. This would include any fuel charge paid or payable in respect of the supply as well as any fuel charge embedded in the price as a result of having been paid earlier on in the distribution chain.
+
+GST/HST registrants are generally entitled to claim an input tax credit to recover the GST/HST paid or payable in respect of the supply of property or a service acquired for consumption, use or supply in the course of commercial activities.
+
+The application of the GST/HST to federal and provincial taxes, duties and fees is explained in [GST/HST Memorandum 3-5, Application of GST/HST to Other Taxes, Duties, and Fees](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-5/application-gst-hst-other-taxes-duties-fees.html).
+
+## Excise duty rates – April 1 reminder
+
+Under the Excise Act, 2001 and the Excise Act, inflationary adjustments are made on April 1 of each year to excise duty rates. The most recent adjustment occurred on April 1, 2019. The [Excise duty rates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edrates/excise-duty-rates.html) webpage lists all the current and historical rates.
+
+### Excise Act, 2001
+
+**Spirits and wine**
+
+The adjusted rates of excise duty payable on spirits and wine on or after April 1, 2019 are set out in Excise Duty Notice EDN57 Adjusted Rates of Excise Duty on Spirits and Wine Effective April 1, 2019. This annual adjustment does not apply to the rate of special duty on spirits.
+
+**Tobacco products**
+
+The adjusted rates of excise duty payable on tobacco products on or after April 1, 2019 are provided in Excise Duty Notice, EDN58 Adjusted Rates of Excise Duty on Tobacco Products Effective April 1, 2019. This annual adjustment does not apply to the excise duty rate on raw leaf tobacco or to the special duty rates on stamped tobacco products.
+
+**Cigarette inventory tax**
+
+In addition to the April 1, 2019 rate adjustment, an inventory tax applies to the following cigarettes that were held in inventory at 12:01 a.m. on April 1, 2019:
+
+- cigarettes on which excise duty has been paid as indicated by **Duty Paid Canada Droit Acquitté** on the affixed tobacco stamp; and
+
+- imported unstamped cigarettes on which special duty was paid by a duty-free shop.
+
+Excise Duty Notice EDN59 Cigarette Inventory Tax on April 1, 2019 provides more information.
+
+### Excise Act
+
+**Beer**
+
+The adjusted rates of excise duty payable on beer on or after April 1, 2019, are provided in Excise Duty Notice EDBN25 Adjusted Rates of Excise Duty on Beer Effective April 1, 2019.
+
+## New contact information for regional excise offices
+
+The CRA has published new contact information for our regional excise offices.
+
+This contact information will help excise registrants and licensees make general or technical enquiries related to all of the following:
+
+- excise duties on wine, spirits, beer, tobacco products and cannabis products;
+
+- excise duty licence applications for wine, spirits, beer, tobacco products or cannabis products;
+
+- fuel charge registration under the Greenhouse Gas Pollution Pricing Act;
+
+- the excise tax on fuel‑inefficient automobiles, automobile air conditioners and certain petroleum products;
+
+- excise stamp order desk;
+
+- rulings and interpretations;
+
+- enquiries related to processing status, returns or refund applications;
+
+- technical publications;
+
+- the tax on insurance premiums;
+
+- the air travellers security charge (ATSC); and
+
+- account enquiries.
+
+Refer to [CONTACTS Contact Information – Excise Duties, Excise Taxes, Fuel Charge and Air Travellers Security Charge](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/contacts.html) to see the telephone numbers, email addresses and regional office locations.
+
+## Applewood Holdings Inc. v The Queen 2016-4498 (GST) G
+
+The Tax Court of Canada delivered its decision in Applewood Holdings Inc. v The Queen 2016‑4498 (GST)G on November 15, 2018. The appellant, Applewood Holdings Inc. (Applewood), operated a car dealership and entered into a dealer agreement with Walkaway Canada Incorporated (Walkaway) to offer and sell certain group creditor insurance products.
+
+These creditor insurance products were issued by an insurer to Applewood’s customers to cover their lease or finance payment obligations upon the occurrence of certain events such as loss of employment or disability. If the covered event occurred, the creditor insurance generally required the customer to return the vehicle to the dealership and provided coverage for the difference between the vehicle’s appraised value and the debt owing up to certain maximum limits.
+
+The services performed by Applewood included offering the insurance to its customers and explaining the coverage options, terms, limitations, conditions and exclusions. Applewood used Walkaway’s administration website to process the documents for the group creditor insurance provided to the customer. Applewood completed and provided the certificate of insurance to the customer and remitted the customer’s insurance premium to the insurer. For its services provided to Walkaway under the dealer agreement with Walkaway, Applewood received consideration (calculated as 55% of the insurance premium).
+
+The Court concluded that the predominant nature of Applewood’s service was the arranging for the sale of group creditor insurance which fell within paragraph (l) of the definition of a **financial service** in subsection 123(1) of the Excise Tax Act (the Act), and as a result the consideration received by Applewood was exempt from GST/HST. The CRA will apply the Applewood decision in the same fact situation.
+
+In addition, the CRA will also apply the Applewood decision where a car dealer enters into an agreement with an insurer to sell group creditor insurance to its customers to cover their lease or finance obligations upon the occurrence of certain events such as loss of employment or disability and where under the dealer agreement with the insurer, the car dealer performs the activities referred to in the Applewood decision.
+
+Within the context of the insurance industry, the Applewood decision does not have an impact on the CRA’s position with respect to the services provided by managing general agents and similar entities performing management and administrative services for insurers. Supplies of these management and administrative services are taxable.
+
+## Supply of appraisal services
+
+Paragraph (j.1) of the definition of “financial service” in the Excise Tax Act includes the service of providing an insurer (or certain other persons described in paragraph (j) of the definition of financial service) with an appraisal of the damage caused to property, where the supplier of the appraisal inspects the property. Generally, a supply of such a financial service is exempt.
+
+Where a person is only providing an estimate of the replacement value of damaged property, this service is not “an appraisal of the damage caused to property” in paragraph (j.1). Therefore, a supply of such a service is generally a taxable supply. A person who is registered or required to be registered for GST/HST is required to collect the GST/HST on the consideration (such as a fee) for the supply.
+
+For further information and examples regarding an appraisal service under paragraph (j.1), refer to [GST/HST Info Sheet GI-134, Insurance - Appraisals of Damage Caused to Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-134.html).
+
+## End of transitional GST/HST relief for Maa-nulth-ahts
+
+The Huu-ay-aht, Ka:’yu:’k’th’/Che:k’tles7et’h’, Toquaht, Uchucklesaht and Ucluelet First Nations, collectively referred to as Maa-nulth First Nations, signed the Maa-nulth First Nations Final Agreement in 2011 to become self-governing First Nations.
+
+Under the Agreement, transitional GST/HST relief was provided to a Maa-nulth-aht (individual who is on the enrolment Register of a Maa-nulth First Nation) until April 30, 2019. This is an exemption that is similar to that provided under section 87 of the Indian Act. As a result, effective May 1, 2019, Maa-nulth-ahts acquiring taxable (other than zero-rated) supplies of property or services on Maa-nulth Lands that formerly were reserve lands, or on a reserve of another Indian band elsewhere in Canada, will be subject to GST/HST. For more information see [GST/HST Notice 310, Expiry of Maa-nulth First Nations exemption – Application of the GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice310.html).
+
+## Information requirements for sales invoices
+
+GST/HST registrants must provide specific information on invoices, receipts, and contracts when providing taxable property and services. A purchaser needs this information to claim [eligible input tax credits](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/complete-file-input-tax-credit.html) (ITCs). Without the required information, CRA may deny the purchaser’s ITC claims.
+
+The following table provides information that needs to be included on sales receipts and invoices to support an ITC claim:
+
+| **Information required** | **Under $30** | **$30 to $149.99** | **$150 or more** |
+
+| --- | --- | --- | --- |
+
+| Supplier's business or trading name, or an **intermediary's** name | Yes | Yes | Yes |
+
+| Date of invoice or, if **no** invoice issued, the date tax is paid or payable | Yes | Yes | Yes |
+
+| Total amount paid or payable | Yes | Yes | Yes |
+
+| An indication of the total amount of GST/HST charged **or** that the amount paid or payable for each taxable supply (other than zero-rated supplies) includes the GST/HST at the applicable rate | No | Yes | Yes |
+
+| An indication of which items are taxed at the GST rate and which are taxed at the HST rate | No | Yes | Yes |
+
+| The supplier's business number (BN) or an **intermediary's** BN | No | Yes | Yes |
+
+| Your name or trading name or the name of your authorized agent or representative | No | No | Yes |
+
+| A brief description of the goods or services | No | No | Yes |
+
+| Terms of payment | No | No | Yes |
+
+For more information refer to [GST/HST Memorandum 8-4, Documentary Requirements for Claiming Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-4.html) as well as the [input tax credits webpage](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/complete-file-input-tax-credit.html).
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from July 1, 2019 to September 30, 2019, on overdue amounts payable to the Minister is 6%. The prescribed annual rate of interest on amounts owed by the Minister (such as, rebates or refunds) is 2% for corporate taxpayers and 4% for non-corporate taxpayers. These rates are applicable to income tax, excise tax, the softwood lumber products export charge, GST/HST, the air travellers security charge (ATSC), the fuel charge (under the Greenhouse Gas Pollution Pricing Act) and excise duty on wine, spirits, tobacco and cannabis.
+
+The prescribed annual rate of interest respecting excise duty on beer, on overdue amounts payable for the indicated period, is set at 4%. Refund interest rates are not applicable for amounts owed by the Minister (such as, rebates or refunds) for excise duty that is in relation to beer.
+
+| **PERIOD** | July 1, 2019 to September 30, 2019 | April 1, 2019 to June 30, 2019 | January 1, 2019 to March 31, 2019 | October 1, 2018 to December 31, 2018 |
+
+| --- | --- | --- | --- | --- |
+
+| **Refund Interest Corporate Taxpayers** | 2% | 2% | 2% | 2% |
+
+| **Refund Interest Non-Corporate Taxpayers** | 4% | 4% | 4% | 4% |
+
+| **Arrears and Instalment Interest** | 6% | 6% | 6% | 6% |
+
+| **PERIOD** | July 1, 2019 to September 30, 2019 | April 1, 2019 to June 30, 2019 | January 1, 2019 to March 31, 2019 | October 1, 2018 to December 31, 2018 |
+
+| --- | --- | --- | --- | --- |
+
+| **Arrears Interest Excise duty - beer** | 4% | 4% | 4% | 4% |
+
+Prescribed interest rates for previous years are available on Canada.ca at [Prescribed interest rates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## What’s new in publications
+
+The following is a list of new or revised excise and GST/HST forms and publications.
+
+**GST/HST Regulations published in the Canada Gazette**
+
+- [SOR/2019-59, Regulations Amending Various GST/HST Regulations, No. 11](http://canadagazette.gc.ca/rp-pr/p2/2019/2019-03-20/html/sor-dors59-eng.html)
+
+- [SOR/2019-77, Regulations Amending Certain Regulations in Respect of the Taxation of Cannabis Products](http://www.gazette.gc.ca/rp-pr/p2/2019/2019-04-03/html/sor-dors77-eng.html)
+
+- [SOR/2019-78, Excise Duties on Cannabis Regulations](http://canadagazette.gc.ca/rp-pr/p2/2019/2019-04-03/html/sor-dors78-eng.html)
+
+- [SOR/2019-79, Regulations Amending Part 1 of Schedule 1 and Schedule 2 to the Greenhouse Gas Pollution Pricing Act](http://canadagazette.gc.ca/rp-pr/p2/2019/2019-04-03/html/sor-dors79-eng.html)
+
+- [SOR/2019-102, Schedule 1 to the First Nations Goods and Services Tax Act (Maanulth First Nations) — Order Amending First Nations Goods and Services Tax Act](http://gazette.gc.ca/rp-pr/p2/2019/2019-05-01/html/sor-dors102-eng.html)
+
+**GST/HST forms**
+
+- [GST27, Election or Revocation of an Election to Deem Certain Supplies to be Financial Services for GST/HST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst27.html)
+
+- [GST44, GST/HST Election Concerning the Acquisition of a Business or Part of a Business](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst44.html)
+
+- [GST70, Election or Revocation of an Election to Change a GST/HST Fiscal Year](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst70.html)
+
+- [GST71, Notification of Accounting Periods for GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst71.html)
+
+- [GST74, Election and Revocation of an Election to Use the Quick Method of Accounting](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst74.html)
+
+- [GST116, Application, Renewal, or Revocation of the Authorization for a Qualifying Institution to Use Particular Input Tax Credit Allocation Methods](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst116.html)
+
+- [GST370, Employee and Partner GST/HST Rebate Application](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst370.html)
+
+- [GST497, Election Under the Special Attribution Method for Selected Listed Financial Institutions and Notice of Revocation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst497.html)
+
+- [RC4521, Application for a Financial Institution of a Prescribed Class to be Designated as a Qualifying Institution or Revocation of a Previously Granted Designation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4521.html)
+
+- [RC4522, Election or Revocation for a Qualifying Institution to Use Particular Methods Specified in an Application under subsection 141.02(18)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4522.html)
+
+- [RC7216, Application, Renewal, or Revocation of the Authorization for a Qualifying Institution that is a Selected Listed Financial Institution to Use Particular Input Tax Credit Allocation Methods](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7216.html)
+
+- [RC7221, Application for a Selected Listed Financial Institution of a Prescribed Class to be Designated as a Qualifying Institution or Revocation of a Previously Granted Designation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7221.html)
+
+- [RC7222, Election or Revocation for a Qualifying Institution that is a Selected Listed Financial Institution to Use Particular Methods Specified in an Application Under Subsection 141.02(18) of the ETA for GST/HST and QST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7222.html)
+
+- [RC7227, Elections or Revocation of the Elections to Deem Certain Supplies to be Financial Services for GST/HST and QST Purposes for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7227.html)
+
+- [RC7244, GST/HST and QST Elections Concerning the Acquisition of a Business or Part of a Business by a Recipient that is a Selected Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7244.html)
+
+- [RC7270, Election or Revocation of an Election to Change a GST/HST and QST Fiscal Year for a Selected Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7270.html)
+
+- [RC7271, Notification of Accounting Periods of a Selected Listed Financial Institution for GST/HST and QST](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7271.html)
+
+- [RC7297, Election Under the Special Attribution Method for Selected Listed Financial Institutions and Notice of Revocation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7297.html)
+
+**GST/HST guides**
+
+- [RC17, Taxpayer Bill of Rights Guide: Understanding Your Rights as a Taxpayer](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc17.html)
+
+- [RC4081, GST/HST Information for Non-Profit Organizations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4081.html)
+
+- [RC4210, GST/HST Credit including related provincial credits and benefits for the period from July 2018 to June 2019](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4210.html)
+
+**GST/HST info sheets**
+
+- [GI-066, How a Charity Completes Its GST/HST Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-066.html) (revised)
+
+- [GI-123, Application of GST/HST to Residential Care Services Provided in Ontario](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-123.html) (revised)
+
+**GST/HST memoranda**
+
+- [21-2, Residential Care Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/21-2.html)
+
+- [21-3, Respite Care Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/21-3.html)
+
+**GST/HST notices**
+
+- [Notice309, Amendments to the Printed Book Rebate – Questions and Answers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice309.html)
+
+- [Notice310, Expiry of Maa-nulth First Nations exemption – Application of the GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice310.html)
+
+- [Notice311, Proposed Exemption of Multidisciplinary Health Care Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice311.html)
+
+- [Notice312, Proposed GST/HST Treatment of Supplies of Human Ova and In vitro Embryos](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice312.html)
+
+- [Notice313, Proposed Change for the Purpose of Zero-rating Certain Foot Care Devices](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice313.html)
+
+**Excise forms**
+
+- [B273, Excise Return - Cigarette Inventory Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b273.html)
+
+- [B402-1, Fuel Charge Return Schedule on Fuel Held in a Listed Province on Adjustment Day under section 38 of the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b402-1.html)
+
+- [E110, Description of Premises to Accompany Application for Licence](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/e110.html)
+
+- [E111, Description for Vessels and Utensils](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/e111.html)
+
+- [E146, Amended Plans and Specifications](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/e146.html)
+
+- [L63, Licence and Registration Application Excise Act, 2001](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l63.html)
+
+- [L400-2, Fuel Charge Registration Schedule - Road Carrier under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400-2.html)
+
+- [RC633, Beer Revenue Worksheet](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc633.html)
+
+- [RC634, Beer Credit Claim Worksheet](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc634.html)
+
+**Excise duty notices**
+
+- EDBN25, Adjusted Rates of Excise Duty on Beer Effective April 1, 2019
+
+- [EDN52, Obtaining and Renewing a Cannabis Licence](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edn52.html)
+
+- [EDN53, General Information for Cultivators, Producers and Packagers of Cannabis Products](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edn53.html)
+
+- [EDN54, General Overview of the Cannabis Excise Stamps](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edn54.html)
+
+- [EDN55, Calculation of Cannabis Duty and Additional Cannabis Duty on Cannabis Products](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edn55.html)
+
+- EDN56, New Cannabis Licence Applications – Supplemental Information
+
+- EDN57, Adjusted Rates of Excise Duty on Spirits and Wine Effective April 1, 2019
+
+- EDN58, Adjusted Rates of Excise Duty on Tobacco Products Effective April 1, 2019
+
+- EDN59, Cigarette Inventory Tax on April 1, 2019
+
+- [EDN60, Calculation of Cannabis Duty and Additional Cannabis Duty on Cannabis Oil, Cannabis Edibles, Cannabis Extracts and Cannabis Topicals](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edn60.html)
+
+**Fuel charge rates**
+
+- [FCRATES, Fuel Charge Rates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcrates.html)
+
+**Fuel charge notices**
+
+- [FCN1, Registration Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn1.html)
+
+- [FCN2, Distributors Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn2.html)
+
+- [FCN3, Annual Charge on Fuel Held in a Listed Province on Adjustment Day](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn3.html)
+
+- [FCN4, Importers Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn4.html)
+
+- [FCN5, Emitters Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn5.html)
+
+- [FCN6, Road Carriers Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn6.html)
+
+- [FCN7, Users Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn7.html)
+
+- [FCN8, Air Carriers, Marine Carriers, Specified Air Carriers or Specified Marine Carriers Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn8.html)
+
+- [FCN9, Rail Carriers or Specified Rail Carriers Under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/fcn9.html)
+
+**Fuel charge forms**
+
+- [B400, Fuel Charge Return - Registrant under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400.html)
+
+- [B400-1, Fuel Charge Return Schedule - Registered Distributor under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-1.html)
+
+- [B400-2, Fuel Charge Return Schedule - Registered Importer under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-2.html)
+
+- [B400-3, Fuel Charge Return Schedule - Registered Emitter under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-3.html)
+
+- [B400-4, Fuel Charge Return Schedule - Registered User of Fuel under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-4.html)
+
+- [B400-5, Fuel Charge Return Schedule - Registered User of Combustible Waste under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-5.html)
+
+- [B400-6, Fuel Charge Return Schedule - Registered Air Carrier under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-6.html)
+
+- [B400-7, Fuel Charge Return Schedule - Registered Specified Air Carrier under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-7.html)
+
+- [B400-8, Fuel Charge Return Schedule - Registered Marine Carrier under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-8.html)
+
+- [B400-9, Fuel Charge Return Schedule - Registered Specified Marine Carrier under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-9.html)
+
+- [B400-10, Fuel Charge Return Schedule - Registered Rail Carrier under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-10.html)
+
+- [B400-11, Fuel Charge Return Schedule - Registered Specified Rail Carrier under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-11.html)
+
+- [B400-12, Fuel Charge Return Schedule - Registered Road Carrier under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b400-12.html)
+
+- [B402, Fuel Charge Return on Fuel Held in a Listed Province on Adjustment Day under section 38 of the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b402.html)
+
+- [B402-1, Fuel Charge Return Schedule on Fuel Held in a Listed Province on Adjustment Day under section 38 of the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b402-1.html)
+
+- [L400, Fuel Charge Registration under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400.html)
+
+- [L400-1, Fuel Charge Registration Schedule under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400-1.html)
+
+- [L400-2, Fuel Charge Registration Schedule - Road Carrier under the Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400-2.html)
+
+- [L400-3, Non-Resident - Records Kept Outside Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l400-3.html)
+
+- [L401, Fuel Charge Exemption Certificate](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l401.html)
+
+- [L402, Fuel Charge Exemption Certificate for Farmers](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l402.html)
+
+- [L403, Fuel Charge Exemption Certificate for Fishers](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l403.html)
+
+- [L404, Fuel Charge Exemption Certificate for Greenhouse Operators](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l404.html)
+
+- [L405, Fuel Charge Exemption Certificate for Remote Power Plant Operators](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l405.html)
+
+- [RC644, Notice of Objection - Greenhouse Gas Pollution Pricing Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc644.html)
+
+All GST/HST, excise duty, and excise taxes and special levies publications can be found on the Canada.ca website. Go to the [Technical information – GST/HST](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html), [Excise taxes and other levies](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies.html) and [Excise duty](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty.html) webpages.
+
+To receive email notification as soon as a document is published on the CRA website, go to [electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribe to the RSS feed for all new CRA publications and forms, or subscribe to any number of mailing lists for different types of publications.
+
+## Contact us
+
+**More information**
+
+**Forms and publications**
+
+- All **GST/HST technical publications** and **GST/HST related forms** are available on the Canada.ca website. Go to [GST/HST related forms and publications](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+- To access **all other**forms and publications on the CRA website go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+- To order forms and publications**by telephone**, call 1‑800‑959‑5525.
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries,**call Business Enquiries at 1-800-959-5525;
+
+- for **GST/HST technical enquiries,**call GST/HST Rulings at 1‑800‑959‑8287.
+
+If you are located in**Quebec**, call**Revenu Québec**at **1-800-567-4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST - Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or
+
+- for**general GST/HST**or**QST enquiries**, call**Business Enquiries**at**1-800-959-5525;**
+
+- for**technical GST/HST**or**QST enquiries**, call**GST/HST Rulings SLFI**at**1-855-666-5166.**
+
+Go to the[**Contact Information – Excise Duties, Excise Taxes, Fuel Charge and Air Travellers Security Charge**](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/contacts.html)webpagefor technical enquiries, publications and forms, and regional office contact information.
+
+**Account enquiries**
+
+For**general information** and to make **enquiries**regarding your **account** (except for softwood lumber products export charge accounts), you can:
+
+- view answers to common enquiries, or submit an enquiry using the online “Enquiries service” on “My Business Account”;
+
+- view account information online at [E-services for Businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html); or
+
+- call Business Enquiries at 1‑800‑959‑5525.
+
+For **online access**to your **GST/HST**,**air travellers security charge**, **excise tax**and **duty accounts** (such as viewing up-to-date account balances and transactions, transferring payments and more), go to:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) if you are the business owner.
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html) if you are an authorized representative or employee; or
+
+For **enquiries**regarding the**status of specific GST/HST domestic rebate claims,** call Business Enquiries at 1‑800‑959‑5525.

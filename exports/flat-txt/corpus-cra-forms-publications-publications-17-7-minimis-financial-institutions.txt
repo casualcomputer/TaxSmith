@@ -1,0 +1,237 @@
+Title: De Minimis Financial Institutions
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-7/minimis-financial-institutions.html
+Corpus path: corpus/cra/forms-publications/publications/17-7/minimis-financial-institutions.md
+Document type: publication
+Last modified: 2022-01-24
+
+# De Minimis Financial Institutions
+
+GST/HST memorandum 17.7 February 2013
+
+**NOTE:**This version replaces GST Memorandum 700-4, *De Minimis Financial Institutions*.
+
+**Disclaimer:** The information in this memorandum does not replace the law found in the *Excise Tax Act* (the Act) and its regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate regulation, or contact any Canada Revenue Agency (CRA) GST/HST rulings office for additional information. A ruling should be requested for certainty in respect of any particular GST/HST matter. [Pamphlet RC4405, GST/HST Rulings – Experts in GST/HST Legislation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4405.html) explains how to obtain a ruling and lists the GST/HST rulings offices. If you wish to make a technical enquiry on the GST/HST by telephone, please call 1-800-959-8287.
+
+If you are located in Quebec and wish to make a technical enquiry or request a ruling related to the GST/HST, please contact Revenu Québec at 1-800-567-4692. You may also visit the [Revenu Québec Web site](http://www.revenuquebec.ca/en/) to obtain general information.
+
+**Note:** Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario, New Brunswick and Newfoundland and Labrador, 15% in Nova Scotia, and 12% in British Columbia. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, you may refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+Effective April 1, 2013, the 12% HST in British Columbia will be replaced by the 5% GST and a provincial sales tax. It is also proposed that, effective April 1, 2013, the provincial sales tax and the 5% GST currently in effect in Prince Edward Island will be replaced by a 14% HST.
+
+## Table of Contents
+
+- [Financial institutions](#_Toc348328970)
+
+- [Listed financial institutions](#_Toc348328971)
+
+    - [De minimis financial institutions](#_Toc348328972)
+
+          - [First *de minimis* threshold test](#_Toc348328973)
+
+          - [Second *de minimis* threshold test](#_Toc348328974)
+
+- [First *de minimis* threshold test](#_Toc348328975)
+
+    - [Financial revenue](#_Toc348328976)
+
+    - [Exclusions from financial revenue](#_Toc348328977)
+
+    - [Total revenue](#_Toc348328978)
+
+- [Second *de minimis* threshold test](#_Toc348328979)
+
+- [Amalgamation and acquisition](#_Toc348328980)
+
+## Financial institutions
+
+1. A financial institution is defined in subsection 123(1) to mean a person that is a financial institution under section 149. Subsection 149(1) identifies two categories of financial institutions for GST/HST purposes: listed financial institutions as described in paragraph 149(1)(a) and persons who are determined to be financial institutions based on the *de minimis* threshold tests set out in paragraphs 149(1)(b) and (c). The latter are referred to as "*de minimis* financial institutions."
+
+2. Determining whether a person is a financial institution is necessary because financial institutions are subject to particular treatment under various provisions of the *Excise Tax Act*. For example, under section 273.2, certain financial institutions whose income exceeds $1 million are required to file an annual information return. For more information, refer to [Guide RC4419, Financial Institution GST/HST Annual Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4419.html). As another example, section 141.02 provides for special input tax credit allocation methods which are applicable to certain financial institutions. Further information on this may be found in [GST/HST Memorandum 17-12, Input Tax Credit Allocation Methods for Financial Institutions for Purposes of Section 141.02](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-12.html).
+
+## Listed financial institutions
+
+para 149(1)(a)
+
+3. A listed financial institution, defined in subsection 123(1), is a person who is described in one of the categories set out in subparagraphs 149(1)(a)(i) through (xi). For example, a listed financial institution includes a person that is a bank, an investment dealer, a trust company, an insurance company, a credit union, an investment plan, a tax discounter, or a person whose principal business is lending money. Refer to [GST/HST Memorandum 17.6, Definition of "Listed Financial Institution"](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6.html) for more information about listed financial institutions.
+
+### De minimis financial institutions
+
+4. There are two *de minimis* threshold tests, found under paragraphs 149(1)(b) and (c). A person may be a financial institution for GST/HST purposes under either of these two paragraphs.
+
+5. Under subsection 149(4.1), paragraphs 149(1)(b) and (c) do not apply where the person is, at the beginning of the particular year, a charity, municipality, school authority, hospital authority, public college, university, non-profit organization that operated certain not-for-profit health care facilities, or a qualifying non-profit organization as defined in subsection 259(2). Therefore, these persons are not considered to be *de minimis* financial institutions.
+
+#### First de minimis threshold test
+
+para 149(1)(b)
+
+6. Generally, a person is a *de minimis* financial institution throughout a particular taxation year if, in the preceding taxation year, the person's revenue from interest, dividends (other than dividends in kind or patronage dividends), or separate fees or charges for financial services ("financial revenue") exceeds **both** 10% of the person's total revenue **and** $10 million.
+
+7. If the preceding taxation year was not 365 days, the threshold amount of $10 million must be prorated according to the number of days in that year.
+
+8. Refer to paragraphs 12 through 30 for information on how to calculate financial revenue (and what exclusions may apply) and total revenue for purposes of the first *de minimis* threshold test.
+
+#### Second de minimis threshold test
+
+para 149(1)(c)
+
+9. Generally, a person is a *de minimis* financial institution throughout a particular taxation year if, in the preceding taxation year, the person's income from interest, or separate fees or charges with respect to credit cards or charge cards issued by the person, or with respect to making advances, lending money, or granting credit exceeds $1 million.
+
+10. If the preceding taxation year was not 365 days, the threshold amount of $1 million must be prorated according to the number of days in that year.
+
+11. For information on calculating the second *de minimis* threshold test (including the exclusion for interest income from related corporations), refer to paragraphs 31 through 37.
+
+## First de minimis threshold test
+
+### Financial revenue
+
+12. For purposes of the first *de minimis* threshold test, financial revenue is the sum of all amounts that were included in computing a person's income under the *Income Tax Act* in the preceding taxation year and that are interest, dividends (other than dividends in kind or patronage dividends), or separate fees or charges for financial services. Where the person is an individual, only amounts included in the person's income from a business for the preceding taxation year are to be considered. The amounts of interest, dividends, and separate fees or charges for financial services are to be determined on a gross basis (i.e., before any deductions).
+
+13. A separate fee or charge for a financial service refers to an amount separate from the financial service. For example, the sale by a business of its accounts receivable is a financial service; however, the proceeds from such a sale are not a separate fee or charge by the business for the provision of a financial service. The business should not, therefore, include the amount it received for the sale of its accounts receivable when calculating its financial revenue. However, if for example, a manufacturing company charged a fee for providing a loan to its customers, such a fee would be considered to be a separate fee or charge for a financial service. The fee would be included in the calculation of financial revenue for purposes of the *de minimis* threshold test in paragraph 149(1)(b). The interest received by the manufacturer in respect of the loan would also be included in the calculation of financial revenue.
+
+14. In applying the *de minimis* threshold tests to partnerships, it should be noted that the *Income Tax Act* does not recognize partnerships as persons, with the result that partnerships are not liable for income tax. However, section 96 of the *Income Tax Act* requires a partnership to compute income as if it were a separate person.
+
+15. A partnership is defined as a "person" under subsection 123(1). Thus, a partnership may be a *de minimis* financial institution, and amounts used to calculate a partnership's income under section 96 of the *Income Tax Act* for a particular taxation year should also be used to calculate the partnership's revenue amounts for purposes of the *de minimis* threshold tests.
+
+### Exclusions from financial revenue
+
+Dividends in kind and patronage dividends
+
+16. Amounts attributable to dividends in kind and patronage dividends are not included in calculating financial revenue.
+
+17. A dividend in kind is a dividend paid by a corporation in assets other than money.
+
+18. A patronage dividend is a payment made to a customer by a supplier based on the proportion of business done with that customer in a taxation year and is defined in subsection 123(1) as an amount that is deductible under section 135 of the *Income Tax Act* in computing the income of the person paying the amount. Additional information about patronage dividends is available in [Interpretation Bulletin IT-362, Patronage Dividends](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it362r.html).
+
+Interest and dividends from related corporations ss 149(4)
+
+19. Under subsection 149(4), when calculating a person's financial revenue for purposes of the *de minimis* threshold test under paragraph 149(1)(b), or when calculating income for the purposes of the test under paragraph 149(1)(c), interest and dividends that the person received from a related corporation are excluded.
+
+20. Under subsection 126(2), persons are related to each other for GST/HST purposes if they are related to each other by reason of subsections 251(2) to (6) of the *Income Tax Act*. Under the *Income Tax Act*, the determination of whether a corporation is related to a person, or a group of persons, is generally linked to the concept of control and is a question of fact that must be answered on a case-by-case basis through direct reference to the legislation. For additional information on the concepts of related corporations and control, refer to [Interpretation Bulletins IT-419, Meaning of Arm's Length](https://www.canada.ca/E/pub/tp/it419r2/README.html) and [IT-64, Corporations: Association and Control](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it64r4-consolid.html).
+
+21. A holding company may be a *de minimis* financial institution if it meets either of the *de minimis* threshold tests. However, a holding company that is only holding shares and indebtedness of related corporations is not a *de minimis* financial institution where its only source of revenue is interest and dividend income from those corporations, because subsection 149(4) excludes this revenue from the calculation of financial revenue for the purpose of the *de minimis* threshold tests. For more information about holding companies, refer to [GST/HST Memorandum 8.6, Input Tax Credits for Holding Corporations and Corporate Takeovers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-6.html).
+
+22. Since the exclusion in subsection 149(4) applies only to interest or dividends received from a corporation related to the person, interest that a person receives **from** a partnership must, therefore, be included in calculating financial revenue.
+
+23. However, under subsection 126(3), a member of a partnership is deemed to be related to the partnership. Therefore, interest paid by a corporate partner to the partnership would be **excluded** from the calculation of a partnership's financial revenue, for the purposes of either *de minimis* threshold test.
+
+Supplies of precious metals ss 149(4.01)
+
+24. Precious metals that meet the definition found in subsection 123(1) are included in the definition of financial instrument in subsection 123(1) and the supply of those precious metals is a supply of a financial service. Where the supply is made by the refiner of the precious metals or by the person on whose behalf they were refined, the supply is zero-rated under section 3 of Part IX of Schedule VI.
+
+25. If a refiner's revenue from zero-rated supplies of precious metals were included in its financial revenue, the ratio of the refiner's financial revenue to total revenue could be relatively high, which could result in the refiner meeting the first *de minimis* threshold test. As a result it could be a *de minimis* financial institution despite the fact that the supply of precious metals by the refiner is a commercial activity because it is a zero-rated supply as opposed to an exempt supply.
+
+26. To ensure that the ratio calculated under the *de minimis* threshold test in paragraph 149(1)(b) reflects the percentage of a refiner's income from **exempt** financial services, subsection 149(4.01) states that a separate fee or charge for a financial service that is for a **zero-rated** supply of precious metals under section 3 of Part IX of Schedule VI is excluded when calculating the person's financial revenue for purposes of the *de minimis* threshold test.
+
+### Total revenue
+
+27. For purposes of the *de minimis* threshold test under paragraph 149(1)(b), a person's total revenue under clauses 149(1)(b)(i)(A) and (B) in the preceding taxation year is the sum of:
+
+- the person's financial revenue;
+
+- the interest and dividends received from related corporations; and
+
+- the total consideration that became due, or that was paid without having become due, in the preceding taxation year for all supplies made by the person, (other than for the sale of capital property and the supply of financial services that are not zero-rated supplies of precious metals under section 3 of Part IX of Schedule VI).
+
+28. Therefore, where the consideration for a supply was excluded from the calculation of financial revenue described above in paragraphs 16 to 26, it would still be included in the calculation of total revenue for purposes of the *de minimis* threshold test in paragraph 149(1)(b). For example, a separate fee or charge for a zero-rated supply of precious metals is included in the calculation of total revenue.
+
+29. Section 156 allows certain members of a closely related group of corporations and/or partnerships resident in Canada to elect to treat certain supplies between them as having been made for no consideration if those member corporations and/or partnerships meet certain requirements. However, when calculating total revenue under clause 149(1)(b)(i)(B), it is the CRA's position that the actual consideration paid or payable for supplies between closely related persons, and not the deemed amount of zero, should be included. For further information on the election for nil consideration, refer to [GST/HST Memorandum 14.5, Election for Nil Consideration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-5.html).
+
+30. If the preceding taxation year was not 365 days, the threshold amount of $10 million must be prorated according to the number of days in that year, in the following manner:
+
+($10,000,000 × A) ÷ 365
+
+where A is the number of days in the preceding taxation year.
+
+Corporation X received income for purposes of the *Income Tax Act* from the following sources in the preceding taxation year of 365 days:
+
+| $100,000,000 | business income, including $8,500,000 of interest income, and income from separate fees and charges for financial services; |
+
+| --- | --- |
+
+| $4,000,000 | interest and dividends on portfolio investments, and interest from its bank account; and |
+
+| $1,500,000 | interest income from a related company. |
+
+Corporation X's financial revenue totals $12,500,000 ($8,500,000 + $4,000,000).
+
+The $1,500,000 of interest income from a related corporation is excluded from financial revenue by subsection 149(4).
+
+Corporation X's total revenue is$105,500,000 ($100,000,000 + $ 4,000,000 + $1,500,000).
+
+Corporation X is a *de minimis* financial institution under paragraph 149(1)(b) because its financial revenue exceeds both 10% of its total revenue (10% × $105,500,000 = $10,550,000) and the threshold amount of $10,000,000.
+
+## Second de minimis threshold test
+
+31. Under the second *de minimis* threshold test in paragraph 149(1)(c), a person is a *de minimis* financial institution throughout a particular taxation year if, in the preceding taxation year, the total of all amounts that were included in computing the person's income under the *Income Tax Act* that are interest, or separate fees or charges with respect to credit cards or charge cards issued by the person or with respect to making advances, lending money, or granting credit exceeds $1 million. Where the person is an individual, only amounts included in computing the person's income from a business for the preceding taxation year are to be considered.
+
+32. The amounts of interest and separate fees or charges with respect to credit cards or charge cards issued by the person or with respect to making advances, lending money, or granting credit are to be determined on a gross basis (i.e., before any deductions).
+
+33. In the context of paragraph 149(1)(c), "interest" refers to interest amounts with respect to credit cards or charge cards issued by the person, or to advances made, money lent, or credit granted by the person.
+
+34. A person who purchases government or corporate bonds from the bond issuer, either directly or through an agent of the issuer, is considered to have lent money to the issuer upon purchase of the bonds. Any interest income that the person earns from the bonds is interest with respect to the lending of money and must be included when calculating financial revenue, except for such interest received from related corporations which is excluded under subsection 149(4).
+
+35. However, if a person purchases bonds on the secondary market (that is, from a person other than the issuer of the bonds or an agent thereof), the person is not considered to have lent money to the bond issuer. As such, any interest income that the person earns from bonds purchased on the secondary market should not be included when calculating financial revenue as this interest is not with respect to the lending of money.
+
+36. When calculating a person's income, for the purposes of the *de minimis* threshold test under paragraph 149(1)(c), interest that the person received from a related corporation is excluded. Refer to paragraphs 19 through 23 of this memorandum for more information.
+
+37. If the preceding taxation year was not 365 days, the threshold amount of $1 million must be prorated according to the number of days in that year, in the following manner:
+
+$1,000,000 × A ÷ 365
+
+where A is the number of days in the preceding taxation year.
+
+Retailer Y, has its own in-house charge card. In the preceding taxation year of 275 days, Retailer Y earned the following income for purposes of the *Income Tax Act*:
+
+| $30,000,000 | in business income from merchandise sales; and |
+
+| --- | --- |
+
+| $2,000,000 | in charge card interest. |
+
+The $2,000,000 of charge card interest is considered to be interest with respect to a charge card issued by Retailer Y which is included in the calculation of the *de minimis* threshold test under paragraph 149(1)(c).
+
+As there were 275 days in the preceding taxation year, the $1,000,000 threshold amount must be pro-rated as follows:
+
+$1,000,000 × (275 ÷ 365) = $750,000
+
+Retailer Y is a *de minimis* financial institution in the current taxation year as interest earned from its charge card exceeded the pro-rated threshold of $750,000 in the preceding taxation year.
+
+### Example 3
+
+Corporation Z is a large national manufacturing company that received income for purposes of the *Income Tax Act* from the following sources in the preceding taxation year of 365 days:
+
+| $800,000,000 | income from sales of its manufactured goods; |
+
+| --- | --- |
+
+| $6,800,000 | interest income from loans to related companies; |
+
+| $1,200,000 | interest from cash in its bank accounts and from Guaranteed Investment Certificates purchased from the issuer who is not a related corporation; |
+
+| $500,000 | interest from bonds purchased on the secondary market. |
+
+The interest earned from its bank accounts and Guaranteed Investment Certificates is considered to be interest with respect to making advances, lending money or granting credit and is included in the calculation of the *de minimis* threshold test under paragraph 149(1)(c).
+
+The interest from bonds purchased on the secondary market is not included the *de minimis* threshold calculation as it is not interest with respect to making advances, lending money or granting credit. In addition, the $6,800,000 of interest income from loans to related companies is excluded from the calculation of the threshold test by subsection 149(4).
+
+Therefore, for the purposes of the *de minimis* threshold test under paragraph 149(1)(c), Corporation Z's interest income totals $1,200,000. Corporation Z is a *de minimis* financial institution under paragraph 149(1)(c) as this amount exceeds $1 million.
+
+## Amalgamation and acquisition
+
+Amalgamation ss 149(2)
+
+38. Where two or more corporations are merged or amalgamated to form a new corporation and the principal business of the new corporation is the same as, or similar to the business of one or more of the predecessors that was a financial institution, then the new corporation is considered a financial institution for its taxation year that commences on the date of the merger or amalgamation.
+
+ss 271 and *Amalgamations and Windings-Up Continuation (GST/HST) Regulations*
+
+39. According to section 271, where two or more corporations are merged or amalgamated to form a new corporation, the new corporation is generally considered to be the same corporation as, and a continuation of, each predecessor for certain purposes, including for purposes of applying paragraphs 149(1)(b) and (c). Therefore, in applying the *de minimis* threshold tests under paragraphs 149(1)(b) and (c), amounts which were included as income of a predecessor for purposes of the *Income Tax Act* in the preceding taxation year must also be considered.
+
+Acquisition of a business ss 149(3)
+
+40. Where a person acquires a business as a going concern from a person who, immediately before that time was a financial institution, the person acquiring the business is considered to be a financial institution for the remainder of the taxation year if the purchaser's principal business immediately after the acquisition is the business so acquired. Where a person that is not a financial institution acquires a non-financial business from a financial institution, the CRA would generally not consider the person to be a financial institution.
+
+41. The CRA considers that the rule respecting the acquisition of a business applies only to the purchase of an entire business or a division of a business that operates as a going concern. It does not apply to the sale of shares by one person to another where the corporate entity continues its operations.
+
+## Enquiries by telephone
+
+All technical publications on GST/HST are available on the CRA Web site at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).

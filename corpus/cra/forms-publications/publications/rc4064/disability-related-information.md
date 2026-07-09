@@ -1,0 +1,984 @@
+---
+title: "Disability-Related Information 2025"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4064/disability-related-information.html
+last_modified: 2026-01-20
+---
+# Disability-Related Information 2025
+
+RC4064(E) Rev. 25
+
+The Canada Revenue Agency's publications and personalized correspondence are available in braille, large print, e-text, and MP3. For more information, go to [Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html) or call **1-800-959-8281**.
+
+## Find out if this guide is for you
+
+This guide is for persons with disabilities and their supporting persons. It gives information on:
+
+- the criteria for the disability tax credit and how to apply
+
+- related tax credits you could claim on the income tax and benefit return
+
+- other disability-related information
+
+This guide uses plain language to explain most common tax situations. It is provided for information only and does not replace the law.
+
+## New measures for the 2025 tax year
+
+### Additional expenses for the disability supports deduction
+
+Pursuant to proposed legislation, the list of expenses recognized under the disability supports deduction will be expanded for the 2024 and subsequent taxation years. For more information, read [Disability supports deduction (line 21500)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-21500-disability-supports-deduction.html).
+
+## Services for persons with disabilities
+
+### Teletypewriter (TTY) and Video Relay Service (VRS) users
+
+If you use a TTYfor a hearing or speech impairment, call **1-800-665-0354**.
+
+Register with Canada VRS to download the app and call the VRS line by going to [Get started with Canada VRS](https://srvcanadavrs.ca/en/get-the-app/).
+
+If you use another **operator-assisted relay service**, call the Canada Revenue Agency's (CRA) regular telephone numbers instead of the TTY or Canada VRS numbers.
+
+### Help for persons who are blind or partially sighted
+
+If you have difficulty filling out regular print forms and returns, you can file them in braille or in large print. To get your publications in the format you want, go to [Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html) or call **1-800-959-8281**.
+
+### Community Volunteer Income Tax Program
+
+If you have a modest income and a simple tax situation, community volunteers may be able to prepare your tax return for you. For more information, go to [Free tax clinics](https://www.canada.ca/en/revenue-agency/services/tax/individuals/community-volunteer-income-tax-program.html).
+
+## Non-refundable tax credits
+
+Non-refundable tax credits are amounts that reduce the income tax you may have to pay.
+
+### Disability tax credit
+
+The disability tax credit (DTC) is a non-refundable tax credit that helps persons with disabilities or their supporting family members reduce the amount of income tax they may have to pay.
+
+A person with a severe and prolonged impairment in physical or mental functions may be eligible for the DTC. Once an individual is eligible for the DTC, the disability amount can be claimed on their tax return(s) for the applicable year(s).
+
+Being eligible for the DTC can allow you to claim certain deductions, credits, and benefits, which are mentioned in this guide.
+
+#### How to apply
+
+To apply for the DTC, you must submit a filled-out [Form T2201, *Disability Tax Credit Certificate*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2201.html), to the CRA. See instructions on [filling out Form T2201](#fllt2201).
+
+Form T2201 is divided into 2 parts. Part A is for you to fill out, and Part B is for your medical practitioner to fill out. For the purposes of the DTC, medical practitioners are:
+
+- audiologists
+
+- medical doctors
+
+- nurse practitioners
+
+- occupational therapists
+
+- optometrists
+
+- physiotherapists
+
+- psychologists
+
+- speech-language pathologists
+
+Medical practitioners can use the new [DTC digital application](https://apps.cra-arc.gc.ca/ebci/uisp/dtc/entry/en) to fill out Part B of Form T2201.
+
+In order to make an eligibility determination, the CRA uses the details that your medical practitioner provides about your impairment.
+
+#### Eligibility guidelines
+
+An individual may be eligible for the DTC if they have an impairment in physical or mental functions that is severe and prolonged, resulting in a marked restriction. In all cases, the effects of the impairment must meet specific criteria under one of the following categories:
+
+- vision
+
+- speaking
+
+- hearing
+
+- walking
+
+- eliminating (bowel or bladder functions)
+
+- feeding
+
+- dressing
+
+- mental functions necessary for everyday life
+
+- cumulative effect of significant limitations
+
+- life-sustaining therapy
+
+Eligibility under vision is based on whether an individual is considered blind, that is, even with the use of corrective lenses or medication, **both eyes** meet at least one of the following criteria:
+
+- visual acuity of 20/200 (or worse)
+
+- greatest diameter of the field of vision is 20 degrees or less.
+
+A marked restriction means that, even with appropriate therapy, devices, and medication, the individual is unable or takes an inordinate amount of time to perform activities or functions in one of the listed categories, and this is the case all or substantially all of the time. These criteria do not apply to vision, the cumulative effect of significant limitations, and life-sustaining therapy, given that they each have specific conditions that must be met.
+
+An **inordinate amount of time** is a clinical judgment made by a medical practitioner if they observe a recognizable difference in the time it takes an individual to perform an activity or function in the listed categories, even with therapy and the use of appropriate devices and medication. Generally, that difference must be at least 3 times longer than is required by persons of similar age who do not have an impairment in the particular category.
+
+An individual’s limitations are generally considered to exist**all or substantially all of the time** if the individual’s impairment limits their ability to perform activities or functions in a category at least 90% of the time. If they are not limited at least 90% of the time, the individual may not meet the eligibility criteria.
+
+An impairment is **prolonged** if it has lasted for a continuous period of at least 12 months or it is expected to last for a continuous period of at least 12 months.
+
+If an impairment is severe and prolonged but does not cause the individual to be blind or to otherwise have a marked restriction, the individual may still qualify under the cumulative effect of significant limitations or life-sustaining therapy, as defined below.
+
+To be eligible under the cumulative effect of significant limitations category, an individual must have limitations in 2 or more categories (excluding life-sustaining therapy) that:
+
+- exist together all or substantially all of the time (generally interpreted as 90% or more)
+
+- have a combined impact that is:
+
+    - equivalent to being unable, or taking an inordinate amount of time, in one single category
+
+    - present all or substantially all of the time (generally interpreted as 90% or more), even with appropriate therapy, devices, and medication
+
+Another category for the DTC eligibility is **life-sustaining therapy**, which must meet the following criteria:
+
+- The therapy supports a vital function.
+
+- The therapy is needed at least **2 times** per week.
+
+- The therapy is needed for an average of at least **14 hours** per week.
+
+Individuals diagnosed with type 1 diabetes are deemed to have met the above criteria.
+
+Only time dedicated to the therapy – that is, time taken away from normal, everyday activities for the purposes of the therapy – is counted in these 14 hours. It includes the time you need to set up a portable device.
+
+If your therapy requires a regular dosage of medication that needs to be adjusted daily, the time spent on activities directly related to determining the dosage and administering the medication **can** be counted in the 14 hours per week requirement. For example:
+
+- checking blood glucose levels
+
+- preparing and administering the insulin
+
+- calibrating necessary equipment
+
+- testing ketones
+
+- keeping a logbook of blood glucose levels
+
+- counting carbohydrates to determine the dose of insulin to be administered
+
+In the case of therapy that requires the daily consumption of a medical food or medical formula to limit intake of a particular compound to levels required for the proper development or functioning of the body, therapy also includes the time spent on activities that are directly related to the determination of the amount of the compound that can be safely consumed.
+
+If a child cannot do the activities related to the therapy because of their age, the time spent by another person to do and supervise these activities **can** be counted in the 14 hours per week requirement. For example, supervision for a child includes:
+
+- having to wake the child at night to perform tests
+
+- monitoring the child to determine if more testing is needed (during or after physical activity)
+
+- performing other supervisory activities that can reasonably be considered necessary to adjust the dosage of medication
+
+If the individual requiring the therapy cannot do the activities related to the therapy due to an impairment in physical or mental functions, the time spent by another person to assist in performing those activities can be counted in the 14 hours per week requirement.
+
+However, some activities **do not** count in the 14 hours per week requirement, such as:
+
+- the time a portable or implanted device takes to deliver the therapy (such as an insulin pump, a CPAP machine, or a pacemaker)
+
+- exercising
+
+- activities related to managing dietary restrictions or regimes other than those **directly** related to the determination of the dosage of medication or the amount of a particular compound that can be safely consumed
+
+- travel time to receive the therapy
+
+- going to medical appointments (other than appointments where the therapy is received or the daily dosage of medication, or medical food or formula is determined)
+
+- obtaining medication
+
+- recuperation after therapy (except when medically required)
+
+The following table shows the type of medical practitioners who can certify each category and gives examples to help you understand what situations may be eligible.
+
+| Category: | You may be eligible for the DTC if you have: | Examples: |
+
+| --- | --- | --- |
+
+| **Vision** can be certified by: a medical doctor a nurse practitioner an optometrist | Reduced visual acuity or field of vision | You are considered blind in both eyes according to at least one of the following criteria:The visual acuity is 20/200 (6/60) or less after correction on the Snellen Chart (or an equivalent) The greatest diameter of the field of vision is 20 degrees or less after correction You are not considered blind in both eyes, but your reduced vision after correction impacts your ability to perform other activities, such as walking or feeding yourself |
+
+| **Speaking** can be certified by: a medical doctor a nurse practitioner a speech-language pathologist | Difficulty speaking so as to be understood by a familiar person in a quiet setting | You must rely on other means of communication, such as sign language or a symbol board In a quiet setting, a friend or family member must ask you to repeat words and sentences several times to understand you |
+
+| **Hearing**can be certified by: a medical doctor a nurse practitioner an audiologist | Difficulty hearing so as to understand spoken conversation with a familiar person in a quiet setting | You must rely on lip reading or sign language to understand a spoken conversation In a quiet setting, a friend or family member must raise their voice and repeat words and sentences several times for you to understand, despite the use of hearing aids |
+
+| **Walking**can be certified by: a medical doctor a nurse practitioner an occupational therapist a physiotherapist | Difficulty walking | You rely on a wheelchair outside of the home, even for short distances You are unable to walk a short distance, such as 100 metres (approximately one city block) |
+
+| **Eliminating** **(bowel or bladder functions)**can be certified by: a medical doctor a nurse practitioner | Difficulty personally managing bowel or bladder functions | You need a catheter for eliminating You have urinary incontinence. You must spend extra time tending to your elimination as you need incontinence pads |
+
+| **Feeding**canbe certified by: a medical doctor a nurse practitioner an occupational therapist | Difficulty preparing food (not including identifying, finding, obtaining, or shopping for food) and feeding yourself, as well as chewing and swallowing | You require a feeding tube You take more time than the average person to prepare meals or to feed yourself, on a daily basis, due to significant pain and decreased strength and dexterity in your upper limbs |
+
+| **Dressing** can be certified by: a medical doctor a nurse practitioner an occupational therapist | Difficulty dressing yourself (not including identifying, finding, obtaining, or shopping for clothing) | You require assistance from another person to dress yourself Due to pain, stiffness, and decreased dexterity, you take 3 times longer than the average person to dress yourself on a daily basis |
+
+| **Mental functions necessary for everyday life** can be certified by: a medical doctor a nurse practitioner a psychologist | Difficulty performing mental functions necessary for everyday life, which are considered to include: adaptive functioning attention concentration goal-setting judgment memory perception of reality problem-solving regulation of behaviour and emotions verbal and non-verbal comprehension | You are independent in some aspects of everyday living; however, despite medication and therapy, you need daily support and supervision due to an inability to accurately interpret your environment You cannot make a common, simple transaction, such as buying food at the grocery store, without help You experience psychotic episodes several times a year. Given the unpredictability of your psychotic episodes and the other defining symptoms of your impairment (for example, lack of initiative or motivation, disorganized behaviour and speech), you continue to need daily supervision You are unable to express your needs or anticipate consequences of behaviour when interacting with others You are unable to comply with prescribed treatments You are unable to remember basic personal information, such as date of birth or address |
+
+| **Cumulative effect of significant limitation**s can be certified by: a medical doctor a nurse practitioner an occupational therapist (can only certify for walking, feeding, and dressing) | Limitations in 2 or more categories (not including life-sustaining therapy) | You can walk 100 metres (approximately one city block), but then must take time to recuperate. You can carry out the mental functions necessary for everyday life, but can concentrate on any topic for only a short period of time. The cumulative effect of the limitations is equivalent to being unable or taking an inordinate amount of time in one impairment category You always take a long time for walking, dressing and feeding. The extra time it takes you to do these activities, when added together, is equivalent to being unable or taking an inordinate amount of time in one impairment category |
+
+| **Life-sustaining therapy** can be certified by: a medical doctor a nurse practitioner | An impairment requiring life-sustaining therapy that: supports a vital function is needed at least 2 times per week is needed for an average of at least 14 hours per week where the patient or another person takes time away from normal, everyday activities to administer the therapy | Chest physiotherapy to ease breathing Kidney dialysis to filter blood Insulin therapy to treat type 1 diabetes* |
+
+*People with type 1 diabetes are deemed to meet the eligibility criteria under life-sustaining therapy.
+
+#### How eligibility is determined
+
+Your medical practitioner provides the CRA with your medical information, but does not determine your eligibility for the DTC. Eligibility for the DTC is not based solely on the medical condition, but rather is based on the effects of the impairment.
+
+Eligibility is not impacted by the receipt of other federal or provincial benefits. If you receive Canada Pension Plan or Quebec Pension Plan disability benefits, workers’ compensation benefits, or other types of disability or insurance benefits, it **does not** necessarily mean you are eligible for the DTC. These programs have other purposes and different criteria, such as an individual’s inability to work.
+
+You can fill out the [self-assessment questionnaire](#slf-ssmnt) to find out if you may be eligible. This questionnaire does not replace Form T2201, *Disability Tax Credit Certificate*.
+
+#### Fill out Form T2201
+
+To apply for the DTC, you have to submit a fully completed [Form T2201, *Disability Tax Credit Certificate*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2201.html). This form has 2 parts. Part A is for the individual applying for the DTC, and Part B is for their medical practitioner to complete and certify that the individual has a severe and prolonged impairment in physical or mental functions.
+
+Part A of Form T2201 can be completed using the digital form (available in My Account at [Sign in to your CRA Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html)), by phone, or by paper form. Only choose one method to apply.
+
+If you have existing DTC eligibility, you only need to send a new Form T2201 if your eligibility period is expiring or if the CRA requests one. You can verify your current eligibility status in My Account at [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+To help you apply, see the instructions below. For more information on the digital application process, go to [Disability tax credit – How to apply](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit/how-apply-dtc.html).
+
+##### Fill out Part A of Form T2201
+
+Fill out and sign the sections of Part A that apply to you.
+
+**1) Tell us about the person with the disability**
+
+Enter the information about the person with the disability.
+
+**2) Tell us about the person intending to claim the disability amount**
+
+This section only needs to be completed if someone other than the person with the disability is intending to claim the disability amount on their taxes. If you are a supporting family member and want to transfer the disability amount from your spouse or common-law partner, or dependant, fill out the section about the supporting family member.
+
+As a supporting family member, you may be able to transfer the disability amount that the person with the disability may not need to reduce their tax. To transfer all or part of the disability amount, you must provide some or all of the basic necessities of life (such as food, shelter, and clothing) for the person with the disability on a regular and consistent basis, **and** the person has to actually rely on your contributions. To that effect, you must be able to show that the income (or income support) received by the person with the disability is insufficient to fully meet their basic needs. For more information, go to [Transfer to a supporting individual](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-1-health-medical/income-tax-folio-s1-f1-c2-disability-tax-credit.html) in the Income Tax Folio S1-F1-C2, *Disability Tax Credit*.
+
+If a supporting family member other than the one whose name appears on Part A is also claiming a portion of the disability amount, they can attach and sign a separate sheet of paper with their name, SIN, and information about the support they provide to the person with the disability. Alternatively, they can wait until the CRA acknowledges the receipt of Form T2201, then submit a letter to the CRA to claim a transfer of a portion of the disability amount. The letter must include their name, SIN, and information about the support they provide to the person with the disability, along with the unique identifier on the CRA acknowledgement letter.
+
+**3) Previous tax return adjustments**
+
+This section applies only to the person with the disability identified in section 1 or, if they are under 18, to their parent or legal guardian.
+
+This section allows you to specify whether you would like the CRA to adjust your tax returns to reflect the disability amount if eligibility is approved. After the application is approved, the CRA will automatically adjust your tax returns for all applicable years. The CRA will include the federal and provincial disability amounts for all years that apply (except for residents of Quebec who have to file a separate provincial return).
+
+You can send Form T1-ADJ, *T1 Adjustment Request*, if you need to adjust a tax year for one of the following reasons:
+
+- You are claiming the disability amount for a dependant 18 or older.
+
+- You are claiming the disability amount for your spouse or common law partner.
+
+- The disability amount needs to be divided between 2 or more supporting persons.
+
+- You need any other change that is not mentioned above.
+
+You may also send a letter with the details of your request. Forms and letters can be sent with Form T2201 at the time of application or separately to your tax centre. If another individual is representing you, you must authorize them by going to [Representative authorization](https://www.canada.ca/en/revenue-agency/services/tax/representative-authorization.html).
+
+**4) Individual’s authorization**
+
+The person with the disability or their legal representative must sign this section.
+
+Before you sign, make sure that all the information provided in Part A of Form T2201 is correct and complete.
+
+This signature authorizes the CRA to contact your medical practitioner if additional information is required to make an eligibility determination. It also authorizes the CRA to adjust your tax returns, as applicable, if you selected that option in section 3.
+
+Part B of Form T2201 needs to be completed by your medical practitioner and submitted electronically through the DTC digital form or attached to your completed Part A.
+
+#### Submit your completed Form T2201
+
+Submit Form T2201 to your tax centre. The form must be sent in its entirety (Parts A and B). Your Form T2201 can be submitted in 2 ways:
+
+- through the ‘Submit documents’ feature in My Account
+
+- through the digital form; complete Part A online or by phone, then give your medical practitioner the reference number for them to fill in Part B of the form
+
+- by mail to your nearest tax centre, read the following table
+
+##### Tax centre addresses
+
+Winnipeg Tax Centre Post Office Box 14006, Station Main Winnipeg MB R3C 0E5
+
+Sudbury Tax Centre Post Office Box 20000, Station A Sudbury ON P3A 5C1
+
+Jonquière Tax Centre 2251 René-Lévesque Boulevard Jonquière QC G7S 5J2
+
+You can send the form at any time during the year. Keep a copy for your records.
+
+#### What happens after Form T2201 is sent
+
+All applications are reviewed before the CRA allows or denies the credit. The decision is based on the information given by the medical practitioner. If more information is needed, the CRA may contact you or the medical practitioner.
+
+If the CRA asks you to send supporting documents or receipts, you may do so by going to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html). You will receive a letter containing a reference number and instructions on how to proceed.
+
+After a decision is made, the CRA will mail you a notice of determination.
+
+You are responsible for any fees that the medical practitioner charges to fill out the form. You may be able to claim these fees as medical expenses on line 33099 or line 33199 of your tax return (Step 5 – Federal tax). For more information on medical expenses you can claim, go to [Lines 33099 and 33199 – Eligible medical expenses you can claim on your tax return](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/lines-33099-33199-eligible-medical-expenses-you-claim-on-your-tax-return.html) or read [Guide RC4065, *Medical Expenses*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4065.html).
+
+##### The application is approved
+
+The notice of determination will show which year(s) you are eligible for the DTC. The notice of determination may also include information about other programs that depend on eligibility for the DTC. You do not need to send a new Form T2201 each year, unless the CRA asks for one or the eligibility period has expired.
+
+You can view your DTC information by going to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+You must tell the CRA if your medical condition improves and you no longer meet the criteria for the DTC.
+
+##### The application is denied
+
+The notice of determination will explain why the application was denied. Check your copy of Form T2201 against the reason(s) given. The CRA's decision is based on the information given by the medical practitioner.
+
+If you disagree with the decision, you can write to your [tax centre](#dtc_txcntr) and ask them to review your application. You must include any relevant medical information that you have not already sent, such as medical reports or a letter from a medical practitioner who is familiar with your situation. This information should describe how the impairment affects the activities of daily living.
+
+You can also formally object to the CRA's decision. The time limit for filing an objection is no later than 90 days after the notice of determination is mailed to you. For more information, go to [File an objection](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/file-objection-cppei-appeal-minister.html) or read [Brochure P148, *Resolving your dispute: Objection and appeal rights under the Income Tax Act*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p148.html).
+
+#### How to claim the disability amount
+
+##### Disability amount for self (line 31600)
+
+If you are eligible for the DTC, you can claim the disability amount on your tax return.
+
+If you were **18 years of age or older** at the end of 2025, claim the federal disability amount of $10,138 on line 31600 of your tax return (Step 5 – Federal tax).
+
+If you or anyone else paid for attendant care, or care in a facility, special rules may apply. For more information, go to [Lines 33099 and 33199 – Eligible medical expenses you can claim on your tax return](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/lines-33099-33199-eligible-medical-expenses-you-claim-on-your-tax-return.html) or read [Guide RC4065, *Medical Expenses*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4065.html).
+
+**Supplement for persons under 18**– If you qualify for the disability amount and were under 18 years of age at the end of the year, you can claim up to an additional $5,914. This supplement may be reduced if, in 2025, one of the following situations applies:
+
+- Someone claimed child care expenses for you on line 21400 or attendant care expenses for you on line 33099 or line 33199 of their tax return.
+
+- You claimed attendant care expenses on line 21500 or on line 33099 of your tax return.
+
+To calculate this supplement, use the *[Federal worksheet](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-d1.html)*.
+
+##### Disability amount transferred from a dependant (line 31800)
+
+You may be able to claim all or part of your dependant’s (other than your spouse’s or common-law partner’s) disability amount if your dependant meets all of the following criteria:
+
+- is eligible for the DTC
+
+- was resident in Canada at any time in 2025
+
+- was dependent on you for all or some of the basic necessities of life (such as food, shelter, and clothing)
+
+In addition, one of the following situations has to apply:
+
+- You claimed an amount on line 30400 of your tax return (Step 5 – Federal tax) for that dependant, or you could have if you did not have a spouse or common-law partner and if the dependant did not have any income.
+
+- The dependant was your or your spouse’s or common-law partner’s parent, grandparent, child, grandchild, brother, sister, uncle, aunt, nephew, or niece, and you claimed an amount on line 30450 of your tax return for that dependant or you could have if they had no income and had been 18 years of age or older in 2025.
+
+You **cannot** claim the unused part of the disability amount if the spouse or common-law partner of the person with a disability is already claiming:
+
+- the disability amount on line 32600 of their tax return
+
+- any other non-refundable tax credit (other than medical expenses) for the person with a disability
+
+Also, you **cannot** claim the unused part of the disability amount if someone else is claiming an eligible dependant amount for the person with a disability on line 30400 of their tax return. When this is the case, only the individual claiming an amount on line 30400 may claim the unused part of the disability amount transferred from the person with a disability.
+
+If you or anyone else paid for attendant care or for care in a facility, special rules may apply. For more information, go to [Lines 33099 and 33199 – Eligible medical expenses you can claim on your tax return](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/lines-33099-33199-eligible-medical-expenses-you-claim-on-your-tax-return.html) or read [Guide RC4065, *Medical Expenses*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4065.html).
+
+**If you pay child support** – You cannot claim the disability amount transferred from a child for whom you had to pay support payments **except** in one of the following situations:
+
+- You were separated from your spouse or common-law partner for only part of 2025 due to a breakdown in your relationship **and** you did not claim any support amounts paid to your spouse or common-law partner on line 22000 of your return. When this is the case, you can claim a disability amount transferred from your child on line 31800 of your return, in addition to any allowable amounts for that child on line 30400 and line 30425 of your return if applicable.**Note:** In this situation, if it is better for you, you can choose not to claim any amounts for your child (for example on line 31800, line 30400 and line 30425), and only claim support amounts you paid to your spouse or common-law partner on line 22000 of your return.
+
+- You and another person had to make support payments for the child for 2025. When this is the case, you can claim the disability amount transferred from your child only if you and the other person(s) paying support agree that you will be the one making the claim (for more information, read [Income Tax Folio S1-F3-C3, *Support payments*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-3-family-unit-issues/income-tax-folio-s1-f3-c3-support-payments.html)).
+
+You may also be able to transfer an amount for a **supplement** if your dependant meets **all** of the following criteria:
+
+- was**under 18 years of age** at the end of the year
+
+- was eligible for the DTC
+
+To calculate this amount, use the *[Federal worksheet](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-d1.html)*.
+
+##### Amounts transferred from your spouse or common-law partner (line 32600)
+
+You may be able to claim all or part of the disability amount for which your spouse or common-law partner qualifies. To calculate this amount, use [Schedule 2, *Federal Amounts Transferred From Your Spouse or Common-Law Partner*](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s2.html) (Quebec residents and non-residents, use [Schedule 2 for Quebec residents and non-residents](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/quebec/5005-s2.html)).
+
+If you or anyone else paid for attendant care or for care in a facility, special rules may apply.
+
+For more information, go to [Line 32600 – Amounts transferred from your spouse or common-law partner](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-32600-amounts-transferred-your-spouse-common-law-partner.html) or read [Guide RC4065, *Medical Expenses*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4065.html).
+
+#### Self-assessment questionnaire
+
+The following 11 questions will help you determine if you may be eligible for the DTC. However, even if your answers indicate that you are not eligible, you can still send in an application.
+
+| # | Question | Action |
+
+| --- | --- | --- |
+
+| 1. | Do you have an impairment in physical or mental functions that has lasted, or is expected to last, for a continuous period of at least 12 months? | If yes, proceed to question 2. If no, you are not eligible for the DTC.1 |
+
+| 2. | Do you receive life-sustaining therapy that supports a vital function?2 | If yes, proceed to question 3. If no, proceed to question 5. |
+
+| 3. | Do you receive insulin therapy for type 1 diabetes? | If yes, you are eligible for the DTC. If no, proceed to question 4. |
+
+| 4. | Do you receive the life-sustaining therapy at least 2 times per week, for an average of 14 hours per week? | If yes, you may be eligible for the DTC. If no, proceed to question 5. |
+
+| 5. | Are you blind?3 | If yes, you may be eligible for the DTC. If no, proceed to question 6. |
+
+| 6. | Do you have severe or profound hearing loss in both ears even when using any applicable devices?4 | If yes, you may be eligible for the DTC. If no, proceed to question 7. |
+
+| 7. | Do any of the following statements apply to you? I am confined to a bed or wheelchair at all times. I have had a limb amputated. Tube feeding is my primary means of feeding myself. I have chronic renal failure. I require catheterization to manage my bladder functions. Sign language is my primary means of communication. | If yes, you may be eligible for the DTC. If no, proceed to question 8. |
+
+| 8. | Do you have an impairment in any of the following categories? vision speaking hearing walking eliminating (bowel or bladder functions) feeding (including food preparation) dressing mental functions necessary for everyday life | If yes, proceed to question 9. If no, you are not eligible for the DTC. |
+
+| 9. | Does your impairment in at least one of these categories cause you to be unable to perform the activity – or to take at least 3 times longer than someone of similar age without the impairment – all or substantially all of the time, even with the appropriate therapy, devices, and medication? | If yes, you may be eligible for the DTC. If no, proceed to question 10. |
+
+| 10. | Do you have impairments in 2 or more of the categories listed in question 8 causing significant limitations which exist together all or substantially all of the time? | If yes, proceed to question 11. If no, you are not eligible for the DTC. |
+
+| 11. | Is the combined effect of your significant limitations comparable to being unable – or taking an inordinate amount of time – in one category all or substantially all of the time, even with appropriate therapy, devices, and medication?5 | If yes, you may be eligible for the DTC. If no, you are not eligible for the DTC. |
+
+1. The impairment must be prolonged, meaning that it has lasted or is expected to last for a continuous period of at least 12 months.
+
+2. People with type 1 diabetes are deemed to meet the eligibility criteria under life-sustaining therapy. Examples of life-sustaining therapy that support a vital function are therapies like kidney dialysis, insulin therapy, oxygen therapy, and chest physiotherapy.
+
+3. You are considered to be blind if your visual acuity is 20/200 (6/60) or worse on the Snellen Chart (or an equivalent) or the greatest diameter of your field of vision is 20 degrees or less in both eyes after correction.
+
+4. Severe hearing loss is in the range of 71-90dB and profound hearing loss is 91dB+.
+
+5. An example of a combined effect of multiple limitations is when someone always takes a long time to walk and dress. The extra time it takes to perform those activities, when added together, is equivalent to taking an inordinate amount of time in one impairment category.
+
+### Amount for an eligible dependant (line 30400)
+
+The maximum amount for 2025 that you can claim on [line 30400](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-30400-amount-eligible-dependant.html) of your tax return (Step 5 – Federal tax) is $16,129 if your net income for the year was $177,882 or less. If your net income was $253,414 or more, the maximum amount for 2025 is $14,538. Otherwise, if your net income was between $177,882 and $253,414 the amount is gradually reduced from $16,129 to a minimum of $14,538. This amount will be reduced by your dependant's net income, if any.
+
+If your dependant has an impairment in physical or mental functions, you may also claim the [Canada caregiver amount](#ccc).
+
+### Eligibility criteria
+
+You may be able to claim this amount if, **at any time in the year**, you met **all** of the following criteria at once:
+
+- You did not have a spouse or common-law partner or, if you did, you were not living with, supporting, or being supported by that person.
+
+- You supported a dependant in 2025.
+
+- You lived with the dependant (in most cases in Canada) in a home you maintained. You cannot claim this amount for a person who was only visiting you.
+
+In addition, when you met all of these criteria, your dependant must have been one of the following persons:
+
+- your parent or grandparent by blood, marriage, common-law partnership, or adoption
+
+- your child, grandchild, brother, or sister, by blood, marriage, common-law partnership, or adoption **and** under 18 years of age
+
+- your child, grandchild, brother, or sister, by blood, marriage, common-law partnership, or adoption and 18 years of age or older **with** an impairment in physical or mental functions
+
+A household is allowed only one claim on line 30400, even if there is more than one dependant in the household.
+
+If you or someone else claims this amount for a dependant, it may affect other claims being made.
+
+For more information, see [Line 30400](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-30400-amount-eligible-dependant.html).
+
+### Canada caregiver amount
+
+The Canada caregiver credit helps caregivers with the expenses involved with taking care of their spouse or common-law partner or dependant who has a mental or physical infirmity. The Canada caregiver amount can be claimed on different lines of your tax return depending on whom you are claiming an amount for.
+
+If you or someone else claims this amount for a spouse or common-law partner or dependant, it may affect other claims being made.
+
+#### Claiming an amount for your spouse or common-law partner
+
+You may be able to claim the Canada caregiver amount for your spouse or common-law partner who is dependent on you because of a mental or physical infirmity. If you can claim an amount for your spouse or common-law partner on line 30300 of your tax return (Step 5 – Federal tax), you may be able to include the Canada caregiver amount of $2,687 when calculating the amount on line 30300. You may also be able to claim an additional amount on line 30425 of your tax return.
+
+For more information, go to [line 30300](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-30300-spouse-common-law-partner-amount.html) and [line 30425](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-30425-caregiver-spouse-dependant.html).
+
+#### Claiming an amount for your dependant who is 18 years of age or older
+
+##### If you can claim an amount for your dependant on line 30400
+
+If you can claim an amount for your dependant with a mental or physical infirmity who is 18 years of age or older on line 30400 of your tax return (Step 5 – Federal tax), you may be able to include the Canada caregiver amount of $2,687 when calculating the amount on line 30400. Also, you may be able to claim an additional amount on line 30425 of your tax return.
+
+For more information, go to [line 30400](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-30400-amount-eligible-dependant.html) and [line 30425](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-30425-caregiver-spouse-dependant.html).
+
+##### If you cannot claim an amount for your dependant on line 30400
+
+You may be able to claim the Canada caregiver amount of up to $8,601 on line 30450 of your tax return (Step 5 – Federal tax) for each of your or your spouse’s or common-law partner’s dependent children or grandchildren if that person meets **all** of the following criteria:
+
+- has a mental or physical infirmity
+
+- is dependant on you because of that infirmity
+
+- was born in 2007 or earlier
+
+You may also be able to claim an amount for each dependant if that person meets **all** of the following criteria. They must:
+
+- be your or your spouse’s or common-law partner’s parent, grandparent, brother, sister, uncle, aunt, nephew, or niece
+
+- be born in 2007 or earlier
+
+- have a mental or physical infirmity
+
+- be dependent on you, or on you and others, for support
+
+- be a resident of Canada at any time in the year (you cannot claim this amount for a person who was only visiting you)
+
+For more information, go to [line 30450](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-30450-caregiver-infirm-dependant.html) or read [Schedule 5, *Amounts for Spouse or Common-Law Partner and Dependants*](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s5.html), of your income tax package.
+
+#### Claiming an amount for your dependant under 18 years of age
+
+##### Claiming an amount for your child
+
+A child includes a person who is one of the following:
+
+- your or your spouse or common-law partner's biological or adopted child
+
+- your child's spouse or common-law partner
+
+- under your custody and control and is wholly dependent on you for support
+
+You can claim an amount of $2,687 on line 30500 of your tax return (Step 5 – Federal tax) for each child who meets **all** of the following criteria:
+
+- is your or your spouse's or common-law partner's child
+
+- is under 18 years of age at the end of the year
+
+- has a mental or physical infirmity
+
+- needs much more help for their needs and care compared to children of the same age
+
+If the child does not live with both parents throughout the year, only the parent or their spouse or common-law partner who claims an amount on [line 30400](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-30400-amount-eligible-dependant.html) for that child can make the claim on line 30500. If no one can claim an amount on line 30400, the claim can be made on line 30500 for their child if the parent or spouse or common-law partner could not claim an amount on line 30400 because of one of the following reasons:
+
+- The parent has a spouse or common-law partner.
+
+- The parent claimed an amount on line 30400 for another eligible dependant.
+
+- Someone else in the household claimed an amount on line 30400 for another dependant.
+
+- The child's income is too high.
+
+You or your spouse or common-law partner can claim this amount for all eligible children separately, but the amount can only be claimed once for each child.
+
+The full amount can be claimed in the year of the child's birth, death, or adoption.
+
+For more information, go to [Line 30500 – Canada caregiver amount for infirm children under 18 years of age](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-30499-30500-canada-caregiver-infirm-children-under-18-years.html).
+
+#### Claiming an amount for a dependant who is not your child
+
+If you can claim an amount on line 30400 for your dependant who is under 18 years of age and is **not** your (or your spouse's or common-law partner's) child, you may be able to include the Canada caregiver amount of $2,687 when calculating the amount on line 30400. For you to claim the Canada caregiver amount, your dependant must have a mental or a physical infirmity and need much more help for their needs and care compared to children of the same age.
+
+For more information, go to [line 30400](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-30400-amount-eligible-dependant.html).
+
+#### Supporting documents
+
+If your spouse or common-law partner, or dependant has a mental or physical infirmity the CRA may ask you to provide a signed statement from a medical practitioner. The statement should show:
+
+- when the infirmity began
+
+- what its duration is expected to be
+
+For children under 18 years of age, the statement should also show that the child is, and will likely continue to be, dependent on others for a long and continuous period because of a mental or physical infirmity. “Dependent on others” means they need much more help for their personal needs and care compared to children of the same age.
+
+Many professionals are considered medical practitioners. To view the list of professionals who can give a signed statement, go to [Authorized medical practitioners for the purposes of the medical expense tax credit](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/lines-33099-33199-eligible-medical-expenses-you-claim-on-your-tax-return/authorized-medical-practitioners-purposes-medical-expense-tax-credit.html).
+
+You do not need a signed statement from a medical practitioner if the CRA has already approved a [Form T2201, *Disability Tax Credit Certificate*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2201.html), for the specified period.
+
+**Example 1**
+
+Amal has an infirmity. Her husband, Abdul, has been taking time off from work to take her to appointments and to help with her personal needs. Amal's doctor certified in writing that she is dependent on her husband for her personal needs because of her infirmity. Based on Amal’s income, Abdul can claim the spouse or common‑law partner amount, including the Canada caregiver amount, on line 30300 of his tax return (Step 5 – Federal tax). He may also be able to claim the additional amount on line 30425.
+
+**Example 2**
+
+Paul, age 10, has an infirmity and is eligible for the DTC. Because of his infirmity, Paul needs significant help from his father, Mike, for his personal needs. Since Paul is eligible for the DTC, Mike does not need to send a signed statement from a medical practitioner.
+
+Mike, who is separated, meets the criteria to claim an amount for an eligible dependant on line 30400 of his tax return (Step 5 – Federal tax) for Paul. He **cannot** include the Canada caregiver amount when calculating the amount on line 30400. However, he **can** claim the Canada caregiver amount on line 30500.
+
+**Example 3**
+
+Alexandra, age 75, is dependent on her son, Shawn, because of an infirmity. Shawn is married; therefore, he cannot claim an amount for Alexandra on line 30400. He can however claim the Canada caregiver amount on line 30450 of his tax return (Step 5 – Federal tax).
+
+**Example 4**
+
+Nora is the caregiver for her husband's daughter, Anja. Anja has an infirmity. She is 16 years old and lives with Nora and her husband. Either Nora or her husband can claim the Canada caregiver amount on line 30500 of their tax return (Step 5 – Federal tax). There is no additional amount they can claim for Anja.
+
+Since Anja is not eligible for the DTC, Nora may need a signed statement from a medical practitioner to confirm Anja's infirmity if the CRA asks for it.
+
+**Example 5**
+
+James, age 17, has an infirmity and is eligible for the DTC. James lives with his mother and his older brother, Brendan. Brendan, who is single, supports James since their mother is unemployed. Based on James’ income, Brendan can claim an amount for an eligible dependant on line 30400 of his tax return (Step 5 – Federal tax) for James. He can also include the Canada caregiver amount when calculating the amount on line 30400. Brendan cannot claim an amount for James on line 30425 because James is under the age of 18. Since Brendan does not have custody and control of James, he also cannot claim the amount on line 30500.
+
+**Example 6**
+
+Linh, age 82, lives with her daughter, Kim. Linh does not have an infirmity and does not require assistance with the activities of daily living, Kim cannot claim the Canada caregiver amount for Linh because Linh is not dependent on her because of an infirmity.
+
+### Medical expenses (lines 33099 and 33199)
+
+If you paid for medical expenses, you may be able to claim them on your tax return.
+
+For more information, go to [Lines 33099 and 33199 – Eligible medical expenses you can claim on your tax return](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/lines-33099-33199-eligible-medical-expenses-you-claim-on-your-tax-return.html) or read [Guide RC4065, *Medical Expenses*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4065.html).
+
+### Home buyers' amount (line 31270)
+
+The amount that you can claim on line 31270 for buying a qualifying home after December 31, 2021 is $10,000.
+
+#### Eligibility criteria
+
+You can claim an amount on line 31270 of your tax return (Step 5 – Federal tax) if you meet **both** of the following criteria:
+
+- You or your spouse or common-law partner bought a qualifying home.
+
+- You did not live in another home owned by you or your spouse or common-law partner in the year the home was bought or in any of the four preceding years (first-time home buyer).
+
+**Persons with disabilities** – You do not have to be a first-time home buyer if you meet**one** of the following criteria:
+
+- You are eligible for the DTC.
+
+- You bought the home for the benefit of a related person who is eligible for the DTC.
+
+However, the purchase must be made to allow the person with the disability to live in a home that is more accessible or better suited to their needs.
+
+For the home buyers' amount, a person with a disability is an individual for whom the CRA has approved a [Form T2201, *Disability Tax Credit Certificate*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2201.html), for the year in which the home was bought.
+
+For more information, see [line 31270](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-31270-home-buyers-amount.html) in the Federal Income Tax and Benefit Guide.
+
+### Home accessibility expenses (line 31285)
+
+You may be able to claim this non-refundable tax credit if you own a home in Canada and paid for eligible renovations to improve the safety or accessibility of your home. You can claim up to $20,000 per year in eligible expenses on line 31285 of your tax return (Step 5 – Federal tax).
+
+#### Eligibility criteria
+
+You may be eligible for this credit if, at any time in the year, you meet **one**of the following criteria:
+
+- You are 65 years of age or older.
+
+- You are eligible for the DTC.
+
+You may also claim this credit on your tax return for a dependent, if certain criteria are met.
+
+If you have an eligible expense that also qualifies as a medical expense, you can claim the expense as a medical expense and a home accessibility expense. For more information about medical expenses, go to [Lines 33099 and 33199 – Eligible medical expenses you can claim on your tax return](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/lines-33099-33199-eligible-medical-expenses-you-claim-on-your-tax-return.html).
+
+#### Eligible renovations
+
+The renovations must be for the main residence of the person who is 65 years of age or older or eligible for the DTC. Also, the renovations must be permanently part of the home and meet **one** of the following criteria:
+
+- allow the person to gain access to, or be mobile or functional within the home
+
+- reduce the risk of harm within the home or in accessing the home
+
+To calculate this credit, use the *[Federal worksheet](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-d1.html)*.
+
+For more information, see [line 31285](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-31285-home-accessibility-expenses.html) in the Federal Income Tax and Benefit Guide.
+
+## Refundable tax credits
+
+Refundable tax credits reduce the amount of tax you owe and could result in a refund.
+
+### Refundable medical expense supplement (line 45200)
+
+If you are working, have low income, and have high medical expenses, you may be able to claim a maximum amount of $1,504.
+
+For more information, go to [Line 45200 – Refundable medical expense supplement](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45200-refundable-medical-expense-supplement.html) or read [Guide RC4065, *Medical Expenses*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4065.html).
+
+### Canada workers benefit (line 45300)
+
+You may be able to claim the Canada workers benefit (CWB). The CWB is for low-income individuals and families who earned income from employment or business. The CWB consists of a basic amount and a disability supplement.
+
+You may be able to claim a CWB disability supplement if you meet both of the following criteria:
+
+- You are eligible for the DTC.
+
+- You had working income in the year.
+
+For more information, go to [Line 45300 – Canada workers benefit (CWB)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45300-canada-workers-benefit-cwb.html) or read [Schedule 6, *Canada Workers Benefit*](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-s6.html).
+
+### Multigenerational home renovation tax credit (line 45355)
+
+The multigenerational home renovation tax credit is a refundable tax credit that allows an eligible individual to claim certain renovation costs to create a secondary unit within an eligible dwelling so that a qualifying individual (a senior or an adult who is eligible for the disability tax credit) can reside with their qualifying relation.
+
+For more information, go to [Housing benefits](https://www.canada.ca/en/services/benefits/housing.html) or [Line 45355 – Multigenerational home renovation tax credit (MHRTC)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45355-mhrtc.html).
+
+## Other tax measures
+
+### Child care expenses (line 21400)
+
+You or your spouse or common-law partner may have paid someone to look after your child who, at some time in 2025, was under 16 years of age or had an impairment in physical or mental functions.
+
+Generally, only the spouse or common-law partner with the lower net income (**even if it is zero**) can claim these expenses, but only if the expenses were paid so one of you could be employed, carry on a business, go to school, or conduct research in 2025.
+
+If the person with the lower net income was not capable of caring for children because of an impairment in physical or mental functions, the spouse or common–law partner with the higher net income may be able to claim these expenses.
+
+You can deduct some or all of these expenses on line 21400 of your tax return. For more information, go to [line 21400](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-21400-child-care-expenses.html). To make your claim, use [Form T778, *Child Care Expenses Deduction for 2025*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t778.html).
+
+### Canada disability benefit
+
+The Canada disability benefit was created to reduce poverty and support the financial security of working-age people with disabilities. To be eligible, you must meet the following criteria:
+
+- be a resident of Canada (for the purposes of the *Income Tax Act*)
+
+- be eligible for the DTC
+
+- be 18 to 64 years old
+
+- have filed an income tax return with the CRA for the previous tax year (for example, to receive benefits for the July 2026 to June 2027 payment period, you must have filed a return for the 2025 tax year)
+
+The maximum benefit amount for the July 2026 to June 2027 payment period would be $2,400 ($200 per month).
+
+## Disability supports deduction (line 21500)
+
+### Eligibility criteria
+
+If you have an impairment in physical or mental functions, you may be able to deduct the expenses that you paid in the year so that you could:
+
+- work
+
+- go to school
+
+- do research for which you received a grant
+
+Only the person with the disability can claim this deduction.
+
+If you lived outside Canada for part or all of the year and the CRA considers you to be a factual or deemed resident of Canada, you can claim the expenses that you paid to a non‑resident person for services provided outside of Canada.
+
+#### Eligible expenses
+
+You can claim the amount you paid for the following expenses:
+
+**Alternative input device** – Under proposed changes, for 2024 and later tax years, an alternative input device that allows a person with an impairment in physical or mental functions to use a computer – prescription needed.
+
+**Attendant care services** provided in Canada and used by a person with an impairment in physical or mental functions. You **cannot** claim amounts you paid for attendant care services provided by your spouse or common‑law partner, or to someone under 18 years of age.
+
+You may claim **full-time**attendant care services if you meet **one** of the following criteria:
+
+- You are eligible for the [DTC](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html).
+
+- A medical practitioner certifies in writing that these services are necessary and that your impairment is likely to be indefinite.
+
+You may claim **part-time**attendant care services only if you are eligible for the DTC.
+
+**Bed positioning device** – Under proposed changes, for 2024 and later tax years, a bed positioning device for a person with a severe and prolonged impairment in physical functions. This includes related amounts for an ergonomic assessment paid to a person engaged in the business of providing such services – prescription needed.
+
+**Bliss symbol boards** or similar devices that help a person with a speech impairment to communicate by choosing the symbols or spelling out words – prescription needed.
+
+**Braille note-taker devices** that allow a person who is blind to take notes (that can be read back to them, printed, or displayed in braille) with the help of a keyboard – prescription needed.
+
+**Braille printers, synthetic speech systems, large print-on-screen devices** and other devices, that allow a person who is blind to use a computer – prescription needed.
+
+**Deaf-blind intervening services**used by a person who is both blind and profoundly deaf when paid to someone in the business of providing these services.
+
+**Devices or software**that allow a person who is blind or has a severe learning disability to read print – prescription needed.
+
+**Digital pen device** – Under proposed changes, for 2024 and later tax years, a digital pen device that allows a person with an impairment in physical or mental functions to use a computer – prescription needed.
+
+**Electronic speech synthesizers**that allow a person who is unable to speak to communicate using a portable keyboard – prescription needed.
+
+**Ergonomic work chair**–Under proposed changes, for 2024 and later tax years, an ergonomic work chair for a person with a severe and prolonged impairment in physical functions. This includes related amounts for an ergonomic assessment paid to a person engaged in the business of providing such services – prescription needed.
+
+**Job coaching services**(other than job placement or career counselling services) for a person with a severe and prolonged impairment in physical or mental functions and paid to someone in the business of providing these services. A medical practitioner must certify in writing that these services are needed.
+
+**Memory or organizational aids** –Under proposed changes, for 2024 and later tax years, memory or organizational aids for a person with an impairment in mental functions – prescription needed.
+
+**Mobile computer cart** –Under proposed changes, for 2024 and later tax years, a mobile computer cart for a person with a severe and prolonged impairment in physical functions – prescription needed.
+
+**Navigation device** – Under proposed changes, for 2024 and later tax years, a navigation device for low vision for a person with a visual impairment – prescription needed.
+
+**Note-taking services**used by a person with an impairment in physical or mental functions and paid to someone in the business of providing these services. A medical practitioner must certify in writing that these services are needed.
+
+**Optical scanners**or similar devices that allow a person who is blind to read print – prescription needed.
+
+**Page turner devices**to help a person turn the pages of a book or other bound document when they have a severe and prolonged impairment that causes a marked restriction in the person’s ability to use their arms or hands – prescription needed.
+
+**Reading services**used by a person who is blind or has a severe learning disability and paid to someone in the business of providing these services. A medical practitioner must certify in writing that these services are needed.
+
+**Real-time captioning or sign language interpretation services**used by a person with a speech or hearing impairment and paid to someone in the business of providing these services.
+
+**Service animal**– Under proposed changes, for 2024 and later tax years, a service animal specially trained to assist in coping with an impairment for a person who is in any of the following situations – prescription needed. The person:
+
+- is blind
+
+- is profoundly deaf
+
+- has a severe and prolonged impairment that markedly restricts the use of their arms or legs
+
+- has severe autism
+
+- has severe epilepsy
+
+- has severe diabetes
+
+- has a severe mental impairment.
+
+The animal must be specially trained to perform specific tasks that assist the person in coping with the impairment. An animal that only provides emotional support is not considered to be specially trained for a specific task.
+
+In addition to the cost of the animal, the care and maintenance (including food and veterinarian care) are eligible expenses.
+
+Reasonable travel expenses for the person to go to a school, institution, or other place that trains them in handling such an animal (including reasonable board and lodging for full time attendance at the school) are eligible expenses. The training of such animals has to be one of the main purposes of the person or organization that provides the animal.
+
+**Talking textbooks**related to enrolment at a secondary school in Canada or a designated educational institution for a person who has a perceptual disability. A medical practitioner must certify in writing that the product is necessary.
+
+**Teletypewriters**or similar devices that allow a person who is deaf or unable to speak to make and receive telephone calls – prescription needed.
+
+**Tutoring services**that are additional to the primary education of a person with a learning disability or an impairment in mental functions, and paid to a person in the business of providing these services to individuals who are not related to the person. A medical practitioner must certify in writing that these services are needed.
+
+**Voice recognition software**used by a person who has an impairment in physical functions. A medical practitioner must certify in writing that the software is needed.
+
+#### Who is considered a medical practitioner
+
+For this deduction, many professionals are considered medical practitioners. To view the list of practitioners who can certify the need for these devices, products or services or give a prescription, go to [Authorized medical practitioners for the purposes of the medical expense tax credit](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/lines-33099-33199-eligible-medical-expenses-you-claim-on-your-tax-return/authorized-medical-practitioners-purposes-medical-expense-tax-credit.html).
+
+#### Amounts you cannot claim
+
+You cannot claim amounts you or someone else claimed as medical expenses ([line 33099](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/lines-33099-33199-eligible-medical-expenses-you-claim-on-your-tax-return.html) or [line 33199](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/lines-33099-33199-eligible-medical-expenses-you-claim-on-your-tax-return.html)) or amounts for which anyone was reimbursed or entitled to be reimbursed by a **non-taxable** payment, such as insurance.
+
+However, the person with the disability can claim the medical expense on either [line 21500](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-21500-disability-supports-deduction.html) or line 33099. They can also split the claim between these 2 lines, as long as the total amount claimed is not more than the total expense.
+
+#### How to calculate your claim
+
+Use [Form T929, *Disability Supports Deduction*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t929.html), to calculate your claim. Expenses must be claimed in the same year they are paid. Unused amounts cannot be applied to another year.
+
+### Child disability benefit
+
+If you get the Canada child benefit (CCB) for a child who is eligible for the DTC, you may be entitled to get the child disability benefit, which is a supplement to the CCB. A child is eligible for the DTC when the CRA has approved [Form T2201, *Disability Tax Credit Certificate*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2201.html), for that child.
+
+The child disability benefit is based on the family net income. You could get up to $284.25 per eligible child each month. The child disability benefit amount is included in the CCB payment. The CCB eligibility is extended for 6 months after a child's death if the individual claiming the CCB for that child is otherwise eligible.
+
+You do not need to apply separately to get the child disability benefit. It will be calculated automatically for the current and 2 previous benefit years for each child who qualifies and is under 18 years of age. For years before that, send a letter to your [tax centre](#dtc_txcntr).
+
+For more information, go to [Child disability benefit](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/child-disability-benefit.html) or call **1-800-387-1193**.
+
+### Home buyers’ plan
+
+If you are buying or building a qualifying home for a person with a disability, you may be able to take part in the home buyers’ plan. This program allows you to withdraw up to $60,000 in a calendar year from your registered retirement savings plans. For more information, go to [What is the Home Buyers' Plan (HBP)?](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan.html).
+
+### Registered disability savings plan
+
+A registered disability savings plan is intended to help parents and others save for the long-term financial security of a person who is eligible for the DTC.
+
+For more information, go to [Registered disability savings plan](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/registered-disability-savings-plan-rdsp.html) or read [Guide RC4460, *Registered Disability Savings Plan*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4460.html).
+
+### Students with disabilities
+
+Certain education-related benefits that require an individual to be a full-time student, such as the scholarship exemption, can be claimed by a part-time student if they meet one of the following criteria. The student:
+
+- is eligible for the DTC for the year
+
+- has an impairment in physical or mental functions and a medical practitioner has certified in a letter that the impairment would not reasonably allow the student to be enrolled full-time
+
+For more information about the DTC, read [Disability Tax Credit](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html).
+
+For more information on how to file your tax return as a student, go to [Students](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/students.html).
+
+## Disability-related employment benefits
+
+Employment benefits or allowances you received that relate to your disability, such as attendant services and transportation costs, may not be taxable. For more information, read “Disability-related employment benefits” in Chapter 3 of [Guide T4130, *Employers’ Guide, Taxable Benefits and Allowances*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4130.html).
+
+## Excise tax information
+
+If you have a permanent mobility impairment and cannot safely use public transportation, you can ask for a refund of part of the federal excise tax on the gasoline you buy. A qualified medical practitioner must certify the impairment.
+
+To ask for a refund, send [Form XE8, *Application for Refund of Federal Excise Tax on Gasoline*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/xe8.html). For more information, call **1-877-432-5472**.
+
+## GST/HST information
+
+There are goods and services used by persons with disabilities that are exempt supplies or zero-rated supplies for the purposes of the goods and services tax/harmonized sales tax (GST/HST). This means you will not pay GST/HST on these goods and services.
+
+If you paid GST/HST in error, you can ask the supplier for a refund or credit instead of asking for a rebate from the CRA.
+
+If the supplier gives you a refund or credit, you cannot get a rebate from the CRA.
+
+If you cannot get a refund or credit from the supplier (for example, if the supplier refuses to refund the amount or goes out of business), you can ask the CRA for a rebate by sending [Form GST189, *General Application for GST/HST Rebates*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html).
+
+## Digital services for individuals
+
+The CRA’s digital services are fast, easy, and secure!
+
+### My Account
+
+My Account lets you access your personal income tax and benefit information and interact with the CRA online throughout the year.
+
+#### Profile
+
+- Change your address, phone numbers, direct deposit information, marital status, information about children in your care, and language preference
+
+- Edit your notification preferences and receive email notifications when important changes are made to your account
+
+- Manage your authorized representatives and authorization requests
+
+- Manage your multi-factor authentication settings, security options, and personal identification number (PIN)
+
+#### Tax returns
+
+- View your notice of assessment or reassessment, special elections and returns, carryover amounts, and tax information slips (T4 and more)
+
+#### Accounts and payments
+
+- View your account balance and statement of account
+
+- Make a payment online to the CRA with the My Payment service, create a pre-authorized debit (PAD) agreement, or create a QR code to pay in person at Canada Post for a fee
+
+- Transfer payment
+
+#### Benefits and credits
+
+- View your benefit and credit information, and apply for certain benefits
+
+#### Savings and pension plans
+
+- View information about your Registered Retirement Savings Plan (RRSP), Tax-Free Savings Account (TFSA), Home Buyers' Plan (HBP), First Home Savings Account (FHSA), and Lifelong Learning Plan (LLP)
+
+#### Correspondence
+
+- View mail from the CRA
+
+- Submit documents to the CRA
+
+- Submit an audit enquiry
+
+- File a formal dispute
+
+- Request a CPP/EI ruling
+
+#### Additional digital services
+
+- Track the progress of certain files and enquiries you have submitted to the CRA
+
+- View and print your proof of income statement
+
+### Receive your CRA mail online
+
+Set your correspondence preference to "Electronic mail" to receive email notifications when CRA mail, like your notice of assessment, is available in your account. You will no longer receive your CRA mail by paper.
+
+For more information, go to [Email notifications from the CRA](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/online-mail-helping-you-organize-your-canada-revenue-agency-mail.html).
+
+#### Access My Account
+
+- To access My Account, go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) and sign in to or register for a CRA account.
+
+## For more information
+
+### If you need help
+
+If you need more information after reading this guide, go to [Taxes](https://www.canada.ca/en/services/taxes.html) or call **1-800-959-8281**.
+
+### Direct deposit
+
+Direct deposit is a fast, convenient, and secure way to receive your CRA payments directly in your account at a financial institution in Canada. For more information, go to [Direct deposit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html) or contact your financial institution.
+
+### Forms and publications
+
+The CRA encourages you to file your return electronically. If you need a paper version of the CRA's forms and publications, go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html) or call **1-800-959-8281**.
+
+### Electronic mailing lists
+
+The CRA can send you an email when new information on a subject of interest to you is available on the website. To subscribe to the electronic mailing lists, go to [Electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+### Contact the CRA
+
+For answers to frequently asked questions, current contact centre wait times, and links to online self-serve options, go to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+### Formal disputes (objections and appeals)
+
+You have the right to file an objection or an appeal if you disagree with an assessment, a determination, or a decision.
+
+For more information, go to [File an objection](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/file-objection-cppei-appeal-minister.html).
+
+### CRA service feedback program
+
+#### Service complaints
+
+You can expect to be treated fairly and to receive a high level of service every time you interact with the CRA.
+
+You can provide compliments or suggestions; however, if you are not satisfied with the service you received:
+
+- You may save time by calling the CRA first depending on your situation. You can call the telephone number provided in your CRA correspondence or discuss your concerns with the employee you have been dealing with. If you do not have a contact number, go to [Contact the Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+- You can ask to discuss the matter with the employee’s supervisor if you have not been able to resolve your service issue.
+
+- You can submit feedback by filling out [Form RC193, *Service Feedback*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html), if the issue remains unresolved. For more information, go to [Submit service feedback](https://www.canada.ca/en/revenue-agency/services/make-a-service-complaint.html).
+
+- You may contact the Office of the Taxpayers' Ombudsperson if you are not satisfied with the response you have received. The Ombudsperson will only respond to complaints that the CRA has already tried to address
+
+For more information, go to [Taxpayer Bill of Rights](https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/taxpayer-bill-rights.html).
+
+### Reprisal complaints
+
+If you have received a response regarding a previously submitted service complaint or a formal review of a CRA decision and feel you were not treated impartially by a CRA employee, you can submit a reprisal complaint by filling out [Form RC459, *Reprisal Complaint*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc459.html).
+
+For more information, go to [Reprisal Complaints](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/reprisal-complaints.html).

@@ -1,0 +1,23 @@
+Title: T4155 Old Age Security Return of Income (OASRI) Guide for Non-Residents
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4155.html
+Corpus path: corpus/cra/forms-publications/publications/t4155.md
+Document type: publication
+Last modified: 2026-05-08
+
+# T4155 Old Age Security Return of Income (OASRI) Guide for Non-Residents
+
+This pamphlet is useful to non-residents of Canada receiving Old Age Security (OAS) payments. It provides detailed information on completing Form T1136, ''Old Age Security Return of Income''.
+
+## Ways to access the information
+
+- Read the publicationPrevious years: Standard print PDFsThis form is also available for the years listed below:[N/A – Standard print PDF (t4155-e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-e.pdf)[2024 – Standard print PDF (t4155-24e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-24e.pdf)[2023 – Standard print PDF (t4155-23e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-23e.pdf)[2022 – Standard print PDF (t4155-22e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-22e.pdf)[2021 – Standard print PDF (t4155-21e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-21e.pdf)[2020 – Standard print PDF (t4155-20e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-20e.pdf)[2019 – Standard print PDF (t4155-19e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-19e.pdf)[2018 – Standard print PDF (t4155-18e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-18e.pdf)[2017 – Standard print PDF (t4155-17e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-17e.pdf)[2016 – Standard print PDF (t4155-16e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-16e.pdf)[2015 – Standard print PDF (t4155-15e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-15e.pdf)[2014 – Standard print PDF (t4155-14e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-14e.pdf)[2013 – Standard print PDF (t4155-13e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-13e.pdf)[2012 – Standard print PDF (t4155-12e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-12e.pdf)[2011 – Standard print PDF (t4155-11e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-11e.pdf)[2010 – Standard print PDF (t4155-10e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-10e.pdf)[2009 – Standard print PDF (t4155-09e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-09e.pdf)[2008 – Standard print PDF (t4155-08e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-08e.pdf)[2007 – Standard print PDF (t4155-07e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-07e.pdf)[2006 – Standard print PDF (t4155-06e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-06e.pdf)[2005 – Standard print PDF (t4155-05e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-05e.pdf)[2004 – Standard print PDF (t4155-04e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-04e.pdf)[2002 – Standard print PDF (t4155-02e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-02e.pdf)[2001 – Standard print PDF (t4155-01e.pdf)](/content/dam/cra-arc/formspubs/pub/t4155/t4155-01e.pdf)
+
+    - Online format [t4155-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4155/t4155-old-security-return-income-guide-non-residents.html)
+
+    - PDF [t4155-25e.pdf](/content/dam/cra-arc/formspubs/pub/t4155/t4155-25e.pdf)
+
+- Ask for an alternate formatYou can order a digital audio, e-text, braille or large print version of this publication to be sent to you by mail.[Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html)
+
+## Related documents
+
+- [T1136 Old Age Security Return of Income (OASRI)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1136.html)

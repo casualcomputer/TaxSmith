@@ -1,0 +1,1666 @@
+---
+title: "T4A-NR – Payments to Non-Residents for Services Provided in Canada"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4445/t4a-payments-non-residents-services-provided-canada.html
+last_modified: 2025-12-12
+---
+# T4A-NR – Payments to Non-Residents for Services Provided in Canada
+
+RC4445(E) Rev. 25
+
+Available electronically only
+
+The CRA’s publications and personalized correspondence are available in braille, large print, e-text, and MP3. For more information, go to [Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html) or call **1-800-959-5525**. If you are outside Canada and the United States, call **613-940-8499**. The CRA only accepts collect calls made through a telephone operator. After your call is accepted by an automated response, you may hear a beep and notice a normal connection delay. This service operates in Eastern time.
+
+La version française de ce guide est intitulée T4A-NR – Paiements versés à des non-résidents pour services rendus au Canada.
+
+Unless otherwise stated, all legislative references are to the Income Tax Act or, where appropriate, the Income Tax Regulations.
+
+## On this page
+
+- [Is this guide for you](#toc0)
+
+- [Before you start](#toc2)
+
+    - [Penalties, interest and other consequences](#toc3)
+
+          - [Late filing and failing to file the T4A-NR information return](#toc4)
+
+          - [Mandatory electronic filing](#toc5)
+
+          - [Failure to deduct](#toc6)
+
+          - [Penalty for failure to deduct](#toc7)
+
+          - [Failure to remit amounts deducted](#toc8)
+
+          - [Penalty for failure to remit and remitting late](#toc9)
+
+          - [Interest](#toc10)
+
+          - [Cancel or waive penalties and interest](#toc11)
+
+- [Deducting income tax](#toc12)
+
+    - [Applying for a waiver or a reduction of withholding](#toc13)
+
+    - [Recipients’ filing requirements](#toc14)
+
+- [Remitting deductions](#toc15)
+
+    - [When to remit](#toc16)
+
+          - [Online payment methods](#toc17)
+
+          - [Other payment methods](#toc18)
+
+    - [Are you a new remitter](#toc19)
+
+    - [Missing or lost remittance voucher](#toc20)
+
+- [T4A-NR slips](#toc21)
+
+    - [Customized T4A-NR slips](#toc22)
+
+    - [Filling out T4A-NR slips](#toc23)
+
+          - [Filling out the boxes](#toc24)
+
+    - [Distributing the T4A-NR slips](#toc25)
+
+- [T4A-NR Summary](#toc26)
+
+    - [Detailed instructions](#toc27)
+
+- [T4A-NR information return](#toc28)
+
+    - [Electronic filing methods](#toc29)
+
+          - [Filing by Web Forms](#toc30)
+
+          - [Filing by Internet file transfer (XML)](#toc31)
+
+          - [Web access code](#toc32)
+
+          - [Filing without a web access code](#toc33)
+
+    - [Filing on paper](#toc34)
+
+- [After you file](#toc35)
+
+    - [Amending or cancelling slips over the Internet](#toc36)
+
+    - [Amending or cancelling slips on paper](#toc37)
+
+    - [Adding slips](#toc38)
+
+    - [Replacing slips](#toc39)
+
+- [Appendix A – Country codes for tax purposes](#toc40)
+
+- [Appendix B – U.S. state, territory, or possession codes](#toc41)
+
+- [Digital services](#toc42)
+
+    - [Handle your business taxes online](#toc43)
+
+    - [Receive your CRA mail online](#toc44)
+
+    - [Create a pre-authorized debit agreement for payments from your Canadian chequing account](#toc45)
+
+    - [Electronic payments](#toc46)
+
+- [For more information](#toc47)
+
+    - [If you need help](#toc48)
+
+    - [Direct deposit](#toc49)
+
+    - [Forms and publications](#toc50)
+
+    - [Electronic mailing lists](#toc51)
+
+    - [Teletypewriter (TTY) and Video Relay Service (VRS) users](#toc52)
+
+    - [Formal disputes (objections and appeals)](#toc53)
+
+    - [CRA service feedback program](#toc54)
+
+          - [Service complaints](#toc55)
+
+          - [Reprisal complaints](#toc56)
+
+    - [Addresses](#toc57)
+
+    - [Reporting foreign income and other foreign amounts](#toc58)
+
+## Is this guide for you
+
+Use this guide if you are a payer who makes payments to non-residents for services performed in Canada, other than in employment situations.
+
+Do not use this guide if:
+
+- You paid non-resident employees who are in regular and continuous employment and who provide employment services in Canada on a temporary or permanent basis. For more information, go to [Calculate payroll deductions and contributions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/calculating-deductions.html). To report amounts paid to these employees, use a T4 slip. For more information, go to[T4 slip – Information for employers](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/completing-filing-information-returns/t4-information-employers/t4-slip.html).
+
+- You paid directors’ fees to a non-resident director. Report those amounts on a T4 slip. For more information, go to[T4 slip – Information for employers](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/completing-filing-information-returns/t4-information-employers/t4-slip.html).
+
+- You paid amounts for acting services of a non-resident actor in a film or video production rendered in Canada. Report those amounts on a NR4 slip. For more information, go to [Non-resident actors](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/film-media-tax-credits/non-resident-actors.html) or see
+
+[Guide T4061, NR4 – Non-Resident Tax Withholding, Remitting, and Reporting](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4061.html).
+
+### Note
+
+Payments for acting services of a stage performer or stage actor, or services for behind-the-scenes personnel are reported on a T4A-NR slip.
+
+## Before you start
+
+### Penalties, interest and other consequences
+
+#### Late filing and failing to file the T4A-NR information return
+
+You have to give the recipient their T4A-NR slip and file your T4A-NR information return with the Canada Revenue Agency (CRA) on or before the **last day of February after the calendar year the information return applies to**. If the last day of February falls on a Saturday or a Sunday, your information return is due the next business day.
+
+The CRA considers your return to be filed on time if the CRA receives it or it is postmarked on or before the due date.
+
+The CRA may assess a penalty if you file your information return late. **Each slip is an information return**, and the penalty the CRA assesses is based on the number of information returns you filed late. The penalty is calculated according to the type of information return. For example, if you filed NR4 slips and T4A-NR slips late, the CRA will assess two penalties, one for each type of information return. The penalty is$100 or the amount calculated according to the chart below, whichever is more:
+
+| Number of informationreturns (slips) by type filed late | Penalty per dayup to 100 days) | Maximumpenalty |
+
+| --- | --- | --- |
+
+| 1 to 50 | $10 | $1,000 |
+
+| 51 to 500 | $15 | $1,500 |
+
+| 501 to 2,500 | $25 | $2,500 |
+
+| 2,501 to 10,000 | $50 | $5,000 |
+
+| 10,001 or more | $75 | $7,500 |
+
+#### Mandatory electronic filing
+
+##### Failure to file information returns over the Internet
+
+If you file more than 5 information returns for a calendar year and you do not file the returns by Internet file transfer or Web Forms, you may have to pay a penalty as determined in the table below:
+
+**Each slip is an information return**, and the penalty the CRA assesses is based on the number of information returns filed in an incorrect way. The penalty is calculated according to the type of information return. For example, if you file 6 NR4 slips and 6 T4A-NR slips on paper, the CRA will assess two penalties of $125, one for each type of information return.
+
+| Number of information returns (slips) by type | Penalty |
+
+| --- | --- |
+
+| 6 to 50 | $125 |
+
+| 51 to 250 | $250 |
+
+| 251 to 500 | $500 |
+
+| 501 to 2,500 | $1,500 |
+
+| 2,501 or more | $2,500 |
+
+#### Failure to deduct
+
+If you failed to deduct the required amount of income tax from the amounts that you pay to non-residents, you may be assessed a penalty as described below. As soon as you realize that you did not deduct the proper amount of income tax, you should let the non-residents know. The non-resident can either pay the amount when they file their income tax and benefit return or they can ask you to deduct more income tax at source.
+
+#### Penalty for failure to deduct
+
+The CRA can assess a penalty of **10%** of the required amount of tax you failed to deduct.
+
+If you are assessed this penalty more than once in a calendar year, the CRA willapply a penalty of **20%** of the required amount of tax you failed to deduct to the second or later failures if they were made knowingly or under circumstances of gross negligence.
+
+#### Failure to remit amounts deducted
+
+When you deduct income tax from the amounts you pay to the non-resident, you have to remit it to the Receiver General for Canada.
+
+The CRA can assess you a penalty and interest as described in the section below.
+
+#### Penalty for failure to remit and remitting late
+
+The CRA can assess a penalty when:
+
+- you deduct the amounts, but do not remit them to CRA
+
+- you deduct the amounts, but send them to CRA late
+
+When the due date falls on a Saturday, a Sunday, or a [public holidays](https://www.canada.ca/en/revenue-agency/services/tax/public-holidays.html) recognized by the CRA, your payment is considered to be on time if the CRA receives it on the next business day.
+
+The penalty is:
+
+- 3% if the amount is received on or before the day it was due, but is not paid in the manner required
+
+- 3% if the amount is one to three days late
+
+- 5% if it is four or five days late
+
+- 7% if it is six or seven days late
+
+- 10% if it is more than seven days late or if no amount is remitted
+
+Generally, the CRA only applies this penalty to the part of the amount you failed to remit that is more than $500. However, the CRA will apply the penalty to the total amount if the failure was made knowingly or under circumstances of gross negligence.
+
+If you are assessed this penalty more than once in a calendar year, the CRA may assess a **20%** penalty to the second or later failures if they were made knowingly or under circumstances of gross negligence. If you send a payment to cover the balance due with your return, it is considered late. Penalties and interest charges may apply.
+
+Whether you file electronically or file a paper information return, you can make your payment in several different ways. For more information, go to [Payments to the CRA](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html).
+
+The CRA will charge you a fee for any payment that your financial institution refuses to process. If your payment is late, the CRA can also charge you a penalty and interest on any amount you owe.
+
+#### Interest
+
+If you do not pay an amount, the CRA may apply interest from the day your payment was due. The interest rate the CRA uses is determined every three months, based on prescribed interest rates. Interest is compounded daily. The CRA also applies interest to unpaid penalties. For the prescribed interest rates, go to [Prescribed interest rates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+#### Cancel or waive penalties and interest
+
+The CRA administers legislation, commonly called “taxpayer relief provisions,” that gives the CRA discretion to cancel or waive penalties and interest when taxpayers cannot meet their tax obligations due to circumstances beyond their control.
+
+The CRA’s discretion is limited to any period that ends within 10 calendar years before the year the request is made.
+
+##### Penalties
+
+The CRA will consider your request only if it relates to a tax year or fiscal period ending in any of the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to a penalty for a tax year or fiscal period ending in 2015 or later.
+
+##### Interest on a balance owing
+
+The CRA will consider only the amounts that accrued during the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to interest that accrued in 2015 or later.
+
+Taxpayer relief requests can be made online using the CRA’s [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), or [Represent a Client digital services](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+You can also fill out [Form RC4288, Request for Taxpayer Relief – Cancel or Waive Penalties and Interest](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4288.html), and send it:
+
+- online using [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), or [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html)
+
+- by mail or courier to the designated office, as shown on the last page of the form, based on your place of residence
+
+For information about submitting documents online, go to [Submit documents online](https://www.canada.ca/en/revenue-agency/services/e-services/submit-documents-online.html).
+
+For more information about cancelling or waiving penalties and interest, go to [Cancel or waive penalties and interest at the CRA](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/cancel-waive-penalties-interest.html).
+
+### Representatives for non-resident tax accounts
+
+**To authorize a representative** for your non resident tax account, or **make changes** to the representative information, fill out [Form AUT-01, Authorize a Representative for Offline Access](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/aut-01.html). To **cancel** your representative’s authorization, fill out [Form AUT-01X, Cancel Authorization for a Representative](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/aut-01x.html).
+
+## Deducting income tax
+
+As a payer, you have to withhold 15% from fees, commissions or other amounts that you pay to non-resident individuals, partnerships, or corporations for services provided in Canada. Use a T4A-NR slip to report these payments.
+
+If you are a payer who is party to the R105-S Simplified Waiver, you have to withhold 23% from the net income paid to certain non-residents who request a waiver based on their income and expenses. For more information, go to [Simplified Regulation 105 income tax waiver application for non-resident artist and athletes](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/film-media-tax-credits/behind-scenes-personnel/waivers-withholding-tax/regulation-105/simplified-process-non-resident-regulation-105.html).
+
+For more information about your Canadian withholding obligations, see the current version of [Information Circular IC75-6R2, Required Withholding from Amounts Paid to Non-Residents Providing Services in Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic75-6.html).
+
+### Applying for a waiver or a reduction of withholding
+
+The 15% withholding is not the final tax of the non-resident. The CRA considers the withholding to be a payment on account of the non-resident’s potential tax liability in Canada. Generally, non-residents have to file a Canadian income tax return to calculate their tax liability or to get a refund of any excess withholding amounts.
+
+If a non-resident can show that the withholding is more than their potential tax liability in Canada, either due to treaty protection or income and expenses, the CRA may waive or reduce the withholding.
+
+Non-residents who want to ask for a waiver or reduction of the withholding have to send a waiver application to a tax services office. They can find information on which tax services office to send their application to by going to [Where to send international waiver and non-resident employer certification applications](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/rendering-services-canada/where-send-completed-waiver-non-resident-employer-certification-applications.html).
+
+Non-residents working in the film industry should send their waiver application to one of the three tax services offices that provide specialized service to non-residents in that industry. To find out which tax services office to send their application to, they can go to [Where to send international waiver and non-resident employer certification applications](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/rendering-services-canada/where-send-completed-waiver-non-resident-employer-certification-applications.html).
+
+Non-residents have to send their waiver application no later than **30 days** before they begin the period of service, or 30 days before they receive the first payment for the related services.
+
+The non-resident has to give you a letter from the CRA authorizing a waiver or reduction of the withholding amount. If you do not receive such a letter, you have to withhold the usual 15%.
+
+For more information about the waiver or reduction of withholding tax, see the following publications:
+
+- the current version of the [Information circular, IC75-6R2, Required Withholding from Amounts Paid to Non-Residents Providing Services in Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic75-6.html)
+
+- [Form R105, Regulation 105 Waiver Application](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/r105.html)
+
+- [Form R105-S, Regulation 105 Simplified Waiver Application for Non-resident Artists and Athletes Earning No More Than CAN$15,000](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/r105-s.html)
+
+### Recipients’ filing requirements
+
+Non-residentswho have carried on business in Canada or who have been employed in Canada usually have to pay Canadian tax on the income from such activities. These non-residents have to file a Canadian income tax return to calculate their tax liability or to get a refund of any excess amounts that were withheld.
+
+(a) Individuals must file an [Income Tax and Benefit Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package.html) for the province or territory where they earned the income by April 30 of the following year, or by June 15 of the following year if the individual carried on business in Canada. In either case, if the individual has a balance owing for the year, they must pay it on or before April 30 of the following year.
+
+(b) Corporations must file a [T2 Corporation Income Tax Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2.html) within six months after the end of each tax year. The tax year of a corporation is its fiscal period.
+
+(c) For partnerships, each member of the partnership must file the appropriate income tax return (either an Income Tax and Benefit Return or a T2 Corporation Income Tax Return) within the required time.
+
+Send the returns to the following address:
+
+Sudbury Tax Centre 1050 Notre Dame Avenue Sudbury ON P3A 5C2 Canada
+
+## Remitting deductions
+
+### When to remit
+
+You have to remit your tax deductions so that the CRA receives them on or before the 15th day of the month **following** the month the amount was paid or credited to the non-resident. The CRA considers the payment to be received on the date the payment is received at your Canadian financial institution or at the Canada Revenue Agency.
+
+#### Note
+
+If the due date is a Saturday, a Sunday, or a public holiday recognized by the CRA, your remittance is due on the next business day. For a list of public holidays, see [Public holidays](https://www.canada.ca/en/revenue-agency/services/tax/public-holidays.html).
+
+If your business or activity ends during the year, you have to remit your tax deductions so that the CRA receives them no later than seven days after the day your business or activity ends.
+
+#### Online payment methods
+
+##### Online, mobile app, or telephone service banking
+
+Banks and credit unions let you set up payments to be sent to the Canada Revenue Agency (CRA) on a pre-set date or dates. Businesses have to make their remittances using a business bank account. If you are remitting, your options will display according to the business number provided. For example, corporation tax, GST/HST, payroll deductions, non-residents.
+
+Make sure you correctly enter your payroll program account number, and the period the remittance covers. For help remitting your source deductions through online banking, contact your financial institution.
+
+##### My Payment
+
+My Payment is an electronic payment service offered by the CRA that allows individuals and businesses to make payments online directly to the CRA using their bank access cards with a Visa Debit or Debit Mastercard logo.
+
+Use this service to make a payment to one or more CRA accounts in one simple transaction.
+
+For more information, go to [Pay with a debit card through the CRA's My Payment service](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html).
+
+##### Pre-authorized debit
+
+Pre-authorized debit is an online, self-service payment option. Use it to authorize the CRA to withdraw a pre-set payment from your bank account to remit tax on one or more dates. You can set up a pre-authorized debit agreement using the CRA’s secure [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) or [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html). For more information, go to [Pay by scheduled pre-authorized debit (PAD) through CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html).
+
+##### Third-party service provider
+
+You may be able to make your payments through a third-party service provider. The third-party provider, will send your business payments and remittance details to the CRA electronically.
+
+For more information, go to [Pay through a third-party service provider](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-credit-card.html).
+
+You are responsible for making sure the CRA receives your payment by the payment due date. If you are using a third-party service provider, you must clearly understand the terms and conditions of the services you are using. The CRA does not endorse these products, services or publications.
+
+#### Other payment methods
+
+##### Wire transfers
+
+Non-residents who do not have a Canadian bank account can pay using wire transfers. For more information, go to [Pay at a foreign bank or credit union through wire transfer](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-wire-transfer-non-residents.html).
+
+##### Pay at your Canadian bank or credit union
+
+You can make your payment at your bank or credit union in Canada. To do so, you need a personalized remittance voucher.
+
+### Are you a new remitter
+
+You must have a payroll program account in order to remit the income tax deducted from payments made to non-residents for services rendered in Canada.
+
+If you already have a 9-digit CRA business number (BN), but have never remitted income tax deductions before, you only need to add a payroll program account to your existing BN. However, if you **do not** have a BN, you have to apply for one and register for a payroll program account.
+
+There are various methods available to register for a BN and a payroll program account. For more information on the BN and CRA business accounts, go to [Business registration with the CRA](https://www.canada.ca/en/services/taxes/business-registration.html).
+
+Once you are registered, the CRA will send you a letter confirming your business number, as well as a summary of the information you have provided.
+
+When you make your first payment, send it to any [tax centre](#P781_32119). The addresses are listed at the end of this guide. Make it payable to the Receiver General, and print your payroll program account number on it. Include a letter stating:
+
+- you are a new remitter
+
+- the period the remittance covers
+
+- your business name, address, and telephone number
+
+- your payroll program account number
+
+After you make your first remittance, the CRA will send you a remittance voucher for your next payment.
+
+If you need help in calculating or remitting your deductions, go to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+### Missing or lost remittance voucher
+
+If you do not receive a remittance voucher in time for your next payment, send in the payment as described above. In your letter, indicate that you did not receive your remittance voucher.
+
+#### Note
+
+Even if you do not have a remittance voucher, you still have to send the CRA your payment on time.
+
+## T4A-NR slips
+
+Use the T4A-NR slip to report all amounts you paid to non-resident individuals, partnerships, and corporations for services they performed in Canada that they did not perform in the ordinary course of an office or employment.
+
+### Customized T4A-NR slips
+
+For those who fill out a large number of slips, the CRA accepts certain slips other than our own. To make sure they meet the standards, consult the guidelines for the production of customized forms at [Customized forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/customized-forms.html) or see the current version of [Information Circular IC97-2R20, Customized Forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic97-2.html).
+
+### Filling out T4A-NR slips
+
+When filling out T4A-NR slips, follow these instructions:
+
+- Clearly fill out the slips.
+
+- Report, in dollars and cents, all amounts you paid during the year.
+
+- Report all amounts in Canadian dollars, even if they were paid in another currency.
+
+- Do not enter hyphens or dashes between numbers.
+
+- Do not enter the dollar sign ($).
+
+- Do not show negative dollar amounts on slips; to make changes to previous years, send amended slips for the years in question. For more information, see [After you file](#P332_24619).
+
+- If you do not have to enter an amount in a box, do not enter “nil”—leave the box blank.
+
+- Do not change the headings of any of the boxes.
+
+#### Filling out the boxes
+
+##### Year
+
+Enter the four digits of the calendar year in which you made the payment to the recipient.
+
+##### Box 11 – Recipient code
+
+Enter the appropriate code from the following list:
+
+| Recipient code | Type of recipient |
+
+| --- | --- |
+
+| **1** | individual |
+
+| **3** | corporation |
+
+| **4** | other (for example, association, trust, including fiduciary-trustee, nominee, estate, or partnership) |
+
+| **5** | government, government enterprise, or international organizations and agencies |
+
+##### Box 12 – Social insurance number (SIN) or individual tax number (ITN)
+
+Enter the Canadian social insurance number (SIN) assigned to the non-resident individual. If a SIN has not been assigned, ask the non-resident if they have been assigned an individual tax number (ITN) or a temporary tax number (TTN) by the Canada Revenue Agency and enter it here. An ITN is normally assigned to a non-resident individual if they have applied for a waiver or a reduction of withholding or if they have previously filed a Canadian tax return. If a SIN, ITN, or TTN has not been assigned to the non-resident, leave the box blank.
+
+##### Box 13 – Account number
+
+If the recipient of the reported amount is a business (sole proprietor, partnership, or corporation), enter the recipient’s 15-character account number.
+
+##### Box 14 – Foreign tax identification number
+
+Enter the tax identification number (such as the social security number or other number) assigned to the non-resident for tax purposes by their country of residence.
+
+##### Box 16 – Professional name (if applicable)
+
+If the professional or operating name is different from the real or legal name of the non-resident, enter the professional name in this box.
+
+##### Box 18 – Gross income
+
+Enter the gross amount of fees, commissions, or other amounts you paid to the non-resident for services rendered in Canada. Do not include travel expenses that you included in box 20.
+
+##### Box 20 – Travel expenses
+
+Enter all travel expenses you paid directly to third parties for the benefit of the non-resident, and travel expenses you reimbursed to the non-resident. Travel expenses are restricted to reasonable expenses incurred for transportation, accommodation, and meals. Keep vouchers to support these travel expenses if the invoice from the non-resident does not give enough details of the expenses or if the amount does not seem reasonable. Do not include these expenses in box 18, “Gross income.”
+
+##### Box 22 – Income tax deducted
+
+Enter the amount of income tax you deducted from the recipient during the year. Leave this box blank if you did not deduct income tax.
+
+##### Box 23 – Reduction authorized
+
+Enter a “1” if you have received written authorization from the CRA to reduce or waive the required withholding on the gross payment to the non-resident. Enter a “2” if both you and the non-resident completed Form R105-S, Simplified Waiver Application for Non-resident Artists and Athletes Earning No More Than CAN $15,000, allowing for a reduction or waiver of the withholding tax due.
+
+##### Box 24 – City and province or territory where services rendered
+
+Enter the name of the city and the appropriate province or territory code from the following list to indicate where the non-resident performed the services:
+
+| Province or territory | Code |
+
+| --- | --- |
+
+| Alberta | **AB** |
+
+| British Columbia | **BC** |
+
+| Manitoba | **MB** |
+
+| New Brunswick | **NB** |
+
+| Newfoundland and Labrador | **NL** |
+
+| Northwest Territories | **NT** |
+
+| Nova Scotia | **NS** |
+
+| Nunavut | **NU** |
+
+| Ontario | **ON** |
+
+| Prince Edward Island | **PE** |
+
+| Quebec | **QC** |
+
+| Saskatchewan | **SK** |
+
+| Yukon | **YT** |
+
+##### Box 26 – Number of days recipient was present in Canada
+
+Enter the total number of days the non-resident was in Canada (continuous or not) during the calendar year while under contract with you. Include weekends and holidays.
+
+##### Box 27 – Country code of residence
+
+From the list in [Appendix A](#appendix_a) enter the **three-letter code** for the country in which the recipient is a resident for tax purposes. **Only use the codes listed in Appendix A.** Generally, the recipient’s country for tax and mailing purposes will be the same. However, if they are different, you must always enter the country of residency for tax purposes.
+
+##### Box 28 – Non-resident’s industry type code
+
+Enter one of the following classification system codes that best describes the non-resident’s industry:
+
+| Code | Type of industry |
+
+| --- | --- |
+
+| **21** | Mining, oil, or gas extraction |
+
+| **23** | Construction |
+
+| **48** | Transportation |
+
+| **49** | Warehousing |
+
+| **50** | Film industry |
+
+| **51** | Information and cultural industries |
+
+| **54** | Professional, technical and scientific services |
+
+| **61** | Educational services |
+
+| **62** | Health care and social assistance |
+
+| **71** | Arts, entertainment, and recreation |
+
+| **81** | Other personal services (except public administration) |
+
+| **91** | Public administration |
+
+Code 50 is for non-residents working in the film or television industry, including commercials, but does not include film actors.
+
+For non-residents involved in live performances or sporting events, including stage actors, use code 71 “Arts, entertainment, and recreation.”
+
+##### Non-resident recipient’s name and address
+
+If you are preparing the T4A-NR slip for an individual, enter their last name, followed by the first name and initial. Otherwise, enter the name of the corporation, organization, association, trust, or institution.
+
+Do not enter the name of the secretary-treasurer or any other individual who has signing authority.
+
+Enter the recipient’s full mailing address as follows:
+
+**Lines 1 and 2:**Enter the street address (civic number, street name, and post office box number or rural route number).
+
+**Line 3:**
+
+- for Canadian addresses, enter the city, two-letter provincial or territorial code (see [Province or territory](#P50_505)), and the postal code
+
+- for U.S. addresses, enter the city, two-letter state, territory or possession code (as found in [Appendix B](#appendix_b)), and the zip code
+
+- for addresses **outside Canada and the United States**, enter the postal code and then the city name
+
+**Line 4****:**Enter the full country name (if Canada, leave blank but enter CAN in the country code box).
+
+**Country code** – Enter the three-letter country code from [Appendix A](#appendix_a) that corresponds to the country you entered on line 4. The country code is for mailing purposes only.
+
+##### Payer’s name
+
+Enter your operating or trade name in the space provided.
+
+##### Payer’s account number
+
+Enter the 15-character payroll program account number you use to send your recipients’ deductions. This number appears in the top right corner of the statement of account that the CRA sends you each month. It consists of three parts-the nine-digit business number (BN), a two-letter program identifier, and a four-digit reference number.
+
+Your payroll program account number should not appear on the two copies of the T4A-NR slip that you give to the recipients.
+
+### Distributing the T4A-NR slips
+
+You must give recipients two copies of their T4A-NR slips on or before **the last day of February following the calendar year to which the slips apply**. If you do not, you may be assessed a penalty. The penalty for failing to distribute T4A-NR slips to recipients is $25 per day with a minimum penalty of $100 and a maximum of $2,500.
+
+Give each of your recipients their T4A-NR slips in one of the following ways:
+
+- one copy sent electronically (for example, by email or secure portal), if you have the recipient’s written consent on paper or in electronic format to send T4A-NR slips electronically
+
+- two copies, delivered in person
+
+- two copies, sent by mail to the recipient’s last known address
+
+If T4A-NR slips copies are returned as not deliverable, you may want to keep the copies with the recipient’s file.
+
+If you know that the address you have on file for a recipient is not correct, do not send the recipient’s T4A-NR slip copies to that address. Document why the copies were not sent and your efforts to get the correct address. Keep this information with the T4A-NR copies in the recipient’s file. You still have to include that T4A-NR slip information in your T4A-NR information return when you file it.
+
+Print the two T4A-NR slips that you have to give to each recipient on one sheet. For security purposes, **do not** print your payroll program account number on these copies.
+
+Keep the information from the T4A-NR slips in your records.
+
+## T4A-NR Summary
+
+If you are filing your return electronically, **do not** send a paper copy of the slips or summary but keep a copy for your record. For more information about filing electronically, see [Electronic Filing Methods](#P309_22733), or go to [File information returns electronically (tax slips and summaries)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+If you are filing on paper, use the T4A-NR Summary to report the totals of all the amounts you reported on the T4A-NR slips.
+
+When filling out the summary:
+
+- Report all amounts in Canadian dollars even if they were paid in another currency.
+
+- The totals you report on the summary must agree with the amounts you report on your slips.
+
+- If you have not reported any amounts on the T4A-NR slip or summary, there is no need to send a form.
+
+- You cannot change your address using the T4A-NR Summary. To do this, contact your [tax centre](#P781_32119).
+
+You can also change the address of your business online in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html). An authorized representative can use this service through [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+### Detailed instructions
+
+#### Year
+
+Enter the last two digits of the calendar year for which you are filing the return.
+
+#### Payer’s account number
+
+Enter your 15-character payroll program account number.
+
+#### Name and address of payer
+
+Enter your operating or trading name, and address.
+
+#### Line 88 – Total number of T4A-NR slips filed
+
+Enter the total number of slips that you are including with the summary.
+
+#### Line 18 – Gross income
+
+Enter the total of box 18 from all T4A-NR slips.
+
+#### Line 20 – Travel expenses
+
+Enter the total of box 20 from all T4A-NR slips.
+
+#### Line 22 – Total tax deductions reported on T4A-NR slips
+
+Enter the total of box 22 from all T4A-NR slips.
+
+#### Line 82 – Minus: Remittances
+
+Enter the amount you remitted for the year under your payroll program account.
+
+#### Difference
+
+Subtract line 82 from line 22. Enter the difference in the space given. If there is no difference between the total deductions you reported and the amount you remitted for the year, leave lines 84 and 86 blank. Generally, the CRA does not refund or charge a difference of $2 or less.
+
+#### Line 84 – Overpayment
+
+If the amount on line 82 is more than the amount on line 22 (and you do not have to file another type of return for this payroll program account), enter the difference on line 84. Attach or send a note giving the reason for the overpayment and whether you want the CRA to transfer this amount to another account or refund the overpayment to you.
+
+#### Line 86 – Balance due
+
+If the amount on line 22 is more than the amount on line 82, enter the difference on line 86.
+
+#### Lines 74 and 75 – Canadian-controlled private corporations or unincorporated payers
+
+Enter the social insurance numbers of any proprietors or principal owners.
+
+#### Lines 76 and 78 – Person to contact about this return
+
+Enter the name and telephone number of a person that the CRA can contact for more information about this return.
+
+#### Certification
+
+A current officer of the business has to sign the T4A-NR Summary to confirm that the information is correct and complete.
+
+## T4A-NR information return
+
+The T4A-NR information return is due on or before the **last day of February following the calendar year in which you paid the amounts**. If the due date falls on a Saturday or a Sunday, it is due on the **next business day**.
+
+Your return is considered on time if the CRA receives it or it is postmarked on or before the next business day. If you fail to file it on time, the CRA may assess a penalty. See [Penalties, interest and other consequences](#P93_4702).
+
+### Electronic filing methods
+
+Internet filing will be available starting January 12, 2026.
+
+You **must** file electronically if you have more than 5 information returns of the same type.
+
+#### Filing by Web Forms
+
+Our Web Forms application is free and secure. To use it, all you need is access to the Internet. With Web Forms you can fill out an information return easily, following the step-by-step instructions.
+
+Web Forms lets you:
+
+- file **up to 100 slips**(original, additional, amended, or cancelled) from our website
+
+- calculate all of the totals for the summary
+
+- create an electronic information return containing slips and a summary, which you can save and import at a later date
+
+- print all your slips and your summary
+
+- validate data in real time
+
+After you submit your information return, you will receive a confirmation number that will be your proof that the CRA received it.
+
+To use the Web Forms application, you must have a web access code. If you do not have a web access code, you can easily get one online or by calling us. For more information, see [Online Web access code](https://apps.cra-arc.gc.ca/ebci/njwc/waconline/entry).
+
+To start using this application or to get more information about Web Forms, go to [File information returns electronically (tax slips and summaries)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+#### Filing by Internet file transfer (XML)
+
+Internet file transfer allows you to transmit an original or amended return with a maximum file size of **150 MB**. All you need is a web browser to connect to the Internet, and your software will create, print, and save your electronic information return in XML format.
+
+If you use commercial or in-house developed software to manage your business, you can file up to **150 MB** by Internet file transfer. For example, a service bureau can file multiple returns in one submission, provided the total submission does not exceed the 150 MB restriction.
+
+If your return is more than 150 MB, you can either compress your return or divide it so that each submission is no more than 150 MB.
+
+If you are filing multiple slips electronically for the same return type, tax year and account number, group all slips together under one summary and file as one return. File original and amended slips in separate returns. For more information on filing information returns using the Internet, go to [File information returns electronically (tax slips and summaries)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+#### Web access code
+
+To file your return over the Internet using the [Internet file transfer](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview/filing-information-returns-electronically-t4-t5-other-types-returns-file.html) or [Web Forms](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview/filing-information-returns-electronically-t4-t5-other-types-returns-file.html) services, you will need a business number and its associated web access code (WAC), unless you are filing through [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) or [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html). For more information about these services, see [Filing without a web access code](#flng_wtht_wac). If you do not remember your code or you need a code for a new account, navigate to "Where do you find your Web access code" by clicking on [File information returns electronically (tax slips and summaries)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html) to access the web access code online service or go to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+#### Filing without a web access code
+
+To register as a **business owner**, go to [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) and do the following:
+
+- Select “CRA Register” and create a CRA user ID and password. You can also select “Sign-In Partner Login/Register” and use the same sign-in information you use for other online services, such as online banking
+
+- To register, you will need to provide the following information:
+
+    - your social insurance number (SIN)
+
+    - your date of birth
+
+    - your postal code or ZIP code
+
+    - an amount you entered on your income tax and benefit return (the line the CRA asks for will vary; it could be from the current or the previous tax year)
+
+    - your business number (BN)
+
+- You must enter a CRA security code to finalize the registration process. You can ask for the CRA security code by paper mail or email
+
+- Return to [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), to enter your CRA security code
+
+To **register as a representative**, including employees of a business, go to [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) and do the following:
+
+- Select “CRA Register” and create a CRA user ID and password. You can also select “Sign-In Partner Login/Register” and use the same sign-in information you use for other online services, such as online banking
+
+- To register, you will need to provide the following information:
+
+    - your access code from your notice of assessment
+
+    - your postal code or ZIP code
+
+- Register as the business owner (using your BN) or as yourself and receive a representative identifier (RepID), or create a group of representatives and receive a group identifier (GroupID)
+
+If the business authorizes you online in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), you will have immediate online access to the business accounts.
+
+Once you are registered as the business owner, or registered and authorized as a representative, an employee, or a group of employees, you will be able to file or amend T4A-NR slips without a Web access code.
+
+If you are a non-resident representative living in the United States, you will need to provide your non-resident representative number (NRRN) and your ZIP code. To apply for an NRRN, you must submit [Form RC391, Application for a Canada Revenue Agency Non-Resident Representative Number (NRRN)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc391.html).
+
+### Filing on paper
+
+If you file 1 to 50 slips, the CRA strongly encourages you to file over the Internet using Internet file transfer or Web Forms. The CRA explains these options under [Electronic filing methods](#P309_22733). However, you can still file up to 50 slips on paper.
+
+If you need more paper copies, you can order a maximum of 9 single-page slips at [Forms and publications - CRA](https://www.canada.ca/en/revenue-agency/services/forms-publications.html) or go to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html). There are two slips per page intended for printers, for typing, or to be filled out by hand.
+
+If you choose to file your return on paper, mail it to:
+
+T4A-NR Program Jonquière Tax Centre Post Office Box 1300 LCD Jonquière Jonquière QC G7S 0L5 Canada
+
+Fill out **one copy** of the T4A-NR slip for each recipient andinclude it with your T4A-NR Summary. Enter the information for two different recipients on one sheet. You must keep the information from the T4A-NR slips and the T4A-NRSummary or a copy of these forms for your files.
+
+## After you file
+
+When the CRA receives your information return, the CRA checks it to see if you have prepared it correctly. After an initial review, the CRA enters your return into our processing system, which captures the information and performs various validity and balancing checks. Complete the “Filer Amendment Note” on the summary page to provide reason for the amendment. When specific reasons apply for individual slips, include the name of the recipient. If there are any problems, the CRA may contact you.
+
+After filing your information return, you may notice that you made an error on a T4A-NR slip. If so, you will have to prepare an amended slip to correct the information.
+
+### Amending or cancelling slips over the Internet
+
+To amend a slip over the Internet, change only the information that is incorrect and retain all of the remaining information that was originally submitted. Use summary report type code “A” and slip report type code “A.”
+
+Complete the “Filer Amendment Note” on the summary page to provide reason for the amendment. When specific reasons apply for individual slips, include the name of the recipient.
+
+To cancel a slip, do not change any information that was contained on the original slip. Use summary report type code “A” and slip report type code “C.”
+
+For more information on how to amend or cancel information returns using the Internet, go to [File information returns electronically (tax slips and summaries)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+If you amend or cancel slips using the Internet, the CRA may contact you to find out why.
+
+### Amending or cancelling slips on paper
+
+If you choose to file your amended return on paper, clearly identify the slips as amended or cancelled slips by writing “AMENDED” or “CANCELLED” at the top of each slip. Make sure you fill in all the necessary boxes, including the information that was correct on the original slip. Send two copies of the amended slips to the non-resident, in the same way you sent the originals. Send one copy of the amended slips to any [tax centre](#P781_32119) with a letter explaining the reason for the amendment. The addresses of our tax centres are listed at the end of this guide.
+
+**Do not**file an amended T4A-NR Summary.
+
+### Adding slips
+
+After you file your information return, you may discover that you need to send additional slips. If you have original slips that were not filed with your return, file them separately either electronically or on paper.
+
+To file additional slips electronically, see [Electronic filing methods](#P309_22733).
+
+When you fill out additional slips on paper, clearly identify the new slips by writing “ADDITIONAL” at the top of each slip. Send two copies of the additional slips to the non-resident, in the way described in “Distributing the T4A-NR slips”. Send one copy of the additional slips to any tax centre with a letter explaining the reason for the addition. The addresses of your tax centres are listed at the end of this guide. **Do not** file an additional T4A-NR Summary.
+
+Any additional T4A-NR slips which are filed after the due date may result in a penalty. For the penalty structure, see [Late filing and failing to file the T4A-NR information return](#ltflng_flrflt4anr).
+
+### Replacing slips
+
+If you issue T4A-NR slips to replace copies that are lost or destroyed, do not send a copy to the CRA. Clearly identify them as “DUPLICATE” copies, and keep them with your records.
+
+## Appendix A – Country codes for tax purposes
+
+Enter the appropriate three-letter code in box 27 of the T4A-NR slip. Please note that these codes should also be used in the address portion of the T4A-NR slip.
+
+For more information, refer to the International organization for standardization ISO 3166 code called Codes for the representation of names of countries and their subdivisions.
+
+| Codes | Countries |
+
+| --- | --- |
+
+| **AFG** | Afghanistan |
+
+| **ALA** | Åland Islands |
+
+| **ALB** | Albania |
+
+| **DZA** | Algeria |
+
+| **ASM** | American Samoa |
+
+| **AND** | Andorra |
+
+| **AGO** | Angola |
+
+| **AIA** | Anguilla |
+
+| **ATA** | Antarctica |
+
+| **ATG** | Antigua and Barbuda |
+
+| **ARG** | Argentina |
+
+| **ARM** | Armenia |
+
+| **ABW** | Aruba |
+
+| **AUS** | Australia |
+
+| **AUT** | Austria |
+
+| **AZE** | Azerbaijan |
+
+| **BHS** | Bahamas (the) |
+
+| **BHR** | Bahrain |
+
+| **BGD** | Bangladesh |
+
+| **BRB** | Barbados |
+
+| **BLR** | Belarus |
+
+| **BEL** | Belgium |
+
+| **BLZ** | Belize |
+
+| **BEN** | Benin |
+
+| **BMU** | Bermuda |
+
+| **BTN** | Bhutan |
+
+| **BOL** | Bolivia (Plurinational State of) |
+
+| **BES** | Bonaire, Sint Eustatius and Saba |
+
+| **BIH** | Bosnia and Herzegovina |
+
+| **BWA** | Botswana |
+
+| **BVT** | Bouvet Island |
+
+| **BRA** | Brazil |
+
+| **IOT** | British Indian Ocean Territory (the) |
+
+| **BRN** | Brunei Darussalam |
+
+| **BGR** | Bulgaria |
+
+| **BFA** | Burkina Faso (Upper Volta) |
+
+| **BDI** | Burundi |
+
+| **KHM** | Cambodia (Kampuchea) |
+
+| **CMR** | Cameroon |
+
+| **CPV** | Cabo Verde |
+
+| **CYM** | Cayman Islands (the) |
+
+| **CAF** | Central African Republic (the) |
+
+| **TCD** | Chad |
+
+| **CHL** | Chile |
+
+| **CHN** | China (Mainland) |
+
+| **CXR** | Christmas Island (Australia) |
+
+| **CCK** | Cocos (Keeling) Islands (the) |
+
+| **COL** | Colombia |
+
+| **COM** | Comoros (the) |
+
+| **COG** | Congo (the) |
+
+| **COD** | Congo (the Democratic Republic of the) (formerly Zaire) |
+
+| **COK** | Cook Islands (the) |
+
+| **CRI** | Costa Rica |
+
+| **CIV** | Côte d’Ivoire (Ivory Coast) |
+
+| **HRV** | Croatia |
+
+| **CUB** | Cuba |
+
+| **CUW** | Curaçao |
+
+| **CYP** | Cyprus |
+
+| **CZE** | Czechia |
+
+| **DNK** | Denmark |
+
+| **DJI** | Djibouti |
+
+| **DMA** | Dominica |
+
+| **DOM** | Dominican Republic (the) |
+
+| **ECU** | Ecuador |
+
+| **EGY** | Egypt |
+
+| **SLV** | El Salvador |
+
+| **GNQ** | Equatorial Guinea |
+
+| **ERI** | Eritrea |
+
+| **EST** | Estonia |
+
+| **SWZ** | Eswatini |
+
+| **ETH** | Ethiopia |
+
+| **FLK** | Falkland Islands (the) (Malvinas) |
+
+| **FRO** | Faroe Islands (the) |
+
+| **FJI** | Fiji |
+
+| **FIN** | Finland |
+
+| **FRA** | France |
+
+| **GUF** | French Guiana |
+
+| **PYF** | French Polynesia |
+
+| **ATF** | French Southern Territories (the) |
+
+| **GAB** | Gabon |
+
+| **GMB** | Gambia (the) |
+
+| **GEO** | Georgia |
+
+| **DEU** | Germany |
+
+| **GHA** | Ghana |
+
+| **GIB** | Gibraltar |
+
+| **GRC** | Greece |
+
+| **GRL** | Greenland |
+
+| **GRD** | Grenada |
+
+| **GLP** | Guadeloupe |
+
+| **GUM** | Guam |
+
+| **GTM** | Guatemala |
+
+| **GGY** | Guernsey |
+
+| **GIN** | Guinea |
+
+| **GNB** | Guinea-Bissau |
+
+| **GUY** | Guyana |
+
+| **HTI** | Haiti |
+
+| **HMD** | Heard Island and McDonald Islands |
+
+| **VAT** | Holy See (the) |
+
+| **HND** | Honduras |
+
+| **HKG** | Hong Kong |
+
+| **HUN** | Hungary |
+
+| **ISL** | Iceland |
+
+| **IND** | India |
+
+| **IDN** | Indonesia |
+
+| **IRN** | Iran (Islamic Republic of) |
+
+| **IRQ** | Iraq |
+
+| **IRL** | Ireland |
+
+| **IMN** | Isle of Man |
+
+| **ISR** | Israel |
+
+| **ITA** | Italy |
+
+| **JAM** | Jamaica |
+
+| **JPN** | Japan |
+
+| **JEY** | Jersey |
+
+| **JOR** | Jordan |
+
+| **KAZ** | Kazakhstan |
+
+| **KEN** | Kenya |
+
+| **KIR** | Kiribati |
+
+| **PRK** | Korea (the Democratic People’s Republic of) (North) |
+
+| **KOR** | Korea (the Republic of) (South) |
+
+| **KWT** | Kuwait |
+
+| **KGZ** | Kyrgyzstan |
+
+| **LAO** | Lao People’s Democratic Republic (the) |
+
+| **LVA** | Latvia |
+
+| **LBN** | Lebanon |
+
+| **LSO** | Lesotho |
+
+| **LBR** | Liberia |
+
+| **LBY** | Libya |
+
+| **LIE** | Liechtenstein |
+
+| **LTU** | Lithuania |
+
+| **LUX** | Luxembourg |
+
+| **MAC** | Macao |
+
+| **MDG** | Madagascar |
+
+| **MWI** | Malawi |
+
+| **MYS** | Malaysia |
+
+| **MDV** | Maldives |
+
+| **MLI** | Mali |
+
+| **MLT** | Malta |
+
+| **MHL** | Marshall Islands (the) |
+
+| **MTQ** | Martinique |
+
+| **MRT** | Mauritania |
+
+| **MUS** | Mauritius |
+
+| **MYT** | Mayotte |
+
+| **MEX** | Mexico |
+
+| **FSM** | Micronesia (Federated States of) |
+
+| **MDA** | Moldova (the Republic of) |
+
+| **MCO** | Monaco |
+
+| **MNG** | Mongolia |
+
+| **MNE** | Montenegro |
+
+| **MSR** | Montserrat |
+
+| **MAR** | Morocco |
+
+| **MOZ** | Mozambique |
+
+| **MMR** | Myanmar (Burma) |
+
+| **NAM** | Namibia |
+
+| **NRU** | Nauru |
+
+| **NPL** | Nepal |
+
+| **NLD** | Netherlands (the) |
+
+| **NCL** | New Caledonia |
+
+| **NZL** | New Zealand |
+
+| **NIC** | Nicaragua |
+
+| **NER** | Niger (the) |
+
+| **NGA** | Nigeria |
+
+| **NIU** | Niue |
+
+| **NFK** | Norfolk Island |
+
+| **MKD** | North Macedonia |
+
+| **GBR** | Northern Ireland and the United Kingdom of Great Britain |
+
+| **MNP** | Northern Mariana Islands (the) |
+
+| **NOR** | Norway |
+
+| **OMN** | Oman |
+
+| **PAK** | Pakistan |
+
+| **PLW** | Palau |
+
+| **PAN** | Panama |
+
+| **PNG** | Papua New Guinea |
+
+| **PRY** | Paraguay |
+
+| **PER** | Peru |
+
+| **PHL** | Philippines (the) |
+
+| **PCN** | Pitcairn |
+
+| **POL** | Poland |
+
+| **PRT** | Portugal |
+
+| **PRI** | Puerto Rico |
+
+| **QAT** | Qatar |
+
+| **REU** | Réunion |
+
+| **ROU** | Romania |
+
+| **RUS** | Russian Federation (the) |
+
+| **RWA** | Rwanda |
+
+| **BLM** | Saint Barthélemy |
+
+| **SHN** | Saint Helena, Ascension and Tristan da Cunha |
+
+| **KNA** | Saint Kitts and Nevis |
+
+| **LCA** | Saint Lucia |
+
+| **MAF** | Saint Martin (French part) |
+
+| **SPM** | Saint Pierre and Miquelon |
+
+| **VCT** | Saint Vincent and the Grenadines |
+
+| **WSM** | Samoa |
+
+| **SMR** | San Marino |
+
+| **STP** | Sao Tome and Principe |
+
+| **SAU** | Saudi Arabia |
+
+| **SEN** | Senegal |
+
+| **SRB** | Serbia |
+
+| **SYC** | Seychelles |
+
+| **SLE** | Sierra Leone |
+
+| **SGP** | Singapore |
+
+| **SXM** | Sint Maarten (Dutch part) |
+
+| **SVK** | Slovakia (Slovak Republic) |
+
+| **SVN** | Slovenia |
+
+| **SLB** | Solomon Islands |
+
+| **SOM** | Somalia |
+
+| **ZAF** | South Africa |
+
+| **SGS** | South Georgia and the South Sandwich Islands |
+
+| **SSD** | South Sudan |
+
+| **ESP** | Spain |
+
+| **LKA** | Sri Lanka |
+
+| **SDN** | Sudan (the) |
+
+| **SUR** | Suriname |
+
+| **SJM** | Svalbard and Jan Mayen |
+
+| **SWE** | Sweden |
+
+| **CHE** | Switzerland |
+
+| **SYR** | Syrian Arab Republic (the) |
+
+| **TWN** | Taiwan |
+
+| **TJK** | Tajikistan |
+
+| **TZA** | Tanzania, the United Republic of |
+
+| **THA** | Thailand |
+
+| **TLS** | Timor-Leste |
+
+| **TGO** | Togo |
+
+| **TKL** | Tokelau |
+
+| **TON** | Tonga |
+
+| **TTO** | Trinidad and Tobago |
+
+| **TUN** | Tunisia |
+
+| **TUR** | Türkiye |
+
+| **TKM** | Turkmenistan |
+
+| **TCA** | Turks and Caicos Islands (the) |
+
+| **TUV** | Tuvalu |
+
+| **UGA** | Uganda |
+
+| **UKR** | Ukraine |
+
+| **ARE** | United Arab Emirates |
+
+| **GBR** | United Kingdom of Great Britain and Northern Ireland (the) |
+
+| **USA** | United States of America (the) |
+
+| **UMI** | United States Minor Outlying Islands (the) |
+
+| **URY** | Uruguay |
+
+| **UZB** | Uzbekistan |
+
+| **VUT** | Vanuatu (New Hebrides) |
+
+| **VEN** | Venezuela (Bolivarian Republic of) |
+
+| **VNM** | Viet Nam |
+
+| **VGB** | Virgin Islands (British) |
+
+| **VIR** | Virgin Islands (U.S.) |
+
+| **WLF** | Wallis and Futuna |
+
+| **PSE** | West Bank and Gaza Strip |
+
+| **ESH** | Western Sahara |
+
+| **YEM** | Yemen |
+
+| **ZMB** | Zambia |
+
+| **ZWE** | Zimbabwe |
+
+## Appendix B – U.S. state, territory, or possession codes
+
+Use the following abbreviations when you enter the U.S. state, territory, or possession on the T4A-NR slip.
+
+| State, territory or possession | Code |
+
+| --- | --- |
+
+| Alabama | **AL** |
+
+| Alaska | **AK** |
+
+| American Samoa | **AS** |
+
+| Arizona | **AZ** |
+
+| Arkansas | **AR** |
+
+| Armed Forces Americas (except Canada) | **AA** |
+
+| Armed Forces Africa Armed Forces Canada Armed Forces Europe Armed Forces Middle East | **AE** |
+
+| Armed Forces Pacific | **AP** |
+
+| California | **CA** |
+
+| Colorado | **CO** |
+
+| Connecticut | **CT** |
+
+| Delaware | **DE** |
+
+| District of Columbia | **DC** |
+
+| Florida | **FL** |
+
+| Georgia | **GA** |
+
+| Guam | **GU** |
+
+| Hawaii | **HI** |
+
+| Idaho | **ID** |
+
+| Illinois | **IL** |
+
+| Indiana | **IN** |
+
+| Iowa | **IA** |
+
+| Kansas | **KS** |
+
+| Kentucky | **KY** |
+
+| Louisiana | **LA** |
+
+| Maine | **ME** |
+
+| Marshall Islands | **MH** |
+
+| Maryland | **MD** |
+
+| Massachusetts | **MA** |
+
+| Michigan | **MI** |
+
+| Micronesia, Federated States of | **FM** |
+
+| Minnesota | **MN** |
+
+| Mississippi | **MS** |
+
+| Missouri | **MO** |
+
+| Montana | **MT** |
+
+| Nebraska | **NE** |
+
+| Nevada | **NV** |
+
+| New Hampshire | **NH** |
+
+| New Jersey | **NJ** |
+
+| New Mexico | **NM** |
+
+| New York | **NY** |
+
+| North Carolina | **NC** |
+
+| North Dakota | **ND** |
+
+| Northern Mariana Islands | **MP** |
+
+| Ohio | **OH** |
+
+| Oklahoma | **OK** |
+
+| Oregon | **OR** |
+
+| Palau | **PW** |
+
+| Pennsylvania | **PA** |
+
+| Puerto Rico | **PR** |
+
+| Rhode Island | **RI** |
+
+| South Carolina | **SC** |
+
+| South Dakota | **SD** |
+
+| Tennessee | **TN** |
+
+| Texas | **TX** |
+
+| United States Minor Outlying Islands | **UM** |
+
+| Utah | **UT** |
+
+| Vermont | **VT** |
+
+| Virgin Islands, U.S. | **VI** |
+
+| Virginia | **VA** |
+
+| Washington | **WA** |
+
+| West Virginia | **WV** |
+
+| Wisconsin | **WI** |
+
+| Wyoming | **WY** |
+
+## Digital services
+
+### Handle your business taxes online
+
+My Business Account lets you access your business tax information and interact with the CRA online throughout the year.
+
+### Profile
+
+- Manage your addresses, direct deposit information, business activity, program account names, operating names, phone numbers, business numbers in your profile, and language preference
+
+- Manage your notification preferences and receive email notifications when important changes are made to your account
+
+- Manage your authorized representatives and authorization requests
+
+- Manage your multi-factor authentication settings and security options
+
+### Balances and payments
+
+- Make a payment online to the CRA with My Payment, create a pre-authorized debit (PAD) agreement, or create a QR code to pay in person at Canada Post for a fee
+
+- View and pay account balance
+
+- View account transactions
+
+- Transfer payments and immediately view the updated balance
+
+- View interest
+
+- Calculate future balance
+
+- View direct deposit transactions
+
+- Calculate and pay instalment payments
+
+### Transactions
+
+- File a return, view the status of filed returns, and adjust returns
+
+- File and adjust a rebate
+
+- File and view an election related to GST/HST
+
+- Track the progress of certain files and enquiries you have submitted to the CRA
+
+- Make an online request regarding your account and view answers to common enquiries
+
+- Request relief of penalties and interest
+
+- File a formal dispute (Notice of Objection)
+
+- Submit a PDF form with electronic signature
+
+- Close an account
+
+### Correspondence
+
+- View mail from the CRA
+
+- Submit documents to the CRA
+
+- Submit an audit enquiry
+
+For more information, go to [Digital services for businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html).
+
+### Access My Business Account
+
+To access My Business Account, go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) and sign in to or register for a CRA account.
+
+### Receive your CRA mail online
+
+Register for email notifications to find out when CRA mail, like your notice of assessment, is available in My Business Account. You will no longer receive your CRA mail by paper.
+
+For more information, go to [Email notifications from the CRA – Businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/online-mail-reduce-your-cost-doing-business-saving-time-online.html).
+
+### Create a pre-authorized debit agreement for payments from your Canadian chequing account
+
+A pre-authorized debit (PAD) is a secure online self-service payment option for individuals and businesses to pay their taxes. A PAD lets you authorize withdrawals from your Canadian chequing account to pay the CRA. You can set the payment dates and amounts of your PAD agreement using the CRA’s My Business Account at [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html). PADs are flexible and managed by you. You can use My Business Account to view your account history and modify, cancel, or skip a payment. For more information, go to [Pay by scheduled pre-authorized debit (PAD) through CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html).
+
+### Electronic payments
+
+Make your payment using:
+
+- your Canadian bank or credit union’s online banking, mobile app, or telephone service
+
+- the CRA’s My Payment service at [My Payment](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html) with your activated debit card from a participating Canadian bank or credit union with a Visa Debit or Debit Mastercard logo (does **not** include credit cards)
+
+- pre-authorized debit (PAD) at [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) which lets you:
+
+    - set up payments to the CRA from a Canadian chequing account on pre-set dates starting in five or more business days
+
+    - pay an amount due, repay overpaid amounts or make instalment payments
+
+    - view your account history and modify, cancel or skip a payment (for more information on PAD, go to [Pay by scheduled pre-authorized debit (PAD) through CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html))
+
+- the “Proceed to pay“ button on the “View and pay account balance“ page and other pages within [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html)
+
+- your credit card, Interac e-Transfer or PayPal through one of the third-party service providers **for a fee**
+
+For more information, go to [Payments to the CRA](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html).
+
+## For more information
+
+### If you need help
+
+For help with common topics, current contact centre wait times, and links to online self-serve options, go to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+### Direct deposit
+
+Direct deposit is a fast, convenient, and secure way to receive your CRA payments directly in your account at a financial institution in Canada. For more information, go to [Direct deposit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html) or contact your financial institution.
+
+### Forms and publications
+
+The CRA encourages you to file your return electronically. If you need a paper version of the CRA’s forms and publications, go to [Forms and publications - CRA](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+### Electronic mailing lists
+
+The CRA can send you an email when new information on a subject of interest is available on its website. To subscribe, go to [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+### Teletypewriter (TTY) and Video Relay Service (VRS) users
+
+If you use a TTY for a hearing or speech impairment, call **1-800-665-0354**.
+
+Register with Canada VRS to download the app, by going to [Get started with Canada VRS](https://srvcanadavrs.ca/en/get-the-app/), and call the VRS line.
+
+If you use another **operator-assisted relay service**, call the CRA’s regular telephone numbers instead of the TTY and Canada VRS numbers.
+
+### Formal disputes (objections and appeals)
+
+You have the right to file an objection or an appeal if you disagree with an assessment, a determination, or a decision.
+
+For more information, go to [File an objection](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/file-objection-cppei-appeal-minister.html).
+
+### CRA service feedback program
+
+#### Service complaints
+
+You can expect to be treated fairly and to receive a high level of service every time you interact with the CRA.
+
+You can provide compliments or suggestions; however, if you are not satisfied with the service you received:
+
+- You may save time by calling the CRA first depending on your situation. You can call the telephone number provided in your CRA correspondence or discuss your concerns with the employee you have been dealing with. If you do not have a contact number, go to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html)
+
+- You can ask to discuss the matter with the employee’s supervisor if you have not been able to resolve your service issue
+
+- You can submit feedback by filling out [Form RC193, Service Feedback](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html), if the issue remains unresolved. For more information, go to [Send feedback about CRA service](https://www.canada.ca/en/revenue-agency/services/make-a-service-complaint.html)
+
+- You may contact the [Office of the Taxpayers’ Ombudsperson (OTO)](https://www.canada.ca/en/taxpayers-ombudsperson.html) if you are not satisfied with the response you have received. The Ombudsperson will only respond to complaints that the CRA has already tried to address
+
+For more information about the Taxpayer Bill of Rights, go to [Taxpayer Bill of Rights](https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/taxpayer-bill-rights.html).
+
+#### Reprisal complaints
+
+If you received a response about a previously submitted service complaint or formal review of a CRA decision and felt that you were not treated fairly by a CRA employee, you can submit a reprisal complaint by filling out [Form RC459, Reprisal Complaint](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc459.html).
+
+For more information, go to [Reprisal Complaints](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/reprisal-complaints.html).
+
+### Addresses
+
+#### Tax centres
+
+Jonquière Tax Centre Post Office Box 1300 LCD Jonquière Jonquière QC G7S 5J2 Canada
+
+Prince Edward Island Tax Centre 275 Pope Road Summerside PE C1N 6A2 Canada
+
+Sudbury Tax Centre Post Office Box 20000, Station A Sudbury ON P3A 5C1 Canada
+
+Winnipeg Tax Centre 66 Stapon Road Winnipeg MB R3C 3M2 Canada
+
+### Reporting foreign income and other foreign amounts
+
+Report, in Canadian dollars, your foreign income and other foreign currency amounts (such as expenses and foreign taxes paid). In general, the foreign currency amount should be converted using the Bank of Canada exchange rate in effect on the day that the amount arises. In certain situations, the CRA will accept an exchange rate quoted by a source other than the Bank of Canada if the rate is:
+
+- widely available
+
+- verifiable
+
+- published by an independent provider on an ongoing basis
+
+- recognized by the market
+
+- used in accordance with well-accepted business principles
+
+- used to prepare financial statements (if any)
+
+- used consistently from year to year
+
+Each of the conditions above must be met for the rate to be accepted. Other sources of foreign exchange rates that the CRA generally accepts include Bloomberg L.P., Thomson Reuters Corporation, and OANDA Corporation.
+
+In certain circumstances, an average of exchange rates over the relevant period of time may be used to convert foreign currency amounts. See Income Tax Folio S5 F4 C1, Income Tax Reporting Currency, and refer to this folio for information about converting foreign amounts generally.
+
+For more information about converting foreign income taxes paid, see [Income Tax Folio S5-F2-C1, Foreign Tax Credit](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/folio-2-foreign-tax-credits-deductions/income-tax-folio-s5-f2-c1-foreign-tax-credit.html).

@@ -1,0 +1,146 @@
+---
+title: "ARCHIVED - Special reserves"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it154r/archived-special-reserves.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Special reserves
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-154R**
+
+DATE: February 19, 1988
+
+SUBJECT: INCOME TAX ACT**Special Reserves**
+
+REFERENCE: Paragraphs 20(1)(m), (m.1), (m.2) and (n) (also subsections 20(6), (7), (8), (24) and (25), 88(1) and 28(1) and paragraphs 12(1)(a) and (e), 72(1)(a) and 87(2)(i) and (j))
+
+Application
+
+This bulletin cancels and replaces Interpretation Bulletin IT-154 dated March 14, 1974. Current revisions are designated by vertical lines.
+
+Summary
+
+Under specified conditions, the Act provides for special reserves which enable a taxpayer to deduct, in computing income from a business for a taxation year, amounts included in such income that, in very general terms, may be regarded either as unearned income or anticipated future liabilities. Although any such reserve amount deducted in one year must be added back to income in the immediately following year, a new reserve may be established, subject to certain limits, for each year so long as the specified conditions prevail. This bulletin deals only with reserves that pertain to transactions other than those involving returnable containers (see IT-165R) and the sale of real estate (see IT-152R3).
+
+Discussion and Interpretation
+
+Reserve in Respect of Goods and Services
+
+1. Under the provisions of subparagraph 12(1)(a)(i), any amount that is received in a taxation year by a taxpayer in the course of carrying on business that is on account of services not rendered or goods not delivered before the end of the year or that, for any other reason, may be regarded as not having been earned in the year or a previous year, must be included in computing the taxpayer's income from the business for the year.
+
+2. Where an amount has been included in a taxpayer's income in accordance with subparagraph 12(1)(a)(i), paragraph 20(1)(m) provides a deferment of taxation on such unearned income by permitting a taxpayer to deduct, in computing income from a business for a taxation year, an amount not exceeding a reasonable amount as a reserve in respect of
+
+(a) goods that it is reasonably anticipated will have to be delivered after the end of the year,
+
+(b) services that it is reasonably anticipated will have to be rendered after the end of the year, or
+
+(c) periods for which rent or any other charge for the possession or use of land or chattels has been paid in advance (see 8 below).
+
+However, the amount of this reserve is subject to restrictions imposed by subsections 20(6) and (7) which are explained in 3 and 6, respectively, below.
+
+3. Subsection 20(6) limits the amount that is deductible as a reserve pursuant to paragraph 20(1)(m) in respect of
+
+(a) articles of food and drink that were not delivered before the end of the year, or
+
+(b) transportation not provided before the end of the year to an amount not exceeding the aggregate of the amounts in respect thereof that were actually included in computing the taxpayer's income from the business for the year. Thus, the so-called "ticket reserves" of taxpayers at the end of a taxation year may not exceed the dollar amount at that time of unredeemed tickets which were issued during the taxation year and included in that year's income. A taxpayer who cannot determine the amount of unredeemed tickets may calculate the amount on the basis of past experience.
+
+4. Where subsection 20(6) is not applicable, a reasonable amount for a reserve normally is the gross proceeds received by the taxpayer, in either the current or a preceding year, in respect of those goods or services which past experience or other factors indicate will have to be delivered or provided after the end of the year. There is no need to estimate the profit on such goods or services since the reserve is not restricted to the estimated costs of the goods to be delivered or the services to be rendered.
+
+5. Where a taxpayer issues trading stamps or special cash register tapes with an undertaking to redeem them for merchandise, a reasonable reserve is allowable for the cost of merchandise that will have to be delivered to redeem stamps or tapes issued and not redeemed by the end of the taxation year.
+
+6. By virtue of subsection 20(7), paragraph 20(1)(m) does not apply to allow a deduction
+
+(a) in computing income from a business where such income is computed in accordance with the "cash method" as authorized by subsection 28(1), or
+
+(b) of any amount as a reserve in respect of
+
+(i) guarantees, indemnities or warranties, or
+
+(ii) insurance, except that in computing income for a taxation year from an insurance business, other than a life insurance business, an insurance corporation may deduct prescribed amounts as policy reserves
+
+7. The general limitations of subsection 20(7), as described in 6 above, do not apply to a reserve which is authorized by paragraph 20(1)(m.1) for the 1979 and subsequent taxation years. Under paragraph 20(1)(m.1), where a taxpayer has sold an extended warranty plan to a person with whom the taxpayer was dealing at arm's length and provided that
+
+(a) the taxpayer, in computing income from a business for a taxation year, has included an amount in respect of the sale of the plan,
+
+(b) the taxpayer's only obligation under the plan is to provide goods and services with respect only to property manufactured by the taxpayer or by a corporation related to the taxpayer, and
+
+(c) the taxpayer has insured the liability under the plan with an insurer that carries on an insurance business in Canada, the taxpayer, in computing income for the year, may deduct a reasonable amount in respect of goods or services that pursuant to the plan it is reasonably anticipated will have to be delivered or rendered after the end of the year, not exceeding, however, that portion of the insurance premium paid or payable that relates to the period after the end of the year and to the taxpayer's liability in respect of an outlay or expense made or incurred after December 11, 1979.
+
+Reserve in Respect of Rent Received in Advance
+
+8. Subparagraph 20(1)(m)(iii) permits a taxpayer to deduct, in computing income for a taxation year, a reasonable amount as a reserve in respect of rent for the possession or use of land or chattels that has been received in advance and included in computing the taxpayer's income from a business for the year or a previous year. Normally, a reasonable amount for this purpose is that part of the rent received in advance which relates to the period after the end of the year for which possession or use of the land or chattels must be made available. "Land" includes any buildings or other structures thereon, and "chattels" includes a ship.
+
+Transfer of an Obligation to Provide Goods or Services
+
+9. Where a taxpayer (the payer) has
+
+(a) under paragraph 12(1)(a), included in income for a taxation year an amount that is on account of goods not delivered or services not rendered before the end of the year, and
+
+(b) has paid a reasonable amount to another taxpayer (the recipient) for undertaking to provide such goods and services,
+
+with respect to the 1982 and subsequent taxation years, if the payer and the recipient have jointly and validly elected in accordance with subsection 20(25), the following rules apply:
+
+(c) the payer, by virtue of subsection 20(24), may deduct the amount so paid in computing income for the taxation year in which the payment was made,
+
+(d) the recipient, for the purpose of paragraph 12(1)(a), and by virtue of subsection 20(24), shall be deemed to have received the payment in the course of a business on account of services not rendered or goods not delivered before the end of the taxation year in which the payment was received,
+
+(e) the payer, by virtue of subsection 20(24), cannot claim a reserve under paragraph 20(1)(m) in respect of those goods or services for the taxation year in which the payment was made or for any subsequent taxation year, and
+
+(f) the recipient can claim a reserve under paragraph 20(1)(m) in respect of those goods and services to the extent provided.
+
+Reserve in Respect of Amount Due From the Sale of Property Other Than Real Estate
+
+10. Subject to the comments in 13 below, a reserve is deductible under paragraph 20(1)(n) where goods are sold and the terms of the sale provide that at least part of the amount due is not due for more than two years from the day on which the property was sold. Before such a reserve is allowable, however, the sale price must have been included in income for the year in which the sale was made, and some part of that sale price must be due after the end of the taxation year for which the reserve is claimed. It is important to note that a reserve is allowable only in respect of the profit element in the amount due. A reserve for doubtful debts may be allowed under paragraph 20(1)(l) for the debt itself.
+
+11. The only requirement in regard to the allowable amount of a reserve in respect of the profit element in such an amount due is that the reserve must be a reasonable amount. Normally, it is considered reasonable to assume that the profit element in any amount due is that proportion of such amount that the gross profit on the sale bears to the gross selling price; thus a reserve might be allowed equal to the full amount of the profit if no part of the selling price had been received. Stated as a formula, the foregoing would be:
+
+(gross profit ÷ gross selling price) x amount due = reserve
+
+12. Where the profit element in an amount due is determined on some other basis and the amount is greater than it would be if it had been calculated on the above basis, the taxpayer must submit reasons for considering that the reserve is a reasonable amount. A claim for a reserve equal to the lesser of the gross profit on the sale and the amount due will not be allowed as it is not considered reasonable to assume that the vendor receives no profit until after the full investment in the property sold has been recovered .
+
+13. Paragraph 20(1)(n) does not apply to allow a deduction in computing the income of a taxpayer for a taxation year from a business in respect of a property sold in the course of the business in any case where,
+
+(a) as provided by subsection 20(8), the taxpayer, at the end of the year or at any time in the immediately following taxation year
+
+(i) was exempt from tax under Part I of the Act, or
+
+(ii) was not resident in Canada and did not carry on the business in Canada,
+
+(b) as provided by subsection 20(8), the sale occurred more than 36 months before the end of the year if the property was sold after November 12, 1981, or
+
+(c) as provided by paragraph 72(1)(a), the taxpayer died in the taxation year.
+
+The 36 month limit described in (b) above does not apply with respect to property sold before November 13, 1981, or sold after November 12, 1981 if the sale occurred pursuant to the terms in existence on that date of an offer or agreement in writing made or entered into on or before that date.
+
+Reserves Following an Amalgamation
+
+14. Where two or more corporations have amalgamated as described in section 87, the new corporation will be entitled to deduct amounts under paragraph 20(1)(m), (m.1), (m.2) or (n), as the case may be, to the same extent that a predecessor corporation would have been so entitled had the amalgamation not occurred. This entitlement is preserved through the amalgamation process by the deeming provisions of paragraphs 87(2)(i) and (j), whichever may be applicable in the circumstances.
+
+Reserves Following a Winding-Up
+
+15. Where a subsidiary corporation has been wound up into its parent corporation in circumstances such that the rules in subsection 88(1) were applicable, the parent corporation will be entitled, by virtue of paragraph 88(1)(e.2), to deduct amounts under paragraph 20(1)(m), (m.1), (m.2) or (n), as the case may be, to the same extent that the subsidiary would have been so entitled had the winding-up not occurred.
+
+Amount of Reserve to be Included in Income
+
+16. Pursuant to paragraph 12(1)(e), any amount deducted as a reserve under paragraph 20(1)(m) or (n) or subsection 20(7) and, for the 1979 and subsequent taxation years, paragraph 20(1)(m.1) is required to be included in computing a taxpayer's income from a business for the taxation year immediately following the year in which any such deduction was made. A new corporation arising out of an amalgamation is, by virtue of subparagraph 87(2)(g)(i) and paragraph 12(1)(e), required to include in income for its first taxation year any amount that a predecessor corporation deducted as a reserve in computing income for its last taxation year. Similarly, by virtue of paragraph 88(1)(e.2) and subparagraph 87(2)(g)(i), a parent corporation must include in income for its taxation year during which it received the assets of a subsidiary on a winding-up any amount that the subsidiary deducted as a reserve in computing income for its last taxation year.
+
+Repayment of Amount Previously Included in Income
+
+17. Where a taxpayer
+
+(a) has, under paragraph 12(1)(a), included an amount in income for a particular taxation year or a previous year,
+
+(b) has repaid the amount in the particular taxation year or thereafter, and
+
+(c) has made the repayment in the 1982 or any subsequent taxation year,
+
+the amount repaid may, by virtue of paragraph 20(1)(m.2), be deducted by the taxpayer in computing income from a business for the year in which the repayment occurred.

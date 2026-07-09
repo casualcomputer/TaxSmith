@@ -1,0 +1,49 @@
+Title: ARCHIVED - Commencement of Business Operations
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it364/archived-commencement-business-operations.html
+Corpus path: corpus/cra/forms-publications/publications/it364/archived-commencement-business-operations.md
+Document type: publication
+Last modified: 2017-11-07
+
+# ARCHIVED - Commencement of Business Operations
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-364**
+
+DATE: March 14, 1977
+
+SUBJECT: INCOME TAX ACT**Commencement of Business Operations**
+
+REFERENCE: Paragraph 18(1)(a) (also paragraphs 18(1)(b) and 14(5)(b))
+
+1. For an amount to be deducted on the grounds that it was an expense incurred for the purpose of gaining or producing income from a business, the taxpayer must have been carrying on business in the fiscal period in which the expense was incurred. Therefore, where a taxpayer proposes to undertake a business and makes some initial expenditures with that purpose in mind, it is necessary to establish whether they preceded the commencement of the business or whether the business had in fact commenced and they were expenses incurred during preliminary steps leading to the start of normal operations. Consequently, the date when the business can be said to have commenced must be known.
+
+Date When Business Commences
+
+2. It is not possible to be specific about the point in time when a contemplated business becomes an actual business. Generally speaking, it is the Department's view that a business commences whenever some significant activity is undertaken that is a regular part of the income-earning process in that type of business or is an essential preliminary to normal operations. In order that there be a finding that a business has commenced, it is necessary that there be a fairly specific concept of the type of activity to be carried on and a sufficient organizational structure assembled to undertake at least the essential preliminaries. This requirement is applicable whether the projected business is intended to be a continuing one or is to be a single transaction in the form of an adventure in the nature of trade. Where an activity consists merely of a review of various business possibilities in the expectation or hope that information will be obtained to justify going into a business of some kind, such an activity does not represent the commencement of a business. A business would be reviewed as being merely contemplated for the future if no serious or reasonably continuous efforts are being made to begin normal business operations. The comments in this paragraph do not apply, of course, to an existing business that is considering expansion or diversification as distinct from the undertaking of a new and separate business.
+
+3. Some situations in which business would be viewed as having commenced are noted below. For example, if a proposed business is to be in the field of merchandising, the purchase of materials for resale would indicate that the business has started, provided that the materials were not merely samples and were adequate in quantity to commence a marketing operation. Even prior to that, the business would be viewed as having started if market surveys were undertaken on a reasonably extensive basis for the purpose of establishing the most appropriate way or place to carry on the business. any positive and continuous steps taken to introduce a particular product to an intended market are activities of an operating nature even though they precede the creation of the sales organization of the business. If the proposed business was the operation of a hotel, the date when the business commenced would not be the day when it opened its doors to guests but normally would be such earlier time when construction of the hotel was under way and arrangements were being made for supplies, employee training, advertising, and other preliminary requirements of an operating hotel.
+
+4. Another illustration of the time when a business commenced might be a corporation that was formed for the purpose of providing cable television service. An essential preliminary requirement for the carrying on of a business of that kind is the obtaining of a licence from the regulatory authority. Consequently, such a business should be viewed as having commenced not later than the day when steps were taken in a positive way to obtain a licence. While normal operations could not commence until the licence was obtained, the nature of the business required that studies and representations be undertaken to persuade the regulatory authority to issue the licence and the business itself commenced when these activities were started.
+
+5. In another situation that was reviewed in the courts, a corporation was formed with the objective of overseas marketing of liquified petroleum gases. The essential preliminaries to the carrying on of this business in an active way included assurances of supplies from producing oil companies, plans for extracting, gathering, and transporting the gas to seaboard by pipeline or other means, the obtaining of export permits, arrangements for refrigerated storage and loading facilities at the seaboard and transport for shipments overseas, and the negotiating of firm contracts with overseas buyers. It was held by the courts that this corporation commenced business when these preliminary studies and negotiations were undertaken even though, in the end, the project was abandoned. The fact that no revenue was generated during this period was held not to be a significant consideration in determining whether the business had commenced and was being carried on.
+
+Expenditures Prior to the Commencement of a Business
+
+6. Expenses in respect of a proposed business that are incurred prior to the commencement of the business do not constitute a business loss or a non-capital loss and thus cannot be applied against income in the year the expenses were incurred, and cannot be carried back to be applied against income of the preceding year or forward to be applied against income of any subsequent year. If capital assets are acquired for a business before the business commenced, are later used in the business and are not used for some other purpose in the meantime, the capital cost of the assets is the amount that it would have been had the business been operating when the assets were acquired. If the business for which the capital assets were acquired never commences, the normal rules in the Act regarding capital gains and capital losses would apply if and when the assets were subsequently disposed of.
+
+Expenditures After the Commencement of a Business
+
+7. After a business has commenced, all expenditures that are recognized for purposes of the Income Tax Act and that were made in respect of the business are to be classified in the usual way as being expenses incurred for the purpose of earning income or as outlays on account of capital. Expenses incurred for the purpose of earning income normally are deductible in the year when incurred even if, after all the efforts made, the business has to be wound up before its normal operation ever does begin. Fees or other costs incurred in connection with the proposed acquisition of capital assets when acquired, are to be classed as eligible capital expenditures if the assets are not in fact acquired, perhaps because of an abandonment of the business. In regard to representation expenses and interest on money borrowed to acquire depreciable property, see comments in Interpretation Bulletins IT-99 and IT-121R, respectively.
+
+More Than One Business
+
+8. A taxpayer, whether a corporation or an individual, may occasionally be carrying on business activities that consist of two or more separate businesses (see Interpretation Bulletin IT-206). Where such is the case, each business must be considered separately where it is necessary to determine the date of commencement of one of the businesses.

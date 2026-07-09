@@ -1,0 +1,75 @@
+Title: Protocol between the Appeals Branch and the Compliance Programs Branch of the Canada Revenue Agency
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4067/protocol-between-compliance-programs-branch-appeals-branch-canada-revenue-agency.html
+Corpus path: corpus/cra/forms-publications/publications/rc4067/protocol-between-compliance-programs-branch-appeals-branch-canada-revenue-agency.md
+Document type: publication
+Last modified: 2024-06-21
+
+# Protocol between the Appeals Branch and the Compliance Programs Branch of the Canada Revenue Agency
+
+## Purpose
+
+The purpose of this protocol is to establish a referral process between the Appeals Branch (Appeals) and Compliance Programs Branch (CPB) when resolving objections filed as a result of an audit **assessment**[Footnote1](#fn1), when **audit-specified documents**[Footnote2](#fn2) or **new information**[Footnote3](#fn3) has been provided for the first time at the objection stage.
+
+This protocol outlines the referral process and the roles and responsibilities (see Appendix) of appeals officers and auditors in the resolution of objections to assessments resulting from audit activities completed in the following CPB areas:
+
+- Small and Medium Enterprises Directorate
+
+- International and Large Business Directorate
+
+- High Net Worth Compliance Directorate
+
+- Scientific Research and Experimental Development Directorate
+
+- Criminal Investigations Directorate – only Illicit Income Audit Program
+
+- GST/HST and Digital Compliance Directorate – except mandatory referrals will not apply for the GST/HST Refund Integrity Program (RIP)
+
+In addition, the working appendix further clarifies all procedural aspects, timelines, service standards and communication between the program areas with respect to the referral process.
+
+## Context
+
+The Canada Revenue Agency (CRA) compliance continuum includes the series of interactions a **taxpayer**[Footnote4](#fn4) may have with the CRA starting at the initial assessment, determination, or verification, possibly followed by compliance actions. It also includes any subsequent recourse action taken by the taxpayer at the objection stage based on the results of the compliance, verification, or determination activities.
+
+Taxpayers are entitled to fair treatment in all their dealings with the CRA, including the right to dispute an assessment resulting from an audit. Appeals and CPB strive to ensure that tax issues are resolved with **full** consideration of all relevant information available throughout the compliance continuum, namely the audit and objection stages.
+
+At the **audit stage**, CRA auditors maintain an open dialogue with taxpayers throughout the audit process to ensure timely resolution of the file and to minimize costly and time-consuming objections and appeals. Information and documentation are requested, and taxpayers are provided with reasonable timeframes to submit the information to the auditor. When information is not made available, it can undermine the accuracy of the audit assessment and create downstream pressure on the appeals process.
+
+If a valid Notice of Objection is received as a result of an assessment raised by CPB, the appeals officer considers the assessment and renders a decision by conducting a **fair, impartial and independent review**. This involves analyzing relevant issues, providing taxpayers with an opportunity to explain their understanding of the facts and interpretation of the law, researching the issues and applicable law, and providing a decision based on the law and the facts.
+
+## Importance of providing information
+
+In order to avoid prolonged reviews of tax issues, taxpayers should submit supporting information and documentation as requested, and should do so at the earliest stage of the compliance continuum (i.e., during the audit). Information will still be considered, however, if it is provided at the objection stage.
+
+## Overview of the Referral Process
+
+The referral process outlined below ensures that the review of information and documentation provided at the objection stage is conducted in the same way that it would have been if it had been completed at the audit stage.
+
+Once the auditor has completed the review mentioned above, they will provide a recommendation from their review of information provided at the objection stage and the appeals officer will consider the recommendation in the course of making their decision on the objection. **The auditor’s recommendation is not binding and the decision on an objection remains at all times the responsibility of the Appeals Branch.**
+
+Appendices may be added in future iterations to address specific program requirements.
+
+## Referrals from Appeals to CPB where an objection is considered
+
+### I. Mandatory referrals
+
+- During the course of resolving an objection, a taxpayer may provide **audit-specified documents** not submitted at the audit stage. If the appeals officer receives such documents, the appeals officer **will** request assistance from a CPB auditor to review the audit-specified documents submitted.
+
+- Where an "Election for nil consideration" under subsection 156(2) of the Excise Tax Act is filed by the taxpayer at the objection stage (request for late-filed election).
+
+### II. Discretionary referrals
+
+Other situations where referrals from Appeals to CPB **are** appropriate include, but are not limited to:
+
+- Where substantial **new information** is provided, requiring additional audit activities to be performed.
+
+- Where the net tax was estimated, due to insufficient books and records;
+
+- Where input tax credits were disallowed as the accounting records/documentation were not provided;
+
+- Where an on-site visit or specialized auditing tools/software are warranted to verify certain facts provided by the taxpayer;
+
+- Where the objection relates to an initial assessment concerning issues of prior years’ returns currently being considered by
+
+## Monitoring the Effectiveness of the Protocol
+
+To ensure the effective implementation of this protocol, periodic reviews will be conducted by Appeals and CPB. If it is determined that further adjustments are needed, both programs will be consulted and reach agreement before implementing the necessary procedural changes

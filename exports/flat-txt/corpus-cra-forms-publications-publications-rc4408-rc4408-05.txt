@@ -1,0 +1,1935 @@
+Title: Farming Income and the AgriStability and AgriInvest Programs Harmonized Guide – Chapter 3 – Calculating your farming income or loss
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-05.html
+Corpus path: corpus/cra/forms-publications/publications/rc4408/rc4408-05.md
+Document type: publication
+Last modified: 2026-04-17
+
+# Farming Income and the AgriStability and AgriInvest Programs Harmonized Guide – Chapter 3 – Calculating your farming income or loss
+
+## On this page…
+
+- [Commodity and Program payment code lists](#CmmdtPropcl)
+
+- [Income](#ch3p10)
+
+- [Income from program payments](#ch3p20)
+
+- [Other farming income](#ch3p30)
+
+- [Summary of income](#ch3p40)
+
+- [Expenses](#ch3p50)
+
+- [Commodity purchases](#ch3p60)
+
+- [Repayment of program benefits](#ch3p70)
+
+- [AgriStability program – Allowable expenses](#ch3p80)
+
+- [AgriStability program – Non-allowable expenses](#ch3p90)
+
+- [Summary of income and expenses](#ch3pa10)
+
+- [Partnership information chart](#ch3pa20)
+
+These sections of the form are used to calculate your allowable net sales for AgriInvest. Allowable net sales are allowable commodity sales and program payments, less allowable purchases. For more information on allowable net sales and how we calculate benefits under AgriInvest, see the AgriInvest Program Handbook or go to [AgriInvest](https://agriculture.canada.ca/en/programs/agriinvest).
+
+We also use these sections to calculate the cash portion of your program year margin for AgriStability. For more information on how we calculate AgriStability margins, see your program handbook or visit the [program website](https://agriculture.canada.ca/en/agricultural-programs-and-services).
+
+Complete [Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html) for your main farming operation. If you have more than one farming operation, use [Form T1274](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1274.html) for each additional operation. Instructions in this chapter apply to both forms.
+
+To make sure you report your information correctly for AgriStability and AgriInvest, read the following instructions carefully.
+
+## Commodity and Program payment code lists
+
+Use the [Commodity list](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-11.html) and Program payment code lists [A](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-12.html) and [B](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-13.html) to report all income and expenses on [Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html) or [T1274](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1274.html). Codes may change from year to year. Check the lists to make sure you use the right code.
+
+If you use the accrual method of accounting, report all your sales and your changes in opening and closing commodity inventories separately using the code for the commodity to report both entries.
+
+## Income
+
+An agricultural commodity is a plant or an animal produced in a farming business.
+
+Some commodities that may be considered farming income for income tax purposes are not allowable for AgriStability and AgriInvest including:
+
+- aquaculture
+
+- trees and seedlings sold for use in reforestation
+
+- wood sales
+
+- peat moss
+
+- wild game reserves
+
+- cannabis (except for industrial hemp)
+
+Where permitted by law, hunt farms (not wild game reserves) are eligible. For information on how to apply if you operate a hunt farm, contact your [administration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-02.html).
+
+If you do not produce any allowable commodities on your farm, use [Form T2042](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2042.html) to report your farming income from non-allowable commodities to the CRA.
+
+If you produce both allowable and non-allowable commodities on your farm, report the income from:
+
+- Non-allowable commodities on [line 9600](#ch3ln9600), except for woodlots or cannabis (excluding industrial hemp). Report woodlot sales using code 259 and cannabis using code 382.
+
+- Allowable commodities on the "Commodity sales and program payments" section of the form. Use the [codes](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-11.html) at the end of this guide. Report allowable commodity sales based on the [point of sale](#point_sale) conditions.
+
+Sales and purchases of supply managed commodities are not allowable for AgriInvest. You must produce allowable commodities in addition to your supply managed commodities to participate in AgriInvest. Enter both your supply managed and non-supply managed commodities on the "Commodity sales and program payments" section of the form. Use the codes found at the back of this guide.
+
+If you have questions about whether a commodity you produce is allowable for AgriStability and AgriInvest, call **1-866-367-8506**.
+
+### Farming activities outside Canada
+
+If you produce a commodity in Canada, then ship it outside of the country for further production, the income and expenses generated once the commodity leaves Canada are non-allowable for AgriStability and AgriInvest.
+
+When shipping commodities outside Canada for further production, include the fair market value (FMV) of the commodity at the point it leaves Canada as allowable income using the code for the commodity.
+
+If the commodity is returned to Canada for further production or sale, include the FMV of the commodity at the point it enters Canada as an allowable purchase using the code for the commodity.
+
+If you purchase livestock, you must have made an appreciable contribution to the growth or its increase in value in Canada for the income and expenses to be considered allowable. For AgriStability, commodities reported in the "Livestock inventory valuation" and the "Livestock productive capacity" sections of the form should reflect the allowable production that occurred in Canada only.
+
+### Point of sale
+
+AgriInvest benefits are based on allowable net sales, so you have to determine when the sale occurs. For AgriInvest, the point of sale for your allowable commodity is determined by the following conditions:
+
+- you produce it on your farm
+
+- it is separate and identifiable from other producers' commodities
+
+- you bear full risk for it
+
+- you have a separate billing or accounting transaction that shows the sale value and any deductions from that value
+
+The point of sale is when you:
+
+- can no longer identify your commodity as your own
+
+- are no longer at risk for the value of the commodity
+
+If your commodity sales meet these point of sale conditions, fill in the code, name, and gross sale amount of each commodity on the form.
+
+You have potato sales of $50,000, you fill in:
+
+147potatoes$50,000
+
+If you received a cheque for a commodity sale that is net of expenses, report the sale to include the full value of the commodity.
+
+Your receipt from the processor shows:
+
+Enter $10,000 as your gross apple sales, and $1,500 as an expense on [Line 9836– Commissions and levies](#ch3ln9836).
+
+#### Line 575 – Point of sale adjustments
+
+If your commodity sales include charges that were applied after the point of sale, adjust your sales to show the value of the commodity at the point of sale. Enter any amounts charged after the point of sale on "Line 575 – Point of sale adjustments." This will ensure that we calculate your allowable net sales correctly.
+
+Your cash ticket from the elevator shows:
+
+Enter the gross wheat sales of $7,000 as income. Enter the freight charges of $1,500 and the elevation charges of $300 as a point of sale adjustment on line 575, under "Commodity purchases and repayment of program benefits" (not under "Allowable expenses"). You enter these charges on line 575 because you incurred these expenses after you delivered your grain to the elevator (for example after the point of sale).
+
+### Payment in kind
+
+A payment in kind occurs when you receive or give goods or services instead of money. For instance, to pay someone for a business expense, you may give them something you produced on your farm instead of money. When you do this, include the [FMV](#ch3ln9942fmv) of the goods or services in income. Use the appropriate code for the commodity. Enter the same amount as an expense.
+
+If you received a payment in kind for a product you would normally have sold, include the FMV of the product in income.
+
+If you were a landlord renting out land involved in sharecropping, we consider any payment in kind you received to be rental income.
+
+You owe your landlord $1,000 for rent. Instead of cash, you pay him by giving him $1,000 worth of seed. Enter the fair market value of the seed crops ($1,000) that you gave the landlord as a commodity sale. Enter the $1,000 on [line 9811](#ch3ln9811) as a rental expense.
+
+### Gifts
+
+In your income, include the [FMV](#ch3ln9942fmv) of livestock or other items you gave that you would normally have sold.
+
+Once you give the livestock or other items away, you cannot deduct any more costs for raising or maintaining them.
+
+### Crop share
+
+If you are a tenant in a crop share, you are eligible to apply for AgriStability and AgriInvest.
+
+If you are a landlord in a crop share, you are eligible for AgriStability and AgriInvest only if the crop share arrangement is considered a joint venture.
+
+For AgriStability, your crop share arrangement is considered a joint venture if your share of the allowable expenses reported to the CRA is reasonable for your share of the allowable income.
+
+For AgriInvest, your crop share arrangement is considered a joint venture if your share of allowable purchases reported to the CRA is reasonable for your share of the allowable income.
+
+Eligible tenants and landlords report only their individual share of the allowable income and expenses.
+
+You are a tenant in a crop share and receive 60% of the income from the sale of your crop. Enter only your 60% share of the sales under "Commodity sales and program payments." Enter your 60% share of expenses under "Allowable expenses."
+
+You are an eligible landlord who receives 40% of the income from the sale of the crop. Enter only your 40% share of the sales under "Commodity sales and program payments." Enter your 40% share of expenses under "Allowable expenses."
+
+### Commodity futures
+
+You can report income from commodity futures as a commodity sale for AgriStability and AgriInvest purposes if the income is both:
+
+- from a primary agricultural product that you produced on your farm
+
+- considered a hedging strategy
+
+Report commodity futures as follows:
+
+- for the gross amount, enter the income as a commodity sale using the code for that commodity. Report related purchases as a commodity purchase using the code for that commodity.
+
+- for the net amount, enter the net gain as a commodity sale using the code for that commodity. Report the net loss as a commodity purchase using the code for that commodity.
+
+Report income from futures transactions involving commodities that you did not produce or that were not considered a hedging strategy as other farming income on [line 9600](#ch3ln9600). Enter losses as a non-allowable expense on [line 9896](#ch3ln9896).
+
+### Grains, oilseeds, and special crops
+
+If you sold grain directly or through an agency, include in income all the amounts you received from these sales.
+
+#### Storage and cash purchase tickets
+
+When you delivered grain to a licensed public elevator or process elevator, you received a storage ticket, a cash purchase ticket, or a deferred cash purchase ticket.
+
+If you received a **storage ticket**, a sale did not take place. Therefore, you do not have to include that amount in income.
+
+However, if you received a **cash purchase ticket**, a sale did take place. Since we consider that you received a payment at the time you received the ticket, you must include the amount in income.
+
+If you received a **deferred cash purchase ticket**, you may be able to defer the income until a later fiscal period. You can do this if the ticket provides for payment after the end of the year in which you delivered the grain. This carryover of income is only allowable in specific situations. For more information, see [Interpretation Bulletin IT-184, Deferred cash purchase tickets issued for grain](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it184r.html).
+
+#### Cash advances
+
+Under the [Agricultural Marketing Programs Act](https://laws-lois.justice.gc.ca/eng/acts/A-3.7/index.html), you may be able to get advances for crops that someone stores in your name. We consider these advances to be loans. Do not include these payments in your income if you have not sold the crops. Include the full amount from the sale of your crops in your income for the tax year in which the sale occurs.
+
+### Tree production
+
+#### Allowable tree production
+
+Trees must be produced through farming activity to be allowable for AgriStability and AgriInvest. Farming activity for trees includes:
+
+- planting
+
+- nurturing
+
+- harvesting
+
+Operations must:
+
+- pay significant attention to managing the growth, health, and quality of the trees
+
+- generate normal input and harvesting costs
+
+Allowable tree production includes regular seeding and harvesting of:
+
+- trees
+
+- shrubs
+
+- herbaceous perennials
+
+- annuals, including ornamental, fruit, and Christmas trees
+
+Report income, expenses, and inventory of allowable tree production using the code for the commodity.
+
+#### Non-allowable tree production
+
+Trees produced or harvested for the following reasons are non-allowable for AgriStability and AgriInvest:
+
+- firewood
+
+- construction material
+
+- poles or posts
+
+- fibre, pulp and paper
+
+- trees and seedlings destined for use in reforestation
+
+Enter income from these non-allowable items on [Line 9600 – Other (specify)](#ch3ln9600).
+
+### Wood sales (including stumpage)
+
+If you operated or regularly harvested a woodlot, use commodity code 259 to report the sale of trees, lumber, logs, poles, or firewood in your income. This income is non-allowable for AgriStability and AgriInvest.
+
+From this income, you can deduct a type of capital cost allowance known as a depletion allowance. For more information, see [Interpretation Bulletin IT-481, Timber Resource Property and Timber Limits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it481-consolid.html).
+
+If you earned the income by letting other people remove standing timber from your woodlot, the proceeds may be a capital receipt. A taxable capital gain or an allowable capital loss may result. For more information on capital gains and losses, see [Chapter 7](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-10.html) and [Guide T4037, Capital Gains](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html).
+
+For more information on the sale of wood, see [Income Tax Folio S4-F11-C1, Meaning of Farming and Farming Business](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-11-meaning-farming/income-tax-folio-s4-f11-c1-meaning-farming-farming-business.html).
+
+### Livestock
+
+Include insurance payments you received for loss of livestock in the commodity sales column using the livestock commodity code.
+
+#### Custom feedlot operators
+
+For AgriStability, income and expenses may be allowable if you:
+
+- grew (or purchased) the feed used in your custom feeding operation
+
+- made an appreciable contribution to the growth and maturity of the livestock
+
+For AgriInvest, income you earned from custom feeding is allowable based on the value of allowable commodities you grew (or purchased) and fed to custom fed livestock.
+
+If your custom feeding invoices are itemized, enter:
+
+- allowable feed and protein supplements as a prepared feed sale under "Commodity sales and program payments" using code 243
+
+- other itemized charges under "Commodity sales and program payments" using code 576
+
+If your custom feeding invoices are not itemized, enter:
+
+- the amount invoiced as a prepared feed sale under "Commodity sales and program payments" using code 246. We will use 70% of this amount to calculate your allowable net sales.
+
+#### PMU contract cancellation income
+
+Income you received from the buy-out of pregnant mare urine (PMU) contracts is allowable if paid in lieu of the income you would have received for the sale of the product under the contract. Penalty fees and other compensation are non-allowable.
+
+Use code 322 to report amounts you received for your Collection Agreement, Herd and Health payments, West Nile Reimbursement, and Equine Placement Fund.
+
+Use [Line 9600 –Other (specify)](#ch3ln9600) to report amounts you received for Business Planning Subsidy and capital costs.
+
+#### Canadian Food Inspection Agency (CFIA) – Destroying livestock
+
+You have to include in income any payments you received under the Health of Animals Act for destroying animals.
+
+Use the CFIA program payment codes to report CFIA payments you received. For more information on how to report your CFIA payments, see [Income from program payments](#ch3p20).
+
+You can choose to deduct all or part of the payment as an expense in the year. However, if you choose to do this, you have to include in your income for your next fiscal period the amount you deduct in your 2025 fiscal period. If you deferred payments in your 2024 fiscal period, you have to include the deferred amounts as income in your 2025 fiscal period. Use the codes found in the [PDR/PFR/CFIA deferred livestock codes](#ch3p1080) to report these amounts.
+
+#### Prescribed drought region (PDR) and Prescribed flood region (PFR)
+
+The Livestock Tax Deferral provision may apply if you sell part of your breeding herd due to drought, excess moisture, or flooding in a prescribed drought or flood region. This provision allows you to defer a portion of your sales proceeds to the following tax year or a later year if the condition persists and your region is still a prescribed region.
+
+To be able to do this, you must meet the following **two**conditions:
+
+- your farming business was located in a PDR or PFR at some time during your 2025 fiscal period
+
+- you reduced, by sale or other means, your breeding herds by at least 15%
+
+For a list of the prescribed regions of drought, flood or excessive moisture, contact the CRA or Agriculture and Agri-Food Canada or go to [Weather and drought related to agriculture](https://agriculture.canada.ca/en/agricultural-production/weather) or [Livestock Tax Deferral Provision](https://agriculture.canada.ca/en/agricultural-production/weather/livestock-tax-deferral-provision).
+
+#### Income deferral
+
+The following animals kept for breeding that are over 12 months of age are considered breeding animals eligible for the income deferral:
+
+- bovine cattle
+
+- bison
+
+- goats
+
+- sheep
+
+- deer, elk, and other similar grazing ungulates
+
+- horses you breed to produce pregnant mare's urine that you sell
+
+Eligibility for the income deferral includes:
+
+- all horses over 12 months of age kept for breeding
+
+- breeding bees not used mainly to pollinate plants in greenhouses and larvae of such bees. For the purposes of the income deferral rule, breeding bee stock is defined as follows:
+
+    - at any time, a reasonable estimate of the quantity of your breeding bees held at that time in the course of carrying on a farming business using a unit of measurement that is accepted as an industry standard
+
+The unit of measurement at the end of the year is the same as that used for the beginning of the year. A formula is used to calculate what you can defer for breeding bees.
+
+To determine the size of your breeding herd at the end of your 2025 fiscal period, fill in the following chart.
+
+##### Breeding herd chart
+
+###### Part 1
+
+How many of your female bovine cattle over 12 months of age held at the end of your 2025 fiscal period have given birth?
+
+How many of your female bovine cattle over 12 months of age held at the end of your 2025 fiscal period have never given birth?
+
+Enter one half of the amount from line 1
+
+Enter either the amount from line 2 or line 3, whichever is less
+
+###### Part 2
+
+How many breeding animals did you have at the end of your 2025 fiscal period?
+
+Enter the amount from line 2
+
+Enter the amount from line 4
+
+line 6 **minus** line 7
+
+Number of breeding animals in your breeding herd at the end of your 2025 fiscal period: line 5 **minus** line 8
+
+If the amount from line 9 does **not** exceed 85% of the total number of animals in your breeding herd at the end of your 2024 fiscal period, you can defer part of the income received in 2025 from the sale of breeding animals.
+
+Before you determine how much you can defer, you need to calculate a few amounts. First, determine your sales of breeding animals for your 2025 fiscal period minus any reserves you claimed for these sales.
+
+A **reserve** is created when you sell property and do not receive the full proceeds at the time of the sale. Instead, the amount of proceeds is spread over a number of years, which allows you to defer reporting these proceeds to the year in which you receive them. For more information on reserves, see [Interpretation Bulletin IT-154, Special reserves](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it154r.html).
+
+When you have determined your sales of breeding animals, **subtract** from this amount the cost of breeding animals you bought in your 2025 fiscal period. The result is your net sales amount.
+
+You then determine how much you can defer as follows:
+
+- if the amount at line 9 is more than 70% and not more than 85% of your breeding herd at the end of your 2024 fiscal period, you can defer up to 30% of your net sales amount
+
+- if the amount at line 9 is between 0% and 70% of your breeding herd at the end of your 2024 fiscal period, you can defer up to 90% of your net sales amount
+
+You do not have to defer all of this income. You can include any part of it in your 2025 income. However, the deferred income must be reported in the fiscal period that ends in either:
+
+- the year beginning after the period or periods when the region stops being a PDR or PFR
+
+- the year when the farmer dies
+
+- the first year when, at the end of that year, the farmer is a non-resident and has ceased to carry on business through a fixed place of business in Canada
+
+If you want, you can elect to report the deferred income in the year after you deferred it.
+
+Report the income you received from the sale of breeding animals as a commodity sale using the commodity code (see [Commodity list](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-11.html)). Report the amount you are deferring as a purchase using one of the deferred livestock codes listed below.
+
+In the year that you must report the deferred income, report it under commodity sales using the same deferred livestock code you used before.
+
+| Deferred livestock | Livestock codes |
+
+| --- | --- |
+
+| Deferred bovine cattle | 150 |
+
+| Deferred bison | 151 |
+
+| Deferred goat | 152 |
+
+| Deferred sheep | 153 |
+
+| Deferred deer | 154 |
+
+| Deferred elk | 155 |
+
+| Deferred horse for PMU sales | 156 |
+
+| Deferred other breeding animals | 157 |
+
+If your farming business was not in a PDR or PFR at any time during your 2025 fiscal period, you cannot defer the amount you received when you sold breeding animals. Also, you must include in your 2025 income any unreported amounts you deferred in earlier years.
+
+However, as long as your farming business was in a PDR or PFR at any time in your 2025 fiscal period, you do not have to include income you deferred in earlier years.
+
+### Income earned from the use of commodities
+
+Include income earned from the use of commodities with commodity sales, except for pollination services. For example, report income from stud fees with horse sales. However, enter income earned from pollination services using code 376.
+
+## Income from program payments
+
+Use the codes found in the Program payment list [A](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-12.html) or [B](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-13.html) to report your program payment. Using the correct code helps us calculate your benefits accurately and prevents processing delays.
+
+Enter the program payment code, name, and amount under "Commoditysales and program payments."
+
+If you recorded program payments net of expenses in your books (for example, income minus expenses), report the full amount of the payment as income and the deductions as an expense.
+
+Enter $6,000 as a program payment using code 401, "AgriInsurance (production/crop insurance) – Grains, oilseeds, and special crops."
+
+Enter $2,000 as an allowable expense, on [Line 9665 – Insurance premiums (crop or production)](#ch3ln9665).
+
+You should receive an [AGR-1 slip, Statement of Farm-Support Payments](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/agr-1.html), identifying all 2025 taxable farm-support program payments from which you received more than $100. These include farm-support programs administered by the federal, provincial, territorial, and municipal governments, and by producer associations.
+
+You have to include in income all taxable farm-support payments you received in your 2025 fiscal period, including amounts of $100 or less.
+
+If your farm is operated as a partnership, only one partner should attach the [AGR-1 slip](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/agr-1.html) to his or her income tax return. However, if your partnership has to file a partnership information return, you should file the AGR-1 slip with that return.
+
+If the annual period of the [AGR-1 slip](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/agr-1.html) is not the same as the fiscal period of your farming operation, report only the part of the farm-support payments you earned during your normal fiscal period. For example, if your farming business has a fiscal period ending on June 30, 2025, and your AGR-1 slip shows income of $10,000 in box 14, but you earned only $6,000 of that income by June 30, 2025, include only $6,000 in your income for your 2025 fiscal period. Include the remaining $4,000 in your next fiscal period. However, include the AGR-1 slip issued for the 2025 calendar year with your 2025 income tax return or partnership information return.
+
+The back of the AGR-1 slip contains information about how to report amounts that appear in the various boxes.
+
+### Canadian Food Inspection Agency (CFIA) payments
+
+Enter the portion of CFIA payments you received for:
+
+- The loss of an allowable commodity using code 663, "CFIA payment for allowable commodities."
+
+- The loss of a commodity that is non-allowable for AgriStability or AgriInvest using code 587, "CFIA payments – Compensation for non-allowable commodities." For example, a payment you received for the loss of trees destined for use in reforestation.
+
+- The loss of a supply managed commodity using code 664, "CFIA payment for supply managed commodities."
+
+- Costs not directly related to a commodity loss using code 665, "CFIA payment for other amounts." For example, a payment you received for the cost of carcass disposal.
+
+### COVID-19 program payments
+
+#### Livestock set aside program
+
+Use code 699 to report payments you received to help offset extra expenses because of limited processing capacity at packing plants.
+
+#### Mandatory isolation support for temporary foreign workers program (MISTFWP)
+
+Use code 686 to report payments you received to help offset expenses you incurred because you had to isolate your temporary foreign workers for 14 days.
+
+#### Canada Emergency Wage Subsidy (CEWS)
+
+To report payments you received to help you pay your employees' wages, use code 684 to report the portion related to arm's length salaries and code 685 to report the portion related to non-arm's length salaries.
+
+#### Temporary 10% wage subsidy
+
+If you reduced the payroll deductions that you remitted to the Canada Revenue Agency (CRA), you have to report the amount that you reduced them by. Use code 684 to report the portion related to arm's length salaries and code 685 to report the portion related to non-arm's length salaries.
+
+### Private insurance proceeds
+
+For AgriStability, private insurance proceeds for price, revenue, production or margin loss are non-allowable in the program year if they are fully producer funded. For AgriInvest, these proceeds are included in the allowable net sales calculation.
+
+Use the following codes to report private insurance payments:
+
+- code 407 for private hail insurance payments
+
+- code 661 for payments you received for revenue losses for allowable commodities (production/price/margin insurance)
+
+- code 667 for livestock price insurance payments
+
+Do not include private insurance payments with any AgriInsurance payments you received as AgriInsurance payments are included as allowable income in the program year margin for AgriStability.
+
+#### Private insurance proceeds to replace allowable commodities or allowable expense items
+
+For AgriStability, private insurance payments to replace allowable commodities or allowable expense items are allowable in the program year. For AgriInvest, payments to replace allowable commodities are included in the allowable net sales calculation.
+
+- Use code 681 for payments to replace allowable commodities, such as seed or feed.
+
+- Use code 406 for payments to replace allowable expense items, such as fertilizer, chemicals, fuel or twine.
+
+Report private insurance proceeds received for different types of compensation according to the invoice from your insurer.
+
+You received private insurance proceeds for $150,000 due to an outbreak of avian influenza in your flock. The payment included compensation for the depopulation of your barn and for feed you had to destroy. Your invoice from your insurer shows:
+
+- $120,000 for depopulation
+
+- $30,000 for destroyed feed
+
+Enter $120,000 for the depopulation of your flock using code 661, Private insurance proceeds for allowable commodities (production/price/margin insurance). Enter $30,000 for the destroyed feed using code 681, Private insurance proceeds for the replacement of allowable commodities.
+
+### Payments from the AgriStability and AgriInvest programs
+
+Do not report any government contributions you have withdrawn from Fund 2 of your AgriInvest account on this form.
+
+Payments you receive from AgriStability (shown in box 14 of your AGR-1) are considered farming income. Enter these payments on [Line 9544 – Business risk management (BRM) and disaster assistance program payments](#ch3ln9544).
+
+If you received an [AGR-1 slip](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/agr-1.html) with a negative amount in box 14, enter this amount on [Line 9896 – Other (specify)](#ch3ln9896). You could have a negative amount if you were in an overpayment in one year and repaid the money the following year.
+
+## Other farming income
+
+The instructions for completing "Other farming income" apply to Forms [T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html) and [T1274](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1274.html).
+
+### Rental income
+
+Except for leases explained under [line 9613](#ch3ln9613) you do not usually include rental income in your farming income. To determine your rental income, use [Form T776, Statement of Real Estate Rentals](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t776.html). Enter the amount of your net rental income on line 12600 of your income tax return.
+
+However, for AgriStability and AgriInvest, landlords are eligible if the crop share arrangement is a joint venture. For more information, see [Crop share](#ch3p1060).
+
+If you were a landlord renting out land involved in sharecropping, we consider the payments you received, whether in kind or cash, to be rental income for tax purposes.
+
+### Line 9540 – Other program payments
+
+Include the total income you received from all other stabilization and farm subsidy programs made to farm producers under federal, provincial, municipal, territorial or joint programs that are not listed on Program payment list [A](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-12.html) or [B](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-13.html) or under [line 9544](#ch3ln9544).
+
+If you received an overpayment from any of these programs, enter the amounts you repaid on [Line 9896 – Other (specify)](#ch3ln9896).
+
+Do not include AgriInsurance (production/crop insurance)on this line.
+
+### Line 9544 – Business risk management (BRM) and disaster assistance program payments
+
+Enter any payments you received from federal or provincial BRM and disaster assistance programs (such as AgriStability, including Interim or Targeted Advance Payments).
+
+If you received an overpayment from any of these programs, enterthe amounts you repaid on [Line 9896 – Other (specify)](#ch3ln9896).
+
+Do not include AgriInsurance (production/crop insurance) on this line.
+
+### Line 9574 – Resales, rebates, GST/HST for allowable expenses
+
+Enter the total resales and rebates of allowable expenses, including GST/HST rebates, unless you have already reduced your expenses by these amounts.
+
+### Line 9575 – Resales, rebates, GST/HST for non-allowable expenses, and recapture of capital cost allowance (CCA)
+
+Enter the total resales and rebates for non-allowable expenses, including GST/HST rebates, unless you have already reduced your expenses by these amounts.
+
+#### Recapture of capital cost allowance
+
+Include in your income the amount of any recapture of CCA you have from selling depreciable property such as tools and equipment.
+
+Fill in the "Calculation of capital cost allowance (CCA) claim" chart on [Form T1175, Farming – Calculation of Capital Cost Allowance (CCA) and Business-use-of-home Expenses](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1175.html), to find out if you must report any recapture of CCA. For more information, see [Chapter 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html).
+
+### Line 9601 – Agricultural contract work
+
+Enter the total of your incidental farming income from such things as custom or contract work, harvesting, combining, crop dusting or spraying, seeding, drying, packing, cleaning, and treating seeds.
+
+To report income you received from renting farm machinery, see [Line 9614 –Machine rentals](#ch3ln9614).
+
+If you are a custom feedlot operator, see [Custom feedlot operators](#ch3p1025) for information on reporting your custom feeding income.
+
+### Line 9605 – Patronage dividends
+
+Enter your total patronage dividends (other than those for consumer goods or services) that are received by eligible members of agricultural co-operatives on line 9605.
+
+If you receive a patronage dividend in the form of "tax deferred co-operative shares," there is no need to immediately include it in income. Tax may be deferred to the year in which the shares are disposed of or deemed to be disposed of. The balance of the shares could then be carried forward and sheltered until actual or deemed disposition.
+
+The temporary deferral of tax on patronage dividends paid by an agricultural co-operative corporation in the form of eligible shares is extended in respect of eligible shares issued before 2023.
+
+### Line 9607 – Interest
+
+Enter the total incidental interest earned on business accounts related to your farming business, not interest on personal accounts and investments.
+
+### Line 9610 – Gravel
+
+Enter the amounts you received from the sale of soil, sand, gravel, or stone. For some of these items, you can claim a depletion allowance.
+
+### Line 9611 – Trucking (farm-related only)
+
+Enter the amounts you received for trucking related to your farming business.
+
+### Line 9612 – Resales of commodities purchased
+
+Report the total sales of commodities that you did not produce on your farm. These are commodities that you bought for resale.
+
+Enter the corresponding purchases you made in this fiscal period on [Line 9827 –Purchases of commodities resold](#ch3ln9827).
+
+### Line 9613 – Leases (gas, oil well, surface, etc.)
+
+If you received payments for leasing your farmland for petroleum or natural gas exploration, these payments will be either income or a capital receipt.
+
+Include in your income the yearly amounts for rental, severance, or inconvenience from a surface rental agreement.
+
+The first payment from these agreements is often larger than the rest of the annual payments. However, the agreement may not specify how much of the first payment is for such things as damage to land, land improvements, severance, inconvenience, or the first year's rent. When this happens, in the year you received the first payment, include in income an amount that is equal to the annual payment you will receive in the following years. The rest of the first payment is a payment for property. This may result in either a capital gain or loss. For more information on capital gains, see [Chapter 7](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-10.html).
+
+### Line 9614 – Machine rentals
+
+Enter the amounts you received from renting your farm machinery.
+
+### Line 9600 – Other (specify)
+
+Enter the total amount of all other types of farming income not listed on the form. Then list the items on the blank lines provided under it.
+
+Report all program non-allowable farming income including:
+
+- aquaculture
+
+- trees and seedlings sold for use in reforestation
+
+- peat moss
+
+- wild game reserves
+
+Income from wood sales, as defined in [Wood sales (including stumpage)](#ch3p1021) is also non-allowable but is reported using code 259.
+
+Income from cannabis (except for industrial hemp) is also non-allowable but is reported using code 382.
+
+The following paragraphs identify some of the other income items you can enter on line 9600.
+
+#### Return of fuel charge proceeds to farmers tax credit
+
+The federal fuel charge ended April 1, 2025. As a result, the return of fuel charge proceeds to farmers tax credit for the 2024 to 2025 fuel charge year will be the final credit available to certain eligible farming businesses.
+
+This credit is considered to be government assistance that you received in the year and is taxable to you. Include the amount of the credit (amounts 5A and 5B of your [Form T2043, Return of Fuel Charge Proceeds to Farmers Tax Credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2043.html)) in your income in the same tax year you claimed the credit.
+
+To calculate your credit, fill in [Form T2043](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2043.html).
+
+#### Air quality improvement tax credit
+
+This credit is received immediately before the end of the tax year to which it relates and is considered government assistance. Government assistance is generally included in income. When you receive government assistance for the acquisition of a depreciable property, reduce the capital cost of that property by the amount of the assistance. For more information on government assistance, go to [Grants, subsidies, and rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html) and [Interpretation Bulletin IT-273, Government Assistance – General Comments](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it273r2.html).
+
+#### Insurance proceeds
+
+Enter the amount of any insurance proceeds you received as compensation for loss or damage to certain types of property. For example, you may have received insurance proceeds for damage to a building due to fire, or for the loss of livestock to disease.
+
+Enter the total insurance proceeds on this line if you are being reimbursed for either:
+
+- the cost of non-depreciable property you previously deducted as a current expense
+
+- the cost of property that was a saleable item, such as livestock
+
+If the insurance proceeds compensated you for **damages** to depreciable property, and you used all of them to **repair** the property within a reasonable period of time, include the proceeds as income on this line. Claim a deduction for the same amount in the "Expenses" area of the form. Claim repairs to depreciable property that is machinery on line 9760 and repairs to motor vehicles on line 9819. If you did not spend all of the insurance proceeds on repairs within a reasonable length of time, we consider the amounts you did not spend to be proceeds of disposition. For more information, see [Column 5 – Proceeds of dispositions in the year](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html).
+
+**Insurance proceeds** that compensate you for **replacement** of **lost** or **destroyed** depreciable property are considered to be proceeds of disposition for that depreciable property. Do not include this type of insurance proceeds on this line. For more information, see [Chapter 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html). For information on how insurance affects the adjusted cost base of capital property, see [Chapter 7](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-10.html).
+
+Do not include insurance proceeds from federal, provincial, or municipal government programs. For the codes to use for government insurance programs, see the [Program payment lists](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-12.html).
+
+#### Miscellaneous
+
+You can deduct 100% of the cost of property such as small tools if they cost less than $500. If you bought the property and you later sold that property, you have to include this amount as income you received from the sale.
+
+Include in your income prizes you won from fairs or farming exhibitions. For more information, see [Income Tax Folio S3-F9-C1, Lottery Winnings, Miscellaneous Receipts, and Income (and Losses) from Crime](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plans-folio-9-miscellaneous-payments-receipts/income-tax-folio-s3-f9-c1-lottery-winnings-miscellaneous-receipts-income-losses-crime.html).
+
+Enter resales and rebates of allowable expenses on line 9574.
+
+#### Temporary taxable benefits
+
+You can include the Northern Business Relief Fund as well as the Canada Emergency Response Benefit (CERB) if you claimed the CERB to compensate for business income loss due to the COVID-19 pandemic.
+
+For more information, go to [COVID-19 benefits and your taxes](https://www.canada.ca/en/revenue-agency/services/benefits/covid19-taxes.html).
+
+## Summary of income
+
+From the "Income" section of the form, enter the amount of Total A and the amount of Total B in the "Summary of income" table. Add the totals for your gross farming income. Gross farming income is your total farming income before you deduct expenses.
+
+## Expenses
+
+Use the [Commodity list](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-11.html) and Program payment lists [A](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-12.html) and [B](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-13.html) to report your commodity purchases and repayment of program benefits in this section. If you have more than one farming operation, use Form T1274 for each additional operation.
+
+Codes may change from year to year. Check the lists to make sure you use the right code.
+
+If you use the accrual method of accounting, report all your changes in opening and closing commodity inventories separately, using the commodity code for both entries.
+
+You cannot include expenses for your personal use of either of the following:
+
+- property of your farming business
+
+- partnership property or services
+
+In addition, you cannot include any of the following as part of your expenses:
+
+- the cost of saleable goods or services you, your family, or your partners and their families personally used or consumed, such as dairy products, eggs, fruit, vegetables, poultry, and meat
+
+- donations to charities and political contributions
+
+- interest and penalties you paid on your personal income tax
+
+- most life insurance premiums (see [Line 9804 – Other insurance premiums](#ch3ln9804))
+
+For AgriStability, there are two types of expenses:
+
+- allowable expenses
+
+- non-allowable expenses
+
+Allowable expenses are the operating or input expenses you paid that directly relate to producing your commodities.
+
+Non-allowable expenses are costs not directly related to producing your commodities. These include amounts paid for interest and capital-related expenses.
+
+For AgriInvest, only allowable commodity purchases are used to calculate your allowable net sales.
+
+### Current or capital expenses
+
+Renovations and expenses that extend the useful life of your property or improve it beyond its original condition are usually capital expenses. However, an increase in a property's market value because of an expense is not a major factor in deciding whether the expense is capital or current. To decide whether an amount is a current expense or a capital expense, consider your answers to the questions in the following chart.
+
+| Criteria | Capital expenses | Current expenses |
+
+| --- | --- | --- |
+
+| **Does the expense provide a lasting benefit?** | A capital expense generally gives a lasting benefit or advantage. For example, the cost of putting vinyl siding on the exterior walls of a wooden house is a capital expense. | A current expense is one that usually recurs after a short period. For example, the cost of painting the exterior of a wooden house is a current expense. |
+
+| **Does the expense maintain or improve the property?** | The cost of a repair that improves a property beyond its original condition is probably a capital expense. If you replace wooden steps with concrete steps, the cost is a capital expense. | An expense that simply restores a property to its original condition is usually a current expense. For example, the cost of repairing wooden steps is a current expense. |
+
+| **Is the expense for a part of a property or for a separate asset?** | The cost of replacing a separate asset within that property is a capital expense. For example, the cost of buying a compressor for use in your business operation is a capital expense. This is the case because a compressor is a separate asset, and is not a part of the building. | The cost of repairing a property by replacing one of its parts is usually a current expense. For instance, electrical wiring is part of a building. Therefore, an amount you spend to rewire is usually a current expense, as long as the rewiring does not improve the property beyond its original condition. |
+
+| **What is the value of the expense?** (Use this test only if you cannot determine whether an expense is capital or current by considering the three previous tests.) | Compare the cost of the expense to the value of the property. Generally, if the cost is of considerable value in relation to the property, it is a capital expense. | This test is not a determining factor by itself. You might spend a large amount of money for maintenance and repairs to your property all at once. If this cost was for ordinary maintenance that was not done when it was necessary, it is a maintenance expense, and you deduct it as a current expense. |
+
+| **Is the expense for repairs made to used property that you acquired intended to put it in suitable condition for use?** | The cost of repairing used property that you acquired to put it in a suitable condition for use in your business is considered a capital expense even though in other circumstances it would be treated as a current operating expense. | Where the repairs were for ordinary maintenance of a property you already had in your business, the expense is usually current. |
+
+| **Is the expense for repairs made to an asset in order to sell it?** | The cost of repairs made in anticipation of selling a property, or as a condition of sale, is regarded as a capital expense. | Where the repairs would have been made anyway, but a sale was negotiated during the course of the repairs or after their completion, the expense is considered current. |
+
+For more information, see [Chapter 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html) and [Income Tax Folio S3-F4-C1, General Discussion of Capital Cost Allowance](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plans-folio-4-capital-cost-allowance/income-tax-folio-s3-f4-c1-general-discussion-capital-cost-allowance.html).
+
+#### Do not include any of the following in your expenses:
+
+- salary, wages (including drawings) paid to self, partner(s), or both
+
+- the cost of saleable goods or services you, your family, or your partners and their families used or consumed (including items such as food, home maintenance, and business properties)
+
+- items such as dairy products, eggs, fruit, vegetables, poultry, and meat
+
+- donations to charities and political contributions
+
+- interest and penalties you paid on your income tax
+
+- most life insurance premiums (for information on a limited exception, see [Line 9804 – Other insurance premiums](#ch3ln9804)
+
+- the part of any expenses that can be attributed to non-business use of business property
+
+- most fines and penalties imposed, under the law of Canada or a province or a foreign country
+
+#### Disability-related modifications
+
+You can deduct expenses you incur for eligible disability-related modifications made to a building in the year you paid them. You can do this instead of adding them to the capital cost of your building. Eligible disability-related modifications include changes you make to accommodate wheelchairs, such as:
+
+- installing hand activated power door openers
+
+- installing interior and exterior ramps
+
+- modifying a bathroom, an elevator, or a doorway
+
+You can also deduct expenses paid to install or get the following disability-related devices and equipment:
+
+- elevator car position indicators (such as braille panels and audio indicators)
+
+- visual fire alarm indicators
+
+- listening or telephone devices for people who have a hearing impairment
+
+- disability specific computer software and hardware attachments
+
+### Grants, credits, and rebates
+
+Subtract, from the applicable expense, any grant, credit, and rebate you received.
+
+If the grant, credit, and rebate are for a depreciable asset, subtract the amount of the rebate from the property's capital cost before calculating the capital cost allowance. For more information, see [Chapter 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html). If the asset qualifies for the investment tax credit, this reduction to the capital cost will also affect your claim. For more information, see [Form T2038(IND), Investment Tax Credit (Individuals)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2038-ind.html).
+
+Input tax credits are considered government assistance. Include the amount you claimed on line 108 of your GST/HST return on line 9574 or 9575 only if you cannot apply the rebate, grant, or assistance you received to reduce a particular expense or an asset's capital cost.
+
+#### GST/HST input tax credits and exempt goods and services
+
+GST/HST registrants may claim an input tax credit for the GST/HST they paid or owe for expenses used to provide taxable property and services at the rates of 0%, 5%, 13%, 14%, or 15%.
+
+If you claim the GST/HST you paid or owe on your expenses as an input tax credit, reduce the amounts of the business expenses you claim by the amount of the input tax credit. Do this when the GST/HST for which you are claiming the input tax credit was paid or became payable, whichever is earlier. Enter the net expense figure on the appropriate line of [Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html) or [T1274](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1274.html).
+
+Input tax credits you claim for the purchase of depreciable property used in your business will affect your claim for CCA. Include the amount you claimed on line 108 of your GST/HST return on line 9574 or 9575 only if you cannot apply the rebate, grant, or assistance you received to reduce a particular expense or an asset's capital cost.
+
+For more information on how claiming the input tax credit for registrants will affect your CCA claim, see [Column 2 – Undepreciated capital cost (UCC) at the start of the year](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html).
+
+Some purchases of property and services are exempt from GST/HST. Because you do not pay GST/HST on these purchases, there is no input tax credit to claim. Examples of exempt purchases of property include:
+
+- insurance services sold by insurance companies, agents, or brokers
+
+- most services provided by financial institutions, such as arranging loans or mortgages
+
+- most health, medical, and dental services
+
+Since you don't pay GST/HST on zero-rated purchases, there is no input tax credit to claim for these purchases. For examples of zero-rated property and services, see [GST/HST rates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-18.html).
+
+For more information on claiming the input tax credits and the percentage of use in commercial activity, see [GST/HST Memorandum 8.1, General Eligibility Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1.html), and [GST/HST Memorandum 8.2, General Restrictions and Limitations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-2.html).
+
+Eligible registrants can file their GST/HST returns online by using [GST/HST NETFILE](https://apps.cra-arc.gc.ca/ebci/ghnf/netf/prot/lgbltyNpt.action) or the "File a return" service in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html). For information aboutGST/HST, go to [GST/HST for businesses](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html).
+
+### Prepaid expenses
+
+A prepaid expense is an expense you paid for ahead of time. Under the accrual method of accounting, claim the expense you prepay in the year or years in which you get the related benefit. Suppose your fiscal year-end is December 31, 2025. On June 30, 2025, you prepay the rent on your building for a full year (July 1, 2025, to June 30, 2026). You can only deduct one half of this rent as an expense in 2025. You can deduct the other half as an expense in 2026.
+
+Under the cash method of accounting, you cannot deduct a prepaid expense amount (other than for inventory) relating to a tax year that is two or more years after the year the expense is paid. However, you can deduct the part of an amount you paid in a previous year for benefits received in the current tax year. These amounts are deductible as long as you have not previously deducted them.
+
+If you paid $600 for a three-year service contract for office equipment in 2025, you can deduct $400 in 2025. This represents the part of the expense that applies to 2025 and 2026. On your 2027 income tax return, you could then deduct the balance of $200 for the part of the prepaid lease that applies to 2027.
+
+For more information, see [Interpretation Bulletin IT-417, Prepaid Expenses and Deferred Charges](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it417r2.html).
+
+### Business-use-of-home expenses
+
+You can deduct expenses for the farming business use of a workspace in your home, if you meet **one** of these conditions:
+
+- it is your principal place of business
+
+- you use the space only to earn income from your farming business, and you use it on a regular and ongoing basis to meet your clients or customers
+
+You can deduct part of your maintenance costs such as heating, home insurance, electricity, and cleaning materials. You can also deduct part of your property taxes, mortgage interest, and CCA.
+
+If you rent your home, you can deduct the part of the rent and any expenses you incur that relate to the workspace. To calculate the part you can deduct, use a reasonable basis, such as the area of the workspace divided by the total area of your home.
+
+The amount you can deduct for business-use-of-home expenses cannot be more than your net income from the farming business before you deduct these expenses. In other words, for income tax purposes, you cannot use these expenses to increase or create a farming business loss. If you claimed business-use-of-home expenses and you report a farming loss on line 9944, you must adjust your loss for income tax purposes at line 9934. For more information on how to make this adjustment, see the instructions for [line 9934](#ch3ln9934).
+
+The capital gain and recapture rules will apply if you deduct CCA on the business use part of your home and you later sell your home. For more information about these rules, see [Chapters 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html) and [7](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-10.html) as well as [Guide T4037, Capital Gains](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html).
+
+Include your expenses for business-use-of-home on [Line 9896 – Other (specify)](#ch3ln9896) of [Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html) or [T1274](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1274.html). For more information, see [Additional expenses (partnerships)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-04.html) and [Line 9934 – Adjustment to business-use-of-home expenses](#ch3ln9934).
+
+Marjorie calculates that $85 of her household electrical expense is for her farming business use. The total electrical expenses for her farm outbuildings are $1,200. She enters $1,200 on line 9799 and $85 on line 9896.
+
+Business-use-of-home expenses are non-allowable expenses for AgriStability and AgriInvest.
+
+For more information, see [Income Tax Folio S4-F2-C2, Business Use of Home Expenses](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-2-deducting-business-expenses/income-tax-folio-s4-f2-c2-business-use-home-expenses.html).
+
+## Commodity purchases
+
+Report the following as commodity purchases:
+
+- feed
+
+- seed
+
+- plants
+
+- transplants
+
+- livestock
+
+- marketable products
+
+If you are an apple producer replacing damaged or dead trees, enter apple tree purchases using the code for apples. If you are buying trees to expand an orchard, enter this purchase as a capital expense.
+
+Do not include the cost of seeds and plants you used in your personal vegetable or flower garden.
+
+Include expenses you incurred from the use of commodities with the commodity purchases, except for pollination fees. For example, report stud fees with horse purchases. However, enter pollination fees using code 376.
+
+If you made a payment in kind for a farming business commodity purchase, enter the value of the payment as a purchase. For more information, see [Payment in kind](#ch3p1010).
+
+If you are a tenant in a crop share, only include your share of the crop in your income or expenses.
+
+### Livestock owners and custom feedlot operators with prepared feed purchases
+
+If the ingredients on your purchase invoices of prepared feed and protein supplements are listed separately, enter:
+
+- allowable commodities (such as grains, forage, and oilseeds) and protein supplements using code 046
+
+- the remaining expenses (such as minerals and salts) using code 570
+
+If the ingredients on your purchase invoices of prepared feed and protein supplements are not listed separately, enter your total purchase using code 571 (we will use 65% of this amount to calculate your allowable net sales).
+
+### Livestock owners with custom feeding expenses
+
+If the ingredients on your purchase invoices are listed separately, enter:
+
+- allowable commodities (such as grains, forage, and oilseeds) and protein supplements using code 577
+
+- the remaining expenses (such as minerals and salts) using code 572
+
+If the ingredients on your purchase invoices are not listed separately, enter your total purchase using code 573 (we will use 70% of this amount to calculate your allowable net sales).
+
+### Ranch fur operators with prepared feed purchases
+
+If the ingredients on your purchase invoices of prepared feed and protein supplements are listed separately, enter:
+
+- allowable commodities (such as grains, forage, and oilseeds) and protein supplements using code 046
+
+- the remaining expenses (such as minerals and salts) using code 310
+
+If the ingredients on your purchase invoices of prepared feed and protein supplements are not listed separately, enter your total purchases using code 574 (we will use 20% of this amount to calculate your allowable net sales).
+
+### Livestock insurance premiums
+
+Enter premiums you paid for private livestock insurance using [Line 9953 – Private insurance premiums for allowable commodities](#ch3ln9953).
+
+## Repayment of program benefits
+
+If you had to repay a program benefit, report the repayment as a purchase using the code for the program. Amounts you repaid are shown in box 17 of your [AGR-1 slip](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/agr-1.html).
+
+If you repay a program benefit from the programs listed on lines [9540](#ch3ln9540) and [9544](#ch3ln9544), enter the amounts you repaid on [Line 9896 – Other (specify)](#ch3ln9896).
+
+## AgriStability program – Allowable expenses
+
+### Line 9661 – Containers and twine
+
+Enter the total amount you paid for materials to package, contain, or ship your farm produce or products. If you operated a nursery or greenhouse, report the cost of your containers and pots for the plants you sold.
+
+### Line 9662 – Fertilizers and soil supplements
+
+Enter the total amount you paid for fertilizers and lime you used in your farming business.
+
+If you used soil supplements or other growth media, report the amounts you paid for them here. Examples of soil supplements include mulch, sawdust, and weed-mats.
+
+Report your expenses for water you purchased to produce your commodity (crop or livestock) if it was not included in your municipal taxes.
+
+### Line 9663 – Pesticides and chemical treatments
+
+Enter the total amount you paid for herbicides, insecticides, rodenticides, and fungicides.
+
+Insecticides include chemicals for pest control purposes as well as any predators or parasites introduced for that use. Also report the total amount you paid for chemicals used in treating water, manure, or slurry, as well as those used in disinfecting equipment and facilities.
+
+Report seed treatment expenses on this line if the treatment is listed separately from the seed purchase on your original invoice. If not listed separately, include the treatment as part of the commodity purchase.
+
+### Line 9665 – Insurance premiums (crop or production)
+
+Enter the total amount of premiums paid for crop or production insurance (AgriInsurance), including hail insurance on this line. For information on other types of insurance premiums such as private, business-related, or motor vehicle insurance, see [Line 9804 – Other insurance premiums](#ch3ln9804).
+
+### Line 9713 – Veterinary fees, medicine, and breeding fees
+
+Enter the total amount you paid for medicine for your animals, and for veterinary and breeding fees. Examples of such fees include the cost of artificial insemination, stud service and semen, embryo transplants, disease testing, and neutering or spaying.
+
+### Line 9714 – Minerals and salts
+
+Enter the total purchases of minerals, salts, vitamins, and premixes (which are mainly minerals and vitamins).
+
+If you have purchased feed expenses, see [Commodity purchases](#ch3p60) for information on the codes you use to report these amounts.
+
+### Line 9764 – Machinery (gasoline, diesel fuel, oil)
+
+Enter the total amount you paid for fuel and lubricants for your machinery used in your farming operation.
+
+### Line 9799 – Electricity
+
+Only the part of your electricity costs that relates to your farming business is deductible. To determine the part you can deduct, keep a separate record of the amounts that apply to the farmhouse and other farm properties.
+
+The business part of your electricity expense will depend on how much electricity is used for the barns and shops. Because the electricity for the farmhouse is a personal expense, you cannot deduct it unless you meet the conditions explained in [Business-use-of-home expenses](#ch3p5050). Include your expenses for business-use-of-home on [Line 9896 – Other (specify)](#ch3ln9896).
+
+Do not include the electricity expense for a house that you rented to someone else. This is a rental expense, which you enter on [Form T776, Statement of Real Estate Rentals](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t776.html).
+
+### Line 9801 – Freight and shipping
+
+Enter the amount you paid for shipping farm inputs to your operating site and shipping farm produce to market.
+
+Enter amounts you paid for carcass disposal on this line.
+
+If you were trucking for someone else, the trucking expenses are non-allowable for AgriStability. For more information on how to report these costs, see [Line 9798 – Agricultural contract work](#ch3ln9798).
+
+For information on how to report freight and shipping charged after the point of sale, see [Line 575 – Point of sale adjustments](#ch3ln575).
+
+### Line 9802 – Heating fuel
+
+Enter the total amount you paid for natural gas, coal, and oil to heat farm buildings. Also, enter your expenses for fuel used for curing tobacco, crop drying, or greenhouses.
+
+You can deduct only the part of these costs that relate to your farming business. To determine the part you can deduct, keep a separate record of the amounts you paid for the farmhouse and other farm properties.
+
+The business part of your heating fuel expense will depend on how much heating fuel you used for the barns and shops. Because the heating fuel for the farmhouse is a personal expense, you cannot deduct it unless you meet the conditions explained in [Business-use-of-home expenses](#ch3p5050). Include your expenses for business-use-of-home on [Line 9896 – Other (specify)](#ch3ln9896).
+
+Do not include heating fuel expenses for a house that you rented to someone else. This is a rental expense, which you enter on [Form T776, Statement of Real Estate Rentals](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t776.html).
+
+### Line 9815 – Arm's length salaries
+
+Enter the amount of gross wages you paid to your employees. Include the cost of room and board for hired help. If you hire temporary foreign workers, you may also include the costs related to transporting workers to your work site.
+
+For AgriStability purposes, you may also include variable costs associated with disposable personal protective equipment for employees due to COVID-19, such as gloves, masks and sanitizer. Do not include costs incurred for improvements to capital items such as workplace modifications, additional housing or installing protective barriers. These improvements are more permanent and have long-term benefits that are considered non-allowable under the program.
+
+Do not include salaries paid to related persons (see the definition below). If you paid salaries to related persons, see [Line 9816 – Non-arm's length salaries](#ch3ln9816).
+
+Related persons are:
+
+- individuals connected by blood relationship, marriage or common-law partnership, or adoption
+
+- a corporation, and:
+
+    - an individual, group of persons, or entity that controls the corporation
+
+    - an individual, group of persons, or entity of a related group that controls the corporation
+
+    - any individual related to a person described above
+
+Salaries or drawings paid to yourself are not deductible for tax purposes.
+
+As the employer, you must deduct your part of the Canada Pension Plan (CPP) or the Quebec Pension Plan (QPP) contributions and employment insurance premiums. You can also deduct workers' compensation amounts payable on employees' remuneration and Provincial Parental Insurance Plan (PPIP) premiums. The PPIP is an income replacement plan for residents of Quebec. For details, contact Revenu Québec. For information on making payroll deductions, go to [Payroll](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll.html).
+
+Do not deduct the amounts you withheld from your employees' remuneration since you already deducted them in the amount you claimed as wages.
+
+You may have paid wages in kind to your employees. For example, you may have paid your employees by giving them livestock or grain instead of cash. If you did this:
+
+- your employees include in their income the value of the livestock or grain
+
+- you include the same amount in your gross sales for the year and deduct it as a wage expense
+
+Keep a detailed record of the amounts you paid to each employee and the employee's name, address, and social insurance number.
+
+### Line 9822 – Storage/drying
+
+Enter the amount you paid for storing and drying commodities. For example, include:
+
+- amounts paid for storage and drying services
+
+- air treatment expenses
+
+- purchase of germination inhibitors and other preservative agents
+
+Enter electricity and heating fuel costs incurred in storage and drying commodities on [Line 9799 – Electricity](#ch3ln9799) and [Line 9802 – Heating fuel](#ch3ln9802) respectively.
+
+### Line 9836 – Commissions and levies
+
+Enter the amount you paid in commissions and levies incurred in the sale, purchase, or marketing of commodities. Also include levies paid to marketing boards, except those due to penalties or fines you incurred. Do not include commissions paid to a salesperson you contracted to market your product.
+
+If you market fruit or vegetables through a co-op, enter your pack-and-sell expenses here, except pack-and-sell expenses incurred after the point of sale. Enter these amounts on [Line 575 – Point of sale adjustments](#ch3ln575).
+
+### Line 9953 – Private insurance premiums for allowable commodities
+
+Enter your private insurance premiums paid for allowable commodities such as livestock.
+
+Enter premiums for hail insurance on [Line 9665 – Insurance premiums (crop or production)](#ch3ln9665).
+
+Do not include any premiums for:
+
+- private insurance for non-allowable commodities
+
+- business-related insurance
+
+- motor vehicle insurance
+
+For information on other types of insurance premiums, see [Line 9804 – Other insurance premiums](#ch3ln9804).
+
+## AgriStability program – Non-allowable expenses
+
+### Line 9760 – Machinery (repairs, licences, insurance)
+
+Enter the total amount of repair, licence fee, and insurance premiums for your machinery. If you received insurance proceeds to help pay for repairs, see [Insurance proceeds](#ch3ln960010).
+
+### Line 9765 – Machinery lease/rental
+
+Enter the amount you paid for leasing machinery used to earn your farming income.
+
+If you lease a passenger vehicle, see [Line 9829 –Motor vehicle interest and leasing costs](#ch3ln9829).
+
+If you entered a lease agreement, you can choose to treat your lease payments as combined payments of principal and interest. However, you and the person from whom you are leasing must agree to treat the payments this way.
+
+In this case, we consider that you have:
+
+- bought the machinery rather than leased it
+
+- borrowed an amount equal to the [fair market value](#ch3ln9942fmv) of the leased machinery
+
+You can deduct the interest part of the payment as an expense. You can also claim capital cost allowance (CCA) on the machinery. For more information on CCA, see [Chapter 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html). You can make this choice as long as the machinery qualifies and the total fair market value (FMV) of all the machinery that is subject to the lease is more than $25,000. For example, a combine that you lease with a FMV of $35,000 qualifies. However, office furniture and automobiles often do not.
+
+To treat your lease this way, attach one of the following forms with your income tax return for the year you make the lease agreement:
+
+- [Form T2145, Election in Respect of the Leasing of Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2145.html)
+
+- [Form T2146, Election in Respect of Assigned Leases or Subleased Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2146.html)
+
+Both of these forms explain which property qualifies for this treatment.
+
+### Line 9792 – Advertising and promotion costs
+
+Enter the amount you paid for advertising and promoting your farm products.
+
+If you market fruit or vegetables through a co-op, see [Line 9836 – Commissions and levies](#ch3ln9836) for information on how to report your pack-and-sell expenses.
+
+### Line 9795 – Building and fence repairs
+
+Enter the amount you paid for repairs to fences and all buildings you used for farming, except your farmhouse. Do not include the value of your own labour. If the expenditure improved a fence or building beyond its original condition, the costs are capital expenditures. Add the expenditure to the cost of the asset or building on your capital cost allowance (CCA) charts on [Form T1175, Farming – Calculation of Capital Cost Allowance (CCA) and Business-use-of-home Expenses](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1175.html). We explain the CCA charts in [Chapter 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html).
+
+For more information on capital expenditures, see [Income Tax Folio S3-F4-C1, General Discussion of Capital Cost Allowance](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plans-folio-4-capital-cost-allowance/income-tax-folio-s3-f4-c1-general-discussion-capital-cost-allowance.html).
+
+You may have received insurance proceeds to pay for the cost of repairs. If the insurance proceeds compensated you for damages to depreciable property such as buildings or fences, and you used all of them to repair the property within a reasonable period of time, you can claim a deduction for the amount spent on repairs on line 9795. However, you have to include the insurance proceeds as income on line 9600. If you did not spend all the insurance proceeds on repairs within a reasonable length of time, include the remainder as proceeds of disposition in column 5 of [Area A, Calculation of capital cost allowance (CCA) claim,](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html) on [Form T1175](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1175.html). For more information, see [column 5 – Proceeds of dispositions in the year](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html).
+
+### Line 9796 – Land clearing and draining
+
+Enter the total of the expenses listed below. In most cases, you can deduct the costs for:
+
+- clearing the land of brush, trees, roots, and stones
+
+- first ploughing of the land for farm use
+
+- building an unpaved road
+
+- installing land drainage
+
+You do not have to deduct all of the costs in the year you paid them. If you paid all of the costs, you can deduct any part of them in the year you paid them. You can carry forward any part of the costs you did not deduct to another year. However, if you rented land to someone else, you cannot deduct the costs mentioned above. Instead, you may be able to do one of the following:
+
+- add these costs to the cost of the land
+
+- add these costs to the cost of the building if you plan to build on the land right away
+
+- include these costs under Class 8 in the CCA charts on [Form T776, Statement of Real Estate Rentals](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t776.html), if you installed a tile, plastic, or concrete land drainage system. In this case, you also need to add the costs for a tile, plastic or concrete land drainage system to Class 8 on your CCA charts on [Form T2042](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2042.html). For more information, see [Chapter 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html)
+
+For more information, see [Interpretation Bulletin IT-485, Cost of clearing or levelling land](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it485.html).
+
+#### Improving land
+
+You cannot deduct the cost of a paved road. Instead, you have to add this cost to Class 17 of your CCA charts on [Form T1175](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1175.html). For more information, see [Chapter 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html).
+
+You can deduct most of the cost to drill or dig water wells in the year you did the work. However, you have to add some of the costs to Class 8 on your CCA charts. The costs you add to Class 8 are those you incurred to purchase and install:
+
+- the casing and cribwork for the well
+
+- the system that distributes water, including the pump and pipes
+
+You can deduct amounts you paid to have public utilities brought to your farm, as long as the installations remain the property of the utility.
+
+You can deduct amounts you paid under the [Canada Cooperatives Act](https://laws-lois.justice.gc.ca/eng/acts/C-1.7/index.html) to build a distribution system under a gas service contract.
+
+### Line 9798 – Agricultural contract work
+
+Enter the expenses you paid for custom and contract work, other than custom feeding. For example, you may have had a contract with someone who cleaned, sorted, graded, and sprayed the eggs your hens produced, or someone who had facilities to age the cheese you produced. You may have also contracted someone to do your harvesting, combining, crop dusting, or seed cleaning.
+
+If you are a custom feedlot operator, see [Livestock owners and custom feedlot operators with prepared feed purchases](#ch3p61) for information on reporting your custom feeding expenses.
+
+For AgriStability, agricultural contract work is a non-allowable expense. However, if the charges on your invoice are listed separately, report amounts that are allowable expenses for AgriStability on their specific line.
+
+For example, your invoice lists the costs charged for chemical, fuel, and salaries. Enter these amounts as follows:
+
+- chemical on [Line 9663 – Pesticides and chemical treatments](#ch3ln9663)
+
+- fuel on [Line 9764 – Machinery (gasoline, diesel fuel, oil)](#ch3ln9764)
+
+- salaries on [Line 9815 – Arm's length salaries](#ch3ln9815)
+
+Enter the remaining non-allowable amounts on line 9798.
+
+### Line 9804 – Other insurance premiums
+
+Enter the amount of business-related insurance premiums you paid to insure your farm buildings, farm equipment (excluding machinery and motor vehicles), and business interruption. For information on reporting premiums for hail insurance or livestock, see [Line 9665 – Insurance premiums (crop or production)](#ch3ln9665) and [Line 9953 –Private insurance premiums for allowable commodities](#ch3ln9953).
+
+In most cases, you cannot deduct your life insurance premiums. However, if you use your life insurance policy as collateral for a loan related to your farming business, you may be able to deduct a limited part of the premiums you paid. For more information, see [Interpretation Bulletin IT-309, Premiums on Life Insurance Used as Collateral](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it309r2.html).
+
+In most cases, you cannot deduct the amounts you paid to insure personal property such as your home or car. However, if you used the personal property for your farming business, you can deduct the business part of these costs. For more information, see [Business-use-of-home expenses](#ch3p5050) and [Line 9819 –Motor vehicle expenses](#ch3ln9819).
+
+#### Premiums to a private health services plan
+
+You can deduct premiums paid to a private health services plan (PHSP) if you meet the following conditions:
+
+- you are actively engaged in your business on a regular and continuous basis, individually or as a member of a partnership
+
+- the premiums are paid to insure yourself, your spouse or common-law partner, or any member of your household
+
+- in the year or previous tax year one of the following applies:
+
+    - your net income from self-employment (excluding losses and PHSP deductions) is more than 50% of your **total income**[Footnote1](#fn1)
+
+    - your income from sources other than self-employment[Footnote2](#fn2) is $10,000 or less
+
+You cannot claim a deduction for PHSP premiums if another person deducted the amount, or if you or anyone else claimed the premiums as a medical expense. For your premiums to be deductible, your PHSP coverage has to be paid under a contract with **one**of the following:
+
+- an insurance company
+
+- a trust company
+
+- a person or partnership in the business of administering PHSPs
+
+- a tax-exempt trade union of which you or the majority of your employees are members
+
+- a tax-exempt business organization or a tax-exempt professional organization of which you are a member
+
+For more information on PHSPs, see [Interpretation Bulletin IT-339, Meaning of 'private health services plan' (1988 and subsequent tax years)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it339r2.html) or go to [Private health services plan premiums](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/benefits-allowances/private-health-services-plan-premiums.html).
+
+For the purposes of this claim, the following terms apply:
+
+**Arm's length employees** are, generally, employees who are not related to you and who are not carrying on your business with you, for example, as your partners. For more information, see [Arm's length](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html).
+
+**Qualified employees** are arm's length, full-time employees who have three months service since they last became employed with a business carried on by you, a business in which you are a majority interest partner, or a business carried on by a corporation affiliated with you. Temporary or seasonal workers are not qualified employees.
+
+**Insurable persons** are people to whom coverage is extended and who are either:
+
+- qualified employees
+
+- people who would be qualified employees if they had worked for you for three months
+
+- people carrying on your business (including yourself and your partners)
+
+#### How to calculate your maximum deduction for PHSPs
+
+The following sections explain how to calculate your maximum PHSP deduction based on whether you had employees and whether you insured them throughout the year or for part of the year. Find the section that describes your situation.
+
+All PHSP deduction limits and calculated limits must include all applicable taxes as part of the total dollar amount.
+
+#### If you did not have any employees throughout 2025
+
+Your PHSP deduction is restricted by an annual dollar limit. The limit is a maximum of:
+
+- $1,500 for yourself
+
+- $1,500 for your spouse or common-law partner and each household member that is 18 years of age or older at the start of the period they were insured
+
+- $750 for each household member under the age of 18 at the start of the period
+
+The maximum deduction is also limited by the number of days that person was insured. Calculate your allowable maximum for the year by using the following formula:
+
+A ÷ 365 × (B + C), where:
+
+- **A** is the number of days during the period of the year you insured yourself and your household members, if applicable
+
+- **B** equals $1,500 × the number of household members 18 years of age or older insured during that period
+
+- **C** equals $750 ×the number of household members under the age of 18 insured during that period
+
+Edwin was a sole proprietor who ran his farm alone in 2025. He had no employees and did not insure any of his household members. Edwin paid $2,000 for PHSP coverage in 2025. His coverage lasted from July 1 to December 31, 2025, (a total of 184 days).
+
+184 ÷ 365 × $1,500 = $756
+
+Even though Edwin paid $2,000 in premiums in 2025, he can only deduct $756 because the annual limit is $1,500 and he was only insured for half of the year. If he had been insured for the entire year, his deduction limit would be $1,500.
+
+Bruce was a sole proprietor who ran his farm alone in 2025. He had no employees. From January 1 to December 31, he insured himself, his wife, and his two sons. Bruce paid $1,800 to insure himself, $1,800 to insure his wife, and $1,000 for each of his sons. One of his sons was 15 years old and the other turned 18 on September 1. Bruce's PHSP deduction is limited to the following amounts:
+
+- $1,500 for himself
+
+- $1,500 for his wife
+
+- $750 for his 15-year-old son
+
+- $750 for the son who turned 18 (this limit applies because he did not turn 18 until after the insured period began)
+
+#### If you had employees throughout 2025
+
+If you had at least one [qualified employee](#ch3ln9804d10) throughout all of 2025, and at least 50% of the insurable persons in your business were qualified employees, your claim for PHSP premiums is limited in a different way. Your limit is based on the lowest cost of equivalent coverage for each of your [qualified employees](#ch3ln9804d10).
+
+Use the following steps to calculate your maximum allowable claim for the PHSP premiums paid for yourself, your spouse or common-law partner, and your household members.
+
+For each of your qualified employees, calculate the following:
+
+X × Y = Z, where:
+
+- **X** equals the amount you would pay to provide yourself, your spouse or common-law partner, and your household members with coverage equal to that provided to a particular employee, his or her spouse or common-law partner, and household members
+
+- **Y** equals the percentage of the premium you pay for that particular employee
+
+- **Z** equals your limit based on that particular employee
+
+If you had more than one qualified employee, you have to do the X × Y = Z calculation for each employee. Your limit is then the least amount you calculate for each employee.
+
+You have one qualified employee. To provide yourself with coverage equal to his or hers, you pay a premium of $1,800. You pay 60% of your employee's premium. Your deduction limit for yourself is $1,080, calculated as follows:
+
+$1,800 (amount X) × 60% (amount Y) = $1,080 (amount Z)
+
+The maximum you can claim is $1,080, if you had only one qualified employee.
+
+You have three qualified employees, Jack, Jill, and Sue. The following table shows how much you would pay for coverage equivalent to each of theirs, and the percentage of each employee's premium you pay.
+
+| Name of employee | Cost of equivalent coverage for yourself | % of the employee's premium you pay |
+
+| --- | --- | --- |
+
+| Jack | $1,500 | 20% |
+
+| Jill | $1,800 | 50% |
+
+| Sue | $1,400 | 40% |
+
+You have to do the following three calculations:
+
+- Jack: $1,500 (X) × 20% (Y) = $300 (Z)
+
+- Jill: $1,800 (X) × 50% (Y) = $900 (Z)
+
+- Sue: $1,400 (X) × 40% (Y) = $560 (Z)
+
+Your limit is $300, the lowest of the amounts you calculated for the three employees.
+
+If you have a qualified employee with no coverage, you cannot claim your PHSP premiums as a deduction from self-employment income. However, you may be able to claim them as medical expenses.
+
+If you had employees throughout 2025 but the number of **arm's length** employees you insured was less than 50% of all the insurable persons in your business, your maximum allowable deduction is the **lesser** of the following two amounts:
+
+#### Amount 1
+
+Determine this amount by calculating:
+
+A ÷ 365 × (B + C), where:
+
+- **A** is the number of days during the period of the year you insured yourself and your household members, if applicable, but insured less than 50% of your employees
+
+- **B** equals $1,500 × the number of household members 18 years of age or older insured during that period
+
+- **C** equals $750 × the number of household members under the age of 18 insured during that period
+
+#### Amount 2
+
+If you had at least one qualified employee, Amount 2 is the lowest cost of equivalent coverage for each qualified employee, calculated by using the X × Y = Z formula in the previous example. If you did not have at least one qualified employee, the limit in Amount 1 will apply.
+
+#### If you had employees for part of the year
+
+If you had at least one qualified employee for part of the year and your insurable arm's length employees represented at least 50% of all the insurable persons in your business, calculate your limit for **that** period by using the X × Y = Z formula of [If you had employees throughout 2025](#ch3ln9804d50).
+
+**For the rest of the year** when you had no employees or when your insurable arm's length employees represented less than 50% of all the insurable persons in your business, your deduction limit for that remaining period is the **lesser** of Amount 1 and Amount 2, calculated in the same way as in the previous section.
+
+#### Undeducted premiums
+
+If you deduct only part of your PHSP premium at line 9804 and you paid the premium in the year, you can include the undeducted balance when you calculate your non-refundable medical expense tax credit. For more information, see [Line 33099 – Medical expenses for self, spouse or common-law partner, and your dependent children under 18 years of age, for someone who died](https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/what-when-someone-died/final-return/complete-final-return-steps/common-types-income-a-final-return/federal-non-refundable-tax-credits/line-33099-medical-expenses-self-spouse-partner-children-under-18.html).
+
+### Line 9805 – Interest (real estate, mortgage, other)
+
+You can deduct interest you incurred on money borrowed for farming business purposes or to acquire property for farming business purposes. However, there are limits on:
+
+- The interest you can deduct on money you borrowed to buy a passenger vehicle or a zero-emission passenger vehicle. For more information, see [Line 9819 – Motor vehicle expenses](#ch3ln9819).
+
+- The amount of interest you can deduct for vacant land. Usually, you can only deduct interest up to the amount of income from the land that remains after you deduct all other expenses. You cannot use any remaining amounts of interest to create or increase a loss, and you cannot deduct them from other sources of income.
+
+You can report interest you paid on any real estate mortgage you incurred to earn farming income, but you cannot deduct the principal part of loan or mortgage payments. Do not deduct interest on money you borrowed for personal purposes or to pay overdue income taxes.
+
+You may be able to report interest expenses for a property you used for farming business purposes, even if you have stopped using the property for such purposes because you are no longer in the farming business. For more information, see [Income Tax Folio S3-F6-C1, Interest Deductibility](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-6-interest/income-tax-folio-s3-f6-c1-interest-deductibility.html), or call **1-800-959-5525**.
+
+### Line 9807 – Memberships/subscription fees
+
+Enter the amount of annual dues or fees you paid to keep your membership in a trade or commercial farming association. You cannot deduct club membership dues (including initiation fees) if the main purpose of the club is dining, recreation, or sporting activities.
+
+You can also report fees for subscriptions to farming publications you use in your farming business.
+
+Enter the amounts you paid for your AgriStability administrative cost share (ACS) and your fee on this line.
+
+### Line 9808 – Office expenses
+
+You can report the cost of office expenses. These include small items such as pens, pencils, paper clips, stationery, and stamps. Office expenses do not include items such as calculators, filing cabinets, chairs, and desks. These are capital items. For more information on capital property, see [Class 14.1 (5%)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html).
+
+### Line 9809 – Legal and accounting fees
+
+Report the fees you incurred for external professional advice or services, including consulting fees.
+
+You can report accounting and legal fees you incur to get advice and help in keeping your records. You can also report fees you incur for preparing and filing your income tax and GST/HST returns.
+
+You can deduct accounting or legal fees you paid to have an objection or appeal prepared against an assessment for income tax, [CPP](https://www.canada.ca/en/services/benefits/publicpensions/cpp.html) or [QPP](https://www.rrq.gouv.qc.ca/en/programmes/regime_rentes/Pages/regime_rentes.aspx) contributions, or EI premiums. However, the full amount of these deductible fees must first be reduced by any reimbursement of these fees you have received. Report the difference on line 23200 of your income tax return. If you received a reimbursement in 2025 for the types of fees you deducted in a previous year, enter the amount you received on line 13000 of your 2025 income tax return.
+
+You cannot report legal and other fees you incur to buy capital property. Instead, add these fees to the cost of the property. For more information on capital property, see [Class 14.1(5%)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html).
+
+For more information, see [Interpretation Bulletin IT-99, Legal and Accounting Fees](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it99r5-consolid.html).
+
+### Line 9810 – Property taxes
+
+Enter the amount of land, municipal, and realty taxes you paid for property used in your farming business. Since the municipal tax for the farmhouse is a personal expense, you cannot report it unless you meet the conditions explained in [Business-use-of-home expenses](#ch3p5050).
+
+If you are repaying a loan for land drainage through your property tax payments to your township, you cannot include the amount you repaid as part of your property tax expense.
+
+### Line 9811 – Rent (land, buildings, pastures)
+
+Enter the amount of rent you paid for land, buildings, and pastures you used for your farming business.
+
+If you farmed in a crop share and paid your landlord a share of the crop, only include your share of the crop in your income and expenses.
+
+### Line 9816 – Non-arm's length salaries
+
+Keep a detailed record of the amounts you paid to each related person. For a definition of related persons, see [Line 9815 –Arm's length salaries](#ch3ln9815).
+
+As the employer, you must deduct your part of CPP or QPP contributions and employment insurance premiums. You can also deduct workers' compensation amounts payable on employees' remuneration and Provincial Parental Insurance Plan (PPIP) premiums. The PPIP is an income replacement plan for residents of Quebec. For details, contact Revenu Québec. For information on making payroll deductions, go to [Payroll](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll.html).
+
+Do not deduct the amounts you withheld from remuneration, since you already deducted them in the amount you claimed as wages. Do not include the cost of board.
+
+The terms "salaries" and "wages" are used interchangeably in the description of this non-allowable expense.
+
+You can deduct the wages you paid to your child, as long as you meet **all** of these conditions:
+
+- you paid the wages by cheque, in cash or in kind
+
+- the work your child did was necessary for you to earn farm income
+
+- the wages were reasonable when you consider your child's age
+
+- the amount you paid is what you would have paid someone else to do the same work
+
+Keep documents to support the wages you paid to your child. If you paid your child by cheque, keep the cancelled cheque. If you paid cash, have your child sign a receipt.
+
+If you paid wages in kind to non-arm's length employees (including your spouse or children), report such wages in the same manner that is described at [Line 9815 – Arm's length salaries](#ch3ln9815).
+
+You can deduct wages you paid to your spouse or common-law partner, as long as that person is not a partner in your business and you follow the same rules that apply to wages paid to your child.
+
+If you were a partner of a farm partnership that employed your or your partner's spouse or common-law partner, the farm partnership can deduct that person's wages if it incurred the expense to earn farming income and the wages were reasonable.
+
+### Line 9819 – Motor vehicle expenses
+
+#### Business use of a motor vehicle or passenger vehicle (including zero-emission vehicles and zero-emission passenger vehicles)
+
+If you use your motor vehicle or a passenger vehicle for personal and business use, you can deduct only the part of the expenses you paid to earn farming income. Farming business use includes things such as trips to pick up parts and farm supplies, or to deliver grain. You can deduct the full amount of parking fees related to your business activities and supplementary business insurance for your motor vehicle or passenger vehicle. If you did not live on your farm, the travel between the farm and your home is not considered business travel.
+
+To support the amount you can deduct, keep a record of the total kilometres you drive and the kilometres you drive to earn income. Also, keep track of what it costs you to run and maintain the motor vehicle for your fiscal period.
+
+#### What type of vehicle do you own?
+
+The kind of vehicle you own can affect the expenses you can deduct. For income tax purposes, you should know the definitions of motor vehicles, zero-emission vehicles, passenger vehicles, and zero-emission passenger vehicles.
+
+A **motor vehicle** is an automotive vehicle designed or adapted for use on highways and streets. A motor vehicle does not include a trolley bus or a vehicle designed or adapted to be operated only on rails.
+
+A **zero-emission vehicle** and a **zero-emission passenger vehicle** are motor vehicles. For more information, see [Zero-emission vehicle](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html) and [Zero-emission passenger vehicle](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html).
+
+A **passenger vehicle** is a motor vehicle that is owned by the taxpayer (other than a zero-emission vehicle) or that is leased, and is designed or adapted primarily to carry people on highways and streets. It seats a driver and no more than eight passengers. Most cars, station wagons, vans, and some pick-up trucks are passenger vehicles.
+
+**Passenger vehicles** and zero-emission passenger vehicles are subject to limits on the amount of CCA, interest, and leasing cost that may be deducted. They **do not include**:
+
+- an ambulance
+
+- a clearly marked police or fire emergency response vehicle
+
+- a motor vehicle you bought to use more than 50% as a taxi, a bus used in the business of transporting passengers, or a hearse used in a funeral business
+
+- a motor vehicle you bought to sell, rent, or lease in a motor vehicle sales, rental, or leasing business
+
+- a motor vehicle (except a hearse) you bought to use in a funeral business to transport passengers
+
+- a van, pick-up truck, or similar vehicle that seats no more than the driver and two passengers and that, in the tax year you bought or leased it, was used more than 50% to transport goods and equipment to earn income
+
+- a van, pick-up truck, or similar vehicle that, in the tax year you bought or leased it, was used 90% or more to transport goods, equipment, or passengers to earn income
+
+- a pick-up truck that, in the tax year you bought or leased it, was used more than 50% to transport goods, equipment, or passengers to earn or produce income at a remote work location or at a special work site that is at least 30 kilometres from the nearest community with a population of at least 40,000
+
+- a clearly marked emergency medical service vehicle used to carry paramedics and their emergency medical equipment
+
+If you own a passenger vehicle or a zero-emission passenger vehicle (ZEPV), or you lease a passenger vehicle or a passenger vehicle that would otherwise qualify as a ZEPV, there may be a limit on the amounts you can deduct for CCA, interest, and leasing costs.
+
+The following chart will help you to determine if you have a motor vehicle or a passenger vehicle. The chart does not cover every situation, but it gives some of the main definitions for vehicles bought or leased and used to earn self-employment income.
+
+| Type of vehicle | Seating (includes driver) | Business use in year bought or leased | Vehicle definition |
+
+| --- | --- | --- | --- |
+
+| Coupe, sedan, station wagon, sports car, or luxury car | 1 to 9 | 1% to 100% | passenger |
+
+| Pick-up truck used to transport goods or equipment | 1 to 3 | more than 50% | motor |
+
+| Pick-up truck (other than above) | 1 to 3 | 1% to 100% | passenger |
+
+| Pick-up truck with extended cab used to transport goods, equipment, or passengers | 4 to 9 | 90% or more | motor |
+
+| Pick-up truck with extended cab (other than above) | 4 to 9 | 1% to 100% | passenger |
+
+| Sport-utility used to transport goods, equipment, or passengers | 4 to 9 | 90% or more | motor |
+
+| Sport-utility (other than above) | 4 to 9 | 1% to 100% | passenger |
+
+| Van or minivan used to transport goods or equipment | 1 to 3 | more than 50% | motor |
+
+| Van or minivan (other than above) | 1 to 3 | 1% to 100% | passenger |
+
+| Van or minivan used to transport goods, equipment, or passengers | 4 to 9 | 90% or more | motor |
+
+| Van or minivan (other than above) | 4 to 9 | 1% to 100% | passenger |
+
+Do not include any of the following:
+
+- interest on the money you borrow for a motor vehicle
+
+- leasing costs for a motor vehicle
+
+- the capital cost allowance (CCA)
+
+For more information on interest and leasing costs, see [Line 9829 – Motor vehicle interest and leasing](#ch3ln9829). For more information on CCA, see [Chapter 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html).
+
+Murray's farming business has a December 31 year-end. He owns a truck that is not a passenger vehicle. He uses the truck to pick up supplies and equipment. Murray kept the following records for his 2025 fiscal period:
+
+This is how Murray determines the motor vehicle expenses he can deduct in his 2025 fiscal period:
+
+27,000 (business kilometres) ÷ 30,000 (total kilometres) × $5,100 = $4,590
+
+Murray enters $4,590 on line 9819 of the form as motor vehicle expenses in his 2025 fiscal period. He calculates and deducts the interest on the loan to buy his truck separately on line 9829.
+
+You may have received insurance proceeds to pay for the cost of repairs. If the insurance proceeds compensated you for damages to a motor vehicle for which you claimed CCA, and you used all of them to repair the vehicle within a reasonable period of time, claim a deduction for the amount spent on repairs on line 9819. You must also include the insurance proceeds as income on line 9600. If you did not spend all the insurance proceeds on repairs within a reasonable length of time, include the remainder as proceeds of disposition in column 5 of [Area A, Calculation of capital cost allowance (CCA) claim](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html), on [Form T1175, Farming – Calculation of Capital Cost Allowance (CCA) and Business-use-of-home Expenses](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1175.html). For more information, see [column 5– Proceeds of dispositions in the year](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html).
+
+For more information on motor vehicle expenses, see [Interpretation Bulletin IT-521, Motor Vehicle Expenses Claimed by Self-Employed Individuals](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it521r.html).
+
+#### Simplified logbook for motor vehicle expense provisions
+
+Following a Federal initiative to reduce the paper burden on businesses, you can choose to maintain a full logbook for one complete year to establish a base year's business use of a vehicle.
+
+After one complete year of keeping a logbook to establish the base year, you can use a three month sample logbook to extrapolate business use for the entire year, as long as the usage is within the same range (within 10%) of the results of the base year. Businesses will have to show that the use of the vehicle in the base year remains representative of its normal use.
+
+#### More than one vehicle
+
+If you use more than one motor vehicle or passenger vehicle for your business, for each vehicle keep a separate record that shows the total personal use kilometres and business kilometres you drive, as well as the cost to run and maintain each vehicle. Calculate each vehicle's expenses separately.
+
+For more information, see [Interpretation Bulletin IT-521, Motor Vehicle Expenses Claimed by Self-Employed Individuals](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it521r.html).
+
+### Line 9820 – Small tools
+
+If a tool costs you less than $500, you can report its full cost. If it costs you $500 or more, add the cost to your CCA charts on [Form T1175](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1175.html) as Class 8 property.
+
+Small tools that cost less than $500 are fully deductible in the year you buy them. You may claim them as an expense at line 9820 or claim CCA by including them in Class 12 (with a CCA rate of 100%). Either method is acceptable, but do not claim the amount twice. For more information on CCA, see [Chapter 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html).
+
+### Line 9821 – Soil testing
+
+Enter the amount of expenses you paid for testing soil samples.
+
+### Line 9823 – Licences/permits
+
+Enter the total of annual licence and permit fees that you paid to run your business.
+
+### Line 9824 – Telephone
+
+Do not deduct the basic monthly rate of your home telephone. However, you can deduct any long-distance telephone calls you made on your home telephone for farming business purposes.
+
+If you have a separate telephone to use in your business and you use it for business calls only, you can deduct its basic monthly rate.
+
+### Line 9825 – Quota rental (tobacco, dairy)
+
+Enter the amount of expenses you paid for quota rentals in the fiscal period.
+
+### Line 9826 – Gravel
+
+Enter the amount of expenses you paid for gravel used to earn farming income in the fiscal period.
+
+### Line 9827 – Purchases of commodities resold
+
+Enter purchases of commodities that you bought for resale and then sold. Enter the corresponding sales of commodities purchased for resale on [Line 9612 – Resales of commodities purchased](#ch3ln9612).
+
+Enter purchases of commodities that you bought for resale but have not yet sold.
+
+### Line 9829 – Motor vehicle interest and leasing costs
+
+Enter the leasing costs for your motor vehicle or the interest on the money you borrowed for a motor vehicle.
+
+If you used a [passenger vehicle](#ch3ln9819d20) or a zero-emission passenger vehicle to earn farming income, there is a limit on the amount of interest you can deduct. Whether you use the cash or accrual method to determine your income, fill in the following chart to calculate the interest you can deduct. If you used your passenger vehicle or zero-emission passenger vehicle for both personal and farming business use, fill in the chart before you determine how much interest you can deduct as an expense.
+
+#### Interest chart
+
+Enter the total interest you paid (cash method) or that is payable (accrual method) in your fiscal period
+
+$10[Footnote3](#fn3) × _____, number of days in your fiscal period for which interest was paid or payable
+
+Your available interest expense is either A or B, whichever amount is less
+
+Heather's farming business has a December 31 year-end. On January 1, 2025, she bought a new passenger vehicle that she uses for both personal and business use. She borrowed money to buy the vehicle, and the interest she paid in her 2025 fiscal period was $2,200. Since the car Heather bought is a passenger vehicle, there is a limit on the interest she can deduct.
+
+Heather's available interest is either of these two amounts, whichever is less:
+
+- $2,200 (the total interest she paid in her 2025 fiscal period)
+
+- $4,270 ($350 ÷ 30 × 366 days)
+
+Heather drove 20,000 kilometres on farming business out of the total 25,000 kilometres she drove in her 2025 fiscal period. Here is how Heather determines the motor vehicle interest expenses she can deduct for her 2025 fiscal period:
+
+20,000 (business kilometres) ÷ 25,000 (total kilometres) × $2,200 = $1,760
+
+Heather enters $1,760 on line 9829, as motor vehicle interest for her 2025 fiscal period.
+
+#### Leasing costs for a passenger vehicle (or a vehicle that would qualify as a zero-emission passenger vehicle if you owned it)
+
+You can report costs you incur to lease a passenger vehicle you use to earn income. Include these amounts on [line 9819](#ch3ln9819).
+
+When you use a passenger vehicle to earn farming business income, there is a limit on the amount of the leasing costs you can deduct. This limit does not apply to zero-emission passenger vehicles. To calculate your eligible leasing costs, fill in the [Eligible leasing costs for passenger vehicles](#p893_91762) chart.
+
+If the lease agreement for your passenger vehicle includes items such as insurance, maintenance, and taxes, include them as part of the lease charges on line 1 when you fill in the chart.
+
+Generally, leases include taxes, GST/HST or provincial sales tax (PST), but not items such as insurance and maintenance. You have to pay these amounts separately. Include the taxes at line 1 of the chart, and list the items like insurance and maintenance on the appropriate lines on [Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html).
+
+For your 2025 fiscal period, use the GST rate of 5% or the applicable HST rate of your specific province to fill in the chart below.
+
+The following example shows how to calculate the eligible leasing costs. In this chart, we use prescribed amounts. Prescribed means it is written in the law.
+
+On July 1, 2025, Meadow started leasing a car that is a passenger vehicle. She used the car to earn farming income. Her business has a December 31 fiscal year-end. The PST rate for her province is 8% and GST is 5%. Meadow entered the following for 2025:
+
+GST and PST on $1,100
+
+Meadow's eligible leasing cost is either line 6 or 7, whichever **amount is less**. In this case, her allowable claim is $3,000.
+
+#### Eligible leasing costs for passenger vehicles
+
+Total lease charges incurred in your 2025 fiscal period for the vehicle
+
+Total lease payments deducted before your 2025 fiscal period for the vehicle
+
+Total number of days the vehicle was leased in 2025 and before 2025
+
+Manufacturer's list price
+
+The amount on line 4 or ($44,706[Footnote4](#fn4) + GST[Footnote5](#fn5) and PST[Footnote5](#fn5), or $44,706[Footnote4](#fn4) + HST[Footnote5](#fn5)), _____× 85% (whichever is more) =
+
+[($1,100[Footnote6](#fn6) + GST[Footnote5](#fn5) and PST[Footnote5](#fn5), or $1,100[Footnote6](#fn6) + HST[Footnote5](#fn5))× line 3] ÷ 30] _____− line 2: _____ =
+
+[($38,000[Footnote7](#fn7) + GST[Footnote6](#fn6) and PST[Footnote5](#fn5), or $38,000[Footnote7](#fn7) + HST[Footnote5](#fn5)) × line 1] ÷ line 5 =
+
+**Eligible leasing cost: Line 6 or line 7, whichever is less**
+
+#### Repayments and imputed interest
+
+When you lease a passenger vehicle, you may have a repayment owing to you, or you may have imputed interest. If so, you will not be able to use the chart.
+
+**Imputed interest** is interest that would be owing to you if interest were paid on the money you deposited to lease a passenger vehicle. Calculate imputed interest for leasing costs on a passenger vehicle only if **all** of the following apply:
+
+- one or more deposits were made for the leased passenger vehicle
+
+- one or more deposits are refundable
+
+- the total of the deposits is more than $1,000
+
+For more information, see [Interpretation Bulletin IT-521, Motor Vehicle Expenses Claimed by Self-Employed Individuals](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it521r.html).
+
+#### Joint ownership of a passenger vehicle or a zero-emission passenger vehicle
+
+If you and another person own or lease a passenger vehicle or zero-emission passenger vehicle, the limits on CCA, interest, and leasing costs still apply. If you and another person own or lease a zero-emission passenger vehicle, only the limits on CCA and interest apply. The total amount you (as a joint owner) or any other owners deduct cannot be more than the amount one person owning or leasing the vehicle could deduct.
+
+### Line 9936 – Capital cost allowance
+
+Enter the amount of CCA you calculate on all the eligible assets used in your farming operation. To calculate your CCA claim, use the charts on [Form T1175, Farming – Calculation of Capital Cost Allowance (CCA) and Business-use-of-home Expenses](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1175.html). For information on how to fill in these charts, see [Chapter 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html).
+
+### Line 9937 – Mandatory inventory adjustments – prior year
+
+If you included an amount for the mandatory inventory adjustment (MIA) on line 9942 in your 2024 fiscal period, enter the amount as an expense on line 9937 in your 2025 fiscal period. Do not include the valuation of inventories if you are using the accrual method of accounting. For information about the accrual method, see [Reporting methods](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-03.html).
+
+For more information on MIA, see [Line 9942 – Mandatory inventory adjustment – current year](#ch3ln9942).
+
+### Line 9938 – Optional inventory adjustments – prior year
+
+If you included an amount for the optional inventory adjustment (OIA) on line 9941 in your 2024 fiscal period, deduct the amount as an expense on line 9938 in your 2025 fiscal period. Do not include the valuation of inventories if you are using the accrual method of accounting. For information about the accrual method, see [Reporting methods](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-03.html).
+
+For more information on OIA, see [Line 9941 – Optional inventory adjustment – current year](#ch3ln9941).
+
+### Line 9896 – Other (specify)
+
+The expenses listed on the form are only the most common ones. If you have other farming expenses that are not listed on this form and are non-allowable for AgriStability, enter the total amount on line 9896. Then list the items on the blank lines provided under line 9896. For more information about other expenses, see [Guide T4002, Self-employed Business, Professional, Commission, Farming, and Fishing Income](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002.html).
+
+Enter any overpayments you repaid for any of the programs identified on lines [9540](#ch3ln9540) and [9544](#ch3ln9544).
+
+#### Summary of expenses
+
+Copy Totals C, D, and E from the bottom of each of the three tables in the "Expenses" section of the form. Add the totals for your total expenses.
+
+## Summary of income and expenses
+
+### Line 9959 – Gross farming income
+
+Enter your gross farming income from line 9959 on line 14099 of your income tax return. If you also completed [Form T1274](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1274.html), add the totals from line 9959 on your [Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html) and all your [T1274](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1274.html) forms. Enter the result on line 14099 of your income tax return.
+
+### Line 9969 – Net income (loss) before adjustments
+
+If you are a partner of a partnership, this amount is the net farming business income of the partnership. If the amount is negative, enter the amount in brackets.
+
+### Line 9940 – Other deductions
+
+You can enter any business-use-of-home expenses that you are carrying forward from a previous fiscal period, as long as you meet **one** of the following conditions:
+
+- the workspace is your principal place of business
+
+- you use the space only to earn your farming business income, and you use it on a regular, ongoing basis to meet your customers
+
+For more information, see [Line 9934 – Adjustment to business-use-of-home expenses](#ch3ln9934).
+
+### Line 9941 – Optional inventory adjustment – current year
+
+If you want to include an inventory amount in income, read this section.
+
+By making the OIA, you can include in your income an amount up to the FMV of your inventory minus the MIA. You can only make the OIA if you use the **cash method**. For the meaning of inventory and FMV, see [Line 9942 – Mandatory inventory adjustment – current year](#ch3ln9942).
+
+For the OIA, unlike for the MIA, the inventory does not have to be purchased inventory. It is the entire inventory you still have at the end of your 2025 fiscal period.
+
+Enter the amount of your OIA on line 9941. You must deduct this amount as an expense in your next fiscal period.
+
+### Line 9942 – Mandatory inventory adjustment – current year
+
+The mandatory inventory adjustment (MIA) decreases your net loss if you held inventory at the end of your fiscal period. Read this section even if you do not have to make the MIA. This section will show you how to determine the value of the farm inventory you bought and still have at the end of your 2025 fiscal period. You will need to know this value if you have to make the MIA this year or in the future.
+
+You have to make the MIA if **all** of the following apply:
+
+- you use the cash method to report your income
+
+- you have a net loss on line 9969 of the form
+
+- you bought inventory and still have it at the end of your 2025 fiscal period. This does not refer only to inventory you bought in 2025. It includes inventory you had previously bought and still owned at the end of your 2025 fiscal period
+
+Your MIA is the lesser of these two amounts:
+
+- the net loss before adjustments on line 9969
+
+- the value of the purchased inventory you still have at the end of your 2025 fiscal period
+
+To calculate your MIA, fill in Charts [1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-17.html), [2](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-17.html), [3](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-17.html), and [4](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-17.html). Once you have filled in Chart 4, enter the amount on line 9942. For more information, see [Interpretation Bulletin IT-526, Farming – Cash method inventory adjustments](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it526.html).
+
+In your next fiscal period, deduct from your farming income the MIA you add to your net loss in your 2025 fiscal period.
+
+If you bought a [specified animal](#ch3ln9942sa) in a [non-arm's length transaction](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-07.html), we consider that you bought the animal in the same year and at the same price for which the seller bought it. A non arm's length transaction is, for example, a transaction between members of a family, such as a husband and wife, or a parent and child.
+
+To value your inventory, you need to know the meaning of the following terms:
+
+**Inventory** is a group of items that a business holds and intends to consume or sell to its customers.
+
+**Farm inventory** is tangible property that is:
+
+- held for sale, such as harvested grain
+
+- used in the production of saleable goods, such as seed and feed
+
+- in the process of being produced, such as standing crops or feeder livestock
+
+Seed you have already planted and fertilizer or chemicals you have already applied are no longer part of your inventory items but are included in the value of the standing crops that may be included in the OIA.
+
+**Purchased inventory** is inventory you have bought and paid for.
+
+**Specified animals** are horses. You may also elect to designate cattle you registered under the [Animal Pedigree Act](https://laws-lois.justice.gc.ca/eng/acts/A-11.2/index.html) as specified animals. To make this choice, put a note on your income tax return saying you want to designate the animal this way. If you indicate on your return that it is a specified animal, we will continue to consider it as such until you sell it.
+
+**Cash cost** is the amount you paid to buy your inventory.
+
+**Fair market value (FMV) –**generally, the highest dollar value that you can get for your property in an open and unrestricted market between an informed and willing buyer and an informed and willing seller who are dealing at arm's length with each other.
+
+#### Value of your purchased inventory
+
+To value your purchased inventory, read the text that follows and the example of how to fill in the MIA charts. There are [blank charts](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-17.html) for you to use. Keep these charts as part of your records.
+
+Except for specified animals, you have to value any purchased inventory you bought before or during your 2025 fiscal period at the lesser of these amounts:
+
+- the cash cost
+
+- the FMV
+
+To determine which amount is less, compare each item or group of items separately in the inventory.
+
+Value the specified animals you acquired **in** your 2025 fiscal period and still have at the end of this period at one of the following amounts:
+
+- the cash cost
+
+- 70% of the cash cost
+
+- any amount between these two amounts
+
+Value the specified animals you acquired **before** your 2025 fiscal period and still have at the end of this period at one of the following amounts:
+
+- the cash cost
+
+- 70% of:
+
+    - the value of the specified animals for MIA purposes as determined at the end of your 2024 fiscal period, **plus**
+
+    - any amounts you paid in your 2025 fiscal period toward the purchase price
+
+- any amount between these two amounts
+
+Doug started his farming business in 2022 and uses the cash method to report his income. His year-end is December 31. Doug shows a net loss of $55,000 in 2025 on line 9969. Doug has purchased inventory at the end of his 2025 fiscal period. This means he has to decrease his net loss by the MIA. Doug made a chart for the cash cost of his livestock that is purchased inventory at the end of his 2025 fiscal period.
+
+| Year of purchase | Cost of purchase | Amount Doug paid by the end of his 2025 fiscal period |
+
+| --- | --- | --- |
+
+| 2025 | $30,000 | $25,000 |
+
+| 2024 | $26,000 | $26,000[Footnote8](#fn8) |
+
+| 2023 | $22,000 | $22,000 |
+
+| 2022 | $20,000 | $20,000 |
+
+Doug's other inventory is fertilizer, seed, and fuel. The cash cost is the same as the fair market value for this inventory. Its value is as follows:
+
+- $15,000 bought in his 2025 fiscal period
+
+- $6,000 bought in his 2024 fiscal period
+
+- $5,000 bought in his 2023 fiscal period
+
+At the end of his 2025 fiscal period, Doug did not have any other inventory that he bought before his 2022 fiscal period.
+
+Doug has registered his livestock under the [Animal Pedigree Act](https://laws-lois.justice.gc.ca/eng/acts/A-11.2/index.html). He wants to designate these animals as [specified animals](#ch3ln9942sa).
+
+Doug fills in Chart 1 as follows:
+
+**Chart 1 – Cash cost of purchased inventory**
+
+Doug enters the amount he paid by the end of his 2025 fiscal period for the specified animals he bought:
+
+**Fiscal period**
+
+in his 2025 fiscal period
+
+in his 2024 fiscal period
+
+in his 2023 fiscal period
+
+in his 2022 fiscal period
+
+before his 2022 fiscal period
+
+Doug enters the amount he paid by the end of his 2025 fiscal period for all other inventory he bought:
+
+in his 2025 fiscal period
+
+in his 2024 fiscal period
+
+in his 2023 fiscal period
+
+in his 2022 fiscal period
+
+before his 2022 fiscal period
+
+Doug now knows the cash cost of his purchased inventory, including his specified animals. He uses these amounts to calculate the value of his purchased inventory at the end of his 2025 fiscal period. To do this, he fills in Charts 2, 3, and 4 as follows:
+
+**Chart 2 – Value of purchased inventory for specified animals**
+
+The small letters in front of each line match the paragraphs at the end of this chart. These paragraphs explain how Doug calculates the number on each line.
+
+**Inventory bought in his 2025 fiscal period** Doug enters an amount that is not more than the amount from line 1, but not less than 70% of this amount.
+
+**Inventory bought in his 2024 fiscal period** Doug enters an amount that is not more than the amount from line 2, but not less than 70% of the total of the value at the end of his 2024 fiscal period, plus any amounts he paid in his 2025 fiscal period toward the purchase price.
+
+**Inventory bought in his 2023 fiscal period** Doug enters an amount that is not more than the amount from line 3, but not less than 70% of the total of the value at the end of his 2024 fiscal period, plus any amounts he paid in his 2025 fiscal period toward the purchase price.
+
+**Inventory bought in his 2022 fiscal period** Doug enters an amount that is not more than the amount from line 4, but not less than 70% of the total of the value at the end of his 2024 fiscal period, plus any amounts he paid in his 2025 fiscal period toward the purchase price.
+
+**Inventory bought before his 2022 fiscal period**
+
+1. Doug chose $20,000, which is between the cash cost of $25,000 and $17,500 (70% of the cash cost).
+
+2. Doug chose to value the inventory he bought in his 2024 fiscal period at 70% of the cash cost. Therefore, the value of this inventory at the end of his 2024 fiscal period was $13,300 ($19,000 × 70%). Remember, Doug paid $19,000 for these specified animals in 2024. He paid $7,000 in 2025. For his 2025 fiscal period, Doug chose to value the inventory that he bought in his 2024 fiscal period at 70% of the total of the value at the end of the 2024 fiscal period plus any amounts that he paid in his 2025 fiscal period toward the purchase price. Therefore, the amount that he enters on line 12 is $14,210 [70% × ($13,300 + $7,000)]. He could choose any amount between the cash cost of $26,000 and the lowest acceptable inventory value of $14,210.
+
+3. Doug chose to value the inventory that he bought in his 2023 fiscal period at 70% of the cash cost. Therefore, the value of this inventory at the end of his 2023 fiscal period was $15,400 ($22,000 × 70%). For his 2024 fiscal period, Doug chose to value the inventory that he bought in his 2023 fiscal period at 70% of the total of the value at the end of his 2023 fiscal period. Therefore, the value of this inventory at the end of his 2024 fiscal period was $10,780 ($15,400 × 70%). For his 2025 fiscal period, Doug chose to value the inventory that he bought in his 2023 fiscal period at 70% of the total of the value at the end of his 2024 fiscal period. Therefore, the amount he enters on line 13 is $7,546 ($10,780 × 70%). He could choose any amount between the cash cost of $22,000 and the lowest acceptable inventory value of $7,546.
+
+4. Doug chose to value the inventory that he bought in his 2022 fiscal period at 70% of the cash cost. Therefore, the value of this inventory at the end of his 2022 fiscal period was $14,000 ($20,000 × 70%). For his 2023 fiscal period, Doug chose to value the inventory that he bought in his 2022 fiscal period at 70% of the total of the value at the end of his 2022 fiscal period. Therefore, the value of this inventory at the end of his 2023 fiscal period was $9,800 ($14,000 × 70%). For his 2024 fiscal period, Doug chose to value the inventory that he bought in his 2022 fiscal period at 70% of the total of the value at the end of his 2023 fiscal period. Therefore, the value of this inventory at the end of his 2024 fiscal period was $6,860 ($9,800 × 70%). For his 2025 fiscal period, Doug chose to value the inventory that he bought in his 2022 fiscal period at 70% of the total of the value at the end of his 2024 fiscal period. Therefore, the amount he enters on line 14 is $4,802 ($6,860 × 70%). He could choose any amount between the cash cost of $20,000 and the lowest acceptable inventory value of $4,802.
+
+5. Doug had not purchased any specified animals before his 2022 fiscal period.
+
+**Chart 3 – Value of purchased inventory for all other inventory**
+
+**Inventory bought in his 2025 fiscal period:** Doug enters the amount from line 6 or the fair market value, whichever is less.
+
+**Inventory bought in his 2024 fiscal period:** Doug enters the amount from line 7 or the fair market value, whichever is less.
+
+**Inventory bought in his 2023 fiscal period:** Doug enters the amount from line 8 or the fair market value, whichever is less.
+
+**Inventory bought in his 2022 fiscal period:** Doug enters the amount from line 9 or the fair market value, whichever is less.
+
+**Inventory bought before his 2022 fiscal period:** Doug enters the amount from line 10 or the fair market value, whichever is less.
+
+**Chart 4 – Calculation of MIA**
+
+Doug enters the amount of his net loss from line 9969.
+
+Doug enters the value of his inventory from Charts 2 and 3:
+
+the amount from line 11
+
+the amount from line 12
+
+the amount from line 13
+
+the amount from line 14
+
+the amount from line 15
+
+the amount from line 16
+
+the amount from line 17
+
+the amount from line 18
+
+the amount from line 19
+
+the amount from line 20
+
+Total value of inventory
+
+MIA – Doug enters the amount from line 21 or line 22, whichever is less.
+
+The MIA that Doug uses for his 2025 fiscal period will be the same amount that he deducts from his farming income when he calculates his income for his next fiscal period.
+
+Enter the amount from line 23 of Chart 4 on line 9942 of [Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html).
+
+### Partnership information – Your share of amount C
+
+Enter your share of amount C or the amount from your T5013 slip. Fill in the [Partnership information chart](#ch3pa20) on your form.
+
+### Line 9951 – Return of fuel charge proceeds to farmers tax credit allocated to you in the year
+
+The federal fuel charge ended April 1, 2025. As a result, the return of fuel charge proceeds to farmers tax credit for the 2024 to 2025 fuel charge year will be the final credit available to certain eligible farming businesses.
+
+If you are a member of a partnership with a fiscal period beginning in 2024, and the partnership operated a farming business in a designated province, you can still claim the credit for the period that falls in the 2024 calendar year.
+
+This credit is considered to be government assistance that you received in the year and is taxable to you. Include in your income the amount of the credit allocated to you by the partnership (amount 5C of your Form T2043) in the same tax year in which you claimed the credit.
+
+### Line 9934 – Adjustment to business-use-of-home expenses
+
+If you have claimed business-use-of-home expenses (including a carryforward from a previous year claimed on line 9940) in arriving at your net income (loss), and the amount on line 9944 is negative (a loss), you must make an adjustment on line 9934. Enter the lesser of the following amounts:
+
+- the expenses you claimed from the business use of your home, including current-year expenses and any expenses you are carrying forward from previous years
+
+- the amount of your loss on line 9944
+
+This does not mean that you cannot use your claim for business-use-of-home expenses. In a future year, you can use any expense you could not deduct in your 2025 fiscal period, as long as you meet one of these conditions:
+
+- the workspace is your principal place of business
+
+- you use the space only to earn your farming business income, and you use it on a regular and ongoing basis to meet your customers
+
+Use the chart on [Form T1175](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1175.html) to calculate your allowable claim for business-use-of-home expenses. Be sure to include any part of the CCA that you claimed for the business use of your home.
+
+For more information, see [Income Tax Folio S4-F2-C2, Business Use of Home Expenses](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-2-deducting-business-expenses/income-tax-folio-s4-f2-c2-business-use-home-expenses.html).
+
+### Line 9974 – GST/HST rebate for partners received in the year
+
+If you received a GST/HST rebate for partners, enter the amount of the rebate that relates to eligible expenses other than CCA on line 9974, in the section "Summary of income and expenses" of [Forms T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html) or [T1274](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1274.html) in the year you receive the rebate.
+
+In the chart "Partnership information," show the full names of the other partners, as well their percentages of ownership shares in the partnership.
+
+### Line 9946 – Net farming income (loss)
+
+Enter your net farming income or loss on this line of your form. Also enter it on line 14100 of your return if:
+
+- your fiscal year-end is December 31, 2025
+
+- you did not file [Form T1139, Reconciliation of 2024 Business Income for Tax Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1139.html), with your 2024 income tax return
+
+If you have more than one farming operation or additional expenses that apply to partnerships, add the amounts from line 9946 of [Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html) and [Form T1274](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1274.html). Enter the total of these amounts on line 14100 of your income tax return.
+
+If you have a loss, enter the amount in brackets. For more information about losses, see [Chapter 6](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-09.html).
+
+You may have to adjust the figure from line 9946 before entering it on your income tax return. You may have filed [Form T1139, Reconciliation of 2024 Business Income for Tax Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1139.html), with your 2024 income tax return. If so, you may have to complete the same form for 2025. To find out if you have to file [Form T1139](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1139.html), and calculate the amount of income to report on your 2025 income tax return, see [Form T1139, Reconciliation of 2025 Business Income for Tax Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1139.html).
+
+## Partnership information chart
+
+### Partnership name
+
+Enter the partnership's name.
+
+### Your percentage of the partnership
+
+Fill in this chart if you are a member of a partnership.
+
+Enter your own percentage share of the partnership.
+
+Fill in all other partners' information on the lines below.
+
+### AgriStability and AgriInvest participant identification number (PIN)
+
+Enter the PIN (if available) for each individual partner, corporate or co-operative partner.
+
+### Partners' names
+
+Fill in the first and last names of each individual partner. If a corporation or co-operative is a partner, enter the name of the corporation or co-operative. If another partnership is a partner, list the names of the partners in that partnership.
+
+### Percentage (%) share
+
+Enter each partner's percentage share based on the allocation of partnership net income or loss reported to us unless one of the following conditions is met:
+
+- interest has been paid on the partners' capital
+
+- salaries have been paid to partners
+
+In these cases, exclude these amounts when you determine the partner's percentage share.
+
+If another partnership is a partner, determine the beneficial ownership of each individual partner. See the following example.
+
+The Fred and Mary Smith Partnership (a 50/50 partnership) owns 60% of the Sunny Skies Partnership. Therefore, Fred and Mary Smith would each have a 30% beneficial ownership in the Sunny Skies Partnership.
+
+- [Previous page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-04.html)
+
+- [Table of contents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-01.html)
+
+- [Next page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-06.html)

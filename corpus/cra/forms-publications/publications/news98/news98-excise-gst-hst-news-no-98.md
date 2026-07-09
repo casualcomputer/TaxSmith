@@ -1,0 +1,414 @@
+---
+title: "ARCHIVED - Excise and GST/HST News - No. 98"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news98/news98-excise-gst-hst-news-no-98.html
+last_modified: 2023-02-16
+---
+# ARCHIVED - Excise and GST/HST News - No. 98
+
+## Table of Contents
+
+- [Proposed New Brunswick HST increase](#_Toc442946702)
+
+- [Public service bodies’ (PSB) rebate for municipalities in Newfoundland and Labrador](#_Toc442946703)
+
+- [Online supplies of a “service of instructing” individuals in a course](#_Toc442946704)
+
+- [Admissions to a place of amusement](#_Toc442946705)
+
+- [Information on deemed trust](#_Toc442946706)
+
+- [Upcoming changes to Form GST523](#_Toc442946707)
+
+- [Manage direct deposit](#_Toc442946708)
+
+- [Prescribed rates of interest](#_Toc442946709)
+
+- [What’s new in publications](#_Toc442946710)
+
+- [Contact us](#_Toc442946711)
+
+## Proposed New Brunswick HST increase
+
+In a [February 2, 2016, Budget News Release](http://www2.gnb.ca/content/gnb/en/news/news_release.2016.02.0068.html), the Government of New Brunswick announced its intention to increase the provincial part of the harmonized sales tax (HST) by two percentage points to a rate of 10%, effective July 1, 2016. This would result in a HST rate of 15% in New Brunswick. The current HST rate is 13% in New Brunswick.
+
+## Public service bodies’ (PSB) rebate for municipalities in Newfoundland and Labrador
+
+A municipality is eligible for a 100% PSB rebate of the goods and services tax (GST) and the federal part of the harmonized sales tax (HST) paid or payable on eligible purchases and expenses.
+
+Effective January 1, 2016, municipalities resident in Newfoundland and Labrador will also be eligible for a 25% PSB rebate of the provincial part of the HST. In general, this rate will apply for the purpose of determining a municipality’s PSB rebate for claim periods ending on or after January 1, 2016.
+
+If a municipality is a GST/HST registrant, its claim periods are the same as the reporting periods for its GST/HST returns, that is annual, quarterly or monthly. If a municipality is not a GST/HST registrant (a non-registrant), it has two claim periods per fiscal year – the first six months and the last six months of its fiscal year. A branch or division of a municipality that has received authorization to file separate GST/HST returns and/or PSB rebate applications has the same claim period as the municipality as a whole.
+
+The PSB rebate calculation is based on the municipality’s “non-creditable tax charged” for the claim period. Non-creditable tax charged for a particular claim period only includes GST/HST that became payable during the claim period or that was paid during the claim period without having become payable. Therefore, a municipality resident in Newfoundland and Labrador **cannot** claim a 25% PSB rebate of the provincial part of the HST that was payable in claim periods ending before January 1, 2016.
+
+Special transitional rules apply if a municipality’s claim period includes January 1, 2016. The 25% PSB rebate of the provincial part of the HST is not available in respect of:
+
+- tax that became payable before January 1, 2016;
+
+- an amount that is deemed to have been paid or collected before January 1, 2016; or
+
+- an amount that is required to be added in determining the person’s net tax as a result of a branch or division of the person becoming a small supplier division before January 1, 2016 or as a result of the person ceasing to be a registrant before January 1, 2016.
+
+A municipality in Newfoundland and Labrador has a PSB rebate claim period of July 1, 2015 to December 31, 2015. The municipality incurred HST on eligible purchases and expenses throughout this claim period. The municipality may only claim a 100% PSB rebate of the GST and the federal part of the HST paid or payable during the claim period. Since the municipality’s claim period ends before January 1, 2016, it is not entitled to claim a 25% PSB rebate of the provincial part of the HST for this claim period. In addition, the municipality cannot include any HST payable during this claim period in the non-creditable tax charged for a subsequent claim period.
+
+### Example 2 – claim period that includes January 1, 2016
+
+A municipality in Newfoundland and Labrador has a PSB rebate claim period of November 1, 2015 to January 31, 2016. The municipality incurred HST on eligible purchases and expenses throughout this claim period. As the claim period includes January 1, 2016, the transitional rules apply. The municipality may only claim a 25% PSB rebate of the provincial part of the HST in respect of HST payable on or after January 1, 2016. It cannot claim a PSB rebate of the provincial part of the HST in respect of any HST that became payable between November 1, 2015 and December 31, 2015. A 100% PSB rebate of the federal part of the HST is available for any HST paid or payable during this claim period.
+
+### Example 3 – HST payable before January 1, 2016 that is paid on or after January 1, 2016
+
+A municipality in Newfoundland and Labrador has a PSB rebate claim period of July 1, 2015 to December 31, 2015. It purchased services where the HST was payable on December 15, 2015; however, it only paid the full invoice on January 15, 2016. As this HST was payable during the claim period of July 1, 2015 to December 31, 2015, it must be included in the non-creditable tax charged for that claim period. Therefore, the municipality is not entitled to a 25% PSB rebate of the provincial part of the HST paid on this purchase, even though the HST was actually paid in 2016. The municipality is only entitled to a 100% PSB rebate of the federal part of the HST paid on this purchase.
+
+### Example 4 – HST payable before January 1, 2016 that is paid on or after January 1, 2016
+
+A municipality in Newfoundland and Labrador has a PSB rebate claim period of April 1, 2015 to March 31, 2016. It purchased services where the HST was payable on December 15, 2015; however, it only paid the full invoice on January 15, 2016. As this claim period includes January 1, 2016, the transitional rules apply. As the HST was payable before January 1, 2016, the municipality is not entitled to a 25% PSB rebate of the provincial part of the HST paid on this purchase, even though the HST was actually paid in 2016. The municipality is only entitled to a 100% PSB rebate of the federal part of the HST paid on this purchase.
+
+### Example 5 – HST paid before January 1, 2016 that is payable on or after January 1, 2016
+
+A municipality in Newfoundland and Labrador has a PSB rebate claim period of December 1, 2015 to February 29, 2016. It purchased services where the HST was payable on January 15, 2016; however, the municipality paid the HST on December 15, 2015 before it became payable. As this claim period includes January 1, 2016, the transitional rules apply. Since the HST was payable after January 1, 2016, the municipality is entitled to a 25% PSB rebate of the provincial part of the HST paid on this purchase. The municipality will also be entitled to a 100% PSB rebate of the federal part of the HST paid on the purchase.
+
+For a full discussion of the PSB rebate of the provincial part of the HST for municipalities in Newfoundland and Labrador, including the 57.14% PSB rebate being introduced in 2017, please see [GST/HST Notice 292, Proposed Public Service Bodies’ Rebate for Municipalities in Newfoundland and Labrador – Questions and Answers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice292.html).
+
+## Online supplies of a “service of instructing” individuals in a course
+
+Section 8 of Part III of Schedule V to the [Excise Tax Act](http://laws-lois.justice.gc.ca/eng/acts/E-15/index.html)(the Act) exempts “a supply, other than a zero-rated supply, made by a government, a school authority, a vocational school, a public college or a university of a **service of instructing**individuals in, or administering examinations in respect of, courses leading to certificates, diplomas, licences or similar documents, or classes or ratings in respect of licences, that attest to the competence of individuals to practise or perform a trade or vocation, except where the supplier has made an election under this section in prescribed form containing prescribed information”.
+
+Once it has been established that a supplier is a person who is eligible to make exempt supplies under section 8, (e.g., a university), it must be determined whether the supply being made by the person meets the conditions for the exemption. There are two supplies of services under this section that are exempt:
+
+- instructing individuals in courses; and
+
+- administering examinations in respect of courses.
+
+In both cases the supply must relate to a course. The course must lead to a certificate, diploma, licence or similar document, or class or rating in respect of a licence that attests to the competence of the individual to practise or perform a trade or vocation.
+
+A supply of a service of instructing individuals made online may be exempt under section 8 where the service meets the requirements of this section. However, it can be difficult to determine whether a supply made online is a supply of intangible personal property (IPP) or a service. Refer to [GST/HST Technical Information Bulletin (TIB) B-090, GST/HST and Electronic Commerce](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-090.html), for information on determining whether a supply made online is a supply of IPP or a service.
+
+As explained in TIB B-090, the determination of the nature of a supply that is made by electronic means is based on applying a number of factors and requires consideration of all relevant facts. If it has been determined that the on-line supply is a service it must be determined whether the supply is one of a “service of instructing” individuals in order for the exemption under section 8 to apply. The CRA has developed an informal set of factors that are generally present when a supply is that of a “service of instructing” versus a supply of “intangible personal property”.
+
+The factors that generally indicate that a supply is a service of instructing are:
+
+- the activity involves the provision of systematic instruction;
+
+- the supplier monitors or supervises the progress or learning of the participant;
+
+- the supplier assesses the participant’s progress during the course of the activity and provides ongoing support, feedback and guidance to the participant;
+
+- the supplier may be available to assist the participant with the subject matter at a time and location different from the time and place in which the activity occurs;
+
+- the supplier assesses the competency of the participant upon completion of the activity by requiring the participant to formally demonstrate the knowledge the participant has acquired, and if the competency is not achieved, the activity may have to be repeated;
+
+- the participant is required to invest time and effort outside of the activity (e.g., completing assignments, reading course material);
+
+- successful completion of verified prerequisites may be required before the participant may take part in the activity (e.g., before taking intermediate computer skills, the participant must demonstrate that he/she has completed introductory computer skills);
+
+- the participant may be required to successfully complete the activity before being permitted to participate in another activity;
+
+- the activity is part of a series of activities leading to a formal recognition of skills;
+
+- the activity may be part of a program that consists of a series of two or more related activities;
+
+- the activity occurs at set intervals over an extended period of time (such as weeks or months);
+
+- the activity does not include the provision of rights or if there is a provision of rights they are incidental to or part of a single supply of a service (e.g., right to use library facilities);
+
+- the subject of the activity is broad (e.g., Canadian History);
+
+- the supplier advertises or promotes the activity as instructing participants;
+
+- the activity is promoted together with other activities in a prospectus or calendar prepared by an educational institution;
+
+- the promotional material indicates that the activity is part of a broader program which may lead to a formal recognition of skills; and
+
+- the promotional material is aimed at persons who possess any prerequisites required to participate in the activity.
+
+Where the above factors do not apply, the online supply of the service may not be a supply of a “service of instructing”.
+
+The factors that generally indicate that a supply is not a supply of a “service of instructing”, but is rather a supply of intangible personal property (e.g., admission to a workshop or seminar) include:
+
+- there is little individualized interaction between the supplier and the participant;
+
+- attendance at the activity is sufficient for the participant to receive evidence of successful or satisfactory completion of the activity;
+
+- the supplier’s purpose with respect to the activity is principally to provide information to, or to facilitate the exchange of information amongst, participants;
+
+- the subject of the activity is narrowly focused;
+
+- each activity is discrete with no formal prerequisites for attendance;
+
+- participation in the activity does not serve as a prerequisite for participation in another activity;
+
+- the activity is promoted as a stand-alone activity;
+
+- the activity is promoted as a workshop or seminar to the general public; and
+
+- the activity occurs during a brief, concentrated period of time, such as a few hours, a day or a few consecutive days.
+
+By carefully reviewing the information set out in TIB B-090 suppliers making on-line supplies should be able to determine whether the supply is IPP or a service, and where it is determined that the supply is a service, suppliers should be able to determine whether the supply is a “service of instructing” by applying the factors listed above.
+
+## Admissions to a place of amusement
+
+An admission to a place of amusement supplied by a [public sector body](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/definitions-gst-hst.html) is exempt from GST/HST where the maximum admission price charged for all such admissions is $1 or less.
+
+An admission in respect of a place of amusement, as defined in the [Excise Tax Act](http://laws-lois.justice.gc.ca/eng/acts/E-15/index.html) “means a right of entry or access to, or attendance at, the place of amusement…”.
+
+“Place of amusement” is also defined in the Act and can be broken down into three categories:
+
+1. A “place of amusement” means any premises or place, whether or not enclosed, at or in any part of which is staged or held any
+
+    1. film, slide show, sound and light or similar presentation;
+
+    2. artistic, literary, theatrical, musical or other performance, entertainment or exhibition;
+
+    3. fair, circus, menagerie, rodeo or similar event; or
+
+    4. race, game of chance, athletic contest or other contest or game.
+
+2. A “place of amusement” includes a museum, historical site, zoo, wildlife or other park, and any place where bets are placed.
+
+3. A “place of amusement” includes any place, structure, apparatus, machine or device the purpose of which is to provide any type of amusement or recreation.
+
+To determine whether a place is a “place of amusement”, it is important to examine the categories in the order they appear in the definition. If the first and second categories of the definition do not apply, then the third category of the definition should be examined.
+
+Regardless of the usual purpose of a place or its day-to-day use, a place may, under the first category of the definition, become a place of amusement at a particular moment in time due to an activity being staged or held there. For example, a public institution uses its gymnasium for physical education classes. Once a year, the public institution hosts an arts and crafts exhibition in the gymnasium. The gymnasium becomes a place of amusement during the exhibition as defined in the first category (“any … place … which is staged or held any … artistic … exhibition,”).
+
+In the case of the third category of the definition, it is the purpose of the “place, structure, apparatus, machine or device”, such as the ordinary day-to-day purpose of such a place, which will determine if it is a place of amusement.
+
+If the admission is not exempt as previously explained, it may still be exempt based on another provision in Schedule V to the Act. For example, section 1 of Part V.1 of Schedule V exempts a supply of an admission by a [charity](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/definitions-gst-hst.html) that is not in respect of a place of amusement, such as an admission to most conferences. Section 3 of Part VI of Schedule V exempts admissions by a [public institution](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/definitions-gst-hst.html) to a fund-raising dinner where the public institution could issue a donation receipt for income tax purposes for part of the admission price. For information on other situations where an admission may be exempt, see “Admissions” in [GST/HST Guide RC4082, GST/HST Information for Charities, or Guide RC4081, GST/HST Information for Non-Profit Organizations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4082.html).
+
+The supplies in the following examples are made in Canada.
+
+A non-profit organization hosts free learning events for aspiring authors in the community. At each event, the association offers a bouncy castle for the children of participants – parents pay $1 per child for entry. The bouncy castle is a place of amusement as defined in the third part of the definition (“any place, structure, apparatus, machine or device the purpose of which is to provide any type of amusement or recreation”). However, as the admission price to this place of amusement is not over $1, the supply is exempt from GST/HST.
+
+### Example 2
+
+A charity that is a GST/HST registrant allows visitors to tour its architecturally unique church in the afternoons for $5 from May to October. Although the supply is an admission, it is not an admission to a place of amusement – the church is not a place of amusement under any of the categories of the definition. The admission to the church is exempt from GST/HST, as the supply is made by a charity and is of an admission that is not in respect of a place of amusement.
+
+During the evenings from May to October, a music concert takes place in the church. Visitors are charged $10 to attend the concert. The church building is a place of amusement during the concert as defined in the first category of the definition (“any … place … at or in any part of which is staged or held any … musical or other performance, …”). As the maximum admission price to this place of amusement is over $1, and no other exemption applies, the admission to the concert is subject to GST/HST.
+
+### Example 3
+
+A museum that is a charity for GST/HST purposes and a GST/HST registrant charges $6 to view its collection. The museum is a place of amusement as it is specifically included in the second category of the definition. As the maximum admission price to this place of amusement is over $1, and no other exemption applies, the admission to the museum is subject to GST/HST.
+
+### Example 4
+
+A charity that is a GST/HST registrant hosts public skating at a skating rink where skaters aged 2 to 5 years are charged an admission price of $0.50, skaters aged 6 to 12 are charged an admission price of $1, and skaters aged 13 and over are charged an admission price of $2.50. The skating rink is a place of amusement as defined in the third category of the definition (“any place … the purpose of which is to provide any type of amusement or recreation”). Although the charity charges admission prices of $1 or less for some of the admissions, one of the admission prices is more than $1 and no other exemption applies, so all the supplies of admissions, regardless of price, are subject to GST/HST.
+
+## Information on deemed trust
+
+A deemed trust is created by statute, such as the *Excise Tax Act* (the Act). When a business collects GST/HST and holds these amounts until they are required to be remitted to the CRA, the Act creates a trust relationship known as a “deemed trust” and these amounts are considered to belong to the government.
+
+As a business that collects GST/HST, you hold in trust the GST/HST amounts you collect from your customers. For each reporting period of your business, you must send these amounts to the CRA, along with any GST/HST amounts that you have billed to your customers. Input tax credits can be deducted from the amount to be paid. If deemed trust amounts are not remitted when they are due, steps will be taken by the CRA to recover them.
+
+A similar deemed trust is created under the *Air Travellers Security Charge Act*.
+
+These deemed trust amounts are important sources of revenue which are collected by businesses as agents of the government. In order to protect these amounts from being diverted to other creditors, Parliament enacted powerful collection tools. These tools allow the CRA to ensure that the government has the revenues it needs to support social programs and to address priorities that impact all Canadians.
+
+A series of questions and answers is published on the CRA webpage [Information on deemed trust](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/when-you-money-collections-cra/information-on-deemed-trust.html). This information provides general guidance to businesses that are required to hold amounts in trust and remit these to the CRA. Additionally, this information is beneficial for creditors/lenders/suppliers in situations where they have received payments from one of their clients that was indebted to the CRA for deemed trust amounts. In these situations, the CRA may assert its deemed trust priority and act to recover these amounts.
+
+## Upcoming changes to Form GST523
+
+A non-profit organization (NPO) is generally eligible for a public service bodies’ rebate if it is a qualifying NPO. To be considered a qualifying NPO at any time in a fiscal year, the NPO's percentage of government funding for the fiscal year must be at least 40% of its total revenue. In order to demonstrate to the CRA that it is a qualifying NPO, an NPO has to file Form GST523, *Non-profit Organizations - Government Funding*, for each completed fiscal year.
+
+Effective May 18, 2016, Form GST523, Non-profit Organizations - Government Funding, is changing. The new version of the form is more detailed and clarifies for which year an NPO wants to be considered a qualifying NPO.
+
+The former version of Form GST523 contained three calculation options, while the new version will no longer require an NPO to determine which calculation option applies to its situation. Rather, an NPO will provide information about its sources of government funding and total revenue for the year it wants to be considered a qualifying NPO. An NPO will only be required to perform additional calculations when it has not met the 40% threshold in that year. This new format should result in fewer calculations by the NPO and a more efficient and accurate processing by the CRA.
+
+To avoid delays in processing your public service bodies’ rebate, please ensure you are completing and filing the most up-to-date version of Form GST523 (available May 18, 2016).
+
+## Manage direct deposit
+
+If you are a business owner or representative with Level 3 (Delegated Authority) authorization, you can start, update, or stop a direct deposit online for one or more of your business accounts with the CRA.
+
+By starting or updating direct deposit, you are authorizing the CRA to deposit any money owing to you under your business account(s) in the bank account(s) you specify.
+
+You will no longer receive a cheque in the mail.
+
+If you choose to stop direct deposit, you are authorizing the CRA to remove the bank information on file and to send a cheque in the mail for any money owing to your business account(s) to the mailing address on file.
+
+For more information, or to manage your direct deposit, go to:
+
+- [www.cra.gc.ca/mybusinessaccount](http://www.cra.gc.ca/mybusinessaccount) if you are a business owner; or
+
+- [www.cra.gc.ca/representatives](http://www.cra.gc.ca/representatives) if you are an authorized representative.
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from April 1, 2016 to June 30, 2016, on overdue amounts payable to the Minister is 5%. The prescribed annual rate of interest on amounts owed by the Minister (i.e., rebates or refunds) is 1% for corporate taxpayers and 3% for non-corporate taxpayers. These rates are applicable to income tax, excise tax, the softwood lumber products export charge, GST/HST, the air travellers security charge (ATSC) and excise duty on wine, spirits and tobacco.
+
+The prescribed annual rate of interest respecting excise duty on beer, on overdue amounts payable for the indicated period, is set at 3%. Refund interest rates are not applicable for amounts owed by the Minister (i.e., rebates or refunds) for excise duty that is in relation to beer.
+
+|  | GST/HST, Excise Tax, Softwood Lumber Products Export Charge, Excise Duty (wine, spirits, tobacco), ATSC, Income Tax | Excise Duty (beer) |  |  |
+
+| --- | --- | --- | --- | --- |
+
+| Period | Refund Interest Corporate Taxpayers | Refund Interest Non-Corporate Taxpayers | Arrears and Instalment Interest | Arrears Interest |
+
+| April 1 to June 30, 2016 | 1% | 3% | 5% | 3% |
+
+| January 1 to March 31, 2016 | 1% | 3% | 5% | 3% |
+
+| October 1 to December 31, 2015 | 1% | 3% | 5% | 3% |
+
+| July 1 to September 30, 2015 | 1% | 3% | 5% | 3% |
+
+Prescribed rates for previous years are available at [www.cra.gc.ca/interestrates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## What’s new in publications
+
+The following is a list of new or revised excise and GST/HST forms and publications.
+
+### GST/HST regulations
+
+- [SOR/2016-4, Various GST/HST Regulations, No. 7 (Newfoundland and Labrador – Rebate for Municipalities)](http://www.gazette.gc.ca/rp-pr/p2/2016/2016-02-10/html/sor-dors4-eng.php)
+
+### GST/HST forms
+
+- [GST59, GST/HST Return for Imported Taxable Supplies, Qualifying Consideration, and Internal and External Charges](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst59.html)
+
+- [GST489, Return for Self-Assessment of the Provincial Part of Harmonized Sales Tax (HST)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst489.html)
+
+- [GST494, Goods and Services Tax/Harmonized Sales Tax (GST/HST) Final Return for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst494.html)
+
+- [GST498, GST/HST Rebate Application for Foreign Representatives, Diplomatic Missions, Consular Posts, International Organizations, Or Visiting Forces Units](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst498.html)
+
+- [GST499-1, First Nations Tax (FNT) Schedule](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst499-1.html)
+
+- [GST502, Election and Revocation of Election Between Auctioneer and Principal](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst502.html)
+
+- [GST506, Election and Revocation of an Election Between Agent and Principal](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst506.html)
+
+- [GST524, GST/HST New Residential Rental Property Rebate Application](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst524.html)
+
+- [GST531, Return for Self-Assessment of the First Nations Goods and Services Tax (FNGST)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst531.html)
+
+- [RC1, Request for a Business Number](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc1.html)
+
+- [RC1A, Business Number - GST/HST Account Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc1.html)
+
+- [RC1C, Business Number - Import/Export Account Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc1.html)
+
+- [RC79, Deposit Advice](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc79.html)
+
+- [RC325, Address change request](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc325.html)
+
+- [RC4607, GST/HST Pension Entity Rebate Application and Election](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4607.html)
+
+- [RC7190-WS, GST190 Calculation Worksheet](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7190-ws.html)
+
+- [RC7207, GST/HST Rebate Application and Election for GST/HST and QST Purposes for Pension Entities that are Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7207.html)
+
+- [RC7207-1, QST Rebate Application and Election for Pension Entities that are Selected Listed Financial Institutions for GST/HST Purposes Only](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7207-1.html)
+
+- [RC7294, GST/HST and QST Final Return for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7294.html)
+
+- [RC7301, Request for a Business Number for Certain Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7301.html)
+
+- [RC7301A, Business Number - GST/HST Program Account Information and QST Registration for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7301.html)
+
+### GST/HST pamphlets and guides
+
+- RC2, The Business Number and Your Canada Revenue Agency Program Accounts
+
+- [RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html)
+
+- [RC4027, Doing Business in Canada - GST/HST Information for Non-Residents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4027.html)
+
+- [RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html)
+
+- RC4036, GST/HST Information for the Travel and Convention Industry
+
+- [RC4049, GST/HST Information for Municipalities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4049.html)
+
+- [RC4058, Quick Method of Accounting for GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4058.html)
+
+- [RC4064, Disability-Related Information - 2015](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4064.html)
+
+- [RC4081, GST/HST Information for Non-Profit Organizations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4081.html)
+
+- [RC4231, GST/HST New Residential Rental Property Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4231/gst-hst-new-residential-rental-property-rebate.html)
+
+### GST/HST notices
+
+- [NOTICE290, Filing Deadline – Reminder to File Form RC4616 Before January 1, 2016 for Existing Section 156 Elections](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice290.html)
+
+- [NOTICE291, Kahkewistahaw First Nation Implements the First Nations Goods and Services Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice291.html)
+
+- [NOTICE292, Proposed Public Service Bodies' Rebate for Municipalities in Newfoundland and Labrador - Questions and Answers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice292.html)
+
+### GST/HST technical information bulletins
+
+- [B-032, Expenses Related to Pension Plans](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-032.html) (revised)
+
+### Excise duty forms
+
+- [L63, Licence and Registration Application Excise Act, 2001](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/l63.html)
+
+### Excise duty memoranda
+
+- [EDM3-1-2, Licensed Users](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edm3-1-2.html)
+
+All GST/HST, excise duty and excise taxes and special levies publications can be found on the CRA website at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html), at [www.cra.gc.ca/etsl](http://www.cra.gc.ca/etsl) and at [www.cra.gc.ca/exciseduty](http://www.cra.gc.ca/exciseduty).
+
+To receive email notification as soon as a document is published on the CRA website, go to the [electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) page at [www.cra.gc.ca/lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribe to the RSS feed for all new CRA publications and forms, or subscribe to any number of mailing lists for different types of publications.
+
+## Contact us
+
+**More information**
+
+For **GST/HST general enquiries,**call Business Enquiries at 1-800-959-5525. For **GST/HST technical enquiries,**call GST/HST Rulings at 1-800-959-8287.
+
+**Forms and publications**
+
+- To access **GST/HST** forms and publications **online**, visit [www.cra.gc.ca/gsthstpub](http://www.cra.gc.ca/gsthstpub).
+
+- To access **all other**forms and publications **online**, visit [www.cra.gc.ca/forms](http://www.cra.gc.ca/forms) and select by topic, document type or publication number.
+
+- To order forms and publications**by telephone**, call 1-800-959-5525.
+
+**Are you a GST/HST registrant located in Quebec?** To make an enquiry or obtain information on the GST/HST, contact Revenu Québec at 1-800-567-4692 or go to its website at [www.revenuquebec.ca](http://www.revenuquebec.ca/en/default.aspx).
+
+**Account enquiries** For**general information** and to make **enquiries**regarding your **account** (except for softwood lumber products export charge accounts), you can:
+
+- view answers to common enquiries, or submit an enquiry using the online “Enquiries service” on “My Business Account”;
+
+- view account information online at [www.cra.gc.ca/businessonline](http://www.cra.gc.ca/businessonline); or
+
+- call Business Enquiries at 1-800-959-5525.
+
+For **online access**to your **GST/HST**,**air travellers security charge**, **excise tax**and **duty accounts** (such as viewing up-to-date account balances and transactions, transferring payments and more), visit:
+
+- [www.cra.gc.ca/representatives](http://www.cra.gc.ca/representatives), if you are an authorized representative or employee; or
+
+- [www.cra.gc.ca/mybusinessaccount](http://www.cra.gc.ca/mybusinessaccount), if you are the business owner.
+
+For **enquiries**regarding your **softwood lumber products export charge account**, you can:
+
+- view answers to common enquiries or submit an enquiry using the online “Enquiries service” on “My Business Account”;
+
+- view account information online at [www.cra.gc.ca/businessonline](http://www.cra.gc.ca/businessonline); or
+
+- call 1-800-935-0313.
+
+For **enquiries**regarding the**status of specific GST/HST domestic rebate claims,** call Business Enquiries at 1-800-959-5525.
+
+**Selected listed financial institutions (including the ones located in Quebec)**
+
+- For general information, forms and publications visit [www.cra.gc.ca/slfi](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html).
+
+- For **QST** or **GST/HST** **account-related enquiries** or for **registration** for a CRA business number, call Business Enquiries at 1-800-959-5525.
+
+- For **QST** or **GST/HST** **technical enquiries**, call GST/HST Rulings at 1-855-666-5166.
+
+**Help** For **technical support using our online services**:
+
+- business accounts, call 1-800-959-5525
+
+- teletypewriter users, call 1-800-665-0354
+
+- calls outside of Canada and the United States, call collect at 1-613-940-8528
+
+Please have the screen number (bottom right) and, if applicable, the error number and message received on hand when calling.
+
+The *Excise and* *GST/HST News* is published quarterly and highlights recent developments in the administration of the GST/HST, First Nations goods and services tax (FNGST) and First Nations tax (FNT), softwood lumber products export charge, air travellers security charge (ATSC) as well as excise taxes and duties. If you would like to receive a link to each new edition of the*Excise and GST/HST News*as it is published, [subscribe](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/subscribe-a-canada-revenue-agency-electronic-mailing-list.html) to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-excise-gst-hst-news.html).
+
+This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, *Excise and* *GST/HST News*, Legislative Policy and Regulatory Affairs Branch, CRA, Ottawa, ON K1A 0L5.

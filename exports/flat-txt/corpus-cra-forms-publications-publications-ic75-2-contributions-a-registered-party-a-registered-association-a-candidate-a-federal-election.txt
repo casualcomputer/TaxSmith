@@ -1,0 +1,231 @@
+Title: Income Tax Information Circular
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic75-2/contributions-a-registered-party-a-registered-association-a-candidate-a-federal-election.html
+Corpus path: corpus/cra/forms-publications/publications/ic75-2/contributions-a-registered-party-a-registered-association-a-candidate-a-federal-election.md
+Document type: publication
+Last modified: 2022-08-08
+
+# Income Tax Information Circular
+
+**INCOME TAX INFORMATION CIRCULAR**
+
+NO.: **IC75-2R9**
+
+DATE: **November 2016**
+
+SUBJECT: **Contributions to a Registered Party, a Registered Association or to a Candidate at a Federal Election**
+
+This circular cancels and replaces Information Circular IC75-2R8, dated May 5, 2011.
+
+**This version is only available electronically.**
+
+**1.** The Income Tax Act provides for the deduction from tax otherwise payable of a portion of the total eligible amount of monetary contributions to a registered party, a provincial division of a registered party, a registered association, or a candidate, as those terms are defined in the Canada Elections Act. The maximum annual tax credit is $650.00[Footnote1](#fn1) per individual.
+
+**2.** This circular is for agents authorized under the Canada Elections Act to accept monetary contributions, and for contributors.
+
+## Part 1 – Information for authorized agents who may receive contributions
+
+**3.** A **registered agent** is defined in the Canada Elections Act as a person appointed by a registered party, and includes the chief agent of a registered party. The registered agent’s name is recorded in the registry of parties maintained by the Chief Electoral Officer.[Footnote2](#fn2)
+
+**4.** An **electoral district agent** is defined in the Canada Elections Act as a person appointed by a registered association, and includes the financial agent of a registered association. The electoral district agent’s name is recorded in the registry of electoral district associations maintained by the Chief Electoral Officer.
+
+**5.** An **official agent** is defined in the Canada Elections Act as a person appointed by a candidate who is responsible for administering the candidate’s financial transactions for his or her electoral campaign and for reporting those transactions. As part of the nomination process, the candidate must submit the official agent’s name and address in writing to the returning officer. The returning officer is responsible for administering the electoral process in the electoral district for which he or she is appointed, and ensuring that it is handled fairly and impartially.
+
+## Monetary contributions
+
+**6.** A **monetary contribution** is defined in the Canada Elections Act as an amount of money that is not repayable. In the case of a ticketed fundraiser, the amount of the contribution is defined as the difference between the price of the ticket and the fair market value of what the ticket entitles the bearer to receive.
+
+To qualify for the tax credit under the Income Tax Act, the monetary contribution must be made to a registered party, a provincial division of a registered party, a registered association, or a candidate. A monetary contribution may be either cash, to a maximum of $20.00,[Footnote3](#fn3) or a negotiable instrument issued by the taxpayer.
+
+According to the Canada Elections Act, only individuals who are Canadian citizens, or permanent residents of Canada as defined in subsection 2(1) of the Immigration and Refugee Protection Act, can make federal political contributions.
+
+## Receipts
+
+**7.** Receipts for income tax purposes may only be issued for monetary contributions, and only to the contributor. Receipts should show the amount of the monetary contribution, the eligible amount, and the amount of the advantage, if there is one. However, only the eligible amount of a monetary contribution will qualify for a tax credit. Receipts must not be issued for services rendered or contributions in kind.
+
+**8.** Only the candidate’s official agent can issue receipts for income tax purposes for monetary contributions to a candidate at an election. Similarly, only registered agents and electoral district agents can issue receipts for income tax purposes for monetary contributions to a registered party, or to a registered association. Registered agents can issue such receipts, as long as their names are recorded in the registry maintained by the Chief Electoral Officer. Electoral district agents can also issue receipts if their names are recorded in the registry maintained by the Chief Electoral Officer and the leader of the registered party has, in writing, notified the financial agent of the registered association that its agents are authorized to issue those receipts. Official agents can only issue such receipts for monetary contributions received in a certain period. This period starts with the day on which the candidate’s nomination has been confirmed by the returning officer, and ends on the day that is one month after polling day. Contributions received after polling day must have been in transit on polling day to be eligible.
+
+**9.** Receipts for registered agents and electoral district agents must be distributed by the registered party or by the registered association. The receipts must be in a format that is acceptable to the Canada Revenue Agency (CRA). Receipts to be used by a candidate’s official agent must be distributed by the returning officer at the time the candidate’s nomination paper is filed. Registered agents, electoral district agents, and official agents must properly complete receipts to avoid contributors’ tax credits being disallowed by the CRA.
+
+**10.** Every official receipt issued by a registered agent of a registered party must state that it is an official receipt for income tax purposes and, in a manner that cannot readily be altered, must clearly show:
+
+1. the full name of the registered party
+
+2. the serial number of the receipt
+
+3. the name of the registered agent as recorded in the registry maintained by the Chief Electoral Officer, under the Canada Elections Act
+
+4. the date on which the receipt was issued
+
+5. the date on which the contribution was received
+
+6. the place or locality where the receipt was issued
+
+7. the full name and address of the individual making the contribution
+
+8. the amount of the monetary contribution
+
+9. the eligible amount and the amount of the advantage in respect of the monetary contribution
+
+10. the signature of the registered agent
+
+**11.** Every official receipt issued by an electoral district agent of a registered association must state that it is an official receipt for income tax purposes and, in a manner that cannot readily be altered, must clearly show:
+
+1. the full name of the registered association
+
+2. the serial number of the receipt
+
+3. the name of the electoral district agent as recorded in the registry maintained by the Chief Electoral Officer, under the Canada Elections Act
+
+4. the date on which the receipt was issued
+
+5. the date on which the contribution was received
+
+6. the place or locality where the receipt was issued
+
+7. the full name and address of the individual making the contribution
+
+8. the amount of the monetary contribution
+
+9. the eligible amount and the amount of the advantage in respect of the monetary contribution
+
+10. the signature of the electoral district agent
+
+**12.** Every official receipt issued by an official agent of an officially nominated candidate must state that it is an official receipt for income tax purposes and, in a manner that cannot readily be altered, must clearly show:
+
+1. the full name of the officially nominated candidate
+
+2. the serial number of the receipt
+
+3. the name of the official agent as recorded with the Minister of National Revenue
+
+4. the date on which the receipt was issued
+
+5. the date on which the contribution was received, if that day differs from the day referred to in (d) above
+
+6. the polling day
+
+7. the full name and address of the individual making the contribution
+
+8. the amount of the monetary contribution
+
+9. the eligible amount and the amount of the advantage in respect of the monetary contribution
+
+10. the signature of the official agent
+
+In the case of receipts issued by official agents, the information required by paragraph 12(f) may be shown by use of a code on an official receipt issued by the Chief Electoral Officer, provided that the Minister of National Revenue is advised of the meaning of the code used.
+
+**13.** All receipts issued by official agents must be official receipts supplied by the returning officer, and they must be used in the manner prescribed by the Chief Electoral Officer. Official agents are directly responsible for accounting for all official receipts supplied to the agents by the returning officer. Unused receipts must be returned to the returning officer, along with the copy prescribed by the Chief Electoral Officer of all receipts issued, within one month of polling day.
+
+**14.** The number of copies of each receipt issued by registered agents of political parties and by electoral district agents of registered associations will depend on the receipt reporting system adopted by the party or association, but there must be at least two copies:
+
+- the original, to be given to the contributor for income tax purposes
+
+- a copy to be kept by the agent
+
+Parties and associations may want to keep an additional copy for internal reporting purposes.
+
+**15.** Official agents must issue receipts as contributions are received, within the time limits stated in paragraph 8. All other authorized agents can issue one official receipt after the year‑end to cover all contributions made by an individual in the year. In such instances, the receipt must clearly show the year during which the contributions were received.
+
+**16.** The CRA will accept facsimile signatures on official receipts issued by the chief agent of registered parties, by the financial agent of registered associations, or by official agents, if a large volume of receipts must be issued.
+
+**17.** Registered agents, electoral district agents, and official agents should report immediately to the CRA any loss, theft, or other misplacement of official receipts, including the serial numbers of the missing receipts. Send the report to:
+
+Charities Directorate Canada Revenue Agency Ottawa ON K1A 0L5
+
+**18.** As part of a fundraising campaign, activities may be sponsored or held by a candidate, a registered party, or a registered association. In such a case, the patrons may be notified that the amount they have to pay covers the cost of the function as well as a contribution to a candidate, a registered party, or a registered association. If so, the eligible amount of the monetary contribution is the patron’s total payment reduced by the fair market value of what the ticket entitles the patron to obtain.
+
+Registered agents, electoral district agents, or official agents who want to issue receipts for income tax purposes for such contributions, should be able to support the basis used to determine the eligible amount of the monetary contribution made by patrons.
+
+**19.** A **monetary contribution** does not include a contribution that a taxpayer who is an agent authorized under the Canada Elections Act to accept monetary contributions makes in that capacity.[Footnote4](#fn4) An official receipt must not be issued in such a case. If a receipt is issued, the agent must clearly mark “not valid for income tax purposes.” Do not report such amounts on Forms T2092, Contributions to a Registered Party or to a Registered Association Information Return or T2093, Contributions to a Candidate at an Election Information Return (see paragraphs 26, 27, and 28).
+
+**20.** Registered agents of registered political parties and electoral district agents of registered associations can issue replacement receipts to contributors who have lost or misplaced their originals. In such cases, the replacement receipt must clearly show that it replaces the original receipt, and, in addition to its own serial number, must show the serial number of the original receipt. This can be done by marking on the face of the replacement receipt “Duplicate replacing receipt number ______.” The amount shown on the replacement receipt must not be included in the dollar totals on the return.
+
+Registered agents and electoral district agents can also issue receipts to replace spoiled receipts, as long as the registered agent or electoral district agent keeps or recovers the original and all copies of the spoiled receipts (see paragraph 22).
+
+**21.** Official agents of officially nominated candidates can only issue replacements for spoiled receipts, the original of which the agents have kept or recovered, while they still have unused official receipts (see paragraph 22). All other replacement receipts for contributions to a candidate will be issued by the Chief Electoral Officer. When a contributor asks for a replacement receipt from an official agent, and the agent no longer has unused receipts, the agent should contact:
+
+Elections Canada Political Financing and Audit 30 Victoria Street Gatineau QC K1A 0M6
+
+A contributor may make a contribution during the period described in paragraph 8 but, through an oversight or otherwise, no official receipt for income tax purposes is issued by the official agent during the period. In such a case, the agent can get an official receipt for income tax purposes by contacting the Chief Electoral Officer at the above address.
+
+**22.** When a replacement receipt is issued for a spoiled receipt, the original and all copies of the spoiled receipt must be marked “Cancelled – see receipt number ______.” Any receipts written in error, and neither issued nor replaced, should be marked “Cancelled – not replaced.” In either case, the original cancelled receipt and all copies should be kept by the registered agent, the electoral district agent, or the official agent. In the case of official agents, copies of these cancelled receipts should be sent to the office of the Chief Electoral Officer along with the vouchers accompanying the Candidate’s Financial Transactions Return (EC 20120).
+
+**23**. In accordance with subsection 238(1) of the Income Tax Act, every person who has failed to comply with the receipting rules outlined in subsection 127(3.1) or (3.2) is guilty of an offence and, in addition to any penalty otherwise provided, may also be liable to a fine and/or imprisonment.
+
+## Books and records
+
+**24.** Every agent authorized under the Canada Elections Act to accept monetary contributions referred to in that Act must keep records and books of accounts that are sufficient to allow verification of the monetary contributions received by the agent and expenditures made by the agent. These must include a duplicate of each receipt, containing prescribed information, issued for income tax purposes for monetary contributions received by the agent.[Footnote5](#fn5) Such records and books of account must be kept until the day that is two years after the end of the last calendar year that the records and books of account relate to.[Footnote6](#fn6)
+
+**25.** Every official agent of a candidate must deposit amounts contributed in an account standing to the credit of the agent. The account must be with a Canadian financial institution as defined in section 2 of the Bank Act, or in an authorized foreign bank as defined in that section. The foreign bank cannot be subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act.
+
+**26.** Form T2093, Contributions to a Candidate at an Election Information Return, **must** be completed by each official agent of a candidate unless the appointment of such an agent has been terminated, by death or otherwise, and the agent has been replaced. The return must be completed in detail and signed by the official agent or the predecessor official agent. The return will cover the period from the earlier of the date of appointment of the official agent, or the date of appointment of the predecessor official agent, to the date that is one month after the date that is designated as polling day. It must be filed with the Minister of National Revenue no later than four months after the polling day.
+
+This form is available on the CRA website at [cra.gc.ca/forms](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+**27.** Form T2092, Contributions to a Registered Party or to a Registered Association Information Return, **must** be completed by each registered agent, electoral district agent, terminated registered agent, or terminated electoral district agent of a registered party or registered association. In the event of death of a registered agent, the chief agent must complete Form T2092 for the registered agent. In the event of death of an electoral district agent, the financial agent must complete Form T2092 for the electoral district agent. The return must be completed in detail. The return will be for the period from the date after the end of the period last reported (if a previous return has been filed by a registered agent or electoral district agent) or the date of appointment of the registered agent or electoral district agent to the earlier of December 31 of the year, or the date of termination or death of the registered agent or electoral district agent. The return must be filed with the CRA on or before:
+
+- June 30 of the next year for a registered party
+
+- May 31 of the next year for a registered association
+
+This form is available on the CRA website at [cra.gc.ca/forms](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+**28.** On both returns, two separate amounts must be reported: the total amount of monetary contributions received during the period covered by the return; and the total eligible amount of monetary contributions for which official receipts have been issued. In most cases, these two amounts will be the same, unless an advantage has been provided. However, if contributions have been received for which no receipt was issued (for example, minor amounts from small social functions or loose collections), the first amount will be more than the second, and a reconciliation will be required. This reconciliation should also give details of all eligible amounts for which official receipts were issued but the contribution cheque was returned because of insufficient funds. In such a case, the full name and address of the contributor should be given, as well as the receipt number, the amount of the cheque, and the amount for which the receipt was issued.
+
+## Part 2 – Information for contributors
+
+### Who can contribute
+
+**29.**Only individuals who are citizens and permanent residents of Canada can make political contributions to registered parties, registered electoral district associations, candidates, nomination contestants, and leadership contestants. Contributions by corporations and trade unions are prohibited.
+
+### How to calculate a claim
+
+**30.**Under the Income Tax Act, [Footnote7](#fn7) contributions to registered parties, registered associations, and candidates are deductible from tax otherwise payable according to the following table:
+
+| Eligible Amount of Contribution | Deduction |
+
+| --- | --- |
+
+| $0.01 to $400.00 | 75% of contributions |
+
+| $400.01 to $750.00 | $300.00, plus 50% of contributions over $400.00 |
+
+| $750.01 and over | The lesser of $650.00; and $475.00 plus 33 1/3% of the amount by which the total exceeds $750.00 |
+
+All claims must be supported by an official receipt.
+
+The Canada Elections Act limits individual contributions to no more than $1,525.00 in any calendar year to each registered political party, registered association, nomination contestant and candidate, and independent candidate; and no more than $1,525.00 in total to the leadership contestants in a leadership contest. These contribution limits apply for 2016, and will increase by $25.00 on January 1 of each subsequent year. [Footnote8](#fn8)
+
+### How to claim
+
+**31.** The tax calculation schedule for the T1 return allows individuals a claim for the political contributions made to registered parties, registered associations, or candidates.
+
+**32.** Political contributions result in a deduction from tax otherwise payable under Part I of the Income Tax Act rather than a deduction from income, within the limitations stated in paragraph 30.
+
+**33.** The Income Tax Act does not provide for the carryforward of political contribution claims from one year to the next. A political contribution can only be used in calculating a tax deduction for the year in which the contribution was made, and only to the extent of tax otherwise payable.
+
+**34.**Contributors to a registered party or to a registered association can, when necessary, get duplicate copies of official receipts from the issuer of the original.
+
+**35.**Contributors to a candidate at an election can get a duplicate from the official agent only when the original is returned to the agent because it was completed in error or damaged. Also, getting a duplicate can only be done when the agent still has unused official receipts. Unused receipts are returned to the Office of the Chief Electoral Officer soon after each election. In all other cases, such as when receipts are lost, replacements can be obtained by writing to:
+
+Elections Canada Political Financing and Audit 30 Victoria Street Gatineau QC K1A 0M6
+
+When writing, give the name of the electoral district, the name of the candidate, date of contribution, date of original receipt, and amount. This information will help the Chief Electoral Officer to confirm your contribution and issue a proper replacement.
+
+## For more information
+
+If you need more information on the Canada Elections Act, visit [elections.ca](http://www.elections.ca/).
+
+If you need more information on this circular or its related forms, go to [cra.gc.ca/charities](https://www.canada.ca/en/services/taxes/charities.html).
+
+You can reach the Charities Directorate:
+
+- by phone: 1-800-267-2384
+
+- by TTY service for persons with a hearing or speech impairment: 1-800-665-0354
+
+- by fax: 613-954-8037
+
+By mail:
+
+Charities Directorate Canada Revenue Agency Ottawa ON K1A 0L5

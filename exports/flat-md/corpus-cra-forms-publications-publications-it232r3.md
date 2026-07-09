@@ -1,0 +1,22 @@
+---
+title: "IT232R3 ARCHIVED - Losses - Their Deductibility in the Loss Year or in Other Years"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it232r3.html
+last_modified: 2025-08-26
+---
+# IT232R3 ARCHIVED - Losses - Their Deductibility in the Loss Year or in Other Years
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+This bulletin discusses the rules that determine the extent to which various types of losses can be used in the taxation year in which a loss is incurred.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [it232r3-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it232r3/archived-losses-their-deductibility-loss-year-other-years.html)

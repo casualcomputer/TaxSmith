@@ -1,0 +1,470 @@
+---
+title: "ARCHIVED - Interspousal and Certain Other Transfers and Loans of Property"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it511r/archived-interspousal-certain-other-transfers-loans-property.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Interspousal and Certain Other Transfers and Loans of Property
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO.: **IT-511R**
+
+DATE: February 21, 1994
+
+SUBJECT: INCOME TAX ACT**Interspousal and Certain Other Transfers and Loans of Property**
+
+REFERENCE: Section 74.2 and subsection 74.1(1) (also section 74.3 and subsections 56(4.1) to (4.3), 74.5(1) to (3), (5) to (12), 96(1.8), 248(5), (22), (23) and (25) and 252(4))
+
+**Notice to the reader:**
+
+- [Bulletins do not have the force of law](https://www.canada.ca/formspubs/pbs/tntc-eng.html).
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it511r.html).
+
+## Application
+
+This bulletin cancels and replaces Interpretation Bulletin IT-511, dated December 30, 1987, primarily to describe relevant changes in the Income Tax Act since that bulletin was published.
+
+## Summary
+
+This bulletin discusses a comprehensive set of rules intended to prevent a taxpayer and the taxpayer's spouse from splitting income from property so as to reduce the total amount of tax payable on that income. Except where fair market value consideration is paid by the spouse or the parties are living separate and apart by reason of a breakdown of their marriage, income earned and capital gains and losses realized on property transferred or loaned from a taxpayer to the taxpayer's spouse (and on property substituted for that property) are generally deemed to be the income, gains or losses of the taxpayer and not of the taxpayer's spouse.
+
+The bulletin also discusses an anti-avoidance rule that applies, in certain cases, where an individual incurs indebtedness to acquire property, to attribute the income from the property (and on property substituted for that property) to the debtor. The provision applies where, among other things, the individual and the debtor do not deal at arm's length and one of the main reasons for the indebtedness was to reduce or avoid tax.
+
+While this bulletin deals only with the attribution rules relating to spouses, subsections 74.1(2) and 75(2) also apply to attribute the income from property in certain circumstances. For comments on these subsections, see the current versions of IT-510, *Transfers and Loans of Property made after May 22, 1985 to a Related* *Minor*, and IT-369, *Attribution of Trust Income to Settlor respectively*.
+
+The commentary below discusses the applicable rules in greater detail.
+
+## Discussion and Interpretation
+
+1. In this bulletin, the terms listed below have the following meanings:
+
+**Transferred or Loaned Property:** means all transfers or loans of property whether accomplished directly or indirectly, by means of a trust or by any other means. An indirect transfer occurs for example, where a husband and wife own all the shares of a corporation in a ratio of 90:10 and the corporation issues sufficient shares to the wife for consideration that is less than the fair market value of the additional shares to change the ratio of ownership to 50:50. A transfer includes a sale whether or not at fair market value, as well as a gift but does not include a genuine loan.
+
+**Spouse:** Subsection 252(4), which applies after 1992, expands the meaning of spouse to include a person of the opposite sex who at a particular time lives with the taxpayer in a conjugal relationship and either has so lived with the taxpayer throughout a 12-month period ending before that time, or the two individuals are the parents of the same child. Where individuals have lived with each other as spouses in the past, they shall be deemed to be living as spouses at any later time. However, if the spouses have lived apart for a period of at least 90 days because of a breakdown of their conjugal relationship, then commencing at the beginning of that 90 day period they will no longer be deemed to be living as spouses. A person can become the individual's spouse either as a result of their marriage or as a consequence of the operation of subsection 252(4). Prior to 1993, a party to a common-law relationship was not regarded as a spouse in respect of that relationship. The rules in subsections 74.1(1) and 74.2(1) apply to a person who is an individual's spouse or to a person who became the individual's spouse after the loan or transfer of property was made to that person. The rules in sections 74.3 and 74.4 apply to a designated person which includes a person who at any time is an individual's spouse.
+
+***Note:** On August 30, 1993 the Minister of Finance issued* Amendments to the Income Tax Act and Related Statutes. *Explanatory notes were issued which elaborate on the proposed changes. The Explanatory notes describe that subsection 252(4) will be amended to ensure that where the two individuals are considered to be spouses because they are the parents of the same child, they will be so considered only if they are the natural or adoptive parents of that child. If enacted as proposed the amendment will apply after 1992.*
+
+**Marriage:** After 1992, by virtue of subsection 252(4), a reference to marriage includes a conjugal relationship between two individuals that would make them spouses of each other.
+
+**Beneficially Interested:** An individual is "beneficially interested" in a trust if the individual has any right (whether immediate or future, whether absolute or contingent or whether conditional on or subject to the exercise of a discretionary power by any person or persons) to receive any of the income or capital of the trust, either directly from the trust or indirectly through one or more other trusts. See 15 below for examples of situations where an individual is beneficially interested in a trust.
+
+**Substituted Property:** Paragraph 248(5)(a) provides that in the circumstances discussed in this bulletin, where a taxpayer has disposed of or exchanged a particular property and acquired other property in substitution for it and subsequently, by one or more further transactions, has effected one or more further substitutions, the property acquired by any such transaction is deemed to have been substituted for the particular property. For further comments on this topic see 27 below.
+
+**Designated Person:** pursuant to subsection 74.5(5), a "designated person" in respect of an individual means a person who is
+
+(a) the individual's spouse or
+
+(b) a related minor.
+
+**Related Minor:** a person who is under 18 years of age, and who
+
+(a) does not deal with the individual at arm's length (e.g. a parent and a child or other descendant whether by blood relationship or adoption, do not deal at arm's length - see the current version of IT-419, Meaning of Arm's Length), or
+
+(b) is a niece or nephew of the individual.
+
+**Prescribed Rate:** means the interest rate prescribed by section 4301 of the Regulations.
+
+### Attribution of Income from Transferred or Loaned Property
+
+2. Subsections 74.1(1) and 74.3(1) provide that where an individual has transferred or loaned property (including money) to the individual's spouse or to a trust in which that spouse is beneficially interested at any time any income or loss from the property or property substituted for it is deemed to be the individual's income or loss for a taxation year. See the discussion under the "Exclusions" caption starting at 18 below for exceptions to the rules. Further, although subsections 74.1(1) and 74.3(1) do not apply to common-law relationships before 1993, subsection 56(4.1) applies to attribute income on indebtedness of one individual to another where, among other things, the individuals do not deal at arm's length. Other than individuals connected by blood relationship, marriage or adoption, it is a question of fact whether the parties to a relationship deal with each other at arm's length at a particular time. See 30 to 34 below for a discussion of subsections 56(4.1) to 56(4.3).
+
+### Attribution of Capital Gains and Losses
+
+3. Pursuant to paragraphs 74.2(1)(a) and (b), where an individual has transferred or loaned property to the individual's spouse any taxable capital gains or allowable capital losses arising from the dispositions of the property or property substituted for it (other than listed personal property) are deemed to be taxable capital gains or allowable capital losses of the individual. Also, pursuant to paragraphs 74.2(1)(c) and (d), any gains or losses arising from the disposition of loaned or transferred listed personal property or property substituted for it are deemed to be gains or losses of the individual from the disposition of the listed personal property. See the discussion under the "Exclusions" caption starting at 18 below for exceptions to the rules.
+
+4. Any taxable capital gains and allowable capital losses on dispositions of property attributed to a transferor by virtue of subsection 74.2(1) may be included in computing the transferor's lifetime capital gains deduction under section 110.6.
+
+### Application of Attribution Rules
+
+5. It is necessary to distinguish between income or loss from property and income or loss from a business. Neither subsection 56(4.1) nor 74.1(1) applies to attribute business income or losses even if the business operates with some or all of the property obtained originally from the transferor. Although the income from a partnership is usually income from a business, subsection 96(1.8), which generally applies to 1989 and subsequent taxation years, provides an exception for the purposes of sections 74.1 and 74.3 and subsection 56(4.1). Where a taxpayer is a specified member of a partnership, that person's share of the income or loss of the partnership for a fiscal period, in which the person was a member of the partnership, is deemed by subsection 96(1.8) to be income or loss from property. "Specified member" is defined in subsection 248(1) and is essentially a member of a partnership who is a limited partner (as defined in subsection 96(2.4)), an inactive partner or a person who is not engaged in a business similar to that carried on by the partnership except as a member of the partnership.
+
+6. Income or loss derived from the investment or other use of the income from transferred property is not attributed to the transferor and thus for income tax purposes is income or loss of the transferee. For example, interest on any interest allowed to accumulate is not attributed to the transferor and is income of the transferee.
+
+7. Pursuant to subsection 74.1(3), the attribution rules in subsection 74.1(1) apply to transferred or loaned property which is used either to repay borrowed money that was used to acquire property or to reduce an amount payable for that property. For example, if an arm's length lender lends a taxpayer the money to acquire income producing property and later, the taxpayer's spouse makes a gift to the taxpayer equal to the taxpayer's indebtedness on the property and the gift is applied to retire the indebtedness, the income from the property will attribute to the taxpayer's spouse.
+
+8. Subsection 74.5(6) applies in two situations where an individual has transferred or loaned property to a third party. The provision applies where
+
+(a) the property or substituted property is, or
+
+(b) the transfer or loan occurs on condition that any property be,
+
+transferred or loaned by a third party to or for the benefit of the individual's spouse. Where the subsection applies, pursuant to paragraph 74.5(6)(c), the property transferred or loaned by the third party is deemed to have been transferred or loaned by the individual to or for the benefit of the spouse and, pursuant to paragraph 74.5(6)(d), any consideration received by the third party is deemed to have been received by the individual.
+
+9. Subsection 74.5(7) applies where an individual must ensure repayment of a loan or any interest on a loan that is made by a third party to or for the benefit of the individual's spouse. Where the provision applies, the property loaned by the third party is deemed to have been loaned by the individual to or for the benefit of the spouse, and interest paid on the loan by the individual is ignored for the purposes of paragraphs 74.5(2)(b) and (c) (see 22 below).
+
+10. Subsection 74.5(9) provides that where an individual has transferred or loaned property to a trust in which the individual's spouse is beneficially interested the transfer or loan is deemed to be for the benefit of the spouse.
+
+11.Where an individual has transferred or loaned property to a trust in which a designated person who is the individual's spouse is beneficially interested at any time, paragraph 74.3(1)(a) applies to determine an amount that is deemed to be the income of the spouse from the property. This income is included in the individual's income pursuant to subsection 74.1(1).
+
+12. Pursuant to paragraph 74.3(1)(a) the income of the spouse from the property transferred or loaned to the trust is the lesser of
+
+(a) the spouse's income under paragraph 12(1)(m) from the trust, and
+
+(b) the proportion of the income earned by the trust from the transferred or loaned property that
+
+(i) the spouse's income under paragraph 12(1)(m) from the trust
+
+is of
+
+(ii) the aggregate income from the trust of all persons each of whom is throughout the year a related minor or the individual's spouse.
+
+In (b) the "income earned by the trust" excludes capital gains and is calculated before any deductions under subsection 104(6) or (12).
+
+13. Paragraph 74.3(1)(b) applies where an individual has transferred or loaned property to a trust in which the individual's spouse is beneficially interested at any time to determine the taxable capital gain of the spouse that is attributed to the individual pursuant to subsection 74.2(1) (see 3 above). The attributed amount is the lesser of
+
+(a) the amount that was designated under subsection 104(21) for the spouse in the trust's income tax return for the year, and
+
+(b) the net taxable capital gains for the year from the disposition by the trust of property that has been transferred or loaned to the trust by the individual.
+
+14. An example of the operation of subsection 74.3(1) follows:
+
+An individual transfers, for no consideration, bonds which pay interest of $1,500 per annum to a family trust the beneficiaries of which are the individual's spouse and two children, one of whom is 16 years of age and the other 20 years of age. The trust's income before any deductions under subsection 104(6) or (12) is $2,700, including a taxable capital gain of $300, of which $180 was realized on the disposition of the bonds transferred from the individual. Each beneficiary has an equal entitlement to the trust income, all of which is payable in the year. The trust designated $100 of taxable capital gains for each beneficiary.
+
+The spouse and the 16 year old child are designated persons.
+
+The income from the transferred bonds for each designated person is the lesser of:
+
+- the income of the designated person from the trust = $800 (i.e., 1/3 of ($2,700 − $300)), and
+
+- (A × B) ÷ C,
+
+where
+
+A is the income of the trust from the transferred property ($1,500),
+
+B is the income of the designated person from the trust ($800), and
+
+C is the income of all the designated persons from the trust ($1,600).
+
+($1,500 × $800) ÷ $1,600 = $750
+
+Income of $750 is attributed to the individual from the spouse.
+
+The taxable capital gain from the transferred property for the spouse is the lesser of:
+
+- the amount designated under subsection 104(21) for the spouse ($100), and
+
+- the net taxable capital gain realized on the disposition of the transferred bonds ($180).
+
+A taxable capital gain of $100 is attributed to the individual from the spouse.
+
+15. The following are examples of situations where an individual is beneficially interested in a trust:
+
+(a) trust income is payable to the individual;
+
+(b) income is held in trust and will be paid upon the individual's attainment of a certain age;
+
+(c) the individual is one for whom a preferred beneficiary election may be made;
+
+(d) the individual is one of a class who has a remainder interest under the trust.
+
+The individual is beneficially interested in the trust in (b) even if the individual's right to receive income ceases if the individual should die before attaining the specified age. Similarly, the individual is beneficially interested in the trust in (c) even if the trustees have full discretionary powers concerning the distribution of the capital or income of the trust so that the individual may in fact receive nothing from the trust.
+
+16. If depreciable property of a prescribed class is transferred to a spouse and immediately before that time the spouse had no property of that class, the income or loss from the property attributed to the transferor must reflect any amount of capital cost allowance, terminal loss or recapture of capital cost allowance for the class which would otherwise be taken into account in computing the income of the spouse.
+
+If depreciable property of a prescribed class is transferred to a spouse and immediately before that time the spouse had other property of that class,
+
+(a) a reasonable portion of the capital cost allowance claimed by the spouse for the class (which may not exceed the maximum capital cost allowance that would be deductible for the transferred property if the property were in a separate class) may be deducted in computing the income or loss from the property attributable to the transferor, and
+
+(b) also in that computation, a terminal loss or recapture of capital cost allowance that would otherwise be included in computing the income of the spouse for the class of depreciable property must be taken into account to the extent that such amount can reasonably be considered to relate to the transferred property.
+
+After the year of disposition of the transferred property and provided a substituted depreciable property is not acquired by the spouse, there is no attribution of income or loss in respect of any capital cost allowance, terminal loss or recapture of capital cost allowance that arises for the class.
+
+17. Where income arises from depreciable property transferred to a trust the amount attributed to the transferor is determined as described in 12 above, even though the trust's income calculation includes amounts for capital cost allowance, terminal loss or recapture of capital cost allowance for the class.
+
+### Exclusions
+
+18. Subsections 74.1(1) and 74.2(1) do not apply to attribute any income or loss or any taxable capital gains or allowable capital losses to the transferor that relates to a period
+
+(a) following the death of the transferor or transferee,
+
+(b) throughout which the transferor is not resident in Canada, or
+
+(c) after the transferee ceases to be the transferor's spouse, (e.g., when a divorce becomes final).
+
+19. By virtue of paragraph 74.5(3)(a), the attribution rules for income under subsection 74.1(1) do not apply for the period when spouses are living separate and apart by reason of a breakdown of their marriage.
+
+20. By virtue of paragraph 74.5(3)(b), the attribution rules for capital gains under subsection 74.2(1) do not apply to dispositions of property occurring at any time while the spouses are living separate and apart because of a breakdown of their marriage if the spouses jointly elect not to have section 74.2 apply. Section 74.2 will cease to apply for the year the joint election is filed and thereafter. The election, which may be filed for any taxation year ending after the separation, should be filed with the transferor's income tax return.
+
+21. Pursuant to subsection 74.5(1), income or loss from transferred property or any taxable capital gains or allowable capital losses on the disposition of the transferred property does not attribute to the transferor in a particular year where
+
+(a) the sale or other transfer is made to the transferor's spouse for consideration equal to fair market value of the transferred property,
+
+(b) the sale price or other consideration for the transfer is
+
+(i) fully paid by the transferee in cash or kind (and not from property furnished by the transferor), or
+
+(ii) satisfied in whole or in part by indebtedness on which interest is charged at a rate not less than the lesser of
+
+(A) the prescribed rate and
+
+(B) the rate that would be agreed upon between arm's length parties under similar circumstances
+
+at the time the indebtedness is incurred, if all such interest is paid no later than 30 days after the end of each calendar year in which it becomes payable, and
+
+(c) the transferor elects not to have the provisions of subsection 73(1) apply (i.e., any gain or loss is realized at the time of transfer).
+
+If the interest in (b)(ii) is not paid within the described time then the indebtedness will not meet the requirements for exemption from the attribution rules under subsection 74.5(1) in the particular year or in any later year.
+
+See the current version of IT-325, *Property Transfers After Separation, Divorce and Annulment*, for comments on subsection 73(1).
+
+22. Pursuant to subsection 74.5(2), subsections 74.1(1) and 74.2(1) do not apply in a particular year to loans where interest is charged on the indebtedness at a rate not less than the lesser of
+
+(a) the prescribed rate and
+
+(b) the rate that would be agreed upon between arm's length parties under similar circumstances
+
+at the time the indebtedness is incurred, if all such interest is paid no later than 30 days after the end of each calendar year in which it becomes payable.
+
+If the interest is not paid within the described time then the indebtedness will not meet the requirements for exemption from the attribution rules under subsection 74.5(2) in the particular year or in any later year.
+
+If property has been acquired with a loan that satisfied the requirements of subsection 74.5(2) and the loan is repaid, neither subsection 74.1(1) nor 74.2(1) will apply after the repayment to income earned on the property or capital gains arising on the disposition of the property.
+
+When a loan that satisfied the requirements of subsection 74.5(2) is forgiven the exemption in subsection 74.5(2) ceases to apply and section 80 becomes applicable.
+
+23. Paragraph 74.5(12)(a) provides that neither subsection 74.1(1) nor 74.2(1) is applicable to attribute amounts arising from premiums paid under a registered retirement savings plan where the transferor's spouse is the annuitant to the extent the premium is deductible under subsection 146(5.1) or paragraph 60(j.2).
+
+24. Paragraph 74.5(12)(a.1) provides that neither subsection 74.1(1) nor 74.2(1) is applicable to attribute amounts contributed, as permitted by paragraph 60(v), to a prescribed provincial pension plan under which the individual's spouse is the annuitant or the owner of the account under the plan, provided the contributions to the plan do not exceed the amount provided for by paragraph 74.5(12)(a.1). Part LXXVIII of the Regulations identifies the prescribed provincial pension plans.
+
+25. Paragraph 74.5(12)(b) provides that the attribution rules described in subsection 74.1(1) and subsection 74.2(1) do not apply to an interspousal transfer of property when transferred as or on account of an amount paid that is
+
+(a) deductible in determining the payer's income for the year, and
+
+(b) required to be included in the payee's income.
+
+For example, the payment of money to the payer's spouse as remuneration for services provided in a business conducted by the payer is a transfer of property, but, where conditions (a) and (b) are satisfied, not a transfer to which attribution applies. In such cases, any income or loss or taxable capital gain or allowable capital loss arising from any subsequent investment of the remuneration by the spouse is not attributable to the payer.
+
+26. Subsection 74.1(1) provides an exemption for any portion of a retirement pension that is assigned from one spouse to another pursuant to section 64.1 of the Canada Pension Plan or pursuant to a comparable provision of the Quebec Pension Plan or a prescribed provincial pension plan.
+
+### Substituted Property
+
+27. Where a taxpayer transfers capital property to the taxpayer's spouse and the spouse subsequently disposes of that property and acquires new property in exchange for it, income or losses arising from the spouse's ownership of the new property and any taxable capital gains or allowable capital losses on its disposition are attributed to the taxpayer. Since the foregoing represents a change in the Department's position as set out in IT-258R2 under the caption "Substituted Property Income", the current interpretation will apply only for substituted property acquired by the spouse after December 30, 1987.
+
+### Example
+
+Assume the following:
+
+(1) in 1975, the taxpayer transferred capital property with a fair market value of $50,000 to the taxpayer's spouse at the taxpayer's adjusted cost base of $20,000,
+
+(2) in 1979, the spouse sold the transferred property for $80,000 and acquired a substituted property with the proceeds from the sale,
+
+(3) in 1988, the spouse disposed of the substituted property for $120,000 and acquired substituted property with the proceeds from the disposition, and
+
+(4) in 1990, the spouse disposed of the substituted property for $150,000.
+
+The following are the income tax consequences of each transaction:
+
+(a) Since the taxpayer transferred the property at its adjusted cost base pursuant to subsection 73(1) (as it then applied) there were no tax consequences in 1975.
+
+(b) A $30,000 taxable capital gain (1/2 of the $60,000 gain) was attributable to the taxpayer in 1979.
+
+(c) A $16,666 taxable capital gain (2/3 of 5/8 of the $40,000 gain) was attributable to the taxpayer in 1988 (see IT-258R2).
+
+(d) A $22,500 taxable capital gain (3/4 of the $30,000 gain) was attributable to the taxpayer in 1990.
+
+### Artificial Attribution
+
+28. Subsection 74.5(11) provides that the attribution rules do not apply where one of the main reasons for a transfer or loan of property or a series of these is to reduce the amount of income tax that would be payable on the income or gains. For example, if an individual with little taxable income were to borrow money from a chartered bank to acquire bonds which were subsequently sold at less than fair market value to the individual's spouse who has significant taxable income, subsection 74.5(11) could apply to prevent the attribution from the spouse to the individual of the income from the bonds.
+
+### Partitioning after Dissolution of Matrimonial Regimes in the Province of Quebec
+
+29. Subsections 248(22) and (23), which apply after July 13, 1990, provide rules concerning the ownership of property that is subject to partition following the dissolution of a matrimonial regime, such as a community of property created under the laws of Quebec (or in another civil law jurisdiction).
+
+Property owned continuously by one spouse from a time before that property became subject to the regime is deemed by paragraph 248(22)(a) to be owned exclusively by that spouse. Thus all income or loss and taxable capital gains or allowable capital losses from the property are attributable to the owner spouse where paragraph 248(22)(a) applies. Where paragraph 248(22)(a) does not apply, paragraph 248(22)(b) deems the property to be owned by the spouse who has administration of that property and not by the other spouse. Where paragraph 248(22)(b) applies the income or loss and taxable capital gains or allowable capital losses from the property are attributable to the spouse who has administration of the property.
+
+Subsection 248(23) applies where, as a consequence of the partition of property upon the dissolution of a matrimonial regime, property that was property of one spouse immediately before the dissolution of the regime is allocated to the other spouse or the estate of that other spouse. Where the allocation is to the other spouse, the property is deemed to have been transferred by the former spouse to the latter immediately before the dissolution. Where the dissolution of the matrimonial regime results from the death of one spouse the transfer is deemed to have occurred immediately before the deemed disposition on death. For further comments on subsections 248(22) and (23), see the current version of IT-325, *Property Transfers After Separation, Divorce and Annulment*.
+
+The definition of "spouse" and "former spouse" of a particular individual in subsections 248(22) and (23) is extended by subsection 252(3) to include another individual of the opposite sex who is a party to a voidable or void marriage with the particular individual.
+
+### Example:
+
+The following is an example of how the dissolution of a matrimonial regime may affect the attribution rules in subsections 74.1(1) and 74.2(1).
+
+Assume:
+
+(1) On their marriage, A and B adopted community of property as their matrimonial regime.
+
+(2) At the time of their marriage A owned shares of Opco and retained them until the time described in (4) below.
+
+(3) During their marriage, B acquired and administered shares of Realtyco until the time described in (4) below.
+
+(4) A and B decided to alter their matrimonial regime to that of separation of property and accordingly prepared an inventory of community property.
+
+Pursuant to paragraph 248(22)(a), A is deemed to own the Opco shares and pursuant to paragraph 248(22)(b), B is deemed to own the Realtyco shares.
+
+If, in partitioning the property, A obtains full ownership of the Realtyco shares, pursuant to subsection 248(23) there will have been a transfer of property from B to A immediately before the partitioning. This transfer will be a transfer for the purposes of subsections 74.1(1) and 74.2(1).
+
+If, in partitioning the property, A obtains full ownership of the Opco shares, subsection 248(23) would not apply with the result that there would be no transfer to which subsections 74.1(1) and 74.2(1) could apply.
+
+**Note:** *On August 30, 1993 the Minister of Finance issued* Amendments to the Income Tax Act and Related Statutes. *Explanatory notes were issued which elaborate on the proposed changes. The Explanatory notes describe that*
+
+- *subsection 248(23) will not apply to dispositions arising as a consequence of deaths occurring after December 21, 1992 and*
+
+- *subsection 248(23.1) applies to certain transfers of property in a province where the laws provide for the sharing of certain property owned or acquired by a spouse during marriage. The subsection applies on transfers of property after the death of a taxpayer occurring after December 21, 1992 and deems these transfers of property to have occurred either as a consequence of the death of the taxpayer (in the case of property transferred to the deceased taxpayer's spouse) or immediately before the time that is immediately before the death of the taxpayer (in the case of property transferred to the deceased taxpayer's estate).*
+
+### Subsection 56(4.1) after 1990
+
+30. For income relating to 1991 and later taxation years, subsection 56(4.1) provides that where an individual has received a loan from or become indebted to another individual or a trust under certain conditions the income from that property and property substituted for it is attributed to the creditor. For the subsection to apply, the following conditions must be met:
+
+(a) a particular individual (other than a trust) or a trust in which the individual is beneficially interested must have received a loan from or become indebted to another individual or to a trust (the creditor),
+
+(b) where the creditor is an individual, the individuals must not have dealt at arm's length when the loan or indebtedness arose,
+
+(c) where the creditor is a trust, the "original transferor", that is, an individual other than a trust, must have transferred property to the trust, and the original transferor
+
+(i) must have been resident in Canada at any time when the loan or indebtedness was outstanding and
+
+(ii) must not have dealt at arm's length with the particular individual when the loan or indebtedness arose,
+
+(For example, a mother (the original transferor) who is resident in Canada, settles property in a trust in favour of her son and the trust (the creditor) makes a loan to that son (the particular individual).) and
+
+(d) it must be reasonable to consider that one of the main reasons for making the loan or incurring the indebtedness was to reduce or avoid tax by including in the income of the particular individual income from
+
+(i) the loaned property,
+
+(ii) property that the loan or indebtedness allowed the particular individual to acquire, or
+
+(iii) property substituted for such property.
+
+Income is not attributed under subsection 56(4.1) to the extent that it is attributed under section 74.1.
+
+Where the conditions are met, any income (including amounts included in income pursuant to subsection 104(13) or (14)) of the particular individual for a taxation year from the property noted in (d) above that relates to a time during which
+
+(e) the creditor was resident in Canada and
+
+(f) the particular individual was not dealing at arm's length with the individual (if the creditor is an individual), or the original transferor (if the creditor is a trust)
+
+shall be deemed to be the income of the creditor and not of the particular individual.
+
+Where the creditor is a trust, subsection 75(2) may subsequently apply to deem the income of the trust to be the income of the person described in subsection 75(2). For a discussion of subsection 75(2), see the current version of IT-369, Attribution of Trust Income to Settlor. Where the provisions of subsection 75(2) apply, the income will be taxed under that provision rather than under subsection 56(4.1) as income of the creditor.
+
+***Note:** On August 30, 1993 the Minister of Finance issued* Amendments to the Income Tax Act and Related Statutes. *Explanatory notes were issued which elaborate on the proposed changes. The Explanatory notes describe that subparagraph 56(4.1)(b)(ii), as described in (d)(ii) above, is amended so that it may also apply where one of the main purposes for making a loan or incurring indebtedness was to reduce or avoid tax by causing income from property acquired by a trust in which a particular individual is beneficially interested to be included in the income of that individual. If enacted as proposed the amendment will apply to income relating to periods commencing after December 21, 1992.*
+
+31. Pursuant to subsection 56(4.2), subsection 56(4.1) does not apply to any income derived in a particular taxation year where interest is charged on the loan or indebtedness at a rate that was not less than the lesser of
+
+(a) the prescribed rate and
+
+(b) the rate that would have been agreed upon between arm's length parties under similar circumstances
+
+at the time the loan was made or the indebtedness was incurred, if all such interest was paid no later than 30 days after the end of each calendar year in which it became payable.
+
+If the interest is not paid within the described time then the indebtedness will not meet the requirements for exemption from the attribution rules under subsection 56(4.2) in the particular year or in any later year.
+
+If property has been acquired with a loan which satisfied the requirements of subsection 56(4.2) and the loan is repaid, subsection 56(4.1) will not apply after the repayment to income earned on the property.
+
+32. Pursuant to subsection 56(4.3), the attribution rules in subsection 56(4.1) apply to loaned property or indebtedness which is used either to repay borrowed money that was used to acquire property or to reduce an amount payable for that property.
+
+33. Subsection 56(4.1) does not apply
+
+(a) to transfers of pension benefits between spouses,
+
+(b) to gifts made by one party in a non-arm's length relationship to the other,
+
+(c) after the death of either the individual or original transferor, as the case may be, or the "particular individual,"
+
+(d) to guarantees of indebtedness where the guarantor does not deal at arm's length with the debtor, or
+
+(e) to loans made to a corporation in which a person (such as an adult child), who does not deal at arm's length with the lender, has a significant interest, provided the loan cannot be linked to any loan the corporation has made or will make to the person.
+
+With regard to (d) above, however if the guarantee is honoured by the guarantor and if the purpose test in subsection 56(4.1) is met, the subsection may apply. For example, if a father guarantees a bank loan for an adult son, subsection 56(4.1) will not apply; however, if the father must honour his guarantee and one of the main reasons for the loan was to reduce or avoid tax, then subsection 56(4.1) could apply.
+
+### Subsection 56(4.1) before 1991
+
+34. For income relating to 1989 and 1990, subsection 56(4.1) provides that where an individual loans property to another individual under certain conditions the income from that property or property substituted for it is attributed to the lender. For the subsection to apply, the following conditions must be met:
+
+(a) an individual must have loaned property to another individual,
+
+(b) the individuals must not have dealt at arm's length when the property was loaned and during the period to which the income relates,
+
+(c) it must be reasonable to consider that one of the main reasons for the loan was to reduce or avoid tax (by causing income from the property or substituted property to be included in the income of the other individual) and
+
+(d) the individual was resident of Canada during the period to which the income relates.
+
+Income is not attributed under subsection 56(4.1) to the extent that it is attributed under section 74.1.
+
+Where subsection 56(4.1) applies, any income from property or from property substituted for it is deemed to be income of the individual who is the lender and not of the other individual.
+
+The comments in 31 to 33 above apply equally to loans outstanding in 1989 and 1990.
+
+### Dividend Tax Credit
+
+35. Subsection 82(2) provides, in effect, that where sections 74 to 75 or, after June 18, 1987, subsection 56(4.1) apply and the transferor of property includes in income a dividend received or deemed to be received by the transferee from a taxable Canadian corporation, the transferor is required to gross-up the dividend and is entitled to the dividend tax credit.
+
+### Non-Resident Transferee
+
+36. Where an amount paid or credited to a non-resident of Canada is included in another taxpayer's income by virtue of sections 74 to 75 or, after the 1988 taxation year, subsection 56(4.1) and is thereby subject to tax under Part I of the Act, subsection 212(12) provides that non-resident withholding tax is not exigible on such amount.
+
+### Liability for Payment of Tax
+
+37. Where as a result of a transfer of property an amount (including a taxable capital gain from the disposition of the transferred property or property substituted for it) has been included in the income of a transferor for a taxation year by virtue of sections 74 to 75.1, the transferee and transferor are jointly and severally liable under paragraph 160(1)(d) for any increase in the transferor's Part I tax liability resulting from the inclusion of that amount in income. Furthermore, paragraph 160(1)(e) provides that the transferee and transferor are jointly and severally liable for any liability of the transferor under the Act for the year in which the transfer took place or any preceding taxation year, to the extent that, at the time of the transfer, the fair market value of the transferred property exceeded the fair market value of any consideration received for it. However, pursuant to subsection 160(4), where there has been an interspousal transfer of property pursuant to a decree, order or judgment of a competent tribunal or pursuant to a written separation agreement and, at that time, the spouses were separated and living apart as a result of the breakdown of their marriage, the transferee shall not be liable under paragraph 160(1)(d) to pay any amount with respect to any income from, or any gain from the disposition of, the property so transferred (or property substituted for it) and, for the purposes of paragraph 160(1)(e), the fair market value of the property at the time it was transferred shall be deemed to be nil. Notwithstanding the joint and several liability described above, section 160 does not limit the liability of the transferor under the Act.
+
+If you have any comments regarding the matters discussed in this bulletin, please send them to:
+
+Director, Technical Publications Division Legislative and Intergovernmental Affairs Branch Revenue Canada Customs, Excise and Taxation 875 Heron Road Ottawa, Ontario K1A 0L8
+
+## Explanation of Changes for Interpretation Bulletin IT-511R Interspousal and Certain Other Transfers and Loans of Property
+
+### Introduction
+
+The purpose of the *Explanation of Changes* is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+### Overview
+
+The title of the bulletin has been changed to accommodate a discussion of subsections 56(4.1) to (4.3).
+
+The bulletin reflects amendments to the *Income Tax Act* resulting from Bills C-64 (1987), C-139 (1988), C-28 (1990), C-18 (1991) and C-92 (1993) and makes incidental changes. Proposals contained in the *Amendments to the Income Tax Act and Related Statutes* issued by the Minister of Finance on August 30, 1993 are noted in numbers 1, 29 and 30.
+
+### Legislative and Other Changes
+
+The Summary has been revised to mention subsection 56(4.1) - an anti-avoidance rule that applies where a debt has been incurred to acquire property. In certain circumstances, income from the property is attributed to the lender. This provision is described more fully in numbers 30 to 34 of the bulletin.
+
+In ***¶*** 1, the following changes to the meanings of words have been made:
+
+- "transferred or loaned property" has been expanded to provide an example of indirect transfers.
+
+- "spouse" has been expanded to reflect the addition of subsection 252(4) in Bill C-92, which defines "spouse" to include what is generally referred to as a common-law spouse.
+
+- marriage" has been added to note the Bill C-92 definition in paragraph 252(4)(b).
+
+- "prescribed rate" has been added to note the Regulation which prescribes the rate for interest.
+
+***¶*** 2 was revised to add comments concerning subsections 56(4.1) to (4.3) which attribute income where indebtedness exists between individuals who do not deal at arm's length and one of the main reasons for the indebtedness is to avoid tax by having income included in the hands of the debtor.
+
+Before the definition of "spouse" was expanded these provisions could have applied to the parties in a common-law relationship where it was found as a question of fact that the parties did not deal with each other at arm's length.
+
+***¶*** 5 was revised to describe subsection 96(1.8) which was added by Bill C-139. Generally, income from a partnership is business income; however, subsection 96(1.8) provides an exception where the circumstances discussed in this paragraph apply so that the income from a partnership is deemed to be property income. The result is that the partnership income of a person can attribute to someone else.
+
+***¶*** 7 was revised to add an example which illustrates the operation of subsection 74.1(3).
+
+***¶*** 9 was rewritten to improve clarity.
+
+***¶*** 20 reflects changes to paragraph 74.5(3)(b) contained in Bill C-18. The amendment changes the time at which spouses, following the breakdown of their marriage, may file their joint election to negate the effect of section 74.2.
+
+***¶***s 21 and 22 were revised to reflect the Bill C-28 amendments to subsections 74.5(1) and (2) which changed the reference from "...interest prescribed for the purpose of subsection 161(1)..." to interest at the "prescribed rate". The paragraphs were also revised to explain that if the interest is not paid within the appropriate time, the indebtedness will not meet the requirements for exemption from the attribution rules in the year and in all subsequent years.
+
+***¶*** 22 was further revised to observe that the attribution rules will not subsequently apply if a loan is repaid that previously provided an exception to the application of the attribution rules.
+
+***¶*** 23 is revised to observe that premiums paid to a spousal RRSP and deductible under paragraph 60(j.2) are exempt from the attribution rules.
+
+New***¶*** 24 comments on paragraph 74.5(12)(a.1), added by Bill C-64, which provides that the attribution rules will not apply to interspousal contributions to provincial pension plans.
+
+New ***¶*** 26 replaces the italicized note following former number 24 to describe the amendment to subsection 74.1(1), contained in Bill C-64. The amendment provides that the attribution rules will not apply to the assignment of benefits from certain governmental pension plans.
+
+***¶*** 27, the former ***¶*** 25, is revised to reflect Bill C-139 changes in the inclusion rates for capital gains and losses. For individuals, the proportion of a capital gain that becomes a taxable capital gain has increased from 1/2 to 2/3 after 1987, and to 3/4 after 1989.
+
+New ***¶*** 29 introduces amendments contained in Bill C-18 to subsections 248(22) and (23) to provide rules concerning the ownership of property that is subject to partition following the dissolution of a marriage. These rules only apply to matrimonial property regimes such as community of property created under the laws of Quebec or another civil law jurisdiction. A note has been added following number 29 concerning proposed changes to subsections 248(22) and (23) announced in the *Amendments to the Income Tax Act and Related Statutes* issued by the Minister of Finance on August 30, 1993.
+
+New ***¶***s 30 to 34 describe subsections 56(4.1) to (4.3) before 1991 (Bill C-139) and after 1990 (Bill C-18). Before 1991, subsection 56(4.1) provided that where an individual lent property to a non-arm's length individual and one of the main purposes of the loan was to reduce or avoid tax, the income from the property was deemed to be income of the lender. After 1990, subsection 56(4.1) was broadened to cover all indebtedness and to include trusts as lenders. Subsection 56(4.2) provides an exemption from subsection 56(4.1) when interest on the loan was charged at a commercial rate and the interest was paid within 30 days after the end of the year. Subsection 56(4.3) provides rules that apply on the repayment of existing debt. A note has been added following ***¶*** 30 concerning proposed changes to subsection 56(4.1) announced in the *Amendments to the Income Tax Act and Related Statutes* issued by the Minister of Finance on August 30, 1993.
+
+***¶***s 35 and 36, the former ***¶***s 27 and 28 respectively, were revised to add a reference to subsection 56(4.1) by virtue of amendments in Bill C-139.
+
+***¶***s 3, 4, 6, 8 and 10 to 19 were carried forward substantially unchanged from IT-511 as were ***¶*** 25 (former ***¶*** 24), 28 (former ***¶*** 26) and 37 (former ***¶*** 29).

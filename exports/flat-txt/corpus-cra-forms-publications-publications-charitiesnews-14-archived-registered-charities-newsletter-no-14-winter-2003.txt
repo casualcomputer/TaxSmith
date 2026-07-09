@@ -1,0 +1,191 @@
+Title: ARCHIVED - Registered Charities Newsletter No. 14 - Winter 2003
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/charitiesnews-14/archived-registered-charities-newsletter-no-14-winter-2003.html
+Corpus path: corpus/cra/forms-publications/publications/charitiesnews-14/archived-registered-charities-newsletter-no-14-winter-2003.md
+Document type: publication
+Last modified: 2003-03-28
+
+# ARCHIVED - Registered Charities Newsletter No. 14 - Winter 2003
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## Table of contents
+
+- **From the Director General**
+
+    - [Serving You](#P9_25)
+
+- **What's new**
+
+    - [Information sessions - The RoadShow](#P38_4125)
+
+    - [Policy Consolidation Project](#P52_5237)
+
+    - [Form T3010 information online](#P65_6494)
+
+    - [Adjusting T3010A returns](#P71_7644)
+
+- **Court news:**
+
+    - [Federal court dismisses appeal](#P75_8246)
+
+    - [Abusive donation scheme not allowed](#P85_9465)
+
+- **Reminders and updates**
+
+    - [Registration process speeds up](#P100_12036)
+
+    - [Memo on gift certificates available online](#P104_12523)
+
+    - [What's new for charities on the CCRA Web site](#P108_12929)
+
+- **Issues**
+
+    - [Business Number (BN) and donation receipts](#P114_13188)
+
+- **Policy news**
+
+    - [Policy development](#P159_14920)
+
+    - [Related business](#P165_15855)
+
+    - [New political activity guidelines](#P169_16313)
+
+**From the Director General**
+
+**Serving You**
+
+At the heart of the Canada Customs and Revenue Agency (CCRA)'s Corporate Business Plan (CBP) for 2001-2004 is an ongoing commitment to provide Canadians with the best possible service while making wise investment and management decisions. The CBP's main objective is transforming the CCRA's core business in a way that keeps pace with the changes in technology, business and management practices, and the expectations of Canadians. The Charities Directorate is playing an increasingly active part in this business transformation.
+
+At the end of September 2002, the Minister of National Revenue, the Honourable Elinor Caplan, released an update on the Future Directions initiative. As many of you will have read, Future Directions is about fundamental change in the way the CCRA delivers services. Charities have been identified as one of four key client groups, along with large business, small and medium enterprises, and individual Canadians. There are a number of Future Directions initiatives well under way, and you will read about some of them in this newsletter.
+
+We would appreciate your feedback on this work through responses to our questionnaire on the Future Directions report, which can be found at www.cra-arc.gc.ca/agency/directions/survey-e.html. A pamphlet describing many of the initiatives and accomplishments of Future Directions as it relates to charities will be included with the next newsletter. The text of this pamphlet is presently available at www.cra-arc.gc.ca/E/pub/xi/rc4313/README.html. You can also obtain copies through our toll-free telephone line at 1-800-267-2384 (English) or 1-888-892-5667 (bilingual).
+
+I encourage you to make your views known by e-mailing us at [NAT-OrientationFutures.NAT-FutureDirections@ccra-adrc.gc.ca](mailto:NAT-OrientationFutures.NAT-FutureDirections@ccra-adrc.gc.ca) **.**
+
+You can also write to:
+
+Future Directions Secretariat Canada Customs and Revenue Agency 410 Laurier Avenue West Ottawa ON K1A 0L5
+
+Many of you have waited for the shorter Form T3010A (reduced from 13 to 4 pages), and I am pleased to say that the new form is available to charities for filing periods **ending in 2003 or later**. A sample copy of this form is available on the CCRA Web site at [www.cra-arc.gc.ca/tax/charities/about_t3010-e.html](https://www.canada.ca/chrts-gvng/chrts/bt_t3010-eng.html).
+
+The Joint Regulatory Table, an advisory body created under the Voluntary Sector Initiative, has just completed cross-Canada consultations on its interim report called *Improving the Regulatory Environment for the Charitable Sector*. The report examines how charities are regulated federally and looks at options for change. The Table is reviewing the feedback it has received from town hall meetings, presentations from a wide variety of groups, and numerous written submissions, and is starting to draft its final recommendations. The final report will be presented to Federal Ministers in March 2003.
+
+The question of charities and political activity has received much attention in recent months, and the CCRA has been working hard to clarify the guidance that is currently found in Information Circular 87-1. We have reviewed what the courts have said about what activity is political and what is charitable, and developed guidance that captures the key differences.
+
+One major change to the proposed guidance is that we have narrowed the definition of political activities, so that it no longer includes many attempts to increase public awareness on an issue. This shift in policy should enable charities to increase their public awareness programs and enhance their role in the development of public policy, while respecting the provisions of the *Income Tax Act* as it relates to political activity.
+
+The [draft information circular](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/consultation-feedback-on-policies-guidance.html) is available on our Web site for your reaction and comment. It is our hope to finalize the guidance on political activities by the end of March 2003.
+
+We will consider every comment and while we won't be responding personally, we will appreciate each one. Client service is a key value of the CCRA, and we will continue to build to provide the best possible service.
+
+**Information sessions - The RoadShow**
+
+We completed another successful series of information sessions for registered charities in 2002. In the spring and fall, the CCRA held sessions for clients in 32 cities. More than 4,500 charity representatives participated.
+
+The sessions covered a broader range of topics than in previous years. In addition to explaining how to complete the current Form T3010, *Registered Charity Information Return*, the topics included gifts and receipts, and fundraising.
+
+For future sessions, we are exploring the possible use of videoconferencing as an additional means by which we might reach clients more effectively. We are currently in the early stages of planning. We will keep you informed as we examine how practical and feasible videoconferencing could be as a tool for further enhancing our client service.
+
+In an effort to continually improve these sessions, all aspects of the CCRA's outreach programs are reviewed regularly. If you have any comments or suggestions, please write to us at:
+
+The RoadShow, Charities Directorate Canada Customs and Revenue Agency Ottawa ON K1A 0L5
+
+**Policy Consolidation Project**
+
+As part of our Future Directions initiative, consultations with the charitable sector and interested members of the public were undertaken to identify ways to provide Canadians with improved services. The process notably identified the need for our clients to be able to locate the policies, rules, and regulations regarding charities in one, easy-to-access source. This would result in greater transparency, as well as more effective and efficient service.
+
+The CCRA's Charities Directorate has been working on consolidating all its existing policy documents into one, publicly accessible, continuously updated resource available on our [Web site](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance.html). All major existing policy documents have been reviewed, classified, and revised. To aid research, the information has been divided into two levels:
+
+- a summary policy level, and
+
+- a technical level.
+
+The summary policy level consists of short statements written in plain language and covering a wide range of topics. These statements are linked to a variety of related documents of a more technical nature, such as policy statements and policy commentaries.
+
+The first phase of this project went online in December 2002. Our intention is to expand this initiative over the next year.
+
+**Form T3010 information online**
+
+To achieve the shared goal of promoting charity and charitable giving, the CCRA is working with the charitable sector to promote and enhance transparency and accountability in the operations of charities in Canada. Towards this goal, the Voluntary Sector Initiative (VSI) recommended the development of a mechanism to display non-confidential charity information on the Web. The first part of this information - which includes the [2000 T3010 annual information returns](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities-listings.html) - became available on the CCRA Web site on November 5, 2002. In the future, we plan to add improvements such as increased search capability.
+
+Since this is a new initiative, we recognize that there may be problems with the initial display. For example, there may be a typographical error on our part in which case you can alert us by calling our toll-free number, 1-800-267-2384 (English), or 1-888-892-5667 (bilingual). **On the other hand,**some inaccuracies may be the result of a charity incorrectly completing its annual return. In such cases, the charity will have to use the new form [Registered Charity Adjustment Request (T1240)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1240.html) described below.
+
+**Adjusting T3010A returns**
+
+Occasionally, charities need to change information on returns they have filed. Many corrections to a charity's T3010A return (e.g., financial information) can be made using the new form, *Registered Charity Adjustment Request* (T1240). This form is available at [www.cra-arc.gc.ca/E/pbg/tf/t1240/README.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1240.html), or you can get a copy by calling our toll-free number. Some changes cannot be made using the form, such as changes to the charity's name, designation, or fiscal period end. To change this information, you should write to us and enclose the appropriate documentation.
+
+**Federal court dismisses appeal**
+
+On September 13, 2002, the Federal Court of Appeal handed down its decision on the registration of a charity called Canadian Magen David Adom for Israel. Although it did not agree with all our reasons, the Court dismissed the appeal, ruling that the Canada Customs and Revenue Agency (CCRA) was correct in proposing to revoke the charity's registered status.
+
+The Court disagreed with the CCRA's application of the rule that a charity's activities must not be contrary to public policy, as it related to activities in the Occupied Territories. The Court found that there was no clear public policy prohibiting charitable activities in the Occupied Territories. Nevertheless, the Court agreed that the charity did not exercise sufficient control and direction over the use of its funds, and that was reason in itself to revoke its registration.
+
+The Federal Court of Appeal makes all its judgments available to the public at [http://www.fct-cf.gc.ca/index_e.shtml](http://www.fct-cf.gc.ca/index_e.shtml).
+
+The charity has sought leave to appeal to the Supreme Court of Canada. Further comment would not be appropriate while the legal process is underway. We will publish other comments and guidance on this matter as they become available.
+
+**Abusive donation scheme not allowed**
+
+In past issues of this newsletter, we have warned against the misuse of receipts for certain art donations. Some charities have issued receipts for amounts far above the fair market value of art they have received. A series of test cases confirmed the CCRA's ability to disallow the inflated claims on donation receipts, and charities involved in these activities have been deregistered.
+
+One case involved tax credit claims from approximately 200 people who purchased artworks and other property, and gave them to registered charities. Typically, the taxpayers purchased art from a specific dealer. The art then went, sight unseen, directly from the dealer to a preidentified charity. Tax receipts were issued by the charity for many times more than the amount paid by the taxpayer to the dealer for the purchase of artwork.
+
+The cases of five people were selected to go before the Tax Court of Canada as a test. The Court examined whether the individuals were entitled, for the 1988 to 1990 tax years, to a tax credit for charitable gifts with respect to certain art works. At issue was whether they had made true donations, whether the value attributed to the works for donation purposes was their fair market value, and whether a penalty for gross negligence was appropriate.
+
+In his November 1998 judgment, Judge Garon found that the individuals were entitled to claim tax credits only for the fair market value of the works of art-approximately 25% of the claimed value. Penalties for gross negligence were upheld in two cases where the individuals continued to participate in the scheme after having been warned against it. Judge Garon's ruling was upheld by the Federal Court of Appeal in November 2000 (*R. v. Langlois* (2000) D.T.C. 6612 (FCA); *R. v. Côté* (2000) D.T.C. 6615, [2001] 4 C.T.C. (FCA); *R. v. Duguay* (2000) D.T.C. 6620, [2002] 1 C.T.C. (FCA)).
+
+As well as pursuing the individuals involved, we revoked the registered status of charities involved in these cases. The dealer in these transactions received a jail sentence when his case was brought before the Superior Court of Quebec. Other cases are before the courts. Since these initial cases were brought before the courts, a new provision has been added to the *Income Tax Act*. This provision will allow us to better respond to cases where receipts have been issued at artificially inflated values for gifts in kind (cf.§ 163.2 of the Act).
+
+A fact sheet on art donation schemes is available at [www.cra-arc.gc.ca/newsroom/factsheets/2002/nov/art-e.html](https://www.canada.ca/en/news.html).
+
+**Registration process speeds up**
+
+Fast registration is important to applicants. Towards this goal, we have revamped the process for reviewing applications. Within a week of receipt, files are screened and divided according to whether they are complete or incomplete, straightforward or complex. A single officer of record is assigned to each file. Applicants can expect to hear from the officer within 4 weeks for straightforward applications, and within 16 weeks for more complex files.
+
+**Memo on gift certificates available online**
+
+Charities are making increasing use of gift certificates at auctions, raffles, and other fundraising events. A new memo available on the CCRA Web site provides policy direction on when a charity can offer an official tax receipt for income tax purposes for donations of gift certificates. The memo is available at [www.cra-arc.gc.ca/tax/charities/policy/menu-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance.html).
+
+**What's new for charities on the CCRA Web site**
+
+For information on new additions to the CCRA Web site, see the "What's new" page at [www.cra-arc.gc.ca/tax/charities/whatsnew/menu-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/whats-new.html). This page is updated regularly, and you can access past items through an archive.
+
+**Business Number (BN) and donation receipts**
+
+Although most charities now include the correct BN on their official donation receipts, a small number continue to use their old-style registration number or do not use the correct BN. This may cause difficulties for donors because their donation claims may be disallowed if the supporting receipts do not contain the registration number the Minister of National Revenue assigned to the organization.
+
+When the new BN system was introduced, all organizations were given a transition period during which they could use their old-style registration number. That transition period ended in September 1998, so all official donation receipts must now show the charity's BN-style registration number.
+
+BN-style registration numbers have the following format:
+
+The four-digit account identifier is usually 0001. However, a registered internal division of a parent organization is assigned its own four digits, e.g., 0002.
+
+The BN should always be written **in full**, including the charity account identifier, on all issued receipts. Incorrectly issued receipts may be rejected, causing donors to forfeit tax relief for their donations.
+
+If you have questions or concerns about the correct BN for a registered charity, please call our toll-free number at 1-800-267-2384 (English), or 1-888-892-5667 (bilingual).
+
+One of the initiatives the Charities Directorate has undertaken in the last year has been the creation of a Policy Development Section within the Directorate. The purpose of this new section is to ensure that effective, consistent, accessible, and clear policy, which is in keeping with current societal needs, and in step with the needs of both the voluntary sector and the Directorate, is produced in a timely manner.
+
+Issues being worked on include: public benefit, racial equality, and ethno-cultural organizations. We expect policy statements on these issues to be made available for public consultation in the next year. Other policy proposals are in the later stages of development. This includes the new related business guidelines on which we consulted with the charitable sector in fall 2002, and the new political activity guidelines that are under consultation. Both these projects are discussed below.
+
+Both charity law and the *Income Tax Act* allow registered charities (other than private foundations) to carry on a related business, or an unrelated one that is operated 90% by volunteers. The CCRA has been working on a policy that clarifies the distinction between the two. This proposed administrative policy was presented in a consultation document in fall 2002. The CCRA is now finalizing the document based on comments it has received.
+
+Many charities have first-hand knowledge of social issues and are capable of providing valuable input in policy development. The CCRA recognizes that some charities may feel uncertain about what types of political activities are permissible, making them hesitant to contribute as fully as they might to the policy process.
+
+In response to these concerns, the CCRA undertook a review of its policy and is developing clearer guidelines on acceptable and unacceptable political activities. The guidelines are based on consultations with Canadian and international academic, legal, and voluntary sector experts. Court decisions in Canada and other common-law countries have also been consulted.
+
+The aim of the new guidelines is to help charities better understand the full extent to which they may usefully contribute to the public policy process under law. By creating greater clarity, charities will feel more comfortable speaking out on issues related to their core mandates.
+
+Furthermore, to facilitate a charity's capacity to inform the public about matters relating to their charitable purposes, the CCRA is looking at narrowing the definition of political activity, so that it no longer includes many attempts to address the public on an issue. It is hoped that this shift in policy will enable charities to carry out their public awareness programs effectively.
+
+The draft political activity guidelines are being made available for a consultation period that closes at the end of March. Copies of these guidelines can be obtained at [www.cra-arc.gc.ca/tax/charities/consultations/menu-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/consultation-feedback-on-policies-guidance.html), or by calling our toll-free number at 1-800-267-2384 (English), or 1-888-892-5667 (bilingual).
+
+When the consultation period ends, the final version of the new political activity guidelines will be developed based on feedback from the charitable sector and the public. We expect to release the final version in 2003.
+
+**Correction** In the last newsletter, the explanation for Line 4950 in the sample of the new Financial Information Section was "The totals of lines 5000 to 5030 plus line 5400 in Section F should equal line 4950." The explanation should be: "The totals of lines 5000 to 5040 should equal line 4950."

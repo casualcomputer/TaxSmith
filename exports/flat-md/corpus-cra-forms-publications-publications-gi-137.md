@@ -1,0 +1,12 @@
+---
+title: "GI-137 CANCELLED Prince Edward Island: Transition to the Harmonized Sales Tax - Memberships"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-137.html
+last_modified: 2013-03-06
+---
+# GI-137 CANCELLED Prince Edward Island: Transition to the Harmonized Sales Tax - Memberships
+
+## This publication was cancelled
+
+This publication was cancelled as of 2025-11-12.
+
+This info sheet explains whether the goods and services tax (GST) or the HST would apply to taxable sales of memberships and lifetime memberships made in Prince Edward Island where the membership period includes the proposed April 1, 2013 implementation date for the HST in Prince Edward Island.

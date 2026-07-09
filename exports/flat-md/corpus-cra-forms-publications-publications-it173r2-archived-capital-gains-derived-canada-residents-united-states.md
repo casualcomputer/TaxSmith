@@ -1,0 +1,156 @@
+---
+title: "ARCHIVED - Capital gains derived in Canada by residents of the United States"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it173r2/archived-capital-gains-derived-canada-residents-united-states.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Capital gains derived in Canada by residents of the United States
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-173R2**
+
+DATE: January 30, 1989
+
+SUBJECT: INCOME TAX ACT**Capital Gains Derived in Canada by Residents of the United States**
+
+REFERENCE: Article XIII of the 1980 Canada-United States Income Tax Convention (also section 115.1 of the Act and Articles V and VI, paragraph 2(c) of Article XXIV and paragraph 5 of Article XXX of the 1980 Convention and Article VIII of the 1942 Convention).
+
+Application
+
+This bulletin replaces and cancels Interpretation Bulletin IT-173R dated July 7, 1975 and the Special Release dated January 15, 1986.
+
+Summary
+
+This bulletin deals with the tax treatment by Canada, pursuant to the terms of the 1980 Canada-United States Income Tax Convention (hereinafter the "1980 Convention"), of gains derived by a resident of the United States from the alienation of certain property situated in Canada. It discusses the general rule and exceptions pertaining to taxing capital gains derived in Canada contained in Article XIII of the 1980 Convention. While this bulletin is written primarily to explain certain aspects of Canadian taxation of a resident of the United States, the reciprocal nature of the 1980 Convention renders its Article XIII applicable to taxation by the United States of gains derived by a resident of Canada from the alienation of property located in the United States.
+
+Discussion and Interpretation
+
+1. Subject to the exception explained in 15 below, the 1980 Convention applies to gains derived in taxation years commencing on or after January 1, 1985. The general rule in the 1980 Convention regarding the taxation of gains from the alienation of any property is that such gains are taxable only in the state of residency of the alienator. Exceptions to this general rule are found in paragraphs 1, 2, 3 and 5 of Article XIII of the 1980 Convention and are discussed in 2 to 9 below. The term "alienation" used in Article XIII of the 1980 Convention means sales, exchanges and other dispositions or deemed dispositions (e.g. change of use, gifts, distributions, death) that give rise to actual or deemed proceeds, all or part of which are subject to taxation in Canada.
+
+Real Property
+
+2. Gains derived by a U.S. resident from the alienation of real property situated in Canada may, by virtue of paragraph 1 of Article XIII of the 1980 Convention, be subject to tax in Canada. "Real property situated in Canada" is defined in paragraph 3(b) of Article XIII as follows:
+
+(a) real property, referred to in Article VI of the 1980 Convention, situated in Canada. Article VI of the 1980 Convention generally provides that such real property has the same meaning which it has under the Canadian Income Tax Act and includes any option or similar right in respect of such property. While not an exhaustive listing, real property includes usufruct of real property, rights to explore for or to exploit mineral deposits, sources and other natural resources and rights to amounts computed by reference to the amount or value of production from such resources,
+
+(b) a share of the capital stock of a company where the share's value is derived principally from real property situated in Canada,
+
+(c) an interest in a partnership, trust or estate the value of which is derived principally from real property situated in Canada.
+
+The phrase "principally from real property situated in Canada" in (b) and (c) above means that more than 50% of the value of the share or interest is derived from real property situated in Canada whether owned directly or indirectly by the company, partnership, trust or estate. Thus, the taxation in Canada is preserved through several tiers of entities if the value of the company's shares or the partnership, trust or estate is ultimately dependent principally upon real property situated in Canada.
+
+Personal Property
+
+3. Gains derived by a resident of the United States from the alienation of personal property are taxable in Canada if the alienated property
+
+(a) was part of the business property of a permanent establishment which the resident of the United States has in Canada or had in Canada within the 12 month period preceding the date of alienation, or
+
+(b) pertained to a fixed base which is available to the United States resident in Canada for the purpose of performing independent personal services or which was so available within the 12 month period preceding the date of alienation.
+
+These rules apply also to gains derived when the permanent establishment or fixed base has itself been alienated. The terms "permanent establishment" and "fixed base" are defined in 4 to 8 below for purposes of the 1980 Convention.
+
+Permanent Establishment
+
+4. The term "permanent establishment" as used in 3(a) above is defined in Article V of the 1980 Convention as meaning a fixed place of business through which the business of a resident of the United States is carried on in Canada including specifically
+
+(a) a place of management,
+
+(b) a branch,
+
+(c) an office,
+
+(d) a factory,
+
+(e) a workshop,
+
+(f) a mine, an oil or gas well, a quarry or any other place of extraction of natural resources,
+
+(g) a building site or construction or installation project lasting more than 12 months in duration,
+
+(h) the use for a period of more than 3 months in any 12 month period, of an installation or drilling rig or ship in Canada to explore for or exploit natural resources, and
+
+(i) a person (other than an agent of independent status to whom 6 below applies) acting in Canada on behalf of a resident of the United States if that person has the authority, and habitually exercises it in Canada, to conclude contracts in the name of the resident of the United States.
+
+5. The term "permanent establishment" does not include a fixed place of business used solely for, or a person described in 4(i) above engaged solely in, one or more of the following activities:
+
+(a) the use in Canada of facilities for the purpose of storage, display or delivery of goods or merchandise belonging to a resident of the United States,
+
+(b) the maintenance in Canada of a stock of goods or merchandise belonging to a resident of the United States, for any one of the purposes described in (a) or for the purpose of processing by another person,
+
+(c) the purchase of goods or merchandise, or the collection of information, for a resident of the United States,
+
+(d) advertising, the supply of information, scientific research or similar activities which have a preparatory or auxiliary character, for the resident of the United States.
+
+6. The carrying on of business in Canada by a resident of the United States shall not be deemed to be a permanent establishment in Canada merely because such business is carried on through a broker, general commission agent or any other agent of an independent status if such persons are acting in the ordinary course of carrying on their business.
+
+7. The fact that a company which is a resident of the United States controls or is controlled by a company which is a resident of Canada or which carries on business in Canada (whether through a permanent establishment or otherwise), does not render one company a permanent establishment of the other.
+
+Fixed Base
+
+8. The term "fixed base" as used in Article XIII of the 1980 Convention (see 3(b) above) is not defined in the 1980 Convention, but it is intended to relate to the place where independent personal services, rather than industrial or commercial activities, are performed. A "fixed base" would include, for example, a physician's consulting room, the office of an architect or the office of a lawyer. It would not be uncommon for such a "fixed base" to be located at the place in Canada where a resident of the United States stays temporarily and performs independent personal services while in Canada. However, the Department has taken the position that an individual will not be considered to have a fixed base if the period in Canada for performing the independent personal services is less than 61 days and the services in Canada are not performed on a recurring basis. A review of the facts in each case will be necessary to establish whether a fixed base exists where the period in Canada for performing the services provided is for more than 60 days or where the services in Canada are performed on a recurring basis.
+
+9. Paragraph 5 of Article XIII provides another exception to the general rule referred to in 1 above. This paragraph reserves the right of Canada to tax an individual who is a resident of the United States on gains from the alienation of any property if the individual
+
+(a) was a resident of Canada for 120 months during any period of 20 consecutive years prior to the alienation of the property,
+
+(b) was a resident of Canada at any time during the 10 years immediately prior to the alienation of the property, and
+
+(c) owned the property at the time of ceasing to be a resident of Canada.
+
+The exception described above also permits Canada to tax gains on the disposition of certain replacement property acquired in substitution for a property described in (c) above if the replacement property was acquired in an alienation transaction the gain on which was not recognized for taxation in Canada (e.g. taxation of the gain was deferred). Paragraph 2(c) of Article XXIV of the 1980 Convention entitles an individual to a foreign tax credit for income taxes paid or accrued to the United States on gains that would not be taxable in Canada except for the provisions of paragraph 5 of Article XIII of the 1980 Convention.
+
+10. Where a resident of the United States alienates property in the course of a corporate organization, reorganization, amalgamation, division or similar transaction and the profit, gain or income arising from the alienation is not recognized for income tax purposes by the United States but is so recognized by Canada, paragraph 8 of Article XIII of the 1980 Convention provides a means whereby double taxation may be avoided by deferring recognition in Canada of the profit, gain or income. To achieve such a deferral, the person or partnership who acquires that property and the vendor must petition the competent authority in Canada to defer the taxation (see 11 below). If the Canadian competent authority accedes to the request, an agreement must be entered into between that authority and the petitioners under which the deferral of taxation will be in effect for such time and under such other conditions as are stipulated in the agreement. Since the purpose of paragraph 8 of Article XIII of the 1980 Convention is to avoid double taxation, relief will only be granted to the extent necessary to avoid such double taxation. This provision is only applicable where alienations, in the circumstances stated, result in a net gain (i.e. gains exceed losses). The "competent authority" in Canada is the Minister of National Revenue or the Minister's authorized representative. Please refer to the current issue of Information Circular 71-17 with respect to requests for competent authority consideration.
+
+11. For taxation years commencing after 1984, section 115.1 provides rules for a tax deferral where a transaction described in 10 above has tax-deferred status in the United States but does not have such a status in Canada. The amount agreed on in respect of the property in an agreement between the Canadian competent authority, the vendor and the purchaser will be, for purposes of the Act, the vendor's proceeds of disposition of the property and the purchaser's cost of the property. Where the property is depreciable property, paragraph 115.1(d) preserves its tax base in Canada. Paragraph 115.1(e) maintains the characterization of the property in Canada. It will be necessary for the vendor and purchaser of the property to jointly elect in prescribed form and within the prescribed time in order to have section 115.1 apply. An agreement under paragraph 8 of Article X111 of the 1980 Convention with the Canadian competent authority will require the vendor and purchaser to make a valid election under section 115.1.
+
+Transitional Rules
+
+12. Paragraph 9 of Article XIII of the 1980 Convention provides a transitional rule reflecting the fact that, under Article VIII of the 1942 Canada-United States Income Tax Convention (hereinafter the "1942 convention"), gains derived by a resident or corporation or other entity of the United States from the sale or exchange of capital assets located in Canada were exempt from tax in Canada provided that such resident or corporation or other entity did not have a permanent establishment in Canada at any time in the taxation year during which the sale or exchange occurred. Paragraph 9 of Article XIII of the 1980 Convention exempts from tax in Canada the portion, if any, of a capital gain derived by a person resident in the United States from the alienation of a capital asset located in Canada that had accrued during a period ending on December 31, 1984 provided that such person either
+
+(a) owned the asset on September 26, 1980 and was a resident of the United States on September 26, 1980 and at all times after that date until the alienation, or
+
+(b) acquired the asset in a transaction which qualified as a non-recognition transaction (see 13 below) for Canadian tax purposes.
+
+Paragraph 9 of Article XIII does not apply to
+
+(c) an asset that, on September 26, 1980, either formed part of the business property of a permanent establishment or pertained to a fixed base in Canada of a resident of the United States.
+
+(d) an alienation by a resident of the United States of an asset that was owned at any time after September 26, 1980 and before such alienation by a person who was not at all times after that date while the asset was owned by such person a resident of the United States, or
+
+(e) an alienation of an asset that was acquired by a person at any time after September 26, 1980 and before such alienation in a transaction other than a non-recognition transaction.
+
+13. A "non-recognition transaction" for purposes of paragraph 9 of Article XIII of the 1980 Convention (see 12 above) is a transaction in which a gain resulting therefrom is, in effect, deferred for tax purposes but is not permanently forgiven. A transaction that is given a non-recognition status by the Canadian competent authority in accordance with paragraph 8 of Article XIII of the 1980 Convention (see 10 above) is a "non-recognition transaction" for purposes of paragraph 9 of the Article.
+
+14. In applying the transitional rules explained in 12 above, the gain is assumed to accrue pro-rata over the period of ownership and the portion of the gain which accrued, prior to January 1, 1985 is calculated on a monthly basis. This pro-rata method must be used unless it can be shown to the satisfaction of the Canadian competent authority that a greater portion of the gain was attributed to the period ending December 31, 1984 which is usually accomplished by having the property appraised as of December 31, 1984. A taxpayer who wants to make this alternate showing for Canadian tax purposes must so indicate on the taxpayer's Canadian income tax return for the taxation year in which the alienation took place and must attach to the return a statement describing the relevant evidence. The Canadian competent authority or authorized representative will determine whether the taxpayer has satisfied the requirements of paragraph 9 of Article XIII of the 1980 Convention.
+
+Example of Pro-Rata Method
+
+An individual resident of the United States acquired real property situated in Canada on January 1, 1978 for $100,000.
+
+The property was sold April 30, 1986 for $150,000.
+
+The capital gain of $50,000 otherwise determined for Canadian taxation purposes is reduced by paragraph 9 of Article XIII of the 1980 Convention as follows:
+
+| Capital gain | $ 50,000 |
+
+| --- | --- |
+
+| Number of months property owned | 100 |
+
+| Number of months property owned prior to January 1, 1985 | 84 |
+
+| Gain excluded from Income (84 ÷ 100) X $50,000 = | $ 42,000 |
+
+| Gain subject to taxation in Canada ($50,000 - $42,000) = | 8,000 |
+
+| Taxable capital gain 12 of $8,000 | $ 4,000 |
+
+15. By virtue of paragraph 5 of Article XXX of the 1980 Convention, if Article VIII of the 1942 convention would have afforded greater relief from tax on capital gains than does the 1980 Convention, Article VIII would continue to have full force and effect until the end of the first taxation year of a resident of the United States which commenced on or after January 1, 1985. Article VIII of the 1942 convention provided a full tax exemption for capital gains while it was in force if the conditions relating to the Article, described in 12 above, were met.

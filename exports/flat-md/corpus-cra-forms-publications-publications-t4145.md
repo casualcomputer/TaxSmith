@@ -1,0 +1,18 @@
+---
+title: "T4145 Electing Under Section 217 of the Income Tax Act"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4145.html
+last_modified: 2026-03-09
+---
+# T4145 Electing Under Section 217 of the Income Tax Act
+
+This guide is useful to non-residents of Canada electing to file a Canadian income tax return to report qualifying Canadian income.
+
+## Ways to access the information
+
+- Read the publicationPrevious years: Standard print PDFsThis form is also available for the years listed below:[2024 – Standard print PDF (t4145-24e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-24e.pdf)[2023 – Standard print PDF (t4145-23e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-23e.pdf)[2022 – Standard print PDF (t4145-22e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-22e.pdf)[2021 – Standard print PDF (t4145-21e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-21e.pdf)[2020 – Standard print PDF (t4145-20e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-20e.pdf)[2019 – Standard print PDF (t4145-19e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-19e.pdf)[2018 – Standard print PDF (t4145-18e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-18e.pdf)[2017 – Standard print PDF (t4145-17e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-17e.pdf)[2016 – Standard print PDF (t4145-16e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-16e.pdf)[2015 – Standard print PDF (t4145-15e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-15e.pdf)[2014 – Standard print PDF (t4145-14e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-14e.pdf)[2013 – Standard print PDF (t4145-13e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-13e.pdf)[2012 – Standard print PDF (t4145-12e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-12e.pdf)[2011 – Standard print PDF (t4145-11e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-11e.pdf)[2010 – Standard print PDF (t4145-10e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-10e.pdf)[2009 – Standard print PDF (t4145-09e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-09e.pdf)[2008 – Standard print PDF (t4145-08e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-08e.pdf)[2007 – Standard print PDF (t4145-07e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-07e.pdf)[2006 – Standard print PDF (t4145-06e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-06e.pdf)[2005 – Standard print PDF (t4145-05e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-05e.pdf)[2004 – Standard print PDF (t4145-04e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-04e.pdf)[2003 – Standard print PDF (t4145-03e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-03e.pdf)[2002 – Standard print PDF (t4145-02e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-02e.pdf)[2001 – Standard print PDF (t4145-01e.pdf)](/content/dam/cra-arc/formspubs/pub/t4145/t4145-01e.pdf)
+
+    - Online format [t4145-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4145/t4145-electing-under-section-217-income-tax-act.html)
+
+## Related documents
+
+- [5013-R Income Tax and Benefit Return for Non-Residents and Deemed Residents of Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-r.html)

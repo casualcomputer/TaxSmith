@@ -1,0 +1,907 @@
+Title: T2 Corporation – Income Tax Guide – Appendices
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-appendices.html
+Corpus path: corpus/cra/forms-publications/publications/t4012/t2-corporation-income-tax-guide-appendices.md
+Document type: publication
+Last modified: 2026-05-28
+
+# T2 Corporation – Income Tax Guide – Appendices
+
+## Related forms and publications
+
+### List of federal and provincial or territorial corporation schedules and forms
+
+You can find the following schedules and forms at [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+| Schedule or form | Title |
+
+| --- | --- |
+
+| [RC145](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-1-page-1-t2-return.html) | Request to Close Business Number Program Accounts |
+
+| [RC193](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html) | Service Feedback |
+
+| [RC312](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc312.html) | Reportable Transaction and Notifiable Transaction Information Return |
+
+| [RC3133](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc3133.html) | Reportable Uncertain Tax Treatments Information Return |
+
+| [RC431](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc431.html) | Request for Re appropriation of T2 Statute-barred Credits |
+
+| [RC4288](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4288.html) | Request for Taxpayer Relief – Cancel or Waive Penalties and Interest |
+
+| [RC4649](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4649.html) | Country-by-Country Report |
+
+| [T2](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2.html) | T2 Corporation Income Tax Return |
+
+| [T2 Short](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2short.html) | T2 Short Return |
+
+| [T2 SCH 1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch1.html) | Net Income (Loss) for Income Tax Purposes |
+
+| [T2 SCH 2](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch2.html) | Charitable Donations and Gifts |
+
+| [T2 SCH 3](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch3.html) | Dividends Received, Taxable Dividends Paid, and Part IV Tax Calculation |
+
+| [T2 SCH 4](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch4.html) | Corporation Loss Continuity and Application |
+
+| [T2 SCH 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch5.html) | Tax Calculation Supplementary – Corporations |
+
+| [T2 SCH 6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch6.html) | Summary of Dispositions of Capital Property |
+
+| [T2 SCH 7](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch7.html) | Aggregate Investment Income and Income Eligible for the Small Business Deduction |
+
+| [T2 SCH 8](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch8.html) | Capital Cost Allowance (CCA) |
+
+| [T2 SCH 9](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch9.html) | Related and Associated Corporations |
+
+| [T2 SCH 10](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch10.html) | Cumulative Eligible Capital Deduction |
+
+| [T2 SCH 11](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch11.html) | Transactions with Shareholders, Officers, or Employees |
+
+| [T2 SCH 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch12.html) | Resource-Related Deductions |
+
+| [T2 SCH 13](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch13.html) | Continuity of Reserves |
+
+| [T2 SCH 14](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch14.html) | Miscellaneous Payments to Residents |
+
+| [T2 SCH 15](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch15.html) | Deferred Income Plans |
+
+| [T2 SCH 16](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch16.html) | Patronage Dividend Deduction |
+
+| [T2 SCH 17](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch17.html) | Credit Union Deductions |
+
+| [T2 SCH 18](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch18.html) | Federal and Provincial or Territorial Capital Gains Refund |
+
+| [T2 SCH 19](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch19.html) | Non-Resident Shareholder Information |
+
+| [T2 SCH 20](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch20.html) | Part XIV – Additional Tax on Non-Resident Corporations |
+
+| [T2 SCH 21](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch21.html) | Federal and Provincial or Territorial Foreign Income Tax Credits and Federal Logging Tax Credit |
+
+| [T2 SCH 22](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch22.html) | Non-Resident Discretionary Trust |
+
+| [T2 SCH 23](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch23.html) | Agreement Among Associated Canadian-Controlled Private Corporations to Allocate the Business Limit (see Schedule 49 for allocation of the expenditure limit) |
+
+| [T2 SCH 24](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch24.html) | First-Time Filer After Incorporation, Amalgamation, or Winding-up of a Subsidiary into a Parent |
+
+| [T2 SCH 25](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch25.html) | Investment in Foreign Affiliates |
+
+| [T2 SCH 27](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch27.html) | Calculation of Canadian Manufacturing and Processing Profits Deduction |
+
+| [T2 SCH 28](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch28.html) | Election Not to Be Associated Through a Third Corporation |
+
+| [T2 SCH 29](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch29.html) | Payments to Non-Residents |
+
+| [T2 SCH 31](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch31.html) | Investment Tax Credit – Corporations |
+
+| [T2 SCH 33](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch33.html) | Taxable Capital Employed in Canada – Large Corporations |
+
+| [T2 SCH 34](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch34.html) | Taxable Capital Employed in Canada – Financial Institutions |
+
+| [T2 SCH 35](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch35.html) | Taxable Capital Employed in Canada – Large Insurance Corporations |
+
+| [T2 SCH 38](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch38.html) | Part VI Tax on Capital of Financial Institutions |
+
+| [T2 SCH 39](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch39.html) | Agreement Among Related Financial Institutions – Part VI Tax |
+
+| [T2 SCH 42](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch42.html) | Calculation of Unused Part I Tax Credit |
+
+| [T2 SCH 43](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch43.html) | Calculation of Parts IV.1 and VI.1 Taxes |
+
+| [T2 SCH 44](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch44.html) | Non-Arm's Length Transactions |
+
+| [T2 SCH 45](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch45.html) | Agreement Respecting Liability for Part VI.1 Tax |
+
+| [T2 SCH 49](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch49.html) | Agreement Among Associated Canadian-Controlled Private Corporations to Allocate the Expenditure Limit (see Schedule 23 for allocation of the business limit) |
+
+| [T2 SCH 50](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch50.html) | Shareholder Information |
+
+| [T2 SCH 53](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch53.html) | General Rate Income Pool (GRIP) Calculation |
+
+| [T2 SCH 54](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch54.html) | Low Rate Income Pool (LRIP) Calculation |
+
+| [T2 SCH 55](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch55.html) | Part III.1 Tax on Excessive Eligible Dividend Designations |
+
+| [T2 SCH 56](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch56.html) | Part II.2 Tax on repurchases of equity |
+
+| [T2 SCH 58](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch58.html) | Canadian Journalism Labour Tax Credit |
+
+| [T2 SCH 59](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch59.html) | Information Return for Non-Qualified Securities |
+
+| [T2 SCH 63](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch63.html) | Return of Fuel Charge Proceeds to Farmers Tax Credit |
+
+| [T2 SCH 67](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch67.html) | Canada Recovery Dividend |
+
+| [T2 SCH 68](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch68.html) | Additional Tax on Banks and Life Insurers |
+
+| [T2 SCH 71](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch71.html) | Income Inclusion for Corporations that Are Members of Single-Tier Partnerships |
+
+| [T2 SCH 72](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch72.html) | Income Inclusion for Corporations that Are Members of Multi-Tier Partnerships |
+
+| [T2 SCH 73](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch73.html) | Income Inclusion Summary for Corporations that Are Members of Partnerships |
+
+| [T2 SCH 74](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch74.html) | Clean Hydrogen Investment Tax Credit |
+
+| [T2 SCH 75](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch75.html) | Clean Technology Investment Tax Credit |
+
+| [T2 SCH 76](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch76.html) | Clean Technology Manufacturing Investment Tax Credit |
+
+| T2 SCH 77 | Clean Electricity Investment Tax Credit |
+
+| [T2 SCH 78](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch78.html) | Carbon Capture, Utilization, and Storage Investment Tax Credit |
+
+| [T2 SCH 88](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch88.html) | Internet Business Activities |
+
+| [T2 SCH 89](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch89.html) | Request for Capital Dividend Account Balance Verification |
+
+| [T2 SCH 91](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch91.html) | Information Concerning Claims for Treaty-Based Exemptions |
+
+| [T2 SCH 97](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch97.html) | Additional Information on Non-resident Corporations in Canada |
+
+| [T2 SCH 100](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch100.html) | Balance Sheet Information |
+
+| [T2 SCH 101](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch101.html) | Opening Balance Sheet Information |
+
+| [T2 SCH 125](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch125.html) | Income Statement Information |
+
+| [T2 SCH 130](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch130.html) | Excessive Interest and Financing Expenses Limitation |
+
+| [T2 SCH 141](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch141.html) | General Index of Financial Information (GIFI) – Additional Information |
+
+| [T2 SCH 301](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch301.html) | Newfoundland and Labrador Research and Development Tax Credit |
+
+| [T2 SCH 302](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch302.html) | Additional Certificate Numbers for the Newfoundland and Labrador Film and Video Industry Tax Credit |
+
+| [T2 SCH 303](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch303.html) | Newfoundland and Labrador Direct Equity Tax Credit |
+
+| [T2 SCH 304](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch304.html) | Newfoundland and Labrador Resort Property Investment Tax Credit |
+
+| [T2 SCH 305](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch305.html) | Newfoundland and Labrador Capital Tax on Financial Institutions |
+
+| [T2 SCH 306](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch306.html) | Newfoundland and Labrador Capital Tax on Financial Institutions – Agreement Among Related Corporations |
+
+| [T2 SCH 307](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch307.html) | Newfoundland and Labrador Corporation Tax Calculation |
+
+| [T2 SCH 308](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch308.html) | Newfoundland and Labrador Venture Capital Tax Credit |
+
+| [T2 SCH 309](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch309.html) | Additional Certificate Numbers for the Newfoundland and Labrador Interactive Digital Media Tax Credit |
+
+| [T2 SCH 310](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch310.html) | Newfoundland and Labrador Manufacturing and Processing Investment Tax Credit |
+
+| [T2 SCH 311](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch311.html) | Newfoundland and Labrador Green Technology Tax Credit |
+
+| [T2 SCH 321](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch321.html) | Prince Edward Island Corporate Investment Tax Credit |
+
+| [T2 SCH 322](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch322.html) | Prince Edward Island Corporation Tax Calculation |
+
+| [T2 SCH 340](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch340.html) | Nova Scotia Research and Development Tax Credit |
+
+| [T2 SCH 341](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch341.html) | Nova Scotia Corporate Tax Reduction for New Small Businesses |
+
+| [T2 SCH 346](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch346.html) | Nova Scotia Corporation Tax Calculation |
+
+| [T2 SCH 347](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch347.html) | Additional Certificate Numbers for the Nova Scotia Digital Media Tax Credit |
+
+| [T2 SCH 348](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch348.html) | Additional Certificate Numbers for the Nova Scotia Digital Animation Tax Credit |
+
+| [T2 SCH 349](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch349.html) | Nova Scotia Innovation Equity Tax Credit |
+
+| [T2 SCH 350](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch350.html) | Nova Scotia Venture Capital Tax Credit |
+
+| [T2 SCH 351](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch351.html) | Additional Certificate Numbers for the Nova Scotia Capital Investment Tax Credit |
+
+| [T2 SCH 352](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch352.html) | Nova Scotia Financial Institutions Capital Tax |
+
+| [T2 SCH 353](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch353.html) | Nova Scotia Financial Institutions Capital Tax – Agreement Among Related Corporations |
+
+| [T2 SCH 360](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch360.html) | New Brunswick Research and Development Tax Credit |
+
+| [T2 SCH 366](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch366.html) | New Brunswick Corporation Tax Calculation |
+
+| [T2 SCH 367](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch367.html) | New Brunswick Small Business Investor Tax Credit |
+
+| [T2 SCH 500](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch500.html) | Ontario Corporation Tax Calculation |
+
+| [T2 SCH 502](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch502.html) | Ontario Tax Credit for Manufacturing and Processing |
+
+| [T2 SCH 506](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch506.html) | Ontario Transitional Tax Debits and Credits |
+
+| [T2 SCH 507](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch507.html) | Ontario Transitional Tax Debits and Credits Calculation |
+
+| [T2 SCH 508](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch508.html) | Ontario Research and Development Tax Credit |
+
+| [T2 SCH 510](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch510.html) | Ontario Corporate Minimum Tax |
+
+| [T2 SCH 511](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch511.html) | Ontario Corporate Minimum Tax – Total Assets and Revenue for Associated Corporations |
+
+| [T2 SCH 512](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch512.html) | Ontario Special Additional Tax on Life Insurance Corporations (SAT) |
+
+| [T2 SCH 513](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch513.html) | Agreement Among Related Life Insurance Corporations (Ontario) |
+
+| [T2 SCH 524](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch524.html) | Ontario Specialty Types |
+
+| [T2 SCH 525](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch525.html) | Ontario Political Contributions Tax Credit |
+
+| [T2 SCH 550](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch550.html) | Ontario Co-operative Education Tax Credit |
+
+| [T2 SCH 554](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch554.html) | Ontario Computer Animation and Special Effects Tax Credit |
+
+| [T2 SCH 556](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch556.html) | Ontario Film and Television Tax Credit |
+
+| [T2 SCH 558](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch558.html) | Ontario Production Services Tax Credit |
+
+| [T2 SCH 560](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch560.html) | Ontario Interactive Digital Media Tax Credit |
+
+| [T2 SCH 564](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch564.html) | Ontario Book Publishing Tax Credit |
+
+| [T2 SCH 566](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch566.html) | Ontario Innovation Tax Credit |
+
+| [T2 SCH 568](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch568.html) | Ontario Business-Research Institute Tax Credit |
+
+| [T2 SCH 569](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch569.html) | Ontario Business-Research Institute Tax Credit Contract Information |
+
+| [T2 SCH 570](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch570.html) | Ontario Regional Opportunities Investment Tax Credit |
+
+| [T2 SCH 572](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch572.html) | Ontario Made Manufacturing Investment Tax Credit |
+
+| [T2 SCH 380](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch380.html) | Manitoba Research and Development Tax Credit |
+
+| [T2 SCH 381](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch381.html) | Manitoba Manufacturing Investment Tax Credit |
+
+| [T2 SCH 383](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch383.html) | Manitoba Corporation Tax Calculation |
+
+| [T2 SCH 384](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch384.html) | Manitoba Paid Work Experience Tax Credit |
+
+| [T2 SCH 385](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch385.html) | Manitoba Odour-Control Tax Credit |
+
+| [T2 SCH 387](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch387.html) | Manitoba Small Business Venture Capital Tax Credit |
+
+| [T2 SCH 388](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch388.html) | Manitoba Film and Video Production Tax Credit |
+
+| [T2 SCH 389](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch389.html) | Manitoba Book Publishing Tax Credit |
+
+| [T2 SCH 390](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch390.html) | Manitoba Cooperative Development Tax Credit |
+
+| [T2 SCH 394](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch394.html) | Manitoba Rental Housing Construction Tax Credit |
+
+| [T2 SCH 402](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch402.html) | Saskatchewan Manufacturing and Processing Investment Tax Credit |
+
+| [T2 SCH 403](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch403.html) | Saskatchewan Research and Development Tax Credit |
+
+| [T2 SCH 404](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch404.html) | Saskatchewan Manufacturing and Processing Profits Tax Reduction |
+
+| [T2 SCH 411](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch411.html) | Saskatchewan Corporation Tax Calculation |
+
+| [T2 SCH 421](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch421.html) | British Columbia Mining Exploration Tax Credit |
+
+| [T2 SCH 427](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch427.html) | British Columbia Corporation Tax Calculation |
+
+| [T2 SCH 428](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch428.html) | British Columbia Training Tax Credit |
+
+| [T2 SCH 429](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch429.html) | British Columbia Interactive Digital Media Tax Credit |
+
+| [T2 SCH 430](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch430.html) | British Columbia Shipbuilding and Ship Repair Industry Tax Credit |
+
+| [T2 SCH 432](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch432.html) | Additional Certificate Numbers for the British Columbia Clean Buildings Tax Credit |
+
+| [T2 SCH 440](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch440.html) | Yukon Manufacturing and Processing Profits Tax Credit |
+
+| [T2 SCH 442](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch442.html) | Yukon Research and Development Tax Credit |
+
+| [T2 SCH 443](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch443.html) | Yukon Corporation Tax Calculation |
+
+| [T2 SCH 444](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch444.html) | Yukon Business Carbon Price Rebate |
+
+| [T2 SCH 461](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch461.html) | Northwest Territories Corporation Tax Calculation |
+
+| [T2 SCH 481](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch481.html) | Nunavut Corporation Tax Calculation |
+
+| [T106](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t106.html) | Information Return of Non-Arm's Length Transactions with Non-Residents |
+
+| [T183CORP](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t183corp.html) | Information Return for Corporations Filing Electronically |
+
+| [T400A](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t400a.html) | Notice of Objection – Income Tax Act |
+
+| [T652](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t652.html) | Notice of Revocation of Waiver |
+
+| [T661](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t661.html) | Scientific Research and Experimental Development (SR&ED) Expenditures Claim |
+
+| [T666](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t666.html) | British Columbia (BC) Scientific Research and Experimental Development Tax Credit |
+
+| [T1031](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1031.html) | Subsection 13(29) Election in Respect of Certain Depreciable Properties, Acquired for Use in a Long Term Project |
+
+| [T1044](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1044.html) | Non-Profit Organization (NPO) Information Return |
+
+| [T1131](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1131.html) | Canadian Film or Video Production Tax Credit |
+
+| [T1134](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1134.html) | Information Return Relating to Controlled and Not-Controlled Foreign Affiliates |
+
+| [T1135](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1135.html) | Foreign Income Verification Statement |
+
+| [T1141](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1141.html) | Information Return in Respect of Contributions to Non-Resident Trusts, Arrangements or Entities |
+
+| [T1142](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1142.html) | Information Return in Respect of Distributions From and Indebtedness to a Non-Resident Trust |
+
+| [T1146](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1146.html) | Agreement to Transfer Qualified Expenditures Incurred in Respect of SR&ED Contracts Between Persons Not Dealing at Arm's Length |
+
+| [T1177](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1177.html) | Film or Video Production Services Tax Credit |
+
+| [T1196](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1196.html) | British Columbia Film and Television Tax Credit |
+
+| [T1197](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1197.html) | British Columbia Production Services Tax Credit |
+
+| [T1249](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1249.html) | British Columbia Mining Exploration Tax Credit Partnership Schedule |
+
+| [T1288](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1288.html) | Application by a Non-Resident of Canada (Corporation) for a Reduction in the Amount of Non-Resident Tax Required to be Withheld on Income Earned From Acting in a Film or Video Production |
+
+| [T1296](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1296.html) | Election, or Revocation of an Election, to Report in a Functional Currency |
+
+| [T2002](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2002.html) | Election, or Revocation of an Election, not to Be a Canadian-Controlled Private Corporation |
+
+| [T2029](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2029.html) | Waiver in Respect of the Normal Reassessment Period or Extended Reassessment Period |
+
+| [T2057](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2057.html) | Election on Disposition of Property by a Taxpayer to a Taxable Canadian Corporation |
+
+| [T2058](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2058.html) | Election on Disposition of Property by a Partnership to a Taxable Canadian Corporation |
+
+| [T2224](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2224.html) | Transitional Election Under the Excessive Interest and Financing Expenses Limitation Rules |
+
+| [T2225](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2225.html) | Group Ratio Rules Election under subsection 18.21(2) and Fair Value Adjustments Election under subsection 18.21(4) |
+
+| [T2226](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2226.html) | Election to Transfer Cumulative Unused Excess Capacity under subsection 18.2(4) |
+
+| [T2227](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2227.html) | Excluded Interest Election Under subsection 18.2(1) |
+
+| [T2228](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2228.html) | Specified Pre-regime Loss Election under subsection 18.2(1) |
+
+| [T2229](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2229.html) | Election to forgo a foreign accrual property loss under clause 95(2)(f.11)(ii)(E) |
+
+| [T5003 (slip)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5003.html) | Statement of Tax Shelter Information |
+
+| [T5004](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5004.html) | Claim for Tax Shelter Loss or Deduction |
+
+| [T5013 (slip)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html) | Statement of Partnership Income |
+
+| [T5013 FIN](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013fin.html) | Partnership Financial Return |
+
+| [T5013 SUM](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sum.html) | Information Slips Summary |
+
+| [T5013SCH5](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html) | Allocation of Salaries and Wages, and Gross Revenue for Multiple Jurisdictions – Schedule 5 |
+
+## Digital services
+
+## Handle your business taxes online
+
+My Business Account lets you access your business tax information and interact with the CRA online throughout the year.
+
+### Profile
+
+- Manage your addresses, direct deposit information, program account names, operating names, phone numbers, business numbers in your profile, and language preference
+
+- Manage your notification preferences and receive email notifications when important changes are made to your account
+
+- Manage your authorized representatives and authorization requests
+
+- Manage your multi-factor authentication settings and security options
+
+### Balances and payments
+
+- Make a payment online to the CRA with My Payment, create a pre-authorized debit (PAD) agreement, or create a QR code to pay in person at Canada Post for a fee
+
+- View and pay account balance
+
+- View account transactions
+
+- Transfer payments and immediately view the updated balance
+
+- View interest
+
+- Calculate a future balance
+
+- View direct deposit transactions
+
+- Calculate and pay instalment payments
+
+### Transactions
+
+- File a return, view the status of filed returns, and view return balances
+
+- View special elections and returns
+
+- Track the progress of certain files and enquiries you have submitted to the CRA
+
+- Make an online request regarding your account and view answers to common enquiries
+
+- Request relief of penalties and interest
+
+- File a formal dispute (Notice of Objection)
+
+- Close an account
+
+### Correspondence
+
+- View mail from the CRA
+
+- Submit documents to the CRA
+
+- Submit an audit enquiry
+
+For more information, see the details on the [digital services for businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html).
+
+### Access My Business Account
+
+To access My Business Account, [sign in to or register for a CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+### Receive your CRA mail online
+
+Most correspondence is only available online in My Business Account by default, except when a business has changed its delivery method to receive paper mail. Make sure you register for email notifications from the CRA to find out when you have new mail to view in My Business Account.
+
+For more information, see the details on [email notifications from the CRA for businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/online-mail-reduce-your-cost-doing-business-saving-time-online.html).
+
+### Create a pre-authorized debit agreement for payments from your Canadian chequing account
+
+A pre-authorized debit (PAD) is a secure online self-service payment option for individuals and businesses to pay their taxes. A PAD lets you authorize withdrawals from your Canadian chequing account to pay the CRA. You can set the payment dates and amounts of your PAD agreement using the CRA's My Business Account at [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html). PADs are flexible and managed by you. You can use My Business Account to view your account history and modify, cancel, or skip a payment. For more information, see the details on how to [pay by scheduled pre-authorized debit (PAD) through the CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html).
+
+### Electronic payments
+
+Make your payment using:
+
+- your Canadian bank or credit union's online banking, mobile app, or telephone service
+
+- the CRA's My Payment service at [Pay with a debit card through the CRA's My Payment service](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html) with your activated debit card from a participating Canadian bank or credit union with a Visa Debit or Debit MasterCard logo (does **not** include credit cards)
+
+- pre-authorized debit (PAD) at [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) which lets you:
+
+    - set up payments to the CRA from a Canadian chequing account on pre-set dates starting in five or more business days
+
+    - pay an amount due, repay overpaid amounts, or make instalment payments
+
+    - view your account history and modify, cancel, or skip a payment
+
+For more information on PAD, go to [Pay by scheduled pre-authorized debit (PAD) through CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html).
+
+- the "Proceed to pay" button on the "View and pay account balance" page and other pages within My Business Account
+
+- your credit card, Interac e-Transfer, or PayPal through one of the third- party service providers **for a fee**
+
+For more information, see the details about the [payments to the CRA](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html).
+
+## For more information
+
+### If you need help
+
+For help with common topics, current contact centre wait times, and links to online self-serve options, [contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+For detailed information on topics in this guide, see the provincial, territorial, and federal Income Tax Act and the Income Tax Regulations.
+
+### Direct deposit
+
+Direct deposit is a fast, convenient, and secure way to receive your CRA payments directly in your account at a financial institution in Canada. For more information, go to [Direct deposit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html) or contact your financial institution.
+
+### Forms and publications
+
+The CRA encourages you to file your return electronically. If you need a paper version of the CRA's forms and publications, go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+### Electronic mailing lists
+
+The CRA can send you an email when new information on a subject of interest is available on its website. To subscribe, go to [Electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+### Teletypewriter (TTY) and Video Relay Service (VRS) users
+
+If you use a TTY for a hearing or speech impairment, call **1-800-665-0354**.
+
+Register with Canada VRS to download the app, by going to [Get started with Canada VRS](https://srvcanadavrs.ca/en/get-the-app/), and call the VRS line.
+
+If you use another **operator-assisted relay service**, call the CRA's regular telephone numbers instead of the TTY and Canada VRS numbers.
+
+### Formal disputes (objections and appeals)
+
+You have the right to file an objection or an appeal if you disagree with an assessment, a determination, or a decision. For more information, go to [File an objection](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/file-objection-cppei-appeal-minister.html).
+
+### Service complaints
+
+You can expect to be treated fairly and to receive a high level of service every time you interact with the CRA.
+
+You can provide compliments or suggestions; however, if you are not satisfied with the service you received:
+
+You may save time by calling the CRA first depending on your situation. You can call the telephone number provided in your CRA correspondence or discuss your concerns with the employee you have been dealing with. If you do not have a contact number, go to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html)
+
+You can ask to discuss the matter with the employee's supervisor if you have not been able to resolve your service issue
+
+You can submit feedback by filling out [Form RC193, Service Feedback](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html), if the issue remains unresolved. For more information, see how to [send feedback about CRA service](https://www.canada.ca/en/revenue-agency/services/make-a-service-complaint.html)
+
+You may contact the Office of the Taxpayers' Ombudsperson if you are not satisfied with the response you have received. The Ombudsperson will only respond to complaints that the CRA has already tried to address
+
+For more information, see the details about the [Taxpayer Bill of Rights](https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/taxpayer-bill-rights.html).
+
+### Reprisal complaints
+
+If you received a response about a previously submitted service complaint or formal review of a CRA decision and felt that you were not treated fairly by a CRA employee, you can submit a reprisal complaint by filling out [Form RC459, Reprisal Complaint](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc459.html).
+
+For more information, go to [Reprisal Complaints](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/reprisal-complaints.html).
+
+### Due dates
+
+When a due date falls on a Saturday, Sunday, or public holiday recognized by the CRA, your payment is considered on time if the CRA receives it on or before the next business day.
+
+See the details on the [important dates for corporations](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/important-dates-businesses/important-dates-corporations.html).
+
+### Non-resident corporation enquiries
+
+If you have a question about a non-resident corporation account, go to [Businesses – International – Non-resident taxes](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/businesses-international-non-resident-taxes.html) or [contact the Canada Revenue Agency (CRA](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html)).
+
+**Mailing address** You may write to:
+
+Sudbury Tax Centre PO Box 20000, STN A Sudbury ON P3A 5C1 CANADA
+
+**Fax****705-671-3994**
+
+## Index
+
+- [Active business income – Schedule 7](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-4-page-4-t2-return.html)
+
+- Amalgamated corporations
+
+    - [Final tax year before amalgamation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-1-page-1-t2-return.html)
+
+    - [First tax year – Schedule 24](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-1-page-1-t2-return.html)
+
+- [Appeals](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+- Associated corporations – [Schedules 23](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html) and [49](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+- [Authorizing representatives and employees](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Available-for-use rule](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+- [Balance-due day](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+- [Base amount of Part I tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html)
+
+- [Books and records](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-1-page-1-t2-return.html)
+
+- [Business limit – Schedule 23](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+- [Business number](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-1-page-1-t2-return.html)
+
+- [Canadian film or video production tax credit – Form T1131](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Capital cost allowance (CCA) – Schedule 8](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+- [Capital gains refund (federal) – Schedule 18](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Capital gains refund (provincial or territorial) – Schedule 18](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [CCA rates and classes](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+- [Charitable donations – Schedule 2](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+- [Clean economy](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- Control
+
+    - [Acquisition of](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-1-page-1-t2-return.html)
+
+    - [Definition](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+    - [Losses and changes in control](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+- [Country-by-country reporting](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+- Credit unions
+
+    - [Allocation in proportion to borrowing – Schedule 17](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+- [Deferred income plans – Schedule 15](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+- [Digital services](#online_services)
+
+- [Direct deposit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Dispositions of capital property – Schedule 6](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+- Dividends – Schedule 3
+
+    - [Paid](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-6-pages-6-7-t2-return.html)
+
+    - [Received](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+    - [Refund](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-6-pages-6-7-t2-return.html)
+
+    - [Subject to Part IV tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Earned depletion base – Schedule 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+- [Election not to be associated – Schedule 28](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+- Eligible dividend
+
+    - [General Rate Income Pool (GRIP)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+    - [Low Rate Income Pool (LRIP)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+    - [Election to not be a CCPC](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+    - [Excessive dividend designations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Excessive interest and financing expenses limitation (EIFEL) rules – Schedule 130](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+- [Exemption from tax under section 149](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-1-page-1-t2-return.html)
+
+- [Federal qualifying environmental trust tax credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html)
+
+- [Federal qualifying environmental trust tax credit refund](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Federal tax abatement](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html)
+
+- Filing requirements
+
+    - [Acceptable formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+    - [Filing deadlines](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+    - [Where to file](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+    - [Who has to file](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+- [Film or video production services tax credit – Form 1177](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Final return (dissolution)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-1-page-1-t2-return.html)
+
+- Foreign
+
+    - [Affiliates (investment in) – Form T1134, Schedule 25](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+    - [Business income tax credit – Schedule 21](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html)
+
+    - [Non-business income tax credit – Schedule 21](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html)
+
+    - [Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+    - [Tax deductions, addition to taxable income](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+- [Functional currency](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-1-page-1-t2-return.html)
+
+- [General Index of Financial Information (GIFI)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+- [Gifts, Ecological – Schedule 2](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+- [Gifts of cultural property – Schedule 2](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+- [Inactive corporations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+- [Information reporting of tax avoidance transactions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+    - [Form RC312](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+    - [Form RC3133](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+- [Instalment due dates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+- [Instalment payments](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Internet business activities – Schedule 88](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+- [International Financial Reporting Standards (IFRS)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+- Investment
+
+    - [Corporation deduction](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html)
+
+    - [Income – Schedule 7](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-4-page-4-t2-return.html)
+
+    - [Tax credit – Schedule 31](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html)
+
+    - [Tax credit recapture](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html)
+
+    - [Tax credit refund](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html)
+
+- [Journalism labour tax credit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Logging tax credit – Schedule 21](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html)
+
+- Losses
+
+    - [Allowable business investment](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+    - [And changes in control](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+    - [Carry-back – Schedule 4](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+    - [Continuity and application – Schedule 4](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+    - [Farm](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+    - [Limited partnership](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+    - [Listed personal property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+    - [Net capital](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+    - [Non-capital](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+    - [Restricted farm](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+- [Mandatory electronic filing](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+- [Mandatory electronic filing for tax preparers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Manufacturing and processing profits deduction – Schedule 27](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html)
+
+- [NAICS codes](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+- [Net income (or loss) for income tax purposes – Schedule 1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+- [New corporations – Schedule 24](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-1-page-1-t2-return.html)
+
+- Non-profit organizations
+
+    - [Exempt from tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-1-page-1-t2-return.html)
+
+    - [Information return – Form T1044](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-1-page-1-t2-return.html)
+
+- Non-resident
+
+    - [Corporations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+    - [Discretionary trust – Schedule 22](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+    - [Non-arm's length transactions with non-resident persons – Form T106](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+    - [Ownership – Schedule 19](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+    - [Payments to – Schedule 29](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+- [Part I tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html)
+
+- Part II.2 tax
+
+- [Part III.1 Tax – Schedule 55](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Part IV tax – Schedule 3](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Part IV.1 tax – Schedule 43](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Part VI tax – Schedules 38, 39, 42](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Part VI.1 tax – Schedules 43, 45](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Part VI.1 tax deduction](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+- [Part VI.2 tax – Schedule 67](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Part XIII.1 tax – Schedule 92](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Part XIV tax – Schedule 20](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- Partnerships
+
+    - [Information slip T5013](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+    - [Limiting deferral of corporation tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+- [Patronage dividend deduction – Schedule 16](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+- [Payments to non-residents – Schedule 29](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+- [Payments to residents – Schedule 14](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+- [Penalties](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+- [Permanent establishment](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Personal services business](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-4-page-4-t2-return.html)
+
+- Provincial and territorial tax and credits
+
+    - [British Columbia](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+    - [Manitoba](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+    - [New Brunswick](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+    - [Newfoundland and Labrador](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+    - [Northwest Territories](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+    - [Nova Scotia](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+    - [Nunavut](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+    - [Ontario](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+    - [Prince Edward Island](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+    - [Saskatchewan](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+    - [Yukon](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- Provincial or territorial
+
+    - [Dual income tax rates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+    - [Foreign tax credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+    - [Jurisdiction](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+    - [Tax credits and rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+    - [Tax payable – Schedule 5](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Reassessments](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+- [Reduced business limit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-4-page-4-t2-return.html)
+
+- [Refundable dividend tax on hand (eligible and non-eligible)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-6-pages-6-7-t2-return.html)
+
+- [Refundable portion of Part I tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-6-pages-6-7-t2-return.html)
+
+- [Related corporations – Schedule 9](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+- Reserves
+
+    - [Capital gains](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+    - [Continuity – Schedule 13](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+- [Return of fuel charge proceeds to farmers tax credit – Schedule 63](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Scientific research and experimental development expenditures – Form T661](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+- [Shareholder information – Schedule 50](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+- [Short return (T2)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+- [Small business deduction](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-4-page-4-t2-return.html)
+
+- [Specified investment business](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-4-page-4-t2-return.html)
+
+- [Specified partnership income or loss](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-4-page-4-t2-return.html)
+
+- [Tax rate (basic)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html)
+
+- Tax reduction
+
+    - [General](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-5-page-5-t2-return.html)
+
+- [Tax shelter loss or deduction – Form T5004](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+- [Tax withheld at source](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- Taxable income
+
+    - [Addition for foreign tax deductions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+    - [Calculation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)
+
+    - [Used to calculate small business deduction](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-4-page-4-t2-return.html)
+
+- Transactions
+
+    - [Non-arm's length – Schedule 44](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+    - [With shareholders, officers, or employees – Schedule 11](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+- [Wind-up of a subsidiary – Schedule 24](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-1-page-1-t2-return.html)
+
+- [Previous page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html)
+
+- [Table of contents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide.html)

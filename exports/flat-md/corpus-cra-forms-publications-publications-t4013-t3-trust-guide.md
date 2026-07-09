@@ -1,0 +1,5174 @@
+---
+title: "T3 Trust Guide – 2025"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013/t3-trust-guide.html
+last_modified: 2026-02-27
+---
+# T3 Trust Guide – 2025
+
+The Canada Revenue Agency (CRA) publications and personalized correspondence are available in braille, large print, e-text, and MP3. For more information, go to [Order alternate formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html) or call **1-800-959-8281.**
+
+## Table of contents
+
+- [Before you start](#P86_4279)
+
+- [Definitions](#definitions)
+
+- [Chapter 1 – General information](#P181_16897)
+
+    - [Types of trusts](#P1302_146510)
+
+    - [Code number for the type of trust](#cdnmbrtrts)
+
+    - [Who should file](#P308_34295)
+
+    - [Rules for tax years ending on or after December 31, 2023](#rules_for_tax_year)
+
+    - [When must beneficial ownership information be submitted](#when_must_bene)
+
+    - [Trust account number](#trn)
+
+    - [What to file](#P323_35599)
+
+    - [Form T3-DD, Direct Deposit Request for T3](#frm_t3dd_drct_dpst_rqust)
+
+    - [When to file](#P331_37866)
+
+    - [Tax year-end and fiscal period](#P333_37934)
+
+    - [How to file the T3 return](#how_fl_rtrn)
+
+    - [Penalties and interest](#P430_52301)
+
+    - [Payment options](#paymentoptions)
+
+    - [After you file](#ftr_y_fl)
+
+- [Chapter 2 – Completing the T3 return](#P479_59386)
+
+    - [Step 1 – Identification and other required information](#P482_59573)
+
+    - [Step 2 – Calculating total income: Lines 1 to 13](#P535_64937)
+
+    - [Thin capitalization – Rules for trusts](#Thin_capitalization)
+
+    - [Step 3 – Calculating net income: Lines 15 to 32](#P625_75756)
+
+    - [Step 4 – Calculating taxable income: Lines 33 to 45](#P827_85989)
+
+    - [Step 5 – Summary of tax and credits: Lines 46 to 80](#P864_92110)
+
+- [Chapter 3 – Trust schedules and forms](#P906_97823)
+
+    - [Schedule 1 – Dispositions of Capital Property](#P908_97861)
+
+          - [Form T1055, Summary of Deemed Dispositions (2002 and later tax years)](#P1133_126622)
+
+          - [Form T2223, Election Under Subsection 159(6.1) of the Income Tax Act, by a Trust to Defer Payment of Income Tax](#P1174_133162)
+
+    - [Schedule 8 – Investment Income, Carrying Charges, and Gross-up Amount of Dividends Retained by the Trust](#P1224_135689)
+
+    - [Schedule 9 – Income Allocations and Designations to Beneficiaries](#P1280_144279)
+
+    - [Schedule 10 – Part XII.2 Tax, Part XIII Non Resident Withholding Tax, and Part II.2 Tax on Repurchases of Equity](#P1535_175122)
+
+    - [Schedule 11 – Federal Income Tax](#P1645_188131)
+
+    - [Schedule 11A – Donations and gifts tax credit calculation](#Schdl_11A_Donations_gifts_tax_credit_calculation)
+
+    - [Schedule 12 – Minimum Tax](#P1788_202398)
+
+    - [Provincial and territorial income tax](#P1802_203586)
+
+    - [Schedule 15 – Beneficial Ownership Information of a Trust](#schedule_15)
+
+    - [Schedule 130 – Excessive Interest and Financing Expenses Limitation](#t3sch130)
+
+- [Chapter 4 – T3 slip and T3 summary](#P1818_205822)
+
+    - [How to file the T3 slip and T3 summary](#P381_44801)
+
+    - [Distributing the T3 slip](#dstbtng_T3_slps)
+
+    - [Amending, cancelling, adding, or replacing T3 slips](#mndg_cncllg_addng_rplcng_T3_slps)
+
+    - [Recipient identification number](#P1828_207801)
+
+    - [How to fill out the T3 slip](#P1843_210216)
+
+- [Appendix A – T3 slip and T3 summary](#P2175_231612)
+
+- [Related topics](#nln_srvrs)
+
+- [Index](#P1988_224356)
+
+## Find out if the information in this guide is for you
+
+A [T3 Trust Income Tax and Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ret.html) (T3 return) is both an income tax return and a general information return. A T3 return serves to report not only information about the reporting trust, but also additional information, such as that affecting the taxation of persons (for example, beneficiaries or settlors) having some connection to the trust.
+
+This guide provides information on how to fill out the T3 return, and the T3 schedules and forms, the [T3 slip, *Statement of Trust Income Allocations and Designations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3.html), and the [T3SUM, *Summary of Trust Income Allocations and Designations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sum.html).
+
+If you are filing a T3return for a testamentary trust or an inter vivos trust, read the section [Types of trusts](#P1302_146510).
+
+The word **you**throughout the guide refers to the trustee, executor, administrator, liquidator, custodian, or anyone preparing the T3 return for a trust. For tax purposes, estates and trusts are treated similarly. In calculating the income of an estate, references in this guide to trust or trust property include **estate**or **estate property**.
+
+The "Act" refers to the*Income Tax Act*. Unless otherwise stated, all legislative references within this guide are to the [*Act*](https://laws-lois.justice.gc.ca/eng/acts/I-3.3/) and the [*Income Tax Regulations*](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._945/index.html). You can find a list of these references in the Index at the end of the guide.
+
+For a list of the Act's references, go to [Justice Laws](https://laws-lois.justice.gc.ca/) website.
+
+For a list of Income Tax Regulations references, go to [Consolidated Regulations](https://laws-lois.justice.gc.ca/eng/regulations/).
+
+If you need more information after reading this guide, go to [Trust income tax](https://www.canada.ca/en/services/taxes/income-tax/trust-income-tax.html).
+
+The CRA lists the service enhancements and major changes below, including proposed income tax changes that are not yet law at the time this guide was published. If they become law as proposed, they will be effective for 2025 or as of the dates given.
+
+### Enhanced trust reporting rules
+
+Under proposed changes, and consistent with the [Explanatory Notes Relating to the Income Tax Act and Other Legislation](https://fin.canada.ca/drleg-apl/2025/nwmm-amvm-1-n-2-1125-eng.html) published by the Department of Finance, while taxpayers can still choose to file under currently enacted legislation, the CRA does not expect bare trusts to file a T3 return including Beneficial Ownership Information of a Trust (Schedule 15) for taxation years ending in 2025.
+
+Among other proposed changes, for taxation years ending on or after December 31, 2025, certain trusts may not be required to file a T3 return if specific conditions are met. Where those conditions are not met and a T3 return is required to be filed, these trusts will not be required to file Schedule 15 with their T3 return for taxation years ending on or after December 31, 2025. For more information, see [What has changed - Filing a trust’s T3 return](https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/t3-return/filing-trust-return/what-changed.html).
+
+### Carryback of losses under 164(6) and (6.1)
+
+Under proposed changes, where a taxpayer has died on or after August 12, 2024, the period for which a legal representative can elect under subsection 164(6) to treat certain capital losses and terminal losses of a taxpayer’s graduated rate estate (GRE) as the losses of the deceased taxpayer for the deceased taxpayer’s final taxation year is extended from the first taxation year of the GRE to the first three taxation years of the GRE.
+
+Similarly, under subsection 164(6.1), the period for electing to treat certain amounts related to employee stock options as employment losses of the deceased for their final taxation year is also extended to the first three taxation years of the GRE.
+
+For more information, see [subsection 164(6) election](#P944_101340).
+
+### Minimum Tax
+
+Under proposed changes, for tax years beginning after December 31, 2023, certain trusts for the benefit of Indigenous groups will be exempt from minimum tax, among other technical amendments. For additional information and to calculate your federal tax payable under minimum tax for 2025, see [Form T3SCH12, *Minimum Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch12.html) (Schedule 12) and Chapter 3, [Form Schedule 12, Minimum Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013/t3-trust-guide.html).
+
+### Changes in the income tax rate
+
+Under proposed changes, starting July 1, 2025, the lowest individual income tax rate is reduced from 15 % to 14 %.
+
+Since the change takes effect halfway through the year, the full-year lowest individual income tax rate for the 2025 will be 14.5%.
+
+For more information on 2025 federal, provincial, and territorial income tax rates, go to [Tax rates and income brackets for individuals](https://www.canada.ca/en/revenue-agency/services/tax/individuals/frequently-asked-questions-individuals/canadian-income-tax-rates-individuals-current-previous-years.html).
+
+### New provincial rates
+
+- The British Columbia rate for additional minimum taxes and minimum tax carryover has increased from 33.7% to 34.9%. For more information, see [Form T3BC, *British Columbia Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3bc.html).
+
+- The Newfoundland and Labrador rate for additional minimum taxes and minimum tax carryover has increased from 58% to 60%. For more information, see [Form T3NL, *Newfoundland and Labrador Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3nl.html).
+
+- The capital gains refund for a mutual fund rate for Newfoundland and Labrador increased from 58% to 60%. For more information, see [Form T184, *Capital Gains Refund to a Mutual Fund Trust*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t184.html).
+
+- The capital gains refund for a mutual fund rate for Yukon increased from 42.67% to 44.14%. For more information, see [Form T184](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t184.html).
+
+### New Alberta personal tax bracket
+
+A new 8% personal income tax bracket for income up to $60,000 is available to graduated rate estates and qualified disability trusts (QDTs). For more information, see [Form T3AB, *Alberta Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ab.html).
+
+### Nova Scotia dividend tax credit rate
+
+The Nova Scotia other than eligible dividend tax credit rate decreases from 22.94% to 11.5%. For more information, see [Form T3NS, *Nova Scotia Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ns.html).
+
+### Ontario minimum tax carryover
+
+The rate decreases from 33.67% to 24.63%. For more information, see [Form T3ON, *Ontario Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3on.html).
+
+### Manitoba cultural industries printing tax credit (CIPTC)
+
+The CIPTC was made permanent and can be claimed on line 74 of the T3 return.
+
+### Manitoba family tax benefit
+
+For the 2025 and later tax years, trusts are no longer eligible for the Manitoba family tax benefit.
+
+### The Manitoba rental housing construction incentive tax credit
+
+As of 2025, the Manitoba rental housing construction incentive tax credit has been officially implemented with several key updates and clarifications:
+
+- $8,500 per unit for market-rate rental units
+
+- $13,500 per unit for affordable units maintained for at least 10 years
+
+- $8,500 is refundable, and an additional $5,000 non-refundable credit is available over 10 years for affordable units for **for-profit entities**
+
+For more information, see [Form T3MB, *Manitoba Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3mb.html).
+
+### Yukon minimum tax and minimum tax carryover
+
+For the 2025 and later tax years:
+
+- the Yukon minimum tax rate increases from 42.67% to 43.90%
+
+- the rate for Yukon minimum tax carryover is 44.14% on any portion of the federal minimum tax carryover that is attributed to additional taxes for minimum tax purposes on tax years ending before 2025, and 43.90% on any portion of the federal minimum tax carryover that is attributed to additional taxes for minimum tax purposes on tax years ending in 2025 or subsequent years
+
+For more information, see [Form T3YT, *Yukon Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3yt.html).
+
+## Before you start
+
+### Did you know?
+
+When required, beneficial ownership information requested on Schedule 15 must be filed each tax year with the T3 return even if there are no changes for the reportable entities. Failure to file this information may result a late-filing or other penalties. For more information, refer to question 1.5 and 1.9 from the frequently asked questions of the [Enhanced Trust Reporting Frequently Asked Questions](https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/t3-return/enhanced-reporting-rules-trusts-bare-trusts-faq.html).
+
+### Find out if you need to read all of the information on this guide
+
+If you are filing a [T3 return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ret.html) for an estate that has only pension income, investment income, or death benefits, you do not need to read all of information on this guide. Use the hyperlinks to find the information you may need. Before you begin, be sure to read:
+
+- [Chapter 1 – General information](#P181_16897)
+
+- [Step 1 – Identification and other required information](#P482_59573)
+
+- [Chapter 4 – T3 slip and T3 summary](#P1818_205822)
+
+### Determining the residence of the trust or estate
+
+A trust may be factually resident, non-resident, or deemed to be resident in Canada. To assist in making this determination, see [Income Tax Folio S6-F1-C1, *Residence of a Trust or Estate*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-6-trusts/series-6/income-tax-folio-s6-f1-c1-residence-a-trust-estate.html).
+
+### Non-resident trusts or deemed resident trusts
+
+If you are the trustee for a [non-resident trust](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013/t3-trust-guide.html), or [deemed resident trust](#P240_23830), special rules apply in some situations.
+
+### Which tax package should you use?
+
+Use the T3 provincial or territorial forms for the province or territory where the trust was resident on the last day of its tax year.
+
+To get any schedules and forms that you may need, go to [T3 return, schedules and forms](https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/t3-return/filing-trust-return/getting-ready-file.html) or [Canada Revenue Agency forms listed by number](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms.html). After you have filled out the necessary schedules, forms, and statements, you will be ready to fill out the T3 return. If you are filing a paper return, send the CRA all required documents with the return.
+
+The province of Quebec collects its own provincial income tax. Do not calculate provincial income tax on the trust's federal return if the trust was resident in Quebec on the last day of its tax year. If the trust had income from a business with a permanent establishment in another province or territory, you have to calculate the income tax for that province or territory on the trust's federal tax return.
+
+For more information, go to [Doing taxes for someone who died](https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died.html).
+
+### Penalty for missing recipient identification number
+
+The CRA may apply a penalty if an information return (T3 slip) is missing the required recipient identification number. For more information, see [Recipient identification number](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013/t3-trust-guide.html).
+
+## Definitions
+
+This section provides definitions of the technical terms used by the CRA on this guide.
+
+- Administrator A person appointed by a court to settle the estate of a deceased person, generally in situations where an individual dies without a will or a testator’s will does not name an executor.
+
+- Allocate, allocation To assign or set apart income from a trust to a beneficiary. An amount can only be allocated to a beneficiary when one of the following applies: the beneficiary is entitled to the income in the year that it is earned by the trust, under the trust document the trust makes a preferred beneficiary election to include the trust income in the beneficiary’s income the beneficiary is paid income in the year that it is earned by the trust, at the discretion of the trustee In most cases, the amounts you allocate have to be included in the beneficiary’s income, and they are deducted from the trust’s income. For exceptions to this general rule, read the section [Exceptions and limits to income allocations](#Exceptions_Limits).
+
+- Arm’s length This refers to a relationship or a transaction between persons who act in their own separate interests. An arm’s length transaction is generally a transaction that reflects ordinary commercial dealings between unrelated parties acting in their own separate interests. For more information, go to [Income Tax Folio S1-F5-C1, *Related Persons and Dealing at Arm's Length*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html). **Related persons** are not considered to deal with each other at arm's length. Related persons include individuals connected by blood relationship, marriage, common-law partnership, or adoption (legal or in fact). A corporation and another person or two corporations may also be related persons. For more information, go to [Income Tax Folio S1-F5-C1, *Related Persons and Dealing at Arm's Length*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html). **Unrelated persons** may not be dealing with each other at arm's length at a particular time. Each case will depend upon its own facts. The following criteria will generally be used to determine if the parties to a transaction are not dealing at arm's length: whether there is a common mind that directs the bargaining for the parties to a transaction whether the parties to a transaction act in concert without separate interests ("acting in concert" means, for example, that parties act with considerable interdependence on a transaction of common interest) whether there is “de facto control” of one party by the other because of, for example, advantage, authority, or influence For more information, go to [Income Tax Folio S1-F5-C1, *Related Persons and Dealing at Arm's Length*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html).
+
+- Beneficiary This includes the person for whose benefit a trust is created, the person to whom the amount of an insurance policy or annuity is payable, or the unit holder of a mutual fund trust. For the purposes of the trust reporting requirements, read the section [Identifying Beneficiaries](#ident_bene).
+
+- Controlling person For purposes of the trust reporting requirements, this term is described under section [Schedule 15 – Beneficial Ownership Information of a Trust](#schedule_15).
+
+- Common-law partner This refers to a person who is not your [spouse](#P167_15782) with whom you are living in a conjugal relationship, and to whom at least one of the following situations applies: This person has been living with you in such a relationship for at least 12 continuous months**Note** In this definition, 12 continuous months includes any period you were separated for less than 90 days because of a breakdown in the relationship. This person is the parent of your child by birth or adoption This person has custody and control of your child (or had custody and control immediately before the child turned 19 years of age) and your child is wholly dependent on that person for support
+
+- Contribution of property This generally refers to a transfer or loan of property, other than an arm’s length transfer (as defined in subsection 94(1)) to a non-resident trust by a person or partnership. A contribution is also considered to have been made by a person or partnership where they make (or become obligated to make) a particular transfer (other than an arm’s length transfer) as part of a series of transactions or events that includes another transfer or loan (other than an “arm’s length transfer”), to the trust, by another person or partnership. In these circumstances, the other transfer or loan is considered to be a contribution to the trust by the person or partnership only to the extent that the other transfer or loan can reasonably be considered to have been made for the particular transfer or loan, or the obligation to make the particular transfer or loan.
+
+- Deemed disposition This term is used when you are considered to have disposed of property, even though you did not actually sell it.
+
+- Designate, designation This is done to keep the identity of certain types of allocated income or credits. In this way, the beneficiaries can take advantage of deductions or credits that relate directly to the type of income, such as a dividend tax credit or pension income amount. Generally, you report amounts designated to a beneficiary in the appropriate box on a [T3 slip, *Statement of Trust Income Allocations and Designations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3.html).
+
+- Distribute, distribution This refers to the division of trust property among the beneficiaries according to the terms of a trust document, or according to the applicable law.
+
+- Electing beneficiary For a tax year of a qualified disability trust, this means an individual named as a beneficiary by the particular individual (that is the deceased individual) in the instrument under which a trust was created, and who meets all of the following conditions: includes in their return of income for the trust year, an election made jointly with the trust that the trust will be a qualified disability trust for the trust year must be eligible for the disability tax credit for the beneficiary’s tax year in which the trust’s year-ends does not elect with any other trust to be a qualified disability trust for the other trust’s tax year that ends in the beneficiary’s tax year
+
+- Executor An individual or trust institution appointed by a [testator](#testator_1) (named in their will) to administer their estate. The executor may be confirmed by a court.
+
+- Exempt property This is trust property that, if disposed of, any income or capital gain resulting from the disposition is exempt from Canadian tax, either because the trust is not resident in Canada, or because of a tax treaty.
+
+- Express trust A trust generally created with the settlor’s express intent, usually made in writing (as opposed to a resulting or constructive trust, or certain trusts deemed to arise under the provision of a statute).
+
+- Gift This is generally a voluntary transfer of property (including money) without valuable consideration. However, a transfer of property where the donor receives an advantage may still be considered a gift where the advantage does not exceed 80% of the fair market value (FMV) of the transferred property, or the CRA is satisfied the property was transferred with the intention of making a gift. Generally, the eligible amount of a gift or monetary contribution is the amount by which the FMV of the gifted property exceeds the amount of the advantage, if any, in respect of the gift. There may be situations where the eligible amount may be deemed to be none, or the FMV may be deemed to be less than the actual FMV. For more information, see [Guide P113, *Gifts and Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html), and [Income Tax Folio S7-F1-C1, *Split-receipting and Deemed Fair Market Value*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-7-charities-non-profit-organizations/series/income-tax-folio-s7-f1-c1-split-receipting-deemed-fair-market-value.html). The advantage is generally the total value of any property, service, compensation, use, or any other benefit that the trust, or a person or partnership not dealing at arm’s length with the trust, has received, gotten or enjoyed, or is entitled to as partial consideration for, in gratitude for, or in any other way related to the gift. The advantage may be contingent or receivable in the future.
+
+- Legal representative An individual or organization appointed by a legal document (for example, testator’s will or court order). It includes: an administrator, executor, liquidator, and trustee.
+
+- Liquidator In Quebec, the liquidator is responsible for distributing the assets of all estates established after December 31, 1993. For estates with a will, the liquidator’s role is similar to an executor’s. For estates without a will, the liquidator acts as the administrator of the estate.
+
+- Listed trust Refers to the situations or trust types provided in subsection 150(1.2) of the Act. For more information, read [Listed trusts](#listed_trust).
+
+- Non-arm's length Refers generally to a relationship or transaction between persons who are related to each other. However, a non-arm's length relationship might also exist between unrelated individuals, partnerships, or corporations, depending on the circumstances. For more information, see the definition of [Arm's length](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013/t3-trust-guide.html).
+
+- Preferred beneficiary A person resident in Canada who is a beneficiary under the trust at the end of the year, and who meets one of the following conditions: This person qualifies for the disability amount for the tax year that ends in the trust's tax year This person:is 18 years of age or older before the end of the tax year is a dependant of another individual for the tax year because of a mental or physical impairment has income for the tax year, not including income from a preferred beneficiary election, which does not exceed the maximum basic personal amount In addition, this person must be one of the following: the [settlor](#settlor_1) of the trust the spouse or common-law partner, or former spouse or common-law partner, of the settlor of the trust a child, grandchild, or great-grandchild of the settlor of the trust the spouse or common-law partner of a child, grandchild, or great-grandchild of the settlor of the trust
+
+- Principal residence Generally means any of the following: a housing unit a leasehold interest in a housing unit a share of a co-operative housing corporation, if the share is acquired for the sole purpose of getting the right to live in a housing unit owned by that corporation For more information, read [Principal residence](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013/t3-trust-guide.html).
+
+- Qualifying individual A qualifying individual, for a tax year for a trust, means an individual who meets all of the following conditions: the individual is, in the year, any of: (i) the settlor of the trust, (ii) the child, grandchild, great-grandchild, parent, grandparent, great-grandparent, brother, sister, uncle, aunt, niece, or nephew of the settlor or of the spouse or common-law partner, or former spouse or common-law partner of the settlor, (iii) the spouse or common-law partner or former spouse or common-law partner of any person described in subparagraphs (i) or (ii) above the individual is resident in Canada during the year the individual is eligible for the disability tax credit
+
+- Settlor Generally, this means the person who set up a trust by contributing property to the trust. In the case of a preferred beneficiary election, a settlor is restricted to a person who is otherwise the settlor of the trust and has contributed the majority of property to the trust. For more information about the meaning of "settlor" for the purposes of the trust reporting requirements, go to [Schedule 15 – *Beneficial Ownership Information of a Trust*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013/t3-trust-guide.html).
+
+- Spouse A person to whom you are legally married.
+
+- Testator This is the deceased person who made and left a valid will.
+
+- Trust A binding obligation enforceable by law when undertaken. It may be created by one of the following: a person (verbally or in writing) a court order a statute Generally, a trust is created when it is properly established and there is certainty of: the intent to create a trust the property to be placed in trust the beneficiaries of the trust **Note** Generally, all trusts that are required to file a T3 return, other than listed trusts, must include specified information of the trust, as outlined on Schedule 15, with their T3 return
+
+- Trustee An individual or trust institution that holds the legal title to property in trust for the benefit of the trust beneficiaries. The trustee includes an executor, administrator, assignee, receiver, or liquidator who owns or controls property for some other person.
+
+- Vested interest An immediate fixed interest in property, although the right of possession and enjoyment may be postponed.
+
+- Will A legally enforceable document that declares the intentions about disposal and administration of the testator’s estate after their death. It is effective only at death and can be revoked at any time before death.
+
+## Chapter 1 – General information
+
+This chapter provides general information on the different types of trusts and the filing requirements for each.
+
+### Types of trusts
+
+A trust is either a testamentary trust or an inter vivos trust. Each trust has different tax rules. [Chart 1 – Types of Trusts](#tbl_1) below describes different types of trusts and arrangements.
+
+#### Testamentary trust
+
+A testamentary trust is a trust or estate that is generally created on and as a result of the death of an individual. This includes a trust created under the terms of an individual’s will or by court order in relation to the deceased individual’s estate under provincial or territorial law.
+
+Generally, this type of trust does not include a trust created by a person other than a deceased individual. It also does not include a trust created after November 12, 1981, if any property was contributed to it other than by a deceased individual as a consequence of the individual's death. There are specific rules for testamentary trusts created before November 13, 1981.
+
+If the assets are not distributed to the beneficiaries according to the terms of the will, the testamentary trust may become an inter vivos trust.
+
+For tax years ending after December 20, 2002, a testamentary trust may become an inter vivos trust if the trust incurs a debt or other obligation to pay an amount to, or guaranteed by, a beneficiary or any other person or partnership (any or all referred to as specified party), with whom any beneficiary of the trust does not deal at arm's length.
+
+This does not apply for certain debts or other obligations, including those that are:
+
+- incurred by the trust in satisfaction of a beneficiary's right to enforce payment of an amount payable by the trust to the beneficiary or to receive any part of the trust's capital
+
+- owed to the beneficiary as a result of services provided by the beneficiary for the trust
+
+- owed to the beneficiary as a result of a payment on behalf of the trust for which property was transferred to the specified party within 12 months of the payment and the beneficiary would have made the payment had they been dealing with the trust at arm's length
+
+#### Inter vivos trust
+
+An inter vivos trust is a trust that is not a testamentary trust.
+
+| Type of trust | General information |
+
+| --- | --- |
+
+| **Graduated rate estate (GRE)** | A GRE, of an individual at any time, is the estate that arose on and as a consequence of the individual’s death, if **all** of the following conditions are met: that time is no more than 36 months after the death of the individual the estate is at that time a testamentary trust the individual’s social insurance number (SIN) is provided in the estate’s T3 return for the tax year that includes that time and for each of its earlier tax years that ended after 2015 (36-month period after the death of the individual) the estate designates itself as the GRE of the individual in its T3 return for its first tax year that ends after 2015 no other estate designates itself as the GRE of that individual in a T3 return for a tax year that ends after 2015 An estate can only be a GRE for up to 36 months following the death of an individual. The estate will cease to be a GRE if it is still in existence at the end of the 36 month period. |
+
+| **Spousal or common-law partner trust** | A **post-1971 spousal or common-law partner trust** includes both a testamentary trust created after 1971, and an inter vivos trust created after June 17, 1971. In either case, the living beneficiary spouse or common-law partner is entitled to receive all the income that may arise during the lifetime of the spouse or common-law partner. That spouse or common-law partner is the only person who can receive, or get the use of, any income or capital of the trust during their lifetime. A **pre-1972 spousal trust** includes both a testamentary trust created before 1972, and an inter vivos trust created before June 18, 1971. In either case, the beneficiary spouse was entitled to receive all the income during the spouse's lifetime, and no other person received, or got the use of, any income or capital of the trust. These conditions must be met for the period beginning on the day the trust was created, up to the **earliest**of the following dates:the day the beneficiary spouse dies January 1, 1993 the day on which the definition of a pre-1972 spousal trust is applied |
+
+| **Personal trust** | This is a trust (other than a trust that is, or was at any time after 1999, a unit trust) that is one of the following:a graduated rate estate (GRE) a trust in which no beneficial interest was acquired for consideration payable directly or indirectly to:the trust any person or partnership that has made a contribution to the trust by way of transfer, assignment, or other disposition of property For 2016 and later tax years, only a GRE automatically qualifies as a personal trust without regard to the circumstances in which beneficial interest in the trust has been acquired. |
+
+| **Alter ego trust** | This is an inter vivos trust created after 1999 by a settlor who was 65 years of age or older at the time the trust was created, for which the settlor is entitled to receive all the income that may arise during their lifetime, and is the only person who can receive, or get the use of, any income or capital of the trust during the settlor's lifetime. A trust will **not**be considered an alter ego trust if it so elects in its T3 return for its first tax year. |
+
+| **Communal organization** | The CRA considers a trust to exist when a congregation meets all of the following conditions:it has members who live and work together it follows the practices and beliefs of, and operates according to the principles of, the religious organization of which it is a part it does not permit its members to own property in their own right it requires that its members devote their working lives to the congregation's activities it carries on one or more businesses directly, or owns all of the shares of the capital stock of a corporation (except directors' qualifying shares), or every interest in a trust or another person that carries on the business to support or sustain its members or the members of another congregation The communal organization has to pay tax as though it were an inter vivos trust. However, it can elect to allocate its income to the beneficiaries. For more information, go to [Information Circular IC78-5R3, Communal Organizations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-5.html). |
+
+| **Deemed resident trust** | A trust is deemed resident in Canada where there is one of the following:a resident contributor a resident beneficiary under the trust A resident contributor to a trust at a particular time means a person that is, at that time, resident in Canada and has at or before that time made a contribution to the trust. A resident beneficiary under a trust at a particular time is a person (other than an exempt person or successor beneficiary) that, at that time, is a beneficiary under the trust, is resident in Canada, and there is a connected contributor to the trust. A connected contributor is a person who made a contribution either while resident in Canada, within 60 months of moving to Canada, or within 60 months of leaving Canada. For tax years that ended before February 11, 2014, individuals who had been resident in Canada for a period of (or periods the total of which is) 60 months or less were exempted from treatment as resident contributors or connected contributors. This exemption also applies to the tax years of non-resident trusts that end before 2015 if all of the following conditions are met: no contributions were made to the trust after February 10, 2014, and before 2015 at any time that is after 2013 and before February 11, 2014, the 60-month exemption applied in respect of the trust. These trusts are deemed resident for several purposes including: filing income tax returns and paying income tax under Part I of the Act withholding tax on amounts paid to non-residents under Part XIII certain filing obligations relating to ownership of foreign property, and money received from or given to foreign entities The trusts are not considered a resident for calculating a Canadian’s liability when paying the trust (that is, when a resident taxpayer pays the deemed resident trust it is required to withhold Part XIII). They are also not considered a resident for the purpose of determining a Canadian resident's (other than the trust) foreign reporting requirements. |
+
+| **Employee benefit plan** | Generally, this is any arrangement under which an employer makes contributions to a custodian, and under which one or more payments will be made to, or for the benefit of, employees, former employees, or persons related to them. For more information, and for details on what the CRA considers to be an employee benefit plan and how it is taxed, go to [IT502 ARCHIVED – *Employee Benefit Plans and Employee Trusts*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it502.html), and its [Special Release (IT-502SR)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it502sr.html). **Note:** An employee benefit plan has to file a T3 return if the plan or trust has tax payable, has a taxable capital gain, or has disposed of capital property. Because the allocations are taxed as income from employment to the beneficiaries, report the allocations on a T4 slip, not on a T3 slip. For more information, go to [Guide RC4120, *Employers' Guide – Filing the T4 Slip and Summary*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4120.html). |
+
+| **Employee life and health trust (ELHT)** | This is a trust, established by one or more employers, that meets a number of conditions under subsection 144.1(2) of the Act. The trust's only purpose is the payment of designated employee benefits (DEBs) for employees and certain related persons (certain limitations apply to the rights and benefits that may be provided to key employees). Employers can deduct contributions made to the trust, as long as they are for DEBs and meet the conditions in subsection 144.1(4). Employee contributions are permitted, but are not deductible. However, employee contributions may qualify for the medical expense tax credit, to the extent that they are made to a private health services plan. The trust can deduct amounts paid to employees or former employees for DEBs and can generally carry non-capital losses back or forward three years. Any amount received from an ELHT must be included in income unless the amount was received as the payment of a DEB. Payments of DEBs to current or former non-resident employees will generally not be subject to tax under Part XIII. For more information on ELHTs, DEBs and key employees, go to section 144.1 of the Act. |
+
+| **Employee ownership trust (EOT)** | This is a trust established to hold shares and control of a corporation, for the benefit of the corporation’s current or former employees. Generally, it is established irrevocably and exclusively for the benefit of all individuals each of whom is a current or former (where permissible) employee of the qualifying businesses it controls and at all relevant times meets a number of conditions (including distribution criteria, residency, trustee eligibility and representation, trust governance and qualifying business status) specified in the term’s definition under subsection 248(1) of the Act. An EOT is generally taxed in the same way as other personal trusts. Provided the trust continuously meets the definition of "employee ownership trust" under subsection 248(1), the EOT is eligible for the following benefits: an extended shareholder loan repayment period to a maximum of 15 years and exception to the deemed interest benefit rule for 15 years, where the EOT borrowed funds from the qualifying business for the purpose of purchasing the qualifying business pursuant to a qualifying business transfer exception to the 21-year deemed disposition rule exception to alternative minimum tax exception to filing Schedule 15, for taxation years ending after December 30, 2025 An EOT and if applicable, a corporation wholly owned by it are jointly and severally, or solidarily, liable for Part I taxes that result from a disqualifying event within 24 months of the disposition time for the qualifying business transfer if they were parties to the joint election that elected to allocate to certain individual(s) up to $10 million capital gains deduction under a qualifying business transfer as defined under the Act. For more information, see [Form T24EOT, *Joint Election for Capital Gains Deduction in respect of a Qualifying Business Transfer*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t24eot.html). An EOT is not an employee benefit plan or an employee trust for the purposes of the Act. |
+
+| **Employee trust** | This is a trust. Generally, it is an arrangement established after 1979, under which an employer makes payments to a trustee in trust for the sole benefit of the employees. The trustee has to elect to qualify the arrangement as an employee trust on the trust’s first T3 return. The employer can deduct contributions to the plan only if the trust has made this election and filed it no later than 90 days after the end of its first tax year. To maintain its employee trust status, each year the trust has to allocate to its beneficiaries all non business income for that year, and employer contributions made in the year. Business income cannot be allocated and is taxed in the trust. For more information, go to [IT502 ARCHIVED – *Employee Benefit Plans and Employee Trusts*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it502.html), and its Special Release (IT 502SR). **Note:** An employee trust has to file a T3 return if the plan or trust has tax payable, has a taxable capital gain, or has disposed of capital property. Because the allocations are taxed as income from employment to the beneficiaries, report the allocations on a T4 slip, not on a T3 slip. For more information, go to [Guide RC4120, *Employers’ Guide – Filing the T4 Slip and Summary*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4120.html). |
+
+| **Environment Quality Act trust** | A trust under paragraph 149(1)(z.1) of the Act. This is a trust that was created because of a requirement imposed by section 56 of the Environment Quality Act, R.S.Q., c. Q-2. The trust must meet **both** of the following conditions: the trust is resident in Canada the only persons that are beneficially interested are one of the following:Her Majesty in right of Canada Her Majesty in right of a province a municipality (as defined in section 1 of the Environment Quality Act) that is exempt from tax on all of its taxable income under Part 1 of the Act because of subsection 149(1) |
+
+| **Certain Government Funded Trusts** | These are inter vivos trusts under paragraph 81(1)(g.3) of the Act and are government funded trusts established under one of the following agreements: the 1986 1990 Hepatitis C Settlement Agreement entered into by Her Majesty in right of Canada or in right of a province the Pre 1986/Post 1990 Hepatitis C Settlement Agreement entered into by Her Majesty in right of Canada the May 8, 2006, Indian Residential Schools Settlement Agreement entered into by Her Majesty in right of Canada the December 22, 2021, Safe Drinking Water for First Nations Class Action Settlement Agreement entered into by Her Majesty in right of Canada the January 18, 2023, Indian Residential Schools Settlement Agreement entered into by His Majesty in right of Canada the April 19, 2023, First Nations Child and Family Services, Jordan’s Principle and Trout Class Settlement Agreement entered into by His Majesty in right of Canada As long as no contribution to the trust, other than contributions provided for under the Agreement, is made before the end of a tax year of the trust, the trust’s income is generally exempt from income tax for that tax year. |
+
+| **Insurance segregated fund trust** | This is a related segregated fund trust, within the meaning assigned by 138.1(1)(a), of a life insurer for life insurance policies and is considered to be an inter vivos trust. The fund’s property and income are considered to be the property and income of the trust, with the life insurer as the trustee. Throughout this guide and on certain forms, the CRA uses the term "insurance segregated fund trust" or "insurance segregated fund" interchangeably. **Note:** You have to file a separate T3 return and financial statements for each fund. If all the beneficiaries are fully registered plans, fill out only the “Identification” and “Certification” sections of the T3 return and enclose the financial statements to the CRA. If the beneficiaries are both registered and non registered plans, report and allocate only the income that applies to the non registered plans. |
+
+| **First Home Savings Account (FHSA) trust** | An FHSA trust has to file a T3 return if the trust meets one of the following conditions: If the trust carried on a business or held non-qualified investments during the tax year, the trust will be taxable to the extent of the income earned from that business or those investments. For this type of trust, code 342 must be entered on the T3 return. When the last holder of an FHSA dies and the trust still exists after the exempt period, it is deemed to dispose of all its property at FMV and immediately reacquire it at the same value on January 1 following the end of the exempt period. The trust loses its FHSA status, becomes a taxable inter vivos trust from that point on and is subject to the normal rules for inter vivos trusts. For more information, go to[First home savings account (FHSA)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account.html). |
+
+| **Joint spousal or common-law partner trust** | This is a trust created after 1999 by a settlor who was 65 years of age or older at the time the trust was created. The settlor and the settlor's spouse or common-law partner are entitled to receive all the income that may arise from the trust before the later of their deaths. They are the only persons who can receive, or get the use of, any income or capital of the trust before the later of their deaths. |
+
+| **Lifetime benefit trust** | This is a trust that is at any particular time a lifetime benefit trust with respect to a taxpayer and the estate of a deceased individual if both of the following conditions are met: immediately before the death of the deceased individual, the taxpayer meets one of the following conditions:was both a spouse or common-law partner of the deceased individual and mentally infirm was both a child or grandchild of the deceased individual and dependent of the deceased individual for support because of mental infirmity the trust is, at the particular time, a personal trust under which:no person other than the taxpayer may receive or otherwise obtain the use of, during the taxpayer’s lifetime, any of the income or capital of the trust the trustees:are empowered to pay amounts from the trust to the taxpayer are required in determining whether to pay, or not to pay, an amount to the taxpayer to consider the needs of the taxpayer including, without limiting the generality of the foregoing, the comfort, care, and maintenance of the taxpayer |
+
+| **Master trust** | This is a trust. A trust can elect to be a master trust if during the entire time since its creation it met **all**of the following conditions: it was resident in Canada its only undertaking was the investing of its funds it never borrowed money except for a term of 90 days or less (for this purpose, the borrowing cannot be part of a series of loans or other transactions and repayments) it has never accepted deposits each of its beneficiaries is a trust governed by a deferred profit sharing plan, a pooled registered pension plan or a registered pension plan **Note:** A master trust is exempt from Part I tax. A trust can elect to be a master trust by indicating this in a letter filed with its T3 return for the tax year the trust elects to become a master trust. Once made, this election cannot be revoked. However, the trust must continue to meet the conditions listed above to keep its identity as a master trust. After the first T3 return is filed for the master trust, you do not have to file any further T3 returns for this trust. If you file a future T3 return, the CRA will assume the trust no longer meets the above conditions. The trust will not be considered a master trust and you must file yearly T3 returns from then on. If the trust is wound up (ceases to exist), inform the CRA of the date the trust ceased to exist by sending a letter. |
+
+| **Mutual fund trust** | This is a unit trust that resides in Canada. It also has to comply with the other conditions of the Act, as outlined in section 132, and the conditions established by section 4801 of the Income Tax Regulation. For a mutual fund trust that is a public trust, or public investment trust, there are certain reporting requirements these types of trusts must meet. For more information, read the definitions below or go to [Trust types and codes](https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/types-trusts.html).**Public trust** A public trust is, at any time, a mutual fund trust of which its units are listed, at that time, on a designated stock exchange in Canada.**Public investment trust** A public investment trust is, at any time, a trust that is a public trust, where all or substantially all of the FMV of the property is, at that time, attributable to the FMV of property of the trust that is: units of public trusts partnership interests in public partnerships shares of the capital stock of public corporations any combination of those properties |
+
+| **Non-profit organization** | This is an organization (for example, club, society, or association) that is usually organized and operated exclusively for social welfare, civic improvement, pleasure, recreation, or any other purpose except profit. The organization will generally be exempt from tax if no part of its income is payable to, or available for, the personal benefit of a proprietor, member, or shareholder. For more information, see [IT496R ARCHIVED – *Non-Profit Organizations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it496r.html). If the main purpose of the organization is to provide services such as dining, recreational, or sporting facilities to its members, the CRA considers it to be a **trust**. In this case, the trust is taxable on its income from property, and on any taxable capital gains from the disposition of any property that is not used to provide those services. The trust is allowed a deduction of $2,000 when calculating its taxable income. Claim this on line 38 of the T3 return. For more information, see [IT83R3 ARCHIVED – Non-Profit organizations – Taxation of Income From Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it83r3.html). **Note:** A non-profit organization may have to file [Form T1044, *Non-Profit Organization (NPO) Information Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1044.html). For more information, see [Guide T4117, *Income Tax Guide to the Non-Profit Organization (NPO) Information Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4117.html). |
+
+| **Nuclear Fuel Waste Act trust** | A trust under paragraph 149(1)(z.2) of the Act. This is a trust that was created because of a requirement imposed by subsection 9(1) of the Nuclear Fuel Waste Act. The trust must meet **both** of the following conditions: the trust is resident in Canada the only persons that are beneficially interested are one of the following:Her Majesty in right of Canada Her Majesty in right of a province a nuclear energy corporation (as defined in section 2 of the Nuclear Fuel Waste Act) if all the shares of its capital stock are owned by one or more persons described in (a) or (b) above the waste management organization established under section 6 of the Nuclear Fuel Waste Act if all shares of its capital stock are owned by one or more nuclear energy corporations described in (c) above Atomic Energy of Canada Limited, being the company incorporated or acquired in accordance with subsection 10(2) of the Atomic Energy Control Act |
+
+| **Pooled registered pension plans (PRPP)** | PRPPs must operate through an arrangement acceptable to the Minister. All property held in connection with a PRPP is required to be held in trust by the administrator on behalf of the plan members. As a result, a PRPP is generally treated as a trust for tax purposes, the administrator is the trustee of that trust, the members are the beneficiaries, and the trust property is the property held in connection with the plan. A PRPP trust will be excluded for purposes of the 21-year deemed disposition rules and other specified measures. When certain criteria are met, a PRPP trust will be exempt from Part 1 tax. For more information, go to [Pooled Registered Pension Plan](https://www.canada.ca/en/revenue-agency/services/tax/pooled-registered-pension-plan-prpp.html) (PRPP). |
+
+| **Qualified disability trust (QDT)** | A QDT for a tax year is a testamentary trust that arose on the death of a particular individual that jointly elects (using Form T3QDT, Joint Election for a Trust to be a Qualified Disability Trust), with one or more beneficiaries under the trust, in its T3 return for the year to be a QDT for the year. In addition, **all** of the following conditions have to be satisfied: the election must include each electing beneficiary’s social insurance number each electing beneficiary must be named as a beneficiary by the particular individual in the instrument under which the trust is created each electing beneficiary must, for the beneficiary’s tax year in which the trust’s year-ends, be eligible for the disability tax credit no beneficiary who elects with the trust to be a QDT for the year can elect with any other trust for the other trust to be a QDT for the other trust’s tax year that ends in the beneficiary’s tax year the trust must be factually resident in Canada (that is resident in Canada without regard to section 94 of the Act) the trust is not subject to the recovery tax for the year For a trust that was a QDT in a previous tax year, read the section [Line 11 – Federal recovery tax](#ln_12_fdrl_rcvry_tx). |
+
+| **Qualifying environmental trust (QET)** | Generally, this is a trust resident in Canada with a trustee that is either the Crown or a corporation resident in Canada that is licensed or otherwise authorized under the laws of Canada or a province to carry on in Canada the business of offering to the public its services as trustee. The trust is maintained for the sole purpose of funding the reclamation of a qualifying site in Canada that has been used primarily for, or for any combination of: the operation of a mine the extraction of clay, peat, sand, shale, or aggregates (including dimension stone and gravel) the deposit of waste the operation of a pipeline if the trust was created after 2011, as long as the other requirements defined in subsection 211.6(1) of the Act are met The trust is, or may become, required to be maintained under the terms of a contract entered into with the Crown or if the trust was established after 2011, by an order of a tribunal constituted under a federal or provincial law. Certain conditions exist that may exclude a trust from being a QET. For more information, read the definition of a qualifying environmental trust in subsection 211.6(1). |
+
+| **Real estate investment trust (REIT)** | A trust is a REIT for a particular tax year if it is resident in Canada throughout the year and meets a number of other conditions, including **all** of the following: at least 90% of the trust’s non-portfolio properties must be qualified REIT properties at least 90% of the trust’s gross REIT revenue for the tax year must be derived from rent, from real properties, interest, capital gains from dispositions of real properties which are capital properties, dispositions of eligible resale properties, dividends, and royalties at least 75% of the trust’s gross REIT revenues for the tax year must be derived from rent from real properties, interest from mortgages on real properties and capital gains from dispositions of real properties which are capital properties |
+
+| **Registered disability savings plan (RDSP) trust** | An RDSP trust has to file a T3 return if the trust has borrowed money and subparagraph 146.4(5)(a)(i) or 146.4(5)(a)(ii) of the Act applies. If this does not apply and the trust carried on a business or held non-qualified investments during the tax year, you have to fill out a T3 return to calculate the taxable income from the business or non-qualified investments, determined under subsection 146.4(5). If the trust is reporting capital gains or losses, it has to report the full amount (that is, 100%) on line 1 of the T3 return. |
+
+| **Registered education savings plan (RESP) trusts** | If an RESP trust held non-qualified investments during the tax year, you have to file a T3 return to calculate the taxable income from non-qualified investments, determined under subsection 146.1(5) of the Act. If the trust is reporting capital gains or losses, it has to report the full amount (that is, 100%) on line 1 of the T3 return. |
+
+| **Registered retirement savings plan (RRSP) or Registered retirement income fund (RRIF) trusts** | An RRSP, or RRIF trust has to file a T3 return if the trust meets **one**of the following conditions: the trust has borrowed money and paragraph 146(4)(a) or 146.3(3)(a) of the Act applies the RRIF trust received a gift of property and paragraph 146.3(3)(b) of the Act applies the last annuitant has died and paragraph 146(4)(c) or subsection 146.3(3.1) of the Act applies, if this is the case, claim an amount on line 47 of the T3 return **only**if the allocated amounts were paid in accordance with paragraph 104(6)(a.2) If the trust does not meet one of the above conditions and held non-qualified investments during the tax year, you have to fill out a T3 return to calculate the taxable income from non-qualified investments, determined under subsection 146(10.1) or 146.3(9). If the trust is reporting capital gains or losses, it has to report the full amount (that is, 100%) on line 1 of the T3 return. If the trust does not meet one of the above conditions and the trust carried on a business, you have to fill out a T3 return to calculate the taxable income of the trust from carrying on a business. **Do not** include the business income earned from qualified investments for the trust or from the disposition of qualified investments for the trust. |
+
+| **Retirement compensation arrangement (RCA)** | This arrangement exists when an employer makes contributions for an employee's retirement, termination of employment, or any significant change in the services of employment. For more information, go to [Retirement Compensation Arrangements](https://www.canada.ca/en/services/taxes/income-tax/trust-income-tax/retirement-compensation-arrangements-guide.html). **Note**:****If a trusteed arrangement includes both an RCA and an employee benefit plan, you must file a T3 return for the portion of the arrangement that is treated as an employee benefit plan. You must file [Form T3-RCA, *Retirement Compensation Arrangement (RCA) Part XI.3 Tax Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3-rca.html) for the RCA portion. |
+
+| **Salary deferral arrangement (SDA)** | Generally, this is a plan or arrangement (whether funded or not) between an employer and an employee or another person who has a right to receive salary or wages in a year after the services have been performed. For more information, see [IT529 ARCHIVED, *Flexible Employee Benefit Programs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it529.html). **Note:** If a salary deferral arrangement is funded, the CRA considers it a trust, and you may have to file a T3 return. The deferred amount is deemed to be an employment benefit, so you report it on a T4 slip, not on a T3 slip. The employee has to include the amount in income for the year the services are performed. The employee also has to include any interest, or other amount earned by the deferred amount. For more information, see [Guide RC4120, *Employers' Guide – Filing the T4 Slip and Summary*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4120.html). |
+
+| **Specified investment flow- through (SIFT) trust** | This is a trust (other than a trust that is a real estate investment trust for the tax year or an entity that is an excluded subsidiary entity) that meets all of the following conditions at any time during the tax year: the trust is resident in Canada investments in the trust are listed or traded on a stock exchange or other public market the trust holds one or more non-portfolio properties For more information, go to [Specified investment flow-through trust income and distribution tax](https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/specified-investment-flow-through-sift-trust-income-distribution-tax.html). |
+
+| **Specified trust (for purposes of this guide only)** | This is a trust that is one of the following: an amateur athlete trust an employee life and health trust an employee trust a master trust a trust governed by:a deferred profit sharing plan an employee benefit plan an employee profit-sharing plan a foreign retirement arrangement a pooled registered pension plan a registered disability savings plan a registered education savings plan a registered pension plan a registered retirement income fund a registered retirement savings plan a registered supplementary unemployment benefit plan a tax-free savings account trust a related segregated fund trust a retirement compensation arrangement trust a trust whose direct beneficiaries are one of the above-mentioned trusts a trust governed by:an eligible funeral arrangement or a cemetery care trust a communal organization a trust where all or substantially all of the property is held for the purpose of providing benefits to individuals from employment or former employment |
+
+| **Tax-free savings account (TFSA) trust** | A TFSA trust has to file a T3 return if the trust meets **one** of the following conditions:If a TFSA trust carried on a business or held non-qualified investments during the tax year, the trust will be taxable to the extent of the income earned from that business or those investments (type of trust code 320 on the T3 return). When the last holder of a TFSA dies, and the trust still exists after the exempt period, it is deemed to dispose of all its property at FMV and immediately reacquire it at the same value on January 1 following the end of the exempt period. The trust loses its TFSA status, becomes a taxable inter vivos trust from that point on (type of trust code 318 on the T3 return) and is subject to the normal rules for inter vivos trusts. Additionally, in its first year as a taxable inter vivos trust, the trust is taxable on any income and gains earned but not distributed during the exempt period. For more information go to, [Death of a tax-free savings account holder.](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account.html) |
+
+| **Unit trust** | This is a trust for which the interest of each beneficiary can be described at any time by referring to units of the trust. A unit trust must also meet one of the three conditions described in subsection 108(2) of the Act. |
+
+| **Bare trust** | The term bare trust is not defined in the Act. A trust for the purposes of the Act is defined in subsection 104(1) of the Act. That subsection provides that, if the arrangement is one in which the trust can reasonably be considered to act as agent for all the beneficiaries under the trust with respect to all dealings with all of the trust’s property and the trust is not a trust described in paragraphs (a) to (e.1) of the definition of trust in subsection 108(1) of the Act, the arrangement is deemed not to be a trust for the purposes of the Act, with certain exceptions. These arrangements are generally known as "bare trusts." A trustee can reasonably be considered to act as agent for a beneficiary when the trustee has no significant powers or responsibilities, the trustee can take no action without instructions from that beneficiary and the trustee’s only function is to hold the legal title to the property. In order for the trustee to be considered as the agent for all the beneficiaries of a trust, it would generally be necessary for the trust to consult and take instructions from each and every beneficiary with respect to all dealings with all of the trust property. The CRA does **not** expect bare trusts to file a T3 Trust Income Tax and Information Return (T3 return) including Beneficial Ownership Information of a Trust (Schedule 15) for taxation years ending in 2025. |
+
+| **Land settlement trust** | The term **land settlement trust** is not defined in the Act. Generally, a land settlement trust is a trust created to hold the settlement funds paid for a First Nation’s land claim. |
+
+### Code number for the type of trust
+
+A trust is either a testamentary trust or an inter vivos trust. Use the code number below for the type of trust.
+
+#### Testamentary trusts:
+
+- **code 900**, for a testamentary trust that is not identified by one of the other testamentary trust codes
+
+- **code 901**, for a lifetime benefit trust
+
+- **code 903**, for an estate that designated itself as a graduated rate estate (applicable for tax years ending after 2015)
+
+- **code 904**, for a QDT (applicable for tax years ending after 2015 when [Form T3QDT, J*oint Election for a Trust to be a Qualified Disability Trust*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3qdt.html), is submitted)
+
+- **code 905**, for a spousal or common-law partner trust
+
+#### Inter vivos trusts:
+
+- **code 300**, for other trust
+
+- **code 301**, for a registered retirement savings plan (RRSP) trust liable for tax under Part I
+
+- **code 302**, for a registered retirement income fund (RRIF) trust liable for tax under Part I
+
+- **code 303**, for a registered disability savings plan (RDSP) trust liable for tax underPart I
+
+- **code 304**, for a real estate investment trust (REIT)
+
+- **code 306**, for a salary deferral arrangement (SDA)
+
+- **code 307**, for a bare trust
+
+- **code 310**, for a committeeship or trusteeship trust
+
+- **code 311**, for a land settlement trust
+
+- **code 314**, for an *Environment Quality* Act trust described in paragraph 149(1)(z.1) of the Act
+
+- **code 315**, for a *Nuclear Fuel Waste* Act trust described in paragraph 149(1)(z.2) of the Act
+
+- **code 316**, for a trust established under the *Hepatitis C Settlement Agreement* described in paragraph 81(1)(g.3)
+
+- **code 317**, for trust established under the Indian Residential Schools Settlement Agreement described in paragraph 81(1)(g.3)
+
+- **code 318**, for a former tax-free savings account (TFSA) trust subject to beneficial ownership reporting requirements
+
+- **code 319**, for a registered education savings plans (RESP) trust liable under Part I
+
+- **code 320**, for a TFSA trust liable for tax underPart I
+
+- **code 321**, for an employee life and health trust (ELHT)
+
+- **code 322**, for a spousal or common-law partner trust. If the spouse or common-law partner died in the year, read the [Note](#note) at the end of this listing
+
+- **code 323**, for a unit trust
+
+- **code 324**, for a mutual fund trust
+
+- **code 325**, for a communal organization trust
+
+- **code 326**, for an employee benefit plans trust
+
+- **code 327**, for a fully registered insurance segregated fund trust
+
+- **code 328**, for a partially registered insurance segregated fund trust
+
+- **code 329**, for a non registered insurance segregated fund trust
+
+- **code 330**, for a non-profit organization trust described in subsection 149(5)
+
+- **code 331**, for a non-profit organization trust described in subsection 149(1)(l)
+
+- **code 332**, for an employee trust
+
+- **code 333**, for a blind or revocable trust
+
+- **code 334**, for a personal trust
+
+- **code 335**, for a joint spousal or common-law partner trust. If the last surviving beneficiary (the settlor, or the spouse or common-law partner, as the case may be) died in the year; read the [Note](#note) at the end of this listing.
+
+- **code 336**, for an alter ego trust. If the settlor died in the year, read the [Note](#note) at the end of this listing.
+
+- **code 337**, for a master trust
+
+- **code 338**, for a specified investment flow-through (SIFT) trust
+
+- **code 340**, for a trust established under the Safe Drinking Water for First Nations Class Action Settlement Agreement described in paragraph 81(1)(g.3)
+
+- **code 341**, for an employee ownership trust
+
+- **code 342**, for a first home savings account (FHSA) trust
+
+- **code 343**, for a blind irrevocable trust
+
+- **code 344**, for a Canadian Wheat Board trust
+
+- **code 345**, for a trust established under the Indian Residential Schools Day Scholars described in paragraph 81(1)(g.3)
+
+- **code 348**, for an investment fund trust described in subparagraph 127.55(f)(ii)
+
+- **code 349**, for a trust as described in subparagraph 127.55(f)(iii)
+
+- **code 350**, for a trust established under the First Nations Child and Family Services, Jordan’s Principle and Trout Class Settlement Agreement described in paragraph 81(1)(g.3)
+
+If the trust was a trust identified as code 322, 335, or 336 and the trust is continued after the death of the last surviving lifetime beneficiary (either the settlor, or the spouse or common-law partner, as the case may be), use trust type code 300 (other trust) on all T3 returns filed for a tax year ending after the date of death.
+
+### Who should file
+
+The rules have changed in respect of the situations for which a T3 return must be filed, effective for trust tax years ending on or after December 31, 2023. If the trust is a bare trust, read the section Enhanced trust reporting rules under [What’s new for 2025](#whats_new).
+
+A T3 return must be filed if **A**or **B** applies.
+
+**A**. The trust is an express trust (or for civil law purposes a trust other than a trust that is established by law or by judgement) which is resident in Canada, and it is not a listed trust.
+
+**Note**: This determination must also be applied to a trust deemed resident in Canada under subsection 94(3).
+
+**B**. Income from the trust property is subject to tax, and one or the other:
+
+- the trust is an express trust (or for civil law purposes a trust other than a trust that is established by law or by judgement) resident in Canada and is a listed trust,
+
+- the trust is not an express trust (or for civil law purposes a trust other than a trust that is established by law or by judgement) resident in Canada
+
+**Note**: The above two bullets represent all other trusts (resident and non-resident) not described in A above.
+
+**and** in the year, the trust has at least one of the following situations:
+
+- has tax payable
+
+- is requested to file
+
+- is a deemed resident trust
+
+- is resident in Canada and has either disposed of, or is deemed to have disposed of, a capital property or has a taxable capital gain (for example, a principal residence, or shares in the capital stock of a corporation)
+
+- is a non resident throughout the year, and has a taxable capital gain (other than from an excluded disposition described in subsection 150(5)) or has disposed of taxable Canadian property (other than from an excluded disposition)
+
+- holds property that is subject to subsection 75(2) of the Act
+
+- has provided a benefit of more than $100 to a beneficiary for upkeep, maintenance, or taxes for property maintained for the beneficiary's use. For more information, read [Line 24 – Upkeep, maintenance, and taxes of a property used or occupied by a beneficiary](#P658_80781)
+
+- receives from the trust property any income, gain, or profit that is allocated to one or more beneficiaries, and the trust has either:
+
+    - total income from all sources of more than $500
+
+    - income of more than $100 allocated to any single beneficiary
+
+    - made a distribution of capital to one or more beneficiaries, or
+
+    - allocated any portion of the income to a non-resident beneficiary
+
+### Examples where a T3 return must be filed
+
+A T3 return must be filed in the following situations, even if no tax is payable:
+
+- If the trust holds property subject to **subsection 75(2)** and received income, gains, or profits from that property during the year
+
+- If the trust made a **distribution of capital** to one or more beneficiaries, a T3 return must be filed even if the trust’s total income from all sources is **$500 or less.**
+
+Where a trust is required to file for the first time, it will need to have a trust account number before being able to file a T3 return electronically. For more information on how to obtain a T3 account number, read [Trust account number](#trn).
+
+#### Tax tip
+
+You may not have to file a T3 return if the estate is distributed immediately after the individual dies, or if the estate did not earn income before the distribution. In these cases, you should give each beneficiary a statement showing their share of the estate.
+
+Although a T3 return may not be required, the legal representative of a deceased individual must file a final T1 Income Tax and Benefit Return for the deceased’s year of death.
+
+For more information, see [Doing taxes for someone who died](https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died.html).
+
+#### Listed Trusts
+
+Listed trusts refer to the situations or trust types provided in subsection 150(1.2) and differ based on the taxation year end of the trust.
+
+- For taxation years ending on or after December 31, 2024 and before December 31, 2025 a listed trust is a trust that: (a) had been in existence for less than three months; (b) holds assets with a total fair market value that does not exceed $50,000 throughout the year; (b.1) meets the following conditions:(i) each trustee is an individual, (ii) each beneficiary is an individual and is related to each trustee, and (iii) the total fair market value of the property of the trust does not exceed $250,000 throughout the year and the only assets held by the trust throughout the year are one or more of: (A) money (note that money does not include collectible gold or silver coins, or gold or silver bars), (B) a guaranteed investment certificate issued by a Canadian bank or trust company incorporated under the laws of Canada or of a province, (C) a debt obligation described in paragraph (a) of the definition "fully exempt interest" in subsection 212(3), (D) debt obligations issued by:(I) a corporation, mutual fund trust or limited partnership the shares or units of which are listed on a designated stock exchange in Canada, (II) a corporation the shares of which are listed on a designated stock exchange outside Canada, or (III) an authorized foreign bank that are payable at a branch in Canada of the bank, (E) a share, debt obligation, or right listed on a designated stock exchange, (F) a share of the capital stock of a mutual fund corporation, (G) a unit of a mutual fund trust, (H) an interest in a related segregated fund trust (within the meaning assigned by paragraph 138.1(1)(a)), (I) an interest as a beneficiary under a trust, all of the units of which are listed on a designated stock exchange, (J) personal-use property of the trust, or (K) a right to receive income or gains on property described in (A) to (J) above; (c) is required under the relevant rules of professional conduct or the laws of Canada or a province to hold funds for the purposes of an activity that is regulated under those rules or laws, provided: (i) the trust is not maintained as a separate trust for a particular client or clients, or (ii) the only assets held by the trust throughout the year are money with a value that does not exceed $250,000 (this provides an exception for a lawyer’s general trust account, or a specific client trust account holding only money throughout the year with a value that does not exceed $250,000); (d) is a registered charity; (e) is a club, society or association described in 149(1)(l); (f) is a mutual fund trust, (g) is a related segregated fund trust (within the meaning assigned by paragraph 138.1(1)(a)); (h) is a trust, all of the units of which are listed on a designated stock exchange; (i) is a trust prescribed to be a master trust; (j) is a graduated rate estate, or would be a graduated rate estate in the year if the estate had properly designated itself as a graduated rate estate; (k) is a qualified disability trust; (l) is an employee life and health trust; (m) is a trust described under paragraph 81(1)(g.3); (n) is a trust under or governed by a:(i) deferred profit-sharing plan, (ii) pooled registered pension plan, (iii) registered disability savings plan, (iv) registered education savings plan, (v) registered pension plan, (vi) registered retirement income fund, (vii) registered retirement savings plan, (viii) tax-free savings account, (ix) employee profit sharing plan, (x) registered supplementary unemployment benefit plan, or (xi) first home savings account; (o) is a cemetery care trust or a trust governed by an eligible funeral arrangement; (p) is an eligible trust as defined in subsection 135.2(1); or (q) is established for the purpose of complying with a statute of Canada or a province and the person or persons acting as trustee of the trust hold the property in trust for a specified purpose (this provides an exception for certain statutorily created trust relationships, such as those of bankruptcy trustees or provincial guardians)
+
+- For taxation years ending on or after December 31, 2025, a listed trust is a trust that: (a) had been in existence for less than three months; (b) holds assets with a total fair market value that does not exceed $50,000 throughout the year; (b.1) meets the following conditions:(i) each trustee is an individual, (ii) each beneficiary is:(A) an individual (other than a trust) and related to each trustee, or (B) a graduated rate estate (or would be a graduated rate estate in the year if the estate had properly designated itself as a graduated rate estate) of an individual who was a beneficiary described in (A) in the year of the individual’s death, (iii) the total fair market value of the property of the trust does not exceed $250,000 throughout the year and the only assets held by the trust throughout the year are one or more of: (A) money, including deposits in a Canadian financial institution as defined in subsection 270(1) (note that money does not include collectible gold or silver coins, or gold or silver bars), (B) a guaranteed investment certificate issued by a Canadian bank, trust company or credit union incorporated under the laws of Canada or of a province, (C) a debt obligation described in paragraph (a) of the definition "fully exempt interest" in subsection 212(3), (D) debt obligations issued by:(I) a corporation, mutual fund trust or limited partnership the shares or units of which are listed on a designated stock exchange in Canada, (II) a corporation the shares of which are listed on a designated stock exchange outside Canada, or (III) an authorized foreign bank that are payable at a branch in Canada of the bank, (E) a share, debt obligation, or right listed on a designated stock exchange, (F) a share of the capital stock of a mutual fund corporation, (G) a unit of a mutual fund trust, (H) an interest in a related segregated fund trust (within the meaning assigned by paragraph 138.1(1)(a)), (I) an interest, as a beneficiary under a trust, all of the units of which are listed on a designated stock exchange, (J) personal-use property of the trust, (K) a right to receive income or gains on property described in (A) to (J) above, or (L) an exempt policy (as defined in subsection 12.2(11)) issued by a Canadian life insurer, the fair market value of which is to be determined by its cash surrender value; (c) is required under the relevant rules of professional conduct or the laws of Canada or a province to hold funds for the purposes of an activity that is regulated under those rules or laws, provided: (i) the trust is not maintained as a separate trust for a particular client or clients, or, (ii) the only assets held by the trust throughout the year are assets described in clause (b.1)(iii)(A) or (B) with a total fair market value that does not exceed $250,000 (this provides an exception for a lawyer’s general trust account, or a specific client trust account holding only money, including deposits in a Canadian financial institution as defined in subsection 270(1), and guaranteed investment certificates issued by a Canadian bank, trust company or credit union incorporated under the laws of Canada or of a province throughout the year with a total fair market value that does not exceed $250,000); (d) is a registered charity; (e) is a club, society or association described in 149(1)(l); (f) is a mutual fund trust, (g) is a related segregated fund trust (within the meaning assigned by paragraph 138.1(1)(a)); (h) is a trust, all of the units of which are listed on a designated stock exchange; (i) is a trust prescribed to be a master trust; (j) is a graduated rate estate (or would be a graduated rate estate in the year if the estate had properly designated itself as a graduated rate estate); (k) is a qualified disability trust; (l) is an employee life and health trust; (m) is a trust described under paragraph 81(1)(g.3); (n) is a trust under or governed by a:(i) deferred profit-sharing plan, (ii) pooled registered pension plan, (iii) registered disability savings plan, (iv) registered education savings plan, (v) registered pension plan, (vi) registered retirement income fund, (vii) registered retirement savings plan, (viii) tax-free savings account, (ix) employee profit sharing plan, (x) registered supplementary unemployment benefit plan, (xi) first home savings account, or (xii) a retirement compensation arrangement the primary purpose of which is to provide annual or more frequent periodic retirement benefits to supplement the benefits provided out of or under one or more registered pension plans, registered retirement savings plans, deferred profit sharing plans or pooled registered pension plans; (o) is a cemetery care trust or a trust governed by an eligible funeral arrangement; (p) is an eligible trust as defined in subsection 135.2(1); or (q) is established for the purpose of complying with a statute of Canada or a province and the person or persons acting as trustee of the trust hold the property in trust for a specified purpose (this provides an exception for certain statutorily created trust relationships, such as those of bankruptcy trustees or provincial guardians); or (r) is an employee ownership trust
+
+#### When you must submit your beneficial ownership information
+
+Generally, a trust (other than a listed trust) that is required to file a T3 return must report beneficial ownership information requested on [Form T3SCH15, *Beneficial Ownership Information of a Trust*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch15.html) (Schedule 15). The new trust reporting requirements do not require the disclosure of information that is subject to solicitor-client privilege.
+
+Although a listed trust may not be required to complete beneficial ownership information requested on Schedule 15, the trust may still be required to file a T3 return.
+
+For more information about Schedule 15, read the section [Schedule 15 – Beneficial Ownership Information of a Trust](#schedule_15).
+
+## Did you know
+
+When a trust has disposed of all property in the trust, including distribution of property to beneficiaries, the trust is generally considered to have ceased to exist. In a taxation year where this happens, the trust will have a filing obligation due to the disposition of property in the taxation year and therefore would be required to file.
+
+### Non-resident trusts – Rental income or timber royalty from Canada
+
+Rental income from real property in Canada or timber royalties from Canadian timber resource property paid to a non-resident trust is subject to a 25% withholding tax on the gross amount under Part XIII of the Act. This tax is levied on the income itself, rather than directly on the trust, and may be reduced if a reciprocal tax treaty applies.
+
+You may file a separate T3 return for a non-resident trust pursuant to an election under section 216 in respect of the trust’s net rental or timber royalty income.
+
+When filing the T3 return, indicate "Section 216" on the top of the first page of the return. For more information, go to [IT393R2 ARCHIVED – *Election Re: Tax on Rents and Timber Royalties Non-Residents*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it393r2/archived-election-tax-on-rents-timber-royalties-non-residents.html).
+
+### Trust account number
+
+A trust account number is an alphanumeric identifier starting with the letter "T" and followed by an eight digit number. After the CRA assigns you an account number, you must provide this identifier on every T3 return, trust-related information slip, and any correspondence related to the trust. Each failure to do so will result in a $100 penalty.
+
+A Trust account number is necessary to file electronically. If you do not have one, you must request one prior to filing the return. This also applies to a non-resident trust electing to file an income tax return under section 216 of the Act. For more information, go to [Guide T4144, *Income Tax Guide for Electing Under Section 216*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4144/income-tax-guide-electing-under-section-216.html).
+
+A trust will continue to use the same trust account number even if its residency status changes after the number has been assigned.
+
+If a trust, to which section 94 applies, is an electing trust with filing obligations under both its resident portion trust and its non-resident portion trust, these returns must be filed separately using two distinct trust account numbers.
+
+#### Applying for a trust account number
+
+A trustee can apply for a trust account number using the CRA’s online trust account registration service, or fill out [Form T3APP, *Application for Trust Account Number*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3app.html) and send it to the CRA. For more information, go to [Application for a Trust Account Number](https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/t3-return/application-trust-account-number-how-apply.html).
+
+For information about authorizing a representative for the trust, read the section [Giving or cancelling an authorization](https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/t3-return/application-trust-account-number-how-apply.html).
+
+#### What you need before you apply
+
+You need to know your trust name, trustee contact information, trust creation date, and trust type. You will also need supporting documentation, such as a signed copy of the trust document or the signed last will and testament. In some situations, there may not be a written trust document, or it may not be clear what constitutes a trust agreement.
+
+Examples of documents establishing a trust relationship include, but are not limited to, the following:
+
+- Trust agreement, deed, or settlement
+
+- Trust declaration
+
+- Signed last will and testament (in the case of a testate estate)
+
+- Notarial will (Province of Québec)
+
+- Certificate of appointment of estate trustee with the signed last will and testament attached for a testate estate
+
+- Certificate of appointment of estate administrator for an intestate estate
+
+- Documentation evidencing institutions and arrangements governed by the laws of the Province of Québec that are deemed to be trusts under subsection 248(3) of the Act
+
+- Other documentation evidencing the establishment and terms of the trust
+
+As many different arrangements can be trusts, if there are no written documents for the trust, you can submit a written summary (typewritten or legibly printed) of the nature of the trust arrangement, including the title "Summary of [enter trust name.]"
+
+The written summary should include the date of creation of the trust and the full names of the trustees, settlor, and beneficiaries.
+
+#### Online trust account registration service
+
+You can access the trust account registration service through the CRA’s secure portal by going to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html). With a single sign-in, you can access the My Account, My Business Account, and Represent a Client portals.
+
+The trust’s supporting documentation can be uploaded electronically at the time of registration, using the “Submit trust documentation” button on the last page of the registration process.
+
+#### Using Form T3APP, Application for Trust Account Number
+
+Fill out and sign Form T3APP and send it to the CRA with a copy of the trust's supporting documentation at the applicable address listed on page 3 of Form T3APP.
+
+**Do not**send Form T3APP with the trust’s T3 return.
+
+#### Receiving your trust account number
+
+If you use the trust account registration service, you will receive the trust account number immediately after you complete the online registration process. Ensure to send the CRA a copy of the trust document or signed last will and testament.
+
+#### Offline access to a trust account
+
+A trustee or an authorized representative can obtain information and request certain changes by mail or by phone using the contact information for their tax centre. To find this information, read the section [If the trustee's address is located in:](#if_the_trust).
+
+#### Online access to My Trust Account
+
+You can gain access to My Trust Account through Represent a Client. To do so, the primary trustee must first have access to Represent a Client. Once the trust account number has been issued, the trustee must register as the primary trustee through the Authorization request option in Represent a Client. For more information, go to [Registration process to access the CRA sign-in services](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/register-cra-sign-in-services.html).
+
+#### Failure to provide the trust account number
+
+After the CRA assigns the trust account number, you must use it when filing the trust’s T3 return. Each failure to do so will result in a $100 penalty.
+
+### What to file
+
+Trusts listed in [Chart 1 – Types of Trusts](#tbl_1) may have to file a [T3 return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ret.html), and any related schedules and statements if they meet the requirements listed in [Who should file](#who_should_file).
+
+The T3 return is filed as both an income tax return, which calculates tax liability, and an information return, which reports amounts allocated and designated to beneficiaries as well as beneficial ownership information when required. When the trust files its first T3 return, it must send the CRA the following documents, as applicable:
+
+- a copy of the trust document or signed last will and testament (unless already filed with the T3APP or the deceased’s final T1 return, or sent after completing the online trust account registration process)
+
+- for a testamentary trust, a list of assets held at the date of death (unless already filed with the deceased’s final T1 return)
+
+- for any other trust, a list of assets held at the trust’s tax year end
+
+- documents specifically requested in questions 1 through 9 found on page 2 and 3 of the T3 Return
+
+You may also have to file the following forms, depending on the type of amounts paid or allocated by the trust:
+
+- If the trust allocated amounts to resident beneficiaries, file the [Form T3 SUM, *Summary of Trust Income Allocations and Designations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sum.html)and the related [T3 slips](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3.html). For more information, read [Chapter 4 – *T3 slip and T3 Summary*](#P1818_205822)
+
+- If the trust paid executor, liquidator, or trustee fees, or if an employee benefit plan or an employee trust made distributions other than a return of employee contributions, file a [T4 SUM, *Summary of Remuneration Paid*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4sum.html), and the related [T4 slips, *Statement of Remuneration Paid*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4.html). For more information, read [Guide RC4120, *Employers' Guide – Filing the T4 Slip and Summary*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4120.html)
+
+- If the trust paid scholarships, fellowships, bursaries, prizes, or research grants to a resident of Canada, file a T[4A SUM, *Summary of Pension, Retirement Annuity, and Other Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4asum.html), and the related [T4A slips, *Statement of Pension, Retirement, Annuity, and Other Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4a.html). For more information, read [Guide RC4157, *Deducting Income Tax on Pension and Other Income, and Filing the T4A Slip and Summary*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4157.html)
+
+- If the trust paid or credited, or is considered to have paid or credited, amounts to a non-resident beneficiary, file an [NR4 SUM, *Summary of Amounts Paid or Credited to Non-Residents of Canada*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4asum.html), and the related [NR4 slips, *Statement of Amounts Paid or Credited to Non-Residents of Canada*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr4.html). For more information, read [Guide T4061, *NR4 – Non-Resident Tax Withholding, Remitting, and Reporting*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4061.html)
+
+- If the trust paid fees to a non-resident of Canada for services performed in Canada and the non-resident acts in the capacity of an executor in the course of a business, file a [T4A-NR SUM, *Fees, Commissions, or Other Amounts Paid to Non-Residents for Services Rendered in Canada*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4a-nr-sum.html), and the related [T4A-NR slips, *Statement of Fees, Commissions, or Other Amounts Paid to Non-Residents for Services Rendered in Canada*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4a-nr.html). For more information, read [Guide RC4445, *T4A-NR – Payments to Non-Residents for Services Provided in Canada*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4445.html)
+
+#### Mandatory disclosure rules
+
+Consult [Mandatory disclosure rules – Guidance](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/mandatory-disclosure-rules-overview/guidance-document.html) to determine if Form [RC312, *Reportable Transaction and Notification Transaction Information Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc312.html) must be filed for any reportable and/or notifiable transactions the trust entered into after June 21, 2023.
+
+The Form RC312 can be filed online using the CRA’s Web Forms platform. This update reflects recent enhancements to Canada’s mandatory disclosure rules, which were enacted in 2023 and amended in 2024. The online version of RC312 includes new checkboxes for optional general anti-avoidance rule (GAAR) disclosures and other improvements for clarity and usability. To file online, go to [Reportable Transaction and Notifiable Transaction Information Return](https://apps.cra-arc.gc.ca/ebci/uisp/rc312/ntr).
+
+#### Form T3-DD, Direct Deposit Request for T3
+
+The CRA can deposit a trust’s T3 refund into the trust’s account at a financial institution in Canada.
+
+To enrol for direct deposit or to update a trust’s banking information, the trustee or other authorized person can fill out [Form T3-DD, *Direct Deposit Request for T3*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3-dd.html), and send it to the CRA. For more information, go to [Direct deposit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html).
+
+### When to file
+
+The filing due date depends on the trust's tax year-end.
+
+### Tax year-end and fiscal period
+
+#### Graduated rate estate
+
+A graduated rate estate (GRE) can have a non-calendar tax year (the period for which the accounts of the estate are made up for purposes of assessment). A GRE will have a deemed tax year-end on the day on which the estate ceases to be a GRE, which will be no later than the day on which the 36-month period after the death of the individual ends.
+
+Later tax year-ends will generally be on a calendar-year basis. For example, where an estate is created in June 2022 and is a GRE for 2022, 2023, and 2024, a deemed year-end will occur in June 2025 on the three-year anniversary of the individual’s date of death. The testamentary trust will also have a tax year-end on December 31, 2025.
+
+#### Other trusts
+
+All other trusts are generally required to use a December 31 tax year-end. However, an exception is available for mutual fund trusts that elect to have a December 15 year-end. A mutual fund trust that previously elected to have a December 15 year-end can revoke the election.
+
+#### Deemed year-end rules for all trusts
+
+There are other situations in which a trust would be subject to a deemed year-end that may affect its tax year-end. For example, if a trust ceased to be resident in Canada on June 14, 2025, a deemed year-end would be triggered and the trust would be considered to have a tax year from January 1 to June 14, 2025.
+
+##### Tax tip
+
+For certain testamentary and inter vivos trusts, a deemed tax year-end will occur upon the death of a particular beneficiary of the trust. For more information on the due date for filing the T3 return and payment of tax for the deemed tax year-end, see [Form T1055, *Summary of Deemed Dispositions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1055.html).
+
+#### Filing dates
+
+You have to file the T3 return, the related T3 slips, NR4 slips, and T3 and NR4 Summaries no later than 90 days after the trust’s tax year-end (read the section [Tax year-end and fiscal period](#P333_37934)). You should also pay any balance owing no later than 90 days after the trust’s tax year-end.
+
+##### Tax tip
+
+For mutual fund trusts that filed an election to have a tax year-end of December 15, where the pre-loss restriction event year-end is after December 15 in that calendar year, the NR4 return must be filed within **90 days** after the end of that December 15 tax year. In any other case, the NR4 return must be filed within 90 days after the end of the calendar year during which the pre-loss restriction event year-ends.
+
+If you do not have the information slips you need to fill out the return when it is due, estimate the income. If, after you receive the slips, you find your estimate differs from the actual amounts, send the slips and a letter to the CRA, requesting an adjustment to the trust’s income. For more information, read the section [Reassessments](#P451_55383).
+
+#### Received dates
+
+If you mail the return first class, or if you use an equivalent delivery service, the CRA considers the date of the postmark on the envelope to be the day you filed the return.
+
+When the due date falls on a Saturday, Sunday, or public holiday recognized by the CRA:
+
+- Your return is considered on time if the CRA receives it, or if it is postmarked on or before the next business day. For more information, go to [Due dates and payment dates](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/important-dates-individuals.html)
+
+- Your payment is considered on time if the CRA receives it on or if it is processed at a Canadian financial institution on or before the next business day. For more information, go to [When to pay a balance you owe on your trust return](https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/t3-return/when-pay-a-balance-on-your-t3-return.html).
+
+For more information on filling dates, go to [When to file a trust return](https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/t3-return/when-file-your-t3-return.html).
+
+**Deadline for distributing T3 slips** – You must send the T3 slips to the beneficiary's last known address no later than 90 days after the end of the trust's tax year. If you have the information you need to fill out the slips before that deadline, the CRA encourages you to send them to the beneficiaries as early as possible.
+
+#### Final T3 return
+
+For a testamentary trust that is a **graduated rate estate**, the tax year will end on the date of the final distribution of the assets. You have to file the final T3 return and pay any balance owing no later than 90 days after this date . Enter the date the trust ceased to exist on page 2 of the return.
+
+If you wind up an **inter vivos trust** or a **testamentary trust** (other than a graduated rate estate), the trust’s tax year does not change from being a calendar year. You have to file the final T3 return and pay any balance owing no later than 90 days from the end of the calendar year in which the trust ceased to exist.
+
+In either case, you should get a clearance certificate before you distribute the trust property. For more information, read the section [Clearance certificate](#P471_58442).
+
+### How to file the T3 return
+
+#### Filing through EFILE
+
+You have the option to file a T3 return electronically through EFILE. For more information about this filing method, go to [EFILE for electronic filers](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/efile-electronic-filers.html).
+
+Read the section [Submit and file documents online related to T3](#sbmtng_lctrnc_dcs) to submit documentation requested within the T3 return or supporting documents. Keep all additional supporting documentation used to prepare a return, such as books, records, forms, schedules, and receipts for six years from the end of the last tax year to which they relate. Be ready to send this documentation to the CRA on request.
+
+#### Electronic filing by tax preparers
+
+A person or partnership is a tax preparer for a calendar year if, in the year, the person or partnership accepts consideration to prepare more than five tax returns of estates or trusts. An employee who prepares tax returns in the course of performing the employee’s duties of employment is not considered a tax preparer. Subsection 150.1(2.3) requires tax preparers to electronically file any tax return that they prepare for consideration; except that five of the trust or estate tax returns may be filed by other means. A tax preparer who fails to electronically file a tax return for an estate or trust may be subject to a $25 penalty for each failure.
+
+##### Submit additional information required on the T3 Return
+
+If you are required to submit additional information requested on the T3 Return and have filed using EFILE, you can submit documents electronically without a reference or case number. The "Submit documents" service will ask you, from a picklist, to choose the reason you are sending them.
+
+##### T3 EFILE exclusions
+
+You **cannot** file a trust return electronically in any of the following situations, as well as any related schedules, and forms listed below:
+
+- The return is an amended T3 trust return
+
+- The return is for a tax year that ends before 2021
+
+- The trust does not have a trust account number
+
+- The trust is filing [Form RC199, *Voluntary Disclosures Program (VDP) Application*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc199.html), or the taxpayer is making a request under the VDP
+
+- [Form T1273*, Harmonized AgriStability and AgriInvest Programs Information and Statement of Farming Activities for Individuals*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html)
+
+- [Form T1163, *Statement A – AgriStability and AgriInvest Programs Information and Statement of Farming Activities for Individuals*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1163.html)
+
+- [Form T3 NB-SBI, *T3 New Brunswick Small Business Investor Tax Credi*t](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3nb-sbi.html)
+
+- [Form T3SK CG, *Saskatchewan Farm and Small Business Capital Gains Tax Credit (Trusts)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sk-cg.html)
+
+- [Form T3 PFT, *T3 Provincial or Territorial Foreign Tax Credit for Trusts*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3pft.html)
+
+- [Form T3 FFT, *T3 Federal Foreign Tax Credits for Trusts*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3fft.html) (business income tax paid to more than three foreign countries or non-business income tax paid to more than three foreign countries)
+
+- More than 12 selected financial data (SFD) records
+
+- A filing of prescribed [Form T2043, *Return of Fuel Charge Proceeds to Farmers Tax Credit*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2043.html) for the 2021 taxation year
+
+- A claim for the Yukon business carbon price rebate for a 2021 tax year
+
+- Trusts claiming bankruptcy in the year
+
+- Trusts filing [Form T2223,*Election, Under Subsection 159(6.1) of the Income Tax Act, By a Trust To Defer Payment of Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2223.html)
+
+#### Filing of T3 Summary and slips
+
+If you file more than five T3 slips for a calendar year, you must file them electronically to avoid penalties. Read the section [Electronic filing methods](#Flng_mthds) to get information on filing the T3 Summary and T3 slips electronically using [Internet file transfer](#fft) or Web forms.
+
+If you file more than five T3 Slips for a calendar year and you do not file the T3 slips electronically, read the section [Failure to file electronically](#failure_to_file_e) for information about the applicable penalty.
+
+You can also subscribe to the CRA’s email distribution list about the electronic filing of information returns at [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+### Filing the T3 return on paper
+
+Where you file the T3 return depends on whether the trust is resident in Canada, or is a non-resident trust or deemed resident trust. If the trust is resident in Canada, where you file the T3 return depends on the trustee’s address.
+
+The CRA considers a trust to reside where its real business is carried on, which is where the central management and control of the trust actually takes place. Usually, the management and control of the trust rests with, and is exercised by, the trustee, executor, liquidator, administrator, custodian, heir, or other legal representative of the trust. The residence of the trustee (or other representative of the trust) does not always determine the residence of a trust. For more information about the residence of a trust or estate, see [Income Tax Folio S6-F1-C1, Residence of a Trust or Estate](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-6-trusts/series-6/income-tax-folio-s6-f1-c1-residence-a-trust-estate.html).
+
+#### If the trustee’s address is located in:
+
+New Brunswick, Nova Scotia, Prince Edward Island, Newfoundland and Labrador, or the remainder of the provinces of Ontario and Quebec not listed under the Winnipeg Tax Centre.
+
+Send the T3 return to:
+
+**Sudbury Tax Centre** T3 Trust Returns Program 2nd floor, 1050 Notre Dame Avenue Sudbury ON P3A 6C2
+
+#### If the trustee’s address is located in:
+
+Manitoba, Saskatchewan, Alberta, British Columbia, Northwest Territories, Yukon, Nunavut, Hamilton (Ontario) and its surrounding area, Kitchener-Waterloo (Ontario) and its surrounding area, Laval (Quebec) and its surrounding area, Montréal (Quebec) and its surrounding area, and Sherbrooke (Quebec) and its surrounding area.
+
+Send the T3 return to:
+
+**Winnipeg Tax Centre** T3 Trust Returns Program PO Box 14003, Station Main Winnipeg MB R3C 0N8
+
+#### Non-resident trusts and deemed resident trusts
+
+Send the T3 return to:
+
+**Winnipeg Tax Centre** T3 Trust Returns Program PO Box 14003, Station Main Winnipeg MB R3C 0N8 Canada
+
+## Penalties and interest
+
+### Penalties
+
+#### Failure to file a T3 return
+
+If you do not file the T3 return or include the Beneficial Ownership information requested on Schedule 15 by the due date, the CRA will charge a late filing penalty. The penalty is 5% of the unpaid tax when the return was required to be filed, **plus 1%** of such unpaid tax for each full month that the T3 return is late, to a maximum of **12 months**.
+
+The late-filing penalty will be **higher**if the CRA has issued a demand to file the T3 return and has already assessed a late-filing penalty in respect of a T3 return for any of the three preceding tax years. In this case, the penalty may be **10%** of the unpaid tax when the return was required to be filed, plus **2%** of such unpaid tax for each full month that the return is late, to a maximum of **20 months**.
+
+The trust will be subject to an alternative penalty if it has no unpaid taxes on the date it is required to be filed. This alternative late-filing penalty is $25 a day for each day the return is late, from a minimum of $100 to a maximum of $2,500.
+
+If the information is not provided by the filing due date, this alternative penalty is calculated based on the number of days from the date the information was due and the date of the assessment.
+
+If the trust is not a listed trust, an additional penalty may apply if you knowingly, or under circumstances amounting to gross negligence, failed to file a return. Read the section “If the trust is not a listed trust” under [False statements or omissions](#false_statement).
+
+#### Repeated failure to report income
+
+If you failed to report at least $500 of income on your T3 return for 2025 and you also failed to report at least $500 of income on your T3 return for 2022, 2023, or 2024, you may have to pay a federal and provincial or territorial repeated failure to report income penalty. This penalty may be assessed if the failure is not made knowingly or under circumstances amounting to gross negligence.
+
+The federal and provincial or territorial penalties are each equal to the lesser of:
+
+- 10% of the amount you failed to report on your T3 return for 2025
+
+- 50% of the difference between the understated tax (and/or overstated credits) related to the amount you failed to report and the amount of tax withheld related to the amount you failed to report
+
+However, if you voluntarily tell the CRA about an amount you failed to report, the CRA may waive these penalties. For more information, go to [Voluntary disclosures program (VDP)](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/voluntary-disclosures-program.html).
+
+### False statements or omissions
+
+#### If the trust is not a listed trust
+
+For a tax year ending on or after December 31, 2023 and if the trust is not a listed trust, a person or partnership may be liable to a penalty in either one of the following circumstances:
+
+- they knowingly, or under circumstances amounting to gross negligence:
+
+    - made, participated in, assented to, or acquiesced in the making of a false statement or an omission on the trust’s T3 return, or
+
+    - failed to file a T3 return
+
+- they failed to comply if the CRA issued a demand to file the trust’s T3 return
+
+The penalty is equal to the greater of:
+
+- $2,500
+
+- 5% of the highest amount at any time in the year that is equal to the total FMV of all the property held by the trust at that time
+
+In addition, you may be assessed a further penalty in respect of a false statement or an omission, equal to the greater of:
+
+- $100
+
+- 50% of the understated tax and/or the overstated credits related to the false statement or omission
+
+#### If the trust is a listed trust
+
+You may have to pay a penalty if you knowingly, or under circumstances amounting to gross negligence made, participated in, assented to or acquiesced in the making of a false statement or an omission on the trust’s T3 return.
+
+The penalty is equal to the greater of:
+
+- $100
+
+- 50% of the amount of any understated tax and/or overstated credits related to the false statement or omission.
+
+If you fail to provide any information on your T3 return, you may also have to pay a penalty of $100 in respect of that failure.
+
+The trustee or tax preparer could also be subject to penalties if the trustee or tax preparer prepares, or participates in the preparation of, income tax or information returns, forms or certificates on behalf of another person that have a statement that is known, or would reasonably be expected to be known but for circumstances amounting to culpable conduct to be a false statement.
+
+#### Failure to distribute or file trust-related information slip as required
+
+If you distribute any trust related information slip to a recipient late, the penalty is $25 a day for each day the slip is late, from a minimum of $100 to a maximum of $2,500 for each failure to comply with this requirement.
+
+The minimum penalty for failing to file a trust related information slip by the due date is $100 and the maximum penalty is $7,500.
+
+If you are convicted of not filing a T3 return or T3 slip as and when required, you are liable to a fine of $1,000 to $25,000, or to a fine and imprisonment for a period of up to 12 months.
+
+#### Failure to file electronically
+
+If you file more than five information returns of a same type for a calendar year, you must file the information returns electronically. After filing the original information return, slips can be amended, added, or cancelled in paper or electronic format. For more information, read the section [Amending, cancelling, adding, or replacing T3 slips](#mndg_cncllg_addng_rplcng_T3_slps).
+
+If you do not file electronically when you are required to do so, the penalty the CRA assesses is based on the number of information returns filed in an incorrect format. Each slip is an information return.
+
+### Penalty based on the number of information returns (slips)
+
+| **Number of information returns (slips) by type** | Penalty |
+
+| --- | --- |
+
+| 6 to 50 | $125 |
+
+| 51 to 250 | $250 |
+
+| 251 to 500 | $500 |
+
+| 501 to 2,500 | $1,500 |
+
+| 2,501 or more | $2,500 |
+
+The penalty is calculated per type of information return. For example, if you file six NR4 slips and six T3 slips on paper, the CRA would assess two penalties of $125, one per type of information return.
+
+For more information, go to [How to file information returns](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/file-information-returns-slip-summaries/how-to-file.html).
+
+You can also subscribe to the CRA’s email distribution list about the electronic filing of information returns at [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+#### Interest
+
+The CRA pays compounded daily interest, at a prescribed rate, on a tax refund of a trust starting on the **latest**of:
+
+- the 30th day after the balance is due for the tax year
+
+- the 30th day after the return for the tax year was filed
+
+- the day the overpayment arises
+
+The CRA charges interest on unpaid amounts and the total amount of penalties assessed. The CRA calculates this interest, compounded daily, at a prescribed rate starting on the day after the unpaid amount was due until the date of its payment.
+
+### Cancel or waive penalties and interest
+
+The CRA administers legislation, commonly called “ taxpayer relief provisions”, that gives the CRA the discretion to cancel or waive penalties and interest when taxpayers cannot meet their tax obligations due to circumstances beyond their control.
+
+The CRA’s discretion is limited to any period that ended within 10 calendar years before the year the request is made.
+
+#### Penalties
+
+The CRA will consider your request only if it relates to a tax year or fiscal period ending in any of the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to a penalty for a tax year or fiscal period ending in 2015 or later.
+
+#### Interest on a balance owing
+
+The CRA will consider only the amounts that accrued during the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to interest that accrued in 2015 or later.
+
+Taxpayer relief requests can be made online using My Account, My Business Account, or Represent a Client.
+
+You can also fill out [Form RC4288, *Request for Taxpayer Relief – Cancel or Waive Penalties and Interest*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4288.html) and send it by mail or courier to the designated office, as shown on the last page of the form, based on your place of residence.
+
+For information about submitting documents online, go to [Submit documents online](https://www.canada.ca/en/revenue-agency/services/e-services/submit-documents-online.html).
+
+For more information about cancelling or waiving penalties and interest, go to [Cancel or waive penalties and interest at the CRA](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/cancel-waive-penalties-interest.html).
+
+### Payment options
+
+Make your T3 electronic payments using:
+
+- your Canadian bank or credit union's online banking, mobile app, or telephone service
+
+- the CRA's My Payment service at [Pay with a debit card through the CRA's My Payment service](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html) with your activated debit card from a participating Canadian bank or credit union with a Visa Debit or Debit Mastercard logo (does not include credit cards)
+
+- pre-authorized debit (PAD) at [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) which lets you:
+
+    - set up payments to the CRA from a Canadian chequing account on pre-set dates starting in five or more business days
+
+    - pay an amount due, repay overpaid amounts, or make instalment payments
+
+    - view your account history and modify, cancel, or skip a payment (for more information on PAD, go to [Pay by scheduled pre-authorized debit (PAD) through CRA online services)](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html)
+
+- your credit card, Interac e-Transfer, or PayPal through one of the third-party service providers **for a fee**
+
+You can make a payment with cash or debit card at any Canada Post retail outlet across Canada using a QR code. For more information, go to [Pay in person at a Canada Post retail location](https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/pay-canada-post.html)
+
+You can send the CRA a cheque or money order payable to the Receiver General. **Do not mail cash**. To help the CRA credit the correct account, write the trust’s name and account number on the front of your payment. Enter the amount of the payment on line 79 of the T3 return.
+
+If you make a payment that your financial institution does not honour, including a cheque on which you put a stop payment, the CRA will charge you a fee. Generally, this fee will be $15 for each returned cheque, plus interest, if applicable.
+
+If you (or your representative) do not have a bank account at a financial institution in Canada, you (or your representative) can send your payment:
+
+- using a wire transfer
+
+- an international money order drawn in Canadian dollars
+
+- a bank draft in Canadian dollars drawn on a Canadian bank
+
+For more information on all payment options, go to [Payments to the CRA](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html) or contact your financial institution.
+
+### After you file
+
+#### Processing times
+
+The CRA can usually assess a T3 return, that was filed by paper, within 17 weeks. To submit additional information required on the T3 Return, read the section [Submit additional information required on the T3 Return](#subaddinfo).
+
+#### Reassessments
+
+If you need to change a T3 return after you send it to the CRA, do not file another return for that tax year. Send the CRA a completed [Form T3-ADJ, *T3 Adjustment Request*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3-adj.html), or a letter providing the details of the change. Indicate the trust's account number, the tax year you want the CRA to change, and send the CRA any supporting documents.
+
+You can submit [Form T3 ADJ T3](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3-adj.html) online in **My Account** by using the **Submit documents** service or your authorized representative can access this online service through **Represent a Client**by going to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+The CRA can reassess your T3 return, make additional assessments, or assess tax, interest, or penalties within one of the following:
+
+- three years (four years for mutual fund trusts) from the date of your original notice of assessment or a notice that no tax was payable for the tax year (this period is called the "normal reassessment period")
+
+- six years (seven years for mutual fund trusts) from the date of your original notice of assessment to allow or change a carry-back of certain deductions, such as a loss or an unused investment tax credit
+
+Your request should be postmarked or electronically submitted before the end of the above periods for the CRA to consider reassessing your return.
+
+The taxpayer relief provisions permit the CRA to issue income tax refunds or reduce income tax payable for individuals and graduated rate estates beyond the normal three-year period. The CRA’s discretion to grant relief is limited to any period that ended within 10 years before the calendar year in which a request is submitted or an income tax return is filed.
+
+Testamentary trusts can still benefit from these provisions for tax years that ended on or before December 31, 2015. The CRA usually bases its initial assessment on the income you report. Later, the CRA may select the return for a more in-depth review or audit. The CRA can also reassess a return at any time if:
+
+- You have made a misrepresentation because of neglect, carelessness, wilful default, or fraud in either filing the return or supplying information required by the Act
+
+- You file [Form T2029, *Waiver in respect of the normal reassessment period or extended reassessment period*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2029.html), with your tax services office before the normal reassessment period expires. If you want to revoke a waiver you previously filed, file [Form T652, *Notice of Revocation of Waiver*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t652.html). The revocation will take effect six months after you file Form T652
+
+If requested by T3 trusts audit, you can submit the documentation online.
+
+#### Tax administration rules
+
+For 2016 and later tax years, the following administration rules, only available to a graduated rate estate, extend the period:
+
+- during which the CRA may refund an overpayment of tax
+
+- during which, at the trust’s request, the CRA may reassess or make determinations in respect of certain income tax liabilities
+
+- for objecting to a tax assessment
+
+- for filing an agreement to transfer forgiven amounts under the debt forgiveness rules
+
+#### Ways to register a formal dispute
+
+If you disagree with your assessment or reassessment, you can make a formal objection.
+
+Filing an objection is the first step in the formal process of resolving a dispute. The time limit for filing an objection is as follows:
+
+- If you are an **individual**(other than a trust), or filing for a graduated rate estate, the time limit for filing an objection is either one year after the due date for the return or 90 days after the date of the notice of assessment or notice of reassessment, whichever is later. If you did not file your objection on time, you can apply for a time extension within one year of your original time limit to file an objection. You can apply by writing to the chief of appeals at your Appeals Intake Centre or by using [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html). Include the reasons why you were prevented from filing on time
+
+- In every other case, including the assessment of taxes in respect of over-contributions to an RRSP or a TFSA, you have to file an objection within 90 days after the date of the notice of assessment or notice of reassessment
+
+You or your representative can choose to file your objection by using one of these options:
+
+- making an online submission using [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html)
+
+- sending a completed [Form T400A, *Notice of Objection – Income Tax Act*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t400a.html), or a signed letter to the chief of appeals at your appeals intake centre
+
+For more information about objections and appeals to your income tax assessment or reassessment, go to [Objections, appeals, disputes, and relief measures](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes.html).
+
+#### Elections
+
+The taxpayer relief provisions permit the CRA to accept certain late, amended, or revoked income tax elections, including the following elections that are discussed in this guide:
+
+- [subsection 164(6) election](#P944_101340)
+
+- [subsection 164(6.1) election](#P952_102595)
+
+- [preferred beneficiary election](#pbe)
+
+A late, amended, or revoked election is subject to a penalty of $100 for each complete month from the due date of the election to the date of the request. The maximum penalty is $8,000.
+
+For more information about the taxpayer relief provisions, go to [Taxpayer relief provisions](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/taxpayer-relief-provisions.html).
+
+#### Records you have to keep
+
+You have to keep your books, records, and supporting documents in case the CRA needs to verify the income or loss you reported on the return. Generally, you must keep them for at least six years from the tax year-end to which they relate. However, you can request permission to dispose of them before the end of this period.
+
+For more information, go to [Keeping records](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/keeping-records.html) or see [Information Circular IC78-10R5, *Books and Records Retention/Destruction*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-10.html).
+
+#### Clearance certificate
+
+You can distribute property without a clearance certificate, as long as you keep sufficient property in the trust to pay any debts owing to the CRA. However, by getting a clearance certificate, you will avoid being personally liable for unpaid taxes, interest, and penalties.
+
+The CRA cannot issue a clearance certificate until you have done both of the following:
+
+- filed all the required returns and the CRA has assessed them
+
+- paid or secured all amounts owing
+
+To ask for a clearance certificate, fill out [Form TX19, *Asking for a Clearance Certificate*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/tx19.html). You can submit the completed request by following the instructions as indicated on Form TX19.
+
+For more information, see [Information Circular IC82-6R13, *Clearance Certificate*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic82-6.html).
+
+## Chapter 2 – Completing the T3 return
+
+The T3 return is a six-page form with related schedules. The following information will help you to complete the return.
+
+### Step 1 – Identification and other required information
+
+Fill out all applicable items on page 1 of the T3 return. The assessment of the return may be delayed if you do not provide all the applicable information or if the applicable information provided is incorrect.
+
+If this is the first year of filing a T3 return, you may register for a trust account number online using the trust account registration service through one of the CRA’s secure portals. For more information, go to [Application for a Trust Account Number](https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/t3-return/application-trust-account-number-overview.html).
+
+If this is the first year filing a T3 return, send the CRA:
+
+1. a copy of the trust document or signed last will and testament (unless already filed with the T3APP or the deceased’s final T1 return, or sent after completing the online trust account registration process), and
+
+2. for a testamentary trust, a list of assets held at the date of death (unless already filed with the deceased’s final T1 return), or
+
+3. for any other trust, a list of assets held at the trust’s tax year end.
+
+Indicate whether the trust is filing its final return and, if so, provide the date on which the trust has ceased to exist in the year.
+
+**Trust account number** – If the CRA has assigned an account number to the trust, enter it in this space. Also include this number on all correspondence related to the trust. If you choose to file the trust’s first return on paper and the trust does not have a pre-assigned trust account number, leave the space blank. The CRA will issue a trust account number, which will appear on the notice of assessment. Electronic filing is not permitted without a trust account number. You cannot file a T3 return electronically if the trust does not have a trust account number or you cannot provide one in the electronic file. You must obtain a trust account number first before using EFILE or other CRA electronic services for trust returns. For more information, go to [Application for a Trust Account Number](https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/t3-return/application-trust-account-number-how-apply.html) to obtain a trust account number. To learn how to file using EFILE, go to [T3 EFILE Information](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/efile-electronic-filers/t3-efile.html).
+
+**Name of trust** – Use the same name on all returns and correspondence for the trust. The name of the trust will be modified to meet the CRA’s requirements if it is longer than 60 characters.
+
+**Residence of trust** – A trust resides where its real business is carried on, which is where the central management and control of the trust actually take place. For information about the residence of a trust or estate, see [Income Tax Folio S6-F1-C1, Residence of a Trust or Estate](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-6-trusts/series-6/income-tax-folio-s6-f1-c1-residence-a-trust-estate.html).
+
+**Trustee information** – Enter the full name of the trustee. If the trust has more than one trustee, choose one trustee to be the CRA's primary contact. The trustee can be an individual or a non-individual. Choose only one of the two options and fill in the required information about the trustee. If the trustee is a non-individual, then enter the full name of the contact person.
+
+**Mailing address** – The CRA may modify part of your address to meet Canada Post's requirements. Therefore, the address on any cheques or correspondence the CRA sends you may be different from the one you indicate on the trust's return. If you provide the name and mailing address of a person along with the mention "care of," the CRA will send any cheques or correspondence related to the trust to that person’s attention. If no specific instructions are provided, the trustee’s name and address will be used.
+
+**Designated Aboriginal settlement lands** – If the trust resides on designated Aboriginal settlement lands, answer yes, and enter the name and settlement number in the spaces provided.
+
+The settlement lands and their numbers are as follows:
+
+**British Columbia:**
+
+Nisga’a
+
+**Yukon:**
+
+Carcross/Tagish
+
+Champagne and Aishihik
+
+Kluane
+
+Kwanlin Dun
+
+Little Salmon/Carmacks
+
+Nacho Nyak Dun
+
+Selkirk
+
+Ta’an Kwäch’än
+
+Teslin Tlingit
+
+Tr’ondëk Hwëch’in
+
+Vuntut Gwitchin
+
+**Northwest Territories:**
+
+Délînê Got'înê
+
+Tlicho
+
+10008
+
+**Newfoundland and Labrador:**
+
+Nunatsiavut Government
+
+When you enter this information on the return, the CRA will transfer part of any tax payable to the government of the Aboriginal settlement where the trust resides.
+
+**Date of residency** – Provide the date the trust became a resident of Canada or ceased to be a resident of Canada during the tax year, if applicable.
+
+**Deemed resident trust** – Indicate if the trust is a deemed resident trust and provide the name of any other country in which the trust is considered to be resident. For the definition of a deemed resident trust, read [Chart 1 – Types of Trusts](#tbl_1).
+
+**Type of trust** – It is important that you fill out this section correctly because the CRA uses this information to determine the correct rate of tax. To identify the correct type of trust, read [Chart 1 – Types of Trusts](#tbl_1) and [Code number for the type of trust](#cdnmbrtrts). This information is mandatory. If the type of trust is not entered, the process of the T3 return may be delayed.
+
+If you enter inter vivos code 300 (other trust) or testamentary code 900 (other testamentary trust), you must specify the type of trust on the “Other types of trust (specify)” line.
+
+**Date of death** – If the trust is a testamentary trust, enter the date of death of the deceased. For a graduated rate estate, this information is mandatory for processing purposes.
+
+**Date trust was created** – If the trust is an inter vivos trust, enter the date the trust was created.
+
+**Social insurance number of the deceased** – If the trust is a testamentary trust, enter the SIN of the deceased. The SIN of the deceased individual is mandatory for graduated rate estates.
+
+**Non profit organization** – If the non profit organization is incorporated, enter the business number and program account.
+
+#### Reporting foreign income and property
+
+If the trust is resident in Canada or deemed to be resident in Canada, you have to report its income from all sources, both inside and outside Canada. Report, in Canadian dollars, foreign income and other foreign currency amounts (such as expenses and foreign taxes paid).
+
+If a resident trust or a deemed resident trust conducts business with a foreign affiliate, or owns specified foreign property in excess of CAN$100,000, you may have to file specific forms; refer to the forms listed below.
+
+Specified foreign property includes:
+
+- funds or intangible property (patents, copyrights, etc.) situated, deposited, or held outside Canada
+
+- tangible property situated outside Canada
+
+- a share of the capital stock of a non resident corporation held by the trust or by an agent on the trust’s behalf
+
+- an interest in a non resident trust that was acquired for consideration
+
+- shares of corporations resident in Canada held by the trust or for the trust outside Canada
+
+- an interest in a partnership that holds a specified foreign property unless the partnership is required to file [Form T1135, *Foreign Income Verification Statement*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1135.html)
+
+- an interest in, or right with respect to, an entity that is a non-resident
+
+- a property that is convertible into, exchangeable for, or confers a right to acquire a property that is specified foreign property
+
+- a debt owed by a non-resident, including government and corporate bonds, debentures, mortgages, and notes receivable
+
+- precious metals, gold certificates, and futures contracts held outside Canada
+
+- an interest in, or right to acquire, any property that is a specified foreign property
+
+A foreign life insurance policy may be a specified foreign property where it is described in the above list of properties.
+
+Specified foreign property **does not**include any of the following:
+
+- a property used or held exclusively in carrying on an active business
+
+- a share of the capital stock or indebtedness of a foreign affiliate
+
+- an interest in a trust described in paragraph (n) of the definition of “specified foreign property” in subsection 233.3(1)
+
+- an indebtedness of an authorized foreign bank that is issued by, and payable or otherwise enforceable at, its Canadian branch
+
+- a personal use property as defined in section 54
+
+- an interest in, or a right to acquire, any property that is not a specified foreign property
+
+Specified foreign property held in a Canadian mutual fund, registered retirement savings plan (RRSP), pooled registered pension plan (PRPP), registered retirement income fund (RRIF), registered pension plan (RPP), or tax-free savings account (TFSA) is excluded from Form T1135, Foreign Income Verification Statement, reporting requirements.
+
+You can also find specific information in the following forms:
+
+- [Form T1134, *Information Return Relating to Controlled and Non-Controlled Foreign Affiliates*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1134.html)
+
+- [Form T1135, *Foreign Income Verification Statement*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1135.html)
+
+- [Form T1141,*Information Return in Respect of Contributions to Non-Resident Trusts, Arrangements or Entities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1141.html)
+
+- [Form T1142, *Information Return in Respect of Distributions From and Indebtedness to a Non-Resident Trust*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1142.html)
+
+You may be able to claim a foreign tax credit when you calculate your federal, provincial, or territorial taxes. For more information, see [Form T3 FFT, *T3 Federal Foreign Tax Credit for Trusts*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3fft.html), and [Form T3 PFT, *T3 Provincial or Territorial Foreign Tax Credit for Trusts*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3pft.html).
+
+#### Other required information
+
+Answer all the required questions on pages 2 and 3. The following information will help you answer some of the questions.
+
+**Question 1** – If the trust **is not** a trust to which section 94 applies, do not answer this question.
+
+Where a deemed resident trust has received property from multiple contributors, it may file an election to have certain property that was not contributed to the trust by a resident contributor to the trust and/or, where there is a resident beneficiary under the trust, a connected contributor to the trust, be part of a separate trust that is not subject to section 94 (the non-resident portion trust). This election is non-revocable.
+
+If the trust is an electing trust, indicate what year the trust became an electing trust. For the year indicated, include a complete schedule showing all of the trust’s assets and specifying allocation of assets between the resident portion trust and the non resident portion trust. Include complete schedules for subsequent years only if changes occur.
+
+The CRA considers the electing trust and its non-resident portion trust to be two separate trusts. If the non-resident portion trust has any Canadian filing obligations under Part I or Part XIII as a non-resident trust, it must report those amounts as a separate trust under a separate trust number from the deemed resident trust.
+
+**Question 2** – The terms of the will, trust document, or court order determine the requirement to allocate income. The trust may be required to pay out its income to a beneficiary. In this case, the income cannot be retained and taxed in the trust, unless the trust has made a designation under subsections 104(13.1) or 104(13.2) of the Act. For more information, read the section [Income to be taxed in the trust](#P1337_152332).
+
+**Question 3** – If you answer **yes**, send the CRA a statement giving all required information. For more information, read the section [Distribution of property to beneficiaries](#P924_99312).
+
+**Question 4** – If you answer **yes**, send the CRA a statement giving all required information only if the trust is a personal trust, spousal or common-law partner trust, joint spousal or common-law partner trust, or alter ego trust.
+
+**Question 5** – This question relates to spousal and similar trusts under subsection 104(13.4) and for purposes of this question, a lifetime beneficiary under the trust is:
+
+- the last surviving beneficiary (either the settlor, or the spouse or common-law partner, as the case may be) of an alter ego trust, a joint spousal or common-law partner trust
+
+- an individual other than a trust, who transferred property in circumstances described in subparagraph 73(1.02)(b)(ii) or subsection 107.4(1)
+
+**Question 6** – For more information about the meaning of the term **at arm’s length**, see [Income Tax Folio S1-F5-C1, *Related Persons and Dealing at Arm's Length*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html).
+
+**Question 7** – If you answer **yes**, provide the date and send the CRA a statement showing the changes. For information on the disposition of an income interest in a trust, see [Income Tax Folio S6-F2-C1, *Disposition of an Income Interest in a Trust*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-6-trusts/series-6-trusts/income-tax-folio-s6-f2-c1-disposition-income-interest-a-trust.html).
+
+**Question 8** – A **yes** response to this question only applies to personal trusts. If you answer yes, send the CRA the details of the private corporations including, name, business number and number of shares held.
+
+**Question 9** – Read [Contribution of property](#P134_10875) in the definitions section.
+
+**Question 10** – A **yes** response to this question only applies to a mutual fund trust.
+
+**Question 11** – If a trust used International Financial Reporting Standards (IFRS) when it prepared its financial statements, answer **yes**.
+
+IFRS is the collection of financial reporting standards developed by the International Accounting Standards Board (IASB). For more information, go to [International Financial Reporting Standards (IFRS)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/international-financial-reporting-standards-ifrs.html).
+
+**Question 12** – If you answer **yes**, provide the date of the loss restriction event.
+
+For more information, read the section [Loss trading – Rules for trusts](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013/t3-trust-guide.html).
+
+**Question 13, 14, 17, 18, and 19**
+
+Questions 13, 14, 17, 18, and 19 relate to the requirement to file beneficial ownership information. A trust that is required to file a T3 return, other than a [listed trust](#listed_trust), generally must report the beneficial ownership information requested on [Form T3 SCH 15, *Beneficial Ownership Information of a Trust*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch15.html) (Schedule 15).
+
+Providing the information required on page 1 and the top of page 2 of the T3 return will help identify if the trust is one of the many listed trusts. Questions 13, 14, 17, 18, and 19 identify five situations where the trust may be a listed trust and therefore is not required to file the beneficial ownership information requested on Schedule 15.
+
+**Question 13** – This is a question to identify a trust that meets the conditions in paragraph 150(1.2)(b).
+
+If you answered **yes** to this question, you **do not** need to file the beneficial ownership information requested on Schedule 15 with your T3 return.
+
+**Question 14** – For taxation years ending on or after December 31, 2024 and before December 31, 2025, this provides an exception for a lawyer’s general trust account, or a specific client trust account holding only money throughout the year with a value that does not exceed $250,000.
+
+For taxation years ending on or after December 31, 2025, this provides an exception for a lawyer’s general trust account, or a specific client trust account holding only money, including deposits in a Canadian financial institution as defined in subsection 270(1), and guaranteed investment certificates issued by a Canadian bank, trust company or credit union incorporated under the laws of Canada or of a province throughout the year with a total fair market value that does not exceed $250,000.
+
+If you answered **yes**to this question, you **do not** need to file the beneficial ownership information requested on a Schedule 15 with your T3 return.
+
+**Question 15** – This is a question regarding the excessive interest and financing expenses limitation (EIFEL) rules, which generally apply in respect of tax years starting on or after October 1, 2023. For more information, read the section [T3 Schedule 130 – *Excessive Interest and Financing Expenses Limitation*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013/t3-trust-guide.html).
+
+**Question 16** – This is a question to identify a trust that may be exempt from minimum tax. The condition in subparagraph 127.55(f)(vi) is that the FMV of the units of the unit trust that are listed on a designated stock exchange represents all or substantially all of the total FMV of all of the units of the trust.
+
+**Question 17** – This is a question to identify a trust that meets the condition in paragraph 150(1.2)(h). A trust does not have to be a unit trust (as defined in subsection 108(2)) to meet the condition in paragraph 150(1.2)(h). The trust must still determine whether it is required to file a T3 return under [Rules for tax years ending on or after December 31, 2023](#rules_for_tax_year); however, it is not required to file the beneficial ownership information requested on a T3 Schedule 15.
+
+**Question 18** – This is a question to identify whether a trust meets the conditions in paragraph 150(1.2)(b.1).
+
+For taxation years ending on or after December 31, 2024 and before December 31, 2025, the conditions in paragraph 150(1.2)(b.1) are as follows:
+
+- (i) each trustee is an individual,
+
+- (ii) each beneficiary is an individual and is related to each trustee, and
+
+- (iii) the total fair market value of the property of the trust does not exceed $250,000 throughout the year and the only assets held by the trust throughout the year are one or more of the assets listed in clauses 150(1.2)(b.1)(iii)(A) to (K) for taxation years ending on or after December 31, 2024 and before December 31, 2025. For more information, read [Listed trusts](#listed_trust).
+
+For taxation years ending on or after December 31, 2025, the conditions in paragraph 150(1.2)(b.1) are as follows:
+
+- (i) each trustee is an individual,
+
+- (ii) each beneficiary is:
+
+    - (A) an individual (other than a trust) and related to each trustee, or
+
+    - (B) a graduated rate estate (or would be a graduated rate estate in the year if the estate had properly designated itself as a graduated rate estate) of an individual who was a beneficiary described in (A) in the year of the individual’s death,
+
+- (iii) the total fair market value of the property of the trust does not exceed $250,000 throughout the year and the only assets held by the trust throughout the year are one or more of the assets listed in clause 150(1.2)(b.1)(iii)(A) to (L) for taxation years ending on or after December 31, 2025. For more information, read [Listed trusts](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013/t3-trust-guide.html).
+
+If you answered **yes**to this question, you **do not** need to file the beneficial ownership information requested on a Schedule 15 with your T3 return.
+
+**Question 19** – This is a question to identify a trust established for the purpose of complying with a statute of Canada or a province and the person or persons acting as trustee of the trust hold the property in trust for a specified purpose (this provides an exception for certain statutorily created trust relationships, such as those of bankruptcy trustees or provincial guardians).
+
+If you answered **yes**to this question, you **do not** need to file the beneficial ownership information requested on a Schedule 15 with your T3 return.
+
+**Question 20** – This is a question to identify whether a trust meets the criteria outlined in subparagraph 127.55(f)(viii) or a trust described in subparagraph 127.55(f)(ix).
+
+### Step 2 – Calculating total income: Lines 1 to 13
+
+#### Line 1 – Taxable capital gains
+
+Calculate the taxable capital gains and allowable capital losses of the trust on Schedule 1.
+
+If the total amount on line 25 of Schedule 1 is positive, enter it on line 1 of the T3 return.
+
+If the amount on line 25 of Schedule 1 is negative, do not enter it on line 1 of the T3 return. You cannot deduct a net capital loss against other income of the trust in the year, or allocate it to the beneficiaries (except as described under [Exceptions and limits to income allocations](#exceptions)). You can only use it to reduce the trust's taxable capital gains of other years. For more information, read [Line 35 – Net capital losses of other years](#P838_87601).
+
+##### Tax tip
+
+In the first tax year of a GRE, the legal representative can elect to apply any net capital loss against income on the deceased individual's final return.
+
+Where an individual dies on or after August 12, 2024, the election can be made in respect of the net capital losses from the GRE’s first three years. For more information, read the section [Graduated rate estate elections (losses)](#gre_lctns_loss).
+
+If a trust sells capital property that is qualified farm or fishing property (QFFP), or qualified small business corporation shares (QSBCS) and realizes a gain, the gain may qualify for the capital gains deduction to be claimed by a beneficiary of the trust. For more information, read [Lines 1 and 2 – Qualified small business corporation shares (QSBCS) and qualified farm or fishing property (QFFP)](#Lines1_2) of Schedule 1 and [Line 921 – Taxable capital gains](#ln_921) of Schedule 9.
+
+For more information, read:
+
+- [Guide T4037,*Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html)
+
+- [Guide T4002, *Self-employed Business, Professional, Commission, Farming, and Fishing Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002.html)
+
+#### Line 2 – Pension income
+
+Enter amounts that the trust received from any of the following:
+
+- registered pension plans
+
+- retirement compensation arrangements
+
+- deferred profit sharing plans
+
+- superannuation plans
+
+- foreign retirement arrangements
+
+When an amount is considered to have been distributed to an estate from a foreign retirement arrangement according to the laws of the country where the arrangement was established, the payment is also deemed received by the estate for tax purposes in Canada. In this case, you must include the amount, in Canadian funds, on line 2. For more information, read the section [Death benefit](https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-death-benefit.html).
+
+#### Line 3 – Total of actual amount of dividends from taxable Canadian corporations
+
+Enter the total of the actual amount of dividends received from taxable Canadian corporations from line 3 of Schedule 8. On line 3A, enter the actual amount of dividends other than eligible dividends from line 1 of Schedule 8. Send the CRA all information slips received. For more information, read the section [Lines 1 to 3 – Dividends from taxable Canadian corporations](#lines1to3).
+
+#### Line 4 – Foreign investment income
+
+Enter all interest and other investment income from foreign sources from line 6 of Schedule 8. For more information, read the tax tip below and the section [Lines 4 to 6 – Foreign investment income](#P1231_137662).
+
+#### Line 5 – Other investment income
+
+Enter the amount from line 12 of Schedule 8.
+
+Include all interest and investment income from Canadian sources except dividends from taxable Canadian corporations reported on line 3. Send the CRA all information slips received. For more information, read [Lines 7to 12 – Other investment income](#P1233_138116).
+
+##### Tax tip
+
+In the first year of a testamentary trust, any interest income that has accrued to the person's date of death is reported on the deceased person's final T1 return. Any interest income accrued after the person's date of death is reported on the estate's [T3 return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ret.html)
+
+### Thin capitalization – Rules for trusts
+
+The scope of the application of the thin capitalization rules will be extended to:
+
+- Canadian-resident trusts
+
+- non-resident corporations and trusts that operate in Canada
+
+These measures will also apply where a Canadian-resident trust or a non-resident trust is a member of a partnership.
+
+#### Canadian resident trusts
+
+A trust’s “equity” for the purposes of the thin capitalization rules will generally consist of contributions to the trust from specified non-residents plus the tax-paid earnings of the trust, less any capital distributions from the trust to specified non-residents. The permitted 1.5-to-1 debt-to-equity ratio will remain unchanged.
+
+Trust beneficiaries will be used in place of shareholders for the purpose of determining whether a person is a specified non-resident in respect of the trust and, therefore, whether a debt owing to that person is included in the trust’s outstanding debt to specified non-residents. The current rules dealing with rights to acquire shares in determining who is a specified shareholder will be modified to address discretionary powers.
+
+Where interest expense of a trust is not deductible as a result of the application of the thin capitalization rules, the trust will be entitled to designate the non-deductible interest as a payment of income of the trust to a non-resident beneficiary (that is, the recipient of the non-deductible interest). In such a case, the trust will be able to deduct the designated payment in calculating its income, but the designated payment will be subject to non-resident withholding tax under Part XIII of the Act and potentially tax under Part XII.2, depending on the character of the income earned by the trust.
+
+The thin capitalization rules apply to partnerships in which a Canadian resident trust is a member. As with debt owed directly by the trust, where these rules result in an amount being included in calculating the income of a trust, the trust is entitled to designate the included amount as having been paid to a non-resident beneficiary as income of the trust.
+
+Since some trusts may not have complete historical information, any trust that exists on March 21, 2013, is able to elect to determine the amount of its equity for thin capitalization purposes as of March 21, 2013, based on the FMV of its assets less the amount of its liabilities. Each beneficiary of the trust would then be considered to have made a contribution to the trust equal to the beneficiary’s share (determined by reference to the relative FMV of their beneficial interest in the trust) of this deemed trust equity.
+
+Contributions to the trust, tax-paid earnings of the trust and distributions from the trust on or after March 21, 2013, would then increase or decrease (as appropriate) trust equity for thin capitalization purposes.
+
+This measure applies to tax years that begin after 2013 and applies with respect to existing as well as new borrowings.
+
+#### Non-resident trusts
+
+Since a Canadian branch is not a separate person from the non-resident corporation or trust, the branch does not have shareholders or equity for purposes of the thin capitalization rules. Therefore, the thin capitalization rules for non-resident corporations and trusts will differ from the rules for Canadian-resident corporations in certain respects. For example, a debt-to-asset ratio of 3-to-5 will be used, which parallels the 1.5-to-1 debt-to-equity ratio used for Canadian -resident corporations.
+
+A loan that is used in a Canadian branch of a non-resident corporation or trust will be an outstanding debt to a specified non-resident for thin capitalization purposes if it is a loan from a non-resident who does not deal at arm’s length with the non-resident corporation or trust.
+
+A non-resident corporation or trust that earns rental income from certain Canadian properties may elect to be taxed on its net income under Part I rather than being subject to non-resident withholding tax under Part XIII on its gross rental income. The election allows the non-resident to calculate its taxable income as if it were a resident of Canada, with such modifications to the tax rules as the circumstances require. Where an election is made, the thin capitalization rules for non-resident corporations and trusts, rather than those for Canadian residents, will apply in calculating the non-resident’s Part I tax liability.
+
+The thin capitalization rules apply to partnerships in which a non-resident corporation or trust is a member. Any income inclusion for a non-resident partner that arises as a consequence of the application of the thin capitalization rules is deemed to have the same character as the income against which the partnership’s interest deduction is applied.
+
+This measure applies to tax years that begin after 2013 and applies with respect to existing as well as new borrowings.
+
+#### Line 6 – Business income
+
+Enter on the appropriate lines, the trust's gross and net income, or loss from business. If the amount is a loss, report it in brackets. If the trust is a member of a partnership, enter the **partnership's** total gross income and the **trust's share** of the partnership's net income or loss. Send the CRA the appropriate forms or statements.
+
+If a trust (other than a graduated rate estate) operates a business with a tax year-end other than December 31, special rules apply for calculating income. For more information on how to calculate the income to report, see the archived and cancelled [Guide RC4015, Reconciliation of Business Income for Tax Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/previous-year-forms-publications/archived-rc4015.html).
+
+You have to follow certain rules when reporting business income. The following guide has more information and the form you may need to calculate the trust's income:
+
+- [Guide T4002, *Self-employed Business, Professional, Commission, Farming, and Fishing Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002.html)
+
+- [Form T2125, *Statement of Business or Professional Activities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2125.html).
+
+#### Line 7– Farming or fishing income
+
+Enter on the appropriate lines, the trust’s gross and net income or loss from farming or fishing. If the amount is a loss, report it in brackets. If the trust is a member of a partnership, enter the **partnership**’s total gross income and the **trust’s share** of the partnership’s net income or loss. Send the CRA the appropriate forms or statements.
+
+You have to follow certain rules when reporting farming or fishing income. The following publications contain more information and the forms you may need to calculate the trust’s income:
+
+- [Guide T4002, *Self-employed Business, Professional, Commission, Farming, and Fishing Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002.html)
+
+- [Form T2042, *Statement of Farming Activities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2042.html)
+
+- [Form T2121, *Statement of Fishing Activities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2121.html)
+
+If the trust is a member of the AgriInvest Fund 2, call **1-866-367-8506** to find out which form you should use to report farming income.
+
+#### Line 8 – Rental income
+
+Enter on the appropriate lines, the trust’s gross and net income, or loss from rentals. If the amount is a loss, report it in brackets. If the trust is a member of a partnership, enter the partnership’s total gross income and the trust’s share of the partnership’s net income or loss. Send the CRA the appropriate forms or statements.
+
+You have to follow certain rules when reporting rental income. The following guide has more information and the form you may need to calculate the trust’s income:
+
+- [Guide T4036, *Rental Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4036.html)
+
+- [Form T776, *Statement of Real Estate Rentals*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t776.html)
+
+#### Line 9 – AgriInvest Fund 2 payments
+
+Use the calculation in this section to report all amounts received, and those deemed to have been received by the trust out of its AgriInvest Fund 2. This fund is the portion of a farm producer’s net income stabilization account that comes from third-party sources, such as interest, bonuses, and government contributions.
+
+The trust should receive an [AGR-1 slip, Statement of Farm-Support Payments](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/agr-1.html) (AgriInvest Fund 2 amounts are reported in Box 18) for all farm support-programs from which it received payments of more than $100. These include programs administered by the federal, provincial, territorial, and municipal governments, as well as producer associations. Participants in the Agri-Québec program must also include in income any amounts withdrawn from their Agri-Québec Fund 2. The trust should receive an [RL-21 slip, Farm Support Payments](https://www.revenuquebec.ca/en/online-services/forms-and-publications/current-details/rl-21-t) (Agri-Québec Fund 2 amounts are reported in Box D).
+
+On this guide and the T3 return, any reference to AgriInvest Fund 2 is a reference to AgriInvest Fund 2 and includes Agri-Québec Fund 2.
+
+An AgriInvest Fund 2 amount can be transferred to a testamentary post-1971 spousal or common-law partner trust when the settlor dies. If the beneficiary spouse or common-law partner dies, the trustee has to report a deemed payment on the day the beneficiary spouse or common-law partner dies. The deemed payment is equal to the fund’s balance at the end of the day of death. The rules related to the death of a beneficiary of a spousal or similar trust have been amended in 2016. For more information, read the section [Deemed disposition](#P1134_126664).
+
+The trust has to report on line 9, the amount, if any, determined by the following calculation:
+
+A – (B – C)
+
+where:
+
+A = the amount paid in the year out of the program (or deemed to have been paid out of the AgriInvest Fund 2, such as on the death of the beneficiary spouse or common-law partner)
+
+B = the total of all amounts previously deemed to have been paid out of the AgriInvest Fund 2 to the trust, or to the beneficiary spouse or common-law partner, or out of another person's AgriInvest Fund 2 on being transferred to the trust
+
+C = the total of all amounts previously applied to reduce income out of the AgriInvest Fund 2
+
+Make separate calculations for each amount paid or deemed paid.
+
+AgriInvest Fund 2 payments are taxable in the trust. They cannot be allocated to beneficiaries, except for:
+
+- amounts that relate to payments received by a testamentary spousal or common-law partner trust while the beneficiary spouse or common-law partner was still alive
+
+- amounts received by a communal organization
+
+Use the space below line 9 to show any of the amounts on that line relating to payments received by the beneficiary spouse or common-law partner while they were, or are still alive, or by a communal organization.
+
+For more information, see [Guide T4002, *Self-employed Business, Professional, Commission, Farming, and Fishing Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002.html).
+
+#### Line 10 – Deemed dispositions income or losses
+
+Enter the trust’s total income or losses resulting from deemed dispositions from line 42 of [Form T1055, *Summary of Deemed Dispositions (2002 and later tax years)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1055.html). For more information, read the section [Deemed disposition](#P1134_126664).
+
+#### Line 11 – Non-deductible or add-back amounts of interest and financing expenses
+
+Enter the total amount from line 535 of [Form T3SCH130, Excessive Interest and Financing Expenses Limitation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch130.html).
+
+#### Line 12 – Other income
+
+Enter the total income the trust received in the tax year that is not included elsewhere on the T3 return or schedules, such as:
+
+- death benefits under the Canada Pension Plan (CPP) or Quebec Pension Plan (QPP)
+
+- royalties (do not include Crown royalties in the trust’s income)
+
+- commissions
+
+- retiring allowances, unless this amount is reported by a beneficiary, or reported in the retired person's income for the year of death as a right or thing (for more information, see [Income Tax Folio S2-F1-C2, Retiring Allowances](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-2-employers-employees/series-2-employers-employees-folio-1-specific-plans-offered-employers-employees/income-tax-folio-s2-f1-c2-retiring-allowances.html))
+
+- certain employment-related income (for more information, go to [Doing taxes for someone who died](https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died.html))
+
+- federal, provincial, or territorial government COVID-19 assistance programs, such as the Canada Emergency Wage Subsidy if the trust was qualified as an eligible employer
+
+##### Death benefit – Other than CPP or QPP
+
+A death benefit is an amount for a deceased person's employment service. This amount is shown in box 106 of a [T4A slip,*Statement of Pension, Retirement, Annuity, and Other Income*](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/completing-filing-information-returns/t4a-information-payers/t4a-slip.html). If a death benefit is to be taxed in the trust according to the provisions of the trust document, you may be able to leave out up to $10,000 of the amount from the trust's income.
+
+If no one other than a trust received a death benefit, report the amount that is more than $10,000. Even if the trust did not receive all of the death benefits in one year, the total tax-free amount for all years cannot exceed $10,000. To find out what to report if anyone else received a death benefit for the same person, see [archived Interpretation Bulletin IT508R, Death Benefits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it508r.html).
+
+Send the CRA a copy of the T4A slip, or a statement from the deceased person's employer that identifies the payment as a death benefit.
+
+##### Registered retirement savings plan (RRSP)
+
+A trust may be entitled to income earned by an RRSP after the death of the only or last annuitant. Usually, this income is shown on a [T5 slip, *Statement of Investment Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5.html) or [T4RSP slip, *Statement of RRSP Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4rsp.html) slip issued to the estate. Include this amount on line 12 of the T3 return. Generally, amounts deemed received on death or as a refund of premiums should not be included.
+
+For more information on taxable benefits from matured and unmatured RRSPs, go to [Doing taxes for someone who died](https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died.html) and see:
+
+- [Guide T4040, RRSPs and Other Registered Plans for Retirement](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4040.html)
+
+- [archived Interpretation Bulletin IT-500R, Registered Retirement Savings Plans – Death of an Annuitant.](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it500r.html)
+
+### Step 3 – Calculating net income: lines 14 to 32
+
+#### Line 15 – Carrying charges and interest expenses
+
+Enter the total carrying charges from line 17 of Schedule 8. For more information, read [Lines 13 to 17 – Carrying charges and interest expenses](#P1247_139844).
+
+#### Lines 16 to 18 – Trustee fees
+
+Trustee, executor, and liquidator fees include:
+
+- fees paid for certain investment advice (for more information, see [archived Interpretation Bulletin IT-238R2, Fees Paid to Investment Counsel)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it238r2.html)
+
+- fees incurred to gain or produce business or property income (deducted when you calculate the trust's business or property income)
+
+- fees for administering the trust or looking after real property (for example, a residence) used by a lifetime beneficiary of a testamentary trust (because these fees are not incurred to earn business or property income, you cannot deduct them from the income of the trust)
+
+Whether or not these fees are deductible by the trust, they are still income to the recipient. For this reason, you have to include the total fees paid in the year on line 16.
+
+On line 17, enter the fees that were not incurred to earn income or that were already deducted elsewhere on the T3 return.
+
+Trustee, executor, or liquidator fees paid to a person who acts in the capacity of an executor in the course of a business are part of that individual's business income. You must report these amounts on a T4A slip. If the trust paid fees to a non-resident of Canada for services performed in Canada and the non-resident acts in the capacity of an executor in the course of a business, fill out a [T4A-NR slip, *Statement of Fees, Commissions, or Other Amounts Paid to Non-Residents for Services Rendered in Canada*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4a-nr.html). For more information, see [Guide RC4445, *T4A-NR – Payments to Non-Residents for Services Provided in Canada*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4445.html).
+
+Otherwise, the fee for acting as executor is income from an office or employment. If the fees paid are $500 or more, you have to prepare a T4 slip for that individual. The individual reports these amounts as income from an office, even if they do not receive a T4 slip. For more information, see [Guide RC4120, *Employers' Guide – Filing the T4 Slip and Summary*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4120.html).
+
+#### Line 19 – Allowable business investment loss (ABIL)
+
+If the trust had a business investment loss (BIL), you could deduct a part of that loss from income. The deductible portion is called an ABIL.
+
+A BIL results from the actual or deemed disposition of certain capital properties. This can happen if the trust has disposed of, or is deemed to dispose of, one of the following to a person with whom it deals at arm’s length:
+
+- a share or debt of a small business corporation
+
+- a bad debt owed to the trust by a small business corporation
+
+For more information, see [Guide T4037, *Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html).
+
+You can deduct the ABIL from the trust's other sources of income for the year. If the ABIL is more than the other sources of income for the year, the difference is a non-capital loss for the year. For more information, read [Line 34 – Non-capital losses of other years](#P830_86460). Note that, when claiming unused ABILs in the carry-back or carry-forward period, ABILs are not adjusted to account for the inclusion rate that applies in the year the loss is claimed.
+
+If you cannot deduct the ABIL as a non-capital loss within the allowed time frame, the unused part of the ABIL becomes a net capital loss in the 11th year. You can then use it to reduce the trust's taxable capital gains in the 11th year or any following year. For more information, read [Line 35 – Net capital losses of other years](#P838_87601).
+
+##### Reduction in business investment loss
+
+If the trust designated part or all of its eligible taxable capital gains for the purpose of the capital gains deduction to a beneficiary in a previous year, you have to reduce the BIL for the current year.
+
+Use the [chart](#P664_81741) below to calculate the reduction in BIL. If the trust had more than one BIL in the year, use this chart to calculate the total reduction. For more information, see [Income Tax Folio S4-F8-C1, Business Investment Losses](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-8-losses/income-tax-folio-s4-f8-c1-business-investment-losses.html).
+
+**ABIL and reduction**
+
+You have to adjust the amount of eligible taxable capital gains on lines 1 to 7, because they were included in income at different rates in previous years.
+
+Total eligible taxable capital gains designated by the trust in 1985, 1986, and 1987
+
+**(1)**
+
+Total eligible taxable capital gains designated by the trust in 1988 and 1989; **do not** include eligible capital property on this line
+
+**(2)**
+
+Total deemed taxable capital gains from eligible capital property designated by the trust in 1988 and 1989
+
+**(3)**
+
+Total eligible taxable capital gains designated by the trust in years after 1989 and before 2000
+
+**(4)**
+
+Total eligible taxable capital gains designated by the trust in 2000 (see note)
+
+**(5)**
+
+Total eligible taxable capital gains designated by the trust in 2001 (see note)
+
+**(6)**
+
+Total eligible taxable capital gains designated by the trust in years after 2001
+
+**(7)**
+
+**Add** lines 1 to 7
+
+**(8)**
+
+Total amount you used to reduce the trust’s business investment losses in years after 1985 and ending before the current year
+
+**(9)**
+
+Line 8 **minus** line 9
+
+**(10)**
+
+Business investment losses for the year before reducing the losses
+
+**(11)**
+
+Enter the amount from line 10 or line 13, whichever is **less**. This is the reduction for the year (enter this amount on line 13 of Schedule 1).
+
+**(12)**
+
+Business investment losses for the year: line 11 **minus** line 12
+
+=
+
+**(13)**
+
+Allowable business investment losses for the year: line 13 (Enter this amount on line 19 of the T3 return.)
+
+× 1/2=
+
+**(14)**
+
+The fractions to be used at lines 5 and 6 are the reciprocal of the trust’s inclusion rates for 2000 and 2001. For example, if the trust’s inclusion rate was 1/2, the reciprocal is 2. If the trust’s inclusion rate was 3/4, the reciprocal is 4/3. If the trust’s inclusion rate was 2/3, the reciprocal is 3/2. For 2000 (and 2001, if applicable), use the inclusion rate from line 16 of the 2000 Schedule 1.
+
+#### Line 20 – Other deductions from total income
+
+Generally, you can deduct expenses if they were paid to earn income for the trust. Expenses include legal, accounting, and management fees. You can also deduct the fees paid for advice or assistance to file an objection or an appeal to an assessment or decision under the Act (although you have to reduce the claim by any award or reimbursement you received for such expenses).
+
+**Do not** deduct the following:
+
+- outlays and expenses that apply to the capital assets of the trust (read the section [Outlays and expenses](#P1038_112327))
+
+- personal expenses of the beneficiaries or trustees, such as funeral expenses or probate fees
+
+- any amounts paid to beneficiaries
+
+Enter investment counsel fees paid (paragraph 20(1)(bb)) on line 14 of Schedule 8. For more information, read the section [Lines 13 to 17 – Carrying charges and interest expenses](#P1247_139844) of Schedule 8.
+
+#### Line 23 – Upkeep, maintenance, and taxes of a property used or occupied by a beneficiary
+
+You may have claimed expenses on the T3 return that relate to the upkeep, maintenance, and taxes on a property used or occupied by a beneficiary. You may have claimed these expenses on a financial statement, such as a rental statement. Generally, if these amounts were paid out of the income of the trust according to the trust document, the beneficiary is required to include these amounts in income in the year they were paid. Therefore, you have to report these benefits as income on the beneficiary's [T3 slip, *Statement of Trust Income Allocations and Designations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3.html), and you will deduct them again from the trust's income on line 29 of the T3 return. To offset this "double-deduction" of the same expenses, you have to add these amounts back into the trust's income on line 23 of the T3 return.
+
+Provide details of the amount entered on this line, including the nature and amount of each expense, and where on the return or financial statement these expenses have been claimed.
+
+#### Line 24 – Value of other benefits to a beneficiary
+
+You may have paid benefits, such as amounts for personal or living expenses, from the trust to a beneficiary. The beneficiary has to include the value of these benefits in income in the year they were paid, unless the value:
+
+- is already included in calculating the beneficiary's income for the year
+
+- has been used to reduce the adjusted cost base of the beneficiary's interest in the trust
+
+Enter on line 24, the amount of these benefits that were included as income on the beneficiary's T3 slip.
+
+Because you have to deduct the value of the benefits as income allocations and designations to beneficiaries on line 28, and the trust cannot deduct this amount, you have to add it back into the trust's income by including the amount on line 24. Provide details of the amount entered on this line, including the nature and amount of each benefit.
+
+#### Lines 27, 28 and 29 – Total income allocations and designations to beneficiaries
+
+Generally, a trust receives income and pays it to the beneficiaries according to the terms of a will or trust document called **allocating income**. In most cases, you enter the income on the T3 return in Step 2, then enter it on line 28 in Step 3, so the trust does not pay tax on the income. The beneficiary then has to report the income on their return. For more information, read the section [Schedule 9 – Income Allocations and Designations to Beneficiaries](#P1280_144279).
+
+In some cases, income that is allocated to a beneficiary may be taxed on the trust's return, instead of on the beneficiary's return. In other cases, income that is usually reported on the trust's T3 return may instead be reported on the beneficiary's T1 return. For more information, read the section [Exceptions and limits to income allocations](#exceptions).
+
+Income allocated to a beneficiary that is not deductible by the trust (other than a designated amount included in line 28) should **not** be included on line 27 or reported on Schedule 9.
+
+On line 27, enter the amounts paid or payable to beneficiaries in the current year, including any amount designated by a preferred beneficiary election. On line 28, subtract the amounts claimed under subsections 104(13.1) and 104(13.2). Enter the result on line 29.
+
+For more information, read the section [Income to be taxed in the trust](#P1337_152332).
+
+Line 28 has to equal the amount entered on line 928 of Schedule 9.
+
+### Step 4 – Calculating taxable income: lines 33 to 45
+
+**Losses of other years**– If you are claiming a loss from other years, provide a continuity statement of the loss balances.
+
+Be sure the statement includes the year the loss was incurred, the amounts applied in previous years, and the balance remaining at the beginning of the current year.
+
+If the trust is claiming more than one loss, or if a claim needs more explanation, send the CRA a note providing the details.
+
+#### Loss trading – Rules for trusts
+
+The loss streaming rules generally apply to limit a corporation’s trading of certain tax attributes (for example, non-capital losses, net capital losses, farm losses, and unused investment tax credits) where a person or group of persons acquires control of the corporation. The loss-streaming and related rules apply, with appropriate modifications, to a trust that is subject to a loss restriction event.
+
+A trust will be subject to a loss restriction event when a person or partnership becomes a majority-interest beneficiary of the trust, or a group becomes a majority-interest group of beneficiaries of the trust. The concepts of majority-interest beneficiary and majority-interest group of beneficiaries will apply as they do under the existing income tax provisions for affiliated persons, with appropriate modifications. In general, under the affiliated person’s provisions, a majority-interest beneficiary of a trust is a beneficiary who, together with persons and partnerships with which the beneficiary is affiliated, has a beneficial interest in the trust’s income or capital with an FMV that exceeds 50 per cent of the FMV of all the beneficial interests in income or capital, respectively, in the trust. Additional rules apply to beneficiaries who have discretionary interests.
+
+The rules that deem certain transactions or events to involve (or not involve) an acquisition of control of a corporation are applicable, with appropriate modifications, in determining whether a trust is subject to a loss restriction event under section 251.2. For example, rules similar to the continuity of ownership rules that deem a corporate acquisition of control not to occur in certain circumstances involving the death of a shareholder, or involving transactions within certain groups of shareholders, will also apply in the context of trusts and their beneficiaries.
+
+Many of the typical transactions or events involving changes in the beneficiaries of a personal (that is, family) trust will not, because of the continuity of ownership rules, result in the trust being subject to a loss restriction event.
+
+These measures apply to transactions that occur after March 20, 2013.
+
+The acquisition of equity in certain types of investment trusts will not be treated as a loss restriction event of the trusts if certain conditions are met. Certain relieving measures exist where a trust is subject to a loss restriction event; for example, the filing due date of the trust’s T3 return and issuance of T3 slips, and balance-due date have been extended in respect of a tax year that is deemed to end before the loss restriction event.
+
+#### Line 34 – Non-capital losses of other years
+
+A non-capital loss could arise if the trust had a loss from business or property in a year, and it was more than the trust's income from all sources in that year.
+
+The tax year in which the non-capital loss was incurred will affect the extent to which you can carry over the unused portion. You can carry over the unused portion of a loss that was incurred in a tax year-ending:
+
+- on or after January 1, 2006, back 3 years and forward 20 years
+
+- after March 22, 2004, and before January 1, 2006, back 3 years and forward 10 years
+
+- before March 23, 2004, back 3 years and forward 7 years
+
+If the trust has an unused non-capital loss from a previous year, you can use it to reduce taxable income for the current year. Enter this amount on line 34.
+
+For information on how to carry back an unused non-capital loss, read the section [Form T3A, *Request for Loss Carry-back by a Trust*](#P845_88724).
+
+**Farming and fishing losses** – If the trust had a farming or fishing loss from a previous year, read the section [Lines 36 to 42 – Other deductions to arrive at taxable income](#P855_90948).
+
+#### Line 35 – Net capital losses of other years
+
+Generally, if the trust's allowable capital losses are more than its taxable capital gains in a year, the difference is a net capital loss for that year. You can use the net capital loss to reduce the trust's taxable capital gains in any of the three preceding years or in any future year.
+
+Within certain limits, you can deduct all or a portion of the trust's net capital losses of other years that have not already been claimed. Net capital losses of prior years are based on the capital gains inclusion rate in effect in the loss year. The value of the net capital losses is adjusted in the year the loss is applied to reflect the capital gains inclusion rate in effect for the loss application year.
+
+For more information, see [Guide T4037, Capital Gains](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html).
+
+Losses on listed personal property (LPP) can be applied only against LPP gains. For more information, read the section [Lines 7 to 9 – Listed personal property](#P1095_1215971) Schedule 1.
+
+The unused portion of an LPP loss can be carried back three years and forward seven years, and applied against LPP gains in those years.
+
+For information on how to carry back an unused net capital loss or an LPP loss, read the next section.
+
+#### Form T3A, Request for Loss Carry-back by a Trust
+
+Use this form to carry an unused loss back to a previous year. You have to make your request on or before the due date of the T3 return for the year in which the trust incurred the loss. You can file the filled out form with the current year’s T3 return or, where applicable, file it together with the [Form T3-ADJ, *T3 Adjustment Request*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3-adj.html).
+
+If the loss was not deducted fully in a previous year, keep a schedule of the unused portion so you can deduct it in future years. Always apply the oldest loss within a class of losses first. For example, apply a 2023 non-capital loss before a 2024 non-capital loss.
+
+A non-capital loss carry-back is used to reduce the taxable income of the trust in a previous year. A net capital loss carry-back is deductible in computing a trust’s taxable income for a previous tax year only to the extent of the trust’s taxable capital gains in that previous year.
+
+If you allocated income or designated taxable capital gains to beneficiaries in a previous year and you subsequently carry back a loss to that year, the trust may make a late subsection 104(13.1) or (13.2) designation only where the application of the loss results in nil taxable income for the trust.
+
+Forms used to amend the tax position of the trust and the beneficiary are as follows:
+
+- [Form T3A, *Request for Loss Carry-back by a Trust*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3a.html), filed by the trust for the loss year to request that the loss be carried back to the previous year
+
+- [Form T3-ADJ, *T3 Adjustment Request*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3-adj.html), filed by the trust for the previous year to reflect a late subsection 104(13.1) or (13.2) designation so as to amend the trust’s T3 return
+
+- Amended T3 slip, issued by the trust to the beneficiary for the previous year, reducing the income allocated
+
+- [Form T1-ADJ, *T1 Adjustment Request*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1-adj.html), filed by the beneficiaries to reflect the amended T3 slip and to amend the T1 return
+
+The CRA will only reassess beneficiaries’ returns if the tax years to which they relate and the tax year of the trust to which the loss will be applied are not statute-barred.
+
+The trust must file forms T3A and T3-ADJ together as they must be processed concurrently.
+
+If you apply a net capital loss carry-back, a non-capital loss may be increased or created if the net loss was previously used to reduce the amount of taxable capital gains in the year of the carry-back.
+
+For more information, see [IT232R3 ARCHIVED, *Losses – Their Deductibility in the Loss Year or in Other Years*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it232r3.html).
+
+#### Lines 36 to 42 – Other deductions for calculating taxable income
+
+Enter any other deductions, such as:
+
+- previous year limited partnership, farming, or fishing losses (read the note below)[Footnote*](#fn*)
+
+- the $2,000 deduction allowed to a non-profit organization reporting income from property (subparagraph 149(5)(f)(i) of the Act)
+
+- the amount of foreign income reported that is exempt from tax in Canada because of a tax treaty or convention (identify the exempt income amount, and the treaty or convention that applies)
+
+#### Line 41 – Restricted interest and financing expenses of other years
+
+Enter the amount from line 537 of [Form T3 SCH 130, *Excessive Interest and Financing Expenses Limitation*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch130.html) (Schedule 130), which represents restricted interest and financing expenses from previous years that are deducted by the trust in the year.
+
+### Step 5 – Summary of tax and credits: lines 46 to 80
+
+#### Line 46 – Part II.2 tax payable
+
+Enter the amount from line 53 of [Form T3 SCH 10, *Part XII.2 Tax, Part XIII Non-Resident Withholding Tax, and Part II.2 Tax on Repurchases of Equity*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch10.html) (Schedule 10) on line 46.
+
+#### Line 47 – Total federal tax payable
+
+Enter the amount of the federal tax payable from line 34 of [Form T3 SCH 11, *Federal Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch11.html) (Schedule 11) or line 71 of [Form T3 SCH 12, *Minimum Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch11.html) (Schedule 12) on line 47.
+
+#### Line 48 – Provincial or territorial tax payable
+
+For information on which provincial or territorial form to use, read the section [Provincial and territorial income tax](#P1802_203586).
+
+#### Line 49 – Part XII.2 tax payable
+
+This is a special tax that applies to trusts or estates with non-resident beneficiaries when they earn certain types of Canadian-source income. Enter the amount from line 12 of Schedule 10 on line 49.
+
+#### Line 51 – Tax paid by instalments
+
+Enter the amount of the total instalment payments made by the trust. If the account number on the trust's receipt differs from the one on page 1 of the return, enter the account number from the receipt to the right of line 51. If you received a refund of all or part of an instalment, **do not** include this amount on line 51.
+
+Do not include, on line 51, any tax withheld on income earned by the trust. Any amount of tax withheld, as shown on the trust’s information slips, is to be reported on line C. For more information, read the following section.
+
+#### Tax instalments
+
+For tax years before 2016, testamentary trusts were exempted from the tax instalment rules and therefore were required to pay any tax owing within 90 days after the end of the tax year. For 2016 and later tax years, only a graduated rate estate is exempt from making the tax instalments. However, consistent with current administrative practices, the CRA will continue to not assess penalties or interest where a trust fails to make sufficient instalment payments.
+
+#### Lines C, D, and 52 – Net tax deducted
+
+If tax was withheld on any income earned by the trust, enter the amount of tax withheld on line C. Send the CRA information slips if they are available. If an information slip is not available, send the CRA a statement from the issuer, indicating the income reported and the tax withheld. **Do not** allocate the tax that was withheld to the beneficiaries.
+
+**Transfer to Quebec** – If the trust was resident in Quebec and earned income outside that province, tax may have been withheld for a province or territory other than Quebec. You can transfer up to 45% of this amount to the province of Quebec. Enter this amount on line D. If this does not apply to you, enter "0" on line D.
+
+Subtract the transferred amount from total tax deducted, and enter the result on line 52.
+
+#### Line 53 – Refundable Quebec abatement
+
+This is a federal tax reduction provided to Quebec residents to reflect the province's unique tax collection arrangement. Enter the amount from line 36 of Schedule 11 or line 72 of Schedule 12 on line 53 of the T3 return.
+
+#### Line 54 – Refundable investment tax credit
+
+This is a federal tax credit that allows eligible individuals to receive a refund for unused investment tax credits based on qualifying expenditures made during the tax year. Use [Form T2038(IND), *Investment Tax Credit (Individuals)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2038-ind.html), to calculate the investment tax credit (ITC) and enter the amount claimed on line 54 of the T3 return.
+
+#### Line 55 – Clean technology investment tax credit (Form T1098)
+
+The credit is available in respect of the capital cost of certain eligible equipment that qualifies as clean technology property. Eligible equipment includes certain properties described in capital cost allowance (CCA) classes 43.1, 43.2, and 56, which have 30%, 50%, and 30% declining-balance-basis CCA rates, respectively. Eligible equipment included in these CCA classes will also be eligible for enhanced first-year depreciation under the accelerated investment incentive if acquired and available for use before 2028.
+
+#### Line 56 – Capital gains refund (Form T184)
+
+This refund is available only to a mutual fund trust that has refundable capital gains tax on hand at the end of the year. To calculate the refund, fill out [Form T184, *Capital Gains Refund to a Mutual Fund Trust*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t184.html).
+
+#### Line 57 – Part XII.2 tax credit
+
+If the trust is the beneficiary of another trust and received a T3 slip from that trust with an amount in box 38, enter that amount on line 57.
+
+#### Line 59 – Newfoundland and Labrador research and development tax credit
+
+This refundable tax credit equals 15% of eligible research and development expenditures carried out in Newfoundland and Labrador by a trust resident in the province at the end of the tax year.
+
+Fill out [Form T1129, *Newfoundland and Labrador Research and Development Tax Credit (Individuals)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1129.html) to calculate the credit .
+
+The trust can designate some or all of these credits to beneficiaries of the trust. **Subtract**the amount designated to beneficiaries from the credit calculated on line 6 of the form. Enter the result on **line 59** of the T3 return. Attach Form T1129 and NL479 to the T3 return.
+
+#### Line 60 – British Columbia mining exploration tax credit
+
+This credit is available to trusts resident in British Columbia at end of the tax year that incurred qualified mining exploration expenses within the province. This credit is **refundable** but must first be used to offset provincial income tax. Claims must be made within 18 months of the end of the tax year
+
+Use [Form T88, *British Columbia Mining Exploration Tax Credit (Individuals)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t88.html) to calculate the credit. Enter the amount from line 23 of Form T88 to line 60 of the T3 return. Attach Form T88 to the T3 return.
+
+#### Line 61 – Federal environmental trust tax credit
+
+This tax credit allows a taxpayer who is a beneficiary of a qualifying environmental trust (QET) to claim a refundable credit equal to the taxpayer’s share of the Part XII.4 tax paid by the QET, which is based on the taxpayer’s shares of the income of the QET. For a beneficiary of a QET who is a trust, enter the tax credit amount from the letter your received from the QET on line 61 of the T3 return.
+
+#### Line 62 – British Columbia environmental trust tax credit
+
+This refundable tax credit is available to eligible corporations that are **beneficiaries of a qualifying environmental trust** established in British Columbia. The credit is equal to the eligible distribution received from the trust for the tax year.
+
+Line 62 on the T3 return is used to report distributions from an environmental trust to corporate beneficiaries, enabling those corporations to claim the corresponding environmental trust tax credit on their T2 tax returns.
+
+If the trust made an environmental trust distribution to corporate beneficiaries, enter the amount distributed on line 62 of the T3 return. If no such distribution occurred, leave line 62 blank or indicate zero.
+
+**Beneficiary corporations** can use the amount on this line to claim the environmental trust tax credit on Line 670 of the T2 Schedule 5.
+
+#### Line 63 – Saskatchewan environmental trust tax credit
+
+This **refundable tax credit** is available to corporations **that are beneficiaries of a qualifying environmental trust established in Saskatchewan**. The credit equals **12%** of the income subject to tax under Part XII.4 of the federal Income Tax Act, as distributed by the environmental trust for the year.
+
+Line 63 on the T3 return is to report distributions from an environmental trust to corporate beneficiaries, enabling those corporations to claim the corresponding environmental trust tax credit on their T2 returns.
+
+If the trust made environmental trust distribution to corporate beneficiaries, enter the amount distributed on line 63 of the T3 return. If no such distribution occurred, leave line 63 blank or indicate zero.
+
+**Beneficiary corporations** can use the amount on this line to claim the environmental trust tax credit on the T2 Schedule 5.
+
+#### Line 64 – Canadian journalism labour tax credit
+
+A trust can claim the Canadian journalism labour tax credit, once designated by the Minister as a qualified Canadian journalism organization (QCJO), provided the trust is one of the following:
+
+- A qualifying journal organization (QJO)
+
+- A member of a partnership (other than a specified member of the partnership) that is a QJO
+
+If the trust is claiming the tax credit, provide all of the following supporting information:
+
+- a copy of the letter from the CRA designating the organization to be a QCJO
+
+- the period for which the organization was a QJO in the tax year
+
+- any amount the organization received from the [Aid to Publishers](https://www.canada.ca/en/canadian-heritage/services/funding/periodical-fund/magazine.html) component of the Canada Periodical Fund in the tax year
+
+- a letter that states the name of your organization, your trust account number, the tax year for which you are claiming the credit, and the dollar amount of the tax credit you are claiming
+
+- a schedule showing all of the following information in respect of each eligible newsroom employee:
+
+    - the employee’s name
+
+    - the employee’s SIN
+
+    - the salary or wages payable to the employee for the portion of the tax year (on or after January 1, 2019) throughout which your organization was a QJO
+
+    - the amount of any assistance received in the tax year in respect of the employee that had not been repaid before the end of the year pursuant to a legal obligation to do so
+
+Send the supporting information with your T3 return to your tax centre.
+
+The amount of the partnership’s Canadian journalism labour tax credit is divided between qualifying members of the partnership. The amount allocated to the trust by the partnership can be claimed at line 64 provided it is supported by a valid T5013 slip.
+
+For more information on the requirements that must be met to be a QCJO and a QJO as well as information on calculating the Canadian journalism labour tax credit, go to [Supporting Canadian journalism](https://www.canada.ca/en/revenue-agency/campaigns/support-canadian-journalism.html).
+
+#### Line 65 – Yukon research and development tax credit
+
+This refundable tax credit is available to trusts resident in Yukon at end of the tax year and is equal to 15% of eligible scientific research and experimental development (SR&ED) expenditures incurred in Yukon, **plus 5%** of expenditures paid or payable to Yukon University. It must be claimed within 12 months after the tax return’s filing due date It must be claimed within the tax year with no carry-back or carry-forward options. Use [Form T1232, *Yukon Research and Development Tax Credit (Individuals)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1232.html) to calculate the Yukon research and development tax credit and attach it to the trust’s return. The trust can designate some or all of these credits to beneficiaries of the trust. Subtract the amount designated to beneficiaries from the credit calculated on the form. Enter the result on **line 65** of the T3 return.
+
+#### Line 66 – Manitoba paid work experience tax credit
+
+A trust may claim the **Manitoba paid work experience tax credit** for salaries or wages paid in 2025 to eligible individuals during qualifying employment periods. These include:
+
+- **Qualifying youth** hired for a recognized work experience program
+
+- **Co-op students** hired for a registered co-operative education work placement
+
+- **Co-op graduates** hired for full-time employment related to their field of study
+
+- **Apprentices**hired for a qualifying apprenticeship period
+
+- **Journeypersons** recently certified and hired for qualifying employment
+
+The credit is **refundable**and typically equals **15% to 25%** of wages and salaries paid, up to a maximum of **$5,000 per individual**, depending on the category and location (e.g., rural or northern Manitoba may qualify for enhanced rates).
+
+Enter the total amount of the credit on **line 66** of the trust’s T3 return.
+
+#### Line 68 – Manitoba green energy equipment tax credit
+
+A trust may claim the Green Energy Equipment Tax Credit for eligible purchases and installations made in 2025. Qualifying equipment includes:
+
+- Geothermal heat pump systems
+
+- Solar thermal energy systems
+
+- Energy co-generation equipment
+
+- Biomass fuel energy equipment
+
+- Gasification equipment
+
+To qualify, the equipment must be **new**, installed in **Manitoba**, and used in a **business**. Trusts that **manufacture geothermal heat pumps in Manitoba** for use in the province may also claim the credit.
+
+The credit is refundable and must be claimed on **line 68** of the trust’s T3 income tax return. For full eligibility criteria, including technical standards and exclusions, read [Form T1294, *Manitoba Green Energy Equipment Tax Credit*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1294.html). For more information, read [Form T3MB, *Manitoba Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3mb.html).
+
+#### Line 69 – Return of fuel charge proceeds to farmers tax credit
+
+This refundable tax credit provides a return of a portion of the fuel charge proceeds from the federal carbon pollution pricing system directly to farming businesses in provinces that do not currently have a system that meets the federal requirements. These designated provinces, for the 2024 and 2025 calendar year, are Alberta, Manitoba, Ontario, Saskatchewan, New Brunswick, Newfoundland and Labrador, Nova Scotia, and Prince Edward Island. With the removal of the federal fuel charge effective April 1, 2025, this credit is no longer available for the portion of eligible farming expenses deducted for the 2025 taxation year that fall in the 2025 calendar year.
+
+However, a credit can still be claimed by a trust for the 2025 taxation year if both of the following apply:
+
+- the trust is one of the following:
+
+    - a graduated rate estate (GRE) with a tax year beginning in 2024 and ending in 2025
+
+    - a trust that was allocated a portion of the credit from a partnership for its fiscal period beginning in 2024 and ending in 2025
+
+- the trust or the partnership operated a farming business that had one or more permanent establishments in a designated province.
+
+Trusts claiming this credit on line 69 should complete the calculation using form T2043 and send it with the trust’s [T3 Trust Income Tax and Information return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ret.html).
+
+For more information, read [Guide T4002, *Self-employed Business, Professional, Commission, Farming, and Fishing Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002.html) and [Form T2043,*Return of Fuel Charge Proceeds to Farmers Tax Credit*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2043.html).
+
+#### Line 70 – British Columbia clean buildings tax credit
+
+The British Columbia clean buildings tax credit is a refundable income tax credit for qualifying retrofits that improve the energy efficiency of eligible commercial and multi-unit residential buildings with four or more units. The retrofit must improve the energy efficiency of an eligible building and meet energy-use targets. The credit amount is 5% of qualifying expenditures paid for the retrofit less:
+
+- expenses claimed by any other taxpayer
+
+- any amount received or receivable as under an assistance program in respect of the qualifying expenditures
+
+- any amount provided as a forgivable loan that was designed to provide assistance with the financing or cost of the alteration or renovation if it has not been repaid under a legal obligation to do so
+
+You must be a resident of British Columbia or have income allocated to British Columbia at the end of the year that you are claiming the credit. The retrofit must be certified by the British Columbia Ministry of Finance before you may claim this credit.
+
+Claim this credit on your income tax return for the year following the tax year that the retrofit is completed. You can claim the credit no later than 18 months after the end of the tax year that follows the tax year in which a retrofit was completed.
+
+The retrofit must be both completed before April 1, 2027, and an application for certification must be filed to the British Columbia Ministry of Finance by September 30, 2028, in order to be certified.
+
+**Qualifying expenditures** are expenditures that are directly attributable to a qualifying retrofit. You must make or incur the expenditures under the terms of an agreement entered into after February 22, 2022, and paid before April 1, 2026.
+
+If you are a member of a partnership, you may calculate your portion of the partnership’s British Columbia clean buildings tax credit on [Form T1356, *British Columbia Clean Buildings Tax Credit*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1356.html). Use the information provided to you by your partnership to determine this amount.
+
+The amounts shown on your certificate from the British Columbia Ministry of Finance are estimates only. You must calculate your actual tax credit by completing Form T1356.
+
+Fill out a separate Form T1356 for each qualifying retrofit you are claiming for the year. Claim the total amount of your credit on line 70 of the T3 return. For more information on British Columbia Clean buildings tax credit, go to [Clean buildings tax credit](https://www2.gov.bc.ca/gov/content/taxes/income-taxes/personal/credits/clean-buildings).
+
+#### Line 71 – Ontario environmental tax credit
+
+This refundable tax credit is available to eligible corporations that are beneficiaries of a qualifying environmental trust established in Ontario. The credit is equal to the income subject to tax under Part XII.4 of the federal Income Tax Act, as distributed by the environmental trust for the year.
+
+Line 71 on the T3 return is used to report distributions from an environmental trust to corporate beneficiaries, enabling those corporations to claim the corresponding environmental trust tax credit on their T2 tax returns.
+
+If the trust made an environmental trust distribution to corporate beneficiaries, enter the amount distributed on line 71 of the T3 return. If no such distribution occurred, leave line 71 blank or indicate zero.
+
+Beneficiary corporations can use the amount on this line to claim the environmental trust tax credit on the T2 Schedule 5.
+
+#### Line 72 – Yukon business carbon price rebate
+
+Trusts can claim the Yukon business carbon rebate only for year ending before April1, 2025. Fill out Part 2 of Form 5011-S14, Yukon Government Carbon Price Rebate (Schedule YT(S14)), and enter this amount on line 72 of the T3 return.
+
+If you are claiming this rebate for the tax years 2022, 2023, and 2024, you will need to send Form T3-ADJ.
+
+The Yukon business carbon price rebate includes the general business carbon price rebate and the mining business carbon price rebate. You may be able to claim this rebate if, in 2025, you operated a business or mining business in Yukon or you earned income from a rental property while you lived in Yukon.
+
+For more information, go to [Yukon tax information for 2025](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/yukon/5011-pc.html).
+
+#### Line 73 – Yukon mining carbon price rebate
+
+The mining carbon price rebate is a refundable credit for qualifying clean technology assets that reduce fossil fuel consumption.
+
+You can claim this credit on line 73 of the T3 return.
+
+For more information, go to [Yukon tax information for 2025](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/yukon/5011-pc.html).
+
+#### Line 74 – Manitoba cultural industries printing tax credit
+
+You can claim this credit if the trust met **all**of the following conditions:
+
+- It was a resident of Manitoba at the end of the year
+
+- Its business activity is to print, assemble, or bind books in Manitoba
+
+- It had eligible printing revenue in 2025
+
+Eligible printing revenue is the amount the trust received from a publisher who is resident in Canada for the service provided by the trust for an eligible book.
+
+The eligible printing revenue in relation to an eligible book is the **lesser**of:
+
+- $200,000 **minus**all eligible printing revenue from prior tax years for that book, and
+
+- all amounts paid in 2025 and prior years to the trust, by a publisher resident in Canada that is not related to the trust, for the services of printing, assembling, or binding in Manitoba prior to 2025
+
+An eligible book must:
+
+- be eligible for the Manitoba book publishing tax credit
+
+- be 90% previously unpublished **new**material unless it was an earlier printing of the same publication,
+
+- have a ratio of text to pictures of at least 65% if it is not a children’s book, and
+
+- be for sale through an established distributor
+
+The trust’s credit is the **lesser**of:
+
+- $1,100,000 and
+
+- 35% of the salary and wages paid in 2025 and prior tax years to employees in your book printing division who were residents of Manitoba on December 31, multiplied by the proportion of your eligible printing revenue for the year divided by the trust’s total book printing revenue (excluding revenue from printing yearbooks) earned in 2025 and prior years.
+
+Enter the amount of the credit on line 74 of the trust's T3 return.
+
+#### Line 75 – Manitoba rental housing construction incentive credit
+
+The Manitoba rental housing construction incentive credit is a refundable tax credit for construction that starts on or after January 1, 2024.
+
+Non-profit entities can claim this tax credit in the year the eligible rental housing project becomes available for use. For-profit entities can claim $8,500 on all units in the year the eligible rental housing project becomes available for use, and an additional $5,000 over 10 years for affordable units.
+
+You can claim this credit on line 75 of the T3 return.
+
+#### Line 78 – Balance owing or refund
+
+The balance owing or refund is the difference between the total taxes payable on line 50 and the total credits on line 78. Generally, a difference that is $2 or less does not have to be paid, nor will it be refunded.
+
+#### Line 79 – Amount enclosed
+
+Enter the amount of the payment you are sending the CRA with your tax return. For more information, read the section [Payment options](#paymentoptions).
+
+#### Line 80 – Refund code
+
+If the trust is entitled to a refund, enter one of the following codes in the refund code box:
+
+| Refund code | What you want the CRA to do with the credit |
+
+| --- | --- |
+
+| 0 | You want the CRA to refund the credit |
+
+| 1 | You want the CRA to keep the credit for next year |
+
+| 2 | You want the CRA to hold the credit and apply it to an expected assessment of an additional amount to be paid. Send the CRA a letter providing details. |
+
+The CRA considers the credit to have been received on the date the CRA assesses your return. First, the CRA will apply a credit to any outstanding balance. Then, the CRA will direct any amount left over according to the code you enter. If you do not enter a code, the CRA will refund the credit.
+
+#### Name and address of person or company who prepared this return
+
+Fill out this part if someone other than the trustee, custodian, executor, liquidator, or administrator prepared this return.
+
+#### Certification
+
+The trustee, custodian, executor, liquidator, or administrator of the trust has to fill out and sign this part.
+
+## Chapter 3 – Trust schedules and forms
+
+### Form T3SCH 1, Dispositions of Capital Property (Schedule 1)
+
+If the trust disposed of capital property in the year, see [Guide T4037, *Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html)*,* for the general rules regarding capital gains and losses. The CRA explains the rules that relate to trusts in this section.
+
+Fill out [Schedule 1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch1.html) and send it with the T3 return if the trust had dispositions of capital property during the year. **Do not** include any deemed dispositions that are reported on [Form T1055, *Summary of Deemed Dispositions (2002 and later tax years*)](#P1133_126622). For more information, read the section [Form T1055*, Summary of Deemed Dispositions*](#P1133_126622).
+
+Transfer the amount of any taxable capital gains from line 25 of Schedule 1 to line 1 of the T3 return.
+
+A disposition of capital property includes any of the following:
+
+- the sale of property
+
+- the sale of the principal residence
+
+- the distribution or exchange of property (for distributions to beneficiaries see below)
+
+- the making of a gift
+
+- a redemption of shares
+
+- a debt settlement
+
+- a theft
+
+- the destruction of property
+
+The CRA does not consider a disposition to have occurred if two corporations or a parent corporation and its subsidiary have amalgamated and there is no consideration for the redemption of shares.
+
+The distribution or exchange of property includes distributions to beneficiaries and rollovers reported on [T2057 Election on Disposition of Property by a Taxpayer to a Taxable Canadian Corporation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2057.html) or [T2059 Election on Disposition of Property by a Taxpayer to a Canadian Partnership](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2059.html).
+
+A Canadian resident trust may allocate and designate all or a portion of its net taxable capital gains in respect of the disposition of qualified farm or fishing property (QFFP) or qualified small business corporation shares (QSBCS), or the portion of a capital gains reserve on such property which is included in the trust’s income in the current year, to a beneficiary who is an individual. The beneficiary is deemed to have realized a taxable capital gain from the disposition of the qualified property. As a result, a beneficiary who is an individual (other than a trust) may be eligible to claim the lifetime capital gains deduction under section [section 110.6](https://laws-lois.justice.gc.ca/eng/acts/I-3.3/page-80.html#h-296427) of the Act.
+
+Where the trust is reporting a disposition of QFFP, or QSBCS which occurred in 2024 in its 2025 taxation year and the trust is allocating and designating the net taxable capital gains from such a disposition to a beneficiary on a 2025 T3 slip, you must indicate on a T3 slip whether the disposition occurred before June 25, 2024 or after June 24, 2024 by way of footnote to either Box 55 (for QFFP) or Box 57 (for QSBCS). For more information, read How to fill out the T3 slip.
+
+[Form T3SCH 9, *Income Allocations and Designations to Beneficiaries*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch9.html) (Schedule 9), has been updated. The taxable gains from the disposition of qualified farm or fishing property (QFFP) and qualified small business corporation shares (QSBCS) must continue to be reported separately for the purpose of calculating the capital gains deduction:
+
+- Box 55 of the Form T3SCH 9 reports capital gains eligible for deduction from dispositions of QFFP.
+
+- Box 57 of the Form T3SCH 9 reports capital gains eligible for deduction from dispositions of QSBCS.
+
+#### Certain gifts – zero inclusion rate
+
+Generally, a trust’s taxable capital gain from the disposition of capital property is 1/2 of the trust’s capital gain with certain exceptions.
+
+If the trust donated certain types of capital property to a registered charity or other qualified donee, the trust may not have to include in its income any amount of capital gain realized on such gifts. The trust may be entitled to an inclusion rate of zero on any capital gain realized on such gifts.
+
+Donated capital property, where an inclusion rate of zero may apply, includes the following:
+
+- a share, debt obligation, or right listed on a designated stock exchange
+
+- a share of the capital stock of a mutual fund corporation
+
+- a unit of a mutual fund trust
+
+- a prescribed debt obligation
+
+- an interest in a related segregated fund trust
+
+- certified ecologically sensitive land (including a covenant, or an easement to which land is subject or, in the case of land in the Province of Quebec, a real servitude or a personal servitude where certain conditions are met) gifted to certain qualified donees other than private foundations
+
+- certain exchanged property where conditions are met
+
+For more information, see [Guide P113, *Gifts and Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html), and [Income Tax Folio S7-F1-C1, *Split receipting and Deemed Fair Market Value*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-7-charities-non-profit-organizations/series/income-tax-folio-s7-f1-c1-split-receipting-deemed-fair-market-value.html).
+
+If there is no advantage in respect of the gift, the full amount of the capital gain realized on the gift is eligible for an inclusion rate of zero. However, if there is an advantage, only part of the capital gain is eligible for the inclusion rate of zero. The remainder is subject to the trust’s inclusion rate of 50%.
+
+The zero inclusion rate may also apply to a gift of a capital property included in the previous list if the gift is made to a qualified donee by a GRE (or by a former GRE). For such gifts by a GRE (or former GRE), the donated property must be property that was acquired by the estate on and as a consequence of the death of the individual (or property that was substituted for such property). In such circumstances, the zero inclusion rate will apply to a capital gain realized on the deemed disposition of the property immediately before the individual’s death and reported on the individual’s final return, as well as to a capital gain realized by the estate on the transfer of the property to the qualified donee.
+
+For more information, read the section "Capital gains realized on gifts of certain capital property" in Guide P113, and see [Form T3 SCH 1A, *Capital Gains on Gifts of Certain Capital Property*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch1a.html) (Schedule 1A) and Income Tax Folio S7-F1-C1.
+
+#### Distribution of property to beneficiaries
+
+If a personal trust distributes property (other than cash) to a beneficiary (to settle in whole or in part the beneficiary's capital interest in the trust), send the CRA a statement that includes all of the following information about the distributed property:
+
+- the name, address and tax identification number (read the section [Adding a reportable entity](#add_rep_entity) for the meaning of that term) of the beneficiary or beneficiaries
+
+- a description of the property
+
+- the date the property was distributed
+
+- the FMV on the day it is distributed
+
+- the cost amount on the day it is distributed
+
+For more information about the distribution of property to a non-resident beneficiary, read the section [Capital dispositions – Rules for trusts](#P980_104363).
+
+#### Graduated rate estate elections (losses)
+
+If you are a legal representative administering the graduated rate estate (GRE) of a person who died on or after August 12, 2024, you may:
+
+- elect under subsection 164(6) to treat certain capital losses and terminal losses, arising in the first three tax years of the GRE, as losses of the deceased person for that person’s final tax year
+
+- elect under subsection 164(6.1) to carry back certain amounts relating to employee stock options, arising in the first three tax years of the of the GRE, to be deducted in computing the deceased person’s income for that person’s final tax year
+
+For deaths occurring before August 12, 2024, these elections may only be made in respect of the losses in the first tax year of the GRE.
+
+The elections do not affect the return of the deceased person for any year before the year of death.
+
+#### Due date of election and request to amend the final T1 return
+
+In addition to filing the election, you are also required to file [form T1ADJ, *T1 Adjustment Request*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1-adj.html) to request an amendment to the final T1 return of the deceased person to give effect to the election . The application of the losses to the deceased person’s final tax year cannot be processed without this corresponding request to amend the final T1 return.
+
+Both the election and request to amend the final T1 return must be filed by the later of:
+
+- the filing due date of the deceased person’s final T1 return that the legal representative is required to file or has elected to file
+
+- the filing due date for the estate’s T3 return for the tax year in which the loss occurred.
+
+When filing the T1ADJ to amend the final T1 return of the deceased person, you must clearly identify that you are making an election under [subsection 164(6)](#P944_101340) or [subsection 164(6.1)](#P952_102595).
+
+##### Subsection 164(6) election
+
+Generally, you can make this election for:
+
+- all or any portion of the capital loss (to the extent the graduated rate estate’s capital losses exceed its capital gains) resulting from the disposition of the graduated rate estate’s capital property as reported on Schedule 1
+
+    - the amount of losses available to be carried back to the final T1 individual return is the amount of losses before the inclusion rate is applied
+
+- all or any portion of the terminal loss (not exceeding the total of the graduated rate estate’s non-capital loss and farm loss before the election) resulting from the disposition of all of the depreciable property of a prescribed class of the graduated rate estate
+
+If you are making an election under subsection 164(6) for the graduated rate estate, send the CRA the following:
+
+- a Form T1-ADJ T1 Adjustment request, and
+
+- a letter indicating that you are making an election under subsection 164(6) and providing all of the following information:
+
+    - the amount of the capital loss you elect to be a capital loss of the deceased person
+
+    - the amount of the terminal loss you elect to be deductible in computing the income of the deceased person
+
+- a schedule with details of the capital loss
+
+- a schedule with the details of the terminal loss and a statement of the amounts that would have been the non-capital loss and the farm loss of the estate for its first tax year had the election not been made
+
+The graduated rate estate cannot claim a loss that you have elected to transfer to the deceased person's final T1 return. However, you have to report the dispositions of the estate property on Schedule 1. If the total is a loss, enter the amount elected under subsection 164(6) on line 20.
+
+##### Subsection 164(6.1) election
+
+This election applies to certain unexercised employee security options held by a person, at the time of death, in respect of which a benefit has been included in the person’s income under paragraph 7(1)(e) for the tax year in which the person died. Generally, where the value of those unexercised options subsequently declines and the options expired or were exercised or disposed of the deceased’s legal representative may elect to treat an amount determined under subsection 164(6.1) as a loss of the deceased from employment for the year in which the person died.
+
+If you are making an election under subsection 164(6.1) for the graduated rate estate, send the CRA the following:
+
+- a Form T1-ADJ T1 Adjustment request, and
+
+- a letter indicating that you are making an election under subsection 164(6.1) and providing all of the following information:
+
+    - the amount of the benefit included in the deceased person’s income for the tax year in which the person died
+
+    - the amount, if any, by which the value of the right immediately before it was exercised or disposed of exceeds the amount, if any, the deceased person paid to acquire the right
+
+    - the amount of the loss you elect to be a loss of the deceased taxpayer from employment in the year in which the taxpayer died
+
+Use the following calculation to determine the amount that can be carried back to the deceased person's final T1 return:
+
+**A – (B + C)**
+
+where:
+
+**A** = the deemed benefit for the option included on the deceased person's final return
+
+**B** = the amount by which the value of the option immediately before it expired, was exercised, or disposed of, is **more** than the amount the deceased person paid to acquire it
+
+**C** = the amount by which A is more than B, if a security option deduction for this option was claimed on the deceased person’s final return, multiplied by 50%
+
+If you make this election, reduce the trust's ACB of the option by A **minus** B, without considering C.
+
+### Capital dispositions – Rules for trusts
+
+#### Affiliated persons
+
+A trust is considered to be affiliated with its majority-interest beneficiary and any person who is affiliated with such a beneficiary. As a result, the rules that apply to affiliated persons may apply to a trust, and its beneficiaries, settlors, or contributors.
+
+#### Distribution to non-resident beneficiary
+
+A trust that distributes property to a non-resident beneficiary in satisfaction of all or part of the beneficiary's capital interest in the trust, is deemed to have disposed of such property for proceeds equal to the property's FMV at that time.
+
+This rule does not apply to property that meets any of the following conditions:
+
+- a share of the capital stock of a non-resident owned investment corporation
+
+- a real or immovable property situated in Canada, a Canadian resource property or a Canadian timber resource property
+
+- a capital property used in, class 14.1 (eligible capital property before January 1, 2017) in respect of or property described in the inventory of, a business carried on by the taxpayer through a permanent establishment in Canada at the particular time
+
+- an excluded right or interest of the taxpayer
+
+And the conditions in subsection 107(2) are met and subsection 107(4.1) is not applicable.
+
+#### Trust emigration
+
+A trust that ceases to be resident in Canada is deemed to have disposed of all property, including certain taxable Canadian property, for proceeds equal to the property's FMV at that time, and reacquired the property, at the same value, immediately thereafter.
+
+These rules do not apply to any of the following properties, among others:
+
+- a real or immovable property situated in Canada, a Canadian resource property, or a Canadian timber resource property
+
+- a capital property used in, Class 14.1 (eligible capital property before January 1, 2017) in respect of or property described in the inventory of, a business carried on by the taxpayer through a permanent establishment in Canada at the particular time
+
+- a pension or other similar rights or interests
+
+- a payment out of an AgriInvest Fund 2
+
+The trust or beneficiary can defer paying tax owing resulting from the deemed disposition by providing acceptable security.
+
+#### Trust emigration – information reporting
+
+A trust that ceases to be resident in Canada, and that owns property with a total FMV of more than $25,000 at that time, has to file [Form T1161, *List of Properties by an Emigrant of Canada*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1161.html), with its T3 return for that year, listing each property the trust owned at that time. For the purposes of determining whether Form T1161 is required, property **does not** include:
+
+- money that is legal tender in Canada and all deposits of such money
+
+- pension or other similar rights or interests
+
+- any item of personal-use property, with an FMV of less than $10,000 at the time the trust ceased to be a resident in Canada
+
+#### Canadian cultural property
+
+For information on dispositions of Canadian cultural property, read the section "Selling or donating certified Canadian cultural property" in [Guide T4037,*Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html), and see [*archived Interpretation Bulletin IT407R4 (consolidate*d), Dispositions of Cultural Property to Designated Canadian Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it407r4-consolid.html), [Guide P113, *Gifts and Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html), and [Income Tax Folio S7-F1-C1, Split-receipting and Deemed Fair Market Value](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-7-charities-non-profit-organizations/series/income-tax-folio-s7-f1-c1-split-receipting-deemed-fair-market-value.html).
+
+#### Proceeds of disposition
+
+This is usually the amount that the trust received or will receive for its property. In most cases, it refers to the sale price of the property. In certain situations, the proceeds of dispositions are set by rules in the Act.
+
+##### Personal trust
+
+When this kind of trust distributes property to a beneficiary, and there is a resulting disposition of all or part of the beneficiary's capital interest in the trust, the CRA generally considers the trust to have received proceeds of disposition equal to the "cost amount" of the property. The cost amount of capital property (other than a depreciable property) is its [Adjusted cost base](#P1031_110276).
+
+The cost amount of a depreciable property is calculated as follows:
+
+- If the property was the only property in the class, the cost amount is the undepreciated capital cost (UCC) of the class before the distribution
+
+- If there is more than one property in the class, the cost amount of each property is calculated as follows:
+
+Where a personal or prescribed trust distributes property to a beneficiary to settle all or part of the beneficiary's capital interest in the trust, the trust can elect under subsection 107(2.001) of the Act to**not** have the trust's proceeds of disposition equal to the cost amount of the property.
+
+A subsection 107(2.001) trust election is applicable to distributions made after October 1, 1996, when:
+
+- the trust was resident in Canada when it distributed the property
+
+- the property is taxable Canadian property
+
+- the property is property of a business carried on by the trust through a permanent establishment in Canada. This includes capital property and property described in the inventory of the business, immediately before the time of distribution
+
+To elect under subsection 107(2.001), the trust must send a letter to the CRA with its T3 return for the tax year in which the property was distributed.
+
+The letter should include all of the following information:
+
+- a declaration to elect under subsection 107(2.001)
+
+- name of the trust
+
+- trust account number
+
+- type of trust
+
+- trust's tax year-end date
+
+- residency status of the trust, (resident trust or non-resident trust)
+
+- if applicable, the date the trust became a resident of Canada in the year
+
+- if applicable, the date the trust became a non-resident of Canada in the year
+
+- name, address, and signature of the trustee making the election
+
+If you file an election, the CRA considers the trust, if resident in Canada, to have received proceeds of disposition equal to the FMV of the property at the time of distribution.
+
+Effective for distribution of property after December 20, 2002, a personal (or prescribed) trust is deemed to have disposed of property for proceeds equal to the property's FMV at the time of the distribution if both of the following conditions are met:
+
+- at a particular time before December 21, 2002, there was a qualifying disposition (within the meaning assigned by subsection 107.4(1)) of the property, or of other property for which the property is substituted, by a particular partnership or a particular corporation, as the case may be, to the trust
+
+- the beneficiary is neither the particular partnership nor the particular corporation
+
+##### Post-1971 spousal or common-law partner trust
+
+When this kind of trust, whose beneficiary spouse or common-law partner is still alive, distributes property such as capital property, resource property, or land inventory to a person who is not the beneficiary spouse or common-law partner, the CRA considers the trust to have received proceeds of disposition equal to the property's FMV.
+
+This also applies to both of the following trusts:
+
+- a **joint spousal or common-law partner trust** that distributes property to a person who is not the settlor, beneficiary spouse or common-law partner and the settlor, beneficiary spouse or common-law partner is still alive
+
+- an **alter ego trust** that distributes property to a person who is not the settlor, and the settlor is still alive
+
+##### Trust other than a personal trust
+
+When this kind of trust distributes property to a beneficiary and there is a resulting disposition of all or part of the beneficiary's capital interest in the trust, the CRA considers the trust to have received proceeds of disposition equal to the property's FMV.
+
+For more information, read chapter 2 "Completing Schedule 3" in [Guide T4037, *Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html).
+
+##### Adjusted cost base (ACB)
+
+This is usually the cost of the property plus expenses incurred to obtain it. The ACB can differ from the original cost if changes have been made to the property between the time it was acquired and the time it was sold. For more information, see [Guide T4037, *Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html), and [archived Interpretation Bulletin IT-456R, *Capital Property – Some Adjustments to Cost Base*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it456r.html), and its [Special Release (IT-456SR)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it456rsr.html).
+
+Generally effective after February 27, 2004, the cost of a capital interest in a trust that is not held by the taxpayer as capital property is deemed to be equal to the cost amount used for inventory valuation purposes less the total of all returns of capital and non-taxable capital gains payable to the taxpayer in respect of the interest, prior to the disposition. At any particular time, inventory valuation is deemed to be the FMV of the capital interest plus the sum of all returns of capital and non-taxable capital gains payable before that time.
+
+##### Beneficial interest in a trust
+
+A trust may receive a T3 slip with an amount showing in box 42. Use this amount to determine the ACB of your interest in that trust. Reduce the cost of your interest by the total of the positive amounts shown in box 42 of the T3 slips received from the trust for all tax years after 2003. Also reduce it by all amounts (other than amounts received as proceeds of disposition or as a distribution of income of the trust) received from the trust before 2004. If the amount in box 42 is in brackets, it will result in an increase in the ACB. You may want to contact the trustee of the trust to determine if there are any other adjustments required in calculating the ACB of your interest. For more information on how to account for box 42 amounts, go to [Tax treatment of mutual funds](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-12700-capital-gains/completing-schedule-3/tax-treatment-mutual-funds.html).
+
+If your ACB is reduced to an amount below zero at any time in the tax year, the CRA considers a deemed disposition to have occurred. The negative amount is deemed to be a capital gain and your ACB is reset to zero. For more information, read the section [Line 3 – Publicly traded shares, mutual fund units and other shares](#line3_publicly).
+
+##### Property acquired before 1972
+
+Before 1972, capital gains were not taxed. If the trust sold property acquired before 1972, you have to use special rules when calculating the capital gain or capital loss to remove any capital gains accrued before 1972. These rules are found on [Form T1105, *Supplementary Schedule for Dispositions of Capital Property Acquired Before 1972*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1105.html). Use this form to calculate the gain or loss from selling property the trust owned before 1972.
+
+##### Outlays and expenses
+
+These are amounts incurred to sell a capital property such as finder's fees, commissions, broker's fees, legal fees, and advertising costs. When calculating the capital gain or capital loss, you can deduct from the proceeds of disposition any outlays and expenses to the extent that they were made or incurred for the purpose of making the disposition.
+
+In the case of depreciable property sold at a loss, these outlays and expenses reduce the proceeds from the sale to be credited to the class. **Do not** claim them as deductions from the trust's income.
+
+You cannot claim outlays and expenses made or incurred in respect of deemed dispositions.
+
+#### Lines 1 and 2 – Qualified small business corporation shares (QSBCS) and qualified farm or fishing property (QFFP)
+
+Use these sections if you are filing a return for a personal trust reporting a capital gain or loss from the disposition of QSBCS or QFFP. For more information, see [Guide T4037, Capital Gains](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html).
+
+**Do not** report a loss the trust incurred in disposing of shares of, or debts owing by, a small business corporation in an arm's length transaction. For information on these types of losses, refer to [Line 19 – Allowable business investment loss (ABIL)](#P637_77619).
+
+Capital gains from the disposition of QSBCS or [QFFP](#P1061_115911) may qualify for the capital gains deduction. If the personal trust is allocating and designating the eligible capital gains to a beneficiary, fill out [Form T3SCH 3, *Eligible Taxable Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch3.html) (Schedule 3), and [Form T3SCH 4, *Cumulative Net Investment Loss*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch4.html) (Schedule 4), and refer to [How to fill out the T3 slip](#P1843_210216).
+
+A share in a small business corporation is considered to be a **QSBCS** if all of the following conditions are met:
+
+- at the time of disposition, it was a share of the capital stock of a small business corporation and was owned by the personal trust, or a partnership related to the personal trust
+
+- throughout the 24 months before the disposition, only the personal trust, or a person or a partnership related to the personal trust, owned the share
+
+- throughout that part of the 24 months immediately before the disposition, while the personal trust or person or partnership related to the personal trust owned the share, it was the share of a Canadian-controlled private corporation (CCPC), and more than 50% of the FMV of the assets of that corporation:
+
+    - was used mainly in an active business carried on primarily in Canada by the CCPC, or by a related corporation
+
+    - was certain shares or debts of connected corporations
+
+    - was a combination of the two
+
+For the purpose of a QSBCS, a person or a partnership is related to a personal trust if it meets any of the following conditions:
+
+- the person or partnership is a beneficiary of the personal trust
+
+- the personal trust is a member of the partnership
+
+- the person is a member of a partnership that is a member of another partnership and is deemed to be a member of the second partnership
+
+- when the personal trust disposes of the shares, all the beneficiaries are related to the person from whom the personal trust acquired the shares
+
+For more information, read the section "qualified small business corporation shares" in chapter 2 of [Guide T4037, *Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html).
+
+**A qualified farm or fishing property (QFFP)**of a personal trust includes any of the following property the personal trust owns:
+
+- a share of the capital stock of a family farm or fishing corporation
+
+- an interest in a family farm or fishing partnership
+
+- real or immovable property, or a fishing vessel, or property included in Class 14.1 used in carrying on a farming or fishing business in Canada by either of the following:
+
+    - an individual beneficiary (who is entitled to receive directly from the trust any income or capital of the trust), or that beneficiary's spouse or common-law partner, child, or parent
+
+    - a family farm or fishing corporation, or a family farm or fishing partnership in which either an individual beneficiary, or the beneficiary's spouse or common-law partner, child, or parent own a share in the corporation or an interest in the partnership
+
+In addition, certain conditions must be met for property to be considered to have been used in the course of carrying on a farming or fishing business in Canada. For more information, read chapter 6 “Capital gains” in [Guide T4002, *Self-employed Business, Professional, Commission, Farming, and Fishing Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002.html), and go to [Eligible capital expenditures](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/report-business-income-expenses/eligible-capital-expenditures.html).
+
+#### Line 3 – Publicly traded shares, mutual fund units, and other shares
+
+Use this section to report a capital gain or loss when the trust sells mutual fund units, shares, or securities that are not described in any other section of Schedule 1.
+
+If you are deemed to have a capital gain as a result of a negative ACB, use this line to report the deemed gain. Complete the first two columns with the number of shares and the name of the fund or corporation. Enter the ACB in brackets in column 3 and the capital gain in column 5.
+
+#### Line 4 – Bonds, debentures, promissory notes, crypto assets, and other similar properties
+
+Use this section to report capital gains or losses when the trust sells these types of properties. The trust may receive [Form T5008, *Statement of Securities Transactions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5008.html), or an account statement, showing details of the sale.
+
+Also use this section to report capital gains or losses when the trust sells options. For information on disposing of options to sell or buy shares, see [archived Interpretation Bulletin IT-96R6, *Options Granted by Corporations to Acquire Shares, Bonds, or Debentures and by Trusts to Acquire Trust Units*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it96r6.html), and [archived Interpretation Bulletin IT-479R, *Transactions in Securities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it479r.html), and its [Special Release (IT-479RSR)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it479rsr.html).
+
+#### Line 5 – Real estate, depreciable property, and other properties
+
+Use this section if the trust sold real estate or depreciable property.
+
+The trust cannot have a capital loss on the disposition of depreciable property. However, it can have a terminal loss under the capital cost allowance rules. For more information, read "Real estate, depreciable property and other properties" in [Guide T4037, *Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html).
+
+#### Line 6 – Personal-use property
+
+Use this section if the trust disposed of property used primarily for the personal use or enjoyment of a beneficiary under the trust, or any person related to the beneficiary. Personal-use property includes personal residences, cottages, automobiles, and other personal and household effects. For more information, read the section [Flipped property](#flippedprop).
+
+When you dispose of personal-use property, use both of the following rules to calculate the capital gain or loss:
+
+- if the ACB of the property is less than $1,000, the ACB is considered to be $1,000
+
+- if the proceeds of disposition of the property are less than $1,000, the proceeds are considered to be $1,000
+
+If the trust disposed of personal-use property that has an ACB or proceeds of disposition of more than $1,000, there may be a capital gain or loss. Report the capital gain on Schedule 1. If there is a capital loss, you usually cannot deduct the loss in the year. For more information, see "Personal-use property" in [Guide T4037, *Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html).
+
+Calculate the capital gain or loss using the actual ACB and proceeds of disposition if the trust, or a person with whom the trust does not deal at arm's length, meets all of the following conditions:
+
+- personal-use property, including listed personal property (LPP), was acquired after February 27, 2000,
+
+- circumstances suggest that acquisition of the property relates to an arrangement, plan, or scheme promoted by another person or partnership
+
+- the property will be donated to a qualified donee
+
+#### Principal residence
+
+If a personal trust acquires a housing unit and satisfies the conditions to be a principal residence, a portion (or all) of the capital gain on the disposition or deemed disposition of that principal residence may be exempt from tax. To be a principal residence, the housing unit has to qualify and be designated for each year in prescribed form by the trust as its principal residence. If the housing unit is a flipped property, the housing unit is not eligible to be a principal residence.
+
+For tax years ending on or before December 31, 2016, a residence could usually be designated if a specified beneficiary, or that beneficiary’s spouse or common-law partner, former spouse or common-law partner, or child, lived in it. A specified beneficiary is one who had a beneficial interest in the trust, and who ordinarily lived, or had a spouse or common-law partner, former spouse or common-law partner, or child, who lived in the residence.
+
+For tax years beginning after 2016, additional rules apply. The types of trusts that are eligible to designate a property as a principal residence are limited to a trust that is:
+
+- an alter ego trust, spousal or common-law partner trust, joint spousal or common-law partner trust, or certain trusts for the exclusive benefit of the settlor during the settlor’s lifetime (collectively referred to as “lifetime benefit trusts”), where the specified beneficiary of the trust for each tax year for which the trust is designating the property as its principal residence, is the settlor, spouse or common-law partner or former spouse or common-law partner of the settlor (as the case may be)
+
+- a qualified disability trust, so long as, an **electing beneficiary** of the trust for the year is:
+
+    - resident in Canada during the year
+
+    - the specified beneficiary of the trust during the year
+
+    - a spouse, common-law partner, former spouse or common-law partner or child of the settlor
+
+- a trust, a specified beneficiary of which for the year is an individual:
+
+    - who has not reached 18 years of age before the end of the year
+
+    - who is resident in Canada during the year
+
+    - one of whose parents is a settlor of the trust and either of the following conditions is met:
+
+          - neither the mother nor the father of the individual is alive at the beginning of the year
+
+          - the trust arose before the beginning of the year as a result of the death of the mother or father of the individual
+
+- a trust, a specified beneficiary of which for the year is a **qualifying individual** (refer to the definition of [qualifying individual](#qualifying_ind)) in respect of the trust under which no person other than the qualifying individual (beneficiary), may receive or otherwise obtain the use of, during the beneficiary’s lifetime, any of the income or capital of the trust. The trustees must be required to consider the needs of the beneficiary (including the comfort, care, and maintenance of the beneficiary) in determining whether to pay, or not to pay, an amount to the beneficiary.
+
+Special transitional rules apply to make sure a trust that owned the property before 2017, which no longer qualifies to designate the property as its principal residence as a result of these new requirements, may continue to benefit from the principal residence deduction for the gains accrued until December 31, 2016, where the trust meets all of the following conditions:
+
+- was otherwise eligible to claim a principal residence deduction for a tax year that begins before 2017
+
+- owned the property, jointly with another person or otherwise, at the end of 2016, and owns it continuously from January 1, 2017, until the disposition
+
+- disposed of the property after 2016
+
+A personal trust can only designate one property as a principal residence. Also, the specified beneficiary cannot designate any other property as a principal residence. Make the trust’s designation on [Form T1079, *Designation of a Property as a Principal Residence by a Personal Trust*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1079.html). You have to file this form with the trust’s T3 return for the year in which the disposition or deemed disposition occurs.
+
+When a personal trust’s principal residence is distributed to a beneficiary, the trust can elect to have a deemed disposition of the principal residence at its FMV. When you make this election on the trust’s return for the year of distribution, you may be able to claim the principal residence exemption to reduce the gain, if any, from the trust’s deemed disposition. The beneficiary will then acquire the property at its FMV.
+
+For more information, see Form T1079 and [Income Tax Folio S1-F3-C2, Principal Residence.](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-3-family-unit-issues/income-tax-folio-s1-f3-c2-principal-residence.html)
+
+#### Flipped property
+
+If a trust owned a housing unit (including a rental property) located in Canada or held a right to acquire a housing unit located in Canada for less than 365 consecutive days before the disposition, the property is generally considered to be a flipped property, unless it was already considered to be inventory of the trust. The resulting gain on the disposition of a flipped property is taxable as business income and not as a capital gain. Therefore, the trust cannot use the principal residence exemption. Very generally, exceptions to the flipped property rule may apply in certain situations where the disposition occurs due to, or in anticipation of, certain life events.
+
+If the property is a flipped property, do not report the gain on Schedule 1, but rather report the income on [Form T2125, *Statement of Business or Professional Activities*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2125.html). If the property is not a flipped property, and the trust has a capital gain or loss, use Schedule 1 to report the disposition.
+
+For more information about flipped property and the life event exceptions, read [Residential Property Flipping Rule](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/federal-government-budgets/residential-property-flipping-rule.html) or see [Guide T4037 – *Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html).
+
+#### Lines 7 to 9 – Listed personal property
+
+Use this section to report dispositions of listed personal property (LPP), including all or part of any interest in, or any right to, all of the following properties:
+
+- prints, etchings, drawings, paintings, sculptures, or other similar works of art
+
+- jewellery
+
+- rare folios, rare manuscripts, and rare books
+
+- stamps
+
+- coins
+
+Because an LPP is a type of personal-use property, the capital gain or loss on the sale of the LPP item (or set of items) is calculated in the same way as for personal-use property. For more information, read the section [Line 6 – Personal-use property](#P1078_118393).
+
+Losses on listed personal property (LPP) can be applied only against LPP gains.
+
+Claim the unused portion of an LPP loss from a previous year against a current-year LPP gain on line 8 of Schedule 1, or on line 8 of Form T1055, Summary of Deemed Dispositions (2002 and later tax years), if applicable.
+
+If the current year LPP net loss is not completely used against LPP net gains, you may apply it against a prior or a future tax year, subject to the instructions under Line 35 – Net capital losses of other years.
+
+#### Line 10 – T3 information slips – Capital gains (or losses)
+
+Use this line to report the following amounts from all T3 slips received for the tax year:
+
+- capital gains from box 21 on a T3 slip
+
+- insurance segregated fund net capital losses from box 37 of a T3 slip
+
+If the T3 slip has an amount in box 42, use the amount to calculate the ACB of the property. Follow the instructions on the back of the T3 slip. Do this calculation for every year you own the property. For more information, go to [Tax treatment of mutual funds](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-12700-capital-gains/completing-schedule-3/tax-treatment-mutual-funds.html).
+
+If a T3 slip identifies amounts for qualified small business corporation shares or qualified farm or fishing property in its footnote area, do not report these amounts on line 10. Enter them on line 1 or 2, whichever is applicable.
+
+You can view your T3 information slip online by going to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+#### Line 11 – T5, T4PS, and T5013 information slips – Capital gains (or losses)
+
+Use this line to report all of the following amounts received in the tax year:
+
+- capital gains dividends from box 18 of a T5 slip
+
+- capital gains (or losses) from box 34 of a T4PS slip
+
+- capital gains (or losses) from box 30 of a T5013 slip
+
+If a slip identifies amounts for “qualified small business corporation shares” or “qualified farm or fishing property” in its footnote, details, or other information area, do not report these amounts on line 11. Enter them on line 1 or 2, whichever is applicable.
+
+You can view your T5, and other tax information slips online by going to [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+#### Line 13 – Capital losses from a reduction in business investment loss
+
+A trust may incur a capital loss, which may also qualify as a business investment loss (BIL). A BIL may be reduced if the trust has designated taxable capital gains under subsection 104(21.2) in prior years. For more information, read the section [Reduction in business investment loss](#P644_78727).
+
+#### Line 15 – Reserves on dispositions of capital property reported on Schedule 2
+
+If the trust sold capital property, but did not receive the full payment at the time of the sale, you can claim a reasonable reserve for the unpaid amount. Generally, the minimum amount of the trust's capital gain you have to report each year is 20% of the taxable capital gain. If you claimed a reserve in 2024, you have to bring it back into the trust's income in 2025. If any of the proceeds are to be paid after the end of the year, you may be able to claim a new reserve. If you are claiming a reserve on the trust's return, you have to complete [Form T3 SCH 2, *Reserves on Dispositions of Capital Property*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch2.html) (Schedule 2). For more information about reserves, see [Guide T4037, *Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html).
+
+Where the trust includes in its income a taxable capital gain from claiming a capital gains reserve in a preceding taxation year, if the trust allocates and designates the taxable capital gain to one or more beneficiaries under the trust, the capital gain must be reported on a T3 slip issued to each of the beneficiaries. For more information, read the definitions [Allocate, allocation](#allocation_1) and [Designate, designation](#P138_11389), and read the sections [Line 921 – Taxable capital gains](#line_921) and [Box 21 – Capital gains](#box21_cap).
+
+Where the capital gains being included in a personal trust’s income result from capital gains reserves claimed in a preceding taxation year related to dispositions of QSBCS or QFFP and the trust allocates the taxable capital gains eligible for the capital gains deduction to one or more beneficiaries, the trust must designate a portion of the trust’s eligible taxable capital gains to the beneficiary for the beneficiary’s capital gains deduction. For more information, read [Line 930 – Taxable capital gains eligible for deduction](#line_930) and [Box 30 – Capital gains eligible for deduction](#box30_cap).
+
+#### Line 17 – Capital gains on gifts of certain capital property eligible for the 0% inclusion rate
+
+Enter the amount from line 4 of [Form T3 SCH 1A, *Capital Gains on Gifts of Certain Capital Property*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch1a.html) (Schedule 1A).
+
+On line 17, enter the capital gains on gifts of capital property included in lines 1 to 3 of Schedule 1A, excluding amounts reported on line 16 of [Schedule 1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch1.html).
+
+#### Line 20 – Total capital losses transferred under subsection 164(6) of the Act
+
+Enter on this line the amount of capital losses you transferred under subsection 164(6) to the deceased person's final T1 return. For more information, read the section [Graduated rate estate elections (losses)](#gre_lctns_loss).
+
+#### Line 24 – Non qualified investments by TFSA, FHSA, RRSP, RRIF, RDSP, and RESP trusts, or disposition of interest in a partnership reported under subsection 100(1.1) of the Act
+
+Use this section if the tax-free savings account (TFSA) trust, registered retirement savings plan (RRSP) trust, registered retirement income funds (RRIF) trust, registered disability savings plan (RDSP) trust, registered education savings plan (RESP), or first home savings account (FHSA) trust held non-qualified investments during the tax year.
+
+Use this section if, as part of any transactions or events, the trust disposed of an interest in a partnership and the interest in the partnership is acquired by a tax-exempt entity, non-residents, certain persons and certain partnerships; consult subsection 100(1) of the Act.
+
+#### Line 25 – Total taxable capital gains (or net capital losses)
+
+Before transferring the amount from line 25 to line 1 of the T3 return, you must first determine whether the trust is required to file Form T1055, Summary of Deemed Dispositions (2002 and later tax years) to report any income, or capital gain or loss arising from deemed dispositions.
+
+Where the trust is not required to file Form T1055, enter the positive amount from line 25 (total taxable capital gains) to line 1 of the T3 return. If the amount on line 25 is negative the trust has a net capital loss. See Note below.
+
+Where the trust is required to file Form T1055, if the amount on line 25 of Schedule 1 is positive and the trust is reporting a negative amount (allowable capital loss from deemed dispositions) on line 11 of Form T1055, transfer the line 25 amount to line 21 of Form T1055 and calculate the trust’s adjusted taxable capital gains on line 23. Enter any positive amount from line 23 (adjusted taxable capital gains) to line 1 of the T3 return. If the amount on line 23 is negative, the trust has a net capital loss. Enter “0” on line 23. See Note below.
+
+For more information, read the section [Form T3A, *Request for Loss Carry-back by a Trust*](#P845_88724).
+
+#### Form T1055, Summary of Deemed Dispositions
+
+Use Form T1055 to calculate the income, or the capital gain or loss, from deemed dispositions.
+
+**Deemed disposition**
+
+A trust is deemed to have disposed of its capital property (other than exempt property), land inventory, and Canadian and foreign resource properties on specified dates called deemed disposition days. For more information about the dates, read the section [Deemed disposition day](#deemeddispositionday).
+
+For 2016 and subsequent years, where the primary beneficiary of an alter ego trust, spousal or common-law partner trust, or the last surviving beneficiary of a joint spousal or common-law partner trust dies, there is a deemed year-end of the trust on the date of death of the beneficiary. The income that is deemed to be recognized upon the death of the beneficiary must be reported on the trust’s T3 return filed for the deemed year-end of the trust.
+
+Income of the trust which became payable to the beneficiary prior to their death is generally included in the amounts reported on a T3 slip to the beneficiary and will be included in the beneficiary’s income in their final T1 return.
+
+However, for 2016 and subsequent years, in the case of a testamentary spousal or common-law partner trust, a joint election between the trust and the deceased beneficiary’s graduated rate estate can be filed to report the income that is deemed to be recognized upon the death of the beneficiary for the year in the beneficiary’s final T1 return. This income shall be reported on the T3 slip issued to the beneficiary. For the joint election to be valid, all the following requirements must be met:
+
+- Immediately before death, the beneficiary was a resident of Canada.
+
+- The trust is a testamentary trust that is a post-1971 spousal or common-law partner trust and was created by the will of a taxpayer who died before 2017.
+
+- A copy of the joint election is filed with both the final T1 return of the beneficiary and the T3 return for the deemed year-end of the trust. To make the election, send the CRA a letter for both the final T1 return and the trust’s T3 return with all of the following information:
+
+    - the T1 and T3 account numbers
+
+    - the income amount that was allocated in the T3 slip and reported on the final T1 return filed for the deceased beneficiary
+
+    - the signatures, names, and addresses of both the trustee(s) of the trust and the executor(s) for the deceased beneficiary
+
+The due date for both the T3 return as well as any balance payable of the deemed taxation year will be 90 days after the end of the calendar year in which the deemed year-end falls. For example, should the deemed year-end fall on June 3, the return and any balance payable will be due 90 days after December 31.
+
+In addition to the properties referred to above, if a post-1971 testamentary spousal or common-law partner trust holds an AgriInvest Fund 2 that was transferred to it on the death of the settlor, report a deemed payment out of the fund on the day the beneficiary spouse or common-law partner dies.
+
+If, after a deemed disposition that was to be reported on [Form T1055](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1055.html), the trust actually disposed of the property in the same tax year, use [Schedule 1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch1.html) to report the gain or loss from the actual disposition. If the trust is a post-1971 spousal or common-law partner trust, a joint spousal or common-law partner trust, or an alter ego trust, the gain or loss should instead be reported on [Form T1055](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1055.html).
+
+If a deemed disposition occurs, the trust is considered to have done both of the following:
+
+- disposed of its capital property (including depreciable property of a prescribed class), land inventory, and Canadian and foreign resource properties at the end of the deemed disposition day, at the FMV
+
+- reacquired them immediately after, at a cost equal to the same FMV
+
+For depreciable property, the trust has to report both capital gains and recapture of capital cost allowance.
+
+Use Form T1055 to calculate:
+
+- the adjustments to line 25 of [Schedule 1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch1.html)
+
+- the amount of tax on which the trust can elect to defer payment
+
+- the amount of taxable and deemed taxable capital gains to which you can apply the trust's net capital losses of other years
+
+##### Deemed disposition day
+
+This is the day the CRA considers the trust to have disposed of its capital property, land inventory, and Canadian and foreign resource properties.
+
+Generally, deemed disposition day is one of the following:
+
+- For a spousal or common-law partner trust, the day the beneficiary spouse or common-law partner died.
+
+- For a joint spousal or common-law partner trust, the day the settlor or the beneficiary spouse or common-law partner died, whichever is later.
+
+- For an alter ego trust, the day the settlor died, unless the trust filed an election not to be considered an alter ego trust (refer to the definition of [alter ego trust](#P223_20876) in Chart 1 – Types of Trust). If the trust has filed an election, the deemed disposition date will be 21 years after the day the trust was created.
+
+- For a trust to which property was transferred by an individual (other than a trust) where the transfer did not result in a change in beneficial ownership of that property and no person (other than the individual) or partnership has any absolute or contingent right as a beneficiary under the trust, on the day the individual dies.
+
+- For other trusts, 21 years after the day the trust was created.
+
+Subsequent deemed dispositions will occur every 21 years, on the anniversary of the day established above.
+
+The following deemed disposition days will not result in another deemed disposition on the 21st anniversary of that deemed disposition day. Instead, the next deemed disposition for such trusts will occur 21 years after the day the trust was created or on the anniversary of a deemed disposition day otherwise established:
+
+- Where a trust distributes property after December 17, 1999, to a beneficiary in respect of the beneficiary's capital interest in the trust and it is reasonable to consider that the distribution was financed by a liability of the trust, and one of the reasons for incurring the liability was to avoid paying taxes because of the death of any individual, the day the property was distributed.
+
+- Where an individual has transferred property (other than real property situated in Canada, Canadian resource property, or a timber resource property, property of a business carried on by the trust through a permanent establishment in Canada including capital property, property included in Class 14.1 (eligible capital property before January 1, 2017) in respect of or, and property described in the inventory of the business, or certain pension or other similar rights or interests) after December 17, 1999, to a trust for the transferor’s spouse or common-law partner, and it is reasonable to conclude that the property was transferred knowing that the individual planned to emigrate from Canada, the day the individual ceases to be resident in Canada.
+
+##### Exemption from Form T1055 deemed dispositions
+
+When a trust is excluded from the deemed disposition rule in paragraph 104(4)(b) (for example, all of the trust’s interests had vested indefeasibly prior to the 21st anniversary after the day the trust was created), or is not reporting any deemed dispositions, a statement should be sent to the CRA outlining the reason(s) for not filing Form T1055.
+
+The following trusts are excluded from the deemed dispositions reported on Form T1055:
+
+- A specified trust (as described in [Chart 1 – Types of Trusts](#tbl_1))
+
+- A unit trust
+
+- A trust in which all interests have been permanently vested. This exception applies primarily to those commercial trusts (all trusts other than personal trusts) that do not qualify as unit trusts. This exception does not apply to any of the following:
+
+    - a post 1971 spousal or common-law partner trust
+
+    - a joint spousal or common-law partner trust or an alter ego trust
+
+    - a trust to which property was transferred by an individual (other than a trust) where the transfer did not result in a change in beneficial ownership of that property and no person (other than the individual), or partnership has any absolute or contingent right as a beneficiary under the trust
+
+    - a trust resident in Canada that has non-resident beneficiaries, if the FMV of the non-resident beneficiaries' interests in the trust is more than 20% of the total FMV of all the interests in the trust
+
+    - a trust that distributed property after December 17, 1999, to a beneficiary in respect of the beneficiary's capital interest in the trust and it is reasonable to consider that the distribution was financed by a liability of the trust, and one of the reasons for incurring the liability was to avoid paying taxes because of the death of any individual
+
+    - a trust under the terms of which, all or part of any person's interest is to be terminated with reference to a period of time otherwise than as a consequence of terms of the trust under which an interest in the trust is to be terminated as a result of a distribution to the person (or the person’s estate) of property of the trust if the FMV of the property to be distributed is proportionate with the FMV of the person’s interest immediately before the distribution
+
+| Options | Post-1971 spousal or common-law partner trust | Pre-1972 spousal trust | Joint spousal or common-law partner and alter ego trust | Other trusts and spousal or common-law partner trusts 21 years after first deemed disposition |
+
+| --- | --- | --- | --- | --- |
+
+| Gains or losses from the deemed dispositions taxed in the trust Rules apply to spousal and common-law partner (and similar) trusts – read the section [Deemed disposition](#P1134_126664). | yes | yes | yes | yes |
+
+| Elect to defer tax (Form T2223) | yes | yes | yes | yes |
+
+| Designate capital gains (box 21 of the T3 slip) | no | yes | no | yes |
+
+| Preferred beneficiary election | no – for the deemed disposition occurring on the death of the spouse or common-law partner yes – for subsequent dispositions | no – for the date the spouse died yes – for subsequent dispositions | no | yes |
+
+#### Form T2223, Election, Under Subsection 159(6.1) of the Income Tax Act, by a Trust to Defer Payment of Income Tax
+
+The trust can elect to pay its income tax arising from the deemed dispositions reported on [Form T1055](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1055.html) in up to 10 annual instalments. Interest at the prescribed rate will apply. Use [Form T2223](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2223.html) to make this election, and send it to your tax services office no later than the day the return is due for the tax year the deemed disposition occurs.
+
+#### Transfer of trust property to another trust
+
+If one trust (Trust A) transfers capital property, land inventory, or resource property to another trust (Trust B), the deemed disposition day for Trust B becomes the earliest of the following dates:
+
+- Trust A's deemed disposition day that would have occurred if the transfer had not been made
+
+- Trust B's deemed disposition day that would have occurred if the transfer had not been made
+
+- the day of the transfer if the original transfer to Trust A occurred on a rollover basis, for example, where Trust A is one of the following:
+
+    - a spousal or common-law partner trust, and the beneficiary spouse or common-law partner is still alive at the time of the transfer
+
+    - a joint spousal or common-law partner trust, and the settlor or beneficiary spouse or common-law partner is still alive at the time of the transfer
+
+    - an alter ego trust, and the settlor is still alive at the time of the transfer
+
+The last condition will not apply when the transfer is between two trusts of the same type. For example, from one alter ego trust to another alter ego trust.
+
+### Form T3 SCH 8, Investment Income, Carrying Charges, and Gross-Up Amount of Dividends Retained by the Trust (Schedule 8)
+
+#### Lines 1 to 3 – Dividends from taxable Canadian corporations
+
+Send the CRA a statement listing the actual amount of dividends the trust received from taxable Canadian corporations. In this statement, include actual and deemed taxable dividends. **Do not** include non-taxable dividends (read the section [Lines 7 to 12 – Other investment income](#P1233_138116)), or capital gains dividends that you report on line 10 or 11 of Schedule 1. The CRA considers dividends credited to the trust's account by a financial institution to have been received by the trust, even if the trust did not receive a T3 or T5 slip.
+
+The gross-up amount of taxable dividends received from taxable Canadian corporations qualifies for the dividend tax credit. This may reduce the trust's tax payable. If the trust designated the taxable dividends to beneficiaries, the tax payable by the beneficiaries may be reduced.
+
+The type of dividends the trust receives determines which dividend tax credit rate it will apply to the gross-up amount of the dividends. For **eligible dividends** received from qualifying taxable Canadian corporations, the rate is **15.0198%**. For **dividends other than eligible dividends**, the rate is **9.0301%**.
+
+Box 23 on a T3 slip and box 10 on a T5 slip show the actual amount of dividends other than eligible dividends. Enter these amounts on line 1 of [Schedule 8](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch8.html). Box 49 on a T3 slip and box 24 on a T5 slip show the actual amount of eligible dividends. Enter these amounts on line 2 of Schedule 8.
+
+#### Lines 4 to 6 – Foreign investment income
+
+Report investment income from foreign sources in Canadian dollars. To convert currency to Canadian dollars, multiply the foreign income amount by the exchange rate in effect on the day that the trust received the income. If the amount was paid at various times throughout the year, to get the applicable rate, go to [Exchange rates](https://www.bankofcanada.ca/rates/exchange).
+
+Enter the full amount of the foreign investment income on line 6 of Schedule 8. **Do not** reduce it by the tax withheld by foreign authorities.
+
+#### Lines 7 to 12 – Other investment income
+
+Report bond interest, bank interest, mortgage interest, and other dividends (including dividends under a dividend rental arrangement). The CRA considers interest and dividends credited to the trust's account by a financial institution to have been received by the trust.
+
+Report interest on tax refunds received in the year on line 11.
+
+Do not include the following amounts:
+
+- dividends the trust received from taxable Canadian corporations reported on lines 1 and 2
+
+- capital gains dividends reported on line 10 or 11 of Schedule 1
+
+- non-taxable dividends (read the section [Non-taxable dividends received by the trust](#ntdrbt))
+
+For more information on the method of reporting interest and other investment income, go to [Federal income tax and benefit information for 2025](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-g.html), and see [archived Interpretation Bulletin IT-396R, *Interest Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it396r.html).
+
+##### Non-taxable dividends received by the trust
+
+If the trust received a non-taxable dividend, do not include it in the trust's income. An example of a non-taxable dividend is a tax-free dividend that a Canadian private corporation pays from its capital dividend account.
+
+Certain non-taxable dividends that the trust received, other than dividends paid out of the capital dividend account, may reduce the ACB of the shares on which the dividends were paid. Make this adjustment when calculating a capital gain or loss if the trust later disposes of the shares.
+
+If the trust pays out non-taxable dividends to its beneficiaries, inform the beneficiaries that they should not include these dividends in income. You also have to file a statement with the return containing all of the following information:
+
+- the name of the payer corporation
+
+- the names of the beneficiaries, and the amount of non-taxable dividends that each beneficiary received
+
+#### Lines 13 to 17 – Carrying charges and interest expenses
+
+Carrying charges and interest expenses include:
+
+- interest on money borrowed to earn investment income
+
+- fees for the management or safe custody of investments
+
+- accounting fees for recording investment income
+
+- investment counsel fees
+
+A deduction of an amount paid or payable in respect of the use of a safety deposit box of a financial institution is not allowed.
+
+Do not include trustee fees paid by the trust or brokerage fees or commissions paid by the trust to buy or sell securities. If the trust paid these expenses to purchase a security, they are part of its cost. If the trust paid them to sell a security, claim them as "Outlays and expenses (from dispositions)" in column 4 of Schedule 1.
+
+You can deduct interest expenses on a life insurance policy loan if the trust used the proceeds of the loan to earn income. If the trust elects to add the interest expense to the ACB of the policy, you cannot deduct it on line 14 of the return. If the trust is claiming interest paid on a policy loan during the year, the insurer has to fill out [Form 2210, *Verification of Policy Loan Interest by the Insurer*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2210.html), no later than 90 days after the trust's tax year-end.
+
+#### Lines 18 to 32 – Calculating the gross-up amount of dividends retained or not designated by the trust
+
+Use this section to calculate the gross-up amount of actual dividends from taxable Canadian corporations included on lines 1 and 2 that the trust retained.
+
+The gross-up rate for **eligible dividends** received in the year is **38%** of the dividends received. This calculation is done on lines 18 to 24.
+
+The gross-up rate for **dividends other than eligible dividends** received in the year is **15%**. This calculation is done on lines 25 to 31.
+
+The gross-up does not apply to taxable Canadian dividends received by the trust if they are allocated to a non-resident beneficiary.
+
+If you have allocated dividends by including them in the amount on line 926 of [Form T3 SCH 9, I*ncome Allocations and Designations to Beneficiaries*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch9.html) (Schedule 9), the dividends are not designated. **Do not** include them on line 19 or line 26.
+
+Claim the carrying charges that relate to dividends on line 16 of [Schedule 8](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch8.html).
+
+#### Line 19 – Eligible dividends designated to beneficiaries
+
+Enter on line 19 the amount of net **eligible dividends**, after related expenses, that you designated to beneficiaries from line 949 of [Schedule 9](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch9.html).
+
+#### Line 21 – Eligible dividends allocated, but not designated, to non-resident beneficiaries
+
+Enter on line 21 the amount of net eligible dividends, after related expenses, included in Column 2, line 926 of [Schedule 9](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch9.html). If the dividends have been allocated to non-resident beneficiaries on line 949, **do not** include them on line 21.
+
+#### Line 24 – Gross-up amount of eligible dividends retained or not designated by the trust
+
+Multiply the amount on line 22 by 38% to calculate the amount to enter on line 24. You have to apply the gross-up rate to actual eligible dividends that have been retained in the trust, other than those allocated but not designated to non-resident beneficiaries, before you deduct the related expenses.
+
+Enter this amount in the calculation area for line 14 of [Form T3 SCH 11, *Federal Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch11.html) (Schedule 11).
+
+#### Line 26 – Dividends other than eligible dividends designated to beneficiaries
+
+Enter on line 26 the amount of net dividends other than eligible dividends, after related expenses, that you designated to beneficiaries from line 923 of [Schedule 9](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch9.html).
+
+#### Line 28 – Dividends other than eligible dividends allocated, but not designated, to non-resident beneficiaries
+
+Enter on line 28 the amount of net dividends other than eligible dividends, after related expenses, included in Column 2, line 926, Part A of [Schedule 9](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch9.html). If the dividends have been allocated to non-resident beneficiaries on line 923, **do not**include them on line 28.
+
+#### Line 31 – Gross-up amount of dividends other than eligible retained or not designated by the trust
+
+Multiply the amount on line 29 by **15%** to calculate the amount to enter on line 31. You have to apply the gross-up rate to actual dividends other than eligible dividends that have been retained in the trust, other than those allocated but not designated to non-resident beneficiaries before you deduct the related expenses.
+
+Enter this amount in the calculation area for line 15 of [Schedule 11](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch11.html).
+
+#### Line 32 – Total gross up amount of dividends retained or not designated by the trust
+
+Add the gross-up amount of both the **eligible dividends** and the **dividends other than eligible dividends** from lines 24 and 31.
+
+Enter the result on line 31 of the return and on line 23 of [Form T3 SCH 12, *Minimum Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch12.html) (Schedule), if applicable.
+
+For more information, see [archived Interpretation Bulletin IT-524, *Trusts – Flow-Through of Taxable Dividends to a Beneficiary – After 1987*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it524.html).
+
+### Form T3 SCH 9, Income Allocations and Designations to Beneficiaries (Schedule 9)
+
+Fill out this schedule if the trust is allocating income to its beneficiaries. You also have to fill out [T3 slips](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3.html) and a [T3 Summary](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sum.html) if you are allocating income to resident beneficiaries, and [NR4 slips](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr4.html) and an [NR4 Summary](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr4sum.html) if you are allocating income to non-resident beneficiaries.
+
+#### Allocations and designations
+
+Generally, you **allocate**the income to the trust's beneficiaries according to the terms of the will or the trust document. Depending on the type of income allocated, you may then **designate**all or part of the allocated amount. When you designate an amount to a beneficiary, the type of income keeps its identity. This may allow the beneficiary to take advantage of a deduction or credit that applies to that income (such as the capital gains deduction or the dividend tax credit).
+
+For more information, read the definitions [Allocate, allocation](#allocation_1) and [Designate, designation](#P138_11389).
+
+You can choose to designate the following type of income to a beneficiary:
+
+- net taxable capital gains
+
+- certain lump-sum pension income
+
+- dividends from taxable Canadian corporations
+
+- foreign business income
+
+- foreign non-business income
+
+- pension income that qualifies for the pension income amount
+
+- pension income that qualifies for acquiring an eligible annuity for a minor beneficiary
+
+- retiring allowances that qualify for a transfer to a registered pension plan (RPP) or a registered retirement savings plan (RRSP)
+
+- rental income from real estate or other property
+
+An insurance segregated fund trust has to designate all of its capital gains and losses to its beneficiaries.
+
+Use Part B of [Schedule 9](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch9.html) to report designated amounts. This includes amounts such as foreign income tax paid, a retiring allowance qualifying for transfer to an RPP and an RRSP, a Part XII.2 tax credit, and other tax credits that flow through to the beneficiary.
+
+Income allocated to a beneficiary that is not deductible should **not**be reported on Schedule 9.
+
+For more information, see the following archived interpretation bulletins:
+
+- [IT-342R, *Trusts – Income Payable to Beneficiaries*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it342r.html)
+
+- [IT-381R3, *Trusts – Capital Gains and Losses and the Flow-Through of Taxable Capital Gains to Beneficiaries*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it381r3.html)
+
+- [IT-524, *Trusts – Flow-Through of Taxable Dividends to a Beneficiary – After 1987*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it524.html)
+
+### Split Income
+
+#### Tax on split income of a minor beneficiary
+
+If a trust (other than a communal organization or a mutual fund trust as described in [Chart 1 – Types of Trusts](#tbl_1)) allocates certain types of income to a beneficiary during the beneficiary's tax year and the beneficiary had not attained the age of 17 before the tax year, the beneficiary may have to pay a special tax (the tax on split income).
+
+The tax on split income applies to all of the following:
+
+- taxable dividends allocated by the trust (other than dividends from shares of a class listed on a designated stock exchange and those of a mutual fund corporation)
+
+- shareholder benefits allocated by the trust (other than from ownership of shares of a class listed on a designated stock exchange)
+
+- for taxation years before 2018, income allocated by the trust that came from providing services or property to, or in support of, a business operated by:
+
+    - a person who is related to the beneficiary at any time in the year
+
+    - a corporation that has a specified shareholder who is related to the beneficiary at any time in the year
+
+    - a professional corporation that has a shareholder who is related to the beneficiary at any time in the year
+
+- for 2018 and later years, income allocated by the trust that is derived directly or indirectly from one or more related businesses
+
+- income allocated by the trust from the rental of property by a partnership or trust, if a person who is related to the beneficiary at any time in the year is actively engaged on a regular basis in the activity of the partnership or trust of earning that income
+
+- for 2018 and later years, a taxable capital gain, or a profit, allocated by the trust from the disposition of property the income of which would be “split income” of the beneficiary if they received it directly
+
+- deemed dividends that result from capital gains of a trust from the disposition of shares (other than shares of a class listed on a designated stock exchange or those of a mutual fund corporation) that are transferred to a person who is not at arm's length with the beneficiary
+
+The tax on split income does not apply in the following situations:
+
+- the income is from property the beneficiary inherits from either:
+
+    - a parent
+
+    - any other individual, if the beneficiary is either enrolled as a full-time student in a post-secondary educational institution during the year or qualifies for the disability tax credit for the year
+
+- the beneficiary was a non-resident of Canada at the end of the year, or in the case of a deceased beneficiary, was a non-resident of Canada immediately before death
+
+- neither of the beneficiary's parents lived in Canada at any time in the year
+
+For the 2018 and later tax years, the tax on split income will also not apply in respect of taxable capital gains from the disposition of qualified farm or fishing property or qualified small business corporation shares. This does not include taxable capital gains from the disposition of certain shares to a person that does not deal at arm's length with the beneficiary.
+
+#### Tax on split income for an adult beneficiary
+
+The tax on split income also applies to individuals over the age of 17, but only with respect to certain income derived from a related business.
+
+For more information on the application of the tax on split income to adults, including information on amounts that are excluded from an adult’s split income for a tax year, and guidance on how the CRA will administer those exclusions, go to [Income sprinkling](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/federal-government-budgets/income-sprinkling.html).
+
+#### How to report split income
+
+If the trust is allocating **split income** to a beneficiary, you have to inform the beneficiary that they may have to pay the special tax. Follow the instructions described in the sections [How to fill out Schedule 9](#Complete_Sch9) and [How to fill out the T3 slip](#P1843_210216). Attach a statement to the T3 slip showing the type and amount of the beneficiary’s share of the split income. Advise the beneficiary in writing that they must fill out [Form T1206, *Tax on Split Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1206.html).
+
+The attribution rules discussed below [Transfers and loans of property](#trnsfrs_lns_prprt), do not apply to property that is subject to split income rules.
+
+### Transfers and loans of property
+
+Special rules may apply to amounts from a property that, under certain conditions, is held by the trust or is transferred or loaned to the trust. The CRA refers to a person who has loaned or transferred property as the "transferor."
+
+A transferor, who is alive and resident in Canada, may lend or transfer property to the trust for the benefit of:
+
+- the transferor's spouse or common-law partner, or a person who has since become the transferor's spouse or common-law partner
+
+- the transferor's **related minor** (such as a child, grandchild, sister, brother, niece, or nephew under 18 years of age at the end of the year)
+
+In either case, any income or loss from that property may have to be reported on the transferor's return.
+
+The transferor does not have to report the income of the trust if the related minor turns 18 years of age before the end of the year.
+
+The transferor may also have to report taxable capital gains or allowable capital losses from the disposition of property loaned or transferred to a trust for the benefit of the transferor's spouse or common-law partner, or a person who has since become the transferor's spouse or common-law partner.
+
+The property may have been sold to the trust at its FMV, or loaned to the trust at a prescribed rate of interest, which was paid within 30 days of the tax year-end. If this is the case, any income or loss, or any taxable capital gain or allowable capital loss, from that property is generally income of the trust. For this income, issue the T3 slip to the beneficiary, not to the transferor.
+
+An individual can receive a low-interest or interest-free loan from a trust to which another individual transfers property. If the two individuals do not deal at arm's length, you will normally be required to report the income from that loaned property, or any property substituted for it on the trust's return. This is not the case if the income is attributable to another individual. This also applies to an arm's length commercial loan that the individual uses to repay the original low-interest or interest-free loan.
+
+If the trust's terms are such that the transferred property may revert to the transferor, or if the transferor keeps a certain degree of control over the property, read the section [Exceptions and limits to income allocations](#exceptions).
+
+If the income from loaned or transferred property is to be included on the transferor's return, you generally have to report it on the trust's return. Issue a T3 slip reporting the income as that of the transferor.
+
+For more information about transfers and loans of property, see [Guide T4037, *Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html), and the following archived interpretation bulletins:
+
+- [IT-286R2, *Amount Payable*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it286r2.html)
+
+- [IT-369R, *Attribution of Trust Income to Settlor*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it369r.html), and its [Special Release (IT-369RSR)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it369rsr.html)
+
+- [IT-510, *Transfers and Loans of Property Made After May 22, 1985, to a Related Minor*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it510.html)
+
+- [IT-511, *Interspousal and Certain Other Transfers and Loans of Property*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it511r.html)
+
+#### Exceptions and limits to income allocations
+
+Generally, trust income is allocated to beneficiaries, or taxed in the trust, according to the provisions of the will or trust document, with the following exceptions and limits:
+
+- A post-1971 spousal or common-law partner trust (other than one created before December 21, 1991), joint spousal or common-law partner trust, or alter ego trust cannot deduct amounts payable in a tax year to anyone except one of the following:
+
+    - for a trust that was a post-1971 spousal or common-law partner trust on December 20, 1991, or a spousal or common-law partner trust created after December 20, 1991, the beneficiary spouse or common-law partner, while the beneficiary spouse or common-law partner is alive
+
+    - for a joint spousal or common-law partner trust, the settlor or the beneficiary spouse or common-law partner while either one of them is alive
+
+    - for an alter ego trust, the settlor while the settlor is alive
+
+- A post-1971 spousal or common-law partner trust, joint spousal or common-law partner trust, or alter ego trust cannot deduct the allocation of any income realized from deemed dispositions of capital property, land inventory of the trust's business, and Canadian and foreign resource property that arose on the death of one of the following:
+
+    - for a post-1971 spousal or common-law partner trust, the beneficiary spouse or common-law partner
+
+    - for a joint spousal or common-law partner trust, the settlor or the beneficiary spouse or common-law partner, whichever is later
+
+    - for an alter ego trust, or a trust to which property was transferred by an individual (other than a trust) where the transfer did not result in a change in beneficial ownership of that property and no person (other than the individual) has any absolute or contingent right as a beneficiary under the trust, the day on which the death of the individual occurs
+
+    - for the deemed payment from an AgriInvest Fund 2, the beneficiary spouse or common-law partner
+
+- The trust cannot deduct income from payments out of an AgriInvest Fund 2 unless one of the following conditions are met:
+
+    - the trust is a testamentary spousal or common-law partner trust, and this income was received while the beneficiary spouse or common-law partner was alive
+
+    - the trust is a communal organization
+
+- Under subsection 75(2) of the Act, certain inter vivos trusts resident in Canada and which were created after 1934 may have property (or property substituted for it) that:
+
+    - may revert to the contributor
+
+    - may be distributed to beneficiaries determined by the contributor at a time after the trust was created
+
+    - may only be disposed of with the consent of, or at the direction of, the contributor while the contributor is alive or exists
+
+Certain related amounts, including taxable capital gains and allowable capital losses from that property or the substituted property, are considered to belong to the contributor during the contributor's life or existence while a resident of Canada. The trust must still report the amount on the trust's T3 return and issue a T3 slip reporting the amount as that of the contributor of the property. For more information, see [archived Interpretation Bulletin IT-369R, *Attribution of Trust Income to Settlor*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it369r.html), and its [Special Release (IT-369RSR)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it369rsr.html).
+
+The attribution rules in subsection 75(2) apply only in respect of property held by a trust that is factually resident in Canada. However, section 94 contains similar provisions that apply to deemed resident trusts. For more information, contact the [Winnipeg Tax Centre](#wnnpg_tx_cntr) at one of the numbers listed.
+
+- A trust cannot allocate capital losses and non-capital losses to beneficiaries of a trust except:
+
+    - capital losses, if it is an insurance segregated fund trust
+
+    - losses of revocable trusts and from blind trusts. Report these losses in brackets in the appropriate box on a separate T3 slip for the beneficiary. Clearly indicate the type of loss in the footnote area below box 26 on the T3 slip
+
+- The CRA considers income that was not paid or payable to a beneficiary to be [allocated](#allocation_1) to a beneficiary if they have a vested right to its income, and:
+
+    - the trust is resident in Canada throughout the year
+
+    - the beneficiary is under 21 years of age at the end of the year
+
+    - the beneficiary's right to income is vested by the end of the year, it did not become vested due to the exercise or non-exercise of a discretionary power by any person, and it is not subject to any future condition other than the condition that the beneficiary survives to an age of not more than 40 years
+
+- The amount of income that can be allocated to a beneficiary may be limited if:
+
+    - a beneficiary's share of the income of the trust is less than their capital interest in the trust
+
+    - the beneficiary is a [designated beneficiary](#P1560_177721) and the trust was not resident in Canada throughout the tax year
+
+- When a trust resident in Canada distributes property to a beneficiary and the trust realizes a capital gain, the trust can elect to treat the income as taxable in the trust. That is, the taxable capital gain will not be considered payable to the beneficiary if the trust:
+
+    - was resident in Canada when it distributed the property
+
+    - filed an election with its T3 return for the year, or a preceding tax year, in which the property was distributed
+
+The election can be made for distributions to all beneficiaries or only for distributions to non-resident beneficiaries. The trust may have filed such an election in the current year or any preceding year. If this is the case, calculate the trust's income available for allocation to a beneficiary without taking into consideration any gains realized on the distribution of property to beneficiaries covered by the election while the trust was resident in Canada.
+
+- A deemed resident trust is limited in the amounts that it can allocate to non-resident beneficiaries. For more information, contact the [Winnipeg Tax Centre](#wnnpg_tx_cntr) at one of the numbers listed.
+
+- For tax years that end after March 4, 2010, a resident contributor to a deemed resident trust may elect to include in computing their income, a portion of the income earned by the trust. Generally, this portion is equal to the amount of the resident contributor’s contribution to the trust as a percentage of all contributions made by all resident and connected contributors. The amount included in the electing contributor’s income will be deemed to be income from property from a source in Canada, unless the amount is designated by the trust under paragraph 94(16)(c).
+
+A valid election must be filed in writing, on or before the contributor’s filing due date for the first tax year for which the election is to take effect. A valid election must also include the trust’s Canadian tax account number, and proof that the contributor has notified the trust of the contributor’s intention to become an electing contributor no later than 30 days after the trust’s tax year that ends in the initial year. This is an irrevocable election. Once a resident contributor has chosen to become an electing contributor, they will continue to be an electing contributor for all subsequent tax years.
+
+The trust may deduct from its income for the tax year, an amount equal to the amount included in calculating the electing contributor's income as a result of this election. The trust must still report the amount on the trust’s T3 return and issue a T3 slip reporting the amount as that of the electing contributor of the property. For more information, contact the [Winnipeg Tax Centre](#wnnpg_tx_cntr) at one of the numbers listed.
+
+#### Income to be taxed in the trust
+
+You can choose to report income on the trust return, rather than report it in the hands of the beneficiaries, as long as the trust is:
+
+- resident in Canada throughout the year
+
+- not exempt from tax
+
+- not a specified trust (as defined in [Chart 1 – Types of Trusts](#tbl_1))
+
+This applies to income paid or payable to beneficiaries.
+
+You make this choice by indicating on line 28 of the T3 return for the year that you are making a **designation under subsection 104(13.1)**. Once you make this choice, you cannot deduct on line 29 the income designated. An example of when you might use this designation is in a year when a trust has taxable income and a non-capital loss carry forward.
+
+Once you make the choice, you have to make it for each beneficiary. It reduces a beneficiary's income from the trust by that beneficiary's proportionate share of the income reported on the trust's return. To know how to calculate the proportionate share, read the section Proportionate share formulas.
+
+You can make a similar **designation under subsection 104(13.2)** if taxable capital gains are included in the income reported on the trust's return. This will reduce the beneficiary's taxable capital gains from the trust by that beneficiary's proportionate share of taxable capital gains reported on the trust's return.
+
+An example of when you might want to make a designation under subsection 104(13.2) is when you are able to use the trust's non-capital loss or net capital loss carry forward to absorb the current-year taxable capital gain.
+
+Generally, amounts designated under subsections 104(13.1) and 104(13.2) will reduce the ACB of a beneficiary's capital interest in the trust unless the interest was acquired for no consideration and the trust is a personal trust.
+
+If you choose to designate any portion of the beneficiary's income to be reported on the trust return:
+
+- enter the amount on line 28 of the return
+
+- send the CRA a statement showing the income you are designating and the amounts you are designating for each beneficiary
+
+Designations under subsections 104(13.1) and (13.2) that allow income or capital gains to be retained and taxed in the trust are restricted after 2015 as a result of subsection 104(13.3). Subsection 104(13.3) ensures that these designations are made only to the extent that the trust has a nil taxable income for the year in which the designation is made.
+
+**Proportionate share formulas**
+
+Use the following formulas to calculate designations under subsections 104(13.1) and 104(13.2). You have to apply these formulas to each beneficiary. A trust cannot use these designations to tax one beneficiary's share in the trust and allocate another share to a beneficiary unless the trust agreement entitles one beneficiary to the trust's income and another beneficiary to the trust's capital.
+
+**Subsection 104(13.1)**
+
+**A ÷ B × C**
+
+where:
+
+**A** = beneficiary's share of trust income (calculated without reference to the Act)
+
+**B** = total of amount A for all beneficiaries
+
+**C** = trust income designated under subsection 104(13.1)
+
+**Subsection 104(13.2)**
+
+**A ÷ B × C**
+
+where:
+
+**A** = beneficiary's share of the taxable capital gains of the trust calculated under the Act
+
+**B** = total of amount A for all beneficiaries
+
+**C** = net taxable capital gains designated under subsection 104(13.2)
+
+A trusts income is $9,000 investment income of $6,000 and taxable capital gains of $3,000. Both are shared equally between the trust’s two beneficiaries, Josh and Ashley. The trust has losses from prior years to apply: a non-capital loss of $5,000 and a net capital loss , which is adjusted to $1,000 to reflect the current year’s capital gain inclusion rate. Therefore, the trustee decides to report $6,000 of income on the trust return. by designating $5,000 under subsection 104(13.1) and $1,000 of taxable capital gains under subsection 104(13.2), against which the losses are applied.
+
+Determine the amount designated under subsection 104(13.1) for Josh as follows:
+
+**A ÷ B × C**
+
+$3,000 ÷ $6,000 × $5,000 = $2,500
+
+Therefore, the amount designated for Josh is $ 2,500. Because Ashley share equally, her calculation is the same.
+
+Determine the amount designated under subsection 104(13.2) for Josh as follows:
+
+**A ÷ B × C**
+
+$1,500 ÷ $3,000 × $1,000 = $500
+
+Therefore, the amount designated for Josh is $500. Because Ashley shares equally, her calculation is the same.
+
+##### Preferred beneficiary election
+
+A trust and a preferred beneficiary can jointly elect, in the year, to include in a preferred beneficiary's income for that year, all or part of the trust's accumulating income for the year. You can deduct the elected amount from the trust's income, up to the amount of the accumulating income. The elected amount for a preferred beneficiary must not be more than the allocable amount of the trust's total accumulating income. For more information, read the definition [Preferred beneficiary](#P150_14048).
+
+The preferred beneficiary election cannot be made by the trusts listed under [Exemption from Form T1055 deemed dispositions](#P1161_131501).
+
+For the trusts listed below, you can only make the election for the following:
+
+- a spousal or common-law partner trust, in respect of the beneficiary spouse or common-law partner while the beneficiary spouse or common-law partner is alive
+
+- a joint spousal or common-law partner trust, in respect of the settlor or the beneficiary spouse or common-law partner while either of them is alive
+
+- an alter ego trust, in respect of the settlor while the settlor is still alive
+
+A trust's accumulating income for the year is generally its income for the year after deductions, but without regard to amounts allocated under preferred beneficiary elections.
+
+Accumulating income **does not** include the income from the deemed disposition of capital property, land inventory, or resource property on the death of:
+
+- the beneficiary spouse or common-law partner for a post-1971 spousal or common-law partner trust if the beneficiary spouse or common-law partner is still alive
+
+- the settlor or the beneficiary spouse or common-law partner, for a joint spousal or common-law partner trust if either of them is still alive
+
+- the settlor, for an alter ego trust, if the settlor is still alive
+
+Accumulating income also **does not** include income arising from the deemed disposition of property to a beneficiary that results in a disposition of all or part of the beneficiary's capital interest in the trust, when the property is distributed to a beneficiary other than all of the following:
+
+- the beneficiary spouse or common-law partner for a post-1971 spousal or common-law partner trust if the beneficiary spouse or common-law partner is alive
+
+- the settlor or the beneficiary spouse or common-law partner, for a joint spousal or common-law partner trust if either of them is alive
+
+- the settlor, for an alter ego trust, if the settlor is alive
+
+Accumulating income of a trust **does not** include amounts paid or deemed to have been paid from an AgriInvest Fund 2. However, a preferred beneficiary election can include these amounts paid to a testamentary spousal or common-law partner trust while the beneficiary spouse or common-law partner was still alive.
+
+Accumulating income is calculated as if you have deducted the maximum amount of income that became payable in the year to the beneficiaries.
+
+You can make a preferred beneficiary election for a tax year by filing the following:
+
+- a statement making the election for the year, stating the part of the accumulating income on which you are making the election, and signed by both the preferred beneficiary (or guardian) and the trustee with the authority to make the election
+
+- a statement signed by the trustee showing the calculation of the amount of the beneficiary's share of the accumulating income, and indicating the beneficiary's SIN, their relationship to the settlor of the trust, and whether one of the following conditions is met:
+
+    - the beneficiary is claiming a disability amount
+
+    - a supporting individual is claiming a disability amount for that beneficiary (if **yes**, provide the name, address, and SIN of the supporting individual)
+
+    - the beneficiary is 18 years of age or older, and in the beneficiary's tax year that ends in the trust's tax year, another individual can claim an amount for an infirm dependant aged 18 or older for that beneficiary, or could claim the amount if the beneficiary's income is calculated before including the income from the preferred beneficiary election. If this is the case, provide a statement from the medical practitioner confirming the beneficiary's impairment in the first year the claim is made
+
+File the election with the return or separately, no later than 90 days after the end of the trust's tax year for which the election was made. For a preferred beneficiary election to be valid, you have to file it on time. If you file the election late, the CRA will tax the accumulating income in the trust. For more information regarding late-filed or amended elections, read the section [Elections](#P461_57378).
+
+If you are making a preferred beneficiary election, see the [archived Interpretation Bulletin IT-394R2, *Preferred Beneficiary Election*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it394r2.html).
+
+##### Preferred beneficiary election and the QDT election
+
+The introduction of the QDT provisions has not restricted the availability of the preferred beneficiary election, nor have there been any changes to the method in which a preferred beneficiary election is made. Many of the requisite conditions for making a preferred beneficiary election differ from those required for a trust to be a QDT. Accordingly, where the respective conditions of each election are met, the trust has the possibility to choose whether to make a preferred beneficiary election or a QDT election. It is also possible for a trust which elects to be a QDT to also make a preferred beneficiary election (jointly with the beneficiary) in a given tax year.
+
+#### How to fill out Schedule 9
+
+Report income allocation as follows:
+
+- Column 1, income paid or payable to **resident**beneficiaries
+
+- Column 2, income paid or payable to **non-resident** beneficiaries
+
+- Column 3, income allocated by a **preferred beneficiary** **election**
+
+For more information about each column, read the appropriate column heading in the following sections. Any amounts allocated to a beneficiary on lines 921 to 926 and on line 949 are generally deducted from the trust's income.
+
+Before allocating income to the beneficiaries, you must first take into consideration the trust's expenses. If the trust claimed expenses on line 21 of the T3 return, deduct them from the specific source of income to which the expense relates. If the expense relates to more than one source of income, you must divide it between the applicable sources of income. The trust can then allocate the remaining income to the beneficiaries.
+
+#### Column 1 – Resident
+
+Include in this column, allocations and designations of income paid or payable to resident beneficiaries. If the income is allocated, but no amounts are designated, enter the total amount on line 926. If you are designating the income, enter the amounts on the appropriate lines. In addition, use Part B for other amounts you are designating to the beneficiaries.
+
+For more information, refer to:
+
+- [Allocations and designations](#P1282_144623)
+
+- [IT286R2 ARCHIVED - Trusts – Amount Payable](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it286r2.html)
+
+- [IT342R ARCHIVED - Trusts – Income Payable to Beneficiaries](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it342r.html)
+
+#### Column 2 – Non-resident
+
+Indicate in this column allocations and designations of income paid or payable to non-resident beneficiaries. If the income is allocated, but no amounts are designated, enter the total amount on line 926. Report the total of the amounts in column 2 as estate or trust income on an NR4 slip, not on a T3 slip.
+
+Most amounts paid or payable to non-resident beneficiaries are subject to a Part XIII withholding tax. For more information, read the section [Part B – Calculating Part XIII non-resident withholding tax – Lines 15 to 27](#P1607_182178). Enter the total of column 2 on line 15 of Form T3 SCH 10, *Part XII.2 Tax, Part XIII Non Resident Withholding Tax, and Part II.2 Tax on Repurchases of Equity* (Schedule 10).
+
+If you allocate certain income to non-resident beneficiaries, the trust may also be subject to Part XII.2 tax. When allocating such income, include the full amount before deducting Part XII.2 tax. For more information, read the section [Form T3 SCH 10, *Part XII.2 Tax, Part XIII Non-Resident Withholding Tax, and Part II.2 Tax on Repurchases of Equity*](#P1535_175122) (Schedule 10).
+
+#### Column 3 – By preferred beneficiary election
+
+A trust and a preferred beneficiary can jointly elect to have the trust's accumulating income taxed in the hands of the preferred beneficiary. Use column 3 to allocate and designate the elected accumulating income. Fill out a separate T3 slip for this income.
+
+You can designate all of the following types of income under a preferred beneficiary election:
+
+- taxable capital gains (line 921)
+
+- actual amount of dividends from taxable Canadian corporations, both eligible dividends (line 949) and dividends other than eligible dividends (line 923)
+
+- foreign business income (line 924)
+
+- foreign non-business income (line 925)
+
+You have to make the designations on the trust's return for the year in which you include the relevant amounts in the trust's income. If the income is allocated but no amounts are designated, enter the total amount on line 926. If you are designating the income, enter the amounts on the appropriate lines. In addition, use Part B for other amounts you are designating to the beneficiaries.
+
+#### Part A – Total income allocations and designations to beneficiaries Lines 921 to 928 and 949
+
+Answer all seven questions, and send the CRA any necessary statements. For information about income attributed to the transferor, read the section [Transfers and loans of property](#trnsfrs_lns_prprt).
+
+#### Line 921 – Taxable capital gains
+
+You can allocate and designate all or part of a Canadian resident trust's net taxable capital gains to a beneficiary. If you designate this amount, the CRA considers it to be the beneficiary's taxable capital gain.
+
+A trust's **net taxable capital gain** is the amount by which the total of the trust's taxable capital gains for a tax year (which includes, amounts that are deemed to be taxable capital gains to the trust for the year), is **more**than the total of:
+
+- the trust's allowable capital losses for the tax year (except, allowable business investment losses)
+
+- net capital losses of other years deducted in calculating the trust's taxable income for the tax year
+
+When calculating the maximum net taxable capital gains available for designation in the current year, you have to reduce the net taxable capital gains (as calculated above) by both of the following:
+
+- Any expenses the trust incurred to earn income included on line 1 of the return.
+
+- Amounts designated under subsection 104(13.2) to be taxed in the trust, other than amounts for which a deduction has been claimed on line 35 of the return. For more information, read the section [Income to be taxed in the trust](#P1337_152332).
+
+You must enter the following amounts on line 921:
+
+- capital gains distributions designated as payable by a mutual fund trust to a non-resident beneficiary
+
+- net taxable capital gains allocated by a trust governed by an employee benefit plan
+
+If you fill out line 921 and you are allocating capital gains eligible for the capital gains deduction, you also have to complete line 930. The only taxable capital gains eligible for this deduction are from the disposition of qualified farm or fishing property, and qualified small business corporation shares.
+
+#### Line 922 – Lump-sum pension income
+
+In a tax year throughout which a testamentary trust was a resident of Canada, it can designate to a beneficiary all of the following:
+
+- certain pension income
+
+- superannuation benefits
+
+- amounts received from a deferred profit sharing plan
+
+Fill out [Form T3 SCH 7,*Pension Income Allocations and Designations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch7.html) (Schedule 7). Enter on line 922, the amounts from Schedule 7 that qualify for a transfer to a registered pension plan or a registered retirement savings plan.
+
+#### Line 923 – Actual amount of dividends other than eligible dividends
+
+Enter on line 923 the trust's actual amount of dividends other than eligible dividends designated to beneficiaries of the trust in the year.
+
+#### Line 924 – Foreign business income
+
+Enter on line 924 the trust's foreign business income designated to the beneficiaries in the year.
+
+#### Line 925 – Foreign non-business income
+
+Enter all foreign non-business income designated to beneficiaries. This may include income from a foreign pension or interest from foreign sources.
+
+#### Line 926 – Other income
+
+Enter on line 926 all income allocated to beneficiaries that is not shown on lines 921 to 925 or line 949. This includes business, farming, fishing, or rental income, interest, or pension income (other than from foreign sources and lump-sum pension income included on line 922), death benefits, retiring allowances, and dividends under a dividend rental arrangement. Include the amount of any taxable benefits to resident beneficiaries under the trust, unless the amounts are included on lines 921, 923 or 949.
+
+The total of the taxable benefits included on lines 921, 923, 926 and 949 should be the same as the total taxable benefits reported on line 25 of the T3 return.
+
+A graduated rate estate may be able to designate, in a year throughout which it was a resident in Canada, a lump-sum payment out of a registered pension plan to a beneficiary to acquire an annuity. Include these amounts from [Schedule 7](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch7.html) on line 926 and show on line 946 the amount that qualifies for a transfer.
+
+#### Line 949 – Actual amount of eligible dividends
+
+Enter on line 949 the actual amount of net eligible dividends, after related expenses, designated to beneficiaries in the year.
+
+#### Line 928 – Totals
+
+The total of lines 921 to 926, plus line 949 is the income allocated to the beneficiaries. The amount cannot be more than "Income **before**allocations" on line 28 of the return.
+
+#### Part B – Summary of other amounts designated to beneficiaries Lines 930 to 951
+
+Fill out this area only when there are designations, such as dividends from taxable Canadian corporations, foreign taxes paid for credit purposes, and pension income or retiring allowances qualifying for a transfer.
+
+#### Line 930 – Taxable capital gains eligible for deduction
+
+A personal trust that makes a designation on line 921 and has eligible taxable capital gains, also has to designate a portion of the trust's eligible taxable capital gains to the beneficiary for the beneficiary's capital gains deduction.
+
+Calculate the trust’s eligible taxable capital gains on [T3 SCH 3, Eligible Taxable Capital Gains](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch3.html) (Schedule 3). Enter on line 930, the **lesser**of the following amounts:
+
+- the amount on line 921
+
+- the amount on line 30 of Schedule 3
+
+When the trust has realized in its tax year both taxable capital gains which are eligible for determining a beneficiary’s capital gains deduction and taxable capital gains that are not eligible; very generally, the rules ensure that a proportionate share of each of the eligible and the non-eligible taxable capital gains is allocated and designated to each beneficiary. For more information, read the section [Box 30 – Capital gains eligible for deduction](#box30_cap).
+
+For more information on the trust’s taxable capital gains eligible for deduction in the current tax year that relate to a capital gain reserve claimed in the trust’s prior tax year, read the sections [Line 15 – Reserves on dispositions of capital property reported on Schedule 2](#line15_cap) and [Box 30 – Capital gains eligible for deduction](#box30_cap).
+
+If an amount at line 930 relates to a current year disposition, complete lines 930-1B and/or line 930-2B. If the amount relates to a capital gain reserve, leave these lines blank.
+
+#### Line 930-1B – Box 30 Dispositions of qualified farm and fishing property (QFFP)
+
+Enter on line 930-1B the amount from line 930 that relates to current year dispositions of QFFP. If the amount from line 930 relates to a capital gains reserve, do not include it at line 930-1B.
+
+#### Line 930-2B – Box 30 Dispositions of qualified small business corporation shares (QSBCS)
+
+Enter on line 930-2B the amount from line 930 that relates to current year disposition of QSBCS. If the amount from line 930 relates to a capital gains reserve, do not include it at line 930-2B.
+
+#### Line 931 – Qualifying pension income
+
+Enter those amounts from [Schedule 7](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch7.html) that qualify for the pension income amount. You can make this designation only if the beneficiary was the spouse or common-law partner of the deceased, and if the trust received the benefits of a life annuity from a superannuation or pension plan.
+
+#### Line 932 – Taxable amount of dividends other than eligible dividends
+
+If you are designating dividends other than eligible dividends to a beneficiary who is an individual or a trust (other than a registered charity), enter on line 932 the result of the amount from line 923 multiplied by 1.15.
+
+#### Line 933 – Foreign business income tax paid
+
+Enter on line 933 the trust's foreign business income tax paid and designated to the beneficiaries of the trust in the year.
+
+#### Line 934 – Foreign non-business income tax paid
+
+If you are designating a foreign tax credit to a beneficiary, you have to submit an official receipt or information slip from the foreign country. This is necessary to support the claim that the trust paid foreign non-business income tax, or that it was withheld from foreign non-business income the trust earned.
+
+The portion of foreign taxes you designate to a beneficiary has to be in proportion to the foreign income you designate to that beneficiary. You have to convert any foreign taxes paid in foreign currency to Canadian funds.
+
+For more information, see [Income Tax Folio S5-F2-C1, *Foreign Tax Credit*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/folio-2-foreign-tax-credits-deductions/income-tax-folio-s5-f2-c1-foreign-tax-credit.html), [archived Interpretation Bulletin IT-201R2, *Foreign Tax Credit – Trust and Beneficiaries*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it201r2.html), and [Form T3 SCH 11, *Federal Income Tax*](#P1700_194628) (Schedule 11), and read the section [Line 24 – Federal foreign tax credit](#P1700_194628).
+
+#### Line 935 – Eligible death benefits
+
+A graduated rate estate (GRE) may receive a payment as a result of the employee's death to recognize the employee's service in an office or employment. This payment usually comes from the deceased person's employer or a trust fund established by the employer. This payment may qualify as a **death benefit** and the trust may be able to exclude up to $10,000 of the amount from income.
+
+If the GRE allocates the total death benefit to a single beneficiary according to the provisions of the will, the beneficiary may be able to exclude up to $10,000 of the payment from income. Enter on line 935, the amount from line 926 eligible for this exclusion.
+
+Where the GRE allocates the total death benefit to more than one beneficiary, apportion the amount eligible for this exclusion among those beneficiaries. The total eligible amount apportioned cannot exceed $10,000. The beneficiaries can use this information to calculate the taxable portion that they have to report on their T1 returns.
+
+If you exclude the eligible death benefit from the trust's income, only the taxable portion flows out to the beneficiary. Report only the taxable portion of the death benefit on line 12 of the T3 return. For more information, read the section [Line 12 – Other income](#P610_73565).
+
+#### Line 937 – Insurance segregated fund net capital losses
+
+Enter on line 937 the designated portion of net capital losses from the disposition of property by an insurance segregated fund.
+
+#### Line 938 – Part XII.2 tax credit
+
+Enter on line 938 the amount calculated for line 14 of Schedule 10. Generally, you can designate the Part XII.2 tax credit only to those resident beneficiaries to whom you allocated income in column 1 of line 928 of Schedule 9.
+
+#### Line 939 – Dividend tax credit for dividends other than eligible dividends
+
+Enter the result of the amount from line 932 multiplied by 9.0301%.
+
+#### Lines 940 and 941 – Investment tax credit (ITC)
+
+Only graduated rate estates and communal organizations that are deemed to be inter vivos trusts can designate an ITC to their beneficiaries.
+
+Fill out Part A of [Form 2038(IND), *Investment Tax Credit (Individuals)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2038-ind.html), to calculate the amount of the investment cost or expenditure and the ITC available. You will need the eligible amounts the trust invested to acquire property and the eligible expenditures for this part of the form.
+
+You have to reduce the trust's ITC by any amount allocated to beneficiaries.
+
+Enter on line 940 the beneficiaries' share of the trust's investment cost or expenditures. You need this amount to determine the amount of the ITC you can designate to each beneficiary.
+
+Enter on line 941, the amount of the trust's ITC from [Form T2038(IND](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2038-ind.html)) that you designated to a beneficiary and did not deduct on line 28 of the trust's Schedule 11.
+
+#### Line 942 – Amount resulting in cost base adjustment
+
+Enter on line 942 the amount by which the cost base of a beneficiary's interest in the trust may be reduced or increased.
+
+If you issued new units to a beneficiary in satisfaction of a distribution of income, **do not** include that amount here. Instead, advise the beneficiary that you have issued these units, as well as the number of units and their value.
+
+#### Line 945 – Other credits
+
+##### Research and development tax credit
+
+This credit is available to a trust resident in Newfoundland and Labrador, or Yukon. Enter the amount of this credit that you designated to a beneficiary and did not deduct on page 4 of the return.
+
+#### Line 946 – Pension income qualifying for an eligible annuity for a minor
+
+Enter on line 946 those amounts from Column D of [Form T3 SCH 7, *Pension Income Allocations and Designations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch7.html) (Schedule 7), that qualify for an eligible annuity for a minor.
+
+#### Line 947 – Retiring allowance qualifying for transfer to an RPP or an RRSP
+
+Enter on line 947 any retiring allowance eligible for a transfer to a registered pension plan (RPP) or a registered retirement savings plan (RRSP).
+
+#### Line 948 – Eligible amount of charitable donations
+
+Enter on line 948 charitable donations designated to the beneficiaries of a communal organization.
+
+#### Line 950 – Taxable amount of eligible dividends
+
+If you are designating eligible dividends to a beneficiary who is an individual or a trust (other than a registered charity), enter on line 950 the result of the amount from line 949 multiplied by 1.38.
+
+#### Line 951 – Dividend tax credit for eligible dividends
+
+Enter on line 951 the result of the amount from line 950 multiplied by 15.0198%.
+
+### Form T3SCH 10 – Part XII.2 Tax, Part XIII Non Resident Withholding Tax, and Part II.2 Tax on Repurchases of Equity (Schedule 10)
+
+Fill out [Schedule 10](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch10.html) if the trust is allocating income to designated beneficiaries where the trust has specified income (read the next section for details). The total of Part XII.2 and Part XIII tax is approximately equal to the Part I tax, plus provincial or territorial taxes, which would apply to the income if the beneficiaries were resident in Canada.
+
+#### Tax tip
+
+If the trust is a non-resident trust with investments in Canadian mutual funds, it may have paid Part XIII.2 tax during the tax year. The trust may be eligible to claim a refund of this tax. The trust may also qualify if it realized a Canadian mutual fund loss during the tax year. If this applies to you, see [Form T1262, *Part XIII.2 Tax Return for Non-Resident's Investments in Canadian Mutual Funds*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1262.html).
+
+#### Part A – Calculating Part XII.2 tax and the refundable Part XII.2 tax credit
+
+##### Lines 1 to 14
+
+Pay any Part XII.2 tax no later than 90 days after the trust's tax year-end.
+
+Part XII.2 tax **applies**when a trust meets all of the following conditions:
+
+- has specified income as described below
+
+- has a designated beneficiary as described below
+
+- allocates or designates any of its income
+
+Part XII.2 tax **does not** apply to a trust that was one of the following throughout the year:
+
+- a graduated rate estate
+
+- a mutual fund trust
+
+- a specified trust (as defined in [Chart 1 – Types of Trusts](#tbl_1)), unless the trust is a related segregated fund trust, a retirement compensation arrangement trust, a trust whose direct beneficiaries are specified trusts, a trust governed by an eligible funeral arrangement, a cemetery care trust and, in certain circumstances, an amateur athlete trust
+
+- a trust that was exempt from Part I tax under subsection 149(1) of the Act
+
+- a non-resident trust
+
+- a deemed resident trust
+
+##### Specified income
+
+Specified income of a trust generally means its taxable capital gains or allowable capital losses from the disposition of taxable Canadian property, certain property transferred to a trust in contemplation of a person beneficially interested in the trust ceasing to be resident in Canada, **and**the **total**income (or loss) from all of the following sources:
+
+- businesses carried on in Canada
+
+- real or immovable properties located in Canada, such as land or buildings
+
+- Canadian timber resource properties
+
+- Canadian resource properties the trust acquired after 1971
+
+Although the term **designated income** is used in Part XII.2, the CRA uses specified income in this guide and on Schedule 10 to avoid confusion with the term “designated income” used in other parts of this guide.
+
+##### Designated beneficiary
+
+Subject to all of the exclusions listed below, for the purpose of Part XII.2 tax, a designated beneficiary under a particular trust at any time, includes:
+
+- a non-resident person
+
+- a person who is exempt from Part I tax on all or part of their taxable income under subsection 149(1), where that person acquired an interest as a beneficiary under the particular trust after October 1, 1987, directly or indirectly from a beneficiary under the trust. For example, there are two exceptions to this rule. A person exempt from Part I tax is not a designated beneficiary if:
+
+    - the interest has been owned continuously since the later of October 1, 1987, and the date on which the trust was created, by persons who were exempt from Part I tax on all of their taxable income under subsection 149(1)
+
+    - the person is a trust governed by an RRSP or RRIF that acquired the interest directly or indirectly from an individual, the spouse or common-law partner, or former spouse or common-law partner of the individual who was, a beneficiary under the trust governed by the plan or fund
+
+- another trust if any of its beneficiaries is either a trust or a designated beneficiary
+
+- a partnership if any of its members is either a partnership or would be a designated beneficiary if that member held an interest in a trust
+
+A designated beneficiary does not include any of the following:
+
+- a mutual fund trust resident in Canada
+
+- a graduated rate estate
+
+- an RRSP or RRIF that acquired its interest directly or indirectly from its beneficiary, the beneficiary’s spouse or common-law partner, or former spouse or common-law partner
+
+- an entity that is exempt from Part I tax if its interest in the trust has been owned continuously since October 1, 1987, or the date on which the trust was created, by one or more entities that are exempt from Part I tax under subsection 149(1)
+
+- a partnership, which would otherwise be a designated beneficiary, where no members of the partnership are designated beneficiaries and the partnership’s interest in the trust has never been held by anyone other than the partnership or an entity that is exempt from Part I tax under subsection 149(1)
+
+- a trust, the beneficiaries of which are all either trusts that have no designated beneficiaries, or persons who are not designated beneficiaries
+
+A designated beneficiary is usually not entitled to the refundable tax credit for Part XII.2 tax that the trust paid. This means that you will generally not fill out box 38 on the T3 slip for a designated beneficiary who is a Canadian resident. Also, before you calculate Part XIII non-resident withholding tax, you have to reduce the income payable to a non-resident beneficiary by the non-resident’s share of the Part XII.2 tax.
+
+For more information, read [Line 13 – Adjustment for Part XIII tax purposes](#P1586_181263).
+
+##### Eligible beneficiary
+
+This term is used for a beneficiary who is not a [designated beneficiary](#P1560_177721) as described above. An eligible beneficiary is generally a Canadian resident who is entitled to a refundable Part XII.2 tax credit in proportion to the share of allocated or designated trust income. You have to include an amount equal to the Part XII.2 tax credit in the income allocated to the beneficiary. In effect, this credit replaces the income that the beneficiary would have received if the trust did not have to pay Part XII.2 tax.
+
+#### Line 6 – Total specified income
+
+This is the total of lines 1 to 5, which represents the specified income of the trust. Part XII.2 tax does not apply if the amount on line 6 is negative.
+
+#### Lines 7, 8, 10, and 11 – Adjusted amounts allocated and designated to beneficiaries
+
+Enter on line 7, the amount from column 1 of line 928, Schedule 9. Enter on line 8, the amount from column 2 of line 928, Schedule 9. Enter on line 10, the taxable benefits you reported on line 25 of the return.
+
+Line 11 represents both of the following amounts:
+
+- the deduction from trust income for the portion of the trust's income you allocated to resident and non-resident beneficiaries, to be included in their income
+
+- the deduction from trust income for the Part XII.2 tax the trust paid for the year
+
+Withhold the Part XII.2 tax from income you distribute to the beneficiaries.
+
+#### Line 12 – Part XII.2 tax payable
+
+Multiply by 40%, the lesser of the amount on line 6 and the amount on line 11. Enter the result on line 49 of the return.
+
+#### Line 13 – Adjustment for Part XIII tax purposes
+
+Calculate the amount of Part XII.2 tax that you attribute to non-resident beneficiaries. Transfer the amount from line 13 to line 21 to reduce the income subject to Part XIII tax.
+
+#### Line 14 – Part XII.2 refundable tax credit for eligible beneficiaries
+
+This is the amount of Part XII.2 tax attributable to eligible beneficiaries. It is also the amount eligible for the Part XII.2 refundable tax credit for these beneficiaries.
+
+If there is more than one eligible beneficiary, use the formula below to determine the amount of refundable tax credit to report in box 38 of the T3 slip for each eligible beneficiary:
+
+**A × B ÷ C**
+
+where:
+
+**A** = Part XII.2 tax paid by the trust (line 12)
+
+**B** = each eligible beneficiary's share of the amount from line 11 (the trust income you allocated to the eligible beneficiaries)
+
+**C** = adjusted allocations or designations for the year (line 11)
+
+#### Part B – Calculating Part XIII non-resident withholding tax – Lines 15 to 27
+
+Fill out this part if the trust allocated income to non-resident beneficiaries.
+
+#### Line 18 – Taxable capital gains distributions designated as payable by a mutual fund trust
+
+After March 22, 2004, a mutual fund trust that designates more than 5% of its capital gains distributions to non-resident beneficiaries (including any partnership that is not a Canadian partnership) must do an additional calculation for line 18. If this applies to the trust, fill out lines 28 to 47 at the bottom of Part B. Enter the amount from line 43 of Schedule 10 on line 18.
+
+#### Line 20 – Amounts not subject to Part XIII tax: Other
+
+One example of an amount to enter on this line is an amount you paid or credited to a beneficiary resident in the United States, when the amount is derived from income sources outside Canada, and it is not subject to withholding tax under the Canada – U.S. Tax Convention.
+
+#### Line 21 – Part XII.2 tax amount
+
+On this line, enter the amount from line 13, which is the amount of Part XII.2 tax you attribute to designated beneficiaries.
+
+#### Line 23 – Taxable Canadian property gains distributions for non-resident beneficiaries
+
+A mutual fund trust that designates more than 5% of its capital gains distributions to non-resident beneficiaries (including any partnership that is not a Canadian partnership) must include a portion of the distributions when calculating Part XIII tax. Enter the amount calculated at line 42 of [Schedule 10](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch10.html) on line 23.
+
+#### Lines 25 to 27 – Non-resident tax payable
+
+Fill out the rest of this schedule by referring to the NR4 return for the trust.
+
+Every non-resident person has to pay Canadian income tax of 25% under Part XIII unless a tax treaty or convention provides a lower rate.
+
+Part XIII tax is paid on amounts that a Canadian trust paid or credited, or is considered to have paid or credited, to non-residents. You have to withhold and remit tax on these amounts. This tax has to be received by the CRA or a Canadian financial institution on or before the 15th day of the month after the month during which the tax was withheld.
+
+Calculate the amount of non-resident tax payable and any balance due by following the steps in Part B of [Schedule 10](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch10.html). Send any balance due to the CRA, with Form NR76, Non-Resident Tax – Statement of Account, which is a combined remittance statement and receipt.
+
+If you are remitting Part XIII tax for the first time, send the CRA a statement with the trust's name and address, the type of payment (Part XIII tax), and the month during which you withheld the tax. When the payment is received, the CRA will issue Form NR76. You can use the bottom portion for remitting future payments.
+
+You also have to fill out [Form NR4 Summary*, Summary of Amounts Paid or Credited to Non-Residents of Canada*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr4sum.html), and [Form NR4 slip*, Statement of Amounts Paid or Credited to Non-Residents of Canada*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr4.html).
+
+For more information on non-resident income tax, see:
+
+- [Information circular IC76-12R9, *Applicable rate of Part XIII tax on amounts paid or credited to persons in countries with which Canada has a tax convention*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic76-12.html)
+
+- [IT465R ARCHIVED, *Non-Resident Beneficiaries of Trusts*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it465r.html)
+
+An inter vivos trust resident in Canada has two beneficiaries: Karson, a resident of Canada who is an **eligible**beneficiary, and Teagan, a non-resident who is a **designated**beneficiary. Each beneficiary is entitled to receive an equal share of the trust income that is distributed annually.
+
+The trust has $1,400 net income for the year, which includes net business income (from a business carried on in Canada) of $1,000, and net interest income of $400.
+
+On Schedule 10, the trustee would do all of the following:
+
+- enter $1,000 on lines 1 and 6, since there are no other sources of specified income (the $400 interest is not specified income)
+
+- enter $1,400 on line 11, since this is the total amount from columns 1 and 2 of line 928 of Schedule 9
+
+- enter the **lesser**of lines 6 ($1,000) and 11 ($1,400) in the calculation area for line 12
+
+- multiply $1,000 by 40%, and enter the result ($400) on line 12
+
+- calculate the amount that is not subject to Part XIII non-resident tax by completing the calculation area for line 13 (divide $700 by $1,400 and multiply by $400). Enter the result ($200) on line 13 and on line 21
+
+- calculate the amount of refundable Part XII.2 tax credit on line 14 by subtracting line 13 ($200) from line 12 ($400). Enter the result ($200) in box 38 on the T3 slip
+
+Karson received $500, but he will include $700 ($500 + $200) in his income for the year. This amount, which is entered in box 26 on the T3 slip, is the 50% portion of the trust income distributed to him under the terms of the trust agreement. On his T1 return, he will claim a refundable Part XII.2 tax credit of $200.
+
+Teagan received $500. This amount, which is entered on the NR4 slip, is the 50% of the trust income distributed to her under the terms of the trust agreement. On Schedule 10, the trustee reduces the total income paid or payable to non-resident beneficiaries (line 15) by the Part XII.2 tax (line 21). Line 24 ($700 – $200 = $500) is the amount subject to non-resident tax.
+
+#### Completing the NR4 return
+
+Report the total trust income you allocated to a non-resident beneficiary as estate and trust income on the NR4 return. Types of income, except for taxable capital gains from a mutual fund trust, lose their identity when allocated to a non-resident beneficiary. Therefore, you have to total and report them as "Gross income" in box 16 of the NR4 slip. In box 14 or 24, enter an income code of "11" for estate or trust income. Enter a code of "58" if there were taxable Canadian property gains distributions to the non-resident.
+
+File this return no later than 90 days after the end of the trust's tax year.
+
+#### Part C – Calculating Part II.2 Tax on Repurchases of Equity
+
+Fill out this part to calculate Part II.2 tax on the repurchase of equity if you are a real estate investment trust as defined in subsection 122.1(1), a specified investment flow-through (SIFT) trust or would be a SIFT trust (other than a mutual fund trust with a class of units in continuous distributions) if your assets were situated in Canada, that has its units representing an income or capital interest in the trust listed on a designated stock exchange at any time in the taxation year.
+
+The Part II.2 tax on the net value of equity repurchases by certain publicly-traded entities, including a real estate investment trust, a SIFT trust, and certain trusts that would be SIFT trusts if their assets were located in Canada. The tax applies to transactions that occur after December 31, 2023, and is generally equal to 2% of the trust’s net value of equity repurchases during the tax year. To compute this tax, use Schedule 10, Part C.
+
+The terms **equity, qualifying issuance, reorganization transaction, specified affiliate and substantive debt** are defined in subsection 183.3(1).
+
+### Form T3SCH 11 – Federal Income Tax (Schedule 11)
+
+Use [Schedule 11](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch11.html) to determine the federal income tax payable by the trust.
+
+The trust may be subject to minimum tax. For more information, read the section [Schedule 12 – Minimum Tax](#P1788_202398).
+
+#### Lines 8 and 9 – Federal tax on taxable income
+
+##### Graduated Rate Estates (GRE) or Qualified Disability Trusts (QDT)
+
+A graduated rate estate or a QDT is taxed on its taxable income for the year at the federal tax rates for individuals. For more information on these types of trusts, read the description in [Chart 1 – Types of Trusts](#tbl_1).
+
+##### Trusts other than GRE and QDT
+
+Trusts other than a GRE or a QDT are taxed on their taxable income for the year at the highest individual rate of 33%.
+
+In addition, include any tax payable by a specified investment flow-through (SIFT) trust. For more information on SIFT trusts and their tax calculation, go to [Specified investment flow-through (SIFT) trust income and distribution tax](https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/specified-investment-flow-through-sift-trust-income-distribution-tax.html).
+
+#### Line 11 – Federal recovery tax
+
+Use this line to enter the result from the calculation on [Form T3QDT-WS, *Recovery Tax Worksheet*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3qdt-ws.html).
+
+##### Recovery Tax
+
+A trust that was a QDT in a previous tax year is subject to the recovery tax in a year if one of the following conditions is met:
+
+- The trust ceases during the year to have among its beneficiaries any individuals who in one or more earlier tax years of the trust were electing beneficiaries of the trust. This will include the year in which the electing beneficiary of the trust (or if the trust had more than one electing beneficiary, the last of them) dies.
+
+- The year is the tax year deemed to have ended because the trust ceased to be resident in Canada.
+
+- The trust distributes capital to a beneficiary other than an individual who is an electing beneficiary for a particular year or was an electing beneficiary of the trust in an earlier tax year. The making by the trust of an amount payable out of the trust’s income for a year (i.e., the flowing out of its current income), or the subsequent satisfaction of a beneficiary’s right to enforce such an amount, does not trigger the application of the recovery tax. A payment to a beneficiary in the beneficiary’s capacity as a creditor of the trust also does not trigger the application of the recovery tax.
+
+#### Lines 14 to 16 – Federal dividend tax credit
+
+Fill out these lines if the trust reported a gross-up amount on line 24 or line 31 of Schedule 8 for dividends received from a taxable Canadian corporation in the tax year.
+
+Calculate the dividend tax credit for eligible dividends by multiplying the gross-up amount from line 24 of Schedule 8 by 54.5455%. Calculate the dividend tax credit for dividends other than eligible dividends by multiplying the gross-up amount from line 31 of Schedule 8 by 69.2308%. Enter the total of these amounts on line 16.
+
+Foreign dividends do not qualify for this credit.
+
+#### Line 17 – Donations and gifts tax credit
+
+Enter the amount from line 30 of Schedule 11A. Send the CRA official receipts for all claims.
+
+#### Line 20 – Minimum tax carryover from previous years
+
+If the trust paid minimum tax in the 2018 to 2024 tax years, and does not have to pay minimum tax for the 2025 tax year, you may be able to claim a credit against the trust’s 2025 taxes payable. Use Part 7 of [Schedule 12, *Minimum Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch12.html), to calculate the total minimum tax carryover.
+
+You can carry over minimum tax from the seven previous tax years.
+
+#### Line 22 – Surtax on income not subject to provincial or territorial tax
+
+A resident trust that carries on business through a permanent establishment in a foreign country has to pay a federal surtax of 48% of its basic federal tax attributable to the income earned in the foreign country.
+
+A non-resident trust, or a deemed resident trust, pays this tax instead of provincial or territorial tax. However, business income that the trust earned in a province or territory through a permanent establishment in that province or territory is subject to the provincial or territorial tax instead of this 48% surtax.
+
+For more information, see [Form T3MJ, *T3 Provincial and Territorial Taxes – Multiple Jurisdictions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3mj.html).
+
+#### Line 25 – Federal foreign tax credit
+
+This credit is available to a resident trust only for foreign income or profit taxes the trust paid on income it received from sources outside Canada. When you calculate the foreign tax credit, convert all amounts to Canadian currency. If the amount was paid at various times throughout the year, to get the applicable rate, read the section [Exchange rates](https://www.bankofcanada.ca/rates/exchange).
+
+In general, the foreign tax credit you can claim for each foreign country is the **lesser**of:
+
+- the tax the trust paid to a foreign country
+
+- the tax payable to Canada on the portion of the income the trust earned in the foreign country
+
+Use [Form T3 FFT, *T3 Federal Foreign Tax Credits for Trusts*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3fft.html), to calculate the trust’s foreign tax credit. When you fill out [Form T3 FFT](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3fft.html), base the calculation of the credit on foreign income amounts that have been retained by the trust and not allocated to a beneficiary. Do not include any amounts relating to the designation of foreign income and foreign tax credits to the beneficiaries. Enter on line 23, the amount from line 12 of Form T3 FFT.
+
+The trust's federal foreign tax credit may be less than the tax paid to a foreign country. The trust can carry unclaimed foreign tax paid on **business income** back 3 years and forward 10 years.
+
+The trust cannot carry forward or carry back excess amounts of any foreign **non-business**income tax. You may be able to claim some or all of the excess as one of the following:
+
+- a provincial or territorial foreign tax credit on [Form T3 PFT, *T3 Provincial or Territorial Foreign Tax Credit for Trusts*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3pft.html)(a trust resident in Quebec should contact Revenu Québec about its entitlement to this credit)
+
+- a deduction on line 20 of the return (see [IT506 ARCHIVED,*Foreign Income Taxes as a Deduction from Income*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it506.html))
+
+Send the CRA proof of the tax the trust paid to a foreign country.
+
+For more information, see [Income Tax Folio S5-F2-C1, *Foreign Tax Credit*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/folio-2-foreign-tax-credits-deductions/income-tax-folio-s5-f2-c1-foreign-tax-credit.html), and [IT201R2 ARCHIVED, *Foreign Tax Credit – Trust and Beneficiaries*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it201r2.html).
+
+#### Line 27 – Allowable federal political contribution tax credit
+
+Claim the federal political contributions tax credit for the eligible amount of monetary contributions to a registered party, a registered association, or a candidate, as defined in the Canada Elections Act. Use the [chart](#Federal) below to calculate the credit.
+
+Enter the total allowable credit on line 26. If the trust's total eligible amount of monetary contributions is $1,275 or more, enter $650 on line 26. Send the CRA an official receipt as proof of the contribution. You do not have to send the CRA a receipt for an amount shown in box 36 of a T5013 slip, or in a financial statement showing an amount a partnership allocated to the trust. For more information, see Information Circular [IC75-2R9, *Contributions to a Registered Party, a Registered Association or to a Candidate at a Federal Election*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic75-2.html).
+
+**Federal Political Contribution Tax Credit**
+
+If your total eligible amount of monetary contributions (line 26 of your Schedule 11) was $1,275 or more, enter $650 on line 27 of your Schedule 11. Otherwise, complete the appropriate column depending on the amount on line 26.
+
+Line 26 is**$400** or less
+
+Line 26 is more than **$400** but not more than **$750**
+
+Line 26 is more than **$750**
+
+Enter your total eligible amount of monetary contributions.
+
+Line 1 minus line 2 (cannot be negative)
+
+Multiply line 3 by line 4.
+
+**5**
+
+Add lines 5 and 6 Enter this amount on line 27 of your Schedule 11.
+
+#### Line 28 – Investment tax credit
+
+A trust can claim an investment tax credit (ITC) on eligible investments and qualified expenditures that are listed on [Form 2038(IND), *Investment Tax Credit (Individuals)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2038-ind.html). For example, a trust can claim an ITC on certain buildings, machinery, or equipment to be used in certain areas of Canada in qualified activities such as farming, fishing, logging, or manufacturing.
+
+To claim an ITC, you have to send the CRA the completed [Form T2038(IND](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2038-ind.html)) no later than 12 months after the due date of the return for the year the expenditure occurred.
+
+Send the CRA a filled out copy of Form T2038(IND) if the trust:
+
+- earned an ITC in the tax year
+
+- is carrying forward a credit
+
+- had an ITC recapture
+
+- is claiming refundable ITC in the tax year (on line 54 of the T3 return)
+
+Reduce the cost of eligible investments and qualified expenditures by the portion of the credit deducted or refunded. Reduce these costs in the year after the trust:
+
+- claims the credit
+
+- acquired the asset if it:
+
+    - made the claim or refund in the year of acquisition
+
+    - applied the claim to a previous year
+
+For example, the capital cost of property is reduced in 2025 by any ITC that the trust earned in 2024, and that was claimed or refunded on the 2024 return or applied to a previous year.
+
+You will have to report an ITC recapture for the trust if the trust meets the following conditions:
+
+- acquired the property in this or any of the previous 11 tax years
+
+- claimed the cost, or a portion of the cost, of the property as a qualified expenditure for scientific research and experimental development
+
+- included the cost, or a portion of the cost, of the property in calculating the trust's ITC, or was the subject of an agreement to transfer qualified expenditures
+
+- disposed of the property or converted it to commercial use after February 23, 1998
+
+An ITC recapture on a portion of the cost of property as described above applies only to dispositions that occur after December 20, 2002.
+
+For 2016 and subsequent tax years, **only**a graduated rate estate and a communal organization that is treated as a trust can designate all or part of its deductible ITC amount to one or more of its beneficiaries, taking into consideration the terms of the trust. For these trusts, when calculating their ITC to be claimed in the year, do not include the amount designated on line 941 of [Schedule 9](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch9.html). Reduce the cost of the qualified property acquisitions or expenditures by the amount of any ITC that you designated to the beneficiaries in the tax year.
+
+For more information, see [Form T2038(IND](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2038-ind.html)).
+
+#### Line 34 – Additional tax on RESP accumulated income payments
+
+If you received an accumulated income payment from a registered education savings plan (RESP) in the year, you may have to pay an additional tax on all or part of the amount in box 40 of your T4A slip. If this is the case, fill out [Form T1172, *Additional Tax on Accumulated Income Payments from RESPs*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1172.html). Enter the amount from line 13 on line 32 of [Schedule 11](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch11.html).
+
+For more information, see [Information sheet RC4092, *Registered Education Savings Plans*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4092.html).
+
+#### Line 36 – Refundable Quebec abatement
+
+A trust may be entitled to an abatement of 16.5% of its basic federal tax.
+
+If the trust was resident in Quebec on the last day of its tax year and it did not have income from a business with a permanent establishment outside Quebec, complete line 36.
+
+Use [Form T3MJ, *T3 Provincial and Territorial Taxes – Multiple Jurisdictions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3mj.html), to calculate the refundable Quebec abatement if one of the following situations applies to the trust:
+
+the trust was a resident in Quebec and had income from a business with a permanent establishment outside Quebec
+
+- the trust resided outside Quebec and had income from a business with a permanent establishment in Quebec
+
+Enter the result on line 36 of [Schedule 11](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch11.html).
+
+### Form T3 SCH 11A, Donations and gifts tax credit calculation (Schedule 11A)
+
+Use Schedule 11A to calculate the total donations and gifts tax credit.
+
+#### Testamentary trust
+
+##### Estate donations
+
+Estate donations (donations made by will and designation donations) are deemed to be made by the individual’s estate and where certain conditions are met, by the individual’s graduated rate estate (GRE). Read the section [GRE donations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013/t3-trust-guide.html) below. The donations are deemed to be made at the time the property is transferred to the donee.
+
+An estate can claim the donations and gifts tax credit in respect of a donation that is not a GRE donation or former GRE donation in the year in which the donation is made or in any of the five following years (or ten years for a gift of certified ecologically sensitive land made after February 10, 2014). However, the donation cannot be allocated to a tax year of the individual or an earlier year of the estate.
+
+For deaths that occurred before 2016, gifts bequeathed in the deceased person’s will and designation donations were deemed to be made by the individual immediately before their death. For more information on gifts where death occurred before 2016, see [T3 Trust Guide for the 2015 tax year](https://www.canada.ca/en/revenue-agency/services/forms-publications/previous-year-forms-publications/archived-t4013.html).
+
+#### GRE donations
+
+GRE donations are donations by a GRE to a qualified donee. The donated property must be property that was acquired by the estate on and as a consequence of the death (or property that was substituted for such property). GRE donations also include designation donations.
+
+You can allocate a GRE donation among any of:
+
+- the tax year of the GRE in which the donation is made
+
+- an earlier tax year of the GRE
+
+- the last two tax years of the deceased individual (the final return and the return for the preceding year)
+
+In addition, a gift made after the 36-month period but within 60 months after the date of an individual’s death by a former GRE that continues to meet all of the requirements of a GRE except for the 36-month time limit, can be allocated among any of:
+
+- the tax year of the estate in which the donation is made
+
+- an earlier tax year of the estate, if the estate is a GRE in that preceding year
+
+- the last two tax years of the deceased individual (the final return and the return for the preceding year)
+
+If the donation is not a one-time payment (for example, a donation that will continue to be made according to the terms of the will), treat the recipient as an income beneficiary and deduct the donation as an allocation of trust income on line 29 of the T3 return. You also have to enter the donation on the appropriate line of [Form T3 SCH 9, *Income Allocations and Designations to Beneficiaries*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch9.html) (Schedule 9).
+
+#### Inter vivos trust
+
+If the recipient is an income beneficiary according to the terms of the trust agreement, deduct the donation on line 29 of the return, and include it on the appropriate line of [Schedule 9](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch9.html).
+
+In limited situations, a distribution by an inter vivos trust to a registered charity may instead qualify for a donation and gifts tax credit on line 17 of Form T3 SCH 11, Federal Income Tax (Schedule 11). For example, this occurs when an alter ego trust makes a distribution to a registered charity following the death of the settlor of the trust, and the trustee had discretion under the terms of the trust indenture to distribute the property to the qualified donee or to someone else.
+
+Special rules apply if the trust makes a gift of a non-qualifying security, such as shares of a corporation under certain conditions, or obligations of the trust or any other security issued by the trust or affiliated persons (other than shares, obligations, and other securities listed on a designated stock exchange and deposits with financial institutions). For more information, go to [Charities and giving](https://www.canada.ca/en/services/taxes/charities.html), click on “A to Z index of topics for charities and other qualified donnes” and search for “Non-qualifying security, CG-012.” You can also see [Guide T4037, *Capital Gains*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html).
+
+A communal organization that made charitable donations can choose not to claim them and can elect to designate the donations to beneficiaries. For more information, see [Information Circular IC78-5R3, *Communal Organizations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-5.html).
+
+#### Lines 1 to 3 – Donations to registered charities and other qualified donees
+
+These lines include the eligible amount of all donations made to registered charities and other qualified donees in 2025 plus donations and gifts made in any of the previous five years that have not been claimed before. For a list of qualified donees, see [Guide P113, *Gifts and Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html).
+
+#### Line 4 – Donations applied to the last two years of the deceased individual (GREs and former GREs only)
+
+Enter on line 4 the amount of previously unclaimed eligible amount of donations that you are currently applying to the last two tax years of the deceased individual (the final return and the return for the preceding year).
+
+#### Line 5 – Total eligible amount of charitable donations (total of lines 1, 2, and 3 minus line 4)
+
+This is the eligible amount of all donations made in any of the previous five years, which has not been claimed in any previous year and is not included on line 12. For more information, see [Guide P113, *Gifts and Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html), and [Income Tax Folio S7-F1-C1, *Split-receipting and Deemed Fair Market Value*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-7-charities-non-profit-organizations/series/income-tax-folio-s7-f1-c1-split-receipting-deemed-fair-market-value.html).
+
+#### Line 6 – Net income from line 32 of the T3 return
+
+For donations of cash or other property to a registered charity or other qualified donee in the tax year, a trust’s total donation limit will generally be 75% of its net income for the year.
+
+#### Lines 7, 8, and 9 – Donations limit
+
+A trust can increase its total donations limit if it donates capital property in the year. For more information and how to calculate the amount to be entered on lines 7 and 8, see [Guide P113, *Gifts and Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html), and [Income Tax Folio S7-F1-C1, *Split-receipting and Deemed Fair Market Value*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-7-charities-non-profit-organizations/series/income-tax-folio-s7-f1-c1-split-receipting-deemed-fair-market-value.html).
+
+#### Line 11 – Eligible amount of cultural and ecological gifts
+
+Unlike other donations, your total eligible amount claimed for these types of gifts is not limited to a percentage of net income. You can choose the part you claim in 2025 and carry forward any unused part for up to **five years**.
+
+For donations of certified ecologically sensitive land made after February 10, 2014, the carry-forward period is up to **ten years**.
+
+For more information about these gifts and the amounts you can claim, see [Guide P113, *Gifts and Income Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html), and [Income Tax Folio S7-F1-C1, *Split-receipting and Deemed Fair Market Value*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-7-charities-non-profit-organizations/series/income-tax-folio-s7-f1-c1-split-receipting-deemed-fair-market-value.html).
+
+#### Line 12 – Amount of cultural and ecological gifts applied to the last two years of the deceased individual (GREs and former GREs only)
+
+Enter on line 12 the amount of previously unclaimed cultural and ecological gifts that you are currently applying to the last two tax years of the deceased individual (the final return and the return for the preceding year).
+
+#### Lines 16 to 30 – Donations and gifts tax credit calculation
+
+The donation tax credit is computed as follows:
+
+##### Trusts other than GREs or qualified disability trusts (QDTs)
+
+For a trust other than a trust that is a GRE or QDT, the donation tax credit is the total of the following:
+
+- the total eligible amount of gifts up to $200 multiplied by the lowest individual tax rate
+
+- the total eligible amount of gifts over the $200 threshold multiplied by 33%
+
+##### Trusts that are GREs or QDTs
+
+For a trust that is a GRE or a QDT, the donation tax credit is the total of the following:
+
+- the total eligible amount of gifts of up to $200 multiplied by the lowest individual tax rate
+
+- if the trust's taxable income:
+
+    - is less than or equal to $253,414, multiply the total eligible amount of gifts over the $200 threshold by 29%
+
+    - is greater than $253,414, calculate the total of "A" and "B", where:
+
+          - "A" is 33% multiplied by the lesser of:
+
+                  - the total eligible amount of gifts for the year that exceeds $200, and
+
+                  - the amount, if any, by which the trust's taxable income exceeds $253,414
+
+          - "B" is 29% multiplied by the total eligible amount of gifts that exceeds the total of the $200 threshold and the amount used for calculating “A.”
+
+For ecological gifts made by any trust after February 10, 2014, and before 2016, a rate of 29% continues to apply to the portion of the eligible amount of the gift greater than $200.
+
+### Form T3 SCH 12, Minimum Tax (Schedule 12)
+
+If the trust is subject to minimum tax, it must fill out [Schedule 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch12.html) to determine if it is required to pay minimum tax in the tax year. For tax years that begin after December 31, 2023, a basic exemption is available to QDTs (as defined in subsection 122(3)). For more information, read the section [Basic exemption](#amt).
+
+#### Exceptions
+
+For tax years that begin before 2024, the following types of trusts are not subject to minimum tax and do not need to fill out [Schedule 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch12.html):
+
+- A spousal or common-law partner trust, a joint spousal or common-law partner trust, or an alter ego trust if it reports in the year its first deemed disposition on [Form T1055, *Summary of Deemed Dispositions (2002 and later tax years)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1055.html)
+
+- A trust, which was throughout the tax year:
+
+    - a mutual fund trust
+
+    - a related segregated fund trust, (within the meaning assigned by paragraph 138.1(1)(a))
+
+    - a master trust
+
+    - an employee life and health trust
+
+- For tax years that begin after December 31, 2023, in addition to the trusts noted above, the following trusts are not subject to minimum tax for a tax year if, throughout that tax year, it is a trust that is one of the following:
+
+- a graduated rate estate
+
+- a trust under or governed by:
+
+    - a deferred profit sharing plan
+
+    - a pooled registered pension plan
+
+    - a registered disability savings plan
+
+    - a registered education savings plan
+
+    - a registered pension plan
+
+    - a registered retirement income fund
+
+    - a registered retirement savings plan
+
+    - a tax-free savings account
+
+    - an employee profit-sharing plan
+
+    - a registered supplementary unemployment benefit plan
+
+    - a first home savings account
+
+- an investment fund (as defined in subsection 251.2(1)) unless the trust qualifies as an investment fund because of or in connection with a transaction or event or series of transactions or events and one of the main purposes of which is to avoid tax under Division E.1 of the Act.
+
+On the T3 return, use trust code 348.
+
+- a trust that meets all of the following conditions:
+
+    - all of the beneficiaries of the trust are exempt from minimum tax or are trusts, of which all of the beneficiaries are exempt from minimum tax and the following three conditions are met
+
+    - no beneficiary, other than one described above, can be added
+
+    - all the interests are fixed interests (as defined in subsection 94(1))
+
+    - it is irrevocable
+
+On the T3 return, use trust code 349.
+
+- a trust that is otherwise exempt from tax under Part I
+
+- a trust described in subsection 143(1) (a communal organization)
+
+- a unit trust if the total FMV of the units of the trust that are listed on a designated stock exchange represents all or substantially all of the total FMV of all units of the trust
+
+- an employee ownership trust
+
+For tax years that begin after December 31, 2023 a trust for the benefit of Indigenous groups as described in subparagraph 127.55(f)(viii) or a trust described in subparagraph 127.55(f)(ix).
+
+If this applies answer yes to question 20 on the T3 return.
+
+### Obligation to pay minimum tax
+
+For taxation years beginning after December 31, 2023, the calculation of minimum tax has changed, and more types of trusts are exempt from minimum tax . Minimum tax ensures that trusts that would otherwise pay little or no tax because they have a significant number of tax preference items pay at least a minimum amount of tax for the year.
+
+Individuals (including trusts) are subject to minimum tax unless excluded. Specifically, the minimum tax does not apply to in-bankruptcy returns or to a trust in the tax year that the death of the lifetime beneficiary triggers a deemed disposition. Minimum tax also does not apply to certain specified trusts, which have been revised to include a greater number of trusts not previously excluded (read the section Exceptions above).
+
+Minimum tax ensures that trusts who would otherwise pay little or no tax because they have a significant number of tax preference items pay at least a minimum amount of tax for the year.
+
+To determine whether a trust is required to pay minimum tax, a separate calculation for each of the following components is required:
+
+- Adjusted taxable income
+
+- Special foreign tax credit
+
+- Basic minimum tax credit
+
+- Minimum amount
+
+Generally, where the regular federal tax liability calculated in the usual manner is less than the excess of the minimum amount for the year over the special foreign tax credit, the taxpayer is required to pay minimum tax
+
+The most common situations that may make a trust liable to minimum tax are if it:
+
+- reports taxable capital gains (line 1 of the T3 return)
+
+- reports taxable dividends (line 3 of the T3 return)
+
+- claims a loss resulting from, or increased by, resource expenditures, or claims resource and depletion allowances on resource properties (line 6 or line 12 of the T3 return)
+
+- claims a loss resulting from, or increased by, capital cost allowance (CCA) or carrying charges claimed on a rental or leasing property (line 8 of the T3 return), or certified films or videotapes (line 6 of the T3 return)
+
+- has certain losses that limited partners, specified members of a partnership, or partners of a registered tax shelter deduct for their partnership interest. For this purpose, losses allocated from a partnership are applied against gains from the same partnership source.
+
+For tax years ending after December 31, 2011, a trust’s limited partnership loss is restricted only if the trust’s interest in the partnership is a registered tax shelter. This treatment may also apply to the trust’s 2006 to 2011 tax years, where the trust filed an election by March 11, 2014.
+
+- has losses from an investment in a registered tax shelter
+
+- has carrying charges for interests in limited partnerships, tax shelters, rental or leasing properties, or film or resource properties which increase or create a loss from these sources
+
+Net income from rental, leasing, and film property includes income from these investments (before CCA and related carrying charges) plus any net taxable capital gains from the disposition of these investments minus any losses from these investments (before CCA and related carrying charges). You also have to subtract allocated partnership losses from gains from the same partnership source.
+
+##### Basic exemption
+
+For 2016 to 2023 tax years, the only type of trust that could claim the $40,000 basic exemption was a graduated rate estate. For taxation years that begin after December 31, 2023, the basic exemption is only available to a QDT (as defined in subsection 122(3)). The basic exemption amount is $177,882 for 2025 and is subject to annual indexation.
+
+### Provincial and territorial income tax
+
+#### Resident trusts
+
+A trust is liable for provincial or territorial tax at the rate that applies for the province or territory of residence if it was a resident of a province or territory on the last day of its tax year. Use the applicable provincial or territorial tax form to calculate the provincial or territorial tax.
+
+If the trust was resident in the province of Quebec on the last day of its tax year, read the note in the section [Use the right tax package](#P101_6471).
+
+A resident trust may carry on a business with a permanent establishment in one of the following:
+
+- a province or territory other than the province or territory of residence
+
+- a foreign country
+
+In these cases, you have to calculate the trust's income from each source to determine the liability for one of the following:
+
+- provincial or territorial income tax
+
+- federal surtax for income not subject to provincial or territorial tax
+
+Report income from a business for each province, territory, or foreign country in which the business had a permanent establishment during the tax year. Send the CRA a copy of this list. In general, you should allocate all other income to the province or territory of residence. Use [Form T3MJ, *T3 Provincial and Territorial Taxes – Multiple Jurisdictions*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3mj.html), to report this income. To get this form, go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+A trust resident in a province other than Quebec, or in a territory, on the last day of its tax year may have a federal foreign tax credit that is less than the non-business income tax the trust paid to a foreign country. If this is the case, the trust can apply the excess of foreign non-business income tax paid against provincial and territorial tax.
+
+For more information, read the section [Line 25 – Federal foreign tax credit of Schedule 11](#P1700_194628).
+
+#### Non-resident trusts and deemed resident trusts
+
+A non-resident trust or a deemed resident trust that carries on a business with a permanent establishment in a province or territory is subject to provincial or territorial tax on the business income it earned in that province or territory.
+
+A non-resident trust or a deemed resident trust may carry on a business in Canada without a permanent establishment in Canada. In this case, it may be subject to the federal surtax.
+
+For more information, read the section [Line 22 – Surtax on income not subject to provincial or territorial tax](#P1696_193916).
+
+### Form T3 SCH 15, Beneficial Ownership Information of a Trust (Schedule 15)
+
+For tax years ending on or after December 31, 2023, a trust (other than a listed trust) that is required to file a T3 return, generally must report beneficial ownership information requested on Schedule 15.
+
+As requested on Schedule 15, a trust will be required to report the identity of all trustees, settlors, beneficiaries and controlling persons (which are collectively referred to as reportable entities) of the trust. For taxation years ending on or after December 31, 2024, reportable entities include partnerships. You must include information for all reportable entities of the trust that existed at any time during the tax year including entities that were added since the last time beneficial ownership information was provided.
+
+This includes situations where the person or partnership became a reportable entity at any time during the tax year and where the person or partnership is no longer a reportable entity of the trust at the end of the tax year for which you are filing a T3 return.
+
+The fillable PDF version of Schedule 15 allows the user to add additional Part B sections by selecting “Add Part B” located at the end of Part B. If you are using the standard print PDF version of Schedule 15, you may fill out multiple copies of Part B and include these with the Schedule 15 filed with the T3 return.
+
+The trust reporting requirements do not require the disclosure of information that is subject to solicitor-client privilege.
+
+Beneficial ownership reporting requirements do not apply to an amateur athlete trust that is not an [express trust](#express_trust).
+
+Instead of a T3 return, an amateur athlete trust that is an express trust (other than a listed trust) needs to file [Form T3ATH-IND, Amateur Athlete Trust Income Tax Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ath-ind.html), accompanied by a completed Schedule 15.
+
+Where the required beneficial ownership information is not filed along with the T3 return, the trust may be subject to one or more penalties for failing to comply with the requirements of the Act – read the section [Penalties](#penalties).
+
+For more information on the additional reporting requirements, go to [Trust reporting rules for T3 returns filed for taxation years ending on or after December 31, 2023](https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/t3-return/enhanced-reporting-rules-trusts-bare-trusts-faq.html).
+
+#### Definition of a settlor
+
+For taxation years ending on or after December 31, 2024, for the purposes of the trust reporting rules, a settlor includes any person or partnership that has directly or indirectly, in any manner whatever, transferred property to the trust at or before that time. This does not include a transfer made by the person or partnership to the trust:
+
+- For fair market value consideration, or
+
+- Pursuant to a legal obligation to make the transfer
+
+#### Identifying Beneficiaries
+
+The term **beneficiary**for the purposes of Schedule 15 is based on its ordinary meaning. Generally, the determination of whom is a beneficiary of a particular trust requires a finding of fact based on all the relevant information, including the terms of the trust and the settlor’s intent in establishing the trust. In essence, a beneficiary of a trust is a person (other than a protector) who has a right to compel the trustee to properly enforce the terms of the trust, regardless of whether that person’s right to any of the income or capital is immediate, future, contingent, absolute, or conditional on the exercise of discretion by any person. However, such a determination is ultimately dependent on the specific facts, terms of the trust as well as the relevant trust law.
+
+The requirement to provide the necessary information in respect of beneficiaries of a trust as requested on Schedule 15 will be met if the required information is provided in respect of each beneficiary of the trust whose identity is known or ascertainable with reasonable effort by the person making the return at the time of filing the return. If a beneficiary’s identity is known or ascertainable, complete Part B of Schedule 15. If a beneficiary’s identity is not known or ascertainable with reasonable effort, then the person making the return is required to provide sufficiently detailed information to determine with certainty whether any particular person is a beneficiary of the trust. In this case, fill out Part C of Schedule 15.
+
+Where the beneficiaries of a trust are all of the members of an Indigenous group, community, or people that hold rights recognized and affirmed by section 35 of The Constitution Act, 1982, or an identifiable class of the members of such Indigenous group, community or people, provide a sufficiently detailed description of the class of beneficiaries to determine with certainty whether any particular person is a member of that class of beneficiaries.
+
+Where some but not all of the units of a trust are listed on a designated stock exchange, the requirement to provide information in respect of the beneficiaries of the trust is met if the required information is provided in respect of the beneficiaries of the unlisted classes of units.
+
+For taxation years ending on or after December 31, 2024, trusts in which the trustee is a public guardian and trustee authorized under a law of Canada or a Province who, as trustee, who is acting in their capacity as public guardian and trustee, including acting as trustee of a trust pursuant to an order of a court, that are not otherwise included as listed trusts and are required to file [Schedule 15](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch15.html), are not required to include information in respect of each of the beneficiaries of the trust on Schedule 15.
+
+For taxation years ending on or after December 31, 2025, for alter ego, or joint spousal or common-law partner trusts, beneficiaries who are beneficiaries of the trust solely because of a right of the person to receive any of the trust’s income or capital, if under that right the person may so receive that income or capital only on or after the death after that time of an individual, are not required to be reported on [Schedule 15](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch15.html).
+
+#### Who is a controlling person
+
+For the purposes of the trust reporting requirements, the term controlling person means a person or partnership who has the ability (through the terms of the trust or a related agreement) to exert influence over trustee decisions regarding the appointment of income or capital of the trust. This would include, for example, a protector of the trust.
+
+For more information on the additional reporting requirements, go to [New trust reporting requirements for T3 returns filed for tax years ending after December 30, 2023](https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/t3-return/enhanced-reporting-rules-trusts-bare-trusts-faq.html).
+
+#### Filling out Schedule 15
+
+##### Part A – Annual beneficial ownership information
+
+You must ensure both required questions of Part A on Schedule 15 have been filled out.
+
+If this is the first time you are providing the CRA with the beneficial ownership information of the trust, you need to identify all the reportable entities of the trust.
+
+If the trust is required to file beneficial ownership information requested on Schedule 15, this information must be filed with the T3 return filed for the tax year. Reportable entities that have been previously reported to the CRA will be carried forward. When the details of an entity have changed, that new information must be submitted as a modification in Part B – Identification of reportable entities.
+
+##### Part B – Identification of reportable entities
+
+Use Part B of Schedule 15 to add, modify, or delete reportable entities of the trust. Include entities that may have been reportable for only part of the year.
+
+**Adding a reportable entity**
+
+For each reportable entity of the trust, the following information must be provided:
+
+- name
+
+- address
+
+- date of birth (if applicable)
+
+- country of residence
+
+- tax identification number (for example, social insurance number, business number, trust number, or, in the case of a non-resident trust, the identification number assigned by a foreign jurisdiction)
+
+If a reportable entity is more than one entity type, Part B must be filled out in full for each respective entity type. For example, if an entity is both a trustee and a settlor, Part B will need to be filled out twice.
+
+If a reportable entity was associated with the trust for only part of the tax year for which you are filing a tax return, select “Add reportable entity” and enter all of the relevant information. If the entity ceased to be a reportable entity since the last time beneficial ownership was provided, select “Yes” to the question, “Did the entity cease to be a reportable entity since the last time beneficial ownership information was provided?”
+
+**Modifying a reportable entity**
+
+To modify a reportable entity that is on file with the CRA, select the box “Modify reportable entity” and fill out Part B in full, do not just enter the information that you want to update.
+
+**Removing a reportable entity**
+
+To remove an entity, select “Modify reportable entity” and fill out Part B in full. Select “Yes” for the question, “Did the entity cease to be a reportable entity since the last time beneficial ownership information was provided?”
+
+#### Form T3 SCH130, Excessive Interest and Financing Expenses Limitation (Schedule 130)
+
+The Excessive interest and financing expenses limitation (EIFEL) rules limit the net amount of interest and financing expenses (IFE) (interest and financing expenses minus interest and financing revenues) that can be deducted. For tax years starting on or after January 1, 2024, the limit is generally equal to 30% of adjusted taxable income. As a transition measure, a ratio of 40% applies to tax years starting on or after October 1, 2023, and before January 1, 2024.
+
+Subsection 18.2(18) requires a trust to file Schedule 130 to determine the deductibility of its IFE and to determine its exempt IFE. The CRA has waived, under subsection 220(2.1), this requirement for trusts that meet both of the following conditions:
+
+1. The trust is:
+
+- a bare trust that is not otherwise required to file an income tax return
+
+- exempt from Part I tax under section 149
+
+- an excluded entity
+
+- a testamentary trust as defined in subsection 108(1),
+
+- described in any of paragraphs (a), (a.1), (b), (d) or (e) of the definition of a trust in subsection 108(1), or
+
+- a non-resident exempt from Part I tax because of a tax treaty
+
+and
+
+2. The trust is not a party to an election under the rules.
+
+If a trust meets these conditions and is not filing a Schedule 130, answer “No” to question 15 on the T3 income tax return. The trust must keep records supporting that it meets the conditions and provide Schedule 130 at the Minister’s request.
+
+If a trust does not file Schedule 130 when it is required to, or files an incomplete schedule, paragraph 152(4)(b.8) allows the minister to reassess the return outside of the normal reassessment period.
+
+The EIFEL rules contain several election provisions that may, under certain circumstances, provide alternative tax treatment under the rules. The following election forms, as applicable, are to be filed:
+
+- [T2224, *Transitional Election Under the Excessive Interest and Financing Expenses Limitation Rules*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2224.html). To be eligible, the trust must be a fixed interest commercial trust
+
+- [T2225, *Group Ratio Rules Election Under Subsection 18.21(2) and Fair Value Adjustments Election Under Subsection 18.21(4)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2225.html)
+
+- [T2226, *Election to Transfer Cumulative Unused Excess Capacity Under Subsection 18.2(4)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2226.html). To be eligible, the trust must be a fixed interest commercial trust.
+
+- [T2228, *Specified Pre-regime Loss Election Under Subsection 18.2(1)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2228.html)
+
+- [T2229, *Election to Forgo a Foreign Accrual Property Loss Under Clause 95(2)(f.11)(ii)(E)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2229.html)
+
+For more information on the EIFEL elections and Schedule 130, go to [Excessive interest and financing expenses limitation rules](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/excessive-interest-financing-expenses-limitation-rules.html).
+
+## Chapter 4 – T3 slip and T3 Summary
+
+As trustee, you have to fill out a [T3 slip, *Statement of Trust Income Allocations and Designations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3.html), for each resident beneficiary, including a preferred beneficiary, to whom the trust allocated income in the year. You must also do this for a trust that made any distributions of capital that would result in an adjustment to the ACB of the beneficiary's interest in the trust. If you allocated income to a non-resident beneficiary, read [Column 2 – Non-resident](#P1445_162661).
+
+This chapter provides information on how to fill out the T3 slip.
+
+The T3 slip shows only the high-use boxes (boxes 12, 14, 16, 18, 21, 23, 26, 30, 32, 39, 49, 50, and 51). There are also generic boxes with blank codes for less common amounts. If you have to use a generic box, enter the box number and the amount in the other information area.
+
+**If you are reporting capital gains in Box 30**, read the instructions for boxes 21, 30, 55, and 57.
+
+If you need more than six boxes for the same beneficiary, use an additional T3 slip.
+
+You can find a sample of the slip in the [Appendix](#P2175_231612).
+
+You do not have to fill out a T3 slip for a beneficiary if the income allocated in the year to that beneficiary is less than $100. However, you have to notify the beneficiary of the allocated income since it still has to be reported on the beneficiary's return.
+
+You have to fill out [Form T3SUM*, Summary of Trust Income Allocations and Designations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sum.html), even if you only prepare one T3 slip. This is the form you use to record the total of the more common amounts you reported on all related slips. File only one summary for the trust unless it is a mutual fund trust.
+
+Refer to the back of the [T3 Summary](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sum.html) for information on how to complete it. You can find a sample of the form in the [Appendix](#P2175_231612).
+
+### How to file the T3 slip and T3 Summary
+
+#### Electronic filing methods
+
+You must file electronically if you have more than 5 information returns (T3 slips) of the same type.
+
+#### Filing by Web Forms
+
+Our Web Forms application is free and secure. To use it, all you need is access to the Internet. With Web Forms you can complete a trust-related information return easily, following the step-by-step instructions.
+
+Web Forms lets you:
+
+- file up to **100 slips** (original, additional, amended, or cancelled) from the CRA’s website
+
+- calculate all of the totals for the T3 Summary
+
+- create a digital trust-related information return containing T3 slips and T3 Summary, which can be saved and imported at a later date
+
+- print all your slips and your summary
+
+- validate data in real time
+
+After you submit your trust-related information return, you will receive a confirmation number that will be your proof that the CRA received it.
+
+To use the Web Forms application, you must have a web access code. If you do not have a web access code, you can easily get one online. For more information, read the section [Web access code](#wc).
+
+To start using this application or to get more information about Web Forms, go to [Filing information returns electronically (tax slips and summaries)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+#### Filing by Internet file transfer
+
+Internet file transfer allows you to transmit an original or amended T3 summary and slips with a maximum file size of **150 MB**. All you need is a web browser to connect to the Internet, and your software will create, print, and save your digital trust-related information return in XML format. For information about this filing method, contact your software publisher or go to [Filing information returns electronically (tax slips and summaries)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+#### Web access code
+
+To file your T3 summary and slips over the Internet using the Internet file transfer or Web Forms service, you will need a web access code (WAC). If you have misplaced or do not have a WAC, go to [Filing information returns electronically (tax slips and summaries)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html) to access the CRA’s web access code online service. If you cannot get your WAC online or would like to change it, call the Business Enquiries line at 1-800-959-5525.
+
+#### Filing on paper
+
+If you file 1 to 5 slips, the CRA strongly encourages you to file over the Internet using Internet file transfer or Web Forms. However, you can still file up to 5 slips on paper.
+
+If you need more paper copies, you can order a maximum of 9 single-page slips at [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+If you choose to file your return on paper, mail it to the following address:
+
+**Jonquière Taxation Centre****T3 Program** PO Box LCD 1300 Jonquière QC G7S 0L5
+
+Fill out **one copy** of the T3 slip for each recipient and send them with your T3 Summary. Enter the information for two different recipients on one sheet. This will let the CRA process your information return faster. You must keep a copy of the T3 slips and the T3 Summary for your files if you file on paper.
+
+#### Filing using computer-printed (customized) forms
+
+For those who fill out a large number of T3 slips, the CRA accepts certain slips other than those from the CRA. For help on how to fill out the slips accurately, consult the guidelines for the production of customized forms at [Customized forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/customized-forms.html) or refer to the current version of Information Circular [IC97 2, *Customized Forms*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic97-2.html).
+
+If you are a mutual fund trust that files T3 slips by Internet, you can combine the income and capital gains from several funds onto one T3 slip for each unit holder. However, when you combine the slips, you have to do all of the following:
+
+- submit a sample of the combined information slip requesting an approval number
+
+**Notes**Send your digital submission in either *.pdf or *.jpg format to customized-hors-series@cra.gc.ca. Send your paper submission to the following address:
+
+**Individual Returns Directorate** Information Returns Filers Services Section 750 Heron Road, 7th floor Ottawa ON K1A 0L5
+
+- prepare the Internet submission of summary forms and slips, which you submit to the CRA at the individual fund level
+
+- write "Combined information slip" clearly on the T3 slip under the recipient's name and address, and provide the unit holders with statements that allow them to reconcile the amounts reported on the combined information slips
+
+- maintain an audit trail so the combined information slips can be verified if the CRA audits these funds later
+
+### Distributing the T3 slip
+
+Send the CRA the T3 slip along with the T3 Summary no later than 90 days after the end of the trust’s tax year end. For more information, read the section [Tax year-end and fiscal period](#P333_37934).
+
+**Do not** staple the summary and slips to the T3 return.
+
+Send two copies of the T3 slip to the beneficiary. You do not have to keep a copy of the T3 slips if you file online. However, when you file online, you have to keep the information from which you prepared the slips in an accessible and readable format.
+
+You can provide recipients with a digital copy of their T3 slips only if the recipient gives you their consent in writing or by email.
+
+If you fail to distribute the T3 slip or any other trust-related information slip to a recipient by the due date, you will be liable for a penalty. For more information, read the section [Penalties and interest](#P430_52301).
+
+### Amending, cancelling, adding, or replacing T3 slips
+
+After filing your T3 slips, you may notice an error on a trust-related slip. If so, you will have to prepare an amended slip to correct the information. Provide copies to the recipient. **Do not** include slips that have no changes.
+
+If you prepare and issue an amended T3 slip after you have filed the original slip with the CRA, you may have to file an amended T3 Summary. If there is a change to the amounts in the boxes shown on the front of the summary, file an amended T3 Summary. If the amended T3 slip affects the amounts shown on the [T3 Trust Income Tax and information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ret.html), or on [Schedule 9, *Income Allocations and Designations to Beneficiaries*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch9.html), **do not** file another T3 return. Instead, send the CRA a filled out [Form T3-ADJ, *T3 Adjustment Request*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3-adj.html), or a letter providing the details of the change. Indicate the tax year you want the CRA to change and send the CRA any supporting documents. Include the trust's account number on the letter.
+
+#### Amending or cancelling T3 slips over the Internet
+
+To amend a T3 slip over the Internet, change only the information that is incorrect and retain all of the remaining information that was originally submitted. Use summary report type code "A" and slip report type code "A."
+
+To cancel a slip, do not change any information that was contained on the original slip. Use summary report type code "A" and slip report type code "C."
+
+For more information about amending or cancelling trust related information slips using the Internet, see [Filing information returns electronically (tax slips and summaries)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+#### Amending or cancelling T3 slips on paper
+
+If you choose to file your amended return on paper, clearly identify the T3 slips as amended or cancelled by writing “AMENDED” or “CANCELLED” at the top of each slip. Make sure you fill in all the necessary boxes, including the information that was correct on the original slip. Send two copies of the slips to the recipient. Send one copy of the amended/cancelled slips to the CRA with a letter explaining the reason for the amendment/cancellation.
+
+If you notice errors on the trust-related slips before you file them with the CRA, you can correct them by preparing new information slips and removing any incorrect copies from the return. If you do not prepare a new slip, initial any changes you make on the slip. Be sure to also correct the T3 Summary.
+
+#### Adding T3 slips
+
+After you file your T3 return, you may discover that you need to send the CRA additional T3 slips. If you have original T3 slips that were not filed with your return, file them separately either online or on paper.
+
+To file additional slips online, read the section [Electronic filing methods](#Flng_mthds).
+
+If you file additional slips on paper, clearly identify the new slips by writing “ADDITIONAL” at the top of each slip. Send one copy of the additional slips to any tax centre. Refer to [Electronic filing methods](#Flng_mthds) for more information on adding slips over the Internet or go to [Filing information returns electronically (tax slips and summaries)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+If the total number of trust-related slips (including any additional slips) you file is more than 5 for the same calendar year, you have to file the additional slips over the Internet.
+
+Any additional trust-related slips that are filed after the due date may result in a penalty. For more information, read the section "[Failure to distribute/file trust-related information slip as required](#failure_to_dist)".
+
+### Recipient identification number
+
+The recipient identification number is one of the following:
+
+- the SIN if the beneficiary is an individual (other than a trust)
+
+- the business number and program account if the beneficiary is a corporation or a partnership
+
+- the trust account number if the beneficiary is a trust
+
+This section explains the special rules and penalties that apply to using SIN, business number and program account and the trust account number.
+
+Trustee – Anyone who prepares an information slip has to make a reasonable effort to get the SIN, business number and program account, or trust account number from the person or partnership who will receive the slip. Unless you make a reasonable effort to get this information, you will be liable to a $100 penalty each time you do not provide the SIN, business number and program account, or trust account number on the information slip. This penalty does not apply if the person or partnership has applied for but has not yet received a SIN, a business number and program account, or trust account number when they file their return.
+
+Beneficiary – Persons or partnerships have to give their SIN, business number and program account, or trust account number on request to anyone who has to prepare an information slip for them.
+
+If the person or partnership does not have a SIN, business number and program account, or trust account number, both of the following rules apply:
+
+- the person or partnership must apply for the number within 15 days of your request (the SIN from any Service Canada Centre, the business number and program account and trust account number from CRA)
+
+- once the person or partnership receives the number, they have 15 days to give it to you
+
+Persons or partnerships who, for any reason, do not comply with these requirements are liable to a penalty of $100 for each failure to give their SIN, business number and program account, or trust account number.
+
+A beneficiary may have applied for but has not yet received a SIN, a business number and program account, or a trust account number, or the beneficiary may refuse to give you the number. In these cases, do not delay filling out the information slip beyond the filing due date. Depending on the type of beneficiary, if you have not received the SIN, business number and program account, or trust account number by the time you prepare the T3 slip, enter the following in box 12:
+
+- beneficiary is an individual (other than a trust) Enter 000000000
+
+- beneficiary is a business (sole proprietor, corporation, or partnership) Enter 000000000RP0000
+
+- beneficiary is a trust Enter T00000000
+
+If you have to prepare an information slip, you, your employees, your officers, or your agents cannot knowingly use, share, or allow a SIN, business number and program account or trust account number to be shared without the person’s or partnership’s written consent, unless required or authorized by law. Any person who does so is guilty of an offence and, if convicted, may have to pay a fine or go to jail, or both.
+
+For more information, see Information Circular[IC82-2R2, *Social Insurance Number Legislation That Relates to the Preparation of Information Slips*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic82-2.html).
+
+### How to fill out the T3 slip
+
+Type or print the information on the slip. **Report all amounts in Canadian dollars**. If an amount was paid in foreign funds at various times throughout the year, to get the applicable rate, go to [Exchange Rates](https://www.bankofcanada.ca/rates/exchange).
+
+If there is a preferred beneficiary election and other income is also allocated to the same beneficiary, fill out one T3 slip for the elected income and a separate slip for all other allocated income.
+
+You can get the information needed to fill out boxes 21 to 57 from [Schedule 9, *Income Allocations and Designations to Beneficiaries*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch9.html).
+
+**Recipient's name and address** – Enter the information in the white area provided. If the payment is to an individual, enter the beneficiary's name. If the payment is to a joint beneficiary, enter both names. If the payment is made to a trust, enter the name of the trust and not the names of the individual beneficiaries of that trust. If the payment is made to an association, organization, or institution, enter that name. Following the beneficiary's name, enter the beneficiary's full address including city and province or territory. Also include the postal code.
+
+**Year** – Enter the applicable tax year at the top of the slip.
+
+**Trust year-end** – Use a four-digit number to indicate the year, and a two-digit number to indicate the month of the trust's tax year-end.
+
+For your convenience, the CRA has put the instructions for the following boxes in numeric order, even though the order on the slip may be different. The high-use boxes appear first, followed by the generic boxes.
+
+#### Box 12 – Recipient identification number
+
+If the beneficiary is an individual (other than a trust), enter the individual’s SIN.
+
+If the beneficiary is a business (sole proprietor, corporation, or partnership), enter the 15 character program account number of the business.
+
+If the beneficiary is a trust, enter the trust account number.
+
+If you do not have the number, read the section titled [Recipient identification number](#P1828_207801). **Do not** leave this box blank.
+
+#### Box 14 – Account number
+
+You have to enter the trust's account number if the CRA has assigned one. **Do not** leave this box blank. For security purposes, **do not** include the trust account number on the copies you provide to the beneficiary.
+
+1 alpha, 8 numeric:
+
+- T3 slip, box 14, example: T00000000
+
+- trust account number assigned by the CRA
+
+- must correspond to the "Trust account number" on the related T3 Summary record
+
+- if you have not been assigned such a number, enter T00000000 in the field.
+
+#### Box 16 – Report code
+
+Enter one of the following codes:
+
+1 alpha
+
+| Code | Type of slip |
+
+| --- | --- |
+
+| **O** | Originals |
+
+| **A** | Amendments |
+
+| **C** | Cancel |
+
+An amended return cannot contain an original T3 slip.
+
+If you use code A or C, read the section [Amending, cancelling, adding, or replacing T3 slips](#mndg_cncllg_addng_rplcng_T3_slps) for more information.
+
+#### Box 18 – Beneficiary code
+
+You have to enter one of the following codes to identify the type of beneficiary (**do not** leave this box blank):
+
+| Code | Type of beneficiary |
+
+| --- | --- |
+
+| **1** | if the beneficiary is an individual (other than a trust) |
+
+| **2** | if the beneficiary is a joint beneficiary |
+
+| **3** | if the beneficiary is a corporation |
+
+| **4** | if the beneficiary is an association, a trust (fiduciary, trustee, or estate), a club, or a partnership |
+
+| **5** | if the beneficiary is a government, a government enterprise, an international organization, a charity, a non-profit organization or other tax-exempt entity, or a deferred income plan that is exempt from tax |
+
+The instructions on the back of the T3 slip indicate that for amounts reported in certain boxes, footnote information must be entered in the footnote area below box 26. If you need more room to include an explanation in this area, prepare a separate statement and attach a copy to each copy of the slip.
+
+#### Box 21 – Capital gains
+
+Enter the result of the beneficiary's share of the amount from line 921 of Schedule 9, multiplied by 2.
+
+If box 21 includes capital gains from foreign property, enter an asterisk (*) beside the amount in box 21. In the footnote area, identify each country, enter "non-business income for foreign tax credit" and the taxable portion of the amount included in box 21 that relates to the disposition of foreign property.
+
+For more information, read [Line 921 – Taxable capital gains](#ln_921).
+
+#### Box 23 – Actual amount of dividends other than eligible dividends
+
+Enter the beneficiary’s share of the amount from line 923 of Schedule 9.
+
+If the beneficiary is an individual or a trust (other than a registered charity), read box 32 and box 39 for more instructions.
+
+#### Box 26 – Other income
+
+Enter the beneficiary's share of the amount from line 926 of Schedule 9. Include amounts such as the following in this box:
+
+- death benefits
+
+- retiring allowances
+
+- pension income other than lump-sum pension benefits already included in box 22
+
+- net rental income
+
+- net business, farming, and fishing income
+
+- interest income
+
+Enter an asterisk (*) beside the amount in box 26 if it includes business, farming, or fishing income from a communal organization. In the footnote area, enter “self employment earnings for CPP purposes,” and indicate the type of income-business, farming, or fishing-and the amount of the beneficiary’s share.
+
+Enter an asterisk (*) beside the amount in box 26 if it includes any net rental income from real or immovable rental property transferred to the trust. In the footnote area, enter “Net rental income” included in “earned income,” and indicate the amount of the beneficiary’s share.
+
+No other footnotes are required for box 26.
+
+#### Box 30 – Capital gains eligible for deduction
+
+Only personal trusts fill out box 30.
+
+Enter the result of the beneficiary's share of the amount from line 930 of Schedule 9, multiplied by 2.
+
+Where the trust has realized in its tax year both taxable capital gains which are eligible for a beneficiary’s capital gains deduction, and taxable capital gains that are not eligible, very generally, the rules ensure that a proportionate share of each of the eligible taxable capital gain, and the non-eligible taxable capital gain is allocated and designated to each beneficiary. Subsection 104(21.2) provides the formulas to determine the amount of eligible taxable capital gains to designate in respect of QFFP and QSBCS. Very generally, the effect of each of these formulas is that the amount designated to a particular beneficiary is equal to the beneficiary’s proportionate share of all the trust’s subsection 104(21) designations for the year to its beneficiaries in respect of its net taxable capital gains for the year, to the extent that the amount so calculated represents eligible taxable capital gains of the trust for the year from the disposition of QFFP or QSBCS (depending on which formula is being applied).
+
+The amount reported in Box 30 relates to the disposition of qualified small business corporation shares (QSBCS) and/or qualified farm or fishing property (QFFP) by the trust in the current year, or from a capital gains reserve claimed by the trust in a prior year.
+
+Where the amount in box 30 includes an amount that relates to a disposition of QFFP or QSBCS by the trust in the current year, enter the amount of capital gains in box 55 or 57 respectively. Please see the instructions related to box 55 or 57
+
+Where the amount in box 30 includes an amount that relates to a capital gain reserve claimed in the trust’s prior tax year and which is brought into the trust’s income in the current year, enter an (*) beside the amount in box 30 and include the following in the footnote area:
+
+- the nature of the capital property disposed of (QSBCS and/or QFFP)
+
+- the amount(s) in box 30 that relates to the trust’s capital gain reserve being included in the trust’s income
+
+- the tax year in which the trust disposed of the relevant capital property. If the disposition occurred in 2024, state whether it occurred before June 25, 2024 or after June 24, 2024.
+
+Where the amount of the capital gains reserve reported in box 30 relates to more than one disposition of QFFP or QSBCS by the trust in prior tax years, provide the above details for each property and year of disposition in the Footnotes.
+
+For more information, read the section [Line 930 – Taxable capital gains eligible for deduction](#P1489_168757).
+
+#### Box 32 – Taxable amount of dividends other than eligible dividends
+
+If the beneficiary is an individual or a trust (other than a registered charity), enter the result of the amount of dividends other than eligible dividends from taxable Canadian corporations reported in box 23, multiplied by 1.15.
+
+Do not include negative amounts when completing box 32 of the T3 slip.
+
+#### Box 39 – Dividend tax credit for dividends other than eligible dividends
+
+If the beneficiary is an individual or a trust (other than a registered charity), enter 9.0301% of the amount in box 32.
+
+#### Box 49 – Actual amount of eligible dividends
+
+Enter the beneficiary's share of the amount from line 949 of Schedule 9.
+
+#### Box 50 – Taxable amount of eligible dividends
+
+If the beneficiary is an individual or a trust (other than a registered charity), enter the result of the amount of eligible dividends from taxable Canadian corporations reported in box 49, multiplied by 1.38.
+
+#### Box 51 – Dividend tax credit for eligible dividends
+
+If the beneficiary is an individual or a trust (other than a registered charity), enter 15.0198% of the amount in box 50.
+
+#### "Other information" area
+
+This area on the T3 slip has boxes for you to enter codes and amounts for less common amounts, such as foreign business income, eligible death benefits, investment tax credits, and others.
+
+The boxes are not pre-numbered as in the top part of the slip. Therefore, enter the codes that apply to the beneficiary.
+
+If more than six codes apply to the same beneficiary, use an additional T3 slip. Do not repeat all the data on the additional slip. Enter only the beneficiary's identification number and name, as well as the trust's name and account number, and fill out the required boxes in the "Other information" area.
+
+Although the CRA’s position at this time is that the CRA will not require the breakdown by country on the T3 slip, nor require the filing of multiple T3 slips, it is your obligation and responsibility to provide the CRA with such information on request. Your records have to provide enough details to identify each foreign country and the amount of business income, in Canadian dollars, from each country.
+
+##### Box 22 – Lump-sum pension income
+
+Enter the beneficiary spouse's or common-law partner's share of the amount from line 922 of Schedule 9.
+
+##### Box 24 – Foreign business income
+
+Enter the beneficiary's share of the amount from line 924 of Schedule 9 (before withholding taxes).
+
+##### Box 25 – Foreign non-business income
+
+Enter the beneficiary's share of the amount from line 925 of Schedule 9 (before withholding taxes).
+
+##### Box 31 – Qualifying pension income
+
+Enter the beneficiary spouse's or common-law partner's share of the amount from line 931 of Schedule 9. This amount is included in box 26.
+
+##### Box 33 – Foreign business income tax paid
+
+Enter the beneficiary's share of the amount from line 933 of Schedule 9.
+
+##### Box 34 – Foreign non-business income tax paid
+
+Enter the beneficiary's share of the amount from line 934 of Schedule 9.
+
+##### Box 35 – Eligible death benefits
+
+Enter the beneficiary's share of the amount from line 935 of Schedule 9. This amount is included in box 26.
+
+For more information, read [Line 935 – Eligible death benefits](#P1502_170818).
+
+##### Box 37 – Insurance segregated fund net capital losses
+
+Enter the result of the beneficiary's share of the amount from line 937 of Schedule 9, multiplied by 2.
+
+##### Box 38 – Part XII.2 tax credit
+
+Enter the beneficiary's share of the amount from line 938 of Schedule 9.
+
+For more information, read the section [Schedule 10 – *Part XII.2 Tax, Part XIII Non-Resident Withholding Tax, and Part II.2 Tax on Repurchases of Equity*](#P1535_175122).
+
+##### Boxes 40, 41 and 43 – Investment tax credit
+
+Effective for 2016 and later years, only a graduated rate estate or a communal organization that is deemed to be an inter vivos trust can fill out boxes 40, 41 and 43.
+
+For each type of property or expenditure made by the trust in the year that is eligible for the investment tax credits (ITC), prepare a separate T3 slip for each designation to beneficiaries.
+
+##### Box 40 – Investment cost or expenditures for investment tax credit
+
+Enter the beneficiary's share of the amount from line 940 of Schedule 9.
+
+##### Box 41 – Investment tax credit
+
+Enter the beneficiary's share of the amount from line 941 of Schedule 9.
+
+For more information, read the section [Lines 940 and 941 – Investment tax credit (ITC)](#P1513_172633).
+
+##### Box 42 – Amount resulting in cost base adjustment
+
+Enter the beneficiary's share of the amount from line 942 of Schedule 9. If this is a negative amount, put it in brackets.
+
+Enter an asterisk (*) beside any amount entered in box 42. In the footnote area, indicate whether the amount should be added to the ACB of the property (for a negative amount), or subtracted from the ACB (for a positive amount).
+
+**Do not** include new units issued to a beneficiary in satisfaction of a distribution of income. Instead, advise the beneficiary that you have issued these units, as well as the number of units and their value.
+
+##### Box 43 – Investment tax credit – Code number
+
+Enter the applicable investment tax credit code number (4B, 12, 6 or 7) and provide a statement to each beneficiary with the following description, as applicable, of the code number:
+
+- **Code 4B** – Qualified expenditures for scientific research and experimental development (SR&ED):
+
+    - Enter the Box 40 amount on line 67120 of [Form T2038(IND), *Investment Tax Credit (Individuals)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2038-ind.html).
+
+- **Code 12** – Qualified property, or qualified resource property acquired after 2013 and before 2017 that is eligible for the transitional relief rate:
+
+    - Enter the Box 40 amount on line 67140 of Form T2038(IND).
+
+    - For more information, go to [Atlantic investment tax credit](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-41200-investment-tax-credit/atlantic-investment-tax-credit.html).
+
+- **Code 12**– Qualified resource property acquired in 2015 that is not eligible for the transitional relief rate:
+
+    - Enter the Box 40 amount on line 6723 of the 2015 version of Form T2038(IND) and file it with your 2016 return.
+
+- **Code 6** – Apprenticeship job creation tax credit:
+
+    - Enter the Box 40 amount on the appropriate line of Part B of Form T2038(IND).
+
+##### Box 45 – Other credits
+
+###### Research and development tax credit
+
+Enter the beneficiary's share of the amount from line 945 of [Schedule 9](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch9.html).
+
+Enter an asterisk (*) beside the amount in box 45. In the footnote area, enter "Newfoundland and Labrador R&D" or "Yukon R&D," whichever applies, and the amount of this credit from box 45.
+
+##### Box 46 – Pension income qualifying for an eligible annuity for a minor
+
+Enter the beneficiary's share of the pension income that is eligible for a transfer to an eligible annuity for certain minors, from line 946 of Schedule 9 (also included in box 26).
+
+##### Box 47 – Retiring allowance qualifying for transfer to an RPP or RRSP
+
+Enter the beneficiary's share of the retiring allowance, which qualifies for a transfer to a registered pension plan or registered retirement savings plan, from line 947 of [Schedule 9](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch9.html) (also included in box 26).
+
+##### Box 48 – Eligible amount of charitable donations
+
+Enter the beneficiary's share of the charitable donations or gifts of a communal organization, from line 948 of Schedule 9. For more information, see [Information Circular IC78-5R3, Communal Organizations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-5/communal-organizations.html).
+
+##### Box 55 – Capital gains eligible for deduction from dispositions of QFFP
+
+Report the beneficiary’s share of line 930-1B from Schedule 9, multiplied by 2.
+
+Enter an (*) beside the amount in box 55 and in the footnote area indicate (i) the portion of the amount in box 55 that relates to dispositions of QFFP before June 25, 2024 and (ii) the portion that relates to dispositions after June 24, 2024 (including any dispositions in 2025).
+
+This is necessary to support the proposed increase to the lifetime capital gains exemption (LCGE) limit to $1.25 million, effective June 25, 2024, which is available to individuals.
+
+##### Box 57 – Capital gains eligible for deduction from dispositions of QSBCS
+
+Report the beneficiary’s share of line 930-2B from Schedule 9, multiplied by 2.
+
+Enter an (*) beside the amount in box 57 and in the footnote area indicate (i) the portion of the amount in box 57 that relates to dispositions of QSBCS before June 25, 2024 and (ii) the portion that relates to dispositions after June 24, 2024 (including any dispositions in 2025).
+
+This is necessary to support the proposed increase to the lifetime capital gains exemption (LCGE) limit to $1.25 million, effective June 25, 2024, which is available to individuals.
+
+## Appendix A
+
+### T3 slip
+
+### T3 Summary
+
+## Related information
+
+### My Trust Account
+
+My Trust Account allows you to view and update Trust account information including address, direct deposit, and authorized representatives. Find out how to register at [About My Trust Account](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client/help-trust-account/about-trust-account.html).
+
+### Access to the trust account
+
+If you want online access to the T3 trust account, and to learn more about our online services, go to [About My Trust Account](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client/help-trust-account/about-trust-account.html).
+
+With offline access to the T3 trust account, you can request information in writing by sending a letter to your tax centre at the address listed under "[If the trustee's address is located in:](#if_the_trust)". Otherwise, information can be requested by phone as indicated on the guide.
+
+### Receive your CRA mail online
+
+Set your correspondence preference to “Electronic mail” to receive email notifications when CRA mail, like your notice of assessment, is available in your account.
+
+For more information, go to [Email notifications from the CRA – Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/online-mail-helping-you-organize-your-canada-revenue-agency-mail.html).
+
+### Submit and file documents online related to T3
+
+Trust administrators and tax preparers can submit documents online related to the T3 return for residents and non-residents. Sending documents through the [Submit documents online](https://www.canada.ca/en/revenue-agency/services/e-services/submit-documents-online.html) service is secure, reliable, easy, and more efficient.
+
+#### Documents you can submit online
+
+The following documents can be submitted online for estates and trusts:
+
+- [Form T3-ADJ, *T3 Adjustment Request*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3-adj.html)
+
+- Supporting documentation requested within the current year T3 return, including
+
+    - Trust agreement
+
+    - Schedule of Assets
+
+    - Details of asset distributions to beneficiaries
+
+    - Changes to beneficiaries
+
+    - Details of non-arm’s length loans from or to beneficiaries and other parties
+
+    - Details on private corporation shares held by the trust
+
+    - Details on property contributions
+
+- All supporting documents the CRA asks for to fill out the T3 tax assessment or reassessment.
+
+#### How to submit your document(s) online
+
+To submit documents online related to the T3 return through the CRA’s secure portal, go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+#### After you submit your document(s)
+
+After submitting documents, a confirmation page will display a confirmation number, as well as a case or reference number for future communication regarding the documents.
+
+Please note that the CRA scans all documents submitted online for malware and viruses according to the CRA’s and Shared Services Canada policies and standards.
+
+If your documents are valid and contain no virus or malware, they will be sent to the appropriate area in charge of assessing T3 returns.
+
+#### Supporting documents
+
+You must send the following documents if they apply to the T3 return you filed online:
+
+- elections
+
+- designations
+
+- agreements
+
+- waivers
+
+- special elective returns (and any supporting documents)
+
+- Form T1135, Foreign Income Verification Statement
+
+Except Form T1135, you must send these documents to the tax centre serving the area the trustee resides in. You can send Form T1135 to the tax centre shown on that form. For more information, go to [How to file a T3 return](https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/t3-return/how-file-t3-return.html).
+
+Keep all supporting documents, such as books, records, forms, schedules, and receipts, you used to prepare a return for six years from the end of the related tax year.
+
+#### Reference or case numbers
+
+You can submit documents electronically without a reference or case number. The "Submit documents" service will ask you, from a picklist, to choose the reason you are sending them.
+
+If you want to send other documents related to the original submission, you will need to use the reference or case number you received after your initial submission.
+
+### Documents you can file through EFILE
+
+- [T3RET, *T3 Trust Income Tax and Information Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ret.html)
+
+- [T3ATH-IND, *Amateur Athlete Trust Income Tax Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ath-ind.html)
+
+- [T3M, *Environmental Trust Income Tax Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3m.html)
+
+- [T3S, *Supplementary Unemployment Benefit Plan Income Tax Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3s.html)
+
+- [T3D, *Income Tax Return for Deferred Profit Sharing Plan (DPSP) or Revoked DPSP*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3d.html)
+
+- [T3P, *Employees’ Pension Plan Income Tax Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3p.html)
+
+- [T3RI, *Registered Investment Income Tax Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ri.html)
+
+- [T3GR, *Group Income Tax and Information Return for RRSP, RRIF, RESP, or RDSP Trusts*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3gr.html)
+
+- [T1061, *Canadian Amateur Athletic Trust Group Information Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1061.html)
+
+- [T3PRP, *T3 Pooled Registered Pension Plan Tax Return*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3prp.html)
+
+- [T2000, *Calculation of Tax on Agreements to Acquire Shares (Section 207.1(5) of the Income Tax Act)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2000.html)
+
+- [Section 216 Returns](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1159.html)
+
+### Documents you can file online
+
+You can use the CRA's secure Internet File Transfer service to send the following forms in XML format:
+
+- [T3SUM, *Summary of Trust Income Allocations and Designations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sum.html)
+
+- [T3, *Statement of Trust Income Allocations and Designations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3.html)
+
+For more information, go to [Submit documents online](https://www.canada.ca/en/revenue-agency/services/e-services/submit-documents-online.html).
+
+## Index
+
+| Topic | [Income Tax Act](https://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html) reference |
+
+| --- | --- |
+
+| [Actual amount of dividends from taxable Canadian corporations](#P557_67484) | 82(1), 260(5) |
+
+| [Adjusted cost base](#P1031_110276) | 53, 54 |
+
+| [Allocations and designations](#P1282_144623) | 104(6), (13), (19), (20), (21), (21.2), (22), (22.1), (27), (27.1), (28) |
+
+| [Allowable business investment losses (ABIL)](#P637_77619) | 38(c), 39(1)(c), 39(10), 50(1) |
+
+| [Allowable federal political contribution tax credit](#P1712_196456) | 127(3) |
+
+| [Alter ego trust](#P223_20876) | 104(4)(a), 248(1) |
+
+| [Amount resulting in cost base adjustment](#P1518_173531) | 53(1), (2) |
+
+| [Amending, cancelling, adding, or replacing trust related information slips](#mndg_cncllg_addng_rplcng_T3_slps) |  |
+
+| [Arm's length transaction](#P121_8728) | 251(1) |
+
+| [Bonds](#P1072_117352) [British Columbia clean buildings tax credit](#british_col_clean) |  |
+
+| [British Columbia mining exploration tax credit](#P877_93902) |  |
+
+| [Canadian cultural property](#P996_106784) | 39(1)(a)(i.1), 118.1(10) |
+
+| [Capital dispositions](#P980_104363) |  |
+
+| [Capital gains](#P536_64986) | 3, 38, 38.1, 39, 40, 138.1(3) |
+
+| [Capital gains deduction](#P1489_168757) | 110.6 |
+
+| [Capital gains refund](#P873_93481) | 132 |
+
+| [Carrying charges and interest expenses](#P626_75803) | 20(1)(c), (bb), 20(2.1) |
+
+| [Clearance certificate](#P471_58442) | 159(2), (3) |
+
+| [Communal organization](#P247_25274) | 143 |
+
+| [Completing the NR4 return](#P1641_187328) |  |
+
+| [Crown royalties](#P610_73565) |  |
+
+| [Death benefits](#P1502_170818) | 104(28), 248(1) |
+
+| [Deemed disposition](#P1134_126664) | 104(4), (5), (5.1), (5.2) |
+
+| [Deemed resident trust](#P240_23830) | 94(1), 94(3) |
+
+| [Definitions](#definitions)[Administrator](#P115_7899) [Allocate, allocation](#allocation_1) [Arm's length transaction](#P121_8728) [Beneficiary](#P126_9417) [Controlling person](#controlling_persons) [Common-law partner](#P127_9609) [Contribution of property](#P134_10875) [Deemed disposition](#P137_11214) [Designate, designation](#P138_11389) [Distribute, distribution](#P139_11755) [Executor](#P142_12124) [Exempt property](#P143_12282) [Gift](#P144_12506) [Liquidator](#P149_13755) [Preferred beneficiary](#P150_14048) [Principal residence](#Principal_residence) [Settlor](#settlor_1) [Spouse](#P167_15782) [Testator](#testator_1) [Trust](#P169_15906) [Trustee](#P177_16282) [Vested interest](#P178_16550) [Will](#P179_16673) |  |
+
+| [Designated beneficiary](#P1560_177721) | 210 |
+
+| [Distributing the T3 slip](#dstbtng_T3_slps) |  |
+
+| [Distribution of property to beneficiaries](#P924_99312) | 107(2), (2.1), (2.2), (4) |
+
+| [Dividend income](#lines1to3) | 82(1), 104(19) |
+
+| [Dividends, gross-up](#ln_31) | 82(1)(b) |
+
+| [Dividends, non-taxable received by a trust](#ntdrbt) | 53(2), 83(2), 104(20) |
+
+| [Donations and gifts](#Schdl_11A_Donations_gifts_tax_credit_calculation) | 104(6), 118.1, 143(3.1) |
+
+| [Election - 164(6)](#P944_101340) |  |
+
+| [Election - 164(6.1)](#P952_102595) |  |
+
+| [Election to defer payment of tax (Form T2223)](#P1174_133162) | 159(6.1), (7) |
+
+| [Elections (late or amended)](#P461_57378) | 220(3.2), Reg. 600 |
+
+| [Eligible beneficiary](#P1574_179732) |  |
+
+| [Employee benefit plan](#P265_26920) | 6(1)(g), 6(10), 12(1)(n.1), 18(1)(o), 32.1, 104(6), 248(1) |
+
+| [Employee life and health trust](#mply_lf_htlh_ins) | 144.1(2) |
+
+| [Employee ownership trust](#employeot) | 248(1) |
+
+| [Employee trust](#P277_29246) | 6(1)(h), 104(6), 248(1) |
+
+| [Exemption from Form T1055 deemed dispositions](#P1161_131501) | 108(1) |
+
+| [Excessive interest and financing expenses](#t3sch130) | 18.2, 18.21 |
+
+| [Farming and fishing losses](#fafl) | 31, 111(1)(c), (d), 111(8) |
+
+| [Farming income](#P567_68663) |  |
+
+| [Federal dividend tax credit](#P1656_189070) | 121 |
+
+| [Federal foreign tax credit](#P1700_194628) | 20(11), (12), 126 |
+
+| [Federal income tax](#P1645_188131) |  |
+
+| [Federal political contribution tax credit](#P1712_196456) | 127(3) |
+
+| [Final return](#fin_rtrn) |  |
+
+| [Fishing income](#P567_68663) |  |
+
+| Fixed interest commercial trust | 18.2(1) |
+
+| [Foreign investment income](#P559_67890) |  |
+
+| [Foreign non-business income tax paid](#P1498_170071) | 104(22.1), 126(1)(a) |
+
+| [Foreign property – Reporting requirements](#P511_62478) |  |
+
+| [Graduated rate estate (GRE)](#GRE) | 248(1) |
+
+| [Gross-up amount of dividends](#ln_31) | 82(1)(b) |
+
+| [How to file the T3 slip and summary](#P381_44801) |  |
+
+| [How to register a formal dispute](#rgstr_frml_dspt) | 165(1) |
+
+| [Identification and other required information](#P482_59573) |  |
+
+| [Income paid or payable to non-resident beneficiaries](#P1445_162661) | 104(13), 212(1)(c) |
+
+| [Income paid or payable to resident beneficiaries](#P1439_162075) |  |
+
+| [Income to be taxed in the trust](#P1337_152332) |  |
+
+| [Insurance segregated fund trust](#srnc_sgrgtd_fnd_trst) | 138.1 |
+
+| [Inter vivos trust](#P195_19049) | 108(1), 122 |
+
+| [Interest](#P440_54391) | 161, 164(3), 248(11), Reg. 4300, 4301, 4302 |
+
+| [International financial reporting standards](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/international-financial-reporting-standards-ifrs.html) |  |
+
+| [Investment income](#P1224_135689) |  |
+
+| [Investment tax credit (ITC)](#P1513_172633) | 13(7.1), 37(1), 127(5), (12.3) |
+
+| [Investment tax credit – designated](#P1513_172633) | 127(7) |
+
+| [Joint spousal or common-law partner trust](#jnt_spsl_cmmnlw_prtnr_trst) | 104(4)(a), 248(1) |
+
+| [Listed personal property (LPP)](#lppl) | 41, 54 |
+
+| [Loss carry-back, request](#P845_88724) |  |
+
+| [Loss restriction event](#lss_trdng_rls_trsts) | 251.2(2) |
+
+| [Lump-sum pension income](#P1475_166615) | 60(j), 104(27), (27.1) |
+
+| [Master trust](#P291_31808) | 149(1)(o.4), Reg. 4802(1.1) |
+
+| [Minimum tax](#P1788_202398) | 120.2, 127.5 to 127.55 |
+
+| [Mutual fund trust](#P263_26721) | 132(6), (6.1), (7), Reg. 4801, 4803 |
+
+| [Mutual fund units and other shares](#P1069_116857) | 248(1) |
+
+| [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) |  |
+
+| [Net capital losses of other years](#P838_87601) | 3, 38, 39, 104(21), 111(1)(b), 111(8) |
+
+| [Newfoundland and Labrador research and development tax credit](#P877_93902) |  |
+
+| [Non-capital losses of other years](#P830_86460) | 111(1)(a), 111(8) |
+
+| [Non-profit organization](#P282_30441) | 149(1)(l), 149(5), (12) |
+
+| [Non-resident beneficiary](#P1445_162661) |  |
+
+| [Non-resident tax payable](#P1617_183656) | 212(1)(c) |
+
+| [Non-resident trusts](#nr_dr) |  |
+
+| [Non-resident withholding tax - Part XIII](#P1607_182178) | 212 |
+
+| [Other credits](#P877_93902) |  |
+
+| [Other income](#P610_73565) |  |
+
+| [Other investment income](#line05) |  |
+
+| [Other required information](#P526_63704) |  |
+
+| [Outlays and expenses](#P1038_112327) | 40(1) |
+
+| [Part XII.2 tax](#P1539_175965) | 210 to 210.3 |
+
+| [Part XII.2 tax credit](#P875_93728) | 210.2(3), (4) |
+
+| [Part XIII tax](#P1607_182178) | 212 to 217 |
+
+| [Penalties](#P430_52301) | 162(1), (2), (7), (7.01), 163(1), 163.2(4), 238(1) |
+
+| [Pension income (benefits)](#ln_02_pnsn_ncm) | 56(1)(a)(i), 147(10) |
+
+| [Personal trust](#P217_20464) | 248(1) |
+
+| [Personal-use property](#P1078_118393) | 40(2)(g)(iii), 46, 54 |
+
+| [Political contribution tax credit (federal)](#P1712_196456) | 127(3) |
+
+| [Preferred beneficiary election](#P1449_163488) | 104(12), (14), (15), 108(1), Reg. 2800 |
+
+| [Principal residence](#Principal_residence) | 40(2)(c), (4), 54, 107(2.01) |
+
+| [Proceeds of disposition](#P998_107105) | 54, 107(2), (4) |
+
+| [Property acquired before 1972](#P1036_111844) | 40(1), ITAR 24, 26(3), 26(7) |
+
+| [Qualified disability trust (QDT)](#QDT) | 122(2) |
+
+| [Qualified farm or fishing property (QFFP)](#P1043_112923) | 110.6(1), (14) |
+
+| [Qualified small business corporation shares (QSBCS)](#P1043_112923) | 110.6(1), (14) |
+
+| [Qualifying environmental trust](#qlfy_nvrnmntl_trst) | 211.6(1) |
+
+| [Qualifying pension income](#P1923_217936) | 104(27), 118(7) |
+
+| [Real estate and depreciable property](#P1075_118009) | 13(21), ITAR 20(1) |
+
+| [Reassessments](#P451_55383) | 152(3.1), (4), (4.1), (4.2), 244(14), (15) |
+
+| [Recipient identification number](#P1828_207801) | 162(5), (6), 237, 239(2.3) |
+
+| [Refundable Part XII.2 tax credit](#P1539_175965) |  |
+
+| [Refundable Quebec abatement](#P1780_201531) | 120(2) |
+
+| [Registered disability savings plan (RDSP) trust](#registered_rdsp) |  |
+
+| [Registered retirement savings plans (RRSP)](#rrsp) |  |
+
+| [Rental income](#P567_68663) |  |
+
+| [Reserves on dispositions of capital property](#line15_cap) | 40(1)(a)(iii) |
+
+| [Residence of trust](#restrust) |  |
+
+| [Restricted interest and financing expenses](#restrust) | 111(1)(a.1) |
+
+| [Retirement compensation arrangement (RCA)](#RCA) | 248(1) |
+
+| [Royalties](#P610_73565) | 12(1)(o) |
+
+| [RRSP, RRIF, or RESP trusts](#RRSP_RRIF_RESP_trst) |  |
+
+| [Salary deferral arrangement](#P270_27755) | 6(1)(a), (i), 6(11), (12), 248(1) |
+
+| [Schedule 1 – Dispositions of Capital Property](#P908_97861) |  |
+
+| [Schedule 8 – Investment Income, Carrying Charges, and Gross-up Amount of Dividends Retained by the Trust](#P1224_135689) |  |
+
+| [Schedule 9 – Income Allocations and Designations to Beneficiaries](#P1280_144279) | 104(13), (14), 108(1), 212(1)(c), Reg. 2800 |
+
+| [Schedule 10 – Part XII.2 Tax, Part XIII Non-Resident Withholding Tax, and Part II.2 Tax on Repurchases of Equity](#P1535_175122) |  |
+
+| [Schedule 11 – Federal Income Tax](#P1645_188131) |  |
+
+| [Schedule 12 – Minimum Tax](#P1788_202398) [Schedule 15 – Beneficial Ownership Information of a Trust](#schedule_15) |  |
+
+| [Schedule 130 – Excessive Interest and Financing Expenses Limitation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3sch130.html) | 18.2, 18.2(18), 18.21, 111(1)(a.1), and 111(8) |
+
+| [Security options deduction](#P952_102595) | 164(6.1) |
+
+| [Specified income](#P1576_180279) | 210.2(2) |
+
+| [Specified investment flow-through (SIFT) trust](#SIFT) |  |
+
+| [Specified trust](#P229_21404) | 108(1) |
+
+| [Split income](#P412_50234) | 120.4 |
+
+| [Spousal or common-law partner trust](#spsl_cmmn_lw_prtnr_trst) | 104(4)(a), 108(1) |
+
+| [Summary of deemed dispositions (Form T1055)](#P1133_126622) | 104(4), (5), (5.1), (5.2) |
+
+| [Surtax on income not subject to provincial or territorial tax](#P1696_193916) | 120(1) |
+
+| [T3 slip (completing and distributing)](#P1843_210216) |  |
+
+| [Tax paid by instalments](#line85) |  |
+
+| [Taxable capital gains](#P536_64986) | 3, 38, 39, 40(1), 104(21), (21.3) |
+
+| [Taxable capital gains eligible for deduction](#P1489_168757) | 104(21), (21.1), (21.2), 110.6 |
+
+| [Tax-free savings account (TFSA) trust](#tfsa) | 146.2(5), 248(1) |
+
+| [Tax year](#P333_37934) | 104(23), 248, 249(1)(b) |
+
+| [Testamentary trust](#P186_17269) | 73, 108(1), 248(8), (9.1) |
+
+| [Total capital losses transferred under](#P1120_124330) | 164(6) |
+
+| [Total income allocations and designations to beneficiaries](#P818_84490) |  |
+
+| [Transfer and loans of property](#trnsfrs_lns_prprt) | 56(4.1) to (4.3), 74.1(1), (2), 74.2, 74.3, 74.5, 248(25), 251, 252 |
+
+| [Transfer of trust property to another trust](#P1176_133661) | 104(5.8) |
+
+| [Trustee fees](#P628_75964) | 9(1), 20(1)(bb) |
+
+| [Types of trusts](#P1302_146510) |  |
+
+| [Unit trust](#P245_25030) | 108(2) |
+
+| [Upkeep, maintenance, taxes – Beneficiary](#P658_80781) | 105(2) |
+
+| [Value of other benefits to a beneficiary](#P811_83598) [Yukon business carbon price rebate](#yukon_business) [Yukon mining carbon price rebate](#yukon_mining) | 105(1) |
+
+| [Yukon research and development tax credit](#P877_93902) |  |

@@ -1,0 +1,221 @@
+Title: Webinar – Accessing CRA's online services
+Source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/charities-video-gallery/webinar-accessing-cra-online-services.html
+Corpus path: corpus/cra/multimedia/charities-video-gallery/webinar-accessing-cra-online-services.md
+Document type: video_transcript
+Last modified: 2026-03-18
+
+# Webinar – Accessing CRA's online services
+
+## Transcript
+### Slide 3 – Accessing CRA's online services for registered charities and other qualified donees
+Dylan: "Let me welcome you to the Canada Revenue Agency's webinar on accessing CRA's online services for registered charities and other qualified donees.
+Thank you for taking the time to join us today.
+My name is Dylan and I'll be your host for today's talk."
+### Slide 4 - Objective
+Dylan: "The purpose of today's presentation is to familiarize you with the CRA's online services registration process.
+Using your CRA account is a fast, easy, and secure way to access and update your account information online, such as filing your annual information returns, obtaining tax information, reviewing communications from CRA, and so on.
+We hope you find this presentation useful. However, if at any point during the registration process you need help, please don't hesitate to contact our Charities client service team at 1-800-267-2384."
+[Person writing on a tablet with a stylus]
+### Slide 5 – Overview
+Dylan: "Our presentation today will be split into 3 parts.
+In Part 1, we'll show you how to sign up for CRA's online services. In Part 2, we'll learn how charities can access online services. And finally in Part 3, we'll show you how to maintain your account."
+[Person typing on a laptop]
+### Slide 6 – What you can do as a charity online
+Dylan: "Once you've signed up for a CRA account, your organization can complete the following tasks online:
+- Apply to become a registered charity or a registered Canadian amateur athletic association
+- File the T3010 annual information return
+- Update your organization's information
+- Submit general enquiries"
+### Slide 7 – How to register
+Dylan: "Here are the different steps you'll need to follow to register a CRA account for charities:
+- To get started you must register for a CRA account.
+- You'll then need to determine if you need to register for a business number and charity account. Many organizations may already have a business number or charity account. Do not register for another business number or charity account if youalready have them.
+- And lastly, you'll need to add your business number and charity account to your CRA account. We'll go through this in more detail in the following slides."
+### Slide 8 – Part 1: Sign up for CRA's online services
+Dylan: "To start with, we'll show you how to sign up for CRA's online services."
+### Slide 9 – Decide if you need to register for a CRA account
+Dylan: "To begin with, you'll need to decide if you need to register for a CRA account.
+If you have already registered for My Account, My Business Account or Represent a Client using a CRA user ID and password or a Sign-In Partner, use that account. You would use the same sign-in information you already registered with to access your CRA account.
+If you lost access to your CRA account, going through the registration process again may help you get your access back.
+If you have forgotten your CRA user ID or password, you can go to [Lost or forgotten CRA user ID or password](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services/cra-userid-password.html) to recover them.
+You also have the option to change the option you sign in with. For example:
+- If you registered with a provincial partner, you can also create a CRA user ID and password or use a Sign-In Partner.
+- If you registered with a CRA user ID and password, you can sign in with your CRA user and ID password and [revoke your credential](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services/cra-userid-password.html) so you can register with a different sign-in option or create a new CRA user ID and password.
+- If you registered with a Sign-In Partner, you can sign in with your current Sign-In Partner and [switch to a different Sign-In Partner](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services/sign-in-partners.html)."
+### Slide 10 – What you need if you don't have a CRA account
+Dylan: "To start your registration process, you'll begin by gathering your documents.
+When you register with a CRA user ID and password or a Sign-In Partner, you will need all of the following:
+- Your date of birth
+- Your social insurance number (or SIN)
+- Amounts you reported on your most recent tax return
+If you want immediate access to your CRA account, you will need to verify your identity using a mobile device with a camera and an accepted piece of ID. You can use any of the following to get immediate access to your CRA account:
+- Your Canadian passport
+- Your Canadian driver's license
+- Your provincial or territorial photo ID card
+This is one of two options, and we'll go over this in more depth later in the presentation."
+### Slide 11 – The social insurance number (SIN)
+Dylan: "The reason the CRA uses your social insurance number is because it's one of the most unique identifiers an individual can have. And, it's necessary for working in Canada and for accessing various government services and programs."
+[Arrow pointing to Employment]
+[Arrow pointing to Government services]
+Dylan: "When you sign up for your CRA account, whether it's to file your personal income tax return or to access your charity account, your social insurance number is how we're able to confirm your identity. In this process, we only use your social insurance number to confirm your identity."
+[Arrow pointing to Taxes]
+### Slide 12 – SIN and online security
+Dylan: "We recognize that the internet is an open and public network. Because our online services involve confidential data, including your social insurance number, the CRA has a number of extra safeguards in place to ensure the safety and integrity of the information.
+This includes:
+- specially configured computer web servers
+- firewalls to protect our servers from unauthorized access
+- offline systems – used to store personal information – that are not directly accessible from the internet
+- high security standards of encryption
+For more information, you can visit our page [Access digital services safely](https://www.canada.ca/en/revenue-agency/corporate/access-online-services-safely.html), and review our full [Privacy Statement](https://www.canada.ca/en/revenue-agency/corporate/privacy-notice.html) by clicking these links in the PowerPoint presentation that was sent to you."
+### Slide 13 – Choose a sign-in option to register with
+Dylan: "It is now time for you to choose a sign-in option to register with. The option you register with will be the same option you use each time you sign in.
+Start by going to Register for a CRA account."
+[Arrow pointing to Register for a CRA account]
+Dylan: "From there, you can register with one of the following options:
+- CRA user ID and password
+- Sign-in partner
+- Provincial partner
+The CRA user ID and password option lets you create a username and password that you use with your CRA account.
+The Sign-in partner option lets you use the same banking sign-in information you use with other online financial accounts. You must already have an online account with one of our [Sign-In Partners](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/register-cra-sign-in-services.html).
+As for the provincial partner, if you already have an Alberta.ca account or a BC Services Card, you can use them to access your CRA account. This service is only available for Alberta and BC at this time."
+### Slide 14 – CRA user ID and password (1/3)
+Dylan: "If you choose to register in with a CRA user and ID password, you will be asked to validate your identity. Start by entering your social insurance number. Then, add the required information related to your identity."
+### Slide 15 – CRA user ID and password (2/3)
+Dylan: "Please note that in order for the system to match the tax information you're asked to enter, you must have filed your personal income tax and benefit returns in the last two years."
+### Slide 16 – CRA user ID and password (3/3)
+Dylan: "It is now time to create your CRA user ID and password. You can make your CRA user ID whatever you want it to be, as long as it follows the rules outlined in the user ID checklist:
+- it must be 8 to 16 characters long
+- you can't use more than 7 digits
+- there must be no spaces
+- no special characters except periods, dashes, underscores, and apostrophes
+Please ensure that you're able to remember your CRA user ID once it's been created.
+Next, on the same screen, you'll create your password.
+The password you create must also follow a set of rules:
+- it must be at least 8 characters long, and no more than 64 characters
+- you must use at least 1 upper-case letter and at least 1 lower-case letter
+- you must use at least 1 digit
+- there can be no spaces
+- no accented characters
+- no special characters except, periods, dashes, underscores, and apostrophes
+- no more than 4 consecutive identical characters
+You'll re-enter your chosen password to confirm. Both entries must match before you can continue. As with your user ID, please ensure that you are able to remember the password you create.
+Once you have identified a user ID and a password, you will be asked to create security questions and answers and then asked to review them."
+### Slide 17 – Security questions (1/2)
+Dylan: "Now that you've created your CRA user ID and password, it's time to create a series of security questions. These questions add an extra layer of security and will aid you in recovering your CRA user ID or password, should you ever forget them.
+You'll need to create a total of 5 questions and answers.
+You'll choose your question from the list provided in the dropdown menu.
+The questions and the answers you provide should be easy for you to remember, but hard for others to guess."
+### Slide 18 – Security questions (2/2)
+Dylan: "And finally, on the following page, you can review your questions and answers. If you're happy with them, click "next". If you'd like to change something, click "manage security questions."
+### Slide 19 – Terms and conditions of use
+Dylan: "At this point, you've completed the bulk of the registration process. But there are a few remaining important items to cover.
+First, you'll be presented with the Terms and conditions for use of the CRA user ID and password. To confirm your agreement with these terms and conditions, you'll enter the user ID and password that you've just created.
+Please take the time to read these terms and conditions before confirming."
+### Slide 20 – Multi-factor authentication
+Dylan: "As you proceed through the CRA account registration process, you will be prompted to set up multi-factor authentication, an added security feature that makes it even more difficult for someone else to access your account.
+You will be shown a multi-factor authentication page based on whether or not you are enrolled for multi-factor authentication, and the options that you have.
+Select one of the options offered to you and follow the steps to complete the multi-factor authentication.
+We will talk about this in more detail in a few minutes."
+### Slide 21 – Sign-in partner
+Dylan: "If you decide to sign-in using a sign-in partner, you will be directed to this page.
+Using a sign-in partner allows you to use your already existing sign-in credentials from one of the following financial institutions.
+Please note that your banking information and the identity of your financial institution are not shared with the Government of Canada. None of your personal tax information will be shared with your financial institution.
+To continue, click on one of the icons. Be sure to choose an institution that you already have an online account with.
+Once you choose the icon for your institution, you'll be brought to the institution's own sign-in page. Simply enter your sign-in information and login. If all the information entered is correct, you will be returned to the CRA website to continue with the multi-factor authentication."
+### Slide 22 – Provincial partner (AB, BC)
+Dylan: "In the event that you opt to use the provincial partner sign-in option, you must have an account with one of our provincial partners:
+- Alberta.ca Account
+- BC Services Card
+The first time you sign in, you will need to enter your social insurance number to verify your identity. You will not need to use the document verification service or a CRA security code to verify your identity. You can register with your provincial partner even if you have not filed your taxes in the last 2 years.
+Similarly to the sign-in partners, once you choose your provincial partner, you'll be brought to the institution's own sign-in page. Simply enter your sign-in information and login. If you use a BC Services card, you will not be required to enroll in multi-factor authentication. If you sign-in with an Alberta.ca Account, you will be returned to the CRA website to continue with the multi-factor authentication."
+### Slide 23 – Enroll in multi-factor authentication
+Dylan: "To sign in to your CRA account, you will be required to enter a one-time passcode in addition to your password.
+Here are the 3 options to choose from to get your one-time passcode:
+- With an authenticator app
+- By phone
+- With a passcode grid
+With an authenticator app:
+- You can use a third-party authenticator app to generate your time-based one-time passcode.
+- When prompted, use the app downloaded on your mobile or desktop device to either scan a QR code or manually enter the setup key provided by the CRA. The app can then be used to generate your one-time passcode.
+By phone:
+- You will need to provide at least one cell phone or landline number so we can send you a one-time passcode by phone. You must enter this number to access your CRA account.
+With a passcode grid:
+- The passcode grid consists of a table with numbered rows and lettered columns, similar to a Bingo card, which you will use to verify your identity when accessing CRA's online services.
+- The system will generate a unique passcode grid that you will need to save or print. You will use this grid every time you access your CRA account.
+- Your passcode grid will expire after 18 months. Make sure you sign in and generate a new one before the expiry date."
+### Slide 24 – Verify your identity
+Dylan: "As an extra security measure, you must verify your identity to complete your registration. This is done to ensure the safety of your tax information. For representatives using Represent a Client, this is done to ensure the safety of your clients' tax information.
+You can verify your identity either by using the document verification service or with a CRA security code. Once your identity is verified, you will have full access to your CRA account.
+You can use the document verification service to verify your identity without waiting for a CRA security code, giving you full and immediate access to your CRA account. Use a mobile device to take a real-time picture of yourself and an accepted government-issued photo identification document.
+To be eligible to use this service, you must meet all of the following criteria:
+- Be 16 years of age or older
+- Have an accepted government-issued photo identification
+- Have a mobile device with a working camera
+If you are not able to use the document verification service, you can still verify your identity with a CRA security code that will be mailed to you. When you request a CRA security code, you will have to enter the postal code or ZIP code of your current mailing address. If your postal code doesn't match what we have on file, you will have to [contact us](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html) to update your address.
+We will mail your CRA security code within 10 business days to the physical address we have on file. The CRA security code comes with an expiry date. Follow the instructions before the code expires, or you will have to request a new security code to be sent to you. Once you get your CRA security code, [sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) and enter your CRA security code when prompted."
+(link on slide: [Make sure your address is up to date](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/change-your-address.html))
+### Slide 25 – Add business, representative, and other accounts
+Dylan: "And lastly, once you have registered for your CRA account, you can sign in to add business, representative, or certain other accounts you have to your Welcome page. You will access all of them using the same sign-in.
+If you would like to access someone else's tax information through your business, you must register your business in Represent a Client and then request authorization with a business number.
+Once you've registered for Represent a Client, you must request and receive authorization to access a client's information. Once you are authorized, you can access and manage information on behalf of individuals, including friends and family members, businesses, or trusts."
+### Slide 26 – Part 2: How to access online services for charities
+Dylan: "This brings us to part 2 of the presentation, where we'll learn how charities can access online services."
+### Slide 27 – What you need to get started
+Dylan: "To use our online services, your organization must already have:
+- a business number: which is a nine-digit federal taxpayer registration number that identifies your organization. It is unique to your organization and stays the same no matter how many or what type of CRA accounts you have."
+[Arrow pointing to Business number]
+- Dylan: "a charity account: RR is the program identifier for registered charities. It identifies your charity account. The four-digit reference number is attached to your business number."
+[Arrow pointing to Reference number]
+Dylan: "Your organization needs a business number and an associated charity program account to access your charity information in your CRA account. If you need assistance in obtaining a business number or RR account, please contact our Charities client service team at 1-800-267-2384."
+### Slide 28 – Add your BN and RR account to your CRA account (1/3)
+Dylan: "Once you have your business number, you will need to add it to your CRA account to access charity services and information. Your RR account is associated with your business number and will be included when you add your business number.
+To add your business number to your CRA account, you'll need to start by signing in to your CRA account. Once you're in, from the welcome page, you'll select "Add account.""
+[Arrow pointing to Add account]
+### Slide 29 – Add your BN and RR account to your CRA account (2/3)
+Dylan: "From there, you'll select "Business account""
+[Red rectangle around Business account]
+Dylan: "Then, select "Add business number"
+[Red rectangle around Add business number]
+### Slide 30 – Add your BN and RR account to your CRA account (3/3)
+Dylan: "You'll then need to enter your 9-digit business number and select "Add.""
+[Arrow pointing to Business number (9 digits)]
+[Arrow pointing to Add]
+Dylan: "After getting your confirmation, return to the welcome page and select your Business account to access your charity related services."
+### Slide 31 – Part 3: Maintaining your account
+Dylan: "This brings us to the last part of our presentation where we'll show you how to maintain your account. This is something all charities must do to ensure they remain compliant with their obligations."
+### Slide 32 – Manage who can access your charity account (1/4)
+Dylan: "First, we'll show you how to manage who can access your charity account. If you have a director who has access to your charity account in their CRA account, this processcan be done online.
+First, they must sign in to their CRA account. Once signed in, select the charity account and scroll down the menu on the left side of the page to find the charity's account under "Registered charity.""
+[Arrow pointing to Registered charity]
+Dylan: "Select "Update registered charity or RCAAA information.""
+[Arrow pointing to Update registered charity or RCAAA information]
+### Slide 33 – Manage who can access your charity account (2/4)
+Dylan: "Then, select "Change director" from the drop-down menu and click "Next.""
+[Arrow pointing to Change director]
+### Slide 34 – Manage who can access your charity account (3/4)
+Dylan: "In the "Description" box, you will need to provide at least the following information:
+- First and last name of the director
+- Phone number
+- Position
+- Effective date
+Whether you are adding, removing or updating information"
+[Arrow pointing to Description box]
+Dylan: "In addition, you can add any supporting document to assist in processing the request, such as Form T1235 which is used to list the names and information of the directors.
+Once you're done, click "Submit.""
+### Slide 35 – Manage who can access your charity account (4/4)
+Dylan: "If none of your charity's directors are currently able to access your charity's online account, the information can be mailed to the address here. Please note that we are phasing out the option for registered charities to submit documents by fax. As of April 1, 2026, registered charities will no longer have the option to submit documents to the CRA's Charities Directorate by fax.
+It is important to note that the information sent to us requesting a director update, MUST include the name and signature of a current director. Otherwise, we won't be able to process the request.
+Once we receive your request and process the information, you can then access your charity's online services."
+### Slide 36 – Keep your public contact information updated
+Dylan: "In order to keep access to your account, it's very important that you keep the information on the screen up to date. This allows the public and the CRA to communicate with your charity. Once you have access to your charity account, you will be able to update these through the same section as we used just now to update directors. Click on "Update registered charity or RCAAA information", then choose what you want to update.
+If you need any more information on how to make any other changes through your online account, visit [Making a change to your organization](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/making-changes.html)."
+### Slide 37 – Contact us
+Dylan: "And, of course, if you're struggling with any of these steps or would like to speak with a client service representative dedicated for Charities, you can call **1-800-267-2384**. There, you can ask your questions directly to one of our representatives. They are available to help you Monday through Friday, from 8 a.m. to 5 p.m. Eastern time.
+Thank you so much for attending today's webinar. We hope we were able to answer your questions.
+We will be sending you a link to an online survey about today's webinar. Please take a few minutes to complete the survey.
+Your feedback is really important to us. It helps us evaluate the effectiveness of our webinars and plan for our future outreach activities.
+If you would like to receive recent news and updates from the CRA, sign up for our electronic mailing list at [canada.ca/charities-whats-new](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-charities-giving-whats-new.html).
+Thank you.
+(link summary on slide:
+[Charities and giving](https://www.canada.ca/en/services/taxes/charities.html)
+[Sign up for our electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-charities-giving-whats-new.html))

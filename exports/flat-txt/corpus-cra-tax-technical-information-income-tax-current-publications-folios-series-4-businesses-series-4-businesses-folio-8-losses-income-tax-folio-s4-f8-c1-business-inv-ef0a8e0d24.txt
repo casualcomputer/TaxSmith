@@ -1,0 +1,459 @@
+Title: Income Tax Folio S4-F8-C1, Business Investment Losses
+Source: https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-8-losses/income-tax-folio-s4-f8-c1-business-investment-losses.html
+Corpus path: corpus/cra/tax/technical-information/income-tax/current-publications/folios/series-4-businesses/series-4-businesses-folio-8-losses/income-tax-folio-s4-f8-c1-business-investment-losses.md
+Document type: technical_publication
+Last modified: 2023-10-27
+
+# Income Tax Folio S4-F8-C1, Business Investment Losses
+
+**Series 4: Businesses**
+
+**Folio 8: Losses**
+
+**Chapter 1: Business Investment Losses**
+
+## Summary
+
+A taxpayer’s **business investment loss** is basically a capital loss from a disposition of shares in, or a debt owing to the taxpayer by, a **small business corporation** (SBC) where the disposition is:
+
+- to an arm's-length person; or
+
+- one to which [subsection 50(1](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-8-losses/income-tax-folio-s4-f8-c1-business-investment-losses.html)) applies.
+
+One-half of this loss is an **allowable business investment loss** (ABIL).
+
+Unlike ordinary allowable capital losses, an ABIL for a tax year may be deducted from all sources of income for that year. Generally, an ABIL that cannot be deducted in the year it arises is treated as a **non-capital loss**. A non-capital loss arising from an ABIL can be carried back three years and forward up to ten years to be deducted in calculating taxable income of such other years. Any such loss that is not deducted by the end of the ten-year carryforward period is then treated as a **net capital loss**, which can be carried forward indefinitely to be deducted against taxable capital gains.
+
+Ordinary allowable capital losses for a tax year may be deducted only from taxable capital gains realized in the year. If the allowable capital losses exceed the taxable capital gains, the difference is a net capital loss which may be carried back three years and forward indefinitely to be deducted only against taxable capital gains.
+
+The purpose of the rules relating to the business investment loss is to encourage investment in SBCs by giving such losses more generous tax treatment than that available for ordinary capital losses.
+
+This Chapter discusses the various provisions of the Act relevant to determining a taxpayer's ABIL for a tax year and the deductibility of such a loss. The content is technical in nature and some of the topics discussed in this Chapter may not be relevant for all taxpayers. Those wanting a more general overview of the subject matter may prefer to read [Guide T4037, Capital Gains](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html). Chart 6 in Chapter 5 of Guide T4037 can be used to compute an ABIL.
+
+The Canada Revenue Agency (CRA) issues income tax folios to provide a summary of technical interpretations and positions regarding certain provisions contained in income tax law. Due to their technical nature, folios are used primarily by tax specialists and other individuals who have an interest in tax matters. While each paragraph in a chapter of a folio may relate to provisions of the law in force at the time it was written (see the [Application](#toc13) section), the information provided is not a substitute for the law. The reader should, therefore, consider the Chapter’s information in light of the relevant provisions of the law in force for the particular tax year being considered.
+
+The CRA may have published additional guidance and detailed filing instructions on matters discussed in this Chapter. See the CRA [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html) web page for this information and other topics that may be of interest.
+
+## Table of contents
+
+- [Discussion and interpretation](#toc0)
+
+    - [Introduction to business investment losses](#toc1)
+
+    - [ABIL deductible from income from all sources](#toc2)
+
+    - [Carrying unused ABIL to other tax years](#toc3)
+
+    - [Meaning of business investment loss](#toc4)
+
+    - [Subsection 50(1) election](#toc5)
+
+    - [Subsection 50(1.1) – business commences within 24 months](#toc6)
+
+    - [Establishing a debt as bad debt](#toc7)
+
+    - [Payments made under a guarantee](#toc8)
+
+    - [Lending funds or guaranteeing debts for inadequate consideration](#toc9)
+
+    - [Reductions in computing business investment loss](#toc10)
+
+    - [Accounting for ABILs when calculating capital dividend account and aggregate investment income](#toc11)
+
+    - [Deceased taxpayers](#toc12)
+
+- [Application](#toc13)
+
+- [Reference](#toc14)
+
+- [History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-8-losses/income-tax-folio-s4-f8-c1-business-investment-losses/chapter-history-s4-f8-c1-business-investment-losses.html)
+
+## Discussion and interpretation
+
+### Introduction to business investment losses
+
+**1.1** An **allowable business investment loss** is defined in paragraph 38(c) as **one-half** of a business investment loss. A [business investment loss](#p1_11) is defined under paragraph 39(1)(c). The fraction in section 38 that applies for a tax year (currently one-half) is referred to in this Chapter as the **inclusion rate**. In other words, if the business investment loss from the disposition is determined to be $10,000, one-half of that loss ($5,000) will be included in the ABIL. The inclusion rate in section 38 that is used to determine a taxpayer’s taxable capital gain, allowable capital loss, or ABIL has changed over the years. For tax years before 2001, see Chapter 5 of [Guide, T4037 Capital Gains](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html) which includes general information about the inclusion rate applicable to different time periods.
+
+**1.2** For a loss to qualify as a business investment loss, it must first be a capital loss. Therefore, when a transaction does not give rise to a capital loss, or when a capital loss is deemed to be nil, no business investment loss can result. For example, a [capital loss deemed to be nil](#p1_44) by paragraph 40(2)(g) cannot give rise to a business investment loss.
+
+**1.3** A loss that qualifies as an ABIL must be treated as an ABIL. The taxpayer cannot choose to treat it as a capital loss instead.
+
+### ABIL deductible from income from all sources
+
+**1.4** In calculating the income of a taxpayer for a tax year pursuant to section 3, an ABIL is not deducted from taxable capital gains under paragraph 3(b) but is deducted from income from all sources under paragraph 3(d).
+
+### Carrying unused ABIL to other tax years
+
+#### Non-capital loss
+
+**1.5** Generally, any ABIL that cannot be deducted in the year it arises is treated as a **non-capital loss** as defined in subsection 111(8). Subject to the comment in ¶1.6, paragraph 111(1)(a) permits such a loss to be carried back up to **three years** and forward up to **ten years** and deducted in calculating the taxable income of such other years.
+
+**1.6** A non-capital loss arising from an ABIL occurring in a tax year that ended after 1982 and before March 23, 2004 can be carried back up to **3 years** or forward up to **seven years** and deducted in calculating the taxable income of such other years.
+
+#### Net capital loss
+
+**1.7** Generally, an ABIL that is not deducted as a non-capital loss by the end of the carryforward period becomes a net capital loss at the end of the **tenth year**. The term **net capital loss** is defined in subsection 111(8). This treatment allows the loss to be carried forward indefinitely to be deducted against taxable capital gains beginning in the **eleventh year**.
+
+Mr. K incurs an ABIL in the amount of $60,000 in the 2005 tax year. Ten years later, at the end of 2015, only $56,000 of the ABIL has been used as a non-capital loss. The remaining $4,000 becomes a net capital loss. Mr. K can carry this net capital loss forward indefinitely to be deducted against any taxable capital gains he realizes in the 2016 and subsequent tax years.
+
+**1.8** For ABILs that arose in a tax year ending before March 23, 2004, the non-capital loss carryforward period was seven years. In such cases, any non-capital loss that was not used within the seven-year-carryforward period would have become a net capital loss at the beginning of the eighth year, which can be carried forward indefinitely to be deducted against taxable capital gains beginning in the eighth year.
+
+#### Adjustments to net capital losses
+
+**1.9** The capital gains inclusion rate in the year the loss is incurred might differ from the inclusion rate in the year to which the loss is carried and applied. If so, subsection 111(1.1) provides for an adjustment to net capital losses carried forward or back. Subsection 111(1.1) does not apply to an ABIL carried forward or back as a non-capital loss. However, if the non-capital loss carryforward in respect of an ABIL expires, it becomes a net capital loss. It is at this point that the loss becomes subject to the adjustments provided in subsection 111(1.1). The computations involved in the application of subsection 111(1.1) are beyond the scope of the Chapter (see ¶1.10). Example 2 shows a situation where subsection 111(1.1) would apply.
+
+Ms. E incurred an ABIL of $90,000 in the 1999 tax year, which was still unused at the end of the 2015 tax year. The capital gains inclusion rate for the 1999 tax year was ¾. The capital gains inclusion rate for the 2015 tax year is ½.
+
+Because the loss occurred in a year ending prior to March 23, 2004 the non-capital loss carryforward expired after **seven**years (see ¶1.8). This means that at the end of 2006, the loss became a net capital loss.
+
+If, in computing taxable income for the 2015 tax year, Ms. E applied that net capital loss carryforward against her taxable capital gains for the 2015 tax year, the amount to be deducted under subsection 111(1) in respect of the loss will be subject to the adjustment provided under subsection 111(1.1) because the capital gains inclusion rate in the 1999 tax year is different than that in 2015.
+
+**1.10** The CRA web page [Capital losses and deductions](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-12700-capital-gains/capital-losses-deductions.html) provides links to various topics that contain general information about the tax treatment of capital losses. Non-capital losses and net capital losses are discussed in [Interpretation Bulletin, IT-232R3, Losses – Their Deductibility in the Loss Year or in Other Years](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it232r3.html). For an example of a situation involving detailed calculations of an adjustment under subsection 111(1.1), see paragraph 20 of IT-232R3.
+
+### Meaning of business investment loss
+
+**1.11** A taxpayer's **business investment loss** may arise from the disposition of:
+
+1. a**share**of a corporation that is an [SBC](#p1_19); or
+
+2. a **debt** owing to the taxpayer by a [Canadian-controlled private corporation](#p1_18) (CCPC) that is:
+
+    - an SBC;
+
+    - a [bankrupt](#p1_17) that was an SBC when it last became a bankrupt; or
+
+    - a corporation referred to in section 6 of the [Winding-up and Restructuring Act](https://laws-lois.justice.gc.ca/eng/acts/W-11/FullText.html) that was insolvent within the meaning of that Act and was an SBC at the time of its winding-up order under that Act,
+
+Where the debt is owing to a taxpayer that is a corporation, the taxpayer and the CCPC must deal at arm’s length (see ¶[1.14](#p1_14)).
+
+**1.12** For a loss described in ¶1.11 to qualify as a business investment loss, the disposition must be:
+
+- to an [arm's-length](#p1_16) person; or
+
+- deemed to have occurred under subsection 50(1).
+
+The [subsection 50(1) election](#p1_20) is discussed in ¶1.20 to 1.29.
+
+**1.13** The business investment loss from a disposition of a share or a debt in circumstances referred to in ¶1.11 to 1.12, is the amount by which any capital loss from the disposition exceeds the total of any reductions applicable under subparagraphs 39(1)(c)(v) to (viii). These reductions are discussed in ¶[1.50](#p1_50) to 1.67.
+
+#### Disposition of debt owed by a non-arm’s-length corporation
+
+**1.14** In determining a corporation’s business investment loss in a tax year, subparagraph 39(1)(c)(iv) excludes any capital loss from a disposition of a debt owing to the corporation by a CCPC with whom the corporation does not deal at arm’s length. Therefore, any capital loss resulting from a disposition by a corporation of a debt owing to the corporation by a CCPC with whom it does not deal at arm’s length can never qualify as a business investment loss.
+
+#### Meaning of terms relevant to business investment loss
+
+##### All or substantially all, principally, and primarily
+
+**1.15** For income tax purposes, the term**all or substantially all** is understood to mean at least 90%, and the terms **principally** and **primarily** to mean more than 50%.
+
+#### Arm’s length and non-arm’s-length
+
+**1.16** Generally, the terms, **arm’s length** and **non-arm’s-length** are used in reference to a relationship or transactions between persons. For discussion of these terms and the criteria used to determine whether persons deal with each other at arm’s length, see [Income Tax Folio S1-F5-C1, Related Persons and Dealing at Arm's Length](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html).
+
+##### Bankrupt
+
+**1.17** The term **bankrupt** is defined in subsection 248(1) as having the meaning assigned by the [Bankruptcy and Insolvency Act](https://laws-lois.justice.gc.ca/eng/acts/B-3/FullText.html).
+
+##### Canadian-controlled private corporation
+
+**1.18** The term **Canadian-controlled private corporation** is defined in subsection 248(1) as having the meaning assigned by subsection 125(7). For more information about the meaning of this term, see [Interpretation Bulletin IT-458R2, Canadian-Controlled Private Corporation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it458r2.html).
+
+##### Small business corporation
+
+**1.19**The term **small business corporation** is defined in subsection 248(1). In general, an SBC at any particular time is a CCPC all or substantially all of the fair market value of the assets of which at that time is attributable to:
+
+1. assets that are used principally in an active business carried on primarily in Canada by it or by a corporation related to it;
+
+2. shares or debts of connected SBCs; or
+
+3. a combination of (a) and (b).
+
+For the purpose of determining a business investment loss, a corporation that was an SBC at any time in the 12 months before the disposition of the share or debt will be considered to be an SBC.
+
+### Subsection 50(1) election
+
+**1.20** In circumstances where subsection 50(1) applies in respect of property of a taxpayer that is a debt owing to the taxpayer, or a share in a corporation, the taxpayer is deemed to have disposed of the debt or share at the end of the tax year for nil proceeds and to have immediately reacquired it at a cost of nil. The deemed disposition can result in a capital loss. In circumstances where the property is a debt or share in an SBC, such loss may result in a [business investment loss](#p1_11).
+
+**1.21** For subsection 50(1) to apply in a tax year, the taxpayer must elect in their income tax return for the year to have that subsection apply in respect of the debt or share, and,
+
+1. in the case of a debt (other than a debt from the sale of [personal use property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037/capital-gains.html)), it must be owing to the taxpayer at the [end of the tax year](#p1_23), and the taxpayer must have established it to have become a [bad debt](#p1_33) in the tax year; or
+
+2. in the case of a share in a corporation (other than a share received as consideration from the sale of personal use property), the taxpayer must own the share at the end of the tax year and the corporation must:
+
+    1. have become a [bankrupt](#p1_17) in the tax year [subparagraph 50(1)(b)(i)];
+
+    2. (be a corporation referred to in section 6 of the [Winding-up and Restructuring Act](http://laws-lois.justice.gc.ca/eng/acts/W-11/FullText.html) that was insolvent within the meaning of that Act and for which a winding-up order under that Act was made in the tax year [subparagraph 50(1)(b)(ii)]; or
+
+    3. (be [insolvent](#p1_24) at the end of the tax year, and, at that time, it must also be that neither the corporation, nor a corporation it controls, carries on business. In addition, at that time, the share must have a fair market value of nil and it must be reasonable to expect that the corporation will be dissolved or wound-up and will not commence to carry on business [subparagraph 50(1)(b)(iii)].
+
+**1.22** Late election requests are discussed in ¶[1.25](#p1_25). For tax years ending before February 22, 1994, there was no election requirement for subsection 50(1) to apply.
+
+#### End of the tax year – subsection 50(1) election
+
+**1.23** As it relates to a debt in circumstances described in ¶[1.21(a)](#p1_21) or to a share in circumstances described in ¶[1.21(b)](#p1_21), the **end of the tax year** refers to the tax year of the taxpayer making the subsection 50(1) election. The following examples illustrate this requirement in the case of a debt and a share, respectively.
+
+Mr. P is a shareholder of Company P. Company P is indebted to Mr. P for money he advanced to it in order to help finance its business operations. Company P’s tax year-end is June 30.
+
+For purposes of applying paragraph 50(1)(a) in respect of this debt, the end of the tax year is that of Mr. P, not that of Company P. Therefore, in order for Mr. P to elect in his return of income for the 2015 tax year to have paragraph 50(1)(a) apply, one of the requirements is that the debt be owing to him on December 31, 2015.
+
+On December 31, 2015, Mr. D owns shares in Company D, which has a tax year-end of August 31.
+
+For purposes of applying subparagraph 50(1)(b)(iii), the end of the year refers to the end of the tax year of Mr. D, not that of Company D. Therefore, in order for Mr. D to elect to have subparagraph 50(1)(b)(iii) apply in respect of the shares for his 2015 tax year, one of the requirements is that Company D be insolvent on December 31, 2015. This would be a question of fact.
+
+#### Meaning of “insolvent” – subparagraph 50(1)(b)(iii)
+
+**1.24** For a taxpayer to elect to have section 50 apply in respect of a share [by reason of subparagraph 50(1)(b)(iii)](#p1_21), one of the requirements is that the corporation be insolvent at the end of the taxpayer’s tax year. The term insolvent is not defined in the Act. Therefore, for this purpose, the term **insolvent** is given its ordinary dictionary meaning, which generally refers to the inability to pay one’s debts.
+
+#### Late subsection 50(1) election requests
+
+**1.25** The CRA may extend the time for making a subsection 50(1) election. Generally, subsection 220(3.2) of the Act, together with paragraph 600(b) of the Regulations, gives the CRA the authority to accept an extension request. The request must be made on or before the day that is ten calendar years from the tax year in which the election was due. A **late election** accepted by virtue of subsection 220(3.2) is subject to the penalty imposed under subsection 220(3.5). Further information about how to make a late election, the time limits that apply, the penalties that apply, and the guidelines used by the CRA in determining whether to accept or reject a late election request is discussed in [Information Circular IC 07-1, Taxpayer Relief Provisions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic07-1.html).
+
+#### Request to revoke a subsection 50(1) election
+
+**1.26** Under subsection 220(3.2) of the Act and paragraph 600(b) of the Regulations, the CRA may accept a request to revoke a subsection 50(1) election. An approved revocation would be subject to any penalty imposed under subsection 220(3.5) in respect of late-filed, amended or revoked elections.
+
+**1.27** Circumstances where a taxpayer might want to revoke a subsection 50(1) election could be where the taxpayer had honestly and reasonably determined that the debt had become uncollectible and made the election but without knowing that in the particular situation subparagraph 40(2)(g)(ii) applied to deem the capital loss on disposition of the debt to be nil. In these circumstances, the CRA will generally permit the taxpayer to revoke the subsection 50(1) election so that there is no deemed disposition or reacquisition of the debt. The result will be that any subsequent collection on the debt will reduce the taxpayer’s adjusted cost base of the debt rather than produce a capital gain.
+
+**1.28** Generally, the CRA will refuse a request to amend or revoke a subsection 50(1) election in circumstances where it is reasonable to conclude that the request is being made for retroactive tax planning purposes. This might be the case, for example, where a request is being made to revoke an election to avoid the operation of [subsection 50(1.1)](#p1_29). For further information about guidelines used by the CRA in determining whether to accept or reject a request to amend or revoke an election see Information Circular IC 07-1.
+
+### Subsection 50(1.1) – business commences within 24 months
+
+**1.29** Generally, subsection 50(1.1) applies where:
+
+1. a taxpayer was deemed to have disposed of a share of a corporation [by reason of subparagraph 50(1)(b)(iii)](#p1_21); and
+
+2. the corporation, or a corporation controlled by it, commences to carry on business within 24 months of that deemed disposition (the **24-month****window**).
+
+**1.30** With regard to the condition in ¶1.29(b), the business that commences to be carried on within the 24-month window need not be the same as (or even similar to) the business that had ceased to be carried on.
+
+**1.31** Where the taxpayer or a person with whom the taxpayer is not dealing at arm's length owns the share at the time business commences to be carried on within the 24-month window by the corporation (or a corporation controlled by it), subsection 50(1.1) deems the taxpayer (or the non-arm’s length person) to have disposed of the share at that time. The proceeds of disposition are deemed to be equal to the taxpayer’s adjusted cost base of the share immediately before the subparagraph 50(1)(b)(iii) disposition. The share is then deemed to be immediately reacquired by the taxpayer (or the non-arm’s length person) for an amount equal to those proceeds.
+
+**1.32** When business commences to be carried on within the 24-month window in circumstances described in ¶1.31, the disposition of the share deemed to have been made at that time under subsection 50(1.1) results in a capital gain for the taxpayer (or the non-arm’s length person), which offsets the capital loss previously realized. The following example illustrates the operation of subsection 50(1.1).
+
+In 2012, Mr. A bought a share in the capital stock of Company A as an investment. His adjusted cost base of the share is $100.
+
+By December 31, 2013, Company A had ceased to carry on business. Mr. A determined that all of the conditions described in ¶[1.21(b)(iii)](#p1_21) were met in respect of his Company A share. Based on his determination that Company A was insolvent at the end of his 2013 tax year, Mr. A elected to have subsection 50(1) apply. This resulted in a deemed disposition of the Company A share at the end of Mr. A’s 2013 tax year for nil proceeds and an immediate reacquisition of the share at a cost equal to nil. The deemed disposition of the Company A share resulted in a capital loss of $100 for Mr. A in the 2013 tax year. It would be a question of fact whether that capital loss qualified as a [business investment loss](#p1_11).
+
+On January 2, 2014, Mr. A transferred the Company A share to his common-law partner Ms. B for no proceeds. Twenty-three months later, on December 1, 2015, Company B, a corporation controlled by Company A, commenced carrying on business. Ms. B still owned the Company A share when Company B commenced carrying on business.
+
+Because Mr. A and Ms. B are not at arm’s length, subsection 50(1.1) deems Ms. B to have disposed of the Company A share on December 1, 2015, which is the earliest time within the [24-month window](#p1_29) that Company B commenced carrying on business. Subsection 50(1.1) deems Ms. B’s proceeds from the deemed disposition to be $100. This amount equals Mr. A’s adjusted cost base of the Company A share – such as it was on December 31, 2013, immediately before his subsection 50(1) deemed disposition. Ms. B is then deemed to have immediately reacquired the Company A share at a cost of $100
+
+The result is that Ms. B has a capital gain in her 2015 tax year, in respect of the Company A share, which offsets Mr. A’s previous capital loss. Subsection 50(1.1) results in a capital gain for Ms. B in her 2015 tax year whether or not the capital loss arising in Mr. A’s 2013 tax year qualified as a business investment loss.
+
+### Establishing a debt as bad debt
+
+**1.33** As discussed in ¶[1.21(a)](#p1_21) one of the requirements for paragraph 50(1)(a) to apply in respect of a debt is that it became a bad debt during the tax year. To establish that a debt became a bad debt, the taxpayer must conduct an honest and reasonable assessment of its collectibility. The taxpayer cannot, for example, choose to ignore the facts and defer making such a determination to a later year simply to avoid the application of a [late-filing penalty](#p1_26) for this election.
+
+**1.34** The time at which a debt becomes a bad debt is a question of fact. Generally, a debt owing to a taxpayer will be a bad debt at the end of the year if:
+
+- the taxpayer has exhausted all legal means of collecting on it; or
+
+- the debtor has become insolvent and has no means of repaying it.
+
+While there is no legal requirement that in all cases a taxpayer must exhaust all legal means of collecting on a debt before determining that during the year it had become a bad debt, such a determination will generally fall short if it is evident that collection on the debt is reasonably possible but no proactive steps were taken to collect on it.
+
+**1.35** The Federal Court of Appeal in [Rich v The Queen](https://canlii.ca/t/4hft), 2003 FCA 38, 2003 DTC 5115 confirmed that a taxpayer’s determination that a debt became a bad debt in the year must be an honest and reasonable one. The Federal Court of Appeal at paragraphs 5 and 6 in [Coveley et al v The Queen](https://canlii.ca/t/gfgv9), 2014 FCA 281, 2015 DTC 5014 (FCA) also refers to this requirement.
+
+#### Factors considered in assessing collectability of a debt
+
+**1.36** An honest and reasonable determination by a creditor that a debt became a bad debt in the year must be supported by all relevant and material facts. In Rich, the Federal Court of Appeal summarized several factors usually considered in making such a determination. The list is not exhaustive and, in different circumstances, one factor may be more important than another. The factors include:
+
+- the history and age of the debt;
+
+- the financial position of the debtor— its revenues and expenses, whether it is earning income or incurring losses, its cash flow and its assets, liabilities and liquidity;
+
+- changes in total sales as compared with prior years;
+
+- the debtor's cash, accounts receivable and other current assets at the relevant time and as compared with prior years;
+
+- the debtor's accounts payable and other current liabilities at the relevant time and as compared with prior years;
+
+- the general business conditions in the country, in the community of the debtor, and in the debtor's line of business; and
+
+- the past experience of the taxpayer with writing off bad debts.
+
+The Federal Court of Appeal also considered the relevance of the debtor’s future prospects and a non-arm’s-length relationship between the creditor and the debtor in assessing the likelihood of collecting a debt.
+
+#### Future prospects of the debtor
+
+**1.37** The future prospects of the debtor may be relevant in assessing the likelihood of collecting a debt. In this regard, the Federal Court of Appeal stated at paragraph 14 in its decision in the Rich case:
+
+"If there is some evidence of an event that will probably occur in the future that would suggest that the debt is collectible on the happening of the event, the future event should be considered. If future considerations are only speculative, they would not be material in an assessment of whether a past due debt is collectible."
+
+#### Non-arm’s-length relationship between creditor and debtor
+
+**1.38** In assessing the likelihood of collecting a debt, the main consideration will generally be the ability of the debtor to repay the debt. The existence of a [non-arm’s-length relationship](#p1_16) between the creditor and the debtor may be a relevant factor. However, such relationship, in and of itself, will not prevent the creditor from establishing that a debt has become a bad debt.
+
+#### Portion of debt settled and remainder uncollectible
+
+**1.39** In some circumstances, accounting practice may require a write-down of a debt to net realizable value; however such write-downs are not recognized for purposes of section 50. A debt is considered bad for the purpose of section 50 when the whole amount is uncollectible. Where a portion of a debt has been settled, the remaining portion of the debt is considered bad for purpose of section 50 if it is uncollectible.
+
+#### Each debt considered separately
+
+**1.40** Where an amount owing to a taxpayer by a particular debtor consists of more than one debt, each debt is to be considered separately in determining the extent to which the comments in ¶1.39 apply. For example, one debt may be secured and collectible whereas another debt may be unsecured and uncollectible and, therefore, qualify as a bad debt.
+
+### Payments made under a guarantee
+
+**1.41** Where a payment is made by a taxpayer to honour a guarantee in respect of a corporation's liabilities, a debt arises at that time between the corporation and the taxpayer. In some cases, the guarantee payment might be made at a point in time when the corporation no longer qualifies as an SBC. This could preclude any resulting capital loss from being treated as a business investment loss. However, for purposes of applying the definition of **business investment loss**, subsection 39(12) contains a special deeming rule. This rule provides that a payment made by a taxpayer under a guarantee of the debts of a corporation is deemed to be a debt owing to the taxpayer by an SBC if:
+
+- the payment was made to a person with whom the taxpayer was dealing at arm’s length; and,
+
+- the corporation was an [SBC](#p1_19) both at the time the corporation incurred the debt in respect of which the guarantee payment was made and at any time in the 12 months before the time any amount first became payable under the guarantee.
+
+**1.42** Where the conditions described in ¶1.41 are met, the taxpayer may be eligible to claim a business investment loss on any amounts owing to the taxpayer for payments made by the taxpayer under the guarantee even if the corporation had ceased to carry on an active business before the payment was made.
+
+### Lending funds or guaranteeing debts for inadequate consideration
+
+**1.43** A taxpayer may be entitled to claim a capital loss if they suffer a loss as a result of honouring a guarantee of the debts of certain corporations or from lending funds in circumstances outlined in ¶[1.46](#p1_46). If paragraph 50(1)(a) applies to the debt or the loan referred to in ¶[1.11(b)](#p1_11), a business investment loss may result from the deemed disposition.
+
+**1.44** Generally, subparagraph 40(2)(g)(ii) deems a taxpayer’s loss from the disposition of a debt or other right to receive an amount to be nil **unless** the debt or right was acquired by the taxpayer:
+
+1. for the purpose of gaining or producing income from a business or property (other than exempt income); or
+
+2. as consideration for the disposition of capital property to a person with whom the taxpayer was dealing at [arm’s length](#p1_16).
+
+**1.45** The **income-earning-purpose exception** described in ¶1.44(a) refers to that of the creditor who lends the funds to, or guarantees the debts of, the corporation. This was confirmed by the Tax Court of Canada in O'Blenes v MNR; 90 DTC 1068 (TCC), [1990] 1 CTC 2171. The Court found that subparagraph 40(2)(g)(ii) applied to deem the taxpayer’s capital loss to be nil where the loss arose from a debt owed to the taxpayer by a corporation in respect of a payment she made in honour of a guarantee of the corporation’s debts. The taxpayer was not a shareholder of the corporation, although her husband held one-third of the shares in the capital stock of the corporation. The conclusion was that at the time the taxpayer guaranteed the debts of the corporation, the income-earning-purpose requirement was not met and the exception did not apply. The Court stated that subparagraph 40(2)(g)(ii),
+
+"... when it mentions the purpose of the acquisition of a debt, refers of course, to the creditor's purpose of earning income for her own account. The indirect advantage the Appellant would derive in providing financial assistance to a company which in turn would procure a direct financial benefit to her husband is definitely too remote to meet the requirements of that subparagraph."
+
+**1.46** With respect to the exception described in ¶1.44(a), in some cases, a taxpayer may have loaned funds at less than a reasonable rate of interest to a Canadian corporation of which the taxpayer is a shareholder, or to its Canadian subsidiary. In other cases, a taxpayer may have guaranteed the debts of such a corporation for inadequate consideration. A subsequent capital loss may arise from the inability of the corporation to discharge its obligations to the taxpayer, or from the taxpayer having to honour the guarantee. Where a shareholder provides a guarantee or loan to a corporation in order to provide it capital, a clear connection will generally exist between the guarantee or the loan and the taxpayer’s potential to earn future income (from dividends) to satisfy the income-earning-purpose exception in subparagraph 40(2)(g)(ii) (see the Federal Court of Appeal case, [Byram v The Queen](https://canlii.ca/t/4m2n), 1999 DTC 5117 (FCA), [1999] 2 CTC 149).
+
+**1.47** However, the potential to earn income from business or property must not be too remote. For example, instead of owning shares directly in the debtor, a taxpayer might be a shareholder of a parent company or other shareholder of the debtor. The burden of demonstrating a sufficient connection between the taxpayer’s loan to (or the taxpayer’s guarantee of the debts of) the debtor and the potential for income will be much higher in situations where the taxpayer is not a direct shareholder of the debtor.
+
+Mr. F is a shareholder of Company G. Company G is a shareholder ofCompany H. Mr. F lends money to Company H. Because Mr. F is not a shareholder of the debtor, Company H, Mr. F is not entitled to dividend income (income from property) directly from the debtor.
+
+**1.48** For an example of a case where the taxpayer did not own shares directly in the debtor corporation but a sufficient connection was shown to exist for the exception described in ¶[1.44(a)](#p1_44) to apply, see [Alessandro v The Queen](http://canlii.ca/t/1s4k1), 2007 TCC 411; 2007 DTC 1373 (TCC). For an example of a case where the connection was found to be too remote, see [Service v The Queen](https//canlii.ca/t/1htxc), 2004 TCC 592, 2004 DTC 3317, which was affirmed by the Federal Court of Appeal in [Service v Canada](http://canlii.ca/t/1kx08) 2005 FCA 163, 2005 DTC 5281).
+
+### Reductions in computing business investment loss
+
+**1.49** A capital loss from a disposition of a share or a debt in an SBC may result in a [business investment loss](#p1_11), as determined under paragraph 39(1)(c). Generally, the business investment loss is the amount by which the taxpayer's capital loss from the disposition exceeds **the total** of any applicable reductions provided under subparagraphs 39(1)(c)(v) to (viii). The portion of the capital loss that does not qualify as a business investment loss because of any reduction applicable under subparagraphs 39(1)(c)(v) to (viii) remains a capital loss.
+
+**1.50** The reductions applicable under subparagraphs 39(1)(c)(v) to (vii) in respect of a disposition of a share in an SBC are discussed in ¶1.51 to 1.58. The reduction applicable under subparagraph 39(1)(c)(viii) in respect of disposition of share or a debt in an SBC is discussed in ¶[1.59](#p1_59) to 1.66.
+
+#### Reductions under subparagraphs 39(1)(c)(v) to (vii)
+
+**1.51** In the case of a disposition of an SBC share, the reduction under subparagraph 39(1)(c)(v) equals the total of any post-1977 increases to the taxpayer’s adjusted cost base (**ACB**) of the share (or any share for which it was a [substituted share](#p1_57)) from the application of subsection 85(4). Subsection 85(4) was a stop-loss rule that was repealed and no longer applies to dispositions occurring, generally, after April 26, 1995.
+
+**1.52** The reduction under subparagraph 39(1)(c)(vi) applies to a disposition of an SBC share issued before 1972, or any substituted share, but does not apply in respect of a share (or substituted share) that was acquired after 1971 from a person with whom the taxpayer was dealing at arm’s length. Where subparagraph 39(1)(c)(vi) applies, the reduction under that subparagraph equals the total of any **taxable dividends** received or receivable on the share (or a substituted share) after 1971 and before or upon the disposition by:
+
+- the taxpayer;
+
+- the taxpayer's [spouse or common-law partner](#p1_56); or
+
+- a trust of which the taxpayer or the taxpayer's spouse or common-law partner was a beneficiary.
+
+**1.53**For the 2014 and 2015 tax years, in the case of a disposition by a trust referred to in paragraph 104(4)(a) or (a.4) of a share to which subparagraph 39(1)(c)(vi) applies (see ¶1.52), the reduction under subparagraph 39(1)(c)(vii) equals the total of any taxable dividends received or receivable on the share (or substituted share) after 1971 and before or upon the disposition by:
+
+- the **settlor** (within the meaning of subsection 108(1)); or
+
+- the settlor’s spouse or common-law partner.
+
+**1.54** For the 2016 and subsequent tax years, the definition of settlor in subsection 108(1) is repealed. The reduction in subparagraph 39(1)(c)(vii), as amended for the 2016 and subsequent tax years, applies to a disposition of a share to which subparagraph 39(1)(c)(vi) applies, or any substituted share by a trust that is "a trust for which a day is to be, or has been, determined under paragraph 104(4)(a) or (a.4) by reference to a death or later death". The reduction applicable under amended subparagraph 39(1)(c)(vii) equals the total of any taxable dividends received or receivable on the share (or substituted share) after 1971, and before or upon the disposition by:
+
+- the individual whose death gives rise to a deemed disposition of the trust’s property under paragraph 104(4)(a), or (a.4); or
+
+- a spouse or common-law partner of that individual.
+
+**1.55** For tax years before 2014, the reference in ¶1.53 to "a trust referred to in paragraph 104(4)(a) or (a.4)" should be read as a reference to "a trust referred to in paragraph 104(4)(a)".
+
+**1.56** Generally, for tax years before 2001 a reference in this Chapter to a **spouse or common-law partner** should be read as a reference to a **spouse** only. There was a transitional rule for the 1998, 1999, and 2000 tax years that under certain circumstances allowed a taxpayer to jointly elect with another individual to be treated as each other’s common-law partner for income tax purposes.
+
+**1.57** In this Chapter, the term **substituted share** refers to any share that is acquired in substitution for another share. This can happen through one or more transactions that include an acquisition, disposition or exchange of a share. Substituted shares include those that are disposed of or acquired as a result of corporate reorganizations and rollovers and would include those share exchanges and substitutions to which sections 51, 85, 85.1, 86, and 87 apply. A share received as a stock dividend paid on a share would also be considered a substituted share.
+
+**1.58** If a shareholder is dealing at [arm's length](#p1_16) with an SBC, a [business investment loss](#p1_11) may arise when the shares of that corporation are redeemed or purchased for cancellation. Subsection 84(9) provides that shares are disposed of by the shareholder to the corporation at the time they are redeemed, acquired or cancelled by the corporation. Any deemed dividend on a redemption, acquisition or cancellation of a share may reduce the business investment loss (see ¶1.52, and ¶1.53 to 1.55).
+
+#### Reduction under subparagraph 39(1)(c)(viii)
+
+**1.59** In computing any business investment loss from a disposition by an individual (other than a trust) of a share or a debt in an SBC, the amount of the reduction under subparagraph 39(1)(c)(viii) is determined under paragraph 39(9), which is discussed in ¶1.62. Subsection 39(9) applies if a capital gains exemption has been claimed in a prior year under section 110.6. As it relates to the comments in ¶1.61, for purposes of the reduction under subparagraph 39(1)(c)(viii), an individual (other than a trust) can use Chart 6 in Chapter 5 of [Guide T4037, Capital Gains](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html) to calculate the subsection 39(9) amount.
+
+**1.60** In computing any business investment loss from a disposition by a trust of a share or a debt in an SBC, the reduction under subparagraph 39(1)(c)(viii) is the [amount determined under subsection 39(10)](#p1_65), which is discussed in ¶1.65. Subsection 39(10) applies if an amount has previously been designated by the trust in a prior tax year under subsection 104(21.2) in respect of a beneficiary for purposes of the capital gains exemption.
+
+**1.61** The amount determined under subsection 39(9) or (10), as the case may be, is computed with reference to, among other things, the amount of the **business investment loss otherwise determined**. The business investment loss otherwise determined refers to the amount that would be the business investment loss from the disposition if paragraph 39(1)(c) were read without reference to subparagraph (c)(viii) (see Example 7).
+
+**1.62** In the case of a disposition of a share or a debt in an SBC by an individual (other than a trust), the subsection 39(9) amount equals the **lesser of**:
+
+- the amount of the business investment loss otherwise determined in respect of the disposition; and
+
+- the **total** of any amounts previously claimed as a capital gains exemption in a prior tax year under section 110.6 — to the extent such amount has not been applied in this manner to reduce a business investment loss in respect of other dispositions in the year or prior years.
+
+If a capital gains exemption was claimed in a prior year that is before 2001, see the comments in ¶[1.66](#p1_66).
+
+**1.63**The **capital gains exemption** claimed in a prior tax year in respect of a disposition equals the **capital gains deduction** claimed by the taxpayer in that year under section 110.6 multiplied by the **reciprocal**of the capital gains inclusion rate in paragraph 38(a) that applied in that year in respect of the disposition. [Guide T4037, Capital Gains](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html)contains further general information about the capital gains deduction.
+
+**1.64** Together, Examples 7 and 8 explain how the subsection 39(9) amount is calculated for purposes of the reduction under subparagraph 39(1)(c)(viii) in respect of a disposition of a debt in the 2015 tax year in circumstances where the individual had claimed a capital gains exemption in a prior year under section 110.6.
+
+On his 2001 income tax return, Mr. R claimed a capital gains deduction of $60,000 in respect of a disposition of qualified small business corporation shares in that year. The capital gains inclusion rate for the 2001 tax year was ½. The **reciprocal** of one-half is two. Therefore, the capital gains exemption Mr. R claimed for the 2001 tax year equals **twice the amount** he claimed as a capital gains deduction on his 2001 tax return, which is $120,000 ($60,000 × 2).
+
+Example 8 shows how, for purposes of the subparagraph 39(1)(c)(viii) reduction, Mr. R uses this information to compute the subsection 39(9) amount in respect of a disposition in the 2015 tax year of a debt in an SBC.
+
+In the 2015 tax year, Mr. R has a capital loss of $300,000 from a disposition of a debt that was owing to him by Company J, an SBC. Mr. R determines that the loss qualifies for treatment as a business investment loss. However, before Mr. R can determine the amount to report as an ABIL on his 2015 tax return, he needs to consider whether any of the reductions in paragraph 39(1)(c) apply in computing his business investment loss from the disposition.
+
+Mr. R’s business investment loss is from a disposition of a debt, not shares. Since the reductions described in ¶[1.52](#p1_52) to 1.55 need only be considered in certain cases involving dispositions of a share, Mr. R knows that none of those reductions are applicable to his disposition of a debt. Therefore, the business investment loss otherwise determined from the disposition of the debt is $300,000 ($300,000 − $0).
+
+Mr. R has never claimed an ABIL before. The only capital gains exemption he has previously claimed was in the 2001 tax year in the amount of $120,000 (as computed in Example 7).
+
+The subsection 39(9) amount in respect of Mr. R’s disposition of the debt will be the lesser of:
+
+- the business investment loss otherwise determined from the disposition($300,000); and
+
+- the total of all amounts previously claimed by Mr. R in a prior tax year as a capital gains exemption ($120,000).
+
+Therefore, the reduction under subparagraph 39(1)(c)(viii), as determined under subsection 39(9), is $120,000.
+
+Therefore, Mr. R’s business investment loss from the disposition of the debt, under paragraph 39(1)(c), is $180,000 ($300,000 − $120,000).
+
+The business investment loss inclusion rate in paragraph 38(c) for the 2015 tax year is ½. Mr. R reports an ABIL of $90,000 ($180,000 × ½) on his 2015 tax return.
+
+The portion of the capital loss that does not qualify as a business investment loss because of the reduction under subparagraph 39(1)(c)(viii) (the $120,000 computed under subsection 39(9)) remains a capital loss under paragraph 39(1)(b). The capital loss inclusion rate in paragraph 38(b) is ½. Therefore, in connection with the disposition of the debt, Mr. R’s 2015 tax return will also reflect an allowable capital loss in the amount of $60,000 ($120,000 × ½).
+
+**1.65** The reduction under subparagraph 39(1)(c)(viii) in the case of a disposition by a trust of a share or a debt in an SBC is the amount determined under subsection 39(10). The subsection 39(10) amount equals the lesser of:
+
+- the [business investment loss otherwise determined](#p1_61) from the disposition; and
+
+- the **total** of any amounts each of which is the amount determined when an amount designated by the trust in a prior tax year under subsection 104(21.2) is multiplied by the reciprocal of the capital gains inclusion rate in section 38 that applied for that prior year — to the extent such an amount has not been applied in this manner to reduce a business investment loss in respect of other dispositions in the year or prior years.
+
+If, in respect of a beneficiary for purposes of the capital gains exemption, an amount was designated by the trust under subsection 104(21.2) in a prior tax year of the trust that is before 2001, see the comments in ¶1.66.
+
+**1.66** The rule for computing the amount under subsections 39(9) and (10) can be further complicated by the fact that, among other things, before 2001, the inclusion rate in section 38 had changed several times over the years (as noted in ¶[1.1](#p1_1)). The finer details about the computations in subsections 39(9) and (10) are beyond the scope of this Chapter.
+
+### Accounting for ABILs when calculating capital dividend account and aggregate investment income
+
+**1.67** The term **capital dividend account** (CDA) is defined in subsection 89(1). When calculating the balance in a corporation’s CDA, a business investment loss remains a capital loss to be included in the total referred to in subparagraph (a)(ii) of that definition.
+
+**1.68** The approach is similar when calculating a corporation's aggregate investment income under subsection 129(4). Any ABIL for the year must be considered in its original classification as an allowable capital loss under paragraph (a) in the definition of **aggregate investment income**.
+
+**1.69** The term **aggregate investment income** replaced the term **Canadian investment income** in subsection 129(4) for tax years that end after June 1995. When calculating a corporation's Canadian investment income for tax years that ended before July 1995, any ABIL for the year must be considered in its original classification as an allowable capital loss in determining the amount for A in the definition of Canadian investment income.
+
+### Deceased taxpayers
+
+**1.70** The tax year of a deceased taxpayer is deemed to end upon death. A final tax return must be filed for the deceased taxpayer for this tax year. The taxpayer’s property is generally considered to be transferred to the taxpayer’s estate upon death and a separate tax return must be filed for the first and each subsequent tax year of the estate. The term **estate** is defined in subsection 248(1) to include civil law successions. Dispositions by the estate of the property formerly owned by the deceased may result in gains or losses being realized by the estate. Subsection 164(6) provides special rules that allow an election to be made by the legal representative of the estate. Generally, the rules provide a means by which, among other things, capital losses realized by the estate from dispositions of capital property can be transferred to the deceased’s final tax return. Such capital losses may include business investment losses.
+
+**1.71** The subsection 164(6) election is available where, in the estate’s first tax year, the capital losses in the estate from dispositions of capital property exceed the estate’s capital gains from such dispositions. Where an estate realizes a business investment loss in its first tax year, the legal representative of the estate may elect under paragraph 164(6)(c) to have all or part of such loss treated as a business investment loss realized by the deceased in the tax year of the death. However, the amount of business investment loss that can be the subject of such an election cannot exceed the excess of the capital losses over capital gains realized on dispositions of capital property by the estate in its first tax year. Information about making the subsection 164(6) election is discussed in Chapter 3 of [T4013 – T3 Trust Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013.html).
+
+**1.72** The following example shows how to compute the amount of a business investment loss that can be the subject of an election under paragraph 164(6)(c).
+
+In the first tax year of the estate of the deceased, the capital gains in the estate from dispositions of capital property totalled $900. The capital losses in the estate from other dispositions of capital property in the year totalled $2,000. The legal representative of the estate has determined that, of the capital losses realized in the first tax year of the estate, $1,200 is a business investment loss.
+
+The excess of capital losses over capital gains realized by the estate in the first year is $1,100 ($2,000 − $900). Therefore, $1,100 is the maximum amount of the business investment loss (or other capital loss) that can be the subject of an election under paragraph 164(6)(c). The remaining $100 of business investment loss cannot be the subject of an election under paragraph 164(6)(c).
+
+**1.73** A business investment loss that is subject to a subsection 164(6) election is deductible under paragraph 3(d) in computing income on the final return for the deceased, and not in computing the income of the estate. However, no part of such a loss may be deducted in computing income for a tax year of the deceased that is prior to the year of his or her death.
+
+**1.74** For 2016 and subsequent tax years, the term **estate** in subsection 164(6) is replaced by the term **graduated rate estate**. The term graduated rate estate is defined in subsection 248(1). For more information about graduated rate estates, see [T4013 – T3 Trust Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013.html), and [Graduated Rate Taxation of Trusts and Estates and Related Rules](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/federal-government-budgets/budget-2014-road-balance-creating-jobs-opportunities/graduated-rate-taxation-trusts-estates-related-rules.html).
+
+## Application
+
+This updated Chapter, which may be referenced as S4-F8-C1, is effective October 27, 2023.
+
+When it was first published on September 27, 2016, this Chapter replaced and cancelled Interpretation Bulletin IT-484R2, Business Investment Losses.
+
+The history of updates to this Chapter as well as any technical updates from the cancelled interpretation bulletin can be viewed in the [Chapter History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-8-losses/income-tax-folio-s4-f8-c1-business-investment-losses/chapter-history-s4-f8-c1-business-investment-losses.html) page.
+
+Except as otherwise noted, all statutory references herein are references to the provisions of the Income Tax Act, R.S.C., 1985, c.1 (5th Supp.), as amended and all references to a Regulation are to the Income Tax Regulations, C.R.C., c. 945, as amended.
+
+Links to jurisprudence are provided through CanLII.
+
+Income tax folios are available in electronic format only.
+
+## Reference
+
+Paragraph 39(1)(c) (also section 110.6, subsections 39(9), 39(10), 39(12), 50(1), 50(1.1), 84(9), and subsection 164(6); paragraphs 3(b), 3(d), 38(c), 111(1)(a) and 111(1)(b); subparagraph 40(2)(g)(ii), and the definitions of **capital dividend account** in subsection 89(1), **net capital loss** and **non-capital loss** in subsection 111(8), **Canadian-controlled private corporation** in subsection 125(7), **aggregate investment income** in subsection 129(4), **small business corporation** in subsection 248(1)).

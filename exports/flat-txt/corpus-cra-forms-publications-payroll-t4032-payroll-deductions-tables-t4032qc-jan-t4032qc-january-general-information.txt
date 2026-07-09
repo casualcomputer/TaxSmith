@@ -1,0 +1,559 @@
+Title: Payroll Deductions Tables - EI, and income tax deductions - Quebec
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/payroll/t4032-payroll-deductions-tables/t4032qc-jan/t4032qc-january-general-information.html
+Corpus path: corpus/cra/forms-publications/payroll/t4032-payroll-deductions-tables/t4032qc-jan/t4032qc-january-general-information.md
+Document type: publication
+Last modified: 2025-12-17
+
+# Payroll Deductions Tables - EI, and income tax deductions - Quebec
+
+T4032-QC(E) Rev. 26
+
+This guide uses plain language to explain the most common tax situations. If you need more help, visit [canada.ca/payroll](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll.html).
+
+## Table of contents
+
+- [What's new as of January 1, 2026](#_Toc337712789)
+
+    - [Federal legislative updates](#_h_1_1)
+
+- [Payroll Deductions Tables](#_Toc337712790)
+
+- [Payroll Deductions Online Calculator (PDOC)](#_Toc337712791)
+
+- [Let us notify you](#_Toc337712792)
+
+- [Special Notice](#special)
+
+    - [Payroll Deductions Tables (T4032)](#special4032)
+
+- [Who should use this guide?](#_Toc337714075)
+
+    - [What if your pay period is not in this guide?](#_Toc337714076)
+
+    - [Which provincial or territorial tax table should you use?](#_Toc337714077)
+
+- [Federal tax for 2026](#_Toc337714078)
+
+    - [Indexing for 2026](#_Toc337714079)
+
+    - [Tax rates and income thresholds](#_Toc337714080)
+
+          - [Chart 1 – 2026 Federal tax rates and income thresholds](#_Toc337714081)
+
+    - [Canada Employment Amount](#_Toc337714082)
+
+    - [Basic personal amounts](#_Toc337714083)
+
+- [Employment Insurance (EI) premiums for 2026](#_Toc337714084)
+
+    - [Quebec Parental Insurance Plan](#_Toc337714085)
+
+    - [Employee premiums](#_Toc337714086)
+
+          - [Employment Insurance Premiums](#_Toc337714087)
+
+          - [Quebec Parental Insurance Premiums](#_Toc337714088)
+
+          - [Deducting and remitting obligations for Employment Insurance (EI)](#_Toc337714091)
+
+- [Quebec tax abatement](#_Toc337714092)
+
+- [Personal tax credits return (TD1 form)](#_Toc337714093)
+
+- [Claim codes](#_Toc337714094)
+
+    - [Explanation of claim codes](#_Toc337714095)
+
+          - [Claim code 0](#_Toc337714096)
+
+          - [Claim codes 1 to 10](#_Toc337714097)
+
+          - [Indexing of claim codes amounts](#_Toc337714098)
+
+          - [Chart 2 – 2026 Federal claim codes](#_Toc337714099)
+
+- [Calculating payroll deductions for employees in the hotel and restaurant business in Quebec](#_Toc337714100)
+
+    - [How do you reduce the deductions?](#_Toc337714101)
+
+- [Form TD1X, Statement of Commission Income and Expenses for Payroll Tax Deductions](#_Toc337714102)
+
+- [How to use the tables in this guide](#_Toc337714103)
+
+    - [Section B – EI premiums table](#_Toc337714104)
+
+    - [Section C – Federal tax deduction table](#_Toc337714105)
+
+- [Additional information about payroll deductions](#_Toc337714106)
+
+    - [Deducting tax from income not subject to QPP contributions or EI premiums](#_Toc337714107)
+
+- [Step-by-step calculation of tax deductions](#_Toc337714108)
+
+    - [Example – Annual Pensionable Income Below YMPE](#_Toc337714109)
+
+          - [Calculate annual taxable income](#_Toc337714110)
+
+          - [Calculate federal tax](#_Toc337714111)
+
+          - [Calculate total tax and the tax deduction for the pay period](#_Toc337714112)
+
+    - [Example – Pensionable Income Above YMPE](#h12_6)
+
+          - [Calculate annual taxable income](#h12_6_1)
+
+          - [Calculate federal tax](#h12_6_2)
+
+          - [Calculate total tax and the tax deduction for the pay period](#h12_6_4)
+
+### Section B
+
+- [Employment Insurance Premiums Table](https://www.canada.ca/en/revenue-agency/services/forms-publications/payroll/t4032-payroll-deductions-tables/t4032qc-jan.html)
+
+### Section C
+
+- [Tax Deductions Tables](https://www.canada.ca/en/revenue-agency/services/forms-publications/payroll/t4032-payroll-deductions-tables/t4032qc-jan.html)
+
+    - Weekly (52 pay periods)
+
+    - Biweekly (26 pay periods)
+
+    - Semi-monthly (24 pay periods)
+
+    - Monthly (12 pay periods)
+
+## What's new as of January 1, 2026
+
+The major changes made to this guide since the last edition are outlined.
+
+This guide reflects some income tax changes recently announced which, if enacted as proposed, would be effective January 1, 2026. At the time of publishing, some of these proposed changes were not law. We recommend that you use the new payroll deductions tables in this guide for withholding starting with the first payroll in January 2026.
+
+#### Federal legislative updates
+
+On May 27, 2025, the Government of Canada tabled a Notice of Ways and Means Motion with proposed legislation that reduces the lowest income tax rate from 15% to 14%. For 2025, the lowest tax rate was set at 14.5%.
+
+Effective July 2025, a prorated tax rate of 14% was used.
+
+For 2026 and subsequent tax years, the lowest federal tax bracket will be 14%.
+
+The tax rates and brackets are as follows:
+
+- for income under $58,523, the tax rate is 14%
+
+- for income from $58,523 to $117,045, the tax rate is 20.5%
+
+- for income from $117,045 to $181,440, the tax rate is 26%
+
+- for income from $181,440 to $258,482, the tax rate is 29%
+
+- for income of $258,482 and over, the tax rate is 33%.
+
+See Chart 1 for rates, income thresholds, and constants.
+
+## Payroll Deductions Tables
+
+You can download Guides T4008, Payroll Deductions Supplementary Tables, and T4032, Payroll Deductions Tables, from our webpage at [canada.ca/payroll](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll.html). You can also choose to print only the pages or information that you need.
+
+## Payroll Deductions Online Calculator (PDOC)
+
+For your 2026 payroll deductions, we strongly recommend using our PDOC. The online calculator makes it faster and easier to calculate payroll deductions. The calculator also uses exact salary figures and provides more accurate calculations. It calculates payroll deductions for the applicable province (except Quebec) or territory for the most common pay periods.
+
+PDOC is available at [canada.ca/pdoc](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/payroll-deductions-online-calculator.html).
+
+## Let us notify you
+
+We provide a digital service that can notify you immediately, **free of charge**, of any changes for payroll deductions.
+
+To subscribe, visit our webpage at [canada.ca/cra-email-lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and enter your business's email address for each mailing list that you want to join.
+
+## Special Notice
+
+## Payroll Deductions Tables (T4032)
+
+The Canada Revenue Agency is no longer publishing the paper and CD versions of the Guide T4032, Payroll Deductions Tables. The digital versions of the guide continue to be available on our website at [canada.ca/payroll](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll.html).
+
+## Who should use this guide?
+
+This guide is intended for the employer and the payer. It contains tables for federal tax deductions, QPP contributions and EI premiums. It will help you determine the payroll deductions for your employees or pensioners.
+
+The federal tables are designed to accurately calculate the deductions provided by the QPP additional contributions in most situations. However, for the following situations, we recommend using the PDOC for more accurate calculations:
+
+- If at any point during the year, the employee reaches the YMPE of $74,600 or;
+
+- A payment of remuneration, if annualized by the number of pay periods in the cycle, is over the YMPE of $74,600
+
+If the tables are used in these situations, it may result in over or under deduction of federal taxes during the year.
+
+For information on deducting, remitting, and reporting payroll deductions, visit [canada.ca/payroll](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll.html).
+
+Refer to the 2025 edition of Payroll Deductions Tables to resolve any pensionable and insurable earnings review (PIER) deficiencies that we identify in processing your 2025 T4 return.
+
+### What if your pay period is not in this guide?
+
+This guide contains the most common pay periods: weekly, biweekly (every two weeks), semi-monthly, and monthly. If you have unusual pay periods, such as daily (240 working days), or 10, 13, or 22 pay periods a year, see the Guide T4008, Payroll Deductions Supplementary Tables, or the PDOC to determine tax deductions.
+
+### Which provincial or territorial tax table should you use?
+
+Before you decide which tax table to use, you have to determine your employee's province or territory of employment. This depends on whether you require the employee to report for work at your place of business.
+
+If the employee reports for work at your place of business, the province or territory of employment is considered to be the province or territory where your business is located. To withhold payroll deductions, use the tax table for that province or territory of employment.
+
+If you do not require the employee to report for work at your place of business, the province or territory of employment is the province or territory in which your business is located and from which you pay your employee's salary.
+
+For more information and examples, visit [canada.ca/payroll](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll.html).
+
+## Federal tax for 2026
+
+### Indexing for 2026
+
+For 2026, the federal income thresholds, the personal amounts, and the Canada employment amount have been changed based on changes in the consumer price index.
+
+The federal indexing factor for January 1, 2026 is 2.0%. The tax credits corresponding to the claim codes in the tables have been indexed accordingly. Employees will automatically receive the indexing increase, whether or not they file Form TD1, 2026 Personal Tax Credits Return.
+
+### Tax rates and income thresholds
+
+For 2026, the federal tax rates and income thresholds are:
+
+| Annual taxable income ($) from | Annual taxable income ($) to | Federal tax rate, R | Constant ($), K |
+
+| --- | --- | --- | --- |
+
+| 0.00 | 58,523.00 | 0.1400 | 0 |
+
+| 58,523.01 | 117,045.00 | 0.2050 | 3,804 |
+
+| 117,045.01 | 181,440.00 | 0.2600 | 10,241 |
+
+| 181,440.01 | 258,482.00 | 0.2900 | 15,685 |
+
+| 258,482.01 | and over | 0.3300 | 26,024 |
+
+### Canada Employment Amount
+
+The non-refundable tax credit for CEA is built into the federal payroll deductions tables. The federal CEA is the lesser of:
+
+- $1,501 and
+
+- the individual’s employment income for the year
+
+The maximum annual non-refundable tax credit is $210.14.
+
+Pension income is not eligible for this credit. If you are paying pension income, use the PDOC to calculate the tax deduction.
+
+### Basic personal amounts
+
+The federal personal amounts for 2026 are:
+
+| Maximum basic personal amount ($) | Minimum basic personal amount ($) |
+
+| --- | --- |
+
+| 16,452 | 14,829 |
+
+For more detailed information on the personal amounts, go to Form TD1.
+
+## Employment Insurance (EI) premiums for 2026
+
+### Quebec Parental Insurance Plan
+
+This plan replaces and enhances the measures provided to new parents under the Employment Insurance program administered by Employment and Social Development Canada (ESDC).
+
+The Canada Revenue Agency (CRA) administers the requirements relating to Employment Insurance (EI) premiums. The Quebec Parental Insurance Plan (QPIP) references in this guide are only for clarifying EI requirements. All QPIP requirements should be confirmed with Revenu Québec, which administers the provincial plan.
+
+Employers will use the EI rate corresponding to the province of employment. A **reduced EI** rate applies when the province of employment is Quebec and the **regular EI** rate applies when the province of employment is other than Quebec.
+
+For more information on province of employment, refer to the section "Which provincial or territorial tax table should you use?"
+
+Employers who have employees working in Quebec will use an EI deduction table specific to employees in Quebec. The deductions, remittances, reporting and the applicable new non-refundable tax credit will be based on the **reduced EI rate**. Employers should also track the QPIP information for T4 reporting.
+
+The EI maximum insurable earnings will remain the same for all provinces and territories and will continue to be set by the federal government.
+
+### Employee premiums
+
+You withhold EI premiums beginning with the first dollar of insurable earnings. You stop deducting premiums when you reach the employee's maximum annual insurable earnings.
+
+When you use the table in this guide to determine the EI premiums, look up the insurable earnings for the period, not the gross remuneration.
+
+#### Employment Insurance Premiums
+
+| EI | Maximum Annual Insurable Earnings | Employee Contribution Rate | Employer Contribution Rate | Maximum Annual Employee Premium | Maximum Annual Employer Premium |
+
+| --- | --- | --- | --- | --- | --- |
+
+| QC | 68,900.00 | 0.0130 | 0.01820 | 895.70 | 1,253.98 |
+
+You stop deducting EI when the employee reaches their maximum annual premium. For more information, visit [canada.ca/payroll](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll.html).
+
+As an employer, you must remit the employer’s and employee’s share of EI premiums.
+
+#### Quebec Parental Insurance Premiums
+
+| QPIP | Maximum Annual Insurable Earnings | Employee Contribution Rate | Employer Contribution Rate | Maximum Annual Employee Premium | Maximum Annual Employer Premium |
+
+| --- | --- | --- | --- | --- | --- |
+
+| QC | 103,000.00 | 0.00430 | 0.00602 | 442.90 | 620.06 |
+
+For all information on QPIP regarding the implementation, administration, rates, maximum insurable earnings, payments of benefits or how to complete the Quebec information slips, visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+QPIP premiums and the related employer portion are paid to Revenu Québec, not to the Canada Revenue Agency.
+
+#### Deducting and remitting obligations for Employment Insurance (EI)
+
+The EI deductions will decrease for employees working in Quebec, but the method of remitting to the Canada Revenue Agency does not change.
+
+It is possible that some employers' federal remittance frequency could change if the reduction of EI for Quebec employees changes the threshold for the employer, however this is unlikely for large employers.
+
+For information on how and when to remit QPIP premiums, visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+When an employee changes province or territory of employment during the year but stays with the same employer, the maximum premium for the year is based on the provinces or territories where **the first $68,900** of insurable earnings is paid.
+
+An employee makes $30,000 of insurable earnings in Ontario, changes their province of employment to Quebec, and makes an extra $40,000 with the same employer. The employee’s maximum premium is calculated as follows:
+
+In Ontario: $30,000 × 1.63% = $489.00
+
+In Quebec: $38,900 × 1.30% = $505.70
+
+Totals: $68,900 = $994.70
+
+Canada Revenue Agency and Revenu Québec will reconcile adjustments to EI and QPIP premiums for trans-border employees. It is anticipated that adjustments between the EI and QPIP deductions will be resolved through the filing of the income tax return and an annual year-end adjustment process.
+
+For detailed information concerning federal requirements, refer to the CRA payroll webpage at [canada.ca/payroll](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll.html).
+
+## Quebec tax abatement
+
+The Quebec tax abatement rate remains at 16.5% for 2026.
+
+## Personal tax credits return (TD1 form)
+
+You may have to ask your employees or your pensioners to complete a federal personal tax credits return using a federal Form TD1.
+
+For more information, visit [canada.ca/payroll](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll.html).
+
+## Claim codes
+
+The total personal amount an employee claims on a TD1 form will determine which claim code you will use. See Chart 2.
+
+### Explanation of claim codes
+
+#### Claim code 0
+
+This code represents **no claim amount**. This code may also be used if the employee indicated they have more than one employer or payer at the same time and have entered “0” on the front page of Form TD1 for 2026.
+
+#### Claim codes 1 to 10
+
+The claim code amounts do not appear on either the federal or the provincial TD1 form.
+
+You match the "Total claim amount" reported on your employee's or pensioner's TD1 form with the appropriate claim codes. Then, you look up the tax for the employee's pay under the claim code in the federal tax tables for the pay period.
+
+#### Indexing of claim codes amounts
+
+The credits that apply to each federal claim code have been automatically increased in the tax tables by the indexing factor for the current year. If your employee did not complete the federal and provincial TD1 forms for 2026, you continue to deduct income tax using the same claim code that you used last year.
+
+### Chart 2 – 2026 Federal claim codes
+
+## Calculating payroll deductions for employees in the hotel and restaurant business in Quebec
+
+As a result of legislation introduced in the province of Quebec, employees in the hotel and restaurant business who receive income from tips and gratuities have to declare this income to their employers. Effective January 1, 1998, you have to include tips declared by these employees when you calculate insurable earnings for purposes of Employment Insurance (EI). You also have to include these tips when you determine federal income tax deductions. Report the tips and deductions on a T4 slip.
+
+When you include the declared tips and gratuities in the income, the corresponding deductions shown in the **Payroll Deductions Tables** may be greater than the cash salary or wages paid. Payroll deductions cannot be more than the amount of salary and wages paid. To make sure that the deductions are not more than the salary or wages, you will have to reduce the deductions until net pay is no longer negative.
+
+### How do you reduce the deductions?
+
+When you reduce the payroll deductions, you have to reduce them in a particular order, as specified in the Quebec legislation. First reduce the Quebec provincial tax, and then reduce Quebec Parental Insurance Premiums and finally Quebec Pension Plan (QPP) contributions. If the net pay is still negative, reduce the federal tax withholding. Any shortfall of federal or provincial tax will be determined when the individuals file their personal tax returns.
+
+In some cases, when QPP is reduced, you may have to increase federal tax to reflect the change in the federal tax credit for QPIP and QPP contributions. You can use the PDOC to determine the adjusted deductions.
+
+## Form TD1X, Statement of Commission Income and Expenses for Payroll Tax Deductions
+
+If your employees want you to adjust their tax deductions to allow for commission expenses, they have to complete Form TD1X, Statement of Commission Income and Expenses for Payroll Tax Deductions.
+
+You deduct tax from your employees' commission pay using the "Total claim amount" on their TD1 forms in the following situations:
+
+- if your employees **do not** complete a Form TD1X or
+
+- if they tell you in writing that they want to cancel a previously completed Form TD1X
+
+## How to use the tables in this guide
+
+Use the tables in this guide to determine the EI premiums and federal tax that you will deduct from your employees' remuneration.
+
+### Section B – EI premiums table
+
+- To find the range that includes your employee’s insurable earnings for the pay period, look down the “Insurable earnings” column. When you use the table in this guide to determine the EI premiums, look up the insurable earnings for the period not the gross remuneration
+
+- In the column next to the “Insurable earnings” column, you will find the EI premium that you should withhold from your employee’s pay
+
+### Section C – Federal tax deduction table
+
+- Find the pages in Section C that correspond to your pay period
+
+- To find the range that corresponds to your employee's taxable income (this includes any taxable benefits), look down the "Pay" column
+
+- In the row under the applicable claim code, you will find the amount of federal tax that you should withhold from your employee's pay (for more information, see the section called "Claim codes" and Chart 2)
+
+## Additional information about payroll deductions
+
+### Deducting tax from income not subject to QPP contributions or EI premiums
+
+We have built the tax credits for QPP contributions and EI premiums into the federal and provincial tax deductions tables in this guide. However, certain types of income, such as pension income, are not subject to QPP contributions and EI premiums. As a result, you will have to adjust the amount of federal and provincial income tax you are deducting.
+
+To determine the amount of tax to deduct from income not subject to QPP contributions or EI premiums, use the Payroll Deductions Online Calculator, available at [canada.ca/pdoc](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/payroll-deductions-online-calculator.html). On the "Salary pay calculation" and/or on the "Commission pay calculation" screen, go to Step 3 and select the "QPP Exempt" and/or "EI Exempt" option before clicking on the "Calculate" button.
+
+## Step-by-step calculation of tax deductions
+
+You can use the following step-by-step calculations to calculate the tax deductions for your employee or pensioner.
+
+The example shows you how to determine the amount of tax to deduct from all income.
+
+However, if you design your own payroll program or spreadsheets to calculate tax deductions, do not use either of these calculations. Instead, see Guide T4127, Payroll Deductions Formulas.
+
+This example applies to a person who earns $1,300 weekly in Quebec and contributes $80 to a registered retirement savings plan (RRSP). This person claims the basic personal claim amount. The QPP contribution is $77.66 and the EI premium is $16.90 for this pay period.
+
+QPP contributions = 0.0630 × ($1,300 – ($3,500/52)) = $77.66
+
+EI premiums = 0.0130 × $1,300 = $16.90
+
+QPIP contributions = 0.0043 × $1,300 = $5.59
+
+| Description | Sub-amounts | Amounts |
+
+| --- | --- | --- |
+
+| (1) Gross remuneration for the pay period (weekly) |  | $1,300.00 |
+
+| (2) **Minus** |  |  |
+
+| CPP/QPP additional contribution ($77.66 × (0.0100/0.0630)) | 12.33 |  |
+
+| the RRSP contributions***** | 80.00 |  |
+
+|  |  | − $(92.33) |
+
+| * **This amount has to be deducted at source**. |  |  |
+
+| (3) Net remuneration for the pay period (line 1 minus line 2) |  | $1,207.67 |
+
+| (4) Annual net income ($1,207.67 × 52 weeks) |  | $62,798.84 |
+
+| (5) **Minus** the annual deduction for living in a prescribed zone, reported on the Form TD1 |  | − (0.00) |
+
+| (6) Annual taxable income (line 4 minus line 5) |  | $62,798.84 |
+
+| **Description** | **Sub-amounts** | **Amounts** |
+
+| --- | --- | --- |
+
+| (7) Basic federal tax:**Multiply** the amount on line 6 by the federal tax rate (R) based on Chart 1 | $62,798.84 × 0.205 |  |
+
+|  |  | $12,873.76 |
+
+| (8) **Minus** the federal constant (K) based on the annual taxable income on line 6 (go to Chart 1) |  | − (3,804.00) |
+
+| (9) Federal tax (line 7 minus line 8) |  | $9,069.76 |
+
+| (10) **Minus** the federal tax credits: |  |  |
+
+| the total of personal tax credit amounts reported on the Form TD1 | $16,452.00 |  |
+
+| the QPP base contributions (($77.66 × (0.0530/0.0630)) × 52 weeks)***** | 3,397.16 |  |
+
+| the Quebec EI premiums (16.90 × 52 weeks)***** | 878.80 |  |
+
+| the QPIP premiums (5.59 × 52 weeks)***** | 290.68 |  |
+
+| the Canada employment amount (annual maximum $1,501.00) | 1,501.00 |  |
+
+| Total | $22,519.64 |  |
+
+| *** Note** When the maximum QPP contributions, QPIP premiums or EI premiums for the year is reached, use the maximum amount for later calculations |  |  |
+
+| (11) **Multiply** the total on line 10 by the lowest federal tax rate for the year | × 0.14 |  |
+
+| (12) Total federal tax credits |  | − (3,152.75) |
+
+| (13) Basic federal tax (line 9 minus line 12) |  | $5,917.01 |
+
+| (14) **Minus** federal abatement, for Quebec only, 16.5% of the amount on line 13 |  | − (976.31) |
+
+| (15) Total federal tax payable for the year (line 13 minus line 14) |  | $4,940.70 |
+
+| **Description** | **Sub-amounts** | **Amounts** |
+
+| --- | --- | --- |
+
+| (16) Tax deduction for the pay period:**Divide**the amount on line 15 by the number of pay periods in the year (52) |  | $95.01 |
+
+### Example – Pensionable Income Above YMPE
+
+This example applies to a person who earns $1,600.00weekly and claims the basic personal amount. The maximum QPP contribution of $4,479.30 and the maximum EI premiums of $895.70 have been reached In addition, this person has started contributing to QPP2 and has contributed $24.00 year-to-date. The year-to-date pensionable income is $75,200. The QPP2 contribution for this pay period is:
+
+QPP2 contributions - The lesser of:
+
+(i) ($416.00 × (PM/12)) – D2 = ($416.00 × (PM/12)) – $24.00 = $392.00 (ii) (PIYTD + PI – W) × 0.04 = ($75,200 + $1,600 – $75,200) × 0.04 = $64.00
+
+Where W = The greater of
+
+(i) PIYTD = $75,200 (ii) YMPE × PM/12 = $74,600
+
+QPIP contributions = 0.0043 × $1,600 = $6.88
+
+| Description | Sub-amounts | Amounts |
+
+| --- | --- | --- |
+
+| (1) Gross remuneration for the pay period (weekly) |  | $1,600.00 |
+
+| (2) **Minus** QPP2 additional contribution | $64.00 | − (64.00) |
+
+| (3) Net remuneration for the pay period |  | $1,536.00 |
+
+| (4) Annual net income ($1,536.00 × 52 weeks) |  | $79,872.00 |
+
+| (5) **Minus** the annual deduction for living in a prescribed zone, reported on Form TD1 |  | − (0.00) |
+
+| (6) Annual taxable income |  | $79,872.00 |
+
+| **Description** | **Sub-amounts** | **Amounts** |
+
+| --- | --- | --- |
+
+| (7) Basic federal tax:**Multiply** the amount on line 6 by the federal tax rate (R) based on Chart 1 | $79,872.00 × 0.205 |  |
+
+|  |  | $16,373.76 |
+
+| (8) **Minus** the federal constant (K) based on the annual taxable income on line 6 (go to Chart 1) |  | − (3,804.00) |
+
+| (9) Federal tax (line 7 minus line 8) |  | $12,569.76 |
+
+| (10)**Minus** the federal tax credits: |  |  |
+
+| the total of personal tax credit amounts reported on the Form TD1 | $16,452.00 |  |
+
+| the QPP base contributions for the pay period **multiplied by** the number of pay periods in the year (annual maximum $3,768.30)***** | 3,768.30 |  |
+
+| the Quebec EI premiums for the pay period **multiplied by** the number of pay periods in the year (annual maximum $895.70)***** | 895.70 |  |
+
+| the QPIP premiums (6.88 × 52 weeks)***** | 357.76 |  |
+
+| the Canada employment amount (annual maximum $1,501.00) | 1,501.00 |  |
+
+| Total | $22,974.76 |  |
+
+| *** Note** When the maximum QPP contributions, QPIP premiums or EI premiums for the year is reached, use the maximum amount for later calculations |  |  |
+
+| (11) **Multiply** the total on line 10 by the lowest federal tax rate for the year | × 0.14 |  |
+
+| (12) Total federal tax credits |  | − (3,216.47) |
+
+| (13) Basic federal tax (line 9 minus line 12) |  | $9,353.29 |
+
+| (14) **Minus** federal abatement, for Quebec only, 16.5% of the amount on line 13 |  | − (1,543.29) |
+
+| (15) Total federal tax payable for the year (line 13 minus line 14) |  | $7,810.00 |
+
+| **Description** | **Sub-amounts** | **Amounts** |
+
+| --- | --- | --- |
+
+| (16) Tax deduction for the pay period:**Divide**the amount on line 15 by the number of pay periods in the year (52) |  | $150.19 |

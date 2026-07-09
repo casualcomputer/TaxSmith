@@ -1,0 +1,93 @@
+Title: Input Tax Credits Related to Dental Practices
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice339/input-tax-credits-related-to-dental-practices.html
+Corpus path: corpus/cra/forms-publications/publications/notice339/input-tax-credits-related-to-dental-practices.md
+Document type: publication
+Last modified: 2024-10-25
+
+# Input Tax Credits Related to Dental Practices
+
+GST/HST Notices - Notice 339 October 2024
+
+This notice announces the revocation of the Canada Revenue Agency’s administrative arrangement with the Canadian Dental Association and explains the input tax credit rules that goods and services tax/harmonized sales tax (GST/HST) registrant dentists must follow.
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the *Excise Tax Act* (ETA). The information in this publication does not replace the law found in the ETA and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1‑800‑959‑8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1‑4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1‑855‑666‑5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [Background](#toc0)
+
+- [Revocation of administrative arrangement](#toc1)
+
+    - [Effect of revoking the administrative arrangement](#toc2)
+
+- [Input tax credit rules](#toc3)
+
+## Background
+
+In 1991, the Canada Revenue Agency (CRA) adopted an administrative arrangement with the Canadian Dental Association. Under the arrangement, a dentist who was a GST/HST registrant could, for each reporting period in a fiscal year, use an estimate up to a maximum of 35% of the total consideration charged for orthodontic treatments to represent the consideration for the supply of orthodontic appliances. This was used to estimate the extent of the dentist’s commercial activity for the reporting period.
+
+However, at the end of the fiscal year, the GST/HST registrant dentist was required to determine the extent of their commercial activity by performing a reconciliation based on the actual amounts charged for orthodontic appliances. The reconciliation ensured that the dentist did not overclaim input tax credits (ITCs) on overhead expenses and purchases consumed, used, or supplied in the making of both taxable supplies (for example, cosmetic services and orthodontic appliances) and exempt supplies of dental services.
+
+Throughout this document, where the term **dentist** is used, it refers to a dentist who is a GST/HST registrant.
+
+## Revocation of administrative arrangement
+
+The CRA has determined that the administrative arrangement is no longer appropriate and will be revoked. As the arrangement was only a guideline, it did not carry the weight of law and was not binding on the courts (such as the Tax Court of Canada). The administrative arrangement became redundant due to recent jurisprudence which determined that a dentist was able to claim ITCs in respect of supplies of orthodontic appliances that are supplied in conjunction with orthodontic services. Additionally, the administrative arrangement allows ITCs to be claimed in a manner that is contrary to the ITC provisions in the ETA.
+
+The revocation of the administrative arrangement will be effective the first day of the GST/HST registrant’s fiscal year that starts on or after January 1, 2025.
+
+## Effect of revoking the administrative arrangement
+
+As a result of the revocation, dentists will no longer be able to apply the administrative arrangement. Dentists who are following the administrative arrangement may continue to apply the administrative arrangement until the end of their current fiscal year. The revocation of the arrangement will apply to any fiscal year of the dentist that begins on or after January 1, 2025. A dentist who did not follow the administrative arrangement cannot apply it retroactively.
+
+Dentists will be required to follow the same rules for claiming ITCs that GST/HST registrants must follow. The revocation of the administrative arrangement should not change the total amount of ITCs that a dentist who followed the administrative arrangement will be eligible to claim in a fiscal year. Under the arrangement, a dentist estimated their ITC eligibility and performed an end-of-fiscal-year reconciliation. The reconciliation ensured that the dentist’s ITC claims reflected the extent that the inputs were actually consumed or used in the course of their commercial activities. After the revocation of the arrangement, a dentist is expected to claim ITCs throughout the year based on their actual eligibility to do so without making estimates. The eligibility to claim an ITC for a particular input remains dependant on the extent that the input was acquired for consumption or use in the course of their commercial activities.
+
+## Input tax credit rules
+
+A GST/HST registrant is generally eligible to claim an ITC for the GST/HST paid or payable on a property or service it acquired to the extent that the property or service was acquired for consumption or use in the course of the registrant’s commercial activities. A property or service is generally acquired for consumption or use in the course of a registrant’s commercial activities based on the extent to which the property or service is acquired for the purpose of making taxable supplies for consideration. Commercial activities include making taxable cosmetic service supplies or zero-rated supplies of orthodontic appliances for a fee. The making of exempt supplies, such as orthodontic services, is not a commercial activity for GST/HST purposes.
+
+A GST/HST registrant dentist cannot claim an ITC for the GST/HST paid or payable on property or a service if the dentist acquires it for consumption or use substantially all (90% or more) in the course of the dentist’s exempt activities, such as making supplies of orthodontic services. Conversely, a dentist may generally claim an ITC equal to 100% of the GST/HST paid or payable on property or a service if the dentist acquires it for consumption or use substantially all in the course of making taxable supplies for consideration, including zero-rated supplies of orthodontic appliances.
+
+An ITC must generally be apportioned where the property or service is acquired, imported or brought into a participating province for consumption or use, directly or indirectly, for the purpose of a dentist making both taxable supplies for consideration and exempt supplies.
+
+In the case of **capital personal property**, a dentist is only eligible for ITCs on the GST/HST paid or payable if the property is acquired by the dentist for use primarily (more than 50%) in their commercial activities. Where a dentist acquires, imports or brings capital personal property into a participating province for use more than 50% in their commercial activities, the dentist may be eligible for an ITC equal to 100% of the GST/HST paid or payable on the property if all other conditions for claiming an ITC are met.
+
+In the case of **capital real property**, a dentist may be eligible to claim an ITC to the extent that the property is acquired for use in their commercial activities if all other conditions for claiming an ITC are met. No ITC is allowed if the capital real property is acquired for use 10% or less in commercial activities. An ITC equal to 100% of the GST/HST paid or payable may be claimed if the capital real property is acquired for use 90% or more in commercial activities.
+
+Where the dentist is operating their dental practice as a sole proprietor, the dentist cannot claim an ITC if the capital real property is acquired primarily (more than 50%) for their personal use or that of a related individual.
+
+For more information on the general rules for claiming ITCs and methods for calculating ITCs, refer to the following publications:
+
+- [GST/HST Memorandum 8-1, General Eligibility Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1.html)
+
+- [GST/HST Memorandum 8-3, Calculating Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-3.html)
+
+- [Guide RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html), under the heading **Input tax credits**.
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST** **enquiry**by **telephone**:
+
+- for **GST/HST general enquiries,** call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries,**call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1-800-567-4692** or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution**(whether or not you are located in Quebec) and require information on the **GST/HST**or the**QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for **general GST/HST**or**QST enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **technical GST/HST**or**QST enquiries**, call **GST/HST Rulings SLFI** at **1-855-666-5166**

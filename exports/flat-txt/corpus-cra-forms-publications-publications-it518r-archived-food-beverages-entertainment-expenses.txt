@@ -1,0 +1,229 @@
+Title: ARCHIVED - Food, Beverages and Entertainment Expenses
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it518r/archived-food-beverages-entertainment-expenses.html
+Corpus path: corpus/cra/forms-publications/publications/it518r/archived-food-beverages-entertainment-expenses.md
+Document type: publication
+Last modified: 2019-04-26
+
+# ARCHIVED - Food, Beverages and Entertainment Expenses
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO.: **IT-518R**
+
+DATE: April 16, 1996
+
+SUBJECT: INCOME TAX ACT**Food, Beverages and Entertainment Expenses**
+
+REFERENCE: Section 67.1 (also sections 62, 63 and 118.2, subsections 6(6) and 8(1), and paragraphs 6(1)(b) and 18(1)(h))
+
+### NoticeBulletins do not have the force of law
+
+This document is also available for [download in other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it518r.html).
+
+## Contents
+
+- [*Application*](#P29_849)
+
+- [*Summary*](#P31_948)
+
+- [*Discussion and Interpretation*](#P33_1889)
+
+    - [General](#P34_1918) (¶s 1-3)
+
+    - [Exceptions to the 50% Limitation](#P48_3894) (¶ 4)
+
+    - [Provision of Food, Beverages or Entertainment for Compensation](#P50_4037) (¶ 5)
+
+    - [Fund-Raising Events for Registered Charities](#P52_5062) (¶ 6)
+
+    - [Amounts for which the Taxpayer is Compensated](#P54_5819) (¶ 7)
+
+    - [Benefits Included in an Employee's Income or Provided to an Employee at a Remote Work Location](#P60_6606) (¶ 8)
+
+    - [Employer-Sponsored Events or Services Available to All Employees](#P63_8440) (¶s 9-13)
+
+    - [Amounts Included in Fares for Transportation](#P69_12216) (¶ 14)
+
+    - [Conferences, Conventions and Seminars](#P71_12816) (¶ 15)
+
+    - [Example](#P73_14416) (¶ 16)
+
+    - [Food and Beverages](#P75_15017) (¶ 17)
+
+    - [Entertainment](#P77_15319) (¶s 18-20)
+
+- [*Explanation of Changes*](#P88_17718)
+
+## Application
+
+This bulletin cancels and replaces Interpretation Bulletin IT-518, dated March 28, 1989.
+
+## Summary
+
+When calculating income, a taxpayer may normally deduct reasonable amounts paid or payable for food, beverages, or entertainment if those amounts are incurred for the purpose of earning income from a business or property or, in certain circumstances, from an office or employment. In other cases, reasonable costs of food, beverages, or entertainment can either be included in inventory or capitalized. This bulletin deals with the general limitation on the deduction, the amount capitalized, or the amount included in inventory for a reasonable amount paid or payable for food, beverages, or entertainment, as well as the exceptions to this general limitation. It also lists certain items which are considered to be entertainment expenses. In addition, this bulletin explains the special rule for the treatment of food, beverages, or entertainment expenses that are included in conference, convention, seminar, or similar event fees.
+
+## Discussion and Interpretation
+
+## General
+
+**¶ 1.** Subsection 67.1(1) provides that costs in respect of the human consumption of food or beverages, or the enjoyment of entertainment are deemed to be 50% of the lesser of:
+
+(a) the amount actually paid or payable in respect of these items; and
+
+(b) an amount that would be reasonable in the circumstances to pay for them.
+
+In this bulletin, this is referred to as "the 50% limitation." It generally applies to amounts incurred after February 21, 1994 in respect of food and beverages consumed and entertainment enjoyed after February 1994. Before February 22, 1994, subsection 67.1(1) provided that food, beverages and entertainment expenses were subject to an 80% limitation. Various exceptions to the application of the 50% limitation are explained below. Also, see [15](#15) below for the special rule concerning conference, convention and seminar expenses.
+
+**¶ 2.** The 50% limitation applies for all purposes of the Act, other than section 62 (moving expenses), section 63 (child care expenses) and section 118.2 (medical expenses). The 50% limitation on amounts expended for food, beverages or entertainment applies equally whether the amounts are otherwise:
+
+(a) deductible as expenses;
+
+(b) capitalized (e.g., included in the cost of land or depreciable property); or
+
+(c) included in the cost of inventory, scientific research and experimental development expenditures, exploration and development expenses, or other costs.
+
+**¶ 3.** The 50% limitation applies to restrict otherwise allowable deductions in computing income from a business or property. It may also restrict amounts otherwise deductible when calculating income from employment under:
+
+(a) paragraph 8(1)(*e*)  away-from-home meal expenses of railway employees;
+
+(b) paragraph 8(1)(*f*)  expenses of commission salespersons;
+
+(c) paragraph 8(1)(*g*)  away-from-home meal expenses of certain transport employees; and
+
+(d) paragraph 8(1)(*h*)  travelling expenses of employees ordinarily required to work away from the employer's place of business.
+
+## Exceptions to the 50% Limitation
+
+**¶ 4.** Subsection 67.1(2) provides several exceptions to the 50% limitation. These are explained in 5 to 13 below.
+
+## Provision of Food, Beverages or Entertainment for Compensation
+
+**¶ 5.** Under paragraph 67.1(2)(*a*), the 50% limitation does not apply if the amount is paid or payable for food, beverages or entertainment to be provided in the ordinary course of a person's or a partnership's business of providing the food, beverages or entertainment for compensation or in expectation of compensation. This exempts, for example, restaurants, hotels and airlines from the 50% limitation if the expenses are incurred to provide food, beverages, or entertainment to paying customers. If a taxpayer' product or service is food, beverages or entertainment, promotional samples are also excluded from the 50% limitation. The exemption only applies to amounts expended for food, beverages, and entertainment that form part of the taxpayer's product or service. Therefore, if employees of a distillery or food company, for example, take customers out for a business meal, the costs for food, beverages, and entertainment are subject to the 50% limitation.
+
+## Fund-Raising Events for Registered Charities
+
+**¶ 6.** Under paragraph 67.1(2)(*b*), the 50% limitation does not apply if the expenses for food, beverages or entertainment are for a fund-raising event, the primary purpose of which is to benefit a registered charity. The 50% limitation would, however, apply to the price of admission to an event that is part of the regular activities of a registered charity to accomplish its objectives. For example, the cost of purchasing tickets for a client to attend a series of plays put on by an amateur theatre group that is a registered charity is not exempt from the 50% limitation. On the other hand, the cost of entertaining the client at the charity's annual fund-raising dinner would be exempt from the 50% limitation.
+
+## Amounts for which the Taxpayer is Compensated
+
+**¶ 7.** Under paragraph 67.1(2)(*c*), the 50% limitation does not apply if the amount paid or payable by a person or partnership for food, beverages, or entertainment is:
+
+(a) an amount for which the person or partnership is compensated;
+
+(b) the amount of the compensation is reasonable; and
+
+(c) the amount is specifically identified in writing to the person paying the compensation.
+
+For example, a self-employed individual expends a reasonable amount for meals while away from home. This amount is ultimately billed to a client and is identified in the account submitted to the client as an expense relating to meals. The self-employed individual would be entitled to fully deduct the meal expenses. The 50% limitation would, however, apply to the client.
+
+## Benefits Included in an Employee's Income or Provided to an Employee at a Remote Work Location
+
+**¶ 8.** Under paragraph 67.1(2)(*d*), the 50% limitation does not apply if the amount paid or payable for food, beverages or entertainment would be included in the employee's income except for the provisions of subparagraph 6(6)(*a*)(ii) relating to employment at a remote location (see the current version of IT-91, [*Employment at Special or Remote Work Sites*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it91r4.html)). Accordingly, amounts are not restricted if paid for food or beverages for employees at a location where, due to its remoteness from any established community, the employee could not reasonably be expected to establish and maintain a self-contained domestic establishment.
+
+Paragraph 67.1(2)(*d*) also provides that an employer is not subject to the 50% limitation on allowances or reimbursements for meal or entertainment expenses that have to be included in an employee's income. However, when calculating employment income, the employee would be subject to the 50% limitation on any deduction of related amounts that might be available under subsection 8(1)  see [3](#3) above. On the other hand, an employer is subject to the 50% limitation on a reasonable meal allowance that is paid to an employee for travel away from home, if that allowance is not included in the employee's income under paragraph 6(1)(*b*). Similarly, the 50% limitation applies to an overtime meal allowance or reimbursement paid by the employer, if the amount is not included in the employee's income. In addition, the 50% limitation applies to an employer's deduction of amounts reimbursed to an employee for meal expenses incurred in the course of an employer-sponsored relocation. However, the 50% limitation does not apply to meal expenses claimed by the employee which are eligible moving expenses under section 62.
+
+## Employer-Sponsored Events or Services Available to All Employees
+
+**¶ 9.** Under paragraph 67.1(2)(*e*), the 50% limitation does not apply if the employer incurs the amount for food, beverages or entertainment that is generally available to all its employees at a particular place of business and is consumed or enjoyed by them. This exempts costs incurred for a Christmas party or similar event to which all employees at a particular place of business have access. Employer-operated restaurants or cafeterias that are available to all employees at a particular place of business are also not subject to the 50% limitation. However, subsidized meals may give rise to a taxable benefit to the employees, depending on whether or not a reasonable charge is paid  see the current version of IT-470, [*Employees' Fringe Benefits*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-2-employers-employees/series-2-employers-employees-folio-3-employment-benefits/income-tax-folio-s2-f3-c2-benefits-allowances-received-employment.html). Restricted facilities, such as an executive lounge or dining room, would always be subject to the 50% limitation.
+
+**¶ 10.** For the purposes of paragraph 67.1(2)(*e*), a "particular place of business" could include a cluster of buildings, a building or a portion of a building, depending upon the circumstances. For example, an employer who occupies one storey of a building in the west of the city and a building in the east of the city would have two distinct places of business. On the other hand, an employer who occupies two or more buildings adjacent to each other might only have one particular place of business in respect of those buildings, depending on the surrounding circumstances. If access to the buildings is restricted for security, safety or other operational reasons, each of those buildings could be regarded as a separate place of business.
+
+**¶ 11.** One example of a location which would generally be considered "a particular place of business" is a customer's premises which are located well outside the municipality where the employer's operations are usually centred. Also, a site that qualifies as a "special work site" for the purposes of subparagraph 6(6)(a)(i), can generally be considered a "particular place of business." As a result, food, beverages and entertainment as described in 9 above, that are available to all of that employer's employees working at such a place of business, would not be subject to the 50% limitation.
+
+**¶ 12.** For the exception in paragraph 67.1(2)(*e*) to apply, it is not necessary for a party or other event to be held at the place of business; it may be held at a restaurant, rented hall or other location. The exemption under paragraph 67.1(2)(*e*) also applies to the costs of food, beverages and entertainment for the employees' spouses and children, provided these are offered to spouses and children of all employees. The costs of food, beverages and entertainment provided to persons who work at the particular place of business, but not as employees, and who attend the same generally-available party or event, are also considered to be exempt under this provision. This could include owners, partners or shareholder-managers of the business. If a party or event is only available to, or is primarily aimed at, selected employees or the owners, partners, managers or shareholders, the costs are not exempted from the 50% limitation. On the other hand, a party or event that is aimed only at employees of one or more specific divisions within a very large organization could qualify for the exemption, provided the event is open to all employees within that division.
+
+**¶ 13.** The exemption in paragraph 67.1(2)(*e*) is only available where the employer either provides the food, beverages or entertainment directly or makes the arrangements to provide these things. Allowances and reimbursements paid to employees who purchase food, beverages or entertainment are not eligible for this exemption from the 50% limitation.
+
+## Amounts Included in Fares for Transportation
+
+**¶ 14.** Paragraph 67.1(4)(*a*) provides that no amount paid or payable for travel on an airplane, train, or bus is considered to be for food, beverages, or entertainment. Accordingly, meals and beverages served, and entertainment provided while travelling on these vehicles are not subject to the 50% limitation if the cost of meals, beverages, and entertainment are included in the travel fee. This exception does not apply to food, beverages and entertainment provided while travelling by ship, boat or ferry. These expenses are subject to the 50% limitation.
+
+## Conferences, Conventions and Seminars
+
+**¶ 15.** Subsection 67.1(3) may apply when a fee is paid or payable for attendance at a conference, convention, seminar or similar event and that fee entitles the participant to food, beverages or entertainment. (For the purposes of subsection 67.1(3), incidental beverages and refreshments made available during the course of meetings or receptions, such as coffee, juice, doughnuts and muffins, are ignored.) If a reasonable part of the fee for a conference, convention, seminar or similar event, determined on the basis of the cost of providing the food, beverages or entertainment to which the participant is entitled, is not allocated or identified in the account for the fee by the organizer of the event as being compensation for the food, beverages or entertainment, then the rule in subsection 67.1(3) applies. This rule stipulates that for each day that food, beverages and entertainment (other than the incidental items noted above) are provided, $50 is deemed to be paid or payable for food, beverages and entertainment. This is the amount subject to the 50% limitation. The fee for the conference, convention, seminar or similar event is deemed to be the actual fee paid or payable minus the amount deemed to have been paid or payable for food, beverages and entertainment. The amount of $50 in subsection 67.1(3) may be superseded by an amount prescribed in the Regulations, but no such amount has been prescribed as of the date of this bulletin. For a more detailed discussion of this topic, refer to the current version of IT-131, [*Convention Expenses*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it131r2.html).
+
+## Example
+
+**¶ 16.** A fee of $500 is paid for attendance at a three-day business conference in 1995. Meals and entertainment are provided to participants, but no amount of the fee is allocated or identified for those services. As a result, subsection 67.1(3) deems $150 to be paid or payable for food, beverages, and entertainment ($50 per day) and to be subject to the 50% limitation. Assuming all other conditions for deductibility are met, the taxpayer may deduct $350 plus 50% of the $150 deemed to be for meals and entertainment ($75). Therefore, the maximum deduction for the conference expense is $425.
+
+## Food and Beverages
+
+**¶ 17.** The 50% limitation applies to the cost of food or beverages for human consumption including any related expenses such as taxes and tips. In addition, the cost of a restaurant gift certificate is considered to be an expense for food or beverages and is subject to this limitation.
+
+## Entertainment
+
+**¶ 18.** Paragraph 67.1(4)(*b*) includes amusement and recreation as "entertainment." Section 67.1 also mentions the "enjoyment of entertainment." This refers to the mere attendance at or experience of the event or service. While not an exhaustive list, the following items are considered to be entertainment expenses and are subject to the 50% limitation:
+
+(a) the cost of tickets for a theatre, concert, athletic event or other performance;
+
+(b) the cost of private boxes at sports facilities;
+
+(c) the cost of room rentals to provide entertainment, such as a hospitality suite;
+
+(d) the cost of a cruise;
+
+(e) the cost of admission to a fashion show;
+
+(f) the cost of entertaining guests at night clubs, athletic, social and sporting clubs and on vacation and other similar trips.
+
+Expenses related to the above items, such as taxes, gratuities, and cover charges, are also subject to the 50% limitation.
+
+**¶ 19.** For any outlay for entertainment to qualify as a deductible expense, a taxpayer must be prepared to demonstrate that the amount was incurred for the purpose of earning income (see the current version of IT-487, [*General Limitations on Deductions of Outlays or Expenses*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it487.html)). Records should be maintained of the names and business addresses of the customers or other persons being entertained, together with the relevant places, dates, times and amounts supported by such vouchers as are reasonably obtainable. Expenses that are personal in nature (other than expenses incurred by the taxpayer while away from home in the course of carrying on business) are not deductible by virtue of paragraph 18(1)(h). Payments for the services of a security escort or tour guide for a business client are normally deductible (subject to the 50% limitation) provided the amounts were incurred for the purpose of earning income. However, payments to what are sometimes called "escort services" for illicit services of a personal nature are never considered to be deductible outlays.
+
+**¶ 20.** If the cost of food, beverages, or entertainment is part of a package price, which includes amounts not subject to the 50% limitation, the taxpayer has to determine the value or make a reasonable estimate of the amount subject to the 50% limitation. Such a determination or estimation is not required if paragraphs 67.1(2)(c) or 67.1(4)(a) apply (see [7](#7) and 14 above) and is not permitted if subsection 67.1(3) applies (see [15](#15) above).
+
+## Explanation of Changes
+
+## Introduction
+
+The purpose of the *Explanation of Changes* is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+## Overview
+
+Interpretation Bulletin IT-518R describes the rules which, for tax purposes, limit the amount that may be deducted for food, beverages and entertainment expenses and the exceptions to these rules. This revision was undertaken to reflect amendments contained in S.C. 1995, c.3 (formerly Bill C-59) and S.C. 1991, c.49 (formerly Bill C-18) and to clarify and expand on certain departmental interpretations.
+
+## Legislative and Other Changes
+
+New paragraphs [1](#1) and 2 replace former paragraph 1 and reflect the Bill C-59 amendment that reduces the deductible portion of food, beverages and entertainment expenses from 80% to 50% for amounts incurred after February 21, 1994 for food or beverages consumed or entertainment enjoyed after February 1994.
+
+New paragraph [3](#3) clarifies the types of expenses that may be affected by the 50% limitation.
+
+New paragraphs [5](#5) to 8 bring forward the comments in former paragraph 2(a) to (d). New paragraph 8 expands on and clarifies the comments in former paragraph 2(d) concerning the application of the 50% limitation to claims for meal and entertainment expenses by employees. Paragraph 8 also sets out our position concerning overtime meal allowances and reimbursements for meal expenses incurred in the course of an employer-sponsored relocation.
+
+New paragraphs [9](#9) to 13 replace the comments in former paragraph 2(e) and reflect the Bill C-18 clarifying amendment to the paragraph 67.1(2)(e) exception. This amendment clarifies that the food and entertainment does not need to be offered at the business site in order to qualify for a full deduction. In addition, new paragraph 9 explains how the exception in paragraph 67.1(2)(e) applies to employer-operated restaurants and cafeterias. New paragraph 10 clarifies that for the purposes of this paragraph, an employer who occupies a number of adjacent buildings may nevertheless have more than one "particular place of business" if access to those buildings is restricted for security or operational reasons. New paragraph 11 provides some examples of temporary work locations that will generally be considered "a particular place of business." New paragraph 12 describes several other situations that may or may not qualify for the exception in paragraph 67.1(2)(*e*). New paragraph 13 clarifies that in order for an event to qualify for this exception, the employer must either provide the food or entertainment directly or make the necessary arrangements to provide them.
+
+New paragraph [14](#14) brings forward the comments in former paragraph 3 concerning paragraph 67.1(4)(*a*) which provides that meals and beverages served and entertainment enjoyed while using certain forms of transportation are not subject to the 50% limitation. It is clarified that this exclusion does not apply to food and entertainment consumed or enjoyed while travelling by ship.
+
+New paragraph [15](#15) brings forward the comments in former paragraph 4 and new paragraph 16 contains an example to illustrate the operation of subsection 67.1(3), which deals with meal and entertainment expenses in the context of a conference, convention or seminar.
+
+New paragraph [17](#17) brings forward the comments in former paragraph 5 and clarifies that the 50% limitation also applies to the cost of a restaurant gift certificate.
+
+New paragraph [18](#18) is based on former paragraph 6 and now clarifies what is meant by the word "enjoyment."
+
+New paragraph [19](#19) includes a number of additional comments dealing with claims for entertainment expenses, such as the need for a business purpose and the requirement to maintain substantiating records. It also clarifies our position concerning expenses which are personal in nature including those for escort services.
+
+A number of other changes have also been made to improve the overall clarity and readability of the bulletin.
+
+### Notice—Bulletins do not have the force of law
+
+At the Canada Customs and Revenue Agency (CCRA), we issue income tax interpretation bulletins (ITs) in order to provide technical interpretations and positions regarding certain provisions contained in income tax law. Due to their technical nature, ITs are used primarily by our staff, tax specialists, and other individuals who have an interest in tax matters. For those readers who prefer a less technical explanation of the law, we offer other publications, such as tax guides and pamphlets.
+
+While the comments in a particular paragraph in an IT may relate to provisions of the law in force at the time they were made, such comments are not a substitute for the law. The reader should, therefore, consider such comments in light of the relevant provisions of the law in force for the particular taxation year being considered, taking into account the effect of any relevant amendments to those provisions or relevant court decisions occurring after the date on which the comments were made.
+
+Subject to the above, an interpretation or position contained in an IT generally applies as of the date on which it was published, unless otherwise specified. If there is a subsequent change in that interpretation or position and the change is beneficial to taxpayers, it is usually effective for future assessments and reassessments. If, on the other hand, the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date on which the change is published.
+
+Most of our publications are available on our [Web site](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+***If you have any comments regarding matters discussed in an IT, please send them to:***
+
+***Manager, Technical Publications and Projects Section Income Tax Rulings Directorate Policy and Legislation Branch Canada Customs and Revenue Agency Ottawa ON K1A 0L5***
+
+***or by email at the following address: [bulletins@ccra.gc.ca](mailto:bulletins@cra-arc.gc.ca)***

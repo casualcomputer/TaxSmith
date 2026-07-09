@@ -1,0 +1,835 @@
+Title: Required Withholding from Amounts Paid to Non-Residents Providing Services in Canada
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic75-6/required-withholding-amounts-paid-non-residents-providing-services-canada.html
+Corpus path: corpus/cra/forms-publications/publications/ic75-6/required-withholding-amounts-paid-non-residents-providing-services-canada.md
+Document type: publication
+Last modified: 2020-02-24
+
+# Required Withholding from Amounts Paid to Non-Residents Providing Services in Canada
+
+NO.: **IC75-6R2**
+
+DATE: February 23, 2005
+
+SUBJECT: Required Withholding from Amounts Paid to Non-Residents Providing Services in Canada
+
+**This version is only available electronically.**
+
+## Contents
+
+- *[Application](#P70_3263)*
+
+- *[Exclusion of film industry](#P72_3459)*
+
+- *[Introduction](#P75_4050)*
+
+    - [PART I](#P80_4623)
+
+    - [Payments for services other than for an office or employment provided in Canada by non-residents](#P81_4629)
+
+          - *[Canadian withholding from amounts paid to non-residents](#P82_4725)*
+
+                  - [Legislation](#P83_4780) (¶s 1-2)
+
+                  - [Interpretation](#P86_5766) (¶s 3-6)
+
+          - *[Types of non resident entities covered by Regulation 105 withholding](#P91_7068)* (¶s 7-9)
+
+          - *[Types of activities subject to Regulation 105 withholding](#P95_8009)* (¶ 10)
+
+          - *[Examples of payments subject to Regulation 105 withholding](#P109_8691)*
+
+                  - [Payments to non-resident artistes and athletes](#P110_8749) (¶ 11)
+
+                  - [Advance payments](#P112_8995) (¶ 12)
+
+                  - [Withholding paid on behalf of a non-resident](#P114_9149) (¶ 13)
+
+                  - [Travel time](#P119_10621) (¶ 14)
+
+                  - [Marine and offshore oil and gas industries](#P121_10977) (¶s 15-20)
+
+                  - [Payments to a Canadian branch of a foreign entity](#P131_13259) (¶ 21)
+
+                  - [Payments to a joint venture or partnership](#P133_13452) (¶ 22)
+
+          - *[Examples of payments not subject to Regulation 105 withholding](#P135_13801)*
+
+                  - [Goods and Services Tax/Harmonized Sales Tax](#P136_13863) (¶ 23)
+
+                  - [Reasonable travel expenses](#P138_14214) (¶s 24-26)
+
+          - *[Types of contractual arrangements or agreements](#P142_15147)*
+
+                  - [Multi-tiered contracts](#P143_15194) (¶ 27)
+
+                  - [Bundled contracts](#P150_16114) (¶s 28-29)
+
+                  - [Yearly renewable contracts](#P153_17181) (¶s 30-31)
+
+                  - [Services performed inside and outside of Canada](#P156_17966) (¶s 32-34)
+
+          - *[Secondment of non-resident employees](#P172_21379)*
+
+                  - [Receiving / lending employer](#P173_21415) (¶s 35-40)
+
+          - *[Obligations of the payer](#P186_24599)*
+
+                  - [Regulation 105 withholding, remitting, and reporting](#P187_24623) (¶s 41-42)
+
+          - *[Obligations of the non-resident](#P190_25827)*
+
+                  - [Secondary level withholding](#P191_25858) (¶s 43-44)
+
+                  - [Business Number (BN)](#P194_26836) (¶s 45-47)
+
+                  - [Regulation 105 withholding and Part I instalments](#P202_27767) (¶s 48-49)
+
+                  - [Canadian Income Tax Return](#P205_28542) (¶s 50-55)
+
+          - *[Waivers or reduction of the Regulation 105 withholding based on tax treaty protection or estimated income and expenses](#P216_31172)*
+
+                  - [General requirements](#P217_31290) (¶s 56-58)
+
+                  - [To whom do these waiver guidelines apply?](#P223_32504) (¶ 59)
+
+                  - [When are the waiver applications to be presented?](#P225_32727) (¶s 60-61)
+
+                  - [By whom and in what format are waiver applications to be presented?](#P228_33435) (¶s 62-63)
+
+    - [PART II](#P231_34088)
+
+    - [Remuneration from an office or employment provided in Canada by non-resident employees](#P232_34095)
+
+          - *[Canadian withholding from remunerations paid to non-resident employees](#P233_34181)*
+
+                  - [Withholding legislative and administrative framework](#P234_34251) (¶ 64)
+
+                  - [Employer-employee relationship – employment services](#P236_35145) (¶s 65-67)
+
+          - *[Obligations of the employer](#P240_36083)*
+
+                  - [Regulation 102 withholding, remitting, and reporting](#P241_36110) (¶s 68-71)
+
+          - *[Taxable benefits and other employment income](#P246_38050)*
+
+                  - [Tax equalization or indemnification](#P247_38094) (¶ 72)
+
+                  - [Other employee taxable benefits](#P249_38588) (¶s 73-75)
+
+                  - [Director's fees paid to non-residents of Canada](#P267_39600) (¶s 76-79)
+
+          - *[Obligations of the non-resident employee](#P272_40981)*
+
+                  - [Social insurance number (SIN)](#P273_41021) (¶ 80)
+
+                  - [Canadian income tax return](#P275_41403) (¶s 81-85)
+
+          - *[Non-resident employee waiver of Regulation 102 withholding](#P283_43125)*
+
+                  - [General requirements](#P284_43183) (¶ 86)
+
+                  - [To whom do these waiver guidelines apply?](#P286_43572) (¶s 87-88)
+
+                  - [By whom, when, and where is a Regulation 102 waiver application to be presented?](#P292_44532) (¶s 89-90)
+
+                  - [How can the waiver guidelines provide relief?](#P295_45682) (¶s 91-96)
+
+    - [PART III](#P312_48205)
+
+    - [General information – Enquiries, Web site, forms, and publications](#P313_48213) (¶ 97)
+
+    - [Income tax conventions or treaties](#P315_48421) (¶ 98)
+
+    - [APPENDIX A – Guidelines for treaty based waivers involving Regulation 105 withholding](#P317_49104)
+
+    - [APPENDIX B – Guidelines for income and expense waivers involving Regulation 105 withholding](#P377_57896)
+
+## Application
+
+This information circular cancels and replaces Information Circular 75-6R, *Required Withholding From Amounts Paid To Non-residents Performing Services In Canada*, dated January 15, 1988.
+
+## Exclusion of film industry
+
+This information circular does not address legislative provisions, policies, or procedures for non-resident persons involved in the film and video production industry in Canada. Taxation issues related to non-resident actors and behind-the-scenes personnel within the film and video production industry should be referred directly to the Film Services Units located in the Montreal, Toronto Centre and Vancouver Tax Services Offices.
+
+Additional information can be found on the Canada Revenue Agency (CRA) Web site: [http://www.cra.gc.ca/](http://www.cra.gc.ca/) under ***Film Industry Services***.
+
+## Introduction
+
+This information circular provides information about Canadian income tax obligations and the policies and procedures of the CRA for:
+
+1) Payments for services provided in Canada by non-residents, other than those paid in respect of an office or employment, and
+
+2) Remuneration paid to a non-resident officer or employee in respect of an office or employment services provided in Canada.
+
+This information circular includes the CRA's administrative policies and procedures for processing waivers or reductions of withholding amounts in relation to both types of income.
+
+## PART I
+
+## Payments for services other than for an office or employment provided in Canada by non-residents
+
+### Canadian withholding from amounts paid to non-residents
+
+#### Legislation
+
+¶ 1. Paragraph 153(1)(g) of the Canadian *Income Tax Act* (the Act) states: “Every person paying at any time in a taxation year… (g) fees, commissions or other amounts for services, other than amounts described in subsection 212(5.1), …shall deduct or withhold from the payment the amount determined in accordance with prescribed rules and shall, at the prescribed time, remit that amount to the Receiver General on account of the payee's tax for the year under this Part or Part XI.3, as the case may be…”
+
+¶ 2. Section 105 of the *Income Tax Regulations* (Regulation 105) states: “Every person paying to a non-resident person a fee, commission or other amount in respect of services rendered in Canada, of any nature whatever, shall deduct or withhold 15 per cent of such payment.” As noted in subsection 105(2) of the Regulations, this withholding obligation does not apply in respect of remuneration of an office or employment, described in subsection 100(1) of the Regulations.
+
+#### Interpretation
+
+¶ 3. Pursuant to paragraph 153(1)(g) of the Act and Regulation 105, a withholding of 15% is required from the payment of fees, commissions, or other amounts paid or allocated to a non-resident person in respect of services provided in Canada.
+
+¶ 4. Although most tax treaties between Canada and other countries provide for some relief from Canadian tax, Canada normally does not relinquish its right to withhold pursuant to Regulation 105. One exception to this rule is found in Article XVII, paragraph 1, of the Canada–U.S. Tax Convention that limits to 10% the rate of withholding on the first CAN$5,000 of remuneration paid to an individual (does not apply to a corporation) by each payer in the calendar year in respect of the performance of independent personal services.
+
+¶ 5. The reference to “every person paying”, for the purposes of Regulation 105, includes any individual, corporation, or trust, whether resident or non-resident of Canada. Each member of a partnership is considered responsible for the Regulation 105 withholding.
+
+¶ 6. The CRA takes a broad interpretation of the wording “in respect of”. Therefore, a particular payment need not necessarily be paid only for services or, be paid to the person who performed the services in order for Regulation 105 withholding to apply.
+
+### Types of non-resident entities covered by Regulation 105 withholding
+
+¶ 7. For purposes of this information circular, Regulation 105 withholding is applicable to payments made to non-residents, who provide their services in Canada e.g., individuals (self-employed), corporations, participants in joint ventures and members of partnerships.
+
+¶ 8. Reference in this information circular to a “non-resident” will include any of the above noted entities.
+
+¶ 9. A payer should enquire whether payments are being made to an entity not resident in Canada for services rendered in Canada. The following indicators suggest that further enquiry is required: payments made to, or care of, a post office box; payment requested in a foreign currency; services provided by non-resident employees; or a foreign address on the contract or purchase order. If there is any doubt about the residency of the contracted entity, the payer should withhold from the payment.
+
+### Types of activities subject to Regulation 105 withholding
+
+¶ 10. The following list includes some activities to which Regulation 105 withholding may be applicable on any fees, commissions, or other amounts paid to non-residents. This list is not meant to be exhaustive.
+
+- construction projects;
+
+- installation projects;
+
+- manufacturing and/or processing;
+
+- oil and gas operations;
+
+- entertainment (circuses, carnivals, orchestras, theatrical shows, musicals, air shows, ice-shows, concerts, festivals, etc.);
+
+- athletic events (golf, rodeos, track and field, motor car racing, etc.);
+
+- forestry;
+
+- consulting;
+
+- legal or accounting services;
+
+- engineering;
+
+- lecturing; and
+
+- seminar/conference presentations.
+
+### Examples of payments subject to Regulation 105 withholding
+
+#### Payments to non-resident artistes and athletes
+
+¶ 11. Payments to non-resident artistes and athletes (other than amounts paid to film or video actors) for services provided in Canada e.g., appearance and endorsement fees, are subject to withholding.
+
+#### Advance payments
+
+¶ 12. Regulation 105 withholding is applicable to advance payments made in respect of services to be performed in Canada by a non-resident.
+
+#### Withholding paid on behalf of a non-resident
+
+¶ 13. A payer may be contractually required to make a payment to the CRA on behalf of a non-resident that is equivalent to the Regulation 105 withholding amount otherwise required to be deducted from a payment to the non-resident. A payer may also be contractually required to make payments for other potential Canadian tax liabilities of the non-resident whether federal, provincial, territorial, municipal or others. The CRA considers this to be an additional payment (i.e., a taxable benefit) in respect of the services to be provided in Canada and it is subject to Regulation 105 withholding. When pursuant to their contractual arrangement the payer remits the equivalent of the withholding to the CRA on behalf of the non-resident, the payer should calculate the withholding on the “grossed-up” amount. This “grossed-up” withholding amount should be remitted to the Receiver General on behalf of the non-resident. This amount paid on behalf of the non-resident must also be included on the T4A-NR information slip as additional income for the non-resident (see ¶s 41-42).
+
+The following formula effectively results in the required withholding on the “grossed-up” amount.
+
+Required withholding = [(applicable withholding rate) × payment] ÷ (100% – applicable withholding rate)
+
+E.g., On a payment to a non-resident for services rendered in Canada of $1,000 the required Regulation 105 withholding is $176.47 (15/85 × $1,000).
+
+#### Travel time
+
+¶ 14. Contractual arrangements for services to be provided in Canada may require that an amount be paid for the time spent for travel to and from the country of residence of the non-resident and/or its employees. Regulation 105 withholding would apply to this type of payment as it is considered payment in respect of services rendered in Canada.
+
+#### Marine and offshore oil and gas industries
+
+¶ 15. A “time-charter or fully-serviced charter” can be defined as the contractual arrangement between a non-resident and a payer for the charter of a fully provisioned vessel and its crew. The CRA considers these time-charter payments to be in respect of services and, therefore, subject to Regulation 105 withholding.
+
+¶ 16. A “bareboat charter”, as described in Interpretation Bulletin IT-494, *[Hire of Ships and Aircraft from Non-residents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it494.html)*, is a contract for hire that is a dry lease, demise, or bareboat charter that customarily makes the charterer responsible for all operations of the vessel. Payments for a bareboat charter are normally subject to withholding pursuant to Part XIII of the Act and not Regulation 105.
+
+¶ 17. The vessels referred to above may include an offshore oil or gas supply ship, a drill-rig, a drill-ship, a seismic ship, an offshore accommodation platform (floatel), etc.
+
+¶ 18. Time-charter contracts may also include the following type of payments that may be subject to Regulation 105 withholding:
+
+- Mobilization fees (normally costs associated with readying a vessel to start and perform its Canadian contract, including transporting the vessel to Canada);
+
+- Demobilization fees (costs associated with returning the vessel to its original condition and returning it to its home or other designated port);
+
+- Standby or idle time fees (fees for a vessel's downtime associated with its services being temporarily discontinued due to weather conditions, seasonal operation requirements, awaiting other Canadian contract requirements, etc. These fees may also be paid for the period the vessel is tied up in port while waiting for a Canadian contract to start or continue.)
+
+¶ 19. Payments of termination fees may be required when a Canadian oil or gas contract is completed before the stipulated dates, when there is poor performance, or when either party without cause cancels a contract. Such payments may be subject to withholding pursuant to Regulation 105 or Part XIII, depending upon the circumstances.
+
+¶ 20. If the payer and/or the non-resident consider that one or more of the above payments may not be subject to the Regulation 105 or Part XIII withholding requirements, they may consult with a tax services office (TSO).
+
+#### Payments to a Canadian branch of a foreign entity
+
+¶ 21. Payments to a Canadian branch of a foreign entity made in respect of services provided in Canada are subject to Regulation 105 withholding.
+
+#### Payments to a joint venture or partnership
+
+¶ 22. Payments to a joint venture or a partnership performing services in Canada which has one or more non-resident entities as a participant or member respectively will require Regulation 105 withholding based on the non-resident's percentage participation or membership in the joint venture or partnership.
+
+### Examples of payments not subject to Regulation 105 withholding
+
+#### Goods and Services Tax/Harmonized Sales Tax
+
+¶ 23. The Goods and Services Tax (GST) or the Harmonized Sales Tax (HST) charged in respect of services rendered in Canada by a non-resident are not subject to Regulation 105 withholding. Information on GST or HST can be found in guide RC4027, *[Doing Business in Canada – GST/HST Information for Non-Residents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4027.html)*.
+
+#### Reasonable travel expenses
+
+¶ 24. The CRA provides an administrative exception from withholding for reasonable travel expenses. Travel expenses reimbursed to the non-resident for meals to a maximum of CAN$45 a day per person and accommodation to a maximum of CAN$100 a day per person will not be subject to Regulation 105 withholding and will not require vouchers to be retained by the payer.
+
+¶ 25. Reasonable travel expenses, in excess of the above amounts, supported by vouchers retained by the payer and either paid directly to third parties on behalf of a non-resident, or reimbursed to a non-resident will also not be subject to Regulation 105 withholding.
+
+¶ 26. Such travel expenses are limited to those expenses incurred for transportation, accommodation, or meals. These amounts have to be reported on a T4A-NR information slip (see ¶s 41-42) as travel expenses, but are not to be included in gross income on this information slip.
+
+### Types of contractual arrangements or agreements
+
+#### Multi-tiered contracts
+
+¶ 27. Service agreements between payers and non-residents may require that a portion of the services to be performed in Canada be provided by another person or persons. This often results in non-residents hiring non-resident contractors, Canadian resident contractors, or both. Every payer whether a resident or non-resident of Canada, is responsible for Regulation 105 withholding on payments it makes to a non-resident in respect of services provided in Canada.
+
+The following example describes this further:
+
+- Canadian resident company Canco A contracts with non-resident company Nrco B to provide services in Canada. Canco A has agreed to pay $1,000 for the services.
+
+- Nrco B subcontracts part of the work to a non-resident company Nrco C. Nrco B has agreed to pay $450 for the services.
+
+- Canco A will withhold on the payment of $1,000 to Nrco B.
+
+- Nrco B will withhold on the payment of $450 to Nrco C.
+
+#### Bundled contracts
+
+¶ 28. “Bundled contract” is a term used to describe a contract that contains a number of provisions and may include requirements for payments to non-residents in respect of services rendered in Canada and for the use of property in Canada. The contractual arrangement will in large part determine the relevant withholding to be made and remitted. For example, a contract for the use of equipment in Canada and the provision of training in the use of that equipment may require that Part XIII tax be withheld on the rental portion of a payment and Regulation 105 on the training portion.
+
+¶ 29. A sale-of-goods contract with a non-resident may not only involve the purchase of a good but also the installation of that good in Canada. In these cases, only the payment made in respect of the installation services performed in Canada would require Regulation 105 withholding. If an allocation cannot be made and documented, Regulation 105 withholding is recommended on all the payments made to the non-resident in respect of the goods and services provided.
+
+#### Yearly renewable contracts
+
+¶ 30. “Yearly renewable contracts” are service contracts that are renewable, more or less, on a yearly basis. In such cases, the amount of the contract may be set at the beginning of the contract term, the contract payment(s) may be required regardless of whether services are actually performed, and the services may or may not have to be provided in Canada.
+
+¶ 31. Regulation 105 waivers (see ¶s 56-63) may be granted on these yearly renewable contracts provided all the relevant information in respect of the services to be rendered in Canada is provided and the treaty–based or income and expense waiver guidelines apply. If for subsequent years the facts do not change, the non-resident waiver applicant may apply, in writing, for an extension of the waiver.
+
+#### Services performed inside and outside of Canada
+
+¶ 32. Services performed by a non-resident pursuant to contractual obligations may be rendered both inside and outside of Canada. Payments, or a portion thereof, for services performed outside of Canada are not subject to Regulation 105 withholding. In such cases, a reasonable allocation of the payment will be required to determine the portion that will be subject to Regulation 105 withholding. The portions allocated to the services to be performed inside and outside Canada must be clearly expressed either within the contract or through the related information and documents. It is the responsibility of the non-resident and the payer to determine the proper value of these amounts.
+
+¶ 33. While it may not always be necessary for the non-resident to apply for a waiver of withholding in such cases (see ¶s 56-63), the payer must retain the appropriate information and documentation supporting an allocation for potential CRA consideration. If an allocation is not made and documented, it is recommended that Regulation 105 withholding be applied to the total payments made to the non-resident in respect of the services provided.
+
+¶ 34. The following example provides further information about the allocation for services performed both inside and outside of Canada and the Regulation 105 withholding implications for the allocated amounts.
+
+- A non-resident will provide maintenance services to a Canadian payer.
+
+- The three-year maintenance agreement may have either a) or b) noted below as the payment schedule:
+
+a) a fixed monthly fee paid to the non-resident, after the applicable month end to which it relates, or
+
+b) a one-time, up-front fee.
+
+The following three scenarios give the withholding obligations based on this example.
+
+1) **Maintenance services are provided in Canada and elsewhere during a particular month.**
+
+In respect of both payment schedules a) and b) above, the withholding is applicable to an allocated portion of the payment relating to the services provided in Canada. Regulation 105 withholding is not required in respect of a payment, or portion thereof, for services that are not provided in Canada. The onus is on the payer and the non-resident to arrive at a reasonable allocation of the payment in order to apply the Regulation 105 withholding on the Canadian service portion. The CRA would expect that such an allocation is based on the proper supporting documentation.
+
+2) **Maintenance services are rendered solely in Canada during a particular month.**
+
+In respect of both payment schedules a) and b) above, the Regulation 105 withholding is applicable to the payment made for the services provided or to be provided in Canada, at the time the payment is made to the non-resident.
+
+3) **No maintenance services are rendered during a particular month.**
+
+In respect of the payment schedule a) above, the particular facts of a case will determine whether withholding is applicable. If a fixed monthly fee relates to a previous period or future period when services are performed in Canada, then Regulation 105 withholding may be applicable, for example, a contract that requires specific identifiable deliverables to be performed during the term of the maintenance agreement.
+
+In respect of the payment schedule b) above, Regulation 105 withholding is applicable to the fee paid for the services to be provided in Canada, at the time the fee is paid to the non-resident.
+
+### Secondment of non-resident employees
+
+#### Receiving / lending employer
+
+¶ 35. For the purposes of this information circular, secondment means the temporary assignment of an employee from an entity (lending employer) in a foreign country to an entity (receiving employer) carrying on business in Canada, supported by the existence of an employer/employee relationship between the individual and the receiving employer. A secondment may exist whether or not an employee remains on the payroll of the lending employer, or is transferred to the payroll of the receiving employer.
+
+¶ 36. Regulation 105 withholding questions concerning seconded employees arise when non-resident employees remain on the lending employer's payroll and the non-resident lending employer charges the receiving employer for amounts expended in respect of that seconded employee. In this regard, the issues to be addressed are as follows:
+
+1) Is the non-resident employee factually an employee of the receiving employer? and
+
+2) Is the lending employer carrying on business in Canada in its own right?
+
+¶ 37. Factors indicating there may be a secondment:
+
+- the secondment and employment agreements are in writing, and are signed by the lending and receiving employers and the seconded employee(s);
+
+- the legal terms of the secondment, such as the duration or project to be completed, the employee's and employer's responsibilities, the job description, the rate of pay, and any other benefits or payments are specified;
+
+- the receiving employer is responsible for the employee's salary and benefits such as medical, pension, and possible tax payments, and, normally, any costs of the transfer including travel and relocation; and
+
+- there is no element of profit included in the charge-back to the receiving employer by the lending employer.
+
+¶ 38. Where factors supporting a secondment are met and the lending employer retains the non-resident employee on its payroll, Regulation 105 withholding will not be required on the payments made for reasonable reimbursements. Reasonable reimbursements include the remuneration, travel, accommodation, and per diem costs that were incurred on behalf of the seconded employee in respect of the employment services provided in Canada. The receiving employer must retain supporting documentation to substantiate the payments made to the lending employer. The payer is responsible for making the necessary withholding under Regulation 102 in respect of the individual's remuneration (see Part II).
+
+¶ 39. The payment of a mark-up (profit element) or unreasonable charges for overhead costs by the receiving employer may be viewed by the CRA as the lending employer carrying on business in Canada. The total payment would then be subject to Regulation 105 withholding. For secondment purposes, the CRA will consider an administrative overhead charge of $250 per month per employee to be reasonable. If the overhead charges are in excess of this amount, the payer and or the non-resident should consider consulting the TSO to determine if withholding would apply to the payments.
+
+¶ 40. A non-resident lending employer may seek assistance from the TSO nearest to where the individual's services are to be provided for a further review of the issue.
+
+### Obligations of the payer
+
+#### Regulation 105 withholding, remitting, and reporting
+
+¶ 41. Amounts withheld from payments to a non-resident must be remitted to the Receiver General by the 15th of the month following the month in which the payment is made to the non-resident. A payer, whether a resident or non-resident of Canada, who fails to deduct and remit an amount as required by paragraph 153(1)(g) of the Act and Regulation 105, will be held liable for the whole amount together with any interest and penalties.
+
+¶ 42. Whether or not a waiver or reduction of withholding was issued to a non-resident (see ¶s 56-63), a T4A-NR Information Return (T4A-NR Slips and Summary Form), reporting all amounts paid to non-residents for services provided in Canada (other than employment services) must be filed with the CRA by the last day of February in the year following the year in which the amounts were paid. A copy of the T4A-NR information slip must also be issued to each non-resident. This slip includes, the identification of the payer and payee, gross income paid, and applicable travel expenses and taxes withheld. Further information on completing each of these forms can be found in the guide T4061, [*Non-Resident Withholding Tax*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4061.html).
+
+### Obligations of the non-resident
+
+#### Secondary level withholding
+
+¶ 43. Secondary level withholding refers to withholding which the non-resident service provider may be required to make in respect of amounts it pays to other persons, such as Regulation 105 withholdings in respect of non-resident sub-contractors, Regulation 102 withholdings in respect of resident or non-resident employees or for payments subject to Part XIII withholding. The granting of a waiver or reduction of withholding (see ¶s 56-63) on amounts to be received by a non-resident does not relieve the non-resident from the requirement to withhold, remit, and report all secondary payments it makes to other persons for services provided in Canada.
+
+¶ 44. If the non-resident service provider has secondary obligations and subsequent follow-up by the CRA discloses that the non-resident payer/employer has not fulfilled those obligations as required under the Act, the waiver will be cancelled and the payer(s) told to begin withholding accordingly.
+
+#### Business Number (BN)
+
+¶ 45. Most businesses operating in Canada are required to register for a BN. The BN is a numbering system that simplifies and streamlines the way businesses deal with the Canadian government.
+
+¶ 46. A non-resident making payments to other non-residents (e.g., sub-contractors or employees) in respect of services rendered in Canada is also required to obtain a BN. The non-resident needs the BN to deal with the CRA e.g., to apply for a waiver or reduction of withholding and when remitting and reporting payments made and amounts withheld pursuant to Regulation 105 and Regulation 102. For more information, see our pamphlet (RC2), *The Business Number and Your Canada Customs and Revenue Agency Accounts*.
+
+¶ 47. Ways to register for a BN:
+
+- call 1-800-959-5525 from Canada or the United States;
+
+- mail or fax the form to your TSO; or
+
+- go in person to your TSO.
+
+To register, use Form RC1, [*Request for a Business Number (BN)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc1.html).
+
+#### Regulation 105 withholding and Part I instalments
+
+¶ 48. A non-resident who is liable for Part I tax is required to make instalment payments pursuant to sections 155, 156 or 157 of the Act, similar to a Canadian resident.
+
+¶ 49. The CRA recognizes there is an overlap between the requirements of Regulation 105 and Part I instalments that could create undue hardship for the non-resident. Administratively, the CRA will accept instalment payments that have been reduced by the amounts withheld at source through Regulation 105 withholding. When making reduced Part I instalments because of Regulation 105 withholdings, non-residents should identify the amount of any reduction and the name and address of the payer/s. A letter with this information should accompany the instalment.
+
+#### Canadian Income Tax Return
+
+¶ 50. Regulation 105 withholding does not represent a final tax of the non-resident. Rather, it is a payment on account of the non-resident's potential Part I tax liability to Canada. The ultimate tax liability is determined after the assessment of the non-resident's Canadian income tax return. Non-residents are normally required to file a Canadian income tax return to calculate their tax liability or to obtain a refund.
+
+- In the case of individuals, a T1 Individual Income Tax Return must be filed by April 30th of the following calendar year, or by June 15th if an individual is carrying on business in Canada.
+
+- In the case of a corporation, a *T2 Corporation Income Tax Return* must be filed within six months of the end of the taxation year.
+
+- In the case of a partnership, each member of the partnership must file the appropriate Income Tax Return (either T1 or T2) within the required time.
+
+¶ 51. Copy 3 of the non-resident's T4A-NR information slip must be attached to the Canadian income tax return to substantiate the amounts received by the non-resident and the withholding deducted and remitted to the CRA on behalf of the non-resident. Photocopies of the form are not acceptable.
+
+¶ 52. If after assessment of the non-resident's Canadian income tax return a refund is due to the non-resident, this refund may be applied to other outstanding federal, provincial, or territorial government debts, such as income tax, Canada Pension Plan (CPP), or Employment Insurance (EI) liabilities of the non-resident arising from the failure to withhold in respect of payments to employees (Regulation 102), payments to other non-residents for services (Regulation 105), passive income type payments to non-residents (Part XIII), and Goods and Services Tax or Harmonized Sales Tax.
+
+¶ 53. The granting of a waiver or reduction of withholding (see ¶s 56-63) on amounts subject to Regulation 105 does not affect the requirement of the non-resident providing services in Canada to file a Canadian income tax return. Also, if the non-resident received a waiver in a previous year but did not file a return for that year, and the filing due date specified under section 150 of the Act has passed, the TSO will take all of this into consideration before issuing any further waiver of withholding.
+
+¶ 54. Non-resident income tax returns should be sent to:
+
+International Tax Services Office 2204 Walkley Rd. Ottawa ON K1A 1A8 Canada
+
+¶ 55. Further information on the income tax filing requirements for non-residents may also be obtained on the CRA Web site: [http://www.cra.gc.ca/](http://www.cra.gc.ca/) and the CRA guide T4058, *[Non-Residents and Income Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4058.html)*.
+
+### Waivers or reduction of the Regulation 105 withholding based on tax treaty protection or estimated income and expenses
+
+#### General requirements
+
+¶ 56. Where a non-resident can demonstrate, based on treaty protection or estimated income and expenses, that the normally required withholding is in excess of the ultimate tax liability, the CRA may waive or reduce the withholding accordingly pursuant to the *Undue Hardship* provisions of subsection 153(1.1) of the Act.
+
+¶ 57. The CRA has established two types of waiver procedures, which provide for the waiving or reduction of the Regulation 105 withholding which would otherwise be required. Canada does not relinquish its right to Regulation 105 withholding through income tax treaties, only through the waiver process. These waiver procedures are found in the following appendices.
+
+- **Appendix A** “Guidelines for Treaty-Based Waivers Involving Regulation 105 Withholding”, and
+
+- **Appendix B** “Guidelines for Income and Expense Waivers Involving Regulation 105 Withholding”.
+
+¶ 58. Further information on both of these waiver procedures may be obtained from the TSO nearest to where the services of the non-resident are to be provided in Canada, or from the CRA Web site: [http://www.cra.gc.ca/](http://www.cra.gc.ca/). Waiver applications should be presented to the TSO that serves the area where the services are to take place.
+
+#### To whom do these waiver guidelines apply?
+
+¶ 59. These guidelines apply, with the noted exceptions in Appendix A, to all non-residents who are performing services in Canada and to whom Regulation 105 withholding is applicable.
+
+#### When are the waiver applications to be presented?
+
+¶ 60. Waiver applications should be submitted at least 30 days before either services begin in Canada or initial payment. These timeframes are necessary to provide sufficient time for the TSO and the non-resident to properly establish whether a waiver or a reduction from the required withholding is warranted. The TSO will make every effort to process properly documented waiver applications in situations where they are received less than 30 days prior to payment or the date services begin.
+
+¶ 61. A waiver application can be made subsequent to the start of payments. Should a waiver be granted, it will only apply to payments made after the waiver was issued.
+
+#### By whom and in what format are waiver applications to be presented?
+
+¶ 62. The non-resident or the non-resident's authorized representative, including the payer, can make the waiver application. The non-resident must grant proper authorization to the representative before the CRA can discuss any confidential information.
+
+*¶ 63. Use waiver application Form R105, *[Regulation 105 Waiver Application](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/r105.html)*, with accompanying instructions and information. These forms are available on the CRA Web site: [http://www.cra.gc.ca/](http://www.cra.gc.ca/) or from any TSO.*
+
+## PART II
+
+## Remuneration from an office or employment provided in Canada by non-resident employees
+
+### Canadian withholding from remunerations paid to non-resident employees
+
+#### Withholding legislative and administrative framework
+
+¶ 64. Pursuant to paragraph 153(1)(a) of the Act and Regulation 102, remuneration paid to non-resident employees who provide services in Canada is subject to the same withholding, remitting, and reporting obligations as those for Canadian resident employees. This remuneration is subject to deductions at source based on graduated rates that may need to be remitted on an accelerated basis (see section 108 of the Regulations) depending on the source deduction history of the employer. Therefore, any person paying another person salary, wages, commissions, bonuses, or other remuneration in respect of an office or employment in Canada must deduct or withhold, remit, and report these amounts to the CRA. These obligations extend to non-residents of Canada employing either resident or non-resident employees for services performed in Canada.
+
+#### E mployer-employee relationship – employment services
+
+¶ 65. The type of withholding required from payments to non-residents performing services in Canada depends on whether the non-resident is an independent contractor or an employee.
+
+¶ 66. The status of the non-resident as either an independent contractor or an employee is a question of fact. Rules which govern this determination are consistent with those applied to Canadian resident employees and the traditional tests focus on several major factors: such as degree of control, chance of profit or risk of loss, integration into the business operation and ownership of tools.
+
+¶ 67. If there is doubt as to the type of working relationship of the non-resident providing services in Canada, please refer to RC4110, [*Employee or Self-Employed Guide*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4110.html) available on our Web site: [http://www.cra.gc.ca/](http://www.cra.gc.ca/) or contact the CPP/EI Rulings area of the TSO closest to where the services are to be provided.
+
+### Obligations of the employer
+
+#### Regulation 102 withholding, remitting, and reporting
+
+¶ 68. Employers are required to withhold and remit withholding tax, Canada Pension Plan contributions (CPP), and Employment Insurance Premiums (EI) for each of their employees unless a waiver of withholding tax (see ¶s 86-96) has been issued and/or an exemption provided for CPP based on a Reciprocal Agreement on Social Security that Canada has with the employee's home country. Questions concerning these reciprocal agreements should be referred to the CPP/EI Rulings area of the TSO. These deductions on behalf of the non-resident employee(s) must be remitted, together with the applicable employer's portion, to the employer's CRA business number account.
+
+¶ 69. Employers are required to prepare and file a T4 Information Return (T4 Slips and Summary Form), reporting all amounts paid to their employees whether or not a waiver of withholding was received from the CRA. The T4 Information Return must be filed with the CRA by the last day of February in the year following the year in which the payments were made. Employees, both resident and non-resident, must be provided with a copy of their T4 information slips by the last day of February.
+
+¶ 70. The employer, whether a resident or non-resident of Canada, who fails to deduct and remit an amount as required by paragraph 153(1)(a) of the Act and Regulation 102, will be held liable for the whole amount together with any interest and penalties.
+
+¶ 71. For more detailed information on any of the employment-related issues, please contact the nearest TSO. For information on how to complete each of these forms, please refer to the following employers' guides: T4001, [*Employers' Guide – Payroll Deductions (Basic Information)*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4001.html), RC4163, *Employers' Guide – Remitting Payroll Deductions* and RC4120, *[Employers' Guide – Filing the T4 Slip and Summary Form](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4120.html)*. These guides are available from any TSO or on the CRA Web site: [http://www.cra.gc.ca/](http://www.cra.gc.ca/).
+
+### Taxable benefits and other employment income
+
+#### Tax equalization or indemnification
+
+¶ 72. Employment contracts may provide for some or all of the potential Canadian tax liability of the non-resident employee that will be paid on their behalf by the employer. The CRA considers this to be additional remuneration (e.g., a taxable benefit) in respect of the employment services provided in Canada, and it is subject to Regulation 102 withholding. Consequently, the full amount of the tax payable should be included in the withholding calculation.
+
+#### Other employee taxable benefits
+
+¶ 73. There are many types of employment benefits (cash and non-cash) and whether or not they are taxable depends on the type of benefit or allowance and the reason an employee or officer receives them.
+
+¶ 74. Some benefits include the following.
+
+- Automobile benefits and allowances
+
+- Interest free and low interest loans
+
+- Stock options
+
+- Holiday trips, other prizes, and incentive awards
+
+- Housing – rent-free or low-rent
+
+- Mortgage interest differential
+
+- Housing allowance
+
+- Vacation travel costs
+
+- Cost of living allowance
+
+- Auto purchase plans
+
+- Moving expenses
+
+- Unreasonable per diem allowances
+
+- Relocation allowance
+
+¶ 75. The calculation of the Regulation 102 withholding applicable to the benefits noted above, whether cash or non-cash benefits, would be the same as that applicable to Canadian resident employees. For more information, please refer to the T4130, *[Employers' Guide – Taxable Benefits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4130.html)*, visit the CRA Web site: [http://www.cra.gc.ca/](http://www.cra.gc.ca/) or call the Business Enquiries Line at 1-800-959-5525.
+
+#### Director's fees paid to non-residents of Canada
+
+¶ 76. The position of a corporate director is an “office” as defined in subsection 248(1) of the Act and the director's fees received by such a person are related to an office or employment. Such fees are included in income as “salary and wages” by virtue of paragraph 6(1)(c) of the Act.
+
+¶ 77. Where director's fees are paid to a non-resident of Canada for services performed in Canada, withholding pursuant to paragraph 153(1)(a) and Regulation 102 is required on the same basis as a Canadian resident officer or employee. CPP contributions and EI premiums may be required if the director also performs services in Canada as an employee.
+
+¶ 78. Director's fees paid to a non-resident director are reported on a T4 information slip. Effective January 1, 2004, the withholding tax on amounts paid to non-resident directors uses graduated rates, the same as for resident officers, rather than the Regulation 105 withholding rate.
+
+¶ 79. For more information on the withholding and reporting obligations with respect to non-resident director's fees, please contact the nearest TSO or refer to the T4001, *[Employers' Guide – Payroll Deductions (Basic Information)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4001.html)*, Interpretation Bulletins IT-377, [*Director's, Executor's and Juror's Fees*](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/list-cancelled-interpretation-bulletins.html), IT-468, [*Management or Administration Fees Paid to Non-Residents*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it468r.html), or the CRA Web site: [http://www.cra.gc.ca/](http://www.cra.gc.ca/).
+
+### Obligations of the non-resident employee
+
+#### Social insurance number (SIN)
+
+¶ 80. Individuals engaged in employment (employees) in Canada are normally required to have a Social insurance number (SIN). When a non-resident employee applies for a waiver of withholding (see ¶s 86-96), the TSO will ask the non-resident for a SIN. Non-resident employees must also have a valid work permit issued by Citizenship and Immigration Canada.
+
+#### Canadian income tax return
+
+¶ 81. Regulation 102 withholding does not represent a final tax of the non-resident. Rather, it is a payment on account of the non-resident's Part I tax liability to Canada. The ultimate tax liability will be determined after the assessment of the non-resident's Canadian income tax return. Non-resident employees are normally required to file a Canadian income tax return to calculate their tax liability or to obtain a refund.
+
+- In the case of individuals earning employment income in Canada, a T1 Individual Income Tax Return must be filed by April 30th of the following calendar year.
+
+¶ 82. Copy 3 of the non-resident's T4 information slip must be attached to the Canadian income tax return to substantiate the amounts received by the non-resident and the withholding deducted and remitted to the CRA on behalf of the non-resident. Photocopies of the form are not acceptable.
+
+¶ 83. The granting of a waiver of withholding (see ¶s 86-96) on amounts subject to Regulation 102 does not affect the requirement of the non-resident providing services in Canada to file a Canadian income tax return. Also, if the non-resident received a waiver in a previous year but did not file a tax return for that year, and the filing due date specified under section 150 of the Act has passed, the TSO will take all of this into consideration before issuing any further waiver of withholding.
+
+¶ 84. Non-resident income tax returns should be sent to:
+
+International Tax Services Office 2204 Walkley Road Ottawa ON K1A 1A8 Canada
+
+¶ 85. Further information on the income tax filing requirements for non-residents is available on the CRA Web site: [http://www.cra.gc.ca/](http://www.cra.gc.ca/) and from the CRA guide T4058, *[Non-Residents and Income Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4058.html)*.
+
+### Non-resident employee waiver of Regulation 102 withholding
+
+#### General requirements
+
+¶ 86. Waiver procedures, as described below, may assist in determining whether a non-resident employee is eligible for treaty relief from the Regulation 102 withholding while employed in Canada. These procedures can be used in cases where the dependent personal services article of the income tax treaty of the non-resident employee's country of residence is applicable.
+
+#### To whom do these waiver guidelines apply?
+
+¶ 87. The guidelines apply to non-resident employees providing services in Canada whether or not the employer is a resident of Canada, and the employee is resident of a country that has a tax treaty with Canada that provides for such relief.
+
+¶ 88. These guidelines do **not** apply to:
+
+- residents of a non-treaty country; or
+
+- personal services businesses as defined in subsection 125(7) of the Act.
+
+An individual engaged in a personal services business will normally be considered an employee of the corporation. Payments made by a payer to a non-resident corporation carrying on a personal services business in Canada are subject to a 15% withholding according to Regulation 105. Any salary or remuneration paid to the employee of the non-resident corporation in connection with services rendered in Canada will require Regulation 102 withholding. These withholding requirements are all subject to the current waiver provisions.
+
+#### By whom, when, and where is a Regulation 102 waiver application to be presented?
+
+¶ 89. A non-resident employee, or an employer (with the employee's authorization), should apply for a waiver of the Regulation 102 withholding 30 days before either the employment services begin in Canada or initial payment. A written submission should be made to the TSO closest to where the employment services are to be provided in Canada. This submission must provide information as to the applicability of the treaty article of the income tax convention of the country of residence of the employee. Also, a copy of the employment contract and sufficient information and/or documentation to allow the TSO to determine the non-resident employee's employment and residency status must accompany this written submission. The TSO will make every effort to process properly documented waiver applications in situations where they are received less than 30 days prior to payment or the date services begin.
+
+¶ 90. A waiver application can be made subsequent to the start of payments. Should a waiver be granted, it will only apply to payments made after the waiver was issued.
+
+#### How can the waiver guidelines provide relief?
+
+¶ 91. These guidelines are based on the CRA's interpretation and application of the “Dependent Personal Services” article of Canada's Tax Treaties. Article XV of the 1980 Canada-United States Income Tax Convention (the Convention) is used for illustrative purposes.
+
+¶ 92. A Regulation 102 treaty-based waiver will be granted if a US resident employee meets the following criteria:
+
+1) The total remuneration does not exceed CAN$10,000 in the calendar year in which the employment is exercised in Canada;
+
+OR
+
+2) The employee is not present in Canada for a period or periods exceeding 183 days in the calendar year;
+
+AND
+
+The remuneration is not borne by:
+
+a) an employer who is a resident of Canada,
+
+OR
+
+b) a permanent establishment or fixed base which the employer has in Canada.
+
+Under the provisions of paragraph XV(1) of the Convention, salary, wages, and similar remuneration derived by a resident of the U.S. in respect of employment are taxable only in the U.S. unless the employment is exercised in Canada.
+
+¶ 93. With respect to employment income earned in Canada for a calendar year, “a calendar year” means the calendar year in which the employment is exercised, not necessarily the year in which the income is received.
+
+¶ 94. When considering the 183-day rule, the word “day” includes any day or part of a day of the calendar year in which the person was physically present in Canada, regardless of the number of hours present including holidays and weekends. The calendar year in which the 183 days are counted is the year in which the employment is exercised, not necessarily the year in which the remuneration is received.
+
+¶ 95. The CRA has adopted the OECD position that the words “borne by” mean that the expense is allowable as a deduction in calculating taxable income. For the exemption in subparagraph XV(2)(b) to apply, the remuneration cannot be borne (i.e., allowable as a deduction in calculating taxable income) by a resident of Canada or an employer who has a permanent establishment or fixed base in Canada. Remuneration is borne by someone if they are charged either directly or indirectly, through a management or administration fee or otherwise. The fact that the employee continues to be paid from the other country is not relevant in deciding by whom it was borne.
+
+¶ 96. The phrase “an employer” in subparagraph XV(2)(b) refers to an employer who is resident in the other state (e.g., Canada) or who has a permanent establishment or fixed base in the other state (e.g., Canada).
+
+## PART III
+
+## General information – Enquiries, Web site, forms, and publications
+
+¶ 97. Further information is available from the International Tax Section of the nearest TSO or from the CRA Web site at [http://www.cra.gc.ca/](http://www.cra.gc.ca/).
+
+## Income tax conventions or treaties
+
+¶ 98. Canada reserves the right to tax income earned within its boundaries. It has negotiated tax treaties with countries to eliminate double taxation for persons residing in one jurisdiction and earning income in another. Currently, it has more than 80 tax treaties in force and a number under negotiation/re-negotiation. These treaties, among other things, play a vital role in determining whether Canada retains the right to tax a non-resident on income arising in Canada or, if that right rests with the non-resident's home country. Copies of Canada's tax treaties can be obtained from the Department of Finance Web site at [http://www.fin.gc.ca/](http://www.fin.gc.ca/).
+
+## APPENDIX A – Guidelines for treaty-based waivers involving Regulation 105 withholding
+
+### Purpose of treaty-based Regulation 105 waiver guidelines
+
+These guidelines are for non-residents requesting relief under a tax treaty from Regulation 105 withholding based on the absence of a fixed base or permanent establishment in Canada. The guidelines are not intended to determine whether a non-resident has a fixed base or permanent establishment in Canada.
+
+Any waiver applicant making a claim for a treaty-based waiver must provide proof of residency in a treaty country and proof of entitlement to treaty benefits.
+
+Treaty-based waivers will be granted if the applicant meets one of the following tests:
+
+|  | Test A | Test B | Test C |
+
+| --- | --- | --- | --- |
+
+| **Type of non-resident applicant** | Individuals with income less than CAN$5,000 in calendar year. | Individuals or corporations | Individuals or corporations |
+
+| **“Recurring”** | N/A | **No** | **Yes** |
+
+| **Days in current contract/ engagement less than 180** | N/A | **Yes** | **Yes** |
+
+| **Days in “the period” less than 240** | N/A | N/A | **Yes** |
+
+| **Waiver determination** | Waive withholding. | Waive withholding, unless facts fit exception category. | Waive withholding, unless facts fit exception category. |
+
+“Recurring” means that a non-resident applicant undertakes to perform services for a second or subsequent contract/engagement in Canada within “the period”. It does not include an instance where the non-resident person leaves and returns to Canada during the same contract/engagement.
+
+“The period” means the current calendar year, the three immediately preceding calendar years, and the three immediately following calendar years.
+
+Waivers will only be granted in those cases where the applicant meets one of the above tests or in specific circumstances depending on the type of activities they will be performing in Canada and any applicable treaty provisions based on their country of residence.
+
+Waivers may still be denied where the waiver applicant meets the conditions of either test B or C, but falls into one of the following exceptions. However, where the waiver applicant meets the conditions of test A, the following exceptions will not be considered.
+
+### Exceptions to the treaty-based Regulation 105 waiver guidelines
+
+The treaty-based waiver guidelines do not apply to the following exceptions:
+
+1. Residents of non-treaty countries. Such persons are taxable in Canada on income earned in Canada from employment or from carrying on business. The concepts of permanent establishment and fixed base are not relevant for residents of non-treaty countries. However, an individual who is a resident of a non-treaty country may apply for a waiver when his or her income for the calendar year is less than CAN$5,000.
+
+2. Residents of countries whose treaty with Canada specifies a deemed permanent establishment. Examples of activities include:
+
+a) construction, installation or assembly types of services (most treaties provide a twelve-month rule for deeming a permanent establishment);
+
+b) specified offshore activities for residents of Denmark, the Netherlands, the United Kingdom, and the United States;
+
+c) international transportation operations.
+
+In cases where the non-resident applicant is involved in any of the above activities, we will review the appropriate treaty article to ensure the type of services being rendered are included therein. If the treaty article applies then the appropriate waiver determination may be made based on that specific article rather than the general guidelines.
+
+- For example, an applicant is performing certain specified offshore activities for a period of 45 days and the relevant article in the tax convention applicable to their country of residence deems such services to be attributable to a permanent establishment once a period of 30 days has been exceeded, the waiver application will be denied even though it would otherwise (in the absence of the treaty article) have been approved based on the general guidelines (i.e., less than 180 days).
+
+- Conversely, an applicant may be performing services (such as construction) for a period of 260 days and be a resident of a country whose treaty with Canada specifies such services to be attributable to a permanent establishment only when a 12 month period has been exceeded. In such a case, the waiver application will generally be approved (assuming all other requirements are met) even though it would otherwise (in the absence of the treaty article) have been denied based on the general guidelines (i.e., more than 180 days).
+
+3. U.S. resident individual artistes or athletes, or each “marquee” artiste/athlete of a star corporation earning in excess of CAN$15,000 gross fees in Canada, including expenses reimbursed or paid on the artiste's or athlete's behalf, for the calendar year concerned. Such persons are taxable in Canada regardless of the absence of a fixed base or permanent establishment.
+
+- If gross income is less than CAN$15,000 for the calendar year, a waiver may be considered based on these guidelines.
+
+4. Non-resident artistes or athletes, or each “marquee” artiste/athlete of a star corporation, resident in a treaty country other than the US. A fixed base or permanent establishment is irrelevant for purposes of applying the artiste/athlete article of the treaty. The treaty article should be reviewed in light of the facts, especially where there are elements of state-sponsored visits or cultural exchanges, or the involvement of non-profit organizations.
+
+5. Multi-year engagements under a single contract that will occur at one or more sites over a number of years (e.g., theatrical productions). Waivers denied on this basis will be limited to situations where the non-resident has a contract to provide such services in Canada in two or more years. In reviewing the number of years contracted for, rights of renewal provided in the contract will be considered exercised.
+
+6. Services of a repetitive nature, such as air show participants, rodeo riders, combine harvesting, etc., where services performed by the non-resident(s) are performed in the same or “similar” locations, and there is a history of presence in Canada of carrying on those services in two or more previous calendar years. The previous calendar years do not have to be consecutive.
+
+7. Non-residents who have previously been determined by the CRA to have a permanent establishment in Canada, and who have not had a break in presence from Canada for two or more previous calendar years.
+
+- Non-residents with a previously determined permanent establishment who have had a break in presence of two or more previous calendar years will be reviewed under the guidelines.
+
+8. Where services are provided in Canada by a non-resident related to the Canadian payer, or where a bundle of services is provided by related non-residents, and/or the effect of the overall arrangement is such that Canadian tax is potentially avoided, a waiver will not be provided. Services provided by related non-residents, wherein there is no perceived element of avoidance, will be considered under the guidelines.
+
+9. Where a non-resident has a contract to perform services in Canada but sub-contracts with either residents of Canada or other non-residents to undertake the actual performance of those services, a treaty-based waiver will not be granted in respect of the contract unless the activities of the sub-contractors, along with any other activities which the primary contractor undertakes in Canada, falls within the guidelines.
+
+For the purpose of applying the guidelines in this situation, the activities of Canadian resident contractors shall be viewed as if the contractors were non-resident, and their only activities in Canada were those under the sub-contract. Payments to sub-contractors will be considered for deduction under an alternative income and expense waiver application.
+
+10. Limited Liability Corporations (LLCs)
+
+Payments for services in Canada of U.S. LLCs are not normally entitled to treaty exemption. The CRA is of the opinion that an LLC is generally structured purposely so as to be taxed like a partnership under the Internal Revenue Code. An LLC structured in such a manner will not be liable for tax in the U.S. As a result, the CRA would not consider such an entity to be a resident of the U.S. for purposes of paragraph 1 of Article IV, Residency, of the Canada-US Tax Convention. Therefore, such payments would not normally be exempt from Regulation 105 withholding tax.
+
+However, if the LLC elects in the U.S. to be classified as a corporation and, therefore, taxable on its world income, it would be a resident of the U.S. for purposes of the Convention pursuant to paragraph 1 of Article IV, Residency. A U.S. LLC that has not elected to be treated as a corporation (i.e., filed the appropriate Internal Revenue form or U.S. income tax return) will not be a resident of the U.S. for purposes of the Convention.
+
+## APPENDIX B – Guidelines for income and expense waivers involving Regulation 105 withholding
+
+A non-resident who does not qualify for a waiver of the Regulation 105 withholding pursuant to the *Guidelines for Treaty-Based Waivers Involving Regulation 105 Withholding* may submit an application for a reduction of the Regulation 105 withholding based on a statement of their estimated income and expenses (I&E waiver) relating to the services to be provided in Canada.
+
+The I&E waiver process provides that a non-resident person may claim expenses against Canadian sourced income, with the net income being subjected to tax at graduated rates (similar to those used for residents), rather than being subject to Regulation 105 withholding. If the estimated tax payable, after the application of graduated rates, is lower than the Regulation 105 withholding normally required, the non-resident person may benefit from the lower rate.
+
+To make a submission, complete the R105 *[Waiver Application Form](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/r105.html)*, and forward it, along with supporting documentation, to the TSO nearest to where the services will be provided.
+
+The I&E waiver process is not intended to replace filing a Canadian income tax return. This process is only an estimate of a non-resident's potential tax liability to Canada at the time the application is made based on the information provided by the non-resident. Therefore, non-residents are required to file Canadian income tax returns, whether an I&E waiver has been approved or denied. In situations where an I&E waiver is accepted, security (such as a bank guarantee) equal to the withholding to be waived may be required.
+
+The CRA will review the waiver application, consider the reasonableness of the expenses claimed, and determine whether the non-resident qualifies for a reduction of the withholding based on their I&E waiver application. Based on the review, the CRA may authorize the payer(s) to reduce the Regulation 105 withholding accordingly.
+
+### Income and expenses to be included
+
+#### Income
+
+The income to be reported on the waiver application includes the contracted amount to be paid for the services to be performed in Canada including amounts reimbursed or paid on the non-residents behalf. In addition, any other amount to be paid to the non-resident should be identified, such as those described earlier in this information circular. For example, in the music industry, additional income could include amounts paid to the non-resident person for providing the sound and lighting equipment for performances, guarantee fees, bonuses, or additional amounts to be paid based on ticket sales.
+
+Unless otherwise stated, all income and expense amounts for purposes of the I&E waiver process are in Canadian dollars.
+
+#### Calculations involving previous services in Canada
+
+In cases where a non-resident has previously provided services in Canada in the same calendar year, the income earned and any taxes paid in relation to those previous services will be included in the current income and expense waiver calculation to determine the total tax payable amount.
+
+#### Expenses
+
+Items such as capital cost allowances and depreciation are not to be included as a deduction or expense for these waiver purposes.
+
+The following is a list of some of the most common expenses that may be claimed on an application (provided each is supported by documentation):
+
+- **Professional service fees (e.g., lawyers, accountants, managers, agents)**
+
+The expense claimed must be related to the current contract fee for services in Canada. If services are engaged on a retainer or other basis, then a breakdown must be provided. Contracts and documents supporting calculations must also be provided.
+
+- **Accommodations (hotels)**
+
+Claims will be allowed up to $100 per night the person is in Canada in respect of a service contract. Nights outside of the service contract will not qualify for a claim. Claims for costs above the standard amounts may be made if supported by documentation.
+
+- **Meals**
+
+Claims may be made for $45/day/person for each full day the person is in Canada in connection with a service contract.
+
+- **Travel to Canada and between places in Canada (by airplane, bus, or train)**
+
+The cost of travel by airplane, bus, or train, one-way from the last stop outside of Canada to the location in Canada where the services will commence may be claimed as an expense. This applies to situations where a non-resident leaves Canada after the provision of services and does not return directly to his/her home base. If a non-resident is returning directly to their home base after providing services in Canada then the full cost of the travel to and from Canada will be allowed as an expense.
+
+- **Mileage for personally owned or rented vehicles used in Canada**
+
+An expense may be claimed for mileage one-way from the last stop outside of Canada to the location in Canada where the services will begin when a personally owned or rented vehicle is used. This applies to situations where a non-resident leaves Canada after the provision of services and does not return directly to his/her home base. The expense for the return mileage may be claimed when the non-resident returns directly to his/her home base after providing services in Canada. The present mileage rates include all rental costs, repairs, capital cost allowance, maintenance, insurance, gas, and oil:
+
+|  |  |
+
+| --- | --- |
+
+| Vans/Autos: | $0.43 cents/km |
+
+| Trucks up to 5 tons: | $1.04/km |
+
+| Large Trucks/Trailers/Buses | $1.72/km |
+
+- **Equipment rental other than vehicles (rented in or outside of Canada for use in Canada)**
+
+**Note:** equipment rented outside of Canada for use inside Canada may be subject to Part XIII tax withholding. For example, the withholding tax would apply on the proportion of the rental payment that applies to the time that the equipment is used in Canada. The non-resident waiver applicant would be required to make this withholding, remit the tax according to the applicable tax rate, and report this amount to the CRA by filing an NR4 information slip.
+
+- **Remuneration paid to other persons providing services in Canada (e.g., resident or non-resident employees, or sub-contractors)**
+
+Expenses for fees paid to other sub-contractors, or salaries paid to employees may be deducted as an expense.
+
+**Note:** Fees paid to another non-resident sub-contractor for services provided in Canada are subject to the Regulation 105 withholding. Salaries paid to resident or non-resident employees are subject to the Regulation 102 withholding.
+
+- **Expenses incurred and documented by a payer, which will be deducted from non-resident's fees**
+
+**Note:** These expenses would not include transportation, accommodation, or meal expenses deducted by the payer.
+
+- **Other expenses may be allowable based on a case-by-case review**
+
+### Calculation of revised tax liability for I&E waivers
+
+As mentioned, any net income after expenses will be taxed at graduated rates. For individuals, the rate to be applied will depend on the province or territory where the services will be provided. If services will be provided in more than one province or territory, the rate used will be an average of the rates for the provinces and territories involved. For corporations, the applicable corporate tax rate will be applied to net income.
+
+### Example of an income and expense waiver calculation
+
+A non-resident corporation is contracted to provide services in Canada and will be paid CAN$8,000. The non-resident files an I&E waiver request in advance of their services claiming expenses as follows:
+
+|  |  |
+
+| --- | --- |
+
+| 1. Gross fee for services | $8,000 |
+
+| 2. Normal Regulation 105 withholding (15% × $8,000) | $1,200 |
+
+| 3. Expenses claimed and documented by the non-resident related to services in Canada: |  |
+
+| Air fare | $3,000 |
+
+| Hotel Accommodation | $1,000 |
+
+| Meals | $ 450 |
+
+| Legal Fees | $ 850 |
+
+| Fee to non-resident sub-contractor | $1,000 |
+
+| Total expenses | $6,300 |
+
+| 4. Net Income ($8,000 – $6,300) | $1,700 |
+
+| 5. Revised tax calculation: |  |
+
+| Tax payable – Part I rate for corporations (38%1 × $1,700) | $ 646 |
+
+| 6. Withholding amount reduced through I&E waiver request: ($1,200 – $646). | $ 554 |
+
+1A corporate tax rate of 38% was used for example purposes only. Actual rates will vary depending on the province or territory in which the services are provided.
+
+### Summary
+
+In this scenario, the withholding under the I&E waiver is less than the required amount under Regulation 105. Therefore the non-resident would be granted an I&E waiver. The person paying the non-resident would be instructed by the CRA to withhold $646 from their payment of $8,000 to the non-resident and remit this amount to their (payer's) business number account. Regardless of the fact that a partial waiver of withholding was approved, the payer would still be required to prepare a T4A-NR information slip reporting the amount paid and provide the appropriate copies to the CRA and the non-resident.
+
+Since one of the expenses claimed by the non-resident waiver applicant was a fee paid to another non-resident sub-contractor ($1,000), the non-resident waiver applicant is required to withhold $150 (Regulation 105 withholding) on the fee to the sub-contractor and remit this amount to their business number account. This withholding would not have been required had the non-resident sub-contractor applied for, and received, a waiver from the CRA before starting their services or before the first payment for such services.

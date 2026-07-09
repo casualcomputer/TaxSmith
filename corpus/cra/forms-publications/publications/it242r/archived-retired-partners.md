@@ -1,0 +1,74 @@
+---
+title: "ARCHIVED - Retired Partners"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it242r/archived-retired-partners.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Retired Partners
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-242R**
+
+DATE: September 6, 1991
+
+SUBJECT: INCOME TAX ACT**Retired Partners**
+
+REFERENCE: Section 98.1 (also sections 43, 48, 96, 98.2, 110.6, subsections 40(3), 53(1), 53(2), 70(6), 85(3), paragraph 70(5)(a), and subparagraph 115(1)(b)(v); subsections 23(3) and (4) of the Income Tax Application Rules, 1971 (ITAR); and section 2600 of the Income Tax Regulations)
+
+Application
+
+This bulletin replaces and cancels Interpretation Bulletin IT-242 dated August 18, 1975 and the Special Release to IT-242 dated September 4, 1984. Current revisions are designated by vertical lines.
+
+Summary
+
+This bulletin deals with the rules that apply when a partner retires or withdraws from a partnership. The commentary below distinguishes between an income interest and a residual interest in a partnership and explains some of the rules peculiar to each of these interests.
+
+Discussion and Interpretation
+
+Residual Interests
+
+1. When a partner ceases to be a member of a partnership (a "retired partner") and all of the retired partner's rights to partnership property for that partnership interest are not satisfied, the retired partner has a residual interest in that partnership by virtue of paragraph 98.1(1)(a). In such circumstances, a partner's partnership interest is deemed not to be disposed of on retirement but rather becomes a residual interest which has an adjusted cost base equal to the adjusted cost base of the partner's partnership interest immediately before retirement. Since a residual interest is also deemed to continue to be an interest in a partnership, the additions to and deductions from its adjusted cost base, pursuant to paragraphs 53(1)(e) and 53(2)(c), apply. A residual interest is separate and distinct from an income interest in a partnership. Income interests are discussed in 10 to 14 below.
+
+2. If all the retired partner's rights to partnership property are satisfied after the date of retirement and before the end of the partnership's fiscal period in which the partner retired, the retired partner is deemed not to have disposed of a residual interest in the partnership until the end of that particular fiscal period of the partnership. This allows the retired partner's final allocation of partnership income or loss for that particular fiscal period to be added to, or deducted from, the adjusted cost base of the retired partner's residual interest under subparagraph 53(1)(e)(i) or 53(2)(c)(i) respectively. Also, in the period from the date of full satisfaction of a residual interest to the end of that particular fiscal period, a retired partner is deemed by subparagraph 98.1(1)(d)(i) not to be a partner except for the purpose of allowing the partnership to allocate charitable gifts or political contributions made by the partnership. In any other case, a retired partner who has a residual interest is deemed by subparagraph 98.1(1)(d)(ii) not to be a partner except for the purpose of winding up a partnership pursuant to subsection 85(3).
+
+3. Subparagraph 53(2)(c)(v) provides that any amount received by the retired partner in full or partial satisfaction of a residual interest in the partnership reduces the adjusted cost base of the interest. If the adjusted cost base is negative at the end of any fiscal period of the partnership, the amount by which it is negative is deemed to be a capital gain by virtue of paragraph 98.1(1)(c), and the adjusted cost base is adjusted to zero pursuant to subparagraph 53(1)(e)(vii). A residual interest is disposed of only when the retired partner receives final payment for the interest from the partnership. It is at this point that a capital loss, if any, may arise.
+
+Note: Bill C-18 tabled in the House of Commons on May 30, 1991 proposes an amendment to paragraph 98.1(1)(c) for 1985 and subsequent taxation years. This amendment, if enacted as proposed, ensures that any gains resulting from the application of this paragraph are eligible for the capital gains deduction under section 110.6.
+
+4. If a retired partner disposes of a residual interest in a partnership by way of sale or gift, the normal rules for calculating a capital gain or loss apply. (See 9 below.)
+
+5. When a retired partner ceases to be a resident of Canada, subsection 48(1) applies to deem that the retired partner's residual interest is disposed of for proceeds equal to fair market value, unless the residual interest is a taxable Canadian property. A residual interest is a taxable Canadian property when it qualifies under subparagraph 115(1)(b)(v), or when subsection 48(2) deems it to be taxable Canadian property because the conditions of paragraph 48(1)(c) regarding the furnishing of security for payment of tax are met.
+
+6. On death, any residual interest a retired partner has in a partnership is deemed by paragraph 70(5)(a) to be disposed of for proceeds equal to fair market value. This is so unless the residual interest is transferred to the retired partner's spouse, or to a spousal trust, in which case subsection 70(6) applies.
+
+7. On the death of a retired partner, section 98.2 provides that a taxpayer who acquires the retired partner's residual interest obtains a "right to receive partnership property" (which is not a residual interest) at a cost equal to the proceeds deemed to have been received by the deceased. The right to receive partnership property is not an interest in a partnership nor is the recipient a member of the partnership. Paragraph 53(2)(o) provides that any amount received in full or partial satisfaction of the right reduces its adjusted cost base. If at any time the adjusted cost base becomes negative, the amount by which it is negative is deemed to be a capital gain by virtue of subsection 40(3) and the adjusted cost base of the right is adjusted to zero by virtue of paragraph 53(1)(a). In that case, for purposes of the capital gains deduction under section 110.6, the right is deemed by subsection 40(3) to have been disposed of in the year. Otherwise, as with a residual interest (see 4 above) the right to receive partnership property is disposed of only when the final payment in respect thereof is received. Section 43 does not apply in these circumstances.
+
+8. Since a residual interest is an interest in a partnership, a retired partner may claim a deduction for 1971 accounts receivable pursuant to paragraph 23(3)(a) of the ITAR, unless prohibited from doing so by subsection 23(4) of the ITAR.
+
+Purchase and Sale of Partnership Interest
+
+9. Where the remaining partners agree to purchase a retiring partner's partnership interest, rather than have the partnership allocate partnership property (including money) in satisfaction of the interest, the retiring partner does not have a residual interest. Such an agreement constitutes the purchase and sale of a partnership interest and the provisions of section 98.1 do not apply. Whether there is a purchase and sale of the partnership interest or whether there is a residual interest depends on the facts of the case, and particularly, on the agreement among the partners and the retiring partner.
+
+Income Interests
+
+10. A retired partner has an income interest pursuant to subsection 96(1.1) if the principal activity of a partnership is the carrying on of a business in Canada, and all the partners agree to allocate a share of the income or loss of the partnership to the retired partner. See, for example, the decision in Valo v. M.N.R. (1989) 1 CTC 2339, 89 DTC 223, where the court stated that all the partners, including the retired partner, must agree to the allocation. Any income or loss so allocated is included in the retired partner's income for the taxation year in which the particular fiscal period of the partnership for which the allocation was made ends. For the purpose of these allocations, the retired partner is deemed to be a member of the partnership and the partnership rules in subsection 96(1) apply.
+
+11. The phrase, "to allocate a share of the income or loss of the partnership" in paragraph 96(1.1)(a), includes a broad range of methods by which income may be allocated to a retired partner. For example, it includes allocations where only income is allocated and not losses, or where the agreement calls for a constant amount to be allocated each year.
+
+12. Where a retired partner disposes of an income interest in a partnership, the proceeds of disposition are included in income pursuant to subsection 96(1.2). As a retired partner acquires this interest for no cost, there is no deduction from the amount so included in income pursuant to subsection 96(1.3).
+
+13. A professional partnership may make an election under section 34 to exclude work in progress from income. The election is only available to a partnership carrying on the business of an accountant, dentist, lawyer (including a notary, in the province of Quebec), medical doctor, veterinarian, or chiropractor. Such a partnership may allocate to a retired partner an amount that represents work in progress that has not been included in the income of any partner because of that election. Whether this allocation represents income or capital to the retired partner depends on the agreement between the retired partner and the other members of the partnership. Where the amount allocated is deducted in computing partnership income, then generally it is income to the retired partner. The current version of IT-457,
+
+Election by Professionals to Exclude Work in Progress from Income, discusses this election in more detail.
+
+Provincial Allocations
+
+14. Where a share of the income of the partnership is allocated to a retired partner, the amount so allocated must be apportioned on the retired partner's return among each of the provinces in which that partnership carried on business through a permanent establishment in that period, in accordance with section 2600 of the Income Tax Regulations.

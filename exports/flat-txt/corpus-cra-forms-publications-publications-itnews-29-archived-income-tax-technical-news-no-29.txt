@@ -1,0 +1,107 @@
+Title: ARCHIVED - Income Tax – Technical News No. 29
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29/archived-income-tax-technical-news-no-29.html
+Corpus path: corpus/cra/forms-publications/publications/itnews-29/archived-income-tax-technical-news-no-29.md
+Document type: publication
+Last modified: 2019-10-08
+
+# ARCHIVED - Income Tax – Technical News No. 29
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for income tax technical news](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/what-archived-content-notice-means-income-tax-technical-news.html)
+
+NO. 29 July 14, 2003
+
+This document is also available [in other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29.html).
+
+**This version is only available electronically.**
+
+## In This Issue
+
+- [Application of paragraph 12(1)(x)](#P18_659)
+
+- [Large Corporation Tax](#P31_2743)
+
+- [Income Tax Rulings Directorate New Automated Telephone System](#P38_5296)
+
+The *Income Tax Technical News* is produced by the Policy and Legislation Branch. It is provided for information purposes only and does not replace the law. If you have any comments or suggestions about the matters discussed in this publication, please send them to:
+
+Manager, Technical Publications and Projects Section Income Tax Rulings Directorate Policy and Legislation Branch Canada Customs and Revenue Agency Ottawa ON K1A 0L5
+
+or by e-mail at the following address:
+
+[bulletins@ccra.gc.ca](mailto:bulletins@cra-arc.gc.ca)
+
+## Application of paragraph 12(1)(x)
+
+Interpretation Bulletin IT-273R2, [*Government Assistance  General Comments*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it273r2.html), includes comments on determining the moment in time when a tax credit is considered to have been received. More precisely, paragraph 17 of the bulletin sets out the following position:
+
+"A tax credit or deduction from tax is considered to be received (and therefore included in income if it is an inducement or assistance in respect of the cost of property or an expense) at the earliest of when it is applied:
+
+- to reduce a taxpayer's tax instalment payable, and
+
+- to create or increase a tax refund or to reduce tax liability for a taxation year."
+
+We have recently examined the application of paragraph 12(1)(*x*) of the *Income Tax Act* (the "Act") in relation to provincial tax credits. The word "received" is not defined in the Act. Its interpretation is determined using the ordinary meaning of the word as established by the courts. In this regard, the jurisprudence indicates that it is not necessary that an amount be effectively paid. For example, an amount can be constructively received when a fiscal authority credits an amount to the taxpayer's account.
+
+Moreover, the jurisprudence indicates that a tax reduction is also considered as an amount received when the tax is reduced (see the decision of the Tax Court of Canada in *Tioxide Canada Inc. v. Her Majesty the Queen*, 93 DTC 1499, [1994] 2 CTC 2569, and confirmed by the Federal Court of Appeal, 96 DTC 6296 (not reported in CTC)).
+
+We are now of the opinion that a tax credit or a reduction in the tax calculation is considered to be received at the earliest of:
+
+- when the amount is applied as a reduction of instalment payments to be paid by the taxpayer, if it is credited to his instalment account by the fiscal authorities; or
+
+- when all the conditions for its receipt are met, at the earliest of:
+
+- when it reduces the tax payable for a taxation year, or
+
+- when it is paid, if it allows for or increases a tax refund.
+
+Paragraph 17 of Interpretation Bulletin IT-273R2 will be amended to take our revised position into account.
+
+## Large Corporation Tax
+
+Paragraph 34 of Interpretation Bulletin IT-532, [*Part I.3  Tax on Large Corporations*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it532.html), lists some of the amounts that have to be included in the calculation of the capital tax base as loans and advances and, more particularly, mentions "outstanding cheques honoured by the corporation's bank, to the extent they exceed funds on deposit, in the civil law jurisdiction of Quebec". This comment does not represent what has been publicly communicated by CCRA, in particular at the round table of the *Colloque sur la taxe sur le capital* held in February 2003 by the *Association de la planification fiscale et financière (APFF)*.
+
+We are of the opinion that outstanding cheques are not, by themselves, loans and advances since the issuance of a cheque is not a payment under civil law. Under the Quebec Civil Code, the date that the payment of a debt is settled by a cheque is considered to be the date at which the cheque is honoured or paid by the bank. This usually happens on the date on which the cheque is debited from the debtor's account.
+
+Therefore, the book debts that have been reduced by outstanding cheques at the date of the fiscal year end cannot be considered as paid at that date for the purposes of Part I.3 tax of the Act. However, in accordance with subsection 181(3) of the Act, as the amounts to be used for the purposes of Part I.3 of the Act are those on the balance sheet presented to the shareholders, we are of the view that the amount by which debts are reduced by outstanding cheques on the balance sheet can only be included in the computation of the capital amount pursuant to subsection 181.2(3) of the Act to the extent that the amount is reflected on the balance sheet, which is usually in current liabilities as bank overdraft or the excess of the outstanding cheques over the balance of cash on hand.
+
+Where the amount reflected on the balance sheet in respect of the outstanding cheques is made up of debts to be included in the capital pursuant to subsection 181.2(3) of the Act, and of debts not to be included in that capital, it is our view that the taxpayer must calculate capital by making a reasonable allocation of that amount between the underlying debts in order to reflect as accurately as possible the actual debts included on the balance sheet.
+
+It is also our view that it is the law regulating outstanding cheques that has to be taken into consideration, not the law governing contracts with creditors.
+
+The next version of Interpretation Bulletin IT-532 will take this interpretation into account.
+
+## Income Tax Rulings Directorate New Automated Telephone System
+
+During the summer of 2003, the Income Tax Rulings Directorate will be introducing an automated telephone system for receiving and directing all telephone inquiries made to the Directorate's general telephone number (613) 957-8953.
+
+In summary, the caller will be prompted to make an initial selection indicating whether the call pertains to:
+
+- a technical question;
+
+- a specific staff member of the Directorate; or
+
+- a general query.
+
+If the caller has a technical question, he/she will be further prompted to make a few menu selections in order to be routed to the appropriate officer handling technical telephone inquiries on that specific area of the law for that day. These menu selections will be based on:
+
+- the section of the *Income Tax Act* that the question pertains to;
+
+- the Income Tax Rulings Directorate's two-digit workgroup number handling the subject matter that the questions pertains to (*see explanation below); or
+
+- the specific topic that the question pertains to.
+
+Reaching a specific individual by calling their direct telephone line is still an option.
+
+*The applicable 2-digit workgroup numbers can be obtained by reference to either of the following two documents; both of which are attached:
+
+- the *Income Tax Act*/workgroup number [cross-reference chart](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29/archived-income-tax-act-workgroup-cross-reference-chart-26.html); or
+
+- the [listing of technical tax topics](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29/archived-technical-tax-topics.html) that are handled by each specific workgroup.

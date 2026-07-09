@@ -1,0 +1,258 @@
+---
+title: "ARCHIVED - Profit, Capital Gains and Losses from the Sale of Real Estate, Including Farmland and Inherited Land and Conversion of Real Estate from Capital Property to Inventory and Vice Versa"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it218r/archived-profit-capital-gains-losses-sale-real-estate-including-farmland-inherited-land-conversion-real-estate-capital-property-inventory-vice-versa.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Profit, Capital Gains and Losses from the Sale of Real Estate, Including Farmland and Inherited Land and Conversion of Real Estate from Capital Property to Inventory and Vice Versa
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-218R**
+
+DATE: September 16, 1986
+
+SUBJECT: INCOME TAX ACT**Profit, Capital Gains and Losses from the Sale of Real Estate, Including Farmland and Inherited Land and Conversion of Real Estate from Capital Property to Inventory and Vice Versa**
+
+REFERENCE: Section 9 (also subsections 13(7), 45(1) and 248(1), paragraphs 13(21)(c), 54(a), (c), (f) and (g), subparagraph 40(2)(g)(iii) and Regulations 1101(1) and 1102(1)(b))
+
+This bulletin cancels and replaces IT-197R dated August 20, 1979 and IT-218 dated May 26, 1975 and applies with respect to taxation years commencing after the date of its issue. Please note that the comments in IT-102R concerning real property and its conversion from capital property to inventory and vice versa continue to apply to taxation years commencing on or before the date of issue of this bulletin.
+
+1. A gain arising on the sale of real estate will be considered to be business income, property income or a capital gain. This bulletin does not deal with gains arising on the sale of real estate that is or was designated as a principal residence because such gains are dealt with in IT-120R3.
+
+2. The word "business" is defined in subsection 248(1) so as to include, inter alia, an adventure or concern in the nature of trade. This definition can cause an isolated transaction involving real estate to be considered a business transaction. As a business, any gain or loss which arises therefrom is, by virtue of section 9, required to be included in computing income or loss, as the case may be.
+
+3. There is no provision in the Income Tax Act which describes the circumstances in which gains from the sale of real estate are to be determined as being either income or capital. However, in making such determinations, the courts have considered factors such as those listed below: (The list is not intended to be exclusive of any other factor.)
+
+(a) the taxpayer's intention with respect to the real estate at the time of its purchase;
+
+(b) feasibility of the taxpayer's intention;
+
+(c) geographical location and zoned use of the real estate acquired;
+
+(d) extent to which intention carried out by the taxpayer;
+
+(e) evidence that the taxpayer's intention changed after purchase of the real estate;
+
+(f) the nature of the business, profession, calling or trade of the taxpayer and associates;
+
+(g) the extent to which borrowed money was used to finance the real estate acquisition and the terms of the financing, if any, arranged;
+
+(h) the length of time throughout which the real estate was held by the taxpayer;
+
+(i) the existence of persons other than the taxpayer who share interests in the real estate;
+
+(j) the nature of the occupation of the other persons referred to in (i) above as well as their stated intentions and courses of conduct;
+
+(k) factors which motivated the sale of the real estate;
+
+(l) evidence that the taxpayer and/or associates had dealt extensively in real estate.
+
+4. None of the factors listed in 3 above is conclusive in itself for the purpose of determining that a gain arising on the sale of real estate constitutes income or a capital gain. The relevance of any factor to such a determination will vary with the facts of each case.
+
+5. A taxpayer's intention at the time of purchase of real estate is relevant in determining whether a gain on its sale will be treated as business income or as a capital gain. It is possible for a taxpayer to have an alternate or secondary intention, at the time of acquiring real estate, of reselling it at a profit if the main or primary intention is thwarted. If this secondary intention is carried out any gain realized on the sale usually will be taxed as business income.
+
+6. The more closely a taxpayer's business or occupation (e.g. a builder, a real estate agent) is related to real estate transactions, the more likely it is that any gain realized by the taxpayer from such a transaction will be considered to be business income rather than a capital gain (see 3(f) and (j) above).
+
+7. The objects as stated in the charter of a corporation often offer little assistance in determining the intention of the corporation when real estate is acquired and later sold. Consequently, in any case where a corporation claims a capital gain in respect of real estate the corporate intention relative to the acquisition and sale thereof will be examined and determined by reference to factors such as those described in 3 above. In some cases (e.g., closely-held corporations) the corporate intention may be indistinguishable from that of its officers, directors and/or shareholders and in such cases their intentions, as based on their past and present conduct with respect to real estate, will accordingly be attributed to the corporation.
+
+8. Passive members of a partnership or syndicate will be in no different position with regard to the taxability of real estate profits than that of the active members. The actions and intentions of the active members will be imputed to the passive members.
+
+9. When the sale of shares in a corporation by a taxpayer is merely an alternative method of realizing profits from the sale of real estate, the profits from the sale of those shares will be taxed as if the real estate itself had been sold.
+
+**Conversion of Real Estate from Capital Property to Inventory**
+
+10. Real estate that is held by its owner as capital property may be used by its owner as personal-use property (see definition in paragraph 54(f)) or it may be used for the purpose of gaining or producing income from a business or property. A sale of real estate that is capital property in the vendor's hands will, as a general rule, give rise to a capital gain or loss, as the case may be, to the vendor (except in the case of a loss on the sale of personal-use property which is nil by virtue of the limitations of subparagraph 40(2)(g)(iii)). However, where real estate is converted from capital property to inventory as discussed in 12 and 13 below, the results will be as follows:
+
+(a) for real estate that is personal-use property its conversion to inventory will constitute a change in use for the purposes of subsections 13(7) and 45(1) with the attendant deemed disposition and acquisition as explained in 11 below; and
+
+(b) for real estate that is used for the purpose of gaining or producing income from a business or property, its conversion to inventory will not constitute a change in use (see also 11 below) and the proceeds from its ultimate sale will be treated in accordance with 15 below.
+
+11. In accordance with the rules in subsections 13(7) and 45(1) property is deemed to have been disposed of for proceeds equal to its fair market value at the time when it undergoes a change in use and to have been reacquired immediately after that time for an amount equal to those same proceeds. The Department considers that the changes in use as described by subsections 13(7) and 45(1) do not include a transfer of property from one income-earning function to another such function of the same taxpayer. Accordingly, it is the Department's position that subsections 13(7) and 45(1) do not apply where real estate that is used by its owner for the purpose of gaining or producing income from a business or property (e.g., an office building or rental property) is converted by its owner to inventory. The use (by sale) of inventory is still an income-earning function. The same rationale will apply when inventory is converted to capital property provided the property is, immediately after conversion, used by its owner for the purpose of gaining or producing income from a business or property. The comments in 12 to 19 below are predicated on the proposition that subsections 13(7) and 45(1) have no application for the reasons stated above.
+
+12. Vacant land that is capital property used by its owner for the purpose of gaining or producing income will be considered to have been converted to inventory at the earlier of
+
+(a) the time when the owner commences or causes the commencement of improvements thereto with a view to selling it, and
+
+(b) the time of making application to the relevant authority for approval of a plan to subdivide the land into lots for sale, provided that the taxpayer proceeds with the development of the subdivision.
+
+See 23 and 24 below for comments concerning farmland and inherited land.
+
+13. The units in a multi-unit residential apartment, or an office, warehouse storage building or any similar structure that is held as capital property by the owner will be considered to have been converted to inventory at the time when application is made to the relevant authority for approval to change the title to any such building to strata title, provided that the owner proceeds with the sale of the units. See also 18 below.
+
+14. Where the relevant authority rejects an application referred to in 12 or 13 above, and the owner thereafter sells the property en bloc, the sale will ordinarily be treated as a sale of capital property if it would have been so treated had the property been sold before the application was made.
+
+15. Where real estate that is used for the purpose of gaining or producing income from a business or property is converted from capital property to inventory, the action of conversion does not constitute a disposition within the meaning of paragraphs 13(21)(c) and 54(c). It is, however, recognized that the ultimate sale of real estate that was so converted may give rise to a gain or loss on capital account, a gain or loss on income account or a gain or loss that is partly capital and partly income. Accordingly, where such real estate has been converted to inventory, capital gains or losses, if any, will be calculated on the basis that a notional disposition of such property occurred on the date of conversion. The amount of such a notionally determined capital gain or loss in respect of the real estate will be the difference between its adjusted cost base, as defined in paragraph 54(a), (subject to the ITAR rules for property held on December 31, 1971) and its fair market value on the date of conversion. These notional capital gains or losses will be considered to give rise to taxable capital gains or allowable capital losses for the taxation year during which the actual sale of the real estate occurs and will be required to be so reported in that same year. The amount of any income gain or loss arising on actual sale of the converted real estate will be determined in accordance with generally accepted accounting principles on the basis that its initial inventory value is its fair market value on the date of conversion. See 16 to 19 below where the use of these procedures is illustrated by examples.
+
+16. The following examples illustrate the use of the procedures set out in 15 above for non-depreciable capital property.
+
+|  | A | B | C | D |
+
+| --- | --- | --- | --- | --- |
+
+| Assumptions: |  |  |  |  |
+
+| Property is land Cost of property when acquired (1) | $ 1,000 | $10,000 | $10,000 | $10,000 |
+
+| V day value (2) | $10,000 |  |  |  |
+
+| Fair market value at date of conversion (3) | $15,000 | $15,000 | $ 8,000 | $ 7,500 |
+
+| Cost of additions made after conversion (4) | $ 4,000 | $ 4,000 | $ 4,000 | $ 4,000 |
+
+| Proceeds of sale (5) | $20,000 | $12,000 | $ 6,000 | $20,000 |
+
+| Notional capital gain |  |  |  |  |
+
+| A(3)-(2) | $ 5,000 |  |  |  |
+
+| B(3)-(1) |  | $ 5,000 |  |  |
+
+| Notional capital loss |  |  |  |  |
+
+| C(1)-(3) |  |  | $(2,000) |  |
+
+| D (1)-(3) |  |  |  | $(2,500) |
+
+| Income gain |  |  |  |  |
+
+| A (5)-(3)-(4) | $ 1,000 |  |  |  |
+
+| D (5)-(3)-(4) |  |  |  | $ 8,500 |
+
+| Income loss |  |  |  |  |
+
+| B (3) + (4) - (5) |  | $(7,000) |  |  |
+
+| C (3) + (4) - (5) |  |  | $(6,000) |  |
+
+| Effect for tax purposes in year of actual sale of property: |  |  |  |  |
+
+| Taxable capital gain or (allowable capital loss) | $ 2,500 | $ 2,500 | $(1,000) | $(1,250) |
+
+| Income gain or (loss) | 1,000 | (7,000) | (6,000) | 8,500 |
+
+|  | 3,500 | $(4,500) | $(7,000) | 7,250 |
+
+17. Where only part of a parcel of land is converted to inventory (e.g., one-half of the parcel is developed for sale as residential building lots), for the purpose of computing business income on the subsequent sale of the converted land the cost of the converted part is considered to be equal to its fair market value at the date of conversion. Similarly, where in a taxation year only part of the converted land is sold, the cost (for the purpose of computing income) of the part sold is the portion of the fair market value at the date of conversion of all the converted land as may reasonably be attributable to that part. The capital gain or loss, if any, on the sale of part or all of the converted land will be computed in accordance with 15 and 16 above.
+
+18. The Act provides rules governing the treatment of proceeds arising on the disposition of depreciable capital property but it does not envisage the possibility that such property may be converted to inventory before its disposition. Accordingly, where, in situations such as those described in 13 above, depreciable real estate is converted to inventory, it is the Department's position that
+
+(a) the initial cost of the real estate for inventory valuation purposes will be its fair market value as at the time of conversion, and
+
+(b) the ultimate sale of the real estate may give rise to results similar to those described in 15 above.
+
+The classes of property described in Part XI and Schedule II of the Income Tax Regulations are, by virtue of paragraph 1102(1)(b) thereof, deemed not to include property that is described in a taxpayer's inventory. Accordingly, where depreciable property (e.g., an apartment building) is converted to inventory it ceases to qualify for capital cost allowance for the taxation year during which the conversion occurs and subsequent years, but continues to have an undepreciated capital cost balance in the class of Schedule II of the Regulations to which it was assigned until its ultimate disposition, at which time the class will be credited with the lesser of the cost of the asset and its fair market value at the time of conversion to inventory.
+
+19. To illustrate the conversion of depreciable real estate to inventory and the treatment, for tax purposes, of the proceeds of sale thereof, assume the following:
+
+| The property is a 50-suite rental apartment building which, at the time it was acquired by a taxpayer, cost, excluding land (Note (2)) | $1,000,000 |
+
+| --- | --- |
+
+| The undepreciated capital cost of the building as at December 31, 1982 was | 900,000 |
+
+| The fair market value of the building when it was converted to inventory (see 13 above) on August 1, 1983 was | $2,000,000 |
+
+| Sales were made in 1985 of 20 suites for proceeds of | $1,200,000 |
+
+| and in 1986 of 30 suites for proceeds of | $2,100,000 |
+
+In 1985 and 1986, the taxpayer will account for (a) capital gains realized on actual sales (in this example the notional capital gain as at August 1, 1983 was $1,000,000), (b) income from the sale after July 31, 1983 of inventory, and (c) income from the recapture of capital cost allowance, by allocating, on an average per-suite basis, the sales proceeds, cost and capital gain as follows:
+
+|  | 1985 | 1986 | TOTAL |
+
+| --- | --- | --- | --- |
+
+| Sales proceeds - 20 suites 1985 | $1,200,000 |  | $1,200,000 |
+
+| - 30 suites 1986 |  | $2,100,000 | 2,100,000 |
+
+|  | $1,200,000 | $2,100,000 | $3,300,000 |
+
+| Deduct: Lesser of cost and fair market value per suite at the time of conversion to inventory, as credited to the undepreciated capital cost of the class of depreciable property to which the cost of the building was allocated (Note (1)) |  |  |  |
+
+| 1985 - 20 suites at $20,000 | 400,000 |  |  |
+
+| 1986 - 30 suites at $20,000 | 600,000 |  | $1,000,000 |
+
+|  | $ 800,000 | $1,500,000 | 2,300,000 |
+
+| Deduct: Notional capital gain as at August 1, 1983 actually realized |  |  |  |
+
+| in 1985: 20 x ($2,000,000 - $1,000,000) | 400,000 |  | 50 |
+
+| in 1986: 30 x ($2,000,000 - $1,000,000) |  | 600,000 | $1,000,000 |
+
+|  |  |  | 50 |
+
+| Income from sale of inventory (Note (2)) | $ 400,000 | $ 900,000 | $1,300,000 |
+
+| Add: Income - recapture of capital cost allowance (Note (1)) |  | 100,000 | 100,000 |
+
+| Total income excluding the taxable capital gain | $ 400,000 | $1,000,000 | $1,400,000 |
+
+| Taxable capital gain | $ 200,000 | $ 300,000 | $ 500,000 |
+
+| Total income | $ 600,000 | $1,300,000 | $1,900,000 |
+
+*Note (1): The undepreciated capital cost account for the building, assuming that it was a separate class pursuant to Regulation 1101(1), will appear as follows:*
+
+| Undepreciated capital cost December 31, 1982-84 | $ 900,000 |
+
+| --- | --- |
+
+| *Less*: reduction re 1985 sales | $ 400,000 |
+
+| U.C.C. December 31, 1985 | $ 500,000 |
+
+| *Less*: reduction re 1986 sales | $ 600,000 |
+
+| Recaptured capital cost allowance to be included in income under subsection 13(1) | ($ 100,000) |
+
+*Note (2): Although not shown in this example, the land relative to the building will, except that it is non-depreciable, be subject to the same considerations with respect to the determination of a notional capital gain, income gain, and the reporting thereof in the year of sale.*
+
+**Conversion of Real Estate from Inventory to Capital Property**
+
+20. Where a taxpayer acquires real estate and allocates its cost to inventory in the taxpayer's accounting records, such accounting treatment will be considered to represent prima facie evidence that the real estate was initially acquired with the intention of reselling it at a profit at a propitious time (see 5 to 7 above). If such real estate is vacant land, it is the Department's position that any gain on its sale, as such, will be business income rather than a capital gain. See however, 21 below which discusses the conversion of improved land from inventory to capital.
+
+21. A taxpayer who constructs buildings for sale and who originally intended to sell a particular building soon after it was completed may, however, permanently convert that building from inventory to capital property
+
+(a) by establishing that the original intention to sell the building has been abandoned,
+
+(b) by capitalizing the cost of the building and the cost of the lot (if owned by the taxpayer) upon which it sits, in the taxpayer's financial records, and
+
+(c) by making use of the building as a capital asset for a period of time in a manner that is more indicative of investing than trading. Examples of such uses are as follows:
+
+(i) the rental of the building on a long term lease which does not provide the lessee with an option to purchase,
+
+(ii) the housing of the taxpayer's business, or
+
+(iii) the rental of part of the building on terms described in (i) and the occupation of the remainder thereof by the taxpayer for the purpose described in (ii).
+
+The same considerations will apply with respect to real estate, other than vacant land, that was purchased for the purpose of resale.
+
+22. A taxpayer who constructs buildings for sale will not be considered to have converted inventory to capital property when part or all of any such building is temporarily rented for any reason. Rental revenues so received, net of expense, will be included in computing the taxpayer's income, but since the building will, at all times, be considered to be held as inventory, it will not be eligible for capital cost allowance.
+
+**Farmland and Inherited Land**
+
+23. The sale, en bloc or piecemeal, by a taxpayer of
+
+(a) farmland regularly used by the taxpayer for the purpose of gaining or producing income from a farming business carried on by the taxpayer, or
+
+(b) land inherited by the taxpayer
+
+will generally give rise to a capital gain or loss, as the case may be, to the taxpayer except where, for example, the taxpayer
+
+(c) converts such land to a trading property (see 24 below), or
+
+(d) acquired the land referred to in (a) with the intention of reselling it for profit at a propitious time (see 5 above).
+
+24. Parcels of farming or inherited land referred to in 23 above may be difficult to sell en bloc and the land may be sold by subdividing it and selling the lots individually. It is the Department's view that the filing of a subdivision plan and selling lots thereunder does not in itself affect the status of the gain notwithstanding that such subdivision may enhance the value of such land. A gain on the sale of farming or inherited land will remain a capital gain if an examination of all other facts, both before and after subdivision, establishes this to be so. However, where the taxpayer goes beyond mere subdivision of the land into lots and installs improvements such as watermains, sewers or roads, or carries on an extensive advertising campaign to sell the lots, the taxpayer will be considered to have converted the land from a capital property into a trading property. Where such a conversion occurs see 15 above for treatment of gains or losses arising from the ultimate sale of the property.

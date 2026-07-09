@@ -1,0 +1,141 @@
+Title: Determination of whether an entity is a non-profit organization for purpose of the Excise Tax Act (ETA)
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-215/determination-whether-entity-a-non-profit-organization-purpose-excise-tax-act.html
+Corpus path: corpus/cra/forms-publications/publications/p-215/determination-whether-entity-a-non-profit-organization-purpose-excise-tax-act.md
+Document type: publication
+Last modified: 2017-06-22
+
+# Determination of whether an entity is a non-profit organization for purpose of the Excise Tax Act (ETA)
+
+GST/HST Policy Statement P-215
+
+**Please note that the following Policy Statement, although correct at the time of issue, may not have been updated to reflect any subsequent legislative changes.**
+
+**Date of issue:** September 16, 1998
+
+**Subject:** Determination of whether an entity is a "non-profit organization" for purpose of the *Excise Tax Act*("ETA").
+
+**Legislative reference(s):** Subsections 123(1) and 259(1) of the ETA - definition of "non‑profit organization".
+
+**National coding system file number(s):** 11925-1
+
+**Effective date:** January 1, 1991
+
+### Issue and Decision:
+
+This policy addresses the conditions that an entity must meet to qualify as a non-profit organization for purposes of the ETA. When determining whether an entity is a "non-profit organization", as defined in subsection 123(1) of the ETA, the entity must meet all of the following conditions:
+
+1. it was organized solely for non-profit purposes;
+
+2. it is in fact operated solely for non-profit purposes; and
+
+3. it does not distribute or otherwise make available for the personal benefit of any member any of its income unless the member is an association which has as its primary purpose and function the promotion of amateur athletics in Canada.[Footnote1](#fn1)
+
+Further, the entity must be a person other than an individual, an estate, a trust, a charity [Footnote2](#fn2), a public institution, a municipality or a government.
+
+A non-profit organization for purposes of the *Income Tax Act* ("ITA") will generally be a non-profit organization for purposes of the ETA. [Footnote3](#fn3) Also, an organization that is not a non-profit organization under the ITA may be a non-profit organization under the ETA where there is a specific statutory requirement that mandates different treatment.
+
+The only area where the statutory schemes mandate different treatment is the rebate available under section 259 for Crown agents. Crown agents will qualify as non-profit organizations under the ETA for purposes of a section 259 rebate, where they meet the three conditions for non-profit organizations in subsection 123(1). See page 3 for greater detail on Crown agents.
+
+#### a. Organized solely for non-profit purposes
+
+To be a non-profit organization, an entity must be organized solely for a purpose other than profit. To establish the purpose for which an entity was organized, the Department will normally look to the instruments by which it was created. These instruments may include letters patent, articles of incorporation, orders-in-council, legislation, memoranda of agreement, by-laws and so on.
+
+To qualify as a non-profit organization, ideally the governing documents should contain a statement that the entity is organized solely for non-profit purposes. However, in some situations they may not. In those situations the Department will examine the purposes for which the entity was organized to determine whether the entity was organized solely for non-profit purposes. Entities which are organized solely for a non-commercial public purpose will be considered to be organized for non-profit purposes. This public purpose may include: social welfare, civic improvement, pleasure, recreation, relief of poverty, advancement of education or religion or other similar purpose. In general terms, social welfare means that which provides assistance for disadvantaged groups or for the common good and general welfare of the people of the community. Civic improvement includes the enhancement in value or quality of community or civic life. An example would be an association that works for the advancement of a community by encouraging the establishment of new industries, parks, museums, etc. Pleasure or recreation means that which provides a state of gratification or a means of refreshment or diversion. Examples include social clubs, golf clubs, curling clubs, badminton clubs and so on that are organized and operated [Footnote4](#fn4) to provide recreational facilities for the enjoyment of members and their families.
+
+An entity may be considered to be organized solely for non-profit purposes if its aims and activities are directed toward the general improvement of conditions within one or more areas of business. An example of this would be where an entity was organized to advance the educational standards within a particular industry or profession, to publicize, improve and promote the entity's objectives in a general way and to encourage the exchange of relevant technical information. If the activities of such an entity were consistent with these aims, then it would qualify as a non-profit organization provided that all other conditions with respect to non-profit organizations as defined in subsection 123(1) were complied with. However, the entity will probably not qualify as a non-profit organization if it is primarily involved, for example, in an activity that is directly connected with the sales of members' goods or services and for such services receives a fee or commission computed in relation to sales promoted. Such an entity is normally considered to be an extension of the members' sales organizations and will be considered to be carrying on a normal commercial operation. If the fees and commissions charged are well beyond the needs of the entity and these earnings are accumulated and invested as described below by the entity, this would be another reason why the entity would not qualify as a non-profit organization.
+
+In some cases an entity may be organized under legislation for corporations without share capital. Corporations without share capital are generally regarded as non-profit corporations. Such corporations may be incorporated federally under Part II of the *Canada Corporations*Act ("CCA"), or provincially under the relevant provincial statute such as Part III of the *Ontario Corporations Act* ("OCA") or the British Columbia *Society Act*. Legislation for corporations without share capital usually provides that the corporations are to be carried on without the purpose of gain for their members and any profit to such a corporation is to be used in promoting its objects.[Footnote5](#fn5) The Department may use the information that an entity is organized under the applicable provisions of such legislation as evidence to establish that it was organized for non-profit purposes.
+
+On the other hand, an entity may be organized under legislation for corporations with share capital. Such legislation includes, for example, the*Canada Business Corporations Act* ("CBCA") and the *Ontario Business Corporations Act* ("OBCA"). If a corporation is organized under such legislation, without any statement in the governing documents that it is organized for non-profit purposes, this may be conclusive evidence that it was organized for profit purposes.
+
+**Agents of the Crown:**
+
+For purposes of a section 259 rebate, agents of the Crown will be considered to be organized for non-profit purposes if their enabling legislation states that they are organized solely for a non-commercial public purpose. Agents of the Crown are governments and are thus excluded from the definition of non-profit organization in subsection 123(1). However, for purposes of section 259 rebates, non-profit organizations include prescribed government organizations. A "prescribed government organization" is a specified Crown agent or an agent of Her Majesty in right of a province that would be a non-profit organization within the meaning of subsection 123(1) if the definition of that expression were read without reference to "a government".[Footnote6](#fn6)
+
+Agents of the Crown listed in Regulation 7100 of the *Income Tax Act* will not be non-profit organizations for purposes of section 259.[Footnote7](#fn7)
+
+#### b. Operated solely for non-profit purposes
+
+To be a non-profit organization under the ETA, the entity must be one that is operated solely for a purpose other than profit. The determination of whether an entity is operated solely for non-profit purposes must be based on the facts of each case. Such a determination cannot be made in advance. Past activities will be reviewed. The length of time for pertinent past activities will depend on the particular situation and the ruling requested.
+
+The Department is of the view that an entity is not operated solely for non-profit purposes when its principal activity is the carrying on of a commercial activity. Some characteristics of an activity that might be indicative that it is not operated in a non-profit manner are:
+
+1. it is a trade or business that is operated in a normal commercial manner;
+
+2. its goods or services are not restricted to members and their guests;
+
+3. it is operated on a profit basis rather than a cost-recovery basis; or
+
+4. it is operated in competition with taxable entities carrying on the same trade or business.
+
+An entity may carry on an income-generating activity and still qualify as a non-profit corporation. To qualify, the income-generating activity must be carried on, and the resulting income must be used by the entity, to achieve its declared non-profit objectives.
+
+In certain cases, an entity may earn income in excess of its expenditures and still qualify as a non-profit organization. The excess may result from the activity for which it was organized or from some other activity. However, if a material part of the excess is accumulated each year and the balance of accumulated excess at any time is greater than the entity's reasonable needs to carry on its non-profit activities, the Department will consider profit to be one of the purposes for which the entity is operated. This will be particularly so where assets representing the accumulated excess are used for purposes unrelated to its objects such as:
+
+1. long-term investments to produce property income;
+
+2. enlarging or expanding facilities used for normal commercial operations; or
+
+3. loans to members.
+
+This may also be the case where the accumulated excess is invested in a term deposit or guaranteed investment certificate that is regularly renewed from year to year, whether or not the principal is adjusted from time to time.
+
+The amount of accumulated excess considered reasonable in relation to the needs of an entity to carry on its non-profit activities is dependent on such things as the amount and pattern of receipts from various sources such as membership fees, training course fees, exam fees and so on. It is conceivable that there would be situations where an accumulation equal to one year's reasonably anticipated expenditures on its non-profit activities may not be considered excessive while in another situation an accumulation equal to two months' reasonably anticipated expenditures would be considered more than adequate. For example, a year-end accumulation equal to the following year's anticipated expenditures would probably be considered reasonable where an entity carries out its "annual fund drive" in the last month of its fiscal period in anticipation of its non-profit activities planned for the following year. However, where another entity raises its funds on a regular basis throughout the year, it may be difficult to justify a year-end accumulation in excess of an amount equal to its expenditures for one or two months. It is noted that where the present balance of accumulated excess is excessive or an annual excess is regularly accumulated it may indicate that the entity's aims are two-fold: to earn profits and to carry out its non-profit purposes. In such a case, the "operated solely" requirement in subsection 123(1) would not be met.
+
+As discussed above, accumulating surplus funds in excess of its current needs may affect the entity's status as a non-profit organization. However, in certain cases, when an entity requires a time period in excess of the current and prior year to accumulate the funds needed to acquire a capital property that will be used to achieve its declared non-profit activities, the entity may still qualify as a non-profit organization. For example, this could be the case if an entity annually sets aside funds for a special project such as the construction of a new building to replace an existing building when it deteriorates or no longer meets the entity's needs. In such cases, any funds accumulated for such a project should be clearly identified and all transactions concerning the project should be clearly set out in the entity's accounting records. Provided the funds accumulated are used for that project, an entity's non-profit status should not be affected.
+
+#### c. No personal benefit for any member
+
+To be a non-profit organization pursuant to subsection 123(1), no part of the income of an entity, whether current or accumulated, may be payable to, or otherwise made available for the personal benefit of, any member of that entity. An entity may fail to comply with this requirement in a variety of ways. For example, an entity would not qualify as a non-profit organization if:
+
+1. it distributed income during the year, either directly or indirectly, to or for the personal benefit of any member;
+
+2. it has the power at any time to declare and pay dividends out of income or patronage dividends out of surplus; or
+
+3. it, in the case of a winding-up, dissolution or amalgamation, has the power to distribute income to a member.
+
+The presence of any of the circumstances described in (a), (b) or (c) would be conclusive evidence, subject to the comments below on what constitutes a personal benefit, that income was payable to, or otherwise made available for the personal benefit of, a member and that the entity did not qualify as a non-profit organization for GST/HST purposes. To avoid possible difficulties regarding (c), an entity may in its enabling documents provide that upon a winding-up, amalgamation or dissolution all of its assets and accumulated income are to be transferred to an entity with a non-profit purpose or in the case of agents of the Crown, to Her Majesty in right of a province or Canada.
+
+As indicated above, an entity will not qualify under subsection 123(1) as a non-profit organization if it distributes income during the year to, or for the personal benefit of, any of its members. This may occur when the facilities of an otherwise non-profit organization, such as a non-profit golf or ski club, are used by non-members (other than guests of a member) and the income resulting from the fees charged to non-members is used to:
+
+1. subsidize the fees or assessments charged to the members for the use of the facilities so that such amounts are either well below cost or nil; or
+
+2. to acquire and maintain facilities or other property which the members use for no charge or for a fee well below cost.
+
+In these circumstances, income of the entity is considered to be payable to, or otherwise available for the personal benefit of, its members and the entity would not qualify as a non-profit organization under subsection 123(1). However, if only members and guests of a member can use the entity's facilities, an entity will generally qualify as a non-profit organization provided the income from the guest fees or fund-raising activities is used to achieve the entity's declared non-profit objectives.
+
+It is the Department's view that certain types of payments made directly to members, or indirectly for their benefit, will not, in and by themselves, disqualify an entity from being a non-profit organization pursuant to subsection 123(1). Such payments include salaries, wages, fees or honoraria for services rendered to the entity, provided that amounts paid are reasonable and no more than those paid in arm's length situations for similar services. It also applies to payments made to employees or members of the entity to assist them in covering their expenses to attend various conventions and meetings as delegates on behalf of the entity, provided attendance at such conventions and meetings is to further the aims and objectives of the entity. In addition, the Department considers the campaign expenditures of a political party (other than payments to a candidate that are not reimbursement of reasonable expenses, which will often result in an indirect benefit for a candidate) are not the type of personal benefit contemplated by subsection 123(1) that would cause the party to be denied non-profit status under that provision.
+
+Without disqualifying itself under subsection 123(1), an association may distribute income to or for the benefit of any member that is an association the main purpose and function of which is the promotion of amateur athletics in Canada. This provision will normally be applicable to a registered Canadian amateur athletic association.
+
+### Sample Ruling 1: Fraternal organizations
+
+#### Facts
+
+Club A, a fraternal organization, was incorporated on October 15, 1910, under *An Act to Incorporate Club A*. That Act provides that the purposes of Club A shall be benevolent, moral and for the public welfare. The by-laws of Club A provide that no part of its income shall be paid for the personal benefit of any member. Further, the by-laws provide that the leader of Club A will receive an annual allowance to defray certain of his expenses.
+
+#### Ruling Requested
+
+Is Club A a non-profit organization pursuant to subsection 123(1) of the ETA?
+
+#### Ruling Given
+
+Based on the information provided, Club A is organized solely for non-profit purposes. Further, the Department is of the view that Club A meets the "no personal benefit for any member" requirement. Finally, providing that Club A operates solely for non-profit purposes, it will be considered to be a non-profit organization pursuant to subsection 123(1) of the ETA.
+
+The Department's position is that when determining whether an entity is a non-profit organization pursuant to subsection 123(1) the entity must meet all of the following conditions: it must be organized solely for non-profit purposes; it must in fact be operated solely for non-profit purposes; and no part of its income may be payable to, or otherwise made available for the personal benefit of, any member, except in connection with the promotion of amateur athletics in Canada. Further, the entity must be a person other than an individual, an estate, a trust, a charity, a public institution, a municipality or a government.
+
+### Sample Ruling 2: Crown agent
+
+#### Facts
+
+Museum M was incorporated under the *Museums Act*. That Act states that it is an agent of the Crown and that the purposes of Museum M are to develop, maintain and make known throughout Canada a collection of works of art. That Act sets out that all directors of Museum M must be appointed by the designated Minister with the approval of the Governor in Council. The *Financial Administration Act* sets out that where all directors of a corporation are appointed by the Minister with the approval of the Governor in Council, that the corporation is wholly owned by the Crown.
+
+#### Ruling Requested
+
+Is Museum M a non-profit organization pursuant to section 259 and subsection 123(1) of the ETA?
+
+#### Ruling Given
+
+Based on the information provided, Museum M is organized solely for non-profit purposes in that it is organized for non-commercial public purposes: social welfare, pleasure, recreation and advancement of education. Further, the Department is of the view that Museum M meets the "no personal benefit for any member" requirement because it is wholly owned by the Crown. Finally, providing that Museum M operates solely for non-profit purposes, it will be considered to be a non-profit organization pursuant to section 259 and subsection 123(1) of the ETA.
+
+The Department's position is that when determining whether an entity is a non-profit organization pursuant to section 259 the entity must meet all of the following conditions under subsection 123(1): it must be organized solely for non-profit purposes; it must in fact be operated solely for non-profit purposes; and no part of its income may be payable to, or otherwise made available for the personal benefit of, any member, except in connection with the promotion of amateur athletics in Canada. Further, pursuant to subsection 123(1) and section 259 the entity must be a person other than an individual, an estate, a trust, a charity, a public institution or a municipality, but may be a prescribed government organization.

@@ -1,0 +1,158 @@
+---
+title: "Internet File Transfer Logistics"
+gallery_title: "Internet File Transfer Logistics"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/businesses-video-gallery/internet-file-transfer-logistics.html
+video_source: https://www.youtube.com/watch?v=6sa2U5Q1K_U
+last_modified: 2025-12-09
+---
+
+# Internet File Transfer Logistics
+
+## Transcript
+Hello, I’m Anthony, your host for today.
+Let’s begin by acknowledging that the land on which I am located is the traditional unceded territory of the Algonquin Anishnaabeg People. The Algonquin peoples have lived on this land since time immemorial. We are grateful to have the opportunity to be present in this territory. Given that we are meeting virtually, I also want to acknowledge the lands on which you are gathered from coast to coast and invite you to take a moment to acknowledge the territory in which you find yourself.
+Welcome to Internet File Transfer Logistics.
+For today, please click on the question icon in the tool bar at the top of the screen to ask a question related to Internet File Transfer Logistics. We’ll answer as many as we can during the webinar. For any other tax related questions, call the business enquiries line.
+Let’s get started.
+Today, we’ll talk about:
+- Changes to Internet File Transfer
+- Submitting one information
+- return type per file
+- Online validations / New reports
+- T619 updates and new fields
+- Using Internet File Transfer (XML)
+- Common error messages
+- Recommendations
+There are two ways to file information returns electronically:
+Web Forms and Internet File Transfer.
+Today, we will focus on Internet File Transfer.
+The CRA is implementing changes to Internet File Transfers to:
+- Improve processing times
+- Provide filers with the ability to correct errors right away, instead of waiting for CRA
+- to identify the errors and be contacted later
+- Provide taxpayers and the CRA with more accurate and complete information sooner
+A combination of multiple return types in one submission through Internet File Transfer (XML) will no longer be accepted. The CRA will only accept a single return type to be filed within the same submission. Beginning in 2025, all returns in a submission must be of the same return type. Mixed return types will not be accepted. If you try to file different return types in a single submission, the online validations will generate a discrepancy. For example, a T4A return cannot be submitted together in a submission with a T4 return.
+This change only affects Internet File Transfer (IFT) as the Web Forms application was already set up to only accept one return type in a submission.
+Starting January 2025, most submissions are validated in real time. Validations will occur at the return level, and may include:
+- summary errors
+- multiple slip errors
+- missing information on mandatory fields
+- and others
+If there are discrepancies with your submission, you will be notified on screen through the error report that will outline the discrepancies at the return level. Some discrepancies will result in return rejections. These returns will need to be corrected before they can be filed. The confirmation of receipt will be accompanied by a submission filing report which will outline “In progress” and “rejected” returns with details.
+This is new for Internet File Transfer (IFT):
+You will be notified on screen when there is a discrepancy with the return you are trying to submit.
+Downloadable error reports will be available on the Confirmation of Receipt page.
+If a submission is too large to be validated online, you will still receive a submission number on screen. The submission will then proceed through offline validations and the results will be provided to you using the email address from the T619.
+You will now be informed via email of filings made on your behalf – if another company files your returns, and we have your email address on file, we will send you an email notifying you of the filing of your return.
+The T619 will be validated online for the vast majority of submissions.
+A submission with more than one return can have some returns accepted and some rejected. It is important to pay attention to the Confirmation of Receipt email.
+A submission number does not mean that the submission has been accepted.
+If your submission contains errors for some of the returns, when you refile to correct the errors, be sure to only refile the rejected returns after making corrections.
+You should never resubmit returns that are “In Progress”.
+The T619 Electronic Transmittal record is included with all information returns submitted to the CRA. The T619 is used by the CRA to identify who is filing and to contact the transmitter if there are any issues with the return. The information on the T619 is never shared or distributed.
+If you submit your information return using Web Forms, the T619 is included automatically. If you submit using Internet File Transfer (IFT), the T619 must be attached to your submission. One T619 is required per submission (not per return).
+Changes to the T619 include:
+- Removal of fields like the “Report Type Code” as it was redundant and included in the summary.
+- Modification of fields to streamline existing tags like the Transmitter Name and Country Code.
+- Addition of new fields like Transmitter CRA Account Number and Transmitter Rep ID.
+Mandatory fields in the T619, like the email address field, will now be validated and the submission will reject if the tag is not completed correctly. Note that the validation is not to confirm if the email address is valid but to confirm that the format is correct.
+The T619 has been modified to remove some redundant fields, modify existing fields, and add new fields:
+Removed fields:
+- Report Type Code
+- Transmitter Number
+- Transmitter Type Indicator
+- Transmitter Address
+Updated fields:
+- Transmitter Name
+- Transmitter Country Code
+New fields in the T619 include:
+The Transmitter CRA Account Number: this is a new mandatory field that can be any one or more of the following:
+- BN9
+- BN15
+- Trust number
+- NR number
+The Transmitter Rep ID: if you used the Represent a Client portal to log in to submit a return, the Transmitter RepID is mandatory and consists of the following:
+- RepID
+Note: you can include one or the other, or both the Transmitter CRA Account Number and Transmitter Rep ID on the T619. However, you need to ensure that whichever account that was used to log in is included on the T619.
+The two new fields added to the T619, Transmitter CRA Account Number and Transmitter Rep ID, will provide us with the transmitter’s contact information should there be an issue with the submission.
+The values in these fields are required and must be valid. If you sign in using MyBA, then Transmitter CRA Account Number is mandatory. If you sign in using Represent a Client, then Transmitter REP ID is mandatory.
+Whichever account number you used to log into My Business Account (MyBA) or Represent a Client to submit returns must be present on the T619.
+For example, if you logged into your own MyBA and your business is A1 Accounting, then A1 Accounting’s business number must be identified in the T619. Even if you are filing on behalf of other businesses, if you are submitting those returns through your own MyBA, the BN of YOUR business (A1 Accounting) must be on the T619. If you don’t have either MyBA or Represent a Client, your business number and a Web Access Code is needed to submit. Therefore again, your business number (A1 Accounting) must be present on the T619.
+To file your electronic information return via the Internet, you have to submit the file in a format acceptable to the CRA. The Internet file Transfer (XML) option will accept a file in the eXtensible Markup Language (XML) format that meets the minimum requirements outlined in the CRA's schema. The Internet File Transfer (XML) service is provided for the purpose of Internet filing only. The use of the service is subject to the terms of use as set forth on this Web site.
+The XML specifications assist you with your XML file by identifying what we can accept in the file. You must include a T619, Electronic Transmittal record to create a complete submission.
+First, if using Internet File Transfer have your completed XML files, have your documentation ready to send your information return to CRA.
+Then, to file your information returns electronically, you can access the Web Forms or the Internet file transfer applications via: My Business Account (MyBA) or Represent a Client (RAC).
+If you do not have a MyBA or RAC account, you can file directly using Web Forms or Internet File transfer. To access directly to the Web Forms or Internet file transfer applications, you will need your:
+- Account number -15 characters RP or RZ Business Number, Trust Number, Non-Resident Number
+- Web access code, a personalized code that is associated with your account number.
+Finally, use Web Forms to prepare and submit your return or transfer the XML file to the CRA using Internet file transfer.
+After you file your original information return, you may need to do some corrections on slips and file amended or cancelled slips.
+When you amend slips using Internet file transfer (XML):
+- include only the slips that need to be amended.
+- use the report type code "A" on the summary and slips.
+- enter all data that has not changed for the slip and make changes to fields that require corrections.
+- include only the totals from the amended slips on the amended summary.
+- complete the "Filer Amendment Note" on the summary page to provide reason for amendment. When specific reasons apply for individual slips, include the name of the recipient.
+When you cancel slips using Internet file transfer (XML):
+- include only the slips that need to be cancelled
+- use the report type code "A" on the summary
+- use report type code "C" on the slips
+- enter all data that was on the original slip (an empty slip will be rejected)
+- include only the totals from the cancelled slips on the amended summary.
+Here are some error messages that may be displayed and require the filer to correct and resubmit their file during the “attach your return” stage:
+- Error: We are unable to process your submission because the file format is invalid. Only XML and zipped XML files are valid.
+- Error: We are unable to process your submission because it contains more than one return type.
+- Your submission must contain only one return type.
+- Error: We are unable to process your submission because we did not detect a T619 electronic transmittal record.
+- Error: We are unable to process your submission because the transmitter CRA account number given in the attached T619 electronic transmittal record does not match the account number you used to sign in.
+To fix these errors, the file needs to be corrected and resubmitted.
+Here are the most current error messages that filers may receive in their error report:
+- Filer account number is missing or invalid for this type of return.This return will be rejected. Only this return must be corrected and refiled.
+- Reported amounts on the summary do not match calculated amounts on the slip.
+- Financial field on the slip has a negative value in a non-negative field.These errors are presented as information only. Returns with these errors are accepted and will be processed.
+Here is a confirmation of receipt for a rejected submission.
+Your submission, number, was rejected for one or more of the following reasons:
+- Missing or invalid mandatory field identifiers
+- Invalid sequence of field identifiers
+- Invalid formatting in mandatory field identifiers
+- Invalid formatting between field identifiers
+- File does not meet CRA specifications.
+Please refer to File information returns electronically, tax slips and summaries.
+The submission is rejected. The file needs to be corrected and resubmitted.
+Here is a confirmation of receipt for accepted submission, when rejected returns are present within a submission.
+Your submission contains one or more returns that have been rejected. Please correct and resubmit as soon as possible to avoid a late-filing penalty.
+To see a complete list of returns received in your submission and any errors that may apply to the returns received, please select Submission Filing Report.
+Thank you for filing using the Internet File Transfer Application.
+The Canada Revenue Agency has received your submission.
+- Submission number:
+- Return(s):
+- Reported:
+- Calculated:
+- In progress:
+- Rejected:
+- Received on: year, month, day and time
+This submission may include accepted (or in progress) and rejected returns.
+Only the rejected returns must be corrected and refiled.
+Review the submission filing report as some returns may not have been accepted by CRA, and you may need to resubmit one or more returns prior to the due date.
+File as early as possible after January 13th.
+Due to the new online validations, you may encounter situations you are unfamiliar with. Give yourself time to allow for any internal review or for consultation with the CRA. We expect our call lines will be busy this year, especially close to the filing deadlines. Earlier filing will help us provide you with assistance in a timely manner.
+If you file past the due date, you may be subject to late filing penalties.
+Ensure that the T619 has up-to-date information for ease of contact. The information on the T619 is used to contact the filer should there be any issues with the submission. Therefore, please ensure that the information provided is the most current contact data.
+If you have any issues filing, please contact us as soon as possible to assist you.
+Today we talked about:
+- Changes to Internet File Transfers
+- Submitting one information
+- return type per file
+- Online validations / New reports
+- T619 updates and new fields
+- Using Internet File Transfer (XML)
+- Common error messages
+- Recommendations
+Tax administration is as complex as life itself. If the content today doesn’t quite fit your situation, please:
+- Visit our web site: Canada.ca/taxes
+- Visit canada.ca/filing-info-returns
+- Call CRA’s business enquiries line at 1-800-959-5525
+- You can also go to canada.ca/cra-videos where you’ll find all our business webinars.
+We’ve come to the end of our webinar. Please click on the survey icon in the tool bar at the top of the screen to fill out the evaluation form for this webinar.
+Thanks for joining me today. I hope it’s been helpful. Stay tuned for more webinars in the coming months!
+Good bye.

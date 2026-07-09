@@ -1,0 +1,270 @@
+---
+title: "2025 Income Tax and Benefit Guide for Non-Residents and Deemed Residents of Canada"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html
+last_modified: 2026-01-20
+---
+# 2025 Income Tax and Benefit Guide for Non-Residents and Deemed Residents of Canada
+
+## On this page...
+
+- [Supporting documents](#docattach)
+
+- [After you file your return](#P368_34063)
+
+    - [Notice of assessment](#noa)
+
+    - [Tax reviews](#reviews)
+
+    - [How to change a return](#chng_rtn)
+
+- [Digital services for individuals](#DigitalServices)
+
+    - [My Account](#MyAccount)
+
+    - [Electronic payments](#elecpay)
+
+    - [My Payment](#mypayment)
+
+- [For more information](#MoreInfo)
+
+    - [If you need help](#NeedHelp)
+
+    - [Direct deposit](#directdeposit)
+
+    - [Due dates](#due)
+
+    - [Forms and publications](#FormsPubs)
+
+    - [Teletypewriter (TTY) user and Video Relay Service (VRS) users](#TTY)
+
+    - [Electronic mailing lists](#MailingLists)
+
+    - [Formal disputes (objections and appeals)](#formaldisp)
+
+    - [CRA service feedback program](#feedback)
+
+          - [Service complaints](#complaint)
+
+          - [Reprisal complaints](#reprisal)
+
+## Supporting documents
+
+When you file your return, attach the supporting documents listed in this section. If you make a claim without providing your documents, the CRA may disallow the credit or deduction you claimed and this could delay the processing of your return.
+
+Even if you do not have to attach certain supporting documents to your return, keep them for six years in case the CRA asks to see them later. Also, keep a copy of your return and notice of assessment or reassessment.
+
+Attach the following documents to your return:
+
+- **a copy of your information slips such** as a T4, T4A, T5, and NR4, and provincial slips such as the Relevé 1, if applicable
+
+- **your completed forms and schedules,** when instructed
+
+- [Form T776, *Statement of Real Estate Rentals*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t776.html), or a statement showing your rental income and expenses for [Line 12600 – Rental income](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/rental-income-line-12599-gross-line-12600-net.html)
+
+If you are missing an information slip, attach a copy of your final pay stub or statement instead. Keep your original documents. Also, attach a note stating the payer’s name and address, the type of income involved, and what you are doing to get the slip.
+
+## After you file your return
+
+### Notice of assessment
+
+The notice of assessment (NOA) gives you a summary of your tax and benefit assessment and explains any changes made to your return. It also tells you if you have a refund, a zero balance, or a balance owing.
+
+It gives you other important information such as your:
+
+- unused registered retirement savings plan (RRSP) contributions
+
+- RRSP deduction limit and available contribution room
+
+- first home savings account (FHSA) participation room
+
+- Canada training credit limit (CTCL)
+
+- other amounts and balances that you may want to carry forward to a future year
+
+You will receive your NOA after the CRA processes your return. For more information, see [Notices of assessment – NOA or NOR](https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/after-you-file/noa-nor.html).
+
+### Tax reviews
+
+When the CRA receives your return, it is usually processed and a notice of assessment is sent to you. However, each year, the CRA conducts a number of reviews to promote awareness of, and compliance with, the laws that the CRA administers.
+
+If your return is selected for a more detailed review before or after it is assessed, you will receive a letter or phone call from the CRA. It's important to know that a review is **not** a tax audit. In most cases, it's simply a routine check to ensure that the information that you provided on your return is correct.
+
+If you receive a request from the CRA asking for documents or receipts, you should reply within the timeframe given. Make sure to include all of the information that the CRA asks for and that the copies of your documents are clear and easy to read.
+
+Remember that the CRA is here to help you. If you cannot get the documents that the CRA is asking for, have questions, or need more time to reply, [let the CRA know](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-refund-balance-owing.html). If you do not reply to the CRA's request, the CRA may adjust your return and your claim or deduction may be disallowed.
+
+For more information, go to [Income tax review? You've got this!](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/review-your-tax-return-cra.html).
+
+### How to change a return
+
+If you have more information that could change the result of a return that you have already sent to the CRA, do**not**file another return for that year. Wait until you receive your notice of assessment before asking for changes.
+
+Generally, you can only request a change to a return for a tax year ending in any of the 10 previous calendar years. For example, a request made in 2026 must relate to a tax year after 2015 to be considered.
+
+You can change your return in any of the following ways:
+
+- by signing in to your CRA account at [Sign in to your CRA Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), accessing My Account and using “Change my return”
+
+- by sending [Form T1-ADJ, *T1 Adjustment Request*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1-adj.html), by mail, as well as any supporting documents, if you have not sent them before to support your original claim.
+
+If the CRA has assessed your taxes owing for a year that you did not file a tax return, you must file a return for that year if you want to make a change.
+
+For more information, go to [Changing a return](https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/after-you-file/change-return.html).
+
+## Digital services for individuals
+
+The CRA's digital services are fast, easy, and secure!
+
+### My Account
+
+My Account lets you access your personal income tax and benefit information and interact with the CRA online throughout the year to.
+
+Use the "Navigation" and "Correspondence" menus to access the following services in My Account:
+
+### Profile
+
+- Change your address, phone numbers, direct deposit information, marital status, information about children in your care, and language preference
+
+- Edit your notification preferences and receive email notifications when important changes are made to your account
+
+- Manage your authorized representatives and authorization requests
+
+- Manage your multi-factor authentication settings, security options, and personal identification number (PIN)
+
+### Tax returns
+
+- View your notice of assessment or reassessment, special elections and returns, carryover amounts, and tax information slips (T4 and more)
+
+### Accounts and payments
+
+- View your account balance and statement of account
+
+- Make a payment online to the CRA with the My Payment service, create a pre-authorized debit (PAD) agreement, or create a QR code to pay in person at Canada Post for a fee
+
+- Transfer a payment
+
+### Benefits and credits
+
+- View your benefit and credit information, and apply for certain benefits
+
+### Savings and pension plans
+
+- View information about your Registered Retirement Savings Plan (RRSP), Tax-Free Savings Account (TFSA), Home Buyers’ Plan (HBP), First Home Savings Account (FHSA), and Lifelong Learning Plan (LLP)
+
+### Correspondance
+
+- View mail from the CRA
+
+- Submit documents to the CRA
+
+- Submit an audit enquiry
+
+- File a formal dispute
+
+- Request a CPP/EI ruling
+
+### Additional digital services
+
+- Track the progress of certain files and enquiries you have submitted to the CRA
+
+- View and print your proof of income statement
+
+### Receive your CRA mail online
+
+Set your correspondence preference to “Electronic mail” to receive email notifications when CRA mail, like your notice of assessment, is available in your account. You will no longer receive CRA mail by paper. For more information, go to [Email notifications from the CRA - Individuals](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/online-mail-helping-you-organize-your-canada-revenue-agency-mail.html).
+
+### Access My Account
+
+To access My Account, go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) and sign in to or register for a CRA account.
+
+### Electronic payments
+
+Make your payment using:
+
+- Your Canadian bank or credit union’s online, banking mobile app, or telephone service
+
+- The CRA’s [My Payment service](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html) with your activated debit card from a participating Canadian bank or credit union with Visa Debit or Debit MasterCard logo (does **not** include credit cards)
+
+- [Pre-authorized debit (PAD)](https://www.canada.ca/en/financial-consumer-agency/services/banking/preauthorized-debit.html) which lets you:
+
+    - set up payments to the CRA from a Canadian chequing account on pre-set dates starting in five or more business days
+
+    - pay an amount due, repay overpaid amounts or make instalment payments
+
+    - view your account history and modify, cancel or skip a payment (for more information on PAD, go to [Pay by scheduled pre-authorized debit (PAD) through CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html))
+
+- The "Proceed to pay" button through My Account in the "Accounts and payments" panel on the "Overview" page, or directly through "Accounts and Payments" side navigation menu item and under the "Account balance and statement of account" and "Instalments" panels
+
+- Your credit card, Interac e-Transfer or PayPal through one of the third-party service providers **for a fee**
+
+For more information, go to [payments to the CRA](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html).
+
+## My Payment
+
+My Payment is an electronic payment service offered by the CRA that allows individuals and businesses to make payments online directly to the CRA using their bank access cards with a Visa Debit or Debit Mastercard logo. Use this service to make a payment to one or more CRA accounts in one simple transaction. For more information, go to [Pay with a debit card through the CRA's My Payment service](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html).
+
+## For more information
+
+### If you need help
+
+For help with common topics, current contact centre wait times, and links to online self-serve options, go to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+### Direct deposit
+
+Direct deposit is a fast, convenient, and secure way to receive your CRA payments directly in your account at a financial institution in Canada. For more information, go to [Direct deposit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html) or contact your financial institution.
+
+### Forms and publications
+
+The CRA encourages you to file your return electronically. If you need a paper version of the CRA's forms and publications, go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+### Teletypewriter (TTY) and Video Relay Service (VRS) users
+
+If you use a TTY for a hearing or speech impairment, call **1-800-665-0354**.
+
+Register with Canada VRS to download the app, by going to [Get started with Canada VRS](https://srvcanadavrs.ca/en/get-the-app/), and call the VRS line.
+
+If you use another **operator-assisted relay service**, call the CRA’s regular telephone numbers instead of the TTY or Canada VRS numbers.
+
+### Electronic mailing lists
+
+The CRA can send you an email when new information on a subject of interest is published on its website. To subscribe, go to [Canada Revenue Agency electronic mailing lists.](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html)
+
+#### Formal disputes (objections and appeals)
+
+You have the right to file an objection or an appeal if you disagree with an assessment, determination or decision.
+
+For more information, go to [Objections, appeals, disputes, and relief measures](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes.html).
+
+### Due dates
+
+When a due date falls on a Saturday, Sunday or public holiday recognized by the CRA, your return is considered on time if the CRA receives it or if it is postmarked on or before the next business day. For more information, go to [Due dates and payment dates](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/important-dates-individuals.html).
+
+### CRA service feedback program
+
+#### Service complaints
+
+You can expect to be treated fairly and to receive a high level of service every time you interact with the CRA.
+
+You can provide compliments or suggestions; however, if you are not satisfied with the service you received:
+
+1. You may save time by calling the CRA first depending on your situation. You can call the telephone number provided in your CRA correspondence or discuss your concerns with the employee you have been dealing with. If you do not have a contact number, go to [Contact the CRA](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+2. You can ask to discuss the matter with the employee's supervisor if you have not been able to resolve your service issue.
+
+3. You can submit feedback by filling out [Form RC193, *Service Feedback*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html), if the issue remains unresolved. For more information go to [Send feedback about CRA service](https://www.canada.ca/en/revenue-agency/services/make-a-service-complaint.html).
+
+4. You may contact the Office of the Taxpayers' Ombudsperson if you are not satisfied with the response you have received. The Ombudsperson will only respond to complaints that the CRA has already tried to address.
+
+For more information about the Taxpayer Bill of Rights, go to [Taxpayer Bill of Rights](https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/taxpayer-bill-rights.html).
+
+#### Reprisal complaints
+
+If you received a response about a previously-submitted service complaint or formal review of a CRA decision and felt that you were not treated fairly by a CRA employee, you can submit a reprisal complaint by filling out [Form RC459, *Reprisal Complaint*](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc459.html).
+
+For more information, go to [Reprisal Complaints](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/reprisal-complaints.html).
+
+- [Previous](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-federal-non-refundable-tax-credits.html)
+
+- [Table of contents](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/income-tax-benefit-guide-non-residents-deemed-residents-canada.html)
+
+- [Next](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-refund-balance-owing.html)

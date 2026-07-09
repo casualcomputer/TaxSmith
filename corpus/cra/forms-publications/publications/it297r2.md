@@ -1,0 +1,22 @@
+---
+title: "IT297R2 ARCHIVED - Gifts in Kind to Charity and Others"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it297r2.html
+last_modified: 2025-08-26
+---
+# IT297R2 ARCHIVED - Gifts in Kind to Charity and Others
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+This bulletin discusses the tax consequences of making a gift in kind to charity or others and the valuation of that gift.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [it297r2-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it297r2/archived-gifts-kind-charity-others.html)

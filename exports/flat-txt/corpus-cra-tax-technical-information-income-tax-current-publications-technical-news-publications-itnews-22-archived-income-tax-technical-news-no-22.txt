@@ -1,0 +1,589 @@
+Title: ARCHIVED - Income Tax -- Technical News No. 22
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-22/archived-income-tax-technical-news-no-22.html
+Corpus path: corpus/cra/tax/technical-information/income-tax/current-publications/technical-news/publications/itnews-22/archived-income-tax-technical-news-no-22.md
+Document type: technical_publication
+Last modified: 2019-10-08
+
+# ARCHIVED - Income Tax -- Technical News No. 22
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for income tax technical news](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/what-archived-content-notice-means-income-tax-technical-news.html)
+
+*No. 22 January 11, 2002*
+
+*This document is also available for [download in PDF format](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-22.html).*
+
+## In This Issue
+
+This issue presents the text of the topics discussed at a panel at the annual conference of the **Canadian Tax Foundation** held on September 23 to 25, 2001, in Vancouver. The responses to the questions were given by Mr. Roy Shultis, Deputy Assistant Commissioner, and Mr. Marc Vanasse, Director of the Business and Partnerships Division, of the Income Tax Rulings Directorate, Canada Customs and Revenue Agency.
+
+The topics discussed were the following:
+
+[General Anti-Avoidance Rule (GAAR)](#P36_1315)
+
+[Employee Benefits](#P105_11040)
+
+[Rectification Orders](#P153_18923)
+
+[Shareholder/Manager Remuneration](#P185_23600)
+
+[Large Corporation Tax -- Capital Tax Cases](#P227_29182)
+
+[Limitation Laws on Collection Actions](#P235_31781)
+
+[Tax Shelter News Release -- Rulings Position](#P251_35040)
+
+[Commission Income Transferred to Corporation](#P264_37112)
+
+[Series of Transactions](#P282_41745)
+
+[International Taxation](#P293_43748)
+
+The *Income Tax Technical News* is produced by the Policy and Legislation Branch. It is provided for information purposes only and does not replace the law. If you have any comments or suggestions about the matters discussed in this publication, please send them to:
+
+The *Income Tax Technical News* can be found on the Canada Customs and Revenue Agency Internet site at **www.ccra.gc.ca**
+
+## General Anti-Avoidance Rule (GAAR)
+
+### Question 1
+
+Until the recent Federal Court of Appeal decision issued last week on *OSFC Holdings Ltd. v. The Queen* (2001 DTC 5471), the CCRA had lost a few tax court decisions on the general anti-avoidance Rule (GAAR). Will these recent cases change the way the CCRA issues GAAR assessments?
+
+### Response 1
+
+You are correct that before *OSFC* we had lost a few GAAR decisions. The Federal Court of Appeal has now provided guidance with their decision in the *OSFC* case. It approached the interpretation of section 245 in a way that is consistent with the approach used by the CCRA. So, my message today is that it is business as usual in our administration of GAAR.
+
+### Question 2
+
+In view of the *Canadian Pacific Ltd. v. The Queen* (2000 DTC 2428, [2001] 1 CTC 2190), *Dennis Geransky v. The Queen* (2001 DTC 243, [2001] 2 CTC 2147) and *Husky Oil Ltd v. The Queen*, (99 DTC 308, [1999] 4 CTC 2691) decisions, will the CCRA consider there to be an avoidance transaction when a taxpayer can show that there is an overall business purpose for the transactions or has the *OSFC* decision overturned that concept?
+
+### Response 2
+
+No, we do not accept that a series of transactions cannot contain an avoidance transaction when there is a primary business purpose for the series. There is a statement in the 1988 Technical Notes which introduced subsection 245(3) to the effect that: "Where a series of transactions would result in a tax benefit, that tax benefit will be denied unless the primary objective of each transaction in the series is to achieve some legitimate non-tax purpose". We have interpreted the rule in this way. The decision in *OSFC* maintained our position that in order not to be an "avoidance transaction" in subsection 245(3), each step in a series of transactions must be carried out primarily for bona fide non-tax purposes.
+
+### Question 3
+
+If we cannot get out of GAAR using the overall business purpose principle, can we rely on the "choice of method" principle as described by judge Bowman in the *Geransky* decision?
+
+### Response 3
+
+In *Geransky*, the Tax Court held that neither subsection 84(2) nor the GAAR applied to the transactions in question.
+
+We do not believe that there is a "choice of method" principle in the *Geransky* decision. As mentioned, the CCRA does not accept the finding of the Tax Court Judge that a series of transactions cannot contain an avoidance transaction if there is a primary non-tax purpose for the series of transactions. The *OSFC* judgment confirms that this position is correct.
+
+It is noted that the *OSFC* decision stated that there is no general rule against structuring transactions in a tax effective manner or a requirement that transactions be structured in a manner that maximizes tax. However, it went on to say that the GAAR may still apply if the transactions result in an abuse of the Act.
+
+### Question 4
+
+In light of the comments in *OSFC* about CCRA setting out the policy of the relevant provisions of the Act in order to apply the misuse or abuse test, will CCRA auditors include such policy when GAAR is proposed.
+
+### Response 4
+
+I believe that *OSFC* has placed a high standard for the application of the "abuse or misuse" test. In order to apply the GAAR, the court stated that the onus is on CCRA to show a clear and unambiguous policy of the relevant provisions of the Act read as a whole and to set out what extrinsic aids were relied upon so that it is sufficiently clear that the use made of the provision or provisions by the taxpayer constituted a misuse or abuse. This is one of the reasons for the presence of a senior official from the Department of Finance on the GAAR committee.
+
+In this regard, our tax avoidance auditors have existing instructions to provide the taxpayer with CCRA's view of why the transactions under review are subject to GAAR.
+
+### Question 5
+
+The *OSFC* decision will undoubtedly give tax avoidance auditors renewed zeal to apply the GAAR. Are there any important process changes that we should be aware of concerning the application of the GAAR?
+
+### Response 5
+
+I do not believe that the *OSFC* decision will change the behavior of our tax avoidance auditors since the principles discussed in that decision are consistent with the principles that we have used in applying the GAAR.
+
+As far as process changes, Mr. Bill Baker, Assistant Commissioner of the Compliance Programs Branch, announced earlier that Mr. Patrick Boyle will be on an executive interchange assignment with the CCRA and will sit on the GAAR Committee as part of his duties. I think this shows that we are listening to the tax community and Mr. Boyle's presence will provide a private sector viewpoint. Also, Messrs. Bill Baker and Bill McCloskey, Assistant Commissioner of the Policy and Legislation Branch, have asked me to take over as chair of the GAAR Committee. Mr. Mike Hiltz, along with my other directors in Rulings, Messrs. Marc Vanasse, Rick Biscaro and Brian Darling, will support me in this role.
+
+I think that the administration of GAAR has been well managed. The GAAR Committee ensures a centralized control, proper deliberation and consistency and it has been my experience that our tax avoidance auditors are some of the best in our organization and do a responsible job. Standing instructions to our auditors ensure that no case will be heard by the GAAR Committee unless complete taxpayer representations accompany the referral.
+
+I think it is also important to understand that tax avoidance auditors do not approve GAAR assessments, the GAAR Committee must approve all GAAR assessments and to-date, GAAR has only been recommended on 320 files since inception.
+
+### Question 6
+
+So if we can expect GAAR assessments to continue, just what areas are the CCRA auditors looking at when applying the GAAR?
+
+### Response 6
+
+In general terms, the top five areas where the GAAR has been applied are:
+
+- Avoidance of large corporation Part I.3 tax;
+
+- Dividend stripping;
+
+- Outbound indirect loans;
+
+- Treaty shopping; and
+
+- Paid-up capital shifting/creation.
+
+***Avoidance of large corporation Part I.3 tax***
+
+These cases generally involve a temporary acquisition and disposition (over a corporation's year-end) of assets eligible for the investment allowance so as to reduce Part I.3 tax. The assets temporarily acquired yield a rate of return lower than the assets ordinarily held.
+
+A case on Part I.3 tax was heard in Calgary in May 2001.
+
+***Dividend stripping***
+
+An individual sells shares of his corporation to a Newco and claims the capital gain deduction. Corporate assets are transferred, generally on a taxable basis, to the Newco. The shares of the new corporation are sold for no gain. The *Geransky* case provides an example of such transactions.
+
+***Outbound indirect loans***
+
+These cases involve the use of a newly created company in a tax haven to allow a Canadian company to make indirect loans to offshore companies that are not foreign affiliates of the Canadian company. If the loan had been direct, there would be an interest income inclusion to the Canadian company pursuant to paragraph 12(1)(c), and subsection 15(2) would apply to the loan resulting in Part XIII tax to the non-resident.
+
+***Treaty shopping***
+
+We have been reviewing cases involving the continuance of a taxpayer from one treaty country to another in order for the taxpayer to benefit from a lower treaty rate on receipt of a payment. We are also seeing cases involving the continuance of taxpayers from non-treaty countries into treaty countries in order to obtain an exemption from capital gains arising on a sale of property.
+
+Canada takes the view that it is free to apply its domestic anti-avoidance rules to counter abusive treaty-shopping arrangements.
+
+***Paid-up capital shifting/creation***
+
+These schemes could be viewed as a subset of surplus stripping. Taxpayers undertake amalgamations to use subsection 87(3) to shift paid-up capital from tax-indifferent shareholders to other shareholders.
+
+### Question 7
+
+Are any business transactions really safe from the GAAR?
+
+### Response 7
+
+Others areas where the GAAR has been found not to apply include:
+
+- In-house loss utilization (generally these arrangements are not considered a misuse or abuse, but I highly recommend that you obtain an advance tax ruling);
+
+- Estate freezes;
+
+- Foreign property;
+
+- Donation tax credits; and
+
+- Separation of business activities to maximize the manufacturing and processing deduction/scientific research & experimental development incentives.
+
+***In-house loss utilization***
+
+The existence of specific provisions permitting the transfer of losses and other deductions between related corporations and references in the explanatory notes relating to income tax reform indicate that a loss utilization of the type in question is consistent with the scheme of the Act and, therefore, subsection 245(2) would not be applied.
+
+***Foreign property***
+
+One use involved the use of financial derivatives to mimic a rate of return equivalent to that on foreign property. Other files involved the acquisition of properties that are not listed as foreign property in the Act (e.g., debts of a trust in certain circumstances).
+
+***Donation tax credits***
+
+Generally, these schemes are not subject to GAAR as other provisions of the Act may be used to challenge them. However, transactions involving the transfer of corporate donation tax credits were found not to be subject to the GAAR.
+
+***Separation of business activities to maximize the manufacturing and processing deduction/scientific research & experimental development incentives***
+
+Segregating activities in separate corporations to maximize the incentives available under the Act is not considered to be an abuse of the Act read as a whole.
+
+### Question 8
+
+In view of the decision in *Rousseau-Houle v. The Queen* (2001 DTC 250), will CCRA take the position that GAAR does not apply to the Regulations?
+
+### Response 8
+
+No.
+
+## Employee Benefits
+
+The CCRA has recently lost a case dealing with whether free parking provided to employees constitutes a taxable employment benefit. In the case of *Daniel Q.S. Chow and Brian Topechka v. The Queen* (2001 DTC 164, [2001] 1 CTC 2741), the individuals were employed as middle managers with Telus Management Services Inc. The employer provided them with free parking at its parking garage located next to the location where the employees worked. Mr. Chow worked until 8:00 most evenings and public transportation was not easily accessible at that time. Similarly, Mr. Topechka started work at 5:00 in the morning and could not avail himself of public transit at that early hour. The employer would reimburse the cost of taxis in those situations where an employee was required to start early or work late. By providing free parking in these cases, the employer did not incur any extra taxi expenses, and it benefited from having the employees available to work in the early and late hours. The court found that there was no benefit because the primary beneficiary of the free parking was the employer in this situation.
+
+### Question 1
+
+Does the CCRA agree with this case?
+
+### Response 1
+
+First of all, let me state that the CCRA recognizes the administrative burden for employers when dealing with employee benefits. We therefore need to take reasonable positions without compromising the overall purpose of the taxing provisions.
+
+With respect to this particular case, it was heard under the informal procedure and the decision was based on its specific facts. We feel that this decision will be limited in its application because of the particular facts. Essentially, it was decided that the employer-paid parking benefited the employer more than the employee.
+
+### Question 2
+
+How does the decision in this case impact the CCRA's position on employer-provided parking?
+
+### Response 2
+
+We do not feel that the decision changes our policy on employer-provided parking. The *Employers' Guide -- Taxable Benefits* is quite clear and basically states:
+
+- that when an employer provides free or subsidized parking, the employee is considered to have received an employment benefit based on the FMV of the parking spot;
+
+- we recognize that there may be situations where the FMV of the employer-provided parking is difficult to determine, such as where free parking is generally available to employees and the general public, or when there is a limited number of parking spaces and parking is on a first come, first serve basis. In these cases, no benefit will arise;
+
+- where the parking is provided for business reasons, and the employee is regularly required to use their vehicle for employment-related purposes, the employee will not be considered to have received a taxable benefit.
+
+### Question 3
+
+Auditing employee benefits and trying to determine valuations for small employee benefits must be an administrative burden for the CCRA and certainly is one for employers. Is the CCRA planning to review its approach to the taxation of employee benefits in general?
+
+### Response 3
+
+The CCRA conducts an ongoing review of the various benefits and privileges provided to employees, to ensure that our positions on taxation are fair to all employees, and consistent with the legislation. We maintain an open dialogue with interested groups such as the Canadian Payroll Association and adjust our policies from time to time to reflect current economic reality and business practices.
+
+As a result of this ongoing review, I am pleased to announce that we are modernizing our position on the taxation of employer-provided gifts and awards.
+
+### Question 4
+
+Before you get into explaining this announcement, could you briefly explain the old position?
+
+### Response 4
+
+Under our existing position, an employer may give an employee, on a tax-free basis, one gift per year (two in the year of marriage) for a special occasion such as Christmas or a birthday, if the gift's value is less than $100 and the employer does not deduct it as a business expense. With respect to awards given to employees in recognition of certain achievements, the fair market value of the award is generally considered to be a taxable employment benefit.
+
+Under our new position, employers will be able to give two non-cash gifts per year, on a tax-free basis, to employees for special occasions such as Christmas, Hanukkah, birthday, marriage or a similar event where the aggregate cost of the gifts to the employer is less than $500 per year.
+
+Similarly, employers will be able to give employees two non-cash awards per year, on a tax-free basis, in recognition of special achievements such as reaching a set number of years of service, meeting or exceeding safety standards, or reaching similar milestones where the total cost of the awards to the employer is less than $500 per year. The employer will be able to deduct the cost of the gifts and awards.
+
+This new position was developed after extensive consultation, reflects current business practices and is in keeping with other reasonable positions that we have set out in our Interpretation Bulletin IT-470, *Employees' Fringe Benefits*. It makes it easier for employers to administer because it removes the burden of determining the fair market value of small gifts and awards -- something that is very subjective when the gift or award has a company logo.
+
+This new position will be closely monitored and will be adjusted if abuse or undue revenue loss is identified.
+
+### Question 5
+
+Would gift certificates be considered non-cash gifts and awards for purposes of this new position?
+
+### Response 5
+
+The position would not apply to cash or near-cash gifts and awards. Accordingly, gift certificates, gold nuggets, or any other item that can easily be converted to cash would not fall within the new position, and the value of such awards and gifts will be considered a taxable employment benefit.
+
+### Question 6
+
+What happens if the total cost of the gifts or awards, as the case may be, exceeds the $500 limit?
+
+### Response 6
+
+If the cost exceeds the $500 threshold, then the full fair market value of the gifts or awards will be included in the employee's employment income. The purpose of the new position is to allow employers to provide small non-monetary gifts and awards to employees without incurring the administrative burden of valuing these items for T4 reporting purposes. If the cost goes beyond the $500 limit, the assumption is that the gifts or awards form part of the employee's remuneration package.
+
+### Question 7
+
+Will this new approach affect the policy on Christmas parties and other social functions?
+
+### Response 7
+
+No. The policy applies only to gifts and awards given to employees.
+
+### Question 8
+
+When does this new position come into effect?
+
+### Response 8
+
+We will publish this new position in an upcoming Technical News, and it will be effective for the 2001 calendar year.
+
+### Question 9
+
+I realize that we could spend all day on the issue of taxable benefits because it is such an important topic. However, I would like to ask you one last question. We have noticed that over the last year, you have issued rulings that employer provided home computers are not taxable benefits. Could you explain the rationale of these rulings?
+
+### Response 9
+
+These favourable rulings were based on our position in Technical News No. 13 on employer-paid education and training costs. Essentially, our position is that there is no taxable benefit where the training is taken primarily for the benefit of the employer. In the rulings given, we analyzed the employer-sponsored training programs that were available to all employees for the purpose of developing their computer and Internet skills. The programs in question were viewed as benefiting the employer more than the employees.
+
+We are prepared to analyze any employer-sponsored training program in the context of an advance income tax ruling request, to determine if it is consistent with our position in Technical News No. 13.
+
+## Rectification Orders
+
+### Question 1
+
+Will the CCRA accept all rectification orders for assessing and reassessing purposes?
+
+### Response 1
+
+Our policy on rectification is still evolving. However, at this point, given the decisions in *Peter and Bernard Dale v. The Queen* (2000 DTC 6579, [2000] 4 CTC 184) and *The Queen v. Sussex Square Apartments Ltd.* (2000 DTC 6548, [2000] 4 CTC 203), we will normally accept rectification orders, especially when we have had an opportunity to contest the order in Provincial Court as with the *Paul and Karen Juliar v. The Attorney General of Canada* (2000 DTC 6589) case. However, I would like to add two important qualifications:
+
+1. If we are not properly informed about the rectification application, our reaction will be to contest the rectification order in Provincial Court.
+
+2. If we think the process has been abused, we will consider taking the right case through the Tax Court process.
+
+### Question 2
+
+Have any instructions been issued to the field concerning rectification and the *Juliar* decision.
+
+### Response 2
+
+Yes, in June of this year, Tax Avoidance in Headquarters issued interim policy instructions to all of our field offices.
+
+### Question 3
+
+Absent a rectification order, what is the CCRA's current policy on accepting changes to documents or replacements of documents in light of the *Juliar* decision?
+
+### Response 3
+
+In the absence of a valid rectification order, we will assess on the basis of the legal documents and the legal rights that they create. Auditors have no choice but to assess on the facts present at the time of assessment or audit. However, adjustments will still be made to correct clerical or administrative errors for Section 85 rollovers as set out in paragraph 16 of Information Circular 76-19R3.
+
+### Question 4
+
+Rectification orders are used to correct errors. What is the CCRA's concern with obtaining a rectification order from the Provincial Court?
+
+### Response 4
+
+I realize that tax practitioners see the *Juliar* decision as good news for taxpayers who make honest mistakes in structuring and carrying out their transactions.
+
+Nevertheless, we have legitimate concerns in this area. We feel strongly that obtaining a rectification order should not become a convenient method of "fixing" aggressive tax plans that are uncovered on audit. It is no surprise that we do not condone retroactive tax planning. We are not as concerned about correcting documentation that is in error because it does not reflect the true intention of the parties involved. This is what we believe the doctrine of rectification contemplates. In any event, we want to be informed of any application for a rectification order. If not, we will ask Justice to take the necessary steps to open the order. This is in fact what has been done in a few cases and hopefully we will receive more guidance from the courts on rectification.
+
+### Question 5
+
+When will the CCRA oppose a rectification order in Provincial Court?
+
+### Response 5
+
+Our general policy is that where the amendments are integral to achieving the original intentions of the parties, the application for rectification likely will not be opposed. However, I would caution you that rectification should not be seen as a substitute for professional insurance. The threshold for obtaining a rectification order is quite high. The court will have to be persuaded that the documentation of the transactions in question does not reflect the true and primary intentions of the parties. We will rely on Justice to advise us which cases meet the doctrine of rectification.
+
+The most likely areas where we may oppose applications to obtain rectification are where:
+
+- the taxpayer has no evidence as to the initial common intended transaction or there is evidence to show that there was not another intention; or
+
+- the taxpayer is asking the court not to rectify the transaction back to its intended form, but to undo the intended transaction and put in place a new one formed after the original transaction.
+
+We would not challenge the "corporate slip" type of mistake, as in the *Dale* case, nor would we challenge a case that fits squarely within the facts of the *Juliar* decision. Although, as Mr. Ian McGregor explained in the opening session of the conference, we are limiting *Juliar* to its particular facts. It was seen as a sympathetic case.
+
+### Question 6
+
+Will the CCRA seek legislative changes concerning rectification?
+
+### Response 6
+
+We are presently monitoring the number and types of rectification applications and orders and will receive further guidance from the courts on the cases that are presently under consideration and, based on that, will determine if a legislative amendment is desirable. As such, our position on rectification has yet to be finalized.
+
+## Shareholder/Manager Remuneration
+
+For over 20 years, many Canadian-controlled private corporations (CCPCs) have followed a practice of paying salaries and bonuses to shareholder/managers in amounts sufficient to reduce the taxable income of the corporation to or below the limits that qualify for the small business deduction. This issue was addressed at the annual conference of the Canadian Tax Foundation in 1981. In answer to question 42 of the Round Table session, it was stated that:
+
+- the general practice of the corporation is to distribute the profits of the company to its shareholder/managers in the form of bonuses or additional salaries; or
+
+- the company has adopted a policy of declaring bonuses to the shareholders to remunerate them for the profits the company has earned that are attributable to special know-how, connections or entrepreneurial skills of the shareholders."
+
+As a result of recent technical interpretations that discuss the treatment of remuneration to indirect shareholders, there has been some concern over how the CCRA will treat remuneration paid to employee/shareholders.
+
+### Question 1
+
+In light of the above, will the CCRA outline the criteria that must be met relative to the ownership and management structure of a CCPC before the CCRA's position on the reasonableness of salaries and bonuses referred to above would be applied?
+
+### Response 1
+
+As a general rule, all expenses are subject to section 67. However, based on the specific situation that was presented during the 1981 Round Table, we stated that we would not challenge the reasonableness of salaries or bonuses in the context of a CCPC paying a bonus to a shareholder/manager in order to reduce the CCPC's taxable income to the small business deduction limit. It is important to note that in 1981, we mentioned bonuses to the principal shareholder/manager. This was to ensure we would be taxing the salaries in Canada. This position still applies today.
+
+### Question 2
+
+Does this position apply to salaries and bonuses paid to inactive shareholders?
+
+### Response 2
+
+No. We will apply our position only in the context of a CCPC and active shareholder/managers who are resident in Canada.
+
+### Question 3
+
+Does the use of holding companies affect the CCRA's position on the reasonableness of salaries and bonuses to principal shareholder/managers?
+
+### Response 3
+
+No. We will not question the reasonableness of the payments as long as the salaries and bonuses are paid to managers who are shareholders of the CCPC (either directly or through a holding company), are Canadian residents, and are actively involved in the day-to-day operations of the company. The key is that the Canadian resident recipients must be active in the operating business and contribute to the income-producing activities from which the remuneration is paid.
+
+### Question 4
+
+I realize that the question in 1981 was quite specific and that it dealt with paying a bonus in order to reduce the CCPC's taxable income to the small business deduction limit. Would the CCRA challenge the reasonableness of salaries and bonuses that result in the CCPC having taxable income below the small business deduction limit?
+
+### Response 4
+
+No. The CCRA would not normally have any concerns on reasonableness when salaries and bonuses are paid to active shareholder/managers of a CCPC if they are Canadian residents active in the income producing activities of the company.
+
+### Question 5
+
+Does the CCRA have problems with reasonableness of salaries and bonuses when other family members own shares of the CCPC either directly or through a holding company or even through a trust?
+
+### Response 5
+
+No. As long as the recipients of the salaries and bonuses are active shareholder/managers resident in Canada, we would not challenge the reasonableness of the amount.
+
+### Question 6
+
+Let me complicate this a little bit. Would the CCRA challenge the reasonableness of inter-corporate management fees paid by Opco to Holdco (assuming they are both CCPCs)?
+
+### Response 6
+
+Yes. Our position is limited to salaries and bonuses paid directly to individuals resident in Canada who are active shareholder/managers of a CCPC. We therefore reserve the right to challenge the reasonableness of any inter-corporate management fees.
+
+### Question 7
+
+I realize that your 1981 Round Table response implicitly dealt with active business income earned by a CCPC. Will the CCRA extend the position to include CCPCs that earn non-active business income?
+
+### Response 7
+
+We will not normally challenge the reasonableness of salaries and bonuses paid out of non-active business income as long as the other principles that I mentioned above are adhered to (i.e., the payer is a CCPC and the recipients are active shareholder/managers who are resident of Canada).
+
+### Question 8
+
+Did the decision in *Safety Boss Limited v. The Queen* (2000 DTC 1767, [2000] 3 CTC 2497) change the CCRA's position on the reasonableness of salaries and bonuses?
+
+### Response 8
+
+No. The *Safety Boss* case, which was decided under the informal procedures, does not change our position because the facts of the case are not consistent with our position. At the time of the payments in question:
+
+- Safety Boss Limited was not a CCPC;
+
+- The bonus was paid to a shareholder/manager who was not a resident of Canada; and
+
+- The management fees were paid to a related, non-resident corporation.
+
+The CCRA questioned the reasonableness of the bonus and management fees. Based on the particular facts of the case, the Tax Court found that the payments were reasonable.
+
+## Large Corporation Tax -- Capital Tax Cases
+
+### Question
+
+Since the CCRA has not sought leave to appeal the *Manufacturers Life Insurance Co. v. The Queen* (2001 DTC 5396) (*Manulife*) decision, will you now accept that general accounting and auditing principles (GAAP) determine both the amount of the item reflected in the financial statements as well as the characterization of the item for purposes of the large corporations tax? In other words, the CCRA must accept the accounting characterization of items that are properly reflected in the financial statements under GAAP.
+
+### Response
+
+The basic issue in *Manulife*, as well as in *The Queen v. Royal Trust Corporation of Canada* (2001 DTC 52, [2001] 3 CTC 2268) and *PCL Construction Management Inc. v. The Queen* (2000 DTC 2624, [2001] 1 CTC 2132) cases, which are presently under appeal to the Federal Court of Appeal, is the role of GAAP in determining the character of amounts for Part I.3 purposes. In our view, it is the intent of the law to include in the capital of a taxpayer gains that have been realized and therefore form part of the available capital of the corporation. Similarly, assets owned by a taxpayer that are leased by it in the course of carrying on its business clearly constitute tangible property employed in the taxpayer's business. We recognize that these recent decisions have created uncertainty as to the CCRA's position that the nature of an amount reflected in the balance sheet is determined with regard to legal principles and is not limited to the characterization of the amount for accounting purposes.
+
+As you know, the Supreme Court will only hear issues of national importance. With the assistance of our Justice advisors, it was concluded that *Manulife* did not raise an issue of national importance and thus, we did not seek leave to the Supreme Court.
+
+As a consequence, the CCRA will be assessing the implications of this decision as it relates to cases under appeal and with regard to our position expressed in IT-532. We will not have the full picture until the Supreme Court hands down its decision in the *Autobus Thomas* case, which is scheduled to be heard in mid-October. In *Autobus Thomas Inc. v. The Queen* (2000 DTC 6299), the courts dealt with the legal characterization of the contractual relationship between the bank and the taxpayer in connection with new vehicle purchases. In doing so, they had to take the analysis further than the title given to a particular item in the financial statements.
+
+[**Editorial comment**: The Supreme Court, in a unanimous decision, dismissed the *Autobus Thomas* case on October 11, 2001.]
+
+## Limitation Laws on Collection Actions
+
+On May 7, 2001, the Federal Court of Appeal ruled that provincial limitation laws were applicable to the Federal Crown in respect of the collection of debts under the Act. This decision overturns a previous decision from the Federal Court -- Trial Division.
+
+In the case of *Joe Markevich v. The Queen* (2001 DTC 5305, [2001] 3 CTC 39), the taxpayer failed to pay taxes that were assessed on income he had earned between 1980 and 1985. In 1986, the taxpayer owed more than $230,000 and nothing was paid on this outstanding amount after 1986. The debt was written-off by the CCRA in 1987, but was not forgiven. From 1987 to 1997, no collection measures were taken to recover this amount. During 1998, the taxpayer was advised that the CCRA intended to take statutory collection action for the full amount of his indebtedness. The statement of account sent to the taxpayer in January of 1998 indicated a balance of approximately $770,500, reflecting the amount owing in 1986, assessments and reassessments for subsequent years, and accrued interest, less payments made by the taxpayer. The taxpayer was of the view that CCRA's collection procedures had become statute-barred as a result of provincial limitation laws.
+
+The taxpayer appealed to the Federal Court of Appeal, which ruled the Act's collection procedures were subject to provincial limitation laws. In the Court's view, the Act deals with limitation periods in three ways. One is to explicitly provide for limitations. A second is to exclude the application of limitation periods by words such as "at any time". A third is by silence as to limitation periods, as is the case with the collection provisions of the Act. The Court found that since limitation periods are expressly addressed in some situations and not others, it was wrong to infer from silence that no limitation period was intended. The Court rather interpreted such silence as Parliament's intention to have the question of limitations governed by laws of general application, such as the *Crown Liability and Proceedings Act* (CLPA) and provincial limitation laws. In addition, the Court found that statutory collection procedures were "proceedings" within the meaning of this term in section 32 of the CLPA and, consequently, that the relevant provincial limitation law was applicable to such procedures.
+
+### Question 1
+
+Will the CCRA appeal this decision?
+
+### Response 1
+
+We have sought leave to appeal this decision to the Supreme Court of Canada. It is our view that limitation laws were not intended to apply to collection procedures under the Act.
+
+### Question 2
+
+Are there any changes that will be made to CCRA's collection procedures as a consequence of this decision?
+
+### Response 2
+
+As result of the *Markevich* case, and until further guidance from the Supreme Court of Canada, the CCRA will review all accounts and accelerate collections procedures in respect of accounts at risk of not being collected as a result of relevant limitation periods.
+
+### Question 3
+
+Has the CCRA discussed this case with the Department of Finance?
+
+### Response 3
+
+Yes we have. In fact, we have strongly suggested to our colleagues at Finance that the Act be amended to clarify that limitation laws do not apply to collection procedures under the Act.
+
+## Tax Shelter News Release -- Rulings Position
+
+### Question 1
+
+Could you explain why the News Release was issued and why it mentioned advance tax rulings as it has caused some confusion in the tax community?
+
+### Response 1
+
+The News Release was issued to warn once again the investors in these arrangements that our rulings did not provide certainty in key areas. A practice developed over the past several years to provide certain advance rulings that contained caveats. These rulings were issued in tax shelter type arrangements and were referred to in the offering memorandums that accompanied the tax shelter promotion. Of course, subject to whatever caveats contained in the ruling, you can still fully rely on our rulings.
+
+### Question 2
+
+Could you give us a few examples of the types of caveats that were contained in the rulings?
+
+### Response 2
+
+Several rulings contained caveats such as: (i) whether the partnership has a reasonable expectation of profit; (ii) our inability to confirm whether a benefit exists for purposes of the at-risk rules; (iii) the reasonableness of expenditures made by the partnership; and (iv) whether GAAR could apply.
+
+### Question 3
+
+Will you continue to issue rulings involving tax shelter arrangements?
+
+### Response 3
+
+As you know, there is no legal requirement to issue a ruling and we recognize that there are rare instances where declining to rule would be appropriate. Our job is to reduce uncertainty and if a tax ruling has a number of important areas where the uncertainty cannot be removed, or where the commercial and economic realities of the transactions are not clear, then you have to consider whether or not a ruling should be issued. It should also be noted that on September 18, 2001, the Minister of Finance tabled in the House of Commons a Notice of Ways and Means Motion to amend section 18.1 of the *Income Tax Act* in respect of matchable expenditures that relate to a tax shelter or a tax shelter investment. Essentially, this motion will further tighten the rules for matching the expenses against revenues. Otherwise, it is business as usual in Rulings.
+
+## Commission Income Transferred to Corporation
+
+*Jerome Wallsten and Lakeside Properties Ltd. v. The Queen* (2001 DTC 215, [2001] 1 CTC 2847) was an informal decision of the Tax Court of Canada dealing with whether commissions earned from the sale of insurance should be reported by Mr. Wallsten personally, or whether they were properly included in his corporation's income. Mr. Wallsten entered into a contract with Sun Life to sell that company's products, while being free to represent other insurance companies. Under the terms of the contract, he was prohibited from assigning his commissions to a third party other than as security. Despite this restriction, Mr. Wallsten argued that his business activities were being carried on by Lakeside Properties Ltd. He produced documents showing that all amounts received by him with respect to insurance underwriting and the sale of other securities were received on behalf of Lakeside. All cheques received from Sun Life were deposited to Lakeside's bank account. The CCRA included the income from the insurance sales in Mr. Wallsten's returns in accordance with the policy set out in paragraph 2 of IT-189R2, *Corporations Used by Practising Members of Professions*, which states that professional income should be reported by the individual providing the professional services where the individual is precluded from carrying out their profession through a corporation. The court found that Lakeside was carrying on the insurance sales business despite the fact that it was operating in violation of Mr. Wallsten's contract with Sun Life, and it cited the Supreme Court case of *The Queen v. Dr. H. Hoyle Campbell* (80 DTC 6239, [1980] CTC 319) as support for its decision.
+
+### Question 1
+
+Will the CCRA accept that this decision applies to allow insurance agents, realtors, or mutual fund salespersons to transfer personal commission income to their corporations if proper documentation is provided, notwithstanding that they may be legally prohibited from assigning their commissions to third parties?
+
+### Response 1
+
+We won't be following the decision in the *Wallsten and Lakeside Properties* case. This was an informal decision of the Tax Court of Canada. If insurance agents, realtors, mutual fund salespersons, or other professionals are legally, whether contractually or by statute, precluded from assigning their commissions to a corporation, then the commission income must be reported by the individuals, and cannot be reported through a corporation, regardless of the documentation provided. This is consistent with the 1964 decision of the Exchequer Court in *Laverne Clifford Kindree v. MNR* (64 DTC 5248) in which a doctor, who incorporated his medical practice in violation of provincial law, was required to report his professional income personally.
+
+### Question 2
+
+How can the CCRA continue with its existing policy given the decision of the Supreme Court of Canada in *Campbell* which was cited by the Tax Court Judge in the *Wallsten and Lakeside Properties* case?
+
+### Response 2
+
+We feel that our position is not inconsistent with the decision of the Supreme Court of Canada in *Campbell*. In fact, we have maintained our current position since that decision was handed down in 1980. In that case, Dr. Campbell incorporated a company to operate a private hospital which was properly licensed under the *Private Hospitals Act* of Ontario. The Supreme Court found that the medical fees paid to Dr. Campbell were income of the corporation. One of the reasons given by the court for its finding was that the company was operating a hospital providing a broad range of services which was permitted under provincial laws, rather than practicing medicine, which was not allowed under such laws. The *Wallsten* *and Lakeside Properties* case is distinguishable in that the facts clearly indicated that Lakeside was carrying out its activities in violation of Mr. Wallsten's contract with Sun Life.
+
+### Question 3
+
+Since the CCRA is not following this decision, why didn't it appeal this case?
+
+### Response 3
+
+The impact of the decision in this case was likely under-estimated. This is not unusual given the nature of the proceedings under the informal procedure, and the volume of cases dealt with each year. We will likely get the opportunity to test this issue in the courts again.
+
+### Question 4
+
+Will the CCRA allow insurance agents, realtors, or similar professionals to report their commission income through a corporation where they are not otherwise precluded from assigning such income to the corporation?
+
+### Response 4
+
+Yes. If the corporation is carrying on the business, then the commission income would be reported by the corporation.
+
+## Series of Transactions
+
+### Question 1
+
+The decision in *Granite Bay Charters Ltd. v. The Queen* (2001 DTC 615) gives the expression "series of transactions" a broader interpretation than most practitioners would have thought. Will CCRA apply this interpretation in all cases?
+
+### Response 1
+
+In our view, the decision in *Granite Bay* is consistent with our longstanding interpretation that a preliminary transaction will be considered to be part of a series of subsequent transactions, even though, at the time of completion of the preliminary transaction, the taxpayer either had not determined all the important elements of the subsequent transactions such as the identity of other taxpayers involved or had lacked the ability to implement the subsequent transactions.
+
+### Question 2
+
+How does the *OSFC* decision impact on your interpretation?
+
+### Response 2
+
+The recent decision in *OSFC* also considers the meaning of a "series of transactions". It considers there to be a "series of transactions" determined without reference to subsection 248(10) when each transaction in the series is pre-ordained to produce a final result. Pre-ordination means that when the first transaction of the series is implemented, all essential features of the subsequent transaction or transactions are determined by persons who have the firm intention and ability to implement them. That is, there must be no practical likelihood that the subsequent transaction or transactions will not take place.
+
+The judgment also confirms that subsection 248(10) broadens the common law meaning of "series of transactions" to include any related transactions or events completed in contemplation of the series. Whether the related transaction is completed in contemplation of the common law series requires an assessment of whether the parties to the transaction took the series into account when deciding to complete the transaction.
+
+The CCRA is studying the effect of the *OSFC* decision on our longstanding interpretation of the meaning of "series of transactions".
+
+## International Taxation
+
+### Question 1
+
+Does CCRA accept *The Queen v. William A. Dudney* (2000 DTC 6169, [2000] 2 CTC 56) decision for purposes of determining the term "fixed base"?
+
+### Response 1
+
+The CCRA will apply *Dudney* in cases where it can be concluded that, based on the facts, the taxpayer does not have sufficient physical control of space to be carrying on his or her business in a particular place. We do not propose to litigate another case based on the taxpayer's use of space within the premises of another person unless we can reasonably maintain, based on the particular facts, that the taxpayer in fact had sufficient physical control of the space to carry on those aspects of his or her business that are appropriate to the space.
+
+### Question 2
+
+What is happening with taxpayers whose assessment/reassessments have been held awaiting the decision in *Dudney*?
+
+### Response 2
+
+Current audit cases will be examined taking into account the factors set out by the Federal Court of Appeal in *Dudney*, along with other relevant factors, in order to determine the degree of control, that the taxpayer has over the space at his or her disposal. Consideration will be given as to whether there is an agency or employer-employee relationship in situations where it is determined that the taxpayer does not have sufficient physical control of the work space to establish a fixed base/permanent establishment.
+
+### Question 3
+
+What procedures are available for practitioners to obtain treaty-based waivers in respect of withholding requirements in "*Dudney*" type situations?
+
+### Response 3
+
+Generally, an application for a treaty-based waiver may be made to the taxpayer's local taxation services office, however, many, if not all, of the factors set out by the Federal Court of Appeal can only be determined until after the fact. Because of this, the CCRA waiver policy will remain unchanged; specifically, the CCRA will not grant treaty-based waivers that rely on a determination of control of space or other criteria that can only be established after all the facts are available.
